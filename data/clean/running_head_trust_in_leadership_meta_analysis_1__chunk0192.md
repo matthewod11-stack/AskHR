@@ -1,15 +1,11 @@
-## trust. Journal of Occupational Health Psychology, 17, 105-115.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: d8af1e1b06eb6eb9234c60967f3bae6375f10037
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## performance. Journal of Applied Psychology, 92, 909-927.
 
-Cropanzano, R., Anthony, E. L., Daniels, S. R., & Hall, A. V. (2017). Social exchange
+Conchie, S. M., Taylor, P. J., & Donald, I. J. (2012). Promoting safety voice with safety-
 
-theory: A critical review with theoretical remedies. Academy of Management
-
-Annals, 11, 479-516.
-
-De Jong, B. A., Dirks, K. T., & Gillespie, N. (2016). Trust and Team Performance: A Meta-
-
-Analysis of Main Effects, Moderators, and Covariates. Journal of Applied
-
-Psychology, 101, 1134-1150.
-
-Den Hartog, D. N. (2015). Ethical leadership. Annual Review of Organizational Psychology
+specific transformational leadership: The mediating role of two dimensions of

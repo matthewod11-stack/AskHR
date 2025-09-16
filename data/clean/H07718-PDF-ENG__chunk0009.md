@@ -1,17 +1,15 @@
-## series of experiments with more than 4,000 participants across a wide
+---
+source_path: H07718-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 300939bccafc618046cf77f269135ddb6229116b
+title: H07718-PDF-ENG
+---
+## on gun control, or just an individual chatting with coworkers about the
 
-variety of workplace contexts, and we consistently found that people
+news, conventional wisdom suggests that staying neutral is often the
 
-tend to be more suspicious and less trusting of coworkers, managers,
+safe option. But is it?
 
-and public ﬁgures who decline to take sides than of those who openly
+While the desire to “stay out of it” is understandable, our recent
 
-express an opinion — even if it’s an opinion with which they disagree.
-
-Furthermore, we also found that conspicuously staying neutral can
-
-cause people to assume you’re trying to hide the fact that your views
-
-oppose those of whomever you are addressing (even if they don’t),
-
-making you come across poorly even to people who actually share your
+research suggests that this approach can backﬁre. We conducted a

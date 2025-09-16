@@ -1,11 +1,13 @@
-## percentage points, from an average 15.5% growth rate the year before
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d77f2cca0396d08854916e679b3092a70198248
+title: H08FE6-PDF-ENG
+---
+## HBR / Digital Article / The High Costs of Chief Revenue Officer Turnover
 
-the CRO switches out, to an average 11.7% growth rate the ﬁrst full ﬁscal
+Our analysis paints a stark picture. A staggering 62% of companies
 
-year after the CRO switches out.
+see their revenue growth rate decline or remain ﬂat in the ﬁscal year
 
-There is a small glimmer of positivity hidden in these averages. If
-
-the company’s growth was ﬂat or declining in the year before the
-
-CRO switched out, while small, the company was more likely to see
+following a CRO change. The median rate of decline is nearly four

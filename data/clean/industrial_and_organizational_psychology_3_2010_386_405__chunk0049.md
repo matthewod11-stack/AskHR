@@ -1,3 +1,21 @@
-# Susan Mohammed: Reviews of
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: f2bbeb00947060e22c280f26a8e0aebbb80c3120
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# I–Opsychologyandworkplacedecisions
 
-One speciﬁcareathat wouldbeneﬁt from cross-fertilization between JDM and IOOB is the work on the information sharing bias in groups—the phenomena that groups are better at rehashing shared information than pooling diverse (i.e., non shared) informa- tion (e.g., Stasser & Titus, 1987). Over 2 decades of research has produced a homo- geneous body of empirical research primar- ily using a hypothetical, hidden proﬁle task (e.g., murder mystery, select the best can- didate). However, this type of design has been criticized for introducing an inherent confound because information that sup- ports a superior option is unshared, whereas information that supports an inferior option is predominantly shared (Wittenbaum,
+Thierry, 1996), but IOOB research based on expectancy theory did not keep up with all of the limitations of the rational decision-making model the way that the JDM literature did. And certainly a ﬁeld that is founded on mistakes and biases—as JDM is—is not very consistent with positive psychology. However, there are many JDM ﬁndings that have a lot of relevance to what we do. For example, Maggie Brooks and I wrote a chapter on situational judgment tests (Brooks & Highhouse, 2006), arguing that we should try to ﬁgure out what ‘‘situational judgment’’ is and try to develop a test that actually measures it.
+
+Another area that is attracting a lot of attention within IOOB is how to commu- nicate validity information beyond relying on correlations (see, e.g., Facteau, 2009; Kuncel, 2008). That is alsoa very active area within judgment and decision making. For example, Gigerenzer (Gigerenzer, Gaiss- maier, Kurz-Milcke, Schwartz, & Woloshin, 2008) argues that doctors do not under- stand the statistics they are communicating to patients. This is very relevant to us in IOOB in that we need to communicate the utility of our technology to clients—and do that in such a way that they can understand its impact. We can learn a lot from the research that is going on in JDM and we can contribute to it a lot.
+
+As another example, there was a recent discussion on whether executives are paid too much (O’Leary, Bartol, Can- nella, Greenberg, & Locke, 2009). That is a perfect area for judgment and deci- sion making to make contributions. What does it mean to be paid too much? What are the psychophysics of pay and salary perception (Highhouse, Brooks-Laber, Lin, & Spitzmueller, 2003)? How ﬂexible is too much pay (Highhouse, our idea of Luong, & Sarkar, 1999)? There is a litera- ture on jury awards of punitive damages that to these ques- tions (Sunstein, Hastie, Payne, Schkade, & Viscusi, 2002). I should add that Sil- via and Reeshad have done some very interesting work on advice giving and tak- ing (e.g., Bonaccio & Dalal, 2006), which
+
+is directly relevant
+
+to understanding how is quite relevant organizational decision makers respond to advice.
+
+Question 4: What are some examples of IOOB topics or problems where cross-fertilization from JDM has not yet occurred but would be beneﬁcial? How, speciﬁcally, would the cross- fertilizationbebeneﬁcialvis-`a-visthese IOOBtopics?
+
+team commonly research in IOOB outlets exclude work on group decision making (e.g., Mathieu, Maynard, Rapp, & Gilson, 2008). Moreover, although team task typologies include decision making (Mc- Grath, 1984), execution or performance tasks have received the primary emphasis in the IOOB literature on teams. Nevertheless, effective decision making is often a precur- sor to achieving effective team-performance outcomes. Indeed, many of the simulations and tasks frequently used in team research have a heavy decision-making component that is often not directly modeled or mea- sured in data analysis. Given the criticism that ‘‘the criteria side of the team effec- tiveness framework continues to be the least well speciﬁed’’ (Mathieu et al., 2008, p. 418), a more concerted effort to examine decision-making behaviors as part of the team criterion space would help to address this need.

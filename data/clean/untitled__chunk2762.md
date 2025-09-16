@@ -1,7 +1,11 @@
-# Books.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4d9acbc211a26d4cb87ba78ecfb8ed034d6a0963
+title: untitled
+---
+## ed.). New York: New York University Press.
 
-Sarbin, T. R. (1977). Contextualism: A world view for modern psychology. In A. Landﬁeld (Ed.), 1976 Nebraska Symposium on Motivation (pp. 1–41). Lincoln: University of Nebraska Press.
+Rychlak, J. F. (1994). Logical learning theory: A human teleology and its empirical support. Lincoln: University of Nebraska Press.
 
-Senna, D. (1998). Caucasian. New York: Riverhead Books.
-
-Shorris, E. (1992). Latinos: A biography of the people. New York:
+Said, E. W. (1994). Culture and imperialism. New York: Vintage

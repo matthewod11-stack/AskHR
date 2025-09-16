@@ -1,11 +1,15 @@
-## ensures that rules, not relationships, drive decisions. When formal
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1cd51132cb8e2cf2890855c29325d13ad24a3499
+title: H08PQR-PDF-ENG
+---
+# HBR / Digital Article / The Formal Policies That Protect Family Businesses from Interp…
 
-policies exist, families can focus on growing the business rather than
+In my teaching on and advisory work with family-controlled companies,
 
-untangling disputes or nursing resentments.
+I use a simple mantra to get people to focus on this vital message. The
 
-Let’s explore what this looks like in practice through the story of a real
+mantra is: Make policies before it’s personal.
 
-(but anonymized) family business that got it wrong before learning to
-
-get it right.
+This is more than just a governance ideal—it’s a survival strategy. It

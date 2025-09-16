@@ -1,3 +1,9 @@
-## The National Council of Women Psychologists
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 16db4790338316c06bb2e222a38cd63f5089e30a
+title: untitled
+---
+# ORGANIZATIONS AND ACTIVISM
 
-The National Council of Women Psychologists (NCWP) was founded in 1941. During World War II, women were not al- lowed to be part of the defense system of the country. Mildred Mitchell, who worked for the U.S. military, Gladys Schwesinger, and other women protested the exclusion of women (Capshew & Laszlo, 1986; Frances M. Culbertson, personal communication, March 1, 2001). They founded the NCWP to develop and promote emergency services that women psychologists could render. After the war, the group continued to carry out projects that promoted the careers of women psychologists, such as a newsletter of employment opportunities. In 1947, the name was changed to the Interna- tional Council of Women Psychologists and membership opened to women outside the United States. The organization remained a women’s organization until 1960; at that point, men were admitted and the group became the International Council of Psychologists.
+For many feminist psychologists, exposing inequity and in- justices that women face is the very core of their work. They also hold an ethic that uncovering abuses of power must be accompanied by actions aimed at reform and redress. This has required organizational structures that support and foster research, practice, and activism. Several organizations have provided venues for addressing issues of importance in the ﬁeld of the psychology of women and gender.

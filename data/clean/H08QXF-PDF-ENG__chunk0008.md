@@ -1,15 +1,21 @@
-# HBR / Digital Article / Research: Women’s Complaints of Workplace Abuse Get Ignore…
+---
+source_path: H08QXF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 122723cea8d0f79a497115495fbd6569bfa2c3c0
+title: H08QXF-PDF-ENG
+---
+# type.
 
-reporter’s gender. As we found previously, participants were less likely
+Next, we conducted a series of online experiments to replicate our
 
-to escalate reports made by women versus men, even when the alleged
+eﬀect in a controlled environment. We recruited employed adults and
 
-abuse was exactly the same.
+asked them to evaluate diﬀerent reports of abuse. We used artiﬁcial
 
-However, in one condition, we added corroborating evidence, such as
+intelligence to create identical voice recordings that diﬀered only in the
 
-chat logs. Here, we found that reports by men and women were treated
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the same. This pattern suggests that ﬁnding ways to ensure that reports
+2
 
-without strong initial corroboration are investigated is critical to close
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

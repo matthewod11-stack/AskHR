@@ -1,23 +1,19 @@
-## about with my students, with our wonderful viewers here.
-
-ADI IGNATIUS:
-
-I hope a few of the students were just horriﬁed to hear that you know
-
-about the Zoom link. But let’s set some context. Start with some data.
-
-The numbers show that despite a thriving happiness industry, people
-
-like you who think about it think we’re becoming less and less happy.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0aa98cf66b6dcbc7efbd2c7a5a0e7bd372e40808
+title: H07SHV-PDF-ENG
+---
+# the world of work.
 
 ARTHUR C. BROOKS:
 
-That’s true.
+Absolutely. And the truth is that the book is based on a lot of the things
 
-ADI IGNATIUS:
+I’ve been teaching at the Harvard Business School, a class I teach called
 
-In the US at least, the number of cases of depression are up, the number
+“Leadership and Happiness”, which is a very oversubscribed class. It has
 
-of people who self-report themselves to be happy is down. I know it’s
+180 in the seats, 400 on the waiting list, and there’s even a secret Zoom
 
-impossible to say exactly why, but what’s your hunch? What’s going on
+link they think I don’t know about. I’m happy to talk about what I talk

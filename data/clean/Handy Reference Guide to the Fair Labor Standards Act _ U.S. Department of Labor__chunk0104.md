@@ -1,5 +1,13 @@
-# behalf.
+---
+source_path: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department
+  of Labor.md
+pages: n/a-n/a
+chunk_id: f619b66e871155ac2d5e96b358ff65d9fa6f3d6f
+title: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department of
+  Labor
+---
+# Judge where appropriate.
 
-The FLSA provides that DOL may seek a U.S. District Court order to prevent the shipment of the a(cid:211)ected goods.
+An employee may file a private suit to recover back wages, an equal amount in liquidated damages, plus attorney’s fees and
 
-Employers who have willfully violated the law may be subject to criminal penalties, including fines and imprisonment.
+court costs. In such a case, the Department will not seek the same back wages and liquidated damages on that employee’s

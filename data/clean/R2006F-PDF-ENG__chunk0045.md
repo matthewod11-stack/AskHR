@@ -1,9 +1,19 @@
-## the company’s values and common purpose, and a commitment to
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e3f39d6143085792763f6606b51cbe7759a3ece
+title: R2006F-PDF-ENG
+---
+# eﬀective collaborators.
 
-separating how right from how hard a particular path is so that the diﬃculty of executing a decision doesn’t prevent its being selected.
+That doesn’t mean people can’t express their points of view. Leaders are
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+expected to hold strong, well-grounded views and advocate forcefully
 
-12
+for them, yet also be willing to change their minds when presented
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with evidence that others’ views are better. Doing so is not always
+
+easy, of course. A leader’s ability to be both partisan and open-minded
+
+is facilitated by two things: deep understanding of and devotion to

@@ -1,11 +1,7 @@
-## consensus among scholars and policymakers on the signiﬁcance of
-
-ensuring that the labor market remains competitive. To that end, the
-
-FTC received more than 26,000 comments on the proposed rule (I
-
-submitted two), with over 25,000 of the comments supporting the
-
-rule. In terms of wider U.S. public opinion, an Ipsos survey in 2023
-
-found that most Americans supported banning noncompetes.
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74d44fbad77b0340b83829e2a80fbc421bddc436
+title: H087Y6-PDF-ENG
+---
+## HBR / Digital Article / The FTC’s Noncompete Ban Was Long Overdue

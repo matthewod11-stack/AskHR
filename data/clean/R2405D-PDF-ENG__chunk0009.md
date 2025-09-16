@@ -1,11 +1,23 @@
-# recommendations.
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf2c315460f81b958007091ddf929b915be80947
+title: R2405D-PDF-ENG
+---
+# study?
 
-Whether evidence comes from an outside study or internal data,
+- Was an experiment conducted? If not, what approach was used
 
-walking through it thoroughly before making major decisions is crucial.
+to understand whether higher wages were driving the productivity
 
-In our interactions with companies—including data-heavy tech ﬁrms
+change or simply reﬂecting it?
 
-—we’ve noticed that this practice isn’t consistently followed. Too
+- What measures of productivity were used, and how long were the
 
-often predetermined beliefs, problematic comparisons, and groupthink
+eﬀects measured?
+
+- What other analyses or data might be relevant?
+
+Of course, tone matters. These questions must be asked in a
+
+genuine spirit of curiosity, with a desire to learn and get sound

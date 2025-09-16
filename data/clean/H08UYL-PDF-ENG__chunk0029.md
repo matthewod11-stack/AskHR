@@ -1,9 +1,19 @@
-## into the room with clarity and conﬁdence.
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 75e38d353fcf8796a6b7fd4a28b63b810438f214
+title: H08UYL-PDF-ENG
+---
+## meeting, a contentious performance review, or a major client pitch.
 
-. . .
+Ask a trusted advisor:
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- How does this message land with you?
 
-8
+- What do you take away from it?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- What needs to be changed, clariﬁed, or simpliﬁed?
+
+- How can I make it more inspiring and impactful?
+
+Pressure-testing helps you distill your message, reduce noise, and walk

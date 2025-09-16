@@ -1,9 +1,19 @@
-# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94b80a13a5ff9cd7950e2626a44cd1abae365164
+title: R2401G-PDF-ENG
+---
+## administrators at a California social services agency identify and
 
-—usually handoﬀs between silos—where clients reported “waiting”
+remove pain points for clients—especially obstacles that caused
 
-and “still waiting” and feeling “invisible” and “this is too hard.”
+unnecessary delay and despair among applicants. Gurdus and Woodson
 
-Then they worked with administrators to remove impediments to
+used client interviews to identify junctures in the application process
 
-communication across silos, which, in turn, reduced waiting times and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

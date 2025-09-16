@@ -1,9 +1,7 @@
-# Prepare to Course Correct
-
-Any plan needs to be ﬂexible in the face of new information, and that is
-
-particularly true when considering the employee experience in an M&A
-
-situation. Rigidity in the face of newly uncovered information about
-
-the acquired ﬁrm can signal a lack of appreciation, hurting employee
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af927ab47215683567aebac7fb4eb7e49bac4945
+title: H08ON1-PDF-ENG
+---
+# HBR / Digital Article / A Guide to Building a Unified Culture After a Merger or Acquisiti…

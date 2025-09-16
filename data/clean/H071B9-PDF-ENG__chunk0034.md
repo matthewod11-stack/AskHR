@@ -1,19 +1,21 @@
-## HBR / Digital Article / When Trust Takes Away from Effective Collaboration
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe10065d171a937a476fa23ddc1330469505fa2d
+title: H071B9-PDF-ENG
+---
+# the behaviors above amplify.
 
-- Trust is important to many aspects of organizational success, but
+How to keep trust from getting in the way
 
-interpersonal trust is not a prerequisite for collaboration. This is
+To maximize productive behavior and strategic progress when
 
-important, as the inaccurate notion that “collaboration is all about
+gathering diverse groups to solve important, complex challenges,
 
-trust” is deeply rooted.
+leaders are wise to communicate that:
 
-- Feelings of trust and distrust are natural when collaborating with new
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-individuals. However, they’re intuitive biases and should be set aside.
+5
 
-Consider the advice of Nobel prize winner Daniel Kahneman: “Delay
-
-forming an intuition too quickly. Instead, focus on the separate
-
-points, and when you have the full profile, then you can develop an
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

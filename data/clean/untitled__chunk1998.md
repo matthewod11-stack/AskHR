@@ -1,13 +1,11 @@
-# Norton.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0b70219cb02e8a6388bd42c4c1fb5962c58f6343
+title: untitled
+---
+# Brace, Jovanovich.
 
-Huesmann, L. R., Eron, L. D., Lefkowitz, M. M., & Walder, L. O. (1984). Stability of aggression over time and generations. Devel- opmental Psychology, 20, 1120–1134.
+Hollingworth, L. S. (1918). Tentative suggestions for the certiﬁca- tion of practicing psychologists. Journal of Applied Psychology, 2, 280–284.
 
-James, W. (1890). Principles of psychology. New York: Holt.
-
-Jamison, K. R. (1992). Touched with ﬁre: Manic depressive illness
-
-and the artistic temperament. New York: Basic Books.
-
-Jamison, K. R., & Akiskal, H. S. (1983). Medication compliance in patients with bipolar disorder. Psychiatric Clinics of North America, 6, 175–192.
-
-Jones, M. C. (1924). The elimination of children’s fears. Journal of
+Horney, K. (1937). The neurotic personality of our time. New York:

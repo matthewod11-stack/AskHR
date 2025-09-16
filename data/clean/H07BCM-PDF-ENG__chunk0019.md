@@ -1,15 +1,21 @@
-# future.
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b66dcc92598a4d39755563e177b827706abb716b
+title: H07BCM-PDF-ENG
+---
+## veteran of a 15-year career and responsible for the strategic direction of
 
-We asked Em to literally draw a prototype of a possible next step for
+a philanthropic organization, she found that her workload was wearing
 
-her. She sketched a journey with diverging paths and herself with an
+her down and limiting the time she could spend with her young family.
 
-inner compass that was fueled by intuition. She considered each of the
+She was surprised to ﬁnd that she felt disconnected from a job she had
 
-possible future paths, asking herself: How energizing it would be? How much it ﬁt her own skill sets? And, how it would aﬀect the rate and
+once loved. Every time she started to imagine doing something else,
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+she reasoned that the job had once been engaging and that there were
 
-4
+others lining up for her role. Her rationalizations prevented her from
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+paying attention to her felt sense of disquiet and of imagining a new

@@ -1,9 +1,33 @@
-# outcomes.
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46a6844b455bea28b19378c2af2eeae555711c31
+title: R2405H-PDF-ENG
+---
+## HBR / Magazine Article / Safety Should Be a Performance Driver
 
-First, the guards conduct inspections of jail cells every 30 minutes,
+Anticipate and prevent problems. Once managers have internalized the
 
-enabling them to identify and preemptively address inmates who are
+business case for safety and adopted reliable metrics for measuring
 
-displaying aggressive or self-harming tendencies. Second, leadership
+success, they readily seek tools and adopt practices that help them
 
-has invested in technology to automate the monitoring of the
+anticipate and prevent safety problems. The nursing-home chain, for
+
+example, provided nursing assistants with wearable ﬂashlights so that
+
+they could easily detect the onset of bedsores. The school district
+
+developed a smartphone-based system that allowed students to record
+
+and report safety incidents. It also trained its teachers and staﬀ to
+
+identify signs of student distress and to proactively reach out.
+
+The Harris County Sheriﬀ’s Oﬃce, which runs one of the largest
+
+prison systems in Texas, provides another example. Improving safety
+
+—reducing inmates’ self-harm attempts, drug abuse, ﬁghting, suicide attempts, and illness—is a key element of its overall strategy. The oﬃce
+
+has taken a multipronged approach to measuring and improving safety

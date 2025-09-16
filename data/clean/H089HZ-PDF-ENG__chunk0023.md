@@ -1,15 +1,11 @@
-# of an exciting innovation or success.
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 06d661a3cbaae05f3020a2dcf86bb12430fec6f2
+title: H089HZ-PDF-ENG
+---
+# HBR / Digital Article / Leaders Need to Reframe the Return-to-Office Conversation
 
-It’s important to note that the same holds true in the other direction:
+organizational beneﬁt rather than an individual one, remember that, as
 
-Many of the arguments advocating ﬂexibility focus on employees’
-
-desire for more control over their work. Foundational research on
-
-the job characteristics model, however, shows that designing jobs
-
-with more employee autonomy has real and meaningful beneﬁts
-
-for the organization as well — and not just by making employees
-
-happier and thereby reducing turnover. A greater sense of personal
+individuals, we also experience psychological beneﬁts from being a part

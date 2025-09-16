@@ -1,9 +1,15 @@
-## Through a process that the University of Michigan organizational
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a69933344f1657676a6dc10b283e6eb35359d35
+title: R2504J-PDF-ENG
+---
+# Why: Seeing Is Believing
 
-psychologist Karl Weick calls “sensemaking,” executives develop an
+Most executives agree that business strategy is a set of choices regarding
 
-understanding of their business context and how their ﬁrm will operate
+how and where a ﬁrm wants to create value and compete. But what
 
-in it. This generally involves categorizing types of competitors and
+many forget is that strategy also requires an interpretation of what the
 
-potential customers and identifying the ﬁrm’s key resources and
+choices imply, which needs to be explained simply and clearly.

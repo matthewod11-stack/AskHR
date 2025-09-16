@@ -1,11 +1,9 @@
-# theirs.”
+---
+source_path: H08QO6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b54d5d58d32880e971af2c3765eeea1483b50bf8
+title: H08QO6-PDF-ENG
+---
+## HBR / Digital Article / How to Delegate to Someone Who Doesn’t Report to You
 
-The higher you rise, the more your success depends on delivering
-
-results through people who don’t report to you, namely your peers.
-
-Sometimes you need specialized expertise, like a forecast from Finance
-
-or a contract from Legal. Other times, you simply need more hands to
-
-deliver at the scale and pace your projects demand, requiring you to
+half my day convincing colleagues to prioritize my projects alongside

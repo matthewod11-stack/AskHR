@@ -1,5 +1,9 @@
-# Introduction
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: 12e37dec0c8495df7dfbaf8ef9aa088955bcad20
+title: eur_research_information_portal
+---
+## A Multi-Level Framework of Inclusive Leadership in Organizations
 
-Following an explosion of research on inclusion and inclusive climates in an organizational context has been a growing interest in inclusive leadership. Questions about how diversity and inclusion differ, and whether inclusion is a necessary precondition for retaining an increasingly diverse workforce and leveraging its positive performance potential, are no longer of central focus. The next frontier of research has to do with how to facilitate employees’ inclusion experiences and cultivate inclusive climates. Of course, organiza- tional practices matter,but when it comes to inclusion, people’s more local and interpersonal experiences make all the difference—and herein lies the es- sential role of leaders, at every level of the organization. While senior leaders espouse the organization’s ideals, set strategy, and are responsible for de- signing policies and practices that make it more likely that employees perceive the organization as being committed to inclusion, it is lower-level leaders who are responsible for translating those espousals and policies into action (Mor Barak et al., pp. 798–839; Nishii, Khattab, Shemla & Paluch, 2018). It is up to them to implement organizational strategies andpractices in ways that actually promote everyday experiences of inclusion for employees (Nishii & Leroy, 2021). Hence, at every level, leaders are foundational to employees’ expe- riences of inclusion.
-
-In almost every fast-growing literature, the need for construct cleanup arises as research splinters in ways that make it difﬁcult to understand whether different conceptualizations and measurement tools are meaningfully different or are instead merely different labels for essentially the same underlying construct. And when they do differ, questions about how they differ and whether they differ in practically meaningful ways soon follow. When a lit- erature becomes fractured, it becomes much more difﬁcult to understand how existing research ﬁts together and what we have collectively learned as a ﬁeld. One of our goals in this special issue was to avoid perpetuating this problem,
+Group & Organization Management 2022, Vol. 47(4) 683–722 © The Author(s) 2022 Article reuse guidelines: sagepub.com/journals-permissions DOI: 10.1177/10596011221111505 journals.sagepub.com/home/gom

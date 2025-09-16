@@ -1,11 +1,13 @@
-# future.
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae9f9751607573043e713b6cb600bf135edf8089
+title: H07VZN-PDF-ENG
+---
+## consumer of electronics and electric vehicles, and the world’s largest
 
-Unfortunately, it’s not easy to know how best to do that. China hasn’t
+growth market for luxury goods. Sector by sector, the list goes on, with
 
-been this consequential to the global economy since the early 1800s,
+China always the global number one or two. Given all of these factors,
 
-but the country is now more opaque than it has been at any point
-
-since global businesses really started to enter the market in the early
-
-1990s. A lot of that has to do with the rapidly diminishing number of
+many businesses will simply have to make China some part of their

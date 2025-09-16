@@ -1,3 +1,11 @@
-# and trends.
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93a89ca0d932af21bbafc2b578e9b8168f41a25a
+title: R2502C-PDF-ENG
+---
+# strategic ﬁt.
 
-- 4. Macro forces. Macro forces are factors outside a company that can signiﬁcantly aﬀect its performance. They include economic conditions, demographic trends, political and legal factors, cultural
+One of the greatest challenges to maintaining this kind of strategic ﬁt is
+
+adapting to sustain stakeholder value creation through cyclical changes

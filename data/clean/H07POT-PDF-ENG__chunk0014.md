@@ -1,17 +1,33 @@
-## rent, transportation, food, and health care.
+---
+source_path: H07POT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a99685c3ba9d90d191c5eb67327fe8c1c5aab6ce
+title: H07POT-PDF-ENG
+---
+## HBR / Digital Article / Worried About Impending Layoffs?
 
-To be ﬁnancially ready, you don’t necessarily need to save a substantial
+As you consider what beneﬁts you most want from an employer,
 
-amount of money from each paycheck — start small and increase your
+reconsider your core values and ask yourself these questions:
 
-savings rate occasionally. For example, you might begin with socking
+- What makes me happy and whole?
 
-away 5% of your pay, then gradually increase that percentage. For your
+- What truly satisﬁes me?
 
-emergency fund, consider investing the money in a high-yield savings
+- Where have I given away too much of myself for little return?
 
-account, which oﬀers a signiﬁcantly higher interest rate or annual
+Get your finances in order.
 
-percentage yield than a traditional savings account but is less volatile
+Some organizations provide severance payouts to employees impacted
 
-than investing in the stock market.
+by downsizing, but not all.
+
+If you have cash in an emergency savings account, you’ll be
+
+better prepared, since it can supplement any severance pay and
+
+unemployment insurance you receive. Financial experts recommend
+
+that people have three to six months’ worth of living expenses saved up,
+
+which means having enough money to cover essential expenses such as

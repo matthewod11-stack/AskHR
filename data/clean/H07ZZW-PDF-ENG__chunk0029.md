@@ -1,13 +1,25 @@
-# from political and regulatory failures.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21ebc7d9c572d29ce9aa448a215883a9a90dd4f8
+title: H07ZZW-PDF-ENG
+---
+## human rights violations, such as Saudi Arabia. Consumers increasingly
 
-Business has become enmeshed with politics and social issues. For
+hold brands responsible for environmental irresponsibility and forced
 
-years, big business steered clear of taking overt political stances: After
+labor in their supply chains, but those same consumers still want the
 
-all, why would they want to alienate any potential customers? But in
+stuﬀ they ordered, right now.
 
-reality, the bright line demarcating business and politics has never been
+These are not merely questions of geopolitical risk in a multipolar
 
-more than a convenient story — one that has become less credible with
+world. As University of Chicago professor Luigi Zingales pithily puts
 
-each passing year. The aftermath of the 2008 ﬁnancial crisis featured
+it, “We now have the politicization of the corporate world because we
+
+have corporatization of the political world.” In other words, the public
+
+believes businesses are more responsive to its dictates than nation-
+
+states are, and it expects business to play a larger role in a world reeling

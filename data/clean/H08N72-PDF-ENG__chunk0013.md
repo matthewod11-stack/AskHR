@@ -1,27 +1,31 @@
-## some cheerleading, and push you outside of your comfort zone so that
+---
+source_path: H08N72-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b39f2cce72562d26586923f2ded9bcd76c92e5d1
+title: H08N72-PDF-ENG
+---
+# for your future at the organization.
 
-you can learn and grow. These are the people whose support you’ll need
+Furthermore, consider if you have shared or competing goals. Can you
 
-if a colleague who feels threatened by you starts to make trouble.
+both get what you want? Or does one person need to lose for another to
 
-But in reviewing your allies, it’s also worth asking: Have you noticed
+win? You’ll want to create an inventory of potential ways they could seek
 
-any changes in their actions toward you? Have they stopped returning
+to harm you (for instance, speaking up against you when it’s time for promotions, or keeping you oﬀ an inﬂuential committee) and develop
 
-your calls or texts? Are they avoiding opportunities to interact? Perhaps
+strategies to mitigate against those risks. And you’ll likely need to take
 
-they’re no longer swinging by your oﬃce for a quick chat or they’re
+further direct action, whether it’s speaking to them again, or possibly
 
-only reaching out to you when they need something? Did they suddenly
+raising the issue with their boss.
 
-unfriend you on social media or stop engaging with your posts?
+- 4. Find out who your true allies are.
 
-Everyone has busy periods, but if someone has started avoiding you
+There are people in your circle of trust who have always had your back
 
-on an ongoing basis, it’s likely a sign that you can no longer count
+and are excited for you when you succeed. In fact, they might have had
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+an inﬂuential role by supporting you either publicly or privately. They
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+amplify your work in front of others, encourage you when you need

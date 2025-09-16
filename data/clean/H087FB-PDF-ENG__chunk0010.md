@@ -1,5 +1,19 @@
-## HBR / Digital Article / How to Rethink Your Career as an Empty Nester
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f42fca5d1537dedf4e02a57a7726a6e73aa392fb
+title: H087FB-PDF-ENG
+---
+# Take Time to Rest
 
-level). If you haven’t proactively planned for this phase, you may be at a
+Perhaps you’re sad about your new circumstances and you’re grieving
 
-loss as to how to ﬁll your time. What opportunity does your extra time
+the time you had with your children; you may even feel resistance if
+
+you didn’t want this change to happen (on a conscious or subconscious
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

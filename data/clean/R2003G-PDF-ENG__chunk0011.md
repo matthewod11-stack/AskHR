@@ -1,9 +1,13 @@
-## Patrick Aylward, a vice president and CoS at Horizon Blue Cross Blue
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3fe907bee33930ec8132bc14cb44e33f0749c559
+title: R2003G-PDF-ENG
+---
+# them hire for and structure the job.
 
-Shield of New Jersey, breaks the job down into ﬁve roles: serving
+Although each leader should tailor the position to his or her own
 
-as an air traffic controller for the leader and the senior team; as
+needs, the CoS should handle several principal duties, all focused
 
-an integrator connecting work streams that would otherwise remain
-
-siloed; as a communicator linking the leadership team and the broader
+on making time, information, and decision processes more eﬀective.

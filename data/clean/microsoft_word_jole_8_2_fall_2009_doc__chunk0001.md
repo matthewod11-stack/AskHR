@@ -1,5 +1,7 @@
-## Leadership Development through Sports Team Participation
-
-Marian M. Extejt Professor of Management Gabelli School of Business Roger Williams University Bristol, RI 02809 mextejt@rwu.edu
-
-Jonathan E. Smith Professor of Management Boler School of Business John Carroll University University Heights, OH 44118 jsmith@jcu.edu
+---
+source_path: microsoft_word_jole_8_2_fall_2009_doc.md
+pages: n/a-n/a
+chunk_id: c6172eadd2480788510d989c6e9fd8b7218e9e94
+title: microsoft_word_jole_8_2_fall_2009_doc
+---
+## Journal of Leadership Education Volume 8, Issue 2 – Fall 2009

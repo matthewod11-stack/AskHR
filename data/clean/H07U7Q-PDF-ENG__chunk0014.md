@@ -1,19 +1,37 @@
-# together.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cff4165caa306dffe7826d3165d756f18e03835
+title: H07U7Q-PDF-ENG
+---
+# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
 
-It’s also about being authentic to yourself and at the same time making
+JASON BUECHEL:
 
-sure that you’re supporting the company and where it needs to go.
+It’s important to understand the voice of the team members. What are
 
-ADI IGNATIUS:
+they looking for in that transition and what’s important for them? For
 
-Your path to CEO is not typical. Maybe no one’s is, but yours in
+me, I took an opportunity over those 11 months to do something we call
 
-particular isn’t. Talk about your past and your life and career and how it
+the Whole Conversations Tour, which gave me some great insights for
 
-ended up in this role?
+what was on the mind of our team members.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+In some cases, they had fears with John’s retirement of whether there
 
-4
+are going to be major changes to our culture or our quality standards?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+What are things going to look like going forward? For our stakeholders,
+
+whether it was suppliers or customers, community partners, I think it’s
+
+important to understand the voice of all of those stakeholders as you’re
+
+making the transition.
+
+I think the other part I would give advice on is making sure that you’re
+
+not just trying to be that leader. For me, John and I, we lead in very
+
+diﬀerent ways and that’s why we were so complementary in working

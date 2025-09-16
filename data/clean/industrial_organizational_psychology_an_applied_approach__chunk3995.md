@@ -1,17 +1,13 @@
-## Single-strand grapevine A pattern of grapevine
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b15e8d8b55a06f72eee6b9405f66da449eb20ed6
+title: industrial_organizational_psychology_an_applied_approach
+---
+## as a result of theft, breakage, or other loss.
 
-communication in which a message is passed in a chainlike fashion from one person to the next until the chain is broken.
+Simulation An exercise designed to place an applicant
 
-Situational question A structured-interview technique in which applicants are presented with a series of situations and asked how they would handle each one.
+in a situation that is similar to the one that will be encountered on the job.
 
-Situational leadership theory A theory of leadership stating that effective leaders must adapt their style of leadership to fit both the situation and the followers.
-
-Situational self-esteem The positive or negative way in
-
-which a person views him or herself in a particular situation.
-
-Situation-wanted ads Newspaper advertisements run by applicants looking for jobs rather than by organi- zations looking for applicants.
-
-Skill Proficiency to perform a particular task. Skill-level determiner A type of structured-interview question designed to tap an applicant’s knowledge or skill.
-
-Skill test A test that measures an employee’s level of
+Single-group validity The characteristic of a test that significantly predicts a criterion for one class of people but not for another.

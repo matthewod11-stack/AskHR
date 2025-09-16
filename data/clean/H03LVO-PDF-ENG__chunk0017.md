@@ -1,11 +1,7 @@
-# inventor, and U.S.-born engineers.
-
-Our study also shows that immigrants were paid less on average
-
-than domestic inventors, despite being more productive in terms of patenting. The precise source of this wage penalty is diﬃcult to
-
-pin down; however, inventors from other marginalized groups, such
-
-as black and female inventors, were also paid less than similarly
-
-productive white males. Our evidence is therefore consistent with
+---
+source_path: H03LVO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 052c5cb8fd58d64f6e0988736cf26bc54c21a801
+title: H03LVO-PDF-ENG
+---
+## Ladislaus Marton, a Belgian inventor, Vladimir Zworykin, a Russian

@@ -1,47 +1,45 @@
-# International Journal of Case Studies in Business, IT, and Education (IJCSBE), ISSN: 2581-6942, Vol. 7, No. 2, June 2023
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: bb14f59abc444b3251f11cd2e7702e770400839d
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+## Knowledge Management, 9(4), 328-339.Google Scholar 
 
-SRINIVAS PUBLICATION [94] A person-oriented approach to characterizing beginning teachers in alternative Chin, E., & Young, J. W. (2007). certification programs. Educational researcher, 36(2), 74-83. Google Scholar  [95] Halbesleben, J. R., & Buckley, M. R. (2004). Burnout in organizational life. Journal of
+[79] Altman, M. (2002). Economic theory and the challenge of innovative work practices. Economic
 
-management, 30(6), 859-879. Google Scholar 
+and Industrial Democracy, 23(2), 271-290. Google Scholar 
 
-[96] Nielsen, K., Nielsen, M. B., Ogbonnaya, C., Känsälä, M., Saari, E., & Isaksson, K. (2017). Workplace resources to improve both employee well-being and performance: A systematic review and meta-analysis. Work & Stress, 31(2), 101-120. Google Scholar 
+[80] Iqbal, J., Asghar, A., & Asghar, M. Z. (2022). Effect of despotic leadership on employee turnover intention: mediating toxic workplace environment and cognitive distraction in academic institutions. Behavioral Sciences, 12(5), 125-148. Google Scholar 
 
-[97] Bakker, A. B., & Sanz-Vergel, A. I. (2013). Weekly work engagement and flourishing: The role of hindrance and challenge job demands. Journal of Vocational Behavior, 83(3), 397-409. Google Scholar 
+[81] Zhitlukhina, O. G., Babak, L. N., Rakutko, S. Y., Selezneva, E. Y., Denisevich, E. I., Berezhnova, E. I., ... & Mikhalyova, O. L. (2018). Specificity of the relationship between project management and organizational culture. Journal of Entrepreneurship Education, 21(3), 1-9.Google Scholar  [82] Fiordelisi, F., Renneboog, L., Ricci, O., & Lopes, S. S. (2019). Creative corporate culture and innovation. Journal of International Financial Markets, Institutions and Money, 63(1),1- 33).Google Scholar 
 
-[98] Nnaebue, C. I., Nwangwu, N. I., Okeke, H. C., & Idimmachukwu, I. C. (2022). Leader-member exchange and abusive supervision as predictors of psychological well-being. The Universal Academic Research Journal, 5(2), 86-98. Google Scholar 
+[83] Stanislavov, I., & Ivanov, S. (2014). The role of leadership for shaping organizational culture and building employee engagement in the Bulgarian gaming industry. Tourism: An International Interdisciplinary Journal, 62(1), 19-40. Google Scholar 
 
-[99] Newman, A., Donohue, R., & Eva, N. (2017). Psychological safety: A systematic review of the
+[84] Austin, M. J., & Ciaassen, J. (2008). Impact of organizational change on organizational culture: Implications for introducing evidence-based practice. Journal of Evidence-Based Social Work, 5(1-2), 321-359. Google Scholar 
 
-literature. Human resource management review, 27(3), 521-535. Google Scholar 
+[85] Mitonga-Monga, J., Flotman, A. P., & Cilliers, F. (2016). Workplace ethics culture and work engagement: The mediating effect of ethical leadership in a developing world context. Journal of Psychology in Africa, 26(4), 326-333. Google Scholar 
 
-[100] Caumo, G. H., Spritzer, D., Carissimi, A., & Tonon, A. C. (2020). Exposure to electronic devices and sleep quality in adolescents: A matter of type, duration, and timing. Sleep health, 6(2), 172- 178.Google Scholar 
+[86] Halbesleben, J. R., & Rathert, C. (2008). The role of continuous quality improvement and psychological safety in predicting work-arounds. Health care management review, 33(2), 134-144. Google Scholar 
 
-[101] Kopp, M. S., Stauder, A., Purebl, G., Janszky, I., & Skrabski, A. (2008). Work stress and mental health in a changing society. European Journal of Public Health, 18(3), 238-244. Google Scholar 
+[87] Subel, S., Stepanek, M., & Roulet, T. (2022). How shifts in remote behavior affect employee well-
 
-[102] Cooper, C., & Dewe, P. (2008). Well-being—absenteeism, presenteeism, costs and challenges.
+being. MIT Sloan Management Review, 63(3), 1-6. Google Scholar 
 
-Occupational medicine, 58(8), 522-524. Google Scholar 
+[88] Højgaard, L. (2002). Tracing differentiation in gendered leadership: an analysis of differences in gender composition in top management in business, politics and the civil service. Gender, Work & Organization, 9(1), 15-38.Google Scholar 
 
-[103] Beehr, T. A., & Glazer, S. (2001). A cultural perspective of social support in relation to occupational stress. In Exploring theoretical mechanisms and perspectives. Emerald Group Publishing Limited ,1(1), 97-142. Google Scholar 
+[89] Rivers, M. N. (2019). A review of autocratic, paternalistic, and charismatic leadership in three
 
-[104] Couser, G. P. (2008). Challenges and opportunities for preventing depression in the workplace: a review of the evidence supporting workplace factors and interventions. Journal of Occupational and Environmental Medicine, 411-427. Google Scholar 
+collectivist cultures. Emerging leadership journeys, 12(1), 68-104. Google Scholar 
 
-[105] Couser, G. P. (2008). Challenges and Opportunities for Preventing Depression in the Workplace: A Review of the Evidence Supporting Workplace Factors and Interventions. Journal of Occupational and Environmental Medicine, 50(4), 411–427. Google Scholar 
+[90] Marsh, S., Waniganayake, M., & Gibson, I. W. (2014). Scaffolding leadership for learning in school education: Insights from a factor analysis of research conducted in Australian independent schools. Educational Management Administration & Leadership, 42(4), 474-490.Google Scholar 
 
-[106] Taylor, C., Mattick, K., Carrieri, D., Cox, A., & Maben, J. (2022). ‘The WOW factors’: comparing workforce organization and well-being for doctors, nurses, midwives and paramedics in England. British medical bulletin, 141(1), 60-79. Google Scholar 
+[91] Kumar, R., Kumar, V., & Singh, S. (2018). Work culture enablers: hierarchical design for effectiveness and efficiency. International Journal of Lean Enterprise Research, 2(3), 189-201. Google Scholar 
 
-[107] Bigliardi, B., Ivo Dormio, A., Galati, F., & Schiuma, G. (2012). The impact of organizational culture on the job satisfaction of knowledge workers. Vine, 42(1), 36-51. Google Scholar  [108] Yeh, Y. C., Lin, B. Y. J., Lin, W. H., & Wan, T. T. (2010). Job stress: its relationship to hospital pharmacists’ insomnia and work outcomes. International journal of behavioral medicine, 17(1), 143-153. Google Scholar 
+[92] Timms, C., Brough, P., O'Driscoll, M., Kalliath, T., Siu, O. L., Sit, C., & Lo, D. (2015). Flexible work arrangements, work engagement, turnover intentions and psychological health. Asia Pacific Journal of Human Resources, 53(1), 83-103. Google Scholar 
 
-[109] Misra, R. K., & Sharma, D. (2022). Understanding workplace bullying: a conceptual review.
-
-International Journal of Management Practice, 15(3), 346-363. Google Scholar 
-
-[110] Chopra, P. (2009). Mental health and the workplace: issues for developing countries. International
-
-Journal of Mental Health Systems, 3(1), 1-9. Google Scholar 
-
-[111] Raza, M. A., Imran, M., Rosak-Szyrocka, J., Vasa, L., & Hadi, N. U. (2023). Organizational Change and Workplace Incivility: Mediated by Stress, Moderated by Emotional Exhaustion.
+[93] Carroll, J. M., Neale, D. C., Isenhour, P. L., Rosson, M. B., & McCrickard, D. S. (2003). Notification and awareness: synchronizing task-oriented collaborative activity. International Journal of Human-Computer Studies, 58(5), 605-632. Google Scholar 
 
 Elvira Monteiro., et al, (2023); www.srinivaspublication.com
 
-PAGE 316
+PAGE 315

@@ -1,3 +1,9 @@
-# study which
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: e6c57167bca1c90dce63ae77850de93ec30616e6
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Scope of the Study
 
-included
+The study was confined to Mukurwe-ini Wakulima Dairy employees. The company impacts on the Agribusiness activities, giving farmers availability of investment opportunities in dairy sector. The study targeted 130 employees according to the records available as per February, 2015 but a sample of 65 was used for this study. The study limited itself to variables under employee reprimand system, code of conduct, disciplinary procedures and rules and regulations on employee performance in Kenya.

@@ -1,13 +1,13 @@
-## Validity Career Workshop: Evaluating Tests 215 Cost-effi ciency
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bbce04b1fbbffe7f6613ce75dd9aecfdee34b668
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Employment Profi le
 
-209
+226
 
-Establishing the Usefulness of a Selection Device Taylor-Russell Tables Proportion of Correct Decisions Lawshe Tables
+227
 
- 216
-
-221
-
-217
-
-210
+228

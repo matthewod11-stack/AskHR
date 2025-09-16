@@ -1,19 +1,17 @@
-## valuable insights into our values, needs, and limits. Judging and
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58fc6bef990e2a469f50a7896330d42174d10b64
+title: H08TK8-PDF-ENG
+---
+# yourself:
 
-resisting them only escalates the feeling and increases your reactivity.
+- What am I feeling?
 
-Consider writing down your responses to these questions. Writing
+- Where do I feel it in my body?
 
-creates space between you and your emotions, allowing you to identify
+- What are my emotions trying to tell me?
 
-meaning and purposeful next steps. Furthermore, research has shown
+- What do they reveal about what matters to me?
 
-that writing about your feelings for just 20 minutes a day over three
-
-days can improve both mental and physical health, reduce anxiety,
-
-and even boost job performance. If writing isn’t your cup of tea, try
-
-leaving yourself a voice memo instead. What matters most is giving your
-
-thoughts and true feelings space to surface without editing or ﬁltering.
+Acknowledge and accept your feelings without judgment. All emotions —even the unpleasant ones like frustration, sadness, or anxiety—oﬀer

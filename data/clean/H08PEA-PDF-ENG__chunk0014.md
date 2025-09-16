@@ -1,11 +1,11 @@
-## 93 French workers both in the morning and evening over three to
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f12697c4f99d4924913af16b958c8f63bd18a8a
+title: H08PEA-PDF-ENG
+---
+## HBR / Digital Article / Research: When Extra Effort Makes You Worse at Your Job
 
-seven workdays. This gave us an accurate baseline of daily cognitive
+could have inﬂuenced end-of-day test scores regardless of proactivity.
 
-performance. We also included questions about workload, conﬂict
-
-with coworkers, and multitasking to exclude other factors that may
-
-explain our ﬁndings. Even after accounting for these factors, we still
-
-found that proactivity was associated with poorer end-of-day cognitive
+So, in our second study, we tested the cognitive performance of

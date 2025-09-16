@@ -1,13 +1,11 @@
-# Bravery as a Choice
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d6cec4d2d20152f8fd799c39eb7e5f7fcbac92a
+title: R2505C-PDF-ENG
+---
+## stories—some through archival research, others through more than
 
-I deﬁne courage as a willingness to take bold, risky action to serve a
+200 detailed interviews—and distilled the insights into a playbook for
 
-purpose that you perceive to be worthy, usually in the face of an abiding
-
-fear. It can involve accepting a physical challenge, making yourself
-
-emotionally vulnerable, risking social or economic standing for your
-
-moral beliefs, or publicly championing new and unorthodox ideas. And
-
-as Nelson Mandela famously said, it is not the absence of fear but
+anyone looking to be more intrepid at work.

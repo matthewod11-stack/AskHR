@@ -1,11 +1,13 @@
-# Talent Pool Strategy
+---
+source_path: talent_management_a_critical_review.md
+pages: n/a-n/a
+chunk_id: c822bc4bfd672d20faefdbba10c2b24fb30340b6
+title: talent_management_a_critical_review
+---
+# Strategy Implications for Talent
 
-(cid:129) What compensation policy should we adopt (above/below/at market)?
+Where will improvements in talent quality drive strategic gains? Where will improvements in talent fungibility drive strategic gains?
 
-(cid:129) Which pools should be linked in career
+How do we position various talent pools? (cid:129) What combination of performers (A vs.
 
-(cid:129) (cid:129)
-
-ladders? Should we “informate” certain jobs?
-
-How do we implement talent pool strategies across the company?
+B vs. C) do we need?

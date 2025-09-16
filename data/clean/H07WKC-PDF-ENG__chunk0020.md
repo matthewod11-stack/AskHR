@@ -1,13 +1,39 @@
-## HBR / Digital Article / Can GenAI Do Strategy?
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 719d21c3a509e6e132aaba3372a894451cecc26b
+title: H07WKC-PDF-ENG
+---
+## search and analytic power of the basic ChatGPT program.
 
-and the products and services they oﬀered, along with suppliers of non-
+In the next step, the AI leveraged, via a custom programmed interface,
 
-bakery products that bakery goods customers might turn to instead.
+the Blue Ocean framework connected to its basic programming to
 
-The players identiﬁed comprised a highly diversiﬁed set of businesses,
+identify which of the factors on the edited set should be eliminated,
 
-including street food vendors, ethnic grocery stores, sushi bars, candy
+reduced, raised, or created to produce a value proposition that
 
-stores, ice cream parlors, and gourmet markets oﬀering anything
+would attract the target noncustomers, presenting it as a 2D value
 
-from croissants, sandwiches, pastry rolls ﬁlled with cream cheese, and
+curve at the bottom of the screen that we could manually adjust
+
+ourselves. Once adjusted, the AI exported the data for us to produce
+
+a classic presentation-ready set of Blue Ocean value curves presenting
+
+propositions that might attract noncustomers.
+
+Mapping the ecosystem
+
+Looking toward execution, we trained the AI to map the extended
+
+ecosystems in which we would need to operate. The AI was quickly
+
+able to present the leading players in the bakery industry generally
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,11 @@
-## Kaplan, R. (1993), ``3608 feedback PLUS: boosting
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 54dd7ef8669d8c1957b641028a356f23fee223d9
+title: journal_of_european_industrial_training
+---
+# Feedback: Strategies, Tactics and Techniques for Developing Leaders, HRD Press, Armhurst, MA.
 
-the power of co-worker ratings for executives'', Human Resource Management, Vol. 32 Nos. 2 and 3, Summer/Fall, pp. 299-314. Kavanagh, M. (1997), ``I simply want to know how well I am doing!'', Group and Organization Management, Vol. 22 No. 2, June, pp. 147-8.
+Kane, J. and Lawler, E. (1978), ``Methods of peer assessment'', Psychological Bulletin, Vol. 85 No. 3, June, pp. 555-86.
 
-Keeping, L., Levy, P. and Brown, D. (1999),
-
-``Examining self-appraisal formality and expectations on appraisal reactions'', paper presented at the 14th Annual Conference of the Society of Industrial and Organizational Psychology, Atlanta, GA, April.
-
-Klimoski, R. and London, M. (1974), ``Role of the rater in performance appraisal'', Journal of Applied Psychology, Vol. 59, pp. 445-51. Lawler, E., Mohrman, A. and Resnick, S. (1984),
+Kanouse, D. (1998), ``Why multi-rater feedback systems fail'', HR Focus, Vol. 75 No. 1, January, pp. 3-4.

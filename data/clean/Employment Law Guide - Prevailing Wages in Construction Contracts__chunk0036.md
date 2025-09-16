@@ -1,11 +1,15 @@
-# termination of the contract.
+---
+source_path: Employment Law Guide - Prevailing Wages in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: b4558e941d067fed6312fe6017de52c8012d37b8
+title: Employment Law Guide - Prevailing Wages in Construction Contracts
+---
+# Penalties/Sanctions
 
-Workers have rights of action and/or of intervention against the contractor and its sureties if the amounts
+Contractors found to have disregarded their obligations to workers or subcontractors may be debarred from receiving future contracts for three years. In addition, contract payments may be withheld in suﬃcient
 
-withheld are insuﬃcient to reimburse the unpaid wages. Under such an action, it is no defense that workers
+amounts to satisfy liabilities of the contractor for unpaid wages and for liquidated damages that result from
 
-accepted less than the required rate of wages or voluntarily returned wage payments to the contractor.
+overtime violations of the Contract Work Hours and Safety Standards Act (CWHSSA). Breach of the required
 
-Contractors may challenge the Wage and Hour Division's determinations of violations and debarment before
-
-an Administrative Law Judge (ALJ). Contractors may appeal ALJ decisions and orders to the Department's Administrative Review Board (ARB). ARB determinations on violations may be appealed to and are
+contract clauses under the Davis-Bacon and Related Acts (DBRA) and CWHSSA may also be grounds for

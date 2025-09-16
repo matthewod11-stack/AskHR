@@ -1,9 +1,13 @@
-## support an entire accelerator, rather than individual products, and it
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e90ed2046bf2be134c10b44357c5d81010b08a4f
+title: R2404K-PDF-ENG
+---
+# Carolyn Doucette
 
-allowed for an appropriate time horizon to build the product portfolio,
+Ajax’s choice of partners was crucial. Unlike typical venture-capital
 
-with both a medium-term (three to ﬁve years) and a longer-term (ﬁve
+ﬁrms, Hellman & Friedman and KKR were willing to partner with a large
 
-to 10 years) pipeline. To avoid a negative impact on operating proﬁts,
-
-Cordis arranged for the accelerator to be an independent entity. As
+corporation. Their investment provided the scale of capital needed to

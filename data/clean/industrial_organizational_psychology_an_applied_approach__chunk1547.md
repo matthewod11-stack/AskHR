@@ -1,5 +1,13 @@
-# Questions for Review
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 50a8d3c08050d545e9e8c9e0703d6791808411d7
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Mental
 
-. What is the difference between reliability and validity? . What method of establishing validity is the best? . Why is the concept of test utility so important? . What is the difference between single-group and differential validity? . Why should we use anything other than top-down selection? After all,
+7
 
-shouldn’t we always hire the applicants with the highest scores?
+7
+
+7

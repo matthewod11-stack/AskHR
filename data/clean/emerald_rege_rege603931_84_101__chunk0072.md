@@ -1,3 +1,15 @@
-## Avaliação”, Revista de Administração da UFSM, Vol. 8 No. 2, pp. 249-266.
+---
+source_path: emerald_rege_rege603931_84_101.md
+pages: n/a-n/a
+chunk_id: 72018166bb78ec444d4c10f2a1ea883b587e7375
+title: emerald_rege_rege603931_84_101
+---
+# Abbad, G. and Torres, C.V.
 
-(2010), “The effects of job satisfaction and organizational commitment on voluntary turnover intentions of Thai Employees in the new university”, Review of Business Research, Vol. 10 No. 1, pp. 73-82.
+Agapito, P.R., Polizzi Filho, A. and Siqueira, M.M.M. (2015), “Bem-estar no trabalho e percepção de sucesso na carreira como antecedentes de intenção de rotatividade”, Revista de Administração Mackenzie, Vol. 16 No. 6, pp. 71-93.
+
+(cid:68)(cid:111)(cid:119)(cid:110)(cid:108)(cid:111)(cid:97)(cid:100)(cid:101)(cid:100)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:104)(cid:116)(cid:116)(cid:112)(cid:58)(cid:47)(cid:47)(cid:119)(cid:119)(cid:119)(cid:46)(cid:101)(cid:109)(cid:101)(cid:114)(cid:97)(cid:108)(cid:100)(cid:46)(cid:99)(cid:111)(cid:109)(cid:47)(cid:114)(cid:101)(cid:103)(cid:101)(cid:47)(cid:97)(cid:114)(cid:116)(cid:105)(cid:99)(cid:108)(cid:101)(cid:45)(cid:112)(cid:100)(cid:102)(cid:47)(cid:50)(cid:53)(cid:47)(cid:49)(cid:47)(cid:56)(cid:52)(cid:47)(cid:50)(cid:50)(cid:56)(cid:57)(cid:55)(cid:52)(cid:49)(cid:47)(cid:114)(cid:101)(cid:103)(cid:101)(cid:45)(cid:49)(cid:50)(cid:45)(cid:50)(cid:48)(cid:49)(cid:55)(cid:45)(cid:48)(cid:48)(cid:56)(cid:46)(cid:112)(cid:100)(cid:102)(cid:32)(cid:98)(cid:121)(cid:32)(cid:103)(cid:117)(cid:101)(cid:115)(cid:116)(cid:32)(cid:111)(cid:110)(cid:32)(cid:48)(cid:57)(cid:32)(cid:83)(cid:101)(cid:112)(cid:116)(cid:101)(cid:109)(cid:98)(cid:101)(cid:114)(cid:32)(cid:50)(cid:48)(cid:50)(cid:53)
+
+Allen, N.J. and Meyer, J.P. (1990), “The measurement and antecendents of affective, continuance and normative commitment to the organization”, Journal of Occupational Psychology, Vol. 63 No. 1, pp. 1-18, doi: 10.1111/j.2044-8325.1990.tb00506.x.
+
+Almeida, B.C. and Paula, S.L. (2015), “Política de Esporte e Lazer: a Elaboração de um Instrumento de

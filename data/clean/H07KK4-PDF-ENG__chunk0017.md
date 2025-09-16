@@ -1,13 +1,31 @@
-# and number of children.
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6bb59aee52f00cfc7af6e71e18f1b0a96b7fdae
+title: H07KK4-PDF-ENG
+---
+## supportiveness of your own boss, the supportiveness of your co-parent’s
 
-While there is still much to untangle about how the work environments
+boss aﬀects how likely you are to thrive at work and home.
 
-of the couples in our study aﬀect their children and partner, these initial
+Second, as organizational psychologists, we wanted to understand how
 
-ﬁndings present signiﬁcant takeaways for working parents.
+this process unfolded. We found that partners who had supportive
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+supervisors were, in turn, more supportive of their co-parent at home.
 
-3
+Having a supportive supervisor allowed individuals to bring more time
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and energy to their home lives. They were able to take on more of
+
+the parenting and domestic responsibilities, as well as be a more
+
+focused, engaged, and patient co-parent. Simply put, when you have an
+
+unsupportive boss, it’s hard to show up fully for your family. As a result,
+
+the demands of managing the home domain fall disproportionately to
+
+your co-parent, which drains them of the capacity to fully thrive in their
+
+home and work lives. This eﬀect held true regardless of parent gender

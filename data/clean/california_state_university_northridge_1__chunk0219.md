@@ -1,27 +1,19 @@
-# person.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: c9497037ef2e062b440eef07f0e57e7232b4c801
+title: california_state_university_northridge_1
+---
+## and satisfaction, perfonnar1ce, judgment, composition, banlcJuptcy, merger.
 
-Disclaimer - The repudiation or renunciation of a claim or power vested in a
+Contract - To cancel the obligation of a contract; to make an agreement of
 
-person or which he has formerly alleged to be his. The refusal, or rejection of an estate or
+contract null and inoperative. As a noun, the word means the act or instrument by which
 
-81
+the binding force of a contract is terminated, irrespective of whether the contract is carried
 
-right offered to a person. The disavowal, denial, or renunciation of an interest, right, or
+out to the full extent contemplated (in which case the discharge is the result of
 
-property imputed to a person or alleged to be his. Also the declaration, or the instrument,
+performance) or is broken off before complete execution.
 
-by which such disclaimer is published.
-
-Discrimination - In constitutional law, the effect of a statute or established
-
-practice which confers particular privileges or a class arbitrarily selected from a large
-
-number of persons, all of whom stand in the same relation to the privileges granted and
-
-between whom and those not favored no erasable distinction can be found. Unfair
-
-treatment or denial or normal privileges to person because of their race, age, sec,
-
-nationality or religion. A failure to treat all persons equal where no reasonable distinction
-
-can be found between those favored and those not favored.
+Employment. To dismiss form employment; to terminate the employment of a

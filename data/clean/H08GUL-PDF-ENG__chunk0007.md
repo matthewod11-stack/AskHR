@@ -1,21 +1,21 @@
-## HBR / Digital Article / How 3 Companies Are Using AI to Mimic Expert Judgement
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7e088bc7c127b589afdc63c90499e1c04c5325f
+title: H08GUL-PDF-ENG
+---
+# assessment to junior analysts.”
 
-What the company did: Bavaria Ventures wanted speedier and more
+The problem is that the junior analysts simply don’t have the experience
 
-accurate assessments of startups based on what its managing partners
+to spot a potential winner and often overlook good proposals. This
 
-believed were the most promising ones. Rather than continue to train
+happens even when they follow the decision-making template deﬁned
 
-junior analysts in the hope that they’d transfer the company’s decision-
+by Bavaria Ventures’ managing partners.
 
-making template into accurate assessments, Bavarian Ventures turned
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-to producing a hybrid expert system which it labelled AI-4-VC. “The
+2
 
-ﬁrst step,” says Josef, “was to turn to a university for help in developing
-
-a solution that facilitated a faster and more accurate ranking of
-
-startup applications.” This was designed to mimic how an experienced
-
-managing partner of Bavaria Ventures went about assessing a startup’s
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

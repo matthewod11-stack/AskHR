@@ -1,15 +1,29 @@
-# Performance of SMEs.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 5b2d7a7f6f27eab689ee2edb25622c1f1f4ea84a
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-The concept of innovation pertains to the extent to which an organisation is inclined towards
+outcomes at both the organizational and structural levels, which can be attributed to the goals
 
-innovating its business operation processes. (Zufiqar et al., 2019; Bhatti, Rehman, & Rumman,
+and objectives of the organization. The willingness to take risks "represents the willingness to
 
-2020). Innovation enables the organisation to capitalise on novel prospects, meet customers'
+take advantage of opportunities that have arisen in the environment," even though the company
 
-demands through novel products and services, and assume the role of a pioneer in the sector.
+and the entrepreneurs know "neither the likelihood of its success nor the consequences of its
 
-(Isichei et al., 2020; Shah et al., 2019). Furthermore, individuals who exhibit a proclivity for
+actions." Risk-taking "represents the willingness to take advantage of opportunities that have
 
-innovation are likely to possess a greater capacity for identifying diverse channels of financial
+arisen in the environment" (Rodrigo-Alarcon, 2018). Thus, The literature presents various risk-
 
-resources than those who exhibit a lower inclination towards innovation and access beyond the
+taking strategies to address operational crises in firms operating in the Central European region.
+
+The availability of financial tools, financing solutions, and digital intelligence, including IoT and
+
+Big Data, is crucial for enhancing the performance of firms, as suggested by recent studies (Cantu
+
+et al., 2021; Gong et al., 2020).
+
+H1: Risk-taking has a positive influence on achieving the target of Circular Practice target

@@ -1,27 +1,17 @@
-## HBR / Digital Article / When Your Go-To Leadership Style Stops Working
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 10392354143a64ef385888af3d24eea1265c7ac5
+title: H08QZN-PDF-ENG
+---
+## others and increasingly authentic to you.
 
-as a leader. On the other hand, adopting an unfamiliar style can be both
+But what happens when your preferred approach suddenly loses
 
-awkward for you and confusing for your colleagues.
+followership? If you don’t adjust, you could diminish your credibility
 
-The challenge to become versatile across leadership styles is arguably
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-harder than improving technical expertise or strategic competence
+1
 
-because it calls for personal transformation. And these days, if you’re
-
-not committed to developing past your comfort zone, you’re unlikely to
-
-inspire others to stretch themselves and follow your example.
-
-In my work coaching executives, I’ve seen that having the courage
-
-to develop greater adaptability in their leadership approach is worth
-
-the eﬀort. Leaders who expand their range of styles not only sustain
-
-followership, they’re often surprised by how agility gets easier with
-
-practice. Here are ﬁve strategies to help you successfully meet the
-
-moment when your default leadership style stops working.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

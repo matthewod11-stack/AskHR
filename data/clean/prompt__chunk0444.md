@@ -1,9 +1,9 @@
-# from there.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: f74179976affe0ebd0a96f22de66d7ddf346c746
+title: prompt
+---
+# Prompt Engineering
 
-Adapt to model updates
-
-It’s impo(cid:457)ant for you to stay on top of model architecture changes, added data, and
-
-capabilities. Try out newer model versions and adjust your prompts to be(cid:459)er leverage new
-
-model features. Tools like Ve(cid:457)ex AI Studio are great to store, test, and document the various
+A good rule of thumb is to sta(cid:457) with 6 few shot examples and sta(cid:457) testing the accuracy

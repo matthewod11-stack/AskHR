@@ -1,19 +1,25 @@
-## current earnings but to future earnings through public signals of on-the-
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77e8906b9973ce0d45f564b499a13ea6892efed4
+title: H06X4I-PDF-ENG
+---
+# for a job.
 
-job performance, the threat of poor feedback serves as a disciplining
+If hiring managers decide to use platforms, there are a few things to
 
-device that likely improves contract fulﬁllment rates.
+think about as you navigate them.
 
-Platforms primarily make money from successful matches, as up-front
+Platforms make hiding failure much harder, which is likely to be
 
-fees are minimal. As a result, clients can hire a freelancer for a short-
+especially useful for those who don’t have the skills to evaluate
 
-term project without making a huge investment before deciding to
+a new hire (e.g., poets who want to hire quants and quants who
 
-hire them on a permanent basis. As remote work expands the pool of
+want to hire poets). Market signals from past buyers help with that
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+screening process, and the platforms provide objective measures of
 
-8
+past performance — something that’s nearly impossible to come by in
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+traditional HR. And because every transaction contributes not just to

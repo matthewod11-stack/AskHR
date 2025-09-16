@@ -1,11 +1,57 @@
-# 15 | P a g e
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 4b3861aa9661d4d5c2cc321c8de83b6c7f831dfd
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 2.3.3. The Emotional Employee Experience
 
-employees to be only 41%. An even more interesting statistic explains that 87% of
+Employee experience is greatly influenced by employee feelings and emotions.
 
-leaders felt proud to be a part of their organization but only 57% of employees feel
+Author Lance Gibbs in his book Not my Circus, Not My Monkeys, describes the
 
-the same. According to Larry Senn’s theory, the characteristics of a leader are carried
+emotional aspects of the customer experience. In a single phrase, the customer
 
-on through the organization. Executive leaders "cast a shadow" on the organization's
+experience is all about how the customer feels. It's all about emotions, feelings,
 
-lower levels by exhibiting the behaviors necessary for success in the company
+experiences what customer has with company during his interaction. If operations are
+
+effective and employees are satisfied, then customers will have a favorable
+
+impression.” (Gibbs, 2017). The Emotional Employee Experience is critical and one
+
+of the most important elements of EX, relating directly to how employees see the
+
+organization, both individually and collectively, how they relate to coworkers and
+
+managers, and how they comprehend and use their workplace. The average return
+
+on assets for businesses with CEOs and management teams that lead with
+
+emotionally intelligent traits like compassion, forgiveness, and integrity is roughly five
+
+times greater than for those with "poor character" leaders. When compared to
+
+dissatisfied employees, happy employees are up to 20% more productive on the
+
+opposite side of the organizational structure. In the end, the ideas and feelings that
+
+employees have every single day cascade into those that they have over their
+
+collective experiences. (Stolpe, 2022) This dissonance that arises when an
+
+organization simply ignores its Emotional Employee Experience has a formal name.
+
+It is known as a perception gap. It is formed when the experiences between leaders,
+
+management and employees are misaligned. PwC and The Katzenbach Center’s in
+
+their 2018 Global Culture Survey (PwC & Katzenbach, 2018) exposed these
+
+perceptual gaps in practice in a comprehensive way. The C-Suite and Board of
+
+Directors will typically be pleased with the organization's situation, but employees will
+
+often feel disconnected from what is really happening at the company. For example,
+
+63% of leaders feel that they have strong cultures, however this is perceived by

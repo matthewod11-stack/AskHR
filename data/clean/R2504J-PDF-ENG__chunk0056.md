@@ -1,5 +1,11 @@
-## of accessible branches with people from the local community so that it
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6df0e7c2b757c8a743348d923b5557fc9990cdb
+title: R2504J-PDF-ENG
+---
+## relationships. So the ﬂows in a good visualization parallel and reinforce
 
-could deliver a value proposition of banking services that were simple,
+the story the company wants to tell. The ones shown in our Capitec
 
-unintimidating, and aﬀordable for low-income clients opening their
+slide, for example, mirror the story about how the bank built a network

@@ -1,19 +1,13 @@
-## for formal communications, such as shareholder letters or strategy
+---
+source_path: F2503A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d29934d3d0c88be5359c2c0e6a15f44cae6c8720
+title: F2503A-PDF-ENG
+---
+# HBR / Magazine Article / Why CEOs Should Think Twice Before Using AI to Write Mess…
 
-memos, according to Choudhury’s research. Avoid it for personal
+the technology within these parameters. This will help encourage
 
-communications, especially with people who know you well.
+constructive usage and answer related questions others have.
 
-In the Zapier experiment, employees with longer tenures were more
-
-likely to spot AI-generated responses. Those who had been around
-
-three years or more, for example, had a higher accuracy rate in their
-
-guesses (62%) than newer workers did (58%). Choudhury believes their
-
-familiarity with Foster’s communication style limited the bot’s success
-
-in imitating him. But a CEO’s personal style is much less discernible
-
-in formal writing than it is in an email to a subordinate or a post on
+- 2. Use AI for impersonal messaging. The technology is more eﬀective

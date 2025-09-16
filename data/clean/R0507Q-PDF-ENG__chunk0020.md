@@ -1,11 +1,7 @@
-# How Do Customers See Us?
-
-Many companies today have a corporate mission that focuses on
-
-the customer. “To be number one in delivering value to customers”
-
-is a typical mission statement. How a company is performing from
-
-its customers’ perspective has become, therefore, a priority for top
-
-management. The balanced scorecard demands that managers translate
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b921921be0d7f7200119999176f4a0980864609
+title: R0507Q-PDF-ENG
+---
+# [ Customer Perspective ]

@@ -1,3 +1,9 @@
-# Acad. Manag. Rev. 37:376–95
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 12a9ae3291a62b00c3fdd548394fa7e7bc0143be
+title: arop1noe_245_275
+---
+# Hum. Resour. Manag. 16:720–35
 
-Carmeli A, Brueller D, Dutton JE. 2009. Learning behaviours in the workplace: the role of high quality
+Campbell BA, Coff R, Kryscynski D. 2010. Rethinking sustained competitive advantage from human capital.

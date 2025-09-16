@@ -1,13 +1,37 @@
-# needle on their culture.
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70190b3a97bec344d823e4f3887cb7eae97a17f0
+title: H08VZI-PDF-ENG
+---
+# quadrant feels most familiar, and why?
 
-Finally, make a personal commitment to own your team’s culture.
+- Ask what the team can do to move closer to a last 8% culture. Oﬀer
 
-Because culture exists more at the team level than at the organizational
+your ideas ﬁrst about your contribution—what you need to do to get to
 
-level, you, not the CEO or CHRO, need to take charge of the norms you
+the culture you want, and invite people to oﬀer other ideas.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- Depending on how the conversation has gone so far, ask what
 
-10
+commitments the group can make as a result of the discussion. We
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+suggest making three. These commitments are crucial to make before
+
+facing last 8% situations because they will carry employees through
+
+hard moments when it is easier to avoid taking risks.
+
+No matter how the discussion goes, do not get defensive. This is an
+
+opportunity to inﬂuence the culture just by how you show up: Do you
+
+give employees a voice? Value their opinions? Make them feel safe,
+
+even if you disagree with them? What you do signals to others which
+
+behaviors are acceptable and rewarded—and they’ll remember it. Our
+
+clients ﬁnd these conversations, when done right, to be some of the
+
+richest they have as a team, giving them a concrete way to move the

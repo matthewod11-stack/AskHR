@@ -1,7 +1,15 @@
-## imagery or treats older adults as burdens or punchlines.
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c911b5eee692e8dc39746af640c694f81c5eca1f
+title: H08TZO-PDF-ENG
+---
+# marketing.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Yet many companies still treat aging as a risk to be managed, not
 
-2
+a consumer and talent opportunity to be embraced. Internal KPIs
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+prioritize short-term wins. Leadership pipelines overlook the potential
+
+of late-career professionals. Advertising often defaults to youthful

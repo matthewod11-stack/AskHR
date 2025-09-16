@@ -1,23 +1,29 @@
-# Mahindra & Mahindra Financial Services
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 0b8d047ac46094e29e7e6b4c663964672e4d1061
+title: final_2019_jan_feb_jbs_pmd
+---
+# Shriram Transport Finance Corporation
 
-0.71
+0.82
 
-0.50
+0.67
 
-2.04
+4.04
 
-0.30
+0.08
 
-- 1.14
-
-0.48
-
-0.75
-
-0.80
+2.10*
 
 0.26
 
-0.91
+- 1.25
 
-- 0.12
+0.06
+
+2.28*
+
+0.75
+
+- 0.34

@@ -1,29 +1,13 @@
-## HBR / Digital Article / The Definitive HBR Strategy Glossary
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fae206f87f070e1032d78e975e3eb8caf6d41957
+title: H08TKY-PDF-ENG
+---
+# Mankins and Richard Steele (2005)
 
-. . .
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Strategy statement: A clear, concise articulation of your company’s
+31
 
-strategy, in 35 words or less. This statement should deﬁne:
-
-- the objective that the strategy is designed to achieve
-
-- the scope of the business
-
-- the advantage by which the business will achieve its stated objective
-
-To develop a strategy and craft a statement, leaders should start
-
-by evaluating the industry landscape, which includes segmenting
-
-customers and identifying unique ways of delivering value to the
-
-ones the ﬁrm targets. They should also analyze competitors’ current
-
-strategies and predict how they might change. The key is to ﬁnd the
-
-sweet spot where the ﬁrm’s capabilities and customers’ needs align in a
-
-way that competitors cannot match.
-
-Go deeper: “Can You Say What Your Strategy Is?” by David J. Collis and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,17 @@
-# Management Review, Vol. 46, pp. 35-41.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 511a17b1ad2f2229c4c13bc79d8e6325c49bd0c5
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## performance”, Academy of Management Journal, Vol. 53, pp. 617-635.
 
-Rothstein, M.G. and Goffin, R.D. (2006), “The use of personality measures in personnel selection: what does current research support?”, Human Resource Management Review, Vol. 16, pp. 155-180.
+Richardson, J. and West, M.A. (2010), “Engaged work teams”, in Albrecht, S.L. (Ed.), Handbook of Issues, Research and Practice, Edward Elgar
 
-Saks, A. and Gruman, J.A. (2014), “Making organizations more effective through organizational socialization”, Journal of Organizational Effectiveness: People and Performance, Vol. 1, pp. 261-280.
+Employee Engagement: Perspectives, Publishers, Cheltenham, pp. 323-340. I.T. and Cooper, C.L.
 
-Saks, A.M. (1995), “Longitudinal field investigation of the moderating and mediating effects of self-efficacy on the relationship between training and newcomer adjustment”, Journal of Applied Psychology, Vol. 80, pp. 211-225.
+(2010), “Full engagement: the integration of employee engagement and psychological well-being”, Leadership & Organization Development Journal, Vol. 31 No. 4, pp. 324-336.
+
+Robertson,
+
+Rollag, K., Parise, S. and Cross, R. (2005), “Getting new hires up to speed quickly”, MIT Sloan

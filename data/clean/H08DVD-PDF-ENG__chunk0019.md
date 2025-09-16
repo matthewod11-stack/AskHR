@@ -1,37 +1,41 @@
-## HBR / Digital Article / Research: The Long-Term Costs of Layoffs
+---
+source_path: H08DVD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ecbcd34a3c9abb735a782814f8e25b3cfc09a61
+title: H08DVD-PDF-ENG
+---
+# How to Humanize the Layoff Experience
 
-- 4. Treat people humanely in the off-boarding process.
+Our data highlights some of the real costs that are incurred by
 
-While layoﬀs can involve months of planning for HR and business
+companies when layoﬀs are required, but it also helped us to identify
 
-leaders, the experience of an employee ﬁnding out, reading an email,
+what you should be focused on if you do decide to go down that path.
 
-and having their system shut oﬀ can happen in a matter of minutes,
+Here are a few quick pointers:
 
-creating a literal shock to the system. From a security and risk
+- 1. Be realistic in your expectations and expect engagement and company conﬁdence to take a long-term hit. While you gain short-term ﬁnancial beneﬁts, you need to weigh this
 
-perspective, this is common practice. But more organizations are taking
+against the challenge of rebuilding engagement and performance.
 
-a diﬀerent approach, giving people more time to access systems that
+- 2. Focus on how the change is communicated from the outset.
 
-aren’t storing sensitive information, say goodbye to colleagues, process
+Companies that are transparent and open fare better. No one wants to
 
-the news, and get the closure needed to move forward.
+be working in a constant state of uncertainty.
 
-- 5. Recognize that relationships outlive employment contracts.
+- 3. Don’t try to do more with less.
 
-Perel says that people need time to process what’s happening and grieve
+Recognize that employees are human, and after going through a diﬃcult change it’s unlikely they’ll be able to increase their output.
 
-for the loss of identity that comes with the loss of a job:
+Instead, ruthlessly prioritize what work can be dropped so that everyone
 
-Jobs involve a network of connections and relationships and people
+can focus and rally around the most important things that need to get
 
-need time to grieve. Sometimes layoffs are unavoidable. Sometimes
+done.
 
-they are essential to the survival of the business — and the thriving
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-of the remaining employees. But even so, companies would do well
+6
 
-to remember that when people leave a job they are also leaving the
-
-colleagues they’ve worked side by side with — virtually or in person —
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,11 @@
-# Media Resources and Learning Tools
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e2be078a4366485351ed62168cc9a8628ca93515
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Questions for Review
 
-7
+. What is the difference between reliability and validity? . What method of establishing validity is the best? . Why is the concept of test utility so important? . What is the difference between single-group and differential validity? . Why should we use anything other than top-down selection? After all,
 
-7
-
-Visit our website. Go to www. cengage.com/psychology/aamodt, where you will find online resources directly linked to your book, including chapter-by- chapter quizzing, flashcards, crossword puzzles, application activities, and more. Want more practice applying industrial/organizational psychology? Check out the I/O Applications Workbook. This workbook (keyed to your textbook) offers engaging, high-interest activities to help you reinforce the important concepts presented in the text.
-
-evaluating selection techniques and decisions
-
-235
+shouldn’t we always hire the applicants with the highest scores?

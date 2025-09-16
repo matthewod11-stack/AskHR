@@ -1,13 +1,9 @@
-# experiences and consequences.”
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19e3a019aa98a7c891ea7b7d8a57281bec850869
+title: R2502K-PDF-ENG
+---
+## book Development Projects Observed, Albert O. Hirschman concluded
 
-To ﬁnd out how distinctive most projects actually are, we analyzed data
-
-on more than 1,300 IT projects in 34 companies, which had budgets
-
-ranging from $77,000 to $4.5 billion. We then took a deep dive into
-
-219 of them, which were located in North America, Europe, the Middle
-
-East, Africa, Asia, and Australasia, to see whether managers believed
-
-that their projects were unique and how that perception aﬀected project
+that each project he had studied represented “a unique constellation of

@@ -1,13 +1,11 @@
-# groups.
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 879600eac810986f83a47684bd9158722abed2d9
+title: H07NT2-PDF-ENG
+---
+## likely to interview applicants from minority groups under a traditional
 
-Viewed together, these recent studies suggest that a blind hiring process
+process, however, the use of a blind hiring policy negated that tendency,
 
-often helps, but may sometimes hinder, organizations’ goals related
-
-to diversity. Informed by these ﬁndings, decision-makers should ask
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leading to worse interview selection rates for applicants from minority

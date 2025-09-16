@@ -1,17 +1,29 @@
-# from men.
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd255f2416ac7491dc99853dcc9db6493b9d25fc
+title: H08AOU-PDF-ENG
+---
+# opportunities, or ATO.
 
-Interrupting bias in access to career-enhancing work is not one and
+Again, the results were dramatic. Two departments participated in the
 
-done. In both departments of the energy company, men initially
+pilot. In department A, our baseline data showed 51% of men but only
 
-received more of another kind of career-enhancing work: opportunities
+38% of women were getting assigned core technical work before the
 
-to work on corporate products. Post-workshop, department A took a
+pilot began. After the ATO workshop and use of the tasking tool, the
 
-small step toward reducing this gap from 22 percentage points to 18
+disparity between men and women dropped sharply to 0, with 50% of
 
-points. This is a move in the right direction, but more work is still
+both men and women doing the core technical work. In department B,
 
-needed to reach parity. (There are many reasons why organizations
+our baseline data show that 37% of men but only 30% of women were
 
-improve quickly in some areas and more slowly in others: focusing on a
+getting technical leadership opportunities. This disparity, too, basically
+
+disappeared: After the intervention 34% of men and 35% of women were
+
+being given technical leadership roles. In both cases, managers leveled
+
+the playing ﬁeld for women without taking away opportunities away

@@ -1,25 +1,23 @@
-# span of our careers.
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2892ff03b19b82ce984e66e59e2f3393c3a37997
+title: H08MZQ-PDF-ENG
+---
+## HBR / Digital Article / The False Dichotomy of Merit and Inclusion
 
-Caitlyn, an award-winning UX designer, knows about these barriers.
+those relegated to the steep slopes, who show incredible talent but are
 
-At 26, she was hit by a drunk driver, resulting in facial paralysis and diﬃculty speaking. While speaking and appearance have nothing to
+disadvantaged in the face of bias based on class, non-English names,
 
-do with Caitlyn’s ability to design, her job interviews—conducted by
+gender, age, race, looks, disability, and more. People who have the
 
-humans or by AI trained on human biases—result in rejections. And
+talent and skills needed to help organizations thrive are often unable
 
-even as a freelancer, she’s expected to work at a deep discount because
+to do so because they regularly face exclusion and barriers—from
 
-“who will hire that face?” as she overheard one of her clients saying.
+internships to promotions to pay. In fact, research shows that bias in
 
-Then there’s Sophia, a top-performing data analyst who had saved her
+promotions and reward distribution is just as prevalent as bias in hiring,
 
-company millions by implementing predictive analytics that helped
-
-reduce supply chain costs and streamline operations. Despite those
-
-accomplishments, she is repeatedly passed over for promotions, with
-
-managers citing the need for “fresh energy”—and then asking Sophia to
-
-train her new managers. At 56, her merit hardly means anything in the
+exacerbating and multiplying rather than reducing unfairness in the

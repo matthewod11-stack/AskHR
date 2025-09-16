@@ -1,19 +1,11 @@
-## of stocks available and other issues of corporate governance.
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 645755e4d0ba04bd06a0d5da39c4c96b459c39df
+title: H077EQ-PDF-ENG
+---
+## HBR / Digital Article / Don’t Let Anchoring Bias Weigh Down Your Judgment
 
-So, if two companies have the same ﬁnancial proﬁle except Company
+that investors valued ﬁrms more highly if the ﬁrms had higher stock
 
-X has fewer shares at a higher price than Company Y, then Company
-
-X’s shares will sell better over the long run than Company Y’s. Why?
-
-Because the stock price — the anchor — enhances the company’s
-
-perceived value.
-
-While anchoring can lead to serious and costly mistakes, there are also
-
-ways to use the bias to your advantage. Here are three strategies that can
-
-help make sure that your thinking is clear and well-grounded — but not
-
-anchored.
+prices. This occurred even after controlling for factors like the number

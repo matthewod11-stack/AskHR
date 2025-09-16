@@ -1,9 +1,9 @@
-# Proposed Model of the Relationship Between Personality and Individual Performance
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: bd0b18cb6321660e73a6d1a22f112d8d4c31b1e4
+title: barrickryan_eds_personality_and_work
+---
+# 106 PERSONALITY AND WORK
 
-A proposed model of pathways by which individual differences in a personality variable inﬂuence individual performance on a given performance component is presented in Figure 4.1. This model is compatible with those of Campbell et al. (1993) and Motowidlo et al. (1997) and adds elements to both. Consistent with Campbell et al., performance on any particular job performance component is a function of declarative knowledge, procedural knowledge and skill, and motivation. One difference is the expanded conceptual- ization of motivation. Another is the addition of a fourth determi- nant, work habits, in recognition of the possibility that job-relevant behavior can occur automatically despite motivation to behave oth- erwise. Work habits also inﬂuence performance indirectly by in- ﬂuencing the need for and choice of self-regulatory strategies. For simplicity, the only indirect determinants included are personality variables and ability variables. This model could be expanded to
-
-. e c n a m
-
-r o f r e P b o J d n a
-
-y t i l a n o s r e P n e e w t e B p h s n o
+differences in self-regulatory patterns of activity during the goal- striving stage. They focused on two self-regulatory strategies pro- posed by Kuhl (1985): emotion control and motivation control. Emotion control facilitates task performance by protecting atten- tion and effort from distracting emotional states (for example, de- pression). Motivation control increases the strength of a current intention by selectively processing information that supports it. They focused on the trait constructs of achievement and anxiety based on the strength of research evidence supporting them. Achievement is characterized by the two distinct aspects of mastery (the desire to master a task for personal excellence) and compet- itive excellence (the desire to rival and surpass others). Anxiety is characterized by the constructs of general anxiety (neuroticism or emotional stability), fear of failure (tendency to avoid goals or sit- uations that might lead to failure), and test anxiety (anxiety re- stricted to testing situations). Individual differences in traits are proposed to inﬂuence motivational skill development through the differential opportunities with which they are likely to be associ- ated. For example, high-achievement individuals are more likely to put themselves in challenging situations, giving them more op- portunity to develop motivational skills.

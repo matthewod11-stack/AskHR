@@ -1,21 +1,7 @@
-## Jon Feingersh Photography Inc/Getty Images
-
-Mentoring high achievers can be one of the most rewarding yet
-
-challenging aspects of leadership. These individuals have already
-
-achieved signiﬁcant success, possess a wealth of experience, and have a
-
-steady track record of accomplishments. But even the best-performing
-
-individuals need guidance to avoid complacency, continue growing,
-
-and reach new heights. What do high achievers need to ensure they
-
-keep advancing? Mentorship catered to their precise needs.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08BHS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da67941c1323add623f032828b3ef47deffa61ac
+title: H08BHS-PDF-ENG
+---
+## Published on HBR.org / August 19, 2024 / Reprint H08BHS

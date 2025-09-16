@@ -1,7 +1,15 @@
-# Give Constructive Feedback
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cae75eba6f1726488fb79fe4dc1776ef9d55f9b7
+title: H0881J-PDF-ENG
+---
+## role contribute to your professional growth?
 
-Deliver feedback with clarity and speciﬁcity. Provide clear examples,
+- Which aspects of your work do you feel align most with your career
 
-not hypotheticals, to ensure the employee understands exactly how the
+aspirations, and how can we build on those strengths?
 
-work they’re delivering isn’t aligning with what’s expected of them.
+- Could you talk about any experiences or skills you’re hoping to gain
+
+soon to support your career path?

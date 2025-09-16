@@ -1,1 +1,15 @@
-# Al-Hussaini, S. H., Turi, J. A., Altamimi, A. N. A., Khan, M. A., & Ahmad, M. (2019). Impact Of Talent Management Strategies On Employee Performance Behaviour With The Mediating Role Of Talent Management Outputs. Archives of Business Research, 7(3), 116-124.
+---
+source_path: archives_of_business_research_vol_7_no_3.md
+pages: n/a-n/a
+chunk_id: 63640027482985e966627a53bee1400f2830efef
+title: archives_of_business_research_vol_7_no_3
+---
+# Figure 1: Conceptual Framework
+
+Statement of Hypotheses H1: There is a positive effect of talent management strategies on employee performance behavior. H2: There is a positive effect of talent management strategies on talent management outputs. H3: Talent management outputs positively affect employee performance behavior. H4: Talent management outputs mediate the relationship between Talent Management Strategies and employee performance behavior.
+
+METHODOLOGY The study is quantitative causal and cross-sectional in nature. A structured questionnaire had been used to collect data from a sample of 200 employees working in Mobile Operators located in Rawalpindi-Islamabad area. Convenience sampling technique was used for selection of sample. The scale for different variables had been adapted from studies in which these scales had already been validated. The scale of talent management strategies; talent management outputs; and employee performance behavior were adapted (Rich, LePine, & Crawford, 2010; Kahn, 2010; Rhoades, 2001). Face and content validity was undertaken through expert advice of academicians and practitioners. The pilot study was also conducted to test the reliability and validate the instrument of forty-eight items. To empirically determine the impact of talent management strategies on employee performance behaviors, in this study various statistical techniques, including descriptive stats, OLS regression, correlation analysis techniques and Andrew F, Hayes model used for examining mediation effect with model 4 were used.
+
+Copyright © Society for Science and Education, United Kingdom
+
+119

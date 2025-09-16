@@ -1,5 +1,23 @@
-## Performance Appraisal, (Reading, MA: Addison-Wesley, 1981), pp. 107-111.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 1ee68251bb1751a3e09fef86a7eca82442a79879
+title: document_resume
+---
+## Sauser, A Comparative Evaluation, pp. 39-43.
 
-- 40. Kujawski and Young, op. cit. pp. 4.182-4.184.
+- 35. Kujawski and Young, op. cit., p. 4.165.
 
-41.
+- 36. William H. Holley and Kenneth M. Jennings, Personnel, Human Resource
+
+Management Contributions and Acui:ittes 2nd ed., (Chicago. Dryden 1987), p. 272.
+
+- 37. Duane P. Schultz, Psychology and Industry Today 3rd ed., (New York:
+
+Macmillan, 1982), p. 181.
+
+James A. Buford, Jr. and Sonya T. Collins,. Performance Appraisal. Concepts and Techniques for Local Government, (Auburn University, AL. Alabama Cooperative Extension Service, 1986), p. 37.
+
+38.
+
+- 39. Gary P. Latham and Kenneth N. Wexley, Increasing Produetivit, 'Through

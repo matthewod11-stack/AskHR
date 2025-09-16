@@ -1,7 +1,21 @@
-# HBR / Digital Article / Research: Performance Reviews That Actually Motivate Employ…
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37ff23d3687c43a9606022c927cbd99e82465e3e
+title: H08HAK-PDF-ENG
+---
+## commitment to both personal and organizational goals.
 
-aﬀects employees’ responses to diﬀerent feedback formats. Our ﬁndings
+There are exceptions. While narrative-only feedback typically enhances
 
-revealed that the superiority of narrative-only feedback in fostering
+perceptions of fairness, our experiments revealed that its eﬀectiveness
 
-perceived fairness diminishes with extremely positive feedback. This
+is not uniform across all scenarios. In one study, we explored how the
+
+valence of feedback — whether it is highly positive or more negative —
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

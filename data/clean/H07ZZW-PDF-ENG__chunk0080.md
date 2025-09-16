@@ -1,5 +1,23 @@
-## bake tolerance and inclusion into your culture, for example, a company
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f889914fda30ec1110ebf9455c514f431a3faa13
+title: H07ZZW-PDF-ENG
+---
+## Project, a civic collaboration with the Aspen Institute and Facing
 
-could make having a track record of working successfully with people
+History and Ourselves. The project focuses not on stymieing debate but
 
-who hold very diﬀerent values and opinions be a requirement for
+on making it healthier and more respectful. It aims to teach U.S. citizens
+
+— including its employees — how to stop seeing winning an argument
+
+as the goal, and to be more vulnerable and compassionate.
+
+Companies might also consider inviting a range of political speakers
+
+and promoting civic engagement by providing time oﬀ to vote.
+
+Organizations can support democratic engagement and even match
+
+employee contributions to speciﬁc causes without embracing them. To

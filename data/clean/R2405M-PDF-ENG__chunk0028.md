@@ -1,17 +1,25 @@
-# HBR / Magazine Article / Case Study: Should a Family Business Accept a Returning Da…
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c36c44368031081dc0e38f0c5d62bd43dadb768
+title: R2405M-PDF-ENG
+---
+# An Important Turning Point
 
-“I don’t know,” Koﬃ said. “This seems like an important turning point
+The three paused as they ﬁnished on the ninth green.
 
-in her life. I want her to succeed, and I want our company to succeed.
+Jean-Louis broke the silence. “We served our country by building
 
-What she’s proposing—it feels like an MBA thesis, not a real plan. She
+our careers in our new nation—by showing that Africans can become
 
-hasn’t spent any time paying her dues or getting to know the company
+successful and wealthy without colonial patronage. The next generation
 
-on the ground. Her plan is ambitious and risky, especially for a new
+wants more. They want to contribute directly to nation building. Who
 
-executive who has never worked in Africa. I just don’t know if that is
+are we to stand in their way?”
 
-right for Assoua, for Aminata, or, for that matter, for the nation. I don’t
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-know what we should do.”
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

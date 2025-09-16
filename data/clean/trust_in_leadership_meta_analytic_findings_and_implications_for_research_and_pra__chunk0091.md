@@ -1,3 +1,9 @@
-# Limitations
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 39f2b0af3c6eac90739331bc365bfc260478f1f9
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# Summary and Conclusion
 
-As is the case in all meta-analyses, readers should use caution in drawing strong conclusions regarding the estimates of individual effect sizes in cases where N and k are smaller (Oswald & Johnson, 1998). We note that the sample sizes in this study are, however, in line with those reported in meta-analyses of other variables in the literature (e.g., Brown, 1996; Gerstner & Day, 1997; Lee et al., 2000; Mathieu & Zajac, 1990; Organ & Ryan, 1995). In cases size becomes most problematic—moderator where tests—we suggest examining the pattern of results across variables to draw conclusions about the effects of referent and definition as moderators. These tests tend to provide a fairly consistent set of results, showing effects in most categories. As the literature on trust grows, these results may be further explored. We believe that this meta-analysis represents an important step in helping the literature grow.
+In attempting to summarize, integrate, and extend the literature on trust in leadership, we intended to make several contributions and advances with this article. First, we attempted to amass and summarize three decades of empirical research on trust in leader- ship. In doing so, we have provided “best evidence” for the primary relationships between trust and 23 other variables. Sec- ond, we have attempted to discuss the implications of specifying the construct with different definitions of trust (cognitive vs. overall) and different leadership referents of trust (direct leaders vs. organizational leadership). Third, we have offered a theoretical framework to help provide parsimony to the expansive literature and help clarify different perspectives on the development and consequences of trust. In addressing the above issues, we hope to provide a foundation for future research on trust in leadership.

@@ -1,9 +1,15 @@
-## knowledge arbitrage (e.g., “Innovative shop concepts such as [name
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: beadba1a5575abdbe68e088ae85be2a28ed85217
+title: H037WI-PDF-ENG
+---
+## (27%) by experts than the ideas of the control group.
 
-of Asian supermarket chain] are missing in Vienna”) and creative
+In order to better understand this phenomenon, we interviewed all
 
-recombination (e.g., “In France, I have seen supermarkets that were so
+96 participants after the experiment, asking them to describe how
 
-big that all employees were wearing rollerblades….In my concept I also
+they generated ideas. These interviews were coded independently by
 
-tried to use space as design concept to impress”) to identify proﬁtable
+two raters. Results showed that many participants had indeed applied

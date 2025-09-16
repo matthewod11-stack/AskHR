@@ -1,31 +1,23 @@
-## HBR / Magazine Article / Building Everyday Bravery
+---
+source_path: R2504Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a061da1cd085266d5ab96811c602db1a640ac4d
+title: R2504Q-PDF-ENG
+---
+## everyone—family, education and care providers, even our pediatrician.
 
-down after his talk to thank him, I found all the wonders and worries
+A thorough search for information on the topic yielded only two books
 
-I’d carried for six years spilling out of me. He listened intently, put
+and limited published research. When a Boston hospital hosted a
 
-his hand on my arm, and said, “You have a great story. Have you ever
+relevant conference, I sat in the audience thoroughly overwhelmed,
 
-considered doing any public speaking?” I’d laid bare my utter confusion
+alternating between teary sniﬄing and frantic note-scribbling. But
 
-and uncertainty about the high-impact decisions I was making with so
+there was one speaker who made me feel hopeful. When I tracked him
 
-little expert guidance, and here he was, a leader in the ﬁeld, saying that
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-others could learn from me? I laughed but gave him my number.
+1
 
-Since that day, I’ve given hundreds of speeches and interviews about
-
-my experience. I’ve gained courage and conﬁdence along the way. But
-
-what I tell my audiences is that true bravery in parenting is rarely of
-
-the headline variety—jumping into freezing water to save a drowning
-
-child or hoisting a car to liberate a pinned leg—nor is it about getting up on a stage to oﬀer advice. It is also quotidian. My ﬁrst brave acts
-
-did not involve deadlifting or ﬁreﬁghting; for me, beginning to be brave
-
-meant prioritizing what my child was telling me, listening to my own
-
-gut, and making one small decision at a time with no clear path amid
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

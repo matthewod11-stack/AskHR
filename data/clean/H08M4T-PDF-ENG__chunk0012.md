@@ -1,11 +1,19 @@
-## quiet moment on the couch with a book, or happily unwinding with
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3b435af51e7e45fcdfdeaf262c9f9a090f0560a
+title: H08M4T-PDF-ENG
+---
+# Direct your emotions.
 
-friends. By setting emotional goals, you’re creating a neurobiological
+Goal setting isn’t just about accomplishing tasks; it’s also a powerful
 
-roadmap that helps your brain seek balance and reduce stress. “Picture
+strategy for regulating and managing emotions. “People who feel more
 
-the end result,” Montminy advises. “Visualize what it looks like, sit in
+positive can actually focus better, do more, and be more creative,” says
 
-the feeling of it, and imagine the relief.” The aim is to preemptively
+Mark. She recommends envisioning your desired emotional state to
 
-savor a sense of accomplishment, which can sharpen your focus.
+guide behavior. So, ask yourself: “At 7 PM, how do I want to feel?” You
+
+might, for instance, picture yourself peaceful and relaxed, enjoying a

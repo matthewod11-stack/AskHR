@@ -1,35 +1,39 @@
-## HBR / Digital Article / 7 Habits to Stay Focused in a World Full of Distractions
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ed210818b95c7f94a281b2722b8eb39630f58eb
+title: H08M4T-PDF-ENG
+---
+# Practice active listening.
 
-Replenish your attention reserves.
+One of the places where many people lose focus is during conversations,
 
-Negative space, an art term that refers to the empty areas around the
+notes Montminy. This occurs in team meetings on Zoom (you really
 
-main subjects in an image, oﬀers a metaphor for an essential focus skill:
+think no one notices when you check your email in another tab?)
 
-managing mental energy. Just as artists use negative space to create
+and can happen even in person when you’re talking with a colleague
 
-balance, you can learn to strategically recover your cognitive resources
+one minute, and the next, you’re mentally elsewhere, distracted
 
-by taking purposeful breaks, says Mark. “We tend to pack our days with
+by your phone. “We’ve become accustomed to not being present
 
-tasks,” she notes. “We don’t realize we have to build in time for when
+with each other,” she says. “Shallow interactions have become the
 
-we’re not working that will help us refuel.” When your reserves are
+norm.” To improve your focus and rebuild connection, Montminy
 
-running low, give yourself permission to rest and reset. “But resetting
+recommends making a deliberate eﬀort to practice active listening. This
 
-does not mean scrolling socials,” says Montminy. “Consuming content
+involves maintaining eye contact, tuning into what the other person
 
-is not taking a break.” Instead, she recommends stretching, meditating,
+is saying, and asking thoughtful questions. By doing so, you not only
 
-reading poetry, or taking time to stare out a window. “Give your brain
+sharpen your concentration but also deepen your connections. “Make
 
-time and space to regroup.”
+intentional changes to prioritize your relationships,” she advises.
 
-Recognize the value of your attention and make conscious choices
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-about how you allocate it, adds Mark. “You have limited cognitive
+5
 
-resources. They’re very precious.” The crucial question is: “How do you
-
-want to distribute them over the course of your day?”
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

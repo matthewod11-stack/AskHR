@@ -1,17 +1,11 @@
-# print(numerical)
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: dfc9493b4de38771d75d3c8b5fcd3e635a9bfe33
+title: i
+---
+# Explore numerical data
 
-Index(['Age', 'DailyRate', 'DistanceFromHome', 'Education',
+First we identify numerical data columns
 
-'EnvironmentSatisfaction', 'HourlyRate', 'JobInvolvement', 'JobLevel',
-
-58
-
-'JobSatisfaction', 'MonthlyIncome', 'MonthlyRate', 'NumCompaniesWorked',
-
-'PercentSalaryHike', 'PerformanceRating', 'RelationshipSatisfaction',
-
-'StockOptionLevel', 'TotalWorkingYears', 'TrainingTimesLastYear',
-
-'WorkLifeBalance', 'YearsAtCompany', 'YearsInCurrentRole',
-
-'YearsSinceLastPromotion', 'YearsWithCurrManager'],
+numerical= attrition_data.select_dtypes(include = 'int64').columns

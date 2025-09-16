@@ -1,5 +1,9 @@
-# Appendix A
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 386cfe1c404d40f19e89ed190ced60cd806ba796
+title: document_resume
+---
+# 2 Marginal
 
-1 Unacceptable Conducts brief and/or incomplete pre and post conferences. Makes assignments for the day with no discussion of how objec- tive might be met. Atmosphere is teacher-directed with no student input or direction of how to meet the objective.
-
-- 6. Clinical Instruction (Nursing) facility.
+Conducts pre conferences using a lecture format. Gives assign- ments and objective for the day. Elicits minimal student input and offers little discussion of how to meet the objective. Post conferences recount activities rather than tie experiences to objective.

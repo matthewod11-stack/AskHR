@@ -1,15 +1,49 @@
-# diminished psychological safety.
+---
+source_path: H08T45-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90d5cc095481c8d85969a60067a2c839e2618e06
+title: H08T45-PDF-ENG
+---
+## HBR / Digital Article / 6 Steps to Reset a Demotivated Team
 
-Relaunching starts with rebuilding psychological safety by creating an
+Take one leader we worked with at a European tech company. He
 
-environment where people feel safe to speak up, share their experience,
+believed a loss of motivation had caused his team to get complacent,
 
-challenge ideas, and even engage in a “good ﬁght” now and then. Here’s
+diminishing their performance. We asked him to dive a little deeper
 
-how to begin:
+into what might really be going on that could perhaps be unspoken.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+An anonymous team diagnostic revealed a deeper issue: A recent
 
-3
+reporting restructure had left several members feeling overlooked
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and undervalued, driving their disengagement. Once the true cause
+
+surfaced, the leader could take targeted action to rebuild trust and
+
+reenergize the team.
+
+While individual conversations are helpful for diagnosis, the reset must
+
+happen together. Leaders often rely too heavily on private, bilateral
+
+talks, unintentionally reinforcing fault lines. The real work lies in
+
+building the team’s capacity to face hard truths—collectively.
+
+- 2. Reconnect: Build trust and psychological safety
+
+If your team has been through turbulence, chances are trust has
+
+taken a hit. For example, we recently worked with a senior leader
+
+at a pharmaceutical company who dismissed a team-composition
+
+change as “just one person” and that it was “more or less the same
+
+team.” But the reality was diﬀerent: While only one team member was
+
+replaced, the new person was dismissive and made sarcastic comments,
+
+which fundamentally distorted the whole team’s power dynamics and

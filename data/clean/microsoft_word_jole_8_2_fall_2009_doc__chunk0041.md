@@ -1,5 +1,81 @@
-## Journal of Leadership Education Volume 8, Issue 2 – Fall 2009
+---
+source_path: microsoft_word_jole_8_2_fall_2009_doc.md
+pages: n/a-n/a
+chunk_id: aa6fc04283fdf44b93ffac57482887d308bf41fd
+title: microsoft_word_jole_8_2_fall_2009_doc
+---
+## Basketball Baseball / Softball Football Soccer Track / CC * p<.01
 
-In order not to ignore the potential effects of less popular sports, each of the 23 sports was classified into one of two categories: coactive or interactive. Interactive sports are those where task interactions are essential for group success (e.g., baseball, football, soccer, basketball). Coactive sports are those where task interaction among the individual team members is not an element of the sport (e.g., golf, tennis, swimming, track). This categorization is relatively common in the sports study discipline (Carron, Colman, Wheeler, & Stevens, 2002; Munroe, Estabrooks, Dennis, & Carron, 1999).
+0.86
 
-The resulting correlations reveal no systematic association between the number of seasons of sports participation and the level of any particular leadership skill. Only increased participation in track/cross country was associated with an increased level of teamwork (r = .168, p<.05). Increased participation in football was associated with significantly lower skills in the area of written communications (r = -.193, p < .05). Increased participation in baseball and softball was negatively correlated with communication skills (r = -.156, p < .01), while increased soccer participation was negatively associated with judgment skills (-.15, p < .01). Grouping sports into the interactive and coactive categories did not result in increased participation having any statistically significant association with any leadership skill level.
+0.85 0.96 0.54
+
+0.71
+
+1.78
+
+- .055
+
+1.83 2.11 1.45
+
+.072 -.087 -.033
+
+1.66
+
+- .028
+
+** p<.05
+
+- .037
+
+.040 -.044 .000
+
+- .040
+
+.066
+
+- .094
+
+.040 -.033 -.150*
+
+- .032 -.084 .022
+
+- .050
+
+- .033
+
+***p<.001
+
+- .003
+
+.117 -.118 -007
+
+- .015
+
+.111
+
+- .088 -.056 -.094
+
+.145
+
+.009
+
+.053 .079 -.079
+
+.168**
+
+.152
+
+- .156* -.018 -.072
+
+.093
+
+- .009
+
+- .076 -.193** .053
+
+- .128
+
+230
+
+(cid:68)(cid:111)(cid:119)(cid:110)(cid:108)(cid:111)(cid:97)(cid:100)(cid:101)(cid:100)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:104)(cid:116)(cid:116)(cid:112)(cid:58)(cid:47)(cid:47)(cid:119)(cid:119)(cid:119)(cid:46)(cid:101)(cid:109)(cid:101)(cid:114)(cid:97)(cid:108)(cid:100)(cid:46)(cid:99)(cid:111)(cid:109)(cid:47)(cid:106)(cid:111)(cid:108)(cid:101)(cid:47)(cid:97)(cid:114)(cid:116)(cid:105)(cid:99)(cid:108)(cid:101)(cid:45)(cid:112)(cid:100)(cid:102)(cid:47)(cid:56)(cid:47)(cid:50)(cid:47)(cid:50)(cid:50)(cid:52)(cid:47)(cid:49)(cid:48)(cid:48)(cid:54)(cid:53)(cid:57)(cid:56)(cid:53)(cid:47)(cid:118)(cid:56)(cid:95)(cid:105)(cid:50)(cid:95)(cid:114)(cid:102)(cid:55)(cid:46)(cid:112)(cid:100)(cid:102)(cid:32)(cid:98)(cid:121)(cid:32)(cid:103)(cid:117)(cid:101)(cid:115)(cid:116)(cid:32)(cid:111)(cid:110)(cid:32)(cid:48)(cid:57)(cid:32)(cid:83)(cid:101)(cid:112)(cid:116)(cid:101)(cid:109)(cid:98)(cid:101)(cid:114)(cid:32)(cid:50)(cid:48)(cid:50)(cid:53)

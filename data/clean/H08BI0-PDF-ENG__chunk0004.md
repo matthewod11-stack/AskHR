@@ -1,13 +1,13 @@
-## to as “the ﬁfth trimester.” In her Washington Post column, Amy Joyce
+---
+source_path: H08BI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0eefe5a94922d4d070aa9a22ef34510a9b564571
+title: H08BI0-PDF-ENG
+---
+# HBR / Digital Article / 4 Ways to Meaningfully Support New Mothers Returning to Work…
 
-described this experience as women “returning to jobs when their
+recovery and the psychological adjustment to motherhood, postpartum
 
-bodies (and hearts) might be wanting them to do otherwise: They suﬀer
+mothers are also navigating new shifts in identity as a working mother
 
-from painful breasts, leaking milk, the stress of trying to balance a job
-
-with new family demands, plus a stigma that a mother can’t excel at
-
-work.”
-
-Considering the diﬃculties that surround the reentry period, there is
+— a uniquely challenging period that author Lauren Smith Brody refers

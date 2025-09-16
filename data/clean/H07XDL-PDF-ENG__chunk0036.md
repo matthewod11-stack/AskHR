@@ -1,13 +1,11 @@
-# “The Key Areas of Life.”)
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58cc3502b1a721e2822354b57a62648b856d2206
+title: H07XDL-PDF-ENG
+---
+## community and society; job, learning, and ﬁnances; interests and
 
-See more HBR charts in Data & Visuals on HBR.org.
+entertainment; and personal care. We then subdivide the six SLAs into
 
-And what are the equivalents of capital expenditures in life? Time,
-
-energy, and money. A week has 168 hours. How do you spend them?
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-12
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+16 strategic life units (SLUs). (For a full list of the SLUs, see the exhibit

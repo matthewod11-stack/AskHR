@@ -1,3 +1,7 @@
-# (2010) Spencer Stuart Board
-
-Pettigrew, A. and Mcnulty, T. (1995) Power and inﬂuence in and around the boardroom. Human Relations 48(8): 845–873.
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 3cf9ae96e09c0cea0e07a6693140916a87f36502
+title: original_article
+---
+# Spencer Stewart

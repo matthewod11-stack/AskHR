@@ -1,11 +1,13 @@
-## themselves with. In addition, information about an employee’s mental
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2f88ef3fbdf26131724579e64012a7549adb2a9
+title: H087DJ-PDF-ENG
+---
+## of therapists of color and white therapists.
 
-health is health information and by law remains conﬁdential. Common
+As employees of color prioritize their mental health, they may require
 
-accommodations include breaks, a limit on hours worked, and the
+certain accommodations. Mental health accommodations are part of
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the Americans with Disabilities Act, which employers should familiarize

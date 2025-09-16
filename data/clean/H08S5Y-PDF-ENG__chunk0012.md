@@ -1,5 +1,13 @@
-## HBR / Digital Article / Navigating the Jump from Manager to Executive
+---
+source_path: H08S5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 271e280641ca87f688cdf8d2d2ed29c4455c140f
+title: H08S5Y-PDF-ENG
+---
+# them independently, for example:
 
-- Run any new expense over $5,000 by me. • New hires above the director level band need my signoﬀ.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-- Any situation that could generate negative publicity should be brought
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,33 @@
-# confusion and ineﬃciency.
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1662a5538f21424f3e2bd519a2890ee5efdf7efb
+title: H082JA-PDF-ENG
+---
+## HBR / Digital Article / The Challenges of Becoming a Less Hierarchical Company
 
-Such experiences are not unique to Avinsa, but rather are inherent
+Leadership in such a structure becomes an intricate dance. Leaders
 
-to the nature of decentralized leadership. They underscore the need
+are expected to be visionaries, setting the direction and inspiring
 
-for leaders to develop a heightened sense of self-awareness and a
+their teams, yet they must carefully calibrate their inﬂuence. Exerting
 
-willingness to adapt their style. Regular feedback from team members
+too much control can stiﬂe the empowerment and initiative that ﬂat structures aim to foster. Conversely, being too hands-oﬀ can leave teams
 
-and consultants involved in the decentralization process becomes
+directionless, craving the clarity and decisiveness that leadership is
 
-crucial. This feedback loop helps leaders gauge how their actions and
+supposed to provide.
 
-decisions are perceived and whether they are successfully maintaining
+The challenges of this delicate balance were vividly illustrated at
+
+Avinsa. Here, leaders continually navigated the tightrope between
+
+asserting their views and encouraging independent decision-making
+
+among team members. In their enthusiasm to drive progress, leaders
+
+inadvertently dominated discussions at times, thereby curtailing the
+
+very autonomy they sought to promote. In other situations, their
+
+reluctance to intervene led to a lack of clear direction, resulting in

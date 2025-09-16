@@ -1,23 +1,35 @@
-# employee text analytics= and so on.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: ea3a4d787c675045017346e31a10f48346ef68de
+title: i
+---
+# sources beyond their own system.
 
-The forthcoming third wave of analytics is anticipated to fulfill all expectations, empowering
+In terms of budget allocation, expenditures on HR technology were considered as "additive"
 
-businesses to harness advanced and predictive analytics capabilities. As McCartney and Fu
+and typically recorded under the HR department's budget. Consequently, the value of HR
 
-(2021, page 5) quoted from Angrave et al. (2016) suggest: <Rather than providing strategic
+analytics remained primarily associated with HR functions, and the broader business benefits
 
-and predictive analytics that allow organizations to ask and answer big questions about how
+of People Analytics still needed to be fully acknowledged and recognized. There was still a
 
-value can be created, captured and leveraged, HRIS typically provide answers to a more limited
+skill gap in the HR department regarding the ability of HR professionals to employ and utilize
 
-set of questions focused on operational reporting [...] the costly analytics capabilities provided
+the PA technology effectively. According to Ferrar and Greenaway (2021), the lack of analytics
 
-by the latest forms of HRIS are failing to deliver strategic HR analytics capabilities=.
+culture failed to drive PA technology across organizations.
 
-King (2016, page 491) suggests that <the ability for analytics to be applied in a meaningful way
+65% of global organizations adopted this second wave and reported their positive change in
 
-has been hindered, not helped, by the growing HR analytics industry, which is often built upon
+PA.
 
-products and services that fail to meet the needs of HR professionals and organizations=.
+The authors refer to the Third Wave as <specialist people analytics technology.= This wave
 
-42
+started at the beginning of the 2020s and is the current trend.
+
+By 2020, 37% of businesses will employ more advanced and specialist PA technology to
+
+conduct analyses such as <talent market intelligence, behavioral skills, relationships,
+
+productivity and organizational network analysis, employee engagement and listening,

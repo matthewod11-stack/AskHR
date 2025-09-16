@@ -1,3 +1,9 @@
-## sensitivity”, Journal of Managerial Psychology, Vol. 18 No. 4, pp. 324-344.
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: 35c32af742cf145e5aca34a1f0bae88a948f668e
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+## cultures”, Journal of Managerial Psychology, Vol. 17 No. 7, pp. 612-627.
 
-Yoon, Y.J. and Almond, B.A. (2022), “When Jesus met equity theory: christianity, distributive justice perception, and job satisfaction”, Academy of Management Proceedings, Vol. 2022 No. 1, p. 14585.
+Yamaguchi, I. (2003), “The relationships among individual differences, needs and equity

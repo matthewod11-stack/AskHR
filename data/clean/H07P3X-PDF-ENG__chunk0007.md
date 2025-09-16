@@ -1,17 +1,19 @@
-# diﬀerence.
+---
+source_path: H07P3X-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63bc8afe648cc6d9940966c13475adbe72e6d04f
+title: H07P3X-PDF-ENG
+---
+# Chat in One-on-One Meetings
 
-You can use the same strategy for one-on-one meetings with colleagues
+If you already have one-on-one meetings scheduled with your team,
 
-who you regularly work with on projects. Depending on the length of
+take a few minutes at the start of the discussion to ﬁnd out how they’re
 
-the meeting and how much you need to cover, you may not have time
+doing before jumping to the business agenda. You don’t need to spend
 
-to catch up each time. But if every few meetings you use a few minutes
+the whole time on personal updates, but even reserving ﬁve minutes
 
-at the beginning or end to talk about more than the projects at hand,
+to ask about their recent vacation, ﬁnd out if their mom is out of the
 
-you can strengthen those ties. This could include bonding over your
-
-excitement about a particular sports team, talking about your families,
-
-or discussing anything else that gives you space to connect beyond a
+hospital, or to see how they’re recovering from surgery can make a

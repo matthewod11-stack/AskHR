@@ -1,3 +1,7 @@
-## When Your Vacation Wasn’t Exactly Relaxing
-
-What to do when you return to work more exhausted than when you left. by Noémie Le Pertel
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: accb63f1065e310bbff11cd6a1877534322baf7c
+title: H07SAC-PDF-ENG
+---
+## HBR / Digital Article / When Your Vacation Wasn’t Exactly Relaxing

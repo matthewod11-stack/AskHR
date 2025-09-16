@@ -1,5 +1,37 @@
-## proﬁcient in AI applications or new programming languages. Those who
+---
+source_path: H07ZOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a08704ee70d692f28b69c1ca3b752b3856627d7
+title: H07ZOW-PDF-ENG
+---
+## HBR / Digital Article / 5 Reasons People Get Laid Off
 
-don’t continue to evolve their skills to keep up with rapidly changing
+It’s normal to feel powerless in this position. There’s not much you
 
-business needs may be targeted for layoﬀs.
+can do if your entire business unit is being cut because company goals
+
+have changed and your work is no longer relevant, or if the company
+
+over-hired and revenue has unexpectedly dropped. However, there are
+
+proactive measures you can take that will help you manage your stress.
+
+Here are ﬁve common reasons people are laid oﬀ — and strategies to
+
+help you assert some control over your professional destiny.
+
+- 1. Lack of skills advancement
+
+Employees are 100% responsible for continually upskilling and
+
+reskilling. While companies may oﬀer resources to learn new skills,
+
+they tend to teach to the entire employee population, so most talent
+
+development programs focus on management skills such as giving
+
+feedback, leadership skills such as inﬂuencing without authority, and
+
+soft skills such as emotional intelligence. But employees need to
+
+continue to advance their hard skills, such as becoming technically

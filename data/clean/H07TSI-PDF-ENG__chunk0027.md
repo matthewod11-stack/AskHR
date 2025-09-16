@@ -1,11 +1,21 @@
-# week.
+---
+source_path: H07TSI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db413e25fec79ece7c380fb1b0c86bf1035faf3e
+title: H07TSI-PDF-ENG
+---
+## HBR / Digital Article / Does Your Hybrid Strategy Need to Change?
 
-The second muscle is one that managers arguably needed before Covid,
+However, this orchestration requires two new managerial muscles.
 
-since working with distributed teams isn’t new. Managers need to
+The ﬁrst is one that was not needed before Covid, when work was
 
-build their ability to create connection and culture as well as develop,
+done in the oﬃce by default, nor during Covid, when remote work was
 
-inspire, mentor, and coach across distributed and hybrid teams. They
+predominant for many oﬃce-based professionals. Managers now need
 
-must also meet employees’ emotional as well as functional needs.
+to facilitate discussions with and align their teams on where, when, and
+
+how work gets done. They need to hold weekly retrospectives on what
+
+worked, what didn’t, and what to change in how they work the next

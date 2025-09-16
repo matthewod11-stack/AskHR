@@ -1,7 +1,11 @@
-## Negative information bias The fact that negative
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 386edb7033f07203c901ce6fa8106c0e2c4318b8
+title: industrial_organizational_psychology_an_applied_approach
+---
+# needs of an organization.
 
-information receives more weight in an employment decision than does positive information.
+Needs theory A theory based on the idea that employees will be satisfied with jobs that satisfy their needs.
 
-Negligent hiring An organization’s failure to meet its legal duty to protect its employees and customers from potential harm caused by its employees. Negligent reference An organization’s failure to meet its legal duty to supply relevant information to a prospective employer about a former employee’s potential for legal trouble.
-
-Negotiation and bargaining A method of resolving conflict in which two sides use verbal skill and strategy to reach an agreement.
+Negative feedback Telling employees what they are doing incorrectly in order to improve their performance of a task.

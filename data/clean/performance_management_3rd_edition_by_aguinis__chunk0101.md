@@ -1,1 +1,13 @@
-# ix
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 4269ea4b276b03fc2b6c0168665ec2b272822943
+title: performance_management_3rd_edition_by_aguinis
+---
+# CHANGES IN THIS EDITION
+
+This edition includes important updates and additional information. In preparation for revising and updating this book, I gathered more than 300 potentially relevant articles and books. About 150 of those were most relevant, and about 50 of those new sources are now included in this edition. These sources have been published since the second edition of the book went into production. This vast literature demonstrates an increased interest in performance management on the part of both academics and practitioners.
+
+This edition includes five important changes throughout the book. First, there is an emphasis on the role of the context within which performance management takes place. Performance manage- ment does not operate in a vacuum. Rather, it takes place within a particular organizational context, and organizations have a particular history, unwritten norms about what is valued and what is not,
+
+3 Gillespie, T. L., & Parry, R. O. (2009). Students as employees: Applying performance management principles in the management classroom. Journal of Management Education, 33, 553–576. 4 Brown, A. (2005). Implementing performance management in England’s primary schools. International Journal of Productivity and Performance Management, 54, 468–481.

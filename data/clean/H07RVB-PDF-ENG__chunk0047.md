@@ -1,17 +1,19 @@
-# advice for those people?
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 797769d18b10aed06f5628a7e9fca250a7e8a652
+title: H07RVB-PDF-ENG
+---
+# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
 
-JIM FIELDING:
+ADI IGNATIUS:
 
-It’s up to the individual. I think it’s individual choice. I write in the book
+Your book is political in some ways. You seem to have embraced
 
-that I never thought just by living my lifestyle authentically, I’d become
+the notion that to come out, to be talking about your journey, is a
 
-an activist. But where I am in my life right now, the times we’re in right
+political act, particularly in this polarized environment. That’s probably
 
-now, I have to continue to share my story, because I don’t feel that the
+a burden that many people wouldn’t want. People are happy with their
 
-narrative for the queer community can be controlled by any part of the
-
-political spectrum, the far-left, the far-right, anybody. I need to share
-
-my story because it is my story and I don’t want anyone else telling my
+choices but not eager to be in the public arena. What would be your

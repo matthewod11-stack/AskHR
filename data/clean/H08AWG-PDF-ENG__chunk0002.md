@@ -1,19 +1,7 @@
-# Taiyou Nomachi/Getty Images
-
-Workers — particularly those considered “knowledge workers” who are
-
-able to do most if not all of their work with a laptop and an internet
-
-connection — have been ﬁghting for the right to maintain control over
-
-their time for years. While working from home in 2020 and 2021, they
-
-demonstrated to their bosses that they are able to maintain, or in some
-
-cases even increase, their productivity while working ﬂexibly. Their
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5edb12eab73358a094c86458eae57e689cea151
+title: H08AWG-PDF-ENG
+---
+## Published on HBR.org / July 18, 2024 / Reprint H08AWG

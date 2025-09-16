@@ -1,9 +1,11 @@
-# Academy of Management Review, 14, 20-39.
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 5f1129b508b84898346bf5ee00e70dcb8244a00e
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# Group & Organization Management 0(0)
 
-Ashikali, T., Groeneveld, S., & Kuipers, B. (2020). The role of inclusive leadership in supporting an inclusive climate in diverse public sector teams. Review of Public Personnel Administration, 1-23.
+Albuja, A. F., Gaither, S. E., Sanchez, D. T., Straka, B., & Cipollina, R. (2019). Psychophysiological stress responses to bicultural and biracial identity denial. Journal of Social Issues, 75(4), 1165-1191. doi: 10.1111/josi.12347
 
-Baer, M., & Frese, M. (2003). Innovation is not enough: Climates for initiative and psychological safety, process innovations, and ﬁrm performance. Journal of Organizational Behavior, 24(1), 45-68.
-
-Barrett, I. C., Cervero, R. M., & Johnson-Bailey, J. (2003). Biculturalism – outsiders within: The career development experiences of black human resource developers, Journal of Career Development, 30(2), 109-128.
-
-Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachmentsasafundamentalhumanmotivation.Psychological Bulletin,117,497-529. Bell, E. L. (1990). The bicultural life experience of career-oriented black women.
+Ashforth, B. E., & Mael, F. (1989). Social identity theory and the organization.

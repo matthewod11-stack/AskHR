@@ -1,5 +1,11 @@
-# Pierre Marie Félix Janet
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b5743265b61db488f8f3b6cb9c1d77fe5e039b18
+title: untitled
+---
+# Bernheim and the Nancy School
 
-Neurologist and psychologist Pierre Marie Félix Janet (1859–1947) was known for his studies of hysteria and neu- roses and for his application of psychological theory to the clinical treatment of hysteria. He collaborated with Charcot at the Salpêtrière in demonstrating that no signs of actual
+About 1885, criticisms against metalloscopy research by Hippolyte Bernheim (1840–1919), a physician in Nancy, France, led to its being discredited, and further investigations were abandoned. At about the same time Bernheim learned that A. A. Liébault, a country doctor, was successfully using hypnosis to cure patients. Bernheim was impressed by Liébault’s success in curing a case of sciatica by direct hypnotic suggestion—a case that had failed to respond to his conventional treatment. In 1882, they opened a clinic, known as the Nancy School. In a textbook published in 1884, Bernheim stated that susceptibility to hypnosis does not re- ﬂect a pathological functioning of a morbid nervous system; it has a mental etiology. He suggested that Charcot’s “clas- sic” three stages of hypnosis were artifacts of speciﬁc sug- gestions made to the patient and that Charcot’s identiﬁcation of hypnosis with hysteria was mistaken.
 
-321
+Bernheim believed that the phenomena of hypnotism can only be explained ideogenically; the hypnotist’s suggestions to the hypnotized subject cause hypnotic phenomena and reﬂect normal psychological processes in a state of increased passivity-receptivity engendered by the suggestions. Hence hypnosis cures when the patient—in a state of increased sug- gestibility induced by the hypnotist—uncritically accepts new attitudes and beliefs. Statistics were compiled at the Nancy School to demonstrate the lack of marked difference in the proportion of men and of women susceptible to hypno- sis, that young children are hypnotizable, and that all subjects are more or less inﬂuenced by hypnotic procedures, with only about 10% of persons showing no inﬂuence at all. Freud spent several weeks with Bernheim and Liébault in 1889 in order to perfect his hypnotic techniques. He also translated Bernheim’s textbook into German.

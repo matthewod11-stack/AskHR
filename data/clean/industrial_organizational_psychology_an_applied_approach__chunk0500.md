@@ -1,7 +1,11 @@
-# Using Other Job Analysis Methods
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f54b388a20d75fd0fda952ae506fbfcb329108d9
+title: industrial_organizational_psychology_an_applied_approach
+---
+## KSAO = knowledge, skill, ability, other characteristics.
 
-In the previous pages, the most common method for conducting a job analysis was discussed. Th ough this method provides great information, it can be rather lengthy and unstructured. To save time, increase structure, or supplement infor- mation obtained from interviews, observations, and task analysis, other job analysis methods are available. Th ese methods tend to provide information on one of four speciﬁ c factors that are commonly included in a job description: worker activities, tools and equipment used, work environment, and competencies.
+samples, ability tests, personality tests, reference checks, integrity tests, biodata, and assessment centers. Th ese methods, and how to choose them, will be dis- cussed in great detail in Chapters , , and .
 
-Methods Providing General Information About Worker Activities Using the strategy discussed previously yields speciﬁ c information about the tasks and activities performed by an incumbent in a particular job. Th ough such detailed information is ideal, obtaining it can be both time consuming and expensive. As an alternative, several questionnaires have been developed to analyze jobs at a more general level. Th is general analysis saves time and money, and allows jobs to be more easily compared with one another than is the case if interviews, observa- tions, job participation, or task analysis is used.
-
-Position Analysis Questionnaire. Th e Position Analysis Questionnaire (PAQ) is a structured instrument developed at Purdue University by McCormick, Jeanneret, and Mecham (), and is now available from PAQ Services in Bellingham, Washington. Th e PAQ contains  items organized into six main dimensions: information input, mental processes, work output, relationships with other persons, job context, and other job-related variables such as work schedule, pay, and responsibility. In the sample PAQ page shown in Figure ., notice that
+Th e average ratings obtained from Step  will be used to weight test scores. Th at is, a test tapping a KSAO with a rating of . should receive more weight than a test tapping a KSAO with a rating of ..

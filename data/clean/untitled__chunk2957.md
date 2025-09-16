@@ -1,17 +1,7 @@
-## The Georgian Psychological Association was founded.
-
-1983
-
-1984
-
-1985
-
-1986
-
-1988
-
-1989
-
-1990
-
-1991
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e7194e9190228b53e44830d98a490a05fcc58bb1
+title: untitled
+---
+## The Association of Albanian Psychologists was founded.

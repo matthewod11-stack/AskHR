@@ -1,9 +1,9 @@
-# Special Abilities
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac13793e787d1ea12f601702829c8f7918bbd479
+title: R2304H-PDF-ENG
+---
+# and talent.
 
-Distinctive or unusual skills frequently go hand in hand with
-
-disabilities. For instance, academics who study autism, notably
-
-Cambridge University’s Simon Baron-Cohen, have found strong links
-
-between autism and aptitude at tasks requiring attention to detail.
+Let’s look at each of these advantages in turn.

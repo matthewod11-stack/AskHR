@@ -1,13 +1,37 @@
-## of such sophisticated tools, leaders like Fink obsessively search for
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 978f9710af95bbb86f67c723a4d5f1d5d38af517
+title: R2505C-PDF-ENG
+---
+# Create a Positive Narrative
 
-signals in the noise around which they can build a positive story that
+The stories we tell have an enormous inﬂuence on our sense of self,
 
-will inspire action. For example, in this year’s annual letter, he pointed
+our understanding of the wider world, and our ability to behave
 
-to clear opportunities for matching uninvested capital (the $25 trillion
+courageously. There are three ways that the leaders I studied crafted
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+narratives to either lessen their fear or overcome it.
 
-4
+Go risk hunting. The ﬁrst tactic is identifying and mitigating the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+challenges and threats you face. The point is not to reduce risk to zero
+
+(often an impossibility) but to shift how you perceive the unknown so
+
+that it becomes less daunting and you feel more capable of conquering
+
+the chaos. Risk hunting helps recast the world in a more orderly light,
+
+thereby emboldening you to move forward.
+
+Larry Fink, cofounder of the asset management ﬁrm BlackRock, has
+
+built his entire career and business around this approach. He tasked
+
+his ﬁrst hire, Charlie Hallac, with developing a comprehensive risk-
+
+assessment platform, later dubbed Aladdin, which has since become
+
+the gold standard among ﬁnance professionals. But even in the absence

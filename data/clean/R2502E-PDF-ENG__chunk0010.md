@@ -1,15 +1,13 @@
-# capital.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1dcb3e186e1de53226ed245c3429dbf052e585a2
+title: R2502E-PDF-ENG
+---
+# especially at senior levels?
 
-To understand how men and women build experience capital
+One of the big reasons is that education and entry-level skills get
 
-diﬀerently, we analyzed about 86,000 professional proﬁles in the
+you only halfway to your full earning potential. The rest is based on
 
-United States, using longitudinal data to trace actual career trajectories.
-
-Interestingly, our analysis shows that women move from role to role and
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+knowledge, skills, and wisdom gained on the job. We call this experience

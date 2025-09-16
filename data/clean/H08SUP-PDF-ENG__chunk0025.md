@@ -1,9 +1,7 @@
-## After the implementation of simultaneous voting, FDA AdComs
-
-exhibited a substantial decline in unanimous voting outcomes: the
-
-proportion of unanimous committee recommendations decreased from
-
-45% to 27%. This shift appears to reﬂect the FDA’s intended goal
-
-of reducing “herding” behavior and promoting greater independence
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c93e43123c8e671af7eeb6bda0c1c2bc8f19a3e5
+title: H08SUP-PDF-ENG
+---
+## Better Discussions, More Dissenting Voices, and Better Decisions

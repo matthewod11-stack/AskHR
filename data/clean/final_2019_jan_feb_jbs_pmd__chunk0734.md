@@ -1,9 +1,11 @@
-# Mean Square 10.938 .401
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: a52fbb03a8f7c5dc8384c93d5d89ab19f6693903
+title: final_2019_jan_feb_jbs_pmd
+---
+# Model Regression Residual Total
 
-F 27.304
+Sum of Squares 32.814 167.452 200.265
 
-Sig. .000a
-
-a. Predictors: (Constant), Laissez-Faire LS, Transactional LS, Transformational LS b. Dependent Variable: Task performance
-
-Table 4.1.3: Beta values and significance level in predicting employee Task performance
+ANOVA df 3 418 421

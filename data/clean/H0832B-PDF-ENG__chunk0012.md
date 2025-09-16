@@ -1,7 +1,11 @@
-## management of a successful alumni network.
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a07fe38f8c0deb62c07d8d401682a7bda438d720
+title: H0832B-PDF-ENG
+---
+## platforms and beneﬁts, communications, feedback, and integration
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+with the employee life cycle. These dimensions can help them start
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or evaluate the current status of their program and guide the strategic

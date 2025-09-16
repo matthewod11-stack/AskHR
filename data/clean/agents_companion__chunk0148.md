@@ -1,5 +1,9 @@
-## essential for autonomous operation and intelligent interaction:
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 96848f0e42e74f30639dc10bd6609915bae17e13
+title: agents_companion
+---
+# Important components of Agents
 
-Interaction Wrapper: This component serves as the interface between the agent
-
-and its environment, managing communication and adapting to various input and
+The architecture of LLM-based AI agents consists of several interrelated components

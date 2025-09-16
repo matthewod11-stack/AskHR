@@ -1,29 +1,57 @@
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19a3a1edb54255777489ba9f43ef1ddfb8c7c7e3
+title: R2504P-PDF-ENG
+---
 ## HBR / Magazine Article / Case Study: Do We Reskill or Replace Our Workforce?
 
-“That’s why we’re framing this as a bargain,” Sarah said. “SolidTech
+Jon’s manufacturing, installation, and maintenance peers all nodded
 
-organizes the right training, which will help employees whether they
+vigorously and murmured agreements. He continued, “The service
 
-stay with us or not. In exchange, they commit to adapting.”
+technician arriving at a customer’s premises is a visible display of the
 
-As the debate continued around him, Alex felt like a ghost himself,
+value we bring. We lose our frontline relationship with the customer
 
-trapped in limbo, unsure whether to move forward or back with the
+if we are just squirting software updates to them in the middle of the
 
-Grand Bargain. In his gut, he knew that whatever decision he made
+night. There will be no loyalty.”
 
-would deﬁne not just his leadership but SolidTech’s future.
+Alex felt a knot forming in his stomach. He’d had similar concerns but
 
-Question: Should Alex push forward with a reskilling program?
+pushed them aside. He was thankful when Maya Perrineau, his chief
 
-HBR’s fictionalized case studies present problems faced by leaders in real companies and offer solutions from experts. This one is based on the HBS case study “AT&T, Retraining, and the Workforce of Tomorrow” (HBP Product 9-820-017) by William R. Kerr, Joseph B. Fuller, and Carl Kreitzberg.
+sales oﬃcer, chimed in. “But that’s everyone’s knee-jerk reaction to the
 
-A version of this article appeared in the July–August 2025 issue of Harvard Business Review.
+idea of upskilling, right? ‘Is our industry really changing that quickly?
 
-William Kerr is the D’Arbeloﬀ Professor of Business Administration at Harvard Business School.
+Does everyone have to do it? Can’t we just expand our digital team to handle that stuﬀ?’ But I can tell you that what customers want now
+
+are the same great elevators we’ve always made upgraded with all the
+
+modern conveniences—not layered on but integrated.”
+
+Tony Wu, SolidTech’s chief ﬁnancial oﬃcer, spoke up next. “This
+
+reminds me of ‘ghost oﬃces’ in Japan. These are the workplaces where companies that are committed to oﬀering lifetime employment send
+
+their workers when their skills become obsolete. They’re still employed,
+
+but they have no purpose. They’re ghosts.” He paused. “It goes without saying that we can’t aﬀord to do that. But also I don’t think it’s what any
+
+of us want. We’ve got to work together to keep everyone’s skills relevant
+
+—and Alex’s plan seems like a good way to do that.”
+
+“But it’s not your teams that will need to reskill,” Jon countered. “It’s our
+
+engineers and installers and maintenance guys. And I’m not sure they’ll all be able or willing to do that. So are we talking about layoﬀs for those people who don’t? And would you oﬀer job guarantees to the ones who
+
+do, no matter how they perform?” The room fell silent.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

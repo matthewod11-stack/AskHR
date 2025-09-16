@@ -1,13 +1,13 @@
-# Communication Factors
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: b4b4b1e230d5e2b137081764c0f6e9cc7884bab5
+title: document_resume
+---
+# Stano, Op cit., pp. 131-142.
 
-51 Michael K. Mount, "Comparisons of Managerial and Employee Satisfaction with a Performance Appraisal Sy stem," Personnel P.$)c holog 3 4 (Spring 1983), pp. 99-109.
+- 49. Christina G Banks a J Kevin R. Murphy , "Tow aid Narrow
 
-52.
+the' Research- Practice Gap in Performance Appraisal." Personnel PAlt holoks 38 (Summer 1985); pp 335-345.
 
-Laird and Clampitt, op. cit , p. 56.
-
-- 53. Meadows, op cit.. pp. 2-6.
-
-- 54. Wexley, op. cit.. pp. 167-185.
-
-55
+- 50. Wexley, op. cit p. 170.

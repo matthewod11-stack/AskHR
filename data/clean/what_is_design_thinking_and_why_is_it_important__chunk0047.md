@@ -1,9 +1,17 @@
-# Design Thinking and Its Importance
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: 3825937c7fe636ea5be75068c03cf4c6e3549cd9
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Experts During the Design Process
 
-to the problem type approached the design task through solution assumptions/ conjectures instead of problem analysis. This hypothesis suggests that experience in a specific problem type enables designers to perceive the design problem in terms of relevant solutions that they have previously encountered.
+Expert designers solve complex problems more easily than novices (Cross, 2004). During a conceptual design process, experienced designers do not just syn- thesize solutions that satisfy given requirements, they also invent design issues or requirements that capture important aspects of a given problem that assist in solv- ing the problem at hand (Liu, 1996). From protocol studies of experienced engi- neering designers, Lloyd and Scott (1994) found that the manner by which experts approach a problem is related to the degree and type of previous experience. More experienced designers tend to use generative reasoning (i.e., an inductive approach) compared to less experienced designers who employ more deductive reasoning (depth-first approach). In other words, designers with specific experiences related
 
-Designers also tend to change goals and constraints as they design. They are flexible in selecting and trying different solutions. However, when designers face unexpected difficulties and/or shortcomings in the solution concept, they tend to stick to their principal solution concept as long as possible through the design process. For instance, from case studies of professional architectural designers, Rowe (1987) observed that the designers’ choices for problem-solving directions were influenced by their initial design ideas. Furthermore, the designers made every effort to make these ideas work whenever a problem was encountered, rather than adopting a new idea.
+340
 
-And although this fixedness proclivity may sound maladaptive, Ullman, Dietterich, and Stauffer (1988) observed the same phenomenon in their protocol studies of experienced mechanical engineering designers. Ullman and colleagues found that experienced designers typically pursued only one design proposal. And even when major problems had been identified, the designers preferred to modify the initial proposal rather than rejecting it and developing a new one. Likewise, Ball, Evans, and Dennis (1994) drew a similar conclusion from their studies of senior electronic engineers conducting real-world projects. The researchers stated that when the designers generated a less than satisfactory solution, they refused to discard the original solution or spend time and effort coming up with an alternative one. Rather, they tended to improve the solution by developing different versions until a workable solution was achieved. Again, the designers indicated a fixation behavior on initial concepts (Ball et al., 1994). Nonetheless, adherence to initial concepts seems to comprise normal expert design behavior. Finally, in a study of experienced software designers, Guindon (1990) also found that designers came to a solution very early in the session and quickly rejected alternative solutions.
+Downloaded from
 
-Since a problem cannot be fully understood in isolation, expert designers use conjectures as a means of helping them to explore and understand the formulation of the problem. From protocol studies of experienced industrial designers, Dorst and Cross (2001) asserted that the designers start by exploring the problem and find, discover, or recognize a partial structure. Afterwards, they use this partial structure to generate initial ideas for the form of a design concept, then expand and develop the partial structure. Thus, their goal is to create a matching solution to the problem. Having more than one solution concept should stimulate a more compre- hensive evaluation and understanding of the problem (Cross, 2004). From the analysis and synthesis of the literature, it appears that there are a number of com- petencies that designers should acquire and hone. The more experience a designer builds in these competencies, the more he or she advances along the novice-expert continuum.
+http://rer.aera.net
+
+at AERA on October 2, 2012

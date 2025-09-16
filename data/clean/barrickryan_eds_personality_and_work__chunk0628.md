@@ -1,3 +1,11 @@
-# Self-Monitoring Personality
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 56d484b837aab4f6c54929297c91f44443044dbf
+title: barrickryan_eds_personality_and_work
+---
+## SELF-MONITORING PERSONALITY AND WORK RELATIONSHIPS 207
 
-In addition to guiding individual thinking and behavior, motives are shaped by dispositional factors such as personality. One partic- ular personality construct with demonstrated relevance (validity) in organizational contexts is self-monitoring (Day, Schleicher, Unck- less, & Hiller, 2002; Snyder & Copeland, 1989). An underlying as- sumption of the self-monitoring construct is that people differ in the extent that they monitor (observe, regulate, and control) the public appearance of self they display in social settings and in cre- ating and managing their interpersonal relationships (Snyder, 1974, 1987). Interesting and somewhat unique aspects of self-monitoring as a personality construct are the emphases on the conceptualization and representation of self in social situations and two separate, dis- tinct, and independent self-monitoring orientations (Gangestad & Snyder, 1985). High self-monitors tend to be pragmatic in present- ing themselves in interpersonal situations in that they regulate their behavior to promote situationally appropriate interaction outcomes.
+tained, or broken. According to social exchange theory (Blau, 1974; Thibaut & Kelley, 1959), relationships are built as a way of obtaining something of value from another person—a means to an end—in exchange for something offered to the other party. Re- search on the afﬁliation motive has shown that people prefer to af- ﬁliate with similar others, especially when they face uncertainty (Schachter, 1959). The social comparison motive proposes that af- ﬁliation choices are particularly important in situations where there is no objective standard against which to compare abilities, opinions, or behaviors (Festinger, 1954). Relationships are also used for purposes of status enhancement and self-validation (Gangestad & Snyder, 2000)—essentially, of presenting the self in the best possible light according to personal values.
+
+Answering the deeper question of what people want from re- lationships is a way of understanding why they are formed. It is a way of understanding motive. In considering the motives of indi- viduals, it is apparent that individual differences at least partially guide what is desired from relationships. People do not all want the same thing from their relationships, and their desires are shaped by various individual motives.

@@ -1,21 +1,17 @@
-# for one of joint ownership.
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6747fed9f2b4113aa538aaa0c167d3f52c3ef59
+title: H08M6G-PDF-ENG
+---
+# HBR / Digital Article / How Constructive Dissent Can Unlock Your Team’s Innovation
 
-For example, one leader we worked with asked their team members to
+on every intersection, making these environments fertile ground for
 
-point out the boundaries of their domain expertise. It was a vulnerable
+dissent and disagreement. When you point this out to your employees,
 
-act that acknowledged the need for collaboration and invited the team
+that knowledge alone can be both humbling and empowering,
 
-to engage respectfully at the intersections. And another client’s sales
+motivating them to take a more collaborative approach. As a result,
 
-organization would routinely exclude the design and delivery team
-
-from the initial part of sales negotiations, often overpromising delivery
-
-and underestimating costs. After listening to each other’s concerns
-
-and working together at the intersection of the two functions, they
-
-increased the level of innovation in their designs, reduced their delivery
-
-time, and increased both proﬁtability and customer satisfaction levels
+team members tend to naturally relinquish a mindset of sole authorship

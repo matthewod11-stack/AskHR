@@ -1,25 +1,17 @@
-# global objectives.
+---
+source_path: H08LL6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8c7f4fb87d125c14469804b96b77eff1aefb5ef
+title: H08LL6-PDF-ENG
+---
+# expertise of the organization.
 
-Unilever’s “One Unilever” strategy demonstrates another eﬀective
+McKinsey & Company exempliﬁes eﬀective global knowledge
 
-approach. The company’s expatriates access global sustainability
+integration. The ﬁrm’s consultants worldwide rely on a shared
 
-initiatives and consumer insights, allowing them to implement
+knowledge repository containing case studies, frameworks, and best
 
-campaigns like reducing plastic waste or promoting sustainable
+practices. This platform enables expatriate managers to apply proven
 
-sourcing while sharing what worked and what didn’t in speciﬁc
-
-contexts. By integrating global knowledge into local decision-making,
-
-Unilever achieves consistency and innovation.
-
-In the energy sector, Shell employs global knowledge-sharing platforms
-
-that allow expatriates in diﬀerent regions to collaborate on complex
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+strategies tailored to local contexts while maintaining alignment with

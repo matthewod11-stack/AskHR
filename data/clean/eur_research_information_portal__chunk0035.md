@@ -1,3 +1,9 @@
-## Cross-level: Social Comparisons Within the Workgroup (Figure 1, link 1c)
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: 7a2e773aabe8c271daad53ba61780b2576d87e1b
+title: eur_research_information_portal
+---
+# Editorial
 
-Theories of social comparison (Adams, 1963; Festinger, 1954) suggest that individuals are sensitive to cues from their social environment about the degree to which they—relative to others—are treated fairly and as an insider. When a leader treats only some followers as ingroup members, outgroup members feel unfairly treated (Scandura, 1999) and dissatisﬁed (McClane, 1991). In diverse groups, differentiated leader treatment is particularly dangerous when it ritualizes status hierarchies that are imported from the broader societal context (Ridgeway & Correll, 2006). In contrast, when they leaders develop similarly high-quality relationships with followers, neutralize status differentials and make it more likely for group members to accept each other as equals. Furthermore, researchby Nishii andMayer (2009) suggests that people compare how they are treated by their leader to how coworkers are treated overall. When individuals perceive that they are treated comparatively worse than their peers, their self-esteem and morale suffer because they are more likely to make self-attributions for the differential treatment. If many other coworkers also appear to have low-quality rela- tionships with the leader, it can more easily be attributed to poor leadership and therefore its impact is less detrimental. Overall, because diverse groups are predisposed to experience negative power dynamics, members are more sensitive to leader differentiation than is the case in homogeneous groups.
+diversity dynamics, so that they can adapt their behaviors to promote better inclusion outcomes for their followers. In other words, effective inclusive leadership involves meta-cognition, or thinking about how to adjust and expand one’s behavioral strategies as needed by a particular situation.

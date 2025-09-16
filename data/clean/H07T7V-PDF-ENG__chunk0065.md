@@ -1,9 +1,13 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6bb31e665b3b62f1a6501d721ffe95b4424014f9
+title: H07T7V-PDF-ENG
+---
+# say, the white-collar workforce?
 
-ANDREW MCAFEE:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-The more I think about GenAI, the more I think we’re underestimating
+20
 
-its impact. It is so general, it is so powerful, it is improving so quickly,
-
-it’s leading to so many complementary innovations. I have never seen
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

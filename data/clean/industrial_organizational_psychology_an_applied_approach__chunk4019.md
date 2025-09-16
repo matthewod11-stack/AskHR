@@ -1,3 +1,9 @@
-# rank order of their test scores.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b40c147964acf7dc27eef97fa6709ea8f6a6707f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Threshold Traits Analysis (TTA) A 33-item
 
-Trade magazine A collection of articles for those “in the biz,” about related professional topics, seldom directly reporting the methods and results of new research.
+questionnaire developed by Lopez that identifies traits necessary to successfully perform a job. Top-down selection Selecting applicants in straight

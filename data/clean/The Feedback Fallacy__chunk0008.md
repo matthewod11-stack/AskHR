@@ -1,15 +1,55 @@
-## measure you against its predeﬁned leadership competencies and then
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: a2c67a2f36fa4345aed19e549b2a443fc89604cb
+title: The Feedback Fallacy
+---
+## HBR / Magazine Article / The Feedback Fallacy
 
-suggest various courses or experiences that will enable you to acquire
+your weaknesses, and that the best way to help you, therefore, is for
 
-the competencies that your results indicate you lack.
+them to show you what you cannot see for yourself. We can call this our
 
-What these three theories have in common is self-centeredness: They
+theory of the source of truth. You do not realize that your suit is shabby,
 
-take our own expertise and what we are sure is our colleagues’
+that your presentation is boring, or that your voice is grating, so it is up
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+to your colleagues to tell you as plainly as possible “where you stand.” If
 
-3
+they didn’t, you would never know, and this would be bad.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The second belief is that the process of learning is like ﬁlling up an
+
+empty vessel: You lack certain abilities you need to acquire, so your
+
+colleagues should teach them to you. We can call this our theory of
+
+learning. If you’re in sales, how can you possibly close deals if you
+
+don’t learn the competency of “mirroring and matching” the prospect?
+
+If you’re a teacher, how can you improve if you don’t learn and practice
+
+the steps in the latest team-teaching technique or “ﬂipped classroom”
+
+format? The thought is that you can’t—and that you need feedback to
+
+develop the skills you’re missing.
+
+And the third belief is that great performance is universal, analyzable,
+
+and describable, and that once deﬁned, it can be transferred from one
+
+person to another, regardless of who each individual is. Hence you can,
+
+with feedback about what excellence looks like, understand where you
+
+fall short of this ideal and then strive to remedy your shortcomings.
+
+We can call this our theory of excellence. If you’re a manager, your boss
+
+might show you the company’s supervisor-behaviors model, hold you
+
+up against it, and tell you what you need to do to more closely hew to it.
+
+If you aspire to lead, your ﬁrm might use a 360-degree feedback tool to

@@ -1,21 +1,35 @@
-# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64c523d5afe82b9a315809c2852b56368363b230
+title: H07SHV-PDF-ENG
+---
+# none of it matters.
 
-success through their merit and personal accomplishment. They know
+Two things show up on the happiest workers, the people who have
 
-it, they see it, and so do their friends. And they actually feel like they’re
+the greatest happiness from work. They feel like they’re earning their
 
-serving other people and they can see the faces of the people for whom
+success, which is to say that they’re creating value with their lives and
 
-they’re creating value. These are the big things.
+with their work lives, that their accomplishments are moving the needle
 
-One more thing to keep in mind, those things are easiest to do when
+and they’re being recognized for those accomplishments. And number
 
-we’re in person. That’s just it. You said we spend half of our lives with
+two, they feel like they’re serving people so that they’re needed. These
 
-our coworkers at work. Well, I don’t know, man, not anymore. A lot of
+are the two big things.
 
-people are spending half of their lives in front of a Zoom screen where
+A lot of people are watching us right now who are employers, and I’ve
 
-it’s hard to earn your success, it’s hard to feel like you’re serving other
+been a CEO too. The number one thing that you can do for recruitment,
 
-people, and you don’t even get to see your work buddies. That’s tough
+for retention, the ultimate rewards that go far beyond money are
+
+making sure that you have a system where people are earning their
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

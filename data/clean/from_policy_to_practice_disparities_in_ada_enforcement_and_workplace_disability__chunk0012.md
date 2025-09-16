@@ -1,9 +1,7 @@
-## 3.(cid:32) Case Studies and Narrative Accounts:
-
-In a bid to embrace the human aspect of the application of ADA, the study comprises case studies derived from the lived experiences of disabled workers, legal representation, and HR practitioners who practice in various states. These stories contribute to the understanding of the direct impacts of inequality in law and policy. The collection of personal accounts takes into account ethical points, such as confidentiality and informed consent. Quantitative data are all based on public or anonymized data to facilitate adherence to research standards. Triangulation of these methods will afford the journal a comprehensive picture of how the ADA is being put into practice, and criminally, too little execution, in the employment arena of the United States.
-
-- 2. Legal Framework and ADA Provisions on Employment Rights
-
-2.1 The ADA Title I: Equal Employment Opportunity for Individuals with Disabilities The major legislation that regulates the employment rights of disabled people in the United States is Title I of the Americans with Disabilities Act (ADA). The Title I, ratified in 1990 and modified in 2008 by the ADA Amendments Act (ADAAA), forbids employers from discriminating the qualified individuals with disabilities in any employment move, including recruitment, hiring, promotion, wage, coaching, dismissal, and other terms and conditions of employment (Wagner et al., 2025). A qualified person with a disability, according to the understanding of the ADA, is an individual who may fulfill the core roles of a specific position, with or without any reasonable accommodation. Qualifying disabilities take the form of diverse impairments of the body as well as the mind, which limit one or more significant life activities to a significant degree (Wagner et al., 2025). ADA obliges that the person does not lack access to employment opportunities due to assumptions and stereotypes or otherwise restricted work environment. Title I covers employers who are private businesses, employment agencies, unions, as well as the state and local governments, and those who employ 15 or more employees. Notably, it puts pressure on the employers who should hold an interactive procedure with the employee to recognize the required accommodations and should not oppress either of the persons who assert his or her rights according to the Act. 2.2 The Role of the Equal Employment Opportunity Commission (EEOC) The Equal Employment Opportunity Commission (EEOC) is the federal agency that has the responsibility of enforcing Title 1 of the ADA. The EEOC was set up by the Civil Rights Act of 1964 and exists to enforce many different anti-discrimination laws, such as disability. It has a complex role in ADA enforcement, ranging from investigation, mediation, litigation, as well as public education.
-
-©2025, Cognizance Journal, ZAIN Publications, Fridhemsgatan 62, 112 46, Stockholm, Sweden, All Rights Reserved 208
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: 32e1e3ca42a0ce7771cc7296783a89d8d2bd611a
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+## ISSN: 0976-7797 Impact Factor: 5.183 Index Copernicus Value (ICV) = 77.57

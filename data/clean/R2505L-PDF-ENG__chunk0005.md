@@ -1,27 +1,35 @@
-## restaurants (McDonald’s), airlines (Delta), entertainment (Disney), the
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f396dfaa3128dbbf9bb4c66a61733f8d55f6862
+title: R2505L-PDF-ENG
+---
+## the long-running battle over the drug’s pricing.
 
-fashion industry (Victoria’s Secret), the automotive industry (Tesla), and
+There was one problem: The tweet was fake, posted from a parody
 
-others. Fake news has also proven disruptive in politics, eroding trust
+account. Although Eli Lilly’s oﬃcial account promptly clariﬁed the
 
-in democratic institutions, deepening polarization, inﬂuencing voting
+situation, the damage had already been done. The company’s stock
 
-perceptions, and swaying results in closely contested elections.
+value dropped by 4%, rattling investors who feared a signiﬁcant hit to
 
-Unfortunately, fake news is a stubborn problem that is unlikely to go
+proﬁt and reigniting heated public debates about the cost of insulin.
 
-away. While many U.S. adults feel conﬁdent in their ability to detect fake
+That wasn’t the ﬁrst time the industry had been rocked by a fake news
 
-news, 38% of U.S. social media users have accidentally shared a fake
+scandal. Several months earlier, a manipulated video appeared online
 
-news story, according to the Trusted Web Foundation. Complicating
+of Pﬁzer’s CEO, Albert Bourla, in which he appeared to say, “By 2023,
 
-matters, fake news spreads signiﬁcantly faster than real news—it is
+we will reduce the number of people in the world by 50%.” Outraged
 
-up to 70% more likely to be shared, according to a study of news
+viewers demanded his arrest, labeling pharmaceutical companies as
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+“evil.” Of course, the video had been edited. Bourla had actually stated
 
-2
+that “we will reduce the number of people in the world who cannot aﬀord our medicines by 50%.”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Fake news isn’t a problem just for the pharma industry. It has
+
+targeted the ﬁnancial sector (Metro Bank), consumer goods (Coca-Cola),

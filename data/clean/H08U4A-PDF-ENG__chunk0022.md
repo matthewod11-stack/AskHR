@@ -1,9 +1,17 @@
-# following:
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3f1eb265aa40c90c31a4f9ca64586c7d6a816ef
+title: H08U4A-PDF-ENG
+---
+## HBR / Digital Article / Why Kindness Isn’t a Nice to Have
 
-- 1. Treat kindness as a hard skill.
+This is what happens when kindness is built into reliable, high-
 
-Organizations can be clear about what kindness looks like in action
+functioning systems led by managers who understand it’s not optional.
 
-and can teach it. That includes skills like how to listen without
+They use clear tactics for embedding kindness as a strategic priority: It’s
 
-defensiveness, give and receive feedback, and handle conﬂict or hard
+expected, measured, and reinforced at every level. Key management
+
+levers for making kindness an organization-wide norm include the

@@ -1,9 +1,9 @@
-## Neurodiversity (i.e. diﬀerent mental processing styles such as high
+---
+source_path: H07KV7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2d01ecdcc550cf83ba9e8c09ea63483c8b6ffcc
+title: H07KV7-PDF-ENG
+---
+# company.
 
-sensitivity) leads to better results. But too often, HSPs are seen as weak
-
-and categorized as fragile, overly emotional employees who need a lot of
-
-hand-holding. This outdated perspective ignores the unique strengths
-
-that HSPs bring to the workplace, such as creativity, problem-solving,
+See sensitivity as a strength, not a shortcoming.

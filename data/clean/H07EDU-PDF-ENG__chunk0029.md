@@ -1,17 +1,7 @@
-## a high reliance on R&D, low capital intensity, and high growth. Market
-
-response to layoﬀs was also less positive than might be expected, with
-
-three-day share prices of ﬁrms conducting layoﬀs generally neutral.
-
-Higher valuations were given for layoﬀs perceived as helping ﬁrms
-
-in ﬁnancial distress return to proﬁtability as well as those that were
-
-strategic and forward-looking. Layoﬀs undertaken only for the purpose
-
-of reducing costs tended to lead to drops in share price.
-
-Another study focused on Fortune 1000 ﬁrms between 2003 and 2007 —
-
-a period of economic prosperity — to try to minimize the confounding
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8017c6fccde328bf7eacde7d6b46722b8ead158
+title: H07EDU-PDF-ENG
+---
+## HBR / Digital Article / What Companies Still Get Wrong About Layoffs

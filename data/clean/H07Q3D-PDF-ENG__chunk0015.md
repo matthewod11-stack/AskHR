@@ -1,15 +1,21 @@
-# employees a natural boost.
+---
+source_path: H07Q3D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21b300f3c4cac8fa01889afeed513a56a5866446
+title: H07Q3D-PDF-ENG
+---
+# their speciﬁc organization.
 
-Think beyond the ofﬁce… It goes without saying that it is not just
+Capitalizing on Micro-Nature
 
-oﬃce workers who beneﬁt from nature. Employees in settings where
+Real is best, but artiﬁcial works too. Giving employees opportunities
 
-the work environment feels especially removed from nature — think
+to access “the real thing” is ideal when it comes to nature: indoor water
 
-warehousing or manufacturing — are especially likely to notice a dash
+features, windows with views of nature or that open to let in natural
 
-of the outdoors brought inside and be positively impacted by it because of how diﬀerent it is from their status quo.
+sounds like birdsong. But just because it’s not the real thing does not
 
-…and beyond the workplace. The beneﬁts of nature extend beyond
+mean that employees will not beneﬁt from nature. Research shows that
 
-employees’ work lives. Some of our research looked at the work-related
+even depictions of nature, such as murals and artiﬁcial ﬂowers, can give

@@ -1,15 +1,15 @@
-# purpose-minded.
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be27084ab8df66615e2de60e75f873fc779dfac1
+title: R2502C-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Strategic Fit
 
-That’s why, in 2013, when Runyon and Mortensen needed to raise
+It’s important to distinguish stakeholder value creation from mere do-goodism— charitable activities that drain company resources without truly benefiting stakeholders.
 
-capital for growth, they developed an unusual process. They wrote
+Purpose-minded customers grow more loyal when the company shows
 
-an eight-page “investor manifesto” describing their mental models for
+commitment to its purpose—especially when that commitment is
 
-business, stakeholders, leadership, and life. They required potential
-
-investors to read it and then write their own manifestos. This process
-
-brought like-minded investors into the stakeholder system, turning
-
-the ultimate commodity—money—into an ingredient in the company’s
+expensive or diﬃcult. And it is far easier to do expensive or diﬃcult things that pay oﬀ only in the long term when investors are equally

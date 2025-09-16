@@ -1,15 +1,29 @@
-## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89c50464cd35927780855209044fc91457e134cb
+title: S24042-PDF-ENG
+---
+# leadership.
 
-intended to be in the role for 10 years. Those years, he told them, would
+When Mahesh found himself caught in the speed trap as a new CEO
 
-be the best the company had ever seen.
+at Bacardi, he freed himself from time pressures by making sure all
 
-His next task was to reboot the culture. He and his leadership team
+his stakeholders appreciated that they were at the very beginning of a
 
-gave their new programs memorable names like the “Best 10 Strategy”
+marathon. Assuming the helm after spending 20 years at the company
 
-and the “3Fs” (for “fearless, founder, family”) and talked about them
+and on the heels of several short-tenured CEOs, he recognized that
 
-regularly. Once the employees started to understand that they had a
+Bacardi was unstable, lacked a long-term strategic outlook, and had a
 
-CEO who planned to stick around, provide stability, and bring back
+culture that didn’t support its stated values. So at the outset he made it
+
+clear—with the board, the ownership family, and the company—that he
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

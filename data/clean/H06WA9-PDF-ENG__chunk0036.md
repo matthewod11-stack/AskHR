@@ -1,15 +1,33 @@
-# your everyday work.
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec3518056a94b93810583983dc0924b12551eba6
+title: H06WA9-PDF-ENG
+---
+## senior employees out of your meeting on innovation.
 
-When the Fung Fellowship program leaders did their own assumption
+After the week has passed, schedule time with the group to discuss their
 
-audit to uncover why the undergraduate-retiree teams were struggling,
+experiences, asking each person to bring at least one observation to the
 
-they found that younger team members had assumed that texts sent
+table. These conversations can get charged or lead to defensiveness, but
 
-after hours would be deemed urgent and would get a quick reply.
+clear ground rules can go a long way in preventing those outcomes.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Instruct people to speak about what they heard and saw but not
 
-8
+to assume intent: “Input from our younger teammates is dismissed
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+quickly” rather than “Senior leaders dismiss our younger teammates’
+
+input because they don’t think they have anything to oﬀer.” Encourage
+
+everyone to be open to feedback and to consider how age-based
+
+assumptions — whether containing some truth or absolutely false —
+
+might be aﬀecting team cohesion, engagement, and performance.
+
+Plan a follow-up meeting for several weeks later to continue the
+
+conversation, ensure accountability, and start building awareness into

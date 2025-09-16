@@ -1,13 +1,39 @@
-## An executive team of 15, for example, sets in motion more than
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77a04172342b1e33ec49afde794b2233b94b8fe0
+title: H08FW4-PDF-ENG
+---
+# for coordination across the enterprise.
 
-100 diﬀerent relationships to be managed. This dilutes the trust that
+Simply stated, governance is the act of regularly bringing together
 
-enables individuals with diﬀering views to debate vigorously but then
+the right roles, aligned against clear priorities, and equipping them
 
-support the conclusions they collectively reach. Despite the potential
+with the right data and authority to make informed decisions and to
 
-for governance to become a highly leverageable tool, executive teams
+hold the organization accountable for execution. Ultimately, well-run
 
-often become the source of its widespread failure.
+governance aligns the organization, ensuring that all consequential
 
-What they need to do
+decisions are consistent with the organization’s stated objectives.
+
+Where executive teams fall short Sadly, too many leadership teams struggle to establish suﬃcient
+
+governance to keep their organizations focused and moving forward.
+
+Despite their best intentions, they get mired in too many priorities,
+
+fail to clarify decision rights, follow undisciplined resource-allocation
+
+processes, and poorly document (then fail to communicate) outcomes.
+
+One of the most common shortfalls is maintaining bloated membership.
+
+This “more is better” trend toward greater inclusion, usually justiﬁed
+
+by the complexities of industry dynamics or wide portfolios, denies the
+
+reality that too many leaders seated at any governance table creates
+
+unwieldy dynamics as the number of relationships to manage increases.

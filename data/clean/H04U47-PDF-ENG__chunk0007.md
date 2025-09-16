@@ -1,7 +1,19 @@
-## important for success as actual competence.
+---
+source_path: H04U47-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36b76600111921794f2efccc8cdd58450809e068
+title: H04U47-PDF-ENG
+---
+# Westend61/Getty Images
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+It’s a common feeling: while you are busy doing a good job, others seem
 
-1
+to be advancing much faster in their careers. What’s going on?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The answer in many cases is your contributions are not being seen
+
+and recognized. One important reason this happens is that people
+
+are simply not great at assessing competence — a crucial trait for
+
+succeeding at work — and perceptions of competence are just as

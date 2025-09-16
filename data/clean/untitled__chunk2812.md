@@ -1,19 +1,27 @@
-# Events
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 565f9057a784b5e7c192bfd0c26a9a4cc113e2e7
+title: untitled
+---
+# Societies
 
-William James founded the ﬁrst U.S. demonstration laboratory of psychology equipment at Harvard University in conjunction with the course he taught on the relationship between physiology and psychology.
+The Moscow Psychological Society was established with a membership of medical doctors, philosophers, and physiologists interested in psychological issues.
 
-The ﬁrst Italian laboratory for work in psychology was established in the Liceo di Mantova.
+1875
 
-Wilhelm Wundt established the ﬁrst psychology laboratory at the University of Leipzig.
+1876
 
-G. Stanley Hall founded the ﬁrst formal U.S. psychology laboratory at The Johns Hopkins University. The University Trustees allocated $250 for space and equipment but, due to campus politics, prohibited calling the facility a “laboratory.”
+1879
 
-Inﬂuenced by Darwin’s theories, Sir Fancis Galton set up an anthropometric laboratory that conducted measurements of the physical and mental characteristics of nearly 10,000 persons.
+1883
 
-Vladimir S. Bekhterev founded Russia’s ﬁrst laboratory of experimental psychology at the University of Kazan.
+1884
 
-Alfred Lehman, an engineer who studied with Wundt, opened the Psychophysical Laboratory (renamed the Psychological Laboratory in 1924) at the University of Copenhagen.
+1885
 
-Yujiro Motora gave the ﬁrst psychology lecture in Japan at Tokyo University.
+1886
 
-The French government established the country’s ﬁrst psychological laboratory.
+1888
+
+1889

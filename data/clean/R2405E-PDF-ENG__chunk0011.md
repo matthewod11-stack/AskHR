@@ -1,17 +1,15 @@
-## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c7b9cbe024523581a7059ef81237ef12b3f1e45
+title: R2405E-PDF-ENG
+---
+## but avoid signiﬁcant early equity investments, an approach that also
 
-get VC funding. Critically, the size of any single commitment shouldn’t
+suits the start-ups because securing a large customer can help them
 
-preclude the incumbents from working with other partners.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-To scout out promising ideas, the Italian energy giant Enel sets up
+3
 
-innovation centers and events through which it connects with start-ups
-
-and small companies around the world. Each year Enel gets involved in
-
-about 200 proof-of-concept tests, spanning projects in the entire value
-
-chain for the energy sector. But it forgoes early-stage equity investments
-
-in those projects so that it can focus on business results.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

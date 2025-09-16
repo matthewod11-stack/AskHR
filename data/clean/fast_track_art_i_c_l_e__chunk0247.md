@@ -1,33 +1,21 @@
-# CONCLUSIONS
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 9b4e0d814d367b93690ec7ce290256efc4358920
+title: fast_track_art_i_c_l_e
+---
+## Analyzing Best Practices in Employee Health Management
 
-Best practices guidelines, and the scorecards designed to as- sess a company’s execution of them, show great promise for support- ing EHM program developers and health promotion practitioners intent on continuous improvement of employee engagement in, and positive outcomes resulting from, the best practices components of- fered. This study offers several considerations that should facilitate the use of the current scorecards and that can inform future develop- ment work on best practices components. First, one size does not ﬁt allcompanieswhenitcomestohowselectbestpracticescomponents can inﬂuence employee engagement and successful health improve- ment. This study showed how ﬁnancial incentives, environmental supports, biometric screenings, and wellness champion networks all perform differently, both positively and negatively inﬂuencing en- gagement and outcomes, according to the demographic proﬁle of a company. Future research is needed to strengthen our understanding of the interaction between a population’s demographics and the role that different EHM program components have in addressing demo- graphic factors. More speciﬁcally, to what extent are enrollment and behaviorchangemitigatedbyrelativelyintransigentvariablessuchas the age, sex, and the health status of the population? Conversely, can best practices components be conﬁgured in a way that exerts enough inﬂuence, independently of mitigating factors, to improve engage- ment rates and health outcomes? Should best practices be “cherry picked” and selected on the basis of a company’s demographic and health status proﬁle?
+not be interpreted to necessarily mean that environmental supports do not increase the likelihood of participation in countless other wellness intervention opportunities, although that may be the case. The negative relationship could also mean that employees were less drawn to health coaching because the worksite was offering so many other supports for fostering health improvement. Without a more extensive battery of measures of both environmental supports and intervention options, we are unable to fully understand the nature of many interactions between best practices components, engagement, and outcomes.
 
-- 4. Terry PE, Seaverson EL, Grossmeier J, Anderson DR. Association between nine quality components and superior worksite health management program results. J Occup Environ Med. 2008;50:633–641.
+Finally, our ability to extrapolate the meaning behind the rela- tionships between best practices and program outcomes is substan- tially limited by the current deﬁnitions for each best practice compo- nent and by how the deﬁnitions were interpreted by respondents who completed the HERO Scorecards. Many items in the HERO Score- card used for this study were simply three-point Likert-type scales that may lack the speciﬁcity needed to truly distinguish best prac- tice from what has become standard practice in EHM. Also, many such items were essentially a judgment call by those who completed the HERO Scorecard. For example, “strong leadership support” may have been deemed by one respondent to require active participation in programs whereas another respondent might have considered en- dorsement and communications from key executives as indicative of leadership support. As of this writing, no research had yet examined the interrater reliability of the HERO Scorecard, and hence rater variability might be quite dramatic. Findings from research, similar to this study, will help inform the reﬁnements needed to improve our understanding of what constitutes best practices that appreciably improve engagement and outcomes.
 
-- 5. Osilla KC, Van Busum K, Schnyer C, Wozar Larkin J, Eibner C, Mattke S. Systematic review of the impact of worksite wellness programs. Am J Manag Care. 2012;18:e68–e81.
+establish cause-and-effect relationships between best practices and program outcomes.
 
-- 6. Goetzel RZ, Gibson TB, Short ME, et al. A multi-worksite analysis of the relationships among body mass index, medical utilization, and worker pro- ductivity. J Occup Environ Med. 2010;52 (suppl 1):S52–S58.
+One of our initial motivations for conducting the present re- searchwastouseourﬁndingstodevelopabestpractices“calculator.” Surely a large data set such as we used for this research would pro- vide ample empirical support for a tool with inputs derived from best practices components and outputs that would have predictive value concerning engagement and outcomes. Instead, this study demon- stratesthatthepredictivevalueofscorecardsmaybehighlymitigated by factors that are not yet fully understood or represented in contem- porary guidelines. It follows that best practice component deﬁnitions on the HERO Scorecard may need further reﬁnement. Additional factors that predict success need to be introduced and guidelines need to be accompanied by demographic covariates that mitigate, and are mitigated by, each of the best practices components. This study enumerates empirically derived examples of how best prac- tices components need to be considered separately, perhaps more so than together, to improve their predictive value and strengthen their contribution to the advancement of EHM.
 
-- 7. Pelletier B, Boles M, Lynch W. Change in health risks and work productivity over time. J Occup Environ Med. 2004;46:746–754.
+REFERENCES 1. Soler RE, Leeks KD, Razi S, et al. A systematic review of selected inter- ventions for worksite health promotion. The assessment of health risks with feedback. Am J Prev Med. 2010;38:S237–S262.
 
-- 8. Schultz AB, Edington DW. Employee health and presenteeism: a systematic review. J Occup Rehabil. 2007;17:547–579.
+- 2. Grossmeier J, Terry P, Cipriotti A, Burtaine J. Best practices in evaluat- ing worksite health promotion programs. Am J Health Promot. 2010;24(3): TAHP-1–TAHP-9.
 
-- 9. Baicker K, Cutler D, Song Z. Workplace wellness programs can generate savings. Health Aff. 2010;29:304–311.
-
-- 10. Naydeck BL, Pearson JA, Ozminkowski RJ, Day BT, Goetzel RZ. The impact of the Highmark employee wellness programs on 4-year healthcare costs. J Occup Environ Med. 2008;50:146–156.
-
-- 11. Nyman JA, Abraham JM, Jeffery MM, Barleen NA. The effectiveness of a health promotion program after 3 years: evidence from the University of Minnesota. Med Care. 2012;50:772–778.
-
-- 12. Henke RM, Goetzel RZ, McHugh J, Isaac F. Recent experience in health promotion at Johnson & Johnson: lower health spending, strong return on investment. Health Aff (Millwood). 2011;30:490–499.
-
-- 13. Serxner S, Alberti A, Weinberger S. Medical cost savings for participants and nonparticipants in health risk assessments, lifestyle management, disease management, depression management, and nurse line in a large ﬁnancial services corporation. Am J Health Promot. 2012;26:245–252.
-
-Second, best practices may work best when they create inertia for select groups. That is, these ﬁndings suggest that there is a herd effectrelatedtoprogramengagementsuchthatwhenaprogramcom- ponent such as a biometric screening or a certain type of incentive is offered, the inﬂuence can have an enhanced impact within demo- graphically similar subgroups. Finally, although there is much to be enthused about concerning how best practices components operate and how this knowledge can be applied to EHM programs, there are many questions that need answers before we can conﬁdently
-
-- 14. Pelletier KR. A review and analysis of the clinical and cost-effectiveness studiesofcomprehensivehealthpromotionanddiseasemanagementprograms at the worksite: update VII 2004–2008. J Occup Environ Med. 2009;51:822- 837.
-
-- 15. Schwartz SM, Riedel J. Productivity and health: best practices for better measures of productivity. J Occup Environ Med. 2010;52:865–871.
-
-- 16. Goetzel RZ, Guindon AM, Turshen IJ, Ozminkowski RJ. Health and produc- tivity management: establishing key performance measures, benchmarks, and best practices. J Occup Environ Med. 2001;43:10–17.
-
-- 17. O’DonnellMP.BenchmarkingBestPracticesinWorkplaceHealthPromotion. The Art of Health Promotion. Keego Harbor, MI: American Journal of Health Promotion Inc; 1997:1–8.
+- 3. Terry PE, Fowler EJ, Fowles JB. Are health risks related to medical care charges in the short-term? Challenging traditional assumptions. Am J Health Promot. 1998;12:340–347.

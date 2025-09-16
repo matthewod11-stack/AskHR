@@ -1,13 +1,31 @@
-## employee retention or turnover (Meyer, Becker and Vandenberghe, 2004).
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: ee9951b76814f6790777d720823fcfcfdd4d1c44
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## as a key mediating variable in our model.
 
-Notwithstanding the discussion on the impact boundaryless careers and inter-
+The AMO model is premised on the idea that organizational interests are best
 
-organizational mobility on strategic talent management, we argue that it is generally in
+served by an HR system that attends to employees’ interests, namely their skill
 
-the organization’s best interest to retain members of the talent pool as opposed to loosing
+requirements, motivations and the quality of their job (Boselie et al, 2005). Given that the
 
-them due to turnover (for an alternative perspective see Somaya and Williamson, 2008).
+strategic talent management system is premised on identifying high potential and high
 
-Hence a focus on factors that explain employee retention and turnover is also a relevant
+performing employees, deploying them in pivotal positions and supporting them with a
 
-mediating variable. In this regard organizational commitment, defined as “the relative
+differentiated HR architecture, the AMO model suggest that higher levels of individual
+
+performance should be evident. In this regard it is well established that employee
+
+motivation will meditate the relationship between HRM practices and firm performance
+
+(Huselid, 1995; MacDuffie, 1995; Becker et al., 1997). Building on this body of literature
+
+we recognize the key role of motivation as a meditating variable between strategic talent
+
+management and firm performance. However motivation theory has been largely
+
+concerned with explaining task performance (see Locke, 1997) and says little about

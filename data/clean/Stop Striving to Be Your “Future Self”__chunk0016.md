@@ -1,7 +1,7 @@
-# Stop Striving to Be Your “Future Self”
-
-Read more on Career planning or related topics Managing yourself,Personal ethics, Personal growth and transformation, Personal purposeand values and Early career
-
-https://hbr.org/2021/09/stop-striving-to-be-your-future-self
-
-7/7
+---
+source_path: "Stop Striving to Be Your \u201CFuture Self\u201D.md"
+pages: n/a-n/a
+chunk_id: 706dc3ef7dfabf799736cbe8b89d408aec8d3577
+title: "Stop Striving to Be Your \u201CFuture Self\u201D"
+---
+# 9/10/25, 11:57 AM

@@ -1,7 +1,7 @@
-# Professional Experience
-
-July 2013–Present Assistant Manager. TCBY Yogurt, Gainesville, FL
-
-Responsible for posting daily receipts and making bank deposits.
-
-Further responsible for supervising and scheduling counter personnel, writing progress reports, and handling employee disputes.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: fc696bd74d73e2b49dc4c47357d2e1bd438cb0de
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Business Administration 3.43/4.0 Information Systems

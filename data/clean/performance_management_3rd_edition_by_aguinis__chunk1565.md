@@ -1,17 +1,29 @@
-## Chapter 9 • Performance Management Skills
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d9db4c5d71993a7a03f4b4bd9e08e40a911361bc
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part III • Employee Development
 
-- Pattern identification. Feedback is most useful if it is about a pattern of poor per- formance rather than isolated events or mistakes. Identifying a pattern of poor performance also allows for a better understanding of the causes leading to poor performance.
+providing feedback. First, organizations would be depriving employees of a chance to improve their performance. Second, organizations might be stuck with chronic poor performance because employees did not recognize any performance problems and felt justified in continuing to perform at substandard levels. Finally, employees might develop inaccurate perceptions of how their performance is regarded by others.
 
-- Confidence in the employee. Good feedback includes a statement that the manager has confidence that the employee will be able to improve her performance. It is important for the employee to hear this from the manager. This reinforces the idea that feedback is about performance and not the performer. Note, however, that this should be done only if the manager indeed believes the employee can improve her performance. In the case of a chronic poor performance, this type of information could be used out of context later if the employee is fired.
+Given that, overall, feedback systems are beneficial, what can we do to make the
 
-- Advice and idea generation. Feedback can include advice given by the supervisor about how to improve performance. In addition, however, the employee should play an active role in generating ideas about how to improve performance in the future.
+most of them? Consider the following suggestions to enhance feedback:28
 
-Many of the above-mentioned recommendations are particularly useful when feed- back is given to employees who score low on a personality trait labeled core self-evaluation, which is a combination of four traits: self-esteem (i.e., the degree to which an individual holds a favorable attitude toward himself), self-efficacy (i.e., the degree to which an indi- vidual believes he is capable of taking action and taking control over events), emotional sta- bility (i.e., the degree to which an individual is not insecure, guilty, or timid), and locus of control (i.e., the degree to which an individual believes he can control events and outcomes in his live). Individuals with low core self-evaluations feel they are less able to deal with the world and, consequently, are overall less satisfied with their jobs and lives. Thus, supervi- sors need to be aware that feedback is likely to be received by individuals with low versus high core self-evaluations.30 For example, low core self-evaluation employees may feel hurt and helpless after receiving negative feedback. Thus, the recommendations about “confi- dence in the employee” are particularly relevant. Similarly, the recommendations about “advice and idea generation” are also particularly helpful so that there is a clear course of action—rather than feelings of helplessness and lack of direction.
+- Timeliness. Feedback should be delivered as close to the performance event as possi- ble. For feedback to be most meaningful, it must be given immediately after the event. • Frequency. Feedback should be provided on an ongoing basis, daily if possible. If performance improvement is an ongoing activity, then feedback about performance should also be provided on an ongoing basis.
 
-Consider the following vignette in which Andrea, a supervisor, has observed a specific performance event and provides feedback to her subordinate. Andrea is the manager of a small retail store with approximately five employees. With a small staff, Andrea looks for coaching opportunities on a weekly basis. Andrea is working with Matt today, and she has just witnessed him complete a customer sale. Matt did not follow several steps, however, that should be included at each sale and, because the store is now empty, Andrea decides it is a perfect opportunity for a coaching session.
+- Specificity. Feedback should include specific work behaviors, results, and the situation in which these behaviors and results were observed.29 Feedback is not about the employee and how the employee “is,” but about behaviors and results and situations in which these behaviors and results occurred.
 
-ANDREA: Hey, Matt, that was great the way that you just assisted that customer in
+- Verifiability. Feedback should include information that is verifiable and accurate. It should not be based on inferences or rumors. Using information that is verifiable leads to more accurate feedback and subsequent acceptance.
 
-finding her correct size in the jeans. Thanks for taking the extra time to help her.
+- Consistency. Feedback should be consistent. In other words, information about specific aspects of performance should not vary unpredictably between over- whelming praise and harsh criticism.
 
-MATT:
+- Privacy. Feedback should be given in a place and at a time that prevent any potential embarrassment. This applies to both criticism and praise, because some employees, owing to personality or cultural background, may not wish to be rewarded in public.
+
+- Consequences. Feedback should include contextual information that allows the employee to understand the importance and consequences of the behaviors and results in question. For example, if an employee became frustrated and behaved inappropriately with an angry customer and the customer’s complaint was not addressed satisfactorily, feedback should explain the impact of these behaviors (e.g., behaving inappropriately) and results for the organization (e.g., the customer’s problem was not resolved, the customer was upset, the customer was not likely to give repeat business to the organization).
+
+- Description first, evaluation second. Feedback should first focus on describing behaviors and results rather than on evaluating and judging behaviors and results. It is better first to report what has been observed and, once there is agree- ment about what happened, to evaluate what has been observed. If evaluation takes place first, employees may become defensive and reject the feedback.
+
+- Performance continuum. Feedback should describe performance as a continuum, going from less to more in the case of good performance and from more to less in the case of poor performance. In other words, feedback should include information on how to display good performance behaviors more often and poor performance behaviors less often. Thus, performance is a matter of degree, and even the worst performer is likely to show nuggets of good performance that can be described as a starting point for a discussion on how to improve performance.

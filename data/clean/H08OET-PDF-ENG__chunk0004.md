@@ -1,13 +1,11 @@
-## start of the year, companies like Amazon, BlackRock, and Citigroup
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 765043f0739c3b3eb43d68a44320aff807474263
+title: H08OET-PDF-ENG
+---
+## Our previous article on the persistent negative impact of resume gaps
 
-announced white-collar job reduction eﬀorts. In the fall, the Bureau of
+received a good deal of reader attention. It’s not surprising, given
 
-Labor Statistics reported one in four American workers who lost their
-
-jobs last year came from the business and professional services sector.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the events of 2024 in the white-collar talent market. From the very

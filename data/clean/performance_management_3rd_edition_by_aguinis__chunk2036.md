@@ -1,13 +1,11 @@
-# University College of Tun Hussein
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: c7dd72c6445895979268d74ebcb6a323540ea63e
+title: performance_management_3rd_edition_by_aguinis
+---
+# Unit level
 
-Onn, Malaysia, 23 University of Ghana, 56 University of North Carolina, 174–175,
+organizational alignment, 84 strategic planning, 62f, 74–75 University of Alberta, Canada, 12 University of California at San Diego
 
-175b–176b
-
-Updates, 48 U.S. Department of Defense (DOD),
-
-41b, 76, 77b
-
-U.S. Department of Justice, Senior Executive Service (SES), 171 U.S. Department of Transportation
-
-(DOT), 127–128
+(UCSD), 302

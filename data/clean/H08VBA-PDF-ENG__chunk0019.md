@@ -1,43 +1,23 @@
-# value.
+---
+source_path: H08VBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40d2abb1418c5355d338bc638ccd393d7ee456e8
+title: H08VBA-PDF-ENG
+---
+# HBR / Digital Article / Your Company Needs to Focus on Fewer Projects. Here’s How.
 
-The process wasn’t just ﬁnancial—it was psychological. Leaders had
+- 2. Create real tradeoffs.
 
-to publicly justify why a new project was more valuable than one
+One reason portfolios swell is that leaders rarely have to make hard
 
-already underway, creating an actual marketplace for priorities. After
+choices. Budgets stretch, priorities multiply, and every initiative ﬁnds a
 
-one session, a senior executive admitted: “I realized I was defending
+way to survive.
 
-projects I didn’t even believe in anymore, just because nobody ever
+A telecommunications company I worked with broke this pattern by
 
-asked me to choose.” Within a year, the portfolio shrank by 35%, and
+introducing “project trading sessions.” Every business-unit leader was
 
-execution speed for key strategic projects improved signiﬁcantly.
+given a ﬁxed “budget” of talent and funding, with one rule: To launch
 
-- 3. Stop treating every idea as a project.
-
-Many organizations reﬂexively elevate too many opportunities into
-
-formal projects, complete with steering committees, governance
-
-meetings, and complex documentation. This clogs portfolios with
-
-initiatives that should have been quietly tested—or quietly abandoned.
-
-One health care and life sciences company I advised created small cross-
-
-functional “squad teams” to explore new opportunities for 30 to 60
-
-days. These squads had a simple mandate to test the strategic relevance
-
-and potential impact of an idea before requesting project status.
-
-The result? About 40% of ideas were dropped after this initial
-
-assessment, saving thousands of hours and keeping the organization
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a new initiative, they had to stop or “sell” an existing project of equal

@@ -1,21 +1,33 @@
-## HBR / Magazine Article / How to Counter Fake News
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d593ffa73495b35178742f7f132a57ad8684f7c0
+title: R2505L-PDF-ENG
+---
+## the company (a hardware manufacturer) and the fake news story
 
-good opinion of the company; other participants were told that the
+(exploding batteries). Across both experiments, we consistently found that individuals believed that the fake news would aﬀect others more than themselves. This eﬀect was especially pronounced for companies
 
-group judged the company more harshly. The results were striking.
+that had a positive reputation.
 
-Even when participants knew the story was fake, their own opinions
+In an age where information is abundant and untrustworthy, Sideline Collective’s Joseph Ernst imagines a world in which there’s nothing in the news.
 
-and behavioral intentions shifted in accordance with what they thought
+In a third study, we found that individuals adjusted their own
 
-others believed.
+reputation judgments and behavioral intentions based on what they
 
-Overall, our ﬁndings tell us that it is not enough to ﬂag fake news as
+believed others thought. Participants were placed in a simulated
 
-being false: People assume that others still believe the fake news—and
+group chat where everyone was asked to discuss a news story about
 
-this perception inﬂuences how they themselves think and act.
+a restaurant chain. The story falsely claimed that rat poison had
 
-Despite these daunting ﬁndings, our research suggests several ways
+been found in the company’s food. Before joining the chat, some
 
-companies can improve their response to fake news. By leveraging
+participants were told that the other members in the group held a
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

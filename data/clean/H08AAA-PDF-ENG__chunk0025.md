@@ -1,3 +1,9 @@
-# LM
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb963fc18ad9bbfc807210f770389638bb44f38f
+title: H08AAA-PDF-ENG
+---
+# HBR / Digital Article / 3 Ways to Build a Culture That Lets High Performers Thrive
 
-Lindsay McGregor is the CEO of Vega Factor and Factor.ai., as well as a coauthor of the New York Times bestseller Primed to Perform: How to Build the Highest Performing Cultures Through the Science of Total Motivation, (Harper Business, 2015). She works with many exceptional companies to engineer high-performing cultures and is a frequent HBR contributor on the topics of motivation and performance.
+This article was originally published online on June 28, 2024.

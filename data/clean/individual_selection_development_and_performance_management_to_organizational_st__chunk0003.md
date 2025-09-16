@@ -1,5 +1,9 @@
-# Introduction
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: 4d5ede6d64846abb5be6de491e189186edb7e190
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+## Donna Rodriguez, Rita Patel, Andrea Bright, Donna Gregory, and Marilyn K. Gowing
 
-High-performing people are critical for high-performing organizations. Whether driven by the need to improve efficiency, pro- ductivity, or profitability, or by the desire to provide world-class customer service, the com- bination of two components is critical: select- ing talented and high-potential people to carry out the organization’s mission and creating a culture that supports them. Many organiza- tions link between high-performing people, an organizational culture that supports mission accomplish- ment, and high-performing organizations. Two challenges faced by most organizations are the identification of the most effective means to recruit, select, and retain a high-performing workforce, particularly within a tight labor market, and the creation and maintenance of a dynamic culture for employees that fosters achievement. Human resource management
-
-recognize
+Today, competencies are used in many facets of human resource management, ranging from individual selection, development, and performance management to organizational strategic plan- ning. By incorporating competencies into job analysis methodologies, the Office of Personnel Management (OPM) has developed robust competency models that can form the foundation for each of these initiatives. OPM has placed these models into automated systems to ensure access for employees, human resources professionals, and managers. Shared access to the data creates a shared frame of reference and a common language of competencies that have provided the basis for competency applications in public sector agencies. © 2002 Wiley Periodicals, Inc.

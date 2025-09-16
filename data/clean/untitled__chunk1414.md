@@ -1,21 +1,27 @@
-# Sociologies 8, 257–279.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4513a862aebb0ea23dcaffa1f11136e3072f1e4a
+title: untitled
+---
+# Columbia University Press.
 
-Bramel, D., & Friend, R. (1981). Hawthorne, the myth of the docile worker, and class bias in psychology. American Psychologist, 36, 867–878.
+Bavelas, A. (1952). Communication patterns in problem-solving groups. In H. von Foerster (Ed.), Cybernetics: Circular causal, and feedback mechanisms in biological and social systems (pp. 1–44). New York: Josiah Macy Jr. Foundation.
 
-Breines, W. (1992). Young, White, and miserable: Growing up
+Bayer, B. M. (1998a). Between apparatuses and apparitions: Phantoms of the laboratory. In B. M. Bayer & J. Shotter (Eds.), Reconstructing the psychological subject (pp. 187–213). London: Sage.
 
-female in the ﬁfties. Boston: Beacon Press.
+Bayer, B. M. (1998b). Re-enchanting constructionist inquiries. In B. M. Bayer & J. Shotter (Eds.), Reconstructing the psychologi- cal subject (pp. 1–20). London: Sage.
 
-Britt, S. H. (1937a). Past and present trends in the methods and sub- ject matter of social psychology. Sociological Forces, 15, 462–469.
+Bayer, B. M. (1999a). Psychological ethics and cyborg body poli- tics. In A. Gordo-López & I. Parker (Eds.), Cyberpsychology (pp. 113–129). London: Macmillan.
 
-Britt, S. H. (1937b). Social psychologists or psychological sociolo- gists: Which? Journal of Abnormal and Social Psychology, 32, 314–318.
+Bayer, B. M. (1999b). Technovisions and the remaking of scientiﬁc identity. In W. Maiers, B. Bayer, B. Duarte Esgalhado, R. Jorna, & E. Schraube (Eds.), Challenges to theoretical psychology (pp. 341–349). York, Ontario, Canada: Captus University Press.
 
-Brown,J.F.(1936).Psychologyandthesocialorder:Anintroduction to the dynamic study of social ﬁelds. New York: McGraw-Hill.
+Bayer, B. M. (2001). Plugged in: Psychology, technology and popu- lar culture. In J. R. Morss, N. Stephenson, & H. van Rappard (Eds.), Theoretical issues in psychology (pp. 23–34). Boston: Kluwer Press.
 
-Buckley, K. W. (1989). Mechanical man: John Broadus Watson and
+Bayer, B. M., & Morawski, J. (1991). Father knows best? Gender relations in the family and small group research, 1950–1990. Paper presented at the 99th annual convention of the American Psychological Association, San Francisco.
 
-the beginnings of behaviorism. New York: Guilford Press.
+Bayer, B. M., & Morawski, J. (1992, June). Experimenters and their experimental performances: The case of small group research, 1950–1990. Paper presented at the annual convention of the Canadian Psychological Association, Quebec, Canada.
 
-Buss, A. R. (1979). The emerging ﬁeld of the sociology of psycho- logical knowledge. In A. Buss (Ed.), Psychology in social context (pp. 1–24). New York: Irvington.
+Bayer, B. M., & Strickland, L. H. (1990). Gustav Ichheiser on so- ciopsychological misperception in international relations. Politi- cal Psychology, 11(4), 699–719.
 
-Camﬁeld, T. (1969). Psychologists at war: The history of American
+Bernard, L. L. (1932). Social psychology in the United States.

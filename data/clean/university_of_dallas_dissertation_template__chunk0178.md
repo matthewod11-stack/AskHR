@@ -1,9 +1,13 @@
-# ProQuest LLC a part of Clarivate ( ).
+---
+source_path: university_of_dallas_dissertation_template.md
+pages: n/a-n/a
+chunk_id: 8f161fd0d3857b140babd1f10efc1e8cb33b93cd
+title: university_of_dallas_dissertation_template
+---
+# ProQuest Number:
 
-(cid:50)(cid:48)(cid:50)(cid:52)
+(cid:51)(cid:49)(cid:54)(cid:51)(cid:51)(cid:48)(cid:56)(cid:55)
 
-Copyright of the Dissertation is held by the Author unless otherwise noted.
+INFORMATION TO ALL USERS The quality and completeness of this reproduction is dependent on the quality and completeness of the copy made available to ProQuest.
 
-This work is protected against unauthorized copying under Title 17, United States Code and other applicable copyright laws.
-
-This work may be used in accordance with the terms of the Creative Commons license or other rights statement, as indicated in the copyright statement or in the metadata associated with this work. Unless otherwise specified in the copyright statement or the metadata, all rights are reserved by the copyright holder.
+Distributed by

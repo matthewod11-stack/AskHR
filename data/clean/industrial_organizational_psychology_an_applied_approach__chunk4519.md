@@ -1,19 +1,13 @@
-## performance. Aerospace Medicine, 36, 960–964.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ebe0502947e2ffba26ffd6db585dd13d4c42d36c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## service goals. Personnel Journal, 30(10), 47–51.
 
-Winter, D. G. (1988). What makes Jesse run? Psychology Today,
+Wimbush, J. C., & Dalton, D. R. (1997). Base rate for employee
 
-22(6), 20–24.
+theft: Convergence of multiple methods. Journal of Applied Psychology, 82(5), 756–763.
 
-Wisdom, B., & Patzig, D. (1987). Does your organization have
-
-the right climate for merit? Public Personnel Management, 16, 127–133.
-
-Witt, L. A. (1996). Listen up! Your upward feedback results are
-
-speaking. Poster presented at the 11th annual conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
-
-Woﬀ ord, J. C., & Liska, L. Z. (1993). Path-goal theories of
-
-leadership: A meta-analysis. Journal of Management, 19(4), 857–876.
-
-Wokoun, W. (1980). A study of fatigue in industry. New York:
+Wing, J. F. (1965). Upper tolerance limits for unimpaired mental

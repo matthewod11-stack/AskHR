@@ -1,5 +1,13 @@
-# A NURTURING ZEITGEIST
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: aee43e1bb514137f82af9ccaaa96d7fca8f4fdf8
+title: untitled
+---
+# Starke R. Hathaway (1932), Carney Landis
 
-World War II represents a watershed in the history of clinical psychology. In its aftermath, clinical psychology received something it had not received before: enormous institutional support from the federal government, from universities, and from the APA for the training of clinical psychologists. In 1942, Robert Yerkes chaired a committee of the National Re- search Council, which sought to unite the AAAPand the APA by drafting a new constitution that would be acceptable to both groups. Such a constitution was drafted and provided for an APAdedicated “to advance psychology as a science and as a means of promoting human welfare.” Henceforth, the APA would be involved in professional and scientiﬁc issues, and a new journal, American Psychologist, would give coverage to both concerns. In 1944, the APA accepted the new constitu- tion, the AAAP transferred its membership of about 600 psy- chologists to the APA, and the dues went up. American Psychologist began publication in 1946. The new APA had a divisional structure, in which psychologists with similar in- terests could afﬁliate. Division 12 was the division (now known as the Society) of Clinical Psychology, and it for a time became APA’s largest division.
+(1924), Paul E. Meehl (1945).
 
-Even before America’s entry into the war, oppressive dic- tatorships in Europe had brought about an inﬂux of psycholo- gists to the United States who did much to invigorate and enrich American psychology. Many of the leading Gestalt psychologists, such as Max Wertheimer, Wolfgang Kohler, KurtKoffka,KurtLewin,andmanylayanalysts(thatis,those without MD degrees), such as Erik Erikson, Erich Fromm, andHannsSachs,immigratedtothiscountry.Manywhowere recognized psychoanalysts in Europe found their practices impeded by theAmerican PsychoanalyticAssociation, which
+Note: The data is from Clinical Psychology since 1917: Science, Practice, and Organization (pp. 237–255), by D. K. Routh, 1994, New York: Plenum. Copyright 1994 by Kluwer Academic. Reprinted with permission. This table is reproduced from D. K. Routh (2000), p. 238.
+
+The internship is generally regarded as one of the most signiﬁcant experiences in the training of clinicians (Doll, 1920). The Training School at Vineland, an institution for persons with mental retardation, is considered the ﬁrst non- university institution to offer an internship, beginning in 1908. Routh (2000) identiﬁed 26 psychology internships that were established before 1946. According to Morrow’s (1946) personal communication from William Healy, psychology in- terns would stay “for at least a year, the tenures sometimes overlapping for considerable periods. These students en- gaged in psychometric examinations and in research and at- tended all staff meetings” (p. 168). What is of signiﬁcance about this description is that prior to 1946, training in psy- chotherapy for clinical psychologists was more the exception than the rule.

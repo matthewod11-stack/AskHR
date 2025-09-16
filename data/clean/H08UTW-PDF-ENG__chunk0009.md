@@ -1,17 +1,17 @@
-## Quick updates or time-crunched decisions: Skip it. Divergent
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 399689bf2a99c8e5a2a41846cca8d67356c078ea
+title: H08UTW-PDF-ENG
+---
+# them oﬀ guard.
 
-thinking takes time. A tightly-focused session should use every minute
+Retrospectives: When reviewing a project’s success or failure, “yes,
 
-on making the call and clarifying next steps.
+and…” can help you acknowledge what happened and shape productive
 
-Mistake #2: Assuming “yes, and…” is about agreeing with everyone’s ideas
+next steps. For instance, if someone says, “The customers loved/hated
 
-“I can’t say ‘yes’ to everything people suggest.” I hear this all the time
+the product,” a response could be, “Yes, and we can continue that
 
-when I teach this technique.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+success by…,” or, “Yes, and we can avoid that problem in the future by…”

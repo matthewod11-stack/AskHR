@@ -1,3 +1,17 @@
-# Custom-Designed Inventories
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 90fc52e5b532a8fed128debb289837c85d70697d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Normative commitment
 
-Though most research on job satisfaction is conducted using one or more of the previously mentioned standard inventories, most organizations tap their employ- ees’ levels of job satisfaction by using custom-designed inventories. The advantage to custom-designed inventories is that an organization can ask employees ques- tions specific to their organization. For example, a local agency recently restruc- tured many of its jobs and wanted to tap how satisfied its employees were with the changes. To do this, they hired a consultant who designed questions that spe- cifically tapped employees’ thoughts and feelings about the changes. Using one of the standard inventories would not have provided the needed information. To learn more about custom surveys, read the employment profile of Heather King.
+7 7
+
+I would feel guilty if I left my organization now. This organization deserves my loyalty.
+
+Other measures include: 7
+
+Organizational Commitment Questionnaire (OCQ): A -item questionnaire developed by Mowday, Steers, and Porter () to measure three commitment factors: acceptance of the organization’s values and goals, willingness to work to help the organization, and a desire to remain with the organization. Although the questions tap three factors, most people using the scale combine the factors to yield one overall commitment score (Kacmar, Carlson, & Brymer, ). Organizational Commitment Scale (OCS): A nine-item survey developed by Balfour and Wechsler () that measures three aspects of commitment: identification, exchange, and affiliation. Sample questions include, “I felt like a part of the family at this organization” and “What this organization stands for is important to me.”
+
+7

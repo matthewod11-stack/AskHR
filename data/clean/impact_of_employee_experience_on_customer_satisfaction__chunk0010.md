@@ -1,19 +1,13 @@
-## measure all the mentioned aspects of employee experience.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: bb1c9b43a74b04271295b04a9648765ceef5aa76
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# overall customer satisfaction.
 
-The second part explains the methodology used by the author in research on
+The first part of this master thesis brings an academic view for specific areas of
 
-employee experience and Net Promoter Score. The author describes surveys used
+employee experience and describes the main aspects of human satisfaction,
 
-on the studied company, Atlas Copco, and research three main markets: The United
-
-States, China, and Europe. The employee experience survey focused on capturing
-
-employee satisfaction across the whole employee journey and researched different
-
-aspects of EX divided into main areas of employee engagement, wellbeing, culture,
-
-leadership, learning and development, with the addition of recruitment and
-
-onboarding. The Net Promoter score survey was conducted with Atlas Copco
-
-customers in different regions and focused on their loyalty and satisfaction with
+employee engagement, subjective wellbeing, main drivers, and methodology used to

@@ -1,7 +1,39 @@
-# the experiment.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d1158af9d6ae0e3a9e3597c6446f70a511a5c64
+title: H07QOV-PDF-ENG
+---
+# of intelligent failure.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+ADI IGNATIUS:
 
-6
+What does a productive failure look like? You did mention that there are
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+good and bad failures. What’s the diﬀerence and how does one try to
+
+make sure their failures are the good kind?
+
+AMY EDMONDSON:
+
+In known territory where we have a process or a formula for getting the
+
+result we want, it’s best practice to use that process, use that formula
+
+and get the result we want. So when a Citibank employee a number
+
+of years ago accidentally made a small human error and accidentally
+
+wired $800 million to a client that he shouldn’t have, that was a basic
+
+unproductive failure. Turns out they were not even able to get the
+
+money back. So, not celebrating that kind of failure.
+
+A productive failure is one where we get new and useful knowledge,
+
+new knowledge that helps us go forward in creating the kind of value
+
+we’re trying to create in our market, for our customers. So we discovered
+
+something that we could not have discovered without trying it, without

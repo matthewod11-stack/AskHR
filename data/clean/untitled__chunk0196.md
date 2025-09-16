@@ -1,5 +1,9 @@
-# Macmillan.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f3378ea5536fe784a3064ab8a7c3e2d518d95755
+title: untitled
+---
+# Educational Review, 8, 269–286.
 
-Calkins, M. W. (1910). The teaching of elementary psychology in colleges supposed to have no laboratory. Psychological Mono- graphs, 12(4, Whole No. 51), 41–53.
-
-Calkins, M. W. (1919). A ﬁrst book in psychology (4th rev. ed.). New
+Calkins, M. W. (1901). Introduction to psychology. New York:

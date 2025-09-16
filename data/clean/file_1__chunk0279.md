@@ -1,9 +1,9 @@
-# of Sexual Behavior, 7 (2), 127-42.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 579bf454f74c38a3c4e0a906211228af80a56970
+title: file_1
+---
+# Regime. Social Politics, 11 (1), 4-29.
 
-Webster, C., 1997. Effects of researcher presence and appeal in response quality in hand-
-
-delivered, self-administered surveys. Journal of Business Research, 38(2), 105-114.
-
-Weiner, B., 1980. Human Motivation. New York: Holt, Rinehart & Winston.
-
-Weiner, B., 1992. Human motivation: Metaphors, theories, and research. Newbury Park,
+Walster, E., Traupmann, J. and G. Walster, 1978. Equity and extramarital sexuality. Archives

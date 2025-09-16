@@ -1,9 +1,11 @@
-## Journal of European Industrial Training 25/1 [2001] 5±32
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: ec78ed8d0d9bb7f7974d6933690c6692fd7251ff
+title: journal_of_european_industrial_training
+---
+# I
 
-[30]
+d e d a o l n w o D
 
-Peters, H. (1996), ``Peer coaching for executives'', Training and Development, Vol. 50 No. 3, March, pp. 39-42.
-
-Reilly, R., Smither, J. and Vasilopoulos, N. (1996),
-
-``A longitudinal study of upward feedback'', Personnel Psychology, Vol. 49 No. 3, Autumn, pp. 599-612.
+Alma M. McCarthy and Thomas N. Garavan 3608 feedback processes: performance improvement and employee career development

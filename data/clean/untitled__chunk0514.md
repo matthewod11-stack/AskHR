@@ -1,7 +1,9 @@
-# Research Centers
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 14b762170a50aa7f6a06901054afdfb750c93733
+title: untitled
+---
+## Comparative Psychology since World War II
 
-Although most comparative psychologists were scattered about the country in various universities, this funding en- abled the development of several centers for research. The Yerkes Laboratories of Primate Biology in Orange Park, Florida, were pivotal. Yerkes remained as director from its founding in 1930 until 1941 (Yerkes, 1943). He was suc- ceeded in turn by Lashley and Nissen. Arthur J. Riopelle and Geoffroy Bourne were the ﬁnal two directors in Orange Park. When the federal government established a program of Regional Primate Centers, Emory University, which then owned the Laboratories, moved them to their home campus in Atlanta. In addition to its directors, many other scientists such as Roger Sperry, Kenneth Spence, Austin Riesen, Paul Schiller, Hebb, Mason, and many others worked in Orange Park. From 1930 to 1965, the total budget was over $2.5 mil- lion. During the early years, the funding came almost exclu- sively from university and private foundation sources. This was reversed, and during the last ﬁve years for which data are available, over two-thirds of the funds came from the federal government. With greatly increased funding, the facility has thrived in Atlanta, albeit with a more biomedical emphasis. Harlow established and directed a primate laboratory at the University of Wisconsin. With the founding of a Regional Primate Research Center in Madison in 1964, Harlow as- sumed its directorship as well. Behavior programs also thrived in regional primate research centers in New England, Louisiana, Oregon, Washington state, and Davis, California. The behavior program at the Jackson Laboratory in Bar Harbor, Maine, was founded by John Paul Scott, who was ed- ucated as a geneticist but functioned in departments of psy- chology during much of his career. Joined by John L. Fuller, Walter C. Stanley, John A. King, and others, the program re- ceived substantial grant support and became a center for re- search on inbred strains of house mice and ﬁve breeds of dogs. It was also the site of two important conferences that helped to coalesce the ﬁeld of animal behavior studies.
-
-Another focal point developed in the New York City area. In 1937, Beach moved to the American Museum of Natural History, where he founded the Department of Animal
-
-75
+also were among the top-10 grant getters in comparative psy- chology at the NSF. The leading research topic in the NIMH grants was behavioral development. The NSF grants were less concentrated, with a greater emphasis on sensation and perception and general studies of behavior. This input of funding helped to create a great surge of research in compar- ative psychology, still small relative to the rest of psychology but substantial relative to that which had come before.

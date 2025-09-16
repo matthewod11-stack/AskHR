@@ -1,3 +1,7 @@
-# two
-
-- 1564 -
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 0e4c00bb3f3cf5a468725f5483c39a8f49cf413f
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# accompaniment

@@ -1,13 +1,13 @@
-## our theory that variability, or disagreement itself, rather than just the
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8da2ae992416f8ca12aa6524ffdd24b86b887466
+title: H08COG-PDF-ENG
+---
+## HBR / Digital Article / Research: How to Build Consensus Around a New Idea
 
-novelty of an idea, makes people less likely to invest in it.
+Conﬁrming our hypothesis, participants in the high variability group
 
-Our research supports that idea that diﬀering templates for evaluation
+were less likely to say they would invest and found the investment
 
-can lead to major diﬀerences in perceptions of worth for the same idea,
-
-and that the conﬂict caused by diﬀering beliefs in worth can also lead
-
-to negative evaluations of new ideas. So how do managers cut through
-
-this disagreement and get their evaluators on the same page? We oﬀer
+riskier, though both groups found the idea equally novel. This conﬁrms

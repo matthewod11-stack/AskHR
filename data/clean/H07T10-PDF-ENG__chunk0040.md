@@ -1,9 +1,29 @@
-# CF
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7d6de35ee12168b19020663934b234bc87aab6b
+title: H07T10-PDF-ENG
+---
+## truth-tellers, customer stewards, and insight creators. The candidate
 
-Christopher Frank is the coauthor of “Decisions Over Decimals: Striking the Balance between Intuition and Information” (Wiley) and “Drinking from the Fire Hose: Making Smarter Decisions Without Drowning in Information” (Portfolio). He is the Vice President of research and analytics at American Express.
+who can conceptualize the problem, frame the situation, and ask
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+more thoughtful questions will outperform those relying on textbook
 
-10
+answers. Hiring talent capable of asking thoughtful questions is the key
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to building successful teams.
+
+Finally, once you successfully recruit amazing people, you must create
+
+an environment where employees are motivated to work collectively
+
+yet feel valued and recognized for being curious and inquisitive. An
+
+entire organization with a growth mindset that embraces questions and
+
+curiosity can reframe challenges as opportunities and move more freely
+
+to adjust to business conditions.
+
+This article was originally published online on September 25, 2023.

@@ -1,5 +1,7 @@
-# Will Psychedelics Propel Your Career?
-
-With executive experimentation on the rise, experts weigh in. by Rachel DuRose
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16b076e115ccdcda03fd78a0813db4143718da34
+title: R2405N-PDF-ENG
+---
+# Managing Yourself

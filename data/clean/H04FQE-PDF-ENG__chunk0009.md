@@ -1,21 +1,25 @@
-# about their experiences.
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7d3e18b898ef08ba338eece232b516d89a968e5
+title: H04FQE-PDF-ENG
+---
+## business schools at nine research-intensive universities in the UK.
 
-Contrary to what we expected, all of our interviewees told us they
+We asked women whether they or others they knew had experienced
 
-shared their experiences with line managers, HR personnel, and
+insulting, hostile, and degrading attitudes that made them feel bullied,
 
-professional colleagues to make sense of and seek redress for what
+excluded, or both due to their gender. We encouraged them to describe
 
-happened. Then they described how they were ultimately persuaded
+events as vividly as possible and to reﬂect on how they and others they
 
-to move on and stop raising the issue.
+knew felt at each moment.
 
-We noted three barriers that victims encountered when they started to
+Our interviewees described a plethora of incidents that they or others
 
-speak about experiences of sex-based harassment: First, they were told
+they knew had experienced, including sexist remarks, harassment
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+during pregnancy and after giving birth, gender-based bullying, and
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+sexually motivated advances. We asked them whether they stayed silent

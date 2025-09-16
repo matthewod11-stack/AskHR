@@ -1,7 +1,11 @@
-# Method
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 2232780700c73c5f6c29f5049799153defb030ed
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# Coding
 
-Effect sizes. Most studies reported effect size data in terms of a Pearson correlation coefficient, r. Studies that reported other metrics (e.g., F, d) were converted to r by using the appropriate formulas. To preserve the independence of samples, for each relationship studied only one effect size was included from each sample. When a study reported data for multiple, independent samples, those samples were included separately in the anal- ysis (Hunter & Schmidt, 1990).
+Regarding the antecedents, an individual may perceive some leadership actions as reflecting or signaling the leader’s character and intentions and may perceive other actions as reflecting or signaling the type of relationship they have with the leader. Fol- lowing our earlier theorizing, although distributive justice likely does not signal the nature of the relationship, it may signal the tendency of a leader to be generally fair and act with integrity. In contrast, interactional justice may signal respect and caring in the relationship. The relationship for procedural justice is unclear: according to the group value model, procedural fairness demon- strates respect for the employee and a valuation of the relationship (Brockner & Siegel, 1996); procedural justice may also, however, signal that the leader is generally fair and acts with integrity as a matter of principle.
 
-Variables. Consistent with most recent empirical research, we used only data collected with non-self-report measures of job performance (e.g., rating by supervisor, or objective measures such as sales volume) and OCBs. The use of non-self-report measures should have prevented effect size inflation due to common source variance.
-
-For job satisfaction and transformational leadership, some studies re- ported the data as a global variable whereas others reported it as a facet variable. Consistent with other meta-analyses, (e.g., Organ & Ryan, 1995), for studies that used facet variables, we applied the appropriate formulas (Hunter & Schmidt, 1990) to compute a single effect size. For example, if a study reported the effect sizes for transformational leadership compo- nents behaviors, we used the formula (cid:2)rxy/sqrt[n (cid:3) n(n (cid:4) 1)ryy] to combine the data into a single correlation. The Spearman–Brown formula was then used to compute the reliability by using the reliability estimates of the components.
+Hypothesis 7: Distributive justice will have a stronger rela- tionship with cognitive trust than overall trust; interactional justice will have a stronger relationship with overall trust.

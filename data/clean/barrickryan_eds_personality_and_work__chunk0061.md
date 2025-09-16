@@ -1,5 +1,13 @@
-# xiv FOREWORD
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 2ff9c34f6a2bc00c7d2711a1021f8006cd2e388a
+title: barrickryan_eds_personality_and_work
+---
+# FOREWORD xiii
 
-none of them received any remuneration. They deserve our ap- preciation for engaging in a difﬁcult task for the sole purpose of furthering our understanding of organizational science.
+Day and Kilduff consider similar issues in Chapter Eight and also point to the role of an individual’s skill in monitoring and manag- ing relationships in groups and organizations. In Chapter Nine, Ford and Oswald examine the evidence for and potential beneﬁts of a consideration of dispositional determinants of learning and training performance, as well as the successful transfer of training to one’s work situation. Chapter Ten by Ryan and Kristof-Brown considers the nature and importance of the ﬁt between individuals and the organization in which they work. The last two chapters, by Hough and by Mount, Barrick, and Ryan, are consistent with the major message of this book: that models of personality-performance relationships must go well beyond the consideration of bivariate re- lationships. The challenge that these more complex models pre- sent for scientist and practitioner alike should provide an exciting and stimulating research venue for many years to come.
 
-We also express our sincere gratitude to Cedric Crocker, Juli- anna Gustafson, Matt Davis, and the entire staff at Jossey-Bass. Over many years and several volumes, they have provided support dur- ing the planning, development, and production of the series.
+Our target audiences include graduate students in I/O psy- chology and organizational behavior, as well as doctoral-level re- searchers and practitioners who want to gain knowledge on the most up-to-date data and theory regarding the important role of per- sonality in determining a variety of work behaviors as well as the reasons that these relationships exist (or do not exist) in various situations. Many of the topics and issues discussed in this book will be novel to many I/O psychologists and human resource practi- tioners. We have certainly read about personality, but there has not been a similar focus on understanding the mechanisms involved in personality-behavior relationships or the complex interplay of individual differences, situations, and outcomes. To the degree that this book fosters investigation of richer and more complex mod- els of these relationships and stimulates interest among other I/O researchers and practitioners and a collaboration with researchers in other disciplines, it will advance our discipline and contribute to the goals of the Organizational Frontiers series.
+
+The chapter authors deserve our gratitude for pursuing the goal of clearly communicating the nature, application, and impli- cations of the theory and research described in this book. Produc- tion of a book such as this involves the hard work and cooperative effort of many individuals. The chapter authors and the editorial board played important roles in this endeavor. Because all royalties from the series volumes are used to help support SIOP ﬁnancially,

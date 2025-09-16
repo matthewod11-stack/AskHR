@@ -1,29 +1,23 @@
-# METHODOLOGY
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 597e38d51573745da9c8e65e1387a298d2baffc1
+title: issn_print_0976_013x
+---
+# Sharma, and Joshi (2017) in their research highlight government banks' functional autonomy
 
-The author mainly used standardized questionnaires called OCTAPACE and the Normative
+and effective governance. Public banks' work environment, job performance, and well-being
 
-social influence scale. The OCTAPACE profiling is a 40-item questionnaire that provides eight-
+were constantly and significantly superior. Private banks' work culture, requirements, and
 
-valued profiling of an organization's ethos. Openness, autonomy, trust, confrontation,
+hours suggest higher work strain, more acute job stress, and disregard for human issues.
 
-proactivity, autonomy, authenticity, collaboration, and experimentation are measured
+Researchers, namely Lim, M. S., Kim, C. Y., & Yoo, J. W. (2020), first believed, depending on a
 
-through the test. There are two parts to the instrument. In section I, items 1 through 24 (three
+sampling of Korean manufacturing firms, as in a sector with significant isomorphic dynamics,
 
-for each of the eight values) explain values, and the respondent is asked to indicate the degree
+firms would be compelled by homogeneity to adhere to industry norms and standards. The
 
-to which his organization values each item. Part 2 has 16 items on beliefs, two for each of the
+data also indicate that when the industry is dynamic, the favourable impacts of strategy
 
-eight values, and the respondent assesses the extent to which the organization shares each
-
-belief. The Normative social influence scale is a six-item test that assesses a behaviour change
-
-deemed essential for group membership. Conformity stems from our desire for positive
-
-interactions with other individuals. Sixty responses were collected from diverse TCS and
-
-Infosys workers. With the aid of a manual, scoring and interpretation were accomplished. The
-
-t-test was used to compare research groups across multiple dimensions.
-
-52
+conformity and invention on firm success are diminished.

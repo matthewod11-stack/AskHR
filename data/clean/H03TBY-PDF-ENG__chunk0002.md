@@ -1,17 +1,29 @@
-# productivity and retention.
+---
+source_path: H03TBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14be790ffc62da5fe29cf38220e6fbd7a15076e8
+title: H03TBY-PDF-ENG
+---
+## Published on HBR.org / July 28, 2017 / Reprint H03TBY
 
-Sad fact: Employers often shoot themselves in the foot by designing old-
+An employee handbook update doesn’t usually merit a press release
 
-fashioned leave policies that undercut their recruitment and retention
+and glossy promotional video — except when there’s a beneﬁts arms
 
-goals and may expose them to public relations backlash and legal
+race on. The paid-parental-leave arms race is red-hot because employers
 
-liability. The most common misstep is making paid leave contingent
+see a unique opportunity to nab talent and headlines by one-upping
 
-on employees identifying as “primary caregivers.”
+their competitors. Although 86% of American employees have no access
 
-Copyright © 2017 Harvard Business School Publishing. All rights reserved.
+to paid parental leave, at elite ﬁrms access is growing. Six weeks! 20
 
-1
+weeks! A full year! From 2015 to 2017, more than 75 large companies
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+issued press releases touting new or expanded parental leave policies.
+
+Forward-thinking companies recognize that generous paid parental
+
+leave and other family-friendly policies provide reputational beneﬁts,
+
+confer a competitive edge in recruitment, and increase employee

@@ -1,9 +1,9 @@
-## at 8%. Philip Hammarskjold, the executive chairman at Hellman &
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cbd2929011a11517f803782704b9a258087dad92
+title: R2404K-PDF-ENG
+---
+## such as vessel prep solutions and a portfolio of specialized balloons
 
-Friedman, notes, “This innovative growth model is a new tool we can
-
-use to drive equity value in our companies by accelerating much needed
-
-patient-care innovation on a cost-eﬀective basis. Looking forward, we
-
-are excited to deploy this model alongside more-traditional growth
+and stents. Two years after the purchase, Cordis’s revenue was growing

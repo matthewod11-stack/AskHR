@@ -1,7 +1,17 @@
-## to customer service, and a 2017 Harvard Business Review Analytics
+---
+source_path: H08NU2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a31de9463f6ad274176123a19b94acb153a2904d
+title: H08NU2-PDF-ENG
+---
+# Thomas Barwick/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The silo effect, characterized by limited communication between
 
-1
+specialized business departments, has long been a pervasive issue
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in organizations. Multiple studies highlight the profound impact of
+
+silos: a Salesforce study revealed that 70% of customer experience
+
+professionals and executives view silo mentality as the biggest obstacle

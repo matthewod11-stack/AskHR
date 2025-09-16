@@ -1,19 +1,11 @@
-## HBR Staff/Shanina/ Carol Yepes/Getty Images
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 264c428bb2c5e6e74b5739e56abac9199b90519f
+title: H07MZQ-PDF-ENG
+---
+## How to Support Parents of Neurodivergent Children at Work
 
-While in a meeting, I (Ben) felt my phone buzz in my pocket. My heart
+Two professionals with neurodivergent children share their experiences navigating their parenting journeys. by Ben Waber and Kalifa Oliver
 
-skipped a beat, sweat slowly beading on my forehead. I closed my eyes
-
-and hoped that it wasn’t a dreaded call from school. It was. I excused
-
-myself from the meeting and stepped out into the hallway. As expected,
-
-my kid’s school was having diﬃculty with them and needed me to pick
-
-them up. I popped back in to apologize for leaving early and joined the
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Published on HBR.org / May 30, 2023; updated June 27, 2023 / Reprint H07MZQ

@@ -1,9 +1,7 @@
-# Jun Cen
-
-Artiﬁcial intelligence has created a striking paradox. Consider that in
-
-a 2023 Gartner survey, 79% of corporate strategists said that the use of
-
-AI, automation, and analytics would be critical to their success over the
-
-next two years. But only 20% of them reported using AI in their daily
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b39aaecf0cb71fbe5bb2640b1befa5570b56c6d1
+title: S25013-PDF-ENG
+---
+## From the Magazine (January–February 2025) / Reprint S25013

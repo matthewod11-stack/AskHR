@@ -1,11 +1,23 @@
-# Reality shocks
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57a475ac57fff3ca228b2a13b6cdc23d6e5efb70
+title: H08ADN-PDF-ENG
+---
+## Why Would New Hires Lose Psychological Safety?
 
-First, expectations about a new organization are invariably altered after
+Starting a new job is exciting. After making it through the hiring
 
-arrival. Called “reality shocks” by MIT professors John Van Maanen and
+process, you feel conﬁdent you were hired for a reason, eager to do
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+a good job. Surely your colleagues and manager want to hear from
 
-3
+you! Soon, however, you may ﬁnd things aren’t quite as you imagined;
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a single problematic interaction can kill the psychological safety you
+
+initially experienced.
+
+To prevent this from happening, leaders need to understand why
+
+newcomers are vulnerable to this loss:

@@ -1,9 +1,13 @@
-# favor. The University Student Union, Inc., Host Marriott Services Corporation and The
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: a3e8484d5bea15a3a6db310cfff7932efc0825de
+title: california_state_university_northridge_1
+---
+# Employee Resources
 
-Prudential Insurance Company of America, all have different internal syste:rns in place that
+For employees who are experiencing problems on the job that may lead to
 
-which handle work related issues before the employee seeks external assistance. These
+termination, have resources within their company, which can be utilized. An employee
 
-internal systems are set up for the sole purpose of resolving conflicts and rebuilding
-
-working relations that have been a strain for the parties involved.
+can also take action outside of the company, which may render a decision within their

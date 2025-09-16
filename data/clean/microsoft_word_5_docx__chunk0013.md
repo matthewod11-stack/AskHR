@@ -1,13 +1,15 @@
-# Javier, Alfonso & Luis 61
+---
+source_path: microsoft_word_5_docx.md
+pages: n/a-n/a
+chunk_id: b2f89c0d0758dc462178dac3799a11d58277ecf0
+title: microsoft_word_5_docx
+---
+# Leadership
 
-Because of their characteristics and diversity, today’s organizations represent fertile ground for the study of leadership models (García Saiz, 2010). More specifically, globalization, new technologies, communication, and economic and social trends challenge organizations with new leadership roles and functions (Burke & Cooper, 2006).
+It is clear that leadership is fundamental for the effectiveness of work groups and for
 
-The need to face new challenges in a globalized world requires leaders to accept a complex role which involves combining continuity with innovation, based on a solid foundation of social values, ethical principles and the practice of integrating groups of professionals from different areas.
+the organizations to which they belong (Baquero Pecino & Sánchez Santa-Bárbara, 2000).
 
-In comparison with typical traditional leadership, there have emerged new models of leadership much more dynamic and in step with reality. Thus, we see other types of leadership, for example, the transformational model which demonstrates positive correlations not only among different individual variables in the leader (ethics, emotional management, knowledge-building, etc.), but also with results at the organizational level (better performance, higher team satisfaction).
+During a visit to Spain, John Kotter, speaker on the subject of Leadership and Change, stated that “it is not possible to manage organizations of the 21st century using frameworks from the 20th century and directors from the 19th century”, and that only one out of every five persons occupying an executive position has the makings of a leader.
 
-In recent years, interest in studies of the relationship between leadership and ethics (Simola, Barling & Turner, 2010), transcultural leadership (Chocar, Brodbeck & House, 2007), and global leadership (Heames & Harvey, 2006) has grown.
-
-Team leadership can be understood in two ways (Day, Gron & Salas, 2004). Firstly, leadership as those attributes (abilities and behavior) that the members bring to the team, for example, charisma, integrity, etc., which have an impact on the group processes and performance. Secondly, leadership as the result of group processes (group learning) that facilitate the adaptation and performance of the work team in different stages of development. Both approaches are essential to the understanding of team leadership.
-
-Among the new tendencies or models in team leadership, we make mention of the
+Leadership must respond effectively to the new needs of organizations: innovation, cultural diversity, work-based knowledge, communication, and work groups. Work groups play a central role in organizations, and leadership is essential for the effectiveness of these teams (Judge & Piccolo, 2004; O`Reilly, Caldwell, Chatman,Lapiz & Self, 2010).

@@ -1,17 +1,17 @@
-## HBR / Magazine Article / Getting Over Overwork
+---
+source_path: R2406N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e5559d98c0992ffb25786c3c5469dbf119c65e0
+title: R2406N-PDF-ENG
+---
+## preparing, physically and mentally, for a medical procedure and time
 
-Do you interrupt your weekend to write the essay or wait and do it on
+oﬀ to recover. The clock is ticking, and your draft is on the verge of
 
-Monday? And does your decision—and rumination about it—determine
+being late.
 
-whether you’ve got a problem with overwork?
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Disclosure: It’s me. I’m the person who is torn about how to spend my
+1
 
-day oﬀ. But I suspect that I’m not alone. As an American who was raised
-
-to value head-down hard work, I know I’ve been consumed by tasks at
-
-all hours of the day and night. But over the years I’ve also developed
-
-hobbies that I prioritize, and my editor explicitly told me not to write
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

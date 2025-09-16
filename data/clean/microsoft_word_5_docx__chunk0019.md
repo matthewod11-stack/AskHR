@@ -1,3 +1,9 @@
-## locales. Madrid: Consejo Superior de Deportes.
+---
+source_path: microsoft_word_5_docx.md
+pages: n/a-n/a
+chunk_id: 4ac676b5549245518b775a37445b5b8115f2712b
+title: microsoft_word_5_docx
+---
+# References
 
-Blanco, D. M. (2012). D esarrollo de la gestión de la comunicación de las empresas. Tesis Doctoral.
+Andrés, F. & Delgado, C. (1995). Política deportiva municipal. E l nuevo papel de las corporaciones

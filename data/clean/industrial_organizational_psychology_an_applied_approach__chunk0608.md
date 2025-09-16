@@ -1,15 +1,21 @@
-# Quality control inspector
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d10c131d0bd47233621d87eba1817b8f806fac8d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Production worker
 
-10
+15
 
-45
+3,487
 
-12.24
+13.91
 
-7.00
+6.00
 
-8.00
+7.71
 
-9.93
+10.47
 
-13.38
+13.68

@@ -1,3 +1,7 @@
-# Commitment
-
-5,0
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 3716b627bce7410759bcc277b7457df9b5ff1b6d
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# Empathy

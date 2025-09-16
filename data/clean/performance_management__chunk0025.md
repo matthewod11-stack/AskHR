@@ -1,5 +1,9 @@
-# least
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: f42afcb1ac03c7a1949d8898f2c7012b6c47a26e
+title: performance_management
+---
+# Appraisal Accuracy
 
-two supervisors,
-
-The U.S. Army showed that one’s knowl- edge and ability explained only a very small part of an appraisal from one’s supervisor and peers. The supervisor’s positive regard for a subordinate resulted in both positive leniency and halo errors, and little inclination to punish poor performance. Other studies have found that the perceived similarity of the subordinate by the supervisor inﬂates appraisals in the private and public sectors. This is especially true with regard to per-
+Appraisals are more often a reﬂection of the appraiser’s overall biases than they are of the performance of an employee. Appraisers from different populations (e.g., supervisors vs. subordinates) attach different weights to the same aspects of performance that they observe as a result of their different perspec- tives in the organization. A massive study involving over 4000 managers with apprai- two sals from at peers, two subordinates plus self-appraisals indicated that the idiosyncrasies of an appraiser affect the appraisals given to an employee.

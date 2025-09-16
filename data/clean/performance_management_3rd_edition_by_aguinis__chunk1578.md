@@ -1,3 +1,11 @@
-# feedback
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 210a20d65816e75caea23f16c273cd0c8492aae8
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part III • Employee Development
 
-includes
+too often so that when he did praise him, it was meaningful. He described how Mike’s organizational and project management skills led to the successful completion of the project. Finally, Ken took his time in delivering the praise and made sure that Mike took the praise seriously.
+
+9.3.2.2 NEGATIVE FEEDBACK Negative that performance has fallen short of accepted standards. The goal of providing negative feedback is to help employees improve their performance in the future; it is not to punish, embarrass, or chastise them. It is important to give negative feedback when it is warranted because the consequences of not doing so can be detrimental for the organization as a whole. For example, Francie Dalton, president of Dalton Alliances, Inc., noted, “In organizations where management imposes no consequences for poor performance, high achievers will leave because they don’t want to be where mediocrity is tolerated. But mediocre performers will remain because they know they’re safe. The entire organizational culture, along with its reputation in the marketplace, can be affected by poor performers.”34

@@ -1,11 +1,13 @@
-## what Ronald Heifetz and Martin Linsky of the Harvard Kennedy School
+---
+source_path: H08H56-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 506acd362d5cec028b0ee0c2145dc5ffa6d69b6d
+title: H08H56-PDF-ENG
+---
+# Project stability.
 
-coined as being “on the balcony” — looking at the bigger picture, rather
+The day and week (and weeks) following the election are going to be
 
-than being swept up on the dance ﬂoor in raw feelings.
+trying for all of us. Be patient with your team and with yourself, says
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Smith. She recommends thinking about your leadership in terms of

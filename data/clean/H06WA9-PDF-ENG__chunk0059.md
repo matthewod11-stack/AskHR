@@ -1,9 +1,29 @@
-## one meetings with direct reports in conference rooms rather than at
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7ee92fe0ee5cbf8206c0e17b084fa6ca1d93f95
+title: H06WA9-PDF-ENG
+---
+## HBR / The Big Idea / Harnessing the Power of Age Diversity
 
-their desks. As a result, team members of all generations became more
+with his multigenerational team. At the beginning of each, Hornbrook
 
-supportive of people taking mental health days.
+reminds everyone that their mission is to help customers with their
 
-By creating a space for team members to discuss how the group
+application- and account-related questions and that success will require
 
-functions, managers demonstrate that all perspectives are valued.
+both trust and willingness to listen to the perspectives of the entire
+
+group. His eﬀorts have borne fruit: For example, his Millennial and
+
+Gen Z employees feel comfortable voicing their concerns about mental
+
+health in the workplace — a subject previously considered taboo by
+
+some of their older colleagues. These conversations helped Hornbrook
+
+and other senior colleagues understand why paid-time-oﬀ requests
+
+had spiked recently and prompted them to ﬁnd ways to reduce
+
+employee anxiety, including by requiring supervisors to hold one-on-

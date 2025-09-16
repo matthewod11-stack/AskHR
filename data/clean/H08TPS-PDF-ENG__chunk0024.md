@@ -1,7 +1,11 @@
-## economic downturn. Yet the collective impacts of these decisions across
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f71ab0833bf59b91df88b0b4c7b2484e039b55f
+title: H08TPS-PDF-ENG
+---
+# revenues.
 
-businesses can cause lasting damage to workers and labor markets.
+. . .
 
-Our research suggests ﬁrms and policymakers can help support healthy
-
-labor markets when they work together to stabilize and maintain jobs in
+Many ﬁrms turn to layoﬀs to stabilize their businesses during an

@@ -1,25 +1,19 @@
-# to you in a reasonable amount of time?
+---
+source_path: H07QM7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17179a1dd78e8ccffe08aecee1ee01d95a9378a9
+title: H07QM7-PDF-ENG
+---
+# trust.
 
-Provide descriptive and speciﬁc feedback on the problematic behaviors,
+- 3. Provide feedback on the speciﬁc behaviors that are leading to your distrust. Recall which of the three components of trust is low (competency,
 
-describe the resulting negative impact, and align on moving forward
+consistency, and character) and specify the behaviors that have
 
-productively. For example, you might say, “For the last two weeks,
+degraded your trust. For example, let’s say you identiﬁed that the source
 
-you’ve missed the weekly project status report deadline. Consequently, I
+of your distrust is a lack of consistency. What exact behaviors have you
 
-haven’t been able to provide a complete project update to the executive
+observed that make you feel you can’t rely on them? Missed deadlines,
 
-team. Can we discuss what’s causing the delay and create a plan to
-
-rectify the situation?”
-
-High-quality feedback strengthens relationships with your team
-
-member and builds trust. Remember that no one considers
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+failure to follow through on a stated commitment, or failure to respond

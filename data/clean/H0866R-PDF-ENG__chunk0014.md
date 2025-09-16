@@ -1,21 +1,25 @@
-# HBR / Digital Article / Working Parents, Plan for the Week with This Simple Exercise
+---
+source_path: H0866R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27093c6fa10c1d511460758703ec8847aacd8283
+title: H0866R-PDF-ENG
+---
+# each week.
 
-in, driving frustration and tension when that choice is frequent and
+- Decision fatigue. Families leave many small but important decisions
 
-assumed.
+to the spur of the moment — what’s for dinner, who’s doing pick-up —
 
-Over the years, we’ve tested many approaches to solving these three
+leading to cognitive fatigue and suboptimal decisions.
 
-challenges and the one that has unfailingly been the most successful,
+- Surprises. Inevitably each week something doesn’t go according to
 
-(and the simplest!), is what I call a “Weekly Preview”: 20 minutes at the
+plan and there has to be a scramble to ﬁx it: childcare falls through
 
-start of each week, reviewing what’s ahead in the next seven days (for
+or someone gets sick. Often there is a “default” parent who steps
 
-our users in North America we call it the “Sunday Scan,” though the day
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-you choose to conduct your preview may diﬀer). By dedicating even just
+2
 
-this short amount of time to planning, you can avoid surprises, make
-
-decisions more eﬀectively by batching them, and prepare agreed-upon
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

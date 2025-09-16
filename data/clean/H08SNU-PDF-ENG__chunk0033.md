@@ -1,11 +1,35 @@
-## Using Gen AI to Support Subtractive Transformation
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdedcba3a19f1ea0c3ca4fd787bf5fcea1373874
+title: H08SNU-PDF-ENG
+---
+## HBR / Digital Article / In Turbulent Times, Consider “Strategic Subtraction”
 
-Generative AI tools can help you identify subtractive opportunities
+easier to troubleshoot. Design challenges make subtraction a creative
 
-that humans might miss. For example, for illustrative purposes, we
+constraint rather than a limiting one.
 
-prompted Google Gemini 2.5 and Claude 4 to craft the following
+Celebrate subtraction done well
 
-subtractive ideas for a large healthcare provider in India using
+Subtraction is frequently overlooked, which makes its beneﬁts easy to
 
-the six approaches described above: “Generate actionable subtractive-
+ignore. Leaders can encourage recognition by asking teams not only
+
+to log what they’ve stopped doing, but also to celebrate that as an
+
+achievement. This simple habit turns subtraction into an acknowledged
+
+source of value worthy of praise. Techniques such as elimination
+
+and pausing help make these removals deliberate accomplishments.
+
+Eliminating a redundant task can improve eﬃciency by reducing time
+
+wasted and deserves recognition as a meaningful contribution. Pausing
+
+low-impact projects keeps future options open while concentrating on current eﬀorts—another strategic decision worth celebrating.
+
+Recognizing and honoring subtraction reinforces the idea that removal
+
+with strategic intent is a sign of progress, not neglect.

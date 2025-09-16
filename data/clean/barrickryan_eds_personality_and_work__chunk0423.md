@@ -1,9 +1,21 @@
-# CHAPTER 5
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 2b04be00162218055f37f7b086083c6a0f54aa08
+title: barrickryan_eds_personality_and_work
+---
+# 120 PERSONALITY AND WORK
 
-Dispositional Inﬂuences on Affective Experiences at Work Howard M. Weiss Katherine E. Kurek
+citizenship performance: Negative ﬁndings and proposed modiﬁcations. Manuscript submitted for publication.
 
-Personality constructs enter into the explanatory systems of every variable of interest to industrial/organizational psychology (I/O). Affect is clearly no exception, and in this chapter, we provide some general thoughts on how personality-affect connections can be un- derstood and studied. We have not attempted to review the I/O lit- erature on the relations of personality constructs with affect constructs. Readers interested in that review might look to Staw (in press). Nor have we tried to make precise predictions about spe- ciﬁc personality constructs, beyond relevant clarifying illustrations. Instead, we focus on some broad issues concerning how that rela- tionship can be productively conceptualized. We believe the time is right to think seriously about the study of personality and affec- tive reactions and think that analysis will be advanced by a more process-oriented discussion of affect. In effect, we are playing to our strengths as affect researchers and hope that the more knowl- edgeable personality researchers who comprise the readers of this volume will bring that knowledge to bear on the conceptual and process issues we address.
+Tett, R. P., Guterman, H. A., Bleier, A., & Murphy, P. J. (2000). Develop- ment and content validation of a “hyperdimensional” taxonomy of managerial competence. Human Performance, 13, 205–251.
 
-If we are to have a useful discussion of the relationship between personality and affect, we have to make clear that affect and person- ality are very different kinds of constructs and that the differences
+Tett, R. P., Jackson, D. N., & Rothstein, M. (1991). Personality measures as predictors of job performance: A meta-analytic review. Personnel Psychology, 44, 703–742.
 
-121
+Van Dyne, L., Cummings, L. L., & Parks, J. M. (1995). Extra role behav- iors: In pursuit of construct and deﬁnitional clarity (a bridge over muddied waters). In L. L. Cummings & B. M. Staw (Eds.), Research in organizational behavior (Vol. 17, pp. 215–285). Greenwich, CT: JAI Press.
+
+Van Scotter, J. R., & Motowidlo, S. J. (1996). Interpersonal facilitation and job dedication as separate facets of contextual performance. Jour- nal of Applied Psychology, 81, 525–531.
+
+Witt, L. A., Burke, L. A., Barrick, M. R., & Mount, M. K. (2002). The in- teractive effects of Conscientiousness and Agreeableness on job per- formance. Journal of Applied Psychology, 87, 164–169.
+
+Wright, P. M., Kacmar, K. M., McMahan, G. C., & Deleeuw, K. (1995). P = f(M + A): Cognitive ability as a moderator of the relationship between personality and job performance. Journal of Management, 21, 1129–1139.

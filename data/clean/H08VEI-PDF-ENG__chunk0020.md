@@ -1,17 +1,17 @@
-## HBR / Digital Article / Building Employee Buy-In for Strategic Change
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b51276de142ffe22b15e1e24b21cd6e29c66e35d
+title: H08VEI-PDF-ENG
+---
+# Be patient.
 
-and done the analysis. Employees are hearing about it for the ﬁrst time
+Change requires a mental shift and it takes time to rewire old patterns.
 
-and only starting to wrap their heads around it.”
+Be patient, says Carroll. “Leaders have had the conversations for months
 
-Meet your people where they are. “Acknowledge that uncertainty is
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-normal and make them feel safe,” says Willett. “You might not be able
+5
 
-to anticipate every question,” he adds, “but you need to be prepared to
-
-talk about what they’re worried about or afraid of.” Your core message is
-
-simple: ‘We’re doing this new change, we’re going to make mistakes, and
-
-we’re going to ﬁgure it out together.’”
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

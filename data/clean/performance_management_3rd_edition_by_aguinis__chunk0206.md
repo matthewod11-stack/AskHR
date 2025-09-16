@@ -1,3 +1,9 @@
-# 1.5.2 Administrative Purpose
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 5422f061b9d6c9c0b8dbea54af696726885d00d2
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part I • Strategic and General Considerations
 
-A second function of performance management systems is to furnish valid and useful information for making administrative decisions about employees. Such administrative decisions include salary adjustments, promotions, employee retention or termination, recognition of superior individual performance, identification of poor performers, layoffs, and merit increases. Therefore, the implementation of reward systems based on information provided by the performance management system falls within the adminis- trative purpose. For example, the government in Turkey mandates performance management systems in all public organizations in that country with the aim to prevent favoritism, corruption, and bribery and to emphasize the importance of impartiality and merit in administrative decisions.38
+employees to understand the types of behaviors and results that are valued and rewarded, which, in turn, lead to an understanding of the organization’s culture and its values.

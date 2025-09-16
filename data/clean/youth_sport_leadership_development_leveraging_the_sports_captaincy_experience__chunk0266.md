@@ -1,15 +1,27 @@
-# response
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: dedb0da627d6207cf99fe5277ad4ed04c90b6347
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+## TABLE 3 Becoming an Effective Team Captain: Student-Athlete Guide Content
 
-– Strategies for making tough decisions, resolving conﬂict, and handling tough team situations (e.g., losing streaks, tough losses, poor performance, poor off-the-ﬁeld decisions)
+- 1. Introduction—About the Captain’s Guide – Why you are here – What to expect – How to use the guide 2. My Role as a Team Captain
 
-– Development of a plan for handling common team problems
+– Captain roles and responsibilities – Assessment of leadership abilities (strengths and areas for improvement) – Complexity of leadership and its components (leader, followers, situation) – Key leadership principles – Case examples of effective leaders and captains
 
-- 7. Recommendations from Captains and Coaches
+- 3. Effective Communication
 
-– E.g., Don’t put yourself above others and get too caught up in being a captain
+– Characteristics of most and least effective communicators – Keys to effective communication (verbal, nonverbal, listening) – Communicating with coaches
 
-- 8. Using What You Learned
+- 4. Team Motivation—The Captain’s Central Role
 
-– Assessment of leadership lessons learned and how they will be used – Development of a leadership plan for your school/team
+– Motivational duties as a captain – Characteristics of motivated teams – Guidelines for understanding and improving team motivation
 
-if one did not attend the program (e.g., if a captain wanted to share it with a co-captain who was not in attendance).
+- 5. Team Building & Cohesion
+
+– Characteristics of effective teams – Development of team unity, identity and pride, respect, trust, and responsibility – Assessment of team cohesion – Strategies for improving team cohesion
+
+- 6. Handling Tough Team Situations
+
+– Assessment of common team problems experienced and the effectiveness of your

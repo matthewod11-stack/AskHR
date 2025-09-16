@@ -1,13 +1,9 @@
-## in technology. However, the top 10% of companies in every industry
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8036e0883c826ace7c8b004498f958378d7f185
+title: R2502C-PDF-ENG
+---
+## companies across eight industries from February 2019 to February
 
-outperformed the average returns of tech ﬁrms. In other words, entering
-
-an attractive industry does not guarantee superior performance, and
-
-a strategically ﬁt company can excel in even the toughest industries—
-
-such as ﬁtness. In pursuit of its purpose to improve the self-esteem
-
-of people all over the world, SEB has expanded in multiple directions—
-
-adding product lines and geographic markets through internal growth
+- 2024. The study found that the highest average returns (19%) were

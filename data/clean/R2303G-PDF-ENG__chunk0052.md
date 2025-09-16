@@ -1,17 +1,13 @@
-## —especially under pressure—demands commitment and eﬀort. Here
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7dd189621e4a3fdf91392d61cd3a99baab92629
+title: R2303G-PDF-ENG
+---
+# Starting Your Own Journey
 
-are a few tips to help you get on your way.
+Most high-performing executives today intellectually “get” the case for
 
-Know what you’re in for. At the outset upping your people skills can
+better people skills and know that their well-honed directive styles have
 
-seem simple enough. But people who lack knowledge or experience
-
-often overestimate their own competence—the notorious Dunning-
-
-Kruger eﬀect. And even experienced managers tend to believe they’re
-
-better at coaching than they really are. So it’s important to develop a
-
-realistic sense of the time and eﬀort required to genuinely adapt your
-
-style. Knowing what milestones to look out for—such as early wins and
+signiﬁcant downsides. But learning and sticking to new habits and skills

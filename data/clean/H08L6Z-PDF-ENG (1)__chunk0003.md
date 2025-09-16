@@ -1,7 +1,25 @@
-## HBR / Digital Article / How to Build a Power Map for Your Project
+---
+source_path: H08L6Z-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 729a1007e3e1cc2db5bf84f02bce3ee579f415a3
+title: H08L6Z-PDF-ENG (1)
+---
+# Lydia Whitmore/Getty Images
 
-implemented or ignored, whether you’re considered for projects, and
+Think about the ocean. On the surface it seems serene, but deep below,
 
-even how quickly you advance. While good work quality matters, far too
+currents guide everything that happens above. This is exactly how
 
-many professionals overlook the hidden dynamics that really determine
+power dynamics work in organizations. They may seem invisible, but
+
+they shape everything from decision-making to company culture.
+
+Power dynamics refer to the balance (or imbalance) between people
+
+and groups when they interact. They determine whether your ideas get
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,31 @@
-## HBR / Magazine Article / Learning Emerging Skills Doesn’t Always Pay Off
+---
+source_path: F2501A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8e2f8130668fa96a48096a1340eb60056a64d47
+title: F2501A-PDF-ENG
+---
+## timeline for the whole organization by two years.
 
-whether they’ll become a requirement in the long run. Then you should
+Redesigning a training program is costly, especially in the near term, so
 
-decide whether now is the time to teach them.
+start with a deﬁned group of employees and then expand to other areas
 
-How you split the training time between core and emerging skills will
+as you get results. That way, your HR managers can understand what
 
-vary for each role. Some departments, such as IT, will need to update
+works and what doesn’t before rolling a program out broadly. They’ll
 
-their skills more frequently than others. And timing is key to integrating
+also be able to assess how employees are progressing and whether there
 
-emerging-skills training successfully. New skills will always crop up, but
+will be pushback when the program moves to new departments.
 
-will employees have time to learn them, time to test them, and time to
+Incorporate emerging skills when they become mission critical. “Over
 
-apply them in their daily functions while also maintaining or improving
+the course of ﬁve years, everyone will need to learn new skills,” says
+
+Guadagni. You should constantly identify emerging skills and assess
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,11 @@
-# Customers
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 66e9a428fa7f98e5f4d4b43f94d8241082e83431
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Subordinates
 
-Although it would be unlikely that an organization would ask customers to fill out a performance appraisal instrument on an employee, organizations do value customer feedback. Informally, customers provide feedback on employee performance by filing complaints or complimenting a manager about one of her employees. Formally, customers provide feedback by completing evaluation cards such as that shown in Figure ..
+Subordinate feedback (also called upward feedback) is an important compo- nent of -degree feedback, as subordinates can provide a very different view about a supervisor’s behavior. However, with the exception of students rating teachers, formal methods are neither common nor well regarded by managers (McEvoy, , ). Subordinate ratings can be difficult to obtain because employees fear a backlash if they unfavorably rate their supervisor, especially when a supervisor has only one or two subordinates. For example, when the supervisors at one mental health facility gave poor performance ratings to their boss, each was “called on the carpet” for having the audacity to rate the boss poorly. After such a browbeating, what do you think is the probability the subordinates will be honest in the future? Subordinates’ feedback can be encouraged if supervisors appear open to employee comments (Baumgartner, ); if the ratings are made anonymously (Antonioni, ); if the ratings are used for developmental purposes (Avis & Kudisch, ); and if the employee feels competent to make the rating, feels there will be no retaliation for making honest ratings, and will somehow benefit by providing honest ratings (Smith & Fortunato, ).
 
-Organizations also seek customer feedback in the form of secret shoppers— current customers who have been enlisted by a company to periodically evaluate the service they receive. In exchange for their ratings, secret shoppers get a few dollars and a free meal. For years, I have been “employed” by a national marketing company to eat at local restaurants and secretly complete a rating of the quality of food and service. The compensation is only $ per visit plus reimbursement for the meal, but it is a fun experience. I only wish they would have granted my request for sunglasses and a trench coat!
-
-evaluating employee performance
-
-243
+Interestingly, subordinate ratings correlate highly with upper- management ratings of supervisors’ performance (Furnham & Stringfield, ; Riggio & Cole, ). A meta-analysis (Smither, London, & Reilly, ) of the effect of multisource feedback found that although the effect was small, feedback from direct reports (d = .) resulted in greater performance changes than did feedback from peers (d = .) or supervisors (d = .). Multisource feedback is most effective when the feedback indicates that the employee needs to change his or her behavior, the employee perceives that the changes are feasible, and the employee is open to receiving constructive feedback (Smither et al., ). Perfor- mance increases can be enhanced when the feedback is provided in a workshop conducted by a feedback facilitator rather than by a direct supervisor (Seifert, Yukl, & McDonald, ). Though supervisor performance might increase from upward feedback, such feedback does not appear to improve the overall performance or stock value of an organization (Pfau & Kay, a).

@@ -1,13 +1,23 @@
-# Augmenting Creative Processes
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3188d7b8d03791f6f21a427c28f86030da610849
+title: S25012-PDF-ENG
+---
+## novo antibodies with a computer and zero-shot generative AI—in which
 
-Several leading consumer-products companies are harnessing cutting-
+a machine-learning model recognizes and classiﬁes new concepts
 
-edge AI and digital technologies to catalyze the human creativity
+without having any labeled examples. In other words the AI designs
 
-that drives growth in the sector. At Colgate-Palmolive, employees are
+antibodies that will bind to speciﬁc targets without using any training
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+data on antibodies known to bind those targets. Creating them via AI
 
-5
+instead of through trial and error could reduce the time it takes to get
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+new biologics into the clinic from as much as six years down to 18
+
+months, while increasing their probability of success. Waste, as kaizen
+
+has taught us, is not only a matter of materials but also a matter of time and eﬀort.

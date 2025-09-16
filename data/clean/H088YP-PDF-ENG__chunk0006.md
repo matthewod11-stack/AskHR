@@ -1,19 +1,7 @@
-## HBR Staff/Kaori Ando/Iuliia Isaieva/yacobchuk/Getty Images
-
-Designing an accessible, inclusive interview process for disabled
-
-people and people with diﬀerent learning styles both widens the talent
-
-pool and creates a more equitable workplace.
-
-For hiring managers, this requires a thoughtful and conscientious
-
-approach. Where do you begin? What actions can you take to
-
-accommodate candidates’ needs? How do you maintain consistent
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12e8086d4b6015328fa43d0fcac0cb49a49a3608
+title: H088YP-PDF-ENG
+---
+## Published on HBR.org / June 07, 2024 / Reprint H088YP

@@ -1,11 +1,21 @@
-# Show that there’s already support.
+---
+source_path: H08A8P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba5dcefeda8899f788fd0dc815d7c2ccfe932b7c
+title: H08A8P-PDF-ENG
+---
+## HBR / Digital Article / When a Coworker Keeps Giving You Unsolicited Advice
 
-Demonstrating that your idea has backing is a smart way to leverage
+moving forward with…” This shows that you’re sharing information, not
 
-the psychology of social proof. When you mention that you’ve already
+soliciting feedback or looking for input on whether or not to proceed.
 
-seen positive results or that you have the support of higher-ups, external
+Consider Dana’s situation. Instead of saying, “I’m exploring the best way
 
-vendors, or partners, it signals to your colleagues and boss that your
+to launch this new initiative,” she might say, “To get this new initiative
 
-idea is validated and potentially accepted within the organization — or
+oﬀ the ground, I’m prioritizing corporate sponsorships and advertising.”
+
+There’s now a higher likelihood that Ethan might ask how he can help
+
+with Dana’s plan versus volunteering more suggestions.

@@ -1,11 +1,29 @@
-# Francisco: Jossey-Bass.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c828b5453237aedae3fdc73d789d0ee4d3ea3fe0
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Psychologist, 36, 343–356.
 
-Lawshe, C. H., Bolda, R. A., Brune, R. L., & Auclair, G. (1958). Expectancy charts II: Th eir theoretical development. Personnel Psychology, 11, 545–559.
+Latham, G. P., & Blades, J. J. (1975). Th e practical signiﬁ cance of Locke’s theory of goal setting. Journal of Applied Psychology, 60, 122–124.
 
-Lawson, K. (2000). Making training active. In G. M. Piskurich,
+Latham, G. P., Fay, C. H., & Saari, L. M. (1979). Th e development
 
-P. Beckschi, & B. Hall (Eds.), Th e ASTD handbook of training design and delivery (pp. 42–53). New York: McGraw Hill.
+of behavioral observation scales for appraising the perfor- mance of foremen. Personnel Psychology, 32, 299–311.
 
-references
+Latham, G. P., & Pinder, C. C. (2005). Work motivation theory and research at the dawn of the twenty-ﬁ rst century. Annual Review of Psychology, 56, 485–516.
 
-645
+Latham, G. P., & Wexley, K. N. (1977). Behavioral observation scales for performance appraisal purposes. Personnel Psychology, 30, 225–268.
+
+Latham, G. P., & Wexley, K. N. (1994). Increasing productivity through performance appraisal. Reading, MA: Addison Wesley.
+
+Latham, V. M. (1983). Charismatic leadership: A review and
+
+proposed model. Proceedings of the 4th Annual Graduate Conference in Industrial/Organizational Psychology and Organizational Behavior.
+
+Law, J. R. (1996). Rising to the occasion: Foundations, processes,
+
+and outcomes of emergent leadership. Unpublished doctoral dissertation, University of Texas, Austin, TX.
+
+Lawler, E. E. (2001). Organizing for high performance. San

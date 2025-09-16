@@ -1,19 +1,23 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8de9c3ea91fad8595359961587277c42887956be
+title: untitled
+---
+# logical perspective. New York: Praeger.
 
-Romero, M., & Stewart, A. J. (Eds.). (1999). Women’s untold sto- ries: Breaking silence, talking back, voicing complexity. New York: Routledge.
+Parlee, M. B. (1979). Psychology of women. Signs, 5, 121–133.
 
-Rosenberg, R. (1982). Beyond separate spheres: The intellectual roots of modern feminism. New Haven, CT: Yale University Press.
+Parlee, M. B. (1994). The social construction of premenstrual syn- drome: A case study in scientiﬁc discourse as cultural contesta- tion. In M. G. Winkler & L. B. Cole (Eds.), The good body: As- ceticism in contemporary culture (pp. 91–107). New Haven, CT: Yale University Press.
 
-Russell, G. M., Bohan, J. S., & Lilly, D. (2000). Queer youth: Old stories, new stories. In S. Jones (Ed.), A sea of stories: The shap- ing power of narratives in gay and lesbian cultures (pp. 69–92). New York: Haworth.
+Pyke, S. W. (1993). The more things change. Canadian Psychology,
 
-Scarborough, E., & Furumoto, L. (1987). Untold lives: The ﬁrst gen- eration of American women psychologists. New York: Columbia University Press.
+33, 2.
 
-Sears, D. O. (1986). College sophomores in the laboratory: Inﬂu- ences of a narrow data base on psychology’s view of human nature. Journal of Personality and Social Psychology, 51, 515–530.
+Radloff, L. S. (1975). Sex differences in depression: The effects of
 
-Sherif, C. W. (1979). Bias in psychology. In J. A. Sherman & E. T. Beck (Eds.), The prism of sex: Essays in the sociology of knowl- edge (pp. 93–133). Madison: University of Wisconsin Press.
+occupation and marital status. Sex Roles, 1, 249–265.
 
-Shields, S. A. (1975). Functionalism, Darwinism, and the psychol- ogy of women: A study in social myth. American Psychologist, 30, 739–754.
+Reid, P. T. (1993). Poor women in psychological research: Shut up and shut out. Psychology of Women Quarterly, 17, 133–150.
 
-Spence,J.T.,&Helmreich,R.L.(1978).Masculinityandfemininity: Their psychological dimensions, correlates, and antecedents. Austin: University of Texas.
-
-Thompson, B. W. (1995). A hunger so wide and deep. Minnesota:
+Rodin, J., Silverstein, L. R., & Striegel-Moore, R. H. (1984). Women and weight: A normative discontent. In T. B. Sonderegger (Ed.), Psychology and gender: Nebraska Sympo- sium on Motivation, 1984 (pp. 267–307). Lincoln: University of Nebraska Press.

@@ -1,11 +1,9 @@
-# back home.
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dacc000b2198e43e10fb5df209800285123b78ed
+title: H07MZQ-PDF-ENG
+---
+# HBR / Digital Article / How to Support Parents of Neurodivergent Children at Work
 
-This had happened nearly a dozen times over the past few months. Six
-
-months later my child would be out of the public school system.
-
-Parents of neurodivergent children — which both of us are —
-
-experience personal challenges that are diﬃcult to explain. There are
-
-many reasons for this — the lack of (especially accurate) representation
+rest of the meeting from my phone as I jogged to the train station to get

@@ -1,11 +1,11 @@
-# productive workplace for all.
+---
+source_path: H07QM7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73feebc7ce41cd83250572f1fe2a6abdbcfe7fa5
+title: H07QM7-PDF-ENG
+---
+## relationship; without it, the leader, the employee, and the broader team
 
-This article was originally published online on August 17, 2023.
+suﬀer. Create a plan based on the steps outlined above, give it time, and
 
-Dina Denham Smith is an executive coach to senior leaders and teams at top global companies such as Adobe, Netﬂix, PwC, Dropbox, Goldman Sachs, Stripe, and numerous high-growth startups. A former business executive, she is the lead author of the bestselling book Emotionally Charged: How to Lead in the New World of Work. Connect with her on LinkedIn or at dinadsmith.com, and subscribe to her newsletter for proven strategies to accelerate your success.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+know that trust can be rebuilt in most cases, leading to a happier, more

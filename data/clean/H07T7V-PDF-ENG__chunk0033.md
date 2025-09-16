@@ -1,7 +1,13 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3fbc1cc441ed0fec327526fc943c3d6785c4e59e
+title: H07T7V-PDF-ENG
+---
+# issue.
 
-Science is this inherently, deeply social, deeply argumentative process
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-with a ground rule. Evidence is the queen here. That’s what we’re going
+11
 
-to follow. And a lot of the geek companies that I respect do that as
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

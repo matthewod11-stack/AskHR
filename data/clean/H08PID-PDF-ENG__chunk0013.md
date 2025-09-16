@@ -1,19 +1,15 @@
-# Recommendations for Leaders
+---
+source_path: H08PID-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2034841771efe453fac7e1578276ef53c4867ef2
+title: H08PID-PDF-ENG
+---
+# HBR / Digital Article / Research: When Leaders Express Positivity Early On, Employee…
 
-Our research provides useful insights for leaders who hope to inspire
+at the outset, then a little negativity at the midpoint, had the highest
 
-their teams and unlock their employees’ potential.
+performance. This is likely because these individuals, sensing a dip in
 
-- 1. Take advantage of early opportunities to express genuine positivity
+their leader’s evaluation of their contributions, were inspired to work
 
-Our research dispels the theory that showing harsh emotions at the start
-
-of a project drives performance (picture Bobby Knight). Instead, those
-
-leaders who hope to inspire strong performance should thoughtfully express how much they care about their staﬀ, enjoy working with them,
-
-and value their speciﬁc contributions—and they should do this early.
-
-Even the late Steve Jobs, who is notorious for embracing a more
-
-negative emotional leadership style, made sure to express enthusiasm to engineers during the kick-oﬀ meeting for the iPhone’s development
+even harder to regain their leaders’ early-term respect.

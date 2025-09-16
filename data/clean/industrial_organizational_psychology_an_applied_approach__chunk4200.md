@@ -1,17 +1,19 @@
-## Gere, D., Scarborough, E. K., & Collison, J. (2002). SHRM/
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2044d9cc7d060c15b3f44103a3f103cdc4931470
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Geier, J. G., & Downey, D. E. (1980). Attitudinal listening
 
-Recruit Marketplace 2002 recruiter budget/cost survey. Alexandria, VA: Society for Human Resource Management.
+proﬁ le system. Minneapolis, MN: Performax Systems International.
 
-Gersick, C. J. G. (1988). Time and transition in work teams:
+Geier, J. G., Downey, D. E., & Johnson, J. B. (1980). Climate impact proﬁ le. Minneapolis, MN: Performax Systems International.
 
-Toward a new model of group development. Academy of Management Journal, 31(1), 9–41.
+Geisinger, K. F., Spies, R. A., Carlson, J. F., & Plake, B. S. (2007). Seventeenth Mental Measurements Yearbook. Lincoln, NE: University of Nebraska Press.
 
-Gerstner, C. R., & Day, D. V. (1997). Meta-analytic review of
+Gelbart, M. (2001, October 30). 425 hopefuls attend Philadelphia
 
-leader-member exchange theory: Correlates and construct issues. Journal of Applied Psychology, 82(6), 827–844.
+job fair for airline workers. Philadelphia Inquirer. George, J. M. (1995). Asymmetrical eﬀ ects of rewards and
 
-Gibbs, C. A. (1969). Leadership. In G. Lindzey & E. Aronson
-
-(Eds.), Handbook of social psychology (pp. 205–282). Reading, MA: Addison-Wesley.
-
-Giﬃ n, M. E. (1989). Personnel research on testing, selection, and
+punishments: Th e case of social loaﬁ ng. Journal of Occupational and Organizational Psychology, 68(4), 327–338.

@@ -1,13 +1,13 @@
-# services, or electric scooters.
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00b3364297486d80f5f16b2064b3a9363a813d40
+title: H08IKZ-PDF-ENG
+---
+# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
 
-All ﬁrms are built on an act of imagination. For instance, Airbnb’s
+Human imagination is crucial to extending the realm of the possible.
 
-founders envisioned a platform where homeowners could rent out spare
+For example, if the need driving a car buyer is a short commute to work,
 
-rooms — upending the belief of leading hospitality companies that
-
-you had to build or own the accommodations oﬀered to customers.
-
-This idea didn’t emerge from analysis of existing hospitality data, but
-
-from humans imagining how they could address the need for aﬀordable
+they might consider alternatives like public transportation, ride-sharing

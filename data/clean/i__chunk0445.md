@@ -1,19 +1,7 @@
-# mse_1 = MSE(y_test2, pred_tree)
-
-print('MSE of unpruned tree is', mse_1)
-
-MSE of unpruned tree is 0.20923913043478262
-
-Because the previous simple linear regression performs better, tree should be pruned
-
-params = {"criterion":("gini", "entropy"),
-
-"splitter":("best", "random"),
-
-"max_depth":(list(range(1, 20))),
-
-"min_samples_split":[2, 3, 4],
-
-"min_samples_leaf":list(range(1, 20)),
-
-}
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: f961bf7f9455be55031426dc2ac65e64b7fb9f32
+title: i
+---
+# To see how we perform we create prediction and calculate MSE

@@ -1,11 +1,21 @@
-# Percent
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: c49a74e1729b7e61542b6b20580f9fb56ba2e36a
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Employee Performance
 
-45
+The study sought to establish the extent to which responded agreed with statements relating on employee performance. .A scale of 1-5 was used.
 
-25
+The s(cid:272)ores (cid:862)“tro(cid:374)gl(cid:455) disagree(cid:863) a(cid:374)d (cid:862)Disagree(cid:863) were represented by mean score, equivalent to
 
-30
+(cid:1005) to (cid:1006).(cid:1009) o(cid:374) the (cid:272)o(cid:374)ti(cid:374)uous Likert s(cid:272)ale (cid:894)(cid:1005) ≤ Disagree≤ (cid:1006).(cid:1009)(cid:895). The s(cid:272)ores of (cid:858)Neutral(cid:859) (cid:449)ere represented by a score equivalent to 2.6 to 3.5
 
-100
+o(cid:374) the Likert s(cid:272)ale (cid:894)(cid:1006).(cid:1010) ≤ Neutral ≤ (cid:1007).(cid:1009)(cid:895). The s(cid:272)ore of (cid:862)“tro(cid:374)gl(cid:455) agree(cid:863) (cid:449)ere represented by a mean score equivalent to 3.6 to (cid:1009).(cid:1004) o(cid:374) the Likert “(cid:272)ale (cid:894)(cid:1007).(cid:1010) ≤ Agree ≤ (cid:1009).(cid:1004)(cid:895). The results were presented in mean and standard deviation. The mean was generated from SPSS version 21 and is as illustrated in Table 4.9.
 
-From the research findings, majority of the respondents agreed that; good employee performance is important for the future growth of my organization, significant number of the employees motivated to complete the task that is assigned to me as shown by a mean of 4.20 in each case. most of the employees were committed to the mission and direction of my organization as shown by a mean of 4.31, effective application of code of conduct can perform well and significant number of employees enjoyed working with them, employees felt that they can improve my task performance as shown by a mean of 4.39 most of the employees co-operated well with their colleagues of different background. And rules and regulations and code of conduct enhance performance in our organization as shown by a mean of 4.10
+(cid:862)Agree(cid:863) a(cid:374)d
+
+- 1585 -
+
+was no human resource policy and 30% were neutral as they indicated that they were not sure whether human policy was there or not. This implies that employee were human resource policy was not there at Mukurwe-ini Dairy Ltd.

@@ -1,9 +1,23 @@
-## HBR / Digital Article / The Right Way to Implement Stretch Assignments
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19c958d6c5ed53c15546759a7b892dc930bafcfd
+title: H08QTQ-PDF-ENG
+---
+## ambiguous situations. Equally qualiﬁed individuals from historically
 
-assignments than men. Were they being given these opportunities to
+less-advantaged groups face more scrutiny and skepticism. Over time,
 
-develop their skills rather than to position them for leadership? In other
+these advantages can become internalized, making some groups more
 
-words, do men get higher-value stretch assignments to advance, while
+likely to expect career rewards, while others may be less certain that the same eﬀorts will lead to advancement.
 
-women get stretches to prove themselves? More research is required to
+Our ﬁndings also raise questions about why early-career women
+
+engineers, in particular, reported doing more new area stretch
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,9 @@
-# Community Psychology, 26, 189–206.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6b94697e7a437c8dc22213bc8eee61bf88af08ac
+title: untitled
+---
+## health. New York: Oxford University Press.
 
-Levine, M., & Perkins, D. V. (1997). Principles of community psychology: Perspectives and applications (2nd ed.). New York: Oxford University Press.
-
-Levine, M., Reppucci, N. D., & Weinstein, R. (1990). Learning from Seymour Sarason. American Journal of Community Psychology, 18(3), 343–351.
-
-Levine, M., Toro, P. A., & Perkins, D. V. (1993). Social and community interventions. In Annual review of psychology, Vol. 44 (pp. 525–558). Palo Alto, CA: Annual Reviews, Inc.
-
-Levy, L. H. (2000). Self help groups. In J. Rappaport & E. Seidman (Eds.), Handbook of community psychology (pp. 591–614). New York: Kluwer Academic/Plenum Press.
-
-Lewin, K. (1951). Field theory in social science: Selected theoreti-
+Levine, M. (1998). Prevention and community. American Journal of

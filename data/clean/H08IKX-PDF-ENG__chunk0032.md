@@ -1,7 +1,27 @@
-## adaptation, stakeholder engagement, and continuous learning.
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 06144d3b4f1e3acb4f99eb31f20174e398eeb4d3
+title: H08IKX-PDF-ENG
+---
+# in India.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+In 2015, Nestlé faced a crisis when some state regulatory bodies reported
 
-7
+that Maggi Noodles, which accounted for 30% of the company’s sales
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in the country, contained elevated levels of lead and monosodium
+
+glutamate (MSG). Although Nestlé’s own tests showed that its product
+
+was safe, conﬂicting results from various government labs and an
+
+increasingly sensationalist media environment quickly escalated the
+
+problem into a national controversy. To navigate this complex crisis,
+
+which at one point threatened not just Maggi, but Nestlé’s entire
+
+India business, its leaders had to reach beyond their familiar solutions
+
+and embrace a strategic, principle-driven approach that allowed for

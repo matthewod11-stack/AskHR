@@ -1,41 +1,45 @@
-## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6dc6a41939e01b77a6eb1291fe624ddd2976c5f4
+title: H08SLG-PDF-ENG
+---
+## Our research points to three behaviors of leaders and managers who
 
-Bring in novelty. We often meet in the same places, follow the same
+enable their teams in this way:
 
-agendas with the same people, and assume that the same process can
+Focus on ideas instead of tasks. One of us (Megan) was working
 
-meet any number of diﬀerent outcomes.
+with a CEO who wanted his senior team to focus more on the bigger
 
-It’s almost heretical to suggest that a meeting doesn’t have to end
+picture rather than day-to-day operations. Through their conversations,
 
-with actions to add to our already over-stuﬀed to-do lists. However,
+he realized that in his meetings he almost inevitably focused ﬁrst
 
-other outcomes might be far more important. For example, at a
+(and often solely) on quarterly results. To expand the team’s thinking,
 
-recent meeting at a life sciences company, participants told one of
+Megan suggested that he begin some meetings by asking, “What hasn’t
 
-us (John) they found it “cathartic and hopeful” that the agenda had
+gone well over the last few weeks, and what have you learned from
 
-been speciﬁcally designed to be an inquiring conversation rather than
+that?” or “How have you developed your team recently?” Over time, the
 
-their usual action-focused drills. In the weeks following the meeting,
+team’s conversations naturally began to shift more toward group-wide
 
-participants’ senior leadership reported feeling an increase in the team’s
+perspectives that bolstered their learning and development.
 
-energy to the point that they felt comfortable shifting away from their
+Our survey showed that many employees feel that tasks are consistently
 
-usual directive control. As a result, speed of decision making ramped
+prioritized over more spacious topics. They ranked learning, values,
 
-up and the market agility that had been espoused came to life, as
+purpose, creativity, and relationships as topics they’d like to talk to
 
-staﬀ in the U.S. and Europe felt trusted to use their own judgment in
+their managers about above tasks. Managers need to structure meeting
 
-co-ordinating their work.
+agendas in a way that includes these spacious-mode topics.
 
-External facilitators and invited guests can bring in fresh ideas and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-perspectives. For example, diﬀerent venues can inspire diﬀerent sorts of
+4
 
-conversations: a walk-and-talk or meeting outside might engage a more
-
-open mind than the goldﬁsh bowl of a glass-walled meeting room in the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,9 @@
-## Authors: Violetta Khoreva and Aino Tenhiälä
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 8deba47e916d446d13e111f0a0f4d3cf48fbe5a2
+title: file_1
+---
+# APPENDIX 4
 
-Abstract: by integrating social comparison theory and the gender socialization perspective with equity theory and organizational justice literature, the current study examines whether the impact of pay inequity and perceptions of procedural justice on organizational commitment differ by gender. Based on the data from the personnel of two Finnish universities, the empirical analysis shows differences in how men’s and women’s organizational commitment is affected by pay inequity and perceptions of procedural justice. These differences are partly explained by factors related to social comparisons and gender socialization. Implications for theory, practice, and future directions are discussed.
+Reactions to pay inequity and procedural injustice among male and female employees

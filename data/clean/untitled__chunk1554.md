@@ -1,7 +1,9 @@
-# University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 332461bf55369befc97c9ba6def4df121ab5ba5c
+title: untitled
+---
+# 266 Psychology of Women and Gender
 
-Goldner, V. (1999). Morality and multiplicity: Perspectives on the treatment of violence in intimate life. Journal of Marital and Family Therapy, 25, 325–336.
-
-Goldner, V., Penn, P., Sheinberg, M., & Walker, G. (1990). Love and violence: Gender paradoxes in volatile attachments. Family Process, 29, 343–364.
-
-Goodrich, T. J. (Ed.). (1991). Women and power: Perspectives for
+Gilligan, C. (1982). In a different voice. Cambridge, MA: Harvard

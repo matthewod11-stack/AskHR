@@ -1,13 +1,9 @@
-## Thatcher—and subsequently, the U.S. president Ronald Reagan—that
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 457c02b5b3a0e2f42f5d5eb0913303a9f1ef5806
+title: S24011-PDF-ENG
+---
+# again but in better ways.”
 
-Gorbachev, in contrast to past Soviet leaders, was a man they could work
-
-with. “I actually rather liked him,” Thatcher later told Reagan.
-
-Gorbachev himself reﬂected, “It was then, during that talk in Chequers,
-
-that the special relationship was born….We worked closely and fruitfully
-
-together to advance the important processes of that time—curbing the
-
-arms race, European developments, German uniﬁcation, and reversing
+The meeting proved to be a turning point in the Cold War. It convinced

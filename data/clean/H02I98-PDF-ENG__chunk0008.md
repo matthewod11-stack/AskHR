@@ -1,15 +1,23 @@
-# than the alternative.
+---
+source_path: H02I98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af5cd73ee4c29adc70dcc5fc2e81d813d7423070
+title: H02I98-PDF-ENG
+---
+# acceptance.
 
-Why do we see dealing with heart attacks as an inevitable cost of hiring
+To make this best-practice package work, companies need to address a
 
-a workforce, whereas family leave seems an optional, avoidable cost?
+gut-level concern. Why encourage parental leave when—let’s be frank—
 
-It’s because we still, secretly, believe that the ideal worker is someone
+it’s a damn nuisance when people take it?
 
-who is always available for work—not a mother or, for that matter, a
+Parental leave is inconvenient. So are heart attacks. It would be far more
 
-Copyright © 2015 Harvard Business School Publishing. All rights reserved.
+convenient if employees had neither babies nor bodies.
 
-4
+But the bigger nuisance is losing valuable team members, over and over
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+again, due to outdated policies. Hiring’s a crapshoot; anyone who has
+
+done a lot of it knows that. Leaves, while inconvenient, are far better

@@ -1,5 +1,9 @@
-## perceptions of employee capability, even when their actual behaviors
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e840b6ab7b0f57f7ab2e8f7dbd067358352d1bb
+title: H08HIY-PDF-ENG
+---
+# to another invisible disability.
 
-are identical. When the Alex character did not employ any negotiation
-
-tactic at all but instead chose to present honest information about the
+Indeed, we found that gender stereotypes may be inﬂuencing

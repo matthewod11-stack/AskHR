@@ -1,5 +1,17 @@
-## referential language than those from a more collectivist background
+---
+source_path: H052Q1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6d65b298692779e5ad5f5325a57aae19af8c28a
+title: H052Q1-PDF-ENG
+---
+# another.
 
-(primarily Southeast Asians). To test our hypothesis, we studied more than
+In a study published in the most recent issue of the Accounting Review, we
 
-50,000 earnings-call transcripts, which contained detailed answers by
+examined to what extent the cultural background of managers affects how
+
+well they communicate with investors. Drawing on research from cultural
+
+psychology, we began by positing that executives whose ancestry is more
+
+individualistic (primarily Anglo-Saxons) use more optimistic and self-

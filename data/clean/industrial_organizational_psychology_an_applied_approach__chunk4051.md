@@ -1,3 +1,15 @@
-## Ammerman, H. L. (1965). A model of junior oﬃ cer jobs for
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 211f519559f80d6641d77eeaa89360700c981ff2
+title: industrial_organizational_psychology_an_applied_approach
+---
+# New York: Holt, Rinehart & Winston.
 
-use in developing task inventories (HumRRO Tech. Rep. 65-10). Alexandria, VA: Human Resources Research Organization.
+Alm, H., & Nilsson, L. (1995). Th e eﬀ ects of a mobile telephone task on driver behaviour in a car following situation. Accident Analysis and Prevention, 27(5), 707–715.
+
+AMA (2001). 2001 Workplace monitoring & surveillance. New York: American Management Association.
+
+Amabile, T. M., Hill, K. G., Hennessey, B. A., & Tighe, E. M. (1994). Th e Work Preference Inventory: Assessing intrinsic and extrinsic motivational orientations. Journal of Personality and Social Psychology, 66(5), 950–967.
+
+623

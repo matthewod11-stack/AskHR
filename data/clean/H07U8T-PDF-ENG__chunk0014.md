@@ -1,35 +1,23 @@
-## HBR / Digital Article / Do You Manage Too Many People?
+---
+source_path: H07U8T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3f7f212fae07c981830c4e1975a9e514c002598
+title: H07U8T-PDF-ENG
+---
+# ownership and accountability.”
 
-Manage up and down Another diﬃculty of leading a large team is balancing your own
+You need to accept that your reports might make mistakes as they learn.
 
-professional needs with those of your team. You have to manage
+Gupta recommends starting each day with a short team meeting so you
 
-upwards — to provide the right level of detail to your boss to ensure
+can get updates and oﬀer guidance. Ask your team members about the
 
-you and your team members receive the recognition you deserve —
+challenges they’re dealing with and how you can support them. Your job
 
-while also coaching your employees and providing feedback on their
+is, “to listen and respond, not to pontiﬁcate,” he says.
 
-performance, says McDowell. It’s a balancing act. She advises taking a
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Goldilocks approach. If the issues that consume your day are too small,
+3
 
-you’re being too tactical and are likely interfering. If they’re too big,
-
-you’re not connected to what’s occurring on the front line. “But when
-
-they’re just right you’ll have a pulse for what’s happening on the ground
-
-and you’re able to spend time on longer term strategic priorities and on
-
-mentoring your teams.”
-
-Be mindful of your tone and persona — especially when it comes to how
-
-you interact with your team, says Gupta. “A lot of bosses are good at
-
-managing up but not managing down,” he says. “You don’t have to be
-
-selﬂess, but if your direct reports sense you care more about your own
-
-advancement that’s going to hurt you in the long run.”
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

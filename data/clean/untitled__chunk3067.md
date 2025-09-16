@@ -1,13 +1,11 @@
-## sonal prequel. APIC Newsletter, 15, 27–28.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 316433a4ffc9d0eee87dd2281bbcc1c354373290
+title: untitled
+---
+# Journal of Social Issues, 42, 21–33.
 
-Frangsmyr, T. (1989). Solomon’s house revisited: The organization and institutionalization of science. Canton, MA: Science History.
+Fowler, R. D. (1992). The American Psychological Association: 1985–1992. In R. B. Evans, V. S. Sexton, & T. C. Cadwallader (Eds.), The American Psychological Association: A historical perspective (pp. 263–299). Washington, DC: American Psycho- logical Association.
 
-French, J. L. (1984). On the conception, birth, and early develop- ment of school psychology: With special reference to Pennsylva- nia. American Psychologist, 39, 976–987.
-
-Fulero, S. M. (1999). A history of Division 41 (American Psychology–Law Society). In D. A. Dewsbury (Ed.), Uniﬁcation through division: Histories of the divisions of the American Psy- chological Association (Vol. 4, pp. 109–124). Washington, DC: American Psychological Association.
-
-Gielen, U. P., Adler, L. L., & Milgram, N. A. (Eds.). (1992). Psy- chology in international perspective: 50 years of the Interna- tional Council of Psychologists. Lisse, The Netherlands: Swets & Zeitlinger.
-
-Gieryn, T. F. (1983). Boundary-work and the demarcation of science from non-science: Strains and interests in professional ideolo- gies of scientists. American Sociological Review, 48, 781–795.
-
-Gieryn, T. F. (1999). Cultural boundaries of science: Credibility on
+Fox, R. E. (1990). The history of the APIC selection process: Aper-

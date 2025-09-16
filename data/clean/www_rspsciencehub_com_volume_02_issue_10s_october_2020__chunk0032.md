@@ -1,7 +1,13 @@
-# Kashyap Bhuva (2018)
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: 575707326b543d0f71da90fda0889b564fb8dcfc
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# engineering
 
-Kashyap Bhuva et.al (2018) done the research on Machine Learning Techniques for Forecasting the Employee Attrition rate. Researchers considered IT organization and collected the sample of the employee database of IBM USA.The current study is based on a workflow for the analytics project and considered segments - 1) Raw Dataset 2) Data Processing 3) Feature Selection & Scaling 4) Modelling 5) Model Evaluation & Tuning 6) Deployment & Monitoring
+Authors developed 6 Hypothesis and predicted that - Job mindsets, Relationship between social intellectual influences and job attitudes, Self-
 
-Index-Terms-Ridge, Lasso, Logistic Failure, Judgmental structure, Random Forest, straight Discriminant Analysis, Support Vector System analytical techniques are the analytical tools used in the research.
+International Research Journal on Advanced Science Hub (IRJASH)
 
-Researchers predicted the attrition of IBM, USA data having 35 data mining techniques and machine learning algorithms by using different algorithms and combinations of several target attributes. The authors found, why intelligent and effective employee attrition prediction using data mining as Employee Attrition is one of the biggest Business Problem. Concluded the result of the prediction by data mining techniques with the similar dataset exposes that Linear Discriminant Analytical result beats than other one followed by Logistic Regression Model for a particular dataset if exactness is the metric favoured.
+Volume 02 Issue 10S October 2020 ability will facilitate the relationship between progressive opportunities at work and job position or job attitudes. Job Attitudes and Self-ability positively corelated with each other, Job attitudes should be related with Outcome opportunities or expectations. Outcome expectations will facilitate the correlation between growth opportunities at employment and job attitudes. Self-ability and outcome prospects will build the correlation between growth opportunities at workplace and job attitudes.

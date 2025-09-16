@@ -1,3 +1,9 @@
-# Student Participation
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: deffaea291a017cebbc43816c442ab6b7666afc0
+title: document_resume
+---
+# Performance Appraisal
 
-- 1. Ask student preference as to topics covered? 2. Ask students to critique his teaching? Schedule quiz/es, deadlines, etc., at the convemcn 3. Encourage (ask for) discussion. questions, or stude.i, pinions'? 4. 5. Ask questions to determine class (individual) understanding of course material"
+III.

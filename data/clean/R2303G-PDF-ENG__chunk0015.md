@@ -1,7 +1,13 @@
-## HBR / Magazine Article / The Leadership Odyssey
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3881b46c95bed60d0e58b10c06c0bea24317ca1
+title: R2303G-PDF-ENG
+---
+## Culture-shaping and aligning (across the organization).
 
-To enable, motivate, and inspire people on a large scale, leaders must be
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-able to communicate a compelling direction or purpose, ensure that the
+3
 
-organization’s processes and culture support the stated objectives, and act
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,19 +1,21 @@
-# o t o h P
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b75905b6f097368ba478a9f5b1947e18da5d99e9
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Motivation
 
-P A / l e p i e r G a n i N ©
+Quality is a relevant criterion for many jobs.
 
-252
+Quality of Work. Another method to evaluate performance is by measuring the qual- ity of the work that is done. Quality is usually measured in terms of errors, which are defined as deviations from a standard. Thus, to obtain a measure of qual- ity, there must be a standard against which to compare an employee’s work. For example, a seamstress’s work quality would be judged by how it compares with a “model” shirt; a secretary’s work quality would be judged by the number of typos (the standard being correctly spelled words); and a cook’s quality might be judged by how her food resembles a standard as measured by size, temperature, and ingredient amounts.
 
-chapter 
+Kentucky Fried Chicken, for example, evaluates the quality of its franchises’ food by undercover inspectors. These inspectors purchase food, drive down the road, and after parking, use a thermometer to see whether the food has been served at a standard acceptable temperature and also a scale to determine whether the weight of the mashed potatoes is within the acceptable range.
 
-A similar situation developed at a factory that produced parts for telephones. Most of the employees were older and took great pride in their work quality and in the fact that their parts had the lowest percentage of errors in the company. They were told, however, that their quality was too high and that the parts were lasting so long that the company was not getting much repeat business. Quality errors can occur in many strange ways!
+Note that the definition of an error is any deviation from a standard. Thus, errors can even be work quality that is higher than a standard. Why is this an error? Suppose a company manufactures shirts that are sold for $. To keep down the manufacturing cost of its shirts, the company probably uses cheaper material and has its workers spend less time per shirt than does a company that manufactures $ shirts (these are not the shirts I buy). Thus, if an employee sews a shirt with  stitches per inch instead of the standard , the company will lose money because of higher quality!
 
-Attendance. A common method for objectively measuring one aspect of an employee’s performance is by looking at attendance (this is discussed in greater detail in Chapter ). Attendance can be separated into three distinct criteria: absenteeism, tardiness, and tenure. Both absenteeism and tardiness have obvious implications for the performance appraisal process. The weight that each has in the overall evaluation of the employee largely depends on the nature of the job.
+When I was working my way through school, I held a summer job at an amusement park. The job involved wearing a pink and purple uniform and cook- ing prefabricated pizza. The standard for the large pepperoni pizza was  hand- fuls of cheese and  pieces of pepperoni. Now all pizza lovers recognize this to be a barren pizza. The cooks thus tried to increase the pizza quality by tri- pling the number of pepperoni pieces. The management quickly explained to the young “gourmet chefs” that exceeding the standards was considered poor work performance and that employees who did so would be fired.
 
-Tenure as a criterion, however, is used mostly for research purposes when evaluating the success of selection decisions. For example, in a job such as food preparer at McDonald’s, there is probably little difference in the quantity and quality of hamburgers or French fries that are cooked. But an employee might be considered “successful” if she stays with the company for at least four months and “unsuccessful” if she leaves before that time. In fact, the importance of ten- ure can be demonstrated by noting that several major fast-food restaurants and convenience stores have established bonus systems to reward long-tenure employees—that is, those who have worked for a company at least six months. For each hour the employee works, the company places a specified amount of money into an account that can be used by the employee to pay such education expenses as books and tuition.
+evaluating employee performance
 
-Safety. Another method used to evaluate the success of an employee is safety. Obviously, employees who follow safety rules and who have no occupational accidents do not cost an organization as much money as those who break rules, equipment, and possibly their own bodies. As with tenure, safety is usually used for research purposes, but it can also be used for employment decisions such as promotions and bonuses.
-
-Ratings of Performance The most commonly used option in evaluating performance is to have supervi- sors rate how well the employee performed on each dimension. Though there are many variations of how these rating scales can be created, the two most common are the graphic rating scale and the behavioral checklist.
-
-Graphic Rating Scale. The most common rating scale is the graphic rating scale. An example is shown in Table .. As you can see, such scales are fairly simple, with  to  dimensions accompanied by words such as “excellent” and “poor” anchor- ing the ends of the scale.
+251

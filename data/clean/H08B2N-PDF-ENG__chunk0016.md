@@ -1,21 +1,13 @@
-## HBR / Digital Article / Research: How Passion Can Backfire at Work
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63fc7452f9b0b8b907286e85e9627f75532d576b
+title: H08B2N-PDF-ENG
+---
+# perceptions of our own abilities.
 
-- 3. When we feel passionate about someone else, we rate them higher, too. Finally, in an additional study, we looked at how passion inﬂuences
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-people’s perceptions not just of their own abilities, but also the abilities
+3
 
-of those they feel passionate about.
-
-We recruited more than 200 fans of the eight American football teams
-
-that reached the playoﬀs in the 2023 U.S. National Football League
-
-(NFL) and showed them expert forecasts of the chances that their
-
-favorite team and another team would win the Super Bowl, utilizing
-
-the statistical analysis website FiveThirtyEight. After they had a chance
-
-to review the forecasts, we asked them to report how likely they thought
-
-their favorite team was to win versus another, randomly selected ﬁnalist
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

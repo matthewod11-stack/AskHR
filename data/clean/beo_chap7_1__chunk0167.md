@@ -1,27 +1,59 @@
-# CHAPTER SEVEN
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 09bf02d7baa6b88e28db700c7afb0213e1151dee
+title: beo_chap7_1
+---
+## (DellaVigna and Malmendier 2003; Baker and Wurgler 2000).
 
-labor contracts, especially with sorting among high-ability and low-ability workers.
+Similarly, the individual employee in an organization may display biases from
 
-Their argument is strengthened (and more robust) if we introduce heterogeneity
+which the organization can extract rents. For example, Oyer and Schaefer (2005)
 
-in self-confidence among workers. If some workers are overly convinced of their
+analyze why firms give options to medium- or lower-level employees. Given the rel-
 
-own abilities (and their overconfidence is not negatively correlated with ability),
+atively small size of these grants and the risk premia associated with them, options
 
-tournaments become a particularly cheap form of compensation. Overconfident
+are unlikely to be an efficient way to provide incentives for these employees. Option
 
-individuals will overestimate the expected value of entering the tournament outcome
+grants may, however, allow firms to attract and retain employees. The analysis of
 
-and will be willing to accept lower current compensation.
+Oyer and Schaefer suggests that the benefits of option compensation are partic-
 
-Option-based compensation and rank-order based promotion are two examples
+ularly high if employees are overly optimistic about the future prospects of the
 
-of how firms can reduce their compensation costs at the expense of employees who
+company. Making options part of the compensation package allows firms to iden-
 
-are too optimistic about the firm’s prospects. These examples assume implicitly that
+tify those (potential) employees who have particularly strong beliefs about the future
 
-the organization itself—or the top management teams of an organization—is not
+prospects of the company and to reap the rents from compensating them with over-
 
-affected by biases observed in individuals further down the hierarchy or outside the
+valued options rather than cash. Such a compensation strategy is profitable if these
 
-organization, but may remedy or even exploit them.
+employees are also more productive, for instance, due to their enthusiasm about the company.*?
+
+Other elements of organizational design have similar properties. Lazear and Rosen
+
+(1981) have shown conditions under which tournaments dominate other forms of
+
+30As pointed out by Bergman and Jenter (2004), overoptimism about the prospects of the company
+
+by itself is not sufficient to explain options as part of the employment contract. Individuals with such
+
+beliefs can be compensated equally cheaply in cash—their reservation wage will be lower due to the
+
+overvaluation of company stock and options which they can buy with that cash. Or, they may not even
+
+work for the company and just buy the stock or options of the company. These constraints, however,
+
+do not bite if markets are incomplete. For example, the typical ten-year employee option on a public
+
+company’s stock is not traded on a public exchange, and even shorter-duration options are not traded for
+
+private companies. Employees may also not be able to value options based on observed market prices, In
+
+these cases, options may be part of a profit-maximizing compensation contract design, even if employees
+
+with optimistic beliefs about a company do not have higher abilities.
+
+271

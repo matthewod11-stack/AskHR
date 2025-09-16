@@ -1,1 +1,33 @@
-## of precedence, the high degree of uncertainty, and uncontrollable
+---
+source_path: H08IU0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ce7081cfba5a65298f6e92248fa29b25316d5ea
+title: H08IU0-PDF-ENG
+---
+# organization: resentment.
+
+At the outset of any major change, I have my clients set stringent ground
+
+rules about how they will be completely candid with one another, deﬁne
+
+what criteria they will use to objectively measure progress, and how
+
+they will gather wide swathes of opinions about risks from those lower
+
+in the organization. Inserting safeguards against groupthink, collusion,
+
+and self-deception into the change process can help reduce the threat of
+
+months (even years) of wasted eﬀort and resources.
+
+Name what you can’t control
+
+Much of the anxiety fueling defensive organizing comes from the
+
+many factors outside the control of leaders trying to stave oﬀ disaster
+
+or capitalize on market opportunities. The crescendo of enthusiasm
+
+for new ideas is largely born from the illusion that if leaders join
+
+forces, they can conquer the challenge or opportunity—regardless

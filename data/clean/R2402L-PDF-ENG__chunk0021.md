@@ -1,7 +1,23 @@
-## encourager or overuse words like “Great” and “OK,” because they
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c746b2dbd132eba1c51eed98c139bbf6b856f336
+title: R2402L-PDF-ENG
+---
+## “And?” “Really?” “Then?” “Mmm,” “Uh huh,” “Go on,” and “Interesting,”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+are important ways to show that you are and remain tuned in to your
 
-5
+counterpart, particularly when you’re on the phone or the other person
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+has been speaking for a while. The aim is to encourage the other
+
+person to keep talking and feel understood. Pace your interjections at
+
+a reasonable rate (for example, one encourager for every few sentences),
+
+and if it’s an in-person conversation, ensure that your facial expression
+
+and body language match your tone of voice, whether it’s inquisitive,
+
+neutral, or agreeable. Don’t get distracted and throw in a misplaced

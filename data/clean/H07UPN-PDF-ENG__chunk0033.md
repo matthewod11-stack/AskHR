@@ -1,7 +1,7 @@
-# Overcoming the Performance Paradox
-
-Our lack of awareness of the two forms of eﬀort, along with our human
-
-bias to overvalue the present and undervalue the future and the
-
-presence of systems that have not been designed for learning, all lead to
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a7cb05e1cd1aa6f04d07293d8dd555a58918f28
+title: H07UPN-PDF-ENG
+---
+# diﬀerently.

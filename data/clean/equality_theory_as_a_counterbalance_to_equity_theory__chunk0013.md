@@ -1,5 +1,9 @@
-# 136
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: 01ab35dcf0f7ca8df17355da4da7fcf850d874e2
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# that
 
-otherwise treat inputs ‘‘as if’’ they are equal. While inputs to equity-based distribution are of course fundamental schemes, there appears to be an implicit, unspoken assumption that under distributive equality inputs really do not matter. (i.e., that since inputs will always vary to some degree, what principally deﬁnes an equality of distribution is simply one’s choice of equality as a reward structure.) Taking issue with this unspoken assumption, we suggest that inputs matter very much and are most certainly not irrelevant. For there exists a third logical possibility for conceptualizing inputs within distributive equality. This entails that all inputs are de facto equal. Accordingly, while one can always envision some sort of unequal distribution of individual differences or abilities relative to one’s potential contributions to a company; at a fundamental level, it can certainly be said that all human beings have and merit a fundamental sense of respect and of self-worth. Translated into the input/outcome terminology of equity theory, an individual’s basic humanity comprises an input in and of itself (and by deﬁnition all such inputs are equivalent). We do not have to ‘‘pretend’’ or ‘‘assume’’ that inputs are equal. They are. In short: equality-based dis- tributive decisions can be theoretically grounded in the notion of equal contributions in an existential sense—not simply in the sense of measurement.1
-
-This is in some ways a simple, some might say a sim- plistic, distinction. Yet this distinction introduces a con- ceptual shift that has the potential to profoundly inﬂuence our understanding of claims to distributive equality, as well as the potential applications of such.
+123

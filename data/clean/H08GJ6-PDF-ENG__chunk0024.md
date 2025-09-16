@@ -1,11 +1,7 @@
-## Finding the Right Decision-Making Process
-
-We’ve created a decision tree to help guide your thinking about what
-
-process to choose. If you are unsure about the expertise of your decision
-
-makers, or how these would match the projects under consideration, the
-
-best bet is often ranking. This is even more true when you have a limited
-
-budget and a small committee. We’ll explain more about each question
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36d4fdaf5f083822fce5366320a3c850e7a2f5f8
+title: H08GJ6-PDF-ENG
+---
+# decision rule.

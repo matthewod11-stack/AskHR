@@ -1,7 +1,15 @@
-## with higher revenue growth and greater increases in operating margins.
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65e111e65accbfdcd9fddb7711fca15ddc9ba7be
+title: R2303G-PDF-ENG
+---
+## and behavior on the basis of new information)
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Once candidates took office, however, their past success at delivering
 
-13
+results did not have any effect on their performance. Collaborating
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and influencing, on the other hand, were associated with higher total
+
+shareholder return, and self-evaluation and adjustment were associated

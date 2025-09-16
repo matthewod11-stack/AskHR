@@ -1,7 +1,11 @@
-# of industrial and organizational psychology, Rand McNally, Chicago 1976, p. 1304.
+---
+source_path: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis.md
+pages: n/a-n/a
+chunk_id: 84ff0eebcc533deb3cfb0ae5ea677a0977146c87
+title: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis
+---
+# Research Methodology
 
-26 R. Lies, T. A. Judge, An experience-sampling measure of job satisfaction and its relationships with affectivity, mood at work, job beliefs, and general job satisfaction, “European Journal of Work and Organizational Psychology” 2004, no. 13, p. 368.
+The author has conducted the employee satisfaction surveys for several compa- nies. In this paper there will be presented parts of this research. Presented data was gathered in 2019 in three different companies. To ensure data confidentiality, further in the text these firms will be referred to as Company A (N = ca. 6000), Company B (N = ca. 100) and Company C (N = ca. 400)29. The companies were operating in Poland and all the surveys were conducted in Polish. In each case, all the employees employed, at the moment of the research, were asked to participate in the surveys. The respondents received an invitation to a CAWI (Computer As- sisted Web Interviewing) survey, sent to the company’s email address. The aver- age response rate in these 3 surveys was 63%. The structure of surveys was differ- ent in all the companies.
 
-27 D. S. Staples, C. A. Higgins, A Study of the Impact of Factor Importance Weightings on Job Sat- isfaction Measures, “Journal of Business and Psychology” 1998, vol. 13(2), pp. 211–232. 28 S. J. Breckler, Empirical validation of affect, behavior, and cognition as distinct components of attitude, “Journal of Personality and Social Psychology” 1984, vol. 47(6), pp. 1191–1205, https://doi.org/10.1037/0022-3514.47.6.1191
-
-29 The sample size was rounded down to nearest hundret, in order ensure anonimity of the companies. Further all computations were done on exact data. N shows actual, gathered numer of answers. It is not the size of the company.
+25 E. A. Locke, The nature and causes of job satisfaction, [in:] M. D. Dunnette (ed.), Handbook

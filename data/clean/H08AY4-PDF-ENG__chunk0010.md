@@ -1,21 +1,11 @@
-# both of you.
+---
+source_path: H08AY4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e8e2867e7a8c0094f30c93c2f9248a16394cdf9
+title: H08AY4-PDF-ENG
+---
+## perspectives, and even reactions to the feedback that you should
 
-Feedback might take more than one conversation when:
+consider. This means that your planned 30-minute meeting might
 
-- The feedback is nuanced or complex.
-
-- You’re not sure that the other person understands the feedback, and
-
-you want to help them get it.
-
-- You’re not sure you understand the other person’s perspective, and you
-
-want to really listen.
-
-- The recipient has a negative reaction to the feedback, and you want to
-
-give both of you time to regroup.
-
-- There’s disagreement about the feedback.
-
-- You realize that you didn’t have enough context and want to update
+become a series of discussions for the feedback to be more useful for

@@ -1,3 +1,9 @@
-# e. Muito satisfeito
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 68b567b2a60bc8eef17452f39614fa8c11adb407
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# d. Satisfeito
 
-- 14. De maneira geral, você qualifica a aplicação das pesquisas de eNPS como
+90

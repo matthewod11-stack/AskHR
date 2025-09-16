@@ -1,15 +1,21 @@
-## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e02b141fe6f2c792232685566629f127c0b63a73
+title: H07ZZW-PDF-ENG
+---
+## United States. The rights of employees with values-based objections to
 
-Vestas Wind Systems provides an excellent example of a company
+reproductive care are not violated by the provision of care to colleagues.
 
-grounding both its integrity and social responsibility eﬀorts in a
+Companies that fund candidates and organizations that seek to restrict
 
-commitment to human rights, including an explicit pledge to “ensure
+this right, by contrast, are contributing to negative human rights
 
-the integration of human rights in the energy transition.” This is
+impacts, and they should stop making such contributions.
 
-notable, as many renewable energy companies try to avoid or sidestep the diﬃcult human rights issues their technologies present. Beverage
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-company Diageo has also outlined clear human rights commitments;
+17
 
-it makes detailed operational assessments of its human rights impacts
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

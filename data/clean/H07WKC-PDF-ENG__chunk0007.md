@@ -1,15 +1,15 @@
-## meaningful ideas and strategies — as do computers.
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5575ed41389bca4a2bf14b295cecdc6a785f3f09
+title: H07WKC-PDF-ENG
+---
+# Peter M. Fisher/Getty Images
 
-Of course, we’ve been using computers and the internet for years, but
+In today’s rapidly evolving business landscape, strategic innovation
 
-our applications have largely been restricted to statistical analysis and
+should not be restricted to boardrooms or corporate leaders. In this
 
-search. We’ve not been using them to generate ideas — at least not
+era of gig work and changing demographics, everyone, from white-
 
-until very recently, and certainly not systematically. But that’s all about
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+shoe consultants to steel-toe customers, has the potential to contribute

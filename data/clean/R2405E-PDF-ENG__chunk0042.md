@@ -1,29 +1,19 @@
-## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b575d36c0917edd9b8b41bdb5a36df3356317a6
+title: R2405E-PDF-ENG
+---
+# Getting to Scale: Move Fast
 
-race to market. So it’s vital for incumbents to be organized to rapidly
+Once a new venture’s business model becomes viable and the interest
 
-mobilize their resources and scale innovations up quickly.
+of a critical mass of users or customers is clear, the adoption of an
 
-At this stage investment is the only factor preventing a new venture
+innovation tends to take oﬀ exponentially, accompanied by a frantic
 
-from realizing its full potential. While other obstacles may still crop up,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-the risk of not committing is now greater than the risk of committing.
+10
 
-Unfortunately, at just this point incumbents often develop cold feet and
-
-start bogging the new venture’s leadership team down with last-minute
-
-questions and hurdles that hamper execution. This is particularly
-
-common in R&D-intensive industries with high downstream costs,
-
-such as the semiconductor industry, where ﬁrms make signiﬁcant
-
-R&D investments and establish partnerships but then switch rapidly
-
-from seeking opportunity to avoiding risk. This change in direction is
-
-particularly hard to counter if the incumbent company has room to
-
-grow in the market, because investing in innovation inevitably appears
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

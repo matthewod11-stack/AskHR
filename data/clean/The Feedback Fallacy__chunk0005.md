@@ -1,5 +1,9 @@
-## frequent, candid, pervasive, and often critical feedback.
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: aaf848afacff3094b311cdf0a98851c952cd2333
+title: The Feedback Fallacy
+---
+## HBR / Magazine Article / The Feedback Fallacy
 
-How should we give and receive feedback? we wonder. How much, and
-
-how often, and using which new app? And, given the hoopla over the
+that the way to increase performance in companies is through rigorous,

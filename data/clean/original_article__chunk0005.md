@@ -1,5 +1,11 @@
-# the way teams
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 3952845a6de9d3b882dc227c7674cf42931d040f
+title: original_article
+---
+# the causes of
 
-LITERATURE REVIEW The inquiry into the impact that boards of directors have on their organizations began over 150 years ago (Smith, 1863) and continues to be studied today (Minichilli et al, 2012). Hundreds of articles have been written to try to capture the ‘mystery’ of the boardroom, directors and their impact on the successful management of the ﬁrm (Zahra and Pearce, 1989; Gabrielsson and Huse, 2004; Finegold et al, 2007; Hambrick et al, 2008; Huse et al, 2011). When considering the perspectives employed in these inquiries, it is useful streams of to review the different literature on this topic – economic, behavioral, individual-based and team-based frameworks – from which to observe and consider board characteristics and outcomes.
+Despite our exhaustive search, we could not ﬁnd any empirical academic studies that exam- ined actual data on boards working as teams – measuring director’s assessment of teamwork,
 
-© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
+team productivity and team potency (TP). This research, we believe, is the ﬁrst of its kind to analyze collective board performance rather than at the individual level. Responses to an original and comprehensive team-focused sur- vey from 182 directors and publicly available information were used to better understand team dynamics, team task performance (TTP) and the collective board’s impact on corporate proﬁtability. Our research explores how a board’s team characteristics meaningfully impact corporate proﬁtability. We contribute to existing literature in several ways. First, we explore whether board dynamics are in fact an ‘interven- ing process’, as posited by many scholars, in the value-creation chain from director characteristics to ﬁrm-level performance. Second, we reframe interact, board dynamics as captured by the Team Learning and Develop- ment Inventory (TLI) (Lingham, 2005, 2009). Third, we introduce a new behaviorally-based measure to predict the directors’ potential con- tribution to board dynamics by determining their cultural intelligence quotient (CQ) (Earley and Mosakowski, 2004). Fourth, we explore the impact that TP and TTP have on corporate proﬁtability.

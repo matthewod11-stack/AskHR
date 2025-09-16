@@ -1,11 +1,15 @@
-# ones. And repeat.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: d4275ee36714be95bc4921abc8df182b0f0ec6bd
+title: prompt
+---
+# Automatic Prompt Engineering
 
-For example, you can use automatic prompt engineering that will help with training a chatbot
+At this point you might realize that writing a prompt can be complex. Wouldn’t it be nice to
 
-for a merchandise t-shi(cid:457) webshop. We want to (cid:450)gure out all the various ways customers
+automate this (write a prompt to write prompts)? Well, there’s a method: Automatic Prompt Engineering (APE). This method15 not only alleviates the need for human input but also
 
-could phrase their order for buying a band merchandise t-shi(cid:457).
+enhances the model’s pe(cid:455)ormance in various tasks.
 
-- 1. Write the prompt which will generate the output variants. In this example, I am using
-
-gemini-pro to generate 10 instructions. See Table 15:
+You will prompt a model to generate more prompts. Evaluate them, possibly alter the good

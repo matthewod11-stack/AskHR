@@ -1,15 +1,13 @@
-## HBR / Magazine Article / The Middle Path to Innovation
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f45dd8a2869e150a32ccf6185bf530409b2ef757
+title: R2404K-PDF-ENG
+---
+# cash bonuses.
 
-Carolyn Doucette’s digitally altered photographs investigate the human presence in nature.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-This arrangement leverages the existing operational capacities of
+6
 
-the ﬁrm while allowing an entrepreneurial environment to ﬂourish
-
-at the accelerator. Because the accelerator custom-builds products
-
-for the corporation, the ﬁrm is more likely to embrace them,
-
-eﬀectively sidestepping the “not invented here” syndrome. Having a
-
-predetermined budget ensures that funding for the innovation will not
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

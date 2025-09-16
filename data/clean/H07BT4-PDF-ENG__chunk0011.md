@@ -1,7 +1,13 @@
-# priorities languishes.
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 031d6701d5a2755ba9fcba4addefbf44a7493f53
+title: H07BT4-PDF-ENG
+---
+# Drive’s Evil Twin: Drag
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Sellers experiencing drag are plagued by workday boredom and
 
-2
+distraction. They procrastinate. They “go through the motions” to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+satisfy activity-tracking requirements. Meanwhile, progress on true

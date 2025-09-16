@@ -1,15 +1,29 @@
-# Respect
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2740adbe92c44ca3ff8fde3a615d20eb7ece2e5d
+title: H082MI-PDF-ENG
+---
+# Risks
 
-Time is one of our most precious commodities — it should be respected.
+I’ve heard employees say that forming human connections can be risky:
 
-Wasting it drains energy and dampens motivation, giving employees
+there’s a risk of exclusion, or being ignored or judged, all of which feel
 
-less time to do enjoyable and meaningful work. According to a 2023
+heightened in remote work. Reﬂect and consider where your team may
 
-PwC report, CEOs perceive major ineﬃciencies across routine activities
+stand in terms of barriers to making connections. If anyone on your
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+team has stated they feel like there’s a risk to making connections,
 
-3
+your ﬁrst step as their leader is to determine whether the risk is real
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or perceived. Real risk is based on something that has happened, while
+
+perceived risk is internal and possibly based on an employee’s negative
+
+thought patterns. Regardless of why the risk is there, empathetically
+
+address it so your employees feel safe and so they can trust that work
+
+can be a place of community.

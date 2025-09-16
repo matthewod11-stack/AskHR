@@ -1,17 +1,19 @@
-# well.
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 646b080103e570005aad764cb57fcff9fe498ef6
+title: H08DSC-PDF-ENG
+---
+## Klapdor, until recently the head of technology, data, and analytics at
 
-In the survey, respondents minimized “managing down” skills and
+marketing services company Vista, said that a strong business value
 
-technical execution skills, but the SuperTech leaders interviewed
+orientation is key to being asked to lead multiple technology and data-
 
-suggested they shouldn’t be discounted. Several mentioned the
+related functions. When he was head of data and analytics for the
 
-importance of hiring strong specialists in each area reporting to
+company, he focused heavily on achieving measurable value through
 
-them. Sastry Durvasula, whose title at TIAA is chief information and
+successful data products. He mentioned in an interview that he believes
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+this was a key factor in his being asked to also assume the CTO role as

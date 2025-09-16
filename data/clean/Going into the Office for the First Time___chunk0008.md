@@ -1,7 +1,7 @@
-# Going into the Ofﬁce for the First Time?
-
-https://hbr.org/2024/02/going-into-the-ofﬁce-for-the-ﬁrst-time
-
-3/8
-
-you need to walk outside in the elements, or clothes and shoesthat are office appropriate now that your colleagues won’t just beseeing you via Zoom.You should also consider what you’ll need to feel comfortable andproductive in your new space. If you plan to pack your own food,for example, you may need a lunch cooler, ice packs, and athermos. If you work in an open area and are easily distracted bysounds, you may want to purchase ear plugs or noise-cancellingheadphones. If the temperature in your office is cooler than youlike, bring an extra sweater or blanket for the back of your chair. Ifyou want to make your desk feel more like home, frame a photothat brings you joy, or bring your favorite plant, and set it on yourdesk.Pro tip:Returning to the office can be a fun, fresh start — similar to thefeeling of going back to school after summer break. Write a “back-to-the-office” checklist to make sure you have everything youneed. You may find new things to add to your list as you spendmore time in the office.Update your tech.If you don’t already know the IT department’s contactinformation, find it before you return in person. The last thingyou want to do is show up at the office and be hit with a long listof technical difficulties when trying to connect to the company’sintranet or other internal systems. To avoid a stressful start, do alittle research. What do you need to know to set up your desktoponce you arrive? Often, the most straightforward way to gain thisinformation is to reach out to IT and ask.
+---
+source_path: Going into the Office for the First Time_.md
+pages: n/a-n/a
+chunk_id: 864c84c9b4c75521ad3a9c1d73a62a2f7673d05c
+title: Going into the Office for the First Time_
+---
+# 9/10/25, 11:22 AM

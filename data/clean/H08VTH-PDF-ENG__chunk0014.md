@@ -1,17 +1,39 @@
-# members for future leadership roles.
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 398c865cfbb9b32f343bb650904b2a82ef0ef104
+title: H08VTH-PDF-ENG
+---
+# move without you.
 
-Use a delegation ladder to clarify expectations and signal trust. For
+- 3. Level Up Your Delegation
 
-example, instead of telling a report, “Draft a recommendation and I’ll
+Managing a team that’s exponentially larger requires more than just
 
-decide,” try, “You decide and loop me in only if there’s a risk.” The
+trusting others. It’s about multiplying your impact through them. You
 
-more explicit you are, the more conﬁdent others will be. Delegation isn’t
+can’t scale by doing more. You scale by focusing on what only you can
 
-abdication; it’s a strategic investment in your team’s growth.
+do and empowering others to lead the rest.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Identify and develop your next-level leaders, team leads, trusted
 
-4
+lieutenants, or senior individual contributors who can own decisions
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and drive outcomes in their domains. Then empower them: Give them
+
+autonomy, coach them regularly, and provide the context they need to
+
+lead with insight, not just instructions. Done well, it doesn’t just lighten
+
+your load; it grows your inﬂuence and your bench.
+
+For instance, an SVP at a healthtech company implemented this
+
+strategy by appointing “area leads” across her major functional
+
+domains. Each had ownership to make decisions, run meetings, and
+
+escalate only when necessary. This resulted in faster decision-making,
+
+higher morale, and better execution. It also positioned three team

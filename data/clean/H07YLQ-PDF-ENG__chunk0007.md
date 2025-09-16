@@ -1,15 +1,15 @@
-# workers’ progress.
+---
+source_path: H07YLQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84c2c9206a21fa628c0ce043780056830c6942bb
+title: H07YLQ-PDF-ENG
+---
+# gemenacom/Getty Images
 
-Leaders who don’t see much movement in their ﬁrms don’t think
+For businesses to survive, their leaders need to put succession plans
 
-they’re bottlenecks, of course. They believe that the problem lies
+in place. There’s only one problem: A succession plan only works
 
-elsewhere and is out of their control. Not true. More often than not, a
+if high-performing employees can advance through the ranks. That’s
 
-ﬁrm that’s trudging along at a snail’s pace — and losing great employees
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+impossible if their boss is a perennial bottleneck to high-potential

@@ -1,19 +1,29 @@
-## HBR / Magazine Article / The Power of Words
+---
+source_path: R2304N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25e4edfa84d7a4c0ea48287323eb928ea29c2bf0
+title: R2304N-PDF-ENG
+---
+# Amrita Marino
 
-walk, cramp roll, back essence. The teacher would say the words, and my
+About a year ago, a friend suggested that I enroll in an adult tap-dance
 
-feet would tap into action.
+class held at our town’s community center. The suggestion wasn’t as
 
-The Power of Language, written by Viorica Marian, a psycholinguistics
+random as it might seem. For nearly two decades in my youth, I had
 
-researcher, helped me understand what was going on. At a young age I
+loved tapping in classes and onstage. And when I laced up those black
 
-had become ﬂuent in tap. Tap is a code of communication that changed
+leather shoes after a nearly 20-year hiatus, I felt instantly at home.
 
-my brain, opening me up to new knowledge and new experiences. I
+What surprised me most about my tap renaissance wasn’t how quickly
 
-hadn’t used that language in a long time, and now I was reactivating it.
+the steps came back to me. It was how the language of tap, the utterance
 
-Marian explores the power of multilingualism like mine and the more
+of words I hadn’t voiced in decades, energized me: triple-time step, riff
 
-typical type—being ﬂuent in, say, English, Korean, and JavaScript. She
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

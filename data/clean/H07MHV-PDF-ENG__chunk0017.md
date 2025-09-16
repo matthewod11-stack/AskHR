@@ -1,11 +1,13 @@
-# works.
+---
+source_path: H07MHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e685ac4c35615cd742e326dc548661be66adaea3
+title: H07MHV-PDF-ENG
+---
+## Shadows, reﬂections, even something as seemingly insigniﬁcant as a
 
-I am not the only kind of visual thinker. It turns out there is another
+piece of chain or a fabric cutting dangling inside the chute could slow
 
-type, with its own unique perspective and skill set: spatial visualizers.
+down the cattle’s movement. It was a simple ﬁx, but no one else saw
 
-This distinction was identiﬁed by Maria Kozhevnikov and her team
-
-of researchers at Harvard. People like me, who think in photorealistic
-
-pictures, are known as object visualizers. We tend to be good at design,
+it. To me, these small obstructions were glaring. That’s how my mind

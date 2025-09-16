@@ -1,9 +1,19 @@
-# business alike.
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 417d9b3655768e920f47d153cc7be80861c23ca0
+title: H087DJ-PDF-ENG
+---
+# not exist in-house.
 
-This article was originally published online on May 03, 2024.
+. . .
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+If you’re a person of color, these steps can help you deal with the mental
 
-7
+health struggles you’re facing at work, even deciding whether your
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+company is a place you can thrive. If you’re a leader, make it a priority to
+
+ﬁnd out more about how your employees of color really feel at work and
+
+how you can support them. Doing so is a win for the employees and the

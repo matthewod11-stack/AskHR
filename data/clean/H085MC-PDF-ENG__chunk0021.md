@@ -1,7 +1,7 @@
-# common goals.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc835bb64654cf4eaf27a8ef9c59988ca4d17446
+title: H085MC-PDF-ENG
+---
+## belong, can freely share ideas and feedback, and work together towards

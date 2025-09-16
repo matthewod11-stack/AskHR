@@ -1,5 +1,15 @@
-## Tensions around the Need to Address Diversity in Ecological Research
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 66970834cec489c529441473c5fea6184b37a7e1
+title: untitled
+---
+# Ecological Assessment
 
-In addition to assessing environments, both physical and psychological, community psychologists have also sought to integrate ecological theory into research through the study of culture. Steele, Trickett, and Labarta (1981) suggested that a focus on culture is congruent with an ecological approach because “attention paid to the interaction of person and envi- ronment, provides a framework from which to examine the functional aspects of behaviors and structures in culturally diverse environments” (p. 5). This line of inquiry seeks to contextualize knowledge of individual behavior.
+Though discontent within the ﬁeld around its insistent preoc- cupation with individual-oriented variables was expressed, several notable scholars at the time paved the way to assess- ing contextual variables. In the 1970s, Rudolph Moos and Edison Trickett were among the ﬁrst to develop methodolo- gies for assessing context with the “environment scales.” Various forms of this scale have been developed to assess the perceived climate of different environments such as class- rooms (Trickett & Quinlan, 1979), family environments (Moos, 1974; Moos & Moos, 1984), work settings (Moos, 1974), and group settings (Moos, 1974). The valuable work of Moos and his colleagues made explicit the role of the en- vironment in the study of behaviors of individuals. Though Moos and Lemke (1996) later expanded the conceptualiza- tion of environmental assessment, a critique of this approach
 
-Asyet,communitypsychologyasadisciplinehasnotmade substantial progress to understand social problems in the con- text of cultural norms and values. Community psychologists are part of a larger context of psychologists that have long been criticized for not respectingdiversityandviewingdevia- tions from white culture as problematic. Kingry-Westergaard
+had been that the scales were truly reﬂective of setting mem- bers’ratings of satisfaction with the setting rather than actual characteristics of the setting (see Linney, 2000, for a more detailed discussion).
+
+As the ﬁeld matured into the 1980s, community psycholo- gists began to advocate for the development of more methods that would assess the environment at an extra-individual level (Seidman, 1988; Shinn, 1990) and have devoted conferences, suchasthe1988ChicagoConference,toissuesoftheoriesand methods within the community psychology framework. At this conference, particularly notable was Edward Seidman’s discussion of “social regularities,” a theoretical construct that attended to the variation of individual behavior across con- texts and over time (Linney, 1986; Seidman, 1988, 1990).
+
+Furthering the theories established by the ecological framework, which highlight communities and their strengths, Chavis & Wandersman (1990) discussed improving the ﬁt between people and their communities. Instead of focusing on the “people” part of the equation, they focused on the communities: “Strengthening the ability of these institu- tions to live up to the dreams of their members must be our goal” (Chavis, 1993, p. 172). Whitman, White, O’Mara, and Goeke-Morey (1999) also studied how the environment can assist in or detract from the development of infants. Contra- dicting previous assumptions that these infants were unaf- fected by their surroundings, they showed how to build on existing environmental resources to positively impact their development. Identifying environmental resources and how they may contribute to this positive development continues to be an important goal for community psychologists.

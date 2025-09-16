@@ -1,19 +1,45 @@
-# or unhealthy?
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 208f2114973d28887ceda80d97a179075536d771
+title: H07RVB-PDF-ENG
+---
+# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
 
-JIM FIELDING:
+There were people who were there that I could have asked for help, but it
 
-I love Hollywood, I love the media industry. It probably won’t make me
+was on me to say, “Hey, I’ve got something to tell you and I really need to
 
-super popular, but the car you drive, the clubs you belong to, if you have
+share,” and trust that it was going to be okay.
 
-a second home, a vacation home, where is that vacation home: I think
+There’s an entire chapter, learning number four in the book, about
 
-there’s a lot of external trappings that are all about trying to ﬁt in and all
+nurturing all of your families, including your chosen family. And I
 
-about trying to ﬁt this norm of what a successful executive looks like or
+realized that I started building my chosen family when I was 14 and 15
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+years old in high school. I didn’t know what it was called. I didn’t know
 
-12
+I was building an ally network. There was no book to read, there was no
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+guidebook to follow. But I realized that I was ﬁnding my conﬁdants and
+
+my conﬁdence through my conﬁdants, and I was charting these lifelong
+
+relationships, that I’m still friends with people that I went to middle
+
+school with, that I went to high school with, and particularly my college
+
+friends. That became a lifelong relationship and the support network
+
+that I needed.
+
+ADI IGNATIUS:
+
+The pressure that you felt to be normal, it must manifest itself in
+
+other ways other than just in sexual identity. Do you ever think about
+
+other ways in which we are adapting ourselves to some perception of
+
+“normal” to ﬁt into corporate culture that may be similarly inauthentic

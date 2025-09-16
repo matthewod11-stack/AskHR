@@ -1,7 +1,21 @@
-## your own vulnerability or experience with mental health challenges. If
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad74a5f5ce760acbced0010198a2288ae19a360e
+title: H0719C-PDF-ENG
+---
+# Prepare yourself.
 
-you have this experience directly or through other relationships, talking
+Reﬂecting on and correcting your own implicit bias around mental
 
-about it to open a dialogue can be very powerful, putting you and the
+health will help you be an ally to your colleagues. You may not mean
 
-other person on more equal footing and showing that you are empathic
+to contribute to the stigma, but even an unintentional stigma is hurtful.
+
+Think about any assumptions or preconceptions you may have about
+
+mental health conditions and the people who deal with them. Then,
+
+discard them.
+
+Be open and approachable with your colleague and consider sharing

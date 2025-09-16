@@ -1,7 +1,7 @@
-## Ask an Expert: How Do I Ask for Time Off in a New Job?
-
-https://hbr.org/2022/04/ask-an-expert-how-do-i-ask-for-time-off-in-a-new-job
-
-4/9
-
-Follow up by explaining what you plan to do ahead of time to helplighten their load in your absence, and then ask if they might bewilling to return the favor when you’re gone: “Given that we’reworking on two projects together, I wanted to ask what I can doahead of time to keep us on track and if I may be able to delegate acouple of things to you in my absence? I will be sure to finish X, Y,and Z before I go, but I may need help with the day-to-day taskssuch as A and B. Do you think you’d have the bandwidth to helpwith those tasks for the three days that I’m out?”A reasonable teammate will be grateful for the heads up. You’renot the only person in the office who is going to take a vacationthis year. When the time comes, your peers will likely need to askthe same of you.2) You don’t have a pre-planned vacation.This seems like the situation you’ve been facing. When you don’thave immediate travel or vacation plans, my advice is to use thefirst 90 days to understand your company’s culture: learn aboutthe leave policies, observe others, and build trust with yourmanager.Here’s how to start.Educate yourself about the company policies.Some companies offer a specific number of PTO days from theday you join, while others may have unlimited PTO for allemployees. In yet other cases, you may accrue a certain number ofPTO days every month. In addition to this, more and morecompanies are now beginning to offer spontaneous employeeappreciation days, unlimited sick days, family wellness days, ormental health days. This is being done to recognize and addressemployee burnout and improve engagement.
+---
+source_path: Ask an Expert_ How Do I Ask for Time Off in a New Job_.md
+pages: n/a-n/a
+chunk_id: 3c94ad84dabc27d65716074926d89233f40975dc
+title: Ask an Expert_ How Do I Ask for Time Off in a New Job_
+---
+# 9/10/25, 11:38 AM

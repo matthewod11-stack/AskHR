@@ -1,11 +1,17 @@
-## Fig. 12 The Journey of Employee Experience
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: ae9c94a77e87ff63c55c1507ce7a1df1453c8d5e
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Fig. 11 Employee journey
 
-Jacob Morgan believes that is good to consider the moments that matter as moments
+The best explanation of employee journey is based on a study from Gallup, a global
 
-of biggest influence and impact on individual. Moments that matter can be the first
+analytics and advice firm. Gallup defines the Seven Essential Stages of the Employee
 
-day at work, having a child, getting married, or promoted. It can be also buying new
+Life Cycle, the stages an employee goes through with an organization, from being
 
-house or car, leaving a company, or anything in between. These are specific moments
+interested to being hired to working there to leaving at some point, and interaction that
 
-do not occur all the time. By concentrating on these moments, the company is able to
+employee has with managers and colleagues at each stage. (Gallup, 2021)

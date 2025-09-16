@@ -1,11 +1,23 @@
-# a familiar groove.
+---
+source_path: H08VUS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2737643e90a16490c3b09473e767a305c4df337
+title: H08VUS-PDF-ENG
+---
+## a tacit acceptance of repetition and routine.
 
-During that period, I had coﬀee with a mentor who recently retired.
+I hit this plateau at a high point in my career. The work I was doing
 
-He shared advice he’d been given as he went through this transition:
+with my team was sharp—strategically sound, rich with insight and
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+delivering strong results. Two years earlier getting those kinds of results
 
-3
+in similar projects would have ﬁlled me with delight and pride. But
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+now I couldn’t help but feel that the creative leaps my team and I
+
+were making were becoming incremental and predictable. We weren’t
+
+recycling work, but we were recycling our ways of thinking. I knew we
+
+had the talent and vision to push further; we just needed to break out of

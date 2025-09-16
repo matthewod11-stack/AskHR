@@ -1,11 +1,11 @@
-# corporate ladder?
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d49c7c32dc4f5c546262088534811a4514fb339
+title: H07I7D-PDF-ENG
+---
+# Milena Stamenkovic/Getty Images
 
-To better understand these challenges, we examined more than 3,000
+What do high-potential employees describe as their core challenges?
 
-applications and sponsor statements for those who were admitted
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+And what areas of development must they address as they climb the

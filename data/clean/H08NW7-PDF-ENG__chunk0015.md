@@ -1,11 +1,15 @@
-## But the biggest risks—and actual costs—are for others. Since there’s
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8d844ce30a9fceda562a57f1b70bbba1fe92182
+title: H08NW7-PDF-ENG
+---
+## HBR / Digital Article / When You Oversell Your Abilities and It Backfires
 
-always a strong possibility that you’ll succeed in your deception or
+appearances rather than substance eventually face harsh setbacks when
 
-exaggeration, there’s a clear possibility that you’ll become like Ben, the
+their true abilities are put to the test. The very failure you believe you’re
 
-person we cautioned about at the start of the article: someone who isn’t
+avoiding with an inﬂated view of your talents is likely the very failure
 
-as good as they want others to believe but is able to succeed despite
-
-being overrated.
+you’re setting in motion.

@@ -1,9 +1,39 @@
-# DP
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b902ba95403eb07105511d62d8524b6b805094fd
+title: H08COG-PDF-ENG
+---
+## HBR / Digital Article / Research: How to Build Consensus Around a New Idea
 
-Devon Proudfoot is an Associate Professor of Human Resource Studies at Cornell’s ILR School. She studies topics related to diversity and creativity at work.
+of our study is it does not explore the opposite extreme of groupthink,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+where new ideas may be hindered because evaluators agree too much.
 
-7
+Group discussions can lead people to converge too much, but this
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+research investigated people judging value separate from the inﬂuence
+
+of others. Our research oﬀers useful ﬁndings for managers wading
+
+through wide ranging opinions and contention around new ideas, and
+
+oﬀers solutions for how to get employees on the same page, creating
+
+avenues to submit meaningful evaluations for a novel concept.
+
+Understanding why people are more likely to disagree about the value
+
+of creative ideas creates opportunities to anticipate when a lack of
+
+consensus may occur. Understanding lack of consensus is a signal to
+
+investigate, assess, and weight the reasoning diﬀerent evaluators are
+
+using will help facilitate thoughtful decisions, helping overcome what
+
+otherwise can be a meaningful barrier to innovation.
+
+This article was originally published online on August 20, 2024.
+
+Wayne Johnson is a researcher at the Utah Eccles School of Business. He focuses on evaluations and decisions about new information, including persuasion regarding creative ideas and belief change.

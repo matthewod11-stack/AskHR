@@ -1,15 +1,17 @@
-# billion oﬀer.
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7fc92b4f5ef71c04aeac6b0fd47980bdc041f996
+title: H07KWZ-PDF-ENG
+---
+# away.
 
-In this case, Logan’s brazen conﬁdence got in the way. Overconﬁdence
+Avoid offers you can’t justify.
 
-leads negotiators to underestimate their counterparts, which in turn
+When Logan Roy learns about the presence of rival bidders (his own
 
-leads them to make unrealistic demands or unreasonably low bids.
+children), his advisors tell him he is “the solid option.” This leads him
 
-If the other party becomes oﬀended, impasse is likely. Overconﬁdent
+to feel conﬁdent about his bid. So, when Nan Pierce calls asking for a
 
-negotiators also underprepare for talks and overlook potential risks
-
-and weaknesses in their own position. As a result, they become overly
-
-aggressive or dismissive of the other party’s concerns, which can damage relationships and make it more diﬃcult to reach a mutually
+ﬁrm number, he replaces the “soft” $7 billion he ﬂoated earlier with a $6

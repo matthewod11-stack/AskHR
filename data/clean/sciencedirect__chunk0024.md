@@ -1,7 +1,9 @@
-# Fig. 1. Research Framework.
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: 64fc1663dac3c1cac327904c40958884ef80565f
+title: sciencedirect
+---
+# assumptions of the framework.
 
-- 8. Methodology
-
-individual positive The problem statement of this research is to identify the use of Positive Psychology and the Traits (Optimism, Personal Strength and Well- Being) to the questionnaires have been designed for each of the hypothesis and there are about ten questions per hypothesis on an average. An online survey for th e employees has been conducted by sending an e-mail with the survey link to all the employees individually with the concern of the confidentiality of their answers for the survey and preventing any physical contact with the e mployees. In order to design the survey, an online tool ‘SurveyPlanet’ has been used. To plan this survey, numerous standard questionnaires are eluded. The questions in the survey were written in the plain language. The respondents hav e the alternative to choose the choice most ideal to them on a Likert scale of 1-5. The employees have not given choice to avoid answering any questions from the survey.
-
-The responses have been submitted completely by the employees. After the successful com pletion of the survey, all the data is exported to the excel sheet so as to investigate the responses of the employees. The data is demonstrated
+- H1: Organisational policies positively affect the employees’ positive traits.  H2: Optimism positively affect the employees’ performance.  H3: Personal strength may positively affect the employees’ performance.  H4: Well-being may positively affect the performance.  H5: Employee’s performance may increase the productivity.  H6: Organizational Productivity positively affected by the employees’ positive traits.

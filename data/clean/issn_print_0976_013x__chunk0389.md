@@ -1,7 +1,7 @@
-# Yusuf, Y.Y., Gunasekaran, A., Adeleye, E.O., & Sivayoganathan, K. (2004). Agile supply
-
-chain capabilities: determinants of competitive adjectives. European Journal of
-
-Operation Research, 159(2), 379-392. https://doi.org/10.1016/j.ejor.2003.08.022
-
-Zidi, S., Hamani, N., & Kermad, L. (2021a). New metrics for measuring supply chain
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: c9cad355ca66c9bb819cd1231d176cddd001ea86
+title: issn_print_0976_013x
+---
+# Story of Lean Production.

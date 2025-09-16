@@ -1,9 +1,21 @@
-## pro quo harassment, in which a supervisor conditions tangible economic
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07077281dde55409fa8a49634c49aa97ebad1c99
+title: H04HPZ-PDF-ENG
+---
+## procedures in the Faragher v. City of Boca Raton and Burlington v.
 
-beneﬁts on sexual favors, and hostile work environment harassment,
+Ellerth cases, which were decided together. The HR profession did not
 
-in which employees are subjected to unwelcome sexual advances or commentary that is suﬃciently severe or pervasive to aﬀect the
+sit back idly during the arguments. The Society for Human Resource
 
-employee’s ability to perform their job. The EEOC advocated that anti-
+Management (SHRM), the ﬁeld’s professional association, ﬁled an
 
-harassment policies and complaint procedures should be a defense
+amicus brief in the Faragher case arguing that employers should be aﬀorded legal protection when they create anti-harassment policies.
+
+SHRM also wrote that employers, rather than courts, were best suited
+
+to address sexual harassment. In its own amicus brief in the Faragher
+
+case, the EEOC distinguished between two types of harassment: quid

@@ -1,5 +1,7 @@
-## forward to credit ayahuasca, psilocybin, and more for their leadership
-
-success, and some research suggesting that the use of LSD is rising
-
-faster among managers than it is among nonmanagers, it’s time to open
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97451845ec9ae5d29fa930668e9a6e4996a26db1
+title: R2405N-PDF-ENG
+---
+## —such as Whole Foods’ John Mackey and Tesla’s Elon Musk—coming

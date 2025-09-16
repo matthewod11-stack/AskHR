@@ -1,11 +1,7 @@
-## (CDC) created a framework, Building Resilience Against Climate
-
-Eﬀects (BRACE), that guides public health departments in forecasting
-
-climate impacts, projecting related health outcomes, and implementing
-
-interventions to protect vulnerable populations. While the tool kit targets health oﬃcials, it can easily form the basis of a corporate
-
-program. This wouldn’t be the ﬁrst time that private ﬁrms have adapted
-
-public sector programs; during Covid-19 many organizations used
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a606cc9faf70963e346469aefeaf2084fb7280b
+title: H08C0J-PDF-ENG
+---
+## For instance, the U.S. Centers for Disease Control and Prevention

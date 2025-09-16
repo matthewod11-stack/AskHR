@@ -1,15 +1,25 @@
-# The Power and Urgency of Noticing
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08cbc696e5a200788ad562e34747959f60686ba5
+title: H08R20-PDF-ENG
+---
+# by name.
 
-In January 2025, Gallup reported employee engagement hit its lowest
+We descended into the cramped hallway at the tarmac level. It was
 
-point in a decade. During that same timeframe, services to improve
+bustling with workers moving in and out to meet ﬂights. Tanya stopped
 
-engagement became a $1 billion industry and organizations invested
+and asked a cleaner we passed how his daughter was. He pulled up a
 
-millions in well-being programs and perks. Yet seven in ten people are
+photo on his phone, beaming. Then, she asked him a question she asked
 
-still disengaged. Why?
+everyone that day: “Is there anything you need from me?”
 
-One data point stands out: Just 39% of employees in the sample
+Tanya’s supervisor told me she’s in the top 10% of leaders in the
 
-strongly agreed that someone at work cares for them as a person. That
+organization. In an occupation often rendered invisible, Tanya makes
+
+everyone feel seen. She notices—an overlooked but foundational
+
+leadership skill that’s increasingly needed today.

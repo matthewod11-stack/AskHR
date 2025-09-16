@@ -1,25 +1,13 @@
-## robust discrimination of project attractiveness at the extremes. When
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 258c0d72c8a73ec7ca7f6fa9fd313a2343847cf8
+title: H08GJ6-PDF-ENG
+---
+## HBR / Digital Article / How to Decide Which Innovation Projects to Greenlight
 
-you are in the lucky spot of being able to fund almost all of few
+Are you bound by a tight budget?
 
-proposals, scoring will serve you well. But if you aim to isolate the best
+The smaller the budget, relative to the resources requested by the
 
-ﬁve of a few dozen proposals, go with ranking.
-
-Big ﬁrms often already operate a sophisticated innovation process, have
-
-experience with the winning products of the past but not the future,
-
-and receive plenty more proposals than they can fund. Our decision tree
-
-would thus lead them to the ranking decision rule, a simple collective
-
-rule that strikes a balance between robustness and discrimination.
-
-Scoring, which is discriminating but not robust, sometimes is a decent
-
-second choice. Voting, although robust and well suited to screening tasks such as jury deliberations or medical diagnosis, insuﬃciently
-
-discriminates between project options to enhance portfolio selection.
-
-. . .
+proposals before you, the greater the need for a decision rule oﬀering

@@ -1,11 +1,15 @@
-# tools=[WebSearchTool(),save_results]T
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: bdcc539a528e56bf2dd9503300f42ab2995a4735
+title: a_p_r_a_c_t_i_c_a_l
+---
+# instructions=
 
-12
+"Help the user search the internet and save results ifm
 
-)
+1&
 
-As the number of required tools increases, consider splitting tasks across multiple agents² (see Orchestration).
+asked."ˆ
 
-10
-
-A practical guide to building agents
+1*

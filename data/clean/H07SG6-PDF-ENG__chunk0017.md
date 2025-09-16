@@ -1,9 +1,19 @@
-## HBR / Digital Article / Stop Overworking After Vacation
+---
+source_path: H07SG6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e385410a23df53ec39fb9297a2e7d810d6ac0902
+title: H07SG6-PDF-ENG
+---
+# Shift to a performance mindset.
 
-away as a last resort only after you’re depleted and unproductive, or as
+High performance and suﬃcient recovery were never meant to function
 
-a special reward when your to-do list is ﬁnally done, take a cue from top
+separately, yet in the corporate world, performance tends to be
 
-athletes and include work recovery as an essential component of a high-
+overemphasized while recovery is overlooked. Rather than treating time
 
-performance strategy. Work recovery works best when it’s practiced
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

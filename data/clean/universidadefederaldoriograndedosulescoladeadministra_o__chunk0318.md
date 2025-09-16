@@ -1,7 +1,13 @@
-## no seu uso, uma contrapartida que pode comprometer a qualidade da pesquisa.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 3adb4573166427b3eb0d153190c4291a5b824339
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## governamentais e serviços padronizados de informações de marketing. Cabe
 
-Segundo ele (GIL, 1999), muitas vezes as fontes secundárias apresentam dados
+33
 
-coletados ou processados de forma equivocada, comprometendo, assim, o trabalho
+lembrar que Gil (1999) afirma que, embora em muitas situações, não haja outra
 
-fundamentado neles, que tenderá a reproduzir ou até ampliar seus erros, cabendo
+maneira de conhecer os fatos passados senão com base em dados secundários, há,

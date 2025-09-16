@@ -1,17 +1,39 @@
-# Energy
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38a8038c5f4280b7bb3c5cbac278ef96a09e1260
+title: R2101J-PDF-ENG
+---
+# Information technology
 
-85
+86
 
-15
+%
 
-81
+14
 
-19
+%
 
-68
+83
 
-32
+%
 
-77
+17
 
-23
+%
+
+71
+
+%
+
+29
+
+%
+
+79
+
+%
+
+21
+
+%

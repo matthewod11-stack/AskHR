@@ -1,7 +1,7 @@
-# Dan Saelinger/Trunk Archive
-
-From 2002 to 2016, Wells Fargo employees exploited the bank’s sales
-
-incentive program. They opened millions of unauthorized accounts and
-
-enrolled customers in fee-incurring services to meet management’s
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03073809661f5996012534e13bb230db222a4fdb
+title: R2502J-PDF-ENG
+---
+## From the Magazine (March–April 2025) / Reprint R2502J

@@ -1,15 +1,23 @@
-# Enabling Factors
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4984f34bbf15f4fb6749c5cb5f2dd3449c980cc
+title: S24053-PDF-ENG
+---
+# stage for collaboration.
 
-Following through on those steps is hard but rewarding. Several
+- 4. Maintain momentum. Mapping out and embarking on the journey
 
-enabling factors can help.
+are easy compared with sustaining it. Many teams quickly align around
 
-Get together. The potency of in-person sessions has no substitute. Build
+priorities, convene for a launch event, and make plans for future
 
-your annual program around as many face-to-face gatherings as you can aﬀord. Save money elsewhere.
+meetings—but then fail to follow through. Some call this “the boom
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+splat.” When it happens, ﬁrms often rationalize their inaction, insisting
 
-12
+that other work simply became more important. But maintaining
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+momentum—and correcting course when necessary—is critical to
+
+changing behavior and making it stick.

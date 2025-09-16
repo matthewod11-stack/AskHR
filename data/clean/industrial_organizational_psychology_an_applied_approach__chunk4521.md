@@ -1,13 +1,15 @@
-# envelope. HR Magazine, 45(5), 145–152.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3ca353b96220465e4f9202b632527efa2f02f4ed
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Muzak Board of Scientiﬁ c Advisors.
 
-Woodward, N. H. (2001). Discounts not to be discounted.
+Wolinsky, J. (1982). Beat the clock. APA Monitor, 13, 12. Wolkove, M. P., & Layman, J. J. (2006, February). Methods
 
-HR Magazine, 46(4) 91–96.
+for controlling absenteeism in an organizational setting: A meta-analysis. Paper presented at the annual Graduate Student Conference in Industrial-Organizational Psychology and Organizational Behavior, Fairfax, VA. Woodward, N. H. (1999). In case of emergency break glass.
 
-Woodward, N. H. (2005). Pregnancy discrimination grows.
+HR Magazine, 44(8), 83–88.
 
-HR Magazine, 50(7), 79–82.
-
-Wooten, W. (1993). Using knowledge, skill and ability (KSA) data to identify career pathing opportunities: An application of job analysis to internal manpower planning. Public Personnel Management, 22(4), 551–563.
-
-Workplace Visions (1999). Interest in using prison labor is
+Woodward, N. H. (2000). Direct mail pushes the recruiting

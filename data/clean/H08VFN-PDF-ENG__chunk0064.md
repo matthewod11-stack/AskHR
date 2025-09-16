@@ -1,17 +1,35 @@
-# uncertainty and volatility.
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64882c995555e09f85ed2061886e681edbdd791b
+title: H08VFN-PDF-ENG
+---
+## fraud; a longshot research possibility; a PR disaster.
 
-Examples of eﬀective training scenarios include:
+After your cadre have compiled a list of past scenarios, have them
 
-- You’ve just lost your biggest client to your biggest competitor, reducing
+imagine a list of potential near-future scenarios your organization
 
-annual revenue by 10%. What’s your next move?
+might realistically face. Each scenario (past and near-future) should be
 
-- Your division is projected to double its proﬁts over the next three years.
+short enough to be presented on a single 3×5 notecard or PowerPoint
 
-What do you do with the additional capital?
+slide. It doesn’t need to contain all the information about the situation.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+In fact, it’s better if it contains very little information, since leadership
 
-13
+situations are murky and change fast. Speciﬁc details can be provided
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+(or improvised) by cadre during training.
+
+The goal is not to hand students a logically designed puzzle with an
+
+elegant optimum solution. It is to elicit psychological stress, giving
+
+students the opportunity to generate new plans under pressure. This
+
+means that there should never be one right answer to a scenario.
+
+Instead, every scenario should provide students with the experience of
+
+doing what leaders do: Inventing and testing possible plans in ongoing

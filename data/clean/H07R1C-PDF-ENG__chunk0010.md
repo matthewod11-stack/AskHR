@@ -1,7 +1,25 @@
-## positively impact culture, retention, and ultimately the bottom line.
+---
+source_path: H07R1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5da872a428ce8ff16e7ece705a8be51b6d844bd9
+title: H07R1C-PDF-ENG
+---
+# in childcare deserts.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Given these shortcomings and the fact that 73% of U.S. employees are
 
-2
+caregivers, in order to have a productive and sustainable workforce,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+companies must create the infrastructure to support them. The hidden
+
+cost to companies for not supporting caregivers can also be high when
+
+factoring in turnover, lost institutional knowledge, and absenteeism.
+
+However, the conversation about supporting caregivers at work
+
+has typically focused on employee well-being, not the beneﬁts to
+
+employers. We conducted original research to collect stories from
+
+employees like James and found that they bring unique skillsets that

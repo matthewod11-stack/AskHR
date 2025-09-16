@@ -1,13 +1,13 @@
-# Brunner/Mazel.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 05c6fc78f7a2028c24b742c07205bba864030ddb
+title: untitled
+---
+## mental health. Amerasia Journal, 1, 36–49.
 
-Thornton, M. C. (1983). A social history of a multiethnic identity: The case of Black Japanese Americans. Unpublished doctoral dissertation, University of Michigan, Ann Arbor.
+Sue, S., Zane, N., & Young, K. (1994). Research on psychotherapy with culturally diverse populations. In A. E. Bergin & S. L. Garﬁeld (Eds.), Handbook of psychotherapy and behavioral change (4th ed., pp. 783–817). New York: Wiley.
 
-Turner, S. M. (1996). Treatment of anxiety disorders in African Americans: Current status. Symposium on Advances in Treat- ment Outcome Research with Ethnic Minorities, 104th meeting of the American Psychological Association, Toronto, Ontario, Canada.
+Szapocznik, J., & Kurtines, W. M (1995). Family psychology and cultural diversity: Opportunities for theory, research, and appli- cation. In N. R. Goldberger & J. B. Veroff (Eds.), The culture and psychology reader (pp. 808–824). New York: New York University Press.
 
-Tyler, L. E. (1978). Individuality: Human possibilities and personal choice in the psychological development of men and women. San Francisco: Jossey-Bass.
-
-U.S. Bureau of the Census. (2001, December 20). State and County
-
-QuickFacts. Retrieved from quickfacts.Census.gov.
-
-U.S. Bureau of the Census. (2001). United States statistical infor-
+Thomas, A., & Sillen, S. (1972). Racism and psychiatry. New York:

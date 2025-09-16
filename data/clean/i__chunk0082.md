@@ -1,13 +1,17 @@
-# 2.3 People Analytics
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 26105560e7f601e3b9d252e5ce712640ec176294
+title: i
+---
+# decision-making.
 
-While the name PA may not imply the business aspect, various authors and researchers have
+Also according to the authors, Insights, on their own, possess restricted value unless they are
 
-come to agree that <PA is about the business=. Ferrar and Greenaway (2021) suggest that the
+transformed into actionable steps by management. These actions can encompass enhancements
 
-focus of PA is to deliver commercial value to employees and the broader workforce. Such value
+in operational decisions, reconfiguration of existing processes, and formulation or modification
 
-should equip managers and executives with evidence-based insights for decision-making
+of strategies. At the operational level, insights have the potential to enhance the quality and
 
-regarding employees and the workforce. In its most effective form, PA extends its impact even
-
-to the highest levels of governance, influencing the board of directors, investors, and society
+promptness of decisions made by frontline managers.

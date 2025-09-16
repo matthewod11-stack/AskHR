@@ -1,9 +1,15 @@
-# toward?
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e6872f88442ea59e1c043c5706db31bb88d1670
+title: H0785Z-PDF-ENG
+---
+## discontinuity, this approach doesn’t work for long.
 
-Right now, for example, if you don’t have a core competence in using
+Leaders of every company today must ask these questions: Given
 
-algorithms, you will need to acquire or develop this capacity. Amazon
+changing external realities, is this core competence becoming less
 
-eclipsed many retailers that were too slow to adapt, but now we
+important or irrelevant? Do we still need to expend resources to support
 
-see brick-and-mortar competitors such as Walmart building their data
+it, or are there new competencies we need to build and shift resources

@@ -1,51 +1,13 @@
-## Athlete Leadership and Team Effectiveness
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 8bc27324ee171981235bf81ee1dff79729157e2a
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Results Preliminary analysis
 
-Table 2. Descriptive statistics, correlations, and Cronbach’s alpha of all variables of the study.
+We ran a confirmatory factor analysis (CFA) for each scale. Data offered support for the factor structure of the variables under investigation, showing acceptable model fit for role clarity (χ2 = 149.434; df = 51; p < .001; CFI = .96; TLI = .95; RMSEA = .05; SRMR = .02), role conflict (χ2 = 19.75; df = 9; p < .001; CFI = .98; TLI = .98; RMSEA = .04; SRMR = .02), team conflict (χ2 = 129.70; df = 48; p < .001; CFI = .97; TLI = .96; RMSEA = .05; SRMR = .03), collective effi- cacy (χ2 = 19.07; df = 9; p = .02; CFI = .98; TLI = .98; RMSEA = .04; SRMR = .02), and intention to continue (χ2 = 7.25; df = 2; p = .007; CFI = .97; TLI = .90; RMSEA = .10; SRMR = .03). Fur- thermore, all scales had acceptable internal consistency (α < .70) [49], with the exception of
 
-- 1. Task leaders
+PLOS ONE | https://doi.org/10.1371/journal.pone.0218167 June 10, 2019
 
-- 2. Social leaders
-
-- 3. External leaders
-
-- 4. Role clarity
-
-- 5. Role conflict
-
-- 6. Relationship conflict
-
-- 7. Task conflict
-
-- 8. Social cohesion
-
-- 9. Task cohesion
-
-- 10. Collective efficacy
-
-- 11. Intention to continue
-
-- 12. Perceived performance
-
-M (SD) 1.25 (.76)
-
-1.07 (.72)
-
-1.58 (.60)
-
-7.42 (1.32)
-
-2.16 (.84)
-
-2.61 (1.40)
-
-3.21 (1.36)
-
-6.86 (1.67)
-
-6.60 (1.61)
-
-3.52 (.69)
-
-3.70 (.48)
-
-3.56 (1.04)
+7 / 22

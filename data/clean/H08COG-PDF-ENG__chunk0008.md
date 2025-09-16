@@ -1,11 +1,31 @@
-## How Criteria Can Affect Perceptions of Value
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ce7b11fa0d95438a93033aa19ff8aadbacfb409
+title: H08COG-PDF-ENG
+---
+## HBR / Digital Article / Research: How to Build Consensus Around a New Idea
 
-Previous research has described creativity as “novelty that is useful,”
+In a recent paper, published in Nature Human Behavior, we explored
 
-where novelty is deﬁned as the distance of departure from existing
+why people disagree about an idea’s value. Through a mix of
 
-oﬀerings or practices. The newer the idea, the harder it is to compare
+experimental and archival studies, we found that the more novel an
 
-to what already exists. In other words, the newer an idea, the less likely
+idea, the more people disagreed about its worth.
 
-there will be a common reference point or criteria by which to evaluate
+We also found that people often interpret disagreement itself as a
+
+sign of risk, lowering their belief in an idea’s value, and making them
+
+less likely to support it. The bad news is this newness-disagreement
+
+link forms a barrier to innovation by making more creative ideas
+
+seem less appealing. But understanding why this problem occurs
+
+creates opportunities to address it. We evaluate our ﬁndings to propose
+
+research-backed strategies to help your team build consensus when
+
+evaluating new ideas.

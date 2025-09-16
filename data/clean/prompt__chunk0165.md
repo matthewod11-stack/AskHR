@@ -1,3 +1,9 @@
-# Prompt
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 2a5ed89b909d632ba0d876b0703a1c53775418fc
+title: prompt
+---
+# Top-P
 
-I want you to act as a travel guide. I will write to you about my location and you will suggest 3 places to visit near me. In some cases, I will also give you the type of places I will visit. My suggestion: "I am in Amsterdam and I want to visit only museums." Travel Suggestions:
+0.8

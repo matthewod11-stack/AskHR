@@ -1,23 +1,7 @@
-# Recognize incremental wins.
-
-Throughout my career as a coach, I’ve seen how professionals’
-
-momentum can stall when they overlook the everyday achievements
-
-that collectively drive their growth. Last year, I took on a stretch
-
-assignment to develop Fire Memos, a platform designed to help
-
-professionals record and recognize their wins in real time. If you’re
-
-waiting for the next major milestone, you might be missing the impact
-
-of smaller wins happening every day. Too many of us underestimate the
-
-impact of what we do. At the end of each week, reﬂect on your progress,
-
-write down at least three wins, and commit to continuing to add to that
-
-list. If you stick to it, by the end of each month you’ll have at least a
-
-dozen achievements documented that you may have forgotten about
+---
+source_path: H08OI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63248de051c29b9111b3ed44ab9217c9ecee3f4d
+title: H08OI6-PDF-ENG
+---
+## HBR / Digital Article / In a Slump at Work? Here’s How to Motivate Yourself.

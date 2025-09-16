@@ -1,7 +1,7 @@
-## Source: Analysis of Survey data 2013, using SPSS 17.
-
-The effect of the motivation techniques on employee productivity in the Selected firm is analyzed and presented on Table 4.5 above. The analysis shows that the employees perform their optimum best under the condition they work. This implies that the use of coercion as motivation strategy influences the employees to be productive.
-
-The results Friedman test is 281.042 (P. < 0.05). The decision rule is that we reject the null hypothesis when the calculated significance value (probability of the Chi-square value) is less than the chosen level of significance (5%) and to accept the calculated significance value is greater than 5%. Since the significance level (probability) is less than the 5% level of significance, we reject the null hypothesis and then conclude that the motivation strategy given to the employees do significantly lead to higher performance and productivity. 6. SUMMARY OF FINDINGS The results of the analysis were presented on table and the results showed
-
-That incentive is not used to motivate the employees for higher performance. The study reveals that salaries paid to junior staff in the company were very below the
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: 0c1b7917819bfdf1e99e8f2ac4103e58331f4979
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# Asymp. Sig. = .000

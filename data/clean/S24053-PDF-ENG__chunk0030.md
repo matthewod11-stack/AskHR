@@ -1,29 +1,19 @@
-## unit rather than a collection of individuals.
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6656f28c15d310afb4f6761264cc51aba0968845
+title: S24053-PDF-ENG
+---
+## HBR / Spotlight Article / Teamwork at the Top
 
-Drive. Top teams with drive prepare assiduously, debate constructively,
+Teams can further strengthen their discipline by coauthoring a one-
 
-and are industrious and resilient over the long term. They know how
+page charter clarifying the team’s purpose, focus, collective behaviors,
 
-to prepare for and surmount obstacles. As the COO of one global
+norms, and routines. This work is both pragmatic and symbolic. When
 
-consumer-products company told us, teams with drive do “the hard
+the members of the top team at Root Capital engaged in this exercise,
 
-work of doing the hard work.”
+they found that it not only helped them improve focus and eﬃciency
 
-Drive is pivotal when a top team faces a crisis. That was the case for one
-
-life-sciences company we worked with after it learned that it was being
-
-investigated by the Securities and Exchange Commission. The CEO and
-
-his top executives were certain that there had been no wrongdoing,
-
-so they devised a plan for how they would behave as a team: They
-
-would face every diﬃculty head-on, immediately, and with optimism.
-
-When the SEC made a request, they would work together to address
-
-it, regardless of whose domain was at issue. They would pay careful
-
-attention to detail. Most important, they would be resilient, engaging in
+but also gave them a powerful vision of themselves as a single cohesive

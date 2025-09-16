@@ -1,3 +1,9 @@
-# FRED C. LUNENBURG _____________________________________________________________________________________5
+---
+source_path: international_journal_of_management_business_and_administration.md
+pages: n/a-n/a
+chunk_id: 2911bf3eeb41fd4c71130175ff995d23ad4fdce9
+title: international_journal_of_management_business_and_administration
+---
+## Group Goal-Setting is As Important As Individual Goal-Setting
 
-Despite the benefits of goal setting, there are a few limitations of the goal-setting process (Locke & Latham, 2002). First, combining goals with monetary rewards motivates many organization members to establish easy rather than difficult goals. In some cases, organization members have negotiated goals with their supervisor that they have already completed. Second, goal setting focuses organization members on a narrow subset of measurable performance indicators while ignoring aspects of job performance that are difficult to measure. The adage “What gets measured is what gets done” applies here. Third, setting performance goals is effective in established jobs, but it may not be effective when organization members are learning a new, complex job.
+Today, many organization members work in groups, teams, or committees. Having employees work as teams with a specific team goal, rather than as individuals with only individual goals, increases productivity. Furthermore, the combination of compatible group and individual goals is more effective than either individual or group goals alone. A related consideration is that when a team member perceives that other team members share his or her personal goals, the individual will be more satisfied and productive. A recent study of project teams indicated that a perceived fit between individual and group performance goals resulted in greater individual satisfaction and contribution to the team (Kristof-Brown & Stevens, 2001).

@@ -1,11 +1,27 @@
-## HBR / Spotlight / How Fast Should Your Company Really Grow?
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94d12dfccc3ec6b28182a917cfb847ca8da02577
+title: S24021-PDF-ENG
+---
+## Direction of Growth: Scale, Scope, or Diversify?
 
-Let’s return to the analysis of nearly 11,000 companies from 1976 to
+Since demand ultimately fuels growth, selecting which market
 
-- 2019. Among the fastest long-term growers, some companies—such
+opportunities to pursue is a critical component of a company’s overall
 
-as Walmart, UPS, Southwest Airlines, and Publix—grew by scaling in
+growth strategy. Some companies seek growth by scaling in their core
 
-their core markets, replicating their model in new geographic markets,
+market. Others broaden their scope into adjacent products and services.
 
-or adding ancillary services closely aligned with their core service
+Still others diversify into a range of seemingly unrelated industries.
+
+Which strategies are most proﬁtable over the long term has long been a
+
+topic of hot debate, and my research suggests there is no simple answer.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

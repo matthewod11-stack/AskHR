@@ -1,13 +1,15 @@
-## even in the absence of informational constraints.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 08cbb452f3003904b3b7ec82600a417c5577c8f6
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-Of course, while CEO overconfidence can create agency costs, overconfidence
+the board has to approve any investment beyond a certain dollar amount. Setting the
 
-may be correlated with valuable charisma, the ability to convince investors of the
+threshold for board approval low enough seems a sensible strategy—if we believe
 
-value of a firm, or the ability to motivate employees. Firms may want to attract
+that the board fulfills its monitoring function. The concern about upward biases in
 
-overconfident leaders but also restrain their actions in some way. One method is
-
-to unbundle the leadership and resource-allocation roles of top managers, so that
-
-a confident leader creates inspired workers and optimistic investors, but does not
+a manager’s perception thus gives additional importance to group decision-making,

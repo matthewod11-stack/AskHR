@@ -1,3 +1,11 @@
-# largest part of customer dissatisfaction from Atlas Copco performance The average
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: b7beeb97434341643ebed91f6f1e36e1d0c41f32
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# service performance.
 
-score is 5 points whereas European market ranked it at 4,6 points. On other side,
+Table 8 Touchpoint’s performance
+
+Significantly lower results are linked to “Delivery of products”, which caused the

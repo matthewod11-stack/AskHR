@@ -1,29 +1,17 @@
-# discussion.
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc7751d1a90a506cbcb340cd376bc7e00803bd35
+title: H08VIB-PDF-ENG
+---
+# Don’ts
 
-Don’t proceed without a human facilitator. You need someone to
+Don’t let AI become a distraction. Human nature still applies:
 
-orchestrate the team-AI collaboration, creating the loops between AI
+devices can be a distraction during meetings. Make sure to clarify
 
-and the team discussion—particularly when the team is large. Not
+when participants should keep their laptop open and interact with
 
-all managers are good facilitators. The good news is that AI can
+AI. Discipline is the success factor. Otherwise, participants might
 
-support this too: it can suggest facilitation approaches and techniques,
-
-act as a co-facilitator during the discussion, connect the dots from
-
-the participants’ discussion, and take notes. However, some activities
-
-always require a human facilitator, such as: steering team dynamics,
-
-reading the room, feeding the contextual nuances, extracting insights
-
-that are relevant for the leadership, etc. This cannot (and shouldn’t) be
-
-delegated to the AI.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+start checking their inboxes and detach themselves from the group

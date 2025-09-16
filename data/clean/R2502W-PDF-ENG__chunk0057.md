@@ -1,21 +1,13 @@
-## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5677c819198010396ddd34e261bfe0077bc0cd7
+title: R2502W-PDF-ENG
+---
+# capture in an era of abundant expertise?
 
-We believe that every company will need to reevaluate its strategy in
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-this changing era and will have to ask itself three questions.
+12
 
-- 1. Which aspects of the problem we now solve for customers will
-
-customers use AI to solve themselves? Consider the work of travel
-
-agents. For many years customers have been able to ﬁnd information
-
-about travel destinations and book reservations online. Now they can
-
-simply consult AI apps to create tailored travel itineraries based on
-
-their unique preferences. As AI’s ability to take action improves, it
-
-will be able to make reservations as well. Travel agents will need
-
-to reinvent themselves—perhaps by organizing unique events and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

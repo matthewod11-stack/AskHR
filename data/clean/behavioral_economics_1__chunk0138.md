@@ -1,7 +1,13 @@
-# Wilson, A. (2004). Bounded Memory and Biases in Information, University of Chicago.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 049eb810409ddf3ab887568aa7e53b59bbc7932b
+title: behavioral_economics_1
+---
+## Journal of Economic Behavior & Organization 33(2): 167-184.
 
-Zak, P. J., K. Borja, W. T. Matzner and R. Kurzban (2005). "The Neuroeconomics of Distrust: Sex Differences
+Weber, R., C. Camerer, Y. Rottenstreich and M. Knez (2001). "The illusion of leadership: Misattribution of
 
-in Behavior and Physiology." American Economic Review 95(2): 360-363.
+cause in coordination games." Organization Science 12(5): 582-598.
 
-48
+Weibull, J. (1995). Evolutionary Game Theory. Cambridge, MA, MIT Press.

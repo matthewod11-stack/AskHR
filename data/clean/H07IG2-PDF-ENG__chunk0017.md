@@ -1,17 +1,13 @@
-## HBR / Digital Article / How AI Is Helping Companies Redesign Processes
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33b7e90ae84786655fead09fdff0aee78c79b901
+title: H07IG2-PDF-ENG
+---
+# work processes.
 
-For example, consider the work of monitoring and inspection at energy and chemical plants, pipelines, oﬀshore facilities, and wind and solar
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-farms. This work used to be exclusively done in person by inspectors
+4
 
-and maintenance technicians, but AI can ease that constraint. Now
-
-many low value-adding inspection tasks can instead be done remotely
-
-by robots and drones. Some Shell facilities are so large that it would
-
-previously have taken years to inspect everything manually — now
-
-drones and robots are being introduced to automate these processes
-
-and help shorten the cycle time.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

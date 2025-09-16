@@ -1,5 +1,11 @@
-# 18 Psychology as a Science
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7a5747e8eee4dea3e031f9d9eae20d3dae7dbe8c
+title: untitled
+---
+# Logical Positivism and Operationism
 
-theoretical language was inﬂuenced by a philosophy of science of the period.
+The abandonment of mind as psychology’s subject matter, the increased attention to ensuring that scientiﬁc standards were met by procedures for gathering and treating data in lab- oratory and nonlaboratory research, and increased attention to theory building appeared to be signs of scientiﬁc maturity in psychology. These characteristics were most closely iden- tiﬁed with the neo-behaviorist theories of learning and behavior that were the focus of much of the laboratory psy- chology from the 1930s to the 1960s. These theories focused on animal subjects and models of learning and behavior; their
 
-Continuing concern for the scientiﬁc status of psychology attracted psychologists to an approach to science advocated by Harvard physicist P. W. Bridgman (1927), who made the case for deﬁning unobservable phenomena, such as gravity or hypothesized physical elements such as an electron, in terms of the operations by which their effects on observable events could be measured (Leahey, 2001; Smith, 1986). E. G. Boring’s student, S. S. Stevens (1906–1973), at Harvard in psychology, proposed that psychology adopt a strict opera- tionism (Stevens, 1935a, 1935b, 1939). Only terms that could be deﬁned operationally were scientiﬁcally meaningful; for all practical purposes, only a behavioral psychology could meet this criterion (Leahey, 2001; J. A. Mills, 1998; Smith, 1986).The emphasis on operational deﬁnitions inﬂuenced the language of psychology (Mandler & Kessen, 1959) and the theories of behavior that evolved in the context of opera- tionism and its philosophical forebear, logical positivism, an approach that limited science to observable phenomena. For psychology,itmeantdeﬁninghunger,forexample,intermsof such operations as hours of food deprivation, or a measure of blood sugar level, or the amount of time spent eating, each of whichisanobservableindicatoroftheunobservablehypothe- sized motivational condition of hunger. The neo-behaviorists who shaped what is known as the “Golden Age of Learning Theory” from 1930 to 1950 adopted some ideas from logical positivism and operationism, although each of them was to formulate his own vision of behaviorism (J. A. Mills, 1998; Smith, 1986).
+17

@@ -1,15 +1,11 @@
-## Kaitlin Elliott Head of Firmwide Generative AI Solutions
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: 345a734e7f1c8da1009b2b9e05c0c3d442db603d
+title: a_i_i_n_t_h_e
+---
+# How it’s going
 
-To (cid:142)nd out more, watch Morgan Stanley: Shaping the Future of Financial Services and ask us about our Eval Frameworks.
+Today, 98% of Morgan Stanley advisors use OpenAI every day; access to documents has jumped from 20% to 80%, with dramatically reduced search time; and advisors spend more time on client relationships, thanks to task automation and faster insights.
 
-7
-
-AI in the Enterprise
-
-Evals de(cid:1)ned
-
-8
-
-Evaluation is the process of validating and testing the outputs that your models produce. Rigorous evals lead to more stable, reliable applications that are resilient to change.(cid:18) Evals are built around tasks that measure(cid:18) the quality of the output of a model against(cid:18) a benchmark—is it more accurate? More compliant? Safer? Your key metrics will depend on what matters most for each(cid:18) use case.
-
-AI in the Enterprise
+The feedback from advisors has been overwhelmingly positive. They’re more1 engaged with clients, and follow-ups that1 used to take days now happen within hours.

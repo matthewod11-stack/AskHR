@@ -1,9 +1,7 @@
-# Performance Intelligence
-
-In an early proof of concept of the redesigned system, executives in one large practice area at Deloitte called up data from project managers to consider important talent-related decisions. In the charts below, each dot represents an individual; decision makers could click on a dot to see the person’s name and details from his or her “performance snapshots.”
-
-WHAT ARE TEAM LEADERS TELLING US? First the group looked at the whole story. This view plotted all the members of the practice according to how much their various project managers agreed with two statements: “I would always want this person on my team” (y axis) and “I would give this person the highest possible compensation” (x axis). The axes are the same for the other three screens.
-
-HOW WOULD THIS DATA HELP DETERMINE PAY? Next the data was ﬁltered to look only at individuals at a given job level. A fundamental question for performance management systems is whether they can capture enough variation among people to fairly allocate pay. A data distribution like this oﬀers a starting point for broader discussion.
-
-5.0
+---
+source_path: Reinventing Performance Management.md
+pages: n/a-n/a
+chunk_id: e847cdf04c85a4b11c04071fe1ed0c49ec95a1e9
+title: Reinventing Performance Management
+---
+## FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG

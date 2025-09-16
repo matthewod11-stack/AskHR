@@ -1,9 +1,27 @@
-## Cutoff approach A method of hiring in which an
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 522ce384b9253fd7e30c1f34cdcd24d3cd96757d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# application.
 
-applicant must score higher than a particular score to be considered for employment.
+Crisis A critical time or climate for an organization in which the outcome to a decision has extreme consequences.
 
-Dale-Chall Index A method of determining the
+Criterion A measure of job performance, such as attendance, productivity, or a supervisor rating. Criterion group Division of employees into groups
 
-readability level of written material by looking at the number of commonly known words used in the document.
+based on high and low scores on a particular criterion.
 
-Dead-enders Employees who receive much grapevine information but who seldom pass it on to others. Informing the subject in an experiment
+Criterion validity The extent to which a test score is related to some measure of job performance.
+
+Critical Incident Technique (CIT) The job analysis method developed by John Flanagan that uses written reports of good and bad employee behavior.
+
+Critical incidents A method of performance appraisal in which the supervisor records employee behaviors that were observed on the job and rates the employee on the basis of that record.
+
+Critical judge A person who, when under stress,
+
+focuses on his or her negative aspects as well as those of the situation.
+
+Cross-functional teams Teams consisting of representatives from various departments (functions) within an organization.
+
+Cross-training Teaching employees how to perform tasks traditionally performed by other employees.

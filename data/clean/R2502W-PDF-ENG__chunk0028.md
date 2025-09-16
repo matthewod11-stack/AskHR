@@ -1,9 +1,23 @@
-# in their jobs.
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c0a8000c31951a984ff407a3f55f77e7f660620
+title: R2502W-PDF-ENG
+---
+## AI tools such as GitHub Copilot, Amazon CodeWhisperer, Replit, and
 
-We already see a pattern in early deployments of AI assistants: They bring low performers up to levels previously considered average and boost the capabilities of high performers.
+Cursor enable developers to outsource manual, lower-value tasks,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+including generating basic code, populating reference articles, and
 
-7
+suggesting unit tests to run. Developers can then focus on higher-value
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+tasks that require judgment and creativity, such as writing nuanced
+
+code, troubleshooting, and performing security analysis, all of which lead to greater eﬃciencies and a better ﬁnished product. Many studies
+
+have shown that developers using various AI coding tools are able to
+
+complete tasks 20% to 55% faster. Most developers also reported that
+
+they were able to focus on more-important work and felt more fulﬁlled

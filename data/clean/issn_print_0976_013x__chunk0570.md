@@ -1,17 +1,19 @@
-# tion
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: cccd1295278a3923d7a513461d90838d32d23957
+title: issn_print_0976_013x
+---
+# Experimenta
 
-Table 8 provides an overview of TCS and Infosys' mean and standard deviation scores on
+15.3871
 
-conformity and experimentation, respectively. There is no significant difference between TCS
+2.20117
 
-and Infosys on both conformity (0.254) and experimentation (0.668) as the P-value > 0.05.
+15.1290
 
-Pozzo et al. (2020) observe that since culture is social, cultural innovation is accessible.
+2.49989
 
-Cultural production should also facilitate technical and administrative innovation. Societies of
+0.431
 
-practice (Lave and Wegener, 1991) can influence cultural innovation and provide a fertile
-
-setting for testing various indicators. DARIAH's twenty-one working groups, managed by their
-
-59
+0.668

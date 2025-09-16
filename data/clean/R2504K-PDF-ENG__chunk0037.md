@@ -1,19 +1,23 @@
-## HBR / Magazine Article / How to Identify the Perfect Cofounder
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6de5a4f51ed1691b9d52b22e8fb99fb84c97f95e
+title: R2504K-PDF-ENG
+---
+# the partnership.
 
-bearing on key decisions such as how to raise capital, price your
+Have vulnerable conversations. One of the most popular sessions in
 
-product, manage expenses, and pay employees.
+my course at Harvard Business School is about people’s relationship
 
-It’s also important to talk about seminal experiences in past jobs or
+with money. Perspectives can vary dramatically and are often rooted in
 
-school that inform your attitudes about leadership, culture, and how
+deep family or personal experiences, sometimes dating back to early
 
-products are designed and built. While these conversations may feel
+childhood. How a potential partner feels about money has a direct
 
-uncomfortable, it’s a step toward building a solid working foundation
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-in what will be a roller coaster of a journey together. And these
+12
 
-conversations shouldn’t stop once you agree to be cofounders; they
-
-should continue throughout the life of your venture as each cofounder
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

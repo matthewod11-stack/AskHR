@@ -1,7 +1,33 @@
-# Prioritize clarity.
+---
+source_path: H07KV7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c87c51c047311f6d2fb744456920d11bdbe2cdf2
+title: H07KV7-PDF-ENG
+---
+# and empathy.
 
-Highly sensitive people are wired to look for danger. This vigilance was
+To eﬀectively lead and manage HSPs, managers need to shift their
 
-helpful in prehistoric days and can come in handy for identifying risks
+perspective and recognize that sensitivity is a natural variation in
 
-that threaten the team or business’s safety and security. But it can cause
+personality and not a ﬂaw. Rather than viewing sensitivity as a
+
+weakness, consider the strengths your sensitive employees bring to the
+
+table and how they could be applied. For example:
+
+- HSPs are skilled at spotting patterns, reading between the lines, and
+
+picking up on subtle cues, which makes them well-suited to identify
+
+opportunities or risks that others miss.
+
+- Because HSPs are attuned to others’ emotions and needs, they can
+
+be savvy persuaders, inﬂuencers, and negotiators as well as experts at
+
+fostering teamwork and camaraderie.
+
+- HSPs listen to multiple perspectives and ﬁnd common ground, which
+
+can be invaluable during conﬂict resolution.

@@ -1,11 +1,7 @@
-# Why Committees Fail
-
-Despite the many advantages that committees bring, decision-making
-
-groups are known to face several challenges in surfacing and processing
-
-information. At the core are cognitive, psychological, and social costs to
-
-sharing the information that is privately held by individual members of
-
-the committee. All these challenges stem from a common root: sharing
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f95845573377d387fa9e08db2efee338644dc199
+title: H08SUP-PDF-ENG
+---
+# collective intelligence.

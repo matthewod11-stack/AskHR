@@ -1,37 +1,23 @@
-# our careers more.
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5430b6cd3ecf72c36b5981775833ab2d3b95d7e
+title: H07STF-PDF-ENG
+---
+## HBR / Digital Article / How to Think Strategically About a Career Transition
 
-There’s four things that are contributing to this. We’re living longer and
+ADI IGNATIUS:
 
-longer, and as we live longer, we don’t want to have a long slide from
+I want to talk a lot about career transitions, but I want to give a little
 
-age 40, because we could easily be working another 40 years. We want to
+context ﬁrst, and I know your view is that this is an era of constant
 
-make the most of it. That’s one.
+career reinvention. Why do you think that’s so?
 
-Two is technology. I don’t have to say much about that, but it is
+HERMINIA IBARRA:
 
-changing everything. It is disrupting jobs. It is creating new jobs. It’s
+I’ve been studying career reinvention for over 20 years now. The ﬁrst
 
-allowing us to work from anywhere. It creates a very interesting context
+edition of Working Identity was 20 years ago, and the trends just keep
 
-for being able to reinvent yourself.
-
-The third one is our companies, organizations, our workplaces: they are
-
-constantly disrupted too. That creates opportunities, but also creates
-
-challenges. We’ve seen a huge wave of layoﬀs recently in the tech world
-
-for example. Now people in the ﬁnancial sector are struggling with high
-
-interest rates and what that means for their products, and the list goes
-
-on. We don’t stay in jobs as long as we used to, either by choice or by
-
-necessity as we are asked to leave them.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+accelerating. If anything, we are reinventing ourselves and reinventing

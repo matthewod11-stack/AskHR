@@ -1,9 +1,11 @@
-# Psychological Bulletin, 9, 264–269.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 445ad6f9f81aa118217c55f09219a00803aab0ed
+title: untitled
+---
+## tions? American Psychologist, 48, 553–571.
 
-Whipple, G. M. (1915). Psychology of testimony. Psychological
+Whipple, G. M. (1909). The observer as reporter: A survey of the “psychology of testimony.”Psychological Bulletin, 6, 153–170.
 
-Bulletin, 12, 221–224.
-
-Whipple, G. M. (1918). The obtaining of information: Psychology of observation and report. Psychological Bulletin, 15, 217–248.
-
-Wigmore, J. H. (1909). Professor Münsterberg and the psychology of testimony:BeingareportofthecaseofCokestonev.Münsterberg. Illinois Law Review, 3, 399–445.
+Whipple, G. M. (1912). Psychology of testimony and report.

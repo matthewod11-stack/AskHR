@@ -1,3 +1,15 @@
-## Programmed Instruction Using Books, Videos, or Interactive Video
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a4f40263413c19c165b2ed9d178b0a591d48047c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Most distance
 
-With this method, employees are provided with media materials for learning the content, as well as with a series of exams that measure what they have learned from them. If employees do not pass the test at the end of each unit, they must reread the material and retake the test until they pass. In this way, employees study at their own pace, and the exams ensure that employees understand the material. The training program used by Life of Virginia (Richmond) is a good exam- ple. One problem encountered by the company was that more than , sales agents were spread over  offices throughout the country. Thus, to conduct a training program that would be both effective and practical, Life of Virginia used sales experts to create seven training modules: marketing and asking for referrals, calling for appointments, interviews, preparing the insurance recommendation, presenting the recommendation, delivering the insurance policy, and periodic review. Each module contained a - to -page reading assignment, a written exercise on the reading, a videotape showing models performing the appropriate behaviors, a situational problem, and a series of questions to be answered by each insurance agent. Agents study at their own pace, taking between two and four weeks per module. This training program resulted in a % annual increase in sales and a % decrease in turnover.
+Second, each trainee is actively involved in the learning. This contrasts sharply with the lecture method, where the employee might sit through two hours of lecture without being actively involved. Think of your favorite classes: The instructor prob- ably allowed you to become involved and actually do things. (That is why some of the chapters in the text are so detailed. By making the text inclusive and complete, your instructor can spend class time on projects instead of straight lecture.)
+
+Finally, programmed instruction presents information in small units or chunks, because learning smaller amounts of material is easier than learning larger amounts. To demonstrate this point, think of the exam for this class. Would your score on the test be higher if you read and reviewed one chapter each week or if you waited until the night before the test to read five chapters? (The answer is obvious, and hope- fully you did not answer the question from experience!). A meta-analysis by Manson () concluded that programmed instruction can lead to improved performance at relatively low cost, and a meta-analysis by Allen, Mabry, Mattrey, Bourhis, Tits- worth, and Burrell () found that test scores for students in distance learning classes were no different than those earned by students in traditional courses.
+
+308
+
+chapter 

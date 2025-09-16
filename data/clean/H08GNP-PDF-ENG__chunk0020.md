@@ -1,17 +1,15 @@
-# prevalence of abusive leader behavior?
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f04d6f7d54d690421634d0e4f11f1a05ed71b822
+title: H08GNP-PDF-ENG
+---
+## Reducing the Prevalence of Abusive Behavior
 
-We suggest leaders like Pat must either consistently eliminate all future
+The key message is clear: Ethical leadership cannot shield employees
 
-instances of abusive behavior or reconsider the beneﬁts of trying
+from the negative impacts of manager or supervisor abuse. If anything,
 
-to “restore” their image after cyclic acts of abuse. Leaders should
+it may only make things worse. Given these ﬁndings, what might
 
-recognize that attempts to “make up” for past negative behavior by
-
-“doing good” — unless they eliminate future acts of abuse completely
-
-— can backﬁre, exacerbating the situation rather than ameliorating it.
-
-For leaders, consistency in positive and fair leadership behaviors is
-
-the only way to go. As unfair leadership behaviors often stem from
+leaders, organizations, and employees consider doing to reduce the

@@ -1,5 +1,7 @@
-## Figure 1.1 Comparison of MBA and I/O Master’s Degree Coursework
-
-I/O psychology relies extensively on research, quantitative methods, and test- ing techniques. I/O psychologists are trained to use empirical data and statistics rather than clinical judgment to make decisions. I/O psychologists are not clinical psychologists who happen to be in industry, and they do not conduct therapy for workers. There are psychologists who work for organizations and help employees with such problems as drug and alcohol abuse, but these are counselors rather than I/O psychologists. A factor that helps differentiate I/O psychology from other fields of psychology is the reliance on the scientist-practitioner model. That is, I/O psychologists act as scientists when they conduct research and as practi- tioners when they work with actual organizations. In addition, I/O psychologists act as scientist-practitioners when they apply research findings so that the work they perform with organizations will be of high quality and enhance an organiza- tion’s effectiveness.
-
-One reason that I/O psychology continually increases in popularity is that, perhaps more than any other field, professionals in the field can have a positive impact on the lives of other people. To support this last statement, let us look at a typical day in the life of a typical person:
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7a363861468a88c5b37ff1624a70db2144455b80
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Managerial Accounting

@@ -1,25 +1,9 @@
-# ADVANCES IN GOALTHEORY
+---
+source_path: untitled_1.md
+pages: n/a-n/a
+chunk_id: 4a76f69b44c077b00d29c83f610a2169e9092def
+title: untitled_1
+---
+# Goal-Setting Theory
 
-constant), people who were made to view a situation as a threat (focus on failure) achieved signiﬁcantly lower performance than did those who were made to view the situation as a challenge (focus on success and the usefulness of effort).
-
-We note eight categories of studies that have moved goal theory forward. (There is no logical order in the sections that follow.)
-
-Goal Choice Previous research on goal choice showed that self-efﬁcacy, past performance, and various social inﬂuences affect the level at whichgoalsareset.Enlargingonthisworkandmovingitintothe realm of sports, Donovan and Williams (2003) found that track- and-ﬁeld athletes had two sets of goals, one for the season and one for the next competition. The athletes created discrepancies between past performance and future goals by setting their current season goals higher than their best previous perfor- mance. When large negative goal–performance discrepancies occurred in the current season, goals for the season were low- ered. However, goals for the next competition were typically raised in order to compensate for lower-than-desired seasonal progress.Therewasmoregoalrevisionifathletes attributedpast performance to unstable causes, such as effort, than if they attributed it to stable causes, such as ability.
-
-Learning Goals Sometimes speciﬁc, difﬁcult goals do not lead to better perfor- mance than simply urging people to do their best (Seijts & Latham, 2001). Focusing on reaching a speciﬁc performance outcome on a new, complex task can lead to ‘‘tunnel vision’’— a focus on reaching the goal rather than on acquiring the skills required to reach it. In such cases, the best results are attained if a learning goal is assigned—that is, a goal to acquire the requisite task knowledge. Latham and Brown (in press), for example, found that entering MBA students who set speciﬁc difﬁcult learning goals (e.g., learn to network, master speciﬁc course subject matter) subsequently had higher GPAs and higher satisfaction with their MBA program than did people who simply set a distal (long-term or end) performance goal for GPA at the end of the academic year. We believe that a learning goal facilitates or enhances metacognition—namely, planning, monitoring, and evaluating progress toward goal attainment. Metacognition is particularly necessary in environments in which there is minimal structure or guidance.
-
-Affect A 3-year study of people in managerial and professional jobs in Germany revealed that only those adults who perceived their goals as difﬁcult to attain reported a change in affect. Goal progress and goal importance were strong predictors of feelings of success and well-being. Among the most interesting ﬁndings wasthatlackofgoalattainmentinone’spersonal lifewasrelated to greater general well-being when the person experienced goal progress on the job. Evidently, success in one realm compen- sated for failure in the other (Wiese & Freund, 2005).
-
-Group Goals Goal setting is effective with groups too. However, groups add a layer of complexity because goal conﬂicts may occur among the group’s members. Seijts and Latham (2000) examined the effects of conﬂict versus no conﬂict between an individual’s and a group’s goals. In a laboratory task involving monetary incentives, they found no main effect for goal setting. However, havinghighpersonalgoalsthatwerecompatible withthegroup’s goal enhanced group performance, whereas having personal goals that were incompatible with the group’s goal had a detri- mental effect on how well the group performed.
-
-Another added feature of setting goals in groups is that task- relevant information may be shared among group members. In anunpublishedstudy,Lockeandhiscolleaguesfoundthatdyads that share information perform better on a complex management simulation than do dyads who share less. The sharing effect is enhanced if the people in the dyads have high goals.
-
-DeShon, Kozlowski, Schmidt, Milner, and Wiechmann (2004) were the ﬁrst to compare goal effects on individuals versus on groups. On a radar-tracking simulation, the effect of individual goals on performance was fully mediated by task strategy and individualeffort.Group-levelgoaleffectsweremediatedonlyby team-relatedeffort.Feedbacktoindividualsledtoafocusonthe individual’s performance, whereas feedback to the team led to a focus on the team’s performance.
-
-Framing Assigning hard goals may not be effective when people view thosegoals as threatening. The concept of framing is well known in psychology, and one type of framing is in terms of gain versus loss. Whether a person appraises a high goal as a challenge versusathreatmakesadifference forthat person’sperformance. Drach-Zahavy and Erez (2002) found that, when a task was altered to pose new challenges (but with goal difﬁculty held
-
-Goals and Traits The effects of goal setting as a state on the effects of goal orientation as a trait were studied by Seijts, Latham, Tasa, and Latham (2004). People with a learning goal orientation tend to choose tasks in which they can acquire knowledge and skill. Those with a performance goal orientation tend to avoid tasks where others may judge them unfavorably due to possible errors they might make. Hence they tend to choose easy tasks in which theycanlookgoodintheeyesofothers. Seijtsetal.(2004)found that a speciﬁc high learning goal (state orientation) is effective in increasing a person’s performance regardless of their trait
-
-266
-
-Volume 15—Number 5
+is an ‘‘open’’ theory in that new elements are added as new discoveries are made.

@@ -1,7 +1,15 @@
-# @skgreen
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d83a5064d42560b7c48a724a534fe9d678341a1
+title: H0477B-PDF-ENG
+---
+## our executive committee,” Erin Grau, VP of Operations at the New York
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+Times, told Fairygodboss in an interview, “But it was worth it.”
 
-6
+After all, as Bethell puts it, “You’re talking about a benefit that everyone
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+needs, regardless of what job they have.”
+
+Sarah Green Carmichael is a former executive editor at Harvard Business Review.

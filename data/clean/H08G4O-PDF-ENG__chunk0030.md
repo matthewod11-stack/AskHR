@@ -1,7 +1,13 @@
-# updates.”
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59ced5200cf2a93b38bb0b4f48b1787c9d530a3c
+title: H08G4O-PDF-ENG
+---
+## investors and boards; by comparison more than a third of non-founders
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+excelled in this area. “Some founders only tell you about their week and
 
-7
+forget about the long-term plan,” one board member shared. “Others
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+only talk about the long-term things and give you tactical progress

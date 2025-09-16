@@ -1,9 +1,7 @@
-## Durham v. United States, 214 F.2d 862 (1954).
-
-Elliott, R. (1991a). Social science data and the APA: The Lockhart brief as a case in point. Law and Human Behavior, 15, 59–76.
-
-Elliott, R. (1991b). Response to Ellsworth. Law and Human Behav-
-
-ior, 15, 91–94.
-
-Ellsworth, P. C. (1991). To tell what we know or wait for Godot.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fd43f2966d7c62985d7f5c6951885b9fe91b7b3f
+title: untitled
+---
+## Davis v. United States, 165 U.S. 373 (1897).

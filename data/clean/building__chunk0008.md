@@ -1,11 +1,11 @@
-# PROCESS
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: c056b974797f5eb60587960a9ca8de9f2ea6e222
+title: building
+---
+# PEOPLE
 
-Pilot selection and design Avoid the temptation, or external pressure, to tackle the biggest opportunities first. An ideal pilot strikes a balance: significant
+Executive alignment and sponsorship Get executive buy-in by articulating a strategic vision that ties AI initiatives to business outcomes. Clearly articulate the role Generative AI will play in organizational productivity, growth, and success. Plan for ongoing leadership engagement beyond the initial approval and provide realistic guidance around timelines and impact.
 
-4
-
-enough to demonstrate real value, yet contained enough to deliver results quickly. Consider use cases with enthusiastic business sponsors, clear data availability, and manageable compliance requirements.
-
-When identifying pilot opportunities, think about friction points that could be addressed with AI, and capitalize on inertia within the organization while encouraging rapid iteration and experimentation. That will enable a central foundation from which teams can continue to scale the adoption of AI across processes and tools.
-
-Common use cases include:
+Governance and oversight Governance shouldn’t be an afterthought. Establish an AI review board, define ethical guidelines, and create transparent processes for model evaluation and incident response. The goal is to build trust while maintaining momentum.

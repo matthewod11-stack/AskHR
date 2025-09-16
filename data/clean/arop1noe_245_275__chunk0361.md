@@ -1,7 +1,9 @@
-## motivation and workplace learning. Acad. Manag. Ann. 4:279–315
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: f0b285903a4c5a642112ca704c7a2424c55bb16a
+title: arop1noe_245_275
+---
+## human capital. J. Appl. Psychol. 95:696–712
 
-Noe RA, Tews MJ, Marand A. 2013. Individual differences and informal learning in the workplace. J. Vocat.
-
-Behav. 83:327–35
-
-Nonaka I. 1994. A dynamic theory of organizational knowledge creation. Organ. Sci. 5:14–37 Nonaka I, Takeuchi H. 1995. The Knowledge Creating Company. New York: Oxford Univ. Press Orvis KA, Leffler GP. 2011. Individual and contextual factors: an interactionist approach to understanding
+NoeRA, TewsMJ, DachnerA. 2010.Learner engagement: anew perspectiveforourunderstanding of learner

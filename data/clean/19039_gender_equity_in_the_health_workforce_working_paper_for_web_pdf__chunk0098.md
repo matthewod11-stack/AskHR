@@ -1,25 +1,23 @@
-# Considerations for policy
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: 43be5e88523e357364d085a3f82732dfd2766fd2
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+## Data on the share of health workforce by sector (public
 
-Women represent around 70% of the health workforce,
+or private) indicate that for highly paid occupations, such
 
-but earn on average 28% less than men. Occupational
+as physicians, men are more frequently employed in the
 
-segregation (10%) and working hours (7%) can explain most
+private sector than women (49.2% vs 39.2% respectively, P < 0.001). However, the contrary is the case for low paid jobs, such as personal care workers, where women are more
 
-of this gap, but even when considering “equal work” an
+frequently employed by the private sector (53.0% vs 81.8% for men and women respectively, P < 0.001). This contrast illustrates a gender imbalance, with men more likely to
 
-“equal pay” gap of 11% remains. The trend of increasing
+obtain private sector jobs in occupations where public sector
 
-participation of women in highly paid occupations is
+wage ceilings often exist, whereas women are more likely to
 
-predicted to narrow this gap by 4% in the coming 20 years.
+obtain lower paid private sector jobs, which tend to offer less
 
-There is a window for policy to harness this momentum and
-
-take concrete action to accelerate participation of women in
-
-highly skilled health occupations. To achieve equal pay for
-
-equal work, the 11% gap needs to be addressed. In line with
-
-ILO’s Convention No. 100 (Equal Remuneration), ratified by
+job security and favour part-time employment.

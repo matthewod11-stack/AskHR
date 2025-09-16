@@ -1,19 +1,23 @@
-# much.
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5306b5107753ad45b33c4c7306759fe075310d8d
+title: H08AAA-PDF-ENG
+---
+# HBR / Digital Article / 3 Ways to Build a Culture That Lets High Performers Thrive
 
-To make skill development easy, schedule a quarterly skill-check
+For example, imagine how Élodie would react if her leader had the
 
-meeting with each of your direct reports. During a one-hour
+time to help her work through her burnout in regularly scheduled
 
-conversation, help your direct report reﬂect on their current skill goals
+development conversations. Perhaps Élodie has been struggling to
 
-and, if they don’t yet have any or have hit them all, pick a new one.
+generate good ideas from her team, and so she has been playing
 
-Doing so will shift the culture changes from one where “squeaky
+“hero,” coming up with all the solutions and implementing many on
 
-wheels” and underperformers get feedback, and instead, leaders have
+her own. A skilled, devoted mentor might help Élodie work on the skill
 
-forward-looking conversations to build up their high performers like
+of structuring problems so others can solve them, and by this time next
 
-Élodie. High performers will take skill-based advice and run with it,
-
-allowing them to grow in place, instead of jumping to a new job. Loyalty
+quarter, Élodie might not have to put the team on her back quite as

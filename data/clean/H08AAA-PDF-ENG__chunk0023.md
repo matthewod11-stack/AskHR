@@ -1,7 +1,11 @@
-## your organization a standout in your industry.
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9fd652def65cb9189a8b73378f358a621906e83
+title: H08AAA-PDF-ENG
+---
+# motivation.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+If you can build a high-performer obsessed culture, not only will you
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+retain your top talent, you will also elevate every colleague and make

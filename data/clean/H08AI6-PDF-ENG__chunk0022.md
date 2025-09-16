@@ -1,19 +1,37 @@
-# work.
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b74118916a57731a5b57830c6492c507f4eb5926
+title: H08AI6-PDF-ENG
+---
+# HBR / Digital Article / Research: How Family Motivates People to Do Their Best Work
 
-These examples also illustrate a potential risk that organizations could
+in the Mexican factory found that employees with higher levels of
 
-take advantage of family motivation, if they know employees rely on the
+family motivation reported being more stressed at work. Further
 
-work to support their families and will therefore stay in bad working
+demonstrating the increased stress associated with family motivation,
 
-conditions or work themselves to exhaustion. In fact, organizations have
+one employee interviewed in the study on lower- and higher-income
 
-a particular responsibility to support employees who have care duties,
+employees in China said, “Supporting family makes me feel pressured,
 
-as they are at risk of burning the candle at both ends, giving their best at
+so I try my best to be careful at work and avoid errors.” As one South
 
-work and then returning home for the “second shift.”
+Asian employee put it in the interviews, “When you have to work for
 
-The onus is on organizations to mitigate the potential downsides of
+your family, you do not want to lose a good job whether it is [in]
 
-the pressure family motivation creates, ﬁrst and foremost by oﬀering
+your [best] interest or not. You try to keep a good relationship and
+
+avoid anything which is against the rules, regulations, or culture.” As
+
+these quotes illustrate, family motivation may also prompt employees
+
+to be more risk-averse, as they feel the pressure to maintain their
+
+employment to support their family. For instance, the study with lower-
+
+and higher-income Chinese employees found that employees who were
+
+higher in family motivation tended to show less creative behavior at

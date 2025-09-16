@@ -1,11 +1,25 @@
-# partners in almost real-time.”
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f68d485fba737ce55bb3da0b22b732264d11f903
+title: H08GUL-PDF-ENG
+---
+# attractiveness in the ﬁrst round.
 
-Results: After a period, the AI-4-VC replaced some of the junior
+According to Josef, the tool was developed through a combination of
 
-analysts and minimized the time spent on low-ﬁt applications. This
+machine learning (speciﬁcally, a “random forest” algorithm that uses
 
-assisted Bavaria Ventures to respond faster to the applications from
+decision trees to make predictions) and deep learning in the form of
 
-startups with the most promising potential. They also discovered that
+natural language processing.He explained how it works. “The solution
 
-their AI-4-VC solution was accurate even with relatively small-size
+ranks applications according to their ﬁt with what we’re looking for. A
+
+senior analyst periodically reviews the results to see if he or she wishes
+
+to overrule the algorithm. If the senior analyst does, then this is taken
+
+in by the algorithm and the weighting of criteria is adjusted. The expert
+
+system implements any change in preferences among the managing

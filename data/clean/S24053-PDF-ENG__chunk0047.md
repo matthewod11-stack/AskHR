@@ -1,17 +1,25 @@
-# stage for collaboration.
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65ce4ad65380b4ab66a2222167d4bc4e236bb46a
+title: S24053-PDF-ENG
+---
+# evidence of factions.
 
-- 4. Maintain momentum. Mapping out and embarking on the journey
+- 3. Map the journey and begin. Next, plan your team’s journey to new
 
-are easy compared with sustaining it. Many teams quickly align around
+collective behaviors. You can’t outsource this work to HR or anybody
 
-priorities, convene for a launch event, and make plans for future
+else. Begin by asking: “How do we need to work together as a team to
 
-meetings—but then fail to follow through. Some call this “the boom
+help others achieve our strategy?” Start with the business goals that you
 
-splat.” When it happens, ﬁrms often rationalize their inaction, insisting
+and your team have set for the ﬁrm, and then use the results from your team-eﬀectiveness diagnostic to identify which gaps most aﬀect their
 
-that other work simply became more important. But maintaining
+execution. For example, if you’re launching a multiyear transformation,
 
-momentum—and correcting course when necessary—is critical to
+it will be crucial to address deﬁciencies in the team’s dynamism that
 
-changing behavior and making it stick.
+might hold back change. If you’re a new team formed after a merger,
+
+start by clarifying each member’s role to establish discipline and set the

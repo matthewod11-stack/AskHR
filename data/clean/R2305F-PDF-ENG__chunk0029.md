@@ -1,55 +1,27 @@
-## HBR / Magazine Article / When Diversity Meets Feedback
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 10e76e840bfe672ab3b88db62865fd9ec0f53552
+title: R2305F-PDF-ENG
+---
+## comment on the negative aspects at all; the
 
-week.” He wouldn’t need to say, “The examples from this morning’s
+Thai employees would understand that he
 
-presentation were not very good.” It would be implied clearly enough.
+Walter Chandoha was the most pro- lific feline photographer of the 20th century. Over a career spanning sev- en decades, he produced more than 225,000 photographs of animals, including approximately 90,000 of cats.
 
-Jethro learned the same lesson Olga did: “I saw clearly that what
+was not happy with what he hadn’t
 
-is normal and appropriate feedback in my culture may come oﬀ as
+mentioned. For example, when
 
-completely inappropriate somewhere else,” he reﬂects.
+commenting on a presentation he’d just
 
-One way to gauge what feedback works best in another culture is
+seen, he might say, “I especially liked the
 
-to listen carefully to the words chosen by your counterparts. People
-
-from more-direct cultures tend to use what linguists call “upgraders”
-
-when providing criticism. These are words that make criticism feel
-
-stronger—like “absolutely,” totally,” or “completely.” For example, “This
-
-is absolutely inappropriate” or “This is totally unprofessional.” By
-
-contrast, more-indirect cultures use more “downgraders” when giving
-
-negative feedback. These are words that soften the criticism, such as
-
-“kind of,” “a little,” and “maybe.”
-
-Another type of downgrader is a deliberate understatement—for
-
-example, saying, “We are not quite there yet,” when you really mean
-
-“This is nowhere close to complete,” or saying, “This is just my opinion,”
-
-when you really mean “I’m certain this is obvious to everyone.”
-
-With a little awareness you can notice when you’re using upgraders
-
-and downgraders and when those around you are and make slight
-
-adjustments to get the desired results. When it comes to providing
-
-feedback internationally, the message is not “Do unto others as you
-
-would have them do unto you” but “Do unto others as they would have
-
-done unto themselves.”
+examples you gave in the presentation last
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-9
+8
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

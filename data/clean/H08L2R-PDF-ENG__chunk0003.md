@@ -1,3 +1,27 @@
-## HBR / Digital Article / How AI Can Help Managers Think Through Problems
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 881bbdcc41cd7442f1f8f2f0273a4c97ce96547d
+title: H08L2R-PDF-ENG
+---
+# Illustration by Kiki Ljung
 
-30% of managers report that they have the skills and knowledge to use
+With organizations gaining wider access to conversational gen AI
+
+models, many managers now understand that the technology can go far
+
+beyond simple productivity tasks. Two-thirds of managers now believe
+
+that gen AI has the potential to be their thought partner, providing fresh
+
+perspectives, weighing pros and cons, evaluating trade-oﬀs, enhancing
+
+strategic thinking, and supporting leadership development. But while
+
+expectations for the future are high, there is a long way to go. Today only
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

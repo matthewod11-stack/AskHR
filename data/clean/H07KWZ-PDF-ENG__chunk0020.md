@@ -1,13 +1,9 @@
-# negotiation or auction.
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7047022e7cf1b222e92d017d86322ef096ac990c
+title: H07KWZ-PDF-ENG
+---
+## about the dangers of competitive arousal, a psychological phenomenon
 
-Negotiators experiencing competitive arousal tend to make aggressive
-
-demands and extreme oﬀers, and to become overly defensive or argumentative. This can escalate conﬂict and make it diﬃcult to reach
-
-mutually beneﬁcial agreements. It can also lead negotiators to make
-
-irrational oﬀers, as was likely the case for the Roy siblings. The desire to
-
-win becomes more important than making sound decisions. Thus, the
-
-well-known insight about M&A competitions: Buyers often overbid and
+that occurs when negotiators experience strong emotions during a

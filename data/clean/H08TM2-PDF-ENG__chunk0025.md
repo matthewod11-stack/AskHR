@@ -1,0 +1,15 @@
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: daa154bcb0c92152a30fcd369cb0bf7d18d21156
+title: H08TM2-PDF-ENG
+---
+## HBR / Digital Article / Leading After Your Predecessor Fails
+
+Darcy Eikenberg, PCC, works with executive leaders to help their teams collaborate more, communicate better, and make conﬁdent decisions amid increasing uncertainty. She’s a former partner at global HR consulting ﬁrm Hewitt Associates (now part of Aon), and serves as an executive coach and leadership team facilitator for clients such as Mondelẽz International, PwC, Workday, UCB, Discover and more. She’s the author of Red Cape Rescue: Save Your Career Without Leaving Your Job. Connect with her on Linkedin here.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

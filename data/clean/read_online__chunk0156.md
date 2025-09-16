@@ -1,5 +1,7 @@
-# WLB, Work-life balance conflict.
-
-FIGURE 5: Engagement as a moderator on the work-life balance–turnover intentions relationship (two-way interaction).
-
-TABLE 4: Mediation results – total and indirect effects of Hypothesis 2. Standard error Variable
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: f7e40f81b2a87843134eb65bea62b4953653748d
+title: read_online
+---
+# Work-life balance conﬂict level

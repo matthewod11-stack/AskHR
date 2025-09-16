@@ -1,23 +1,27 @@
-## HBR / Digital Article / What High Achievers Need from Their Mentors
+---
+source_path: H08BHS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56c8b9934fd1cf08d6a50d9c3da2f3dca988b02f
+title: H08BHS-PDF-ENG
+---
+## Jon Feingersh Photography Inc/Getty Images
 
-High achievers, while accustomed to success, still face failures and
+Mentoring high achievers can be one of the most rewarding yet
 
-setbacks. Their resilience can be tested if they encounter rejection
+challenging aspects of leadership. These individuals have already
 
-infrequently, making their conﬁdence armor a bit thin. It may take
+achieved signiﬁcant success, possess a wealth of experience, and have a
 
-them a bit more time and eﬀort to brush oﬀ the rejection, and they
+steady track record of accomplishments. But even the best-performing
 
-need someone with greater perspective to help them see outside the
+individuals need guidance to avoid complacency, continue growing,
 
-immediate situation and realize that failure is not the end of the world.
+and reach new heights. What do high achievers need to ensure they
 
-Helping them navigate through these bumps without wallowing in self-
+keep advancing? Mentorship catered to their precise needs.
 
-pity is critical. They need mentors who can provide them with tools
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-to navigate these challenges, turning them into learning opportunities.
+1
 
-Eﬀective mentoring can help high achievers avoid stagnation, discover
-
-new passions, and expand their inﬂuence, ultimately creating a culture
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

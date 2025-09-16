@@ -1,25 +1,23 @@
-### **[The paradigm shift in leading]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: fc205b56c2b9b6c734e87fd49c1defced0cb75cf
+title: Gibbons
+---
+## **[Geoff Gibbins]{.underline}** 
 
-[In 1995, Andy Grove, Intel\'s legendary CEO, stood before his
-leadership team with an uncomfortable message. The company that
-dominated memory chips was being decimated by Japanese competitors.
-Grove posed a simple question: \"If we got kicked out and the board
-brought in a new CEO, what do you think he would do?\" The answer was
-obvious --- exit memory chips and focus on microprocessors. Grove\'s
-insight wasn\'t about the technology. It was recognizing that everything
-Intel\'s leaders believed about their business --- their entire mental
-model of success --- had become obsolete.]{.underline}
+[Human-AI expert \| Managing Director at BOI \| Author]{.underline}
 
-[Grove called these moments \"strategic inflection points\" --- times
-when the fundamentals of a business shift so profoundly that the old
-rules no longer apply. Leaders who recognize these moments early enough
-can transform. Those who don\'t become case studies in business
-schools.]{.underline}
+[August 26, 2025]{.underline}
 
-[We\'re living through such a moment now, but it\'s not confined to a
-single company or industry. AI is creating a strategic inflection point
-for the very nature of leadership itself. Every leader is now leading in
-the age of AI, whether they\'re actively using AI or not. The technology
-is reshaping customer expectations, competitive dynamics, and the very
-nature of work. You can choose not to use AI, but you can\'t choose to
-lead in a world unaffected by it.]{.underline}
+[AI isn\'t just changing how we use technology, it\'s rewriting what
+leadership means.]{.underline}
+
+[Research reveals that 70% of AI transformation success depends on
+people and process competencies, not technical capabilities. Yet most
+executives are still leading with a playbook written for a pre-AI world.
+This isn\'t about adding AI to your toolkit or becoming an expert prompt
+engineer for a tool that will become obsolete in 6 months --- it\'s
+about becoming a leader that navigates paradox, manages human potential
+in new ways, and creates meaning in an age of artificial
+intelligence.]{.underline}

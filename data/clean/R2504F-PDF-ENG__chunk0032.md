@@ -1,11 +1,17 @@
-## to senior-care specialists who can research care options and issues on
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b54ce45e47064511f894c1c68a10a2f0ebebbbf
+title: R2504F-PDF-ENG
+---
+## beneﬁts speciﬁcally for elder caregivers.
 
-employees’ behalf; care managers who visit caregivers and recipients,
+Bank of America, for instance, provides beneﬁts to support employees
 
-at home or in-facility, to assess their needs; backup eldercare for up
+across all stages of life, with the goal of enabling productivity, increasing
 
-to 50 days a year, with a modest employee co-pay; and legal services
+engagement, and encouraging lengthy careers. The company’s support
 
-related to eldercare. For caregivers’ emotional wellness, the company
+for eldercare has been evolving since 2010, and today its eldercare
 
-has created an employee assistance program, which oﬀers workers
+beneﬁts include information resources and referrals, such as access

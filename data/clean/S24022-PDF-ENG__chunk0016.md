@@ -1,37 +1,17 @@
-## HBR / Spotlight Article / Create a System to Grow Consistently
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fde1a4c8f09dc069a3c29dc679a503c999a33de2
+title: S24022-PDF-ENG
+---
+## such as self-service check-out kiosks and loyalty-program-management
 
-build engagement. By designing its growth system around a needed,
+technology that makes it easy for restaurants to design customer
 
-diﬀerentiated solution for restaurants, Toast has carved out a strong position in a crowded market and has made it extremely diﬃcult for
-
-generic payment-solution providers to encroach on its turf.
-
-Architect the right capabilities. Growth champions create highly
-
-speciﬁc blueprints that detail how all the capabilities of their growth
-
-system work together to create products, solutions, and services that
-
-deliver the desired customer outcomes. These blueprints are much like
-
-those for complex buildings, specifying all the resources, technology,
-
-data, and processes required to do the work. Growth champions
-
-invest heavily in these capabilities, taking resources from other places
-
-as necessary. They also rely on their ecosystem business partners
-
-to help build out key elements of the blueprint. These companies
-
-spend a signiﬁcant amount of executive energy on the design and
-
-implementation of this system; it is what deﬁnes the organization,
-
-rather than the products and services that come and go.
+reward programs and launch targeted email-marketing campaigns to
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

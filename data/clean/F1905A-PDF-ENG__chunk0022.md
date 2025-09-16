@@ -1,1 +1,11 @@
-# 4 Harvard Business Review
+---
+source_path: F1905A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89065152ebe17a93e539c0207ce95ac231926917
+title: F1905A-PDF-ENG
+---
+## “People Are Trying to Figure Out How to Respond”
+
+In 2015 the Canadian Armed Forces launched Operation HONOUR, aimed at preventing sexual misconduct and assault among military personnel. As part of that effort Denise Preston, a psychologist who has worked with victims and imprisoned sex offenders, was hired in 2017 as the executive director of the Sexual Misconduct Response Centre, which operates outside the military chain of command to support victims of sexual misconduct and lead prevention efforts. She spoke with HBR about the center’s work. Edited excerpts follow.
+
+Do you agree with one of the ﬁndings of this research— that most men and women understand what constitutes sexual harassment even though the behavior persists?  When you ask most people about sexual harassment, sexual assault, or issues around consent, they understand on a conceptual level when something is wrong. But they don’t see it so clearly when it’s their own behavior. On a theoretical

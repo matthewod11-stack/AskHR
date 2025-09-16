@@ -1,1 +1,9 @@
-# Clinico-anatomic method, 318 Cognition:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fbde0be553936003154a11900366a8962663732b
+title: untitled
+---
+# Subject Index
+
+Classical world before Plato (cognition), 110–111 Classiﬁcation, 305–306, 315–316, 328–329 Clinical forensic evaluations, 407 Clinical problems frequently presented in therapy (ethnic minorities), 502 Clinical psychology, 337–355 future trends, 352–353 “nurturing zeitgeist,” 345–347 organizational struggles, 344–345 origins of, 32–33, 338–339 professional developments, 35–37, 347–348 school psychology and, 416 scientiﬁc art (vs. artistic science), 339–340, 341 “sustaining zeitgeist,” 341–344 training models, 344–345 treatment interventions, 348–352

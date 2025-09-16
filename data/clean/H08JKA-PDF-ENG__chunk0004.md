@@ -1,11 +1,9 @@
-# needs.
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6044b1736117488e1c1163aeb3927023131b022a
+title: H08JKA-PDF-ENG
+---
+# HBR / Digital Article / Connect Your Learning Programs to Your Company’s Strategy
 
-But a series of recent interviews I conducted with 25 chief learning
-
-oﬃcers (CLOs) suggests a disconnect: Almost half of them said they felt
-
-only “somewhat connected” to their CEO’s top priorities. This aligns
-
-with a recent report from LinkedIn that found that only 58% of learning
-
-and development professionals feel as though they have a “seat at the
+organizational strategy and upskill employees to align with future

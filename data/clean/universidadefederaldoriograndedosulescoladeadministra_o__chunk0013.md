@@ -1,7 +1,13 @@
-## tanto, utiliza-se da metodologia de pergunta única: a recomendação da empresa
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: cf9344746492b82382e51c6744ef22684a338535
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## psicometria. O eNPS surge, então, como uma métrica capaz de refletir estes
 
-como um bom lugar para se trabalhar para outras pessoas em seus círculos
+aspectos, mantendo-se objetivo e ágil. O eNPS ou Employee Net Promoter Score é
 
-pessoal, social e profissional. Este trabalho busca descrever a aplicação prática
+uma métrica originária do marketing, adaptada e incorporada pela área de recursos
 
-desta metodologia numa empresa real. Para tanto, utiliza-se de estudo de caso, com
+humanos para medir o nível de satisfação e engajamento dos funcionários. Para

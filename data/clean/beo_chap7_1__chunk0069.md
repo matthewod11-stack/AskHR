@@ -1,29 +1,33 @@
-# own.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 53ca36efaba41d9986a777e3f401a265b83c6361
+title: beo_chap7_1
+---
+## effect of the U.S. Securities and Exchange Commission (SEC) regulatory changes
 
-Social comparison may also affect the boundaries of the firm. If people natu-
+in 1992 on CEO pay which required “company compensation committees to
 
-rally compare their own wages to those who work in the same firm, then one of
+describe company pay practices and justify in detail how they determined the pay
 
-the economic effects of a merger is a shift in the comparison sets of workers in
+of the chief executive officer....” Presumably the SEC thought that by requir-
 
-the newly merged company. Some workers will now be underpaid relative to their
+ing clearer disclosure of what CEOs earned, and how earnings were linked to
 
-new colleagues. This creates turnover or influence costs, and those costs should be
+past performance, embarrassment would rein in high payouts unjustified by per-
 
-10Hall and Murphy (2003) wrote: “Although the new rules made option grants significantly more
+formance, and might link compensation more closely to performance. But in
 
-transparent—~which would lead companies to grant fewer options to the extent that options are used to
+a world where executives hate being paid less than a peer they think is less
 
-‘hide’ compensation—we believe that the rules on net encouraged increased grants” (our italics). They
+deserving, and their perceptions are self-servingly biased, disclosing wages leads
 
-note that the growth in option pay was already underway in the 1980s and conclude, “the new rule
+to a ratchet effect: information which tells CEOs they are being paid less than
 
-constituted an implicit government ‘blessing’ of stock options as appropriate performance-based pay,
+others can drive all wages up.!° Similarly, Belliveau et al. (1996) found that
 
-and this implicit endorsement may have further fueled the escalation of options” (Hall and Murphy 2003,
+CEO pay was more closely correlated with earnings of members of the board’s
 
-p. 62). The subsequent growth of option-based packages is also consistent with the idea that self-serving
+compensation committee than to pay of other board members. One explanation
 
-comparison fueled growth in options grants.
-
-249
+is that compensation committee members compare the CEO’s pay with their

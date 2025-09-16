@@ -1,27 +1,17 @@
-## Shohei Elementary School, Tokyo James Mollison
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d65c041e7851cb2e275848b655c2d46498b76a2a
+title: R2503K-PDF-ENG
+---
+## HBR / Magazine Article / Leading Global Teams Effectively
 
-Team members, regardless of culture or personality, want leaders
+trust. People already know when something has gone awry. Many team
 
-to be clear. In fact, in the GLOBE Leadership Studies, “clarity” was
+members from collectivist cultures would rather see their leader address
 
-rankedas one of the highest priorities that global employees want from
+the issue quietly and restore trust through actions rather than words.
 
-leaders. One eﬀective strategy is to build trust gradually by gauging
+Owning mistakes is important, but the way leaders communicate about
 
-team members’ receptivity and modulating the level of disclosure
-
-accordingly. For cultures or individuals who may ﬁnd too much
-
-disclosure unsettling, start slowly and build trust through consistency,
-
-incremental sharing, and demonstrated competence. In some cases,
-
-sensitive information is better communicated through a third party
-
-rather than directly from the leader. Some senior leaders task their
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+them needs to reﬂect the cultural diﬀerences on the team.

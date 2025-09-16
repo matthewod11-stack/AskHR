@@ -1,27 +1,33 @@
-# Education (0=high education)
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 3669db5336852a5253c36049ec04b7a469bd3f3a
+title: file_1
+---
+# Age
 
-.036
+.084
 
-.821
+2.040*
 
-1.342
+1.182
 
-.002
+.119
 
-.044
+2.885**
 
-1.340
+1.182
 
-Living area(0=rural areas)
+Marital status (0=unmarried, divorced, separated, and widowed)
 
-- .040
+- .028
 
-- 1.019
+- .697
 
-1.067
+1.086
 
-- .014
+.018
 
-- .360
+.455
 
-1.067
+1.086

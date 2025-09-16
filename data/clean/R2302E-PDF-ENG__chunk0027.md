@@ -1,11 +1,27 @@
-## to share their experiences and propose solutions to problems. At the
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6191e72877235282f680327972a83de896696729
+title: R2302E-PDF-ENG
+---
+## HBR / Magazine Article / You Need Two Leadership Gears
 
-debrieﬁngs Lombardo listened to what all attendees had to say and
+which overwhelmed its capacity in terms of beds and staﬀ time.
 
-thanked them for their input, and their ideas were considered seriously.
+Making matters worse, it took days to process the tests for diagnosing
 
-The approach worked: Patients received the care they needed despite
+the virus. The hospital’s leaders and staﬀ had to innovate at a time
 
-the tough circumstances, and the solutions the group brainstormed in
+when demands on them were extraordinary. To keep things on track,
 
-the debrieﬁngs helped Codogno and other Italian hospitals it shared
+Lombardo speciﬁed which meetings were ones where staﬀ members
+
+would receive their marching orders and which were sessions where
+
+they should contribute ideas. The daily morning all-staﬀ meeting, when
+
+hospital employees gathered to align their plans for the day, was when
+
+they’d get their orders. But at debrieﬁng meetings, held twice a day,
+
+all employees—from plumbers to nurses to surgeons—were encouraged

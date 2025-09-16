@@ -1,15 +1,55 @@
-# conversations will.
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e0520bdc4ca262f2b36e0c9330a051bb1cf1413
+title: H079OJ-PDF-ENG
+---
+## HBR / Digital Article / Avoiding Conflict Will Only Hurt Your Family Business
 
-Both conﬂict and fake harmony are common in business families all
+- 2. Use surveys to uncover opinions anonymously.
 
-over the world. What they are grappling with is normal. Balancing the
+Have family members ﬁll out a quick anonymous survey before and
 
-two is an important part of making good decisions together, and it isn’t
+after a key meeting to create a helpful barometer. Set up a simple survey,
 
-always easy for any family, no matter how much they love each other.
+through a service like Qualtrics, that asks family members what topics
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+they want to address or explores what went well in a meeting and
 
-6
+what could be improved (we call these “plus/deltas”). Such surveys can
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+provide an easy, but helpful, opportunity to oﬀer constructive feedback.
+
+- 3. Consider facilitated conversations.
+
+Bring in an outsider to facilitate a challenging conversation. An outside
+
+facilitator can set ground rules and boundaries for the conversation,
+
+monitor those boundaries, reset the conversation if things are getting
+
+oﬀ track, and ensure that everyone has a chance to be heard.
+
+- 4. Strengthen transparency.
+
+Fake harmony can fester because family members are feeling insecure
+
+— afraid that asking questions will make them appear dumb or
+
+uninformed — or that it will imply that they are challenging other
+
+family members. They don’t want to expose themselves or oﬀend.
+
+But if family leaders make a point of keeping their stakeholders
+
+informed about both business issues and key decisions that are being
+
+made, people are less likely to feel afraid to ask questions. Sunlight can
+
+be the best disinfectant.
+
+- 5. Set the right standard.
+
+Remind your family members that your goal is to make great
+
+decisions together. Fake harmony won’t help you do that. Constructive

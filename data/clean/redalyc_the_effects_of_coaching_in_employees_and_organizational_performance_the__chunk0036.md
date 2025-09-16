@@ -1,13 +1,45 @@
-## Intangible Capital – http://dx.doi.org/10.3926/ic.586
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 253a3644d09b579698d78faa9edbbe8e99e80b0d
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## success measurement issues and financial matters (Hannafey & Vitulano, 2013).
 
-must be willing and able to share information with the coachee and must be ready to dedicate
+As Hutchinson and Purcell (2010) argue, many coaches are unsatisfied with the process
 
-the time that the process demands. For the process to proceed correctly, the relationship
+because they need active support from firms in terms of providing recognition, timing and role
 
-between the coach and coachee must be based on trust, consistent with the organisational
+clarity. Backes-Glelner and Tuor (2010) highlight the importance of a quality work climate for
 
-climate, as highlighted by Shih, Chiang and Chen (2012). Success can also be influenced by
+the success of human resource practices. Thus, to understand the implementation stage, it is
 
-other factors, such as the type of personal relationship that the coach and coachee establish
+necessary to consider a number of points that are important for the success of the coaching
 
-and the harmony, connection and affinity between them (Hodgetts, 2002; Wanberg, Welsh &
+process. For example, the coach not only manages the coaching process but also can be a
+
+consultant who helps the coachee to implement innovations in procedures (McCracken &
+
+Wallace, 2000), who adapts the coachee’s skills and knowledge to the existing systems in the
+
+organisation, and who encourages the coachee to assimilate the firm’s values and attitudes.
+
+The organisation must be aware of the abilities, skills and experience of the coach (Gray, Ekinci
+
+and Goregaokar, 2011b). Moreover, the coach commits to the coachee in a collaborative
+
+alliance to establish and clarify the objectives, to develop a plan of action to help the coachee
+
+achieve these objectives (Zeus & Skiffington, 2002), and to reproach the coachee if he/she
+
+fails to fulfil previously accepted commitments. The coachee, in turn, must find the coach to be
+
+a valuable partner with whom he/she can share ideas, plans and strategies. The coachee can
+
+then evolve and gain a longer-term vision of questions that arise.
+
+To ensure the effectiveness of the coaching process, the coach must have a deep knowledge of
+
+the coachee’s job and of how the job relates to the objectives of the organisation. The coach
+
+-170-

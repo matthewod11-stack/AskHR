@@ -1,13 +1,25 @@
-# against the Employee.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: bc1176be99832ab3749aa1cdc0444afadb240e64
+title: internship_report
+---
+# Customer Lists, Pricing Data, Financial Data, Service Contracts and Marketing Strategies or
 
-That upon the termination of employment from the Company:
+plans. The Employee shall not (except in the proper course of duties) disclose during or after the
 
-The Employee shall return/surrender to the Company all documents and property of the
+employment with the Company, divulge to any person whatever or otherwise make use of any
 
-Company, including but not necessarily limited to: Reports, Manuals, Correspondence,
+trade secret or technical process or any confidential information concerning any aspect of the
 
-Customers Lists, Computer Programs, and all other materials (e.g. Staff ID Card, Business Card
+business or finances of the Company or any of its dealings transactions or affairs including
 
-etc.) and all copies thereof relating in any way to the Company‟s business, or in any way
+without limitation to generality any of its suppliers agents, distributors or customers. The
 
-obtained by the employees during the course of employment. The Employee shall not retain
+Employee shall not (except in the proper course of duties) disclose during or at any time after the
+
+termination of employment with the Company, use for him/herself or others, or disclose or
+
+divulge to others including future employers, any confidential information of the Company
+
+specifically stated above in violation service rule, where disciplinary actions shall be taken

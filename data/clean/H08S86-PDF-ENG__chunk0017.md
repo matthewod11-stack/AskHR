@@ -1,7 +1,17 @@
-## HBR / Digital Article / Research: Why CEOs Should Start with the New Year
+---
+source_path: H08S86-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6b5eaabfc8c19131713eebc597eb765c63aa401c
+title: H08S86-PDF-ENG
+---
+## decision-making and ultimately operational performance.
 
-were handed-down mid-year, this gives them less time to make progress
+Additionally, employees, too, feel the end-of-year crunch to prove in
 
-toward them by the time they’re evaluated—not meeting goals can feel
+numbers their successful fulﬁllment of goals. If new goals or directions
 
-demoralizing and risks hurting employee engagement.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,13 @@
-# ADDITIONAL RESOURCES
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 37250a77839829565d9d3d6e1ae630e325100fc5
+title: untitled
+---
+# Additional Resources
 
-There are several sources of information for studying the his- tory and contemporary development of school psychology. An overview of the sources, including associations, archival collections, literature, and nonprint media, is available in Fagan (1990).Association records for the Division of School Psychology are available from the American Psychological Association in Washington, D.C., and the Archives of the History of American Psychology maintained at Akron Uni- versity in Ohio. Those for the NationalAssociation of School Psychologists are maintained in the Special Collections of the University of Memphis Libraries in Memphis, Tennessee. Trends in the ﬁeld’s development as judged from its literature are available in Fagan (1986), Fagan, Delugach, Mellon, and Schlitt (1985), French (1986), Frisby (1998), Kraus and Mcloughlin (1997), and Whelan and Carlson (1986). An ac- count of the ﬁeld’s general history is available in School Psy- chology: Past, Present, and Future (Fagan & Wise, 2000), including Canadian and international accounts and an edition in French (1984, 1990). Rhodes (2000) describes the status of school psychology in Mexico. Historical events, persons, and
+assessment methodologies will maintain a strong appeal as school systems are increasingly held accountable for the pro- cedures of assessment and intervention and the instructional outcomes of students.
 
-427
+The basic roles of school psychologists will remain. Practice will continue to focus on individual child study with interventions delivered one-on-one or in groups. Pharmaco- logical and genetic test developments will increase in impor- tance, necessitating additional training and team efforts in service delivery. Contemporary interventions of remediation and therapy will be supplemented by these developments. Consultation will continue at its present level, failing to ex- pand in priority because of personnel shortages and the prior- ity of assessment and other intervention services. Role and function changes should ensure that school districts continue to have sufﬁcient diagnostic and intervention services avail- able to the entire school population.
+
+Finally, the ﬁeld should conduct a futures conference to better deﬁne its goals and directions. The conference should be sponsored by several major organizational constituencies and seek to alleviate policy differences among them. Addi- tional discussions of the future of school psychology appear in Fagan andSheridan(2000),FaganandWise(2000),Oakland and Cunningham (1999), a special issue of Psychology in the Schools (2000, volume 37, number 1), and Ysseldyke, Dawson, Lehr, Reschly, Reynolds, and Telzrow (1997).

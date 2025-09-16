@@ -1,11 +1,13 @@
-# Openness
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a2cfaeabceb29100840c97539f81029c23bcd9c2
+title: performance_management_3rd_edition_by_aguinis
+---
+# Inclusiveness
 
-Performance is evaluated frequently and
+Employee input about their performance is gathered from the employees before the appraisal meeting.
 
-feedback is provided on an ongoing basis.
+Employees participate in the process of
 
-Appraisal meeting is a two-way
-
-communication process and not one-way communication delivered from the supervisor to the employee.
-
-Standards are clear and communicated on
+creating the system by providing input on how performance should be measured.

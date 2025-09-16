@@ -1,17 +1,29 @@
-# back out of the meeting entirely.
+---
+source_path: H08TOA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e89fc6ccc15ad3ed248be88f7bb961af7c3fa80
+title: H08TOA-PDF-ENG
+---
+## HBR / Digital Article / A Data-Based Approach to Delegating
 
-Throughout the whole process, you’ll want to be aware of the temptation
+times to touch base. You may actually perform the task together the ﬁrst
 
-to take tasks back, especially at the ﬁrst sign of a mistake or hesitation.
+few times before you start to back out of doing it.
 
-When Tina, the CFO I worked with, delegated the annual budget presentations, she actually took the day oﬀ when her team was working
+In addition, you may want to delegate meetings that you have
 
-on it and went to a movie so she wouldn’t be tempted to check up
+historically been a part of, but don’t really need to be at anymore.
 
-on them. I’m not saying everyone should go to the movies when they
+Meetings also merit some preparation and explanation. So, you may
 
-delegate a task, but you should remember one thing in times like these:
+want to prepare notes on what the overall purpose of the meeting
 
-you probably weren’t as good when you ﬁrst started performing the task
+is, what is expected of the employees who attend it, why you have
 
-as you are today.
+continued to attend the meeting, or what you’d like to be made aware of
+
+after the meeting once you stop attending it. Like the “could delegate”
+
+tasks, you may attend a few meetings with the person you’re delegating
+
+the meeting(s) to and answer any questions they may have before you

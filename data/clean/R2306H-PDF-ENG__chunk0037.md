@@ -1,17 +1,23 @@
-# counter product.
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dad7e479c9ad6738724dfb77f762e5939cfc8751
+title: R2306H-PDF-ENG
+---
+# idea.
 
-The concerns and questions that internal sparring partners raise can help turn the seed of an idea into a compelling and compatible business proposition.
+Consider the relationship between Xiu and Malika. (As with Jaideep and
 
-Xiu found a sparring partner in Malika, one of the ﬁrm’s regulatory
+Hannah, these names are pseudonyms.) Xiu was an R&D director in a
 
-experts who had in-depth knowledge of clinical trials and FDA approval
+large pharmaceutical ﬁrm leading a team of scientists who conducted
 
-procedures. Rather than leaving regulatory issues until the clinical
+clinical research on menopausal symptom relief. It’s well-known that
 
-research phase was completed, Xiu and Malika worked closely together
+many women don’t consult their doctors about these symptoms because
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+they believe that they’re an unavoidable part of aging or they have
 
-9
+concerns about the safety of treatments. Xiu was determined to give
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+women easier access to menopause medication through an over-the-

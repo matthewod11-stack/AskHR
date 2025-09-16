@@ -1,7 +1,19 @@
-## HBR / Digital Article / The Best Leaders Normalize Emotion at Work
+---
+source_path: H08VEB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77aaff6878dcdaeda0986c2298c2efebc94eb047
+title: H08VEB-PDF-ENG
+---
+# Notice
 
-Emotions often show up in our bodies, behaviors, and energy before
+Noticing emotions is the ﬁrst step to accessing and leveraging the
 
-we register them consciously. Tune into the physical sensations in your
+valuable data they hold. Start by tuning into subtle cues that are already
 
-body as you move through your workday. For example, if you notice
+there but frequently overlooked.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

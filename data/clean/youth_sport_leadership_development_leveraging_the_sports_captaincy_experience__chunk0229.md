@@ -1,11 +1,13 @@
-# t o n
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: d5169a92e7c9f57a3f455ee089a2af9c38a31c30
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# l
 
-y a m
+d n a
 
-t a h t
+y r a m m u S
 
-s n o i t s e u q
-
-y c n i a t p a c
-
-k s a
+e v a h

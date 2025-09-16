@@ -1,11 +1,13 @@
-# require.
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73c9c92dc2b0da697c2e593bbfbe75104e9d98d9
+title: H08L2R-PDF-ENG
+---
+## from an internal service provider into a strategic partner for business
 
-These stories shed light on a way of interacting with AI that goes far
+units. Amy has created a gen AI prompt sequence that her team
 
-beyond simply answering questions or pushing a button and getting an
+members can run to help them understand and reﬂect on how to
 
-output. It involves an active back-and-forth conversation, examples of
-
-which can be seen in the below table, where both the human and the AI
-
-contribute ideas and build upon each other’s thoughts at every step of
+embrace the new mindset and behaviors that this initiative will

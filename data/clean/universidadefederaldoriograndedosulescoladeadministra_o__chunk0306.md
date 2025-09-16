@@ -1,5 +1,9 @@
-# também chamado de informal, é
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 88cc35955f092b898fce5495ca5df7a80a3e65c7
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# empresa. A entrevista seguiu o modelo não estruturado com roteiro semiestruturado.
 
-recomendado para estudos exploratórios, que visam oferecer visão geral do
-
-problema pesquisado. O autor (GIL, 1999) afirma que, em estudos exploratórios,
+Segundo Gil (1999), este tipo de entrevista,

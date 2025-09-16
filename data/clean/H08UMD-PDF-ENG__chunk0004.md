@@ -1,5 +1,9 @@
-# customers.
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 980ec459321e6669c66abf492dd4d316deb421d6
+title: H08UMD-PDF-ENG
+---
+# tasks.
 
-For some of these research briefs, we’ve also included links to related
-
-HBR.org articles for an opportunity to dig deeper into the practical
+- How retailers respond when their suppliers start selling directly to

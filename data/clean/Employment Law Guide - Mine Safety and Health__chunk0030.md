@@ -1,25 +1,13 @@
-# areas in underground mines;
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: f1e5a6a0d245152f55a201f224e02c437a21a354
+title: Employment Law Guide - Mine Safety and Health
+---
+## rescue teams capable of a one hour response time;
 
-Requires NIOSH to establish an interagency working group to share technology and technological research and developments that could be used to enhance mine safety and accident response;
+Requires mine operators to notify MSHA within 15 minutes of a death at the mine or an injury or entrapment at the mine which has a reasonable potential to cause death, and establishes a civil penalty of $5,000 to
 
-Raises the maximum criminal penalty to $250,000 for ﬁrst oﬀenses and $500,000 for second oﬀenses. In
+$60,000 for mine operators who fail to do so;
 
-addition, establishes a maximum civil penalty of $220,000 for ﬂagrant violations;
-
-Establishes a Technical Study Panel on the use of belt air and ﬁre retardant belt materials in in underground
-
-coal mines; Gives MSHA the authority to obtain an injunction (shutting down a mine) in cases where the mine operator
-
-has refused to pay a ﬁnal civil penalty assessment; and
-
-Establishes the Brookwood-Sago Mine Safety Grants program to provide training grants to better identify,
-
-avoid, and prevent unsafe working conditions in and around the mines.
-
-Requires NIOSH to conduct research on refuge alternatives and MSHA to report on proposed regulatory changes.
-
-A good safety and health program depends on the active participation and interest of everyone at a worksite. Because Congress wanted to encourage an active, responsible role in matters of mine safety and health, the
-
-Mine Act gives miners many rights. Deaths, injuries, and illnesses in the workplace can be decreased if all
-
-miners exercise these rights. Under the Mine Act, miners, representatives of miners, and applicants for
+Requires MSHA to ﬁnalize mandatory health and safety standards relating to the sealing of abandoned

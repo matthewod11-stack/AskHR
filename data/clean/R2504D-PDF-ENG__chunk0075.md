@@ -1,21 +1,15 @@
-## Building Organizations with High Conflict Intelligence
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d78efee79e8c456222375986e7422b590950be3
+title: R2504D-PDF-ENG
+---
+## their understanding of each other’s perspectives and work styles. Those
 
-The most signiﬁcant challenge for business leaders is transforming the
+informal channels proved crucial during negotiations over Alibaba’s
 
-organizational culture to empower employees at all levels to manage disputes eﬀectively. By embedding conﬂict resolution skills throughout
+independence and strategic direction, helping Ma successfully navigate
 
-the ranks, leaders can ensure that their organizations thrive even in the
+one of the most complex cross-cultural corporate partnerships in tech history. His success demonstrates that sometimes the most eﬀective
 
-face of internal tensions. That means moving beyond seeing conﬂict
-
-as something to be avoided and framing it as a potential source of
-
-energy, innovation, and growth. That shift begins with creating safe,
-
-facilitated spaces for diﬃcult conversations about sensitive issues in
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-17
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+path to resolving conﬂicts lies in unexpected connections.

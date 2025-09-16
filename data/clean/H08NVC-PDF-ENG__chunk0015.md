@@ -1,11 +1,13 @@
-# great food and free coﬀee.
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54628b1511fc2a58c46aed4cb5b8af7e507da468
+title: H08NVC-PDF-ENG
+---
+# HBR / Digital Article / Making Mental Health Programs Work at Multinational Compan…
 
-Her initial assumption was to regard the event as unsuccessful and
+Her team did lots of internal communications promoting the session,
 
-interpret it as evidence that discussions on mental health were
+but only 50 people showed up (they had hoped for 150). During the
 
-unwelcome in that local culture. In some organizations I have
-
-collaborated with, which encountered similar situations, future mental
-
-health initiative budgets were reduced, purportedly out of respect for
+event, no one said much, and the atmosphere was tense, despite the

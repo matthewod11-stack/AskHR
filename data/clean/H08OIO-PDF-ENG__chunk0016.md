@@ -1,23 +1,29 @@
-# a culture of accountability and focus.
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b056f6269073586bd63242e3d848d8d1699c6d69
+title: H08OIO-PDF-ENG
+---
+## HBR / Digital Article / How to Prevent Strategy Fatigue
 
-. . .
+Maintain a single, visible pipeline
 
-In an uncertain business environment, many organizations fall into
+Keep an idea or project pipeline where all non-business-as-usual
 
-the trap of adopting reactive strategies under the mistaken impression
+initiatives are listed and tracked to avoid strategy fatigue. This provides
 
-that the more initiatives, the more chances of success. But as you’ve
+visibility into how many ideas are in play and avoids duplicate or
 
-seen, unchecked proliferation of strategic priorities carries a heavy
+competing eﬀorts. Regularly review this list with senior leadership to
 
-cost: strategy fatigue can stealthily sap your organization’s strength,
+cull lower-priority projects. When organizations map out all ongoing
 
-eroding employee engagement and blunting performance. You can
+projects and change initiatives, they’re often shocked by the sheer
 
-avoid this outcome and restore your organization’s energy and purpose
+number and must then stop or postpone some initiatives to let higher
 
-by applying judicious ﬁlters to new strategy initiatives. Your employees
+priorities succeed. Some companies adopt a rule like “one in, one out”
 
-will thank you with renewed engagement. And your business will reap
+for major projects to enforce this balance. Creating a project tracking
 
-the rewards of considered and deliberate strategy that inspires rather
+system not only provides visibility for prioritizing projects it also fosters

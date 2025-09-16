@@ -1,19 +1,43 @@
-## HBR / Digital Article / Looking for a Sense of Purpose? Volunteer.
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af98cbafb7b2d9234c106b4ea70712940fca96d9
+title: H08NSA-PDF-ENG
+---
+# purpose.
 
-your values and the causes that resonate with you, you can discover
+As a ﬁnal example, I’ll share the story of Sahar Jamal. Before becoming
 
-opportunities that are both rewarding and enjoyable. In the end,
+one of my students, Jamal was as a senior manager at Johnson &
 
-volunteering not only enriches your life but also creates a positive ripple
+Johnson where she also volunteered in corporate social responsibility
 
-eﬀect that extends far beyond your own experience.
+(CSR) activities. Through her CSR work, she became interested in global
 
-This article was originally published online on March 11, 2025.
+health issues, particularly those aﬀecting women and children. The
 
-Harry Kraemer is the clinical professor of management and organizations at Kellogg School of Management at Northwestern University and former CEO of Baxter. He’s the best-selling author of Becoming the Best, From Values to Action, and the latest, Your 168.
+experience changed the trajectory of her entire career.
+
+Jamal left her job to pursue an MBA at Kellogg and interned with
+
+Jacaranda Health in East Africa. She learned that many women
+
+struggled with breastfeeding their children while also working to
+
+support their families. This inspired her to start Mazima (“milk” in
+
+Swahili), a social enterprise in Kenya that provides women a discreet,
+
+portable, and low-cost breast pump. “I wanted to make sure I was
+
+directly making a diﬀerence in the lives of women,” she told me.
+
+No matter how or where you volunteer, you can experience greater
+
+purpose while also making a meaningful impact. By reﬂecting on
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

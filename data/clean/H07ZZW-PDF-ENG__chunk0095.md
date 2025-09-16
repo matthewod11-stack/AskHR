@@ -1,19 +1,19 @@
-## reproductive health care equally available to all employees and contract
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b42c047a82e6d5c5aad0eadf91ed24ba01c2d81
+title: H07ZZW-PDF-ENG
+---
+## between freedom of expression and the right to privacy.
 
-workers across the United States (including travel) are explicitly
+Human rights frameworks like this one explicitly direct corporations
 
-addressing the ruling’s negative human rights impacts.
+to evaluate their impact on stakeholders and prioritize their ethics
 
-The most astute corporate responses always respect the principles of
+eﬀorts on that basis, rather than on opinions or ideology. For example,
 
-privacy and freedom of choice. In this case, a business would not
+in the wake of the U.S. Supreme Court’s nulliﬁcation of Roe v. Wade,
 
-require employees to discuss their choices with HR departments but
+human rights principles suggest that the right to health is paramount,
 
-would provide funds and medical coverage that can be accessed without
-
-involving the employer. So long as there exists no eﬀort to force such
-
-health care on women who oppose abortion, it aligns with human rights
-
-principles to provide the same access to every staﬀer, anywhere in the
+and reproductive rights are a key element. Businesses that make

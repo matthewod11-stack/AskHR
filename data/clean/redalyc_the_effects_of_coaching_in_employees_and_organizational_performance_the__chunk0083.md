@@ -1,19 +1,13 @@
-# in the standardised solution.
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 8ccb945ad89ff2de8c5978c90e1a564624b67cbb
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Intangible Capital – http://dx.doi.org/10.3926/ic.586
 
-- 5. Discussion
+performance, as measured by economic profitability, return on assets and profit margin.
 
-The first contribution of the current work is its novel incorporation of theoretical support for the
+Finally, the results also offer support for Hypothesis 4: the coefficient linking improvements in
 
-implementation of the coaching process, which enriches and complements the existing model.
-
-This theoretical support enabled us to explain how firms should develop coaching processes to
-
-improve their human resources and to justify the utility for businesses and workers. Thus, we
-
-believe that our work identifies a method by which research can progress with respect to this
-
-issue. Specifically, social exchange theory explains the exchanges that occur between coach
-
-and coachee throughout the process, in which reciprocity appears and a series of transactions
-
-occurs between both parties. This relationship reciprocity is an expectation that both
+individual performance as a result of coaching with sales and productivity growth equals 0.302

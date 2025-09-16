@@ -1,7 +1,13 @@
-## Understand the unique needs of your workplace and all stakeholders.
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cae2bd00e6a11e249e035a3f94a7a60e1d164ee
+title: H07UT7-PDF-ENG
+---
+## Practical Guidance as You Form Your Pet Policy
 
-Be clear about when, where, and which animals are welcome, owner
+As organizations experiment with hybrid work arrangements or a
 
-responsibilities, and how to handle infractions. Extensive resources are
+gradual return to the oﬃce, the time is ripe to implement a successful
 
-available for guidance. For instance, we now know that speciﬁc breed bans are ineﬀective and do not improve safety. Instead, it is best to
+pet policy. Let us highlight some important considerations:

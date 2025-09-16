@@ -1,9 +1,13 @@
-## a broader vision and a deeper sense of the strategic and competitive
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc4cb8802f57664b20457eaf7285deed87a96ca2
+title: H07I7D-PDF-ENG
+---
+## HBR / Digital Article / How to Help Superstar Employees Fulfill Their Potential
 
-landscape. They noted that the technical and functional skills that
+See more HBR charts in Data & Visuals on HBR.org.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+As the sponsors in our data set considered the next step for their
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+high potentials, they often cited the need for high potentials to have

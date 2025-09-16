@@ -1,13 +1,17 @@
-## from the transition to electric vehicles.
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84d681bb527feea395ea3db67e0947b25e7b3d9d
+title: R2403F-PDF-ENG
+---
+# HBR / Magazine Article / HR’s New Role
 
-Throughout the business world, companies see the ability to restructure
+The restructuring threat. Company eﬀorts to reorganize to adapt to the
 
-quickly as the key to long-term success. Yet without employee support,
+changing business environment are another major source of workplace
 
-change eﬀorts fail. Lately that support has been harder for companies to
+stress. The shift to “green” products, for instance, was one of the main
 
-come by. Gartner’s Cian O Morain and Peter Aykens note that a survey
+issues in the 2023 United Auto Workers strike, which ended with the
 
-conducted by their company found that employee willingness to get
-
-behind new initiatives plunged from 2016 to 2022. (See “Employees Are
+union’s securing protections for employees from restructuring resulting

@@ -1,7 +1,13 @@
-# Hires
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 93f3b34dcdb56836f1f9f4c452d007bcc02ebfea
+title: industrial_organizational_psychology_an_applied_approach
+---
+# No longer interested in the job
 
-Hired and reported to work
+Declined or did not show up for the interview
 
-Hired but did not report to work
+Who is a Hire?
 
-Hired but failed drug test or background test
+Both hires and off ers count

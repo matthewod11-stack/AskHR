@@ -1,1 +1,13 @@
-## Watson, J. B. (1928). Psychological care of infant and child. New
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 04cc3a3edb3da4f61af59bcbe4bc9aaa416e59c1
+title: untitled
+---
+# York: Springer.
+
+Valins, S. (1966). Cognitive effects of false heart-rate feedback. Journal of Personality and Social Psychology, 4, 400–408.
+
+Valins, S. (1970). The perception and labeling of bodily changes as determinants of emotional behavior. In P. Black (Ed.), Physiological correlates of emotion (pp. 229–259). New York: Academic Press.
+
+Valins, S., & Ray, A. A. (1967). Effects of cognitive desensitization on avoidance behavior. Journal of Personality and Social Psy- chology, 7, 345–350.

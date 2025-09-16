@@ -1,9 +1,11 @@
-# Heavy reliance on unstructured data:
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: dd75a860cf0fd4935d99f70f9ce260301c6a3afb
+title: a_p_r_a_c_t_i_c_a_l
+---
+# DiYcult-to-maintain rules:
 
-Scenarios that involve interpreting natural language,E extracting meaning from documents, or interacting withE users conversationally, for example processing a home insurance claim.
+Systems that have become unwieldy due to extensive and intricate rulesets, making updates costly or error-prone,E for example performing vendor security reviews.
 
-Before committing to building an agent, validate that your use case can meet these criteria clearly. Otherwise, a deterministic solution may su(cid:144)ce.
-
-6
-
-A practical guide to building agents
+03

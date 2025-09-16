@@ -1,31 +1,27 @@
-## a personal interface with memory or contextual awareness, it can
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 495c421b9a824839a791f4d04e650653f53cad43
+title: H08VIB-PDF-ENG
+---
+## engage with me in a step-by-step dialogue about how robotics could
 
-enhance personal reﬂection by providing more customized and targeted
+be applied in my area of work. First, help me identify key pain points
 
-suggestions based on the user’s past interactions.
+or repetitive tasks in my area. Then, help me explore how robotics
 
-Later in the same workshop, David shared this reﬂection prompt with
+might address these challenges or create new opportunities. Finally,
 
-all participants, “You (Generative AI) help me reﬂect on an interesting
+help me think which ideas seem most promising and why.” After each
 
-workshop I just attended, by engaging with me in a dialogue about the
+participant completed their co-thinking dialogue with AI, David used
 
-most impactful messages and how I can apply them to my daily job.”
+AI on his laptop to capture and synthesize the team’s ideas. This
 
-Each participant spent 10 minutes conversing with AI, and then shared
+approach proved more eﬀective than “AI at one seat,” for two reasons.
 
-their insights with the whole group to wrap up the workshop day.
+First, a one-to-one interaction with AI creates a psychologically safe
 
-When introducing this mode in your workshop or meeting, here are
+setting, allowing participants to brainstorm without having their ideas
 
-some dos and don’ts:
-
-Dos Embed reﬂections with AI. Imagine that after a presentation on a new
-
-trend, the meeting organizer invites all participants to interact with AI
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+be immediately judged by others. Second, when AI is accessed through

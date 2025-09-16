@@ -1,19 +1,9 @@
-## development positions with Lenovo, Group M, Cavin Kare and CRI pumps.
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: e168e3d03660603b47e0e1a6677e36dae7242f64
+title: final_2019_jan_feb_jbs_pmd
+---
+# ISSN 2393-9451
 
-- 5. The Journey The CEO, Satish Chamy Velumani - holds masters’ degrees in science (majoring in engineering) and business administration (both from the US) - worked at 3M for about eleven years, before returning to India to establish Atchayam Business Solutions. When Satish C Velumani set out with his idea, he knew technology would form the backbone of the venture and counted on his engineering background and experience as project manager at 3M to help. But that’s when he discovered that the technology he sought didn’t exist. The next three years were spent in developing the technology and giving concrete shape to the concept.Besides him, the core team of Atchayam’s Foodbox (which was conceptualized in late 2010) comprises Ramesh Narayanan, co-founder and chief financial officer, and Rajsekar Mathuram, CTO (Chief Technology Officer). The position of CTO is justified by the fact that the whole concept revolves around the robust use of technology. The CFO is a chartered accountant and has been running a business process outsourcing (BPO) firm in Chennai for a decade, and the CTO, who holds a masters’ degree in science (majoring in computer science) and worked at Verizon (a global leader in delivering innovation in communications, information and entertainment) in India and the United States for over twelve years before joining Atchayam.
-
-Ramesh Narayan, co-founder and CFO, Atchayam Foodbox says, “Investment was in R and D. We are still researching on the techniques. Total investme nt is Rs 5 crore. We are planning on multiple versions of it. It’s just a beginning. Encouraged with the response from its first Food Box, Atchayam founders are now planning units at Chennai central station and the airport.The longer-term plan is to go national and so, the next time you’re traveling in Chennai, you now know where to grab a bite.”
-
-- 6. The Organization Structure and Design and Operational Efficiency The organization is flat and doesn’t have much of a hierarchy. It has the CFO, CTO, CSMO (Chief Sales and Marketing Officer) and Operations manager reporting to CEO along with an HR executive and an Engineer. Managers and executives in each function report into their respective chiefs.
-
-As aCEO of this organization, Satish C. Velumanicreates leaders at every single level. To achieve this, they have adopted a matrix organization where every individual with potential is given a program leadership responsibility. Regardless of the hierarchy, everyone reports in to the program manager as they work on that program. They have several programs running at the same time. So, a leader automatically becomes a follower (in another program) and vise-a- versa. This completely eliminates hierarchy and improves efficiency it also helps the organization to drive ahead at a much higher speed than their competitors. The small but strong team helps the organization to be focused on the future plans to expand.
-
-- 7. The Location The location of outlets and partner restaurants is key part of the Foodbox business model. While the first was set up at the DLF IT Park, the second is at Koyambedu, Chennai’s busiest bus terminal. The founders were clear in their parameters for finding strategic locations. The locations of both the joints are near to the sourcing restaurants and also have high footfall. The company uses the “Real-Win-Worth analysis” (extensively used by companies like 3M on over 1500 projects bringing profit and success, See Exhibit-1) to determine the feasibility of location and launch.
-
-Velmurugan T. is the Chief Sales & Marketing Officer, who joined in 2014. He isPost graduate diploma from IIM (A) and has been on Senior business
-
-“The customer response has been very good. It works well for us because we are increasing our sales without additional investments,” says KT Srinivasa Raja, MD, Adyar Ananda Bhavan. “As the awareness about
-
-50
-
-IITM Journal of Business Studies (JBS)
+- By 2015, Chamyvelumani set up six more across Bengaluru, Hyderabad and Chennai.

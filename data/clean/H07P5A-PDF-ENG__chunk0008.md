@@ -1,15 +1,13 @@
-## recently for a global company with hundreds of thousands of employees
+---
+source_path: H07P5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a37fc5e947bd9f24f9d0a736803458e23077437
+title: H07P5A-PDF-ENG
+---
+# HBR / Digital Article / Watch Out for These 3 Gender Biases in Performance Reviews
 
-worldwide. During the project, which took place as the company (which
+subject to biases that creep into the performance-review process and
 
-I’ll call HAPI Consulting, to preserve its anonymity) was in the midst of
+cause them to be judged unfairly.
 
-a large reorganization, I was reporting to the CEO, his executive, and the
-
-board. With their support, I gathered and analyzed data on performance
-
-reviews given in a hybrid work environment (pre- and post-pandemic),
-
-and in that context I identiﬁed three speciﬁc kinds of bias that were
-
-hurting women and their career prospects. I’ll explore them in turn
+I witnessed this problem ﬁrsthand during a consulting project I did

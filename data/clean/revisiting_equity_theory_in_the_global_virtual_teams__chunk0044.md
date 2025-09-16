@@ -1,7 +1,13 @@
-# 5.1 Theoretical contribution: global virtual team a difficult place for “Entitleds” (takers)
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: 478e999950acb133b92b21bf8e3c12e295b5c32d
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+# Source: Authors' own creation
 
-ET has significant implications in terms of employee retention, morale, productivity, relationships and psychological well -being, the latter point being particularly expressive since mental health issues at work are on the rise, particularly in the afterma th of the COVID -19 pandemic and telework (Tavoletti, 2020; Tavoletti and Taras, 2022). In addition, as authors such as Kic kul and Lester (2001), Wheeler (2002) and Yamaguchi (2003) point out, there is an increasing e mphasis on conducting work in GVTs implies that social comparison processes, such as the Equi ty Sensitivity Construct, will become increasingly influential Accordingly, understanding the mechanisms that help us clarify how these comparisons are made provides a valuable contribution to enhancing the effectiveness and outcomes of any organization.
+Table 4. Verification of hypotheses H1 H2 H3 Source: Authors’ own creation
 
-in determining team objectives.
+Not supported (significant with opposite sign) Supported Not supported (significant with opposite sign)
 
-In terms of the research findings, the empirical tests rev
+- 5. Discussion

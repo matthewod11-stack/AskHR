@@ -1,21 +1,23 @@
-# Amazon.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cf88d2dad41eccef350b1c31f2f362ba526dd67
+title: H07U7Q-PDF-ENG
+---
+# with.
 
-ADI IGNATIUS:
+Also, we’re helping redeﬁne what grocery is going to look like in this
 
-I think we have emotional connections to the brands that we like. What
+space. Having a parent company that has resources and expertise that
 
-do you say to people who love the Whole Foods brand and its brand
+we can plug into and utilize to support Whole Foods is really important.
 
-promise, but don’t feel the same emotion toward Amazon?
+I also appreciate the same things where we’re able to be Whole Foods
 
-JASON BUECHEL:
+and maintain our culture. I mentioned earlier we still have the same
 
-In some cases it’s helping those customers understand some of the
+higher purpose and core values. While we’re part of Amazon, it’s really
 
-beneﬁts that they can use, that Amazon can support them as well.
+a complementary relationship where we bring the very best of what we
 
-Whether it’s providing a quicker checkout in one of our stores using
-
-Amazon One, or ultimately some of the support and work, where we’re
-
-collaboratively looking at ways by which we’re going to help meet our
+can oﬀer and we’re able to plug in and leverage the very best within

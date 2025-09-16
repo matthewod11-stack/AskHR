@@ -1,15 +1,7 @@
-# Conflating Correlation And Causation
-
-Approach to determining causality
-
-- Was this analysis based on an experiment?
-
-- If not, are there confounders (variables that affect the independent and dependent variables)?
-
-- To what extent were they addressed in the analysis?
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 710da2ac5a6705f4c431a32190ec89efc3bd6fa2
+title: R2405D-PDF-ENG
+---
+# Sample questions:

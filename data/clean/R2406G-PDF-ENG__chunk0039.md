@@ -1,7 +1,37 @@
-## digital natives, such as Netﬂix, Uber, Alibaba, and Amazon, along with
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e9bb77618db457ca274dda10b7ae2808bdc71e0
+title: R2406G-PDF-ENG
+---
+# The Power of Personalization
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The nature of competition is changing. Instead of competing on
 
-10
+manufacturing scale, companies are competing on the scale of customer
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+interactions, by building up their loyalty programs, app registrations,
+
+authenticated website users, and reasons to interact across the
+
+customer journey, to name a few examples. They compete on the speed
+
+at which they learn from interactions by testing variations in every
+
+interaction. They also compete on their ability to use their learning to
+
+tailor the customer experience by having cross-functional teams that
+
+constantly experiment with new experience designs, content, timing,
+
+channels, and the like. Here are several high-level takeaways from our
+
+research into personalization that can help businesses move forward.
+
+Personalization leaders can be found in every industry. Across the 12
+
+industry segments we reviewed, companies today score, on average,
+
+only 49 on the Personalization Index. The average score of companies
+
+in the top decile is 72. Unsurprisingly, the index leaders tend to be

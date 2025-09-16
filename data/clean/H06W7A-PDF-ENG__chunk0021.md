@@ -1,17 +1,9 @@
-# the following steps:
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 49fd56ad4d348375e4b5450a43825cfbfdef2ab9
+title: H06W7A-PDF-ENG
+---
+# Association, the U.S. Treasury).
 
-- 1. They challenged the status quo.
-
-People have a tendency to believe that existing solutions must be good.
-
-Groups are tempted to gravitate towards the status quo because they
-
-don’t face a high cost if they fail. (E.g., “Others used it before and it
-
-worked then, so it’s not our fault that it didn’t work now.”)
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+What we found is that the groups that avoided groupthink engaged in

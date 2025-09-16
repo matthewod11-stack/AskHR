@@ -1,5 +1,9 @@
-## Cartesian dualism and the veil of ideas, 114–115 Child:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 26a00361d7396a325dc825e7b85d214fa31a5102
+title: untitled
+---
+## California Psychological Inventory (CPI), 285 Canada:
 
-development (professional organizations), 550 guidance clinic (African American leadership), 489 psycholegal issues, 407–408 study, 12, 416
-
-Children’s Apperception Test (CAT), 287 China, 511 Chronology of milestones, 517–531 Civil rights movement, 379–380, 487. See also Ethnic minorities Classical medical theory, 307
+professional organizations, 262, 540 U.S. International Congress (1954) held in, 512

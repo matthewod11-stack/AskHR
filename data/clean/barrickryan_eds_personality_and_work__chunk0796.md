@@ -1,3 +1,11 @@
-# Adaptability and Fit
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 71cc96d7f02f314681243a65cdfb474ce569ef23
+title: barrickryan_eds_personality_and_work
+---
+## PERSONALITY IN PERSON-ORGANIZATION FIT RESEARCH 279
 
-Lauren believes that we all should make the best of our situation, what- ever it is. Al believes, “to thine own self be true.” Both are organized and efﬁcient workers who avoid missing deadlines, pay attention to details, and willingly pitch in to help others. At eAcme, a growing Internet startup, Lauren initially found the lack of planning, the last-minute calls
+It is also important to understand whether organizational rep- resentatives can accurately assess personality-based PO ﬁt. Cable and Judge (1997) found that interviewers’ assessments of appli- cants’ values and PO ﬁt were fairly inaccurate (there was a fairly small relation between actual and perceived values congruence). However, recruiters often rely on personality assessments in mak- ing ﬁt judgments (Kristof-Brown, 2000). A considerable literature shows that strangers or acquaintances can assess certain personal- ity traits with some accuracy after brief exposure to people (Al- bright, Kenny, & Malloy, 1988; Borkenau & Liebler, 1993; Colvin & Funder, 1991; Funder & Colvin, 1988; Gangestad, Simpson, Di- Geronimo, & Biek, 1992). In work with recruiters, Barrick, Patton, and Haughland (2000) found moderate correlations between in- terviewer assessments of personality traits and self-reports; however, they found that interviewers were more accurate in assessing Ex- traversion than Emotional Stability and Conscientiousness. One question would be what the relative roles of various traits are in re- cruiter ﬁt assessments. Reliance on traits that have a social com- ponent, and are thus more likely to be evident during interpersonal interactions, should have better predictive validity for ﬁt assess- ments than reliance on less accurately evaluated traits. However, it is interesting to note that in terms of overall performance, the less observable traits of Conscientiousness and Emotional Stability are better predictors (Barrick & Mount, 1991).
+
+In summary, we suggest that personality-based ﬁt assessments that are complementary may be more accurate than those that are supplementary (evaluations of personality congruence). We fur- ther note that there are likely individual differences in the ability to self-assess ﬁt accurately. Finally, recruiter assessments of per- sonality congruence may possess some degree of accuracy for cer- tain traits.

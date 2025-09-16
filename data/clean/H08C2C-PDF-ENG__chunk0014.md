@@ -1,11 +1,39 @@
-# Initiate Relationship Building
+---
+source_path: H08C2C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be3a2a1c212d441a3f3261eb634d3cd6a6539c97
+title: H08C2C-PDF-ENG
+---
+# Create a Prioritized Networking List
 
-Now that you have a prioritized list of people you want your new
+Once you have created your map, the next step is to ask yourself, “Who
 
-employee to get to know, it’s important (at least in the beginning) to
+does my new employee need to know to help support their learning and
 
-help facilitate access to these connections. New employees are likely a
+integration into their new role?” Some people on your map are going
 
-little overwhelmed, and some might be shy or hesitant to contact people
+to be more relevant to speciﬁc tasks or topic areas than others. The key
 
-out of the blue. You can smooth the way by initiating and encouraging
+here is to be selective, strategic, and intentional and create a prioritized
+
+list of people your new employee should meet ﬁrst.
+
+Your goal is not for new employees to meet everyone from the
+
+knowledge map as soon as possible. (There will be other opportunities
+
+for broader socializing.) For instance, if you’re hiring Lauren, a new
+
+product lead, you can identify the ﬁrst ﬁve people she needs to meet
+
+— e.g., VP of marketing, the customer support lead, a member of the
+
+design team, the head of sales, and the chief technology oﬃcer — and
+
+let her know these are the people she is going to need to collaborate
+
+and communicate with ﬁrst. When people know and trust someone personally, they’re likely to work together more eﬀectively and will also
+
+feel more comfortable asking questions, proposing innovative ideas, or
+
+embracing the learning opportunities in mistakes.

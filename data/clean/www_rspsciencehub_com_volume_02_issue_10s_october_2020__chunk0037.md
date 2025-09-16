@@ -1,5 +1,9 @@
-# Resham Sundrani (2019)
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: 954bcb437a327dd7e972fd5bc79cb0891cd4861c
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# into
 
-International Research Journal on Advanced Science Hub (IRJASH)
-
-Volume 02 Issue 10S October 2020 The Author, Reshma Sundrani(2019), done her research on “Study on Employee Attrition & Retention Exploring the Issues and Challenges”. The considerable investigated & economical and intangible costs correlated with losing, expert and competent employees. Researcher observed, the best practices of HR the organization and must be organizational policy which are to employees. The HR strategy should grow from a transactional support role to partnering in the organizations business strategy.
+In the present study, based on demographic information, Logistic Regression mainly utilized to predict employee attrition risk. Along with this a proper retention plan has been mapped to focus on the risk categories developed.

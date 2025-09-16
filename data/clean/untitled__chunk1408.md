@@ -1,11 +1,13 @@
-# Doubleday Anchor Books.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2a53a49b0e5d355469e0b12fb975dce520c191a2
+title: untitled
+---
+## lem. Contemporary Psychology, 6, 195–196.
 
-Allport, G. W. (1985). The historical background of social psychol- ogy. In G. Lindzey & E. Aronson (Eds.), Handbook of social psychology (2nd ed., Vol. 1, p. 1). New York: Random House.
+Allport, G. W. (1935). In C. A. Murchison (Ed.), Attitudes: Hand- book of social psychology (Vol. 2, pp. 798–844). New York: Russell and Russell.
 
-Apfelbaum, E. (1986). Prolegomena for a history of social psychol- ogy: Some hypotheses concerning its emergence in the 20th cen- tury and its raison d’etre. In K. S. Larsen (Ed.), Dialectics and Ideology in psychology (pp. 3–13). Norwood, NJ: Ablex.
+Allport, G. W. (1954a). The historical background of social psy- chology. In G. Lindzey (Ed.), Handbook of social psychology (Vol. 1, pp. 3–56). Cambridge, MA: Addison-Wesley.
 
-Apfelbaum, E. (1999). Relations of domination and movements for liberation: An Analysis of power between groups. Feminism and Psychology, 9, 267–272. (Original work published 1979)
-
-Apfelbaum, E., & Lubek, I. (1976). Resolution versus revolution? The theory of conﬂicts in question. In H. L. Strickland, F. E. Abood, & K. J. Gergen (Eds.), Social psychology in transition (pp. 71–94). New York: Plenum Press.
-
-Asch, S. E. (1952). Social psychology. Englewood Cliffs, NJ:
+Allport, G. W. (1954b). The nature of prejudice. Garden City, NY:

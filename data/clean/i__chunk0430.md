@@ -1,3 +1,9 @@
-## 3.5 Implementing Tree Regression and Random Forest with Python
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 99598252eaecfe4744f8f243046dc27b738a6bf3
+title: i
+---
+# representation of a decision tree
 
-From the above imported dataset and exploration, further analysis can be done for tree
+67

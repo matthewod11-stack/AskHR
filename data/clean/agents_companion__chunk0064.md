@@ -1,7 +1,13 @@
-# GenAI, LLMOps, FMOps, and GenAIOps.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 5c2463bb1abddd5675f68845253bfef145b591ea
+title: agents_companion
+---
+# AgentOps
 
-Agent and Operations (AgentOps) is a subcategory of GenAIOps that focuses on the efficient
+Over the past two years, the field of Generative AI (GenAI) has undergone significant
 
-operationalization of Agents. Its main additional components include internal and external
+changes, with enterprise customers focusing on how to operationalize related solutions. This
 
-tool management, agent brain prompt (goal, profile, instructions) and orchestration, memory,
+has resulted in various terms describing the operationalization of GenAI, such as MLOps for

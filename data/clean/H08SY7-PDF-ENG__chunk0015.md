@@ -1,11 +1,19 @@
-## HBR / Digital Article / How CEOs Hone and Harness Their Intuition
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5de3fa361131c3119e056b9716d40b280fe6d708
+title: H08SY7-PDF-ENG
+---
+## The best CEOs operate successfully in ambiguous environments: global
 
-That’s why intuition isn’t a soft skill. It’s a diﬀerentiator.
+crises, emerging markets, evolving tech landscapes, talent volatility. In
 
-Good intuition doesn’t mean ignoring facts. It means knowing when the
+these situations, data may be incomplete or contradictory. Yet decisions
 
-numbers stop speaking and it’s time to listen inward. As one Fortune
+still have to be made, often quickly and under pressure.
 
-100 CEO told me: “There are decisions where data gets you to 85%. The
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-ﬁnal 15% is always gut.”
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

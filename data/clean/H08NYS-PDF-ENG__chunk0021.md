@@ -1,19 +1,17 @@
-## change from a ﬁve-star rating scale to a thumbs up/thumbs down rating
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 353959ba67f47d8ff028c56ba899aaab3d9f7289
+title: H08NYS-PDF-ENG
+---
+# HBR / Digital Article / Research: How Gig Platforms Can Mitigate Racial Bias in Rating…
 
-scale oﬀered some promise. Immediately after the change in the rating
+This seemingly small diﬀerence had substantial economic
 
-system, the racial disparity in customer ratings disappeared completely,
+consequences. As on many popular platforms, workers were directly
 
-and relatedly, so did the racial disparity in pay.
+aﬀected by the ratings they received. In this case, the platform used
 
-We then conducted a variety of online experiments that helped conﬁrm
+customer ratings to calculate worker pay, which led to workers of color
 
-that the expression of racial bias made available by the ﬁve-star
-
-scale was signiﬁcantly reduced with the use of a dichotomous scale.
-
-Consistent with our hypothesis, we found evidence that structurally
-
-altering customer evaluation systems from the ubiquitous ﬁve-star scale
-
-to a dichotomized rating system decreased the racial inequality in
+earning 91 cents for every dollar earned by white workers. However, the

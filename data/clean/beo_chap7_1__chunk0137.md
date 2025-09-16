@@ -1,15 +1,29 @@
-## (like the “sudden deaths” of CEOs in Johnson et al. 1985), and
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 9e13c4e19e405ed0e96a9df19069774889e736ae
+title: beo_chap7_1
+---
+# money” after “bad.”
 
-Gii) where the new decision maker would have originally implemented the invest-
+Despite the clear experimental evidence of escalation to commitment to bad
 
-ment project as well, had he already held the position.
+projects, there is little convincing field evidence of this pattern. Case studies of
 
-The constraint to (i) is the poor quality of data on decision-making inside the firm
+projects which failed in retrospect have been related to escalation of commitment
 
-and on the success of individual projects. As for (ii), changes in managerial position
+(see, for example, Staw and Ross 1993). But these may simply be examples of hind-
 
-26Huberman and Jiang (2004) present evidence rejecting the 1/n heuristic on the individual level,
+sight bias about especially bad projects. Other field studies analyze whether new
 
-though it is present in the aggregate.
+managers who take over projects pull the plug on them. But the tendency to do so
 
-265
+might just reflect differences in prior beliefs rather than escalation by the managers
+
+who initiated the bad projects (see, for example, Barsade et al. 1997; Weber and
+
+Camerer 1999). The ideal situation for an empirical analysis would thus be
+
+(i) data on similar types of decisions (such as plant closings) for a set of firms,
+
+(ii) where in a strict subset the decision maker changed for exogenous reasons

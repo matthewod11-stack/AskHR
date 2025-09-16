@@ -1,5 +1,15 @@
-## (4th ed.). Stanford, CA: Stanford University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fc11dd7283555665c2e3ebaef6855367dd642f83
+title: untitled
+---
+## Alto, CA: Consulting Psychologists Press.
 
-Harmon, L. W., Hansen, J. C., Borgen, F. H., & Hammer, A. L. (1994). Strong Interest Inventory: Applications and technical guide. Palo Alto, CA: Consulting Psychologists Press.
+Handler, L. (1995). The clinical use of drawings. In C. Newmark (Ed.), Major psychological assessment instruments (pp. 206– 293). Boston: Allyn & Bacon.
 
-Harris, D. B. (1963). Children’s drawings as a measure of intellec-
+Handler, L. (2001). Assessment of men: Personality assessment goes to war by the Ofﬁce of Strategic Services assessment staff. Journal of Personality Assessment, 76, 558–578.
+
+Haney, W. (1981). Validity, vaudeville, and values: A short history of social concerns over standardized testing. American Psychol- ogist, 36, 1021–1034.
+
+Hansen, J. C., & Campbell, D. P. (1985). Manual for the SVIB–SII

@@ -1,5 +1,7 @@
-## 360-degree Feedback at AAH Pharmaceuticals
-
-AAH Pharmaceuticals (AAH) (http://www.aah.com) utilizes a 360-degree feedback system that includes several characteristics of a good system. The company, which employs 3,800 people, is a wholesaler of pharmaceuticals, providing medical products and services in the United Kingdom. AAH, with the help of professional consultants, found the process helpful in providing feedback and useful information for development planning. To help ease employee concern, the company clearly outlined for employees that development planning and feedback were the only purposes of the instrument, and information would not be used for any other purpose. Employees were also given the option of sharing information with supervisors. The system included gathering performance ratings from several sources through an automated online system of questionnaires and ensuring that information was anonymous and confidential. After the results were obtained, participants attended a one-day meeting about the results away from the office that included one-on-one interpretation and discussion with the consultant to initiate a development plan. Six-month follow-up meetings were held to review progress toward developmental objectives. AAH found the process to be successful with a first group of managers who went through the process and made plans for a broad rollout of the program for more employees to take advantage of developmental opportunities. In summary, the system utilized by AAH provides an example of several of the components of a successful 360-degree feedback instrument.28
-
-Table 8.5 includes a summarized list of characteristics of good 360-degree feedback systems. Consider the Compass system, which is offered by Right Management Consultants (www.right.com). This 360-degree feedback tool has many of the ideal characteristics found in Table 8.5. Compass is a tool based on leadership com- petencies. It allows raters to assess how well the leader executes each of the behaviors associated with various competencies such as “communication.” The survey raters are anonymous. Right Management Consultants offers tailored feedback programs in which coaching is given in individual or group sessions to help interpret the informa- tion collected. Right can also certify internal organizational employees to give the
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: cabc89d69f7ebcae957bdcab0137d455b59f0d7f
+title: performance_management_3rd_edition_by_aguinis
+---
+# BOX 8.3

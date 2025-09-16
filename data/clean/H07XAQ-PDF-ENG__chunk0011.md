@@ -1,27 +1,43 @@
-# disengagement and deﬂated motivation.
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ac8a90aba4c40cae57a3a89b5b8e49135d8d646
+title: H07XAQ-PDF-ENG
+---
+## HBR / Digital Article / When Designing Employee Learning Programs, Less Is More
 
-You’re presenting too many choices.
+There are many reasons why giving your people too much content leads
 
-Decades of research from noted behavioral economists shows that when
+to lesser impact, and to their consuming little-to-none of it at all. Here
 
-it comes to choice, more is distinctly not better. Yes, people like to
+are a few:
 
-have choices, but they vastly prefer a small set of carefully curated ones
+You’re asking for too much change.
 
-(e.g., three ways to improve your presentation skills, not 30). Too much
+You want to become a better leader? Well, you should be more
 
-choice quickly becomes aversive. (If you’ve ever stared at a diner menu
+empathetic, creative, inspiring, strategic, inclusive, execution-focused,
 
-that seems to have all the foods, you know what we mean.)
+purpose-driven, agile, resilient, and so on. These are all undoubtedly
 
-People lose trust. If you came to us with a new problem and we oﬀered you the same
+good and important qualities, yet recommending that people change
 
-massive catalog of things we’re always pushing, how would you feel?
+everything in response to a challenge inevitably leads them to changing
 
-As learning professionals, we often preach the importance of active
+nothing. We’ve all sat through a program on an important topic and
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+wondered: What is the most important thing for me to focus on right
 
-3
+now? Too often, it’s impossible to discern.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+If everything is important, nothing is.
+
+In recent years, there’s been an even greater expectation that when
+
+something is served to us, it’s been vetted and is relevant. When
+
+a program increasingly reveals more and more things that are
+
+“important,” employees begin to lose faith in their ability to adapt
+
+to the overwhelming amount of change that’s needed. This leads to

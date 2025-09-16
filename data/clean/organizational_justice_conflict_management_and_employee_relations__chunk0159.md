@@ -1,11 +1,9 @@
-## simple mediation models”, Behavior Research Methods, Vol. 36 No. 4, pp. 717-731.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: 5e12912c6ac6745dcc1496034398c73314623480
+title: organizational_justice_conflict_management_and_employee_relations
+---
+## Conflict Management, Vol. 22 No. 2, pp. 108-110.
 
-Rahim, M.A. (1983), “A measure of styles of handling interpersonal conflict”, Academy of Management
-
-Journal, Vol. 26 No. 2, pp. 368-376.
-
-Rahim, M.A., Magner, N.R. and Shapiro, D.L. (2000), “Do justice perceptions influence styles of handling conflict with supervisors?: what justice perceptions, precisely?”, International Journal of Conflict Management, Vol. 11 No. 1, pp. 9-31.
-
-Redman, T., Dietz, G., Snape, E. and van der Borg, W. (2011), “Multiple constituencies of trust: a study of the Oman military”, The International Journal of Human Resource Management, Vol. 22 No. 11, pp. 2384-2402.
-
-Robinson, S. and Rousseau, D. (1994), “Violating the psychological contract: not the exception but the
+Preacher, K.J. and Hayes, A.F. (2004), “SPSS and SAS procedures for estimating indirect effects in

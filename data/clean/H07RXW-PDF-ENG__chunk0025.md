@@ -1,15 +1,13 @@
-# HBR / Digital Article / Is Organizational Hierarchy Getting in the Way of Innovation?
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9553f2cfe702249e279cdeba14a84027ddd01bd1
+title: H07RXW-PDF-ENG
+---
+## emergence of new organizational models that address these barriers.
 
-Over the course of the study, we spoke to over 150 employee innovators,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-discussed the topic with around 100 heads of strategy from mid-to-
+4
 
-large enterprises. These enterprises include ﬁnancial services, media,
-
-technology, pharmaceuticals, real estate, professional services, NGOs,
-
-education, and infrastructure ﬁrms. Most are large ($1 billion to
-
-$60 billion revenue), and about 20% are mid-sized ($100 million to
-
-$900 million revenue). We interviewed around 20 of today’s leading
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

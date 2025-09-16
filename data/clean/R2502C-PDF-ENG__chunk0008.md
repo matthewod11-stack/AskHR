@@ -1,23 +1,17 @@
-## of advisory services on assets, calculates that in 1975 tangible assets
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 709c95fe7a534030bff83eceae680012167b34c3
+title: R2502C-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Strategic Fit
 
-—such as land, buildings, and machinery—accounted for 83% of the
+rules designed for the industrial age are less relevant in an era of
 
-market value of the S&P 500. By 2020 that ﬁgure had plummeted to
+digital technologies and powerful intangibles. Consider the valuation
 
-just 10%. The remaining 90% consisted of intangible assets such as
+of assets. An asset is any resource (tangible or intangible) controlled by
 
-patents, trade secrets, and brand equity. Annie Brown, the valuation
+a company that can produce future economic value—though it might
 
-director at Brand Finance, a brand advisory consultancy, told us that
-
-today only 24% of those intangibles are disclosed on S&P 500 balance
-
-sheets. In other words, nearly 70% of all assets driving the market
-
-valuations of major companies are invisible on ﬁnancial statements and
-
-spreadsheets. Nevertheless, those assets are the reason that the stock
-
-price of Amazon (founded in 1994) soared even though the company
-
-didn’t realize a quarterly proﬁt until 2001 or positive annual free cash
+take decades to ﬂow into income statements. Ocean Tomo, a provider

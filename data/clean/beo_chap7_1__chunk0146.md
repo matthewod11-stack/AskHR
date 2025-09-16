@@ -1,9 +1,9 @@
-## upon adjustments in organizational design and corporate governance mechanisms to
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 3fa2c9498a9446efe30a3a5fb6d9b0d806a1cbf7
+title: beo_chap7_1
+---
+## 7.5 IMPLICATIONS FOR CORPORATE GOVERNANCE
 
-deal with them. Obviously, limits on rationality and expression of social preferences
-
-affect only managers but also the “corporate governors” e.g., board members. The
-
-influence of governance forces examination of the conjectures made in the last
-
-section. While overconfidence about the firm’s projects may be less likely in external
+Our discussion so far considered biases on the side of the managers. We touched

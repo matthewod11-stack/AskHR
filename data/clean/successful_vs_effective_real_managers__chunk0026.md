@@ -1,11 +1,11 @@
-# Successful vs_ Effective Real Managers
+---
+source_path: successful_vs_effective_real_managers.md
+pages: n/a-n/a
+chunk_id: dd4522eec5a0f09e7279913ce796fc71f1e14278
+title: successful_vs_effective_real_managers
+---
+# Training/ Developing
 
-- 1. Communication This activity consists of exchang- ing routine information and processing paperwork Its observed behaviors include answering procedural ques- tions, receiving and disseminating requested information, conveying the results of meetings, giving or receiving rou- tine information over the phone, processing mail, reading reports, writing reports/niemos/letters, routine financial reporting and bookkeeping, and general desk work.
+128
 
-- 2. Traditional Management. This activity consists of planning, decision making, and controlling. Its observed behaviors include setting goals and objectives. defining tasks needed to accomplish goals, scheduling employees, assign- ing tasks, providing routine instructions, defining problems, handling day-to-day operational crises, deciding what to do, developing new procedures, inspecting work, walking around inspecting the work, monitoring performance data, and doing preventive maintenance.
-
-After the nature of managerial activity was deter- mined through the free observation of the 44 managers, the next phase of the study was to document the relative fre- quency of these activities. Data on another set of 248 real managers (not the 44 used tn the initial portion of this study) were gathered. Trained participation observers filled out a checklist based on the managerial activities at a random time once every hour over a two-week period. We found that the real managers spend not quite a third of their time and effort in communication activities, about a third in traditional man- agement activities, a fifth in human resource management activities, and about a fifth in networking activities. This relative frequency analysis based on observational data of a laige sample provides a more definitive answer to the ques- tion of what real managers do than the normative classical functions and the limited sample of elite managers used by Mintzberg and Kotter
-
-- 3. Human Resource Management This activity con- tains the most behavioral ~ategories: motivating/reinforc- ing, disciplining/ punishing, managing conflict, staffing, and training/developing The disciplining/punishing category was subsequently dropped from the analysis because it was not generally permitted to be observed The observed behaviors for this activity include allocating formal rewards, asking for tnput, conveying appreciation, giving credit where due, listening to suggestions, giving positive feed- back, group support, resolving conflict between subordi- nates, appealing to highe: authorities or third parties to resolve a dispute, developing job descriptions, reviewing applications, interviewing applicants, filling in where needed, orienting employees, arranging for training, clarifying roles, coaching, mentoring, and walking subordinates through a task
-
-4 Networking This activity consists of socializing/ politicking and interacting with outsiders The observed behaviors associated with this activity include non-work- related “chit chat”, informal joking around; discussing rumors, hearsay and the grapevine, complaining, griping, and putting others down, politicking and gamesmanship; dealing with customers, suppliers, and vendors, attending external meetings; and doing/attending community service
+... .. Copyright ©2001. All rights reserved. - rn

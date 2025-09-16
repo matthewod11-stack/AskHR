@@ -1,11 +1,7 @@
-# S. D. Saleh University of Waterloo
-
-Three different samples (total N = 485) participated in the development and refinement ofthe Leadership Scale for Sports (LSS). A five-factor solution with 40 items describing the most salient dimensions of coaching behavior was selected as the most meaningful. These factors were named Training and Instruction, Democratic Behavior, Autocratic Behavior, Social Support, and Positive Feedback. Internal consistency estimates ranged from .45 to .93 and the test-retest reliability coefficients ranged from .71 to .82. The relative stability of the factor structure across the different samples confirmed the factorial validity ofthe scale. The interpretation ofthe factors established the content validity of the scale. Finally, possible uses of the LSS were pointed out.
-
-Although the concept of leadership has been discussed frequently and various leadership theories have been casually referred to in the sport literature, there has been a lack of consistent thrust in the study of leadership in sports (Loy, McPherson, & Kenyon, 1978). This is both unfortunate and surprising. The relevance of leadership theory to sports becomes readily apparent when sports teams are viewed in a formal organizational context. Ball (1975), for example, noted how sports teams fit the general description of formal organizations. More specifically, he pointed out that sports teams are characterized by (a) an unequiv- ocal identity, (b) an exact roster of members including a roster of positions or statuses, (c) a planned program of activity and a division of labor to achieve specified goals, and (d) procedures for replacing members and for transfer of members from one position to another.
-
-The authors wish to thank Dr. Albert V. Carron and Dr. Ian Spence for their helpful
-
-comments in the preparation of this paper. This study could not have been completed without the kind co-operation ofthe coaches and the athletes ofthe various varsity teams, and the generous assistance ofthe local contacts. We express our sincere gratitude to them all.
-
-Requests for reprints and/ or copies ofthe LSS should be addressed to P. Chelladurai,
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: 9d27bf3520fffff597f7bb039d9996ad2550e707
+title: journal_of_sport_psychology_1980_2_34_45
+---
+## p. Chelladurai University of Western Ontario

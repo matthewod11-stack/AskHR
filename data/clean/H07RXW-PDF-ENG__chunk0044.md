@@ -1,27 +1,27 @@
-# best.”
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cea5f1d2a7ece87290a4ba4ba1ed664504e530da
+title: H07RXW-PDF-ENG
+---
+# nurse satisfaction scores.
 
-What would this new approach to support services look like in practice?
+Give MEs an option to choose which support services to use.
 
-Let’s say a particular microenterprise is not happy with the support
+This is perhaps the most interesting and radical characteristic of the
 
-it is getting from their IT department. Because all departments are
+model. In hierarchical models, it is assumed that business units use
 
-microenterprises, there are multiple IT microenterprises to choose
+the shared services provided by the company in order to create cost
 
-from. They compete with autonomy for internal clients. The initial
+advantages — think IT, ﬁnance, R&D, etc. GEA CEO Nolan refers to these
 
-microenterprise can even decide to contract with an external, third-
+support functions as internal monopolies which need to be broken up because they “can easily within a company become like a ‘post oﬃce,’
 
-party IT service provider, if they so choose. And if a supporting ME is
+where they feel there is no competition. There’s a [sense of] entitlement:
 
-not competitive enough to win internal clients, its budget is eﬀectively
+[because they are] going to deliver the mail for everyone, [the business
 
-reduced or cut not because a centralized authority decided to cut it, but
+units] have no choice.” Instead, he says, they should “have to ﬁght for
 
-because they couldn’t succeed internally.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their business every day. They have to improve, they have to be the

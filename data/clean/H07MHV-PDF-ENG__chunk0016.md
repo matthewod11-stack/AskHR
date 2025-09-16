@@ -1,7 +1,15 @@
-## Shadows, reﬂections, even something as seemingly insigniﬁcant as a
+---
+source_path: H07MHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 634e703f806e0387fa6b74a6d966f21a6c383dcc
+title: H07MHV-PDF-ENG
+---
+## HBR / Digital Article / When Great Minds Don’t Think Alike
 
-piece of chain or a fabric cutting dangling inside the chute could slow
+When I witnessed this phenomenon, I jumped into the chute to get
 
-down the cattle’s movement. It was a simple ﬁx, but no one else saw
+the cattle’s-eye view. The ranchers and suits alike thought I was being
 
-it. To me, these small obstructions were glaring. That’s how my mind
+ridiculous. But for me, as a visual thinker, it was the obvious thing to do.
+
+I immediately picked up on the little things the handlers had missed.

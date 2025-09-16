@@ -1,25 +1,13 @@
-# this.)
+---
+source_path: H06NVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c78852bed4b1f200415dc76d326d020afa340e4f
+title: H06NVB-PDF-ENG
+---
+## HBR / Digital Article / Navigating Postpartum Depression at Work
 
-Combine all of this with your return to work, where you may be coming
+prenatal care, ultimately seeing them every week, then after delivery we
 
-back to the same job, but as a new person who is managing a long and
+now go six weeks without so much as a scheduled call or visit.” (Dr.
 
-constantly evolving list of responsibilities at home. Yet somehow you
-
-are still fanning an old flame — your desire to do yet another thing well
-
-and right. Even with the most powerful and genuine peer support,
-
-return is a shock. The one area in which you reliably thrived and led the
-
-pack is now a steep upward climb, with a learning curve to match.
-
-Simply starting and ending your workday, once a simple task, may rise
-
-to horror level for new moms due to complicated new logistics,
-
-hormones, and exhaustion. This was the case with Sarah — already
-
-struggling during leave, she thought her return to work would be a cure-
-
-all. In fact, it was the final straw.
+Messinger’s office has now added 2-week postpartum visits to address

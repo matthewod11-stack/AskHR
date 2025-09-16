@@ -1,15 +1,11 @@
-# peer-to-peer product-rental service. Our
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27d482ff51a4099de7090ddc2b36d22d0f128b52
+title: F2404A-PDF-ENG
+---
+## HBR / Magazine Article / Why Entrepreneurs Should Think Like Scientists
 
-mission was to reduce consumption to
+Why did you join the research project?
 
-improve sustainability. Companies would
-
-be forced to produce fewer products,
-
-and their carbon footprint would shrink.
-
-Joining the study was a great opportunity
-
-for us to learn how to test our hypothesis,
-
-which basically assumed people would
+Our first start-up idea was for a

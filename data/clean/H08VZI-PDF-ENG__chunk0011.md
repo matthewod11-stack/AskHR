@@ -1,19 +1,35 @@
-## HBR / Digital Article / The Secret to Building a High-Performing Team
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0ff517bdac54b2558309bae9b4c155954a99296
+title: H08VZI-PDF-ENG
+---
+# conversation.
 
-their team they perceived to be barriers to, and enablers of, taking risks
+It is the same with hard decisions. Most people are comfortable making
 
-to do hard things.
+the easier choices they face, but when there’s a risk involved in
 
-The data shows that enabling high performance through smart risk-
+making a decision—one they perceive will upset others, such as who
 
-taking has two pillars: high connection, meaning people perceive they
+gets promoted and what projects should get supported—they back oﬀ,
 
-have a voice, are valued, and feel psychological safety; and high courage,
+procrastinate, and struggle to take action.
 
-meaning people are capable of, encouraged to, and enabled by norms
+We’ve named this gap the last 8%.
 
-to be courageous to execute on hard things, such as holding people
+Our work also identiﬁed the kind of team culture and environment that
 
-accountable. When high connection and high courage are both in place,
+enables people to more frequently take risks—to close the 8%—and the
 
-a culture of trust is built that enables people to take more risks—in other
+three kinds of team cultures that do the opposite, acting as barriers to
+
+taking risks. Those insights came from a study we conducted of over
+
+72,000 people in which we asked individuals to describe the elements of
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

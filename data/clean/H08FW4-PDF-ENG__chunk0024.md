@@ -1,29 +1,23 @@
-# behavior.
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a03f919d4c6aa5b26cc073f6e81206ea399e6aa0
+title: H08FW4-PDF-ENG
+---
+## HBR / Digital Article / What the Best Leadership Teams Do Right
 
-We also recently worked with an executive team where market shifts,
+One executive team we worked with, whose organization espoused
 
-promotions, and retirements had turned over 60% of the team’s
+“innovation and creativity” as a value, deliberately constructed their
 
-longstanding leaders. The newly reformulated team was faced with
+dialogues to include “dueling fact bases” and contrarian views. They
 
-leading a signiﬁcant transformation of the business to match the rapidly
+believed conﬂict was the raw material of innovation and wanted
 
-changing market that had been remade by new entrants. The new team hadn’t had suﬃcient time to develop the trust needed for the enormity
+to enable the organization to safely invite contrasting views while
 
-of the task, so we helped them dive deep into their own orientation to
+maintaining positive relationships. Their culture’s history of conﬂict
 
-trust: What made them extend or withhold it? How much trust would
+aversion, back-channel gossiping, and collusion would have suﬀocated
 
-they need to build within the organization for the challenges ahead?
-
-Together, they each discovered their inner barriers to trusting others,
-
-were vulnerable enough to acknowledge them, and made commitments
-
-to overcome them. This laid the groundwork for a culture that could
-
-embrace new behaviors because the organization saw their leaders
-
-modeling the way and making a clear connection between the values
-
-they were espousing and the actions needed to be successful in their
+any eﬀorts to innovate had they not convincingly introduced new

@@ -1,13 +1,13 @@
-# sustituir.
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 999ae4a49e33fe5d4a258867bf7b6c21d6518937
+title: H08U08-PDF-ENG
+---
+## éxito. Esto comienza con claridad: ¿A quién no puede permitirse perder?
 
-Es esencial empezar por identiﬁcar cómo esa persona es fundamental
+No se trata del título ni de la permanencia en el cargo; lo que importa es
 
-para las operaciones en curso. Para una de nuestras clientes,
+quién impulsa las grandes apuestas de la empresa, marca la pauta con
 
-Emily (vicepresidenta ejecutiva de marketing y comunicaciones),
-
-Copyright © 2025 Harvard Business School Publishing. Reservados todos los derechos.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+sus compañeros y tiene relaciones y habilidades que no son fáciles de

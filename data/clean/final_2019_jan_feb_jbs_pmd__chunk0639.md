@@ -1,3 +1,11 @@
-## Table-12: Multiple correlation and multiple regression
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 2ab7a2d7157919ace8f49cca960a89f89384e4e3
+title: final_2019_jan_feb_jbs_pmd
+---
+# In
 
-Multiple correlation and multiple regression of earnings on Net profit, Return on capital employed, Return on assets [Regression equation EPS=β0+β1. Net profit+β2. Return on capital employed+. β3.Return on assets]
+ratio, cash earnings retention ratio.The computed multiple correlation co-efficient is tested with the help of ‘F’ test and computed multiple regression coefficient is tested help of ‘T’ test.In this analysis, Curren t ratio,quick ratio, cash earnings retention ratioare selected as independent variables and the EPS has been selected as dependent variable.Regression equation is EPS=â0+â1. current ratio+â 2. quick ratio+ . â3.cash earnings retention ratio.In case of Bajaj Finance a nd Shriram Transport Finance Corporationcoefficient of regression between EPS and cash earnings retention ratio is statistically significant at 5% level . In case of Mahindra & Mahindra Financial Servicescoefficient of regression between EPS and cash earnings retentionis statistically significant at 10% level.
+
+Table 13 is showing the multiple correlation and multiple regression of earnings on Current ratio, quick

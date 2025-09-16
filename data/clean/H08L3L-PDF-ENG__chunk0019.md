@@ -1,13 +1,17 @@
-## back to old-time county fair pie contests, in which a community
+---
+source_path: H08L3L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edc2a0f8d98943b6828c8f62716e8b99f5a2f31a
+title: H08L3L-PDF-ENG
+---
+## HBR / Digital Article / To Jumpstart Creativity, Try These 8 Prompts
 
-would gather to see who among them was the best baker, and then
+Consider Jenny, a manager who wanted to encourage more of her team to return to the oﬃce post-pandemic. After listening to employees
 
-instituted her own version: the Cookie World Cup. Each Wednesday,
+explain why they were reluctant — since people’s schedules varied,
 
-two colleagues would bring in their best homemade sweet treat to share
+there was little professional or personal upside to coming in — she
 
-with colleagues, who would then vote on whom to advance to the next
+realized that she needed to create a short, interesting, collective
 
-round. After seven weeks, a winner was crowned, and Jenny’s team was
-
-newly energized about commuting in one day a week to interact with
+experience in which everyone would want to participate. She thought

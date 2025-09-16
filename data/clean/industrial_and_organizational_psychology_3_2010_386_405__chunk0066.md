@@ -1,1 +1,9 @@
-# On a different
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 9783eaf9eddd5fc4e71f6efd4405a47d2bfe4222
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# those kinds of
+
+IOOB can con- topic, tribute to JDM research in that decision making in organizations is a within-person process. Decision making happens over time: The decision at time t is inﬂuenced by times t− 1, t− 2, and so on. It is a constant process of building over time. In there tends to be a the JDM literature, cross-sectional view of models that cap- ture the decision at one time. So, in the kinds of worlds in which we work, the ones to which we want our research to gen- eralize, within-person changes over time are important—and they are getting more attention in the IOOB literature than in the decision-making literature. A delight- ful exception to this is Lee Roy Beach’s (2010) book on the narrative thinking in decision making, a book that deserves everyone’s attention.

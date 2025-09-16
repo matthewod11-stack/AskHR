@@ -1,39 +1,27 @@
+---
+source_path: university_of_dallas_dissertation_template.md
+pages: n/a-n/a
+chunk_id: c05891a8b1f3d3eaab790d1fddfaf6c89d31dd16
+title: university_of_dallas_dissertation_template
+---
 # (cid:32)
 
-(cid:32)
+(cid:70)(cid:105)(cid:103)(cid:117)(cid:114)(cid:101)(cid:32)(cid:50)(cid:46)(cid:50)(cid:32)
 
-(cid:32) (cid:67)(cid:72)(cid:65)(cid:80)(cid:84)(cid:69)(cid:82)(cid:32)(cid:51)(cid:32)(cid:32)
-
-(cid:77)(cid:69)(cid:84)(cid:72)(cid:79)(cid:68)(cid:79)(cid:76)(cid:79)(cid:71)(cid:89)(cid:32)
+(cid:84)(cid:104)(cid:101)(cid:111)(cid:114)(cid:101)(cid:116)(cid:105)(cid:99)(cid:97)(cid:108)(cid:32)(cid:77)(cid:111)(cid:100)(cid:101)(cid:108)(cid:32)
 
 (cid:32)
 
-Chapter three is divided into ten sections, identifying the methodological choices
+(cid:32)
 
-used to test the hypothesized relationships in this study. The first section provides an
+(cid:50)(cid:46)(cid:57)(cid:32)(cid:83)(cid:117)(cid:109)(cid:109)(cid:97)(cid:114)(cid:121)(cid:32)
 
-overview of the expected research design. The second section discusses data collection,
+(cid:84)(cid:104)(cid:101)(cid:32)(cid:102)(cid:111)(cid:108)(cid:108)(cid:111)(cid:119)(cid:105)(cid:110)(cid:103)(cid:32)(cid:99)(cid:104)(cid:97)(cid:112)(cid:116)(cid:101)(cid:114)(cid:32)(cid:100)(cid:105)(cid:115)(cid:99)(cid:117)(cid:115)(cid:115)(cid:101)(cid:115)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:115)(cid:97)(cid:109)(cid:112)(cid:108)(cid:105)(cid:110)(cid:103)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:114)(cid:101)(cid:115)(cid:101)(cid:97)(cid:114)(cid:99)(cid:104)(cid:32)(cid:97)(cid:112)(cid:112)(cid:114)(cid:111)(cid:97)(cid:99)(cid:104)(cid:44)(cid:32)(cid:109)(cid:101)(cid:116)(cid:104)(cid:111)(cid:100)(cid:111)(cid:108)(cid:111)(cid:103)(cid:121)(cid:44)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)
 
-including data sample, data analysis method selection, and sample size requirements. The
+(cid:105)(cid:110)(cid:115)(cid:116)(cid:114)(cid:117)(cid:109)(cid:101)(cid:110)(cid:116)(cid:115)(cid:32)(cid:102)(cid:111)(cid:114)(cid:32)(cid:116)(cid:101)(cid:115)(cid:116)(cid:105)(cid:110)(cid:103)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:99)(cid:111)(cid:110)(cid:99)(cid:101)(cid:112)(cid:116)(cid:117)(cid:97)(cid:108)(cid:32)(cid:109)(cid:111)(cid:100)(cid:101)(cid:108)(cid:32)(cid:112)(cid:114)(cid:101)(cid:115)(cid:101)(cid:110)(cid:116)(cid:101)(cid:100)(cid:32)(cid:105)(cid:110)(cid:32)(cid:116)(cid:104)(cid:105)(cid:115)(cid:32)(cid:115)(cid:101)(cid:99)(cid:116)(cid:105)(cid:111)(cid:110)(cid:46)(cid:32)
 
-third section discusses the survey design used. The fourth section explains informed
+(cid:32) (cid:32) (cid:32)
 
-consent and screening. The fifth section discusses BOT Checks, Instructional
+(cid:54)(cid:57)(cid:32)
 
-Manipulation Checks (IMCs), and attention checks. The sixth section explains the
-
-instrumentation measures used, details how the constructs were operationalized, and
-
-summarizes the items adapted for the questionnaire. The seventh section discusses
-
-control variance. The eighth section discusses the common method variance associated
-
-with this approach and the applicable remedies. Lastly, the ninth section is the summary. (cid:32)
-
-(cid:51)(cid:46)(cid:49)(cid:32)(cid:82)(cid:101)(cid:115)(cid:101)(cid:97)(cid:114)(cid:99)(cid:104)(cid:32)(cid:68)(cid:101)(cid:115)(cid:105)(cid:103)(cid:110)(cid:32)(cid:32)
-
-The intended study utilized a cross-sectional quantitative survey design as its
-
-chosen methodological framework. This design employed online techniques to gather
-
-self-reported data from participants, which was subsequently utilized to evaluate three
+(cid:32)

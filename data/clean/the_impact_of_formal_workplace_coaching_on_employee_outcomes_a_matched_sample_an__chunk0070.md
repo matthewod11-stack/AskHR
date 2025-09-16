@@ -1,5 +1,9 @@
-# Future research
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: 7ad546d1837d8d345c0cd4e498ba742205df7a1e
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+# Limitations
 
-We chose a quantitative approach to examine the difference in work-related outcomes between two groups because it is systematic, allows for the statistical analysis of large data samples, producing precise results and findings that are generalisable to larger popula- tions. However, some readers may prefer a deeper exploration of individual participant motivations and experiences, which a qualitative approach could provide. For example, comparing the perspectives of individual employees and their supervisors on the out- comes of workplace coaching sessions.
-
-We proposed that employees offered formal coaching would reciprocate with stronger work-related attitudes and behaviours compared to those not formally coached. While our hypotheses held for positive attitudes and behaviours (i.e. mean- ingful work and OCBs) they did not hold for negative work-related attitudes and
+Our data was collected using a self-reported instrument, at a single point in time, from employees only, not the supervisors who do the coaching. Whilst this practice is common in workplace coaching research (Dahling et al., 2016), it introduces the risk of common method variance, a systematic error which can may affect reliability and validity of results (Podsakoff et al., 2012). Also, we captured formal coaching events only, so cannot say whether participants also received informal coaching or not. Certainly, the literature acknowledges informal coaching (see Dixey, 2015; Grant, 2017), but its unstructured, spontaneous nature makes informal coaching challenging to measure accurately. Therefore, we deliberately focused on estimating differences in work-related outcomes between those who received formal coaching versus those who did not.

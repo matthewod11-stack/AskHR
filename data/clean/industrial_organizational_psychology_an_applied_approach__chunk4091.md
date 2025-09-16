@@ -1,3 +1,15 @@
-## Bowling, N. A., Hendricks, E. A., & Wagner, S. H. (2010).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0cf886f459c446d2cf1f492e1a0fd8706a920ca7
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Borman, W. C., & Motowidlo, S. J. (1997). Task performance
 
-Positive and negative aﬀ ectivity and facet satisfaction: A meta-analysis. Journal of Business and Psychology, 22, 115–125 in press.
+and contextual performance: Th e meaning for personnel selection research. Human Performance, 10(2), 99–109.
+
+Boudreau, J. W. (1983). Economic considerations in estimating the utility of human resource productivity improvement programs. Personnel Psychology, 36, 551–576.
+
+Bowen, C. C., Swim, J. K., & Jacobs, R. R. (2000). Evaluating gender biases on actual job performance of real people: A meta-analysis. Journal of Applied Social Psychology, 30(10), 2194–2215.
+
+Bowers, C. A., Pharmer, J. A., & Salas, E. (2000). When member homogeneity is needed in work teams. Small Group Research, 31(3), 305–327.

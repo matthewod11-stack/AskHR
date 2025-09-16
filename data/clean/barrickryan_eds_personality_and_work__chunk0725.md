@@ -1,3 +1,13 @@
-# 244 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a8c339d983a06903a55d910ff813882994659de3
+title: barrickryan_eds_personality_and_work
+---
+# UNDERSTANDING THE DYNAMIC LEARNER 243
 
-research to understand how cognitive, affective, and behavioral learning responses result from the complex interaction of various person traits and psychological states that the learner exhibits across various types of learning contexts.
+traits and subsequent psychological states. More speciﬁcally, Kan- fer and Heggestad (1997) contend that self-regulatory processes are affected by cognitive, motivational, and affective states of the person that are linked in complex ways back to more stable indi- vidual differences in personality and motivational traits.
+
+From a cognitive perspective, research has focused on meta- cognition—the planning, monitoring, and evaluating of one’s own thought processes. Research has shown that individuals who are more aware of their cognitive processes (what strategies they are using, how they are allocating their attention, how well they are suc- ceeding on a task, what they need to do to correct ineffective strate- gies) and are more effective at monitoring and evaluating their strategies concurrently with performing complex tasks are more likely to be successful (Ford, Smith, Weissbein, Gully, & Salas, 1998; Pintrich & DeGroot, 1990; Volet, 1991). From an affective perspec- tive, researchers have highlighted the need to understand actions that individuals take that allow for emotional control. Emotional control is viewed as central to minimizing anxiety, fear of failure, and other distractions so as to maintain concentration on a task (Kanfer & Heggestad, 1997). Research has shown that interventions to re- duce anxiety and fear of failure lead to more effective learning (compare Barrios & Shigetomi, 1979; Kanfer et al., 1996). Individu- als with good motivation-control skills are viewed as having high levels of mastery orientation as well as desiring high levels of achieve- ment. Research shows that individuals with high levels of moti- vational control are better at self-generating goals and ﬁnding ways to challenge themselves to improve their performance even if the task does not demand it (Dweck & Leggett, 1988).
+
+The implication for these emerging research directions is clear. Prediction-type questions relating personality traits to learning out- comes are not enough. We agree with Ozer and Reise (1994) that a model of traits without understanding process reﬂects only a mea- ger portion of the psychology of learning. We now have conceptual frameworks that have begun to better link more stable and un- derlying characteristics like motivation to approach and avoid sit- uations to process questions such as what cognitive, behavioral, and affective type responses are changing as an individual experiences a learning event (state mastery goal orientation) and how these re- sponses can be modiﬁed or changed. We need additional training

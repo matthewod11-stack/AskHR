@@ -1,19 +1,13 @@
-## HBR / Magazine Article / The Case for a Chief of Staff
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 385a20c54a0976aacc1d21b6cfcb6f67423a3c49
+title: R2003G-PDF-ENG
+---
+# require sophisticated skills.
 
-Level 3. Chiefs of staﬀ at level three are typically found in large, complex
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-organizations facing the need for dramatic strategic, operational, and
+7
 
-cultural change, especially when the leader is new to the top post. This
-
-role is closest to the inﬂuential CoS jobs common in government and
-
-the military. It is exempliﬁed by someone I’ll call Carol.
-
-After earning degrees in economics, psychology, and management,
-
-Carol spent 12 years in a multinational technology and operations-
-
-improvement consulting ﬁrm specializing in the integration of
-
-acquisitions and the management of alliances. That was followed by
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

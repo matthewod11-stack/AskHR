@@ -1,11 +1,11 @@
-# agenda right from the beginning.
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80c6b831c13812b0fddabf966cddbcbda23b7a56
+title: H078YM-PDF-ENG
+---
+## HBR / Digital Article / Is Bad Onboarding Stifling Your New Senior Leaders?
 
-For example, a new head of pre-clinical research for a division of a
+new person permission to think critically and to explore alternatives as
 
-pharmaceutical company made extensive daily notes during her ﬁrst
-
-two months on the job and reviewed them every week with a trusted
-
-colleague from outside R&D to help identify recurring themes. She
-
-then organized her observations into a draft set of presentation slides
+a normal part of the process. It also helps the leader to develop a change

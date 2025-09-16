@@ -1,9 +1,13 @@
-# HBR / Digital Article / Why Companies Should Consolidate Tech Roles in the C-Suite
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3560026832a3528932e73dca0794227a3c4665c5
+title: H08DSC-PDF-ENG
+---
+## clear, concerted leadership and a broad mandate for change.
 
-In this study, however, we discovered that some organizations are
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-recognizing the downside of C-level proliferation. To tackle the issue,
+2
 
-they’ve begun to consolidate senior technology and data roles; we refer
-
-to them as “SuperTech” leaders, although it’s important to note there is
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,19 @@
-# followers, in the long run.
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6d73b855b13a710d8a53e69c76af549d9fd9451
+title: H08GNP-PDF-ENG
+---
+# their own well-being and future success.
 
-This article was originally published online on November 20, 2024.
+Ultimately, leadership is not a balancing act between right and wrong —
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+it’s about building trust through unwavering consistency. When leaders try to oﬀset abusive actions with ethical ones, they risk deepening
 
-5
+distrust and damaging their teams and organizations in ways that can have long-lasting, far-reaching impact. To be eﬀective managers,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leaders must therefore commit to being consistently ethical, fair, and
+
+just, knowing that only those who embody this steadiness of behavior
+
+will truly be successful as leaders, and build a team of high-performing

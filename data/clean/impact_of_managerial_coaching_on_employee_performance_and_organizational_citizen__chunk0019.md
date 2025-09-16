@@ -1,5 +1,13 @@
-# 2.3 Mediating Role of Thriving at Work
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: 2a28c6a4873d6c38caad92ade8673a8e6434a125
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# 2.2 Managerial Coaching and OCB
 
-The supportive supervisors express their commitment to the welfare of their subordinates, exhibit helping behaviors, acknowledge their contribution toward the organization and build the strong relationship (Zhang et al., 2008). These behaviors of supervisors develop a supportive environment for subordinates which result in their favorable behaviors toward the organization. When an employee perceives support from their organization and supervisor, they become ready to take the risk (Abid et al., 2015; Kahn, 1990). Moreover,
+Employees are involved in different behaviors within organizations as a result of psychological states, managerial practices, and societal norms (Motowidlo & Van Scotter, 1994). The extra role is defined as the cooperative and social behavior of individuals within organizations which is not the part of their job description (Van Dyne, 1995). Furthermore, OCB consist of those behaviors of individuals which are beyond their formal duties and responsibilities within the organziation (Organ et al., 2005), which in includes organizational citizenship behavior toward individuals which is beneficial for the coworkers (OCBI) working in the organization and organizational citizenship behavior toward the organization (OCBO) (Williams & Anderson, 1991).
 
-794
+As per social exchange view of managerial coaching within organizations, employee considers managerial coaching as a form of organizational support (Kim, 2014), and managerial support (Boyatzis et al., 2012). The open communication with the employees, participative decision-making approach, servant leadership (Podsakoff et al., 1990; Bester et al., 2015), and one-on-one interaction between the supervisor and manager during the coaching process encourages employees to perform the extra role behaviors in the organization. Furthermore, Ellinger & Cseh, (2007) revealed that managerial coaching positively influences the OCB. Based on above discussion and literature we can develop the following hypothesis: (cid:32) H2: Managerial coaching will have a positive impact on employee OCBI. (cid:32) H3: Managerial coaching will have a positive impact on employee OCBO.
+
+Based on the thorough discussion above, pertaining to the second research question, the next section deals with the unique or novel mediating role of thriving at work, which is discussed as under:

@@ -1,13 +1,17 @@
-## HBR / Magazine Article / When Diversity Meets Feedback
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f03a0c78b43584929f6a044d6c39f9f4ff766832
+title: R2305F-PDF-ENG
+---
+## especially important with cross-gender interactions. Unless someone
 
-your insights. If Miles had started his discussion with Cassandra by
+has speciﬁcally requested your advice (in which case jump in and give
 
-saying, “I’d love to hear any thoughts you have about my presentation
+it), solicit suggestions about your own work before you oﬀer anyone
 
-this morning,” he would have put her in a position of power before
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-turning the tables, which would have led her to treat his advice as
+13
 
-valuable help rather than an attempt to assert dominance.
-
-[ 3 ]
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

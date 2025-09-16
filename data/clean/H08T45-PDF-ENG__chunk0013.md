@@ -1,21 +1,37 @@
-## HBR / Digital Article / 6 Steps to Reset a Demotivated Team
+---
+source_path: H08T45-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50954e7f13f14c26352798531bd5fbf3419b099a
+title: H08T45-PDF-ENG
+---
+# boundaries, and time zones.
 
-- 5. Reenergize: Build on successes
+We worked with the leadership team of a fast-moving consumer goods
 
-It’s easy to fall back into old patterns. To make the relaunch stick, focus
+company’s EMEA region on realigning their meeting practices. They
 
-on quick wins that demonstrate positive movement and reinforce the
+were suﬀering from meeting proliferation, where their entire days were
 
-new behaviors. Identify one or two visible, achievable objectives that
+spent sitting in meetings, leaving little time to get “actual work” done.
 
-can be met in the ﬁrst 30 to 60 days and recognize team members for
+We challenged them to be as speciﬁc as possible, considering questions
 
-doing so. Small successes build conﬁdence and reinforce positive team
+like: Who must really be in the room, and who can receive the minutes
 
-dynamics. A team’s energy is shaped by its daily interactions, successes,
+afterward? What preparation is expected? What are our practices for
 
-and failures. Relaunching is a great time to introduce or refresh rituals
+virtual and face-to-face meetings, including length, how to ensure all
 
-that foster alignment and engagement. Here are some ideas:
+voices are heard, and how much time to spend on checking in? And
 
-- Bi-weekly check-ins: Schedule short, focused team meetings to align
+after the meeting itself, is there time for debrieﬁng and sensemaking?
+
+After going through that exercise, the team created—and upheld—new
+
+standards, and meeting quality improved dramatically.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

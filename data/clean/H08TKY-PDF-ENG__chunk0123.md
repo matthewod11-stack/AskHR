@@ -1,9 +1,13 @@
-## HBR / Digital Article / The Definitive HBR Strategy Glossary
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd01119b9a24dda43ddb0aba22d93158cb9daad3
+title: H08TKY-PDF-ENG
+---
+# Watch “A Plan Is Not a Strategy” video
 
-Purpose at the core of strategy: Purpose is usually seen as an add-
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-on—a way to create shared value, improve employee morale and
+23
 
-commitment, give back to the community, and help the environment.
-
-But research on high-growth companies ﬁnds that many have moved
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

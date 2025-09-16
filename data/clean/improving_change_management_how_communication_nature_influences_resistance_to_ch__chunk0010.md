@@ -1,3 +1,7 @@
-# of
-
-adopting
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: da3b78455d5fd03bd3924cec598ef80385a8e149
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# appropriateness

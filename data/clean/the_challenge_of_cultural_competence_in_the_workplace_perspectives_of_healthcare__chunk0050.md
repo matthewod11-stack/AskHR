@@ -1,3 +1,13 @@
-# Page 10 of 11
+---
+source_path: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare.md
+pages: n/a-n/a
+chunk_id: 393690f371cc64f7699e758bafed9f10ddceb0b1
+title: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare
+---
+# Consent for publication Not applicable.
 
-Lincoln, NE, USA. 3School of Social & Political Sciences, The University of Melbourne, Gratton Street, Melbourne, Victoria, Australia. 4School of Psychological Sciences, Swinburne University of Technology, John St, Hawthorn, Melbourne, Victoria, Australia. 5Alfred Deakin Research Institute for Citizenship and Globalisation, Deakin University, Burwood, Melbourne, Victoria, Australia.
+Competing interests The authors declare that they have no competing interests.
+
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author details 1Centre for Forensic Behavioural Science, Swinburne University of Technology, 1/582 Heidelberg Rd, Alphington, Melbourne, Victoria, Australia. 2Department of Psychology, University of Nebraska-Lincoln, Burnett Hall,

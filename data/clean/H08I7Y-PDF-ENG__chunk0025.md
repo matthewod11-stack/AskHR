@@ -1,15 +1,9 @@
-# (Balancers).
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18633b7982637a79462795d5cc890489ca6eebe7
+title: H08I7Y-PDF-ENG
+---
+# HBR / Digital Article / 3 Reasons Change Initiatives Fail — and How to Ensure Yours Su…
 
-Sometimes high stress levels can indicate the change narrative does
-
-not match employees’ motivation styles. In a Swiss bank’s Asia-Paciﬁc
-
-expansion that one of us (Nicolas) advised on, the CEO’s initial message
-
-of bold risk-taking created anxiety among Play Not to Lose employees.
-
-By reframing the initiative as necessary for protecting the bank’s future
-
-stability and competitive position, the CEO aligned the change with
-
-employees’ risk-averse motivations and transformed their resistance
+operational security and regulatory compliance that we depend on”

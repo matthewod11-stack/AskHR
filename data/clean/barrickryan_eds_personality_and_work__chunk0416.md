@@ -1,23 +1,27 @@
-# PERSONALITY AND JOB PERFORMANCE 117
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b98abb3041ee01bdce728e5de15cf0308e75ffd9
+title: barrickryan_eds_personality_and_work
+---
+# nal of Applied Psychology, 74, 273–279.
 
-Judge, T. A., & Bono, J. E. (2001). Relationship of core self-evaluation traits—self-esteem, generalized self-efﬁcacy, locus of control, and emotional stability—with job satisfaction and job performance: A meta-analysis. Journal of Applied Psychology, 86, 80–92.
+Hollenbeck, J. R., & Klein, H. J. (1987). Goal commitment and the goal- setting process: Problems, prospects, and proposals for future re- search. Journal of Applied Psychology, 72, 212–220.
 
-Judge, T. A., Higgins, C. A., Thoresen, C. J., & Barrick, M. R. (1999). The Big Five personality traits, general mental ability, and career success across the life span. Personnel Psychology, 52, 621–652.
+Hollenbeck, J. R., Williams, C. R., & Klein, H. J. (1989). An empirical ex- amination of the antecedents of commitment to difﬁcult goals. Jour- nal of Applied Psychology, 74, 18–23.
 
-Judge, T. A., & Ilies, R. (2002). Relationship of personality to performance motivation: A meta-analytic review. Journal of Applied Psychology, 87, 797–807.
+Hough, L. M. (1992). The “Big Five” personality variables–construct con- fusion: Description versus prediction. Human Performance, 5, 139–155.
 
-Kanfer, R. (1990). Motivation theory and industrial and organizational psychology. In M. D. Dunnette & L. M. Hough (Eds.), Handbook of industrial and organizational psychology (2nd ed., Vol. 1, pp. 75–170). Palo Alto, CA: Consulting Psychologists Press.
+Hough, L. M. (2001). I/Owes its advances to personality. In B. W. Roberts & R. T. Hogan (Eds.), The intersection of personality and industrial/ organizational psychology (pp. 19–44). Washington, DC: American Psychological Association.
 
-Kanfer, R. (1992). Work motivation: New directions in theory and re- search. In C. L. Cooper & I. T. Robertson (Eds.), International review of industrial and organizational psychology (pp. 1–42). New York: Wiley. Kanfer, R., & Heggestad, E. D. (1997). Motivational traits and skills: A per- son-centered approach to work motivation. Research in Organiza- tional Behavior, 19, 1–56.
+Hough, L. M., Eaton, N. K., Dunnette, M. D., Kamp, J. D., & McCloy, R. A. (1990). Criterion-related validities of personality constructs and the effect of response distortion on those validities. Journal of Applied Psychology, 75, 581–595.
 
-Kernan, M. C., & Lord, R. G. (1988). Effects of participative vs. assigned goals and feedback in a multitrial task. Motivation and Emotion, 12, 75–86.
+Hough, L. M., & Furnham, A. (2002). Importance and use of personality variables in work settings. In W. Borman, D. Ilgen, & R. Klimoski (Eds.), Comprehensive handbook of psychology, Vol. 12: Industrial and or- ganizational psychology. New York: Wiley.
 
-Kuhl, J. (1985). Volitional mediators of cognition-behavior consistency: Self-regulatory processes and action vs. state orientation. In J. Kuhl & J. Beckmann (Eds.), Action control: From cognition to behavior (pp. 101–128). New York: Springer-Verlag.
+Hough, L. M., & Ones, D. S. (2001). The structure, measurement, valid- ity, and use of personality variables in industrial, work, and organi- zational psychology. In N. R. Anderson, D. S. Ones, H. K. Sinangil, & C. Viswesvaran (Eds.), Handbook of work psychology (pp. 233–277). Thousand Oaks, CA: Sage.
 
-Kuhl, J. (1994). Action versus state orientation: Psychometric properties of the action control scale (ACS-90). In J. Kuhl & J. Beckmann (Eds.), Volition and personality: Action versus state orientation (pp. 47–59). Seattle: Hogrefe & Huber.
+Hough, L. M., & Schneider, R. J. (1996). Personality traits, taxonomies, and applications in organizations. In K. R. Murphy (Ed.), Individ- ual differences and behavior in organizations (pp. 31–88). San Francisco: Jossey-Bass.
 
-Lance, C. E., & Bennett, W. (2000). Replication and extension of models of supervisory job performance ratings. Human Performance, 13, 139–158. LePine, J. A., Colquitt, J. A., & Erez, A. (2000). Adaptability to changing task contexts: Effects of general cognitive ability, conscientiousness, and openness to experience. Personnel Psychology, 53, 563–593. LePine, J. A., Erez, A., & Johnson, D. E. (2002). The nature and dimen- sionality of organizational citizenship behavior: A critical review and meta-analysis. Journal of Applied Psychology, 87, 52–65.
+Hunter, J. E. (1983). A causal analysis of cognitive ability, job knowledge, job performance, and supervisor ratings. In F. Landy, S. Zedeck, & J. Cleveland (Eds.), Performance measurement and theory (pp. 257– 266). Mahwah, NJ: Erlbaum.
 
-Leslie, J. B., & Van Velsor, E. (1996). A look at derailment today: North Amer-
-
-ica and Europe. Greensboro, NC: Center for Creative Leadership.
+Hurtz, G. M., & Donovan, J. J. (2000). Personality and job performance: The Big Five revisited. Journal of Applied Psychology, 85, 869–879. Johnson, J. W. (2001). The relative importance of task and contextual per- formance dimensions to supervisor judgments of overall perfor- mance. Journal of Applied Psychology, 86, 984–996.

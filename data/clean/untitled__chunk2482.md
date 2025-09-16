@@ -1,7 +1,7 @@
-# mental health. New York: Basic Books.
-
-Kellam, S. G., Koretz, D., & Moscicki, E. K. (Eds.). (1999a). Prevention science: Part I [Special issue]. American Journal of Community Psychology, 27.
-
-Kellam, S. G., Koretz, D., & Moscicki, E. K. (Eds.). (1999b). Prevention science: Part II [Special issue]. American Journal of Community Psychology, 27.
-
-Kelly, J. G. (1966). Ecological constraints on mental health services.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7c66334096237cdc181175cf0d233b740d872903
+title: untitled
+---
+## Joint Commission on Mental Illness and Health. (1961). Action for

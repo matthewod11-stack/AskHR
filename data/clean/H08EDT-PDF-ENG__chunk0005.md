@@ -1,17 +1,25 @@
-# HBR / Digital Article / How Work Has Changed for Women in Corporate America Over t…
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb99e9daa1a5dcd2d25446cf6c1b1e073cb88869
+title: H08EDT-PDF-ENG
+---
+# freemixer/Getty Images
 
-inequities felt like cognitive dissonance. And yet the “women need to do
+Ten years ago, I was feeling burned out after leaving a corporate job
 
-better” narrative persisted.
+in the technology industry, where I had faced and witnessed bias,
 
-At the time, a friend sent me a new McKinsey and Lean In “Women
+racism, and sexual harassment. The prevailing narrative around me
 
-in the Workplace” report. In bold letters at the top were the words
+about gender inequality was that women weren’t driven or conﬁdent
 
-“Corporate America is not on a path to gender equality.” I felt both
+enough to succeed in the workplace. Given that, seeing such ambitious,
 
-stunned and validated. Here was actual research that literally captured
+brilliant women colleagues — particularly women of color — face such
 
-the observations and experiences I had been grappling with. The study
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-spurred me to do my own research, advocacy, and writing on how to ﬁx
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

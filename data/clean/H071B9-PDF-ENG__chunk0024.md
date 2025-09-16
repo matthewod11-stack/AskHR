@@ -1,7 +1,29 @@
-# and strategic progress.
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0405bc08f2a84702f463175f0b175584db325bb
+title: H071B9-PDF-ENG
+---
+## HBR / Digital Article / When Trust Takes Away from Effective Collaboration
 
-Another problem is when feelings of distrust cause established
+experience of, we intuitively feel trust. If the new person is different,
 
-individuals to challenge a new person in ways that they don’t challenge
+we feel distrust. The greater the difference, the more distrust. This
 
-other established collaborators. This can trigger feelings of exclusion
+kind of trust is closely linked to unconscious bias and has nothing to
+
+do with the new person’s competence or the quality of the
+
+information they bring to the table.
+
+Problems arise when our intuitive feeling of distrust makes us more
+
+doubtful of the information brought by new individuals who haven’t
+
+had time to prove their trustworthiness. This puts us at risk of
+
+undervaluing important information that’s communicated by someone
+
+new and overvaluing other information. Since new individuals often
+
+possess crucial information, this can be detrimental to transformation

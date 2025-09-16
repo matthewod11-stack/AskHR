@@ -1,7 +1,33 @@
-## your success and that of other people in the organization.
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3368d279398df12ef842243ec0047840bbabd8c8
+title: H07STF-PDF-ENG
+---
+# this new role?
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+I’d love to hear you talk a little bit more about that. We’ve made
 
-11
+the move from Company A to Company B. How long should we give
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ourselves? How tough should we be on ourselves? Should we read The
+
+First 90 Days? How do we transition successfully?
+
+HERMINIA IBARRA:
+
+The First 90 days remains the Bible on that topic. What he says to
+
+start with, which also goes to the previous question, is the ﬁrst 90 days
+
+actually starts way before, with doing your homework and talking to
+
+people and ﬁnding out the stakeholders. There’s this lovely idea about,
+
+I think it’s the ﬁve conversations that you need to be able to have
+
+with your boss or whoever your key stakeholders are about what the
+
+expectations are about how you’re going to be measured, about the key
+
+topics, so that you’re going in recognizing the interdependence between

@@ -1,11 +1,17 @@
-## innovative products for the corporation through building a network
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c75bddd57fa116131c456598893e153ee310f49e
+title: R2404K-PDF-ENG
+---
+## functions, such as quality assurance, the accelerator’s leadership will
 
-of development companies. The predetermined transfer price of each
+facilitate the teams’ rapid and focused delivery of new products.
 
-successful product means that team members—who have an equity
+The accelerator attracts talent because it offers a fast-paced entrepreneurial climate and removes funding and acquisition risks.
 
-stake in the development companies they are a part of—get a larger
+Each group of innovators creates a separate development company for
 
-return than what they would earn if they worked at a large corporation
+each product it designs, and a team may work on three to ﬁve products
 
-and more certainty of an exit than if their work was backed by venture
+at one time. The accelerator’s leadership team creates a portfolio of

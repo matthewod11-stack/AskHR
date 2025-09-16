@@ -1,15 +1,15 @@
-# thing?”
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 693eb9caed61ef47cd16ded19fe94498620aa459
+title: F2505A-PDF-ENG
+---
+## School of Business and Maria Roche of Harvard Business School
 
-Using data from the market research ﬁrm PitchBook and the data
+decided to study this issue, they opted to focus speciﬁcally on how early
 
-analytics company BuiltWith, Ketkar and Roche recorded information
+funding aﬀected ﬁrms’ ability to develop unique technical innovations. “We wanted to conduct this research because we were always baﬄed
 
-on 11,853 U.S. tech companies (most of which were creating apps
+by prior studies that said being constrained is actually very good for
 
-and websites) founded from 2010 to 2019. First they identiﬁed when
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+startups,” says Roche. “How can not having a lot of cash be a good

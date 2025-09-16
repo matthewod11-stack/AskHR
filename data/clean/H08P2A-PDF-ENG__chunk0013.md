@@ -1,9 +1,11 @@
-## parallel challenge of psychological safety in hybrid environments—now
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb8a808b0dfab74b1b600dbcce3e3bb3fc3d6628
+title: H08P2A-PDF-ENG
+---
+## HBR / Digital Article / Should You Record That Meeting?
 
-imagine if those meetings had been recorded. It’s important to keep in
+being unwilling to show personal vulnerability in front of colleagues
 
-mind that we’ve known for close to 25 years that informal, unplanned
-
-sharing is critical for creating mutual knowledge and is thus particularly
-
-critical for collaborations where participants are remote from each
+in online meetings that led Amy Edmondson and I to write about the

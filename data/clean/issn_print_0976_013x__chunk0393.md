@@ -1,9 +1,23 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: b9116c8cea9354b3fbfcfbf260019af7ea0dd81a
+title: issn_print_0976_013x
+---
+# of
 
-Journal of Management & Public Policy,
+Intelligent Manufacturing,
 
-Vol. 14, No. 2, June 2023, Pp. 43-48
+33,
 
-ISSN 0976-0148 (Online) 0976-013X (Print)
+2371-2392.
 
-DOI: https://doi.org/10.47914/jmpp.2023.v14i2.005
+https://doi.org/10.1007/s10845-021-01798-9
+
+Zidi, S., Hamani, N., Samir, B., & Kermad, L. (2021b). Use of Fuzzy Logic for
+
+Reconfigurability Assessment in Supply Chain, International Journal of Fuzzy Systems,
+
+24, 1025-1045. https://doi.org/10.1007/s40815-021-01187-7
+
+42

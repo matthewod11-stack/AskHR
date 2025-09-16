@@ -1,7 +1,27 @@
-## also actively dismantle and guard against the resurrection of the old.
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16eb364ac779e82784446cc470500213e5d6a0aa
+title: H082JA-PDF-ENG
+---
+## During the early days of Avinsa’s transformation, for example, teams
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+would unconsciously defer to the historically dominant quality control
 
-3
+and internal control departments during process redesigns, spotlighting
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+deep-seated habits and perceptions that the organization needed
+
+to unlearn. Furthermore, the former head of the safety and health
+
+at work department found herself navigating the complexities of
+
+operating alone as a safety coach. Meanwhile her former aides, now part of diﬀerent “circles” — autonomous work units where members
+
+collectively make decisions regarding their speciﬁc operational tasks
+
+without external supervision — faced diﬃculties adapting to their new teams. Addressing these challenges required signiﬁcant eﬀort,
+
+including coaching, physical relocation, and role redeﬁnition.
+
+To truly ﬂatten an organization, it’s not enough to build anew; one must

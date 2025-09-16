@@ -1,5 +1,9 @@
-## Test. Journal of Personality Assessment, 72, 74–92.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a087c378a53b3b5322de4c9593f1c9b0208d1ff6
+title: untitled
+---
+# Northvale, NJ: Aronson.
 
-Dana, R. H. (Ed.). (2000). Handbook of cross-cultural and multicul-
-
-tural personality assessment. Mahwah, NJ: Erlbaum. Darwin, C. (1859). The origin of species. London: Murray. Digman, J. M. (1990). Personality structure: Emergence of the Five- Factor Model. Annual Review of Psychology, 41, 417–440. Donders, J. (1997). A short form of the WISC-III for clinical use.
+Cramer, P. (1999). Future directions for the Thematic Apperception

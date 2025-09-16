@@ -1,5 +1,9 @@
-## The ﬁrst International Asian Conference in Psychology convened in Singapore.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b25637d51a0990ef521429586f6fec271fdebdae
+title: untitled
+---
+# The ﬁrst International Behavioral Neuroscience Conference was held in San Antonio, Texas.
 
-The Asian-Paciﬁc Regional Conference of Psychology took place in Guangzhou, China. This was the ﬁrst of a series of biennial regional meetings cosponsored by the IAAP and IUPsyS.
-
-The Regional Congress of Psychology for Professionals in the Americas, cosponsored by the IAAP and IUPsyS, took place in Mexico City.
+The ﬁrst International Congress on Behaviorism and the Sciences of Behavior took place in Guadalajara, Mexico.

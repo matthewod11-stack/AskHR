@@ -1,17 +1,15 @@
-# the company?”
+---
+source_path: H0734V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f96be0cb6bc519e4b833a23ce76b6c5771d8b257
+title: H0734V-PDF-ENG
+---
+## building on analogous situations, science fiction inspiration, interviews
 
-From this data we craft a mix of scenarios which depict different
+with extreme users and other stakeholders. Typically, we also interview
 
-versions of the future. For example, by talking to employees of a major
+employees to understand which possible developments have (not) been
 
-fragrance brand, we identified the limiting belief that the company’s
+considered by the company. We ask questions such as “What has been
 
-sales would forever be driven by the end of the year season, as it has
-
-always been since the creation of the brand more than a century ago.
-
-Using this information, we crafted a “Christmas is over” scenario in
-
-which sales seasons were spread out over the year.
-
-Next, we run immersive workshops in which we discuss three or four
+the biggest failure you’ve seen in the company?” and “What could kill

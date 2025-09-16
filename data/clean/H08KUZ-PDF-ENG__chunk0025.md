@@ -1,7 +1,11 @@
-# future revenue loss.”
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db99333d550c48451b4f1a55303b063f9d390381
+title: H08KUZ-PDF-ENG
+---
+## Delta’s use of its computer programs and computer networks.”
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- And, that as a result, “Delta suﬀered over $500 million in out-of-pocket
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+losses from the Faulty Update, in addition to reputational harm and

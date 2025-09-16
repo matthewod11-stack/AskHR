@@ -1,28 +1,25 @@
-### **[Building your first hybrid team]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: 1d6d53c72f753a229e43b557041808408c4231fc
+title: Gibbons
+---
+### **[The orchestration advantage]{.underline}**
 
-[How can you get started? Here\'s a roadmap to follow:]{.underline}
+[The magic of hybrid teams isn\'t in the individual capabilities of
+humans or AI agents. It\'s in orchestration --- coordinating their
+complementary strengths to achieve outcomes neither could accomplish
+alone.]{.underline}
 
-- [Start small. Choose a process with clear boundaries and measurable
- > outcomes. Customer service, content creation, and data analysis
- > are good candidates. Avoid starting with high-stakes, ambiguous,
- > or emotionally charged work (Gartner, 2024).]{.underline}
+[Consider how modern financial trading firms operate. AI agents monitor
+markets 24/7, executing trades within defined parameters. Human traders
+set strategy, adjust parameters based on world events, and handle
+exceptional situations. Neither could achieve the same results alone ---
+it\'s the orchestration that creates value (Bank for International
+Settlements, 2024).]{.underline}
 
-- [Define roles explicitly. Document what AI agents will do, what
- > humans will do, and --- critically --- what they\'ll do together.
- > Be specific about decision rights, escalation triggers, and
- > handoff protocols.]{.underline}
-
-- [Create feedback loops. Hybrid teams improve through iteration.
- > Build mechanisms for humans to provide feedback to AI agents and
- > for AI agents to surface patterns in human
- > decision-making.]{.underline}
-
-- [Invest in translation layers. Humans and AI agents speak different
- > languages. You need interfaces --- both technical and procedural
- > --- that allow them to communicate effectively.]{.underline}
-
-- [Prepare for resistance. Some team members will fear AI agents as
- > threats to their jobs. Others will over-rely on AI, abdicating
- > critical thinking. Address both extremes through clear
- > communication about how hybrid teams enhance rather than replace
- > human capabilities.]{.underline}
+[This orchestration requires what I call \"handoff design\" ---
+deliberately structuring how work flows between human and artificial
+team members. Each handoff needs clear triggers (when does work
+transfer?), complete context (what information needs to be passed?), and
+defined expectations (what should the receiving party do?).]{.underline}

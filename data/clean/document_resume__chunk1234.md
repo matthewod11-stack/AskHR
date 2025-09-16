@@ -1,3 +1,9 @@
-# 4 Very Good Makes an effort
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: bfd274c1c3bc5ec410dddb193c13bec2933e6583
+title: document_resume
+---
+# Performance Appraisal
 
-to hold pre and post conferences in an atmosphere of supportive learning rather than evaluation. Main- tains a flexible format in conferences in order to accommodate for any unforeseen situations that may occur. Actively assists students in discovering how to improve their decision-making skills.
+to build on students' strengths and concentrate on reducing any deficiencies.

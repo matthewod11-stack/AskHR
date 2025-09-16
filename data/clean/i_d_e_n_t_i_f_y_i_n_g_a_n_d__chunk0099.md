@@ -1,5 +1,33 @@
-# The more people work with AI to re-engineer tasks and work(cid:7)ows, the more opportunities(cid:23) they uncover(cid:22)
+---
+source_path: i_d_e_n_t_i_f_y_i_n_g_a_n_d.md
+pages: n/a-n/a
+chunk_id: 32e1f023e5992615857d23d4ef05f794ca8eef15
+title: i_d_e_n_t_i_f_y_i_n_g_a_n_d
+---
+# Start today
 
-We hope this guide gives your team a clear way to begin. We’re here to support the journey as(cid:23) you move from ideas to outcomes.
+AI isn’t like traditional software or cloud apps. Learning to harness its strengths requires a new mindset. But our work with our customers has shown us how quickly people across all disciplines can learn this mindset and start to spot high-impact use cases in their work.
 
-We’re looking at every business process—from legal to research, to manufacturing, to commercial—and thinking about how to redesign them with AI.
+Kickstarting this process comes down to helping your organization take three steps:
+
+01
+
+Understand where AI adds value
+
+Identify parts of your business that can immediatelyS bene_t from AI
+
+02
+
+Teach your employees fundamental use cases
+
+Help teams explore foundational use cases, and start building their own
+
+03
+
+Prioritize what to scale
+
+Focus on high-impact, low-e£ort opportunities using the Impact/E£ort Framework
+
+31
+
+Identifying and scaling AI use cases

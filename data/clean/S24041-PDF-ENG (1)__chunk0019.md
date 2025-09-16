@@ -1,37 +1,19 @@
-## HBR / Spotlight Article / Power, Influence, and CEO Succession
+---
+source_path: S24041-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 17b1df3f1d44deb458bdae1da74fff7c3b3b502d
+title: S24041-PDF-ENG (1)
+---
+# company.
 
-than observers realize (see “How CEOs Build Conﬁdence in Their
+The taking-charge phase starts when the board names the successor. But it doesn’t end when the new CEO oﬃcially takes oﬃce; it ends only
 
-Leadership” in this issue), but only when both are attained can the
+once she has earned the loyalty of the organization’s most inﬂuential
 
-handoﬀ be seen as successful.
+people and the full conﬁdence of the board. That often takes longer
 
-Planned successions require diﬃcult balancing acts. The designated
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-successor must establish legitimacy and push for change and
+4
 
-improvement—without appearing too critical of the current CEO’s
-
-tenure. She must establish relationships with directors while respecting
-
-the fact that she still works for the CEO until he steps down.
-
-Success in the top job requires acute awareness of political forces, the wise use of power, and skill at influencing others. Mastering these requirements is crucial.
-
-The outgoing CEO must show the organization that he’s ready to leave
-
-while dealing with his own emotions about ending this chapter of his
-
-career. He also must prepare the organization for a new leader—by
-
-inﬂuencing those loyal to him to support his successor and perhaps making diﬃcult organizational changes now rather than leaving them
-
-for the new CEO to deal with.
-
-Meanwhile, the board must ensure that the incumbent departs in
-
-the best possible way. The directors must develop a good working
-
-relationship with the successor while setting clear expectations and
-
-standards for her performance. They must agree on big questions about
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

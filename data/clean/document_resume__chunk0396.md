@@ -1,5 +1,7 @@
-# Performance Appraisal
-
-While BARS is highly job-related, there are several limitations. The most obv ions problem is that the rater may not be able to match observed behaviors with the scale anchors.I4 There are obviously many more cntical incidents which describe perfor- mance under the domain of "Classroom Teaching Performance" than the five items which are provided on the scale. Another problem is that the rater might observe both "good" and "bad" performance on the same dimension. For example, the faculty member might meet all classes, but during the same period present "true life" examples in class which frequently have little relationship to course material.
-
-A procedure which overcomes these and other limitations of BARS is galled behavioral observation scales (BOS) as set forth by Latham and Wexley .1' The pnmary difference is that BOS is dev eloped by attaching a 5-point Liken scale to identify each behavioral item as shown in Figure 3.10 for the job dimension of "Instruction".
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 9e98543410f5d1d3dc4ff92c7d525bfb5f9997b7
+title: document_resume
+---
+# 32

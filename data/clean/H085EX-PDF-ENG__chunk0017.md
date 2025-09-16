@@ -1,7 +1,21 @@
-## implement signiﬁcant changes to the business and strategy of both
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: adbde4c15aa9b0819c7f24c024bc2b176769f827
+title: H085EX-PDF-ENG
+---
+# diagnostics.
 
-bioMérieux and BioFire. Furthermore, middle managers at BioFire were
+A critical factor contributing to bioMérieux’s success in merging with
 
-encouraged to collaborate with their peers, leaders, and direct reports to discuss proposed changes openly and oﬀer direct feedback to senior
+BioFire was leadership’s adeptness in activating middle management.
 
-leadership in Lyon. This inclusive approach facilitated the identiﬁcation of potential areas of resistance, thereby enabling eﬀective mitigation
+The company engaged high-potential middle managers from both
+
+BioFire and bioMérieux in the US to spearhead the integration.
+
+Leadership empowered these mid-level managers by clearly deﬁning
+
+priorities for the integration team, providing essential resources, and
+
+deputizing them – thereby granting them the authority and means to

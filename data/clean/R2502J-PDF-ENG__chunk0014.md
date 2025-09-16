@@ -1,11 +1,11 @@
-# commissions.
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b68579dc9b98c6353dd543aebc61b9e5f9eb5bc7
+title: R2502J-PDF-ENG
+---
+## both inbound sales-and-service calls and outbound sales-only calls.
 
-- 5. Carrot and stick. Salespeople may use rewards, promises, threats, or
+The CSAs would avoid accepting the incoming calls to maximize the
 
-punishments to encourage customer behavior that maximizes incentive
-
-payouts. According to an interviewee at an airline, some agents oﬀered
-
-to waive baggage fees for customers during the check-in process if
-
-they signed up for the airline’s credit card, thus earning themselves a
+time they could devote to the outbound calls, thereby earning more

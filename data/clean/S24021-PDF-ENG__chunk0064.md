@@ -1,7 +1,7 @@
-# What Makes a Great Growth Strategist
-
-As companies grapple with the central question of how fast to grow,
-
-they’ll need leaders who understand the key decisions to be made
-
-and their inherent trade-oﬀs. Good growth strategists are keenly aware
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32c219c3bc4c9c515203f0fa620dee93f5429455
+title: S24021-PDF-ENG
+---
+# less growth.

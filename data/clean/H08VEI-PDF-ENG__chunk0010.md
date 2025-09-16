@@ -1,35 +1,21 @@
-## That support matters because in times of change, frontline managers
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3114b03e8609f119ba127b31427c25bb1bf4d6b
+title: H08VEI-PDF-ENG
+---
+# Focus on frontline managers.
 
-are often the ones employees turn to, says Willett. “That relationship is
+Frontline managers are key to how messages get communicated and
 
-where trust is built. If it’s solid, people feel heard and they’re more likely
+how teams respond, so Carroll recommends prioritizing them. They
 
-to open up and say, ‘I’m worried about these new metrics,’ or whatever’s
+work directly with employees and have a clearer view of what’s actually
 
-on their mind.”
+happening, she says. “Frontline managers have an outsized inﬂuence
 
-Think like a translator.
+on whether people stay motivated and see how their work matters,” she
 
-Along with developing your frontline managers’ communication skills,
+adds. “Leaders need to help them see that communication is a key part
 
-you need to help employees at every level understand the reason behind
-
-the change. “People’s responses tend to fall on a continuum,” says
-
-Carroll. “A small percentage are excited and see the vision, some will
-
-dig in and resist, and most are somewhere in between.”
-
-To reach that middle group, a compelling case is needed. Think like a
-
-translator, says Willett. As a senior leader, “you know more about how
-
-the decision was made and what the alternatives were,” he says. “You
-
-don’t need to tell people everything, but they do need to know what’s
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of their job, and give them the skills and tools to do it well.”

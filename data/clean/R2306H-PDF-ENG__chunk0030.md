@@ -1,7 +1,15 @@
-# for unusual ideas.
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b90f9db43fba6acdaf8bd97dfaad36518aca4df3
+title: R2306H-PDF-ENG
+---
+## HBR / Magazine Article / Harness Your Network to Unlock Innovation
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+See more HBR charts in Data & Visuals on HBR.org.
 
-6
+However, not everyone in such peer groups will be a catalyst. Leaders
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+will have to invest time in getting to know members to ﬁnd someone
+
+who checks all three boxes—generosity; deep, diverse ties; and a passion

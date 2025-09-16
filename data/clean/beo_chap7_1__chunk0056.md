@@ -1,11 +1,15 @@
-# 7.2.6.3 Overconfidence
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 7f98021022d4ab939edb37348f314e81024884fe
+title: beo_chap7_1
+---
+# disproportionately higher compensation after exogenously higher profits. Finally, it
 
-Many studies show that people are often overconfident. We define overconfidence
+is possible that no party inside the corporation exhibits misattribution error. CEOs
 
-as the tendency to overestimate one’s own (relative) abilities and resulting outcomes
+in badly governed firms may overadjust their compensation to good outcomes and
 
-and overoptimism as overestimation of general prospects. Here we briefly mention
+underadjust for bad outcomes, exploiting investors’ naivety, lack of information, or
 
-agency theory, this suggests that pay-for-performance will be more slowly adopted in Asian-controlled
-
-firms and the East-West difference may have something to do with CEO status and pay in the different
+misattribution of executive credit to skill, and blame to outside forces.

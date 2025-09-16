@@ -1,3 +1,9 @@
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 053e768f2ec6f826570da5f33a29166d4d115c5c
+title: industrial_organizational_psychology_an_applied_approach
+---
 # S
 
-Some employees have gone directly to the person who did the harassing or discriminating to see if they can work out the situation without getting others involved. However, this step works only if you feel comfortable with it. You are under no obli- gation to go directly to that person.
+Report the situation to your supervisor or the HR director. (If it is your supervisor who has harassed or discriminated against you, take your concerns directly to the HR director.)

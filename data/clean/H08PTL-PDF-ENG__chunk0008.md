@@ -1,11 +1,21 @@
-# power inherent in their roles.
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46a4ae3781c4424867f98c59b21d5742b114357e
+title: H08PTL-PDF-ENG
+---
+## Stock Exchange, with average assets of $9.04 billion and average
 
-Power-conduit tasks, such as setting meeting agendas and establishing
+revenues of $3.7 billion. Industries included industrials (22%), energy
 
-board committees, may appear routine but are vital for enabling leaders
+(17%), materials (17%), real estate (13%), information technology (9%),
 
-to exert their inﬂuence. Encroachment risk occurs when board chairs
+ﬁnance (9%), consumer discretionary (9%), and healthcare (4%). Using
 
-use AI applications to automate their tasks, but the use of AI ends up
+semi-structured interviews that averaged 54 minutes in length, we
 
-weakening or eroding the board chair’s inﬂuence over power-conduit
+discussed in detail how board chairs exercise power in their roles.
+
+Multiple independent coders reviewed transcripts to identify speciﬁc
+
+power-conduit tasks, or actions through which leaders exercise the

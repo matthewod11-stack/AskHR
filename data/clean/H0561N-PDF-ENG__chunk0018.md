@@ -1,19 +1,17 @@
-## HBR / The Big Idea / The Gender Gap in 6 Charts
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 547634091df0110d35b20b41a61c3c0b314dbe4b
+title: H0561N-PDF-ENG
+---
+# heads of state.
 
-Only one of the four measures rose between 2017 and 2018: economic
+So while women are increasingly educated and healthy, they are rarely
 
-opportunity, largely due to a general boost in women’s income and to an
-
-increase in the number of women in the tech space. All other categories,
-
-while generally on the rise since 2006, took a slight dip. In particular,
-
-women’s political empowerment dropped after almost a decade of slow
-
-growth. The reason? Stalled or declining representation of women in political oﬃce in the West.
+included in decision making that aﬀects them.
 
 Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-3
+2
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

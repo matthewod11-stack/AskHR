@@ -1,13 +1,33 @@
-# amongst managers.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 9f8acef848f2492c46d7ff590ca84c025b365795
+title: california_state_university_northridge_1
+---
+# the only choice for an employee.
 
-The analysis of this chapter is predicated on the fact that an employer can stay out
+6
 
-of court or reduce the number oflegitimate claims to be pursued in court. Preventive
+Another area to be analyzed, is preventive measures, found in chapter six.
 
-measures also help create an educated work environment for the employer and employee.
+Preventive measures for wrongful termination, range from a disclaim.er placed in an
 
-Not only should managers be educated, but employees should be informed on conduct that
+employee handbook to a legal audit. Handbooks were discussed in chapter two, as well as
 
-may lead to termination if the business does not have a employee handbook. Essentially,
+the effectiveness they can have in focusing in on key concepts. Having a human resource
 
-these are efforts to reduce problems within a work environment that could manifest into
+representative review the handbook can reduce instances of litigation. Next, the employee
+
+would read the handbook and sign a statement to acknowledge that they have read the
+
+handbook this is then kept in their personnel file.
+
+For management level employees, the research shows that training on critical
+
+business issues should be addressed along with human resource issues. Business should
+
+design a program that covers problems that are tailored to their needs along with standard
+
+personnel practices, to ensure competent managers. Further research also shows that a
+
+well-trained staff will result in successful termination suits; the key here is consistency

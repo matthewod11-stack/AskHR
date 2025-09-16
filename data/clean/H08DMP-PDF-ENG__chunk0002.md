@@ -1,7 +1,7 @@
-# Westend61/Getty Images
-
-Amazon’s recent call for employees to return to the oﬃce (RTO) ﬁve
-
-days a week is the latest example of high-proﬁle companies pulling
-
-back from their remote-work policies. RTO advocates often cite the
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89afd00cc3ea94bbf960089066f870081e3b66c6
+title: H08DMP-PDF-ENG
+---
+## Published on HBR.org / October 29, 2024 / Reprint H08DMP

@@ -1,7 +1,15 @@
-# predictable results.
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e065f2907634689ee6ecb3ef1e683a35be39f40d
+title: H08HWT-PDF-ENG
+---
+## Generative AI relies on natural language processing (NLP) to
 
-If most people use gen AI in this way, then no matter how powerful
+understand the request and generate relevant results. It’s basically
 
-the tools, we inadvertently create a new status quo in how we work and
+pattern recognition and pattern assembly based on instructions to
 
-create. Training our brains to challenge our thinking, our assumptions
+deliver output that completes the task at hand. This approach aligns with our brains’ default mode: pattern recognition and eﬃciency-
+
+seeking, which favors short, straightforward prompts to get immediate,

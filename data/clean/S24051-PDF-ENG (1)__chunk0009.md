@@ -1,9 +1,7 @@
-## that link practices to outcomes, for both individuals and teams. We
-
-have used the framework to test hypotheses about how teams work
-
-best and to apply insights to improve performance. We have applied
-
-this work not only internally but also at several of the companies that
-
-we advise, building on previous learning to understand what eﬀective,
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 901fd83c948a1b076cd81ecb2aa90d8cd62acce6
+title: S24051-PDF-ENG (1)
+---
+# HBR / Spotlight / New Rules for Teamwork

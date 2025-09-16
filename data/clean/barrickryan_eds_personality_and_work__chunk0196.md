@@ -1,5 +1,11 @@
-## tivity. Personality and Individual Differences, 23, 705–707.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: ce7a838a075766175dccc2112923bf1c29e684a1
+title: barrickryan_eds_personality_and_work
+---
+# General Psychology, 2, 300–319.
 
-Futterman, A. D., Kemeny, M. E., Shapiro, D., & Fahey, J. L. (1994). Im- munological and physiological changes associated with induced pos- itive and negative mood. Psychosomatic Medicine, 56, 499–511. George, J. M., & Brief, A. P. (1992). Feeling good—doing good: A con- ceptual analysis of the mood at work-organization spontaneity rela- tionship. Psychological Bulletin, 112, 310–329.
+Friedman, H. S. (1999). Personality and longevity: Paradoxes. In J. M. Robine, B. Forette, C. Franceschi, & M. Allard (Eds.), The paradoxes of longevity (pp. 115–122). New York: Springer-Verlag.
 
-George, J. M., & Zhou, J. (2001). When openness to experience and con- scientiousness are related to creative behavior: An interactional ap- proach. Journal of Applied Psychology, 86, 513–524.
+Frijda, N. H. (1999). Emotions and hedonic experience. In D. Kahneman, E. Diener, & N. Schwarz (Eds.), Well-being: The foundations of hedonic psychology (pp. 190–210). New York: Russell Sage Foundation. Furnham, A., & Miller, T. (1997). Personality, absenteeism and produc-

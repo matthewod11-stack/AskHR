@@ -1,3 +1,9 @@
-## ensemble methods. Int. J. Mach. Learn. Comput, 11(2), 110-114.
+---
+source_path: journal_of_business_and_management_studies.md
+pages: n/a-n/a
+chunk_id: 905892f3baa3338ec8bd6be06d4f9fef215238d0
+title: journal_of_business_and_management_studies
+---
+# https://github.com/proAIrokibul/Employee-Attrition-Prediction/blob/main/Model/main.ipynb
 
-[11] Raza, A., Munir, K., Almutairi, M., Younas, F., & Fareed, M. M. S. (2022). Predicting employee attrition using machine learning
+[10] Qutub, A., Al-Mehmadi, A., Al-Hssan, M., Aljohani, R., & Alghamdi, H. S. (2021). Prediction of employee attrition using machine learning and

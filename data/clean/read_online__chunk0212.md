@@ -1,9 +1,15 @@
-# Employee Relations 29(4), 385–399.
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: c348992a1742977f9827fdf7cf8971e8abcd6f59
+title: read_online
+---
+# Makola, L., Mashegoane, S. & Debusho, L., 2015, ‘Work-family and family-work conflicts
 
-Moore, J.E., 2000, ‘One road to turnover: An examination of work exhaustion in technology professionals’, MIS Quarterly 24(1), 141–168. https://doi. org/10.2307/3250982
+amongst African nurses caring for patients with AIDS’, Curationis 38(1), 1–8.
 
-Motowidlo, S., Packard, J. & Manning, M., 1986, ‘Occupational stress: Its causes and consequences for job performance’, Journal of Applied Psychology 71(4), 618.
+Martin, A. & Roodt, G., 2008, ‘Perceptions of organisational commitment, job satisfaction and turnover intentions in a post-merger South African tertiary institution’, SA Journal of Industrial Psychology 34(1), 23–31. https://doi. org/10.4102/sajip.v34i1.415
 
-Naicker, K., 2013, ‘Employee engagement as the moderator of the relationship between psychological contract breach and perceived supervisor support; and the intention to quit’, PhD thesis, University of Pretoria.
+Mincer, J. & Jovanovic, B., 1979, ‘Labor mobility and wages (No. w0357)’, National Bureau of Economic Research. Retrieved from https://www.nber.org/papers/ w0357.pdf
 
-http://www.sajems.org
+Moore, F., 2007, ‘Work-life balance: Contrasting managers and workers in an MNC’,

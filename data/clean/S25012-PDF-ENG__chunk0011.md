@@ -1,11 +1,15 @@
-## ﬂoor, in the supply chain function, and in software design.
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6acb7def003275bbe0f5878ff7e4283e8a7709d7
+title: S25012-PDF-ENG
+---
+## Empowering Employees Throughout the Enterprise
 
-The company’s MO360 Data Platform connects its passenger-car plants
+Across industries from automaking to life sciences to consumer
 
-worldwide to the cloud, enhancing transparency and predictability
+products, and across functions from R&D to manufacturing to supply
 
-across its production and supply chain operations and enabling the
+chain management, gen AI is boosting employee empowerment in new
 
-deployment of AI and analytics on a global scale. “With the MO360
-
-Data Platform, we democratize technology and data in manufacturing,”
+ways. At Mercedes-Benz, for instance, this is happening on the shop

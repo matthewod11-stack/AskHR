@@ -1,9 +1,9 @@
-# 2 Marginal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 3c95fcd4a8f30738cc6f6e9bfe519b8cd06d3f5e
+title: document_resume
+---
+# 3 Acceptable
 
-Returns evaluation results before next evaluation with little explanation of scores and no critique. Allows students with questions to come by office or stay after class. Records scores.
-
-I Unacceptable Feedback from evaluations is delayed. Fails to provide evalu- ation results before next evaluation. Neglects to regularly inform students of their progress during the course.
-
-- 3. Final Exams an Grades - Files copies of examinations with Dean. Following exam schedule, computes final course grades and submits grades to Registrar.
-
-5 Exceptional Always administers final exams according to schedule. Consis- tently files copy of all exams with Dean of Instruction before designated time. Computes final course grades and files these with the Registrar before designated time. Submits grade sheets and attendance reports for classes.
+Usually returns tests/assignments within one week. Answers any student questions. Does not review every item. Clarifiesareas of confusion and reteaches if necessary.

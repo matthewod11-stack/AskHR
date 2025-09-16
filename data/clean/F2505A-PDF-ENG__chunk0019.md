@@ -1,9 +1,21 @@
-## capabilities, and possible inﬂuence on the company’s direction.
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44e9662c5b96b1213dadc8ced2b85fb129ead2b0
+title: F2505A-PDF-ENG
+---
+## HBR / Magazine Article / Why Startups Benefit When Big Investments Come Later
 
-Experienced tech investors have probably worked with resource-
+Startups should also consider how hands-on investors will be. Do
 
-constrained startups that must balance growth against innovation.
+they want to select the technology you use? Or are they content to
 
-They are more likely to encourage experimentation and scrappiness
+provide strategic guidance? How innovative your company becomes
 
-than ﬁrst-time investors or investors who don’t have experience with
+is ultimately dependent on how open it is to change. Micromanaging
+
+investors can close ﬁrms oﬀ to it.
+
+Has the investor helped other innovative startups? Roche advises
+
+entrepreneurs to think about a potential investor’s reputation,

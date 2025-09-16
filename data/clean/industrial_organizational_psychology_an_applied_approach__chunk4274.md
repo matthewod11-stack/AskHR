@@ -1,13 +1,23 @@
-## Journal of Applied Psychology, 54, 31–41.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9ae1c8ee72d8e3a5bb3fab9e87904bf640d9bc07
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Kopitzke, K., & Miller, D. (1984). Relationship between
 
-Korman, A. K. (1976). Hypothesis of work behavior revisited and an extension. Academy of Management Review, 1, 50–63.
+personality and oﬃ ce environment. Paper presented at the annual Graduate Conference in Industrial/ Organizational Psychology and Organizational Behavior, Virginia Beach, VA.
 
-Korte, C., & Grant, R. (1980). Traﬃ c noise, environmental awareness, and pedestrian behavior. Environment & Behavior, 12, 408–420.
+Koppes. L. L., & Pickren, W. (2007). Industrial and organizational psychology: An evolving science and practice. In L. L. Koppes (Ed)., Historical perspectives in industrial and organizational psychology. Mahwah, NJ: Lawrence Erlbaum.
 
-Kortick, S. A., & O’Brien, R. M. (1996). Th e world series of
+Koppes, L. L. (1997). American female pioneers of industrial and organizational psychology during the early years. Journal of Applied Psychology, 82(4), 500–515.
 
-quality control: A case study in the package deliver industry. Journal of Organizational Behavior Management, 16(2), 77–93.
+Koprowski, G. J. (2004). Rude awakening. HR Magazine, 49(9),
 
-Koslowsky, M., Sagie, A., Krausz, M., & Singer, A. H. (1997). Correlates of employee lateness: Some theoretical considerations. Journal of Applied Psychology, 82(1), 79–88.
+50–55.
 
-Kotter, J. P., & Cohen, D. S. (2002). Th e heart of change. Boston:
+Korman, A. K. (1966). Consideration, initiating structure, and
+
+organizational criteria: A review. Personnel Psychology, 19, 349–361.
+
+Korman, A. K. (1970). Toward a hypothesis of work behavior.

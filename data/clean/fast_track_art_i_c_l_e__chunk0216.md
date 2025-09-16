@@ -1,3 +1,9 @@
-## JOEM (cid:2) Volume 55, Number 4, April 2013
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 95b2dd73f80427a00c5fae7f821e6cae3c38afc3
+title: fast_track_art_i_c_l_e
+---
+# Terry et al
 
-TABLE 8. Bivariate Correlations of HERO Scorecard Measures with Effect Coefﬁcients for Enrollment Model
+388

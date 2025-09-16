@@ -1,19 +1,11 @@
-## Centre for Occupational Health and Safety oﬀers Climate Change:
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 096bcea837f342a4a5190c8eda8a2bb0be8e4b6c
+title: H08C0J-PDF-ENG
+---
+## Oﬀ-the-shelf public-sector playbooks with a focus on mental health
 
-Workplace Impact, a report outlining and addressing the psychological
+are particularly helpful in providing existing road maps that can be
 
-eﬀects of climate change, including direct, indirect, and social impacts.
-
-Other employers are introducing focused coping behaviors as outlined
-
-by the World Economic Forum for employees and their dependents,
-
-with various types including problem-focused coping (making active
-
-strides to address climate change), emotion-focused coping (managing
-
-negative emotions related to climate change), and meaning-focused
-
-coping (managing negative emotions while in parallel promoting
-
-positive emotions, such as hope, by combating climate change).
+tailored to an individual company’s needs. For example, the Canadian

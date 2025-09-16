@@ -1,7 +1,23 @@
-# underresourced.
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c08af3628aef5fbd5f758055d43cfe3337baef6d
+title: H08NSA-PDF-ENG
+---
+## Explore local nonproﬁt websites, social media pages, or community
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+boards. Attend informational sessions at organizations that draw your
 
-5
+attention or reach out directly to learn about their volunteer needs. This
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+will help you discover the diﬀerent types of volunteering, which can
+
+range from hands-on service to advocacy or fundraising. It can also be
+
+useful to share your unique skills with the places you’re interested in.
+
+Whether it’s problem-solving, communication, leadership, or technical
+
+expertise, the abilities you’ve gained through personal and professional
+
+experience could end up fulﬁlling a need, especially if the place is

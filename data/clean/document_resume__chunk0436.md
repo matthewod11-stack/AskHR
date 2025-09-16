@@ -1,9 +1,13 @@
-# Considerations in Selecting
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4b31f2c3c026996dd50c35d565f8052dc6e1b3ef
+title: document_resume
+---
+# a
 
-- 4. The superior and subordinate hold interim progress reviews. These reviews provide feedback to the subordinate and may involve corrective action needed to stay on target or revisions of objectives in the face of unforeseen problems.
+Uses class time poorlystrays from subject. Is not available for help outside class. Does not demonstrate adequate knowledge in subject area Does not encourage student participation.
 
-- 5. At the end of the period, actual accomplishments are measured against pei tor-
+Figure 3 11 Example of a behavioral scale based on expanding the performance standard for Method of Instruction." The scale is not behaviorally anchored.
 
-mance requirements, and objectives for the next period are established.
-
-For MBO to be effective, a distinction must be made between objectives in and performance requirements. Unless this distinction is made there probably will be no basis for determining if the objective was accomplished. Figure 3.12 illustrates this point:
+A

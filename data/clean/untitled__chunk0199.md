@@ -1,5 +1,13 @@
-## Trans.). New York: Ivison, Phinney, Blakeman.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8c16b31675fb7fc953bbd1e362a466359d57c785
+title: untitled
+---
+# 22 Psychology as a Science
 
-Croce, P. J. (1999). Physiology as the antechamber to metaphysics: The young William James’s hope for a philosophical psychol- ogy. History of Psychology, 2, 302–323.
+Charlesworth, W. (1992). Darwin and developmental psychology:
 
-Cronbach, L. (1957). The two disciplines of scientiﬁc psychology.
+Past and present. Developmental Psychology, 28, 5–16.
+
+Cousine, V. (1864). Elements of psychology (4th ed., C. Henry,

@@ -1,15 +1,9 @@
-## than speculation. Thanks to advances in interview recording and
+---
+source_path: H08UWX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c59ab07449f7931eceb46d7d0f106e3a489ce503
+title: H08UWX-PDF-ENG
+---
+# wrong?
 
-transcription technology, we are now able to peer inside the black box
-
-of hiring to understand what actually happens when candidates and
-
-interviewers sit down together. The results reveal a disconnect that may
-
-be undermining hiring decisions across industries.
-
-These results are drawn from a comprehensive analysis recently
-
-conducted by BrightHire in conjunction with the Harvard Business
-
-School’s Managing the Future of Work project, involving 23,000
+For the ﬁrst time, we can answer that question with data rather

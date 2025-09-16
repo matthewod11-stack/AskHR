@@ -1,7 +1,9 @@
-# Sage.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f56a06468154e6df3142fdc590b00e4e4f80fa34
+title: untitled
+---
+# References
 
-Caplan, P. J., & Hall-MacCorquodale, I. (1985). Mother-blaming in major clinical journals. American Journal of Orthopsychiatry, 55, 345–353.
-
-Capshew, J. H., & Laszlo, A. C. (1986). We would not take no for an answer: Women psychologists and gender politics during World War II. Journal of Social Issues, 42, 157–180.
-
-Chesler, P. (1972). Women and madness. New York: Doubleday.
+Burman, E. (1997). Deconstructing feminist psychology. London:

@@ -1,9 +1,15 @@
-## mistakes by consumers—and by their own workers (Glaeser 2004). Rational firms
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 1780182c8da719f22feb43d133d03e2132452450
+title: beo_chap7_1
+---
+## Eliaz and Spiegler 2004; Gabaix and Laibson 2005; Heidhues and Koszegi 2005).
 
-can exploit the biases of individual consumers, for instance by charging high flat
+The baseline assumption in this literature is that consumers make systematic mis-
 
-rates for services or goods consumers will consume less than they plan to—think of
+takes and firms are rational actors. This is reasonable because experience, special-
 
-your gym attendance!—by designing contracts with automatic renewal if consumers
+ization, larger resources, sorting, and market competition all work in the direction
 
-tend to procrastinate cancelation, or by issuing stock when investor sentiment is high
+of enabling organizations to train and choose managers who are expert at exploiting

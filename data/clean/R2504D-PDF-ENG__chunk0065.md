@@ -1,13 +1,11 @@
-## —networks of trained mediators, community leaders, and civil society
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8384936a32ae310e97f68ff345faae1178cf4c63
+title: R2504D-PDF-ENG
+---
+# relationships with their communities.
 
-organizations that could continue peace-building work even when
+Throughout multiple failed peace attempts and changes in political
 
-formal negotiations stalled. Because she recognized that women often
-
-bore the greatest burden of wars while being excluded from peace
-
-processes, she created networks of female peacemakers across northern
-
-Uganda, training them in conﬂict resolution and providing resources for
-
-them at the community level. Those networks are still operating today.
+leadership, Bigombe developed what she called “peace infrastructure”

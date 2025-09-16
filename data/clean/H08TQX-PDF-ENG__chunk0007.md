@@ -1,13 +1,15 @@
-# time-consuming?
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f5d7651061b8b933e42795518d335a020cfbdc7
+title: H08TQX-PDF-ENG
+---
+# thought.
 
-In our forthcoming study, we found that complex rituals can unleash a
+Investigating the existing literature, we found that most research
 
-host of experiences that impact employee engagement and behavior.
+highlighting positive aspects focuses on simple rituals (like a morning
 
-We walk you through our ﬁndings and oﬀer a checklist to help
+cheer), rather than complex ones (like a holiday party). But what eﬀect
 
-organizations drive strong ROI for rituals, while planning for and
-
-addressing those experiences that might bar some employees from
-
-reaping the beneﬁts of these events.
+do rituals have on your team when they become more complicated and

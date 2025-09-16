@@ -1,7 +1,15 @@
-## in inappropriate self-disclosure, particularly on social media.
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f73b0b8bbec69bcf31866eb74ea8b94138b0d7a
+title: H08UGX-PDF-ENG
+---
+## project clarity, competence, and conﬁdence—especially under pressure.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Emotional vulnerability can be humanizing in small, controlled doses.
 
-3
+But regular oversharing creates confusion, erodes credibility, and can
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+even undermine organizational stability. To be sure, no leader will
+
+convince people they are worthy of following if they regularly engage

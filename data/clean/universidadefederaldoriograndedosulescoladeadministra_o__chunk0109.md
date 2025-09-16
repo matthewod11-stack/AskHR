@@ -1,19 +1,9 @@
-# à capacidade de avaliar características complexas, como liderança, relacionamento
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: fef14d2aa5bf356c08ee80814861526f3f3b5f20
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Conforme Menezes e Gomes (2010), o extenso uso de pesquisas de clima
 
-13
-
-interpessoal, reconhecimento, recompensa, entre outras, com base nas percepções
-
-dos trabalhadores da organização. Para eles, a pesquisa de clima organizacional
-
-nada mais é que um levantamento de opinião que caracteriza uma representação da
-
-realidade da empresa que só se torna possível uma vez que os resultados
-
-demonstram de forma empírica as percepções que os funcionários têm da
-
-organização em que atuam. Sendo assim, classificam como de suma importância
-
-medir o clima organizacional. Porém refletem que sua aplicação é considerada difícil
-
-(MENEZES; GOMES, 2010).
+organizacional por parte das empresas deve-se à abrangência teórica do construto e

@@ -1,7 +1,9 @@
-# gaps.
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8147c2e95b8385998054634251ee94121c5b2b49
+title: H08OET-PDF-ENG
+---
+## HBR / Digital Article / How Costly Is a Resume Gap for Executives?
 
-Raises for ﬁrm-switching executives who were hired by private ﬁrms
-
-were lower than public ﬁrms, around 16%. But for those with resume
-
-gaps, the raise was still 14%, indicating far less of a penalty for having
+without gaps averaged 30%. That dropped to 16% for those with resume

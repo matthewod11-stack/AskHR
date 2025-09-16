@@ -1,23 +1,13 @@
-## frontline employees access to more than 40,000 courses on data and
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5ee15acda9620279e40d526d39c0a19068731115
+title: S25012-PDF-ENG
+---
+# development across the enterprise.
 
-AI, including extensive training in skills from prompt engineering
+To make data use more democratic, the company is helping
 
-to natural-language processing. Thanks to generative AI, skilling
+people across the workforce acquire new qualiﬁcations in AI. The
 
-initiatives, and digital ecosystems like the MO360 Data Platform,
-
-process change has gone from a niche technical skill to part of
-
-employees’ everyday work experience at the company.
-
-At the automaker Mahindra & Mahindra production teams can send
-
-queries to gen-AI-driven virtual assistants and receive step-by-step
-
-instructions for repairing industrial robots. That helps them quickly
-
-resolve technical issues and reduce machine downtime. Bhuwan Lodha,
-
-the head of AI at Mahindra Group, says the technology has signiﬁcantly
-
-raised shop ﬂoor morale, delivering on the worker fulﬁllment that
+HR department has established Turn2Learn, a program that gives

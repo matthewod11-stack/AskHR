@@ -1,11 +1,25 @@
-# investment.
+---
+source_path: H08L36-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb0ead2d05eab4b5e491d2d409f175d53ce59cb4
+title: H08L36-PDF-ENG
+---
+## satisfaction and meaning in their day-to-day tasks.
 
-Through this second email, the employee learned both how his
+Think about a junior employee spending all night putting together a
 
-organizational skills impacted the investor, and learned about the end
+ﬁnancial model, only to have his boss say: “Good job” when the model’s
 
-results of his work — the investment was made.
+received. Now think about that same employee receiving an email
 
-To ensure that you’re always highlighting the impact in your feedback
+saying:
 
-conversations, start your feedback — both constructive and positive —
+Thank you for the ﬁnancial model. The model, which was well-
+
+organized, had a big impact on the meeting I had with a potential
+
+investor. It allowed the investor to immediately understand our
+
+forecasts and ask thoughtful questions. Partly because of this, the
+
+investor was able to quickly decide to move forward with the

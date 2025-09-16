@@ -1,1 +1,11 @@
-# 125
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8dd92c786a07ace5fa885aaec88d7a104fe7487d
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 5 • Measuring Results and Behaviors
+
+comparisons, relative percentile, and forced distribution. Comparative systems are easy to explain, and the resulting data are easy to interpret, thereby facili- tating administrative decisions. On the other hand, employees are usually compared to one another in terms of one overall single category instead of in terms of specific behaviors or compe- tencies. This produces less useful feed- back that employees can use for their future improvement.
+
+- Absolute systems include evaluations of employees’ performance without mak- ing direct reference to other employees. Such systems include essays, behavior checklists, critical incidents, and graphic rating scales. Essays are difficult to quan- tify but produce useful and often detailed feedback. Behavior checklists are easy to use and understand, but the scale points used are often arbitrary, and we cannot assume that a one-point difference has the same meaning along the entire scale (i.e., the difference between an employee who scores 5 and an employee who scores 4 may not have the same meaning as the difference between an employee who scores 3 and one who scores 2). Critical incidents allow supervisors to focus on actual job behavior rather than on vaguely defined traits, but gathering critical incident data may be quite time consuming. Graphic rating scales are arguably the measure- ment method most frequently used to assess performance. For this type of meas- urement to be most useful, the meaning of each response category should be clear, the individual interpreting the rat- ings (e.g., the human resources manager) should be able to tell clearly what response was intended, and the per- formance dimension being rated should be defined clearly for the rater.

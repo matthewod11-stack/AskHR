@@ -1,15 +1,23 @@
-# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 60926bda4a70b57d411b7e46bc95c5b7aa921baa
+title: R2504J-PDF-ENG
+---
+# Ryan Carl
 
-up 13% after the deal’s announcement. Clearly, investors believed in the
+On December 1, 2014, Cypress Semiconductor announced that it was
 
-company’s rationale for the purchase.
+acquiring fellow chipmaker Spansion for $1.6 billion. When then-CEO
 
-An examination of the longer-term consequences of the deal suggests
+Thurman Rodgers presented the deal, the stock market responded
 
-that their optimism was warranted. When we looked at the value of the
+approvingly. An analysis showed that once other confounding
 
-company a full year later, we found that its market cap was still 13%
+inﬂuences had been ruled out, the share price of Cypress had jumped
 
-higher than it had been before the acquisition. The stock market had
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-accurately anticipated the deal’s potential.
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

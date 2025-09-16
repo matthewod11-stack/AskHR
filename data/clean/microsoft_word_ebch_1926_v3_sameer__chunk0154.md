@@ -1,15 +1,7 @@
-# A Textbook of Industrial Psychology
-
-workforce and driving organizational success. When executed thoughtfully and consistently, they facilitate employee engagement, skill development, and goal attainment, ultimately benefiting both individuals and the organization as a whole.
-
-REFERENCES:
-
-[1] A. S. Denisi and K. R. Murphy, “Performance appraisal and performance management:
-
-100 years of progress?,” J. Appl. Psychol., 2017, doi: 10.1037/apl0000085.
-
-[2] A. S. DeNisi, “Supplemental Material for Performance Appraisal and Performance doi: of Progress?,”
-
-J. Appl. Psychol.,
-
-Management: 10.1037/apl0000085.supp.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: b278d4d90ccf2a81f5a285095fe778014e267ab3
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# 34

@@ -1,5 +1,9 @@
-# UNDERSTANDING THE DYNAMIC LEARNER 261
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 861ade47e8151d11b85317bf20cec1beb7163acc
+title: barrickryan_eds_personality_and_work
+---
+## Journal of Educational Psychology, 75, 530–543.
 
-Weissbein, D. A., & Ford, J. K. (2002, Apr.). Improving training effectiveness through motivation: Creating a learning state intervention. Paper pre- sented at the Seventeenth Annual Conference for the Society for Industrial and Organizational Psychology, Toronto, Ontario. Wentzel, K. R. (1991). Social and academic goals at school: Motivation and achievement in context. In M. L. Maher & P. R. Pintrich (Eds.), Advances in motivation and achievement (Vol. 7, pp. 185–212). Green- wich, CT: JAI Press.
-
-Wentzel, K. R. (1992). Motivation and achievement in adolescence: A multiple goals perspective. In D. Schunk & J. Meece (Eds.), Student perceptions in the classroom: Causes and consequences (pp. 243–264). Mahwah, NJ: Erlbaum.
+Weiner, B. (1985). Improving the performance of college freshmen with attributional techniques. Journal of Personality and Social Psychology, 42, 367–376.

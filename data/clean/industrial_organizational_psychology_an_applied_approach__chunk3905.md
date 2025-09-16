@@ -1,1 +1,17 @@
-## Job Choice Exercise (JCE) An objective test used to
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6187bd999e50a867c4b21423b8efefe52239978d
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Job Adaptability Inventory (JAI) A job analysis
+
+method that taps the extent to which a job involves eight types of adaptability.
+
+Job analysis The process of identifying how a job is performed, the conditions under which it is performed, and the personal requirements it takes to perform the job.
+
+Job analysis interview Obtaining information about a
+
+job by talking to a person performing it.
+
+Job analyst The person conducting the job analysis. Job characteristics theory The theory proposed by Hackman and Oldham that suggests that certain characteristics of a job will make the job more or less satisfying, depending on the particular needs of the worker.

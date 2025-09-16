@@ -1,9 +1,7 @@
-# Team Performance Management at Bose
-
-Bose Corporation is an organization that specializes in audio equipment that meets virtually any audio challenge. Bose Corporation’s audio technologies can be found in home stereos, stadiums, the Sistine Chapel, and even the U.S. space program. Bose Corporation was founded in 1964, is headquar- tered in Framingham, Massachusetts, and has employees around the globe.
-
-Many Bose employees work in a variety of teams. Three different types of teams within Bose are work teams, project teams, and network teams. The work teams found within Bose are teams responsible for the production of audio equipment. These teams are long-term and are typically focused on producing a certain type of audio equipment. Project teams within Bose are responsible for the research and development of innovative audio equipment. Typically these teams are focused on the development of a specific type of equipment (e.g., new home entertainment speakers). Network teams arise in the instances where team members are spread across the globe. A specific example of a network team within Bose is a team that is designing a new audio system for Ferrari. Within this team there are members
-
-located at Bose’s headquarters, at Ferrari’s plant location in Italy, and at one of Bose’s production factories in Japan. The members at these various locations rarely meet face-to-face but are frequently in communication.
-
-Recently, Bose’s executive team has been interested in implementing a new team-based performance management program for these different teams, and they have asked you to help them. You have explained to them the six key principles of a proper performance management plan, but now Bose’s executive team is specifically interested in knowing how these six key principles will have to differ across its three different types of teams. The reason why the executive team is interested in this is that they would like to establish a main performance management framework that can work across the different types of teams. Please write a two-page report specifying what aspects of the performance management plan they can keep the same and what aspects will have to differ across team type. Finally, please provide a recommendation as to whether Bose should structure one team performance management plan or three performance management plans (one for each team type). (cid:2)
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 26683546eabcb570412d5aee7a57c04f23c04dd7
+title: performance_management_3rd_edition_by_aguinis
+---
+# CAS E ST U DY 11-4

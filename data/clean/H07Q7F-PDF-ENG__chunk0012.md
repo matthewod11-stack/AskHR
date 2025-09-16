@@ -1,13 +1,23 @@
-# 23% of engagement.
+---
+source_path: H07Q7F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7427c805ac38bee2a7bf50dbcd86ed610f153271
+title: H07Q7F-PDF-ENG
+---
+## HBR / Digital Article / Overcoming Your Fear of Giving Tough Feedback
 
-It’s not fair to deprive your team of information they need to grow.
+See feedback as a tool.
 
-When you reframe conﬂict as a healthy, normative part of leadership, it loosens the anticipatory anxiety you may feel broaching diﬃcult
+Despite what you may believe, your team craves meaningful, candid
 
-topics with others. Next time you have to give feedback, take a deep
+feedback. While 72% of employees rated “managers providing critical
 
-breath and remember, you’re not causing a conﬂict, you’re guiding
+feedback” as important for them in career development, only 5% believe
 
-your people toward growth. You’re not criticizing; you’re nurturing. And
+managers provide such feedback. Likewise, when team members don’t
 
-you’re certainly not being a villain; you’re being the leader they need.
+think their boss is great at giving honest feedback, their engagement
+
+scores typically take a nosedive. But on the ﬂip side, leaders who rank in
+
+the top 10% at giving honest feedback create teams that rank in the top

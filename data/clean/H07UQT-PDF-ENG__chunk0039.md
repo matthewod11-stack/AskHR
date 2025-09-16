@@ -1,3 +1,13 @@
-# CW
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2cf912e8721fbf2bcc73f8829d57f8169d586ef
+title: H07UQT-PDF-ENG
+---
+## HBR / Digital Article / How to Bring an Outside CEO into the Family Business
 
-Christina Wing is Senior Lecturer in the Technology and Operations Management Unit at Harvard Business School and faculty co-chair of the HBS “Families in Business: From Generation to Generation” program
+make decisions and, yes, to make mistakes. Things will turn out alright.
+
+After all, this is why they were hired.
+
+This article was originally published online on October 25, 2023.

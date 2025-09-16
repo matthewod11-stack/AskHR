@@ -1,15 +1,21 @@
-# October, 25.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d8ad5e02f3cd83702183a43f1eb19eabf1494595
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Jossey-Bass.
 
-Nelson, J. B., & Mital, A. (1995). An ergonomic evaluation of
+Nash, A. N., & Carroll, S. J. (1970). A hard look at the reference check: Its modest worth can be improved. Business Horizons, 13, 43–49.
 
-dexterity and tactility with increase in examination/surgical glove thickness. Ergonomics, 38(4), 723–733.
+Nathan, B., & Lord, R. (1983). Cognitive categorization and
 
-Nesler, M. S., Aguinis, H., Quigley, B. M., Lee, S. J., & Tedeschi, J. T. (1999). Th e development and validation of a scale measuring global social power based on French and Raven’s power taxonomy. Journal of Applied Social Psychology, 29(4), 750–751.
+dimensional schemata: A process approach to the study of halo in performance ratings. Journal of Applied Psychology, 68, 102–114.
 
-Neufeldt, D., Kimbrough, W. W., & Stadelmaier, M. F. (1983,
+Naughton, R. J. (1975). Motivational factors of American
 
-April). Relationship between group composition and task type on group problem solving ability. Paper presented at the 11th annual Graduation Conference in Personality and Social Psychology, Norman, OK.
+prisoners of war in Vietnam. Naval War College Review, 27(4), 2–14.
 
-Ng, T. W. H., & Feldman, D. C. (2008). Th e relationship of age to ten dimensions of job performance. Journal of Applied Psychology, 93(2), 392–423.
+Naughton, T. J. (1988). Eﬀ ect of female-linked job titles on job evaluation ratings. Journal of Management, 14(4), 567–578.
 
-Nichols, R. G., & Stevens, L. A. (1957). Are you listening? New
+Nelson, B. (2000). Peer-to-peer recognition. IPMA News,

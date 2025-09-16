@@ -1,3 +1,7 @@
-# Goal and Scope of This Review
-
-Thegoalofthisreviewistoincreaseourunderstandingofhowlearning contributes to the strategic development of human capital resources for organizations to gain a competitive advantage. It focuses on practically relevant and academically important microlevel learning, training, and developmentresearch,aswellasemergingworkonhumancapitalandhowlearningcontributesto its development. This review is selective and illustrative. It complements several recent, excellent, exhaustive, and comprehensive reviews of learning, training, and development published in the Annual Review of Psychology and elsewhere (see Aguinis & Kraiger 2009, Brown & Sitzmann 2011, Salas et al. 2012). We build on these reviews by focusing on research conducted in the fields ofeducation,industrialandorganizationalpsychology,strategicmanagement,andorganizational behavior as well as related disciplines that furthers our understanding of how learning is evolving in today’s workplace, with a specific emphasis on the strategic role of learning. Although we focus on research conducted since Aguinis & Kraiger (2009), we also include older research that either may not have been cited in previous reviews or deserves repeating because it is relevant to our organizing themes. These themes include thinking differently about learning, reconsidering the formanddesignoflearning,facilitatinglearningintheworkplace,expandingthescopeoflearning outcomes, and improving methodology in learning research. Below we describe each theme, related research, and recommendations for future research.
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 73b2b9523ca3725a4496aaf9ef5d16d2a69dbc8b
+title: arop1noe_245_275
+---
+# l

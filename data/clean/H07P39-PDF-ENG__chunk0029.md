@@ -1,21 +1,27 @@
-# along the way.
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3021cde3f8aa10e93c16c8189cb515a9d98ccb2c
+title: H07P39-PDF-ENG
+---
+# Focus on long-term goals.
 
-. . .
+Building lasting change requires maintaining focus on the long-term
 
-The need for change is inevitable in any organization, but the approach
+objective. Sometimes, being a crusader is warranted and appropriate,
 
-to driving change is a determinant of its success or failure, as Kathy, our passionate crusader, realized. Aﬀecting lasting change is not a solitary quest, but an inherently shared eﬀort. It requires embracing
+particularly when urgent action is needed and you have the authority
 
-a collaborative mindset that respects and includes diverse perspectives,
+to make a change. However, these situations tend to be few and far
 
-maintains a strategic focus, and patiently navigates the complexities
+between. If you want to achieve ambitious lasting change, it’s unlikely
 
-of organizational dynamics. It’s not about surrendering your passion
+to happen all at once, and you most likely can’t do it by yourself.
 
-or advocacy but leveraging them in a more inclusive, strategic, and ultimately eﬀective way.
+Confront your crusader self with these three questions: Is this problem
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+mine to solve? Do I need to solve it alone? Do I need to solve it now?
 
-7
+With this focus, you can apply the right level of long-term vision to the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+things that really matter, including letting go of ﬁghting every battle

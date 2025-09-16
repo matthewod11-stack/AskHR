@@ -1,11 +1,29 @@
-# headquarters quickly.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78f4b3657c63e70ae46c91fd463ac8a03b665dfb
+title: H08TKY-PDF-ENG
+---
+# Luehrman (1998)
 
-- 3. Once made, decisions are rarely second-guessed.
+. . .
 
-- 4. Information ﬂows freely across organizational boundaries.
+Strategy execution: Strategy execution is the result of thousands
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+of decisions made every day by employees acting according to the
 
-30
+information they have and their own self-interest. Executives can use
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+four fundamental building blocks to inﬂuence those actions: clarifying
+
+decision rights, designing information ﬂows, aligning motivators, and
+
+making changes to structure.
+
+Companies that execute strategy eﬀectively share ﬁve common traits:
+
+- 1. Everyone has a good idea of the decisions and actions for which they
+
+are responsible.
+
+- 2. Important information about the competitive environment gets to

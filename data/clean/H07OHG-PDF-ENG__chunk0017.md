@@ -1,39 +1,35 @@
-# HBR / Digital Article / 5 Ways Companies Are Addressing Skills Gaps in Their Workforc…
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d66ee123aab70cf2bdc712294a9d49e7eaadf2cc
+title: H07OHG-PDF-ENG
+---
+## A Fresh Approach to Tuition Reimbursement
 
-the government. Employees receive coaching, advice, and support to
+How a historically elite beneﬁt is becoming accessible for all
 
-help them ﬁnd the training program that’s right for them, and the
+Large companies have long oﬀered to pay for their employees’
 
-training programs are paid for by the employer.
+continuing education. However, these beneﬁts have historically been
 
-For example, in 2021, Target announced a tuition-assistance program
+reserved for a small number of white-collar employees, for example,
 
-called “Dream to Be” in partnership with Guild, one of the leading
+those pursuing an executive MBA. Or employees were asked to pay for
 
-players in this growing space. According to Chief Diversity and Inclusion oﬃcer Kiera Fernandez, “Target has oﬀered a traditional
+their courses out of pocket and get reimbursed afterwards.
 
-tuition reimbursement program for more than two decades. Now,
+As the labor market has changed, more companies are oﬀering tuition
 
-through our partnership with Guild to oﬀer Dream to Be, team members
+beneﬁts as a way to retain their frontline employees — store clerks,
 
-can attend classes at more than 40 schools, colleges, and universities
+baristas, drivers, and hourly workers. In response, a new class of
 
-… with no out-of-pocket tuition costs.” Fernandez said that as of April
+companies has emerged to smooth and synchronize the relationship
 
-2023, more than 25,000 employees have been approved for the program.
+between training providers, employers, employees, and (in some cases)
 
-If designed eﬀectively, the beneﬁts of tuition assistance programs for employers are clear. For example, Jack Hartung, chief ﬁnancial oﬃcer
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-of fast-casual restaurant chain Chipotle, told CNBC that “employees
+3
 
-who take advantage of the company’s free degrees are three and a
-
-half times more likely to stay with the company and seven times more
-
-likely to move up into management.” However, research suggests that
-
-while 84% of employees value tuition reimbursement beneﬁts highly,
-
-on average, only 2% of eligible employees use this beneﬁt. This implies
-
-employers must do more to take advantage of this powerful tool.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

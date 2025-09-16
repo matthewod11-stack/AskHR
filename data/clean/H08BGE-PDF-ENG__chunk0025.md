@@ -1,7 +1,13 @@
-# Equal pay
+---
+source_path: H08BGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c65047c7be852a643379fa6412d30b6e11a559f5
+title: H08BGE-PDF-ENG
+---
+# from other tasks.
 
-Pay should be set based on a person’s position and not their family
+Also, give employees options for extended time away unrelated to family
 
-status. Use policies to guide how pay and raises are determined. Use
+issues, such as sabbaticals. While parental leave is no vacation, ensuring
 
-standardized job classiﬁcations to set salaries based on the needed skills
+that nonparents can also have an extended leave will help with equity.

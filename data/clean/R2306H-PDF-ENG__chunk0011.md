@@ -1,9 +1,13 @@
-## three particularly eﬀective practices: ﬁnding and mobilizing catalysts
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a1080b20b0f152a7e000368d2f2d4bfa776526e
+title: R2306H-PDF-ENG
+---
+## Mellon University, Ammon Salter of the University of Warwick, and
 
-in external networks who help launch ideas, engaging with internal
+Marco Tortoriello of Bocconi University. Altogether the studies—two of
 
-sparring partners to turn those ideas into viable business propositions,
+which were funded by the European Research Council—involved nearly
 
-and selectively sequencing the introduction of ideas within your social
-
-circles in the company to stress-test them and gradually gain buy-in.
+1,000 R&D executives and innovators. Through them we identiﬁed

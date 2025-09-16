@@ -1,5 +1,7 @@
-# 05 After the meeting
-
-Once the termination meeting concludes, the focus shifts to ensuring a smooth and respectful transition for the departing employee. Escort the individual to collect their personal items, maintaining privacy and professionalism throughout the process. This step is essential both for security and to preserve the employee’s dignity during a difficult moment.
-
-Processing final wages promptly is another critical responsibility. Adhering to the company’s payroll policies and legal requirements not only demonstrates fairness but also reduces the risk of disputes. Whenever possible, provide outbound support or resources to help the employee transition to their next role. This could include resume assistance, job placement services, or access to professional networks. Taking these actions reinforces a sense of care and compassion, even in challenging circumstances, and reflects the organization’s commitment to treating employees with integrity.
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: ca13df1fac93e05efc2e590668d496352214fd67
+title: yale_case_february_13_2025
+---
+# 10 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES

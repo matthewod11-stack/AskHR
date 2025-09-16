@@ -1,3 +1,9 @@
-# Corresponding author. Tel.: +442072740348. E-mail address: billie.coomber@kcl.ac.uk (B. Coomber).
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 7d81bb65bacf319eacad0b67a8b4ad54955d49c7
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# satisfaction of nurses.
 
-0020-7489/$-see front matter r 2006 Elsevier Ltd. All rights reserved. doi:10.1016/j.ijnurstu.2006.02.004
+(cid:2)

@@ -1,5 +1,9 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: b8765be3bbdd5958128c5f148f2ce7f1c7456045
+title: issn_print_0976_013x
+---
+# their
 
-on firms' performance. Subsequent research endeavours may empirically examine the
-
-hypothetical framework designed to evaluate Entrepreneurial Orientation and Circular Practice.
+23

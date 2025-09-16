@@ -1,55 +1,53 @@
-## HBR / Magazine Article / When Diversity Meets Feedback
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d5584073e66d0bdbae3538b9068574c45709aae
+title: R2305F-PDF-ENG
+---
+# we share our opinions.
 
-giving it, and I’m sure he thought the credit for my success in parking
+Research shows that leaders who are women, much more than their
 
-my small car in this very easy spot was at least partly his.”
+male counterparts, are expected to be warm and nice (traditionally seen
 
-While providing advice can indeed be generous and kind, it also creates the impression that you’re putting yourself above the person you’re giving it to.
+as female traits) as well as competent and tough (traits traditionally expected from men and leaders). This line is diﬃcult to walk, and
 
-Solnit’s implication is that this man provided unsolicited advice
+women who provide frank negative feedback risk being perceived
 
-because he thought that his skills were superior to hers since he was
+as combative. One 2020 study conducted at Stanford University
 
-a man. That could have been his thinking, but research reveals that
+demonstrated that while women and men are equally likely to be
 
-men are as likely to give unsolicited advice to other men as they are to
+described as having technical ability, women are signiﬁcantly more
 
-women. Research also reveals that women give considerable amounts
+likely to be described as aggressive. That’s why women who provide
 
-of advice to other women. It’s with cross-gender feedback that the
+candid feedback risk being perceived as on the attack.
 
-discrepancy becomes clear: One research project showed that men are
+The dynamics are just as complicated but completely diﬀerent for men.
 
-ﬁve times as likely to give unrequested advice to women as women are
+In 2008 an essay by Rebecca Solnit inspired the term “mansplaining,”
 
-to give it to men.
+which describes situations in which a man explains something to a
 
-That’s a problem because while providing advice can indeed be
+woman who knows more about it than he does. “Manvising” hasn’t
 
-generous and kind, it also creates the impression that you’re putting
+made it into our lexicon yet, but most women ﬁnd the phenomenon
 
-yourself above the person you’re giving it to. In my own research
+equally familiar. The term describes moments when men give women
 
-I’ve interviewed dozens of men and women about this phenomenon.
+advice that they have neither asked for nor want. Solnit herself provided
 
-I’ve found that although most men don’t believe they’re guilty of
+this very simple illustration in an article she wrote in 2022: “A few years
 
-manvising, well over 90% of women report that they have recently
+ago, a friend of mine got married, and when I pulled up to the rustic
 
-received unsolicited advice from their male colleagues.
+wedding site, a man I didn’t know positioned himself behind my car to
 
-One of my interviewees, a software industry marketing VP I’ll call
-
-Cassandra, provided an example. At an all-hands meeting attended
-
-by 2,000 colleagues, she had to give two presentations about a major
-
-project she was leading. In the ﬁrst she presented the results of nine
-
-months of work. She was anxious because the reception she got could
+make dramatic hand signals. I didn’t need or ask for help, but he was
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-11
+10
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

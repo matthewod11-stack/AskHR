@@ -1,11 +1,7 @@
-# onurdongel/Getty Images
-
-Companies are increasingly strategizing on how to reduce all kinds
-
-of bias in the workplace, including those related to disabled people.
-
-Despite empirical evidence to the contrary, perceptions remain that
-
-disabled employees are less competent, less productive, require more
-
-supervision, and are more expensive and more dependent, which
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6f5454f8311eb3c4746015c4a6b941167f93fb2
+title: H08HIY-PDF-ENG
+---
+## Published on HBR.org / November 18, 2024 / Reprint H08HIY

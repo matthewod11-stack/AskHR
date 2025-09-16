@@ -1,5 +1,7 @@
-# MONIQUE ZARDIN DOS REIS
-
-EMPLOYEE NET PROMOTER SCORE (ENPS) COMO MEDIDA DE SATISFAÇÃO E ENGAJAMENTO NO TRABALHO
-
-de Curso Trabalho apresentado como requisito parcial para obtenção do título de Administrador de Empresas da Escola de Administração da Universidade Federal do Rio Grande do Sul.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 1166dfb08a3f66a477ec13310c67d057e7832360
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# Porto Alegre 2023

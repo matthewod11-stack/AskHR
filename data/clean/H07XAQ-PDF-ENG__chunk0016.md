@@ -1,13 +1,7 @@
-# well-intentioned motivations:
-
-- The risk-aversion bias. Human beings are wired with a desire to
-
-avoid mistakes and loss. This leads to an inclination to not leave
-
-anything out, because it feels dangerous and wrong.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 753d8f31b94ebcc084813c48274b0d80bd548e6f
+title: H07XAQ-PDF-ENG
+---
+## a few unconscious biases, along with some other understandable and

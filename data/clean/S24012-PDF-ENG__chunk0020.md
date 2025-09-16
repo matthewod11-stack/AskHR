@@ -1,7 +1,7 @@
-## hiccups, routine ﬂuctuations in stock prices, mixed feedback from
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54b1cf98a783e55843403053c5ef3ab370eda3c2
+title: S24012-PDF-ENG
+---
+## modest budget deviations, periodic customer wins and losses, execution

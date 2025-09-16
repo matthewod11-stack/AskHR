@@ -1,9 +1,15 @@
-## deﬁne as a combination of deep theoretical knowledge and practical
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bb4195eeaaad26b35e2d44af383c16b1542aead
+title: R2502W-PDF-ENG
+---
+# Enrico Pietracci
 
-know-how in a speciﬁc domain—can take many forms within a business. A doctor’s oﬃce requires not only a practitioner’s medical
+AI is changing the cost and availability of expertise, and that will
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+fundamentally alter how businesses organize and compete. At its most
 
-1
+basic level a business can be considered a diﬀerentiated bundle of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+expertise organized to accomplish speciﬁc tasks. Expertise—which we

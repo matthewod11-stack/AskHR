@@ -1,23 +1,33 @@
-## grateful to this senior leader for the help.
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a03fae91988cbb30670e73f3ca772640b72e38af
+title: H08SR2-PDF-ENG
+---
+# actual connection with.
 
-Building a culture of support
+As another leader, Sarah, said: “Being the boss, when I’m in the Peloton
 
-Our study also shows that employees, especially of large companies,
+group [chat] or I’m in the Facebook group, I just get to be me.”
 
-appreciate the opportunity to feel supported by, and to support,
+Furthering career advancement
 
-leaders who often felt out of reach. For example, Margo described her
+Leaders in our sample shared that Peloton made interacting with
 
-excitement about riding “with” her CEO: “We would let [a coworker]
+higher-ups easier and helped them receive mentorship and sponsorship
 
-know when I had my 500 ride. I was like, ‘Here’s the ride I’m going to
+to advance in their career. Kathryn, a mid-level leader in her company,
 
-do.’ And to have the CEO do the ride with me was just incredible…We were all in diﬀerent departments, diﬀerent levels of the organization,
+explained how the beneﬁts of her boundary-blurring interactions
 
-but found this commonality.”
+extended beyond the deepened friendships she now had at work; she
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+attributed a recent promotion, in part, to gaining advocates for her
 
-6
+career through these interactions. Kathryn described a senior leader
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+who knew of her “discipline and consistency and engagement” from
+
+their interactions in a relational holding environment and put in a good
+
+word for her when she was up for a promotion. She got the job, and is

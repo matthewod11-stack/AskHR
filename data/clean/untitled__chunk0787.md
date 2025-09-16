@@ -1,5 +1,7 @@
-# Psychophysical Processes
-
-138
-
-Intelligence Is Complex: Binet’s Theory of Judgment MODELS OF THE NATURE OF INTELLIGENCE 140 140 142
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0201b95ae4cf6a818e980164ca78943794999387
+title: untitled
+---
+## Intelligence Is Simple: Galton’s Theory of

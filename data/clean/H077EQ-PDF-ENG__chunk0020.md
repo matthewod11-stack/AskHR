@@ -1,13 +1,7 @@
-# Use Anchors to Your Advantage
-
-My friend Alex Clavel, the Head of Corporate Strategy at Softbank,
-
-recognizes the usefulness of anchoring in negotiations. He encourages
-
-his team “to use anchoring proactively to convince other parties at
-
-the negotiating table that somehow our ‘anchor’ should be the basis
-
-of discussions.” If it’s successful, this kind of anchoring can “keep the
-
-discussion on your terms as much as possible,” making a favorable
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ee7b994528b686224d4e1cb9ce52eba6a325c6f
+title: H077EQ-PDF-ENG
+---
+# anchor’s relevance, or lack thereof.

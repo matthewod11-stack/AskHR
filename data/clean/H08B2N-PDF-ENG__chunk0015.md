@@ -1,7 +1,17 @@
-# perceptions of our own abilities.
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f21fb2bade09a8bb8b369d0549d9f202ed422157
+title: H08B2N-PDF-ENG
+---
+# so-so.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+While this study is limited in its reliance on a hypothetical context
 
-3
+rather than real-world data, this experimental design enabled us
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to ensure a level of consistency between participants that can be
+
+challenging to replicate in real-world environments and oﬀers helpful
+
+insight into the extent to which feeling passionate may inﬂuence our

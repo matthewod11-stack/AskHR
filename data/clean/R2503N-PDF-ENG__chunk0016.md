@@ -1,19 +1,37 @@
-## HBR / Magazine Article / Are You Really a Good Listener?
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9bd3e3b9e78d13f7eb0e72896851a0cc4d0ca349
+title: R2503N-PDF-ENG
+---
+## too, the famous moment during the 1992 U.S. presidential debate, when
 
-chest, for example). Research by Janet Bavelas and colleagues shows
+George Bush Sr., running for reelection, checked his wristwatch just
 
-that such cues make conversations more productive: When a listener
+before a voter asked him a question about the national debt and the
 
-signals comprehension, it allows the speaker to move on; when a
+recession. His response—“Of course, you feel it when you’re president
 
-listener shows confusion, it invites the speaker to rephrase or elaborate.
+of the United States; that’s why I’m trying to do something about it, by
 
-Verbal acknowledgments are important
+stimulating the export, investing more, a better education system”—was
 
-too. Simple phrases such as “I see” or “That
+overshadowed by the gesture, which many perceived as a signal he was
 
-makes sense” signal to your counterparts
+ready for the town hall to be over.
 
-that you’re following along, valuing their
+To avoid appearing indiﬀerent, leaders must be more communicative
 
-perspective, and actively processing their
+and transparent. They can use body language known as “back
+
+channeling”—behaviors that signal that they’re listening. They include
+
+maintaining eye contact, nodding, and adopting an open posture (with
+
+your arms relaxed at your sides rather than crossed in front of your
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

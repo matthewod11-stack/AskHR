@@ -1,5 +1,13 @@
-# Concluding Comment
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 02e6d03a6554a6d5fad9710c6677ebc524b86955
+title: document_resume
+---
+# Considerations in Selecting
 
-It should be stressed that there is no one best way to go about selecting a perfor- mance appraisal technique. Performance appraisal programs serve many purposes, and most of the techniques discussed have valid applications. Organizations may want to eliminate options such as tiait rating scales that have serious disadvantages. Several alternatives to the traditional superior-subordinate appraisal review function have been described in this chapter. Organizations may choose to incorporate various sources of information into their overall employee performance appraisal process. They also need to carefully analyze appraisal costs s. benefits. The methodology Finally adopted may be a mixed system with features of several techniques.
+be kept in perspective. Beyond the point necessary to ensure that the appraisal program is carried out under standardized and controlled Londitionsidditional meetings, paper- work and procedures do not justify the cost. In other words, the investment in both development and administration of performance appraisal is subject to diminishing returns.
 
-,j
+Another important consideration in the investment decision is the number of incumbents in a particular job category. For example, an institution might have 100 instructional positions and two library technicians. Assume that there are three instruc- tional divisions: e.g., Arts and Humanities, Science and Mathematics, and Nursing. Within each division the instructional positions are fundamentally similar. Thus, the developmental cost of a performance appraisal technique could be spread across 20 to 50 positions in the faculty, but only two in the library. This would support a decision to develop a more sophisticated (and expensive) sy stem for the faculty than for the library and other support departments.
+
+Finally, it is very important to consider the value of post-appraisal benefits in such areas as increased productivity, motivation and satisfaction, staff development, and better administrative decisions. This may be intuitively obvious, but the implications are sometimes overlooked. Thomas F. Gilbert has introduced the concept of potential for improving performance (PIP), which is the ratio of exemplary performance to typi- cal performance.21 A PIP of 5.0 suggests that typical performance could be improved fivefold, while a PIP of 1.1 tells us that exemplary performance is only 10 percent better than typical performance. Gilbert suggests that in professional athletics PIP's almost invariably run less than 2 and exceptionally competitive and demanding jobs such as that of an airline pilot have PIP's near 1. On the other hand, PIP's in education and government are typically 5 to 30, showing much more potential benefits from per- formance appraisal.

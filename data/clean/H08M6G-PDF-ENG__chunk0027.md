@@ -1,11 +1,23 @@
-## brings together creative abrasion, social collaboration, and emotional
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bc1ecb212866a57598197b596c2733eca0ab8bb5
+title: H08M6G-PDF-ENG
+---
+# HBR / Digital Article / How Constructive Dissent Can Unlock Your Team’s Innovation
 
-regulation. If a team can’t ﬁnd a way to engage in constructive dissent,
+generation and step 3, friction is step 2, clariﬁcation. This is the step
 
-it will default to preserving the status quo. But if it can, that norm will
+of curiosity, inquiry, and discovery. Model this step carefully. To set an
 
-unleash the team’s innovative capability.
+appropriate tone and pace at the start of constructive dissent, use your
 
-This article was originally published online on February 12, 2025.
+voice wisely and sparingly, then draw conclusions from the results and
 
-Timothy R. Clark is an Oxford-trained social scientist and founder and CEO of LeaderFactor, a global leadership consulting and training ﬁrm. He works with CEOs and their teams, helping them achieve data-driven cultural transformation and is the developer of the EQindex emotional intelligence assessment. His most recent book is The 4 Stages of Psychological Safety: Deﬁning the Path to Inclusion and Innovation (Berrett-Koehler 2020).
+set direction for the next steps.
+
+. . .
+
+Unlocking innovation from diverse perspectives is the essence of
+
+constructive dissent. As a norm, or pattern of shared behavior, it

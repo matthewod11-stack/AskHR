@@ -1,11 +1,29 @@
-## HBR / Magazine Article / The Power of Strategic Fit
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af2f37c2d007eb2d7bf85441aae52e5313b87f35
+title: R2502C-PDF-ENG
+---
+# The Current State of Strategy
 
-rules designed for the industrial age are less relevant in an era of
+Facing heavy pressure to improve the worth of their company, many
 
-digital technologies and powerful intangibles. Consider the valuation
+managers have turned to what we call “spreadsheet strategies.” They set
 
-of assets. An asset is any resource (tangible or intangible) controlled by
+ﬁnancial goals suﬃcient to meet analysts’ expectations and then ﬁll in
 
-a company that can produce future economic value—though it might
+row by row, column after column, tweaking the numbers to ﬁnd a plan
 
-take decades to ﬂow into income statements. Ocean Tomo, a provider
+that appears plausible and then backing into ways to achieve it. That
+
+approach has four ﬂaws.
+
+First, it grants excessive credence to archaic accounting rules as the
+
+best way to measure the value of modern companies. Accounting
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

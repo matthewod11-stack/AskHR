@@ -1,11 +1,27 @@
-# your own internal signal library.
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04f58f8b53b47a4da8fa21424d6904e748d7d299
+title: H08SY7-PDF-ENG
+---
+# Practical Ways to Build Better Intuition
 
-- 3. Name the process. Label the stage you’re in: “I’m gathering
+If you want to sharpen your intuition, start by treating it like a muscle.
 
-information,” “I’m interpreting signals,” “I’m sitting with
+One that gets stronger through deliberate training.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Here are ﬁve practices I use with executives across industries:
 
-5
+- 1. The “calm test.” Before acting on a strong impulse, ask: Would I
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+make this same decision if I felt completely calm? This simple question
+
+distinguishes clarity from emotional urgency. Emotions aren’t bad—
+
+but they’re not the same as intuition.
+
+- 2. Decision reﬂection. After each high-stakes decision, jot down what
+
+you felt, what patterns you saw, and what cues you followed. Revisit
+
+weeks or months later to evaluate accuracy. Over time, you’ll build

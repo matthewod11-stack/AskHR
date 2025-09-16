@@ -1,31 +1,23 @@
-## collaborative software development more eﬃcient.
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8bdd36a19629c77e2c2ca9a3b4f1299882b7908
+title: R2302A-PDF-ENG
+---
+# Open Everything
 
-We are also open with most of our corporate information, and we publish a detailed list of what we aren’t willing or able to share. Public is
+A primary reason that GitLab gravitated to distributed work and
 
-the default, and any exceptions are noted. The handbook, for instance,
+adopted transparency as a core value is the open-source nature of
 
-is online for all to see: programming rules, the songbook, the rundown
+our tool. From the start Dmitriy wanted everyone to be able to see
 
-of my ﬂaws—everything. As a result, GitLab team members aren’t
+the code and build on it, and we get hundreds of contributions from
 
-the only ones who use it to solve problems. Many people outside the
+our community every quarter. By eschewing oﬃces, we put external
 
-company—especially those working on software development—have
+collaborators—including customers such as Goldman Sachs, T-Mobile,
 
-told us that when they don’t know how to proceed with a task, they
+and Lockheed Martin—on a level playing ﬁeld with GitLab team
 
-often Google their issue plus “GitLab handbook” to see if our policies
-
-and practices can help them—or at least provide inspiration.
-
-Our commitment to transparency has helped us win customers,
-
-investors, and talent because it creates trust. Our stakeholders
-
-understand that being so transparent makes us accountable for
-
-addressing problems and providing solutions. For instance, by
-
-publishing our product road map in the handbook, we let everyone
-
-see what’s forthcoming. And if you Google “GitLab onboarding,” you’ll
+members. We’re all connected in the same online workplace, making

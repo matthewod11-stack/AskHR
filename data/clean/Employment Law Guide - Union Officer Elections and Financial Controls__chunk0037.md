@@ -1,9 +1,11 @@
-# organization's constitution and bylaws.
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: 40754a81bf5f407bb98cb9963eca5661b7db022c
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+# Employee Rights
 
-They also include the right to meet and assemble freely with other members, to express any views,
+Title I of the LMRDA guarantees certain rights to all union members. These include the right to nominate
 
-arguments, or opinions, and to express views at meetings about candidates in an election of the labor
-
-organization or about any business properly before the meeting, subject to the organization's established and reasonable rules pertaining to the conduct of meetings. Additional rights outlined in Title I address dues,
-
-initiation fees and assessments, protection of the right to sue, and safeguards against improper disciplinary
+candidates, to vote in elections or referendums, to attend membership meetings, and to participate in the deliberations and vote upon the business of such meetings, subject to reasonable rules and regulations in the

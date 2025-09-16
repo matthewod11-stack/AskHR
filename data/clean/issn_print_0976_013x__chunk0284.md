@@ -1,5 +1,21 @@
-# and
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 701d0f6f5045aa673b268ce931742aeced4034b6
+title: issn_print_0976_013x
+---
+# Flexible and Reconfiguration Concepts
 
-incorporating strategies/structure/network design changes, agility for proactive
+From the manufacturing perspective, internal flexibility traces back to TPS aiming to
 
-32
+eliminate waste that does not add any value from the customer’s point of view, acts as a
+
+predecessor of lean production (Womack et al., 1990), and later externally extended to
+
+organizations and finally to supply chains in decades of 21st century (Duclos et al., 2003;
+
+More & Babu, 2008). The supply chain flexibility provides options and features on which
+
+most of the literature studies agree are the utilization of inter-firm as well as intra-firm
+
+flexibilities under risk and uncertainty, focusing on adaptability of linkages between partners

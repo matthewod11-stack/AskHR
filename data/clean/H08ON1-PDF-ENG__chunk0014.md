@@ -1,5 +1,19 @@
-# HBR / Digital Article / A Guide to Building a Unified Culture After a Merger or Acquisiti…
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b207592b139bb38b16fb5c618057526ec61696c
+title: H08ON1-PDF-ENG
+---
+## survey, focus groups across departments, and interviews with
 
-service) in the past. For companies where M&As are a pillar of strategy,
+key leaders to learn about the cultural compatibility of the two
 
-consider creating your own in-house assessment. Do this work during
+organizations. These don’t need to be M&A-focused instruments; we’ve
+
+used Denison Organizational Culture Survey and GlobeSmart (a for-pay
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

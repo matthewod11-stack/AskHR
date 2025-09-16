@@ -1,3 +1,31 @@
-# Perceptual Ability
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3c5182b03a04c8107166fc66c45d9ca0bbdab290
+title: industrial_organizational_psychology_an_applied_approach
+---
+# I
 
-Perceptual ability consists of vision (near, far, night, peripheral), color discrimi- nation, depth perception, glare sensitivity, speech (clarity, recognition), and hearing (sensitivity, auditory attention, sound localization) (Fleishman & Reilly, b). Abilities from this dimension are useful for such occupations as machin- ist, cabinet maker, die setter, and tool and die maker. An example of a perceptual ability test is shown in Figure ..
+y t t e G / c s i D o t o h P ©
+
+Cognitive ability tests are commonly used because they are excellent predic- tors of employee performance in the United States (Schmidt & Hunter, ) and in the European Community (Salgado, Anderson, Moscoso, Bertua, & DeFruyt, ), are easy to administer, and are relatively inexpensive. Cognitive ability is thought to predict work performance in two ways: by allowing employees to quickly learn job- related knowledge and by processing information resulting in better decision mak- ing. Though cognitive ability tests are thought by many to be the most valid method of employee selection, they certainly have some drawbacks. Perhaps the most cru- cial of these is that they result in high levels of adverse impact (Roth, BeVier, Bobko, Switzer, & Tyler, ) and often lack face validity. Because cognitive ability tests have the highest level of adverse impact of any employee selection method, it is not surprising that they also are frequently challenged in court. As you learned in Chapter , an organization can still use a test with adverse impact if it can show that it is related to performance, and cognitive ability tests that have been properly developed and validated usually survive legal challenges (Shoenfelt & Pedigo, ). However, defending lawsuits, even if the company wins, can be expensive.
+
+Another drawback to cognitive ability tests is the difficulty of setting a pass- ing score. That is, how much cognitive ability do you need to perform well in a particular job? Should we always give preference to the smartest applicant or is there a point at which increased cognitive ability doesn’t help? The “On the Job” case study at the end of this chapter will give you a good opportunity to explore this question further.
+
+Though meta-analyses suggest that cognitive ability is one of the best predic- tors of performance across all jobs (Salgado et al., ; Schmidt & Hunter, ), the results of job-specific meta-analyses raise some doubt about this assumption. For example, in a meta-analysis of predictors of law enforcement performance, Aamodt () found cognitive ability to be significantly related to performance, but the corrected validity (ρ = .) was not nearly as high as that reported in the
+
+employee selection: references and testing
+
+171
+
+172
+
+chapter 
+
+meta-analysis by Schmidt and Hunter (ρ = .). Similar results were found by Vinchur, Schippmann, Switzer, and Roth () in their meta-analysis of predic- tors of performance for salespeople: Cognitive ability was significantly related to supervisor ratings (ρ = .) but not to actual sales performance (ρ = −.). Thus, further meta-analyses on specific occupations are still needed before we can con- clude that cognitive ability is one of the best predictors for all jobs.
+
+One of the most widely used cognitive ability tests in industry is the Wonderlic Personnel Test. The short amount of time ( minutes) necessary to take the test, as well as the fact that it can be administered in a group setting, makes it popular. Sample items from the Wonderlic are shown in Figure .. Other popular cogni- tive tests are the Miller Analogies Test, the Quick Test, and Raven Progressive Matrices. To better understand cognitive ability tests, complete the short form of the Basic Cognitive Ability Test (BCAT) found in Exercise . in your workbook.
+
+A potential breakthrough in cognitive ability tests is the Siena Reasoning Test (SRT). The developers of this test theorized that the large race differences in scores on traditional cognitive ability tests were due to the knowledge needed to under- stand the questions rather than the actual ability to learn or process information (intelligence). Take, for example, the analogy, Colt is to horse as _____ is to dog. To correctly answer this question, one must have prior knowledge of animals as well as the ability to do analogies. To reduce the reliance on previous knowledge, the SRT items contain nonsense words and words that are commonly known (e.g., lamp, couch). A study comparing the SRT with other cognitive ability tests found that not only did the SRT predict college grades and work performance at least as well as traditional cognitive ability tests, but almost eliminated the racial differ- ences in test scores (Ferreter, Goldstein, Scherbaum, Yusko, & Jun, ).
+
+A type of test related to cognitive ability is the situational judgment test. In this test, applicants are given a series of situations and asked how they would handle each one. A meta-analysis by McDaniel, Morgeson, Finnegan, Campion, and Braverman () found that situational judgment tests correlated highly with cognitive ability tests (r = .) and with job performance (r = .). Though situational judgment tests are correlated with cognitive ability, the combination of the two is more valid than either test alone (Clevenger, Pereira, Wiechmann, Schmitt, & Harvey, ).

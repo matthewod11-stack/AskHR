@@ -1,5 +1,11 @@
-#RootedInTruth. The campaign involves suppliers and employees who
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e8ea0e60c040eb66f926e3e6460a45aba3ab3a5
+title: R2505L-PDF-ENG
+---
+# channels.
 
-share personal stories about why they trust Vero, alongside photos of
+And Vero’s outreach goes even further. The company engages its loyal
 
-their favorite Vero products and their own recipes that use them. The
+customer base, suppliers and employees through a campaign called

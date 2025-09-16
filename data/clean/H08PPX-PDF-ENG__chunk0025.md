@@ -1,5 +1,11 @@
-## patient demographics. Physicians, nurses, and frontline staﬀ each
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b682b42c5633b8ad3626197ec05ba32b1bae93a8
+title: H08PPX-PDF-ENG
+---
+# metrics.
 
-receive content tailored to their unique responsibilities, such as
+Similarly, Kaiser Permanente has taken a more personalized approach,
 
-addressing implicit bias in clinical decision-making or improving
+customizing training modules based on clinical roles and regional

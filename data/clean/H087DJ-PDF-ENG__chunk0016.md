@@ -1,7 +1,19 @@
-## HBR / Digital Article / Supporting the Mental Health of Employees of Color
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7268b571cdf38bfab0ff286965286cd11c649fb9
+title: H087DJ-PDF-ENG
+---
+## the department, the division, and in some cases the entire ofﬁce. When
 
-similar to yours. (“Does that boss check everyone’s work, or just mine?”)
+you’re an only, you can go days, weeks, even months without seeing or
 
-Being an only also means that if you are not at a meeting or don’t attend
+speaking to coworkers who look like you. This means you have no one
 
-an outing, people notice and comment. This can create or add to a sense
+to check in with about whether their race-related ofﬁce experiences are
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,9 @@
-# Youth Minimum Wage
-
-A minimum wage of not less than $4.25 an hour is permitted for employees under 20 years of age during their first 90 consecutive
-
-calendar days of employment with an employer. Employers are prohi-bited from taking any action to displace employees in order to hire employees at the youth minimum wage. Also prohibited are partial displacements such as reducing employees’ hours,
+---
+source_path: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department
+  of Labor.md
+pages: n/a-n/a
+chunk_id: f0cb92a896f1cc64b9889e9f3434dad24ffb6e58
+title: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department of
+  Labor
+---
+# Back to Top

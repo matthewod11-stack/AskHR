@@ -1,11 +1,11 @@
-## amount psychological safety, as the research of Harvard Business
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfc784d1556c48243378d23962afe3dde65c0bee
+title: H06WA9-PDF-ENG
+---
+## beneﬁt from each other’s perspectives, knowledge, and networks.
 
-School’s Amy Edmondson shows. But, as we’ve seen, perceived
+For team members to feel comfortable sharing in this way — bringing
 
-generational competition in the workplace, exacerbated by clickbait
-
-headlines, has undermined trust. One good way to rebuild it is to hold a
-
-roundtable where the team’s diverse perspectives can be acknowledged
-
-and valued.
+up new ideas or conﬂicting information — they need to feel a certain

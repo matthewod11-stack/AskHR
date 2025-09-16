@@ -1,9 +1,7 @@
-# on.
-
-So, take note of this important insight : your budget has stakeholder
-
-relationships buried in it; you just need to dig them up, and the exercise
-
-will help you learn more about how your strategy and your stakeholders
-
-are connected, which brings me to the next step.
+---
+source_path: H08V5N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 118bbbee80ca72115533936cd60acc9ec870b622
+title: H08V5N-PDF-ENG
+---
+## “indirect labor” and “employee beneﬁts” belong with employees, and so

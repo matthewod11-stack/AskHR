@@ -1,5 +1,21 @@
-## surprise or a panicked search for replacement pump part or a care
+---
+source_path: H06NVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb86868cf15017f1f95b214c0e12277bd9feaf1a
+title: H06NVB-PDF-ENG
+---
+## empowerment and feeling less isolation or worse, failure.
 
-provider will only worsen things. And be prepared for a prolonged
+Start preparing now. All of the resources and care available for first-
 
-search: there is a high level of need and regulated support is limited-to-
+time mothers mentioned in this piece should be as well-researched as
+
+the right stroller or babysitter — and be accessible when you need them.
+
+Start today, whether you’re expecting, on leave, or already back to work.
+
+Some services may even be covered by your medical insurance or as an
+
+employee benefit, so ask your OB/GYN and your HR department. Know
+
+these providers’ contact info, rates, and rules of engagement. Another

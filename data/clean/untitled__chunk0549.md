@@ -1,11 +1,13 @@
-## psychology. American Psychologist, 47, 308–318.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c17b2bc9bba1c3f4bd561e18ab4f24465ec0802e
+title: untitled
+---
+# Keegan Paul.
 
-LeBoeuf, B. J. (1974). Male-male competition and reproductive success in elephant seals. American Zoologist, 14, 163–176.
+Krechevsky, I. (1932). “Hypotheses” in rats. Psychological Review,
 
-Lehrman, D. S. (1953). A critique of Konrad Lorenz’s theory of in- stinctive behavior. Quarterly Review of Biology, 28, 337–363.
+39, 516–532.
 
-Lockard, R. B. (1971). Reﬂections on the rise and fall of compara- tive psychology: Is there a lesson for us all? American Psychol- ogist, 26, 168–179.
-
-Lorenz, K. Z. (1950). The comparative method in studying innate behavior patterns. In J. F. Danielli & R. Brown (Eds.), Physio- logical mechanisms in animal behavior (pp. 221–268). New York: Academic Press.
-
-Maier, N. R. F. (1937). Reasoning in rats and human beings.
+Leahey, T. H. (1992). The mythical revolutions of American

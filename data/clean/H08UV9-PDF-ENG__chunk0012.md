@@ -1,23 +1,25 @@
-## familiar conundrum of middle-market enterprises everywhere: They
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1cb0f82e53d75ec7dd1a88bca5c6c0edaf41c262
+title: H08UV9-PDF-ENG
+---
+## institutional knowledge and accountability.
 
-have big-company needs but small-company resources. On the PE
+On the other end of the spectrum, large psychometric providers oﬀer
 
-ﬁrm side, the people responsible for ﬁnding and evaluating candidates
+standardized assessments like personality tests designed to predict
 
-are usually the ﬁrm’s operating partners (OPs), who may be smart
+executive performance, identify risks and weaknesses, evaluate a
 
-operators but rarely have HR expertise. On the company side, nearly
+person’s teamwork skills, and so on. The reports they provide are
 
-half (46%) of midsized companies say their HR departments are tactical
+data-rich but interpretation-poor—algorithmic outputs that often miss
 
-and operational, not strategic; and if they’re hiring as part of a PE
+nuance, context, and the human element. While they assess the
 
-acquisition, they and their C-suite colleagues might not yet understand
+candidate, it’s left to the hiring team to determine whether that
 
-the pressures and requirements of working for PE owners.
+candidate actually ﬁts what the job requires.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This is where middle-market companies and PE ﬁrms confront the

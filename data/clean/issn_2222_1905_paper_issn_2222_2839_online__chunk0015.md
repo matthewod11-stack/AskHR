@@ -1,7 +1,9 @@
-## Master of Arts Thesis, University Of North Texas.
+---
+source_path: issn_2222_1905_paper_issn_2222_2839_online.md
+pages: n/a-n/a
+chunk_id: bb68c6263d6b2b4b13dad478c423108d17329108
+title: issn_2222_1905_paper_issn_2222_2839_online
+---
+## Change Managers, Journal of Applied Behavioural Science, 44(4), 118-131.
 
-Greenhalgh, T., Robert, G., McFarlane, F., Bate, P., & Kyriakidou, O. (2004). Diffusion of innovations in service
-
-organizations: Systematic review and recommendations. Milbank Quarterly, 82, 581–629.
-
-Guimaraes, T. & Armstrong, C. (1998). Empirically testing the impact of change management effectiveness on
+Gaylor, T. K. (2001). Factors affecting resistance to change: A case study of two north Texas police departments.

@@ -1,11 +1,29 @@
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2113d1a7baffc991bc30ff6588583e8f64eb4d68
+title: R2006F-PDF-ENG
+---
 ## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-content, architecting for privacy, and how to incentivize publishers.
+often passionate critiques of his team’s work. (Clearly, general managers without his core expertise would ﬁnd it diﬃcult to teach what they don’t
 
-Thus some of his work fell into the learning box. Here managers face a
+know.)
 
-steep learning curve to acquire new skills. Given how demanding this is,
+See more HBR charts in Data & Visuals on HBR.org.
 
-only critical new activities should fall into this category. Over six years
+The second challenge for Rosner involved the addition of activities
 
-of intense learning, Rosner has mastered some of these areas, which are
+beyond his original expertise. Six years ago he was given responsibility
+
+for the engineering and design of News. Consequently, he had to
+
+learn about publishing news content via an app—to understand news
+
+publications, digital advertising, machine learning to personalize news
+
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+
+19
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

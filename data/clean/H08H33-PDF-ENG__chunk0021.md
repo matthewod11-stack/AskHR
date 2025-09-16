@@ -1,7 +1,19 @@
-# ﬁercely competitive market.
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: acbb65645899f2a59affeeaea40cb2164f3d1796
+title: H08H33-PDF-ENG
+---
+# capability stronger.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Netﬂix has literally written the manual and set the standard for
 
-4
+adopting talent density measures. Since its start as an online DVD rental
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+service in 1998, the company has continuously reinvented itself. Today,
+
+Netﬂix generates revenue per employee that is nearly twice that of
+
+Google and seven times that of Amazon. With a market cap of more than
+
+$300 billion, it stands out as the only proﬁtable streaming company in a

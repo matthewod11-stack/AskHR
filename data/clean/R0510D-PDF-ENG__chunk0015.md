@@ -1,7 +1,9 @@
-# REVIEW STRATEGY
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76114ef225ab3f0a0991d2e121c7ae1a950d0ec0
+title: R0510D-PDF-ENG
+---
+# COMMUNICATE STRATEGY
 
-Human resource alignment. HR function manages employee incen- tives, competency development programs, and annual performance reviews in a man- ner consistent with corporate and business unit strategic objectives.
-
-See that the
-
-Knowledge management. with the chief learning officer to ensure that the best practices and ideas most critical to the corporate strategy are shared through- out the organization.
+Through newsletters, CEO speeches, and other channels, communicate corporate strat- egy, targets, and initiatives to the workforce. Coordinate with HR to ensure that education about the strategy management process is in- cluded in training programs.

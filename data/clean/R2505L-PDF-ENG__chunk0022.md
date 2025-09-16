@@ -1,15 +1,21 @@
-# inadvertently amplify disinformation.
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf63415b6274c9497336eead2a181455ee788746
+title: R2505L-PDF-ENG
+---
+## HBR / Magazine Article / How to Counter Fake News
 
-After ascertaining that the crisis has reached the threshold, the team
+the disinformation, specialists in cybersecurity and food security are
 
-analyzes the data to identify the key groups that are spreading the fake
+called in as well.
 
-news. Social media is rife with self-proclaimed experts, bloggers, and
+Instead of continuing to follow the traditional playbook and
 
-celebrities, so companies have to invest resources in advance of a crisis
+immediately crafting a defensive reply, the crisis management team applies an important test to avoid the Streisand eﬀect: Has the news
 
-to understand who the inﬂuencers are on topics relevant to them. In
+reached the company’s visibility threshold? Resisting the urge to
 
-Vero’s case, the origin of the video is traced to an anonymous activist
+publicly refute fake news can be diﬃcult, so Vero has established
 
-account, and the communities engaging most with the content are
+a predetermined threshold to prevent knee-jerk reactions that might

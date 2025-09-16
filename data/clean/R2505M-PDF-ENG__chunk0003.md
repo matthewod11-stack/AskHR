@@ -1,17 +1,9 @@
-## prosperity in recent decades through innovative technologies and
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 265e5ac6ec7cb022f807b8352570b150402f497c
+title: R2505M-PDF-ENG
+---
+# Angie Quintanilla Coates
 
-new ways of working. But many of those innovations have costs. For
-
-example, plastics are used to make many convenient and low-cost
-
-consumer products, but they create huge problems for both terrestrial
-
-and marine ecosystems and ﬁnd their way into thousands of kinds of
-
-animals, including humans. Fracking technology has kept the price of
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Business has made huge strides in advancing economic and social

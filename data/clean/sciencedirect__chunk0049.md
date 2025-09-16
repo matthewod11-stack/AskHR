@@ -1,7 +1,7 @@
-# References
-
-[1]
-
-Joseph, S., and R. Worsley (2005) “A Positive Psychology of Mental Health: The Person-Centred Perspective.” Person-centred Psychopathology: A Positive Psychology of Mental Health. pp. 348-357.
-
-[2] Seligman, M. (2016). Pursuit of Happiness. Available from: http://www.pursuit-of-happiness.org/history-of-happiness/martin-seligman-
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: ed3fb111ade4cca7bfa25d6453f70ff948b1cd19
+title: sciencedirect
+---
+## Jasleen Kour et al. / Procedia Computer Science 161 (2019) 226–232

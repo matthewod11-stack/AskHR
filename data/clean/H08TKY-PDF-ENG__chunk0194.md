@@ -1,19 +1,15 @@
-## major parts: core ideology and envisioned future.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bcae78528c45b8b30a0a7e8f5b1665e74c8c80c6
+title: H08TKY-PDF-ENG
+---
+## HBR / Digital Article / The Definitive HBR Strategy Glossary
 
-- Core ideology describes an organization’s foundational identity. It’s
+Vision: Vision helps companies decide what to preserve and what future
 
-what remains constant, providing the glue that holds an organization
+to pursue. The phrase, however, has become something of a Rorschach
 
-together as it grows, decentralizes, diversiﬁes, and expands globally.
+test: It can be taken to mean deeply held values, societal bonds, goals,
 
-The point of your core ideology is to guide and inspire, not to
-
-diﬀerentiate—two companies can articulate the same ideology. This
-
-ideology is the sum of core values and a core purpose.
-
-- Envisioned future also consists of two parts: a 10-to-30-year audacious
-
-goal, plus vivid descriptions of what it will be like to achieve the
-
-goal. It is both concrete—describing something visible and vivid—and
+motivating forces, or raisons d’être. A well-conceived vision has two

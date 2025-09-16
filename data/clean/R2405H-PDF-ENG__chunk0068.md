@@ -1,29 +1,15 @@
-## knives and garden tools) and safe driving (no incidents of drunk
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea3c3805974452c5289b2963a71c148d98634b0a
+title: R2405H-PDF-ENG
+---
+# 10% of the total impact.
 
-driving or speeding infractions). It included three behaviors in its safety
+To deﬁne and align around the meaning of safety, the SVP visited some
 
-metrics: properly covering sharp tools during transport and storage,
+200 client sites to gather feedback from site managers and clients. On
 
-using sharp tools correctly on the job, and operating vehicles safely.
+the basis of those visits, the company deﬁned safety as safe operations
 
-The company also introduced a number of practices tied to improved
-
-safety. For instance, it created a conﬁdential hotline that employees
-
-could use to report safety violations without fear of retribution. Site
-
-managers began holding regular safety meetings with shift supervisors
-
-in order to focus them on speciﬁc behaviors and practices. Each site was
-
-given specialty double-canvas covers for sharp tools and access to an
-
-online training program for using them. Site managers were evaluated
-
-according to the percentage of times the tools were properly covered
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+by employees (preventing lacerations from sharp tools such as kitchen

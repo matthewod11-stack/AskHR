@@ -1,21 +1,27 @@
-## pragmatically inclusive, actively seek input from team members with
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85663c453e1dd5f51d321de916a7eaa2b28ade74
+title: H07WED-PDF-ENG
+---
+## reader of people, practice active listening during project meetings and
 
-varied perspectives and backgrounds. Involve team members in critical
+cultivate an understanding of team dynamics — work on resolving
 
-decisions while maintaining the ﬁnal authority as needed. Promote an
+conﬂicts constructively. Practice empathy to better understand diverse
 
-inclusive work environment where diverse viewpoints are valued and
+perspectives within your team and stakeholders. Develop emotional intelligence to navigate complex interpersonal dynamics eﬀectively.
 
-considered.
+- 7. Measured emotion
 
-- 9. Willingness to trust
+Maintaining composure during high-stress situations is essential in
 
-Trust is foundational in project management. Build trust by
+projects. Enhance this skill by practicing mindfulness and stress-
 
-consistently delivering on commitments and being transparent in your
+management techniques. Learn to express emotions appropriately
 
-communication. Extend trust to team members and stakeholders and
+while maintaining control. Avoid impulsive, emotional reactions.
 
-foster an environment of mutual reliance. Develop strong relationships with individuals across diﬀerent functions and backgrounds. Be reliable
+- 8. Pragmatic inclusiveness
 
-and trustworthy in your interactions, earning the trust of your
+Project managers often collaborate with diverse teams. To be

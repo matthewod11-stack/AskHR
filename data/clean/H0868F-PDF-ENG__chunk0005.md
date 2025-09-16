@@ -1,19 +1,11 @@
-# Xin He/Getty Images
+---
+source_path: H0868F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64c688f716f76c455ea8c6c1b120f216034b1c4c
+title: H0868F-PDF-ENG
+---
+## 5 Strategies for Improving Mental Health at Work
 
-“I have never felt so seen.”
+Benefits and conversations around mental health evolved during the pandemic. Workplace cultures are starting to catch up. by Morra Aarons-Mele
 
-This feedback — which I have received repeatedly since the publication
-
-of my book, The Anxious Achiever, last year — makes me feel grateful. It
-
-also makes me angry.
-
-Every day, my inbox is ﬁlled with stories that would make your eyes
-
-burn. I recently conducted an informal poll on LinkedIn in which 87%
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Published on HBR.org / April 18, 2024; updated April 24, 2024 / Reprint H0868F

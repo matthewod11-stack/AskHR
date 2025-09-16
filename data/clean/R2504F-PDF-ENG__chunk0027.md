@@ -1,19 +1,35 @@
-# eldercare.
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95bac93172c6e6a705de59338ca44ccbfafd6de7
+title: R2504F-PDF-ENG
+---
+# medical devices (26%)
 
-Employers should be aware of common disconnects. Companies tend
+- greater work ﬂexibility (in daily schedule or leave of absence) (25%)
 
-to underestimate the number of employee caregivers, in part because
+- a healthcare adviser or advocate to help navigate the medical system
 
-employees themselves often see themselves not as caregivers but as
+(23%)
 
-responsible family members. Employees’ responsibilities as caregivers
+Driven by the exigencies of the Covid-19 pandemic, in 2020 many
 
-may accumulate gradually, so they may be slow to voice a need for
+companies began to help employees meet at least some of those
 
-support. Employees are also often unaware of the beneﬁts available
+needs, oﬀering them more work-from-home and ﬂexible-scheduling
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+options and responding to their need to care for family members
 
-7
+recovering from Covid. Those were steps in the right direction, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+there are signs that organizations today are placing a higher priority on
+
+eldercare beneﬁts than in the past. Half of the HR leaders surveyed by
+
+Care.com, for example, reported that their organizations are doing so.
+
+But in practice we have a long way to go: According to the AARP and
+
+S&P Global survey mentioned earlier, only 25% of organizations oﬀer
+
+paid family leave for elder caregiving, and only 19% oﬀer subsidized

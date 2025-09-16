@@ -1,5 +1,9 @@
-# 2.2.1 Results
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 3d75903c4ea886db97f5dd21c8292ae825dd2422
+title: performance_management_3rd_edition_by_aguinis
+---
+# 2.2 PERFORMANCE PLANNING
 
-Results refer to what needs to be done or the outcomes an employee must produce. Aconsideration of results needs to include the key accountabilities, or broad areas of a job for which the employee is responsible for producing results. This information is typi- cally obtained from the job description. A discussion of results also includes specific objectives that the employee will achieve as part of each accountability. Objectives are statements of important and measurable outcomes. Finally, discussing results also means discussing performance standards. A performance standard is a yardstick used to evaluate how well employees have achieved each objective. Performance standards provide information about acceptable and unacceptable performance (e.g., quality, quantity, cost, and time).
-
-Consider the job of university professors. Two key accountabilities are (1) teach- ing (preparation and delivery of instructional materials to students) and (2) research (creation and dissemination of new knowledge). An objective for teaching could be “to obtain a student evaluation of teaching performance of 3 on a 4-point scale.” An objective for research could be “to publish two articles in scholarly refereed jour- nals per year.” Performance standards could be “to obtain a student evaluation of teaching performance of at least 2 on a 4-point scale” and “to publish at least one article in scholarly referred journals per year.” Thus, the objective is the desired level of performance, whereas the standard is usually a minimum acceptable level of performance.
+Employees should have a thorough knowledge of the performance management system. In fact, at the beginning of each performance cycle, the supervisor and the employee meet to discuss and agree upon what needs to be done and how it should be done. This performance planning discussion includes a consideration of both results and behaviors as well as a development plan.

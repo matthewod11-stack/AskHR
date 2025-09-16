@@ -1,11 +1,17 @@
-# HBR / Digital Article / Research: How Gig Platforms Can Mitigate Racial Bias in Rating…
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 827c2be055471fce06e5e1586c4293f4984f3de7
+title: H08NYS-PDF-ENG
+---
+## by a multipoint scale, such as the ubiquitous ﬁve-star rating scale.
 
-less likely. Further complicating the issue, evaluators typically decide
+However, as mentioned above, rating inﬂation is quite common, as
 
-for themselves what dimensions matter, turning ratings into a catch-
+evaluators rarely use the full rating range, making these distinctions
 
-all measure that combines multiple potentially unrelated factors into
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-a single ambiguous score. However, one potential solution is for
+5
 
-platforms to consider using a series of dichotomous ratings across the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

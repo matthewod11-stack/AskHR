@@ -1,11 +1,9 @@
-# acquisition.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7618a4f6cbadc0bdb3ce772ee5d1d30c672e645a
+title: H07ZZW-PDF-ENG
+---
+## Pharma. And at X (formerly Twitter), Elon Musk accused employees of
 
-Employees have become the cultural auditors of their organizations.
-
-And wise executives must assume that anything they say or do can
-
-become public knowledge.
-
-Business has become global and harder to control. Globalization oﬀers
-
-companies enormous growth opportunities and access to cheap labor
+oﬀering the public blow-by-blow accounts of the chaos following his

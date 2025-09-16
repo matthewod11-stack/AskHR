@@ -1,35 +1,61 @@
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be1fd0b8558a653ab815eb5b815ce24fb5eba898
+title: R2305F-PDF-ENG
+---
 ## HBR / Magazine Article / When Diversity Meets Feedback
 
-make or break the project. Despite her fears, she felt she’d aced the
+giving it, and I’m sure he thought the credit for my success in parking
 
-presentation and, elated, made her way to the speakers’ lounge to wait
+my small car in this very easy spot was at least partly his.”
 
-for the second presentation. There she bumped into her colleague Miles,
+While providing advice can indeed be generous and kind, it also creates the impression that you’re putting yourself above the person you’re giving it to.
 
-who had spoken earlier that morning.
+Solnit’s implication is that this man provided unsolicited advice
 
-Here’s what happened next: “I was pleased to relax and have a chat,”
+because he thought that his skills were superior to hers since he was
 
-Cassandra recalls. “After a few friendly exchanges, Miles surprised me
+a man. That could have been his thinking, but research reveals that
 
-with feedback: ‘Your presentation was 90% perfect. The audience was
+men are as likely to give unsolicited advice to other men as they are to
 
-eating it up! I do think you spoke a little too fast, which made you sound
+women. Research also reveals that women give considerable amounts
 
-nervous. Also, maybe your mouth was too close to the mic because your
+of advice to other women. It’s with cross-gender feedback that the
 
-voice somehow sounded tinny.’ Although Miles’s feedback in retrospect
+discrepancy becomes clear: One research project showed that men are
 
-was actionable and meant to help before I went back onstage, I felt like
+ﬁve times as likely to give unrequested advice to women as women are
 
-he had hijacked my self-conﬁdence. I had been feeling great about what
+to give it to men.
 
-I’d accomplished, and now I felt like an inexperienced child receiving
+That’s a problem because while providing advice can indeed be
 
-coaching from a teacher. I noticed my body physically shifting back in
+generous and kind, it also creates the impression that you’re putting
 
-my chair to get as far away from Miles as possible.”
+yourself above the person you’re giving it to. In my own research
 
-As Cassandra’s story demonstrates, even when feedback is provided
+I’ve interviewed dozens of men and women about this phenomenon.
 
-with a genuine desire to help, it clearly gives the person dispensing
+I’ve found that although most men don’t believe they’re guilty of
+
+manvising, well over 90% of women report that they have recently
+
+received unsolicited advice from their male colleagues.
+
+One of my interviewees, a software industry marketing VP I’ll call
+
+Cassandra, provided an example. At an all-hands meeting attended
+
+by 2,000 colleagues, she had to give two presentations about a major
+
+project she was leading. In the ﬁrst she presented the results of nine
+
+months of work. She was anxious because the reception she got could
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

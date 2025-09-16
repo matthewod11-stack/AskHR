@@ -1,5 +1,11 @@
-# Race
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: ddafaa5b2d917c8ac68e380ce50eb15b6c451186
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# Gender
 
-White Black or African American American Indian/Alaska Native Asian Native Hawaiian/Pacific Islander Hispanic Bi-racial Other (e.g., mix) Missing/Prefer not to say
+Woman Man Agender Missing/Prefer not to say
 
-n¼118 (75%) n¼5 (3%) n¼0 n¼2 (1%) n¼0 n¼13 (8%) n¼2(1%) n¼2 (1%) n¼18 (11%)
+n¼63 (38%) n¼79 (49%) n ¼ 1 (1%) n ¼ 17 (12%)

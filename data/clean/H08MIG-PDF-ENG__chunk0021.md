@@ -1,13 +1,19 @@
-# against the manager.
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e09010a12ae055cb4b78d905a680dba8bd3de24
+title: H08MIG-PDF-ENG
+---
+# HBR / Digital Article / Research: When Is Leniency the Right Response to Employee M…
 
-Managers should, therefore, consider whether the oﬀender is in a
+- 2. Assess the individual’s needs.
 
-tough situation and might genuinely deserve some grace via leniency.
+Managers should also consider whether granting leniency would be
 
-Examples from our study include ﬁnancial hardships, family health
+a compassionate act for the oﬀender. Observing employees vigilantly
 
-concerns, bereavement, and major life events, like becoming a parent
+watch to see how managers react to their coworkers’ misconduct and
 
-or going through a divorce. It is this human perspective that seems to
+if they believe there is little reason for compassion, their contempt for
 
-make the greatest diﬀerence, legitimizing the merits of leniency in the
+the manager’s leniency will be fueled, as will their desires to retaliate

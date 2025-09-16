@@ -1,19 +1,43 @@
-# Rebuild the Internal Labor Market
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b27a57debc01268cb82e2ca2ea0d48f9bda95af9
+title: R2403F-PDF-ENG
+---
+## maker of home appliances and consumer electronics.
 
-One eﬀective way for companies to increase ﬂexibility and reduce
+The downside to decentralizing around autonomous P&Ls is a loss of
 
-employee anxiety is to retrain workers and give them opportunities to
+synergies, but there are remedies for that. ING, for instance, inspired by
 
-transfer into promising areas of the organization. HR can play a central
+tech companies’ agile models, loosely groups small multidisciplinary
 
-role in making the case for those practices.
+teams into larger collectives for the purpose of coordinating bigger
 
-Despite the fact that training is necessary to grow talent from within,
+tasks. When a project ﬁnishes, the team assigned to it disbands.
 
-companies invest remarkably little in it. A survey conducted in 2020 by
+Functional experts in legal, ﬁnance, and operational risk are not
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+assigned to teams but can be called on to help out and give objective
 
-9
+advice. The system can ﬂex to meet new demands, but job titles and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+reporting arrangements do not change.
+
+Business leaders should also rethink how contract employees and
+
+vendors are used. Almost 50 years ago, Charles Handy and John
+
+Atkinson argued that contractors should do the peripheral work that
+
+shifts when business needs and strategies change, allowing the core
+
+of the business and its employees to remain stable. In recent decades
+
+companies have done just the opposite and have resorted to using
+
+contract workers and to outsourcing entire core functions, such as IT,
+
+to drive down operating costs. In many cases that was a mistake because
+
+the vendor couldn’t deliver or, worse, went out of business.

@@ -1,3 +1,17 @@
-# Moving Ahead
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 40253dc7dc0de3e97c3348fda275484719a66f21
+title: untitled
+---
+# The Question of Identity
 
-However, it was not that simple. The expansion of private practice, a decline in federal support of training and research, and retrenchment in academia contributed to continued self- doubt and a lingering unease about the future and direction of counseling psychology. Whiteley and Fretz (1980) invited a distinguished cohort to comment on the future of counseling psychology, and the forecast was gloomy. Counseling psy- chology’s lack of a clear identiﬁcation with a particular role, function, or setting made it difﬁcult for many of the contri- butors to see a future that made any sense. But in spite of decades of an entrenched identity crisis, the division has grown.There are over 2,500 members (APA, 2001), 67 active
+Counseling psychology was perhaps moving along too many paths, and in 1959, the APA’s Education and Training Board called for an evaluation of the status of the ﬁeld. The initial report, authored by three counseling psychologists (Irwin Berg, Harold Pepinsky, and Joe Shobin) was not ﬂattering. Criticisms were made about the lack of a research emphasis and the broad meaning of counseling (to read the report see Whitely, 1980). It was recommended that consideration be given to dissolving Division 17 and moving it under the aus- pices of Division 12, Clinical Psychology. This was not the sort of amalgamation the Boulder participants had envi- sioned. The report was never released, and after much protest on the part of Division 17, a new report was commissioned and published (also in Whitely, 1980). It presented a more en- couraging view of counseling psychology and provided data to demonstrate that the profession was alive and well.
+
+The whole affair contributed to serious questions of iden- tity and the place and direction of counseling psychology.
+
+In response, the division set about regrouping and taking stock. The result was the convening of the Greyston Confer- ence. Named for the Greyston Mansion, a gift to Teachers College, Columbia University, the meeting was held over a 3-day period in January 1964. In an interview (Baker, 2001), one of the organizers and authors of the conference report, Albert S. Thompson, describes the nature and signiﬁcance of the meeting:
+
+We wanted a group that would be representative of counseling psychologists. There were 60 and it certainly was an interesting group. When you think of it, they were a terriﬁc group, 10 were previous presidents of Division 17 and 11 of them later became presidents. The conference was well organized and Don Super really gets the most credit for that. At the end of the conference we came up with 32 recommendations. Some were for Division 17, some for APA, some for universities, some for practicum and internship settings, and some for employers. Most were designed to be practical. I would like to go record to say that the recom- mendationsdidstimulatefurtherdevelopmentssuchasAmerican Board of Examiners of Professional Psychologists (ABEPP) cer- tiﬁcation, a brochure put out by Division 17 on what counseling psychology is, and criteria for internship. There was general agreement that counseling psychology had a special substance and emphasis in training, which were not necessarily included in the current preparation. (p. 318)
+
+Greyston if nothing else helped to unite counseling psy- chologists in a spirit of shared mission. After Greyston, there was less talk about disbanding and more talk of identity. The brochure that Thompson referred to appeared in 1968 (Jordaan, Myers, Layton, & Morgan, 1968). The document, afﬁrming the tenets of the Northwestern Conference, de- ﬁned the counseling psychologist in terms of three central roles: the remedial/rehabilitative, the preventative, and the educational/developmental.

@@ -1,19 +1,13 @@
-## P. M. A. Desmet and P. Hekkert, “626-2533-3-Pb1,” Int. J. Des., 2009.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 000f9090acc942d425c863728b241666c732ceba
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# [3] W. B. Albery, “Human consequences of supermaneuverable flight,” SAFE J., 2000.
 
-[6]
+[4]
 
-J. Li and B. J. Hines, “Comparison of clinical outcomes in robotic assisted sacrocolpopexies with the davinci s anddavincixi,” Female Pelvic Med. Reconstr. Surg., 2018.
+P. M. A. Desmet and P. Hekkert, “A Decade of Design and Emotion,” Int. J. Des., 2009.
 
-[7]
-
-J. J. E. Parkinson et al., “Socratic Dialogue Gives Way to PowerPoint,” Bus. Commun. Q., 2009.
-
-[8] A. O. U. Onuka et al., “Teachers related factors that influence secondary school teachers job satisfaction levels in public secondary schools in Mombasa district, Kenya.,” ERIC Clear., 2014.
-
-[9]
-
-J. A. Laub, “Assessing the servant organization; Development of the Organizational Leadership Assessment (OLA) model. Dissertation Abstracts International,” Procedia - Soc. Behav. Sci., 1999.
-
-[10] M. Bourrier, “Applying safety science to genetically modified agriculture,” in Governing
-
-Risk in GM Agriculture, 2010. doi: 10.1017/CBO9780511976582.010.
+[5]

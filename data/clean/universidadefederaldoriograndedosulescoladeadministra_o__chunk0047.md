@@ -1,17 +1,11 @@
-# questão anterior. A primeira questão gera uma avaliação quantitativa, revelando o
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 2a0052bb199293aeda861cc9d3720ac05150055e
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# recomendaria
 
-quão satisfeito (ou insatisfeito) o cliente está. Partindo dessa pontuação, os
+empresa/produto/serviço para um amigo?" e geralmente vem acompanhada de uma
 
-consumidores são classificados em três diferentes níveis:
-
-- Promotores: atribuem nota 9 ou 10, revelando altas chances de
-
-recomendar a empresa/produto/serviço
-
-- Neutros: dão nota 7 ou 8, denotando que sua relação com a
-
-companhia é regular, mas existem pontos a melhorar
-
-- Detratores: nota de 0 a 6, explicitando que estão descontentes com
-
-seu produto, serviço ou atendimento, o que pode levá-los a fazer uma
+segunda pergunta, desta vez aberta, para explorar o motivo da nota atribuída à

@@ -1,9 +1,15 @@
-## Common STAR interview questions such as, “Tell me about a time you
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e7c7ad8daa725bac116ce2e481cc7e990749e264
+title: H08GNF-PDF-ENG
+---
+# generally start with:
 
-failed,” help interviewers learn about your humility, self-awareness, and
+- Tell me about a time when…
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- Have you ever had to deal with….
 
-2
+- Give me an example of…
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Describe a situation where…

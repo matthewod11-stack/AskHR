@@ -1,9 +1,11 @@
-## Employee job burnout and job dissatisfaction
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: faa689436e0c78131b923c3679e1270f5e72b2cb
+title: performance_management_3rd_edition_by_aguinis
+---
+# Wasted time and money
 
-Increased risk of litigation
+Damaged relationships
 
-Unjustified demands on managers’ and employees’ resources
-
-Varying and unfair standards and ratings
-
-Emerging biases
+Decreased motivation to perform

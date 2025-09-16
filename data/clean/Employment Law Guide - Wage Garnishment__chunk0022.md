@@ -1,9 +1,9 @@
-# Who is Covered
+---
+source_path: Employment Law Guide - Wage Garnishment.md
+pages: n/a-n/a
+chunk_id: a62106041084758429a6b8ca83fbea6f6029fdec
+title: Employment Law Guide - Wage Garnishment
+---
+# dol.asp?exiturl=http://www.ecfr.gov/cgi-
 
-Title III of the Consumer Credit Protection Act (CCPA) is administered by the Wage and Hour Division (WHD). The CCPA protects employees from discharge by their employers because their wages have been garnished
-
-for any one debt, and it limits the amount of an individual's earnings that may be garnished in any one week
-
-for certain types of debts. Title III may limit garnishment for any employee or individual who receives earnings
-
-for personal services (including wages, salaries, commissions, bonuses, and periodic payments from a
+bin/retrieveECFR^Q^gp=1|n=29y3.1.1.3.53&exitTitle=www.ecfr.gov&fedpage=yes))

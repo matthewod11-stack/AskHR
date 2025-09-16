@@ -1,3 +1,7 @@
-# Child Study Movement
-
-Another potent factor in the origin of school psychological services was the child study movement. Inﬂuenced primarily by G. Stanley Hall, this movement served to sensitize parents and teachers to the importance of childhood and to the knowledge gained about children from research through observational and questionnaire methods. Hall was interested primarily in the normative aspects of the development of nor- mal children and youth. By the beginning of the twentieth century, he had supervised or conducted dozens of normative research studies that helped to deﬁne the typical or normal child. The child study movement had chapters in several states, and conventions were held on child study topics. Hall founded several professional journals and is credited with founding the American Psychological Association (APA) in 1892 (Ross, 1972).
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 522ed539ddae412105ad1f101d714ae0d156e044
+title: untitled
+---
+# 416 School Psychology

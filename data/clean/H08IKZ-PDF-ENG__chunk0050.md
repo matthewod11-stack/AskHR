@@ -1,3 +1,9 @@
-# MM
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a6e0f823e6e706855389bc02c4b535dfcb84f36
+title: H08IKZ-PDF-ENG
+---
+# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
 
-Mihnea Moldoveanu is the Marcel Desautels Professor of Integrative Thinking, a professor of economic analysis, and director of the Desautels Centre for Integrative Thinking and of Rotman Digital at the Rotman School of Management at the University of Toronto.
+Martin Reeves is the chairman of Boston Consulting Group’s BCG Henderson Institute. He is a coauthor, with Jack Fuller, of The Imagination Machine (Harvard Business Review Press, 2021) and a coauthor, with Bob Goodson, of Like: The Button That Changed the World (Harvard Business Review Press, April 2025).

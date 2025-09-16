@@ -1,7 +1,25 @@
-## HBR / Digital Article / Supporting the Mental Health of Employees of Color
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58505dacbd5fc8fd5a44ddce15bdf948ea9bd071
+title: H087DJ-PDF-ENG
+---
+## there a manager (perhaps your own) or another leader in the company
 
-lately at work and would like help for this. What options are available?
+who you believe will listen? Often, a company has identiﬁed someone in
 
-What have others found useful?”
+HR to assist employees with mental health concerns. When you ask for
 
-Despite eﬀorts to address the barriers, some workplaces remain
+help, be speciﬁc. Do you want a therapist, a group, a class? Whatever you
+
+believe will work best for you, ask for it. It’s OK if you don’t know what
+
+to ask for or what type of intervention you want. You can simply say,
+
+“I’ve noticed that I’ve been more anxious (or stressed, angry, depressed)
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

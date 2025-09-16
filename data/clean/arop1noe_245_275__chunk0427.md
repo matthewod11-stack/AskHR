@@ -1,7 +1,21 @@
-## exchange on social networking sites. Internet High. Educ. 15:9–14
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 913887bf3e11ceb582319c63ab290bbed6dc8fea
+title: arop1noe_245_275
+---
+# l
 
-WongEM,HaselhuhnMP,KrayLJ.2012.Improvingthefuturebyconsideringthepast:theimpactofupward counterfactual reflection and implicit beliefs on negotiation performance. J. Exp. Soc. Psychol. 48:403–6 Wrzesniewski A, DuttonJE.2001.Crafting ajob:revisioningemployeesasactive craftersof theirwork. Acad.
+Williams EA, Scandura TA, Gavin M. 2009. Understanding team-level career mentoring by leaders and its effects on individual team-source learning: the effects of intra-group processes. Hum. Relat. 62:1635–66
 
-Manag. Rev. 26:179–201
+WillinghamDB, NissenMJ, BullemerP. 1989.On thedevelopment of proceduralknowledge. J.Exp. Psychol.
 
-Yoon SW, Song JH, Lim DH, Joo BK. 2010. Structural determinants of team performance: the mutual
+Learn. Mem. Cogn. 15:1047–60
+
+Wilson KA, Bedwell WL, Lazzara EH, Salas E, Burke CS, et al. 2008. Relationships between game attributes
+
+and learning outcomes: review and research proposals. Simul. Gaming 40:217–66
+
+Wilson MG, Dejoy DM, Vandenberg RJ, Richardson HA, McGrath AL. 2004. Work characteristics and employee health and well-being: test of a model of healthy work organization. J. Occup. Organ. Psychol. 77:565–88
+
+Wodzicki K, Schwämmlein E, Moskaliuk J. 2012. “Actually, I wanted to learn”: study-related knowledge

@@ -1,39 +1,35 @@
-# HBR / Digital Article / New Research Debunks a Common Criticism of Pay Transparen…
+---
+source_path: H08UG4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1e5522999fd6feb0a70019b3aa9c4d2ba222c4d
+title: H08UG4-PDF-ENG
+---
+# new median employee pay information.
 
-information. Are these numbers accurate? If the information online
+The disclosure of median employee pay was one small step toward more
 
-is wrong and inﬂated, managers may beneﬁt from providing accurate
+pay transparency. Looking to the future, managers can use the lessons
 
-salary information to employees. Take control of the information about
+learned from the CEO pay ratio to develop pay transparency policies for
 
-your ﬁrm, as doing so can improve employee morale.
+their ﬁrms. What the research shows us is that sharing more meaningful
 
-What are the current sentiments of employees?
+pay reference points can help employees understand how fair (or unfair)
 
-Many ﬁrms conduct anonymous surveys annually. They often ﬁnd that
+their pay actually is.
 
-employees believe they are underpaid and that some demographic
+Managers who seek to develop their own pay transparency policies
 
-groups believe that more strongly than others. If employees think this,
+should consider the following critical questions:
 
-even though the pay practices may be fair, a ﬁrm may stand to beneﬁt
+What salary information is available already?
 
-from increased pay transparency. Correct the incorrect assumptions,
+Employees can and do check salary information posted on job
 
-and employee satisfaction may increase.
+search websites. Managers should assume their employees see this
 
-How competitive is the labor market?
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-If employees are in a tight labor market, where they can easily get oﬀers
+3
 
-from other ﬁrms, they likely know what they can earn elsewhere (i.e.,
-
-they know the market wage). They are not dreaming of salaries and roles
-
-that do not actually exist. However, if the employees are not likely to
-
-receive outside oﬀers because of labor market conditions or geographic
-
-location, they will have more limited information. Our research shows
-
-that these employees’ pay satisfaction levels will likely beneﬁt the most
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

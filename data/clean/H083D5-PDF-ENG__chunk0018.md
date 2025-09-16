@@ -1,17 +1,23 @@
-## feelings of exclusion, apprehension, and inadequacy.
+---
+source_path: H083D5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 783d876a0bc87160fb65ddb8e11ac0616437a8fd
+title: H083D5-PDF-ENG
+---
+## their place in the grand scheme of things.
 
-This “insider” information also extends to people within the
+One of the surest ways to torpedo a new hire’s sense of belonging is
 
-organization. Consider the experience of a new colleague, Edmund, who
+the use of insider-jargon or acronyms without explanation. Assuming
 
-struggled with uncertainty when co-workers referred to other people
+universal understanding of business terms like “LOE” (level of eﬀort),
 
-at the company by their ﬁrst names. Each time it happened, Edmund
+or “RCA” (root cause analysis), organization-speciﬁc names like TPS
 
-would worry if he should know this seemingly important “Sarah” or
+report (which can mean many diﬀerent things), or the staﬀ’s routine
 
-“Juan” (without explicit introductions), and what did it say about him if
+attendance at the “AERA conference” (these are real examples) is
 
-he had to ask?
+misguided. New hires are not necessarily in the know about these terms,
 
-To make sure everyone is in the loop, err on the side of over-explaining
+and their lack of knowledge slows down understanding and can create

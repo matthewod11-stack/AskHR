@@ -1,5 +1,13 @@
-# Appl. Psychol. 94:535–46
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: be54bf0faa1d47c8faf6aba8bc5cb39f89ab532c
+title: arop1noe_245_275
+---
+## transfer, innovation performance, and growth. Organ. Stud. 32:157–85
 
-Summarizes the relationship between pretraining interventions and learning.
+Meister JC, Willyerd K. 2010. The 2020 Workplace: How Innovative Companies Attract, Develop, and Keep
 
-Mesmer-Magnus JR, Viswesvaran C. 2010. The role of pre-training interventions in learning: a meta-analysis
+Tomorrow’s Employees Today. New York: HarperCollins
+
+Mesmer-Magnus JR, DeChurch LA. 2009. Information sharing and team performance: a meta-analysis. J.

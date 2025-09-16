@@ -1,15 +1,9 @@
-# Today’s challenges
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: f8e65d97e99fb4fc74cc87f036bbf74d72754454
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+## section with a critical evaluation of the findings against the hypothesis.
 
-Pandemic, chip shortage, climate change, supply chain crisis, war in Ukraine,
-
-economic instability. These are most frequently discussed topics in our everyday life
-
-that influence human reasoning and change our everyday routines. The pandemic
-
-caused by COVID-19 has had a significant and long-lasting effect on business and
-
-future of work. Unemployment rates have fallen to historic lows, in Europe reported
-
-6,6%, US
-
-reported 3,7%
+1.2.

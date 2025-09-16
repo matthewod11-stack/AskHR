@@ -1,11 +1,9 @@
-# Almost Never
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: a9291407bbf194b4794a3b55c37e72c9d82c7543
+title: document_resume
+---
+# Almost Always
 
-1
-
-2
-
-3
-
-4
-
-5
+Arrives for class prepared with necessary materials for classroom instruction.

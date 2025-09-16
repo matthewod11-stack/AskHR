@@ -1,11 +1,7 @@
-# Yusko, K.P., 172
-
-Zaccaro, S.J., 495 Zajac, D.M., 365 Zajack, M., 440, 442 Zajonc, R.B., 485, 486 Zapf, D., 367 Zedeck, S., 233 Zeidner, R., 408 Zeitlin, L. R., 567 Zellinger, P.M., 256 Zemke, R., 299, 301, 378 Zenger, J.H., 496 Zetik, D.C., 340 Zhang, Z., 439 Zhao, H., 372 Zhou, J., 341 Zickar, M.J., 17 Zigarmi, D., 452 Zigarmi, P., 452 Zillman, D., 461 Zimmerman, R.D., 167, 320, 365,
-
-369, 372, 395, 563
-
-Zinda, M., 43, 480 Zingheim, P.K., 349 Zink, D., 88, 164 Zlotnick, S., 456 Zottoli, M.A., 132 Zuber, A., 321 Zucchelli, L., 307 Zweig, D.I., 143 Zweigenhaft, R.L., 423
-
-name index
-
-675
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 369eac39d65b92a4d2b0c19d0a4da25422305fdc
+title: industrial_organizational_psychology_an_applied_approach
+---
+523 Williams, R., 120 Williamson, A.M., 543 Williamson, L.G., 136 Willihnganz, M.A., 144 Willis, C.E., 268 Willis, R.P., 316 Willis, S.C., 120 Willness, C. R., 486, 598 Wilmot, W.W., 502 Wilson, A, 44 Wilson, D. S., 483, 490 Wilson, D.W., 570 Wilson, E.J., 461 Wilson, M.A., 52, 63 Wilson, R., 476 Wilson, W., 310, 443 Wimbush, J.C., 189 Wing, J.F., 571 Winters, J.J., 479 Wirtz, D., 14 Wiseman, R.M., 352 Wisher, R., 310 Witt, L.A., 241 Witvliet, C., 191 Woehr, D.J., 143, 256, 365, 441 Woﬀ ord, J.C., 452 Wolf, P.P., 247 Wolinsky, J., 549 Wolkove, M., 389, 392 Wood, H.G., 278 Wood, J., 573 Wood, J.M., 188 Wood, R., 2 Woodward, N. H., 89, 126, 130, 583 Wooten, W., 42, 45 Worth, C., 351 Wright, J.A., 542 Wrzesniewski, A,, 43 Wulﬀ , C., 118 Wyatt, S., 549 Wynes, M., 485 Yamazaki, S., 570 Yammarino, F.J., 453 Yang, L.Q., 563 Yetton, P.W., 455, 527, 528, 529, 530 Yoon, K., 483 Yoshida, K., 570 Young, M. S. , 598 Youngjohn, R.M., 441 Yousef, R., 475 Yukl, G.A., 138, 243, 449, 454, 459

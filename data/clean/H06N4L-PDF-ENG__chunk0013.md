@@ -1,17 +1,19 @@
-# HBR / Digital Article / Are Non-Christian Employees Represented in Your Holiday Polic…
+---
+source_path: H06N4L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5fb521bed841850bbb725a495d81beeca4d3a73e
+title: H06N4L-PDF-ENG
+---
+# for religious observance?
 
-third of those holidays would be a nonstarter for most organizations.
+One possible instinct is to close for all religious holidays, but that
 
-Another potential strategy is picking and choosing speciﬁc religious
+would quickly become untenable. By some estimates, in 2021 there
 
-holidays to observe as a company, but this strategy quickly becomes
+are approximately 176 religious holidays. Closing the oﬃce for even a
 
-complicated at best, and problematic at worst. This would, by default,
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-leave certain community members and traditions out, and therefore
+2
 
-would not meet the ultimate goal of showing respect for worldview
-
-diversity. (At IFYC, we intentionally use the term “worldview” to
-
-describe a guiding philosophy or outlook on life, which may be based
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,7 @@
-## H. Philosophy of mind. Six lectures. Mr. Strong.
-
-Requisite: Psychology A, previously or simultaneously. (Columbia University in the City of New York Catalogue, 1900– 1901, p. 176)
-
-Rice’s (2000) analysis of reviews of this period by Garvey (1929) and Ruckmich (1912) suggested that ﬁve stages of institutional development for psychology departments were evident by 1900. In Stage 1, mental science or mental philos- ophy courses were being taught. In Stage 2, institutions were offering one or more courses labeled “psychology.” Stage 3 had institutions with psychological laboratories. Stage 4 de- partments were offering the PhD in psychology. Stage 5 rep- resented an independent department; Rice suggested that Clark, Columbia, Illinois, and Chicago were the only institu- tions at this level.
-
-reports by Calkins, Sanford, Seashore, and Whipple in 1910, and Henry’s (1938) exami- nation of 157 catalogs will take the reader almost to midcen- tury in describing the courses taught to undergraduate psychology students. Lux and Daniel (1978) consolidated these portraits with a table of the 30 most frequent under- graduate courses offered in 1947, 1961, 1969, and 1975. Perlman and McCann (1999a, p. 179) continued this tradition by identifying the 30 most frequently offered undergraduate courses, and the percentages of colleges requiring them, in their study of 400 catalogs for 1996–1997.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 318e7dd778f2ff7bc5751fdbdd3bea359bab6a98
+title: untitled
+---
+## G. General psychology. Eight lectures. Professor Hyslop.

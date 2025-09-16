@@ -1,37 +1,19 @@
-## HBR / Digital Article / Is Office Politics a White Man’s Game?
+---
+source_path: H04JA0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b709cd201664ee16fd7e9fcdceab004294be477
+title: H04JA0-PDF-ENG
+---
+# Same Game, Different Beneﬁts
 
-for political behavior at work. In one study, the researchers go as far as
+Dominant groups in organizations generally set the standards for
 
-describing oﬃce politics as a “white man’s game.” Based on a review of
+behavior within their workplaces, and as Caucasian men hold most
 
-the existing literature, this study ﬁnds that mentoring and networking
+leadership positions today, it can be argued that they set the norms
 
-are indeed critical to developing political understanding. Women and racial minorities did not diﬀer from white men on their self-reported
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-levels of networking and mentoring; however, only white men beneﬁted
+2
 
-from these activities. It seems even if women and racial minorities
-
-engage in political behaviors, they may not beneﬁt from them in the
-
-same way that white men do.
-
-The reason for this is that political behaviors are considered a more
-
-stereotypical image for white men, and therefore the beneﬁts will be
-
-selectively applied to white men who choose to engage in them. In
-
-the research undertaken by Kate Davey in 2008, women described
-
-oﬃce politics as an informal system that keeps power with those
-
-who have it, while excluding those who don’t. In this study, women’s
-
-descriptions of career barriers were in fact descriptions of political
-
-barriers. Subsequent research has borne this out: Even though women
-
-and racial minorities understand the political environment, they may
-
-not gain the advantages white men do by engaging in it.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

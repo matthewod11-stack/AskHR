@@ -1,11 +1,29 @@
-## HBR / Digital Article / Leading Is Emotionally Draining. Here’s How to Recover.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca62f034b75d0ba66efdee594aa35bd88d76c604
+title: H08TK8-PDF-ENG
+---
+## intelligence, composure under pressure, and resilience. Further, it
 
-Restore: Replenish your emotional reserves.
+enhances our psychological well-being and increases the compassion
 
-When we push through emotionally diﬃcult events without pausing to
+we show to others. Practicing self-compassion simply means treating
 
-recover, we slowly drain our emotional and physical reserves. Over time,
+yourself as you would a friend: acknowledging the challenge,
 
-this can lead to emotional exhaustion and damage our mood, health, and eﬀectiveness. Just like athletes need rest after an intense game,
+recognizing anyone in your position might feel the same way, and
 
-professionals must replenish after emotionally demanding situations at
+responding with kindness instead of criticism.
+
+After hard moments, ask yourself: What would I say to a colleague
+
+struggling with this same situation? Then extend that same support
+
+inward. This quiet act of self-kindness will help you feel better, recover faster, and lead more eﬀectively.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

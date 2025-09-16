@@ -1,9 +1,21 @@
-# performance.
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5df6638344ab35f2332f723705bc8de6d2480e48
+title: H08OKB-PDF-ENG
+---
+## HBR / Digital Article / Research: Hiring a Superstar Can Backfire
 
-Importantly, these two scenarios can also intersect. Indeed, the best
+The ﬁrst scenario is when a star joins a practice area where many
 
-conditions for hiring stars occur when the star joins one of the strongest practice areas in their new organization and when this new practice
+incumbents are stars. In this case, the performance disadvantage
 
-area that they are joining is better than the practice area that they are
+reduces by up to 74%. The second scenario is when a star joins one
 
-moving from. In these circumstances our results indicate a 270% swing
+of the strongest practice areas in the organization. In this case the
+
+performance disadvantage dissipates entirely, and the hiring practice
+
+enjoy a performance advantage compared to non-hiring practices.
+
+In fact, we observe a 162% swing from negative to positive relative

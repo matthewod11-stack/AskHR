@@ -1,9 +1,9 @@
-# the world.
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c8f33fb43b626c8fca17ab7cbc9abe3405fde60
+title: H08IWP-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways to Make All Your Stakeholders Feel Heard
 
-In 2023 the CEO of the PGA Tour, Jay Monahan, along with two
-
-members of its board, concocted a partnership with the Saudi Public
-
-Investment Fund (PIF) without consulting other board members or any
-
-of the PGA Tour’s key stakeholders: players, sponsors, broadcasters, and
+Consider the case of the PGA Tour, the most prestigious golf circuit in

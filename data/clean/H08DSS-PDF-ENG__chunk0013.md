@@ -1,59 +1,29 @@
-## HBR / Digital Article / How to Kickstart Your Post-Summer Career Development
+---
+source_path: H08DSS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f92753f337177a8c52ca5b15e796c297222a618c
+title: H08DSS-PDF-ENG
+---
+# experiment with new tools and systems
 
-work shared by the World Economic Forum.) Then use the sprint plan
+- Career clubs for peers who discuss their development goals and help
 
-below to design your daily focus. Reserving just 15 minutes a day on
+each other achieve them
 
-your schedule helps make the sprint an unmissable moment.
+- 3. Start a skill sprint
 
-Consider this example plan:
+Skill sprints create a short-term focus for your development and feel
 
-- Day 1, Learning landscape: Use search and ChatGPT to ﬁnd out
+easy and motivating to do. Completing a skill sprint gives you a sense
 
-key facts, thought leaders, and available research on the skill you’re
+of achievement that keeps you committed to your career development, even when the demands of your day job pull you in a diﬀerent direction.
 
-focusing on.
+A ﬁve-day skill sprint is a good way to get started. First, pick a skill
 
-- Day 2, Expert insight: Pick an expert in the area and dive deeper into
-
-their work. Look at their posts on LinkedIn, listen to their perspective
-
-on a podcast, and watch what they have to say on video.
-
-- Day 3, Put it into practice: Try out a tool or test an idea you’ve read
-
-about in your research. Get some feedback from your colleagues to
-
-understand how useful it was.
-
-- Day 4, Ask for help: Find someone in your organization who’s good at
-
-what you want to learn. Get in touch with them, share your insights,
-
-and ask for their advice about what else you could do.
-
-- Day 5, Capture your learning: The last day of the sprint is for
-
-reﬂection. Ask yourself: What have I learned? How might I apply it
-
-at work? How else might I want to develop in this area?
-
-- 4. Increase your feedback frequency
-
-Feedback is one of the quickest ways you can learn about your impact.
-
-The more comfortable you are asking the people you work with for their
-
-thoughts, the more insights you’ll accumulate and the more informed
-
-you can be about your development.
-
-An easy way to increase your feedback frequency is to ask the same question to several diﬀerent people. Comparing and contrasting
-
-their responses helps you see where you are (or aren’t) showing up
+you want to learn more about. (For inspiration, look at the top skills for
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,11 @@
-# Introduction
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: 7517aa537a36bcd22974e6540c5ab204c02a31cb
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# Keywords Distributive equality (cid:2) Distributive justice (cid:2) Status leveling (cid:2) Egalitarian
 
-Distributive justice is broadly deﬁned as the fair distribu- tion of resources (Greenberg and Colquitt 2005). One
+common subtype of distributive justice, that is, one basis for distributing resources, is equity. Equity-based justice is rooted in the sense of proportion—the sense that the out- comes individuals receive (remuneration, a corner ofﬁce, or any other valued outcome) should be awarded in pro- portion to their inputs (how hard they work, how produc- tive they are, etc.). Equity is a central base of distributive justice in organizations. Indeed, based on the amount of literature it has generated, it would appear to comprise the preeminent base.
 
-D. A. Morand (&) School of Business Administration, The Pennsylvania State University at Harrisburg, Middletown, PA 17057, USA e-mail: dam9@psu.edu
-
-K. K. Merriman Manning School of Business, University of Massachusetts Lowell, Lowell, MA 01854, USA e-mail: kkm@kkmerriman.com
-
-Now, one might surmise that equality is little applied (or researched) in organizational settings because, after all, organizations (and in particular business organizations) are ultimately meritocratic systems. That is, because organi- zations operate within market constraints, they focus upon equity-based outcomes for sound economic reason. Yet to the contrary, this conceptual paper takes issue with the above assumption, suggesting that there are many potential venues for distributive equality in organizations. This paper further ventures that the dearth of research on distributive equality in organizational settings derives from the fact that
-
-123
+Yet the wider literature on distributive justice recognizes that, in addition to equity, equality is also a fundamental base of distributive justice (e.g., Rawls 1971, 2001; Fraser and Honneth 2003; Fraser 2008). In contrast to equity, under equality distribution rules, all outcomes are equal. Here, in stark contrast to equity principles, individuals receive equivalent outcomes, presumably without regard to their inputs. For example, if all members of a team receive an equivalent reward, such instances distributive equality. But despite the fact that equality is a major distributive basis within the broader literature on distributive justice, within the organizational literature there is scant research on, or recognition of, equality as a basis for distributing valued outcomes or resources.

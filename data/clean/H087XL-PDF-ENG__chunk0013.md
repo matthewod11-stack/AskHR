@@ -1,7 +1,9 @@
-# engine.
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d474981c468ec1e3bab01f774ff260ce1125356
+title: H087XL-PDF-ENG
+---
+## coworkers from diﬀerent teams: Jun, a marketer, and Riley, a
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+production lead. On one particular project, Nilam sought their perspectives early on in designing of the company’s new fuel-eﬃcient

@@ -1,7 +1,13 @@
-# Jun Cen
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0f9168b22dd4c23d9c3a47b1d4e7b6be9d5842a
+title: S25011-PDF-ENG
+---
+## on order management, and Johnson & Johnson on its supply chain. All
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+have made signiﬁcant improvements with this narrower focus. As we
 
-6
+mentioned earlier, this is a good way for organizations that don’t have a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+strong history of process management to get started.

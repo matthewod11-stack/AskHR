@@ -1,11 +1,31 @@
-# exploration.
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d681868412ffe3a2c901b9d632373780aeb921f
+title: H08SLG-PDF-ENG
+---
+# How Leaders Get in the Way
 
-You may think that, unlike this manager, you already engage in spacious
+Leaders and managers are the key to encouraging spacious thinking
 
-mode, so you don’t need to worry. But leaders tend to overestimate
+because their behaviors signal what is acceptable. Too often, managers
 
-how spacious their own behaviors are. For example, our research has
+are narrowly focused on achieving the next short-term deliverable
 
-shown that the more senior we are in a hierarchy, the more we think
+which means their teams are stuck in doing mode too. And though the
 
-we are open to hearing others, when we are really not. Similarly, in our
+team’s to-do list gets ticked oﬀ, there is no way of knowing whether
+
+those to-dos were the right ones, no space for a team to grow, no joy or
+
+interest to discover what is possible. This can suck the life out of a team.
+
+One senior manager we came across in our research was infamous in
+
+her organization for her catchphrase: “Be clear, be quick, be gone.”
+
+In our conversations with her team and colleagues, it became clear
+
+that less-conﬁdent employees kept quiet around her and declined to
+
+raise complex, important challenges that would require inquiry and

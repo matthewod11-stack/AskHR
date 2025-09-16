@@ -1,25 +1,21 @@
-# side of a one-way door.
+---
+source_path: H06O9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1fbc2b1694e5c608b6490341f21d5e0fec36bebe
+title: H06O9Q-PDF-ENG
+---
+## HBR / Digital Article / A Measured Approach to Making a Drastic Change
 
-Why we should be careful
+While far from an exhaustive list, these three examples show how
 
-Our decision making isn’t perfect. Nobel laureate Herbert Simon taught
+profoundly the pandemic has aﬀected how we think about our work.
 
-us that it’s never the fully rational process we’d like to think it is, in
+But before we all jump on the Great Resignation bandwagon and make
 
-part because we’re working with incomplete information. Amos Tversky
+potentially life-altering decisions, a word of caution is in order. We
 
-and Daniel Kahneman also pointed out that our own psychology further
+shouldn’t ignore the lessons learned during the pandemic, but we
 
-biases our decisions. Unfortunately, these factors are playing a large role
+should pressure test these insights against some of the most obvious
 
-in people’s thinking during this time of transition.
-
-I recently spent time with two diﬀerent managers within the same
-
-organization, both of whom were looking to change jobs. Jason* wanted
-
-to change to a position that allowed for more remote work, citing
-
-his increased productivity at home. Helen,* in contrast, was feeling
-
-disconnected, out of the loop, and isolated as the only member of her
+biases we struggle with and try to avoid getting trapped on the wrong

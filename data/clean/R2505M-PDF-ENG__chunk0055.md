@@ -1,11 +1,19 @@
-## engineers, developers, owners, and material manufacturers. Standards
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ebeac306cd7e3570aae89910ad618c54513a167
+title: R2505M-PDF-ENG
+---
+## to the United Nations Environment Programme, about 37% of global
 
-are needed to get them to talk to one another so that circular design
+carbon emissions are associated with the built environment, of which
 
-becomes embedded in every step of the process.
+38% could be reduced through “circular” building techniques. CSA
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+embarked on a research project that applied circular design principles
 
-14
+to the built environment, such as adaptive reuse of buildings and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+putting discarded material from buildings back into the economy.
+
+There are many players in the built environment, including architects,

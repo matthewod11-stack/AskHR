@@ -1,9 +1,17 @@
-# Placement in the Organization
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 7c2614eef87655bc885386f30bba533636851dcb
+title: document_resume
+---
+# cry important aspect
 
-There are several types of plavement decisions in W,
+of performance appraisal. Research has led to the following convlusions.
 
-hiLh performance ratings may be used The first deals with an individual's ad\ anvement ;11 the organizational struc- ture. Examples include faculty member to depaitment chair, library teLhnician to assistant librari 111, and comptroller to business manager. Job behavior and activities are often more revealing than tests and inter\ tews for predivting, future performance. Thus, positive performance ratings often are used as promotion criteria. It is unrealistic to assume that because individuals are performing well on a job that they will succeed at the next higher level, particularly when they are Lonsidered fur promotion from lower to upper level positions. Deliberations over which candidates will be chosen for promo- tions always should begin by matching the requirements of the job \s ith the applicant's qualifications It is possible to identify certain aspects of performance on a present job that can he useful in predicting performative in a different assignment. For example, if a faculty member received good ratings in Lhairing faculty committees, this would be a major consideration in a possible promotion to depaument head. On the other hand, a faculty member ,dio had difficulty with daily administrative details would be a poor prospect for an administrative assignment.
+Individuals are very interested in knowing more about the fay tors affecting their performance and their careers.
 
-41
+Administrators are reluctant to discuss these issues.
 
-A.
+Most administrators have not found a direvt approavh to professional develop- ment issues.n
+
+Using the results of performative appraisal ii career dev Llopment can help indi- viduals in identify ing and overcoming blocks to their progress and in developing, strate- gies for improvement as they mote through various stages of their career. This could be diagnostic, for example, statistically analyzing the links between performance ratings and career stages. Ratings can also be used directly to help staff members understand what they must do to become or remain high performers.12

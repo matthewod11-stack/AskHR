@@ -1,11 +1,15 @@
-# reporting.
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 440be104d93be2afbd2702fb2cedc05ec58578c8
+title: H05W7P-PDF-ENG
+---
+## harassment, microaggressions, and mistreatment in their workplaces
 
-This article was originally published online on October 8, 2020.
+need to rethink and redesign the way reporting is done. When
 
-Lily Zheng is a strategist, consultant, and author who works with leaders to build fair, accessible, inclusive, and representative organizations. They are the author of the forthcoming Fixing Fairness: 4 Tenets to Transform Diversity Backlash into Progress for All.
+employers can successfully prevent retaliation, give victims agency and
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+transparency throughout dispute resolution, and give victims resolution
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and recourse, they will be able to restore their employees’ trust in

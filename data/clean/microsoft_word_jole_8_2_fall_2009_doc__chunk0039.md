@@ -1,45 +1,9 @@
-## Total Interactive Sports Seasons Total Coactive Sports Seasons
+---
+source_path: microsoft_word_jole_8_2_fall_2009_doc.md
+pages: n/a-n/a
+chunk_id: f4fadcc49a33fe0092a0b838e278801f98408757
+title: microsoft_word_jole_8_2_fall_2009_doc
+---
+# Written Comm
 
-3.66
-
-2.01
-
-4.46
-
-3.00
-
-.030
-
-- .090
-
-.000
-
-- .017
-
-- .008
-
-- .024
-
-- .117
-
-- .072
-
-- .007
-
-- .077
-
-- .049
-
-.082
-
-.091
-
-.085
-
-- .031
-
-.014
-
-- .117
-
-- .042
+- .126

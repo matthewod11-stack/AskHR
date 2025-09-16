@@ -1,17 +1,17 @@
-## its record of medical innovation and outstanding patient medical
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 349770250a00b99979ca1dbdfa9ead38b301079a
+title: H08F9M-PDF-ENG
+---
+# wherever possible.”
 
-outcomes. It is perhaps not surprising that the clinic also grew
+The results were remarkable. Between 2007 and 2019 patient
 
-substantially during this period, generating record revenues.
+satisfaction with nurses improved ﬁve times more than the national
 
-To experience this kind of paradigm shift and move from “power over”
+average, while satisfaction with doctors increased 11 times the national
 
-to “leading through,” organizations need to embrace an approach to
+average. Over this same period employee satisfaction increased from a
 
-leadership that strengthens their capacity to:
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+top box score of 55% to 92%. At the same time, the clinic continued

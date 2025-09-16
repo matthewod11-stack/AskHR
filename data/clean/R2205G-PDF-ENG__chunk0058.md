@@ -1,9 +1,9 @@
-# WORK/LIFE BALANCE
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d08893be8047942a1ad97237e6674ebe5a18c83
+title: R2205G-PDF-ENG
+---
+# Harvard Business Review
 
-of managers increases for all four groups of women and for Black, Hispanic, and Asian American men.
-
-Childcare vouchers. Another approach is to oﬀer employees vouchers that subsidize childcare, usually at independent centers. Vouchers accommodate changes in demand better than company centers with ﬁxed enrollment do. And when vouchers are administered through ﬂexible spending accounts, both employers and employees save on payroll taxes, and employees save on income taxes. The ﬁrms in our analysis that introduced vouchers saw double-digit increases in the share of Black men and women and Hispanic and Asian American women in management.
-
-Company childcare centers. One of the ﬁrst corporate daycare centers was opened in 1971 by Stride Rite’s president Arnold Hiatt at a shoe factory in Boston’s predominantly Black neighborhood of Roxbury. At the time, the New York Times deemed the move “radically countercultural for a titan of commerce.” In 1983 Patagonia’s cofounder Malinda Chouinard also made a pioneering move—by parking a trailer in front of the oﬃce to provide a place for the compa- ny’s chief of marketing to nurse her colicky infant. Patagonia now has a child-learning center at its headquarters, in Ventura, California, and another at its distribution center in Reno. According to Patagonia’s former CEO Rose Marcario, the company recoups 91% of calculable costs for its centers through tax refunds, decreased turnover, and increased engagement. Add to that such intangibles as heightened employee loyalty and trust, Marcario ﬁgures, and the centers more than pay for themselves. JPMorgan Chase and the con- sulting ﬁrm KPMG also argue that their full-time and backup childcare centers pay for themselves.
-
-center: “It was extremely pricey. I don’t think anybody at $8, $9 an hour could aﬀord to leave one let alone two kids there while they worked.” A combination of income-based vouchers and a center can help make childcare available to all employees, however.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,15 @@
-# RY
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2cc72f9d6755ce91ebf71b4806a8b61d284ce95
+title: H08KUZ-PDF-ENG
+---
+# HBR / Digital Article / What the 2024 CrowdStrike Glitch Can Teach Us About Cyber R…
 
-Raphael Yahalom is a cybersecurity expert, an aﬃliated researcher at MIT Sloan School of Management, and a cyber risk strategic advisor.
+on emerging digital technologies. Much more eﬀective cyber risk
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+management approaches are therefore urgently needed — and they
 
-10
+must be transparent, structured, justiﬁable, and agile.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This article was originally published online on January 10, 2025.

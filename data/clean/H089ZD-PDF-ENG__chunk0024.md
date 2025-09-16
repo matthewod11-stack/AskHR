@@ -1,11 +1,13 @@
-# visual impairments.
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0e9df1e2f7384e234ade7ad17c17f94fe5ba605
+title: H089ZD-PDF-ENG
+---
+# the brand universe.
 
-In another recent example, Korea’s leading convenience store brand CU
+For instance, in 2017 Samsung produced a short ﬁlm, Two Lights:
 
-launched a short-form series drama Convenience Store Veterans in 2023.
+Relúmĭno, that told the story of a romance between two young people
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+who met a photography club for the visually impaired. The ﬁlm also spotlighted Relúmĭno, Samsung’s visual aid application for people with

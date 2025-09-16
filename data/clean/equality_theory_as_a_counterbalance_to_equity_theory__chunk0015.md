@@ -1,5 +1,13 @@
-# D. A. Morand, K. K. Merriman
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: a15cc91aa707a15fd95a1ad6e4f23fd75c5e002b
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# The Idea of Existential Equality
 
-are created equal; that they are endowed by their Creator with inherent and inalienable rights; that among these are life, liberty, and the pursuit of happiness….’’ These are what John Locke deemed ‘‘natural rights’’ (also called moral rights or unalienable rights), namely rights that were not contingent upon the laws, customs, or beliefs of a particular society or polity (Locke 1689/2010).2
+To ﬂesh out this construal of equality of inputs, we draw on notions of equality rooted in Enlightenment philosophy. For example, the belief that ‘‘all [people] are created equal’’—that all enjoy a natural equality—is a central tenet ‘‘invention’’ of of Western culture. The fundamental enlightenment philosophy was to put all individuals, for the ﬁrst time in Western History (for even the Greeks had slaves), on one and the same footing as existentially equal beings. Within the context of historicultural thought (i.e., the history of humankind’s representations of self in rela- tion to society), this represents a rather break from the past. Such is the essential thesis of Rousseau’s famous discourse on the origin of inequality among people (Rousseau 1775/ 1992). It is the message conveyed by Jefferson in the Declaration of Independence with the well-known words: ‘‘We hold these truths to be self-evident, that all [people]
 
-Equality, in an existential sense, is a profound concept, and potentially wide-reaching in terms of its diverse pos- sible readings and implications. Within an organizational arena, it is not here implied that individuals must always enjoy the very same equalities that they enjoy in the larger society. Our contention is simply that in the workplace individuals, by virtue of their existence—and hence by their simple membership in an organization, may likely perceive that they are privileged with certain basic modes of treatment as individuals. Overall, we are not making claims as to just how far organizations will or must travel in terms of an equality of distribution. Ultimately, this becomes both a pragmatic question (in terms of organiza- tions’ motives implementing greater distributive equality relative to their desire to engage in human resource practices that may be more competitive in the marketplace), and also an ethical question (in terms of organizations’ potential obligations to practice greater distributive equality due to its intrinsic potential to make workplaces more just). Here we are merely making the limited claim that, to the degree one proposes to study distributive equality within an organizational context, that existential equality is one very proper, yet heretofore neglected, root conceptualization. To further ﬂesh out how this may operate in practice, we will next consider speciﬁc ways an existential form of distributive equality resides or may be extended within organizations.
+1 Our use of the rather mechanistic ‘‘inputs’’ represents an attempt to be consistent with wider justice literature. Yet, construing ‘‘inputs’’ as existential equality clearly enters into an ethical dimension.
+
+123

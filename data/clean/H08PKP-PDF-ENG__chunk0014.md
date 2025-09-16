@@ -1,11 +1,15 @@
-# capacity limits.
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3de0cfb670dc16263f04e6bcb83312b25f3c69e7
+title: H08PKP-PDF-ENG
+---
+# important from your perspective?”
 
-- 2. Show the cost of saying yes.
+Key Insight: Loss aversion means people prefer avoiding losses over
 
-Senior leaders often make decisions without fully grasping operational
+gaining rewards. Therefore, reframing a refusal as avoiding negative
 
-constraints, resources, and risks, and can fall into planning bias,
+business consequences (like missed objectives, resource dilution, and
 
-causing them to assume best-case scenarios and underestimate
-
-challenges. Prioritization is easier when the cost of saying yes is visible
+execution failure) is often more persuasive than focusing on personal

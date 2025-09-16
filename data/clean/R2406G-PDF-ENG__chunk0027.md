@@ -1,7 +1,19 @@
-## images, and videos for individual customers.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee4741920798e4c36f49e0c1cb80dedb274197a5
+title: R2406G-PDF-ENG
+---
+# key accounts.
 
-The global jewelry brand Pandora thrives by sparking customer interest
+Show me. Personalization leaders build and manage robust content
 
-with inspirational content. As part of its strategy, it uses AI-generated
+libraries that they tailor to the unique needs of each customer—while
 
-content to tailor its messaging to each customer and cut cycle times
+staying true to their brand voice. To do this, many are leveraging
+
+generative AI tools to create content. To evaluate companies on this
+
+promise, we looked at how sophisticated their content creation and
+
+management capabilities were and how well they personalized text,

@@ -1,11 +1,9 @@
-## satisfaction. Journal of Organization Behavior, 20, 1027-1042.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 3991f80b3c778410d2e47727e64b11dcc7d513c9
+title: file_1
+---
+# [Accessed 31 January 2011]
 
-Greenberg, J., 1990. Organizational justice: Yesterday, today, and tomorrow. Journal of
-
-Management, 16, 399-432.
-
-Groshen, E., 1991. The structure of the female/male wage differential. Journal of Human
-
-Resources, 26, 457-72.
-
-Grybaite, V., 2006. Analysis of theoretical approaches to gender pay gap. Journal of
+Graham, M. and T. Welbourne, 1999. Gainsharing and women's and men's relative pay

@@ -1,19 +1,15 @@
-# your behavior on those around you.
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d8f9c165a89907b7999f414c31bd59c1539f581
+title: H08HJ8-PDF-ENG
+---
+# Strategies to Navigate the Challenge
 
-Reﬂect on what’s really bothering you.
+If you ﬁnd yourself in a comparable situation to Shari or John, we advise
 
-People sometimes erroneously assume that other people (e.g. their
+taking proactive steps to shift the dynamic. You may not have control
 
-manager) or situations (e.g. the reporting structure) need to change for
+over who you report to, but you can control the beliefs, assumptions,
 
-them to be productive, engaged, and collaborative. This is a falsehood
-
-that puts you in a victim mindset. You can still do good work whether or
-
-not you’re enamored with your direct manager.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and narratives you create about the situation, as well as the impact of

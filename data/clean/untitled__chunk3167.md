@@ -1,7 +1,11 @@
-## 1890–1969 (hybrid years), 414–422 1970–present (thoroughbred years), 422–426
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 57162aabd634ef2b6e7b76c2fcb7c790a5a54d0f
+title: untitled
+---
+## Race relations. See Ethnic minorities Radex model, 143
 
-literary developments, 418–419, 421, 424 organizational developments, 417, 418, 420, 423–424 origins of, 31–32, 414–417 practice characteristics, 418, 419–420, 421–422, 425–426 professional developments, 38–39, 417–418, 420–422 resources for studying, 427–428 test development, 417 training/credentialing, 413–414, 417–418, 419, 421, 424–425
+Radical behaviorism, 19, 124–125 Rational calculator to error-prone subject, 236 Rationalism, 110, 111 Realism, 113–115, 117 Reason, 87–90 Reitan-Indiana Neuropsychological Test Battery for Children, 293 Relativism, 110, 111 Representational theory, 110 Research design and data treatment, 9 RIASEC, 295 Roberts Apperception Test for Children (RATC), 287 Role Construct Repertory Test, 290, 349 Rorschach Inkblot Method, 286–287 Rotter Incomplete Sentences Blank (RISB), 289
 
-Science, questioning of (personality), 194–195 Scientiﬁc amicus briefs, 395–396, 404–406 Scientiﬁc art (vs. artistic science), 339–340, 341 Scientiﬁc ethos, 183 Scientiﬁc organizations, 542–544 Scientiﬁc psychology:
-
-American psychology, 6–8 animal psychology, 13–15 behaviorism, 15–17 child study, 12 cognitive psychology (mentalism revisited), 19–20 data treatment and research design, 9 discipline’s evolution, 6–8 evolutionary theory and, 7–8 experimental psychopathology, 326–328, 333 German psychology, 6 Gestalt psychology, 17, 105 individual differences, 12–13 logical positivism and operationism, 17–18 neo-behaviorists, 18–19 origins of, 1–3 philosophical context, 1–2 psychological laboratory/experiment, 3–6, 8–20
+Schedule for Affective Disorders and Schizophrenia (SADS), 291 School psychology, 31–32, 38–39 child study movement, 416 clinical psychology and, 416 compulsory schooling and, 415 deﬁning, 413 demographic description, 413 educational psychology and, 416 emergence as distinct ﬁeld (1920–1940), 418–420 employment characteristics and services, 414 future, 426–427 periods in history of:

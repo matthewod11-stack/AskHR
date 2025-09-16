@@ -1,7 +1,7 @@
-# t n e m u c o d
-
-s i h T
-
-. y l d a o r b
-
-d e t a n i m e s s i d
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: cd4a6059cf4e3a2b56c6d2c2a048a9719a70e613
+title: legacies_in_motivation_science
+---
+# s i

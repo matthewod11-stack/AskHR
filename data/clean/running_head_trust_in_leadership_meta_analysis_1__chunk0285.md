@@ -1,5 +1,7 @@
-## Behavior and Human Decision Processes, 124, 150-164.
-
-Zhu, Y., & Akhtar, S. (2014a). The mediating effects of cognition-based trust and affect-
-
-based trust in transformational leadership's dual processes: evidence from China. The
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 1a69bc57ee1d23e8090745dcdc170702afd6923a
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# employee creativity: Interaction effects and a mediating mechanism. Organizational

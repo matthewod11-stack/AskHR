@@ -1,7 +1,25 @@
-# a culture of care in your company.
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aec173a6d0a455a549f3e752c6a37e00d3c7611e
+title: H08Q8O-PDF-ENG
+---
+## reﬂects a larger breakdown in the unspoken psychological contract
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+employees thought they had with their organization—and speciﬁcally
 
-2
+a growing divergence between employers and employees in their
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+understanding of what is fair. To close this gap, we believe that
+
+employers need to move away from establishing formal workplace
+
+policies based on what’s called the ethics of justice—a rational and
+
+one-size-ﬁts-all way of thinking about fairness—to a more ﬂexible,
+
+personalized approach based on the ethics of care. We’ll explain what
+
+ethics of care means, demonstrating how some companies that we
+
+work with in our research and executive programs have successfully operationalized a caring approach, and oﬀer guidance on how to create

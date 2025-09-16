@@ -1,15 +1,29 @@
-## HBR / Digital Article / Is Your Flexible Schedule Burning You Out?
+---
+source_path: H08RVK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85e87cd7b4acadc1028fd148d9487bdb994f88a2
+title: H08RVK-PDF-ENG
+---
+# a ﬁrst for him in years.
 
-As a leader, there will be times when a truly urgent situation calls
+If you ﬁnd yourself tethered to your phone or smart watch, create rules about when you can oﬃcially turn oﬀ. It could be that from when
 
-for being available to work after hours. There will also be times when
+you log oﬀ before dinner until your kids go down to bed that you’re
 
-you can and want to ﬂex for your personal priorities. But by being
+disconnected with work. Or you have “no email” weekends, where you
 
-more strategic and proactive with your schedule, you can increase
+don’t check your work inbox and only emergencies can reach you via
 
-your conﬁdence that you’re investing your time in alignment with your
+text. The exact times and rules can vary, but the important point is that
 
-priorities and reduce your probability of burnout.
+you create a space where you and the people around you know that they
 
-This article was originally published online on June 9, 2025.
+have your full attention.
+
+. . .
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

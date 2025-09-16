@@ -1,5 +1,7 @@
-## in work tasks, highlights two common pitfalls that organizations
-
-should address when developing a talent strategy that includes stretch
-
-assignments. If not managed carefully, these challenges can limit the growth of high-potential employees and weaken eﬀorts to build a
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a2e1462abe5eac527a225f224b7b72602deb38e
+title: H08QTQ-PDF-ENG
+---
+## Our research, along with ﬁndings from related studies of disparities

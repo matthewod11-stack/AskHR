@@ -1,5 +1,11 @@
-# No crisis. Just another Tuesday.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f62e865102580e9e49fa92c8f495ad9e652a7bc3
+title: H08TK8-PDF-ENG
+---
+# HBR Staff Using AI
 
-Each of these moments is emotionally taxing on its own. But taken
+You have to lay off a team member, deliver hard feedback in a tense
 
-together—and set against a backdrop of performance pressures, shifting
+meeting, or end the day absorbing the resignation of a top performer.

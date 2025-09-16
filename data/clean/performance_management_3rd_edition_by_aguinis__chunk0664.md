@@ -1,1 +1,17 @@
-# CAS E ST U DY 4-1
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: da65d90b14dd46f18d5c0d48691a31bd346bae89
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 4 • Defining Performance and Choosing a Measurement Approach
+
+strategy. For example, an organization emphasizing research and development as its main strategy would be concerned about results that are not easily observable in the short term. Thus, an emphasis on behaviors would be consistent with such a business strategy.
+
+- A behavior approach emphasizes what employees do (i.e., how work is done). This approach is most appropriate when (1) the link between behaviors and results is not obvious, (2) outcomes occur in the distant future, and/or (3) poor results are due to causes beyond the employee’s control. Abehavior approach may not be the best choice if most of these conditions are not present. In most situations, however, the inclusion of at least some behavior-based measures is beneficial.
+
+- A results approach emphasizes the outcomes and results produced by employees. This is basically a bottom- line approach that is not concerned with how the work is done as long as certain specific results are obtained. This approach is most appropriate when (1) workers are skilled in the
+
+needed behaviors, (2) behaviors and results are obviously related, (3) results show consistent improvement over time, and/or (4) there are many ways to do the job right. An emphasis on results can be beneficial because it could encourage employees to achieve the desired outcomes in creative and innovative ways. On the other hand, measuring only results is typically not welcomed by employees even in types of jobs for which the expected result is very clear (e.g., sales jobs).
+
+- Atraits approach emphasizes individual traits that remain fairly stable through- out an individual’s life span (e.g., cognitive abilities or personality). This approach may be most appropriate when an organization anticipates undertaking drastic structural changes. A major disadvantage of this approach is that traits are not under the control of individuals, and even when individuals possess a specific positive trait (e.g., high intelligence), this does not neces- sarily mean that the employee will engage in productive behaviors that lead to desired results.

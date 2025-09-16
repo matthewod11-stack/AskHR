@@ -1,3 +1,11 @@
-# 74
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 221f26d59a35976a6528a1c37b04a2f8b47fc54d
+title: file_1
+---
+# RESULTS
 
-Table 4 presents the results of OLS regression analysis in which two models are represented. Due to the missing information in some of the responses, the effective sample size for regression analyses is N=610 and 606 respectfully. The table consists of two models. The first one incorporates the impact of various factors on employees’ perceptions of societal gender inequality, and the second depicts the impact of the same factors on employees’ perceptions of workplace gender inequality.
+The hypotheses were tested through linear regression to investigate how individual and employment factors influence employees’ perceptions of societal and workplace gender inequality. Before running a regression analysis, means, standard deviations, and correlations diagnostics were performed (see Table 3 on p. 84).
+
+14 A clear majority means a majority of at least two thirds.

@@ -1,37 +1,33 @@
-## Organizational Liability for Sexual Harassment
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f769c7c1197f7cd8eddbd73bd65504ab530576af
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Types of Harassment
 
-In cases of quid pro quo harassment of its employees, an organization will always be liable. In hostile environment cases, however, the U.S. Supreme Court has ruled that an organization can avoid liability by showing that it “exercised reason- able care to prevent and correct promptly any sexually harassing behavior” or that the complainant did not take reasonable advantage of the corrective opportuni- ties provided by the organization (Burlington Industries v. Ellerth, ; Faragher v. City of Boca Raton, ).
+Legally, sexual harassment can take one of two forms: quid pro quo or hostile environment.
 
-Preventing Sexual Harassment In determining an organization’s liability for the sexual harassing behavior of its employees, the courts look first at the organization’s attempts to prevent this behavior. To avoid liability, the organization must have a well-conceived policy regarding sexual harassment, must have communicated that policy to its employ- ees (Frederick v. Sprint, ), and must have enforced that policy (MacGregor v. Mallinckrodt, Inc., ). The policy must explain the types of harassment (Smith
+Quid Pro Quo With quid pro quo, the granting of sexual favors is tied to such employment deci- sions as promotions and salary increases. An example of a quid pro quo case of harassment is a supervisor who tells his secretary that she must sleep with him to keep her job. In quid pro quo cases, a single incident is enough to constitute sexual harassment and result in the organization being liable for legal damages (Gutman, ).
 
-v. First Union National Bank, ) and include a list of the names of the company officials to whom an employee should report any harassment (Gentry v. Export Packaging, ). It is important to note that organizations are also responsible for harassment committed by vendors, customers, and other third parties.
+Hostile Environment In a hostile environment case, sexual harassment occurs when an unwanted pattern of conduct related to gender unreasonably interferes with an individual’s work performance. Though men and women differ in their perceptions of what constitutes harassment (Rotundo, Nguyen, & Sackett, ), the courts have ruled that such conduct can include comments, unwanted sexual or romantic advances, or the display of demeaning posters, signs, or cartoons (Jenson v. Eveleth Taconite Co., ).
 
-Correcting Sexually Harassing Behavior If an employee complains of sexual harassment, it is essential that the orga- nization investigate the complaint quickly and then promptly take any nec- essary action to rectify the situation and punish the offender. To reduce an organization’s liability for sexual harassment, Jacobs and Kearns () advise the following:
+Pattern of Behavior. For conduct to be considered sexual harassment based on a hos- tile environment, the U. S. Supreme Court has ruled that the conduct must be a pattern of behavior rather than an isolated incident (Clark County School District v. Breeden, ). It would not be harassment to ask a coworker for a date, even if the coworker does not agree to the date. It becomes harassment if the coworker continually makes unwanted romantic or sexual overtures or repeatedly makes inappropriate remarks.
 
-7
-
-7
-
-7
-
-7
-
-7
-
-7
-
-7
-
-All complaints, no matter how trivial or far-fetched they appear, must be investigated. The organization’s policy must encourage victims to come forward and afford them multiple channels or sources through which to file their complaint. Complaints must be kept confidential to protect both the accused and the accuser. Information from the investigation should be kept in a file separate from the employee’s personnel file. Action must be taken to protect the accuser during the time the complaint is being investigated. Actions might include physically separating the two parties or limiting the amount of contact between them. Both the accused and the accuser must be given due process, and care must be taken to avoid an initial assumption of guilt. The results of the investigation must be communicated in writing to both parties. The severity of the punishment (if any) must match the severity of the violation.
-
-As mentioned previously, the proper handling of a sexual harassment com- plaint can protect an employer from legal liability. In such cases as Linda Roebuck v. Odie Washington () and Rheineck v. Hutchinson Technology (), courts of appeal ruled that the organization was not liable for sexual harassment because it investigated the complaint in a timely manner and then took prompt corrective action against the harasser. In contrast, in Intlekofer v. Turnage (), the court of appeals found the Veterans Administration liable for harassment because it ignored nearly two dozen complaints by a female employee and refused to take corrective action against the harasser.
-
-However, the concern for prompt action should not deny the accused due process. In , a jury awarded a man accused of sexual harassment $. mil- lion. He was fired by Miller Brewing Company for discussing an episode of the TV show Seinfeld in which Jerry Seinfeld forgot the name of a date but remem- bered that it rhymed with a female body part (Delores). The jury ruled that a rea- sonable person would not have been offended by the discussion, and thus Miller Brewing went too far in firing the accused employee.
-
-Rather than being reactive to sexual harassment complaints, it is in the best interests of an organization to be proactive, and prevent harassment. Pro- active steps include having a strong organizational policy against harassment ( Frederick v. Sprint, ) and training employees about behavior that constitutes harassment.
+Based on Gender. To be considered sexual harassment, conduct must be due to the sex of the employee. That is, but for the sex of the employee, would the conduct have occurred? For example, in Christopher Lack v. Wal-Mart (), the Fourth Circuit Court of Appeals ruled that a supervisor’s lewd and vulgar language and
 
 legal issues in employee selection
 
-97
+95
 
-In addition to the obvious legal costs, sexual harassment has other financial ramifications for an organization. Sexual harassment results in higher levels of turnover, greater absenteeism, and lower levels of productivity (Munson, Hulin, & Drasgow, ; Pratt, Burnazi, LePla, Boyce, & Baltes, ; Schneider, Swan , & Fitzgerald, ). To test your knowledge of sexual harassment, complete Exer- cise . in your workbook.
+96
+
+chapter 
+
+jokes were not sexual harassment because they were made both to males and to females. The Courts of Appeal for the Seventh (Holman v. Indiana Department of Transportation, ) and Eighth (Jenkins v. Southern Farm Bureau Casualty, ) Circuits have made similar rulings. Members of a police department con- sistently referring to female officers as “babes” or “honey” would be an example of sexual harassment because the comments are based on gender and are demean- ing to the female officers. A male officer calling a female officer “stupid” would be an example of rude behavior, but not sexual harassment because the nature of the comment was not based on gender.
+
+In , the U.S. Supreme Court considered whether an employee can sexu- ally harass a member of the same gender. That is, if a male makes sexual com- ments or improperly touches another male, is this a case of sexual harassment? In the case of Oncale v. Sundowner Offshore Services (), the Supreme Court said yes. As a roustabout on an oil platform, Mr. Oncale was subjected to sexual threats and battery by other male roustabouts. After getting no help from his supervisor, Oncale quit his job and filed suit, eventually reaching the Supreme Court. The key to the Oncale ruling was that the harassment was due to Oncale’s sex (he was harassed because he was a male), not his sexual orientation. It should be noted that in states that have not added sexual orientation as a protected class, harassment on the basis of sexual orientation is probably not illegal because sex- ual orientation is not a federally protected class (Bibby v. Coca Cola, ; Rene v. MGM Grand Hotel, ; Spearman v. Ford, ).
+
+It should be pointed out that employers should not tolerate harassment of any type. Protected classes are a legal concept rather than a moral one, and few HR professionals would argue against the idea that employers have a moral obli- gation to provide a workplace free of harassment.
+
+Negative to the Reasonable Person. Any pattern of behavior based on gender that causes an employee discomfort might constitute sexual harassment (Egler, ). In Har- ris v. Forklift Systems (), the court found that a male supervisor’s comments such as, “Let’s go to the Holiday Inn and negotiate your raise” and “You’re just a dumb-ass woman” constituted harassment, even though the female employee did not suffer any great psychological damage or “have a nervous breakdown.”

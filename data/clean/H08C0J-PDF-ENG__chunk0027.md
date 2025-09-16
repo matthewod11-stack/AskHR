@@ -1,17 +1,13 @@
-## beneﬁts on both internal (employee) and external (portfolio) fronts.
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53b73bc9708ce14e6aebe036c7c36bfd87031c5e
+title: H08C0J-PDF-ENG
+---
+## future and more-severe heat waves, ﬂoods, and other climate events
 
-For small and medium-sized businesses, developing similar solutions
+will aﬀect their business and workforce so that they can better prepare.
 
-in-house may pose a challenge. Tapping into consultancies with
+Beyond Citi’s own facilities, this same heat map framework is applied
 
-expertise in these areas, as well as procuring well-designed third-party
-
-solutions that ﬁt your company’s unique needs, can help ﬁll this gap.
-
-Identifying areas where risks may be more subtle.
-
-When performing these audits, it’s important to remember that climate
-
-change will have subtle consequences that don’t immediately show
-
-up on a balance sheet. For instance, it can undermine important
+to corporate and public sector portfolios with the potential to yield

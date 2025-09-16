@@ -1,13 +1,11 @@
-## Geier, J. G., & Downey, D. E. (1980). Attitudinal listening
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4b492ff7c351239ed01a79b60e05ba84af6cf704
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Gaugler, B. B., Rosenthal, D. B., Th ornton, G. C., & Bentson, C.
 
-proﬁ le system. Minneapolis, MN: Performax Systems International.
+(1987). Meta-analysis of assessment center validity. Journal of Applied Psychology, 72, 493–511.
 
-Geier, J. G., Downey, D. E., & Johnson, J. B. (1980). Climate impact proﬁ le. Minneapolis, MN: Performax Systems International.
-
-Geisinger, K. F., Spies, R. A., Carlson, J. F., & Plake, B. S. (2007). Seventeenth Mental Measurements Yearbook. Lincoln, NE: University of Nebraska Press.
-
-Gelbart, M. (2001, October 30). 425 hopefuls attend Philadelphia
-
-job fair for airline workers. Philadelphia Inquirer. George, J. M. (1995). Asymmetrical eﬀ ects of rewards and
-
-punishments: Th e case of social loaﬁ ng. Journal of Occupational and Organizational Psychology, 68(4), 327–338.
+Gebhardt, D. L., & Crump, C. E. (1990). Employee ﬁ tness and wellness programs in the workplace. American Psychologist, 45(2), 262–272.

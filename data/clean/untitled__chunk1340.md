@@ -1,5 +1,9 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c2438b57c1d2049d4e4c59ce53db4cc44c6e328a
+title: untitled
+---
+## and physiology. Psychosomatic Medicine, 6, 151–154.
 
-Sroufe, L. A., & Fleeson, J. (1986). Attachment and the construction of relationships. In W. W. Hartup & Z. Rubin (Eds.), Relation- ships and development (pp. 51–72). Hillsdale, NJ: Erlbaum. Steinberg, L., Dornbusch, S. M., & Brown, B. B. (1992). Ethnic dif- ferences in adolescent achievement: An ecological perspective. American Psychologist, 6, 723–729.
-
-Stern, D. N. (1977). The ﬁrst relationship. Cambridge, MA: Harvard
+Sroufe, L. A. (1996). Emotional development: The organization of emotional life in the early years. New York: Cambridge Univer- sity Press.

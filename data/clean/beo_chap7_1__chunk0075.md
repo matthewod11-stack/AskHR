@@ -1,15 +1,13 @@
-# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 93e496f24b677cb161b0f37f2b51879b1c80d35b
+title: beo_chap7_1
+---
+# 7.3.3 Group Identification
 
-economics of identity). Psychological evidence from “minimal group” experiments
+There is a substantial psychological literature on group identification which could
 
-suggests that people form group affiliations rapidly, e.g., based on which room they
+be useful for organizational economics (see Akerlof and Kranton (2005), on the
 
-were placed into, or according to their preference for Klee or Kandinsky paintings.
-
-Furthermore, these affiliations influence allocations in dictator and public-good-type games—they give more to in-group members and less to out-group members, !!
-
-Extrapolated to organizations, these findings suggest that workers will help mem-
-
-bers of their own group—as they perceive their group and its membership. In this
-
-view, a group is a club of people who all agree to help each other. This introduces
+250

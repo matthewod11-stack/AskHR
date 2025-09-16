@@ -1,9 +1,27 @@
-# HBR / Digital Article / To Help Your Team Learn, Set Them Up for Productive Failure
+---
+source_path: H08GLN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4ee855ac503964c43e3a43010d4b9da9e4afa9f
+title: H08GLN-PDF-ENG
+---
+# builds resilience and adaptability.
 
-learning algorithms and cross-sell between diverse product categories
+- 5. Anticipate novice thinking.
 
-— something that a basic rule-based system could not achieve.
+Anticipate the kinds of novice-level solutions that less experienced
 
-- 6. Deliberately suggest sub-optimal or failed strategies.
+employees might propose and construct the task in a way those
 
-The manager might suggest that the team start by recommending only
+solutions will not work. For example, novices might initially suggest
+
+using a simple rule-based system for product recommendations (e.g.,
+
+if the user bought item A, recommend item B). However, the task
+
+could be structured in a way that requires integrating machine
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

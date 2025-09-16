@@ -1,9 +1,9 @@
-## Feldman, J. (1981). Beyond attribution theory: Cognitive
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2290b528f8b713e29b94a252ce5d3aa00accdf9c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Feinberg, R. A., Meoli-Stanton, J., & Gable, M. (1996).
 
-processes in performance appraisal. Journal of Applied Psychology, 66, 127–148.
-
-Fernandez, B. (1997, December 6). SmithKline Beecham resorts to unusual job ads to attract applicants. Knight-Ridder/ Tribune Business News, p. 1206B.
-
-Ferreter, J. M., Goldstein, H. W., Scherbaum, C. A., Yusko, K. P., & Jun, K. (2008, April). Examining adverse impact using a nontraditional cognitive ability assessment. Poster session presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
-
-Fiedler, F. (1967). A theory of leadership eﬀ ectiveness. New York:
+Employment rejection and acceptance letters and their unintended consequences on image, self-concept, and intentions. Journal of Business and Psychology, 11(1), 63–71.

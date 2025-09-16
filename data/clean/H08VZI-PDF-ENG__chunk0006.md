@@ -1,29 +1,19 @@
-# below.
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ea503f871d724f7f53bf5de17672122aa1ee70f
+title: H08VZI-PDF-ENG
+---
+## HBR / Digital Article / The Secret to Building a High-Performing Team
 
-This is just one example of how employees’ failure to take risks (in
+The problem, he discovered, was that people in the organization were
 
-this case, the risk of speaking up) can have outsized consequences for
+not willing to risk giving feedback up the org chart until it was too late—
 
-teams and organizations. In reality, people need to go out on a limb
+once a situation escalated, and they had no choice but to go outside
 
-in order to achieve high performance. Unless they are willing to name an inconvenient truth about a strategy or product, make a diﬃcult decision, or raise their voice about an issue, it’s diﬃcult for companies
+the plant and ask headquarters for help. As in many companies, a
 
-to go beyond what has been done before and to build something
+phenomenon called “CEO disease” prevailed: the higher up leaders go in
 
-diﬀerentiated from competitors’ oﬀerings.
-
-And yet risk-taking goes against the operating model of human beings
-
-—their biology—which defaults to protection, especially when feeling
-
-pressure to perform. Taking any risk triggers a clash between the
-
-requirements of high performance and how our brains try to protect
-
-us. I call this clash the fundamental conﬂict of performance: at the exact
-
-time an organization needs people to take risks to move fast to execute
-
-the strategy, their brains are defaulting to protection.
-
-So, how can companies address this clash and get employees to take
+an organization, the less candid feedback and information they get from

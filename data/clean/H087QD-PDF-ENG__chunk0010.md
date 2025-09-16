@@ -1,9 +1,29 @@
-## HBR / Digital Article / Using Data to Design Your Hybrid Work Policies
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 793d969d4997e2e92a3f2fdc9b42af98da4cbd1d
+title: H087QD-PDF-ENG
+---
+# Our Findings
 
-We found that hybrid employees at EY U.S. who spent 40% to 60% of
+We asked our full-time workforce in the U.S., across all of our lines
 
-their time in person experienced higher well-being, belonging, skills
+of service and at every level of our organization, to tell us about
 
-development, and engagement when compared to fully remote or in-
+key dimensions of their work experience, including engagement, well-
 
-person employees. Here are a few of our most striking ﬁndings:
+being, and perceived opportunities for learning and advancement. We
+
+had over 27,000 responses, which we were able to map to respondents’ diﬀerent ways of working: in person, remote, or hybrid.
+
+Knowing that there likely wouldn’t be a one-size-ﬁts-all solution for all of our teams, particularly given the diﬀerent kinds of work they perform
+
+and clients they serve, we hoped to ﬁnd clues as to the best way to
+
+optimize our teams’ experiences.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

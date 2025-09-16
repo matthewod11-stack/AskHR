@@ -1,21 +1,11 @@
-# Societies
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0c3aa6a6f9af34d58ee3d08e15ec2bbee717bec9
+title: untitled
+---
+# Congresses
 
-The Moscow Psychological Society was established with a membership of medical doctors, philosophers, and physiologists interested in psychological issues.
+The ﬁrst International Congress of Physiological Psychology took place in Paris, eight years after Polish psychologist Julian Ochorowicz ﬁrst proposed holding such a meeting.
 
-1875
-
-1876
-
-1879
-
-1883
-
-1884
-
-1885
-
-1886
-
-1888
-
-1889
+The ﬁrst International Congress on Hypnotism took place in Paris.

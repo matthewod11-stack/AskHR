@@ -1,13 +1,37 @@
-## playlist of favorite songs or a space to share photos of experiences
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 10f0accda913bba732795a15b79804e9cc8e432f
+title: H08H7H-PDF-ENG
+---
+## into the relational potential of your remote business practices:
 
-outside of work.While our research shows that a curated experience
+- 1. Role model ways that show (rather than just tell) nonwork
 
-like this may be less impactful than learning nonwork information in
+related information. For example, you might unblur your own
 
-an unintentional way, members of our author team have published
+video meeting background. This is an easy way to make your
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+employees see that doing so is not only accepted but encouraged.
 
-6
+Through this modeling, you are encouraging employees to unblur
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their backgrounds and let coworkers get a glimpse into their real life
+
+in a less ﬁltered way. For example, an employee who rock climbs
+
+might just leave their rock-climbing gear hanging behind them, rather
+
+than scurrying to put it away and tidy the camera view.
+
+- 2. Create spaces for your employees to vividly share nonwork
+
+related details with each other. This might mean carving out some
+
+time during team meetings to introduce team members to each other in a diﬀerent way. Provide a prompt — what is a favorite song, band,
+
+food, experience — and allow the conversation to ﬂow between your
+
+employees, encourage them to show beloved books or souvenirs.
+
+You can increase the vividness of this sharing by creating a team

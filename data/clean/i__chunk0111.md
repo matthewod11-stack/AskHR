@@ -1,5 +1,11 @@
-# information-gathering process.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: f221e969e3dd073a687e05cc81102c52a0f663a5
+title: i
+---
+## 2.3.4 The adoption model of People Analytics
 
-Nevertheless, data consolidation into one location does not automatically allow it to be ready
+As reviewed in the evolution of PA over the recent years, the growing adoption of HR
 
-for integration into organizational statistical analysis software. There are different dimensions
+information systems has facilitated data storage in a centralized location, simplifying the

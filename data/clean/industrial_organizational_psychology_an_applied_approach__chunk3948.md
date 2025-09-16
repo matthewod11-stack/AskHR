@@ -1,7 +1,15 @@
-# Organizational Commitment Questionnaire
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b89f1913195c5cb5e761091dc8a6b69289a393d8
+title: industrial_organizational_psychology_an_applied_approach
+---
+# every situation.
 
-(OCQ) A 15-item questionnaire that taps three organizational commitment dimensions.
+Organizational analysis The process of determining
 
-Organizational Commitment Scale (OCS) A 9-item survey that taps three aspects of organizational commitment.
+the organizational factors that will either facilitate or inhibit training effectiveness.
 
-Organizational culture The shared values, beliefs, and traditions that exist among individuals in an organization.
+Organizational citizenship behaviors (OCBs) Behaviors that are not part of an employee’s job but which make the organization a better place to work (e.g., helping others, staying late).
+
+Organizational commitment The extent to which an employee identifies with and is involved with an organization.

@@ -1,7 +1,17 @@
-# performance.
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6bd08d3cf4f62d4732c0695d8286db5599f553d
+title: H08B2N-PDF-ENG
+---
+# 20 consecutive workdays.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+We found that when employees reported higher levels of passion in
 
-2
+the morning, their coworkers evaluated their performance higher that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+afternoon — but the more passionate employees were, the more they
+
+rated their own performance even higher than their coworkers did. In
+
+other words, in line with prior research, passion was related to higher

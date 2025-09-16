@@ -1,27 +1,21 @@
-# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d696a0dc3386b815fc0306057fc146ca9f975d79
+title: H07TEC-PDF-ENG
+---
+## Utilizing Balanced Benchmarking in Your Organization
 
-Variable selection is key.
+While the analytics underlying the balanced benchmarking approach
 
-The variables chosen for balanced benchmarking are arguably the most
+are complex, utilizing this approach to assess performance in an
 
-important part of using this approach to assess performance. You’ll
+organization is manageable thanks to the work of researchers in this
 
-need to think deeply about which variables you want the model to
+space. Here are several suggestions to help you get started.
 
-minimize (i.e., the input variables) and maximize (i.e., the output
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-variables). Data on these variables needs to be regularly collected and
+4
 
-readily accessible, and must be tied back to factors that the individual
-
-or team has control over. For example, requiring a marketing team
-
-to minimize operational expenses associated with the production of
-
-the product or service they are selling is outside of their control. It
-
-would be more appropriate to require the marketing team to minimize
-
-discretionary spending (e.g., travel, dining, etc.) associated with their
-
-selling activity.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

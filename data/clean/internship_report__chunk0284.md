@@ -1,7 +1,15 @@
-# Deputy Manager
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: f3f815cc6560dcb817c146ba3bef19974422762f
+title: internship_report
+---
+# Manager
 
-2
+3 2
 
-8
+13
 
-9.
+10
+
+- 8. Assistant Manager

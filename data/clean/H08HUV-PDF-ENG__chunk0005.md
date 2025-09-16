@@ -1,29 +1,13 @@
-## increasingly common. Gallup data ﬁnds that over 72% of U.S. employees
+---
+source_path: H08HUV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 457cb5f572afbcee9aea82f7ec309985ccf71e73
+title: H08HUV-PDF-ENG
+---
+# HBR / Digital Article / When You Have Two Bosses — and They Don’t Talk to Each Othe…
 
-work in a matrixed organization to some extent, giving way to org charts
+each other. He often found himself relaying information between them,
 
-with dual reporting lines. The rise of cross-functional and project-based
+trying to align conﬂicting priorities and navigate diﬀerent directives.
 
-work means workers may also answer to project leaders, regional heads, or client partners in addition to their oﬃcial managers.
-
-Keeping one boss happy is tough enough. Add a second to the
-
-mix and suddenly your job description includes extra, unanticipated
-
-coordination and inﬂuencing. There’s no question that managing up to
-
-multiple bosses isn’t easy. But the very things that make it challenging
-
-— navigating diﬀerent communication styles, negotiating workloads,
-
-building consensus — are exactly the skills that will set you apart in
-
-your career now and in the future if you play it right.
-
-So, what do you do when you’re caught between two leaders who don’t
-
-talk? The answer isn’t cc’ing each of them on every email or throwing
-
-up your hands and saying, “Both of you ﬁgure this out!” Here’s how to
-
-create alignment while also getting the support and clarity you need.
+Situations like Lev’s aren’t just frustrating — they’re becoming

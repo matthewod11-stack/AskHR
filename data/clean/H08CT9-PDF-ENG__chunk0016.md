@@ -1,7 +1,7 @@
-## Emotional energy refers to the collective mood, vibe, and intensity of
-
-emotions within a group. Changes in a group’s emotional energy are
-
-serious and are often a signal of an issue that could require a turning
-
-point. The below chart shows how emotional energy can track against
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2af2d91de17860099354ac3833fd4a3f92155f12
+title: H08CT9-PDF-ENG
+---
+# customer well.

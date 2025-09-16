@@ -1,25 +1,21 @@
-# VII. TECHNIQUES OF EMPLOYEE MOTIVATION
+---
+source_path: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa.md
+pages: n/a-n/a
+chunk_id: e5430d1bb3a31113fc29194cdce477612ca35d3f
+title: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa
+---
+# 2. Intrinsic Motivation
 
-Job enlargement, job enrichment and job rotation are three basic approaches;
+Intrinsic motivation is motivation that comes from within. It comes from the
 
-- 1. Job Enlargement:
+personal enjoyment and educational achievement that we derive from doing that
 
-Job enlargement involves expanding the job of an employee that has them
+particular thing. For example for people who love music, their motivation to practice the
 
-doing more work of a similar nature to what they already do. This may be allowing
+instrument, attend classes etc, is intrinsic motivation. Intrinsic motivation is crucial in
 
-them to complete the whole task instead of just part of it, for example, packaging the
+today's work environment. Research shows that it is a key factor in performance and
 
-products as well as manufacturing them. This process ideally removes the boredom out
+innovation. At a personal level, intrinsic motivation makes your work fulfilling. It's a
 
-of the job by eliminating the repetitiveness out of tasks and allowing them to complete
-
-the whole process, further increasing their responsibility.
-
-- 2. Job Enrichment:
-
-Job enrichment is an attempt to give workers more control over their tasks and
-
-more responsibility for design, execution, and output. The worker assumes some
-
-of the functions previously carried out by his or her immediate supervisor or by other
+major reason for deciding to stay on a job. It helps keep your stress level down.

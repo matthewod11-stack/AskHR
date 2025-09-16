@@ -1,7 +1,17 @@
-# Belmont, CA: Wadsworth.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 9566076aa9a783fa13f0a14e4df8ed4ee38e5126
+title: barrickryan_eds_personality_and_work
+---
+# personality. New York: Wiley.
 
-Gully, S. M., Payne, S. C., Koles, K. L., & Whitman, J. (2002). The impact of error training and individual differences on training outcomes: An attribute-treatment interaction perspective. Journal of Applied Psy- chology, 87, 143–155.
+Fisher, S. L. (1998). The role of goal orientation in a self-regulation framework. Unpublished doctoral dissertation, Michigan State University. Fleeson, W. (2001). Toward a structure- and process-integrated view of personality: Traits as density distributions of states. Journal of Per- sonality and Social Psychology, 80, 1011–1027.
 
-Guthrie, J. T., Wigﬁeld, A., & Von Secker, C. (2000). Effects of integrated instruction on motivation and strategy use in reading. Journal of Ed- ucational Psychology, 92, 331–341.
+Ford, J. K., & Kraiger, K. (1995). The application of cognitive constructs and principles to the instructional systems model of training: Im- plications for needs assessment, design, and transfer. In C. L. Cooper & I. T. Robertson (Eds.), International review of industrial and organizational psychology (Vol. 10, pp. 1–48). New York: Wiley. Ford, J. K., Smith, E. M., Weissbein, D. A., Gully, S. M., & Salas, E. (1998). Relationships of goal orientation, metacognitive activity, and prac- tice strategies with learning outcomes and transfer. Journal of Applied Psychology, 83, 218–233.
 
-Hall, R. H., Dansereau, D. F., & Skaggs, L. P. (1990). The cooperative
+Fosterling, F. (1985). Attributional retraining: A review. Psychological Bul-
+
+letin, 98, 495–512.
+
+Funder, D. C. (2001). Personality. Annual Review of Psychology, 52, 197–221. Goldstein, I. L., & Ford, J. K. (2002). Training in organizations (4th ed.).

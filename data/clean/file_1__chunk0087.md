@@ -1,7 +1,9 @@
-# 2.4.2. Perceptions of gender pay gap
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 4232e268a4ede1b84f9c0bf925b7933bdaabc28b
+title: file_1
+---
+# 20
 
-The gender pay gap exists almost all over the world (e.g., Corporate Gender Gap Report, 2010). Since in most cases female employees are subjected to unequal treatment, they should be more likely to question the disparity of pay than their male colleagues (Graham and Welbourne, 1999). Despite the intuitive logic of this assumption, not many studies have supported it (Nie et al., 2002). In contrast, most empirical research demonstrates that female employees tend to perceive the gender pay gap to a lesser extent than their male counterparts (Keaveny et al., 2007; Kray et al., 2001; Peng et al., 2009).
-
-For example, in order to discover the attitudes of Europeans towards the gender pay gap, the European Commission launched a two phase European-wide communication campaign on the gender pay gap in 20094. Based on the campaign, a study, conducted by the Eurobarometer (2009), found that around half of Europeans consider the gender pay gap as one of the priorities for action in the field of gender equality. Moreover, around 82% of Europeans think that the issue of the gender pay gap should be addressed urgently.
-
-From the above-mentioned examples it is seen that while academic research has shown that female employees tend to perceive the gender pay gap to a lesser extent than their male counterparts (Keaveny et al., 2007; Kray et al., 2001; Nie et al., 2002, Peng et al., 2009), the Eurobarometer (2009) has found the opposite. More theoretical and empirical work is thus needed to shed light on the question of whether and to what extent individuals perceive the gender pay gap to exist, how sensitive they are towards it and which factors can explain their perceptions.
+that people have an inherent need to feel good about themselves, and this is the reason why they are so concerned about self-esteem. According to the theory, self-esteem observes interactions between people and sends signals to the person to keep him/her aware of how socially acceptable his/her behaviour is. The way people perceive gender inequality in society is not likely to have a great impact on self-esteem since it is not considered to be a personal matter, and people cannot directly contribute to its disappearance. However, when people perceive the existence of gender inequality in their own workplaces, they might feel a threat to their social acceptability. In other words, since social acceptance has a profound influence on individuals’ overall opinions of themselves and their overall well being, it is convenient for them to deny the existence of gender inequality in their workplaces in order to protect their self-esteem and minimize the chances of their rejection in the society. All in all, based on the above-mentioned theories, people are suggested to perceive gender inequality in society in general but to see it as ‘something beside the point of the organization’ (Acker, 2006a: 452).

@@ -1,17 +1,21 @@
-# well.
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1afcfdb791dc0143c2b74816dff538b3dd90ac42
+title: H071B9-PDF-ENG
+---
+# and transformation.
 
-I’ve spent over a decade making research on collaboration useable for
+Building trust vs. proving trustworthiness
 
-organizations ranging from scaleups becoming unicorns to incumbents
+Leaders should be aware of a counterintuitive risk of trust: A strong
 
-embracing transformation. Below I will explain how overemphasizing
+emphasis on trust can lead to inertia, as employees might prioritize
 
-trust can hinder collaborative decision making and cause inertia — and
+appearing trustworthy over behavior necessary for good, collaborative
 
-how leaders can strike the right balance between trust and progress.
+decision making. For example, in order to maintain a perception
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+of being competent and trustworthy, an individual might withhold
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+information or share inaccurate information when things aren’t going

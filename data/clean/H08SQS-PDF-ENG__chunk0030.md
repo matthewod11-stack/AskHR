@@ -1,35 +1,15 @@
-# outputs.
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 692c19ebcb8791027ab0c8cd75d9637b63fe82fb
+title: H08SQS-PDF-ENG
+---
+# inquiry, not the ﬁnal word.
 
-- 4. Train and set guidelines for AI use in teams.
+This also applies to our very own study. This study was conducted in a controlled executive‐education setting with a limited sample of managers and may not fully capture the complexity or emotional stakes of real‐world trading environments. We also focused exclusively on a single stock (Nvidia) and a one-month forecasting horizon, so results may diﬀer for other securities or longer‐term predictions. Finally, the ChatGPT model we used lacked access to up-to-the-minute market data
 
-If your organization is rolling out AI advisors or assistants, make it
+and alternative AI tools or more current model versions might yield
 
-known that AI might encourage overconﬁdence. Like Ulysses needed
+diﬀerent eﬀects. Understanding limitations or possible confounders
 
-wax and string to withstand the lure of the Sirens, your organization
-
-needs guidelines on how to handle AI. For example, before getting an
-
-AI-generated forecast, require a round of peer discussion or a review of
-
-worst-case scenarios before consulting with AI. By institutionalizing a
-
-mix of AI and human input, you guard against lopsided inﬂuences.
-
-. . .
-
-AI is changing how decisions are made, but human judgment remains
-
-crucial. Our experiment provides a data-backed glimpse into this
-
-evolving dynamic. Even seasoned executives can be swayed by a
-
-convincing AI argument, and even enthusiastic groups can become
-
-cautious with a bit of discussion. Neither approach is “better” in all
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+(both in our study) and with AI can help you apply a critical lens to

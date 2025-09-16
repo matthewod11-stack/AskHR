@@ -1,17 +1,11 @@
-# speciﬁc about their concerns.
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3727fc2c77ffc4187a2e121a7a051aa02b58e8e
+title: H07VZN-PDF-ENG
+---
+# paralysis.
 
-Consider the world of medical devices. Global companies hold major
+For most of the teams we interact with, we’ve found that the way for
 
-market share in many product classes, including those that focus on
-
-the deterioration of the body. Those devices matter a lot to the Chinese,
-
-whose life expectancy has increased from around 51 to 78 in the past
-
-70 years, opening the door for old-age disease, and whose hundreds of
-
-millions of baby boomers — the largest cohort in history — are rounding
-
-into retirement age. The government has explicitly labeled the sector
-
-a priority, but many executives we speak with are nonetheless feeling
+them to get over China anxiety and the problems it creates is to get

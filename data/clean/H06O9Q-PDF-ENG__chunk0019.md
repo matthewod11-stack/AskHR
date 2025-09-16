@@ -1,29 +1,21 @@
-## by Jeﬀ Bezos and Sir Richard Branson: divide decisions into one-way
+---
+source_path: H06O9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0d144577e872e3806085198739555a74c908357
+title: H06O9Q-PDF-ENG
+---
+# Improve decision output
 
-versus two-way door decisions. Two-way door decisions are those that
+Next, consider how you can improve the execution of your decision to
 
-are relatively easy to undo. Both Bezos and Branson argue that we
+reduce the downside risk if your conclusion proves wrong.
 
-shouldn’t waste a lot of time deliberating and debating such decisions,
+Even with the best data and processes, we all still sometimes arrive at
 
-but rather try them out and then roll them back if needed. Two-way
+what turns out to be a sub-optimal conclusion. In light of the Great
 
-door decisions are great opportunities for learning. In contrast, one- way door decisions are those that are diﬃcult (if not impossible) to
+Resignation, such errors can be particularly costly. Remember, you are your own chief risk oﬃcer, so spend some time thinking about how to
 
-reverse, and therefore worth the time and eﬀort to carefully consider
+reduce your exposure if your decision turns out not to be the best one.
 
-and evaluate all options prior to making the decision ﬁnal.
-
-The ﬁrst question to ask, therefore, is whether the career change you’re
-
-contemplating is a two- or one-way door decision. Maybe you’ve wanted
-
-to start a side business or transition to a new role within your current
-
-organization. If you think the change you’re considering is relatively
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+One way to do this is to apply a decision-making approach favored

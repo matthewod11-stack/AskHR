@@ -1,13 +1,15 @@
-# HBR / Digital Article / Executive Teams Are Losing Stakeholders’ Confidence. Here’s H…
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4060c17dcee863b2a9582e5ca32a1f69ea8854d6
+title: H08PFQ-PDF-ENG
+---
+## worlds/departments/regions. Siloed leadership breeds ineﬃciency and
 
-High-functioning teams break down barriers and align eﬀorts across
+erodes trust across the organization.
 
-functions, fostering unity in times of external discord. When teams
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-operate as one unit rather than loosely aﬃliated ﬁefdoms, they
+6
 
-model the alignment they want others in the organization to follow.
-
-Especially under stress, seamless collaboration signals shared purpose
-
-and coordinated execution—two things people desperately want to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

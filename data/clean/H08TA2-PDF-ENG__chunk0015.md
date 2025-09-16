@@ -1,5 +1,11 @@
-## with direct reports that ultimately undermines psychological safety.
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1cb37e2288b177d680b3272efe198354bbceed7
+title: H08TA2-PDF-ENG
+---
+# erodes collective trust.
 
-One CEO I urged to reduce his 1:1s actually lamented to me, “But how
+CEOs can also be guilty of leveraging their 1:1s to extract information
 
-will I get all of the inside scoops I don’t get anywhere else?”
+about other team members, creating a false sense of “insider intimacy”

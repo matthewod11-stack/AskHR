@@ -1,9 +1,9 @@
-# PART III SUMMARY PERFORMANCE STATEMENT
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 0f83932f531d9dab27918555451e3d94b46dc04e
+title: document_resume
+---
+# PART II PERFORMANCE FACTORS
 
-The Summary Performance Statement is a key pan of the performance appraisal
-
-It should summarize the overall results, the
-
-manner in which results were achieved, any special conditions which existed, and tha tread of performance PART IV STAFF MEMBER'S COMMENTS
-
-In this section, the staff member should be encouraged to make specific comments on any aspect of NS/her performance appraisal,
+Comment on each of the factors which influencea performance in as,igned responsibilities Use specific examples and, as appropriate, emphasize both strengths and areas needing improvement Comments should not focus on personality traits or personal habits but rather n how they translate into observed behaviors in getting the job done If a factor was not applicable during the rating period. leave it blank The performance factors, while not directly rated, are important in understanding how results were achieved and in identifying ways to improve performance in succeeding periods

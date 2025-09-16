@@ -1,7 +1,13 @@
-# nudge things in the right direction.
+---
+source_path: H08VM4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c50ee2f110419b76d85e63ce933cfb1e248f02f
+title: H08VM4-PDF-ENG
+---
+# Making Bad Meetings Better
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+We all have those recurring meetings that feel ineﬃcient, unproductive,
 
-6
+or aimless. How can you make them better when you’re not the one
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+running them? Here’s how to get involved before, during, and after to

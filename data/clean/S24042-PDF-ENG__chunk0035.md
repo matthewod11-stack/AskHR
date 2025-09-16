@@ -1,19 +1,27 @@
-# conﬁdent in his leadership.
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d593ab178b0df88967bd240cb6f7b65aa6fcf2af
+title: S24042-PDF-ENG
+---
+# private settings).
 
-Communicate clearly and relentlessly. Communication is critical to
+You’ll need to engage investors too. At a public company a good place to
 
-building conﬁdence in your leadership across stakeholder groups.
+start is during quarterly earnings calls. One new CEO learned the hard
 
-What’s the best way to handle it eﬀectively? Repetition, repetition,
+way that emphasizing only positive outcomes and bullish scenarios
 
-repetition. No matter whom you’re addressing or in what setting, you’ll
+tends to backﬁre—and when that happens, it harms credibility. He
 
-need to tell people what you’re going to tell them, tell them, and then
+reconsidered his approach and began conducting earnings calls in
 
-tell them what you told them. You’ll get tired of this process, but
+which he oﬀered a balanced discussion of what was going right and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+what could go wrong, and at the end of the calls he would spend time
 
-10
+with analysts to gather their views on the company. Because he now
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+came across as a thoughtful steward of the company, he found that
+
+investors changed their perception of him and became increasingly

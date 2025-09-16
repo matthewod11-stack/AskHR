@@ -1,5 +1,29 @@
-## relationship with the teammate and work with someone else. Workers
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b57d8be598feee2998ed57bfb7bf27e47b6a9ac
+title: H08DAJ-PDF-ENG
+---
+## HBR / Digital Article / Research: How to Delegate Decision-Making Strategically
 
-who had been delegated to, compared with those who were asked for
+candidates through an online chat. One candidate asked participants
 
-advice, were signiﬁcantly more likely to end their relationship with the
+for advice and the other delegated a choice to them. Participants were
+
+signiﬁcantly more likely to hire the advice seeker, rather than the
+
+delegating candidate.
+
+We found the same pattern in another experiment involving 173 online
+
+workers. The participants were instructed that they would be working
+
+on a team and were connected with a teammate in a chat. In the chat,
+
+half of the teammates asked the worker to make a decision and the other
+
+half asked the worker for advice on the same decision. After ﬁelding this
+
+request – to either make or provide advice on a decision – workers had
+
+the option to continue working with the same teammate or to end their

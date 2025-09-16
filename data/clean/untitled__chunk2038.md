@@ -1,5 +1,15 @@
-# THE GUIDANCE MOVEMENTS
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f3700e0de3c8d2273f6ce394cb7331eac8a1da20
+title: untitled
+---
+# 358 Counseling Psychology
 
-In Boston, the Civic Service House opened in 1901. Funded by Pauline Agassis Shaw, a philanthropist with a strong com- mitment to children, the Civic Service House served the edu- cational needs of immigrant adults. One goal of the Civic Service House was to provide a semblance of a college edu- cation to the working poor of the neighborhood (Brewer, 1942; A. F. Davis & McCree, 1969). Helping in this effort was a frequent guest of the Civic Service House, Boston at- torney Frank Parsons. Well educated and socially minded, he
+members of a family. Children from poor families were espe- cially vulnerable, frequently leaving school before the age of 12 to do menial labor. Within the culture of child saving, these conditions created a strong rallying cry that resulted in greater protections for some of society’s most at-risk people (Davidson & Benjamin, 1987).
 
-was an advocate for the rights and needs of those he believed were exploited by industrial monopolies.
+What many wanted most was a chance for children to re- ceive an adequate education, one that would last beyond the primary grades. Children’s leaving school to drift aimlessly was seen as a tremendous waste of human potential and an inefﬁcient use of human resources. The concern over leaving school was embedded within the larger context of the place of public education in American society, a debate that gave rise to a variety of visions for the future of the nation and its youth. Many saw the school system as failing the students it was charged with serving. They called for public education to complement the world outside of the classroom and provide tools for success in the new American urban industrial cen- ters. For immigrant children, the system struggled to provide thoughtful alternatives; for Native American, Hispanic, and African American children, the system was and would re- main limited, segregated, and largely indifferent.
+
+Avarietyofalternativeswereoffered.BookerT.Washington called for national programs of industrial education forAfrican American children, psychologist Helen Thompson Woolley conducted scientiﬁc studies of school leaving, and philan- thropic reformers like Jane Addams established settlement homes (Baker, in press).
+
+In Boston, Chicago, New York, and Philadelphia, settle- ment homes were a common feature of the progressive land- scape at the start of the twentieth century (Carson, 1990). Wanting to respond to the plight of poor inner-city families, socially minded students, professors, clergy, and artists would take up residence in working-class neighborhoods, be- coming part of and an inﬂuence on the social, educational, political, artistic, and economic life of the community. In this setting, the vocational guidance movement in America began in earnest.

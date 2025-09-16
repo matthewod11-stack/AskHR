@@ -1,3 +1,7 @@
-# References
-
-Spinoza, B. (1876). The ethics of Benedict de Spinoza: Demon- strated after the method of geometers. New York: Van Nostrand. (Original work published 1677)
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8833e1ffa1c0766a07ae77a7a5b6a9dea9b4c5e1
+title: untitled
+---
+# Appleton-Century-Crofts.

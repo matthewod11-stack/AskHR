@@ -1,41 +1,37 @@
-## HBR / Digital Article / When Blind Hiring Advances DEI — and When It Doesn’t
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b425dafbc1eb85c6e30cf9e403aff8d8b9c91ba
+title: H07NT2-PDF-ENG
+---
+# groups.
 
-such as through pipeline programs at HBCUs. This strategy pairing
+Question 3: Are complementary de-biasing strategies being used at other stops along the hiring pipeline?
 
-addresses the fact that discrimination reduction in interview-selection
+Say you have a job where, in the past, members of disadvantaged
 
-decisions may not boost the diversity of interviewee pools if few
+groups have been under-selected for interviews, and group membership
 
-members of disadvantaged groups apply in the ﬁrst place. Blind hiring
+doesn’t predict applicants’ likelihood of having the “right” credentials.
 
-policies should also be paired with de-biasing strategies at the interview
+This job would clear the hurdles in questions one and two and could
 
-stage, since interviews are generally conducted in an unblind fashion.
+seem like a good match for a blind hiring approach. Even in this
 
-Indeed, in some of the studies described above, blind hiring boosted
+situation, however, a blind hiring approach on its own might not lead
 
-interview selection rates for members of disadvantaged groups but did not ultimately increase their likelihood of getting job oﬀers after
+to more diversity in the ultimate pool of hires. Blind hiring can only
 
-interviews. One especially promising strategy to reduce discrimination
+be fully leveraged at the initial screening stage if paired with other
 
-at the interview stage involves the use of structured interviewing, which
+de-biasing strategies operating before and after initial screens.
 
-keeps interviewers focused on job-related questions only and reduces
+One complementary strategy that should be paired with a blind hiring
 
-the impact of homophily — our natural preference for people who are
+approach is targeted recruitment of members of disadvantaged groups,
 
-like us — on interview assessments.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-By asking themselves these three questions, decision-makers can
+6
 
-determine whether a blind hiring approach to the initial screening process will help or hinder their eﬀorts related to diversity in hiring
-
-overall. And even for those organizations that do not clear these
-
-hurdles, a blind hiring approach can still be leveraged if modiﬁed
-
-carefully. For instance, an organization might still wish to use a blind
-
-hiring strategy even though the job being hired for is one where being
-
-from an advantaged group predicts having the “target” credentials,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

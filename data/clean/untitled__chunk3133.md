@@ -1,7 +1,9 @@
-# Psychologists, 492–495
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c77c76ad84616d22ee25e13d717a6ad7e9d1030f
+title: untitled
+---
+# Ethnic minorities:
 
-civil rights movement, 379–380, 487 community psychology and race relations, 432–433 confrontations and change, 486–488 doctoral programs in psychology, 493 hispanic ethnicity in psychology: Cuban-American perspective,
-
-497–499
-
-history of ethnic minority psychological publishing, 495–496 humanizing of psychology, 483–486 minority psychologists in the community, 488–490
+activism in APA, 500 Asian Americans in psychology (organization efforts by), 490–492 challenge of change: formation of the Association of Black

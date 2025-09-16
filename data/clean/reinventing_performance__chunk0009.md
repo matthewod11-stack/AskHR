@@ -1,21 +1,25 @@
-## THE BIG IDEA REINVENTING PERFORMANCE MANAGEMENT
+---
+source_path: reinventing_performance.md
+pages: n/a-n/a
+chunk_id: 63a7f567ee44b9a1c45ff7bc6bff7fc0d8c24468
+title: reinventing_performance
+---
+# HBR.ORG
 
-performance accounted for only 21% of the variance. This led the researchers to conclude (in How People Evaluate Others in Organizations, edited by Manuel London): “Although it is implicitly as- sumed that the ratings measure the performance of the ratee, most of what is being measured by the ratings is the unique rating tendencies of the rater. Thus ratings reveal more about the rater than they do about the ratee.” This gave us pause. We wanted to understand per- formance at the individual level, and we knew that the person in the best posi- tion to judge it was the immediate team leader. But how could we capture a team leader’s view of performance without running afoul of what the researchers termed “idiosyncratic rater effects”?
+Idea in Brief THE PROBLEM Not just employees but their managers and even HR departments are by now questioning the conventional wisdom of performance management, including its common reliance on cascading objectives, backward-looking assessments, once-a-year rankings and reviews, and 360-degree-feedback tools.
 
-In eﬀect, we are asking our team leaders what they would do with each team member rather than what they think of that individual.
+THE GOAL Some companies have ditched the rankings and even annual reviews, but they haven’t found better solutions. Deloitte resolved to design a system that would fairly recognize varying performance, have a clear view into performance anytime, and boost performance in the future.
 
-Putting Ourselves Under the Microscope We also learned that the defining characteristic of the very best teams at Deloitte is that they are strengths oriented. Their members feel that they are called upon to do their best work every day. This discovery was not based on intuitive judgment or gleaned from anecdotes and hearsay; rather, it was derived from an empirical study of our own high-performing teams.
+THE SOLUTION Deloitte’s new approach separates compensation decisions from day-to-day performance management, produces better insight through quarterly or per-project “performance snapshots,” and relies on weekly check-ins with managers to keep performance on course.
 
-Our study built on previous research. Starting in the late 1990s, Gallup performed a multiyear ex- amination of high-performing teams that eventually involved more than 1.4 million employees, 50,000 teams, and 192 organizations. Gallup asked both
+fair. We realize, however, that it’s no longer the best design for Deloitte’s emerging needs: Once-a-year goals are too “batched” for a real-time world, and conversations about year-end ratings are generally less valuable than conversations conducted in the moment about actual performance.
 
-44  Harvard Business Review April 2015
+But the need for change didn’t crystallize until we decided to count things. Specifically, we tallied the number of hours the organization was spending on performance management—and found that com- pleting the forms, holding the meetings, and creat- ing the ratings consumed close to 2 million hours a year. As we studied how those hours were spent, we realized that many of them were eaten up by leaders’ discussions behind closed doors about the outcomes of the process. We wondered if we could somehow shift our investment of time from talking to our- selves about ratings to talking to our people about their performance and careers—from a focus on the past to a focus on the future.
 
-high- and lower-performing teams questions on nu- merous subjects, from mission and purpose to pay and career opportunities, and isolated the questions on which the high-performing teams strongly agreed and the rest did not. It found at the beginning of the study that almost all the variation between high- and lower-performing teams was explained by a very small group of items. The most powerful one proved to be “At work, I have the opportunity to do what I do best every day.” Business units whose employ- ees chose “strongly agree” for this item were 44% more likely to earn high customer satisfaction scores, 50% more likely to have low employee turnover, and 38% more likely to be productive.
+We tallied the number of hours the organization was spending on performance management and found that creating the ratings consumed close to 2 million hours a year.
 
-We set out to see whether those results held at Deloitte. First we identified 60 high-performing teams, which involved 1,287 employees and repre- sented all parts of the organization. For the control group, we chose a representative sample of 1,954 employees. To measure the conditions within a team, we employed a six-item survey. When the results were in and tallied, three items correlated best with high performance for a team: “My coworkers are committed to doing quality work,” “The mission of our company inspires me,” and “I have the chance to use my strengths every day.” Of these, the third was the most powerful across the organization.
+The Science of Ratings Our next discovery was that assessing someone’s skills produces inconsistent data. Objective as I may try to be in evaluating you on, say, strategic think- ing, it turns out that how much strategic thinking I do, or how valuable I think strategic thinking is, or how tough a rater I am significantly affects my as- sessment of your strategic thinking.
 
-All this evidence helped bring into focus the prob- lem we were trying to solve with our new design. We wanted to spend more time helping our people use their strengths—in teams characterized by great clar- ity of purpose and expectations—and we wanted a quick way to collect reliable and differentiated performance data. With this in mind, we set to work.
+How significantly? The most comprehensive research on what ratings actually measure was conducted by Michael Mount, Steven Scullen, and Maynard Goff and published in the Journal of Applied Psychology in 2000. Their study—in which 4,492 managers were rated on certain per- formance dimensions by two bosses, two peers, and two subordinates—revealed that 62% of the variance in the ratings could be accounted for by individual raters’ peculiarities of perception. Actual
 
-Radical Redesign We began by stating as clearly as we could what performance management is actually for, at least as far as Deloitte is concerned. We articulated three objectives for our new system. The first was clear: It would allow us to recognize performance, particu- larly through variable compensation. Most current systems do this.
-
-But to recognize each person’s performance, we had to be able to see it clearly. That became our second objective. Here we faced two issues—the id- iosyncratic rater effect and the need to streamline our traditional process of evaluation, project rating, consensus meeting, and final rating. The solution to the former requires a subtle shift in our approach. Rather than asking more people for their opinion
+April 2015 Harvard Business Review 43

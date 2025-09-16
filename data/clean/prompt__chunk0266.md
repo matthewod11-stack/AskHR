@@ -1,13 +1,17 @@
-# ReAct (reason & act)
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 4d1a75736b5b430887efd090c81ee40d54d3c534
+title: prompt
+---
+# Prompt Engineering
 
-Reason and act (ReAct) [10]13 prompting is a paradigm for enabling LLMs to solve complex
+This approach makes ToT pa(cid:457)icularly well-suited for complex tasks that require exploration. It works by maintaining a tree of thoughts, where each thought represents a coherent language
 
-tasks using natural language reasoning combined with external tools (search, code
+sequence that serves as an intermediate step toward solving a problem. The model can then
 
-interpreter etc.) allowing the LLM to pe(cid:455)orm ce(cid:457)ain actions, such as interacting with external
+explore di(cid:441)erent reasoning paths by branching out from di(cid:441)erent nodes in the tree.
 
-APIs to retrieve information which is a (cid:450)rst step towards agent modeling.
+There’s a great notebook, which goes into a bit more detail showing The Tree of Thought
 
-ReAct mimics how humans operate in the real world, as we reason verbally and can
-
-take actions to gain information. ReAct pe(cid:455)orms well against other prompt engineering
+(ToT) which is based on the paper ‘Large Language Model Guided Tree-of-Thought’.9

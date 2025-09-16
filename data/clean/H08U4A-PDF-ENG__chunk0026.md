@@ -1,33 +1,25 @@
-## HBR / Digital Article / Why Kindness Isn’t a Nice to Have
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dbe69a35e1b932f68874ec2b3b081e8f3467c511
+title: H08U4A-PDF-ENG
+---
+# just a nice-to-have trait.
 
-- 2. Establish clear expectations.
+SAP, known for its inclusive workplace practices and neurodiverse
 
-To embed kindness in an organization, it must be as clearly deﬁned and
+hiring, runs the Autism at Work program to teach managers how
 
-reinforced as safety, quality, and professionalism are.
+to support psychological safety and kindness in action. They receive
 
-One organization that does this is the All Blacks, New Zealand’s national
+training to develop skills to manage conﬂict, communicate in a clear
 
-rugby team. It enforces a strong behavioral standard that team members
+and kind fashion, and promote inclusive team behavior. This program
 
-exhibit humility, show respect for others, and act responsibly in team
+has been linked to gains in productivity, engagement, and retention.
 
-matters. It leaves no room for unchecked ego. It is reﬂected in selection
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-decisions and teamwork on and oﬀ the ﬁeld. Senior players are expected
+7
 
-to take charge of cleaning the locker rooms after games. Players are
-
-expected to call each other out for behavior that doesn’t reﬂect the
-
-norm. And no matter how talented they are, if someone’s behavior
-
-erodes the team cohesion and culture, he is out.
-
-Another example of creating speciﬁc expectations for kindness is the
-
-Cleveland Clinic’s Communicate with H.E.A.R.T. training program for
-
-all its healthcare workers. Its mnemonics such as “S.T.A.R.T. with
-
-Heart” provides employees with an easy way to remember how to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

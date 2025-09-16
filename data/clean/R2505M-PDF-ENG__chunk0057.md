@@ -1,15 +1,15 @@
-## architects, engineers, developers, and owners about the possibilities of a
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d80b222ea036be72d7ecb6a4670f6ef1b7b75558
+title: R2505M-PDF-ENG
+---
+## HBR / Magazine Article / Why You Need Systems Thinking Now
 
-circular built environment; developing new standards that permitted
+In working with CSA, we suggested that rather than try to brainstorm
 
-reuse of materials; and ﬁnding ways to unlock small amounts of
+its way to a set of new, better standards that supported its North Star
 
-funding for new pilot projects. We also recommended that CSA engage
+of creating a circular built environment, the organization should focus
 
-a “coalition of the willing”—activists that had already bought into
-
-the idea of a circular built environment. It should launch a few pilot
-
-projects, and with each successful eﬀort, it could bring in more people
-
-and more projects, with each step helping the community move closer
+on an ecology of small actions that covered three areas: educating

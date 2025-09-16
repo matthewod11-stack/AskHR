@@ -1,17 +1,21 @@
-# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d000a8dbf33a317b8b1f9db2b40de482b9545aa
+title: H06SBB-PDF-ENG
+---
+# all operating through.
 
-These are kind of design approaches to asking that question, and
+So some of the things that we’ve been doing is really learning about
 
-how do we become a more inclusive environment, how do we bring
+the methods and mindsets of being inclusive and really looking at what
 
-equity into that environment? And it requires a lot of listening, a lot of
+foundational systems we need to recreate in order to build more clarity,
 
-curiosity, also a lot of learning, a lot of iterating, and also don’t be shy of
+to build more equal opportunity across our system.
 
-bringing in experts who have the experience and view to help guide us
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-through that process. Because these are difficult conversations to have
+13
 
-and it really helps to have that facilitated, so that you can get to a deeper
-
-root of what people’s experiences are and the ways that we can come
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

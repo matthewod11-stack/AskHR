@@ -1,31 +1,15 @@
-# collaboration.
+---
+source_path: H08NU2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ad3b84292e12652bf2d88cd5da863c688f0cd90
+title: H08NU2-PDF-ENG
+---
+# HBR / Digital Article / 3 Types of Silos That Stifle Collaboration—and How to Dismantle…
 
-Fostering secure data sharing.
+rotation programs can further expose R&D personnel to real-world
 
-At ProtectParts Inc., managers’ fear of a plant closure drives the
+manufacturing challenges, fostering appreciation for process design
 
-withholding of information and crucial data. Simply improving
+complexities. These eﬀorts encourage mutual respect and knowledge
 
-communication or aligning goals won’t resolve the underlying fear of
-
-job loss. To break this silo, creating a secure environment for data
-
-sharing is essential. Employees must feel safe knowing transparency
-
-won’t lead to negative consequences but will support collective success.
-
-Clear communication from top management about the facility’s role in
-
-the company’s future can ease concerns. Encouraging a culture where
-
-identifying issues is rewarded, not punished, and involving the facility
-
-in collaborative projects demonstrating the beneﬁts of data-sharing can
-
-further build trust. By fostering openness and security, ProtectParts Inc.
-
-can ensure smoother operations across all locations.
-
-. . .
-
-Much like in medicine, where accurate diagnosis informs the
+exchange, dismantling elitist silos and unlocking cross-departmental

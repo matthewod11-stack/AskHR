@@ -1,5 +1,7 @@
-# TettRP,BurnettDD.2003.Apersonalitytrait-basedinteractionistmodelofjobperformance.J.Appl.Psychol.
-
-88:500–17
-
-Thomas CH, Lankau MJ. 2009. Preventing burnout: the effects of LMX and mentoring on socialization, role
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 10eda331f880678d382c3e8dc799d9f48214183f
+title: arop1noe_245_275
+---
+# Kozlowski & Salas 2010, pp. 303–32

@@ -1,13 +1,15 @@
-# processes.
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 133da06f4558a2025bdb4f52b03eb96ba017a027
+title: S25012-PDF-ENG
+---
+## HBR / Spotlight / The Secret to Successful AI-Driven Process Redesign
 
-In another recent experiment, researchers at Stanford demonstrated
+made decisions based on their memory and past experiences, without
 
-that human-agent collaboration is a far more promising approach to
+real human intervention. The ability to rely on memory and to reﬂect
 
-automating complex workﬂows than robotic process automation (RPA),
+on experiences and interactions like this is what enables agents to learn
 
-the most widely used technology. RPA is essentially a bot, hard-coded
-
-to perform a set of actions according to predeﬁned rules. Lacking
-
-generalized reasoning and planning abilities, bots are easily tripped up
+from one another and create ecosystems that continuously improve

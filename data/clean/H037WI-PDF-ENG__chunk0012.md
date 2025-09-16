@@ -1,7 +1,7 @@
-# ventures.
-
-Copyright © 2016 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af249d54fffd7ee5c299664093a305f9787f9ca2
+title: H037WI-PDF-ENG
+---
+## among immigrants than among natives, especially in growth-oriented

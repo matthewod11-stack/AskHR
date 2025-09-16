@@ -1,7 +1,9 @@
-## from the new 2024 Women in the Workplace 10th anniversary report
+---
+source_path: H08GMA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: becfbe1e612125390e394dcf836d7f4fa9cc80f4
+title: H08GMA-PDF-ENG
+---
+# men.
 
-by LeanIn.org and McKinsey & Company. The report, which we co-
-
-authored, provides a 10-year lookback at the state of women in
-
-corporate America. It draws on data from more than 1,000 companies
+This slow — even stagnant — pace of change is a key ﬁnding

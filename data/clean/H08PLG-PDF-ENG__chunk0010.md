@@ -1,13 +1,19 @@
-# models.
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 679ac518f7285387f435c7deafd7ae8de54fb516
+title: H08PLG-PDF-ENG
+---
+# goals responsibly.
 
-With multiple divides contributing to artiﬁcial inequality, businesses
+- Institutions: Companies don’t need to do this work alone. They
 
-may have limited abilities to address the whole problem. But by
+should look for third-party organizations that can act as partners, and
 
-considering each divide individually, they may see speciﬁc places where
+external practices and frameworks that can help them learn and adapt.
 
-they have more power to intervene.
+- Markets: While most companies can’t create or shift markets, they
 
-Let’s look at each in turn.
+can read signals about user demand. Knowing what to look for in
 
-[ 1 ]
+this emerging paradigm can help ﬁnd the right solutions and business

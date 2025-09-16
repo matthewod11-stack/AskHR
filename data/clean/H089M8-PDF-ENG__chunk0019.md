@@ -1,31 +1,25 @@
-# after the events.
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f90b5be1447cf4b339df8e052b957afebcb6c61a
+title: H089M8-PDF-ENG
+---
+# HBR / Digital Article / Why Cofounder Partnerships Fail — and How to Make Them Last
 
-We found that some lead founders focused almost solely on the business
+- 2. Don’t neglect the interpersonal aspect in initial conversations.
 
-idea and the needed skillsets during their conversations. Others,
+In one of our studies, we analyzed business partnerships being formed
 
-instead, focused primarily on interpersonal factors (i.e., getting to know
+in real time. From 2016 to 2017, we collected data at networking events
 
-the person, discussing mutual interests, etc.), and devoted only a small
+held at an incubator at a prestigious university in the Midwest. The
 
-amount of time during the initial conversations to discuss the business idea and/or needed skillsets. We found stark diﬀerences between these
+purpose of the networking events was to form business partnerships,
 
-two groups in terms of business partnerships actually being formed.
+and attendees included both lead founders and potential cofounders.
 
-It may seem counterintuitive that a focus on interpersonal topics
+Prior to the networking events, participants wore audio recording
 
-rather than business speciﬁcs is more persuasive, but our data provides
+devices, allowing us to capture the content of their conversations. We
 
-compelling evidence that this is the case. Those who focused primarily
-
-on interpersonal factors during the initial conversations were 70% more
-
-likely to ﬁnd and stick with a business partner.
-
-This does not mean that lead founders can never discuss skillsets;
-
-many of the successful conversations in our sample did include a
-
-discussion of skillsets, but those that were successful also established an
-
-interpersonal connection by, for instance, discussing shared interests,
+also collected data on which individuals actually formed partnerships

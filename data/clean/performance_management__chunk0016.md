@@ -1,3 +1,11 @@
-# Subordinates
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: df1986b7f81323fdd5d82160115ecd174beb080f
+title: performance_management
+---
+# The Boss
 
-Anonymous feedback from subordinates, often called upward feedback, can lead to positive changes in the behavior of super- visors. Leaders who receive feedback from subordinates that is more negative than their self-evaluation show the greatest level of subsequent improvement. These positive behavior changes have been shown to be sustainable over time. This is especially true for managers who have high self-efﬁcacy, namely, ‘‘I can change.’’ that Upward appraisals are used in such compa- nies as Pratt and Whitney and AT&T.
+The boss often has a limited opportunity to observe his or her subordinates. Thus, a boss appraisal usually does not provide a complete picture of an employee’s perfor- mance. Consequently, supervisory apprai- sals frequently fail to improve a person’s performance and may lead to employee hos- tility. Such questions as: ‘‘On what basis are
+
+you able to evaluate me?’’ undermine the credibility of the boss. The employee views the appraisal as unfair. The boss should be held accountable primarily for collecting data for appraising an individual from multi- ple sources, and then making the ﬁnal administrative and developmental decisions based on these multiple sources of informa- tion.

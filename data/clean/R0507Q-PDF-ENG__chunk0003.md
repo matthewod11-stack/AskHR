@@ -1,9 +1,13 @@
-## ﬁnancial accounting measures like return on investment and earnings
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 66fd54b3e07f45a8caf170a3eb5b1ea838b3b461
+title: R0507Q-PDF-ENG
+---
+# Jennifer A. Smith/Getty Images
 
-per share can give misleading signals for continuous improvement
+What you measure is what you get. Senior executives understand that
 
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+their organization’s measurement system strongly aﬀects the behavior
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of managers and employees. Executives also understand that traditional

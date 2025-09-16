@@ -1,9 +1,15 @@
-## HBR / Digital Article / Great Leaders Make People Feel Noticed
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 595e574ac69dab37d5e5708f12e9fc4ec8faabee
+title: H08R20-PDF-ENG
+---
+## data mirrors 2023 ﬁndings from the human capital management ﬁrm
 
-It’s hard for people to care if they don’t ﬁrst feel cared for. Feeling seen is
+Workhuman, showing that 30% feel “invisible” and 27% feel “ignored.”
 
-essential to fulﬁlling our fundamental need to matter—a prerequisite
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-for motivation, well-being, and lasting engagement. Noticing is the
+2
 
-deliberate act of paying attention to the details, ebbs, and ﬂows of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

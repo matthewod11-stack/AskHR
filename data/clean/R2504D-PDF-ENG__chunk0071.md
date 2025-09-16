@@ -1,13 +1,15 @@
-# Be Opportunistic
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7cfe955d612ae591b7465010b3f8a9e35d7b871f
+title: R2504D-PDF-ENG
+---
+## the Great Resignation of 2022, when turnover among tech companies
 
-The most profound negotiation breakthroughs often happen because of
+rose dramatically, and its employee satisfaction scores remained high even during controversial decisions. And the measures Benioﬀ
 
-something unexpected—a surprise emotional encounter, unanticipated
+established continue to help the company address new challenges as
 
-common ground, or a crisis that reveals a shared problem. Skilled
+they emerge, becoming a model for managing workplace polarization.
 
-mediators learn to watch for emotional turning points, informal
-
-channels, surprising areas of alignment, and other subtle opportunities
-
-that can transform conﬂicts.
+[ 7 ]

@@ -1,3 +1,7 @@
-# EB
-
-Erica R. Bailey is an Assistant Professor in the Management of Organizations group at the Haas School of Business, University of California, Berkeley. Her research primarily focuses on authenticity and the self, asking questions like, how do we deﬁne who we are? When do we experience that sense of self in everyday life? What barriers prevent us from sharing that self fully with others?
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7206cb2d18826f34eaf645d5ab47b561f19749ee
+title: H08B2N-PDF-ENG
+---
+## HBR / Digital Article / Research: How Passion Can Backfire at Work

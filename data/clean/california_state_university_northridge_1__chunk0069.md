@@ -1,19 +1,21 @@
-# action within the workplace.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: ea79eaa1533b4ea39fa95e342ab73445ad4df32f
+title: california_state_university_northridge_1
+---
+# tax reasons.
 
-Another important area Goldberg wrote on was age discrimination, which has been
+In recent litigation, it was detennined that courts and the Equal Employment
 
-fueled by corporate downsizing.
+Opportunity Commission, prior to 1980 did not recognize sexual harassment as a form of
 
-In an effort to reduce possible litigation, companies are
+gender discrimination under Tittle VII. Conversely, it is noted since the view have changed,
 
-offering elaborate servance packages and waiver stating, the employee will not sue.
+this is now the fflstest area of employment litigation. Goldberg point to high profile cases
 
-Goldberg cautions the public to watch the courts, because they will probably rule in favor of
+example, the confirmation hearing of Clarence Thomas, for U.S. Supreme Court Justice. It is
 
-an employee who sues after opting a waiver not to sue and or accepts a generous servance
+important to note that time of the alleged harassment, Clarence Thomas was the chairman of
 
-14
-
-package. Essentially, each of the five that were written on are critical in a workplace and
-
-current and future court cases will have an impact on employer responsibilities and employee
+the Equal Employment Opportunity Commission, an agency established to eliminate such

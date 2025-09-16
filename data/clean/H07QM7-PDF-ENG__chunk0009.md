@@ -1,15 +1,27 @@
-# ideas to clients eﬀectively.
+---
+source_path: H07QM7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfdb47b40b0e46292b41f9c4315d554efe3a186d
+title: H07QM7-PDF-ENG
+---
+## Steps to Take When You Don’t Trust Your Employee
 
-Research shows that trust can be broken down into three components:
+Two-way trust is paramount to a healthy and productive leader-
 
-- Competency
+employee relationship. If you ﬁnd yourself in the uncomfortable
 
-- Consistency
+situation of distrusting a team member, here are ﬁve steps to help you
 
-- Character
+address the issue and move forward.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+- 1. Pinpoint the source of your distrust.
 
-2
+We often hear (and make!) comments like “I don’t trust them” or “They
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+aren’t trustworthy.” We talk about trust in all-or-nothing terms, but trust
+
+is not some global entity — trust is situation speciﬁc. Rarely will you
+
+distrust everything about someone. For example, you may trust your
+
+team member’s technical expertise but not their ability to present their

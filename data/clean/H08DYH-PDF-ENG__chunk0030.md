@@ -1,11 +1,25 @@
-# more resilient and future-ready.
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e694323160f26dd8a7f2b1f7c120260466475c6e
+title: H08DYH-PDF-ENG
+---
+# The Future of Work Is Playful
 
-So, let’s pick up a playful mindset. The future of work depends on it.
+The cost of not integrating play into the workplace is a return to
 
-This article was originally published online on September 16, 2024.
+business as usual, which is no longer viable in a post-pandemic world.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+With 44% of employees surveyed by SHRM in 2024 saying they’re
 
-6
+burned out at work, maintaining a traditional work environment can
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+be detrimental to both morale and retention. We are now in an era of
+
+business as unusual, where fostering creativity through play, comfort,
+
+and psychological safety is not just beneﬁcial but essential for ongoing
+
+innovation and success. Prioritizing these elements helps to reduce
+
+stress and enhance employee well-being, making your organization

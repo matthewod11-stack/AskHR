@@ -1,5 +1,11 @@
-# 29 | P a g e
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: ebc6252da809d02e04e9aabc1174e0402a5eeeb0
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 2.6.2.2. Employee Satisfaction (eSAT)
 
-culture, relationship with management, or job itself. These usually use scale questions
+Employee satisfaction (eSAT) measures the level of happiness of employee in their
 
-for rating eSAT using an interval between 1 to 5 or “least likely” to “most likely”.
+work or in their company. This metric will generally track factors such as company

@@ -1,3 +1,21 @@
-# HBR / Digital Article / Contract Negotiations Should Be Collaborative, Not Adversarial
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 967252caa30e35c8e74707a20ba2d7971a1a2894
+title: H08IVM-PDF-ENG
+---
+# A Call for Change
 
-sources of disagreement during contract execution are practical issues
+The evidence is clear: traditional approaches to contract negotiation,
+
+heavily focused on risk mitigation, are increasingly misaligned
+
+with business needs. Our study shows that while companies spend
+
+considerable time haggling over legal protections, the most common
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

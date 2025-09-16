@@ -1,27 +1,11 @@
-# Exploration: Find Your Start-Ups
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22d612c27c21099010c1d519772f05e71f7321ae
+title: R2405E-PDF-ENG
+---
+## the European ﬁrms Atlas Copco, Enel, and Epiroc. Their innovation
 
-Innovators often work for decades to tackle grand challenges and turn
+process, we have found, involves three essential phases: exploration,
 
-visions of the future into reality. Many of those eﬀorts will end in
-
-failure; only one or two will go on to change the world. Start-ups
-
-are hardwired for this journey. They have the freedom and, when
-
-supported by venture capital, the resources to pursue their ambitions
-
-single-mindedly. As long as the prospective upside is worth the risk,
-
-they willingly embrace their chances of failure.
-
-Unfortunately, this model doesn’t work for the management and
-
-stakeholders of established companies, which are designed to provide
-
-existing goods and services reliably and to adapt to customer
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+commitment, and scaling up. Let’s look at each one in turn.

@@ -1,23 +1,21 @@
-# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 247b3d2212c6ee95ed2f1cb5511d590544172d58
+title: H07WED-PDF-ENG
+---
+# John’s Dilemma
 
-organizational goals. While John excelled in his PMO role, he had
+John, another accomplished professional, had risen through the ranks
 
-ambitions of one day becoming the CEO.
+to become the director of a project management oﬃce (PMO) in a
 
-However, as he sought opportunities for advancement, John
+large multinational corporation. His role involved overseeing project
 
-encountered a dilemma: The path from PMO director to CEO was not
+portfolios, optimizing processes, and ensuring project alignment with
 
-well deﬁned, and his career progression seemed to stall at the level of
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-PMO leadership. Despite his managerial skills and strategic thinking,
+2
 
-John struggled to convince stakeholders that he possessed the qualities
-
-required to lead the entire organization.
-
-These real-life stories are poignant examples of the challenges project
-
-management professionals face when aiming for the CEO position.
-
-Before looking at the reasons for this stagnation, let’s look at the typical
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,7 @@
-## que haya aclarado el valor único del empleado, su siguiente paso
-
-es reforzarlo activando a los principales stakeholder y alineándose
-
-con sus prioridades personales. No se trata sólo de métricas, sino de
-
-comprender lo que realmente les importa a los responsables de la toma
-
-de decisiones y a las personas inﬂuyentes clave.
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2a7a3a0c690acb12130c059fb3fcb912a3db0fb
+title: H08U08-PDF-ENG
+---
+## Incluso el caso empresarial más sólido necesita defensores. Una vez

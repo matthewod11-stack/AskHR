@@ -1,11 +1,15 @@
-# Why Firms Should Encourage Family Leave
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b869f5d6813d15ced2a05aeb7c74a1dd462c2825
+title: R2205G-PDF-ENG
+---
+# WORK/LIFE BALANCE
 
-Since 1993 U.S. federal law has required companies with 50 or more employees to give eligible workers 12 weeks of unpaid leave to care for a newborn or an ailing family member or deal with a medical problem of their own. But not all employers obey the law. Today one in 14 doesn’t oﬀer the required 12 weeks to new mothers, and nearly one in four doesn’t oﬀer them to new fathers. Moreover, companies with leave policies often don’t advertise them and sometimes discourage new parents from taking leaves or ask them to return to work as soon as possible.
+As the pandemic has waned, some employers have added more ﬂexible-work options, but if they continue to send the message that people who use those options will pay a price, we may see a return to the bad old days.
 
-Flextime boosts diversity. Our data clearly shows that
+Flextime boosts performance. Companies worry about the costs of implementing ﬂextime. But not those that have done the math. Among them is the Gap, which in 2015 ran an experiment to ﬁgure out how much it would cost to make employees’ schedules more predictable and ﬂexible. To help with predictability the chain ended on-call shifts and began providing work schedules two weeks in advance; to increase ﬂexibility it oﬀered electronic shift-swapping. The company asked managers to schedule consistent start and ﬁnish times whenever possible, add hours for part-timers who wanted them, and increase peak-hours staﬃng.
 
-ﬂexible hours improve the recruitment and retention of women and people of color. Looking at ﬁrms before and over the seven years after they put in ﬂextime programs,
+The results were eye-opening. After nine months workers reported that they were better able to deal with work/life challenges. Supervisors found the changes to be manageable and said that they had improved associates’ morale and productivity. Best of all, instead of costing the chain money, the changes increased sales by 7% and labor productivity by 5%.
 
-Why the resistance? Employers often fear that leaves will disrupt operations. But in ﬁrms that discourage them, parents often quit unexpectedly after the birth of a child.
-
-How Work/Life Beneﬁts Affect Organizational Diversity Programs that support work/life balance produce signiﬁcant changes in the percentage of management jobs held by women and people of color. (No bar indicates no statistical certainty of a program’s effect.)
+we can see that the impact is striking, even after taking into account other changes in the ﬁrms, the labor market, and the economy: The representation of white women and nonwhite workers in management increases. (We examined eﬀects on the eight groups large enough to run statistical models on.) Not surprisingly, as the share of women and people of color goes up, the share of white men goes down. (See the exhibit “How Work/Life Beneﬁts Aﬀect Organizational Diversity.”)

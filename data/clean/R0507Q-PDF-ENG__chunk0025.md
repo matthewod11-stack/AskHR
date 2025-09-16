@@ -1,23 +1,23 @@
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a8fe9dd7a6b35ed195619577b17bc8308fa17f2
+title: R0507Q-PDF-ENG
+---
 ## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
 
-get data from outside. To assess whether the company was achieving
+See more HBR charts in Data & Visuals on HBR.org.
 
-its goal of providing reliable, responsive supply, ECI turned to its
+To track the speciﬁc goal of providing a continuous stream of attractive
 
-customers. When it found that each customer deﬁned “reliable,
+solutions, ECI measured the percentage of sales from new products and
 
-responsive supply” diﬀerently, ECI created a database of the factors as
+the percentage of sales from proprietary products. That information was
 
-deﬁned by each of its major customers. The shift to external measures
+available internally, but certain other measures forced the company to
 
-of performance with customers led ECI to redeﬁne “on time” so it
+Copyright © 2005 Harvard Business School Publishing. All rights reserved.
 
-matched customers’ expectations. Some customers deﬁned “on time”
+8
 
-as any shipment that arrived within ﬁve days of scheduled delivery;
-
-others used a nine-day window. ECI itself had been using a seven-day
-
-window, which meant that it wasn’t satisfying some of its customers and
-
-overachieving for others. ECI also asked its top 10 customers to rank the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

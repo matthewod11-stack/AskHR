@@ -1,7 +1,39 @@
-## paradox of modern work: that technology simultaneously connects
+---
+source_path: H08LX3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73125590639e92b1a6fa9c7550bc58027169bdfb
+title: H08LX3-PDF-ENG
+---
+# HBR / Digital Article / How Emerging Technologies Can Foster Human Connections at …
 
-and isolates us. By dismantling traditional barriers to participation, we
+continents, collaborating through blockchain-based voting systems to
 
-don’t just enable wider access; we rewrite the very DNA of workplace
+make decisions about everything from treasury management to product
 
-relationships. This approach forces us to confront uncomfortable
+development. Traditional companies also are experimenting with DAO-
+
+like structures — for instance, Braintrust, a talent network platform,
+
+uses a hybrid model where core operations are distributed across global
+
+contributors who collectively own and govern the platform.
+
+Full distribution democratizes opportunity. When a company is fully
+
+distributed, it can tap into a global talent pool, unbounded by
+
+geography or the need for relocation. GitLab, for example, has embraced
+
+a fully distributed model and has team members in more than 65
+
+countries. In fully distributed work models, we see the ultimate
+
+realization of digital work’s promise: to free us from the constraints of
+
+time and place so that the focus becomes purely on what we produce
+
+and how we collaborate. Indeed, in a fully distributed environment,
+
+work is something you do, not a place you go.
+
+When we democratize opportunity, we challenge a fundamental

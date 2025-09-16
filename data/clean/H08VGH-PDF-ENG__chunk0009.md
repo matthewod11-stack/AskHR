@@ -1,7 +1,11 @@
-## right foundations like speed, agility, ball control, positional sense, and
+---
+source_path: H08VGH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68e52fe610e642e205d4a61d5fcddb3cb587324b
+title: H08VGH-PDF-ENG
+---
+# abilities over time.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Think of the NBA draft. Teams don’t always pick the top college scorers.
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Instead, they look for players with high potential—those with the

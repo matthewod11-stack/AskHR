@@ -1,11 +1,43 @@
-## sessions available to 7,000 of its managers around the world via
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d7be80a049bd7251ce707398c1a17dac4a08676
+title: H07OHG-PDF-ENG
+---
+# HBR / Digital Article / 5 Ways Companies Are Addressing Skills Gaps in Their Workforc…
 
-BetterUp. “Prior to BetterUp, we utilized an assortment of internal
+assess what each employee needs from their coach, match them with
 
-coaching resources and multiple external coaching vendors,” explained Rhonda Morris, Chevron’s chief human resources oﬃcer. “BetterUp’s
+a coach who has the right experience and expertise, and even conduct
 
-virtual coaching model … has matured our coaching culture making it
+coaching sessions via a digital platform.
 
-more accessible for all who want it. Coaches no longer have to travel to
+The space is growing. According to the International Coaching
 
-meet our employees. Our employees have been very vocal about their
+Federation, there were 71,000 practicing coaches in 2021, up 33% from
+
+- 2016. Investors expect growth to continue: The leading digital coaching
+
+startup, BetterUp, raised $300m in 2021 at a $5bn valuation as part of a
+
+wave of investment into coaching startups.
+
+Much of this growth is powered by large companies oﬀering coaching
+
+services more broadly to their employees. Danone, the France-based
+
+food products company, has been working with one provider,
+
+CoachHub, to oﬀer this beneﬁt to 250 employees. According to
+
+Maxime Hollande, who leads diversity and inclusion for Danone in the
+
+Netherlands, “these coaching sessions have been of big added value for
+
+employees… One of the metrics we watch closely is the extent to which
+
+each employee has progressed toward the personal goals each of them
+
+deﬁne with their coach. The average score on this metric is 4.9 out of 5.”
+
+Chevron, the American global energy company, has made coaching

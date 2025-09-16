@@ -1,1 +1,19 @@
 .env
+.venv/
+__pycache__/
+logs/
+
+# OS junk
+.DS_Store
+
+# Python artifacts
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Project data
+data/raw/

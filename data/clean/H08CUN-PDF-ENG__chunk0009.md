@@ -1,11 +1,7 @@
-# What the Experts Say
-
-Employee discontent is on the rise: more workers today are thinking
-
-about quitting their jobs than during the Great Resignation in 2022,
-
-according to a June PwC report. And since the current job market is
-
-not as favorable as it was then, particularly for knowledge workers,
-
-many people feel “frustrated and trapped,” according to Anthony
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1773393d79fee21caa1b5f2aae196348126b67b0
+title: H08CUN-PDF-ENG
+---
+## HBR / Digital Article / When Resentment Is Building on Your Team

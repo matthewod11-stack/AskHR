@@ -1,17 +1,9 @@
-## Indeed, one of the most astonishing characteristics of the contemporary
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2928fe7a79985e1643bcc13c84cde9fdeb6b1a52
+title: R2403F-PDF-ENG
+---
+## from compliance with new administrative practices to safety training.
 
-workplace is how little career advancement there is. Research suggests
-
-that only 10% to 20% of job vacancies are ﬁlled by current employees.
-
-And like the McKinsey study we mentioned earlier, a Pew Foundation
-
-survey found lack of advancement to be a substantial cause of turnover:
-
-Sixty-three percent of people who’d left their jobs in 2021 cited it as
-
-a reason for quitting. Lateral moves are even rarer than upward ones:
-
-Only 1% of U.S. employees move laterally to diﬀerent businesses and
-
-operations in a given year, according to data from the Society for
+The dearth of training translates into fewer opportunities to move up.

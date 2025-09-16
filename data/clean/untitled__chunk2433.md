@@ -1,13 +1,17 @@
-## From Community Mental Health to Community Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c33713ea2fba047395a6a7a29d7c632b9acfd347
+title: untitled
+---
+# into law.
 
-The community mental health movement, which began in earnest after the end of World War II, was evolving at the
+- 20,000 faculty and students attended a teach-in, organized by the Vietnam Day committee on the University of California–Berkeley campus.
 
-same time as the civil-rights movement, the second wave of the women’s movement, and protests against the Vietnam War. The visibility of these political movements increased the overall interest of citizens to be actively involved in their communities and to become more informed about the policies and social norms for justice. In addition to the long- standing tradition of organizing in nonwhite and poor communities, a history of grassroots community organizing was gaining momentum in white and educated communities. As these movements increased their visibility and impact, more and more people became active in their local communi- ties and in discussing or debating these national events. The American consciousness was being raised about the impor- tance of community.
+- The ﬁrst draft card was publicly burned at a New York
 
-In the context of the tumultuous events at the community, societal, and political arenas throughout the 1950s and 1960s, the mental health professions began to recognize the value of an expanded perspective on the causes of and solutions to mental health problems. The legitimacy of prevention of mental health problems was presented in Action for Mental Health (1961), a report published by the Joint Commission on Mental Illness and Health, which was established in 1955. Also in 1955, the NIMH convened a conference at Stanford University (the “Stanford Conference”), which advocated for more community and preventive services in contrast to indi- vidual psychotherapy. Illustratively, at this conference, Erich Lindemann, a Harvard psychoanalyst, presented his commu- nity approach to the delivery of mental health services in Wellesley, Massachusetts (Strother, 1956, 1987).
+protest organized by the War Resister’s League.
 
-By the early 1960s, NIMH, the primary source of funds for the community mental health movement, was increasing its efforts to develop a national agenda for community- oriented mental health services. This agenda was developed under the leadership of Robert Felix, the director of NIMH and a public-health-trained psychiatrist who had planned the initiative since the NIMH was created in 1949. In 1963, fed- eral legislation was passed (Public Law 88-164) that enabled communities to apply for funds to construct community men- tal health centers, and in 1965, Congress amended the legis- lation to provide grants for stafﬁng these centers. NIMH staff members were particularly interested in seeing that the core mental health professions—psychiatry, psychology, social work, and nursing—received training to ensure the quality of these future community mental health services. During this time, the community mental health movement also served as the impetus for attention to mental disabilities as a national issue and helped to provide states with funding to assist fam- ilies and family members living with mental disorders.
+- Malcolm X was assassinated (Glennon, 1995; Morgan,
 
-Throughout the 1960s, community-oriented psycholo- gists expressed discontent within the profession of clinical
-
-psychology (Korchin, 1976; Maher, 1988); psychotherapy was viewed as too narrow a professional role by an increas- ing number of community-oriented clinical psychologists. The Chicago Conference on the Professional Preparation of Clinical Psychologists (August 27 to September 1, 1965) af- ﬁrmed the research role for the clinical psychologist, encour- aged more training in child-clinical psychology, and noted community psychology as one of the “new developments in clinical psychology” (Hoch, Ross, & Winder, 1966). The discontent with clinical psychology was a major contributing issue that broadened the professional boundaries of clinical psychology to consider community approaches to mental health. Public Law 88-164 was the capstone for the commu- nity mental health movement (Levine, 1981; Wagenﬁeld, Lemkau, & Justice, 1982). The law authorized federal match- ing funds of $150 million over a three-year period for use by states in constructing comprehensive community mental health centers. These events created the primary context that led to the convening of the Swampscott Conference in 1965, which was aimed at increasing training opportunities for psy- chologists to do community mental health work.
+1991).

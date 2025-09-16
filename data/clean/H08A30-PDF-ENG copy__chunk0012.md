@@ -1,7 +1,7 @@
-# statements:
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08A30-PDF-ENG copy.md
+pages: n/a-n/a
+chunk_id: f157c4da69089f1d694c741c15ebc3f65c56fcaa
+title: H08A30-PDF-ENG copy
+---
+## the same job advertisement but with the inclusion of diﬀerent DEI

@@ -1,21 +1,13 @@
-# The total quality management (TQM)
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 3fe644f2c936d10833c79e6502471b6ae4d8c4d8
+title: journal_of_european_industrial_training
+---
+# poor'' environments.
 
-movement, with its emphasis on quality and customer satisfaction, acted as a driving force in the development of 3608 feedback (Grote, 1996; Edwards and Ewen, 1996). TQM places particular emphasis on quality/ customer service surveys. In striving for quality excellence, 3608 feedback acts as a very useful and powerful source of information because, with this method, customers and suppliers can provide feedback on various quality dimensions within the organisation. Grote (1996) maintains that the TQM movement has served as a strong force in promoting the notion that those closest to the work are in the best position to evaluate performance. Similarly, those closest to the job are in the best position to suggest ways for improvement. TQM, therefore, was instrumental to the development of 3608 feedback processes.
+Multi-source appraisal, therefore, offers a solution to some of the problems highlighted by CCL's research and thus it can be argued that the growth and development of 3608 feedback was significantly enhanced by CCL's findings on feedback and learning in the workplace. A number of other factors acted as catalysts in the evolution of multi-source appraisal and these are discussed in turn below.
 
-Another contributing factor is performance
+The first of these factors is the employee
 
-appraisal itself. Tornow and London (1998) argue that the traditional supervisor rating
-
-[7]
-
-) T P (
-
-5 1 0 2
-
-h c r a
-
-M 8 0
-
-1 0 : 5 1 t
-
-A K R O C E G E L L O C Y T I S R E V N U y b
+attitude survey (Edwards and Ewen, 1996; Tornow and London, 1998). These surveys typically set out to explore employee satisfaction with the organisation on several different dimensions including policies, procedures, work environment, pay and benefits. Edwards and Ewen (1996) suggest that, in the 1970s and 1980s, surveys focused more on satisfaction with immediate leadership. In essence, the multi-source appraisal process is closely related to the tenets of the employee satisfaction survey. Edwards and Ewen suggest that the natural next step beyond departmental surveys was either upward feedback or multi-source feedback and hence the evolution and development of 3608 feedback systems by organisations.

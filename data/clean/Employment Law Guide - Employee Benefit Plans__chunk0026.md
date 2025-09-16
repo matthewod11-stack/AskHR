@@ -1,5 +1,13 @@
-# beneﬁts, or other similar beneﬁts.
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: 00ea0f90f71dfc2b96c4294e6ed953badbcdfec1
+title: Employment Law Guide - Employee Benefit Plans
+---
+## jointly by one or more such employers and an employee organization.
 
-In general, ERISA does not cover plans established or maintained by government entities or churches for their
+Retirement plans, a type of employee beneﬁt plan, are established or maintained to provide retirement income
 
-employees, or plans which are maintained solely to comply with workers' compensation, unemployment, or disability laws. ERISA also does not cover plans maintained outside the United States primarily for the beneﬁt
+or to defer income until termination of covered employment or beyond. Other employee beneﬁt plans, called welfare plans, are established or maintained to provide health beneﬁts, disability beneﬁts, death beneﬁts,
+
+prepaid legal services, vacation beneﬁts, day care centers, scholarship funds, apprenticeship and training

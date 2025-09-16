@@ -1,3 +1,11 @@
-## sonality psychology. Orlando, FL: Academic Press.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f59303ff7dc7ed77207c7d0e70d9314ba6dce159
+title: barrickryan_eds_personality_and_work
+---
+# related values. Thousand Oaks, CA: Sage.
 
-Holland, J. (1985). Making vocational choices: A theory of vocational person- alities and work environments. Upper Saddle River, NJ: Prentice Hall.
+Hofstede, G., Arrindell, W. A., Best, D. L., De Mooij, M., Hoppe, M. H., et al. (1998). Masculinity and femininity: The taboo dimension of national cultures. Thousand Oaks, CA: Sage.
+
+Hogan, R. T., Hogan, J., & Roberts, B. W. (1996). Personality measure- ment and employment decisions. American Psychologist, 51, 469–477. Hogan, R. T., Johnson, J., & Briggs, S. (Eds.). (1997). The handbook of per-

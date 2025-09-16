@@ -1,9 +1,9 @@
-# your due diligence?
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b73c905376fcac1e970ae05efadacb9b3aa61c54
+title: H07YQQ-PDF-ENG
+---
+# access these resources?
 
-- What direction might you be disregarding because it seems arduous or
-
-complicated?
-
-After you’ve answered these questions, your job is to assess if you’re
-
-ready to proceed with your agenda or if you need to address gaps in your
+- What information have you accepted/discounted without having done

@@ -1,15 +1,37 @@
-# VI. Responsibility of HOD
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: eb006ae2f28640e6098eee4258114e120a9b7bdf
+title: internship_report
+---
+# any emergency.
 
-HOD while putting his signature in leave application must mention who will be responsible for
+II. Absence without prior sanction of leave will be treated as an unauthorized absence. Individual
 
-individual‟s pending task while on leave (for example: since Mr. Rajon will be on leave from 01
+can avail his/her leave after getting clearance by HRD. All absentees without prior approval shall
 
-Sep. 2012 to 04 Sep. 2012, therefore during these leave period Mr. Anis will be responsible for
+be marked as absent in the HRMIS Software and will be shown as absent until their leave
 
-Mr. Rajon‟s pending task or will perform his task/job responsibility). Without nomination of
+applications are duly approved by the appropriate authority. Leave for absente may or may not
 
-responsible person, HR and Admin department will not accept the “Leave Application.”
+be approved by the competent authority, depending on merit of individual case.
 
-HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:50)(cid:54)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
+III. All applications for regularization of absence must be submitted within 2 working days on
 
-(cid:32) (cid:32) (cid:32) (cid:32)
+the date of joining in the office without any excuse whatsoever. After two days if the application
+
+is not submitted, the absence will be treated as LWP automatically by the HRMIS software.
+
+IV. If a staff is unable to come for any special reason, he/she should immediately inform about
+
+his/her unexpected absence to his/her HOD. This should be done, either by telephone or other
+
+means, explaining why he/she is absent and when he/she hopes to return. If this tendency is
+
+repeated more than 3 times HOD/In Charge will reflect it in his/her PAR. Without information
+
+and specific reason, availed leave will be treated as LWP depends on HOD/In Charge decision.
+
+V. Any staff member if found not complying with the laid-down procedure for three times in any
+
+calendar year may be terminated from service.

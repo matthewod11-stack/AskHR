@@ -1,11 +1,11 @@
-# identity.
+---
+source_path: H082RI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b96943894ac53b8da07dbd685bc3d0c424a13aaa
+title: H082RI-PDF-ENG
+---
+# HBR / Digital Article / What Demographics Forms Say About Inclusivity at Your Compa…
 
-Second, decision makers might consider whether certain demographics
+format. In this way, respondents who view themselves as holding two
 
-questions require a discrete set of response options in the ﬁrst place:
-
-Identity omission is avoided if respondents are simply asked to
-
-manually ﬁll in their identities, such as their gender or race. Of course,
-
-organizations need to be able to turn response options in demographics
+or more racial or ethnic identities will feel liberty to indicate their full

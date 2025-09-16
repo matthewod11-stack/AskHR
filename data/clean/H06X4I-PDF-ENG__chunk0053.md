@@ -1,7 +1,13 @@
-# scarce.
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87eeec725a08e86b4a13dff357e0eacb2ad9bdf7
+title: H06X4I-PDF-ENG
+---
+## compete with local Indian ﬁrms for the best Indian talent, but instead
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+with anyone willing to pay for digital work. As a result, we expect
 
-10
+that open talent will help democratize access to opportunities, and will
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+potentially raise living standards in places where local opportunities are

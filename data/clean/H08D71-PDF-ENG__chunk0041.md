@@ -1,17 +1,17 @@
-## a $4.87 billion new energy vehicle production facility in Changchun
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bbaa41c0059a484f87a8bfb5bfbcb0640560be7
+title: H08D71-PDF-ENG
+---
+# world in 2023.
 
-China. In April of 2024, BMW invested $2.76 billion to update its
+German car manufacturers are on a similar journey in China. Mercedes
 
-Shenyang plant to produce its Neue Klasse series of EVs starting in 2026.
+and other German automakers that once transferred combustion engine
 
-In response to Mercedes’ billions of dollars of EV investment into China,
+know-how to Chinese partners are now learning from Chinese EV
 
-Ola Kaellenius, chair of the management board, told Reuters: “You have
+makers, reversing the teacher-student relationship. In October 2023,
 
-to be here and you have to be part of that innovation cycle.”
-
-- 4. Its 1.4 Billion Consumers
-
-Despite all the talk about companies “de-risking” and “decoupling” from China, the country still oﬀers a market of unmatched scale with
-
-sophisticated consumers that push companies to continually improve.
+Audi and Chinese automaker FAW announced a joint project to build

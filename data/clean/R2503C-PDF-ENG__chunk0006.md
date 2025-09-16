@@ -1,21 +1,17 @@
-# making.
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6324210d49fb801ed20438228f84f917313b797a
+title: R2503C-PDF-ENG
+---
+## HBR / Magazine Article / Lean Strategy Making
 
-It’s time to redesign the strategy process to achieve better results.
+Performance fell short because there was nothing concrete for the
 
-There’s no reason that strategic decision-making can’t become standard
+organization to execute.
 
-work, just as critical manufacturing processes are. By adopting a
+If a manufacturing process had a 25% defect rate, exceeded targeted
 
-rigorous approach to it, companies can reduce waste, move faster, make
+cycle times more than 45% of the time, and experienced a yield loss of
 
-smarter choices, and gain a competitive edge.
-
-Several leading companies that we have worked with and studied oﬀer a blueprint for standardization that others can follow. Their
-
-lean approach to strategy typically has three components: (1) setting
-
-strategic priorities, (2) tackling them in an ongoing fashion, and (3)
-
-monitoring the results. In this article we’ll go into detail about what
-
-each component involves and describe how successful companies
+more than 30%, it would be deemed unacceptable. Yet many companies tolerate those levels of ineﬃciency and ineﬀectiveness in their strategy

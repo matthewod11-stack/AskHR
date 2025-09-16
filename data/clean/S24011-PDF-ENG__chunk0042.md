@@ -1,27 +1,25 @@
-## with administrators about their motivations and with clinicians and
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbb490201e2328cf3f3816ec9a6a14431cdac2a2
+title: S24011-PDF-ENG
+---
+# them.
 
-staﬀ about the complications they were experiencing, he discovered
+Consider how Adrian, a physician, resolved a disruptive situation
 
-that top hospital systems had implemented similar huddles and found
+that occurred at his hospital when the administration suddenly
 
-they greatly improved communication and workﬂow and created a
+mandated a daily morning huddle for clinicians and staﬀ without
 
-sense of community. He then convened a meeting of the clinicians
+consulting them. The clinicians and staﬀ were deeply upset because
 
-and staﬀ. He set the tone by expressing appreciation (thereby creating
+the huddle was held during patient appointment hours, and they felt
 
-love energy) for the tremendous sacriﬁces people were making. He then
+it would negatively aﬀect patient care. As a member of the operations
 
-drew on purpose by appealing to the values and purpose of those present
+committee, Adrian decided to intervene. He asked the administration
 
-by reminding them of their collective commitment to providing the best
+to put the program on hold for a week. He began with an action that
 
-patient care. Next he took two more actions that lead to wisdom: He
-
-created the right frame by helping people switch from an “us versus
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+activates wisdom: understand before you act. By holding conversations

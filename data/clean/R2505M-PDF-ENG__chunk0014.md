@@ -1,17 +1,21 @@
-## Uber didn’t work with local authorities and taxi companies when it
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 817a7bf852017c406c470740cf790d2b75e62555
+title: R2505M-PDF-ENG
+---
+## Perhaps the most popular approach to business innovation
 
-launched its services in new cities—it just did it. The mindset of these
+is breakthrough thinking. It’s the 10x, winner-takes-all model
 
-and other Silicon Valley companies is to move forward and worry about
+characterized by Mark Zuckerberg’s mantra to “move fast and break
 
-the consequences later. Like Alexander the Great, they make progress
+things.” Here the innovator, typically an entrepreneur armed with a new
 
-by slicing through the Gordian knot of a complex problem, rather than
+piece of technology, ignores existing relationships, norms, and even
 
-attempting to unpick it.
+laws to create a better product.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+For example, when Google set out to improve its search engine, it
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+didn’t ask permission to make use of people’s personal information.

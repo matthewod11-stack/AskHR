@@ -1,17 +1,19 @@
-# EMERGING TRENDS AND NEEDS 299
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: cf708d5b6393028c1f965318f0a06b00bd281775
+title: barrickryan_eds_personality_and_work
+---
+## Compound Personality (Predictor) Variables
 
-- Frei and McDaniel (1998) in their meta-analysis of customer service scales
+Compound variables, deﬁned by Hough and Schneider (1996) as a combination of basic personality traits that do not necessarily co- vary, have rapidly become a new frontier of personality research. There are a number of examples of insights gained about impor- tant work-related outcomes and the role of compound variables in those outcomes:
 
-- Ones and Viswesvaran (2001) in their study of criterion-focused occupational scales
+- Fox and Spector (1999) in their study of work frustration and aggression
 
-- Ones, Hough, and Viswesvaran (1998) in their meta-analysis of managerial potential scales
+- Penner and his colleagues (Penner & Finkelstein, 1998; Pen- ner, Fritzsche, Craiger, & Freifeld, 1995; Penner, Midili, & Kegglemeyer, 1997) in their study of prosocial personality • Bateman, Crant, Seibert, and Kraimer (Bateman & Crant, 1993; Crant, 1995; Seibert, Crant, & Kraimer, 1999; Seibert, Kraimer, & Crant, 2001) in their study of the proactive person- ality variable
 
-- R. Schneider and his colleagues (R. Schneider, Ackerman, & Kanfer, 1996; R. Schneider, Roberts, & Heggestad, 2002) in their study of social competence
+- Judge and his colleagues (Erez & Judge, 2001; Judge & Bono, 2001a, 2001b; Judge, Locke, Durham, & Kluger, 1998) in their study of core self-evaluations
 
-- Sternberg and his colleagues (Kihlstrom & Cantor, 2000; Sternberg, 1985) in their study of social intelligence
+- Leach (2002) in his study of soldiers who evade capture by the enemy
 
-- Goleman (1995, 1998) and Salovey and Mayer and their col- leagues (Salovey & Mayer, 1990; Mayer & Salovey, 1993, 1997; Mayer, Salovey, & Caruso, 2000) in the area of emotional intelligence
-
-One of the risks of the proliferation of compound variables is the return to the chaotic situation of the dark ages in which we lacked an understanding of the taxonomic structure of personal- ity variables and, hence, the relationships among personality vari- ables. We do not want to return to the “good old daze” (Hough, 1997, p. 233). We can avoid such chaos if we do our homework re- searching the nomological nets of our compound variables to un- derstand their relationships to more basic personality variables. For example, do the compound variables proactive personality and core self-evaluation consist of the same basic personality variables? Similarly, do the compound variables social competence, social in- telligence, and emotional intelligence consist of the same basic per- sonality variables? The research examining the nomological net of integrity tests and customer service scales is instructive. These two compound variables consist of the same Big Five factors but in dif- ferent concentrations (Ones & Viswesvaran, 1996, 1998).
-
-More research on the nomological nets of compound variables is needed. We need to form compound variables with an under- standing of their construct validity—their nomological nets—so that we can form new compound variables to predict behavior in work settings that represent unique conﬁgurations of work re- quirements and situations (Hough, 2001; Hough & Furnham, 2003). Hough and Ones (2001) provide a structure for categoriz- ing, examining, and understanding compound variables using the
+- Ones, Viswesvaran, and Schmidt (1993) in their meta-analysis of integrity scales

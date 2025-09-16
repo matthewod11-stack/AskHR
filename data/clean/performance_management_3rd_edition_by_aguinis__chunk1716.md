@@ -1,3 +1,7 @@
-# Reward Systems and Legal Issues
-
-You have to get rewarded in the soul and the wallet. The money isn’t enough, but a plaque isn’t enough either . . . you have to give both.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 18d353f21be066daa958fd247bccc57eeb39822f
+title: performance_management_3rd_edition_by_aguinis
+---
+# Chapter 10

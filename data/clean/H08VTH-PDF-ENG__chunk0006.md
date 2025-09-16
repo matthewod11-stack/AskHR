@@ -1,9 +1,17 @@
-## weekly 1:1s, constant availability, and involvement in every decision.
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a93441cc16e648fd83dbd84b918fe2ad23dffdc6
+title: H08VTH-PDF-ENG
+---
+## keynote speaker and Jenny as an executive advisor and learning and
 
-However, what works for a lean team won’t work for a larger, more
+development expert). We’ve identiﬁed ﬁve time-tested strategies that
 
-complex one. Trying to lead the same way just accelerates burnout.
+can help leaders rise to the occasion and lead at scale.
 
-Instead, reset expectations, and do it in partnership with your team.
+- 1. Reset How You Work—Together
 
-Clarify what you’ll continue to deliver as their leader (e.g., priorities,
+When your team size multiplies overnight but your resources don’t,
+
+something has to give. Too often, leaders cling to familiar routines:

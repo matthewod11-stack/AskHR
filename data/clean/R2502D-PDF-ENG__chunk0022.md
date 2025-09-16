@@ -1,9 +1,15 @@
-# women.
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebb80ed6278f5237073815ea84b668db25977e5e
+title: R2502D-PDF-ENG
+---
+## outside the business world—for example, the way the Colombian
 
-Playing with a handful of precedents at a
+metropolis Medellín reinvigorated its tourism industry after years
 
-time, Global Foods’ leaders produced ideas
+of being called “the murder capital of the world,” and how Pope
 
-that led to a corporate transformation they
+Francis changed perceptions of the Catholic Church when it was being
 
-called “volume to value.” It included
+stigmatized for its role in child abuse, gay rights, and the treatment of

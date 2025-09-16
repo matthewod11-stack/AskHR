@@ -1,17 +1,19 @@
-## choices over the past year, especially the new oﬃce space, even though
+---
+source_path: R2304M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e6baf03a099f06f7d0e6393c96bf909611e473e
+title: R2304M-PDF-ENG
+---
+# for a second round of downsizing.
 
-it’s used less than we’d like. But we don’t know how long it will take
+“Thanks for the email,” Tyler said, kicking oﬀ the meeting. “I agree that
 
-for the markets to stabilize, and personnel costs are still more than 70%
+we need to bring our monthly operating expenses down even further. I
 
-of your monthly expenses, so you have few other options. You have to eliminate some perks and—I hate to say it—reduce head count again.” 2
+intend to do that. But I’m worried about morale. I’d like to ﬁnd another
 
-Louis was a persuasive presence on the board, and Tyler had embraced
+way to cut costs.”
 
-his perspective in the past. But Tyler was also proud of Puck’s fun,
+“I get it—I’ve been in your shoes,” Louis replied. “Your team has done
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a great job of scaling up. I’ve been happy with most of your spending

@@ -1,25 +1,17 @@
-## HBR / Magazine Article / Precedents Thinking
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4cacea0147309d82bd182aede53621564bcd2f6
+title: R2502D-PDF-ENG
+---
+## infrastructure and network across independent restaurants and small
 
-delivered in a timely fashion. Their research on the relevant precedents
+bakeries; (3) how to seamlessly place and deliver orders; (4) how to keep
 
-—Domino’s, FedEx, and Uber—led them to the next step.
+delivery costs as low as possible; and (5) how to ensure that orders were
 
-Combine. In this step an innovator takes pieces of past innovations
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that are pertinent to one or more elements of the overall problem
+4
 
-and combines them to comprehensively solve it. The DoorDash team
-
-borrowed from the well-developed Domino’s mobile ordering system,
-
-which enables customers to conveniently place orders and track their
-
-progress. It copied Uber’s model of a driver network that could ﬂex
-
-with changing demand. And it adopted FedEx’s route-optimization
-
-algorithms for minimizing delivery costs and accurately predicting and
-
-quoting delivery times to customers. That led the team to its big idea:
-
-a shared delivery infrastructure for restaurants that pooled drivers to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

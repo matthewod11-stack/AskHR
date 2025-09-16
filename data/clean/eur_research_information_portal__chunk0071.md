@@ -1,3 +1,15 @@
-## The Multi-Level Practice of Inclusive Leadership
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: 824efb15e884977aaca4a61494ed05c1b36b52d4
+title: eur_research_information_portal
+---
+# Editorial
 
-We have argued that inclusive leadership involves a multi-level process that requires careful attention to the alignment of espoused and enacted inclusive leadership both within and across those levels (Nishii et al. 2018; Mor Barak et al. pp. 840–871; Simons et al. 2021). In Table 1, we offer concrete examples
+inclusive leadership strategies in response to the momentary requirements that vary across situations.
+
+Developing as an inclusive leader thus ﬁrst involves acquiring knowledge and awareness of oneself, others’social identities, and strategies for managing diversity dynamics. However, this is less about rote informational leaning and more about conscious sensemaking, deep reﬂection, and transformational learning (Petriglieri et al., 2011). The learning process must be accompanied by leaders’ reﬂective exploration of their own experiences of self in relation to others, underlying assumptions, and narratives, with an openness to revising them in response to what Piaget referred to as “disequilibrium” (1971, 1975). Disequilibrium refers to the state that is experienced when individuals confront views or ideas that do not easily ﬁt within their existing un- derstanding of themselves and the world; when leaders push themselves to reexamine their views and ways of making sense of the world in an effort to reconcile the discrepancy, they accelerate their own development (Nemeth, 1986) and therefore their facility at cultivating multicultural environments with which individuals from diverse social backgrounds can identify.
+
+All individuals have personal experiences of inclusionandexclusion which can be leveraged as a source of motivation to evolve their cognitive, affective, and behavioral responses to complex social processes so that they can more effectively facilitate experiences of inclusion for others. When individuals explore the ways in which they themselves have been marginalized, it expands their capacity to engage with the experiences of marginalized others. It is difﬁcult for a leader to become invested in building inclusion if they do not understand the costs of exclusion (or lack of inclusion). Leaders need to be motivated to voluntarily put themselves in developmental situations and to draw on their personal material—experiences, identities, values, etc.—as a resource for exercising leadership.
+
+Over time, as leaders practice applying their inclusive leadership strategies and engage in self-reﬂection about their effectiveness across situations, they develop a more sophisticated ability to regulate their behavior to respond to every-changing diversity dynamics. The more a leader internalizes the in- clusive leader role into their self-identity, the more consistently they will pursue the iterative learning required to achieve this goal (Lord & Hall, 2005)

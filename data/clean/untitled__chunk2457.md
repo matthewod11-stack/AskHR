@@ -1,9 +1,9 @@
-# Psychologist, 20(1), 1–14.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 79c6f19f68c657ddd56ec3b2848ca3b345ca730e
+title: untitled
+---
+## Asbell, B. (1995). The pill. New York: Random House.
 
-Barrera, M. (2000). Social support research in community psychol- ogy. In J. Rappaport & E. Seidman (Eds.), Handbook of commu- nity psychology (pp. 215–246). New York: Kluwer Academic/ Plenum Press.
-
-Beers, C. W. (1908). A mind that found itself. New York: Doubleday.
-
-Bennett, C. C., Anderson, L. S., Cooper, S., Hassol, L., Klein, D. C., & Rosenblum, G. (Eds.). (1966). Community psychol- ogy: A report of the Boston Conference on the education of psychologists for community mental health. Boston: Boston University Press.
-
-Borkman, T. J. (1991). Self help groups. American Journal of
+Barker, R. (1963). Explorations in ecological psychology. American

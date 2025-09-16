@@ -1,7 +1,7 @@
-# Sample Prompts:
-
-- What are the best job search strategies for someone in [industry/role]?
-
-- What are the best job or career opportunities available in X area
-
-[include city, country, region, etc.] for someone with my background
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d944653fb51cc25c1827555464afb30abb3a7041
+title: H08O9C-PDF-ENG
+---
+## HBR / Digital Article / Want to Use AI as a Career Coach? Use These Prompts.

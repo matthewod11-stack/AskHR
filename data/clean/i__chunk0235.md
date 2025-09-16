@@ -1,19 +1,15 @@
-# Employee separation and retention:
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 223deba106ee2772e21dd22c4a87602d31467ff2
+title: i
+---
+# Employee Selection:
 
-Retention of talents is one of the critical strategic plans of the organization HR’s division. The
+Employee selection refers to the recruitment process for the best fit of the position and
 
-author introduces analysis to estimate the correlation and causation between elements and
+organization. Selection is done by interviews, personality tests, cognitive ability tests, work
 
-logistic regression to estimate the turnover rate. Turn over rate is generally classified into two
+samples or simulations, application blanks, or recommendations. The author introduces various
 
-groups: voluntary and involuntary. An effective employee separation and retention analysis
-
-reveals insights into reasons for leaving regarding recruitment from other organizations,
-
-following employee's career after leaving the organization, employee’s performance, and other
-
-demographic indicators. The predictive analysis also identifies employees with a high chance
-
-of leaving their current position to pursue a career change.
-
-51
+linear regression method, which is predictive method to conduct employee selection.

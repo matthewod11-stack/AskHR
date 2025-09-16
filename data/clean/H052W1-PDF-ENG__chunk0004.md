@@ -1,9 +1,11 @@
-# What the Experts Say
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e31cacdad92b3527ce0677b26c36c2be0e258ba
+title: H052W1-PDF-ENG
+---
+## HBR / Digital Article / How to Return to Work After Taking Parental Leave
 
-Returning to work after being home with a new baby is “a transition
+where can you turn to get the emotional support and encouragement
 
-that’s like no other,” says Daisy Wademan Dowling, the founder
-
-and CEO of Workparent, a consulting ﬁrm for working parents and
-
-employers. “Everything is changing — from your practical day-to-day
+you need during this time?

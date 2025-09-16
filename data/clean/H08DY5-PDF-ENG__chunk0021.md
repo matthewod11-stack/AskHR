@@ -1,11 +1,13 @@
-# HBR / Digital Article / How Companies Can Use AI to Better Serve Deaf and Hard-of-H…
+---
+source_path: H08DY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7fa26b434474b264ae2fe515b5da1c3cf67e5d0d
+title: H08DY5-PDF-ENG
+---
+# customers.
 
-- 5. Involve individuals with lived experience as a person with a disability in the development of any AI-powered application.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Hire deaf and disabled people to directly contribute to your company’s
+4
 
-projects. Additionally, consider partnering with deaf and disability-led
-
-organizations, creating a disability advisory board, or working with
-
-qualiﬁed deaf and disability consultants to provide ongoing feedback
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

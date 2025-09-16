@@ -1,9 +1,9 @@
-## Transient competitive advantage: In a turbulent environment, it can
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2dea9a700b9a958c463deb864b0a47ffd8a7bf35
+title: H08TKY-PDF-ENG
+---
+# Christensen (2012)
 
-be hard to sustain a position that allows a company to best rivals over
-
-the long term. In this context, businesses can’t aﬀord to spend months
-
-crafting a single long-term strategy—they need a portfolio of multiple
-
-transient advantages that can be built quickly and abandoned just as
+[ T ]

@@ -1,3 +1,9 @@
-# Psychological Review, 1, 553–569.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a0b684ea252f4ae63b3f8bb9edc30ce848ccd2ff
+title: untitled
+---
+# Louys Elzevier.
 
-Dewey, J. (1895). The theory of emotion. II: The signiﬁcance of
+Dewey, J. (1894). The theory of emotion. I: Emotional attitudes.

@@ -1,19 +1,13 @@
-# your own.
+---
+source_path: H07MWV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa5394265759a9ac6ffbbb1a0f84d76da29bd034
+title: H07MWV-PDF-ENG
+---
+# performance.
 
-Think counterfactually about previous decisions you’ve made.
+By considering the source of the information you’re relying on, you can
 
-Counterfactual thinking invites you to consider diﬀerent courses of
+become more conﬁdent that in deciding on next steps, you’re using
 
-action you could have taken to gain a better understanding of the
-
-factors that inﬂuenced your choice. For example, if you missed a big
-
-deadline on a work project, you might reﬂect on how working harder, asking for help, or renegotiating the deadline could have aﬀected the
-
-outcome. This reﬂection can help you recognize which factors played a
-
-signiﬁcant role in your decision-making process — for example, valuing
-
-getting the project done on your own versus getting it done on time —
-
-and identify changes you might want to make when it comes to future
+relevant information to weigh others’ thinking and actions, as well as

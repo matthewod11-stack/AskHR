@@ -1,21 +1,29 @@
-## Cholamandalam Investment & Finance Company
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: f656f47f01bbff01c97516d2155fcd13c00d945c
+title: final_2019_jan_feb_jbs_pmd
+---
+# Sundaram Finance
 
-0.98
+0.90
 
-0.97
+0.81
 
-58.77# 0.24
+8.73#
 
-- 1.30
+0.05
 
-0.16
+- 2.40*
 
-- 1.62
+0.02
 
-0.65
+3.02**
 
-0.47
+0.20
 
-0.09
+- 1.42
 
-2.00*
+0.72
+
+0.38

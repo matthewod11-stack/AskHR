@@ -1,9 +1,13 @@
-## A Strategic Checklist for Getting Started
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 182eeea0077e085e13e9cd7eed4db2f642a7808f
+title: H08TZO-PDF-ENG
+---
+## communication, work-life balance, and performance.
 
-Companies ready to embrace age inclusion can begin by assessing their
+Research shows that age-diverse teams drive better ﬁnancial
 
-blind spots and opportunities. Here are ﬁve practical steps:
+performance and are more resilient, particularly in industries where
 
-- 1. Conduct a demographic risk audit. Evaluate whether your
-
-workforce, leadership, and customer strategies align with projected
+institutional knowledge and adaptability are critical.

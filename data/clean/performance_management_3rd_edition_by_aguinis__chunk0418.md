@@ -1,11 +1,7 @@
-## Part I • Strategic and General Considerations
-
-good knowledge of the job in question. A job analysis allows for the determi- nation of the key components of a par- ticular job: what tasks need to be done, how they should be done, and what KSAs are needed. If we have good information regarding a job, then it is easier to establish criteria for job success.
-
-- The second component of the perform- ance management process involves performance planning. Performance planning includes the consideration of results and behavior as well as a dev- elopment plan. A discussion of results needs to include key accountabilities (i.e., broad areas for which an employee is responsible), specific objectives for each key accountability (i.e., goals to be reached), and performance standards (i.e., what are acceptable and unaccept- able levels of performance). Adiscussion of behaviors needs to include compe- tencies (i.e., clusters of KSAs). Finally, includes a the development plan description of areas that need improve- ment and goals to be achieved in each area.
-
-- The third component involves per- formance execution. Both the employee and the manager are responsible for performance execution. For example, the employee needs to be committed to goal achievement and should take a proactive role in seeking feedback from his or her supervisor. The burden is on the employee to communicate openly and regularly with the supervisor. Also, the employee has a responsibility to be prepared for the performance review by conducting regular and realistic self- appraisals. On the other hand, the supervisor also has important responsi- bilities. These include observing and documenting performance, updating the employee on any changes in the
-
-goals of the organization, and provid- ing resources and reinforcement so that the employee can succeed and continue to be motivated.
-
-- The fourth component involves per- formance the assessment. employee and the supervisor must eval- uate employee performance. Involve- ment of the employee in the process increases his or her ownership and com- mitment to the system. In addition, it provides important information to be the performance discussed during review. In the absence of self-appraisals, it is often not clear to supervisors if employees have a real understanding of what is expected of them.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 910d5ca2c4f220c5bea3495be53513ca8c3a12bf
+title: performance_management_3rd_edition_by_aguinis
+---
+# 54

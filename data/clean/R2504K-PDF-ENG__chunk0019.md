@@ -1,15 +1,47 @@
-# mire of startup life.
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ccad8642b02daa98e05b291c4b2051b4d74076a9
+title: R2504K-PDF-ENG
+---
+## or acquisitions). Founders with at least three years of experience in
 
-If having a cofounder is what you want, be mindful that it takes time to
+the same industry as their startup were 85% more likely to launch a
 
-ﬁnd the right one. Reﬂecting on her yearlong courtship process, Hively
+highly successful startup, the study also found. It’s no surprise that
 
-founder Angela Gu said, “Bringing on a cofounder takes patience and
+founders with experience tend to do better. Whether they got a taste of
 
-a lot of communication. While having a partner can be energizing and
+a great company culture or suﬀered through a terrible one, or worked
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+at a mature company or a startup that scaled, accumulated experience
 
-6
+is invaluable when deciding what to do and what not to do. And
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with experience often comes maturity and the humility, patience, and
+
+resilience to pursue an idea and drive a venture to great heights. So
+
+when thinking about whether you want or need a cofounder, consider
+
+whether you have that experience and maturity or need to bring on
+
+someone who does.
+
+One caveat: Prospective cofounders who are very experienced may not
+
+appreciate the amount of low-level work they’ll be expected to do at
+
+a startup, such as setting up accounting systems or cloud services for
+
+their ventures. “Wantrepreneurs,” as they’re often called, tend to have
+
+an idealistic view of what it means to run their own venture or have
+
+overly optimistic expectations about payouts that will aﬀord them a new
+
+lifestyle or ﬁnancial security. While aspirations of independence and
+
+success are common for most entrepreneurs, they must be coupled with
+
+the willingness to roll up their sleeves and slog through the muck and

@@ -1,11 +1,11 @@
-# Premium payments of employee beneﬁts
+---
+source_path: Employment Law Guide - Family and Medical Leave.md
+pages: n/a-n/a
+chunk_id: 3c0b7df38e3861bb23f05ea5c2d778380638a0bd
+title: Employment Law Guide - Family and Medical Leave
+---
+# day
 
-Records of disputes between the employer and the employee regarding FMLA
+Copies of employee notices of leave furnished to the employer
 
-Records and documents relating to medical certiﬁcations, re-certiﬁcations or medical histories of employees or
-
-employees' family members, created for purposes of FMLA, are required to be maintained as conﬁdential medical records in separate ﬁles/records from the usual personnel ﬁles. If the Americans with Disabilities Act
-
-(ADA) applies, then these records must comply with the ADA conﬁdentiality requirements. Supervisors and
-
-managers may be informed regarding necessary restrictions on the work or duties of an employee and
+Copies of all written notices given to employees as required under FMLA Documents describing employee beneﬁts or employer paid and unpaid leave policies and practices

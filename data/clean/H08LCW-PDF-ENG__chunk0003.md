@@ -1,15 +1,29 @@
-## HBR / Digital Article / How to Answer “Walk Me Through Your Resume”
+---
+source_path: H08LCW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19ba83a269fffce70111ba6503555ea8a3837cf8
+title: H08LCW-PDF-ENG
+---
+# Deagreez/Getty Images
 
-minutes no matter how many jobs you’ve had and how many years
+The fastest way for recruiters to determine if you have the necessary
 
-you’ve worked, or you could risk losing the recruiter’s attention.
+skills and experience for a job is by asking, “Can you walk me through
 
-Here are three steps to ensure that your response to this crucial question
+your resume?” It sounds like an easy question, but don’t be fooled
 
-leaves a lasting impression.
+— your answer will determine whether the recruiter considers you
 
-- 1. Highlight your experience through the lens of the new job
+a serious candidate. Recruiters aren’t looking for a laundry list of
 
-Determine which accomplishments, skills, and capabilities from each
+accomplishments or responsibilities. Instead, they want a focused
 
-of your past jobs are directly relevant to the job description’s key
+narrative that highlights why you’re the perfect ﬁt for the new role.
+
+Here’s the catch — you need to deliver your answer in less than two
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

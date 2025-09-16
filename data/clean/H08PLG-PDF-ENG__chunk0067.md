@@ -1,29 +1,13 @@
-# less energy.
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ebff245e3306355b1eacce22b52714198883ea3
+title: H08PLG-PDF-ENG
+---
+# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
 
-You can also explore novel approaches to hardware design, such
+Technologies There are a number of innovations that can make AI use more eﬃcient.
 
-as locating memory inside computing cores, which can cut energy
+If you run your own data centers, Google’s DeepMind AI can cut cooling expenses by up to 40%. Also, Nvidia is developing more eﬃcient GPUs
 
-dissipation by shortening data travel distances. Or, deploying devices
-
-mimicking brain functions, which have been show to use 1,000 times
-
-less energy than current standards. Other models have experimented
-
-with running on low-powered microcontrollers. New components, such
-
-as photonic accelerators, 3D chips, and new chip cooling techniques can
-
-deliver computing power with less energy usage.
-
-There are also eﬃciencies to be found in model design. DeepSeek,
-
-for instance, demonstrated how it could save on compute and energy
-
-resources by deploying a “mixture of experts” technique that splits
-
-the AI’s neural networks into diﬀerent categories. The company also
-
-used other creative approaches, such as lopping oﬀ decimal places on
-
-numbers used in calculations without noticeable losses in performance.
+that can deliver up to 30 times the performance while using 25 times

@@ -1,7 +1,15 @@
-# the strategic discussion.
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0f8f5695fb6ffa7d028edd59d5a9d72869b2522
+title: H08058-PDF-ENG
+---
+## HBR / The Big Idea / A Leader’s Guide to Navigating Employee Activism
 
-Leadership teams around the world are facing similar challenges about
+of speaking up publicly about their disappointment, highlighting what
 
-how to engage with employee activism — whether in relation to their
+they perceive to be a gap between what the company espouses and what
 
-organization’s impact on the environment, commitment to diversity,
+it actually practices. Within the executive team there is a divide: Some
+
+want to shut the employee down while others want to invite them into

@@ -1,15 +1,11 @@
-# 3.7(cid:32) Summary
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 3fe0c7013cc6b8e73d3abf83e2cf19ad56f2d2e3
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# 3.6(cid:32) Data Analysis
 
-The research design used in the study was descriptive in nature. The sample for the
+Descriptive statistics such as percentages were used to analyze the quantitative data.
 
-study was obtained through stratified sampling where five respondents were
-
-identified from the 20 top performing branches. Both primary and secondary data
-
-collections methods were used in the study.
-
-(cid:32)
-
-(cid:50)(cid:48)(cid:32)
-
-(cid:32)
+The results were presented in bar charts and line graphs.

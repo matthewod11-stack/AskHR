@@ -1,17 +1,11 @@
-## unit’s leader adopts an across-the-board fully remote policy without
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68535a2a471010b9ff66e4926587848974d3cd66
+title: H08N0B-PDF-ENG
+---
+# or not.
 
-considering how jobs are structured or work with other units). Another
+This can lead to common errors. One involves siloed policies, where
 
-is a laissez-faire approach, which leaves ﬂexibility decisions up to an
-
-individual employee and managers without developing a cohesive team
-
-approach or consistent standards; this can make it diﬃcult to even
-
-schedule meetings or decide on core working hours. Both of these
-
-approaches can also create divides across the workforce and make
-
-managers’ jobs harder, among other consequences; as a result, it’s no
-
-wonder many leaders might question whether remote or hybrid work is
+ﬂexibility is applied in isolated pockets of the organization (e.g. one

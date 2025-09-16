@@ -1,11 +1,15 @@
-## Pregnancy Discrimination Act A 1978 federal law
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: dadb8f4870f6e8e7173cdab1187c384a5fcc9b89
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Power differentiation The extent to which team
 
-protecting the rights of pregnant women. Premack Principle The idea that reinforcement is relative both within an individual and between individuals.
+members have the same level of power and respect. Practical significance The extent to which the results
 
-Pretest A measure of job performance or knowledge taken before the implementation of a training program.
+of a study have actual impact on human behavior. Practicum A paid or unpaid position with an organization
 
-Primacy effect The fact that information presented early in an interview carries more weight than information presented later.
+that gives a student practical work experience.
 
-Probability grapevine A pattern of grapevine
-
-communication in which a message is passed randomly among all employees.
+Predictive validity A form of criterion validity in which test scores of applicants are compared at a later date with a measure of job performance.

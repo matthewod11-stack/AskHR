@@ -1,23 +1,21 @@
-## HBR / Digital Article / How CEOs Can Navigate the Emotional Labor of Leadership
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74015f095c907ee60de1dc8300cd28a27b03b4e2
+title: H07R1O-PDF-ENG
+---
+# decisions.
 
-distribution center employees, who had been required to come to work
+Consider, for instance, the continuing and contentious debate at Amazon around remote work versus mandated returns to the oﬃce.
 
-even during the crisis. Amazon’s travails show how crises can have a
+Long after the health risks of the Covid pandemic have abated, Amazon continues to face serious resistance from oﬃce workers who petitioned
 
-long tail of continuing emotional toll. Similarly, the Russia-Ukraine war
+the company in writing and even staged a walkout at its Seattle
 
-shows no sign of ending and spills into ongoing anxiety about how
+headquarters to protest CEO Andy Jasse’s mandate that they return to the oﬃce. Surprisingly, their insurgency was supported by Amazon’s
 
-long and severe the strains between the U.S. and China will be and the
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-consequences it will have for businesses caught in the fray. Emotional
+3
 
-labor is more problematic when it feels unending — and that is precisely
-
-how many CEOs now feel.
-
-There is a growing expectation for CEOs to engage publicly with politically charged social and environmental issues.
-
-In this era of “CEO activism,” leaders are expected to get personally
-
-engaged in addressing a broad range of social challenges that
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

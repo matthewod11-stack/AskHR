@@ -1,15 +1,43 @@
-# alone.
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3748776e10750db1de8984c49786b722fc07b53f
+title: R2504K-PDF-ENG
+---
+## important issues, from product and hiring decisions to operating
 
-Expertise. Self-awareness is critical to forging successful cofounder
+procedures and fundraising strategy. Being able to process those
 
-partnerships. It begins with an honest assessment of your technical and
+decisions together and work through disagreements is essential to a
 
-domain expertise. You must know what you don’t know—where you
+healthy cofounding relationship. Eliza Becton of Bevi, a smart-water-
 
-have gaps—and consider how a cofounder’s knowledge may be additive
+dispenser startup that I was an angel investor in, shared her ﬁrst-year
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+experience with her cofounder Sean Grundy: “We fought like siblings
 
-3
+when we disagreed on product direction or company priorities, but it
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+was always coming from a good-hearted place because we cared so
+
+much about each other and our venture.” Becton and Grundy had a
+
+willingness to lean into healthy discourse. They were open with each
+
+other about the roles they wanted to play at the company, which is
+
+critical in a cofounding relationship. “Because our product was my idea
+
+at the start, Sean advocated for me to be the CEO of the company,”
+
+Becton said. “But it didn’t take long for me to realize that’s not a job I
+
+love. I am a product designer and was much happier focusing there. So
+
+we agreed he’d take that role.”
+
+If the prospect of hashing out roles and compromising on things like
+
+ﬁnancing or product decisions gives you pause, you may need to do
+
+some introspective work before taking on a cofounder, or perhaps go it

@@ -1,13 +1,17 @@
-## HBR / Digital Article / Make Your Workday Work for Your Mental Health
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14b616e725a549a32f245988d5159d66c2a3b6d6
+title: H087DT-PDF-ENG
+---
+## rhythms or your mental health challenges.
 
-no one-size-ﬁts-all version of a mentally healthy workday. What’s
+Structuring your workday well can help with a wide range of difﬁculties,
 
-right for you will be based on self-knowledge, experimentation, and
+from depression and anxiety to ADHD and bipolar disorder. But there’s
 
-balancing your needs with the needs of others.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-How can you ﬁgure out the best approach for you? First, I’ll describe
+1
 
-some speciﬁc strategies tied to particular mental health challenges;
-
-then I’ll discuss mentally healthy time management in general.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,15 @@
-# knowledge acquisition in the long term.
+---
+source_path: H088RA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 284866a7e5f41234f282dddd0cb4f46629bbc40e
+title: H088RA-PDF-ENG
+---
+## — alignment with job expectations (- 5% points) and contributions
 
-Our data shows no diﬀerence in sentiment for those who onboard
+to the team’s success (- 6%). What’s more, during their ﬁrst year, new hires who came into the oﬃce regularly (more than 60% of
 
-remotely or those who onboard onsite regarding their career
+workdays) reported less opportunity to learn (- 5%) and less self-
 
-experiences, building new skills, and energy they draw from work, as
+reported productivity (- 9%), indicating that being onsite most of the
 
-well as support they receive from managers in the ﬁrst year.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+time can take away from the focus time that’s critical for learning and

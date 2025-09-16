@@ -1,13 +1,23 @@
-# HBR / Digital Article / Planning an Offsite for Your Leadership Team? Ask These 5 Que…
+---
+source_path: H08TKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1feac43a309f4558be8d97f69e7c350983a21d8b
+title: H08TKB-PDF-ENG
+---
+# Michael H/Getty Images
 
-With more organizations mandating in-oﬃce time, this is a pivotal
+As a leader, you’ve noticed something feels oﬀ with your team. After
 
-moment to strengthen teamwork and redeﬁne how your team works
+years of remote work, your company has shifted to a hybrid or fully in-oﬃce model—but the return hasn’t been seamless. Meetings feel
 
-together. Oﬀsites can be a powerful catalyst for this—but only when
+clunky, casual collaboration is inconsistent, and relationships that once
 
-designed with clear intent. Many leaders assume that starting with
+felt natural now require more eﬀort. Hoping to rebuild connection and
 
-the end in mind is enough to ensure a successful oﬀsite, but in our
+alignment, you decide to plan a leadership team oﬀsite.
 
-experience, that’s just the beginning.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,11 @@
-# period of time.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 870ff3d378b34ce89b820882012960fed7994691
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Managerial Grid A measure of leadership that classifies
 
-Maximum supportable position (MSP) The highest possible settlement that a person could reasonably ask for and still maintain credibility in negotiating an agreement.
+a leader into one of five leadership styles. Manipulation The alteration of a variable by an
 
-Mean effect size Used in meta-analysis, a statistic
-
-that is the average of the effect sizes for all studies included in the analysis.
-
-Mediation A method of resolving conflict in which a neutral third party is asked to help the two parties reach an agreement.
-
-Meeting cow An unnecessary or unnecessarily long
-
-meeting scheduled out of force of habit.
+experimenter in expectation that the alteration will result in a change in the dependent variable. Massed practice Concentrating learning into a short

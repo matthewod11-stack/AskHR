@@ -1,3 +1,9 @@
-# Materials and methods Procedure
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: c4aeb161ca68e58c94e8138fb731d5a89ccb3c68
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+## Athlete Leadership and Team Effectiveness
 
-We invited all soccer clubs of the highest female division (16 teams) and the third highest male division (20 teams) in Spain to participate in our study and informed them via their club man- agement or coach about the objectives and procedures of our research. In the 31 teams that agreed to participate, all players were informed about the research objectives, and they were told that their participation was voluntary and the provided answers would be treated confi- dentially. A cross-sectional design was used and a single data collection assessment was com- pleted near the end of the competitive period to ensure that the players would have gained adequate insight about the informal leadership qualities of their fellow team members. Partici- pants completed the questionnaire individually in the locker room in the absence of their coach. The process took approximately 30 minutes. The principal investigator was present during this time to answer any questions that arose during the process. The study received eth- ical approval from the first author´s university; Vice-Rectorate of Research, Transfer and Inno- vation—Delegation of the Bioethics and Biosafety Commission (Protocol number: 137/2015). All participants were treated according to the American Psychological Association ethical guidelines regarding consent, confidentiality, and anonymity of responses.
+the ideal leadership structure in male and female teams, no specific hypothesis for this third research aim can be formulated a priori.

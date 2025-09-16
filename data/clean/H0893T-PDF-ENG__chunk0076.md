@@ -1,9 +1,39 @@
-# HBR / Digital Article / Research: The Most Common DEI Practices Actually Undermine…
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d40f4423c3e2e7d0bee9945b1ceddf50d185730
+title: H0893T-PDF-ENG
+---
+## Family-friendly practices (childcare, ﬂextime, and parental leave) can
 
-citizens rather than oﬀenders, employees are more likely to monitor their behavior and direct eﬀorts toward increasing workforce diversity.
+accommodate the disproportionate work-life challenges experienced by
 
-Notably, organizations implement family-friendly practices with moderate frequency, while other eﬀective practices, such as targeted
+women and people of color. In heterosexual married couples, women
 
-recruitment, empowering training, and setting diversity goals, are
+spend substantially more time on caregiving than their husbands, even
 
-implemented infrequently.
+among couples with egalitarian earnings. Relative to white parents,
+
+Black parents are more likely to quit a job, turn down a job, or change
+
+jobs due to childcare challenges. Ensuring that employees are not
+
+stigmatized for utilizing family-friendly practices is imperative for these
+
+programs to increase diverse representation.
+
+Targeted recruitment, empowering training (training that teaches
+
+managers and employees to foster DEI rather than scolding them to
+
+avoid harassment and discrimination), and setting diversity goals each
+
+involve employees as change agents, encouraging them to cultivate a
+
+diverse and inclusive workforce. By treating employees as well-meaning
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

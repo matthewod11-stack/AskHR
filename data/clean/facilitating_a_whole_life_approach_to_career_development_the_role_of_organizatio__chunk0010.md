@@ -1,1 +1,9 @@
-# 53
+---
+source_path: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio.md
+pages: n/a-n/a
+chunk_id: 850a79c5e1105928b72219daeaa170dd439da62a
+title: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio
+---
+# The Traditional Organizational Career
+
+Notions of ‘‘working from the ground floor up’’ and the ‘‘organization man’’ reflect the traditional organizational career (Clarke, 2013; Whyte, 1956). Employees are hired into entry-level positions and advance hierarchically through ‘‘in-house’’ promotions, maintaining stable employment within a sin- gle organization (Weber, 1947; Whyte, 1956). This conceptualization of the career, emphasizing job security and long-term employment within a single organization, dominated the academic literature from the early to the mid-20th century (Hall, 1976; Weber, 1947). Employees competed to advance upwardly through limited positions in the organizational hierarchy (Kanter, 1989). In these careers, the employee not only worked for the organization but had a sense of affiliation and attachment to it (Whyte, 1956). Employee career development was supported by organizational career management and training and development programs, and career success was demonstrated through increasing sta- tus and compensation (Kanter, 1989). Until the late 1980s (Hall, 1996), the employee’s life outside work (i.e., personal and family) was not viewed as a relevant factor in career development.

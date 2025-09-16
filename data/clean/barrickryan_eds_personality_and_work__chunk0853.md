@@ -1,9 +1,9 @@
-# 308 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 9067efa1f9060d841c7c8c0954da91ee2142db70
+title: barrickryan_eds_personality_and_work
+---
+# Culture
 
-it. Leadership, for example, is affected by culture (House, Wright, & Aditya, 1997).
-
-Incorporating culture into our performance models requires that we describe culture on a set of dimensions. A good taxonomy of cultural variables is required. House et al. (1997) reviewed cross- cultural differences and concluded that Hofstede’s four constructs (power distance, uncertainty avoidance, individualism versus col- lectivism, and masculinity versus femininity; 1980) were the most useful for describing and differentiating cultures. Recently, Hof- stede and his colleagues (Hofstede et al., 1998) proposed many more constructs. Triandis and Suh (2002) suggested a hierarchi- cal structure consisting of four—complexity, tightness, collectivism, and individualism—at the highest level, with subdimensions, such as vertical and horizontal, within the broader dimensions of col- lectivism and individualism. These cultural variables need to be in- corporated into our models of performance if we expect to understand the conditions under which our models are accurate portraits of the determinants of performance.
-
-An important issue when studying personality and culture is the structure of personality across cultures. Proponents of the Big Five argue for the universal nature of the ﬁve factors, citing as evi- dence similarity of factor structures of Big Five personality ques- tionnaires administered in different cultures and languages (McCrae & Costa, 1997b). Recently, however, Big Five researchers have acknowledged that the ﬁt is better in some countries than in others and recommend that more attention be given to middle- level personality constructs (Saucier & Goldberg, 2001), a point of view I have long advocated.
-
-Research Setting Student settings are often used to test our theories with the hope that the results will generalize to work settings. Recent ﬁndings re- iterate the importance of ensuring that our ﬁndings do generalize to work or applied settings. For example, evidence of the fake- ability of personality inventories is clear, and the magnitude of dis- tortion in directed faking studies is signiﬁcant (Ones, Viswesvaran, & Reiss, 1996). However, in actual applicant settings, intentional distortion is less signiﬁcant, and although criterion-related validi- ties are signiﬁcantly lower in directed faking studies, validities are higher in applicant settings, indeed similar to the level of validity
+The world of work is multinational and multicultural. Culture moderates, mediates, and interacts with personality in complex ways to affect performance, and this added complexity of cultural plurality must be reﬂected in our performance models. Its impor- tance is demonstrated in a study of the different inﬂuences of per- sonality variables on life satisfaction in two individualistic and three collectivistic cultures (Schimmack, Radhakrishnan, Oishi, Dzokoto, & Ahadi, 2002). Research on the determinants of expatriate per- formance is another example where the importance of culture (for example, adjusting to an environment other than one’s own) is ac- knowledged. Culture is important in ways other than adjusting to

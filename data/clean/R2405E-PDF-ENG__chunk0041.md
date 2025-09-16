@@ -1,13 +1,19 @@
-# Getting to Scale: Move Fast
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4e9154fde15d757ea07ab4a45a66a19de107acd
+title: R2405E-PDF-ENG
+---
+# treatment for rheumatoid arthritis.
 
-Once a new venture’s business model becomes viable and the interest
+As the examples illustrate, incumbent strengths come to the fore
 
-of a critical mass of users or customers is clear, the adoption of an
+in the corridor of uncertainty. But the leadership team deciding
 
-innovation tends to take oﬀ exponentially, accompanied by a frantic
+whether to make signiﬁcant investments needs to evaluate whether the
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+innovation team is answering the four questions with quality insights
 
-10
+and experimental evidence or merely with market chatter. That is the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+only way to know if an innovation is truly ready to be scaled up.

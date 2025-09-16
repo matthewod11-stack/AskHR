@@ -1,11 +1,13 @@
-## Three Actions to Move from Embassy to Advocate
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d17b030babc6b4a22ad40b87ab0bda4faf1d1c6
+title: H053C9-PDF-ENG
+---
+## an initial LGBT inclusion event primarily via an anonymous Skype call.
 
-Strengthen the Employee Resource Group. In most large organizations,
+Soon after, the company held another ﬁreside chat, which one of our
 
-the ERG is the primary vehicle for internal champions to advocate for
+interviewees proudly noted had “more people in person in the room
 
-LGBT inclusion. Boost its power by providing leadership development
-
-support to its leaders and connecting the group to the company’s
-
-broader diversity and inclusion strategy — including recruiting,
+than on Skype, willing to ask questions fearlessly.”

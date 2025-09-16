@@ -1,7 +1,15 @@
-# repetitive.
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54bf1344e0e8e7788cf01a3612157778089a355a
+title: R2304H-PDF-ENG
+---
+## quality assurance and testing, report that their autistic consultants
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+are often especially adept at recognizing patterns, which makes them
 
-2
+better than others at seeing correlations and interdependencies in large
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+amounts of data. Moreover, they can often stay focused for unusually
+
+long periods of time, even when doing work that is routine and

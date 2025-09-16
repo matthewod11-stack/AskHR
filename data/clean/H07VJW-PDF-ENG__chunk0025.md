@@ -1,15 +1,13 @@
-# this job?”
+---
+source_path: H07VJW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2fa13e27f44df85f9f06f791ec48ae87c67a6bc
+title: H07VJW-PDF-ENG
+---
+# today.
 
-- What: I have over 12 years of experience in customer-facing
+- 2. Answering a question
 
-work, addressing challenges such as migrating to new systems and
+Questions are a great opportunity to use this structure. For example,
 
-implementing new processes.
-
-- So What: These previous experiences will help me provide your
-
-customers with high-quality results, while also assisting you to
-
-streamline your deployment process.
-
-- Now What: I’m happy to have you discuss my qualiﬁcations with some
+imagine a job interview where you are asked: “Why are you qualiﬁed for

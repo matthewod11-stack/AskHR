@@ -1,15 +1,9 @@
-## psychotherapy. Berkeley: University of California Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 89aed68c5e450b75f5ba200183593f6c1ecf323e
+title: untitled
+---
+## History of the Behavioral Sciences, 3, 315–325.
 
-Capshew, J. H. (1999). Psychologists on the march: Science, prac- tice, and professional identity in America, 1929–1969. New York: Cambridge University Press.
-
-Cattell, J. M. (1890). Mental tests and measurements. Mind, 51,
-
-373–381.
-
-Cattell, J. M. (1893). Tests of the senses and faculties. Educational
-
-Review, 5, 257–265.
-
-Cohen, L. D. (1992). The academic department. In D. K. Freedheim (Ed.), History of psychotherapy: A century of change (p. 731– 764). Washington, DC: American Psychological Association.
-
-43
+Caplan, E. (1998). Mind games: American culture and the birth of

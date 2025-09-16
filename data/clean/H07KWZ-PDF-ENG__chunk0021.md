@@ -1,7 +1,19 @@
-# overpay.
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b23ba0115661ba2eb8aab973ded7ae63c834d51b
+title: H07KWZ-PDF-ENG
+---
+# negotiation or auction.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Negotiators experiencing competitive arousal tend to make aggressive
 
-5
+demands and extreme oﬀers, and to become overly defensive or argumentative. This can escalate conﬂict and make it diﬃcult to reach
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mutually beneﬁcial agreements. It can also lead negotiators to make
+
+irrational oﬀers, as was likely the case for the Roy siblings. The desire to
+
+win becomes more important than making sound decisions. Thus, the
+
+well-known insight about M&A competitions: Buyers often overbid and

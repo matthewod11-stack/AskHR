@@ -1,15 +1,15 @@
-# Data Skill.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: c8e4f8c03ee3065eeb347fc50d507ec21ac415c7
+title: i
+---
+# best candidate.
 
-By People skill, the authors refer to the organization’s workforce, their psychology, and their
+2.4 Skill sets of HR specialist in order to perform PA
 
-motivation to work. The people knowledge domain also requires knowledge about how to use
+Discussing skills for PA, Johnson-Murray et al. (2018) postulate that there are three
 
-power and influence to <secure buy-in and communicate=
+fundamental knowledge domains that a Human Resources (HR) expert should possess to
 
-Business knowledge: as concluded by different authors, the ultimate goal of PA is to enhance
-
-an organization’s performance outcome, the PA should have a a comprehensive view of the
-
-business process and understanding of organizational competitive advantages’s origin. Since
-
-the analysis begins with the business problem, business domain knowledge is undoubtedly a
+implement People Analytics (PA) effectively, which are People skill, Business knowledge and

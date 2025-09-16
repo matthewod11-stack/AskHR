@@ -1,5 +1,9 @@
-# context.
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4629caeb8d5ef279a7d0387525282a8eb060db7
+title: H08QLK-PDF-ENG
+---
+# organism:
 
-- Implicit. Workﬂows are inferred from data patterns and user intent.
-
-- Adaptable. The system learns from exceptions and reﬁnes processes
+- Fluid. Processes emerge dynamically in response to objectives and

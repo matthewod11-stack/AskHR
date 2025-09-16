@@ -1,11 +1,13 @@
-# and after changes to the hiring process.
+---
+source_path: H08QAO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bcb662c537264566c5c8f2e9e412eef9ddba8af
+title: H08QAO-PDF-ENG
+---
+# candidates.
 
-Analyzing data from 8,750 external hires over two years and across more
+Alpha did not make the change in the hiring process all at once. Instead,
 
-than 60 country locations, we found that more women (a noticeable 9.2
+they introduced it across their worldwide subsidiary locations in seven
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+phases, which gave us the unique opportunity to compare results before

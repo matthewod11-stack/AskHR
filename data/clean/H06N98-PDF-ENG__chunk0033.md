@@ -1,15 +1,29 @@
-# Employee Social Network
+---
+source_path: H06N98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 31e3754674f9dc8d96471cd054d1373284e08fc7
+title: H06N98-PDF-ENG
+---
+# Business Logic Contest
 
-To mobilize the workforce, large crowds need to be involved. Internal
+When making strategic decisions, leaders typically focus on where to
 
-social networks can be used eﬀectively here as the Telefónica
+compete (which industries and markets), pushing oﬀ consideration
 
-example demonstrated. A number of simple actions help to create
+of competences, resources, and value chains they’ll need to the
 
-momentum: Emphasize the social element, establish clear rules to
+implementation phase. The Business Logic Contest helps leaders to
 
-reduce inappropriate behavior, communicate what exactly will happen
+think about the “what” and “how” of strategy together — to explicitly
 
-with contributions, and most importantly, have strong moderators.
+integrate the customer interface related to value creation with value
 
-Leaders also have to take a personal interest. When they reference
+capture and its associated process. This ensures that a company
+
+collectively engages in developing a unique proposition that works
+
+coherently for them. As described in the BPW example above, a
+
+workshop type model brings together a relatively small but diverse set
+
+of people preventing leakage of proprietary information.

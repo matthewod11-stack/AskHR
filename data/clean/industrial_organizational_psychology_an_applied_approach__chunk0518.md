@@ -1,9 +1,9 @@
-## Text not available due to copyright restrictions
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 519811affd7d59af02fba068a96c2131cd974a2f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Methods Providing Information About Competencies
 
-O*NET includes information about the occupation (generalized work activities, work context, organizational context) and the worker characteris- tics (ability, work style, occupational values and interests, knowledge, skills, education) needed for success in the occupation. Th e O*NET also includes information about such economic factors as labor demand, labor supply, salaries, and occupational trends. Th is information can be used by employers to select new employees and by applicants who are searching for careers that match their skills, interests, and economic needs. Complete copies of the O*NET question- naires can be found on this text’s website.
-
-Critical Incident Technique. Th e Critical Incident Technique (CIT) was developed and ﬁ rst used by John Flanagan and his students at the University of Pittsburgh in the late s and early s. Th e CIT is used to discover actual incidents of job behavior that make the diﬀ erence between a job’s successful or unsuccessful
-
-job analysis and evaluation
-
-59
+Occupational Information Network. Th e Occupational Information Network (O*NET) is a national job analysis system created by the federal government to replace the Dictionary of Occupational Titles (DOT) which had been in use since the s (Peterson et al., ). O*NET is a major advancement in understanding the nature of work, in large part because its developers understood that jobs can be viewed at four levels: economic, organizational, occupational, and individual. As a result, O*NET has incorporated the types of information obtained in many job analysis techniques. A chart comparing O*NET with other job analysis methods is located on this text’s webpage.

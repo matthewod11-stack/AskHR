@@ -1,11 +1,23 @@
-## HBR / Magazine Article / Leading Global Teams Effectively
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d6d7e403429d9ae091ae7e2e891edce20f6b921
+title: R2503K-PDF-ENG
+---
+# members.
 
-trust. People already know when something has gone awry. Many team
+Western managers are told that owning their mistakes and discussing
 
-members from collectivist cultures would rather see their leader address
+them openly is crucial for building trust, but for someone from a face-
 
-the issue quietly and restore trust through actions rather than words.
+saving culture, it can be disorienting when a leader speaks candidly
 
-Owning mistakes is important, but the way leaders communicate about
+about a mistake. Leaders hold a position of authority and honor, and
 
-them needs to reﬂect the cultural diﬀerences on the team.
+hearing them grovel about what they did wrong may actually erode
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+13
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

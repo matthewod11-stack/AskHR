@@ -1,11 +1,19 @@
-## Foundational Skills Help Raise a Worker’s Ceiling
+---
+source_path: H08VGH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4c405e1af7b257387c5591a2d8fffe0ea8c63c70
+title: H08VGH-PDF-ENG
+---
+# their careers.
 
-To help leaders understand the full value of these skills, we also
+We found that those who scored highly on basic skills were more
 
-examined the ways they shape long-term performance, adaptability,
+likely to earn higher wages throughout their careers, move into
 
-and advancement. Our study found that people with broad, strong
+more advanced roles, learn specialized skills more quickly, and were
 
-foundational skills, including reading comprehension, basic math, and
+more resilient to industry changes. The presence and development of
 
-communications skills, tend to learn faster and master more complex
+foundational skills didn’t just make workers more competitive for entry
+
+level jobs—they determined how far they could climb the career ladder.

@@ -1,15 +1,9 @@
-# A k r o W
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 7fdc0a83e1eeb9910e2fb927ee264f68009177f3
+title: barrickryan_eds_personality_and_work
+---
+# A
 
-, s n o
-
-i t p e c r e P
-
-s n o
-
-i t o m E d n a
-
-e v i t c a e R
-
-e v i t c u d o r p r e t n u o C
-
-s r o i v a h e B k r o W
+, s e d u t i t t

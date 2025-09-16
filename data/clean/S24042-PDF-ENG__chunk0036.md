@@ -1,11 +1,25 @@
-## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dba966e5c710a7e1fcc1f7cd0cf728b57b8587ab
+title: S24042-PDF-ENG
+---
+# conﬁdent in his leadership.
 
-remember: Much of what you’ll be saying either will feel new to your
+Communicate clearly and relentlessly. Communication is critical to
 
-audience or will start to sink in only after many repetitions.
+building conﬁdence in your leadership across stakeholder groups.
 
-Similarly, in all your communications, make sure to repeatedly signal
+What’s the best way to handle it eﬀectively? Repetition, repetition,
 
-progress: Remind your stakeholders where you started, where you
+repetition. No matter whom you’re addressing or in what setting, you’ll
 
-are, and where you’re going. To help them recognize advances, break
+need to tell people what you’re going to tell them, tell them, and then
+
+tell them what you told them. You’ll get tired of this process, but
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+10
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

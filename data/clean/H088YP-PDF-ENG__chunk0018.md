@@ -1,19 +1,13 @@
-# scaﬀold hiring managers into fairness.”
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1074cce98784c3732bef18454445304e24b3d84e
+title: H088YP-PDF-ENG
+---
+## HBR / Digital Article / How to Make Job Interviews More Accessible
 
-Bach recommends asking all candidates to share speciﬁc professional
+a role. “A lot of interviews basically come down to some variation of the
 
-experiences with questions that begin: Tell me about a time when.
+airport test: Does this person vibe with me?” says Praslova. Structured
 
-To ensure fairness and objectivity, evaluate candidates solely on these
-
-established criteria and support your assessment with solid evidence.
-
-Don’t let factors like what the candidate is wearing, how nervous they
-
-appear, or how easily they engage in small talk inﬂuence the interview,
-
-she adds. “Know what you’re assessing and only assess that,” she says.
-
-“Candidates want you to focus on their strengths and abilities and what
-
-they can do.”
+interviews, on the other hand, “have checklists and processes that

@@ -1,15 +1,9 @@
-## especially amid disruption like restructuring, layoﬀs, and budget cuts.
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 608b7d2f42cd6f0fb7bf746a1b5be909c693aa3e
+title: H07ZCR-PDF-ENG
+---
+# Catherine Falls Commercial/Getty Images
 
-While it’s natural to advocate for your success or support your people, it
-
-becomes problematic when it comes at the expense of the organization.
-
-A client of ours, “Elena,” came up in a company that had been bought
-
-and sold several times over the past 20 years. With each merger and
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Many leaders prioritize their personal or departmental needs,

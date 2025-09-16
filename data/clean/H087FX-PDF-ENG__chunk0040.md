@@ -1,17 +1,15 @@
-## robust short- and long-term disability coverage and ﬂexible leave-of-
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6db17d665adb580ce8ca04fc49c9c4960ad83bae
+title: H087FX-PDF-ENG
+---
+## hiring, retention, and productivity across their workforces.
 
-absence policies. In addition, consider retraining those employees for
+Here are some recommendations. Many are best suited to oﬃce jobs,
 
-less physically demanding roles, if possible.
+but some can also be used to support frontline workers (e.g., food and
 
-Recruitment. Make sure job descriptions focus on essential job
+beverage services, retail, nursing, etc.). Employers that need to ﬁnd
 
-functions. Do not include physical requirements for tasks that may
-
-need to be performed only on rare occasions. For example, requiring
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+accommodations for frontline workers may want to focus on providing

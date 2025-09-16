@@ -1,29 +1,21 @@
-# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: a82da07857bcd2e025a13feef70d5dd485b2fcc2
+title: beo_chap7_1
+---
+## firm between the (overconfident) corporate insider and the outside investor. An
 
-Malmendier and Tate 2005b). It is just the flip side of traditional Myers—Majluf-type
+overconfident CEO will persistently feel undervalued by the capital market and thus
 
-models with asymmetric information (Myers and Majluf 1984). There, the manager
+be reluctant to issue equity to finance investment projects or mergers (Heaton 2002;
 
-has inside information, and good types are reluctant to issue equity since they will be
+24Precommitment allows the avoidance of sending negative signals to the market.
 
-taken for bad types. Here, the overconfident manager thinks he has (positive) inside
+25-The New York Times, March 3, 2004, comments: “Unlike many other telecommunications kingpins of the 1990’s, who cashed out hundreds of millions of dollars in inflated stock ahead of unsuspecting
 
-information, with the same effect on equity issuance. Overconfidence amounts to
+investors, Mr. Ebbers apparently believed that he could keep the company afloat one way or another. He
 
-“perceived asymmetric information.” As a result, overconfidence may actually lead
+kept buying WorldCom shares even as the company’s house of cards began to topple.”
 
-to /ess investment orfewer mergers whenever the overconfident CEO needs to tap the
-
-external capital market. A CEO is expected to overinvest only if a firm has abundant
-
-internal resources or extra debt capacity. In other words, the investment decision of
-
-an overconfident CEO should be sensitive to the availability of internal cash flow,
-
-and such investment—cash-fiow sensitivity should be strongest in firms with little
-
-internal resources. At the same time, the inclination to undertake bad acquisitions
-
-should have highest impact in firms with abundant internal resources.
-
-The data confirm all of the predictions above, including some type of pecking-
+262

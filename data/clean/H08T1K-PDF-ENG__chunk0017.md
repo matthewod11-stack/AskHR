@@ -1,19 +1,11 @@
-## the gaps with their own often worst-case what-ifs. Eikenberg suggests
+---
+source_path: H08T1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e46097c48140e55c2836768a471e09848bd77b0
+title: H08T1K-PDF-ENG
+---
+# Model resilience
 
-steeling yourself by asking not “What should I do?” but “Who do I want
+“Uncertainty isn’t the moment for you to go quiet,” says Eikenberg.
 
-to be?” Being clear on how you want to show up for your team can
-
-help center you in times of stress, she says. It’s about your presence
-
-and approach as much as your words: staying calm, being patient, and
-
-building trust by talking candidly about challenges while still pointing
-
-to what’s possible. Remember: “This is just one drop in the bucket of
-
-your long leadership life,” she says. “The more conﬁdence and clarity
-
-you have about who you want to be, the more muscle you build to
-
-handle it the next time. And there is going to be a next time,” she says.
+Indeed, silence from leaders can be unsettling as people start to ﬁll

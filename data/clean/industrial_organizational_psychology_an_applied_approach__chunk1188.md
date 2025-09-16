@@ -1,11 +1,13 @@
-## Predicting Performance Limitations Due to Medical and Psychological Problems
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0f38a773d72165c878807c9fcee695704be372fa
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Graphology
 
-As mentioned in Chapter , the Americans with Disabilities Act (ADA) limits the consideration of medical and psychological problems to those that keep the employee from performing essential job functions.
+An interesting method to select employees is handwriting analysis, or graphology. The idea behind handwriting analysis is that the way people write reveals their personality, which in turn should indicate work performance. Although graphology is used more often in Europe than in the United States (Healy, ), European employees react as poorly to it as do their American counterparts (Anderson & Witvliet, ).
 
-employee selection: references and testing
+To analyze a person’s handwriting, a graphologist looks at the size, slant, width, regularity, and pressure of a writing sample. From these writing characteristics, infor- mation about temperament and mental, social, work, and moral traits is obtained.
 
-191
-
-192
-
-chapter 
+Research on graphology has revealed interesting findings. First, grapholo- gists are consistent in their judgments about script features but not in their interpretation about what these features mean (Keinan & Barak, ; Rafaeli & Klimoski, ). Second, trained graphologists are no more accurate or reliable at interpreting handwriting samples than are untrained undergraduates (Rafaeli & Klimoski, ) or psychologists (Ben-Shakhar, Bar-Hillel, Bilu, Ben-Abba, & Flug, ). Most importantly, the small body of scientific literature on the topic concludes that graphology is not a useful technique in employee selection (Simner & Goffin, ). Graphology predicts best when the writing sample is autobiographical (the writer writes an essay about himself), which means that graphologists are making their predictions more on the content of the writing than on the quality of the handwriting (Simner & Goffin, ).

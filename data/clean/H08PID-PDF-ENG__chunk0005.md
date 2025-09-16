@@ -1,9 +1,15 @@
-# than others.
+---
+source_path: H08PID-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cfc19a432544d65e571ab1576c8cc98f1c1ea44b
+title: H08PID-PDF-ENG
+---
+# HBR / Digital Article / Research: When Leaders Express Positivity Early On, Employee…
 
-In new research, recently published in Organization Science, we aimed
+team members’ individual performance. Yet, any leader can tell you that
 
-to understand whether the timing of leaders’ positive or negative emotional expressions shapes team member performance diﬀerently.
+this kind of blanket advice doesn’t always seem to track with what they
 
-We indeed found that positivity can help drive performance—but the
+see in the oﬃce: sometimes well-timed negative feedback can help drive
 
-timing matters.
+performance and positivity can be more impactful in some moments

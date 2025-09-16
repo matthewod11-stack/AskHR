@@ -1,17 +1,31 @@
-## employees across every part of the business within his ﬁrst 90 days.
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d68d86b9e9ab896b492dd9b6dbc7284fc5a1169
+title: H08TM2-PDF-ENG
+---
+## ﬁrm’s biggest goals, threats and opportunities.
 
-It seemed like a strong plan, but within the ﬁrst month, urgent crises
+To counter this, Julie instituted a set of facilitated quarterly oﬀsite
 
-demanded his attention. Determined to stick to his schedule, he pushed
+meetings intentionally designed to connect her leaders to a set of
 
-himself to the brink, losing sleep and becoming exhausted.
+broader company challenges—and to connect them to each other. By
 
-It can be tempting to try to address every glaring issue all at once,
+providing this space to tackle strategic issues, her team came together
 
-but that just isn’t possible. Organizational breakdowns didn’t happen
+and began to own the success of the business as a whole.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+In addition to strong team collaboration, it’s always critical to ensure
 
-5
+you have the right leaders in the seats to participate in strategic
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+conversations. If sub-par performance has been tolerated, even in just
+
+one part of the business, the organization will not function at its best. If
+
+leadership changes need to be made, make them quickly.
+
+Be patient with yourself.
+
+When John stepped into the COO role, he set a goal to meet with

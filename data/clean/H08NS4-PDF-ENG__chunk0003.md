@@ -1,11 +1,29 @@
-# HBR / Digital Article / You Don’t Need a Mentor to Get the Career Advice You Need
+---
+source_path: H08NS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d05946193e8f255dc78f0e441fde47e9e6740df2
+title: H08NS4-PDF-ENG
+---
+# Illustration by Sandra Navarro
 
-Through our work advising companies on developing emerging leaders
+We’ve all been told the importance of ﬁnding a mentor as you build
 
-(Dorie as a consultant and keynote speaker and Alexis as an academic
+your career. Among other beneﬁts, it can lead to higher job satisfaction
 
-researcher and professor), we’ve discovered that young professionals
+and better professional prospects. According to one report, employees
 
-often have abundant—but easily overlooked—opportunities for what
+who had mentors were promoted ﬁve times more often than people who
 
-we call micro-mentorship: short, actionable advice that can make a
+did not. But the truth is that senior leaders with the time and interest
+
+to support you are in short supply, so it can be hard to know where to
+
+start. If you don’t already have a mentor, how can you actually get the
+
+guidance you need?
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

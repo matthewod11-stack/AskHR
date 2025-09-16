@@ -1,17 +1,9 @@
-## about moonlighters? Public Personnel Management, 21(1), 65–73.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: fbbb2fbdd1fa1cd7699fbfe0d9423499040315ed
+title: industrial_organizational_psychology_an_applied_approach
+---
+## of Applied Social Psychology, 37(2), 380–402.
 
-Babad, E. Y., Inbar, J., & Rosenthal, R. (1982). Pygmalion,
-
-Galatea, and the Golem: Investigations of biased and unbiased teachers. Journal of Educational Psychology, 74, 459–474.
-
-Babcock, L., & Laschever, S. (2008). Ask for it: How women can use the power of negotiation to get what they really want. New York: Bantam.
-
-Babcock, P. (2008). Elder care at work. HR Magazine, 53(9),
-
-111–118.
-
-Babcock, P. (2005). Find what workers want. HR Magazine,
-
-50(4), 51–56.
-
-Bacal, R. (2004). Th e manager’s guide to performance reviews.
+Baba, V. V., & Jamal, M. (1992). How much do we really know

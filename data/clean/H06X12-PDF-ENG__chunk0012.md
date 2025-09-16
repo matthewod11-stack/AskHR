@@ -1,19 +1,29 @@
-## Between electronic screening and recruiters less familiar with
+---
+source_path: H06X12-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9bb5c1ed1843204add2720d7f66013895c975b24
+title: H06X12-PDF-ENG
+---
+## HBR / Digital Article / A New Way to Explain the Pause in Your Career
 
-relauncher proﬁles and resumes, it is not uncommon for recent
+what happened, too. We contacted the employer, a long-time partner
 
-volunteer experiences and coursework to be mistaken for current work
+of ours. They looked more closely at Simone’s excellent technical
 
-experience, instead of a valid career break. There’s an irony here: by
+credentials, her eﬀorts to stay current with technology, and her long
 
-taking steps to camouﬂage their career breaks on resumes, job seekers
+career break, and she ended up receiving an oﬀer. If Simone hadn’t
 
-are inadvertently setting themselves up for rejection by employer career
+pushed back, she would not have been hired — and the employer would
 
-reentry programs because their career breaks are not obvious enough.
+have missed out on an outstanding candidate.
 
-Now LinkedIn has given relaunchers the perfect mechanism with which
+Why was she rejected? For the period since 2015, Simone’s resume
 
-to call out the career break on their LinkedIn proﬁles and employers the
+showed volunteer work and recent technical coursework, but did not
 
-means to avoid missing another Simone.
+clearly state that she had taken a career break. Newer recruiters on the
+
+employer’s team who hadn’t been fully trained to spot the resumes with
+
+career breaks missed that Simone was eligible.

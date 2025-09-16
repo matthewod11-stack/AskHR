@@ -1,17 +1,13 @@
-# in a leader?
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25bc9be2cfc969dfe7ee0b4b7f12ec2e3c65bde6
+title: H08HJ8-PDF-ENG
+---
+# yourself:
 
-- In what ways, if any, do I feel threatened, unsupported, or overlooked?
+- Is this a task issue (I don’t agree with how they do things) or a
 
-Answer honestly — even if your insights about yourself feel
+personality issue (I don’t like this person’s style)?
 
-unﬂattering. With clarity around the root cause, you are better
-
-positioned to identify next steps.
-
-Own your part.
-
-It’s rare that situations are fully one-sided. Emotionally mature leaders
-
-possess the ability to take ownership and responsibility for the part
-
-they play in a dynamic. For example, if they notice that they react
+- Is my manager truly incompetent or just diﬀerent than what I expected

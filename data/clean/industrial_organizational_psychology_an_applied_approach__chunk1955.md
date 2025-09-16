@@ -1,9 +1,27 @@
-# Evaluation Criteria
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7c99cafbabc5de46460036d03f31ffad22670cee
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Experimental group: Pretest → Training → Posttest Pretest → Posttest Control group:
 
-In the previous section, we discussed research designs for evaluating training. In each design, a pretest and posttest were included. This section will discuss the types of criteria that can be used for these pretests and posttests. There are six levels at which training effectiveness can be measured: content validity, employee reactions, employee learning, application of training, business impact, and return on investment (Phillips & Stone, ).
+The big advantage this second design has is that it allows a researcher to look at the training effect after controlling for outside factors. For example, after going through a training program, employees at R. R. Donnelley & Sons increased their annual commissions by $,, and the company increased profits by $ mil- lion. The company was obviously pleased but was worried that the increased per- formance could have been due to something other than training. So it compared the results with a control group of employees who had not received training. The commissions of the control employees increased by $, over the same period. Thus, the net effect of the training was still sizable—$, per employee—but not as high as the $, originally thought. The control group allowed the company to control for such factors as increased sales agent experience and new company promotions (Montebello & Haga, ).
 
-Content Validity At times, the only way that training can be evaluated is by comparing training content with the knowledge, skills, and abilities required to perform a job. In other words, the content validity of the training can be examined. For example, if a job analysis indicates that knowledge of electronic circuitry is necessary to per- form a job, then a seminar that is designed to teach this knowledge would have content validity. Although content analysis may ensure that a training program is job related, it still does not indicate whether a particular training method is effec- tive. But if a training program is content valid and is conducted by a professional trainer who can document previous success with the method in other organiza- tions, it may be a safe assumption that the training program will be successful. Keep in mind, however, that making such an assumption is acceptable only when actually evaluating the effect of training is not possible because there are too few employees for a proper analysis or there are financial or political constraints on conducting a proper evaluation.
+Even though this design is an improvement on the first, it too has its draw- backs. First, except for training manipulation, it is almost impossible to treat a control group the same as the experimental group. Control groups often consist of workers at other plants or on other shifts at the same plant. Such groups are used because there often is no alternative. But the fact that they are in different environments reduces confidence in the research findings.
 
-Employee Reactions The most commonly used method to evaluate training is measuring employee reactions to the training (Sitzmann, Brown, Casper, Ely, & Zimmerman, ). Employee reactions involve asking employees if they enjoyed the training and learned from the training. These ratings tend to be most influenced by the trainer’s style and the degree of interaction in the training program, but are also influenced by the motivation of the trainee prior to training as well as perceptions of organizational support for the training (Sitzmann et al., ). Employee reactions are important because employees will not have confidence in the training and will not be motivated to use it if they do not like the training process. However, even though positive employee reactions are necessary for training to be successful, positive employee reactions do not mean that training will lead to changes in knowledge or performance (Pfau & Kay, b).
+Even if employees in the same plant on the same shift can be randomly split into control and experimental groups, problems will still exist. The most glar- ing of these involves the possibility that because the two groups are close to one another, the training effect for the experimental group will spill over to the control group. Employees in the control group also may resent not being chosen for train- ing. This resentment alone may lead to a decrease in performance by employees in the control group. Finally, it is possible that the untrained employees will pres- sure the newly trained employees to revert to the “old way” of doing things.
 
-Because trainee reactions constitute the lowest level of training evaluation, they can often be misleading. For example, most seminars conducted by outside consultants are informative and well presented, so employee reactions are almost
+With both of the above designs, the pretest itself presents a problem. That is, the mere taking of a test may itself lead to increases in performance. Because of this, a rather complicated method called the Solomon four-groups design can be used (Campbell & Stanley, ). With this design, one group will undergo training but will not take the pretest, a second group will undergo training but will take the pretest, a third group will not undergo training but will take the pretest, and a fourth group will neither undergo training nor take the pretest. The diagram for this design is as follows:
+
+Training → Posttest Group  Group  Pretest → Training → Posttest Group  Pretest → Posttest Group  Posttest
+
+designing and evaluating training systems
+
+319
+
+320
+
+chapter 
+
+This design allows a researcher not only to control for outside effects, but also to control for any pretest effect. This is the most scientifically rigorous of the research designs used to evaluate training, but even this has a serious drawback: It is often not practical. That is, four groups of employees must be used, two of which do not receive training. Thus, to use this design at one organization or plant, ideally a relatively large number of employees must be available and kept from discussing the training with one another.

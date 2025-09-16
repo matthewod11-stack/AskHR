@@ -1,5 +1,13 @@
-# A President's Perspective
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: f0c11908bccbb5a29f5bdd8f12decd836ae113d1
+title: document_resume
+---
+# Appoint a project coordinator.
 
-job by "outside experts" will have little Lredlbility with the administration and support staff and practically none with the faculty. It is the institution, not the consultants, who have to live with the results.
+Conduct a needs assessment and determine the expertise required.
 
-Before the start of the project, hold a round table discussion with the consultants. Discuss with them the purposes you intend to accomplish, the funds available, services the institution will provide, documentation to be provided, pilot testing. suggested methods and techniques for various job families, follow -up activities such as rater training, validity studies, legal defense (expert witness) evaluation, and similar issues. Moreover, recognize that an undertaking of this magnitude Will not be completed within a short time-frame. Participatory' type involvement requires time and an abundance of patience.
+In selecting consultants, identify if possible persons with both professional expertise and successful experience in an educational setting.
+
+Even if all or most of the technical assistance is obtained from consultants, it is neither necessary nor desirable to relinquish control of the project. A "lock and key"

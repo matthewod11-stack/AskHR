@@ -1,5 +1,25 @@
-# HBR / Digital Article / Designing Generative AI to Work for People with Disabilities
+---
+source_path: H07RKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dd47ee0ab9a22881941582831fb9c2330a070e3
+title: H07RKP-PDF-ENG
+---
+## HBR Staff; solarseven/Getty Images; Unsplash
 
-your company and society. In this article, I explain those beneﬁts and
+While trust is taking top billing in many discussions about generative
 
-oﬀer some essential guidelines to building inclusivity into the design of
+AI’s design and uses, it’s also important to bring inclusivity and
+
+accessibility into the thick of things early on. That means ensuring that
+
+individuals with disabilities themselves play an active role in shaping
+
+the technology’s evolution, particularly as it pertains to opening job
+
+opportunities and carrying out tasks. The beneﬁts of doing so will lift
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

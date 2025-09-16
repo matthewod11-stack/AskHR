@@ -1,11 +1,27 @@
-## the profession advancement of employees as a mediating variable.
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: a6e6475b1a21fe49e3d523ebb9ba995c530ea0f1
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# 3.24 Conclusions:
 
-In the end, from the paper the overall achievements indicate the PMP and PIP strategy
+The City Bank Ltd. is improving and holding decent rates of piece of the overall industry in
 
-enables the CBL'S agent to think about employee's individual performance, which is if that
+financial area. CBL offers types of assistance customized to the particular necessities of the
 
-specific representative is proceeding as shown by the bank's target or mission statement.
+clients in the zone of exchange, comers and industry, other than the homegrown organization.
 
-Likewise, these approaches engage CBL to think about the aptitudes the different employees
+While administrations like Credit Cards, ATMs and SWIFT installment frameworks are now
 
-have and therefore additionally the bank can set up a strategy to his/her particular destinations
+set up, the bank intends to present Real Time Online Integrated Banking System with all
+
+cutting edge conveyance diverts later on. All of these achievements are happening because of
+
+adopting a winning culture which has been insured by making a human asset so that certified
+
+representatives can create ideal performance. The purpose of the paper was to discover
+
+human asset that can improve performance by improving the performance management
+
+system of banking employees and position of employees in the opportune spot just as through

@@ -1,11 +1,11 @@
-# performance dimensions.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e7d50c72c8c86865acde6aee9ebcd3fe410cc49d
+title: performance_management_3rd_edition_by_aguinis
+---
+# (cid:2) Gather information about a performance problem and understand which of the
 
-(cid:2) Understand that performance should be placed within a context: a performer in a
+three main determinants of performance need to be addressed to solve the problem.
 
-specific situation engaging in behaviors leading to specific results.
-
-(cid:2) Adopt a behavior approach to measuring performance, which basically focuses on
-
-how the job is done and ignores the performer’s traits and results produced. (cid:2) Adopt a results approach to measuring performance, which basically focuses on the outcomes of work and ignores the performer’s traits as well as the manner in which the work is done.
-
-87
+(cid:2) Design a performance management system that includes both task and contextual

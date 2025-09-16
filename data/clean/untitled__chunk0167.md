@@ -1,5 +1,11 @@
-## The Study of Nonhumans: Animal Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 980b6669d90bdad94fcc5b74f18cbbc696b5cece
+title: untitled
+---
+## The Psychological Laboratory and the Psychological Experiment
 
-Darwin’s theory of evolution had raised questions about the adaptive utility of consciousness; the relation of human to animalancestryhadraisedissuesofwhetherthereareinstincts in humans and whether animals exhibited human intellectual capacitiesandconsciousnessinadaptingtochangedorchang- ing environments. Learning capacities and consciousness seemed in turn to depend upon the complexity of the nervous system: “If there is a Comparative Anatomy there is also a ComparativePsychology”(Chadbourne,1872,p.22).George
+In 1910, Helen Thompson, writing under her married name, Helen Thompson Woolley, reviewed the literature on sex dif- ferences and asserted, “There is perhaps no ﬁeld aspiring to be scientiﬁc where ﬂagrant personal bias, logic martyred in the cause of supporting a prejudice, unfounded assertions, and even sentimental rot and drivel, have run riot to such an extent as here” (Woolley, 1910, p. 340). Similar conclusions could have been drawn about comparisons among races begun before the development of evolutionary theory. These comparisons had also served to justify a hierarchy that placed Caucasians in a superior position, and later studies under the aegis of evolutionary theory continued to be carried out and interpreted in terms of long-held cultural biases (see R. Guthrie, 1998).
 
-13
+Inﬂuenced by Cattell and Hall’s child study movement, Lightner Witmer (1867–1956), attempted to put performance on laboratory tasks to practical use in the new discipline that he labeled “Clinical Psychology” (McReynolds, 1996). The apparatus and methods of the laboratory experiment were successful in assessing differences among individuals but proved to be of little value for Witmer’s purposes (McReynolds, 1996). The failure of laboratory tasks for these applied ends led, in the case of intelligence testing, to the reﬁnement and development of tests modeled on those of Alfred Binet and, in Witmer’s case, to the search for more suitable methods for assisting individuals. These efforts also led to attempts to identify characteristics of individuals that, like intelligence, were both measurable and offered promise of relevance, such as personality assessment (Allport, 1937), attitude and aptitude measures, and clinical diagnostic tests (Gregory, 1992). For many psychologists, individual differ- ences were a distraction to the understanding of the general principles governing mind, while for others, the understand- ing of the individual mind was the most interesting task for psychology. The difference in emphasis and the somewhat separate paths of development of the two pursuits within psy- chology came to be seen as the two disciplines of scientiﬁc psychology (Cronbach, 1957).

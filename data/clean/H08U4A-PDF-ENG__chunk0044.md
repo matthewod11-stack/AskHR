@@ -1,51 +1,25 @@
-## HBR / Digital Article / Why Kindness Isn’t a Nice to Have
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ffece918af92a3292dbf8d8b46376b2ab6de2ec
+title: H08U4A-PDF-ENG
+---
+## by Press Ganey, a healthcare performance-improvement company
 
-- My manager treats employees with respect.
+that specializes in measuring and improving patient, employee, and
 
-- This organization cares about patients.
+consumer experiences. These include healthcare employees’ feelings
 
-- My manager encourages teamwork.
+about being respected and involved, their sense of equity and
 
-- My co-workers value employees from diﬀerent backgrounds.
+belonging, and perceptions of safety culture. These are items that reﬂect
 
-- Employees can report mistakes without fear.
+environments where kindness is present. Survey items—rated on a scale
 
-Customer experience data can complement employee data. In the
+of 1 to 5, from strongly disagree to strongly agree—include the following:
 
-same survey, patient experience indicators include their perceptions of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-whether they were treated in a caring and compassionate manner, and
+10
 
-providers’ communication practices. Key indicators include:
-
-- Staﬀ worked well together to care for me.
-
-- Staﬀ cared about me as a person.
-
-- Staﬀ addressed my emotional needs.
-
-- Nurses treated me with courtesy and respect.
-
-- Care provider showed concern for my questions/worries. Physicians
-
-listened carefully to me.
-
-In Google’s Project Aristotle, internal staﬀ surveys measured staﬀ
-
-behaviors that we see as markers for kind and respectful team cultures
-
-such as listening without interrupting, including others in decision-
-
-making, accepting and acting on honest feedback, and giving people
-
-in the team equal opportunities to speak and share ideas. Measuring
-
-these behaviors makes it clear that they’re required, not optional.
-
-Benchmarking such data also helps teams and individuals understand
-
-how their performance compares to others. It can help teams to
-
-reﬂect on what they are doing well and what they can do even better.
-
-Measuring kindness makes it visible and reframes it as a core value of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,13 @@
-## their workplace environments physically and psychologically safe.
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: efd83ee35e9f6ea8e04affc05f1313e08f20be18
+title: R2405H-PDF-ENG
+---
+# Sharon Beals
 
-And yet considerable evidence suggests that most companies
+Safety is universally regarded as an indispensable right for customers
 
-mismanage safety. For all the policing and investment in compliance,
+and employees alike. Government agencies exist to enforce standards,
 
-products are frequently recalled, and workplace accidents continue
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and ﬁrms spend millions every year testing their products and making

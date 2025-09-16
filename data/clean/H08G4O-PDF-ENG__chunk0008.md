@@ -1,7 +1,11 @@
-## founders, investors, CEO successors, and portfolio talent leaders.
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae99f63800a3ac59742e8f2dd18bfda8f50febc8
+title: H08G4O-PDF-ENG
+---
+## more than 1,400 data points from deep assessments of 50 successful
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+founder CEOs and 58 non-founder CEOs in private equity–backed
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+companies. We also conducted qualitative interviews with dozens of

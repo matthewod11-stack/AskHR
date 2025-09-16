@@ -1,13 +1,41 @@
-## HBR / Digital Article / When “Yes, and…” Backfires
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb82081a4e9634da7e8ec4690d54c1c8f9f8b569
+title: H08UTW-PDF-ENG
+---
+# one another down.
 
-You can say, “Yes, I like that you’re thinking through our challenges with
+How to avoid this mistake: Your role as a leader is to surface and validate the value in each
 
-new personnel, and that you want to make sure new employees get the
+contribution (the “yes”) and then steer the conversation forward by
 
-training they need.”
+building on that value or tying it to the next point—whether you’re
 
-You can then follow up with: “Extending onboarding is one idea that
+agreeing, elaborating, or oﬀering a respectful challenge (the “and”).
 
-could have merit. Let’s also consider a range of possibilities to make
+The value your team members oﬀer could be passion, a fresh angle, or a
 
-sure we’re not missing anything else. What other ways could we achieve
+commitment to a shared goal. Occasionally, you might need to reframe
+
+an idea to explain its merit to the larger group. But even when you
+
+have to turn down an idea, starting with a “yes, and…” shows you’ve heard it and respect it. That aﬃrmation invites honest dialogue—the
+
+raw material teams need to innovate and creatively problem-solve.
+
+As an example, let’s say you’re in a meeting with HR leaders. You’re
+
+discussing your current onboarding process when someone suggests an
+
+idea you don’t agree with: “I think we should extend onboarding from
+
+two weeks to a full month. Right now, it feels too rushed, and new
+
+employees aren’t getting enough training.”
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

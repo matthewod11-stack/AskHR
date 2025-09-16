@@ -1,3 +1,7 @@
-# Average number of inside
-
-1, ranging from 0 to 10, 70 per cent of boards had at least 20 per cent non-
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 4502fa327834713ee7bb4b636d276e1e99d2bf0a
+title: original_article
+---
+# directors

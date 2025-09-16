@@ -1,11 +1,19 @@
-## For instance, the French luxury brand Cartier designs and manufactures
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1bca7cc5ec5f13131a2ec2194b8a76715e3667e0
+title: H06XTG-PDF-ENG
+---
+## HBR / Digital Article / How Much Autonomy Should You Give Your Global Teams?
 
-its products exclusively in France and Switzerland, and so it made
+the resources required to design and produce luxury products are
 
-sense for the company to keep its governance structures centered on its
+not located in these regions (e.g., specialized facilities, expertise,
 
-headquarters. In addition, Cartier’s key executives based in the Middle
+etc.). Luxury brands also typically depend heavily on the strong,
 
-East (including its CEO and head of HR) are Cartier veterans originally
+centralized brand of the parent company, and so it makes sense for
 
-from Paris, helping to ensure the company’s values and norms are
+these organizations to integrate their regional teams closely with their
+
+headquarters to ensure this key asset isn’t diluted.

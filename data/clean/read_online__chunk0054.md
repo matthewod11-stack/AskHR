@@ -1,5 +1,13 @@
-# Stress and engagement
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: bc9f086b3ddc8139a16fb76098b7938f21c51d4a
+title: read_online
+---
+# Media
 
-The Subjective Job Stress Scale (SJSS) was used to measure individual job stress (Motowidlo, Packard & Manning 1986). This scale included Likert-type scale items that sampled responses ranging from ‘strongly disagree’ to ‘strongly agree’. The alpha for this scale was 0.80. The Employment Engagement Survey (Wilson 2009) was utilised to measure employee engagement. These items have demonstrated reliability in Wilson’s previous study, with an alpha of 0.77. The alpha found for this study is 0.80.
+11
 
-Open Access
+3
+
+individual’s satisfaction with a broad range of influences. This scale has previously been used in the South African context with acceptable reliability (for example, by Visser and Coetzee 2005, who obtained an alpha of 0.88 for these items). The alpha for this item in this study was 0.877.

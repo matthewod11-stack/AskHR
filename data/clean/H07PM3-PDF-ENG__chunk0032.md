@@ -1,7 +1,17 @@
-# the talk” on inclusivity.
+---
+source_path: H07PM3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27c41de36a056e2e96a02d6251b32286e217fa9f
+title: H07PM3-PDF-ENG
+---
+## their day-to-day interactions and decision-making processes. More
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+generally, organizations can establish conﬁdential feedback channels
 
-7
+or suggestion boxes where support staﬀ and colleagues can provide
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+input on potential improvements to policies and practices to avoid
+
+paternalistic behaviors. By regularly reviewing and taking action based
+
+on this feedback, organizations demonstrate their commitment to “walk

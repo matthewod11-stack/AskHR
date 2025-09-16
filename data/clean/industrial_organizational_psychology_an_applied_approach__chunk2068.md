@@ -1,11 +1,11 @@
-# Type of Incentive Used
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7011e06625026b3643173c3fca8c68b078310cd9
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Contingency of Consequences
 
-Obviously, it is important to reward employees for productive work behavior. But, as you learned in the discussion of Maslow’s hierarchy, different employees have different values, which is why supervisors should have access to and be trained to administer different types of reinforcers. For example, some employees can be rewarded with praise, others with awards, others with interesting work, and still others with money. In fact, a meta-analysis by Stajkovic and Luthans () found that financial, nonfinancial, and social rewards all resulted in increased levels of performance. It is important to conduct periodic employee surveys about what employees want because supervisors and employees often have different ideas about what is rewarding and important (Babcock, ).
+If it is not possible to immediately reward or punish a behavior, it should at least be made clear that the employee understands the behaviors that brought reward or punishment. To return to our example of the waiter, if he is told the reason for the size of his tip, he will be better able to change his behavior. Have you ever given a waiter or waitress a large tip even though the service was terrible? Most of us have. When this happens, however, the waiter or waitress is rein- forced for poor performance and has no incentive to improve unless poor per- formance has its own consequence. In a similar fashion, if the waiter has done an outstanding job but has received a small tip, the probability of his repeating his outstanding performance is reduced. Furthermore, when tips are pooled at restaurants so that each employee gets a share of all tips received, an individual employee’s rewards are not as contingent on his own behavior as when tips are not pooled.
 
-A good example of the use of a variety of incentives can be found at LaPorte Regional Health System. As part of their award-winning “Caught You Caring” program, LaPorte uses public recognition, gift certificates, small gifts, and a vari- ety of other awards to reward employees who engage in excellent patient care. This use of rewards is one of the reasons that Laporte has a turnover rate of only % in an industry that has an % national turnover rate (Renk, ).
-
-The need for variety in rewards is also true of punishment. Threatening an employee with a three-day suspension will be effective only if he needs the money or doesn’t like being off work; yelling at an employee will be effective only if the employee does not like being yelled at; and threatening to not promote an employee will be effective only if the employee values promotions and perceives he has a reasonable chance of getting one.
-
-employee motivation
-
-345
+The point of these examples is that reward and punishment must be made contingent upon performance, and this contingency of consequence must be clear to employees if we want them to be motivated (Podsakoff, Bommer, Podsakoff, & MacKenzie, ). If the reward or punishment cannot be administered immedi- ately, the employee must be told the purpose of the consequence so that the link between behavior and outcome is clear.

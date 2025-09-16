@@ -1,17 +1,23 @@
-# Contracts
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 27bd6fc7494e991c66d35536d6143ad5a15a1eae
+title: agents_companion
+---
+# From agents to contractors
 
-The key idea of contractors is to specify and standardize the contracts between the
+The common interface to define AI agents across various tools and platforms today is very
 
-requester and the agents, making it possible to:
+simple, and usually includes specifying the goal, some textual instructions, the tools that the
 
-- 1. Define the outcomes as precisely as possible, similarly to what we would do in a
+agent can use, and a set of examples. While this might be sufficient to prototype demos, it
 
-real world scenario when agreeing on a service with a company we are contracting to
+leads to potentially underspecified definitions, and might be one of the leading reasons that
 
-do something for us. This allows the agent (contractor) to validate against the desired
+AI agents can struggle to get from prototype-to-production.
 
-outcomes and iterate until the desired objective is achieved.
+We propose to evolve the Agent interface to evolve them into ”Contract adhering agents”
 
-- 2. Make it possible to negotiate the task as well as clarifying and refining it, in order
+which are aimed at solving complex tasks using AI Agents, more specifically in contexts
 
-to avoid any ambiguity in the definition, and fill any gap in common understanding of
+where stakes are high.

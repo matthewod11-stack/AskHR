@@ -1,11 +1,9 @@
-# another.
+---
+source_path: H052Q1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a06ab149c43b1552bce1f27447c5eb897bfc79f2
+title: H052Q1-PDF-ENG
+---
+## markets. Increasingly, as a result, managers and investors from different
 
-In a study published in the most recent issue of the Accounting Review, we
-
-examined to what extent the cultural background of managers affects how
-
-well they communicate with investors. Drawing on research from cultural
-
-psychology, we began by positing that executives whose ancestry is more
-
-individualistic (primarily Anglo-Saxons) use more optimistic and self-
+cultural backgrounds now need to communicate effectively with one

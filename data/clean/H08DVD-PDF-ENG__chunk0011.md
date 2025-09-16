@@ -1,11 +1,13 @@
-## HBR / Digital Article / Research: The Long-Term Costs of Layoffs
+---
+source_path: H08DVD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3463b5ce7a5f0e9d88ab5192befb7b6cf6a9ee9a
+title: H08DVD-PDF-ENG
+---
+# backﬁll essential roles.
 
-For employees who make it through a time of layoﬀs, their commitment
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-to staying with the company continues to drop over time, and this
+3
 
-sentiment is a strong predictor of actual turnover.
-
-So layoﬀs could actually set your company back a year or more
-
-on engagement and morale, something many businesses can’t aﬀord
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

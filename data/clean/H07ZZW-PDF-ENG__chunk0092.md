@@ -1,9 +1,27 @@
-## government and account for the level of attribution and leverage
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b13fdecd91e1eb82b34d9083df7cacce33d6030
+title: H07ZZW-PDF-ENG
+---
+## help at this particular moment, for several reasons.
 
-your corporation has in causing and resolving negative impacts.
+Most important, the Guiding Principles focus on individual agency,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+bodily autonomy, and dignity — they don’t attempt to impose values
 
-16
+on people who may not share them. A key advantage of the human
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+rights platform is that it encompasses the spectrum of economic, civil,
+
+political, security, and environmental issues. In 2022, for instance, the
+
+UN General Assembly recognized the right to a clean, healthy, and
+
+sustainable environment. Next, your corporation’s impact on human
+
+beings is at the very root of your legal, operational, and reputational
+
+risks, even if how those risks might manifest is unpredictable. The
+
+Guiding Principles consider the respective roles of business and

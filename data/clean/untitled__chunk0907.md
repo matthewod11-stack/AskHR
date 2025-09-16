@@ -1,5 +1,9 @@
-## tier? Creative Science and Technology, 2, 16–29.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 61cb82bdb6f70feeda3ff2744f4d37c9fa4c5c14
+title: untitled
+---
+## achievement? Harvard Educational Review, 39, 1–123.
 
-Jensen, A. R. (1982). Reaction time and psychometric g. In H. J. Eysenck (Ed.), A model for intelligence. Heidelberg, Germany: Springer-Verlag.
-
-Jensen, A. R. (1998). The g factor: The science of mental ability.
+Jensen, A. R. (1979). g: Outmoded theory of unconquered fron-

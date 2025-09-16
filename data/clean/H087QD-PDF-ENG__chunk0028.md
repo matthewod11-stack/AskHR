@@ -1,1 +1,11 @@
-## Ginnie Carlier is EY Americas Vice Chair of Talent.
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f3f687e3e30c4bed5ceb244d2d481ed382e961e
+title: H087QD-PDF-ENG
+---
+# global EY organization.
+
+This article was originally published online on May 8, 2024.
+
+Heidi Grant is a social psychologist who researches, writes, and speaks about the science of motivation. Her books include Reinforcements: How to Get People to Help You, Nine Things Successful People Do Differently, and No One Understands You and What to Do About It. She is the Director of Behavioral Science & Insights, EY Americas.

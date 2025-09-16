@@ -1,9 +1,17 @@
-# lowing:
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 60a332179e5dbd9d309a69ac71645e4eb7117dd1
+title: document_resume
+---
+# Critical Incidents
 
-Was absent from scheduled class without legitimate rear on and with no notice tc, students (Instructor).
+Critica: incidents are reports made by know ledgeable observers of at tion taken ny individuals who were especially effective or neffeetive in accomplishing their jobs. The critical incident technique, or CIT, was developed in 1954 by John C. Flanagan.9 Critical incidents are recorded by superiors as they happen, thus are short and to the point, and they normally consist of a single sentence. The following are examples of critical incidents that illustrate effective performance:
 
-Made several errors in computing students' final grades, resulting in complaints to Dean and reissuing of grade reports by registrar (Instructor).
+Conducted formal review sessions outside regular class hours, scheduled sessions so that maximum number of students could attend (Instructor).
 
-Failed to hold performance appraisal conference with faculty member (Division Chair).
+Developed reading list of matenals contained in library to support course objec- tives; keyed material to textbook (Instructor).
 
-Critical incidents provide useful information, particularly when they are collected and placed in appropriate categories. For example, an instructor whose critical inci- dents reveal a pattern of innovation, such as developing a reading list, might be consid- ered for a promotion to a position where this characteristic could be utilized more fully. The main disadvantage, of the critical incident technique is that it is time-consuming and burdensome and it may be neglected by supervisors.10
+Prepared for and conducted class when instructor was hospitalized unexpect- edly. Covered all scheduled material for 2-week period (Division Chair).
+
+Critical incidents also describe ineffective or poor performince such as the fol-

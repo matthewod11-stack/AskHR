@@ -1,13 +1,27 @@
-## HBR / Digital Article / How to Talk to Your Kids About Layoffs
+---
+source_path: H07F0V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7173ebe6019da41c6f28b6b60197aec9a93b8c6
+title: H07F0V-PDF-ENG
+---
+# Amanda Berglund
 
-If this is you, you’re probably worried about a lot of things: your
+We all know that layoffs are hard. They create stress, worry, and
 
-mortgage or rent, grocery bills, and a job hunt, among other things. And
+ﬁnancial instability, not to mention grief over a job that you loved, or
 
-the stress only compounds when we realize this impacts not just our
+colleagues you miss. Unfortunately, layoﬀs are fairly common. In the
 
-own life but also each member of our family. The stakes are particularly
+U.S., approximately 40 percent of Americans have been laid oﬀ at least
 
-high when it comes to your kids. How will your layoﬀ impact them? You
+once in their career. You don’t even have to be laid oﬀ to feel anxious
 
-might suddenly be worried about paying for soccer registration—and
+about it; simply knowing that you could be next, or saying goodbye to
+
+colleagues can spark layoﬀ anxiety.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

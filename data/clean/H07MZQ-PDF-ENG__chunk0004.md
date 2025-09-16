@@ -1,5 +1,7 @@
-## How to Support Parents of Neurodivergent Children at Work
-
-Two professionals with neurodivergent children share their experiences navigating their parenting journeys. by Ben Waber and Kalifa Oliver
-
-Published on HBR.org / May 30, 2023; updated June 27, 2023 / Reprint H07MZQ
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed569167eafe2b83a58a976f2ee96368f0c0128c
+title: H07MZQ-PDF-ENG
+---
+# HBR / Digital Article / How to Support Parents of Neurodivergent Children at Work

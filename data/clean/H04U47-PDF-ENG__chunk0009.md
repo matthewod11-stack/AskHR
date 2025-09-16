@@ -1,17 +1,25 @@
-# your abilities.
+---
+source_path: H04U47-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85f468ac7f62c0670389dd06dc95906acd691956
+title: H04U47-PDF-ENG
+---
+## HBR / Digital Article / To Seem More Competent, Be More Confident
 
-A pioneering study from 1982 explored this connection between
+But don’t results mostly speak for themselves? They don’t, even when
 
-conﬁdence and perceptions of competence. Psychologists Barry
+it’s all about numbers. Consider a salesman: his sales may rise, but they
 
-Schlenker and Mark Leary asked 48 subjects to rate the competence
+could have risen without his eﬀort due to the superior quality of the
 
-(among other characteristics) of 60 imaginary people who were facing
+product or marketing eﬀorts that ﬁnally bore fruit. If sales go down, it
 
-a tennis tournament or a class ﬁnal examination. Subjects received two
+could have been the result of increasing competition.
 
-crucial pieces of information: they learned what the imaginary people
+It’s often diﬃcult to disentangle actual drivers of performance, including how much luck and diﬃculty level played a role. Because
 
-predicted their performance to be — from very poor to very good; then
+of this, people tend to evaluate competence based on other factors,
 
-they learned the people’s “actual” performance. After that, they had to
+meaning you have to do more than produce results to convince them
+
+of your expertise. One way to do this is by demonstrating conﬁdence in

@@ -1,15 +1,13 @@
-## their team members with the added burden that these expressions can
+---
+source_path: H08PID-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e378e1e44dce3c673624778c8ad002d135ac8506
+title: H08PID-PDF-ENG
+---
+# employees for projects of any length.
 
-have powerful impacts (intended and unintended) on recipients. Given
+. . .
 
-this, it is important that leaders are thoughtful about their emotional
+A key aspect of leadership in a team or organization is a leader’s
 
-leadership style and consider timing as a central dimension that shapes the eﬀect of their emotional expressions. By eﬀectively using
-
-more nuanced and timely emotional leadership styles, and considering
-
-both the timing and sequencing of emotional expressions over time,
-
-leaders can not only unlock performance potential, but also make team
-
-members feel a greater sense of worth and respect while performing at
+emotional leadership style. This involves expressing emotions towards

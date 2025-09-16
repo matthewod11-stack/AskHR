@@ -1,5 +1,11 @@
-# always completely happy
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: d495afe5efddfdfd35dbc6bb99dbbe01303e02dd
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# work in addition to financial riches
 
-▪ Thinking is a crucial component of happiness; if done properly, improving our
+▪ Happiness is good for health, relationships, and work
 
-cognition may also improve our happiness
+▪ Setting realistic goals and expectations can be helpful for happiness. No one is

@@ -1,7 +1,13 @@
-# than just a buzzword.
+---
+source_path: H07PM3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0ccf0b5a6695a44af436378c18e7887f81e414b
+title: H07PM3-PDF-ENG
+---
+## Three Key Strategies to Tackle Benevolent Marginalization at Work
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+In creating inclusive workplaces, managers need to invest time
 
-5
+and resources in understanding and dismantling benevolent
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+marginalization to ensure that equality in organizations becomes more

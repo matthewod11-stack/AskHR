@@ -1,19 +1,11 @@
-# norms.
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f80fb126a55756ff5b25f9cc6ce22a9af032f84
+title: H088OR-PDF-ENG
+---
+## HBR / Digital Article / Hybrid Work Has Changed Meetings Forever
 
-“No-participation rates” in small group meetings are increasing.
+otherwise. Other factors are at play as well, but the takeaway is that in-
 
-In addition to meeting volume, collaboration data can measure how
-
-frequently the features of virtual meeting platforms are utilized, such
-
-as attendees enabling their cameras, microphones, and recording
-
-capabilities. Among these features, it can measure how many
-
-participants stayed muted for the entirety of a meeting, which we refer
-
-to as the “no-participation rate.” This behavior can be desirable for large
-
-meetings to reduce interruptions and background noise, but for small
-
-groups, it’s often an indication of a meeting that could have been an
+person collaborative behaviors are unlikely to return to pre-pandemic

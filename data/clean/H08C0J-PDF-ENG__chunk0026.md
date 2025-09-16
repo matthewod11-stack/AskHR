@@ -1,7 +1,15 @@
-## future and more-severe heat waves, ﬂoods, and other climate events
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aaa701d01036c182047f03c7a9eeb43e3af38f4a
+title: H08C0J-PDF-ENG
+---
+## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
 
-will aﬀect their business and workforce so that they can better prepare.
+Citigroup oﬀers a good example of this approach. They use heat maps
 
-Beyond Citi’s own facilities, this same heat map framework is applied
+to understand how climate change aﬀects both their portfolios and their
 
-to corporate and public sector portfolios with the potential to yield
+employees, including workers’ productivity and ability to get to work
+
+safely, and Citigroup has built a model that will help them predict how

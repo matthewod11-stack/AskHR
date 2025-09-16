@@ -1,7 +1,17 @@
-# on the same farm as the parent(s);
+---
+source_path: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department
+  of Labor.md
+pages: n/a-n/a
+chunk_id: 87e7d51135436edbf56c1163426501fc492262c4
+title: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department of
+  Labor
+---
+# Back to Top
 
-- 4. Minors under 12 years old may perform jobs on farms owned or operated by parent(s), or with a parent’s written consent,
+In farm work, permissible jobs and hours of work, by age, are as follows:
 
-outside of school hours in nonhazardous jobs on farms not covered by minimum wage requirements.
+- 1. Minors 16 years and older may perform any job, whether hazardous or not, for unlimited hours;
 
-Minors of any age may be employed by their parents in any occupation on a farm owned or operated by their parents.
+- 2. Minors 14 and 15 years old may perform any nonhazardous farm job outside of school hours;
+
+- 3. Minors 12 and 13 years old may work outside of school hours in nonhazardous jobs, either with a parent’s written consent or

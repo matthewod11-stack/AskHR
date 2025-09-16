@@ -1,15 +1,17 @@
-## Middle Managers Can’t Carry What Executives Won’t Model
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aadc48bae3bb25c025d462ea1e479164e4b1db35
+title: H08VNO-PDF-ENG
+---
+# Pro Tip
 
-In most organizations, culture ﬂows downhill—at least in theory. Senior
+Kill one popular perk this quarter. Use that budget to solve a known
 
-leaders announce a set of values or launch a new initiative, then step
+workﬂow or management pain point—something employees have been
 
-back. Middle managers are expected to translate intent into action,
+ﬂagging but leaders have been avoiding. Then tell people exactly why
 
-often without the training, authority, or consistency needed to succeed.
+you’re doing it. Signal that culture isn’t just about caring—it’s about
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁxing what’s broken.

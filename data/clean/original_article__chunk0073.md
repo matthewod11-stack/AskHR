@@ -1,5 +1,7 @@
-# CQ
-
-A numeric measure of the director’s ability to adapt to and behave appropriately with regard to the cultural and social norm characteristics of each board
-
-14
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: a9f18080e5c62f1a0462272391836ed43dad61de
+title: original_article
+---
+# Independent:

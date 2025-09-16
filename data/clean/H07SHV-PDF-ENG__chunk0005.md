@@ -1,5 +1,13 @@
-# friends
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27a9ac09916cc71d7460c011815782ac9b2948f7
+title: H07SHV-PDF-ENG
+---
+# years?
 
-Happiness is contagious, Brooks says, and just being in a happy person’s
+- The two traits of those who ﬁnd true happiness in their work
 
-vicinity can make you happier. “But,” he says, “even more contagious is
+- The diﬀerence between “deal friends” and “real friends”. The
+
+real kind are “beautifully useless” and you need them more than deal

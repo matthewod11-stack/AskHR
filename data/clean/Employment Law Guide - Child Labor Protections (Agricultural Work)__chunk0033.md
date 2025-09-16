@@ -1,11 +1,9 @@
-# wd=non_exempt)worker.
+---
+source_path: Employment Law Guide - Child Labor Protections (Agricultural Work).md
+pages: n/a-n/a
+chunk_id: 7ea69a08a42c05e9b708a9c54003ad46cde40c1a
+title: Employment Law Guide - Child Labor Protections (Agricultural Work)
+---
+# Recordkeeping
 
-There is no required form for the records. However, the records must include accurate information about the
-
-employee and data about the hours worked and the wages earned. The following is a listing of the basic
-
-payroll records that an employer must maintain:
-
-Employee's full name, as used for Social Security purposes, and on the same record, the employee's
-
-identifying symbol or number if such is used in place of name on any time, work, or payroll records
+Every employer covered by the Fair Labor Standards Act (FLSA) must keep certain records for each covered(/elaws/whd/ﬂsa/overtime/glossary.htm?wd=covered), nonexempt (/elaws/whd/ﬂsa/overtime/glossary.htm?

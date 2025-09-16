@@ -1,13 +1,13 @@
-# suite.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a3e7c7b4e23a8916402c9b86842a1479499e154
+title: H07RVB-PDF-ENG
+---
+# low as well.
 
-ADI IGNATIUS:
+It makes me kind of sad because I think that means there’s wasted
 
-You’re not saying that, oh, there must be many more who are in the
+talent, because I know in my community how many bright, creative,
 
-closet who aren’t comfortable coming out.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+innovative, talented people there are that deserve their shot in the C-

@@ -1,11 +1,19 @@
-## HBR / Digital Article / Research: The Benefits of a Pet-Friendly Workplace
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9299b7007e6bb6295f1af5593deb0e5d9f695fe2
+title: H07UT7-PDF-ENG
+---
+# cooperation and interpersonal trust.
 
-opening up opportunities for social interaction, and enhancing their
+Companion animals play an especially crucial role for employees
 
-sense of independence. As a side note, this is also (if not more so) true
+who have chronic health problems, disabilities, and mental health
 
-for service animals, who, of course, fall into a legal class of their own. In
+challenges, providing them with nonjudgmental companionship,
 
-short, welcoming pets can make the oﬃce a more social and inclusive
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-place, key conditions to foster creative collaboration.
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,17 @@
-## in-person work for those workplaces (and our society) to function. We
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b48078e66924f36cc5123a5559958c3fde2cb87
+title: H08AWG-PDF-ENG
+---
+## diﬀerent work arrangements and track changes in their satisfaction over
 
-have focused mostly on higher-wage jobs that can be made ﬂexible; that
+time. (We do think more experimentation of that sort would beneﬁt
 
-ﬂexibility matters for those employees. Finally, while we have generally
+the research literature on the future of work.) Another limitation that
 
-discussed the beneﬁts of ﬂexible work arrangements, it is possible that
+we mentioned earlier, but is worth repeating, is that the dynamics we
 
-there is such a thing as too much ﬂexibility. Some employees beneﬁt
+have written about do not generalize to all types of work. Some jobs
 
-from more structured work arrangements and mentoring opportunities,
-
-suggesting a need for both ﬂexibility and structured support even in
-
-remote work environments, as can be the case with employees starting
+simply cannot be made ﬂexible; there are essential jobs that require

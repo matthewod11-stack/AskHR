@@ -1,11 +1,21 @@
-# advance diversity and inclusion.
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3726807983b2358dcf8298f2f7660073297ce5fa
+title: H0893T-PDF-ENG
+---
+# HBR / Digital Article / Research: The Most Common DEI Practices Actually Undermine…
 
-Our ﬁndings underscore the urgency for organizations to reassess
+to use their limited resources on the most eﬀective strategies, like
 
-their management practices, prioritizing those that foster diverse
+employing Chief Diversity Oﬃcers, creating diversity task forces,
 
-representation and dismantling systemic barriers. By heeding evidence-
+and implementing formal mentoring programs. Companies should
 
-based insights, organizations can envision a future with diverse
+also expand family-friendly practices such as childcare, ﬂextime, and
 
-and inclusive workplaces while using science to guide the cultural
+parental leave. Importantly, diversity training should be revamped.
+
+Rather than focusing on legal repercussions and blaming employees
+
+for discrimination, training programs should empower employees to

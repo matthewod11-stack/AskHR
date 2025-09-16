@@ -1,15 +1,21 @@
-## members, and other important stakeholders?
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e2f1ea509812aea21da7331e75c02771cbfaa93
+title: H08HKF-PDF-ENG
+---
+## wide and simultaneous or b) sequentially by department/role?
 
-- 8. Have you designed an implementation playbook?
+- If a) will you do advanced training for all departments
 
-You need an RAI playbook that articulates how the strategic roadmap
+simultaneously, or is it only the general training module that is
 
-will be executed by each department, role, workﬂow, type of AI, and
+delivered simultaneously? Will you only require attestation or will
 
-type of AI interaction. The playbook should also include guidelines,
+you test whether they have the appropriate level of knowledge?
 
-checklists, tutorials, etc., to ensure adherence to the documented
+- If b), what’s the sequence/how will you prioritize? What milestones
 
-procedures. Key decisions include:
+must be hit to proceed to subsequent departments/roles?
 
-- How will you revise/recalibrate/customize workﬂows for each
+- Will you include vendors, suppliers, strategic partners, board

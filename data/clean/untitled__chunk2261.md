@@ -1,11 +1,13 @@
-# Merrill.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0468aa8c3c0ee821c0e831b961621343b54eb2ce
+title: untitled
+---
+## Brown v. Board of Education, 347 U.S. 483 (1954).
 
-Cahn, E. (1955). Jurisprudence. New York University Law Review,
+Buckhout, R. (1974). Eyewitness testimony. Scientiﬁc American,
 
-30, 150–169.
+231, 23–31.
 
-Cattell, J. M. (1895). Measurements of the accuracy of recollection.
-
-Science, 2, 761–766.
-
-Ceci, S., & Hembrooke, H. (Eds.). (1998). Expert witnesses in child abuse cases. Washington, DC: American Psychological Association.
+Burtt, H. E. (1931). Legal psychology. Indianapolis, IN: Bobbs-

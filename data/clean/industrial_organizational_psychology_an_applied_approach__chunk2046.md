@@ -1,11 +1,11 @@
-# Speciﬁ c
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f0d2cc029e391e52ba75493aa114f2f07d012d55
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Do Employees Have Achievable Goals?
 
-Properly set goals are concrete and specific (Locke & Latham, ). A goal such as “I will produce as many as I can” will not be as effective as “I will print , pages in the next hour.” The more specific the goal, the greater the productivity. To underscore this point, we will use an example involving pushups. If a person says he will do as many pushups as he can, does that mean he will do as many as he can until he tires? As many as he can before he begins to sweat? As many as he did the last time? The problem with such a goal is its ambiguity and lack of specific guidelines.
+To increase motivation, goal setting should be used. With goal setting, each employee is given a goal such as increasing attendance, selling more products, or reducing the number of grammar errors in reports. The first goal-setting study that caught the interest of industrial psychologists was conducted by Latham and Blades (). Their study was brought about because truck drivers at a logging mill were not completely filling their trucks before making deliveries. Empty space in the trucks obviously cost the company money. To increase each delivery’s load, the drivers were given specific weight goals and were told that they would be neither punished nor rewarded for reaching the goal. A signifi- cant increase in the average load per delivery resulted. Although this is the most celebrated study, goal setting has been shown to be effective in a wide variety of situations.
 
-Though setting specific goals makes sense, it is not always easy to do. Microsoft found that nearly % of the goals set by employees as part of their performance plans were not specific (Shaw, ). The results of focus groups
-
-338
-
-chapter 
-
-investigating this lack of specificity found that employees believed that with a constantly changing environment, it was difficult to set specific goals because the goals would need constant adjustment.
+For goal setting to be most successful, the goals themselves should possess certain qualities represented by the acronym SMART: specific, measurable, attainable, relevant, and time-bound (Rubin, ).

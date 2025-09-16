@@ -1,15 +1,7 @@
-# similarity in colors.
-
-However, we found that fewer than half the visualizations presented a
-
-horizontally oriented framework with clearly distinguished components
-
-and explicit interrelationships among them. But the most dramatic
-
-shortcoming was the absence of layering: Only 32% of ﬁrms provided
-
-extra layers of detail in their model. All told fewer than 20% of the
-
-visualizations—that is, just 32 of the 170 we looked at—made it easy
-
-for employees and investors to develop a clear understanding of the
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21b70322422bb789ae97126beb44c379d8e3a209
+title: R2504J-PDF-ENG
+---
+## connections among the parts of their models with arrows, overlaps, or

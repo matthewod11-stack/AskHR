@@ -1,45 +1,47 @@
-## Marks, M. A., Mathieu, J. E., & Zaccaro, S. J. (2001).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bac6fc42b5df0cc87d586b5f60e3bbc23613618a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# action. Boston: Allyn and Bacon.
 
-A temporally based framework and taxonomy of team processes. Academy of Management Review, 26(3), 356–376.
+Luna, T. D., French, J., & Mitcha, J. L. (1997). A study of USAF air traﬃ c controller shiftwork: Sleep, fatigue, activity, and mood analysis. Aviation, Space, and Environmental Medicine, 68(1), 18–23.
 
-Marks, M. L. (2003). Charging back up the hill: Workplace recovery after mergers, acquisitions, and downsizings. San Francisco: Jossey-Bass.
+Luoma, J., Flannagan, M. J., Sivak, M., Aoki, M., & Traube, E. C.
 
-Maroney. T. (2000, March 20). Web recruiting is ﬁ ne, but we like
+(1997). Eﬀ ects of turn-signal colour on reaction times to brake signals. Ergonomics, 40(1), 62–68.
 
-a job fair: Hurray for the real world. Fortune, 141(6), 236.
+Lykken, D. T., & Tellegen, A. (1996). Happiness is a stochastic phenomenon. Psychological Science, 7(3), 186–189. Lyons, P. (2008). Th e crafting of jobs and individual diﬀ erences. Journal of Business and Psychology, 23(1/2), 25–36. Mabe, P. A., & West, S. G. (1982). Validity of self-evaluation of
 
-Martell, R. F., & Borg, M. R. (1993). A comparison of the
+ability: A review and meta-analysis. Journal of Applied Psychology, 67, 280–296.
 
-behavioral rating accuracy of groups and individuals. Journal of Applied Psychology, 78(1), 43–50.
+Mackworth, N. H. (1946). Eﬀ ects of heat on wireless telegraphy operators hearing and receiving Morse messages. British Journal of Industrial Medicine, 3, 145.
 
-Martell, R. F., Guzzo, R. A., & Willis, C. E. (1995). A methodological and substantive note on the performance- cue eﬀ ect in ratings of work-group behavior. Journal of Applied Psychology, 80(1), 191–195.
+Mager, R. F. (1997). Preparing instructional objectives (3rd ed.).
 
-Martin, C. L., & Nagao, D. H. (1989). Some eﬀ ects of
+Atlanta, GA: Center for Eﬀ ective Performance. Mailhot, E. K. (1996). Incumbents as job experts: Eﬀ ects of individual and group characteristics on job analysis results. Unpublished doctoral dissertation, University of Connecticut, Storrs, CT.
 
-computerized interviewing on job applicant responses. Journal of Applied Psychology, 74, 72–80.
+Maiorca, J. (1997). How to construct behaviorally anchored
 
-Martin, D. C., Bartol, K. M., & Kehoe, P. E. (2000). Th e legal
+rating scales (BARS) for employee evaluations. Supervision, 58(8), 15–18.
 
-ramiﬁ cations of performance appraisal: Th e growing signiﬁ cance. Public Personnel Management, 29(3), 379–405.
+Major, B., Schmidlin, A. M., & Williams, L. (1990). General patterns in social touch: Th e impact of setting and age. Journal of Personality and Social Psychology, 58, 634–643.
 
-Martin, G. E., & Bergmann, T. J. (1996). Th e dynamics
+Malos, S. B. (1998). Current legal issues in performance
 
-of response to conﬂ ict in the workplace. Journal of Occupational and Organizational Psychology, 69(41), 377–387.
+appraisal. In J. W. Smither (Ed.), Performance appraisal: State of the art in practice (pp. 49–94). San Francisco: Jossey-Bass.
 
-Martin, J., & Stockner, J. (2000). Does the structured interview control for the eﬀ ects of applicant gender and nonverbal cues? Paper presented at the 21st annual Graduate Student Conference in Industrial-Organizational Psychology and Organizational Behavior, Knoxville, TN.
+Manners, G. E. (1975). Another look at group size, group
 
-Martin, R. A. (2001). Humor, laughter, and physical health:
+problem solving, and member consensus. Academy of Management Journal, 18, 715–724.
 
-Methodological issues and research ﬁ ndings. Psychological Bulletin, 127(4), 504–519.
+Manning, R., Levine, M., & Collins, A. (2007). Th e Kitty
 
-Martinez, M. N. (1990). In search of a productive design. HR
+Genovese murder and the social psychology of helping. American Psychologist, 62(6), 555–562.
 
-Magazine, 35(2), 36–39.
+Manson, T. (1989). Th e eﬀ ectiveness of computer based training in organizational settings: A meta-analysis. Proceedings of the 10th annual Graduate Conference in Industrial/ Organizational Psychology and Organizational Behavior.
 
-Martinez, M. N. (1994). FMLA: Headache or opportunity? HR
+Mantell, M., & Albrecht, S. (1994). Ticking bombs: Defusing
 
-Magazine, 39(2), 42–45.
-
-references
-
-647
+violence in the workplace. New York: Business Irwin.

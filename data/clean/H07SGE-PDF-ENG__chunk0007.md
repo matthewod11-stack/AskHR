@@ -1,11 +1,13 @@
-# this objective on a number of fronts:
+---
+source_path: H07SGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95aba627f626653d1b0f10ad4f48a55d73a423d9
+title: H07SGE-PDF-ENG
+---
+# Javier Zayas Photography/Getty Images
 
-- Its Transparent and Predictable Working Conditions Directive, which
+The EU has long been committed to improving worker well-being,
 
-member states were required to enact by August 2022, is geared
+claiming it wants to create more transparent and predictable working
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+conditions for all its 182 million workers. Now, it’s moving ahead with

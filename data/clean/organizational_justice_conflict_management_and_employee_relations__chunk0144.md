@@ -1,7 +1,13 @@
-## Coleman, P.T. San Francisco, CA, pp. 86-107.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: 7dd1472b96b99485c54e690bf92420b65eaeaf97
+title: organizational_justice_conflict_management_and_employee_relations
+---
+## Managing Projects in Business, Vol. 3 No. 4, pp. 693-704.
 
-Lewicki, R.J., Tomlinson, E.C. and Gillespie, N. (2006), “Models of interpersonal trust development: theoretical approaches, empirical evidence, and future directions”, Journal of Management, Vol. 32 No. 6, pp. 991-1022.
+Leat, M. and El-Kot, G. (2009), “Interpersonal trust at work, intrinsic motivation, work-related tension and satisfaction in Egypt”, International Journal of Workplace Health Management, Vol. 2 No. 2, pp. 180-194.
 
-Loi, R., Hang-Yue, N. and Foley, S. (2006), “Linking employees’ justice perceptions to organizational commitment and intention to leave: the mediating role of perceived organizational support”, Journal of Occupational and Organizational Psychology, Vol. 79 No. 1, pp. 101-120.
+Leung, A.S. (2008), “Interpersonal conflict and resolution strategies: an examination of Hong Kong employees”, Team Performance Management: An International Journal, Vol. 14 Nos 3/4, pp. 165-178.
 
-Madlock, P.E. and Booth-Butterfield, M. (2012), “The influence of relational maintenance strategies
+Lewicki, R.J. and Wiethoff, C. (2000), “Trust, trust development, and trust repair”, in Deutsch, M. and (Eds), Handbook of Conflict Resolution: Theory and Practice, Jossey-Bass,

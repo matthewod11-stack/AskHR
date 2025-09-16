@@ -1,5 +1,7 @@
-## government–industry coordination with the bottom-up drive of Chinese
-
-entrepreneurs. Startups that align with government-picked growth
-
-industries of the future can prosper through favorable policies,
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79e7fcc3f6e1ac082de506c786f71387d89a4f55
+title: H08D71-PDF-ENG
+---
+## China’s innovation ecosystem uniquely combines top-down

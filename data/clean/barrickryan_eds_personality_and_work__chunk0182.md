@@ -1,3 +1,9 @@
-# Consequences of Errors
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: ee244bec46917e66dd98d7b3e51517c12f151f0b
+title: barrickryan_eds_personality_and_work
+---
+# Novelty and Complexity
 
-In some jobs, the cost of an occasional error is quite small; perhaps there are no important outcomes that result from the task or self- correcting mechanisms catch errors. In other jobs, however, errors are very costly, and constant vigilance is necessary. We hypothesize that happy people, who tend to be less vigilant than less happy peo- ple, may be at somewhat of a disadvantage when the costs of errors are quite high. Heart surgeons who must constantly monitor their actions and the conditions around them and mechanics checking jet engines for hairline cracks may be more careful in their activi- ties when they have lower levels of positive affect. Thus, the con- sequences of errors and the potential for errors may interact with happiness in predicting worker productivity.
+For jobs that require novel responses, the happy worker may be able to synthesize information quickly and develop creative new strategies that can have a positive impact on productivity and per- formance. For complex and mentally challenging jobs, happy workers may be more likely to ignore irrelevant material and to use effective heuristics to simplify tasks. This should result in more ef- ﬁcient strategies and higher productivity. Less happy workers may be slower and more careful, resulting in an inability to make deci- sions and the use of overly cautious strategies.

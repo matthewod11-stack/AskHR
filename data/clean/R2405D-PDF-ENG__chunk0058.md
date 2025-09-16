@@ -1,11 +1,45 @@
-# decisions.
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5307f2a93a0b80dab4fcaffad12b15c09095bd34
+title: R2405D-PDF-ENG
+---
+# From Data to Decisions
 
-A version of this article appeared in the September–October 2024 issue of Harvard Business Review.
+Decision-making in the face of uncertainty is necessarily iterative; it
 
-Michael Luca is a professor of business administration and the director of the Technology and Society Initiative at Johns Hopkins University, Carey Business School.
+requires regular pauses for reﬂection on both information and process.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Eﬀective teams will learn from data, adjust plans accordingly, and
 
-12
+deliberately work on improving their discussions.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Taking the time to discuss the nuances of analyses—including sample
+
+size and composition, the outcomes being measured, the approach to
+
+separating causation from correlation, and the extent to which results
+
+might generalize from one setting to another—is vital to understanding
+
+how evidence can, or can’t, inform a speciﬁc decision. When carefully
+
+considered, each empirical result presents a piece of a puzzle, helping
+
+businesses ﬁgure out whether and when diﬀerent changes are likely to
+
+have an eﬀect. Such discussions will also set the stage for organizations
+
+to be more rigorous about data collection.
+
+Even in the best of worlds, evidence is rarely deﬁnitive, and how a
+
+business move will play out is uncertain. You can nonetheless aspire
+
+to make thoughtful choices based on information you have or might
+
+obtain. By employing a systematic approach to its collection, analysis,
+
+and interpretation, you can more eﬀectively reap the beneﬁts of the
+
+ever-increasing mountain of internal and external data and make better

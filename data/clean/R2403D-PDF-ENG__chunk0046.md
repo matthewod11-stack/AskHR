@@ -1,13 +1,21 @@
-# Xan Padrón
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98fbd08950d352d528d24e5f95f6409651c8d99d
+title: R2403D-PDF-ENG
+---
+## company and satisfaction with management and employee programs.
 
-This focus on well-being is part of a shift away from industrial-era
+In 2022, Microsoft decided to abandon its annual “engagement” survey
 
-policies and toward more ﬂexibility in time and place of work and better
+when managers realized that it consistently generated very positive
 
-employee beneﬁts. Recent examples of such enhancements include
+feedback despite reports that employee well-being was suﬀering in
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+some areas. They decided to dig deeper into areas where people were
 
-12
+clearly struggling. Their more frequent survey measures how much
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+employees are “thriving,” which they deﬁne as “being energized and
+
+empowered to do meaningful work.”

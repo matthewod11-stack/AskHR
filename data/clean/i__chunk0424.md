@@ -1,9 +1,7 @@
-# plt.show()
-
-65
-
-(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:115)(cid:107)(cid:108)(cid:101)(cid:97)(cid:114)(cid:110)(cid:46)(cid:109)(cid:111)(cid:100)(cid:101)(cid:108)(cid:95)(cid:115)(cid:101)(cid:108)(cid:101)(cid:99)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:105)(cid:109)(cid:112)(cid:111)(cid:114)(cid:116)(cid:32)(cid:99)(cid:114)(cid:111)(cid:115)(cid:115)(cid:95)(cid:118)(cid:97)(cid:108)(cid:95)(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:32) (cid:109)(cid:111)(cid:100)(cid:101)(cid:108)(cid:32)(cid:61)(cid:32)(cid:76)(cid:111)(cid:103)(cid:105)(cid:115)(cid:116)(cid:105)(cid:99)(cid:82)(cid:101)(cid:103)(cid:114)(cid:101)(cid:115)(cid:115)(cid:105)(cid:111)(cid:110)(cid:40)(cid:109)(cid:97)(cid:120)(cid:95)(cid:105)(cid:116)(cid:101)(cid:114)(cid:61)(cid:49)(cid:48)(cid:48)(cid:48)(cid:48)(cid:44)(cid:115)(cid:111)(cid:108)(cid:118)(cid:101)(cid:114)(cid:32)(cid:61)(cid:32)(cid:39)(cid:108)(cid:98)(cid:102)(cid:103)(cid:115)(cid:39)(cid:41)(cid:32) (cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:115)(cid:32)(cid:61)(cid:32)(cid:99)(cid:114)(cid:111)(cid:115)(cid:115)(cid:95)(cid:118)(cid:97)(cid:108)(cid:95)(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:40)(cid:109)(cid:111)(cid:100)(cid:101)(cid:108)(cid:44)(cid:32)(cid:88)(cid:95)(cid:116)(cid:114)(cid:97)(cid:105)(cid:110)(cid:44)(cid:32)(cid:121)(cid:95)(cid:116)(cid:114)(cid:97)(cid:105)(cid:110)(cid:44)(cid:32)(cid:99)(cid:118)(cid:61)(cid:53)(cid:44)(cid:32)(cid:115)(cid:99)(cid:111)(cid:114)(cid:105)(cid:110)(cid:103)(cid:32)(cid:61)(cid:32) (cid:39)(cid:97)(cid:99)(cid:99)(cid:117)(cid:114)(cid:97)(cid:99)(cid:121)(cid:39)(cid:41)(cid:32) (cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:115)(cid:32)
-
-(cid:97)(cid:114)(cid:114)(cid:97)(cid:121)(cid:40)(cid:91)(cid:48)(cid:46)(cid:56)(cid:52)(cid:55)(cid:52)(cid:53)(cid:55)(cid:54)(cid:51)(cid:44)(cid:32)(cid:48)(cid:46)(cid:56)(cid:54)(cid:51)(cid:56)(cid:50)(cid:57)(cid:55)(cid:57)(cid:44)(cid:32)(cid:48)(cid:46)(cid:56)(cid:53)(cid:49)(cid:48)(cid:54)(cid:51)(cid:56)(cid:51)(cid:44)(cid:32)(cid:48)(cid:46)(cid:56)(cid:53)(cid:49)(cid:48)(cid:54)(cid:51)(cid:56)(cid:51)(cid:44)(cid:32)(cid:48)(cid:46)(cid:56)(cid:56)(cid:48)(cid:56)(cid:53)(cid:49)(cid:48)(cid:54)(cid:93)(cid:41)(cid:32) (cid:109)(cid:115)(cid:101)(cid:32)(cid:61)(cid:32)(cid:77)(cid:83)(cid:69)(cid:40)(cid:121)(cid:95)(cid:116)(cid:101)(cid:115)(cid:116)(cid:44)(cid:32)(cid:121)(cid:95)(cid:112)(cid:114)(cid:101)(cid:100)(cid:105)(cid:99)(cid:116)(cid:41)(cid:32) (cid:112)(cid:114)(cid:105)(cid:110)(cid:116)(cid:32)(cid:40)(cid:109)(cid:115)(cid:101)(cid:41)(cid:32)
-
-(cid:48)(cid:46)(cid:49)(cid:52)(cid:54)(cid:50)(cid:53)(cid:56)(cid:53)(cid:48)(cid:51)(cid:52)(cid:48)(cid:49)(cid:51)(cid:54)(cid:48)(cid:53)(cid:52)
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 135fe409114a31f2433d987a2945a477021b2f69
+title: i
+---
+## plt.title('Confusion Matrix of Regression model')

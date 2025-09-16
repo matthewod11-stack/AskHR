@@ -1,13 +1,25 @@
-# aims. They must:
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85465e48988fdd39a7a2e07a794e20bb881de665
+title: H07M52-PDF-ENG
+---
+## HBR / Digital Article / Is Your Hybrid Team Losing Steam?
 
-Emphasize overarching goals — not missed opportunities. Even if
+This joint problem of overstretched employees plus leaders who are
 
-people have many responsibilities, it’s easier to cope when the objective
+under-empathetic about their situation is so prevalent in hybrid teams
 
-is clear. During your meetings and in-person interactions, regularly
+that leaders need to investigate why their team’s energy seems so low.
 
-reframe competing demands in this context. For example, emphasize
+Asking them directly is one approach (especially if it’s part of a naturally
 
-how various initiatives come together to improve overall customer
+ﬂowing conversation), but in certain cases — such as when trust or
 
-service, or visually chart out how diﬀerent work streams merge into a
+psychological safety is low — an anonymous, open-ended team survey
+
+could generate more candid feedback.
+
+In either case, the leader of an overstretched team needs to channel
+
+the collective’s energy by focusing disparate energies toward common

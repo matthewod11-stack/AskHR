@@ -1,1 +1,7 @@
-# One ABA school
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 7b98d1b5d8665e073e959c740f561181c9458d28
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# technicians

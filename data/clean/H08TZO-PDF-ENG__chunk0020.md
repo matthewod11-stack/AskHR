@@ -1,5 +1,11 @@
-## “Capture Youth” campaign in 2017 featured 25-year-old Cara Delevingne
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3610bc3e6830e6010a51fb2ef3abb20d86dbd976
+title: H08TZO-PDF-ENG
+---
+## self-defeating. Slogans like “erase ﬁne lines and wrinkles” and
 
-promoting anti-aging products, drawing widespread criticism for
+descriptors like “age-defying” can make older adults feel as if
 
-reinforcing ageist ideals by using a model decades younger than the
+there’s no point for them to purchase products. For example, Dior’s

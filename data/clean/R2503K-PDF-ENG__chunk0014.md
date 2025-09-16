@@ -1,7 +1,31 @@
-# eﬀective.
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd63f9e2d31e1688a473de17ebd6d29e74011287
+title: R2503K-PDF-ENG
+---
+## to the unique values and preferences of each team member. For
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+executives at Everfresh (a pseudonym), a $30 billion company operating
 
-4
+in more than 75 countries, this meant rethinking the rollout of its
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Speak Up campaign. Its purpose was to foster innovation and reduce ineﬃciencies by encouraging employees to oﬀer constructive feedback.
+
+Executives thought people would welcome the initiative, but many
+
+employees, especially in Asia, reacted negatively. They perceived
+
+“speaking up” as a directive to challenge senior leaders and voice
+
+opinions in public forums—behaviors that clashed with their cultural
+
+norms. So Everfresh leadership reframed the campaign. It emphasized
+
+that participation was expected but made it clear that speaking up
+
+didn’t have to be verbal, public, or individual. Alternative ways for
+
+employees to contribute, such as allowing collective feedback curated
+
+by a group, were introduced, making the campaign more inclusive and

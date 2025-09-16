@@ -1,9 +1,17 @@
-# credibility problems.
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95b7a2cf6521dcde1477293d8609fa692680984d
+title: H08VNO-PDF-ENG
+---
+# HBR / Digital Article / To Change Company Culture, Focus on Systems—Not Communic…
 
-Across every sector and region we studied, culture only changed when
+If there’s one ﬁnding that cuts across our research, it’s this: culture
 
-leaders changed ﬁrst. Not in tone, but in structure. Not in principle, but
+doesn’t fail because people don’t care. It fails because power doesn’t
 
-in power. The most eﬀective teams weren’t following a campaign—they
+shift. Leaders talk about trust but make decisions in back rooms. They
 
-were following a pattern. In those environments, culture was shaped by
+champion inclusion but reward conformity. They promote empathy
+
+but penalize dissent. These aren’t communications problems. They’re

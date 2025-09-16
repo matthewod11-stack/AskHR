@@ -1,7 +1,7 @@
-# Frame requests as partnerships.
-
-Skip the direct language you’d use with your team (“I need you to handle
-
-this”) and start with context to set the stage for collaboration. Open with
-
-something like, “As we think about upcoming training needs, I want to make sure we’re eﬃcient…” or “Looking at where this process should
+---
+source_path: H08QO6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ecd929a5a4ca765be03bf5f4f982caf51b28523f
+title: H08QO6-PDF-ENG
+---
+# favor.

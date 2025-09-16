@@ -1,9 +1,21 @@
-# Vouchers for childcare
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83b7072da92189a268f32211bbd41b3fc52dfe82
+title: R2205G-PDF-ENG
+---
+# Childcare referral services
 
-16.2
+4.8
 
-12.3
+9.7
 
-16.4
+6.2
 
-10.6
+5.0
+
+6.7
+
+7.8
+
+7.8

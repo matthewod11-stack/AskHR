@@ -1,9 +1,11 @@
-# million in enterprise value.
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2f1cbacf7cd84bd7fece1d418471817991cee4bf
+title: H088ND-PDF-ENG
+---
+## $170 million increase in enterprise value for shareholders. These
 
-This approach also has the potential for wider organizational
+calculations scale linearly. A company with 5,000 employees could
 
-transformation. When companies leverage the diverse talents of their
-
-Asian workforce, they can evolve into more global, agile, and powerful
-
-hubs of innovation and growth. This strategy not only better engages
+realize productivity gains of $85 million per year and create $850

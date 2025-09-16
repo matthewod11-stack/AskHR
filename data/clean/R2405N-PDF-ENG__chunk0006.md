@@ -1,7 +1,7 @@
-# Kate Dehler
-
-You might be surprised to ﬁnd an article about psychedelics in a
-
-business publication. Frankly, I didn’t expect to be writing about them
-
-when I joined Harvard Business Review. But with founders and CEOs
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: daab621f6697d537165c463b0c3894200dea0257
+title: R2405N-PDF-ENG
+---
+## From the Magazine (September–October 2024) / Reprint R2405N

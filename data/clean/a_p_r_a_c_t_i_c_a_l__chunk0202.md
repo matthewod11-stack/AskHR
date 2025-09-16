@@ -1,7 +1,9 @@
-# Building guardrails
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 4a6f6f0bf97d4adb0014c2324fa8989f4af338d5
+title: a_p_r_a_c_t_i_c_a_l
+---
+# Output validation
 
-Set up guardrails that address the risks you’ve already identi(cid:22)ed for your use case and layer in additional ones as you uncover new vulnerabilities.
-
-We’ve found the following heuristic to be eƒective:
-
-01
+Ensures responses align with brand values via prompt engineering and content checks, preventing outputs thatL could harm your brand’s integrity.

@@ -1,17 +1,21 @@
-# surroundings.”
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17aaa2d786bf40ed88c1e0a581c4958d78e268cb
+title: H08LRM-PDF-ENG
+---
+# Matt Carlson
 
-Of course, time oﬀ isn’t the only answer to burnout — organizations
+I talked to a number of people like Mary, who took sabbaticals to
 
-have a role to play in ﬁxing the underlying problems in their workplaces,
+recover from or avoid burnout. My interviewees’ ailments included
 
-too. That said, sabbatical-takers in this category agreed that the
+ulcers, chronic pain, and insomnia, with doctors diagnosing work stress
 
-experiences provided a respite and helped them realize that they had
+as the cause. Their breaks involved activities that, as one interviewee
 
-been working in an unsustainable way.
+put it, made them “feel human again.” For example, another employee
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+suﬀering from burnout went camping to engage her “Neanderthal
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+self: focusing on keeping warm, dry, and fed while enjoying the

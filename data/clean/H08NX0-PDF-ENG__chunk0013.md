@@ -1,17 +1,19 @@
-## prioritizes performance, with clear goals and rigorous milestones to
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cef63b7aa6291607f510a63998991e2534f877b9
+title: H08NX0-PDF-ENG
+---
+# goals.
 
-ensure accountability, no matter where employees are working.
+Airbnb’s approach to hybrid work illustrates how an organization
 
-Rather than mandating a set number of in-oﬃce days each week,
+can create a system that meets both employee needs and
 
-Airbnb has structured its hybrid model around intentional in-person
+company objectives without defaulting to strict oﬃce mandates.
 
-gatherings. Employees work remotely most of the time but come
+CEO Brian Chesky has said that while there is value in in-person
 
-together for one week each month at the company’s San Francisco
+collaboration, requiring employees to be in the oﬃce all the time
 
-headquarters. These gatherings foster collaboration and connection,
-
-ensuring that teams have dedicated time to align on key priorities while
-
-maintaining the ﬂexibility of remote work.
+is unnecessary. Instead of focusing on physical presence, Airbnb

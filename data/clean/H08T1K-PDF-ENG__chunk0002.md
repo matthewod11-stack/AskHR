@@ -1,13 +1,7 @@
-# DS Stories/Pexels
-
-Proﬁts are lagging, budgets are stretched, and the layoﬀ rumor mill
-
-is cranking into high gear. Your team is looking to you for clarity and
-
-reassurance. What can—and should—you tell your team about the true
-
-state of the business without sending them into panic mode? How can
-
-you highlight the good stuﬀ without creating a false sense of security?
-
-And when do you risk glossing over the real issues that need everyone’s
+---
+source_path: H08T1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d212f18370b39eb11eec8a1f96c73e8270ff4460
+title: H08T1K-PDF-ENG
+---
+## Published on HBR.org / July 7, 2025 / Reprint H08T1K

@@ -1,7 +1,13 @@
-# a task.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1df922c1af24e02c883c561866ff90dc65e78a16
+title: industrial_organizational_psychology_an_applied_approach
+---
+## disagreement about geographical territory or lines of authority.
 
-Knowledge test A test that measures the level of an
+Key-issues approach A method of scoring interview
 
-employee’s knowledge about a job-related topic. Known-group validity A form of validity in which
+answers that provides points for each part of an answer that matches the scoring key.
 
-test scores from two contrasting groups “known” to differ on a construct are compared.
+Knowledge A body of information needed to perform

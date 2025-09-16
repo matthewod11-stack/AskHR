@@ -1,5 +1,13 @@
-# Washington, DC: Author.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4527c7845b6c882bebbc6408dd0fe2e977050f45
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Coens, T., & Jenkins, M. (2002). Abolishing performance
 
-Cohen, D., & Scott, D. (1996). Construct validity of a situational interview and patterned behavior description interview. Paper presented at the 17th annual Graduate Student Conference in Industrial/Organizational Psychology and Organizational Behavior, Toledo, OH.
+appraisals: Why they backﬁ re and what to do instead. San Francisco: Berrett-Koehler.
 
-Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale, NJ: Lawrence Erlbaum.
+Cohen, A. (1972, September). Th e role of psychology in improving worker safety and health under the Worker Safety and Health Act. Paper presented at the annual meeting of the American Psychological Association, Honolulu, HI.
+
+Cohen, D. (1997). Cohen Conﬂ ict Response Inventory.

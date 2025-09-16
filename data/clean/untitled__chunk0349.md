@@ -1,3 +1,9 @@
-# Clinical Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 735d87c4a7292ceefb1ada18bda9d58452769cbc
+title: untitled
+---
+## POSTWAR GROWTH OF THE PRACTICE OF PSYCHOLOGY
 
-Early in the war, the federal government began planning to meet the mental health needs of returning veterans, which were judged to be substantial. Perhaps the government hoped
+Whereas American psychologists were caught napping by the First World War, they did not repeat that mistake for the sec- ond one. Both the APA and the AAAP had committees in place by 1939 to plan for psychology’s role should the United States enter the war. As noted earlier, in the ﬁrst war psychol- ogists worked largely in two areas: examination of recruits and personnel selection. However, in the Second World War, the involvement of psychologists was substantially more diverse—and it included recruitment, selection, training, equipment design, propaganda, surveying attitudes in the United States and abroad, examining and testing prisoners of war, morale studies, intelligence work, and personality stud- ies, including an analysis of Adolf Hitler (Capshew, 1999; Hoffman, 1992). The verdict on psychologists’ performance in the war was an incredibly favorable one. The legacy of that performance was a growth in scientiﬁc and professional opportunities for psychologists that was unprecedented in psychology’s history. The profession beneﬁted particularly, and no group beneﬁted more than clinical psychology.

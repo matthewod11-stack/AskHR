@@ -1,21 +1,33 @@
-## HBR / Magazine Article / Leaders Shouldn’t Try to Do It All
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6cdf0a96c78bb8e712d047e627945b2884f8609
+title: R2501E-PDF-ENG
+---
+# Entertainments).
 
-But Roger knew he faced a big transformational task and couldn’t
+We suggest that overwhelmed leaders follow a four-step process in
 
-spend his time the way his predecessors had. They had devoted
+making choices. The ﬁrst two steps involve getting tasks oﬀ their
 
-approximately 50 days a year to faculty selection and recruiting
+calendars; the second two, putting tasks on.
 
-activities. Furthermore, he realized that he would be no better at it
+- 1. Remove all tasks for which you lack any absolute advantage.
 
-than his associate dean, Peter Pauly, who was a stellar academic with
+When Roger arrived at the Rotman School, he was informed that the
 
-a great eye for young talent and superb skills in faculty hiring. But
+dean’s most important job was to hire tenure-stream faculty members
 
-to put Pauly in charge, Roger needed to do two things: He had to persuade the provost—the university’s chief academic oﬃcer and the
+and that he, like his predecessors, should be heavily involved in every
 
-boss of all the deans—to allow Pauly to take over that job. And he had
+aspect of the hiring process. That’s an example of what we often see as
 
-to achieve a meeting of the minds with Pauly on how to carry out the
+a should do. Leaders are told they should do something in part because
 
-task—which would involve some small but important diﬀerences from
+that’s how it has always been done.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

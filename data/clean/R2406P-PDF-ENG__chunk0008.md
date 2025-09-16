@@ -1,35 +1,27 @@
-## HBR / Magazine Article / Life’s Work: An Interview with Ketanji Brown Jackson
+---
+source_path: R2406P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2b7f7ec5ee7a2f8e437c693addb8fc0c084f9e5
+title: R2406P-PDF-ENG
+---
+# as a speaker and a performer into it.
 
-to meetings and discussions were not taken as seriously as some of my
+As you entered Harvard Law and then your career, how did it feel to again be one of a few Black women in those white-male-dominated environments?
 
-colleagues’, but I managed.
+It wasn’t easy. But in college I had formed a community with some Black
 
-When you saw that kind of unfairness or bias, how did you respond?
+women who became my good friends, and we all ended up going to the law school too. Having a close-knit group during that diﬃcult training
 
-In my view, you have to pick and choose your battles. It’s not that
+together was a comfort. By that time I was also in a serious relationship
 
-you don’t see or know that these things are happening. The question
+with my then boyfriend, now husband, and I had his support. I fell back
 
-is, how much time and energy do you have to invest in responding to
+on the skills for coping and survival that I had developed early on. Of
 
-this particular circumstance? It may be worth it. But it may also be
+course, as a young lawyer, I sometimes felt as though my contributions
 
-the case that recognizing the unfairness, which happens at all kinds
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-of levels and in all kinds of ways in the workplace, will be taking you
+3
 
-away from the task at hand in a way that won’t be beneﬁcial. So you
-
-have to assess—“I see that, I know that, and I’m going to choose to set
-
-it aside right now because I have more important things to worry about
-
-or to focus on”—versus responding every time. The way in which my
-
-parents navigated the world was very instructive for me. People who had
-
-lived through the society they did could have been devoured by a rage
-
-that would have made it impossible for them to proceed. Instead they
-
-turned, and pivoted, and did what they needed to do, and that made all
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,19 +1,19 @@
-## constructive insights on areas for growth and opportunity.
+---
+source_path: H08OI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 295f88699ae6b492f3b13f94b991736bd55373af
+title: H08OI6-PDF-ENG
+---
+## HBR / Digital Article / In a Slump at Work? Here’s How to Motivate Yourself.
 
-Completing your own mini performance review using past reviews and
+Sometimes your previous performance review feedback may not give
 
-feedback from trusted peers doesn’t just mean looking back; it provides
+you the clarity or direction you need. I’ve coached professionals who
 
-the opportunity to examine the present. Consider the next three to six
+found themselves out of sync with their supervisor’s assessment,
 
-months and ask yourself: What would you love to accomplish?
+received vague feedback, or had their review led by someone who’s
 
-Seek a stretch assignment.
+no longer on the team. In these cases, it can be valuable to build
 
-When you proactively seek out a stretch assignment, chances are your
-
-manager or teammates will see it as a win-win opportunity. Taking
-
-on a project that interests you and challenges you in new ways will
-
-expand your skills and has the potential to reignite your engagement. In
+relationships with senior leaders and trusted peers who can oﬀer

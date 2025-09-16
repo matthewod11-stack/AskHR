@@ -1,21 +1,11 @@
-## through a three-legged approach of therapy, medication and peer
+---
+source_path: H06NVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2dc4a4ba4549ba86ddd893c631d36530923d02a5
+title: H06NVB-PDF-ENG
+---
+## successfully. Ann Smith, Founder of Postpartum Support International
 
-support.”While there is no surefire or one-size-fits-all approach to
+pointed out to me, “PPD is the number one complication of
 
-managing the very personal challenges of PPD, the following methods
-
-will help you create a sense of confidence as a first-time working parent
-
-and serve as a reminder that despite the challenge of the moment, this
-
-too shall pass.
-
-Call on your village — and supplement it with additional support.
-
-Surrounding yourself with loving, experienced friends, family, and
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+childbearing. While 14% of women suffer, it is treatable. PPD is managed

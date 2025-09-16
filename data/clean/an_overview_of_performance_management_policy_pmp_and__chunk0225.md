@@ -1,13 +1,31 @@
-# rehash most.
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: d557eb2c11027e8916285f99c7bd0f09d473f080
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# 3.19 Promotion Form:
 
-This approach gives a point by point depiction of City Bank's prize and acknowledgment
+Advisory group will evaluate the appropriateness of up-and-comers by thinking about the
 
-program and gives a far reaching comprehension of the different kinds and levels of
+advancement proposals. After finish of all the advancement selection, it should be affirmed
 
-remuneration and acknowledgment offered to representatives at CBL. There are three sorts of
+by individual specialty units Head. No advancement across the organization will be finished
 
-remuneration and acknowledgment as depicted by this arrangement and pertinent for CBL
+or imparted before endorsement from the top administration audit board.
 
-employees. The arrangement has been set up in accordance with the expense law of land
+26
 
-where pertinent. Under this arrangement, prize and acknowledgment is one-time money or
+(cid:32)
+
+(cid:32)
+
+3.20 REWARD AND RECOGNITION POLICY:
+
+City Bank Limited (CBL) feels that the individual and collaboration and performance should
+
+be consistently valued and perceived to keep its employees persuaded to give in their earnest
+
+attempts. Also, more significantly by perceiving these exhibitions, we strengthen, with its
+
+picked methods for acknowledgment, the activities and practices we need CBL employees to

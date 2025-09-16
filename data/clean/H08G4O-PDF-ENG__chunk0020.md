@@ -1,19 +1,25 @@
-# past experiences.
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc2d8f1bf6161950651fa04aa515f3e7bbe5fa98
+title: H08G4O-PDF-ENG
+---
+# from their non-founder counterparts.
 
-- 2. Most founders embody the company’s culture, fostering a deep sense of duty and followership. The founder’s vision beats at the heart of any successful founder-led
+- 1. They are often creative, innovative thinkers who can articulate a compelling vision. This quality, found among 36% of founder CEOs in our dataset, is
 
-company. Eighty-six percent of founders we studied possessed an
+perhaps the most powerful. Founders stand out as particularly strong
 
-ability to inspire through passion, charisma, and loyalty. They can
+innovators, seeing possibilities where others see roadblocks. “There’s a
 
-coalesce a diverse group of individuals behind a shared goal, or as
+diﬀerence between an artist and a critic…the founder is the artist who
 
-Daniel Brenhouse, partner at Permira, articulated, “Founders can carry
+knows how to build from scratch,” explained Peter Bauer, co-founder
 
-the entire organization on their shoulders in a unique way.”
+and former CEO of Mimecast. “They’re not just thinking outside the
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+box; they’re creating entirely new boxes.”
 
-4
+In contrast, our research found that a quarter of non-founder CEOs
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+faced challenges originating new ideas, relying more on execution and

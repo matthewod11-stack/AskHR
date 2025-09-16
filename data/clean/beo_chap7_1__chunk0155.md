@@ -1,35 +1,17 @@
-## some positive amount and 25% keep everything for themselves. These proportions
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 19056b39c27cded5af17ab0e9b3cf47cb861618c
+title: beo_chap7_1
+---
+# in their limits on rational calculation, willpower, and greed, and their familiarity
 
-reverse if subjects are allowed to sort and decide whether to play the dictator game
+with labor—leisure trade-offs. The impact of these behavioral biases will depend
 
-or to “opt out” and keep the full amount for themselves (without the receiver finding
+on which kind of people sort into which organizational environment. Lazear et al.
 
-out about the dictator game). Only 30% end up sharing. Interestingly, making the
+(2005) demonstrate how sorting can reverse the impact of behavioral preferences in
 
-dictator game financially more attractive attracts first and foremost the “sharks,”
+a simple experimental setting. In a standard dictator game, where subjects decide
 
-who keep all or most of the amount available to dictators for themselves. The flip
-
-side of this result is the selection of agents with “desired” behavioral traits. Firms
-
-may design hiring practices to identify “team players” with a sense of fairness.
-
-Promotion criteria may select workers who are subject to strong in-groups effects,
-
-inducing effort beyond monetary incentives.
-
-Similar reasoning applies to cognitive limits. An organization will be more pro-
-
-ductive if it matches people who make mistakes with jobs in which the types of
-
-mistakes they make are not costly. This means that the organization’s overall per-
-
-formance could be partly or largely immunized against mistakes by assortative matching.?® Put differently, the output of organizational calculation could be more
-
-28% a magazine interview, Gary Becker opined that division of labor “strongly attenuates if not
-
-eliminates any effects” caused by bounded rationality (see Stewart 2005). He conjectures that “ ‘it doesn’t
-
-matter if 90 percent of people can’t do the complex analysis required to calculate probabilities. The
-
-268
+how much to share with an anonymously matched person, about 75% of people share

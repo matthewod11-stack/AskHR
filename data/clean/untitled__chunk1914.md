@@ -1,11 +1,9 @@
-## Meyer, A. (1904). Afew trends in modern psychiatry. Psychological
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e14f606ca9191d73a006b41ab4fcbc42d294f578
+title: untitled
+---
+# Giroux.
 
-Bulletin, 1, 217–240.
-
-Miller, N. E. (1944). Experimental studies of conﬂict. In J. M. Hunt (Ed.), Personality and the behavior disorders (Vol. 1, pp. 431–465). New York: Ronald.
-
-Moniz, E. (1937). Psycho-chirugie [Psycho-surgery]. Nervenartz,
-
-10, 113–118.
-
-Moore, J. W. (1910). The syphilis-general paralysis question.
+Meduna, L. V. (1935). Versuche uber die biologische beeinﬂussung des ablaufes der schizophrenie [Experiments on biological inﬂu- ences on the course of schizophrenia]. Zeitschrift fuer die Gesamte Neurologie und Psychiatrie, 152, 235–262.

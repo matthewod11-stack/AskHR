@@ -1,27 +1,17 @@
-## HBR / Digital Article / Is Your Flexible Schedule Burning You Out?
+---
+source_path: H08RVK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa4a38170a54f795b7ddf8fe807debec2afe9192
+title: H08RVK-PDF-ENG
+---
+# Be Really On; Be Really Off
 
-enterprises. He also had a family he cherished with a wife and two
+Henry had a very successful career as the senior partner in a 400-
 
-young children. On the surface, he had it all, taking extra time to be with
+person law ﬁrm and had senior leadership responsibilities in two other
 
-his wife and children in the morning and being home most nights and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-weekends. But he always had one eye on his mobile phone so he could
+5
 
-be available—just in case. Making himself always on call meant that he
-
-never felt fully at rest.
-
-Through our work, Henry realized that he wanted to be more present
-
-at work—fully in that space and not as engaged with personal items in
-
-that time, even when he was working from home. But he also wanted to
-
-be much more present with his family. He made it a rule that when it
-
-was time to be with his wife and kids that he needed to leave his mobile
-
-phone in a basket on silent. He wasn’t allowed to look at it until after his
-
-kids were in bed.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

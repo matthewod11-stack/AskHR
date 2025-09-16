@@ -1,9 +1,9 @@
-## Upward communication Communication within an
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: db68334d8d0b80c24b3bcc01caba29fe1541bbb1
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Unstructured interview An interview in which
 
-organization in which the direction of communication is from employees up to management.
-
-Urbanity A category referring to social skills and
-
-refinement; one of the five dimensions in the trait approach to scoring letters of recommendation. Utility formula Method of ascertaining the extent to
-
-which an organization will benefit from the use of a particular selection system.
+applicants are not asked the same questions and in which there is no standard scoring system to score applicant answers.

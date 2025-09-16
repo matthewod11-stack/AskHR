@@ -1,9 +1,21 @@
-# CW
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd6705c07ec02961a631c00550688a7ecea4cd20
+title: H08PQR-PDF-ENG
+---
+# HBR / Digital Article / The Formal Policies That Protect Family Businesses from Interp…
 
-Christina Wing is Senior Lecturer in the Technology and Operations Management Unit at Harvard Business School and faculty co-chair of the HBS “Families in Business: From Generation to Generation” program
+Putting policies into place doesn’t mean turning your back on trust. It
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+means creating a structure that honors it and allows families to focus on
 
-7
+building their legacy instead of putting out ﬁres.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+If your family business doesn’t yet have a clear policy on ownership,
+
+employment, and marital agreements, now is the time to act. Not
+
+because conﬂict is inevitable, but because peace is worth protecting.
+
+This article was originally published online on April 28, 2025.

@@ -1,17 +1,13 @@
-## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 41834b74b2303180fc8f270d3c309e94f723d82a
+title: H07ZZW-PDF-ENG
+---
+## an online, interactive ethical decision-making framework for staﬀ. It
 
-isn’t intended to replace conversation, and it doesn’t give employees
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-deﬁnitive answers about what they should do. Rather, it guides users
+13
 
-through 15 questions to prompt deep reﬂection, exposes as many as
-
-six potential biases, and suggests additional materials and resources
-
-to explore. This is more practical and eﬀective than laying out rules
-
-and sanctions. It gives employees the tools to develop an ethical code
-
-and oﬀers them agency in drawing their own conclusions. It also
-
-emphasizes that ethical considerations and challenges are a key aspect
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

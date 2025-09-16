@@ -1,3 +1,9 @@
-# CT as a mediator between CM and ER
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: bb8ba5eb711d43dde299b8aaef9b596a05533e79
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# ER
 
-between the relations of organizational justice and ER, and the association of conflict management and ER. Thus, for the ease of understanding and to provide sufficient explanations about the mediating role of the variable climate of trust, two models are displayed, which can also be presented in one single model. In the mediation analysis, the first step revealed that organizational justice positively and significantly predicted
+CT as a mediator between OJ and ER Note: ***p<0.001

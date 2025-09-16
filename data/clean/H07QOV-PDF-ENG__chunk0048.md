@@ -1,21 +1,9 @@
-## limited predictive value for the future performance of the ﬁrm. For
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0deeade9d4a4f7f2b6154f1b09fbb30a7b108e5d
+title: H07QOV-PDF-ENG
+---
+## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
 
-example, one way to be really productive is to just push people to their
-
-limits. But that has time constraints. Eventually they will burn out,
-
-leave, etc. It’s like Buckminster Fuller used to say that it was foolish
-
-to burn down the house to keep warm on a cold winter’s night. The
-
-excessive pressure can be the equivalent of that error.
-
-And also innovation work in particular, we have case study after case
-
-study where the work actually suﬀers when productivity metrics are
-
-brought to bear.
-
-In a way, I wish the pendulum were more about excellence than
-
-productivity, because I think productivity is really tricky and variable
+excellence. Productivity is often a short-term measure, and it has

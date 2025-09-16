@@ -1,15 +1,41 @@
-## HBR / Digital Article / Research: The Gender Wage Gap Tipping Point
+---
+source_path: H08OL1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca64a8ecd29101192ec7ffdd82f0a96e0bf0b4d9
+title: H08OL1-PDF-ENG
+---
+## Business School professor Rosabeth Moss Kanter’s landmark work
 
-However, once these initial gains are achieved and the pressure lessens,
+on tokenism. Kanter’s research examined group dynamics when one
 
-organizations may assume the problem is resolved and scale back their
+group heavily outnumbers another, deﬁning a “skewed” group as one
 
-eﬀorts too soon. As women become better represented, it can create a
+where there’s 85:15 majority-to-minority ratio. Up to the point of 15%,
 
-perception that gender barriers are breaking down and that equity is
+underrepresented individuals are known to face polarization from the
 
-improving. Akin to reaching a “false summit,” where a hiker mistakenly
+majority or be pressured to conform to stereotypes. Ultimately, these
 
-believes they have reached the top of a mountain when there is still
+people are often seen as symbols or “tokens” rather than individuals,
 
-more to climb, organizations might make the hasty determination that pay equity has been suﬃciently achieved and cease making changes.
+and may feel isolated based on how they are treated.
+
+However, their sparse presence and anomaly status also heightens their
+
+visibility. And when there are social or legal pressures to improve equity
+
+or to achieve diversity goals—in our case, to improve gender equity
+
+speciﬁcally—the incentives to protect the organization’s reputation and
+
+image may motivate companies to increase the proportion of women
+
+and/or improve pay equity. In short, a more deliberate eﬀort is made to
+
+close the gap and early gains are made.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

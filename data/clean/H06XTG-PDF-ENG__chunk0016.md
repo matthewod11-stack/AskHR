@@ -1,13 +1,13 @@
-## HBR / Digital Article / How Much Autonomy Should You Give Your Global Teams?
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 562e876ddae28439ea12eabb192e90926e4f0d52
+title: H06XTG-PDF-ENG
+---
+## retain relatively tight control over their global teams, in part because
 
-the resources required to design and produce luxury products are
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-not located in these regions (e.g., specialized facilities, expertise,
+3
 
-etc.). Luxury brands also typically depend heavily on the strong,
-
-centralized brand of the parent company, and so it makes sense for
-
-these organizations to integrate their regional teams closely with their
-
-headquarters to ensure this key asset isn’t diluted.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

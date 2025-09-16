@@ -1,7 +1,9 @@
-# Anonymous
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: f8c73363e1edc564b2f02e7ef0844504f1405d75
+title: file_1
+---
+# 2.3. Gender pay gap
 
-The gender pay gap is one of the basic aspects of gender inequality in working life. It has attracted a diverse set of literatures, including economics (e.g., Groshen, 1991; Blau and Kahn, 2006), sociology (e.g., Hannan et al., 1990), psychology (e.g., Stroh, Brett and Reilly, 1992), and human resource management 1985). The European Commission, the United States government and the general populate of many countries have also been keen on struggling against it.
-
-(e.g., Heneman,
-
-There are a number of different ways of calculating the gender pay gap. The choice of measure is important as it can affect not only the reported size of the gap, but, also, its pattern. The most common measure is the difference between the mean gross hourly earnings of men and women expressed as a percentage of men's mean gross hourly earnings (Anderson, Forth, Metcalf and Kirby, 2001). Comparison of medians is also utilized as is comparison of gross weekly earnings (Anderson et al., 2001). For instance, the Office for National Statistics of the United States government recommends the use of the median when calculating the gender pay gap because it avoids distortions caused by extreme values that afflict calculations using the mean. Although the gender pay gap can be defined and measured differently, in this thesis, it refers to the difference in average hourly earnings of male and female employees after controlling for human capital factors such as education and tenure (adapted from various papers of Blau and Kahn; see, for instance, Blau and Kahn, 2006).
+“Your salary won’t be very large to start with, and, with luck, we’ll be able to keep it that way.”

@@ -1,15 +1,9 @@
-## assumptions about your own behavior, as well as the behavior of anyone
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1fb08c10fe0169e416203e921599be051615c8df
+title: H0705Q-PDF-ENG
+---
+# Behavior
 
-else involved in your decision-making.
-
-Bill had never had to help his parents with a decision of this magnitude.
-
-He was ﬂattered that they had asked him but having tangled with them
-
-on other high-stakes decisions, he was eager to be supportive. Bill also
-
-recognized his discomfort with diﬃcult, emotional conversations. So,
-
-when his parents focused their search only on eldercare facilities that oﬀered a continuum of care because they didn’t want to face multiple
-
-future moves, Bill happily joined them. He assumed they would reject
+The ﬁrst step in challenging expectations is to confront your

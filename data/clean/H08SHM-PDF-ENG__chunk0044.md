@@ -1,3 +1,7 @@
-# CC
-
-Christian Catalini is the founder of the MIT Cryptoeconomics Lab and a research scientist at MIT. He is also co-founder and Chief Strategy Oﬃcer of Lightspark. Previously, he was co-creators of Libra and Chief Economist of the Libra Association. Christian Catalini advises a number of crypto companies, including Coinbase. He is also a member of the U.S. Commodity Futures Trading Commission’s Technology Advisory Committee.
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 49745e90a70b31027fbe06e4dd15e7cc66893136
+title: H08SHM-PDF-ENG
+---
+## HBR / Digital Article / What Gets Measured, AI Will Automate

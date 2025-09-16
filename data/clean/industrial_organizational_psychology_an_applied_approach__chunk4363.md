@@ -1,9 +1,21 @@
-# York: McGraw-Hill.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2f392fce8c01676e1057cc2310cbeaea135e45ef
+title: industrial_organizational_psychology_an_applied_approach
+---
+# October, 25.
 
-Nicholson, N., Jackson, P., & Howes, G. (1978). Shiftwork and absence: A study of temporal trends. Journal of Occupational Psychology, 51, 127–137.
+Nelson, J. B., & Mital, A. (1995). An ergonomic evaluation of
 
-Niebuhr, R. E., & Oswald, S. L. (1992). Th e impact of workgroup composition and other work unit/victim characteristics on perceptions of sexual harassment. Applied H.R.M. Research, 3, 30–47.
+dexterity and tactility with increase in examination/surgical glove thickness. Ergonomics, 38(4), 723–733.
 
-Noble, S. A. (1997). Eﬀ ects of a time delay on frame-of-reference training. Poster presented at the 12th annual conference of the Society for Industrial and Organizational Psychology, St. Louis, MO.
+Nesler, M. S., Aguinis, H., Quigley, B. M., Lee, S. J., & Tedeschi, J. T. (1999). Th e development and validation of a scale measuring global social power based on French and Raven’s power taxonomy. Journal of Applied Social Psychology, 29(4), 750–751.
 
-Noe, R. (2007). Employee training and development (4th ed.).
+Neufeldt, D., Kimbrough, W. W., & Stadelmaier, M. F. (1983,
+
+April). Relationship between group composition and task type on group problem solving ability. Paper presented at the 11th annual Graduation Conference in Personality and Social Psychology, Norman, OK.
+
+Ng, T. W. H., & Feldman, D. C. (2008). Th e relationship of age to ten dimensions of job performance. Journal of Applied Psychology, 93(2), 392–423.
+
+Nichols, R. G., & Stevens, L. A. (1957). Are you listening? New

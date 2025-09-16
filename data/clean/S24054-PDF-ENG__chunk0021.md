@@ -1,59 +1,63 @@
-## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 031bd2f9fb7ff98201d84d932b596c36a86b0189
+title: S24054-PDF-ENG
+---
+## diﬀerent people express and receive love diﬀerently in relationships—
 
-up their performance, you’re also keeping them from bringing down
+and it’s an essential skill that leaders must learn.
 
-everyone else’s. People don’t always appreciate this work, but it’s what
+Let me give you some examples. During the middle part of my career
 
-leaders must do.
+at the Patriots, I played with two wide receivers, Julian Edelman
 
-I sometimes talk about inputs and outputs, and although that is mostly
+and Randy Moss. If you wanted Julian, who had incredible mental
 
-about putting in the preparation and practice (inputs) to get a win
+toughness, to play his best, the way to do it was to tick him oﬀ. I would
 
-(output), it also refers to team composition. If you add the wrong players
+say something like “Jules, wow, you look really sluggish today.” He’d
 
-to the mix—people who are undisciplined or self-centered—that’s a
+glare at me and be so angry, but I knew he’d channel that energy to
 
-negative input, and it will lead to negative outputs. By working with
+prove me wrong and go out and play great. Randy, who’s a Hall of Fame
 
-those players to help them manage their emotions, leaders help to
+receiver, responded better to validation: “Man, Randy, you look amazing
 
-improve both the inputs and the outputs.
+out there.” Even in practice, if I went too long without throwing the ball
 
-Understand and complement the style of the formal leader. I spent
+to him, I’d go over and say how much I valued him and remind him that
 
-most of my career playing for Bill Belichick. He’s the greatest coach in
+I was always looking for him on every play. I wanted to make sure he
 
-the history of the NFL, and many fans are familiar with his coaching
+never slowed down.
 
-style. He’s very intense and matter-of-fact. He grew up as the son
+Whether you’re a coach or a team captain, you learn that you spend
 
-of a coach at the Naval Academy, and that’s where he learned his
+90% of your time working with the 10% of players who are the
 
-coaching style. He is a product of that rigorous military environment.
+most challenging. I had one particular teammate who was a naturally
 
-The focus was on discipline and accountability, not on empathy or
+gifted oﬀensive player. But he had faced many adversities during his
 
-compassion. No matter how we played, Coach Belichick’s coaching
+childhood and young adult life. I spent a lot of time with him, and
 
-style was to motivate the team by looking for weaknesses and areas
+I felt that he had unhealed traumas that led to insecurities. It was diﬃcult for him to trust anyone or control his emotions. He didn’t
 
-to improve. There’s an argument that players need that. Pro athletes
+recognize that his behaviors were self-destructive and distracting to
 
-have a lot of people in our lives—families, girlfriends, wives, agents,
+his teammates. I wish he’d found some professional support that could
 
-fans—telling us how great we are. Coach Belichick always wanted to
+have shown him a way to take advantage of the opportunities he had in his career. It’s very diﬃcult to see people struggle like that, but you
 
-keep us from buying into those narratives and becoming complacent.
+have to keep trying to ﬁgure out what might work to motivate them
 
-We all felt fortunate to play for him, and there were many beneﬁts
+and try to help them achieve their potential. The time spent managing
 
-to his approach, but his motivational style—often based on fear—was sometimes diﬃcult. So as a team leader, I tried to complement that
-
-approach by being a bit more upbeat.
+challenging teammates is worth it because you’re not just bringing
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-10
+9
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

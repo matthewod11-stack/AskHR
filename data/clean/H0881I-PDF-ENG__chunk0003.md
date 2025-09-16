@@ -1,21 +1,25 @@
-# HBR / Digital Article / You’re Back from Your Leadership Development Program. Now W…
+---
+source_path: H0881I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ab045453d45060306bb822c3b1e979d658403bf
+title: H0881I-PDF-ENG
+---
+# Eoneren/Getty Images
 
-However, many program participants ﬁnd it challenging to sustain
+After participating in a good leadership development program, you’ll
 
-momentum and achieve durable post-program results. As an executive
+no doubt feel inspired to transform yourself, your team, and your
 
-who recently graduated from one of ours told us: “I left incredibly
+organization. That’s why companies spend more than $46 billion
 
-motivated. I had a clear plan for how I needed to lead and restructure
+per year on such training. They want their employees, from high
 
-my area. Three weeks later, I was extremely frustrated. It felt like
+potentials to top executives, to gain energy and purpose by learning and
 
-nothing had changed.”
+envisioning the future with others.
 
-Most often, leaders are making progress — just not at the speed they had
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-hoped. Success requires determined eﬀort combined with care about
+1
 
-pacing and adjustment. Here are some practical strategies to help you
-
-navigate the crucial post-program “reentry” phase and maximize the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

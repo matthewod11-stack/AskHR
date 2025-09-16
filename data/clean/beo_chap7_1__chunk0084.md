@@ -1,13 +1,17 @@
-# equilibria, social considerations like historical traditions and norms, and credibility
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: c760c136d6f7ee91ebcb2118400315a3f5d54d72
+title: beo_chap7_1
+---
+## 7.3.4 Coordination, Culture, and Leadership
 
-of leaders who make announcements intended to focus attention on good equilibria,
+Organizational relationships are typically repeated games. As Gibbons (2004a)
 
-will make a difference.
+notes, the folk theorem gives us an embarrassment of riches about how repeated
 
-12For example, the Aryan Brotherhood gang has a saying “blood in, blood out.” This means you must shed someone’s blood to gain admission to the group, and can only leave if your own blood is shed.
+games might be played—there are too many equilibria. As Schelling (1960) wrote,
 
-U.S. Marines have a saying, “Once a Marine, always a Marine.” Groups like military and police often
+predicting what players will do in games with many equilibria by pure mathematics
 
-have de facto inheritance, in the sense that special pride is placed on doing the same job as your father, grandfather, etc., and favoritism may be granted to “descendants” in hiring and promotion.
-
-252
+is like trying to prove that a joke is funny without telling it. When there are many

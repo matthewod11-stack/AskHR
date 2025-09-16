@@ -1,13 +1,33 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8d97248c69dba8658f656a54df279e27a4e49c0
+title: H07T7V-PDF-ENG
+---
+# of classic defensiveness.
 
-so much communicating.” He had this great image. He said, “A team
+That’s hard to do. Human beings are inherently defensive people, we
 
-works on something, and then they run it up the ﬂagpole.” He said the
+don’t like being shown to be wrong in public. It’s deeply uncomfortable.
 
-really natural tendency is for the people at every layer of the org chart
+But if you model that behavior, it will start to spread. And I’ve seen geek
 
-to add something to that because they want to be part of the solution,
+leaders do that over and over.
 
-they want to be part of this winning idea. By the time that idea gets
+You can start to push decisions and responsibility down to a place that
 
-back down to the originating team, it’s unrecognizable. Get out of that
+makes you uncomfortable, and to get out of saying, “Just run that by me
+
+ﬁrst,” or, “Make sure I’m included on that,” and try to get rid of the hard
+
+and soft bureaucracy that gets in the way.
+
+I was talking to Sebastian Thrun, who’s an alpha geek in all kinds of
+
+things, and he said, “One of the things I try to get my teams to do is stop
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+18
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,9 @@
-# AS
+---
+source_path: H07718-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 122060bcf7207d124202152df82644cab531edd8
+title: H07718-PDF-ENG
+---
+# IS
 
-Alex Shaw is an Associate Professor of Psychology at the University of Chicago. Alex studies the social dynamics of reputation and signaling, with a focus on how children and adults learn to cultivate social alliances and balance competing concerns with morality and fairness.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Ike Silver is the Donald P. Jacob Scholar and Assistant Professor at Kellogg Graduate School of Management, Northwestern University. Ike’s research investigates how individuals and organizations communicate their moral values, take sides over hot-button issues, and share information about contentious topics.

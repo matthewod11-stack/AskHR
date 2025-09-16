@@ -1,3 +1,9 @@
-# S
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c9dbd70ed20f7470956f353344973f0fb43d8f4b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Respond-by-Calling Ads S
 
-Be prepared for a short interview by making sure you have time to talk, having your résumé handy to answer questions, and having paper and pencil close by. Ge Ge Beall, a human resources manager, once received a phone call just as she was stepping out of the shower and before she had time to get dressed. The caller turned out to be an employer, who interviewed Beall for the next hour. The employer told Beall that she liked phone interviews because the applicant “didn’t have to worry about putting on her interview suit.” In this case, she didn’t realize just how accurate her statement was!
+Practice your first few sentences, such as “I saw your help-wanted advertisement in the local newspaper and would like to get more information.” Don’t count on being able to ad-lib or you might sound as inarticulate as the typical person leaving a message on an answering machine.

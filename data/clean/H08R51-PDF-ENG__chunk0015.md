@@ -1,9 +1,13 @@
-# HBR / Digital Article / Research: Why Employees Work While Sick—and How Leaders C…
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d004adeccf7b535d1481c4abeb3c887411f93b51
+title: H08R51-PDF-ENG
+---
+# their health when unwell.
 
-In contrast, men with highly ﬂexible roles reported working more
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-days while sick than women in similarly ﬂexible roles, challenging the
+3
 
-assumption that job ﬂexibility leads to better ability to care for one’s
-
-health (for instance, scheduling appointments, taking sick time). Even
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

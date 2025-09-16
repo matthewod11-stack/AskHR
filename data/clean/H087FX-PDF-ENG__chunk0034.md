@@ -1,15 +1,17 @@
-## work opportunities, ﬂexible hours, and recordings and transcripts of
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59859e875608142036d52c2a8b766ad0b2dedfe4
+title: H087FX-PDF-ENG
+---
+## include ﬂexible work hours, part-time options, opportunities for
 
-meetings they can reference. (A list of 10 common symptoms and
+daytime rest, remote or hybrid work, and the ability to organize work
 
-potential accommodations can be found at the end of this article.)
+priorities around energy windows (i.e., “spoon planning”). For cognitive
 
-Supporting people with these conditions also means reviewing and
+diﬃculties or brain fog — other common symptoms — employees
 
-potentially adjusting the work they are asked to do. Is there room to
+may beneﬁt from accommodations such as task reminders, written
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+instructions, quieter workspaces to reduce distractions, asynchronous

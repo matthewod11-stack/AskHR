@@ -1,21 +1,67 @@
-# HBR / Digital Article / Research: Women’s Complaints of Workplace Abuse Get Ignore…
+---
+source_path: H08QXF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 888cbe583284bd0c2eafdc415eb0dec013c1e5ad
+title: H08QXF-PDF-ENG
+---
+# evidence, not assumptions.
 
-standardized evaluation processes, leaders can ensure that every report
+- 2. Standardize how reports are evaluated
 
-is treated with the seriousness it deserves, no matter who makes it.
+Create a consistent, formal process for assessing all reports of abuse or
 
-This article was originally published online on June 2, 2025.
+misconduct. One eﬀective strategy is to redact identifying information
 
-Tim Kundro is an assistant professor of Organizational Behavior at the University of North Carolina at Chapel Hill, Kenan-Flagler Business School. He studies how people manage morally charged situations at work.
+(e.g., name, gender, role) to reduce the inﬂuence of identity-based
 
-Alyssa Tedder-King is an assistant professor of management and organization at the University of Maryland’s Robert H. Smith School of Business. Her research examines how people experience inequality in the workplace and explores strategies to reduce these disparities with a particular focus on allyship and inclusion.
+assumptions and eliminate penalties tied to anonymous reporting.
 
-Olivia Walker is a PhD candidate in Organizational Behavior at the University of North Carolina at Chapel Hill, Kenan-Flagler Business School.
+- 3. Commit to following up on every report
 
-Marissa Shandell is a PhD candidate in Organizational Behavior at The Wharton School at the University of Pennsylvania. She studies how people can motivate themselves and others to align peak performance and well-being.
+Establish a clear policy that all reports—regardless of who makes them
+
+or how much evidence is provided—will receive a formal, documented
+
+follow-up. An eﬀective system will not only provide updates to
+
+reporters, but do so in a timely manner.
+
+- 4. Create alternative and protected reporting channels
+
+Ensure employees don’t have to rely solely on their manager to raise
+
+concerns. Oﬀer multiple, safe pathways for reporting. For example,
+
+considering creating reactive channels (i.e. formal whistleblowing
+
+hotlines) and proactive channels (such as “pulse surveys” implemented
+
+by McKinsey that solicit employee concerns).
+
+- 5. Support reporters with follow-up tools
+
+Give reporters the option to provide additional information after their
+
+initial report and make it easy for others to add corroboration if
+
+they witnessed similar events. For example, certain platforms allow
+
+employees to add information or anonymously chat with investigators
+
+after ﬁling reports.
+
+. . .
+
+Reports of workplace abuse are serious signals—of abuse of power,
+
+mistreatment, or other systemic problems. But when those signals are
+
+ﬁltered through informal systems, organizations risk reinforcing the
+
+very inequities they aim to solve. By creating more intentional and
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

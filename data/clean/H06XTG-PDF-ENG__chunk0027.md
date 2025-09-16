@@ -1,9 +1,17 @@
-## HBR / Digital Article / How Much Autonomy Should You Give Your Global Teams?
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92933032692979b576127f0b154b19b1396851de
+title: H06XTG-PDF-ENG
+---
+# features or product modiﬁcations.
 
-Depending on the pace of the sector, your reliance on local assets, and
+Of course, this is just one company’s approach. The details will vary
 
-your level of trust in local leaders, you’ll need to determine which
+widely based on the speciﬁc industry and market you’re hoping to enter.
 
-overseas divisions will beneﬁt from a more centralized structure, and which will be better oﬀ making decisions more independently — and
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-then develop a detailed, well-communicated plan to turn those ideas
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

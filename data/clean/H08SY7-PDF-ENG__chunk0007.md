@@ -1,5 +1,17 @@
-# What Intuition (Really) Is
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5aee65b0c2aba2273fe35077499972a8081561b9
+title: H08SY7-PDF-ENG
+---
+## Through years of my own behavioral science research and independent
 
-In my research, I deﬁne intuition as the internal, sometimes
+coaching of senior leaders, I’ve come to see that while most leadership
 
-subconscious process of integrating experience and data. It’s what
+advice centers on being data-driven, the world’s top-performing CEOs
+
+often rely on something else entirely: intuition. And the most eﬀective
+
+ones treat it not as a superpower they’re born with, but a skill they’ve
+
+worked to sharpen.

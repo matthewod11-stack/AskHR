@@ -1,21 +1,9 @@
-## co-authored over 100 scholarly research publications. The laboratory
+---
+source_path: H05CAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3a81eb2268fe89129532c1b45d75224298e1ce8
+title: H05CAR-PDF-ENG
+---
+## of the top pharmaceutical companies for global drug access and global
 
-continues to provide independent researchers access to GSK facilities,
-
-expertise and resources to advance the understanding of diseases of the
-
-developing world.
-
-Yamada was one of dozens of executives we spoke to over the last
-
-several years to learn how one can succeed in making positive change in
-
-large organizations. In these interviews, we heard accounts that reﬂect
-
-the mindsets Yamada described. In nearly every case we saw the power
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+health initiatives. In just the past 3 years Tres Cantos researchers have

@@ -1,5 +1,15 @@
-# limitation of your model.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: b39763732579110f78b98e7ddbeec20768f4294a
+title: prompt
+---
+# Prompt Engineering
 
-Table 2 shows a few-shot prompt example, let’s use the same gemini-pro model
+The number of examples you need for few-shot prompting depends on a few factors,
 
-con(cid:450)guration se(cid:459)ings as before, other than increasing the token limit to accommodate the
+including the complexity of the task, the quality of the examples, and the capabilities of the
+
+generative AI (gen AI) model you are using. As a general rule of thumb, you should use at
+
+least three to (cid:450)ve examples for few-shot prompting. However, you may need to use more examples for more complex tasks, or you may need to use fewer due to the input length

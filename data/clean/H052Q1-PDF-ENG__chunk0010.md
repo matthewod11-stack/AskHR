@@ -1,15 +1,29 @@
-# spontaneously during the Q&A portion.
+---
+source_path: H052Q1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4122147b2ba5e0439948a069fbcba5d4dfb5e1e
+title: H052Q1-PDF-ENG
+---
+# the how.
 
-In evaluating how clearly managers communicated during these calls, we
+Language Barriers and Firm Value Globalization, ironically, demands standardization — and like it or not,
 
-paid attention to two measures.
+when it comes to communication in the world of business, English is now
 
-The ﬁrst was linguistic complexity, which refers not to sophisticated
+the standard. Executives around the world have to use English when
 
-expression but rather to how often a speaker violates the principles of
+communicating with their investors today, and an increasing number of
 
-Copyright © 2019 Harvard Business School Publishing Corporation. All rights reserved.
+those executives are non-native speakers of English. How well they speak
 
-2
+the language has meaningful capital-market consequences.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+We demonstrated this in one of our studies by reviewing the transcripts of
+
+earnings calls conducted by more than 4,500 non-U.S. ﬁrms, all of which
+
+hosted conference calls in English between 2002 and 2010. We didn’t
+
+analyze the presentation portion of the calls, because it tends to be
+
+scripted, and instead focused on the answers that managers gave

@@ -1,15 +1,21 @@
-# www.rspsciencehub.com
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: 6669779bb7ab9a4956d03d9789057ad00aadf324
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# Volume 02 Issue 10S October 2020
 
-analysis and visualization. It can explore huge data sets. Like able to analyze and clean millions of rows of data.
+Special Issue of First International Conference on Advancements in Management, Engineering and Technology (ICAMET 2020) Conceptualizing the Importance of HR Analytics in Attrition Reduction Rupa Chatterjee Das1, Dr. Anjana Devi S.C2 1Assistant Professor, Department of Management Studies, Dayananda Sagar Academy of Technology & Management, Bangalore, Karnataka, India, 2Associate Professor, Department of Management Studies, Dayananda Sagar Academy of Technology & Management, Bangalore, Karnataka, India, rupa.c.das84@gmail.com1 ,anjanadevisc@gmail.com2
 
-- 2. Python is a programming language, and it is very much useful for substituting with R. Mainly in the IT organizations use this programming language for the analytical work in the organization.
+Abstract The objective of the conceptual paper for analysing the opportunities and challenges of HR Analytics for reducing the attrition rate in the organization. The paper highlighted the important reasons of high attrition in different type of organizations and the effective approaches by the respective organizations for reducing attrition rate. Employee attrition is one of serious issues in the current corporate scenario as it impacts on the organizational image, values, culture, reputation, and job satisfaction. Moreover, high attrition is related to high cost for any organization. This research intended to explore employee attrition and finding out gaps in work and improve in those areas for reducing attrition accordingly. The sources of data used are both primary & secondary. HR Managers of select organizations were requested to share the recent trends with the usage & applications of HR Analytical tools. The data was collected by conducting personal interactions over telephones as primary source. Journals & research articles in the domain of HR analytics were used to get better insights. Effective recruitment structure, working environment and Employee Engagement is created. Though the prediction by HR Analytics is a challenging job but there are many methodologies which can change the look of the organization and HR team can measure and predict the gap for attrition. This research paper explains the analytical process for reducing attrition and importance of utilization of HR Analytics. Key Words– HR Analytics, Employee Attrition, Retention, Value-Culture-Job Satisfaction- Reputation, Recruitment, Job Structure.
 
-- 3. Excel is the most basic tool of HR Analytics. For any type of numerical and graphical calculations, we use this tool very frequently. This tool also quite common for all organization and HR team as well. Excel is most user-friendly tool for all employees.
+- 1. Introduction HR Analytics is the method of collecting and evaluating Human Resource data to improve an organization’s culture, workers performance, retention etc. (Eric W. MacIntosh, Alison Doherty – 2009[5]). HR Analytics has the power of early prediction of the movement of the employees and organization. In the big organization where huge no of employees are working, HR Analytical tools or methodology are very much productive for
 
-- 4. Tableau is remarkably like Power BI in that the accumulation and conception of various data sources. This tool founded in 2003 for research produced at Stanford University, the software has created identical position in the world. It is one of the best business intelligence tools in the current scenario.
+providing the data-supported understanding on what is working fine and what is not so that organizations can make changes or improvements and plan more efficiently for the future (Sandeep Yadav, Aman Jain & Deepti Singh-2018[1]). The most used Analytical tools by organizations for their analytical works are as (e.g. [16]) –
 
-it allows
+- 1. R is one of the most common tools of HR analytics. It is most famous for statistical
 
-- 5. SPSS another one of the most used tools of HR analytics in the social disciplines. It is very user-friendly approach; through this tool anyone can analyze the data without proper statistical knowledge as well. As it is very user friendly anyone wants to analyze data, they can do the same easily.
+International Research Journal on Advanced Science Hub (IRJASH)
 
-In this paper, made a sincere attempt to understand the significant of HR Analytics to deliver high performance to the organization. The first part reviews the previous work done by existing authors and discovers the gap for the research. Second portion highlighted the study objectives of the research. The last section explains about input framework of effective process and output parameters the reducing organization. The last section provides implication of the effective tools and framework followed by conclusions and references.
+40

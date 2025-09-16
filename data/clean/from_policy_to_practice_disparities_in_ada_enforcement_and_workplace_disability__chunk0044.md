@@ -1,1 +1,7 @@
-## ADA-compliant and available Often non-existent
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: 5cf66cea2010cc03ef01640f367f526b7f01be82
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+# Public Transportation

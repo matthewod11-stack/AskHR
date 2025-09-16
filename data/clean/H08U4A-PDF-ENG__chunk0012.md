@@ -1,23 +1,11 @@
-## In healthcare, data on how patients perceive kindness in their
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e935370bd6c30e39391d9564986d2c3c3d816e2
+title: H08U4A-PDF-ENG
+---
+## HBR / Digital Article / Why Kindness Isn’t a Nice to Have
 
-interactions shows that poor communication and team coordination
+participating in organized activities and communities, and when face-
 
-negatively aﬀect their trust in their care. Conversely, when patients
-
-experience kindness through actions that make them feel seen, heard,
-
-included, and supported, their trust rises.
-
-These dynamics aren’t unique to healthcare. The cost of unkindness
-
-can be found in studies across a wide range of workplace settings.
-
-The study of incivility that we mentioned earlier found that 98% of
-
-employees had experienced unkindness (incivility) in their workplaces,
-
-leading to increased absenteeism, lower eﬀort, less collaboration, and
-
-reduced enthusiasm for their organization. And incivility doesn’t just
-
-mean extreme bullying. It includes everyday rudeness, gaslighting, or
+to-face interaction fades, so do the behavioral norms that rely on it.

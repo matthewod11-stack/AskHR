@@ -1,21 +1,15 @@
-## of global climate issues in the ﬁrm’s risk management approach
+---
+source_path: H07SGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 169728f79e5cabc54a733310dac7bd6e5feeef2c
+title: H07SGE-PDF-ENG
+---
+# sustainability” strategies.
 
-and promotes sustainability solutions for employees, resellers, and
+- Financial services ﬁrm Liberty Mutual sees people sustainability
 
-customers. The company promotes thought-through generational and
+as a factor in limiting the global risks of its customers, partners,
 
-gender equality programs, and Hyatt ensures that every employee
+and employees in the face of accelerating climate change. Chief sustainability oﬃcer Francis Hyatt, who previously served as executive
 
-understands how their long-term safety and success is part of the
-
-company’s overall sustainability strategy. In other words, this new job
-
-function uniﬁes all the brand’s existing HR work into the context of
-
-sustainability and helping the planet.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+vice president of enterprise talent practices, oversees the integration

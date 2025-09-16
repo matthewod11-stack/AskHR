@@ -1,21 +1,39 @@
-## short- and long-term performance, proﬁts and growth, continuity and
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23b3d3dfb9370ded45a01eb5a3385fc3b7429881
+title: S24012-PDF-ENG
+---
+## HBR / Spotlight Article / Leaders Must React
 
-change. We can add being proactive and reactive to the list. As much
+study showed that the average leader spends 36% of working hours on
 
-as leaders must craft a vision and align and motivate the organization
+them—but that is just an average. Among individual leaders, the range
 
-around it, they must also sense, size, and respond to unfolding events.
+varies dramatically. One CEO we studied spent just 14% of his time in
 
-I urge leaders to be thoughtful and intentional about managing them—
+reactive mode; another 81%. No doubt, the second leader was being
 
-and to use my framework to do so more eﬀectively.
+excessively reactive, but in our discussion with the ﬁrst leader, we raised
 
-A version of this article appeared in the January–February 2024 issue of Harvard Business Review.
+the possibility that he was underinvesting in it.
 
-Nitin Nohria is the George F. Baker Jr. and Distinguished Service University Professor. He served as the 10th dean of Harvard Business School, from 2010 to 2020.
+These polar cases illustrate a truth: The leader’s goal is not to
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+minimize time spent reacting to unforeseen events but to ﬁnd the
 
-13
+right proportion. Though managing them may at moments feel like
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a distraction from eﬀorts to reach long-term goals, it remains an
+
+essential part of what leaders do—and there can be immense costs to
+
+handling it poorly. Many CEO ﬁrings result from missteps in responding
+
+to unfolding events. And no matter how brilliant a leader’s plans
+
+may be, unexpected issues inevitably intrude, and dealing with them
+
+successfully might even be vital to achieving the plans.
+
+Leadership often entails mastering dualities—strategy and execution,

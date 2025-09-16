@@ -1,9 +1,11 @@
-# law.
+---
+source_path: H08A30-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6b013cf22cd7d20db81723e675979b280a5ffc68
+title: H08A30-PDF-ENG
+---
+## sex, sexual orientation, gender identity/expression, pregnancy, veteran
 
-- Heartfelt language: Galaxy Retail is an Equal Opportunity Employer
+status, marital status, creed, status with regard to public assistance,
 
-— By Choice. We believe we are best equipped to help our associates,
-
-customers and the communities we serve live better when we really
-
-know them. That means understanding, respecting and valuing
+genetic status, or any other status protected by federal, state, or local

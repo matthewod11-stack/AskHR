@@ -1,25 +1,23 @@
-# calories and not very much nutrition.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4e7a6c070290a7b83e9357cca529b392a04635f
+title: H07SHV-PDF-ENG
+---
+# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-There’s a lot of neuroscience behind this, but everybody knows that
+ARTHUR C. BROOKS:
 
-when you’re bored or you’re lonely and you start looking at your devices
+We do have a pretty good idea of what’s going on. You ﬁnd that
 
-and at your phone, you actually get more bored and you get more lonely.
+happiness started to go into a little bit of a malaise, a bit of a decline, in
 
-This is a huge problem, especially for young adults.
+the late ’80s, early ’90s, but then it took a real big dip when social media
 
-Then the coronavirus came along, and this was the most catastrophic
+came along.
 
-event for public happiness that we’ve seen in a long time worldwide.
+Social media was catastrophic for happiness. Part of the reason is
 
-Ordinarily, about 30% of people would say they’re very happy about
+we distract ourselves when we’re lonely with something that’s the
 
-their lives, and 15% would say they’re not happy. The rest are in the
-
-middle. Those are ﬂipped. Now it’s about 30% who are not happy and
-
-15% who are very happy.
-
-Those trends have not actually turned around. We know that it has
-
-everything to do with social life. It has everything to do with our love
+equivalent of burgers and fries for a social life. They give you lots of

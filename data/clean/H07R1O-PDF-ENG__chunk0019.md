@@ -1,25 +1,21 @@
-## HBR / Digital Article / How CEOs Can Navigate the Emotional Labor of Leadership
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d7d183d1b82594f2f9ea8596865748b7aab3f64
+title: H07R1O-PDF-ENG
+---
+## sexual orientation and gender identity in Florida schools. Chapek
 
-attempting to revoke beneﬁcial tax treatment on Disney’s Florida land.
+initially stayed silent, relying on Disney lobbyists to work against the
 
-One publication described Chapek’s ﬁring as the result of a “woke war”
+bill in private, but facing threats of a boycott and employee criticism,
 
-— an example of an increasingly unwinnable dilemma facing CEOs.
+he subsequently spoke out publicly against it. He then faced harsh
 
-The demand for authenticity in leadership has also surged.
+blowback from conservatives, with Florida’s governor, Ron DeSantis,
 
-Everyone expects CEOs to be more open, which includes sharing
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-personal stories and experiences. On the one hand, authenticity
+4
 
-can foster trust and credibility, potentially reducing the emotional
-
-burdens of the job. However, it can also increase vulnerability and
-
-emotional exposure, leading to stress. Disclosing personal information,
-
-particularly on controversial matters, can elicit backlash or criticism,
-
-adding to the emotional burden. CEOs must balance being authentic
-
-and maintaining professional boundaries, a delicate act that, in itself,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,11 @@
-## cross-cultural communication with diverse patient populations. This
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8974d1e6e082f799791cb5a90c711a9e2868f520
+title: H08PPX-PDF-ENG
+---
+## patient demographics. Physicians, nurses, and frontline staﬀ each
 
-training is further localized to reﬂect the cultural context of the
+receive content tailored to their unique responsibilities, such as
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+addressing implicit bias in clinical decision-making or improving

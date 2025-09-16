@@ -1,1 +1,11 @@
-# 267
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: c823fc47f4eada7c3b0cedea50f6ec0f4e678e19
+title: performance_management_3rd_edition_by_aguinis
+---
+## Motivation = Expectancy * Instrumentality * Valence
+
+If the expectancy, instrumentality, or valence conditions are not met, the CP plan is not likely to improve performance. For example, consider the situation in which the instrumentality condition is not present. Employees may value the rewards available and may want to get them (valence). They may also see that if they exert sufficient effort, they will be able to achieve the desired performance level (expectancy). They believe, however, that the rewards received are not necessarily related to their performance level (i.e., no instrumentality). In this situation, employees are not likely to choose to exert effort because this will not get them the desired rewards.
+
+CP plans and pay in general should not be regarded as the Holy Grail of employee performance. First, pay can affect only the motivation aspect of performance. If an employee is not performing well, pay may not solve the problem if poor performance results from a lack of declarative or procedural knowledge as opposed to a lack of motivation. All of the three conditions must be present for CP plans to have an impact on employee motivation. We should be aware that pay is not necessarily the perfect solution and that giving people more money will not automatically solve performance problems.

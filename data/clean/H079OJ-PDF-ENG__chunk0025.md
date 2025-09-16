@@ -1,49 +1,13 @@
-## HBR / Digital Article / Avoiding Conflict Will Only Hurt Your Family Business
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 276893fd6e804bfd97a2356c28548956f01b3a08
+title: H079OJ-PDF-ENG
+---
+# family issues.
 
-- 2. Use surveys to uncover opinions anonymously.
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-Have family members ﬁll out a quick anonymous survey before and
+5
 
-after a key meeting to create a helpful barometer. Set up a simple survey,
-
-through a service like Qualtrics, that asks family members what topics
-
-they want to address or explores what went well in a meeting and
-
-what could be improved (we call these “plus/deltas”). Such surveys can
-
-provide an easy, but helpful, opportunity to oﬀer constructive feedback.
-
-- 3. Consider facilitated conversations.
-
-Bring in an outsider to facilitate a challenging conversation. An outside
-
-facilitator can set ground rules and boundaries for the conversation,
-
-monitor those boundaries, reset the conversation if things are getting
-
-oﬀ track, and ensure that everyone has a chance to be heard.
-
-- 4. Strengthen transparency.
-
-Fake harmony can fester because family members are feeling insecure
-
-— afraid that asking questions will make them appear dumb or
-
-uninformed — or that it will imply that they are challenging other
-
-family members. They don’t want to expose themselves or oﬀend.
-
-But if family leaders make a point of keeping their stakeholders
-
-informed about both business issues and key decisions that are being
-
-made, people are less likely to feel afraid to ask questions. Sunlight can
-
-be the best disinfectant.
-
-- 5. Set the right standard.
-
-Remind your family members that your goal is to make great
-
-decisions together. Fake harmony won’t help you do that. Constructive
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

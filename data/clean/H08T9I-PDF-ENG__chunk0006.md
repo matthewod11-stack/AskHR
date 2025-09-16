@@ -1,15 +1,17 @@
-# When to Innovate and When to Imitate
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f90ee12408a3ce92ed23877b6376d12b4c80a4b2
+title: H08T9I-PDF-ENG
+---
+# their positioning in the market.
 
-We’ve developed a framework, based on decades of research, to help
+In this article, we take a step back. Before deciding how to innovate,
 
-determine whether a company is better oﬀ pursuing an imitation or
+we suggest companies ask when they should innovate—and whether it
 
-innovation strategy. The framework is built on two critical dimensions:
+might make more sense to imitate instead. While less glamorous, for
 
-(1) industry maturity; and (2) a company’s position within an industry.
+some companies, imitating the right rivals at the right time can be more
 
-By “position within an industry,” we mean how a company performs
-
-(based on given performance criteria) relative to other players in
-
-the industry. These criteria can vary. For instance, airlines generally
+eﬀective and lucrative than attempting to chart an entirely new course.

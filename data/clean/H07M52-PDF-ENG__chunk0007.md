@@ -1,13 +1,15 @@
-# it.
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b20371bb615bb23437fcb9bf6b082b77816a092a
+title: H07M52-PDF-ENG
+---
+# Illustration by Tyler Comrie
 
-Chris’s team is hardly alone. Business stressors like layoﬀs, economic
+Chris’s product management team is faltering. Despite managing to
 
-headwinds, and geopolitical instability are depleting teams, causing
+hit their deadlines and churn out the basic product upgrades, sales are
 
-one in four employees globally to feel burned out. These factors
+down, and it’s hard to remember the last time they had a breakthrough
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+idea. They want to innovate, but can’t seem to muster the energy to do

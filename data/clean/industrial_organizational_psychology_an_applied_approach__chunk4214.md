@@ -1,7 +1,9 @@
-## (9th ed.). Englewood Cliﬀ s, NJ: Prentice Hall.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8e725a1b9942daa5b8309e80b0bc13ab6645f53e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# (10th ed.). New York: McGraw-Hill.
 
-Greenwood, K. M. (1994). Long-term stability and psychometric
-
-properties of the composite scale of morningness. Ergonomics, 37(2), 377–383.
-
-Grensing-Pophal, L. (2001a). HR and the corporate intranet:
+Greenberg, J. S., & Baron, R. A. (2008). Behavior in organizations

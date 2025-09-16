@@ -1,59 +1,69 @@
+---
+source_path: H08HUR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e414667a8764ac0e2d087bebd586cea2788cf138
+title: H08HUR-PDF-ENG
+---
 ## HBR / Digital Article / 10 Signs of a Toxic Boss — and How to Protect Yourself
 
-Try: “When you passed me over for the new client project, it made
+and energy in hobbies, relationships, and goals outside of work can help
 
-me feel undermined. I felt like you didn’t trust that I could handle
+maintain perspective and reduce the impact of work-related stress.
 
-competing priorities. It also aﬀects my conﬁdence when you point
+Journaling has also been shown to be an eﬀective method to manage
 
-out my mistakes in front of other people. I value your feedback, but I
+emotions. In fact, writing about negative experiences has a positive
 
-would appreciate if you could give that to me in private and help me
+eﬀect on our mental health. Expressive writing, for example, can result
 
-understand how I can do better.”
+in a reduction in stress and anxiety, and can even bring us greater focus
 
-- 3. Keep an audit trail of information.
+and clarity. Set aside a few minutes each day to write freely about your
 
-Keep detailed records of interactions, assignments, and any
+emotions and experiences at work. Use prompts like “Today I felt…” or
 
-inappropriate behavior directed towards you or others. In dire situations
+“A situation that aﬀected me was…” to explore your feelings.
 
-where you may need to seek help from human resources, you would be
+Mindfulness can also help, and can be practiced in many ways,
 
-able to use your information trail to show that your feelings are rooted
+including using techniques like meditation or deep-breathing exercises
 
-in facts. If your boss tends to give a lot of instructions verbally, say,
+to stay grounded and manage stress. This can help you remain calm in diﬃcult situations. A good place to start would be with the 4-7-8 exercise
 
-while walking through the hallway, you could go back and email them
+where you breathe in for 4 seconds, hold your breath for 7 seconds, and
 
-with what was discussed. Present the instructions the way you heard
+then breathe out for 8 seconds.
 
-and processed them, and ask your boss to reconﬁrm if they look okay.
+- 2. Seek constructive dialogue.
 
-Try: “Hi Alex. I want to be sure I got all the information right as this
+If you feel you can talk to your boss, attempt to have calm, professional
 
-will help me do a good job on the project and meet your expectations.
+conversation about how their behavior makes you feel. It’s important
 
-Here is what I took away from our conversation a few minutes ago
+to be factual. State speciﬁc examples, link them to your feelings, and
 
-[list instructions here]. Please conﬁrm if my understanding is correct.
+talk about how it undermined your ability to do the work asked of you.
 
-In case I may have missed something, please feel free to add to/edit
+Don’t be accusatory or apportion blame. Simply and calmly state how
 
-the list. Thank you.”
+their actions made you feel. It’s important to remain in control of your
 
-- 4. Find a support group.
+feelings, and also to make note of anything they may say, in case you
 
-If you’re unable to ﬁnd a way to talk to your boss or need advice on the
+need to take the issue further.
 
-way forward, talk to a trusted colleague. You may ﬁnd that other direct
+Instead of saying: “You signaled that you don’t value me when you
 
-reports are also reeling under the same stress. It can help to talk to them
+passed me over for the new client’s project and said I couldn’t handle
 
-about their experiences and understand how they are dealing with the
+competing priorities. It crushed my conﬁdence. I knew I could do
 
-situation. Talking to a mentor or another senior leader could also help
+it, but it seems you didn’t trust me enough. You also point out my
 
-you gain a diﬀerent perspective. They may be able to oﬀer insight into a
+mistakes in front of everyone, making me appear careless.”
 
-stressful work situation that could be triggering your boss’s behavior, for
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

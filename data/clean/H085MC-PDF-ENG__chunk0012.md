@@ -1,11 +1,9 @@
-## authoritarian approach, and a demanding, do-what-I-say attitude, he
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb9874894c9a154e326ac5e0f511b34645ab28e6
+title: H085MC-PDF-ENG
+---
+# HBR / Digital Article / 6 Common Leadership Styles — and How to Decide Which to Us…
 
-says. While this style may yield short-term results, it has a corrosive
-
-long-term impact on the company culture, leading to high employee
-
-turnover and a disillusioned, disengaged workforce.
-
-When to use the coercive leadership style
-
-This command-and-control leadership style may work in certain crisis
+why. This style is characterized by top-down decision making, an

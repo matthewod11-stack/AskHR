@@ -1,9 +1,11 @@
-## payment guarantees and dispute resolution mechanisms, and the
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13a6b5a10b1277bd999d137fc833817bd8b45027
+title: H06X4I-PDF-ENG
+---
+# What Managers Should Do
 
-ability to establish a veriﬁed track record of feedback and reputation scores — a kind of virtual resume. For employers, this track record oﬀers
+Platforms are the primary way freelancers and companies ﬁnd each
 
-conﬁdence when hiring from a global talent pool. They don’t need to
-
-understand the speciﬁcs of a local labor market — how a college ranks,
-
-which employers signal particular ability, etc. — to ﬁnd the right person
+other for open/ﬂexible work, and help establish trust for both workers and employers. For the freelance workers, they oﬀer protection through

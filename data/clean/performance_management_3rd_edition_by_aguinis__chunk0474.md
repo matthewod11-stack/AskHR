@@ -1,1 +1,21 @@
-# 63
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: caa7e9c26089908026b76af02d6a9d7387b3aa05
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 3 • Performance Management and Strategic Planning
+
+results, behaviors, and developmental plans consistent with the organizational- and department-level priorities as well as the individual job descriptions.
+
+Does the process of aligning organizational, unit, and individual priorities actually work in practice? Is this doable? The answer to these questions is “yes” and the benefits of doing so are widely documented. Performance management systems have a critical role in translating strategy into action.4 In fact, a recent study including 338 organizations in 42 countries found that performance management is the third most important factor affecting the success of a strategic plan. This is particularly true for larger organizations and for organizations that operate in rapidly changing environments.
+
+As a concrete example, consider the case of Key Bank USA, a financial services company with assets of $92 billion that provides investment management, retail and commercial banking, consumer finance, and investment banking products and services. Key Bank of Utah successfully developed a performance management system that is aligned with the strategic plan of the organization.5 To do this, the bank first involved managers at all hierarchical levels to develop an organization mission statement. Next, it developed goals and strategies that would help achieve Key Bank’s mission. The mission statement, goals, and strategies at the organizational level served as the founda- tion for developing the strategies for individual departments and units. To develop these, senior managers met with each department manager to discuss the organization’s goals and strategies and to explain the importance of having similar items in place in each department. Subsequently, each of the departmental managers met with his or her employees to develop the department’s mission statement and goals. One important premise in this exercise was that each department’s mission statement and objectives had to be aligned with the corporate mission statement, goals, and strategies. After organizational and departmental goals and strategies were aligned, managers and employees reviewed individual job descriptions. Each job description was tailored so that individual job responsibilities were clear and contributed to meeting the depart- ment’s and the organization’s objectives. Involving employees in this process helped them to gain a clear understanding of how their performance affected the department and, in turn, the organization.
+
+Finally, based on the key responsibilities identified, the performance manage- ment system included behaviors, results, and developmental plans. For example, each employee record included information on various responsibilities, standards expected, goals to be reached, and actions to be taken to improve performance in the future. A summary of the entire process implemented at Key Bank of Utah is shown in Figure 3.2.
+
+What happened after Key Bank of Utah implemented this system? In general terms, Key Bank was able to enjoy several positive consequences of aligning corporate, depart- mental, and individual goals. After the implementation of its new performance manage- ment system, Key Bank found several meaningful benefits, including the following:
+
+- Managers knew that employees were focused on meeting important goals. • Employees had more decision-making power. • Lower-level managers had a better understanding of higher-level managers’ decisions.
+
+- Communication increased and improved (among managers, between managers and employees, etc.).

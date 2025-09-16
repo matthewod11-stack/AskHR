@@ -1,11 +1,7 @@
-# . orgamzation ~s resources.
-
-A major barrier to implementation of this plan will be getting the support of upper-
-
-level management to implement the new Performance Evaluation System proposed in this
-
-study. This plan is only one of many alternatives t.o improving employee performance and
-
-to addressing conditions at ETR. In retrospect, given more time, resources and information ,
-
-the author would have liked to propose a future project - a Effective Training Program be
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 1ce226aeba906364431594bbbfd67892ac7c5880
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# the proper use of

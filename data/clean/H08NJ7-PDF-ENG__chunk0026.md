@@ -1,19 +1,23 @@
-## methods to the unique needs of your coachees. Exceptional leaders
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42b9cf163215b072cfee7143aeeca77da7af6614
+title: H08NJ7-PDF-ENG
+---
+## HBR / Digital Article / 4 Styles of Coaching—and When to Use Them
 
-master the art of seamlessly blending various coaching styles. They
+This approach fosters self-awareness, provides the right experience-
 
-know when to take charge, when to oﬀer guidance, and when to step
+based guidance, and empowers the employee to make the eventual
 
-back and empower others to lead. This journey is about continuous
+decision-making after taking all factors into consideration.
 
-growth, both for you as a coach and for those you guide.
+. . .
 
-This article was originally published online on March 18, 2025.
+The essence of eﬀective coaching lies in the ability to discern when
 
-Ruchira Chaudhary is an alumna of the University of Chicago Booth School of Business, and straddles the corporate and academic worlds. Ruchira is a leading executive coach, adjunct faculty at several top tier business schools, and founder of TrueNorth Consulting that focuses on organizational strategy solutions. She is the author of Coaching: The Secret Code to Uncommon Leadership (Penguin Random House). Connect with her on LinkenIn.
+to employ diﬀerent styles and approaches. It’s a dynamic process that
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+evolves with experience and practice. As you continue to hone your
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+coaching skills, you’ll naturally develop the intuition to adapt your

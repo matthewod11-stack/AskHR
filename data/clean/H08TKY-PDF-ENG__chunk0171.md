@@ -1,11 +1,13 @@
-## poor planning, poor execution, or both, but the strategy-to-performance
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 964553c078655fa54f41d6c26aee4ec485f3dcbc
+title: H08TKY-PDF-ENG
+---
+## Neilson, Karla L. Martin, and Elizabeth Powers (2008)
 
-gap is a common problem. While often opaque to management, there
+. . .
 
-are a few regular problems related to this gap:
+Strategy-to-performance gap: Most companies struggle to deliver the
 
-- Companies rarely track performance against long-term plans.
-
-- When they do, multiyear results rarely meet projections. Instead, they
-
-show performance consistently falling short of ambitious projections
+ﬁnancial performance their strategies promise. Leaders might blame

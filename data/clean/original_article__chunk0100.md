@@ -1,5 +1,9 @@
-# in our case, board members
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 657a6f878c0adcbdd20b93bcdfb4f9ea6d6ade62
+title: original_article
+---
+# Improving corporate performance
 
-sources. Full complements of primary and sec- ondary data were collected for 182 participants (1.42 per cent of total sample, and 43 per cent of respondents). Tables 4 and 5 summarize the demographic information for the participat- ing organizations as well as director demographic proﬁles.
-
-The data demonstrate appropriate levels of diversity, gender and representation of the indus- try as a whole. We performed an ANOVA test to determine whether any of the demographic characteristics of timing of survey completion (early versus late respon- dents) had a signiﬁcant impact on any of the variables. We found that there was a signiﬁcant
+to target participants, comprising board mem- bers of randomly selected public and private for-proﬁt organizations in the United States, of all sizes and industry types. Of the nearly 13 000 conﬁrmed receipts of the survey ques- tionnaire e-mails, 422 recipients completed the questionnaire, yielding a 3.5 per cent response rate. Rates this low are not uncommon including top management among samples (Stimpert, and, 1992), as these respondents are often overbur- time-pressed and generally unwilling dened, to share information about themselves or their boards. For each respondent, additional information was collected from secondary data

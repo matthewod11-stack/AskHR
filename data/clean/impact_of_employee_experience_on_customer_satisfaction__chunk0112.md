@@ -1,5 +1,7 @@
-# Factors influencing Job Satisfaction
-
-Several studies were conducted on factors influencing job satisfaction over the past
-
-fifty years which highlighted a series of factors such as: The nature of the work, the
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 8402306307cb947b122645a2300f90bda5fb3d16
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 20 | P a g e

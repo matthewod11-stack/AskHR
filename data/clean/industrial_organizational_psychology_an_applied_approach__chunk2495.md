@@ -1,17 +1,27 @@
-## Text not available due to copyright restrictions
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ad05f2315901fd80888892c7235cf6a0dbbc0fb6
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Measuring Job Satisfaction and Commitment
 
-The fact that the JDI has five scales and the MSQ  underscores the point that job satisfaction is not easy to measure. This is especially true when one considers that employees’ responses on the JDI are not highly correlated with their responses on the MSQ (Gillet & Schwab, ). Because both the JDI and the MSQ measure specific aspects of job satisfaction, Ironson, Smith, Brannick, Gibson, and Paul () developed the Job in General (JIG) Scale. The JIG is
+This chapter has discussed several theories that seek to explain job satisfaction and commitment. But one important issue that remains is how an employee’s level of job satisfaction or commitment is measured. Generally, job satisfaction is measured in one of two ways: standard job satisfaction inventories or custom- designed satisfaction inventories. Commitment is usually measured through standard commitment inventories.
 
-Ask yourself: How satisfied am I with this aspect of my job?
+Commonly Used Standard Inventories Measures of Job Satisfaction One of the first methods for measuring job satisfaction was developed by Kunin () and is called the Faces Scale (a simulation is shown in Figure .). Although the scale is easy to use, it is no longer commonly administered partly because it lacks sufficient detail, lacks construct validity, and because some employees believe it is so simple that it is demeaning.
 
-Very Sat. means I am very satisfied with this aspect of my job.
+The most commonly used scale today is the Job Descriptive Index (JDI) (Figure .). The JDI was developed by Smith, Kendall, and Hulin () and consists of a series of job-related adjectives and statements that are rated by employees. The scales yield scores on five dimensions of job satisfaction: supervi- sion, pay, promotional opportunities, coworkers, and the work itself.
 
-Sat. means I am satisfied with this aspect of my job.
+A similar measure of job satisfaction is the Minnesota Satisfaction Questionnaire (MSQ), which was developed by Weiss, Dawis, England, and Lofquist (). The MSQ contains  items that yield scores on  scales. To get experience taking a satisfaction inventory, complete the short form of the MSQ in Figure ..
 
-N means I can’t decide whether I am satisfied or not with this aspect of my job.
+Place a check under the face that expresses how you feel about your job in general.
 
-Dissat. means I am dissatisfied with this aspect of my job.
+Figure 10.3 Simulation of faces scale of job satisfaction
 
-Very Dissat. means I am very dissatisfied with this aspect of my job.
+employee satisfaction and commitment
 
-On my present job, this is how I feel about...
+381
+
+382
+
+chapter 

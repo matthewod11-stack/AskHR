@@ -1,15 +1,15 @@
-## transformation performance by 12 times: from 6% to 72%.
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05d99a61d07b32bb937b9c8368ca2ed69808c386
+title: H08CT9-PDF-ENG
+---
+## How Successful Leaders Navigate a Turning Point
 
-- 1. They look for shifts in the team’s emotional energy.
+So, what did we see in our data that allows organizations to
 
-The ﬁrst step is leaders sensing for signals that something is amiss, that
+navigate these ubiquitous turning points successfully? Our model
 
-there’s been a shift in energy among the workforce. Transformations
+identiﬁed a dynamic three-step process that, if followed, increases the
 
-often begin with optimism — even excitement. But when the reality of this diﬃcult work hits home, there is a danger of energy becoming
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+likelihood that a turning point intervention will signiﬁcantly improve

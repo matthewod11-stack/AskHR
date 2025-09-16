@@ -1,9 +1,11 @@
-# chological Review, 14, 61–91.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 35cf6f0cb3218381ec909e9fb622777b2e59527c
+title: untitled
+---
+# (5th ed.). Washington, D.C.: APA.
 
-Angell, J. R. (1911). Philosophical and psychological usage of the terms mind, consciousness, and soul. Psychological Bulletin, 8, 46–47.
+Angell, J. R. (1905). Psychology. New York: Holt.
 
-Asch,S.E.(1955).Opinionsandsocialpressure.ScientiﬁcAmerican,
-
-193, 31–35.
-
-Attneave, F. (1959). Applications of information theory to psychol-
+Angell, J. R. (1907). The province of functional psychology. Psy-

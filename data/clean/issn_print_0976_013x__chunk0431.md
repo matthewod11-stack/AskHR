@@ -1,31 +1,27 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 1f7edc3e28c0275c5201f5af106a7385e89ffedb
+title: issn_print_0976_013x
+---
+# quarter.
 
-Within our social contexts, conformity is pervasive. Occasionally, we are aware of our
+The expansion and increase in production in several IT organizations are characterized by a
 
-behaviour, but we often act unconsciously without much thought or awareness. Sometimes,
+shared set of values and standards with their personnel. These principles can impact company
 
-we approve of things with which we disagree or behave in ways we are aware we cannot
+decisions and contribute to developing a collaborative and supportive professional
 
-control. Conformity facilitates the organization's behaviour as a single entity working together
+environment. Knowing a company's culture and its guiding principles can assist professionals
 
-as a team. Businesses must have regulations and guidelines that streamline and govern
+in assessing whether a particular workplace is a good fit. An organization's business activities
 
-output standards to retain brand integrity. It may be claimed that conformity stifles
+are guided by its values, standards, and regulations. These principles can impact the operation
 
-innovation, but it also eliminates this issue by clarifying organizational norms and employee
+of internal teams, the goods and services a business provides, and the promotional resources
 
-expectations. It enables companies to have a degree of uniformity, which increases the
+and public communication a company shares. By defining acceptable behaviour norms, they
 
-likelihood that everyone is working towards the same objective. Here it is pertinent to
+can help employees comprehend management's objectives and priorities.
 
-mention about a major research on the theme –Solomon Asch, a noted psychologist,
-
-recruited participants to execute what they thought was a simple perceptual test in these
-
-1950s experiments. Pupils had to pick a line that matched one of three lengths. Individuals
-
-choose the right decision. When questioned by confederates who had been informed of the
-
-study and purposely chose the wrong line, 75% of participants conformed at least once. This
-
-experiment effectively exhibits normative influence.
+50

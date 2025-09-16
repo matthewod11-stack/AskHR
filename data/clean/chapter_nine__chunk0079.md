@@ -1,19 +1,7 @@
-# http://www.fons.org/library/journal.aspx
-
-It is therefore at the micro-systems level where there is a need for skilled facilitation of others’ effectiveness through learning in and from practice, inquiry and evaluation, evidence use and implementation within the workplace. This highlights the importance of incorporating the essential facilitation skill-set into clinical leader roles, such as, those facilitating the development of practice, and others who work at the patient-provider interface (Manley and Webster, 2006). We argue that skills in facilitating others effectiveness are crucial to enabling effective workplace cultures as this will not happen by ‘accident’. Skilled facilitation is a core component of practice development (Simmons, 2004) along with enabling effective working of both individuals and teams in the development of person-centred cultures of practice (Webster, 2009). Being internal or external facilitators to the workplace is unimportant as a facilitator or clinical leader. Of more importance is role negotiation and clarification consistent with purpose (McCormack et al., 2006) together with workplace culture development (linked with evaluating and improving patient, user and staff experiences) being included in job descriptions, to prevent it being lost in the daily challenges of operational issues and the pressure of service delivery.
-
-It is proposed that organisations can support the development of effective workplace cultures by investing in the development of both transformational leadership and facilitation skills through skills development, and the provision of ongoing supervision, support and peer review for these key players.
-
-We would argue that more research is required to identify:
-
-The local, national and international indicators needed to provide evidence of achievement of the attributes and consequences of an effective workplace culture. This key priority has been highlighted in relation to aligning the attributes of an effective workplace culture with the process outcomes necessary to achieve improved health outcomes and patient experiences, as well as, the cost effective use of resources (Manley et al., 2011)
-
-- How workplace cultures influence each other and the organisational culture, for example, whether this is achieved through formal channels such as (knowledge dissemination) meetings, or informal channels such as ‘corridor conversations’ and stakeholder movement from one workplace culture to another, or how clinical leaders work and rotate around different areas The relative importance of each attribute, enabling factor and consequence
-
-In addition we would also suggest that the importance of effective workplace cultures needs to be made more explicit and a core, underpinning component of the current healthcare policy focus on ‘quality’ as it is our view that the quality agenda will not be achieved in full if the culture (organisational and workplace) is not enabling or supportive of this - this we would argue is more than espoused support alone as without action rhetoric will remain rhetoric.
-
-Limitations and conclusion The concept analysis approach has drawn on the expertise and the values of the researchers and contributors as well as propositional knowledge of expert practice development facilitators. The assumptions held by the authors and contributors may not have been adequately challenged and unconsciously influenced the data analysis, although the researchers have made their own values explicit.
-
-Although the papers reviewed are sourced from different health disciplines, the research has been undertaken by practice developers from different countries, all nurses. Other disciplines may interpret the concept of workplace culture and emerging data differently.
-
-20
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 5593344e06a192bd6a463df41c954338b5e9ab38
+title: chapter_nine
+---
+## © FoNS 2011 International Practice Development Journal 1 (2) [1]

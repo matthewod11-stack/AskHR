@@ -1,7 +1,19 @@
-# Contextual prompting
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: bf538aea2bd88f906a1d94d24d1c63866ba9b689
+title: prompt
+---
+# Output
 
-By providing contextual prompts, you can help ensure that your AI interactions are as
+- 1. Behold the Empire State of Mind: Ascend to the dizzying heights of the Empire State Building and bask in the glory of Manha(cid:459)an's skyline. Prepare to feel like King Kong atop the Big Apple, minus the giant ape-sized banana.
 
-seamless and e(cid:444)cient as possible. The model will be able to more quickly understand your
+- 2. Get A(cid:457)sy-Fa(cid:457)sy at MoMA: Unleash your inner a(cid:457) a(cid:450)cionado at the Museum
 
-request and be able to generate more accurate and relevant responses, as you can see in the
+of Modern A(cid:457) (MoMA). Gaze upon masterpieces that will boggle your mind and make you question whether your stick-(cid:450)gure drawings have any a(cid:457)istic merit.
+
+- 3. Shop ‘Til You Drop on Fi(cid:454)h Avenue: Indulge in some retail therapy on the
+
+iconic Fi(cid:454)h Avenue. Brace yourself for sticker shock as you window-shop (or actually shop) at designer boutiques that will make your wallet cry. But hey, you’re in Manha(cid:459)an, so you might as well embrace the fabulousness!
+
+Table 6. An example of role prompting with a humorous tone and style

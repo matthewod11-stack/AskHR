@@ -1,13 +1,23 @@
-# activities, and casual mingling.
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14d6143a5f3c39615e5f95dffa0c74e2abef6998
+title: H08TQX-PDF-ENG
+---
+## talk behind reconnect and share about other matters.
 
-- 3. Do bring the positive energy.
+- 2. Do offer meaningful perks.
 
-Employees who feel energized after a ritual tend to leave feeling
+Employees in our study reported feeling appreciated and rewarded
 
-more motivated about their work. Devote thought and preparation to
+when their organizations provided meaningful perks at events. Quality
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+food and entertainment, and small but thoughtful gifts, can signal that
 
-4
+employees are valued. Not sure which perks are best? Take an evidence-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+based approach. We spoke with one leader who conducted a survey,
+
+informing employees of the budget and providing them with options for
+
+how to spend it, including a formal sit-down meal, highly interactive

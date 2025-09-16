@@ -1,41 +1,13 @@
-## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c23b3e23c3ed12e4631c5d754b462b4334a98bc
+title: H08VIB-PDF-ENG
+---
+# group discussions.
 
-Anna also leveraged AI to shape the meeting’s structure. She worked
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-with AI to frame the strategic questions to be discussed, design the
+3
 
-agenda, develop the templates and instructions for groupwork. She also
-
-discussed with AI about the most popular facilitation techniques and
-
-selected one based on the goals, but also on the proﬁles of participants
-
-and their past group dynamics. Aware of existing tensions and diﬀering
-
-perspectives on selected topics, particularly between Finance and IT,
-
-she even used AI to reﬂect on and anticipate potential conﬂicts that
-
-might arise during the group discussion.
-
-It’s important to remark that Anne didn’t work with AI in isolation:
-
-she actively involved topic experts to review and validate the pre-read
-
-material she co-created with AI before sending it to all participants. She
-
-considered the AI-driven meeting prep a success: “After the meeting,
-
-participants approached me to learn more about the innovative way the
-
-workshop was prepared with AI, but also to show appreciation for the
-
-facilitation guidelines and the framing questions that eﬀectively steered
-
-the conversation.” The participants’ feedback was enthusiastic, to the
-
-point that it sparked the idea of systematizing this approach for future
-
-use. The most frequently mentioned beneﬁt was the exceptional quality
-
-of the discussion and the high level of intellectual rigor compared to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,27 @@
-# Journal of Economics 114(1): 37-82.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 2a461624b337aaf714a967dd3da656c49011f5a3
+title: behavioral_economics_1
+---
+# Harvard Medical School.
 
-Robson, A. J. (2001). "The Biological Basis of Economic Behavior." J. Economic Literature 39(1): 11-33.
+45
 
-Rotemberg, J. J. (2004). Minimally Acceptable Altruism and the Ultimatum Game, Harvard Business School.
+Platt, M. L. and P. W. Glimcher (1999). "Neural correlates of decision variables in parietal cortex." Nature
 
-Rubinstein, A. (1998). Modelling Bounded Rationality. Cambridge, MA, MIT Press.
+400(6741): 233-238.
 
-Rubinstein, A. (2003). ""Economics and Psychology"? The Case of Hyperbolic Discounting." International
+Prelec, D. (1998). "The Probability Weighting Function." Econometrica 66(3): 497-527.
 
-Economic Review 44(4): 1207-1216.
+Rabin, M. (1993). "Incorporating Fairness into Game-Theory and Economics." American Economic Review
 
-Russell, T. and R. Thaler (1985). "The Relevance of Quasi Rationality in Competitive Markets." American
+83(5): 1281-1302.
 
-Economic Review 75(5): 1071-1082.
+Rabin, M. (1998). "Psychology and Economics." Journal of Economic Literature 36(1): 11-46.
 
-Russell, T. and R. Thaler (1987). "The Relevance of Quasi Rationality in Competitive Markets: Reply."
+Rabin, M. (2002). "Inference by believers in the law of small numbers." Quarterly Journal of Economics
+
+117(3): 775-816.
+
+Rabin, M. and J. L. Schrag (1999). "First Impressions Matter: A Model of Confirmatory Bias." Quarterly

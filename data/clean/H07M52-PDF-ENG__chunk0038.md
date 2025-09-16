@@ -1,13 +1,31 @@
-# increased sales, and a reenergized team.
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ffb91fb008ea8483bf8b6c192fbaeeabea25e3fe
+title: H07M52-PDF-ENG
+---
+# issue.
 
-. . .
+One example comes from Abigail Posner, director, creative works at
 
-Smarter collaboration requires infusions of energy. Leaders of
+Google. A creative team’s morale initially sank when its clients weren’t
 
-collaborative teams have the opportunity to promote stronger results,
+acting on the team’s written strategic recommendations for their
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+advertising campaigns. The advertisers struggled to envision how the
 
-8
+changes could help.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The team leader was known for celebrating diﬀerences, however,
+
+which opened up the opportunity for one person with a ﬁlmmaking
+
+background to jump in and create a mock YouTube ad that incorporated
+
+the recommended changes. Then a former journalist volunteered to
+
+craft sales materials for the new ad. Combining these talents allowed
+
+the team to present their recommendations in a way that was more
+
+resonant for their clients, which resulted in greater client value,

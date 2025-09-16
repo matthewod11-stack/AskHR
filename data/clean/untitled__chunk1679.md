@@ -1,5 +1,9 @@
-## Identifying Personality Characteristics and Psychopathology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4e7dee1fa0826ab51e0f187078b094621a1ff110
+title: untitled
+---
+# Interview Methods
 
-testing, interviewing is not a method uniquely practiced by psychologists, but rather an evaluative procedure employed by many different kinds of professionals for various purposes and by people in general who have some reason to assess another person, like a father interviewing a suitor for his daughter’s hand to gauge his suitability as a son-in-law.
-
-By including both a self-report component, consisting of what people say about themselves, and a performance-based component, consisting of how they go about saying it, as- sessment interviews provide abundant clues to what a person is like. As a source of important assessment information, no battery of psychological tests can fully replace oral interac- tions between respondents and skilled interviewers, and most assessment professionals consider the interview an essential element of a psychological evaluation. In their historical development, formal interview methods emerged ﬁrst in a relatively unstructured format and subsequently in relatively structured formats as well.
+As elaborated in Volume 10 of this Handbook, psychological assessment is a data-gathering process that involves integrat- ing information gleaned not only from the types of tests dis- cussed thus far, but also from interview methods, behavioral observations, collateral reports, and historical documents. Of these, interviewing and observing people are the most widely used assessment methods for attempting to learn something about them. Although being discussed here in relation to identifying personality characteristics and psychopathol- ogy, interview methods are also commonly employed in as- sessing intellectual and neuropsychological functioning and aptitudes, achievement, and interests. Unlike psychological

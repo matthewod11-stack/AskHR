@@ -1,21 +1,41 @@
-## house oﬀer in response to such changes, the full-time employment
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eafd698f3008f8181ef1f9e367b69605937e74a6
+title: R2403D-PDF-ENG
+---
+## alignment, in word and in deed, with their personal social and
 
-model may start to crumble.
+environmental concerns. Increasingly, they are making career choices
 
-Second, companies may also be in danger of developing a concentration
+based on those criteria. According to a 2022 IBM survey, more than
 
-of risk-averse individuals in their in-house workforces. A lot of the
+two-thirds of employees said they would be more likely to apply for
 
-employees who choose full-time employment do so because they like
+and accept a job with an organization that they considered to be
 
-the security of beneﬁts and steady work. That does not bode well for
+environmentally conscious. Nearly half of respondents (48%) also said
 
-the quality of the in-house leadership pipeline. Perhaps the Saatchi
+they’d be willing to accept a lower salary from an organization that they
 
-experiment of hiring only freelancers for nonmanagerial roles is a
+perceived as environmentally sustainable. In ways that could not have
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+been predicted even two decades ago, many companies are now working
 
-13
+hard to show how they are serving a higher purpose.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Looking ahead, we see two key challenges for companies. First, as
+
+newer generations increasingly choose freelance work, they may put
+
+the full-time employment model at risk. Research shows that the
+
+primary downside for freelancers is the lack of employee beneﬁts, but
+
+at 38% of the U.S. workforce, freelancers are capable of exercising their
+
+considerable voting power to push for improvements in social beneﬁts,
+
+among them universal health care as an alternative to the employer-
+
+sponsored model. If companies do not substantially enhance the in-

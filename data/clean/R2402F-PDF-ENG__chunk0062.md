@@ -1,5 +1,13 @@
-# failure rate for new ventures.
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5dc72632566e69dfc3f070fbf0ac8d51f21f8f40
+title: R2402F-PDF-ENG
+---
+## HBR / Magazine Article / Nurturing Innovation
 
-A version of this article appeared in the March–April 2024 issue of Harvard Business Review.
+ideation and team formation, most provide little support in the medium
 
-Anne-Laure Fayard is the ERA Chair Professor in Social Innovation at Nova School of Business and Economics, in Lisbon, Portugal, and a visiting research professor at New York University.
+to long term. That gap represents a big opportunity for people who
+
+can provide this support—and a path to reducing the persistently high

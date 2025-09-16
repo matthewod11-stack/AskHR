@@ -1,17 +1,27 @@
-# resolution.
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b07a69eb1515246e1c7a8de64aca3fec7e9d8059
+title: H088S2-PDF-ENG
+---
+## Unlike the conventional “unfreeze, change, refreeze” approach, which
 
-By embracing an agile mindset, organizations unlock the potential
+implies change represents only a temporary disruption, an agile
 
-for sustained innovation and adaptation, thereby making continuous
+orientation embraces the philosophy of “rethink, reshape, repeat” —
 
-change a core capability. The transformation of State Farm, a company
+an ongoing quest for excellence. Under this paradigm, transformation
 
-we worked with, serves as a compelling example. As a leading provider
+becomes a perpetual journey involving assessing the company’s
 
-of various insurance services including auto, home, life, health, and
+strategy, prioritizing critical issues, carefully considering potential
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+alternatives for addressing each issue, choosing the best course of
 
-2
+action, adapting the organization accordingly, and then moving to the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+next critical issue. Much like agile software development, where tasks
+
+progress from “to do” to “doing” to “done,” business transformation
+
+should involve a similar continuous process of issue identiﬁcation and

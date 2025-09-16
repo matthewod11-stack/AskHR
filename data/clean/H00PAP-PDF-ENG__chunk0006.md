@@ -1,47 +1,47 @@
-## HBR / Digital Article / The U.S. Immigration Debate Isn’t Left vs. Right
+---
+source_path: H00PAP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3386c0936344a6e2b43145a3339c040d8394c17e
+title: H00PAP-PDF-ENG
+---
+## Published on HBR.org / March 04, 2014 / Reprint H00PAP
 
-There’s a belief in some quarters that this reform will hurt low-wage
+I sometimes ﬁnd it hard to believe that America’s current immigration
 
-American workers (who are already hurting enough) by exposing them
+systems weren’t designed by our enemies. More liberal policies
 
-to more competition from immigrants and thus lowering their job
+and streamlined procedures would bring technical talent and
 
-prospects and wages. But the evidence is mounting that this threat is
+entrepreneurial energy at a time when we clearly need them. Yet these
 
-at worst pretty small, and most likely nonexistent. As the American
+reforms remain out of reach.
 
-Enterprise Institute (among many others) has found, immigrants tend to take diﬀerent jobs than natives, and so are not rivals.
+Overwhelmingly, the best and brightest in the world still want to come
 
-I spoke recently at two events in California organized by FWD.us, a
+here to study, work, and start companies; a worldwide 2012 Gallup
 
-tech industry advocacy group that has to date been squarely focused
+poll revealed that the US “holds the undisputed title as the world’s most
 
-on immigration (FWD.us covered my travel expenses, but did not
+desired destination for potential migrants.”
 
-pay me anything). At the events themselves, and at the meals and
+We make it overwhelmingly diﬃcult for them, however. As Darrell West
 
-other gatherings around them, the accents varied greatly but the
+of the Brookings Institution summarized, “For many immigrants, it is virtually impossible for them to aﬀord the fees, handle the paperwork,
 
-stories didn’t. They were all about enthusiasm and love for America,
+and navigate a complex bureaucratic process…. American immigration
 
-a deep desire to build a life and make contributions here, and intense
+is a 19th century process in a 21st century world.”
 
-frustration at how hard it was to do this.
+We’ve made some small progress recently but a recent bipartisan
 
-My favorite quote from the trip was from a very successful (US-born)
+attempt at comprehensive reform, which includes such great ideas
 
-technologist who said that immigration reform was “not about the right
+as a separate ‘startup visa‘ category to foster entrepreneurship,
 
-vs. the left; it’s about smart vs. dumb.”
-
-Which side are you on?
-
-This article was originally published online on March 04, 2014.
-
-Andrew McAfee is the cofounder and co-director of the MIT Initiative on the Digital Economy and the inaugural visiting fellow in Google’s Technology and Society group. He is the author of the new book, The Geek Way, and coauthor with Erik Brynjoﬂsson of The Second Machine Age.
+is languishing in the house after passing the Senate last year.
 
 Copyright © 2014 Harvard Business School Publishing. All rights reserved.
 
-2
+1
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

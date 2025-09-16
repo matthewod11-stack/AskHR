@@ -1,13 +1,11 @@
-# technology
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 50fe42499a8fd785dbc993d2185f4c7925e87eff
+title: internship_report
+---
+# since 1954
 
-- (cid:32) There are many loyal employees
+it is difficult to impose HR based
 
-- (cid:32) Management are reluctant to spend
-
-- (cid:32) There are many business concerns. So,
-
-money for training purpose
-
-it is easy to move people from one unit
-
-- (cid:32) Yearly appraisal system need to be
+- (cid:32) Experience people are working

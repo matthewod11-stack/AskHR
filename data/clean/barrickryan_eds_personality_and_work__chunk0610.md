@@ -1,5 +1,9 @@
-# Frog Pond Effects
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: fe1c4ab34aedb4a0e3d7c959d01d3ec4e711e1b6
+title: barrickryan_eds_personality_and_work
+---
+## THE MULTILEVEL ROLE OF PERSONALITY IN TEAMS 201
 
-The least researched models are frog pond models. In these models, the effect of an individual’s traits is dependent on the conﬁguration of the individual traits of others. For instance, the conscientiousness of an individual team member may affect team-level conscien- tiousness only if other team members are relatively very low on con- scientiousness. The one study that looked at traits in this fashion was by Barry and Stewart (1997). We found that the proportion of extraverts to be linked to team performance. This frog pond per- spective assessed how the relationships among an individual-level construct related to team-level outcomes such as cohesion and per- formance.
-
-Additional frog pond models have the potential to provide great insight. They can even be combined with direct effects and moder- ator models. For instance, it seems possible that from a direct-effects perspective, the inﬂuence of any individual trait on the team trait may be inﬂuenced by how different a particular individual is from the other members of the team. From a moderator-effects per- spective, the relationship between an individual’s traits and the be- havior of others may be inﬂuenced by how different that person is from others in the group. Indeed, frog pond models in the realm of personality appear to be an important area of research that has not yet been fully pursued.
+pieces of work to groups rather than individuals? Is cognitive ability as valuable a performance predictor in settings where a high-ability member interacts and potentially compensates for lower-ability teammates? Does compensation that provides indi- vidual incentives harm contributions toward a collective goal? In each of these cases, it seems possible that the higher-order con- struct of team structure calls into question some of the basic ﬁnd- ings of research conducted in individual performance settings, suggesting the need for additional cross-level research.

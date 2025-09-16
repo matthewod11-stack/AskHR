@@ -1,9 +1,9 @@
-# seriousness of your illness.
+---
+source_path: H048KW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1eda54fe056644bc135c88e490735183f5f233f
+title: H048KW-PDF-ENG
+---
+## doctor or therapist, and perhaps a trusted colleague at work. They can
 
-Stick to a routine, whenever possible. Find a quiet place where you can
-
-take short breaks, or even meditate, during the day. Before you go home,
-
-make a brief list of the next day’s priorities. Think through how you will
-
-manage business travel that involves crossing time zones; jet lag can cause
+provide insight into your behavior that can prevent the onset or reduce the

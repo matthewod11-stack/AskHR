@@ -1,7 +1,9 @@
-## tools. Personnel Review, 48(6), 142931448.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 14d04c010c5a0fb96697f60f83f385ad6a4be130
+title: i
+---
+# implementation
 
-https://doi.org/10.1108/pr-11-2017-0362
-
-(cid:111) Bersin, J. (2015, February 1). The geeks arrive in HR: People Analytics from
-
-is
+‐

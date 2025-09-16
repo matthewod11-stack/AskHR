@@ -1,15 +1,23 @@
-## and applications of AI technologies in real-world use cases,” writes
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c3c7e7d32c541b2593a6dbf93c1f72f2a053641a
+title: H08SI8-PDF-ENG
+---
+# Adobe
 
-Grace Yee, the senior director of ethical innovation at Adobe. “AI is often
+One of the hardest parts of adopting a rapidly changing technology
 
-assessed through its inputs and outputs, but this paints only a partial
+is staying abreast of new risks that you’re onboarding along with new
 
-picture… Companies need to shift from viewing AI as a singular entity to
+tools. With AI, which can be used in a dizzying variety of tasks and
 
-evaluating its impact in speciﬁc contexts.”
+contexts, that eﬀort can feel Sisyphean. It’s also essential.
 
-Adobe dealt with this problem by following four principles: 1) Human
+To do this eﬀectively, leaders might need to reframe how they think
 
-involvement is critical. 2) Hype doesn’t equal quality. 3) AI will always
+about the problem, looking at the whole picture rather than each part in
 
-evolve, but you can anticipate concerns. And 4) AI requires a robust
+turn. “[I]t’s critical that leaders carefully consider the context in which
+
+AI operates—understanding the speciﬁc circumstances, environments,

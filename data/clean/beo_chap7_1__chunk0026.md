@@ -1,11 +1,21 @@
-# experiment.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 829ae7122492350138175ed934f3f2003ac13523
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-Another kind of reference dependence is two-tier wage deals, which occur when
+labor supply elasticities that are negative (Camerer et al. 1997). Experienced drivers,
 
-firms are struggling financially. Senior workers doing the same jobs as entry-level
+however, have zero elasticity, which suggests a role for learning or attrition over
 
-workers are sometimes paid a larger wage, to avoid cutting their wages, while entry-
+time. Fehr and Gotte (2003) find similar results in a field experiment with bicycle
 
-level workers are paid less to save on the wage bill. Social comparison models predict
+messengers. While randomly determined variation in monthly wages has a strong
 
-that new workers will be unhappy at being paid less than senior workers beyond the
+positive effect on the number of shifts per month, it has a (weaker) negative effect on
+
+the revenues within shift. Interestingly, the messengers for whom the nonstandard
+
+negative revenue effect is strongest also exert sizable loss aversion in a laboratory

@@ -1,5 +1,17 @@
-## training. Journal of Consulting Psychology, 10, 165–183.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 32ac996dafe68e48cb853af7ae4bec9d2b48cc5b
+title: untitled
+---
+## and psychiatry. American Psychologist, 5, 3–15.
 
-Mowrer, O. H., & Mowrer, W. M. (1938). Enuresis: Amethod for its study and treatment. American Journal of Orthopsychiatry, 8, 436–459.
+Mineka, S., Davidson, M., Cook, M., & Keir, R. (1984). Observa- tional conditioning of snake fear in rhesus monkeys. Journal of Abnormal Psychology, 93, 355–372.
 
-Munroe, R. (1955). Schools of psychoanalytic thought. New York:
+Mitchell, D. (1919). The clinical psychologist. Journal of Abnormal
+
+Psychology, 14, 325–332.
+
+Mitchell, D. (1931). Private practice. In R. A. Brotemarkle (Ed.), Clinical psychology: Studies in honor of Lightner Witmer (pp. 177–190). Philadelphia: University of Pennsylvania Press.
+
+Morrow, W. R. (1946). The development of psychology internship

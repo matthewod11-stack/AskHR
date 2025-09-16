@@ -1,7 +1,25 @@
-## professional heartbreak strikes, our harshest inner critic tends to
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44e08b47784e4f30d8ff34a3546ae7471dcdf9ca
+title: H08MFI-PDF-ENG
+---
+# escape.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The healing process, too, followed a familiar pattern. It took three
 
-7
+months of thousands of miles of distance before she could face
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+returning to New York and rebuilding her professional life. This
+
+“divorce” from her dream job ultimately led to personal growth,
+
+however: She launched a freelance career that evolved into an award-
+
+winning creative agency.
+
+How can you get to the other side of heartbreak, like this person
+
+did?
+
+Start by working through your own complicated feelings. When

@@ -1,13 +1,7 @@
-## Another increasingly important bargaining
-
-topic is how to introduce technology into
-
-the workplace, especially given shifts in manufacturing technologies
-
-and advances in artiﬁcial intelligence. Unions like SAG-AFTRA in the
-
-entertainment industry and UNITE HERE in hospitality are negotiating
-
-with companies like MGM Resorts, Caesars, and others to get advance
-
-notice of technological plans and to create opportunities for worker
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7be7b0550ed15605d8de7ae348e9ce96867af48
+title: R2304D-PDF-ENG
+---
+# Thomas Heinz

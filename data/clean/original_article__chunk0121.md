@@ -1,7 +1,7 @@
-# CEO/chairman
-
-© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
-
-121
-
-122
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: fce00e126393fc2a5cf113fe6ffbe9119a79356a
+title: original_article
+---
+## Independent director 72 per cent; independent chairman 13 per cent;

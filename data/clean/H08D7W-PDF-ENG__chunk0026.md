@@ -1,17 +1,33 @@
-## HBR / Digital Article / 4 Pillars of Innovation Every Organization Needs
+---
+source_path: H08D7W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8d0c418f476a4bf80e36152527e73367e61aa6f
+title: H08D7W-PDF-ENG
+---
+# Intrapreneur Programs
 
-What to do instead: Foster intrapreneurs — entrepreneurs inside the
+Where do employees with big ideas go? Often, they make their big ideas
 
-ﬁrm. At Google, where employees may be tempted to depart and
+small to get approved easily, or they simply leave. History is witness
 
-form startups, they have the option to compete for funding and the
+to how Steve Wozniak left HP because it wouldn’t do anything with
 
-opportunity to work on their concept for six months, with the guarantee
+his design for an early personal computer — the Apple I. In fact, they
 
-they can have their old job back afterward. Management bases its
+rejected it ﬁve times! Organizations serving the core business day-to-
 
-evaluation of the ideas based partly on how many employees elect to
+day may hesitate to take the ideas on board because they don’t ﬁt their
 
-work on them. If the venture fails, the people behind it aren’t punished.
+operating model and may drain resources and take too long to pay oﬀ.
 
-Gmail is a great example of how Google fosters intrapreneurs. When we
+To ﬁght these challenges, companies need to provide a structured way
+
+for idea champions to build out their concepts without over-committing
+
+to them before they’re ready.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

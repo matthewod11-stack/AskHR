@@ -1,43 +1,39 @@
-## HBR / Digital Article / 5 Reasons People Get Laid Off
+---
+source_path: H07ZOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 845206c4d9128f8d5343248a5190b1c91d292cb6
+title: H07ZOW-PDF-ENG
+---
+# during cost-cutting measures.
 
-In times of organizational changes or restructuring, being visible can
+Managers who are invaluable to an organization ﬁnd a balance between
 
-help mitigate the risk of being overlooked or underestimated.
+strategic leadership and hands-on involvement without micromanaging
 
-Your visibility can act as a form of job security by ensuring decision
+their teams. They’re perceived as more adaptable and capable of
 
-makers are aware of your capabilities and impact. Having visibility at
+responding quickly to changes, making them more resilient in volatile
 
-all levels in an organization can help you create a strong network of
+business situations. Managers who have deep understanding of team
 
-colleagues and senior leaders who can vouch for your contributions and
+dynamics, challenges, and goals and who can demonstrate their ability
 
-accomplishments. It could also show leaders you can succeed if plugged
+to speak to the details will make seem like they’re the glue holding the
 
-into any position. If decision makers have a clear understanding of your
+team together, which makes it harder to see their role as dispensable.
 
-skills, achievements, and contributions, they’re more likely to view your
+- 3. Lack of visibility
 
-position as essential to the success of the company, or they may see you
+Being the quiet worker bee won’t protect you from being laid oﬀ. In fact,
 
-as the person to combine teams under when other roles are eliminated.
+being invisible could be your downfall. When determining which roles
 
-- 4. Lack of performance
+to cut, if senior leadership doesn’t know who you are, what you do, or
 
-When companies need to cut their budgets, they’ll likely try to eliminate
+the impact you make, your job could be an easy choice for elimination.
 
-those who are considered non-performers. Where more than one person
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-is doing a particular job, layoﬀs provide managers a ripe opportunity to
+3
 
-cut low performers without having to do the hard work of giving them
-
-more feedback or putting them on a performance improvement plan.
-
-Employees must realize their manager’s perception means everything.
-
-So even if you think you’re doing a great job, if your manager doesn’t
-
-agree, you could be deemed a poor performer and be on the chopping
-
-block. Therefore, employees need to proactively request feedback from
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

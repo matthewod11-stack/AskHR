@@ -1,25 +1,25 @@
-## HBR / Digital Article / Leading the 6-Generation Workforce
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e54415749e3b98c039ff3b0126de6fd521566c9
+title: H0832U-PDF-ENG
+---
+# and generational diversity.
 
-tensions, many people — from all generations — resort to stereotyping,
+- 3. Look at generations as cultures.
 
-judging, and then attempting to “ﬁx” the other generations. However,
+Multigenerational teams often experience signiﬁcant interpersonal
 
-diﬀerences do not have to be divisive. Instead of looking at generational
+tensions in collaborating across the generational divides: diﬀerences in
 
-diﬀerences as problems to be solved, leaders would be well advised to
+norms regarding the use of technology, communication norms around
 
-look at them as sources of richness and vibrancy to be understood,
+giving and receiving feedback, perceptions of what “hard work” and
 
-appreciated, and even leveraged.
+“good leadership” look like, just to name a few. When faced with these
 
-Culture informs a common way of thinking that motivates a common
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-way of doing among cohorts of individuals. Cultures give insight into
+4
 
-where people are “from” — and so do generations. Just like cultural
-
-diﬀerences, generational diﬀerences can distinguish teammates from
-
-one another without dividing them from one another.
-
-Viewing generations as cultures can help leaders foster inclusive
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

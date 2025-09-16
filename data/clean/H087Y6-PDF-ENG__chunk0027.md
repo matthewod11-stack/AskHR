@@ -1,9 +1,7 @@
-# innovation.
-
-In turn, mobility strengthens professional networks across
-
-organizations and sectors. These networks bring in new ideas, accessing
-
-cutting-edge research, and implementing best practices from the
-
-industry at large. And when employers cannot conﬁne workers by
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37d4776a3d52bf3fedd2f120d5155478d442845f
+title: H087Y6-PDF-ENG
+---
+## entrepreneurship and sharing of knowledge, fundamental elements of

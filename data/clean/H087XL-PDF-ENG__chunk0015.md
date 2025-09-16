@@ -1,7 +1,21 @@
-## conﬂicting requirements through separate back-to-back meetings with
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83ad6d45d498618ca0a831a28f1c205c400f65ea
+title: H087XL-PDF-ENG
+---
+## HBR / Digital Article / Why Employees Who Work Across Silos Get Burned Out
 
-Jun to discuss customer preferences and with Riley to go over
+While Nilam was initially thrilled to work with both of them,
 
-production costs. Each meeting ended with a list of action items
+the demands associated with these interactions soon became
 
-that Nilam had to incorporate into the engine design, adding to their
+overwhelming. Jun advocated for a power-dense engine that market
+
+research shows to be in demand. On the other hand, Riley was
+
+concerned about the production and cost constraints of such a new
+
+engine: Increasing its power density might mean higher production costs, even hurting its fuel eﬃciency.
+
+The cognitive load ramped up as Nilam tried to reconcile these

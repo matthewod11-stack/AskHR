@@ -1,11 +1,13 @@
-# 456
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: 6d5f8786d6440e3cc9643e967205502d7e038db7
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# The last
 
-is any indicator, the IOOB community did agree. We are gratiﬁed by the interest and grateful to the commentators.
+Silvia Bonaccio, Telfer School of Management, University of Ottawa; Reeshad S. Dalal, Department of Psychology, George Mason University; Scott Highhouse, Bowling Green State University; Daniel R. Ilgen, Michigan State University; Susan Mohammed, The Pennsylvania State University; Jerel E. Slaughter, Eller College of Management, University of Arizona.
 
-A few of the commentaries disagreed to some degree with us regarding (a) whether there had already been a great extent of cross-fertilization and (b) whether cross- fertilization is beneﬁcial to the two ﬁelds. Hayes and Wooldridge (2010) argue that there has already been substantial overlap between these two areas. We agree—and are obviously pleased—that there have been some instances of extant cross- fertilization (indeed, we mentioned some in our focal article). However, from our perspective (see also the metrics we presented in our focal article, such as the representation in each other’s journals and conferences), those instances are too few and far between.
+When we began working on our focal article (Dalal, Bonaccio, et al., 2010), one of our primary goals was to engage the industrial–organizational psychology and organizational behavior (IOOB) community in an open and frank discussion of how our ﬁeld and the ﬁeld of judgment and decision making (JDM) could enrich each other. We hoped that our IOOB colleagues wouldagree that this wasadiscussionworth having. If the large number of published commentaries (let alone the considerably larger number of submitted commentaries)
 
-Whyte (2010) appears to be slightly more optimistic than us regarding the amount of cross-fertilization that has already taken the glass place. Regardless of whether is viewed as half (Whyte, 2010) or full nearly empty (us), there does not appear to be much substantive difference between Whyte’s views and our own. In the case of goal setting, there has IOOB research and some been a lot of JDM research. However, as Whyte indi- IOOB researchers have typically cates, taken little notice of the JDM research on goal setting—and, on the rare occa- sions that they have (e.g., Locke & Latham, 2009), the reaction has been less than positive. Whyte notes that his view ‘‘is not inconsistent with the view that there in leverag- remains untapped potential ing JDM to elucidate phenomena that have traditionally captured the attention of IOOB researchers and practitioners.’’ Quite so.
-
-for example,
-
-Connolly (2010) notes, as we did in our focal article, that recent exhortations for IOOB–JDM integration appear to have had limited success. However, Connolly then goes on to imply that such exhortations, per se, may be of limited utility (a sentiment echoed by Staw, 2010). Here, in contrast, we ﬁnd ourselves in the ‘‘glass half full’’
+455

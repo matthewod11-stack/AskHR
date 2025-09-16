@@ -1,29 +1,29 @@
-# conversation.
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd609b0d9e6d8af153a63ccb7c75b262f2636e8b
+title: H08VZI-PDF-ENG
+---
+# The Last 8%
 
-It is the same with hard decisions. Most people are comfortable making
+In a multiyear survey of 34,000 people that looked at a range of risks—
 
-the easier choices they face, but when there’s a risk involved in
+from making hard decisions, to naming inconvenient truths, to having
 
-making a decision—one they perceive will upset others, such as who
+the hardest parts of a conversation—my organization found that there is
 
-gets promoted and what projects should get supported—they back oﬀ,
+a gap between the risk people feel they should take in a situation and the
 
-procrastinate, and struggle to take action.
+actual risk they do take.
 
-We’ve named this gap the last 8%.
+In conversations, for example, people tend to leave out an average 7.56%
 
-Our work also identiﬁed the kind of team culture and environment that
+—rounded up to 8%—of what they want to say. They are comfortable
 
-enables people to more frequently take risks—to close the 8%—and the
+enough discussing the ﬁrst 92%, but when they get to the more
 
-three kinds of team cultures that do the opposite, acting as barriers to
+challenging parts—those that have the biggest consequences for the
 
-taking risks. Those insights came from a study we conducted of over
+other person or the project—they get caught up in how their counterpart
 
-72,000 people in which we asked individuals to describe the elements of
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+is reacting, or is perceived to be reacting, and they avoid having the full

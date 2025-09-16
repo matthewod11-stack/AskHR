@@ -1,11 +1,17 @@
-# with easy access to timely, unﬁltered informa- tion about our strategy implementation.
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af77179629a7646b817f184608a20179e86c98dc
+title: R0510D-PDF-ENG
+---
+## How to Wield Influence and Stay Informed by Graham Sher
 
-Because of my urgent need to accomplish change, I followed the unconventional route of establishing an ofﬁce of strategy manage- ment at the outset of our Balanced Score- card project. I also wanted the OSM to re- port directly to me—that was a way to highlight the importance of this ofﬁce to my strategic agenda. But the OSM needed other clearly deﬁned linkages or relationships, too; I want change at CBS to come from within, not to be imposed from above. To that end, I created a dotted-line reporting relationship between the OSM and two other key execu- tives at CBS, the CFO and the COO, who ulti- mately are going to help execute the change agenda. I did not create the new corporate- level OSM unit lightly. Its positioning in the organization enables me to fulﬁll my inter- nal duties as a change leader but doesn’t af- fect my ability to meet the many external obligations I have as the CEO of a rapidly evolving public-sector organization emerg- ing from crisis—Canada’s blood-supply sys- tem was completely revamped after thou- sands of people received contaminated blood in the 1980s and 1990s.
+As the chief executive of the nonproﬁt that manages the supply of blood products for all of Canada except the province of Que- bec, I instituted an ofﬁce of strategy man- agement to help me cope with three big challenges in implementing a strategic agenda. First, I spend a great deal of time dealing with external demands and constit- uents. In addition to reporting to the board of directors of my organization, Canadian Blood Services (CBS), I must also focus on the 12 Canadian provincial and territorial governments that provide its funding. So I have limited time and information with which to manage internal issues.
 
-As for the OSM’s responsibilities, I see strategy management as being made up of strategy formula- three high-level processes: tion, leading in turn to which then cycles back to strategy formulation. The exhibit “The Processes of Strategy” shows the activi- ties within the categories. The OSM has pri-
+Also, while many people believe that chief
 
-leading to
+executives wield direct and easy inﬂuence, the reality is that any CEO has a difﬁcult time inﬂuencing his or her organization. A CEO’s attempts to command and control un- dermine the authority of senior executives. I want to exert my inﬂuence indirectly and in a way that empowers my executives and cre- ates an environment in which they can lead and manage their parts of the organization. I set the tone, and I deﬁne the strategic agenda, communicate it, and ensure that it gets undertaken, but I don’t command any parts of the organization.
 
-strategy execution,
+My third challenge is staying informed.
 
-strategy learning,
+Information, particularly bad news, is ﬁl- tered before it gets to me. I typically do not see the most timely, valid information about CBS’s current performance. Before our OSM was implemented, we were spending way too much time debating the quality of our information—obviously an unwieldy way of executing strategy and a very time-intensive way of conducting management meetings.

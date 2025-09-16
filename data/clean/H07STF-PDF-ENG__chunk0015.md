@@ -1,7 +1,19 @@
-# simultaneously.
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0976483248a5586195d8aadf291f6f83f1d4908
+title: H07STF-PDF-ENG
+---
+## HBR / Digital Article / How to Think Strategically About a Career Transition
 
-You learn as you go along. Sometimes the things you thought you
+you were doing already. And if you do want to make a change, they may
 
-wanted don’t pan out to be. Or you dream them to be, for example.
+not be the best ﬁt.
 
-Sometimes it’s harder and it takes longer. You’ve got to do something
+Much more important than trying to ﬁgure it out is to experiment. And
+
+instead of thinking, “What’s the one ideal job for me?”, [ask], “What
+
+might be 10, or what might be six organizations, or what might be ﬁve
+
+diﬀerent pathways I could take?” And start exploring them in parallel,

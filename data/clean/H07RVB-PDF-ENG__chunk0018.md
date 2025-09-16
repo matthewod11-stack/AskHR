@@ -1,25 +1,21 @@
-# anymore.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de747dead624dc3e105abb7475af6550d0dbc5b1
+title: H07RVB-PDF-ENG
+---
+# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
 
-ADI IGNATIUS:
+You could call it the old-boys network, you could call it the men’s club.
 
-To what extent has that changed since you ﬁrst joined the executive
+It still feels that way in many situations, including in my industry and
 
-force? You talk in the book about feeling insecure as you’ve taken new
+from other people I’ve talked to in other industries. Diversity in the
 
-jobs and whether you could be your authentic self. Do you think it
+C-suite, diversity in the CEO suite overall, not just queer diversity, has
 
-would be diﬀerent today?
+been a hot topic and will continue to be a hot topic because the C-suites,
 
-JIM FIELDING:
+particularly in America, Fortune 100 or Fortune 500, Fortune 1000, does
 
-It’s situational, Adi. It depends on the industry, on the geography. I lived
-
-for 25 years in California. I think there’s certain states and legislatures
-
-that are more queer friendly. Right now, if I was living in Texas or
-
-Florida, I’m not sure I would feel as comfortable. I am reading stories
-
-every day of teachers and education professionals who are feeling
-
-they can’t live their authentic selves in certain states or certain school
+not really reﬂect the community at large, the constituency of America

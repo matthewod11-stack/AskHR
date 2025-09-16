@@ -1,39 +1,45 @@
-## HBR / Digital Article / The Risks of Collecting Employees’ Biometric Data
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1c5e3b8cd6bcd7cbc82e1aa2b3582444d8f7deb
+title: H08QRZ-PDF-ENG
+---
+## hefty penalties of up to $4,000 annually.
 
-Therefore, companies need to ﬁgure out for themselves when, how, and
+Second, the perceived loss of job autonomy can make employees feel
 
-why to collect this data.
+less secure. After a large sanitation products wholesaler in Ontario,
 
-Why does your organization want to collect biometric data?
+Canada introduced video surveillance systems to promote safety and
 
-Can your organization collect bodily data, and do so ethically and
+optimize walking routes, warehouse workers told us that they felt a loss
 
-responsibly? Or is the potential for job insecurity too high, making the
+of trust and meaningfulness in their work. While they would usually
 
-upside to the organization not worth the tradeoﬀ? Organizations need to
+take alternate routes to reorganize inventory and to check in on fellow
 
-seriously consider these questions. And they need to be okay with not
+workers, employees were now worried that not complying with the
 
-implementing a data collection program, or at the very least delaying it
+suggested walking routes could invite scrutiny or punitive actions.
 
-until the fundamental risks of job insecurity are resolved.
+Regulatory compliance is usually an insuﬃcient measure of whether
 
-Asking why your organization wants to collect data can oﬀer clear
+data collection may cause harm. The forms of data collection enabled
 
-indicators of whether it should. If the organization stands to beneﬁt —for example, through improved operational eﬃciencies or increased
+by technologies that gather biometric data are much more invasive,
 
-revenue—but employees don’t, chances are high that the program will
+intimate, and intrusive than those traditionally covered by data
 
-produce job insecurity. One-sided data collection programs in these
+privacy regulations. While new laws that target how organizations
 
-instances should be avoided.
+handle biometric data are being passed—Illinois’ Biometric Information
 
-Consider how the practice of tracking employees’ attention via
+Privacy Act (BIPA), for instance—regulations are generally still playing
 
-webcams, keystrokes, and mouse movement expanded after Covid-19
+catch up.
 
-expanded remote work. Many employers argued that surveillance was
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the best way to ensure workers remained productive; the number of
+4
 
-large employers using these monitoring tools doubled to 60% in the ﬁrst
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

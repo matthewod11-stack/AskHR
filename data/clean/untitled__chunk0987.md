@@ -1,3 +1,9 @@
-# William James’s Question
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c8ba97e414604d92f6cf460e7e51eaab72f3fa2e
+title: untitled
+---
+# A FUTURE HISTORY
 
-William James initiated the modern period in the history of psychology by entitling his 1884 paper “What Is an Emo- tion?” Over a hundred years later we still do not have a gen- erally acceptable answer. Did he confuse “a semantic or metaphysical question with a scientiﬁc one” (McNaughton, 1989, p. 3)? As we have seen, different people answer the question differently, as behooves a well-used umbrella term from the natural language. Emotion no more receives an un- equivocal deﬁnition than does intelligence or learning. Within any language or social community, people seem to
+First, I want to revisit a question that has been left hanging, namely, exactly what is an emotion? And I start with William James, who pointedly asked that question.

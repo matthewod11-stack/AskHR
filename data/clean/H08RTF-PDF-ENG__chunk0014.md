@@ -1,15 +1,9 @@
-## appear obvious at ﬁrst glance, but identity—the interrelated elements
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aec27b648676f8c53ea23fb56d77a740e669dd60
+title: H08RTF-PDF-ENG
+---
+# Consider Identity
 
-that make up our concept of ourselves—is a critical dimension of how
-
-people experience and talk about mental health challenges. Employees
-
-from younger generations may be more comfortable discussing mental
-
-health than their older counterparts, for example, and men may feel
-
-more stigma around mental health than women do. Aarons-Mele has a
-
-few suggestions for how to counter these diﬀering perspectives:
-
-- Create an organization-wide shared language and baseline of
+Workplace mental health expert Morra Aarons-Mele points out that “work is about people, and people are messy and diﬃcult.” That may

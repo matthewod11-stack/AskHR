@@ -1,23 +1,27 @@
-# organization.
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af53adeccb9ea0576c4a01f2ac7e449e95a36975
+title: H07UQT-PDF-ENG
+---
+## setup for the third phase of CEO onboarding: observe.
 
-For the incoming CEO, who is beginning to understand the family
+During the observe month, the new CEO’s daily programming remains
 
-dynamics, opinions and observations must be sensitive to how the
+similar to the previous month, with a steady diet of meetings and site
 
-family and its legacy might inﬂuence business decisions. In a publicly
+visits. But the new CEO should now be gradually transitioning beyond
 
-traded company without controlling family stockholders, a new CEO
+listen-only to a more active role. During this stage, the incoming CEO
 
-might feel free to suggest a division or product line doesn’t make sense
+should be free and encouraged to voice his opinions and observations
 
-or a decision made a decade ago looks unwise in retrospect. In a family
+both in private and in group meetings. During this phase, however,
 
-business, that division may have been started by the founding great-
+the outgoing CEO is still in charge, and decisions are still made by
 
-grandfather and be run today by a third-generation cousin; similarly,
+them. This is a good time for both the outgoing CEO and incoming
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+CEO to create a good rapport and for the incoming CEO to get a better
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+understanding of the how and whys behind the decision making in the

@@ -1,21 +1,41 @@
-# The Democratization of Coaching
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a7d4317a7a3dd91cb05554fad1ae2fc4af3d4da
+title: H07OHG-PDF-ENG
+---
+## into “Learning Experience Platforms” (LXP), with features like skills
 
-How all of us can have a Sherpa for our careers
+assessments, Netﬂix-style recommendations about what to learn next,
 
-Professional coaching is a well-understood way to boost workers’
+and internal social networking. LXPs “make learning relevant for
 
-learning, conﬁdence, and eﬀectiveness. However, it has typically been
+individuals, not just managing training programs,” according Todd
 
-an expensive tool, reserved only for senior executives. Moreover, even
+Tauber senior vice president of strategy at Degreed, one of the leading
 
-for those who can aﬀord it, ﬁnding a coach can be a challenge.
+providers in this space. Industry analyst Josh Bersin estimates the
 
-New platforms have emerged that use technology to make it easier to
+market for LXPs is $500m, up from $200m in 2018.
 
-ﬁnd, match, and work with coaches. New companies provide tools to
+Customers report that the model is working. Chris Harry is the chief learning oﬃcer of TEK Systems, a staﬃng ﬁrm that’s been using
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Degreed. “Since moving our various employee development programs
 
-5
+onto Degreed, we’ve seen our highest-ever engagement and satisfaction
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+rates,” he said. According to Harry, 96% of TEK employees have created
+
+an account in Degreed, and the company consistently sees 40 to 50%
+
+of them actively using the platform each month, which he says is “far
+
+higher than anything we’ve seen before.”
+
+Results like these require real investment beyond simply buying the
+
+technology. For example, another Degreed customer, Ericsson, said
+
+it hired internal champions and developed an extensive internal
+
+marketing campaign to roll out its program.

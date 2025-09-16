@@ -1,3 +1,7 @@
-# References
-
-(2002), “Regressão Múltipla stepwise e hierárquica em Psicologia Organizacional: aplicações, problemas e soluções”, Estudos de Psicologia, Vol. 7, Special edition, pp. 19-29.
+---
+source_path: emerald_rege_rege603931_84_101.md
+pages: n/a-n/a
+chunk_id: f78ae3618d9a149ab87f52536e1441f627871338
+title: emerald_rege_rege603931_84_101
+---
+# under CLT laws of work.

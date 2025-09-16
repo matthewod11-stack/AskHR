@@ -1,9 +1,19 @@
-# IV
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0700ebabf2242d833bd5a60717ee940d52db5ff7
+title: H08HKF-PDF-ENG
+---
+# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist
 
-Ingrid Vasiliu-Feltes, MD, MBA has served as Chief Compliance Oﬃcer and Chief Quality and Safety Oﬃcer in highly regulated industries. She has extensive experience in operationalizing complex regulatory frameworks, as well as designing eﬀective Quality Assurance and Quality Improvement Programs. As a Senior Advisor at Virtue, she focuses on executing complex, large scale systems integration projects and designing state of the art customized digital ethics KPIs and metrics.
+checklist is not exhaustive — and of course there are more details on
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+how to develop each of the elements listed above — we hope it helps to
 
-10
+map out the RAI terrain in enough detail such that organizations know
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+where they need to go.
+
+This article was originally published online on December 5, 2024.
+
+Reid Blackman, PhD is the author of Ethical Machines (Harvard Business Review Press, 2022). As the founder and CEO of Virtue, an AI ethical risk consultancy, he and his team work with companies to design, implement, scale, and maintain AI ethical and regulatory risk programs. His work has been proﬁled by The Wall Street Journal, the BBC, CNN, Fox News, and Forbes. Reid also advises the government of Canada on their federal AI regulations, has been an external senior adviser to the Deloitte AI Institute, and served on Ernst & Young’s external AI Advisory Board.

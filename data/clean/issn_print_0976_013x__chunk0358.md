@@ -1,17 +1,23 @@
-# product
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: d3d122fab304933493020d7564cca1876c62b815
+title: issn_print_0976_013x
+---
+# Operations
 
-development. Applied Mathematical Modelling,
+Research,
 
-38(3),
+319,
 
-1133-1146.
+1411-1431.
 
-https://doi.org/10.1016/j.apm.2013.08.025
+https://doi.org/10.1007/s10479-020-03640-6
 
-Kisperska-Moron, D., & De Haan, J. (2011). Improving Supply Chain Performance to Satisfy
+Iyengar, K. P., Vaishya, R., Bahl, S., & Vaish, A. (2020). Impact of the coronavirus
 
-Final Customers: “Leagile” Experiences of a Polish Distributor. International Journal of
+pandemic on the supply chain in healthcare. British Journal of Healthcare Management,
 
-Production Economics, 133, 127-134. https://doi.org/10.1016/j.ijpe.2009.12.013
+26(6), 1–4. https://doi.org/10.12968/bjhc.2020.0047
 
-McCullen, P., & Towill, D. (2001). Achieving lean supply through agile manufacturing.
+Jafarian, M. & Bashiri, M. (2014). Supply chain dynamic configuration as a result of new

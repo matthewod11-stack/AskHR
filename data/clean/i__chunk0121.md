@@ -1,9 +1,15 @@
-## generation of insights, and access to data.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 651636d31c20dd91d1b1bd860a89fc07362b15d7
+title: i
+---
+# Resources.
 
-Data discusses data stewardship, data management, and strategies for extracting value from
+Skills delves into the role skills, and responsibilities of the people analytics leader and team
 
-data. This pillar includes a particular emphasis on leveraging various data sources, including
+members. The operating model for the analytics team is also highlighted.
 
-emerging data, to enhance people analytics beyond the realm of human resources processes,
+Technology. Refer to the choice of technology and how to leverage technology to expand the
 
-addressing more multifaceted business challenges.
+reach of analytics solutions and harness emerging technologies in data collection, analysis,

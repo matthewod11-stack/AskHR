@@ -1,7 +1,25 @@
-# accountability within teams.
+---
+source_path: H08UBJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ddd98b5471fe914fcee1c42d31ab6e465e21e040
+title: H08UBJ-PDF-ENG
+---
+# The Limits of Regulation and Training
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The tension between ethical standards and the forces that undermine
 
-2
+them is especially visible in competitive industries like ﬁnance, where
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+both incentive structures and corporate culture can appear to reward
+
+complicity over candor. Despite all the policies, compliance training,
+
+and hotlines intended to discourage misconduct, it still remains rampant. This damages eﬃcient information ﬂows in ﬁnancial markets
+
+and poses a risk of sanctions to ﬁnancial institutions.
+
+Even at companies that publicly champion integrity, day-to-day team
+
+dynamics can undermine those values. Research has found that formal
+
+rules need to be paired with an internal moral compass and peer

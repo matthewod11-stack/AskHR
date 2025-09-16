@@ -1,20 +1,25 @@
-### **[The new org chart]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: 0ab94e85be4e4e177df878313ca2343113ed094c
+title: Gibbons
+---
+## **[Geoff Gibbins]{.underline}** 
 
-[Forget everything you know about organizational design. The \'org
-chart\' looking forward shouldn\'t just show human relationships. It
-shows AI agents as team members with specific roles, responsibilities,
-and reporting structures.]{.underline}
+[Human-AI expert \| Managing Director at BOI \| Author]{.underline}
 
-[At Kaiser Permanente, the care team now includes AI agents that handle
-ambient documentation, saving 16,000 hours in 15 months. These agents
-don\'t just execute tasks --- they learn from feedback, adapt to
-individual physician styles, and flag potential issues for human review
-(Kaiser Permanente, 2025).]{.underline}
+[September 10, 2025]{.underline}
 
-[The human physicians don\'t just use these agents as tools. They manage
-them like team members. They provide feedback, adjust parameters, and
-coordinate handoffs. The agents, in turn, provide performance data back
-to help physicians improve their own practices. This bidirectional
-management --- humans managing AI, AI providing feedback to humans ---
-is the new normal. And most organizations are completely unprepared for
-it.]{.underline}
+[As we all know, AI agents can \'do\' things now, not just respond to
+chat queries. Book flights (I don\'t know why everybody uses that
+example, but they do). Update sales records. Instruct a warehouse robot.
+This isn\'t science fiction. It\'s Tuesday.]{.underline}
+
+[For the world of work, this means that we need to treat AI as a
+co-worker, a member of the team. The era of hybrid teams, where your
+direct reports include both humans and AI agents, has arrived. And most
+organizations are completely unprepared for what this
+means.]{.underline}
+
+[Welcome to management in 2025, where success depends on orchestrating
+collaboration between carbon and silicon colleagues.]{.underline}

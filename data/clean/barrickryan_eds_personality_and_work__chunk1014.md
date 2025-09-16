@@ -1,5 +1,11 @@
-# Job satisfaction: as component of
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f4f729c14c1d9117ef8324c74c4e44fbec09785d
+title: barrickryan_eds_personality_and_work
+---
+## happiness, 48–50; as situational variables, 305–306
 
-worker happiness, 32; effect on counterproductive workplace behaviors (CWBs), 167–168; and happy-productive worker hypoth- esis, 34; individual perceptions of, and counterproductive work- place behaviors (CWBs), 169–175; studies of, and personality, 127
+Job performance: Big Five traits and,
 
-K Knowledge: contextual, 98, 99–101; declarative, 97, 98–101; proce- dural, 97, 98–101; task, 98, 100–101
+by teams, 184–186, 189–191, 193–195; components of, 88–89; deﬁned, 88; dependent variables in models of, 294–298; determi- nants of individual differences in, 97–101; dimensions of, 89–92; effect of personal strivings on, 67–68; integrated model of, 92–97; models of, history of, 291–294; motivation’s inﬂuence on, 97–98, 99, 332–333; personal- ity traits related to, 60, 63–64. See also Performance; Personality- performance link

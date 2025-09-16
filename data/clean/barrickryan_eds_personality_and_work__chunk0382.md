@@ -1,5 +1,11 @@
-# l a i c o S
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a518ced4b972f25c93fdc8a21b3589ccec289cfc
+title: barrickryan_eds_personality_and_work
+---
+# s e l
 
-e v i t i n g o C
+b a i r a V
 
-y t i l i
+l l i k S

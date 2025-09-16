@@ -1,11 +1,7 @@
-# pigprox/Getty Images
-
-Prior research on poaching “star” employees has shown that
-
-hiring stars is not only diﬃcult but often counter-productive. Newly
-
-hired stars often ﬁnd it challenging to reproduce their exceptional
-
-performance. They may also harm their new employer, for example,
-
-by hindering innovation or lowering incumbents’ performance. This is both surprising and troubling given the costs, time, and eﬀort involved
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d992261c3ff082542bfbcbdb6e1652c4e09da131
+title: H08OKB-PDF-ENG
+---
+## Published on HBR.org / March 31, 2025 / Reprint H08OKB

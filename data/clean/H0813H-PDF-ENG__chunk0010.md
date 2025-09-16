@@ -1,19 +1,9 @@
-# supervisor-subordinate relationships.
+---
+source_path: H0813H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e669ebf198e0fdb7018d26f75c35b5a84aea8f1
+title: H0813H-PDF-ENG
+---
+## performance and counterproductive behavior (deviance).
 
-Our results show that when supervisors used monitoring for control
-
-purposes, employees were more prone to engage in deviant behavior
-
-(e.g., time thievery, inattentiveness, cyberloaﬁng, tardiness, etc.) and
-
-their performance decreased.
-
-These ﬁndings didn’t emerge when supervisors used the data for
-
-developmental purposes. When supervisors used information obtained
-
-from monitoring as developmental feedback, employees continued
-
-to trust and maintain positive relationships with their supervisors.
-
-They also performed better in their jobs and engaged in fewer
+In both studies, we found that electronic monitoring can erode the

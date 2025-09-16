@@ -1,19 +1,31 @@
-## HBR / Digital Article / Help Your Employees Develop the Skills They Really Need
+---
+source_path: H07T9G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0aefab7554e24b0295b01e23e5bd35209946edfd
+title: H07T9G-PDF-ENG
+---
+## 20% Social Learning (Exposure): Social learning involves learning
 
-can improve their problem-solving skills by working on complex
+from others. This is the role the professional storytellers played in the
 
-projects. Regular feedback sessions can help employees reﬂect on
+Wipro example. Other options include mentoring, coaching, or peer-to-
 
-their performance and identify areas for improvement. When the
+peer interactions. For example, setting up a mentorship program within
 
-participants of the storytelling workshop continued to teach their own
+an organization can help employees learn from more experienced
 
-colleagues and apply it in their business pitches and reviews, they got
+colleagues. Regular team-building activities can also foster a culture of
 
-precious hands-on experience that deepened their storytelling skills.
+continuous learning and help improve skills.
 
-This is very diﬀerent from more traditional corporate learning
+70% Learning in the Flow of Work (Experience): This is the most
 
-approaches that focus primarily on MBA-style classroom instruction,
+signiﬁcant part of the learning strategy. It involves learning on the
 
-like the one General Electric made famous at the Management
+job through real-life experiences and tasks. For example, employees
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

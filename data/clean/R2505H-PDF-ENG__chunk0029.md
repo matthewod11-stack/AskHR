@@ -1,17 +1,15 @@
-# The booming growth of the private equity
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9c1e261c90b07738973dd725121d0135c0586bf
+title: R2505H-PDF-ENG
+---
+## HBR / Magazine Article / The Founder’s Final Act
 
-(PE) market has made selling to a PE ﬁrm a
+business. They may view the business as a source of value that can be
 
-common solution for those who want to
+unlocked to fund their retirement, set up their family for the long term,
 
-cash out. But you’ll need to understand
+or support charitable causes. If you see your company this way, your
 
-that the PE ﬁrm won’t be the ﬁnal owner of
-
-the business. In order to return capital to
-
-its investors, it will take the company
-
-public or sell it to a strategic or ﬁnancial
-
-investor. To maximize its return on
+succession plan should be focused on how to maximize its sale value.

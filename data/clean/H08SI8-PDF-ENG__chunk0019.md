@@ -1,13 +1,13 @@
-# sometimes new for the industry overall.”
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f32af23c2edcd9be4b7009f6f6035b3295f8192
+title: H08SI8-PDF-ENG
+---
+## HBR / Digital Article / How 6 Companies Approached Digital Transformation
 
-The company learned four lessons through its transformation process,
+Digital transformations, Singh argues, are “about transforming your
 
-which other leaders can apply: 1) When going through a major
+workforce to think in an agile and digital-ﬁrst mindset, and encourage
 
-transition, failure is OK. 2) Don’t worry about how you’re behind; focus
-
-on how you can leapfrog the competition. 3) View transformations as an
-
-opportunity to help everyone collect and use data. And 4) allow time for
-
-tech savviness to grow.
+the creation and adoption of technology that is new for the team and

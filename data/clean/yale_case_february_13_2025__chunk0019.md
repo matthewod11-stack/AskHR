@@ -1,15 +1,19 @@
-# 11 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: adafad6d5fb9169377f34ed6c8bfe294fa49b01c
+title: yale_case_february_13_2025
+---
+# 06 Terminations in a remote world
 
-sewage into public areas.34 Similarly, the case of Brian P. Johnson, a former systems administrator, underscores the importance of immediate de-credentialing. Johnson retained access to an industrial facility’s systems post-termination, using it to disrupt operations—a reminder of how insider threats can stem from incomplete offboarding procedures.35
+With remote work becoming more common, terminating an employee virtually requires additional considerations beyond traditional in-person firings. While all standard principles of respectful and professional terminations still apply, the lack of face-to-face interaction necessitates careful planning.
 
-Beyond operational risks, as discussed, terminations can profoundly affect team morale and organizational culture. Employees often look to how terminations are handled as an indicator of company values. An empathetic and humane approach can maintain trust within the team, whereas mishandling the process can damage morale and productivity.36
+To convey empathy and maintain a personal connection, use a secure video conferencing platform rather than a phone call or email. Test all technical aspects beforehand to avoid disruptions. Prepare by outlining key points to cover, such as reasons for termination, next steps, and available support. Coordinate with HR and IT to schedule the meeting thoughtfully, considering time zones and ensuring the employee’s system access can be revoked promptly afterward. Have the necessary documentation ready to send securely following the meeting.
 
-Managing employee terminations effectively requires safeguards to minimize risks to both the organization and the departing individual. Significant strategies include utilizing separation agreements and maintaining thorough legal documentation. Non-compete agreements, where applicable, address future employment limitations and help protect company interests by clarifying contractual obligations. Additionally, meticulous documentation of the termination process, including performance reviews and disciplinary records, reduces the risk of wrongful termination claims and supports the employer’s decision if disputes arise.
+Ensure both parties are in private settings to maintain confidentiality. However, be prepared for the possibility that the employee may record the meeting without requesting permission, as it’s easier to do so remotely. This awareness underscores the importance of communicating clearly and respectfully throughout the process. Employers should assume virtual meetings could be recorded and conduct themselves accordingly—look no further than the viral Cloudflare employee who recorded her termination meeting.32
 
-For organizations seeking additional support, Professional Employment Organizations (PEOs) offer specialized HR services that can streamline and standardize termination procedures. As depicted in the film Up in the Air, third-party experts manage complex aspects of employee separations, bringing both expertise and objectivity to the process. While dramatized in the movie, the role of professional guidance reflects real- world solutions that many companies rely on to navigate terminations professionally and legally.
+Risks to contemplate – personal safety, operations, and culture
 
-PEOs ensure compliance with federal and state labor laws, assuming joint liability for compliance issues and helping employers avoid legal disputes. They prepare and organize critical documentation, such as termination letters and separation agreements, to safeguard businesses. For challenging situations involving discrimination claims or Americans with Disabilities Act (ADA) accommodations, PEOs provide expert guidance to minimize risks and ensure fairness.37
+Employee terminations can sometimes provoke intense emotional reactions and, in rare cases, escalate to physical confrontations. Preparing for this possibility is crucial. Ensure the meeting takes place in a private but secure setting, with a second person present to observe and document (we know we have suggested having a second person in the room previously, but its importance cannot be overstated). Having a plan in place to handle any escalation, such as involving HR or security personnel if necessary, adds a layer of precaution that protects all parties involved.33
 
-Beyond the termination meeting, PEOs handle post-termination tasks, including issuing final paychecks, terminating benefits, and processing COBRA notifications. Some even offer outplacement services to help former employees transition to new roles, reducing potential animosity and preserving goodwill.38
-
-For smaller ETA businesses, partnering with a PEO can be transformative. Businesses gain access to advanced HR expertise and legal protections at a fraction of the cost of maintaining an in-house HR team. This support allows leaders to focus on strategic priorities while ensuring that terminations are handled with professionalism and compliance. 39
+The consequences of improper offboarding can also have organization-wide effects. The Maroochy Shire sewage spill of 2000 provides a cautionary tale. After being terminated, ex-contractor Vitek Boden exploited his retained access to the sewage control system, using stolen equipment to release 800,000 liters of raw

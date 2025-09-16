@@ -1,25 +1,17 @@
-## increase in the number of major initiatives in the next three.
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d39d660862def8ea30ae52488e5a68fe3091980
+title: H08OIO-PDF-ENG
+---
+## HBR / Digital Article / How to Prevent Strategy Fatigue
 
-Strategy fatigue is not the same as change fatigue. Change fatigue
+strategy shifts. A survey of 1,284 executives revealed that 85 percent of
 
-is triggered by frequent alterations to workplace processes. It results
+senior leaders have observed “an explosive increase” in transformation
 
-from the sheer volume of changes in how people work. Strategy
+projects over the past ﬁve years. Gartner reports that the typical
 
-fatigue, in contrast, is caused by frequent and capricious shifts in an
+organization has undertaken ﬁve major ﬁrmwide redirections in the
 
-organization’s strategic direction. When leaders continually ﬂipﬂop on
-
-priorities, employees struggle to understand the company’s purpose
-
-and objectives. This gives the impression that leaders don’t know
-
-what they’re doing. A lack of coherent progress leads to uncertainty
-
-and becomes conﬁdence sapping. Strategy fatigue doesn’t discriminate
-
-—it can plague scrappy startups, corporate giants, and even public
-
-institutions. Let’s review two examples to illustrate:
-
-- A tech startup that keeps changing course
+past three years with nearly 75 percent of respondents expecting an

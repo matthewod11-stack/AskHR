@@ -1,13 +1,13 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1761e85ecaa34f14d041b9bce684296f2aff0d1f
+title: H07T7V-PDF-ENG
+---
+# wow.
 
-But I was interested in the cultural changes that he made. And he
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-did a couple things that I think are straight out of the geek playbook.
+12
 
-Some of them are obvious. He embraced agile development methods as
-
-widely and quickly as possible inside Microsoft. He did a couple things
-
-to reduce the sclerotic bureaucracy that was in place at Microsoft, which
-
-was just hamstringing their ability to do anything important out there in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,13 @@
-# company-wide misalignment and confusion.
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a61146df1ae2ad2d1a2df93fb62a89ef74fa16c
+title: H08FW4-PDF-ENG
+---
+## HBR / Digital Article / What the Best Leadership Teams Do Right
 
-As it turns out, the factors that allow top teams to have outsized impact
+Top leaders intuitively understand that when their team functions
 
-on enterprise performance are the same ones that make its eﬀectiveness
+well, it has a positive ripple eﬀect across the organization. But when
 
-such a challenge. For one thing, they face both external pressures from
-
-competing stakeholders like customers, shareholders, and ﬁnancial
-
-markets while also having to contend with internal competition for
+they struggle to work well together, that same ripple eﬀect can create

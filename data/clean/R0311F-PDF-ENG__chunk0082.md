@@ -1,11 +1,9 @@
-# Assess outcomes.
+---
+source_path: R0311F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7d702458ee6ce196e3e758969fc39038f0719db
+title: R0311F-PDF-ENG
+---
+# Base actions on findings.
 
-gathering errors and manipulation efforts.
-
-- • • The original purpose of nonfinancial perfor- mance measures was to fill out the picture provided by traditional financial accounting. Instead, such measures seem to have become a shabby substitute for financial performance. Our study shows that they will offer little guid- ance unless the process for choosing and ana- lyzing them comes to rely less on generic per- formance measurement frameworks and managerial guesswork and more on sophisti- cated quantitative and qualitative inquiries into the factors actually contributing to eco- nomic results. Otherwise, having proliferated in prosperous times, such measures are likely to be abandoned in lean ones, along with the managers who are charged with tracking— and justifying—them.
-
-- 1. For more on the Balanced Scorecard, see Robert S. Ka- plan and David P. Norton, “The Balanced Scorecard—Mea- sures That Drive Performance,’’ HBR January–February 1992; for more on the Intellectual Capital Navigator, see Intellectual Capital: Leif Edvinsson and Michael S. Malone, Realizing Your Company’s True Value by Finding Its Hidden Brainpower (HarperBusiness, 1997).
-
-- 2. See Anthony J. Rucci, Steven P. Kirn, and Richard T. Quinn, “The Employee-Customer-Profit Chain at Sears,” HBR January–February 1998.
-
-Reprint R0311F; OnPoint 5380 To order, see the next page or call 800-988-0886 or 617-783-7500 or go to www.hbr.org
+The final step in the per- formance measurement process is determin- ing whether the action plans and the invest- ments that support them actually produced the desired results. In our research, very few companies did “postaudits” that could con- firm whether investments actually paid off. Even if the postaudit showed negative finan- cial outcomes, it would have the positive ef- fect of suggesting revisions to the causal model, and it might expose managers’ data-

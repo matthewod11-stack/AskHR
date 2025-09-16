@@ -1,9 +1,9 @@
-# discrimination.
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ca658383c7e89324bdc5f58f21f16b473638e4b
+title: H08LGU-PDF-ENG
+---
+# Fairness
 
-Given people’s diﬀering identities, experiences, and needs, fairness isn’t
-
-achieved simply by treating everyone in exactly the same way, but by
-
-building workplace policies, processes, and practices to prevent bias,
-
-maintain accountability, and meet a range of needs while ensuring the
+Fairness is when all people are set up for success and protected against

@@ -1,23 +1,23 @@
-## HBR / Digital Article / The Right Way to Implement Stretch Assignments
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61009c5d648d2e620f913eb35e9a0bc982d04d4a
+title: H08QTQ-PDF-ENG
+---
+# Fuse/Getty Images
 
-When Kayla asked her manager about new projects, his response
+Shortly after earning her engineering degree from a competitive
 
-surprised her. “I’m not really sure what you’re working on,” he admitted.
+undergraduate program, Kayla was hired to be a software engineer at
 
-“I don’t bother you because you did great work last year, so we just
+a large tech company. Two years into the role, however, she was still
 
-assume you’re continuing to do great work.”
+stuck ﬁxing bugs and handling other tedious tasks—the kind of work, as
 
-What her manager saw as a compliment—hands-oﬀ trust—had the opposite eﬀect on Kayla. On her team, where men outnumbered women four to one, her male peers were regularly oﬀered stretch assignments
+she put it, that “ensures everyone else can do their jobs more eﬃciently.”
 
-that helped them build specialized skills, gain management experience,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-and raise their visibility. Despite having the same credentials, Kayla was
+1
 
-quietly passed over.
-
-For organizations, stories like this should be a wake-up call: While
-
-stretch assignments are often discussed as powerful tools for developing
-
-talent and advancing careers, they don’t always deliver those beneﬁts
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

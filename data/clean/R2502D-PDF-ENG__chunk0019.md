@@ -1,7 +1,31 @@
-# strong evidence of success beyond luck.
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36f9119c7ca6315de29e05e2b9ba1f79249e2bfc
+title: R2502D-PDF-ENG
+---
+# Not Just for Startups
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Precedents thinking is practiced extensively in “Startup Garage.” We’ve
 
-5
+also helped companies use it to generate innovative ideas for solving
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their most important business challenges. For example, the leaders of
+
+an enterprise we’ll call Global Foods, which one of us advised, used the
+
+method when their biggest and most proﬁtable line of products was
+
+being stigmatized for contributing to the obesity epidemic in the United
+
+States, Mexico, and many other countries. The CEO called the situation
+
+“an existential threat.”
+
+Using search engines, social media, internal small-group sessions, and
+
+external networking, the leaders identiﬁed 16 precedents that met three
+
+important criteria: They were highly relevant to at least one element of
+
+the challenge, were more than just a common best practice, and showed

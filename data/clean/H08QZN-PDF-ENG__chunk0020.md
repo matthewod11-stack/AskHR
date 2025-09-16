@@ -1,27 +1,21 @@
-# interest.
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 882d47fbf4a4d31adf32a7deca4154fc80507015
+title: H08QZN-PDF-ENG
+---
+# setbacks.
 
-Not everyone on the SVP’s team welcomed these style shifts. After all, it
+To more objectively assess his team, he asked himself who he would
 
-meant more work and personal accountability. But he continued to seek
+re-hire (or not) if he had to start the team from scratch. Then he deﬁned
 
-feedback as a way of calibrating his approach to avoid over-indexing the
+speciﬁc gaps for each and coached them with targeted feedback,
 
-other way. And by persisting with experimentation while accepting the
+acknowledging that his prior avoidance of that limited their potential.
 
-pushback as a necessary part of evolving, he oﬀered a model for them to
+And when his team engaged in endless debates, he redirected them
 
-expand their range as leaders too.
+toward closure and action. Lastly, he had his team develop a cadence
 
-Commit to developing versatility over mastery.
-
-As you experiment with new leadership styles, don’t be discouraged if
-
-some just never feel right. Stay open to practicing across styles so you
-
-have access to more choices when the moment calls for it. And commit
-
-to choosing your approach based on purpose rather than personal
-
-preference. This not only increases your leadership eﬀectiveness in a
-
-given context, but it ensures you’re actively growing your adaptability
+for planning and reporting out to stakeholders based on key metrics of

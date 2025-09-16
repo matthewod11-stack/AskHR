@@ -1,15 +1,15 @@
-## cluster, belong to teams with a family culture.
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cca8faca82c023e1918b196c0d35ef39f2b728fe
+title: H08VZI-PDF-ENG
+---
+## Family Culture: High Connection, Low Courage
 
-In this environment, people sugarcoat communication. Taking cues
+When a culture has high connection but low courage, we call it a family
 
-from and modeling their behavior on that of their manager, people on
+culture. It exists in the lower right-hand quadrant of the map and is
 
-these teams don’t make tough decisions or name inconvenient truths.
+characterized by being “nice” but unwilling or unable to do difficult
 
-Why? Groupthink is in eﬀect; employees don’t speak up because they
-
-don’t want to upset others. It is, at heart, an avoidance strategy driven
-
-by people not wanting to experience (or not having the capability to manage) diﬃcult emotions. A family culture might be high on care, but a lack of suﬃcient accountability breeds mediocre standards;
-
-in addition, decision-making is slow because people try to include
+things. We found that 37% of the people in our survey, the largest

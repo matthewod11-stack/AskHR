@@ -1,17 +1,9 @@
-## Eﬀective communication about change also isn’t one-size-ﬁts-all. Tailor
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a6c48b8ba5d04eb7fd6d046c48eff2f36985751
+title: H08I7Y-PDF-ENG
+---
+# for exploration and exploitation.
 
-it to resonate with diﬀerent motivational styles. At Debora’s ﬁnancial
-
-institution, we coached leaders to frame changes diﬀerently across
-
-departments, depending on their dominant styles. Examples include:
-
-“With this new platform, we’ll lead the market by oﬀering innovative
-
-services and products that our competitors can’t match, positioning us
-
-as a frontrunner in the industry” (Play to Win); “If we don’t implement
-
-these changes, we risk falling out of compliance, losing our trusted
-
-position with regulators and clients, and endangering our reputation
+- 4) Tailor your change messaging.

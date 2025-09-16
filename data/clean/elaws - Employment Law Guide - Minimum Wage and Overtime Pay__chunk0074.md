@@ -1,3 +1,7 @@
-# employees compute the amount of overtime pay due in a sample pay period based on information from the
-
-user. FLSA Fact Sheets: Topical Fact Sheet Index(https://www.dol.gov/whd/fact-sheets-index.htm) Comprehensive FLSA Presentation (Microsoft® PowerPoint®) (https://www.dol.gov/sites/dolgov/ﬁles/WHD/legacy/ﬁles/comprehensive.pptx)
+---
+source_path: elaws - Employment Law Guide - Minimum Wage and Overtime Pay.md
+pages: n/a-n/a
+chunk_id: 2de153ba6a5dfb0c174eac9b14effefe582a423e
+title: elaws - Employment Law Guide - Minimum Wage and Overtime Pay
+---
+# Fair Labor Standards Act (FLSA) Overtime Calculator Advisor(/elaws/otcalculator.htm): Helps employers and

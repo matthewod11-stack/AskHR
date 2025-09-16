@@ -1,15 +1,25 @@
-# creative solutions.
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb2b6e89d54c0fb6b1f1dbd451b5c53dd6aa5654
+title: H08LQA-PDF-ENG
+---
+## HBR / The Big Idea / When Employees Take Sabbaticals, Organizations Benefit
 
-When an organization oﬀers extended breaks as a routine part of
+But when a sabbatical reveals that your employee wants to move on
 
-its culture, it builds the capacity to handle turnover. It’s a form of
+from their role or your company, there are silver linings. First, you’ve
 
-resilience training, as the company is forced to ﬁll the gaps the absent
+parted ways with someone who wasn’t committed to your organization
 
-person leaves behind — even if it’s just for a little while — and the
+anyway. As one Zappos director explains, “If upon the ﬁrst sight of
 
-colleagues who ﬁll them get stretch experiences and opportunities to
+daylight they sprint for the exits, at that point I wouldn’t want them on
 
-prove themselves. Ironically, enacting a sabbatical policy can help a
+our team anymore. We have no shortage of folks who actually want to
 
-company both prevent and prepare for the departure of key people.
+be here.” And second, new employees bring with them high motivation,
+
+new ideas, fresh energy, and insights from their previous employment,
+
+whether at competitors or in other industries, that can lead to more

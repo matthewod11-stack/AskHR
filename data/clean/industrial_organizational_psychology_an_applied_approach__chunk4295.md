@@ -1,21 +1,15 @@
-## Lee, K., Carswell, J. J., & Allen, N. J. (2000). A meta-analytic
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 18968ea3b94192a065736bf2b91668a9e470f6c7
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Ledford, G. E., Lawler, E. E., & Mohrman, S. A. (1995). Reward
 
-review of occupational commitment: Relations with person- and work-related variables. Journal of Applied Psychology, 85(5), 799–811.
+innovations in Fortune 1,000 companies. Compensation and Beneﬁ ts Review, 27(4), 76–80.
 
-Lee, T. W., Mitchell, T. R., Sablynski, C. J., Burton, J. P., &
+Lee, F. (1993). Being polite and keeping MUM: How bad news is communicated in organizational hierarchies. Journal of Applied Social Psychology, 23(14), 124–149.
 
-Holtom, B. C. (2004). Th e eﬀ ects of job embeddedness on organizational citizenship, job performance, volitional absences, and voluntary turnover. Academy of Management Journal, 47(5), 711–722.
+Lee, J. A., Walker, M., & Shoup, R. (2001). Balancing elder care
 
-Leeds, D. (1996). Training one-on-one. Training & Development,
-
-50(9), 42–44.
-
-Lefkowitz, J. (2000). Th e role of interpersonal aﬀ ective regard in supervisory performance ratings: A literature review and proposed causal model. Journal of Occupational and Organizational Psychology, 73(1), 67–85.
-
-Leonard, B. (1999). Reading employees. HR Magazine, 44(4),
-
-67–73.
-
-Leonard, B. (2000). Online and overwhelmed. HR Magazine,
-
-45(8), 37–42.
+responsibilities and work: Th e impact on emotional health. Journal of Business and Psychology, 16(2), 277–289. Lee, J. A., Havighurst, L. C., & Rassel, G. (2004). Factors related to court references to performance appraisal fairness and validity. Public Personnel Management, 33(1), 61–77.

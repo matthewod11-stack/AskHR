@@ -1,9 +1,11 @@
-# or their cash equivalents;
+---
+source_path: Employment Law Guide - Hours and Safety Standards in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: 5f692c7b0a71c823a50331adfbb0e8335df75530
+title: Employment Law Guide - Hours and Safety Standards in Construction Contracts
+---
+# Street Address;
 
-Daily and weekly number of hours worked;
+Social Security number; Correct classiﬁcation(s) of work performed;
 
-Deductions made; and Actual wages paid.
-
-Contractors must maintain these records during the course of the work and for a period of three years after all
-
-the work on the prime contract is completed. They also must be made available to the contracting agency and
+Hourly rates of wages paid, including rates of contributions or costs anticipated for bona ﬁde fringe beneﬁts

@@ -1,7 +1,13 @@
-## HBR / Digital Article / How Much Autonomy Should You Give Your Global Teams?
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6ffb4605acf3eaa1de0fbcb6e5300b587d728ab
+title: H06XTG-PDF-ENG
+---
+## more than 100 in-depth interviews with executives at multinational
 
-corporations based all around the world. We asked them how they
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-have struck this balance in their organizations, and identiﬁed three
+1
 
-questions that leaders should ask to determine the best way to support
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

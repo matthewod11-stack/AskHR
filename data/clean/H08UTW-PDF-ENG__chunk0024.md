@@ -1,25 +1,17 @@
-## (the letter of the law, but not the spirit)
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98abe620a3aecbbd3db0b9e26f0d87b6a90ba088
+title: H08UTW-PDF-ENG
+---
+## Though norms around “yes” and “no” vary across cultures and
 
-- “No” (when it shuts down the person and the idea without
+hierarchies, the following phrases reﬂect the most common blocking
 
-explanation; especially damaging when interrupting the speaker)
+language I’ve observed in U.S. workplaces:
 
-- “That’s not valid” or “That doesn’t apply here” (dismisses the value of
+- “Yes, but…” (sounds polite, but dismisses the idea)
 
-the other person’s idea or denies their experience)
+- “Yes, or…” (swaps out the original idea for the speaker’s idea)
 
-How to avoid this mistake:
-
-“Yes” shouldn’t become a polite preface for shutting down an idea (“yes,
-
-but…”) or pushing your own agenda (“yes, or…”). Similarly, don’t use
-
-“yes, and…” if you’re just paying lip service to the concept. Speaking the words without a genuine intent to aﬃrm and engage with other’s ideas
-
-rings hollow—and worse, can come across as manipulative.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Saying “Yes, and…” when actually meaning “Yes, but…” or “Yes, or…”

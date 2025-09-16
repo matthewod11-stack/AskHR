@@ -1,23 +1,41 @@
-# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 41fdb6f681cb44ee8c9bec04941fbbce56e1b3ae
+title: beo_chap7_1
+---
+# 7.7 CONCLUSION
 
-Section 7.2 moves from the individual to the organizational level. Organizing
+This chapter is about both applying behavioral economics to organizations, and
 
-requires informal rules for coordinating action. Following Kreps (1990), we take
+enriching behavioral economics by asking questions that are specific to the roles
 
-the view that corporate culture is a set of shared meta-focal principles for resolv-
+of workers and managers in organizations. This chapter is less of a review of what
 
-ing coordination problems in the face of the cognitive inability to fully specify an
+is known than it is a research agenda, with more questions than answers. This
 
-employment contract. Having a sharp economic concept like this to work with could
+conclusion recaps some of the common themes.
 
-provide a basis for useful empirical work on culture. The way the brain organizes
+The first question is how to complicate the basic agency model. One complication
 
-information (“cognitive economy”) may also explain why culture is often transmit-
+is that agents’ preferences (i.e., effort disutility and reservation wages) may be sensi-
 
-ted in the form of stories, personification, and simple slogans (Heath and Seidel
+tive to how jobs are described or how wage offers and job choices are elicited. Limits
 
-2004). The value of having cultural principles that can be commonly understood,
+on greed and self-interest imply that people often like to help their friends and harm
 
-and are immune to errors in language translation, gives a role for leadership and
+their enemies, and dislike unequal treatment. Precise models of social preference
 
-managerial statements that are simple (like corporate mission statements).
+that have been carefully honed on experimental data from simple games would need
+
+to be plugged into organizational economics applications. In the laboratory, prefer- ences are often sensitive to reference points, such as previous wages (due perhaps to habit formation) and wages of other workers. There is evidence of such effects from labor practices (e.g., two-tier wage deals in financially distressed firms) and executive compensation. Workers also seem to care about fair or just procedures for
+
+determining outcomes. The strength of these preferences in field data and organi-
+
+zational design responses has, however, not been studied thoroughly. Psychological
+
+influences on judgments of causality (in agency-theory terms, inferring agent effort from output) are also important. Hindsight bias, overattribution of cause to workers rather than luck, asymmetric attribution (taking credit and exporting blame), dif- fusion of blame across a large group, and overconfidence about skill may all play
+
+important roles, and these have not been studied much in organizational contexts.
+
+272

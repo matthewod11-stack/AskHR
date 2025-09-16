@@ -1,1 +1,11 @@
-# 9/10/25, 10:59 AM
+---
+source_path: Stop Asking Neurodivergent People to Change the Way They Communicate.md
+pages: n/a-n/a
+chunk_id: 682260a211c776ec338b158e3111888ee33ca086
+title: Stop Asking Neurodivergent People to Change the Way They Communicate
+---
+# The
+
+research-backed view, emerging in recent years, is that NTsand NDs are merely speaking different, but equally valid, sociallanguages. As such, it’s on NT people, as much as it is ND people,to bridge the communication gap.Before diving in to suggestions for ways NTs can be bettercommunication partners, however, it’s important to understandthat
+
+many conditions fall under the neurodivergence umbrella.Across these conditions, and between individuals, there’s a vastamount of difference in how we think, communicate, and behave.Our levels of intelligence vary, and we are just as diverse in ourinterests and abilities as anyone else.It is incumbent on those of us in theknow to reframe conversations onneurodiversity in the workplace soNDs are no longer excluded from thetable.While not everyone needs to become an expert on everythingthere is to know about autism, ADHD, and other

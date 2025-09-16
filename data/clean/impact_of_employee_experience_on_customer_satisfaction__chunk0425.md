@@ -1,17 +1,23 @@
-# CULTURE
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 7f1e038863933e6955224bf262dc3ff428d6aab4
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# LEADERSHIP
 
-17
+8
 
-18
+9
 
-I am treated with respect and dignity.
+I feel empowered to make decisions regarding my work.
 
-You feel that the organization you work for is diverse and inclusive
+I would recommend my manager to others.
 
-29
+28
 
-Your organization offers employees multiple workspace options The physical space reflects the values of your organization
+Teams at my company collaborate effectively to get things done.
 
-13
+16
 
-I have good opportunities to learn and grow at my company.
+I feel free to speak my mind without fear of negative consequences.

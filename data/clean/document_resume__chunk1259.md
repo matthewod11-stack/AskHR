@@ -1,17 +1,9 @@
-# 1 Unacceptable
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 138734a39b503ea0bef76028cf2da4425a302bde
+title: document_resume
+---
+# 2 Marginal
 
-Fails to post hours and/or schedule. Difficult to locate during office hours. Arrives for class late. Works less than the 35 hours on campus per week minimum.
-
-- ).
-
-Administrative Responsibilities carries out official policies.
-
-Performs administratie support tasks and
-
-5 Exceptional Handles administrative responsibilities in an exemplary manner. Exceeds required or expected administrative performance stan- dards. Analyzes data from reports and makes recommendations. Assists in the development of policies. Contributes to the devel- "mem of reports, forms, records, and other materials.
-
-1
-
-r:
-
-",
+Post schedule which denotes general rather than specific duties in blocks of time. Generally adheres to schedule. Is sometimes late for class. Usually maintains a minimum of 35 hours on campus per week.

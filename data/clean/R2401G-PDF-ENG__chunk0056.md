@@ -1,11 +1,23 @@
-# patients.
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b2cee03b64ad1d3b45c78c5afd27257c773c2d0
+title: R2401G-PDF-ENG
+---
+# into “unknown cause.”
 
-Subtraction networks. Savvy friction ﬁxers build, join, and activate
+Patients appreciated the clarity: Seventy-eight percent preferred the
 
-networks to help them subtract obstacles. Civilla’s leaders worked
+translated letter to the jargon-ﬁlled one, 69% said it had a positive
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+impact on their relationship with their physician, and 80% reported that
 
-13
+it increased their “ability to manage their chronic health condition.”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Patients were also asked to circle any terms in their letters that
+
+they didn’t understand. Patients with untranslated letters circled eight
+
+terms, on average; those with translated letters circled two. The team’s
+
+eﬀorts to banish jargon monoxide eliminated unnecessary friction for

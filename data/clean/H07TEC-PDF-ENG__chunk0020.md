@@ -1,15 +1,33 @@
-# Watch for outliers.
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53d2db9e9e154260f4754a38c1d4d446937e1ed5
+title: H07TEC-PDF-ENG
+---
+# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
 
-As with any analytical approach, outliers in the data can have signiﬁcant eﬀects on the results of the analysis. This is even more
+Variable selection is key.
 
-critical with balanced benchmarking because it is a relative analysis —
+The variables chosen for balanced benchmarking are arguably the most
 
-that is, the individuals or teams in the analysis are compared against
+important part of using this approach to assess performance. You’ll
 
-one another. Thus, it is important to pay attention to outliers in your
+need to think deeply about which variables you want the model to
 
-data, as they can cause inaccuracies in your ﬁndings. We’ve found
+minimize (i.e., the input variables) and maximize (i.e., the output
 
-that it’s best to remove the team or individual with the outlying data
+variables). Data on these variables needs to be regularly collected and
 
-from the analysis for a speciﬁc time period, as this will generate more
+readily accessible, and must be tied back to factors that the individual
+
+or team has control over. For example, requiring a marketing team
+
+to minimize operational expenses associated with the production of
+
+the product or service they are selling is outside of their control. It
+
+would be more appropriate to require the marketing team to minimize
+
+discretionary spending (e.g., travel, dining, etc.) associated with their
+
+selling activity.

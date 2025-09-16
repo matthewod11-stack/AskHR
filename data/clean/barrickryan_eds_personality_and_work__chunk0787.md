@@ -1,9 +1,11 @@
-# 272 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: fe088ef005b39d48447a4130876b5288da198cff
+title: barrickryan_eds_personality_and_work
+---
+## When Good PO Fit Is Bad and Bad PO Fit Is Good
 
-inability to adapt, less innovation, groupthink). They note that this occurs because the ASA model suggests that organizations will tend toward homogeneity of personality. Schneider and colleagues argue that in general, good ﬁt leads to personality homogeneity and poor organizational health. Thus, the current wisdom is that personality-based PO ﬁt is good for the person and short-term in- dividual affective outcomes, but bad for the organization and long- term performance outcomes.
+Juan recalls his short tenure at XYZ Inc. as an unpleasant time but a valu- able experience. Juan naturally strives to get along with others, so he was surprised to ﬁnd himself in a workplace where criticism, backbiting, and overt hostility were the substance of interpersonal interactions. Juan was glad to leave XYZ, though he notes that he learned a lot about dealing with difﬁcult coworkers. He says that now he can more quickly spot what the difﬁculties will be in working with a particular client and has devel- oped strategies for more effectively handling disagreeable clients.
 
-In this section, we discuss this dark side of personality-based PO ﬁt and when it is likely to occur. Building on some comments of Schneider et al. (2000), we discuss when good PO ﬁt can be bad and, expanding on that, argue that bad PO ﬁt can sometimes re- sult in good consequences. We reiterate that our focus is on PO ﬁt in terms of personality. Schnedier et al. noted that good ﬁt on goals might always be good, but good ﬁt on personality characteristics sometimes might not be.
-
-When discussing the potential dark side of personality ﬁt, it is important to remember the distinctions that we drew in the ﬁrst section of this chapter. When personality-based PO ﬁt is concep- tualized as complementary ﬁt, such that individuals’ needs are met by an objective organizational characteristic (compensation system or type of ownership), it is difﬁcult to anticipate negative conse- quences for individuals. It is possible, of course, that an individ- ual’s personality may change in such a way that the organizational characteristic no longer meets his or her needs. However, per- sonality is inherently stable and is therefore unlikely to shift dramatically over time. Conley (1984b) demonstrated that self- opinion traits (self-esteem) are more variable than other types of personality traits, so there is the potential for a person’s self- esteem to change over time, thereby changing the level of PO ﬁt. Even in this situation, however, the resulting negative conse- quences are more likely due to a worsening of PO ﬁt than to neg- ative effects of good ﬁt.
-
-Even if it is unlikely that good complementary personality- based PO ﬁt would have negative consequences for individuals, it is possible that poor complementary ﬁt may offer some individual- level beneﬁts. When there is a poor ﬁt between an individual’s per- sonality and organizational characteristics, turnover is only one option. For example, a risk-averse individual who is working in an
+Schneider, Smith, and Goldstein (2000) argued that traditional PE ﬁt theory argues for positive, individual-level outcomes (higher job satisfaction, lower turnover, greater commitment) from good ﬁt, but that the attraction-selection-attrition (ASA) model suggests neg- ative, organizational-level outcomes from good ﬁt (for example,

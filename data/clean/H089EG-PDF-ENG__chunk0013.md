@@ -1,23 +1,23 @@
-# member’s engagement and retention.
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 002ca3bf2e8ca9b7eb9300bd48e9463532c0ae77
+title: H089EG-PDF-ENG
+---
+# learn and grow.
 
-Which pieces of a project might leverage someone else’s strengths?
+Ideally you can align a task or project with your team member’s
 
-If you feel uncomfortable handing oﬀ an entire project to someone else,
+strengths, goals, or career development plan, which will advance both
 
-consider what pieces of a projects might require skills that your team
+the organization and the individual. For example, you may invite a
 
-members are experienced in. You can identify these skills by observing
+team member who you consider to be a future people leader to head a
 
-people in action or asking questions during one-on-one conversations
+brainstorming meeting on your behalf or present a pitch to your boss.
 
-such as: “What kind of work makes you feel energized?”; “What do
+By providing them with an opportunity like this, you’re giving them
 
-you consider your greatest strengths?”;“What makes you feel most
+a chance to gain inﬂuence, build relationships, and contribute to an
 
-accomplished?”
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+organizational initiative. In turn, these projects contribute to your team

@@ -1,3 +1,9 @@
-## Sadly, there’s very little evidence-based research on strategies to
+---
+source_path: H04MNA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9b13b1bc3f99aeac011116b41a3569d6327d2c5
+title: H04MNA-PDF-ENG
+---
+## private settlements, and insurance costs.
 
-prevent or address sexual harassment. The best related research
+So what does work? Or might?

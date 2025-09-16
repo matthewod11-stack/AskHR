@@ -1,3 +1,7 @@
-# Thomas K. Fagan, PhD Department of Psychology University of Memphis Memphis, Tennessee
-
-Raymond D. Fowler, PhD Ofﬁce of the Chief Executive American Psychological Association Washington, DC
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ea685be5c649d4143e0d25d98fce87cb0ad67422
+title: untitled
+---
+# Donald A. Dewsbury, PhD Department of Psychology University of Florida Gainesville, Florida

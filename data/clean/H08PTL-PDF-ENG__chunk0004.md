@@ -1,13 +1,11 @@
-# guide board discussions.
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 023bbabbc8bcf7ddf90e38115b89db905d596b20
+title: H08PTL-PDF-ENG
+---
+# HBR / Digital Article / AI Is Great at Routine Tasks. Here’s Why Boards Should Resist U…
 
-We’ve been conducting ongoing research into how board chairs have
+taking, agenda creation, and meeting documentation. And new AI-
 
-exercised their power. A series of recent interviews highlighted several
-
-ways in which AI could inadvertently diminish that power and
-
-inﬂuence. Understanding and mitigating this “encroachment risk” AI
-
-poses to board chairs is essential to maintaining eﬀective leadership
-
-and ensuring AI supports rather than undermines their strategic
+powered board-management software is emerging to oﬀer advice and

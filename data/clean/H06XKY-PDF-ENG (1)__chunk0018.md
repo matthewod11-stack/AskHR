@@ -1,7 +1,13 @@
-# @amyegallo
+---
+source_path: H06XKY-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 04794eb139ab90ee98298fcf9ef1c6865f665522
+title: H06XKY-PDF-ENG (1)
+---
+## HBR / Digital Article / How to Be a Supportive Manager When Times Are Tough
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Editor’s note: This article is adapted from “How to Keep Your Team Focused and Productive During Uncertain Times,” which originally published in March 2017.
 
-5
+This article was originally published online on March 31, 2022.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Amy Gallo is a contributing editor at Harvard Business Review, a cohost of the Women at Work podcast, and the author of Getting Along: How to Work with Anyone (Even Difficult People) (Harvard Business Review Press, 2022) and the HBR Guide to Dealing with Conﬂict(Harvard Business Review Press, 2017). She writes and speaks about workplace dynamics.

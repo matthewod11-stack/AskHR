@@ -1,21 +1,7 @@
-## HBR Staff/ Hudzilla/Getty Images; Unsplash
-
-Dissatisfaction with performance appraisals is pervasive. They are
-
-seen as time-consuming, demotivating, inaccurate, biased, and unfair.
-
-A McKinsey survey indicates most CEOs don’t ﬁnd the appraisal process
-
-in their companies helps to identify top performers, while over half of
-
-employees think their managers don’t get the performance review right.
-
-A Gallup study is more negative: Just one in ﬁve employees agreed that
-
-their company’s performance practices motivated them.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0b55a254ec21fadaecae5339daa657b79c26b8e
+title: H074CY-PDF-ENG
+---
+## Published on HBR.org / July 08, 2022 / Reprint H074CY

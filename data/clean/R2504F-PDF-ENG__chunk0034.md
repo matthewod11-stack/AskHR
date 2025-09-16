@@ -1,13 +1,15 @@
-## Anne Oxrider, a Bank of America senior vice president and beneﬁts
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c75328c3338eee75f4602ab1ccd857b7726aa96b
+title: R2504F-PDF-ENG
+---
+## and their household members a dozen counseling sessions per issue
 
-executive. She listed several key elements of the company’s approach:
+(for example, relationships, grief or loss, anxiety, and caregiving) per
 
-“Getting the right support to teammates at the right times in their lives.
+year. To help employees ﬁnd information and share experiences, it
 
-Packaging beneﬁts in ways that make them very easy to understand and
+hosts a global forum called the Parent and Caregiver Network. “Adult
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+caregiving requires thoughtful planning and ﬁnesse,” we were told by

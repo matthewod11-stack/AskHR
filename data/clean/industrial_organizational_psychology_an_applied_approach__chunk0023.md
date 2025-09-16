@@ -1,3 +1,7 @@
-# Compositor: Integra
-
-Printed in the United States of America 1 2 3 4 5 6 7 12 11 10 09 08
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4e42b3ae6e6778c060c04fa70c53af4516501249
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Cover Image: Rubberball/Getty Images

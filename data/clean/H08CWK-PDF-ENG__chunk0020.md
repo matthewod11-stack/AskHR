@@ -1,13 +1,17 @@
-# Separate useful feedback from opinions.
+---
+source_path: H08CWK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c802099297fb1e3a3d7264076837208b25783281
+title: H08CWK-PDF-ENG
+---
+# you.
 
-Opinion and feedback may appear similar, but opinions primarily
+Ask yourself: Who has your back? Who really gets you, not just the
 
-reﬂect the thoughts and perspectives of the giver, while feedback is
+reﬁned and packaged you, but the straining, striving, and vulnerable
 
-designed to beneﬁt and guide the receiver.
+version of you that’s trying to ﬁgure out life as you go? Who has ﬁdelity
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+to the truth? Who can you count on to be honest with you? Who has
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+lived a life that you respect?

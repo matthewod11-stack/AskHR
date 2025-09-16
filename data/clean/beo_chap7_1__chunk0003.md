@@ -1,3 +1,7 @@
-# 7.1 INTRODUCTION
-
-This essay analyzes how behavioral economics can be applied to organizations, and how it can be enriched by thinking about the economic questions associated with
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 7bba3b045698f8fcd0462c1be414db30ad0a6654
+title: beo_chap7_1
+---
+## By Colin F. Camerer and Ulrike Malmendier I

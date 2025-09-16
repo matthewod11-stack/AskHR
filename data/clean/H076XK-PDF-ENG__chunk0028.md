@@ -1,15 +1,15 @@
-## HBR / Digital Article / The Hidden Power of Workplace Rituals
+---
+source_path: H076XK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6c9772ba45774a13955b63cbf5fe8929985b223
+title: H076XK-PDF-ENG
+---
+# U.S. Supreme Court.
 
-Time to Connect is a powerful example of a simple way leaders can
+- • •
 
-provide the kind of response and support employees are expecting from
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-their companies. Enlisting regular rituals helps leaders oﬀer healing
+5
 
-from speciﬁc traumas and disturbances while at the same time aligning
-
-their workforce with their values and increasing psychological safety
-
-and belonging. At a time when the call for authenticity has moved
-
-way beyond any brand buzzword, rituals are good for people and for
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

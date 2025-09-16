@@ -1,7 +1,7 @@
-# events.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fa60ef64af4ddab3872938bffcca1b9005f8d98
+title: H06YBA-PDF-ENG
+---
+## acceptance or, better yet, inclusion, instead of awareness, in your April

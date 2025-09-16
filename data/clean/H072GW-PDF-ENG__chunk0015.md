@@ -1,23 +1,25 @@
-# groups.
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c3203c3899dfdda1492322492560a15f18b860d
+title: H072GW-PDF-ENG
+---
+# characteristics.
 
-This is why I call my model of creating inclusive organizations
+However, these outward “presentation” barriers don’t impact only
 
-the “Canary Code” for building better workplaces. Before there were
+autistic people. For example, “enthusiastic speech” evaluation does
 
-electronic carbon monoxide detectors, canaries were used to detect the
+not consider those with speech diﬀerences or who use communication
 
-deadly gas in coal mines. Toxic gases impact the canary ﬁrst, but all
+devices — autistic or not. People with facial trauma or paralysis, vision
 
-others are harmed eventually. And healthy air beneﬁts all.
+impairments, and many other disabilities will also be unfairly impacted
 
-I reviewed over 150 academic articles on inclusion and best
+by presentation criteria. Moreover, many cultures discourage direct eye
 
-practices that help employee experience and performance. My ﬁndings
+contact and have diﬀerent norms for expressing enthusiasm. Finally,
 
-converge with marginalized individuals’ lived-experience accounts:
+aﬀect recognition is also racially biased. Detecting and removing
 
-characteristics of work that are essential for including autistic talent
-
-(e.g., skills-based hiring, transparency of procedures, normalizing
-
-remote work) help all marginalized people and are highly desired by
+arbitrary, non-work-related barriers makes selection fairer for multiple

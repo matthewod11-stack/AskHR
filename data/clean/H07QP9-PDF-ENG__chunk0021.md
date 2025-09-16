@@ -1,13 +1,29 @@
-# important.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dccc48cede881d8ddfc2fb36eae470a08e68203c
+title: H07QP9-PDF-ENG
+---
+# Model leadership.
 
-We also try to help leaders build self-awareness about whether
+If you’re a senior leader, the most impactful thing you can do to ensure
 
-they’re modeling our leadership behaviors. As part of several of our
+your company’s culture aligns with your leadership expectations is
 
-executive development programs, leaders receive feedback from their
+to personally model your company’s leadership behaviors. As Schein
 
-teams and/or manager on the extent to which they’re practicing our
+suggests, your actions will have a disproportionately large inﬂuence on
 
-Leadership Playbook. Leaders then create development goals based
+shaping the culture.
 
-on this input to ensure they’re consistently reinforcing and practicing
+To encourage this at Intuit, we start at the top, with our most senior leaders kicking oﬀ many of our leadership development eﬀorts. When
+
+we initially rolled out the Leadership Playbook at our annual leadership conference, our CEO Sasan Goodarzi and his staﬀ, along with our former
+
+CEO and then-executive chairman Brad Smith, shared their experiences
+
+practicing the playbook behaviors and the ways in which the behaviors showed up diﬀerently based on their unique leadership styles. Our most
+
+senior leaders set the tone for the rest of the organization, and their
+
+actions — much more than their words — indicate what they believe is

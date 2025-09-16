@@ -1,7 +1,19 @@
-## your performance with the organization’s goals and expectations?
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae33fff4e3495af46e09cef10543ffc4b27e7fc1
+title: H0881J-PDF-ENG
+---
+# Reset Expectations
 
-- How can we collaborate to ensure a clear understanding of
+Clearly communicate what your expectations are moving forward.
 
-performance standards going forward?
+Ensure the employee understands the standards and is aligned with the
 
-- How can I support you, and what resources do you require from the
+organization’s goals. As author, sales expert, and motivational speaker
+
+Zig Ziglar said, “A goal properly set is halfway reached.”
+
+To encourage dialogue, consider asking questions like:
+
+- What speciﬁc actions or behaviors do you think are needed to align

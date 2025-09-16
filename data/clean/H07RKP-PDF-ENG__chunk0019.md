@@ -1,3 +1,9 @@
-# optimal, accessible experiences for all.
+---
+source_path: H07RKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26ce7122fc90e41cc90fd47c508484271fde464f
+title: H07RKP-PDF-ENG
+---
+# HBR / Digital Article / Designing Generative AI to Work for People with Disabilities
 
-Then consider the following list of basic requirements for inclusive
+various types of disabilities and who are neurodivergent, you can ensure

@@ -1,37 +1,15 @@
-# Collaborating (high pull + high push)
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27bf6e89802720555ec2a01ceaa52890daaa76e7
+title: H08NJ7-PDF-ENG
+---
+## HBR / Digital Article / 4 Styles of Coaching—and When to Use Them
 
-At the top right quadrant lies the Collaborating (or guided) coaching
+This style is great for coaching new leaders or those on the path
 
-style, which embodies high pull and high push and represents the sweet
+to leadership, as it helps build and enhance their critical thinking,
 
-spot in coaching. Ask a coaching expert and they will probably tell you
+accountability, and problem-solving skills. Learning how to think
 
-this should be the place most managers strive to be at.
-
-Think of this style as a cross between traditional coaching (asking open-
-
-ended questions) and mentoring (providing counseling and prescriptive
-
-advice) and jointly coming up with a way forward. This approach, too,
-
-requires a fair bit of preparation.
-
-This style is most suited in situations that warrant a combination of
-
-guiding and advising, irrespective of your report’s experience level.
-
-Say your associate manager is working on a career development plan
-
-and aspires to move from supply chain to general management. Here,
-
-instead of simply telling them whether this would be good for their
-
-career or not, you’ll want to pursue a more collaborative approach. You
-
-might start the conversation by asking open-ended questions to aid
-
-reﬂection, such as, “What skills do you think you need to develop to
-
-be able to make the switch to general management?” or “Why do you
-
-think you should develop more competencies in AI in addition to supply
+independently and make decisions helps in maximizing their potential.

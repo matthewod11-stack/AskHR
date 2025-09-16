@@ -1,9 +1,19 @@
-## Factor Model. Annual Review of Psychology, 41, 417–440.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 76b5ee362f334d3d0395253e0dca0360c99788ac
+title: barrickryan_eds_personality_and_work
+---
+# PERSONALITY AND JOB PERFORMANCE 115
 
-Frei, R. L., & McDaniel, M. A. (1998). Validity of customer service mea- sures in personnel selection: A review of criterion and construct evi- dence. Human Performance, 11, 1–27.
+Conway, J. M. (1999). Distinguishing contextual performance from task performance for managerial jobs. Journal of Applied Psychology, 84, 3–13.
 
-Gellatly, I. R. (1996). Conscientiousness and task performance: Test of a cognitive process model. Journal of Applied Psychology, 81, 474–482. Gellatly, I. R., & Irving, P. G. (2001). Personality, autonomy, and contex-
+Conway, J. M. (2000). Managerial performance development constructs
 
-tual performance of managers. Human Performance, 14, 231–245.
+and personality correlates. Human Performance, 13, 23–46.
 
-George, J. M., & Jones, G. R. (1997). Organizational spontaneity in con-
+Dawis, R. V. (1991). Vocational interests, values, and preferences. In M. D. Dunnette & L. M. Hough (Eds.), Handbook of industrial and organizational psychology (2nd ed., Vol. 2, pp. 833–871). Palo Alto, CA: Consulting Psychologists Press.
+
+Diefendorff, J. M., Hall, R. J., Lord, R. G., & Strean, M. L. (2000). Action- state orientation: Construct validity of a revised measure and its re- lationship to work-related variables. Journal of Applied Psychology, 85, 250–263.
+
+Digman, J. M. (1990). Personality structure: Emergence of the Five-

@@ -1,5 +1,9 @@
-# Sources of Appraisal Data
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4366034dc192fd8f2a3950a3e22ea9086300510a
+title: document_resume
+---
+# Performance Appraisal
 
-The best sources of appraisal data are.
-
-(1) a knowledgeable indiv idual who has directly and continually observed job performance and w ho can late performance with- out error or bias and (2) items that can be counted, qualified, measured, analyzed, or compared. These factors should be considered no matter which approach is selected for conducting the performance appraisal. This section provides a brief description of the various sources which are currently accepted within organizations. Sources of critical information needed to perform the appraisal function may include. the supervisor, the subordinate, peer review, self-appraisal, and outside appraisals (including the assess- ment center concept and student evaluations, where applicable).20
+tell individuals what they need to do to it .in or increase pioductiv ity. For example, telling the Division Chair that the writing skills laboratory is not in operation skill not come as a surprise. He/she needs to know what must be done to achieve the desired result and how the organization can help. Possibly budget cutbacks have resulted in insufficient funds to hire lab instructors, or sufficient space has not been made ail- able. Problems such as these are why many authorities emphasize the need to combine MBO with other measures of job behavior.'`

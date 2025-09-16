@@ -1,5 +1,9 @@
-# by Marcus Buckingham and Ashley Goodall
+---
+source_path: Reinventing Performance Management.md
+pages: n/a-n/a
+chunk_id: d73c761d73985d8fb7eb05167afe8d5b6b14f4af
+title: Reinventing Performance Management
+---
+# Reinventing Performance Management
 
-2  Harvard Business Review April 2015
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+HOW ONE COMPANY IS RETHINKING PEER FEEDBACK AND THE ANNUAL REVIEW, AND TRYING TO DESIGN A SYSTEM TO FUEL IMPROVEMENT

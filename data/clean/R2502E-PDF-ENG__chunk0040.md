@@ -1,13 +1,23 @@
-# consider:
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5592c3de73c927eca7928e416cf7e63942185ab
+title: R2502E-PDF-ENG
+---
+## States (consistent with historical patterns and previous technological
 
-Growing occupations. In the United States the industry that will
+waves). And the good news is that, on average, those jobs will pay more.
 
-experience the greatest job growth is healthcare, where employment
+The catch is that they will also require diﬀerent skills.
 
-is expected to increase 30% by 2030. The second-largest increases will
+Whether you’re just starting out in your career or are more established,
 
-be in jobs in science, technology, engineering, and math, collectively
+it’s important to understand the shifts that are underway now and those
 
-referred to as STEM, for which demand will increase 23%. The
+that are coming. When you’re choosing an occupation, it pays to be
 
-transportation-services sector is expected to see job growth of 9%
+strategic and pick an area that’s growing. If you’re currently in one that’s
+
+shrinking, you’ll need to think about reskilling and upskilling.
+
+Here are some of the key aspects of the changing work landscape to

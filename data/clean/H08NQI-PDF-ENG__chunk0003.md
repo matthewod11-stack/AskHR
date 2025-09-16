@@ -1,7 +1,15 @@
-# business model.
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2f4cb88ca686a44d20de7f29510e996de5de920
+title: H08NQI-PDF-ENG
+---
+# David Malan/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Speed has a bad reputation in business, much of it deserved.
 
-1
+Discussions of quality problems at Boeing or the collapse of FTX or even
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Quibi’s dramatic ﬂameout often zero in on speed: Things were moving
+
+too fast for anyone to see the obvious ﬂaws in leadership or culture or

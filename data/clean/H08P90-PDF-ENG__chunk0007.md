@@ -1,37 +1,19 @@
-## of picosecond (one trillionth of a second) lasers for eye surgery. The
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7238124ffdbb7ab114b5ef7c2d9ec63851f78a10
+title: H08P90-PDF-ENG
+---
+# HBR / Digital Article / To Drive Innovation, Create the Conditions for Serendipity
 
-technology did not function properly. Because the pulses were too long,
+- 3. Someone leverages the serendipitous opportunity.
 
-they inﬂicted a lot of damage to eye tissues.
+Shortly after examining Du, Kurtz met with Mourou. He joined his team
 
-Juhasz immediately saw the potential of femtosecond lasers. As he
+and started to work on potential applications of femtosecond lasers in
 
-recalls: “Ron (Kurtz) gave a talk about his ﬁndings with femtosecond
+ophthalmology. One year later, Kurtz and Du presented their ﬁndings
 
-laser pulses … showing that everything that was the problem
+at an academic conference. Tibor Juhasz was one of the attendants. At
 
-with picoseconds can be overcome using femtoseconds.” After the
-
-conference, Mourou asked Juhasz to join his team. He also convinced
-
-the University of Michigan, the NIH, and the NSF to provide additional
-
-funding. Together with Kurtz, Juhasz founded the company that
-
-launched the ﬁrst femtosecond laser for ophthalmology in 2001.
-
-Juhasz recalls the early days of the startup: “People in the industry were
-
-initially very skeptical that the concept would work.” But his persistence
-
-paid oﬀ. In 2007, the business was sold to a medical optics company
-
-for more than $ 800 million. Today, it belongs to Johnson & Johnson
-
-Vision. And the story didn’t end there. After working on corrective
-
-eye surgery, Kurtz and Juhasz developed a femtosecond laser-based
-
-procedure for cataract surgery. More recently, Juhasz has created a new
-
-startup that uses the same technology to treat glaucoma.
+the time, he was consulting for a company that was exploring the use

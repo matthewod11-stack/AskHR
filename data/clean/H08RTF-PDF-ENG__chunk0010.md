@@ -1,9 +1,13 @@
-# Change Systems, Not Individuals
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6ff3e79c073c46fd21abfdc8d315276e8755295
+title: H08RTF-PDF-ENG
+---
+# the past year.
 
-Companies are making larger investments in employee wellness
+It’s time for leaders to recommit to supporting their employees’ mental
 
-programs than ever; however, data suggests those programs aren’t
+health—and their own. HBR’s archive has plenty of strategies for how to
 
-actually resulting in better well-being outcomes for employees.
-
-According to a trio of authors drawing on a wide body of workplace
+do it right.

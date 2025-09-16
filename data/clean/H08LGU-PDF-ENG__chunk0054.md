@@ -1,17 +1,13 @@
-# leaders possess.
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebae44bbaae1117224cd336d5c9b21b2f35edd8d
+title: H08LGU-PDF-ENG
+---
+## hiring, promotion, and feedback more fair, demographic change will
 
-. . .
+be a lagging indicator of progress. In the meantime, today’s leaders
 
-Whether leaders and practitioners choose to adopt the FAIR acronym or
+have actionable goals to strive toward if they want to become more
 
-not, many of the DEI leaders I spoke to discussed the urgent need for
-
-status-quo DEI work to evolve.
-
-“’DEI’ was great, it had a run. We have to get really good with the
-
-fact that things evolve,” urged Amber Cabral, founder of leadership
-
-development ﬁrm Cabral Co. “So let’s not be so committed to a group
-
-of words and yet be so divorced from how they actually show up in
+representative of those they serve, regardless of the identities these

@@ -1,17 +1,15 @@
-# Develop a Positive Counter Narrative
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1eb507ffe693657a3730bd34318fe7ccf28fbbdc
+title: H08OJX-PDF-ENG
+---
+## about hypothetical scenarios and potential political repercussions of
 
-The only productive way to counter corporate gaslighting is to create
+addressing the behavior and how to do so.
 
-a positive narrative based on concrete facts and ﬁgures that can be
+- Seek positive narratives and endorsements: Ask allies to highlight
 
-leveraged in all levels of the organization—above and below, as well
+your positive narrative and secure smaller, easily publicized
 
-as with peers. This means learning to preemptively script a fact-based
-
-diplomatic deﬂection when faced with a negative narrative.
-
-One CTO from a global S&P 500 technology company, who was battling
-
-the narrative that they couldn’t handle the C-suite pressure, used a
-
-ﬁve-step process for diplomatic deﬂection, which involved shifting the
+endorsements within the corporation to build a positive reputation.

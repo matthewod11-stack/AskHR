@@ -1,9 +1,27 @@
-# Individual Versus Group Incentives
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9fb89a168d8188d912b21e42198dbd0c29df2e8e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Security
 
-Incentives can be given for either individual performance or group performance.
+Recognition Rather than providing financial incentives, many organizations reward employee behavior through recognition programs. For example:
 
-Individual Incentive Plans Individual incentive plans are designed to make high levels of individual performance financially worthwhile and the research is clear monetary incen- tives increase performance over the use of a guaranteed hourly salary (Bucklin & Dickinson, ). Individual incentives help reduce such group problems as social loafing, which is discussed in Chapter . There are three main problems associated with individual incentive plans. The first is the difficulty in measur- ing individual performance. Not only are objective measures difficult to find but supervisors are reluctant to evaluate employees, especially when the outcome will determine the amount of money an employee will receive (Schuster & Zingheim, ).
+7
 
-The second problem is that individual incentive plans can foster competition among employees. Though competition is not always bad, it is seldom consis- tent with the recent trend toward a team approach to work. When done right, however, team environments and individual incentive programs can coexist and result in high levels of employee performance (Steers & Porter, ). The third problem is that for an incentive plan to effectively motivate employees, it is essen- tial that employees understand the incentive system. Surprisingly, only % of employees report that they understand how their pay is determined (Grensing- Pophal, ).
+7
 
-The two most common individual incentive plans are pay for performance
+7
+
+7
+
+7
+
+United Airlines holds a special ceremony each year in which employees are given service emblems for each year of service. Supermarket chain Dierbergs in St. Louis has initiated a program called Extra Step, which recognizes employees who meet customers’ needs. Over a five-year period, the Extra Step program resulted in a decline in turnover from % to %. Most universities award faculty members the titles of associate professor and professor to recognize years of service as well as quality of performance. Restaurants such as Outback Steak House and Chi-Chi’s Mexican Restaurant give employees of the month a personal parking space. Lee Memorial Hospital in Cape Coral, Florida, gave employees a customized keychain that said: “Valued employee since . . .” with the year they were hired printed at the end (Leonard, ).
+
+In some organizations, recognition awards are given by peers. For example, employees at the Angus Barn Restaurant in Raleigh, North Carolina, choose peers to receive the “People’s Choice” award; employees at Meridian Travel in Cleveland vote for the employee of the month; and employees at the federal Office of Person- nel Management select peers to receive the “Wingspread Award” (Nelson, ).
+
+Informal recognition programs, called social recognition, can prove to be tremendous sources of employee motivation. Social recognition consists of per- sonal attention, signs of approval (e.g., smiles, head nods), and expressions of appreciation (Stajkovic & Luthans, )
+
+Travel Many organizations are offering travel awards rather than financial rewards. For example, every executive at McDonald’s is allowed to nominate high-performing employees for a chance to spend a week in one of the company’s condos in Hawaii, Florida, or Lake Tahoe, Nevada. At Chick-fil-A, sales teams compete for a vacation in Hawaii. At Motorola, managers can nominate employees for travel awards.

@@ -1,11 +1,13 @@
-## remains intact. In contrast, a moment of dismissal or humiliation
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 964774e1b2d09b40ede05b27d7a1784da4d0a1e9
+title: H08ADN-PDF-ENG
+---
+# Good-bad asymmetry
 
-for having raised it at all dramatically inhibits your willingness to
+Consider the diﬀerence between a positive and negative experience
 
-try again. The belief that it’s safe to speak up is easily negated,
+following an interpersonal risk. Imagine your manager responds
 
-automatically reducing the opportunities to reverse it in the future.
-
-Even a single negative experience can harm psychological safety —
-
-whereas rebuilding it takes deliberate management eﬀort over time.
+thoughtfully when you report a problem; your psychological safety

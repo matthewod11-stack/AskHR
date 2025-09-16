@@ -1,17 +1,25 @@
-# Scaling Impact, Rather than a Company
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7c55d1290396bdb935e8655d732220e3f8a0d21b
+title: H08HGJ-PDF-ENG
+---
+# grains like buckwheat.
 
-Likewise, we visited the factory of Huit Denim revitalized by
+As they do so, they are not only scaling a model by sharing and
 
-entrepreneur David Hieatt. After a successful career in advertising
+dispersing their knowledge — they are laying the foundations of
 
-and creating clothing brands, Hieatt moved to the west coast of
+communities that work. Small farms are not only ecologically sound,
 
-Wales, which he discovered had once been the jeans manufacturing
+they also create stronger communities and greater well-being. To date,
 
-headquarters of the UK. However, the industry had collapsed as work
+Blue Hill is ﬁnding increasing success — for example, with the spread
 
-ﬂed overseas to low-cost locations. Hieatt launched the Do Lectures,
+of a new generation of vegetables bred for ﬂavor that support small
 
-an inspirational conference for entrepreneurs, and then Huit Denim,
+farms, encourage crop rotation, and incentivize healthier eating, now
 
-producing high-quality “jeans for life” in a bid to bring employment
+being sold at Whole Foods. In this sense, Blue Hill thinks about an idea
+
+spreading, rather than scaling in the traditional sense.

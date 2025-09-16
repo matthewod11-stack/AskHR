@@ -1,3 +1,11 @@
-# 4 Very Good
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 96ca783372b183070de13fd9f054fe11e3ee8607
+title: document_resume
+---
+## A. Instructional Planning and Preparation
 
-Takes an active role in divisional planning meetings regarding curriculum or course development. Researches current literature. Shares information with colleagues. Updates course outlines and suggests ways to optimize format of course outlines.
+- 1. Course Development Researches literature in subject area, develops and main- tains course outlines, selects textbooks and other teaching aids.
+
+5 Exceptional Assumes a leadership role in divisional planning meetings and other aspects of curriculum development, suggesting additional course offerings and/or modifications in current offerings. Care- fully researches literature and attends workshops focusing on curriculum/course development, learning resources, and subject area matters. Serves as a resource person in subject area and offers suggestions to colleagues regarding textbooks and other learning resources.

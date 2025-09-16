@@ -1,11 +1,13 @@
-# previous stressful situations.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 20e81ac8d72eb4b0e9a91083a39c08e45bac8144
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Reliability The extent to which a score from a test or
 
-Respond by calling ads Recruitment ads in which
+from an evaluation is consistent and free from error.
 
-applicants are instructed to call rather than to apply in person or send résumés.
+Reluctant changer A person who will initially resist change but will eventually go along with it.
 
-Restricted range A narrow range of performance
-
-scores that makes it difficult to obtain a significant validity coefficient.
-
-Résumé A formal summary of an applicant’s professional and educational background.
+Residual stress Stress that is carried over from

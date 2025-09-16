@@ -1,13 +1,25 @@
-# The Tricky Topic of Diversity of Thought
+---
+source_path: H078WK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4597720085c57d987d5281c5dd721b09b4e0079
+title: H078WK-PDF-ENG
+---
+# World.”
 
-As a researcher and consultant, I’m wary of the term “diversity of
+In the $70 billion wine and spirits industry, where less than 1% of
 
-thought.” In principle, it’s good. Having many ideas from many people
+wineries and distilleries are Black-owned, and there is a lack of BIPOC
 
-who think in many ways will improve performance.
+leadership, Weaver knew that as a Black woman she would be ﬁghting
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+an uphill battle from the start. But Weaver was undaunted. She sought
 
-2
+not only to make history as an inclusive brand breaking barriers as
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the ﬁrst spirit to commemorate an African American and the ﬁrst to
+
+have a Black master distiller on record, but she also to create a top-
+
+performing organization. Her strategy for making it happen was to
+
+embrace diversity in all forms, including diversity of thought.

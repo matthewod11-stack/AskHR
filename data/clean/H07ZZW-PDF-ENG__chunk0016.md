@@ -1,11 +1,19 @@
-## rights violations, or just bad customer service.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 461f29ff40334475b0b57e684afe30ca9409524e
+title: H07ZZW-PDF-ENG
+---
+# How Did We Get Here?
 
-In the 20th century, public relations was about eﬀective
+Before discussing what corporations should do, it’s worth examining
 
-communication. Mainstream media were concentrated — and reluctant
+how we got here.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Transparency has become a weapon. For businesses, one of the most
 
-3
+profound consequences of mass internet access is that they can no
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+longer control their narrative. Anyone with a smartphone can instantly
+
+give detailed glimpses into a company’s environmental disasters, labor

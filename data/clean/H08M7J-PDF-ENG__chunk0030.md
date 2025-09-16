@@ -1,15 +1,31 @@
-## turn this moment of uncertainty into one of growth and resilience. The
+---
+source_path: H08M7J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e756d81b427d01e02cd66fd9a371eb852c49ff07
+title: H08M7J-PDF-ENG
+---
+# during times of uncertainty.
 
-road ahead may be uncertain, but with the right tools and mindset, you
+Despite the immediate pressures of the new situation, “surviving” this
 
-can emerge stronger on the other side.
+process is a marathon, not a sprint. Establish boundaries to ensure
 
-This article was originally published online on February 7, 2025.
+you can sustain your productivity without sacriﬁcing your well-being.
 
-Alyson Meister is a professor of leadership at IMD where she directs the Future Leaders, Change Management, and Resilience programs. Her research focuses on high-performance leadership, team dynamics, and change, and she has worked with thousands of executives, teams, and organizations from professional services to industrial goods and technology. In 2021 she was recognized as a Thinkers50 Radar thought leader.
+Communicate openly with your team about workload and expectations,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+and give yourself permission to rest and recharge. Remember, resilience
 
-7
+requires pacing, not overextension.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+. . .
+
+Layoﬀ survivors are more than just employees left behind — they’re the
+
+foundation of an organization’s future. Yet the emotional, social, and
+
+professional challenges they face are profound and often overlooked. By
+
+acknowledging the impact of these changes, assessing the new reality,
+
+identifying opportunities, and taking deliberate action, survivors can

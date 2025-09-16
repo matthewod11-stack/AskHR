@@ -1,9 +1,13 @@
-# DOL investigation or audit.
+---
+source_path: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas).md
+pages: n/a-n/a
+chunk_id: 24592bdb0cb8c2a193e7b56ff101c4b2273ba1b0
+title: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas)
+---
+## with an employer's contractual obligations to employees.
 
-Both WHD and ETA may debar an employer or any successor in interest to that employer from receiving future labor certiﬁcations for up to three years if the employer substantially violated a material term or condition of its temporary labor certiﬁcation.
+ETA has the authority to audit applications for which certiﬁcations have been granted and may refer its audit ﬁndings to DHS or another
 
-Foreign workers employed under the H-2A program are not covered under the Migrant and Seasonal Agricultural Worker Protection Act
+appropriate enforcement agency. ETA may revoke a temporary agricultural labor certiﬁcation if the employer substantially violated a material
 
-(MSPA); however, various other laws, such as workers' compensation, tax (unemployment insurance, local, state, and Federal), the Fair Labor Standards Act, and the Family and Medical Leave Act may apply to the employment of these workers.
-
-Copies of the application forms, regulations, and relevant directives may be obtained from the Employment and Training Administration's national oﬃce. Copies of Wage and Hour Division publications may be obtained from the Wage and Hour Division Web site or by contacting
+term or condition of the certiﬁcation, if fraud or misrepresentation was found in the application, or if the employer failed to cooperate with a

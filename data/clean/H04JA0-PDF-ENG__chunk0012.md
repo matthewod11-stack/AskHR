@@ -1,29 +1,43 @@
-# The Political Double Bind
+---
+source_path: H04JA0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 961af9a68d6666ded53b23b30b8e284650cb236d
+title: H04JA0-PDF-ENG
+---
+## HBR / Digital Article / Is Office Politics a White Man’s Game?
 
-A key reason for this is that for women and minorities, engaging in
+for political behavior at work. In one study, the researchers go as far as
 
-political behaviors means engaging in behaviors that are not their
+describing oﬃce politics as a “white man’s game.” Based on a review of
 
-own. Davey’s research, for example, found that women associate
+the existing literature, this study ﬁnds that mentoring and networking
 
-political behaviors with traditionally masculine attributes — like being
+are indeed critical to developing political understanding. Women and racial minorities did not diﬀer from white men on their self-reported
 
-aggressive and competitive. Engaging in this behavior is like walking
+levels of networking and mentoring; however, only white men beneﬁted
 
-a tightrope for women or racial minorities. On the one hand, they
+from these activities. It seems even if women and racial minorities
 
-need to engage in traditionally white male political behaviors to
+engage in political behaviors, they may not beneﬁt from them in the
 
-advance their careers, but on the other, engaging in these behaviors
+same way that white men do.
 
-challenges ingrained gender and racial stereotypes. As a result, the
+The reason for this is that political behaviors are considered a more
 
-person engaging in the behavior experiences backlash. Supporting
+stereotypical image for white men, and therefore the beneﬁts will be
 
-this argument is Perrewé and Nelson’s research, which suggests that
+selectively applied to white men who choose to engage in them. In
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+the research undertaken by Kate Davey in 2008, women described
 
-3
+oﬃce politics as an informal system that keeps power with those
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+who have it, while excluding those who don’t. In this study, women’s
+
+descriptions of career barriers were in fact descriptions of political
+
+barriers. Subsequent research has borne this out: Even though women
+
+and racial minorities understand the political environment, they may
+
+not gain the advantages white men do by engaging in it.

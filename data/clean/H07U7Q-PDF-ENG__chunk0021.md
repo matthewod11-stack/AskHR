@@ -1,21 +1,37 @@
-# Amazon.com?
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a58509ac7e46e133dfe9d534411327c3376e1b00
+title: H07U7Q-PDF-ENG
+---
+# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
+
+operating oﬃcer role in January of 2019. And going through that role
+
+really helped prepare me in taking the next step up to the CEO position.
+
+ADI IGNATIUS:
+
+I was thinking about your past even before that. When I ﬁrst got in
+
+contact with your staﬀ, they said “He’s a cheese guy. You have to
+
+understand that.”
 
 JASON BUECHEL:
 
-We are very privileged in a number of ways. First and foremost, one of
+Absolutely. I’ve had a long connection to food, been gardening since
 
-the things we’ve been really excited about over the last six years is we’re
+I was seven. My dad actually was a cheese maker. Both of my parents
 
-really focused on the long-term of Whole Foods Market and being able
+grew up on dairy farms. I was in rural Wisconsin and just have an
 
-to have the support of Amazon providing us with capabilities that allow
+interesting connection to our food systems and couldn’t be happier to
 
-us to serve our customer in the most amazing ways possible. Whether
+have the opportunity today to be in a role where I can help inﬂuence
 
-it’s through technology or other services, being able to help create great
+and support our food systems for future generations.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+ADI IGNATIUS:
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+What does it mean for Whole Foods to report up to a giant,

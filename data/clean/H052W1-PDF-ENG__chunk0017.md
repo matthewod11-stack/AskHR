@@ -1,19 +1,19 @@
-# through the process.
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de089a7b97dc7d30820f3509a9777e31aef9352b
+title: H052W1-PDF-ENG
+---
+# Seek support
 
-Be deliberate about your time with your child
+Resuming your professional life is a process — don’t go it alone.
 
-As you’re getting back into the swing of work, think about “how you will
+As you make the transition, Dowling advises, seek out support and
 
-spend time with your kids,” Dowling says. Will it be in the morning? In
+encouragement. “Join a mom and dad network,” she says. Look for
 
-the evenings? Mostly on weekends? Especially “if you work long hours
+an online support community. “Build connections with people in your
 
-or travel,” you need to have a plan for when you’ll have “rewarding time
+neighborhood who also have young children.” Find out if your employer
 
-with your child.” Let your child’s caregiver in on your thinking. Whether
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+has resources for new parents. Seek advice from colleagues who’ve been

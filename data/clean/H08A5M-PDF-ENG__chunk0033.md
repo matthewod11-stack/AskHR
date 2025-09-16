@@ -1,17 +1,11 @@
-## project teams more accurately assess the priority level of asks, scope
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80170521b233e0a8dd0bb37347ffabe5a7be39f3
+title: H08A5M-PDF-ENG
+---
+## marketing projects. With this information in hand, the function could
 
-their timelines, and understand how marketing adds value.
+show business partners that a single line item on their project plan often
 
-At the same time, the leader coached her team to recognize their
-
-own people-pleaser tendencies and set appropriate boundaries. She
-
-held workshops that focused on how to communicate with diﬀerent
-
-stakeholders to push back in a way that was still respectful and
-
-appropriate to the relationship. Marketers also learned to present
-
-realistic alternatives or facilitate self-service solutions, such as working
-
-directly with an agency or vendor, instead of doing everything
+meant more than 40 distinct marketing tasks. This transparency helped

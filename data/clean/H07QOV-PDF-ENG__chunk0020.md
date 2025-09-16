@@ -1,35 +1,13 @@
-## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1a3d6b60ef4840bd429a1556d4acc351938f717
+title: H07QOV-PDF-ENG
+---
+# the experiment.
 
-ADI IGNATIUS:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Would you recommend that there be an elaborate postmortem? I think
+6
 
-the military is very focused on doing detailed postmortems: what
-
-happened, what went wrong, why? Presumably to learn from that and
-
-not have it happen again.
-
-AMY EDMONDSON:
-
-It is not the case that a postmortem has to take inordinate amounts
-
-of time, but it should be thorough. It should be analytical, and look
-
-carefully at the diﬀerent facets of the failure, to understand accurately
-
-what happened and why, for the express purpose of preventing that
-
-exact failure from happening ever again. So a failure, even an intelligent
-
-failure, in new territory, new discovery, is no longer intelligent the
-
-second time it happens.
-
-ADI IGNATIUS:
-
-I want to shift gears a little bit to talk more generally about the
-
-workplace. The question really is: Are we OK? You wrote a recent piece
-
-in Harvard Business Review that suggested maybe things are not so
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

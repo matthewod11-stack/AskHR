@@ -1,17 +1,25 @@
-# C
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 5b8873506b573576bea622a3b1acb324df09b4b4
+title: barrickryan_eds_personality_and_work
+---
+# 346 NAME INDEX
 
-Cabanach, R. G., 252 Cable, D. M., 263, 264, 265, 266,
+Bauer, T. N., 234 Baughman, W. A., 96 Baumeister, R. F., 158 Beaty, J. C., 111 Beck, L., 160 Bedeian, A. G., 267 Beehr, T. A., 263 Begg, A. E., 140 Ben-Shakhar, G., 232 Benet, M., 46 Bennett, R. J., 152 Bennett, W., 99 Berger, J., 196 Berscheid, E., 206, 224 Bettenhausen, K. L., 190 Biek, B., 279 Black, S. A., 44 Blake, R., 330 Blau, P. M., 207 Bleier, A., 92 Bless, H., 46, 47 Bliese, P. D., 127 Block, J., 14, 86, 131 Bluen, S. D., 127 Bodenhausen, G. V., 47 Bohle, P., 128, 129 Bohner, G., 46 Boies, K., 7, 8, 10 Boko, P., 73 Boles, T. L., 303 Bolger, N., 173 Bolino, M. C., 219 Bono, J. E., 30, 33, 103, 298, 303,
 
-269, 277, 279, 281
+309
 
-Cacha, F. B., 45 Caldwell, D. F., 39, 218, 264 Callinan, M., 294 Campbell, D. T., 264 Campbell, J. P., 61, 88, 91, 92, 93, 97, 99, 101, 102, 106, 113, 235, 236, 247, 290
+Borgen, F. H., 301 Borkenau, P., 279 Borman, W. C., 89, 90, 92, 93, 96, 98,
 
-Campion, M. A., 234 Cantor, N., 299 Caplan, R. D., 281 Caprara, G. V., 8 Carley, K. M., 217 Carlson, M., 37 Carnevale, P.J.D., 37 Carretta, T. R., 232 Carsrud, A. L., 111 Carsten, J. M., 167 Carter, S. M., 253
+103, 290, 292, 293, 294
 
-Caruso, D., 299 Carver, C. S., 41, 44, 138, 173 Caspi, A., 158 Cattell, R. B., 5 Caviezel, C., 174 Cellar, D. F., 311 Cermák, I., 8 Chaiken, S., 160 Chan, D., 170, 193, 195 Chan, K., 104, 297 Charlin, V., 37 Chatman, J. A., 264, 267, 273, 276 Chen, G., 245 Chen, P. Y., 127 Chow, I.H.S., 269 Church, A. T., 7, 10, 11, 312 Church, M. A., 250 Cialdini, R. B., 209 Citera, M., 65 Clark, L. A., 14, 31, 32, 36, 40, 130,
+Borman, W. E., 153 Bott, E., 206, 211 Boudreau, L. A., 71 Brass, D. J., 211, 214, 215, 216, 217,
 
-158, 165, 170 Clayton, L. D., 183 Cleveland, J. N., 111 Cloninger, C. R., 3, 17, 158 Clore, G. L., 141 Cohen, S. G., 190, 296, 305 Colbert, A. E., 270 Coleman, J. S., 205, 211, 217 Coleman V. I., 90 Collins, J. M., 154 Collins, P. F., 41, 158 Collins, W. A., 206 Colquitt, J. A., 97, 172, 233, 234,
+218, 219, 220 Brayﬁeld, A. H., 30 Bretz, R. D., 263, 264, 269
 
-245, 280
+Bridges, M. W., 44 Brief, A. P., 31, 33, 38, 42, 89, 127,
 
-Colvin, C. R., 279 Comrey, A. L., 4 Conley, J. J., 265, 272 Conlon, D. E., 172 Conn, S. R., 13 Connolly, J. J., 167 Conway, J. M., 90, 96 Cooney, J. B., 236 Cooper, H., 337 Copeland, J., 207 Costa, P. T., 31, 136, 265, 291
+128, 166, 167, 170
+
+Briggs, S., 14, 310 Brockner, J., 139 Bromet, E. J., 169 Brophy, J., 245 Brotheridge, C. M., 77, 302 Brown, K. G., 230, 251 Brush, D. H., 92, 93 Bryant, F. B., 137 Brymer, R. A., 265 Buck, D. E., 90, 93 Bunce, D., 230 Burger, J. M., 39 Burke, L. A., 111 Burke, M. J., 128 Burns, W., 127 Burt, R. S., 212, 213, 216 Buss, D. M., 34 Butcher, A. H., 127, 167 Button, S. B., 246

@@ -1,19 +1,9 @@
-# resources.
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af82af4304974d758c3b2f6e5a7aa2c26082f3e0
+title: H08PEA-PDF-ENG
+---
+## HBR / Digital Article / Research: When Extra Effort Makes You Worse at Your Job
 
-- 2. Be ﬂexible and offer ﬂexibility in scheduling and task prioritizing
-
-If possible, try to make your schedule ﬂexible to accommodate the
-
-mental fatigue of improving your tasks. Consider prioritizing tasks of
-
-greater importance earlier in the day or moving some of your traditional
-
-tasks to diﬀerent days so you can concentrate on improving processes.
-
-Additionally, to help your team be the most successful while experimenting with new eﬃciencies, consider restructuring their
-
-deadlines or reordering when they do certain tasks. For example,
-
-an employee who spends the morning brainstorming process
-
-improvements shouldn’t be expected to handle a high-stakes contract
+by scrolling on your phone—may help you recover some mental

@@ -1,19 +1,29 @@
-## recruit only a small number of employees with disabilities for PR
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36ed062df4569f5d52a73f12e671b2555057d9a7
+title: R2304H-PDF-ENG
+---
+## HBR / Magazine Article / Disability as a Source of Competitive Advantage
 
-purposes. If customers sense that the practice is not genuine and not
+Seeing coworkers with disabilities succeed can inspire other employees to realize that they, too, can elevate their performance.
 
-really spread throughout the ﬁrm, it may not only be ineﬀective but
+Similarly, La Trappe, which is located on the grounds of a Trappist
 
-even backﬁre: It could make them feel angry and manipulated and
+monastery, opened a tasting room on its premises that attracts more
 
-perceive the company as being exploitative rather than benevolent.
+than 125,000 visitors a year. When they tour the brewery and taste its
 
-When hiring people with disabilities is implemented sincerely, however,
+beer, they see the employees with disabilities at work. As La Trappe’s
 
-it can generate another positive knock-on eﬀect: attracting customers
+marketing director explained to us, “They become real fans and tell all
 
-with disabilities and their family members, who form a considerable
+their friends and family about it.”
 
-economic segment themselves. The managers of Gran Estación noticed
+Employing people with disabilities isn’t a substitute for good products
 
-that once they started hiring more people with disabilities, particularly
+or ﬁne customer service, but it adds another dimension to a company’s
+
+value proposition, which can help diﬀerentiate it in a crowded market.
+
+It’s important, though, to be genuine about it rather than, for instance,

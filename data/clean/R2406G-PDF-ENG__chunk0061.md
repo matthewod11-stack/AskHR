@@ -1,19 +1,23 @@
-## HBR / Magazine Article / Personalization Done Right
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 569a5922bca0b3d211a56064d050b3496e7698a0
+title: R2406G-PDF-ENG
+---
+# Calculating Your Index Score
 
-of personalization, empower me, is the most important, this score makes
+Now that we’ve proved the power of personalization, we’ll help you
 
-up half the Personalization Index score. To determine your score,
+determine your company’s index score.
 
-identify the steps of your customer’s journey and the channels where
+Empower me (50 points). Begin by assessing the actual level of
 
-personalization truly matters and can make the experience better,
+personalization you deliver to your customers in each step of their
 
-faster, or more convenient. (That will depend on the categories you play
+journey across all your channels. Because delivering on the ﬁrst promise
 
-in, your customers’ expectations, and how well your competitors are
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-personalizing.) Then look at what real customers recently experienced
+15
 
-and evaluate whether you are personalizing “fully 1:1,” “extensively,”
-
-“moderately,” or “not at all,” and assign yourself points accordingly.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

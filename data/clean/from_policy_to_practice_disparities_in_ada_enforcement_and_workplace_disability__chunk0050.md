@@ -1,3 +1,9 @@
-## ISSN: 0976-7797 Impact Factor: 5.183 Index Copernicus Value (ICV) = 77.57
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: 13e40ccb9de86dcc5aec0f9481a10457eb88f032
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+# cognizancejournal.com
 
-complaints are reported because of improved internal resolutions, the progressive responsiveness of employers; in some states, such as Mississippi and Alabama, the number of formal complaints is high, which would indicate the presence of systemic obstacles.
+Olukunle Ogundimu, Cognizance Journal of Multidisciplinary Studies, Vol.5, Issue.8, August 2025, pg. 205-229 (An Open Accessible, Multidisciplinary, Fully Refereed and Peer Reviewed Journal)

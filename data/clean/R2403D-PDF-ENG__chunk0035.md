@@ -1,27 +1,41 @@
-## their professional development, everybody wins.”
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21bde8aaa130e049020198523c5ac791646c44a1
+title: R2403D-PDF-ENG
+---
+# business demands
 
-They leverage digital workﬂows and build trust to manage changes
+- Professional relationships
 
-in project needs. One dilemma with bringing in freelancers is that
+- Availability in times of crisis
 
-although their work is determined by a ﬁxed contract, a company’s
+- Benefits
 
-project needs will inevitably change. Saatchi resolves this issue with
+- Dedication to sustaining company culture
 
-digital workﬂows. Dickinson-Keen describes it this way: “First, we
+- Upward mobility
 
-redesigned the operational processes of how work gets done; then
+- Commitment to continuous upskilling
 
-we rebuilt the workﬂow system to have more of a real-time pulse on
+At J&J, the role of “sponsor” is formally deﬁned, with a speciﬁc
 
-what everyone’s doing. It sounds controlling, but it’s smart workﬂow
+job description and a training program. The role diﬀers from the
 
-management.” This enables Saatchi to have more visibility into how
+supervisory relationship that a manager has with in-house employees: It
 
-the workload and hours are distributed. “To digitize workﬂow, we have
+is designed to forge a bond between the freelancer and the company
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+and is aligned with the local legal and regulatory frameworks for
 
-9
+independent work. Sponsors acknowledge freelancers’ desire to work
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+autonomously and to gain a range of experiences. “Sponsors ensure
+
+that the freelancers are not only executing their tasks,” Fasolo told us,
+
+“but are also advancing their broader professional development. We ask
+
+our freelancers to share their aspirations, and we support them in their
+
+journey. We believe that if we are their partner in the advancement of

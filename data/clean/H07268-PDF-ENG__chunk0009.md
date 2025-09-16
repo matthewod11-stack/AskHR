@@ -1,15 +1,9 @@
-## inclusive cultures on an organizational level.
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c84f8ab5764a94d1c07cdb45ddb26f38f467301f
+title: H07268-PDF-ENG
+---
+## certainly a place for this well-intentioned advice for individuals — but
 
-To explore what organizations can do to promote healthy oﬃce politics,
-
-we conducted in-depth interviews with 40 mid-career ethnic minority
-
-employees working in a wide range of industries across the UK. We
-
-asked them to describe their experiences of politics at work, and
-
-how their workplace environments inﬂuenced their own willingness to
-
-engage in politics. We then used a statistical model to analyze their
-
-responses and identify common proﬁles of more- and less-inclusive
+to make meaningful change, leaders must take action to foster more-

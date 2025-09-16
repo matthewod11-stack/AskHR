@@ -1,9 +1,27 @@
-## applies to employers in the private sector.
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Covered Veterans.md
+pages: n/a-n/a
+chunk_id: 62f9a0e47e0b8b2404dc6c2b7a8098e1a331a8c0
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Covered Veterans
+---
+# by the contractor; and
 
-"Disabled veteran" means a veteran who served on active duty in the U.S. military ground, naval, or air service
+Contracts and subcontracts involving national security, if the head of the contracting agency determines
 
-and is entitled to disability compensation (or who but for the receipt of military retired pay would be entitled to
+both that the contract is essential to national security, and noncompliance with a particular requirement of
 
-disability compensation) under laws administered by the Secretary of Veterans Aﬀairs, or was discharged or
+VEVRAA or the regulations with respect to the process of awarding the contract is essential to national security.
 
-released from active duty because of a service-connected disability.
+The categories of veterans covered under VEVRAA are disabled veterans, recently separated veterans (within
+
+three years of discharge or release from active duty), active duty wartime or campaign badge veteran, and
+
+veterans who, while serving on active duty in the Armed Forces, participated in a U.S. military operation for
+
+which an Armed Forces Service Medal was awarded pursuant to Executive Order 12985 (61 FR 1209).
+
+VEVRAA and its implementing regulations apply only to the speciﬁc state or local government entities that
+
+participate in work on or under a Federal contract or subcontract. The coverage is narrower than that which

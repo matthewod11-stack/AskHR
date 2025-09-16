@@ -1,9 +1,11 @@
-# Flexible Work Hours
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0a6e47d673f32aeefcfb28966d95d14fd011f5f3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# 12-Hour Bandwidth
 
-To accommodate the family lives and personal preferences of employees, % of U.S. organizations provide flextime, a work schedule in which employees have some flexibility in the hours they work (SHRM, a). In the United Kingdom, employees with children under six or a disabled child under the age of  have the legal right to request flexible work hours and the organization must seriously consider the request. In , % of UK employees requested flexible hours and % of these requests were granted (Holt & Grainger, ). Though fam- ily issues typically drive the use of flextime today, flextime actually originated in West Germany as a way to alleviate traffic problems by staggering the hours people worked. The plan then spread to North America, where it was used first in Canada and then in the United States in the mid-s.
+544
 
-With flextime, employees are given greater control over the hours they work. It is believed that this increase in control and flexibility has many advantages for employees. First, an employee can take care of personal tasks such as going to the doctor, picking up children from school, and even sleeping in after a rough night. Furthermore, this increased control should enrich the employee’s job, thus theo- retically resulting in increased job satisfaction (see Chapter ).
-
-Flextime can be arranged in many ways, but all share the same three basic components: bandwidth, core hours, and flexible hours. As shown in Table ., the bandwidth is the total number of potential hours available for work each day. For example, employees can work their eight hours anytime in the -hour band- width between  a.m. and  p.m. PRO Group, a marketing company in Denver, has a ten-hour bandwidth, in which employees can choose to start the day at either : a.m. or : a.m. and finish at : p.m. or : p.m. These ten-hour bands are the most common (used by % of organizations), followed by -hour bands (Clark, ).
-
-Core hours are those that everyone must work and typically consist of the hours during which an organization is busiest with its outside contacts. For example, a restaurant might have core hours between  a.m. and  p.m. to cover its lunchtime business, whereas a bank might have core hours from  noon to  p.m. and from  p.m. to  p.m. to cover the periods of highest customer volume. In the example from PRO Group given above, the core hours would be between : a.m. and : p.m.
+counterparts. Because there seem to be few negative effects to moonlighting, few organizations prohibit it. In fact, in most states it may be illegal to do so. Instead, most organizations have policies that prohibit moonlighting that might be a con- flict of interest (e.g., working for a competitor), that uses company equipment in the outside job, or that requires performing outside jobs during company time.

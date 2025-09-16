@@ -1,17 +1,15 @@
-# Cultural Learning
+---
+source_path: H07IJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 409071cde31ebbcb0a3f027367ff7c42af129964
+title: H07IJK-PDF-ENG
+---
+## HBR / Digital Article / How to Onboard Your New Boss
 
-Questions to ask yourself:
+identiﬁed the most important historical information and shared our key
 
-- What are the unwritten rules that would be helpful for someone
+success metrics. We also had talent, culture, and leadership data that
 
-coming in new to our company?
+helped our new leader better understand her team. She was grateful for
 
-- What insights into decision-making, collaboration, and working
-
-together would help someone integrate faster?
-
-- What are the culture-speciﬁc expectations or landmines that an
-
-incoming leader needs to know?
-
-- What acronyms are common in our company?
+the information and found that it speeded up her acclimation.”

@@ -1,9 +1,9 @@
-## Then, in 2012, Alex Krizhevsky, Ilya Sutskever, and Geoﬀrey Hinton
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a7dca9fc225c06058b78e6301b4a6326f47914d6
+title: H08SHM-PDF-ENG
+---
+## recognition into a gladiatorial contest for researchers.
 
-blew the competition away. Using two oﬀ-the-shelf NVIDIA GTX 580
-
-graphics cards, the trio from Toronto was able to train a breakthrough
-
-convolutional neural network in just a few days—a groundbreaking
-
-approach that proved you could bend computer-vision history on a grad
+For two years, the annual leaderboard inched forward.

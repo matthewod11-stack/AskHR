@@ -1,35 +1,23 @@
-## HBR / Spotlight Article / Power, Influence, and CEO Succession
+---
+source_path: S24041-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: d8b19f363a153b775f059b32a8d84310498b5930
+title: S24041-PDF-ENG (1)
+---
+## candidate, primarily because of his deep operating experience. The
 
-independent directors. He struggled to understand the board’s points of
+incumbent CEO and the board chair convinced the other directors that
 
-view and overestimated his power and room to maneuver.
+the existing growth strategy was sound and that the next CEO need only
 
-Stylistically, Jeﬀ was a sharp contrast to the incumbent CEO, who
+focus on execution. But as Jeﬀ was taking over, warning signs appeared
 
-was charismatic, eﬀective with investors, and a powerful spokesman
+that revenue and proﬁts would soon decline. He had never been a CEO
 
-for the company. Jeﬀ had a reserved style and tended to emphasize
+before, and in his previous jobs he’d had little interaction with the ﬁrm’s
 
-the practical rather than the possible. He also made mistakes that
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-hurt his eﬀorts to win the board’s conﬁdence, including criticizing
+12
 
-aspects of the outgoing CEO’s tenure and keeping on an inﬂuential
-
-but controversial direct report the directors believed he should replace.
-
-Most important, he did not invest enough time in understanding the
-
-board’s expectations and concerns.
-
-Compounding this situation, the independent directors played a passive
-
-role in the succession process. They went along with the CEO’s choice
-
-rather than critiquing his process or creating their own. Most of the
-
-directors had never gone through a CEO succession before, and their
-
-inexperience showed. They were faced with limited options because the
-
-CEO had decided against an external search, worrying that it would be a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

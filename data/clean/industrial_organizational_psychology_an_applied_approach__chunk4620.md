@@ -1,9 +1,7 @@
-## Conﬂ ict styles, 502–506 Conﬂ ict, 497–509
-
-causes of, 499–502 conflict styles, 502–507 difficult people, 501–502 resolving conflict,
-
-507–509 types, 499–500 definitions, 497–498
-
-Conjunctive tasks, 482 Connelly v. Newman, 106 Consent decree, 101 Consideration-centered leaders, 443 Consistency theory, 328 Consolidated Freightways, 95 Construct validity,
-
-212–213
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0692d8299b75a75e9440aa676377fe74ef991b70
+title: industrial_organizational_psychology_an_applied_approach
+---
+## 190–191 Confederate ﬂ ag, 100 Conﬂ ict management techniques, 492

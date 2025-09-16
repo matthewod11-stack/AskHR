@@ -1,13 +1,13 @@
-## customers, technology, and competition—your guidance to Wall Street
+---
+source_path: H08QTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85c2914b5f1a2d53d933213a927e696539fc2422
+title: H08QTW-PDF-ENG
+---
+# Henrik Sorensen/Getty Images
 
-is about as useful as last year’s Kentucky Derby predictions. Your capital
+Your 2025 plans are shot to pieces. Thanks to the trade war, weakening
 
-spending plans…can we pause for a bit? Your hiring plans, marketing
+consumer conﬁdence, rising inﬂation expectations, downward pressure
 
-budget, pricing strategy…can we set up time next week?
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+on the U.S. dollar—not to mention the usual uncertainty around

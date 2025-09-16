@@ -1,17 +1,21 @@
-## novo antibodies with a computer and zero-shot generative AI—in which
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b652c4abd64d568708ed81ee0bc4f449cc3a8843
+title: S25012-PDF-ENG
+---
+## generative adversarial networks and variational autoencoders) to
 
-a machine-learning model recognizes and classiﬁes new concepts
+develop synthetic defect-image data. According to Nitin Kaul, the
 
-without having any labeled examples. In other words the AI designs
+associate director of IT architecture, the gen-AI-enhanced system has
 
-antibodies that will bind to speciﬁc targets without using any training
+helped Merck “understand root causes of rejects, optimize processes,
 
-data on antibodies known to bind those targets. Creating them via AI
+and reduce overall false rejects across various product lines by more
 
-instead of through trial and error could reduce the time it takes to get
+than 50%.”
 
-new biologics into the clinic from as much as six years down to 18
+Drug discovery is also being transformed by gen AI. Absci, a drug-
 
-months, while increasing their probability of success. Waste, as kaizen
-
-has taught us, is not only a matter of materials but also a matter of time and eﬀort.
+development company, is now able to create and validate therapeutic de

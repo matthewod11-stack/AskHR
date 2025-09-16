@@ -1,9 +1,11 @@
-# Halo Errors
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a77ad0c6780bf6c19be6fee8c7c1dc8e9bf4e955
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Distribution Errors
 
-A halo error occurs when a rater allows either a single attribute or an overall impression of an individual to affect the ratings that she makes on each relevant job dimension. For example, a teacher might think that a student is highly cre- ative. Because of that, the teacher might rate the student as being intelligent and industrious when, in fact, the student’s grades are below average. In this case, the instructor has allowed the student’s creativity to cloud her judgment of the student’s other abilities. Halo effects occur especially when the rater has little knowledge of the job and is less familiar with the person being rated (Kozlowski, Kirsch, & Chao, ). Halo error is also more common in peer ratings than in supervisor ratings of subordinates (Viswesvaran, Schmidt, & Ones, ).
+A common type of error in evaluating employee performance involves the distribution of ratings on a rating scale; such errors are known as distribution errors. Distribution errors are made when a rater uses only one part of a rating scale. For example, on a five-point scale, a supervisor might rate all of her employ- ees a  or a . One kind of distribution error is called leniency error, because certain raters tend to rate every employee at the upper end of the scale regardless of the actual performance of the employee. For example, on our five-point scale, the supervisor rates everyone a  or . Leniency error can in part be explained by the discomfort felt by supervisors about giving low ratings. That is, supervi- sors who are uncomfortable about how employees react to a low rating are more likely to be lenient than supervisors who are comfortable with negative employee reactions (Canali et al., ). Another partial explanation for leniency is that supervisors don’t really know the difference between good and bad performance, so they err on the positive side.
 
-Usually, halo error is statistically determined by correlating the ratings for each dimension with those for the other dimensions. If they are highly corre- lated, halo error is often said to have occurred. As one might expect, there are explanations other than halo error for the high correlation among rating dimen- sions. Some psychologists have argued that consistent ratings across several dimensions might indicate actual consistencies in employee performance across
-
-evaluating employee performance
-
-263
+A related error is central tendency error, which results in a supervisor rating every employee in the middle of the scale. For example, in our five-point scale, the supervisor rates everyone a . Still another error, strictness error, rates every employee at the low end of the scale. For example, on our five-point scale, our supervisor rates everyone a  or . You have probably encountered such errors in your academic career when you took classes from “easy graders” or “hard graders.” These types of errors pose problems for an organization because two employ- ees doing equal work will receive different ratings if one employee is supervised by a lenient rater and another by a strict rater. This problem can be partially eliminated by having several people rate each employee, although this is not often feasible, especially in small branch offices with only one manager or supervisor.

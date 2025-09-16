@@ -1,3 +1,13 @@
-# Summary and Conclusion
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: e306186617c5ea9ddb855af359000e2c373ef2f4
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# DIRKS AND FERRIN
 
-In attempting to summarize, integrate, and extend the literature on trust in leadership, we intended to make several contributions and advances with this article. First, we attempted to amass and summarize three decades of empirical research on trust in leader- ship. In doing so, we have provided “best evidence” for the primary relationships between trust and 23 other variables. Sec- ond, we have attempted to discuss the implications of specifying the construct with different definitions of trust (cognitive vs. overall) and different leadership referents of trust (direct leaders vs. organizational leadership). Third, we have offered a theoretical framework to help provide parsimony to the expansive literature and help clarify different perspectives on the development and consequences of trust. In addressing the above issues, we hope to provide a foundation for future research on trust in leadership.
+trust and these two variables. Future research might therefore focus on better distinguishing the constructs theoretically and empirically.
+
+The nature of the relationship between leader consideration behaviors and LMX is even more unclear. Given the substantial volume of research on leader consideration, one might question why the concept was not included in our meta-analysis. Our review process found only three studies that reported data on trust in leadership and consideration behaviors, a number too small for inclusion in the primary meta-analysis. Trust is sometimes speci- fied as an “essential element” (Fleishman & Harris, 1962, p. 43) of the definition of consideration behaviors. Because this definition includes trust, it is likely that few studies attempted to examine trust and consideration as two separate constructs. A similar prob- lem arises with LMX: Some studies include trust as part of the definition, whereas others treat it as a separate construct. Until there is some agreement about whether trust is distinct from these constructs, the advancement of research may be hindered. As implied in Figure 1, we advocate conceiving trust as a distinct construct that mediates the relationships between leader behaviors (e.g., consideration behavior, transformational leader behaviors) and followers’ responses to those behaviors (e.g., performance).
+
+reciprocal (Dirks, 2000; Mayer et al., 1995). Future research might examine the interrelationships between trust and other variables. Procedural and distributive justice are examples of concepts that may be both cause and consequence of trust in leadership; for example, higher levels of procedural justice may increase trust, which in turn might provide a “halo” for perceptions of how one is treated in subsequent decisions.

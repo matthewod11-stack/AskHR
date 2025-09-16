@@ -1,11 +1,17 @@
-## projects and organizational resources from a holistic perspective, you
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58af74860e91e598008023bb99bffb95cd66e7fc
+title: H07WED-PDF-ENG
+---
+# Big Cheese Photo/Getty Images
 
-should be a viable candidate to move up to a CEO-level position.
+Project managers, in theory, are some of the best candidates to
 
-Especially now that we have entered the project economy.
+become CEOs of their organizations. In their daily work, they must
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+bring together all the disparate aspects of theory, reality, vision,
 
-1
+process, ﬁnances, value, politics, and human nature to create successful
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+outcomes. When you demonstrate success in managing enterprise-level

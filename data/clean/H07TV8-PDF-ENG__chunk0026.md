@@ -1,11 +1,33 @@
-# HBR / Digital Article / Businesses Need to Bring Younger Employees into Their Leaders…
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdf7d17a3c1b2077dc5e4af480b4471565b569cb
+title: H07TV8-PDF-ENG
+---
+# initiatives or major decisions.
 
-As Gucci’s CEO Mario Bizzarri puts it, a shadow board’s insights “serves
+This can help bring new ideas and perspectives to experienced
 
-as a wakeup call for executives.” To make these initiatives successful,
+leaders and help bridge generational gaps. Companies from Gucci to
 
-it must be clear that they are a safe space for exploring new ideas.
+TotalEnergies have implemented shadow boards of younger employees
 
-At the same time, it is crucial that the suggestions are given serious
+to consult on a variety of business topics — and their reports
 
-consideration by being embedded into organizational decision-making.
+are positive: For example, Mövenpick Hotels & Resorts had been
+
+considering creating a booking app for their properties, but their
+
+shadow board opposed the idea, stating that customers would balk
+
+at having to download another app or remember another password.
+
+Instead, they suggested developing a mobile-friendly web interface,
+
+saving time and resources.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

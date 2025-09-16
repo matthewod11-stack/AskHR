@@ -1,5 +1,13 @@
-# Industrial-Organizational Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 177c768f55ce1a8a439c9bc6cef3220da4237831
+title: untitled
+---
+# CONFLUENCE OF DYNAMIC FORCES
 
-theories, foresight or imagination. In short, I-O psychologists tend to be more reactive than proactive . . .” (p. 824).
+Many historians contend that the rise of I-O psychology was the result of external forces. Psychologists were pulled by the demands and expectations of industry and of an ever-changing society and economy (e.g., Baritz, 1960). As early as 1913, Hugo Münsterberg, who is often referred to as the father of I-O psychology, stated, “Our aim is to sketch the outlines of a new psychology which is to intermediate between the modern laboratory psychology and the problems of economics: the psychological experiment is systematically placed at the ser- vice of commerce and industry” (Münsterberg, 1913, p. 3). More recently, Katzell and Austin (1992) observed, “The ﬁeld’s history reveals a proclivity for science and practice in I-O psychology to be shaped more by external forces than by
 
-Scholarsalsorecognizethatthediscipline’sprogressionre- sultedfrominternalforcesorindividualvisionarieswithinthe ﬁeld who advocated and pushed for the application of psy- chology (e.g., Koppes, 1997; Landy, 1997; Van De Water, 1997). Entrepreneurial efforts by independent investigators moved the discipline forward because of their develop- ments in theory, research, and practice. Most historians agree, however, that both internal and external inﬂuences shaped the discipline. For example,Van DeWater (1997) noted, “Acom- bination of internal and external forces helped transform in- dustrial psychology from a few individuals’ visions into a larger, self-perpetuating institution” (p. 487). To fully under- stand the sociohistorical context of I-O psychology, both external and internal forces must be considered.
+373
+
+374

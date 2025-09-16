@@ -1,27 +1,31 @@
-# quickly.
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed00d84875d4112eb1a27ba245b1f16c83833b6f
+title: R2504P-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: Do We Reskill or Replace Our Workforce?
 
-Those who are brought in shouldn’t just do the work and leave; they
+freelancers to address his critical skills gap, achieve early wins and
 
-should stand side by side with existing SolidTech employees, examining
+learning, and mitigate the risks that he is most worried about.
 
-workﬂows and skills gaps, and retraining the team along the way. If the
+He doesn’t need to dive in with an all-or-nothing approach. He could
 
-pilot works, Alex could ask those in-house people who worked alongside
+start by prototyping a new working model using small freelance teams
 
-the freelancers, and the leaders who saw the impact on their teams, to
+with the new skills he thinks are needed, spinning them up to test in
 
-help promote the program to other departments, explaining that they
+individual departments such as sales or industrial design. This way, he
 
-have nothing to fear and, in fact, much to gain from such collaborations.
+can quickly gauge whether the investment will add business value and oﬀer proof points to his key investors and internal managers.
 
-Alex is worried that any kind of reskilling will drive away some of his
+He may be concerned that the online freelance market won’t be able
 
-longtime talent. But the risk of inaction is greater. Not only does he
+to supply the expertise that he requires. But the opposite is true: He
 
-need to stay ahead of the competition, he also needs to signal to his
+can ﬁnd professionals with direct elevator-company experience or those
 
-future-focused employees that he wants to keep SolidTech relevant.
+with experience in adjacent industries with obvious crossover who,
 
-Otherwise, he risks losing one of his most critical talent assets—the
-
-people who want to keep growing and learning new skills—to more-
+always hungry for new work, would be willing and able to add value

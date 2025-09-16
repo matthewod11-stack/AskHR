@@ -1,17 +1,7 @@
-# List of Tables
-
-Table 1 Job Satisfaction Factors (Herzberg, 1993) .................................................22
-
-Table 2 Atlas Copco EX maturity level ....................................................................32
-
-Table 3 Correlation Q5 and Q14 .............................................................................40
-
-Table 4 Correlation between Q11 and Q25 .............................................................42
-
-Table 5 Correlation between Q19 and Q20 .............................................................45
-
-Table 6 Statistical relationship figures for Q9 and Q28 ...........................................49
-
-Table 7 Correlation between Q13 and Q14 .............................................................51
-
-Table 8 Touchpoint’s performance ..........................................................................53
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 6989e2cc86d5413dd16aaf6f770c0b6f72092758
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 70 | P a g e

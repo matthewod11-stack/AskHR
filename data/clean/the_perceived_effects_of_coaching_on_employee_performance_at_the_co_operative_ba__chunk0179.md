@@ -1,13 +1,9 @@
-## Students. 4th Ed. Pearson Education Limited
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 1ff2eedbb3aec082ee4e2afe7a86e9dde7712578
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# CIPD
 
-(cid:52)(cid:49)(cid:32)
-
-(cid:32)
-
-Schultz, T. W. (1961). Investment in Human Capital. American Economic Review,
-
-51, 1-17
-
-Sen, A. (1999). Development as Freedom. New York: Anchor Books
-
-Sherman, S., and Freas, A. (2004). The Wild West of executive coaching. Harvard
+Sanders, M., Lewis, P. and Thornhill, A. (2007). Research Methods for Business

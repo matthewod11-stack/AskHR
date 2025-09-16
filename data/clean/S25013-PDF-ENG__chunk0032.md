@@ -1,27 +1,29 @@
-## No matter how much money your business invests in artiﬁcial
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aff4062cfca441d4d366f6fcfb8a560fe620c08e
+title: S25013-PDF-ENG
+---
+## HBR / Spotlight / Why People Resist Embracing AI
 
-intelligence, your leadership team must consider the psychological
+preferred humans. This stemmed from the belief that robots didn’t
 
-barriers to its adoption. And with each of the ﬁve barriers I’ve described,
+have humanlike awareness and lacked the capacity for understanding
 
-you must realize that interventions meant to increase acceptance can
+meaning. In addition, the more diﬀerent from humans that people felt
 
-inadvertently increase resistance to AI.
+that robots were (as measured by asking them to rate their agreement
 
-Rather than leaping straight into solution mode, tread carefully. Every
+with statements like “Morally, robots will always count less than
 
-AI system, use case, pilot, and full-scale deployment will encounter
+humans”), the more strongly they exhibited this preference.
 
-diﬀerent barriers. It’s your job as a leader to recognize them and help
+Cultural context is most likely an important factor in anti-AI tendencies.
 
-your customers and employees overcome them.
+In Japan, for example, the belief that even inanimate objects have souls
 
-A version of this article appeared in the January–February 2025 issue of Harvard Business Review.
+or spirits is more widespread than in other countries, which may lead to
 
-Julian De Freitas is an assistant professor in the marketing unit at Harvard Business School.
+greater acceptance of AI that highly resembles humans.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+. . .

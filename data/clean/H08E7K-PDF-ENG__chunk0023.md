@@ -1,23 +1,19 @@
-# brain.
+---
+source_path: H08E7K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5db7c85f28ae34f0d51108c8244ce8e8826c66ee
+title: H08E7K-PDF-ENG
+---
+## for retention. In the late-nineteenth century, German psychologist
 
-Fortunately, through techniques like spaced repetition and testing
+Hermann Ebbinghaus described the “forgetting curve” to explain how
 
-recall, you can improve retention for higher learning stickiness. Let’s
+fast people forget things they’ve learned. While factors like rest and
 
-say you’ve come across some valuable but complex frameworks to
+relative complexity of the topic aﬀect how well we retain information,
 
-improve business results and want to conﬁdently present them in
+we still tend to forget things rapidly. Within a day, you only remember
 
-ways that improve buy-in from other company divisions. To avoid
+half of what was presented, and after a week, only about 10% of it,
 
-reading and forgetting the content, you can set aside a half hour every
-
-morning and evening to review in parts, spacing out and repeating your
-
-exposure. Then test yourself from memory on the frameworks until they
-
-become second nature to you.
-
-To make your brain even more receptive, keep adding higher, original
-
-learning to the content you’re absorbing. Research shows that the
+making any lasting learning journey a literal ﬁght against time for your

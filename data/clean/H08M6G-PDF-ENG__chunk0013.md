@@ -1,7 +1,17 @@
-# HBR / Digital Article / How Constructive Dissent Can Unlock Your Team’s Innovation
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba7ace1922d8cfeff0c9a4705e1ed618f8111fd3
+title: H08M6G-PDF-ENG
+---
+# questions.
 
-management consultant pioneer Mary Parker Follett said in the early
+- 3. Friction: Challenge ideas, options, and solutions to either improve
 
-20th century, “All polishing is done by friction.”)
+or disqualify them. This is where ideas sometimes collide. (As
 
-- 4. Selection: Select the most promising ideas, options, or solutions for
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

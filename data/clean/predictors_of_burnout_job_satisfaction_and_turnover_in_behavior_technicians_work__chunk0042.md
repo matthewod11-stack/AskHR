@@ -1,3 +1,7 @@
-# Questionnaires
-
-Intention to turnover
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: e96010ede0ab1801c6bb76defbb860483bc3e59b
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Southern California

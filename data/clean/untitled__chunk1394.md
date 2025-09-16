@@ -1,3 +1,9 @@
-## Social Movements and Movements for Change in Social Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8d68c632ad7a121012248cb88824151e3ded1aaa
+title: untitled
+---
+# Whence the Real-World Relevance?
 
-reproduced in white people’s feelings and their relations to black people” (p. 78).
+Inside the discipline, critical voices grew increasingly strong on the shortcomings of group research and experimental methods in social psychology, as well as concern over social psychology’s impoverished theoretical status. Experimental set-ups that grew out of information theory and translated into laboratory simulations came to be regarded as overly contrived, relying on “button pressing, knob turning, note writing, or telephonic circuits loaded with white noise” (Steiner, 1974, p. 100). The very invented nature of experi- mental laboratory groups was described in the 1960s as “a temporary collection of late adolescent strangers given a puz- zle to solve under bizarre conditions in a limited time during their ﬁrst meeting while being peered at from behind a mir- ror” (Fraser & Foster, 1984, p. 474). These groups came to be referred to as “nonsense” groups (Barker, cited in Fraser & Foster), and laboratory experiments as “experiments in a vac- uum” (Tajfel, 1972). Alternative approaches to groups began to gather their own critical reviews, both for their ultimately individualistic focus and for a rather narrow cognitive em- phasis. Even Henri Tajfel’s alternative of Social Categoriza- tion Approach and Social Identity Theory, while proposed as putting the “social” back into the study of groups, began to reveal itself as part of the information-processing model in which “error becomes a theoretical catch-all for what cannot be explained within individual-society dualism: the absence of the ‘correct’ response” (Henriques et al., 1984/1998, p. 78). In this framework, racial prejudice, for example, wound up being treated as a problem in information process- ing without “addressing either the socio-historical production of racism or the psychic mechanism through which it is

@@ -1,37 +1,65 @@
-## Under dialogic communication and participation, unexpected reactions to a
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: c8838a62b9e06487a069b1034006c239f645a462
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# and Brown, 2003).
 
-change process would not promptly be seen as resistance. In fact, responses are
+Risk is one of the key principles of dialogic communication, as it means that
 
-recognized as “expressions that are informed by what was said previously and what is
+participants in a dialogic communication are able to recognize openly what they do not
 
-happening currently”, without the negative label of representing a threat to what has
+know and assume uncertainty as part of the process as well as the results. In such
 
-been agreed before. Really influencing change is later an essential indicator of a
+cases, the vulnerability of not having such control reveals itself as a position of strength
 
-dialogic communication. When carried out under dialogic communication “change
+rather than weakness, and then new meaning can be developed collectively.
 
-initiatives would be open to change as they were implemented.” (Jabri, Adrian et al.,
+Commitment can be understood as genuineness, commitment to conversation,
 
-2008: 680).
+and commitment to interpretations. Dialogue is honest and forthright. Sharing the same
 
-That defines a proposed dimension to dialogic communication that was created
+meanings or working toward common understandings is crucial to dialogic relationships,
 
-by the author of this research, called Input Use: if through the input collected during
+constantly fine-tuning language and trying to grasp the positions, beliefs, and values of
 
-communication effort the “change initiatives were open to change as they were
+others before their positions can be equitably evaluated.
 
-implemented” (Jabri, Adrian et al. 2008: 680)
+Those principles were developed by Kent and Taylor (2002) after an extensive
 
-If one considers that resistance does not come only from recipients but also from
+literature review in psychology, philosophy and communications. It is clear that a
 
-agents (Ford and Ford, 1995; Ford, Ford et al., 2008; Ford and Ford, 2009), and if
+dialogic approach is not easily operationalized or reduced to a series of steps, but those
 
-agents do not truly receive and incorporate counter arguments into the content and
+principles consist of several coherent assumptions that can become the foundation
 
-process of change, then participation is not happening. In such cases, it is just voicing
+needed to investigate the authenticity of a dialogic participation process.
 
-or considering participants as objects, which means it is monologic participation.
+One of the challenges in promoting dialogic communication is to recognize the
 
-Unfolding from the latest arguments, it is inferable that not all participation would
+interpretive rights of others, something not easily achievable in one single interaction,
 
-minimize resistance as largely prescribed, but monologic participation could in fact lead
+and even more in one ongoing process. As Schein (2003) has already pointed out, the
+
+roots of dialogue lie in discovering our internal choice process regarding when to speak
+
+and what to say. The key to dialogue is to keep open to new interpretations, and this is
+
+deeply connected to resisting change. As the sensemaking process makes it clear, our
+
+own interpretations are implicit and our framings for reality are rarely conscious. It is by
+
+interacting with other participants that one ends up either validating or not one’s own
+
+interpretations. All is well when interaction reveals alignment between interpretations. It
+
+is when responses vary from the expected that it is time to reconsider one’s own
+
+interpretations, if there is an opening for doing so. However, if there is no
+
+acknowledgment of the other’s right to interpret reality differently, the usual effect is to
+
+classify the response as not valid or to start a persuasion effort. Both interlocutors’
+
+reactions can be labeled as resistance, from each other’s point of view.

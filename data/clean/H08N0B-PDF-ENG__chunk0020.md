@@ -1,9 +1,13 @@
-## site brainstorming, cross-functional team sprints, and synchronous
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f8af73f78ae75e129e1c7fc1c055ad5bf7fe9c2
+title: H08N0B-PDF-ENG
+---
+# drive solutions?
 
-and asynchronous collaboration, and create a digital repository
+To link innovation goals to deploying hybrid and remote work, bring
 
-for capturing and reﬁning new ideas. For example, Atlassian uses
+employees together for structured collaboration periods to support
 
-“collaboration zones” where employees can utilize remote and hybrid
-
-arrangements, so long as their location ensures four to six hours of daily
+speciﬁc market strategies. Establish clear systems for virtual or on-

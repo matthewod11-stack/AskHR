@@ -1,27 +1,17 @@
-# Research. Gent: Academia Press.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: a8a538977c953125a0cfe8d673933655f9f1db3b
+title: chapter_nine
+---
+## Practitioner Inquiry. Chichester: Wiley-Blackwell.
 
-Huq, Z., Martin, T.N. (2000) Workforce cultural factors in TQM/CQI. Implementation in hospitals.
+Hart, E., Hazelgrove, J. (2001) Understanding the organizational context for adverse events in the health services: the role of cultural censorship. Quality and Safety in Health Care. Vol. 10. pp 257- 262.
 
-Health Care Management Review. Vol. 25. No. 3. pp 80-93.
+Haworth, S. (2000) New management culture in the NHS. Nursing Management. Vol. 7. No. 3. pp 16-
 
-Ingersoll, G., Kirsch, J., Merk, S., Lightfoot, J. (2000) Relationship of organizational; readiness for change to employee commitment to the organisation. Journal of Nursing Administration. Vol. 30. No. 1. pp 11-19.
+17.
 
-Jabnoun, N. (2001) Values underlying continuous improvement. The TQM Magazine. Vol. 13. No. 6.
+Hewison, A. (1999) Organisational effectiveness, part 2: clinical governance, part 2. How staff recruitment, safe workplaces and competent leadership help maintain effective organisations. Journal of Advanced Nursing. Vol. 29. No. 6. pp 377-84.
 
-pp 381-388.
-
-Johns, C. (1992) Ownership and the harmonious team. Journal of Clinical Nursing. Vol. 1. No. 2. pp
-
-89-94.
-
-Johns, C. (1995) Achieving effective work as a professional activity. In Schober, J.E. and Hinchliff, S.M. (Eds) (1995) Towards Advanced Nursing Practice: Key Concepts for Health Care. London: Arnold. pp 252-280.
-
-Jones, K., Redman, R. (2000) Organizational culture and work design: experiences in three
-
-organizations. Journal of Nursing Administration. Vol. 30. No. 12. pp 604-610.
-
-Kalish, B., Aebersold, M. (2006) Overcoming barriers to patient safety. Nursing Economics. Vol. 24.
-
-No. 30. pp 145-149.
-
-23
+Hoogwerf, L. (2002) Innovation and Change in a Rehabilitation Unit for the Elderly through Action

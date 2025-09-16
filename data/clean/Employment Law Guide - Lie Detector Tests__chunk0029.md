@@ -1,9 +1,15 @@
-# Employee Rights
+---
+source_path: Employment Law Guide - Lie Detector Tests.md
+pages: n/a-n/a
+chunk_id: e6a2fd2a3b57ab394677a5a5a51c6b93f109970f
+title: Employment Law Guide - Lie Detector Tests
+---
+## speciﬁc economic loss or injury to the employer.
 
-The EPPA provides that employees have a right to employment opportunities without being subjected to lie
+Where polygraph examinations are allowed, they are subject to strict standards for the conduct of the test,
 
-detector tests, unless a speciﬁc exemption applies. Where polygraph examinations are allowed, they are
+including the pretest, testing, and post testing phases. An examiner must be licensed if required by a state in
 
-subject to strict standards at the pre-test, testing, and post-testing stages. Speciﬁc notices must be given to
+which the test is to be conducted, and must be bonded or have professional liability coverage. The Act strictly
 
-employees or prospective employees. The Act also provides employees the right to ﬁle a lawsuit for violations of the Act. In addition, the Wage and Hour Division accepts complaints of alleged EPPA violations.
+limits the disclosure of information obtained during a polygraph test.

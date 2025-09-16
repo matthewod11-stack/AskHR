@@ -1,9 +1,7 @@
-# Lauren Nicole/Getty Images
-
-A recent Microsoft study of 30,000 people revealed that 46% of
-
-workers are considering a major career pivot or transition after the
-
-Covid years. For many, this search goes beyond just a change of role and
-
-into the realm of personal renewal or reinvention. In our experience,
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9581e189baf1fc2cf986c3489e371a2e900c7943
+title: H07BCM-PDF-ENG
+---
+## Published on HBR.org / October 27, 2022 / Reprint H07BCM

@@ -1,11 +1,23 @@
-# description.
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08ba1514551cbbe8e890516534297cc0d2e4d43d
+title: R2504K-PDF-ENG
+---
+# Gerrard Gethings
 
-If you and several others are considering becoming cofounders, create
+Describe in writing what you’re looking for in a partner. Using
 
-job descriptions for the key roles (CEO, CTO, and so on) using a
+insights from the listening tour, create a job description laying out the
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+experience, expertise, values, and character traits you are seeking in a
 
-9
+cofounder. If you already have a strong candidate, it can be tempting
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to tailor the description to the person you have in mind. Try to stay
+
+objective to avoid conﬁrmation bias. Use the job description as your
+
+guide as you meet with prospective cofounders, and adjust it as you go.
+
+The more prospects you meet, the more you’ll be able to reﬁne the job

@@ -1,5 +1,19 @@
-# November
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 14080187bfd642ded52bb86b0e291e7554bf537e
+title: i
+---
+## content/uploads/2020/12/RedThread_PAT2020_Final-1.pdf
 
-6,
+(cid:111) Schiemann, W. A., Seibert, J. H., & Blankenship, M. H. (2017). Putting human capital analytics to work: Predicting and driving business
 
-2023,
+success. Human Resource Management,
+
+57(3),
+
+7953807.
+
+https://doi.org/10.1002/hrm.21843
+
+(cid:111) Sierra-Cedar. (2019, October 2). Sierra-Cedar 201932020 HR Systems Survey Findings: The Future of HR Technology. Sierra-Cedar. Retrieved

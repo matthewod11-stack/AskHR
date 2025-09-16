@@ -1,13 +1,17 @@
-# key accounts.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 441ee95d94dcb1523976cabf8d72cd6defd3bed3
+title: R2406G-PDF-ENG
+---
+## HBR / Magazine Article / Personalization Done Right
 
-Show me. Personalization leaders build and manage robust content
+to understand the appropriate level of engagement for each account and
 
-libraries that they tailor to the unique needs of each customer—while
+to suggest the right timing to approach contacts. The models also make
 
-staying true to their brand voice. To do this, many are leveraging
+recommendations that marketers and salespeople can act on. Adoption
 
-generative AI tools to create content. To evaluate companies on this
+of these tools quickly accelerated as salespeople found they could grow
 
-promise, we looked at how sophisticated their content creation and
-
-management capabilities were and how well they personalized text,
+their account portfolios without losing momentum with their existing

@@ -1,19 +1,29 @@
-# A Few Caveats
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26f4db2db862a5e1913d71c0710b378eccaee801
+title: H08OXV-PDF-ENG
+---
+## HBR / Digital Article / Research: How “Leisure Crafting” Can Help You Recharge
 
-Although leisure crafting is highly beneﬁcial, it is important to keep a
+- 3. Hold Yourself Accountable and Be Willing to Adjust
 
-few key considerations in mind. While this approach to one’s leisure
+Setting timeframes or journalling can be a useful way to track your
 
-time requires commitment and goal-setting, it is still simply that:
+progress toward your goals, reﬂecting on what’s worked well and what
 
-leisure. The goal is not to turn hobbies into obligations or a second
+hasn’t gone as planned. Reviewing old journal entries can also be a
 
-job. Instead, it is about engaging in leisure activities with a deliberate,
+good way to stay inspired when progress feels slow: looking back at how
 
-growth-oriented mindset. In the end, leisure is a time to enjoy oneself.
+incremental actions have moved you toward an accomplishment can
 
-Additionally, while crafting one’s leisure in this manner is beneﬁcial, we
+help reignite your commitment.
 
-are not suggesting that every moment of free time should be structured
+That said, goals are only useful when you’re working toward them. If
 
-in this way. Balance is key here. Leisure crafting should complement—
+a goal is starting to feel like a slog—and you feel yourself dreading
+
+it or blowing it oﬀ—it’s probably a good time to adjust and look for
+
+something that feels energizing and possible.

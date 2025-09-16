@@ -1,49 +1,35 @@
-## wages and effort back to the no-overconfidence point.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 41dc2d2c2dd6bac47beeff9692d213d681bee58c
+title: beo_chap7_1
+---
+# of overconfidence of top managers.
 
-A different possibility is that overconfident workers think they are more skilled
+What does overconfidence of workers mean in the agency model? There are many
 
-than they really are (i.e., they overestimate their value of s;). Whether overconfident
+ways to model overconfidence and it is an open question what these different types
 
-workers of this sort work too little or too much will depend on whether effort and
+of overconfidence imply in equilibrium, or in practice. One possibility is that peo-
 
-skill are complementary, and on the types of contracts firms can offer. For example,
+ple overestimate the output x; they will generate. For example, they may assume
 
-if e; and s; are complements, the firm can offer a contract that pays a large bonus if a
+a distribution m(6;) that first-order stochastically dominates the true distribution
 
-very high output level is achieved (similar to backloaded option packages which are
+m(@;): observationally equivalent to overestimating luck. Or they may overestimate
 
-common in biotechnology firms, or highly leveraged venture capital deals offered to
+the marginal productivity of their effort, df (e;, s;)/de;. In either case they may
 
-founders hungry for capital). Workers who overestimate their skill s; will perceive
+work less hard than if they were not overconfident. Assume for example, that their
 
-the marginal return to effort as higher than it actually is and will work hard to grasp
+wage schedule includes a piece rate 6. At the correct optimum effort with no over-
 
-the brass ring. If this is true, we would expect to see extraordinary bonuses being
+confidence (and corresponding optimal piece rate), agents misperceive themselves
 
-offered by firms, to exploit overconfidence, accompanied by high actual failure rates.
+as working too hard because they overestimate expected output and, consequently,
 
-The opposite of overconfidence might be important in worker motivation as well.
+underestimate marginal utility. As a result, overconfident agents may cut back on
 
-Psychiatrists discuss an “impostor syndrome” in which workers discount their own
+effort. In theory, firms will increase the piece rate 6 to induce more effort, but for
 
-success, or attribute it to luck, and feel that others have been fooled into thinking
-
-they are talented (see, for example, Kolligian and Sternberg 1991). Self-perceived
-
-“impostors” may work harder than others if they think that they have talent but need
-
-to work even harder to achieve true success.
-
-More generally, there are important caveats to applying the evidence of wide-
-
-spread overconfidence to organizations. Rather than assuming that agents uni-
-
-formly overestimate their abilities, researchers need to account for heterogeneity
-
-and attempt to evaluate ex ante indicators of overconfidence. For example, some
-
-studies show that women are less overconfident than men, which might be impor-
-
-tant for personnel selection. Seventy- to eighty-year-olds are also less overconfident
-
-247
+reasonable specifications this compensatory effect will not be strong enough to push

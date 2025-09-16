@@ -1,25 +1,13 @@
-## HBR / Digital Article / Onboarding New Employees — Without Overwhelming Them
+---
+source_path: H083D5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09652c88b6ffc60fcd10b4fd1e49f194ca72f1f6
+title: H083D5-PDF-ENG
+---
+## organization- speciﬁc terms, along with a detailed company directory.
 
-This resource can help support new employees in their transition and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-ensure a more inclusive and informed onboarding process.
+5
 
-. . .
-
-A great onboarding experience not only increases employee learning
-
-and preparedness to excel in their new role, it also leads to greater
-
-engagement, loyalty, and retention. But while the value of eﬀective
-
-onboarding is indisputable, the reality is that many organizations (even
-
-those studiously trying to avoid under-training their employees) fall
-
-short, going too far in the opposite direction and ﬂooding new hires
-
-with too much information. By implementing strategies that mitigate
-
-cognitive overload, organizations can ensure employees have space,
-
-time, and mental resources available to learn and thrive in their new
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

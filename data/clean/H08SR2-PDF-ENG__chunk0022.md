@@ -1,19 +1,23 @@
-## connect outside of the platform in helpful ways:
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6bf95957dac8c8527bcfaf36f3c8b037566afb7a
+title: H08SR2-PDF-ENG
+---
+# way:
 
-It’s not like I can look sideways and see somebody in my company
+He [was] the kind of person that I would think to myself like, “Oh,
 
-who’s my peer, but [Peloton offers] of people I can reach out to and
+he’s going to question my credentials”…And the way that I was able to
 
-say, “I want to get your opinion on something. Tell me what you think
+get over or look past some of that feeling of intimidation or a sense of
 
-about this.”
+like imposter syndrome that was really heightened by my interaction
 
-When leaders in our study connected with employees in a relational
+with this person was to kind of bond over our shared Peloton use.
 
-holding environment, this facilitated feelings of connection and
+When considering peer leaders, Jackson, who sits in the C-suite of
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+his company, explained how he found colleagues in other companies
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+through platform-related social media groups, which enabled him to

@@ -1,17 +1,13 @@
-# HBR / Digital Article / Research: How Anxiety Shapes Men’s and Women’s Leadership…
+---
+source_path: H08DZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cde2067e5def4e5fc8b0fa9be71217d2bebc136e
+title: H08DZN-PDF-ENG
+---
+# than men.
 
-In our research, we contest this lay belief that women’s leadership
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-capacities are uniquely and easily overwhelmed by their emotions. To
+1
 
-the contrary, we predicted that in uncertain times marked by strong
-
-emotional experiences, women may actually be less likely to act on
-
-their emotions than men when leading. This is because women are
-
-socialized to put others’ needs before their own. In uncertain times,
-
-women will likely feel compelled to make sure that others are doing well
-
-— especially others they have a responsibility for, such as their direct
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

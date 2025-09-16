@@ -1,33 +1,37 @@
-# during cost-cutting measures.
+---
+source_path: H07ZOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6f9db8e204e9b8471ba5957aa2a77c72f16254d
+title: H07ZOW-PDF-ENG
+---
+## HBR / Digital Article / 5 Reasons People Get Laid Off
 
-Managers who are invaluable to an organization ﬁnd a balance between
+Showing a dedication to reskilling yourself in a new space and
 
-strategic leadership and hands-on involvement without micromanaging
+demonstrating those skills during the transition to a new way of doing
 
-their teams. They’re perceived as more adaptable and capable of
+business could save your job. Therefore, employees should take a
 
-responding quickly to changes, making them more resilient in volatile
+proactive approach to gaining skills and knowledge based on where the
 
-business situations. Managers who have deep understanding of team
+market and company are heading to ensure their skills remain relevant.
 
-dynamics, challenges, and goals and who can demonstrate their ability
+- 2. You’re an “overseer,” not a “doer”
 
-to speak to the details will make seem like they’re the glue holding the
+When companies decide to implement budget cuts, the ﬁnance
 
-team together, which makes it harder to see their role as dispensable.
+department typically allocates a speciﬁc percentage reduction to each
 
-- 3. Lack of visibility
+department. The most straightforward method to meet the assigned cut
 
-Being the quiet worker bee won’t protect you from being laid oﬀ. In fact,
+percentage is to eliminate the positions of individuals with the highest
 
-being invisible could be your downfall. When determining which roles
+salaries, particularly if they’re not actively involved in accomplishing
 
-to cut, if senior leadership doesn’t know who you are, what you do, or
+the work. Managers who lack hands-on involvement may be seen as
 
-the impact you make, your job could be an easy choice for elimination.
+less valuable to the organization, as there is a perception that they’re
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+not directly contributing to task and project execution. This perception
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+could increase the likelihood of them being considered expendable

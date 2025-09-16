@@ -1,21 +1,17 @@
-# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8cd94ffc99a48d07dae554ea89e3556f6e55a915
+title: H088ND-PDF-ENG
+---
+# rates among all demographic groups.
 
-are signiﬁcantly more likely than their white and Black counterparts
+Such isolation and exclusion not only negatively aﬀects Asian
 
-to disengage from work due to these cultural disconnects, often by
+professionals, it also has concrete business impacts. Asian employees
 
-considering quitting or scaling back their ambitions, according to a 2011
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Coqual report. In fact, it’s the youngest cohort of Asian employees, those
+4
 
-most likely to be U.S.-born and native English speakers, who report
-
-feeling the least belonging.
-
-Clearly, time spent in the U.S. alone will not rectify the isolation
-
-experienced by Asian employees. Companies aiming to better utilize
-
-their Asian employees, while enabling them to thrive and lead, must
-
-adopt a proactive approach to doing so.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

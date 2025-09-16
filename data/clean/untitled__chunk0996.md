@@ -1,3 +1,9 @@
-# and mirth. Psychophysiology, 5, 399–414.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c8b526dde8e23fae2a8df3b56861ce9aad1d69ac
+title: untitled
+---
+# sium. New York: Academic Press.
 
-Ax, A. F. (1953). The physiological differentiation of fear and anger
+Averill, J. R. (1969). Autonomic response patterns during sadness

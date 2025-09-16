@@ -1,15 +1,11 @@
-# York: Harper.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: cc8fa086759ec57c5987aeab94580f650741848e
+title: untitled
+---
+## Brown v. Board of Education, 347 U.S. 483 (1954).
 
-Camﬁeld, T. (1973). The professionalization of American Psychol- ogy, 1870–1917. Journal of the History of Behavioral Sciences, 9, 66–75.
+Burnham, J. C. (1987). How superstition won and science lost: Pop- ularizing science and health in the United States. New Brunswick, NJ: Rutgers University Press.
 
-Campbell, J. P. (1990). An overview of the army selection and classiﬁcation project (Project A). Personnel Psychology, 43, 231–239.
-
-Campbell, J. P. (1992, May). The latent structure of science and practice: A conﬁrmatory test. Paper presented at the 7th annual conference of the Society for Industrial and Organizational Psy- chology, Montreal, Quebec, Canada.
-
-Canter, R. R. (1948). Psychologists in industry. Personnel Psychol-
-
-ogy, 1, 145–161.
-
-385
-
-386
+Burtt, H. E. (1926). Principles of employment psychology. New

@@ -1,11 +1,11 @@
-## hiring, promotion, and other decision-making procedures, ideally with
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52c23a459d89b64859ead0a5cc5797de98bcb04c
+title: H072GW-PDF-ENG
+---
+# implications for employee morale.
 
-substantial participation of those who are traditionally not represented,
+In particular, use Leventhal’s six procedural justice criteria when
 
-will likely surface areas for improvement. Just procedures:
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+evaluating whether your organization is inclusive. Evaluating your

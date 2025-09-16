@@ -1,49 +1,21 @@
-# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:33)(cid:33)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: 461ec1e420c48bf19b67dfc2f95fa4fd6607b942
+title: microsoft_word_performance_management_literature_review_doc
+---
+# (cid:33)(cid:45) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:2)(cid:6)(cid:2)(cid:8)(cid:13)(cid:35)(cid:10)(cid:14)(cid:15)(cid:13)(cid:2)(cid:3)(cid:7)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)(cid:17)(cid:2)(cid:18)(cid:15)(cid:2)(cid:19)(cid:10) (cid:10)
 
-organisations appraising employees once a year, and competencies were a common component (IRS, 2003). Performance and development needs were found to be measured against competencies in 56 per cent of these organisations and in the vast majority of organisations surveyed a job description was provided for the jobs being appraised.
+continued to be bureaucratic and time consuming. Indeed, one could argue that the very extension of the purpose of performance appraisal to include a broader- based assessment has added to its complexity.
 
-Plachy (1993) defines a job as a common definition of tasks that are the same whoever carries them out, while a role is a broader definition of requirements covering the contribution people make in achieving objectives, reflecting the different contribution individuals make, as well as the purpose of what they are doing. This move has supported the inclusion of competencies in appraisal and development processes. It has also encouraged some employers to link job tasks and competency development in a single role profile document.
+Effective appraisal systems are inextricably linked to the control over the complexity of the scheme. Strebler (2001) states the ‘increasing complexity of some of the systems might be a barrier. To make the process work, managers themselves have to be motivated to want to use it’. The report suggests that an important element of effective performance management is ‘user friendliness’, stating ‘users satisfied with their performance review system believed it did not cover too many purposes to be effective, irrespective of how many objectives it was trying to achieve and whether it was separated from assessment for pay or not. While overloading appeared a useful concept, it is perception of overloading that matters’ (Strebler, 2001, p.xi).
 
-A simplified example of this integrated role profile format from a multinational PLC is shown in Figure 5.1 below. The single document is used for job description and job evaluation purposes, as well as to identify competency requirements and skills development planning. An appraisal form is bolted onto it focusing on annual objectives and performance against them. The spread of more effective HR information systems has meant that these different systems – of appraisal, development, pay, recruitment etc. - are easier to link up and often can enable managers and employees to administer them more effectively.
+Good practice in performance appraisal systems, she suggests, is that they should have clear aims and be simple to understand and operate. They should also have their ‘effective use core to all managers’ performance goals and be closely allied to a clear and resourced training and development infrastructure’ (Strebler, 2001). Strebler also sensibly recommends that designing a system that satisfies users may encourage them to use it effectively.
 
-(cid:36)(cid:5)(cid:33)(cid:6)(cid:11)(cid:7)(cid:8)(cid:41)(cid:37)(cid:27)(cid:38)(cid:8)(cid:12)(cid:39)(cid:31)(cid:13)(cid:14)(cid:15)(cid:7)(cid:8)(cid:11)(cid:10)(cid:15)(cid:7)(cid:8)(cid:14)(cid:11)(cid:10)(cid:9)(cid:5)(cid:15)(cid:7)(cid:8)(cid:9)(cid:10)(cid:11)(cid:13)(cid:31)(cid:4)(cid:8)(cid:9)(cid:11)(cid:10)(cid:13)(cid:8)(cid:15)(cid:31)(cid:11)(cid:33)(cid:7)(cid:8)(cid:45)(cid:46)(cid:8)(cid:30)(cid:47)(cid:26)(cid:8)
+Coens and Jenkins (2000) thought that de-cluttering performance appraisal could best be achieved by going further still by focusing on final customer outcomes. In their work for the Police Department in Madison, Wisconsin, this means the citizen.
 
-(cid:22)(cid:10)(cid:15)(cid:7)(cid:8)(cid:5)(cid:2)(cid:18)(cid:5)(cid:28)(cid:31)(cid:4)(cid:10)(cid:11)(cid:3)(cid:8) (cid:8)
+Muras et al. (2008) advice around the implementation of performance management is straightforward ‘keep it as simple as you can—only go for increased complexity and precision where the effort warrants’. They argue that complex performance management systems will often ‘confuse rather than enlighten managers and employees’ due to the blend of ‘complex processes, competing IT systems, and multiple dashboards’ which often don’t provide the information that is valuable and therefore makes the measures of performance irrelevant. Finn (2007, cited in Wikina, 2008) also state that defining and understanding the performance management process as well as establishing the foundations of performance management are key steps in the foundations for successful performance management.
 
-(cid:10)
+(cid:38)(cid:46)(cid:33)(cid:46)(cid:33) (cid:31)(cid:15)(cid:6)(cid:30)(cid:23)(cid:15)(cid:4)(cid:15)(cid:9)(cid:7)(cid:13)(cid:15)(cid:5)(cid:8)(cid:10)(cid:5)(cid:4)(cid:10)(cid:13)(cid:21)(cid:2)(cid:10)(cid:9)(cid:5)(cid:6)(cid:30)(cid:2)(cid:13)(cid:2)(cid:8)(cid:9)(cid:24)(cid:10)(cid:23)(cid:15)(cid:8)(cid:40)(cid:10)
 
-(cid:48)(cid:23)(cid:7)(cid:7)(cid:18)(cid:8)(cid:4)(cid:10)(cid:8)(cid:18)(cid:10)(cid:43)(cid:8) (cid:8)
-
-(cid:1) (cid:47)(cid:2)(cid:24)(cid:10)(cid:30)(cid:16)(cid:3)(cid:30)(cid:5)(cid:28)(cid:2)(cid:10)
-
-(cid:1) (cid:1)(cid:3)(cid:15)(cid:6)(cid:7)(cid:3)(cid:24)(cid:10)(cid:7)(cid:9)(cid:9)(cid:5)(cid:16)(cid:8)(cid:13)(cid:7)(cid:22)(cid:15)(cid:23)(cid:15)(cid:13)(cid:15)(cid:2)(cid:28)(cid:10)
-
-(cid:1) (cid:47)(cid:2)(cid:24)(cid:10)(cid:30)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:6)(cid:2)(cid:7)(cid:28)(cid:16)(cid:3)(cid:2)(cid:28)(cid:10)
-
-(cid:1) (cid:17)(cid:2)(cid:30)(cid:5)(cid:3)(cid:13)(cid:15)(cid:8)(cid:12)(cid:10)(cid:28)(cid:13)(cid:3)(cid:16)(cid:9)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)
-
-(cid:1) (cid:48)(cid:15)(cid:8)(cid:7)(cid:8)(cid:9)(cid:15)(cid:7)(cid:23)(cid:10)(cid:15)(cid:6)(cid:30)(cid:7)(cid:9)(cid:13)(cid:10)
-
-(cid:1) (cid:25)(cid:2)(cid:9)(cid:15)(cid:28)(cid:15)(cid:5)(cid:8)(cid:10)(cid:6)(cid:7)(cid:40)(cid:15)(cid:8)(cid:12)(cid:10)
-
-(cid:10)
-
-(cid:10)
-
-(cid:10)
-
-(cid:48)(cid:23)(cid:7)(cid:7)(cid:18)(cid:8)(cid:4)(cid:10)(cid:8)(cid:25)(cid:2)(cid:10)(cid:24)(cid:43)(cid:8) (cid:8) (cid:1) (cid:31)(cid:30)(cid:2)(cid:9)(cid:15)(cid:4)(cid:15)(cid:9)(cid:10)(cid:2)(cid:49)(cid:30)(cid:2)(cid:3)(cid:15)(cid:2)(cid:8)(cid:9)(cid:2)(cid:41)(cid:40)(cid:8)(cid:5)(cid:19)(cid:23)(cid:2)(cid:32)(cid:12)(cid:2)(cid:10)
-
-(cid:10)
-
-(cid:48)(cid:23)(cid:7)(cid:7)(cid:18)(cid:8)(cid:4)(cid:10)(cid:8)(cid:49)(cid:7)(cid:43)(cid:8) (cid:8) (cid:1) (cid:20)(cid:5)(cid:6)(cid:30)(cid:2)(cid:13)(cid:2)(cid:8)(cid:9)(cid:15)(cid:2)(cid:28)(cid:10)
-
-(cid:1) (cid:15)(cid:8)(cid:10)(cid:24)(cid:5)(cid:16)(cid:3)(cid:10)(cid:7)(cid:3)(cid:2)(cid:7)(cid:10)
-
-(cid:1) (cid:14)(cid:2)(cid:18)(cid:2)(cid:23)(cid:10)(cid:5)(cid:4)(cid:10)(cid:9)(cid:5)(cid:6)(cid:30)(cid:2)(cid:13)(cid:2)(cid:8)(cid:9)(cid:15)(cid:2)(cid:28)
-
-(cid:1) (cid:15)(cid:8)(cid:10)(cid:5)(cid:13)(cid:21)(cid:2)(cid:3)(cid:10)(cid:7)(cid:3)(cid:2)(cid:7)(cid:28)(cid:10)
-
-(cid:1) (cid:7)(cid:9)(cid:3)(cid:5)(cid:28)(cid:28)(cid:10)(cid:4)(cid:16)(cid:8)(cid:9)(cid:13)(cid:15)(cid:5)(cid:8)(cid:28)(cid:10)
-
-(cid:1) (cid:50)(cid:16)(cid:7)(cid:23)(cid:15)(cid:4)(cid:15)(cid:9)(cid:7)(cid:13)(cid:15)(cid:5)(cid:8)(cid:28)(cid:41)(cid:19)(cid:5)(cid:3)(cid:40)(cid:10)(cid:2)(cid:49)(cid:30)(cid:2)(cid:3)(cid:15)(cid:2)(cid:8)(cid:9)(cid:2)(cid:10)
+Competencies are described by Whiddett and Hollyforde (1999) as the descriptors of skills, knowledge and behaviours that employees are expected to have to perform their roles effectively in an employer. A survey of 100 of the UK’s largest employers showed that appraisal systems are widely used, with seven in ten

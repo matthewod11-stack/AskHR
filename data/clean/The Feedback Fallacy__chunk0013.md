@@ -1,19 +1,15 @@
-# distortion than truth.
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 2ba82efcc017717cfa3cbe8f7dae0dcf53a42650
+title: The Feedback Fallacy
+---
+## competency, our harshness or leniency as raters, and our own inherent
 
-This is why, despite all the training available on how to receive feedback,
+and unconscious biases. This phenomenon is called the idiosyncratic
 
-it’s such hard work: Recipients have to struggle through this forest of
+rater effect, and it’s large (more than half of your rating of someone
 
-distortion in search of something that they recognize as themselves.
+else reﬂects your characteristics, not hers) and resilient (no training can
 
-And because your feedback to others is always more you than them,
-
-it leads to systematic error, which is magniﬁed when ratings are
-
-considered in aggregate. There are only two sorts of measurement error
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+lessen it). In other words, the research shows that feedback is more

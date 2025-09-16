@@ -1,15 +1,15 @@
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5316cf6ccc83d4a4104ae9c9eae2552cc51176b
+title: H08GJ6-PDF-ENG
+---
 ## HBR / Digital Article / How to Decide Which Innovation Projects to Greenlight
 
-Can you organize a collective decision process?
+See more HBR charts in Data & Visuals on HBR.org.
 
-Asking many people to weigh in on a decision creates well-known ineﬃciencies. Coordination takes time and eﬀort. Dates suitable for
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-everyone need to be found. All committee members will have less time
+7
 
-for their day jobs. You thus want to consider:
-
-- Whether your business can aﬀord a tad less agility
-
-- Whether your innovation processes can be aligned such that proposals
-
-are submitted in a standardized manner at the same time at regular
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

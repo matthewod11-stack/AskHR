@@ -1,21 +1,41 @@
-# emotions eﬀectively.
+---
+source_path: H08CWK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c3be0b7aebb7cfb763625a69fb04834b0b12fcf
+title: H08CWK-PDF-ENG
+---
+## promote growth, typically in response to a request.
 
-Pay attention to what triggers your feelings and how they aﬀect your
+When I worked with the Seattle Seahawks, we used to operate under the
 
-thoughts and actions. When you encounter strong emotions, take a
+maxim that “we know” the truth about what’s happening on our team.
 
-moment to pause and reﬂect. Instead of reacting impulsively, consider
+The outside world — the media and the fans — would throw things
 
-what the emotion is signaling and how it relates to the situation at hand.
+out there, and some may have hit a nerve every once in a while, but
 
-Shift your focus from the emotional turmoil (the noise) to the insights
+they were sharing opinions, not actionable feedback. Olympians are no
 
-within the experience (the signal). Ask yourself what went wrong, what
+diﬀerent. They tune in to the feedback of those who know them — and
 
-could be improved, and what insights can be learned.
+the rest becomes noise.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Manage your emotional response.
 
-4
+Beyond your trusted circle, you are your own next best feedback loop.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+You are a better tuning fork than most people around you because
+
+only you know whether your thoughts, emotions, and physiology are
+
+working in harmony or dissonance. This awareness allows you to detect
+
+subtle shifts in your mental and physical state, providing immediate
+
+and accurate feedback on what is and isn’t working.
+
+Emotions can distract and obscure the lessons embedded in your
+
+challenges and setbacks. To unlock the valuable information within
+
+your experiences, like Olympians you can learn to manage your

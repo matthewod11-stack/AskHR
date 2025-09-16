@@ -1,1 +1,7 @@
-# Leading Authors
+---
+source_path: research_on_unionized_grievance_procedures_management_issues_and_recommendations.md
+pages: n/a-n/a
+chunk_id: 45cdd492f57bd15315303d95f5f39567dacae721
+title: research_on_unionized_grievance_procedures_management_issues_and_recommendations
+---
+# Research Perspective

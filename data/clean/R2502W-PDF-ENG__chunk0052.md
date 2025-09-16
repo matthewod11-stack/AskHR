@@ -1,13 +1,21 @@
-## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b22e5e8d117aeca7f125aa4e4bc4c2d2235f1f5
+title: R2502W-PDF-ENG
+---
+# at every level of the company.
 
-its business impact. Research shows that AI can fail at the front lines,
+However, the imperative that all employees learn AI cannot be
 
-and employee training is an important way to avoid that outcome.
+overstated. Moderna’s success in rapidly deploying gen AI across
 
-Finally, a budget should be allocated for even early activities. As
+its enterprise was enabled by the creation of an “AI academy”—a
 
-companies realize a greater triple-product return, the cost of using AI
+mandatory internal course that included 20 hours of training on AI and
 
-will be more than oﬀset by productivity gains. Organizations will begin
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to regard AI as a core element in the budgets of all divisions, be they
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

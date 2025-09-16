@@ -1,13 +1,23 @@
-# on the show.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eea4e72623c6a6451d37b32b0bf7907a99999149
+title: H07T7V-PDF-ENG
+---
+# quarter-century long by this point.
 
-ANDREW MCAFEE:
+Generative AI is going to change the business world. It’s probably going
 
-Adi, always a pleasure. Thank you for having me.
+to do it quicker than a lot of us are thinking, and waiting around on
 
-This article was originally published online on September 15, 2023.
+the sidelines and not being part of that transformation is a deeply lousy
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+strategy: get a plan together and then just go do stuﬀ.
 
-21
+ADI IGNATIUS:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+All right, Andy, we’ve run a little bit long, so we’re going to cut you
+
+oﬀ here. I could talk all day with you about all these topics, and our
+
+audience is clearly into it and engaged. Thank you very much for being

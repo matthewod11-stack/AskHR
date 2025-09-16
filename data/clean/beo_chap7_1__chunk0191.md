@@ -1,7 +1,9 @@
-# Sloan Research Paper 4504-04.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: de6c29cc4f45430ac389bcaebb93aff1da912e37
+title: beo_chap7_1
+---
+# Harper and Row.
 
-Bertrand, M., and S. Mullainathan. 2001. Are CEOs rewarded for luck? The ones without
-
-principals are. Quarterly Journal of Economics 116:901-32.
-
-. 2003. Enjoying the quiet life? Corporate governance and managerial preferences.
+Bergman, N., and D. Jenter. 2004. Empioyee sentiment and stock option compensation. MIT

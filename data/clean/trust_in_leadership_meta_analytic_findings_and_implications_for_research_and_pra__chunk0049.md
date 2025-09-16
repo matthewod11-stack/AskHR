@@ -1,1 +1,7 @@
-# k
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: b9ad911b298c789b4f49cdcdc4c58675be01d6d9
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# Variable

@@ -1,31 +1,21 @@
-# mental health.
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 49116b0944459524997413a5a5a0f6dc75abd2d2
+title: H0719C-PDF-ENG
+---
+# speak.
 
-Use the right approach.
+Validate the person’s performance; they may experience strong self-
 
-Try reaching out in diﬀerent ways. Starting with a face-to-face
+doubt, which can be paralyzing. They may also experience imposter
 
-discussion may not be ideal, as people with mental health challenges
+syndrome or feel guilty for being a “weak link” or not “keeping up” with
 
-may feel ashamed or embarrassed. Reaching out with a call or text
+the team. Remind them of how they were able to overcome challenging
 
-message may be more eﬀective. If you talk in person, consider whether a spot away from the oﬃce would provide more privacy. Begin the
+tasks in the past, reassuring them that things will be OK, and making
 
-conversation by assuring that what you discuss will be kept private and
+them feel valued and needed. You can also help brainstorm other
 
-conﬁdential — and, of course, honor what you say.
-
-After the initial discussion, continue the conversation if the person
-
-is willing to, especially if they have shared sensitive information.
-
-Many people with mental illness fear being disliked, abandoned, or
-
-rejected once others learn of their illness. So continue to have regular
-
-conversations while gently checking in. Sometimes people are more
-
-willing to talk about stressors than a mental health challenge, even if
-
-the stressor led to their challenges. For example, you can ask, “How are
-
-the kids adjusting to school?” instead of, “Are you still stressed about
+ways to reduce their workload if that is negatively contributing to their

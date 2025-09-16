@@ -1,17 +1,21 @@
-## access to necessary information and tools.
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25a60fb8b379c0432c4bdd8c2719342da6094134
+title: H08MHC-PDF-ENG
+---
+## tools, requirements, or steps within the workﬂow.
 
-- 5. Listen
+- When users report “too diﬃcult,” break down arduous steps into
 
-Monitor the adoption of transformed workﬂows. Use instances of
+smaller, easier pieces, clarify data requirements and decision-making
 
-low adoption as an indicator of a lack of simplicity or eﬃcacy in
+models, and provide more support/tools to users within the workﬂow.
 
-transformed workﬂows, not as a measure of compliance. When low
+- 4. Partner Build an integrated team of staﬀ, managers, and leaders to co-design new, transformed workﬂows. Ensure that each workﬂow has clear goals
 
-adoption occurs, go back to step one.
+and objectives, that it’s easy to understand and execute, that the work is
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+easier to accomplish with the workﬂow than without it, that it accounts
 
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+for all reasonable scenarios users will encounter, and that users have

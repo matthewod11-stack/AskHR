@@ -1,23 +1,17 @@
-## Map the distribution of interpretations across departments, hierarchical
+---
+source_path: H08TXR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e046a39680effc34f8ef6c6e7371470e94aadfe
+title: H08TXR-PDF-ENG
+---
+# HBR / Digital Article / Avoid These Communication Breakdowns When Launching Stra…
 
-levels, and functional areas, identifying patterns of misinterpretation.
+communications, hold brief “interpretation checks,” asking recipients
 
-Then use those insights to create targeted clariﬁcation communications
+to articulate:
 
-that address speciﬁc distortion patterns.
+- What they believe the main message was.
 
-A technology ﬁrm that implemented quarterly “interpretation audits”
+- What speciﬁcally it requires of them.
 
-discovered that messages from headquarters were consistently interpreted diﬀerently by engineering versus sales teams. This insight
-
-led to the development of function-speciﬁc communication protocols
-
-that dramatically improved cross-functional alignment.
-
-. . .
-
-The standard advice to communicate clearly, check for understanding,
-
-and use concrete language remains valid but insuﬃcient. The
-
-communication leak points in organizations are structural and require
+- What questions remain unanswered.

@@ -1,5 +1,7 @@
-## Figure 3 12 Objectives and Performance Requirements
-
-MBO has many attractive features and is especially appropriate for management positions. Performance appraisals are job-related because the objectives define the most important aspects of job performance. Where factors are subjective, the personal- ity of a manager or subordinate may influence judgments. In some cases the superior may have difficulty explaining to the subordinate a discrepancy between objectives previously agreed upon and result, attained. Should this happen, discussions must be held by the two parties until a mutual understanding is reached. These discussions can focus on problems, ways to improve, and assistance needed.
-
-Like other appraisal systems, MBO has its disadvantages. Emphasis is placed pri- marily on tangible results that are easily measured. Consequently, there is often a failure to appraise important aspects of the job that cannot be explained or measured in quantitative terms. Even when such measures can be obtained, an individual's perfor- mance usually is affected by factors beyond his/her control. The exclusive use of MBO can hinder cooperation by encouraging a result-at-all-costs mentality that decreases the overall productivity of the organization.lg Finally, performance outcomes alone do not
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 7383d4bd76566fd48c4edd1940f911f4202a3aee
+title: document_resume
+---
+## Present program to five civic clubs during year

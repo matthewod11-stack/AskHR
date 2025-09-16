@@ -1,21 +1,15 @@
-# improvement
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 1497f0cdea0bcf8664599800374b04831418baad
+title: internship_report
+---
+# 1.2(cid:32) Background of the Report
 
-initiatives contingent workforce,
+There is no doubt that the world of work is rapidly changing. As part of an organization then,
 
-decentralized work sites and employee involvement are the issue for confront. Now it is a big
+HRM must be equipped to deal with the effects of the changing world of work. For them this
 
-challenge for the HRM to support the organization by providing the best personnel for the
+means understanding the implications of globalization, technology changes, workforce diversity.
 
-suitable position in shortest possible time. Starting with recognizing the vacancies and planning
-
-for them is a great task. Moreover selecting attracting the suitable candidates and selecting the
-
-best person in time is a challenge.
-
-The cost of the recruitment is significant. So, proper planning and formulate those plan is the
-
-task that require more focus and improvement. Equal opportunity and sourcing is also a vital
-
-part. Realizing this need we tried to find the difference and similarities between theoretical
-
-aspects with the practical steps taken by the company. We took an attempt to demonstrate the
+Changing skill requirements, continuous

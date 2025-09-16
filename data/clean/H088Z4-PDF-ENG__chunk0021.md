@@ -1,35 +1,23 @@
-# the previous year.
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb9e2b9c3bf6030f865d7519544d79cf435a7160
+title: H088Z4-PDF-ENG
+---
+# HBR / Digital Article / Research: Why Companies Should Disclose Their Lack of Progre…
 
-How would disclosing these unfavorable EEO-1 reports change how
+To examine this logic, in one study, we obtained real EEO-1 reports
 
-people viewed these companies? We recruited a diverse sample of 2,000
+— the previously mentioned numerical breakdowns of the racial- and
 
-people from the U.S. and asked half of them to share their impressions
+gender-makeup of companies by job category, including aggregated
 
-of the company after seeing their respective EEO-1 reports. For the other
+totals from the previous year — from 30 large companies like Apple,
 
-half of the people, we asked them to evaluate the companies but never
+Chevron, Costco, Netﬂix, and Starbucks that were publicly disclosed
 
-disclosed or made mention of their diversity numbers. We found clear
+in 2021. Generally, these reports revealed low levels of racial and
 
-evidence that disclosing unfavorable EEO-1 reports led companies to
+ethnic diversity, particularly in senior management. The reports also
 
-be viewed more positively than not disclosing them at all. Speciﬁcally,
-
-people viewed these companies as more genuinely committed to
-
-diversity and more trustworthy. They also reported being more likely
-
-to say that they would promote this company’s diversity eﬀorts to their
-
-network. Perhaps most striking, we asked people to what degree they
-
-thought the company had made progress in their eﬀort to increase
-
-diversity. People viewed the company that had disclosed the negative
-
-data as having made signiﬁcantly more progress than those that had
-
-never disclosed a single ﬁgure. The act of transparency meaningfully
-
-changed the way in which people understood the company’s struggles
+revealed that companies generally struggled to increase diversity from

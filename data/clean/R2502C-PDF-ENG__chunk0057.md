@@ -1,15 +1,19 @@
-## something bigger than the individuals in the business and something its
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1d78aa0a2dbfabf1b2e04244d026577534fdd0f
+title: R2502C-PDF-ENG
+---
+# Max Drekker
 
-team believes in. It can’t just be about ﬁnancials….They [the managers]
+In an interview published in 2023 in Health Club Management
 
-also need to convince us of the purpose in what they do, and how
+magazine, Mortensen was asked how SEB decides what market
 
-this aligns with our mission to improve the self-esteem of the world.”
+expansions to explore and which companies to acquire. His response
 
-Mortensen further explained that the business must have the right
+focused immediately on leadership’s mental model: “Any brand we
 
-people to drive it, a shared focus on proﬁts and performance metrics,
+acquire has to align with the four pillars—the four Ps—of our high-
 
-and a sense of playfulness that makes working together fun.
-
-SEB sees clearly that choices about markets and products must align
+performing culture….It must have a purpose that aligns with ours—

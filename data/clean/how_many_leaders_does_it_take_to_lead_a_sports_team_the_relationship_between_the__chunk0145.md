@@ -1,12 +1,18 @@
-# Role conflict
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 595cad67be2ceba0de334d888bbb345322d7a084
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Role clarity
 
-2.33 (87)
+(n = 68) 7.06 (1.28)
 
-1.92 (.75)
+(n = 87) 7.70 (.98)
 
-2.30 (.94)
+(n = 59) 7.23 (1.53)
 
-5.51
+5.24
 
 ��
 
@@ -14,4 +20,4 @@
 
 1.00
 
-.02
+.06

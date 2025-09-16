@@ -1,15 +1,15 @@
-# the local Wage and Hour Division oﬃce.
+---
+source_path: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas).md
+pages: n/a-n/a
+chunk_id: bcefe4775e628f809730a247b71b09c558f87337
+title: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas)
+---
+# DOL investigation or audit.
 
-The Department of Labor provides employers, workers, and others with clear and easy-to-access information and assistance on how to
+Both WHD and ETA may debar an employer or any successor in interest to that employer from receiving future labor certiﬁcations for up to three years if the employer substantially violated a material term or condition of its temporary labor certiﬁcation.
 
-comply with the Immigration and Nationality Act. Among the many resources available are:
+Foreign workers employed under the H-2A program are not covered under the Migrant and Seasonal Agricultural Worker Protection Act
 
-Section H-2A of the Immigration Act(https://www.dol.gov/whd/regs/compliance/whdfs26.pdf): This fact sheet provides general information concerning the application of the H-2A requirements to the agricultural industry.
+(MSPA); however, various other laws, such as workers' compensation, tax (unemployment insurance, local, state, and Federal), the Fair Labor Standards Act, and the Family and Medical Leave Act may apply to the employment of these workers.
 
-The Department's Employment and Training Administration oﬀers many helpful materials on its H-2A Temporary Agricultural Program
-
-webpage.
-
-Employment and Training Administration, Oﬃce of Foreign Labor Certiﬁcation(https://www.dol.gov/agencies/eta/foreign-labor) Contact the Oﬃce of Foreign Labor Certiﬁcation
-
-Tel: 1-877-US-2JOBS (1-877-872-5627) or 1-202-693-3010; TTY
+Copies of the application forms, regulations, and relevant directives may be obtained from the Employment and Training Administration's national oﬃce. Copies of Wage and Hour Division publications may be obtained from the Wage and Hour Division Web site or by contacting

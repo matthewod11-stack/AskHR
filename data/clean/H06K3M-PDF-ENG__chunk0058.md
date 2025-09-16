@@ -1,5 +1,11 @@
-# and retention.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f47cfe2764c720446d6b565abbb50b7b131721c
+title: H06K3M-PDF-ENG
+---
+## HBR / Digital Article / Collaboration Overload Is Sinking Productivity
 
-This article was originally published online on September 07, 2021.
+organizations that equip their employees to work more eﬃciently in this
 
-Rob Cross is the Edward A. Madden Professor of Global Leadership at Babson College in Wellesley, Massachusetts, and a senior vice president of research at the Institute for Corporate Productivity. He is the coauthor of The Microstress Effect: How Little Things Add Up— and What to Do About It (Harvard Business Review Press, 2023) and author of Beyond Collaboration Overload (Harvard Business Review Press, 2021).
+context will have an important advantage in terms of both performance

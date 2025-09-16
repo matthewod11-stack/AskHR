@@ -1,5 +1,9 @@
-# Competencies Are the Future
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: 3e11b31e7fd3be52c82d6739f155595282a920df
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+# the
 
-David McClelland (1973) is often credited with launching the competency movement with the publication of his paper “Testing for Competence Rather than Intelligence.” McClelland’s research suggested that aca- demic aptitude and knowledge content tests alone did not predict high job performance or success in life, and that individual character- istics or competencies can identify high per- formers. The use of competencies to identify high-performing people, or outstanding em-
-
-Human Resource Management, Fall 2002, Vol. 41, No. 3, Pp. 309–324 © 2002 Wiley Periodicals, Inc. Published online in Wiley InterScience (www.interscience.wiley.com). DOI: 10.1002/hrm.10043
+professionals can contribute to the organiza- tions’ achievement of their missions and goals by providing managers and employees with information and tools to meet these challenges by maximizing human capital. Competencies provide the foundation through which human resource professionals can contribute to the success of their organization.

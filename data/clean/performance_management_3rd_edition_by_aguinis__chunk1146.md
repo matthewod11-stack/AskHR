@@ -1,5 +1,7 @@
-# E
-
-- 4. Strategic planning and organizing
-
-Understands big picture and aligns priorities with broader goals, measures outcomes, uses feedback to change as needed, evaluates alternatives, solutions oriented, seeks alternatives and broad input; can see connections within complex issues.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a0b11d06f72f4e1debfda50bd742458d051d8147
+title: performance_management_3rd_edition_by_aguinis
+---
+# EE

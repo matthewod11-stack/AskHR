@@ -1,7 +1,21 @@
-# HBR / Digital Article / When Asking Too Many Questions Undermines Your Leadership
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 523dbb7e0e5c3064c5e8a5ff326e8df8dfec655d
+title: H08B1C-PDF-ENG
+---
+# Be decisive
 
-imposed deadline to act promptly. Share your thought process and
+To reassure stakeholders of your competence and leadership
 
-the reasons behind your decisions to underscore your leadership and
+capabilities, it’s critical to display conﬁdence in your knowledge and
 
-decisiveness, even as you continue to value learning and input from
+decisiveness in your actions while signaling an open mind and inclusive
+
+leadership style. After soliciting input and exploring options, set a self-
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

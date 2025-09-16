@@ -1,21 +1,53 @@
-## HBR / Digital Article / The Risks of Collecting Employees’ Biometric Data
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0730f9f7fdd0eb8bf47dea3a105ec69a8eb65b4
+title: H08QRZ-PDF-ENG
+---
+## potential layoﬀs, restructuring, or changes in job roles even if no
 
-over their bodily autonomy. Those who didn’t share their personal
+formal actions have been announced. But job insecurity can have a
 
-data worried they might be seen as not being a team player and
+high psychological toll, leading to stress, anxiety, and decreased job
 
-discriminated against as a result.
+satisfaction. The constant worry can distract employees from their
 
-In some cases, employees organized to ﬁght back. After Yale University
+work, lower morale, and reduce overall productivity. Managers may fail
 
-took health data screenings to an extreme by penalizing employees
+to notice negative impacts on employees because their attention is too
 
-for not participating, employees ﬁled a federal lawsuit against the
+focused on the positive goal of improving organizational metrics.
 
-university. The university recently agreed to a large settlement and a
+There are two ways that collecting this sensitive data can drive
 
-commitment from the university to suspend the penalty for at least four
+these feelings. First, when employees feel a loss of control over their
 
-years. In 2014, Honeywell was sued for mandating that employees and
+intimate bodily data, they can feel that their long-term prospects
 
-their spouses participate in health-data collection and screening, or face
+of gainful employment are threatened. For example, as part of
+
+forthcoming research we conducted a study on U.S. health insurers’
+
+practice of providing discounts to employers when employees agree to
+
+comprehensive physical screenings. On the surface, this seems like a
+
+win-win-win for the insurer, employer, and employees. The insights on
+
+employee health help the insurer better manage their risk exposure,
+
+the employer saves money and potentially sees more productivity, and
+
+employees are encouraged to be proactive about preventative care.
+
+Employees, however, didn’t always feel like they were getting a good
+
+deal—or much of a choice. Those who felt coerced into sharing health
+
+information said that it made them feel like they were giving up control
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

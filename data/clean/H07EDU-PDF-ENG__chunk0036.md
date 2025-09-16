@@ -1,9 +1,13 @@
-# How to Be Smarter about Workforce Change
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a04c3f0e4602eae4a0cd4fea5ffdb9a2f5536f47
+title: H07EDU-PDF-ENG
+---
+# changes.
 
-In the wake of the string of recent layoﬀs in tech, one economic
+The underperformance does lead, however, to an inescapable
 
-historian observed: “Far from cutting-edge, these layoﬀs mark a revival
+conclusion: Layoﬀs — and workforce change in general — still can be
 
-of long-discredited corporate strategies. If the trend continues, history
-
-suggests these tech leaders will leave their companies severely crippled,
+done smarter and better.

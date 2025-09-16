@@ -1,9 +1,7 @@
-## Moderating Effects of Definition of Trust
-
-The literature on trust includes multiple operational definitions, often considered to be subdimensions of trust. Thus it is curious that empirical studies seldom use more than one dimension within a single study and that researchers have developed few theoretical insights into the different effects that the multiple operationaliza- tions of trust might have or the differential determinants of those alternative definitions of trust. We have addressed the issue in two ways. First, we developed a theoretical framework that describes how the relationships between trust and its antecedents and con- sequences will vary depending on how trust is defined. Our theo- retical framework may provide additional insight because it also describes the different processes that mediate between antecedents, trust, and consequences. Second, we developed specific hypothe- ses to test those differential relationships. One limitation of this test was that, owing to a paucity of data, we were unable to
-
-The literature reviewed for this article suggests that the distinc- tions between trust and transformational leadership, satisfaction with leader, LMX, and consideration behavior are unclear and deserve attention in future research. Trust in leader had very high correlations with transformational leadership (r (cid:1) .72; rc (cid:1) .79) and satisfaction with supervisor (r (cid:1) .73; rc (cid:1) .85). Transforma- tional leadership and trust may overlap because the former is measured using behavior description items that are closely tied to trust (e.g., items in the multifactor leadership scale (Bass, 1985) such as “I am ready to trust in his/her capacity to overcome any obstacles”). The problem of item overlap is compounded by the fact that followers are usually asked to complete both instruments. Although the measures of trust and satisfaction with leader are less likely to overlap, it is possible that when respondents report their attitudes about the leader, it is difficult for them to separate the two constructs. That is, they may be reporting their global assessment of the leader rather than reporting on two separate constructs. Consequently, results likely overstate the true relationship between
-
-623
-
-624
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 84b3302f5e58ace4288e5dd372204ac2e09c8414
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+## Distinguishing Between Trust in Leadership and Other Constructs

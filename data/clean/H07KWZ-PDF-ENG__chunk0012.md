@@ -1,11 +1,9 @@
-# away.
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e0741a22113b7e2fd082af6050c5723dfe929bb
+title: H07KWZ-PDF-ENG
+---
+## HBR / Digital Article / What HBO’s “Succession” Can Teach Us About Negotiating
 
-Avoid offers you can’t justify.
-
-When Logan Roy learns about the presence of rival bidders (his own
-
-children), his advisors tell him he is “the solid option.” This leads him
-
-to feel conﬁdent about his bid. So, when Nan Pierce calls asking for a
-
-ﬁrm number, he replaces the “soft” $7 billion he ﬂoated earlier with a $6
+(real) high-stakes situations. Here are words to the wise on what to take

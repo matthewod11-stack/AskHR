@@ -1,11 +1,7 @@
-## The essence of risk management and further transparency on social, economic and
-
-environmental issues has been realized as part of the sustainability thinking of organizations
-
-for risk assessment of stakeholders and deciding priorities. Organizations mention risks in
-
-their sustainability report and continuously examine risks at stakeholders’ locations to
-
-minimize reputation downfall and facilitate transparency towards sustainable development.
-
-Formation of crisis teams and the audit of their contingency plans to ensure adequate
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 5974e32566e486b33a0c002c23598cf1041b4712
+title: issn_print_0976_013x
+---
+# bottom-line concept.

@@ -1,9 +1,7 @@
-# Institutions
-
-Several organizations are working to instill trust-building in AI and can
-
-oﬀer guidance on how to do so. These include academic institutions,
-
-such as the Institute for Ethics in AI at Oxford; non-proﬁts, such as the
-
-Partnership on AI; and initiatives funded by multiple philanthropies,
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cbb09a0c5d985942906c6c012f57c1ab0d8f0be3
+title: H08PLG-PDF-ENG
+---
+# adapt.

@@ -1,7 +1,7 @@
-# MirageC/Getty Images
-
-The average tenure of today’s chief revenue oﬃcer (CRO) is among the
-
-shortest in the C-suite, averaging just 25 months. For many companies,
-
-this duration doesn’t even equate to the duration of two sales cycles for
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf8df57af8b2c3b3bb3ceb8890f9e4f5dcfe9147
+title: H08FE6-PDF-ENG
+---
+## Published on HBR.org / October 10, 2024 / Reprint H08FE6

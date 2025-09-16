@@ -1,17 +1,45 @@
-# external pressures?
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6f576977721450628cb0aafca200e522075f862
+title: H0705Q-PDF-ENG
+---
+# comfortable monthly pension.
 
-- Are the other stakeholders under any constraints?
+While Bill felt that he and his parents were allowing enough time to
 
-Biases to look out for: planning fallacy (underestimating the time it will
+make a decision without too much time pressure, he realized that they’d
 
-take to complete a future task, despite knowledge that previous tasks
+all focused on annual costs without a good understanding of what
 
-have generally taken longer than planned); status-quo bias (preferring
+future medical expenses might be. But perhaps that was unknowable;
 
-the current state of affairs resulting in a resistance to change).
+there was likely a limit on how much the family could really plan.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Although Bill’s parents found two facilities that met many of their
 
-7
+criteria, each had a fatal ﬂaw. At one place, although they could buy
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in to the type of housing they needed now, there was no guarantee that
+
+housing with more care would be available when they needed it. The
+
+second facility, they realized, meant they would have to change primary
+
+care doctors because the drive would become too long. Both very much
+
+wanted to maintain their relationship with their primary care doctors,
+
+as they each had complex medical histories.
+
+To more clearly understand how structure might impact your decision-
+
+making, ask yourself:
+
+- What are the opportunities and limitations of the decision you are
+
+about to make?
+
+- Is there a time deadline?
+
+- Might the decision be ﬂexible or constrained by money or other

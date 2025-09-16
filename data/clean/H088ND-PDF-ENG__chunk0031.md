@@ -1,15 +1,15 @@
-## the perspectives of diﬀerent cultures, with guidance from colleagues
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5860a09e676a0ddb01156d1d007db81718ddf72b
+title: H088ND-PDF-ENG
+---
+## members and clients from across cultural backgrounds.
 
-who are experts in those cultural contexts. Moreover, they practiced
+And at a technology ﬁrm, Joy and her team facilitated interactive
 
-adapting their behaviors creatively to thrive in these new settings while
+sessions between company leaders and Asian employees, focusing on
 
-staying true to their core values and authentic selves. This exercise
+mutual learning and mentoring. Participants explored the logic behind
 
-enabled employees to learn from their diﬀerences, and to recognize the
-
-value that all cultures bring to achieving organizational goals.
-
-By enabling leaders to adeptly bridge cultures, this approach to
-
-leadership development transforms cultural diversity from a potential
+cultural norms — such as indirect or direct communication — from

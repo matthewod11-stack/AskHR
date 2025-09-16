@@ -1,17 +1,33 @@
-# decisions.
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4be5c73da4b95e8b4e0f8eb3b137bfb35cd47224
+title: H08SLG-PDF-ENG
+---
+# around.
 
-Spacious mode might be hard for you to see as a manager. Consider
+Elaine was introduced to us by her peer, Ben, who had recommended
 
-how your biases might play into this: The same behavior that in
+we speak to her for our research. He noted that in the high-pressured
 
-one employee may be labeled as annoying, wasteful and lazy, when
+transformation project they were leading, Elaine had, on several
 
-practiced by someone else (especially someone who is already more
+occasions, challenged the team’s viewpoint in a meeting and forced
 
-powerful) can be seen as strategic and evidence of their readiness to
+them to consider alternative courses of action. At the time, he reﬂected,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+there was some frustration in the team at being held up, but the team
 
-6
+agreed that the decisions they ended up making in the spacious mode
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that Elaine had brought into the conversation were wiser than those
+
+they had been about to make while in doing mode. Elaine and Ben’s
+
+manager recognized this not simply by complimenting Elaine, but by
+
+spending time explaining how her attention had beneﬁted the program.
+
+After this, when the team faced an important, adaptive challenge,
+
+they were more comfortable in pausing to examine and challenge key

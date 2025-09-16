@@ -1,31 +1,19 @@
-## a large group, then a facilitator gathering questions or chat group
+---
+source_path: H08QZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4590a872768031c6339ae947e9068a51b6bdd5c1
+title: H08QZW-PDF-ENG
+---
+## HBR / Digital Article / How to Lead an All-Hands After Delivering Bad News
 
-comments can be very helpful.” Pay close attention to what you hear,
+see a path forward, says Karamanis. “Conﬁdence is contagious when it’s
 
-advises DeChurch. “You might realize you missed a point for empathy,”
+grounded in credibility and care.”
 
-she says. “Or maybe someone will raise an operational question, or
+Open the floor
 
-something related to their functional job, and you’ll have a chance to
+You shouldn’t do all the talking—far from it, says Karamanis. Your
 
-adjust and reﬁne your approach.” Most importantly, the feedback will
+team will likely have things they’re wondering about so be sure to
 
-help you gauge whether your approach is landing. Remember: “The
-
-biggest driver of your team’s success is their understanding of how their
-
-role connects to the organization,” she says. And in this new context,
-
-that connection makes all the diﬀerence.
-
-Reawaken to purpose
-
-This isn’t a moment for Pollyanna optimism, but DeChurch
-
-recommends trying to end the meeting in way that leaves people feeling
-
-a sense of clarity and purpose. “People can’t leave feeling demoralized
-
-or scared,” she says. “They need to feel empowered.” She suggests
-
-drawing on an example that ties to the organization’s mission and
+“create space for questions.” And “if the meeting is virtual and involves

@@ -1,29 +1,21 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
-
-HERMINIA IBARRA:
-
-I do not have a crystal ball. I don’t know. All I know is that organizations
-
-are still trying to ﬁgure it out. They’re still playing with diﬀerent ways
-
-and trying to understand the employee experience. But that’s a question
-
-I can’t answer.
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1061ef00c7ce8f36807d34f1b8936de666ab9f23
+title: H07STF-PDF-ENG
+---
+# today.
 
 ADI IGNATIUS:
 
-Alright, here’s another question, this is from Ellie from Switzerland.
+I want to build on that with a question that’s come in from Hassam
 
-How should we think about the balance? If you switch careers, you
+in Rotterdam. How do you envision the evolution of the “employee
 
-jeopardize some of the seniority you’ve built up, and the beneﬁts and
+experience” in a world increasingly dominated by hybrid work models?
 
-positives that you’ve accrued. How can we avoid that or how can we
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-think about that trade oﬀ?
+7
 
-HERMINIA IBARRA:
-
-That’s another big question, am I going to have to start at the bottom? Or
-
-is there a way not to do that? It depends on what you go on to do next,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

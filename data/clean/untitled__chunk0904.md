@@ -1,9 +1,13 @@
-# American Psychologist, 17, 475–483.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 52e8738042b3de9ac327ad4c674fd4bea47f6663
+title: untitled
+---
+## and Psychological Measurement, 27, 811–820.
 
-Hunt, E., Frost, N., & Lunneborg, C. (1973). Individual differ- ences in cognition: A new approach to intelligence. In G. Bower (Ed.), The psychology of learning and motivation (Vol. 7, pp. 87–122). New York: Academic Press.
+Horn, J. L. (1994). Theory of ﬂuid and crystallized intelligence. In R. J. Sternberg (Ed.), The encyclopedia of human intelligence (Vol. 1, pp. 443–451). New York: Macmillan.
 
-Hunt, E. B. (1978). Mechanics of verbal ability. Psychological
+Horn, J. L., & Knapp, J. R. (1973). On the subjective character of the empirical base of Guilford’s structure-of-intellect model. Psychological Bulletin, 80, 33–43.
 
-Review, 85, 109–130.
-
-Hunt, E. B. (1980). Intelligence as an information-processing
+Humphreys, L. (1962). The organization of human abilities.

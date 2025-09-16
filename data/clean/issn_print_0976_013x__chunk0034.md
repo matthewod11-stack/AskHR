@@ -1,9 +1,11 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 0c6bd3420e26566e3f88e8a81592a189dfd89cf5
+title: issn_print_0976_013x
+---
+# Shivani Wadhwa and Parth Aggarwal
 
-Journal of Management & Public Policy,
+64-73
 
-Vol. 14, No. 2, June 2023, Pp. 4-8
-
-ISSN 0976-0148 (Online) 0976-013X (Print)
-
-DOI: https://doi.org/10.47914/jmpp.2023.v14i2.001
+3

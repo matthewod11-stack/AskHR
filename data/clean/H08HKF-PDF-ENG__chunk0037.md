@@ -1,29 +1,19 @@
-## other stakeholders (e.g., vendors, suppliers, strategic partners, etc.). It
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf246250fb09a9a85e343e14b3b2ad3476985791
+title: H08HKF-PDF-ENG
+---
+# Baby Steps
 
-also competes with other strategic priorities and contends with limited
+It is common for organizations to want to take “baby steps” in
 
-resources. For this reason a phased rollout of the RAI program is highly
+rolling out any enterprise-wide program. An RAI program is no
 
-recommended. In other words, taking baby steps to implement an RAI
+exception. Implementing new policies, governance structures and
 
-program is highly recommended. However, this must be distinguished
+entities, procedures, quality assurance and quality improvement,
 
-from taking baby steps in the design of the program. The program
+internal audits, training, etc. — each of which is a component of an eﬀective RAI program — is a complicated aﬀair.
 
-should be designed as fully as possible prior to implementation.
-
-An analogy is helpful. If you ultimately want a building with four wings
-
-but you only have the resources to build one of those wings, you would
-
-do better to complete the design of the four-wing building and then
-
-build in phases than you would to build a single wing and ﬁgure out
-
-later how to make additions to what you’ve already built. Similarly, it
-
-is better to design a complete RAI program and build in phases than
-
-to build a bit now and ﬁgure out later how to tack on other elements.
-
-Fortunately, completing design of an RAI program requires far fewer
+In large organizations, it aﬀects tens of thousands of employees and

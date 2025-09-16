@@ -1,29 +1,33 @@
-# long term.
+---
+source_path: H07WF3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa6b964eb01f428121fdab1bc6c4a8fb64cb8347
+title: H07WF3-PDF-ENG
+---
+# technology.
 
-In the middle of the spectrum, AI-powered tools can instead be used to
+Let’s start with steroids, the least desirable point on this spectrum.
 
-augment people’s skills and make them more productive. That’s what
+Steroids elevate short-term performance but leave you worse oﬀ in the
 
-we think of as the analog to a good running sneaker. Like Nike’s carbon-
+long term. For example, imagine a student who is assigned homework
 
-soled shoes that make runners on average 4-5% faster, some AI tools
+to read and critique a passage of text. The student could use a large
 
-can elevate performance in the moment without the long-term negative
+language model (LLM) as a steroid by simply dropping the text of the
 
-eﬀects of de-skilling workers. For example, LLMs are particularly useful
+passage into ChatGPT or any similar tool, prompting it to produce such
 
-for translating, reformatting, and annotating unstructured text, which
+a critique, and passing the output back to the teacher. While this gives
 
-can save knowledge workers considerable time and eﬀort. Imagine an
+the student the ability to complete the assignment in an instant, in the
 
-analyst who runs an international survey with free-form text responses
+long term it defeats the purpose of the exercise. Not only might the
 
-in 20 diﬀerent languages. An LLM could drastically reduce the time
+student fail to learn from the assignment, but they might never acquire
 
-it takes to translate these responses to one common language, score
+(or slowly lose) the ability to critique a passage and articulate their
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+thoughts in clear writing. Just as with sports, taking shortcuts to achieve
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a short-term goal can have negative consequences for other goals in the

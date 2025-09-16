@@ -1,9 +1,15 @@
-# statutes; or
+---
+source_path: Employment Law Guide - Whistleblower and Retaliation Protections.md
+pages: n/a-n/a
+chunk_id: 15a2a0353f38135acad33708b4329932ec546742
+title: Employment Law Guide - Whistleblower and Retaliation Protections
+---
+# by law.
 
-Complaining about a violation.
+The protected activities typically include:
 
-Many of the statutes speciﬁcally protect an employee's internal complaints to his or her employer, and it is the Department of Labor's position, as set forth in regulations, that employees who express safety or quality
+Initiating a proceeding under, or for the enforcement of, any of these statutes, or causing such a proceeding
 
-assurance concerns internally to their employers are protected under all of the whistleblower statutes
+to be initiated; Testifying in any such proceeding;
 
-administered by OSHA.
+Assisting or participating in any such proceeding or in any other action to carry out the purposes of these

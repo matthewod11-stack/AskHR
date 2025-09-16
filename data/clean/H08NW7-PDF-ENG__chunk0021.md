@@ -1,5 +1,11 @@
-## improvement rather than a deliberate embellishment. Further, when
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04c192cedca7ea321101992530d10c67b0a9f8bd
+title: H08NW7-PDF-ENG
+---
+# Shift focus to growth.
 
-others hear you acknowledge gaps in your ability, it actually strengthens
+Taking an honest assessment of your development needs can enable
 
-their respect for you and allows them to see your legitimate talents in a
+you to reframe past exaggerations as part of a journey toward

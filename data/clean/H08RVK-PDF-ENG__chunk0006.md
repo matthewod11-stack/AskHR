@@ -1,7 +1,13 @@
-## HBR / Digital Article / Is Your Flexible Schedule Burning You Out?
+---
+source_path: H08RVK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4816fcda6c4fa516e13e6c35257f9c2bf979ccd1
+title: H08RVK-PDF-ENG
+---
+# hours somewhere.
 
-But there are ways to be more strategic with your time and make
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-ﬂexibility work for you. Here are the steps you can take to restore your
+2
 
-work and life and show up fully present in both areas.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

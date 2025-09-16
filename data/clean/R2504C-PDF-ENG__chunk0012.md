@@ -1,15 +1,45 @@
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 354cba4b9d8683d28c57cb4ae4bcb3e9f597e595
+title: R2504C-PDF-ENG
+---
 ## HBR / Magazine Article / “Speed Is a Leadership Decision”
 
-more personalized over time. If you’re a golfer, it can ask, “What’s your
+Jassy unveils a revamped Alexa with AI features during an Amazon Devices launch in 2025. UPI/Alamy Live News
 
-handicap? Do you have a fast swing or a slow swing?” And it can explain
+I think people are excited about the middle layer, which is for people
 
-the beneﬁt of a graphite shaft versus a steel shaft. If you’re thinking
+who don’t want to have to build their own models but want to leverage
 
-about buying apparel, you can ask, “Does this brand run large or small?”
+an existing frontier model and customize it with their own data. We’ve
 
-We built a foundation model to compare all brands and identify which
+built a service called Bedrock, which oﬀers a large selection of leading
 
-ones run comparably small or large in order to recommend the right size
+third-party frontier models, including our own. It also has features that
 
-for you. Every part of our retail customer experience will be reinvented
+can help you build your own high-quality generative AI app. Bedrock
+
+has substantial traction. It hasn’t gotten as much public limelight, but
+
+these services are part of why we have a multibillion-dollar annual
+
+revenue run rate in the AI space.
+
+How will AI transform the customer experience?
+
+We’ve built a generative-AI-powered shopping assistant called Rufus
+
+that can make recommendations, ask questions to help you narrow your
+
+choices, and compare products. You can ask it any question, with any
+
+amount of detail, and it will answer. And this sales assistant is not
+
+going to move on to another career. It’s going to be with you and get
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

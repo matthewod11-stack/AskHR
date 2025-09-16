@@ -1,15 +1,17 @@
-## HBR / Spotlight / How Fast Should Your Company Really Grow?
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8781f4aa06c48a7c06a7875a5b0d85fe8cc6b0f
+title: S24021-PDF-ENG
+---
+## Northeast, South, Midwest, and Canada—a direction decision. And to
 
-In the aftermath of this change in strategy, the company struggled. Every
+finance growth, it began to sell franchises, a method choice; by 2019, 20%
 
-time it expanded into a new geography, it needed to develop a new supplier
+of its outlets were franchised.
 
-base to fulfill its fresh and local promise. And every franchise selection
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-required a time-consuming process to make sure the franchisee shared
+14
 
-the founders’ philosophy. The company’s leaders should have realized that
-
-they faced a strategic choice: Either align its growth strategy with its core
-
-value proposition—which would have meant slower growth, less-aggressive
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

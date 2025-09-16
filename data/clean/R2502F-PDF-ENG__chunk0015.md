@@ -1,13 +1,25 @@
-# from multiple backgrounds and cultures.
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c27012acf17199b610c4a98e7dbd92d8accbc1a2
+title: R2502F-PDF-ENG
+---
+## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
 
-All negotiations should begin with the question, “Does my counterpart want to work with me or against me?”
+Another reason to focus on the individual rather than the culture in a
 
-In such situations, it is nearly impossible to memorize and leverage
+negotiation is the infeasibility of becoming an expert in the customs
 
-all the cultural dimensions relevant for each interaction. What’s more,
+and norms of all the geographies in which one might do business.
 
-trying to be all things to all people only encourages your counterparts
+For example, an executive responsible for the EMEA region may have
 
-to question your integrity. You will constantly be outside your comfort
+morning negotiations with counterparts from Turkey and South Africa,
 
-zone, which makes you more vulnerable to ignorance, doubt, insecurity,
+followed by lunch with her boss who is expatriated from South Korea,
+
+then a meeting with executives from Ethiopia before closing a deal in
+
+the late afternoon with UAE nationals. The agenda for the next day might involve an entirely diﬀerent set of nationalities. And even when
+
+you are dealing with a single foreign country, teams may include people

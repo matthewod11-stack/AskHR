@@ -1,13 +1,15 @@
-# Examples:
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: b8e39cf24d6629fe28bc1bf15be39d757b6bc5a6
+title: prompt
+---
+# Prompt Engineering
 
-DO:
+Be speci(cid:341)c about the output
 
-Generate a 3 paragraph blog post about the top 5 video game consoles.
+Be speci(cid:450)c about the desired output. A concise instruction might not guide the LLM enough
 
-The blog post should be informative and engaging, and it should be
+or could be too generic. Providing speci(cid:450)c details in the prompt (through system or context
 
-written in a conversational style.
-
-DO NOT:
-
-Generate a blog post about video game consoles.
+prompting) can help the model to focus on what’s relevant, improving the overall accuracy.

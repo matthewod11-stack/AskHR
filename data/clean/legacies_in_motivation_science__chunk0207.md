@@ -1,3 +1,9 @@
-# Other Findings
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: 7174dec6fc98e8224d01570ba40979a247688256
+title: legacies_in_motivation_science
+---
+# DEVELOPMENT OF GOAL SETTING THEORY
 
-Among the other ﬁndings since 1990 are the following. First is the economic beneﬁts of goal setting. Schmidt (2013) calculated, on the basis of utility analysis, that given an average salary of $50,000, the average increase in output of employees is $9,200 a year as the result of a goal-setting intervention. Second, Klein et al. (2013) updated their goal commitment scale and identiﬁed several determinants of commit- ment. Third, Wood et al. (2013) updated the research on strategy as a moderator. Speciﬁc, challenging goals combined with appropriate strategies produce stronger performance effects than either one alone. Fourth, Sun and Frese (2013) shed light on multiple goal pursuit. Prox- imal goals are especially important for attaining sequentially interdependent distal goals that are long term and are complex for an individual or team (Latham & Locke, 2007; Locke, 2018b). Fifth, the goal-performance relationship is not restricted to the workplace. Goal setting has beneﬁcial effects in sports, psychotherapy, cre- ativity, leadership, negotiation, health care, and entrepreneurship. And sixth, writing about goals is beneﬁcial. For example, in the ﬁeld of education Morisano, Hirsh, Peterson, Pihl, and Shore (2010) found that when students wrote at length about their goals, their grades improved, regard- less of whether a goal for a speciﬁc grade had been set. Similar to Morisano et al.’s quantita- tive experiment, Travers (2013) conducted a qualitative study that showed the self-develop- ment beneﬁts of students simply writing about their goals. These ﬁndings are inconsistent with the goal setting theory, which advocates match- ing the goal to the desired outcome. Rather than viewing these results as a threat to our theory, we view it as an opportunity to expand it based on corroborating and further exploratory re- search.
+ship. The effects of goal priming are not limited to an individual’s performance. A primed goal can even increase satisfaction with customer service (Brcic & Latham, 2016).

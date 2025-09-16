@@ -1,11 +1,17 @@
-# What Do You Think? 7
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 16330ee738f7bb550ef95973a0f4ae3b671ee269
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Many opponents of such practices in the workplace
 
-Do you think the legal reasons for these workplace practices outweigh the ethical responsibilities of organizations? Are companies being unfair, and therefore, unethi- cal by engaging in such activities? What are the ethical responsibilities to employees from companies who chose to use such practices? What are some other ethical dilemmas that you think could arise from such practices? Conduct an Internet search on the Genetic Informa- tion Nondiscrimination Act signed by President Bush. Do you think that act is fair to employers and employees? Why or why not?
+say that there are many ethical issues involved with these practices: one of which is employee privacy. Critics state that there are certain aspects of an employee’s personal life, both at work and at home, that should not be available to employers, such as personal phone conversations or personal emails. Although making per- sonal phone conversations or personal emails may cut into company time, it is unrealistic to think that there are never times when it is necessary for an employee to do such personal things during work hours.
 
-7
+chapter 
 
-7
+Although some amount of employee monitoring, if used properly, may be useful to evaluate employees’ performance, critics say there should be a limit to how much monitoring can be done. Information that is gathered can be stored and used against the employee many years later, which could impact an employees’ potential promotion within the company or his/her references when applying to other companies. And it is not necessary that managers watch everything employees do to be able to fairly evaluate their per- formance. Some limits should be imposed, by law, including some mechanism that can warn employees when they are being monitored so that they will not be engaging in activities of a private matter.
 
-7
+As for genetic testing, this will remain an ongo-
 
-7
+ing debate. Opponents state that such screening violates the Fourteenth Amendment to the Constitu- tion, which provides equal protection to all people (not just healthy ones) and states that all people should be treated fairly. They state that a person’s health is a private matter and should not be under scrutiny of potential or actual employees. If compa- nies find out that applicants or employees are at risk for certain diseases, these applicants and employees will be treated differently from those who aren’t at risk. Not only is that breaking the law, according to critics, it is unfair, and therefore, unethical treat- ment of a certain class of people. Other objections to genetic testing include the fact that the validity and reliability of such tests have not been established, and the fear that the information gained from the genetic tests could fall into the hands of health care providers, who can then reject some people who may never actually end up with a disease from adequate health care coverage.

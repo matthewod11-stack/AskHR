@@ -1,3 +1,7 @@
-# proﬁtability.
-
-Hypothesis 1b: Higher levels of social capital (SC) increase proﬁtability. 0.18*** Direct Hypothesis 2: Higher levels of professional capital (PC) increase team
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: f3788970ee3c911fb69849c3c130d335b3e8a722
+title: original_article
+---
+# Supported

@@ -1,9 +1,21 @@
-## or "life time employment" (Bordwin, 1998).
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 0e89f5aa59b1f902f5a705d67d265d8e9a84e48a
+title: california_state_university_northridge_1
+---
+## the begiiuring to the end of the employment relationship.
 
-1.4. Avoid timing traps, which is discharging an employee "at a particular
+72
 
-point in time, which then becomes the basis of a lawsuit. For example;
+1.2. When recruiting and hiring beware of language used in your
 
-employee is fired shortly after events such as the following: engaging
+advertisement. Also be cognizant of any protected class under federal
 
-in a "protective activity" such as union activities; reporting OSHA
+and state statutes. In regard to gender-segregated ads, avoid them,
+
+unless they are a bona fide occupational qualification (BFOQ).
+
+1.3.
+
+If you are an at-will employer, do not use words such as "permanent"

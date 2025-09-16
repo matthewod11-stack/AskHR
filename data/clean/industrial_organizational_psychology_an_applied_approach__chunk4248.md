@@ -1,13 +1,21 @@
-## leadership style. Organizational Behavior and Human Performance, 18, 131–145.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8a8119af6a8549a59aa70d585b57cd600a11c613
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Jackson, S. E., & Schuler, R. S. (1985). A meta-analysis and
 
-Jamal, M. (1981). Shift work related to job attitudes, social
+conceptual critique of research on role ambiguity and role conﬂ ict in work settings. Organizational Behavior and Human Decision Processes, 36(1), 16–78.
 
-participation, and withdrawal behavior: A study of nurses and industrial workers. Personnel Psychology, 34, 535–547.
+Jackson, T. W. (2008). Apprenticeships: Creating new work- forces. Blue Ridge Business Journal, 20(12), 18–19.
 
-Jamal, M., & Crawford, R. L. (1984). Consequences of extended
+Jacobs, J. A., & Kearns, C. N. (2001). Responding eﬀ ectively to a
 
-work hours: A comparison of moonlighters, overtimers, and modal employees. Human Resource Management, 4, 18–23.
+claim of sexual harassment in the workplace. Association Management, 53(11), 19–20.
 
-Jamal, M., & Jamal, S. M. (1982). Work and nonwork experiences of employees on ﬁ xed and rotating shifts: An empirical assessment. Journal of Vocational Behavior, 20, 282–293.
+Jacobs, R. (1997). Organizational eﬀ ectiveness: Downsizing, one
 
-James, L. R. (1998). Measurement of personality through
+of many alternatives. Keynote address presented at the 18th annual Graduate Student Conference in Industrial Organizational Psychology and Organizational Behavior, Roanoke, VA.
+
+Jago, A. G., & Vroom, V. H. (1977). Hierarchical level and

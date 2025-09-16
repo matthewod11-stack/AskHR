@@ -1,15 +1,47 @@
-## HBR / Digital Article / How AI Can Help Managers Think Through Problems
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c4a34342a1f114caa8d9b8eac6909ad56f3192c
+title: H08L2R-PDF-ENG
+---
+# ways.
 
 What the manager can do in the dialogue What the AI can do in the dialogue
 
-- Validate
+- Provide context
 
-- Give different perspectives
+- Articulate
 
-- Decide
+- Give input
 
-- Challenge opinions
+- Exemplify
 
-The value of a co-thinking dialogue is not only in the output but also
+- Define criteria
 
-in the dialogue itself — in fact value is co-created through the various
+- Give options
+
+- Offer feedback
+
+- Wear different hats
+
+- Make comments
+
+- Propose
+
+- Add/drop options or ideas
+
+- Elaborate
+
+- Select
+
+- Suggest
+
+- Check
+
+- Analyze pros and cons
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

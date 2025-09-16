@@ -1,19 +1,21 @@
-# by name.
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 772699eea3d8f3f0289ceca4844a4be15e505926
+title: H08R20-PDF-ENG
+---
+## HBR / Digital Article / Great Leaders Make People Feel Noticed
 
-We descended into the cramped hallway at the tarmac level. It was
+Tanya is the cleanliness support coordinator who audits the planes and
 
-bustling with workers moving in and out to meet ﬂights. Tanya stopped
+is responsible for the team. When I met her, she took me to the agent at
 
-and asked a cleaner we passed how his daughter was. He pulled up a
+the ticket counter to get my pass for the day.
 
-photo on his phone, beaming. Then, she asked him a question she asked
+“Isn’t her smile the best?” Tanya said before explaining how long the
 
-everyone that day: “Is there anything you need from me?”
+ticket agent had been with the company and pointing out her favorite
 
-Tanya’s supervisor told me she’s in the top 10% of leaders in the
+things about working with her. Next, as we went through security, Tanya
 
-organization. In an occupation often rendered invisible, Tanya makes
-
-everyone feel seen. She notices—an overlooked but foundational
-
-leadership skill that’s increasingly needed today.
+found a TSA oﬃcer and asked how his vacation went and about his kids

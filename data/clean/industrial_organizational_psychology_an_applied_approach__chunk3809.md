@@ -1,21 +1,17 @@
-# changes for the sake of it.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9fa66891dea691135c0fe2ebde162f64ce7ca5f8
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Case law The interpretation of a law by a court through
 
-Change analyst A person who is not afraid of change but makes changes only when there is a compelling reason to do so.
+a verdict in a trial, setting precedent for subsequent court decisions.
 
-Change resister A person who hates change and will do anything to keep change from occurring. Chronic self-esteem The positive or negative way in which a person views himself or herself as a whole.
+Case study A training technique in which employees, usually in a group, are presented with a real or hypothetical workplace problem and are asked to propose the best solution.
 
-Chronological résumé A résumé in which jobs are
+Cause-and-effect relationship The result of a well-controlled experiment about which the researcher can confidently state that the independent variable caused the change in the dependent variable.
 
-listed in order from most to least recent.
+Central tendency error A type of rating error in which a rater consistently rates all employees in the middle of the scale, regardless of their actual levels of performance.
 
-Circadian rhythm The 24-hour cycle of physiological
-
-functions maintained by every person.
-
-Clarifier A type of structured interview question that clarifies information on the résumé or application. Closed desk arrangement An office arranged so that a visitor must sit across from the person behind the desk.
-
-Cluster grapevine A pattern of grapevine communication in which a message is passed to a select group of people who each in turn pass the message to a few select others.
-
-Coaching A method of training in which a new
-
-employee receives on-the-job guidance from an experienced employee.
+Change agent A person who enjoys change and makes

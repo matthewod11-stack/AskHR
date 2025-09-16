@@ -1,11 +1,9 @@
-## isn’t easy, particularly at work and particularly for people with a mental
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2eb878a6000c76a0eaa5ac95ff87a27906c4ce1c
+title: H0719C-PDF-ENG
+---
+# Talking to a Colleague One on One
 
-health condition. You don’t want to jump to conclusions about someone
-
-or seem judgmental. You don’t want to oﬀend a colleague. And you
-
-want to respect professional and personal boundaries. It may be most
-
-challenging to speak to people who have a serious mental illness, as they
-
-are often the most stigmatized, making them extremely reluctant to talk
+Knowing when and how to engage with someone who may be struggling with their mental health can be diﬃcult. Talking about mental illness

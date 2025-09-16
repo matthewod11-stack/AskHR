@@ -1,9 +1,11 @@
-## or minority communities in my company or in my community, not
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a16ba8dac0ae1973b81fd061808312ff7f4ca1ec
+title: H07RVB-PDF-ENG
+---
+# community.
 
-just the queer community, to look and see are we being representative
+I don’t think metrics should be used against us though either. I think
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-19
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they have to be used to say, “I would like to track all of the marginalized

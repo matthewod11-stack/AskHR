@@ -1,17 +1,9 @@
-## Bernardin, H.J. and Beatty, R. (1987), ``Can
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: a9ce89f7652ec6545cda934aa1f92b6021ae2a13
+title: journal_of_european_industrial_training
+---
+## Becker, T. and Klimoski, R. (1989), ``A field study
 
-subordinate appraisals enhance managerial
-
-[27]
-
-) T P (
-
-5 1 0 2
-
-h c r a
-
-M 8 0
-
-1 0 : 5 1 t
-
-A K R O C E G E L L O C Y T I S R E V N U y b
+of the relationship between the organizational feedback environment and performance'', Personnel Psychology, Vol. 42, pp. 343-58.

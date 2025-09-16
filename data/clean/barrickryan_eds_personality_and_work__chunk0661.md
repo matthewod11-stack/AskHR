@@ -1,5 +1,15 @@
-# bridge, MA: Harvard University Press.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 64aee577433c93d3e2202b84a8d482278731d351
+title: barrickryan_eds_personality_and_work
+---
+# House.
 
-Caldwell, D. F., & O’Reilly, C. A., III. (1982). Boundary spanning and in- dividual performance: The impact of self-monitoring. Journal of Ap- plied Psychology, 67, 124–127.
+Bott, E. (1957). Family and social network. London: Tavistock. Brass, D. J. (1984). Being in the right place: A structural analysis of indi- vidual inﬂuence in an organization. Administrative Science Quarterly, 29, 518–539.
 
-Carley, K. M. (1999). On the evolution of social and organizational net-
+Brass, D. J. (1992). Power in organizations: A social network perspective. In G. Moore & J. A. Whitt (Eds.), Research in politics and society (pp. 295–323). Greenwich, CT: JAI.
+
+Brass, D. J. (2001). Social capital and organizational leadership. In S. J. Zaccaro & R. J. Klimoski (Eds.), The nature of organizational leadership (pp. 132–152). San Francisco: Jossey-Bass.
+
+Brass, D. J., & Krackhardt, D. (1999). The social capital of twenty-ﬁrst cen- tury leaders. In J. G. Hunt, G. E. Dodge, & L. Wong (Eds.), Out-of- the-box leadership: Transforming the twenty-ﬁrst-century army and other top-performing organizations (pp. 179–194). Greenwich, CT: JAI Press. Burt, R. S. (1992). Structural holes: The social structure of competition. Cam-

@@ -1,25 +1,7 @@
-# jenniholma/Getty Images
-
-Inspired by the results of the famous orchestra study — where
-
-symphony orchestras began hiring more women by having people
-
-audition from behind a screen that concealed their gender — some
-
-major organizations are now using a “blind hiring” strategy to help
-
-achieve goals related to diversity. The typical blind hiring process
-
-involves stripping information from job application materials before
-
-review that could signal applicants’ memberships in speciﬁc groups
-
-and cue discrimination. Though not yet widespread, this de-biasing
-
-strategy is gaining traction: A recent survey of over 800 U.S.-based HR
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3cefa31c51865aebbf9c127af3c247fbd59c59f
+title: H07NT2-PDF-ENG
+---
+## Published on HBR.org / June 01, 2023 / Reprint H07NT2

@@ -1,11 +1,25 @@
-# Our approach: iterative development
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: c4b963e4e3254a4fb02dc447264e0be341ab3e63
+title: a_i_i_n_t_h_e
+---
+# time frames.
 
-OpenAI is organized around three teams. Our Research Team advances the foundations of AI, developing new models and capabilities. Our Applied Team turns those models into products, like ChatGPT Enterprise and our API. And our Deployment Team takes these products into companies to address their most pressing use casesV
+02
 
-We use iterative deployment to learn quickly from customer use cases and use that information to accelerate product improvements. That means shipping updates regularly, getting feedback, and improving performance and safety at every stepV
+Automating routine operations
 
-The result: users access new advancements in AI early and often—and your feedback shapes future products and models.
+Freeing people from repetitive tasks so they can focusY on adding value.
 
-4
+03
+
+Powering products
+
+By delivering more relevant and responsive customer experiences.
+
+3
 
 AI in the Enterprise
+
+But leveraging AI isn’t the same as building software or deploying cloud apps. The most successful companies are often those who treat it as a new paradigm. This leads to an experimental(cid:24) mindset and an iterative approach that gets to value faster and with greater buy-in from(cid:24) users and stakeholders.

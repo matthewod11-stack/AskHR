@@ -1,21 +1,43 @@
-# to higher resistance.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: dd9102bdf377417446c6d2b9609c250d43d17653
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+## Under dialogic communication and participation, unexpected reactions to a
 
-Such understanding brings about the need to identify the implications in
+change process would not promptly be seen as resistance. In fact, responses are
 
-resistance to change of what could be identified as dialogic or monologic participation,
+recognized as “expressions that are informed by what was said previously and what is
 
-and such a line of investigation would contribute to that line of research that explores
+happening currently”, without the negative label of representing a threat to what has
 
-the communicative nature of influences on change. Thus, it would be simultaneously
+been agreed before. Really influencing change is later an essential indicator of a
 
-strongly coherent with the logic underpinning a participatory approach (Russ, 2008) to
+dialogic communication. When carried out under dialogic communication “change
 
-constructivist ontology. Besides, as other scholars have already alerted, for practitioners
+initiatives would be open to change as they were implemented.” (Jabri, Adrian et al.,
 
-to be able to make good use of advice on involving employees when dealing with
+2008: 680).
 
-resistance to change, they need to know how employees react to the different nature
+That defines a proposed dimension to dialogic communication that was created
 
-through which such participation can be promoted (Seibold and Shea, 2001; Lewis,
+by the author of this research, called Input Use: if through the input collected during
 
-2006).This study is one step towards closing this gap in current research.
+communication effort the “change initiatives were open to change as they were
+
+implemented” (Jabri, Adrian et al. 2008: 680)
+
+If one considers that resistance does not come only from recipients but also from
+
+agents (Ford and Ford, 1995; Ford, Ford et al., 2008; Ford and Ford, 2009), and if
+
+agents do not truly receive and incorporate counter arguments into the content and
+
+process of change, then participation is not happening. In such cases, it is just voicing
+
+or considering participants as objects, which means it is monologic participation.
+
+Unfolding from the latest arguments, it is inferable that not all participation would
+
+minimize resistance as largely prescribed, but monologic participation could in fact lead

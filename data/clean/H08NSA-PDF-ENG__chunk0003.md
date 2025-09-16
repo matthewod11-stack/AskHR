@@ -1,35 +1,27 @@
-## HBR / Digital Article / Looking for a Sense of Purpose? Volunteer.
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5072bc8923f05feb37d12d12d49763ce45843406
+title: H08NSA-PDF-ENG
+---
+# Maskot/Getty Images
 
-That nagging feeling led him to ask himself deeper questions: What
+At age 29, Nick LoManto led a busy life. He was moving up in his
 
-am I contributing to my community? How can I make a bigger impact?
+job as a manager of investment analysts at the ﬁnancial services ﬁrm,
 
-Around that time, a ﬁreﬁghter friend asked if he’d ever thought about
+Vanguard. At home, he and his wife were settling into their marriage
 
-volunteering at the local station. The idea stuck.
+and starting to think about growing their family. “There I was, a ﬁnance
 
-Now, eight years later, LoManto spends three to 10 hours a week at
+professional with every gift a person could wish for,” he told me. But
 
-the Ludwigs Corner Fire Company, doing drills and responding to
+despite all he was building, LoManto couldn’t shake the feeling that
 
-emergency calls. To earn his certiﬁcation, he completed 196 hours of
+something was missing.
 
-in-person training. Volunteering as a ﬁreﬁghter allows him to give back
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to his community and set a positive example for his two small children.
+1
 
-LoManto said the community service aspect of being a ﬁreﬁghter fulﬁlls
-
-him beyond what he gets from his regular job, now as head of high
-
-net worth advice at Vanguard. “It gives me an even deeper sense of
-
-purpose,” he said.
-
-While the physical, mental, and emotional challenges of ﬁghting ﬁres
-
-aren’t for everyone, LoManto is one of many young professionals
-
-seeking fulﬁllment beyond their careers through volunteering. In
-
-the U.S. alone, nearly one-third of people aged 25 to 44 volunteer
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

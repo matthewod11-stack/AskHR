@@ -1,15 +1,35 @@
-# Christmas day.
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08e38ea9d15e20779ce9bfd5e5f54c42a12663d7
+title: H08T5A-PDF-ENG
+---
+## craved—or at least couldn’t function well without. One described
 
-One ﬁnding of our research was that the more people became
+the “adrenaline” of deadlines; another admitted they became “bored” without it. Even physical health was aﬀected: One participant’s
 
-synchronized with their organization’s rhythm, the more estranged they
+Apple Watch showed a sharp rise in resting heart rate during busy
 
-became from their own biological rhythm and the rhythm of their
+seasons, while others described taking antidepressants to get through
 
-family life. For example, many participants reported skipping meals,
+particularly demanding periods, and others mentioned excessive
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+drinking to try to decompress.
 
-4
+Critically, even when professionals tried to disconnect—during leave,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+illness, or family emergencies—the ﬁrm’s tempo lingered in their
+
+minds. They feared falling behind, missing opportunities, or appearing
+
+less committed. As one participant, a partner in a law ﬁrm, told us:
+
+“When we’re on holiday, I’d like to check that there’s nothing, otherwise
+
+I panic that there’s something happening that I don’t know about.
+
+And the children do notice that and they don’t like it.” Similarly,
+
+in an attempt to minimize the disruption of work on family time,
+
+another participant reported hiding in the bathroom to call a client on

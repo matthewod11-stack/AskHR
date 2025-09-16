@@ -1,7 +1,9 @@
-# 204 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b768cdc227c5d83514d2582f993eac7fd8e3e3e0
+title: barrickryan_eds_personality_and_work
+---
+## nization. Academy of Management Review, 11, 266–279.
 
-processes. In K. J. Klein & S.W.J. Kozlowski (Eds.), Multilevel theory, research, and methods in organizations: Foundations, extensions, and new directions (pp. 3–90). San Francisco: Jossey-Bass.
-
-LePine, J. A., & Van Dyne, L. (2001). Peer responses to low performers: An attributional model of helping in the context of groups. Acad- emy of Management Review, 26, 67–84.
-
-Levinson, D. J. (1986). A conception of adult development. American Psy-
+Kozlowski, S.W.J., & Klein, K. J. (2000). A multilevel approach to theory and research in organizations: Contextual, temporal, and emergent

@@ -1,19 +1,11 @@
-## prototyping and testing of new digital tools into standard procedures
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: caaff1d59799e58b685ecd5838628dc7a7e87a75
+title: S24051-PDF-ENG (1)
+---
+## Lighthouse Network. This community of cutting-edge manufacturers
 
-to help its teams continuously improve speed and quality. Managers
+applies digital technologies to continuously improve the performance
 
-at Hindustan Unilever’s Dapada factory use an app to track real-time
-
-performance metrics, such as worker productivity, and use the insights
-
-to maximize output. In both cases, technology is used to enhance
-
-teamwork, not to disrupt it.
-
-At McKinsey, we’ve launched Lilli, a knowledge and capabilities
-
-platform that uses generative AI to search and synthesize our entire
-
-knowledge library. Lilli is changing the way our teams operate, by
-
-accelerating problem-solving and giving team members more time to
+of cross-functional teams. For example, Bosch China incorporates rapid

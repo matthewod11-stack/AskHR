@@ -1,13 +1,31 @@
-# 10 surveyed factors.
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0cde50579010eeccb5dfafca5395ebf75b8ea77e
+title: H08TM9-PDF-ENG
+---
+## leave in the next two years than new executives.
 
-Today, we’re seeing many executives are simply looking for new
+Organizations looking to mitigate executive turnover and maintain
 
-challenges. Overall, executives cite growth-based concerns, including
+performance must focus on three key actions:
 
-career advancement opportunities (ranked 1st in the October 2024
+- 1. Identify what’s driving executive dissatisfaction in your organization.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Historically, executives have cited retirement and burnout as the
 
-2
+key factors behind their decision to leave. Although these remain
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+important, they’re not the only—or most important—drivers of
+
+executive turnover today. In fact, only 17% of executives in Gartner’s
+
+October 2024 survey who anticipate leaving their organization in the
+
+next two years plan to retire. Burnout factors like work-related stress,
+
+work-life balance, and mental health concerns only ranked 5th, 6th and
+
+7th respectively for executives with a high intent to leave (those who are
+
+actively looking for new jobs or plan to do so within the next year) out of

@@ -1,9 +1,9 @@
-# plan.
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fad4cabb9767b493d1193b17cfd26ea179a8ed6b
+title: R2402M-PDF-ENG
+---
+## With the Workers’ Party—known for its interventionist policies—in
 
-All the elements for a successful resolution are present, but overcoming
-
-mutual distrust will be the big challenge. If Paulo and Lucia can bridge
-
-that gap, leveraging their positions and inﬂuence judiciously, the future
-
-of the Campinas plant and its workers can be secured.
+power in Brazil, she can help ensure government support for Paulo’s

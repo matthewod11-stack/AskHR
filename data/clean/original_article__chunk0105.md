@@ -1,3 +1,7 @@
-## Total participants Total companies Percentage of public Average revenue size in
-
-182 directors 166 unique organizations (due to multiple same-company respondents) 70 per cent $2.2 billion, ranging from $0.2 to $95 billion
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 9768068ec329d6a6f09c7dddf18573338b39d505
+title: original_article
+---
+# Proﬁle

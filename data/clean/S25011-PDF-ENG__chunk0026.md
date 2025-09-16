@@ -1,19 +1,13 @@
-## HBR / Spotlight / How to Marry Process Management and AI
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9b293c571eb7b3d4830d52f6427be0c21df8b26
+title: S25011-PDF-ENG
+---
+# Jun Cen
 
-Now we’ll use OTC to explain how AI can ﬁt into process management,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-walking readers through how to apply it—including how to address the diﬃculties they will inevitably encounter.
+6
 
-Step 1: Establish ownership. The ﬁrst goal is to bring together a team
-
-of managers willing and able to take end-to-end responsibility for the
-
-performance of the process. That means naming a “process owner”
-
-to coordinate the work required and recruiting a team of “process
-
-managers” from the departments involved. For OTC processes, the team
-
-will include people from sales, operations, shipping, and ﬁnance, and
-
-other areas may contribute as well. These employees must be able to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

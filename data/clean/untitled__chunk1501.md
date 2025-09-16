@@ -1,3 +1,19 @@
-# 256 Psychology of Women and Gender
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2e04a27d18a69a864039e47146698011f98bdf88
+title: untitled
+---
+# Frameworks for Studying Women and Gender
 
-of the methods but of the methods themselves. Psychology, some feminist critics have charged, overrelies on laboratory experimentation, which strips away social context (Parlee, 1979). Some feminists have pointed out that psychology has a long but hidden tradition of inquiry that goes beyond labo- ratory experimentation (Marecek, Fine, & Kidder, 1997). Field research, observational techniques, content analysis, participant-observation, focus groups, and case studies are a few examples. A growing number of feminist researchers use these approaches as well as new modes of inquiry, such as discourse analysis, that draw on postmodern thought. The call for methodological pluralism has had some ef- fects, at least in some feminist circles. Feminism and Psy- chology, published in the United Kingdom and intended for an international readership, routinely publishes work using innovative approaches. Special issues of Psychology of Women Quarterly in 1989 and 1999 have focused on innova- tive methods and theory.
+Reﬂexivity is a broad concept. It can refer to a researcher’s disciplined reﬂection on how her identity and social location inﬂuence her work. It can also refer to a critical analysis of the relationships among researchers and participants. And, it can refer to a critical perspective on the discipline of psy- chology. We give examples of each kind of reﬂexivity in turn. Personal reﬂexivity is a continuing process of reﬂection on the part of the researcher about how her multiple identities (her social class, gender, age, status, feminist stance, ethnic- ity, and so on) inﬂuence her work. Psychology has long denied that the social identity of researchers affects their choice of research topics, theories, methods, and interpreta- tion of research results. By contrast, in taking a reﬂexive stance, a researcher acknowledges these connections, is will- ing to explore them, and recognizes that she is not exempt from the psychological processes she studies in others. For example, Deborah Belle (1994) reﬂected on how her position as a young, middle-class, white professional affected her re- lationship with and understanding of the low-income white and African American women she was interviewing. Ponder- ing the similarities and differences between herself and her respondents led Belle to insights about the limited utility of conceiving of race and class merely as categories of individ- ual difference, the complex signiﬁcance of social networks for poor women, and the inadequacy of equating poverty with current household income.
+
+Reﬂexivity also encompasses analysis of the social rela- tionships among various participants in the research enter- prise. Most researchers work in groups with differing levels of experience and skill, and most work in the context of hierar- the chical researchprocess.FrancesGrossmanandhercolleagues(2000) explored how their needs for equality and intimacy affected theirresearchonadultwomenwhohadexperiencedchildhood sexual abuse.These needs affected both their understanding of women’s accounts of abuse and their collaboration.
+
+institutions. These social conﬁgurations affect
+
+Reﬂexivity also refers to a critical stance toward the disci- pline. Early second-wave theorists such as Naomi Weisstein (1971) and Carolyn Sherif (1979) exemplify this critical stance. This form of reﬂexivity continues to the present. Richard Walsh-Bowers (1999), for example, has recently an- alyzed some underlying assumptions of the APA publication manual. Critically examining its implicit deﬁnitions of what counts as research and the roles of researchers and partici- pants, he discussed the manual’s function in socializing its users into the culture of the discipline.
+
+Methodological Pluralism. Both ﬁrst- and second- wave feminists criticized psychology’s research methods. With the second wave, however, has come a more fundamen- tal criticism, not merely of ﬂaws and biases in the application
+
+255

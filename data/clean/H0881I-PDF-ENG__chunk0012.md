@@ -1,31 +1,27 @@
-# changes.
+---
+source_path: H0881I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a923b2a74697f37d3640137babd3e8dc0b52442d
+title: H0881I-PDF-ENG
+---
+# Pace yourself.
 
-Build a support network.
+You may return to your professional life inspired and impatient to ﬁx
 
-You’ll want a support network both inside and outside your team.
+things right away. But pace and prioritization are paramount.
 
-Stay in touch with people you met in your development program to
+Of course, if the program has prompted you to realize that you have
 
-share advice and hold one another accountable. You might consider
+been procrastinating on a critical change and have the authority to
 
-creating a group on platforms like WhatsApp or establishing a buddy
+make it, do so immediately. Be courageous, communicate clearly, and
 
-system whereby partners check in every four to six weeks. Within your
+take action.
 
-organization, identify individuals in the best position to discuss and
+However, most changes will beneﬁt from a more gradual approach.
 
-advise on your intended changes and enlist them to provide regular
+Introduce new ideas incrementally, respecting others’ adaptation
 
-feedback and help you work through challenges.
+process. Small, consistent individual and team shifts are better accepted
 
-Stay the course.
-
-The only way to achieve change is through consistent eﬀort. Accept
-
-that your initial work is unlikely to yield immediate results, that there
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and less disruptive. Allow time for practice and reﬁnement to solidify

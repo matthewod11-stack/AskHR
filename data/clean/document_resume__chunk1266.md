@@ -1,5 +1,7 @@
-# late or
-
-I Unacceptable Neglects to perform required administrative responsibilities. Acts contrary to official policies. Submits late or poorly prepared reports and other requested materials.
-
-- 3. Supply Economy Conserves expendable supplies and accounts for and takes care of equipment.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: ba566eec19ccf2a02330f37d4c2804abd37ce82e
+title: document_resume
+---
+# administrative

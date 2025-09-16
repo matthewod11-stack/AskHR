@@ -1,1 +1,11 @@
-# Using Competency Models to Improve HRM
+---
+source_path: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari.md
+pages: n/a-n/a
+chunk_id: d8d52c3b9e6df311a211586e221474ae294de476
+title: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari
+---
+## The Applications of Competency Models to HRM Functions Competencies can be used
+
+in different parts of employee management applications, having an important role in each one of them. Competencies are important in the following employee management applications:
+
+Selection Competency-based selection is the oldest application among all human resources systems and can be traced back to McClelland's early work with competencies for hiring pur poses (Ozcelik & Ferman, 2006: 77). Competencies are used in order to compare the capabilities of the candidate with the requirements of the offered position; once the best candidate is identified, competency gaps form the basis for an initial new-hire learning pla 55). The purpose is n (Draganidis & Mentzas, 2006: to establish the "behaviors" needed in a particular job and the extent to which these ar e possessed by different candidates (Rowe, 1995). A competency model provides a complete picture of what it takes to perform the work so that interviewers can identify characteristics required to do the job well. Records of selection decisions and ratings of competency, if regularly acted upon, can help organizations improve the

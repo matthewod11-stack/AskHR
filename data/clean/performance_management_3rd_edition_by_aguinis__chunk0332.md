@@ -1,5 +1,9 @@
-# performance management systems.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b7eaaf4b2f8be93cd9a186bb8ec36706effd9363
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part I • Strategic and General Considerations
 
-(cid:2) Describe the employee’s role in performance execution, and distinguish areas over which the employee has primary responsibility from areas over which the manager has primary responsibility.
-
-(cid:2) Understand the employee’s and the manager’s responsibility in the performance
+(cid:2) Distinguish results from behaviors, and understand the need to consider both in

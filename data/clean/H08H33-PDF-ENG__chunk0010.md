@@ -1,23 +1,37 @@
-# more.
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf3637314ac5c6d06926ae18584c68c9ad3e1ccb
+title: H08H33-PDF-ENG
+---
+## Bringing in Ballmer changed Microsoft overnight. Why? He introduced
 
-- 2. Certain individuals are “hyper-performers,” who should be
+a wealth of new business ideas and skills at a strong, though somewhat
 
-incentivized and rewarded accordingly.
+geeky, engineering-focused company. Ballmer wasn’t just an additive
 
-In a perfect world, you’d always hire 10x performers for your company.
+hire that raised the level of internal Microsoft competence — he was a
 
-But in fact, HR processes often prevent this from happening. First,
+multiplicative one, galvanizing the company’s overall energy to a level of
 
-grading on a bell curve can discourage hyper-performers from joining,
+explosive growth, like a nuclear reactor reaching critical mass.
 
-as it restricts the proportion of employees rated as top performers, no
+A way to think about what happened at Microsoft is that Ballmer
 
-matter how well individuals perform. It’s like Coach Steve Kerr telling
+increased the talent density of the organization. His new set of skills
 
-the Golden State Warriors that only Steph Curry can make the All-Star
+and energy made everyone else more productive.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Talent density challenges the traditional bell curve concept, which has
 
-2
+dominated company hiring and compensation thinking for decades but
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+which can promote acceptance of some built-in mediocrity. The talent
+
+density approach emphasizes ensuring that every hire or promotion
+
+decision is a force multiplier that boosts the team’s overall capability.
+
+It’s based on two key principles:
+
+- 1. With the right support and training, every individual can achieve

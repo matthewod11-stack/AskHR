@@ -1,17 +1,13 @@
-# HBR / Digital Article / Why Employee Mediations Fail — and How to Get Them Back on…
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d04caea867f5cacef9b00d7054e45b5aac5c9247
+title: H075PH-PDF-ENG
+---
+# disputants together.
 
-The ﬁxer can address tight constraints by calling them out and if
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-necessary, discussing and solving them with the involved parties
+5
 
-to make the necessary accommodations. This can trigger a more
-
-cooperative dynamic. The ﬁxer can also leverage certain constraints to
-
-begin to lower the aspirations of anyone who’s completely stuck in their
-
-position or is there only to prevail. For instance, if the ﬁnancial costs of
-
-a stalled project are escalating due to the dispute, the ﬁxer might play to the budget concerns of the disputants to get them to budge oﬀ their
-
-position. Note that playing the ﬁxer role well often requires a can-do
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,13 @@
-# The scale
+---
+source_path: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis.md
+pages: n/a-n/a
+chunk_id: 004bc3f5ad377ce1b5ad285a8582341b21c23fe1
+title: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis
+---
+## Employee Net Promoter Score (eNPS) as a Single-item Measure of Employee…
 
-In the question that the NPS is based on (How likely is it that you would recom- mend X company to a friend or colleague?), an 11 point scale is used. The respond- ents mark their willingness of recommendation from 0 to 10, where 10 means “ex- tremely likely” to recommend, five means neutral, and 0 means “not at all likely”. Reichheld and his team noticed that the customers (or respondents) can be divid- ed into 3 groups. Based on that, he created a quite strict rule how to characterize them. Depending on the answer, the respondents were categorized as “promoters” in the case of those who answer 10 and 9, “passively satisfied” refers to those who marked 8 and 7 and those who chosen from 6 to 0 are called “detractors”. Taking only the 2 highest answers to describe “promoters” was in Reichheld’s opinion the solution for the tendency of people to give rather positive answers in such surveys. This decision however, leads to an asymmetry during the final score computation. The score of the eNPS indicator is counted as the percentage of promotes deducted by percentage of detractors. So theoretically the eNPS scores can be from –100% (only detractors) to +100% (only promoters).
+Although linking survey results to actual companies’ results and customers be- haviour is surely a good idea, there is a statement of Reichheld’s which can cause confusion:
 
-10 11
+[…] my colleagues and I looked for a correlation between survey responses and ac- tual behavior – repeat purchases, or recommendations to friends and peers – that would ultimately lead to profitable growth. Based on information from 4,000 con- sumers, we ranked a variety of survey questions according to their ability to predict this desirable behavior10.
+
+Interestingly, that actual recommendations to friends and peers was treated as a depend variable. It seems obvious that the question about the willingness of such a recommendation happened to be a good predictor of such behaviour. It is not a mistake. The same information was later repeated in the Reichheld’s ar- ticle: “The data allowed us to determine which survey questions had the strongest statistical correlation with repeat purchases or referrals”11. There was no infor- mation which of the output (repeated purchases or referrals) was more important. There is also no information about the correlation indicator.

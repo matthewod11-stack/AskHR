@@ -1,33 +1,9 @@
-# move without you.
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6debe71b2b14db00a6c9ebacbf52ee4180abfd3c
+title: H08VTH-PDF-ENG
+---
+## distinguish between critical, strategic, and nonessential work. The goal
 
-- 3. Level Up Your Delegation
-
-Managing a team that’s exponentially larger requires more than just
-
-trusting others. It’s about multiplying your impact through them. You
-
-can’t scale by doing more. You scale by focusing on what only you can
-
-do and empowering others to lead the rest.
-
-Identify and develop your next-level leaders, team leads, trusted
-
-lieutenants, or senior individual contributors who can own decisions
-
-and drive outcomes in their domains. Then empower them: Give them
-
-autonomy, coach them regularly, and provide the context they need to
-
-lead with insight, not just instructions. Done well, it doesn’t just lighten
-
-your load; it grows your inﬂuence and your bench.
-
-For instance, an SVP at a healthtech company implemented this
-
-strategy by appointing “area leads” across her major functional
-
-domains. Each had ownership to make decisions, run meetings, and
-
-escalate only when necessary. This resulted in faster decision-making,
-
-higher morale, and better execution. It also positioned three team
+isn’t to micromanage—it’s to light the path clearly enough for others to

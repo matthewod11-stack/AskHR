@@ -1,13 +1,39 @@
-# objectives.
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: b44cd2a24928f5ff0e19a5d768233039651f71b9
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# 5.5(cid:32) Recommendations
 
-(cid:51)(cid:54)(cid:32)
+The recommendations to the study includes both suggestions to Cooperative Bank
 
-(cid:32)
+Management as well as other human resources practitioners that wish to implement
 
-The impact of coaching program should be evaluated. The line managers should
+coaching in their organizations to manage the performance of their employees.
 
-compare the benefits of coaching with the objectives that were set before coaching
+Given the significant impact of coaching on employee performance a number of
 
-commenced. This can be reflected through performance ratings, and employees’
+coaching sessions should be included in the training and development program for
 
-reaction to the benefits of coaching
+the organization. The inclusion of coaching should not have to be limited to
+
+improving employee’s performance on their current job. It should be designed to
+
+meet the goals of the organization as well as those of the employees.
+
+A personal analysis should be done before commencing coaching to determine if
+
+the employee is ready for the program. The line manager should examine the
+
+employee’s current performance against the standard to help them identify strengths,
+
+weaknesses and needs. Records such as customer complaints, absenteeism,
+
+productivity reports can be used to determine the employee’s needs
+
+The line managers should undergo regular training to acquire skills and best
+
+practices in coaching. This will assist them in identifying the specific job
+
+performance skills needed and developing specific measurable and performance

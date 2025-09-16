@@ -1,13 +1,9 @@
-## as an opportunity for collaborative value creation, companies can
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3701e3bf567d9904a631485b54481d0a6237e25
+title: H08IVM-PDF-ENG
+---
+## negotiations, better acceptance rates, and most importantly, more
 
-unlock new sources of growth, foster innovation, and build the kind of
-
-resilient, adaptive partnerships needed to thrive in an uncertain future.
-
-The question is no longer “How can we win this negotiation?” but rather
-
-“How can we use this negotiation to create lasting value for all parties
-
-involved?”
-
-This article was originally published online on December 18, 2024.
+successful business relationships. By reimagining contract negotiation

@@ -1,19 +1,25 @@
-## in the incident or activity under investigation
+---
+source_path: Employment Law Guide - Lie Detector Tests.md
+pages: n/a-n/a
+chunk_id: 6bd581c0977953807a3a8326d84237395ad407de
+title: Employment Law Guide - Lie Detector Tests
+---
+# act) and Spanish(https://www.dol.gov/agencies/whd/posters/employee-polygraph-protection-act/espanol). Posting of
 
-The signature of a person (other than the polygraph examiner) authorized to legally bind the employer
+the EPPA poster in Spanish is optional.
 
-Every employer who requests an employee or prospective employee to submit to a polygraph examination
+Notices. There are speciﬁc notices that must be given to examinees and examiners in instances where polygraph tests are permitted:
 
-pursuant to the ongoing investigation, drug manufacturer, or security services EPPA exemptions must provide:
+When a polygraph test is administered pursuant to the economic loss or injury exemption, the employer is
 
-Reasonable written notice of the date, time, and place of the examination and the examinee's right to
+required to provide the examinee with a statement prior to the test, in a language understood by the
 
-consult with legal counsel or an employee representative before each phase of the test
+examinee, which fully explains the speciﬁc incident or activity being investigated and the basis for testing
 
-Written notice of the nature and characteristics of the polygraph instrument and examination Extensive written notice explaining the examinee's rights, including a list of prohibited questions and topics,
+particular employees. The statement must contain, at a minimum, the following information:
 
-the examinee's right to terminate the examination, and the examinee's right to ﬁle a complaint with the
+An identiﬁcation with particulars of the speciﬁc economic loss or injury to the business of the employer
 
-Department of Labor alleging violations of EPPA
+A description of the employee's access to the property that is the subject of the investigation
 
-Employers must also provide written notice to the examiner identifying the persons to be examined.
+A detailed description of the basis of the employer's reasonable suspicion that the employee was involved

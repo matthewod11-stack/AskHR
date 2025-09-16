@@ -1,15 +1,31 @@
-# heard and understood.
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e4337d0bc93c2754292e782f3fae89953045cde
+title: H07KWZ-PDF-ENG
+---
+# Negotiate process, not just substance.
 
-When the process is negotiated in good faith and agreed upon by both
+The type of bidding war that the Roy siblings and their father entered
 
-sides, it can help establish a sense of fairness and transparency. This
+into is dangerous territory, as it can lead to overbidding and overpaying.
 
-can set up a more collaborative negotiation process and increase the
+To avoid this trap, the Roy siblings could have tried to negotiate the
 
-likelihood of reaching a mutually beneﬁcial agreement.
+process before making a bid. For instance, they could have asked Nan to
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+agree to a single-round auction with no “funny” bids (such as bidding a
 
-6
+dollar more than what the other bidder oﬀered).
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Negotiating the negotiation process can include setting ground rules,
+
+agreeing on a timeline, and establishing the roles and responsibilities
+
+of each party. In a business negotiation, the parties might agree to
+
+a speciﬁc meeting format, including how long each person will have
+
+to speak and when breaks will be taken. Such rules establish a clear
+
+structure for the negotiation and can help ensure that both parties feel

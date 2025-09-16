@@ -1,23 +1,51 @@
-# HBR / Magazine Article / Why CEOs Should Think Twice Before Using AI to Write Mess…
+---
+source_path: F2503A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 022bdf6dba6d8be55cd2b608223adc3f365ee4fc
+title: F2503A-PDF-ENG
+---
+# stand by everything in the message.
 
-What other gen AI use cases would you like to try?
+How has gen AI changed your writing process?
 
-We’re discussing whether a chatbot version of me, like the one used in
+My first drafts are way more polished than they used to be. I’ve never
 
-Professor Choudhury’s experiment, can serve as a proxy for me. So, if you’re
+had ghostwriters or PR people writing for me; I would say that 90% of my
 
-an employee struggling with a particular situation and you want to know
+communication has always come from me. The people who have edited
 
-how I would feel about it, you can chat with the Wade Bot to see what
+my work or have given feedback still do, except now they know to look
 
-advice it offers. There are ways in which a bot version of me would be a
+for the standard things we all must look for in writing assisted by gen AI,
 
-better sounding board for employees than I would. The bot is more patient,
+such as hallucinations and stunted, robot language. They also catch stuff
 
-it’s never angry from a previous meeting, it doesn’t judge you and your
+that AI wouldn’t because they understand Zapier-specific context, such as
 
-question. I try not to do these things, but I’m human. We would need to
+our culture, our strategy, and our customer base. Generic large language
 
-post caveats and disclaimers so that people don’t treat the Wade Bot’s
+models don’t have that context, so they’re not going to be able to give me
 
-responses as my directives, but I think it would create another outlet for
+advice or feedback that requires that level of specificity.
+
+Did the bot’s imitation of your writing impress you?
+
+It was hit-or-miss. There were times when I read an answer and thought,
+
+That’s better than what I could have come up with! I never read an answer
+
+and thought, That’s not me! But there were times when I thought, I kind
+
+of disagree. The longer I thought about these answers, the better I could
+
+trace a response back to something I’d written in the past. But the bot was
+
+lacking the context and nuance of my past answers. Others might not have
+
+realized that it was off, but because it was imitating me, I noticed.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

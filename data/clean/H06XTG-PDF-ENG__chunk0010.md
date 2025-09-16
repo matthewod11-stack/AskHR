@@ -1,13 +1,17 @@
-# from greater autonomy.
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bfa6f7c2d1aa347677ac17f784a6ae4040c23ba
+title: H06XTG-PDF-ENG
+---
+## and collaborate with their international teams.
 
-For example, our interviews suggested that in the tech sector, Chinese
+- 1. How fast-paced is your business sector?
 
-customers expect new rollouts, features, and updates at a much faster
+The ﬁrst key question to ask is, what is the pace at which your
 
-rate than those in other global markets. Thus, to compete in this space,
+business sector has been growing in this new market? Fast-paced sectors
 
-companies have to move fast or risk getting left behind. China’s leading
+usually require faster decision-making to respond to rapidly evolving
 
-ride-hailing app Didi Chuxing, for instance, launched its core product
-
-just three months after the company was founded — a lot faster than
+opportunities and threats, and so teams in these sectors often beneﬁt

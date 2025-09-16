@@ -1,13 +1,11 @@
-## your experience and expertise, the situation or task at hand, and the
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d325b59bb71e0bf9ce5b80572813a2e4c1ac9c08
+title: H08NJ7-PDF-ENG
+---
+# Different Coaching Styles
 
-experience level of the person you’re coaching.
+As an executive coach, I’m often asked if there is one “right way”
 
-For new and seasoned managers alike, this can feel tedious, and frankly,
-
-a lot to ﬁgure out—which is why I designed a framework to help
-
-managers navigate their coaching journey. The framework, which I
-
-simply call Coaching Styles, draws upon the research I conducted for
-
-my book, including interviews with over 100 leaders across various age
+to coach. The answer is no; your coaching style will depend on

@@ -1,23 +1,25 @@
-## Kjellberg, A., Landstrom, U., Tesarz, M., & Soderberg, L. (1996).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 41e344425bd8d2a3df5c770a710d66e826676184
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Kirkman, B. L., Rosen, B., Gibson, C. B., Tesluk, P. E., &
 
-Th e eﬀ ects of nonphysical noise characteristics, ongoing task and noise sensitivity on annoyance and distraction due to noise at work. Journal of Environmental Psychology, 16(2), 123–136.
+McPherson, S. O. (2002). Five challenges to virtual team success: Lessons from Sabre, Inc. Academy of Management Executive, 16(3), 67–79.
 
-Kleiman, L. S., & White, C. S. (1991). Reference checking: A ﬁ eld
+Kirkman, B. L., & Shapiro, D. L. (2001). Th e impact of cultural
 
-survey of SHRM professionals. Applied H.R.M. Research, 2(2), 84–95.
+values on job satisfaction and organizational commitment in self-managing work teams: Th e mediating role of employee resistance. Academy of Management Journal, 44(3), 557–569.
 
-Klein, H. J., Wesson, M. J., Hollenbeck, J. R., & Alge, B. J.
+Kirkpatrick, D. L. (1986). Performance appraisal: When two jobs
 
-(1999). Goal commitment and the goal-setting process: Conceptual clariﬁ cation and empirical synthesis. Journal of Applied Psychology, 84(6), 885–896.
+are too many. Training, 23(3), 65–68.
 
-Klein, J. D., & Pridemore, D. R. (1992). Eﬀ ects of cooperative
+Kirkpatrick, D. L. (2000). Evaluating training programs: Th e four levels. In G. M. Piskurich, P. Beckschi, & B. Hall (Eds.), Th e ASTD handbook of training design and delivery (pp. 133–146). New York: McGraw Hill.
 
-learning and need for aﬃ liation on performance, time on task, and satisfaction. Educational Technology Research and Development, 40(4), 39–47.
+Kirnan, J. P., Farley, J. A., & Geisinger, K. F. (1989). Th e
 
-Kluger, A. N., & Colella, A. (1993). Beyond the mean bias: Th e
+relationship between recruiting source, applicant quality, and hire performance: An analysis by sex, ethnicity, and age. Personnel Psychology, 42(2), 293–308.
 
-eﬀ ect of warning against faking on biodata item variances. Personnel Psychology, 46, 763–780.
-
-Knauth, P. (1996). Designing better shift systems. Applied
-
-Ergonomics, 27(1), 39–44.
+Kittleson, M. J. (1995). An assessment of the response rate via the postal service and email. Health Values: Th e Journal of Health, Behavior, Education and Promotion, 19(2), 27–39.

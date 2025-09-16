@@ -1,21 +1,17 @@
-## don’t fully capture broader performance in company operations.
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8cc239b8750720d061772a7ba0034bc5ce87e9d
+title: R2405D-PDF-ENG
+---
+## “The Balanced Scorecard: Measures That Drive Performance,” Robert
 
-Let’s return to the example of wage increases. Costs are easily measured, while boosts in productivity can be diﬃcult to quantify. That can
+S. Kaplan and David P. Norton opened with a simple observation: “What
 
-lead managers to focus narrowly on the cost of better pay and fail
+you measure is what you get.” Although their article predates the era
 
-to appreciate the potential gains. A broader analysis would take an
+of modern analytics, that idea is more apt than ever. Experiments and
 
-approach like the one seen in a study by economists Natalia Emanuel
+predictive analytics often focus on outcomes that are easy to measure
 
-and Emma Harrington. They set out to understand the implications
-
-of warehouse pay levels set by a large online retailer. The researchers
-
-examined changes in productivity after a 2019 pay increase for
-
-warehouse workers and found that improvements in productivity and
-
-turnover were so large that the wage increases more than paid for
-
-themselves. They found similar results when they looked at the eﬀects
+rather than on those that business leaders truly care about but are diﬃcult or impractical to ascertain. As a result, outcome metrics often

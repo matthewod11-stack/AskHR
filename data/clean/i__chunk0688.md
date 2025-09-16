@@ -1,7 +1,7 @@
-# 2019-HRSystemsSurvey-WhitePaper
-
-(cid:111) Falletta, S. (2015). Point/counterpoint: Should companies have free rein to use predictive analytics. HRMagazine: On Human Resource
-
-Management,
-
-26327.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 3245667a6699be8eb46b6fa7d1bdeb891a31b424
+title: i
+---
+## https://www.scribd.com/document/525117632/Sierra-Cedar-2018-

@@ -1,9 +1,13 @@
-# their mistakes.
+---
+source_path: H08OVY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb63c3265baa68c3a33734c9a5ff3c4e1fd414e8
+title: H08OVY-PDF-ENG
+---
+# undermining.
 
-This article was originally published online on April 17, 2025.
+- Dig in your heels for the sake of it; stand ﬁrm but be open to
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+alternatives and willing to ﬁnd a middle ground
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Rub it in if you’re right and your boss didn’t listen; let them learn from

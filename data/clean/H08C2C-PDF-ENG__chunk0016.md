@@ -1,11 +1,9 @@
-## information about the new sales-tracking software in a manual or online
+---
+source_path: H08C2C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63085e26392a96e3330ca58295144e048e9bc2d9
+title: H08C2C-PDF-ENG
+---
+## strategic connections with people on your list.
 
-course, connect your new employee with an expert user, who knows
-
-the software and which aspects are most important to understand ﬁrst,
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+For example, instead of asking new employees to read all the

@@ -1,21 +1,9 @@
-# 10.4 SELECTING A CONTINGENT PAY PLAN
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 7ef418e635d87a3e01ca0c2db3f3f9427406d3fb
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part IV • Reward Systems, Legal Issues, and Team Performance Management
 
-Assuming an organization wishes to implement a CP plan, what should the plan look like? Recall the discussion of various forms of compensation provided in Chapter 1. What considerations should be taken into account in choosing, for example, among offering employees group incentives, profit sharing, or individual sales commissions? A critical issue to consider is that of organizational culture. An organization’s culture is defined by its unwritten rules and procedures. For example, is the organization funda- mentally built around individual performance, or is teamwork the norm? Is the organi- zation one in which high-level performers are regarded as role models who should be emulated, or are they viewed as a threat to upper management?19 Are we happy with the current culture, or do we wish to change it? CP plans are powerful tools that help solidify the current culture, and that can be used to create a new type of culture. There should be a careful consideration of the culture of the organization before a specific type of CP plan is selected.
-
-Consider the types of systems that can be implemented in cultures that we can label traditional or involvement cultures. Traditional cultures are characterized by top-down decision making, vertical communication, and clearly defined jobs. What type of plan should be implemented in organizations with this type of culture? An effective choice would be a plan that rewards specific and observable measures of performance, where that performance is clearly defined and directly linked to pay. Examples of such CP systems are the following:
-
-- Piece rate.
-
-Employees are paid based on the number of units produced or repaired. This system is usually implemented in manufacturing environments. In service organizations, this could involve the number of calls made or the number of clients, or potential clients, contacted. This system is usually implemented in call centers.
-
-- Sales commissions.
-
-Employees are paid based on a percentage of sales. This
-
-system is usually implemented in car dealerships.
-
-- Group incentives.
-
-Employees are paid based on extra group production based on result-oriented measures (e.g., sales volume for the group). This system is implemented frequently in the retail industry.
-
-Involvement culture is different from traditional culture. Organizations with involvement cultures are characterized by shared decision making, lateral communications, and loosely
+from the automotive division of Sears, a leading retailer of apparel, home, and automo- tive products and services, with annual revenues of more than US $40 billion. Its CP plan rewarded employees on the basis of parts and services sold to customers who brought cars in for repair. In California, a disproportionate number of Sears auto centers were making repairs. The California Consumer Affairs Commission conducted an 18-month investigation, during which it sent some of its members to the auto centers posing as customers. What did they find? Sears employees were “finding” a lot of problems and making a lot of unnecessary repairs. Half of Sears’ 72 auto-service centers in California were routinely overcharging customers for repairs, and Sears mechanics billed the undercover agents for work that was never done on 34 of the 38 undercover operations.18

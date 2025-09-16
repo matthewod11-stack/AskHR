@@ -1,9 +1,23 @@
-## HBR / Digital Article / What Comes After DEI
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84a4b775036c25e0fa9b69fdb93af0273371221d
+title: H08LGU-PDF-ENG
+---
+## Ruchika T. Malhotra, author of Inclusion on Purpose. “Actions most
 
-People want more diverse, equitable, and inclusive workplaces, but the initiatives and approaches common to mainstream DEI are far from the only way to achieve them.
+often change as a result of intentionally designed processes. For
 
-This development in the DEI space has been a slow-moving revolution
+example, designing a more equitable hiring process actually beneﬁts
 
-resisted by leaders and practitioners more comfortable with the status
+people of all backgrounds. But if people are resistant to the word
 
-quo. Now, DEI must adapt in exactly this way if it wants to survive.
+‘equitable,’ it shouldn’t stop leaders from designing for better hiring
+
+outcomes using the same principles.”
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

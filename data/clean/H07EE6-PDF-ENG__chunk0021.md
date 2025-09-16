@@ -1,13 +1,13 @@
-## The MD program counteracts this challenge in two ways: First, MD
+---
+source_path: H07EE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12debb23832e04b4f21bde8cd518e6bd3b7a41d3
+title: H07EE6-PDF-ENG
+---
+## conduct in the workplace on the employees themselves. Complaint
 
-staﬀ take on the primary burden of investigation and resolution,
+processes can be lengthy with little reward, and disillusionment among
 
-involving complainants only when necessary. Second, and perhaps
+workers — a pervasive feeling that speaking up would not lead to
 
-most importantly, the MD program drastically shortens complaint
-
-investigation timelines: Records show the median investigation was
-
-one day, and full resolution of a complaint took about ﬁve days. This
-
-compressed timeline is due in large part to how the MD program
+meaningful change — is a problem for hotline utilization.

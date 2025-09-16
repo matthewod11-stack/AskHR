@@ -1,13 +1,19 @@
-# 3.2.5. Sales and productivity growth
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 9f4755830c3e5750bec4f341056f52518adb6b7d
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# 3.2.4. Organisational performance
 
-We used three indicators from Carlson, Upton and Seaman (2006) to measure the effects of
+To build the performance factor, we used variables from Rutheford, Kuratko and Holt (2008)
 
-coaching on indicators of growth. The first variable is “Growth in sales in the past three years”,
+and Molina, Claver, Pereira and Tarí (2009). The first variable is “What is the firm’s
 
-with a weight of 0.878. The second is “Productivity growth in the past three years”, which has
+profitability?”, with a weight of 0.895. The second is “What is the rate of return on assets?”,
 
-a weight of 0.774. The third is “Growth in market share in the past three years”, with a weight
+which has a weight of 0.960. The third is “What is the profit margin?”, with a weight of 0.869.
 
-of 0.818. The KMO test value for this factor is 0.775, the variance explained is 68.23,
+The variance explained is 71.56, the value of the KMO test is 0.709, the Cronbach’s alpha is
 
-α=0.746, and r=0.771.
+α=0.814, and r=0.801.

@@ -1,11 +1,21 @@
-## HBR / Digital Article / How to Decide Which Innovation Projects to Greenlight
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e1c87afefbe37814ac7117f3ff081387ea94469
+title: H08GJ6-PDF-ENG
+---
+# An Executive Decides
 
-But the top boss does not know everything, and even if they had several
+Investing scarce resources into new product development, early-stage
 
-experts to rely on, it is often hard to know in advance whose expertise
+ventures, or scientiﬁc research, can be daunting. The scope for
 
-would be best applied. Delegating the assessment of a project to a
+breakthrough ideas is huge and ﬁnancial means typically limited.
 
-known expert best suits those projects that look familiar, not those that
+Sometimes these decisions come down to one senior leader.
 
-are more ambitious.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,23 @@
-## Using Simulation Exercises to Practice New Skills
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 5a0437e222b78058565f156be84cf597de7997c7
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Using Case Studies to Apply Knowledge
 
-Whereas case studies are effective in applying knowledge and learning problem- solving skills, simulation exercises allow the trainee to practice newly learned skills. Simulations offer the advantage of allowing the trainee to work with equip- ment under actual working conditions without the consequences of mistakes. For example, using a cash register or taking a customer’s order is easy to learn. But it is a much more difficult task with a long line of angry customers or irritable coworkers. Simulation exercises allow the trainee to feel such pressure but with- out actually affecting the organization’s performance.
+Once employees have received the information they need through lecture, it is important that they be able to apply what they have learned. One way to do this is through the case study. Case studies are similar to leaderless group discussions and situational interview problems (which were discussed in Chapter ), and are considered to be good sources for developing analysis, synthesis, and evaluation skills (Noe, ). With this method, the members of a small group each read a case, which is either a real or hypothetical situation typical of those encoun- tered on the job. The group then discusses the case, identifies possible solutions, evaluates the advantages and disadvantages of each solution, and arrives at what it thinks is the best solution to the problem.
 
-Like all training methods, simulation exercises come in many different forms. Some, such as airline simulators, are extremely expensive and complex to use, but others, such as a simulated restaurant counter, are relatively inexpensive. For example, each week at the Salamander Restaurant in Cambridge, Massachusetts, servers role-play such situations as medical emergencies and computer breakdowns (Gruner & Caggiano, ). Another good example of an inexpensive simulation exercise is that used by nurses to teach patients with diabetes how to administer their insulin shots—the patients practice by injecting water into oranges.
+For case studies to be most successful, the cases should be taken from actual situations. For example, to make their case study more realistic, General Elec- tric employees in New York use actual information about a problem within the company. Trainees not only discussed the problem but interviewed employees to gather more information. This use of a living case was found to be superior to the typical case study. Not only was the problem relevant, but also the solution could actually be used, thus providing an incentive for the trainees to take the training program seriously. A drawback to the living case study, however, is that trainees may not be the best individuals to solve the problem.
 
-Whatever the method used, a simulation exercise can be effective only if it physically and psychologically simulates actual job conditions. For example, dummy simulators are a standard part of cardiopulmonary resuscitation (CPR) training provided by the American Red Cross. People practice CPR on the dum- mies, which simulate the human body and also provide feedback on pressure and location of chest compressions. Although the use of these CPR simulators is probably better than lecture alone, there is some concern that the dummies do not adequately simulate the feel of the human chest. Even worse, practicing CPR on a dummy in front of fellow employees does not involve the pressure or envi- ronment that is often encountered in an actual emergency.
+In addition to being realistic, case studies should be interesting. They are best when they are written in the form of a story, contain dialogue between the char- acters, use realistic details, are descriptive and easy to follow, contain all informa- tion necessary to solve the problem, and are difficult enough to be challenging (Owenby, ).
 
-Although most simulators do not exactly replicate actual physical and psy- chological job conditions, they are still better than the single alternatives of either lecture or actual practice. That is, training a pilot is cheaper on a simulator than on a passenger jet, and it is safer (for humans) for a medical student to practice on a pig than on a sick patient. Rapid advances in virtual reality technology hold tremendous promise for trainers (Hurst, ). Virtual reality is already being used to train soldiers, surgeons, air traffic controllers, and police officers. The day that we can exactly simulate real working conditions may not be far away.
+To increase the effectiveness of case studies, trainees should first be taught the principles involved in solving a particular type of problem, helped to use those principles in discussing the case, and then have the principles reinforced after reading the case study. If the key principles are not taught and reinforced, trainees tend to focus too much on the content of a particular case study when trying to solve future problems rather than using the key principles (Allen & Connelly, ).
+
+designing and evaluating training systems
+
+305
+
+306
+
+chapter 

@@ -1,39 +1,45 @@
-# worker's compensation claims.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 1b7ba145f2e1a91ae0032871f260f52d12c69429
+title: california_state_university_northridge_1
+---
+# The Doctrine's Exceptions
 
-In respect to breach of contract, there are cases where the courts have looked at
+At-will employment rule faces rejection by courts in 40 to 45 states. The at-will
 
-the employers' statements, also including spoken assurances. It is important to recognize
+employment doctrine is used in 49 states with the exception of Montana. Court rulings on
 
-that cases, which involve spoken promises, come down to hearsay and do not stand up
+this issue have altered the effect on at-will employment, by direct holdings or with strong
 
-well in court. Conversely, written statements within a job offer letters, handbook and
+dicta stated in the reported cases. Such modifications of the doctrine are embedded in
 
-personnel polices are more successful than cases focusing on verbal statements made in a
+three theories. The three theories are, breach of employment contract, followed by bad-
 
-meeting. A hypothetical situation, if a job offer letter states that an executive will be hired
+faith discharge and public policy tort. In respect to breach of employment contract, the
 
-at $85,000 per year and in actually the starting salary is $78,000, a problem exist. The
+courts have ruled that the employer has "entered an expressed or implied contract with an
 
-executive in auestions has a reasonable exnectation that he or she wi11 start with a salarv of
+employee that provided that the employee may be terminated only for cause or in
 
-.I.
+accordance with established policies and procedures" (Aalberts et al., 1993). The second
 
-·-
+theory is bad-faith discharge. This "cause of action is also referred to as the "implied
 
-.I.
+covenant of good faith and fair dealing," whereby the employer breaches a contract in bad
 
---
+faith after the employee has developed a relationship of trust, reliance, and dependency
 
---
+with the employer" (Aalberts et al., 1993). The last theory is public-policy tort, which is
 
---
+siwilar to bad-faith discharge. ~·An employer who discharges an employee for a reason
 
---
+30
 
---------
+that violates public policy may have committed this tort" (Aalberts et al., 1993). No
 
-------------.,
+contract is necessary for this cause of action (Aalberts et al., 1993). The four main public
 
-$85,000 and may not have taken the job if $78,000 was initially offered.
+policy protections are serving jury duty, refusal to committee and illegal act on the behalf
 
-Another hypothetical situation, where written procedures
+of the employer, whistle blowing on an individual or the company itself and :filling

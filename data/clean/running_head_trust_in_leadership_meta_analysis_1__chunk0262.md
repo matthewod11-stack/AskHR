@@ -1,5 +1,7 @@
-# of Management, 25, 897-933.
-
-Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff, N. P. (2003). Common method
-
-biases in behavioral research: a critical review of the literature and recommended
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 558a92b81aa39f87a33aeb091e3b7198138f29e3
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# mediators for transformational and transactional leadership: A two-sample study. Journal

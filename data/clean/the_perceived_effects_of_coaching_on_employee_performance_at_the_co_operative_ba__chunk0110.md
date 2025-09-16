@@ -1,25 +1,15 @@
-# through question 8B and 10B.
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 14b4c73aa467c5fbb202855561384bb8c84847cd
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# 4.3.1(cid:32) Financial Perspective
 
-Figure 4.3.1.1: The bank’s overall performance responses
+The improvement in employee performance had a ripple effect on the bank’s overall
 
-The bank’s overall performance for the last four years is shown in figure 4.3.1.2
+performance. As illustrated in figure 4.3.3.1 below 94% of the respondents
 
-below. This improved performance confirms that engaged and high performing
+overwhelmingly agreed that the overall performance of the bank, as measured by
 
-employees make organizations more profitable.
-
-(cid:50)(cid:55)(cid:32)
-
-(cid:32)
-
-(cid:32)
-
-Figure 4.3.1.2: The bank’s profitability for the last four years
-
-The findings indicate that coaching’s impact on the overall reported performance of
-
-the organization (as opposed to performance of individuals) is also associated with
-
-coaching success. When the bottom-line impact that coaching has on the overall
-
-business, the association with coaching success is strong and positive
+profit before tax, has significantly improved. These responses were captured

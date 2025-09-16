@@ -1,13 +1,13 @@
-# life.
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64dd14984dbb24490ec4363ef04cfb97ebe12ea3
+title: H08NW7-PDF-ENG
+---
+## HBR / Digital Article / When You Oversell Your Abilities and It Backfires
 
-Increased stress and anxiety
+in personal relationships or professional settings, credibility is hard to
 
-Keeping up a facade requires constant eﬀort and can lead to signiﬁcant
+rebuild once lost. Worse, any legitimate talents you do have will get
 
-stress and anxiety. The fear of being exposed or failing to meet the
-
-expectations you’ve set can take a toll on your mental and emotional
-
-well-being, along with the emotional stress you cause others you’ve
-
-coopted into your hallucination.
+devalued as people question your credibility across multiple aspects of

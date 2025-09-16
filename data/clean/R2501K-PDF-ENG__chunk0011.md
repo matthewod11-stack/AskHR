@@ -1,23 +1,19 @@
-# the people in the test group react.
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0ee9841c06391f74670c1739d9ed673356ebb23
+title: R2501K-PDF-ENG
+---
+# Human Behavior
 
-Consider Kirsten, a transportation company executive embarking on
+Human behavior is unpredictable, especially when it comes to change.
 
-a brand awareness initiative. Her ﬁrm wanted thousands of its drivers
+Most new initiatives require that people do certain things diﬀerently
 
-—employed by external service providers—to wear T-shirts featuring
+than they did before, so it’s important to begin with a narrowly deﬁned
 
-its corporate logo. Some project managers might have started out
+test group that is representative of your broader one before committing
 
-by designing the shirts and ordering the total amount needed. But
+your resources to a particular plan. The slice allows you to implement
 
-Kirsten knew that her success would require behavior change from three
-
-diﬀerent groups: executives at the transport providers, who would need
-
-to agree to new contract terms; drivers, who would have to consistently
-
-wear the new shirts; and customers, who would have to notice the
-
-logo and remember the brand. She realized that it would be prudent
-
-to conﬁrm whether such behavioral shifts were possible before making a
+the change you eventually want to see across the board and observe how

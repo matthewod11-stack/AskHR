@@ -1,5 +1,9 @@
-## History of the Behavioral Sciences, 3, 315–325.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0570a9a31df56dce2d5acdc4bb3ae99aa7b2dc2a
+title: untitled
+---
+# 552 Professional Organizations
 
-Brody, E. B. (2000). World Federation for Mental Health. In A. E. Kazdin (Ed.), Encyclopedia of psychology (Vol. 8, pp. 284–285). Washington, DC: American Psychological Association.
-
-Bunn, G. (2000). A short history of the British Psychological Soci-
+Boring, E. G. (1967). Titchener’s experimentalists. Journal of the

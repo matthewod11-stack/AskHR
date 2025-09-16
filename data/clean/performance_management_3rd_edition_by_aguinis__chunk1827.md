@@ -1,5 +1,7 @@
-# Contingency Pay Plan at Altenergy LLC
-
-Jack, Tom, and Ed are all former employees of Accenture and have just started their own energy consulting company called Altenergy. For the past six months, Jack, Tom, and Ed have been the only consultants in the company. They have now picked up enough business that they want to add five new consultants in order to have three different consulting teams. Because Altenergy LLC has such a unique niche in the consulting market and is a recent start-up, Jack, Tom, and Ed feel that it is necessary that they hire consultants with (a) experience with dealing with alter- native energy sources, (b) connections to a variety of alternative energy companies, and (c) sales experience since these new consultants will be responsible for finding and obtaining new clients. Based upon past experience with Accenture, Jack, Tom, and Ed know that it will be very difficult not only to attract consult- ants with this kind of experience but also to retain them. In order to combat these concerns, Jack, Tom, and Ed feel that, if they can implement a proper contingency pay plan, they will be able to recruit and retain consultants with the necessary experience.
-
-Based upon this information and your knowledge of various contingency pay systems, how would you recom- mend that Altenergy LLC structure a contingency pay plan for these new consultants? Please explain why you gave the recommendation that you did and why you didn’t recommend the other contingency pay systems possible. As a way to get started on this case exercise, consider the table below (based on Table 10.2 from Section 10.4 of the text), and imagine that you have 100 “weight” points that you can assign to different strategic business objectives. For exam- ple, if you think that Altenergy should place a pretty heavy emphasis on the strategic business objective of providing excellent customer service, then you might assign 35 weight points to competency-based pay and 15 weight points to gain sharing. Then, 35% of the total compensation will come from competency-based pay, and 15% of the total compensation will come from gain sharing for each employee. (cid:2)
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: ca282136854ea1a8bb60c272950ee1f4fcb0a783
+title: performance_management_3rd_edition_by_aguinis
+---
+# CAS E ST U DY 10-3

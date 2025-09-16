@@ -1,11 +1,21 @@
-## directly from the people on the front lines.
+---
+source_path: H08HVS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee9628cab6a2eedda21baefa4e59a819893e6baf
+title: H08HVS-PDF-ENG
+---
+## HBR / Digital Article / Management By Driving Around
 
-For example, when Gordon visited ﬁeld oﬃces, employees told him about ﬂawed systems, and sometimes oﬀered ideas for repairs that
+to buy into system-wide changes, rather than dragging their feet and
 
-he would never have uncovered if ﬁltered by the DMV hierarchy.
+resisting new practices.
 
-During one visit, Gordon pressed two frontline employees, Andrea
+It got them unﬁltered ideas.
 
-and Samantha, to tell him about the most frustrating or confusing
+The Friction Project taught us that senior leaders who identify the
 
-issue for DMV customers. They immediately identiﬁed the confusing
+causes of and remedies for broken bureaucracies are often skeptical of
+
+information ﬁltered through the management levels between them and
+
+where the work is actually done. So, they bypass the hierarchy and learn

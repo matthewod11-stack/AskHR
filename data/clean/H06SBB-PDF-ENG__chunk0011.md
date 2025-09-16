@@ -1,25 +1,43 @@
-# design physical workspaces?
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa5d99e10c47e1cd658d9e3ed5fb7b178dfa230e
+title: H06SBB-PDF-ENG
+---
+# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
 
-SANDY SPEICHER: I think where we are is in a really great moment
+Designers are orienting to create choices that shape our experiences
 
-of design. Basically, there’s a lot of experimentation. There’s a lot of
+and that actually shape our future. And designers do that with
 
-questions. People have remapped their relationship with work and we
+intentionality. So when we say design thinking, it’s a lot about the kind
 
-don’t quite know yet what that’s heading toward. And so right now
+of methods and mindsets, the orientation of a designer. How do we
 
-there’s a lot of experimentation. People are trying out different policies
+bring the orientation of a designer to the questions that we’re asking?
 
-around expectations for when people can be in the office.
+And those questions can be huge. We can apply that mode of thinking,
 
-I think that there are things that we do know. We do know that people
+that way of listening, that way of learning about other people and what
 
-need each other. We do know that relationships really matter. And we
+other people are experiencing, the needs that they have.
 
-know that there are many, many ways to build relationships, and that
+Basically be empathic to the needs of other people in order to then
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+imagine the kinds of experiences and environments that might exist
 
-3
+around them. And like I say, that can go from a thing in your hand, all
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the way to the systems that we’re living in.
+
+ADI IGNATIUS: That’s great introduction. So let’s talk about an
+
+environment that’s relevant for this show, and that is the office. I feel
+
+like we’ve gone through stages in terms of our thinking about what the
+
+physical office should look like in order to help us collaborate, help us
+
+innovate, help us build a culture. Forget hybrid for a second, but just
+
+in terms of the physical office, where are we in terms of how we ideally

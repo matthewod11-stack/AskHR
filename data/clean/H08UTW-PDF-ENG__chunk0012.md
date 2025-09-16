@@ -1,35 +1,13 @@
-# one another down.
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5c00bf81b858fa5b776c9f5d3ec012fb2856653
+title: H08UTW-PDF-ENG
+---
+## unpolished ideas and question one another openly.
 
-How to avoid this mistake: Your role as a leader is to surface and validate the value in each
+When you say “yes,” you acknowledge the value of the other person’s
 
-contribution (the “yes”) and then steer the conversation forward by
+contribution and signal you’re willing to engage with it. The only
 
-building on that value or tying it to the next point—whether you’re
-
-agreeing, elaborating, or oﬀering a respectful challenge (the “and”).
-
-The value your team members oﬀer could be passion, a fresh angle, or a
-
-commitment to a shared goal. Occasionally, you might need to reframe
-
-an idea to explain its merit to the larger group. But even when you
-
-have to turn down an idea, starting with a “yes, and…” shows you’ve heard it and respect it. That aﬃrmation invites honest dialogue—the
-
-raw material teams need to innovate and creatively problem-solve.
-
-As an example, let’s say you’re in a meeting with HR leaders. You’re
-
-discussing your current onboarding process when someone suggests an
-
-idea you don’t agree with: “I think we should extend onboarding from
-
-two weeks to a full month. Right now, it feels too rushed, and new
-
-employees aren’t getting enough training.”
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+agreements are 1) we’re engaged on the same topic; 2) we won’t shut

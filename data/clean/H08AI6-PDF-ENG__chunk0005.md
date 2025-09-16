@@ -1,11 +1,25 @@
-## a diﬀerent context—the dusty desert of northern Mexico near the
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c674f16e66a345983d5dc01f36e28cb3cfa4f23
+title: H08AI6-PDF-ENG
+---
+# their many interests.”
 
-U.S. border—we had observed 97 employees working in a low-cost
+Indeed, Williams’ daughter Olympia has been motivating her mom
 
-factory for processing coupons. As we spoke with the employees of
+to do her best since before she was born. Williams was two months
 
-this factory and later systematically studied them with surveys and
+pregnant when she won the Australian Open. When Williams later wrote
 
-objective performance indicators, an intriguing pattern emerged: those
+a public message to her newborn daughter, she emphasized how much
 
-who performed best were the ones who did the job not for themselves,
+she looked forward to seeing her daughter watch her from the players’
+
+box, saying that “you gave me the strength I didn’t know I had.”
+
+The same year that Serena drew strength from her daughter’s presence
+
+on the tennis courts, we published our research on family motivation,
+
+or how family can motivate people to do their best at work. In quite

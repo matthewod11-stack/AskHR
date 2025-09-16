@@ -1,7 +1,7 @@
-# Why Synchronization Matters
-
-In analyzing our data—and conducting additional surveys and
-
-interviews with incoming and outgoing CEOs, CHROs, board members,
-
-and other stakeholders, we found that appointing a new CEO to
+---
+source_path: H08S86-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a57c5f5101b6f9a94acf568c11074067bc2e521b
+title: H08S86-PDF-ENG
+---
+## members of racial or ethnic minority groups.

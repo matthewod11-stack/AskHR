@@ -1,15 +1,11 @@
-# Westport, CT: Praeger/Greenwood.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f802edffb46d7042999c90b7a038829a81886a09
+title: untitled
+---
+## tier? Creative Science and Technology, 2, 16–29.
 
-Jensen, A. R. (in press). Psychometric g: Deﬁnition and sub- stantiation. In R. J. Sternberg & E. L. Grigorenko (Eds.),
+Jensen, A. R. (1982). Reaction time and psychometric g. In H. J. Eysenck (Ed.), A model for intelligence. Heidelberg, Germany: Springer-Verlag.
 
-General factor of intelligence: Fact or ﬁction. Mahwah, NJ: Erlbaum.
-
-Katz, H., & Beilin, H. (1976). A test of Bryant’s claims concerning the young child’s understanding of quantitative invariance. Child Development, 47, 877–880.
-
-Kaufman, A., & Kaufman, N. (1983). Kaufman Assessment Battery for Children. Circle Pines, MN: American Guidance Service.
-
-Kauffman, S. (1995). At home in the universe: The search for laws of self-organization and complexity. New York: Oxford Univer- sity Press.
-
-Keating, D. P., & Bobbit, B. (1978). Individual and developmental differences in cognitive processing components of mental abil- ity. Child Development, 49, 155–169.
-
-Keil, F. C. (1989). Concepts, kinds, and cognitive development.
+Jensen, A. R. (1998). The g factor: The science of mental ability.

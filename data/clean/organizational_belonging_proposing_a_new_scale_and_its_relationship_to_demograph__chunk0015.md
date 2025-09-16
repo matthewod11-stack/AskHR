@@ -1,3 +1,7 @@
-# G. BLAU ET AL.
-
-enlarge the item domain of OB to better measure its conceptual definition. Collectively, this builds the case for testing a new OB measure. Finally, prior research on antecedents and consequences of OB are reviewed, as a prelude to their being further studied.
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: a68d51feafdcd057e4d5ecf562bbad8acecb8ab5
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# 228

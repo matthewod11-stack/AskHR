@@ -1,13 +1,19 @@
-# For example:
+---
+source_path: H07WWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57eb659f848653d185255c65fdf5deb7a565170a
+title: H07WWT-PDF-ENG
+---
+# Commit to your PTO.
 
-- “Alex, I just wanted you to know that I’m out of the oﬃce and
+One of the biggest challenges during year-end tasks is managing time
 
-unplugged from December 18th through January 3rd. I won’t be
+oﬀ, especially when urgent requests pop up. According to a 2023 Pew
 
-tracking work emails or Slack during that time, so if there’s anything
+research study, many Americans hesitate to take all their paid time oﬀ
 
-you’re going to need from me before the end of the year, I’ll need to
+due to concerns about falling behind at work.
 
-know by December 1st to make sure it’s covered.”
+To avoid giving up your well-deserved vacation days (and your overall
 
-- “Sondra, I’m out for two weeks in December, so let’s put a catch-up
+well-being), conﬁdently communicate your plans with your colleagues.

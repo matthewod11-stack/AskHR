@@ -1,31 +1,23 @@
-## Unfortunately, the attrition strategy isn’t viable, in my opinion. When
+---
+source_path: R2304M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7003d14b2ddffd02d654832ed2ee370e72d7c4f1
+title: R2304M-PDF-ENG
+---
+## The Experts Respond: What should Tyler do?
 
-you use performance management to drive people out, as Facebook has reportedly begun doing, it looks like a rolling, unannounced layoﬀ,
+Patrick Pettiti is the founder and CEO of Catalant Technologies, a Boston-based software company.
 
-which is worse than a formal one. Good managers and organizations
+Tyler’s situation is relatable. The tension at Puck
 
-review and rate team members to support and improve their work, not
+among employee engagement, top-line growth,
 
-to reduce head count. Puck shouldn’t risk its reputation as an employer
+and expenses is real. The challenge for its leaders is
 
-by taking that approach.
+ﬁnding the right balance, which is especially hard
 
-Layoﬀs may prove necessary, but if Tyler goes that route, he needs to
+in such an uncertain market. If I were in Tyler’s
 
-choose the percentage of head count carefully and then guarantee that
+situation, my number one priority would be to preserve capital while
 
-the reduction will be the last one. If he’d made a deeper cut in the
-
-ﬁrst round, his lead director might not be pushing for a second one so quickly. Two layoﬀs in a year is bad; three would be much worse.
-
-Tyler could choose to raise capital instead. Although Puck’s trajectory
-
-has slowed, revenue is still growing, so if cash gets really short, he might
-
-be able to bring in more money through a ﬂat round. I wouldn’t advise
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ensuring that my employees had what they needed to be successful.

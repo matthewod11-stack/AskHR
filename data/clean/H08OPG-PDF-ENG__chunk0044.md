@@ -1,15 +1,23 @@
-## In large organizations in particular, a version of this critical form of
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 881a075c5315f1b459b7e01911f58d214e73451c
+title: H08OPG-PDF-ENG
+---
+## HBR / Digital Article / What Is the Office for Today?
 
-knowledge transfer is cross-generational learning. This is particularly
+organizations increasingly happens through being able to integrate diﬀerent perspectives while evaluating diﬀerent angles of a problem (represented by diﬀerent voices and diﬀerent data streams). Physical
 
-important when younger workers bring a new set of technical skills
+space has historically had a vital enabling role in these moments,
 
-and fresh perspectives, and more established workers bring industry
+at least in tech. Whether known as informal “campﬁre huddles” in
 
-know-how and life experience, all valuable aspects of innovation. Similarly, in the context of upskilling and ongoing learning, diﬀerences
+young competition teams, “war rooms” for startups, or “situation
 
-in communication and learning preferences between younger and older
+rooms” in more formal technology oﬃces, these types of collaborative
 
-generations creates higher opportunities for both increased knowledge
+environments set the stage for stakeholders to gather and share
 
-transfer and new knowledge development when these activities take
+specialized and multidisciplinary data, leading to better group problem-
+
+solving and decision-making.

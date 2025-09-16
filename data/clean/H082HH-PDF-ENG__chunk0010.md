@@ -1,9 +1,13 @@
-# Define Your Strategic Priorities
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2c886264e346b264b055a697acd54c8f16d1160
+title: H082HH-PDF-ENG
+---
+# advantages.
 
-The ﬁrst strategy question that must be central to any corporate
+By linking innovation to strategy at every step along the way, from
 
-innovation eﬀort is: What are the strategic priorities that matter most
+greenlighting to scaling up, established businesses can leverage their
 
-to our business? In my book, The Digital Transformation Roadmap,
-
-I suggest two lenses for deﬁning strategic priorities: problems and
+strengths to deliver innovation that drives bottom-line growth.

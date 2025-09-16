@@ -1,9 +1,9 @@
-## where agility and innovation drive competitive advantage.
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba7dbb41aafbd8c6ed7e25dbc5a0a7c941810397
+title: H08IVM-PDF-ENG
+---
+# HBR / Digital Article / Contract Negotiations Should Be Collaborative, Not Adversarial
 
-- Missed opportunities: This failure to engage on “the things that
-
-matter” means that important conversations are missed. Only 16%
-
-of negotiators believe that they focus on the right topics, and only
-
-39% believe that their contracts contribute to successful business
+just ostensibly unfair; it’s increasingly unsustainable in an economy

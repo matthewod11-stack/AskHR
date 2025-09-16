@@ -1,25 +1,21 @@
-## shut down its domestic China marketplace operations.
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43e8299ebd425bd703d1da4b47a785fc262f3784
+title: H08D71-PDF-ENG
+---
+# The Perils of Not Being in China
 
-Meanwhile, the Chinese e-commerce landscape dynamically evolved.
+Amazon entered China in 2004 by acquiring Joyo.com, an online
 
-Pinduoduo (PDD), with its formula of “super-cheap goods shipped
+retailer, for $75 million. By 2011, Amazon held a 15% market share in the
 
-from the factory gates,” emerged as a disruptive force, challenging
+China e-commerce market. While Amazon’s two primary competitors
 
-both Alibaba and JD. PDD, having built scale, proﬁtability, and honed
+in China at that time, Alibaba and JD.com, rapidly built out extensive
 
-strategies in China, aggressively launched their innovative e-commerce
+courier networks to enable almost-instant delivery and direct relations
 
-model Temu in Amazon’s home market. Temu entered the U.S. market
+with local suppliers to provide the lowest pricing possible, Amazon
 
-in September 2022 and achieved over 90 million unique monthly
-
-visitors in less than 12 months, compared to Amazon’s 221 million
-
-unique monthly visitors built over nearly three decades. As of October
-
-2023, the total number of Temu app downloads reached almost 235
-
-million, surpassing the Amazon Shopping app. Amazon’s withdrawal
-
-from China left it vulnerable to competitive threats internationally and
+adapted slowly. By 2019, with a market share of less than 1%, Amazon

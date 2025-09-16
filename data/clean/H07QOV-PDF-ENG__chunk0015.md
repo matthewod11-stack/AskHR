@@ -1,11 +1,23 @@
-# intolerant of major accidents.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3ec13aefdb9a1f1f8048a26981fe6e6458bff35
+title: H07QOV-PDF-ENG
+---
+# policy?”
 
-Therefore, we have to be very tolerant of the reality of human error so
+AMY EDMONDSON:
 
-that we can catch and correct, we can train, we can allow people to take
+Let’s start with airlines because clearly none of us want them to be
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+comfortable with failure. Yet I think the reason why airlines have an
 
-5
+extraordinary record of success and safety is because they’re willing and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+able to talk about failure. The failures that they do tolerate happen in
+
+the simulator. There’s training, there’s a lot of emphasis on speaking
+
+up early to prevent something worse from happening. So their safety
+
+record does not come from being intolerant of failure, but rather being

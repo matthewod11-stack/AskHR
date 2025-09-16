@@ -1,7 +1,7 @@
-# espousals into practice
-
-(cid:1) Visible and legitimate authority afforded to
-
-the Chief DEI Ofﬁcer (cid:1) Investment of signiﬁcant resources (budget, time, staff) to continuously iterate, reﬁne, and improve organization’s DEI strategy implementation, including unrestricted access to data on outcomes (cid:1) Close monitoring of DEI metrics and mechanisms for interpreting and responding to observed gaps (cid:1) Accountability structures for inclusion policy/practice implementation (cid:1) Integration of DEI principles into work processes (i.e., not just when focusing on DEI practices) (cid:1) Explicit inclusion of DEI competencies in leaders’ performance evaluations, with refusal to promote “star performers” who engage in discriminatory or uncivil behaviors towards members of historically marginalized groups (cid:1) Actions taken (or not taken) in response to evidence of low (or weak) workgroup climates for inclusion as well as bias incidents (cid:1) Continual analysis of relationship between employee demographics and job types and levels to identify and address imbalances in status (cid:1) Frequency with which senior leaders discuss DEI, demonstrate desire to learn and improve, and actively seek feedback (cid:1) Attention to the DEI practices and reputation of organizational partners
-
-(cid:1) Development of team charters, with full input from workgroup members and openness to question own assumptions (cid:1) Role modeling inclusive decision-making, and leader stimulation of information elaboration (cid:1) Allocation of leader and workgroup’s time to engage in team reﬂection about how team interactions and processes can be improved (cid:1) Choice to address internal and external events related to DEI; provide space to process, normalize act of discussing DEI (cid:1) Acknowledge leader’s own role in others’ experiences of DEIas well as how people co- produce one another’s experiences (cid:1) Public acknowledgment and reinforcement of behaviors that promote inclusion for others and willingness to call- out rather than avoid behaviors that inhibit inclusion for team members (cid:1) Regular solicitation of input from team members about their experiences of inclusion, perceived obstacles to full engagement, etc. (cid:1) Careful monitoring of relative treatment of followers and assignment of roles, responsibilities and opportunities to ensure fairness and counteract status hierarchies (cid:1) Disruption of negative stereotypes by making the competence of lower-status individuals more visible (cid:1) Investment of personal energies in educating oneself about DEI, participating in initiatives as an ally, etc.
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: 5939bd5791a18d32afcbc36c63a597a1538e5325
+title: eur_research_information_portal
+---
+# Enactment of

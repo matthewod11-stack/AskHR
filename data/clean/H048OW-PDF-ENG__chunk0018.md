@@ -1,11 +1,7 @@
-# aversion.
-
-We found that some of these cultural values are statistically linked to
-
-better competitive performance, and some are associated with negative
-
-performance. For instance, we found that banks with stronger
-
-performance after this shock had CEOs whose parents and grandparents
-
-came from Germany, Italy, Poland and Russia — countries that rate highly
+---
+source_path: H048OW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f1a5d85fd132fbadb28d1dae48ea4ecc7ef3521
+title: H048OW-PDF-ENG
+---
+## attitudes towards individualism, long-term decision-making, and risk

@@ -1,11 +1,19 @@
-# best.
+---
+source_path: H08QTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 825a4a46842ca7560b7592d5c60a18547b118053
+title: H08QTW-PDF-ENG
+---
+## and gaps in customer coverage, unexploited means of upselling and
 
-Reducing customer churn and focusing on net retention revenue (NRR)
+cross-selling, and opportunities to improve sales-rep productivity.
 
-should also be a priority, especially when new customers are hard
+Though consumers are stretched, there are still opportunities to raise
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+prices to cover increased costs, especially for high-end products. And
 
-4
+companies should resist the temptation to cut marketing across the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+board and instead undertake a rapid, detailed analysis of marketing
+
+eﬀectiveness so that they can put marketing dollars where they work

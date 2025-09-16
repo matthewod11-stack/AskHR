@@ -1,13 +1,23 @@
-## And as the growth of AI—particularly generative AI—makes it cheaper
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6ae5142b62460f8102da365e692af9ee962300b
+title: R2501G-PDF-ENG
+---
+## HBR / Magazine Article / Want Your Company to Get Better at Experimentation?
 
-and easier to create numerous digital product experiences, they must
+However, many companies use online experimentation for just a
 
-vastly increase the number of experiments they conduct—to hundreds
+handful of carefully selected projects. That’s because their data
 
-or even thousands—to stay competitive.
+scientists are the only ones who can design, run, and analyze tests.
 
-Scaling up experimentation entails moving away from a data-scientist-
+It’s impossible to scale up that approach, and scaling matters. Research
 
-centric approach to one that empowers everyone on product,
+from Microsoft (replicated at other companies) reveals that teams and
 
-marketing, engineering, and operations teams—product managers,
+companies that run lots of tests outperform those that conduct just a
+
+few, for two reasons: Because most ideas have no positive impact, and
+
+it’s hard to predict which will succeed, companies must run lots of tests.

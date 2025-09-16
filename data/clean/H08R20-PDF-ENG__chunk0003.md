@@ -1,15 +1,25 @@
-## HBR / Digital Article / Great Leaders Make People Feel Noticed
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee7d252fb63df9bdf96e2048d9c0ef1191b66e50
+title: H08R20-PDF-ENG
+---
+# Sean Justice/Getty Images
 
-Tanya is the cleanliness support coordinator who audits the planes and
+Last year, I worked alongside a major airline’s cleaning crew at a busy
 
-is responsible for the team. When I met her, she took me to the agent at
+airport. In the airline business, turnaround time is everything. When
 
-the ticket counter to get my pass for the day.
+you deplane, these workers begin sanitizing the bathrooms, seats, and
 
-“Isn’t her smile the best?” Tanya said before explaining how long the
+ﬂoors. They’re under constant pressure. The team I observed that day
 
-ticket agent had been with the company and pointing out her favorite
+had some of the highest cleanliness scores at the airline, and it didn’t
 
-things about working with her. Next, as we went through security, Tanya
+take me long to ﬁnd out why.
 
-found a TSA oﬃcer and asked how his vacation went and about his kids
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

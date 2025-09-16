@@ -1,9 +1,21 @@
-# business.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b19ea24e7b5395eeaa596375c00170a7773584e1
+title: H07WED-PDF-ENG
+---
+# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
 
-- 2. Calculated risk taking
+- 1. Forward thinking
 
-In projects, risk management is crucial. To develop a CEO’s comfort
+In project management, forward thinking involves creating
 
-with calculated risks, take on projects where you need to assess and
+comprehensive plans while considering long-term goals. To transition
 
-mitigate risks strategically. Gradually expand your risk tolerance and
+to a CEO perspective, actively participate in strategic planning sessions,
+
+contribute to deﬁning the organization’s future direction, and align your
+
+projects with these strategic objectives. Stay informed about industry
+
+trends and emerging technologies that can shape the future of your

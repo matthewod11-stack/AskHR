@@ -1,3 +1,9 @@
-## The Turkish Psychological Association was founded.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e199d8d7f40e1915facb7948e9d3dfa746172e26
+title: untitled
+---
+## The Swedish Psychological Association was founded.
 
-The Russian Soviet Federal Socialist Republic Psychological Society was founded by Order 495 of the Minister of Education. The Society was a branch of the Academy of Pedagogical Sciences. It held its ﬁrst meeting in 1959.
+The International Association for Analytical Psychology was established in Zurich to advance Jungian psychology.

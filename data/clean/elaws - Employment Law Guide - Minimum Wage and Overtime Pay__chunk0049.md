@@ -1,9 +1,7 @@
-## Vietnamese(https://www.dol.gov/whd/regs/compliance/posters/minwageViet.pdf), and
-
-Korean(https://www.dol.gov/whd/regs/compliance/posters/minwageKorean.pdf). There is no requirement to post the
-
-poster in languages other than English(https://www.dol.gov/whd/regs/compliance/posters/ﬂsa.htm).
-
-Covered employers are required to post the general Fair Labor Standards Act poster. However, certain
-
-industries have posters designed speciﬁcally for them. Employers of Agricultural Employees (PDF)
+---
+source_path: elaws - Employment Law Guide - Minimum Wage and Overtime Pay.md
+pages: n/a-n/a
+chunk_id: 6564af6b0965c2103fc125405215bc0993c26636
+title: elaws - Employment Law Guide - Minimum Wage and Overtime Pay
+---
+## (https://www.dol.gov/whd/regs/compliance/posters/MinWageHmong.pdf)

@@ -1,21 +1,13 @@
-## Chukwuma. Edwin Maduka & Dr Obiefuna Okafor
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: 2e345b3f10980898c8aab28ccc9254ef1d85f789
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+## Keywords: Motivation, Employee productivity, salary, incentive
 
-The motivation of employees depends on the strength of their motives. Motives are need, wants, desire, or impulses within the individual and these determine human behaviour. Therefore, motivation is the process of arousing behaviour, sustaining behaviour progress, and channeling behaviour into a specific curse of action. Thus, motives (needs, desire) induce employees to act. Motivation therefore is the inner state that energies people, channels and sustains human behaviour.
+- 1. INTRODUCTION 1.1 Background of the Study Motivation, as a process, started with a need in human being which creates a vacuum in a person. In an attempt to fill the vacuum an internal driving force is generated which starts and sustains a chain of action and reaction. It is at that point that the vacuum is also filled. With this background information, Nnabuife (2009), define motivation as the internal or external driving force that produces the willingness to perform an act to a conclusive end. This first aspect of motivation we choose to describe as internal motivation because the driving force comes from within an individual. The second aspect is external motivation, is applied by the organization. This is because employees are motivated to identify with organization in order to satisfy their varied and variegates needs and desires. Until they have been identified and properly satisfied, they will never cease to impede smooth running of the organizations One of the biggest problems facing manager in the organizations is how best to get employees committed to their work and put in their best towards the accomplishment of organization’s objectives. Motivation is concerned with why people do what they do. It answers such questions as why do managers or worker go to work and do a good job. This tries to explain what motivates people to act the way they do, with primary focus on the work place. It is the primary task of the manager to create and maintain an environment in which employees can work efficiently and realize the objectives of the organization.
 
-Since it has been established that all behavior except involving responses are goals directed, manager can apply motivational theories of management in their attempt to direct the job behaviour of employees towards the goal of their establishment.
+Employees differ not only in their ability to work but also in their will to do so (motivation). To motivate is to induce, persuade, stimulate, even compel, an employees to act in a manner which fulfilled the objectives of an organization.
 
-Every organization and business wants to be successful and have desire to get consent progress. The current era is highly competitive and organizations regardless of size, technology and market focus are facing employee retention challenges. To overcome these restraints a strong and positive relationship and bonding should be created and maintained between employees and their organizations human resource or employees of any organization are the most central parts so they need to be influenced and persuaded towards task fulfillments.
-
-For achieving prosperity, organizations design different strategies to compete with the competitors and for increasing the performance of the organizations. A very few organization believe that the human personnel and employees of any organization have its main assets to which can lead them to success or if not focused well to decline. Unless and until, the employees of any organization are satisfied with it, are motivated for the tasks fulfillment and goals achievements and encouraged, none of the organization can progress or achieve success.
-
-Employee motivation is one of the policies of managers to increase effectual job management amongst employees in organization (shadier et al. 2009). A motivated employee is responsive of the definite goals and objectives he/she must achieve, therefore in that direction. Rutherford (1990) reported that motivation formulates an organization more successful because provoked employee are constantly looking for improved practices to do a work, so it is essential for organizations to persuade motivation of their employees (Kalimullah et al 2010) Getting employee to do their best work even in strenuous circumstances is one of the employees most stable and greasy challenge and this can be made possible through motivating them. 1.2 Statement of Problem
-
-Workers leave organization due to the fact that they are not motivated enough. Some are not willing to leave because they are enjoying some benefit in terms of promotion, which leads to increase in salaries and wages, bonus and some other incentives.
-
-The workers of Manufacturing firms in Nnewi will prefer financial incentives to non financial incentives ,more especially the junior workers ,due to the fact that such incentives are not used as a motivational technique, the company have the problem and challenges of retention of their employees. Hence low performance and productivity becomes the end result and finally work dissatisfaction. 1.3 Objective of the Study The main objective of this study is to ascertain the motivational techniques adopted by the Manufacturing firms in Nnewi. Other specific objectives are:
-
-- 1. To investigate the motivational techniques adopted by the Manufacturing firms. 2. To examine the response of the employees to motivational techniques adopted by the Manufacturing firms in Nnewi.
-
-- 3. To find out the problem hindering the success of the employees motivation in the Manufacturing firms in Nnewi
-
-- 4. To ascertain if motivation lead to higher performance and productivity.
+©ARC Page 137

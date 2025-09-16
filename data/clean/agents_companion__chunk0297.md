@@ -1,13 +1,17 @@
-# of agents.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 4189a76e140e1f445946ec5e84a9f20b42a00c0f
+title: agents_companion
+---
+# Agent Builder
 
-Vertex AI Agent Engine streamlines development, relying on Google engineering managed
+Vertex AI Agent Builder is a collection of products and services for developers. We have
 
-integrations with popular open source agent libraries. It provides a managed autoscaling
+put together a comprehensive platform for you to build and connect agents. The engineering
 
-runtime and many services agents will need (eg: session, examples, trace, evals). This is the
+excellence and security from Google Cloud, the AI research from Google Deepmind, and the
 
-very low effort and high value way to safely deploy agents you have written in any framework.
+best practices of AgentOps. Google Cloud is building our own agents on top of this platform,
 
-Vertex AI Eval Service provides all of the evaluation tools discussed in this whitepaper, and
-
-more. LLMs, RAG, and Agent evals are stable and scalable via the Vertex AI Eval Service, with
+and now you can too. Expect many more exciting announcements 2025 targeting developers

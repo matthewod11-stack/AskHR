@@ -1,43 +1,29 @@
-## HBR / Digital Article / Are You the Cause of Your Team’s Change Fatigue?
+---
+source_path: H08IU0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cba57ecf73cdecc8a32c0264fadc6be73098a901
+title: H08IU0-PDF-ENG
+---
+# dynamics.
 
-the truth of their collective limitations frees leaders to focus on what
+One of the greatest culprits in the failure of strategic change is the
 
-they can and should control. Says Petriglieri:
+untested assumptions that are never surfaced and interrogated. At the
 
-When we expect leaders to be knowledgeable and capable in precisely
+start of large-scale strategic change, I have my clients write down all
 
-the moments in which everyone else is uncertain and paralyzed, we
+the assumptions they’re making about the prospects of success, failure,
 
-make it difficult for them to ask for help. The moments when leaders
+each other’s capabilities, the organization’s capacity to execute, and the
 
-ought to be acknowledging, “I don’t know what’s happening out
+future outcomes they want from the investments. The common theme
 
-there” or “I’m not sure what to do; do you know?” are the moments we
+among the lists of assumptions is inevitably a gross overestimation of
 
-make them face the existential doubts: “If I don’t have the answer, I
+how much control they have over totally uncontrollable factors. Naming
 
-must not be competent. How then will I prove I deserve this role? Am I
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-really who I’ve convinced others that I am?”
+6
 
-. . .
-
-Accept that the chance to introduce change to your team, department,
-
-or enterprise is a privilege. You are leaving an indelible mark on
-
-customers, shareholders, and the careers of those you lead. Take that
-
-privilege seriously. Don’t let delusions of grandeur or a desperate need
-
-to quell anxiety blind you to what you can’t control or your own
-
-limitations. Instead, begin the journey of change with a posture of “I
-
-don’t know” versus “I already know.” Set the example of admitting your
-
-angst about the unknown and what you hope you and your team can
-
-learn together, making it safe for them to grow and challenge you along
-
-the way. Organize change that way, and you’ll infuse those you lead with
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

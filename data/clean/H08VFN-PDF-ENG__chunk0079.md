@@ -1,9 +1,11 @@
-## safeguards: the voluntary nature of participation, the emphasis on
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d256e49a5732497e3f64942e67fb94a233cf282
+title: H08VFN-PDF-ENG
+---
+## initiative, emotional conﬁdence, imagination, or strategic vision—they
 
-failure as a good, the multiple cadre to check each other, the
+should develop next.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-16
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+To protect student wellbeing, this exercise contains multiple

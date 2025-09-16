@@ -1,11 +1,9 @@
-# Almost Never
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: bc2d4a101c87c7109fa27c8c52ad03f19a8c741e
+title: document_resume
+---
+# Almost Always
 
-1
-
-2
-
-3
-
-4
-
-5
+Explains and follows through on clinical experiences.

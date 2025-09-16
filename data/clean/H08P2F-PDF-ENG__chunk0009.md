@@ -1,17 +1,21 @@
-## that, among women in a weight-loss program, those with higher levels
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b09c8488e6a2d574734ac39f296728c94fc545f0
+title: H08P2F-PDF-ENG
+---
+## soil around manufacturing facilities, airports and ﬁrehouses, in sewage
 
-of forever chemicals were faster to regain pounds lost. Some forever
+sludge used on millions of farms, and even in the Arctic, the middle
 
-chemicals are associated with total cholesterol levels and LDL (the
+of the ocean, and rainwater. We also ﬁnd forever chemicals in air and
 
-bad cholesterol), both of which are potential causal risk factors for
+dust inside every type of building, which is one of the ways—along with
 
-cardiovascular disease. These chemicals can interfere with our immune
+contaminated drinking water and food — that they enter our bodies.
 
-systems, with studies showing lower vaccine eﬃcacy in children with
+Once in our body, forever chemicals can wreak havoc. They are linked to
 
-higher levels of them, and our reproductive health, altering menstrual
+increased risk of kidney and testicular cancer. They may also impact
 
-cycles and reducing sperm quality.
-
-Despite the accumulating awareness of the risks, remain on the rise
+weight gain; for example, a study by colleagues at Harvard found

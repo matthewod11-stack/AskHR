@@ -1,11 +1,21 @@
-## of Economic Studies. https://doi.org/10.1093/restud/rdw004
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: b4e512db4f2d78cd7001a287d6510bf27ce410cf
+title: final_2019_jan_feb_jbs_pmd
+---
+# ISSN 2393-9451
 
-- 34. Nationalekonomiska Institutionen (Uppsala). (n.d.). Working papers. Retrieved from https://core.ac.uk/reader/ 39400590
+- 27. Feroze, S. M., Chauhan, A. K., Malhotra, R., & Kadian, K. S. (n.d.). pp 57-65 § SHGs in Western Zone of Haryana. In Agricultural Economics Research Review (Vol. 24). Retrieved from https://ageconsearch.umn.edu/ record/109416/files/6-SM-Feroze.pdf
 
-IITM Journal of Business Studies (JBS)
+- 28. Kaur, A. (2009). Role of Swaranjayanti Gram Swarozgar Yojana (SGSY) in Socio-economic Development in Rural Punjab. Retrieved from https://krishikosh.egranth.ac.in/handle/1/5810074522
 
-47
+- 29. Kumar Sanjay. (2010). Performance and Impact of Self-Help Groups in Punjab - Past Experiences Groups in Punjab - Past Experiences and the Roadmap Ahead. The MicroFINANCE MicroFINANCE REVIEW, Vol. II(No. 1). Retrieved from http://www.birdindia.org.in
 
-Innovation and Sustainability: The Story of Indian QSR Foodbox Dr. Shruti Tripathi* Dr. Rashmi Rai**
+- 30. SHGs for the Poor; MFIs for the Non-Poor. (n.d.). Retrieved May 6, 2019, from https://www.cgap.org/ blog/shgs-poor-mfis-non-poor
 
-Abstract Sustainopreneurship is a neologism created by mergi ng the words sustainability and entrepreneurship. Today as the world is moving towards the fourth industrial revolution it has now become imperative for businesses to come up with ne w ideas which can sustain in future. The economy also values such people who can turn our day to day concerns into business opportunities. So was the intent of Mr Satish Chamyvelumani, Found er of Foodbox: “The idea was to serve people with food from their favourite brands while on the move.” In recent years, there have been great strides in the field of food technology. One such stride was made by Satish Chamyvelumani, who is a pioneer in a complete “Indian” Quick Service Restaurant sector. The global market research organization CRISIL st ates that the Indian QSR is largely dominated by international players (>65%).The reason lies in their western menu which has high shelf life, is compatible with the cold storage set-up, prepared with few ingredients and goes well with quick to serve menu. The present case is about an out and out Indian player in QSR sector- Foodbox now known as Frshly. It not only defies the set pattern of international brands but also food retail. It has made a significant entry keeps itself ahead of them by opting innovation in through its speed, hygiene, packaging and above all the Indian-ness of its menu in this format, which until now is first of its kind. There is also international brands go for casual dining category; it takes care of the utility segment-the working class which requires it as a second option to home-made food in form of lunch/dinner. It is also not an app based model which we generally find in food tech business rather it is more on the ground model. The innovation comes in the form of the dispenser which dishes out food within 90 seconds fresh and hot! Key Words: QSR,Innovation, Automated Food Dispenser, World Cla ss Packaging, Multiple
+- 31. Deininger, K., & Liu, Y. (2009). Economic and Social Impacts of Self-Help Groups in India. In World Bank Policy Research Working Paper …. https://doi.org/10.1596/1813-9450-4884
+
+- 32. Swain, R. B., & Wallentin, F. Y. (2009). Does microf
+
+inance empower women? Evidence from self-help groups in India. International Review of Applied Economics. https://doi.org/10.1080/02692170903007540 33. Greaney, B. P., Kaboski, J. P., & Van Leemput, E. (2016). Can self-help groups really be “self-help”? Review

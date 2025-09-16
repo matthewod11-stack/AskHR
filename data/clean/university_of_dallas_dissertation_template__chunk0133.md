@@ -1,5 +1,27 @@
-# (cid:32)
+---
+source_path: university_of_dallas_dissertation_template.md
+pages: n/a-n/a
+chunk_id: 1881a89f7f08d5fee7b07d8053eaeeaa4afe9622
+title: university_of_dallas_dissertation_template
+---
+# no significant interaction effect of job satisfaction and management trustworthiness on employee
 
-that the two paths in the structural model are significant (p<0.05). A significant main effect is
+engagement.(cid:32)(cid:65)(cid:112)(cid:112)(cid:101)(cid:110)(cid:100)(cid:105)(cid:120)(cid:32)(cid:72)(cid:32)(cid:105)(cid:108)(cid:108)(cid:117)(cid:115)(cid:116)(cid:114)(cid:97)(cid:116)(cid:101)(cid:115)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:114)(cid:101)(cid:103)(cid:114)(cid:101)(cid:115)(cid:115)(cid:105)(cid:111)(cid:110)(cid:32)(cid:101)(cid:113)(cid:117)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:115)(cid:46)(cid:32)
 
-found for job satisfaction (cid:62)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:101)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:44)(cid:32)(cid:119)(cid:104)(cid:105)(cid:99)(cid:104)(cid:32)(cid:105)(cid:115)(cid:32)(cid:72)(cid:52)(cid:32)(cid:105)(cid:110)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:109)(cid:111)(cid:100)(cid:101)(cid:108)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:119)(cid:97)(cid:115)(cid:32)(cid:100)(cid:105)(cid:115)(cid:99)(cid:117)(cid:115)(cid:115)(cid:101)(cid:100)(cid:32)
+(cid:70)(cid:105)(cid:103)(cid:117)(cid:114)(cid:101)(cid:32)(cid:52)(cid:46)(cid:51)(cid:32)(cid:32)
+
+(cid:83)(cid:105)(cid:109)(cid:112)(cid:108)(cid:101)(cid:32)(cid:83)(cid:108)(cid:111)(cid:112)(cid:101)(cid:32)(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)(cid:111)(cid:102)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:73)(cid:110)(cid:116)(cid:101)(cid:114)(cid:97)(cid:99)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:69)(cid:102)(cid:102)(cid:101)(cid:99)(cid:116)(cid:32)(cid:111)(cid:102)(cid:32)Managerial Trustworthiness(cid:32)
+
+(cid:52)(cid:46)(cid:54)(cid:46)(cid:53)(cid:32)(cid:80)(cid:111)(cid:115)(cid:116)(cid:45)(cid:72)(cid:111)(cid:99)(cid:32)(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)
+
+(cid:65)(cid:102)(cid:116)(cid:101)(cid:114)(cid:32)(cid:116)(cid:101)(cid:115)(cid:116)(cid:105)(cid:110)(cid:103)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:101)(cid:105)(cid:103)(cid:104)(cid:116)(cid:32)(cid:104)(cid:121)(cid:112)(cid:111)(cid:116)(cid:104)(cid:101)(cid:115)(cid:101)(cid:115)(cid:32)(cid:105)(cid:110)(cid:32)(cid:116)(cid:104)(cid:105)(cid:115)(cid:32)(cid:115)(cid:116)(cid:117)(cid:100)(cid:121)(cid:44)(cid:32)(cid:97)(cid:100)(cid:100)(cid:105)(cid:116)(cid:105)(cid:111)(cid:110)(cid:97)(cid:108)(cid:32)(cid:97)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:101)(cid:115)(cid:32)(cid:119)(cid:101)(cid:114)(cid:101)(cid:32)(cid:99)(cid:111)(cid:110)(cid:100)(cid:117)(cid:99)(cid:116)(cid:101)(cid:100)(cid:32)(cid:116)(cid:111)(cid:32)
+
+(cid:112)(cid:114)(cid:111)(cid:98)(cid:101)(cid:32)(cid:102)(cid:117)(cid:114)(cid:116)(cid:104)(cid:101)(cid:114)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:114)(cid:101)(cid:108)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:115)(cid:104)(cid:105)(cid:112)(cid:32)(cid:98)(cid:101)(cid:116)(cid:119)(cid:101)(cid:101)(cid:110)(cid:32)(cid:109)(cid:97)(cid:110)(cid:97)(cid:103)(cid:101)(cid:114)(cid:105)(cid:97)(cid:108)(cid:32)(cid:116)(cid:114)(cid:117)(cid:115)(cid:116)(cid:119)(cid:111)(cid:114)(cid:116)(cid:104)(cid:105)(cid:110)(cid:101)(cid:115)(cid:115)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:101)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:44)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)
+
+(cid:114)(cid:101)(cid:108)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:115)(cid:104)(cid:105)(cid:112)(cid:32)(cid:98)(cid:101)(cid:116)(cid:119)(cid:101)(cid:101)(cid:110)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:108)(cid:111)(cid:121)(cid:97)(cid:108)(cid:116)(cid:121)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:112)(cid:111)(cid:115)(cid:105)(cid:116)(cid:105)(cid:118)(cid:101)(cid:32)(cid:119)(cid:111)(cid:114)(cid:100)(cid:32)(cid:111)(cid:102)(cid:32)(cid:109)(cid:111)(cid:117)(cid:116)(cid:104)(cid:44)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:108)(cid:111)(cid:121)(cid:97)(cid:108)(cid:116)(cid:121)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)
+
+(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:110)(cid:101)(cid:116)(cid:32)(cid:112)(cid:114)(cid:111)(cid:109)(cid:111)(cid:116)(cid:111)(cid:114)(cid:32)(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:32)(cid:97)(cid:115)(cid:32)(cid:112)(cid:111)(cid:115)(cid:116)(cid:32)(cid:104)(cid:111)(cid:99)(cid:32)(cid:97)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:101)(cid:115)(cid:46)(cid:32)(cid:84)(cid:104)(cid:101)(cid:32)(cid:115)tage one output of the analysis shows
+
+(cid:49)(cid:50)(cid:52)(cid:32)
+
+(cid:32)

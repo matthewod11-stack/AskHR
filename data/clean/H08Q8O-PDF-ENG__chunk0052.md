@@ -1,7 +1,9 @@
-# in-person meetings.
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1063b6c33f63bf4a66bd39e3323c8b1fb557f299
+title: H08Q8O-PDF-ENG
+---
+# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
 
-This is why many tech companies that boast about being 100% online
-
-still have an oﬃce or other space for scheduled meetups, in order to
-
-foster deep relationships through in-person contact. Take Automattic,
+if work is done remotely, it is important to create opportunities for

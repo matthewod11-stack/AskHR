@@ -1,21 +1,29 @@
-## HBR / Digital Article / The Insidious Effects of Hurrying
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e32c3bbb72eded7ec4024490a0ce789479669917
+title: H08KYH-PDF-ENG
+---
+# Tara Moore/Getty Images
 
-employees, where 45% said their workload had signiﬁcantly increased
+In today’s fast-paced world, the pressure to do more, achieve more,
 
-over the past 12 months and more than half felt there was too much
+and be more in less time has become a pervasive part of modern
 
-change at their workplace happening too quickly.
+life — and it’s wearing employees out. The authors of one study
 
-This relentless urgency can result in a phenomenon known as “hurry
+on professional service ﬁrms found that the majority of respondents
 
-sickness,” a term ﬁrst introduced in 1974 by cardiologists Meyer
+described their jobs as “highly demanding, exhausting, and chaotic,”
 
-Friedman and R.H. Rosenman to describe the damaging eﬀects of
+and also took it for granted “that working long hours was necessary
 
-Type A (i.e., high-achieving) behavior on cardiovascular health. Hurry
+for their professional success.” Their conclusions echo the results of
 
-sickness isn’t a diagnosable condition, but it encapsulates a set of
+another recent global workforce survey based on more than 56,000
 
-behaviors and emotions — impatience, chronic rushing, and a constant
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-sense of time scarcity — that can wreak havoc on a person’s physical
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

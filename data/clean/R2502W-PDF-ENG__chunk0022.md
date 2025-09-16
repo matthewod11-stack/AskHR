@@ -1,27 +1,15 @@
-# What AI Will Mean for Companies
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0896c76ee6ad33978a0ed1e6fd1acc52915fea64
+title: R2502W-PDF-ENG
+---
+## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
 
-We are at an early stage in the AI era, and the technology is evolving
+that truly matters for their brands—understanding their customers
 
-extremely quickly. Providers are rapidly introducing AI “copilots,”
+and developing innovative products to suit their needs. The same
 
-“bots,” and “assistants” into applications to augment employees’
+technology stack from the same providers also enables small and
 
-workﬂows. Examples include GitHub Copilot for coding, ServiceNow Now Assist to improve productivity and eﬃciency, and Salesforce’s
-
-Agentforce for everyday business tasks. These tools have been trained
-
-on a wide range of data sources and possess expertise in many domains.
-
-Although the quality of expertise embedded in these tools is already
-
-relatively high, the amount of it continues to grow swiftly while the
-
-cost of accessing it decreases. (For example, the price for developers to
-
-access OpenAI’s GPT-4 model from within their own applications has
-
-fallen by more than 99% over the past 18 months.) In the relatively
-
-near future more-advanced AI agents, equipped with greater capability
-
-and broader expertise, will be able to act on behalf of users with their
+medium-size businesses to compete with bigger players.

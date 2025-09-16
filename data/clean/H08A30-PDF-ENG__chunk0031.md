@@ -1,13 +1,23 @@
-## of autistic and disabled communities for identity-ﬁrst language.
+---
+source_path: H08A30-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d03d9de719af19eed55a2c8e5d7a7c9b1ef5dd4
+title: H08A30-PDF-ENG
+---
+# in need.
 
-This article was originally published online on June 26, 2024.
+This is a collaboration. Considering the real risk of individual people
 
-Mason Ameri, PhD is an associate professor of professional practice at Rutgers Business School. He is an expert in disability employment and is a consultant and speaker on policy reform in this area to government and industry.
+ﬁnding themselves on the wrong side of an employment decision,
 
-Terri R. Kurtzberg, PhD, is a professor of management and global business at Rutgers Business School. She is the author of ﬁve books and her research is frequently quoted in the media. Dr. Kurtzberg is the recipient of multiple teaching and research awards.
+change needs to be addressed at multiple levels. No one small
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+adjustment is going to resolve these concerns, but the tide is turning,
 
-7
+and companies are showing the will to improve. Understanding some
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of the elements that make a diﬀerence for disabled job candidates is an
+
+important place to start.
+
+Note: This article follows the preference

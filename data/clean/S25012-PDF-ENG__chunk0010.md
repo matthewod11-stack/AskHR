@@ -1,9 +1,11 @@
-## Empowering Employees Throughout the Enterprise
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6931e1c1d85fdfd503b7934b35ebce0403c3b5a6
+title: S25012-PDF-ENG
+---
+## HBR / Spotlight / The Secret to Successful AI-Driven Process Redesign
 
-Across industries from automaking to life sciences to consumer
+humans will remain the linchpin behind gen AI’s success and its ability
 
-products, and across functions from R&D to manufacturing to supply
-
-chain management, gen AI is boosting employee empowerment in new
-
-ways. At Mercedes-Benz, for instance, this is happening on the shop
+to improve business processes.

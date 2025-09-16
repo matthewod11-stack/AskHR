@@ -1,13 +1,27 @@
-## HBR / Digital Article / How “Perspective Swaps” Can Unlock Organizational Change
+---
+source_path: H07N8D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e921dbabe89eb99dfec70488f8d9b166f36921a
+title: H07N8D-PDF-ENG
+---
+# xxmmxx/Getty Images
 
-Perspective swaps involve intentionally shifting your point of view to
+To remain competitive, businesses must continually challenge the
 
-gain a new understanding of a situation. Although these switcheroos
+status quo and ﬁnd ways to reinvent themselves. In a world where
 
-can be valuable for all businesses, midsize companies are especially
+complacency can be comfortable, one unconventional approach can jolt
 
-poised to beneﬁt from them because they’re up against less bureaucracy
+organizations out of their traditional ways: It’s called the perspective
 
-and red tape than their larger counterparts, but are still infused with
+swap. For example, a CEO might spend a day working as a customer
 
-enough complexity to proﬁt from a change in mindset.
+service representative. Or, an HR representative might spend a week
+
+working in sales.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

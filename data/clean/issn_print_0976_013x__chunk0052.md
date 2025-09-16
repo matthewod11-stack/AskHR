@@ -1,21 +1,17 @@
-# improvement and
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 04dad41daed6104fef81b3c551425d59d7e427dc
+title: issn_print_0976_013x
+---
+## Design, Development, Incuba(cid:415)ng and Training establishments”.
 
-innova(cid:415)on”. No wonder, Technopark,
+In addi(cid:415)on to the vision and mission, the quality policy of Technopark makes the organiza(cid:415)on
 
-Thiruvananthapuram has evolved over the years as one of the ﬁnest industrial hubs especially
+dis(cid:415)nct: “Provide viably, superior environment and services with assured quality of service to
 
-for the technology companies in the world. Interes(cid:415)ngly, the Technopark campus which is the
+make technology businesses intrinsically compe(cid:415)(cid:415)ve and successful and promote regional
 
-largest technological park in the country in terms of built-up area is also reputed as one of the
+development through synergis(cid:415)c linkages between industry, government and academia,
 
-“greenest technopolis”2 in the world thanks to architectural designs imbued with principles of
-
-sustainability. Some of the top companies which have their oﬃces in Technopark include Aegis
-
-So(cid:332)ware, Allianz Cornhill, D+H, Envestnet, Ernst & Young, IBS So(cid:332)ware, Infosys, Navigant,
-
-Oracle, QUEST, RR Donnelly, Speridian Technologies, Suntec Business Solu(cid:415)ons, Tata Elxsi, TCS,
-
-Toonz Anima(cid:415)on, and UST Global. The Technopark has now expanded to accommodate more
-
-than 200 companies that employ a large por(cid:415)on of the IT workforce in Kerala3.
+based on con(cid:415)nuous

@@ -1,57 +1,47 @@
-# covenant of good faith and fair dealing.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: e93a0500e904f34545d1d96fa08646762774d9f7
+title: california_state_university_northridge_1
+---
+# in a handbook that
 
-Here are two cases involving bad-faith discharge. A breach of contract occurred
+specifically delineates a sequential format can work against the employer if not followed.
 
-when a salesman was terminated after 25 years of service. The employee had a position
+A hotel manger may be concerned that if progressive discipline becomes policy, past
 
-that was straight commission and closed a large sale for his company, then was later
+employees who were not given the option to rectify inappropriate behavior may sue them.
 
-terminated. It was determined by the courts that he was terminated because his employer
+Therefore, fear of what may occur from past employees may have an impact on current
 
-did not want to pay the large bonus. Second case, the courts found a forklift operator was
+employees. If no policy is set, the manager must determine, on what grounds an employee
 
-terminated after ten years of service, for not contributing to the employer's pension fund.
+circumstance, an agent of the employer will become inconsistent in their actions. The
 
-In the latter case the court looked at the special relationship that existed between and
+31
 
-and ''vulnerability and dependency" (Aalberts et al., 1993). The court holding focused on
+--
 
-32
+inconsistency in terminating employees will in itself lead to legal action from current
 
-the relationship of trust between both parties in that contract. In both of these cases, the
+employees or those recently terminated for lack of written disciplinary procedures in place.
 
-court permitted the case to stand on bad-faith tort and punitive damages.
+In the matter of bad-faith discharge, this is vague and this is a tort and can lead to
 
-Next, public policy tort is an exception to the at-will doctrine. As previously
+punitive damages. Here, the courts must find an implied contract even when one does not
 
-stated a contract is not needed to prove culpability. First, determining what constitutes
+exist, this being the first element. Second element, the courts must determine if the
 
-public policy in the view of the court. Another factor to consider is that each state may
+breach is in bad-faith and if the employee reasonable had an expectation of continual
 
-enforce different and or similar public policies. In practice, we can tum to existing case
+employment as well as sense of trust to the employer. This is a two-prong test; one
 
-law where the courts relied on statues, constitutions and precedents to determine public
+element cannot exist without the other fur the test to be satisfied. Again, a contract exists
 
-policy (Aalberts et al., 1993). In addition a judge may use his or her convictions in
+between two parties and good faith is apart of said contract, which is implicitly
 
-deciding the case. A case where the petitioner
+understood. "This is an accepted theory that has been codified in the Uniform
 
-took the employer to court for being
+Commercial Code, Article 1-203" (Aalberts et al., 1993). Given this, a breach of contract
 
-discharged on the grounds of reporting the misconduct of a supervisor to higher
-
-management. The plaintiff argued under the whistler blower protection, that his
-
-termination constituted wrongful discharge. Conversely, the courts responded this was
-
-not a public policy violation and the conduct was reported internally and not reported to
-
-the proper public agency. Here, the behavior of the supervisor was in question and the
-
-plaintiff, while an employee was not being asked to break any law on the behalf of the
-
-employer. If the plaintiff was being asked to break the law, the petitioner followed the
-
-correct steps by reporting the behavior in question to an agent of the employer.
-
-Moreover, to seek public policy protection the employee should have reported the facts of
+has occurred when a discharge was in bad faith and such discharge violated the implied

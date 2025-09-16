@@ -1,15 +1,29 @@
-## adjacent department, or an external resource.
+---
+source_path: H08TIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fea470a3c85aa0452903436932dd6ffaa192046d
+title: H08TIJ-PDF-ENG
+---
+# the entire problem.
 
-When employees feel comfortable seeking help broadly, problems get
+This question also helps you identify themes of the challenges that land
 
-solved faster, and teams build connectedness that doesn’t depend on
+on your desk. Is it typically a signoﬀ issue that’s getting in the way?
 
-direct manager involvement. Encourage your team to think bigger
+Is it an unresponsive department or problematic vendor? Identifying
 
-about the resources they can tap into.
+recurring blocks enables you to build sustainable solutions that don’t
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+depend on your constant involvement.
 
-4
+What support do you need?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The traditional question of “What support do you need from me?”—as
+
+my client Laura asked Sven—is a well-intended leadership sentiment,
+
+but it can unintentionally limit the number of potential support
+
+avenues. Support is general. It doesn’t have to come from you, the
+
+leader. It could also come from another leader, a fellow teammate, an

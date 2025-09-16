@@ -1,7 +1,31 @@
-# HBR / Digital Article / How to Avoid the Unexpected Consequences of Your DEI Policy
+---
+source_path: H07TPI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4545e618f45e0dcad9693d59c389d3622d70eb4b
+title: H07TPI-PDF-ENG
+---
+## direct and assertive like their male manager counterparts.
 
-While my research was speciﬁcally on gender, what I found was
+The problem from the women managers’ perspective was that the
 
-consistent with other research that emphasizes the need to consider the whole organization to eﬀectively implement a DEI eﬀort, as well as
+ﬂexible work policy would make the style they had developed diﬃcult to
 
-research that highlights the importance of considering how individuals
+maintain. While video calls were an option, managers did not view them
+
+as an easy or natural way to spark interaction. Others pointed out that with their subordinates working diﬀerent schedules with varied hours,
+
+this meant that they needed to be available at a broader range of hours
+
+as well if they were to remain available and helpful to their workers. Not
+
+only would this be diﬃcult for anyone to do, it also threatened to make
+
+women managers’ own work-life conﬂict much worse because it made it
+
+hard for them to have time with their own families.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

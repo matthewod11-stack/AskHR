@@ -1,21 +1,17 @@
-## automotive, telecommunications, ﬁnancial services, and energy) on
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40ade7774a2a85dcfbf74329a747645ae8faa142
+title: R2402F-PDF-ENG
+---
+## HBR / Magazine Article / Nurturing Innovation
 
-15 innovation projects. People from IECO mentor the teams on the
+Mentoring the collaboration is also at the core of the programs
 
-innovation methodology as well as team dynamics, helping participants
+organized by the Innovation Ecosystem (IECO) at Portugal’s Nova
 
-build trust and navigate the innovation process. On one occasion a team
+School of Business and Economics. One program is Project X, a three-
 
-member dropped out for personal reasons, which seriously lowered
+month innovation sprint in which 85 students work with 11 corporate
 
-the morale of the remaining teammates. Their mentor stepped in to
-
-boost their spirits and help them redistribute the workload. In another
-
-case a mentor’s intervention in conﬂict management was critical
-
-when team members strongly and passionately disagreed. The mentor
-
-suggested mechanisms for decision-making and conﬂict resolution to
-
-help overcome the constant arguments that were paralyzing the team.
+innovation teams from companies in various industries (including

@@ -1,5 +1,11 @@
-# New Blood for Comparative Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: de6a00a864dbd71d9ea093461d0541c6649c138d
+title: untitled
+---
+# Between the World Wars 71
 
-A cluster of comparative psychologists of lasting impact completed graduate training during the 1920s and 1930s. Per- haps the ﬁrst of the new generation of comparative psycholo- gists was Calvin P. Stone, who completed his PhD under Lashley at Minnesota in 1921. Stone went on to a long career at Stanford University, where he was noted for his studies of sexual behavior and the development of behavior, for his ed- itorial work, and for mentoring numerous students.
+University, brought him to New Haven in 1924. Yerkes and Lashley would be pivotal in the redevelopment of compara- tive psychology that would help to establish it as a ﬁeld that has been strong ever since. Several other individuals who would lead the reformulation of comparative psychology were educated in other programs scattered about the country. Although Yerkes functioned as an administrator in Washington until 1924, he never lost sight of his plan for a re- search station where nonhuman primates might be studied (Yerkes, 1916). In 1915, he took a half-year sabbatical to conduct research on primates in California. In 1923 he pur- chased two animals, Chim and Panzee, for study, primarily at his summer home in New Hampshire. The following sum- mer, he studied primates in the colony of a private collector, Madame Rosalia Abreu in Havana, Cuba. All the while, he was publishing material on primate research (e.g., Yerkes, 1925) and lobbying various private foundations for funds for a primate facility. Finally, in 1925 the Rockefeller Founda- tion appropriated funds to support a primate facility in New Haven and, in 1929, for a feasibility study for a remote pri- mate station. Later that year, $500,000 was granted and Yerkes established the Anthropoid Station of Yale University (later renamed the Yale Laboratories of Primate Biology when it was incorporated in 1935 and the Yerkes Laborato- ries of Primate Biology upon its founder’s retirement). The facility would remain in Orange Park until 1965 and was a focal point of research on the great apes.
 
-Zing-Yang Kuo, a native of Swatow, Kwangton, China, completed a doctorate with Edward C. Tolman at the Univer- sity of California at Berkeley in 1923. The primary issue with which Kuo grappled during his career was the nature of
+Lashley moved to the University of Minnesota in 1917 and, with an interlude of work in Washington, D.C., remained there until he moved to Chicago, ﬁrst to the Behavior Research Fund of the Institute for Juvenile Research in 1926 and then to the University of Chicago in 1929. He moved to Harvard University in 1935, and in 1942, he became the sec- ond director of the Yerkes Laboratories of Primate Biology in Orange Park, Florida, from which he retired in 1955.

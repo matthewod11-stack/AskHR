@@ -1,27 +1,31 @@
-# Why It Happens
+---
+source_path: H08PTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7dc5fafa6edee4a0018a1159f1d05ce2fd3b382c
+title: H08PTC-PDF-ENG
+---
+## that same employee in evaluations, consistently rating them as less
 
-The issue lies in how we, as leaders, interpret eﬀort and commitment.
+committed and less promotable than their colleague.
 
-We are trained, often unconsciously, to value visibility and
+This penalty persisted even when the detaching employee was a
 
-responsiveness as a proxy for dedication. Employees who respond late
+manager’s direct report, when the detaching employee was objectively
 
-at night or skip vacations are seen as “going the extra mile.” Meanwhile,
+better at their job, when neither of the employees actually did any work
 
-those who protect their non-work hours are viewed as less passionate,
+during their time oﬀ, and when the reason for detachment was virtuous
 
-less committed, and therefore less promotable, even when they are
+(e.g., caring for a sick family member).
 
-equally or more eﬀective on the job. This mindset ignores our own
+Perhaps our most eye-opening ﬁnding? The eﬀect was just as strong
 
-lay theories and years of supportive research showing that people who
+among managers who say they value work-life balance as it was
 
-detach from work come back more energized, more productive, and less
+among those who do not. Even managers who report having explicitly
 
-likely to burn out.
+encouraged detachment in their organizations penalized detaching
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+employees in our studies. That is not just inconsistent and unfair, it
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+is a recipe for a burnout culture.

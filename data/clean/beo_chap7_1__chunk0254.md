@@ -1,9 +1,9 @@
-## Administrative Science Quarterly 47:70-91.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 60e01f5736b50d247f31742b2365f79575615005
+title: beo_chap7_1
+---
+# of Behavioral Decision Making 4:263~72.
 
-Staw, B., and J. Ross. 1993. Organizational escalation and exit: the case of the Shoreham
-
-nuclear power plant. Academy of Management Journal 36:701-32.
-
-Stern, S. 2004. Do scientists pay to be scientists? Management Science 50:835-53.
-
-Stewart, S. A. 2005. Can behavioral economics save us from ourselves? University of Chicago
+Sgrensen, J. 2002. The strength of corporate culture and the reliability of firm performance.

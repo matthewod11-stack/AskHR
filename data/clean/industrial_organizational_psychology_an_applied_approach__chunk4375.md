@@ -1,7 +1,17 @@
-# grow. Management Review, 86(3), 9.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ab9ee636d730bfefa904c80f84fc7e83c3aa5647
+title: industrial_organizational_psychology_an_applied_approach
+---
+## high-potential managers. Public Personnel Management, 31(4), 465–484.
 
-Pearce, J. A. (1994). Dealing with religious diversity in the work place: A managerial guide and religious calendar for 1994. SAM Advanced Management Journal, 59(1), 4–12.
+Paul, R. J., & Ebadi, Y. M. (1989). Leadership decision making in a service organization: A ﬁ eld test of the Vroom- Yetton model. Journal of Occupational Psychology, 62(3), 201–211.
 
-Pearce, J. L., & Porter, L. W. (1986). Employee responses to
+Payne, K. (1997). Undoing drugs: Setting-up a drug free work-
 
-formal performance appraisal feedback. Journal of Applied Psychology, 71, 211–218.
+place program easier than ever. South Florida Business Journal, 17(35), 19–20.
+
+Payne, S. C., & Huﬀ man, A. H. (2005). A longitudinal examination of the inﬂ uence of mentoring on organizational commitment and turnover. Academy of Management Journal, 48(1), 158–168.
+
+Peak, M. H. (1997). Cutting jobs? Watch you disability expenses

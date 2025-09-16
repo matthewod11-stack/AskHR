@@ -1,13 +1,23 @@
-# everyone.
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d93395498b2b7312e1894fdf60044849aac6b396
+title: H07YIA-PDF-ENG
+---
+# to the challenge.
 
-For example, if you are committed to supporting women or people
+One way to standardize this process is to create a mentorship
 
-of color, you might allocate more “mentee missed opportunities”
+contract for each mentee outlining your expectations. Communicating
 
-before ending the mentorship relationship. Separately, for someone less
+expectations clearly from the beginning can prevent onboarding of
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+uncommitted mentees. Examples of expectations include timing of
 
-3
+response to emails, frequency of meetings, and speciﬁc areas that are “oﬀ limits” for discussion. Another approach to standardizing
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+your hiring and ﬁring practices is to give mentees a set number
+
+of opportunities to demonstrate their commitment based on the
+
+established expectations. The number of opportunities granted is determined by you, which oﬀers ﬂexibility in your approach to

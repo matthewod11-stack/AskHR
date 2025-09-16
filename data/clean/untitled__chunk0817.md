@@ -1,13 +1,15 @@
-## Thurstone’s Theory of Primary Mental Abilities
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0988b374b816777f6d59cd245cc341d09d8be183
+title: untitled
+---
+# Models of the Nature of Intelligence
 
-Louis L. Thurstone, like Spearman, was an ardent advocate of factor analysis as a method of revealing latent psycho- logical structures underlying observable test performances. Thurstone (1938, 1947) believed, however, that it was a mistake to leave the axes of factorial solutions unrotated. He believed that the solution thus obtained was psychologi- cally arbitrary. Instead, he suggested rotation to what he re- ferred to as simple structure, which is designed to clean up the columns of a factor pattern matrix so that the factors display either relatively high or low loadings of tests on given factors rather than large numbers of moderate ones. Using simple-structure rotation, Thurstone and Thurstone (1941) argued for the existence of seven primary mental abilities.
+some of these common elements might be. For example, they might include understanding the problems and responding to them.
 
-- 1. Verbal comprehension—the ability to understand verbal material. This ability is measured by tests such as vocabu- lary and reading comprehension.
+Theory of Connections. Thorndike, Bregman, Cobb, and Woodyard (1926) proposed a quite similar theory, based on Thorndike’s theory of learning. They suggested that
 
-- 2. Verbal ﬂuency—the ability involved in rapidly producing words, sentences, and other verbal material. This ability is measured by tests such as one that requires the examinee to produce as many words as possible in a short amount of time beginning with a certain letter.
+in their deeper nature the higher forms of intellectual operations are identical with mere association or connection forming, de- pending upon the same sort of physiological connections but requiring many more of them. By the same argument the person whose intellect is greater or higher or better than that of another person differs from him in the last analysis in having, not a new sort of physiological process, but simply a larger number of con- nections of the ordinary sort. (p. 415)
 
-- 3. Number—the ability to compute rapidly. This ability is measured by tests requiring solution of numerical arith- metic problems and simple arithmetic word problems.
-
-141
-
-142
+According to this theory, then, learned connections, similar to Thomson’s bonds, are what underlie individual differences in intelligence.

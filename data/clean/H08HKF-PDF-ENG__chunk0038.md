@@ -1,17 +1,35 @@
-# resources than implementation.
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e25c23d4ce7c141371e1e322a88fd2089794b03a
+title: H08HKF-PDF-ENG
+---
+## other stakeholders (e.g., vendors, suppliers, strategic partners, etc.). It
 
-Many organizations have started building their RAI programs and met
+also competes with other strategic priorities and contends with limited
 
-with diﬃculty in deploying them. In most every case, this is either
+resources. For this reason a phased rollout of the RAI program is highly
 
-because existing elements of the program need augmentation or there
+recommended. In other words, taking baby steps to implement an RAI
 
-are elements that have not been started because there isn’t suﬃcient
+program is highly recommended. However, this must be distinguished
 
-knowledge of what rolling out a robust RAI program requires. While this
+from taking baby steps in the design of the program. The program
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+should be designed as fully as possible prior to implementation.
 
-9
+An analogy is helpful. If you ultimately want a building with four wings
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+but you only have the resources to build one of those wings, you would
+
+do better to complete the design of the four-wing building and then
+
+build in phases than you would to build a single wing and ﬁgure out
+
+later how to make additions to what you’ve already built. Similarly, it
+
+is better to design a complete RAI program and build in phases than
+
+to build a bit now and ﬁgure out later how to tack on other elements.
+
+Fortunately, completing design of an RAI program requires far fewer

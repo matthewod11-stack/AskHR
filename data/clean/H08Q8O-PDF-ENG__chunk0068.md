@@ -1,5 +1,13 @@
-## proximity, transparent principles, and attentive adaptability when
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39c76b2519cb8114b7cfa9a730f1cfea4b129c0e
+title: H08Q8O-PDF-ENG
+---
+# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
 
-putting it into practice—they can reset the psychological contract
+of care requires them to be more like anthropologists, psychologists,
 
-they have with their employees. That’s hard to hurry, but worth the
+or social workers. When organizations focus on what is right, what
+
+works, and what matters when setting policy—and consider relational

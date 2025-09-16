@@ -1,21 +1,23 @@
-## HBR / Magazine Article / You Need Two Leadership Gears
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3dc8d9c919fde2ce257b06ff2f5c6354faf18dba
+title: R2302E-PDF-ENG
+---
+# or an occasion for input.
 
-which overwhelmed its capacity in terms of beds and staﬀ time.
+Differentiate meetings. Another way to get employees to shift power
 
-Making matters worse, it took days to process the tests for diagnosing
+modes is to stipulate the purpose of meetings. This is something
 
-the virus. The hospital’s leaders and staﬀ had to innovate at a time
+Massimo Lombardo, who at the time was the director of the Codogno
 
-when demands on them were extraordinary. To keep things on track,
+Hospital in the Lombardy region of Italy, did in the early months of the
 
-Lombardo speciﬁed which meetings were ones where staﬀ members
+Covid-19 pandemic. The hospital was hit with a tsunami of patients,
 
-would receive their marching orders and which were sessions where
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-they should contribute ideas. The daily morning all-staﬀ meeting, when
+9
 
-hospital employees gathered to align their plans for the day, was when
-
-they’d get their orders. But at debrieﬁng meetings, held twice a day,
-
-all employees—from plumbers to nurses to surgeons—were encouraged
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,27 @@
-## of employees and managers from the organization.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 6323eb9981ae82a8b9a7b0490262f58db093d1d6
+title: performance_management_3rd_edition_by_aguinis
+---
+# performance management system.
 
-(cid:2) As soon as the performance management system is in place, collect various
+(cid:2) Design an appeals process including two levels: Level 1, which involves the human resources (HR) department in the role of mediator, and Level 2, which involves a panel of managers and peers and, possibly, a senior-level manager in the role of arbitrator and final decision maker.
 
-measurements that will provide information regarding the system’s effectiveness, the extent to which it is working the way it should, and whether it is producing the expected results.
+(cid:2) Describe unintentional and intentional types of errors that raters are likely to make
 
-(cid:2) Understand issues involved in implementing a performance management system
+in evaluating performance.
+
+(cid:2) Implement training programs such as rater error, frame of reference, and behavior
+
+observation that will minimize the impact of unintentional rating errors.
+
+(cid:2) Implement a self-leadership training program that will allow supervisors to increase
+
+confidence in their skills to manage the performance management process and, consequently, allow them to minimize rating errors.
+
+(cid:2) Understand the importance of conducting a pilot test before the performance
+
+system is implemented organization-wide.
+
+(cid:2) Conduct a pilot test of the performance management system using a selected group

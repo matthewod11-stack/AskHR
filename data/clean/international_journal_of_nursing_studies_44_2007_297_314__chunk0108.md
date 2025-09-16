@@ -1,15 +1,15 @@
-# Data analysis
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: e94f992971845bda35b32009de50d691e5e7cc24
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# response scale)
 
-Descriptive statistics used to explore variables.
+Secondary analysis of RN relicensure surveys (self-report) returned in 2001 in Vermont, USA. Questions included on topics of:
 
-Correlation matrices generated to examine relationships between variables.
+(cid:2) Intent to leave (cid:2) Reason for leaving current position (cid:2) Practice setting (cid:2) Enrollment in educational program (cid:2) Demographics.
 
-Discriminant analyses used to estimate % of correct classiﬁcations of intent to leave on job satisfaction and professional commitment.
+RR ¼ 80% n ¼ 4418
 
-Association testing used w2 for categorical variables and t-tests for continuous variables.
-
-Stepwise logistical regression used to predict likeliness to leave.
-
-All formal statistical testing used a 0.05 type I error level
-
-Pearson’s correlation analyses performed for all major study variables.
+Cross-sectional survey design. On-site questionnaire administered to 241 staff nurses and 5 nurse managers from 12

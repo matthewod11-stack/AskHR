@@ -1,7 +1,11 @@
-# III.(cid:32) References:
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 6b840bbc70de265df796606023c6a32785b6b883
+title: internship_report
+---
+# which position, salary, allowances, date of commencement of employment and necessary
 
-Successful Applicant must provide Names and Details of 02 (two) referees one of which should
+instructions are included. If the applicant accepts the offer, he / she is to sign a duplicate copy of
 
-be from the current or most recent employer (if applicable) and the other may relate to relative,
-
-business, education or character prior to start of employment. The Company must have received
+the letter and return it to the Human Resources Department.

@@ -1,27 +1,43 @@
-## HBR / Magazine Article / Now Is the Time for Courage
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1de3449e66129660b40f36e2f174ec51da9ce4b
+title: R2505C-PDF-ENG
+---
+## as citizens, employees, or leaders—as well as their obligations to
 
-Access resources. Your connections can provide tangible help,
+others, making them feel more duty bound to act. The brave leaders
 
-including money and manpower—a safety net that will allow you to
+I encountered often had great mentors they could turn to in moments
 
-feel more in control and thus more courageous. The investors who
+of struggle. Others were able to ﬁnd courage by simply imagining what
 
-gave Ixigo’s Bajpai bridge funding are a good example. So are two
+their allies expected they would accomplish.
 
-organizations that Haugen turned to for support when releasing the
+Consider Nair, who was the chief human resources oﬃcer of Unilever
 
-information she had about Facebook: eBay founder Pierre Omidyar’s
+before taking the helm of Chanel. She told me that when people
 
-Luminate and the nonproﬁt Whistleblower Aid. Your network can also
+questioned her competence as a woman in the workplace or as an
 
-oﬀer knowledge that can help you make sense of chaos and surmount
+HR (that is, “soft skills”) leader, she would remember the conﬁdence
 
-obstacles. As Nooyi said in an interview with McKinsey, “You can’t
+that female family members, whose own ambitions had been stiﬂed,
 
-know everything about everything. Bring in the expert. Let them coach
+instilled in her. “They would say things like, ‘Let Leena get the
 
-you….Sitting down one-on-one and learning everything there is to learn
+opportunity. She’s intelligent. She’s talented.’” She also told me about
 
-is a good thing.”
+a conversation she had with her longtime mentor, Nooyi, about a new
 
-Accept feedback. When taking any kind of risk, it’s critical to surround
+job Nair felt she wasn’t ready for. The former PepsiCo CEO advised her
+
+to think not about her limitations but about the key strengths she could
+
+bring to the role, which gave Nair the push she needed to take it.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

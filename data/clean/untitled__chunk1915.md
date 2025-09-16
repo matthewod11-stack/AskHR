@@ -1,3 +1,17 @@
-## Review of Neurology and Psychiatry, 8, 259–271.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0ad35ee17852534dda358e351943f21997a35f2e
+title: untitled
+---
+## Meyer, A. (1904). Afew trends in modern psychiatry. Psychological
 
-Moseley, E. (1838). Eleven chapters on nervous and mental com-
+Bulletin, 1, 217–240.
+
+Miller, N. E. (1944). Experimental studies of conﬂict. In J. M. Hunt (Ed.), Personality and the behavior disorders (Vol. 1, pp. 431–465). New York: Ronald.
+
+Moniz, E. (1937). Psycho-chirugie [Psycho-surgery]. Nervenartz,
+
+10, 113–118.
+
+Moore, J. W. (1910). The syphilis-general paralysis question.

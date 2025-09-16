@@ -1,5 +1,9 @@
-# Output
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 31afeaf5b2d1347357ceb3e27c01edad19df36de
+title: prompt
+---
+# VARIABLES {city} = "Amsterdam"
 
-Amsterdam is a beautiful city full of canals, bridges, and narrow streets. It’s a great place to visit for its rich history, culture, and nightlife.
-
-Table 20. Using variables in prompts
+PROMPT You are a travel guide. Tell me a fact about the city: {city}

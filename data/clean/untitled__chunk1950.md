@@ -1,7 +1,13 @@
-# A SUSTAINING ZEITGEIST
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 459286c5618f5f8394b601138fe95ec79ac021a0
+title: untitled
+---
+# A Sustaining Zeitgeist
 
-Another way of looking at the fact that Witmer was success- ful when he approached his university looking for funds for a psychology clinic and when he contacted a philanthropist for money to start a journal in clinical psychology is to say the zeitgeist was favorable. We have already considered a num- ber of events that during the eighteenth and nineteenth cen- turies prepared the way for the development of this ﬁeld, and here we shall note others that promoted its advance during the early part of the twentieth century.
+Similarly, James argued in his discussion of the self that people had it in their power to raise their self-esteem. He rea- soned that our feelings about ourselves are determined by our accomplishments divided by our aspirations. If we wished to feel better about ourselves, we could raise our self-esteem by achieving more of our goals or—and this was the easier course—by lowering our aspirations and pretensions.
 
-However, it would be incorrect to suggest the going was smooth and easy. The APA, founded in 1892 with 31 mem- bers, had only about 300 by 1917; its purpose was solely to promote the advance of psychology as a science, and it was
+These practical suggestions made sense to James, who was shortly to become a leading proponent of pragmatism, a philosophical system that stresses that the value or merit of a truth or undertaking lies in its practical consequences. How- ever, in the opinion of those who favored psychology as a “pure” science, these practical matters were totally extrane- ous to the ﬁeld. James was not so sure psychology was headed in the right direction, and in 1907 he became a pro- fessor of philosophy. Within six years, a movement called be- haviorism was launched against the prevailing psychology of Wundt and introspection.
 
-341
+It was in 1913 that John B. Watson proclaimed psychol- ogy to be “a purely objective experimental branch of natural science. Its theoretical goal is the prediction and control of behavior.” Using as his model the reﬂex, Watson argued that all psychology needed to be concerned about were stimuli and responses: given the stimuli, to determine the responses; given the responses, to discover the stimuli. Research using introspection was best avoided, and psychologists should en- deavor to put their ﬁndings to practical use (Watson, 1913). In 1915, Watson became president of the American Psycho- logical Association (APA), while the numbers of psycholo- gists who regarded themselves as behaviorists grew with each year. Their focus was not on sensation or perception but on learning, and they were not averse to seeing the process of learning in all areas of human functioning.

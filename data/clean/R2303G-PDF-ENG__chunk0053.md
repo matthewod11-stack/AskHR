@@ -1,15 +1,23 @@
-# recovery from a setback—can help.
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d08d1af409a622d8569b0474fde489fa3deb50fe
+title: R2303G-PDF-ENG
+---
+## —especially under pressure—demands commitment and eﬀort. Here
 
-Map out your learning agenda. Remember that you might need to
+are a few tips to help you get on your way.
 
-work on your skills in particular settings. You might be great at
+Know what you’re in for. At the outset upping your people skills can
 
-collaboratively navigating complex multistakeholder situations where
+seem simple enough. But people who lack knowledge or experience
 
-you have no direct authority over those you’re working with, but have
+often overestimate their own competence—the notorious Dunning-
 
-a hard time doing the same with your own team. Or you might excel
+Kruger eﬀect. And even experienced managers tend to believe they’re
 
-at listening and fostering psychological safety with your team but ﬁnd
+better at coaching than they really are. So it’s important to develop a
 
-yourself unable to leverage those interpersonal skills to get things done
+realistic sense of the time and eﬀort required to genuinely adapt your
+
+style. Knowing what milestones to look out for—such as early wins and

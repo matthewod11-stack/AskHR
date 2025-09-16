@@ -1,9 +1,17 @@
-## Relation to State, Local, and Other Federal Laws
+---
+source_path: Employment Law Guide - Child Labor Protections (Agricultural Work).md
+pages: n/a-n/a
+chunk_id: feb72341ca89a2c401d23c7aa621f9eb22aaec84
+title: Employment Law Guide - Child Labor Protections (Agricultural Work)
+---
+# the Department of Labor's Administrative Review Board. If an exception is not ﬁled within the 15 days, the
 
-Many states have child labor laws. Nothing in the FLSA excuses noncompliance with a state law that
+penalty becomes ﬁnal.
 
-establishes a higher standard than that provided in the FLSA. See 29 U.S.C. 218(a).
+The Act also provides for a criminal ﬁne of up to $10,000 upon conviction for a willful violation. For a second
 
-The Department of Labor provides employers, workers, and others with clear and easy-to-access information
+conviction for a willful violation, the Act provides for a ﬁne of not more than $10,000 and imprisonment for up
 
-and assistance on how to comply with the FLSA. Among the many resources available are:
+to six months, or both. The Secretary may also bring suit to obtain injunctions to restrain persons from
+
+violating the Act.

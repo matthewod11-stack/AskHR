@@ -1,3 +1,19 @@
-# 250 Psychology of Women and Gender
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 753ba6988582979c64a63580735d8e8437f8aa60
+title: untitled
+---
+# CONCLUSION 264 REFERENCES 264
 
-led psychologists to relegate knowledge about women to the margins and to regard questions about gender as having little import or signiﬁcance.
+263
+
+In 1910, Helen Thompson Woolley rendered the following assessment of psychology’s claims about women: “There is perhaps no ﬁeld aspiring to be scientiﬁc where ﬂagrant per- sonal bias, logic martyred in the cause of supporting a preju- dice, unfounded assertions, and even sentimental rot and drivel, have run riot to such an extent as here” (p. 340). Now, over 90 years since Woolley’s assessment, that charge no longer stands. Galvanized by the second wave of feminism, the ﬁeld of psychology of women and gender has produced a large and diverse body of research, theory, and methodologi- cal critique and innovation. Born in the late 1960s, the ﬁeld is young in comparison to many other ﬁelds of psychology; thus, its history is short.
+
+of view are brought into interaction, leading to productive intellectual interchange and new developments. Moreover, many feminist psychologists have close connections (or joint appointments)withwomen’sstudiesprograms.Theseconnec- tions infuse feminist psychology with the knowledge and perspectives of other disciplines, such as history, sociology, and philosophy of science. An interdisciplinary stance has prompted some to formulate innovative research questions and to experiment with research approaches from other dis- ciplines. For some, an interdisciplinary stance has also fos- tered a critical consciousness of the powers and limits of psychology’s epistemological, theoretical, and methodologi- cal commitments.
+
+The ﬁeld of psychology of women and gender is pluralist and multifaceted. Psychologists have posed questions about sex and gender in virtually every area of psychology. They have allegiances to a broad range of intellectual frameworks, and they espouse diverse modes of inquiry and approaches to clinical practice. Feminism has always centered on ending the subordination of women, but today feminism encom- passesawidespectrumofadditionalideas,theories,andprac- tices. Among feminist psychologists, this spectrum is fully represented. A key strength of the ﬁeld is that diverse points
+
+Feminist psychologists have continually engaged in ongo- ing critical conversations about how best to study gender and how best to do psychology—whether as researchers, practi- tioners, teachers, or activists. Indeed, skepticism about con- ventional ways of doing psychology has been a hallmark of feminist psychology. Feminists have noted that psychologi- cal knowledge has often served the interests of social groups of which psychologists are part. Historically, most psycholo- gists have been white, middle or upper-middle class, and male. Feminists also have analyzed the intellectual habits that
+
+249

@@ -1,11 +1,31 @@
-## passionate about your company, products, culture, or any of the eight
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2186bc9a80d0dde38c33984d894f7faeb77aec5d
+title: H07T10-PDF-ENG
+---
+## self-driven, high productivity, growth mindset, overachievers, and
 
-traits referenced earlier.
+strong at stakeholder management. The eight traits read like a wish list
 
-But how do you identify individuals with this versatile and compelling
+of qualiﬁcations for people you want to be part of your team.
 
-mix of critical thinking and curiosity? Boldly ﬂip the interview process.
+Consulting ﬁrms and technology companies have pushed the standard
 
-The oldest and still the most powerful tactic for fostering critical
+battery of interview questions by using scenario-based or behavioral
 
-thinking is the Socratic method, developed over 2,400 years ago
+questions: How much should you charge to mow a lawn in Atlanta? Why
+
+are utility holes round? How would you design a wine rack for people who
+
+are blind? If you received $5 million to solve a global problem, what issue
+
+would you address and how?
+
+These are a good step forward in assessing candidates’ ability to
+
+ask questions, but while answers to these questions will analyze a
+
+candidate’s problem-solving skills, ability to deal with ambiguity and
+
+creative thinking, it will not indicate if they are curious, self-starters, or

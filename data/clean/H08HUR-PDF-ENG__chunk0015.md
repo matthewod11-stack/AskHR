@@ -1,13 +1,29 @@
-## HBR / Digital Article / 10 Signs of a Toxic Boss — and How to Protect Yourself
+---
+source_path: H08HUR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6f2b818bc8bca1ef918e310e3ad3ee13ee56812
+title: H08HUR-PDF-ENG
+---
+## The Consequences of Working for a Toxic Boss
 
-- 2. Undermined trust
+If you’re working for a toxic boss, you’re likely well aware of just how
 
-Trust is critical for employee wellbeing, yet the behavior of toxic bosses
+damaging it can be. Here are some of the most common impacts:
 
-will erode the trust that you have in them.
+- 1. Increased feelings of fear and anxiety
 
-- 3. Low morale
+Feelings of fear will permeate not only through your workplace but also
 
-When morale and conﬁdence are low it can undermine your feeling
+into your home. Research shows that as many as one in four employees
 
-of self-worth, lead to a deterioration in your performance, and have a
+dread going to work in the morning. Your boss’s toxicity may also lead
+
+you to constantly feeling anxious as they undermine your conﬁdence,
+
+leaving you worried about your job.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

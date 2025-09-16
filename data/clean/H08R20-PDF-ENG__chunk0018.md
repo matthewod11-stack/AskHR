@@ -1,37 +1,27 @@
-# help with?”
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bfa31038bc984c02b26c4def53b38f8413c97980
+title: H08R20-PDF-ENG
+---
+# following:
 
-- Check-in on energy and emotions. Energy and emotions are also
+- Ask meaningful questions. Go beyond the greetings like “How are
 
-data we need to lead people better. One well-researched practice is to
+you?” or “How’s your day?” Ask questions that reveal the details of
 
-do a green, yellow, or red check-in to get a sense of people’s energy
+people’s lives and work. Your questions should be clear, open, and
 
-(green means you’re able to be present, yellow means you’re somewhat
+exploratory. For example, “What has your attention today?” or “What’s
 
-stressed, red means you’re overloaded). Or you might ask: “What’s
+been most meaningful today?” or “What is challenging you right now?”
 
-giving you energy today? What’s taking away energy today?” What’s
+Ask questions that allow for more than a “yes” or “no” response.
 
-important is to not jump in to “ﬁx” what you observe—awareness is the
+Instead of, “Did the meeting go well?” you might ask, “What was
 
-goal. Later, you might say, “I noticed you were a ‘red’ today, what can I
+most interesting to you in that meeting?” Finally, be exploratory, not
 
-do to help?”
+evaluative. Instead of, “What’s the status on the project?” you might
 
-- Monitor recurring struggles and oﬀer “proactive compassion.”
-
-The more you start to see others, the more you’ll learn about what
-
-people struggle with. One way to build the skill of compassion is to
-
-regularly reﬂect on the diﬃculties you notice. Are they tied to certain
-
-season? A particular project or objective? Then, think about the signs
-
-you may look for to anticipate that struggle. Finally, identify the
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ask, “What’s been working well on that project? Any roadblocks I can

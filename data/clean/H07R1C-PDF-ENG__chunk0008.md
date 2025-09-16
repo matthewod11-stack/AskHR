@@ -1,29 +1,17 @@
-# HBR / Digital Article / Research: Caregiver Employees Bring Unique Value to Companie…
+---
+source_path: H07R1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 02d43ed32154fb0812d673e2f6ab2f7845d1c029
+title: H07R1C-PDF-ENG
+---
+## parents as their personal translator and navigator of American systems
 
-When we asked James if his caregiving roles have helped him perform
+since high school. He’s also the father of three children under the age of
 
-professionally, he didn’t hesitate:
+- 11. Taking care of others is an integral part of his life.
 
-One hundred percent. What I have learned is highly transferable to
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-the workforce. I am a relationship manager for external clients…And
+1
 
-the better we can understand them, the better we perform…At the
-
-end of the day, asset management is asset management. But those
-
-relationships that we build? Those are what sets us apart. That’s
-
-what makes me so good at my job.
-
-There is no lack of data and information about why organizations
-
-should oﬀer caregiver-friendly employee policies and beneﬁts. We’re
-
-aware of the “mommy penalty” women face when they take time
-
-away from work to care for family members. We know that the U.S.
-
-lacks the infrastructure to support caregivers, and in fact is the only
-
-industrial nation without federal paid parental leave. Many people live
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

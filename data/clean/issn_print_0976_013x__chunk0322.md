@@ -1,31 +1,19 @@
-## Robust Practices and Concurrent Strategies
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: bfc8f4b6b85e0ed092d2aeda25a4cebb457ad9b3
+title: issn_print_0976_013x
+---
+# collaboration and integration of human-machine interactions, AI algorithms, and automation
 
-Supply chain evolving triggers have led to several developments in concepts and practices.
+to enhance productivity and response. AI in people’s daily life and Society 5.0 are some of
 
-However, the quest for robustness and innovation to maintain a competitive edge under any
+the implications that will not only be restricted to organizations but also more open towards
 
-circumstances needs continuous refinement and performance measures evaluation. Dynamic
+solving societal problems. The sustainability aspects will be extended for the benefit of
 
-supply chain/network structure capabilities are continuously subjected to performance
+society and for the sustainability of the economy by creating expertise skills in human-
 
-improvements from individual or aggregated research concepts. The series of shocks and
+machine connectivity and allied employment opportunities. Resilience, sustainability, and
 
-disruptive events caused by the onset of the Covid-19 outbreak and several geographically
-
-dispersed regulatory constraints hampered the performance of the global supply chain and
-
-resulted in several sufferings.
-
-Research practices developed to date were subjected to critical, practical, and unfamiliar
-
-exposure, wherein most failed in achieving performance improvement and target achievement
-
-under extremely high pressure of demand for essential commodities. As a result, several
-
-organizations went bankrupt, and laying off employees hampering sustainable practices
-
-became common. Human-centric focus and extension of sustainable dimensions/targets to
-
-societal and individual prosperity were realized. Specific organizations could sustain and
-
-improve their performances in economic, societal and reputation aspects by utilizing
+digital SC are concurrent strategies to adopt in Industry 5.0.

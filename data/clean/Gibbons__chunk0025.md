@@ -1,21 +1,32 @@
-### **[4. From hierarchical authority to network influence]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: f02d3bb6f9607686ac37d2bd5aa43727ddcdb9d2
+title: Gibbons
+---
+### **[3. From human resources to human essence]{.underline}**
 
-[Traditional org charts assumed knowledge flowed downward. Seniors knew
-more. Experience meant expertise. Authority came from
-position.]{.underline}
+[Here\'s an uncomfortable truth: AI will soon do most routine cognitive
+work better than humans. Not just data entry or basic analysis, but
+complex problem-solving, creative writing, even strategic
+planning.]{.underline}
 
-[AI destroys this assumption. When a junior employee with AI can
-outperform a senior executive\'s analysis, what happens to
-hierarchy?]{.underline}
+[So what becomes of human value? Everything that makes us irreplaceably
+human becomes infinitely more valuable. Not our ability to process
+information, but our capacity for genuine empathy and connection, moral
+imagination and ethical reasoning, meaning-making and purpose creation,
+authentic creativity and pathbreaking original thought, and navigating
+ambiguity and paradox.]{.underline}
 
-[It evolves into something radically different. Influence without
-position emerges in liquid, project-based structures. Credibility comes
-through your contribution and the ability to find yourself in the right
-places with the right problems where you can shine, not just title.
-Leadership becomes a matter of orchestration, not command of
-resources.]{.underline}
+[This shift redefines everything about talent. Hiring transforms from
+focusing on credentials to character and creativity. Communication
+skills and EQ in abundance. Development shifts from building skills to
+unleashing human potential. Evaluation moves from measuring productivity
+to assessing contribution to culture. Rewards transition from
+recognizing execution to celebrating innovation and
+insight.]{.underline}
 
-[You\'re no longer leading humans alone. You\'re leading hybrid Human-AI
-teams where the AI might be the smartest participant in the room. Your
-value isn\'t in being the expert - it\'s in being the integrator, the
-sense-maker, the wisdom-keeper.]{.underline}
+[Leaders must now manage something unprecedented: identity crises at
+scale as entire professions transform. The question isn\'t \"How do we
+upskill?\" but \"How do we help people find meaning when machines do the
+work?\"]{.underline}

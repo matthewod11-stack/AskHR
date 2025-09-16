@@ -1,7 +1,15 @@
-## construction UK headquarters, a 300-meter-long rooftop park with over
+---
+source_path: H07Q3D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18bf7159b4275a90c5ec702d669c9bd5f1ce7c17
+title: H07Q3D-PDF-ENG
+---
+# Illustration by Mary Haasdyk Vooys
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+In Canary Wharf, the bustling district that serves as the London base
 
-1
+for many global enterprises, developers are building a “green spine” that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+will soon wind through the skyscrapers, giving workers ready access
+
+to green spaces during their workdays. Across town at Google’s under-

@@ -1,9 +1,11 @@
-# your team with your words.
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59108d33ec670c48729bfd3104820a0c73121fee
+title: H08THK-PDF-ENG
+---
+## Great Leadership Is About Great Communication
 
-- Use simple language to write about complex things. Long,
+To be an eﬀective leader, you need to become an exceptional
 
-complicated sentences make written ideas hard to understand because
-
-they demand more concentration. You’ll win more supporters if you
-
-replace long words and sentences with shorter, more straightforward
+communicator. Here are four strategies to help you motivate and inspire

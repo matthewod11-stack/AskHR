@@ -1,9 +1,21 @@
-## marketing, analytics, IT, creative, data science, and engineering. The
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cd9bd0bbccc198c5719229e9e08d900ac77e45d
+title: R2406G-PDF-ENG
+---
+# personalized digital experience.
 
-participants had the authority and the budget to take meaningful
+Instead of competing on manufacturing scale, companies are competing on the scale of customer interactions and on the speed at which they learn from interactions.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+More-traditional companies often fail a few times before they manage
 
-9
+to emulate these approaches. We recently worked with a large U.S.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+bank that had created a team charged with breaking down silos to
+
+deliver greater agility throughout the company. But all it did was
+
+create yet another silo. We disbanded it and replaced it with a cross-
+
+functional “agile” pod, made up of in-house representatives from

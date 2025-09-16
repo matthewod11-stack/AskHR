@@ -1,1 +1,11 @@
-# 41
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 6afa1b3d18534aa201d9d9d4d4414edfe200c6bd
+title: performance_management_3rd_edition_by_aguinis
+---
+# 5: extremely critical
+
+Rating both frequency and criticality is necessary because some tasks may be performed regularly (e.g., making coffee several times a day) but may not be very critical. The job analyst can then multiply the frequency scores by the criticality scores to obtain an overall score for each task. So, if making coffee receives a frequency score of 4 (i.e., “every few hours to daily”) and a criticality score of 0 (i.e., “not critical”), the overall score would be 4 × 0 = 0. Considering frequency scores alone would have given us the wrong impression that making coffee is a task that deserved a prominent role in the job description. Overall scores for all tasks can be ranked from highest to lowest to obtain a final list of tasks.
+
+Numerous job analysis questionnaires are available on the Internet. These questionnaires, which can be administered online, with a paper survey or in interview format, can be used for a variety of positions. For example, the state of Delaware uses a job analysis questionnaire available at http://www.delawarepersonnel.com/class/ forms/jaq/jaq.shtml or http://www.delawarepersonnel.com/class/forms/jaq/jaq .htm. This questionnaire includes 18 multiple-choice job content questions. Job content information is assessed through three factors: (1) knowledge and skills, (2) problem solving, and (3) accountability and end results. As a second example, the city of

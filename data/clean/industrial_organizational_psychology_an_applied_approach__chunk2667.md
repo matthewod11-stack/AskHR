@@ -1,11 +1,7 @@
-## Figure 11.5 Gender diff erences in communication
-
-women at work get upset when he refers to them as the “girls in the office.” When I conduct training sessions for police officers, we discuss how such words as boy, son, and pretty little lady can be emotionally charged and should thus be avoided. Even within English-speaking countries, a particular word can have differ- ent meanings. Take, for example, if someone said, “He was pissed.” In the United States, we would interpret that the person was angry, yet people in Ireland would interpret that the person was drunk. If someone in Ireland said, “Where is the crack?” they would be asking the location of a party, not asking about drugs.
-
-Words or phrases that are vague can also cause problems. For example, you need a set of data by the end of the day, so you tell your assistant that you need the data immediately. At the end of the day, however, the data are not there. The next morning, the employee proudly brings you the data that she has compiled in “less than a day” and is confused about why you are angry. In this example, you encoded the message as “I need it by  o’clock,” you transmitted the message as “I need it immediately,” and the employee decoded it as “She needs it tomorrow.” If someone told you, “I won’t be gone long,” when would you expect her back? When I ask this question of my classes or seminar audiences, the answers usually range from ten minutes to three hours. Interestingly, at one seminar I conducted, a woman responded that her husband said that very phrase and came back  days later.
-
-As the previous examples demonstrate, it is important to be concrete in the words we use. Why, then, are we often vague in the way we communicate? One reason is that we want to avoid confrontations. If a husband tells his spouse that he will be gone for  days, he may know that she will object. By being vague, he avoids the initial confrontation and hopes that she will not notice how long he has actually been gone—a common ploy used by us men, but one that never seems to work.
-
-Another reason for vagueness is that it gives us a chance to “test the water” and see what a person’s initial reaction might be before we say what we really want. Asking someone out on a date is a perfect example. Instead of being direct and saying, “Do you want to go out this Friday?” we often say something such as, “So, what are you up to this weekend?” If the response is positive, we become a bit more bold.
-
-Gender is another factor related to the use of words. As shown in Figure ., Deborah Tannen (, ) believes that men and women speak very different languages and have different communication styles. By understanding these dif- ferences, communication in the workplace as well as in the home can be dramati- cally improved.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b272a81346611ae99fa0f177a61fe9b299533ec1
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Receiver

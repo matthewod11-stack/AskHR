@@ -1,7 +1,7 @@
-# (Source: James Evan (2017))
-
-According to Evans (2017), data analysis employs statistical tools, other mathematical
-
-methods, and information technology to draw insight from data. Evans also defines data
-
-analysis for business as <a process of transforming data into actions through analysis and
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 533b274eb7a6e1dc3766a9a58559c877c8d365d2
+title: i
+---
+## Figure 2: Cost of Storage and data availability

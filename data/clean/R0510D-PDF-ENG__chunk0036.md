@@ -1,7 +1,11 @@
-# = deﬁciencies in old management process
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 34195c8e2be0a4e328d32c6ab6e491caa0b4b142
+title: R0510D-PDF-ENG
+---
+# l
 
-harvard business review • october 2005
+o o h c S s s e n i s u B d r a v r a H 5 0 0 2 ©
 
-page 4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+t h g i r y p o C

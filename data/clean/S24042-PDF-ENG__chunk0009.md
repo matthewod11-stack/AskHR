@@ -1,23 +1,21 @@
-# long-term success.
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 01392e59e49f9c193fe812f99cc5e825e36c77ba
+title: S24042-PDF-ENG
+---
+# into trouble.
 
-How did we arrive at that two-year ﬁgure? By carefully studying nearly
+You can’t blame new CEOs for falling into the speed trap. The
 
-1,400 CEOs who have led S&P 500 ﬁrms during this century. First we
+conventional wisdom, after all, is that they have roughly 90 days to
 
-had to devise a reliable way of deﬁning and measuring conﬁdence in
+prove themselves to their organizations. But the process actually takes
 
-them. Typically, we think of conﬁdence as a quality that has a social
+longer than that—far longer, according to our research and experience.
 
-value, helping leaders inﬂuence others. But it also has a monetary
+Gaining the conﬁdence of all stakeholders, it turns out, takes a full two
 
-value: Investors assign multiples to stocks that reﬂect their conﬁdence
+years. And only by focusing strategically and purposefully on building
 
-in companies’ continued ability to generate shareholder returns. We
-
-reasoned that the enterprise multiple could be considered a measurable
-
-proxy for the conﬁdence in their leadership that CEOs build during the various phases of their time in oﬃce. (For more on that see “The CEO
-
-Life Cycle,” HBR, November–December 2019.) The enterprise multiple
-
-is a company’s total enterprise value divided by its earnings before
+trust during that period can CEOs genuinely create the conditions for

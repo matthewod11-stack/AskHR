@@ -1,11 +1,21 @@
-## Journal of Personality and Social Psychology, 59, 525–537.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 43e75fa8efe3afe9442046f7deb21808f46071e2
+title: barrickryan_eds_personality_and_work
+---
+# Holt.
 
-Brief, A. P., Butcher, A. H., & Roberson, L. (1995). Cookies, disposition and job attitudes: The effects of positive mood inducing events and negative affectivity on job satisfaction in a ﬁeld experiment. Orga- nizational Behavior and Human Decision Processes, 62, 55–62.
+Ambrose, M. L., & Kulik, C. T. (1999). Old friends, new faces: Motivation
 
-Bromet, E. J., Dew, M. A., Parkinson, D. K., & Schulberg, H. C. (1988). Predictive effects of occupational and marital stress on the mental health of a male workforce. Journal of Organizational Behavior, 9, 1–13.
+research in the 1990s. Journal of Management, 25, 231–292.
 
-Carsten, J. M., & Spector, P. E. (1987). Unemployment, job satisfaction and employee turnover: A meta-analytic test of the Muchinsky model. Journal of Applied Psychology, 72, 199–212.
+Bannister, B. D., & Griffeth, R. W. (1986). Applying a causal analytic framework to the Mobley, Horner, and Hollingsworth (1978) turnover model: A useful reexamination. Journal of Management, 12, 433–443.
 
-Carver, C. S., & Scheier, M. F. (1999). Stress, coping, and self-regulatory processes. In L. A. Pervin & O. P. John (Eds.), Handbook of personal- ity: Theory and research (2nd ed., pp. 553–575). New York: Guilford Press.
+Barrick, M. R., & Mount, M. K. (1996). Effects of impression management and self-deception on the predictive validity of personality con- structs. Journal of Applied Psychology, 81, 261–272.
 
-Clark, L. A., & Watson, D. (1999). Temperament: A new paradigm for trait psychology. In L. A. Pervin & O. P. John (Eds.), Handbook of per- sonality: Theory and research (pp. 399–423). New York: Guilford Press.
+Baumeister, R. F., Heatherton, T. F., & Tice, D. M. (1994). Losing control: How and why people fail at self-regulation. Orlando, FL: Academic Press. Beck, L., & Ajzen, I. (1991). Predicting dishonest actions using the the- ory of planned behavior. Journal of Research in Personality, 25, 285–301.
+
+Bennett, R. J., & Robinson, S. L. (2000). Development of a measure of workplace deviance. Journal of Applied Psychology, 85, 349–360. Bennett, R. J., & Stamper, C. L. (2001). Corporate citizenship and deviancy: A study of discretionary work behavior. Manuscript submitted for pub- lication.
+
+Bolger, N. (1990). Coping as a personality process: A prospective study.

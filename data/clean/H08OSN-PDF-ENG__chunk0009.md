@@ -1,13 +1,9 @@
-# whenever possible.
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 60a8aad8ff6af11fae408e1506ab91cefdaa4bf9
+title: H08OSN-PDF-ENG
+---
+## HBR / Digital Article / When You’re Overloaded—and Delegating Isn’t an Option
 
-Another executive client now asks her direct reports to share quick,
-
-ﬁrst-draft plans with her for work that is not overly complex or risky,
-
-instead of perfect, multi-page documents. She also encourages her team
-
-to send bullet-point emails, when possible, instead of long narratives,
-
-with the understanding that she will follow up if she has questions. The
-
-team is also looking into how they can leverage AI to make work less
+depending on the importance or risk of the issue, and to streamline

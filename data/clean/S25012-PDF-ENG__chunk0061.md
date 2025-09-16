@@ -1,19 +1,15 @@
-# intensive.
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12fb9836bfe0ca68db4e4f67c3bcf808b269e556
+title: S25012-PDF-ENG
+---
+## HBR / Spotlight / The Secret to Successful AI-Driven Process Redesign
 
-As it executes a workﬂow, the researchers’ model observes the eﬀects
+successfully identiﬁed the completion of a workﬂow with 90% precision
 
-of its actions and can compile a database of skills that can be
+and 84% recall. Those results suggest that the model could automate
 
-transferred to other workﬂows. Though the goal was to achieve minimal
+entirely new categories of workﬂows, such as those that contain hard-
 
-human intervention, the researchers found that human integration into
-
-processes was critical: Humans were needed to ensure alignment with
-
-overall objectives, optimize models for interactions with people, and
-
-provide training and feedback to the agents.
-
-. . .
-
-As the Stanford research illustrates, though AI agents act on our
+to-describe steps, require complex decision-making, or are knowledge-

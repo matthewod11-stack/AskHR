@@ -1,15 +1,19 @@
-# its commitment to customer success.
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 755492509917bda21ef21702350b467a4686f8b7
+title: S24022-PDF-ENG
+---
+## HBR / Spotlight Article / Create a System to Grow Consistently
 
-So where to start? In studying companies that have successfully
+remarkably consistent, thanks to multiyear subscription agreements.
 
-built elements of a growth system, we observed four behaviors that
+The software-as-a-service (SaaS) model also naturally generates data on
 
-help create momentum. First, growth-system companies have the full
+how and how much customers are using the software—a key metric for
 
-support of the CEO, who is often the person instigating the work
+measuring ROI. The entire growth system creates network eﬀects that
 
-and who plays a vital role in getting companywide buy-in. They
+lead to not only higher sales of new products and more cross-selling but
 
-also have real collaboration among executive team members, who are
-
-committed to building a system together rather than just focusing on
+also a high retention rate—a number Salesforce publishes to reinforce

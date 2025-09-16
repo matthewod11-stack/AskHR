@@ -1,67 +1,33 @@
-## HBR / Digital Article / How a Parent’s Experience at Work Impacts Their Kids
+---
+source_path: H07GRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c7d00871f53dc6090f7c60035722659b3251bf6
+title: H07GRL-PDF-ENG
+---
+## time oﬀ, and an unhappier, less motivated workforce.
 
-was sick and needed to be picked up right away. She still had three
+The good news is, providing working parents with the autonomy and
 
-clients on her schedule for the day, but her boss simply said, “Go, of
+supportive relationships that our research shows can have such a
 
-course. Go. Family comes ﬁrst. We’ll ﬁgure this out.” This simple act of
+powerful, positive impact on children’s wellbeing is easier than one
 
-humanity and ﬂexibility didn’t cost much, but it made a big diﬀerence,
+might expect. While many people might assume that low-wage jobs are
 
-enabling a parent to care for her child in a moment of crisis.
+inherently stressful, “bad” jobs, the parents we talked to described many
 
-In addition, beyond making accommodations or oﬀering increased
+common sense business practices that their employers had used to help
 
-ﬂexibility, employers can also take steps to ensure work itself is
+both workers and their families thrive (despite the ﬁnancial stress that
 
-a positive experience. Another worker we talked to, Linda, was a
+often accompanies these low-paid jobs).
 
-shipment packer at a candle manufacturing plant. Her boss discovered
+For instance, a hair stylist who participated in our study described a
 
-that without prompting, she had begun inserting notes and sample
-
-candle scents in the packages she prepared for her clients. Her boss
-
-hadn’t asked her to do this, and she hadn’t gotten approval to include
-
-these extras in the packages — but her customers appreciated it so much
-
-that they began asking for Linda by name when placing their orders.
-
-In response, rather than ignoring the issue, or worse yet, punishing
-
-Linda for failing to follow standard shipping procedures, her boss asked
-
-her to train her coworkers in her unique approach to customer service,
-
-and gave her an award for innovation along with a promotion. Linda
-
-felt respected and supported, and she described how rather than being
-
-a drain, “work had become fun.” This in turn enabled Linda to come
-
-home feeling upbeat and positive (rather than exhausted and depleted),
-
-with enough energy to fully engage in parenting her infant son.
-
-When it comes to promoting workers’ physical and mental health,
-
-organizations tend to focus on high-level policy changes such as
-
-ﬂexible scheduling options, more paid leave, etc. And to be sure, these
-
-systemic initiatives are certainly important. But our research suggests
-
-that ensuring workers feel respected and supported in their day-to-
-
-day is often just as critical. That means teaching and empowering
-
-supervisors to support parents, ﬁnding creative ways to give workers
-
-more autonomy, and helping managers and workers alike develop
+time when she received a phone call at work with news that her baby
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

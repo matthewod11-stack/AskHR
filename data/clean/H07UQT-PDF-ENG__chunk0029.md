@@ -1,21 +1,9 @@
-## setup for the third phase of CEO onboarding: observe.
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c617544a3244d7c15aadfef8e14830cced6d4159
+title: H07UQT-PDF-ENG
+---
+## an analysis of the company’s strengths and weaknesses in the “4Ps”:
 
-During the observe month, the new CEO’s daily programming remains
-
-similar to the previous month, with a steady diet of meetings and site
-
-visits. But the new CEO should now be gradually transitioning beyond
-
-listen-only to a more active role. During this stage, the incoming CEO
-
-should be free and encouraged to voice his opinions and observations
-
-both in private and in group meetings. During this phase, however,
-
-the outgoing CEO is still in charge, and decisions are still made by
-
-them. This is a good time for both the outgoing CEO and incoming
-
-CEO to create a good rapport and for the incoming CEO to get a better
-
-understanding of the how and whys behind the decision making in the
+portfolio, processes, people, and partners. This memo provided the

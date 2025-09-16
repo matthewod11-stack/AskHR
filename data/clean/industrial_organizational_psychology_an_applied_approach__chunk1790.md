@@ -1,11 +1,9 @@
-# Media Resources and Learning Tools
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d143ca95ef6970db1b36cb9fcc7407fcfb9e4de2
+title: industrial_organizational_psychology_an_applied_approach
+---
+# results to employees?
 
-7
-
-7
-
-Visit our website. Go to www. cengage.com/psychology/aamodt, where you will find online resources directly linked to your book, including chapter-by- chapter quizzing, flashcards, crossword puzzles, application activities, and more. Want more practice applying industrial/organizational psychology? Check out the I/O Applications Workbook. This workbook (keyed to your textbook) offers engaging, high-interest activities to help you reinforce the important concepts presented in the text.
-
-280
-
-chapter 
+. Is the employment-at-will doctrine a good idea? Why or why not?

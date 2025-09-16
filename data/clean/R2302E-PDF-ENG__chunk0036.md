@@ -1,27 +1,29 @@
-# next transition.
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb6de4487ec7b76df466a9f7108132549918d9f8
+title: R2302E-PDF-ENG
+---
+## oﬀ a monthly meeting with his 11-person executive team with a few
 
-Announce shifts. Tell people that right now it’s time to change modes,
+inspiring reminders of the bigger vision the company was seeking to realize. Then he passed the baton to the chief marketing oﬃcer, who
 
-using simple, clear language and maybe even raising your voice a bit.
+shared her goal for the discussion: making a ﬁnal decision about the
 
-The CEO of a global technology company we work with does this well.
+new brand logo. She then invited all in the room to speak their minds
 
-He routinely announces, “Let’s create a moment for brainstorming” or
+—which prompted a barrage of facts, recommendations, and concerns.
 
-“We’ve heard many perspectives; let’s now turn to making a decision.”
+The CEO explicitly minimized his power as the discussion continued—
 
-That said, you need to make such interjections thoughtfully; the wrong
+he moved to the back of the room and made sure to speak last. At the
 
-words may sow fear and confusion, while the right ones will provide
+end of this burst of ﬂatness, the CMO took charge again and made the
 
-clarity and comfort. When you want input and debate about your idea,
+decision on the ﬁnal version of the new brand logo. Then the CEO took
 
-don’t use potentially intimidating language such as “Is there anyone
+over and led the team in a discussion of the next agenda item. The team
 
-who disagrees?” That can create the impression that you’ve made up
+was eﬀective because all its members were adept at assuming, sharing,
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-12
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and giving away power—and understood when it was time to make the

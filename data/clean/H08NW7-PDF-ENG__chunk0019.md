@@ -1,45 +1,27 @@
-## HBR / Digital Article / When You Oversell Your Abilities and It Backfires
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9be8bb94bb382d88cd9be7ac33153b200745a838
+title: H08NW7-PDF-ENG
+---
+# some imposed expectations of perfection.
 
-him: “You have to convince them you’re better than you are.” He didn’t
+Reﬂect on that voice telling you, “If people really knew you weren’t that
 
-get the scholarship.
+good…” How does that sentence ﬁnish in your mind? What is the threat
 
-Reframe the narrative.
+you’re avoiding? By clarifying the perceived risk, you can interrogate the
 
-If you’ve already set higher expectations than you can meet, instead of
+origin story where you ﬁrst experienced it.
 
-admitting outright that past claims were exaggerated, you can subtly
+In Ben’s case, many of his formative years were spent competing for
 
-shift the conversation toward a more grounded reality.
+opportunities he was chided for not winning. He literally had a high
 
-You might say something like, “I used to think I had a real talent for
+school coach pushing him to win a track scholarship say those words to
 
-[X], but the more I learn, the more I realize there’s so much more to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-master,” or “I’ve had a lot of learning moments lately, and I see things
+4
 
-diﬀerently now.” This softens the retreat without making it seem like
-
-you were being maliciously deceptive.
-
-Own it with honesty (when appropriate).
-
-In signiﬁcant relationships, this could actually build and repair
-
-credibility rather than damage it. If the exaggeration is at risk of
-
-backﬁring, or you suspect people are now questioning your ability, a
-
-direct, accountable approach can be powerful: “You know, I’ve been
-
-thinking about how I described my experience with [X], and I probably
-
-made it sound more impressive than it really was. I got carried away,
-
-but I want to be up front about what I actually believe I can do.” In
-
-some cases, your relationships may not be strong enough to withstand
-
-this degree of confession, but when warranted, this one is worth
-
-considering.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

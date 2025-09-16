@@ -1,21 +1,31 @@
-## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8717ef6407f8cbf590f25dc1009489f0b79d270
+title: R2405D-PDF-ENG
+---
+# even without ads.
 
-might examine the impact of a beneﬁt whose recipients were chosen by
+These photos by Docubyte showcase his passion for vintage machines and his skill at digital restoration.
 
-lottery, which allows researchers to compare how the beneﬁt changed
+To understand causality, delve into how the study in question was
 
-the circumstances or behavior of those who won the lottery with that of
+conducted. For instance, was it a randomized controlled trial, in which
 
-those who didn’t win.
+the researchers randomly assigned people to two groups: one that
 
-Researchers who don’t have access to planned or natural experiments
+was subjected to a test condition and a control group that was not?
 
-may instead control for potential confounding factors—variables that
+That’s often considered the gold standard for assessing cause and eﬀect,
 
-aﬀect the variable of interest—in their data analysis, though this can
+though such experiments aren’t always feasible or practical. Perhaps
 
-be challenging in practice. For instance, if you were assessing the
+the researchers relied on a natural experiment, observing the eﬀects of
 
-impact of a training program on productivity, you’d want to make sure
+an event or a policy change on speciﬁc groups. For example, a study
 
-you controlled for prior experience and other things that might aﬀect
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,15 @@
-# F for increment R2 total Adjusted R2
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 2a1313c2a514e4cd0509692dd271225374102ddb
+title: file_1
+---
+## Procedural justice X Gender R2 for increment
 
-5.305
+.012
 
-.027
+.267
 
-.020
+.013
 
-.022
-
-6.008
-
-.030
-
-.024
+.109

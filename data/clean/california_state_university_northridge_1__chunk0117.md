@@ -1,45 +1,27 @@
-## Two types of cased brought before the courts, disparate treatment and disparate
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 92e772973d9ef8c68bf1cfa99ac45cc2658fe963
+title: california_state_university_northridge_1
+---
+# discrimination in employment on the basis ofrace, religion, national origin or sex.
 
-impact. Disparate treatment is when an agent of employer knowingly is treating person( s)
+Moreover, there is a protection against retaliation against employees who complain about
 
-employed differently based on one or more of the prohibited factors. For instance refusing
+discrimination practices. This added protection is extended to "employees who have
 
-to hire women for construction jobs, is knowingly treating women different from men,
+opposed any practice made an unlawful employment practices under Title VII (the
 
-therefore this is sex discrimination (Frierson, 1994). McDonnell Douglas Corp v. Green
+opposition clause) and to employees who have made a charge, testified, assisted, or
 
-was a landmark case which the U.S. Supreme Court ruled that the plaintiff in a disparate
+participated in any manner in an investigation, proceeding, or hearing under Title VII (the
 
-treatment case must prove four elements one, plaintiff belonged to a protective class two,
+participation clause)" (Kreiswirth, 1998, p. 2339). The fundamental reason for having
 
-was qualified for the job involved t1'.Jee, ,vas treated L.~ &~ adverse way ( de:firied as not
+such clause is to allow those directly or indirectly involved to come forth without any fear
 
-hired, promoted, or discharged) and four, was treated differently from members of another
+of retaliation. Coverage extends to an employer that has fifteen or more employees,
 
-41
+regardless if they are part-time or full-time, during 20 or more weeks in the current or past
 
-class (Frierson, 1994). If these elements can be proven, then the defendant-business must
-
-be able to present a legitimate, nondiscriminatory, business reason for its conduct.
-
-Conversely, the plaintiff can still prevail if he or she can demonstrate the reason given by
-
-the defendant was merely a pretext for discrimination and not the real reason behind the
-
-employers' actions. Disparate impact, is simply accidental discrimination, consequently it
-
-is still illegal. For instance, an employer hiring unskilled workers, which require
-
-employees to have a record free from criminal arrest, will violate this law based on two
-
-elements. The first element is this rule has a different affect on one covered group as
-
-compared to another. Once you factor in statistical data and geographic locations of the
-
-company and where they hire, this will dramatically affect the equation and the result.
-
-Second element, a business rule did not rest on a valid job requirement otherwise know as
-
-a bona fide occupational qualification (BFOQ). In such cases the courts can award to the
-
-plaintiff back pay, order hiring, promotions or other equitable remedies and assess the
+year must adhered to this law.

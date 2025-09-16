@@ -1,3 +1,9 @@
-# Introduction1
+---
+source_path: research_on_unionized_grievance_procedures_management_issues_and_recommendations.md
+pages: n/a-n/a
+chunk_id: 998609be9718a303825c2cdeb2a0b8f891660f04
+title: research_on_unionized_grievance_procedures_management_issues_and_recommendations
+---
+# Richard B. Peterson and David Lewin
 
-It is a virtual truism that conflict is inherent in the employment relationship. Though usu- ally implicit or covert, such conflict becomes explicit or overt when an employment rela- tionship features unionized employees and management. Here, the parties seek to re- solve conflict through a process of collective negotiations. From one perspective negotia- tions occur periodically, every three years or so in the typical labor-management relation- ship. From another perspective, however, la- are bor-management continuous, with the grievance procedure commonly found in labor agreements serv- ing as the main mechanism through which such negotiations operate. Many scholars and practitioners consider conflict resolution through grievance procedures to be the ma- jor accomplishment of the United States sys- tem of industrial relations (for example, Peterson, 1992).
+This paper critically reviews research on unionized grievance procedures to identify key issues for human resource/labor relations executives and to provide recommendations for dealing with these issues. The review covers psychological, sociological, economics, and industrial relations- based research. Specifically, the authors recommend that senior human resource/labor relations executives and their staffs conceptualize the grievance procedure as a high involvement human resource practice, distinguish between the presence and use of grievance procedures, use griev- ance data to determine whether grievants or their supervisors suffer management reprisals, assess supervisors’ dominant orientation toward employees, determine employee perceptions of griev- ance procedure fairness, and monitor the effects of work force composition and supervisor selec- tion on grievance activity. © 2000 John Wiley & Sons, Inc.

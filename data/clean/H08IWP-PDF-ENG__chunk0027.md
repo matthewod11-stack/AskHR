@@ -1,29 +1,11 @@
-## For example, in the 2019 MoMA renovation and expansion project, in
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b857d35f7e98a2708fbee2bd6028fa5a51d74f79
+title: H08IWP-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways to Make All Your Stakeholders Feel Heard
 
-which the MoMA reimagined and enlarged its physical space, artists
+and facilitate dialogue among stakeholders by regularly hosting focus
 
-whose works had been exhibited in the museum were involved in
-
-deﬁning how the new space would allow for innovative exhibitions that
-
-might move beyond painting and sculpture to include multimedia art.
-
-Patrons, for their part, were involved in a discussion of how creating
-
-dedicated spaces named after major donors might help fund the
-
-project, in alignment with MoMA’s curatorial goals. Lastly, trustees were
-
-included to ensure that the new design would be thought through with
-
-underrepresented groups of museum goers in mind. To bridge the gaps
-
-among artistic, ﬁnancial, and community perspectives, MoMA brought
-
-all of these stakeholders together in focus groups and facilitated
-
-discussions among them — and then later held follow-up meetings with
-
-stakeholders to inform them about how their feedback was incorporated
-
-into the design. This kept them engaged and enhanced their mutual
+groups where stakeholders can exchange ideas on speciﬁc initiatives.

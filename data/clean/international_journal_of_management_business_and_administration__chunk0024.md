@@ -1,7 +1,9 @@
-## Deadlines Improve the Effectiveness of Goals
+---
+source_path: international_journal_of_management_business_and_administration.md
+pages: n/a-n/a
+chunk_id: 4dcfaec448eaddc4e71aa85f043ed996aa06b778
+title: international_journal_of_management_business_and_administration
+---
+## Goals Are More Effective When They Are Used to Evaluate Performance
 
-For most employees, goals are more effective when they include a deadline for completion. Deadlines serve as a time-control mechanism and increase the motivational impact of goals. Being aware that a deadline is approaching, the typical employee will invest more effort into completing the task. In contrast, if plenty of time remains for attaining the goal, the employee is likely to slow down his or her pace to fill the available time. However, when deadlines are too tight, particularly with complex tasks, the quality of work may suffer.
-
-A Learning Goal Orientation Leads to Higher Performance than a Performance Goal Orientation
-
-A person with a learning goal orientation wants to develop competence by mastering challenging situations. In contrast, the person with a performance goal orientation wants to demonstrate and validate competence by seeking favorable judgments. Considerable research has indicated that a learning goal orientation has a positive impact on work-related behaviors and performance (Button, Mathieu, & Zajac, 1995; VandeWalle, 2001; VandeWalle, Brown, Cron, & Slocum, 1999; VaneWalle, Cron, & Slocum, 2001; Van Yperson & Janssen, 2002). The learning goal orientation is particularly relevant in today’s work environment, which requires employees to be proactive, problem solve, be creative and open to new ideas, and adapt to new and changing situations (Luthans, 2011).
+When employees know that their performance will be evaluated in terms of how well they attained their goals, the impact of goals increases. Salespeople, for example, have weekly and monthly sales goals they are expected to attain. Telephone operators have goals for the number of customers they should assist daily. Quarterbacks are judged on the completion percentages of passes thrown and the number of yards the offense generates per game. Coaches are assessed on their win-loss record. CEOs of organizations such as IBM, General Motors, and Microsoft Corporation are evaluated on meeting growth, profitability, and quality goals.

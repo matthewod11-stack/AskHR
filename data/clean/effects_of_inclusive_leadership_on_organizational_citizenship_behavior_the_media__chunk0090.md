@@ -1,5 +1,9 @@
-# Journal of Management, 37, 1228–1261.
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: 4bc89bdc30b209d8aa0c97bebb92b3436b73ab92
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+## Advances in Experimental Social Psychology, 25, 115–191.
 
-Walumbwa F.O., Hartnell C.A. and Oke A. (2010). Servant leadership, procedural service climate, employee attitudes, and organizational citizenship behavior: a cross-level investigation. Journal of Applied Psychology, 95, 517–529.
-
-justice climate,
+Van Dierendonck D. (2010). Servant leadership: A review and synthesis.

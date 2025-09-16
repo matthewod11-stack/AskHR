@@ -1,11 +1,11 @@
-# More Resources
+---
+source_path: H08QZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32281802bcffa4d8535e7928a8b25ed0e2d6197f
+title: H08QZW-PDF-ENG
+---
+## HBR / Digital Article / How to Lead an All-Hands After Delivering Bad News
 
-- The Secret to Leading Organizational Change Is Empathy
+- Leave the room. Avoid scheduling other meetings immediately after
 
-- 4 Listening Skills Leaders Need to Master
-
-- How to Deliver Bad News to Your Employees
-
-- When You Have to Carry Out a Decision You Disagree With
-
-- Empathy Is a Non-Negotiable Leadership Skill. Here’s How to Practice
+the all-hands and stick around to allow for individual conversations.

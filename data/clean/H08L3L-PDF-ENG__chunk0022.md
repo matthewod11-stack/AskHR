@@ -1,7 +1,33 @@
-## Universal Love) won ﬁve Cannes Lions in 2018.
+---
+source_path: H08L3L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07ba171595d458faf2758c92aeb0ec59a5472bca
+title: H08L3L-PDF-ENG
+---
+# Refresh and Renew
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+These strategies are for when you’re looking for not a revolution but a
 
-5
+refresh and renewal. Maybe your business has had an extended growth
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+period and you’re trying to ﬁgure out how to keep it going or your team
+
+has worked together for a long time and needs something new to get
+
+excited about.
+
+What is missing?
+
+Think about what you’re not doing and ask why. Look where the
+
+competition isn’t and consider what you might gain by extending
+
+there. Shortly after gay marriage was legalized in the United States in
+
+2015, marketer Benjamin Vendramin realized that there weren’t many
+
+same-sex love songs. His team developed an idea for MGM Resorts —
+
+commissioning new or reimagined recordings from six artists including
+
+Bob Dylan, Kesha, and St. Vincent — and the campaign (dubbed

@@ -1,9 +1,25 @@
-## production planning and control, but also visual image recognition and
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9059492426048801bfe60da6647d4de46b72765d
+title: H07IG2-PDF-ENG
+---
+# Updating Reengineering
 
-inspection, autonomous operations, and generating new content.
+The technologies enabling reengineering in the 90s were primarily
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+transactional and communications-based. They enabled eﬃcient data
 
-2
+capture and transfer within and across organizations. AI, on the other
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hand, enables better, faster, and more automated decisions. In essence,
+
+most AI deployments in large organizations involve learning from large
+
+datasets to make a prediction or classiﬁcation, which in turn helps
+
+business with making a better operational decision. Better operational
+
+decisions, in turn, enhance eﬃciency by producing better outcomes. A key diﬀerence is that present AI systems are a true general-purpose
+
+technology, and have brought about dramatic changes not just in

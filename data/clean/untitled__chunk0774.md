@@ -1,3 +1,19 @@
-# Century-Crofts.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7a83b5bf8fca497b604e4b30173d5b8e1396531b
+title: untitled
+---
+## Rosenblueth, A., Wiener, N., & Bigelow, J. (1943). Behavior, pur-
 
-Skinner, B. F. (1969). Contingencies of reinforcement. New York:
+pose, and teleology. Philosophy of Science, 10, 18–24.
+
+Rumelhart, D. E., McClelland, J. L., & The PDP Research Group. (1986). Parallel distributed processing: Explorations in the mi- crostructure of cognition (Vol. 1). Cambridge, MA: Cambridge University Press.
+
+Simon, H. (1980). The social and behavioral sciences. Science, 209,
+
+72–78.
+
+Simon, H. (1996). Models of my life. Cambridge. MA: MIT Press.
+
+Skinner, B. F. (1957). Verbal behavior. New York: Appleton-

@@ -1,17 +1,55 @@
-# HBR / Digital Article / Breaking Down Barriers to Belonging for Women of Color in Tech
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3c71736880598855c65c9635ced85c08ea6ab1f
+title: H089KA-PDF-ENG
+---
+## women of color in technology as part of my dissertation research.
 
-See more HBR charts in Data & Visuals on HBR.org.
+From March to April 2023, I subsequently conducted 12 interviews
 
-The twelve participant interviews yielded higher scores generally, with
+with women of color in technology with diversity in position, tenure,
 
-Black women interviewees indicating an average score of 6.7 and mixed-
+role, ethnicity, company, and location. Each participant was assigned
 
-race women a higher average of 8.6. Hispanic and Latina women came
+a pseudonym to protect conﬁdentiality. The goal of the study was to
 
-in at a 4.3 average, lower than among those surveyed. Catalina, a Latina,
+measure the level of workplace belonging reported, the top belonging
 
-commented on her company’s internal data, “I feel like…we are the
+contributors and detractors, and to identify recommendations to
 
-forgotten minority, especially in tech, where there’s not a lot of us…
+increase it. Here is what I found.
 
-[Latinos are] a small piece of the pie.”
+The average self-reported sense-of-belonging score was mediocre at best.
+
+On average, women of color survey participants ranked their sense of
+
+belonging a 6.7 out of 10, approximately 1.6 points lower on average than
+
+their peers, based on extrapolated data from comparably.com.
+
+Participant scores ﬂuctuated according to ethnicity but were not
+
+statistically signiﬁcant due to a low sample size. Asian or Paciﬁc
+
+Islander women reported the highest sense of belonging, with an
+
+average score of 7.2 and a median of 8.0. Hispanic or Latina women
+
+scored lower at 6.5 on average, and a lower median at 6.0. Black
+
+women scored slightly lower with an average of 6.3 and median at
+
+7.0. However, there may be a correlation with ethnic representation as
+
+Asian women comprise 7% of technology professionals with the highest
+
+belonging scores in comparison to Black (3%) and Hispanic/Latina (2%)
+
+representation, according to Zippia’s women in technology statistics.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

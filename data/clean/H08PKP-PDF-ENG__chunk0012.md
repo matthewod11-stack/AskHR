@@ -1,17 +1,9 @@
-# strategic priorities. For example:
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0602b28e88ff751a4baddf52cbda39048720414
+title: H08PKP-PDF-ENG
+---
+## HBR / Digital Article / When You’re Asked to Meet Impossible Goals
 
-- “We can take this on, but only if we pause X.”
-
-- “I want us to succeed—let’s focus on X and Y and do them well.”
-
-Reframe the conversation from tasks to impact. Rather than
-
-discussing what can’t be done, frame the conversation around what’s
-
-most valuable to achieve. For example:
-
-“If we take on this new initiative, we won’t be able to execute
-
-some of our critical projects on time. To ensure we deliver on the
-
-new initiative, we would need to deprioritize X or Y. What’s more
+interpreted as negativity. Connect your decision to the company’s

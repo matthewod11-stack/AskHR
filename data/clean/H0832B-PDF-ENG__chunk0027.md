@@ -1,21 +1,13 @@
-## Senior Director of SAP Alumni Relations, shares, “We customize content
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee441416faf4fae56d83e86606801c523bd9df32
+title: H0832B-PDF-ENG
+---
+## industry insights, and alumni news and events.
 
-for a variety of groups including executive alumni, ‘early talent’ alumni
+As an alumni communication strategy develops, organizations often
 
-who are at the start of their careers, alumni in speciﬁc geographical
+advance to more targeted approaches by segmenting the alumni
 
-regions, retirees, and recent leavers. The possibilities for targeted
-
-communication are unlimited, and this is a critical factor for successful
-
-connection with our alumni community.” Another targeted alumni
-
-communication strategy is monitoring alumni milestones such as a
-
-“one-year since exit” anniversary. Aligning communications with these
-
-kinds of alumni milestones may be particularly important, as research
-
-suggests reaching out one year after exit may be the best time to check
-
-in about returning to the organization.
+network or tracking alumni milestones. For example, Christian Mencke,

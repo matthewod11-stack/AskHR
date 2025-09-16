@@ -1,1 +1,13 @@
-# Table 2
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 8ae4ba84b256b4d0a89fe9df6094e58d46ef7bc2
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Descriptive Data
+
+All of the studies addressed various employee-related factors; see Table 2 for a detailed summary. Several employee-related factors have been identified as significant.
+
+The studies provided some descriptive data on their samples of behavior technicians. Of the behavior technicians sampled by Kazemi et al. (2015), 38% reported being highly or some- whatlikely to resign. While low levelsofoverall burnout were found in behavior technicians working in ABA schools (Gibson et al. 2009), as high as 42% of behavior technicians were found to have low levels of personal accomplishment (Griffith et al. 2014), and as high as 27% were found to have highlevels ofemotional exhaustion(Gibson etal. 2009).High
+
+Personality traits were found to be correlated with burnout and job satisfaction in behavior technicians providing home- based services (Hurt et al. 2013). Four personality traits were found to be correlated with burnout. Extraversion, agreeable- ness, and conscientiousness were found to be protective traits while neuroticism was correlated with greater levels of burn- out. Two personality traits were found to be associated with job satisfaction, with extraversion showing a positive correla- tion and neuroticism a negative correlation (Hurt et al. 2013).

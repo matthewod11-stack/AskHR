@@ -1,7 +1,15 @@
-# across our entire leadership team.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59d8a255ffe05817a3c7125f11a95a4048386152
+title: H07U7Q-PDF-ENG
+---
+## Market Leadership Network, built of our 19 most senior leaders. We
 
-I’m also really proud of the fact that 50% of the group I just mentioned
+collectively work together across all diﬀerent facets. Folks are helping
 
-grew up in our stores, and so that expertise of knowing Whole Foods and
+participate in work in parts of the company they may not lead. For us,
 
-being able to build a career in a functional area is something we’re really
+it’s really making sure we’re working together as a team and helping
+
+make sure we’re bringing some of those experiences and expertise

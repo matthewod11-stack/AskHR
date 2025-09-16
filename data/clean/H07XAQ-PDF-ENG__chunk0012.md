@@ -1,17 +1,33 @@
-## HBR / Digital Article / When Designing Employee Learning Programs, Less Is More
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a08b334ccc8fa2e7c811cf79b2be4f96c496e5e5
+title: H07XAQ-PDF-ENG
+---
+# disengagement and deﬂated motivation.
 
-listening and being responsive to needs, yet the kitchen-sink approach
+You’re presenting too many choices.
 
-doesn’t make us look like we’re listening or responsive.
+Decades of research from noted behavioral economists shows that when
 
-It takes too much time and effort to navigate.
+it comes to choice, more is distinctly not better. Yes, people like to
 
-It’s typical to hear that learning systems are clunky, outdated, and hard
+have choices, but they vastly prefer a small set of carefully curated ones
 
-to navigate. People have come to expect easy search and ﬁltering, yet
+(e.g., three ways to improve your presentation skills, not 30). Too much
 
-the zeal to bring more to employees makes it hard to ﬁnd the one thing
+choice quickly becomes aversive. (If you’ve ever stared at a diner menu
 
-they really want and need. Making it harder to ﬁnd that one thing
+that seems to have all the foods, you know what we mean.)
 
-causes employees to squander time that could be spent on building
+People lose trust. If you came to us with a new problem and we oﬀered you the same
+
+massive catalog of things we’re always pushing, how would you feel?
+
+As learning professionals, we often preach the importance of active
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

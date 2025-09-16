@@ -1,11 +1,23 @@
-# Middle East, and Africa.
+---
+source_path: H075J4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f96ebb8b38061274c439b60ff854e867ac1a61e
+title: H075J4-PDF-ENG
+---
+## For example, non-technical founders like Katrina Lake of Stitch Fix
 
-Each of these people had to learn how to collaborate with technology
+and Brian Chesky of Airbnb have created innovations and massive
 
-teams, make the right investments, and lead people who did jobs they
+shareholder value driven by technology. Colin Beirne, a liberal arts
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+graduate, has had more impact on deep tech than many computer
 
-4
+scientists, because he helped found Two Sigma Ventures, a deep tech
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+investor that has funded 100 startups, 10 of which are now valued
+
+at over $1 billion. Bruce Daisley, who started his career selling radio
+
+advertising, had more inﬂuence on social media than most developers
+
+when he helped take Twitter global as its vice president for Europe,

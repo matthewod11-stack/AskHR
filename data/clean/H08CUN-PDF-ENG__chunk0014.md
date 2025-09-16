@@ -1,15 +1,27 @@
-# below.)
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24e565d5ffcbef4c22296960eef7dd1d711f121d
+title: H08CUN-PDF-ENG
+---
+# Stay close to your team
 
-If you see something, say something
+Recognizing when group dynamics are “slipping a little too far into
 
-When you spot signals of resentment within your team, whatever form
+interpersonal strife and animosity” requires a deep understanding of
 
-it takes, what should you do? Klotz recommends following advice
+your team members’ priorities and personalities. “You need to know
 
-often seen on the subway: “If you see something, say something.”
+your team well enough to spot when debate shifts from task conﬂict
 
-These conversations are best handled one-on-one and they require a
+to relationship conﬂict and when intervention is necessary,” says Klotz.
 
-deft touch tailored to the person you’re talking with and what you’ve
+Sometimes resentment looks like lashing out; other times it manifests
 
-noticed. The goal, says Carucci, is to “build a team that’s conﬂict
+as silence or withdrawal. “Look for changes in people’s eﬀort or energy
+
+level,” he adds. Carucci advises opening lines of communication. “Tell
+
+your team: ‘If you’re feeling frustrated, tired, or concerned, I want to
+
+hear about it — even if I’m the source of that frustration.’” (More on this

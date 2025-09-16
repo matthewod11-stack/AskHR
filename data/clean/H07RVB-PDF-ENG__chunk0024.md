@@ -1,29 +1,25 @@
-# with a special accent?
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e0438b8fa969cdb54b68e69a31a8dacfdf9a804
+title: H07RVB-PDF-ENG
+---
+# that switch in my career.
 
-JIM FIELDING:
+I know not everybody can do that. I know not every queer individual
 
-It’s so funny. Yeah, exactly. You change your voice.
+has the opportunity to move geographies or move companies or move
+
+roles. But for me, I never felt better. I honestly think my success started
+
+really for me almost when I was 26 and came out, because I feel that I
+
+was a better executive, a better person, a better leader, a better friend,
+
+just better to be around because I didn’t have that level of worry, didn’t
+
+have that level of stress anymore.
 
 ADI IGNATIUS:
 
-“I have to pick up the wife.”
-
-JIM FIELDING:
-
-You change your voice. “I have to pick up the wife and the golden
-
-retriever, and we’re going to our son’s little league game.” No, it’s funny,
-
-because I am a queer man that absolutely loves sports, so I can do the
-
-sports thing because I love college and professional sports. I couldn’t
-
-really say, my partner and I went and saw a musical this weekend. At
-
-that time, didn’t feel like the right answer in many of those situations.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+I have to ask, what is a heterosexual sounding answer? Does it come

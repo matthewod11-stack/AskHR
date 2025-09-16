@@ -1,13 +1,15 @@
-# Personnel Administrator, 34(5), 72–74.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bf5cc9dd1f346c7070476f1fccd2e850fb7a623a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# CA: Sage.
 
-Buckley, M. R., Jackson, K. A., Bolino, M. C., Veres, J. G., &
+Buchanan, L., & Foti, R. J. (1996). Emergent female leaders:
 
-Feild, H. S. (2007). Th e inﬂ uence of relational demography on panel interview ratings: A ﬁ eld experiment. Personnel Psychology, 60(3), 627–646.
+Eﬀ ects of self-monitoring, priming, and task characteristics. Poster presented at the 11th annual conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
 
-Buckley, M. R., Mobbs, T. A., Mendoza, J. L., Novicevic, M. M., Carraher, S. M., & Beu, D. S. (2002). Implementing
+Buchner, L. M. (1990). Increases in interrater reliability of situational interviews as a function of the number of benchmark answers. Applied H.R.M. Research, 1(2), 27–31.
 
-628
-
-references
-
-realistic job previews and expectation-lowering procedures: A ﬁ eld experiment. Journal of Vocational Behavior, 61, 263–278.
+Buckley, M. R., & Eder, R. W. (1989). Th e ﬁ rst impression.

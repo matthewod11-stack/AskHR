@@ -1,11 +1,9 @@
-## value high-quality facilitation of conversations among executives—for
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1763c9f71d17697320fc59a35d928186541630d2
+title: R2501H-PDF-ENG
+---
+## HBR / Magazine Article / Three Ways to Lead Learning
 
-example, about solving a thorny innovation problem—for two reasons.
-
-First, they believe that’s how the organization can best ﬁgure out
-
-how to overcome hurdles. Second, even if an idea that springs from
-
-such discussions doesn’t get implemented, the relationships built while
-
-working on it might endure and serve people and the company well in
+educational content itself. I call this a “town hall” approach. Connectors

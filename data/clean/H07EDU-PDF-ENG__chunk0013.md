@@ -1,57 +1,21 @@
-## HBR / Digital Article / What Companies Still Get Wrong About Layoffs
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f799926faecba221bdf0bf488c7a323975bfc176
+title: H07EDU-PDF-ENG
+---
+## can simultaneously and instantly alert tens of thousands of employees
 
-Corporate decision-making is under a microscope.
+around the world to news of a layoﬀ. Whether companies want it this
 
-Businesses have always needed to justify their actions, but today
+way or not, communication is simultaneously internal and external,
 
-corporate reasoning is subjected to wider scrutiny in both traditional
+spreading from employees to social media, journalists, and trade media
 
-and social media. This is especially true in tech, whose products and
+that serve speciﬁc industries and the people who work in them.
 
-services are deeply embedded in our daily lives and whose leaders have
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-achieved celebrity status. A quick glance at any social media platform
+2
 
-will reveal that customers are quick to share their strong opinions about
-
-the strategies companies pursue.
-
-Stories about horriﬁc layoﬀs have always been dismayingly easy to ﬁnd.
-
-I once heard about a company that divided employees into two groups.
-
-One room was ﬁlled with people who were told they were losing their
-
-jobs. Just next door — and so loudly it could be heard — were the
-
-survivors, who were being told: “You are winners! You are why we can
-
-do even better!”
-
-Today, poor treatment of employees looks short-sighted and is contrary
-
-to companies’ own interests. In the past, a company’s decision to
-
-eliminate positions may have been protested by a small group of labor
-
-rights advocates. Today, thanks to social media, anyone can challenge
-
-workforce reduction decisions, and ask, “Can’t they see that no one will
-
-want to work for a company that does that?”
-
-The pandemic showed that companies have other options.
-
-In the early months of the pandemic, some companies announced
-
-mass layoﬀs. But not everyone — Marc Benioﬀ publicly pledged that
-
-Salesforce would make no “signiﬁcant” layoﬀs for 90 days, and asked
-
-other companies to commit to doing the same. Many companies,
-
-including Starbucks, Bank of America, and Morgan Stanley assured staﬀ
-
-that, barring a performance issue, jobs were secure through the end
-
-of 2020. Other CEOs made similar temporary no-layoﬀ pledges to help
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

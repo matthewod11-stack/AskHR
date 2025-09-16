@@ -1,25 +1,19 @@
-## HBR / Magazine Article / The Labor-Savvy Leader
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a7a5a95ba035816587350d1c81a42e82bbfda124
+title: R2304D-PDF-ENG
+---
+# Manley, among many others.
 
-by the war, and work needed to evolve to reﬂect the new reality. After
+- • •
 
-years of often-violent struggle, employees at big companies organized
+After World War II, the United States experienced a sea change in labor-
 
-and bargained for regular raises, health care, weekends oﬀ, retirement
+management relations. Society and the economy had been transformed
 
-plans, and more. In 1950 General Motors and the United Auto Workers
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-negotiated the so-called Treaty of Detroit, which pegged wage increases
+16
 
-to increases in the cost of living and the national rate of productivity
-
-growth. That eﬀort set a new standard that spread quickly to other
-
-companies and ultimately brought a new social contract into being that
-
-would govern employment, drive growth, and help workers share in
-
-prosperity for decades to follow.
-
-Today, our society and economy have transformed again, encompassing
-
-everything from new technology to a tighter labor market, rising worker
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

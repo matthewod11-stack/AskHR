@@ -1,9 +1,9 @@
-## the outset, test products with users across the age spectrum, and
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e75faee90077f4349a72e7d6d89944595dd340a5
+title: H08TZO-PDF-ENG
+---
+# their 60s, 70s, and even 80s.
 
-make accessibility an innovation metric.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 3. Build inclusive products and services. Apply inclusive design from

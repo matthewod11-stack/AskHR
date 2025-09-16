@@ -1,7 +1,15 @@
-## Goddard, R., Simons, R., Patton, W., & Sullivan, K. (2004).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 756fd9faebc3aad70d96abe3fd82080b62e2421a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# IPMA News, pp. 13–14.
 
-Psychologist hand-scoring error rates on the Rothwell- Miller Interest Blank: A comparison of three job allocation systems. Australian Journal of Psychology, 56(1), 25–32.
+Glebbeek, A. C., & Bax, E. H. (2004). Is high employee turnover
 
-Goﬀ , S. J., Mount, M. K., Jamison, R. L. (1990). Employer supported child care, work/family conﬂ ict, and absenteeism: A ﬁ eld study. Personnel Psychology, 43(4), 793–809.
+really harmful? A empirical test using company records. Academy of Management Journal, 47(2), 277–286.
 
-Goldstein, C. H. (2000). Employee drug testing in the public
+Glotz, B., & Ruotolo, C. (2006, February). Proﬁ ling the workplace
+
+killer. Paper presented at the annual Graduate Conference in Industrial-Organizational Psychology and Organizational Behavior, Fairfax, VA.

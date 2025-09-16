@@ -1,9 +1,25 @@
-# Muzak Board of Scientiﬁ c Advisors.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 25b4b95dc7d10edd03853e96b81860d60718ec48
+title: industrial_organizational_psychology_an_applied_approach
+---
+## performance. Aerospace Medicine, 36, 960–964.
 
-Wolinsky, J. (1982). Beat the clock. APA Monitor, 13, 12. Wolkove, M. P., & Layman, J. J. (2006, February). Methods
+Winter, D. G. (1988). What makes Jesse run? Psychology Today,
 
-for controlling absenteeism in an organizational setting: A meta-analysis. Paper presented at the annual Graduate Student Conference in Industrial-Organizational Psychology and Organizational Behavior, Fairfax, VA. Woodward, N. H. (1999). In case of emergency break glass.
+22(6), 20–24.
 
-HR Magazine, 44(8), 83–88.
+Wisdom, B., & Patzig, D. (1987). Does your organization have
 
-Woodward, N. H. (2000). Direct mail pushes the recruiting
+the right climate for merit? Public Personnel Management, 16, 127–133.
+
+Witt, L. A. (1996). Listen up! Your upward feedback results are
+
+speaking. Poster presented at the 11th annual conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
+
+Woﬀ ord, J. C., & Liska, L. Z. (1993). Path-goal theories of
+
+leadership: A meta-analysis. Journal of Management, 19(4), 857–876.
+
+Wokoun, W. (1980). A study of fatigue in industry. New York:

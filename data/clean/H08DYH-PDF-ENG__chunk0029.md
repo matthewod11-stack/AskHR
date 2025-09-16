@@ -1,19 +1,27 @@
-# The Future of Work Is Playful
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 126b457709bc1fa2cde78ed483e053dc0a662cf6
+title: H08DYH-PDF-ENG
+---
+## mindsets from the busy, conscious state of beta to the more relaxed
 
-The cost of not integrating play into the workplace is a return to
+and creative state of alpha or theta. Additionally, if you’re running
 
-business as usual, which is no longer viable in a post-pandemic world.
+a brainstorm or ideation session, begin with an energizer activity as
 
-With 44% of employees surveyed by SHRM in 2024 saying they’re
+people enter the room or immediately after breaks to counteract the
 
-burned out at work, maintaining a traditional work environment can
+return to a beta state caused by checking emails or other routine tasks.
 
-be detrimental to both morale and retention. We are now in an era of
+This approach ensures that playfulness is used eﬀectively to move
 
-business as unusual, where fostering creativity through play, comfort,
+between mental states. While life would be fun if we were playful
 
-and psychological safety is not just beneﬁcial but essential for ongoing
+every minute of every day, productivity requires a balance. By being
 
-innovation and success. Prioritizing these elements helps to reduce
+intentional about when and how to integrate play, you can cultivate
 
-stress and enhance employee well-being, making your organization
+an environment where employees regularly reach their most creative
+
+states, driving innovation and success in the workplace.

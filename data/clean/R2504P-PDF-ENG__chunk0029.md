@@ -1,17 +1,19 @@
-# Hayden Brown is the CEO of Upwork.
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74050fe51994ec93979bab5679b65afcf44f7704
+title: R2504P-PDF-ENG
+---
+# design and implement in-house programs.
 
-Alex has more choices than he realizes. He sees
+While investors might focus on the cost savings from head count
 
-only two paths: maintaining the status quo and
+reduction if people opt out of the reskilling program and leave
 
-hoping for the best, or reskilling the workforce
+the company, Alex should focus on the beneﬁts. Reskilling ensures
 
-at a potentially huge cost and risk to his existing
+retention of institutional experience, reduced recruitment costs, and
 
-business. But there’s a third way: He can turn to
+improved employee engagement. Other companies have proven this to
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+be the successful strategy to follow.

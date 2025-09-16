@@ -1,11 +1,11 @@
-# New York: Basic Books.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0f39774c9806f3fa370cc1c6a2eee1e3bce4e334
+title: untitled
+---
+# Cambridge University Press.
 
-Hammond, W. A. (Ed.). (1902). Aristotle’s psychology: A treatise on the principles of life (De anima and Parva naturalia). London: S. Sonnenschein.
+Gardiner, H. M., Metcalf, R. C., & Beebe-Center, J. G. (1937). Feel- ing and emotion: A history of theories. New York: American Book.
 
-Hebb, D. O. (1946). On the nature of fear. Psychological Review, 53,
-
-259–276.
-
-Hebb, D. O. (1949). The organization of behavior. New York: Wiley.
-
-Herbart, J. F. (1816). Lehrbuch zur Psychologie. Königsberg und
+Geertz, C. (1973). The interpretation of cultures: Selected essays.

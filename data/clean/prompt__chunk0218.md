@@ -1,7 +1,7 @@
-# Chain of Thought (CoT)
-
-Chain of Thought (CoT) 9 prompting is a technique for improving the reasoning capabilities of LLMs by generating intermediate reasoning steps. This helps the LLM generate more
-
-accurate answers. You can combine it with few-shot prompting to get be(cid:459)er results on more
-
-complex tasks that require reasoning before responding as it’s a challenge with a zero-shot
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 33864c3fc7dd0ad2c053772666f74f9c56edd0a8
+title: prompt
+---
+# Prompt Engineering

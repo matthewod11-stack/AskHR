@@ -1,7 +1,9 @@
-## PASTANA, 2020), que definiram clima organizacional como um conjunto de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 31013e364fc8830fd03ba1e49fc0717b775e1fcd
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## convergência entre as definições dos principais autores.
 
-características presentes e mensuráveis do ambiente de trabalho, as quais podem
-
-ser percebidas pelos trabalhadores como boas ou más e que exercem influência na
-
-motivação e no comportamento. Nesta perspectiva, Payne e Mansfield (1973 apud
+Uma das primeiras conceituações foi a de Litwin e Stinger (1968 apud

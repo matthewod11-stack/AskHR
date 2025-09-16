@@ -1,11 +1,17 @@
-# local cultural norms.
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d37235db86994f02f19ee8fa6f39048b7f8ef42c
+title: H08NVC-PDF-ENG
+---
+# great food and free coﬀee.
 
-However, this HR director decided to dig deeper and discovered that
+Her initial assumption was to regard the event as unsuccessful and
 
-the issue wasn’t cultural at all. In fact, there had been prior breaches of conﬁdentiality around the topic at this oﬃce. Although these breaches
+interpret it as evidence that discussions on mental health were
 
-were unintentional and certain colleagues just wanted to help, it made
+unwelcome in that local culture. In some organizations I have
 
-people feel that their privacy and boundaries were not respected, and
+collaborated with, which encountered similar situations, future mental
 
-they started to doubt whether they could really talk openly to their
+health initiative budgets were reduced, purportedly out of respect for

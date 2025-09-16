@@ -1,9 +1,11 @@
-## Benchmark answers Standard answers to interview
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 03ce73d29e2b67a5f9e3fa2cbc55b0c32cba2201
+title: industrial_organizational_psychology_an_applied_approach
+---
+# performance appraisal in which supervisors rate the frequency of observed behaviors.
 
-questions, the quality of which has been agreed on by job experts.
+Behaviorally anchored rating scales (BARS) A
 
-Binding arbitration A method of resolving conflicts in which a neutral third party is asked to choose which side is correct and in which neither party is allowed to appeal the decision.
-
-Biodata A method of selection involving application blanks that contain questions that research has shown will predict job performance.
-
-Blind box ads Recruitment ads that instruct applicants to send their résumé to a box at the newspaper; neither the name nor the address of the company is provided.
+method of performance appraisal involving the placement of benchmark behaviors next to each point on a graphic rating scale.

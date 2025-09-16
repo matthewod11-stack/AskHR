@@ -1,11 +1,19 @@
-# Vision—Statement of future aspirations
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e5fd931b4312f5ce22957e4c039483148a424140
+title: performance_management_3rd_edition_by_aguinis
+---
+# Managerial philosophy of the firm
 
-Focused—lists a few (3–4) aspects of organization’s performance that are important to future success
+Public image sought by organization
 
-Understandable—written in a clear and straightforward manner so that they are understood by all employees
+Self-concept of business adopted by employees and stockholders
 
-Inspiring—makes employees feel good about their organization’s direction and motivates them to help achieve the vision
+Brief—so that employees can remember it
 
-Stretch—goal not easily attained
+Verifiable—able to stand the reality test
 
-- PepsiCo. (2011) Our Mission and Vision. Retrieved March 3, 2011 from: http://www.pepsico.com/Company/ Our-Mission-and-Vision.html 2011, PepsiCo, Inc. Used with permission.
+Bound by a timeline—specifies a timeline for fulfillment of the various aspirations
+
+Current—updated on an ongoing basis

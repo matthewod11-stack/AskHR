@@ -1,5 +1,9 @@
-# Journal of Psychiatry, 136, 1128–1134.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8bff6e2befa1f5b8ac0212e94db39c1b062dbbaf
+title: untitled
+---
+# Basic Books.
 
-Whytt, R. (1765). Observations on the nature, causes, and cure of those disorders which have been commonly called nervous, hypochondriacal, or hysteric, to which are preﬁxed some remarks on the sympathy of the nerves. Edinburgh, Scotland: Becket & De Hondt.
-
-Wigan, A . L. (1844). A new view of insanity: The duality of the
+Weiner, D. (1979). The apprenticeship of Phillipe Pinel. American

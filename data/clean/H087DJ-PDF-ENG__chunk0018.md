@@ -1,15 +1,29 @@
-## that embrace collectivism, the belief that your successes and failures
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18db4dccde551e20ef37ad404f4ca2a00b4a0768
+title: H087DJ-PDF-ENG
+---
+## of anxiety and isolation in the workplace.
 
-are not yours alone but are shared by your family and community.
+Onlyness and racism in their various forms lead to another barrier to
 
-When difﬁculties arise, you may feel as though you have let the
+receiving care: cultural mistrust, the tendency not to believe or trust
 
-family or community down. You are unable to recognize that at some
+your white colleagues or leaders. This mistrust has several eﬀects: You
 
-point everybody faces mental health challenges. You feel ashamed,
+are wary and keep your guard up, leading your colleagues to see you as
 
-embarrassed, and unworthy of help or forgiveness. So you do not ask
+unfriendly or not a team player. When it comes to your mental health,
 
-for help and you do not respond to those who oﬀer it. As a result,
+cultural mistrust heightens concerns that any request you make for care
 
-the impact of whatever you are struggling with — depression, anxiety,
+or accommodations will be used to deny you promotions and raises,
+
+or may result in the loss of your job. Worse yet, you may believe your
+
+request will be shared with the entire ofﬁce. Simply stated, you believe
+
+you will be betrayed, and this belief in turn fuels mistrust.
+
+Many employees of color are raised in families and communities

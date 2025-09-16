@@ -1,7 +1,15 @@
-# capture in an era of abundant expertise?
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dadebf1be0cb2feee4c13ee8fbdae77c31b3dddd
+title: R2502W-PDF-ENG
+---
+# Implications for Strategy
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+If companies derive value from providing a diﬀerentiated bundle of
 
-12
+expertise, how can they continue to be relevant when improvements
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in AI’s core capabilities make some or all of that expertise more easily
+
+available to competitors and customers? What is the basis for value

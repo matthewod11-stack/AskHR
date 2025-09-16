@@ -1,9 +1,7 @@
-# Provide refuge from overstimulation.
-
-If the average person’s brain takes in 100 pieces of information, the
-
-sensitive person’s brain takes in 1,000. It’s no wonder then why many HSPs experience overstimulation — diﬃculty concentrating, irritability,
-
-restlessness, fatigue, headaches, and more. If sensory overload sets in,
-
-an HSP may shut down or retreat altogether, which can have major
+---
+source_path: H07KV7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 290c00a988ae9210804487fddade27cd95868ae6
+title: H07KV7-PDF-ENG
+---
+# in control.

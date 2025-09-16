@@ -1,27 +1,17 @@
-## to the psychologist in advance how your workplace functions so they
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3d23be9a7032d9d292f985268e82e4ca40c9273
+title: H087DT-PDF-ENG
+---
+# What Managers Need to Know
 
-can consider types of ﬂexibility that won’t be excessively disruptive.
+If you’re a manager, make sure you understand how the previous advice will help your staﬀ both feel better and do their work better,
 
-Learn from your staﬀ about what their difﬁculties are and what would
+and familiarize yourself with the types of accommodations that help
 
-help them, and of course, never judge them negatively for their mental
+people with speciﬁc mental health challenges. You can do this by simply
 
-health. A particular difﬁculty doesn’t say anything about their talent,
+searching online, talking to HR, or asking a psychologist to do an
 
-dedication, or their quality of work. Since people may be reluctant to ask for accommodations, remind staﬀ regularly that you’re open to requests
-
-and that you welcome honest conversations about mental illness and
-
-health. Be as creative as you can in making accommodations. Your job
-
-is to bring out the best in your people, and you’ll do that by supporting
-
-their mental health in the ways they request.
-
-. . .
-
-Structuring your workday to support your mental health and
-
-structuring it to do your best work don’t have to be at odds. Using the
-
-tips from this article, you should see improvements in both your mental
+education session for your workplace. With the latter option, explain

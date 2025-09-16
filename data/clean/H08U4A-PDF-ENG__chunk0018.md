@@ -1,13 +1,37 @@
-## fosters innovation, collaboration, and trust.
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cad6e83df509f3d72db288fbeb33dd26d02d8c2
+title: H08U4A-PDF-ENG
+---
+# A Leadership Imperative
 
-Leaders who take kindness seriously build systems to support it. One
+Creating workplaces where kindness is the norm starts with a
 
-such system is Cleveland Clinic’s annual professional review process.
+company’s top leaders. They need to make kindness visible and align
 
-All physicians take part in a structured, face-to-face review each year,
+it with what people experience. In other words, don’t just say it matters,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+show it. Kindness is easy when things are smooth. The real test is how
 
-5
+people behave when work gets tense or relationships strain. That’s when
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leaders need to create space for diﬀerent views, listen for points of
+
+friction, and understand what gets in the way of kindness.
+
+In diﬃcult situations, silence is a manifestation of unkindness. If people
+
+aren’t speaking up, problems linger, and mistakes get buried. Rejecting
+
+silence with kindness requires leaders to be intentional about what
+
+gets rewarded, appreciated, challenged, or ignored. Unkindness must
+
+be actively discouraged.
+
+One CEO who understands this is Microsoft’s Satya Nadella. He has
+
+made kindness, empathy, and curiosity integral to what it means to
+
+lead well at his company. He has recognized that such an environment

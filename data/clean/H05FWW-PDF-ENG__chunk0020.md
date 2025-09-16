@@ -1,11 +1,21 @@
-## straitjacket on agile strategic changes during long-term transformation.
+---
+source_path: H05FWW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40960636e17ccae01743d667040ab4bf8cb7072a
+title: H05FWW-PDF-ENG
+---
+# satisfaction score, and/or churn rate
 
-Although executives will have to make short-term, either/or tradeoffs that
+- Employee engagement, attitudes, satisfaction, or turnover rates
 
-favor the interests of one stakeholder, these goals encourage choices that
+- Number of passengers or passenger miles ﬂown
 
-Copyright © 2020 Harvard Business School Publishing Corporation. All rights reserved.
+- Brand strength relative to industry, over time
 
-3
+- Returns relative to competitors, over time
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Proﬁtability relative to competitors, over time
+
+These measures are enduring and not linked to the particulars of the
+
+strategy chosen for achieving them. In other words, they don’t put a

@@ -1,9 +1,15 @@
-## hobbies, relaxation, or other enjoyable activities after work, both they
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4af167c47c58d8d117f155e6887818caa08ac723
+title: H08TK8-PDF-ENG
+---
+# your role.
 
-and their teams feel and perform better the next day.
+- Control, or protecting pockets of time where you choose what to do,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+even if it’s just saying no to one more commitment.
 
-6
+If you think you don’t have time to relax, or worry that it might seem
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+selﬁsh, think again. Research shows that when leaders spend time on

@@ -1,11 +1,13 @@
-## It All” (HBR, March–April 2022), at some companies, especially those
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76158a3b4e8aceaff6f7fe53ee55b0e0efddffed
+title: R2403D-PDF-ENG
+---
+## time employees. For example, the introduction of internal talent
 
-using agile methods, managers no longer “own” the in-house talent
+marketplaces for project gigs enables full-time employees to ﬂuidly
 
-but instead are project managers—scoping and budgeting a project,
+move into roles that tap their skills and experience while still formally
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+reporting to their people managers. As we wrote in “Managers Can’t Do

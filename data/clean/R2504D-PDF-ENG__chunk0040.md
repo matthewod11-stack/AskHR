@@ -1,13 +1,9 @@
-# Master Adaptivity
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6dcf3fc8eb807553cf42e4725e77b2a19c130f13
+title: R2504D-PDF-ENG
+---
+## from $24 billion in 2016 to more than $96 billion in 2024.
 
-Diﬀerent conﬂicts demand diﬀerent diplomatic tools. An approach
-
-that works for resource disputes might fail utterly for identity-based
-
-clashes. Expert mediators develop diverse intervention strategies—
-
-such as shuttle diplomacy, where intermediaries carry messages
-
-between disputing parties; multitrack engagement, which involves parallel eﬀorts across government, business, and civil society; and
-
-peace corridors, which create designated safe zones for dialogue and humanitarian eﬀorts amid active conﬂict.
+[ 4 ]

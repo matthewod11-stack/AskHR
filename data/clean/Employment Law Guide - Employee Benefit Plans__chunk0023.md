@@ -1,3 +1,9 @@
-# (29 USC §1001 et seq.,(http://www.law.cornell.edu/uscode/29/1001.html) 29 CFR Part 2509 et seq.
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: cb18747473fd50b14420953da6313f4d88f935ea
+title: Employment Law Guide - Employee Benefit Plans
+---
+# Updated: December 2016
 
-(https://www.dol.gov/dol/cfr/Title_29/Chapter_XXV.htm))
+Employee Retirement Income Security Act (ERISA),

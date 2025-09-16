@@ -1,39 +1,23 @@
-## HBR / Digital Article / Creating Workplaces Free of Forever Chemicals
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0810dfbf7930018d00b9d4c0b6b5b382172fdd05
+title: H08P2F-PDF-ENG
+---
+# xphotoz/Getty Images
 
-in our blood. Less well-known: They are widely found in the air and dust
+Risks from “forever chemicals”—a term for per- and polyﬂuoroalkyl
 
-in our buildings because of the products we buy.
+substances (PFAS), a group of industrial chemicals that are extremely
 
-Companies that use forever chemicals today may soon ﬁnd themselves
+diﬃcult to break down—are accumulating. It’s estimated that the
 
-to be in the same situation as those that routinely used asbestos, lead
+drinking water of 200 million people in the United States contains them
 
-paint, or PCBs in the past. These substances were once celebrated and
+in quantities above the safe limit and that 99% of Americans have them
 
-widely used until we realized that they posed very serious and wide-
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-ranging risks to human health and the environment. Billions of dollars
+1
 
-in lawsuits and eventual regulatory bans led to their decline and the rise
-
-of substitutes, but their toxic legacy lives on decades later due to their
-
-durability. Forever chemicals are on this same trajectory: More than 30
-
-state attorneys general are already suing manufacturers; 3M, the biggest
-
-producer, just settled a $10 billion lawsuit; and some environmental
-
-lawyers are predicting an onslaught of further litigation.
-
-Manufacturers of products containing forever chemicals have been put
-
-on notice. But nearly every organization buying products that contain
-
-forever chemicals can also get ahead of this issue now.
-
-Here’s a primer on forever chemicals and advice on what your
-
-organization can do to help reduce risk to your employees and
-
-customers, as we’ve done at Harvard University and seen at other
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

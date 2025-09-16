@@ -1,17 +1,17 @@
-## DAVID S. LEE, a principal lec- turer at the University of Hong
+---
+source_path: R2203M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2faea7b40e1262f34a2f4a33c41b2e9c8c096190
+title: R2203M-PDF-ENG
+---
+# Experience
 
-Kong Business School, teaches, researches, and advises on topics related to ethics, governance, and ﬁntech.
+to convert them into concrete guidance, especially for decisions like this one.
 
-Whom should Alex recommend that Juno hire? The experts respond.
+“As two Canadians,” Jackie said, “I worry that we’re seeing this through a speciﬁc lens. How would you feel about appointing another white man to such a senior role?”
 
-DAISY AUGER-
+GETTING IT RIGHT The following week, on the way to dinner with the board, Alex looked out his taxi window at the Toronto skyline and thought about his dilemma. He felt a deep sense of responsibility—to Juno’s employees, shareholders, and customers—to get it right.
 
-DOMINGUEZ, the chief people ofﬁcer for VICE Media, is the author of Inclusion Revolution.
+Jackie’s question rang in his ear. If he chose Nolan, he might seem to be going back on his DEI promises. At HQ, Nolan did not represent diversity. Catherine would be a woman of color in Juno’s leadership pipeline and presumably on the board. But a directorship was at least ﬁve years oﬀ and depended on her being an able successor to John.
 
-If Alex and his board want to meet their goals for diversity now and in the future, they should hire Catherine. She is a proven leader who understands the Asian market and has a connection to the region.
-
-international business is conducted in English, I suspect that it wouldn’t be all that much of an issue. And Catherine’s Chinese-American heritage is a huge asset, because existing employees, customers, and other stakeholders who share her background—not to mention future hires—would be able to see them- selves reﬂected in the leadership ranks. Although Nolan might provide diversity in that speciﬁc location, he would still be another white man at the senior level. Catherine, by contrast, would be a visible break from precedent, some- one who could eventually bring much- needed gender and ethnic diversity to the board. And gender is one lens that applies everywhere—from Canada to
-
-I get the concern about her limited
-
-language skills, but given that most
+Alex would have to make his recommendation ﬁrst thing at the quarterly board meeting the next morning. Which candidate was the right person for the job at this moment?

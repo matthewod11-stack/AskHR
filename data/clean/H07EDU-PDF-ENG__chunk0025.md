@@ -1,11 +1,7 @@
-## Displaced workers, as a group, experience income losses that can last
-
-for the remainder of their careers: Workers who lost their jobs during
-
-the 1981 recession saw a 30% decline in earnings at the time of their
-
-layoﬀ. Twenty years later, most still earned 20% less than workers
-
-who retained their jobs — the cumulative eﬀect of unemployment,
-
-underemployment, and an inability to ﬁnd work commensurate with
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae6ed3e32b0dcbc465b4b72cb3e021bc92eff482
+title: H07EDU-PDF-ENG
+---
+# development.

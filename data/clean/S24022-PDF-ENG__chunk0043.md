@@ -1,31 +1,19 @@
-# on progress.
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f19d0260aa3286e43481567a5dd803b045dad46c
+title: S24022-PDF-ENG
+---
+## HBR / Spotlight Article / Create a System to Grow Consistently
 
-. . .
+of products and services will evolve and what capabilities must be
 
-Executives are exhausted from the ongoing search for growth. If your
+developed to deliver on current and future growth targets.
 
-team spends its time tactically eking out revenue increases, it’s time
+Lastly, growth-champion leaders provide continual and dedicated
 
-to step back and understand the power of a growth system. Great
+support. This work can’t be a side job for a few high performers; it must
 
-innovation can create the next market, and great insights will uncover
+be a central focus of the company, with a management structure that
 
-new opportunities. Companies should not and cannot wait for markets
-
-to be deﬁned or disrupted. Even when products and services become
-
-outdated, the system’s capabilities can be extended or repurposed to
-
-shape and transform your future.
-
-A version of this article appeared in the March–April 2024 issue of Harvard Business Review.
-
-Paul Blase is a principal at PwC U.S. and leads the ﬁrm’s growth platform. He advises executives on designing systems to deliver consistent growth.
-
-Paul Leinwand is a principal at PwC U.S., a global managing director at Strategy&, and an adjunct professor at Northwestern’s Kellogg School. He is a coauthor, with Mahadeva Matt Mani, of Beyond Digital: How Great Leaders Transform Their Organizations and Shape the Future (HBR Press, 2022).
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-12
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+supports it and an ongoing cadence for reporting to the leadership team

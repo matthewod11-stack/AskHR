@@ -1,27 +1,27 @@
-## Right now, the most natural solution—regulation and policy
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed982d920f87a1d3ffae22f03863cc7c1a99a537
+title: H08PLG-PDF-ENG
+---
+## socioeconomic opportunities and outcomes within narrow societal
 
-intervention—will likely be deprioritized. In the U.S., the world’s AI
+segments while depriving others.
 
-leader, the Trump administration is expected to deregulate and set aside
+Unfortunately, artiﬁcial inequality is complex and can be hard to ﬁx.
 
-guardrails on AI. Even the EU, which has a strong regulatory framework
+In my research on the impact of AI across a range of societal issues—
 
-in place, is sending signals of prioritizing “action” and “opportunity”
+jobs that are vulnerable to disruption, AI’s climate impact, and regions
 
-over safeguarding users.
+that might beneﬁt most from AI development—I have found six distinct
 
-The positive news is that company leaders can act to mitigate the risks
+“divides” that contribute to artiﬁcial inequality: data, income, usage,
 
-of artiﬁcial inequality across the six divides. Artiﬁcial inequality can be
+geography, industry, and energy. These divides often reinforce each
 
-detrimental to both producers and adopters of AI, and companies need
+other. For example, someone who is more likely to be harmed by biases
 
-to take action where they can.
+in data may also be less likely to beneﬁt from AI productivity tools and
 
-There are three levers business leaders can pull:
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+disproportionately aﬀected by higher energy costs.

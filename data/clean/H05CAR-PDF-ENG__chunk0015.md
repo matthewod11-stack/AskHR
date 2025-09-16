@@ -1,11 +1,13 @@
-# health initiatives.
+---
+source_path: H05CAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a9839cd19f376319a64856c701d6d8848db8c79
+title: H05CAR-PDF-ENG
+---
+## of the leading spokespersons for global health in the pharmaceutical
 
-Most people would love to be a part of such an amazing turn of events,
+industry. Chris Viehbacher, corporate executive team member at GSK,
 
-yet this kind of transformation doesn’t happen very often. While many
+subsequently became the CEO of Sanoﬁ, and a champion of global
 
-helped with these eﬀorts, what made it possible for Dr. Yamada to step
-
-forward with a steady voice and a sound vision? In several interviews
-
-with Dr. Yamada we identiﬁed four key mindsets that helped him
+health. Both have since partnered with the Gates Foundation on global

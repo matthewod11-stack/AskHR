@@ -1,17 +1,15 @@
-## HBR / Magazine Article / The Case for a Chief of Staff
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b08746a798337a6ebbca4c00802ad40cb54ce5d4
+title: R2003G-PDF-ENG
+---
+## point in their decision-making process, and that follow-up happens
 
-they’ve inherited, even if it is poorly suited to their style or to the
+without their having to check. Many new CEOs default to the system
 
-operational changes they must make. Often there’s a better way to
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-handle the information ﬂow necessary for a CEO to succeed—and very
+1
 
-often a chief of staﬀ (CoS) can play an essential role.
-
-During the 25 years I spent working at a consulting and software ﬁrm—a
-
-dozen as chairman and CEO—I had a chief of staﬀ myself. As an adviser
-
-and as a board member, I’ve recommended to several dozen executives
-
-that they add the position to their teams—and in some cases I’ve helped
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

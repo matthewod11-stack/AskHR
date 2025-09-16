@@ -1,9 +1,11 @@
-## perspective oversimpliﬁes a far more complex reality. Research and
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8eaef24289e18c1ada46deea4c16f20d059e8c2a
+title: H08PPX-PDF-ENG
+---
+# Illustration by Alex Eben Meyer
 
-practical experience reveal that while some DEI initiatives have
+The ongoing debate over DEI often frames the practice as either
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+fundamentally ﬂawed or entirely unnecessary. However, this binary

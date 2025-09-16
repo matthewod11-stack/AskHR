@@ -1,3 +1,7 @@
-# Yes No
-
-Know or attempt to know students' names'? 1. 2. Talk with students before and/or after class? 3. Hold social events for his students? 4. Give advice or assistance at student request (class cr office)
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 40b28dc09e5f6f41ecaa4ad344d64ef5ff264130
+title: document_resume
+---
+# Persaial Relationships with Students

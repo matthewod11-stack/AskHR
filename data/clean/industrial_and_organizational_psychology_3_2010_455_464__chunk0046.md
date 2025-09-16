@@ -1,5 +1,15 @@
-## Meyer, R. D., Dalal, R. S., & Hermida, R.
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: f4951826812be84404df2934cbc6fb0e6e115bd2
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# if.
 
-(2010). A review and synthesis of situational strength in the organizational sciences. Journal of Management, 36, 121–140.
+Judge, T. A., Thoresen, C. J., Bono,
 
-Mohammed, S., & Schwall, A. (2009). Individual dif- ferences and decision making: What we know and where we go from here. InternationalReview of Industrial and Organizational Psychology, 24, 249–312.
+J. E., & Patton, G. K. (2001). The job satisfaction-job performance relationship: A qualitative and quantitative review. PsychologicalBulletin, 127, 376–407.
+
+Kuhn, K. M. (2010). Can managers be trained to make better decisions? Industrial and Organizational Psychology:PerspectivesonScienceandPractice, 3, 434–437.
+
+Locke, E. A., & Latham, G. P. (2009). Has goal setting gone wild, or have its attackers abandoned good scholarship? The Academy of Management Perspectives, 23, 17–23.

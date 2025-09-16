@@ -1,15 +1,33 @@
-## HBR / Magazine Article / Lean Strategy Making
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9be5ffb916c21347ea9a329a2919853f9827cda1
+title: R2503C-PDF-ENG
+---
+## less than $50 billion to more than $160 billion.
 
-decisions and make them faster. Only then will the results companies
+. . .
 
-achieve reach new heights.
+For too long leaders have treated strategy as nonstandard work,
 
-A version of this article appeared in the May–June 2025 issue of Harvard Business Review.
+resulting in decisions that are often incorrect or poorly timed. To
 
-Michael Mankins is a leader in Bain & Company’s Organization and Strategy & Transformation practices and is a partner based in Austin, Texas. He is a coauthor of Time, Talent, Energy: Overcome Organizational Drag and Unleash Your Team’s Productive Power (Harvard Business Review Press, 2017).
+address this, they need to adopt a systematic approach to strategy,
+
+clearly deﬁning priorities, gathering facts that reveal the causes of
+
+problems, developing strong options to choose from, making choices
+
+explicit, creating a speciﬁc plan for implementation, and tracking
+
+execution. If every unit and function follows the same approach,
+
+leadership can conﬁdently delegate decision-making to lower levels
+
+in the organization, and the ﬁrm can improve the quality of all its
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-15
+14
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

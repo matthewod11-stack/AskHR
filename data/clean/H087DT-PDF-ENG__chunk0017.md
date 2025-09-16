@@ -1,9 +1,17 @@
-# Any mental health condition
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 791ca9a9ad8e60c47fbc74e8a85c1b2aab75c911
+title: H087DT-PDF-ENG
+---
+# Bipolar disorder
 
-You’ll ﬁnd many examples of the accommodations you can ask for
+Some folks with mood disorders, especially bipolar disorder, struggle a
 
-in the United States by searching online or looking at the Equal
+great deal when their rhythms are disrupted — for example, if you’re
 
-Employment Opportunity Commission’s website. Anyone with a mental
+asked to do shift work or to take an early-morning ﬂight to a conference.
 
-health challenge of any sort should familiarize themselves with these
+If you need a consistent schedule for your mental health, consider
+
+asking your boss what adaptations are possible.

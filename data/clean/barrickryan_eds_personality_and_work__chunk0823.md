@@ -1,3 +1,9 @@
-# Broad Models
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b46903e6c7e53434e90bd4f5154215711c33b4a5
+title: barrickryan_eds_personality_and_work
+---
+# Later Models of Performance
 
-Using Project A data, Borman et al. (1991) partially conﬁrmed Hunter’s model (1983), but accounted for more than twice the variance in ratings with a model that added achievement orienta- tion, dependability, awards, and disciplinary actions (for problem behavior). In this expanded model, achievement orientation and dependability had both a direct inﬂuence on supervisory ratings and an indirect inﬂuence through their substantial effects on awards and disciplinary actions, respectively. The analyses demon- strated the importance of personality constructs as determinants of supervisory ratings of performance and highlighted the role of dependability in the acquisition of job knowledge.
+Although personality constructs were not among the variables in Hunter’s model (1983), Guion’s enlarged model (1983), or Schmidt et al.’s expanded model (1986), they now play prominent roles in theories and models of the determinants of work performance.

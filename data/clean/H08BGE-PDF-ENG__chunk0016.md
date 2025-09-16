@@ -1,15 +1,19 @@
-# a family (also bad).
+---
+source_path: H08BGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11bceef39407a6d35bb0a161fce7bf650a715343
+title: H08BGE-PDF-ENG
+---
+# “Never quite right” bias
 
-Black women are often subject to these opposing expectations. “Either
+Not having or wanting children is another way women are “never quite
 
-we have children too early, or we choose to have them too late if we
+right.” As one professional reported:
 
-put our careers ﬁrst,” as anthropologist Khiara Bridges observed in an
+I was told by a previous employer that nonparents aren’t cut out to be
 
-article in Harpar’s Bazaar.
+managers. Previous employers have also assumed I was either over-
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+or under-invested in my career based on parental status — either
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+forgoing children for a career (bad) or pursuing a career until I start

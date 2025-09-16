@@ -1,29 +1,17 @@
-## HBR / Digital Article / The High Costs of Chief Revenue Officer Turnover
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b065edce3197db36c8c3ee76d4259d42aafea220
+title: H08FE6-PDF-ENG
+---
+# their products.
 
-43% of companies experienced at least one year of negative growth
+It’s no coincidence that CRO tenure continues to contract. Sustained
 
-in the past three years, and fewer than 3% managed to consistently
+growth remains elusive for many companies. Our research ﬁnds that
 
-increase their growth rate each of the last three years. Firing the CRO
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-is one of the most common actions a board of directors takes when
+1
 
-growth is challenged. Our research shows that CRO turnover accelerated
-
-by more than 50% from 2022 to 2023 (with 70% of CROs who left their
-
-post being asked to leave). This trend doesn’t show any signs of abating:
-
-Our survey of CEOs found only 41% of them express conﬁdence that
-
-their CRO can drive commercial success for their organization.
-
-Naturally, it stands to reason that when growth isn’t happening,
-
-someone needs to be held accountable. But here’s our take: replacing
-
-the CRO is often a recipe for further suppressing and likely decelerating
-
-growth. It is something most executive teams would be wise to carefully
-
-and conservatively consider before acting.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

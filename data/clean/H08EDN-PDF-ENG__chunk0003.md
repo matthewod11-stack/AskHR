@@ -1,7 +1,15 @@
-# resource-intensive mistakes.
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bede2008fe7c65267012d675455804b4c45951ea
+title: H08EDN-PDF-ENG
+---
+# rubberball/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Stacey, the chief executive of a nonproﬁt focused on energy eﬃciency,
 
-1
+wanted to bolster her leadership team by creating a chief operating
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+oﬃcer position. Her ﬁrst two hires to ﬁll the role were unsuccessful:
+
+Neither lasted a full year on the job. These were time-consuming and

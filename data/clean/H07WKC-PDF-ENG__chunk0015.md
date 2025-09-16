@@ -1,23 +1,9 @@
-# Lights?
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0b6b77e96a6d771e96a1b33e594b93f65caf9ac
+title: H07WKC-PDF-ENG
+---
+## bagel bakery in Paris, an international food capital unaccountably (we
 
-The core Blue Ocean concept of value innovation encourages strategists
-
-to look at what features of a product or service oﬀering might be
-
-deterring people who are not customers of your existing oﬀering —
-
-and which of them might become customers. When we asked our Blue
-
-Ocean AI what might be putting consumers oﬀ from buying bagels,
-
-it quickly replied that tourists “may feel disappointed by the lack of
-
-availability, variety, and authenticity.” That rang true to us as U.S.
-
-expats. But the AI also suggested that health-conscious and gluten-
-
-sensitive French individuals — who didn’t usually buy many traditional
-
-French bakery products either — might be interested in buying bagels,
-
-observing that “[T]he bagel bakery in Paris has the opportunity to tap
+thought) devoid of good bagels. How might we bring them to the City of

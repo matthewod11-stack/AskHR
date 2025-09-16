@@ -1,25 +1,25 @@
-## Chapter 9 • Performance Management Skills
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a55eecb0cbc1bbbb972f3858499bb7ec0ecfae18
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part III • Employee Development
 
-The importance of keeping thorough performance documentation and taking actions consistent with this documentation is illustrated by the outcome of several cases. In one such case, John E. Cleverly, an employee at Western Electric Co., was discharged after 14 years of good service.18 Western Electric was found guilty of age discrimination, and Cleverly was awarded back pay because the documentation indicated that Cleverly had been given adequate performance ratings and increases to his salary over a course of 14 years. Upon his discharge, six months before his pension vested, Cleverly was informed that one reason for his discharge was to make room for younger employees. As illustrated by this case, documentation of perform- ance should be taken seriously. In this case, the documentation available indicated the employee had a valid claim. In other cases, documentation could be used to discount charges of discrimination. If Cleverly had alleged age discrimination, but the company could show that his performance was deteriorating over time, then the company would have won the case.
+much time may elapse between the assignment of the activity and the manager’s checking on the employee’s progress.
 
-What can managers do to document performance regarding developmental activities and performance in general in a useful and constructive way? Consider the following recommendations:19
+- Situational constraints. Managers are often unable to observe employees as they engage in developmental activities and therefore may not have firsthand knowl- edge about their performance. For example, managers do not observe the extent to which an employee enrolled in an online course is an active participant and contributor or is a passive learner.
 
-- Be specific. Document specific events and outcomes. Avoid making general statements such as “He’s lazy.” Provide specific examples to illustrate your point, for example, “He turns in memos after deadlines at least once a month.” • Use adjectives and adverbs sparingly. The use of evaluative adjectives (e.g., good, poor) and adverbs (e.g., speedily, sometimes) may lead to ambiguous interpretations. In addition, it may not be clear whether the level of achievement has been average or outstanding.
+- Activity constraints. When the developmental activity is highly unstructured, such as an employee’s reading a book, the manager may have to wait until the activity is completed to assess whether the activity has been beneficial.
 
-- Balance positives with negatives. Document instances of both good and poor performance. Do not focus only on the positives or only on the negatives.
+How can we address these constraints and make sure that a manager will be able to observe and evaluate an employee’s performance regarding developmental activities? The recommendations provided in Chapter 7 regarding the observation and evaluation of performance in general apply here as well. Specifically, a good communication plan should explain the benefits of implementing a developmental plan effectively. This helps managers accept the plan. Also, managers should be trained so that they minimize errors (i.e., rater error training), share notions of what it means to complete developmental activities successfully (i.e., frame-of-reference training), observe performance accurately (i.e., behavioral observation training), and are confident and comfortable in managing employees’ developmental activities (i.e., self-leadership training). Finally, we need to understand the forces that motivate managers to invest time and effort or not in the development of their employees. In other words, what does the manager gain if her employee’s developmental activities are supervised appropriately?
 
-- Focus on job-related information. Focus on information that is job related and specifically related to the developmental activities and goals at hand.
+The importance of documenting an employee’s progress toward the achievement of developmental goals cannot be overemphasized. Similarly, it is critical to document em- ployee performance in general. Why is this so important? Consider the following reasons:
 
-- Be comprehensive.
+- Minimize cognitive load. Observing and evaluating developmental activities, and performance in general, is a complex cognitive task. Thus, documentation helps prevent memory-related errors.
 
-Include information on performance regarding all develop- mental goals and activities, and cover the entire review period as opposed to a shorter time period. Also, document the performance of all employees, not just those who are not achieving their developmental goals.
+- Create trust. When documentation exists to support evaluations, there is no mystery regarding the outcomes. This, in turn, promotes trust and acceptance of decisions based on the evaluation provided.
 
-- Standardize procedures. Use the same method and format to document information for all employees.
+- Plan for the future. Documenting developmental activities and their outcomes enables discussion about specific facts instead of assumptions and hearsay. Acare- ful examination of these facts permits better planning of developmental activities for the future.
 
-- Describe observable behavior. Phrase your notes in behavioral terms and avoid statements that would imply subjective judgment or prejudice.
-
-Obviously, not all managers do a good job of documenting performance about the accomplishment of developmental goals or performance in general. Table 9.3 includes a summarized list of recommendations to follow in the documentation process.
-
-Now, consider the recommendations listed in Table 9.3 in evaluating the set of quotes appearing in Table 9.4 reportedly taken from actual employee performance evaluations in a large corporation in the United States.20
-
-We can be sure that the employees at the receiving end of these quotes would not be very happy with them. It also goes without saying that this type of documentation
+- Provide legal protection. Specific laws prohibit discrimination against members of various classes (e.g., sex or religion) in how developmental activities are allocated. For example, it is prohibited to provide male employees with better developmental opportunities than female employees. In addition, some court rulings have deter- mined that employees working under contract may challenge a dismissal. Thus, keeping accurate records of what developmental activities employees have completed and with what degree of success as well as performance in general provides a good line of defense in case of litigation based on discrimination or wrongful termination.

@@ -1,19 +1,21 @@
-## competition from the deregulation of interstate branching. This superior
+---
+source_path: H048OW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29a4ad39472fed442c8819fd50d140c48fe6c376
+title: H048OW-PDF-ENG
+---
+## competitive pressures in these states but not in others.
 
-ﬁrm performance was strongest for second-generation CEOs, and the
+Our idea was that if the cultural heritage of a CEO matters to corporate
 
-effect weakened with each later generation.
+outcomes, then we would observe systematic differences between ﬁrms led
 
-Intriguingly, the cultural heritage effects we uncovered were uniquely
+by second- and third- generation CEOs and ﬁrms led by the control group,
 
-linked to the CEO and could not be detected for other senior executives.
+following shocks to competition. And this is what we found. Our data
 
-We replicated our analysis for the Chief Financial Officers (CFOs) of each
+showed that banks led by CEOs who are the children and grandchildren of
 
-bank and other members of the top management team, but we did not ﬁnd
+immigrants were, on average, associated with superior performance —
 
-Copyright © 2018 Harvard Business School Publishing Corporation. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+measured by bank Return on Assets — following higher industry

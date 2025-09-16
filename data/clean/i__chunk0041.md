@@ -1,5 +1,11 @@
-# selection of 11 relevant books.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: b0a1acfc76c9f19d7ebaa17f5e24c54d70a56da3
+title: i
+---
+# titles: "Human resource analytics," "People Analytics," and "Workforce Analytics" on
 
-The literature list also consists of materials recommended by the Supervisor and backward-
+abo.finna.fi in the English language across all fields. The initial search yielded 32 books. The
 
-chaining citations from the academic books.
+literature list was subsequently refined through careful screening, narrowing it down to a final

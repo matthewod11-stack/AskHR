@@ -1,13 +1,39 @@
-# diﬀerence.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 669bc13e498112639db270a09e041c19c8350ea6
+title: H08DDG-PDF-ENG
+---
+# opportunity for improvement.
 
-Since launching TDK Ventures, my team and I have made numerous
+Responses like these demonstrate just how frank and direct
 
-changes to our operations in direct response to feedback from
+entrepreneurs can be (even in non-anonymous surveys) — if you create
 
-our annual NPS surveys. For example, in response to feedback
+a safe space in which they can share their feedback freely and without fear of reprisal. While unexpected feedback can be diﬃcult to receive,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+it’s also incredibly valuable, and I am always grateful when founders are
 
-7
+willing to share these critical insights. I’ve also found that reviewing this
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+feedback together with my team — reﬂecting on our shared areas for
+
+improvement and collaboratively exploring creative solutions — can be
+
+a powerful trust-building exercise, bringing the internal team closer and
+
+making the entire organization more eﬀective.
+
+- 3. Prioritize and implement improvement areas.
+
+Of course, you can’t do everything at once. To turn your entrepreneurs’
+
+actionable insights into real change, it’s vital to prioritize the highest-
+
+impact actions you can take — for both the entrepreneurs you’ve
+
+already invested in and for those you will want to invest in going
+
+forward. It’s also important to act fast: The startup world moves quickly,
+
+so if you wait too long to implement, it may be too late to make a

@@ -1,9 +1,25 @@
-# EB
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b3e48f2882de90bb02dfedc887c43a9c61479fb
+title: H07UPN-PDF-ENG
+---
+## a persistent underinvestment in our own development.
 
-Eduardo Briceño, author of The Performance Paradox, is a global keynote speaker and facilitator who guides many of the world’s leading companies in developing cultures of learning and high performance.
+We sometimes think that engaging in learning will detract from
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+performance, but that is shortsighted. Research in many domains shows
 
-7
+the opposite: The highest performers are those who regularly engage in
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the learning zone. It doesn’t need to take more time. It’s about how we
+
+go about our daily work and life while getting things done.
+
+When we explore others’ ideas, leap beyond the known, try new ways
+
+of working, ask questions, experiment, examine mistakes, and solicit
+
+feedback, we discover ways to work smarter and achieve greater impact.
+
+This article was originally published online on October 13, 2023.

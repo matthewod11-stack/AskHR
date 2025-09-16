@@ -1,19 +1,19 @@
-## up a physical service business and then a digital service business, later
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 885f571e77789a9ed9a02a62aab81f8f435df687
+title: R2405E-PDF-ENG
+---
+## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
 
-becoming president of the construction business area. He eventually
+candidate will be the manager who brought you the idea, but that
 
-moved on to become the CEO of two multinational companies.
+person must be capable of motivating others to join the ride and very
 
-Unfortunately, corporate leaders capable of building a new business,
+entrepreneurial in outlook. When Ronnie was looking for a leader to
 
-rather than just managing an existing one, are few and far between,
+grow a new service subsidiary at Atlas Copco, he recognized those
 
-which means that you may have to look outside for one. That isn’t easy
+two traits in a young executive, Nico Delvaux. After he was appointed
 
-and can be expensive, but it’s often necessary.
-
-. . .
-
-As we have shown, large companies can play a critical role in bringing
-
-groundbreaking ideas to life. While incumbents may lack the creative
+president of the compressor service division, in 2009, Delvaux scaled

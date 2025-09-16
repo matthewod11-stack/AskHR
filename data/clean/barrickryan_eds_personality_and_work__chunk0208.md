@@ -1,5 +1,9 @@
-# 58 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 107a6fe4ac513efbc43d1efd95155b6184577a01
+title: barrickryan_eds_personality_and_work
+---
+## drome. San Francisco: New Lexington Press.
 
-association? In M. P. Shaw & M. A. Runco (Eds.), Creativity and af- fect (pp. 44–72). Norwood, NJ: Ablex.
-
-Richards, R., & Kinney, D. K. (1990). Mood swings and creativity. Creativity
+Ostir, G. V., Markides, K. S., Black, S. A., & Goodwin, J. S. (2000). Emo- tional well-being predicts subsequent functional independence and survival. Journal of the American Geriatrics Society, 48, 473–478. Richards, R. (1994). Creativity and bipolar mood swings: Why the

@@ -1,15 +1,7 @@
-## doenças, ou seja, aspectos considerados negativos em detrimento dos aspectos
-
-positivos da saúde (POCINHO; PERESTRELO, 2011; SALANOVA; SCHAUFELI,
-
-2009). Seligman e Csikszentmihalyi (2000) relataram que até o início dos anos 1950
-
-a preocupação fundamental dos estudiosos reside apenas sobre as consequências
-
-negativas do esgotamento físico e psíquico dos trabalhadores nas organizações.
-
-14
-
-Como resposta a essa tendência, surgiu o movimento denominado "psicologia
-
-positiva", que busca privilegiar os aspectos salutares em detrimento dos enfermos.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 3322aa2b86146b5b6a34b2cc66cac4418654da2c
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Historicamente, a psicologia priorizou o estudo dos transtornos, sintomas e

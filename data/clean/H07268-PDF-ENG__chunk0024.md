@@ -1,7 +1,19 @@
-# across the organization.
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bec8df42d854bea7b2bb2478b6829ebbe013a2aa
+title: H07268-PDF-ENG
+---
+## and senior leaders to share their political know-how and leverage
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+their political power across racial and gender lines. For instance, well-
 
-6
+respected sponsors can be encouraged to get involved in leadership
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+development programs speciﬁcally designed to support women and
+
+ethnic minority employees. This both improves employees’ access to
+
+senior leaders’ networks, and helps the sponsors better understand the barriers diﬀerent employees face. They can then use these insights
+
+(alongside their political savvy) to advocate for their proteges and come up with more-eﬀective strategies to address obstacles facing employees

@@ -1,13 +1,13 @@
-# resilience skills.
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6de2eb205eaca195f04e95c9d980fa7f912b882a
+title: H08R2K-PDF-ENG
+---
+## measure of risk and readiness, especially in leadership roles. The
 
-The survey also revealed company-wide risk areas like prolonged
+company found that managers were experiencing higher levels of
 
-sedentariness, reduced perceived productivity, and a lack of conﬁdence
+perceived stress than others, but also reported higher resilience—
 
-over ability to cope with stress. These insights were shared in leadership
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+highlighting the importance of equipping future leaders with stress

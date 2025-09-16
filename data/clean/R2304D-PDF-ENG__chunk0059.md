@@ -1,21 +1,21 @@
-## apprenticeship programs, and internal company training programs.
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe02fdd121e61f8298603f4d30e845397111cd6e
+title: R2304D-PDF-ENG
+---
+## techniques from companies as diverse as Lincoln Electric, 3M, Duke
 
-One of the most highly respected union training programs is UNITE
+Energy, and others. It both trains members, so that they can return
 
-HERE’s Culinary Academy, also in Las Vegas. The program trains
+to their jobs and train others, and oﬀers vendors feedback on their
 
-workers for newly emerging jobs in hospitality, allows them to move
+products. It’s a modern way of practicing what Japanese carmakers like
 
-from one occupation to another (for example, from housekeeping to
+Toyota said years ago: It is workers who give wisdom to the machines.
 
-restaurant positions), and serves as a one-stop center for supporting
+Through negotiated provisions in collective bargain-ing agreements,
 
-immigrant workers, teaching English as a second language, and
+unions run some of the largest training institutions in the country.
 
-referring workers at risk of or experiencing layoﬀs to new jobs.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+These are often governed collaboratively—by labor-management trusts,

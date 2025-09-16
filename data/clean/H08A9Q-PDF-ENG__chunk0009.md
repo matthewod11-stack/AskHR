@@ -1,19 +1,13 @@
-## correct massive amounts of “technical debt” — all the layered eﬀorts
+---
+source_path: H08A9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e7aa2388121ad93a66f5b3e0ff3176f5dd971a9
+title: H08A9Q-PDF-ENG
+---
+# 3,000 use cases for AI.
 
-to help upgrade your organization’s technology infrastructure and the
+In PwC’s June 2024 Pulse Survey, 84% of executives said achieving
 
-resulting complexity.
+measurable value from new technology was a challenge. Typically,
 
-Our experience working on tech-enabled and digital transformations
-
-with hundreds of companies across industries and processes across front, middle, and back-oﬃce areas has led us to believe that simply
-
-trying to manage technical debt is often a misguided and incomplete
-
-eﬀort. Until organizations can tackle their often undiscussed “process
-
-debt” — which we deﬁne as the buildup of often antiquated,
-
-functionally isolated, and customer-disconnected ways of doing work
-
-— they cannot realize the massive potential of technologies like AI and
+organizations have to spend signiﬁcant time and resources trying to

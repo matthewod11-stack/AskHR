@@ -1,7 +1,13 @@
-# Issues, 6(1), entire issue.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4704b3582c77823a3dd35b64e4bfa895792fe337
+title: untitled
+---
+## Ellis, A. (1958). Rational psychotherapy. Journal of General Psy-
 
-Eysenck, H. J. (1949). Training in clinical psychology: An English
+chology, 59, 35–49.
 
-point of view. American Psychologist, 4, 173–176.
+Erikson, E. H. (1950). Childhood and society. New York: Norton.
 
-Eysenck, H. J. (1952). The effects of psychotherapy: An evaluation.
+Erikson, E. H. (1959). Identity and the life cycle. Psychological

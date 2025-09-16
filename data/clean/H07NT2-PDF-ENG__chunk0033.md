@@ -1,9 +1,9 @@
-# SF
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67f30287888445d4ffc601a27f8d8dca00e7255e
+title: H07NT2-PDF-ENG
+---
+## achievement of diversity-related hiring goals.
 
-Sean Fath is an Assistant Professor of Organizational Behavior at Cornell’s ILR School. His research interests include managerial decision making, bias reduction in social evaluations, and perceptions of social and organizational hierarchy.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This article was originally published online on June 01, 2023.

@@ -1,5 +1,9 @@
-# team and organisational effectiveness)
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: d8f6fc57208dede68800aae919f42fc3d87b1dad
+title: chapter_nine
+---
+# a person-centred way
 
-d) Knowledge/evidence is developed, used and shared
-
-C2. Human flourishing for all
+b) Staff are empowered and committed c) Standards, goals and objectives are met (individual,

@@ -1,9 +1,13 @@
-# Middle managers
+---
+source_path: decision-making-in-the-age-of-urgency.md
+pages: n/a-n/a
+chunk_id: 391e8922dc21e06e974b7882bb1e2d966e632b6a
+title: decision-making-in-the-age-of-urgency
+---
+# Senior managers
 
-8
+30
 
-43
+52
 
-49
-
-1 Question was asked only of respondents who said they are familiar with more than 1 decision type. For C-level executives, n = 273; for senior managers, n = 323;
+18

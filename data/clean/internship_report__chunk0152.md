@@ -1,11 +1,27 @@
-# settlement and transfer order
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 3b9ba4e39000b1e9be0c824cf832b02af800df02
+title: internship_report
+---
+# interviews
 
-11.
+7.
 
-Liasoning with GrameenPhone on behalf of company pertaining to mobile SIM distribution,
+Make sure, whether the appraisals are made at the proper time and other training requirements
 
-Recovery and maintaining/ compiling its records
+are met for employees.
 
-12.
+8.
 
-Maintaining and Processing all kind of Printing/Supply of goods related works
+Providing administrative support and information to top management in their respective duties.
+
+9.
+
+Maintaining Company Asset with compile and checking Inventory, purchase, movement and
+
+visitors register.
+
+10.
+
+Processing Personnel recruitment, selection, appointment, orientation, termination, final

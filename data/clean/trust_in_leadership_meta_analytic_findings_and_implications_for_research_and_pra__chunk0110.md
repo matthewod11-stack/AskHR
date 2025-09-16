@@ -1,23 +1,27 @@
-# Human Relations, 15, 3–15.
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 1aacfdbf2356a9a81673dff2edda141ccce18645
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# Personnel Decisions International.
 
-- Rever-Moriyama, S. (1999). Do unto others: The role of psychological contract breach, violation, justice, and trust on retaliation behaviors. Unpublished doctoral dissertation, University of Calgary, Alberta, Canada.
+- Pettit, J. D., Goris, J. R., & Vaught, B. C. (1997). An examination of organizational communication as a moderator of the relationship be- tween job performance and job satisfaction. Journal of Business Com- munication, 34, 81–98.
 
-- Wagner, S., & Rush, M. (2000). Altruistic organizational citizenship behavior: Context, disposition, and age. Journal of Social Psychology, 140, 379–391.
+- Simon, L. (1994). Trust in leadership: Its dimensions and mediating role. Unpublished doctoral dissertation, Kansas State University.
 
-- Waite, M. (1998). Modeling gain sharing and quality: A longitudinal quasi-experimental field study. Unpublished doctoral dissertation, State University of New York at Buffalo.
+- Spreitzer, G., & Mishra, A. (2000). To stay or go: Voluntary survivor turnover following an organizational downsizing. Unpublished manu- script, University of Southern California.
 
-- Rhee, J. (1996). Organizational justice in an employee participation program. Unpublished doctoral dissertation, Cornell University.
+- Pillai, R., Schriesheim, C., & Williams, E. (1999). Fairness perceptions and trust as mediators for transformational and transactional leadership: A two-sample study. Journal of Management, 6, 897–933.
 
-- Rich, G. (1995). The effects of transformational leadership behaviors on attitudes, role perceptions, and in-role/extra-role performance of sales- people. Unpublished doctoral dissertation, Indiana University.
+- Stanton, J. (1997). Performance monitoring and fairness perceptions: Characteristics, context, and correlates. Unpublished doctoral disserta- tion, University of Connecticut.
 
-- Rich, G. (1997). The sales manager as a role model: Effects of trust, job satisfaction and performance of salespeople. Journal of the Academy of Marketing Science, 25, 319–328.
+- Podsakoff, P., MacKenzie, S., & Bommer, W. (1996). Transformational leader behaviors and substitutes for leadership as determinants of em- ployee satisfaction, commitment, trust and organizational citizenship behaviors. Journal of Management, 22, 259–298.
 
-- Roberts, K., & O’Reilly, C. (1974). Failures in upward communication in organizations: Three possible culprits. Academy of Management Jour- nal, 17, 205–215.
+- Podsakoff, P., MacKenzie, S., Moorman, R., & Fetter, R. (1990). Trans- formational leader behaviors and their effects on followers’ trust in leader, satisfaction, and organizational citizenship behaviors. Leadership Quarterly, 1, 107–142.
 
-- Whitener, E. (1997, August). Patterns of social exchange: The relation- ship between perceptions of human resource practices and employee attitudes. Paper presented at the Annual Meeting of the Academy of Management, Boston.
+- Tan, H. H., & Tan, C. (2000). Toward the differentiation of trust in supervisor and trust in organization. Genetic, Social, and General Psy- chology Monographs, 126, 241–260.
 
-- Whitener, E. (1999, August). The effects of cynicism on the development of interpersonal trust. Paper presented at the Annual Meeting of the Academy of Management, Chicago. Whitener, E., Brodt, S., Korsgaard, M. A., & Werner, J. (1998). Managers as initiators of trust: An exchange relationship for understanding man- agerial trustworthy behavior. Academy of Management Journal, 23, 513–530.
+- Verdi, W. (1996). Layoff survivors, layoff organizational justice and layoff explanation content: Their effects on organizational commitment and trust in management. Unpublished doctoral dissertation, The City University of New York.
 
-- Robinson, S. L. (1996). Trust and breach of the psychological contract. Administrative Science Quarterly, 41, 574–599.
-
-- Robinson, S. L., & Rousseau, D. M. (1994). Violating the psychological contract: Not the exception but the norm. Journal of Organizational Behavior, 15, 245–259. Rosenthal, R. (1979). The file drawer problem and tolerance for null
+Read, W. H. (1962). Upward communication in industrial hierarchies.

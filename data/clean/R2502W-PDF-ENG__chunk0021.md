@@ -1,9 +1,13 @@
-## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aac9dc908bde95d3e6c2e879ad35f850d0db45ec
+title: R2502W-PDF-ENG
+---
+## their teams, management attention, and capital on the expertise
 
-that truly matters for their brands—understanding their customers
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-and developing innovative products to suit their needs. The same
+5
 
-technology stack from the same providers also enables small and
-
-medium-size businesses to compete with bigger players.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,15 @@
-# as helpful and productive as possible.
+---
+source_path: H08AY4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08d545162142ce6fbbfee354eafd76568b46cf9b
+title: H08AY4-PDF-ENG
+---
+# background, and much more.
 
-This includes articulating a positive intention for the feedback, being
+And while you have a contribution to how they experience the feedback,
 
-clear about what you’re observing and requesting, naming the impact,
+you are not in total control of it.
 
-focusing on strengths, developing actionable next steps, and delivering
+So, while it’s helpful to know that you can’t “make” someone feel sad or
+
+angry, you do need to commit to making your part of the conversation

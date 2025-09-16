@@ -1,13 +1,11 @@
-## with a local Wage and Hour Division oﬃce.
+---
+source_path: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas).md
+pages: n/a-n/a
+chunk_id: adf2ca736e332bd103e94b5de570300b3c382dd8
+title: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas)
+---
+# their local Wage and Hour Division oﬃce (https://www.dol.gov/agencies/whd/contact/local-oﬃces).
 
-Please note: The Department of Labor Appropriations Act, 2016, Division H, Title I of Public Law 114-113
+Many of the H-2B program's worker protections also extend to other workers in the employer's workforce,
 
-("2016 DOL Appropriations Act"), provides that the Department of Labor ("Department") may not use any
-
-funds to enforce the deﬁnition of corresponding employment found in 20 CFR 655.5 or the three-fourths
-
-guarantee rule deﬁnition found in 20 CFR 655.20, or any reference thereto. See Sec. 113. However, the 2016
-
-DOL Appropriations Act did not vacate these regulatory provisions, and they remain in eﬀect, thus imposing a
-
-legal duty on H-2B employers, even though the Department will not use any Fiscal Year 2016 funds to enforce
+including U.S. workers hired in response to the requirement recruitment, and those who are found to be in corresponding employment. Workers may ﬁle complaints about non-compliance with H-2B labor standards

@@ -1,5 +1,7 @@
-# recomendaria
-
-empresa/produto/serviço para um amigo?" e geralmente vem acompanhada de uma
-
-segunda pergunta, desta vez aberta, para explorar o motivo da nota atribuída à
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 6d048f2729357029ce463fbf23ea17074b59f087
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# você

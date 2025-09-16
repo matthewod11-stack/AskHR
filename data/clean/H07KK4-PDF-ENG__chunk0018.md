@@ -1,11 +1,19 @@
-## HBR / Digital Article / The Ripple Effect of a Bad Boss on Dual-Career Parents
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 465d78dda7e37fe75e34fbb6ad12f6d4dbbca773
+title: H07KK4-PDF-ENG
+---
+# and number of children.
 
-- 1. Recognize and manage spillover.
+While there is still much to untangle about how the work environments
 
-While we may want to believe we can “turn oﬀ” work stress when we’re
+of the couples in our study aﬀect their children and partner, these initial
 
-oﬀ-the-clock, our research suggests that this frequently isn’t the case.
+ﬁndings present signiﬁcant takeaways for working parents.
 
-Work-family scholars refer to this as “spillover”— when experiences at
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-work impact your ability to fully engage at home, both positively and
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

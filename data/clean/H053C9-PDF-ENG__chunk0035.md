@@ -1,11 +1,31 @@
-## positive change for their employees, communities, and economies.
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e28193e3b38996638c5d75966bfb77875d0c10fc
+title: H053C9-PDF-ENG
+---
+## LGBT “Pink Dot” festival, Dow hosted its own internal “Pink Dot Day.”
 
-This article was originally published online on August 15, 2019.
+Find small, symbolic ways to indicate support for LGBT rights, such
 
-David Glasgow is the executive director of the Meltzer Center and an adjunct professor at NYU School of Law.
+as providing employees with Pride ﬂags or pins or oﬀering options to
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+add inclusive language or even preferred pronouns to email signatures
 
-6
+— an eﬀort EY began rolling out in the U.S. last month. Such eﬀorts
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+allow people to “come out of the closet” as more proactive allies, while
+
+also making the company’s support for LGBT rights visible externally.
+
+In Hong Kong, some recent hires reported that they decided to join EY
+
+because the partner interviewing them was wearing a rainbow pin.
+
+It’s not easy for multinational corporations to move the needle on
+
+global LGBT rights. Yet we need to move beyond the When in Rome
+
+and Embassy models to achieve the goal of true global inclusion
+
+and acceptance. Businesses have a tremendous opportunity to make

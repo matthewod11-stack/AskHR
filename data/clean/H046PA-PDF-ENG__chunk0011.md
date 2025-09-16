@@ -1,17 +1,37 @@
-# own.
+---
+source_path: H046PA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f99ebdc20e9dc817327a1a4f12ac7614cfecf67e
+title: H046PA-PDF-ENG
+---
+## through hobbies, relationships of proximity (for instance, neighbors or
 
-To start, chart it out on paper. On one side, write down your past
+parents at your kids’ school), or friends of friends.
 
-position or experience. On the other side, write down the job you
+Control your narrative. We often assume that if we work hard, people
 
-currently hold. Then ﬁnd the connective tissue that links them.
+will notice it over time, or that if we’ve made a transition, it will
 
-For instance, your past might be “HR director” and your present might
+make intuitive sense to others. Because people are so overstretched
 
-be “regional sales leader.” An outsider may have no idea what connects
+these days, that’s unfortunately almost never true. They’re simply not
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+paying close enough attention to us or our professional trajectory to
 
-3
+formulate a coherent narrative of us. Worse, they may make inaccurate
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+assumptions — say, that your skills must be wildly out of date since you
+
+took time oﬀ after having a child, or that you shifted to functional roles
+
+because you were bored or “couldn’t hack it” — which could cause you
+
+to miss out on growth opportunities.
+
+Help others understand the truth about your journey by developing a
+
+clear and concise elevator pitch that explains how your previous skills
+
+connect with, and add value to, what you’re doing now. Make that
+
+connection explicit, rather than hoping others will ﬁgure it out on their

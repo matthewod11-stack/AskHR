@@ -1,17 +1,9 @@
-# quarter-century long by this point.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4ddcc7f5d73a813c4357e7a9674353d0eebce29
+title: H07T7V-PDF-ENG
+---
+## the computer science geeks, the economic geeks, and the business geeks
 
-Generative AI is going to change the business world. It’s probably going
-
-to do it quicker than a lot of us are thinking, and waiting around on
-
-the sidelines and not being part of that transformation is a deeply lousy
-
-strategy: get a plan together and then just go do stuﬀ.
-
-ADI IGNATIUS:
-
-All right, Andy, we’ve run a little bit long, so we’re going to cut you
-
-oﬀ here. I could talk all day with you about all these topics, and our
-
-audience is clearly into it and engaged. Thank you very much for being
+all get so excited about anything in my career, which is actually a

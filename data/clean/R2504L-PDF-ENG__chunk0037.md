@@ -1,51 +1,31 @@
-## HBR / Magazine Article / Hybrid Still Isn’t Working
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 345fb0db28838f6829cc7a081fb3907d7bf34f53
+title: R2504L-PDF-ENG
+---
+## better inform workers about professional development opportunities
 
-be mandatory. The optimal number of days per week varies: Companies
+by making job descriptions more detailed and explicit. Companies can
 
-whose work relies less on collaboration might ﬁnd that two days per
+expose employees to possible career paths using internal job markets,
 
-week is suﬃcient; other companies may need at least three days.
+or talent marketplaces, which allow employees to apply for other jobs
 
-Employers that can’t get the entire workforce in the oﬃce on anchor
+in the ﬁrm, work temporarily on projects, and take side assignments
 
-days have a big challenge. Managers need to consider this problem
+without leaving their current job. (See “How to Design an Internal
 
-when making future decisions about hiring and facilities. In the
+Talent Marketplace,” HBR, May–June 2023.) All these opportunities
 
-meantime, companies can take partial measures, such as having diﬀering anchor days for various teams or invoking rules that focus on
+help employees build relationships across units and functions.
 
-relationship-building with geographically dispersed employees.
+Establish in-ofﬁce anchor days. Anchor days for hybrid workforces are
 
-Build social relationships. An obvious place to forge connections is
+only worthwhile if everyone can actually be there, so attendance should
 
-with new hires during onboarding. Keep them together in cohorts so
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that they can bond and learn from one another. Partner new hires with
+11
 
-experienced mentors to show them the ropes. Create a list of important
-
-people whom new hires should meet and send introductions to make
-
-sure that those meetings happen.
-
-Creating working relationships across teams—where the biggest gaps
-
-are now—is also vitally important. So map out the groups that have
-
-critical interactions with one another, and as a start, bring them
-
-together for a series of working lunches, two groups at a time. Plan the
-
-seating to mix up team members. Use the working part of the lunch
-
-to identify what the groups need from each other, discuss the most
-
-important items, and identify whom to contact with various questions.
-
-Any program that brings employees together has the added beneﬁt of
-
-building personal relationships. Volunteering in the community can
-
-be especially powerful as employees work together on a common and
-
-meaningful goal. (For more on building relationships among employees,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

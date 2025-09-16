@@ -1,13 +1,13 @@
-## tion. Warwick, RI: Partners for the Learning Organization.
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: ee2f622757e2ceb46043a80f8a4572bfba0fcc94
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# Wang Y.
 
-Williams L.J. and Anderson S.E. (1991). Job satisfaction and organizational commitment as predictors of organizational citizenship and in-role behav- iors. Journal of Management, 17, 601–617.
+(2008). Emotional bonds with supervisor and co-workers: Relationship to organizational commitment in China’s foreign-invested companies. The International Journal of Human Resource Management, 19, 916–931.
 
-Williams L.J., Hartman N. and Cavazotte F. (2010). Method variance and marker variables: A review and comprehensive CFA marker technique. Organizational Research Methods, 13, 477–514.
+Wang H., Law K.S., Hackett R.D., Wang D. and Chen Z.X. (2005). Leader- member exchange as a mediator of the relationship between transforma- tional leadership and followers’ performance and organizational citizenship behavior. Academy of Management Journal, 48, 420–432.
 
-Yang B., Watkins K.E. and Marsick V.J. (2004). The construct of the learning organization: Dimensions, measurement, and validation. Human Resource Development Quarterly, 15, 31–55.
-
-Zagorsek H., Dimovski V. and Skerlavaj M. (2009). Transactional and trans- formational leadership impacts on organizational learning. Journal for East European Management Studies, 14, 144–165.
-
-Zehir C., Akyuzb B., Eren M.S. and Turhan G. (2013). The indirect effects of servant leadership behavior on organizational citizenship behavior and job performance: Organizational justice as a mediator. International Journal of Research in Business and Social Science, 2, 1–13.
-
-Zhao X., Lynch J.G. and Chen Q. (2010). Reconsidering Baron & Kenny: Myths and truths about mediation analysis. The Journal of Consumer Research, 37, 197–206.
+Watkins K.E. and Marsick V.J. (1997). Dimensions of the learning organiza-

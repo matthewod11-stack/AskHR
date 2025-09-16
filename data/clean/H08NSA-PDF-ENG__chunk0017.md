@@ -1,9 +1,13 @@
-# Health in rural areas in Rwanda.
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c7881d307c927ddaac4fa7325352bdab75361a4
+title: H08NSA-PDF-ENG
+---
+## health, human rights, and social equality in Haiti, across Africa, and
 
-What started as small, focused eﬀorts eventually grew into a leadership
+in other low-income regions. Through this connection, Lee began to
 
-role where he drives larger-scale change. In the end, his volunteer work
+get involved in some pro bono work. He spent three years alternating
 
-inﬂuenced his career choice to promote health equity. Lee now works
-
-as president and CEO of Central Health in Austin, Texas, improving
+between his shifts as a hospitalist in Boston and serving with Partners in

@@ -1,17 +1,35 @@
-# noise—and vice versa.
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6accf6e473302de3639b76aa6a2ca3e18f79a7bf
+title: S24012-PDF-ENG
+---
+## HBR / Spotlight Article / Leaders Must React
 
-Taking “robust action”—a leadership approach I have written about that
+Having sized an issue, leaders then must properly frame it and
 
-addresses ambiguity and emphasizes adaptability in decision-making
+communicate that framing to the organization. Sometimes they have
 
-—is a good way to manage the changeable nature of unexpected
+to address the fact that the organization may be tempted to overreact to
 
-events. Instead of pursuing a ﬁxed trajectory, leaders embrace multiple,
+a siren song or underreact to a whisper warning and must explain why
 
-even competing, interpretations and solutions. Like great chess players
+an issue may be larger or smaller than people initially realize.
 
-they imagine diﬀerent scenarios and do their best to maintain several
+Responding. A leader’s actions in responding to any issue might seem
 
-strategic options for as long as possible. The core principle of robust
+routine because coming up with a plan, delegating responsibility, and
 
-action is that in an unpredictable world, overcommitment to a single
+overseeing execution is what a leader does daily. However, one key to
+
+dealing with unfolding events is recognizing that by deﬁnition they are
+
+evolving and require an adaptive response. They don’t lend themselves
+
+to static six-week plans. Often a leader may ask for quick daily updates
+
+to ensure that the response crafted yesterday still makes sense today
+
+and that the initial categorization of an issue still ﬁts. An incident that
+
+at ﬁrst presents as a whisper warning may eventually become normal

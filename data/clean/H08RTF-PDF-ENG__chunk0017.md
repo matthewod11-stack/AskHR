@@ -1,15 +1,29 @@
-# HBR / Digital Article / HBR’s Best Practices for Supporting Employee Mental Health
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef22cd245fc44fc7c01c2b4f3923b9a7a4fb6481
+title: H08RTF-PDF-ENG
+---
+# Look to Your Own Leadership Behaviors
 
-And while many conversations about mental health have moved out of
+As a leader, your day-to-day behaviors can inadvertently cause your
 
-the shadows and into the open over the past few years, both stigma and
+employees undue stress and anxiety. Tomas Chamorro-Premuzic put
 
-concerns about repercussions persist. As a leader, you have inﬂuence,
+together a list of ﬁve common behaviors to watch out for. For example,
 
-and discussing your own mental health can make your employees
+are you adding unnecessary complexity by making employees guess at
 
-feel more comfortable discussing theirs. As Kelly Greenwood, founder
+what you’ll do next? Are you telegraphing pessimism, leading them to
 
-and former CEO of Mind Share Partners, puts it, telling your own
+assume a situation is worse than it is? Being more aware of how your
 
-story “reduces stigma and normalizes the ups and downs of being
+actions aﬀect your employees can help you “bring out the best in people
+
+even in the worst of times,” according to Chamorro-Premuzic.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

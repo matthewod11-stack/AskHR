@@ -1,5 +1,9 @@
-## Baltimore: Johns Hopkins University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4b61ee010f621d09bcdb5c5c925595c334da2fe5
+title: untitled
+---
+# REFERENCES
 
-Alpers, B. J., & Hughes, J. (1942). Changes in the brain after elec- trically induced convulsions in cats. Archives of Neurology and Psychiatry, 47, 385–398.
-
-333
+Ackerknecht, E. H. (1982). A short history of medicine (Rev. ed.).

@@ -1,23 +1,13 @@
-## HBR / Digital Article / How to Prepare for the Deluge of Year-End Requests
+---
+source_path: H07WWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04d1216de4060689e8166a817ee09a22fdae3062
+title: H07WWT-PDF-ENG
+---
+## meeting on our calendars now for early January.”
 
-By communicating and committing to your own time oﬀ, you’re helping
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-others plan ahead — and you’re serving as a good role model, too.
+3
 
-Even if you’ve done the work to communicate your time oﬀ, others may
-
-try and push your vacation boundaries. For example, a boss or team
-
-member might and ask for “just one more thing,” and you might be
-
-tempted to help out.
-
-Instead, decide in advance how you’ll handle this situation — before
-
-anyone even asks. Being prepared with a simple answer like “That’s
-
-not going to be possible, so let’s talk about other solutions” can help
-
-you hold yourself accountable to the break you need. Besides, it’s great
-
-practice at the art of saying no — a skill we all need in our nonstop world
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

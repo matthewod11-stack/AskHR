@@ -1,7 +1,21 @@
-## of its success to its personalized recommendations—its user base and
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98ba7d4504a0a7df3a3afa1004a34156c084c205
+title: R2406G-PDF-ENG
+---
+# Karen Knorr
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The Spotify app knows what you want to hear. It uses AI to process a
 
-1
+vast array of your engagement data, including the songs, podcasts, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+audiobooks you’ve listened to, when you listened to them, and what led
+
+you to them. Its library is tagged by genre, era, tempo, mood, and a long
+
+list of other characteristics. The tags allow Spotify to collate playlists
+
+based on your listening habits. The app is always learning, constantly
+
+running micro tests with user groups. Spotify attributes a large part

@@ -1,11 +1,15 @@
-## credit for successes, and an appreciation for others’ contributions.
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d97da6df2f16eac3d216864dc9f4654b2031cfa
+title: H081LX-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways Humility Can Undermine Your Leadership
 
-This leadership style is built on self-awareness, respect for others,
+for Sunil, highlighting a complex truth: Humility, while a virtue, can
 
-and a focus on collective over individual success. Research has shown
+sometimes be a double-edged sword in leadership.
 
-that humble leaders foster increased employee engagement, trust, and
+Humble leadership is characterized by a willingness to admit a
 
-collaboration within their team. These leaders are seen as approachable
-
-and open to feedback, which encourages a culture of continuous
+mistake or when you don’t know something, a tendency to share

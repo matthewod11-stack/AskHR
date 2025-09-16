@@ -1,27 +1,17 @@
-# strategic.
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80f9d219f559705a182a6ff544c47714dfcd1d35
+title: H08B1C-PDF-ENG
+---
+# Communicate purpose and context
 
-Instead of: Asking questions without context, providing stakeholders
+Providing context for your inquiries and sharing your learning goals can
 
-the opportunity to wonder about your intentions and react defensively…
+help prevent misinterpretations. Clear, strategic communication is key
 
-Try: Always disclosing your intentions and context. For example, “I’m
+to managing this learning mentality challenge. Before asking questions
 
-asking this to understand how I can align my actions with yours and
+in meetings or discussions, brieﬂy explain your rationale and what you
 
-ensure I consider your point of view.”
-
-Integrate learning with execution Eﬀective leaders tie new skills and knowledge directly to achieving
-
-results. You must balance the pursuit of knowledge with the imperative
-
-of action. By tying what you learn to speciﬁc work your team does, you
-
-add depth to your contributions and instill a sense of conﬁdence in your
-
-ability to deliver results.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hope to achieve. This will position your questions as purposeful and

@@ -1,3 +1,9 @@
-# Please cite as:
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: e0665db2eca741dcd94accb532bf86eedd04f49a
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# 3 University of Amsterdam
 
-Legood, A., van der Werff, L., Lee, A., & Den Hartog, D. (2021). A meta-analysis of the role of trust in the leadership-performance relationship. European Journal of Work and Organizational Psychology, 30(1), 1-22. https://doi.org/10.1080/1359432X.2020.1819241
+- Corresponding author information: Alison Legood, Exeter University Business School, University of Exeter, Exeter, EX4 4SB, UK (a.legood@exeter .ac.uk).

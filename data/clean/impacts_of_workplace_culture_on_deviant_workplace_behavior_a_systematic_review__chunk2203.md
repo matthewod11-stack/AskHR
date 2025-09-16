@@ -1,9 +1,11 @@
-# the mind. McGraw-Hill.
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: 41345c728db8587c90b1e70e76df0d1db022fa3d
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# Bujang et al.
 
-Jehn, K. A. (1995). A multimethod examination of the benefits and detriments of intragroup conflict. Administrative Science Quarterly, 40(2), 256–282. https://doi.org/10.2307/2393638 Kacmar, K. M., & Ferris, G. R. (1991). Perceptions of Organi- zational Politics Scale (POPS): Development and construct validation. Educational and Psychological Measurement, 51(1), 193–205. https://doi.org/10.1177/0013164491511019 Kagaari, J. R. K. (2011). Performance management practices and managed performance: The moderating influence of organisational culture and climate in public universities in Uganda. Measuring Business Excellence, 15(4), 36–49. https://doi.org/10.1108/13683041111184099
+mediator of the relationship between politics perceptions and work outcomes. Journal of Vocational Behavior, 63(3), 438–456. https://doi.org/10.1016/S0001-8791(02)00048-9 Hodson, R., Creighton, S., Jamison, C. S., Rieble, S., & Welsh, S. (1994). Loyalty to whom? Workplace participation and the development of consent. Human Relations, 47(8), 895–909. https://doi.org/10.1177/001872679404700802
 
-Kalemci, R. A., Kalemci-Tuzun, I., & Ozkan-Canbolat, E. (2019). Employee deviant behavior: Role of culture and organizational relevant support. European Journal of Man- agement and Business Economics, 28(2), 126–141. https:// doi.org/10.1108/EJMBE-11-2018-0125/FULL/PDF
-
-Kamaluddin, M. R., Shariff, N. S. M., Othman, A., Ismail, K. H., & Saat, G. A. M. (2016). Associations between low self- control and aggression among Malaysian male prisoners. ASEAN Journal of Psychiatry, 17(1), 79–86.
-
-Kelloway, E. K., Francis, L., Prosser, M., & Cameron, J. E. (2010). Counterproductive work behavior as protest. Human Resource Management Review, 20(1), 18–25. https://doi.org/ 10.1016/J.HRMR.2009.03.014
+Hofstede, G. J. (2005). Cultures and organizations: Software of

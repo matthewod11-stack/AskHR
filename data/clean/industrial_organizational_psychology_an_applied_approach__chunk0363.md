@@ -1,1 +1,23 @@
-# Career Workshop
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 367abd6d7eaa78b1093e7fecc505acb30eff3b55
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Educational Requirements and Types of Programs
+
+Although people with bachelor’s degrees can find employment in the HRM field, having a master’s or doctoral degree certainly increases employment and career opportunities. Obtaining a master’s in I/O psychology takes between one and two years after the completion of a bachelor’s degree. Admission requirements vary greatly from school to school, but an undergraduate grade point average (GPA) of at least . and a score of , on the Graduate Record Exam (GRE)—the graduate school version of the Scholastic Aptitude Test, or SAT, that you took after high school—are not uncommon prerequisites (Nagy, Schrader, & Aamodt, ). Advice for getting into graduate school can be found in the Career Workshop Box.
+
+Types of Graduate Programs Master’s degree programs come in two varieties: those that are part of a Ph.D. program and those that terminate at the master’s degree. Schools with terminal master’s degree programs do not have Ph.D. programs, and a master’s degree is the highest that can be earned at such schools. Schools with doctoral programs offer both master’s degrees and Ph.D.s. Terminal programs are best suited for stu- dents wanting an applied HR position in an organization (although many students in terminal degree programs go on to earn their doctorates at other universities). These programs usually have less stringent entrance requirements and provide more financial aid and individual attention to master’s students than do Ph.D. programs. Doctoral programs, on the other hand, usually have more well-known faculty members and better facilities and research funding. Doctoral programs are best suited for students who eventually want to teach, do research, or consult.
+
+Master’s Programs. Completion of most master’s programs requires about  hours of graduate coursework (Nagy et al., ). Although – hours is considered a full undergraduate semester load, – hours is considered a full graduate load. In addition to coursework, many programs require a student to complete a thesis, which is usually an original research work created and conducted by the student. The thesis is completed in the second year of graduate school.
+
+Most programs also allow the student to complete an internship or practicum with a local organization. These internship requirements vary by program. Depending on the university, students may work  hours per week at an organi- zation during their last semester of graduate school, or do their internships in the summer between their first and second years, or take a semester off to work full time with an organization.
+
+Finally, most programs require a student to pass a comprehensive oral and/or written examination before graduation. These exams usually are taken during the final semester and cover material from all of the courses taken during the graduate program. As you can see, completing a master’s degree program in I/O psychol- ogy is tough, but it can lead to excellent employment and professional benefits. Obtaining a Ph.D. is more difficult than obtaining a master’s, with the typical doctoral program taking five years to complete (Rentsch et al., ). Common entrance requirements are a . GPA and a GRE score of , (Lowe, ).
+
+Doctoral Programs. The first two years of a doctoral program involve taking a wide variety of courses in psychology. In most programs, the student does not concentrate on I/O courses until the third and fourth years. In addition to a thesis, a student working toward a Ph.D. must complete a dissertation. No formal definition distinguishes a thesis from a dissertation, but the major differences are
+
+introduction to i/o psychology
+
+11

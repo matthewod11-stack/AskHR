@@ -1,9 +1,13 @@
-# boss tee it up for you.”)
+---
+source_path: H08N72-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ff7f5705229358ab3a3a1c0cfffb7d9ef382db8
+title: H08N72-PDF-ENG
+---
+# yourself:
 
-- Have they reduced the amount of time they spend with you, or
+- Have they recently changed their behavior toward you?
 
-stopped providing support they previously gave?
+- Are they making backhanded compliments? (For instance,
 
-- Have you seen evidence of competitiveness or “one-upmanship”
-
-(e.g., challenging you publicly in meetings or diminishing your
+“Congratulations on winning that account. Must be nice having the

@@ -1,23 +1,29 @@
-# HBR / Digital Article / To Avoid DEI Backlash, Focus on Changing Systems — Not Peop…
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 079ac8bb5999087fa92415dd1e792d6944250f33
+title: H078QI-PDF-ENG
+---
+## focus groups or interview data, network data, or HR data, with
 
-people engaging in them. Avoid blaming or shaming individuals or
+employee demographic data to identify inequities in speciﬁc aspects of
 
-groups, and actively push back against fears that DEI initiatives will
+the employee experience. Seek to understand not only “what” inequities
 
-do so.
+exist, but also “why” and “how” they exist. Qualitative data can be a
 
-- 3. As change-making efforts begin, appeal to “fairness.”
+useful tool to assist.
 
-“Business case” rhetoric tends to alienate members of marginalized
+- 2. Communicate about initiatives using a systems-focused framing.
 
-groups. “Multiculturalism” rhetoric that focuses largely on supporting
+Make the case that the status quo is inequitable, pointing at the speciﬁc
 
-marginalized groups may alienate members of advantaged groups.
+inequities you have identiﬁed, but maintain that the things to be “ﬁxed”
 
-Instead, focus on “fairness” and stress that DEI eﬀorts both require and
+are speciﬁc systems, policies, processes, and practices, rather than the
 
-will beneﬁt members of all groups.
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-- 4. Clearly lay out expectations for change alongside resources and support. Communicate within the context of every initiative (e.g., building a
+4
 
-more inclusive shared language), the initiative’s goals (fewer incidents
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

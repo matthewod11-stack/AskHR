@@ -1,43 +1,33 @@
-## HBR / Digital Article / When You’re Overloaded—and Delegating Isn’t an Option
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2b0addd7ec8feb012d6d57e2c0400ae869ec695
+title: H08OSN-PDF-ENG
+---
+# simple?
 
-and came up with an impressive list of tools with which to start
+- What agreements could you make with your boss to simplify
 
-experimenting.
+or reduce deliverables and processes? For example, could you tell
 
-When managers and teams step back to assess if there are tasks on
+your boss that it would be helpful if you could send simpler or fewer communications? Will a rough draft suﬃce instead of a perfect
 
-which they can lower the bar strategically, the answer is almost always
+document to get the information across? Can a decision-making
 
-yes, and encouraging “good enough” work energizes the team.
+process be streamlined?
 
-- 2. Identify and eliminate hidden low-value tasks
+- How can AI support you and your team in reducing time required
 
-We all know it’s important to eliminate low-value tasks, however, in
+for “good enough” work? Ask your team what apps they are starting
 
-working with clients we often see that many low-value tasks have
+to experiment with and encourage them to do more. For example,
 
-become unconscious habits, hidden in plain sight. Even teams that have
+meeting summary apps have gotten really good. First draft writing
 
-worked on streamlining stop too soon and miss opportunities. There are
+apps are also helpful. We brainstormed with colleagues recently
 
-many more hours to be saved if you look deeper.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-In our experience, it consistently takes two rounds of “looking” to get people to identify all of the tasks they could oﬄoad or reduce.
+3
 
-Here is a simple oﬄoading process you can use with your team:
-
-- 1. Ask your team, in advance of an oﬄoading session, to think of all the
-
-tasks that could be eliminated. In the actual session they will often
-
-ﬁrst come up with things that other people can stop doing. That’s ﬁne.
-
-It gets them warmed up.
-
-- 2. Then ask them to go deeper and think about what work they
-
-themselves could stop doing if they had one day less per week to
-
-work? This is when we typically see breakthroughs.
-
-Of course, you need to make sure that eliminating work does not
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,25 @@
-# global talent.
+---
+source_path: H08LL6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c67c85435a0c2f83b36e60ea7197c959b69849b9
+title: H08LL6-PDF-ENG
+---
+## structural alignment and pinpoint areas for improvement.
 
-This article was originally published online on January 27, 2025.
+. . .
 
-Riki Takeuchi is a Dr. Joseph Picken Distinguished Professor in Innovation and Entrepreneurship at Naveen Jindal School of Management. He is an elected fellow of American Psychological Association, Association for Psychological Science, and Society for Industrial and Organizational Psychology. He is a recipient of Early Career Contribution Award from SIOP in 2010. His current research revolves around strategic human resource management/human capital, international/cross-cultural adjustment, and social exchange relationships at work.
+Expatriate success is not solely a function of individual brilliance;
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+it is deeply rooted in the structures that support them. By aligning
 
-8
+decentralization, formalization, and global knowledge integration,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leaders can create an environment where expatriates thrive. This
+
+alignment not only reduces turnover but also drives superior
+
+performance, enabling MNEs to achieve their global objectives.
+
+The call to action for leaders is clear: Shift focus from individual
+
+selection to structural alignment and unlock the full potential of your

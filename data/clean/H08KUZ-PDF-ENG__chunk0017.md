@@ -1,9 +1,15 @@
-## systemic cyber risk and risk aggregation.
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1052efd2dbc77c2e00811f595bf2054762f0c9d
+title: H08KUZ-PDF-ENG
+---
+## comprehensive overall cyber risk management.
 
-- A soft cyber insurance market: Cyber underwriting methods are hard to reconcile due to insuﬃcient historical data, fast evolving threats, and too much subjectivity in making assessments.
+- Cybersecurity decisions are based on disjointed data points: A
 
-- Limited cyber risk transparency across organizations: Supply
+variety of cyber scores, local assessments, and questionnaires with insuﬃcient end-to-end cyber risk perspectives.
 
-chain cyber risk management is a big and growing challenge, and insuﬃcient visibility is impacting cyber risk decisions.
+- Ineﬀective assessments of cyber risk concentration: Limited
 
-- New cyber risk challenges introduced by new emerging
+capabilities to capture cyber dependencies necessary for identifying

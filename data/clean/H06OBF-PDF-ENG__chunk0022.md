@@ -1,13 +1,13 @@
-## performance, either directly (because the corporate KPIs and the
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdd96c4ef0bc040f906b4d3c65db5d6a3473ee7a
+title: H06OBF-PDF-ENG
+---
+## didn’t inquire systematically with maintenance.
 
-vertical’s KPIs don’t perfectly align) or indirectly (by aﬀecting vertical
+- Partial optimization. Managers of vertical A make choices to
 
-B’s performance negatively). For example, at the power company, the
+optimize their vertical’s performance. Unfortunately, it may be the
 
-business development team decided to hire technical staﬀ within its
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+case that their choices are detrimental to the company’s overall

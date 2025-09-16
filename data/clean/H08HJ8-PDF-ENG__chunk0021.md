@@ -1,17 +1,23 @@
-## HBR / Digital Article / When Your Manager Is Ineffective — and You Feel Stuck
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e881bf1eac60dcd717300cecfc585ccfdf62a570
+title: H08HJ8-PDF-ENG
+---
+## you in the relationship and ﬁnd common ground.
 
-I’ve noticed that there are times when we are not on the same page,
+Rather than creating an internal story about the relationship, engage
 
-and I’d like to ﬁnd ways to work better together. Would you be open to
+in discussion about your concerns, how you prefer to work, your
 
-a conversation to ensure we’re meeting each other’s needs?
+motivators, and anything else that contributes to your engagement.
 
-If your manager agrees to the conversation, here are some questions you
+When you control the narrative, you can inﬂuence the outcome.
 
-can start with:
+For example, you could open the conversation with:
 
-- How can we work together?
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-- In what areas are we in agreement?
+5
 
-- What are our individual deal breakers in this relationship?
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

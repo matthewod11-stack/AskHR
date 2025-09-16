@@ -1,3 +1,11 @@
-# 9/10/25, 9:47 AM
+---
+source_path: A Guide to Mentors, Sponsors, and Coaches.md
+pages: n/a-n/a
+chunk_id: f77a1766fe9534d751d87c9c23c0cd967cf2a1d4
+title: A Guide to Mentors, Sponsors, and Coaches
+---
+# Privacy - Terms
 
-What’s even the difference between a mentor, sponsor, and careercoach? Are there best practices for finding one? And should youbecome a mentor yourself?We’ve put together this short guide with advice from our authorsto help you better understand the people that will move youforward in your career.
+https://hbr.org/2024/01/a-guide-to-mentors-sponsors-and-coaches
+
+1/11

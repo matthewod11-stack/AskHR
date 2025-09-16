@@ -1,17 +1,41 @@
-## Communicate enthusiasm to managers and employees. Before
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d187afa3180a15b1cd8647a2c02ebd286b934c52
+title: F2302A-PDF-ENG
+---
+## between our youngest employees and our most-senior ones.
 
-adopting gamiﬁed training, organizations should stress the importance of manager participation. Leaders who visibly play while in the oﬃce
+Is there any risk of abuse?
 
-are more likely to boost employee participation and business results.
+You do need to monitor for that. Each year a small number of employees—
 
-“Prior research on digital gamiﬁed training platforms tells us that they
+about 1 in 10,000—become compulsive users, and for their sake as well as
 
-can be seen as a distraction,” says Tatiana Sandino, a professor at
+the firm’s, we need to intervene.
 
-Harvard Business School and a coauthor of the study. “But if the leader
+Do you have any “cheat codes” for organizations that want to try
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+gamified training?
 
-5
+Collect data on people’s play so that you can improve the user experience.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Don’t make the training only about the firm; think about the why, not just
+
+the what. We’ve modified Globerunner to include content about purpose—
+
+things that relate not just to our service offerings but also to the value
+
+they bring to clients, along with elements to help our people discover their
+
+personal purpose. And don’t be afraid to expand. We have another gamified
+
+training that educates employees about specific clients and prospects. We
+
+often include it in proposals to prospects to demonstrate our commitment
+
+should they sign with us. Twenty years ago it would have been hard to
+
+imagine that a game-like experience could help us win business—but here
+
+we are.

@@ -1,15 +1,13 @@
-# Sports today
+---
+source_path: microsoft_word_5_docx.md
+pages: n/a-n/a
+chunk_id: c86d08347693bcecb0b1c89735a0c875b6f3df90
+title: microsoft_word_5_docx
+---
+# H istory of sports
 
-Demographic growth, progress in transportation and communications, greater social mobility, constant technological innovations, globalization, social change, the increase in free time, both for the individual and for our society in general, have made possible active leisure time in the form of physical activity and sports.
+In primitive times, sports provided a social identity as well as a way to adapt to the environment. The practice of sports formed part of daily life: our ancestors ran in order to escape from bigger animals, fought against their enemies, and swam to get from one place to another by crossing rivers…
 
-According to the World Health Organization (WHO, 2002), the number of persons older than sixty years of age is increasing: worldwide, in Europe, and especially in Spain. In 2025 there will be 1.2 billion persons in the world who are older than 60, of which 840 million will live in developed countries. Europe is one of the countries with more elders. It is possible that by 2050, 37% of the European population will be more than 60 years of age. Because of this aging population, physical activity must become an obligation (Salinas, Cocca, Kamal & Viciana, 2010). This affirmation is supported not only by studies (Martínez & Camps, 2008), but also by Public Administrations (Ramos & Pinto, 2005).
+Sports have been widely investigated throughout history. In primitive times, it was a competition characterized by ethics, values and survival. In today’s society, it is an activity promoted as way of growth, development of healthy habits, entertainment, and leisure (Rodríguez, 2000). Thus, sports reflect a sociocultural and educational phenomenon and are a part of human history since its beginnings. Sports are part of human culture. The simple urge to compete is innate to human beings (García Ferrando, 1982). With the evolution of society, the idiosyncrasies of each village, and the culture of different periods, the term “competition” came into being in the language of sports.
 
-The practice of any physical activity is directly related to well-being, healthy lifestyles, as well as improved health and quality of life (Landi & Onder, 2007; Rebollo & Sanchez, 2008). Marcos & Galiano (2004) bring to light that the benefits that practicing a physical activity contribute to good health and quality of life are more evident among the elderly. The risks entailed in a sedentary lifestyle have been analyzed and clearly demonstrated in numerous epidemiologic studies (Guayar, Santa-Olalla, Banegas, López, & Rodríguez- Artalejo, 2004; Chodzko-Zajko, 2006; Salinas et al., 2010).
-
-58 Journal of Physical Education and Sports Management, Vol. 2(2), December 2015
-
-However, in spite of the increase in the number of older persons practicing a physical activity in recent years, this number is still insufficient (Gonzalo & Pasarin, 2004; García Ferrando, 2006; Martínez del Castillo, 2009). Therefore, at present, a sedentary lifestyle poses a threat to public health (Varo & Martínez-González, 2006). It follows that the practice of a physical activity carried out on a regular basis brings a series of benefits for good health in adults (Serratosa, 2011). On the contrary, sedentary lifestyles are associated with risks which negatively affect an individual’s quality of life (Varo & Martínez-González, 2006).
-
-The relationship between practicing a physical activity or sport and physical and psychological health is a subject much studied by researchers. There are numerous investigations which evaluate the benefits, such as psychological well-being, that physical exercise produce (Jiménez, Martínez, Miró & Sánchez, 2008). However, Fox (2000) affirm that physical activity improves state of mind equally in children, youths, and adults. Regarding reduction in clinical depression, we make mention of Lawlor & Hopker (2001) who report an improvement in mild depression not due to a physiological pathology. In reference to reduction in levels of anxiety, Garnier & Waysfeld (1995) attest that leisure time and physical activity outdoors help to promote lean muscle development and serve as a distraction from mental activity. Holmes (1993) maintains that coping with stress through physical activity produces a sense of satisfaction, improved physical shape, and an enhanced emotional state.
-
-Finally, in relation to research on increased self esteem in individuals who practice a sport, we note the studies of McAuley, Mihalko & Bane (1997), and those of Huertas, López, Pablos, Colado, Pablos-Abella & Campos (2003), as among the most significant.
+Along these lines, Cagigal (1975) indicates that sports are something intrinsic to human nature which has always managed to manifest itself since the beginning of man’s existence. García Ferrando (1990) considers sports as a source of health: physical, mental, as well as social (Lucas-Marín, 1986; Cazorla, 1979).

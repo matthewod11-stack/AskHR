@@ -1,9 +1,31 @@
-# Building a Leadership Team
+---
+source_path: H08UY5-PDF-ENG.md
+pages: 1-1
+chunk_id: ce56bc7775d1156dcfcefc74ac297a6c2f270efc
+title: H08UY5-PDF-ENG
+---
+.
 
-Successful CEOs we’ve worked with don’t follow the usual playbook
+And as you reﬂect, one ﬁnal question is worth asking: Are you showing
 
-when it comes to building their team. They look beyond familiar
+up the way you intended—and would your team say the same?
 
-names and past relationships to identify who they need for what’s
+This article was originally published online on August 5, 2025.
 
-ahead. They’re looking for candidates with strong track records—not
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+# HBR / Digital Article / What New CEOs Should Ask Themselves in Their First 100 Days
+
+Paul Griggs is the senior partner of PwC US, assuming the role in 2024 after being elected by his fellow partners. With more than 30 years of ﬁrm experience, Griggs has advised some of PwC’s largest clients through complex global transformations and previously served as vice chair of U.S. markets, where he led ﬁrm-wide strategy across 90+ oﬃces.
+
+Paul Leinwand is a principal at PwC U.S., a global managing director at Strategy&, and an adjunct professor at Northwestern’s Kellogg School. He is a coauthor, with Mahadeva Matt Mani, of Beyond Digital: How Great Leaders Transform Their Organizations and Shape the Future (HBR Press, 2022).
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

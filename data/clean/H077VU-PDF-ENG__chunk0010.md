@@ -1,29 +1,17 @@
-# team.
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78991b3a8c384129b673fe20a11ddff41b2faf12
+title: H077VU-PDF-ENG
+---
+# to high-performing teams.
 
-In contrast, when employees feel disconnected from their team or
+For starters, employees with close connections at work are more
 
-lonely at work, their performance craters. Their ability to focus
+productive, creative, and collaborative. They also report being more
 
-deteriorates and their willingness to collaborate plummets. Worse, they
+satisﬁed with their job, are less susceptible to burnout, and are less
 
-devote valuable cognitive resources attempting to hide their loneliness
+likely to leave their organization to pursue another role. In other words,
 
-from others, leaving less mental ﬁrepower for completing projects. In
-
-short, they become less capable of doing their jobs.
-
-Now, it’s one thing to logically appreciate the value of close
-
-connections, and another to know what to do about it. After all, what
-
-can a single leader possibly do to get coworkers to bond?
-
-The short answer is plenty.
-
-Research suggests that workplace friendships don’t just happen by
-
-chance. They blossom under certain conditions, many of which leaders
-
-can strategically engineer, even in a remote or hybrid environment.
-
-Here are three evidence-based strategies that leaders can use to leverage
+not only are they better contributors, they provide more stability to a

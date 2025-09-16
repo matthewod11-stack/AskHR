@@ -1,5 +1,9 @@
-## recommendations from friends or family over advertisements from
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13e448eaa583f826f907b5572c79a57be170c92b
+title: H08IKZ-PDF-ENG
+---
+## expertise, and potential incentives or biases of information providers.
 
-manufacturers. In business, assessing the incentives and credibility
-
-of diﬀerent data sources ensures that decisions are based on reliable
+For example, in the car-buying process, a buyer might trust

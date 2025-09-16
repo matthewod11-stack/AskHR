@@ -1,17 +1,51 @@
-# experiments or field analyses.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: ef6ea34e1620c539ffa5ec1c4fc2cbc956e80507
+title: beo_chap7_1
+---
+# dw(de;
 
-One kind of sensitivity to organizational procedures involves control, In a standard
+When workers solve for optimal effort, extra utility from an “earned-income bonus”
 
-extension of the simple agency model above, firms observe a variable, 7;, which is
+is like an increase in performance-based pay (a bonus return to effort), except that
 
-correlated with the unobserved luck component 6;. The usual presumption is that
+the incentive is entirely internal. How such a “pride bonus” interacts with sorting
 
-effort e; can be controlled by worker i but the error-correlate filtering variable y;
+and with optimal wage and promotion policies is an interesting open question.
 
-cannot. Optimal contracting tells us that if workers dislike variance in wages more
+A broader point is that the process by which wages and other organizational out-
 
-than firms do, the firms should use what they observe (j;) to filter some of the
+comes are determined (particularly terminations) may affect how people value the
 
-variance in 6; and reduce the risk imposed on the worker. Workers will not mind
+consequences, In organizational studies this phenomenon is Called “procedural jus-
 
-241
+tice,” and it is argued that itis important empirically (Brockner and Wiesenfeld 1996;
+
+Tyler 2001). One component of procedural justice is the desire to have a voice or
+
+participate in important decisions that affect you. Another component is consistency
+
+of procedures. People dislike not knowing the rules that are being applied to judge
+
+them. The taste for clear rules motivates bright-line rules like seniority-based firing
+
+policies, and many policies in employment law. Of course, a taste for procedural jus-
+
+tice is often hard to distinguish from standard preferences. For example, the desire
+
+to “have a voice” could just reflect the attempt to achieve individually favorable
+
+rules. Clear rules may simply help workers to optimize their effort allocation and
+
+reduce influence costs. Moreover, we may worry that procedural concerns, even if
+
+we could identify them, are second-order compared with wages. For example, while
+
+people may complain that a coworker was unfairly fired, will they actually quit their
+
+own job in protest, or accept a wage cut to get the coworker reinstated? Experiments
+
+suggest they might. But we would need more empirical research, tied to economic
+
+models, to calibrate the taste for procedural justice by pitting it against money in

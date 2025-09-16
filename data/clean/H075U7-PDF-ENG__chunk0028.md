@@ -1,9 +1,13 @@
-# RN
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b82e5f0faf298d3fbf19dd512810db55b876ed4
+title: H075U7-PDF-ENG
+---
+## HBR / Digital Article / Stop Protecting “Good Guys”
 
-Robin Naples, MD, is a Professor of Emergency Medicine at Thomas Jeﬀerson University Hospital. She serves as the program director for the Emergency Medicine Residency.
+Resa E. Lewiss, MD, is a Professor of Emergency Medicine and Radiology at Thomas Jeﬀerson University Hospital. She serves on the Executive Committee of the Women’s Leadership Council of Brown University. She is the creator and host of the Visible Voices podcast, which ampliﬁes voices and perspectives on health care, equity, and current trends. Find her on Twitter @ResaELewiss.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+W. Brad Johnson is a professor of psychology in the Department of Leadership, Ethics, and Law at the United States Naval Academy and a faculty associate in the Graduate School of Education at Johns Hopkins University. He is the coauthor of Good Guys: How Men Can Be Better Allies for Women in the Workplace, Athena Rising: How and Why Men Should Mentor Women, The Elements of Mentoring, and other books on mentorship.
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+David G. Smith is an associate professor in the Johns Hopkins Carey Business School. He is the coauthor, with W. Brad Johnson, of Good Guys: How Men Can Be Better Allies for Women in the Workplace and Athena Rising: How and Why Men Should Mentor Women.

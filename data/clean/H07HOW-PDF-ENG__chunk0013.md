@@ -1,15 +1,7 @@
-# Make time for career maintenance.
-
-Regularly updating your resume and LinkedIn proﬁle is good
-
-career hygiene, enabling you to capture your contributions and
-
-accomplishments while they’re still fresh. Use every reorg as a prompt
-
-to undertake this career upkeep.
-
-It’s also an opportunity to reﬂect on your overall feelings about your current role. A reorg can oﬀer a valuable inﬂection point, even if you
-
-didn’t realize you were ready for one; perhaps you can let it be your
-
-impetus to explore more energizing possibilities, either internally or
+---
+source_path: H07HOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf7779150797a8a61c20932dba3f88bf5009ba29
+title: H07HOW-PDF-ENG
+---
+# on your back foot.

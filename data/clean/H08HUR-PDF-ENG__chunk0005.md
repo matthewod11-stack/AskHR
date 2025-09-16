@@ -1,15 +1,41 @@
-# Signs of a Toxic Boss
+---
+source_path: H08HUR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d479e1704752c3cded668c81a6184255adc96b35
+title: H08HUR-PDF-ENG
+---
+## HBR / Digital Article / 10 Signs of a Toxic Boss — and How to Protect Yourself
 
-While some bosses can be annoying, dismissive, or frustrating at times,
+Sarah’s hands trembled as she gathered her papers. This was not the
 
-it doesn’t mean they’re toxic. So, what should you watch out for? Here
+ﬁrst time her boss had humiliated her. The room sat in uncomfortable
 
-are 10 toxic boss traits:
+silence, everyone averting their eyes — they’d all been in her position
 
-- 1. They lack self-awareness.
+before. They knew what she was going through.
 
-Toxic bosses lack the ability to recognize and control their emotions.
+Later that day, Tom took credit for Sarah’s idea in an email to the
 
-They tend to think that they are right about everything. This inhibits
+leadership team, changing just enough details to make it his own. There
 
-their ability to create resonance with teams and generates resistance to
+wasn’t anything Sarah could do to prove it was her idea, and the others
+
+were afraid to stand up for her because they didn’t want to risk losing
+
+their jobs in what was already a tough market.
+
+This is the lived experience for many employees with toxic bosses.
+
+What should you do if your boss’s behavior is bringing everyone down
+
+and aﬀecting your wellbeing? When should you consider quitting? And
+
+is there anything you can do in the meantime to actually cope with the
+
+amount of stress a toxic boss can bring?
+
+In my decade of experience as a workplace culture consultant, I’ve seen
+
+just how damaging a toxic boss can be. Here are the signs to help you
+
+assess whether your boss is toxic — and what to do if you’re ﬁnding yourself in this impossibly diﬃcult situation.

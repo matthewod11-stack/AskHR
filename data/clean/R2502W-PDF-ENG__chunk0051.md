@@ -1,15 +1,15 @@
-# at every level of the company.
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1697614a51b048beec37139d1bc7024db0f51f3
+title: R2502W-PDF-ENG
+---
+## implementation. In addition to the tried-and-true principles of change
 
-However, the imperative that all employees learn AI cannot be
+management, an eﬀective way to drive change in this case is to cultivate
 
-overstated. Moderna’s success in rapidly deploying gen AI across
+a group of employees who are early adopters of AI in select processes
 
-its enterprise was enabled by the creation of an “AI academy”—a
+and empower them to become AI champions within the organization.
 
-mandatory internal course that included 20 hours of training on AI and
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+They can serve as role models and peer mentors, accelerating adoption

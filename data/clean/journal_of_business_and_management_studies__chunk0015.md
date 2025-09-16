@@ -1,7 +1,9 @@
-# 4.4 Decision Tree Algorithm
+---
+source_path: journal_of_business_and_management_studies.md
+pages: n/a-n/a
+chunk_id: 193e12d695c7597248a0c6cb822868b1216d520b
+title: journal_of_business_and_management_studies
+---
+# 4.3 Ada-Boost Algorithm
 
-Decision Trees are prominent classifier models due to their simplicity in implementation and interpretation. The model develops a tree architecture from the training dataset, where every leaf node stands for a feature, and the branches represent the respective feature values (Hasan et al. 2024). This hierarchical portrayal enables straightforward visualization and representation of the decision-making process within the algorithm.
-
-4.5 Importing Libraries Initially, the analyst loaded the Human Resource Employee Attrition dataset into Jupyter Notebook which is an IDE of Python on which the analyst performed all the analysis, the figure below displays the loading of the dataset and dataset attributes.
-
-Page | 51
+Hasan et al. (2024), indicate that the AdaBoost algorithm is a classifier that integrates weak classifier models to establish a solid classifier. Independently, a single model may result in poor classification performance. Nevertheless, by incorporating multiple classifiers and cautiously choosing the training set at every experiment, along with strategically designating weights during the last voting process, it becomes possible to attain a high-level accuracy score for the final classifier. This classifier employs the collaborative strength of multiple classifiers to elevate the effectiveness and accuracy of the classification process.

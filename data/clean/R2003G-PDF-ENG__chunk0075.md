@@ -1,11 +1,9 @@
-# both leader and subordinate.
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7edff0c20c13fc1229fe8a1220aa592162c03701
+title: R2003G-PDF-ENG
+---
+## HBR / Magazine Article / The Case for a Chief of Staff
 
-Everyone requires help to achieve his or her highest potential and to
-
-sustain the eﬀort it takes to lead a complex organization. The right chief
-
-of staﬀ can be an important source of assistance to leaders who are
-
-pushing their organizations and themselves to ever better performance.
-
-A version of this article appeared in the May–June 2020 issue of Harvard Business Review.
+relationship that results will improve performance and satisfaction for

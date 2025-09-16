@@ -1,35 +1,19 @@
-## HBR / Digital Article / How Costly Is a Resume Gap for Executives?
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ffefb3f518aa412ac952273ccea54fe28a1c5b5
+title: H08OET-PDF-ENG
+---
+## start of the year, companies like Amazon, BlackRock, and Citigroup
 
-In September alone, nearly half a million such jobs were eliminated,
+announced white-collar job reduction eﬀorts. In the fall, the Bureau of
 
-the highest number for such positions in two years. Tech, media,
+Labor Statistics reported one in four American workers who lost their
 
-consulting, and ﬁnance jobs are drying up at alarming rates.
+jobs last year came from the business and professional services sector.
 
-As expected, full-time MBA applications soared last year, indicating that
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-young professionals saw fewer work opportunities, making the option of
+1
 
-taking some time to invest in learning more attractive. But even among
-
-the top MBA programs, recent job placements are dropping.
-
-Of course, not everyone has the option to consider going back to school.
-
-More and more are looking for jobs, and it is taking longer to ﬁnd them.
-
-In February, the Department of Labor reported that more than 7 million
-
-people were looking for work, up 19% from the same time in 2023, and
-
-1.5 million have been looking for work for more than six months. Now,
-
-it takes more than ﬁve months to ﬁnd another job, half a month longer
-
-than it did in 2023. Not surprisingly, the impact of this tightening job
-
-market falls on white-collar workers, the same group that witnessed a
-
-surge in hiring just two years before.
-
-The looming prospect or current predicament of being between jobs
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

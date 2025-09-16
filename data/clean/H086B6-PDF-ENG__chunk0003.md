@@ -1,21 +1,25 @@
-## HBR / Digital Article / When Your Colleagues Have an Outdated Perception of You
+---
+source_path: H086B6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ba29237cd989f75e09e9b770e509b66dc836b91
+title: H086B6-PDF-ENG
+---
+# Johner Images/Getty Images
 
-Instead, the CEO announced an external search, stating that there were
+Ten years ago, Tasha* was the seventh employee at her medical
 
-no qualiﬁed internal candidates. Tasha was hurt and angry, recognizing
+software startup, hired as an administrative assistant to the chief sales
 
-a harsh reality she’d long suspected: “I’m seen as I was, not as I am.”
+oﬃcer. Today, she’s grown to manage a team of eight sales people
 
-If you’re a reliable, long-term employee like Tasha who still wants to
+collectively responsible for $22 million in revenue. When the chief
 
-grow in your career but is feeling trapped by old perceptions, you’re
+sales oﬃcer announced his retirement recently, Tasha expected to be
 
-not alone. As executive coaches, we’ve worked with many professionals
+considered for the role.
 
-who’ve accelerated their contributions over time, but who continue to
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-be seen through the lens of their past.
+1
 
-In this article, we’ll share why this can happen and more importantly,
-
-what you can do about it if that employee is you.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

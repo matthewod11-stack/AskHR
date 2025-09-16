@@ -1,7 +1,11 @@
-## unidentiﬁable photos from the past archive.
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d85fa15e2ed96bbe6c682864856b26bd025a68a
+title: H07DLJ-PDF-ENG
+---
+# life.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+ADI IGNATIUS:
 
-17
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+I assume facial recognition technology can now help identify previously

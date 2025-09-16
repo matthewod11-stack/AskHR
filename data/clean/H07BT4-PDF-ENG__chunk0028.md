@@ -1,7 +1,11 @@
-# investment over time.
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a127f34a79dfdb62a3fc6e869d3d44c83d870463
+title: H07BT4-PDF-ENG
+---
+## time horizon, risk, and impact (on both the seller experience and the
 
-Maximize seller buy-in by being transparent.
+customer experience). The ﬁnal project mix was selected based on
 
-Lever’s next step was to begin developing shared project dashboards
-
-to document rationale for which drag-reduction eﬀorts to prioritize
+urgency, visibility, and resource intensity to achieve optimal return on

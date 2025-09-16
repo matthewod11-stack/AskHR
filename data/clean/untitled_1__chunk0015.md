@@ -1,5 +1,15 @@
-# Goal-Setting Theory
+---
+source_path: untitled_1.md
+pages: n/a-n/a
+chunk_id: 3467e76409bc1f20b302cb61309a8c9c9c8d1a33
+title: untitled_1
+---
+# DIRECTIONS FOR FUTURE RESEARCH
 
-and can be applied in numerous other settings. The success of goal setting depends upon taking account of the mediators and moderators that determine its efﬁcacy and applicability.
+Goals and Subconscious Priming To regulate behavior during goal-directed action, a consciously held goal does not have to be in focal awareness every second.
 
-Because goal setting is an open theory, there is no limit to the numberofdiscoveriesthatcanbemadeortotheintegrationsthat might be made between goal theory and other theories. Future research could include studies of the effects of different types of learning goals and ways of combining them with performance goals (e.g., learning goals ﬁrst, then performance goals), differ- enttypesofgoalframing(approachsuccessvs.avoidfailure),the relation between goals and cognition (which, by implication, entails all of cognitive psychology), goal hierarchies, and macro goal studies withorganizations of different sizes. More studies of the relationship between conscious and subconscious goals would also be of interest.
+Goal setting can be used effectively on any domain in which an individual or group has some control over the outcomes. It has beenappliednotonlytoworktasksbuttosportsandrehabilitation
+
+Volume 15—Number 5
+
+267

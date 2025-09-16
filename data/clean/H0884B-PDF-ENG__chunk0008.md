@@ -1,7 +1,25 @@
-# response.
+---
+source_path: H0884B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c2279fd2f56b1d970b958796e0798ebbef8e155
+title: H0884B-PDF-ENG
+---
+# back to me tomorrow.”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Ask them to respond over email.
 
-3
+Email isn’t a perfect medium, but it does have its advantages. One of the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+advantages is that it allows you to write and rewrite a potential refusal as
+
+many times as you would like until you feel satisﬁed with your response.
+
+Whether truly necessary or not, some people feel the need to say very
+
+speciﬁc things to make themselves feel comfortable enough to say no.
+
+Email allows for that. An obvious way to allow someone to respond to
+
+a request via email is to ask via email. But even if you want to make
+
+your case in-person, you can still tell the other person to email you their

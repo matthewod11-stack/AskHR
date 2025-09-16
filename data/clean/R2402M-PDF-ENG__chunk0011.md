@@ -1,9 +1,23 @@
-# industries in Brazil.
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25b04d19960cfcf7b360e978872b4f8452b58ae8
+title: R2402M-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: Navigating Labor Unrest
 
-However, he also felt some responsibility for the poor relationship.
+His recent encounters with Lucia Mendez, the sector leader at AAB,
 
-When the plant ﬁrst opened, Luna Motors had ramped up operations
+hadn’t been promising. Paulo had made signiﬁcant overtures—better
 
-too quickly, focused too much on technical prowess over leadership
+overtime pay, more days of leave for junior hires, even subsidized
 
-and communication skills in hiring and promotions, and failed to
+transportation to help workers get to the plant—but each time Lucia had
+
+responded with a ﬁrm “Not enough.” Paulo respected her toughness,
+
+but he wished the union would stop seeing the negotiation as a zero-
+
+sum game and adopt the more collaborative, progressive approach
+
+that he’d seen work wonders in Germany and Japan and even other

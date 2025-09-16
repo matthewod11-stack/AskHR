@@ -1,37 +1,23 @@
-## HBR / Spotlight Article / Teamwork at the Top
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a470c84cf89283d16c6433ea425f73f595dfc8e
+title: S24053-PDF-ENG
+---
+## constructive debate throughout the process.
 
-Not surprisingly, our research shows that the top teams of many of the
+The strategy worked. “Our team lived and breathed these behaviors
 
-companies that thrived during Covid exhibited high levels of drive.
+for six months,” the company’s general counsel told us—and the SEC
 
-Dynamism. Dynamic teams treat change as constant and positive. They
+ultimately cleared the company of any violations. In the process, the
 
-actively scout information from outside and inside their organization so that they can take advantage of opportunities and head oﬀ challenges.
+team developed an enduring mindset and behaviors that have since allowed it to surmount other obstacles and to diﬀerentiate between
 
-They have a bias for action and respond with speed and ﬂexibility
+problems that can be solved and those that can be only mitigated.
 
-to new scenarios, modifying plans and executing accordingly. They
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-invest in resources to accelerate innovation and protect initiatives from
+7
 
-anything that might undermine them. They set compensation and
-
-incentives to support risk-taking and don’t penalize for failure.
-
-In business, as in life, allowing for the possibility of failure is important
-
-because it’s a prime source for learning and positive change. But top
-
-teams typically avoid practicing this behavior. In the high-stakes world
-
-they work in, failure can be a terrifying prospect, but aversion to risk undercuts dynamism and means that leaders can’t respond eﬀectively
-
-to change.
-
-A better approach is for top teams to publicly recognize the
-
-opportunities for learning that failure provides. That’s what happened
-
-at a major pharmaceuticals company we worked with. The team
-
-that leads the ﬁrm’s center of excellence for talent—which serves a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

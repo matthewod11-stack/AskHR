@@ -1,5 +1,7 @@
-# Abstract
-
-Behavioral economics uses evidence from psychology and other disciplines to create models of limits on rationality, willpower and self-interest, and explore their implications in economic aggregates. This paper reviews the basic themes of behavioral economics: Sensitivity of revealed preferences to descriptions of goods and procedures; generalizations of models of choice over risk, ambiguity, and time; fairness and reciprocity; non-Bayesian judgment; and stochastic equilibrium and learning. A central issue is what happens in equilibrium when agents are imperfect but heterogeneous; sometimes firms “repair” limits through sorting, but profit- maximizing firms can also exploit limits of consumers. Frontiers of research are careful formal theorizing about psychology and studies with field data. Neuroeconomics extends the psychological data use to inform theorizing to include details of neural circuitry. It is likely to support rational choice theory in some cases, to buttress behavioral economics in some cases, and to suggest different constructs as well.
-
-January 18, 2006. This paper was prepared for the World Congress of the Econometric Society, 2005, London 18-24 August 2005. Thanks to audience members and Ariel Rubinstein for comments, and to Joseph Wang for editorial help.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 56dceb9d403f4e9b1bcbed4b2f02fd3993952277
+title: behavioral_economics_1
+---
+## Div HSS 228-77 Caltech Pasadena CA 91125 USA camerer@hss.caltech.edu

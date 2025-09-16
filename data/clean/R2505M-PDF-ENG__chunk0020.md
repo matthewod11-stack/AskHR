@@ -1,11 +1,11 @@
-# everything around it.
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f621b25f809cd1984a9a202c05bc44b63bc2c0f
+title: R2505M-PDF-ENG
+---
+## HBR / Magazine Article / Why You Need Systems Thinking Now
 
-Design thinking has a track record of success, but it too has signiﬁcant
+improve their experience. Rather than slicing through the Gordian knot,
 
-downsides as the obsessive focus on the user creates knock-on problems
-
-for other parties. For example, Airbnb solved a problem for homeowners
-
-and vacationers, but it created a host of problems for local communities.
-
-The third approach, systems thinking, emerged from the pioneering
+design thinkers focus on one strand in the knot (the user) and ignore

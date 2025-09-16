@@ -1,15 +1,25 @@
-## HBR / Digital Article / The Risks of Collecting Employees’ Biometric Data
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f014b16509f27bc825dc281387450e4eb804437f
+title: H08QRZ-PDF-ENG
+---
+# Flavio Coelho/Getty Images
 
-go as far as collecting health data, incentivized by the desire to improve
+Companies can now accrue stunning amounts of intimate data about
 
-the overall health of the workforce or get discounts on premiums
+their employees’ bodies. Some might collect biometric data such as
 
-from health insurers. The technology that facilitates this collection has
+ﬁngerprints and retina scans as part of eﬀorts to improve security.
 
-gotten both better and cheaper in recent years. Wearables and mobile
+Others, such as Amazon, track and analyze workers’ movements
 
-devices can count steps, measure heart rates, and provide statistics on
+with artiﬁcial intelligence (AI)–embedded surveillance technologies to
 
-sleeping habits. Through “behavioral biometrics,” cameras can identify
+promote safety and productivity in warehouses. Companies might even
 
-people based on their gait and posture, for instance, and analyze their
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

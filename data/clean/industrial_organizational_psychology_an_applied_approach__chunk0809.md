@@ -1,41 +1,7 @@
-# l l i J ©
-
-work directly with representa- tives from human resources departments to offer advice in such areas as establishing company policies, determin- ing appropriate employee discipline, and developing employee training. I enjoy the diversified nature of labor and employment law and the day-to-day involvement in my clients’ operations.
-
-As a labor and employment attorney, I perform many of the tasks people usually think of when they think of lawyers. For example, upon receipt of a new case file involving a harass- ment or discrimination lawsuit, I first interview the company’s human resources director to get an overall idea of what has happened to instigate the lawsuit. It is imperative that I understand all of the facts involved in the case, so I next conduct witness interviews in an effort to fully comprehend the situation.
-
-After I thoroughly under- stand what has taken place, it then becomes my job to apply relevant labor and employ- ment laws accordingly and present the circumstances of the case in the best possible light for my client. Admit- tedly, there are times when clients have not conducted themselves in a manner that
-
-will allow for the summary dismissal of a case, and the clients are advised to settle the claims. The settlements of claims are also a simple func- tion of the cost of pursuing the defense of a lawsuit, i.e., it is cheaper to pay a little to get out of the situation and get back to the business of the cli- ent. Such settlements require negotiation on the part of the clients and attorneys involved. Fortunately, these situations are not common, especially when I have been working on an ongoing basis with the company’s human resources director or participating in employee training in an effort to minimize the types of issues that can turn into lawsuits. An aspect of my profes- sion that I particularly enjoy is training my clients’ employ- ees. Being in front of a group requires good communication skills and the ability to under- stand the audience in order to give the trainees what they need. My particular training style works best when I have a lot of feedback and audi- ence participation. Clients request training in all areas of employment, including per- formance evaluations, disci- pline and discharge, diversity, and workplace violence, to name a few. Once again, I
-
-assess with my clients exactly what they are seeking from the training. Next, I meticu- lously research a myriad of labor and employment laws and current events that could conceivably apply to the train- ing. Finally, I develop written materials so that the trainees, who may include front-line supervisors, will have some- thing to take with them to use as a reference when the train- ing is over.
-
-In addition to training our corporate clients, I am frequently asked to speak to groups, including schools, churches, and nonprofit orga- nizations, on various topics. The firm supports and encourages community involvement, and it allows me the opportunity to become actively involved not only in my work, but in my community as well.
-
-The part of my chosen profession that makes it all worthwhile to me is that it allows a great deal of interac- tion with a diverse group of people. My advice to students is to get to know your clients well to understand how they work and the working environ- ment from which they come. The better you understand your clients and their organizations, the better the advice you will be able to provide.
-
-and retail stores often have difficulty accommodating every prayer request. Fasting requirements can also pose problems. For example, followers of Islam must refrain from food and drink from sunrise to sunup during the -day period of Rama- dan. Though Islamic employees are available to work, their endurance and perfor- mance may be most affected during the later part of the day. Thus, fasting can be
-
-legal issues in employee selection
-
-85
-
-86
-
-chapter 
-
-accommodated by having dangerous, strenuous, or complicated work performed earlier in the day or scheduling Islamic employees for earlier hours (Pearce, ). Though fasts and prayer are the most common worship practices that need accommodation, they are certainly not the only ones. For example, because Jehovah’s Witnesses cannot celebrate birthdays or nonreligious holidays, their lack of participation in an office birthday party or celebration is often viewed by uninformed coworkers as an “attitude problem.” The traditional office Christmas party in which Christmas decorations are hung, a tree is decorated, inexpensive presents are exchanged among employees, and alcohol and food are served pro- vides a great example of potential religious diversity issues. Would such a party offend people who don’t celebrate Christmas? Are there employees whose reli- gion would prohibit them from attending the party? Is the food served consis- tent with the dietary restrictions of groups such as Muslims, Hindus, Buddhists, and Jews?
-
-Religious Attire. Because many religions require their members to wear certain attire, potential conflicts can occur when an organization wants employees to have a uniform appearance, either to promote a company image or to keep customers happy. Because of this desire for employees to look alike, several complaints of religious discrimination regarding religious attire have been made by Sikhs, members of a Hindu religious sect. Sikh males are required to wear turbans—head apparel that often conflicts with required job uniforms— and many Sikhs wear a religious bracelet on their right wrists. The courts have also supported face-piercing for members of the Church of Body Modification (Cloutier v. Costco Wholesale, ). As long as such attire is not a danger to the employee or others (for example, a bracelet getting caught in a piece of machinery or a turban preventing the wearing of a safety helmet), it should be allowed.
-
-Age The Age Discrimination in Employment Act (ADEA) and its later amendments forbid an employer or union from discriminating against an individual over the age of . In part, this act was designed to protect older workers from employ- ment practices aimed at reducing costs by firing older workers with higher sal- aries and replacing them with lower-paid younger workers. Such legislation is important because, despite evidence to the contrary, people often view older workers as being less competent and less economically worthwhile than younger workers (Finkelstein, Burke, & Raju, ; Letvak, ). To file suit under this act, an individual must demonstrate that he or she is in the specified age bracket, has been discharged or demoted, was performing the job adequately at the time of discharge or demotion, and has been replaced by a younger worker; even if the younger worker is older than  (O’Connor v. Consolidated Coin Caterers, ). Though mandatory retirement ages are allowed in certain circumstances (e.g.,  years for college professors), they are usually illegal because, as research indi- cates, in general, work performance does not decline with age.
-
-Age discrimination is also a factor in countries outside the United States. As shown in Table ., many countries have age discrimination laws. In the Euro- pean Union, practices that have an adverse impact on older workers may be ille- gal. For example, the common practice of hiring younger workers by recruiting at colleges and universities (these are called “milk runs” in the UK) may no longer be allowed (Gomm, ).
-
-Accommodations, such as providing Braille versions of tests, are sometimes necessary.
-
-Disability Discrimination against people with disabilities by the federal government is for- bidden by the Vocational Rehabilitation Act of , and discrimination against the disabled by any other employer with  or more employees is forbidden by the Americans with Disabilities Act (ADA).
-
-The ADA, signed into law by President George H. W. Bush in , is the most important piece of employment legislation since the  Civil Rights Act. An amendment to the ADA, the ADA Amendments Act (ADAAA) was signed into law by President George W. Bush in . The ADA requires organizations with  or more employees to make “reasonable accommodation for the physi- cally and mentally disabled, unless to do so would impose an undue hardship.” Though Congress did not provide a list of disabilities, it did define disability as
-
-. A physical or mental impairment that substantially limits one or more
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 295821339ecf7adc032045027cde60ecdf246c2e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# y e m o o M

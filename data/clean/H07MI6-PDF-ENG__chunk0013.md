@@ -1,27 +1,15 @@
-# transformations).
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e886d22694a689c4f0a4eae925af26416f91185
+title: H07MI6-PDF-ENG
+---
+# HBR / Digital Article / 6 Key Levers of a Successful Organizational Transformation
 
-Transformations are extremely diﬃcult on a personal level for everyone
+journey. Fifty-two percent of respondents involved in successful
 
-involved. In the successes we studied, leaders not only made sure their
+transformations said their organization provided the emotional support
 
-teams had the processes, resources, and technology they needed —
+they needed during the transformation process “to a signiﬁcant extent”
 
-they also built the right emotional conditions. These leaders oﬀered
-
-a compelling rationale driving the transformation, and they ensured
-
-employees had the emotional support they needed to execute. This
-
-meant that when the going inevitably got tough, employees felt
-
-appropriately challenged and ultimately energized by the stress.
-
-By contrast, leaders of the unsuccessful transformations didn’t make
-
-the same emotional investment. When their teams hit the inevitable
-
-challenges, negative emotions spiked, and the team entered a
-
-downward spiral. Leaders lost faith and looked to distance themselves
-
-from the project, which led employees to do the same.
+(as opposed to 27% of respondents who were involved in unsuccessful

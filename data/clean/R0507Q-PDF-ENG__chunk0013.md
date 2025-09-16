@@ -1,7 +1,13 @@
-# critical.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6793f2d6f0a0601c07ad941ec3cd488af76a3b2e
+title: R0507Q-PDF-ENG
+---
+## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
 
-Several companies have already adopted the balanced scorecard. Their
+suggestion. One manager described the proliferation of new measures at
 
-early experiences using the scorecard have demonstrated that it meets
+his company as its “kill another tree program.” The balanced scorecard
 
-several managerial needs. First, the scorecard brings together, in a
+forces managers to focus on the handful of measures that are most

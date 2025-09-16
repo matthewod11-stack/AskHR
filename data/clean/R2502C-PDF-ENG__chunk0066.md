@@ -1,9 +1,7 @@
-# expenses.
-
-Turning operational eﬀectiveness, culture, and loyalty into competitive
-
-advantages requires an operating model that strengthens a company’s
-
-capabilities and continually adapts to changing conditions.
-
-- 7. The operating model. An operating model comprises the
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9dbd6b9e3e7f9c3d0f032a8bdeea5eae7620e473
+title: R2502C-PDF-ENG
+---
+## views and treats people as partners and valuable assets rather than

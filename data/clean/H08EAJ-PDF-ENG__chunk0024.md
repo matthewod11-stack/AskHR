@@ -1,35 +1,15 @@
-# its members.
+---
+source_path: H08EAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a19fbdc3eb246b917efdbfe4cc23d3e9fa707d2e
+title: H08EAJ-PDF-ENG
+---
+# HBR / Digital Article / How to Compassionately Manage an Employee with a Terminal I…
 
-Listen actively. To support your team members, our research indicates
+You might say, “While [colleague] is facing serious health challenges, we
 
-that it’s essential to oﬀer speciﬁc times and spaces for them team
+are committed to supporting them in every way possible. It’s important
 
-to express their feelings and process the situation. Facilitated group
+that we remain strong and united during this time.” This fosters a sense
 
-discussions, counseling sessions, or informal gatherings can make a
-
-signiﬁcant diﬀerence. You can look to HR or your employee assistance
-
-program for resources and guidance on how to do this.
-
-One manager recalled how he held weekly group discussions where
-
-everyone could share their feelings. These sessions provided a
-
-structured yet empathetic environment for employees to voice their
-
-concerns and support each other. Our ﬁndings also showed that the
-
-need for emotional support evolves as the illness progresses, and
-
-managers should remain ﬂexible, adapting the format and frequency
-
-of these discussions based on team needs and feedback.
-
-During these discussions, signal active listening by nodding along, maintaining eye contact, and oﬀering aﬃrmations like “I understand”
-
-or “I hear you.” By being fully present, managers can reinforce
-
-a compassionate and cohesive team dynamic even in the most
-
-challenging situation.
+of security and shows that the organization values the well-being of all

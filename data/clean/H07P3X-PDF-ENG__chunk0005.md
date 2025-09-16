@@ -1,19 +1,25 @@
-# HBR / Digital Article / How to Find the Time to Connect with Colleagues When You’re V…
+---
+source_path: H07P3X-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65ad4e55ed1f7383ee3dfa8ad26e4858acad73ad
+title: H07P3X-PDF-ENG
+---
+# HollenderX2/Getty Images
 
-a transactional manner with your coworkers could cause you to lose
+When you’re feeling behind on tasks and pressed against deadlines,
 
-any sense of personal connection, especially if you work remotely. By
+catching up with and connecting with colleagues is about the last thing
 
-taking even a few minutes each day to foster a sense of rapport at work,
+you feel like doing. You just want to put your head down, check oﬀ tasks
 
-you could unlock the key to a greater sense of purpose and well-being,
+on your to-do list, and get things done.
 
-reduce burnout, and even improve your performance.
+There are absolutely times when you should put on blinders and
 
-So how do you make time for people without feeling more stressed and
+focus solely on your tactical objectives. But exclusively interacting in
 
-overwhelmed? As a time management coach, I’ve seen that with just a
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-little more intention, you can make much more meaningful connections
+1
 
-without investing much time.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

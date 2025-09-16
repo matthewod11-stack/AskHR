@@ -1,27 +1,15 @@
-# people.
+---
+source_path: H06DD3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fccca9d4afb163a39f7a831b7bbabb86f44f68ca
+title: H06DD3-PDF-ENG
+---
+## HBR / Digital Article / Let Your Top Performers Move Around the Company
 
-But should be appealing is the elephant in the room. The main impediment
+even mean having someone transition down so they can eventually
 
-to talent mobility is almost always the manager. Our research found that
+transition up. All of this helps with recruiting and retention. An abundance
 
-half of companies (and 74% of low performers) reported that managers’
+of new career opportunities is a trait that both attracts and retains top
 
-failure to encourage movement was their top obstacle to mobility.
-
-Managers are so careful to hold on to the stars on their teams that they
-
-often play games to keep them. We’ve probably all heard stories about
-
-managers who intentionally keep their top performers in the shadows so
-
-no one discovers them.
-
-It’s hard to blame them for that. In fact, most companies incentivize them
-
-to do that. When managers are having success in metrics the organization
-
-recognizes and rewards — typically pure business metrics — they want to
-
-keep the talent that made them successful. If you’ve ever managed people,
-
-you are likely guilty of this.
+talent in any organization and should be appealing to any manager of

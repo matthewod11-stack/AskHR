@@ -1,9 +1,11 @@
-# several goals:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f529515b627f226d7e9eb6cab875e5b65bbee4b0
+title: untitled
+---
+## Organization Efforts by Asian Americans in Psychology
 
-- Attaining inﬂuence in the American Psychological Asso- ciation. We felt it was necessary to have Asian Ameri- cans on governance structures (e.g., boards, committees, and elected ofﬁces) of APA. We tried to help elect those who were concerned about Asian Americans to APA boards and committees so that APA would have to deal with Asian American issues. Because it was necessary to convince APA that AAPA had a solid constituency, in the early days, we told APA that we had over 300 members, but we did not say that most of the members were not dues paying! Recently, AAPA has been able to celebrate its involvement with APA by noting the prominence of some of its members such as Richard Suinn (past president of APA) and Alice Chang (past board of direc- tors member of APA).
+who was a past president of the Society for the Psychological Study of Social Issues (SPSSI, APA Division 9) and one of the ﬁrst to join AAPA, we approached the Division and asked for, and received, $300 to support the association. We were quite impressed with SPSSI’s willingness to help. Over time, more individuals became involved—Rodger Lum, Pat Okura, Reiko True, and Marion Tinloy. Interestingly, many who helped to start the association were later to become na- tionally prominent for their work with Asian Americans. Derald served as the ﬁrst president and was followed by others such as Robert Chin, Albert Yee, Harry Yamaguchi, Herbert Wong, Kats Sakamoto, David Goh, Andy Chen, Nolan Zane, Chris Hall, Reiko True, and Gayle Iwamasa.
 
-- Publications in journals. Publications are important not only for developing research careers, but also for inform- ing others of Asian American research and issues. Some AAPA members felt that journals were not interested in publishing papers on Asian Americans and did not have qualiﬁed reviewers to evaluate Asian American papers. Therefore,anothergoalwastotrytohaveAsianAmericans scholars named to editorial boards or as reviewers for journals.
-
-- Research grants. We needed money to conduct research. We wanted to have input into funding priorities of funding agencies (such as NIMH and NSF), to encourage grant applications on Asian Americans, and to have some of our members serve on research review groups for the agencies. Research on ethnics was largely directed to African Americans and Latino Americans. We felt left out. While AAPA made it clear that funding for all ethnic groups should be increased, we were particularly concerned about the situation with Asian Americans.
-
-491
+Organizers of AAPA felt that it was critical to achieve

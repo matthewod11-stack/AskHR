@@ -1,21 +1,31 @@
-## wasn’t in line with the strategic focus of the business. The question
+---
+source_path: H08TKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a04c9908a32a6aaed5149e4277840c780da8ef3f
+title: H08TKB-PDF-ENG
+---
+# HBR / Digital Article / Planning an Offsite for Your Leadership Team? Ask These 5 Que…
 
-of how her team allocates internal resources was paramount. In a speciﬁcally focused oﬄoading session at the beginning of the
+a set of operating norms for navigating conﬂict, such as encouraging
 
-oﬀsite, the team identiﬁed ways-of-working and friction that could be
+diverse perspectives and practicing active listening. To reinforce these
 
-eliminated to free up capacity. Dozens of ideas were generated. The
+behaviors, they scheduled time in each leadership meeting to tackle
 
-team selected three items as a team and each selected one item as an individual to immediately oﬄoad. The feeling of release was palpable,
+complex issues and actively practiced their norms during the session.
 
-and the exercise turned out to be a ﬁre starter for the whole organization —inspiring more oﬄoading, creating capacity for highest value work.
+This shift led to more engaged and impactful meetings post-oﬀsite.
 
-- 5. How are you going to make it stick?
+- 4. What do you want your team to stop doing?
 
-An oﬀsite oﬀers people a pause in their regular routines to connect
+Oﬀsites always generate new actions to the team’s to-do list. Less
 
-and reﬂect before they often default back into the daily busyness
+commonly do leaders think about what can be subtracted. In order
 
-trap. But lasting adjustments and changes are possible and have the
+to create capacity to operate eﬀectively and implement new ideas,
 
-greatest signiﬁcance. Making it stick has to be considered as part of the
+exceptional leaders know they need to create room for it.
+
+One of Frans’s clients is the CEO of a ﬁnancial services organization.
+
+After a recent restructuring, she knew the current resource allocation

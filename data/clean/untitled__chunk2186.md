@@ -1,9 +1,15 @@
-# project. Personnel Journal, 10, 318–328.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 81245d24e5256b34432805abcbb46a4e1e339014
+title: untitled
+---
+# Extension University.
 
-Perloff, R., & Naman, J. L. (1996). Lillian Gilbreth: Tireless ad- vocate for a general psychology. In G. A. Kimble, C. A. Boneau, & M. Wertheimer (Eds.), Portraits of pioneers in psy- chology (Vol. 2, pp. 106–116). Washington, DC: American Psychological Association.
+Napoli, D. S. (1981). Architects of adjustment: The history of the psychologicalprofessionintheUnitedStates.PortWashington, NY: Kennikat Press.
 
-Pond, M. (1927). Selective placement of metalworkers. Journal
+O’Connor, G. T., & Ryan, A. M. (1996). Multiple facets of indus- trial-organizational psychology. II: Results of the 1995 mem- bership survey. Bowling Green, OH: Society for Industrial and Organizational Psychology.
 
-of Personnel Research, 5, 345–368, 405–417, 452–466.
+Pate, J. L., & Wertheimer, M. (1993). Preface. In J. L. Pate & M. Wertheimer (Eds.), No small part: A history of regional orga- nizations in American psychology (pp. xv–xvii). Washington, DC: American Psychological Association.
 
-Potter, E. E. (1989). Employer’s burden of proof may be reduced in testing cases. Industrial-Organizational Psychologist, 26, 43–47.
+Paterson, D. G. (1932). The Minnesota unemployment research

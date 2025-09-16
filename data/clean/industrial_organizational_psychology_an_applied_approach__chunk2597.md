@@ -1,5 +1,11 @@
-# Business Communication
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 14e668df4c5296a43b2f79d3a8a6722b572a4d30
+title: industrial_organizational_psychology_an_applied_approach
+---
+# common resources for:
 
-Business communication is the transmission of business-related information among employees, management, and customers. Business communication meth- ods include memos, telephone calls, and email and voice mail.
+7 7 7 7 7 7 7 7 7
 
-Memos One of the most common methods of business communication is the memo- randum, or memo. Memos have the advantage of providing detailed information to a large number of people in a short period of time. With the widespread use of photocopy machines and computer printers, however, employees (especially office workers) now receive so many memos that they often do not read them. In fact, the executive of a major company once stated that he never read a memo when it first came to him. If the message were really important, he believed the person would talk to him about it later. Although such an attitude probably is not a good one, it does underscore the excessive use of memos and their diminishing effectiveness in communication.
+online employee handbooks answers to FAQs (frequently asked questions) employee activity calendars forms that can be completed online programs to write job descriptions or performance appraisals job postings online benefits information training courses information about reward and incentive programs (Grensing-Pophal, a)

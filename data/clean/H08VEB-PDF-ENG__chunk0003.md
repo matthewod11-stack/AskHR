@@ -1,7 +1,19 @@
-# unprofessional.
+---
+source_path: H08VEB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4502864f5b642125f9c0a5032ef15479663dd9d4
+title: H08VEB-PDF-ENG
+---
+# David Trood/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Despite decades of research proving their value at work, emotions
 
-1
+remain one of the most undervalued—and misunderstood—resources
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+available to leaders. Too many leaders still believe that emotions
+
+distract from execution, cloud judgment, or hinder good decision-
+
+making. Others believe that so-called “negative emotions” harm
+
+relationships, or that showing emotion makes you seem weak or

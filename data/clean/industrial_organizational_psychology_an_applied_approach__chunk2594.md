@@ -1,27 +1,7 @@
-# “aware”
-
-Writing in generalities:
-
-Writing what you mean:
-
-“I wasn’t gone long”
-
-“I was gone for 5 minutes”
-
-“A survey said that most of our employees . . . ”
-
-“A survey said that 54% of our employees . . . ”
-
-Using an entire phrase:
-
-Using a single word:
-
-“Enclosed please fi nd . . . ”
-
-“Enclosed is . . . ”
-
-“Motivation is the idea that . . . ”
-
-“Motivation is . . . ”
-
-“Should it come to pass that you . . . ”
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a1e9d0f1949d40c39c9ef797e474603b84c40654
+title: industrial_organizational_psychology_an_applied_approach
+---
+# “cognizant”

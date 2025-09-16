@@ -1,23 +1,41 @@
-# How to Make Help More Helpful
+---
+source_path: H08RGL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 871695189153f6b51b9e757d49c2a6490c4e9c6f
+title: H08RGL-PDF-ENG
+---
+## HBR / Digital Article / Research: When Help Isn’t Helpful
 
-So how can organizations improve the quality of help at work? Our
+- 2. Optimistic Expectations and Lack of Accountability
 
-ﬁndings oﬀer three concrete lessons:
+Fuzzy asks often led help-seekers to assume their needs were
 
-- 1. Clarify the Problem
+understood—and would be met. This created what we describe as
 
-Asking for help requires admitting you have a problem. But it’s a long
+optimistic expectations: the belief that givers could solve the problem.
 
-journey from “I feel anxious” to “I know who to ask and what to ask for.”
+Givers often felt pressure to say yes but didn’t always follow through. In
 
-For most people, the process of ﬁnding clarity comes from talking it out.
+Amy’s case, many agreed to help, so Amy hoped they would solve the
 
-Problems—especially in creative work—don’t come neatly packaged
+problem. She stopped working on other solutions. When givers failed to deliver, the problem had become that much more diﬃcult and urgent.
 
-when we encounter them. That’s why leaders need to encourage
+- 3. An Emotionally Charged Aftermath
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Unhelpful help doesn’t just derail projects—it damages relationships
 
-4
+and morale. Recipients often felt misled and unsupported. In Amy’s
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+case, the lack of follow-through made her feel undervalued. As she put
+
+it, “If Glow thinks this is what I’m all about, to make sense of things that
+
+are all crazy and just to hold it together, I don’t want to. That shouldn’t
+
+be my value here.”
+
+Givers didn’t fare much better. Some felt their contributions were
+
+ignored or misused. Without feedback, they couldn’t know whether
+
+they’d made a diﬀerence—or how to improve next time.

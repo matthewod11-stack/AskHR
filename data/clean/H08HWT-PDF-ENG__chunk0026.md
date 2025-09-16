@@ -1,9 +1,23 @@
-## generate responses from the mindset of the world’s best experts from
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 430ac0c3bf4b2cdf30cb2623552a01fadcb67919
+title: H08HWT-PDF-ENG
+---
+## HBR / Digital Article / Train Your Brain to Work Creatively with Gen AI
 
-any industry or genre — you can even include ﬁctional personas. For
+- 7. Prompt for perspectives, beyond facts
 
-instance, try prompting AI with, “How would an innovative CEO, an
+Ask AI to take on diﬀerent perspectives to broaden the creative capacity
 
-artist, and a futurist each solve this problem?” Personally, I’ve interacted
+for unpredictable results. For instance, “How might an artist, a scientist,
 
-with the AI’s take on two of my favorites — Steve Jobs and Walt Disney
+and a philosopher each approach the challenge of leading in a tech-
+
+driven world?” prompts AI to combine diverse viewpoints, oﬀering a
+
+richer pool of ideas, and inspiring you in ways not possible before.
+
+- 8. Experiment with “role-play” prompts
+
+Train yourself to consider multiple perspectives by asking AI to

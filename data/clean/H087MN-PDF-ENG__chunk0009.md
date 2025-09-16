@@ -1,17 +1,13 @@
-# transition.
+---
+source_path: H087MN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 400eefab7a49edc0f75cdd4069138e630a5ee7cc
+title: H087MN-PDF-ENG
+---
+## changes, or strategic shifts — present leaders with one of the most
 
-Communicate the “why” clearly and authentically
+challenging change circumstances because of the real hit they can take
 
-Clear, transparent communication is the foundation of successfully
+to morale, productivity, and cohesion.
 
-navigating departmental transitions. Leaders must articulate the “why”
-
-behind changes, providing context and outlining the anticipated impact
-
-on the team. This must involve more than a one-time, one-way
-
-shout out. As a leader, you should listen to your team’s thoughts
-
-on the transition to address their immediate concerns, conﬁrm each
-
-individual’s understanding, and create opportunities for the message to
+Here are four strategies to help guide your team through this type of

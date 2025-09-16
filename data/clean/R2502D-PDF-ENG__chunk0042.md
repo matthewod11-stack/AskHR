@@ -1,23 +1,33 @@
-# solutions.”
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0add1fd305710a5c7ed1e4a927f0a32e9e52c884
+title: R2502D-PDF-ENG
+---
+# teenagers in Latin America?
 
-Search both near and far for precedents. When applying precedents
+But he soon discovered that Latin American donors were skeptical of
 
-thinking, inspiration from both within your domain and outside it is
+the donor-supported, high-fee ALA model. So fees in his model would
 
-essential. Jake Kneller is a cofounder of Sweet Nothings, a “Startup
+need to be modest, and the program would have to be much leaner and
 
-Garage” venture that pioneered the concept of frozen smoothies in
+more decentralized. He reframed the challenge as How can I launch an
 
-grocery stores. He hit a roadblock when trying to sell through national
+affordable, scalable, and decentralized lifelong leadership-development
 
-grocery chains because his products were placed in the same section as
+program to bring together promising teenagers from across the continent?
 
-ice creams, which are not perceived as healthful. To solve that challenge
+That led him to add online learning to the precedents and to develop a
 
-Kneller drew inspiration from Stacy’s Pita Chips, which had managed to
+virtual-learning model with satellites in multiple countries that scaled
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+up quickly and transformed donor skepticism into enthusiasm.
 
-9
+The more novel and evolved your framing, the more likely you are
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to ﬁnd an innovative solution to your problem. Perhaps that’s why
+
+Einstein claimed, “If I had an hour to solve a problem, I’d spend 55
+
+minutes thinking about the problem and ﬁve minutes thinking about

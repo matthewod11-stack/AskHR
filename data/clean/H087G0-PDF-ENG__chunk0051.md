@@ -1,7 +1,35 @@
-## Dignity, and Intersectional Belonging at Work.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f3e5827c5ff5a88c56827b4379ed7af42dc397d
+title: H087G0-PDF-ENG
+---
+# without accommodations.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- 2. Match their strengths to speciﬁc tasks and responsibilities.
 
-11
+- 3. Ensure access to professional development, accommodations, or tools
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as needed.
+
+- 4. Provide maximum ﬂexibility in how and when the work is done.
+
+- 5. Evaluate, reassess, and adjust as needed.
+
+A version of this approach can even be used by entrepreneurs or self-
+
+employed people who are managing themselves. Some adjustments
+
+might be more substantial than others, but a strengths-based, ﬂexible
+
+approach to work can be a foundation for building a rewarding and
+
+productive career even while dealing with health challenges.
+
+Of course, organizations have an important role in helping all talent
+
+thrive. Principles for developing ﬂexible organizations and examples of eﬀectively overcoming barriers to disability inclusion are described in
+
+more detail in my HBR article “The Radical Promise of Truly Flexible
+
+Work” and my book, The Canary Code: A Guide to Neurodiversity,

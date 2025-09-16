@@ -1,15 +1,27 @@
-## HBR / Digital Article / How to Equitably Assign High-Profile Work
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e4ec083a55bab532d4899206e3cfcf5232a2c60
+title: H08AOU-PDF-ENG
+---
+# receive fair recognition for their work.
 
-The company started working on a development plan to help
+What were the bias interrupters that proved so eﬀective? In addition
 
-employees access high-proﬁle opportunities, with the goal of improving
+to the ATO workshop, keeping metrics, and using the tasking tool, the
 
-employees’ strengths both within their typical work area and outside,
+company decided to address an underlying driver of unfair access to
 
-in stretch assignments. This kind of upskilling will make the company
+opportunities: the fast pace of their work, which left harried managers
 
-more resilient if someone leaves, eliminating the “single point of
+sticking with the tried-and-true: someone already familiar with the task
 
-failure” problem that exists in organizations that channel career-
+at hand. This meant others never got the opportunity to learn new skills
 
-enhancing work to the same few people over and over again.
+and grow their careers.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

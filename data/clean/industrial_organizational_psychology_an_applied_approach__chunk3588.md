@@ -1,29 +1,35 @@
-# Occupational Stressors
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ba054106547b6cb7c3300ba89f189c75aca87ea3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Pay inequity
 
-Figure . shows how experience and age contribute to what individuals consider sources of stress. Individuals who have been on their own and in the workforce full time seem preoccupied with the stress that work brings. Occupa- tional stressors can be grouped under two broad categories: job characteristics and organizational characteristics (Cordes & Dougherty, ).
+Going to school while working full time
 
-Job Characteristics Three main job characteristics cause stress: role conflict, role ambiguity, and role overload.
-
-Role conflict occurs when our work expectations and what we think we should be doing don’t match up with the work we actually have to do. For example, a woman who was hired as assistant to the chief executive officer (CEO) of one particular organization was informed upon hire that she would be handling such administrative duties as policy development, participating as an equal partner in management meetings, and serving as a liaison between the CEO and the public. However, after she had been on the job for awhile, she heard herself referred to as a “secretary” not only by the CEO but other department heads too. In fact, the work she ended up doing consisted of mainly taking minutes at various meetings,
+Planning for retirement
 
 stress management: dealing with the demands of life and work
 
-s e g a m
+559
 
-y t t e G / c s i D o t o h P / y k s f o r B h t i e K ©
-
-561
-
-562
+560
 
 chapter 
 
-ensuring that there was food at those meetings, and doing other routine cleri- cal work such as answering the phone and routing interoffice mail. What she expected from the position was incompatible with what she was actually required to do. This role conflict caused her a great deal of stress, and, consistent with research on the effects of role conflict (e.g., Griffeth, Hom, & Gaertner, ; Rahim & Psenicka, ), she eventually quit her job.
+with life’s changes can be enormously stressful. In fact, many stressors can be considered as our reaction to change, whether the change is moving to a new home, ending or beginning a new relationship, or changing ourselves.
 
-Role conflict can also occur when an employee has competing roles or con- flicting roles. For example, an employee’s role as manager may require her to work on a Saturday, but her role as a mother requires her to attend her daughter’s soccer game on the same day.
+Figure . shows how teenagers and young adults are “stressed” by the demands of school and the transition from the security of childhood to the demands of adulthood. Throughout high school, teens experience an enormous amount of change. Change is a major contributor to stress, and it affects both your personal life and your professional life. Why do you think that is so? For most of us, change gives rise to at least one, if not all, of the three responses of fear, resistance, and resentment—all of which ultimately lead to stress. You may have already experienced one of these emotions upon entering college.
 
-Role ambiguity occurs when an individual’s job duties and performance expectations are not clearly defined. In the preceding example, the woman expe- rienced not only role conflict but role ambiguity because what her boss expected her to do was different from what the other staff expected her to do. Although her boss referred to her as a “secretary,” a job title that clearly denotes certain duties, he felt that she should have an equal say in certain decisions affecting the organi- zation. The other directors, however, did not consider her their peer and did not feel that she should have the same power or authority that they had. Because the director did not, in the four years she worked there, ever settle that issue, she was never sure just how she was supposed to act at committee meetings. Needless to say, each day brought more and more stress as she struggled to find out, on her own, just what her job responsibilities should be. Consistent with the research of Frone, Russell, and Cooper (), the stress of this role ambiguity caused her to become depressed, and consistent with the meta-analysis by Abramis (), her job satisfaction decreased.
+Fear When we voluntarily or involuntarily leave a stage of our lives that has become comfortable and predictable, we enter another stage in which we don’t know what will happen. The challenge and potential excitement from the change can produce eustress in people who thrive on unpredictability. But to many of us, fear of the unknown produces negative stress. For example, when you were a senior in high school, did you think a lot about what the future would hold? Although eager to move out of the nest and be on their own, many students respond that they are ter- rified of what could happen. These students don’t know if they will be successful in life—they aren’t even sure that they can get a job to support themselves. They are certain that they will fail in college, which they feel means failing in life!
 
-Role overload develops when individuals either feel they lack the skills or workplace resources to complete a task or perceive that the task cannot be done in the required amount of time. Not surprisingly, role overload is highly cor- related with stress (Bolino & Turnley, ). Role overload can cause anxiety, depression, and anger (Rahim & Psenicka, ), especially when employees have little control over their jobs (Karasek & Theorell, ). As suggested in Chapter , the negative consequences of role overload can be reduced if organizations actively ensure that employees have increased control over their jobs (Parker & Sprigg, ).
+Other students respond that they are “psyched” about the thought of moving out and trying a new life! For those of you who are more fearful than challenged by change, you are probably already recognizing that the key to handling “fear of the unknown” is seeing that there aren’t the monsters you thought there would be if you made the change. In other words, handling your fears in the future means realizing that most changes do not end up being as bad as you first predicted.
 
-The key to minimizing the stress that comes from role conflict, ambiguity, and overload is to get clarification about your job duties. Although you are given a job description upon hire, make sure you sit down with your boss to ensure that you know just what he expects from you. In fact, it is wise to discuss the particu- lars of the job description prior to hire so that you are clear about work expecta- tions. If you have been assigned a project you don’t fully understand or feel you can’t complete, let your employer know. Further, if possible, suggest that you be allowed to participate in training that can help you complete the project. Finally, it is sometimes beneficial if your boss explains your job responsibilities to other staff. This explanation should reduce any misunderstanding about your role in the organization.
+Resistance Let’s face it—some of us just don’t want to leave the security and structure of that which is known. We like the predictability in our lives, no matter how boring. We like knowing what is going to happen from day to day, and telling us that we have to change our routine can throw us into a tailspin. Something as minor as hav- ing to change brands of toothpaste can be too much for us to handle and send us into a determined stubbornness not to change! A good illustration of resistance to change is holding on to old traditions that are no longer feasible. For example, I met a man at a conference who said that for many years after his divorce he still expected to spend Christmases with his former in-laws! It had been a tradition for him for more than  years, and he didn’t understand why that tradition should stop just because he was no longer legally part of the family. He continued to call his ex-wife for several Christmases after the divorce, asking to join in the festivi- ties. Of course, he was turned down, and the continued stress from this rejection and his refusal to change eventually led him to seek counseling. He seems to be doing better now and has even begun trying to start his own holiday traditions with the new woman in his life. Resisting change doesn’t allow people to cope with inevitable changes that come from living. This resistance leads to stress.
+
+Resentment Finally, changes that are forced on us, particularly those that we feel we had no control over or input into, can cause resentment. If we don’t want the change,
+
+Stress can be a major problem at work.
+
+don’t understand why we have to make the change, and don’t like how the change makes us feel (e.g., scared and confused), it raises feelings of resentment. Later in this chapter, we will discuss more about how to deal with life’s changes.

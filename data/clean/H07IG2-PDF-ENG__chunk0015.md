@@ -1,13 +1,25 @@
-## new workﬂow platform and a relationship network analytics system
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a552e6d44fd37c9f20acd4c85e937fecbbf65b21
+title: H07IG2-PDF-ENG
+---
+## the manager of transaction surveillance (anti-money laundering and
 
-(to identify fraud network members), the productivity of surveillance
+fraud detection) said in an interview they were frustrated at the high
 
-analysts increased by a third.
+false positive levels identiﬁed by the rule-based system required by
 
-Another good example is at Shell, where one of us (Jeavons) leads
+banking regulators. That is an unavoidable constraint on the process,
 
-AI initiatives. Shell has long been a process-focused company, and is
+but he saw an opportunity to use AI to predict and score the fraud risk
 
-presently engaged in a major AI initiative in areas like supply chain,
+of each positive result using machine learning. Transactions with low
 
-operations, and maintenance. As part of this, Shell is reengineering its
+fraud probabilities could simply be put in a “cooler” for several months
+
+to see if they recurred with the same customer. Machine-learning based
+
+AI systems to detect outliers are well-established in the fraud detection
+
+arena. But when the machine learning system was combined with a

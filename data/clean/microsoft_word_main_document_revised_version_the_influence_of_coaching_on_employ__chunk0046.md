@@ -1,9 +1,11 @@
-## Journal of Physical Distribution and Logistics Management, 35(9), 620-636.
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: b5ddd019f82232cdea17d3b42325c600f108f255
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+# Management Development, 18(9), 752-64.
 
-Evered, R. D. & Selman, J. C. (1989). Coaching and the Art of Management, Organizational Dynamics, 18(2),
+Ellinger, A. D., Ellinger, A. E. & Keller, S. B. (2003). Supervisory Coaching Behavior, Employee Satisfaction, and Warehouse Employee Performance: A Dyadic Perspective in the Distribution Industry, Human Resource Development Quarterly, 14 (Winter), 435-458.
 
-16-32.
-
-Fang, E., Palmatier, R. W. & Evans, K. R. (2004). Goal-Setting Paradoxes? Trade-Offs Between Working Hard and Working Smart: The United States versus China, Journal of the Academy of Marketing Science, 32(Spring), 188-202.
-
-Fornell, C. & Larcker, D. (1981). Evaluating structural equations models with unobservable variables and
+Ellinger, A. E., Ellinger, A. D. & Keller, S. (2005). Supervisory coaching in a logistics context, International

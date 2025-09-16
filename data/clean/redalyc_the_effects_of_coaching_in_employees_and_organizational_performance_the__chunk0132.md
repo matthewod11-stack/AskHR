@@ -1,7 +1,11 @@
-## Intangible Capital – http://dx.doi.org/10.3926/ic.586
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 72bc68ed5ab5f4ce524aee530afdf65b9a4715f3
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# procedural justice perceptions and organizational citizenship behaviors. Academy of
 
-WANBERG, C.R.; WELSH, E.T.; HEZLETT, S.A. (2003). Mentoring research: A review and
+Management Journal, 46: 97-105. http://dx.doi.org/10.2307/30040679
 
-dynamics process model. Research in Personnel and Human Resources Management, 22:
-
-39-124. http://dx.doi.org/10.1016/S0742-7301(03)22002-8
+-188-

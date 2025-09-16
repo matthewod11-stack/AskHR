@@ -1,49 +1,27 @@
-# HBR / Digital Article / How to Protect Your Boundaries When Your Company Is Strugg…
+---
+source_path: H07VTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0615d80ffcd84407e73b2a321023ddbcbf2b39ce
+title: H07VTF-PDF-ENG
+---
+## meetings because of his commuting schedule, family responsibilities, or
 
-need to be coordinated for a consulting project. In these cases, you’ll
+because he wanted the ﬁrst hour of his day to get organized. His goal
 
-need to evaluate the situation on its merits.
+was to protect the time on his schedule to maximize his eﬀectiveness.
 
-Limiting your availability can be especially diﬃcult to do when your
+If you get a meeting request within the time you blocked oﬀ, suggest an
 
-company is struggling — you don’t want to be seen as not pulling your
+alternative. If you can’t reschedule the meeting, you’ll need to decide
 
-weight. This is why communication is key. If you plan on setting your
+whether it’s vital for you to attend. In some situations, you may be
 
-phone on “do not disturb” or are limiting your timeframe of answering
+unable to change meeting times, such as when the meeting involves
 
-emails after a particular time, clearly relay that to the rest of your team
-
-to manage their expectations of you.
-
-According to Jim Harter, chief scientist for Gallup’s workplace
-
-management practice, speaking up is the best step to setting workplace
-
-boundaries. Let your manager know what is and isn’t working and the
-
-goals you’re trying to achieve. If you have yet to set boundaries and
-
-communicate what you need within your current role, then you’ll just
-
-take that lack of clarity into a diﬀerent setting if you shift to another job,
-
-eliminating the original stressor but not the origin of your stress.
-
-Working longer hours for a struggling company may make you feel like a
-
-hero, but one person’s eﬀorts will not save an at-risk organization. Focus
-
-your energy where you have the most signiﬁcant impact and consider
-
-what makes sense for you in the long run.
-
-This article was originally published online on March 12, 2024.
-
-Susan Peppercorn is an executive career transition coach and speaker. She is the author of Ditch Your Inner Critic at Work: Evidence-Based Strategies to Thrive in Your Career. Numerous publications including the New York Times, Wall Street Journal, Fast Company, the Boston Globe, and SELF Magazine have tapped her for career advice. You can download her free Career Fit Self-Assessment and 25 Steps to a Successful Career Transition.
+global participants in multiple time zones or if the schedules of a team
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

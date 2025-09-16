@@ -1,9 +1,9 @@
-## strengths and developmental needs of their executives on the fast
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe83f4cae8922fdbede07855d3fae3493c744f36
+title: H07I7D-PDF-ENG
+---
+# their goals for the applicant.
 
-track, as well as the ways in which these executives deﬁne their core
-
-challenges. These insights can inform how managers can support their
-
-fast-track executives to reach their full potential and how organizations
-
-can drive the content and delivery of leadership development programs.
+Our analysis shed light on the ways in which companies assess the

@@ -1,1 +1,7 @@
-# Part I.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 6cf6febe330b171254555faf0073cac484f24948
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Employee Performance Evaluation Draft

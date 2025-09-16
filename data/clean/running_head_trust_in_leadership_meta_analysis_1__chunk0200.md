@@ -1,15 +1,13 @@
-## workplace. Academy of Management Journal, 45, 331-351.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 207314465e347efcad3c495326f263aa84804373
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## changing perspectives. The Leadership Quarterly, 25, 36-62.
 
-Dulebohn, J. H., Bommer, W. H., Liden, R. C., Brouer, R. L., & Ferris, G. R. (2012). A meta-
+Dirks, K. T., & Ferrin, D. L. (2002). Trust in leadership: meta-analytic findings and
 
-analysis of antecedents and consequences of leader-member exchange: Integrating the
+implications for research and practice. Journal of Applied Psychology, 87, 611-628.
 
-past with an eye toward the future. Journal of Management, 38, 1715-1759.
-
-Edelman Public Relations (2016). 2016 Annual Edelman Trust Barometer.
-
-Emerson, R. M. (1962). Power-dependence relations. American Sociological Review, 31-41.
-
-Farh, J. L., & Cheng, B. S. 2000. A cultural analysis of paternalistic leadership in Chinese
-
-organizations. In J. T. Li, A. S. Tsui, & E. Weldon (Eds.), Management and
+Duffy, M. K., Ganster, D. C., & Pagon, M. (2002). Social undermining in the

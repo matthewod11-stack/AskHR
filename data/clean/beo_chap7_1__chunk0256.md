@@ -1,7 +1,9 @@
-# Psychologica 47:143-48.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: bfb5c9624ab330c3c20d4a6d7e761e69607a855e
+title: beo_chap7_1
+---
+## Magazine. Feature article, February, Volume 97, Issue 3.
 
-Taylor, S. E., and J. D. Brown. 1988, Illusion and well-being: a social psychological perspec-
-
-tive on mental health. Psychological Bulletin 103:193-210.
-
-Torry, S. 1996. The paper chase slows down, here and nationally. Washington Post, June
+Svenson, O. 1981. Are we all Jess risky and more skillful than our fellow drivers? Acta

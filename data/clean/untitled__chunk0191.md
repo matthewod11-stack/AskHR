@@ -1,5 +1,11 @@
-# ed.). New York: Appleton-Century-Crofts.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c6890ceee20ada7bddf41de1b664400cfc111a26
+title: untitled
+---
+# Blumenthal, A. (1985b). Wilhelm Wundt: Psychology as a pro- paedeuticscience.InC.E.Buxton(Ed.),Pointsofviewinthemod- ernhistoryofpsychology(pp.19–50).NewYork:AcademicPress.
 
-Boring, E. G. (1965). On the subjectivity of important historical dates: Leipzig, 1879. Journal of the History of the Behavioral Sciences, 1, 5–9.
+Boakes, R. (1984). From Darwinism to behaviourism: Psychology and the minds of animals. Cambridge, England: Cambridge University Press.
 
-Bridgman, P. W. (1927). The logic of modern physics. New York:
+Boring, E. G. (1950). A history of experimental psychology (2nd

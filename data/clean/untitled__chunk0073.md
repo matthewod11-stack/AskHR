@@ -1,7 +1,11 @@
-## PSYCHOLOGYAS A SCIENCE 1 Alfred H. Fuchs and Katharine S. Milar
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: cdc7cdec82bcaa749953aa7fadbd6cf4dc69bfcb
+title: untitled
+---
+# John A. Popplestone
 
-2
+Contributors xvii
 
-PSYCHOLOGYAS A PROFESSION 27 Ludy T. Benjamin Jr., Patrick H. DeLeon, Donald K. Freedheim, and Gary R. VandenBos
-
-3
+1

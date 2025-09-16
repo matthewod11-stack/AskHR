@@ -1,15 +1,19 @@
-## HBR / Digital Article / A New Model for Continuous Transformation
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24aa85134e53913fb418e2ac96a9b54b9f925c30
+title: H088S2-PDF-ENG
+---
+## leadership practices at every level of the company.
 
-large companies reveals that this number surpasses the performance of
+The results speak volumes. By the close of 2023, the ongoing
 
-any other public company with revenues exceeding $30 billion.
+transformation at Dell had yielded a 10-fold return on Michael Dell’s
 
-. . .
+initial investment in 2013. Our analysis of total shareholder returns for
 
-In today’s fast-paced world, business transformation can no longer
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-be treated as a one-time project. Continuous change necessitates
+6
 
-ongoing transformation. The traditional approach of “unfreeze, change,
-
-refreeze” must give way to a new mindset: “rethink, reshape, repeat.” It’s
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

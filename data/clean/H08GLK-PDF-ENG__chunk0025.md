@@ -1,25 +1,29 @@
-## HBR / Digital Article / High Performers Need Feedback, Too
+---
+source_path: H08GLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83cbc23400af5d7cbab29617ae0fe290ee51031b
+title: H08GLK-PDF-ENG
+---
+## trait rather than the impact of their performance on the business.
 
-pleasant to work with. It’s also unclear why or how being “nice” or “a
+This is especially problematic for women, who are 22% more likely
 
-joy” is relevant to their growth — or if it is at all.
+to receive feedback about their personality than men. When high-
 
-Try: “Your clear communication and openness to collaborating with the
+performing women get personality feedback, it also impacts their
 
-sales team on their most recent campaign helped us put together a more
+growth opportunities because they lose out on feedback that is relevant
 
-cohesive pitch and improved our relationships with the clients. Let’s
+and speciﬁc to growing skills for their role.
 
-work together to ﬁnd more opportunities like this, so you can continue
+Instead of: “You’re so nice and a joy to work with.”
 
-developing your cross-functional leadership skills.”
+This is a compliment, not feedback. It focuses on a personality trait,
 
-This feedback shifts the focus away from personality traits and towards
+and not the employee’s strengths or the actual actions that make them
 
-skills and behaviors. It highlights the employee’s accomplishments,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-gives them the recognition they deserve, and explains how they need
+5
 
-to continue growing. This kind of feedback is key to keeping high
-
-performers engaged and committed to your organization.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,7 @@
-# for concern
-
-to be successfully
-
-implemented,
-
-Many companies use metrics that are not applicable to their own situation. It is vitally important when using balanced scorecards to make the information being tracked applicable to their needs. Otherwise, the metrics will be meaningless.
-
-ISSN 2277-5056 | © 2015 Bonfring
+---
+source_path: bonfring_international_journal_of_industrial_engineering_and_management_science.md
+pages: n/a-n/a
+chunk_id: 71f4bde7aea39f8ca4354f1ed49db43ce9b28b09
+title: bonfring_international_journal_of_industrial_engineering_and_management_science
+---
+# four areas

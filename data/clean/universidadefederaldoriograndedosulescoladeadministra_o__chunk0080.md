@@ -1,9 +1,7 @@
-# percepções
-
-10
-
-Apesar da importância alcançada pelo construto, com constantes incrementos
-
-à literatura, não existe uma conceituação única de clima aceita de maneira pacífica
-
-entre os pesquisadores (PUROHIT; WADHWA, 2012). Contudo, há certa
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 59191da9a3cf4bb33b85b5bcb540be15cf1602b5
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# as

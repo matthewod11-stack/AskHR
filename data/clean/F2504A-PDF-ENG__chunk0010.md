@@ -1,65 +1,49 @@
-## HBR / Magazine Article / How AI Is Redefining Managerial Roles
+---
+source_path: F2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6ab5e9caf95c88f6aa0abba19426f77af09500e
+title: F2504A-PDF-ENG
+---
+## improvements or experiment with new products.
 
-group was less likely to ask managers or peers for help. That’s not all.
+But maximizing AI’s potential in this manner requires more than
 
-For nearly all activities, in both core work and project management,
+updating the org chart. To ﬂatten a company’s hierarchy, or simply
 
-developers who used Copilot worked in smaller groups than those who
+free middle managers from some project management responsibility,
 
-didn’t. A similar experiment can beneﬁt most companies. Observe how
+companies must address two critical questions: What do we automate
 
-your team uses gen AI and ﬁnd areas where it can increase autonomy.
+and who are we beneﬁting?
 
-“Gen AI can, in some instances, replace a manager, mentor, or any other
+Determine what to automate. Although the GitHub Copilot example
 
-individual that junior employees may ask for help,” Hoﬀmann says.
+focuses solely on coders and their managers, any company can use
 
-“Managers don’t always have time for people. And their teams don’t
+gen AI to free middle managers from their traditional tasks. The key is
 
-always have the bandwidth to meet in very large groups. But with gen
+determining which tasks are ripe for automation and which should be
 
-AI, people can ﬁgure things out by themselves without the need for that
+conducted manually.
 
-extra layer of management.”
+But before you decide which tasks to automate, Hoﬀmann recommends
 
-Determine who beneﬁts the most. Hoﬀmann’s team made another
+doing what his team did when they started the GitHub study. They
 
-critical observation: Coders who were less skilled than their peers
+cataloged every task they observed as either a project management task
 
-beneﬁted more from gen AI. This occurred partly because they were
+or a coding task. Any company, no matter the product or industry, can
 
-more likely to conduct coding activities and less likely to conduct
+audit their tasks in this manner. Once you’re done, you’ll be able to
 
-project management activities than high-ability developers were. Past
+rethink which tasks could shift from middle managers to gen AI.
 
-research has shown that people tend to trust their own knowledge and
+During the study, Hoﬀmann and his team observed a distinction
 
-experience more than an AI system’s. In other words, the less you know
-
-about a topic, the more likely you are to rely on AI’s expertise.
-
-Hoﬀmann views this as a major opportunity for companies to relieve
-
-middle managers from the burden of having to upskill low performers,
-
-among other beneﬁts. Because low performers can now use gen AI to
-
-instantly learn and improve on their own, managers can focus their
-
-time on more-important, hands-on work. This represents hours saved
-
-for each manager for each low-performing individual. It also represents
-
-added hours of productivity for everyone involved. This information
-
-can help middle managers better understand their employees’ strengths
-
-and weaknesses. Do low performers understand what work they need
-
-to do and the quality that is expected, for example? What knowledge
+between coders who used gen AI and those who didn’t. The gen AI
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

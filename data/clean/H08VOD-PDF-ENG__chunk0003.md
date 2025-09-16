@@ -1,17 +1,23 @@
-## HBR / Digital Article / Should You Delegate That Decision? Ask These 4 Questions
+---
+source_path: H08VOD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c3cccc45080de84e926f8752f32b65ba95fc81fe
+title: H08VOD-PDF-ENG
+---
+# Bernhard Lang/Getty Images
 
-Laura’s experience—a full calendar, an overﬂowing inbox, and a mind
+Laura is the VP of product at a fast-growing software company. She’s
 
-pulled in four diﬀerent directions before noon—is common among
+known for her sharp instincts and hands-on style, but is stretched
 
-senior leaders. Everyone wants a piece of your judgment: on priorities,
+thin: reviewing every product tradeoﬀ, attending every design review,
 
-personnel, budgets, strategy, and the ﬁres that ﬂare up daily. But there’s
+and mediating between engineering and sales. Her team is capable but
 
-only so much time and so many decisions that you can—and should—
+stuck, reluctant to move forward without her.
 
-take on.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Most leadership advice says to delegate more. But how do you know
+1
 
-what kinds of decisions are ripe to delegate, particularly in today’s high-
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

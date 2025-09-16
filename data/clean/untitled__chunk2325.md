@@ -1,11 +1,13 @@
-# THE HYBRID YEARS 414
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b5bf23fb81d3dd46ed988367712a1de388b45808
+title: untitled
+---
+# WHAT IS SCHOOL PSYCHOLOGY? 413 413
 
-Factors Contributing to the Origins of Practice Professional Developments (1890–1920) Emergence of School Psychology as a Distinct Field
+413
 
-417
+Demographic Descriptions Training and Credentialing Employment Characteristics and Services Historical Periods Deﬁned 414
 
 414
-
-(1920–1940)
-
-418

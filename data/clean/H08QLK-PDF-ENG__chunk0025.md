@@ -1,31 +1,27 @@
-## resource planning (ERP) systems in favor of home-grown
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d82a5c1d97fe53a9fffbfcfa439a5ba7c3fdb6a0
+title: H08QLK-PDF-ENG
+---
+# This Shift Is Already Underway
 
-conversational AI bots that can query Siemens’ product lifecycle
+This transformation is not hypothetical. Every day we see more
 
-platforms to investigate supply chain issues and cost overruns.
+companies beginning to make shifts to reduce their reliance on legacy
 
-- Advanced healthcare systems like the Mayo Clinic are piloting
+software systems. They include:
 
-generative AI tools to assist physicians with clinical documentation,
+- Klarna, the Swedish ﬁntech serving 85 million customers, announced
 
-synthesizing patient histories and drafting care plans.
+plans in 2024 to sunset major SaaS providers like Salesforce and
 
-- Financial institutions such as JP Morgan are equipping their research
+Workday in favor of internal AI-driven record systems. They started by
 
-analysts with tools that query vast amounts of historical and current
+creating a consolidated database of their enterprise data using Neo4j
 
-ﬁnancial data and draft near-complete research reports.
+and then using LLM-driven tools to build specialized applications
 
-- At Hitachi Global, the HR organization used Ema Unlimited’s agentic platform to gain 70% operational eﬃciency for shared services across Hitachi’s four business divisions. The solution was conceived and
+using their own AI software stack.
 
-deployed across 120,000 employees in eight weeks.
-
-Early adopters in every industry are seeing eﬃciency gains in the
-
-20–30% range as well as expanding their oﬀerings by replacing or
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Engineers at the industrial giant Siemens are eschewing employee

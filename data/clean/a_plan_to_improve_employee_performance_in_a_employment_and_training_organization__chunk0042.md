@@ -1,11 +1,27 @@
-# morale among certain counselors .
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 2930e591f8bb2ea23d3049e7d4f4cff285bcd52e
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# become eligible for our services under different Titles (Funding sources). Counselors
 
-Furthermore, different supervisors have trained every employee differently which
+must be aware and knowledgeable about all aspects of the eligibility process. In addition
 
-contribute to inconsistencies and miscommunication about what is the right way to
+management is constantly sending memos regarding changes or updates to existing
 
-complete an intake. Training sessions have ranged from a one day session to a one week
+programs/services . Some counselors are knowledgeable , read all memos and are clear of
 
-class format in our department. Watching other counselors has solely trained some
+ETR' s policies and procedures , while other counselors are not. Why?
 
-counselors, which is only part of the training process. These factors such as: morale,
+3
+
+Another factor that affects employee performance is the role of supervision.
+
+Some supervisors are reluctant to point out clear inadequate performance to counselors
+
+for fear of being offensive, since they have developed a good relationship. This only
+
+creates a bigger problem and the employee may think supervisors condone his or her
+
+behavior. Also, other employees will see this as favoritism and this can lead to low

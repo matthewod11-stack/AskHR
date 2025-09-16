@@ -1,11 +1,21 @@
-# Make True Costs Clear
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22597a3ee04aeb77ab13f6cdc9ba6302942097f9
+title: R2403F-PDF-ENG
+---
+# recruit.
 
-One critical step HR can take to get the C-suite to alter course is to show
+It’s understandable why breaking old habits is hard. Telling leaders
 
-leaders what the costs of current practices really are and illustrate the
+that the approach they’ve been following for 40 years—and the one
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+thing investors seem to understand about human capital (“cut it!”)—
 
-3
+is all wrong does not seem like a career-building move. Nonetheless,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+HR executives can—and must—make the case to their CEOs and
+
+operating executives that the old way is no longer working and that their
+
+companies need to change direction.

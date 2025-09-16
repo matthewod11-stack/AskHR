@@ -1,49 +1,27 @@
-## extensive alteration towards a communicative aspect of the change process:
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: c781bc74a45209bc1c754ab176b50aefc27bb0f6
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# Resistance to Change
 
-“Resistance, properly understood as feedback, can be an important
+Resistance to change has usually been recognized as a significant factor that
 
-resource in improving the quality and clarity of the objectives and
+can influence the outcomes of an organizational change effort (Chiung-Hui and Ing-
 
-strategies at the heart of a change proposal. And, properly used, it can
+Chung, 2009). Organizational change literature offers several definitions for resistance
 
-enhance the prospects for successful implementation”. (Ford and Ford,
+to change. In fact, the common point among most of these definitions is that resistance
 
-2009: 103)
+to change is seen as an important reason for change process failures (Armenakis,
 
-This approach is supported by other scholars. According to Schein (2003),
+Harris et al., 1993), and consequently, as a problem to be minimized or overcome
 
-dealing with defensive routines requires supplying a space for reflection and dialogue.
+(Nadler, 1993). One can find an example of this perspective in Coetsee’s statement, as
 
-Moreover, Ford, Ford et al (2008) reflects that when much responsible insight about
+resistance to change can be understood as "opposed or blocking energies and power
 
-resistance is present, one that considers it as a result of an agent’s own actions and
+directed at impeding, redirecting, rejecting or stopping change" (Coetsee, 1999:209).
 
-sensemaking, the agent can purposely opt to make sense of recipient expressions as a
-
-counter offer. Therefore, in this case the role of change agent definitely includes taking
-
-charge of the change dialogues in order to overcome apparently resistive behaviors “by
-
-bringing both agent and recipient background conversations to the fore” (2008:373). A
-
-truly provocative idea is that expressing opposition can be, in fact, a sign of deep
-
-commitment to change by being brave enough to show concern about obstacles not yet
-
-seen(Stohl and Cheney, 2001: 380).
-
-Due to this more comprehensive point of view on resistance to change, it is
-
-necessary to recognize that the term should be altered purposively as a response to
-
-change, echoing Dent and Golberg (1999) and Oreg’s (2006) claims that the expression
-
-resistance to change is limiting and not adequate. In this literature review, such
-
-alteration emphasized the nature of subjective experiences in order to obtain a more
-
-valid understanding of what resistance is actually about. On the other hand, as the
-
-predominant term used in the literature provided on the empirical studies of the
-
-phenomena is resistance to change, it will be useful to adopt the same term and
+When the concept of resistance to change is re-elaborated,it is directed to an

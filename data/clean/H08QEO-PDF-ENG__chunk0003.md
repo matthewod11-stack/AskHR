@@ -1,13 +1,23 @@
-# HBR / Digital Article / Research: Gen AI Makes People More Productive—and Less Mo…
+---
+source_path: H08QEO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b2300b439883913991ca031fae6aff4099e9de0a
+title: H08QEO-PDF-ENG
+---
+# Jorg Greuel/Getty Images
 
-our research reveals a hidden trade-oﬀ: While gen AI collaboration
+Generative AI (gen AI) has revolutionized workplaces, allowing
 
-boosts immediate task performance, it can undermine workers’ intrinsic
+professionals to produce high-quality work in less time. Whether it’s
 
-motivation and increase feelings of boredom when they turn to tasks in
+drafting a performance review, brainstorming ideas, or crafting a
 
-which they don’t have this technological assistance. Our ﬁndings have
+marketing email, humans collaborating with gen AI achieve results
 
-big implications for companies looking to leverage gen AI’s potential
+that are both more eﬃcient and often superior in quality. However,
 
-gains without hurting their employees’ drive when it comes to their
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

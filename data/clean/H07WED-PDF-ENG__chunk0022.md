@@ -1,11 +1,19 @@
-# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8161f9e11c71bc49beb3bd0cbb5a37e095e7eaf2
+title: H07WED-PDF-ENG
+---
+## exposure to these aspects in their specialized roles.
 
-less common. While there are exceptions — such as Klaus Kleinfeld,
+Limited role models versus countless examples. Visionary CEOs like Steve Jobs, Elon Musk, and Warren Buﬀett are
 
-who served as CEO of Siemens, and Jorgen Vig Knudstorp, who became
+celebrated for their exceptional leadership. However, when it comes to
 
-the CEO of LEGO — these instances are relatively rare. This scarcity
+CEOs with a background in project management, the examples are far
 
-of visible PM-turned-CEO role models makes it challenging for project
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-managers to envision their path to CEO positions.
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,7 @@
-# time period of less than one year.
-
-Important Notice. All program users and other interested parties should frequently consult the Oﬃce of Foreign Labor Certiﬁcation Web site,
-
-(https://www.dol.gov/agencies/eta/foreign-labor) where the Department of Labor will post updates concerning the H-2A temporary agricultural labor
+---
+source_path: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas).md
+pages: n/a-n/a
+chunk_id: 908a89028f17eaa4a0deea53823af515fc81df7c
+title: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas)
+---
+# harvesting of a crop. Employment is of a temporary nature when the employer's need to ﬁll the position with a temporary worker is for a limited

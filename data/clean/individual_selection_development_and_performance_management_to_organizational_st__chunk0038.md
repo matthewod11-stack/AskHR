@@ -1,5 +1,9 @@
-## Developing Competency Models for an Occupational Group
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: c6a4064b1511fa283fed5eac19aa6becae976924
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+## 316 • HUMAN RESOURCE MANAGEMENT, Fall 2002
 
-With advances in technology, it became possible to place this information in easy-to-use systems, ensuring that it is used for daily HR operational purposes as well as other programmatic initiatives.
-
-To identify similar jobs within an occupational group, statistical analyses are conducted. Clus- ter analysis is used to group occupations based on similarities in ratings of competencies on importance. These clusters provide the compe- tency model for the occupational group in terms of general job families. Table IV shows the re- sults of the cluster analysis of the clerical and technical jobs. The occupational group compe- tency model provides a general guide to federal agencies about the competency requirements and similarities among jobs. It results in two sets of competencies: those core to the broad occu- pational group (e.g., clerical and technical oc- cupations) and the competencies core to a smaller subset of similar occupations within that group (e.g., administrative cluster). Using the occupational clusters, competency-based prod- ucts, such as selection examinations, can be de- signed for groups of occupations, reducing the costs incurred by developing separate products and tools for each occupation.
+To develop federal competency models, occupational analysis surveys are sent out to a stratified, random sample of incumbents and supervisors. The data are collected and ana- lyzed to identify critical competencies and tasks for each occupation. The large number of re- spondents for each survey (e.g., 7,938 for ex- ecutives, supervisors, and managers; 59,997 for seventy-seven clerical and technical jobs; 46,889 for 105 professional and administra- tive jobs) shows the scope of these projects. Data are analyzed for each occupation at every grade (i.e., pay) level where there are sufficient respondents. To create the final competency model for an occupation or occupational group, both incumbent and supervisor ratings are typi- cally used. The Leadership Effectiveness Study, however, surveyed only incumbents.

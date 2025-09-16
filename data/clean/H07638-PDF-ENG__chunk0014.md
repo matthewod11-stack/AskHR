@@ -1,13 +1,27 @@
-## HBR / Digital Article / What to Do If Your Team Is Underperforming
+---
+source_path: H07638-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27806896d75d11513d6134e99b7608fdca678d80
+title: H07638-PDF-ENG
+---
+# Co-create a team goal.
 
-- Have I explicitly shared feedback so that each team member knows
+Don’t let your team oﬀ the hook and take on the full burden for the
 
-where they need to focus?
+group’s success yourself. When the team makes mistakes, it’s your
 
-- Have I shared how I’d like to see goals developed and written?
+responsibility to address them and help the team move forward. But
 
-- How will I keep on top of each team member?
+it’s just as important to proactively co-create goals with your team
 
-As you’re setting goals, you as leader will need to be even more
+members. Try this: in individual status meetings, ask each person to
 
-hands-on. Don’t leave anything to chance; overcommunicate and meet
+come prepared to discuss their goals and how they’re tracking toward
+
+them. As the team leader, ask yourself:
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

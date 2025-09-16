@@ -1,7 +1,31 @@
-# rough order of frequency:
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 993fb6c1100423bd2d58ecc6121cb6dd485bdc88
+title: R2505H-PDF-ENG
+---
+## its strategy and operations. Once founders
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+sell, they have little to no inﬂuence over those decisions or whose hands
 
-7
+the company ultimately ends up in. If your goal is to ﬁnd a long-term
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+owner for your company that will carry on its mission and operations,
+
+we recommend looking for another option.
+
+Finally, many founders see the continuation of their business as a
+
+vehicle for accomplishing their legacy goals. They may consider their
+
+companies to be monuments to their hard work or a means of creating
+
+opportunity for future generations. They may see their ﬁrms as being
+
+integral to the community, as critical sources of jobs, or as examples of
+
+how to do business the right way. If you view your company as a vehicle,
+
+your priority should be to ﬁnd a long-term owner for it.
+
+For this group of founders, there are ﬁve primary options, listed here in

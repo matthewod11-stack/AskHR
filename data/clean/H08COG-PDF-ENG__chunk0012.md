@@ -1,9 +1,17 @@
-## HBR / Digital Article / Research: How to Build Consensus Around a New Idea
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14ca2684208e69dc6055911abe88a9e59b7ba834
+title: H08COG-PDF-ENG
+---
+# Comparing Novelty and Value
 
-250 most novel pitches and 250 least novel, we asked 1,000 new U.S.
+To test our hypotheses, we conducted ﬁve studies. In the ﬁrst, we used 1,088 business pitches from the reality show Shark Tank and asked
 
-participants to rank the pitches’ value. As predicted, we found the more
+1,927 U.S. participants to rank the novelty of the pitches. Pulling their
 
-novel the pitch, the more variability there was in its projected value.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Next, we examined the audience review scores for ﬁlms shown at
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,11 @@
-## organization’s executives and the HR function.
+---
+source_path: Team Leaders Need Better Data, Faster.md
+pages: n/a-n/a
+chunk_id: 9dd37a8128dde5493d285e7531cf18e002f3b157
+title: Team Leaders Need Better Data, Faster
+---
+## HBR / Digital Article / Team Leaders Need Better Data, Faster
 
-If we are interested in actually building engagement in our
+of the newer self-serve survey tools, which allow data to be collected
 
-organizations, rather than merely measuring it year over year, then we
-
-need to redesign our system so that it delivers real-time data to the right
+and shared more frequently, are still designed to deliver that data to the

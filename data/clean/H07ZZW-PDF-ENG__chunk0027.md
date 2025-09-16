@@ -1,11 +1,11 @@
-## of Ukraine. Prominent Yale professor Jeﬀrey Sonnenfeld fashioned a
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8446f6f7ea5a4cdfc649978fb69f1dd9e308911
+title: H07ZZW-PDF-ENG
+---
+## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
 
-spreadsheet to help the media track which companies were in and
+In 2022, for example, Western enterprises encountered enormous
 
-which were out, and CEOs had to decide almost instantly whether to
-
-keep paying employees in Russia, evacuate nationals, sell their assets,
-
-or stay put. Even companies that seemed to handle that crisis well soon
-
-faced questions about their operations in other countries with egregious
+pressure to shut down their Russian operations after the invasion

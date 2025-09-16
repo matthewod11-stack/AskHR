@@ -1,11 +1,9 @@
-# Learning Objectives
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 29408a30d9483771f59db2954f202b1bc1e4901b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Ô
 
-Know the types of people who tend to be more motivated than others
-
-Learn how to motivate people through goal setting
-
-Understand the importance of providing feedback
-
-Be able to use operant conditioning principles to motivate employees
-
-Understand the importance of treating employees fairly
+

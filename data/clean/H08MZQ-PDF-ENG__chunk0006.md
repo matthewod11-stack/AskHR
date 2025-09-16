@@ -1,35 +1,25 @@
-# autistic candidates.
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e54169a72a560fedccbddf3387ffb5d47c52e2f
+title: H08MZQ-PDF-ENG
+---
+# this.
 
-He and many other skilled and talented job-seekers would have been
+Consider Brian. Brian is brilliant. He completed a double major in
 
-top candidates if the hiring criteria focused on the actual skill of
+computer science and math in three years. His performance on pattern-
 
-performing the job rather than performing the role of a generic
+recognition tests had previously been considered impossible. He seems
 
-“ideal candidate”—in other words, if we actually measured merit. But
+to be an ideal ﬁt for the cybersecurity jobs he’s passionate about—but
 
-too often, interviews measure acting ability rather than the relevant
+he can’t get one. Why? The typical interview format of rapid-ﬁre of
 
-coding, accounting, or shelf-stocking skills. This means that hiring
+questions—including “weird” inquiries like what animal he would be or
 
-procedures relying on interviews are generally less valid than direct skill
+whether he prefers golf or tennis—ﬁlters him out. Not his skill. Not his
 
-assessment, and that they’re particularly unfair and discriminatory for
+talent. Instead, the problem is a ﬂawed hiring process with overreliance
 
-people who are better at performing the job than appearing like they can
-
-perform the job.
-
-When measurement lacks validity, selecting the top candidate doesn’t
-
-reﬂect merit. It reﬂects bias, barriers, and the lack of inclusion. We’re
-
-not selecting the best; we’re selecting the best-ish from a narrow circle
-
-of those fortunate to exist on a level section of the playing ﬁeld—not
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+on interviews—a measurement that lacks validity, particularly for

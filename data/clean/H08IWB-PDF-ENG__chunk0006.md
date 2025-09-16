@@ -1,17 +1,23 @@
-## Tailor Communication to Individual Preferences
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f306c7c7308a10632ad8347c03d42abc84d905e4
+title: H08IWB-PDF-ENG
+---
+# engagement.
 
-To enhance engagement with mentoring programs, organizations
+Two of us (Lopata and Gotian) have both spent many years working with
 
-need to rethink their communication strategies. A one-size-ﬁts-all, top-
+large organizations and have found that many employees are unaware
 
-down communication approach is ineﬀective, especially with today’s
+of the presence of mentoring programs, how to access them, or even if
 
-workforce that craves personalized interactions. Employees want to feel
+they qualify. Many employees would have welcomed the opportunity to
 
-like valued participants in the process, not just recipients of directives.
+beneﬁt from a guide through the next stage of their career but simply
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+didn’t realize the support was there for them. Others would have been
 
-2
+delighted to mentor but were never asked.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+These are simple obstacles that can be ﬁxed with relative ease.

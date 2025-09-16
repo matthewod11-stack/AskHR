@@ -1,11 +1,13 @@
-## book Designing Your Life, Stanford University’s Bill Burnett and Dave
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 0e7518cfe15913c2311a00bb29f027aff05ff740
+title: H07XDL-PDF-ENG (1)
+---
+## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
 
-Evans modiﬁed the design thinking they used in software development
+his publisher asked told them that strategy belonged to those realms,
 
-to help individuals.
+not to business. Yet we’ve also seen business-world principles employed
 
-Strategize Your Life is our attempt to do the same for strategic thinking
-
-in a concrete, step-by-step way. We believe it can lead you to new
-
-insights on how you deﬁne and ﬁnd your great life. Our goal is to give
+to improve people’s self-management. For example, in their best-selling

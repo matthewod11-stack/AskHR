@@ -1,13 +1,33 @@
-## into social networks, psychology, creativity, and the entrepreneurial
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b1ee6bca457b1c602088e4b93caf8359dd98ca2
+title: R2402F-PDF-ENG
+---
+## show, all too often very little happens after the initial brainstorming
 
-process validates that point of view. It shows that innovation is more
+phase. The organizers of these initiatives tend to focus on facilitating
 
-likely to succeed when it is a curated process in which an intermediary
+the collision of ideas and talents without planning for the long term.
 
-takes responsibility for sparking and sustaining collaboration among
+Those taking part in the initiatives enter with every intention of making
 
-the people involved.
+a long-term commitment, but most are unprepared for or underestimate
 
-In this article, we draw on that research and on our own and describe
+what lies ahead.
 
-the crucial roles that intermediaries can play. We show how they can
+The reality is, innovation is more than generating an idea—it is a long,
+
+collaborative journey. Daniel Epstein, the CEO of Unreasonable Group,
+
+an organization that brings together a global network of entrepreneurs
+
+who are tackling some of the world’s most pressing challenges with
+
+investors, creatives, and business leaders, explains it like this: “Business
+
+in the 20th century was oftentimes deﬁned by having a competitive
+
+advantage. Business in the 21st century will be deﬁned by having a
+
+collaborative advantage.” A considerable body of academic research

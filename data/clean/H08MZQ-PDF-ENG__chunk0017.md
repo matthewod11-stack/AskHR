@@ -1,7 +1,7 @@
-## miss opportunities for innovation and productivity and fall behind
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed772f1ee2a6610bfea15b3f83aade59071b4a7b
+title: H08MZQ-PDF-ENG
+---
+## And when organizations practice exclusion in the name of merit, they

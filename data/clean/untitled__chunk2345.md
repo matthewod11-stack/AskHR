@@ -1,3 +1,15 @@
-# Professional Developments (1890–1920)
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 89d2a6c0ccd8791a9639fe6ac02a45f2719d8b8b
+title: untitled
+---
+# Summary of Potent Factors
 
-In addition to the factors that led to the emergence of school psychology, several other professional developments between 1890 and 1920 contributed to the discipline’s development.
+In summary, among the most potent factors creating the con- ditions for school psychological services were the changing status of children, the emphasis on the importance of child- hood to saving adult society, and the central role of public schooling in that process. Indeed, almost every perceived failure or problem in society throughout the twentieth cen- tury led to curricular and other adjustments in our schools. These include food services for the poor, special reading pro- grams, pupil personnel services, alcohol, drug, and tobacco prevention programs, special programs for teen pregnancy, delinquency and dropout prevention, and special education. Even curricula in home economics and driver education can be seen as reﬂecting societal needs.
+
+In addition, the importance of children as emotional, as opposed to mainly ﬁnancial, assets (see e.g., Zelizer, 1985) and the fact that they were housed for much of their childhood andyouthinschoolbuildingshelpedtocreateanewcultureof childhood and adolescence that pervaded the twentieth cen- tury.Theemergenceofadolescenceasaformaldevelopmental stage and recognition of the signiﬁcance of peer groups are, in part,afunctionofthemasseducationmovement.Formalentry into adulthood for most children became delayed until the late teen years or longer, and it was educational facilities that served as warehouses for children and youth until such entry. Needless to say, the growth of elementary enrollments would lead to growth in secondary enrollments, then growth in the postsecondary colleges and universities, technical schools, and other forms of education. With this formal structure in place, the post–World War II baby boom would accelerate these developments.Applied psychologists would follow this trend, and by the late twentieth century, school psychologists were employed in preschool, elementary, secondary, and postsecondary educational settings.
+
+The emergence of child study and clinical and educational psychologyintheperiod1890–1920weresymbioticdevelop- ments with the emergence of mass education. They were in- strumental in advancing the organization of schools and their curricula and in drawing attention to the needs of atypical children through special educational programs. The disciples of pioneers like Hall and Witmer would bring together the
+
+knowledge and practices of these ﬁelds into school psycho- logical services. Most notable among these disciples was Arnold Gesell, the ﬁrst person to work with the title “school psychologist” within a part-time practice under the supervi- sion of the state of Connecticut. His efforts built upon those of Witmer and Hall and helped to establish school psychology’s connection to the individual psychoeducational diagnosis of children with school problems and their placement in special education. His practice from 1915 to 1919 bore numerous similarities to contemporary school psychology (Fagan, 1987).

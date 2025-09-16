@@ -1,19 +1,41 @@
-# people for this kind of contribution.
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74c89825f0c42172f0cde72ba6b334c2e7fc8cae
+title: R2505N-PDF-ENG
+---
+# not individuals.
 
-The C-suite executives at an insurance broker I know realized that
+Decide if you really want to manage. Global business culture gloriﬁes
 
-their long-term success depended not on hiring more brokers at
+leadership, but if you love doing, managing others might not be right for you. Coming to terms with this can be diﬃcult but rewarding. For
 
-ever-increasing salaries but on developing leaders of brokers, who
+example, even as the newly appointed head of the M&A practice worked
 
-could teach their direct reports to improve and build teams. To do
+to learn new skills in delegating and leading teams, he realized he still
 
-this, the company began to reward senior brokers who demonstrated
+preferred doing deals, and so he suggested that leadership consider
 
-collaboration and coaching skills. In part because of this approach, the
+making a change. The ﬁrm—which had simply promoted its best M&A
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+lawyer to be practice head—gave the role to a lawyer who wasn’t as
 
-10
+proliﬁc a dealmaker but who actually wanted to manage. The law
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁrm let its star go back to what he loved doing and was best at, and
+
+celebrated him for it.
+
+Spread the mindset. Encourage others in your organization to buy into
+
+the value of context-setting work as well. If you’re a middle manager, be
+
+proactive about not just delegating to your reports but also volunteering
+
+to take work that you know you can do oﬀ your boss’s plate. If you’re
+
+a senior leader, help your peers understand that managers doing less
+
+activity work and more context-setting is the best way for all of you
+
+to deliver at scale. And use your position to build systems that reward

@@ -1,7 +1,17 @@
-# to organizational performance.
+---
+source_path: H08TXR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e90243837c37522970d9c23b04c0820945690867
+title: H08TXR-PDF-ENG
+---
+# MirageC/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+In boardrooms worldwide, executives invest signiﬁcant resources
 
-1
+creating polished presentations and communication plans to roll out
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+strategic initiatives. Yet, as with the childhood game of telephone,
+
+what reaches the frontlines often bears little resemblance to the
+
+original vision. This breakdown isn’t just frustrating—it’s devastating

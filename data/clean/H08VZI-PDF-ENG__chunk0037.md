@@ -1,31 +1,25 @@
-# quadrant feels most familiar, and why?
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0b664763846dbc93d11da76a5711cc75d72cda9f
+title: H08VZI-PDF-ENG
+---
+# your team’s culture.
 
-- Ask what the team can do to move closer to a last 8% culture. Oﬀer
+- Show the culture map and describe each quadrant.
 
-your ideas ﬁrst about your contribution—what you need to do to get to
+- If honestly and frankness aren’t the norm on your team, it makes a
 
-the culture you want, and invite people to oﬀer other ideas.
+big diﬀerence to be vulnerable about why the team’s culture matters
 
-- Depending on how the conversation has gone so far, ask what
+to you. Consider sharing stories about previous teams you’ve worked
 
-commitments the group can make as a result of the discussion. We
+on where the culture either was or wasn’t good, and why that was
 
-suggest making three. These commitments are crucial to make before
+meaningful for you. If you don’t think you are in the upper right-hand
 
-facing last 8% situations because they will carry employees through
+quadrant—a last 8% culture—share where you think the team is at
 
-hard moments when it is easier to avoid taking risks.
+now, why, and how you might be part of the reason.
 
-No matter how the discussion goes, do not get defensive. This is an
-
-opportunity to inﬂuence the culture just by how you show up: Do you
-
-give employees a voice? Value their opinions? Make them feel safe,
-
-even if you disagree with them? What you do signals to others which
-
-behaviors are acceptable and rewarded—and they’ll remember it. Our
-
-clients ﬁnd these conversations, when done right, to be some of the
-
-richest they have as a team, giving them a concrete way to move the
+- Ask employees where they think the team is on the map. Which

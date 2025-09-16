@@ -1,27 +1,13 @@
-## apps in the world, with hundreds of millions of daily active users.
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05df482331f9d13661689eee782098f65bdb0df6
+title: H08VUQ-PDF-ENG
+---
+## When Companies Fall into the AI-Technology Trap
 
-In 2023, Snapchat introduced My AI, a generative AI chatbot powered
+Take Snapchat. Founded in 2011, it quickly became popular—especially
 
-by OpenAI. Jumping on the AI bandwagon, the company seemed to
+with Gen Z—due to features like disappearing messages and casual
 
-assume that adding this novel feature would naturally enhance the user
-
-experience and boost engagement.
-
-Instead, the move triggered widespread backlash.
-
-My AI was pinned by default to the top of users’ chat feeds and couldn’t
-
-easily be removed. Users didn’t see it as an impressive, novel feature.
-
-Instead, they perceived it as intrusive and creepy, like an unwanted
-
-observer. The backlash was swift: App store reviews were ﬂooded with
-
-one-star ratings citing the unwanted chatbot, and Snapchat’s ranking
-
-and reputation suﬀered. The app’s U.S. iOS rating nosedived to 1.67
-
-stars. Google searches for “delete Snapchat” spiked by 488% in the
-
-months following the rollout, reﬂecting the widespread user discomfort
+visual sharing. At its peak, Snapchat was one of the most downloaded

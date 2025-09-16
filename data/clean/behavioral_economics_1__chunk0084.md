@@ -1,3 +1,9 @@
-## Alternatives." American Economic Review 79(3): 319-337.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 91963650410d0ae423263ef6820202833c50e518
+title: behavioral_economics_1
+---
+# Social Learning., Caltech.
 
-Cohen, R. B., C. Polk and T. Vuolteenaho (2005). "Money Illusion in the Stock Market: The Modigliani-Cohn
+Cochrane, J. (1989). "The Sensitivity of Tests of the Intertemporal Allocation of Consumption to Near-Rational

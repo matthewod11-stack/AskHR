@@ -1,3 +1,9 @@
-# IMPLICATIONS FOR PROFESSIONAL PRACTICE
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: 96ce23a334ee3bb3a4268c1d8f9c553df14ca87b
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# Develop a Complete Program
 
-To this point, we have provided an abundance of information on how we have approached leadership development through sport. In sharing our phi- losophy as well as our biggest successes and challenges, our hope is to bring attention to this very important but under-acknowledged life skill. As sport consultants, it appears commonplace to address issues of conﬁdence, focus, motivation, team building, and communication with our athletes and teams. Fewer have addressed performance enhancement from a leadership- building perspective. After all, we are only beginning to develop models, research initiatives, and guidelines for doing so, as previously illustrated. In addition to addressing leadership development with athletes and teams, conducting statewide programs for high school athletics is another possible source of consulting revenue.
+With more research and professional practice in this area, we ultimately hope to produce a Youth Sport Leadership Development Package. This package would include tested program materials designed to allow athletes, coaches, and athletic directors to implement their own leadership groups, programs, and mentorship experiences in the schools. In this way, a youth sport lead- ership initiative could be more easily implemented statewide and beyond.

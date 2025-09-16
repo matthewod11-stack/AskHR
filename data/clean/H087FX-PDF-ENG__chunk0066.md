@@ -1,15 +1,15 @@
-## HBR / The Big Idea / Long Covid at Work: A Manager’s Guide
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d12255326c6a4f0a7944ad74fbb08678be4d46f9
+title: H087FX-PDF-ENG
+---
+# Reproductive health issues
 
-Chronic pain (including but not limited to headaches and joint, muscle, and chest pain)
+- Flexible work times, in particular around the menstrual cycle and during pregnancy and menopause, when chronic illness symptoms can be exacerbated
 
-- For photosensitivity, allowing employees to wear sunglasses or blue-light-blocking glasses; providing screen-glare reduction tools such as software or screen protectors; keeping overhead lighting lower and adjustable; allowing cameras to be off in meetings
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-- For sound sensitivity, offering quiet workspaces or providing earplugs or noise-canceling headphones
+13
 
-- Talk-to-text software to replace typing
-
-- Ergonomic workstation setups
-
-- Mobility devices to use in the office
-
-- Letting employees work in the physical position most comfortable to them (e.g., reclining, supine, or sitting up, with supports like pillows or braces)
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

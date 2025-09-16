@@ -1,33 +1,17 @@
-# with the client.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ce0ca50292836f29b4236c2d8b8b5473e56df10
+title: H08GNF-PDF-ENG
+---
+# communication skills.
 
-Task: My goal was to secure the deal, which would ensure that I met
+Here’s an example of an answer to the question, “Tell me about a time
 
-and exceeded my quarterly sales quota.
+you failed”:
 
-Action: I prepared a detailed proposal outlining the beneﬁts of our
+Situation: As a sales representative, I was tasked with closing a
 
-product and tailored it to the client’s speciﬁc needs. Then, I met with
+major deal with a potential client. I had been working on this deal for
 
-the client’s decision-makers. During the meeting and presentation,
-
-the client raised several challenges that I didn’t anticipate and was
-
-unable to overcome.
-
-Result: Despite my best efforts to follow up with the client after the
-
-meeting and provide answers to their challenges, I was unable to
-
-close the deal. It was a major setback, but I learned valuable lessons
-
-about negotiation and overcoming objections.
-
-(Takeaways): I also learned that sales is a team effort. Since then,
-
-I have always presented my pitch to my colleagues and manager
-
-ﬁrst and asked them to poke holes in it to help me anticipate
-
-and overcome any challenges. I hope to ﬁnd the same level of
-
-collaboration on your team because I truly believe one person’s win is
+several months and was conﬁdent that I had built a strong rapport

@@ -1,25 +1,45 @@
-# behavior.
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d2b41a6daf3645bbeaf439a8d8cd4e39746c393
+title: H08OJX-PDF-ENG
+---
+# HBR / Digital Article / When Another Senior Leader Is Threatening Your Reputation
 
-Unlike traditional gaslighting, where an individual tries to make
+Adversarial behaviors can take various forms. We interviewed a group
 
-another person doubt their own perceptions, corporate gaslighting
+of retired and transitioning S&P 500 executives who identiﬁed three
 
-creates a negative narrative to convince an entire organization, team,
+common types of adversarial behavior: 1) One retired C-level executive
 
-or structure to doubt an executive’s performance and role. This not
+explained how they faced public intimidation through humiliation
 
-only aims to destroy their professional reputation but also erodes their
+from the head of a business unit because they were implementing
 
-executive conﬁdence. In addition to spreading negative narrative and
+corporate initiatives that had a negative impact on the unit. 2) Another
 
-exhibiting adversarial behavior on their victim, the perpetrator will use
+C-level executive faced a boycott. The executive was being ignored
 
-other techniques to deny and reverse their victim’s position. They can
+and left oﬀ meeting invites where critical decisions were made.
 
-deﬂect confrontation, distort and downplay the severity of their actions.
+Their contributions were actively undermined, dismissed and even
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+silenced. 3) One executive encountered sabotage. Someone within their
 
-2
+organization reported them to the ethics hotline wrongly accusing them
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of giving cash to a vendor. During the investigation, it became clear to
+
+the executive that someone was trying to distance them from the project
+
+and discredit them in the eyes of the decision-making executive.
+
+Each of these scenarios is only a facet of adversarial behavior. In
+
+fact, when facing adversarial behavior something much worse could be
+
+happening in the shadows—corporate gaslighting. Corporate gaslighting
+
+is a tactic used to sow doubt and undermine an executive’s credibility
+
+among their peers and inﬂuential stakeholders, masking adversarial

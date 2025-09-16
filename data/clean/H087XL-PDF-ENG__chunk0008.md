@@ -1,9 +1,17 @@
-# toward others.
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a8f5a5636217f226c88c92d2282c4c26c909256
+title: H087XL-PDF-ENG
+---
+## The Unseen Costs: Cognitive Overload and Emotional Strain
 
-We employed a multi-method approach to test our ideas. First, we
+While past research has documented many beneﬁts of boundary-
 
-conducted a ﬁeld study at a university in South America. We collected
+spanning, we suspected that individuals collaborating across silos may
 
-email exchanges among employees to measure how and how much
+be faced with higher levels of cognitive and emotional demands, which
 
-they collaborate across silos. These emails were anonymized to remove
+could lead to higher levels of burnout. We also wanted to understand
+
+if the exhaustion and burnout they faced may lead to abusive behavior

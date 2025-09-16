@@ -1,23 +1,17 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91143273fe3ec867bfea2fc937af1a300247038b
+title: H07T7V-PDF-ENG
+---
+# on the launchpad.”
 
-appropriate for a company of our scale.” And you look at Alexa and I
+Bezos said a few years back in the shareholder’s letter, “We are
 
-think maybe he was right about that.
+incubating multi-billion dollar failures inside Amazon right now. That’s
 
-But the point is that this obsession with winning and being on top and
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-being right and being dominant, that has to go away.
+14
 
-ADI IGNATIUS:
-
-I want to get to audience questions. One came from Shabana
-
-in Pakistan. What kinds of organizational design, organizational
-
-structures, do you need to foster this sort of geek culture?
-
-ANDREW MCAFEE:
-
-I don’t think org structure is the key because the companies that I
-
-surveyed have very, very diﬀerent org charts. They also have very
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

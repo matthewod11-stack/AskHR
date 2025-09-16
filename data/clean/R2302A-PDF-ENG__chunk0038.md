@@ -1,31 +1,47 @@
-# HBR / Magazine Article / GitLab’s CEO on Building One of the World’s Largest All-Rem…
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3ee555bfc0bb7d436d5b3cb7e18034c0657b65a
+title: R2302A-PDF-ENG
+---
+# strategizing and team building.
 
-In our view, an in-person workplace operates well until you grow out of
+In some areas we follow the same best practices that other thoughtful
 
-a single room. Once you spread to other ﬂoors and locations, the work
+companies do. For example, we work with team members to create a
 
-becomes more virtual anyway. Hybrid, meanwhile, is the worst of both
+formal career and growth plan. That helps even the most far-ﬂung to
 
-worlds, because it creates a divide between those in the oﬃce and those
+feel safely tethered. In other managerial realms we are establishing new
 
-outside it. I think we can all admit that meetings with half the people in
+standards. Consider team meetings. Most of ours last 25 minutes, which
 
-a room and the other half on Zoom are typically disastrous.
+forces greater eﬃciency. Notes are taken collaboratively in real time in
 
-At GitLab we believe that tech-enabled distributed teams are the future
+a Google Doc, which helps clarify and record the resulting action items
 
-of knowledge work. We’ve been able to hire exceptional talent from
+while giving people who couldn’t attend greater insight into what they
 
-all over the world and introduce our employees to a more ﬂexible
+missed. We’ve distilled these and many other ideas into something we
 
-and productive kind of teamwork that has propelled our company to
+call “TeamOps” and have made it public as a guide for any organization
 
-new heights. But our success has rested on careful adherence to the
+—remote, hybrid, or colocated—that’s looking to improve and speed up
 
-principles I’ve described. We hope that more organizations will follow
+its collaborative decision-making and execution. Since October 2022 we have also oﬀered a TeamOps certiﬁcation externally.
 
-our lead and learn how to run an all-remote workplace well.
+- • •
 
-A version of this article appeared in the March–April 2023 issue of Harvard Business Review.
+As more knowledge-work companies consider how they want to operate
 
-Sid Sijbrandij is the CEO of GitLab.
+in a post-Covid world, it’s been surprising to see so many insisting
+
+that employees return to an oﬃce, either full- or part-time, despite the
+
+widespread productivity jumps that occurred during lockdowns.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,7 @@
-## Disability as a Source of Competitive Advantage
-
-Employing people with disabilities can significantly improve an organization. by Luisa Alemany and Freek Vermeulen
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c12192985fd411f4286397c0174fa9f6f78bbc24
+title: R2304H-PDF-ENG
+---
+# Talent Management

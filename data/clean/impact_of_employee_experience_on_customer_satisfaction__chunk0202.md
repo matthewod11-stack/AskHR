@@ -1,7 +1,7 @@
-## Fig. 18 Employee Net Promoter Score Atlas Copco
-
-Typically, one of the most essential indicators used to asses employee satisfaction
-
-and employee engagement is the eNPS which is based on question 10 in the author’s
-
-survey, “I would recommend this company to people I know as a great place to work”.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: d45369dd5e2acc347e8bdc6ead67c11d70bf8165
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 3.3.1. Employee Experience Analysis

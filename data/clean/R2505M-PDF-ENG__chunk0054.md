@@ -1,13 +1,9 @@
-## to the United Nations Environment Programme, about 37% of global
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c954e9d76be14cf54469385eeaf13534774c1b4e
+title: R2505M-PDF-ENG
+---
+## social good, and sustainability for Canadians through standards
 
-carbon emissions are associated with the built environment, of which
-
-38% could be reduced through “circular” building techniques. CSA
-
-embarked on a research project that applied circular design principles
-
-to the built environment, such as adaptive reuse of buildings and
-
-putting discarded material from buildings back into the economy.
-
-There are many players in the built environment, including architects,
+development. The beneﬁts of better standards are sizable. According

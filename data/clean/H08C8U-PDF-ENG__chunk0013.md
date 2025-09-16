@@ -1,35 +1,35 @@
-## nearly impossible and leakage inevitable.
+---
+source_path: H08C8U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85388e4d77aa862cca8cf9db011f27e24b2f6e49
+title: H08C8U-PDF-ENG
+---
+# HBR / Digital Article / How to Set Transformation Targets That Actually Drive Change
 
-- 4. Set more than cost-based targets
+the transformation. For these organizations, the investment made
 
-Transformation requires more than cutting costs. Generating superior
+to improve the company’s budgeting and planning processes will
 
-shareholder returns necessitates sustained proﬁtable growth, which
+pay dividends beyond the near-term improvement targeted by the
 
-cannot be achieved through cost-cutting alone. Therefore, leadership
+transformation. For companies that already have a rigorous planning
 
-should set targets across multiple dimensions to prevent managers from
+process in place, this approach leverages the company’s existing
 
-making short-term cost decisions that jeopardize the company’s long-
+operating system and leadership forums to drive the transformation.
 
-term success and, as important, prevent the organization from equating
+Using the company’s budget or operating plan to monitor success also
 
-transformation with slashing costs.
+avoids double counting. Because the baseline is inherently subject
 
-We have all seen or heard of companies that have cut costs but
+to interpretation and disconnected from the company’s budget or
 
-failed to see an increase in market value. In years past, Eastman
+operating plan, the same dollar of savings can be counted multiple
 
-Kodak, Yahoo!, and more recently Xerox, all set aggressive cost
+times across diﬀerent initiatives. Actions taken in one area can often
 
-targets and even met them, only to see their competitive performance
+drive savings in other areas, making it contentious where a speciﬁc
 
-deteriorate and their market values decline. That’s typically because
+dollar of savings gets counted. Rather than settle these disputes, savings
 
-cost-based targets often prompt companies to take actions that generate
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are often counted multiple times, making performance monitoring

@@ -1,11 +1,15 @@
-## stage of the innovation process—from inception to integration to
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 02dbb87451d3ce9f25ef8bf76704ead677a2e691
+title: R2306H-PDF-ENG
+---
+# Timo Kuilder
 
-implementation—executives will either water down “deviant” ideas to
+Many corporate CEOs are unhappy with the level of innovation they’re
 
-make them ﬁt within existing businesses or crush them altogether.
+getting for the billions they pour into R&D. One root cause of the
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+low return, a large body of research suggests, lies in the managerial
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+tendency to treat novel ideas as aberrations to be resisted. At each

@@ -1,7 +1,7 @@
-# Best Practices
-
-Finding the right prompt requires tinkering. Language Studio in Ve(cid:457)ex AI is a pe(cid:455)ect place to
-
-play around with your prompts, with the ability to test against the various models.
-
-Use the following best practices to become a pro in prompt engineering.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 9d06ce8df1bbe72ed0a9c2f3966962ca138aeaab
+title: prompt
+---
+# task at hand.

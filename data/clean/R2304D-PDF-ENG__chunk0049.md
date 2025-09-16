@@ -1,31 +1,19 @@
-# input in the design of new technologies.
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e900f439fa2f1b59b41eda6d9de8217a864f854a
+title: R2304D-PDF-ENG
+---
+## Another increasingly important bargaining
 
-Ask yourself: What’s good for everybody? The holy grail in labor
+topic is how to introduce technology into
 
-negotiations is a contract that gives workers what they want and
+the workplace, especially given shifts in manufacturing technologies
 
-strengthens the company. If you see a negotiation as a zero-sum game
+and advances in artiﬁcial intelligence. Unions like SAG-AFTRA in the
 
-where any gain for workers costs you, then you’ll miss opportunities to
+entertainment industry and UNITE HERE in hospitality are negotiating
 
-invest in worker success that will beneﬁt the company. There are no
+with companies like MGM Resorts, Caesars, and others to get advance
 
-cookie-cutter approaches here, so you and the union have to innovate
-
-to ﬁnd shared wins. (And if you’ve built a healthy negotiation process,
-
-you’ll ﬁnd it’s easier to innovate from a place of trust.) Eventually, yes,
-
-labor negotiations come down to tough trade-oﬀs. Experiment where
-
-you can, and make sure you know your limits.
-
-If you’re concerned that the union will protect weak performers, say
-
-no to contract terms that do that (for example, allowing for promotions
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+notice of technological plans and to create opportunities for worker

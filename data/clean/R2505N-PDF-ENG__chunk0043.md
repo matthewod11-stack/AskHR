@@ -1,23 +1,11 @@
-# Be Patient
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c536c1253911f7a98894cbca3dd050c0393b6d84
+title: R2505N-PDF-ENG
+---
+## HBR / Magazine Article / Why Aren’t I Better at Delegating?
 
-Even for leaders with the best of intentions, overcoming these
+business units that adopted it boasted year-on-year organic growth rates
 
-challenges will take time. When you’re new to context-setting, you will
-
-crave the dopamine that activity-based work has long provided you.
-
-Team members will invariably ask questions, and some will struggle to
-
-stop themselves from frequently checking in or resisting when you hand
-
-decisions back to them. Bosses and clients may question how much you
-
-delegate until you’ve proven your decisions are sound. And your own
-
-beliefs about the value you bring to your organization will be tricky to
-
-shift. However, eﬀective delegation is one of the most important skills
-
-for any leader to learn. If you stick with it, you’ll get so much more out
-
-of your team members—and yourself, as a developer of talent and as a
+that surpassed those of their competitors.

@@ -1,3 +1,11 @@
-# THE INFLUENCES OF COGNITIVE PSYCHOLOGY
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ee99496f3ab6f45cd99fe2f2b9b167c3b7b1d485
+title: untitled
+---
+# THE EFFECTS OF INSTRUCTIONAL PSYCHOLOGY
 
-Cognitive psychology has had a major inﬂuence on the devel- opment of educational psychology. In a seminal chapter in the Annual Review of Psychology,1977,Wittrock and Lumsdaine pointed out the importance of a cognitive perspective and the somewhat bankrupt contributions of behaviorism for further development in instructional and educational psychology. Thechapterhadastrongimpactoneducationalpsychologists. Educational psychology was ﬁnally on the road to being a
+The beginnings of instructional psychology as a ﬁeld of study are often traced to World War II and its demand for rapidly trained soldiers and ofﬁcers who could operate more techni- callyadvancedequipment.WhenArthurMeltondevelopedthe Air Force Human Resources Lab (AFHRL), he and the people he trained and worked with, such as Robert Glazer and Robert Gagne, helped to develop guidelines for learning, retention, and transfer of new knowledge and skills based on psycholog- ical principles. After the war, AFHRL remained a vibrant research and development center, although many of its re- searchers and developers went into academic positions. Their workcontinuedasthepostwarera’sGIbillgavelow-costloans andscholarshipstoreturningmilitarypersonneltofurthertheir education. Methods were needed to deal with this more di- verse and expanded population of students in America’s high schools, community colleges, and universities.
+
+Another boost to funding and interest in instructional psy- chology occurred when the Russians launched an unmanned space vehicle, Sputnik, in 1957. Along with the fears that Americawaslosingitstechnologicalsuperioritywasacallfor massive increases in science and mathematics curricula and courses,andeffectiveteaching/learningmethods.Buildingon techniques developed during World War II, new types of audio-visual aids were developed, such as motion picture pro- jectorsandaudiotapes(Glaser,1962).Giventhedominanceof behaviorism in psychology during much of this period, it also witnessed the development of programmed-instruction teach- ing machines and, ultimately, computer-assisted instruction. However, this is also the period during which the trend began towardadaptingclassroompracticestotheneedsofindividual students (Gage, 1964). The ﬁeld of educational psychology, which absorbed instructional psychology, was deﬁnitely on center stage. However, there was a lingering feeling that even with the modern technologies, perhaps we were missing a big piece of the learning/education/transfer puzzle.

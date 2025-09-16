@@ -1,1 +1,9 @@
-# Methods
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: c098b2960bb9b56de056dc5f362cbe0713f4724c
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# Roberson and Perry
+
+posit leader inclusiveness to be a relational approach that operates according to norms of input and shared decision-making, even when members’ con- tributions may be divergent from those of the leader or others in the team. Likewise, diversity researchers emphasize the importance of work group members having a sense of uniqueness, such that their distinct characteristics and contributions are considered to be valuable to the group’s success. Yet, rather than simply acknowledge members’ individuality, leader inclusiveness takes action to ensure that decision-making power is distributed across group members and members have a say in how the group’s work is done. Ac- cordingly, we expect leaders to describe behaviors that display an openness to member input, even when their perspectives and opinions may diverge from the norm, to be highlighted as critical to the enactment of inclusive leadership.

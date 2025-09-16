@@ -1,7 +1,11 @@
-## (polite), conscientious (self-controlled), and curious (more interested in
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1264d7f75c38832d0371f47492fddc574bc12064
+title: H08UGX-PDF-ENG
+---
+# HBR / Digital Article / Why Leaders Should Bring Their Best Self—Not Their Whole Self…
 
-others than in treating others like an audience). While some expressions
+Tim Judge’s seminal meta-analysis found that leaders who frequently
 
-of emotion may build rapport, too much transparency blurs the line
-
-between leader and peer, diminishing the professional distance that
+display negative emotions are seen as less competent and less stable. Moreover, this study found that the most eﬀective leaders are agreeable

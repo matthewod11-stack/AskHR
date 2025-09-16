@@ -1,21 +1,21 @@
-## HBR / Magazine Article / Are You Really a Good Listener?
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97dbc2f4297abade14375f8f530ab1be89da26a5
+title: R2503N-PDF-ENG
+---
+# Chiara Zarmati
 
-However, studies also show that such practices often are ineﬀective—
+Ample research has shown that when people believe that their
 
-in part because many managers simply aren’t good listeners. When
+managers and senior leaders are truly listening to their ideas and
 
-we conducted a comprehensive review of 117 academic papers on
+concerns, work relationships grow stronger, engagement rises, and performance improves. That’s why bosses have regular one‑on-ones with their direct reports, new division heads go on listening tours, and
 
-workplace listening—whether it happened in individual conversations
+CEOs host all-staﬀ meetings and town halls.
 
-or in team or larger meetings—we found that this skill is far easier to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-describe than to display.
+1
 
-Why? Because listening is an intentional activity that requires empathy,
-
-patience, and the ability to respond to what you hear. And because
-
-it can be so mentally taxing, particularly when the subject matter
-
-is complex or emotionally charged, people often take shortcuts or
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

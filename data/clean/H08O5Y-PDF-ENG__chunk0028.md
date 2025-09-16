@@ -1,9 +1,11 @@
-# efficiency across business units.
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff07c2f9c189190048c90e769859ae7e872fa039
+title: H08O5Y-PDF-ENG
+---
+# HBR / Digital Article / A Guide to Updating Your Resume When Moving from Public to P…
 
-Analyze job descriptions in your target industry to identify commonly
+Led annual ﬁnancial planning and forecasting, managing a $50M
 
-used terms and tailor your resume accordingly. AI tools such as Copilot,
-
-ChatGPT, or Gemini can also help you translate your current work into
-
-language that will resonate with private sector employers.
+operating budget to optimize P&L performance and drive cost

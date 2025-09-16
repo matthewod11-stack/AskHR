@@ -1,21 +1,27 @@
-# Affective Trust in the Leader
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 41a4606ba618ae24f5177f217563df122da702ff
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Cognitive Trust in the Leader
 
-12
+9
 
-3740
+2180
 
-.30
+.22
 
-.26
+.18
 
-.33
+.27
 
-.34
+.25
 
-.06
+.05
 
-48.52
+65.42
 
-.26
+.19
 
-.42
+.32

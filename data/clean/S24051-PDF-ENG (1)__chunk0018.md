@@ -1,17 +1,27 @@
-# manufacturing to software development.
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: cfa3432939b29569b12c1936c08cea01362fbfc0
+title: S24051-PDF-ENG (1)
+---
+## standard work routines with performance monitoring and metrics that
 
-Rob Tringali is a sports photographer who has captured everything from the Super Bowl and the Olympics to obscure sporting events and high school football games.
+ﬂagged issues and opportunities. Frontline managers were trained to
 
-At McKinsey, we have created a new team operating system—known as
+collaborate closely with teams from a range of disciplines to resolve
 
-the Way We Work (WWW)—that reframes, reshapes, and improves on
+problems and drive continuous improvement.
 
-the principles of agile teamwork. To do their jobs well, our team leaders
+In the 1970s and 1980s, as the software industry started to take shape,
 
-need to be able to bring together the best thinking, analysis, coding,
+the idea of a team operating system moved from the physical to the
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+digital world. Developers began using signals to track the quality and
 
-4
+performance of their code, enabling them to adapt quickly when their
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+work generated an error. Ultimately, in the late 1990s and early 2000s,
+
+this work gave rise to agile, one of today’s foremost team operating
+
+systems and a mainstay of complex operations ranging from chip

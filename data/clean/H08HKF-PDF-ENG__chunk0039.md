@@ -1,13 +1,23 @@
-# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d4a976d44a64f0da94cf8b2eeaa94599678bf90
+title: H08HKF-PDF-ENG
+---
+# resources than implementation.
 
-checklist is not exhaustive — and of course there are more details on
+Many organizations have started building their RAI programs and met
 
-how to develop each of the elements listed above — we hope it helps to
+with diﬃculty in deploying them. In most every case, this is either
 
-map out the RAI terrain in enough detail such that organizations know
+because existing elements of the program need augmentation or there
 
-where they need to go.
+are elements that have not been started because there isn’t suﬃcient
 
-This article was originally published online on December 5, 2024.
+knowledge of what rolling out a robust RAI program requires. While this
 
-Reid Blackman, PhD is the author of Ethical Machines (Harvard Business Review Press, 2022). As the founder and CEO of Virtue, an AI ethical risk consultancy, he and his team work with companies to design, implement, scale, and maintain AI ethical and regulatory risk programs. His work has been proﬁled by The Wall Street Journal, the BBC, CNN, Fox News, and Forbes. Reid also advises the government of Canada on their federal AI regulations, has been an external senior adviser to the Deloitte AI Institute, and served on Ernst & Young’s external AI Advisory Board.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

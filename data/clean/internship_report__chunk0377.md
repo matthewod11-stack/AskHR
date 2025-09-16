@@ -1,31 +1,57 @@
-## Figure 5: On-Job & External Training Arrangement Analysis
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 09df9f6e991bcf85020a6079cbe8e71e76b08e06
+title: internship_report
+---
+## 4.1.5 On-Job & External Training Arrangement Analysis
 
-From the above figure (Fig: 5) it demonstrates that only 18% employees are getting on-job
+(cid:49)(cid:52)(cid:48)(cid:37)
 
-training which are arranged by the HR department. Rest of the employees is not getting either
+(cid:84)(cid:114)(cid:97)(cid:105)(cid:110)(cid:105)(cid:110)(cid:103)(cid:32)(cid:65)(cid:114)(cid:114)(cid:97)(cid:110)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:32)(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)
 
-on-job training or external training. There is a proverb that “CFO asked CEO-What happened if
+(cid:49)(cid:50)(cid:48)(cid:37)
 
-we invest in developing our people and they leave us? CEO said-What happens if we don‟t, and
+(cid:55)(cid:51)(cid:37)(cid:32)
 
-they stay?” From this statement it is clearly understandable that without continuous training and
+(cid:49)(cid:48)(cid:48)(cid:37)
 
-development of people will be burden for the organization after a certain period of time. Finally I
+(cid:56)(cid:48)(cid:37)
 
-can say that addressing weaknesses. Most employees have some weaknesses in their workplace
+(cid:54)(cid:48)(cid:37)
 
-skills. A training program allows you to strengthen those skills that each employee needs to
+(cid:53)(cid:53)(cid:37)(cid:32)
 
-improve. A development program brings all employees to a higher level so they all have similar
+(cid:52)(cid:48)(cid:37)
 
-skills and knowledge. As a result, on-job and external training will help organization in a way
+(cid:49)(cid:56)(cid:37)(cid:32)
 
-that Improvement in performance and productivity of employees. In addition to external training,
+(cid:50)(cid:48)(cid:37)
 
-internal training is a pivotal way to share best practice within your organization, develop
+(cid:48)(cid:37)(cid:32)
 
-common working procedures and strengthen internal relationships.
+(cid:49)(cid:56)(cid:37)(cid:32)
 
-HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:52)(cid:56)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
+(cid:57)(cid:37)(cid:32)
 
-(cid:32) (cid:32) (cid:32) (cid:32)
+(cid:48)(cid:37)
+
+(cid:48)(cid:37)(cid:32) (cid:48)(cid:37)(cid:32)
+
+(cid:49)(cid:56)(cid:37)(cid:32)
+
+(cid:57)(cid:37)(cid:32)
+
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
+
+(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
+
+(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
+
+(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
+
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121) (cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
+
+(cid:79)(cid:110)(cid:32)(cid:74)(cid:111)(cid:98)(cid:32)(cid:84)(cid:114)(cid:97)(cid:105)(cid:110)(cid:105)(cid:110)(cid:103)
+
+(cid:69)(cid:120)(cid:116)(cid:101)(cid:114)(cid:110)(cid:97)(cid:108)(cid:32)(cid:84)(cid:114)(cid:97)(cid:105)(cid:110)(cid:105)(cid:110)(cid:103)

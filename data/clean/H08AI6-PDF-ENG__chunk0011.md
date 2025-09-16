@@ -1,29 +1,71 @@
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0eec1b1bad04255dc5b5f124d4ab130a1a5dcfd2
+title: H08AI6-PDF-ENG
+---
 # HBR / Digital Article / Research: How Family Motivates People to Do Their Best Work
 
-management. People don’t tend to overtrain as much because they
+again found that family motivation increased employees’ work eﬀort in
 
-haven’t got the time. People become better athletes when they have
+ways that led to enhanced productivity.
 
-babies because they become able to put things into context.”
+The reasons why family energizes extra work eﬀort are manifold. The
 
-These focus and time management skills extend into the workplace,
+most straightforward is that employees want to ensure that they have
 
-as well. Ironically, mothers are often advised not to mention their
+the ﬁnancial resources to sustain their family. But family motivates
 
-children in job interviews, for fear that they may be judged to be
+many to work hard for reasons beyond ﬁnances. Parents describe
 
-less committed to their careers. Yet such old-school thinking is in
+wanting to do their best at their job because they care about being a
 
-direct conﬂict with what the research actually shows: family can
+role model, to illustrate the value of a strong work ethic, or to teach their
 
-motivate work by prompting people to become more absorbed in
+children positive career strategies—like Serena Williams’ desire to show
 
-their work. Employees who have a family anticipate having after-work
+her daughters how to embrace diﬀerent interests across careers. These
 
-domestic responsibilities that will take their time. Having these must-
+dynamics emerged in qualitative interviews researchers conducted in
 
-do responsibilities after work actually increases employees’ focus and
+South Asia to explore the nature of family motivation further. One
 
-commitment while at work. Far from serving as a distraction, research
+employee said: “My kids are everything to me. I want to give them
 
-shows that employees with family responsibilities report more work
+the best and also want to be [a] role model for them. I want to teach
+
+them that one should [honor] their responsibility and earn a respectable
+
+living.”
+
+Work can also be a source of pride, as employees share their
+
+accomplishments to make family members proud. As another South
+
+Asian employee shared, “My family feels pride in my work, my earning
+
+capabilities, and my growth in my career. It is the encouragement and
+
+backing from my family that motivate me to grow.” Just as Serena
+
+Williams looked forward to her daughter watching her work, these
+
+employees delighted in seeing the pride in their accomplishments
+
+reﬂected in their families’ eyes.
+
+Family can also give employees a bigger-picture perspective that
+
+can help them to overcome challenges at work. For instance, Mark
+
+Buckingham, a physiotherapist who worked with athletes as they
+
+became new parents, noted: “Babies put a bad day or a poor
+
+training session into context. Oddly, they make athletes better at time
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

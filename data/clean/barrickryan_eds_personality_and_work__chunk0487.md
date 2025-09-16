@@ -1,13 +1,15 @@
-## workplace. Annual Review of Psychology, 53, 279–307.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 7a7bbec9e6a1483749fdafe6e840d36b062f82ed
+title: barrickryan_eds_personality_and_work
+---
+# 144 PERSONALITY AND WORK
 
-Brockner, J., & Higgins, E. T. (2001). Regulatory focus theory: Implica- tions for the study of emotions at work. Organizational Behavior and Human Decision Processes, 86, 35–66.
+Bohle, P., & Tilley, A. J. (1993). Predicting mood change on night shift.
 
-Bryant, F. B., Yarnold, P. R., & Grim, L. G. (1996). Towards a measure- ment model of the Affect Intensity Measure: A three-factor model. Journal of Research in Personality, 30, 223–247.
+Ergonomics, 36, 125–133.
 
-Buunk, B. P., & Verhoeven, K. (1991). Companionship and support at work: A microanalysis of the stress-reducing feature of social inter- action. Basic and Applied Social Psychology, 12, 243–258.
+Brief, A. P., Burke, M. J., George, J. M., Robinson, B. S., & Webster, J. (1988). Should negative affectivity remain an unmeasured variable in the study of job stress? Journal of Applied Psychology, 73, 193–198. Brief, A. P., Butcher, A. H., & Roberson, L. (1995). Cookies, disposition, and job attitudes: The effects of positive mood-inducing events and negative affectivity on job satisfaction in a ﬁeld experiment. Orga- nizational Behavior and Human Decision Processes, 62, 55–62.
 
-Carver, C. S., & White, T. L. (1994). Behavioral inhibition, behavioral ac- tivation, and affective responses to impending reward and punish- ment: The BIS/BAS Scales. Journal of Personality and Social Psychology, 67, 319–333.
-
-Chen, P. Y., & Spector, P. E. (1991). Negative affectivity as the underlying cause of correlations between stressors and strains. Journal of Applied Psychology, 76, 398–407.
-
-Costa, P. T., & McCrae, R. R. (1985). The NEO Personality Inventory man-
+Brief, A. P., & Roberson, L. (1989). Job attitude organization: An ex- ploratory study. Journal of Applied Social Psychology, 19, 717–727. Brief, A. P., & Weiss, H. M. (2002). Organizational behavior: Affect in the

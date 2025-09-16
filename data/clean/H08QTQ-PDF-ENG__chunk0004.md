@@ -1,11 +1,29 @@
-# equally in practice.
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ebe1ebaad7c9d62dbce0decb431d7066c6397a3
+title: H08QTQ-PDF-ENG
+---
+## HBR / Digital Article / The Right Way to Implement Stretch Assignments
 
-Kayla’s story comes from a large organizational case study conducted
+When Kayla asked her manager about new projects, his response
 
-at our lab, and her experience is far from unique. As employees
+surprised her. “I’m not really sure what you’re working on,” he admitted.
 
-build their careers and climb internal ladders, stretch assignments can
+“I don’t bother you because you did great work last year, so we just
 
-play an outsized role in shaping their trajectory. These projects are
+assume you’re continuing to do great work.”
 
-frequently tied to leadership visibility, skill development, and career
+What her manager saw as a compliment—hands-oﬀ trust—had the opposite eﬀect on Kayla. On her team, where men outnumbered women four to one, her male peers were regularly oﬀered stretch assignments
+
+that helped them build specialized skills, gain management experience,
+
+and raise their visibility. Despite having the same credentials, Kayla was
+
+quietly passed over.
+
+For organizations, stories like this should be a wake-up call: While
+
+stretch assignments are often discussed as powerful tools for developing
+
+talent and advancing careers, they don’t always deliver those beneﬁts

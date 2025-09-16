@@ -1,11 +1,13 @@
-## HBR / The Big Idea / What Defines a Successful Organization?
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05a1317f3162dd1ae9aa1347777bac7dbac6dfac
+title: H0785Z-PDF-ENG
+---
+# functional, and geographic structures.
 
-In the 1990s, of course, the internet changed everything. Marc
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-Andreessen co-created a browser that made the web useful for
+3
 
-commercial purposes, coders began developing software and then
-
-algorithms to make decisions more quickly than humans can, and
-
-computer processing capacity became increasingly cheaper and more
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

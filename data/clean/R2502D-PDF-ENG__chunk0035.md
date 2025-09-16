@@ -1,9 +1,17 @@
-## an opportunity, because as the category leader, Global Foods could not
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93183c0805902fd6abd30fab8f780f0872e2bfd0
+title: R2502D-PDF-ENG
+---
+## HBR / Magazine Article / Precedents Thinking
 
-only alter perceptions of the category but also increase its competitive
+Another technique is to keep asking Why? Global Foods’ leaders spent
 
-advantage in the process. Thus the company’s leaders changed their
+a lot of time wondering why their company had been singled out. They
 
-framing from How should we respond to an existential threat to our
+ultimately agreed that the reason was simple: They were the strongest
 
-business? to How can we turn a growing health-related stigma to our
+brand in a category whose products were no longer perceived as an
+
+acceptable “guilty pleasure.” They soon realized that this was actually

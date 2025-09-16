@@ -1,11 +1,47 @@
-## of its older members with the fresh perspectives and up-to-date supplier
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4203ef20295273bba10943f9cc6f7c29c8f9e695
+title: H06WA9-PDF-ENG
+---
+## With ﬁve generations together in U.S. workplaces for the ﬁrst time
 
-network of its younger ones. Such a group can use its age diversity to
+(Silent Generation, Baby Boomers, Gen X, Millennials, and Gen Z),
 
-build something no generation could on its own.
+and similar dynamics playing out in other parts of the world, tensions
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+are mounting. The anger and lack of trust they can cause hurt team
 
-2
+performance by limiting collaboration, sparking emotional conﬂict, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leading to higher employee turnover and lower team performance.
+
+And a lack of awareness and understanding of age issues can drive
+
+discrimination in hiring and promotion, leading to lawsuit risks.
+
+But many organizations don’t take steps to address generational issues.
+
+While companies have recently renewed their diversity eﬀorts, only
+
+8% of organizations include age as part of their DEI strategy. And of
+
+organizations that do address it, the strategy has often been to simply
+
+encourage those of diﬀerent generations to focus on their similarities or
+
+to deny the reality of their diﬀerences altogether.
+
+This is a missed opportunity. Age-diverse teams are valuable because
+
+they bring together people with complementary abilities, skills,
+
+information, and networks. If managed eﬀectively, they can oﬀer better
+
+decision-making, more-productive collaboration, and improved overall
+
+performance — but only if members are willing to share and learn
+
+from their diﬀerences. Think of a multigenerational team of product
+
+developers, merging the seasoned experience and broad client network

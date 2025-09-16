@@ -1,29 +1,27 @@
-## HBR / Digital Article / Competing in the New Era of Industrial Policy
+---
+source_path: H08T0G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e8a0b0a6dec6234593c0eb98cf11c14cefba0ae
+title: H08T0G-PDF-ENG
+---
+# HBR Staff Using AI
 
-Global commerce has entered an era where competition is directly—and
+The ongoing trade war has dominated conversations in boardrooms
 
-profoundly—shaped by government industrial policy.
+and newsrooms. On-again, oﬀ-again tariﬀs and economically bellicose
 
-It used to be that legislative agendas and macro policy issues like
+statements have led to uncertainty, confusion, and even fear. Amid
 
-trade policies or environmental initiatives were long-cycle issues about
+the market turmoil and operational confusion of the last few months,
 
-which executives could say, “Oh, let’s see what happens in the next G7
+it’s possible to lose sight of a profound underlying change of which
 
-meeting.” They no longer have that luxury. We’ve come a long way, in what seems a very short time, from the days when U.S. oﬃcials could be
+these are a manifestation. Even after things calm down (as they will,
 
-counted on to proclaim that it was not the job of government to “pick
+sooner or later), businesses will have to face a new structural reality:
 
-winners and losers” or when leaders of advanced economies routinely
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-and sincerely said government policy should simply work to ensure a
+1
 
-“level playing ﬁeld.”
-
-Focused or fuzzy, brilliant or bone-headed, industrial policies are here.
-
-Business leaders thus need to know how government aﬀects their
-
-organizations—that is, how industrial policy might endanger value
-
-creation, strengthen it, or create opportunities to expand it.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

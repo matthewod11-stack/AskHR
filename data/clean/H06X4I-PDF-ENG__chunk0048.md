@@ -1,17 +1,11 @@
-# with your progress.
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebbb04c1de83992007a9098c76e94749277d6e21
+title: H06X4I-PDF-ENG
+---
+# HBR / Digital Article / Remote Work Has Opened the Door to a New Approach to Hiring
 
-Finally, many organizations may worry about information leakage,
+For those ﬁrms running experiments, we would be grateful if you let us
 
-especially around trade secrets or intellectual property. However,
-
-even before the pandemic, freelancing and contest platforms evolved
-
-to address many of these problems, and their lessons are useful
-
-for managers thinking about hiring any remote worker, not just
-
-a freelancer. Many platforms contain support for non-disclosure
-
-agreements and other legal agreements that can help to protect IP. It’s
-
-also possible that the decontextualization that helps to facilitate using
+know how things go. Feel free to send us an email (cstanton@hbs.edu)

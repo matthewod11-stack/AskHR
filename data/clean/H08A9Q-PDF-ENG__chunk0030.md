@@ -1,5 +1,13 @@
-## management, such as data gathering, ingestion, and analysis, which
+---
+source_path: H08A9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c8c2c644bb1af0e05421c854e58641285c9ee9f
+title: H08A9Q-PDF-ENG
+---
+# added activities.
 
-required upskilling some employees’ technical skills. Other employees
+For example, the consumer product company needed to redeﬁne
 
-were tasked with managing retailer relationships and received
+roles so they were focused on more speciﬁc outcomes from the
+
+new processes. They automated some activities around promotions

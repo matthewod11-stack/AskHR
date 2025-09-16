@@ -1,11 +1,13 @@
-# HBR / Digital Article / Why Walmart Expanded Parental Leave — and How to Convince…
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c16b568af9c43d6c06fa1e16d9cb8f2bf2c84deb
+title: H0477B-PDF-ENG
+---
+# policy for adoptive parents.
 
-This matters because America remains one of just three countries
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-without paid maternity leave, and Walmart is America’s biggest
+1
 
-employer. With 1.5 million U.S. employees, its workforce is bigger than
-
-the populations of roughly a dozen U.S. states. While the policy only
-
-applies to full-time workers, that is still hundreds of thousands of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

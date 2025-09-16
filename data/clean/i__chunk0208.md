@@ -1,21 +1,11 @@
-## macroeconomic factors and market competition.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: b4fa90457e0ad9fa59e6d343ebbe7353900c6d2b
+title: i
+---
+# relationship between different factors to both voluntary turnover and involuntary turnover.
 
-45
+Involuntary turnover should also be understood by the breakdown of demographic attributes
 
-At the more advanced level, the workforce planning analysis investigates thorough labor
-
-market supply/demand trends, makes comparisons with the existing labour profile of the
-
-organization for gap analyses and forecast future needs and trends. The predictive analysis,
-
-therefore, provides organization with a labour deficit and surplus anticipation.
-
-- 2. Talent sourcing analytics
-
-Talent sourcing is defined by Isson et al. (2016) as the <first stage of the talent acquisition
-
-process=. It involves the process of recognizing and locating potential candidates via various
-
-recruiting channels. Among a diverse range of sourcing channels online (social media, big data
-
-sourcing, niche sites, corporate sites, job board) and offline channels (recruiting at targeting
+and performance metrics; in addition, this analysis should also be performed by other

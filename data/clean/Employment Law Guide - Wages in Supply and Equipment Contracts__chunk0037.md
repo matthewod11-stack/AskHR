@@ -1,9 +1,7 @@
-# Notices and Posters
-
-Every employer performing work covered by the PCA is required to post the "Employee Rights on Government Contracts"(https://www.dol.gov/agencies/whd/posters/government-contracts/sca) notice (including any
-
-applicable wage determination) at the site of the work in a prominent and accessible place where it may be
-
-easily seen by employees. There are no size requirements for the poster. The Employee Rights on
-
-Government Contracts poster is also available in
+---
+source_path: Employment Law Guide - Wages in Supply and Equipment Contracts.md
+pages: n/a-n/a
+chunk_id: cc3f2acf50422c7f400208c59ef542144ed3a5f5
+title: Employment Law Guide - Wages in Supply and Equipment Contracts
+---
+## Recordkeeping, Reporting, Notices and Posters

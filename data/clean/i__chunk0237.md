@@ -1,9 +1,13 @@
-# Employee compensation and reward
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 05dd36125b446a5622bdde6ea195fd3700550a21
+title: i
+---
+# Employee Performance Management
 
-The compensation to an employee can be in monetary or in monetary form. The analysis can
+The performance management includes various stages, from developing, managing, and
 
-be in market survey form to benchmark with other competitors in the market, and the regression
+evaluating employee performance. It is an <on going process of assessment and feedback=. The
 
-model can be used to estimate the market pay line and other predictors of pay level. The
-
-company-ratio is introduced to compare employee’s pay rate in comparison with others
+analysis includes various linear and non-linear regression models.

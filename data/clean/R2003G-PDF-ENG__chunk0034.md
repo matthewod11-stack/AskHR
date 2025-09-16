@@ -1,7 +1,15 @@
-# require sophisticated skills.
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aaa30245467d9e670331f16b584d79012af9441f
+title: R2003G-PDF-ENG
+---
+## eﬀect on the company’s strategy, such as academic research, medical
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+advances, and the activity of competitors. He also interacts with
 
-7
+regulatory agencies regarding approval of the company’s emerging
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+products. Greg has no direct reports, but he does have important
+
+responsibilities and a constantly changing portfolio of projects that

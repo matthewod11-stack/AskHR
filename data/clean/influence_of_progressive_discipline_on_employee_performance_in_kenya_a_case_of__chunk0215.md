@@ -1,7 +1,11 @@
-# Gender of Respondents
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: d2c92aeeecd1560fe9343c2a4e45cd2240eacf69
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Age distribution
 
-The study sought to determine the gender of the respondent and the therefore respondent to indicate their gender. The study found that majority of the respondent as shown in Figure 4.1 by 52.45% were males whereas 47.55% of the respondent were females, this is an indication that both genders were involved in this study and thus the findings of the study did not suffer from gender biasness.
+O(cid:374) respo(cid:374)de(cid:374)t(cid:859)s age distri(cid:271)utio(cid:374), the stud(cid:455) revealed that; most of the respondents as shown in Figure 4.2 by 45% were aged between 41 to
 
-requested
-
-47.55%
+- 1572 -

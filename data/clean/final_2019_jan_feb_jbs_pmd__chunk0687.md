@@ -1,11 +1,29 @@
-# Significant at 5% level of table value (k,n-k-1) i.e (3,6) degree of freedom at 5% is 4.76
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 105ab64a53838e95ab03f00aeb12e18d1d719685
+title: final_2019_jan_feb_jbs_pmd
+---
+## Cholamandalam Investment & Finance Company
 
-- Significant at 10% level **Significant at 5% level ***Significant at 1% level Table values of t with (n-k-1) or 6 degree of freedo m at 10%, 5% and 1% levels are 1.943, 2.447, 3.707 respectively.
+0.65
 
-Source: calculated by author
+0.42
 
-- 8. Conclusion: It may be concluded from the above analysis and findings that in case of profitability ratios the of Bajaj Finance and Sundaram finance have shown very robust performance over the other companies. In case liquidity ratios, Mahindra & Mahindra Financial Services and Bajaj Finance performance were good. In case of earning Bajaj Finance,Cholamandalam Investment & Finance Company and Sundaram finance performances are very shareholders friendly . Shriram Transport Finance Corporation, there is correlation between EPS and Return on capital employed and also there is correlation between EPS and Return on assets and in Sundaram Financecorrelation EPS and net profitare correlated and correlation exits between EPS and Return on IITM Journal of Business Studies (JBS)
+2.56
 
-- 8. Conclusion: It may be concluded from the above analysis and findings that in case of profitability ratios the of Bajaj Finance and Sundaram finance have shown very robust performance over the other companies. In case liquidity ratios, Mahindra & Mahindra Financial Services and Bajaj Finance performance were good. In case of earning Bajaj Finance,Cholamandalam Investment & Finance Company and Sundaram finance performances are very shareholders friendly . Shriram Transport Finance Corporation, there is correlation between EPS and Return on capital employed and also there is correlation between EPS and Return on assets and in Sundaram Financecorrelation EPS and net profitare correlated and correlation exits between EPS and Return on IITM Journal of Business Studies (JBS)
+0.38
 
-77
+0.94
+
+0.12
+
+- 1.78
+
+0.11
+
+- 1.75
+
+0.81
+
+- 0.25

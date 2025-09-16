@@ -1,41 +1,23 @@
-# prospects.
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f97a7bea99925576c8af44a66b6311da0431dd0
+title: H08OKB-PDF-ENG
+---
+## HBR / Digital Article / Research: Hiring a Superstar Can Backfire
 
-Furthermore research has shown that multiple stars may not work
+Second, one needs to consider the reactions of incumbent employees
 
-together smoothly, as they jostle for status and compete for resources,
+in the new organization, some of whom may also be stars or may
 
-ultimately resulting in the group failing to take full advantage of its
+have ambitions to become one. For instance, studies of scientists and
 
-collection of exceptional individuals. As such, when hiring stars ﬁrms
+investment bankers have shown that the arrival of new stars negatively aﬀects the performance of incumbents. Incumbents may resent the
 
-risk triggering non-cooperative and even hostile forms of behavior
+arrival of the new stars and the attention and resources these receive.
 
-which undermine the integration of the star and the ability of the ﬁrm
+They might fear for their own career development opportunities and
 
-to capture the full value of the move.
+for their reputation within their organization. They might interpret the
 
-It is not surprising therefore that a lot of lateral hires (upwards of
-
-50% according to some estimates) fail within a few years, with the star
-
-moving to new pastures.
-
-When does hiring stars work (or not)?
-
-Our ﬁndings lend support to the arguments above, as they show that
-
-in the ﬁrst-year post-hiring, those practice areas that hired star lawyers
-
-have lower performance than comparable practice areas that didn’t do
-
-so. This relative underperformance is approximately 10%.
-
-Yet our results also show some variability in outcomes, including two
-
-scenarios when hiring stars may actually work.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hiring event as a lack of conﬁdence in their own abilities and future

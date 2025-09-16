@@ -1,11 +1,21 @@
-# Sustained Performance
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2aa064417225e6666d407899fdf02b47efe20b94
+title: H08R2K-PDF-ENG
+---
+# Risk Mitigation
 
-Our data shows that chronic stress drains workforce productivity.
+Additionally, 12% of employees in our study admitted to making
 
-Highly stressed employees take 8 times more sick days and disengage
+mistakes, missing deadlines, or cutting corners in ways that could
 
-at 4 times the rate of their low-stress peers. The combined cost of
+jeopardize regulatory compliance—and employees under high stress are
 
-absenteeism, presenteeism (working while unproductive), and turnover
+11 times more likely to do so. The ﬁnancial penalties for non-compliance
 
-results in an average of $12,000 in productivity loss per highly stressed
+can be devastating, and we believe that what might be even harder to
+
+recover is the loss of stakeholder trust and reputational damage that
+
+stress-driven failures can create.

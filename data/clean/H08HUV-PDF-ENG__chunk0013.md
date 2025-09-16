@@ -1,7 +1,15 @@
-# work for everyone.
+---
+source_path: H08HUV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e65faca924c0aa61eb6d0d5fd3e19f409fe63a1
+title: H08HUV-PDF-ENG
+---
+# right away?”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Some leaders might push back with “We’ll ﬁgure it out as we go”
 
-3
+or “It won’t be an issue.” Try role-playing with a concrete example:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“Next month we have both X and Y due. How do you want to allocate
+
+resources?” Show you’re thinking about how to make this arrangement

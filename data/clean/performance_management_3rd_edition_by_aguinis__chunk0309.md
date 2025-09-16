@@ -1,13 +1,21 @@
-## Chapter 1 • Performance Management and Reward Systems in Context
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: f1ec91e392f45d0c5ed2ec2e03f1ee85039858af
+title: performance_management_3rd_edition_by_aguinis
+---
+## Distinguishing Performance Management Systems from Performance Appraisal Systems
 
-Criticism 6: “Because performance is ultimately measured on a nonstop, continuous basis, managers may become overwhelmed with cognitive load, paper- work, and generally more work to do.”
+What are the differences between a performance appraisal system and a performance management system? How are the two systems related to each other? After answering these questions, consider the following 11 criticisms. Which of the following criticisms pertain to performance appraisal systems but not to performance management systems? Which criti- cisms pertain to both performance appraisal and performance management systems? Use Xs on the table below to denote answers. Then, provide an explanation for categorizing the 11 criticisms in the way you did.
 
-Criticism 9: “Often an employee with substandard performance is evaluated as meeting expectations or even better, and the average employee receives an above-average evaluation.”
+Criticism 1: “[There can be] inconsistency between comments and scores on an employee’s evaluation.”
 
-Criticism 7: “What’s left is the more important strategic role of raising the reputational and intellec- tual capital of the company—but HR is, it turns out, uniquely unsuited for that.”
+Criticism 2: “The annual performance review is a bad management tool. To start with, it is not timely. If your subordinate is deficient in some ways, you wait 11
 
-Criticism 8: “Goal-setting, when done wrong, gives the employee the wrong goals—those, for instance, which are not aligned with the organization’s strategic orientation.”
+months to say something about it. How does that help next week’s performance?”
 
-Criticism 10: “[The process does not involve helping or making employees] set goals for the future.”
+Criticism 3: “Never make the evaluation a hit-and-run. It should take the form of a dialogue between the supervi- sor and subordinate, not an isolated event but rather a part of performance/career management more generally.”
 
-Criticism 11: “Coaching can be tricky. When done wrong, it can be devastating. For example, a coach’s feedback can have detrimental effects if it focuses on the employee as a whole as opposed to specific work behaviors at work.” (cid:2)
+Criticism 4: “A number of years ago, the U.S. Equal Employment Opportunity Commission (EEOC) created a ‘Like Me’ task force. Its general conclusion—there was a human tendency to favor employees who are like the managers making the employment assessment.”
+
+Criticism 5: “Few managers jump with glee at appraisal time. When they triage workplace demands, many times appraisals end up at the bottom. As a result, late appraisals are often the norm and not the exception.”

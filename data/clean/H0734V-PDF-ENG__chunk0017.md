@@ -1,15 +1,31 @@
-# Inventing the Future
+---
+source_path: H0734V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4876dc22dd237968fb943a8dd18e5b35ce62d364
+title: H0734V-PDF-ENG
+---
+## HBR / Digital Article / Using Fiction to Find Your Strategy
 
-Design fiction has helped dozens of multinational companies to
+inclusive by focusing on events such as Black History Month and Pride
 
-strategize differently. And while creating fictional futures may sound a
+Day. While discussing how to get there, the company also realized that
 
-little quirky, we know that it works. For example, a recent design-fiction
+its targeting strategy would be much more accurate as a result.
 
-project conducted with a major oil and gas company helped identify
+Finally, we use the design fictions to design shareable artifacts (e.g.,
 
-how to shape a future in which people living in remote areas were
+short movies, fictitious newspaper articles) which can be considered as
 
-less socially isolated. The company decided to repurpose gas stations
+a prototype of the companies’ future. From these artifacts, a roadmap
 
-into places galvanizing community through services such as car sharing
+of strategic transformation is created. For instance, a design fiction
+
+project with a large construction company ended up shifting their
+
+innovation strategy after they invented a future in which 3D printing
+
+made building construction carbon-emission free. The transformation
+
+roadmap included areas of 3D printing to focus on and investments
+
+needed to shape this desirable future.

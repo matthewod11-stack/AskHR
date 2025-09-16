@@ -1,5 +1,9 @@
-# General Psychology, 2, 300–319.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 49b0e7ec5ca370d313f9c6d5ecd6e195732c2852
+title: barrickryan_eds_personality_and_work
+---
+## ies. Journal of Counseling Psychology, 30, 483–498.
 
-Friedman, H. S. (1999). Personality and longevity: Paradoxes. In J. M. Robine, B. Forette, C. Franceschi, & M. Allard (Eds.), The paradoxes of longevity (pp. 115–122). New York: Springer-Verlag.
-
-Frijda, N. H. (1999). Emotions and hedonic experience. In D. Kahneman, E. Diener, & N. Schwarz (Eds.), Well-being: The foundations of hedonic psychology (pp. 190–210). New York: Russell Sage Foundation. Furnham, A., & Miller, T. (1997). Personality, absenteeism and produc-
+Fredrickson, B. L. (1998). What good are positive emotions? Review of

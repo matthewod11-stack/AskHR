@@ -1,1 +1,11 @@
-# Table 10.4
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0d8e0c08fa2a187e17f7dfb6c082b146be3f00b7
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Are Employees Satisﬁ ed with Other Aspects of Their Lives?
+
+Judge et al. (), Judge and Watanabe (), and Tait et al. () have theorized not only that job satisfaction is consistent across time but that the extent to which a person is satisfied with all aspects of life (e.g., marriage, friends, job, family, geo- graphic location) is consistent as well. Furthermore, people who are satisfied with their jobs tend to be satisfied with life. These researchers found support for their theory, as their data indicate that job satisfaction is significantly correlated with life satisfaction. Thus people happy in life tend to be happy in their jobs and vice versa. In an interesting study, Judge and Watanabe () found that for about two thirds of participants, high levels of life satisfaction are associated with high levels of job satisfaction. In other words, satisfaction with one’s job “spills over” into other aspects of life, and satisfaction with other aspects of life spills over into satisfaction with one’s job. For the remaining % or so of the population, either there is no relationship between life and job satisfaction or there is a negative relationship.
+
+That life satisfaction can influence job satisfaction in the vast majority of people is an important finding. In the twenty-first century, managers are being asked to work miracles in making even the worst of jobs satisfying (think about some of the jobs portrayed on the Discovery Channel’s reality TV show, Dirty Jobs, which are listed in Table .). Perhaps a more realistic approach is what I

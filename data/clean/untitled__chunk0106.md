@@ -1,5 +1,9 @@
-## Alfred H. Fuchs, PhD Department of Psychology Bowdoin College Brunswick, Maine
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6e06930f0509a3da1616fef629a982e00ad92a8e
+title: untitled
+---
+# xviii Contributors
 
-George J. Greene, MA Department of Psychology University of Illinois at Chicago Chicago, Illinois
-
-J. Thomas Grisso, PhD Department of Psychiatry University of Massachusetts Medical Center Worcester, Massachusetts
+Donald K. Freedheim, PhD Department of Psychology Case Western Reserve University Cleveland, Ohio

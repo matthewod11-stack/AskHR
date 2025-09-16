@@ -1,21 +1,27 @@
-# similar PERMA-V exercise.)
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 798958e6cc34ef5f266317227a451fe6bc88ac8c
+title: H07XDL-PDF-ENG
+---
+## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
 
-Now sketch out your own 2×2; we call it the Strategic Life Portfolio. But
+With your signiﬁcant other, with family, at work, playing sports, at
 
-instead of mapping growth against share, you will put the importance
+church, getting a good night’s rest?
 
-of each SLU on the y-axis and the satisfaction it brings on the x-axis.
+Look back at the past year, including holidays, and assess how much
 
-Plot each SLU with a bubble, making the size of the bubble roughly
+time you spent on each of the 16 SLUs in an average week. When an
 
-proportional to the percentage of time in a week you spend on it.
+activity crosses categories, split the time between them. For example,
 
-In the top-left quadrant, you will ﬁnd the SLUs of high importance
+if you went jogging with your signiﬁcant other for one hour a week,
 
-and low satisfaction. These are areas of high urgency, because you care
+allocate half an hour to the signiﬁcant other SLU and half an hour to the
 
-about these activities deeply but aren’t focusing on them enough to get
+physical health/sports SLU. Next, rate all 16 SLUs on a scale of 0 to 10
 
-the most out of them. The SLUs in the top-right quadrant also deserve
+based on how important they are to you. Then rate the satisfaction you
 
-some attention: You want to keep devoting signiﬁcant time and energy
+derive from each on the same scale. (This goes one level deeper than the

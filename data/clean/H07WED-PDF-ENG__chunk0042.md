@@ -1,9 +1,27 @@
-# colleagues and superiors.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce63ef2127b301134d55bddc004da26b7b6ddfad
+title: H07WED-PDF-ENG
+---
+## pragmatically inclusive, actively seek input from team members with
 
-. . .
+varied perspectives and backgrounds. Involve team members in critical
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+decisions while maintaining the ﬁnal authority as needed. Promote an
 
-8
+inclusive work environment where diverse viewpoints are valued and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+considered.
+
+- 9. Willingness to trust
+
+Trust is foundational in project management. Build trust by
+
+consistently delivering on commitments and being transparent in your
+
+communication. Extend trust to team members and stakeholders and
+
+foster an environment of mutual reliance. Develop strong relationships with individuals across diﬀerent functions and backgrounds. Be reliable
+
+and trustworthy in your interactions, earning the trust of your

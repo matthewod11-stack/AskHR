@@ -1,11 +1,27 @@
-# experiences and value delivery.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 37cc30131fe5163941e38194118bf271d4712810
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Customer Experience
 
-The integrated data may bring benefit in two key ways:
+Customer experience reflects employee experience. Based on published literature
 
-a) generating a matrix of employee and customer key performance indicators
+and author research, positive customer experience is essential for an organization’s
 
-according to main organizational groups will allow the organization to target
+success and begins with its first customers, the people who work there. It is strongly
 
-above average performance areas both for generating and sharing the best
+recommended to establish a CX strategy. As a first, ensuring that employees
 
-examples, and for directing additional resources and training to areas below
+understand their roles in customer experience and how customer experience affects
+
+employees. The right set up of goals and mission are very important factors. It is
+
+suggested to the organization that the process of annual targets should be built from
+
+financial and customer experience aspects. Secondly, the Net promoters score and
+
+Employee Experience survey should run regularly, a minimum on annual basis. Third,
+
+combining NPS data and EX data, building a comprehensive 360-degree view of

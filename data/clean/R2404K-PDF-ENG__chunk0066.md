@@ -1,5 +1,11 @@
-# capacities.
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ecaafe2f2fbcad0d0eefb8513e07902a6bbf4f3
+title: R2404K-PDF-ENG
+---
+## HBR / Magazine Article / The Middle Path to Innovation
 
-In 2021 Ajax Health, a large player in the health care sector, partnered
+in VC-funded start-ups, which are bought at premium price tags by
 
-with investment ﬁrms Hellman & Friedman and KKR to purchase
+larger companies that quickly disband most of the start-ups’ operational

@@ -1,23 +1,35 @@
-## HBR / Magazine Article / Will Psychedelics Propel Your Career?
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7335718ab52a28029c768375d5ceb8db1651d027
+title: R2405N-PDF-ENG
+---
+## and Happiness, by the former tech and ﬁnance executive and venture
 
-All these books made me ask: Should I take psychedelics to reach
+capitalist Peggy Van de Plassche, who claims that despite years of
 
-my fullest potential? Although the medical application is compelling,
+professional achievement, she was able to ﬁnd true fulﬁllment only
 
-I’m not convinced that ’shrooms, acid, or ecstasy will bring me mind-
+through a combination of journaling, tapping (an anxiety-reducing
 
-blowing corporate success. Plus, these drugs are still illegal in many
+technique whereby one taps on parts of the body while holding or
 
-countries and in at least 26 U.S. states, including the one where I live.
+releasing certain thoughts and feelings), visualization, meditation, and
 
-But you should decide for yourself: Do you want to take a trip?
+small doses of psychedelics. Hoping that others will follow her lead,
 
-A version of this article appeared in the September–October 2024 issue of Harvard Business Review.
+she oﬀers a step-by-step guide. “Since using this regimen myself, I have
 
-Rachel DuRose is an editorial production coordinator at Harvard Business Review.
+never experienced so much ease, freedom and success in my life,” Van
+
+de Plassche writes. “I now let my unconscious mind do the work and
+
+it comes up with way better and faster solutions than I could have
+
+consciously.”
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

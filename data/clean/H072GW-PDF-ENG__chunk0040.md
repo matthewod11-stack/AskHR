@@ -1,9 +1,11 @@
-## doublespeak, and “insider” expressions with obscured meaning.
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 628a71f76d2b572cc1f83ffe57ab8015ab2c0deb
+title: H072GW-PDF-ENG
+---
+# Transparency and clear communication
 
-Cultures that lack transparency in procedures and decision making
+Clear organizational communication is essential for autistic people,
 
-present success barriers for autistic people and others. Transparency,
-
-on the other hand, supports both inclusion and productivity, promotes
-
-a sense of psychological safety, and drives organizational performance.
+who are often excluded by the reliance on hidden messages, corporate

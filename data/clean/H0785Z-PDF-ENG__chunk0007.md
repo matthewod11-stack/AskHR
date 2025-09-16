@@ -1,23 +1,29 @@
-## HBR / The Big Idea / What Defines a Successful Organization?
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd30450031a07a2faeeb6fcd9541cd9872a246ee
+title: H0785Z-PDF-ENG
+---
+# Greg Mably
 
-consistency, and predictability were top concerns; core competencies
+Organizations succeed over time only when they adapt to the speed and
 
-were cherished foundations to build on; and leaders viewed the world
+character of external change. Every aspect of an organization — from
 
-from inside the organization looking out.
+how it operates and is structured to how it is led — must match the
 
-To thrive today, however, companies must be able to detect external
+current yet ever-shifting context in which it exists.
 
-changes from the outside in and have a built-in ﬂuidity so they can
+As the world changes at a faster pace than ever before, companies must
 
-continually adapt. They need to focus on individual customers, make
+change more rapidly as well. Yet the practices, structures, and behaviors
 
-their core competencies dynamic, and rely on teams instead of a
+at many large companies are not designed for such responsiveness. A
 
-hierarchy — all by using the power of data and algorithms.
+century ago companies implemented such approaches because control,
 
-As we look back on a century of Harvard Business Review, we should
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-also take time to look ahead — and recognize what the next iteration of
+1
 
-a successful organization looks like.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,21 @@
-## HBR / Digital Article / How Diversity of Thought Can Fit into Your DEI Strategy
+---
+source_path: H078WK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87021bbc7670408298f14750f6d520d2db2b18b1
+title: H078WK-PDF-ENG
+---
+## a signiﬁcant competitive advantage in the wine and spirits marketplace.
 
-if you look at my team it is almost identical to the demographics of
+“I’m African American,” Weaver says, “but the ﬁrst two people that I
 
-America. We are 50% women. If anything, we try to over-index on Black,
+brought in alongside me were white. I was looking for energy, not color.
 
-Latinx and LGBTQ populations, but the goal is to mirror America.”
+And as I’m looking for the energy, and as I’m looking for the diversity of
 
-Pitfall 3: Tradeoffs aren’t acknowledged in a DEI strategy.
+thought, it was imperative that my company looked like America. Today
 
-The reality is that there are less people from underrepresented groups
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

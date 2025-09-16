@@ -1,11 +1,17 @@
-# coworker relationships.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56c5f468acc6cd1e9de12d18624a0e35fd6efef5
+title: H08H7H-PDF-ENG
+---
+# arrangements.
 
-Our research, recently published in the Academy of Management
+As management researchers, we were perplexed by the RTO mandates.
 
-Journal, draws upon archival, ﬁeld, and experimental studies to
+If leaders believe that in-person collaboration is essential to strong
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+work relationships and thus organizational success, how do we make
 
-2
+sense of ﬁndings that remote work does not decrease productivity and may also oﬀer additional value to organizations? To investigate this, we
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+questioned the widely-held assumption that interacting remotely hurts

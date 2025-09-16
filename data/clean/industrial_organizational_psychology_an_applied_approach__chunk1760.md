@@ -1,13 +1,11 @@
-# Strictness
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a08990aebb2fb2de0d86b015bedb3a3ba0df329e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Figure 7.14 Examples of rating errors
 
-Catherine Willows Cooperation 1 2 3 4 5 1 2 3 4 5 Knowledge 1 2 3 4 5 Leadership
+266
 
-Gil Grissom Cooperation 1 2 3 4 5 1 2 3 4 5 Knowledge 1 2 3 4 5 Leadership
-
-Catherine Willows Cooperation 1 2 3 4 5 1 2 3 4 5 Knowledge 1 2 3 4 5 Leadership
-
-Nick Stokes Cooperation 1 2 3 4 5 1 2 3 4 5 Knowledge 1 2 3 4 5 Leadership
-
-Warrick Brown Cooperation 1 2 3 4 5 1 2 3 4 5 Knowledge 1 2 3 4 5 Leadership
-
-Nick Stokes Cooperation 1 2 3 4 5 1 2 3 4 5 Knowledge 1 2 3 4 5 Leadership
+chapter 

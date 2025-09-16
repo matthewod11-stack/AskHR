@@ -1,7 +1,13 @@
-# 4.1. Leadership
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 2c72641c2ba27b05fb0f0840a4dcada823531933
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# B. Coomber, K. Louise Barriball / International Journal of Nursing Studies 44 (2007) 297–314
 
-One of the problematic issues regarding leadership is the lack of consensus regarding deﬁnition. Despite this, some recognition that it refers to either the direct superior or ward manager exists and that certain characteristics pertaining to leadership are particularly pertinent in inﬂuencing intent to leave. Five of the nine papers used scale measurement of leadership styles and characteristics used in ward environments (Fang, 2001; Fletcher, 2001; Tzeng, 2002; Yin and Yang, 2002; Larrabee et al., 2003). Whilst leadership was deﬁned differently in each study, similar results were obtained with one exception.
+possible due to the difﬁculties in comparability of the data and the variation in reports of each statistic.
 
-Fang (2001) used a speciﬁcally constructed ‘super- vision satisfaction’ scale consisting of ﬁve items measur- ing competency, fairness, recognition, communication and collaboration (strongly disagree ¼ 1, strongly agree ¼ 5). Regression results indicated that supervisor satisfaction was one of the most signiﬁcant predictors of turnover intention (coefﬁcient standardised ¼ (cid:3)0.168, po0:05) but not turnover cognition ((cid:3)0.032). The study surveyed 180 nurses in Singapore and obtained a 90% response rate strengthening the validity of the results although it was undertaken in a single hospital, thus limiting generalisability.
+response rate for both components was low (34.5% and 28.6%). Furthermore, no report or proﬁle of non- respondents was provided, which may have affected the representativeness of this US sample.
 
-Fletcher (2001) used a six-item scale of ‘immediate supervisor’ measuring perceived qualities such as supervisor reliability, competency and helpfulness (very true ¼ 1, not at all true ¼ 4), as well as the supervisory subscale from the Job Diagnostic Survey (JDS, Hackman and Oldham, 1975) (extremely dissatisﬁed ¼ 1, extremely satisﬁed ¼ 7). The deﬁnition given for immediate super- visor was ‘generally the nurse manager’, and the lowest ratings attained were related to this subject. The lowest individual item means for the subscale of JDS were for supervisor support (mean ¼ 4.34) and quality of super- vision (mean ¼ 4.46). For the Immediate Supervisor scale the highest means (and therefore lowest ratings) were for supervisor helpfulness (2.81) and reliability (2.68). The low ratings were clariﬁed with written comments from participants that were categorised into four general lack of physical presence, failure to address problems and stafﬁng issues. Whilst the results pertaining to intent to leave indicated that the participants surveyed were likely to remain in nursing, this was measured with a single question scored on a 5-point Likert scale without further statistical tests applied. Despite the large sample size (n ¼ 1780 for JDS, n ¼ 509 for qualitative component) and the number of hospitals surveyed (n ¼ 10), the
+- 4. Findings

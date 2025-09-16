@@ -1,25 +1,43 @@
-# our pain.
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0640bd894358667818a77d02abdd5988ffbfee6
+title: H08MFI-PDF-ENG
+---
+## HBR / Digital Article / When Your Job Breaks Your Heart
 
-You probably also need space to grieve, right?
+emerge. One founder told me, “Leaving my startup was devastating. It
 
-Yes, you need to mourn it. Writer Amy Shoenthal described her own
+cut to fears and griefs about how I understood myself as a leader and as
 
-professional heartbreak to me upon coming back from maternity leave
+a collaborator, which took some time to process…We don’t talk enough
 
-as one of the most transformational experiences of her career. “I had
+about what that can feel like.”
 
-spent so many years slowly climbing a mountain, and the second I
+Similarly, after I sold my company, I was ashamed. I would constantly
 
-looked away I was pushed back down,” she said. “Turns out, one of the
+berate myself: “You acted too fast. You made a stupid decision. You
 
-worst things we can do is ﬁght through… If you let [the negativity] in
+were rash. You did what you always do.” This endless self-criticism,
 
-and acknowledge what is happening, you can face your setback head
+when left unchecked, becomes a form of internal abuse, psychologist
 
-on. Mourn it. Work through it. Most importantly, you may ﬁnd it sets
+David Bedrick told me. The critical voice inside us often completes
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+this devastating equation: “This heartbreak happened because you are
 
-8
+[insert your favorite negative self-judgment].” These thoughts don’t
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+appear from nowhere, he noted. They emerge from beliefs already
+
+residing within us.
+
+To heal, we must bring these critical thoughts into the open. Speak
+
+them aloud, said Bedrick. When criticism remains locked within, it
+
+goes unwitnessed and gains power. The path through professional
+
+heartbreak requires us to face our inner critic with compassion, allowing
+
+ourselves to feel fully while ﬁnding healthy ways to express and process

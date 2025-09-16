@@ -1,9 +1,15 @@
-## HBR / Digital Article / Leading Is Emotionally Draining. Here’s How to Recover.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d9e1f5fc464c582c4ecb351008d55d7295111c9
+title: H08TK8-PDF-ENG
+---
+## Alternatively, share your experience and challenges with a trusted peer
 
-of and process diﬃcult events but also enhances our resilience to stress,
+or other sounding board. Social support not only helps us make sense
 
-protects us from burnout, and promotes our mental and physical well-
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-being. Leadership is often a lonely experience, and having trusted peers,
+3
 
-mentors, and other supports can be a powerful source of connection
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

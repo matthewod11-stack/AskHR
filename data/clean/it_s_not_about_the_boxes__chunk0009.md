@@ -1,11 +1,21 @@
-# About the Potential Axis
+---
+source_path: it_s_not_about_the_boxes.md
+pages: n/a-n/a
+chunk_id: 4cbb738b4734c438f62746e5f6a3e1f6b75cb73e
+title: it_s_not_about_the_boxes
+---
+# succession and development.
 
-We describe the best science about how to define potential in our recent article, “Poten- tial after the Pandemic,” so we won’t repeat that here. We will reinforce, however, that potential should be measured by the ability to move upward over a set period.
+potential and potential. This means that it’s your organization’s preference and judgment that should dictate how many categories there are in your model.
 
-We use that definition because potential is the primary input to succession planning. If a company doesn’t know what talent can move up at what pace, it is literally impossible for them to plan for succession.
+Your choice depends on what you believe is
 
-The pace at which, and the reasons why, someone can move up in any given organiza- tion will differ. This means that your defini- tion for movement over time may differ from other companies.
+the number of meaningfully different ways that people can demonstrate performance and potential in your organization. If you genuine- ly believe there are 28 different ways people can do that, then a 28-box grid meets your needs.
 
-Potential labels should directly state how far and how fast someone can move up in the organization. How you divide those time peri- ods is up to you, but we recommend starting with what you believe is the fastest possible upward movement that can happen in your organization. After that, the next category should describe what feels like relatively fast movement. If that sounds subjective, it is.
+In considering the “right” number of box- es, we suggest that the definition of any one box should feel unique and separate from the others. For example, someone we describe as a high potential leader should sound different from a high-performing leader. That high-per- forming leader definition should sound differ- ent than an average performing leader who is well-placed. If there’s not a meaningful dif- ference in how you define two boxes, they’re likely describing the same type of individual
 
-Our “generic” labels for the potential axis of a 9-box grid are Two Levels in Five Years, One Level in Two Years and Well Placed. “Well Placed” is used very intentionally instead of other possible choices. Labeling someone “low potential” is a non-starter in most companies not to mention slightly insulting. Well placed declares that, at this moment in time, you do not see the individual being promoted within 2 years.
+INSIGHTS / PAGE 2
+
+and can be combined.
+
+It’s also easy to overvalue symmetry in the tool. We believe that it is not possible to be a consistently low performer and still have high potential to advance. In a typical 9-box model that suggests that the lower right-hand box (and possibly the center-bottom box) should not exist. The resulting seven box grid may look lopsided, but it’s more accurate than including boxes in which no one will ever be rated.

@@ -1,5 +1,7 @@
-## Gaugler, B. B., Rosenthal, D. B., Th ornton, G. C., & Bentson, C.
-
-(1987). Meta-analysis of assessment center validity. Journal of Applied Psychology, 72, 493–511.
-
-Gebhardt, D. L., & Crump, C. E. (1990). Employee ﬁ tness and wellness programs in the workplace. American Psychologist, 45(2), 262–272.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 72588007c05d5612715604e96cf0627628a02e28
+title: industrial_organizational_psychology_an_applied_approach
+---
+# News, p. 14.

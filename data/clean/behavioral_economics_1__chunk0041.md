@@ -1,29 +1,17 @@
-# (Mullainathan, in press).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: d3493b5091053d47a712f92afafb1e578e3a84cb
+title: behavioral_economics_1
+---
+## A. The franchising of behavioral economics
 
-Finance: The central hypothesis in financial economics for the last thirty years is that stock markets are
+Much of the power of economic analysis comes from models used in different applications areas which
 
-informationally efficient. Faith in this claim comes from a simple argument: Any semi-strong-form inefficiency
+rely on shared general principles—consistent preferences and equilibrium-- but are customized to the special
 
-(detectable using cheaply-acquired data) would be noticed by wealthy investors and erased. Market efficiency
+questions in different application areas. A thriving part of behavioral economics is similar—the application of
 
-was therefore thought to provide a stiff challenge to models which assume investors have limited rationality.
+basic ideas to various subfields, or “franchising”. Besides the areas discussed in more detail below, other
 
-But “behavioral finance” based on rationality limits has emerged rapidly and might be the clearest empirical
-
-franchise success for behavioral economics (e.g., Barberis and Thaler, in press). One advantage is that theories
-
-of asset pricing often provide sharp predictions. Another big advantage is that there are many cheaply-available
-
-data which can be used to test theories.
-
-Behavioral finance got its biggest early boost from DeBondt and Thaler’s (1985) discovery that
-
-portfolios of “loser’ stocks (stocks whose market value had dropped the most in the previous year)
-
-outperformed portfolios of winners in subsequent years. Their paper was published in the proceedings of the
-
-19
-
-Journal of Finance and immediately drew attention and counterargument. Note that DeBondt and Thaler
-
-predicted this anomaly, based on the idea that investors would be surprised by reversion to the mean in
+franchises have been established in law (Jolls, Sunstein and Thaler, 1998; Jolls, in press) and development

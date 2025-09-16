@@ -1,11 +1,11 @@
-# Summary Points
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: c349aef2d70eb39520e11c0cfb9f9bd0248dc7f3
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part IV • Reward Systems, Legal Issues, and Team Performance Management
 
-- A team is in place when two or more people interact dynamically and inter- dependently and share a common and valued goal, objective, or mission. Indi- viduals can be members of the same team even if they work in different organizations and different geograph- ical locations. Teams are pervasive in today’s organizations, and it would be difficult to find an organization in which some type of work was not done by teams.
+to work faster, giving rewards for cooperation may be yet another example of the “folly of rewarding A while hoping for B.”
 
-- Including team performance as part of the performance management system is a natural extension of a system that focuses on individual performance only. The general principles that we have discussed in this book thus far still apply; however, teams differ based on the tasks they perform (from routine to nonroutine) and based on mem- bership configuration (from static to dynamic). Measures of team perform- ance need to take into account the type of team being evaluated.
-
-- Because teams are so pervasive, it is important that the performance manage- ment system focus not only on individ- uals but also on teams. Organizations should take proactive steps to make sure that teams perform well, that their performance improves on an ongoing basis, and that individuals are active and motivated contributors to their teams.
-
-- We must consider six basic principles in including a team component in a performance management system: Make sure teams are really teams, make the investment to measure, define measurement goals clearly, use a multi- method approach to measurement, focus on process as well as outcomes, and measure long-term changes.
-
-- Including a team component in the performance management system has some unique challenges. The system needs to achieve a good balance between individual and team perform- ance measurement and reward. In other words, it is not sufficient to measure and reward overall team performance. There also needs to be a way to measure and reward the contribution that each individual makes to the team. In this way, individuals are held accountable for contributing to team performance. • A performance management system that includes a team component needs to focus on three types of performance: (1) individual performance, (2) individual performance that contributes to team
+An organization can have a variable pay system in which an individual is eligible for a bonus if his or her team achieves specific results. This reward would be eligible in addition to any performance-based rewards allocated according to individual perform- ance (either task performance or contextual performance). The amount of the bonus could also be controlled by the team: Teams that are able to generate savings that result from controlling cost and improving efficiency may see some of this money come back in the form of bonuses. In this case, the rewards are called self-funded. In other cases, the bonus can come from a company-wide pool that varies each year based on overall orga- nizational performance.

@@ -1,11 +1,19 @@
-## understanding of the team’s priorities and experience; and the need
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ea175ce1c5a3a696ddb0e3cd10ff09135bff371
+title: H08UL7-PDF-ENG
+---
+# Understand Team Emotional Intelligence
 
-to have a genuine sense of inﬂuence and agency within the team.
+Team emotional intelligence, or Team EI, is diﬀerent from individual
 
-Norms that address these social needs build a productive emotional
+emotional intelligence. Team EI isn’t an inherent trait that belongs
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+to any one individual. It’s a set of habitual routines, or norms, that
 
-2
+together meet the core social needs that are activated when people
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+enter teams. These include the need to feel genuinely accepted, known,
+
+and valued; the need to engage in discussions that build a shared

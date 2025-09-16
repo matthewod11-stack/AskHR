@@ -1,43 +1,27 @@
-# past practices.
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8ae492276d07850bb321e9ec1a25ecef23d2bc9
+title: R2501E-PDF-ENG
+---
+## HBR / Magazine Article / Leaders Shouldn’t Try to Do It All
 
-A.G. came to a similar realization when he returned for his second stint
+But Roger knew he faced a big transformational task and couldn’t
 
-as CEO of P&G. He had engineered a remarkable turnaround during
+spend his time the way his predecessors had. They had devoted
 
-his ﬁrst stint, but the momentum had been lost under his successor,
+approximately 50 days a year to faculty selection and recruiting
 
-and it was clear that he needed to reassure investors that the company
+activities. Furthermore, he realized that he would be no better at it
 
-could regain it. Managing relationships with key investors was typically
+than his associate dean, Peter Pauly, who was a stellar academic with
 
-regarded at P&G and elsewhere as the CEO’s job. But A.G. could see
+a great eye for young talent and superb skills in faculty hiring. But
 
-that his CFO, Jon Moeller, with whom he had worked closely during
+to put Pauly in charge, Roger needed to do two things: He had to persuade the provost—the university’s chief academic oﬃcer and the
 
-his entire ﬁrst term as CEO, would be just as good at interacting
+boss of all the deans—to allow Pauly to take over that job. And he had
 
-with investors and analysts at quarterly earnings releases. As a result,
+to achieve a meeting of the minds with Pauly on how to carry out the
 
-Moeller gained invaluable experience that served him well when he
-
-became P&G’s CEO, in 2021—and A.G. was saved many should do days.
-
-A.G. has passed that lesson on to Spear. The culture at FIGS is a powerful
-
-driver—in terms of both shared values and a passion for the mission of
-
-serving healthcare professionals at the highest level. In the early days of
-
-the company Spear instilled this culture through a variety of thoughtful
-
-structures, including a weekly all-hands called Tuesday Talk, which
-
-she led. But as the years went by and the FIGS culture ﬂourished, A.G.
-
-encouraged her to allow others to lead Tuesday Talk. He knew that some
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+task—which would involve some small but important diﬀerences from

@@ -1,15 +1,13 @@
-## genealogical stories to each other and a wider community.
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d3e7760e53c3ad7e2dcb6264a22fc3339483bef
+title: H07DLJ-PDF-ENG
+---
+# like the technology sector.
 
-“The New World of Work” explores how top-tier executives see the
+- How to constructively combat imposter syndrome, and actually use its
 
-future and how their companies are trying to set themselves up for
+energy to fuel your drive.
 
-success. Each week, Ignatius interviews a top leader on LinkedIn Live —
-
-previous interviews included Microsoft CEO Satya Nadella and former
-
-PepsiCo CEO Indra Nooyi. He also shares an inside look at these
-
-conversations —and solicits questions for future discussions — in a
-
-newsletter just for HBR subscribers. If you’re a subscriber, you can sign
+- How Ancestry uses cutting-edge technologies to help families tell their

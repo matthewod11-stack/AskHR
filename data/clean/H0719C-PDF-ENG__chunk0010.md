@@ -1,13 +1,15 @@
-# supportive workplace for all.
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44fc96ba7da339bd01c0ee25d7bdcfc919ee9ab6
+title: H0719C-PDF-ENG
+---
+## HBR / Digital Article / How to Be a Mental Health Ally
 
-To be a mental health ally at work is to help those struggling
+and unconscious bias. We must work together to eradicate the stigma
 
-with mental health issues feel valued and needed. This can have
+and its devastating impacts. We may struggle with mental health, but
 
-positive long-term beneﬁts, including increased employee engagement,
+we can recover. We can thrive at home and work, and we can help make
 
-productivity, and loyalty. Strengthening and deepening relationships
-
-between colleagues can also beneﬁt the broader employee community.
-
-When we’re supported, we’re also often eager to support others, creating
+this possible for each other by being allies, collaborating to create a

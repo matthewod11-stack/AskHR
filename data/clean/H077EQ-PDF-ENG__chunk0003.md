@@ -1,7 +1,23 @@
-## HBR / Digital Article / Don’t Let Anchoring Bias Weigh Down Your Judgment
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8f0621b3487f07f46129ee424c4a86f3e06a619
+title: H077EQ-PDF-ENG
+---
+## HBR Staff/master1305/Gearstd/Getty Images
 
-If I think again for a moment, though, the deal isn’t really a deal. After
+It happens just about every time I go to a restaurant with my daughter.
 
-all, I estimated the cost of the pasta based on the adult menu, not the
+I open the menu and scan the options. Then I glance at the children’s
 
-actual cost of making some bow-tie noodles and serving them with a
+menu. Oftentimes, the menu is pretty similar, with the same pasta and
+
+tomato sauce. But the items on the children’s menu are usually less
+
+expensive, and I’ll think to myself: Wow, good deal.
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

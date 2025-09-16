@@ -1,9 +1,13 @@
-## outside the business world—for example, the way the Colombian
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b3ceaead1c5b3a9412b173466e647745f0ff35c
+title: R2502D-PDF-ENG
+---
+## HBR / Magazine Article / Precedents Thinking
 
-metropolis Medellín reinvigorated its tourism industry after years
+Only two of the 16 came from the food industry. Ten came from
 
-of being called “the murder capital of the world,” and how Pope
+other business areas including agriculture, shoes, clothing, child
 
-Francis changed perceptions of the Catholic Church when it was being
-
-stigmatized for its role in child abuse, gay rights, and the treatment of
+entertainment, and professional sports. The other four came from

@@ -1,11 +1,27 @@
-## HBR / Digital Article / Lessons from U.S. Army Special Ops on Becoming a Leader
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21206f6936580456cc002a06f99ee227bea43f02
+title: H08VFN-PDF-ENG
+---
+## of experience in senior leadership roles (the equivalent of VP level or
 
-Create a catalogue of training scenarios.
+above), have been involved in at least one successful major initiative,
 
-Convene cadre to write down every serious leadership crisis or
+and have weathered at least one serious crisis. It’s the cadre’s job to plan
 
-opportunity that they have experienced or witnessed. This might
+and execute the training, and to counsel and assess the students.
 
-involve any number of situations: a failed initiative; a major merger;
+They can be retired—in fact, recently retired leaders often make the best
 
-a disruptive competitor; new regulations; big market shifts; systemic
+cadre. You must have at least two cadre in any training, so that students
+
+can be provided with at least two perspectives. A good ratio of cadre to
+
+students is 1:5.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

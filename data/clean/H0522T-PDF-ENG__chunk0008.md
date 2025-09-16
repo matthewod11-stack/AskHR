@@ -1,35 +1,29 @@
-## harassment, unwanted sexual attention, and sexual coercion. Gender
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22c1971b8b73c0c7392f456a54fd920d9a28a511
+title: H0522T-PDF-ENG
+---
+## HBR / Digital Article / Has Sexual Harassment at Work Decreased Since #MeToo?
 
-harassment involves negative treatment of women that is not
+It helps to look at data. In 2016, before #MeToo took oﬀ, we surveyed
 
-necessarily sexual, but may include things like a supervisor or coworker
+250 working women in the U.S., asking about the pervasiveness of
 
-making sexist remarks, telling inappropriate stories, or displaying sexist
+sexual harassment in their workplaces and how it impacts them at
 
-material. Unwanted sexual attention includes coworker or supervisor
+work; we also interviewed 31 women in the U.S. about their individual
 
-behaviors such as staring, leering, ogling, or unwanted touching. Sexual
+experiences. We conducted a second survey after #MeToo, in September
 
-coercion includes bribing or pressuring women to engage in sexual
+2018, of 263 women, and we reconnected with some of the women we
 
-behavior. We also measured participants’ self-esteem and self-doubt, to
+previously interviewed to see whether they’ve seen changes or have
 
-see how these correlated with their experiences.
+changed their views. The survey was meant to gather quantitative
 
-What did we ﬁnd? In terms of what has changed, we saw that fewer
+evidence about changes since #MeToo, and the interviews were meant
 
-women in our sample reported sexual coercion and unwanted sexual
+to provide insight into why and how the changes occurred.
 
-attention following the #MeToo movement. In 2016, 25% of women
-
-reported being sexually coerced, and in 2018 that number had declined
-
-to 16%. Unwanted sexual attention declined from 66% of women to 25%.
-
-In contrast, we noticed an increase in reports of gender harassment,
-
-from 76% of women in 2016 to 92% in 2018. This data suggests that
-
-while blatant sexual harassment — experiences that drive many women
-
-out of their careers — might be declining, workplaces may be seeing a
+We measured sexual harassment along three dimensions: gender

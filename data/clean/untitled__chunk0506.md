@@ -1,5 +1,9 @@
-## The State of Comparative Psychology between the Wars
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a3d382dd8ad83894f5b2629a14dbf59b0ceab761
+title: untitled
+---
+# Between the World Wars 73
 
-The comparative psychologists educated during the 1920s and 1930s placed comparative psychology on a ﬁrm footing. Unlike the pre–World War I cadre, this group was successful in securing research support and in educating a next genera- tion of comparative psychologists who would carry on the tradition. Nevertheless, much was not well. This group of comparative psychologists, which appears to coalesce as a coherent unit when viewed in retrospect, did not appear so when viewed in its time. There were a number of reasons for this.
-
-Disciplines and subdisciplines become recognizable and inﬂuential with the development of a set of institutional land- marks including departments, textbooks, courses, research facilities, organizations, meetings, and journals. During this period, comparative psychology was well established in many departments, and courses were a staple in many places. In other respects, however, it lacked elements that foster cohesion.
+Other comparative psychologists completing graduate work during this era included Curt P. Richter (Johns Hopkins, 1921), Carl Murchison (Johns Hopkins, 1923), Leonard Carmichael (Harvard, 1924), Lucien H. Warner (Columbia, 1926), Otto L. Tinklepaugh (Berkeley, 1927), Winthrop N. Kellogg (Columbia, 1929), and Meredith P. Crawford (Columbia, 1935).

@@ -1,9 +1,15 @@
-# Journal of Economics 110(1): 73-92.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 4ae53a67637c54464c8e9d1ba209a3ed23d34438
+title: behavioral_economics_1
+---
+## Dependent Preferences." Quarterly Journal of Economics 112(2): 479-505.
 
-Benhabib, J. and A. Bisin (2005). "Modeling internal commitment mechanisms and self-control: A
+Benabou, R. and J. Tirole (2003). "Intrinsic and Extrinsic Motivation." Review of Economic Studies 70: 489-
 
-neuroeconomics approach to consumption-saving decisions." Games and Economic Behavior 52(2): 460-
+520.
 
-492.
+35
 
-Benjamin, D. J. and J. M. Shapiro (2005). Who is “Behavioral”? Cognitive Ability and Anomalous Preferences,
+Benartzi, S. and R. H. Thaler (1995). "Myopic Loss Aversion and the Equity Premium Puzzle." The Quarterly

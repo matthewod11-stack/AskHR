@@ -1,7 +1,13 @@
-## resource management. Westport, CT: Quorum Books.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4c62589d0dd240b149dfb58a2d61b1c8a680a29a
+title: untitled
+---
+# MA: Addison-Wesley.
 
-Benjamin, L. T., Jr. (1997). A history of Division 14 (Society for Industrial and Organizational Psychology). In D. A. Dewsbury (Ed.), Uniﬁcation through division: Histories of the divisions of the American Psychological Association (Vol. 2, pp. 101–126). Washington, DC: American Psychological Association.
+Austin, J. T., & Villanova, P. (1992). The criterion problem: 1917–1992. Journal of Applied Psychology, 77(6), 836–874.
 
-Benjamin, L. T., Rogers, A. M., & Rosenbaum, A. (1991). Coca- Cola, caffeine, and mental deﬁciency: Harry Hollingworth and the Chattanooga trial of 1911. Journal of the History of the Behavioral Sciences, 27, 42–55.
+Baritz, L. (1960). The servants of power. New York: Wiley.
 
-Bills, M. A. (1953). Our expanding responsibilities. Journal of
+Barrett, R. S. (Ed.). (1996). Fair employment strategies in human

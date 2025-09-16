@@ -1,9 +1,9 @@
-# role.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74177c89b05d568aeaafa3611783663b0d5077fa
+title: H08GNF-PDF-ENG
+---
+## members or between your team and another cross-functional team.
 
-- 8. Tell me about a time when you used data to make a decision.
-
-- 9. What feedback was given to you on your last performance evaluation
-
-and how did you incorporate it?
-
-- 10. Have you ever had to… (perform a speciﬁc task necessary for success
+- 7. Tell me about the top strategic issues you had to face in a previous

@@ -1,35 +1,35 @@
-# inclusive.
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33f4304dc12a1eccb0d2450bdd6964bfff2aeeb1
+title: H07268-PDF-ENG
+---
+## HBR / Digital Article / Office Politics Don’t Have to Be Toxic
 
-As a result of this approach, employees in these environments felt more
+understand where I’m coming from [and] appreciate me for who I
 
-comfortable engaging in politics. One worker shared that they used to
+am.” Other employees shared experiences in which both peers and
 
-hesitate to participate in oﬃce politics, but after experiencing a more
+managers used their clout to stand up for them or provide them with
 
-supportive organizational climate, they became “a bit more political
+developmental opportunities: “There’s something about having the
 
-in the way I interact with people and recognizing that it’s not just
+right support…I’ve been put forward for things and people have thought
 
-about how well you do your work…it’s about how you go about doing
+of me.”
 
-it.” Another described a newfound appreciation for a bit of healthy self-
+Rather than feeling slimy or underhanded, politics in these
 
-promotion, recognizing that “you do need to get yourself known and
+organizations were openly acknowledged and even taught to
 
-recognized by people in a position to help you.”
+newcomers. “You need to make sure that you’ve got supporters
 
-Of course, building an inclusive culture is easier said than done — but
+within the organization and that you know how to network well,” an
 
-it is possible. Through both our interviews and our broader research
+interviewee explained, “and that’s sort of drilled home from a very early
 
-on politics, leadership, and inclusion, we’ve identiﬁed ﬁve strategies to
+point once you join.” Similarly, others described workplaces in which an
 
-help organizations foster healthier oﬃce politics cultures, in which all
+explicit “focus on involvement in relationships and connectivity [was]
 
-employees are nurtured and supported:
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ingrained in the culture of the ﬁrm” in a way that was helpful and

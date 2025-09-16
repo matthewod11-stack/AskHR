@@ -1,7 +1,11 @@
-## backwardness under socialism — and the superiority of the capitalist
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf62dc0bcc892856d30aebccad7c738bc044bd8d
+title: H08D71-PDF-ENG
+---
+## leverage Western technology and know-how for China’s development.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+It was a politically risky move: Ideological hardliners in the
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Communist Party resented the implicit assumption of China’s economic

@@ -1,3 +1,7 @@
-# Cambridge, MA: MIT Press.
-
-Hearst, E. (1975). The classical-instrumental distinction: Reﬂexes, voluntary behavior, and categories of associative learning. In W. K. Estes (Ed.), Handbook of learning and cognitive processes (Vol. 2, pp. 181–224). Hillsdale, NJ: Erlbaum.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5a8021885dea64477ce8f6ce40e098b92f15bcb9
+title: untitled
+---
+## Haugeland, J. (1985). Artiﬁcial intelligence: The very idea.

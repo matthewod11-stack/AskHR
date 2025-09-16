@@ -1,31 +1,23 @@
-# HBR / Digital Article / Research: A Little Nature in the Office Boosts Morale and Produ…
+---
+source_path: H07Q3D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1634ddd46a5156969cd9e0506ae664a8525e440b
+title: H07Q3D-PDF-ENG
+---
+## beneﬁts of spending time outdoors in the evening, after the workday.
 
-Utilize unused or underused spaces. By deﬁnition, micro-nature is
+We found that employees were more productive the next day when they
 
-small, and can be as simple as painting a wall with natural tones, adding
+spent time outdoors the prior evening. Especially for hybrid and remote
 
-ﬂowers to the break room, or landscaping the area outside employees’
+workers, the implications are clear: The beneﬁts of being around nature
 
-windows. We encourage managers to keep an eye out for the unused or
+at home carry over into work. So even incentivizing employees to take
 
-underused spaces around their workplace that can be easily and cheaply
+an evening walk can help them be more productive the next day.
 
-turned into natural features. For instance, adding more landscaping to
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-an overly industrial parking lot may boost employees’ morale.
+4
 
-. . .
-
-Overall, our ﬁndings indicate that the beneﬁts of connecting employees
-
-to nature at work extend beyond sustainability, and include positive eﬀects on employees’ well-being and how they perform their jobs. As
-
-such, we view contact with nature as a valuable supplement to well-
-
-designed jobs that already include meaningful work, fair compensation,
-
-and respectful treatment. For ﬁrms that provide these things and are
-
-looking for more ways to enhance the environment in which their employees work, micro-nature oﬀers considerable promise.
-
-This article was originally published online on July 21, 2023.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

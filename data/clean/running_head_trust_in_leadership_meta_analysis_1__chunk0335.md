@@ -1,21 +1,27 @@
-# Paternalistic - Moral
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: bad939cdad9addb7f936faa818dc11d035f5fcc0
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Empowering
 
-5
+13
 
-1793
+3699
 
-.64
+.56
 
-.57
+.50
 
-.70
-
-.74
-
-.09
-
-15.14
+.61
 
 .63
 
-.85
+.12
+
+13.73
+
+.48
+
+.77

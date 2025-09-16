@@ -1,9 +1,17 @@
-## strategic progress, transformation, and long-term survival.
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5023b9cfce9da180559a5a813f2c2fd911440b6
+title: H071B9-PDF-ENG
+---
+## and defensive and provocative behavior between the parties, which in
 
-Organizations that overemphasize trust risk triggering this kind of
+turn harms the productive exchange of information that collaborative
 
-unproductive behavior. Of course, it’s important to know that people
+decision making depends on. Excluding behavior often comes from
 
-in the organization are trustworthy, but management meetings and
+individuals who believe they’re safeguarding and protecting their
 
-strategic collaboration efforts are not the right time to perform such
+organization. Unfortunately, they fail to realize that their behavior is
+
+keeping the organization from accessing the information needed for

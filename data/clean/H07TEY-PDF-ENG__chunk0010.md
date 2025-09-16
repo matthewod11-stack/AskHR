@@ -1,19 +1,33 @@
-## too high, relative to the market benchmark.
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4222430fbbba4149599bfd3167c018c4db77c7d9
+title: H07TEY-PDF-ENG
+---
+# spot?
 
-Our research also provides empirical evidence that access to salary
+In a recent study, we developed a theoretical model to shed light on the
 
-benchmarks has a signiﬁcant eﬀect on the salaries that ﬁrms set. We
+demand for salary benchmarking. In our model, ﬁrms know exactly how
 
-conducted it in collaboration with the largest U.S. payroll processing
+much value the job candidate would bring to the table. The ﬁrm would
 
-company, ADP, serving more than one million ﬁrms and processing
+like to oﬀer the candidate below that value to keep some of the value
 
-paychecks for one in six U.S. workers. In addition to the payroll services,
+as proﬁt. However, how much lower should the oﬀer be? The lower the
 
-the company aggregates the salary data from their payroll records in the
+oﬀer, the better the savings. On the other hand, if the oﬀer is too low,
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+the ﬁrm risks losing the job candidate to another ﬁrm — they may turn
 
-2
+down the oﬀer, or accept the oﬀer and leave shortly thereafter.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+So, whether the company wants to make a more or less aggressive oﬀer
+
+depends critically on what the ﬁrm believes is the market value of the job candidate: i.e., how much other ﬁrms are willing to pay for the job
+
+candidate. That’s where salary benchmarking comes in: ﬁrms can use
+
+data on the oﬀers accepted by similar employees (e.g., with the same
+
+position title and industry) to make sure that their oﬀer is not too low, or

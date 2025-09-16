@@ -1,27 +1,35 @@
-# ﬁnal sound.”
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a63595c1284618720b79981659f2b9b4c7f8b526
+title: H08PTL-PDF-ENG
+---
+# Board Chairs’ Power-Conduit Tasks
 
-Leaving the task of creating the agenda to AI—based on, for example,
+We identiﬁed three critical power-conduit tasks used by board chairs:
 
-how long each item has taken to discuss in the past—completely
+Managing the agenda
 
-bypasses the chair’s strategic thinking.
+The board chair strategically determines which topics will be discussed
 
-The chair also exercises behind-the-scenes inﬂuence over the ﬂow of
+and in what order, inﬂuencing the priorities and ﬂow of board meetings.
 
-information that AI cannot easily replicate. They guide how information
+Managing the agenda may seem straightforward, but around 30% of the
 
-is presented, manage who speaks and when, and ensure people interact
+chairs said this was a major way they exercised inﬂuence. It’s not just
 
-constructively. For example, using their judgment, considering the
+about listing the topics to be discussed; it’s about shaping the entire
 
-business environment, and anticipating the mood, a chair may coach
+ﬂow of the conversation: where each part goes, what gets emphasized,
 
-the CEO on how, when, and what materials to present. Setting the tone
+and what’s not discussed at all or only when speciﬁcally prompted. (For
 
-for the meeting is one of the most underrated and least-understood
+example, a chair might intentionally hold oﬀ on a contentious topic
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+until everyone is on the same page or the groundwork is set.)
 
-3
+“The role of the chair is like a conductor in an orchestra,” as one board
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+chair told us, “where you don’t actually play—you don’t make any
+
+sounds, you don’t play any instruments, but you’re responsible for the

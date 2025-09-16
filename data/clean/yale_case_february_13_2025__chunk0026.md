@@ -1,7 +1,13 @@
-# Conclusion
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: de19c8412d7c6b03c16e94dae0ad3dfb259961b4
+title: yale_case_february_13_2025
+---
+# 14 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
 
-Terminating an employee is never a comfortable experience, yet it remains a critical responsibility in any organization’s life cycle. Handled thoughtfully, it can serve as a pivotal moment for reinforcing values like transparency and fairness. ETA leaders who practice open communication, provide clear expectations, and examine their own organizational shortcomings before making a final decision ultimately shape a workplace where people understand why tough calls sometimes have to be made. Such diligence also reassures remaining employees that the process is guided by genuine concern for everyone’s well-being rather than hasty judgment.
+“freeing” event for the struggling employee. Leading with kindness and compassion can help facilitate the employee being on the same page as the manager, resulting in an optimized chance of amicable offboarding.
 
-Across every stage—from carefully reviewing company policies to conducting that final meeting—decisions about terminations benefit from compassion, foresight, and structured procedures. By prioritizing employee development, embracing legal best practices, and involving external experts as needed, organizations maintain credibility and a positive work environment. While parting ways is never easy, consistently approaching these moments with empathy, respectful dialogue, and balanced accountability can help preserve team morale and protect the company’s integrity for the future.
+My most recent termination reflects this more evolved approach. The employee was aligned with Montis’s culture but struggled with performance. Rather than resorting to a sudden decision, I worked closely with the individual, offering support and regular feedback to try to get them back on track. Once we realized that was not working, we continued to explore the employee’s strengths and how they did not fit the criteria needed to be successful in the current role. We did not have a role that better suited their affinity match, so we helped the employee determine a better path for themselves and devoted time to finding a better-fitting person for the role. The employee eventually transitioned to a new company and position with Montis’s full endorsement, even expressing gratitude for the support during the process.
 
-We hope that you spend relatively little time firing employees in your ETA odyssey, but the situation will arise. We hope that this note will better prepare you for the awkwardness and reality of terminating an employee. Good luck with your search fund quest, and we wish you smooth sailing and victory!
+I do a lot of executive and conscious leadership coaching, which has made me a significantly better leader and CEO. Offboarding is a very challenging, but important, part of the CEO role, particularly in a growing company. While offboarding is never an enjoyable process, if led with empathy and compassion, it can be mutually beneficial and be effectuated with both sides feeling good at the end of the day.

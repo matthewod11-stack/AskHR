@@ -1,17 +1,25 @@
-## Determining Whether an Employment Decision Is Legal
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4cd0712f107c054f262ecac8ac1be6db14e997f0
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Case goes to U.S. Supreme Court
 
-At first glance, the legal aspects of making employment decisions seem compli- cated. After all, there are many laws and court cases that apply to employment decisions. The basic legal aspects, however, are not that complicated. Use the flow chart in Figure . to make the process easier to understand as each stage is discussed.
+7
 
-Does the Employment Practice Directly Refer to a Member of a Federally Protected Class?
+7
 
-An employment practice is any decision that affects an employee. Employment practices include hiring, training, firing, promoting, assigning employees to shifts, determining pay, disciplining, and scheduling vacations. Thus, any deci- sion made by an employer has the potential for legal challenge.
+7
 
-The first step in determining the legality of an employment practice is to decide whether the practice directly refers to a member of a protected class. A protected class is any group of people for which protective legislation has been passed. A federally protected class is any group of individuals specifically protected by fed- eral law. A list of U.S. federally protected classes is shown in Figure .. Table . shows the similarity of protected classes in the United States and in selected other countries. In Canada, there are no federally protected classes; each province makes its own employment law. Thus, the protected classes listed for Canada in Table . are those protected by law in all provinces and territories. A complete list of pro- vincially protected classes can be found in the appendix at the end of this chapter.
+7
 
-Though one would assume that few employers in the twenty-first century would intentionally make employment decisions on the basis of a person’s sex, race, national origin, color, age, religion, or disability, there are hundreds of orga- nizations each year that do exactly that. For example, in , Rent-A-Center set- tled a sex discrimination case for $ million after its chief executive officer and other managers discriminated against women. Some of their quotes included, “Get rid of women any way you can,” “In case you didn’t notice, we do not employ women,” and “The day I hire a woman will be a cold day in hell.”
+In , the Shoney’s restaurant chain settled a racial discrimination case for $ million. Most of the money went to approximately , African Americans who either worked for or were denied employment with Shoney’s over a -year period. The size of the settlement was based not only on the high number of victims but also on the severity of the discrimination. For example, the number of African American employees in each restaurant was limited to the percentage of African American customers. When African Americans were hired, they were placed in low-paying kitchen jobs. In addition to the $ million, Shoney’s agreed to institute an affirmative action program over the next  years. Texaco settled its racial discrimination suit in  by agreeing to pay $ million to , current and former African American employees. The settlement was prompted by the public airing of a tape recording of a Texaco executive using a racial slur. In , the Morgan Stanley brokerage house settled a sex discrimination complaint for $ million. In , Abercrombie & Fitch settled a sex and race discrimination complaint for $ million.
 
-80
+legal issues in employee selection
 
-chapter 
+79
 
-Figure 3.2 Determining whether an employment practice is legal
+If a settlement cannot be reached, however, the case goes to a federal district court, with the EEOC representing (physically and financially) the person filing the complaint. When the district court makes a decision, the decision becomes case law. Case law is a judicial interpretation of a law and is important because it establishes a precedent for future cases. If one side does not like the decision rendered in a lower court, it may take the case to one of the  circuit courts of appeal. A ruling by a circuit court of appeals serves as binding case law only for that particular circuit. That is why, in this chapter, the circuit is identified along with most of the court cases.
+
+If either side does not like the appeals court decision, it can ask the U.S. Supreme Court to review it. The Supreme Court will consider a case only if the decision is legally important or if the rulings on an issue are inconsistent across the circuit courts. Obviously, a ruling by the U.S. Supreme Court carries the most weight, followed by appeals court rulings, and then district court rulings.

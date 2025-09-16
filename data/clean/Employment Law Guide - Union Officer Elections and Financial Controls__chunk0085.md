@@ -1,5 +1,9 @@
-## 30 and S-1 OLMS Electronic Forms System Tutorial PowerPoint Presentations
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: 1f8de88774f94c49a05b267b3e4fcd94c624e945
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+# Fact Sheet on LMRDA
 
-Additional compliance assistance, including explanatory brochures, fact sheets, and regulatory and
-
-interpretive materials, is available on the Compliance Assistance "By Law" webpage.
+Information on Reporting and Disclosure Forms LM-1, LM-10, LM-15, LM-15A, LM-16, LM-20, LM-21, LM-

@@ -1,43 +1,33 @@
-## HBR / Magazine Article / Why You Need Systems Thinking Now
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dca4088141fdb0a54f0c3b8ce4b0eb71777354b4
+title: R2505M-PDF-ENG
+---
+# toothbrushes.
 
-Co-operators, a leading ﬁnancial services and insurance company in
+However, an innovation need not be a new product, service, or feature
 
-Canada, knew that it had to disrupt the ﬂow of damaged materials to
+to solve a problem. Changes to the ﬂows or relationships among actors
 
-landﬁlls and improve the ﬂow of restored materials back into homes.
+can be just as eﬀective, either by reducing friction to speed things up or
 
-It developed a resiliency and sustainability strategy and identiﬁed
+adding friction to slow down some parts of the system.
 
-speciﬁc initiatives that would help its clients and communities rebuild
+Consider insurance companies, which face increasing costs as property
 
-in ways that would reduce waste and prevent future losses. For example,
+claims rise owing to the growing magnitude and frequency of
 
-Co-operators introduced “drying in place” for homes that experience
+climate-change-related weather events. The contractors that insurance
 
-damage from clean water. Instead of stripping out and replacing
+companies hire often throw damaged materials into landﬁlls and
 
-drywall and ﬂoorboards, vendors bring in high-powered fans to remove
+rebuild houses with new materials that draw down natural resources.
 
-moisture from houses, preventing mold problems and allowing owners
+All of this contributes to even more climate change.
 
-to return to their homes within 72 hours. What’s more, through its
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-new “soft contents” cleaning process, Co-operators can also restore
+12
 
-owners’ furniture, clothes, and other possessions, thereby saving items
-
-of sentimental value and reducing materials sent to the landﬁll.
-
-Systems thinkers reframe the definition of a complex problem iteratively to motivate stakeholders who may experience a system’s dysfunctions differently.
-
-Co-operators built sustainability requirements into its vendor-selection
-
-process to ensure that when homeowners experience a claims event,
-
-they can more easily choose a vendor that has embedded sustainability
-
-principles and practices into its operations. By removing frictions
-
-related to choosing sustainable solutions, Co-operators has been able
-
-to save money, protect the environment, and improve customer
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

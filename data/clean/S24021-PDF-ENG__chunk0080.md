@@ -1,11 +1,13 @@
-## metropolitan Boston and one each in Maine and New Hampshire.
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 468b2a13911d633b4e426f0072183dd41dd7b8f1
+title: S24021-PDF-ENG
+---
+## geographic expansion, and less franchising—or change its value proposition
 
-A version of this article appeared in the March–April 2024 issue of Harvard Business Review.
+and culture to enable faster growth, broader geographic expansion, and
 
-Gary P. Pisano is the Harry E. Figgie Jr. Professor of Business Administration at Harvard Business School and the author of Creative Construction: The DNA of Sustained Innovation (PublicAﬀairs, 2019).
+more franchising. They tried to have it both ways, and it didn’t work. As
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of 2023, the company was down to just 13 outlets, 11 of which were in

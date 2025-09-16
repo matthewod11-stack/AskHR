@@ -1,11 +1,15 @@
-## any personal information about the senders and recipients. We also
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16a379298e6772244d417c4f426a3170d6283310
+title: H087XL-PDF-ENG
+---
+# toward others.
 
-measured their burnout and level of aggressiveness using a survey.
+We employed a multi-method approach to test our ideas. First, we
 
-In a second study, we surveyed a sample of U.S. employees across
+conducted a ﬁeld study at a university in South America. We collected
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+email exchanges among employees to measure how and how much
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they collaborate across silos. These emails were anonymized to remove

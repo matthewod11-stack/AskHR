@@ -1,49 +1,23 @@
-# Figure 20: Job seeker’s journey
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: c597cb4d3428a5030caf73c3d9796cac8f36d9d1
+title: i
+---
+# job-seeking activity.
 
-- 3. Acquisition/hiring
+Stage 2: Active Consideration, Evaluation, or Knowledge. The analysis identifies the active
 
-The talent acquisition analytics emphasize the four stages of recruiting
+or frequent points of contact for the job seekers while approaching the organization.
 
-- Application.
+Stage 3: Action. The analysis of this stage describes various phases of the application process
 
-- Preselection.
+from the considering applying moment to the acceptance of a job offer.
 
-- Interviews.
+Stage 4. Post hired. At this stage, the employee’s engagement and commitment are addressed
 
-- Selection.
+and analyzed. This is also a measurement of how emotionally invested and dedicated
 
-The talent acquisition analytics quantify the selection process’s metrics in terms of quantity of
+employees are to the jobs and the organization.
 
-applicant numbers and interview rounds. In addition, the analytics also address other qualitative
-
-indicators such as interview question type, relevancy of candidate resumes and relevancy of
-
-education and work background. The predictive analysis of talent acquisition is reported to be
-
-employed by 67% of interviewed companies (Isson et al. ,2016), which has impacts on their
-
-recruiting process.
-
-- 4. Onboarding, culture fit, and engagement
-
-Onboarding, culture fit, and engagement analytics are designed for standardized and well-
-
-structured experience onboarding programs. Insights from data are a guideline for each stage
-
-47
-
-of onboarding and identifying the critical elements for each specific program to enhance its
-
-overall effectiveness. Furthermore, the application of analytics can provide insights into the
-
-progress of each new employee within the onboarding process and predict which aspects of the
-
-program are indicative of future employee success.
-
-This analysis does not just only measure the perceptions and activities of new hires during the
-
-onboarding process, it is essential also to establish analytical connections between onboarding
-
-programs and specific outcomes, identify predictive indicators of whether a new employee will
-
-achieve long-term success within organization, which depends as well on the organization
+46

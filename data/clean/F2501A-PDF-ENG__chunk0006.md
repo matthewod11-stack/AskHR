@@ -1,27 +1,33 @@
-## HBR / Magazine Article / Learning Emerging Skills Doesn’t Always Pay Off
+---
+source_path: F2501A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22c32d0395e52acaebbf2969980848fb45528911
+title: F2501A-PDF-ENG
+---
+## Tony Guadagni, a director in Gartner’s HR practice and the lead author
 
-evolve rapidly, and some become obsolete before anyone has the chance
+of the survey, oﬀers four tips for building an eﬀective training program
 
-to master them.
+dedicated primarily to core skills.
 
-Tout the beneﬁts of focusing on core skills. Managers and their
+Determine the right skills. Focus only on your current business needs.
 
-employees are often resistant to developmental training, according to
+Ask employees what skills they need to thrive in their jobs today. Speak
 
-Guadagni. Managers worry that the time employees spend learning or
+to your recruiters and managers, too. Drawing on those conversations,
 
-brushing up on skills will eat too much into their day-to-day tasks.
+create a list of 10 core skills for every role. They should be tied to
 
-Employees worry that their regular work will be interrupted and that the
+business results, and they should reﬂect only what’s mission critical
 
-skills they learn won’t help them do their jobs better. This is especially
+now. That’s because roles change quickly, as the survey participants
 
-true when a training program focuses on core skills.
+Guadagni interviewed report, but the fundamental skills required to do
 
-To win over skeptics, you should be clear about why employees must
+most jobs don’t. That isn’t the case with emerging skills, however. They
 
-acquire or improve core skills, even those the employees think they’re
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-already expert in. No matter which ones you refresh, you should oﬀer
+2
 
-speciﬁc information about how they will help employees succeed and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

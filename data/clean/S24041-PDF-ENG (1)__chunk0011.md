@@ -1,15 +1,11 @@
-## in straightforward operational or functional roles and consistently
+---
+source_path: S24041-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 547ae2f16dbe858e17405faea367b2e9687ad9a7
+title: S24041-PDF-ENG (1)
+---
+## HBR / Spotlight Article / Power, Influence, and CEO Succession
 
-exceeding expectations. Success in the top job, in contrast, requires
+That can be disorienting to the successor, especially if she’s a ﬁrst-
 
-acute awareness of political forces, the wise use of power, and skill
-
-at inﬂuencing others. Mastering these requirements is crucial for
-
-incoming CEOs.
-
-We have witnessed these dynamics ﬁrsthand. One of us, Dan, has
-
-seen them as an adviser to CEOs and boards for ﬁve decades and
-
-as a director at companies that changed CEOs. He also experienced
+time CEO. She probably has been promoted for performing well

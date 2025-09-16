@@ -1,3 +1,29 @@
-## HBR / Digital Article / Is Your Flexible Schedule Burning You Out?
+---
+source_path: H08RVK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f013d583088645a843744e46b1e50ba1530b7c27
+title: H08RVK-PDF-ENG
+---
+## initiatives, like a roadmap for an organization-wide eﬀort, as well as
 
-areas and then eliminate as many of the activities as possible that fall
+meeting with other executive stakeholders to get alignment on that
+
+plan. Tim performed at a higher level and received a promotion by
+
+ensuring that when he did work, he was doing so on the most valuable
+
+use of his time. Best of all—he stopped feeling guilty and had time back
+
+in the evening and on weekends to spend with his family.
+
+As a senior leader, there will always be more tasks that people want you
+
+to do than you can get done. To succeed, decide on where you provide
+
+the highest value in terms of the organization’s goals. Focus on those
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

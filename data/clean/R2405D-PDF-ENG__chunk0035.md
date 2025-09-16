@@ -1,17 +1,19 @@
-## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83f7dc000679f433103d3bb03ed91ec995f26314
+title: R2405D-PDF-ENG
+---
+# Start by Speaking Up
 
-nearly spot-on—demonstrating the wisdom of the crowd. Harnessing
+In 1906, Sir Francis Galton famously analyzed data on a contest at a
 
-that wisdom can be challenging, however. Collective intelligence is
+livestock fair in which people guessed the weight of an ox. Though
 
-best when mechanisms are in place to promote active and diverse
+individual guesses were all over the map, the average of the guesses was
 
-participation. Otherwise, crowds can also amplify bias—especially when
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-they’re homogeneous in viewpoint.
+8
 
-To overcome bias, business leaders can invite contributors with diverse
-
-perspectives to a conversation, ask them to challenge and build on
-
-ideas, and ensure that discussions are probing and draw on high-quality
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

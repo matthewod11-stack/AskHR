@@ -1,9 +1,29 @@
-## HBR / Digital Article / 3 Ways AI Is Changing How Companies Work
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09554f48f9fe445f3628ca00bfe87eef772e5a74
+title: H08LEQ-PDF-ENG
+---
+## Due to rapid changes in consumer sentiment, geopolitics, and global
 
-time of day that users watch content. This allows Netﬂix to oﬀer highly
+ﬁnance, the static nature of the digital era has come under intense
 
-personalized recommendations, ensuring that each user’s experience is
+pressure. Companies no longer have the luxury of staged periodic
 
-unique and engaging. This AI-driven level of personalization has been
+transformation dictated by the rhythm of software upgrades. They must
 
-wildly successful, with up to 80% of content watched on Netﬂix coming
+now adapt dynamically to conditions that can change almost overnight.
+
+Consider how Netﬂix, despite signiﬁcant competition, stays ahead in
+
+the streaming industry by leveraging AI to continuously reinvent its
+
+business and deepen user engagement. For instance, AI algorithms
+
+analyze user data, such as viewing history, preferences, and even the
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

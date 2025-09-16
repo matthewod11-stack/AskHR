@@ -1,13 +1,9 @@
-## procedural justice climate”, Personnel Psychology, Vol. 55 No. 1, pp. 83-109.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: 80cebd3f4be7ed9abff37315672876459ea80fc7
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# Organizational Behavior and Human Decision Processes, Vol. 86 No. 2, pp. 278-321.
 
-(2001), “Justice at the millennium: a meta-analytic review of 25 years of organizational justice research”, Journal of Applied Psychology, Vol. 86 No. 3, pp. 425-445.
-
-Colquitt, J.A., Conlon, D.E., Wesson, M.J., Porter, C.O.L.H. and Ng, K.Y.
-
-) T P (
-
-9 1 0 2
-
-y r a u r b e F 8 0
-
-8 3 : 1 0
+Colquitt, J.A., Noe, R.A. and Jackson, C.L. (2002), “Justice in teams: antecedents and consequences of

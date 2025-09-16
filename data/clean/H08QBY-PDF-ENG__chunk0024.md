@@ -1,11 +1,7 @@
-# Remain human-centric.
-
-AI reduces the need for people to conduct mundane tasks and
-
-elevates the importance of high-value, human-led tasks. Ensuring that
-
-employees can continue to carry these latter tasks out not only sustains
-
-morale but also delivers diﬀerentiating value to your enterprise, which
-
-is something your competitors can’t simply download. So invest in
+---
+source_path: H08QBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e7f1027b054dd411161eac1a4d7f49f17f70a258
+title: H08QBY-PDF-ENG
+---
+# sovereignty of your enterprise.

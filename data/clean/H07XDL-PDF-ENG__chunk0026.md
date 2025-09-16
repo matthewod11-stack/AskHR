@@ -1,5 +1,31 @@
-## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6672289b67a06392892efd4b8f1d4280898a3d02
+title: H07XDL-PDF-ENG
+---
+## purpose statement serves as an important guardrail for your strategy
 
-Perhaps your answers include mentoring, problem-solving, or engaging with diﬀerent types of people. Finally, ask, What need can I help address
+and is a North Star for your organization.
 
-in the world? It could be one of the 17 Sustainable Development Goals
+The same questions can be used to ﬁnd your life purpose. Ask yourself,
+
+What am I good at? Think about situations at work or in other areas of
+
+life in which you have demonstrated critical strengths such as creativity,
+
+teamwork, or communication. Then ask, What are my core values?
+
+Think about critical decisions you’ve made and principles you hold
+
+dear that have provided direction, such as honesty, fairness, or integrity.
+
+There are dozens of online lists and tests to help you consider your most
+
+important values. The next question is, Which activities light me up?
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

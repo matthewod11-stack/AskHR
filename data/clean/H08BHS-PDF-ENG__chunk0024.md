@@ -1,9 +1,11 @@
-# @RuthGotian
+---
+source_path: H08BHS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94dc8ce17864da1e694eab651afba43a35f65b94
+title: H08BHS-PDF-ENG
+---
+# a strategic vision.
 
-Andy Lopata is the author and coauthor of six books on networking and professional relationships, including The Financial Times Guide to Mentoring and the host of The Connected Leadership podcast. You can measure your mentoring impact here.
+This article was originally published online on August 19, 2024.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Ruth Gotian, EdD, MS, is the chief learning oﬃcer and associate professor of education in anesthesiology at Weill Cornell Medicine in New York City. She is the author of The Financial Times Guide to Mentoring with Andy Lopata and The Success Factor. Discover your potential for high achievement by taking her exclusive High Achiever Optimization Assessment here.

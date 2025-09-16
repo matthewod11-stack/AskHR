@@ -1,1 +1,7 @@
-# DA ACQ
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 72d2f27cb5a908d085b0514d049f231bcb3b3afb
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# Behavioral

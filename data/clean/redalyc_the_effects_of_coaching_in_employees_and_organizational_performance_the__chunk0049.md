@@ -1,35 +1,29 @@
-## Intangible Capital – http://dx.doi.org/10.3926/ic.586
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: a953dd1591cf94ee8f5a9e51139ac90fbc7f869b
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Schoemaker, 1993; Barney, 1991; Grant, 1996; Peteraf, 1993).
 
-Thus far, we have analysed the state of the art in coaching, completed the conceptual
+According to the theory of resources and capabilities, coaching can give human resources
 
-framework and established the theoretical framework to provide support for these processes
+strategic value because the practice renders this asset rare and more inimitable, thus
 
-according to social exchange theory and the RBV. We now conduct the empirical research of
+transmitting a firm’s strategy to individual employees and helping them understand the firm’s
 
-the theoretical questions formulated above.
+mission and values (Núñez-Cacho, Grande & Pedrosa, 2012; Pérez, Montes & Vázquez, 2006).
 
-When an organisation prepares for this process after previously identifying employee needs,
+Thus, the competencies, capabilities and knowledge that are transferred in coaching
 
-establishing objectives, and supporting and facilitating the process execution (Bolch, 2001),
+programmes, which are designed to serve a firm’s needs, have the potential to create
 
-there is a transmission of knowledge and competences that improve the individual
+resources that are capable of generating a sustainable competitive advantage (Barney, 1991).
 
-performance of coachees. Coaching is a tool that is capable of creating value (Hammervoll,
+On the basis of the above discussion, the following theoretical framework of our research is
 
-- 2011) that consequently improves the capabilities of human resources. Coaching converts
+presented (Figure 1):
 
-human resources into an asset that is unique and valuable to the organisation and that is
+Figure 1. Theoretical framework for study of coaching. Source: The Authors, adapted from Joo (2005)
 
-difficult for competitors to imitate. As Ellinger, Ellinger and Keller (2003) and Luthans and
-
-Peterson (2003) highlight, a coachee will apply his/her new knowledge to daily tasks in his
-
-workplace, affecting positively his individual performance. As a consequence, we can expect
-
-that organisational performance improve. However, to ensure that this outcome actually occurs
-
-in practice, we must first empirically demonstrate the relationship between individual
-
-performance and organisational performance and thus avoid making inferences from one level
-
-to another. Such inferences frequently lead to the so-called fallacies of the wrong level (Allen,
+-173-

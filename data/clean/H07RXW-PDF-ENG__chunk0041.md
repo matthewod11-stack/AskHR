@@ -1,7 +1,17 @@
-## advantage in ﬁnancial performance (1.3x).
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af24f01c0aedc7512a265d1bdabe5cd58f6ba34d
+title: H07RXW-PDF-ENG
+---
+## “Manage” MEs with decentralized marketplaces instead of centralized authority.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Our ﬁndings conﬁrm that empowering units and teams to act with
 
-7
+autonomy and make their own decisions is a powerful driver of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+entrepreneurial intensity. Firms that do this enjoy over 2x higher
+
+entrepreneurial intensity rates. They are also 1.5x better at recruiting
+
+and retaining top talent and enjoy a more marginal, but signiﬁcant

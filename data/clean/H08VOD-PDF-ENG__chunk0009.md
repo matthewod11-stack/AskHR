@@ -1,33 +1,29 @@
-## experience, technical expertise, or direct exposure to the customer’s
+---
+source_path: H08VOD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 142d557a501ba38d596b66a8b8a2c9291825162c
+title: H08VOD-PDF-ENG
+---
+## HBR / Digital Article / Should You Delegate That Decision? Ask These 4 Questions
 
-world. Other times, the right person has little to no direct contact to the
+- 2. Is this a decision we’ve made before—and could it be routinized?
 
-customer’s world, but still has the insight or know-how to ﬁnd the right
+Pattern decisions—like approving discount requests, prioritizing bug
 
-solution. Even if you outrank them, their view may be sharper.
+ﬁxes, or evaluating vendor proposals—repeat over time. You’ve likely
 
-Why it helps: This question surfaces underused insight and creates
+seen the same issue before and already have guardrails in place.
 
-space for others to bring forward what only they can contribute.
+Someone else can use historical data or follow a clearly communicated
 
-- 4. Where is momentum stalled, and who could move it forward with a decision? These are stuck points—places where work is delayed either because no
+procedure to solve the problem.
 
-one feels empowered to move it forward or because there is no obvious
+Why it helps: This question reveals where you’re spending time on
 
-role or responsibility that oversees this work stream. The risk isn’t a bad
+decisions that could be systematized. Once you deﬁne the criteria, you
 
-call; it’s no call at all.
+can create a checklist—and a handoﬀ opportunity.
 
-Why it helps: Leaders often try to step in and push the work. But asking
+- 3. Whose perspective would lead to a better answer than mine?
 
-this question gives someone else the authority to unblock the path.
-
-Asking yourself these four questions isn’t just about reclaiming
-
-hours. It’s about reclaiming leadership. When you hand over decision
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Sometimes, someone else can bring a unique lens, whether it’s lived

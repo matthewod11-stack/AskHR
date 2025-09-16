@@ -1,19 +1,21 @@
-## HBR / Digital Article / Research: Why Inclusive Hiring Must Include Refugees
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 466a85a792ab69b3e9c7b00a7971b245d2f04ff1
+title: H08BKU-PDF-ENG
+---
+## Think of inclusive recruitment beyond direct recruitment.
 
-opportunity to collect documents, strategize about their future career
+There are numerous actions managers can take to support refugees,
 
-paths, or learn about the rules of the local job market. To this end,
+even if they are not presently hiring. The refugees we interviewed told
 
-resettlement agencies and support organizations across the world are
+us about their struggles to rebuild their lives. Wars, natural disasters,
 
-always searching for corporate mentors who can help guide refugees
+and persecution forced them to leave their homes. They had no
 
-through the maze of local recruitment practices. Most importantly,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-there are multiple local organizations across the globe supporting
+6
 
-refugees resettling in your neighborhood. Like many leaders who
-
-talked with us, employers and HR professionals might be surprised
-
-by how much they will learn about resilience, culture, and leadership
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

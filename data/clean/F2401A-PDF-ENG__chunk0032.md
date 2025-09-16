@@ -1,21 +1,11 @@
-## development opportunities for people on a fast track—both internal and
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a561e2266abc9c70c6b64c19fcccdd03017b1a1
+title: F2401A-PDF-ENG
+---
+# critical.
 
-external management programs. One activity is essentially a Renaissance
+How do you ensure a pipeline of people who are ready?
 
-weekend for leaders; it involves discussions with experts in psychology,
-
-literature, music, and so on. It helps people understand how to develop the
-
-right side of the brain; that’s as important to leadership as the left side.
-
-What’s your view on outside candidates?
-
-You should always have someone in the mix who’s not a long-term insider.
-
-But I’m usually not a fan of hiring complete outsiders; there are too many
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The Apex council rotates talent within and across our companies. It ensures

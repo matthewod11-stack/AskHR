@@ -1,17 +1,23 @@
-# Work-life balance
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: ae621d86ad26fac7ed2f0255a48ad6249e60225e
+title: read_online
+---
+# Social support
 
 1.00
 
-6.6
+7.00
 
-3.018
+5.301
 
-1.231
+1.221
 
-0.255
+- 0.927
 
 0.137
 
-- 0.383
+0.962
 
 0.274

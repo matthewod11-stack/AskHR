@@ -1,13 +1,17 @@
-## by Socrates, one of the founders of Western philosophy. The
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ead07d45341e971f58a59f15f31b8e8edce9c21b
+title: H07T10-PDF-ENG
+---
+## passionate about your company, products, culture, or any of the eight
 
-Socratic method uses thought-provoking question-and-answer probing
+traits referenced earlier.
 
-to promote learning. It focuses on generating more questions than
+But how do you identify individuals with this versatile and compelling
 
-answers, where the answers are not a stopping point but the beginning
+mix of critical thinking and curiosity? Boldly ﬂip the interview process.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+The oldest and still the most powerful tactic for fostering critical
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+thinking is the Socratic method, developed over 2,400 years ago

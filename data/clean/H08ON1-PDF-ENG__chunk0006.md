@@ -1,11 +1,21 @@
-# diligence process.
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8183984e31d6ac032fd92ee6608c21fcdebbb94
+title: H08ON1-PDF-ENG
+---
+# achieve pre-deal expectations.
 
-Our recommendations for managing the employee integration journey
+Why is that the case? Through our research and work with
 
-have emerged most recently from over 70 hours of interviews and
+organizations, we have found that while companies’ pre-deal due
 
-focus groups with acquired employees across 15 acquisitions of a large
+diligence is often strong, there tends to be a lack of focus on the day-
 
-multinational organization that routinely acquires companies. The
+to-day experiences of the acquired employees, which can have serious
 
-acquisitions we analyzed included organizations of all sizes, operating
+negative implications for the success of the deal. For acquiring ﬁrms,
+
+planning for the employee integration experience is just as important
+
+for achieving deal value as other, more traditional, steps of the due

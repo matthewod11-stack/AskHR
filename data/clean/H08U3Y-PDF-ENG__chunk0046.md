@@ -1,13 +1,27 @@
-## institutions—cities, but also corporations, universities, or non-proﬁts.
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5ba3c04c8765db13d1d6822a0e5a1a59d14b28d
+title: H08U3Y-PDF-ENG
+---
+## this conversation productive, not just the platform itself.
 
-Platforms like AnyLogic, FlexSim, and Visual Components are already
+Further, these tools only matter if they are integrated into the right
 
-developing similar tools for corporations, a trend that is likely to
+ecosystem. In Hamburg, the city could not take advantage of CityScope
 
-accelerate in the years to come. Far from a substitute for human
+without also reforming bureaucratic hurdles that prevented certain
 
-decision-making, these platforms will oﬀer a powerful complement to
+spaces from being repurposed or built upon. CityScope helped identify
 
-it: a way to harness data at the service of common goals.
+and prioritize those reforms, but without them, the remainder of its
 
-This article was originally published online on August 12, 2025.
+functions would have been futile. While AI can streamline processes
+
+and help us make better decisions together, only with the right
+
+leadership can these tools translate into collective action.
+
+Nevertheless, tools which combine sophisticated simulations with
+
+direct engagement can change how we make decisions in all kinds of

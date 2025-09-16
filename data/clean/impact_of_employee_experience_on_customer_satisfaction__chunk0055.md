@@ -1,5 +1,13 @@
-# 10 | P a g e
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: d182c4f973ff4a7eb7415134f5303c09f8e65eb9
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Fig. 5 Evolution of Employee Experience
 
-workers to why and how their people work. For the last two or three decades, this has
+Then came the Engagement, a completely new idea that showed the business world
 
-been our status quo. Although employee experience is sometimes seen as a
+that it's more important to pay attention to employees than to get the most out of them.
+
+This ground-breaking strategy switched attention from how companies can help their

@@ -1,15 +1,11 @@
-## Does not apply Very minor Low Average High Extreme
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: faab5729da9bc19aa98ae0f0bbd3e17487130a95
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Code Importance to This Job (l)
 
-4.1 Communications Rate the following in terms of how important the activity is to the completion of the job. Some
+4 Relationships with Other Persons This section deals with different aspects of interaction between people involved in various kinds of work.
 
-jobs may involve several or all of the items in this section.
-
-99
-
-4.1.1 Oral (communicating by speaking) Advising (dealing with individuals in order to counsel and/or guide them with regard to
-
-problems that may be resolved by legal, financial, scientific, technical, clinical, spiritual, and/or other professional principles)
-
-100
-
-Negotiating (dealing with others in order to reach an agreement or solution, for example,
+N 1 2 3 4 5

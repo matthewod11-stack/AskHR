@@ -1,3 +1,9 @@
-# 212 Developmental Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c3a45e2375a9433127f50425099f3463e3eb516a
+title: untitled
+---
+# Redeﬁning Social Learning Theory
 
-social learning theory drew much of its theoretical founda- tion from developments in the new cognitive science, with its insights into attention and memory. Not only were drives and drive reduction unnecessary for learning, according to Bandura, but reinforcement was unnecessary either for the acquisition of new responses or the modiﬁcation of old re- sponses. Along with new mechanisms for learning, Bandura dismissed the Freudian baggage of the earlier Sears era. In- stead, a more eclectic theory of socialization, which drew from sociology, anthropology, and other disciplines, served as a guide. In a series of inﬂuential experimental studies, Bandura and his colleagues revitalized the study of social development by reintroducing experimental approaches in studies of the observational learning of aggression (e.g., Bandura, Ross, & Ross, 1961). Unfortunately, like most learning theory approaches, the focus was more on learning and less on development (see Grusec, 1992).
+On the socialization front, there was a serious challenge to the Freud-Hull approach to social development. Albert Bandura and Richard Walters, in their 1963 volume Social Learning and Personality Development, forcefully rejected the assumptions of the previous era. Instead of endorsing a drive-based theory of development, they proposed that observational learning or modeling was the major way that children acquire new behaviors and modify old ones. As sub- sequently developed by Bandura (1969, 1977), cognitive

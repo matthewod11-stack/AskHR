@@ -1,59 +1,33 @@
-## HBR / Digital Article / In a Slump at Work? Here’s How to Motivate Yourself.
+---
+source_path: H08OI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1994f94ce400d209f8263e8e89601993e58f2df
+title: H08OI6-PDF-ENG
+---
+## addition, it can position you as a forward-thinking collaborator.
 
-ask your manager if there’s something they need help with. Expressing
+Think about what’s important to your leadership right now. What
 
-interest may open a door you didn’t know existed.
+initiatives or priorities have they shared during all-staﬀs or town
 
-If you’re feeling demotivated, it may feel hard at ﬁrst to ﬁnd the
+hall meetings? Does your company utilize cross-functional teams for
 
-enthusiasm in the short term, but I encourage you to zoom out and
+internal initiatives or community programs that you could contribute
 
-consider the bigger picture. Exploring opportunities to contribute in
+to? Even in a remote environment, there may be more opportunities to
 
-new ways will strengthen your resume and increase your visibility for
+collaborate across teams than you might realize.
 
-when promotion opportunities arise. A stretch assignment could help
+What are your team’s or department’s objectives for this ﬁscal year?
 
-you uncover a new interest, leverage your skills in new ways, and
+Where are there opportunities for you to support or add value? After
 
-increase your exposure to other leaders or decisions-makers at your
+surveying the landscape for opportunities, suggest ways you can
 
-company. All these things will accelerate your growth. In addition, you’ll
-
-have concrete examples of your initiative, leadership, and adaptability.
-
-Explore opportunities to shadow others.
-
-If you’ve been feeling uninspired in your own workﬂow, consider
-
-exploring how other people in your organization approach their work.
-
-To identify potential opportunities, look at projects, roles, or
-
-departments that interest you. Think beyond your ideal role and focus
-
-on the kind of tasks and collaborations that energize you. Ask if you can
-
-connect with a peer. This might involve joining a meeting or observing
-
-how they approach key tasks via screen-sharing as they work.
-
-In his book Nonlinear, author Kevin Bethune recounts how he landed
-
-a job at Nike as a business planner after receiving his MBA from
-
-Carnegie Mellon. While he appreciated the opportunity, Kevin wanted
-
-to learn more about product design. He started networking across Nike
-
-to connect with individuals pursuing that work.
-
-A conversation with D’Wayne Edwards, who was the footwear design
-
-director for Jordan, led to 6 a.m. meetings for Bethune and Edwards before the oﬃcial workday began. This resulted in an opportunity for
+contribute. Or, if you’re not sure where you could add the most value,
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

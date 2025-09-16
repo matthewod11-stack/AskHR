@@ -1,19 +1,21 @@
-## skip manager), clients and customers, and your colleagues in Human
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b3101c8856796c5237d3c1d1293fff7c4bf41c3
+title: H07Z4W-PDF-ENG
+---
+## environment, communication among employees, and training and
 
-Resources to learn their perspectives on the upsides and downsides of
+mentorship. On the ﬂip side, the same survey found that more than
 
-hybrid schedules. Gathering insights from the research and data that
+half of respondents believe work-from-home policies make it easier to recruit staﬀ, and more than two-thirds of respondents said such policies help to retain staﬀ.
 
-your company may be using to inﬂuence work-from-home policies
+Appreciate that your company may be riding a similar wave of
 
-will also help you build your business case for a shift to hybrid work.
+excitement and uncertainty. Here are some tips to better understand
 
-Be sure to understand the CEO’s stance and plans around in-person,
+your employer’s perspective around remote work, and to help you
 
-remote, and hybrid work. Being mindful of various perspectives and
+prepare for and conduct a productive and empathetic discussion:
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Speak with key people like your manager (and, if you have one, your

@@ -1,7 +1,7 @@
-# Introduction
-
-When COVID first came in March 2020, over 47 million jobs were left vol- untarily in 2021, according to study by CNN, and many have still not returned to the workforce (Romans, 2022). The impact of COVID on the United States (U.S.) workforce has been two-fold: retaining workers by giv- ing them incentives to stay, including remote work wherever possible; as
-
-CONTACT Gary Blau University, #349 Alter Hall, Philadelphia, PA 19122, USA. Present address of Diana Kyser: University of Vermont, Burlington, Vermont, USA. (cid:1) 2023 The Author(s). Published with license by Taylor & Francis Group, LLC. This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (http:// creativecommons.org/licenses/by-nc/4.0/), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
-
-gary.blau@temple.edu
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 8f2051bf4c944d991fb20bb51b111b8a90d43a39
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# KEYWORDS Organizational belonging; authenticity; acceptance; value diversity; connection

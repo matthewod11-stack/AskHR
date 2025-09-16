@@ -1,9 +1,11 @@
-## biased judgments of their performance across job categories and tasks.
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 007288565818f25955dd7f04427112073ec11641
+title: H08HIY-PDF-ENG
+---
+# HBR / Digital Article / Research: The Stigma Disabled People Face During Negotiations
 
-For managers, the key takeaway is not to acknowledge what they likely
+Even when disabled employees demonstrate the same skills and
 
-already know — that bias exists and lurks in the workplace — but to
-
-confront it head-on to avoid missing out on the value that disabled
-
-employees of all genders bring to the table. In practical terms, this
+behaviors as their nondisabled peers, they may still be subjected to

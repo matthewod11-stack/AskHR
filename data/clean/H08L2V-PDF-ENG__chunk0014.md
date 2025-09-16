@@ -1,15 +1,23 @@
-## investment proposals but also on whether the investment “ﬁts” with the
+---
+source_path: H08L2V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 544b08e84b3730ef60a837bf700bd83c76b3c077
+title: H08L2V-PDF-ENG
+---
+## HBR / Digital Article / Don’t Let Growth Muddle Your Company’s Strategy
 
-core elements of the ﬁrm’s strategic position.
+Why that solution works
 
-Second, it helps operational managers throughout the organization
+Clarity about the core features of the ﬁrm’s strategic position provides
 
-make decisions with autonomy. This is because the core elements of the
+two key beneﬁts. First, it helps the Board of the company become
 
-strategy can act as the guardrails within which operational managers
+an active member in the debate on the growth of the ﬁrm. Growth
 
-can decide what they can do with autonomy and what they need to get
+opportunities presented to the Board by senior management can now
 
-approval for before acting. Operating within these guardrails minimizes
+be evaluated in a rigorous manner by the independent Board members.
 
-the risk that managers will make decisions that move the company away
+The only prerequisite is an independent Board that will not be afraid to
+
+challenge the executive team not only on the ﬁnancial wisdom of their

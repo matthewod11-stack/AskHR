@@ -1,11 +1,23 @@
-## Fiedler’s contingency model A theory of leadership
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f2e34a9aa6768b65486dad75d4a0ac30bc422037
+title: industrial_organizational_psychology_an_applied_approach
+---
+# valid.
 
-that states that leadership effectiveness is dependent on the interaction between the leader and the situation.
+Faces Scale A measure of job satisfaction in which
 
-Field research Research conducted in a natural setting
+raters place a mark under a facial expression that is most similar to the way they feel about their jobs. Family and Medical Leave Act (FMLA) Passed in
 
-as opposed to a laboratory.
+1993, the FMLA provides 12 weeks of unpaid leave for birth, adoption, or serious illness of a child, parent, spouse, or the employee. All organizations that physically employ 50 or more people within a 70-mile radius of one another are covered by the act.
 
-Fifth Amendment The amendment to the U.S. Constitution that mandates that the federal government may not deny a person equal protection under the law.
+Fear stage The third emotional stage following the
 
-File approach The gathering of biodata from employee
+announcement of a layoff, in which employees worry about how they will survive financially. Feedback Providing employees with specific
+
+information about how well they are performing a task or series of tasks.
+
+Feng shui The ancient Chinese practice of arranging
+
+objects to maximize positive energy and improve the quality of life.

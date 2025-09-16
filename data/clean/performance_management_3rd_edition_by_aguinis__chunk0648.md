@@ -1,11 +1,7 @@
-## Implementing a Behavior Approach to Measuring Performance at Dollar General
-
-At Dollar General (http://www.dollargeneral.com), a behavior approach is utilized to measure performance. Tennessee-based Dollar General has 8,000 stores operating in the United States with more than 64,000 employees. The company sells consumable basics such as paper products, cleaning supplies, health and beauty products, foods and snacks, housewares, toys, and basic apparel. As part of the performance management system, Dollar General has identified behaviors that serve as indicators to underlying competencies. These behaviors are reviewed and utilized to encourage certain outcomes and provide feedback and rewards to staff members. For example, the company management sought to improve attendance among employees. In order to encour- age employees to arrive to work on time, a system was developed to group employees into teams who earn points. A wall chart was created displaying a racetrack, and each team was given a car that would be moved forward by the number of points earned each day. After a certain number of laps around the track, employees on the teams with the most points would be given a choice about how to celebrate. The program was successful within the first two weeks and increased attendance significantly. In summary, Dollar General’s performance management system includes the use of a behavior approach to measuring performance.20
-
-more cost-effective because results can be less expensive to track than behaviors. Overall, data resulting from a results approach seem to be objective and are intuitively very appealing.
-
-The results approach is most appropriate under the following circumstances:
-
-- Workers are skilled in the needed behaviors. An emphasis on results is appropriate when workers have the necessary knowledge and skills to do the work. In such situations, workers know what specific behaviors are needed to achieve the desired results and they are also sufficiently skilled to know what to do to correct any process-related problems when the desired results are not obtained. Consider the example of a professional basketball player. A free throw is an unhindered shot made from the foul line and is given to one team to penalize the other team for committing a foul. Free throw shooting can make the difference between winning and losing in a close basketball game. Professional players know that there is really no secret to becoming a great free throw shooter: just hours and hours of dedicated practice besides actual basketball play. In assessing the performance of professional basketball players, the free throw shooting percentage is a key results-oriented performance indicator because most players have the skills to do it well. It’s just a matter of assessing whether they do it or not.
-
-- Behaviors and results are obviously related. In some situations, certain results can be obtained only if a worker engages in certain specific behaviors. This is the case of jobs involving repetitive tasks such as assembly-line work or newspaper delivery. Take the case of a person delivering newspapers. Performance can be measured adopting a results approach: whether the newspaper is delivered to every customer within a particular time frame. For the employee to obtain this
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 1028e5dc6b000bd24f8fc62c59bbfb29edb60915
+title: performance_management_3rd_edition_by_aguinis
+---
+# BOX 4.2

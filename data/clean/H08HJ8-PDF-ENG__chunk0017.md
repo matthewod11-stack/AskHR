@@ -1,17 +1,31 @@
-# adaptability.”
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52e21340c0c8b4415f44313361db630026997732
+title: H08HJ8-PDF-ENG
+---
+## feel like a signiﬁcant misalignment with your values.
 
-Reframe the story you’re telling yourself.
+If you think a values conﬂict is at the root of your issues with your
 
-You may not agree with the reporting hierarchy. You can, however,
+manager, you can identify speciﬁc areas that feel most challenging and
 
-change your perspective and internal narrative.
+take appropriate actions. Ask yourself:
 
-Look for places where the diﬀerences with your manager are
+- What are my core values?
 
-complimentary or identify ways in which you are uniquely qualiﬁed to
+- Where are my values not being honored?
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- How can I align my actions to my values in this situation?
 
-4
+When John reﬂected on his relationship with his manager, he realized
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that his own insecurities and expectations were at the root of his
+
+frustrations. “When I took ownership of my responses and aligned my
+
+actions with my values, I was able to see my manager’s value rather than
+
+just looking for his shortcomings,” he said. “This shift has improved
+
+our working relationship and helped me develop more resilience and

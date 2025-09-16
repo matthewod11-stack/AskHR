@@ -1,27 +1,19 @@
-# X General Director)
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: efa597632c88109db505436ace18971f23f4c07b
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+## families, wives, husbands and children, a symbol
 
-It is clear also, that it’s not only a communication department task, but an HR
+ofOrganization X, and we kept going and continue to hold. So we try to respect
 
-challenge, in the sense that communication nature is institutionally shaped and also
+the elements, company logos, things really valued by the company and try to
 
-individually shaped.
+introduce some more. …I think this is the most important, I think we have to
 
-This constant evaluation and care about the change process seems to be
+communicate, has to explain why we're going in one direction and all have to
 
-ongoing, as many respondents highlighted they are still not mastering the identification
+believe we are headed in the right direction. And at least give the space to
 
-of when there are really dialogic opportunities and where it is just monologic
-
-communication. They’re still not comfortable with the explicit drive of being dialogic and
-
-the paradoxical need to conform - as some monologic communication (from standard
-
-procedures and high control) is naturally expected to exist after acquisition. It is worth
-
-noticing that monologic is named as information, strongly adherent to the concept
-
-earlier treated in the literature review.
-
-At Organization X it seems the change process is perceived as being successful,
-
-with what could be considered good levels of resistance to change, due to the very
+people talk, “look, I do not believe, or, I want to give a suggestion”.(Organization

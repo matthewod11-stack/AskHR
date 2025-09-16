@@ -1,13 +1,7 @@
-## Linking Performance Management to Strategy at Procter & Gamble
-
-Consider the following description of a firm-wide strategy pur- sued by Procter & Gamble:*
-
-Procter & Gamble (P&G), the world’s largest consumer products company, follows a fairly unique strat- egy: P&G appeals to the heart and cares about human needs. In other words, P&G attempts to touch and improve the lives of its consumers all over the world. As an example, take the razor-and-blade innovation pioneered by Gillette’s Himalaya team, which focuses on India but is a global group based partly in Boston, USA. The team received information about how men in India shave: about half of them use barbershops and barbers usually break double-sided blades in two and used them repeatedly, which crates unsanitary conditions. With the strategic goal of improving the lives of its customers, the team created a razor-and-blade innova- tion that simplified the essential features of the shaving done in barbershops. The products were a success in terms of improving both the human condition and profitability. As a second example, consider a situation in P&G Brazil, where P&G feared a shutdown due to decreased business volume. Low-income consumers were the fastest growing segment of the population, but P&G’s global premium products were too expensive for this market segment. Local P&G teams decided to live with families, scrutinized every
-
-P&G process in an attempt to reduce costs, and ended up creating an innovative products line they dubbed “basico” (for “essential” in Portuguese). The team members felt that they were doing good for the world, not just making money for the corporation. Demand immediately outpaced supply when the first “basico” products were launched, which included women’s hygiene, diapers, and greener laundry detergent. The company quickly captured market share through small neighborhood shops and premium products were lifted. The business in Brazil became a profitable global growth model, and not just for emerging countries. As a consequence, “Tide Basic” was recently introduced in the United States.
-
-In sum, P&G’s strategy inspires employees to add their hearts to their heads and aims at finding creative solutions when purpose-inspired opportunities and commercial consid- erations seem to collide.
-
-Imagine you are an HR executive at P&G. Given the company’s strategic orientation toward purpose and values, what would you do to help align a new performance management system with the strategic plan? How would you explain this relationship? What would you say and do to garner company-wide support for your performance manage- ment system? (cid:2)
-
-- The description is adapted from the following source: Kanter, R. M. (2009, September 15) Inside Procter & Gamble’s New Values-Based Strategy. Bloomberg Businessweek. Retrieved March 3, 2011 from: http://www. businessweek.com/managing/content/sep2009/ca20090915_398234.htm
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 5355d1dfe86ed9c263ebc71b810117bab92ba8cf
+title: performance_management_3rd_edition_by_aguinis
+---
+# CAS E ST U DY 3-4

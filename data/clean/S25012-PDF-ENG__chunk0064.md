@@ -1,13 +1,15 @@
-# equation.
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc3253d2b36ce4f8bd8b43cb67e7553573846ed1
+title: S25012-PDF-ENG
+---
+## decisions and operate with a greater degree of autonomy. Agents will
 
-Even in the face of increasing machine autonomy, processes remain
+constantly improve as they gain experience, and the humans overseeing
 
-human-centered. In the coming age of autonomous agents, that will be
+the process will continually reﬁne their design and performance.
 
-one of the keys to kaizen.
+When both employees and AI agents are empowered, continuous
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+improvements will be generated on both sides of the human-machine

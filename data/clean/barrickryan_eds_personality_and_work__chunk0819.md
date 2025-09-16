@@ -1,3 +1,9 @@
-# Change in Models of Work Performance
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 480506dcf8e039d35610ce0c31bffb926eb26bba
+title: barrickryan_eds_personality_and_work
+---
+# EMERGING TRENDS AND NEEDS 291
 
-The nature of work and work performance has changed dramati- cally (Howard, 1995; Ilgen & Pulakos, 1999). Virtually all aspects of work and many worker requirements have changed. Much more than ever before, work is team based, service and information ori- ented, and digital. Organizations and teams are ﬂatter, even vir- tual. The job description, reﬂecting a stable description of the job incumbent’s duties and responsibilities, is no longer a ubiquitous phenomenon. Stable job descriptions still exist in many settings, but most work settings today require ﬂexibility and quick response to rapidly changing business conditions. Our theories and models needed, and still need, a different set of variables.
+Barrick and Mount’s meta-analysis (1991) of the criterion- related validities of the Big Five personality variables for predict- ing performance criteria provided the next critically important set of ﬁndings that focused I/O attention on the relevance of per- sonality variables for predicting performance at work. Indeed, this meta-analysis became the most cited Personnel Psychology article in the 1990s (Hollenbeck, 1998). The Project A ﬁndings, the Barrick and Mount meta-analysis, and earlier research by such eminent personality psychologists as Paul Costa, Lew Goldberg, Harrison Gough, Robert Hogan, Douglas Jackson, Robert McCrae, and Auke Tellegen provided a solid foundation for the renaissance of personality variables in I/O in the 1990s.

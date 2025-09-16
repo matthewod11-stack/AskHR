@@ -1,9 +1,15 @@
-# Conducting the Structured Interview
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3c1a607cb915652d9906159244e8fc83d3cc2ee2
+title: industrial_organizational_psychology_an_applied_approach
+---
+## ____ Was not confrontational with the customer
 
-Though it is common to use a panel interview, research suggests that interviews will best predict performance when one trained interviewer is used for all applicants (Huffcutt & Woehr, ). The first step in conducting the inter- view is to build rapport; do not begin asking questions until applicants have had time to “settle their nerves.” Building rapport is an important step, as it results in the applicant feeling more positive about the interview (Chapman & Zweig, ).
+Typical-Answer Approach. The idea behind the typical-answer approach is to create a list of all possible answers to each question, have subject-matter experts (SMEs) rate the favorableness of each answer, and then use these ratings to serve as benchmarks for each point on a five-point scale. Though some scoring keys have only one benchmark answer for each point on the scale, research by Buchner () indicates that increasing the number of benchmark answers will greatly increase the scoring reliability. Because the number of possible answers to any question is probably finite, it might be a good idea at this stage to brainstorm all possible answers to a question and then benchmark each of the answers. This approach would result in ten or so benchmarked answers per question rather than the traditional five.
 
-Once an applicant feels at ease, set the agenda for the interview by explain- ing the process. Most applicants have not been through a structured interview, so it is important to explain the types of questions that will be asked and
+Key-Issues Approach. A problem with the typical-answer approach is that there are many possible answers to a question, and applicants often provide answers that could fit parts of several different benchmarks. To correct this problem, the key-issues approach can be used. In this approach, SMEs create a list of key issues they think should be included in the perfect answer. For each key issue that is included, the interviewee gets a point. The key issues can also be weighted so that the most important issues get more points than the less impor- tant issues.
 
-employee selection: recruiting and interviewing
+Psychologist Pete DiVasto uses the key-issues approach when he interviews applicants for law enforcement positions. In one of his questions, he asks applicants to imagine that they are a police officer and have received a call about a possible break-in at a store. Upon arrival, the officer notices the follow- ing: a police car in the parking lot with its lights flashing, an officer on the ground next to the police car, an alarm going off in the store, and a person running from the store. DiVasto then asks the applicant what he or she would do in that situ- ation. The key issues in a good answer include indicating that a cop is hurt and needs help, an understanding that the person running could be dangerous but could also be a victim, the realization that backup is needed, and articulation of a good rationale for choosing to either help the cop first or attend to the person running.
 
-143
+When scoring interviews, it is appropriate to have a system to evaluate an applicant’s nonverbal cues, especially when the job involves interpersonal skills. Such scoring is supported by research demonstrating that an applicant’s nonverbal cues in interviews can predict job performance (Barrick et al., ; Burnett & Motowidlo, ; DeGroot & Motowidlo, ). To practice scoring interviews, complete Exercise . in your workbook.

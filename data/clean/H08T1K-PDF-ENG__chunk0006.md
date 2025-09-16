@@ -1,27 +1,41 @@
-# Find your footing
+---
+source_path: H08T1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 537de7dcf75a5f934f94de6b605ddd645848f357
+title: H08T1K-PDF-ENG
+---
+# What the Experts Say
 
-Before you say a word to your team, you need to process your own doubts and worries about the diﬃculties facing your organization,
+As a senior leader, people look to you for clarity and reassurance. But
 
-Eikenberg says. “You might have a little of that ‘everything is falling
+when the situation is uncertain, oﬀering that kind of steady conﬁdence
 
-apart’ feeling; and maybe some of that’s true. But when a leader—the
+can feel like sugar coating, or worse, lying. Your team has questions.
 
-voice of the company for a group of employees—is stalled there, people
+And while they may not like the answers, they want and deserve
 
-pick up on it.” To ground your thinking, Lynch suggests turning to peers
+honesty, according to Courtney Lynch, founding partner of leadership
 
-outside your team and from diﬀerent industries to stress test strategies
+consulting ﬁrm Lead Star and coauthor of Spark, Bet on You, and
 
-and work through scenarios. “They will push your thinking, add value,
+Leading from the Front. “Sometimes there’s a tendency to fall back on
 
-and help you make sense of the chaos in a way that’s more thoughtful,”
+phrases like, ‘We’re all in this together,’ or ‘Don’t worry, we’ll ﬁgure it
 
-she says. Working through the gray areas out loud with your team risks
+out.’ But what people need is clarity,” she says. “They’re not looking for
 
-leaving them with unnecessary worry, she adds.
+leaders to shine it up or play cheerleader.”
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+There is a place for positivity, however. Acknowledging uncertainty is
 
-2
+important, but don’t let your team get caught up in overanalyzing it,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+says Darcy Eikenberg, executive coach and author of Red Cape Rescue.
+
+Rather, “your goal is to get your team unstuck in the swirl of what-ifs
+
+and help people focus on what they can control right now.” You don’t
+
+need to be a Pollyanna “to magnify the positives and what’s working,”
+
+she adds. Here’s how to strike the right balance.

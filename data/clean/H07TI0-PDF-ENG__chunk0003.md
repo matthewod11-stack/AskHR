@@ -1,13 +1,25 @@
-## HBR / Digital Article / A New Approach to Writing Job Descriptions
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3282ccdeec41e6415db1aa9aaf20c89981c5f66
+title: H07TI0-PDF-ENG
+---
+# Juan Moyano/Stocksy
 
-For example, a company that hired an employee for a certain set of tasks
+Jobs today are changing fast, and traditional job descriptions can’t
 
-might ﬁnd that four months later, a diﬀerent set of tasks takes strategic
+keep up. As new technologies disrupt processes and require new skills,
 
-priority. Even though that employee has the right skills for the new
+and as companies are moving toward more and more project-based
 
-tasks, the employee can point to their job description to decline to do
+work, we are beginning to see the evolution of job descriptions away
 
-the new task by saying that it wasn’t what they were hired to do — or, if
+from static, holistic prescriptions that follow an employee for years to
 
-they take on the new tasks, their job description becomes quickly out of
+dynamic guidance that changes based on needs.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

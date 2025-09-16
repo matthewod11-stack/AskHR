@@ -1,5 +1,7 @@
-# Age distribution
-
-O(cid:374) respo(cid:374)de(cid:374)t(cid:859)s age distri(cid:271)utio(cid:374), the stud(cid:455) revealed that; most of the respondents as shown in Figure 4.2 by 45% were aged between 41 to
-
-- 1572 -
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: fdeb75b10ac7bc87fe33eabf3e2b52edc104cf8f
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+## Figure (cid:1008).(cid:1005): Ge(cid:374)der of the respo(cid:374)de(cid:374)t

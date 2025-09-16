@@ -1,15 +1,27 @@
-## From Systems of Workflow to Systems of Work
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f946cb7dbc6bcc6e099451b3d6a9723071f6ed07
+title: H08QLK-PDF-ENG
+---
+## —whose enterprise oﬀerings power millions of organizations—has
 
-Most enterprise platforms—from Salesforce to Workday—treat
+sounded the alarm.
 
-organizations as systems of workﬂows. Workﬂows are processes that
+This disruption will have ripple eﬀects far beyond software companies.
 
-enable the organization to accomplish any task, from hiring and
+Most large companies depend on various enterprise systems to handle
 
-onboarding an employee to prospecting and expanding customer
+foundational workﬂows, including booking sales, calculating ﬁnancial
 
-relationships. These workﬂows are then analyzed as information
+results, and paying employees. Thousands of IT professionals support
 
-processing systems that map data ﬂows, automate structured analyses,
+this software, and the daily workﬂows of millions of employees involve
 
-and require users to input, monitor, and act on information within
+daily interactions with it. If companies shift from SaaS software to AI,
+
+many of those jobs will change in signiﬁcant ways—and some will go
+
+away altogether. For senior leaders, guiding organizations through this
+
+shift will be a challenge.

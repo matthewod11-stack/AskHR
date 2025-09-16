@@ -1,9 +1,23 @@
-# propositions:
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 65305d6d6ba01f7abd296b4019772914f3ac49b2
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# it this way:
 
-Proposition 1a: Tribalism is more likely to create conditions for underperformance to
+“My job is to ensure that the company keeps a very good book. I also ensure that every naira
 
-ferment in developing economies with different tribes.
+spent is accounted for in the company ... Employees who were recruited through connection
 
-Proposition 1b: Tribalism influences management decisions to persist with
+are always difficult to sack … Yes! We have reduced the salaries of those employees and kept
 
-underperforming employees in public sector organisations in developing economies
+them on.” (N22)
+
+15
+
+“It may be sentiment as a result of emotional attachments that have grown over the years. It
+
+may also be that they are the connection to major customers/contributors.” (N2)
+
+Based on the above analysis of favouritism and tribalism, we offer the following

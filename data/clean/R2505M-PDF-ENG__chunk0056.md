@@ -1,9 +1,17 @@
-## HBR / Magazine Article / Why You Need Systems Thinking Now
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0e897537db1b27fc5b2b98e4394c901ff515f58
+title: R2505M-PDF-ENG
+---
+## engineers, developers, owners, and material manufacturers. Standards
 
-In working with CSA, we suggested that rather than try to brainstorm
+are needed to get them to talk to one another so that circular design
 
-its way to a set of new, better standards that supported its North Star
+becomes embedded in every step of the process.
 
-of creating a circular built environment, the organization should focus
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-on an ecology of small actions that covered three areas: educating
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

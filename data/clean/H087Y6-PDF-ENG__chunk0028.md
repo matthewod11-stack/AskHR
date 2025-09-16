@@ -1,7 +1,15 @@
-## threat of noncompetes, new carrots rise as an alternative to the
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4067a070bc754dc727d0644a619504cfc5540d9
+title: H087Y6-PDF-ENG
+---
+# innovation.
 
-sticks of restrictive covenants: Employers use more performance-based
+In turn, mobility strengthens professional networks across
 
-incentives, active retention eﬀorts, and stock options to encourage the
+organizations and sectors. These networks bring in new ideas, accessing
 
-best employees to stay. All of these eﬀects together operate to create a
+cutting-edge research, and implementing best practices from the
+
+industry at large. And when employers cannot conﬁne workers by

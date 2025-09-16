@@ -1,5 +1,13 @@
-# Response rate
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 0e95b7d7f6207ec0bd941b34e58c6ae042d66262
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Reliability and Validity analysis
 
-A total of 65 questionnaires were administered to the targeted respondents. Out of these, 38 respondents returned questionnaires giving a response rate of 58.46%.This response rate was considered credible enough to allow for generalization of the findings to the target population besides the arriving at the conclusions of the study, as this response rate was sufficient and representative and conforms to Mugenda & Mugenda (2003) with a stipulation that a response rate of 50% is adequate for analysis and reporting; a rate of 60% is good and a response rate of 70% and over is excellent. This implies that the response rate was considered to be good. The information is as shown in Table 4.1;
+Constructs used in the study were tested for internal consistency and a value of 0.84 was
 
-filled
+- 1570 -
+
+research instrument. This chapter, therefore, provides analysis, presentation, interpretation and discussion of the findings from the data collected for the research study.

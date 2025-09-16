@@ -1,47 +1,13 @@
-# Experiment with output formats
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: afbc83a41a3b95f4f9f6df00e0f5bac7d347e433
+title: prompt
+---
+# Use variables in prompts
 
-25
+Experiment with input formats and writing styles
 
-29
+For few-shot prompting with classi(cid:450)cation tasks, mix up the classes
 
-32
-
-36
-
-37
-
-40
-
-42
-
-42
-
-44
-
-46
-
-48
-
-54
-
-54
-
-54
-
-55
-
-56
-
-56
-
-58
-
-58
-
-59
-
-59
-
-60
-
-60
+Adapt to model updates

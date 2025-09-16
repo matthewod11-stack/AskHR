@@ -1,17 +1,23 @@
-## productivity, morale, motivation , competency, consistency and a commitment to
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: db3fe87cffaaf6998865e3c8580a5cbb00044cf9
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Conclusions
 
-achieving organizational goals. The rationale is that performance evaluations addresses
+Efforts to enhance or improve employee performance can be assessed through
 
-standards of acceptable performance , clarifies the procedures of the job, instructs
+many options, so public managers can see which alternative can have the greatest impact
 
-employees in the skills required and the new tools available to do the job, improves
+on an agency' s overall effectiveness and efficiency. From a professional perspective , a
 
-communication channels and provides feedback, which are all beneficial to improving
+Effective Performance Evaluation System, and providing incentives through recognition
 
-employee performance. Performance evaluations are perhaps the most direct way of
+are needed at Employers ' Training Resource to improve employee performance . I
 
-improving employee performance , overall work and ensuring the proper use of
+believe this plan will have the greatest net benefit to the problem of employee
 
-organizational resources. That is why the author has chosen to implement this plan as a
+performance. I recommend Performance Evaluation, as a solution to achieving high
 
-solution to improving employee performance and address the existing conditions at
+employee performance , because many benefits come out of this solution, such as:

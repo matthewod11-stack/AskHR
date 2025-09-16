@@ -1,11 +1,17 @@
-# your highest potential.
+---
+source_path: H08E7K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 851de5eab14e5e761d831bb73c909506671ffcf9
+title: H08E7K-PDF-ENG
+---
+# of retention.
 
-This article was originally published online on September 24, 2024.
+In today’s fast-paced world, continuous learning is the key to having
 
-Nihar Chhayais an executive coach to CEOs and senior leaders at global companies, including American Airlines, Coca-Cola, DraftKings, and Fox Corporation. He was named one of the top 50 coaches in the world by Thinkers50 and holds the master coach credential (MCC) with the International Coaching Federation. You can sign up for Envision, his newsletter on mastering leadership inﬂuence.
+lasting inﬂuence in your career, yet already feeling overwhelmed by
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+your daily workload makes it hard to stay consistent. By using these
 
-7
+strategies, you can develop a lifelong learning journey that not only
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+elevates your skills but lifts you out of exhaustion by moving closer to

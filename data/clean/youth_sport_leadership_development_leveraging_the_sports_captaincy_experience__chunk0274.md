@@ -1,3 +1,11 @@
-# Youth Sport Leadership
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: 439d7c0d95479bfb03db9e377fce4941e0fdc9f2
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# THE MOVE FROM LECTURE TO FACILITATION
 
-peers on various topics (e.g., how is leadership deﬁned, what are the com- ponents of leadership, how do you develop these components in yourself and others, how do you handle tough leadership situations). The program facilitators guide, assist, and mentor the athletes by introducing them to ba- sic leadership content, outlining the structure of each session, and providing examples, including those from their own sport-leadership experiences. In a recent qualitative study examining the best coaching practices for develop- ing leaders, half of the coaches interviewed reported that one of the biggest mistakes of coaches is not giving their captains enough responsibility or an opportunity to lead (Gould, Voelker, & Griffes, 2010). With the abovemen- tioned teaching methodology, athletes actually have a voice.
+When we ﬁrst began CLTP ﬁve years ago, we designed and delivered lec- ture sessions organized by topic, such as motivating teammates, effective communication, and team building. While these were well received by clinic attendees, we as presenters felt that we did not connect enough with the ath- letes. At the same time, we were becoming better informed about the youth development literature which suggests that giving young people a sense of empowerment is far more effective than following a more adult-dominated model (e.g., Martinek & Hellison, 2009; van Linden & Fertman, 1998; Walker & Larson, 2006). Because of these experiences, we modiﬁed the program to give athletes a greater sense of control and responsibility in their own leadership development.
+
+More speciﬁcally, athletes are no longer given information and told to use it. Lecture is therefore minimal. Rather than “spoon-feeding” the ath- letes information from expert authority ﬁgures, the program follows a far more egalitarian model where the athletes are challenged to come up with answers to big leadership questions themselves and encouraged to ask for help along the way. Through small and large group discussions and activ- ities, the athletes have an opportunity to collaborate with their same-age

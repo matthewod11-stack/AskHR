@@ -1,11 +1,13 @@
-# Media Resources and Learning Tools
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2ccbf908ef5a0ef8d8ba7ed31666d383eaa3bfe7
+title: industrial_organizational_psychology_an_applied_approach
+---
+# motivation? Why or why not?
 
-7
+. If the right techniques are used, can everyone be motivated to perform well?
 
-7
+Why do you think that?
 
-Visit our website. Go to www. cengage.com/ psychology/aamodt, where you will find online resources directly linked to your book, including chapter-by- chapter quizzing, flashcards, crossword puzzles, application activities, and more. Want more practice applying industrial/organizational psychology? Check out the I/O Applications Workbook. This workbook (keyed to your textbook) offers engaging, high-interest activities to help you reinforce the important concepts presented in the text.
-
-362
-
-chapter 
+. Which of the individual incentive plans is best? Why? . What is the optimal level at which goals should be set? Why? . Is the threat of punishment an effective motivator? Why or why not?

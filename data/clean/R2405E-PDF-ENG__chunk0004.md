@@ -1,5 +1,13 @@
-## array of capabilities and resources they can share with entrepreneurial
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed4df8e87b4ca506f86c800e97ed4af1bdb2da13
+title: R2405E-PDF-ENG
+---
+## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
 
-partners—or with in-house entrepreneurial managers—that have ideas
+Incumbents don’t have to be caught in this trap. To the contrary,
 
-for breakthrough products and services. They can create portfolios
+when managed well, the innovation process can both leverage and
+
+transform a company’s existing operations. Large ﬁrms have a diverse

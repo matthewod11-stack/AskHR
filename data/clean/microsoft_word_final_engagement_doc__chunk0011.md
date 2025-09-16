@@ -1,9 +1,17 @@
-# Engaged Employees Are Good for Business
+---
+source_path: microsoft_word_final_engagement_doc.md
+pages: n/a-n/a
+chunk_id: 6f539e4bff128457e4d30d25588d2969ef80422a
+title: microsoft_word_final_engagement_doc
+---
+# How Work Engagement Affects Business
 
-Other studies explore the effect that improving employee engagement has on overall business success. Many employer case studies suggest the possibility of creating cost savings to the business by encouraging greater employee engagement.2 For example, electronics retailer Best Buy measured engagement levels in many of its employees and compared the average scores of employees at different stores on several company success metrics, such as sales revenue. Best Buy found that stores with even small increases in average employee engagement scores from one year to the next experienced annual sales increases of over $100,000 per store. Thus, improvements in level of engagement were associated with improvements in company sales. JCPenney discovered that in their stores where employees rated in the top quartile of average
+Not only is work engagement personally valued and motivating for workers, it also is important for driving positive business processes and outcomes. Comparing highly engaged employees with less engaged workers provides some insights into how engagement can affect business outcomes. Key findings from one of these comparison studies show that employee engagement is associated with higher product quality, better customer service, better cost control, and greater employee loyalty:17
 
-(cid:32)
+- (cid:32) Quality: 84 percent of highly engaged employees believe they can positively impact the quality of their company’s products, compared with 31 percent of the disengaged.
 
-(cid:52)(cid:32)
+- (cid:32) Customer Service: 72 percent of highly engaged employees believe they can positively affect customer service, versus 27 percent of the disengaged.
 
-engagement scores (highest level) generated about ten percent higher sales volume than similar-sized stores where employees were in the bottom quartile of engagement (lowest level).
+- (cid:32) Cost Control: 68 percent of highly engaged employees believe they can have a positive impact on costs in their job or unit, versus 19 percent of the disengaged.
+
+- (cid:32) Loyalty: 59 percent of highly engaged employees plan to stay with the current employer, versus 24 percent of the disengaged.

@@ -1,27 +1,29 @@
-## acquisition, or any other situation where action, learning and change
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8590ecafbde7d6532e4a7358f40ad7f597f741bc
+title: H08F9M-PDF-ENG
+---
+# purposeful action, learning and change.
 
-are necessary. It requires leaders and their teams to think clearly,
+We capture the mind of leadership as a process — the leadership process
 
-creatively and strategically. It requires the mind of leadership.
+— that reﬂects speciﬁc patterns that are common, useful and eﬀective
 
-In the “leading through” paradigm, the soul, heart, and mind of
+in every situation that calls for action, learning, and change. It is the
 
-leadership are three dimensions in one. Without the mind, the soul
+domain of sizing up problems and opportunities, creating a vision of the
 
-and heart may produce commitment and engagement but struggle
+work, and setting direction. It is where leaders build teams, establish
 
-to mobilize it in the right direction. And without the soul and
+plans, and engage people in the work. It is through this process that
 
-heart, the mind may gravitate towards the “power over” paradigm.
+leaders activate the potential energy in people and teams and help them
 
-These metaphors — the soul, the heart, the mind — are inseparable
+maintain disciplined attention and focus.
 
-characteristics of eﬀective leadership. Anyone who wants to do the work
+The leadership process is a powerful, but ﬂexible framework for
 
-of leadership — and do it well — must attend to, and learn to lead with,
+initiating change, and mobilizing and empowering people. It can be
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+used with a single individual, with a small team, a major project, an

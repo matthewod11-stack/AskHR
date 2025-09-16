@@ -1,15 +1,9 @@
-# Diﬃ cult but Attainable
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f38803aa7d5e17018a3f1363269cdc229b50800c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Measurable
 
-Properly set goals are high but attainable (Locke & Latham, ). If an employee regularly prints , pages an hour and sets a goal of , pages, performance is certainly not going to increase. Conversely, if the goal becomes , pages, it will also not be effective because the employee will quickly realize that he cannot meet the goal and will quit trying.
-
-A good example of goals set too high comes from the academic retention program at one university. This program is designed to help special students who are having academic trouble and whose grade point averages (GPAs) have fallen below the minimum needed to stay in school. The program involves tutoring, study skills, and goal setting. Although it has generally been a success, many stu- dents have failed to improve their academic performance. A brief investigation revealed that the goal-setting process was one of the reasons for these failures. Students were allowed to set their own GPA goals for the semester—and students with GPAs of . were setting goals of .! Obviously, none of the students was able to reach this goal. The problem typically came when students did poorly on their first test and lost their chance for an A in the class, and thus had no chance of making a . GPA for the semester. Because their goals could not be attained, the students felt they had failed and quit trying.
-
-Though setting higher goals generally leads to better performance than does setting lower goals, the level of goal difficulty will most affect performance when employees are committed to reaching the goal (Klein, Wesson, Hollenbeck, & Alge, ; Locke & Latham, ). For example, if a police chief sets a high goal for a police officer to write traffic citations, the officer will not increase the number of citations he writes unless he is committed to the goal. That is, if he believes he can accomplish the goal, agrees that the goal is worthwhile, and will be rewarded for achieving the goal, his commitment to achieve the goal is likely to be high.
-
-Interestingly, setting goals that are too difficult to be accomplished can result not only in decreased performance, but in an increase in unethical behavior as well. When employees feel pressure to reach a goal that they realize can’t be met, they at times will engage in unethical behaviors in attempts to reach the goal or to “cook the books” to make it look as if the goals have been met (Schweitzer, Ordóñez, & Douma, ).
-
-Not surprisingly, people differ in the extent to which they set high goals. Optimists tend to set higher goals than do pessimists (Ladd, Jagacinski, & Stolzenberg, ). In the Big Five schema, people scoring high in conscientiousness, extraversion, and openness and low in agreeableness and neu- roticism also tend to set high goals (Judge & Ilies, ).
-
-employee motivation
-
-339
+Properly set goals are measurable. That is, if one’s goal is to improve performance or increase customer service, can performance or customer service be measured? In the Microsoft study mentioned in the previous paragraph, only % of the goals set by employees were measurable (Shaw, ).

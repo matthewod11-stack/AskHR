@@ -1,15 +1,7 @@
-## employees of client companies: direct caregiving when employers
-
-oﬀer subsidized beneﬁts; coaching and planning to help caregiver
-
-families navigate the challenges and ongoing coordination of care; and
-
-assessments to connect the right caregiver to the needs of the recipient,
-
-focused on the instrumental activities of daily living and how people
-
-can age in place as long as possible. The company ﬂexibly bundles
-
-its services in ways that enable employers to oﬀer holistic beneﬁts
-
-packages and that allow employees to use the services easily.
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 885138618796f6516585658e4084eead1a7b9fd3
+title: R2504F-PDF-ENG
+---
+## Today Bright Horizons oﬀers three main eldercare services to

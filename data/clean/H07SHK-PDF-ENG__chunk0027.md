@@ -1,7 +1,11 @@
-# warrant CEO oversight.
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e5e1dfaaa6e9a9b58ed90771a7a53f9f01432d5
+title: H07SHK-PDF-ENG
+---
+## potential loss, legal implications, or harm to the company’s reputation.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+If a decision involves the allocation or reallocation of signiﬁcant
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+resources — like capital investments or human resources — it may

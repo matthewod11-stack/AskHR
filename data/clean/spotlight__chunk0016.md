@@ -1,5 +1,15 @@
-# HBR Reprint R1610D
+---
+source_path: spotlight.md
+pages: n/a-n/a
+chunk_id: f81b5700c73b6bd40af012afd40102493583de89
+title: spotlight
+---
+# HBR.ORG
 
-Peter Cappelli is a professor of management at the Wharton School and the author of several books, including Will College Pay Oﬀ? A Guide to the Most Important Financial Decision You’ll Ever Make (PublicAﬀairs, 2015). Anna Tavis is the academic director of Columbia’s program in human capital management and the Perspectives editor at People + Strategy, a journal for HR executives.
+is resurrecting them now that it has acquired Ireland- based Covidien, which has a more traditional view of performance management.
 
-October 2016 Harvard Business Review 1509
+Other firms aren’t completely reverting to old approaches but instead seem to be seeking middle ground. As we’ve mentioned, Deloitte has backped- aled from giving no ratings at all to having project leads and managers assign them in four categories on a quarterly basis, to provide detailed “perfor- mance snapshots.” PwC recently made a similar move in its client-services practices: Employees still don’t receive a single rating each year, but they now get scores on five competencies, along with other development feedback. In PwC’s case, the push- back against going numberless actually came from employees, especially those on a partner track, who wanted to know how they were doing.
+
+At New York Life, after the company eliminated formal ratings, merit-pay increases were being shared internally and then interpreted as perfor- mance scores. These became known as “shadow ratings,” and because they started to affect other tal- ent management decisions, the company eventually went back to formal appraisals. But New York Life kept other changes it had made to its performance management system, such as quarterly conversa- tions between managers and employees, to maintain its new commitment to development.
+
+It will be interesting to see how well these “third way” approaches work. They, too, could fail if they aren’t supported by senior leadership and rein- forced by organizational culture. Still, in most cases, sticking with old systems seems like a bad option. Companies that don’t think an overhaul makes sense for them should at least carefully consider whether their process is giving them what they need to solve current performance problems and develop future talent. Performance appraisals wouldn’t be the least popular practice in business, as they’re widely believed to be, if something weren’t fundamentally wrong with them.

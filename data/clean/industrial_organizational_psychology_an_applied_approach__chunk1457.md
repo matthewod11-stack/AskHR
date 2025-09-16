@@ -1,5 +1,33 @@
-# Lawshe Tables
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9b3d0ce04b7228a01d10cfe5dac5a2463bfe882a
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Points in quadrants I and II ÷ Total points in all quadrants
 
-The Taylor-Russell tables were designed to determine the overall impact of a testing procedure. But we often need to know the probability that a particular applicant will be successful. The Lawshe tables (Lawshe, Bolda, Brune, & Auclair, ) were created to do just that. To use these tables, three pieces of informa- tion are needed. The validity coefficient and the base rate are found in the same way as for the Taylor-Russell tables. The third piece of information needed is the applicant’s test score. More specifically, did the person score in the top %, the next %, the middle %, the next lowest %, or the bottom %?
+If the percentage from the first formula is higher than that from the second, our proposed test should increase selection accuracy. If not, it is probably better to stick with the selection method currently used.
 
-Once we have all three pieces of information, the Lawshe tables, as shown in Table ., are examined. For our example, we have a base rate of ., a validity of ., and an applicant who scored third highest out of . First, we locate the table with the base rate of .. Then we locate the appropriate category at the top of the chart. Our applicant scored third highest out of  applicants, so she would be in the second category, the next highest one fifth, or %. Using the validity of ., we locate the intersection of the validity row and the test score column and find . This means that the applicant has a % chance of being a successful employee.
+As an example, look again at Figure .. There are  data points in quadrant I,  in quadrant II,  in quadrant III, and  in quadrant IV. The percentage of time we expect to be accurate in the future would be:
+
+II + IV _________ = I + II + IV
+
+ +  _____________  +  + + 
+
+=  ___ 
+
+= .
+
+To compare this figure with the test we were previously using to select
+
+employees, we compute the satisfactory performance baseline:
+
+I + II _____________ = I + II + III + IV
+
+ +  _____________ =  +  +  + 
+
+ ___  = .
+
+Using the new test would result in a % increase in selection accuracy
+
+[. − . = . ÷ .] over the selection method previously used.

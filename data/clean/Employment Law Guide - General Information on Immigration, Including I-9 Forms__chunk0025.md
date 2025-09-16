@@ -1,13 +1,14 @@
-# Reporting
+---
+source_path: Employment Law Guide - General Information on Immigration, Including
+  I-9 Forms.md
+pages: n/a-n/a
+chunk_id: 55e5e0ff0eadd29564eb7268e4bf923223716588
+title: Employment Law Guide - General Information on Immigration, Including I-9 Forms
+---
+## Recordkeeping, Reporting, Notices and Posters
 
-Reporting requirements vary by the classiﬁcation of alien or foreign worker being hired. Please see the speciﬁc INA chapters to
+Notices and poster requirements vary by the classiﬁcation of alien or foreign worker being hired. Please see the speciﬁc INA chapters to determine the notices and poster requirements for each immigration category.
 
-determine the reporting requirements for each immigration category.
+Recordkeeping requirements vary by the classiﬁcation of alien or foreign worker being hired. Please see the speciﬁc INA chapters
 
-Employers who fail to comply with the employment obligations of a speciﬁc visa classiﬁcation enforced by the Wage and Hour
-
-Division may face penalties speciﬁc to that visa program.
-
-Additionally, employers who fail to complete and/or retain the I-9 forms are subject to penalties. The Department of Homeland
-
-Security (DHS) enforces the INA requirements on veriﬁcation of employment eligibility. The Department of Justice's (DOJ) Oﬃce of Special Counsel for Immigration Related Unfair Employment Practices enforces the INA's anti-discrimination provisions.
+to determine the recordkeeping requirements for each immigration category.

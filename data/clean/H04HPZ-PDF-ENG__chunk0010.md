@@ -1,17 +1,17 @@
-# rules on the books.
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf367cc4d564098b4945655fa425d60419677dab
+title: H04HPZ-PDF-ENG
+---
+## and content analyses of both human resources journals and federal
 
-We know, for example, that employees who have experienced
+court opinions — shows that sexual harassment policies and procedures
 
-harassment are often reticent to use company complaint procedures
+can comfortably coexist in organizational cultures where women are
 
-because they fear retaliation. Some believe that they must put up with
+regularly subjected to demeaning commentary, unwanted physical
 
-harassment in order to get ahead. Research suggests that as few as
+contact, and even threats or sexual assault. In other words, someone can
 
-25% of women who experience harassment use an internal company
-
-complaint procedure or ﬁle a complaint with the EEOC. The few
-
-who do are often confronted with dismissive complaint handlers who
-
-treat their experiences as interpersonal problems or instances of poor
+be sexually harassed without recourse in an organization with plenty of

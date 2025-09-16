@@ -1,17 +1,11 @@
-## challenges, market opportunities, and strategic direction.
+---
+source_path: H07HOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fafaa58eb08288b3e19a4133ea3a7ad7d5dc1281
+title: H07HOW-PDF-ENG
+---
+## manager about the impending changes and your career.
 
-Next, identify a few scenarios that demonstrate how you could
+To prepare for the meeting, clarify how your value aligns with the
 
-meaningfully contribute to the company’s success. You might say,
-
-“Here’s what I see for the business. I want to help us succeed, and here
-
-are areas where I have expertise or have led before.” Your manager will
-
-appreciate your holistic perspective and company-ﬁrst mentality. And by clarifying the diﬀerent ways you can contribute, you make it easier
-
-for them to advocate on your behalf.
-
-Finally, remember that you’re not the only one approaching your
-
-manager in this way, and they’re likely unable to make any
+company’s needs. Take a broad view of the business, including its

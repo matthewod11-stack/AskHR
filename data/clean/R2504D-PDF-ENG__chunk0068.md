@@ -1,11 +1,15 @@
-## the company’s culture of ohana (a Hawaiian term that loosely
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15d68f025e1242f3eec63c9c5f8f643c7033c134
+title: R2504D-PDF-ENG
+---
+## expectations about corporate activism and social responsibility.
 
-translates as “extended family”), redeﬁning it as promoting respectful
+Instead of imposing immediate policies or taking rigid stances, Benioﬀ implemented what he called “ethical scaﬀolding”—institutional
 
-disagreement rather than forced harmony. When salary audits revealed
+frameworks for addressing controversial issues. He established
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Salesforce’s Oﬃce of Ethical and Humane Use and created structured
 
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+stakeholder-input processes that included employee resource groups, external ethical advisers, and aﬀected communities. He strengthened

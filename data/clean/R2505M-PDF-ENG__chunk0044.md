@@ -1,11 +1,25 @@
-## eﬀects in turn exacerbate climate change in a vicious feedback loop.
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 913311e213c5d9615249376a1978ede6685cf55c
+title: R2505M-PDF-ENG
+---
+# Angie Quintanilla Coates
 
-In other words, industrial farming experiences the cost of climate
+As we embarked on the work, we realized that although farmers cared
 
-change through its impact on soil quality. If farmers understood the
+about climate change, the issue was not top of mind for them. We had diﬃculty engaging them because they had more urgent day-to-day
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+challenges, such as planting, harvesting, and ensuring strong yields.
 
-11
+We decided to reframe the problem from climate change to soil health.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The reasoning was that soil health is more central to farmers’ daily
+
+reality while still being deeply related to climate change. Healthy soil
+
+requires rich and diverse populations of microbes. Climate change
+
+causes soil to degrade, making it less eﬀective at capturing carbon
+
+and at supporting biodiversity, among other harmful eﬀects. Those

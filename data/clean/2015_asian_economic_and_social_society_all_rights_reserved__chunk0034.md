@@ -1,7 +1,9 @@
-## competitive advantage. Edward Elgar Publishing Ltd.
+---
+source_path: 2015_asian_economic_and_social_society_all_rights_reserved.md
+pages: n/a-n/a
+chunk_id: cc3a47e7217c897aa379950ae8b27d642d4ad5d0
+title: 2015_asian_economic_and_social_society_all_rights_reserved
+---
+# Samuel, www.jacksonsamuel.com.
 
-Wright, P. M., McMahan, G. C., & McWilliams, A. (2009). Human resources as a source of sustained competitive advantage: A resource-based perspective. International Journal of Human Resource Management, 5, 301-326.
-
-Zott, C. (2003). Dynamic capabilities and the emergence of intra-industry differential firm performance: Insights from a simulation study. Strategic Management Journal, 24(2), 116- 123.
-
-214
+Vaiman, V., & Vance, C. M. (2008). Smart talent management: building knowledge assets for

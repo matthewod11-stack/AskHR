@@ -1,7 +1,11 @@
-# KS
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3502f4adadb727c33551f1565a3fd864d7921110
+title: H08IKX-PDF-ENG
+---
+# BG
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Bill George is a professor at Harvard Business School and the author of True North: Emerging Leader Edition. He was the CEO of Medtronic from 1991 to 2001 and has served on the boards of Goldman Sachs, Novartis, Target, ExxonMobil, and Mayo Clinic.
 
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Kayti Stanley is a research associate at Harvard Business School.

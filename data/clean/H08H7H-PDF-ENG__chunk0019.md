@@ -1,13 +1,17 @@
-# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3cc2a02aff7bc25059aba87888eb2f71e2b39243
+title: H08H7H-PDF-ENG
+---
+## nonwork, unintentional information about each other in a more
 
-Imagine for example that a colleague’s toddler bounds into view during
+vivid, dynamic way — visually, auditorily, etc. — than if they were
 
-a video meeting, vividly bringing attention to that colleague’s role as a
+to tell each other this information when in an oﬃce.
 
-parent. We hypothesized that learning about a coworker’s nonwork life
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-in this unintentional and vivid way would lead employees to see their
+3
 
-coworkers as more authentic, trustworthy, and human, thus motivating
-
-them to invest in that coworker both personally (i.e., friendship) and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

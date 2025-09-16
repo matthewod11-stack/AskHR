@@ -1,11 +1,13 @@
-# cholamines. Brain Research, 31, 241–262.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 614d39b880c6e3a722844752bd0fed13e6c42cbc
+title: untitled
+---
+## tions. New York: Cambridge University Press.
 
-Frankenhaeuser, M. (1975). Experimental approaches to the study of catecholamines and emotion. In L. Levi (Ed.), Emotions: Their parameters and measurement. New York: Raven Press.
+Folkman, S., & Lazarus, R. S. (1990). Coping and emotion. In N. S. Stein, B. L. Leventhal, & T. Trabasso (Eds.), Psychological and biological approaches to emotion (pp. 313–332). Hillsdale, NJ: Erlbaum.
 
-Freud, S. (1975). Inhibitions, symptoms, and anxiety. The standard edition of the complete psychological works of Sigmund Freud. London: Hogarth Press. (Original work published 1926)
+Fraisse, P. (1968). Les Emotions. In P. Fraisse & J. Piaget (Eds.), Traitédepsychologieexperimentale(pp.102–191).Paris:Presses Universitaires.
 
-Fridlund, A. J. (1991). Evolution and facial action in reﬂex, social motive, and paralanguage. Biological Psychology, 32, 3–100.
-
-Fridlund, A. J. (1992a). The behavioral ecology and sociality of human faces. In M. S. Clark (Ed.), Review of personality and so- cial psychology (pp. 90–121). Beverly Hills, CA: Sage.
-
-Fridlund, A. J. (1992b). Darwin’s anti-Darwinism in The expres- sion of the emotions in man and animals. In K. T. Strongman (Ed.), International review of studies on emotion (pp. 117–137). Chichester, England: Wiley.
+Frankenhaeuser, M. (1971). Behavior and circulating cate-

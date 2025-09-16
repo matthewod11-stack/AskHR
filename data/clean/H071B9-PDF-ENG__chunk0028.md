@@ -1,13 +1,13 @@
-## HBR / Digital Article / When Trust Takes Away from Effective Collaboration
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6b3d5effd152410855fd58dfb8943bf6a6a6d77f
+title: H071B9-PDF-ENG
+---
+# evaluations.
 
-How our focus on trust drives inertia and poor decision making
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-Individuals naturally want to establish themselves as competent and
+4
 
-trustworthy in the eyes of their peers and leaders. But it’s much harder
-
-for people to work together on high-impact, complex transformation
-
-challenges if they’re more concerned with appearing trustworthy than
-
-with effective exchange of information and ideas. Here’s what that can
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

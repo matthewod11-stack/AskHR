@@ -1,11 +1,13 @@
-# Flextime
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e595d9f3781e1059134aa7deeec54b74dd24a685
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Effect Size
 
-10
+Well pay
 
-.59
+4
 
-Compressed work schedules
-
-5
-
-.44
+.86

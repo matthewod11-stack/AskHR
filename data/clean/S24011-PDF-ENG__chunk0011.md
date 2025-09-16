@@ -1,5 +1,11 @@
-## it and unlock peak performance under real-time pressure—precisely
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2334d6d7915f966b219b47eaaad4e9680db6be3a
+title: S24011-PDF-ENG
+---
+# what many realize.
 
-when it matters the most.
+How exactly do you activate your inner core? In this article, for the ﬁrst
 
-Before diving into the speciﬁcs, however, let’s examine the fundamental
+time, I introduce a playbook of quick actions people can use to tap into

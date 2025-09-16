@@ -1,5 +1,9 @@
-## sectors. In addition to digital natives, the food, drug, and mass retail
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8edd5c1e32fee4d010b6bf285c04977f1e5d66bf
+title: R2406G-PDF-ENG
+---
+## fashion (Pandora), and delivery services (DoorDash, a digital native).
 
-sectors also rate highly as a group—not surprising, given the data-rich
-
-loyalty programs, high purchase frequencies, volume of touchpoints,
+The diﬀerences within sectors are more pronounced than those across

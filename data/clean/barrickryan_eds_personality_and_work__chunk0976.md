@@ -1,3 +1,11 @@
-# Wrightsman L. S., 196 Wyer, R. S., 47
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b7d2f3c65ae6d348f990343c0140e27ea5975aca
+title: barrickryan_eds_personality_and_work
+---
+# NAME INDEX 357
 
-Y Yarnold, P. R., 137 Yates, V. L., 268 Yee, P. L., 140 Yost, A. P., 306 Young, M. J., 45 Youngblood, S. A., 268
+Wright, R., 30 Wright, T. A., 30, 31, 32, 42, 77, 127,
+
+302

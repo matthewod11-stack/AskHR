@@ -1,9 +1,7 @@
-# t
-
-, ) 6 0 0 2 ( n a m r e m m i Z d n a d o n r a D
-
-n a m k c a H
-
-,
-
-m a h d O
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1c68b70f00857eabab34937a482aff7392c95a65
+title: industrial_organizational_psychology_an_applied_approach
+---
+# W

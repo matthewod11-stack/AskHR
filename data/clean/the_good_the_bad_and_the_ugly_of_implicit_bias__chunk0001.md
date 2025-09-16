@@ -1,7 +1,7 @@
-# Comment
-
-For #LancetWomen see https://www.thelancet.com/ lancet-women
-
-m o c . k c o t s r e t t u h S
-
-14 Neill U. When scientists say, “Me, Too”. Sci Am Oct 18, 2017. https://blogs.
+---
+source_path: the_good_the_bad_and_the_ugly_of_implicit_bias.md
+pages: n/a-n/a
+chunk_id: 7d44b10cabe152c1cdc295c92320d95024384734
+title: the_good_the_bad_and_the_ugly_of_implicit_bias
+---
+502

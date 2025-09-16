@@ -1,9 +1,11 @@
-# DR
+---
+source_path: H08OER-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63dd7a5be1f49adfff78dca59b5c8b564f766f16
+title: H08OER-PDF-ENG
+---
+## and our colleagues on the pathway toward respect.
 
-David Rock is a cofounder of the NeuroLeadership Institute and author of Your Brain at Work.
+This article was originally published online on March 28, 2025.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Laura Cassiday is the managing editor of content at the NeuroLeadership Institute. Laura has a Ph.D. in biochemistry and worked as a science writer and editor for the American Chemical Society before joining NLI’s team as a senior writer in 2022. She now manages content for NLI, including blog articles and other thought leadership, case studies, and product literature.

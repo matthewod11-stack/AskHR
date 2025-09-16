@@ -1,11 +1,39 @@
-# inaction.”
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1c3f5219aff4fdb7f0c093524dbb228f481ee2c
+title: S24042-PDF-ENG
+---
+# purpose.
 
-A version of this article appeared in the July–August 2024 issue of Harvard Business Review.
+. . .
 
-Claudius A. Hildebrand is a member of Spencer Stuart’s CEO practice and coauthor of The Life Cycle of a CEO: The Myths and Truths of How Leaders Succeed (PublicAﬀairs, forthcoming 2024).
+As a new CEO, you’ll ﬁnd it tempting to seek out quick wins and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+take bold actions that reveal a decisive attitude. When you start
 
-12
+your job, the excitement is high—and so is the pressure. But the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+journey to earning your stakeholders’ trust and support is neither short
+
+nor easy. By following the steps we’ve recommended in this article—
+
+pacing yourself, strategically picking your battles, mobilizing your team,
+
+engaging stakeholders at the right time, communicating clearly and
+
+relentlessly, and investing in self-betterment—you’ll build conﬁdence
+
+in your leadership over time and speed your transition from being the
+
+new CEO to simply being the CEO. Patience, persistence, and consistent
+
+communication during your early years will be key to navigating the
+
+complexities of leadership and maximizing the value you create in the
+
+long term. As Bill Gates said many years ago, “We always overestimate
+
+the change that will occur in the next two years and underestimate the
+
+change that will occur in the next 10. Don’t let yourself be lulled into

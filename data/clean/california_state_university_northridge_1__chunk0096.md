@@ -1,39 +1,29 @@
-# The Doctrine's Exceptions
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 3409abe53b6d60594b4f84f47ddf4893ee35590d
+title: california_state_university_northridge_1
+---
+# At-Will Employment
 
-At-will employment rule faces rejection by courts in 40 to 45 states. The at-will
+"This doctrine embraces a rule declaring that employment for an indefinite term
 
-employment doctrine is used in 49 states with the exception of Montana. Court rulings on
+may be terminated at any time for any reason by either the employer or the employee
 
-this issue have altered the effect on at-will employment, by direct holdings or with strong
+without any legal liability" (Aalberts, Gaston & Seidman, 1993). The origin and or source
 
-dicta stated in the reported cases. Such modifications of the doctrine are embedded in
+of this doctrine remains obscure even to those who deal with at will employees and those
 
-three theories. The three theories are, breach of employment contract, followed by bad-
+29
 
-faith discharge and public policy tort. In respect to breach of employment contract, the
+who write on the subject. By 1877 the at-will employment doctrine was generally
 
-courts have ruled that the employer has "entered an expressed or implied contract with an
+accepted in American courts. "'It is generally assumed that the at-will rule was the result
 
-employee that provided that the employee may be terminated only for cause or in
+of an evolution in the master-servant relationship forced by industrialization in the
 
-accordance with established policies and procedures" (Aalberts et al., 1993). The second
+nineteenth century'' (Aalberts et al., 1993). In addition, employment oflarge number of
 
-theory is bad-faith discharge. This "cause of action is also referred to as the "implied
+employees by ever-growing powerful employers insisted on new employment standards
 
-covenant of good faith and fair dealing," whereby the employer breaches a contract in bad
-
-faith after the employee has developed a relationship of trust, reliance, and dependency
-
-with the employer" (Aalberts et al., 1993). The last theory is public-policy tort, which is
-
-siwilar to bad-faith discharge. ~·An employer who discharges an employee for a reason
-
-30
-
-that violates public policy may have committed this tort" (Aalberts et al., 1993). No
-
-contract is necessary for this cause of action (Aalberts et al., 1993). The four main public
-
-policy protections are serving jury duty, refusal to committee and illegal act on the behalf
-
-of the employer, whistle blowing on an individual or the company itself and :filling
+that needed to accommodate new economic conditions (Aalberts et al., 1993).

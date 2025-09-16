@@ -1,7 +1,7 @@
-## The Economy Is Uncertain. Can You Still Negotiate a Raise?
-
-https://hbr.org/2023/05/the-economy-is-uncertain-can-you-still-negotiate-a-raise
-
-6/7
-
-leadership development and philanthropicstrategy. Previously a senior executive atbillion-dollar nonproﬁt organizations, she is asought-after coach, consultant, and keynotespeaker. She is also the author of
+---
+source_path: The Economy Is Uncertain. Can You Still Negotiate a Raise_.md
+pages: n/a-n/a
+chunk_id: 81c1320f015ab0fa4b0bfff5d6747c785fb27925
+title: The Economy Is Uncertain. Can You Still Negotiate a Raise_
+---
+# 9/10/25, 10:44 AM

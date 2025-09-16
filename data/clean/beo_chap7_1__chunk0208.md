@@ -1,11 +1,11 @@
-# Press.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: a53cb0484ecef05b632b3879e1efe3438ad26f38
+title: beo_chap7_1
+---
+# Psychological Science 14:195-200.
 
-Gabaix, X., and D. Laibson. 2005. Shrouded attributes, consumer myopia, and information
+Frank, R. 2005. Departures from rational choice: with and without regret. In The Law and Eco-
 
-suppression in competitive markets. NBER Working Paper 11755.
-
-Garvey, G., and T. Milbourn. Forthcoming. Asymmetric benchmarking in compensation:
-
-executives are paid for good luck but not punished for bad. Journal of Financial Economics.
-
-Genosove, D., and Ch. Mayer. 2001. Loss aversion and seller behavior: evidence from the
+nomics of Irrational Behavior (ed. F. Parisi and V. Smith), pp. 13-36. Stanford University

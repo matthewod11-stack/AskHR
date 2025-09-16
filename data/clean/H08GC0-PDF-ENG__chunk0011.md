@@ -1,17 +1,27 @@
-## as a coping mechanism for anxiety or low self-esteem, with “busyness”
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e831cf46bac11323c2e2914a34e1305a24b9fa5
+title: H08GC0-PDF-ENG
+---
+## Understanding the Roots of Toxic Productivity
 
-serving as a distraction from negative thoughts and feelings.
+Toxic productivity is multifaceted and stems from a complex mix
 
-The pandemic exacerbated these tendencies, with many people using
+of psychological and societal factors. Productivity norms are deeply
 
-work as a way to maintain a sense of control and purpose during
+embedded in our psyches from growing up in environments that
 
-uncertain times. As gross domestic product (GDP) fell sharply in the
+equate arduous work with virtue, and rest with laziness. This belief is
 
-middle of the crisis, outdated labor productivity metrics created an
+further reinforced by a culture that encourages perfectionism, where
 
-irrational fear that we were in an economic downward spiral. Instead
+individuals feel that their self-worth is tied to their achievements.
 
-of recognizing that the world was in a massive health crisis and this
+Social media ampliﬁes the pressure of toxic productivity by fostering
 
-was not business as usual, there was an accelerated push to return to
+a constant sense of competition. Research ﬁnds that upward social
+
+comparisons are linked to low self-esteem and depression, with women
+
+most negatively aﬀected. It contributes to workaholism, which emerges

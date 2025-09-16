@@ -1,39 +1,27 @@
-## HBR / Digital Article / When Your Job Breaks Your Heart
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95fa0a5c8a6dc89b09bf7f9febff7982421868e9
+title: H08MFI-PDF-ENG
+---
+# We Are/Getty Images
 
-Anxious Achiever podcast Morra Aarons-Mele described it in a LinkedIn
+There are times in our jobs where we may feel disappointment or
 
-post, “sometimes it’s the death of a dream, like owning your business.
+frustration, but mostly on the surface. Think missing a deadline with
 
-Sometimes it’s when your identity seems to escape you through a layoﬀ
+your team or not getting a long-shot promotion. Usually, we manage
 
-or a job loss. And sometimes it happens when you don’t get something
+to ﬁgure out a solution or next steps without the moment completely
 
-that you really, really want.”
+rocking our world.
 
-I wanted to learn more about this idea of “professional heartbreak”
+Then there are moments when everything shifts and you lose something
 
-— how it manifests and how we can cope. So, Aarons-Mele and I had
+in your career that’s deeply meaningful. As author and host of The
 
-a conversation over a shared document and email. Here’s an edited
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-version of what we discussed.
+1
 
-HBR: What is a professional heartbreak?
-
-Aarons-Mele: Professional heartbreak is the loss of something work-
-
-related that feels as personally wounding as grief or heartbreak in your
-
-personal life. This can be because something happened that’s so deeply
-
-counter to your values system that you feel morally wounded. It can be
-
-the loss of something that you loved, like your business or a long tenure
-
-at a company, or a loss of a professional identity you’ve worked for many
-
-years to build. It can be a betrayal from a colleague, boss, or client you
-
-thought you knew.
-
-Regardless of the circumstances, professional heartbreak brings up all
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,23 @@
-## their concerns and discomfort with the leader through open and
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 353da676795fa115bf4c72b106d88542b637ab10
+title: H08GNP-PDF-ENG
+---
+# HBR / Digital Article / Leaders Can’t Make Up for Bad Behavior by Being Nice Later
 
-honest communication. While some research suggests that by directly
+accountable. Organizations must adopt zero-tolerance policies for
 
-communicating their discomfort with the leader, employees will
+abusive behavior, with strong protocols for handling such instances to
 
-alleviate their distress, there is also reason to believe that leaders will
+ensure their employees’ safety and well-being.
 
-retaliate, thus exacerbating the problem. If the leader retaliates and/or
+Finally, although the lion’s share of responsibility for preventing Jekyll
 
-does not adjust their behavior after these conversations, employees
+and Hyde leadership falls on leaders and organizations, employees
 
-should escalate the issue to HR or senior leadership, potentially requesting a leadership change. If such measures prove ineﬀective, it
+also have an important role to play. Some leaders may believe that
 
-may be necessary for employees to consider leaving the organization for
+“good makes up for bad,” leading to repeated instances of Jekyll and
+
+Hyde behavior. In such instances, it is crucial for employees to address

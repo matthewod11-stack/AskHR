@@ -1,7 +1,15 @@
-# AgroSciences:
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e26c8bc4d5680769afe51e9d68ea89fa5bb7d31d
+title: performance_management_3rd_edition_by_aguinis
+---
+# Selecting a CP Plan at Dow AgroSciences
 
-Mission. Dow AgroSciences delivers innovative technology that exceeds market needs and improves the quality of life of the world’s growing population. We do this through responsible pest control, aiding the production of an abundant, nutritious food supply, and the use of plants as a renewable agricultural resource to produce new and improved agricultural outputs.
+Dow AgroSciences LLC, based in Indianapolis, Indiana, is a global leader in providing pest management and biotechnology products that improve the quality and quantity of the earth’s food supply and contribute to the health and quality of life of the world’s growing population. Dow AgroSciences employs approx- imately 6,000 people in more than 50 countries and has world- wide sales of approximately US$ 3 billion. Dow AgroSciences is a wholly owned subsidiary of the Dow Chemical Company.
 
-- Employees are the source of Dow AgroSciences’ success. We communicate openly, treat each other with respect, promote teamwork, and encourage personal initiative and growth. Excellence in performance is sought and rewarded.
+Consider the following information about Dow
 
-- Customers receive our strongest commitment to meet their needs with high-quality products and superior service.
+Vision. We are a premier company applying chemi- cal, biochemical, and genetic solutions to agricultural and specialty market needs.
+
+To ensure the prosperity and well- Core Values. being of Dow AgroSciences employees, customers, and shareholders, cumulative long-term profit growth is essential. How we achieve this objective is as important as the objective itself. Fundamental to our success are our core values we believe in and practice:

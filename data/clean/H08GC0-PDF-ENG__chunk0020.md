@@ -1,17 +1,19 @@
-# antithetical to ambition.
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6ab4428f086223c6969b2899a6b1f57e88776300
+title: H08GC0-PDF-ENG
+---
+# more productive with less meeting time.
 
-“When I started to go through that process of adapting as a young
+Annie Dean, global head of team anywhere at Atlassian, came to her
 
-parent, I was like, there is something really broken here,” Dean told me.
+role after recognizing that her job as a corporate lawyer on Wall Street
 
-She took on the role at Atlassian because she felt that they’re making a
+was starting to feel toxic. Sending an email just minutes before her son
 
-genuine eﬀort to ﬁx what’s broken at work. With more autonomy and
+was born was a wake-up call. I could relate. In the early days of our
 
-work/life harmony, Dean felt the beneﬁts. She suggests that this current
+start-up, I brought my two-week-old daughter into an investor meeting.
 
-fracturing of work isn’t a bad thing. “The way we work needs to break
-
-down completely, because that will create completely new and better
-
-ways of working.”
+As a woman, it’s hard to reconcile that prioritizing your well-being is not

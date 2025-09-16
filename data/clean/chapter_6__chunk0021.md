@@ -1,9 +1,11 @@
-## available tests. Journal of Cross-Cultural Psychology, 44, 849–873.
+---
+source_path: chapter_6.md
+pages: n/a-n/a
+chunk_id: a1e09f45ca27b04ab9625409d3993094a56fe1f5
+title: chapter_6
+---
+## competence. Journal of Cross-Cultural Psychology, 44, 992–1006.
 
-McCloskey, M. J., Behymer, K. J., Papautsky, E. L., Ross, K. G., & Abbe, A. (2010). A developmental model of cross-cultural competence at the tactical level. (Technical Report No. 1278). Alexandria, VA: U.S. Army Research Institute for the Behavioral and Social Sciences.
+Martinko, M. J., & Douglas, S. C. (1999). Culture and expatriate failure: An attributional explication. The International Journal of Organizational Analysis, 7, 265–293. doi:10.1108/ eb028903.
 
-Morris, M. W., Savani, K., Mor, S., & Cho, J. (2014). When in Rome: Intercultural learning and
-
-implications for training. Research in Organizational Behavior, 34, 189–215.
-
-Thomas, D. C. (2006). Domain and development of cultural intelligence: The importance of
+Matsumoto, D., & Hwang, H. C. (2013). Assessing cross-cultural competence: A review of

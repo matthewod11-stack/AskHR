@@ -1,1 +1,17 @@
-# 65
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 08a6f2a979eb0955b505139030db0ea392ce9404
+title: document_resume
+---
+# Communication Factors
+
+have a narrow focus confined to either the objective of development or to perfor- mance/salary review.4i Banks and Murphy suggested that in assessing candidates for promotion, the interview should focus on behavior required for more advanced jobs, whereas in salary administration, the focus should be on behavior required in the appraisee's own job.49
+
+Wexley discussed the appraisal interview in terms of two directions, administrative and employee development. The purpose of the form is to communicate and support administrative decisions such as salary increases, promotions, transfers, etc., the pur- pose of the latter is to enable each employee to get feedback as to how well he/she is doing and to provide an opportunity to discuss improvement of performance. "Both (purposes) cannot usually be accomplished during the same session, inasmuch as the manager is being asked to play the conflicting roles of judge and helper."50 Mount, in a study of employee and r_ anager satisfaction with the appraisal process in a large cor- poration, found that both groups supported the concept of separating salary considera- tions from employee appraisals.51 It is noteworthy that both groups consider the quality of appraisal discussion one of the most important factors is satisfaction with the program.
+
+Combining development goals with administrative tasks such as salary administra- tion within the appraisal interview creates an improbable communication problem in that the appraiser has dual role',. "The superior cannot establish a warm, supportive climate if he or she is ruling on the employee's paycheck. The employee will not be open to a discussion of weakness if he or she feels that such a disclosure will result in economic sanction."52
+
+Every organization has a climate in which communication occurs.53 Climate factors must be considered at both the organizational level (macro) and at the perfor- mance appraisal interview level (micro). Climate factors at the organizational level refer to processes related to such factors as leadership, communication, decision- making, goal setting, and processes.S4 Wexley drew upon the seminal work of Likert to illustrate how organizations differ with respect to climate fattors.55 At one extreme is the System 1 organization where there is no perceived evidence of trust between manager and subordinate, interaction is restricted, decisions are all made at the top, and employee participation is discouraged. In a System I organization communication flows downward, tends to be distorted, inaccurate, and viewed with suspicion. At the other extreme is the System 4 organization which is characterized by supportive rela- tionships, group decision-making, open and extensive interaction, and high participa- In a System 4 organization communication flows freely throughout-upward, tion. downward, and laterally. Information is accurate and undistorted.cn It is apparent that appraisal interviews would take on quite different characteristics within these different environments What seems clear is that communication in organizations onented toward System 4 would be quite superior to that in System I.
+
+Climate exists as a communication variable at the micro level of the performance appraisal interview as well. ''The climate present in an appraisal interview is affected by a complexity of interlocking and intangible variables." s' Vanables include both

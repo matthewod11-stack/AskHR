@@ -1,7 +1,21 @@
-## gains in workforce well-being and organizational performance.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08dd7316a6620f4f4e2424001a3ba252e4f08625
+title: H08R51-PDF-ENG
+---
+## the largest hotel chains in the Netherlands—operating 22 hotels with
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+more than 1,000 employees—used the Energy Compass, an online
 
-6
+survey tool, to assess job demands and resources. The intervention
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+focused on increasing job resources such as autonomy, social
+
+support, and professional development opportunities. As a result, the
+
+organization reported measurable reductions in burnout and signiﬁcant
+
+improvements in employee engagement. This case demonstrates how
+
+systematically applying the JD-R framework can lead to meaningful

@@ -1,45 +1,21 @@
-# The Challenge of Choice
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ab287eae1f58200b6d8fc1db08bcf7306ffbbd1
+title: R2505H-PDF-ENG
+---
+## HBR / Magazine Article / The Founder’s Final Act
 
-It may seem obvious that founders who care deeply about their
+In this article we’ll oﬀer a clear explanation of the possible succession
 
-businesses and everyone aﬀected by them should start the ownership-
+choices for founders and outline the steps they should work through to
 
-transition process well before it’s necessary rather than leave so much
+make the right calls. No single solution will be appropriate for them
 
-to chance. Beyond the problem that company owners are always busy, making transition plans can be diﬃcult for two main reasons.
+all, so it’s crucial that founders go through the process of deﬁning
 
-First, very human emotions are triggered by the process. Letting go of
+what success means to them, understanding and exploring the potential
 
-ownership means contemplating mortality. Planning a transition also
+pathways for achieving it, and then, ultimately, deciding on a plan. By
 
-challenges a founder’s sense of identity. For people who have deﬁned
-
-themselves as leaders of companies, letting go can be painful.
-
-Second, ownership decisions have major consequences for families,
-
-which have follow-on implications. A founder may want to pass the
-
-company on to her children, but that can be more complicated than it
-
-initially appears. For example, if one child is involved in the company
-
-as the “heir apparent” CEO while the others are oﬀ pursuing their own
-
-passions, how should that aﬀect the ownership decision? If the founder
-
-chooses to give a greater share of the company to the future CEO, will
-
-her other children think she has picked a favorite and resent her? If
-
-she doesn’t give the obvious successor a larger share, will that person feel insuﬃciently rewarded? What if professional managers and other
-
-employees are waiting around to see if they have a chance at ownership?
-
-Will they leave after the choice is made?
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+starting this journey early, founders can make the most of their ﬁnal act.

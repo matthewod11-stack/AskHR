@@ -1,7 +1,9 @@
-## psicometria. O eNPS surge, então, como uma métrica capaz de refletir estes
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 32a35ca8aff86099ca648ab313e6536fa148aeb0
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# correta e contínua geralmente requer
 
-aspectos, mantendo-se objetivo e ágil. O eNPS ou Employee Net Promoter Score é
-
-uma métrica originária do marketing, adaptada e incorporada pela área de recursos
-
-humanos para medir o nível de satisfação e engajamento dos funcionários. Para
+tempo e conhecimento a respeito de

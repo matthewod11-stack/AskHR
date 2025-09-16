@@ -1,15 +1,21 @@
-## conduct educational sessions at points of purchase and on social
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40f3444940e248d12f11f6818264fc857b94771f
+title: R2505L-PDF-ENG
+---
+## HBR / Magazine Article / How to Counter Fake News
 
-media platforms to reassure consumers about the authenticity of its
+policies and have seen the supporting documentation. To further
 
-pesticide-free claim. “Know Your Fruit” stands are periodically set
+build trust, Vero has welcomed external and independent certiﬁcation
 
-up in major retailers’ stores, where produce is displayed alongside
+agencies to assess its production processes, providing guarantees that
 
-descriptions of the characteristics of organic products, comparing them
+the company meets the highest standards of organic production.
 
-with nonorganic produce and featuring tasting sessions. Additionally,
+Ordinary customers have also participated in tours of its farms, which
 
-Vero maintains a dedicated online transparency platform, “Vero
+showcase its sustainable practices.
 
-Transparency,” where customers can access organic certiﬁcation details,
+To further reinforce its credibility, Vero and its retail partners

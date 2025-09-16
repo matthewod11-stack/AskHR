@@ -1,13 +1,15 @@
-# work, time management.
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: b49c9a96c9cf2109fd0612ba3c4a2cb4e66778f0
+title: final_2019_jan_feb_jbs_pmd
+---
+# Range Minimum Maximum
 
-Objective: 3: “To identify the relationship between Leadership style and task performance of subordinates in banks”.
+3
 
-Hypotheses H02: “There was no relationship between the leadership styles and employees Task performance of banks in Rajasthan.”
+2
 
-Now, next, to examine the above hypothesis Ha2, a Pearson correlation will be used among leadership styles & employee performance. Table 4.3 below displays the result of the correlation matrix.
+5
 
-Leadership styles with Task Performance: The Above (Table no-1.3) exhibits the results on the relationship among the supervisor’s different Leadership styles (as measured by SPSS_LS) and Task performance (as measured by SPSS_TP). The outcome shows a “significant a positive relationship between Task performance and leadership styles, where a value of “r = 0.404, p-0.000 < 0.05, with an almost a strong level of the task performance, found associated with Leadership styles”. Thus, the null hypothesis “HO2: Leadership styles had no significant relationship with Task performance”, got rejected. Now we would also evaluate the different styles of an individual relationship with task performance in the next paragraph. Result of correlation of three types of Supervisor leadership styles with task performance:
-
-82
-
-IITM Journal of Business Studies (JBS)
+Table 4.2: After observing the performance of subordinates of Rajasthan’s public and private sector Bank, employees task performance was assessed subjectively, i.e. the person’s assessment of his/her performance was asked. “According to the frequency analysis, the study can verify that the data gather ed for Task performancehad been normally distributed and the datahad gathered around the mean of 3.81 and with an std. dev. of 0.690. The bell curve indicates that almost every reply to the questions to quantif y the task performance of the bank employees was close to the mean, while fewer people had provided answers unlike from the mean value”. Timely planning mean score was 4.1 with SD-0.92, optimal planning mean score was 3.53 & SD-0.96, employees keep in mind the result mean score was 4.01 & SD-0.978, ability to separate main issues mean value which was 3.6 and SD-1.064 and ability to perform in time mean value was 3.79 and SD-0.94. In this survey, the highest scores were received in “I manage to plan my work so that it was completed on given duration” (M=4.10 & SD=0.928) and the lowermost scoreswere in “My planning was always optimal” (M=3.53 & SD=0.966). Through the above result, we can depict that bank employeeswere more than average in their Task performance where they found to be a focus on planning and organizing of their work, optimization of the task, giving priorities to the most important

@@ -1,25 +1,13 @@
-# Not this.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: ab2c04802e0c0e31d24e60f2e898c63c32043a0d
+title: document_resume
+---
+# Exhibit 6.4. Bernardin and Beatty's Suggestions for Writing Descriptions of Beha for
 
-Liesa gives good instructions to her seta-clay Her instnit lions arc dear and cones:
+1.
 
-Avoid using adjecutc qualtfier., in the statements, use descriptions of beliaior.
+Use specific examples of behaylor, not on, liksionA about the "goodness" or "badness" of beha% 'or.
 
-Use this. Aimee repeated an employee's communication and its intent to the employee. She talked
-
-in private, and I have never head her repeat the conversation to others.
-
-Not this: Kelly does a good job of understanding problems. She is kind and friendly ,
-
-3.
-
-Avoid using statements that make, ,isawnpuolia about an employee's kiwithAige of the job, use descriptions of behavior.
-
-Use this. Sarah performed the disassembly procedure for rebuilding a carburetor by first remot ing the Lap and then proceeding with the internal components When she was m doubt about the procedure, she referred to the appropriate manual.
-
-Not this. Sam knows how to disassemble a carburetor in an cffiuc,it and effeLtRe manner
-
-4.
-
-Avoid using frequencies in statc.aents; use descriptions of behavior.
-
-Use this. Patrol Officer Garcia performed the search proteuae by first informing the arrested of their rights, asking them to assume the search position, and then conducting the search by touching the arrested in the prescribed plates. When the SC,11111 was completed, Garcia informed the arrested. He then proceeded to the next step in the arrest procedure
+Use this. Gwen told her secretary when the work was to be completed, whether it was to be a draft or a final copy, the amount of spate in w lila it had to be typed. and the kind of paper necessary.

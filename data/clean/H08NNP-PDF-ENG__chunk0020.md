@@ -1,9 +1,15 @@
-# something new and exciting.
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4c958cb2ccbc47d596766bd8145bdf714898226f
+title: H08NNP-PDF-ENG
+---
+# incomplete or faulty information.
 
-This article was originally published online on March 12, 2025.
+What makes AI a valuable member of the executive team is that it is diﬀerent from humans. This disrupts and therefore broadens
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the considerations—in some cases, providing information quickly to
 
-6
+move forward. But for this to work, it needs a human (a critical
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+thinker but not necessarily an industry expert) to operate the tool. The collective intelligence of the combination of humans and the tools oﬀers

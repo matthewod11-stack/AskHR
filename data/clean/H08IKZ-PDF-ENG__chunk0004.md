@@ -1,19 +1,19 @@
-# human capabilities.
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdbdfe4305a1088f242ff4cf52093aaaae75ee5c
+title: H08IKZ-PDF-ENG
+---
+# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
 
-Consider the case of Kodak and Fuji. Both companies had access to the
+Decisions are not merely exercises in data aggregation and algorithmic
 
-same data indicating the rise of digital photography, and they evaluated
+analysis. They necessarily involve many additional nuanced elements,
 
-it subject to the same objectives of maximizing growth and proﬁtability.
+such as selecting trustworthy data sources, employing imagination to
 
-Still, they came to diﬀerent decisions: Kodak doubled down on its
+envision possibilities beyond available facts, and judging the feasibility
 
-analog products, while Fuji diversiﬁed, investing in digital technologies
+of solutions. These are areas where humans have innate advantages
 
-and pursuing other options like cosmetics, which collectively were suﬃcient to ensure its survival. The same data inspired yet another
-
-decision for Sony, which, as a challenger in the market, saw the rise
-
-digital photography as an opportunity worth embracing.
-
-This divergence underscores that decisions depend on interpretation,
+over machines. Crucially, these involve implicit and often untrained

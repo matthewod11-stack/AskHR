@@ -1,15 +1,17 @@
-# without fear of retribution.”
+---
+source_path: H07VSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85f084d75679701a0c1a320ad29779ee4872d35b
+title: H07VSV-PDF-ENG
+---
+# HBR / Digital Article / Keep Your Team Motivated When a Project Goes Off the Rails
 
-As the team leader, you can also create psychological safety and model
+Involve the team in trouble-shooting and defining the path forward.
 
-a growth mindset by going ﬁrst in sharing mistakes that you’ve made
+Enlist the team in trouble-shooting in a collaborative way that doesn’t
 
-that might have contributed to the project’s lackluster performance and
+place blame, but seeks to get to the root cause and ﬁnd a better path
 
-what you’ve learned from them. In these meetings, encourage open
+forward. Nieto-Rodriguez recommends holding a “state of the project”
 
-communication and transparency, which not only builds trust, but also
-
-empowers the team to ﬁnd a solution together. This reinforces a sense of
-
-“being in it together,” which can bring a greater sense of motivation for
+meeting where “everyone can express concerns and oﬀer solutions

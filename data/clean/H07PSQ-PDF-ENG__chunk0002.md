@@ -1,5 +1,7 @@
-## How to Manage an Employee Who Always Makes Excuses
-
-They’ve lost your trust. How should you proceed? by Liane Davey
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07PSQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac65285ae1488616ed26429f9f9ad35bab693af3
+title: H07PSQ-PDF-ENG
+---
+# Leadership and Managing People

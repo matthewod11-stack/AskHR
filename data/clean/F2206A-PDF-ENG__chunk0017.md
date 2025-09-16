@@ -1,13 +1,11 @@
-# Doug Levy
+---
+source_path: F2206A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3308557286edec5243d626c0d6e90532a97b9307
+title: F2206A-PDF-ENG
+---
+# accordance with local and state
 
-office-based associates, we have always
+guidelines and when we could ensure
 
-empowered our leaders around the world
-
-to make decisions in the context of their local businesses. So as things
-
-began to improve, we let them use their own judgment about associates’
-
-returns, as long as they were in accordance with global health and safety
-
-guidelines. We determined at the corporate level that our future was with
+a safe work environment. As for our

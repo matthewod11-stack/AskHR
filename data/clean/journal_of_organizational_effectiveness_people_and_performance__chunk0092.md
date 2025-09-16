@@ -1,13 +1,19 @@
-# Human resource management practices
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 727067ff0697f0c415f3796f356411f81ac7ca06
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# I
 
-21
+d e d a o l n w o D
 
-) T P (
+organizational objectives,but also the values, interests, and personal goals of the employee. Such mutually beneficial goals, in effect reflecting “fit”, are more likely to be integrated with employees’ selves and to therefore result in the experience of meaningfulness and employee engagement. This approach is consistent with Bouskila-Yam and Kluger’s (2011) strength-based performance appraisal that also focuses on aligning organizational and personal objectives. Goals should also be challenging. Research has shown that engagement is positively associated with increases in performance expectations over time (Barbier et al., 2013).
 
-5 1 0 2
+The second step in performance agreement involves the ongoing monitoring of psychological contracts. Schaufeli and Salanova (2010) noted that one way personnel assessment and evaluation processes will affect engagement is through psychological contracts, which reflect the extent to which employees believe that implicit or explicit promises and agreements about work are honoured and fulfilled by the organization. Parzefall and Hakanen (2010) empirically demonstrated that psychological contract fulfilment is positively associated with engagement. Psychological contract fulfilment will also likely result in increased perceptions about the availability of job resources and, as a consequence, psychological availability.
 
-h c r a
+Engagement facilitation Engagement facilitation involves a number of components including job design, coaching and social support, and training. We have previously noted how job features such as job autonomy, task variety and performance feedback are associated with job meaningfulness and engagement (Bakker et al., 2004; May et al., 2004; Schaufeli and Bakker, 2004). It follows that performance management and development processes focused on engagement should therefore include two-way conversations and agreements about the degree to which employees have jobs that are designed in ways that optimize engagement.
 
-M 9 0
+Consistent with the prescription that performance management should be an ongoing activity (Latham et al., 2005), regular coaching and social support should facilitate the development of employee engagement. Schaufeli and Salanova (2008) suggested that coaching employees and helping them plan their work, highlighting potential difficulties, and offering advice and emotional support helps to foster engagement. Research supports this idea (Hakanen et al., 2006; Xanthopoulou et al., 2009b) and it is therefore important that coaching and social support be recognized as targets or criteria in performance management and development processes. Ongoing in employees experiencing increased coaching and support should also result psychological safety and job meaningfulness.
 
-0 0 : 8 0
+The last ingredient in engagement facilitation is training. Schaufeli and Salanova (2008) suggested that allowing employees to learn and develop throughout their careers is key to keeping employees engaged. As discussed below, training can (2010) and Gruman and Saks be one way to accomplish this. Salanova et al. (2011) argued that training programs that help employees build personal resources in turn foster engagement through Kahn’s (1990) psychological experience of meaningfulness and availability. Indeed, recent research has shown that human resource practices that include opportunities for training are positively associated with engagement (Alfes et al., 2013b). The bottom line is that a systematic focus on training needs, training delivery, training transfer and training effectiveness should be an integral focus of effective performance management and development processes.

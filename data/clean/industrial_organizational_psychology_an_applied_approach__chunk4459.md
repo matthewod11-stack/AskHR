@@ -1,21 +1,19 @@
-## performance expectations. Social Psychology Quarterly, 55(1), 78–85.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 296cd3aacf6eaa94a84e94d114f6f7ab174ecb58
+title: industrial_organizational_psychology_an_applied_approach
+---
+# American Psychologist, 62(1), 34–42.
 
-Stewart, R., Ellenburg, G., Hicks, L., Kremen, M., & Daniel,
+Stewart, D. W., & Latham, D. R. (1986). On some psychometric
 
-M. (1990). Employee references as a recruitment source. Applied H.R.M. Research, 1(1), 1–3.
+properties of Fiedler’s contingency model of leadership. Small Group Behavior, 17(1), 83–94.
 
-Stimson, J. (2004). Recruiting via the Web: Firms using the Internet are netting results better than newspaper classiﬁ eds and cheaper than headhunters. Th e Practical Accountant, 39(7), 26–30.
+Stewart, G. L., Dustin, S., Shaﬀ er, J., & Giluk, T. (2008,
 
-Stokes, G. S., Hogan, J. B., & Snell, A. F. (1993). Comparability of
+April). Antecedents to rapport building during the employment interview. In M. R. Barrick (Chair), Th e role of unstructured information in the employment interview. Symposium presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
 
-incumbent and applicant samples for the development of biodata keys: Th e inﬂ uence of social desirability. Personnel Psychology, 46, 739–762.
+Stewart, G. L., Fulmer, I. S., & Barrick, M. R. (2005). An exploration of member roles as a multilevel linking mechanism for individual traits and team outcomes. Personnel Psychology, 58(2), 343–365.
 
-Stokes, G. S., & Toth, C. S. (1996). Background data for
-
-personnel selection. In R. S. Barrett (Ed.), Fair employment strategies in human resource management (pp. 171–179). Westport, CT: Quorum.
-
-references
-
-661
-
-Stone, D. L., Gueutal, H. G., & McIntosh, B. (1984). Th e eﬀ ects of feedback sequence and expertise of the rater on performance feedback accuracy. Personnel Psychology, 37(3), 487–506.
+Stewart, P. A., & Moore, J. C. (1992). Wage disparities and

@@ -1,5 +1,19 @@
-# mation. Washington, DC: Author.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 932f0307cd97791f968017771fd39095effc9904
+title: untitled
+---
+# Brunner/Mazel.
 
-United States President’s Commission on Mental Health. (1978). Report to the President from the President’s Commission on Mental Health (Vol. 4, p. 26). Washington, DC: U.S. Govern- ment Printing Ofﬁce.
+Thornton, M. C. (1983). A social history of a multiethnic identity: The case of Black Japanese Americans. Unpublished doctoral dissertation, University of Michigan, Ann Arbor.
 
-Varona y Pera, E. J. (1880–1888). Conferencias ﬁlisoﬁcas. Habana,
+Turner, S. M. (1996). Treatment of anxiety disorders in African Americans: Current status. Symposium on Advances in Treat- ment Outcome Research with Ethnic Minorities, 104th meeting of the American Psychological Association, Toronto, Ontario, Canada.
+
+Tyler, L. E. (1978). Individuality: Human possibilities and personal choice in the psychological development of men and women. San Francisco: Jossey-Bass.
+
+U.S. Bureau of the Census. (2001, December 20). State and County
+
+QuickFacts. Retrieved from quickfacts.Census.gov.
+
+U.S. Bureau of the Census. (2001). United States statistical infor-

@@ -1,5 +1,15 @@
-# and assessment of competencies.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8f1db31d1a25a0bd72f2412fe0c7da422602ca2c
+title: performance_management_3rd_edition_by_aguinis
+---
+## of accountabilities, objectives, and standards.
 
-(cid:2) Develop competencies that are defined clearly, provide a description of specific
+(cid:2) Determine accountabilities and their relative importance. (cid:2) Identify objectives that are specific and clear, challenging, agreed upon, significant, prioritized, bound by time, achievable, fully communicated, flexible, and limited in number.
 
-behavioral indicators that can be observed when someone demonstrates a competency effectively, provide a description of specific behaviors that are likely to occur when someone doesn’t demonstrate a competency effectively (what a competency is not), and include suggestions for developing them further.
+(cid:2) Identify performance standards that are related to the position, concrete, specific,
+
+measurable, practical to measure, meaningful, realistic and achievable, and reviewed regularly.
+
+(cid:2) Adopt a behavior approach to measuring performance, including the identification

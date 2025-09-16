@@ -1,9 +1,7 @@
-## New Move: Discuss work in a positive way with your kids.
-
-When work and home-life responsibilities clash, as they did so often
-
-and starkly throughout the pandemic, it’s natural to view and talk about
-
-them in oppositional terms. And you’re only human, after all: Your
-
-boss’s message is stressful to read, or you’re disappointed about missing
+---
+source_path: H07N1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 462887205ea13f22974777c0a7e2684078f85b8f
+title: H07N1K-PDF-ENG
+---
+# HBR / Digital Article / Working Parents, It’s Time to Let Go of These Pandemic-Era Ha…

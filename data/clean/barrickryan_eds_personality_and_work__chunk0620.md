@@ -1,7 +1,13 @@
-# chologist, 41, 3–13.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 25d9ad24dba9518372635b65b1271b04f1c922df
+title: barrickryan_eds_personality_and_work
+---
+# 204 PERSONALITY AND WORK
 
-Maslach, C., Santee, R. T., & Wade, C. (1987). Individuation, gender role, and dissent: Personality mediators of situational forces. Journal of Personality and Social Psychology, 53, 1088–1093.
+processes. In K. J. Klein & S.W.J. Kozlowski (Eds.), Multilevel theory, research, and methods in organizations: Foundations, extensions, and new directions (pp. 3–90). San Francisco: Jossey-Bass.
 
-Mount, M. K., Barrick, M. R., & Stewart, G. L. (1998). Five-Factor Model of personality and performance in jobs involving interpersonal in- teractions. Human Performance, 11, 145–165.
+LePine, J. A., & Van Dyne, L. (2001). Peer responses to low performers: An attributional model of helping in the context of groups. Acad- emy of Management Review, 26, 67–84.
 
-Neuman, G. A., & Wright, J. (1999). Team effectiveness: Beyond skills and
+Levinson, D. J. (1986). A conception of adult development. American Psy-

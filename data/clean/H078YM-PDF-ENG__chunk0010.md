@@ -1,23 +1,13 @@
-## HBR / Digital Article / Is Bad Onboarding Stifling Your New Senior Leaders?
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70da3a687d818b334c58706dff44dff905bf0573
+title: H078YM-PDF-ENG
+---
+## functions, divisional all-hands meetings, and introductory meetings
 
-with senior executives. (This is pretty typical, and often paired with
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-required travel to diﬀerent sites.)
+2
 
-At the end of the month, not only was he exhausted, but he was worried
-
-that the kinds of changes he had initially thought about making were so
-
-radical that they would face stiﬀ resistance and would need to be toned
-
-down. So instead of starting oﬀ with conﬁdence, he began to doubt his
-
-ability to change the status quo.
-
-So what’s the alternative? How can your organization onboard leaders
-
-in a way that fosters impact and not just integration? From my 30 years
-
-coaching senior leaders and advising large companies about innovation
-
-initiatives, I’ve seen three solutions that work. These can be deployed
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

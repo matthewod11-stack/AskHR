@@ -1,11 +1,19 @@
-## When CEO Marc Benioﬀ confronted growing divisions at Salesforce
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e59f63f23b30ab7ffa7905f774799f07c3a0bf7
+title: R2504D-PDF-ENG
+---
+## —networks of trained mediators, community leaders, and civil society
 
-around 2018, the challenges were complex and multifaceted. Employees
+organizations that could continue peace-building work even when
 
-were deeply divided over the ﬁrm’s government contracts, particularly
+formal negotiations stalled. Because she recognized that women often
 
-with U.S. Customs and Border Protection, and disagreed about whether
+bore the greatest burden of wars while being excluded from peace
 
-tech companies should take stands on social issues such as immigration
+processes, she created networks of female peacemakers across northern
 
-enforcement. Rapid growth through acquisitions had also led to cultural rifts between diﬀerent employee populations who didn’t share the same
+Uganda, training them in conﬂict resolution and providing resources for
+
+them at the community level. Those networks are still operating today.

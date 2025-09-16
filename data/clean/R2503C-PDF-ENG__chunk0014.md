@@ -1,13 +1,13 @@
-## HBR / Magazine Article / Lean Strategy Making
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0138d5473989b34426529d49ed5b2840f748377d
+title: R2503C-PDF-ENG
+---
+## in Phoenix, San Francisco, Los Angeles, and Austin.
 
-Todd McLellan’s photo series from the book Things Come Apart features objects that have been deconstructed and rearranged to examine how their component parts work together.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-The next step is to compare the performance ambition against a
+4
 
-multiyear outlook (MYO), which projects what a company’s future
-
-performance will be, given the decisions and resource commitments its
-
-leadership has already made. Critically, the MYO does not account for
-
-decisions that haven’t been made yet, even if they’re likely to be made in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

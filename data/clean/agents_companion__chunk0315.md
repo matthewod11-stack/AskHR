@@ -1,13 +1,11 @@
-# continuous learning and adaptation.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: d4a1f233df3582f6c928bc499735c09610a8c9af
+title: agents_companion
+---
+# decision-making processes.
 
-72
+- Long-Term Memory and Learning: Developing more sophisticated memory mechanisms
 
-- Agent Communication Protocols: Better defining how agents share tasks, knowledge,
-
-and messages, especially across remote systems which are opaque.
-
-- From Agents to contractors: In order for agents to get to next level of reliability and
-
-utility, we will need to step up the definition of tasks, making them into contracts with clear
-
-deliverables, validation mechanisms, and ability to negotiate ambiguities, similarly to how
+that allow agents to retain and utilize information over extended periods, enabling

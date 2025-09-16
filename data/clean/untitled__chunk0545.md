@@ -1,9 +1,13 @@
-# Row.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 44ba2ab18f4ea9c478fe1faf85673dc2153ad48e
+title: untitled
+---
+# York: Rockefeller University Press.
 
-Hebb, D. O. (1949). The organization of behavior. New York: Wiley.
+Hall, G. S. (1901). The new psychology. Harper’s Monthly
 
-Hebb, D. O. (1953). Heredity and environment in mammalian behaviour. British Journal of Animal Behaviour, 1, 243–254.
+Magazine, 103, 727–732.
 
-Hebb, D. O., & Thompson, W. R. (1954). The social signiﬁcance of animal studies. In G. Lindzey (Ed.), Handbook of social psychology (Vol. 1, pp. 532–561). Cambridge, MA: Addison- Wesley.
-
-Herman, L. M. (1987). Receptive competencies of language-trained
+Hayes, C. H. (1951). The ape in our house. New York: Harper &

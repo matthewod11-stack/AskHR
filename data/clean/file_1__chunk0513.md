@@ -1,1 +1,11 @@
-# 126
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: ddb5e048cbecacd9b401a90fee2d9e58304c1708
+title: file_1
+---
+## Note. N=455. DV = Organizational commitment.
+
+We used moderated multiple regression analysis to examine our hypotheses (Table 2). On step 1, gender, pay inequity, and procedural justice were entered. On step 2, product terms representing the gender X pay inequity and gender X procedural justice interactions were entered. As we attempted to understand whether pay comparison and access to pay information would explain the differences in organizational commitment over and above pay inequity and/or procedural justice, in the third step, the mediators pay comparison and access to pay information were entered.
+
+On step 1 in Model 2, we found that high perceptions of procedural justice were related to higher organizational commitment (see Table 2). On step 2 of this equation, we entered the two-way interaction terms. The incremental variance due to this second step in both Model 1 that tests the Hypothesis 1 (F = 5.305, p < .05) and Model 2 that tests the Hypothesis 2 (F = 6.008, p < .05) significantly added to the prediction of organizational commitment. As the interaction term gender X pay inequity ((cid:2) = -.252, p < .05) and gender X procedural justice ((cid:2) = .267, p <.05) were statistically significant, we plotted the interactions (see Figures 1 and 2) 1 SD above and below. Consistent with the Hypotheses 1 and 2, the results revealed that men are more sensitive to pay inequity and women to procedural justice, as indicated in their propensity to commit to their organizations.

@@ -1,3 +1,13 @@
-# (1992) Managerial
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: efabeaeacf791a582f1305de3d161560664a26c3
+title: original_article
+---
+# Index – S&P 500, 25th edn.
 
-© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
+Stimpert,
+
+thinking and large diversiﬁed ﬁrms. Unpublished doctoral
+
+J.L.

@@ -1,37 +1,23 @@
-## HBR / Digital Article / 5 Things Employers Get Wrong About Caregivers at Work
+---
+source_path: H07CJU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95e9b63a2cb0220d84de487745a165b58ddbb36f
+title: H07CJU-PDF-ENG
+---
+# Yann Bastard
 
-They are the fastest growing workplace identity group, and they make
+There is a large group of employees at nearly every company that have
 
-up around 73% of the workforce. “Caregiver” is a broad term on purpose
+much to contribute to organizations, but may need thoughtful policies
 
-— it includes parents, those caring for elderly family members, and
+to thrive. Supporting this group is integral to DEI, loyalty, and retention
 
-those supporting a sick or disabled child, sibling, or spouse. Through my
+goals, and yet few companies even track their status. The group I’m
 
-work as a journalist and consultant on caregiver issues in the workplace,
+talking about is caregivers.
 
-I see again and again that companies have serious blindspots about
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-their caregiver population and regularly make assumptions that can
+1
 
-undermine their stated values and goals — along with their bottom line.
-
-Here are ﬁve big misconceptions I’d like to debunk in order for
-
-companies to better understand the realities of their employee
-
-caregivers so that they can make smart policies to support them.
-
-Myth #1: School and childcare are “back to normal.”
-
-Employers need to better understand the huge logistical care challenges
-
-that employees may be facing daily. Before the pandemic, childcare
-
-facilities were expensive and hard to ﬁnd, and public school was
-
-completely out of sync with the realities of working parents. Sadly,
-
-things are now far worse for everyone, making it harder than ever to
-
-solve the care jigsaw puzzle.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

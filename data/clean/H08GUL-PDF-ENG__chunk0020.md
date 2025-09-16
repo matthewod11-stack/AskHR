@@ -1,13 +1,9 @@
-## helpful for which type of problem – a recommender system. This
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ed9946524bdbe7bcd24d332fdd28e3ddc3d66bd
+title: H08GUL-PDF-ENG
+---
+## HBR / Digital Article / How 3 Companies Are Using AI to Mimic Expert Judgement
 
-lowered the personal training costs and boosted the eﬀectiveness of the
-
-support oﬀered.
-
-How to do it yourself: If you’re seeking to enhance your problem-
-
-solving capabilities, consider implementing AI agents that represent
-
-speciﬁc areas of expertise. Review the growing number of AI-based
-
-platforms for creating agentic systems that can capture diverse expert
+is based on their peers’ recommendations of which agents were most

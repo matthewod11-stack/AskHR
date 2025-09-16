@@ -1,17 +1,13 @@
-## occasional glimpses of a team member on a computer screen. Even
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bc3a11ceecb5a7b6c36a56395c8166c3f3d16e6e
+title: R2504L-PDF-ENG
+---
+## HBR / Magazine Article / Hybrid Still Isn’t Working
 
-when a manager does learn that a remote employee is not doing
+Support employees’ well-being and mental health. Most managers
 
-well, it can be tricky to navigate discussions about getting help from
+can tell when employees are struggling by observing them in the
 
-employee assistance programs or other resources. Due to growing
-
-concerns about employee mental health, managers should be required
-
-to have routine employee check-ins, and if these have to be done
-
-remotely, supervisors need training and access to resources on how
-
-to better assess employees’ well-being in a virtual context. Managers
-
-can also promote their reports’ well-being by establishing and enforcing
+workplace every day. It is much harder to spot problems with only

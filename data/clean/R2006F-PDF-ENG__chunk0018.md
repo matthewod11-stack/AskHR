@@ -1,19 +1,27 @@
-## users of those choices against cost considerations.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 47078a84f402c57ac3f2602d3b3c99848bc547eb
+title: R2006F-PDF-ENG
+---
+## numbers rather than the costs of or revenue from particular products.
 
-In a functional organization, individual and team reputations act as a
+Thus product decisions are somewhat insulated from short-term
 
-control mechanism in placing bets. A case in point is the decision to
+ﬁnancial pressures. The ﬁnance team is not involved in the product
 
-introduce the dual-lens camera with portrait mode in the iPhone 7 Plus
+road map meetings of engineering teams, and engineering teams are
 
-in 2016. It was a big wager that the camera’s impact on users would be suﬃciently great to justify its signiﬁcant cost.
+not involved in pricing decisions.
 
-One executive told us that Paul Hubel, a senior leader who played a
+We don’t mean to suggest that Apple doesn’t consider costs and revenue
 
-central role in the portrait mode eﬀort, was “out over his skis,” meaning
+goals when deciding which technologies and features the company
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+will pursue. It does, but in ways that diﬀer from those employed by
 
-6
+conventionally organized companies. Instead of using overall cost and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+price targets as ﬁxed parameters within which to make design and
+
+engineering choices, R&D leaders are expected to weigh the beneﬁts to

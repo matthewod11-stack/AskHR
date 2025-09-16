@@ -1,21 +1,27 @@
-## HBR / Magazine Article / Negotiate Like a Pro
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 614f414afd029004fdb758c3bca0ad100828a11d
+title: R2402L-PDF-ENG
+---
+## With open-minded, curious, and nonjudgmental conversation, John
 
-cooperation. So they believe him when he says the company can pay
+can ascertain what the kidnappers’ real needs are, beyond their surface-
 
-only $300,000 and not a dollar more. The deal is struck, the hostages are
+level demands, in order to end this crisis. Those needs include respect
 
-safely returned, and no repeat attacks occur.
+and a sense of control along with reassurance that they won’t be
 
-Over a decades-long career as a kidnapping and extortion negotiator,
+ambushed, arrested, or killed during the handover of the ransom.
 
-I handled many similarly sensitive cases all over the world. If I
+Eventually, because he has kept his own ego in check, refrained from
 
-wasn’t helping secure the release of hostages in Africa, Latin America,
+hostility, and demonstrated empathy and deep listening, John earns
 
-or the Middle East, I was confronting extortionist cyberattackers
+their conﬁdence, and with it the right to inﬂuence them and seek
 
-in the United States, Europe, or Asia. Through my experiences,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-observations, and conversations with other experts in the ﬁeld, I’ve
+2
 
-developed a deep understanding of what works and what doesn’t in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

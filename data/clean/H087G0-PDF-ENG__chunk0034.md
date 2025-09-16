@@ -1,19 +1,15 @@
-# changes unjustly
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53500c099dd99f3de29ca1d49f23d238c9104e50
+title: H087G0-PDF-ENG
+---
+# condition
 
-- Cons: Employer may distrust you for not disclosing earlier
+- Cons: Risks drawing attention away from your strengths and abilities;
 
-After beginning work:
+risks lowering your chances of getting the position
 
-- Pros: Gives you an opportunity to establish your competence before
+After getting an offer or being hired, but before beginning work:
 
-disclosing
-
-- Cons: May cause you anxiety about your ability to perform without
-
-accommodations; potentially harms your health due to working
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Pros: Possibly provides you with legal recourse if the hiring decision

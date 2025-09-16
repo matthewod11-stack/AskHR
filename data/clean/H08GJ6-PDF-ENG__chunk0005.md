@@ -1,27 +1,15 @@
-## purveyors, drug makers, or even venture capitalists, use these types of
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bcfb3dc3868fc1ad2a5981e36cd519b8d91392b
+title: H08GJ6-PDF-ENG
+---
+# respective assessments?
 
-tactics when they need to match innovative ideas with the resources
+This type of quandary is reﬂected in our new research on the selection
 
-at their disposal. Often, the rules around these processes aren’t
+of innovation projects. Simulating a realistic selection environment,
 
-consistently applied, which leads to muddled results — or an executive
+we horserace common decision methods such as voting, scoring,
 
-sweeping in to have the ﬁnal say.
-
-Studying portfolio decision-making eﬀectiveness is diﬃcult. When
-
-company time, resources, and revenue are at stake, few teams can
-
-aﬀord to go back and revisit decisions using new selection methods.
-
-For example, they generally don’t have time to ask: How well would
-
-our project portfolio have done if we had voted instead of scored our
-
-options? Would we have selected diﬀerent projects?
-
-We hope that our ﬁndings can oﬀer some valuable insights to help point
-
-you in the right direction. We have designed a decision-making model
-
-built from what we have learned studying portfolio-selection decision
+and ranking. Many big ﬁrms, be it device manufacturers, software

@@ -1,25 +1,37 @@
-# remains untested.
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de920c2160f1dc200fde2a60db5ca59fc962644b
+title: H07BCM-PDF-ENG
+---
+## of the demands of the job and attention to her young children.
 
-The common denominator in these traps is that they aren’t bad habits
+Introduced to one of our workshops by a friend, she realized that the
 
-in and of themselves — quite the opposite. Executives follow strategies
+real problem wasn’t a lack of time; it was that she didn’t know where
 
-that have worked well for them throughout their lives — self-reliance,
+to start. At the workshop, we encouraged Barbara to more precisely
 
-thinking their way to an answer and throwing themselves into work that
+articulate and then visualize several possible future paths, much as we
 
-demonstrates their loyalty to the status quo. But it also keeps them safe
+had done with Em, and then appraise them analytically, in order to
 
-from the messy, emotional work of exploring new possibilities.
+be able to compare and contrast their attractiveness, suitability and ﬁt.
 
-Only when executives recognize the dissonance between their inner
+Doing this allowed Barbara to test these possible career journeys, and
 
-yearning and the status quo can they address existential questions
+select the path she felt was best suited to her goals and capabilities.
 
-about who they are and what they want from life. Confronting the traps
+Barbara carved out some time to test some of the ideas she had drawn
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+and eventually found her new path as a graphic recorder.
 
-7
+If you tend to procrastinate, ask yourself why you are putting oﬀ
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+important decisions about your life? And, why you are choosing to
+
+prioritize other tasks? The adage “just do it” can help take a ﬁrst step
+
+and act as a reminder that reinvention is an iterative process, so taking
+
+that ﬁrst step no matter how small is better than a perfect idea that

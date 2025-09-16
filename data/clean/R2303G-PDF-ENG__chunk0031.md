@@ -1,19 +1,25 @@
-# equity, and inclusion eﬀorts.
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f59e66af2fd1292d4b5dcfec2f6ca30dfa536de7
+title: R2303G-PDF-ENG
+---
+## HBR / Magazine Article / The Leadership Odyssey
 
-Those experiences helped Karen become the kind of leader that she knew she needed to be. Even so, the transition was diﬃcult: Working
+Many leaders underestimate the extent of change required and need the help of a trusted partner—an adviser, a mentor, or a coach.
 
-under the pressures of her new role, she found herself at times striving
+Luckily, at around that time she took on an external board role
 
-to control even minute aspects of the tasks at hand, an old habit at odds
+that gave her an opportunity for outside-in learning. The board
 
-with a more inclusive style of leadership. In those moments the outside
+meetings demanded that she and her fellow directors navigate complex
 
-work she was doing helped her avoid ingrained patterns and maintain
+multistakeholder situations with competing interests, and to do that
 
-her focus on empowering others.
+work successfully she had to learn how to exert inﬂuence without
 
-Leaders can also transform their style by taking skills that they’ve
+authority—for example, by asking questions and probing for desired
 
-developed within their own teams and subunits or even in their
+outcomes. She was able to sharpen those skills further when, in addition
 
-personal lives and using them more broadly. We call this inside-out
+to her new role in the C-suite, she was asked to lead her ﬁrm’s diversity,

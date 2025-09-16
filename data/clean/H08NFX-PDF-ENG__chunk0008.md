@@ -1,9 +1,7 @@
-## But with Attorney General Pam Bondi’s February 5th memo directing
-
-the Justice Department’s Civil Rights Division “to investigate,
-
-eliminate, and penalize illegal DEI and DEIA preferences, mandates,
-
-policies, programs, and activities in the private sector,” leaders are
-
-understandably and urgently looking for guidance on how to pursue
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f64c5e2930499498431db49dfc592d227ac8518c
+title: H08NFX-PDF-ENG
+---
+# ideas in DEI trainings.

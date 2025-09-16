@@ -1,13 +1,11 @@
-## organization, Management Leadership for Tomorrow (MLT), which
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6916e5d4c39a0dc2d660b44ee3b9e733580c83d
+title: H089KA-PDF-ENG
+---
+# HBR / Digital Article / Breaking Down Barriers to Belonging for Women of Color in Tech
 
-focuses on upward mobility for talent of color and provided her access
+Companies can also provide access to externally facing community
 
-to a network in which she belonged: “I had that core group [where] I
-
-could [say] I need help. And that was the safety cocoon, how to [get
-
-access] into certain things that [I couldn’t] get access to, but because I
-
-had a friend, they [said] just come.” Providing a list of credible external
-
-organizations with a point of contact can be a critical resource for your
+organizations to foster belonging. Monique spoke about a non-proﬁt

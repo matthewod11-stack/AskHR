@@ -1,7 +1,11 @@
-# the environment.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97fa6a15b08576cfdf8b91b7d5139212d38c448a
+title: H07U7Q-PDF-ENG
+---
+## environmental and sustainability commitments.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+That’s something a lot of our customers care about and something we’re
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+able to leverage as Whole Foods and supporting our core value around

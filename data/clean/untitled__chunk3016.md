@@ -1,17 +1,11 @@
-## INTERNATIONAL PSYCHOLOGICAL ORGANIZATIONS
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 383751b6ad9409df269ec43b14c7f0ca86c86a9e
+title: untitled
+---
+# Europe Asia 539
 
-As the possibility of a new science of psychology grew across Europe in the late nineteenth century, the ﬁrst cohort of psy- chologists loosely organized themselves into local societies or participated in the organizational life of other scientiﬁc so- cieties. Improvements in transportation and communication were instrumental in facilitating more formal associations by making travel to distant sites quicker and safer. Beginning in 1889, psychologists began to meet their colleagues from other cities or universities at international congresses of
+538
 
-535
-
-The Near and Middle East 539 South and Central America and the Caribbean 539 Africa Others 540 North America Applied Psychological Organizations Psychological Organizations in the Public Interest Accreditation and Credentialing Organizations Interdisciplinary Organizations
-
-540 540
-
-544
-
-545
-
-548
-
-549
+Among the scientiﬁc societies that proliferated across Europe and North America in the latter half of the nineteenth century were psychological societies and organizations (Appel, 1988; Gundlach, 1997). At the beginning of the twenty-ﬁrst cen- tury, there are well over 1,000 psychological associations, societies, or organizations. In this chapter, we will provide a descriptive history of the development of organized psychol- ogy, beginning with international organizations, then moving to national, regional, and, ﬁnally, specialty organizations. We will not be exhaustive in our description; rather, we will at- tempt to present a representation of the various types of psy- chological societies.

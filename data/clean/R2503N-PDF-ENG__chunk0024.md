@@ -1,23 +1,17 @@
-# contentious TGIF meetings.
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 28848f8522855b111979cdc05fa67b090cbe2584
+title: R2503N-PDF-ENG
+---
+# responsibility.
 
-Research backs up the idea that inaction after employees raise issues
+- 5. Inaction
 
-erodes trust between managers and subordinates. In one study,
+The ﬁnal pitfall is perhaps the most pernicious: receiving the speaker’s
 
-Michaela Kerrissey and colleagues interviewed nurses during the
+message but then not following up on it. Google’s slow response to
 
-Covid-19 pandemic; many reported feeling “unheard, frustrated, and
+employee concerns about sexual harassment in 2018, for instance,
 
-alienated from their managers” because nothing had come of numerous
-
-meetings with them to discuss concerns.
-
-. . .
-
-Listening without subsequent action or explanation leads employees to
-
-believe their eﬀorts—and yours—have been pointless. There is a ﬁx for this: Always close the loop. Before ending a conversation, aﬃrm what
-
-you’ve heard, identify the next steps for action, and agree on a timeline
-
-for checking back in. That emphasizes forward momentum and ensures
+led 20,000 employees to walk out—and contributed to increasingly

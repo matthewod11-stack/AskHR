@@ -1,5 +1,15 @@
-# o t o h P
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 494c1196006a53f584cf66fa65085662181f7597
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Negative
 
-P A / e n u b i r T
+1
 
-d n e B h t u o S / r e s i a K
+2
+
+3
+
+4

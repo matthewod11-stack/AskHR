@@ -1,9 +1,17 @@
-## 74.2.1 Corporate Socialism and Partition Dependence
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 1ad2ae1fcde1fcb12a8a91fb1225ac21947624de
+title: beo_chap7_1
+---
+# 74.2 Capital Budgeting
 
-Scharfstein and Stein (2000) show empirically that capital is allocated relatively
+The last section focused on biases in top managers and whether organizational
 
-evenly across divisions of different sizes. They call this pattern “corporate social-
+structures can constrain them. Biases in capital budgeting which occur below the
 
-ism,” as if equal allocations are a deliberate attempt to subsidize smaller divisions
+CEO’s sphere of influence are also important and might crop up in three ways: a
 
-at the expense of larger ones. Lamont (1997) shows the flip side of such within-
+tendency to divide capital equally among divisions; escalation in commitment to
+
+bad projects; and empire building (and capital suppression).

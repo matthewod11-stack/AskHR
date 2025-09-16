@@ -1,19 +1,25 @@
-# back to me tomorrow.”
+---
+source_path: H0884B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4648cd8f3223365a60adf5250fad3f384864c12
+title: H0884B-PDF-ENG
+---
+# How to Make a Request
 
-Ask them to respond over email.
+Here are three research-backed suggestions for how to elicit a more
 
-Email isn’t a perfect medium, but it does have its advantages. One of the
+voluntary “yes” when making a request:
 
-advantages is that it allows you to write and rewrite a potential refusal as
+Give people time to respond.
 
-many times as you would like until you feel satisﬁed with your response.
+It can be hard for people to come up with the words to say “no”
 
-Whether truly necessary or not, some people feel the need to say very
+when they are put on the spot. The loss for words we experience in
 
-speciﬁc things to make themselves feel comfortable enough to say no.
+the moment can ultimately make agreement feel like the path of least
 
-Email allows for that. An obvious way to allow someone to respond to
+resistance. To ensure that someone isn’t agreeing simply because they didn’t have enough time to come up with the words to say “no,” oﬀer
 
-a request via email is to ask via email. But even if you want to make
+them time to think. You can do this by making your request and then
 
-your case in-person, you can still tell the other person to email you their
+adding, for example, “Don’t answer right now. Think about it and get

@@ -1,5 +1,7 @@
-# Cambridge University Press.
-
-Gardiner, H. M., Metcalf, R. C., & Beebe-Center, J. G. (1937). Feel- ing and emotion: A history of theories. New York: American Book.
-
-Geertz, C. (1973). The interpretation of cultures: Selected essays.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c5931bb9220efe516635cf7baea08b75136df10f
+title: untitled
+---
+## Frijda, N. H. (1986). The emotions. Cambridge, England:

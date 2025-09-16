@@ -1,7 +1,11 @@
-# 304 Abnormal Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 883915f04b6d814746a7f635c56817d6775885ab
+title: untitled
+---
+# PRELIMINARY ISSUES
 
-another. One example is self-ﬂagellation, in which an indi- vidual ﬂogs himself with whips until blood ﬂows from his body. Some cultures regard this as a worthy religious prac- tice; in the downtown section of a modern American city, it would most likely be judged pathological.
+Historians of this ﬁeld face several major problems, includ- ing the deﬁnitions of psychopathology and the availability and authenticity of information about the past. Also, any writ- ten history of psychopathology must consider how culture and class difference affect deﬁnition and treatment of psy- chopathology, as well as the inﬂuences of contemporary external factors in other ﬁelds, principally medicine, science, and law.
 
-We must also note that in many cases, the accidental dis- covery of an effective treatment has spurred the scientiﬁc research necessary to understand why the treatment worked. The treatment led to the theory, not vice-versa. In other cases, a treatment derived by logical inference from a theory may survive many years of unimpressive results. Treatment is also constrained by the resources that the patient or the society can command.The poor are treated differently from the rich, a sit- uation not unknown in any branch of medicine and not a form of discrimination directed uniquely at the mentally ill.
-
-The reports of physicians who became famous enough to achieve recognition are not always reliable sources of infor- mation. Fame and fortune, then as now, awaited the clinician who could claim cures where none had achieved them before. Clinician self-interest in such cases was a sure obstacle to reliable information about the actual successes and failures of novel treatments. We shall see this phenomenon recur time and time again, from Paracelsus to Mesmer and from psy- choanalysis to prefrontal lobotomy. Such a history makes for interesting reading, but it makes difﬁculties for the historian. Finally, one of the greatest problems facing the historian is the fact that only exceptional events tend to be recorded while the mass of ordinary events does not, thereby leaving a misleading record of what actually happened most of the time to most of the people. From such a process has arisen a pop- ular history of psychopathology, leaving the serious historian to clarify what did not happen as well as to recount what did.
+Broadly speaking, practical deﬁnitions of psychopathol- ogy include behavior that (a) appears injurious to the interests of the person concerned and/or to others, (b) lacks a rational relationship to the realities of the environment in which it occurs, and (c) has behavioral characteristics that deviate sig- niﬁcantly from the norm of the culture. What may appear pathologically deviant in one culture may appear desirable in

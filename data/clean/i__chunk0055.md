@@ -1,27 +1,15 @@
-# potential implications for future actions within an organizational context. This process
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: c85c5f9ee2aa56a4edf1e1c2498680123cb2e3de
+title: i
+---
+# insights in the context of organizational decision-making and problem-solving.= Fit-enz and
 
-encompasses various practices, ranging from basic monitoring of facts and indicators to the
+Matox (2014) describe analytics as a <merging of art and science= when combining the
 
-utilization of advanced analytical methods. What ties these various practices together is their
+statistical method, logical sense of the data, and mental framework of the context to understand
 
-shared reliance on factual data and a "rational" foundation.
+the status and get actionable recommendations and some predictions of the future.
 
-Data analytics (DA) and its mining technique are methods to identify and discover new
-
-knowledge (Frawley, PiatetskyShapiro, and Matheus,1991). Davenport and Harris writes: <the
-
-extensive use of data, statistical and quantitative analysis, explanatory and predictive models,
-
-and fact-based management to drive decisions and actions=. Stubbs (2011) defines DA as <a
-
-process that involves the use of statistical techniques (measures of central tendency, graphs and
-
-so on), information system software (data mining, sorting routines) and operations research
-
-methodologies (linear programming) to explore, visualize, discover and communicate patterns
-
-8
-
-or trends in data=. Data analysis is a process of extracting knowledge, and insights ( Gandomi
-
-&Haide, 2014)
+Analytics is also described as a process based in factual information to yield insights and

@@ -1,25 +1,19 @@
-## businesses and help multinationals ﬁnd allies in local government.
+---
+source_path: H08T0G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ca81638b8479de0ed488d01945a6b2cf3c5b881
+title: H08T0G-PDF-ENG
+---
+# manufacturing lines, and so on.
 
-- 6. Don’t let the tail wag the dog.
+- 5. Tell your story. Widely.
 
-A core business is a core business, and most of the time industrial policy
+Take an ecosystem view of your company, its impact, and its inﬂuence,
 
-works on the margins. It doesn’t make sense to pour discretionary
+and share that with people who can inﬂuence policy. How many
 
-funds into a non-core activity just to get government help that might
+legislators understand that the future of the auto industry is in software
 
-be transitory and almost certainly will come with strings attached.
+more than it is in steel? State, provincial, and metropolitan business-
 
-. . .
-
-The responsibility of leaders is to take advantage of the patterns they
-
-see, correct mistakes fast, look for opportunities, and ensure that their
-
-teams have the ability and resources to manage short-term issues. When
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+development organizations can amplify the voice of middle market

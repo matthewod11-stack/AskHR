@@ -1,3 +1,9 @@
-# 354 NAME INDEX
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 8e01eea50f537f9bb826ae2812fe087ed1ef9ffa
+title: barrickryan_eds_personality_and_work
+---
+# P
 
-Plomin, R., 191 Ployhart, R. E., 234, 296, 297, 313, 314 Plutchik, R., 303, 310 Podolny, J. M., 213 Podsakoff, P. M., 90, 103 Pooyan, A., 169 Pope, M. K., 173 Popielarz, P. A., 216, 221 Porac, J. F., 127 Portello, J. Y., 128, 129 Porter, C. O., 172 Posner, B. Z., 264 Potter, E. H., 41 Poulton, J. L., 173 Powell, A. B., 311 Price, J. L., 169 Prince, L. M., 141 Przybeck, T. R., 17, 158 Pugh, D. S., 70 Pugh, S. D., 140 Pulakos, E. D., 91, 93, 290, 291
+Paine, J. B., 90 Park, S.B.G., 136 Parkes, K. R., 170 Parkinson, B., 141 Parkinson, D. K., 169 Parks, J. M., 89 Parsons, C. K., 264, 265, 281 Pascal, S., 7 Patton, G. K., 31, 279 Paulhus, D. L., 8 Paunonen, S. V., 15, 19, 86, 312 Pavot, W., 136 Payne, S. C., 247 Peabody, D., 14, 16 Penner, L. A., 90, 96, 103, 298 Perrewe, P. L., 127, 169, 265 Perugini, M., 10 Pervin, L. A., 125, 131, 274 Peters, L. H., 61, 69, 169 Peterson, R. S., 186 Philips, J. L., 183 Phillips, J. M., 108, 278 Pierce, G. R., 141 Pintrich, P. R., 243, 252 Piotrowski, M., 64, 98, 186 Plamondon, K. E., 91

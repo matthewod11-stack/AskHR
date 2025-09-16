@@ -1,13 +1,9 @@
-# 3.7 Planning & Goal Setting:
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 81888f9db255accdd35766b8faf8c58232c5c7e1
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# Senior Executive Officer or more before introduction to Moderation Committee. Exemptions
 
-Goal setting is an activity which is expected to ensure that every representatives working in
-
-show to achieve association's key requirements and knows his/her employment adds to bank's
-
-overall accomplishment. Objective setting sets key course for the year and ensures course of
-
-action of individual delegate tries with business procedure gives a structure/cycle to achieve
-
-arranged work results and empowers assessment of performance against targets during year
-
-and review measure. It similarly offers commitment to year and review makes a method of
+might be affirmed by the Divisional Head constantly of HR.

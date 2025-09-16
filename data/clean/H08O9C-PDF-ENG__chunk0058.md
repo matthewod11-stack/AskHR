@@ -1,11 +1,19 @@
-# my reputation?
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c176a4943bdaf0c1d5a302ed5f705408ac74c3b3
+title: H08O9C-PDF-ENG
+---
+# autonomy?
 
-- I’m struggling to manage my workload because my manager keeps
+- A coworker keeps taking credit for my ideas in meetings. How can I
 
-piling on more tasks. Can you suggest a polite but eﬀective way to ask
+address this without coming across as confrontational?
 
-for prioritization or push back?
+- I have a colleague who frequently interrupts me and dismisses my
 
-- I just found out that a colleague with the same role and experience
+input. Can you help me craft a diplomatic but ﬁrm way to address this?
 
-as me is making more money. How should I bring this up with my
+- My boss and team expect me to respond to emails late at night and on
+
+weekends. How can I professionally set boundaries without damaging

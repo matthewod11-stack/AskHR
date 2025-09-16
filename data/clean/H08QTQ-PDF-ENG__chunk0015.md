@@ -1,11 +1,27 @@
-## Black, Latinx, Indigenous, and Paciﬁc Islander engineers. In other
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b71cb920f6957e8ab0b88bf3199a7b7be2a54608
+title: H08QTQ-PDF-ENG
+---
+# related factors.
 
-words, the same stretch assignments that can launch some careers may
+Our ﬁndings surface a critical but underexamined pattern: The impact
 
-do little—or even stall progress—for others.
+of stretch assignments lies not only in when they begin to shape careers
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+(often, early on), but also in how they shape those careers—and that
 
-4
+impact is not uniform.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Speciﬁcally, we found that early-career stretch assignments—especially
+
+those involving new and unfamiliar areas of work—were more strongly
+
+linked to expected rewards for dominant groups in engineering: men
+
+and engineers from White and Asian backgrounds. By contrast, the
+
+same types of assignments were not linked to the same expected
+
+rewards for similarly qualiﬁed and positioned women engineers or

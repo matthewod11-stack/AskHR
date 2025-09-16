@@ -1,31 +1,25 @@
-## “Ovidius” University Annals, Economic Sciences Series Volume XXI, Issue 1 /2021
+---
+source_path: overview_of_change_in_organizations_resistance_to_change.md
+pages: n/a-n/a
+chunk_id: b2b1be7f9b2fe52e62069475cf2fe93e2dc41b75
+title: overview_of_change_in_organizations_resistance_to_change
+---
+## Source: (Anderson & Ackerman Anderson, 2010, p. 32)
 
-- To briefly describe the forces that generate change, types of change, resistance to change, techniques for reducing resistance to change and change readiness.
+- 3. Research methodology
 
-We mention the fact that this study is a starting point for conducting a quantitative research that
+Management research deals fundamentally with the creation and legitimation of various forms of knowledge associated with management practices. Traditional approaches to management research involve a varied combination of key processes, observation, reflection, theoretical conjunctures and testing of theories and hypotheses, creation and development of models to acquire the essence of management realities (Partington, 2002).
 
-aims to study organizational change in IT companies in Romania.
+The present study is based on qualitative research methods, which is a form of social action that emphasizes the way people interpret and give meaning to their experiences in order to understand the social reality of individuals and organizations. Qualitative research uses interviews, journals, articles and observations to obtain, analyze, and interpret the data content analysis of visual and textual materials (Mohajan, 2018). Qualitative research is exploratory and seeks to explain “how” and “why” a certain phenomenon works as it happens in a certain context (Mohajan, 2018).
 
-- 4. Findings. Resistance to Change
+The roots of qualitative research are found in social and cultural anthropology, philosophy, psychology, history and sociology. The purpose of qualitative research is to systematically describe and interpret problems or phenomena from the point of view of the individual or population studied and to generate new concepts and theories (Mohajan, 2018).
 
-Resistance is a phenomenon that affects the process of change, delaying or slowing down its commencement, hindering or preventing its implementation and increasing the implementation costs. Resistance to change is “a tridimensional negative attitude towards change which includes affective and behavioural components and must be overcome or removed” (Sundus et al, 2017, p.17).
+In this respect, the present study analyzes the concepts of change in organizations and resistance to change. Thus, we tried to highlight the aspects of organizational change, the forces that generate change, types of change, change management, resistance to change, techniques for reducing resistance to change and change readiness.
 
-Resistance to change is a topic of frequent concern in the literature. The process of change is “delayed because of such resistance, which is perceived as a collateral damage of change efforts”. Resistance may take many forms, such as “deliberate tardiness, resignation, strikes, sabotage of the organization’s property, etc.” (Sundus et al, 2017, p.17; Amarantou et al, 2018; Ford et al, 2008).
+Therefore, the present study has the following specific objectives:
 
-Srivastava & Agrawal (2020) consider that the human dimension is the most important element in the successful implementation of change, being manifested in the employees’ feedback concerning change. Change in organizations has been explained in the literature as a transition from the known to the unknown, which is generally not supported by employees unless there are significant reasons for change that have been duly communicated to them. Therefore, employees often show resistance to change in their tendency to preserve the status quo, whereas the change process focuses on the modification of the status quo.
+- To provide a theoretical foundation, based on the study of the literature, of the concepts of change in organizations, change management, resistance to change and change readiness.
 
-The reasons why employees usually show resistance to change are the fear of the unknown, the misunderstanding of the need for change and of its repercussions, and a low tolerance towards change. According to Dent & Goldberg (1999), people do not actually resist the concept of change but rather the loss of their status, benefits or comfort.
+- To provide sufficient information to understand change in organizations and resistance to change.
 
-Collinson 1994 (Srivastava & Agrawal, 2020) defined resistance as a behaviour in employees that
-
-challenges, disrupts or inverts prevailing assumptions, discourses and power relations.
-
-Robbins et al (2018) state that the main reasons for resistance to change in organizations are uncertainty, habituation, concerns about personal loss and the belief that change is not in the interests of the organization. Change replaces the known with uncertainty. Another cause of resistance is that individuals tend to do things out of habit, and when confronted with change, their general tendency to respond in the usual manner becomes a source of resistance. Change threatens the individuals’ investment in their status quo. The more people have invested in the current system, the higher their resistance to change (Ford et al, 2008).
-
-According to organizational researchers, the success of change initiatives can be determined by the individual’s feedback to change. The functioning of an organization is determined by the functioning of all its members. Thus, it can change only when its members’ behaviour changes. “It is impossible for an organization to change significantly unless its employees believe, think and behave differently” (Sundus et al, 2017, p.17).
-
-Gardner, Pierce and Dunham 1989 (Sundus et al, 2017, p.18) have suggested three types of individual response to change: “affective, cognitive and behavioural. The affective response refers to the individual’s reaction to change, whether it is satisfaction or anxiety. The cognitive response consists of opinions on utility, necessity and the knowledge required to cope with change. Instrumental behavioural responses refer to the actions that have already been carried out or are to be carried out in order to cope with change” (Rahe & Morales, 2005; Ford et al, 2008).
-
-Employees’ resistance to change must be managed by means of support and involvement from their managers. Employee involvement and empowerment are frequently mentioned in the literature as being helpful in reducing resistance to change. Kotter and Schlesinger 2008 (Sundus et al, 2017, p.18) presented a better perspective to encourage and support employees in coping with change, by stating that “the context and content of change per se vary significantly among organizations and should determine the adequate response”. They emphasized several approaches, from education to constraint, describing who should use them and when in order to reduce resistance, and detailing the pros and cons (Amarantou et al, 2018).
-
-616
+615

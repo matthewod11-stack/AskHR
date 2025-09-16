@@ -1,9 +1,17 @@
-## and their household members a dozen counseling sessions per issue
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50ee7424bcac072386b9c1c5389e2139ec8220c5
+title: R2504F-PDF-ENG
+---
+## to senior-care specialists who can research care options and issues on
 
-(for example, relationships, grief or loss, anxiety, and caregiving) per
+employees’ behalf; care managers who visit caregivers and recipients,
 
-year. To help employees ﬁnd information and share experiences, it
+at home or in-facility, to assess their needs; backup eldercare for up
 
-hosts a global forum called the Parent and Caregiver Network. “Adult
+to 50 days a year, with a modest employee co-pay; and legal services
 
-caregiving requires thoughtful planning and ﬁnesse,” we were told by
+related to eldercare. For caregivers’ emotional wellness, the company
+
+has created an employee assistance program, which oﬀers workers

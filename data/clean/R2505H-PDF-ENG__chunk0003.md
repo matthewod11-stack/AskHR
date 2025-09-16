@@ -1,7 +1,21 @@
-# successful entrepreneur’s legacy.
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e863545c03b9fd02ff428a33541a0ad46ab7c75
+title: R2505H-PDF-ENG
+---
+# Nash Weerasekera
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Succession planning has been called “the last act of a great CEO.” That
 
-1
+act is inﬁnitely more complex if the CEO is also the owner and founder
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of the company. When that’s the case, the decision about who will
+
+own the business next is a profound one. It will reverberate for years,
+
+aﬀecting not only the founder and the founder’s family but also all the
+
+people whose lives are touched by the company, including employees,
+
+customers, and the community. The choice can cement—or undo—a

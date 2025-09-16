@@ -1,7 +1,7 @@
-# Penalties/Sanctions
-
-Every establishment covered by the Act is subject to inspection by OSHA compliance safety and health
-
-oﬃcers (CSHOs). These occupational safety and health professionals possess the knowledge and experience
-
-required to conduct workplace inspections; they have been thoroughly trained in recognizing safety and health
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: b6faeeeac93b1e9c3a2f3f8dbd452e120579e614
+title: Employment Law Guide - Occupational Safety and Health
+---
+# Report online on OSHA's website.

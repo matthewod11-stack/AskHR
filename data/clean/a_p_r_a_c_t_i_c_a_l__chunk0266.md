@@ -1,19 +1,7 @@
-# print
-
-("Hello message passed"(cid:28)
-
-A practical guide to building agents
-
-30
-
-5(cid:3)
-
-5(cid:5)
-
-5(cid:6)
-
-5(cid:4)
-
-5(cid:1)
-
-5(cid:0)
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 4e632ad01a73559aa822ac5323fd7b7db2420345
+title: a_p_r_a_c_t_i_c_a_l
+---
+## Runner.run(customer_support_agent, "Hello!"(cid:28)

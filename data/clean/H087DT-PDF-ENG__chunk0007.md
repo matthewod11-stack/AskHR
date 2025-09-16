@@ -1,11 +1,17 @@
-## rhythms or your mental health challenges.
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e303ad17b935cdf4cfea05d9029aceef1a2da9ca
+title: H087DT-PDF-ENG
+---
+## HBR Staff; Westend61/Getty Images; Unsplash
 
-Structuring your workday well can help with a wide range of difﬁculties,
+When you’re struggling with your mental health, getting through your
 
-from depression and anxiety to ADHD and bipolar disorder. But there’s
+workday can feel a lot harder than usual. If your workload is making
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+your anxiety, depression, or other mental health difﬁculties worse, it’s
 
-1
+not always the quantity or type of work that’s the culprit. Sometimes
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+it’s that your workday isn’t structured in a way that suits your natural

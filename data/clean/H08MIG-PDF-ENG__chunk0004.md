@@ -1,15 +1,19 @@
-# HBR / Digital Article / Research: When Is Leniency the Right Response to Employee M…
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08fd2dde4cf7c9b67895240f760103f36f481216
+title: H08MIG-PDF-ENG
+---
+## breaches moral standards, such as cheating and discriminating against
 
-state that the employee should be suspended or even ﬁred. Standard
+others, or technical performance standards, such as violating safety
 
-punitive procedures uphold rules, signal how employees should behave
+protocols or coming in late. Often, organizations have protocols that
 
-(and how they should not behave), and deter bad behavior.
+managers are supposed to follow in these cases; company policy might
 
-Still, eﬀectively doling out punishment can be challenging and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-emotionally fraught. So, instead of enforcing rules about punishment,
+1
 
-managers sometimes choose instead to be lenient, lightening the
-
-punishment or letting the misconduct slide altogether, particularly for
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,23 +1,31 @@
-## member. Younger employees, who increasingly own pets but delay
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 788963c69e33985a5f209180cb1cc784d1a879ce
+title: H07UT7-PDF-ENG
+---
+# Start off small and pilot.
 
-having children, may lobby to expand beneﬁts (e.g., negotiating a group rate for pet insurance). All may oﬀer organizations a competitive edge
+Limit pets to certain days of the week, or select spaces to respect the
 
-but come at a cost.
+needs of those with concerns, to ease the transition to the oﬃce. Be
 
-. . .
+ﬂexible and open to feedback from all involved. For managers with
 
-A diverse and increasing number of workplaces are considering
+limited bandwidth, employee resource groups dedicated to pets (e.g.,
 
-welcoming companion animals. The majority of employees, whether
+the Doogler Group at Google, or even participants in a pets Slack channel), can be a great ally in this eﬀort.
 
-pet owners or not, are on board and seem to beneﬁt from enhanced
+Anticipate that other requests may come up.
 
-workplace culture and quality of life. A minority, however, have
+Our emphasis has been on bringing pets into the oﬃce. Managers
 
-reasonable concerns. So, consider all the documented beneﬁts and
+should be aware, however, that this may open the door to other
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+pet-friendly considerations. Pet owners may lobby for hybrid work
 
-6
+arrangements and non-oﬃce days with pets that cannot come to the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+oﬃce (something researchers already endorse for deep thought and
+
+non-collaborative projects). Those with an injured, lost, or aging pet may request time oﬀ to care or grieve for their four-legged family

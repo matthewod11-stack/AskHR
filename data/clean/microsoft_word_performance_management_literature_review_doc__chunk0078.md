@@ -1,7 +1,9 @@
-# Incomes Data Services (2008), Competency Frameworks, IDS HR Study 865, IDS, London
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: d8f4fa5396f2921030865d7aad00e73e62d35a29
+title: microsoft_word_performance_management_literature_review_doc
+---
+## Mercer M (2011), Performance management and equality, IES, (unpublished)
 
-Incomes Data Services (January 2009), Performance Management, IDS HR Study, 886, IDS, London
-
-Industrial Relations Services (2003), ‘Annual appraisals are the norm, despite doubts about line managers’, IRS Employment Review, 768, IRS, London
-
-Karuhanga B N (2010), Challenges of performance management in universities in Uganda, International Research Symposium in Service Management, Le Meridien Hotel, Mauritius, 24-27 August 2010
+Igvarson L, Chadbourne R (1997), ‘Will appraisal cycles and performance management lead to improvements in teaching?’ Unicorn, Vol. 33 (1), pp. 44-64

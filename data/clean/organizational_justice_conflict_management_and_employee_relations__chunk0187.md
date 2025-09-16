@@ -1,15 +1,11 @@
-# ER
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: 76350a7e44ff7c4ed65493a1d927a6183230bf14
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# consistent and predictable fashion
 
-14
+13
 
-15
-
-16
-
-I am happy with this organization I am pleased with the relationship organization has maintained with me I am working in an environment where people are reliable and trust worthy
-
-17
-
-I am satisfied with the organization for my socio-economic and psychological development
-
-18 My employer is loyal and
+My employer is open and reliable

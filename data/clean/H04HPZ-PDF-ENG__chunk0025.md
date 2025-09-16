@@ -1,5 +1,21 @@
-## an anti-harassment policy and complaint procedure in place.
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57bc76b6776d06a5ff9eb72965413f394f19769d
+title: H04HPZ-PDF-ENG
+---
+# HBR / Digital Article / How HR and Judges Made It Almost Impossible for Victims of Se…
 
-In 1998, the Supreme Court — citing the 1980 EEOC guidelines —
+In fact, this was not accepted law at the time. But it did foreshadow
 
-explicitly addressed the issue of anti-harassment policies and complaint
+later legal developments, beginning in 1986. That’s when the U.S.
+
+Supreme Court formally recognized sexual harassment as a form of
+
+sex discrimination in Meritor v. Vinson. Although the court found the employer’s anti-harassment policy and complaint procedure ineﬀective
+
+in that case, it did hint that an effective procedure might protect the
+
+employer from liability. The Meritor decision, in turn, led to a sharp
+
+increase in employers arguing that they should not be liable if they had

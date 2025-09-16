@@ -1,5 +1,11 @@
-# York: General Learning Press.
+---
+source_path: introduction_to_special_topic_forum.md
+pages: n/a-n/a
+chunk_id: 409a75e2d27b781fa5df13683c8ccb9e2300b990
+title: introduction_to_special_topic_forum
+---
+# Van Nostrand.
 
-Skinner, B. F. 1953. Science and human behavior. New York:
+McClelland, D. C. 1971. Assessing human motivation. New
 
-McDougall, W. 1908. An introduction to social psychology.
+Ryan, R. M., & Deci, E. L. 2000. Self-determination theory and the facilitation of intrinsic motivation, social develop- ment, and well-being. American Psychologist, 55: 68–78.

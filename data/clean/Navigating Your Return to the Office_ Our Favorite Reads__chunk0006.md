@@ -1,5 +1,9 @@
-# the number one
+---
+source_path: Navigating Your Return to the Office_ Our Favorite Reads.md
+pages: n/a-n/a
+chunk_id: 1f77ec9fbe44d77a4b820e4766a9348469b6c8e3
+title: Navigating Your Return to the Office_ Our Favorite Reads
+---
+# mixed
 
-reason people prefer hybrid work is because it allows them toavoid commuting. Employees want a more flexible workplace thatvalues their well-being. But we also know that working from homehasn’t necessarily improved our mental health. Research suggeststhat our job satisfaction and general mental health havecontinued to
-
-deteriorate in the remote workplace. This burnoutcan be a result of us missing human connection.So, how do we make sense of all this?The truth is that the purpose of “the office” is changing. It’s
+feelings. On the one hand, I longed to see my colleagues and makenew friends. On the other, the anxiety of returning to my formerroutine — wasting hour after hour on the train — gnawed at me.Now, after a year of working hybrid, I’ve gained a little moreperspective.A survey conducted earlier this year shows that

@@ -1,19 +1,19 @@
-# questions:
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b006e436c55569629b1a044fa0289c328daf244
+title: H07XAQ-PDF-ENG
+---
+# Use impact as your guide.
 
-- 1. What is the evidence that this content has impact? Do we know it
+Armed with one simple rule and a small set of critical questions, you can change the perception of your oﬀerings from overwhelming and
 
-actually does something? Is there research or data to back it up? Who
+irrelevant to carefully curated, relevant, and personal.
 
-are the experts this comes from, and are they credible?
+Let this rule be your guide: Anything we include in our learning
 
-- 2. Does this directly address the problem? If we don’t include this
+program is aimed at achieving the one impact we want to have. Not
 
-content/resource, is it likely that the impact won’t be achieved?
+- 10. Not ﬁve. Not three. A laser focus on the one impact.
 
-- 3. Is this what our employees want? Does it feel responsive to their
-
-need? Do they want conversation guides, team experiences, a skill-
-
-building workshop, or a short video with tips? Delivering guidance in
-
-the way your people want it is as important as getting the content
+Then continually ﬁlter all content and design decisions through these

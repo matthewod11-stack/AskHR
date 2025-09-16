@@ -1,13 +1,21 @@
-## health-conscious consumers, organic food bloggers, and sustainability
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1ecc54da82367e6d046f814db80afb102947cc6
+title: R2505L-PDF-ENG
+---
+# inadvertently amplify disinformation.
 
-advocates. Understanding who is shaping the conversation allows the
+After ascertaining that the crisis has reached the threshold, the team
 
-crisis management team to better decide how to enter the conversation
+analyzes the data to identify the key groups that are spreading the fake
 
-and establish social proof in a tailored way.
+news. Social media is rife with self-proclaimed experts, bloggers, and
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+celebrities, so companies have to invest resources in advance of a crisis
 
-9
+to understand who the inﬂuencers are on topics relevant to them. In
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Vero’s case, the origin of the video is traced to an anonymous activist
+
+account, and the communities engaging most with the content are

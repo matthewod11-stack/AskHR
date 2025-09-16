@@ -1,11 +1,9 @@
-# between 2019 and 2022.
+---
+source_path: H07XS0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19156bef91263c2a9c67313e03b16217145c039f
+title: H07XS0-PDF-ENG
+---
+## Federation (ICF) 2023 Global Coaching Study, the estimated number of
 
-While we appreciate that those who are asking us how to become a
-
-coach likely value the profession, recognize that coaching is a powerful
-
-way to support others, see the ﬂexibility and autonomy that having
-
-a coaching practice can oﬀer, and perhaps have even beneﬁtted from
-
-being coached themselves, we also acknowledge that we must tell them
+coach practitioners is more than 109,000 globally, having increased 54%

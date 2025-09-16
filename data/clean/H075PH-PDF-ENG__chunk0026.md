@@ -1,7 +1,21 @@
-# disputants together.
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: efd7f9f35e28445a517e78fcdc95e09ea9ca1f39
+title: H075PH-PDF-ENG
+---
+# The Fixer
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Another critical task is to identify any major constraints on the
 
-5
+mediation. Here the ﬁxer makes an assessment with the goal of pushing
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+restrictive situations toward new possibilities. Are there external
+
+constraints like bad timing (a pressing deadline makes it impossible
+
+to think), lack of privacy, restrictive HR procedures, or others that are
+
+keeping the parties from working things out? If so, look at what you can
+
+do to lessen those constraints; ideally you do this before bringing the

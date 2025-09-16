@@ -1,11 +1,9 @@
-## The American Economic Review 69(4): 623-638.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 17c9dbfd9fdc163d5c19aab90363b5143567d5e4
+title: behavioral_economics_1
+---
+## American Economic Review 91(5): 1402-1422.
 
-Grubb, M. (2005). Screening Overconfident Consumers, Stanford University.
-
-Gul, F. (1991). "A Theory of Disappointment Aversion." Econometrica 59(3): 667-686.
-
-Gul, F. and W. Pesendorfer (2001). "Temptation and Self-Control." Econometrica 69(6): 1403-1435.
-
-Gul, F. and W. Pesendorfer (2005). The Case for Mindless Economics, Princeton University.
-
-Haltiwanger, J. and M. Waldman (1989). "Limited Rationality and Strategic Complements: The Implications
+Grether, D. M. and C. R. Plott (1979). "Economic Theory of Choice and the Preference Reversal Phenomenon."

@@ -1,11 +1,41 @@
-# Manage Business Continuity
+---
+source_path: H08EAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb7d7cc17db13136515077a3bf5b54523d5b6dfa
+title: H08EAJ-PDF-ENG
+---
+# its members.
 
-While supporting the team is critically important, managers have the
+Listen actively. To support your team members, our research indicates
 
-added responsibility of making sure that any needed work gets done. To walk this diﬃcult line:
+that it’s essential to oﬀer speciﬁc times and spaces for them team
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+to express their feelings and process the situation. Facilitated group
 
-6
+discussions, counseling sessions, or informal gatherings can make a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+signiﬁcant diﬀerence. You can look to HR or your employee assistance
+
+program for resources and guidance on how to do this.
+
+One manager recalled how he held weekly group discussions where
+
+everyone could share their feelings. These sessions provided a
+
+structured yet empathetic environment for employees to voice their
+
+concerns and support each other. Our ﬁndings also showed that the
+
+need for emotional support evolves as the illness progresses, and
+
+managers should remain ﬂexible, adapting the format and frequency
+
+of these discussions based on team needs and feedback.
+
+During these discussions, signal active listening by nodding along, maintaining eye contact, and oﬀering aﬃrmations like “I understand”
+
+or “I hear you.” By being fully present, managers can reinforce
+
+a compassionate and cohesive team dynamic even in the most
+
+challenging situation.

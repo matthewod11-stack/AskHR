@@ -1,17 +1,7 @@
-# http://www.fons.org/library/journal.aspx
-
-Attribute 2: The ten values are realised and experienced in practice, there is a shared vision and mission with individual and collective responsibility ‘Espousing values’ is different to ‘living them’. A strong culture, where people practice what they preach, is characterised by a shared and common vision and mission (Bevington et al., 2004a; Bernick, 2001) with consistency between the espoused and the lived values (Manley, 2001; Ingersoll et al., 2000; Owen et al., 2001). All the values above are therefore realised in practice (Raiger, 2005) and experienced by patients, users and staff (Scalzi et al., 2006; Manley, 2001). A sense of mission and vision is reflected in everyday work (Stordeur et al., 2000) with self-directing (Manley, 2001), motivated, collaborative staff (Coats, 2006), who are autonomous (Stordeur et al., 2000; Welford, 2002) but take personal and shared responsibility and accountability (Clark, 2002) for achieving shared goals (Northcott, 1999). Everyone knows what is important (Jones and Redman, 2000; Manley, 2001), so values guide decision-making (Manley, 2000b; 2001) and provide the basis for challenging inconsistencies between what is professed and what is practiced/experienced (Manley, 2000a; 2001).
-
-Attribute 3: Adaptability, innovation and creativity maintain workplace effectiveness Extensive business studies have recognised that strong cultures alone do not ensure effectiveness (Anthony, 1994; Kotter and Heskett, 2002). Adaptability is maintained when there is a positive attitude to change with continuous development and flexibility (Manley, 2001; Binnie, 2000; Welford, 2002; Gough, 2001; McMahon et al., 2000). This very notion encourages staff and stakeholders to use creativity (Shimko et al., 2000; Thyer, 2003; Coats, 2006); on-going innovation (Scalzi, 2006; Shimko et al., 2000); innovative problem-solving (Stordeur et al., 2000) and critical thinking (Davies et al., 2000; Newman et al., 2000). Experimentation with new ways (Welford, 2002; Service, 2004) and risk taking is encouraged and rewarded (Davies et al., 2000). The role and use of critical creativity in developing cultures where all can flourish has developed its theoretical and practical relevance over recent years (McCormack and Titchen, 2006; 2007; Titchen and McCormack, 2010). Technical innovation has become a key policy driver for achieving more effective and productive use of resources (Department of Health, 2010). Fostering creativity offers a way forward in generating innovations that also include ways of working (Coats, 2006).
-
-Attribute 4: Appropriate change is driven by the needs of patients/communities Whilst being adaptable, innovative and creative, a culture of ‘change for change sake’ is not experienced. Change is purposeful, enables flexibility and continuous adaptation (Owen et al., 2001); is driven by the needs of patients and communities (Manley, 2001; Gough, 2001) and the implementation of effective and evidence-based interventions as well as their systematic evaluation (Manley, 2001; Garbett and McCormack, 2002).
-
-Attribute 5: Formal systems exist to continuously enable and evaluate learning, performance and shared governance In an effective workplace culture formal systems and systems thinking exist for enabling values to be realised (Chan, 2001). Formal systems and systems thinking comprise specific structures, processes and patterns of behaviour (Capra, 2002) that enable the implementation of values so that they become a reality in the workplace (Bevington et al., 2004a).
-
-Formal systems are therefore required to:
-
-- 
-
-Evaluate the achievement of person-centred, safe and effective care which is now also a key professional focus in healthcare (McCormack and McCance, 2010; RCN, 2011) Implement all learning in and from practice to enable ongoing practice transformation Implement shared governance to enable stakeholder participation in decision-making (Clark, 2002; Thyer, 2003; Doherty and Hope, 2000; Burnhope and Edmonstone, 2003; Waldman et al., 2003; Bamford-Wade and Moss, 2010)
-
-13
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 6abffb3ea7f881e7add74f50329b553e459741bc
+title: chapter_nine
+---
+## © FoNS 2011 International Practice Development Journal 1 (2) [1]

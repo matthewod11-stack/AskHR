@@ -1,7 +1,29 @@
-# the turbulence.
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a784d158370ff5c71c2f4aa0a10e2409aebb8424
+title: H08NX0-PDF-ENG
+---
+# eﬃciency, and proﬁtability.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Through our work coaching executives across industries, we’ve
 
-2
+observed that successful leadership today demands more than just
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+crisis-management skills—it must embrace change as a constant and
+
+transform disruption into growth opportunities. In this environment
+
+of increasing uncertainty and complexity, leaders must develop ﬁve
+
+essential skills that together create a new leadership approach capable
+
+of transforming disruption into fuel for innovation and growth.
+
+- 1. Proactively engage with uncertainty.
+
+The pandemic sparked a fundamental shift in how successful leaders
+
+approach uncertainty. While some organizations focused solely on
+
+weathering the crisis, others began identifying future possibilities amid

@@ -1,11 +1,31 @@
-# the brain to process.
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e5ec040ca078c85bec5590939884af3f2af6b89
+title: R2504J-PDF-ENG
+---
+# ﬁrst-ever bank accounts.
 
-Most of the 170 presentations (out of our sample of 654) that included
+- 5. Organize your framework horizontally. Finally, we discovered that
 
-strategy visualizations did conform to some of our recommendations.
+the executives found it signiﬁcantly easier to gain insight into a
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+ﬁrm’s strategy if its framework was presented in a predominantly
 
-13
+horizontal fashion. This eﬀect was strong, and it probably reﬂects the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+context humans evolved in again: Landscapes are horizontal. So it’s not
+
+surprising that our horizontal peripheral vision is 180 degrees, whereas
+
+our vertical peripheral vision is only about 135 degrees.
+
+Indeed, research on visual cortex sensitivity pioneered by David Hubel
+
+and Torsten N. Wiesel, who received the 1981 Nobel Prize in Physiology
+
+or Medicine (shared with Roger Sperry) for this work, revealed that the
+
+neurons in our visual cortex are more attuned to horizontal orientations
+
+than to other orientations. Horizontal layouts, therefore, are easier for

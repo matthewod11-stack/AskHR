@@ -1,13 +1,37 @@
-## families, wives, husbands and children, a symbol
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 495153d81a04a19f39ef050a065376844350f15b
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# DA MA11
 
-ofOrganization X, and we kept going and continue to hold. So we try to respect
+According to Organization X’s General Director, communication was a key
 
-the elements, company logos, things really valued by the company and try to
+aspect to endorse a good change process, by means of maintaining identity symbols
 
-introduce some more. …I think this is the most important, I think we have to
+and promoting dialogic opportunities:
 
-communicate, has to explain why we're going in one direction and all have to
+“We're investing a lot in communication. I think in a process of Change
 
-believe we are headed in the right direction. And at least give the space to
+Management may not have anything more important to calm people down than
 
-people talk, “look, I do not believe, or, I want to give a suggestion”.(Organization
+good communication. You do not communicate it's a way to communicate. You
+
+do not say anything, you're saying something to the employee. So if you do not
+
+say anything, he already knows, somehow you're telling him what he wants to
+
+know. So we try and we have to be nearby. And better than to hear in the
+
+hallways or musing assumptions, we have to showclearly and talk about what is
+
+happening. …. We kept some symbols of the company, some things that were
+
+highly valued by the company … And people actually lived this, how cool is
+
+Organization X. And we kept it, as well as the famous June Festival of the
+
+company,
+
+ranging

@@ -1,5 +1,7 @@
-## I.(cid:32) Working Hours And Weekly Holidays
-
-The total working hours in a week of the company will be 44 hours (including lunch & prayer
-
-time). Working hours for employees of the company shall be as follows:
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 3d7be3f73ccf97027cc36580c0df3fd1841fd6aa
+title: internship_report
+---
+# G.(cid:32)Working Hours & Holiday:

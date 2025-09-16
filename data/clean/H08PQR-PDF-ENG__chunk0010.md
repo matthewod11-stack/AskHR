@@ -1,15 +1,11 @@
-# role.
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27c5d2eae3c91d8d99c56a9cda85667a4ff97040
+title: H08PQR-PDF-ENG
+---
+# HBR / Digital Article / The Formal Policies That Protect Family Businesses from Interp…
 
-When John later ﬁled for divorce, and his now-estranged spouse
+responsibilities, others uncertain if they were expected to join the
 
-claimed a share of business ownership, everything that had gone
-
-unspoken came to a head.
-
-The Rossis faced a messy legal challenge because they hadn’t put in
-
-place rules or policies that set out how they’d handle a family member’s
-
-divorce. At stake was more than a slice of equity: As the family disagreed
-
-over the path forward, they faced the very real risk of tearing apart the
+business or if simply expressing interest would be enough to secure a

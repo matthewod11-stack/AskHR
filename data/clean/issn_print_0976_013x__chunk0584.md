@@ -1,7 +1,11 @@
-# Applied
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 8ee674e086da62bae4db40e71fde13ce36e9d9d1
+title: issn_print_0976_013x
+---
+# Indian Economy, 5(2).
 
-Research,
+https://doi.org/10.17492/pragati.v5i2.14378
 
-4(9),
-
-16-18.
+Bhuvaneswari, R. (2014). Impact of social networking sites on the youth. Indian Journal of

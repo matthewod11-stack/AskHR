@@ -1,21 +1,13 @@
-## multinational businesses, human resource management tools such as
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fde828f12ad13c129e7742389c3c619afb416c99
+title: H037WI-PDF-ENG
+---
+## cultural work experience or a migration experience for entrepreneurs
 
-expatriate assignments or international job rotations can help build opportunity recognition skills. To make these tools even more eﬀective,
+and entrepreneurial companies. Entrepreneurs and managers can
 
-managers can complement them with entrepreneurship training prior
+actively seek to build such experiences by living abroad and
 
-to an international assignment. Furthermore, priming instruments like
-
-the ones in our experiments could be used while living abroad and
-
-afterward to spur business ideation.
-
-For companies, ignoring the positive eﬀect of cross-cultural experience
-
-on opportunity recognition may be harmful. If expatriates with good
-
-Copyright © 2016 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+systematically comparing what they observe in other markets. In

@@ -1,27 +1,13 @@
-# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6217ced820a75ac754770ee185602e4cf2eff6ef
+title: H07U7Q-PDF-ENG
+---
+# underserved communities.
 
-ADI IGNATIUS:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Here’s a question from London in the UK. Having followed a very
+14
 
-dynamic, well-proﬁled CEO, how do you think about the role of the
-
-CEO? Does it need to be a very public-facing role, or not necessarily?
-
-JASON BUECHEL:
-
-It really depends upon the company. You know, are you public or
-
-private? In our case, we are a subsidiary, and for me, the most important
-
-role that I have is internal from that perspective. Obviously, having
-
-responsibilities external allows us to support our stakeholders as well,
-
-so when I look at the time that I spend, it’s probably 80% on the internal
-
-side of things, and in the 20% I’m spending external, it’s really trying to
-
-help connect with and support our stakeholders.
-
-I give a great example on this with our suppliers. How do we help bring
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,25 @@
-# HBR / Digital Article / Working Parents, It’s Time to Let Go of These Pandemic-Era Ha…
+---
+source_path: H07N1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d35b25e9392d8b5376f409988fc22bc9b30c1827
+title: H07N1K-PDF-ENG
+---
+## and behaviors (like those more regular family mealtimes) you absolutely
 
-for you. For each one, I’ll then share a low-stakes but eﬀective way for
+want to keep. Now, try going one step further and ask yourself: What
 
-you to reset: to tweak and update that particular habit or perspective so
+isn’t serving me anymore?
 
-that it can work better for you going forward.
+To spur along that thinking, let’s get speciﬁc. Below are four diﬀerent
+
+pandemic-era working-parent habits and perspectives that I see many
+
+moms and dads holding onto — and that you may be also, even at
+
+personal or professional cost. Scan the list and observe which ones land
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

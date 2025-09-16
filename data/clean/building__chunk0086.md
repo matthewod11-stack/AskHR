@@ -1,7 +1,9 @@
-#  Query complexity handling
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 7ecadf92a452b08cccd8fc21eb4a3e9e48eb7189
+title: building
+---
+#  Routine task elimination
 
-17
-
-Working with AWS and Anthropic to apply generative AI and machine learning techniques to its research, Pfizer:
-
-- Cut time from prototype to minimal viable product from 3+
+ Time saved per analysis

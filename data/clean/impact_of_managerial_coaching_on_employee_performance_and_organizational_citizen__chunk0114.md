@@ -1,1 +1,7 @@
-# OCB- Organization
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: 60834006366e98f846a18b965a9d1e765f9cf36a
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# Managerial Coaching

@@ -1,7 +1,11 @@
-# l
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 19055582e2a593f6d401d642567fc2700eef0846
+title: arop1noe_245_275
+---
+# i
 
-Knowledge sharing: the provision of task informationandknow- how to collaborate and help others to solve problems, develop new ideas, or implement policies
+.
 
-such as reading print or online material (Doornbos et al. 2008, Lohman 2005). Informal learning enables individuals to acquire knowledge and skills on the job, providing the potential for more meaningful learning experiences than formal training and development allow (Benson 1997, Tannenbaum et al. 2010).
-
-Thedevelopment ofhumancapitalalsorequiresconsiderationof howtotransferexpertise and knowledge from experts who have it to novices who need it (Connelly et al. 2012, Hinds et al. 2001). One way to do so is through knowledge sharing. Knowledge sharing can occur directly through face-to-face or technology-aided interactions with experts, or it can occur indirectly throughdocumenting,organizing,andcapturingknowledgeforothers(Cummings2004,Pulakos et al. 2003). Knowledge sharing between employees and across teams allows an organization to exploit existing knowledge-based resources (Cabrera & Cabrera 2002, 2005; Damodaran & Olphert 2000). Knowledge sharing can contribute to an organization’s competitive advantage in a number of ways, including cost reduction, faster completion of new product development, increases in innovation capabilities, and enhanced sales growth and revenue from new products and services (e.g., Mesmer-Magnus & DeChurch 2009). Studies in the information systems and organizational behavior literatures have examined knowledge sharing at different levels of analysis(Wang&Noe2010).Table1summarizesthetrendsinthinkingdifferentlyaboutlearning and their implications for research and practice.
+d e d a o n w o D

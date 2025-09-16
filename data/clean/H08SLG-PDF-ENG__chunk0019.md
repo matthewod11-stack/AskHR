@@ -1,19 +1,23 @@
-## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07a0142bfe74b707904c0386ddc721bbdc4738c7
+title: H08SLG-PDF-ENG
+---
+# decisions.
 
-continue moving up the managerial hierarchy. If you are dismayed to
+Spacious mode might be hard for you to see as a manager. Consider
 
-see a team member step back from doing mode, ask yourself whether
+how your biases might play into this: The same behavior that in
 
-they’re actually engaged in spacious mode.
+one employee may be labeled as annoying, wasteful and lazy, when
 
-We have created managerial and organizational norms which over-
+practiced by someone else (especially someone who is already more
 
-privilege doing mode and hide the value of spacious mode. But only
+powerful) can be seen as strategic and evidence of their readiness to
 
-when insights from spacious mode guide teams’ actions in doing mode
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-can leaders be sure that team members are focused on doing the
+6
 
-right work in the right ways. There needs to be a rebalancing of the
-
-relationship between these modes if organizations are to thrive and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

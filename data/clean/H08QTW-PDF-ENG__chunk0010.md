@@ -1,7 +1,13 @@
-## tariﬀs on all their products, components, and materials.
+---
+source_path: H08QTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 836336dea59a62f64815adb2b264e14527ab54b9
+title: H08QTW-PDF-ENG
+---
+# capital management.
 
-It’s possible to improve forecasting signiﬁcantly in a matter of weeks.
+Imprecise or inaccurate forecasts cause companies to produce more
 
-Case in point: We helped one healthcare company improve accuracy
+than they can sell or hide cash under the corporate mattress. Many
 
-from 80% to nearly 90% within 30 days by integrating basic AI-enabled
+companies’ forecasts aren’t granular enough to track the impact of

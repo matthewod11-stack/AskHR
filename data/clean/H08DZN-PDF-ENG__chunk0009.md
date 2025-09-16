@@ -1,7 +1,23 @@
-## reports. Women may, therefore, act less strongly on their own feelings.
+---
+source_path: H08DZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32f31f0d5ae9edfdcf36e95449bfbfe617669ed2
+title: H08DZN-PDF-ENG
+---
+# HBR / Digital Article / Research: How Anxiety Shapes Men’s and Women’s Leadership…
 
-Research has shown that anxiety and hope are the two main emotions
+In our research, we contest this lay belief that women’s leadership
 
-experienced in the face of uncertainty and are often seen as two
+capacities are uniquely and easily overwhelmed by their emotions. To
 
-opposite responses to a volatile environment. We examined leaders’
+the contrary, we predicted that in uncertain times marked by strong
+
+emotional experiences, women may actually be less likely to act on
+
+their emotions than men when leading. This is because women are
+
+socialized to put others’ needs before their own. In uncertain times,
+
+women will likely feel compelled to make sure that others are doing well
+
+— especially others they have a responsibility for, such as their direct

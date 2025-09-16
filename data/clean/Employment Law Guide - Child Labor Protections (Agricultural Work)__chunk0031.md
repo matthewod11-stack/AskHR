@@ -1,5 +1,21 @@
-## (https://www.dol.gov/whd/regs/compliance/posters/MinWageHmong.pdf)
+---
+source_path: Employment Law Guide - Child Labor Protections (Agricultural Work).md
+pages: n/a-n/a
+chunk_id: 7f33e8c5bc88af9eb781c6b206e976db59632b02
+title: Employment Law Guide - Child Labor Protections (Agricultural Work)
+---
+## Recordkeeping, Reporting, Notices and Posters
 
-Vietnamese(https://www.dol.gov/whd/regs/compliance/posters/minwageViet.pdf), and Korean(https://www.dol.gov/whd/regs/compliance/posters/minwageKorean.pdf). There is no requirement to post the
+Every employer of employees subject to the FLSA's minimum wage provisions must post, and keep posted, a
 
-poster in languages other than English(https://www.dol.gov/whd/regs/compliance/posters/ﬂsa.htm).
+notice(https://www.dol.gov/whd/regs/compliance/posters/ﬂsa.htm) explaining the Act in a conspicuous place in all
+
+of their establishments. Although there is no size requirement for the poster, employees must be able to
+
+readily read it. The FLSA poster is also available in
+
+Spanish(https://www.dol.gov/whd/regs/compliance/posters/ﬂsaspan.htm), Chinese(https://www.dol.gov/whd/regs/compliance/posters/minwagecn.pdf),
+
+Russian(https://www.dol.gov/whd/regs/compliance/posters/FLSAPosterRuss.pdf), Thai,
+
+(https://www.dol.gov/whd/regs/compliance/posters/MinWageThai.pdf) Hmong,

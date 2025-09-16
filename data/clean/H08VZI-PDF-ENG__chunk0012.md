@@ -1,11 +1,25 @@
-# words, a last 8% culture.
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5ad107284e1c4336f1ed664d26fe2c325da5b486
+title: H08VZI-PDF-ENG
+---
+## HBR / Digital Article / The Secret to Building a High-Performing Team
 
-Of course, not all teams in organizations have both high connection
+their team they perceived to be barriers to, and enablers of, taking risks
 
-and high courage. For 67% of our respondents, one or both of the pillars were perceived to be at levels that were insuﬃcient to drive
+to do hard things.
 
-performance. In these instances, we saw teams default to one of
+The data shows that enabling high performance through smart risk-
 
-three culture types that impair risk-taking and performance: family,
+taking has two pillars: high connection, meaning people perceive they
 
-transactional, or fear-based. These patterns occur independent of
+have a voice, are valued, and feel psychological safety; and high courage,
+
+meaning people are capable of, encouraged to, and enabled by norms
+
+to be courageous to execute on hard things, such as holding people
+
+accountable. When high connection and high courage are both in place,
+
+a culture of trust is built that enables people to take more risks—in other

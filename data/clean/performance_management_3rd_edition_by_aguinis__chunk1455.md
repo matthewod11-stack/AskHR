@@ -1,5 +1,7 @@
-## Developmental Plan Form at Old Dominion University
-
-Consider the following developmental plan form used for employees at Old Dominion University in Norfolk, Virginia.29
-
-What are some positive features of this form? What are some features that could be improved? (cid:2)
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e55e91ba2bfb24c76a54b83a3b69a4f09eb071f0
+title: performance_management_3rd_edition_by_aguinis
+---
+# CAS E ST U DY 8-1

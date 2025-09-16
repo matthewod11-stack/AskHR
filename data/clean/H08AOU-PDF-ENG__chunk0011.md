@@ -1,11 +1,23 @@
-## At the professional services ﬁrm, the disparity between white men and
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e34129d5df909e20b7fc30b0c4f5baa708aa76a
+title: H08AOU-PDF-ENG
+---
+# Redistributing Office Housework
 
-women of color dropped from 27 percentage points to zero for literal
+Bias in access to opportunities ﬂourishes in the dark: Once you bring
 
-oﬃce housework (like picking up the cups after a meeting). Women of
+the problem to light, you can’t unsee it. Supported by a generous grant
 
-color were not the only ones with improved outcomes: The disparity
+from Walmart, our team, in partnership with The Conference Board,
 
-between white men and white women reduced by nine points, and by
+administered a 10-minute Workplace Experiences Survey (WES) at four
 
-eight points for men of color, resulting in a more equitable distribution
+companies — a professional services ﬁrm, an energy company, and two
+
+ﬁnancial institutions — to establish a baseline level of oﬃce housework
+
+allocation. Next, we ran our unique, interactive 90-minute Individual
+
+Bias Interrupters workshop, then measured three months later to see if the training had an eﬀect. The results were dramatic.

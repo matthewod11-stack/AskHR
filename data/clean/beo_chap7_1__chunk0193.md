@@ -1,15 +1,13 @@
-## model. Journal of Economic Behavior and Organization 38:155~78.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 69dc3049e2f0a8b9bf396ee51b8a4d89460da74c
+title: beo_chap7_1
+---
+## Journal of Political Economy 111:1043-75.
 
-Brandts, J., and D. Cooper. 2004. A change would do you good.... An experimental study
+Bettman, J. R., and B. A. Weitz. 1983. Attributions in the board room: causal reasoning in
 
-on how to overcome coordination failure in organizations. Weatherhead Business School
+corporate annual reports. Administrative Science Quarterly 28:165--83.
 
-pdf.) Working Paper. (Available at http://pareto.uab.es/wp/2004/60604.
-
-Brockner, J., and B. Wiesenfeld. 1996. An integrative framework for explaining reactions to
-
-decisions: interactive effects of outcomes and procedures. Psychological Bulletin 120:189—
-
-208.
-
-Camerer, C. F. 2003. Behavioral Game Theory. New York: Russell Sage Foundation Press
+Bowman, D., D. Minehard, and M. Rabin. 1999. Loss aversion in a consumption—savings

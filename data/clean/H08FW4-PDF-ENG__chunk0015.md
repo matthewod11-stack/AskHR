@@ -1,13 +1,11 @@
-## the enterprise culture and value system, responsible for deﬁning and
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 96c65cd4e95cf895535043afd123bd30b772e5c5
+title: H08FW4-PDF-ENG
+---
+# exceptional for their industry.
 
-reinforcing a particular set of norms — they must be aware that they
+- 2. They shape healthy culture by building relationships and modeling values.
 
-embody that culture. Their actions speak louder than their words when
-
-it comes to reinforcing or diminishing a set of cultural norms.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Executive teams must think of themselves not only as “stewards” of

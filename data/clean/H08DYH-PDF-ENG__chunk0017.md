@@ -1,9 +1,11 @@
-## busy, conscious brain state (beta) to a more relaxed and creative state
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 052b9551ababbc7ccc5ff4bf70df70306398a347
+title: H08DYH-PDF-ENG
+---
+# that lead to laughter and creativity.
 
-(alpha or theta). I call this exercise “Picasso”: I ask everyone if they think
+For example, having people draw someone they know without looking
 
-they can draw like Picasso. No one raises their hand, but after they’re
-
-done drawing without looking at the paper, they look down and see
-
-that they have, in fact, drawn a Picasso-like picture. Laughter typically
+at the paper can generate laughter and help shift participants from a

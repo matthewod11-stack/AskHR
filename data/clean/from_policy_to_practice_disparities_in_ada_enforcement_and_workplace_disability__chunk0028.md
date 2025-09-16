@@ -1,3 +1,9 @@
-# 4.(cid:32) Lack of State-Level Support:
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: 2a129b7afcf1c1a9bce29a15ad22062ec6960d27
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+## 3.(cid:32) Employer Awareness and Compliance Gaps:
 
-Although the federal laws are enforced in some states with additional agencies of disability rights and judicial protection of the rights, there are states that lack administrative power or political motivation. This leads to a disjointed enforcement environment in which access to justice is highly limited by state-level infrastructure.
+Especially, the small and mid-sized employers have relatively little information about ADA requirements. Very little training and compliance occur across sectors and geography and leading to non-compliance or discriminatory practices in unintentional ways.

@@ -1,9 +1,7 @@
-# Group & Organization Management 0(0)
-
-Leaders might show that they are appreciative of an employee in times when their unique skill sets are needed but may be dismissive when they are not; thus, treatment is based on their differentiated value to the organization. Like LMX contingencies (Graen & Uhl-Bien, 1995), the differentiated group becomes the in-group in times where their skills are needed and becomes the out-group when their skills are not needed. Leaders also role model to other employees the value or lack of value they place in these differentiated em- ployees. This suppression of true uniqueness and being appreciated for one’s whole self would likely lead to low psychological safety and low psycho- logical empowerment as employees would be unsure of their overall meaning, competence, and impact in the organization.
-
-The effect on differentiated employees is a sense of a lack of power and status and possibly conﬂict with other employees who do not understand their particular worth to the group. Minority employees may question whether they are valued and respected equally and as a result feel marginalized. There may be alack of real learning andengagement amongst differentiated employees as well (Ely & Thomas, 2001). On top of that, the employee may feel agitation and anxiety and experience performance decrements from stereotype threat (Osborne, 2001; Spencer, Steele, & Quinn, 1999).
-
-The instrumental nature of this type of employee–organization relationship has been shown to consistently result in fewer beneﬁcial outcomes for the employee and for the organization (Shore, Coyle-Shapiro, & Chang, 2018). The assumption of limited value which may be communicated by the leader to members of marginalized social identity groups also points to narrow career opportunities within the organization. If the philosophy of leader differen- tiation is prevalent throughout the organization, higher rates of turnover for that organization among members of marginalized groups would be likely. While still not clear whether it is linked to leader behavior, evidence shows the turnover of female professionals and managers is higher than that of their male counterparts, and that African American employees quit more than white or Asian American employees (Hom, Roberson & Ellis, 2008). One possible explanation for the latter ﬁnding is suggested by McKay and Avery (2005) who noted that diversity recruitment practices, while effective at attracting people into the organization, may unluckily contribute to high early turnover if they increase expectations for a positive diversity climate that is not satisﬁed.
-
-The Leader Emphasizing Exclusion Shore et al.’s (2011) model of inclusion is based on social identity theory (SIT). Self-categorization theory is complementary to SIT, referring to the in terms of their process by which people describe their self-concept
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 68a6b4ca3e1855100868d14a0ac479ff2317e5c6
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# 16

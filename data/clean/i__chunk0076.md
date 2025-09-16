@@ -1,13 +1,13 @@
-# competitors=.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 5bb57be54b45c5a1610de809c14706fdbf5fa5e0
+title: i
+---
+## Figure 8: Prescriptive Analytics Model (Caughlin, 2022)
 
-Regarding the advanced analytics users, it is stated by Bain and company that they have double
+2.2.5 Framework to get knowledge from Data Analysis
 
-their chance to be in the top quartile in financial performance among other players in their
+Bain and Company research in 2013 (quoted from Pease 2015, page 22) reveals , the more
 
-industries. Moreover, advanced analytics users make faster decisions at about five times and
-
-have three times more chance to execute decisions as pe planned. They also use data analytics
-
-for making decision twice as frequently as other
-
-14
+advanced analytics a business performs, <the greater the margin by which it outperformed its

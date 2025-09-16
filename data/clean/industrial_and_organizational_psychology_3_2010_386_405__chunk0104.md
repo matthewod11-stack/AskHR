@@ -1,13 +1,15 @@
-# AmericanPsychologist, 38, 379–387.
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: d9deb12dbd9b588dd7149c99b104137ec2c44540
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+## Meyer, R. D., Dalal, R. S., & Bonaccio, S.
 
-Moore, D. A., & Flynn, F. J. (2008). The case for behav- ioral decision research in organizational behavior. TheAcademyofManagementAnnals,2, 399–431. Moore, D. A., & Small, D. A. (2007). Error and bias in comparative judgment: On being both better and worse than we think we are. JournalofPersonality andSocialPsychology, 92, 972–989.
+(2009). A meta-analytic investigation into situational strength as a moderator of the conscientiousness- performance relationship. Journal of Organiza- tionalBehavior, 30, 1077–1102.
 
-Naylor, J. C. (1984). A time of transition. Organiza- tional Behavior and Human Decision Processes, 34, 1–4.
+Mohammed, S., & Ringseis, E. (2001). Cognitive diver- sity and consensus in group decision making: The role of inputs, processes, and outcomes. Organi- zationalBehaviorandHumanDecisionProcesses, 85, 310–335.
 
-Naylor, J. C., Pritchard, R. D., & Ilgen, D. R. (1980). Atheoryofbehaviorinorganizations. New York: Academic Press.
+Mohammed, S., & Schwall, A. (2009). Individual dif- ferences and decision making: What we know and where we go from here. InternationalReview of Industrial and Organizational Psychology, 24, 249–312.
 
-Nutt, P. C. (2002). Why decisions fail: Avoiding the blunders and traps that lead to debacles. San Francisco: Berrett-Koehler.
-
-O’Leary, B., Bartol, K. M., Cannella, A. A., Greenberg, J., & Locke, E. A. (2009, April). Are CEOs over- paid? Panel session presented at the 24th Annual conference of the Society for Industrial and Orga- nizational Psychology, New Orleans, LA.
-
-Ord´o˜nez, L. D., Schweitzer, M. E., Galinsky, A. D., & Bazerman, M. H. (2009). Goals gone wild: The sys- tematic side effects of overprescribing goal setting. AcademyofManagementPerspectives, 23, 6–16. Ones, D. S., & Viswesvaran, C. (2000). Most pub- lishedauthorsinJournalofAppliedPsychologyand PersonnelPsychologyduring the 1990s.TheIndus- trial–OrganizationalPsychologist, 37, 26–32. Pfeffer, J. (1993). Barriers to the advance of organiza- tion science: Paradigm development as a depen- dent variable. Academy of Management Review, 18, 599–620.
+Mook, D. G. (1983). In defense of external invalidity.

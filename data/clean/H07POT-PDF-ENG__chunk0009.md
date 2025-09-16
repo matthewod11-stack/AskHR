@@ -1,31 +1,37 @@
-# to.
+---
+source_path: H07POT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0b404c6d561ccda32307f634f4d09e0f56477bd
+title: H07POT-PDF-ENG
+---
+## HBR / Digital Article / Worried About Impending Layoffs?
 
-How you present yourself conveys the value you can bring to an
+You might think your job isn’t currently at risk. But with tens of
 
-employer and determines how they respond to you. Yet one of
+thousands of employees from scores of employers having lost their jobs
 
-the activities my laid-oﬀ coaching clients found most daunting was
+since the beginning of the year, it’s well worth asking two questions: Am
 
-revamping their resume and LinkedIn proﬁle — professional reputation
+I next? And if I might be, what should I do to prepare?
 
-must-dos. Devastated by their job loss and stuck in questioning if
+While you may assume that you’re simply at the mercy of your
 
-they could have changed the outcome, these individuals rarely had
+employer when it comes to the ﬁrst question, there’s a lot you can do
 
-the conﬁdence to catalog their accomplishments and organize them
+to strengthen your professional guardrails even if your job doesn’t end
 
-coherently. That’s why keeping your resume and branding materials
+up on the chopping block. Based on my 12 years of experience coaching
 
-up-to-date ahead of time will pay oﬀ in the event that you get laid oﬀ.
+employees who were laid oﬀ, I’ve seen that the time to prepare is before
 
-Assess your résumé and LinkedIn proﬁle to make sure they reﬂect the
+you’re gripped by the shock and anxiety of a layoﬀ, when cooler heads
 
-new skills you’ve acquired and projects you’ve tackled. If you’re unsure
+tend not to prevail. Here are some ways to get started:
 
-which quantiﬁable accomplishments have made the most signiﬁcant
+Update your branding materials.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Just as it’s important to maintain your health by getting periodic check-
 
-2
+ups, you should also update your resume and LinkedIn proﬁle regularly.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+It’s a prudent best practice to take care of these updates before you need

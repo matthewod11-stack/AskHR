@@ -1,13 +1,15 @@
-## perspective. Journal of Personality, 54, 18–51.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3aca264f87936c36afe891b61ae5dcd98d4d73e3
+title: untitled
+---
+## experience]. Philosophical Review, 12, 62–67.
 
-Craik, K. H. (1988). Assessing the personalities of historical ﬁgures. In W. M. Runyan (Ed.), Psychology and historical interpretation (pp. 196–218). New York: Oxford University Press.
+Cohen, S. (1983). The mental hygiene movement, the development of personality and the school: The medicalization of American education. History of Education Quarterly, 23, 123–149.
 
-Crider, B. (1936). Who is a psychologist? School and Society, 43,
+Cohler, B. J. (1993). Describing lives: Gordon Allport and the “science” of personality. In K. H. Craik, R. Hogan, & R. N. Wolfe (Eds.), Fifty years of personality psychology (pp. 131– 146). New York: Plenum Press.
 
-370–371.
+Corbin, J. (1908, November). How one girl lived four lives: The astounding case of Miss Beauchamp. Ladies’Home Journal, 25, 11–12, 68–69.
 
-Crosby, F., & Crosby, T. L. (1981). Psychobiography and psy- chohistory. In S. L. Long (Ed.), Handbook of political behavior (Vol. 1, pp. 195–254). New York: Plenum Press.
-
-Danziger, K. (1990). Constructing the subject: Historical origins of psychological research. New York: Cambridge University Press.
-
-Danziger, K. (1997). Naming the mind: How psychology found its
+Craik, K. H. (1986). Personality research methods: An historical

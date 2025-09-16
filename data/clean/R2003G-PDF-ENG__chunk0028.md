@@ -1,13 +1,17 @@
-## between powerful subordinates or destructive gamesmanship between
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e30878f7b7d45fad46d96031812370e8b3e26bf
+title: R2003G-PDF-ENG
+---
+# act?
 
-competing departments—block progress? Does the culture encourage
+- Are problems identiﬁed early enough that action can be taken before
 
-resistance to change or insulated silos rather than embracing new
+they create damage, or is it common for large problems to occur
 
-ways to improve?
+unexpectedly? When that happens, do you ﬁnd that some of your
 
-- When you direct that some action be taken or ask for data on a
+senior people were also unprepared?
 
-particular issue, do you often not hear back until you remind people?
-
-When managers say they will follow up, do you have conﬁdence that
+- Do political or cultural factors—such as relationship problems

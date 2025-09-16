@@ -1,5 +1,9 @@
-# Harvard Business
+---
+source_path: R0311F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7913dab186d9ccfe111342c5436c3235c73ae0cc
+title: R0311F-PDF-ENG
+---
+# Harvard Business Review:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
-
-page 9
+For customized and quantity orders of reprints and Review OnPoint products: Call Frank Tamoshunas at 617-783-7626, or e-mail him at ftamoshunas@hbsp.harvard.edu

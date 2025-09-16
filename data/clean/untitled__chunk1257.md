@@ -1,9 +1,11 @@
-# Reﬂections on the Era of Expansion
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bab0e98267ddeff7149283034e2245136c85bd4b
+title: untitled
+---
+# An Operant Orientation
 
-Under the guidance of the learning titans of this era, develop- mentalists once again became a part of mainstream psychol- ogy. Amechanistic orientation characterized the theorizing of the period, whether under the guidance of Hullian-inﬂuenced Sears or of operant-oriented Skinner. Theorists searched for broad, universal principles of development, with little con- cern for either culture or secular inﬂuences, although Sears did document social-class differences in child-rearing prac- tices in one of his studies (Sears et al., 1957). Neither Sears nor Skinner was a prominent provider of descriptions or pre- scriptions for parents in the tradition of Watson and Gesell, but they both had an abiding American faith in the potential of developmental science to help children. Skinner’s inven- tion of the baby box and teaching machine and Sears’s hope that his studies of child rearing would provide scientiﬁc guidelines for future parents illustrate their commitment to an applied developmental psychology.
+Another extension of learning theory that emerged during this era was operant learning theory. This approach was de- veloped by B. F. Skinner (1904–1990) at Harvard Univer- sity. In contrast to Hullian theory, with its drive-centered focus, Skinner’s theory emphasized contingent reinforce- ment of behavior as the central learning mechanism. Although Skinner was not a developmental theorist, his
 
-Insum,duringthisera,developmentalpsychologybecame recognized as part of mainstream psychology, but it had not yet reached a mature state. In the case of Sears, there was still too much borrowing from the past, and in the case of Skinner, there was not enough recognition of the uniqueness of chil- dren that might require distinctive and separate approaches.
-
-THE RISE OF CONTEMPORARY THEMES (1960–1985)
-
-In the era from 1960 to 1985, a number of themes rather than a number of theorists guided research and theory in de- velopmental psychology. These themes were the return of a concern about cognition, the discovery of precocity, the re- deﬁning of social learning, the reﬁnement of the study of so- cial interaction, and the emergence of an interest in emotion.
+thinking had a profound impact on developmental psychol- ogy. Such inﬂuential developmental researchers as Bijou, Baer, and Gewirtz were all inﬂuenced by Skinner (Bijou & Baer, 1961; Gewirtz, 1969). The modern behavior modiﬁca- tion approach to the control and shaping of children’s be- havior in classrooms, homes, and institutional settings owes a direct debt to Skinner and his theory of operant learning.

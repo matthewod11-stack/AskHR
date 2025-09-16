@@ -1,13 +1,7 @@
-# committed funding.
-
-Many of the personalization leaders that set the bar in this area are
-
-digital natives. DoorDash runs hundreds of micro-experiments in its
-
-app, testing things such as improvements in add-to-cart and product-
-
-substitution recommendations. It has designed its app and its tech
-
-infrastructure to quickly run and measure such experiments, and
-
-it operates agile teams that act on the learnings to improve each
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac4eb0700d694cc33e4c4bf22220a75e42b5d8c3
+title: R2406G-PDF-ENG
+---
+## of cross-functional agile teams, a clear owner of the initiative, and

@@ -1,15 +1,11 @@
-## team. (See “Why Employees Are Afraid to Speak,” by James R. Detert
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef2226ed597d85f6815f635011c5965e55056398
+title: R2405D-PDF-ENG
+---
+## managers alike. Most important, in many discussions, participants
 
-and Amy C. Edmondson, HBR, May 2007.) But it’s especially critical
+should view asking probing questions as part of their job.
 
-to establish it in a team that seeks to use evidence to make business
-
-decisions—so that the fear of raising unpopular ﬁndings doesn’t cause
-
-members to miss critical data.
-
-The chilling eﬀect of low psychological safety was evident in the
-
-response to experimental research at Facebook that looked at whether
-
-showing more positive versus negative posts aﬀected users’ emotions.
+Much has been written about how to build psychological safety in a

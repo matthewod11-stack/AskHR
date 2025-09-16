@@ -1,19 +1,17 @@
-# Workshops and classes
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d91067abeed7517a97ec4cf11e74da58d32c9c01
+title: H0719C-PDF-ENG
+---
+## foster empathy. Leaders, in particular, can share their experiences with
 
-Informational events can provide useful background knowledge to all
+mental health, which can also impact corporate culture and policy.
 
-employees. Several organizations oﬀer workplace training, the most
+Employees can share their stories, which often have the greatest impact
 
-popular being the Mental Health First Aid Course oﬀered by the
+since they’re more likely to be more relatable to other employees. The
 
-National Council for Mental Wellbeing. Mental health nonproﬁts such
+speakers at these events don’t have to be folks on staﬀ but people who
 
-as the National Alliance on Mental Illness – New York City (where I am
-
-on the board) also provide training.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+have experience leading these kinds of discussions.

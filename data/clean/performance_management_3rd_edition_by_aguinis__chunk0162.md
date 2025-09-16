@@ -1,5 +1,9 @@
-## 1.4.2 Cost-of-Living Adjustments and Contingent Pay
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b59bf72946879cf05bcb38a15a02e82cd64275da
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 1 • Performance Management and Reward Systems in Context
 
-Cost-of-living adjustments (COLA) imply the same percentage increase for all employees regardless of their individual performance. Cost-of-living adjustments are given to com- bat the effects of inflation in an attempt to preserve the employees’ buying power. For example, in 2003 in the United States, organizations that implemented a COLA used a 2.1% pay increase. In 2001, this same percentage was only 1.4%. Year-by-year COLA percentages can be obtained from such agencies as the Social Security Administration in the United States (http://www.ssa.gov/OACT/COLA/colaseries.html).
-
-Contingent pay, sometimes referred to as merit pay, is given as an addition to the base pay based on past performance. Chapter 10 describes the topic of contingent pay in detail. In a nutshell, contingent pay means that the amount of additional compensa- tion depends on an employee’s level of performance. So, for example, the top 20% of employees in the performance score distribution may receive a 10% annual increase, whereas employees in the middle 70% of the distribution may receive a 4% increase, and employees in the bottom 10% may receive no increase at all.
+differences within the base pay range may exist based on such variables as experience and differential performance. In some countries (e.g., United States), there is a differ- ence between wage and salary. Salary is base cash compensation received by employees who are exempt from regulations of the Fair Labor Standards Act and, in most cases, cannot receive overtime pay. Employees in most professional and managerial jobs (also called salaried employees) are exempt employees. On the other hand, nonexempt employees receive their pay calculated on an hourly wage.

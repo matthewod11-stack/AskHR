@@ -1,15 +1,23 @@
-## Figure 8.3 Relationship between feedback specifi city and learning
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 215d32b8bb9b84139a6fd0ae7298c0e91c440332
+title: industrial_organizational_psychology_an_applied_approach
+---
+# 7
 
-296
+Reduce the stress associated with attending. Frequently, employees want to attend training but don’t because they can’t afford to take time away from their scheduled duties. To encourage employees to attend training, organizations should provide workload reductions or staffing assistance.
 
-chapter 
+Motivating Employees to Perform Well in Training Providing Incentives for Learning. Employees motivated to learn perform better in training than their less motivated counterparts (Mathieu, Tannenbaum, & Salas, ). This motivation to learn is often related to the perception that there is an incentive (e.g., a pay raise or job advancement) to learning. That is, an electronics assembler who is taking a course in electronics will probably not study and learn unless he can see how that knowledge will improve his performance enough to result in a desirable outcome, such as a salary increase or chance of promotion. Types of incentives that can be used to motivate learning include money, job security, self-improvement, advancement, fun (an interesting training program), and opportunity to enter a new career. The incentives can be made contingent on a variety of factors, including completion of a training course, demonstration of new knowledge, demonstration of a new skill, or an increase in actual job perfor- mance.
 
-lives, having activities, using a variety of training techniques, using humor, and maximizing audience participation.
+A common financial incentive method is skill-based pay, which is used by % of major U.S. organizations (Mercer Consulting, ). With skill-based pay, an employee participates in a training program that is designed to increase a particular skill an employee needs either to be promoted or to receive a pay raise. For example, employees who are currently in the position of Printer II, must learn to set their own type before they can be promoted to Printer III. The employees must be able to demonstrate their mastery of the newly taught skill rather than just attend training sessions. Similarly, in situations where promo- tion is not possible, pay increases alone are given to employees who master new skills. There are four common skill-based pay plans. Vertical skill plans pay for skill in a single job, horizontal skill plans focus on skills used across multiple jobs, depth skill plans reward employees for learning specialized skills, and basic skill plans focus on such basic skills as math and English (Recardo & Pricone, ).
 
-Feedback. Another essential aspect of motivating employees to learn is to provide feedback. With some tasks, feedback occurs naturally. For example, in baseball, a batter receives feedback on his swing by seeing how hard and far the ball travels. For other tasks, however, judging the correctness of a behavior without feedback is difficult. For example, if you write a term paper for this class and get a C, your next term paper will probably not improve unless you have been provided feed- back about what was right and wrong with the previous paper.
+At FedEx each year, employees are required to watch eight hours of interac- tive video training on customer contact. Employees must score % on exams given on this material to pass. Ten percent of the employees’ performance review (salary increase) is then based on their test scores.
 
-The same is true for training in industry. Our electronics assembler needs feedback early in the training process to know if the winding is tight enough, if there is an easier way to wind the coil, or if the winding is equally distributed on the coil. A balance, however, must be maintained between giving too little and too much feedback. As shown in Figure ., the employee will not learn if too little feedback is given. However, too much or overly detailed feedback causes frustration, and the employee will not learn at an optimal level.
+Skill-based pay not only provides incentives for employees to successfully complete training but also results in increased savings for an organization. For example, a General Foods plant in Kansas found a % decrease in its quality reject rate and a % decrease in fixed overhead costs after introducing a skill- based pay program.
 
-A final consideration for feedback concerns what type of feedback to give. Research and common sense agree that positive feedback should be given when an employee correctly performs a task during training. Praise provides an incen- tive to continue correct behavior. But if an employee is not performing a task correctly, should he receive negative feedback? Probably, even though negative feedback is more complicated than positive feedback. Negative feedback should probably also be accompanied by specific suggestions for how the employee can improve performance.
+Interest. Employees will be more motivated to learn when the training program is interesting. As a result, trainers who are not effective presenters do not last long. Some training topics are naturally interesting and a trainer doesn’t need to do much to spice up the material. For example, the topic of detecting deception is intrinsically interesting to most people, but the topic of performance appraisal is not. A topic can be made interesting by making it relevant to the employees’
 
-Motivating Employees to Use Their Training on the Job Once employees have gathered knowledge and skills from a training program, it is essential that they apply their new knowledge and skills on the job itself. Perhaps the factor that plays the biggest role in employee motivation to apply training is the atmosphere set by management. That is, employees are most likely to apply their new knowledge and skills if supervisors encourage and reward them to do so.
+designing and evaluating training systems
+
+295

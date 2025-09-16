@@ -1,21 +1,19 @@
-# well.
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f0f4cafb4ec8c8b36164032e6185b59941e6b1e
+title: H0477B-PDF-ENG
+---
+# people.
 
-The new Walmart policy: 10 paid weeks for birth moms and 6 weeks
+And since only 14% of civilian U.S. workers have access to any paid
 
-for other new parents, regardless of whether the employee is hourly
+parental leave, employees at most American firms can now say the
 
-or salaried. That’s much more than employees get at firms with which
+words, “I’d have better parental leave if I worked at Walmart.” That
 
-Walmart competes for workers, such as hourly workers at Yum! Brands,
+creates — at least in theory — pressure on other companies to follow
 
-another large employer, which operates Taco Bell, KFC, Pizza Hut, and
+suit. Indeed, since Walmart announced its new policy, Starbucks
 
-others, where store managers get 6-8 weeks if they’re birth mothers,
-
-and nothing at all if they’re biological fathers. (Executives get more,
-
-but hourly workers get nothing.) And at McDonald’s? New parents in
-
-management roles get a single week. That’s right: one week. Hourly
-
-workers? Again, they get nothing.
+announced that it would be expanding its parental leave benefits as

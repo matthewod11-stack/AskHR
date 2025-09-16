@@ -1,29 +1,17 @@
-# skills.
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e8b1f9fe9e6b0f7ed9fcfd5af3c02fcdc09c250
+title: H089EG-PDF-ENG
+---
+## HBR / Digital Article / Learning to Delegate as a First-Time Manager
 
-. . .
+from their perspective. You can ask questions like, “What was this
 
-As Tom implemented these strategies with his team, he started to feel
+experience like for you?” “What did you learn from this?” and “Where
 
-clearer about what he needed to focus on and how his team could help
+did things get stuck?” Through these conversations, you may identify
 
-support his work, as well as the work of the his company.
+things you can do to support your team member better going forward
 
-In your own situation, be patient with the process. Learning how to
-
-delegate well takes time, but it’s worth it — because if you can’t replace
-
-yourself, you can’t move up as a leader. So, consider this an investment
-
-in your team and in yourself. Stick with it, and soon, delegating will
-
-become second nature.
-
-This article was originally published online on June 14, 2024.
-
-Shanna Hocking is the founder and CEO of Hocking Leadership, which specializes in leadership development and philanthropic strategy. Previously a senior executive at billion-dollar nonproﬁt organizations, she is a sought-after coach, consultant, and keynote speaker. She is also the author of One Bold Move a Day: Meaningful Actions to Help Women Fulﬁll Their Leadership and Career Potential (McGraw Hill, 2022). Connect with Shanna on LinkedIn.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and uncover new information about how to improve your delegation

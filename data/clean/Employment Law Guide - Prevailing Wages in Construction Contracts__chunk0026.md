@@ -1,29 +1,17 @@
-# Worker Rights
+---
+source_path: Employment Law Guide - Prevailing Wages in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: f2745a73df59ae8fd874f12c8f8dc7d5b1ac6afb
+title: Employment Law Guide - Prevailing Wages in Construction Contracts
+---
+# allowable payroll deductions.
 
-The Davis-Bacon and Related Acts (DBRA) provide laborers and mechanics on covered contracts the right to
+Contractors and subcontractors on prime contracts covered under the DBA or Related Acts in excess of
 
-receive at least the locally prevailing wages (including fringe beneﬁts), as determined by the Department of
+$100,000, or $150,000 for prime contracts covered under the DBA that are subject to the Federal Acquisition
 
-Labor, for the type of work performed. The Wage and Hour Division and contracting agencies accept complaints of alleged DBRA violations.
+Regulations, are also required, pursuant to the Contract Work Hours and Safety Standards Act (CWHSSA), to
 
-It is prohibited to retaliate against workers or job applicants for engaging in protected activities such as
+pay laborers and mechanics, including guards and watchpersons, no less than one and one-half times their
 
-making a complaint or cooperating in a WHD investigation under the DBRA.
-
-Every contractor performing work covered by the Davis-Bacon labor standards must post the WH-1321 "Worker Rights Under the Davis-Bacon Act" poster at the site of the work in a prominent and accessible place
-
-where it may be easily seen by workers. The applicable DBRA wage determination, including any conformed
-
-classiﬁcations, must be similarly posted.
-
-Under the Davis-Bacon and Related Acts (DBRA), contractors must maintain records for all laborers and
-
-mechanics during the course of the work and preserve the required records for a period of three years after all
-
-the work on the prime contract is completed. Required records must include the following information for each
-
-covered worker:
-
-Name, address, telephone number, email address, and social security number; Correct classiﬁcation(s) of work actually performed;
-
-Hourly rates of wages paid, including rates of contributions or costs anticipated for bona ﬁde fringe beneﬁts
+basic rates of pay for all hours over 40 worked on a covered contract in a workweek.

@@ -1,15 +1,9 @@
-## the business-minded approach of custodians with the person-focused
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79f5fc708555a6ba936fdf7be49a58eecc5183d7
+title: R2501H-PDF-ENG
+---
+# Connectors
 
-approach of challengers. Working through the two conﬂicting sets
-
-of principles, connectors tend to cast themselves as bridges between
-
-established leaders at the company’s core and emerging leaders at
-
-its periphery. Their aim is to turn the company into a community
-
-that is both eﬀective and made up of individuals who act and grow
-
-authentically. Perhaps unsurprisingly, connectors are also some of the
-
-most seasoned leaders, who have experience with both instrumental
+Learning leaders in the third group, connectors, strive to integrate

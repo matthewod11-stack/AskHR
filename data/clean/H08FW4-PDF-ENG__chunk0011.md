@@ -1,41 +1,31 @@
-## diﬀerentiation versus mere marketing hype.
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b2d408495a1fd1bf5ba967c5b57dc59c632d7647
+title: H08FW4-PDF-ENG
+---
+## HBR / Digital Article / What the Best Leadership Teams Do Right
 
-Where executive teams fall short
+eﬀort, executive teams willing to put in the work can learn to play all
 
-But many executive teams lack such courageous self-honesty. Setting
+three of these roles — setting themselves apart from the many willing to
 
-focused, clear direction is often usurped by the executive team turning
+settle for much less.
 
-into the “Company U.N.”: Instead of enterprise leaders with a shared
+- 1. They set competitive direction and secure resources.
 
-agenda, you have “the ambassador from marketing” or “the ambassador
+Like air traﬃc controllers guiding hundreds of aircraft into and out of
 
-from Asia-Paciﬁc” there to exclusively represent the interests of those
+a busy airport, the executive team’s role in steering the organization
 
-they lead. This turns the executive team into a lobbying platform
+toward a deﬁned future, mobilizing the needed resources to get
 
-where backroom horse-trading replaces sound decision-making and
+there, and narrowing focus to stay on course is fraught with risk.
 
-transparent tradeoﬀs. It often results in overly convoluted strategic
+It takes discipline to say no to even good opportunities to protect
 
-plans that lack actual strategy, overloaded with expensive initiatives
+the investment returns of scarce talent and capital. And it takes
 
-that require more capacity than the organization has and metrics that,
+ruthless self-honesty to articulate a competitive positioning that keeps
 
-in aggregate, diametrically oppose one another.
-
-What they need to do
-
-In one organization we worked with, the executive team was
-
-contemplating a major acquisition that, on paper, could have added
-
-complementary oﬀerings and markets to their portfolio. There was
-
-tremendous pressure from several members of the team to pursue the
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the organization grounded in reality, focused on sustaining real

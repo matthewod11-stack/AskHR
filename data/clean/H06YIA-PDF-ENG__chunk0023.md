@@ -1,5 +1,13 @@
-## HBR / Digital Article / When to Change Your Company’s P&L Responsibilities
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42fb87375c2b2089fe6d5b3d083a2ae0c1d6051d
+title: H06YIA-PDF-ENG
+---
+# structure.
 
-- 3. When overcompensating for organizational design flaws leads to inefficiency
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-Any organization design choice involves negotiating concessions —
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

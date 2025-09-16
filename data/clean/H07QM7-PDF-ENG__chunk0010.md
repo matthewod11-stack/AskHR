@@ -1,31 +1,21 @@
-## HBR / Digital Article / What to Do When You Don’t Trust Your Employee
+---
+source_path: H07QM7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 054d7825466c008cc4a40a11f2104f2960746e5d
+title: H07QM7-PDF-ENG
+---
+# ideas to clients eﬀectively.
 
-Trusting someone’s competence entails having faith in their ability to
+Research shows that trust can be broken down into three components:
 
-do the job. Consistency is the belief that the person is reliable — they do
+- Competency
 
-what they say they’ll do and perform as expected. Finally, trusting their
+- Consistency
 
-character is believing that they have integrity and care about others
+- Character
 
-and their needs as well as their own. Like the indispensable legs of a
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-three-legged stool, each component of trust is crucial in a relationship.
+2
 
-To move past the black-and-white impasse of “They aren’t trustworthy,”
-
-ask yourself: Which component of trust is lacking here? What exactly
-
-did this person do or not do that has led to my distrust? Separate facts
-
-from assumptions and focus on speciﬁc problematic behaviors.
-
-- 2. Identify the speciﬁc situations or assignments where you are willing to trust them. Make a list of the areas in which you do trust your employee, and
-
-consider how you might incrementally build on these areas in low-risk
-
-ways. Here’s how this might look like:
-
-- If you trust your employee to communicate eﬀectively within the
-
-team, try involving them in cross-functional meetings or broader
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

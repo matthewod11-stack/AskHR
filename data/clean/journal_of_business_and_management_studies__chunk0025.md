@@ -1,3 +1,9 @@
-# Employee Attrition Prediction in the USA: A Machine Learning Approach for HR Analytics and Talent Retention Strategies
+---
+source_path: journal_of_business_and_management_studies.md
+pages: n/a-n/a
+chunk_id: 89c9e96ec8fffec34e53272a29df74f3e2a8d391
+title: journal_of_business_and_management_studies
+---
+# Output:
 
-To ascertain the connection between education level and job satisfaction, the following code snippet was imposed:
+Page | 55

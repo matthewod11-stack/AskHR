@@ -1,15 +1,27 @@
-## But Jackie Telfair, Walmart’s SVP of Global Compensation, told me
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69c8b59ebb290ca257f6d652a87614020d35d755
+title: H0477B-PDF-ENG
+---
+# well.
 
-this move was not about competing for workers with other companies.
+The new Walmart policy: 10 paid weeks for birth moms and 6 weeks
 
-Instead, she said, it’s “an investment in our associates…[and] if we
+for other new parents, regardless of whether the employee is hourly
 
-invest in our associates, they will invest in our company.” Telfair said
+or salaried. That’s much more than employees get at firms with which
 
-they knew the benefit would be important to their employees. “We knew
+Walmart competes for workers, such as hourly workers at Yum! Brands,
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+another large employer, which operates Taco Bell, KFC, Pizza Hut, and
 
-2
+others, where store managers get 6-8 weeks if they’re birth mothers,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and nothing at all if they’re biological fathers. (Executives get more,
+
+but hourly workers get nothing.) And at McDonald’s? New parents in
+
+management roles get a single week. That’s right: one week. Hourly
+
+workers? Again, they get nothing.

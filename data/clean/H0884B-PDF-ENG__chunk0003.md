@@ -1,17 +1,25 @@
-## HBR / Digital Article / 3 Ways to Make a Request That Doesn’t Feel Coercive
+---
+source_path: H0884B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c2555f0c71280b1b7296ff4752614c46e0c5459
+title: H0884B-PDF-ENG
+---
+# Rick Barrentine/Getty Images
 
-agrees to a request in the moment may provide lower-quality assistance
+When stafﬁng a project, asking your team to work overtime, or ﬁnding
 
-or back out of their commitment at a less convenient time.
+someone for a last-minute task to meet a deadline, it can sometimes feel
 
-Maintaining employee commitment and engagement, not to mention
+like you need to get your employees to say “yes” at any cost. But what
 
-ensuring that you do not cross lines by unintentionally pressuring
+is that cost? When employees feel pressured or guilted into agreeing
 
-employees to do things they would rather not, takes more than seeking
+to a request they personally ﬁnd disagreeable it can lead to feelings
 
-mere compliance or acquiescence with your requests. It takes obtaining
+of regret, frustration, and resentment. An employee who begrudgingly
 
-genuine, voluntary agreement. But many of us don’t know how to make
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-requests in ways that don’t put pressure on the person we are asking.
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,1 +1,29 @@
-# (cid:32)(cid:50)(cid:49)(cid:32)
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 2e4a1b86705a07ae08b7a47497d88d8f0c621bcd
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# correlation (ρ). 90% confidence intervals (90% CI) of the sample-weighted mean correlation
+
+and the 80% credibility intervals (80% CV) of the corrected population correlation were also
+
+calculated and reported. Furthermore, in order to better determine whether moderators were
+
+present, we calculated the percentage of variance accounted for in the corrected population
+
+correlation by sampling and measurement error (% VE).
+
+In order to examine the mediating effects, relative and incremental predictive validity
+
+issues addressed in our research questions, we used meta-analytical path analyses (see
+
+Viswesvaran & Ones, 1995). Relative weights analysis assesses the relative contribution (i.e.,
+
+relative importance) among several (often correlated) independent variables in a regression
+
+analysis. Relative weights analysis converts the total variance predicted in a regression model
+
+(i.e., R squared) into weights that indicate the proportional contribution of the various
+
+independent variables. Specifically, these weights can be interpreted as the percentage of

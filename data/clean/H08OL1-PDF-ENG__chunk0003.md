@@ -1,23 +1,27 @@
-## HBR / Digital Article / Research: The Gender Wage Gap Tipping Point
+---
+source_path: H08OL1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8b219ac2a9cf9157012ae58de9e978befae4e61
+title: H08OL1-PDF-ENG
+---
+# HBR Staff/Pexels
 
-While there are numerous proposed explanations for this persistent
+The gender wage gap has been in existence at least since the U.S.
 
-gender wage gap—including women choosing to work in lower-
+Civil War era, when an 1869 letter to The New York Times exposed
 
-paying jobs or working fewer hours than men, leaving the workforce for
+unfair treatment of women working in government and argued that
 
-caregiving responsibilities, or facing gender bias and discrimination—
+“equal work should command equal pay without regard to the sex of
 
-some have argued that simply increasing the representation of women
+the laborer.” Fast forward 156 years and women still only earn 83 cents
 
-in the workforce is enough to naturally eliminate the gap.
+for every dollar that men make, a number that has barely budged over
 
-We know that this “add women and stir” approach is important and can
+the past two decades and is consistent across OECD countries.
 
-yield some improvements, but it isn’t enough on its own to solve the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-persistent wage gap problem. However, we wondered whether there is
+1
 
-a speciﬁc point where the proportion of women in a given occupation
-
-meaningfully aﬀects how much they’re paid compared to men.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

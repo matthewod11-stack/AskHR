@@ -1,5 +1,11 @@
-# General Mental Health
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: ca63379cb073842989463533b4fac727bfd1c548
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# Insomnia
 
-possibilities for learning and advancement, can also influence the results of employee mental health. According to the study, a toxic workplace culture marked by a heavy workload, shoddy task control, and scarce resources is linked to higher levels of employee burnout. On the other side, a supportive workplace environment that fosters employee wellbeing and offers chances for professional advancement has been linked to lower levels of employee burnout. The study underlines the value of developing a welcoming and inclusive workplace to avoid employee burnout. A workplace culture that prioritizes employee well- being and provides support after traumatic events can reduce the risk of PTSD among employees. This can be achieved through initiatives such as providing counselling services, allowing time off for recovery, and creating a supportive and understanding work environment. By promoting a culture of empathy, understanding, and support, employers can help reduce the risk of PTSD among their employees. Higher rates of substance addiction among employees have been linked to a poor workplace culture defined by low job satisfaction and high stress. A positive workplace culture that promotes work-life balance and provides social support has been linked to better sleep quality and lower rates of insomnia among employees. A negative workplace culture characterized by job insecurity and poor management has been associated with higher rates of suicidal ideation among employees. Employees' overall mental health results have been linked to workplace cultures that encourage social support and employee engagement. A healthy workplace culture can promote job satisfaction and wellbeing, lower stress and burnout, and boost employee morale and motivation. On the other hand, a toxic office environment marked by high stress levels, conflict, and unfavourable relationships between coworkers can have a detrimental effect on employees' mental health, increasing their chance of developing depression, anxiety, and other mental health issues. Employee emotional exhaustion has been linked to toxic workplace cultures marked by heavy workloads, little control over tasks, and scant social support. A protracted period of work-related stress can leave you feeling mentally and physically exhausted, depleted, and worn out. It may result in worsened work output, elevated absenteeism, and plans for turnover.
+- 15. Suicidal Ideation
 
-17.
+16.

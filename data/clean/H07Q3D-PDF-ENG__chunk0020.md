@@ -1,9 +1,9 @@
-# PT
+---
+source_path: H07Q3D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 28fdfec0f89c8faa9c49e1771c5f3b8eb48e6eff
+title: H07Q3D-PDF-ENG
+---
+# SM
 
-Pok Man Tang is an assistant professor at the Terry College of Business in University of Georgia.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Shawn McClean is an assistant professor of management and McCasland Foundation Professor of American Free Enterprise at the University of Oklahoma’s Price College of Business. His research focuses on behavioral ethics, leadership, and the work-life interface.

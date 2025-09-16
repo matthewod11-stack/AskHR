@@ -1,7 +1,17 @@
-## a limited number of stakeholders with well-deﬁned roles. Complex
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0200b3bf50e3cffd18daa544eed172fb5d1f3651
+title: H08IKX-PDF-ENG
+---
+# variables.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- Solvability: Complicated problems have solutions that can be
 
-3
+achieved through the thoughtful application of expertise and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+systematic playbooks. Complex problems lack deﬁnitive solutions and
+
+require adaptive strategies to manage ongoing uncertainties.
+
+- Stakeholder Involvement: Complicated problems typically involve

@@ -1,3 +1,9 @@
-# Discussion
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: 7e5d9bb21ff455b72c99dd0522ec0ea920ca23e8
+title: eur_research_information_portal
+---
+# Group & Organization Management 47(4)
 
-In this article, we have articulated a multi-level model of inclusive leadership in an organizational context. Our theoretical model, which is summarized in Figure 1, is intended to help guide future research as well as practice. We advocated for the intimate interconnection between inclusive leadership and the type of diversity that leaders face. As we have described, inclusive leadership is a process that unfolds at multiple levels of analysis (individual, workgroup, and organizational) and entails a complex set of proactive (ﬁrst- stage moderation) and reactive (second-stage moderation) leadership func- tions. Its complexity begs the question of whether and how inclusive lead- ership can be developed in organizations.
+dominant ones. For example, a dominant narrative may be that the organ- ization’s commitment to the full inclusion of women and parents is evidenced in its adoption of a range of work–life beneﬁts. A careful look at the data might reveal the unexpectedﬁnding thatthe availability of work–life beneﬁts is more strongly associated with positive employee attitudes than their actual utili- zation (Butts, Casper & Yang, 2012). Efforts to understand this may reveal an important counternarrative about how the low proportion of women in the organization makes gender role stereotyping more likely, thereby increasing perceived identity threat and a reluctance to utilize work–life beneﬁts for fear of harming one’s career prospects. Further probing might conﬁrm that work– life beneﬁts exacerbate work–life conﬂict for women (but not men) and their performance, pay, and advancement (Briscoe & adversely affect Kellogg, 2011; Hammer, Neal, Brockwood, & Colton, 2005) except in pockets of the organization where leaders consistently engage in family- supportive supervisor behaviors (Kossek, Pichler, Bodner, & Hammer, 2011).

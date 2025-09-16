@@ -1,25 +1,31 @@
-# Be Specific with Your Questions
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ae8e12346be278b617cd4cc7abd09b3c8ad057d
+title: H08EJN-PDF-ENG
+---
+# something like:
 
-If you work for a leader who always changes their mind, asking “What
+Earlier this quarter, we discussed how valuable it would be to better
 
-do you think?” will put you on the fast track to a mountain of rework.
+collect and theme our customer feedback. We’re missing valuable
 
-When asked for general feedback, most bosses will come up with
+insights that could improve our products. To make this happen, we’ll
 
-something to change or add. It’s your job to point them to where they
+need to engage marketing, sales, and IT and create a system that sticks
 
-can be most helpful. Deﬁning the feedback scope is crucial.
+going forward, so we don’t run into this again. Knowing that’s our end
 
-Let’s go back to our example of the customer feedback project plan.
+goal, I wanted to share a project plan I created with you.
 
-After you do a tee-up, make a speciﬁc feedback ask, such as: “I’m
+Which approach would result in a more thoughtful conversation? Which
 
-interested in your thoughts on the timeline I’ve laid out. Do you think
+is more likely to create a lasting agreement? Which conversation would
 
-it’s realistic or too ambitious?”
+leave you and your boss feeling better?
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+When you’re busy, taking the time to craft a tee-up feels laborious. Yet,
 
-4
+if your leader has a history of back-pedaling, the few minutes you spend
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+crafting a tee-up could save you hours or weeks down the road.

@@ -1,17 +1,17 @@
-# The Current View of Managerial Work
+---
+source_path: successful_vs_effective_real_managers.md
+pages: n/a-n/a
+chunk_id: c537859b48469c1a2facda05120017ff8ccbad4b
+title: successful_vs_effective_real_managers
+---
+## Fred Luthans University of Nebraska, Lincoln
 
-Through the years management has been defined as the tamous French administrator and writer Henri Fayol said, by the functions of planning, organizing, commanding, coordinating, and controlling. Only recently has this classical view of managers been challenged.2 Starting with the land-
+hat do successful managers — those who have been promoted relatively quickly — have in common with effective managers — those who have satisfied, committed subordinates and high performing units? Surprisingly, the answer seems to be that they have little in common. Success- ful managers in what we define as ‘real organizations” — large and small mainstream organizations, mostly in the mushrooming service industry in middle America — are not engaved in the same day-to-day activities as effectrve man- agers in these organizations This is probably the most impor- tant, and certainly the most intriguing, finding of a compre- hensive four-year observational study of managerial work that 1s reported in a recent book by myselt and two col- leagues, titled Real Manayers !
 
-mark work of Henry Mintzberg, observational studies of managerial work have found that the normative functions do not hold up. Mintzberg charged that Fayol and others’ classical view of what managers do was merely ‘folklore 3 On the bass of his observations of five CEOs and their rr atl, Mintzberg concluded that the manager’sjob consisted of many brief and disjointed episodes with people inside and outside the organization. He discounted notions such as
+The startling finding that there 1s a difference between successful and effective managers may mercly confirm for many cynics and “passed over” managers something they have suspected for years. They believe that although manag- ers who are successful (that ts, rapidly promoted) may be astute politicians, they are not necessarily effective Indeed, the so-called successful managers may be the ones who do not in fact take care of people and get high performance trom their units
 
-re tlective planning. Instead of the five Fayolian functions of management, Mintzberg portrayed managers tn terms of a typology of roles. He formulated three interpersonal roles (figurehead, leader, and liaison), three informational roles (monitor or nerve center, disseminator, and spokesman),
+Could this finding explain some of the performance problems facing American organizations today? Could it be that the successful managers, the politically savvy ones who are being rapidly promoted into responsible positions, may not be the effective managers, the ones with satisfied, com- mitted subordinates turning out quantity and quality per- formance in their units?
 
-and four decision-making roles (entrepreneur, disturbance handler, resource allocator, and negotiator). Although Muntzberg based this view of managers on only the five managers he observed and his search of the literature, he did ask, and at least gave the beginning of an answer to, the question of what managers really do
+This article explores the heretofore assumed equiva- lence of “successful managers” and “effective managers ”’ Instead of looking for sophisticated technical or governmen- tal approaches to the performance problems facing today’s organizations, the solution may be as simple as promoting effective managers and learning how they carry out their jobs Maybe its time to turn to the real managers themselves for some answers
 
-The best known other modern view of managerial work 1s provided by John Kotter His description of managers 15 based on his study of 15 successful general managers Like Mintzberg, Kotter challenged the traditional view by con- cluding that managers do not so simply perform the Fayohan
-
-functions, but rather spend most of their time interacting with others. In particular, he found his general managers spent considerable time in meetings getting and giving information Kotter reters to these get-togethers as “network building” Networking accomplishes what Kotter calls a manager's “agenda” — the loosely connected goals and plans addressing the manager’s responsibilities. By obtaining relevant and needed information from his or her networks, the etfective general manager ts able to implement his or her agenda Like Mintzberg, Kotter’s conclusions are based on managerial work from a small sample of elite managers. Nevertheless, his work represents a progressive step in an- swering the question of what managers do.
-
-127
-
-Copyright © 2001. All rights reserved.
+And who are these managers? They are found at all levels and in all types of organizations with titles such as department head, general manager, store manager, market- ing manager, office manager, agency chief, or district man- ager Inother words, maybe the answers to the performance problems facing organizations today can be found tn their own backvards, in the managers themselves in their day-to- day activities

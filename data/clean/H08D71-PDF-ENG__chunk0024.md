@@ -1,19 +1,25 @@
-## Similarly, Chinese EV manufacturers dominate Latin America, holding
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4e4836ebb58ae206bc7e28ca416517e21f91cb3
+title: H08D71-PDF-ENG
+---
+# trucks and other EVs.
 
-an impressive 86% market share. Moreover, Huawei supplies around
+- 2. Its Investment in the Global South
 
-70% of Africa’s 4G network infrastructure.
+China’s strength in emerging markets is reshaping global business
 
-China’s dominance in the Global South is supported by its trillion-dollar
+dynamics. Traditionally, Western multinationals have focused on
 
-Belt and Road Initiative (BRI), an infrastructure initiative that has
+mature markets with highly engineered products at high price points,
 
-signed up more than 150 countries and 30 international organizations.
+while China conquered growth markets.
 
-BRI-driven demand is a huge advantage for Chinese companies, and
+China excels at tailoring aﬀordable, innovative solutions to local
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+needs. For instance, Chinese smartphone companies, led by Transsion
 
-4
+Holdings, Xiaomi, and Huawei, captured 76% of the smartphone
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+market in India and more than 60% of the African market by 2021.

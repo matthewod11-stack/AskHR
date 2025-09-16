@@ -1,15 +1,15 @@
-## own priorities without his continued involvement (problem #3).
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf67fdeba159936ac77e30f0edfa54163a9e3e36
+title: R2505N-PDF-ENG
+---
+## on the landing page ahead of more-fundamental back-end bugs—which
 
-Most leaders I work with understand that they need to delegate, but
+further irritated the team (problem #2). Lastly, he couldn’t then ﬁnd
 
-they don’t always know how to distinguish between the work they
+enough time to do his new job—communicating the strategy to the
 
-should be doing and the work they should be handing oﬀ. And even
+wider company and meeting and developing his new leadership team—
 
-when they get that determination right, they often fail to follow
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+which meant its members couldn’t make eﬀective decisions about their

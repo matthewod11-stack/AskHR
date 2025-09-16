@@ -1,13 +1,11 @@
-## Mental Illness (NAMI), and a former managing director at two global
+---
+source_path: H048KW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 273644d0324f827803c9d2f16b4c37fab94bd973
+title: H048KW-PDF-ENG
+---
+# the korus/unsplash
 
-banks (UBS and Deutsche Bank), I’ve been approached by hundreds of
+Personal health should be a private matter. But when you need to take time off work due to a mental health condition, often it isn’t possible to
 
-colleagues and clients over the past 30 years seeking advice for themselves
-
-or a colleague, friend, or family member on how best to manage
-
-Copyright © 2018 Harvard Business School Publishing Corporation. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+maintain that privacy. As a board member at the National Alliance on

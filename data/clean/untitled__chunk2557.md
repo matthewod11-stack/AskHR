@@ -1,17 +1,11 @@
-# REFERENCES
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 89104e09f527175691888ccb588262aede054224
+title: untitled
+---
+## 21st century. Health Psychology, 16, 411–416.
 
-Alexander, F. (1950). Psychosomatic medicine. New York: Norton.
+Matarazzo, J. D. (1994). Health and behavior: The coming together of science and practice in psychology and medicine after a century of benign neglect. Journal of Clinical Psychology in Medical Settings, 1, 7–39.
 
-American Board of Health Psychology. (1984). By-Laws, Section II.
-
-American Psychological Association Council of Representatives. (1997, August). Archival description of Clinical Health Psychol- ogy as a specialty in professional psychology. Minutes of the Council of Representatives meeting. Chicago, IL.
-
-American Psychological Association Task Force on Health Re- search. (1976). Contributions of psychology to health research: Patterns, problems and potentials (pp. 264–272). Washington, DC: Author.
-
-Anagnostopoulu, T. (1998). The state of health psychology in Greece. In T. McIntyre (Chair), The state of health psychology in Europe: Education and practice. Symposium conducted at the 12th Conference of the European Health Psychology Society, Vienna, Austria.
-
-Anderson, N. B. (Ed.). (1995). Health Psychology, 14(7), 588–656.
-
-Baban, A. (1998). Health psychology in Romania: Present aspects and future trends. In T. McIntyre (Chair), The state of health psychology in Europe: Education and practice. Symposium
-
-461
+Wallston, K. A. (1997). A history of Division 38 (Health Psychology): Healthy, wealthy, and Weiss. In D. A. Dewsburgy (Ed.). Uniﬁcation through division: Histories of the Divisions of the American Psychological Association, Volume II. pp. 239–267. Washington, DC: American Psychological Association.

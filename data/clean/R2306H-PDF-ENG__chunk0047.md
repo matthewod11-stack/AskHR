@@ -1,9 +1,9 @@
-## to other strategists in the organization may
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87c09f7424a5f8803f013eed5c6016985717f723
+title: R2306H-PDF-ENG
+---
+## when integrative solutions across domains
 
-fail to convince the chief technology oﬃcer that a new idea is
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are called for. A CEO that talks exclusively

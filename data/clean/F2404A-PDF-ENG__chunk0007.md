@@ -1,17 +1,11 @@
-## like the Business Model Canvas, the Balanced Scorecard, and more.
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa5aef3644438dc82b7f585ac93dbdb88fa1835e
+title: F2404A-PDF-ENG
+---
+# Alex Eben Meyer
 
-But in a recent study involving young ventures in Europe, one
+There’s no sureﬁre strategy for building a thriving start-up.
 
-technique consistently boosted performance. Firms employing the scientiﬁc method—the centuries-old discipline of formulating, testing,
-
-and tweaking hypotheses—generated more revenue than companies in
-
-a control group did and were more likely to pivot away from unviable
-
-ideas, a routine necessity for early-stage start-ups. And among the top
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Entrepreneurs have launched successful businesses using frameworks

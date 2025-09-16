@@ -1,35 +1,33 @@
-# create tradeoffs (Shizgal, 1999).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: d4024d98124a2c404921e394a634ab6eda908ac3
+title: behavioral_economics_1
+---
+# predictions.
 
-Results consistent with behavioral economics: Other neural evidence is already vaguely consistent
+Seen this way, neuroeconomics is likely to produce three types of findings: Evidence for rational-choice
 
-with behavioral economics ideas like those in Table 1. McClure et al (2004) find evidence of two systems
+processes; evidence supporting behavioral economics processes and parameters (as in Table 1); and evidence of
 
-involved in time discounting, consistent with a quasi-hyperbolic β-δ theory. Sanfey et al (2003) find that low
+different types of constructs which do not fit easily into standard modeling categories.
 
-offers in ultimatum games (compared to near-equal offers) differentially activate emotional areas (insula),
+17 However, as activities become automatic, they often become harder to remember and difficult to teach to others, an important fact for the division of labor in large firms where learning-by-doing creates automaticity.
 
-planning and evaluation areas (dorsolateral prefrontal cortex, DLPFC) and conflict resolution areas (anterior
+29
 
-cingulate). Relative activity in the insula and DLPFC predicts whether offers will be rejected or not. This result
+Results consistent with rational choice: In choice domains where evolution has had a long time to
 
-is consistent with social preferences models in which money and distaste for unfairness or inequality are traded
+sculpt pan-species mechanisms that are crucial for survival (food, sex, and safety), neural circuits which
 
-off (by the cingulate). Hsu et al (2005) compared decisions under ambiguity and risk (using Ellsberg-paradox
+approximate Bayesian rational choice have probably emerged. For example, Platt and Glimcher (1999) find
 
-examples). Ambiguity differentially activates the orbitofrontal cortex (OFC, just above the eye sockets) and the
+neurons in monkey lateral intraparietal cortex (LIP) which fire at a rate that is almost perfectly correlated with
 
-amygdala, a “vigilance” area which responds rapidly to fearful stimuli and is important in emotional processing
+the expected value of an upcoming juice reward, triggered by a monkey eye movement (saccade). Monkeys can
 
-and learning. The fact that OFC activity is stronger and longer-lasting for ambiguous choices implies that
+also learn to approximate mixed-strategies in games, probably using generalized EWA-type reinforcement
 
-people with damage to the OFC might not exhibit typical patterns of ambiguity-aversion. Indeed, Hsu et al find
+algorithms (Lee, McGreevy and Barraclough, 2005). Neuroscientists are also finding neurons that appear to
 
-that they do not.
-
-30
-
-New constructs and ideas: The biggest impact of neuroeconomics will probably not come from
-
-adjudicating debates between rational-choice and behavioral economics; it will come from establishing a
-
-detailed empirical basis for constructs which are new in economics (although some of them could be defined in
+express values of choices (Padoa-Schioppa and Assad, 2005) and potential locations of “neural currency” that

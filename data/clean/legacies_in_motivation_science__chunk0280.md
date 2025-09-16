@@ -1,7 +1,17 @@
-# NY: Ronald.
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: a1565699f1bb280dac992809329d6ca8f4b2b409
+title: legacies_in_motivation_science
+---
+# Ayn Rand. New York, NY: Dutton.
 
-Ryan, T. A., & Smith, P. C. (1954). Principles of industrial psychology. New York, NY: Ronald. Schmidt, F. L. (2013). The economic value of goal setting to employers. In New developments in goal setting and task performance (pp. 16–20). New York, NY: Routledge.
+Pinder, C. C. (1998). Work motivation: Theory, is- sues, and applications. Upper Saddle River, NJ: Prentice Hall.
 
-Scully, J., Kirkpatrick, S., & Locke, E. A. (1995). Locus of knowledge as a determinant of the effects of participation on performance, affect and perceptions. Organizational Behavior and Human Decision Pro- cesses, 61, 276–288. http://dx.doi.org/10.1006/obhd .1995.1022
+Porter, R. L., & Latham, G. P. (2013). The effect of employee learning goals and goal commitment on departmental performance. Journal of Leadership & Organizational Studies, 20, 62–68. http://dx.doi .org/10.1177/1548051812467208
 
-Seijts, G. H., & Latham, G. P. (2005). Learning versus performance goals: When should each be used? Academy of Management Perspectives, 19, 124–131. http://dx.doi.org/10.5465/ame.2005.15841964
+Pritchard, R. D., Young, B. L., Koenig, N., Schmer- ling, D., & Dixon, N. W. (2013). Long-term effects of goal setting on performance with the productiv- ity measurement and enhancement system (ProMES). New developments in goal setting and task performance (pp. 233–245). New York, NY: Routledge.
+
+Ronan, W. W., Latham, G. P., & Kinne, S. B. (1973). The effects of goal setting and supervision on worker behavior in an industrial situation. Journal of Applied Psychology, 58, 302–307. http://dx.doi.org/10.1037/ h0036303
+
+Ryan, T. A. (1970). Intentional behavior. New York,

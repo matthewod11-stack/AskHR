@@ -1,3 +1,9 @@
-# PREMODERN HISTORY OF EMOTION
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2c80b6077a7dcd56fce29e71cfabe4e9e94b892c
+title: untitled
+---
+# REFERENCES 172
 
-Discussions of the emotions in pre-Socratic and later Greek thought centered, like so many of its discussions of complex human consciousness, on their relation to the mysteries of human life and often dealt with the relevance of the emotions to problems of ethics and aesthetics. Secondarily, their con- cerns addressed questions of the control and use of the emo- tions. That approach often stressed the distracting inﬂuences of the emotions—a theme that has continued in a minor key to modern times. To the extent that this distracting effect was due to the bodily, somatic symptoms of the emotions, the
+I shall brieﬂy sketch the prehistory of emotion, describing some of the highlights that led up to the nineteenth century and the adoption by psychologists of modern, “scientiﬁc” at- titudes and goals. The advent of a determinedly scientiﬁc psychology and the age of modernism occupy prominent late- nineteenth-century positions that coincide with a major shift in the psychology of emotion—the contribution of William James. Consequently, I let James lead us into the modern age and its two dominant—and as yet unreconciled—traditions of the organic and mental approaches to emotion. I end with a discussion of the contemporary scene and its precursors. A more extended treatment of such topics in the history of emo- tion as animal studies, the neurophysiology of emotion, phenomenology, and literary allusions may be found in such important secondary sources as Gardiner et al. (1937) and Ruckmick (1936). For a discussion of emotions in the con- text of literature and social history, but not psychology, see Elster (1999).

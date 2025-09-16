@@ -1,17 +1,19 @@
-# professionals.
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f18bdd90b397ff867319f561f2ae93c1fabd819f
+title: H08TQF-PDF-ENG
+---
+## strategies in lockstep with competitive and regulatory changes in their
 
-When evaluating AI vendors, leaders should prioritize those that
+domain. Reliable AI solutions must be able to do the same; they must
 
-understand the underlying structure of professional decision-making
+be able to perpetually recalibrate how new information aﬀects existing
 
-in their domain and can incorporate new information more eﬀectively
+frameworks. This is precisely the kind of contextual reasoning that
 
-than approaches requiring complete model retraining. The same
+generalist models ﬁnd challenging, however. Specialized models, by
 
-principle applies whether you’re assessing solutions that understand
+contrast, are tuned to recognize domain-speciﬁc signals and understand
 
-how new legal precedents apply to particular factual circumstances or
-
-those that can quickly contextualize new ﬁnancial regulatory changes
-
-rather than simply optimizing for returns.
+when seemingly small shifts might have major implications for industry

@@ -1,7 +1,13 @@
-## Geake, A., Farrell, C. and Oliver, A. (1998), A
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 10f072f19cc2479337efed55bf6d5d2df9c5935c
+title: journal_of_european_industrial_training
+---
+## Flint, D. (1999), ``The role of organizational justice
 
-Survey of the Views of HR Practitioners on 360- degree Processes, SHL (UK) Ltd, Thames Ditton.
+in multi-source performance appraisal: theory-based applications and directions for research'', Human Resource Management Review, Vol. 9 No. 1, pp. 1-20.
 
-Grote, D. (1998), ``Painless performance appraisals focus on results, behaviors'', HR Magazine, Vol. 43 No. 11, pp. 52-7.
+Gardner, D. and Pierce, J. (1998), ``Self-esteem and
 
-Haworth, S. (1998), ``The dark side of multi-rater assessments'', HR Magazine, Vol. 43 No. 6, May, pp. 106-12.
+self-efficacy within the organizational context'', Group and Organization Management, Vol. 23 No. 1, March, pp. 48-70.

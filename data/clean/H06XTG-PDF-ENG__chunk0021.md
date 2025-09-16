@@ -1,29 +1,13 @@
-## example of the latter: Its culture of radical transparency and trust
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 182fe708c354a03aecf743ec3f531accd5053990
+title: H06XTG-PDF-ENG
+---
+# more autonomy for her team.
 
-encourages managers to only hire people whom they feel they can
+It’s also helpful to note that there are diﬀerent ways trust can develop.
 
-really trust, and to whom they can therefore feel comfortable giving
+In some cases, it may simply take time to develop naturally, while in
 
-substantial autonomy. This is evident across its global teams — for
-
-example, its business development director in Brazil was given the
-
-authority to sign contracts and agreements on behalf of Netﬂix without
-
-approval from anyone. Similarly, its director of marketing in Italy was
-
-entrusted to use the entire marketing budget for Italy however he
-
-wanted, with no oversight from his American boss.
-
-Effective implementation takes planning and communication.
-
-These three questions can help you determine how much autonomy
-
-to provide your international teams — but of course, ﬁguring this
-
-out is just the ﬁrst step. The next step is to develop a plan to actually implement these diﬀerent levels and types of autonomy around the world. That means working with diﬀerent departments to
-
-specify exactly where and how autonomy should be granted, and then
-
-making sure that information is clearly documented and communicated
+other cases, organizations can build trust into their cultures through concerted, intentional eﬀorts. Netﬂix oﬀers a particularly illustrative

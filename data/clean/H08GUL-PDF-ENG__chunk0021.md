@@ -1,17 +1,19 @@
-## knowledge. These process complex queries and interact with users as
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7693d832f868edda35799f58342c4abca8e80779
+title: H08GUL-PDF-ENG
+---
+## helpful for which type of problem – a recommender system. This
 
-if guided by human experts. Focus on creating a ﬂexible system where
+lowered the personal training costs and boosted the eﬀectiveness of the
 
-your employees can choose agents tailored to their immediate needs
+support oﬀered.
 
-allowing for personalized learning and assistance
+How to do it yourself: If you’re seeking to enhance your problem-
 
-. . .
+solving capabilities, consider implementing AI agents that represent
 
-Today, you can integrate advanced AI technologies to transform how
+speciﬁc areas of expertise. Review the growing number of AI-based
 
-expertise is transferred and utilized within your organization. AI agents
-
-can now support dynamic decision-making systems that adapt in near
-
-real-time, oﬀering you more ﬂexibility and responsiveness in strategic
+platforms for creating agentic systems that can capture diverse expert

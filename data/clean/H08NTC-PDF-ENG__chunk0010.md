@@ -1,13 +1,25 @@
-# plan in reaction to the event.
+---
+source_path: H08NTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d18facd3a3cbd2f3f948f4f4e902cd2bc496efe1
+title: H08NTC-PDF-ENG
+---
+## According to Karren Fink, principal of KAF HR Consulting, companies
 
-You can also inquire about a longer paid leave for those employees
+that don’t have this type of mobile app service can manually pull
 
-who may need more time to deal with the immediate aftermath of
+employees’ contact information from their HRIS system based on city
 
-the disaster. Finding longer-term temporary housing, managing the
+or zip code to create a modern-day phone tree.
 
-bureaucracy of insurance claims, and potentially ﬁnding new schooling
+Time off and paid leave
 
-for kids all take time, not to mention cognitive and emotional capacity.
+Recognize that these employees may need to manage immediate
 
-A longer paid leave can also help alleviate some of the ﬁnancial stress
+impacts, such as evacuations or securing shelter for their families.
+
+Check with your HR department to see if they have a speciﬁc policy for
+
+this type of situation. Fink says that most companies have some form of
+
+paid time oﬀ for these types of emergencies or can create a temporary

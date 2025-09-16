@@ -1,13 +1,11 @@
-## of business administration at The University of Illinois at Urbana-
+---
+source_path: H06D14-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bde99b3f2bc8a225a55500133e2f7d1862d8b8fe
+title: H06D14-PDF-ENG
+---
+# What the Experts Say
 
-Champaign. “It is probably the single most common complaint: ‘I
+Having a colleague who makes mistakes, misses deadlines, or is just
 
-have a colleague who doesn’t do their work and I have to pick up the
-
-slack.’” Just because it’s a common problem doesn’t make it easy to
-
-deal with, however. “You need to go back to your basic organizational
-
-behavior class from business school and pull out every tool in your kit,”
-
-she says. Even then, “there’s no quick solution,” says Brian Uzzi, the
+plain lazy is hardly unusual, says Judith White, teaching professor

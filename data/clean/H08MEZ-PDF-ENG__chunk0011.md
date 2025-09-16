@@ -1,5 +1,11 @@
-## leave policies, pay-transparency requirements, and regulation of AI.
+---
+source_path: H08MEZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6233d9fc4cd939ca4afd2cb31dec0836683a156
+title: H08MEZ-PDF-ENG
+---
+## Four State Laws Companies Should Prepare For
 
-Companies have had to contend with a patchwork of laws in these areas
+We expect state policies in four areas will prove especially challenging
 
-for years, but we expect this trend to worsen in the absence of federal
+for companies to navigate: the use of non-compete agreements, paid-

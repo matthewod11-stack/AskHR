@@ -1,29 +1,17 @@
-## against those preferences, and facilitate consensus-building among
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae8560dbca957bceb2d4d3c105a75ff4d6477573
+title: H08U3Y-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Tackle Collective Decision-Making
 
-participants, AI can be a powerful tool for all leaders facing complex
+trees, and so on—can falter in the face of the scale and complexity of the
 
-decisions, especially those that must be made collaboratively.
+biggest problems that groups and leaders face.
 
-One ﬁeld already taking advantage of AI’s collective decision-making
+This is where AI can help, and is helping. With its ability to analyze vast
 
-support is city planning. Three years ago, we started working with the
+troves of data about the status quo, understand group preferences, run
 
-United States Conference of Mayors to understand how AI is helping
-
-cities solve their most pressing challenges. Along the way, we studied
-
-the story of the German city of Hamburg, which has addressed a
-
-housing crisis exacerbated by an inﬂux of refugees.
-
-In 2016, Hamburg partnered with MIT Media Lab, the creator of an
-
-AI platform called CityScope. The platform allows urban planners to
-
-collect and digest the needs and preferences of swaths of residents,
-
-simulate hundreds of building scenarios, identify hidden opportunities,
-
-and ﬁnd common ground among conﬂicting factions. By demonstrating
-
-how CityScope is working in Hamburg, we hope to show leaders across
+sophisticated simulations to evaluate hundreds of future possibilities

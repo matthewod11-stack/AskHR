@@ -1,19 +1,45 @@
-## and thrive. (The authors of Harvard Business School’s Caring Company
+---
+source_path: H07CJU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9015beddc58e36498419a7a347e224bc0123eb95
+title: H07CJU-PDF-ENG
+---
+## HBR / Digital Article / 5 Things Employers Get Wrong About Caregivers at Work
 
-report have an excellent chart, Figure 15, on the self-perpetuating cycle
+the time blocked on your calendar as “busy,” share the reason you are unavailable. Rather than saying you’ll be out of the oﬃce for “a
 
-that leads to caregivers getting overlooked by companies in this way.)
+family trip,” be honest that you are taking time oﬀ work to help your
 
-One way companies can start proactively addressing active issues for
+mother move into assisted living. Leaders showcasing that they have
 
-caregivers, rather than just trying to stop the bleeding of costly attrition,
+personal lives and care responsibilities can have a huge impact in what
 
-is by investing strongly in Employee Resource Groups as part of overall
+employees feel is “OK” to talk about at work.
 
-DEI initiatives. I’m hearing more and more about employees starting
+Myth #5: If there was a problem with our policies, we’d know about it.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Companies rarely put eﬀort into evaluating policies unless something
 
-6
+prompts them to do so. In a labor market with a low unemployment
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+level, individual employees might rather leave their job than put in the
+
+extra and often uncompensated work of pointing out policy ﬂaws and
+
+going out on a limb to advocate for changes.
+
+According to research from The Rosalynn Carter Institute, close to one
+
+third of caregiver employees have chosen to leave a job at some point
+
+because of their caregiving responsibilities. If someone says in their
+
+exit interview they are leaving “to spend more time with their kids”
+
+or “have more ﬂexibility to help with their elderly mother,” jumping
+
+to the conclusion that this decision was purely personal can obscure
+
+what the company could have done to better support the employee, and
+
+what policies might have made it possible for them to stay on the job

@@ -1,15 +1,31 @@
-## weeklong strategy oﬀ-sites with her top 30 leaders, for example, she
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ffce3d946b7a1c565c790651c7f853db0b6dbc6
+title: R2303G-PDF-ENG
+---
+## HBR / Magazine Article / The Leadership Odyssey
 
-hoped to co-create a new strategic direction. She was aware that the
+more he allowed his team members to help him, the more they were
 
-last time she had tried to give her team more authority over wide-
+willing and able to give him support.
 
-ranging decisions, it had accomplished little—and its members had
+Persisting through (and learning from) setbacks. The line to the ﬁnish
 
-felt frustrated by what they perceived to be a lack of direction. In a
+is rarely straight. As the stakes get higher and performance anxiety
 
-conversation with her coach, Maria recognized that a better approach
+ﬂares up, executives often fall back into the old style that made
 
-would be to retain authority over key decisions but gather input more
+them successful for years. Alternatively, they demonstrate only a naive
 
-inclusively. The process worked at the ﬁrst oﬀ-site and set the stage for a
+understanding of their new skills, which produces less-than-optimal
+
+results. Two steps forward, one step back. The adaptation journey
+
+almost invariably involves backsliding and overshooting. To keep going,
+
+you need to focus on small wins.
+
+One new CEO, Maria, was eager to fully empower her team but fell
+
+into the trap of delegating ownership of too many decisions. At two

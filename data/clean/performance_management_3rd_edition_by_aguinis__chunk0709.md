@@ -1,7 +1,11 @@
-# clients by 5% in December 2012.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: bdb4236d51b7823fe6b16b1bb115f37e8af8cff4
+title: performance_management_3rd_edition_by_aguinis
+---
+## 80% approval from the nonexempt staff in December 2012.
 
-- Team-building consultation. Design and deliver 95% of scheduled team-building sessions with a cost not to exceed $30,000 for an 85% satisfaction rating with team- training sessions by December 2012.
+- Coaching.
 
-- Assessment instrument feedback. Deliver assessment feedback with an 85% approval rating from the coaching clients in December 2012.
-
-- Product improvement.
+Improve the managerial effectiveness scores of executive coaching

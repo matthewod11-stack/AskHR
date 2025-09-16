@@ -1,49 +1,61 @@
-## HBR / Magazine Article / The Feedback Fallacy
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 8a64b6099a98cc5184f2b7730275f1e33e8ff91f
+title: The Feedback Fallacy
+---
+## approaches of Bridgewater and Netﬂix, how hard-edged and fearlessly
 
-your weaknesses, and that the best way to help you, therefore, is for
+candid should we be? Behind those questions, however, is another
 
-them to show you what you cannot see for yourself. We can call this our
+question that we’re missing, and it’s a crucial one. The search for ways to
 
-theory of the source of truth. You do not realize that your suit is shabby,
+give and receive better feedback assumes that feedback is always useful.
 
-that your presentation is boring, or that your voice is grating, so it is up
+But the only reason we’re pursuing it is to help people do better. And
 
-to your colleagues to tell you as plainly as possible “where you stand.” If
+when we examine that—asking, How can we help each person thrive and
 
-they didn’t, you would never know, and this would be bad.
+excel?—we ﬁnd that the answers take us in a diﬀerent direction.
 
-The second belief is that the process of learning is like ﬁlling up an
+To be clear, instruction—telling people what steps to follow or what
 
-empty vessel: You lack certain abilities you need to acquire, so your
+factual knowledge they’re lacking—can be truly useful: That’s why we
 
-colleagues should teach them to you. We can call this our theory of
+have checklists in airplane cockpits and, more recently, in operating
 
-learning. If you’re in sales, how can you possibly close deals if you
+rooms. There is indeed a right way for a nurse to give an injection safely,
 
-don’t learn the competency of “mirroring and matching” the prospect?
+and if you as a novice nurse miss one of the steps, or if you’re unaware
 
-If you’re a teacher, how can you improve if you don’t learn and practice
+of critical facts about a patient’s condition, then someone should tell
 
-the steps in the latest team-teaching technique or “ﬂipped classroom”
+you. But the occasions when the actions or knowledge necessary to
 
-format? The thought is that you can’t—and that you need feedback to
+minimally perform a job can be objectively deﬁned in advance are rare
 
-develop the skills you’re missing.
+and becoming rarer. What we mean by “feedback” is very diﬀerent.
 
-And the third belief is that great performance is universal, analyzable,
+Feedback is about telling people what we think of their performance
 
-and describable, and that once deﬁned, it can be transferred from one
+and how they should do it better—whether they’re giving an eﬀective
 
-person to another, regardless of who each individual is. Hence you can,
+presentation, leading a team, or creating a strategy. And on that, the
 
-with feedback about what excellence looks like, understand where you
+research is clear: Telling people what we think of their performance
 
-fall short of this ideal and then strive to remedy your shortcomings.
+doesn’t help them thrive and excel, and telling people how we think
 
-We can call this our theory of excellence. If you’re a manager, your boss
+they should improve actually hinders learning.
 
-might show you the company’s supervisor-behaviors model, hold you
+Underpinning the current conviction that feedback is an unalloyed
 
-up against it, and tell you what you need to do to more closely hew to it.
+good are three theories that we in the business world commonly accept
 
-If you aspire to lead, your ﬁrm might use a 360-degree feedback tool to
+as truths. The ﬁrst is that other people are more aware than you are of
+
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

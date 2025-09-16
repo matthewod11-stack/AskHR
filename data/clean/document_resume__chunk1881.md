@@ -1,9 +1,17 @@
-# Requirements
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 0d2344c36d4f4d640dc7fbc54721e2f79d1e069b
+title: document_resume
+---
+## Appendix B: Checklist for Legal Requirements*
 
-Determine if content validity strategy is appropriated
+This appendix addresses the major considerations Involved in validating a perfor- It is in the form of a checklist It is not a comprehensive guide to conduct-
 
-Avoid procedures based on traits or contstructs such as "intelligence, aptitude, personality, common sense, Judgement, leadership and spatial ability,"
+mance appraisal system using a content validity strategy for meeting minimum legal requirements. ing in-depth or quantitative studies.
 
-"There should be a Job analysis which includes an analysis of important work behavior(s) required for successful Job performance and their relative importance and if the behavior results in a work product analysis of the work product(s)"
+- The Checklist for Legal Requirements was developed by James A. Buford, Jr. and Bettye B. Burkhalter, Auburn University, AL 36849.
 
-"A (performance appraisal) procedure designed to measure work behavior may be developed specifically from the loo or lop analysis in question "
+177
+
+1 (--) U

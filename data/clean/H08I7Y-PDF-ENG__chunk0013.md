@@ -1,13 +1,13 @@
-# diﬀerent adaptive behaviors.
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a98828500a7b6137359b6bb3f23480fdb9a33fb
+title: H08I7Y-PDF-ENG
+---
+# HBR / Digital Article / 3 Reasons Change Initiatives Fail — and How to Ensure Yours Su…
 
-The ﬁnancial institution that Debora was working with had made no
+- 1) Diagnose your change type.
 
-such assessment. Instead, leadership believed the entire organization
+Before launching a change initiative, determine whether you need to
 
-needed a radical transformation — an exploratory approach, uniformly
-
-applied. This mindset, coupled with unclear departmental needs, led
-
-to 15 overlapping change priorities. The result was a hodgepodge of
-
-initiatives — among them “future-proof talent strategy,” “next-gen
+focus on exploration or exploitation. Diﬀerent change types require

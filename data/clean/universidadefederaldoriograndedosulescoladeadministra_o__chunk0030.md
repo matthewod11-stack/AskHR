@@ -1,5 +1,11 @@
-## força de trabalho se tornou um foco estratégico, pois dela dependem as
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 01860ee6d2853ea5066ee50bf60896df9a629b00
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## As estruturas organizacionais, anteriormente projetadas primordialmente para
 
-organizações para superar as metas estabelecidas. Sem a inovação e as melhorias
+o controle dos empregados, têm sido gradativamente redesenhadas em conjunto
 
-constantes, cruciais na luta pela sobrevivência, estas sucumbem, e não podem
+com gestores e colaboradores, assumindo maiores amplitudes em suas funções. A

@@ -1,7 +1,11 @@
-# Child and Adolescent Psycholegal Issues
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ac50c624d8812229c55d7188ca82020824ca1238
+title: untitled
+---
+# Current Issues in Forensic Psychology
 
-Research advanced in the 1980s and 1990s in a number of areaspertainingtochildren’scapacitiesrelatedtopsycholegal questions. Among the most extensively researched of these questions was children’s capacities to offer reliable testimony as eyewitnesses or as victims (e.g., Ceci & Hembrooke, 1998; Ceci, Toglia, & Ross, 1987). By the 1990s, developmental and experimental psychologists were able to provide signiﬁ- cant information to courts regarding not only children’s capacities to testify but also methods of investigation and questioning that would reduce the likelihood that children’s reports would be contaminated by their experiences between the event and the trial.
+The importance of improving psychologists’ abilities to assess the potential for future violence among offenders and persons with mental illnesses was driven also by legal cases during the 1980s. Most notable among these was Barefoot v. Estelle (1983), in which the U.S. Supreme Court acknowl- edged experts’ inability to provide reliable predictions but, ironically, determined that they should continue to be con- sulted by the courts. Several large-scale research projects to improve our abilities to assess the risk of future violence began in the 1980s and had a major impact on practice when their results emerged in the 1990s. Among these were the work of researchers who developed and validated compre- hensive violence risk assessment tools to provide estimates of likelihood of reoffending among prisoners (e.g., Quinsey, Harris, Rice, & Cormier, 1998), likelihood of future violence related to psychopathy (Hare, 1996), and likelihood of vio- lence among persons with mental disorders after their release from psychiatric hospitals (Steadman et al., 1998).
 
-Children’s capacities to make decisions about matters af- fecting their welfare became a major issue in the courts in the late 1970s in the context of debates about youths’ choices concerning abortion (e.g., Bellotti v. Baird, 1979), medical
-
-407
+Research to improve our conceptualization and assess- ment of abilities related to legal competencies grew exponen- tially throughout the 1980s and 1990s. Reviews of research on competence to stand trial (Roesch, Zapf, Golding, & Skeem, 1999) describe the development of important and basic information regarding the legal process for determining competence, as well as the validation of structured assess- ment tools for obtaining relevant psycholegal information on defendants in such cases (e.g., Poythress et al., 1999). Similar advances were made in substantial research projects culminating in data and assessment tools to improve evalua- tions of competence of patients to consent to treatment (e.g., Grisso & Appelbaum, 1998).

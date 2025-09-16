@@ -1,17 +1,9 @@
-# about the value of trust.
+---
+source_path: H07YWJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8222dcec54a63a2698f1162be6ba4f04e9692fb0
+title: H07YWJ-PDF-ENG
+---
+# Image Source/Getty Images; Adobe Firefly
 
-Employees who trust their organizations show higher engagement,
-
-creativity, and productivity. Those who don’t experience more stress,
-
-increased burnout, and are more likely to quit. Fostering trust,
-
-therefore, represents a crucial imperative for any leader looking to
-
-create a high-performing team.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+If you’re like most seasoned leaders, you’ve heard a lot in recent years

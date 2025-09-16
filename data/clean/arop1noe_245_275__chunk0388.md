@@ -1,3 +1,9 @@
-## online training. Learn. Individ. Differ. 22:46–54
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: c325314969cb3cb99519b12679857b1c393ab591
+title: arop1noe_245_275
+---
+# lation games. Pers. Psychol. 64:489–528
 
-Sitzmann T, Bell BS, Kraiger K, Kanar AM. 2009. A multilevel analysis of the effect of prompting self-
+Sitzmann T. 2012. A theoretical model and analysis of the effect of self-regulation on attrition from voluntary

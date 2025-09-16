@@ -1,25 +1,35 @@
-## HBR / Digital Article / Make Your Workday Work for Your Mental Health
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d26685665ef0d61bc7686f073b584d5522a3562
+title: H087DT-PDF-ENG
+---
+# schedule.
 
-But this will only happen if you’ve got well-established, consistent
+Why? Consistent routines add structure to our days, boosting our
 
-habits. If you sometimes do your focused work at 10 AM, but other times
+sense of control. Our brains get accustomed to performing sequences
 
-you try to do it at 1 PM, you won’t experience the full beneﬁts of how
+of behaviors and eventually start to do these almost on autopilot. A
 
-habits reduce your need for discipline.
+common example of how behaviors become automatic: Within a few
 
-Anyone can beneﬁt from this strategy, but particularly those who have
+months of learning to drive, we all turn on our car, put on our seat belt,
 
-episodic mental health challenges, like depression, or those who go
+release the brake, then look in our mirrors — without really thinking
 
-through periods when their concentration is poor due to anxiety and
+about it. The same thing will happen with your productivity habits if
 
-rumination or worry. If you have strong habits for when you focus
+you’re consistent with when and where you do your job. If you do deep,
 
-on work, it’s more likely you’ll get your work done. Keeping up your
+focused work during the same slot in your day, like 10 AM to noon,
 
-important habits during stressful times can protect you against the risk
+keeping up that habit will become easier and more automatic over time,
 
-of unraveling. It can help you feel steady, stop your conﬁdence from
+even on days when you’re not at your best.
 
-eroding, and ensure you don’t have added stress from piles of undone
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

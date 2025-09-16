@@ -1,11 +1,13 @@
-# An Ultimatum from Headquarters
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7116ccbee10a854dd2fab192457f510639a752ae
+title: R2402M-PDF-ENG
+---
+## collaborative problem-solving with the union impossible in the future.
 
-Early the next morning, as Paulo was surveying the factory ﬂoor and
+He took a deep breath, collecting his thoughts. He was not one to back
 
-pondering his next moves, his phone buzzed to life. On the other end of
+down. He had a battle plan to save the plant. He just needed the soldiers
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to put it into action.

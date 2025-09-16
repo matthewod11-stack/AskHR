@@ -1,7 +1,17 @@
-# own ﬁnancial performance.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf36833ea257d9cdf376eecaa85a3d26030bc1f5
+title: H08TKY-PDF-ENG
+---
+## substantial value for their customers, their employees, and their
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+suppliers. This value can be measured in customers’ willingness-to-pay
 
-34
+(WTP) price for goods and employees’ and suppliers’ willingness-to-sell
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+(WTS) price for their labor or goods. This idea is captured in a simple
+
+graph, called a value stick, which allows companies to map where and
+
+how they create value—and to create the opportunity to increase their

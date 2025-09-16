@@ -1,11 +1,7 @@
-## organization perceive themselves as inherently superior in knowledge
-
-or status, which discourages them from sharing information with other
-
-parts of the organization. These departments believe that their work,
-
-expertise, or contributions are too valuable or complex to be fully
-
-understood or appreciated by others. The “elite” department isolates
-
-itself and restricts information ﬂow to maintain its status and control
+---
+source_path: H08NU2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bee98d5f4d95a76737ddc8ad02f85ca537e04d5
+title: H08NU2-PDF-ENG
+---
+## Elitist silos form when certain departments or groups within an

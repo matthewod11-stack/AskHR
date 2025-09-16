@@ -1,7 +1,7 @@
-# arises organically.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07RKN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d08bdb4cb8621e6c4d4d66d2a27e85015d34362a
+title: H07RKN-PDF-ENG
+---
+## in spontaneous, in-the-moment situations where a pitching opportunity

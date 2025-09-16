@@ -1,21 +1,15 @@
-# EMERGING TRENDS AND NEEDS 323
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 24c6ee6501ff756a4623a2ad2991b6f94686305e
+title: barrickryan_eds_personality_and_work
+---
+## cognitive ability. Journal of Applied Psychology, 84, 376–389.
 
-Ones, D. S., Viswesvaran, C., & Reiss, A. D. (1996). Role of social desir- ability in personality testing for personnel selection: The red her- ring. Journal of Applied Psychology, 81, 660–679.
+Ones, D. S., Hough, L. M., & Viswesvaran, C. (1998, Apr.). Validity and ad- verse impact of personality-based managerial potential scales. Symposium conducted at the Thirteenth Annual Convention of the Society for Industrial and Organizational Psychology, Dallas, TX.
 
-Ones, D. S., Viswesvaran, C., & Schmidt, F. L. (1993). Comprehensive meta-analysis of integrity test validities: Findings and implications for personnel selection and theories of job performance [Mono- graph]. Journal of Applied Psychology, 78, 679–703.
+Ones, D. S., & Viswesvaran, C. (1996, Apr.). What do pre-employment cus- tomer service scales measure? Explorations in construct validity and impli- cations for personnel selection. Paper presented at the Eleventh Annual Conference of the Society for Industrial and Organizational Psy- chology, San Diego, CA.
 
-Paunonen, S. V., & Ashton, M. C. (1998). The structured assessment of per- sonality across cultures. Journal of Cross-Cultural Psychology, 29, 150–170. Penner, L. A., & Finkelstein, M. A. (1998). Dispositional and structural determinants of volunteerism. Journal of Personality and Social Psy- chology, 74, 525–537.
+Ones, D. S., & Viswesvaran, C. (1998). Integrity testing in organizations. In R. W. Grifﬁn, A. O’Leary-Kelly, & J. M. Collins (Eds.), Dysfunc- tional behavior in organizations: Vol. 2. Nonviolent behaviors in organi- zations (pp. 243–276). Greenwich, CT: JAI Press.
 
-Penner, L. A., Fritzsche, B. A., Craiger, J. P., & Freifeld, T. S. (1995). Mea- suring the prosocial personality. In J. N. Butcher & C. D. Spielberger (Eds.), Advances in personality assessment (Vol. 10, pp. 147–163). Mah- wah, NJ: Erlbaum.
-
-Penner, L. A., Midili, A. R., & Kegglemeyer, J. (1997). Beyond job atti- tudes: A personality and social psychology perspective on the causes of organizational citizenship behavior. Human Performance, 10, 111–131.
-
-Ployhardt, R., & Hakel, M. D. (1998). The substantive nature of perfor- mance variability: Predicting interindividual differences in intrain- dividual performance. Personnel Psychology, 51, 859–901.
-
-Ployhart, R. E., Lim, B., & Chan, K. (2001). Exploring relations between typical and maximum performance ratings and the Five Factor Model of personality. Personnel Psychology, 54, 809–843.
-
-Ployhart, R. E., & Schneider, B. (2002). A multilevel perspective on per- sonnel selection: Implications for selection system design, assess- ment, and construct validation. In F. Yammarino & F. Dansereau (Eds.), Research in multi-level issues (Vol. 1, pp. 95–140). New York: Elsevier.
-
-Plutchik, R. (1997). The circumplex as a general model of the structure of emotions and personality. In R. Plutchik & H. R. Conte (Eds.), Circumplex models of personality and emotions (pp. 17–45). Washington, DC: American Psychological Association.
-
-Roberts, B. W., & Hogan, R. T. (Eds.). (2001). Personality psychology in the
+Ones, D. S., & Viswesvaran, C. (2001). Personality at work: Criterion- focused occupational personality scales used in personnel selec- tion. In B. W. Roberts & R. T. Hogan (Eds.), Personality psychology in the workplace (pp. 63–92). Washington, DC: American Psycho- logical Association.

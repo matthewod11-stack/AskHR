@@ -1,7 +1,11 @@
-# missed opportunities.
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed7eff84b75ad5abdbc0fbf37ce297a9fc6afd39
+title: H08FE6-PDF-ENG
+---
+## HBR / Digital Article / The High Costs of Chief Revenue Officer Turnover
 
-- Investor skepticism: Frequent turnover in key positions can signal instability to investors, aﬀecting valuation and access to capital.
+- Strategy whiplash: Frequent changes in commercial strategy can
 
-These long-term eﬀects can create a cycle of underperformance that
-
-becomes increasingly diﬃcult to break.
+confuse both employees and customers, leading to ineﬃciency and

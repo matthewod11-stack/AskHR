@@ -1,7 +1,35 @@
-# competitors.
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68a784ab759f5326a53b3eec697fbec16278c99c
+title: H07T10-PDF-ENG
+---
+# questions.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Interviewer evaluation: In the framing step, you evaluate how they
 
-5
+frame the problem. Do they take the situation at face value or probe to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+get at the essence of the situation? The quality of the questions they ask should lead to determining the information they need, the eﬀort
+
+required, and uncover the essential decision to be made. This ﬁrst step
+
+is all about problem-ﬁnding more than problem-solving.
+
+- 2. Linking
+
+Once they deﬁne the problem, invite them to ask questions about
+
+context. “Given how they framed the scenario, what other information
+
+would they like to know to work towards a recommendation?”
+
+Interviewer evaluation: You are looking to see if their questions lead
+
+them to put the scenario in context. Context is king. To truly put a
+
+situation in context, their questions should enable them to triangulate
+
+it by looking at it in 1) absolute terms, 2) over time, and 3) relative
+
+to what’s going on across the market, with customers or actions from

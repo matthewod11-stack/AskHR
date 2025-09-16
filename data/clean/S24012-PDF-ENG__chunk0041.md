@@ -1,29 +1,19 @@
-## HBR / Spotlight Article / Leaders Must React
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1edcd7c17beeb303509a0015946bb1819dec22e4
+title: S24012-PDF-ENG
+---
+## understatement, and overreaction—CEOs engage in a process that the
 
-people mentally process complex, ambiguous situations. It improves
+organizational theorist Karl Weick called “sensemaking.” This involves
 
-with practice, so most leaders get better at it over time.
+recognizing patterns, gathering various perspectives, and putting things
 
-Sizing. Identifying which quadrant an issue ﬁts into requires leaders to
+into frameworks to make their meaning clear. Sensemaking helps
 
-estimate its magnitude, now and in the future. To tell a whisper warning from a siren song (to choose two of the more diﬃcult categories)
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-they need intuition and the ability to see how a current incident is
+10
 
-similar to or diﬀerent from past events. Sizing requires not only pattern
-
-recognition but also skill at prediction and forecasting—abilities that
-
-tend to grow with experience. Leaders also need to draw heavily on
-
-their emotional intelligence to gauge the signiﬁcance of internal issues
-
-and on their contextual intelligence to assess external events. Although
-
-CEOs should seek help when sizing issues, they should recognize the
-
-biases that the people they turn to may have because of their individual
-
-functions or agendas. For instance, the social media team will likely
-
-overweight an incident involving social media, and the sales team may
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

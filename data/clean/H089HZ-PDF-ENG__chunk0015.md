@@ -1,9 +1,11 @@
-## interests on one side (e.g., the need for innovation, concerns about
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a7bc792eabc4d13a0cbe44110ebef13f8fd80bcd
+title: H089HZ-PDF-ENG
+---
+# enable stretch goals and learning.
 
-culture) and individual interests on the other (e.g., work-life balance,
+When the media presents endless headlines about the “ﬁght,” “battle,”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or “war” over ﬂexible work, it matters. Framed with organizations’

@@ -1,19 +1,17 @@
-# disabilities. HR Magazine, 50(7), 72–77.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1d8b759202f86299bbed5ea1556d91e7da473b99
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Upper Saddle River, NJ: Prentice Hall.
 
-Ansoorian, A. E., & Shultz, K. S. (1997). Th e inﬂ uence of
+Anderson, N., & Witvliet, C. (2008). Fairness reactions to
 
-expertise and gender on physical eﬀ ort ratings. Poster presented at the 12th annual conference of the Society for Industrial and Organizational Psychology, St. Louis, MO.
+personnel selection methods: An international comparison between the Netherlands, the United States, France, Spain, Portugal, and Singapore. International Journal of Selection & Assessment, 16(1), 1–13.
 
-Antonioni, D. (1994). Th e eﬀ ects of feedback accountability
+Anderson, N. H. (1965). Adding versus averaging as a stimulus combination rule in impression formation. Journal of Experimental Psychology, 70, 394–400.
 
-on upward appraisal ratings. Personnel Psychology, 47(2), 349–356.
+Andersson, B. E., & Nilsson, S. G. (1964). Studies in the
 
-Arcuri, A. E., & Lester, D. (1990). Moonlighting and stress in
-
-police oﬃ cers. Psychological Reports, 66, 350.
-
-Argus, K., & Zajack, M. (2008, April). Need for achievement and
-
-leader eﬀ ectiveness: A meta-analysis. Poster presented at the 23rd annual conference of the Society for Industrial and Organizational Psychology, San Francisco, CA.
-
-Armour, S. (2001, June 12). Arbitration’s rise raises fairness issue.
+reliability and validity of the critical incident technique. Journal of Applied Psychology, 48, 398–403. Andrews, L. W. (2005). Hiring people with intellectual

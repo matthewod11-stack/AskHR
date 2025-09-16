@@ -1,19 +1,11 @@
-## learning, whereas attention to our weaknesses smothers it. Neurological
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 5260bc320e75032932114a333a00de4e14d78abf
+title: The Feedback Fallacy
+---
+## HBR / Magazine Article / The Feedback Fallacy
 
-science also shows what happens to us when other people focus on
+Focusing people on their shortcomings doesn’t enable learning; it impairs it.
 
-what’s working within us instead of remediating what isn’t. In one
-
-experiment scientists split students into two groups. To one group they
-
-gave positive coaching, asking the students about their dreams and how
-
-they’d go about achieving them. The scientists probed the other group
-
-about homework and what the students thought they were doing wrong
-
-and needed to ﬁx. While those conversations were happening, the
-
-scientists hooked each student up to a functional magnetic resonance
-
-imaging machine to see which parts of the brain were most activated in
+Second, getting attention to our strengths from others catalyzes

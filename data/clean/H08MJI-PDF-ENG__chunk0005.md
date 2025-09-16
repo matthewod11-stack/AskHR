@@ -1,15 +1,11 @@
-## author of Get Over Yourself: How to Lead and Delegate Effectively for
+---
+source_path: H08MJI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79b992f1e7366b56584ed4fe0c87a2c5d8f5f908
+title: H08MJI-PDF-ENG
+---
+# What the Experts Say
 
-More Time, More Freedom, and More Success. Distrust, control issues,
+Delegating may seem simple, but the real challenge is overcoming the
 
-perfectionism, and fear of failure can keep you tangled in the details or
-
-stuck doing everything on your own. Kerpen suggests focusing on the
-
-bigger picture. Sure, “you’re afraid of losing clients, looking foolish, or
-
-messing up—but can you push through those fears and be courageous
-
-anyway?” After all, the stakes of delegation go beyond completing tasks
-
-or having a productive team. “They’re about how you choose to spend
+emotional hurdles that make it hard to let go, says Dave Kerpen, the

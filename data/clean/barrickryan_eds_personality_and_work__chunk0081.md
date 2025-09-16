@@ -1,9 +1,15 @@
-# 2 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 3fb2da9113b8ecc2bbf38953bb68f17e941dcef2
+title: barrickryan_eds_personality_and_work
+---
+## The Structure of Personality Attributes Gerard Saucier Lewis R. Goldberg
 
-view. It refers simultaneously to characteristics that are (1) ascribed to individuals, (2) stable over time, and (3) psychological in na- ture. Yet it also acknowledges that mechanisms explaining these traits may be difﬁcult to isolate and measure.
+In a classic early textbook, Allport (1937) reviewed deﬁnitions of the concept of personality. He called it “one of the most abstract words in our language” (p. 25) and discussed its broad connotations. All- port catalogued ﬁfty distinct meanings—some from literary, theo- logical, philosophical, juristic, and sociological traditions and others stressing external appearance or psychological constructs. The def- inition he proposed—“personality is the dynamic organization within the individual of those psychophysical systems that determine his unique adjustments to his environment” (p. 48)—was a synthe- sis of several psychological meanings of the concept.
 
-Deﬁnitions make one’s assumptions explicit, so how one de- ﬁnes personality is quite consequential: it affects how one selects variables when studying personality phenomena. What if one were to rely on some of the philosophical deﬁnitions of personality re- viewed by Allport (1937), such as “the quality in every man which makes him worthwhile” (Adler, 1929, p. 8), “individuality which has become objective to itself” (Windelband, 1921, p. 281), or “self- hood” (Crutcher, 1931, p. 75)? With such deﬁnitions, one would hardly care to study the individual’s actual behaviors at all.
+Funder (2001) provided a more down-to-earth rendition: “an individual’s characteristic patterns of thought, emotion, and be- havior, together with the psychological mechanisms—hidden or not—behind those patterns” (p. 2). Few could argue that what Fun- der refers to is not personality; it is reasonably close to a consensual
 
-But Allport’s deﬁnition (1937) also highlights attributes that are seen as residing within the individual. Other ways of deﬁning personality emphasize more external types of attributes, such as the role one assumes or the status one has achieved in society, one’s external appearance (including personal attractiveness), and the reactions of others to the individual as a stimulus—that is, the person’s social stimulus value (see MacKinnon, 1944). In work set- tings, of course, appearances are important. Moreover, Triandis (2001) suggests that in collectivist cultures, external factors are considered more important to personality than are the internal traits emphasized in individualist cultures.
+Work on this chapter was supported by Grant MH-49227 from the National In- stitute of Mental Health, U.S. Public Health Service. For useful feedback on an earlier version of this chapter, we are grateful to Bob Altemeyer, Michael Ashton, Kimberley Barchard, Murray Barrick, Matthias Burisch, Roy D’Andrade, Ian J. Deary, Lisa Di Blas, David Funder, Richard Grucza, Gordon Hall, Robert Hogan, John A. Johnson, Boris Mlaˇci´c, Lawrence Pervin, Ralph Piedmont, Ann M. Ryan, Paul Slovic, and Harry Triandis.
 
-Individual differences in externally deﬁned attributes may be interwoven with individual differences in temperamental traits. Consider terms like magnetic, charming, powerful, and likeable, which seem to be partly internal and partly responses to the individual. Later in the chapter, we explore some structural models for per- sonality that include such attributes.
+1

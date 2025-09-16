@@ -1,15 +1,27 @@
-# default.
+---
+source_path: H08VOD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e43ad7bdd6c38f5ec68743cd5b98a388b428912
+title: H08VOD-PDF-ENG
+---
+# When It’s Still Hard to Let Go
 
-Laura realized her presence in every decision was training her team to
+For some leaders, asking these four questions is enough—but others hesitate. They might see decisions that technically could be delegated,
 
-defer, not develop. Her input—even when minor—reset alignment. She
+but the personal discomfort of letting go still lingers.
 
-saw that her team could succeed without her if she could give them the
+When Laura mapped her work against the four questions, she saw
 
-space to try. This insight helped her loosen her grip.
+several clear opportunities for delegation. But she still wasn’t sure how
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+to step back. I suggested she ask herself these three questions to move
 
-4
+from insight to action:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 1. Why am I the only one who can make this decision?
+
+If your answer is “because I always do,” “because I’m faster,” or “because
+
+they might get it wrong,” it’s worth pausing. This question helps identify
+
+whether you’re holding the decision for strategic reasons—or just by

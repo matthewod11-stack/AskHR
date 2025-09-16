@@ -1,33 +1,21 @@
-## HBR / Magazine Article / Negotiate Like a Pro
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85fb0b6fa4a8d3c04ba65a136b4b74f6c19bc36e
+title: R2402L-PDF-ENG
+---
+# interview.
 
-when possible, because they give the impression that you’re making
+I should note that closed questions, designed to elicit a yes or a no,
 
-assumptions, judging, or rushing to an answer.
+can be helpful too, particularly when you need speciﬁc information—for example, “Do you have another oﬀer on the table?” But too many of
 
-Reﬂecting back, or mirroring the last few words or key phrases used
+them can sound like an interrogation. Leading questions—for example,
 
-by your counterparts, is another way to demonstrate that you’ve
+“Which of our competitors is trying to poach you?”—should be avoided
 
-heard them, keep them talking, and create rapport. In heated, fast-
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-paced negotiations, it can also give you time to calm your emotions
+6
 
-and formulate appropriate responses or open questions. Imagine a
-
-cyberattacker threatening to unleash a virus unless he’s paid by
-
-midnight (“A virus?”) or a supplier yelling at you that your company
-
-should pay its bills faster (“Faster?”).
-
-By carefully choosing which words to mirror, you can also steer the
-
-conversation in the direction you’d like. For example, imagine that
-
-you’re lobbying your boss to add another full-time employee to your
-
-team, and he tells you there’s no room in the budget this ﬁscal year.
-
-“Room in the budget?” would be a reﬂecting response that might
-
-prompt him to elaborate and provide both of you with an opportunity to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

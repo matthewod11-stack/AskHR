@@ -1,15 +1,33 @@
-# leniency.”
+---
+source_path: H06IPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ba602a6150efe7faf7edc864c1099bd1aaa7d22
+title: H06IPO-PDF-ENG
+---
+## about mental health issues in their workplaces.
 
-Instead, deal with underperformance directly. If someone isn’t able
+What if you feel taken advantage of?
 
-to do their job according to expectations, understand why and talk
+If some of your team members have been requesting accommodations
 
-through, together, how you can address the root causes. Hirsh suggests
+over the past year, such as extensions on deadlines, reduced workload,
 
-you consider: “Is it their motivation? Is it stress? Is it the workﬂow? Is
+or time oﬀ to take care of their mental health, it’s possible that you
 
-it a lack of training? Where are things actually hurting here? And then
+might feel taken advantage of, especially if you’ve been giving your job
 
-focus in on that.” Hill suggests that you consider the team as a whole. If
+your all and getting your work done without such accommodations.
 
-the entire team is struggling to be productive, then you’ve got to address
+There’s a temptation, says Hirsh, for managers to think, “If I can endure
+
+this, why can’t you?” But that line of thinking — and any attempt to
+
+compare suﬀering and resilience — isn’t helpful. Everyone’s situation
+
+is unique, of course. So don’t go down the rabbit hole wondering if
+
+particular employees are using the situation to their advantage. As Hill
+
+says, “You’re better oﬀ helping them with their burnout rather than
+
+focusing on whether that person is making inappropriate use of your

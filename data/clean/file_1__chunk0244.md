@@ -1,11 +1,17 @@
-# National Biography of Finland.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 4511b29bd8a60c5e5675f92185929e3c1c2345c4
+title: file_1
+---
+## Thesis. Tampere: Acta Universitatis Tamperensis 600.
 
-Lange, T., 2008. Communist Legacies, Gender and the Impact on Job Satisfaction in Central and Eastern Europe. European Journal of Industrial Relations, 14 (3), 327-346.
+Korvajärvi, P., 2003. Doing Gender – Theoretical and Methodological Considerations. In: E.
 
-Lawrence, D. 1921. Woman in Love. London: M. Secker.
+Gunnarsson et al., eds, Where Have All the Structures Gone? Stockholm: Center for Women’s Studies, Stockholm University, 45–76.
 
-Leary, M., 1999. Making Sense of Self-Esteem Current Directions. Psychological Science, 8
+Kray, L., Thompson, L. and A. Galinsky, 2001: Battle of the sexes: Gender stereotypes and
 
-(1), 32–35.
+reactance in negotiations. Journal of Personality and Social Psychology, 80, 942-58.
 
-Lee, C. and J. Farh, 1999. The effects of gender in organizational justice perception. Journal
+Krogerus, T. 1997. Minna Canth. 100 Faces from Finland. A Biographical Kaleidoscope. The

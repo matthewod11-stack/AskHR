@@ -1,11 +1,9 @@
-## After a week of intensive monitoring, the incentive plan team
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c462d2bad76d2ce0be15a5f35ccc7c34884ea76
+title: R2502J-PDF-ENG
+---
+# account activity.
 
-determined that 15% of the reps were ignoring a large share of their
-
-incoming calls, forcing other team members to pick them up, so that
-
-these reps could focus on commission-paying outbound calls. Team
-
-leaders corrected the behavior with one-on-one discussions, and the
-
-incentive team instituted a process for ﬂagging similar behavior in the
+And recall our call center example of lost-in-segmentation behavior.

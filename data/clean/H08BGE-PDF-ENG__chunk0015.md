@@ -1,13 +1,31 @@
-# “Never quite right” bias
+---
+source_path: H08BGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a28a95a8ed7e8202d1d749df632a5f15466b02b2
+title: H08BGE-PDF-ENG
+---
+# “Pay less” bias
 
-Not having or wanting children is another way women are “never quite
+Many women expressed dismay that they were seen as less deserving
 
-right.” As one professional reported:
+ﬁnancially because they were “not working to support a family.” One
 
-I was told by a previous employer that nonparents aren’t cut out to be
+professional who was single with no kids learned that a male coworker
 
-managers. Previous employers have also assumed I was either over-
+hired at the same level was paid more because “he was married with
 
-or under-invested in my career based on parental status — either
+a family to feed.” After another male colleague wrote to the manager
 
-forgoing children for a career (bad) or pursuing a career until I start
+and got a raise because he was a newlywed and expecting a child, this
+
+woman asked for a pay increase. According to our research participant,
+
+the manager replied that “business was bad, and he would review in six
+
+months’ time.” Another woman’s boss explicitly stated, “I like to hire
+
+women because I can pay them less because they don’t have to support
+
+their family.” There is still a pervasive view that women’s earnings — no
+
+matter their family status — are optional or “just for fun.”

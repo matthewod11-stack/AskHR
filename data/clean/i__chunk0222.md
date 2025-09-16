@@ -1,19 +1,15 @@
-# Different HR analysis:
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 80b13516e1c0c2e564d79289eaaaff0bdff87ec4
+title: i
+---
+## productivity, and the overall financial performance of their company.
 
-David E. Caughlin (2022), in his work, suggests seven applications for HR analytics
+The employee’s health profile of the company may be built. Employee health and safety , for
 
-- 1. Employee Demographic
+instance, in the mining industry, can be predicted by optimizing predictive models for issues
 
-- 2. Employee Surveys
+concerning which employee is more prone to accidents. Where accidents possibly happen, and
 
-- 3. Employee Training
-
-49
-
-- 4. Employee selection
-
-- 5. Employee separation and retention
-
-- 6. Employee performance management
-
-- 7. Employee compensation and rewards
+which equipment is more likely to cause incidents?

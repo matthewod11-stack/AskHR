@@ -1,3 +1,27 @@
-# t
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: c7997bb11b2a6696ffcee1ae04fb5581830fe5f7
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# JOEPP 2,1
 
-A n e r d l A a s e r e T s r
+10
+
+also predict “upstream” engagement related constructs such as job satisfaction and organizational climate.
+
+There are a number of well-developed theoretical frameworks that help explain how human resource management systems can result in competitive advantage. Becker et al.’s (1997) HRM-performance model, for example, explains how the design of HRM systems that support and develop employee skills and motivation will result in increased productivity, creativity and discretionary effort that will in turn result in improved performance, profit, and growth. Similarly, Guest’s (1997) HRM-performance model explains how HRM selection, training, appraisal, reward, job design and involvement practices result in employee effort, cooperation, involvement, and discretionary behaviour that, in turn, result in improved individual performance and increased organizational profit and return on investment. Purcell et al.’s (2003) widely cited AMO framework (A¼abilities, M¼motivation, O¼opportunity to participate) also emphasizes the key role that employee motivation plays in the translation of HR practices into organizational performance and sustained competitive advantage. Posthuma et al.’s (2013) high performance work practices (HPWS) taxonomy and the HPHRP framework (Kehoe and Wright, 2013) also propose links between HRM practices and organizational performance. Selection, performance development, and training and development, as key HRM practices, are common to most of these frameworks. Sun et al. (2007), for example, specified selective staffing, general skills training and ongoing appraisal as key processes in their configuration of HPHRPs. Although socialization is less often explicitly recognized in models linking HR practices and performance (Saks and Gruman, 2014), meta-analyses have confirmed the important role that socialization or “on-boarding” has in shaping individual attitude and performance outcomes (e.g. Saks et al., 2007).
+
+Consistent with the theories and frameworks linking HR practices and organizational performance, there is strong and growing evidence showing that HPWS and HPHRP are related to productivity, voluntary turnover, profitability, growth, innovation, customer service, survival, and firm-level performance (e.g. Combs et al., 2006; Jiang et al., 2012; Wright et al., 2005). Jiang et al.’s (2012) recent meta-analysis, for example, showed that the AMO dimensions of HRM systems influenced firm financial outcomes directly and indirectly through human capital, employee motivation, voluntary turnover, and operational outcomes.
+
+Despite the accumulating evidence supporting the nexus between HPHRPs and organizational performance, it is widely accepted that there is a lack of clarity as to how such relationships unfold (Becker and Huselid, 2006; Guest, 2011). Messersmith et al. (2011), for example, argued that “theorists have lamented a lack of clear understanding of the key mediating factors that link the utilization of HPWS to firm performance” (p. 1105). Becker and Huselid (2006), lamenting the absence of research evidence explaining how HR practices lead to organizational performance, identified the “‘black box’ as the most pressing theoretical challenge facing SHRM” (p. 899). The mediators so far identified have been limited in scope and have not sufficiently acknowledged the influence of intervening variables such as organizational climate, job characteristics, need satisfaction, and motivation. Messersmith et al. (2011), for example, while modelling the mediating role of job satisfaction, commitment and empowerment in the relationship between HPWSs and department performance, did not include the known influence of job resources and job demands on job satisfaction, commitment and performance (Humphrey et al., 2007). Truss et al. (2013) recently proposed that employee engagement may finally provide the key to understanding how effective HRM practice can lead to higher individual and
+
+) T P (
+
+5 1 0 2
+
+h c r a
+
+M 9 0
+
+0 0 : 8 0

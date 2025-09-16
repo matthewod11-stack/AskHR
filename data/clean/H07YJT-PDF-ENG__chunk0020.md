@@ -1,23 +1,19 @@
-# within the company.”
+---
+source_path: H07YJT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee06448fe522e40ff613a62e87d7b38add805790
+title: H07YJT-PDF-ENG
+---
+# visibility to senior leaders.
 
-End on positive note. Yes, the economy’s uncertain. True, your
+As you talk through possibilities, it’s important to emphasize that even
 
-competitors are giving you a run for your money. But as the manager,
+if a promotion isn’t imminent, opportunities for advancement will arise
 
-your job is to rally your team members and inspire them for the year
+once the economy rebounds. “Give them a sense that they play a critical
 
-ahead, says Sedatole.
+role in helping the organization pull through and when things do turn
 
-Wrap up the review on an optimistic note. Don’t be glib, but emphasize
+around, they will personally beneﬁt,” she says. “If they can stick it out
 
-that economic shifts are cyclical. Show gratitude for their hard work
-
-and remind them of “their true north star,” whether it’s delivering
-
-top-notch services or products to customers or coming up with
-
-innovative solutions to problems or creating a supportive work culture.
-
-Recognition matters too, adds Sedatole. “Make sure they understand
-
-that they are valued,” she says. “Tell them: ‘Your work matters and
+and ride the surf, they can become future business leaders and grow

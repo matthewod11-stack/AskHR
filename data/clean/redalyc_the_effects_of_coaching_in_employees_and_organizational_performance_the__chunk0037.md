@@ -1,21 +1,19 @@
-# Hezlett, 2003).
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: cc2eb3d0ade04f1ab6cd25e12a7b1ea29d57a464
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Intangible Capital – http://dx.doi.org/10.3926/ic.586
 
-As noted above, to ensure that the coaching process is effective, both the coach and coachee
+must be willing and able to share information with the coachee and must be ready to dedicate
 
-must make efforts to achieve a number of objectives. The coach must be sufficiently qualified
+the time that the process demands. For the process to proceed correctly, the relationship
 
-and experienced; must know the organisation well; and must be willing to transmit knowledge,
+between the coach and coachee must be based on trust, consistent with the organisational
 
-dedicate time to the process and reproach the coachee when he/she does not perform as
+climate, as highlighted by Shih, Chiang and Chen (2012). Success can also be influenced by
 
-agreed. The coachee, in turn, must be committed to the process and must seek a good partner
+other factors, such as the type of personal relationship that the coach and coachee establish
 
-in the coach by sharing ideas and strategies and trusting the coach.
-
-According to Cropanzano and Mitchell (2005), from social exchange theory the coaching
-
-relationship is reciprocal. The parties establish a normative framework within which to work.
-
-The success of the process will depend on several reasons: the confidentiality within the
-
-process; the consistency of the status of both coach and coachee; and their integrity,
+and the harmony, connection and affinity between them (Hodgetts, 2002; Wanberg, Welsh &

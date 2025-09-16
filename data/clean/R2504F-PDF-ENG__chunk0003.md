@@ -1,35 +1,25 @@
-## HBR / Magazine Article / Your Company Needs an Eldercare Policy
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92eab9c4d86b613fd96f09e6ebb96f7c03e9f637
+title: R2504F-PDF-ENG
+---
+# Karsten Thormaehlen
 
-Consider this remarkable fact: For the ﬁrst time in U.S. history, the
+Decades ago, as women entered the workforce in large numbers,
 
-number of working adults providing care to an older adult (nearly 23
+childcare became a growing challenge for employees, men and women
 
-million) has surpassed the number providing care to preschool children
+alike. Today oﬀering childcare support is integral to any smart
 
-(21 million). Elder caregivers currently make up 14% of the workforce,
+organization’s talent strategy. But a new caregiving challenge has
 
-and that number is only going to increase, because Americans aged 65
+emerged for many workers, and it’s time for companies to get serious
 
-and older are the fastest-growing segment of the population. By 2050
+about helping them address it. That challenge is eldercare.
 
-their numbers are projected to have increased by 30%, from 63 million
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to 82 million, accounting for nearly one-quarter of the total population.
+1
 
-Growing even faster are the “oldest old” (aged 85+), whose numbers are
-
-projected to increase nearly 150% during that period, from 7 million to
-
-17 million. Similar trends prevail in nearly all developed countries and
-
-many developing ones around the world.
-
-Unfortunately, “health spans” (the time people can expect to live free of
-
-disability) are not keeping pace with longer lifespans. Life expectancy
-
-in the United States is around 78 years, but older adults on average now
-
-spend the ﬁnal dozen years of their lives coping with poor health, a
-
-number that has also grown in recent years. As we describe in our recent
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,23 +1,23 @@
-## HBR / Spotlight Article / Create a System to Grow Consistently
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce5ea4f4fecfbb018727d5d2f0633da0d38fb343
+title: S24022-PDF-ENG
+---
+# long-term growth.
 
-desperate for growth, viewing almost every customer acquisition as a
+This approach is fundamentally diﬀerent from the way companies
 
-high-stakes endeavor. They squeeze out short-term growth by extending
+tend to manage growth. Most are stuck on a treadmill, searching for
 
-price discounts, managing the endless churn of customers with new
+growth in places where they have no fundamental advantage (or, worse,
 
-promotions, pushing out innovations that wind up cannibalizing
+are disadvantaged). So even when they manage to increase revenues
 
-existing revenue, or launching dozens of initiatives that they know are
+the cost is often prohibitive. At the extreme, companies become
 
-underfunded or in target areas where they don’t have a diﬀerentiated
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-oﬀering. In the process, they become weaker competitors.
+2
 
-To deliver consistent growth over time, companies must get oﬀ the
-
-treadmill, which invariably requires a big mindset shift: Leaders need
-
-to focus less on tactics for achieving short-term growth and more on
-
-building a fundamental engine of long-term growth.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

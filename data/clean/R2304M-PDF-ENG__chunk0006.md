@@ -1,21 +1,23 @@
-## HBR / Magazine Article / Case Study: How Should a Start-Up Cut Its Burn Rate?
+---
+source_path: R2304M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3434ed9396fd283c94bc17bbf92c066088a0e3ad
+title: R2304M-PDF-ENG
+---
+## choices over the past year, especially the new oﬃce space, even though
 
-hardworking, performance-oriented culture. Another round of layoﬀs
+it’s used less than we’d like. But we don’t know how long it will take
 
-might cause the team to lose faith in his leadership.
+for the markets to stabilize, and personnel costs are still more than 70%
 
-“People haven’t recovered from the last round of layoﬀs,” Tyler replied.
+of your monthly expenses, so you have few other options. You have to eliminate some perks and—I hate to say it—reduce head count again.” 2
 
-“We already have too few people doing too much work, and I’m
+Louis was a persuasive presence on the board, and Tyler had embraced
 
-worried about burnout and talent ﬂight. Other tech companies are
+his perspective in the past. But Tyler was also proud of Puck’s fun,
 
-reducing head count, but tech unemployment overall remains low.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Strong performers have lots of options.”
+2
 
-“I’m content to let the full board discuss this on Friday,” Louis said. “But I want to be transparent: I’m going to advocate for more layoﬀs. In this
-
-environment you have to manage burn rate and runway—everything
-
-else is secondary. If you don’t, there’s a good chance you’ll need more funding soon,3 which you may have to raise at a ﬂat or lower valuation. It will be tough to get investors to participate if they don’t see decisive
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

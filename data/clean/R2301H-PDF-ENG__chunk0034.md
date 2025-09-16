@@ -1,15 +1,11 @@
-# information
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24d5730ea90e2468388139f81a60eff49a1aa18d
+title: R2301H-PDF-ENG
+---
+# LEAN BACK
 
-- When emotions are running high and more data will help ground the team
+Collecting data, analyzing, asking questions, delaying decisions
 
-- When you are working
-
-with introverts who respond better to data than to inspirational rhetoric
-
-- When team discussion
-
-has reached the point of diminishing returns
-
-- When people seem
-
-overwhelmed and more data is obfuscating rather than clarifying thinking
+- When people need more

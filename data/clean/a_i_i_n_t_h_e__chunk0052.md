@@ -1,15 +1,19 @@
-# Product Note: OperatorÇ
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: 22a66f94404d36b54e7deb78f20538b0c2424fdc
+title: a_i_i_n_t_h_e
+---
+# Conclusion
 
-Operator is an example of OpenAI’s agentic approach. Leveraging its own virtual browser, Operator can navigate the web, click on buttons, Êll in forms, and gather data just like a human would¿
+Learning from each other
 
-It can also run processes across a wide range of tools and systems—no need for custom integrations or APIs. Enterprises use it to automate work¶ows that previously required human intervention, such asg
+As the previous examples show, every business is full of opportunities to harness the power of AI for improved outcomes. The use cases may vary by company and industry but the lessons apply across all markets&
 
-Automating software testing and QA using Operator to interact with web appsÄ like a real user, ·agging any UI issues¾
+The common theme: AI deployment bene(cid:30)ts from an open, experimental mindset, backed by rigorous evaluations, and safety guardrails. The companies seeing success aren’t rushing to inject AI models into every work!ow. They’re aligning around high-return, low-eOort use cases, learning as they iterate, then taking that learning into new areas$
 
-Updating systems of record on behalf of users, without technical instructionsÄ or API connections¾
+The results are clear and measurable: faster, more accurate processes; more personalized customer experiences; and more rewarding work, as employees focus on the things peopleX do best&
 
-The result: end-to-end automation, freeing teams from repetitive tasks and boosting eÁciency across the enterprise.
+We’re now seeing companies integrating AI work ows to automate increasingly sophisticated processes—often using tools, resources, and other agents to get things done&
 
-22
-
-AI in the Enterprise
+We’ll continue to report back from the front lines of AI to help guide your own thinking.

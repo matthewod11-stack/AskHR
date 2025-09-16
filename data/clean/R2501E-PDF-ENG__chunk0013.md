@@ -1,33 +1,23 @@
-## HBR / Magazine Article / Leaders Shouldn’t Try to Do It All
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd5093d41ad4850bfa2e0dfc0b8f952dcea3841e
+title: R2501E-PDF-ENG
+---
+# quarter century.”
 
-For A.G. those include Trina Spear, a cofounder and the CEO of FIGS,
+We suggest that overwhelmed leaders follow a four-step process: The first two steps involve getting tasks off their calendars; the second two, putting tasks on.
 
-a designer scrubs and medical apparel company that grew to more
+As we will demonstrate, both of us combined making choices about
 
-than $500 million in sales within a decade and went public in 2021.
+where to play and how to win with a relentless focus on the tasks that
 
-A.G. serves on the board of FIGS and provides advice to Spear in that
+beneﬁted from our comparative advantages. The concept of leading to
 
-capacity. In addition, at her request, he coaches and mentors her on
+win shapes the advice we now give the many leaders we advise.
 
-speciﬁc issues she’s wrestling with.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-For Roger they include Jørgen Vig Knudstorp, the highly successful
+3
 
-CEO of the Lego Group from 2004 through 2016, who saved the
-
-company from imminent bankruptcy and made it the biggest, most
-
-proﬁtable, and most respected toy company in the world, with sales that
-
-have grown by a multiple of 10. In 2017 Knudstorp became executive
-
-chairman, coheading Lego Brand Group with the fourth-generation
-
-owner, Thomas Kristiansen, to coordinate the various Lego branded
-
-assets, including the core business, Lego Foundation, Lego Digital, Lego
-
-Education, the giant Lego House project in the company’s hometown,
-
-and Legoland Parks (which were owned and operated by Merlin
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

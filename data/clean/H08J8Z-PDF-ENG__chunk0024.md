@@ -1,11 +1,9 @@
-# sustainable success.
+---
+source_path: H08J8Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7947366912c5b12f6b3d45d0384708fb3cf8c63
+title: H08J8Z-PDF-ENG
+---
+## informed consent gap, organizations not only uphold ethical standards
 
-This article was originally published online on January 3, 2025.
-
-Rachel Schlund is a Principal Researcher at the University of Chicago, Booth School of Business. You can learn more about her research here.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+but also cultivate a more engaged and loyal workforce, leading to

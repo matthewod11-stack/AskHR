@@ -1,7 +1,9 @@
-## Gazzaniga, M. S., Ivry, R. B., & Mangun, G. (1998). Cognitive neu-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 537b913410776d9334baa8c27a3e8791c8a260cd
+title: untitled
+---
+# New York: Basic Books.
 
-roscience: The biology of the mind. New York: Norton.
-
-Gigerenzer, G., Todd, P. M., & The ABC Research Group. (1999). Simple heuristics that make us smart: Evolution and cognition. New York: Oxford University Press.
-
-Gould, S. J. (1981). The mismeasure of man. New York:
+Gardner, H. (1999). Are there additional intelligences? The case for naturalist,spiritual,andexistentialintelligences.InJ.Kane(Ed.), information, and transformation (pp. 111–131). Education, Upper Saddle River, NJ: Prentice-Hall.

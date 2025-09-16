@@ -1,17 +1,43 @@
-# in their day-to-day jobs.
+---
+source_path: H08VUS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d67cd42f9bf19158ff34fba45a4e7c7bbf523257
+title: H08VUS-PDF-ENG
+---
+## entrenchment,” and the researchers Huy Phan and Bing Hiong Ngu
 
-In a landscape of accelerating global change, tapping into this trait is
+have documented it widely across professions.
 
-emerging as an advantage for leaders. The World Economic Forum’s
+The antidote to this problem is surprisingly simple: Consistently put
 
-2025 Future of Jobs Report highlights creative thinking, ﬂexibility,
+yourself in situations where you are a complete beginner. Consider
 
-curiosity and lifelong learning as skills future employers will prize most.
+taking up a new pursuit outside of work, whether it’s learning a
 
-It also shows that by 2030 almost 40% of workers’ skills will need to
+language, playing an instrument, trying stand-up comedy, or exploring
 
-be updated. As AI takes on more technical and pattern-recognition
+ceramics. Seek out situations in which you have no prior knowledge to
 
-tasks, the human edge will come from creativity and adaptability,
+leverage, no past successes to fall back on, and no external achievement
 
-reinforcing the value of developing this kind of mental plasticity over
+metrics to chase. Those are conditions that will allow your brain to
+
+rewire itself for agility and innovative thinking.
+
+Neuroscience suggests that this practice, which I call strategic
+
+amateurism, is essential to becoming a dynamic leader. Researchers
+
+have shown that when we try something unfamiliar, the brain’s
+
+reward system activates, releasing dopamine and forging fresh
+
+neural connections, which are the building blocks of neuroplasticity.
+
+Experiencing novelty doesn’t just stimulate the brain; it pushes it to
+
+reconﬁgure itself in real time, expanding cognitive ﬂexibility. Other
+
+studies suggest that new challenges can not only accelerate skill
+
+development but also sharpen the range of thinking leaders draw on

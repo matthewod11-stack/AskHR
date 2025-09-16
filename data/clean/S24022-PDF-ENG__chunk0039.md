@@ -1,13 +1,35 @@
-## HBR / Spotlight Article / Create a System to Grow Consistently
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f9b5a672355126648f294bf1aab86de05f9148de
+title: S24022-PDF-ENG
+---
+## Tableau (visual analytics) and Slack (real-time messaging). Salesforce
 
-remarkably consistent, thanks to multiyear subscription agreements.
+continually collects customer insights through its IdeaExchange
 
-The software-as-a-service (SaaS) model also naturally generates data on
+platform, which allows users to propose new features or changes to
 
-how and how much customers are using the software—a key metric for
+products. Trailhead, Salesforce’s learning platform that engages with
 
-measuring ROI. The entire growth system creates network eﬀects that
+users through gamiﬁed training and resources, has been instrumental
 
-lead to not only higher sales of new products and more cross-selling but
+in building a knowledgeable, proﬁcient user community, fueling
 
-also a high retention rate—a number Salesforce publishes to reinforce
+innovation and driving revenue. Salesforce’s basic operating model—
+
+customers pay subscription fees, with charges increasing the more
+
+they use its software—aligns top-line growth with customer success.
+
+Salesforce aims to make it easy for customers to use its products,
+
+and as they do, revenue per customer and the number of multimillion-
+
+dollar accounts naturally grows. What’s more, Salesforce’s revenue is
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+10
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

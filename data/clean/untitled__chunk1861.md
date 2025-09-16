@@ -1,3 +1,11 @@
-# Pavlov
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 76c1825274c47a7861bba710459f8bb152b44700
+title: untitled
+---
+# Typologies of Mental Illness
 
-Pavlov provided one such typology. He theorized that behav- ior, both normal and pathological, is determined by the inter- action of three basic properties of the nervous system. These are the strength of the excitatory and inhibitory processes, the equilibrium of these processes, and their mobility. Pavlov ini- tially based the typology upon observations of dogs in his laboratory, but later extended it to humans.
+The notion, embodied in the humor theory, that mental illness proceeded from an imbalance of some internal biological factor, survived for centuries. Its decline did not lead to the abandonment of typology. New ones followed, each sharing
+
+the assumption that normal personality included basic types, each with speciﬁc biological balance, and each more liable to a speciﬁc kind of psychopathology should the balance be disturbed.

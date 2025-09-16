@@ -1,19 +1,23 @@
-## millions more around the world in an intimate, authentic, and
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fef976a51390c1a595d90c63e9c95600a63c8597
+title: R2501E-PDF-ENG
+---
+## HBR / Magazine Article / Leaders Shouldn’t Try to Do It All
 
-personalized way. Spear used to spend countless hours identifying the
+technology function by hiring an external CIO and dramatically
 
-ideal candidates to serve as ambassadors. She still plays an important
+reducing his own time commitment to both areas. Perhaps most
 
-role in the program, but she has created a ﬁrst-class team that
+important, when he saw that he and Lego Group were both ready for his
 
-now has responsibility for identifying the most inspiring healthcare
+transition to a new role, he led in the hiring of the next CEO, who has
 
-professionals in the world and engaging them on a regular basis to
+very successfully built on Knudstorp’s legacy.
 
-create the best experience for them and to drive the best results for the
+On A.G.’s advice, Trina Spear did much the same. FIGS has grown a
 
-company. Spear estimates that she has saved from 20 to 25 days a year
+loyal following through its ambassador program, which now numbers
 
-by turning the program over to talented subordinates.
-
-- 3. Take on tasks for which you have a strong comparative advantage.
+hundreds of healthcare professionals who help the company reach

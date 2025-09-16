@@ -1,7 +1,21 @@
-# cases.
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 806398b13d5a1ac45c9777578c6ad99fb97236ec
+title: H04HPZ-PDF-ENG
+---
+# of discrimination or harassment.
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+As shown below, judicial deference to symbolic structures increased
 
-7
+steadily over time, beginning in the lower courts and traveling up the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+judicial hierarchy. It originated in federal district court but increased
+
+dramatically in the circuit courts of appeals beginning in 1980.
+
+Deference increased substantially again after 2000 in both the district
+
+and circuit courts. By 2014, judges were deferring to symbolic structures
+
+in about 70% of district court cases and nearly 50% of circuit court

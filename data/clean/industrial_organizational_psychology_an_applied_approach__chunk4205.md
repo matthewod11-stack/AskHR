@@ -1,9 +1,7 @@
-# IPMA News, pp. 13–14.
-
-Glebbeek, A. C., & Bax, E. H. (2004). Is high employee turnover
-
-really harmful? A empirical test using company records. Academy of Management Journal, 47(2), 277–286.
-
-Glotz, B., & Ruotolo, C. (2006, February). Proﬁ ling the workplace
-
-killer. Paper presented at the annual Graduate Conference in Industrial-Organizational Psychology and Organizational Behavior, Fairfax, VA.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a92fe1a29d8f386da594c969c0728ccc75614e91
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Glanz, B. A. (1997, March). Spread contagious enthusiasm.

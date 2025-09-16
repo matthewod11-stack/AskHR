@@ -1,15 +1,15 @@
-## Farh, J., Dobbins, G. A., & Cheng, B. S. (1991). Cultural relativity
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 75d086ec60f25ccee2bf5685a359fd8414e45356
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Journal of Applied Psychology, 85(5), 779–783.
 
-in action: A comparison of self-ratings made by Chinese and U.S. workers. Personnel Psychology, 44(1), 129–147.
+Falcone, P. (2002). Fire my assistant now! HR Magazine, 47(5),
 
-Farh, J., & Werbel, J. D. (1986). Eﬀ ects of purpose of the appraisal and expectation of validation on self-appraisal leniency. Journal of Applied Psychology, 71, 527–529.
+105–111.
 
-Farr, J. L. (1973). Response requirements and primacy-recency eﬀ ects in a simulated selection interview. Journal of Applied Psychology, 57(3), 228–232.
+Faragher, E. B., Cass, M., & Cooper, C. L. (2005). Th e relationship between job satisfaction and health: A meta-analysis. Occupational and Environmental Medicine, 62, 105–112.
 
-Farrell, D., & Stamm, C. L. (1988). Meta-analysis of the correlates of employee absence. Human Relations, 41, 211–227. Fay, C. H., & Latham, G. P. (1982). Eﬀ ects of training and rating scales on rating errors. Personnel Psychology, 35, 105–116.
-
-FDS (2007). What workers want: A worldwide study of attitudes to work and work-life balance. London: FDS International.
-
-Feight, L., Ferguson, G., Rodriguez, C., & Simons, C. (2006,
-
-February). Can’t get no . . . A meta-analysis of equity theory and its eﬀ ects on satisfaction and motivation. Paper presented at the annual Graduate Student Conference in Industrial-Organizational Psychology and Organizational Behavior, Fairfax, VA.
+Farber, B. J. (1994). Sales managers: Get real! Real play, not role play, is the best training you can give your salespeople. Sales & Marketing Management, 146(10), 25–26.

@@ -1,21 +1,15 @@
-# a diﬀerent model?
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c44faa39888d77bb10a338c701e8cb60398bcb0
+title: H07T7V-PDF-ENG
+---
+## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
 
-ANDREW MCAFEE:
+the economy, and it’s pretty demonstrably powerful. The label that I
 
-Jobs has some really classic non-geek characteristics. He believed that
+hang on that is the geek way.
 
-he knew best. He had a very, very large ego. He also screamed at his
+ADI IGNATIUS:
 
-subordinates all the time, which I think is absolutely not what an open
-
-leader does.
-
-However, I interviewed Eric Schmidt for the book, and I brought this up
-
-to him and he said, “Look, I was on Apple’s board for a while. I knew
-
-Steve pretty well.” He said Steve was a tough person in all those ways,
-
-but he learned that if you want to stay on top, you have to listen to
-
-the people around you. You have to stop thinking that you have all the
+Was Steve Jobs a geek, and did his Apple follow the geek way or was that

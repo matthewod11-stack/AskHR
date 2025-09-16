@@ -1,5 +1,27 @@
-## Vartiainen. Princeton, Princeton University Press.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 86530c8350b41e80a3f08a3c9af5252d3fd49be5
+title: behavioral_economics_1
+---
+# Experimental Economics 1(1): 9-41.
 
-Mullainathan, S. and R. Thaler (2000). Behavioral Economics Entry in International Encyclopedia of the Social
+Miller, E. M. (1977). "Risk, Uncertainty, and Divergence of Opinion." Journal of Finance 32(4): 1151-1168.
 
-and Behavioral Sciences. International Encyclopedia of the Social and Behavioral Sciences, Massachusetts
+44
+
+Modigliani, F. and R. Cohn (1979). "Inflation, rational valuation, and the market." Financial Analysts Journal
+
+35(3): 24-44.
+
+Mukerji, S. and J. M. Tallon (2004). An Overview of Economic Applications of David Schmeidler's Models Of
+
+Decision Making Under Uncertainty. Uncertainty in Economic Theory: A Collection of Essays in Honor of
+
+David Schmeidler's 65th Birthday. I. Gilboa, Routledge.
+
+Mullainathan, S. (2002). Thinking Through Categories, MIT.
+
+Mullainathan, S. (in press). Psychology and Development Economics. Yrjo Jahnsson Foundation 50th
+
+Anniversary Conference on Economics Institutions and Behavioral Economics. P. Diamond and H.

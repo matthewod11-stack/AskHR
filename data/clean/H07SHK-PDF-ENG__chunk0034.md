@@ -1,21 +1,13 @@
-## HBR / Digital Article / The Myth of the CEO as Ultimate Decision Maker
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c4ef67730a277a1a01c1e935f280539c345aa9c
+title: H07SHK-PDF-ENG
+---
+## with individual directors in one-on-one conversations between full
 
-board meetings. Making the right choices about the level of personal
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-involvement is key to a CEO’s overall eﬀectiveness.
+7
 
-In conclusion, the role of the CEO is not about making every decision,
-
-but rather about creating an environment in which decisions are
-
-made eﬀectively. By shaping decisions rather than making them, CEOs
-
-empower their teams, foster agility, and drive the organization toward
-
-success. The CEO is more of a conductor, orchestrating the many parts
-
-to produce harmonious results, than a dictator issuing commands. It’s a
-
-shift in perspective that is required when leaders assume this pinnacle
-
-position and can be transformative for many leaders and organizations
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

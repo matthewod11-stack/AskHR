@@ -1,11 +1,19 @@
-## cost containment demands from ﬁnance or innovation demands from
+---
+source_path: H08V5N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e39a2b5f4b3e201dc0c928ddf9791633e03b284c
+title: H08V5N-PDF-ENG
+---
+# company capabilities.
 
-strategy; more generally, executives may lack the visibility they need
+The result? Crossed wires, muddled priorities, and leaders ﬂying
 
-into the trade-oﬀs they have to make.
+blind when making strategic decisions. This misalignment creates
 
-Here I suggest a simple hack to make sure your strategic plan and
+confusion, weakens execution, and fuels internal conﬂict. A strategy
 
-budget act in concert, empowering you to truly assess the ﬁnancial
+team expecting funding for long-term digital initiatives might come
 
-impact of strategic decisions. It involves four steps.
+up against a ﬁnance team expecting measurable returns this year;
+
+middle managers might not not know whose directives to follow –

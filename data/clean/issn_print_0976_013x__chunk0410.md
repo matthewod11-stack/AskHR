@@ -1,5 +1,11 @@
-# in Management, 13(3), 675-
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: eedf90333f9141299f00b3c7ac11bfb93bac1996
+title: issn_print_0976_013x
+---
+# REFERENCES
 
-- 697. h(cid:425)ps://doi.org/10.1108/JM2-02-2017-0023
+Anjum, A., & Ming, X. (2018). Comba(cid:415)ng toxic workplace environment: An empirical study in
 
-Bhat, S. A., & Patni, P. (2023). A review: Impact of mo(cid:415)va(cid:415)on and toxic work around job
+the context of Pakistan. Journal of Modelling

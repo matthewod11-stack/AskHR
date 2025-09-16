@@ -1,19 +1,21 @@
-# How Project Selection Often Happens
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d7a7fb174a71227557e95b4575b71134c667984
+title: H08GJ6-PDF-ENG
+---
+## HBR / Digital Article / How to Decide Which Innovation Projects to Greenlight
 
-When selecting new innovation projects, some committees prize
+candidate projects in their preferred order. You then tally projects’
 
-consensus and thus end up funding only ideas whose success is plain
+ranks and fund as many of the best placed projects as your budget
 
-to see, which is often an incremental innovation. Venture capitalists
+permits. The ranking rule selects portfolios that on average outperform
 
-looking for the next big thing might do the opposite, picking projects on
+by 10-20% those selected by simple voting, depending on the available
 
-which they disagree.
+budget, expertise, and project proﬁles. Adopting a ranking procedure
 
-In our research, we focus on decision rules that are neutral, placing
+can help you make the most of the collective perspectives that the
 
-equal weight on avoiding costly ﬂops and foregone opportunities.
-
-A ﬁrst aspect to consider for your choice of decision rule is generally
-
-the budget and the number of projects you can aﬀord to fund in
+committee brings to the table when selecting innovation.

@@ -1,7 +1,9 @@
-# r o
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: d8f3fda040c4ed6622fece88a012148228087002
+title: legacies_in_motivation_science
+---
+# f o
 
-n o i t a i c o s s A
-
-l a c i g o l o h c y s P
-
-n a c i r e m A e h t
+e n o

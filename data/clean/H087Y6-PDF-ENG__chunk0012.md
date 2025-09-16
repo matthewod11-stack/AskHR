@@ -1,15 +1,11 @@
-# provisions.
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f57b848de477b881af086db30776039e883cbf0f
+title: H087Y6-PDF-ENG
+---
+## HBR / Digital Article / The FTC’s Noncompete Ban Was Long Overdue
 
-For example, if an NDA includes any information that “relates to”
+that operate as de facto noncompetes, including overly broad NDAs,
 
-the industry, or bars the use of any information the worker obtained
-
-during their employment, including publicly available information,
-
-such agreements are so broad and beyond the deﬁnition of a trade
-
-secret that they are the functional equivalents of noncompetes.
-
-The ﬁnal rule does create a carveout for existing noncompete
-
-agreements with senior executives — those earning over $151,164 who
+nonsolicitation clauses, and TRAPs — training repayment agreement

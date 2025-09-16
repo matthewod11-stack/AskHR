@@ -1,29 +1,23 @@
-## on Twitter, 14,625 on LinkedIn, and 40,551 comments across 10 news
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3385adb9f9bf890519b332aeb143715d551a68a3
+title: H08H7H-PDF-ENG
+---
+# professionally.
 
-stories related to interpersonal learning. We found that employees
+In our ﬁrst study, we sought to examine employees’ real-life experiences
 
-learned a variety of nonwork- and work-related information, including
+regarding what they learn about their colleagues when working from
 
-how their coworkers parent, what their coworkers do in their free time,
+home. We asked 286 full-time, U.S.-based employees to describe a time
 
-and what their coworkers’ religion or political values are.
+when they were working from home and learned something new about
 
-Building on this qualitative study, we designed experiments to test
+their coworkers. What did they learn? How did they learn it? How did it
 
-our hypotheses. We asked 1,244 full-time, U.S.-based employees in
+make them feel about their colleague?
 
-one study and 413 in another study to watch a simulated video
+We also systematically analyzed online comments related to remote
 
-meeting alongside a new virtual “coworker” and to collaborate with this
-
-coworker on a task during that meeting. Over the course of the call,
-
-participants learned various work and nonwork information about their new colleague in diﬀerent ways. For example, some participants learned
-
-that their coworker had a dog or child because the dog or child ran into
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+work and interpersonal relationships, including 8,150 on Reddit, 5,772

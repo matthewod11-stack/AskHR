@@ -1,9 +1,13 @@
-## HBR / Digital Article / Research: Why Inclusive Hiring Must Include Refugees
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9dd78d94097d8ad54443754e1194f1cd81fdfc0a
+title: H08BKU-PDF-ENG
+---
+# too cumbersome and costly.
 
-Our study, and evidence from across the world, demonstrates that
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-these negative assumptions stand in contrast with the experience of
+2
 
-employers who have recruited refugees and raved about the beneﬁts
-
-they provided to the workforce, including outcomes like increased
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

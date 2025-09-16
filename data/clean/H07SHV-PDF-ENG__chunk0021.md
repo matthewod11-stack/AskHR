@@ -1,17 +1,17 @@
-# ourselves?
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e39b31e18be92677e10209babddc4a88dd1b25ca
+title: H07SHV-PDF-ENG
+---
+# stuﬀ.
 
-ARTHUR C. BROOKS:
+ADI IGNATIUS:
 
-To a certain extent, there’s a set of biases that are at play here. For
+If you’re right, then there must be some self-deception here. If you ask
 
-example, one of the things we ﬁnd is that when you’re really lonely, it
+people, they like hybrid. They like working from home. They talk about
 
-impairs the executive centers of your brain. We know this. This is the
+it giving them a better work-life balance, all of that we think would
 
-reason that when you’re really sad and lonely, you cocoon on the couch
-
-with a comfortable blanket streaming Netﬂix and eating Haagen-Dazs.
-
-What you should do is get up and go outside and get some vitamin D
-
-and ride your bike and call your friends, but you’re impaired at that
+translate into fulﬁllment and happiness. But do you think we’re fooling

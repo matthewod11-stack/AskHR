@@ -1,27 +1,13 @@
-## HBR / Digital Article / Hybrid Work Has Changed Meetings Forever
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 745438febb09d151f48bbbf1c9d1ef191e1a21a2
+title: H088OR-PDF-ENG
+---
+# in the hundreds of billions of dollars.
 
-While meeting ineﬃciency was certainly an issue before the pandemic,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-it should be no surprise that the sudden switch to virtual collaboration
+1
 
-exacerbated the problem. However, that switch had a beneﬁcial side eﬀect: virtual meetings produce data. At today’s scale, that data holds
-
-meaningful insights — touching on productivity, engagement, and even
-
-retention — and can be applied in a variety of beneﬁcial ways. For
-
-organizations looking to improve their meeting culture, collaboration
-
-data is a valuable but largely untapped resource.
-
-At Vyopta — a monitoring and analytics platform for enterprise
-
-collaboration — we work directly with companies to help them realize
-
-value from their meeting data. Additionally, using a large dataset, we
-
-routinely analyze global collaboration metrics to establish benchmarks
-
-and identify signiﬁcant trends. This article will cover key insights from a recent analysis and oﬀer examples of how organizations have used
-
-data to improve their meetings.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,9 @@
-## for a trivial mistake by email leads to more-favorable customer
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c7cb5e32439cff2eee58f5b0581067e0c28070d
+title: H08UMD-PDF-ENG
+---
+# brand?
 
-evaluations than not apologizing for it. In one study the researchers
-
-partnered with Sacha, a large footwear company that operates in
-
-Belgium, Germany, Luxembourg, and the Netherlands and has a strong
-
-online presence. Sacha sent out two versions of an email campaign:
-
-In one the subject line was “sorry” and in the other it was “good
+Researchers conducted four studies to determine whether apologizing

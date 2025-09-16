@@ -1,11 +1,11 @@
-## — the frequency and degree of innovation and risk that employees
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14fe22ac76fdb53bdd3aa8ae9f0182c82ae61353
+title: H07RXW-PDF-ENG
+---
+# Treat employees like intrapreneurs.
 
-undertake — that was nearly 3x higher than their peers. They were
+Our research showed that ﬁrms whose employees feel they are treated
 
-also more likely to outperform their competition (1.4x) and were better
-
-and recruiting and retaining top talent (1.6x). Treating employees like
-
-intrapreneurs can involve rewarding proactive behavior, encouraging
-
-them to get close to customers, and celebrating ideas and even failed
+more like intrapreneurs enjoyed a level of entrepreneurial intensity

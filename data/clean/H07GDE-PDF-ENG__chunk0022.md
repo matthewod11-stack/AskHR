@@ -1,9 +1,27 @@
-# KJ
+---
+source_path: H07GDE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 482168aa188e694feaa958e404f97c63b4de722a
+title: H07GDE-PDF-ENG
+---
+# sound less conﬁdent.
 
-Kathryn Janicek is a 3-time Emmy-winning media and public speaking trainer who prepares leaders for all on-camera, media, public speaking engagements, and high-stakes investor and board meetings. As the founder of Kathryn Janicek Productions, she trains Fortune 500 executives, renowned physicians, and founders of fast- growing startups.
+Supporting employees when they need it most.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Layoﬀs are never easy; they’re even harder when you’re doing them
 
-5
+right, by thinking about the people who will be impacted by job losses and insecurity. Adding in to the mix the diﬃculties of virtual
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+communication makes it even harder.
+
+Yet, with the proper preparation, mindset, and body language, your leadership team can deliver diﬃcult news eﬀectively and
+
+compassionately. When you deliver the message well, former employees
+
+will feel supported and respected. Meanwhile, the remaining employees
+
+will feel motivated to keep working because you made them trust the
+
+company is going in the right direction.
+
+This article was originally published online on January 26, 2023.

@@ -1,13 +1,23 @@
-# HBR / Digital Article / What Demographics Forms Say About Inclusivity at Your Compa…
+---
+source_path: H082RI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00420bd51ab47f6c56033a43c6fee04546e7e565
+title: H082RI-PDF-ENG
+---
+## an experiment with U.S. undergraduate and graduate students who
 
-identity but omitting the MENA category as an option. In another
+were part of an Arab/Arab American student organization. Students
 
-condition, the MENA category was included as an option. Hakim
+completed a survey that ﬁrst asked for demographic information and
 
-and Branscombe found that, particularly for those students who self-
+then asked how they felt Americans perceive Arab Americans. In the
 
-identify as MENA and also strongly identify as American, ﬁlling out a
+demographic portion, students were randomly assigned to one of two
 
-demographic form that omitted the MENA racial identity led them to
+conditions. In one condition, students saw a question requesting racial
 
-feel less sure that broader American society respects Arab American
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

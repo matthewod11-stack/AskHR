@@ -1,17 +1,29 @@
-## HBR / Magazine Article / Precedents Thinking
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52d361612557719d2f826e19b43b56a2f5c1cc78
+title: R2502D-PDF-ENG
+---
+# solutions.”
 
-get its items placed near hummus rather than with crackers. Kneller’s
+Search both near and far for precedents. When applying precedents
 
-team worked with grocers to position Sweet Nothings in the frozen fruit
+thinking, inspiration from both within your domain and outside it is
 
-section, which led to rapid adoption.
+essential. Jake Kneller is a cofounder of Sweet Nothings, a “Startup
 
-Sweet Nothings’ inspiration came from a nearby precedent, but
+Garage” venture that pioneered the concept of frozen smoothies in
 
-faraway precedents can be even more powerful. For example, the
+grocery stores. He hit a roadblock when trying to sell through national
 
-mathematician Ada Lovelace laid the foundation for modern computing
+grocery chains because his products were placed in the same section as
 
-when she recognized that the way looming machines used punch cards
+ice creams, which are not perceived as healthful. To solve that challenge
 
-to complete textile patterns could be used to specify more-general
+Kneller drew inspiration from Stacy’s Pita Chips, which had managed to
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

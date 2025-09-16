@@ -1,15 +1,19 @@
-## ual. Odessa, FL: Psychological Assessment Resources.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: dd1e74f7b190d13fc72ba3b30df7220ed51d7a35
+title: barrickryan_eds_personality_and_work
+---
+## workplace. Annual Review of Psychology, 53, 279–307.
 
-Davidson, R. J. (1995). Cerebral asymmetry, emotion and affective style. In R. J. Davidson & K. Hugdahl (Eds.), Brain asymmetry (pp. 361–387). Cambridge, MA: MIT Press.
+Brockner, J., & Higgins, E. T. (2001). Regulatory focus theory: Implica- tions for the study of emotions at work. Organizational Behavior and Human Decision Processes, 86, 35–66.
 
-Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to mo-
+Bryant, F. B., Yarnold, P. R., & Grim, L. G. (1996). Towards a measure- ment model of the Affect Intensity Measure: A three-factor model. Journal of Research in Personality, 30, 223–247.
 
-tivation and personality. Psychological Review, 95, 256–273.
+Buunk, B. P., & Verhoeven, K. (1991). Companionship and support at work: A microanalysis of the stress-reducing feature of social inter- action. Basic and Applied Social Psychology, 12, 243–258.
 
-Fisher, C. D. (2000). Mood and emotions while working: Missing pieces
+Carver, C. S., & White, T. L. (1994). Behavioral inhibition, behavioral ac- tivation, and affective responses to impending reward and punish- ment: The BIS/BAS Scales. Journal of Personality and Social Psychology, 67, 319–333.
 
-of job satisfaction? Journal of Organizational Behavior, 21, 185–202.
+Chen, P. Y., & Spector, P. E. (1991). Negative affectivity as the underlying cause of correlations between stressors and strains. Journal of Applied Psychology, 76, 398–407.
 
-Fredrickson, B. L. (2000). Extracting meaning from past affective expe- riences: The importance of peaks, ends, and speciﬁc emotions. Cog- nition and Emotion, 14, 577–606.
-
-Friedman, H. S., Prince, L. M., Riggio, R. E., & DiMatteo, M. R. (1980). Understanding and assessing nonverbal expressiveness: The Affec-
+Costa, P. T., & McCrae, R. R. (1985). The NEO Personality Inventory man-

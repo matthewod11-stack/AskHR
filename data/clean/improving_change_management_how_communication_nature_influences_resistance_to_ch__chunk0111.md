@@ -1,23 +1,33 @@
-## explicit endorsement of dialogic communications.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 8e6b1477d1aee18127dcdddc2ef41d3c8d3f04b1
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# X General Director)
 
-“The success it's there, we're selling more and more. …. So this is the first
+It is clear also, that it’s not only a communication department task, but an HR
 
-success, we're selling a lot. The second, I think is the way it was done. The
+challenge, in the sense that communication nature is institutionally shaped and also
 
-decisions were postponed(P), and some sort of pushing sometimes happened in
+individually shaped.
 
-one area or another, but the collegial decisions(M), even if you did not agree on
+This constant evaluation and care about the change process seems to be
 
-the whole decision, you have signed below, and then you took for your group.
+ongoing, as many respondents highlighted they are still not mastering the identification
 
-And over time this was proving to be the best decision. And this helped to gee,
+of when there are really dialogic opportunities and where it is just monologic
 
-really helped, I think is the greatest success. And the other was the freedom we
+communication. They’re still not comfortable with the explicit drive of being dialogic and
 
-had, because while we have here faced some walls, on the other side had allThe
+the paradoxical need to conform - as some monologic communication (from standard
 
-Group employees"they are doing something that cannot be done in the group“.
+procedures and high control) is naturally expected to exist after acquisition. It is worth
 
-And we found a middle path formula(I) ... do not ask me how! It was coming up,
+noticing that monologic is named as information, strongly adherent to the concept
 
-things were coming up and we were addressing the extent possible. And then I
+earlier treated in the literature review.
+
+At Organization X it seems the change process is perceived as being successful,
+
+with what could be considered good levels of resistance to change, due to the very

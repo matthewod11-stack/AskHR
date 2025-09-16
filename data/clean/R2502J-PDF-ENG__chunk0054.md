@@ -1,17 +1,11 @@
-## monthly to quarterly, the behavior would most likely continue—but
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a4937172b54da8adf44878cf3718a564a9a0ee7
+title: R2502J-PDF-ENG
+---
+## HBR / Magazine Article / How Salespeople Game the System
 
-reps would sit on deals for weeks or longer. That would lengthen the
+plan, sales reps optimized their commission pay by sitting on deals
 
-sales cycle, lower sales velocity, and lower sales growth. The new plan
-
-was rejected, and managers kept a close eye on the gaming behavior to
-
-make sure the problem was not becoming more disruptive.
-
-. . .
-
-Nearly every sales leader and salesperson we interviewed told us, “All
-
-sales-incentive plans can be gamed.” People will inherently seek ways to
-
-maximize their personal beneﬁts and achieve their goals as easily and
+for days or possibly a week. If the sales window were extended from

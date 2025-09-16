@@ -1,9 +1,15 @@
-## schedule, to your new responsibilities as a parent, to your identity in
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b955b50d5e8494263a038db765e7900cfc96bed3
+title: H052W1-PDF-ENG
+---
+# What the Experts Say
 
-terms of how you’ve seen yourself your entire adult life,” she says.
+Returning to work after being home with a new baby is “a transition
 
-Adding to the pressure, you’re making this transition while “taking care
+that’s like no other,” says Daisy Wademan Dowling, the founder
 
-of a little human who might not be sleeping very well.” It’s an “intense
+and CEO of Workparent, a consulting ﬁrm for working parents and
 
-physical and psychological adjustment,” adds Denise Rousseau, a
+employers. “Everything is changing — from your practical day-to-day

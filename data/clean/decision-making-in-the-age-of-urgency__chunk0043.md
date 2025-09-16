@@ -1,5 +1,11 @@
-# Exhibit 7
+---
+source_path: decision-making-in-the-age-of-urgency.md
+pages: n/a-n/a
+chunk_id: 8204bca14d0545b6debc3b219b87e6678cd39147
+title: decision-making-in-the-age-of-urgency
+---
+## — And with delegated decisions, the winning
 
-The likelihood of being a winner is higher when an organization follows both the foundational practices and those that are decision specific.
+organizations empower their employees to make decisions through coaching and providing space for people to fail safely. Doing both makes the odds of being a winning organization 3.9 times greater. According to the results, the
 
-% likelihood of being a winner,1 by organizations’ adoption of practices for delegated decisions2
+What’s more, we found that the effects of these practices on success are cumulative. When companies follow more of the foundational practices and those that are decision specific, the chance of being a winner is much higher. With delegated decisions, for instance, respon- dents are 1.7 times as likely to say their organizations are winners if they follow both types of best practices than if they follow only the foundational ones (Exhibit 7).

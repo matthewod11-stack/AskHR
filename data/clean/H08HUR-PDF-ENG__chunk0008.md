@@ -1,7 +1,15 @@
-## emotions, and this in turn leads to low trust.
+---
+source_path: H08HUR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cae56bb56594666e2e972c9542b0c475fb866f1f
+title: H08HUR-PDF-ENG
+---
+## HBR / Digital Article / 10 Signs of a Toxic Boss — and How to Protect Yourself
 
-- 3. They’re excessively motivated by self-interest.
+- 2. They lack empathy.
 
-Toxic bosses make everything about them and seek to take credit for the
+Toxic bosses don’t invest time or energy in building relationships to
 
-work of others. They are more likely to make risky, attention-grabbing
+understand how their communication approach may impact others.
+
+They struggle to relate to team members’ challenges, perspectives, and

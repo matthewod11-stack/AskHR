@@ -1,11 +1,19 @@
-# HBR / Digital Article / How to Support Parents of Neurodivergent Children at Work
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27ad9176e34a9880d37a7a7b5d630eedd11d93dc
+title: H07MZQ-PDF-ENG
+---
+# Supporting a Fundamental Asset
 
-understand the actions and behaviors that can be viewed as strengths,
+Learning how to be more inclusive is a key lesson that comes with neurodiverse parenting. It is easy to categorize people who are diﬀerent
 
-and you also learn how things typically viewed as weakness and disabilities can simply be supported and viewed as diﬀerent abilities.
+as “them,” or to describe people we choose to other as “weird” or “odd.”
 
-You learn to see past quirks and idiosyncrasies towards solutions. For
+When caring for neurodivergent children, you quickly begin to better
 
-example, many autistic people are strong at pattern recognition. Many
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-autistic people are amazing data analysts, but they may not interview
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,45 +1,23 @@
-## HBR / Digital Article / What’s Stopping You from Reinventing Your Career?
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8fab85315f2d6c3451805f68c0f040678eb9c193
+title: H07BCM-PDF-ENG
+---
+# Self-sufficiency
 
-new ideas, feedback and encouragement. It can also hide a leader’s
+Leaders often talk of their self-suﬃciency with pride. These leaders
 
-doubts and insecurities from others. Individuals who are highly self-
+rely on their own contributions, work well independently and seldom
 
-suﬃcient need others to help them overcome this trap of self-suﬃciency
+require motivation or management from others – behaviors that have
 
-and asking for help may seem obvious, but it also takes courage,
+earned them their senior roles. However, self-suﬃciency has a ﬂip side:
 
-especially when admitting to career vulnerability.
+It can limit connections with others, resulting in restricted access to
 
-Fritz, a ﬁnance executive in the pharmaceutical industry whom we met
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-on one of our workshops, is a classic example of an executive trapped
+2
 
-by self-suﬃciency. His considerable self-reliance meant he took the lead
-
-on most work projects and presentations and believed that working
-
-with others and delegating slowed him down when he could do things
-
-himself. His self-reliance had initially helped him succeed in his career,
-
-as he developed a reputation as a “go-to person.”
-
-However, his habit of self-reliance was particularly unhelpful when the
-
-company he worked for began restructuring, as he felt adrift and out-of-
-
-touch with the changes taking place. He got the sense that he was being
-
-pushed out, yet had no one with whom to discuss the situation. His
-
-self-reliance nearly got in the way when a colleague asked whether he
-
-wanted to have lunch and a chat.
-
-About to respond with his usual “No, I’m ﬁne thanks,” he realized
-
-that he was not ﬁne and that a conversation might just be helpful to
-
-hear some other perspectives on what was happening in the company.
-
-Saying yes to that conversation was the start of him getting out of his
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

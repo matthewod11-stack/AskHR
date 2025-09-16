@@ -1,17 +1,49 @@
-# meditation.
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d464006991a5d3e1e57e248a234e9f40cc839b5
+title: R2505C-PDF-ENG
+---
+## HBR / Magazine Article / Now Is the Time for Courage
 
-Reframe the situation. You can preempt or limit your fear response by
+Speciﬁc moves can help you mute or diminish fear, make it pass more
 
-redeﬁning what uncertainty means for you and your organization in
+quickly, or change how you experience and express it.
 
-the long term. Consider what pessimistic, realistic, and optimistic views
+Practice self-care. To make good decisions in trying times, leaders
 
-might look like. With this technique, you can fully acknowledge the
+need adequate sleep, nutrition, and hydration. You can’t think clearly if
 
-dangers you face while also tempering your reaction to them.
+you’re running on fumes. As Nair, whose ﬁrst three years at Chanel have
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+been marked by brave bets on sustainability and philanthropy, recently
 
-14
+said: “Invest in your physical and mental well-being. You have to put the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+oxygen mask on yourself to have the energy to play all the roles that you
+
+do.”
+
+Embrace rituals. One tried-and-true way to reduce anxiety amid
+
+uncertainty is to seek comfort in the familiar and predictable.
+
+Courageous leaders rely on small, personally meaningful physical or
+
+mental rituals to center themselves. Ancient warriors from the Japanese
+
+Samurai to the Nordic Vikings had prebattle rituals. Apple founder
+
+Steve Jobs had a simple daily routine: Every morning, after making
+
+his bed and showering, he looked at himself in the mirror and asked,
+
+“If today was the last day of my life, would I be happy with what
+
+I’m about to do today?” Some entrepreneurs wear a lucky sweater or
+
+recite a certain mantra before each investor or client pitch. Bernanke
+
+followed his predecessor Alan Greenspan’s practice of always facing the
+
+clock at Fed meetings. Other executives, such as Schultz, rely on regular

@@ -1,17 +1,13 @@
-## HBR / Digital Article / Research: Hiring a Superstar Can Backfire
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf01b1ad4c4e36561cfafcb18d4ebba5d12fcc57
+title: H08OKB-PDF-ENG
+---
+## the myth of their own exceptional talent.
 
-Second, one needs to consider the reactions of incumbent employees
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-in the new organization, some of whom may also be stars or may
+3
 
-have ambitions to become one. For instance, studies of scientists and
-
-investment bankers have shown that the arrival of new stars negatively aﬀects the performance of incumbents. Incumbents may resent the
-
-arrival of the new stars and the attention and resources these receive.
-
-They might fear for their own career development opportunities and
-
-for their reputation within their organization. They might interpret the
-
-hiring event as a lack of conﬁdence in their own abilities and future
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

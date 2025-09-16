@@ -1,11 +1,17 @@
-## Though norms around “yes” and “no” vary across cultures and
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f30529f3a162c561b1377847df2d4b77ac41f75c
+title: H08UTW-PDF-ENG
+---
+## more about your leadership comfort zone or your team culture than it
 
-hierarchies, the following phrases reﬂect the most common blocking
+does the tool itself.
 
-language I’ve observed in U.S. workplaces:
+Mistake #5: Undermining “yes, and…” with blocking behaviors
 
-- “Yes, but…” (sounds polite, but dismisses the idea)
+In improv, actors count on “yes, and…” to propel a scene, but they’re just
 
-- “Yes, or…” (swaps out the original idea for the speaker’s idea)
+as alert to the words that might stall it. The same is true in business:
 
-- Saying “Yes, and…” when actually meaning “Yes, but…” or “Yes, or…”
+some phrases invite collaboration while others block it.

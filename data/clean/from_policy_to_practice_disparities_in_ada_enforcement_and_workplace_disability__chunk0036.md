@@ -1,5 +1,9 @@
-## ISSN: 0976-7797 Impact Factor: 5.183 Index Copernicus Value (ICV) = 77.57
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: 1ed2e779fa38b58a8891ed7dd0c1623945e934b1
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+# cognizancejournal.com
 
-- (cid:32) Legal Culture: States where civil rights cases are actively litigated, such as Massachusetts or Illinois, build a legal foundation that drives employers towards complying with the requirements of the ADA through their efforts.
-
-- (cid:32) Composition of workforce: Corporate cultures with a current bias towards more inclusive practices tend to drive states with a larger proportion of a knowledge-oriented economy in general, as compared to states with primarily blue-collar or agricultural employee bases. These effects indicate that ADA cannot be effectively imposed using federal policy only; the conditions at the state level should also be favorable to implement it fully. 4.5 Urban vs. Rural Disparities in Workplace Accommodations The city-country disparities add to the problems of ADA application in states that otherwise have keen records on ADA compliance. The cities attract resources, awareness, and employer responsibility, whilst the countryside is the victim of systematic indifference (Parra, 2023). Rural Areas
+Olukunle Ogundimu, Cognizance Journal of Multidisciplinary Studies, Vol.5, Issue.8, August 2025, pg. 205-229 (An Open Accessible, Multidisciplinary, Fully Refereed and Peer Reviewed Journal)

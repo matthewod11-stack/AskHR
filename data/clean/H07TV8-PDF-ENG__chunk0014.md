@@ -1,21 +1,39 @@
-## important topics, such as environmental and sustainability issues. The
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b3302d675eaf6d924ddb9765d9fca9b63ddfde5
+title: H07TV8-PDF-ENG
+---
+## Disruption, Andrew Liveris, former CEO of Dow Chemical, points out
 
-involvement of younger leaders may also counterbalance the tendency
+that the advice he was given by other company leaders in the early
 
-of more experienced ones to lean towards less risky strategies (e.g.,
+2000s is now mostly obsolete. “The business landscape today is so
 
-engaging in fewer deals and investing less in R&D, which is reﬂected in
+foreign from that of two decades ago that ﬁguring out how to deploy
 
-fewer patent ﬁlings by ﬁrms led by older CEOs). Finally, younger talent
+[lessons and skills from the past] needs to be reimagined and retaught,”
 
-is more (due to a lower aversion to changes in the status quo) and less
+he writes.
 
-likely to be caught in the success trap (i.e., to becoming prisoners of the
+When circumstances are changing, old paradigms not only become
 
-assumptions underpinning their historical success).
+obsolete — they can obstruct progress precisely when new ideas
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+and thinking are urgently required. Optimizing the current approach
 
-3
+becomes a path towards obsolescence. Thus, instead of trying to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+descend further down their current experience curve, companies
+
+increasingly need to develop an ability to jump to new ones — by
+
+reimagining their businesses.
+
+Research suggests that bringing less experienced people into leadership
+
+roles can help unlock the requisite creativity and ﬂexibility. Age-
+
+diverse leadership teams create cognitive tension that fosters learning.
+
+The younger generation helps brings awareness to a new set of

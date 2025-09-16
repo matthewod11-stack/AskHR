@@ -1,19 +1,17 @@
-## BASF Bioresearch and Cambridge Antibody Technology. When Abbott
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21992e57e7a5375cdbb72d1844f54cb23d353522
+title: R2405E-PDF-ENG
+---
+# operations.
 
-Laboratories, the incumbent that had acquired BASF, brought Humira
+How can we win support from other stakeholders? Innovators often
 
-to market, in the early 2000s, it was one of several monoclonal
+lack the credibility to win over skeptical stakeholders and regulators.
 
-antibody treatments for rheumatoid arthritis. However, it was mired in
+With their established brands and reputations, incumbents are well
 
-controversy because its potential side eﬀects were hard to isolate from
+placed to tackle that challenge. Take Humira, a new fully human
 
-the progression of the disease. The Abbott team worked with patient
-
-advocacy groups to raise awareness and debunk the treatment’s stigma.
-
-This, of course, involved some competitive risk, since Abbott’s eﬀorts
-
-would also make rival products more acceptable to consumers and
-
-health care professionals. But the move positioned Humira as the go-to
+monoclonal antibody discovered through a collaboration between

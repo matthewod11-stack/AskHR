@@ -1,15 +1,21 @@
-# withholding of liquidated damages.
+---
+source_path: Employment Law Guide - Hours and Safety Standards in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: 7c504fa761a0294baa244fd22368d8abaa0eb3d1
+title: Employment Law Guide - Hours and Safety Standards in Construction Contracts
+---
+## payment of the required overtime compensation.
 
-Workers have rights of action and/or of intervention against the contractor and its sureties if the amounts
+Accrued contract amounts may be withheld in sums necessary to satisfy the liabilities of the contractor for
 
-withheld are insuﬃcient to reimburse the unpaid wages. Under such an action, it is no defense that workers accepted less than the required rate of wages or voluntarily returned wage payments to the contractor.
+unpaid wages and liquidated damages. Any contractor from whom contract monies have been withheld for liquidated damages may appeal to the head of the contracting agency. The agency head shall review the
 
-Contractors found to have committed violations of CWHSSA's overtime requirements may have their
+administrative determination and issue a ﬁnal order. If the damages sum is determined to be incorrect, or the
 
-contracts terminated. Contractors found to have disregarded their obligations to workers or subcontractors
+contractor or subcontractor inadvertently violated the provisions of the CWHSSA while exercising due care,
 
-may be debarred from receiving future contracts for 3 years.
+the contracting agency head may recommend appropriate adjustments in the liquidated damages to the
 
-Contractors may challenge the Wage and Hour Division's determinations of violations before an Administrative Law Judge (ALJ). Contractors may appeal ALJ decisions and orders to the Administrative Review Board
+Administrator of the Wage and Hour Division, who shall issue an order with respect to the recommendation. Such order may be appealed to the Department's Administrative Review Board (Board). The contractor or
 
-(ARB). ARB determinations on violations may be appealed to and are enforceable through the federal courts.
+subcontractor may ﬁle a claim in the U.S. Court of Federal Claims for all ﬁnal orders mandating a liability for

@@ -1,5 +1,11 @@
-# Organizational Development
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 02a43d661bfcaabfeba104daa1ec0fdbdf8ae460
+title: untitled
+---
+# requirements, organizational advocacy and governmental relations, literary content, and practice.
 
-Professional progress related to school psychology organiza- tions is one of the most dramatic historical developments of the Thoroughbred Years. The NASP, with fewer than 1,000 membersinitsﬁrstyear,grewtomorethan21,000bytheyear 2000 and dominated the organizational development of the period. However, it struggled in its ﬁrst decade to establish a base beyond itself in public advocacy and governmental rela- tions. Instead, the period 1970–1980 was characterized by internal achievements, including a code of ethics, standards for training, credentialing, and service provision, publica- tions, conventions, and practitioner representation. Although its efforts in governmental relations were noteworthy, partic- ularly those efforts connected to the federal legislation men- tioned above, in the 1980s such efforts gained in stature. In the 1990s, these efforts blossomed with a strong Washington, DC, presence after the NASP established its headquarters in the DC area (Fagan, Gorin, & Tharinger, 2000).
+Some of the external and internal regulation was in re- sponse to the changing structure of U.S. society. Increased immigration contributed to a more culturally diverse school population. School psychologists were particularly involved in programs of bilingual education, the teaching of tolerance, and especially the development of nondiscriminatory assess- ment practices. Maternal employment out of the home and the rapid rise of single-parent families, largely as a result of divorce, also had an impact on schooling and psychological services. These were related to concerns for “latchkey” and “at-risk” children that necessitated school psychological ser- vices along lines of intervention and consultation (see later discussion of practice).
 
-Among the NASP’s many accomplishments in this period, two are paramount in contributing to professionalization. The
+Finally, the practitioner workforce was also growing in cultural diversity, but by the turn of the twenty-ﬁrst century it was still predominantly Caucasian. Efforts to improve minor- ity representation have been moderately successful. Women were always well represented in school psychology, perhaps always at least 30% of practitioners. Many held high-ranking administrative positions in school districts and directed de- partments of psychological services. Female representation in the ﬁeld increased rapidly after the 1960s and was more than 70% by the late 1990s. In the Thoroughbred Years, women quickly acquired positions of leadership in the NASP, the APA, and state associations, as well as editorships and training program faculty positions.

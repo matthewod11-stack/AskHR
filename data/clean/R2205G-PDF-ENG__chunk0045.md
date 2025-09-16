@@ -1,11 +1,23 @@
-# 12 weeks of parental leave
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a84dbe69ea5070b00713e5e673ae7f22422305bc
+title: R2205G-PDF-ENG
+---
+# Flextime policy
 
-- 8.9
+- 7.8%
 
-8.5
+4.7%
 
-5.2
+4.5%
 
-6.8
+4.9%
 
-12.8
+10.8%
+
+3.5%
+
+6.6%
+
+9.1%

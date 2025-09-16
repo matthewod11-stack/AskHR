@@ -1,11 +1,9 @@
-# American Psychologist, 33, 939–944.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f04abde39fe4b3ce7490c73b8098dbce0f59f026
+title: untitled
+---
+## ture. American Psychologist, 56, 1032–1039.
 
-Hilgard, E. R., Leary, D. E., & McGuire, E. R. (1991). The history of psychology: A survey and critical assessment. Annual Review of Psychology, 42, 79–107.
-
-Jing, Q. (2000). International psychology. In K. Pawlik & M. Rosenzweig (Eds.), The international handbook of psychol- ogy (pp. 570–584). London: Sage.
-
-Kapor-Stanulovic, N. (1999). Encounter with suffering. American
-
-Psychologist, 54, 1020–1027.
-
-Kennedy, S., & David, H. P. (1986). Psychology and policy around the world: Widening psychology’s sphere of inﬂuence. American Psychologist, 41, 296–297.
+Henle, M. (1978). One man against the Nazis: Wolfgang Köhler.

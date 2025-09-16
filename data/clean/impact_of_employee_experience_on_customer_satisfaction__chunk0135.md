@@ -1,11 +1,13 @@
-# 26 | P a g e
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: c8789e8f93343b581d5b5134f32fc415665ef301
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 2.6.1. Employee Engagement
 
-definition refers to the psychological and emotional engagement employees have to
+Employee engagement (EE) is biggest contributor to the employee experience
 
-their company, their tasks or activities, and their colleagues. The rise of engagement
+journey and is typical measurement point for most companies. It evaluates how
 
-started in 1990’s, first appearing in an academic journal published by the Institute of
-
-Employment Studies (IES) in article “From People to Profits, the HR link to the service-
-
-profit chain” which demonstrates how employee behavior and attitude can improve
+committed an employee is to supporting their organization to achieve its goals. The

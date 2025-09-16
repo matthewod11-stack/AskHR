@@ -1,13 +1,7 @@
-# Positive Negative
-
-.49e −.33e
-
-.16d −.13d
-
-.05d −.16d
-
-.23d −.10d
-
-.25d
-
-.29h
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2ceace5ea5807b3553fc7588d3d0a2fdb3481b54
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Aff ectivity

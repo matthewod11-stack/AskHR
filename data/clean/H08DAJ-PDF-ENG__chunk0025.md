@@ -1,9 +1,19 @@
-# MS
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0d78ae1e083f952f493d3de9fad7b411124062b
+title: H08DAJ-PDF-ENG
+---
+# as a path to promotion or advancement.
 
-Mary Steffel is an associate professor of marketing at D’Amore- McKim School of Business, Northeastern University. Her research focuses on examining when we call upon others to help us make decisions, how we navigate making decisions for others, and how we can support others in making better decisions. See her faculty page here.
+While delegation may be critical to managerial success, knowing when
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+and when not to delegate may be even more important: Managers who
 
-6
+can navigate this eﬀectively can enjoy the beneﬁts of delegation without
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+paying an interpersonal price.
+
+This article was originally published online on September 10, 2024.
+
+Hayley Blunden is an assistant professor of management at the Kogod School of Business at American University. Her research focuses on how leaders can make workplace interaction more productive.

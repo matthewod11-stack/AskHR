@@ -1,13 +1,19 @@
-# approaches in a variety of domains.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 5b956fb30b1d37507db9b31086116e0f52a69f8d
+title: prompt
+---
+# ReAct (reason & act)
 
-ReAct prompting works by combining reasoning and acting into a thought-action loop. The
+Reason and act (ReAct) [10]13 prompting is a paradigm for enabling LLMs to solve complex
 
-LLM (cid:450)rst reasons about the problem and generates a plan of action. It then pe(cid:455)orms the
+tasks using natural language reasoning combined with external tools (search, code
 
-actions in the plan and observes the results. The LLM then uses the observations to update
+interpreter etc.) allowing the LLM to pe(cid:455)orm ce(cid:457)ain actions, such as interacting with external
 
-its reasoning and generate a new plan of action. This process continues until the LLM
+APIs to retrieve information which is a (cid:450)rst step towards agent modeling.
 
-reaches a solution to the problem.
+ReAct mimics how humans operate in the real world, as we reason verbally and can
 
-To see this in action, you need to write some code. In code Snippet 1 I am using the langchain framework for Python, together with Ve(cid:457)exAI (google-cloud-aiplatform) and the google-search-results pip packages.
+take actions to gain information. ReAct pe(cid:455)orms well against other prompt engineering

@@ -1,11 +1,11 @@
-# B
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: bcb102be6c2acf2c075537a4243a9d9b20d7add8
+title: performance_management_3rd_edition_by_aguinis
+---
+# Score
 
-Degree to which employee met referral goals (10 referrals a month):
+Degree to which employee met monthly sales goals ($50,000 in sales revenue a month):
 
-Needs improvement. Met referral goals 50% of the time in the last six months.
-
-B-
-
-Number of cold calls made monthly (250):
-
-Excellent. Tirelessly exhibits persistence and hard work in reaching out to businesses.
+Adequate. Met sales goals 66% of the time in the last six months.

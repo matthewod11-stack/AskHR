@@ -1,15 +1,41 @@
-# familiar terms).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: e254997d8bcf16cd2affc6c813cf12e459171f73
+title: behavioral_economics_1
+---
+# create tradeoffs (Shizgal, 1999).
 
-For example, in game theory players are in equilibrium when their beliefs about what other players will
+Results consistent with behavioral economics: Other neural evidence is already vaguely consistent
 
-do are accurate, and they choose best responses given those accurate beliefs. A neural analogue of this
+with behavioral economics ideas like those in Table 1. McClure et al (2004) find evidence of two systems
 
-mathematical is that brain activity in equilibrium will be highly overlapping when players are making their own
+involved in time discounting, consistent with a quasi-hyperbolic β-δ theory. Sanfey et al (2003) find that low
 
-choices, compared to when they are forming beliefs about choices of others, because creating accurate beliefs
+offers in ultimatum games (compared to near-equal offers) differentially activate emotional areas (insula),
 
-requires them to simulate choices by others. Indeed, Bhatt and Camerer (2005) found very little difference in
+planning and evaluation areas (dorsolateral prefrontal cortex, DLPFC) and conflict resolution areas (anterior
 
-brain activity between choosing and guessing in periods in which players’ choices and beliefs were in
+cingulate). Relative activity in the insula and DLPFC predicts whether offers will be rejected or not. This result
 
-equilibrium. Thus, game-theoretic equilibrium is a “state of mind” as well as a restriction on belief accuracy and
+is consistent with social preferences models in which money and distaste for unfairness or inequality are traded
+
+off (by the cingulate). Hsu et al (2005) compared decisions under ambiguity and risk (using Ellsberg-paradox
+
+examples). Ambiguity differentially activates the orbitofrontal cortex (OFC, just above the eye sockets) and the
+
+amygdala, a “vigilance” area which responds rapidly to fearful stimuli and is important in emotional processing
+
+and learning. The fact that OFC activity is stronger and longer-lasting for ambiguous choices implies that
+
+people with damage to the OFC might not exhibit typical patterns of ambiguity-aversion. Indeed, Hsu et al find
+
+that they do not.
+
+30
+
+New constructs and ideas: The biggest impact of neuroeconomics will probably not come from
+
+adjudicating debates between rational-choice and behavioral economics; it will come from establishing a
+
+detailed empirical basis for constructs which are new in economics (although some of them could be defined in

@@ -1,5 +1,13 @@
-## regardless of the amount of data. In this
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: c6be6157a74a25926311c5270f6535900f5e374e
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 39 | P a g e
 
-case, 0.475 which is a large effect.
+Effect size indicates whether a relationship
 
-R-squared is a measure of how well a
+is meaningful
+
+in a practical sense,

@@ -1,5 +1,7 @@
-# Performance Appraisal
-
-Since the existence of these errors is so pervasive, ind their effects are so poten- tially damaging, it is important to take ever) possible precaution to avoid them. The following ten suggestions for minimizing rater errors in obsen mg and appraising performance are discussed in this chapter:
-
-1.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: addb12115621c5120f332cfe003ad2ff8b7901ea
+title: document_resume
+---
+# 74

@@ -1,13 +1,13 @@
-# easily?”
+---
+source_path: H08QO6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2bd691af48cf1d831ef6f8261138dc399080a24
+title: H08QO6-PDF-ENG
+---
+## HBR / Digital Article / How to Delegate to Someone Who Doesn’t Report to You
 
-When you have non-negotiables, be direct: “I want to be up front. We
+- “I think touch bases every other week would be useful. Does that work
 
-need this by March 1st for the board meeting. If that timing doesn’t
+for you?”
 
-work, let’s ﬁgure out a diﬀerent approach now rather than hitting an
-
-issue later.”
-
-Document your agreements. Oﬀer to send a quick email summarizing
-
-what you discussed, including deadlines, check-ins, and your respective
+- “How about we create a shared document so we can both check in

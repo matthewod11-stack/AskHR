@@ -1,11 +1,23 @@
-# Article:
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: 744605fead0a661baa564696c4caa35949d77274
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+# Abstract:
 
-- 1. Introduction
+Purpose The purpose of this study is to test whether equity theory (ET) individuals compare their outcome/input ratio to the ratio of a individuals as Benevolent, Equity Sensity, and Entitled – applies to the modern workplace of global virtual teams (GVT), where work is mostly intellectual, geographically dispers making individual effort nearly impossible to observe directly.
 
-Equity theory (ET) has gained considerable popularity in the literature after being i ntroduced in the seminal work by Adams (1963). He purported to incorporate into the antecedents of employee rlier motivation the (as yet) unaddressed feeling of unfairness, which Herzberg et al. (1957) ea dams (1965) also identified as “the most frequently reported source of job dissatisfaction”. A sought to investigate effective solutions to counteract the effects of the feeling of unf airness. Adams’s work was followed by authors such as Deutsch (1975), Leventhal (1976) and, more recently, Bakhshi et al. (2009), Burrus and Mattern (2010), until Cheng et al. (2020), Yoon and Almond (2022), Prieto et al. (2023). According to the extant theory, equity is defined as the perception of assessing the consistency between outcomes and the norm for allocating rewards. ation and commitment to the
+– which posits that “comparison other” and classify
 
-ET’s main postulate is that employee satisfaction, motiv
+ed and online,
 
-organization are not merely driven by nominal amounts of compensation but, rather, that satisfaction derives from a perception of one’s input -reward ratio relative to the r atio of other employees. When the ratios are comparable, employees will be content and motivated; when they are not, i.e. if one’s perception is that other people receive more relative t o their input, one’s satisfaction and motivation drop, undermining the workgroup’s morale and triggering numerous adverse behavioral consequences. Top performers are satisfied if their rewards are commensurate with their inputs. Likewise, those getting the least could still be content if they realize their lower output resu lts from their lesser efforts (i.e. lower input); thus, the input -reward ratios are qualitatively balanced across the spectra of performances and rewards. By w ay of illustration, a working parent would accept lower compensation in return for flexible working hours to care for the family (Adams, 1963).
+Design/methodology/approach Using a sample of 1,343 GVTs comprised 6,347 individuals from 137 countries, this study tests three ET’s predictions in the GVT context: a negative, l inear relationship between Benevolents’ perceptions of equity and job satisfaction in GVTs; an inverted U-shaped relationship between Equity Sensitives’ perceptions of equity and job satisfa ction in GVTs; and a positive, linear relationship between Entitleds’ perceptions of equi ty and job satisfaction in GVTs.
 
-In his body of scholarly work, Adams considered as independent organizational variables (henceforth, inputs) education, intelligence, experience, training, skills, seniority, age, sex, ethnic background, social status, job effort, personal appearance, health, possession of tools and spouse’s characteristics. On the other hand, as dependent variables (or outputs), he considered pay, intrinsic rewards, satisfying supervision, seniority benefits, perks, fringe benefits symbols, job perquisites, the quality of working conditions, monotony and uncertainty over one’s fate. It is thus the ratio of these inputs -outputs that, according to ET, determines organizational workers’ satisfaction and motivation (Miner, 2005).
+Findings Although the second prediction of ET is supported, the first and third have statisticall y significant opposite signs.
+
+studies in Practical implications The research has important ramifications for management explaining differences in organizational behavior in GVTs as opposed to traditional work settings.
+
+Originality/value The authors conclude that the main novelty with ET in GVTs is that GVTs are an environment stingy with satisfaction for “takers” (Entitleds) and generous i n satisfaction for “givers” (Benevolents).
+
+Keywords: equity theory | global virtual teams | x-culture | equality | satisfaction

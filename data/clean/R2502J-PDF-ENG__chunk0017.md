@@ -1,23 +1,17 @@
-# Anticipating Problems
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05b9fbc814ea3d72ce90c19efdfe7c6f0a032af6
+title: R2502J-PDF-ENG
+---
+## HBR / Magazine Article / How Salespeople Game the System
 
-This typology of tactics can help sales leaders and incentive plan
+- 8. Faux customers. Creating fake customer accounts with the help of
 
-managers think like gamers when looking for signs of cheating in
+friends, relatives, or coworkers, or simply fabricating accounts, is also a
 
-existing incentive plans and when designing and rolling out new ones.
+common gaming tactic. Some sales reps ask friends to pose as buyers,
 
-The eﬀectiveness of this process will vary according to managers’ ability
+one interviewer told us. After the rep receives the commission for the
 
-to anticipate all the ways sales incentive plans can be twisted for
-
-self-serving purposes—what management scholars Mark Seabright and
-
-Marshall Schminke call “immoral imagination.”
-
-Incentive managers with limited immoral imagination should ask
-
-trusted sales leaders and professionals to look over drafts of incentive
-
-plans to identify ways in which people might game them. Reviewing
-
-the list of common tactics can spur everyone’s thinking to identify
+“sales,” the phony customers cancel their service.

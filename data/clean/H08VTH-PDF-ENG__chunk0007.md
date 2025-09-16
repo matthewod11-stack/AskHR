@@ -1,23 +1,15 @@
-## presence during critical moments, support for blockers) and what may
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1c0200c9cbcea1c53d62b02f6ba7ee1f290207f
+title: H08VTH-PDF-ENG
+---
+## weekly 1:1s, constant availability, and involvement in every decision.
 
-need to shift (e.g., instant responsiveness, deep involvement in every
+However, what works for a lean team won’t work for a larger, more
 
-project). Then, co-create new ways of working, like how decisions are
+complex one. Trying to lead the same way just accelerates burnout.
 
-made, how meetings are run, and how conﬂict is surfaced.
+Instead, reset expectations, and do it in partnership with your team.
 
-One leader we coached who inherited a merged team of 30 direct
-
-reports hosted a “Team Reset Workshop” and asked:
-
-- What helps you do your best work?
-
-- What gets in the way?
-
-- What agreements can we establish to work more eﬀectively together?
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Clarify what you’ll continue to deliver as their leader (e.g., priorities,

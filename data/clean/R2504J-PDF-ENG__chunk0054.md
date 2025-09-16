@@ -1,7 +1,11 @@
-## the stock market valuation of a strategy by 64%.
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e15440c16cc76ab4b3475763a023db4e9c8efb80
+title: R2504J-PDF-ENG
+---
+# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
 
-The fMRI studies conducted by Summerﬁeld reveal that stories have
+among the components. Such graphics are known as ﬂow diagrams. We
 
-a ﬂow too. They’re about one thing leading to another, and they’re
-
-processed in the part of the brain that conceptualizes cause-and-eﬀect
+found that adding elements indicating ﬂows to a visualization increased

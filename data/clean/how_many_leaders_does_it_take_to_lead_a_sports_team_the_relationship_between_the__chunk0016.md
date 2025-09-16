@@ -1,9 +1,21 @@
-## Differences between male and female teams
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 6b98c32135ed50ba8a2629463129bdc48993c33d
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+## Athlete Leadership and Team Effectiveness
 
-Previous studies failed to provide more insight about whether the ideal leadership structure differs for male and female teams. Gender differences have been demonstrated, however, with respect to leader characteristics. For example, Fransen et al. [35] found that female leaders were more likely to occupy a central position (i.e., having significant interaction with other players) than male leaders in field hockey. Moran and Weiss [36] added that female leaders were characterized by ability variables, while male leaders were characterized by psychosocial and ability variables. However, other studies did not find these gender differences when identi- fying leaders’ characteristics [37].
+shown that, if team players have clear and coherent information about their role (i.e., role clar- ity), if they are strongly united as team (i.e., team cohesion), and if they believe in the team’s abilities (i.e., collective efficacy), their performance is likely to improve [21–26]. In contrast, when team members receive incongruent information about their roles (i.e., role conflict) or think that their interests are being thwarted by other players (i.e., team conflict), their perfor- mance is likely to deteriorate [27–29]. Second, regarding attitudes, when players intend to con- tinue playing on the same team the next year, this may be an indicator that they are satisfied with personal and team performance [30]. Furthermore, perceived performance is one of the parameters most widely used to assess team effectiveness [31]. Whereas objective performance measures have the disadvantage of being influenced by many confounding factors (e.g., the team’s inherent abilities, the opponent’s strength, the weather and other environmental fac- tors, the referee’s decision quality, etc.), perceived performance measures might provide a more reliable measure of performance [32].
 
-Also with respect to group dynamics, researchers have found differences in male and female teams [22–24]. For example, the relationship between cohesion and performance was observed to be significantly larger for females than for males [24]. It should be noted that, for the other variables of interest, no gender differences have yet been investigated. As Leo et al. [33] sug- gested, it would be interesting to achieve a better insight about how these group processes, and more specifically the benefits of a particular athlete leadership structure, might differ for male and female athletes. Given the lack of previous evidence of potential differences with respect to
+It is important to note that previous studies have focused solely on positive outcomes. How-
 
-PLOS ONE | https://doi.org/10.1371/journal.pone.0218167 June 10, 2019
+ever, it is essential for a team with an optimal leadership structure to also be able to overcome potential barriers to team success such as team conflict and role conflict [27–29]. For example, although having more than one task leader could lead to a stronger confidence amongst mem- bers [15], this is only beneficial when it is not counteracted by a larger team conflict [33]. Therefore, in the current study, we will address previous suggestions of, for example, Marks et al. [34] and analyze how the leadership structure in the team (i.e., the number of leaders in each of the roles) is related to the conflicts experienced in the team, as well as to the conflict associated with role occupancy.
 
-4 / 22
+H1: Given the previous established benefits of having shared leadership within each leadership
+
+role [19], we expect that a higher number of leaders within a team will be positively related to indicators of team effectiveness (role clarity, team cohesion, collective efficacy, intention to con- tinue and perceived team performance), and negatively related to team conflict and role conflict. We expect this hypothesis to hold for task leadership (H1a), social leadership (H1b), and external leadership (H1c).
+
+H2: When looking at the leadership structure across the different leadership roles, we expect to
+
+find that a balanced number of leaders in each role is the most favorable leadership structure [20].

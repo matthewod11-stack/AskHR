@@ -1,23 +1,31 @@
-# Figure 2: Performance process components
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 12a7a78aad68d20c29f0c944b80e3cd854714ece
+title: an_overview_of_performance_management_policy_pmp_and
+---
+## 3.2 CBL Performance Management Process Components:
 
-CBL, from the financial year 2018, has disposed of a particular bend system and rather
+- (cid:32) Operational
 
-evaluate performance on an outright premise. On a by and large reason, the individual gets
+- (cid:32) Financial
 
-his/her rating totally dependent on his/her responsibility. This is to mean if the individual has
+- (cid:32) Customer Focus
 
-achieved essentially more his/her money related and non-financial targets, s/he is depended
+- (cid:32) Leadership
 
-upon to get most imperative rating paying little mind to the display of others.
+(cid:79)(cid:112)(cid:101)(cid:114)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:97)(cid:108)(cid:32)
 
-The City Bank will make SMART KPIs for every one of its representatives, assess
+(cid:76)(cid:101)(cid:97)(cid:100)(cid:101)(cid:114)(cid:115)(cid:104)(cid:105)(cid:112)
 
-performance in that and rate them in like manner. This may prompt a circumstance that a
+(cid:67)(cid:66)(cid:76)(cid:32) (cid:80)(cid:101)(cid:114)(cid:102)(cid:111)(cid:114)(cid:109)(cid:97)(cid:110)(cid:99)(cid:101)(cid:32) (cid:77)(cid:97)(cid:110)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:32) (cid:80)(cid:114)(cid:111)(cid:99)(cid:101)(cid:115)(cid:115)(cid:32) (cid:67)(cid:111)(cid:109)(cid:112)(cid:111)(cid:110)(cid:101)(cid:110)(cid:116)(cid:115)
 
-division which has performed incredibly well has over half individuals in classifications of 2
+(cid:70)(cid:105)(cid:110)(cid:97)(cid:110)(cid:99)(cid:105)(cid:97)(cid:108)(cid:32)
 
-or more. Then again, if the whole office has done ineffectively, there may not be a solitary
+(cid:67)(cid:117)(cid:115)(cid:116)(cid:111)(cid:109)(cid:101)(cid:114)(cid:32) (cid:70)(cid:111)(cid:99)(cid:117)(cid:115)(cid:32)
 
-individual in the 1 class. CBL will proceed with KPIs and Values estimation being the
+13
 
-segments of the general evaluations. The calculation of the rating will be done through a
+(cid:32)
+
+(cid:32)

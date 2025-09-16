@@ -1,25 +1,17 @@
-## HBR / Digital Article / The Insidious Effects of Hurrying
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca493f977756846dc096621e25a5531bf16292a1
+title: H08KYH-PDF-ENG
+---
+## reward in the form of potent feelings of pleasure and satisfaction —
 
-In most professional environments today, the onus is on the individual to carve out and preserve their own boundaries. This is already diﬃcult
+and that motivates us to repeat a pleasurable action to experience the reward again. For those who love productivity and eﬃciency, there
 
-in work cultures that prize rapid results and overwork, but as Drs.
+may be no greater reward than getting things done.
 
-Meyer and Rosenman point out, certain personality traits can increase
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-one’s susceptibility to hurry sickness. In addition to the Type A
+4
 
-behavior pattern, perfectionists, people pleasers, and those who equate
-
-productivity with self-worth can be at higher risk. Perfectionists often
-
-spend inordinate time on tasks in an attempt to achieve an unrealistic
-
-ideal, which steals time from other necessary tasks and leaves them
-
-quite literally hurrying to catch up. People pleasers run the risk of
-
-saying yes to every request, leaving them overwhelmed, rushed, and in
-
-danger of falling behind. And many achievement-oriented individuals
-
-locate their self-worth in how much they can produce, and how quickly.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

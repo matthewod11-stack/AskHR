@@ -1,31 +1,13 @@
-## HBR / Digital Article / How to Lead Across a Siloed Organization
+---
+source_path: H07Z1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d83fe7757ab6010c1805d7248e1de839b8a0146
+title: H07Z1A-PDF-ENG
+---
+# business.
 
-Given our work with senior leaders and their increasing angst at
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-trying to get things done cross functionally, we set out to better
+2
 
-understand how great leaders navigate these challenges to drive results.
-
-We interviewed dozens of senior leaders (VP level and above) who were
-
-nominated by their organizations as individuals who could get things
-
-done across the business without damaging relationships along the way.
-
-Through our interviews, we found very clear and distinct patterns for
-
-how leaders do this well. Speciﬁcally, we found there are particular
-
-mindsets, skills, and practices top-performing leaders use to lead cross-
-
-enterprise eﬀorts and achieve signiﬁcant outcomes for the organization.
-
-We also found that leaders feel ill-equipped in how to lead across. Their
-
-experience and development is in traditional vertical leadership (i.e.,
-
-managing their own teams), but not in getting things done with peers
-
-who have diﬀerent agendas, priorities, and motivations. The skillsets
-
-are not the same.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

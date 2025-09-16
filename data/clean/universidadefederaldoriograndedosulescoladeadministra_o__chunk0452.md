@@ -1,13 +1,11 @@
-## Pesquisa, como, por exemplo, “tempo de casa influencia na nota eNPS”. Na
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: a06a2bca88d64af544c807dbe90a32a2237d801e
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# quarto trimestre.
 
-pesquisa em que esta hipótese foi discutida, a equipe adicionou o cruzamento dos
+Cada pesquisa aponta, após a análise do campo aberto, desdobramentos
 
-dados de tempo de casa e comparou com as notas de detratores e promotores, e as
-
-principais reivindicações advindas do campo aberto para cada grupo. A cada ciclo
-
-de pesquisa, novas hipóteses podem surgir, mantendo a flexibilidade na análise de
-
-resultados. E a partir das hipóteses e suas comprovações ou refutações, o RH,
-
-juntamente aos líderes da companhia, pode traçar planos de ação para resolução
+que podem ser aprofundados. Com isso, hipóteses são levantadas pela equipe de

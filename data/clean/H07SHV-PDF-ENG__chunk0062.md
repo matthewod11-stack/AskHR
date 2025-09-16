@@ -1,5 +1,17 @@
-# again.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b416acce92d1899bafb5895cf778886a708b890
+title: H07SHV-PDF-ENG
+---
+# rule of thumb.
 
-The solution to that is not to have more, it’s to want less. Your
+Second is satisfaction. Satisfaction is the joy you get when you struggle
 
-satisfaction is your haves divided by your wants. Manage your
+for something and you get that. Now fellow strivers, the striver’s curse
+
+is you get on something called the hedonic treadmill where you struggle
+
+and struggle and achieve it, but then it doesn’t give you very much
+
+satisfaction for very long and so you keep trying and trying and trying

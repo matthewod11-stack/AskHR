@@ -1,11 +1,27 @@
-# alike.
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e28dd3a5425902130cfa9733f0ce401a617604b
+title: H07SHK-PDF-ENG
+---
+## HBR / Digital Article / The Myth of the CEO as Ultimate Decision Maker
 
-This article was originally published online on September 13, 2023.
+board meetings. Making the right choices about the level of personal
 
-Nitin Nohria is the George F. Baker Jr. and Distinguished Service University Professor. He served as the 10th dean of Harvard Business School, from 2010 to 2020.
+involvement is key to a CEO’s overall eﬀectiveness.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+In conclusion, the role of the CEO is not about making every decision,
 
-8
+but rather about creating an environment in which decisions are
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+made eﬀectively. By shaping decisions rather than making them, CEOs
+
+empower their teams, foster agility, and drive the organization toward
+
+success. The CEO is more of a conductor, orchestrating the many parts
+
+to produce harmonious results, than a dictator issuing commands. It’s a
+
+shift in perspective that is required when leaders assume this pinnacle
+
+position and can be transformative for many leaders and organizations

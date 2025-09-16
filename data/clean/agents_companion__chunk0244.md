@@ -1,11 +1,19 @@
-# Message Composition Agent
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: f16edf4c47440792a3d468bad88f5797530df44c
+title: agents_companion
+---
+# Example Interaction:
 
-The Message Composition Agent is specialized in helping users draft, summarize, and send
+User: "Play something upbeat to help me stay alert on this long motorway drive."
 
-messages or emails while driving. This agent parses voice commands like "Tell Alex I'm
+Conversational Media Search Agent: "I'll play an upbeat driving playlist to help keep
 
-running late," uses natural language models to compose contextually appropriate messages,
+you energized. Starting with 'Don't Stop Me Now' by Queen, followed by some Daft
 
-offers draft previews with user modification options, and integrates with various messaging
+Punk and Stromae tracks. I've added some popular European radio hits that match your
 
-apps including SMS, WhatsApp, and email.
+preferences. I've adjusted the volume for optimal road awareness. Just say 'next' if you
+
+want to skip a song."

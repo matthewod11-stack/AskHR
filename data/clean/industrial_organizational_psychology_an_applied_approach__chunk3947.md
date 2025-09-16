@@ -1,9 +1,9 @@
-# every situation.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: cee7de1e12461d6a7b21fbecf0312a44052d4128
+title: industrial_organizational_psychology_an_applied_approach
+---
+# best with moderate levels of arousal.
 
-Organizational analysis The process of determining
-
-the organizational factors that will either facilitate or inhibit training effectiveness.
-
-Organizational citizenship behaviors (OCBs) Behaviors that are not part of an employee’s job but which make the organization a better place to work (e.g., helping others, staying late).
-
-Organizational commitment The extent to which an employee identifies with and is involved with an organization.
+Optimist A person who looks at the positive aspects of

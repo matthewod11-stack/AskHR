@@ -1,11 +1,23 @@
-# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:36)(cid:33)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: 6edd24e86052973a81ab9fd962ce433c578159c6
+title: microsoft_word_performance_management_literature_review_doc
+---
+# discussion.
 
-(cid:52) (cid:26)(cid:31)(cid:11)(cid:7)(cid:7)(cid:11)(cid:8)(cid:31)(cid:2)(cid:18)(cid:8)(cid:19)(cid:31)(cid:15)(cid:7)(cid:2)(cid:4)(cid:8)(cid:32)(cid:31)(cid:2)(cid:31)(cid:33)(cid:7)(cid:13)(cid:7)(cid:2)(cid:4)(cid:8)(cid:8)
+(cid:1) Development plans should be flexible to allow for changing roles.
 
-Research shows that effective conversations about career issues are an important part of employee development. Hirsh et al. (2001) examined the nature of discussions about career development which employees in large UK organisations found useful. Only a very small proportion of effective career discussions took place in appraisal (about seven per cent). At least half were informal ie not a part of any HR or management process. The key to an effective career discussion was a high level of trust between the people combined with challenge and information- giving. Effective discussions gave employees a better sense of direction, increased self-awareness and more confidence, which led to concrete actions.
+(cid:1) Organisation and department business plans should be consulted when
 
-A later study by the Institute for Employment Studies (Hirsh et al., 2004) interviewed employees who said they had experienced a manager who had ‘developed’ them. Again conversations lay at the heart of this process, as did managers being close to employees and their work and giving them focused coaching and access to work experiences. This kind of attention improved performance via its impact on confidence and motivation. These psychological effects were as important as skill acquisition in the impact of developmental management styles. Effective developers also created a climate of openness within their teams and encouraged informal discussions about work issues.
+identifying training and development needs and plans should be reviewed regularly.
 
-Discussions about career development and the assessment of potential fell out of favour during the 1980s but have come back into appraisal again with increasing interest in talent management.
+(cid:1) Appraisal checklists should be provided and followed by appraiser and
 
-The CIPD study of talent management (Tansley et al. 2007) highlights a number of ways in which talent management is linked with performance management. The performance management process is often used to identify ‘high potential’, for example by rating potential as well as performance and looking for those scoring high on both in the now widely used ‘nine-box grid’. Tansley raises questions about where and by whom potential should be assessed. The appraisal process is also identified as especially important to the effective management and
+appraisee to ensure no areas of the appraisal are neglected.
+
+(cid:1) Training should be provided to the appraisers and appraisees in the purpose
+
+and process of the appraisal and to ensure the value of the process is adequately communicated within the organisation.
+
+The developmental aspect of performance management is described by Boswell and Boudreau (2000) as covering feedback as well as the identification of individual training needs. They also see determining transfers and attachments as part of this aspect of PM. Their research showed that the perceived use of appraisal for development was positively related to employee satisfaction with both the appraisal and the appraiser.

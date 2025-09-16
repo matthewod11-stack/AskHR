@@ -1,17 +1,21 @@
-# and compensation design on performance: An analysis of family-owned SME'S. Journal of
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: b02bb9037c240eeef2f856802d75cd9880a23faf
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# Organization Development Journal, 28(5): 388. http://dx.doi.org/10.1108/01437730710761715
 
-Small Business Management, 44(4): 531-543. http://dx.doi.org/10.1111/j.1540-627X.2006.00188.x
+BOYATZIS, R.E.; SMITH, M.; BLAIZE, N. (2006). Developing sustainable leaders through
 
-CHAND, M.; KATOU, A. (2007). The impact of HRM practices on organizational performance in
+coaching and compassion. Academy of Management Journal on Learning and Education,
 
-the Indian hotel industry. Employee Relations, 29(6): 576-594.
+5(1): 8-24. http://dx.doi.org/10.5465/AMLE.2006.20388381
 
-http://dx.doi.org/10.1108/01425450710826096
+CAREY, W.; PHILIPPON, D.J.; CUMMINGS, G.G. (2011). Coaching models for leadership
 
-CHONG, E. (2008). Managerial competency appraisal: A cross-cultural study of American and
+development: An integrative review. Journal of Leadership Studies, 5(1): 51-69.
 
-East Asian managers. Journal of Business Research, 61(3): 191-200. http://dx.doi.org/
+http://dx.doi.org/10.1002/jls.20204
 
-10.1016/j.jbusres.2007.06.007
-
-COLOMO, R.; CASADO, C. (2006). Mentoring y Coaching. It perspective. Journal of Technology
+CARLSON, D.S.; UPTON, N.; SEAMANS, S. (2006). The impact of human resources practices

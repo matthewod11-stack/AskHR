@@ -1,27 +1,13 @@
-## forensic psychologist and University of Liverpool professor Laurence
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 133031b1a9df0de545c0639472cb9dc737a4208e
+title: R2402L-PDF-ENG
+---
+# From Rapport to Request
 
-Alison explains in his book Rapport (written with Emily Alison), “When
+When you use these techniques to become a level-ﬁve listener, you
 
-we are able to extract someone’s core beliefs and values, we often
+boost your capacity for empathy, your ability to ﬁnd common ground,
 
-ﬁnd that they are more similar to ours than we imagine.” He adds
-
-that even if they’re not, “we don’t have to agree but we should seek
-
-to understand.” Alison recommends that negotiators hold themselves
-
-accountable by asking themselves four questions: Am I being honest
-
-or trying to manipulate the other person? Am I being empathetic and
-
-seeing things from that person’s perspective or just concentrating on my
-
-own point of view? Am I respecting and reinforcing people’s autonomy
-
-and right to choose, or am I trying to force them to do what I want? Am
-
-I listening carefully and reﬂecting to show a deeper understanding and
-
-build intimacy and connection?
-
-Ultimately, the most eﬀective among us eventually move beyond
+and your chances of gaining your counterpart’s cooperation. As the

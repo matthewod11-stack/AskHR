@@ -1,9 +1,9 @@
-## testimony. American Journal of Psychology, 21, 273–282.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b1a5446ddbb3e028bc8fafe399d7b3d7a359da5d
+title: untitled
+---
+## qesamte Strafrech-swissenschaft, 23, 56–66.
 
-Stovall v. Denno, 388 U.S. 293 (1967).
-
-Tarasoff v. Regents of the University of California, 17 Cal. 3d 425,
-
-551 P.2d 334, 131 Cal. Rptr. 14 (1976).
-
-Thompson, W. C. (1989). Death qualiﬁcation after Wainright v. Witt and Lockhart v. McCree. Law and Human Behavior, 13, 185–215.
+Stern, L. W. (1910). Abstracts of lectures on the psychology of

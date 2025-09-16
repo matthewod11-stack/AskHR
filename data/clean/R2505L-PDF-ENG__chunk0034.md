@@ -1,25 +1,19 @@
-## chain—from extraction to the sale of end products—more transparent
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0679a266f6aac752c221e496b130dc049adc2865
+title: R2505L-PDF-ENG
+---
+## HBR / Magazine Article / How to Counter Fake News
 
-by allowing consumers, investors, and other stakeholders to digitally
+Other companies have used more-sophisticated approaches to
 
-monitor the path of precious metals as they move along the chain.
+authenticate their claims. For instance, some fashion companies have
 
-Domino’s Pizza turned skepticism into a marketing advantage by openly
+adopted digital tools that allow consumers or other stakeholders to trace
 
-sharing real customer feedback—even negative reviews—while live-
+the origins of their products, see where they are produced, and gather
 
-streaming the preparation of its pizzas to prove quality claims.
+important information about suppliers. Players in the precious metals
 
-By making transparency a proactive strategy rather than a reactive
-
-defense—“prebunking” versus debunking—organizations create an
-
-environment in which fake news struggles to take hold in the ﬁrst place.
-
-- 3. Activate allies. Although radical transparency lays the groundwork
-
-for establishing social proof, it is not enough on its own. When fake
-
-news emerges, companies must actively enlist credible voices—experts,
-
-industry allies, and engaged consumers—to ﬂood the information
+industry have started very ambitious programs to make the supply

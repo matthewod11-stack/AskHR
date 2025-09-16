@@ -1,11 +1,21 @@
-# Seek feedback.
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbabf164d03c9d7eac72afa45eb513c36c0effc6
+title: H07P39-PDF-ENG
+---
+## and notice ineﬃciencies in both the software development process and
 
-Others often see us more objectively than we see ourselves. Research
+the company’s recruitment strategy. While your passion and drive may
 
-has shown that people don’t realize how they behave in certain
+urge you to tackle both issues, overhauling the recruitment strategy might be more complex, requiring collaborative eﬀorts and a broad coalition to address eﬀectively. Fighting the recruitment battle can lead
 
-situations, or they misremember their actions, leading to an inaccurate
+to frustration, burnout, and an erosion of credibility if changes don’t
 
-perception of themselves. Crusaders, often consumed by their vision,
+materialize quickly. And most likely, the recruitment team will respond
 
-may overlook crucial details or perspectives, leading to an incomplete
+defensively to your initiative. Instead, focus your energy and resources
+
+on streamlining the software development process, an area where you
+
+can make a signiﬁcant and meaningful impact given your expertise.

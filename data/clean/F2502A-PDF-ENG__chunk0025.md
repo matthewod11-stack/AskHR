@@ -1,11 +1,25 @@
-## design of their websites, logos, and other branding materials. The extra
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 875d09bb94946ae08069d43a0be58ab6d87e4c76
+title: F2502A-PDF-ENG
+---
+## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
 
-time gen AI gave us allowed us to uncover patterns in their preferences,
+How have you asked your team to invest the extra time?
 
-and we may not have been able to delve so deeply into the data without
+To better understand and serve our customers. By automating data
 
-it. Gen AI also helps us quickly test and iterate on new ideas. We use
+analysis, we can quickly gain insights into their preferences and behaviors.
 
-it to run numerous experiments simultaneously to identify which new
+For example, AI helps us analyze customer interactions and feedback,
 
-processes work better than traditional methods. That has led to significant
+allowing us to tailor our products and services to their needs better. This
+
+has improved customer satisfaction and loyalty. We never would have been
+
+able to do it as well without gen AI.
+
+What has gen AI helped you learn?
+
+Customers, especially small-business owners, are particular about the

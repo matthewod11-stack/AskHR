@@ -1,19 +1,13 @@
-## a persistent underinvestment in our own development.
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 777f68caf46bdf79b7ffcd73568af7bf58539cb9
+title: H07UPN-PDF-ENG
+---
+# Overcoming the Performance Paradox
 
-We sometimes think that engaging in learning will detract from
+Our lack of awareness of the two forms of eﬀort, along with our human
 
-performance, but that is shortsighted. Research in many domains shows
+bias to overvalue the present and undervalue the future and the
 
-the opposite: The highest performers are those who regularly engage in
-
-the learning zone. It doesn’t need to take more time. It’s about how we
-
-go about our daily work and life while getting things done.
-
-When we explore others’ ideas, leap beyond the known, try new ways
-
-of working, ask questions, experiment, examine mistakes, and solicit
-
-feedback, we discover ways to work smarter and achieve greater impact.
-
-This article was originally published online on October 13, 2023.
+presence of systems that have not been designed for learning, all lead to

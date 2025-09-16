@@ -1,27 +1,17 @@
-# them with cope with the Covid crisis.
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04307ace8e1ee30f62ceb3180caf395f3342db03
+title: R2302E-PDF-ENG
+---
+## to share their experiences and propose solutions to problems. At the
 
-Use rituals to mark transitions. Top performers in many ﬁelds do this
+debrieﬁngs Lombardo listened to what all attendees had to say and
 
-to shift their attention and focus their minds. Wade Boggs, the former
+thanked them for their input, and their ideas were considered seriously.
 
-third baseman for the Boston Red Sox, ate chicken before each game
+The approach worked: Patients received the care they needed despite
 
-and wrote the Hebrew symbol for chai (which means “life”) in the dirt
+the tough circumstances, and the solutions the group brainstormed in
 
-every time he went to bat. The tennis star Serena Williams bounces the
-
-ball exactly ﬁve times before her ﬁrst serve and two times before her
-
-second. The ballerina Suzanne Farrell pinned a small toy mouse inside
-
-her leotard, crossed herself twice, and pinched herself twice before
-
-going onstage.
-
-When you want input on an idea, don’t use potentially intimidating language such as “Is there anyone who disagrees?”
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the debrieﬁngs helped Codogno and other Italian hospitals it shared

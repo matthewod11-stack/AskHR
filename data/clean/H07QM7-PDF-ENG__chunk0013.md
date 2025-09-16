@@ -1,13 +1,27 @@
-# trust.
+---
+source_path: H07QM7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9ea762e18a732b82c81f71ed663a30e9661c7ad
+title: H07QM7-PDF-ENG
+---
+## HBR / Digital Article / What to Do When You Don’t Trust Your Employee
 
-- 3. Provide feedback on the speciﬁc behaviors that are leading to your distrust. Recall which of the three components of trust is low (competency,
+It’s also important to maintain regular one-on-one check-ins to ensure
 
-consistency, and character) and specify the behaviors that have
+you remain aligned, oﬀer the right amount of support, and create
 
-degraded your trust. For example, let’s say you identiﬁed that the source
+trust. To reduce hesitation in approaching you between these regularly
 
-of your distrust is a lack of consistency. What exact behaviors have you
+scheduled meetings, share that you have an “open-door” policy.
 
-observed that make you feel you can’t rely on them? Missed deadlines,
+When we feel like we can’t trust someone, we fear what might
 
-failure to follow through on a stated commitment, or failure to respond
+happen if we extend our trust, which often leads to more widespread
+
+micromanagement. So it’s critical that you give this person the
+
+opportunity to prove their trustworthiness. Excessive control and
+
+scrutiny will likely reduce their motivation, productivity, and feelings
+
+of ownership, which could result in behaviors that further erode your

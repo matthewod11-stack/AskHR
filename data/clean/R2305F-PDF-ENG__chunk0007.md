@@ -1,15 +1,19 @@
-## Unfortunately, a learn-it-all culture doesn’t arise naturally. And when
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b71fd14b6b5c949d4315ddc5a4c390066d09435e
+title: R2305F-PDF-ENG
+---
+## HBR / Magazine Article / When Diversity Meets Feedback
 
-it comes to sharing feedback and advice, diversity often leads to
+what had become a know-it-all culture into a learn-it-all culture. While
 
-complications, which, if not understood and managed, can create
+know-it-alls are focused on raising their status by showing oﬀ their
 
-an environment rife with bad feelings, defensiveness, and ruptured
+expertise and hiding their weaknesses, learn-it-alls have the courage
 
-relationships. That’s because the vast majority of people aren’t ready
+and humility to listen openly to constructive criticism and are eager to
 
-to receive criticism unless they feel safe with the person providing it.
+hear the opinions of teammates who have diverse viewpoints.
 
-Do the people assessing your work really mean to help you, or are they
-
-surreptitiously trying to embarrass you, take your job, or usurp your
+When it comes to sharing feedback and advice, diversity often leads to complications, which, if not understood and managed, can create bad feelings.

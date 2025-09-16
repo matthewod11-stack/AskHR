@@ -1,13 +1,11 @@
-# Emotions
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: fd0bb4a983b9041f33793ffdf3fcf4a88bb83854
+title: arop1noe_245_275
+---
+# Personality traits
 
-How do learning methods evoke different emotions among learners? How do learner emotions impact different learning outcomes? How do emotional states impact decisions to engage in learning activities?
+What situational factors can prime, activate, or help compensate for traits shown to predispose individuals to engage in learning? Are personality traits related to some learning and transfer of training outcomes but not others?
 
-Instructors and learning methods can influence learners’ emotions toward learning and thus subsequent knowledge and skill acquisition.
-
-256 Noe (cid:1) Clarke (cid:1) Klein
-
-6 2
-
-: 5 2 : 4 0
-
-5 2 0 2
+Organizations should prime a learning goal orientation state and provide support and opportunity for learning and self-development.

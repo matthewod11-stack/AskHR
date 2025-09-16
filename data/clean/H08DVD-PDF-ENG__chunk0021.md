@@ -1,7 +1,9 @@
-## online artifacts such as their name on an internal Slack channel and
+---
+source_path: H08DVD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4dd59c93ee52162fd52bcd06bd848acc06707d9f
+title: H08DVD-PDF-ENG
+---
+# for years.
 
-alongside tasks in a group project as email bounce-backs, reminding
-
-those left behind of their absence. Some organizations develop alumni
-
-slack groups to allow people to continue to connect after their
+And these employees often linger on. Their digital footprint remains in

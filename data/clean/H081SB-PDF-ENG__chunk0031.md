@@ -1,3 +1,7 @@
-# AD
-
-Andrea Derler is Visier’s principal of research and value, where she collaborates with Visier’s team of data scientists, people analytics experts, as well as HR professionals to help produce practical, data-driven insights for organizations. Visier is a Canadian-based people analytics technology provider, which maintains a database of more than 15 million employee records from over 15,000 companies globally.
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5d5fd34f3ce2d36cdd3e113215da50ab71669cc
+title: H081SB-PDF-ENG
+---
+# HBR / Digital Article / When New Hires Get Paid More, Top Performers Resign First

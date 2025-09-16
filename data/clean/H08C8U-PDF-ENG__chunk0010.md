@@ -1,17 +1,29 @@
-# corporate accounts.
+---
+source_path: H08C8U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dda7138a16cceca4a3b9cc44b6ec73ee91358291
+title: H08C8U-PDF-ENG
+---
+# HBR / Digital Article / How to Set Transformation Targets That Actually Drive Change
 
-Establishing absolute, minimum performance requirements allows
+In addition to encouraging unproductive behaviors, relative targets face
 
-leadership to determine whether the transformation is delivering results
+a practical constraint: tying them to the corporate ledger. Financial
 
-(or not). Absolute targets minimize squabbles over the baseline and
+systems are designed to measure performance in absolute terms —
 
-keep managers focused on actions to transform the company.
+e.g., revenues, gross proﬁt, EBIT. Consequently, introducing relative
 
-- 3. Use the company’s budget or operating plan to monitor success
+targets creates a disconnect between performance tracking for the
 
-Successful transformation eﬀorts embed performance targets in the
+transformation and the corporate ledger. Despite the availability of
 
-company’s budget or operating plan. Instead of specifying targets
+strong tools for tracking transformation initiatives — Bain’s ARC, for
 
-as savings relative to some baseline, targets are stated in terms of
+example — cost savings or proﬁt improvement targets often face
+
+substantial “leakage.” In fact, we ﬁnd that commonly less than 60%
+
+of “captured savings” — even opportunities supposedly reaching “L4
+
+Executed” or “L5 Realized” stage gates — actually show up in the

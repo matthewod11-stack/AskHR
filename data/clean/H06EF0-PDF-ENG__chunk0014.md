@@ -1,33 +1,17 @@
-## HBR / Digital Article / How to Be a Leader Who Stays True to Their Ethics
+---
+source_path: H06EF0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba29937a54f5ca1a04b89aa3a74cfe2b0f777239
+title: H06EF0-PDF-ENG
+---
+# Align your senior team.
 
-discussion will allow you, the leader, to test your own advocacy, and then
+Start a conversation with your senior team members. What are their
 
-lead your team to a consensus statement. Here’s how one CEO went about
+aspirations for the kind of company they want to create? This type of
 
-developing his company’s statement of purpose:
+Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
 
-In one of my ﬁrst meetings with the senior team, we talked about
+2
 
-what kind of legacy we wanted to leave. The team had a lot of energy
-
-for this. Everyone had something to say about it, and we put all the
-
-ideas up on the wall. We then looked for commonalities around what
-
-kind of difference we wanted to make. All of the ideas had to do with
-
-people, touching people in a positive way, and giving people a chance
-
-to grow. Today, we don’t talk about vision, but about the legacy we
-
-are trying to build.
-
-Be prepared to be derailed.
-
-Unfortunately, at some point, pressure to meet shareholder expectations
-
-will derail your aspiration to lead with a higher purpose and values.
-
-Research shows that there is an inevitable gap between what we humans
-
-espouse and what we actually do. The same is true for CEOs and their
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

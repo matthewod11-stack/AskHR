@@ -1,21 +1,17 @@
-# Ask: “Who?”
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d4839a1cd9e6833a38e37656a996fcfdb20a58e
+title: H08P2A-PDF-ENG
+---
+## natural processes and parts of every eﬀective organization. The more
 
-Third, ask who is attending the meeting. Does everyone in the meeting
+you think this meeting will evolve into dynamics that people might not
 
-have similar levels of seniority, power, and experience? How well do
+want captured, the more you should consider whether it’s worth hitting
 
-people know each other—are they good friends, work acquaintances,
+record. I once had an executive admit to using the record button to keep
 
-or have they never met? Groups with signiﬁcant power diﬀerences feel
+the lid on a hot issue, but we all know that norm-setting and clear roles
 
-riskier for those with low power, so consider whether you want to
-
-introduce something that might make those individuals feel less safe.
-
-Similarly, interactions with people we don’t know are inherently riskier
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are far better ways to manage group conﬂict.

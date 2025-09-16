@@ -1,9 +1,9 @@
-# quota attainment.
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 528e81af96975100417aefda4844d34db8bbcd63
+title: H07BT4-PDF-ENG
+---
+## an important predictor of seller success and a natural focus of sales
 
-So if three in four sellers report high levels of drive, then how can
-
-they also be burned out and looking for a new job? Blame another lesser-
-
-known character lurking in the seller motivation story – an evil twin of
-
-sorts whom we’ve come to call drag.
+leaders. As one might expect, higher drive is associated with higher

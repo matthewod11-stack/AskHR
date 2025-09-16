@@ -1,9 +1,7 @@
-# November–December 2021
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
-
-C o u r t e s y N a k e d G o o d G a l l e y
-
-.
-
-D E V R E S E R S T H G R L L A .
+---
+source_path: R2106K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c96a9add46df312770fc3ee79ed1f0cdc8fa2bc1
+title: R2106K-PDF-ENG
+---
+# 4 Harvard Business Review

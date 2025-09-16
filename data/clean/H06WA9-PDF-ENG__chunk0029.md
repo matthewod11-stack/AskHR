@@ -1,21 +1,39 @@
-# Identify Your Assumptions
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8e12fb17b3d85e00ff88e64b3f6a5dd099523bd
+title: H06WA9-PDF-ENG
+---
+# advancement.
 
-The assumptions we make about generational groups (including our
+Other parts of the world don’t necessarily label generations this way;
 
-own) can hold us back from understanding teammates’ true selves
+instead, specific age cohorts often acquire a name when their births or
 
-as well as the skills, information, and connections they have to oﬀer.
+childhoods coincide with events of particular culture relevance. Examples
 
-Noticing that we’re making these assumptions is the ﬁrst step to
+include the “little emperors” of China, born during the country’s one-child
 
-combating them.
+policy; the “born frees” of South Africa, who arrived after apartheid ended;
 
-Take headlines such as this one from 2019: “Why ‘lazy,’ ‘entitled’
+and Kenya’s Uhuru (“freedom”) Generation, born after the country gained
 
-millennials can’t last 90 days at work.” As is often the case, the
+independence. In Sweden cohorts tend to be grouped by decade, but even
 
-stereotype on display falls apart on closer inspection. Pew Research
+that can spark tension. Notably, a politician stirred controversy in the early
 
-Center has found that 70% of Millennials, who are currently aged 26 to
+2000s by coining the name köttberg, or “meat mountain,” to describe
 
-41, stick with their employers for at least 13 months; 69% of Gen Xers
+workers born in the 1940s, whom he saw as limiting youth employment.
+
+Around the world, those born recently (such as late Gen Zers and
+
+Generation Alpha in the United States) are being shaped by the Covid-19
+
+pandemic. Their early experiences of life, school, and their parents’
+
+jobs have mostly been in lockdown and on Zoom. So their ideas and
+
+expectations of the workplace will almost surely differ — dramatically —
+
+from those of the generations that preceded them.

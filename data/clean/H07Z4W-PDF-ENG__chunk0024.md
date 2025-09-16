@@ -1,15 +1,15 @@
-# HBR / Digital Article / When You Want to Be Hybrid, But Your Boss Wants You in the O…
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83d6ff63d703267cb4e04fab238769c59414dddb
+title: H07Z4W-PDF-ENG
+---
+## Sometimes, the root issue for in-oﬃce mandates or manager hesitance
 
-and control. You can tackle a small layer of this fear by proactively
+to approve a hybrid work schedule is fear over the loss of familiarity
 
-and intentionally planning. When scheduling workplace days, 81% of
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-hybrid workers scheduled to work onsite on the day they were heading
+6
 
-into the oﬃce, while only 10% scheduled their days in the oﬃce
-
-over a month in advance. (Sometimes you can stand out by doing
-
-what the data shows most people aren’t doing but should be doing.)
-
-Another way to demonstrate intentional planning is to schedule your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

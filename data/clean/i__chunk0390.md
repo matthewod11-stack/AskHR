@@ -1,21 +1,13 @@
-# There is an underlying Linear Relationship Assumption for Logistic Regression. The
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 80bf1841c82912283d4b0d2205d2dbc72f8f8a2c
+title: i
+---
+# 3.2 Logistic regression
 
-assumption is : there a linear relationship between the predictor (independent) variables and
+Logistic Regression can be employed for Binary or Categorical Variables (for example, yes/no,
 
-the output (dependent) variable. This means that the change in the predictor variables is
+pass/fail), traditional linear regression is not appropriate. Logistic regression is introduced as
 
-assumed to result in a linear change in the log-odds of the output variable in logistic regression.
-
-In logistic regression, the output variable undergoes a transformation. Instead of predicting the
-
-actual values, logistic regression predicts the probability that the given input belongs to a
-
-particular category. The transformation involves converting the linear combination of
-
-predictors into a probability using a logistic function, also known as the sigmoid
-
-function.Logistic regression is particularly useful when dealing with binary outcomes or
-
-situations where there are only two possible categories. The logistic function maps the linear
-
-combination of predictors to a value between 0 and 1, representing the probability of belonging
+an alternative specifically tailored for these scenarios.

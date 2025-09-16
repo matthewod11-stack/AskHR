@@ -1,17 +1,19 @@
-# Why Hurry Sickness Is Dangerous
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad7d578b187cfdc3474c3e036609c6c8cc93bc7a
+title: H08KYH-PDF-ENG
+---
+# and mental well-being.
 
-The anxiety and chronic stress that come from a frantic, always-on
+While the onus should be on employers to address many of the root
 
-lifestyle and the belief that you’re chronically short on time can result
+causes of hurry sickness — hustle culture, incentives to overwork,
 
-in high blood pressure, headaches, and insomnia. High blood pressure
+and constant organizational change, for example — there are steps
 
-and symptoms of anxiety and depression (commonly referred to as
+you can take to mitigate it even in non-ideal circumstances. Here,
 
-psychological distress) are known risk factors for cardiovascular disease
+we’ll explore the profound consequences of hurry sickness and outline
 
-and even death. A large meta study found that psychological distress
-
-alone increased risk of mortality from any cause — and the higher the
-
-psychological distress, the higher the risk of death, even after adjusting
+several strategies to reclaim your time and peace of mind.

@@ -1,7 +1,11 @@
-## possuem um espaço para mencionar seus anseios, que serão endereçados à alta
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 4c6e4f71412cd22562360edc79204625189d8c1d
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## assegurar este campo alternativo como um portal de comunicação com o
 
-administração da empresa, trimestralmente. A alta taxa de respostas conquistada
+colaborador; ao invés de inferir o que o funcionário queria comunicar ao agrupar um
 
-pela empresa bem como a regularidade na aplicação atendem à indicação de
-
-Legerstee (2013), mantendo o uso de uma métrica simples e a eficiência encontrada
+conjunto de perguntas pré-determinadas pelo time de RH. Assim, os colaboradores

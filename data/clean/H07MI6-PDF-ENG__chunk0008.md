@@ -1,7 +1,9 @@
-# one-oﬀ event.
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3d0105d1bfec554d0bdae170ffc332fcf7de879
+title: H07MI6-PDF-ENG
+---
+## from climate change to digitization, geopolitics to DEI, organizations
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+must treat transformation as a core capability to master, as opposed to a

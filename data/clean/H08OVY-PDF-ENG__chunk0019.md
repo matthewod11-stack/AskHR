@@ -1,5 +1,11 @@
-## “micro yes.” Asking, “Are you open to another perspective?” or “Could
+---
+source_path: H08OVY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c1b8989af5a8815271df75d0facf63bcd155190
+title: H08OVY-PDF-ENG
+---
+## HBR / Digital Article / How to Tell Your Boss They’re Wrong—Tactfully
 
-I share what I’m seeing?” makes the conversation “feel less adversarial
+signal collaboration. Wilding also suggests getting a small agreement
 
-and increases the chances they’ll be receptive,” she says.
+before oﬀering your perspective, a psychological principle known as a

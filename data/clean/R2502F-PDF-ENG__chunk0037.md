@@ -1,19 +1,31 @@
-## team. Deviations from the desired behaviors or necessary updates to the
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b68dcfa6d544056b2bb2d68f1d04e69132201c93
+title: R2502F-PDF-ENG
+---
+# together.
 
-document were also discussed. This ritual allowed each negotiator to
+This can be challenging. Negotiators should make their own rituals
 
-connect with and feel appreciated by the other team, while explicitly carving out time to discuss their relationship-building eﬀorts and
+explicit up front, share the intentions behind them, and discuss how
 
-direction. It helped set a positive, collaborative tone, which became
+adopting each other’s rituals may introduce diﬃculties. In one instance
 
-the foundation for mutual understanding—without team members’
+of this, two teams from Switzerland and Spain were starting a long-
 
-needing to become experts in each other’s cultural practices.
+term negotiation that would require regular meetings. Aware of their wide cultural diﬀerences, the teams jointly created a simple, shared
 
-In any cross-cultural negotiation, it is important for teams to have
+document, which they named hoja de ruta (road map), written in
 
-ongoing conversations about their shared rituals and behavior. Skipping
+Spanish because one of the Swiss team members was ﬂuent in the
 
-or phasing out these conversations usually results in negotiators from
+language. In this document, they outlined the ﬁve positive behaviors
 
-each side defaulting to their preferred ways of operating and increases
+they expected from each other during the negotiations, codifying
+
+collaborative intentions on both sides. Then they created a ritual
+
+around it: At the start of meetings, each person would brieﬂy share
+
+a positive hoja de ruta behavior performed by a member of the other

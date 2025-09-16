@@ -1,25 +1,28 @@
-### **[AI as metacognitive coach: the new collaboration model]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: fd8d96044e588ca5088315ed97ef2f9b794a5300
+title: Gibbons
+---
+### **[Understanding the metacognitive advantage]{.underline}**
 
-[When most people interact with AI, they ask for answers. But the real
-power comes from asking AI to help you examine your questions. This
-shifts AI from an oracle providing solutions to a coach developing your
-thinking capabilities.]{.underline}
+[Metacognition is essentially having a conversation with yourself about
+your own thinking. It\'s the mental equivalent of watching yourself on
+video --- suddenly you notice habits and patterns invisible in the
+moment. Do you jump to conclusions? Overlook certain types of evidence?
+Become overconfident when you have moderate expertise?]{.underline}
 
-[At Wharton, professors Ethan and Lilach Mollick have pioneered this
-approach in education. In their 2023 paper \"Assigning AI: Seven
-Approaches for Students, with Prompts,\" they outline different ways to
-use AI as a learning partner, including as a coach, mentor, and
-simulator. These aren\'t just tools for getting homework done ---
-they\'re methods for developing metacognitive skills.]{.underline}
+[Research by David Dunning and Justin Kruger published in 1999 famously
+showed that people with the least competence tend to be most confident
+--- they literally don\'t know enough to recognize their ignorance. In
+their study, participants scoring in the bottom quartile on tests of
+humor, grammar, and logic estimated themselves to be in the 62nd
+percentile when they were actually in the 12th. The researchers
+attributed this to a lack of metacognitive ability: incompetence robs
+people of the capacity to realize they are incompetent.]{.underline}
 
-[\"This metacognitive exercise can help you identify what you want to
-explore and what you already understand,\" notes Stanford\'s Teaching
-Commons in their guide on AI chatbots. \"Making connections to what you
-already know can deepen your learning and support your
-engagement.\"]{.underline}
-
-[The Mollicks emphasize keeping humans \"in the loop,\" promoting active
-oversight and critical assessment of AI outputs rather than passive
-acceptance. This represents a fundamental shift from the tool paradigm.
-You don\'t \"use\" a coach. You work with them to develop capabilities
-that persist beyond individual sessions.]{.underline}
+[This is where AI becomes fascinating as a metacognitive partner. Unlike
+human colleagues who might hesitate to challenge a senior expert, AI
+systems have no social inhibitions. They can serve as what I call a
+\"cognitive mirror\" --- reflecting your thinking patterns back to you
+without judgment or hierarchy.]{.underline}

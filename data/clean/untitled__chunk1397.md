@@ -1,3 +1,11 @@
-# 238 Social Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ae8fdef9677ff676e07056f25834e19ed0f206a3
+title: untitled
+---
+# A Social Psychology of Social Psychology
 
-psychology’s image of positivist “man” was further uncov- ered to be commensurate with the Western ideology of pos- sessive individualism, an “important ingredient of political liberalism” and “predominant ideology of modern capital- ism,” as Joachim Israel (1979) and others traced out (e.g., Sampson, 1977) in dissonance theory, level of aspiration work, and social comparison group research. “Domination- recognition” struggles provided another case in point, regard- ing which Erika Apfelbaum and Ian Lubek (1976) asked whether social psychology played a repressive role. Their concern was that social psychology detracted attention from identity processes, such as those among women and blacks, and so eclipsed recognition of those relational spaces where power shapes a group’s chances for visibility and its capacity to claim an identity of its own (also see Apfelbaum, 1979/1999). Other critical historical studies elaborated this central critique of social psychology’s subjects and subject matters, such as Lita Furby’s (1979) and Karen Baistow’s (2000) examination of the cultural, historical, and political particulars of the concept of locus of control.
+Not quite mirroring one another, social psychology’s troubles around its individual–social world relation were becoming as fraught as the internal–external divide constituting the imag- ined interior of its subject. Julian Henriques (1984/1998), for one, argues that “for psychology the belief in rationality and in perfect representation come together in the idea of scien- tiﬁc practice” such that with an individual subject prone to errors “the path is set for empiricist science to intervene with methodologies which can constrain the individual from the non-rational as, for example, Allport has social psychol- ogy protecting individuals against the lure of communist misinformation and society against subversion” (p. 80). Other analyses had begun to show in different ways prob- lems with social psychology’s individual–social world and person–situation dualisms. With these problems came the appearance of splinters in social psychology’s positivist de- sires for knowledge outside history, culture, and time. Social
+
+237

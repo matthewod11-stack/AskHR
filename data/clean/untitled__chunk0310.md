@@ -1,3 +1,7 @@
-## Watson, J. B. (1924). Behaviorism. New York: Norton.
-
-Watson, J. B., & Rayner, R. (1920). Conditioned emotional reac-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f89b3368c2b765fb0f00ec4d9fd75115aa73b718
+title: untitled
+---
+# ist. Philadelphia: Lippincott.

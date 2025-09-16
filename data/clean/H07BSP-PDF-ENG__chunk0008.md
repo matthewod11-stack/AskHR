@@ -1,15 +1,15 @@
-## on classroom training rather than the on-the-job behavioral practice
+---
+source_path: H07BSP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a97deb90baa06007f8242cb3eb735781b22f48e4
+title: H07BSP-PDF-ENG
+---
+## HBR / Digital Article / Using Simulations to Upskill Employees
 
-required by most jobs, 2) a failure to recognize the importance of peer
+study determined that 75% of senior managers at organizations were
 
-learning and modeling behavior: most adults learn best by watching
+dissatisﬁed with their L&D initiatives. Conversely, Gartner reports that
 
-how the best of their peers perform key tasks, and 3) a lack of ongoing
+70% of employees feel they lack the skills required to do their jobs.
 
-feedback through relevant performance management processes.
-
-In this article we will examine why the shortfall has occurred, what
-
-companies have done to train employees in a more eﬃcient and
-
-interactive way, and how technologies can help make L&D processes more eﬀective.
+There are three systemic reasons for this paradox: 1) an over-reliance

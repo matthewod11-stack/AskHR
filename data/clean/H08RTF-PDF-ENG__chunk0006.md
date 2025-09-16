@@ -1,7 +1,9 @@
-## survey from the workplace wellness consultancy Mind Share Partners
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b390beab21e83d9d47ff6eed37c801cb09129b0
+title: H08RTF-PDF-ENG
+---
+# measures like layoﬀs.
 
-in partnership with Qualtrics of over 1,100 U.S. employees found that
-
-90% of participants reported “at least minor levels of one mental health
-
-challenge,” with the top three stressors being U.S. politics, global events,
+In short, your people have a lot to worry about right now. A new

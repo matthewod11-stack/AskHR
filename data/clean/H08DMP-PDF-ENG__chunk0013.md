@@ -1,15 +1,23 @@
-# HBR / Digital Article / One Company A/B Tested Hybrid Work. Here’s What They Foun…
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23911cf921aebc6d8e25f107b61931a5e5a9eb43
+title: H08DMP-PDF-ENG
+---
+## into a detailed, multi-dimension performance review on a ﬁve-point
 
-Second, in Trip.com’s approach to hybrid work, employees have a clear,
+scale. Through a bell curve appraisal system which ensures a range of grades, Trip.com can eﬀectively recognize and reward the top
 
-coordinated schedule of when their team will be in the oﬃce together.
+performers while identifying the bottom ones who are then placed
 
-This prevents the frustration of coming into an empty oﬃce only to
+on performance improvement plans. Moreover, pay and promotions
 
-participate in Zoom calls they could have easily done from home.
+are directly linked to the review. So, the company’s managers can eﬀectively motivate and reward high-performing employees whether
 
-Trip.com enables all employees to work from home on Wednesdays and
+they work from home or in the oﬃce.
 
-Fridays. Other businesses might choose to set their in-oﬃce days at the
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-team or company level, but schedule clarity is critical for successful
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

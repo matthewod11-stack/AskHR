@@ -1,11 +1,13 @@
-# HBR / Digital Article / A Guide to Updating Your Resume When Moving from Public to P…
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa5cd0fa97a8ac5368bdf9bd004076fef6f5c10c
+title: H08O5Y-PDF-ENG
+---
+# career possibilities.
 
-Before reaching out to people, take the time to clarify your career goals.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-What kind of role are you looking for? Which industries interest you?
+5
 
-Having a clear direction will make your conversations more productive
-
-and help others guide you toward the right opportunities.
-
-Once you have a focus, start expanding your network beyond
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

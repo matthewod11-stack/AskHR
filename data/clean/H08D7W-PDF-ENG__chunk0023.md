@@ -1,21 +1,21 @@
-## HBR / Digital Article / 4 Pillars of Innovation Every Organization Needs
+---
+source_path: H08D7W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7a14214b6f1200f404ac78e6f0aca4b3875830d
+title: H08D7W-PDF-ENG
+---
+## collaborations with suppliers, customers, universities, startups, or
 
-you need to ﬁnd people within the team to do the long-term work
+companies using relevant technology in a totally diﬀerent way.
 
-of building those relationships, having speculative conversations, and
+For example, the jeans company Levi Strauss has been collaborating
 
-hunting for partner capabilities that may not be immediately apparent.
+with Google to ﬁgure out what “smart” clothing might accomplish for
 
-You don’t want to be Yahoo, which declined to engage with an ambitious
+users. But doing so needs focused and dedicated work. That means
 
-early-stage company boasting a diﬀerent business model: Google.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-What to do instead: Put specialists in strategic technology partnerships
+3
 
-on the lookout. Have them work in collaboration with core business
-
-teams who can use these partnerships to make innovation happen.
-
-For example, many pharma companies have these types of partnership oﬃces near MIT, and it’s an approach that can be replicated by a broad
-
-range of industries. Johnson & Johnson’s university collaborations not
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,41 +1,13 @@
-# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2a0c25fec37771c738b636c2a1b2893c3f9c739
+title: H08HKF-PDF-ENG
+---
+## cases, 100,000+), across dozens of countries and hundreds of markets.
 
-There is an important diﬀerence between metrics for the RAI program
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-itself and metrics for speciﬁc AI models or solutions. It is not just
+4
 
-the models themselves that need to be measured — the RAI program
-
-itself must be tracked for the purposes of ensuring compliance and
-
-improvement. Establishing metrics that track the rollout and impact of
-
-the RAI program, as well as whether and how employees are complying
-
-with it, is critical.
-
-Metrics should measure the extent to which:
-
-- Employees are aware of the RAI program, including the policies and
-
-procedures that pertain to their role
-
-- Each employee is abiding by the RAI program, including situations
-
-in which an employee is either using the AI themselves or overseeing
-
-someone else using AI
-
-- The RAI program is producing the desired impacts • Eﬀorts at improving the RAI program are successful
-
-Designing RAI metrics is as complex as it is important. Important high-
-
-level decisions include:
-
-- What is it worthwhile to measure, and what metrics will be used?
-
-- Who is responsible for collecting and evaluating them?
-
-- What is the frequency at which the metrics will be collected?
-
-- What are the appropriate measurement targets, benchmarks, and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

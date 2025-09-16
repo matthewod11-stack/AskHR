@@ -1,9 +1,7 @@
-# convey messages to employees.
-
-Tactical style A leadership style in which a person leads through organization and strategy; most effective in a climate of disorganization.
-
-Task analysis The process of identifying the tasks for
-
-which employees need to be trained.
-
-Task-centered leaders Leaders who define and
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 25fd8fe7f1fdbc734235420d3b696566e37bc489
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Symbols Organizational behaviors or practices that

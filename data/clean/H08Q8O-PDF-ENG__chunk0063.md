@@ -1,23 +1,35 @@
-# Attentive adaptability.
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 581949bece10ac226ec210043ffa7c048384c41a
+title: H08Q8O-PDF-ENG
+---
+# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
 
-A care lens requires managers to be attentive to individual contexts and
+Taking a care lens invites organizations to develop a policy as a guiding
 
-personal situations. As the CMG case illustrates, attentiveness means
+principle and be transparent about it (while also being ready to adapt).
 
-being curious about people—asking questions and testing assumptions.
+For instance, the HR director of one of the European oﬃces of an
 
-This can be a challenge. If, as a Gen X manager, you work for On, the
+international consultancy told us that while they have a hybrid option
 
-fast-growing Swiss shoe company where 50% of employees are in their
+for all, young graduates have to be fully on-site for their ﬁrst six months.
 
-twenties, you have to cross a generational divide in understanding your
+She explained that these new hires do not complain, because they
 
-Gen Z employees. If, as a neurotypical manager, you work for ASML, the
+are told about it from the start—something missing in cases such as
 
-Dutch company that makes the photolithographic machines central to
+Amazon and Dell, where employees’ expectations had been set during
 
-semiconductor manufacturing, you have to show care for some of the
+Covid and the explanations for bringing them back to the oﬃce were
 
-roughly 15%–20% of its employees who are neurodivergent and react to the world very diﬀerently.
+only given afterward—and the new hires at the consultancy know it is
 
-In a culture of care, attentive managers quickly ﬁnd that they have to
+only for a six-month period. “It’s essential to be clear about not only the
+
+policies but also the rationale explaining them,” the HR director said.
+
+“It’s important to justify your decisions. You can’t just impose things with no explanation.” To be most eﬀective, these explanations need to
+
+address what matters as well as what is right and what works.

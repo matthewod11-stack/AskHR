@@ -1,23 +1,13 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37bf6c1a4492551a4ce081c7bde0a1bb0ba654e2
+title: H07T7V-PDF-ENG
+---
+# cultures most rapidly over time.
 
-You can take that and put that to work in a company. A company is a
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-large group of mostly unrelated people. And the goal of a company is to
+16
 
-improve its culture, its artifacts, its technologies, its practices over time.
-
-The goal of a company is to practice very rapid cultural evolution. Now
-
-that we know a bit about how cultural evolution happens, we can put
-
-those insights to work.
-
-There’s this massive unexplored opportunity to take the insights from
-
-this ﬁeld and put them to work inside the company. I think it’s so
-
-massive because I haven’t heard anybody talk using cultural evolution’s
-
-terms inside even very geeky companies. This is very, very new stuﬀ.
-
-And I think The Geek Way is the ﬁrst applied business book of cultural
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

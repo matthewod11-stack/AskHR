@@ -1,33 +1,19 @@
-# of intelligent failure.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca35ffd1e1ff02d2fecaef13a46d02b323c098c3
+title: H07QOV-PDF-ENG
+---
+## settings like the simulator, not in the execution of the real duties.
 
-ADI IGNATIUS:
+But I don’t think it’s possible to describe industries in the way your
 
-What does a productive failure look like? You did mention that there are
+question implies. I think there’s variation across companies. Pick an
 
-good and bad failures. What’s the diﬀerence and how does one try to
+industry like fast-moving consumer goods. It’s going to be not that hard
 
-make sure their failures are the good kind?
+to ﬁnd diﬀerences in cultural failure tolerance within those industries
 
-AMY EDMONDSON:
+across companies. So a more sensible way to put that is that some
 
-In known territory where we have a process or a formula for getting the
-
-result we want, it’s best practice to use that process, use that formula
-
-and get the result we want. So when a Citibank employee a number
-
-of years ago accidentally made a small human error and accidentally
-
-wired $800 million to a client that he shouldn’t have, that was a basic
-
-unproductive failure. Turns out they were not even able to get the
-
-money back. So, not celebrating that kind of failure.
-
-A productive failure is one where we get new and useful knowledge,
-
-new knowledge that helps us go forward in creating the kind of value
-
-we’re trying to create in our market, for our customers. So we discovered
-
-something that we could not have discovered without trying it, without
+companies are doing better than others in having a healthy tolerance

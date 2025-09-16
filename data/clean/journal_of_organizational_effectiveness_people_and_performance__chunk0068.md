@@ -1,15 +1,11 @@
-# I
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: dad075fbb25240b1cb47e2bdb8f560d548305463
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# M
 
-d e d a o l n w o D
+,
 
-In one of the few published studies on socialization and newcomer engagement, Saks and Gruman (2011) found that socialization tactics, rather than being directly related to newcomer engagement, were indirectly related to engagement through personal resources such as self-efficacy, positive emotions, and person-job fit perceptions. These findings contrast with previous research showing that socialization tactics are related to outcomes such as job satisfaction, organizational commitment, in part because they provide newcomers with information and reduce uncertainty (Saks et al., 2007). Thus, socialization tactics appear to be effective with regard to providing information and uncertainty reduction, but less effectual when it comes to getting newcomers engaged.
-
-Kahn’s (1990) model of personal engagement and JD-R theory potentially provide a better account of newcomer socialization and engagement. Kahn (1990) found that a person’s level of engagement was a function of the experience of three psychological conditions: psychological meaningfulness, psychological safety, and psychological availability. Kahn’s (1990) three conditions seem especially relevant and important for newcomers. That is, given their vulnerability and anxiety, newcomers need to feel worthwhile, useful, valuable and not taken for granted (meaningfulness); they need to feel that they can express themselves fully and be themselves without fear of negative consequences (safety); and they need to have the physical, emotional, and psychological resources to be available to perform their job and roles and to cope with work and non-work demands (availability).
-
-Furthermore, following from the JD-R model and the importance of job resources for engagement, we suggest that certain resources may be especially important for newcomers to experience Kahn’s (1990) three psychological conditions. A resource-based approach to socialization has been suggested as a meaningful way to understand and improve newcomer adjustment and socialization (Saks and Gruman, 2014), and might also be useful for understanding how to engage newcomers. Thus, as reflected in Figure 1, HR socialization practices should provide newcomers with resources that will lead to Kahn’s (1990) three psychological conditions, that in turn will lead to engagement. In this sense, Figure 1 integrates propositions from JD-R theory (Bakker and Demerouti, 2008, 2014) and from Kahn’s (1990) theory of engagement.
-
-Although numerous socialization practices (e.g. orientation programs) have been studied in the socialization literature, they have not previously been considered as resources within the context of the JD-R model (Bakker and Demerouti, 2008) or linked to Kahn’s (1990) psychological conditions and engagement. Therefore, in what follows we describe socialization resources that might be effective for the development of each of Kahn’s (1990) psychological conditions and for facilitating newcomer engagement.
-
-Socialization resources and psychological meaningfulness Psychological meaningfulness refers to the extent to which people derive meaning from their work and feel that they are receiving a return on investments of self in role performances (Kahn, 1990). Kahn found that work that is experienced as challenging, clearly delineated, varied, creative, and autonomous is most likely to be associated with the experience of psychological meaningfulness. Task characteristics such as skill variety, task identity, task significance, autonomy, and performance feedback (Hackman and Oldham, 1980) have consistently been found to be important job resources that also predict employee engagement (e.g. Bakker and Demerouti, 2007; Saks, 2006).
-
-In the socialization literature, Katz (1980) found that task significance and feedback are especially important for newcomers during their first three or four months. Similarly, Colarelli et al. (1987) found that autonomy and feedback were positively related to job
+Y T I S R E V N U R E T S A C N A L y b

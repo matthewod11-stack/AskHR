@@ -1,37 +1,27 @@
-## to both the external situation and your own emotional response so that
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb8c03270294aa5efa0f471d298eb58ba466f1c3
+title: R2505C-PDF-ENG
+---
+# Take Small Steps
 
-you can look at both more dispassionately. Ask questions like, What
+Many people equate bold action with big moves. But the leaders and
 
-am I facing here? Whom can I call in to help and advise me? What
+organizations I studied took small steps into murky environments
 
-immediate steps can I take to better understand what’s going on?
+before making leaps, deploying a strategy that Karl Weick calls
 
-When the 2011 tsunami hit nuclear plants in Fukushima, Japan,
+sensemaking. Making small moves like this helps you gradually gain
 
-destroying equipment and threatening catastrophic meltdown, Naohiro
+more clarity about your situation. You let go of the need for a perfect
 
-Masuda, the Daini site’s supervisor, and his team managed to save their
+plan and open yourself to possibilities, trusting that the path will
 
-facility by quickly evaluating the damage and calibrating their response.
+emerge as you proceed.
 
-As 55-foot-high waves battered a plant designed to handle only up to 17
+Evaluate objectively. The initial catalyst for sensemaking is often a
 
-feet of water, they gathered around a whiteboard, writing down data on
+disruptive event that creates uncertainty. While your instinct might be
 
-the situation and analyzing what could go wrong and how best to stop it.
-
-Let meaning emerge. Next, scour the environment for any information
-
-you can get your hands on—even small, seemingly insigniﬁcant cues
-
-—and assemble them into an interpretation. What patterns do you
-
-notice? How does what you’re seeing relate to other situations you’ve
-
-encountered in the past? Create hypotheses and then choose the one
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to freeze or ﬂee, you must instead practice mindfulness, staying attuned

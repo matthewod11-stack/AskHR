@@ -1,13 +1,13 @@
-# HBR / Digital Article / 3 Reasons Change Initiatives Fail — and How to Ensure Yours Su…
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20e6ddc441d4568dbe97d2c83315a665015f2801
+title: H08I7Y-PDF-ENG
+---
+## program as the natural solution to these challenges.
 
-Upon arrival, Debora spent time talking with employees across all
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-levels, many of whom described their post-transformation workplace in
+1
 
-a negative light, using such terms as “war room” and “Hunger Games.”
-
-The ﬁndings from a recent company pulse survey reinforced what she
-
-had heard: Although employees understood why change was needed,
-
-they felt they were already stretched too thin to take on any new
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,19 @@
-## authentic, positive, and free of status-laden cues. These behavioral
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91787c89a69de4af57e631c5bb258331af8dcaea
+title: H08SUP-PDF-ENG
+---
+## test assumptions throughout the discussion.
 
-shifts and changes in linguistic patterns ultimately helped reduce
+We further investigated what kinds of behaviors drove this expansion
 
-the psychological and social costs typically associated with oﬀering
+in discussion breadth and found clear evidence that experts actively
 
-unshared or dissenting information, encouraging a richer and more
+changed their interaction patterns. Members began to “pull” more
+
+information from one another by purposefully directing a higher
+
+proportion of questions to peers. They also redistributed speaking time
+
+more evenly amongst themselves, and they adopted language that felt

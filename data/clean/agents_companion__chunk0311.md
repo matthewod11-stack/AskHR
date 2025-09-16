@@ -1,15 +1,25 @@
-# data and workflows
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: a6ed8a3b80442f9907da2e7bd1292b8f552fcf2f
+title: agents_companion
+---
+## like RBAC, VPC Service Controls, and IAM integration.
 
-Future Directions for Agent Research and Development: The field of AI agents is
+- 10. Efficient use of developer cycles: The classic build vs buy design choices remain front
 
-undergoing rapid evolution. Key areas of ongoing research and development include:
+of mind, as the industry of gen AI agents is rapidly evolving. Consider platforms and
 
-- Advanced Evaluation Methods: Developing more robust and scalable evaluation
+products as alternatives to building everything from scratch. This will buffer some of the
 
-techniques, including process-based evaluation (focusing on reasoning), AI-assisted
+churn of a fast changing industry and allow you to focus on your data, domain, and users.
 
-evaluation, and standardized benchmarks.
+71
 
-- Multi-Agent Coordination: Improving the coordination and communication mechanisms
+- 11. Agents in the enterprise: Agents are transforming the way we work by making us much
 
-within multi-agent systems to enable more effective collaboration, task handling,
+more productive, and the way automation can be accomplished. Knowledge workers will
+
+increasingly be managing fleets of agents and novel UX will emerge. Google Agentspace
+
+is a powerful tool allowing to put Enterprise Search, AI and AI Agents on top of company’s

@@ -1,17 +1,9 @@
-## humanitarian cooperation into a political breakthrough.
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: debaf543dd7d5bedf422a5ecd585e1f2d1ace7da
+title: R2504D-PDF-ENG
+---
+## HBR / Magazine Article / The Conflict-Intelligent Leader
 
-Ahtisaari designed a process in which former enemies worked together
-
-to distribute aid and rebuild communities. Like Mitchell’s “gardens
-
-of agreement” in Northern Ireland, these partnerships created what
-
-Ahtisaari called “islands of cooperation” that gradually expanded. He
-
-insisted on concrete conﬁdence-building measures—joint monitoring
-
-teams, shared reconstruction committees, combined security patrols—
-
-that produced tangible evidence of the beneﬁts of peace. The Helsinki Memorandum of Understanding that emerged from those eﬀorts
-
-included detailed provisions for natural-resource sharing, political
+more costly than peace for all parties. His genius lay in transforming

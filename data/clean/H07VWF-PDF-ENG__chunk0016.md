@@ -1,7 +1,25 @@
-## Neuroscience is Rewriting the Story of Parenthood.
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 932ad4619e4d829aa80791a937aa1afdb20d746f
+title: H07VWF-PDF-ENG
+---
+# brain.”
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+For dads, the brain changes initiated by cues from their babies link
 
-2
+to the father-infant connection, suggesting that such neural changes
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+prepare the brain for fatherhood. One key factor in this research is that
+
+the most impactful, neurologically expanding experience is engaged
+
+experience. “No one is born with this magic ability to fall into the
+
+[parent] role easily. But we need to do the work of fully engaging
+
+because that is the thing that’s going to drive the neurobiological
+
+changes to give them the tools that they need to build over the
+
+long term,” explains Chelsea Conaboy, author of Mother Brain: How

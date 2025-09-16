@@ -1,5 +1,9 @@
-## setting”, Human Resource Management Review, Vol. 21, pp. 137-147.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 0dba6051dc8ff9c950195467d9fa3c24d1006304
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## change and job satisfaction: Psychology, Vol. 90, pp. 882-892.
 
-Bowen, D.E. and Ostroff, C. (2004), “Understanding the HRM-firm performance linkages: the role of the strength of the HRM system”, Academy of Management Review, Vol. 29 No. 2, pp. 203-221.
-
-(2007), “Performance management theory: a look from the performer’s perspective with implications for HRD”, Human Resource Development International, Vol. 10, pp. 59-73.
+Bouskila-Yam, O. and Kluger, A.N. (2011), “Strength-based performance appraisal and goal

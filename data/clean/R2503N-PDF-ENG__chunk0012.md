@@ -1,15 +1,47 @@
-# Avraham Kluger, and Dotan Castro.
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dde94e3822197e3bbaa5a282aa33e621d4669c7b
+title: R2503N-PDF-ENG
+---
+## HBR / Magazine Article / Are You Really a Good Listener?
 
-The lesson is to steel yourself against defensiveness by calming your
+always poorly received. Your ﬁrst job is to understand the message and
 
-own emotions and seeking to understand the other parties’ intentions
+intent of the speaker. Respond only after that job is done.
 
-before responding. Before you speak, take stock of yourself. If you feel
+- 2. Defensiveness
 
-criticized or threatened, buy yourself time by simply restating what you
+When employees raise concerns or oﬀer critical feedback, defensiveness can be a natural, knee‑jerk reaction. For instance, James Clarke, the CEO of Clearlink, reportedly became defensive when responding to complaints about the company’s return-to-oﬃce policy, which abruptly
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+required all employees within 50 miles of headquarters to work on-site
 
-5
+four days a week. Many people were surprised and upset, but instead of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+listening to them, Clarke lashed out, questioning the motives of those
+
+who disagreed with the policy, expressing doubt that working mothers
+
+could be productive, and—bizarrely—praising an employee who sold
+
+the family dog so that she could comply with the policy.
+
+A similar pattern can be seen in Owen’s response. Instead of validating
+
+employees’ worries, she responded defensively, telling people not to ask
+
+the question. Pichai’s shift to TGIF meetings that focus on product and
+
+business strategy rather than other issues also reﬂects defensiveness.
+
+Such reactions are not just unproductive; they erode trust and morale.
+
+Employees who feel dismissed are more likely to disengage, which
+
+weakens relationships and leads to poor organizational outcomes. By
+
+contrast, when listeners avoid being judgmental and instead express
+
+empathy, speakers are less anxious and thus better able to handle
+
+disagreement should it arise, according to research from Guy Itzchakov,

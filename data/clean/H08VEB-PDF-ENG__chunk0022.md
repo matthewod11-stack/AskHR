@@ -1,17 +1,27 @@
-## HBR / Digital Article / The Best Leaders Normalize Emotion at Work
+---
+source_path: H08VEB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ef4f546ea19a95ec605b8f2cc326f55f887c29d
+title: H08VEB-PDF-ENG
+---
+# Normalize
 
-There are small ways to do this. During crunch times, you might say: “I
+Leaders who normalize emotional expression—both the positive and the diﬃcult—help build teams that are more creative, eﬀective at
 
-know things are hectic. I’m feeling stressed too—but we’ll get through
+solving problems, and resilient. When you model emotional honesty in
 
-it together.” Acknowledging a shared “negative feeling” can help create
+a grounded and intentional way, it signals safety and builds trust.
 
-calm and show your team you’re in it with them. During one-on-ones
+This does not mean baring your soul. In fact, oversharing can
 
-or team meetings, ask questions that prompt people to reﬂect on their
+undermine your credibility and destabilize your team. The goal is to
 
-state of mind, like: “What’s one thing you’re feeling good about, and one
+show a little humanity and demonstrate that having a full range of
 
-thing that’s weighing on you?” You might also share a past challenge
+emotions is normal and allowed.
 
-you’ve faced in your life or career to show you’ve been through hard
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

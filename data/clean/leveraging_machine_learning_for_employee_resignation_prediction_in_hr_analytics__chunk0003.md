@@ -1,15 +1,19 @@
-## AICI 2025, February 14–16, 2025, Kuala Lumpur, Malaysia
+---
+source_path: leveraging_machine_learning_for_employee_resignation_prediction_in_hr_analytics.md
+pages: n/a-n/a
+chunk_id: 1288c77ef3695d3a7ceaad81e8fc78f2f06a7178
+title: leveraging_machine_learning_for_employee_resignation_prediction_in_hr_analytics
+---
+# Keywords Graph A(cid:2386)ention Networks (GAT), Predictive Analytics, Employee Resignation
 
-provide an e(cid:2649)cient tool for companies to comprehend be(cid:2386)er and manage employee a(cid:2386)rition, but it also provides actionable insights for executing targeted retention measures and resource planning. (cid:2399)rough leveraging the power of the strengths of graph-based approaches, we propose a novel way of representing the intricate dynamics between various causes of employee a(cid:2386)rition. We view our GAT model as an excellent innovation compared to the con- ventional approaches, which have immense potential to enhance the prediction of employee a(cid:2386)rition.
+∗Corresponding author
 
-2 Related Work (cid:2399)e application of machine learning methods for the prediction of employee a(cid:2386)rition has been a vibrant research area, with many studies applying various models to determine the relevant features that drive employee turnover. (cid:2399)e initial studies investigated the application of conventional machine learning methods. Fallucchi et al. (2020), for instance, studied the e(cid:2646)ect of objective features such as employee satisfaction and job title on a(cid:2386)rition and created a predictive model through machine learning methods to predict employee turnover [7].
+Graph A(cid:2386)ention Networks (GATs) are well-adapted to perform the a(cid:2386)rition prediction task. In a GAT-based model, each employee is a node, and his/her relation or similarity with other employees is thegraph’sedge. (cid:2399)emodelemploysindividualemployeea(cid:2386)ributes like age, job satisfaction, and pay as node features. An employee- based adjacency matrix from employee similarities is utilized to create a graph with edges re(cid:2648)ecting the strength of the employee relationship.
 
-Deep learning approaches for enhancing the accuracy of predic- tions have also been investigated in other studies. Raza et al. (2022) employed deep learning models to enhance the feature space of the data and enhance the accuracy of employee a(cid:2386)rition prediction [8]. Arqowitz et al. (2022) investigated deep learning models for employee a(cid:2386)rition and performance prediction and showed that deep learning approaches are capable of recognizing more subtle pa(cid:2386)erns in the data than conventional models [9].
+(cid:2399)is work is licensed under a Creative Commons A(cid:2386)ribution International 4.0 License.
 
-A(cid:2386)rition forecasting has also picked up in ensemble approaches combining heterogeneous machine learning models. In employee turnover forecasting [10], (cid:2398)tub et al. (2021) tested several ensem- ble approaches like Random Forest and Gradient Boosting. (cid:2399)e strength and accuracy of the forecasts were found to have been enhanced by the approaches. In the comparison of several machine learning models in employee turnover, Subhashini and Gopinath (2020) identi(cid:2647)ed the potency of ensemble approaches in handling challenging data [11].
+AICI 2025, Kuala Lumpur, Malaysia © 2025 Copyright held by the owner/author(s). ACM ISBN 979-8-4007-1363-7/2025/02 https://doi.org/10.1145/3730436.3730494
 
-Other researchers have also employed more advanced methods, such as K-nearest neighbours (KNN) and support vector machines (SVM), to predict employee turnover. With SVM and KNN, along with other machine learning methods, Ajit (2016) forecasted em- ployee a(cid:2386)rition, thereby giving HR departments advance warning to proactively intervene in the direction of retention [12]. Like- wise, Zhao et al. (2019) compared di(cid:2646)erent approaches to employee turnover forecasting, thereby a(cid:2649)rming the usefulness of these methods for practical application [13].
+In this regard, we introduce a GAT-based method for employee a(cid:2386)rition prediction. We aim to show GAT’s value and predictive power by proving that adding relational data can signi(cid:2647)cantly en- hance predictive performance compared to traditional methods. (cid:2399)e (cid:2647)ndings of our paper set the stage for a graph-based methodol- ogy to be adopted in human resource analytics. Not only does this
 
-Chaurasia et al. (2023) developed a new ANN-based employee a(cid:2386)rition prediction framework. Interestingly, their framework indi- cated a high accuracy rate of 96%, which was higher than conven- tional Deep Neural Networks (DNN). (cid:2399)e authors, in this research, proved the greater prediction ability of ANN and its potential for further use in HR analytics [14]. Srivastava and Eachempati (2021) integrated ensemble machine learning and multi-criteria decision- making methods to design a smart employee retention system. Not only did the comprehensive system predict employee turnover, but
-
-343
+342

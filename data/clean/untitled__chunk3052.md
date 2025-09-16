@@ -1,5 +1,17 @@
-# 548 Professional Organizations
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3b80212c75122acfb0cd76c714399fc0da658358
+title: untitled
+---
+# National Psychological Associations 547
 
-psychology and to develop knowledge about women’s psy- chological lives. Although Division 35 was born from the tense relationship between the AWPand the APA, it was from the ﬁrst independent of the AWP. The division developed an organizational structure that had little overlap with the AWP (Mednick & Urbanski, 1991; Russo & Dumont, 1997). In its ﬁrst year of existence, Division 35 voted to develop a journal to serve as the primary publication of research in the ﬁeld of feminist psychology. The division’s journal, Psychology of Women Quarterly, began publication in 1976.
+salient for the AWP in these years included abortion rights, ending sexist hiring and promotion practices in acade- mia, and adequate child care at the APA convention. One participant-historian characterized the ﬁrst years of the AWP–APA relationship as a time of “the public airing of women’s grievances with the APA and the profession of psy- chology” (Tiefer, 1991, p. 637).
 
-Division 35 started with over 800 members and grew rapidly, becoming one of the largest divisions within the APA with more than 6,000 members by the year 2000. The growth of the division reﬂected the changing gender composition of American psychology. For example, in 1971, women earned 24% of all psychology doctorates compared to 66% in 1991 (Kohout, 2001). Between 1977 and 2000, the percentage of women APA members increased from 26.7% to 49.0%, and the high percentage of women in graduate programs suggests that this percentage will continue to grow.
+The AWP had immediate success in attracting many women psychologists and a few male psychologists as mem- bers.Thirty-ﬁvewomenandmenformedtheﬁrstmembership cohort; membership in the AWP grew to over 1,700 by the year 2000. For many years, the AWP avoided a hierarchical organizational power structure. All issues were open for dis- cussionbyanymemberduringtheannualmeetings.Theasso- ciation was committed to feminist process and sought to be participatory-democratic in its governance. This led to lengthy business meetings but little activity between meet- ings. Like other organizations of its time, tensions existed over whether the organization should seek efﬁciency or democracy as its main governing principle. A compromise was reached in 1979 when the leadership structure was changed to governance by the Implementation Collective. This was a small number of AWP members who volunteered toserveinspeciﬁcrolesinordertofacilitatespeciﬁcAWPini- tiatives. The collective set policy, ﬁnancial guidelines, and guidelines for forming committees to carry out various projects. Much of the work of the AWP was carried out by memberswhoservedoncommittees,mostofwhichweregen- erated by members themselves and not by the leadership.
+
+The AWP worked on such salient issues as the passage of the Equal Rights Amendment (ERA), abortion rights, and the removal of antiwoman diagnostic categories in the various revisions of the Diagnostic and Statistical Manual of Mental Disorders. Members also developed guidelines for feminist therapy and worked to reduce racism and promote multicul- tural perspectives (Tiefer, 1991).
+
+One major outcome of the activities of the AWP in its early years was the formation of the APA Task Force on the Status of Women in Psychology. The task force worked for two years, and its report recommended that the APAact to re- dress the inequities women faced in organized psychology. A speciﬁc recommendation was the formation of a division to represent the interests of women in psychology (APA, Task Force on the Status of Women in Psychology, 1973).
+
+Despite some resistance from the APA Council of Repre- sentatives, some of whose members suggested that a division for women’s issues would only ghettoize and segregate women psychologists, the petition for a women’s division was approved. Division 35 was approved in 1973, and its charter called for it to work to advance the cause of women in

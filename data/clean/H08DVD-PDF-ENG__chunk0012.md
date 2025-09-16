@@ -1,9 +1,17 @@
-## in times of uncertainty and in a highly competitive employment
+---
+source_path: H08DVD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42a53435fecd9ae56c3a2862e203249dee0d62a3
+title: H08DVD-PDF-ENG
+---
+## HBR / Digital Article / Research: The Long-Term Costs of Layoffs
 
-environment. Oscar-winning Pixar director Brad Bird has a famous
+For employees who make it through a time of layoﬀs, their commitment
 
-quote that we fully endorse: “If you have low morale, for every $1 you
+to staying with the company continues to drop over time, and this
 
-spend, you get about 25 cents of value. If you have high morale, for every
+sentiment is a strong predictor of actual turnover.
 
-$1 you spend, you get about $3 of value.” Companies should pay much
+So layoﬀs could actually set your company back a year or more
+
+on engagement and morale, something many businesses can’t aﬀord

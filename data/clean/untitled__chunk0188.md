@@ -1,11 +1,15 @@
-# ogy. New York: Holt.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e3072262ba40ff5cc7b76a8564d2c895b0178ed5
+title: untitled
+---
+# chological Review, 14, 61–91.
 
-Baldwin, J. M. (1895). Mental developmental in the child and the
+Angell, J. R. (1911). Philosophical and psychological usage of the terms mind, consciousness, and soul. Psychological Bulletin, 8, 46–47.
 
-race: Methods and processes. New York: Macmillan.
+Asch,S.E.(1955).Opinionsandsocialpressure.ScientiﬁcAmerican,
 
-Baldwin, J. M. (1897). Social and ethical interpretations of mental development:Astudyinsocialpsychology.NewYork:Macmillan.
+193, 31–35.
 
-Bazerman, C. (1987). Codifying the social scientiﬁc style: The APA publication manual as a behavioristic rhetoric. In J. S. Nelson, A. Megill, & D. N. McCloskey (Eds.), The rhetoric of the human sciences (pp. 125–144). Madison: University of Wisconsin Press.
-
-Ben-David,J.(1971).Thescientistsroleinsociety.EnglewoodCliffs,
+Attneave, F. (1959). Applications of information theory to psychol-

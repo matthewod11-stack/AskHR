@@ -1,7 +1,21 @@
-# MEASURING AND EVALUATING
+---
+source_path: sharp_diang7_06cx_good.md
+pages: n/a-n/a
+chunk_id: 808cd65dd9f10c0a4009afb900d0e112c60bf608
+title: sharp_diang7_06cx_good
+---
+## By Richard Montier, David Alai, and Diana Kramer
 
-For example, executive management was very interested in consistent and ob- jective criteria to identify high-potential employees. Additionally, the human re- sources department wanted to use com- petencies as part of an employee development system in which employ- ees could, on their own or with their managers, use core competencies as ref- erence points to compare nontechnical job requirements with their individual profile to identify meaningful gaps. HR also considered the competencies as a useful listing of “how” factors to supple- ment a performance appraisal that em- phasized management by objective.
+THERE IS NO ONE magical solution that enables companies to succeed in today’s competitive global marketplace. However, businesses are increasingly adopting com- petency models,which prove their value as a human resources management tool.
 
-The fact that so many stakeholders with differing perspectives can find val- ue in competencies is probably one of the key attributes that contributes to the past, present, and future popularity of this technology.
+Sharp Electronics Corporation, the North American sales and marketing subsidiary of Osaka, Japan-based Sharp Corporation, was among the first wave of companies to adopt competency models and is now set to embark upon a second phase.
 
-Comprehensive research The concept of a competency model is likely to find broad appeal within most or- ganizations. When conducted in a pur- posefully inclusive manner, the creation process is likely to reinforce these initial positive perceptions. Fortunately, the methodology used to build and validate a model strengthens those feelings as the necessary research and analysis re-
+Sharp developed a core competency model nearly seven years ago. The second
+
+phase of the initiative will include five competency models that are specific to several strategically important job func- tions in sales and marketing, and a revised core competency model.
+
+High-potential employees Sharp’s interest in developing its initial core competency model was instigated by the need to adapt to a more competitive market characterized by increased cus- tomer requirements and many new digital products. To meet that demand, the com- pany set out to clarify the knowledge, skills, and behaviors that would enable employees to achieve the organization’s goals. While competency models have many applications, some appealed more than others to important stakeholders.
+
+Copyright ASTD, July 2006
+
+TDJuly 2006 47

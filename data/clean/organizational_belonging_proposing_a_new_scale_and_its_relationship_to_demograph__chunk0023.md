@@ -1,3 +1,7 @@
-# “Belongingness” and “Disengagement.” The
-
-(Huynh, Metzer, & Winefield, 2012, p. 1058) is defined as “a positive state of well-being that results from an individual’s strong sense of belonging with other workers and the recipients of one’s service.” It has been measured using 15-items (Huynh et al., 2012, p. 1064) broken into four components (number of items): other workers (4) – sense of belonging with one’s work group; recipients (4)—being appreci- ated by one’s client; task requirement (3)—being really good at one’s work; and values (4)—feeling valued by one’s organization. The belonging and values components are central to OB (Herbert, 2020) but the other two components are less so. One common feeling across all workplace belong- ingness, employee belongingness, and organizational connectedness scales cited was a general belonging.
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 83c01ec20d8a29066b23b698eb0a01373447576a
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# items

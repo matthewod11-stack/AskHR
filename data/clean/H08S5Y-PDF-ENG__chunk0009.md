@@ -1,27 +1,13 @@
-## HBR / Digital Article / Navigating the Jump from Manager to Executive
+---
+source_path: H08S5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cfb2157597cf3b403f2d14cedad64ffbd51d3ad
+title: H08S5Y-PDF-ENG
+---
+# the ground.
 
-But now, you have to loosen that grip. When you’re driving multiple
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-teams’ performance, your role shifts to cultivating conditions where
+3
 
-good work can happen without your direct involvement.
-
-This shift can be emotionally challenging. Your satisfaction once came from checking tasks oﬀ a list and ending each day with concrete
-
-proof of what you accomplished. At the senior level, your productivity
-
-becomes intangible—strategic conversations, coaching sessions, and
-
-relationship-building that creates value you can’t easily measure.
-
-When you catch yourself thinking, “I talked all day and have nothing to show for it,” think beyond the ﬁrst-order eﬀects of your actions.
-
-Did you guide an important decision? Align priorities so work moves
-
-forward faster? These wins may not come with a dopamine hit in the moment, but the second- and third-order eﬀects compound over
-
-time. The feedback you gave a manager today might mean stronger
-
-performance next quarter. The way you challenge someone could give
-
-them the conﬁdence to take a bolder approach that secures a major
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,19 +1,29 @@
-# abilities of AI agents.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: a9a32d5c1e4746b0844957dc14c603b3e562234d
+title: agents_companion
+---
+# meetings, analyze data, write code, write marketing press releases, help sellers with
 
-Rather than simply invoking agents to perform a task and wait for the output, knowledge
+sales opportunities, or even agents that perform deep research on a particular topic
 
-workers will increasingly become managers of agents. They will be assigning tasks to multiple
+as requested by the user. These agents can be synchronous and return the requested
 
-agents and manage them, check if any of agents need help or require approval to proceed,
+information or perform the requested task fast, or they run for a longer period of time
 
-use the output of specific agents to start new tasks, monitor execution of long running tasks
+before returning (like the deep research agents).
 
-to review and steer them in the right direction. Novel user interfaces to allow this type of
+38
 
-virtual team management will emerge to allow orchestration, monitoring and managing a
+- 2. "Automation agents”: Agents that run in the background, listen to events, monitor
 
-multi-agent system with agents performing tasks, calling (or even creating) other agents.
+changes in systems or data, and then make smart decisions and act. Action might include
 
-Google Agentspace aims at providing this type of experience and allow to:
+acting on backend systems, performing some tests to validate the observation, fixing
 
-- Create new agents by using a no/low code interface or a full code framework to
+problems, notifying the right employees, etc. This can really be seen as the backbone of
+
+the automation of the future. While in the past we had to write special code to specify
+
+the logic of automations, now we can start relying on smart and general decision making

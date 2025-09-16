@@ -1,9 +1,19 @@
-## of ‘supply chain vs supply chain’ and the involved efficiency and efficacy.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: de2d40f2ee5d0f74ed74669e08938374007397e4
+title: issn_print_0976_013x
+---
+# intra-dependence between stakeholders
 
-Today the world has emerged as an intelligent global village wherein a product/service
+involved, optimal
 
-conceived as good at one part may be demanded from anywhere. The fulfilment of such
+alignment of supply chain practices and policies is always open to improvement. The supply
 
-demand requires the involvement of units at geographically dispersed locations and leads to
+chain is a system of systems. It encompasses various activities like procurement,
 
-an extended/global/ultimate/long supply chain structure to ensure 7Rs (Garcia and You,
+transportation, loading/unloading, manufacturing, storage, inspection, marketing, etc., where
+
+the task is to align these activities and resources with the market needs with utmost efficiency
+
+and responsiveness. In the present business world, competitive edge depends upon the rivalry

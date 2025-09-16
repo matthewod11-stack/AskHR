@@ -1,15 +1,25 @@
-## infrastructure and resources across independent restaurants and small
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4165a4e93cac705414ec04026e3df97529bdf5d
+title: R2502D-PDF-ENG
+---
+## computational instructions. Likewise, Jorge Odon, an auto mechanic
 
-bakeries? ask, Who has shared infrastructure or resources across multiple
+from Argentina, was inspired by a technique for removing a cork from
 
-autonomous entities? Instead of How can we take a leadership position
+an empty bottle to create the Odon device for easier childbirth. The
 
-around obesity concerns? ask, Who showed visible leadership for a societal
+Pope Francis and Medellín precedents were particularly inspiring to
 
-issue they didn’t create?
+Global Foods’ leaders, and two of the three precedents that inspired
 
-You’d never recognize those alternative questions as being for a
+DoorDash (FedEx and Uber) had nothing to do with delivering food.
 
-restaurant-delivery startup or a global food company. That’s by design.
+In our experience, the best way to ﬁnd pertinent out-of-domain
 
-Disassociation helps you look in other boxes to stimulate more outside-
+innovations is to “disassociate” the elements of your problem such that
+
+they are no longer speciﬁc to your domain, and to move from asking
+
+How? to asking Who? For example, instead of How can we share delivery

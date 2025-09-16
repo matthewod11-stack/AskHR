@@ -1,33 +1,21 @@
-# predominates.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1a2b3d65b0e49296986d3f7fc36e32457874fecf
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Alternate-forms reliability The extent to which two
 
-Application of training Measurement of the effectiveness
+forms of the same test are similar.
 
-of training by determining the extent to which employees apply the material taught in a training program.
+Americans with Disabilities Act (ADA) A federal law,
 
-Apply-in-person ads Recruitment ads that instruct
+passed in 1990, that forbids discrimination against the physically and mentally disabled.
 
-applicants to apply in person rather than to call or send résumés.
+Ammerman technique A job analysis method in which a group of job experts identifies the objectives and standards to be met by the ideal worker.
 
-Apprentice training A training program, usually found in the craft and building trades, in which employees combine formal coursework with formal on-the-job training.
+Anger stage The second stage of emotional reaction to
 
-Arbitration A method of resolving conflicts in which a
+downsizing, in which employees become angry at the organization.
 
-neutral third party is asked to choose which side is correct.
-
-Archival research Research that involves the use of
-
-previously collected data.
-
-Army Alpha An intelligence test developed during
-
-World War I and used by the army for soldiers who can read.
-
-Army Beta An intelligence test developed during
-
-World War I and used by the army for soldiers who cannot read.
-
-Artifacts The things people surround themselves with
-
-(clothes, jewelry, office decorations, cars, and so forth) that communicate information about the person.
-
-603
+Anxiety An organizational climate in which worry

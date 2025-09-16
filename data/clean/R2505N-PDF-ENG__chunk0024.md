@@ -1,15 +1,11 @@
-# manage more and larger transactions. But
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21d3032d92bad260fc35063322b5fe43dbb5913a
+title: R2505N-PDF-ENG
+---
+## HBR / Magazine Article / Why Aren’t I Better at Delegating?
 
-she struggled to do so, admitting that she
+I once coached a junior partner at a law
 
-preferred “the short-term deal deadlines,
-
-‘urgent’ client calls, and ‘emergencies’
-
-where [she] could put out ﬁres and be a bit
-
-of a heroine.” After adding context-setting
-
-checklists to her routine, creating a system
-
-to let junior members make more and
+ﬁrm whose senior leaders wanted her to

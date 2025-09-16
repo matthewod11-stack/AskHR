@@ -1,19 +1,13 @@
-## Neuroticism One of the big five personality categories
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 06c5bafc51dd5c94e5a971ceca02f9db36f682d1
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Negative information bias The fact that negative
 
-(the opposite of emotional stability), a description of people who are anxious, tense, and worried. Newsletters A method of downward communication typically used to communicate organizational feedback and celebrate employee success.
+information receives more weight in an employment decision than does positive information.
 
-Noise Any variable concerning or affecting the channel that interferes with the proper reception of a message. Nominal group A collection of individuals whose results are pooled but who never interact with one another.
+Negligent hiring An organization’s failure to meet its legal duty to protect its employees and customers from potential harm caused by its employees. Negligent reference An organization’s failure to meet its legal duty to supply relevant information to a prospective employer about a former employee’s potential for legal trouble.
 
-Nonbinding arbitration A method of resolving
-
-conflicts in which a neutral third party is asked to choose which side is correct but in which either party may appeal the decision.
-
-Noncalculative motivation Those who seek leadership positions because they will result in personal gain.
-
-Nonconforming listening The listening style of a
-
-person who cares about only information that is consistent with his or her way of thinking.
-
-Nonverbal communication Factors such as eye contact and posture that are not associated with actual words spoken.
-
-Normative commitment The extent to which employees feel an obligation to remain with an organization. Norming The third stage of the team process, in which teams establish roles and determine policies and procedures.
+Negotiation and bargaining A method of resolving conflict in which two sides use verbal skill and strategy to reach an agreement.

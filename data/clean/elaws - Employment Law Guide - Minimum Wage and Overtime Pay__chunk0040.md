@@ -1,15 +1,13 @@
-## Student learners (vocational education students);
+---
+source_path: elaws - Employment Law Guide - Minimum Wage and Overtime Pay.md
+pages: n/a-n/a
+chunk_id: 82ff62615da339d60e0771357e383ead2281bf6c
+title: elaws - Employment Law Guide - Minimum Wage and Overtime Pay
+---
+# per hour if they claim a tip credit. They must also meet certain other requirements. For a full listing of the
 
-Full time students in retail or service establishments, agriculture, or institutions of higher education; and Individuals whose earning or productive capacities for the work to be performed are impaired by physical or
+requirements an employer must meet to use the tip credit provision, see the Wage and Hour Division Fact Sheet #15: Tipped Employees Under the FLSA.
 
-mental disabilities, including those related to age or injury.
+The Act also permits the employment of certain individuals at wage rates below the statutory minimum wage
 
-The Act does not limit either the number of hours in a day or the number of days in a week that an employer
-
-may require an employee to work, as long as the employee is at least 16 years old. Similarly, the Act does not
-
-limit the number of hours of overtime that may be scheduled. However, the Act requires employers to pay covered employees not less than one and one half times their regular rate of pay for all hours worked in
-
-excess of 40 in a workweek, unless the employees are otherwise exempt. For additional information regarding
-
-overtime pay requirements, see the Wage and Hour Division Fact Sheet #23: Overtime Pay Requirements of
+under certiﬁcates issued by the Department of Labor:

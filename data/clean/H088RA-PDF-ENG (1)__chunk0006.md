@@ -1,13 +1,21 @@
-## their manager and teams within their ﬁrst 90 days:
+---
+source_path: H088RA-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 219cf8da81ec0262be63fadea6bb95fb8d669ce7
+title: H088RA-PDF-ENG (1)
+---
+# guarantee success.
 
-- Say their managers play a more active role (+ 6%);
+In an eﬀort to help leaders establish norms and best practices for
 
-- Take on more meaningful work (+ 4%);
+onboarding, we found three key insights from our own research on what
 
-- Are more satisﬁed with their onboarding experience (+ 5%)
+fosters a positive employee experience and facilitates learning during a
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+hybrid onboarding process.
 
-2
+A few days in person has benefits for onboarding
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Our data show that compared to new hires who never saw their manager
+
+or team in person, new hires who spend one or two days a month with

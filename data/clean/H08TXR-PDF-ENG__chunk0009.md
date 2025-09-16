@@ -1,13 +1,15 @@
-## of the most common breakdown points in organizational messaging
+---
+source_path: H08TXR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7846bef81bc8bab33da6fd1658cae99eaf99dfa7
+title: H08TXR-PDF-ENG
+---
+# HBR / Digital Article / Avoid These Communication Breakdowns When Launching Stra…
 
-along with structural solutions for how to mitigate them.
+My team’s research across multiple industries reveals that addressing
 
-Moving from ideation to documentation
+these leak points requires more than conventional communication
 
-Our minds process ideas holistically, rich with connections,
+training. Leaders need targeted interventions at each crucial transition
 
-implications, and nuances. Language, by contrast, is inherently
-
-sequential and reductive. This ﬁrst leak point is where visionary thinking often becomes pedestrian communication—when you
-
-put what’s in your head into words, usually through traditional
+stage where meaning is vulnerable to distortion. The following are three

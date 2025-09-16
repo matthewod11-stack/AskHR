@@ -1,15 +1,29 @@
-# list to the next don’t feel good.
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 379e7858c18ba413890849883ef8ebaf74a1e07b
+title: H087DT-PDF-ENG
+---
+# work.
 
-In my book Stress-Free Productivity, I observed that I can do up to an
+Create routines to do tasks without imminent deadlines
 
-hour of admin tasks before I start my deep work, without disrupting
+Tackling tasks with imminent deadlines may feel intuitive and obvious,
 
-how much deep work I get done. The reason I focus on my admin tasks
+but if all you’re getting done is what’s right in front of you, you’ll
 
-ﬁrst is that if I attempt to get to them after deep work, I’m too tired. And checking oﬀ at least one “life admin” task (something not related
+generally feel a lack of control. When you accomplish important small
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+tasks that don’t have deadlines but that do need to get done, on the
 
-5
+other hand, you’ll feel like you’re managing your life well. Regularly set
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+aside time for these kinds of small administrative tasks. Whether it’s
+
+getting back to a colleague about a collaboration that’s weeks away or
+
+ﬁnally scheduling that appointment with the doctor or therapist, admin
+
+tasks create a lot of mental drain. You think I should do that but don’t.
+
+And those thoughts keep recurring. To-dos that roll over from one day’s

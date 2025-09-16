@@ -1,7 +1,23 @@
-# chosen investments.
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e05f17029e35726e6b594ad7ab33bd6d5f3cbf0
+title: H08LQ5-PDF-ENG
+---
+## health situation; or any number of other sources of acute stress. The
 
-In my model, there are options beyond either pushing through a
+catalyst could also be an opportunity rather than a crisis: starring in a
 
-disruption in your life or, alternatively, taking a full leave of absence
+play, for instance, or competing in an athletic tournament. In all these
 
-from work. And for good reason: Pushing through increases the
+cases, a brief adjusted work schedule could be invaluable.
+
+My work, inspired by my professor and mentor, the late Clayton
+
+Christensen, focuses on how to answer his question, “How will you
+
+measure your life?” It recognizes that our time and energy are always
+
+being allocated and adjusted across work, creative projects, family time,
+
+community, health, and spiritual commitments — a mix of purposefully

@@ -1,7 +1,11 @@
-# Englewood Cliffs, NJ: Prentice-Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a337849f4c6cacf1426fef238b643fb192f8e0f4
+title: untitled
+---
+# Itasca, IL: Riverside.
 
-Pellegrino, J. W., & Glaser, R. (1979). Cognitive correlates and components in the analysis of individual differences. In R. J. Sternberg & D. K. Detterman (Eds.), Human intelligence: Per- spectives on its theory and measurement (pp. 61–88). Norwood, NJ: Ablex.
+Neisser, U. (1976). General, academic, and artiﬁcial intelligence. In L. Resnick (Ed.), Human intelligence: Perspectives on its theory and measurement (pp. 179–189). Norwood, NJ: Ablex.
 
-Pellegrino, J. W., & Glaser, R. (1980). Components of inductive rea- soning. In R. E. Snow, P.-A. Federico, & W. E. Montague (Eds.), Aptitude, learning, and instruction: Cognitive process analyses of aptitude (Vol. 1, pp. 177–217). Hillsdale, NJ: Erlbaum.
-
-Pellegrino, J. W., & Glaser, R. (1982). Analyzing aptitudes for learn- ing: Inductive reasoning. In R. Glaser (Ed.), Advances in instructional psychology (Vol. 2). Hillsdale, NJ: Erlbaum.
+Newell, A., & Simon, H. A. (1972). Human problem solving.

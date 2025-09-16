@@ -1,9 +1,9 @@
-# SC in resilient paradigm and further extension of these concepts towards performance
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 2c26f79bf80f6042d71ede3d077fd425aa78e95e
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-improvement under TBL (Triple bottom line) aspects of sustainable thinking, a more holistic
-
-view of integrated SCM was obtained. The aspects of sustainability and further inclusion of
-
-redundancy units and collaboration ability enabled SCF (Supply chain flexibility) and aligned
-
-as per the industrial aspects of the present context resulting in RSC (Reconfigurable supply
+with the network management (NM) phase, the transition towards a leagile paradigm, leagile

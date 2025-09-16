@@ -1,9 +1,7 @@
-# What Is Leisure Crafting?
-
-Leisure crafting is not about what you do in your free time, but how
-
-you do it. It involves structuring things you already enjoy doing with
-
-intentionality and a growth-oriented mindset. Crafting your leisure
-
-means structuring activities so that they 1) help you set individual
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40dce1bf6b5f25c07066a0292bccab9cc8a04ff1
+title: H08OXV-PDF-ENG
+---
+# approach.

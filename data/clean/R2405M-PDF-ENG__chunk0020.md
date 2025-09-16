@@ -1,29 +1,31 @@
-# HBR / Magazine Article / Case Study: Should a Family Business Accept a Returning Da…
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18f725d1e931c688018729335f8d9ebefd088728
+title: R2405M-PDF-ENG
+---
+## The ﬁrst slide read, “Backward Integration into Sugar Farming.”
 
-“Well, that’s a very interesting idea,” Yao began. “One that you know
+Although Assoua Group still imported raw sugar from Brazil, Koﬃ and
 
-we’ve toyed with.”
+Yao had purchased 70,000 hectares of land in the Zanzan District of
 
-“Uncle, please may I ﬁnish?” Aminata said, interrupting.3 She clicked to the next slide.
+their country a decade earlier but had dithered over whether to develop it.2
 
-“We should also become an independent producer of electricity for
+“This is an obvious ﬁrst move,” Aminata said. “We know the market
 
-sale to Côte d’Ivoire Énergies. We’re already generating power—why
+price because we’re already importers and distributors. Demand is
 
-not expand and sell to the grid? The operating costs will be very low
+consistent for sugar, and the major capital investment was the purchase
 
-once the project is built—and we may ﬁnd follow-on construction opportunities such as power lines. This region is desperate for power.” 4
+of the land, which we’ve completed. This will provide jobs for thousands
 
-The trio sat in silence. “Well, what do you think?” Aminata ﬁnally said.
+of local farmers. We have the land and the climate to grow our own food
 
-“Do you have a slide showing how you plan to phase these enormous
+and nutrients—there’s no need to keep importing them.”
 
-transformations?” Koﬃ replied. His brother still seemed stunned.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-“No,” Aminata said. “I suggest that we do them both at once, starting
+4
 
-next ﬁscal year. I have already modeled out exactly what investments are required and how to staﬀ up. I want to come home and run the
-
-expansion as the COO. This is a major life decision for me—and this is
-
-what it would take for me to move back.”
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

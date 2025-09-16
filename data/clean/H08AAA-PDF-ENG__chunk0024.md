@@ -1,3 +1,13 @@
-# HBR / Digital Article / 3 Ways to Build a Culture That Lets High Performers Thrive
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bbbb3abebb69664607175ba30835675ee7e27453
+title: H08AAA-PDF-ENG
+---
+## your organization a standout in your industry.
 
-This article was originally published online on June 28, 2024.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

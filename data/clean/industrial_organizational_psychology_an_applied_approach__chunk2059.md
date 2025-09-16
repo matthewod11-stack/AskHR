@@ -1,3 +1,9 @@
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1bab11bef912cbc0e92b5e9f48b495d08a3f518a
+title: industrial_organizational_psychology_an_applied_approach
+---
 # S
 
-to offer, the supervisor can provide some. A sample conversation might go something like this: Employee: I know I shouldn’t be missing work, but I’m so tired in the morning and often don’t hear the alarm. Supervisor: Can you think of things you can do so that you will not be so tired in the morning? Employee: I could go to bed earlier, but I love to watch David Letterman and then SportsCenter on ESPN. Supervisor: Could you try watching the early edition of SportsCenter and tape the David Letterman show so that you can watch it when you get home from work? Employee: I guess I could give that a try. After arriving at a solution, the supervisor and the employee should then set a specific goal. For example, they could agree that the employee will be on time every day for the next week.
+Explain how the behavior is impacting others. For example, “When you arrive to work ten minutes late, customers become angry because there is no one to help them with their purchases. When other employees cover the register for you, it causes them to get behind on their work, resulting in their missing part of their lunch break or being forced to work overtime.”

@@ -1,19 +1,35 @@
-## HBR / Digital Article / Leaders Can Move Fast and Fix Things
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ecda1005bb49acd5a76818bb832cc40c429ba20
+title: H08NQI-PDF-ENG
+---
+## success and wellbeing of their customers, shareholders, and employees:
 
-- 1. Make sure you’re solving the right problems.
+They move fast and ﬁx things.
 
-Too often, we’ve seen change leaders attack the symptoms of problems
+Consider some of the most prominent corporate turnaround leaders of
 
-and not their root cause, losing precious time and gaining little traction.
+the last 20 years, from Alan Mulally at Ford to Indra Nooyi at Pepsi
 
-We worked with one leadership team at an early-stage tech startup
+to Satya Nadella at Microsoft. They all jumpstarted stale organizations
 
-that was convinced they had a culture problem embodied by a “clash
+with a sense of urgency and remade them into sharper, faster, more
 
-of generations” between older and younger employees. In fact, they
+strategic organizations. They let go of people and programs as they went —eﬃciency was a priority for them all—but they did so carefully and
 
-had a strategy problem: The company’s unwillingness to focus had
+towards the explicit goal of building more competitive companies.
 
-driven employees to take refuge with other like-minded employees. By
+Our advice to leaders tackling big problems in both the public and
 
-the time the team called us, they had been trying to solve the wrong
+private sector is not to slow down, but it is to take a breath and take
+
+a few mission-critical steps before sprinting. In our work, we call it
+
+earning the right to run. This means:
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

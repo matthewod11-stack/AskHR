@@ -1,7 +1,11 @@
-# organization’s ﬁve-year strategic plan.
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c75c4bfaee9ab428433b3b29b11d39667df6a35
+title: H08DO8-PDF-ENG
+---
+## Angeline is the CEO of Fitzroy Cemetery and Crematorium. The
 
-Angeline’s business is government-owned, and while nonproﬁt, must
+strategic planning exercise she organized involved her and her
 
-balance its books. Its main site covers 145 acres of well-maintained
-
-ground and provides burial plots, a crematorium, three large chapels,
+executive team of seven coming together over two days to develop the

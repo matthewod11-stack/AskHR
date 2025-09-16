@@ -1,9 +1,11 @@
-## dramatically with a single deal or major market movement. For such
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: adc906ef903afbeb0c0c6a04b529265b6a0b3902
+title: H08TKY-PDF-ENG
+---
+## challenge because of the volatile dynamics of asset markets and
 
-companies, risk management requires embedded experts within the
+the potential impact of decisions made by decentralized traders and
 
-organization to continuously monitor and inﬂuence the business’s risk
-
-proﬁle, working side by side with the line managers whose activities
-
-are generating new ideas, innovation, and risks—and, if all goes well,
+investment managers. An investment bank’s risk proﬁle can change

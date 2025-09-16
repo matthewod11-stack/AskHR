@@ -1,15 +1,35 @@
-# up here.
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d68c0a9a3504450e94f3715873e7041f1aa470c
+title: H06SBB-PDF-ENG
+---
+# workplace experiments
 
-ADI IGNATIUS: All right, so let’s let jump right in. I want to talk about
+- How moments of disequilibrium—where you are forced to question
 
-design thinking, but maybe you can make sure everyone’s up to speed
+your mental models—can lead to progress
 
-and give us the quick elevator pitch on what is design thinking?
+- What the workspaces of the future might look and feel like (hint: it
 
-SANDY SPEICHER: Sure. That’s actually a really great way to start
+won’t be one-size-fits-all).
 
-because we’re probably going to use the word design and design
+The offices of tomorrow may have more in common with a café or a
 
-thinking a lot in this conversation. A lot of people have a familiarity
+classroom or a maker space, Speicher says. It’s all about giving people a
 
-with design from the things around them in their lives. You can think of
+“reason to come in rather than regulation to come in.”
+
+“The New World of Work” explores how top-tier executives see the
+
+future and how their companies are trying to set themselves up for
+
+success. Each week, Ignatius interviews a top leader on LinkedIn Live —
+
+previous interviews included Microsoft CEO Satya Nadella and former
+
+PepsiCo CEO Indra Nooyi. He also shares an inside look at these
+
+conversations —and solicits questions for future discussions — in a
+
+newsletter just for HBR subscribers. If you’re a subscriber, you can sign

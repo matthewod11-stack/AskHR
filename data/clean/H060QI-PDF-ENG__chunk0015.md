@@ -1,23 +1,19 @@
-# opportunities for all individuals.
+---
+source_path: H060QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff6ec44050937b1e7f3203c6d0db3ea81be6a2f9
+title: H060QI-PDF-ENG
+---
+## during her leave about upcoming opportunities or not.
 
-Ensure that all your oﬃces have a mother’s room, where women can
+What other policies do you have to support new mothers?
 
-pump comfortably and privately. Consider installing a hospital-grade
+Companies need a robust suite of policies to make motherhood work for
 
-pump so she can bring just her pump parts instead of her machine in.
+new working mothers. According to the Society for Human Resource Management (SHRM), 81% of companies oﬀer new mothers ramping
 
-Design rooms to include comfortable seating, a fridge, a sink, and a
+back to work options after they return from leave.
 
-microwave. Allowing women who travel for work the beneﬁt of shipping
+While some women will want options to help them ramp back to full- time work, others will want to explore alternative options. Oﬀer a suite
 
-their breast milk home can be a game-changer.
-
-Back-up child care is another key oﬀering, which many companies
-
-have added during the pandemic. Finally, tech companies including Facebook, Google and Salesforce, have also started to oﬀer additional paid time oﬀ for caregivers.
-
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of possibilities including ﬂexible working, part time, or job-sharing

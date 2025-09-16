@@ -1,9 +1,11 @@
-## Opportunity Commission (EEOC) Acting Chair Andrea Lucas has
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 279c95e2c54ab6975bdf7a44d7abdc6e2c8aba12
+title: H08NFX-PDF-ENG
+---
+## their lawful, fair, and business-driven DEI initiatives.
 
-illuminated the kinds of measures she considers appropriate. This is
+The clearest guidance thus far has been largely overlooked. In
 
-signiﬁcant because the EEOC will play a central role in enforcing the
-
-administration’s views.* Lucas has unsurprisingly warned companies to
-
-avoid rules that base decisions on race or gender, but she has expressed
+various comments to employer and student groups, Equal Employment

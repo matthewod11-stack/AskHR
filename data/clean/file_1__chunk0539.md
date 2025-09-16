@@ -1,11 +1,17 @@
-# Gender
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 2a50cd0000a04ee745062db54dbbcf1f741dcbb9
+title: file_1
+---
+# (constant)
 
-.222
+3.106
 
-.109
+.073
 
-.041
+.000
 
-.177
+3.125
 
-.107
+.071

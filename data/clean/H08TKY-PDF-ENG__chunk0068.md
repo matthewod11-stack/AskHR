@@ -1,11 +1,7 @@
-## Out of Your New Business Ventures,” by McGrath and Thomas Keil
-
-(2007)
-
-. . .
-
-Disruptive innovation: “Disruption” describes a process whereby a
-
-company is able to successfully challenge established incumbent
-
-businesses. Speciﬁcally, as incumbents focus on improving their
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 686bcf9c2be50967a7fe929f2697b139fc057d99
+title: H08TKY-PDF-ENG
+---
+## MacMillan (1995), and “The Value Captor’s Process: Getting the Most

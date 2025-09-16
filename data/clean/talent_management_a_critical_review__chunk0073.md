@@ -1,7 +1,17 @@
-# http://www.kenexa.com/press2l.html
+---
+source_path: talent_management_a_critical_review.md
+pages: n/a-n/a
+chunk_id: 4098a890623b871c31f28596248e55e9ccc22c16
+title: talent_management_a_critical_review
+---
+## Academy of Management Journal, 38(3), 635−672.
 
-Kesler, G. C. (2002). Why the leadership bench never gets deeper: Ten insights about executive talent development. Human Resource Planning,
+Huselid, M. A., & Becker, B. E. (2000). Comment on “Measurement error in research on human resources and firm performance: How much error is
 
-25, 32−44.
+there and how does it influence effect size estimates?” Gerhart, Wright, McMahan, and Snell. Personnel Psychology, 53(4), 835−854.
 
-Lepak, D. P., Marrone, J. A., & Takeuchi, R. (2004). The relativity of HR systems: Conceptualising the impact of desired employee contributions and
+Jackson, S. E., & Schuler, R. S. (1990). Human resource planning: Challenges for industrial/organizational psychologists. American Psychologist,
+
+45(2), 223−239.
+
+Kenexa. (2005). Kenexa introduces new analytics application to effectively measure talent management. Retrieved October 10, 2005, from

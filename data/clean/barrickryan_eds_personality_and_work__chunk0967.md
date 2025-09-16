@@ -1,13 +1,21 @@
-# NAME INDEX 355
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f0d0a3c752ee4882b3bd88edaa73d2180dd31af5
+title: barrickryan_eds_personality_and_work
+---
+# S
 
-Smith, B. D., 222 Smith, C. A., 134, 139, 140 Smith, D., 127 Smith, D. B., 164, 271, 313 Smith, E. A., 251 Smith, E. M., 243 Smith, H., 31 Smith, T. W., 173 Snow, R. E., 236, 242, 253 Snowdon, D. A., 44 Snyder, M., 162, 184, 206, 207, 208,
+Saavedra, R., 42, 128, 190 Sackett, P. R., 111, 150, 151, 152,
 
-209, 210, 214, 218, 219
+153, 161, 164, 297, 314
 
-Somer, O., 7, 8, 10 Sparrowe, R. T., 211, 212 Spector, P. E., 44, 127, 128, 153, 167,
+Sadri, G., 42 Sager, C. E., 88 Sagiv, L., 265 Saks, A. M., 127, 262, 277 Saladin, S., 162 Salas, E., 231, 233, 243 Salgado, J. F., 60 Salovey, P., 43, 299 Santee, R. T., 187 Santoro, K. E., 140 Sapolsky, R. M., 43, 44 Sarason, B. R., 41, 141 Sarason, I. G., 41, 141 Saucier, G., 1, 5, 7, 8, 9, 10, 11, 13,
 
-169, 172, 298, 302
+16, 21, 86, 308 Savage, R. E., 236 Sawin, L. L., 111
 
-Spielberger, C. D., 173, 245 Stamper, C. L., 152 Staw, B. M., 30, 31, 32, 42 Steel, P.D.G., 302 Steiner, I. D., 305 Stern, G. G., 16 Stern, R. N., 219 Sternberg, R. J., 299 Stevens, C. K., 270, 277 Steward, W. T., 43 Stewart, G. L., 38, 39, 42, 60, 61, 62, 64, 66, 69, 71, 72, 98, 183, 184, 186, 194, 196, 197, 201, 262, 294, 303, 304, 305, 309, 334
+Scandura, T. A., 206 Schachter, S., 207 Scheier, M. F., 41, 44, 173 Schein, E., 267 Schimmack, U., 307 Schleicher, D. J., 207, 208 Schmidt, A., 247 Schmidt, F. L., 77, 87, 153, 154, 292,
 
-Stewart, W. H., Jr., 301 Stierwalt, S. L., 311 Stock, W. A., 36 Stokes, J. P., 127, 128, 170 Stone, A. A., 43, 122 Storms, P. L., 172 Stouthamer-Loeber, M., 158 Strack, F., 46 Strauss, J. P., 64 Strauss, J. R., 98, 111 Strean, M. L., 105 Strutton, D., 173 Suh, E. M., 31, 36, 68, 308 Suhan, M., 45 Sujan, H., 45 Susser, K., 47
+293, 298, 314, 329 Schmidt, W. H., 264 Schmit, M. J., 21, 89, 99, 294, 311 Schmitt, N., 233 Schneider, B., 222, 264, 265, 271, 272, 275, 276, 280, 307, 313 Schneider, R. J., 83, 84, 85, 86, 87, 100, 230, 237, 298, 299, 310
+
+Schuck, J. R., 171 Schulberg, H. C., 169 Schwartz, S. H., 265 Schwarz, N., 46 Scott, J., 215, 221 Scullen, S. E., 329 Seibert, S. E., 205, 211, 298 Seligman, M. E., 140 Sellaro, C. L., 171 Shao, L., 36, 68 Shapiro, D., 43 Shearon, E. N., 141 Sheldon, K. M., 65, 66, 75 Shelton, D., 66 Shiffman, S. S., 122 Shigetomi, C. C., 243, 247 Shiu, A. T., 129 Shoda, Y., 131, 132, 133, 238, 304 Shweder, R. A., 8 Si, S. X., 269 Silverman, W. H., 171 Simon, H. A., 270, 339 Simons, T. L., 186 Simpson, J. A., 210, 214, 218, 279 Sinclair, R. C., 45 Sipe, W. P., 313 Skaggs, L. P., 236 Skarlicki, D. P., 172, 173 Slack, A. K., 127 Slaughter, J. E., 12, 267

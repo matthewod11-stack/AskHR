@@ -1,9 +1,13 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 2db03df3a984d06e5ad8e1c557486208038b6062
+title: issn_print_0976_013x
+---
+# Mohanpur, Keshiari, Keshpur, Narayangarh, Sabang, Daspur, Debra branches of MyBank.
 
-banking while the branches in Kharagpur and Midnapore required to be profit centres.
+Nevertheless, sales executives of these branches were also bearing the brunt. Gautam
 
-Midnapore was the district headquarters while Kharagpur was the largest town in the
+believed that these were the smaller branches of MyBank to cater to the needs of social
 
-Paschim Mednipur district. Sales head of Midnapore branch was politically connected.
-
-Gautam was aware about the influential caucus in Midnapore and hence avoided any
+44

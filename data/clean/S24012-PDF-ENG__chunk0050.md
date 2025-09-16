@@ -1,33 +1,19 @@
-## HBR / Spotlight Article / Leaders Must React
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b221b67c73f990eef626da6db022a2d8ffed8676
+title: S24012-PDF-ENG
+---
+# challenges.
 
-study showed that the average leader spends 36% of working hours on
+. . .
 
-them—but that is just an average. Among individual leaders, the range
+With this framework in mind, how should leaders think about the
 
-varies dramatically. One CEO we studied spent just 14% of his time in
+time they spend reacting to unfolding events? Remember that our CEO
 
-reactive mode; another 81%. No doubt, the second leader was being
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-excessively reactive, but in our discussion with the ﬁrst leader, we raised
+12
 
-the possibility that he was underinvesting in it.
-
-These polar cases illustrate a truth: The leader’s goal is not to
-
-minimize time spent reacting to unforeseen events but to ﬁnd the
-
-right proportion. Though managing them may at moments feel like
-
-a distraction from eﬀorts to reach long-term goals, it remains an
-
-essential part of what leaders do—and there can be immense costs to
-
-handling it poorly. Many CEO ﬁrings result from missteps in responding
-
-to unfolding events. And no matter how brilliant a leader’s plans
-
-may be, unexpected issues inevitably intrude, and dealing with them
-
-successfully might even be vital to achieving the plans.
-
-Leadership often entails mastering dualities—strategy and execution,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

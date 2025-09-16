@@ -1,13 +1,9 @@
-## however. For example, global pharmaceutical companies can
+---
+source_path: H08LL6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 831dc87590bf4ef31cd8d2018760a062d2924809
+title: H08LL6-PDF-ENG
+---
+## relationships and adapt to regional market demands.
 
-experience delays in product launches when regional teams get bogged
-
-down by inﬂexible compliance protocols. In contrast, companies that
-
-embrace more adaptive guidelines allow teams to simultaneously
-
-innovate while maintaining global standards.
-
-- 3. Facilitating Collaboration Through Global Knowledge Integration
-
-Global knowledge integration involves systems and processes that
+Formalization can backﬁre when it becomes overly prescriptive,

@@ -1,19 +1,19 @@
-# speed than you could on your own.
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: acb7a26e010546851dd95bbc825974364f7b4ba3
+title: H08ONJ-PDF-ENG
+---
+# balance sheet.
 
-In the case of AI, while the industry espoused the need for hundreds
+Resourcefulness, in contrast, is not about the resources a company has,
 
-of billions of dollars in investments, DeepSeek reportedly didn’t use the
+it’s about the ability to creatively leverage the world’s constellation of
 
-best GPU chips. It didn’t invest 10 years and billions to develop. And
+knowledge, expertise, resources, and capabilities, even without owning
 
-it didn’t rest on the most advanced hardware. DeepSeek was developed
+them. Resourcefulness allows you to achieve much more than you could
 
-at a fraction of the cost and time of what investors have been told is
+accomplish using only your own resources and capabilities—and to do
 
-necessary to build a powerful AI model.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+so at lower cost, with less capital, and often with greater expertise and

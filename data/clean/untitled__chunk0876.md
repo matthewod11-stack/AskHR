@@ -1,3 +1,7 @@
-## chology. Educational Researcher, 10, 11–21.
-
-Carroll, J. B. (1982). The measurement of intelligence. In R. J. Sternberg (Ed.), Handbook of human intelligence (pp. 29–120). New York: Cambridge University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9df6f6b0ee60e533f94fe358f257fb24566cb9fb
+title: untitled
+---
+## Carroll, J. B. (1981). Ability and task difﬁculty in cognitive psy-

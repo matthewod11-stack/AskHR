@@ -1,11 +1,19 @@
-# HBR / Digital Article / Younger Women’s Experiences Show Gender Equity at Work Isn…
+---
+source_path: H08GMA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a1521cb66052c95a62cc08ca43baf76a9be7091
+title: H08GMA-PDF-ENG
+---
+#MeToo, bad behavior and misconduct persist in the workplace. Indeed,
 
-Younger women do a disproportionate amount of housework and childcare.
+despite younger women’s much shorter tenures, a third of them have
 
-Things are at a standstill on the home front as well, with younger
+experienced some form of sexual harassment over the course of their
 
-women with partners reporting that they’re doing the same amount of
+careers — the same as older women.
 
-housework and childcare as older women. Across the generations, over
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-a third of women with partners continue to take on most or all of the
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

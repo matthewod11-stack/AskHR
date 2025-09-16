@@ -1,9 +1,25 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 5424b2e49415764cb1a937e0c4f20781aae92ac3
+title: issn_print_0976_013x
+---
+# squamosa L.)
 
-Journal of Management & Public Policy,
+for the development of new products. Journal of Food Quality.
 
-Vol. 14, No. 2, June 2023, Pp. 16-26
+https://doi.org/10.1155/2018/5281035
 
-ISSN 0976-0148 (Online) 0976-013X (Print)
+Sravanthi T, Waghrey K, Daddam JR. Studies on preservation and processing of custard apple
 
-DOI: https://doi.org/10.47914/jmpp.2023.v14i2.003
+(Annona squamosa L.) pulp. International Journal of Plant, Animal and Environmental
+
+Sciences. 2014; 4(3):676-682
+
+Yadav CM, Karanjkar LM, Kashid UB. Effect of assimilation of custard apple (Annona squamosa)
+
+pulp on chemical quality and cost of ice-cream. Journal of Dairying, Foods and Home Sciences.
+
+2010; 29(2):86-91.
+
+15

@@ -1,15 +1,29 @@
-# and capabilities as a worker.
+---
+source_path: H08BI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aeff37abf12f72a6f4afe1cd9d3176e211b184eb
+title: H08BI0-PDF-ENG
+---
+# needs.
 
-Validating the mother identity. This aﬃrms the postpartum mother’s maternal identity. For example,
+Creating physical and temporal spaces for motherhood.
 
-asking to see photos and videos of the baby, checking in on the
+This enables a postpartum mother to have the place and time to engage
 
-mother’s well-being and compassionately listening to her experiences,
+in motherhood-related responsibilities. For example, encouraging
 
-and describing one’s own parenting-related challenges.
+ﬂexible work hours, providing access to lactation spaces that are high-
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+quality (e.g., with refrigerators for storing milk, a sink for cleaning
 
-3
+pumping equipment, and comfortable seating), structuring breaks that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+allow for pumping, and encouraging work-family boundaries.
+
+Validating the worker identity. This aﬃrms the mother’s professional identity and signals that her
+
+contributions are valued. For example, celebrating a postpartum
+
+mother’s return to work, assigning developmental (and promotable)
+
+tasks and opportunities, and expressing conﬁdence in the person’s skills

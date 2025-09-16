@@ -1,13 +1,11 @@
-# Task characteristics
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: f2586ba3bde289c0856d0a80da4d96a538375659
+title: arop1noe_245_275
+---
+# Teams
 
-Are there key boundary conditions or moderators of the relationships between autonomy and accountability on informal learning?
+What team characteristics have the greatest impact on social and self-directed learning? How can learning be better facilitated among team members that are not colocated? How can the different types of learning required by different types of team-based knowledge work best be supported?
 
-Providinggreateraccountabilityandautonomyhelps facilitate informal and self-directed learning. Providing employees in demanding jobs with learning opportunities may help reduce strain. Providing feedback is important for developing leadership skills, especially in highly challenging developmental assignments.
-
-Job crafting
-
-How do job characteristics influence job crafting behaviors and learning intentions?
-
-Job crafting can create a push for learning if it expands the job to stretch an employee, but it can also impede learning if it restricts the job to previously mastered tasks.
-
-Social networks What factors best help facilitate learning from
+A team work structure can facilitate learning of team members through member interactions.

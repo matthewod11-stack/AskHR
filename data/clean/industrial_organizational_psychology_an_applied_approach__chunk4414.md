@@ -1,7 +1,23 @@
-## Schmitt, N., Schneider, J. R., & Cohen, S. A. (1990). Factors
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9c222736f5c5a0d2b30e773ad04bb1071fe57375
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Schmitt, N., Clause, C., & Pulakos, E. (1996). Subgroup
 
-aﬀ ecting validity of a regionally administered assessment center. Personnel Psychology, 43, 1–12.
+diﬀ erences associated with diﬀ erent measures of some common job relevant constructs. In C. L. Cooper & I. T. Robertson (Eds.), International review of industrial and organizational psychology (Vol. 11, pp. 115–140). New York: Wiley.
 
-Schneider, K. T., Swan, S., & Fitzgerald, L. F. (1997). Job-related and psychological eﬀ ects of sexual harassment in the workplace: Empirical evidence from two organizations. Journal of Applied Psychology, 82(3), 401–415.
+Schmitt, N., & Cohen, S. A. (1989). Internal analyses of task
 
-Schonberg, A. R. (1998). 169 Ways to score points with your boss.
+ratings by job incumbents. Journal of Applied Psychology, 74, 96–104.
+
+Schmitt, N., Coyle, B. W., & Rauschenberger, J. (1977). A Monte Carlo evaluation of three formula estimates of cross- validated multiple correlation. Psychological Bulletin, 84, 751–758.
+
+Schmitt, N., & Kunce, C. (2002). Th e eﬀ ects of required
+
+elaboration of answers to biodata questions. Personnel Psychology, 55, 569–587.
+
+Schmitt, N., & Mills, A. E. (2001). Traditional tests and job
+
+simulations: Minority and majority performance and test validities. Journal of Applied Psychology, 86(3), 451–458.

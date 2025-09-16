@@ -1,7 +1,9 @@
-## mainstream media, parents of autistic children, and adult autistic self-
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b2d8eae351c5523bab2903b867bbe2d33f1a0c16
+title: H06YBA-PDF-ENG
+---
+## People outside of the autism community often receive contradictory
 
-advocates presenting very diﬀerent perspectives. The confusion over
-
-the language and symbolism reﬂects the philosophical divide between
-
-the medical perspective on autism that has primarily dominated the
+information about which “awareness” eﬀorts are welcomed, with the

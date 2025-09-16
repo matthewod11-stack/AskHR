@@ -1,17 +1,13 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3a333291ebde1791161a305ed2d113fb9ccac72
+title: H07STF-PDF-ENG
+---
+# Thank you so much.
 
-ADI IGNATIUS:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-I want to talk a lot about career transitions, but I want to give a little
+2
 
-context ﬁrst, and I know your view is that this is an era of constant
-
-career reinvention. Why do you think that’s so?
-
-HERMINIA IBARRA:
-
-I’ve been studying career reinvention for over 20 years now. The ﬁrst
-
-edition of Working Identity was 20 years ago, and the trends just keep
-
-accelerating. If anything, we are reinventing ourselves and reinventing
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,11 @@
-# DL
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77187f1ef98a032ceb70d4340069264c06f526df
+title: H08FE6-PDF-ENG
+---
+# BK
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Bryan Kurey is the Senior Vice President of Research at SBI Growth Advisory.
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Dan Lingebach is a senior researcher at SBI Insights.

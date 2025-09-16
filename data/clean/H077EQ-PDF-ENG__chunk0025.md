@@ -1,9 +1,21 @@
-# HB
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55fcfca1d23af7cf9b77ebfdb712e3c10344fa19
+title: H077EQ-PDF-ENG
+---
+# the speciﬁc analysis.”
 
-Helen Lee Bouygues is the president of the Paris-based Reboot Foundation. A former partner at McKinsey & Company, she has served as interim CEO, CFO, or COO for more than one dozen companies.
+In the end, the phenomenon of anchoring shows that while we think
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+of ourselves as rational and logical beings, extraneous details can have
 
-6
+an outsized inﬂuence on our reasoning. The best solution is a mix of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+vigilance and humility and improving critical thinking skills. Otherwise,
+
+you might be a victim of anchoring, dragged down by your bias,
+
+whether you notice it or not.
+
+This article was originally published online on August 30, 2022.

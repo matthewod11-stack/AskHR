@@ -1,21 +1,21 @@
-## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 828dc099b468322a6b8ff05d0b51bb4eec71916f
+title: R2405E-PDF-ENG
+---
+## The delays from this late-stage hesitation result, most obviously, in
 
-Four actions can help leadership teams of incumbent ventures avoid
+missing an opportunity to become the market leader. A less obvious
 
-obstacles to scaling up:
+but more fundamental downside is the loss of talent. Young executives
 
-Make the CFO a direct stakeholder. As guardians of shareholders’ interests, chief ﬁnancial oﬃcers are predisposed to be cautious about
+who are eager to take action may not wait for top managers to make up
 
-investing in innovation. They also may not be accustomed to making
+their minds and may instead jump to faster-moving competitors.
 
-decisions based on innovation metrics and leading indicators, such as
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-daily active users. But if CFOs are brought into the conversation from
+12
 
-the beginning, they become more comfortable with those measures
-
-and with the qualitative data used to evaluate innovation projects.
-
-As a consequence, they tend to be more inclined to “leverage the
-
-balance sheet” to ensure future competitiveness. At both Epiroc and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

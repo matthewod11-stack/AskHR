@@ -1,11 +1,19 @@
-# Compressed Workweeks
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 86ea8bfbfd11d08e9353cabe00180ed529566870
+title: industrial_organizational_psychology_an_applied_approach
+---
+# your workbook.
 
-Although the vast majority of people still work eight hours a day, five days a week, there is a trend toward working fewer days a week but more hours per day. These deviations from the typical five-day workweek are called compressed workweeks and usually involve either ten hours a day for four days or  hours a day for three days.
+To increase employee satisfaction, motivation, and performance and to reduce absenteeism and turnover, many organizations have implemented changes in work schedules. Today, most employees work eight hours a day, five days a week. Usually, the workdays are Monday through Friday, and the work times are from  a.m. to  p.m. with an hour break for lunch. But these have not always been the typical work hours. In the late eighteenth century, it was common for employees to work – hours a day, six days per week. By the early to mid-nineteenth century, there was a movement to reduce working hours to a maximum of ten per day. This reduction was opposed by many religious organizations, which feared the trouble that supposedly would be
 
-The first formal use of a compressed workweek was in , when both Mobil Oil and Gulf Oil had their truck drivers work ten hours a day for four days and then take three days off. The “explosion” in organizations using com- pressed schedules came in the early s after Riva Poor () published the first book on the topic. In , % of organizations surveyed by the Society for Human Resource Management (SHRM) offered compressed workweeks (SHRM, a).
+organization development
 
-The potential advantages of compressed workweeks are obvious from the employees’ perspective. They get more vacation days, have more time to spend with their families, have increased opportunities to moonlight, and have reduced commuting costs and times. Furthermore, if parents have different compressed schedules, child-care costs are greatly reduced.
+541
 
-Because it appears obvious that the employee’s non–work-related life will improve with a compressed schedule, the important question becomes, “What is the effect of a compressed schedule on an employee’s performance at work?” Most people answer that a worker will be more tired, causing more mistakes and accidents.
+542
 
-The research thus far, however, does not support such speculation. Although research generally indicates that workers do feel moderately more fatigued, their work behavior and work attitudes generally improve once a compressed weekly work schedule has been adopted. As shown in Table ., the results of two meta- analyses (Baltes, Briggs, Huff, Wright, & Neuman, ; Moores, ) suggest that compressed schedules generally bring a moderate reduction in absenteeism, a small increase in productivity, a large increase in job satisfaction, and a moder- ate increase in fatigue. Furthermore, on the basis of data from , employees in six studies, Moores () concluded that almost % of employees who worked compressed schedules were satisfied with them.
+chapter 
+
+caused by people with idle time. But by , the five-day, -hour workweek was fairly standard.

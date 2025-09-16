@@ -1,17 +1,45 @@
-## reports, meetings, and emails by about 50%—targets that Scott actually
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54504656ab0fab80aa56445a125ef58cb14a3499
+title: R2401G-PDF-ENG
+---
+# friction troubles.
 
-hit. His direct reports felt more empowered (and less overloaded)
+Simple subtraction rules. Crisp constraints help people remove
 
-because they made more decisions without checking and coordinating
+unnecessary impediments from organizations. One example is the
 
-with him. And because Scott had fewer people to deal with—
+rule implemented by Laszlo Bock when he led people operations at Google, which is “dedicated to staﬃng, development, and a distinct
 
-and resisted jumping into every decision—his unit operated more eﬃciently. He worked fewer hours, his health improved, and, Cross tells
+and inclusive culture.” Bock told us that tremendous burdens had been
 
-us, he saved his troubled marriage.
+heaped on employees and job candidates by the company’s tradition
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+of conducting eight to 12, and sometimes 25, rounds of interviews with
 
-11
+a candidate before making an oﬀer (or not). Bock responded with a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+simple rule: If more than four interviews were to be conducted with a
+
+candidate, the request for an exception had to be approved by him. It
+
+worked like a charm. The excessive rounds of interviews that exhausted
+
+employees and drove away good candidates disappeared instantly.
+
+The “rule of halves” is another simple subtraction tool. We ask people
+
+to imagine how they could reduce each work burden by 50%—such as
+
+the number of standing meetings they attend, the length of the emails
+
+they send, the number of recommendations they require for new hires,
+
+and the number of digital collaboration tools they use. People rarely cut
+
+50%, but they do reduce their workload.
+
+That’s what happened when Rob Cross coached Scott, that deeply
+
+overextended executive, and suggested that he cut back his direct

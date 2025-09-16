@@ -1,9 +1,11 @@
-# leadership. Work & Stress, 26, 39-55.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: e93a3cea51ade86dfc95495ed14ff826b5959bb5
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-Kirkman, B. L., & Rosen, B. (1999). Beyond self-management: Antecedents and
+Kelloway, E. K., Turner, N., Barling, J., & Loughlin, C. (2012). Transformational leadership
 
-consequences of team empowerment. Academy of Management Journal, 42, 58-74.
-
-Kirkpatrick, S. A., & Locke, E. A. (1996). Direct and indirect effects of three core
-
-charismatic leadership components on performance and attitudes. Journal of Applied
+and employee psychological well-being: The mediating role of employee trust in

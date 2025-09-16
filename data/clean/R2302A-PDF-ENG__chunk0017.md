@@ -1,11 +1,13 @@
-# organization.
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e9c8ed9ea471b44e4433b6e0cf8eb81ad5e1914
+title: R2302A-PDF-ENG
+---
+# Cultural Alignment
 
-Every corporate culture rests on norms and values. Norms are the
+Another way we measure team members’ performance is by how well
 
-policies and practices that guide how work gets done, how colleagues
+they work on the GitLab platform and uphold our values, because
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that alignment is crucial, especially in a fast-growing, all-remote

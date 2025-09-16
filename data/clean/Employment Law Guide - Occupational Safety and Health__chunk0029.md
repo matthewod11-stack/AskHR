@@ -1,7 +1,17 @@
-## adopt standards identical to the Federal ones.
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: b66aff650af9f98fba742640ae2ea4065a1d3a21
+title: Employment Law Guide - Occupational Safety and Health
+---
+# serious physical harm to his employees."
 
-Federal OSHA Standards. Standards are grouped into four major categories: general industry (29 CFR
+The Act encourages states to develop and operate their own job safety and health programs. OSHA approves
 
-1910); construction (29 CFR 1926); maritime (shipyards, marine terminals, longshoring) (29 CFR 1915-19); and
+and monitors these "state plans," which operate under the authority of state law. There are currently 22 State
 
-agriculture (29 CFR 1928). While some standards are speciﬁc to just one category, others apply across industries. Among the standards with similar requirements for all sectors of industry are those that address
+Plans covering both private sector and state and local government workers, and seven State Plans
+
+(Connecticut, Illinois, Maine, Massachusetts, New Jersey, New York, and the Virgin Islands) covering only state
+
+and local government workers. States with OSHA-approved job safety and health plans must set standards that are at least as eﬀective as the equivalent Federal standard. Most, but not all of the state plan states,

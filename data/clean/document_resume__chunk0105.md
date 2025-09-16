@@ -1,7 +1,9 @@
-## Arthur M. Cohen, "Evaluation of Faculty," Commands College Review 2
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: ff86b5184769d3519ff3070c8d33a5c5edaad121
+title: document_resume
+---
+# Performance Appraisal
 
-(Summer 1974), p. 12-21.
-
-9.
-
-L. Wilkerson, "Faculty Development." Paper presented at Conference of
+8.

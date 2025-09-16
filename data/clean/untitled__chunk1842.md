@@ -1,5 +1,13 @@
-## The Third Version of Freud’s Psychoanalytic Theory of Psychopathology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 520b753601ee3eb76cdf36a0bec79629e38cbf81
+title: untitled
+---
+# Late Nineteenth into Twentieth Century
 
-When Freud discarded his seduction theory, he recognized that his patients had been right in expressing their disbelief in the recollections he had forced upon them. However Freud did not relinquish his belief in a universal sexual etiology for the neuroses; instead he modiﬁed his theory. “Analysis had led by the right paths back to these sexual traumas and yet they were not true. At that time I would gladly have given up the whole thing . . . perhaps I persevered only because I had no choice and could not then begin at anything else. . . .” (Freud, 1914/1950b, p. 299). If Freud’s theory of the sexual etiology of neurosis, with its accompanying concepts of re- pressed memories and resistance to recovery of repressed memories, was invalid, it followed that his psychoanalytic method of treating patients by retrieving repressed memories was invalid. In that event, Freud would have had to abandon both his method of analysis and of therapy.
+fact that his patients would reproduce the scenes only under the strongest compulsion, trying to hide the most violent sen- sations while doing so, and claiming that they had no real feeling of recollecting these scenes. However, he asserted that the incidents must have been real because the recollections by different patients displayed uniformity in certain details that must have followed identical experiences. Uniformity of rec- ollection is, unfortunately, more consistent with the simple explanation that Freud’s conviction of what the memory ought to be was determining the content of the memory.
 
-323
+Not long after publishing his seduction theory, Freud began to realize that some of his patients had not in fact actually been seduced, and in 1897, he discarded both the theory and his pressure technique. He substituted instead the method of free association and the procedure of interpreta- tion, including the interpretation of dreams.
+
+Freud claimed in his On the History of the Psychoanalytic Movement (1914/1950b) that he knew of no inﬂuence that drew “my interest to [dreams] or inspired me with any helpful expectations.” He was, however, familiar with J. Hughlings Jackson’s theory that during sleep, the higher men- talprocessesnolonger“keepdown”theprocessesofthelower braincenters.HehadquotedJackson’sstatement,“Findoutall about dreams, and you will have found out all about insanity.” In Freud’s view, dreams, like neurotic symptoms, provide a conduit for the indirect discharge of accumulated nervous ex- citations. In sleep, although the body is no longer attuned to external stimulation, internal stimulation continues since or- ganic needs are always signaling their presence.

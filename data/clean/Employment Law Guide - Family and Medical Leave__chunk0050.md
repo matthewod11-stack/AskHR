@@ -1,17 +1,9 @@
-# Recordkeeping
+---
+source_path: Employment Law Guide - Family and Medical Leave.md
+pages: n/a-n/a
+chunk_id: e947bab6a845d415f78a8a827f4de1665c9b92b7
+title: Employment Law Guide - Family and Medical Leave
+---
+# period and only if leave was taken in that period. Notice of the amount of leave taken may be oral, but if oral,
 
-Employers are required to make, keep, and preserve records pertaining to their obligations under FMLA in
-
-accordance with the recordkeeping requirements of the Fair Labor Standards Act (FLSA). The FMLA does not require that employers keep their records in any particular order or form, or revise their computerized payroll or
-
-personnel records systems to comply.
-
-Employers must keep the records for no less than three years and make them available for inspection, copying,
-
-and transcription by Department of Labor representatives upon request. Records kept in computer form must
-
-be made available for transcription and copying.
-
-Covered employers who have eligible employees must maintain records that must disclose the following:
-
-Basic payroll and identifying information (including name, address, and occupation)
+must be conﬁrmed in writing, generally by no later than the following payday; such written notice may be in any form, including a pay stub notation.

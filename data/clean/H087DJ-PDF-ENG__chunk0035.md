@@ -1,41 +1,17 @@
-## HBR / Digital Article / Supporting the Mental Health of Employees of Color
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a359a2711b1ec2c482e0f00108e681d78f39bc4a
+title: H087DJ-PDF-ENG
+---
+## themselves with. In addition, information about an employee’s mental
 
-use of a service animal. Because mental health and faith are deeply
+health is health information and by law remains conﬁdential. Common
 
-entwined for many people of color, requests for accommodations may
+accommodations include breaks, a limit on hours worked, and the
 
-include things such as extending the lunch hour to attend midday
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-prayer services or playing faith-based music in their workspace.
+6
 
-Leaders should keep in mind that the barriers to asking for help,
-
-described earlier, make people of color feel vulnerable when they seek
-
-accommodations. Managers should be familiar with and understand
-
-these obstacles and look for signs that they are interfering with a
-
-request for accommodations. An example of this might be someone who
-
-is an only becoming more isolated at work.
-
-HR and DEI directors who are witnessing resignations among
-
-employees of color should face the problem calmly, openly, and
-
-honestly. Investigate the factors behind the company’s failure to protect
-
-their mental health. Climate surveys, exit interviews, and focus groups
-
-are insufﬁcient. Rather, you must observe and understand the daily
-
-work experiences of employees of color. (One simple example: Was a
-
-departing employee of color an only in their department or division?)
-
-Once you identify the root causes, create and implement an action plan
-
-with clear steps and deadlines. And do not be afraid to bring in outside
-
-help — the expertise and knowledge to address the problem areas may
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

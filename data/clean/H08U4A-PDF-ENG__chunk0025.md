@@ -1,19 +1,21 @@
-# just a nice-to-have trait.
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3dd4cb0c6c6280aee74203dc50f4afdbaa0d4b7b
+title: H08U4A-PDF-ENG
+---
+## support psychologically safe environments for their teams. Employee
 
-SAP, known for its inclusive workplace practices and neurodiverse
+surveys and feedback are used to gauge how team-level behaviors are
 
-hiring, runs the Autism at Work program to teach managers how
+being inﬂuenced by their managers (such as how feedback is given
 
-to support psychological safety and kindness in action. They receive
+and received and how challenges and uncertainty are expressed and
 
-training to develop skills to manage conﬂict, communicate in a clear
+managed). This data is integrated into each manager’s performance
 
-and kind fashion, and promote inclusive team behavior. This program
+review, highlighting and rewarding positive behaviors and reinforcing
 
-has been linked to gains in productivity, engagement, and retention.
+accountability. Framing kindness as a professional capability reinforces
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that it is a critical skill linked to success within the organization and not

@@ -1,19 +1,19 @@
-## to each other in the value creation process.
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 49588a1f66e91ca3c794da89bbe78c22f7e46c76
+title: H07WKC-PDF-ENG
+---
+## but also fashion inﬂuencers, a counterintuitive but thoughtful insight.
 
-How did the AI compare?
+Like the other tools, the elements of the ecosystem are next sorted,
 
-All told, the AI ideation process took about 60 minutes, most of which
+amended, and easily changed by humans via a custom intuitive
 
-was taken up by the human activity of inputting the questions and
+computer interface. When ﬁnished, humans select which results they
 
-then editing the responses. By the end of it, we had a ready-to-go
+want by clicking and the system immediately creates a PowerPoint
 
-presentation for investors. To get a sense of how good the results were,
+slide with the traditional blocks and arrows of an industry value chain,
 
-we ran the same exercise the old-fashioned way.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+clearly mapping out the players in the ecosystem and how they related

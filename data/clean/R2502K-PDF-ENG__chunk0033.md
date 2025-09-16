@@ -1,15 +1,19 @@
-# something comparable.
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a275a678e78356709ec15b6db130872349df70de
+title: R2502K-PDF-ENG
+---
+# Take an Outside View
 
-If you can’t ﬁnd any direct analogues, break the project down into
+The cure for uniqueness bias is to always assume that someone,
 
-modules and subprocesses, which may then prove comparable across
+somewhere has undertaken a project like yours, adopting what
 
-projects. One project leader at a major international bank told us that
+Kahneman called the “outside view.” Before you start putting your
 
-many of its teams had believed that their projects—especially big IT-
+project together, therefore, ask other people in your company if they’ve
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+seen anything like it before, because chances are that, as we just
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+saw with the logistics ﬁrm, someone in your organization has done

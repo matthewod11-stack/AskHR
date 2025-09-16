@@ -1,13 +1,29 @@
-# diﬀerent from you,” Marian explains.
+---
+source_path: R2304N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5e120fbb56437a4e9e21802c09f828fe178b340
+title: R2304N-PDF-ENG
+---
+# multilingual mind.
 
-The lauding of linguistic diﬀerence continues in A Myriad of Tongues.
+When you know multiple languages, you understand that meaning
 
-Author and language researcher Caleb Everett notes that more than
+is assigned, not inherent. You extract and interpret information
 
-7,000 languages exist today, although most people struggle to name
+diﬀerently, and you’re more attuned to how words make you feel.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+All of that yields beneﬁts, she notes. People who are multilingual
 
-2
+develop critical-thinking and other higher-order skills more quickly
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as children. They perform better on executive-functioning tasks like
+
+following multistep directions and staying focused despite distractions.
+
+They draw more novel connections and are more open and accepting
+
+than monolinguals. “If you can appreciate ﬁrsthand the utility and
+
+beauty of another language and worldview, it is not hard to imagine
+
+you are less prone to bigotry, to demonizing things or people who are

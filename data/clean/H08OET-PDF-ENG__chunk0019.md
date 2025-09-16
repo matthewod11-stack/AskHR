@@ -1,19 +1,19 @@
-## HBR / Digital Article / How Costly Is a Resume Gap for Executives?
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35eae3bb9dc4ebc74ab2c69c1475a8473728e276
+title: H08OET-PDF-ENG
+---
+# similar drop from 24% to 13%.
 
-Bigger firms have bigger penalties.
+Finance executives stand out as having no measurable drop in raises
 
-As larger ﬁrms pay more and are more likely to adopt more formal
+due to resume gaps. Regardless of whether there was a career gap, the
 
-hiring processes, we thought they might also be choosier, adhering to
+raises for ﬁrm-switching ﬁnance executives was 25% on average.
 
-stricter selection criteria in hiring executives. Our data showed that
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-executives moving between ﬁrms employing more than 10,000 people
+5
 
-received an average 27% raise, compared to a 16% raise for those who
-
-moved between smaller ﬁrms. Executives with career gaps who moved
-
-between large ﬁrms saw an 18% average raise, a nine percentage point
-
-drop. Raises for those with gaps moving between smaller ﬁrms were 11%,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

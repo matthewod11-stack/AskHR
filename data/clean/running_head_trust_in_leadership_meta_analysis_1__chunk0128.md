@@ -1,21 +1,25 @@
-## Relative Effects across Contemporary Leadership Styles
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: f255a830b0c854117c54ef072aa9adb6b27aeb0f
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-An ancillary aim of the current research was to estimate the relative effects of ethical,
+leadership styles, some of which may be redundant (Banks et al., 2018). As noted, some of
 
-authentic, servant, and abusive leadership. As discussed, the leadership literature has been
+this potential redundancy is particularly evident when looking at the underlying dimensions
 
-critiqued for construct redundancy, with high correlations being observed between
+proposed to be part of the different leadership styles. Relatedly because the scales used to
 
-supposedly distinct leadership styles (e.g., Banks et al., 2018). One way to address this issue
+measure leadership styles are typically follower rated, responses may represent followers’
 
-is through critical tests of theory where popular leadership styles are examined concurrently
+overall evaluation of their leader rather than any specific leadership behaviour or style (e.g.,
 
-to determine the value of each construct. Several recent meta-analyses have made progress in
+Lee et al., 2015). This is an issue within the wider leadership literature that needs to be
 
-this regard (e.g., Banks et al., 2016; Hoch et al., 2018; Lee et al., 2018; Lee et al., 2020; Ng &
+addressed in future research. Despite the overlap between the leadership styles alluded to
 
-Feldman, 2015) and we seek to contribute to this literature.
+above, our relative weights and incremental validity analysis can begin to highlight where
 
-Our findings have important implications for the leadership field. On the one hand,
-
-the high correlations observed between servant, ethical, and authentic leadership further
+uniqueness between them does in fact exist.

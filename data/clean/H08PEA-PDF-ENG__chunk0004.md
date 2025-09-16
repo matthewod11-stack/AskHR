@@ -1,19 +1,13 @@
-# usual.
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: febe6ab0179a28a802271ef353e97412cd12320e
+title: H08PEA-PDF-ENG
+---
+## HBR / Digital Article / Research: When Extra Effort Makes You Worse at Your Job
 
-In short, you may be experiencing the cognitive cost of being proactive.
+At the end of that same proactive day, you head to an important
 
-In a new study, we found that the more eﬀort people spend seeking
+meeting, where you notice that being fully focused has become more diﬃcult: your attention starts to wane, you’re missing important details,
 
-out ways to improve their job (rather than just doing it), the worse their
-
-cognitive performance was at the end of the day compared to days on
-
-which they haven’t been especially proactive. In other words, going the extra mile can be mentally costly. So should you not be proactive
-
-or not encourage your team to be? Are there better ways or times to
-
-improve your tasks? Our research suggests that in order to harness
-
-the beneﬁts of proactivity, we ﬁrst must understand how costly it can
-
-be to deviate from your routine—and which activities can help buﬀer
+and coming up with a concise answer to a question feels harder than

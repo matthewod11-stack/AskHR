@@ -1,5 +1,11 @@
-# J. Appl. Psychol. 88:552–60
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 766553960b8eba6f2fa9ca5e6d988b467791fd20
+title: arop1noe_245_275
+---
+## team structure on internal and external learning. Organ. Sci. 24:1120–39
 
-Butts MM, Casper WJ, Yang TS. 2013. How important are work–family support policies? A meta-analytic
+Brown KG, Sitzmann T. 2011. Training and employee development for improved performance. In APA HandbookofIndustrialandOrganizationalPsychology,Vol.2,ed.SZedeck,pp.469–503.Washington, DC: Am. Psychol. Assoc.
 
-investigation of their effects on employee outcomes. J. Appl. Psychol. 98:1–25 Cabrera A, Cabrera EF. 2002. Knowledge-sharing dilemmas. Organ. Stud. 23:687–710 Cabrera EF, Cabrera A. 2005. Fostering knowledge sharing through people management practices. Int. J.
+Bunderson JS, Sutcliffe KM. 2003. Management team learning orientation and business unit performance.

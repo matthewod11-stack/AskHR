@@ -1,7 +1,23 @@
-# a liability.
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e06cacca74ac3bced35a6e37f1b2974379a29ad8
+title: H08UV9-PDF-ENG
+---
+# 19% in companies with no PE ownership.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+But agility isn’t a silver bullet. It’s a trait, and like all traits, it comes with tradeoﬀs. Highly agile executives tend to excel in chaotic, ambiguous
 
-4
+situations. They thrive on change and can quickly reorient under
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+pressure. But those strengths often come at the expense of structure,
+
+consistency, and follow-through. Agility and operational rigor rarely
+
+live in the same person. Agile leaders move fast—but don’t always
+
+land the plane. In a post-merger integration, strategic pivot, or early-
+
+stage growth context, agility can be a superpower. But in a steady-state
+
+scaling phase, where precision and systems matter most, it can become

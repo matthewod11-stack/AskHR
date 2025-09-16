@@ -1,25 +1,19 @@
-## policy, oﬀer training on LGBT topics, and sponsor social activities for
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25ceb7d04478a77a874498fb01714e7d62c192ae
+title: H053C9-PDF-ENG
+---
+# HBR / Digital Article / How Multinationals Can Help Advance LGBT Inclusion Around th…
 
-LGBT employees. This approach is common in more moderate locations
+legal or safety risks. The model allows companies to avoid potential
 
-where the legal or cultural climate is unwelcoming to LGBT people
+backlash from local governments or entities but by deﬁnition does
 
-but not overtly hostile. The model enables companies to support LGBT
+nothing to foster a sense of inclusion for LGBT employees.
 
-talent, but it doesn’t address the conditions that lead to LGBT exclusion
+In the “Embassy” model, companies create an inclusive workplace
 
-in the ﬁrst place. When employees step outside the walls of the embassy,
+internally for their LGBT employees without seeking to change laws or
 
-they continue to face discrimination.
-
-In the “Advocate” model, businesses go beyond internal LGBT inclusion
-
-and strive to inﬂuence the local climate. This means engaging in
-
-activities such as lobbying the government, participating in Pride
-
-events, and supporting activists. The Advocate approach is common
-
-in moderate-to-friendly places — like when hundreds of companies
-
-lobbied for marriage equality in the United States — but it’s
+social attitudes. For instance, they might adopt a non-discrimination

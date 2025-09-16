@@ -1,7 +1,7 @@
-## With cell phones and other technical advances
-
-in communication, the frequency of poor phone etiquette seems to be on the increase.
-
-Consider the following advice: S
-
-Use speakerphones properly. Don’t use your speakerphone if you share your office or listening space with others. If you want to place a caller on speakerphone, ask the caller’s permission and be sure to tell the caller who else is in the room.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 13e2978f5385b545ba713b9d52d022fdeb583660
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Phone Etiquette

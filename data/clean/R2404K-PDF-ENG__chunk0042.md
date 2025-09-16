@@ -1,11 +1,31 @@
-## functions, such as quality assurance, the accelerator’s leadership will
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a95f2612485df94b74e6813f83ff36230d44418b
+title: R2404K-PDF-ENG
+---
+## organizations (CDMOs) in biotech or med-tech. Ideally, accelerators
 
-facilitate the teams’ rapid and focused delivery of new products.
+hire not merely to staﬀ one project but to develop a bullpen of best-in-
 
-The accelerator attracts talent because it offers a fast-paced entrepreneurial climate and removes funding and acquisition risks.
+class talent. Trusted workers from previous projects are the best place
 
-Each group of innovators creates a separate development company for
+to start, but an accelerator should consistently employ the strengths
 
-each product it designs, and a team may work on three to ﬁve products
+of its growing ecosystem to attract, develop, and retain new talent.
 
-at one time. The accelerator’s leadership team creates a portfolio of
+Like a major league baseball team develops a minor league farm
+
+system, accelerators should use smaller projects to evaluate and nurture
+
+talent that can eventually be redeployed to larger and more complex
+
+initiatives. Some talent will join the accelerator full-time. Teams are
+
+assembled and evaluated primarily on the basis of their level of
+
+experience in the target area, demonstrated entrepreneurial mentality,
+
+and willingness to adapt to the growth driver model. By building a
+
+complete support network for the accelerator that includes secondary

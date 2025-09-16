@@ -1,15 +1,19 @@
-## an organization and some of the simplest, human-centered tactics can
+---
+source_path: H0868F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b408fa9708554f2c6b8d050919d4855520cddcc6
+title: H0868F-PDF-ENG
+---
+## performance, productivity, employee experience, etc.”
 
-be incredibly powerful. Have a candid conversation with a coworker.
+Leaders also need to “do the work” of getting in touch with how their
 
-Find strength in numbers by asking for policy change with colleagues.
+own emotions color their work lives. And they carry immense power
 
-Be the team leader who reaches out to encourage a more reasonable
+to destigmatize mental health conversations by sharing what they
 
-sign-oﬀ time after seeing midnight email timestamps from your staﬀ. Be
+are doing to preserve their mental health and how those actions are
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+impacting them.
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Magic in service of workplace mental health can happen at all levels of

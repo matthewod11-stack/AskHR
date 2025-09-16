@@ -1,13 +1,25 @@
-## HBR / Digital Article / When Your New Boss Won’t Stop Making Hasty Decisions
+---
+source_path: H08DM0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1dc65388824ca2be75d2974999e9965e0cd5cf92
+title: H08DM0-PDF-ENG
+---
+# organization.
 
-If, despite your best eﬀorts, nothing seems to be changing, and your
+Consider cutting your losses.
 
-boss continues to make questionable decisions, Martin suggests some
+It’s possible that your boss is inexperienced, lacking in self-awareness,
 
-self-reﬂection. “Things change, and priorities shift, but you need to
+or ill-equipped for the role. Or maybe they’re simply not a good ﬁt for
 
-decide whether you want to be part of the next chapter,” he says. Banu
+you, says Martin. “We all have preferred ways of working, and it could be
 
-recommends asking yourself a simple question: “Do I want to work in
+that this new boss’s decision-making style isn’t necessarily bad, but it’s
 
-this environment?” If not, it might be time to start looking for a diﬀerent
+diﬀerent from what you want.”
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

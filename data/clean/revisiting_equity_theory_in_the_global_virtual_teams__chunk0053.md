@@ -1,5 +1,9 @@
-## of Abnormal and Social Psychology, Vol. 69 No. 1, pp. 19-25.
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: 0d176d1ce2e0a1bca9f61bd4de278bcb52cf1f1f
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+## Personality and Social Psychology, Vol. 10 No. 3, pp. 315-316.
 
-Adams, J.S. and Rosenbaum, W.B. (1962), “The relationship of worker productivity to cognitive dissonance about wage inequities”, Journal of Applied Psychology, Vol. 46 No. 3, pp. 161- 164.
-
-Arvanitis, A. and Hantzi, A. (2016), “Equity theory ratios as causal schemas”, Frontiers in
+Adams, J.S. and Jacobsen, P.R. (1964), “Effects of wage inequities on work quality”, The Journal

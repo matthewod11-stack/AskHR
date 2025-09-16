@@ -1,7 +1,25 @@
-# HBR / Digital Article / 6 Questions to Help You Decide What You Want in Your Next Job
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a3da04f73e8da8870323796a9e63d17505f6412
+title: H08N2T-PDF-ENG
+---
+# Zero Creatives/Getty Images
 
-new job, but are open to the idea of a better opportunity. In the realm of
+Are you thinking of changing jobs, or even careers?
 
-relationships, this would equate to 70% of married people being “open”
+If so, you are not alone. Estimates suggest that more than 40% of
 
-to a better spouse (we would surely talk about a marital satisfaction
+workers are entertaining the possibility of a job switch, while another
+
+20% have recently quit their jobs. This ﬁgure is even higher among
+
+knowledge workers, with LinkedIn estimating that 70% of its users are
+
+passive job seekers—that is, people who are not actively trying to get a
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,9 @@
-## survey responses and behavioral data from more than 80,000
+---
+source_path: H07JWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c4fd050baddf1bd209f73057ce6050db36eb197b
+title: H07JWT-PDF-ENG
+---
+## HBR / Digital Article / Research: Remote Workers Are More Anxious About Layoffs
 
-employees. In a recent study, 89% of human resources leaders told
-
-us that their teams have recently voiced concerns about job security,
-
-leadership changes, or reorgs. Anxiety also seems to be driving what
-
-employees want most: Half of workers prioritized job stability over both
+Over the past year at Humu, we’ve analyzed employee engagement

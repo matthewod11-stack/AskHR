@@ -1,9 +1,23 @@
-## HBR / Digital Article / How to Steer Clear of Groupthink
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 132596f1a6b6e076a4c41326d187513f31e9a598
+title: H06W7A-PDF-ENG
+---
+# the following steps:
 
-What we saw in the groups that overcame groupthink is that it began
+- 1. They challenged the status quo.
 
-with one member expressing dissatisfaction with the status quo. For
+People have a tendency to believe that existing solutions must be good.
 
-example, one group we studied had the following conversation about
+Groups are tempted to gravitate towards the status quo because they
 
-whether patients should be able to see who had accessed their electronic
+don’t face a high cost if they fail. (E.g., “Others used it before and it
+
+worked then, so it’s not our fault that it didn’t work now.”)
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

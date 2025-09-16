@@ -1,11 +1,15 @@
-# Industrial Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 62f7e5680cb4804d1e03ad38fb4b1661517a954d
+title: untitled
+---
+# 38 Psychology as a Profession
 
-Other practice specialties also beneﬁted from psychologists’ record of accomplishment during the war. Historian Donald Napoli (1981) wrote this about the postwar growth of indus- trial psychology:
+The leadership of Division 17 was not pleased with the unilateral actions of the E&T Board. When the E&T report appeared, the division commissioned its own three-person committee, which drafted a much more optimistic report on the status of counseling psychology arguing that the profes- sion was thriving, even if graduate programs were not. This 1961 report found that,
 
-The military had given psychologists a chance to prove the effectiveness of selection, classiﬁcation, and aptitude testing, and psychologists met the challenge successfully. Civilian em- ployers also offered new opportunities, which grew largely from the labor shortage produced by wartime mobilization. Business managers, beset by high rates of absenteeism and job turnover, took unprecedented interest in hiring the right worker and keeping him contented on the job. Management turned to
+The rate of growth of counseling psychology has been normal despite limited ﬁnancial support for the development of graduate programs and the support of graduate students. . . . The social demand for well prepared counseling psychologists is great and continues to increase. The Division of Counseling Psychology has a deep professional obligation to meet this social need. (Tyler, Tiedeman, & Wrenn, 1980, p. 124)
 
-psychologists . . . and the amount of psychological testing quickly increased. Surveys show that in 1939 only 14% of busi- nesses were using such tests; in 1947 the proportion rose to 50%, and in 1952, 75%. (p. 138)
+Part of the dissatisfaction within counseling psychology was caused by its comparison with clinical psychology, a profession that was growing at a fantastic rate. By that yard- stick, any ﬁeld would have looked to be in trouble. There was concern from many in counseling that the ﬁeld should clearly distinguish itself from clinical psychology, whereas others suggested merging the training of the two ﬁelds while main- taining differences in the nature of practice.
 
-Another area of substantial development for the industrial psychologist that grew out of the wartime work was the ﬁeld of human factors or engineering psychology. The military, in particular, continued to employ psychologists in its research on human–machine interactions, but businesses as well began to employ psychologists to design irons, telephones, arc welders, vending machines, chemical reﬁneries, and the like. Human factors remained an important part of industrial psy- chology into the 1960s but gradually separated, a transition begun in the late 1950s whenAPA’s Division 21 (Engineering Psychology) and the Human Factors Society were founded. It was replaced by psychologists interested in applying social psychological theories to the problems of organizations, lead- ing to the growth of the “O” half of the I-O psychologist.
-
-Prior to the war, most industrial psychologists served as consultants to businesses, thus working part-time as profes- sionals. After the war, however, that pattern changed dramati- cally. Businesses offered full-time employment opportunities, and consequently graduate programs began to train the I-O practitioners to ﬁll those jobs.
+Traditional work in vocational guidance had been modi- ﬁed by the experiences of counseling psychologists in the VA and student personnel work in higher education. What emerged was a new specialty area that had as its focus the adjustment of the individual to the demands of everyday life, whether those demands were vocational, educational, or interpersonal. The emphasis on developmental processes of average individuals facing day-to-day life was seen as a clear contrast to the emphasis on psychopathology that was the bread and butter of the clinical psychologist.

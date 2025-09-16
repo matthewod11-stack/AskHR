@@ -1,17 +1,9 @@
-## such issues as safety and health; diversity, equity, and inclusion;
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b20867d103d716805825f0e76a16d3f18c900549
+title: R2304D-PDF-ENG
+---
+# that matter to them most.
 
-and technological innovations. Many companies already have in place
-
-employee resource groups (ERGs) that provide a forum to people of
-
-color, women, LGBTQ+ employees, and allies; ERGs with an expanded
-
-remit could serve as a model for other advisory teams.
-
-Some companies put a worker-elected representative on their board of
-
-directors, as software company Honeycomb does. In many countries,
-
-especially in Europe, this “codetermination” is common. A worker with
-
-a ﬁduciary duty to the company can create a channel for employees to
+Consider creating joint management-labor teams that can advise on

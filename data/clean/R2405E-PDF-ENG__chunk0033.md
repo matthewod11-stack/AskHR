@@ -1,31 +1,17 @@
-## for its equipment, in the late 1990s, the complementary controllers
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 532f1e465fff2901d31405d2ca8560c1988c127b
+title: R2405E-PDF-ENG
+---
+## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
 
-and underpinning connectivity technology were nowhere near ready.
+Do we have an ecosystem that will support growth? The industrial-
 
-So the company collaborated with a Belgian start-up, Velleman, to
+scale rollout of an innovative oﬀering is likely to require a system
 
-create a remote controller. Soon afterward it conducted another trial
+of complementary businesses, including component developers,
 
-with an Italian controller producer. Those collaborations led Atlas
+downstream distributors, and service partners. When Atlas Copco
 
-Copco to launch AirConnect, which sent users SMS and email alerts
-
-when machines shut down. The service was met with limited interest,
-
-however: Ultimately only 2,500 pieces of equipment were outﬁtted with
-
-AirConnect. But Atlas Copco persevered, collaborating with another
-
-Belgian partner to develop a service that tracked the locations of
-
-portable equipment with GPS and monitored its battery-power and
-
-diesel levels. All those experiments prepared Atlas Copco for what was
-
-to come: In 2013 it secured a global roaming contract with a telecom
-
-partner, which facilitated the large-scale deployment of its new remote-
-
-monitoring technology, Smartlink. By 2020, Atlas Copco had supplied
-
-more than 100,000 pieces of equipment with remote monitoring, giving
+started exploring the possibility of creating a remote-monitoring service

@@ -1,9 +1,9 @@
-# 80
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 37b1d7896d56f440382be41c8cebf5883fc0610b
+title: file_1
+---
+# Limitations and future research
 
-Secondly, the concept of gender inequality may have different meanings in various locations due to differences in gender roles (Verloo and Lombardo, 2007). So, for example, while in some countries reconciliation of work and family as well as family leave would be the determinants of employees’ perceptions of gender inequality, for others these factors would be considered as essential parts of the gender equality construct. An extensive study that explores employees’ perceptions working in various countries is thus needed to confirm and enlarge the empirical findings of the present study.
-
-Thirdly, the study is based on the Gender Equality Barometer 2008. This data set is an extremely rich and valuable resource. However, it has some methodological limitations, such as a lack of validated scales, common method bias, and a lack of theoretically and empirically approved constructs, which may explain the somewhat low Cronbach’s alphas of some constructs. The current study should thus be viewed as exploratory. An extensive study that analyzes perceptions of employees working in different countries and in different sectors is needed to confirm the empirical findings of the present study. An example of such kind of study could be a comparative research based on the surveys conducted by United Nations Economic Commission for Europe or by European Commission, which apply common gender inequality indexes across European countries, and, thus, are applicable for international comparative studies related to the topic of gender inequality.
-
-Next, the interaction effects of the study’s independent variables on employees’ perceptions of societal and workplace gender inequality were not under investigation in this study. However, different results might be expected when, for example, young married well- educated male employees working in a female-concentrated sector are compared with older single female employees working in a gender-neutral sector.
-
-In closing, I hope that my paper will stimulate others to investigate the issues concerning employees’ perceptions of various types of gender inequality since additional research is needed to explore the psychological side of the problem. This may pave the way to more effective ways of reducing gender inequality not only in Finland but also around the world.
+Despite its contribution, the present study has a number of limitations. Firstly, the depicted individual and employment factors explained only 12.3 % of the variance in employees’ perceptions of societal gender inequality and 12.5 % of the variance in their perceptions of workplace gender inequality. In addition, there might have been a two-way causality or correlation between the factors and the employees’ perceptions of gender inequality. For instance, it might have been that not requests for pay increase predicted employees’ perceptions of workplace gender inequality, but the opposite. Employees may perceive the existence of gender inequality in their workplaces and, thus, decide not to apply for a salary increase or they may ask for a pay rise because they feel that they have been discriminated against. Further theoretical and empirical investigations are thus needed to reveal the causality between variables factors and to broaden knowledge on how different patterns of the perceived gender inequality are interrelated.

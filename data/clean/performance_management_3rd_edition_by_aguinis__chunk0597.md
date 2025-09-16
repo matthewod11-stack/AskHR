@@ -1,9 +1,9 @@
-# 4.2 DETERMINANTS OF PERFORMANCE
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 72ec8fa9a82740e5299868642924ad77a6b52c02
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 4 • Defining Performance and Choosing a Measurement Approach
 
-What factors cause an employee to perform at a certain level? Why do certain individuals perform better than others? A combination of three factors allows some people to perform at higher levels than others: (1) declarative knowledge, (2) procedural knowledge, and (3) motivation.3 Declarative knowledge is information about facts and things, including information regarding a given task’s requirements, labels, principles, and goals. Procedural knowledge is a combination of knowing what to do and how to do it and includes cognitive, physical, perceptual, motor, and interpersonal skills. Finally, motivation involves three types of choice behaviors:
-
-- 1. Choice to expend effort (e.g., “I will go to work today”) 2. Choice of level of effort (e.g., “I will put in my best effort at work” versus “I will not try very hard”)
-
-- 3. Choice to persist in the expenditure of that level of effort (e.g., “I will give up after a little while” versus “I will persist no matter what”)
-
-Table 4.1 summarizes the components of declarative knowledge, procedural knowledge, and motivation. All three determinants of performance must be present for performance to reach high levels. In other words, the three determinants have a multi- plicative relationship such that
+clients to offer them new products or services. The salesperson’s supervisor is back in the home office and does not have an opportunity to observe the salesperson’s behaviors first- hand. In this case sales volume may be used as a proxy for a behavioral measure. In other words, the supervisor makes the assumption that if the salesperson is able to produce high sales figures, then she is probably engaging in the right behaviors.

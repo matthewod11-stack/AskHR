@@ -1,9 +1,9 @@
-## unwieldy survey system or impersonal form.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 657814f51f5d1520741031394b30c4b09386c8c0
+title: H08DDG-PDF-ENG
+---
+## HBR / Digital Article / Why VCs Should Use Net Promoter Scores with Founders
 
-In addition, to avoid relying solely on input from the person we know
-
-best and work with the most at a given startup, we make a point of
-
-soliciting feedback from at least three people at each of our portfolio
-
-companies. Thanks to this approach, our ﬁrst survey achieved an 81%
+replying directly to your email, rather than asking them to use some

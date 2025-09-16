@@ -1,7 +1,7 @@
-# Situation Favorability
-
-As shown in Figure ., the relationship between LPC scores and group performance is complex. Basically, low-scoring LPC leaders (those who rate their least-preferred coworker low) function best in situations that are either favor- able or unfavorable, whereas high-scoring LPC leaders function best when the situation is only of moderate favorability.
-
-In spite of psychometric problems with the LPC Scale (Kennedy, Houston, Korsgaard, & Gallo, ; Stewart & Latham, ), research generally has supported Fiedler’s theory. Strube and Garcia () conducted a meta-analysis of  independent studies that investigated Fiedler’s model as well as  of Fiedler’s own studies and concluded that the ideas were well supported by the research. Schriesheim, Tepper, and Tetrault () found support for the general predic- tions of leader behavior but not for some of the specific predictions.
-
-Fiedler’s training program, called Leader Match, has also been supported by research (Strube & Garcia, ). This program is based on Fiedler’s belief that an individual’s leadership style is not easily changed. Thus, to improve their abilities, leaders learn through four-hour workshops how to diagnose situations and then change these situations to fit their particular leadership styles (Csoka & Bons, ). Leader Match is probably the only training program in the country concentrating on changing the situation rather than the leader.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 66a6e11e88e5936ff73c43bca14f0bfa9d65070b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# High

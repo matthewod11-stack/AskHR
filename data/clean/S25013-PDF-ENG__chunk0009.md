@@ -1,33 +1,37 @@
-# car to a halt).
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac5e80098525f2f62599b85fa20b95851b2b9fd1
+title: S25013-PDF-ENG
+---
+## HBR / Spotlight / Why People Resist Embracing AI
 
-The style of explanations plays a crucial role too. Those that use
+People tend to think that humans’ decision-making is less of a black
 
-comparative reasoning—outlining why certain alternatives weren’t
+box than algorithms’, but that belief is unfounded. Psychologists have
 
-chosen—increase trust more than explanations that don’t. For instance,
+shown that people have little insight into what other people are
 
-one study found that an explanation that described in detail why an AI
+thinking; instead they use heuristics to interpret human behavior. In
 
-system categorized a tumor as malignant instead of as benign was seen
+one study where people were asked to describe the process by which AI
 
-as more credible than one that simply said the tumor resembled other
+or human physicians diagnosed cancer after examining skin scans, for
 
-tumors (even if both explanations may be true). Essentially, the most
+instance, participants realized that their grasp of the human diagnostic
 
-convincing explanations are those that articulate the reasons behind the
+procedure was not as strong as they had presumed. This realization
 
-decision made as well as why alternatives were dismissed.
+made them less biased against using medical AI.
 
-Because the best-performing AI models are typically more complex
+Explanations of how AI tools work can increase their acceptance, but
 
-and harder to explain than other models, managers may want to
+not all explanations are eﬀective. Researchers have found that people
 
-ﬁrst introduce simpler models into their organizational processes—
+prefer explanations about why an AI tool did something (for instance,
 
-especially when getting buy-in from people is important. Consider
+they would rather know that an autonomous car braked because there
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+was an obstacle ahead) to simple explanations of what the AI did (for
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+instance, that it activated the vehicle’s braking system and brought the

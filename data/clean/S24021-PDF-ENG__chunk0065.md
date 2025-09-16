@@ -1,13 +1,13 @@
-## of the nonﬁnancial constraints—such as systems, processes, human
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c941faad28e06370102219a1973650537d1ca270
+title: S24021-PDF-ENG
+---
+# What Makes a Great Growth Strategist
 
-capital, and culture—on their company’s sustainable growth rate. They
+As companies grapple with the central question of how fast to grow,
 
-know that growing faster than capabilities dictate is possible in the
+they’ll need leaders who understand the key decisions to be made
 
-short term but that doing so over the long term can cause lasting
-
-damage to reputation and culture. Good growth strategists do not fall
-
-into the trap of thinking they can grow fast now and ﬁx things later.
-
-They recognize that more-measured growth over a sustained period will
+and their inherent trade-oﬀs. Good growth strategists are keenly aware

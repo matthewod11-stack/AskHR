@@ -1,7 +1,19 @@
-# and multiple acquisitions.
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: feddadf5f4e3994f2deac2b3d6319dd310f8932b
+title: R2502C-PDF-ENG
+---
+## in technology. However, the top 10% of companies in every industry
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+outperformed the average returns of tech ﬁrms. In other words, entering
 
-16
+an attractive industry does not guarantee superior performance, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a strategically ﬁt company can excel in even the toughest industries—
+
+such as ﬁtness. In pursuit of its purpose to improve the self-esteem
+
+of people all over the world, SEB has expanded in multiple directions—
+
+adding product lines and geographic markets through internal growth

@@ -1,33 +1,21 @@
-## HBR / Digital Article / Stop Solving Your Team’s Problems for Them
+---
+source_path: H08TIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b37b16de9e0a451f88195dbca0c7b4f1f12c670
+title: H08TIJ-PDF-ENG
+---
+## adjacent department, or an external resource.
 
-What would you do if you were in my seat?
+When employees feel comfortable seeking help broadly, problems get
 
-When you solve problems for your team, they often don’t see the eﬀort
+solved faster, and teams build connectedness that doesn’t depend on
 
-you put in—staying late, sending follow-up emails, navigating politics,
+direct manager involvement. Encourage your team to think bigger
 
-and weighing trade-oﬀs. This results in:
+about the resources they can tap into.
 
-- No appreciation for the person doing the solving
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-- No skill-building for the person who handed it oﬀ
+4
 
-Asking this question prompts your employee to carry some of the
-
-intellectual load of problem-solving. You’re asking for their insights and
-
-inviting them into the decision-making process.
-
-I recently coached a customer success leader who was completely
-
-underwater, ﬁelding hourly escalations. When she started asking her
-
-team, “What would you do if you were in my seat?”, she saw a number
-
-of beneﬁts: Her team started bringing forward more thoughtful ideas;
-
-they became more patient when problem-solving took time; and they
-
-stopped handing her the same problem twice. They saw ﬁrsthand what
-
-went into solving the issue, and they began to learn how to do it
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

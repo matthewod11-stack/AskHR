@@ -1,5 +1,7 @@
-# Bonfring International Journal of Industrial Engineering and Management Science, Vol. 5, No. 2, June 2015
-
-Balanced Score Card system will require a high initial cost and time spent. This will make the balance sheet depict that the company is not making profit and that implementing the balanced scorecard system is a waste of money.
-
-IV.
+---
+source_path: bonfring_international_journal_of_industrial_engineering_and_management_science.md
+pages: n/a-n/a
+chunk_id: 3979bd331df8959ee5f098f9517ca4c68ba0c06b
+title: bonfring_international_journal_of_industrial_engineering_and_management_science
+---
+# 76

@@ -1,5 +1,33 @@
-## of diversity; political polarization; and the existential threat of climate
+---
+source_path: H0785O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5deab823ddcf8507ebaee46430895ff4f6c50fd7
+title: H0785O-PDF-ENG
+---
+# other ideas.
 
-change. And while readers from HBR’s early decades would witness
+Finally, our contributors dug into our archive to gain insight into what
 
-the emergence of such marvels as jet engines, transistors, lasers —
+occupied us over the past 100 years and why. Tejas Ramdas, Raﬀaella
+
+Sadun, and Nicholas Bloom created a visual representation of how our
+
+topic mix — and the issues that are most pressing for managers —
+
+has changed. Colleen Ammerman and Boris Groysberg analyzed when,
+
+and how, HBR has covered women over the decades. And our audience
+
+engagement editor, Kelsey Gripenstraw, compiled a list of our most
+
+popular articles. The variety might surprise you!
+
+This package shows us how the world that HBR covers has evolved.
+
+Our readers still care about balance sheets and operations, but their
+
+scope of responsibility has expanded to include issues far beyond the
+
+strict purview of their businesses and rarely — if at all — considered in
+
+1922: urgent social issues involving race, gender, and other dimensions

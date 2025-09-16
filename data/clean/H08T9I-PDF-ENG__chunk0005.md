@@ -1,11 +1,15 @@
-# their positioning in the market.
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a68660738e8c07a1340a4f86e6aa73ce8e7f79fc
+title: H08T9I-PDF-ENG
+---
+## HBR / Digital Article / When to Innovate and When to Imitate
 
-In this article, we take a step back. Before deciding how to innovate,
+Frequently, scholars and practitioners attribute innovation failures
 
-we suggest companies ask when they should innovate—and whether it
+to the ways companies go about developing and commercializing
 
-might make more sense to imitate instead. While less glamorous, for
+innovations. But our research suggests an alternative reason—many
 
-some companies, imitating the right rivals at the right time can be more
-
-eﬀective and lucrative than attempting to chart an entirely new course.
+innovation attempts fail because companies do not fully understand

@@ -1,13 +1,19 @@
-## mentee with the greatest expertise within the team.
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32f9d2903246e6b91d85442011b3d07667eb70f7
+title: H07YIA-PDF-ENG
+---
+# and sustainably throughout your career.
 
-Creating mentee teams enables them to operate semi-autonomously.
+- 1. Divide your mentees into teams.
 
-For example, teams can meet on their own on a scheduled basis.
+When mentoring numerous individuals at once, it is easy to feel
 
-More senior or experienced members of the team can help mentor
+compelled to take complete responsibility for each mentee. However,
 
-less-experienced members. Senior members beneﬁt from this structure
+the cumulative burden can become overwhelming. This challenge can
 
-by learning how to properly mentor early on in their careers, while
+be overcome by organizing mentees into subgroups consisting of three
 
-less-experienced members beneﬁt from having a “go to” person they can
+to four mentees with varying degrees of experience and led by the

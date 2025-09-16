@@ -1,11 +1,13 @@
-# HR Magazine, 52(4), 12.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 61285b73aaf512ab106ab45a0460a211a9e0aeb6
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Meers, A., Maasen, A., & Verhaegen, P. (1978). Subjective
 
-Melamed, S., Fried, Y., & Froom, P. (2001). Th e interactive
+health after six months and after four years of shift work. Ergonomics, 21, 857–859.
 
-eﬀ ect of chronic exposure to noise and job complexity on changes in blood pressure and job satisfaction: A longitudinal study of industrial employees. Journal of Occupational Health Psychology, 6(3), 182–195.
+Mehrabian, A. (1965). Communication length as an index of communicator attitude. Psychological Reports, 17, 519–522.
 
-Melamed, S., Harari, G., & Green, M. S. (1993). Type A behavior, tension, and ambulatory cardiovascular reactivity in workers exposed to noise stress. Psychosomatic Medicine, 55(2), 185–193.
-
-Mento, A. J., Steel, R. P., & Karren, R. J. (1987). A meta-analytic
-
-study of the eﬀ ects of goal setting on task performance: 1966–1984. Organizational Behavior and Human Decision Processes, 39, 52–83.
+Meisinger, S. (2007). Flexible schedules make powerful perks.

@@ -1,5 +1,9 @@
-# CEO Compensation Across the Globe
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac2da68ada87fdb4cd35a3d480a9bcd9a25ab270
+title: R2101J-PDF-ENG
+---
+## Twenty­six percent of the companies with formulaic plans
 
-Because the Russell 3000 is made up of U.S. companies, it’s worth examining compensation practices in other countries. Recently U.S.-based FW Cook, UK- based FIT Remuneration Consultants, and Pretium Partners Asia Limited published the 2018 Global Top 250 Compensation Survey, which looks at trends in CEO and CFO pay at the 250 largest public companies worldwide. It highlights a number of key regional differences:
-
-→ Long-term incentives account for 75% of median CEO compensation in the Americas.
+include at least one environmental, social, or governance (ESG) goal. In some cases targets are attached to those goals, and in others the goals are part of an assessment of strategic performance. Among the companies using ESG measures, 43% set human capital goals (such as diversity, employee engagement, and a positive company culture); 25% set health, safety, or environmental goals; and 32% use both types. Utilities and energy companies have the highest prev­ alence of ESG goals (81% and 77%, respectively), typically related to health, safety, and the environment.

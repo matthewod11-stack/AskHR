@@ -1,11 +1,13 @@
-## PepsiCo) and others to product (e.g., Cargill, Mars, Tyson Foods).
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36c353f95dd94b3f47f3f35df2c0f8bb2490b467
+title: H06YIA-PDF-ENG
+---
+## companies (e.g., ABB, Atlas Copco, Eaton, Emerson) tend to have
 
-Companies don’t change their primary dimension just because their
+product as primary dimension. Food and beverage companies tend to
 
-business strategy changes. Ultimately a company changes its primary
+seek a balance between region and product, with most giving more
 
-dimension only when it believes that the change will enable it to deliver
-
-value to its customers more eﬀectively. That depends on:
-
-- Creating verticals that sustain expertise through their focus, critical
+weight to region (e.g., AB InBev, Coca-Cola Company, Danone, Nestlé,

@@ -1,5 +1,9 @@
-# Concluding Remarks
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 47c0914b49b7d1a2cc2f5733c7bf0edd395916c6
+title: document_resume
+---
+# Shakedown Administration
 
-Designing, developing, and implementing an effective perforniance appraisal system is not an easy task. In fact, the Southern Union process at times could have been described as difficult, confusing, controveisial, and time-consuming. But, "difficulty and confusion" were addressed early from the process by retaining individuals with pro- fessional expertise in implementing a sophisticated, comprehensive appraisal system. "Controversy" was mitigated through total institutional cc mmitment, involvement, negotiation, and communication. As far as the "time-consuming" aspect of the process, this is one factor which simply cannot nor ever will be eliminated. In fact, maintenance of the appraisal process at Southern Union continues to be time-consuming. Effective performance appraisal systems require continuous refinement and modification because position descriptions will be rearranged, errors will be found, new positions will evolve, and humans will change for the sake of change. Change, therefore, is a necessary ingredient in the evolution of an effective system of appraisal.
-
-4
+No matter how competent and professional the seam that developed the program, or how high the level of management support, or how deeply involved were the faculty and staff from its inception, there will be problems in implementation. Behavioral anchors which were clear and concise when written and reviewed by 15 people in three levels of the organization will suddenly become vague and ambiguous. Rater errors and tendencies which were fully covered during rater training sessions will proliferate and several new ones will emerge. Carefully designed weightingsystems and rules of com- bination will come apart when the same people who signed off on the job analysis data point out that the criteria do not match their work assignments. When the dust settles, it will be disco.ered that the problems are not that serious and Lan be corrected without fundamental changes. The time to make these refinements, however, is during a shake- down administration or "dry run." It is not when the ratings are to be used for adminis- trative decisions.

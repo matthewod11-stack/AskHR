@@ -1,3 +1,9 @@
-# Social Contact
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 0ee5b0e0849e997863d041a84b90ce154e646771
+title: barrickryan_eds_personality_and_work
+---
+## Job Characteristics That May Interact with Happiness
 
-The most robust ﬁnding in the literature on the effects of happi- ness and well-being is that happy people enjoy, feel more conﬁdent in, and even attract social contact. This should make happy work- ers perform better in jobs that require social contact. Customer service jobs, sales jobs, and other occupations in which employees deal directly with customers and the general public will beneﬁt from the happy worker’s greater likeability and greater social com- petence. In addition, occupations that rely on teamwork and co- operation may beneﬁt from employees with higher levels of positive affect. But because positive affect will likely increase em- ployees’ desire for social contact, greater positive affect may be detrimental in jobs where too much social contact is distracting and unproductive.
+Based on current research on the functions of moods and emo- tions, we argue that any associations between happiness and pro- ductivity will not arise simply from an attitude-behavior link. In addition, although there are many general effects of well-being that may lead to slightly higher productivity, we do not expect many of these effects to be large. Instead, we believe that the most impor- tant effects of happiness and well-being on worker productivity are complex and varied, and most will interact with the nature of the tasks being performed. In this section, we speculate on the nature of job characteristics that could possibly interact with happiness to result in a more productive worker.

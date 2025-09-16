@@ -1,25 +1,17 @@
-# read and express emotions.
+---
+source_path: H08VEB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ffba3f31a5850416f66573405b488ed5da2fe4ab
+title: H08VEB-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Normalize Emotion at Work
 
-To build your vocabulary, don’t settle for vague labels like “mad, sad,
+A richer emotional vocabulary allows you to describe how you feel
 
-or glad.” Instead, seek more speciﬁc words to describe your feelings.
+more precisely, which increases self-awareness and helps you respond
 
-For example, if you’re upset, try to pinpoint it: Are you frustrated,
+more eﬀectively. Labeling your feelings more speciﬁcally can also help
 
-resentful, or provoked? If you feel good, ask yourself: Is it joy, relief,
+you reduce distress and reactivity, improve decision-making, manage
 
-conﬁdence, or some other feeling altogether? This extra precision builds
-
-emotional clarity. Emotion wheels, lists, and mood tracking apps are
-
-widely available and can be helpful tools for expanding your range.
-
-In conversation, go deeper than surface level. Instead of stopping at
-
-the usual “How are you?” “Fine,” ask questions that invite the person
-
-to oﬀer more nuance. For example, you might say, “What kind of ﬁne
-
-are we talking about? Is that ﬁne as in ‘steady and good’ or ﬁne as in
-
-‘holding it together?’” These small nudges for speciﬁcity invite deeper
+stressful interactions more eﬀectively, and enhance your ability to both

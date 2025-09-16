@@ -1,9 +1,13 @@
-# HBR / Digital Article / How Managers, Coworkers, and HR Pressure Women to Stay Sile…
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3ffce5e69c50820516510b7a79172d003d685d1
+title: H04FQE-PDF-ENG
+---
+# their commitment and motivation.
 
-Finally, employees should reﬂect on how they respond to colleagues’
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-concerns. Their actions have repercussions. By encouraging individuals
+6
 
-to remain silent, they contribute to creating a culture of harassment.
-
-This article was originally published online on July 13, 2018.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

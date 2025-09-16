@@ -1,17 +1,25 @@
-## HBR / Digital Article / Research: How to Delegate Decision-Making Strategically
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a219b1bf231d1ba885ac4a33331d4246c0688d2
+title: H08DAJ-PDF-ENG
+---
+# Erik Isakson/Getty Images
 
-shown that employees can view delegated decision-making as a burden
+Effective delegation is critical to managerial success: delegating
 
-that they would prefer to avoid.
+properly can help empower employees, and those who delegate can
 
-Given the managerial importance of delegation, we wanted to better
+increase their earnings. Delegation can also be a way for managers to
 
-understand the costs employers incur when they pass decision-making
+give employees experience and control, especially when they delegate
 
-tasks to their employees. To examine this, we conducted a series of
+decision-making responsibilities, which allow employees to exhibit
 
-studies in a paper recently published in Organizational Behavior and
+agency over important stakes. Yet, some of our recent research has
 
-Human Decision Processes. We looked speciﬁcally at the interpersonal
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-costs of delegation — how delegation impacts the delegator-delegate
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

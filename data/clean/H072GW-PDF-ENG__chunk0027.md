@@ -1,7 +1,7 @@
-# Outcomes
-
-Autistic employees’ productivity is partly explained by their innovative
-
-ways of working. Yet, innovative employees of all backgrounds are
-
-often forced to work in traditional, less-eﬀective ways. Focusing on
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c43cc19bfa3f6f64112aa530d5129dbe106b8c2d
+title: H072GW-PDF-ENG
+---
+# productivity overall.

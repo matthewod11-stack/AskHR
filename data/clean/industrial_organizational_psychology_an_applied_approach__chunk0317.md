@@ -1,13 +1,25 @@
-# Equal Pay Act passed
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: eba306c65532bb9bd91139ec78bb42d923363cd9
+title: industrial_organizational_psychology_an_applied_approach
+---
+## American Association for Applied Psychology established
 
-2000
+1990
 
-2005
+Americans with Disabilities Act passed. SIOP membership exceeds 2,500
 
-SIOP membership exceeds 3,600
+Society for Industrial and Business Psychology established as Division 14 of APA with 130 members
 
-OFCCP and EEOC become more aggressive in fi ghting systemic discrimination
+1991
 
-Professionals in organization development implement organization-wide programs designed to improve employee performance. Such programs might include team building, restructuring, and employee empowerment.
+Civil Rights Act of 1991 passed to overcome 1989 conservative Supreme Court decisions
 
-Human Factors/Ergonomics Psychologists in the area of human factors concentrate on workplace design, human-machine interaction, ergonomics, and physical fatigue and stress. These psychologists frequently work with engineers and other technical professionals to make the workplace safer and more efficient. Sample activities in this subfield have included designing the optimal way to draw a map, designing the most com- fortable chair, and investigating the optimal work schedule.
+Marion Bills elected as fi rst woman president of Division 14
+
+1997
+
+SIOP celebrates golden anniversary at its annual conference in St. Louis
+
+Division 14 renamed as Society for Industrial Psychology, membership exceeds 700

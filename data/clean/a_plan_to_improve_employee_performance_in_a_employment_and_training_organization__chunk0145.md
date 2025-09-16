@@ -1,7 +1,25 @@
-# rating).
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: baffc60d66248b76e04f0e6f6cbe067261f181aa
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# of correct methods ..;.. total correct methods = %;
 
-The plan has proposed performance standards that can be used to evaluate
+Again, management can specify what is an acceptable percentage rate or margin of error
 
-employee performance. They are measurable and verifiable . Furthermore , they are clear
+for counselors based on the length of time employed with the organization .
 
-and consistent with the goals of the organization , who are concerned with inputs and
+Orientation - Orientation is a major function for those who perform that specific
+
+task. This performance area can also be evaluated with the use of a questionnaire which
+
+can be completed, by customers or clients. At the end of each orientation , the counselor
+
+can have the customers complete a questionnaire/surve y (see Appendi x C). The purpose
+
+of this survey will not only serve as an evaluation tool for the counselor , but for the
+
+organization as well. The ratings also can be calculated from this Orientation Survey, and
+
+a standard of rating can be used as the norm (i.e., anything above 4.5 is an acceptable

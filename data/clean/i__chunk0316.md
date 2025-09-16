@@ -1,7 +1,7 @@
-# attrition_data.head()
-
-This returns first five rows, at the same time we can check the width dimension of the dataset,
-
-which is 35 columns.
-
-We can check dataset columns by
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: b719aef9d201607ada241b6f3b3e2fbc1e478c52
+title: i
+---
+# Check the data

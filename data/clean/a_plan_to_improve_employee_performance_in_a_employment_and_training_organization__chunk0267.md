@@ -1,3 +1,9 @@
-# Perry, James L., Editor
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 7213f7243f545c633b3de36c7cb003135d61ec74
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Nilson, Carolyn D.
 
-Handbook of Public Administration , 2nd Edition: "Enhancing Employee Performance ", Ch.22-Lois R. Wise; "Achieving High Performance in Public Organizations ", Ch.8-Sandra J. Hale. Jossey-Bass Publishers, cl 996.
+Training for non-trainers: a do-it-yourself guide for managers. American Management Association , cl 990.

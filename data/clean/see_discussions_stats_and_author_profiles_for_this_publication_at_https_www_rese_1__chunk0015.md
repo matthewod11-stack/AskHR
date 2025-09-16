@@ -1,15 +1,13 @@
-## advocacy about the organisation’s products and brand.
+---
+source_path: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1.md
+pages: n/a-n/a
+chunk_id: 5313abdbb9c599302f7fcf05fc00189db0c2fd0f
+title: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1
+---
+# concept than motivation.
 
-Kahn defines employee engagement as the harnessing of organization members’ selves to their
+Right Management (2006) defines true engagement as every person in the organization
 
-work roles, in engagement, people employ and express themselves physically, cognitively, and
+understanding and being committed to the success of the business strategy, and that this goes
 
-emotionally during role performances. The cognitive aspect of employee engagement concerns
-
-respondents’ beliefs about the organisation, its leaders and working conditions. The emotional
-
-aspect concerns how respondents feel about each of those three factors and whether they have
-
-positive or negative attitudes toward the organisation and its leaders. The physical aspect of
-
-employee engagement concerns the physical energies exerted by individuals to accomplish their
+more than just simple job satisfaction and incorporates aspects of commitment, pride and

@@ -1,7 +1,19 @@
-# product performance or aesthetics.
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0695ef7fb759b4e64a9d4b0868a4813de43babe7
+title: H08P2F-PDF-ENG
+---
+## forever chemicals as a large group, rather than one-by-one avoidance—
 
-We’ve even done side-by-side tests in highly traﬃcked areas of items like sofas with and without forever chemicals. Our cleaning staﬀ
+will help you to future-proof your decisions.
 
-indicated that those without forever chemicals were easier to clean
+When building or renovating buildings on Harvard’s campus, we
 
-because stains were no longer getting trapped below the forever
+ﬁrst focused on 14 major categories of interior products, such as
+
+carpeting and furniture. Interestingly, we found that swapping in
+
+forever-chemical-free alternatives had no downsides: It did not lead
+
+to increased costs, did not delay project timelines, or result in worse

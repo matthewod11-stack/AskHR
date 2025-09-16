@@ -1,3 +1,7 @@
-# References
-
-Adams, B. G., Meyers, M. C., & Sekaja, L. (2019). Positive leadership: relationships with employee inclusion, discrimination, and well-being. Applied Psychology: An International Review, Online posting, 69, 1145-1173. doi:10.1111/apps.12230
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 37fdc3a2ee44eb05735f059a44112e5ed1d38395
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# ORCID iDs Lynn M. Shore  https://orcid.org/0000-0003-1186-6339 Beth G. Chung  https://orcid.org/0000-0003-1006-2574

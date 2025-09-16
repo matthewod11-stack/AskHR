@@ -1,27 +1,17 @@
-# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 0b4db2da871895c02c10c305239d13d05c7a0a9d
+title: beo_chap7_1
+---
+# rapidly through venture capital financing and initial public offerings (IPOs) in the
 
-value had been seen, it would have been difficult or impossible to give management
+late 1990s. They suggest that “if Netscape, eBay or Amazon had been invented
 
-a Strong incentive to maximize the value inherent in these ideas.”
+inside a big company, their potential value would probably have been overlooked”
 
-But what prevents large firms like IBM, Xerox, or Microsoft from simply repro-
+(Holmstr6m and Kaplan 2001, pp. 138~-39). They further suggest the barriers to
 
-ducing the capital allocation mechanisms used by venture capitalists and then selling
+“Gntrapreneurship” are due to weak internal incentives: “Even if some degree of
 
-off its successes to IPO investors (or growing them internally) just as venture capi-
-
-talists do? Given the interest of larger firms in replicating high-powered incentives
-
-for intrapreneurship, it is natural to ask whether there are other barriers that prevent
-
-them-from allowing very rapid growth of promising business. One barrier might
-
-be the psychology of managers of conventional businesses who compete with the
-
-rapidly growing new business units. Loss-aversion and social comparison suggest
-
-that managers in traditional businesses will be uncomfortable about seeing lots of cash poured into businesses which could outgrow their own.’ The managerial psy-
-
-chology which creates empire building probably also encourages suppression of
-
-growing empires within the firm.
+266

@@ -1,5 +1,7 @@
-## Vocational Rehabilitation Act Federal act passed in
-
-1973 that prohibits federal government contractors or subcontractors from discriminating against the physically or mentally handicapped.
-
-Voice stress analyzer An electronic test to determine honesty by measuring an individual’s voice changes after being asked questions.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4f89bf1ec7e5dc5f492b78827434b4668f8a541f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## individual choose and prepare for the most suitable career.

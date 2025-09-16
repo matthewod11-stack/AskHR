@@ -1,7 +1,13 @@
-# analysis?
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 12559eec7fcf521a948330ca572c794073fe4e2b
+title: i
+---
+# 1.3 Research questions:
 
-- 3. How is the collected data processed and prepared for attrition prediction modeling?
+- 1. What techniques of PA and predictive analytics are being used? What are the essential
 
-Predictive modeling for attrition rate with three methods Logistic Regression,
+skills and resources required to utilize and analyze data?
 
-Classification Tree, and Random Forest, using a public dataset.
+- 2. What specific data points are typically collected for People Analytics and predictive

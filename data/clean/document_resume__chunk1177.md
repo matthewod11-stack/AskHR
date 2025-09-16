@@ -1,11 +1,9 @@
-# 2 Marginal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 47c2e0f39f526f8595cf0084246b3630e9727375
+title: document_resume
+---
+# 3 Acceptable
 
-Occasionally fails to meet class. Dismisses students early from class. Explains attendance requirements at beginning of quarter. Fails to keep daily attendance, but has a general idea of who misses class. Usually accepts teaching assignments.
-
-1 Unacceptable Occasionally fails to meet class without notifying students. Fails to begin and end classes promptly. Does not encourage or record daily attendance. Accepts teaching assignments after a con- frontation.
-
-- 2. Methods of Instruction/Content Knowledge
-
-Presents lectures, demonstrations, or provides laboratory supervision using appropriate methods of instruction and resources. Provides out-of-class assistance when necessary.
-
-5 Exceptional Uses a variety of methods, aids, and resource people as part of presentations. Identifies objectives clearly and teaches to fulfill the objectives. Demonstrates mastery and comprehensive knowledge in subject area. Encourages student involvement. Stimulates and maintains student interest. Solicits students to investigate coursework outside of class.
+Usually meets classes. Reminds students of attendance policy. Records daily attendance. Accepts teaching assignments as scheduled.

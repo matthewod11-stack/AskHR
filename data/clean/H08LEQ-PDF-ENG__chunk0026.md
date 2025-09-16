@@ -1,17 +1,19 @@
-## electronic health records (EHRs), wearables, and genomic data to
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b3b40cea61d98bc49741ac712dcb2837272aad5
+title: H08LEQ-PDF-ENG
+---
+# of its operations.
 
-generate a precise view of the patient. EHR datasets are processed in
+In the pharmaceutical sector, leading companies and research
 
-minutes, and image ﬁles that previously required days to process are
+organizations are employing multi-modal platforms to accelerate the
 
-synthesized in hours. The technology supports the company’s 1,300
+drive toward personalized medicine — treatment tailored to the
 
-scientists around the world, who use data analytics tools to generate insights from the data, leading to more eﬃcient R&D, better design of
+individual’s circumstances, symptoms, and genomics. For instance, a
 
-clinical trials, and improved matching of patients and therapies.
+major global drug company employs a cloud-based platform to unify
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and scale analysis of clinical trial data, imaging, pathology, radiology,

@@ -1,17 +1,13 @@
-## Industrial and Labor Relations Review, 60 (1), 45-66.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: fd1016c73e3ee141464f01425206569c789316a3
+title: file_1
+---
+# 54
 
-Borchorst, A., 2006. Daddy Leave and Gender Equality – the Danish case in a
+Blau, F. and L. Kahn, 2000. Gender differences in pay. Journal of Economic Perspectives,
 
-Scandinavian perspective. Centre for Feminist Research. Aalborg University. Aalborg: FREIA No. 60.
+14(4), 75-99.
 
-Borchorst, A. and B. Siim, 2002a. Editorial. NORA, 10 (2), 67-70.
-
-Borchorst, A. and B. Siim, 2002b. The women-friendly welfare states revisited. NORA, 10
-
-(2), 90-8.
-
-Borchorst, A. and B. Siim, 2008. Woman-friendly policies and state feminism: Theorizing
-
-Scandinavian gender equality. Feminist Theory, 9 (2), 207-224.
-
-Bren, R. and C. Garsia-Penalosa, 2002. Learning and Gender Segregation. Journal of
+Blau, F. and L. Kahn, 2006. The U.S. Gender Pay Gap in the 1990s: Slowing Convergence.

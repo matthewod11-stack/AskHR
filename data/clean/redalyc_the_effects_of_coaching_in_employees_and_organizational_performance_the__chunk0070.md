@@ -1,1 +1,7 @@
-# ORG. SUPPORT
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 269b796b62c6f678ee2e3a2f9723907fa7e8f785
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# CONSTRUCT

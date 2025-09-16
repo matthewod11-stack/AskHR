@@ -1,7 +1,35 @@
-# HBR / Magazine Article / Why CEOs Should Think Twice Before Using AI to Write Mess…
+---
+source_path: F2503A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: adb99af6ca5f907779880ab5ab27eef280d07f2d
+title: F2503A-PDF-ENG
+---
+# guidelines:
 
-the technology within these parameters. This will help encourage
+- 1. Be transparent. If your employees discover that you’ve outsourced
 
-constructive usage and answer related questions others have.
+your communications without telling them, they may start to believe
 
-- 2. Use AI for impersonal messaging. The technology is more eﬀective
+every message you send is drafted by a bot. Transparency is essential
+
+to building trust and allaying people’s aversion to gen AI. Clearly
+
+communicate the tool’s role and beneﬁts. Tell employees what you
+
+think is acceptable use of it, what your guidance is for pulling text
+
+and data from its responses, and which data you use and avoid when
+
+prompting and training bots.
+
+Your company should have rules for the extent to which employees
+
+are allowed, and even expected, to use AI. Follow the rules
+
+yourself, obviously, but also let people know how you’re drawing on
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

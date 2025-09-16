@@ -1,17 +1,11 @@
-# etc.).
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5dbcb353c934922241397707b0332c486a2b547f
+title: H08N2T-PDF-ENG
+---
+# matters as much as the destination.
 
-Continuous learning vs. stability
+- B) Work is primarily a means to an end—I don’t need to love my job
 
-- A) I prefer a job where I can leverage my current skills and feel
-
-competent without needing to constantly adapt.
-
-- B) I prefer a role that constantly challenges me and helps me grow,
-
-even if it’s diﬃcult at times.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as long as it provides tangible outcomes (e.g., salary, stability, prestige,

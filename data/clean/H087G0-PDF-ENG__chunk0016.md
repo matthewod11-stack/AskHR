@@ -1,9 +1,15 @@
-## and mistreatment. And when people with nonapparent conditions
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 82eb0b25e80ffacd99e92d38b73a5d2d55fbdf80
+title: H087G0-PDF-ENG
+---
+# Deciding Whether to Disclose
 
-share their struggles, they often get a “You look ﬁne” response, adding
+Unfortunately, disclosing a disability or neurodivergence information is
 
-to their reluctance to disclose.
+often a “damned if you do, damned if you don’t” situation. Research
 
-Ableism, or the belief that a disability makes a person inferior to or less
+shows that 61% of disabled employees have experienced some form of
 
-valuable than others, can lead to discrimination and exclusion. While
+workplace discrimination, including hiring biases, pay gaps, bullying,

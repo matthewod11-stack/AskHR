@@ -1,15 +1,35 @@
-## their top-quartile performance for at least 30 years.
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eae8d3fe1ab5be14b36c37a81aaa741ec7cd4621
+title: S24021-PDF-ENG
+---
+# slower growth.
 
-Over the past two decades, I have tried to understand why some
+While sustained proﬁtable growth is a nearly universal goal, it is
 
-companies are more eﬀective at sustaining growth and what senior
+an elusive one for many companies. Empirical research that I and
 
-leaders can do to navigate the organizational challenges it poses.
+others have conducted on the long-term patterns of growth in U.S.
 
-In addition to quantitative statistical analysis of large samples of
+corporations suggests that when inﬂation is taken into account, most
 
-U.S. companies over multiple decades, I have conducted case studies
+companies barely grow. For instance, in an analysis of 10,897 publicly
 
-of more than 20 companies in a variety of industries, including
+held U.S. companies from 1976 to 2019, my research associate Catherine
 
-semiconductors, software, health care, life sciences, restaurants,
+Piner and I found that ﬁrms in the top quartile grew at an inﬂation-
+
+adjusted average of 11.8% per year, but those in the lower three
+
+quartiles experienced little or no growth (0.3%, 0.03%, and -0.5%,
+
+respectively). And the majority of ﬁrms in the top quartile were unable
+
+to sustain superior growth performance for more than a few years.
+
+Although challenging to achieve, sustained proﬁtable growth is not
+
+impossible, however. In our analysis, we found that only about 15% of
+
+the companies in the top growth quartile in 1985 were able to sustain

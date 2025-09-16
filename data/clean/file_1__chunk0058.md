@@ -1,11 +1,9 @@
-# Figure 3 PhD Overview
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: d6c13ee81dcb6a00132e0152d477ba4e4f0f10fc
+title: file_1
+---
+# 11
 
-- 1. Employees’ Perceptions of Gender Inequality in Society and in Workplace
-
-- 2. Individuals’ Perceptions of Overall Gender Inequality: Lessons from Finland
-
-Empirical study based on data of the Gender Equality Barometer 2008
-
-Empirical study based on data of the Gender Equality Barometer 2008
-
-The study examines factors that predict employees’ perceptions of societal and workplace A theoretical model is developed based on the gender socialization perspective, anticipatory injustice model, relative deprivation, and role-balance theories.
+and to what extent individuals perceive overall gender inequality to exist. It also responds to objective (2) by identifying factors hypothesized to influence individuals’ perceptions of overall gender inequality. This paper illustrates how gender and occupational categorization have an impact on the way individuals perceive overall gender inequality. Paper 3 focuses on objective (3). It links several social psychological theories with the intention of identifying individual and organizational predictors of individuals’ perceptions of the gender pay gap. Paper 4 focuses on objective (4) by analyzing how male and female employees react to pay inequity. An overview of the structure of the thesis is represented in Figure 4.

@@ -1,5 +1,11 @@
-## Journal of Organizational Behavior, Vol. 14, pp. 103-118.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 5d833a1894e7ab3d0011e4b88f1cc090652411ac
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## Psychology, Vol. 1, Greenwood, Westport, CT, pp. 167-196.
 
-Bauer, T.N. and Green, S.G. (1998), “Testing the combined effects of newcomer information seeking and manager behavior on socialization”, Journal of Applied Psychology, Vol. 83, pp. 72-83.
+Barbier, M., Hansez, I., Chmiel, N. and Demerouti, E. (2013), “Performance expectations, personal resources, and job resources: how do they predict work engagement?”, European Journal of Work and Organizational Psychology, Vol. 22, pp. 750-762.
 
-Becker, B.E. and Huselid, M.A. (2006), “Strategic human resources management: where do we go
+Bateman, T.S. and Crant, J.M. (1993), “The proactive component of organizational behavior”,

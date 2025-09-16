@@ -1,3 +1,7 @@
-# attrition-dataset
-
-(cid:111) Pease, G. (2015). Optimize Your Greatest Asset -- Your People: How to Apply Analytics to Big Data to Improve Your Human Capital Investments.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 8228c8759f73fdd814415c665241071016a71ea8
+title: i
+---
+## https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-

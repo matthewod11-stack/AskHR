@@ -1,7 +1,7 @@
-# HERO Scorecard
-
-Q13. Does your organization use employee champions or ambassadors to promote EHM?
-
-0 = Little or no grassroots employee leadership is provided to EHM program
-
-0 recoded to 0
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 0a1fc83416a66fee98c03097f9ded002ce3ebb16
+title: fast_track_art_i_c_l_e
+---
+# champion network

@@ -1,57 +1,19 @@
-# actions and behaviors in general.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: db9f80d7c55d81a19bbf28458152dc1b558a40f6
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# a
 
-A continuous exchange of messages can allow new meanings to develop, and
+Adams, 1998:41, cited by Souza (2006). Communication, therefore, is not the
 
-these will stem from changes in each individual’s original meanings, which can lead to a
+transmission of meanings but the joint construction of meaning. This definition implies
 
-process of meaning convergence that can be understood as the beginning of
+that messages exchanged only have cognitive effects and create meaning because
 
-communication, the possession of something in common. It is worthwhile to alert, on the
+they are assigned meanings, and that such meanings depend on the general culture
 
-other hand, that a broad provision of initiatives and communication tools do not
+and context in which it occurs. Communication then, is by no means limited to verbal
 
-necessarily lead to successful change, in terms of intended results. That is, it is not only
-
-the quantity but mainly the quality, or as Reis (2002) warns, the nature of the
-
-communicative mediation implemented that can influence change. Here there is a
-
-distinction in the nature of communication strategies. Those whose role or function is
-
-that of justifying and rationalizing change will make use of traditional communication
-
-techniques that are usually used to systematize, disseminate and express information.
-
-In such cases, change is communicated to the staff (Caldwell, 1993) and, even when
-
-the means and messages are intensified in number and sophistication while various
-
-resources are invested, they may not lead to reduced resistance to change due to their
-
-not privileging the building of shared meanings.
-
-Conversely, communication strategies whose role or function is to refine and
-
-align change can be more successful at reducing individual resistance to change, as
-
-they allow the meaning attributed to change to be constantly re-elaborated by means of
-
-cyclical contributions within the cognitive process of its interlocutors. To put it another
-
-way, they can produce two-way communicational structures by encouraging learning
-
-through mistake and dialogic interaction. They incorporate, structurally or within their
-
-dynamics, the possibility of participation, of inclusiveness (Reis, 2004.), or even, as
-
-Lewis (2007) advocates, they can be better configured as an input focus than as a
-
-dissemination focus. Aligned with that, Elving (2005) stated that communication “aims
-
-for the creation of mutual understanding and trusting relationships”.
-
-The connection between communications and organizational change has been
-
-attracting increasing interest from scholars and practitioners during the last decade
-
-(Johansson and Heide, 2008). Several of them have emphasized the important role of
+productions or even written expressions. Its range is larger, and it includes gestures,

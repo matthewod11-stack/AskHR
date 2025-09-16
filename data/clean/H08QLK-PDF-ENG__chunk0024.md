@@ -1,21 +1,9 @@
-# This Shift Is Already Underway
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6839c3712d115afd3b95032e6c82332f30773f21
+title: H08QLK-PDF-ENG
+---
+## implementation projects; generative AI invent best practices in real
 
-This transformation is not hypothetical. Every day we see more
-
-companies beginning to make shifts to reduce their reliance on legacy
-
-software systems. They include:
-
-- Klarna, the Swedish ﬁntech serving 85 million customers, announced
-
-plans in 2024 to sunset major SaaS providers like Salesforce and
-
-Workday in favor of internal AI-driven record systems. They started by
-
-creating a consolidated database of their enterprise data using Neo4j
-
-and then using LLM-driven tools to build specialized applications
-
-using their own AI software stack.
-
-- Engineers at the industrial giant Siemens are eschewing employee
+time, continuously optimizing outcomes.

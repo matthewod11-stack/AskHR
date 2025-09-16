@@ -1,13 +1,13 @@
-# Post, pp. C1, C4.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8df2a994dc82ad079dc86f6e3b641f7186a5b48b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Morgan, J. (1990). Test negative: A look at the “evidence”
 
-Morris, M. A., & Campion, J. E. (2003). New use for an old tool: Vocational interests and outcomes. Poster presented at the 18th annual meeting of the Society for Industrial and Organizational Psychology, Orlando, Florida.
+justifying illicit-drug tests. Scientiﬁ c American, March, 18–19.
 
-Morrison, E. W. (1993). Newcomer information seeking:
+Morgeson, F. P., Campion, M. A., Dipboye, R. L., Hollenbeck, J. R., Murphy, K., & Schmitt, N. (2007). Reconsidering the use of personality tests in personnel selection contexts. Personnel Psychology, 60(3), 683–729.
 
-Exploring types, modes, sources, and outcomes. Academy of Management Journal, 36(3), 557–589.
-
-Morrison, E. W., & Robinson, S. L. (1997). When employees feel betrayed: A model of how psychological contract violation develops. Academy of Management Review, 22(1), 226–256.
-
-650
-
-references
+Morin, R. (1999, January 10). Choice words. Th e Washington

@@ -1,7 +1,9 @@
-# oﬃce of the OFLC.
+---
+source_path: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas).md
+pages: n/a-n/a
+chunk_id: 351dd207f1fd97c3b4f057d0cc1501ad09912fbd
+title: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas)
+---
+# Compliance Assistance Available
 
-DOL provides employers, workers, and others with clear and easy-to-access information and assistance on
-
-how to comply with the Immigration and Nationality Act. Additional compliance assistance including
-
-explanatory brochures, fact sheets, and regulatory and interpretive materials is available on the Wage and Hour Division's immigration webpage.
+Employers may obtain information on how to apply for a temporary nonagricultural labor certiﬁcation, including application forms and directives that contain prescribed procedural requirements, from the national

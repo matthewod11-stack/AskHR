@@ -1,3 +1,9 @@
-# Editorial
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: 337a3c4b11b3756c793ca7780e8756d02ed184df
+title: eur_research_information_portal
+---
+# Inclusive Leadership as a Moderator of Second-Stage Relationships (Figure 1, link 1b)
 
-diversity dynamics, so that they can adapt their behaviors to promote better inclusion outcomes for their followers. In other words, effective inclusive leadership involves meta-cognition, or thinking about how to adjust and expand one’s behavioral strategies as needed by a particular situation.
+The moderating role of inclusive leadership in the second stage of individual- level relationships in Figure 1 is meant to capture the fact that effective inclusive leadership necessitates continual observation and monitoring of follower experiences, followed by iteration. Assessing followers’ experiences involves soliciting direct feedback as well as careful observation of work- group dynamics and interpersonal behaviors that might indicate that some workgroup members may not be experiencing full inclusion as hoped. Leaders need to be especially attuned to evidence that workgroup members may be experiencing micro-aggressions or other forms of negative othering. This necessitates a capacity to empathize, or to read and respond to affective cues (Sternberg, 1985). Within the context of diverse groups, it involves listening carefully for verbal and nonverbal evidence that might indicate that in- dividuals’ experiences of a situation and/or reactions to policies and practices vary based on their social identities (Nishii et al., 2018; Mor Barak et al., pp. 840–871) and engage in the perspective taking needed to understand why. Ultimately, the goal is for leaders to utilize their observations and inter- pretations to reﬁne and expand their understanding of social identities and their embeddedness in social structures, as well as strategies for responding to

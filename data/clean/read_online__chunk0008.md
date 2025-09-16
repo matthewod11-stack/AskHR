@@ -1,13 +1,23 @@
-# Original Research
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 0a2ec503bfb870f4cf7606aca7e9623b7e3ae4be
+title: read_online
+---
+# the
 
-The part-time degree studies programmes of large Gauteng universities therefore have an important role in addressing these legacy effects. Undertaking degree studies for career progression may, however, have an important influence on an individual’s work-life balance. The influence of high levels of work-life conflict may be compounded if one’s earlier schooling was compromised by such legacy effects. Knowledge of the consequences of these work-life balance effects, related to part-time studies on intent to quit, is arguably of particular importance in such a context. Similarly, given the differences in careers that are related to differences in subject choices (Papageorgiou et al. 2014), what is lacking is knowledge of these relationships that generalise across an entire sample of students.
+Social exchange theory suggests that employee assessments of the quality of their interchange relationships with their organisations are related to their well-being and commitment to the organisation (Avanzi et al. 2014). Such interchange relationships may however not be independent from demands placed on them by family life and the pressures of part-time study undertaken for work-related reasons. Indeed, decreases in an individual’s work-life balance might work through the job dissatisfaction channel to contribute to withdrawal intentions and intent to quit, thus thwarting a firm’s retention strategies. Furthermore, the strength of the contribution of work-life balance to employee retention may be influenced by certain demographic characteristics such as age, gender and number of dependent children.
 
-Secondly, what is not clear in the literature is the extent to which undertaking degree studies (where classes are held in the evenings, unlike distance education which is more flexible in its time requirements) while maintaining formal employment, and (in some instances) managing a family and family life, might alter the conditions under which work-life balance and retention relate to each other. Whereas the literature relating to general working contexts offers a theoretical model of what these relationships are across contexts, what is lacking in the South African literature is a model of these relationships at this time, for this particular cohort. Of particular interest are the moderating roles of demographical variables like age, gender and number of dependent children on the relationship between work-life balance and voluntary exit, or an individual’s intent to leave their employment, or intent to quit.
+Similarly, the strength of this relationship may also be influenced by the social support an individual receives, as well as organisational factors such as engagement and stress, which may be experienced more intensely, or even unequally, in a societal context of resource scarcity (Papageorgiou & Callaghan 2014).
 
-Similarly, what is also not well understood about this cohort is the potential role of satisfaction as a mediator of the relationship between work-life balance and intent to quit. Under certain conditions, the pressures of having a family to provide for, together with those of part-time degree studies which require evening classes might create dissatisfaction, but it is unclear under which conditions this might contribute to employee attrition. Indeed, under certain conditions, dissatisfaction might not influence an individual’s turnover intentions, and might not mediate the relationship between work-life conflict and turnover intentions at all. Such a result might have particular importance for employers in this context.
+Maintaining a work-life balance or successfully managing conflict between employee work and non-work-life, including family life (Grzywacz & Carlson 2007), is thus an important dimension of the reciprocal relationship between an individual and the organisation. Job satisfaction relates to the extent to which an individual is satisfied with current work roles associated with the job (Oosthuizen, Coetzee & Munro 2016).
 
-Thirdly, what is also lacking in this context is knowledge of the role of social support, as well as organisational factors such as engagement and stress, in the relationship between work-life balance and intent to quit for this cohort. Such knowledge may provide useful insights for those who are in a position to provide societal support to those undertaking part-time studies while working. These insights might also be useful to employers seeking to support these staff members, and may contribute to more effective retention strategies.
+Levels of job satisfaction are therefore key to employee retention (Dockel, Basson & Coetzee 2006).
 
-Given the importance of this knowledge in this context, the study poses the question: under what conditions does work-life balance contribute differently to employee withdrawal cognitions
+There is thus agreement in the literature on the importance of work-life balance conflict, and of the effect of job satisfaction as a channel through which deficits in the work-life balance can contribute to voluntary turnover.
 
-Open Access
+What is less clear is the salience of these relationships for employees that are undertaking degree studies evening classes in the South African context of Gauteng, for the following reasons.
+
+Firstly, in the fast-paced context of the country’s commercial heartland, work-related work-life balance conflict (WLBC) pressures might be the most intense in the country. Having achieved democracy in 1994, the country faces legacy challenges related to disadvantage and inequality, which make the attainment of degree education a necessary condition for career advancement in certain fields. Given the country’s historical legacy of educational inequality, many in formal employment were denied opportunities for formal higher education.
+
+http://www.sajems.org

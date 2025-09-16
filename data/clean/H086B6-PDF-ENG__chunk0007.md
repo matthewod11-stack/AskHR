@@ -1,15 +1,43 @@
-# or responsibilities.
+---
+source_path: H086B6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3077a74c6e6ae712348c6f53a9d6419d9916656
+title: H086B6-PDF-ENG
+---
+## HBR / Digital Article / When Your Colleagues Have an Outdated Perception of You
 
-To counter this, we often invite clients to take a hard look at what
+Identify the perception gap. We all have words we’d use to describe ourselves. But how do others see us? Getting clear about the diﬀerences
 
-they’re focused on each day, looking through the lens of how they can
+will help you understand the gap and design actions to close it.
 
-demonstrate who they want to be, not who they’ve been. To get started
+Take Sarah’s client Mike*, who was a long-tenured senior leader in
 
-with this process, ask yourself:
+a consumer-packaged goods company. He’d acquired a reputation for
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+being emotional and aggressive due to a few badly timed outbursts in
 
-3
+meetings. Soon, that perception was rooted in organizational lore and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+began to supersede present-day realities.
+
+Mike, however, was shocked when he learned others saw him as
+
+aggressive. Realizing the perception gap, he worked with Sarah to learn
+
+strategies to calm himself when he was getting agitated, channel his
+
+frustration into productive conversations, and get clear once again on
+
+the leader he wanted to be. He took ownership of the space between
+
+whom others saw and who he wanted to be.
+
+Align your actions. As long-term employees ascend the ranks, it’s
+
+not uncommon to have diﬃculty delegating and letting go of
+
+responsibilities that once made them successful. Holding on to long-
+
+held work assignments may help you feel productive, but it also means
+
+your colleagues are more likely to associate you with your previous role

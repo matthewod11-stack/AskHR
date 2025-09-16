@@ -1,1 +1,7 @@
-## Communication and Resistance to Change Average Evolution
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: d9117fb310969d363c0f4c86744ec6e8b0e498de
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# Graphic02

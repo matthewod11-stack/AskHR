@@ -1,7 +1,21 @@
-# sympathetic to its members
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: f035b284d892c68031e9c7ff1ca103807b581bcd
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# ER
 
-Corresponding author Rojalin Sahoo can be contacted at: rojalinsahoo88@gmail.com
+14
 
-For instructions on how to order reprints of this article, please visit our website: www.emeraldgrouppublishing.com/licensing/reprints.htm Or contact us for further details: permissions@emeraldinsight.com
+15
 
-View publication stats
+16
+
+I am happy with this organization I am pleased with the relationship organization has maintained with me I am working in an environment where people are reliable and trust worthy
+
+17
+
+I am satisfied with the organization for my socio-economic and psychological development
+
+18 My employer is loyal and

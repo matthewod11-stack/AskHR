@@ -1,31 +1,7 @@
-# Multi-Agent Evaluation
-
-6
-
-8
-
-12
-
-14
-
-15
-
-17
-
-20
-
-21
-
-22
-
-23
-
-24
-
-25
-
-28
-
-31
-
-32
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 059ee360b3518bcce0895d15555e56b5d0351f6a
+title: agents_companion
+---
+# Challenges in Multi-Agent systems

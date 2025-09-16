@@ -1,29 +1,29 @@
-# sources beyond their own system.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 078f753f7910939d8c4f66cd892b97c7b9f64074
+title: i
+---
+# of global organizations.
 
-In terms of budget allocation, expenditures on HR technology were considered as "additive"
+The second wave is called the "Analytics Dashboard", which occurred from the beginning of
 
-and typically recorded under the HR department's budget. Consequently, the value of HR
+the 2010s to the beginning of 2020. During this period, People Analytics dashboards were
 
-analytics remained primarily associated with HR functions, and the broader business benefits
+integrated into HR systems, enabling the creation of visualizations and dashboards based on
 
-of People Analytics still needed to be fully acknowledged and recognized. There was still a
+data generated within those specific systems. The advancement of technology has accelerated
 
-skill gap in the HR department regarding the ability of HR professionals to employ and utilize
+the decision-making process of business. Data from different departments are integrated from
 
-the PA technology effectively. According to Ferrar and Greenaway (2021), the lack of analytics
+various sources, which enhances the quality of data analytics and provides better insight. This
 
-culture failed to drive PA technology across organizations.
+approach not only improves data quality but also leads to significant time and cost savings by
 
-65% of global organizations adopted this second wave and reported their positive change in
+eliminating manual data integration processes. It facilitates a more streamlined and efficient
 
-PA.
+data analysis process, ultimately benefiting the organization's decision-making and operational
 
-The authors refer to the Third Wave as <specialist people analytics technology.= This wave
+41
 
-started at the beginning of the 2020s and is the current trend.
-
-By 2020, 37% of businesses will employ more advanced and specialist PA technology to
-
-conduct analyses such as <talent market intelligence, behavioral skills, relationships,
-
-productivity and organizational network analysis, employee engagement and listening,
+efficiency. However, a crucial limitation persisted - the inability to aggregate data from diverse

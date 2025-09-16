@@ -1,5 +1,13 @@
-# Psychological Review, 59, 269–277.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b90324a23a710c86fa76a5685e1c455d8ab45de5
+title: untitled
+---
+# York: Scribner’s.
 
-Kimble, G.A. (1985). Conditioning and learning. In S. Koch & D. E. Leary (Eds.), A century of psychology as science (pp. 284–335). New York: McGraw-Hill.
+Judd, C. H. (1910). Evolution and consciousness. Psychological
 
-Koffka, K. (1927). The growth of the mind. New York: Harcourt,
+Review, 17, 77–97.
+
+Kendler, H. (1952). “What is learned?” A theoretical blind alley.

@@ -1,19 +1,7 @@
-# Kenneth Andersson for HBR
-
-It seems like every business is struggling with the concept of
-
-transformation. Large incumbents are trying to keep pace with digital
-
-upstarts., and even digital native companies born as disruptors know
-
-that they need to transform. Take Uber: at only eight years old, it’s
-
-already upended the business model of taxis. Now it’s trying to move
-
-from a software platform to a robotics lab to build self-driving cars.
-
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H04AKS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b20a6b8bb4b60417f8091b4cacc38e64029a5d14
+title: H04AKS-PDF-ENG
+---
+## Published on HBR.org / May 17, 2018 / Reprint H04AKS

@@ -1,9 +1,9 @@
-## insights about their strengths and areas for improvement, and
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7322e2e489c794dbd25af205fc020606a2f73a57
+title: H08NYS-PDF-ENG
+---
+## better pinpoint genuine quality issues, more clearly measure customer
 
-ultimately ensure customers consistently receive high-quality service.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+satisfaction, provide workers clearer expectations and actionable

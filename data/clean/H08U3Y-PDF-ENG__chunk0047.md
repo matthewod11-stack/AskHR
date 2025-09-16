@@ -1,9 +1,19 @@
-# MB
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c9ffc1197291be0e9dd5086efa4ec6ce51711d4a
+title: H08U3Y-PDF-ENG
+---
+## institutions—cities, but also corporations, universities, or non-proﬁts.
 
-Mathis Bitton is a PhD candidate in Government at Harvard. His work focuses on the intersection between philosophy of technology and technology policy. He is a contributing researcher to NYU’s work with emerging technology and cities. His forthcoming book with Elizabeth Haas on AI and cities is Smart Citizens: AI and the Fight for Flourishing Cities (MIT Press, 2026).
+Platforms like AnyLogic, FlexSim, and Visual Components are already
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+developing similar tools for corporations, a trend that is likely to
 
-10
+accelerate in the years to come. Far from a substitute for human
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+decision-making, these platforms will oﬀer a powerful complement to
+
+it: a way to harness data at the service of common goals.
+
+This article was originally published online on August 12, 2025.

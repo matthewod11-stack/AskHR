@@ -1,17 +1,21 @@
-## HBR / Magazine Article / You Need Two Leadership Gears
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4e85a424db1b08c3191bd1af405dc0f2b23fa6b
+title: R2302E-PDF-ENG
+---
+# When, Where, and How to Shift
 
-suggestions, raise concerns about problems and risks, and argue. They
+Leaders who are adept at shifting power modes let everyone know when
 
-also make it psychologically safe for people to speak up—ensuring they
+it’s time for divergent thinking (during idea generation, for instance)
 
-feel they’ll be heard, respected, and valued. And when it’s time to end
+and when it’s time for convergent thinking (to, say, map out next
 
-the discussion, make a decision, and act, skilled leaders signal that
+steps). They send clear signals about when their teams should oﬀer
 
-they’re taking charge again.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Teams that routinely shifted between “one person clearly takes the lead” and “we all participate equally” outperformed those that operated in just one of those modes.
+3
 
-That’s what the ﬁlmmakers at Pixar Animation Studios do. Pixar is
-
-renowned for compelling and proﬁtable computer-animated movies
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

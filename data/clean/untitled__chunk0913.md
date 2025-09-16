@@ -1,5 +1,11 @@
-# Educational Psychology, 27, 153–165.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d4a7c37577c8d2b599a8ee3486c1151765acc4c9
+title: untitled
+---
+## McNemar, Q. (1964). Lost: Our intelligence? Why? American Psy-
 
-Miller, G. A., Galanter, E. H., & Pribram, K. H. (1960). Plans and the structure of behavior. New York: Holt, Rinehart and Winston.
+chologist, 19, 871–882.
 
-Miller, S. A. (1976). Nonverbal assessment of Piagetian concepts.
+Miles, T. R. (1957). On deﬁning intelligence. British Journal of

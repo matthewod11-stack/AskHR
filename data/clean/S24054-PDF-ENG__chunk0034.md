@@ -1,7 +1,27 @@
-# other teams.
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbc33a3eabde3ce15813ce759aa51ad7a4b54973
+title: S24054-PDF-ENG
+---
+## Matt Light, Kevin Faulk, Logan Mankins, and Rodney Harrison (to name
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+just a few). We also developed a way of using the calendar to create a
 
-15
+cadence and a rhythm. We learned to relax and recharge just enough
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in March and April without getting out of shape. By May, we were
+
+completely focused on identifying our deﬁciencies from the prior year
+
+and improving. Maybe most of all, we mastered the ability (goaded on
+
+by Coach Belichick) to convince ourselves that a Wednesday practice in
+
+July was actually the fourth quarter of a playoﬀ game in January. That
+
+got us used to the feeling of performing under pressure so that we were
+
+able to handle ourselves when the pressure was no longer pretend. By
+
+the time the season started in September, we were just so far ahead of

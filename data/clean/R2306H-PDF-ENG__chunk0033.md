@@ -1,19 +1,27 @@
-## HBR / Magazine Article / Harness Your Network to Unlock Innovation
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89673f6145b37379b0570400a54d4a0cf9b3b36e
+title: R2306H-PDF-ENG
+---
+# Engage with Sparring Partners
 
-See more HBR charts in Data & Visuals on HBR.org.
+Integrating a novel idea into a corporation’s existing production and
 
-Leaders who engage with internal sparring partners about a new
+marketing operations and getting it through legal and ﬁnancial reviews
 
-idea will boost the chances that it will eventually fuse—rather than
+almost always leads to conﬂicts. What makes an idea unique may also
 
-clash—with the company’s core mission. The concerns and questions
+make it disrupt the smooth operation of the mainstream business. It
 
-such people raise can actually help turn the seed of an idea into a
+may be a new technology play that doesn’t ﬁt with the current model.
 
-compelling and compatible business proposition. The best partners
+Perhaps it’s a service when the company sells only products. Or it might
+
+make a technological platform the company is invested in obsolete.
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

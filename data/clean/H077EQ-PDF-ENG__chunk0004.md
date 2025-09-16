@@ -1,15 +1,13 @@
-# red-tinted sauce.
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 086653cb82d23d049b5943df500c283f414c6060
+title: H077EQ-PDF-ENG
+---
+## HBR / Digital Article / Don’t Let Anchoring Bias Weigh Down Your Judgment
 
-My faulty reasoning is the product of anchoring, a cognitive bias
+If I think again for a moment, though, the deal isn’t really a deal. After
 
-that can undermine our critical thinking. According to researchers,
+all, I estimated the cost of the pasta based on the adult menu, not the
 
-anchoring is when people rely on irrelevant but easily accessible facts to
-
-make judgments. Our minds give too much weight to initial impressions
-
-or numbers that inﬂuence — our subsequent thoughts. In my case, the
-
-prices on the adult menu shaped — or anchored — my judgment about
-
-the value of the items on the children’s menu.
+actual cost of making some bow-tie noodles and serving them with a

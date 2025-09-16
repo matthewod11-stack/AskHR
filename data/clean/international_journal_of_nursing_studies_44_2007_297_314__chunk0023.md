@@ -1,3 +1,11 @@
-# theories, and attempt
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 37d9224931171f8c9b7a1e9fdb2c7ba171e95659
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# results
 
-- 3. Methods
+A summary of disciplinary perspectives contributing to the understanding of nurse turnover behaviour was provided by Mueller and Price (1990). This included: economic research with its emphasis on individual choice and labour market variables; socio- logical research emphasising characteristics of the work environment and content; and psychological research which emphasised individual variables and cognitive processes. Irvine and Evans (1995) developed this concept into a model for their meta-analytical study on job satisfaction and turnover, a summary of which can be seen in Fig. 1.
+
+Whilst deﬁnitions can provide a broad understanding of what job satisfaction entails, it remains a complex concept illustrated by the multiple variables that have been studied in relation to it. Different theories present differing conceptualisations of job satisfaction that can be categorised as ‘content’ or ‘process’ theories (Campbell et al., 1970). Herzberg’s (1966) Motivator– Hygiene theory and Maslow’s (1970) Hierarchy of to Needs exemplify content identify needs or values to be realised in order for an individual instance, to be satisﬁed at work. For Herzberg (1966) identiﬁed maintenance and motivating factors related to peoples’ attitudes to work: main- tenance or ‘dissatisﬁers’ such as pay and associated beneﬁts, organisational policies and working environ- ment; and motivating factors including recognition, achievement and self-satisfaction. Together with deﬁni- tions, two main themes run through these theories: that job satisfaction has an affective component, i.e. a feeling of satisfaction, and a perceptual component which is an evaluation of whether one’s job meets one’s needs (Tovey and Adams, 1999). This is particularly pertinent

@@ -1,9 +1,31 @@
-## HBR / Magazine Article / Personalization Done Right
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a474c31fd2093556256e9130fd5265c59798ce34
+title: R2406G-PDF-ENG
+---
+## sees those images across emails, websites, and other ads—substantially
 
-what you can deliver at increasingly granular levels. This level of
+improved conversion rates.
 
-personalization requires technology, but it also requires new operating
+Delight me. Personalization leaders adopt agile ways of working to
 
-processes that marry AI with organizational intelligence. Therefore, we
+accelerate the testing and learning that improve the intelligence
 
-measure the speed and scale of the company’s test-and-learn process,
+behind each customer interaction. As noted earlier, true personalization
+
+requires that the quality and value of customer experiences be
+
+continually ﬁne-tuned. Our research shows that the delight me promise
+
+is the hardest to deliver on. It requires relentless experimentation.
+
+The more customers you test with, in ever-faster cycles, the more
+
+learning you capture and feed into your AI engines, optimizing
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

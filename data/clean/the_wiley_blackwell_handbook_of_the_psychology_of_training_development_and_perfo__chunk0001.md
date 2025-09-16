@@ -1,1 +1,7 @@
-# Training and Workplace Learning
+---
+source_path: the_wiley_blackwell_handbook_of_the_psychology_of_training_development_and_perfo.md
+pages: n/a-n/a
+chunk_id: 43ab7c7eb550a74f0ed7f8117b88a5f771f36354
+title: the_wiley_blackwell_handbook_of_the_psychology_of_training_development_and_perfo
+---
+4

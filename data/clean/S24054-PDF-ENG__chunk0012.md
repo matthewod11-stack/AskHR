@@ -1,23 +1,31 @@
-# last college game, in the Orange Bowl.
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb6b72c1411b0130413a1147ce757de192b422b3
+title: S24054-PDF-ENG
+---
+# team’s success.
 
-The way I handled myself during the ﬁrst few games of that season,
+In our third game of the year, against Syracuse, Drew threw a long
 
-when things didn’t go the way I wanted them to, was very important in
+touchdown pass to end the second quarter. At halftime the coaches
 
-my development as a leader. I continued to work hard, I put the team
+chose Drew to play the entire second half while I watched from the
 
-ﬁrst, and I always supported my teammates, even as I tried to prove that
+sideline. It felt like a gut punch. We won the game, and Michigan has an
 
-I was the right person to play quarterback. This fundamental change in
+awesome tradition: In the locker room after a win, the captains stand on
 
-attitude set the tone for the rest of my athletic career.
+chairs and lead the team in singing the ﬁght song. I was crushed that
 
-Show appreciation for unsung colleagues. At Michigan, we had a great
+I hadn’t played in the second half, but I stood up on that chair and I
 
-fullback named Chris Floyd. On running plays, his primary job was to
+screamed those lyrics out as loud as I could. I’m sure people knew I was
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+disappointed, but I wanted to show everyone that I supported Drew and
 
-5
+the team. I felt like that really endeared me to my teammates. A few
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+games later, the coach chose me to become the permanent quarterback.
+
+We won the rest of our games, including a dramatic overtime win in my

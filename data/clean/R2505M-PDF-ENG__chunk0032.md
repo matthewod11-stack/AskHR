@@ -1,11 +1,13 @@
-## HBR / Magazine Article / Why You Need Systems Thinking Now
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bac8f20792dff444f20868f23173ee76451e7fa0
+title: R2505M-PDF-ENG
+---
+# Leaf as a meat processor?
 
-McCain asked executives and employees to think big, think audaciously,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-and think about the future. They decided to become “the most
+8
 
-sustainable protein company on Earth.” No longer would Maple Leaf
-
-Foods be a meat-processing company. Its fundamental role would be
-
-to provide protein within a more environmentally sustainable and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,9 @@
-# individual element. Most of
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: cfd0c3163be2c1efda9318214576ed4ffd8f37af
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+## Conclusions and Implications for Further Research
 
-Numerous tools have been recognized as being used to assess workplace culture. The majority of measure- ments used to examine workplace culture are trait-spe- cific, such as toxic or aggressive work cultures, and other measurements were created specifically for a sin- features and gle
-
-study. To assess psychometric
+According to the findings of our literature review drawn from the following four databases: Scopus, Web of Science, MEDLINE, and SAGE Journals, from the time period beginning in 2012 and continuing through 2022, it was found that deviant workplace behavior is signifi- cantly influenced by workplace culture. According to the findings of the empirical research, it is necessary to gen- erate conceptual clarity within a good theoretical frame- work for the study of organizational culture as an environmental or the research reported in the evaluation was conducted with a diverse range of respondents, which may result in conclu- sions that understate or exaggerate the population effect. Hershcovis (2007) argue that the predictors of deviant workplace behavior depend on the participant; therefore, it is necessary to specifically indicate the participant to whom the study was intended, such as a supervisor, senior officer, or general clerk.

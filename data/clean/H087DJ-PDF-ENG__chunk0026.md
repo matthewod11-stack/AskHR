@@ -1,21 +1,13 @@
-## detrimental to your mental health as a person of color. In these
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 623d936453195dac99222e503740d88e2c584a13
+title: H087DJ-PDF-ENG
+---
+## HBR / Digital Article / Supporting the Mental Health of Employees of Color
 
-situations, you must determine if it’s in your best interest to leave.
+lately at work and would like help for this. What options are available?
 
-Making this decision with a therapist can help reduce the anxiety and
+What have others found useful?”
 
-fear that may arise. A therapist will help you evaluate the pros and cons
-
-of leaving, develop an exit strategy, and think through steps to take for
-
-your future, including what to look for in your next company.
-
-If you do leave, the company may require you to participate in an exit
-
-interview. When asked about your reasons for leaving, try as best as you
-
-can to remain unemotional (as difﬁcult as that may be) and stick to the
-
-facts. Sadly, and unfairly, it is easier for the interviewer to dismiss your
-
-experiences or suggestions if you are seen as overly emotional.
+Despite eﬀorts to address the barriers, some workplaces remain

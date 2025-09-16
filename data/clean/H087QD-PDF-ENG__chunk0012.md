@@ -1,7 +1,15 @@
-## experience more real-time feedback and more-equitable opportunities.
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a007564ccaa26fe3f0eb56955a4a58493000723
+title: H087QD-PDF-ENG
+---
+# Beneﬁts of the in-person part of hybrid
 
-And while our data did not directly address it, research suggests
+Looking at the trends emerging in our data, we see that our hybrid
 
-that creativity and ideation seem to beneﬁt from in-person energy, to
+employees report a stronger sense of psychological safety to voice
 
-produce more and higher-quality ideas.
+concerns when compared to our fully remote workers. They also tell
+
+us that they beneﬁt from more on-the-job observational learning and

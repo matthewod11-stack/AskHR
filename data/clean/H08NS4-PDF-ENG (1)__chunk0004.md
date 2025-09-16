@@ -1,5 +1,17 @@
-# tangible diﬀerence.
+---
+source_path: H08NS4-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: c4830585453c3b704a789a158ee60c3ce43cb1e2
+title: H08NS4-PDF-ENG (1)
+---
+# HBR / Digital Article / You Don’t Need a Mentor to Get the Career Advice You Need
 
-Here are four ways you can expand your sense of possibility and gain
+Through our work advising companies on developing emerging leaders
 
-the career clarity you need using the micro-mentoring approach.
+(Dorie as a consultant and keynote speaker and Alexis as an academic
+
+researcher and professor), we’ve discovered that young professionals
+
+often have abundant—but easily overlooked—opportunities for what
+
+we call micro-mentorship: short, actionable advice that can make a

@@ -1,37 +1,31 @@
-## HBR / Magazine Article / Hybrid Still Isn’t Working
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e10a520edc0a37effa1bdfc2686f7f1b8f12885e
+title: R2504L-PDF-ENG
+---
+## their reports with one another and to the organization. Recent research
 
-. . .
+found that the main task of supervisors with remote workers is to keep
 
-Employees today see remote work practices as the new normal, and
+them connected and updated on what’s happening in the oﬃce; what
 
-resistance to the changes we have recommended may be great. A crucial
+might be changing about business priorities, norms, and values; and what is happening with team members that might aﬀect projects. All
 
-ﬁrst step in overcoming it is making the case that new policies are
+this requires much more of the supervisor’s time than it does in oﬃce settings. (See “What Great Remote Managers Do Diﬀerently,” HBR.org,
 
-necessary: “A lack of cooperation among employees is causing the
+Oct. 26, 2022.)
 
-following performance problems, and we have to ﬁx them.” Then it
+Virtual companies such as Atlassian go to great lengths to make
 
-falls to leaders to institute new rules and practices—and enforce them. Fully remote companies oﬀer a road map, but for most companies the
+everything transparent. They document everything with a single,
 
-administrative burden will be onerous for supervisors and managers,
+deﬁnitive online ledger that lets employees see where projects
 
-who are increasingly squeezed by other demands. Ultimately, many organizations will ﬁnd that it is easier and more eﬀective to bring
-
-everyone back to the oﬃce—but those that can’t accommodate their
-
-workforce on-site or are reluctant to do so will have to manage diﬀerently. For these organizations, redesigning how hybrid work
-
-functions is the only way forward.
-
-A version of this article appeared in the July–August 2025 issue of Harvard Business Review.
-
-Peter Cappelli is the George W. Taylor Professor of Management at the Wharton School and the director of its Center for Human Resources. He is the coauthor of In Praise of the Office: The Limits to Hybrid and Remote Work (Wharton School Press, forthcoming).
-
-Ranya Nehmeh is a senior HR strategist working on topics related to people strategy, HR policy, leadership development, and talent management in global multicultural environments. She is a coauthor of In Praise of the Office: The Limits to Hybrid and Remote Work (Wharton School Press, forthcoming).
+stand, what the performance objectives are, what is changing in the organization that might aﬀect their jobs, and so forth.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-14
+13
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,15 @@
-## HBR / Digital Article / 3 Negotiation Myths Still Harming Women’s Careers
+---
+source_path: H079PK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5bf3c53216b95c926e35263fe92b8867545ae10
+title: H079PK-PDF-ENG
+---
+## 40% increase in compensation, and a clearer career progression.”
 
-We’re in an unprecedented moment for employee negotiations. The
+- • •
 
-pandemic accelerated the transformation of work practices, and we’re
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-living through a historic labor migration and uncertain economic times
+4
 
-in which organizations are struggling to attract and retain talent. In
-
-the subsequent surge in negotiation, if women and men are conﬁned
-
-to outdated gender expectations, we could come out of this in an
-
-even more inequitable place. We can’t let myths about gender and
-
-negotiation stand in the way of co-creating a more equitable future of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,25 +1,27 @@
-# means.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 72ec7cdfc5908ad27348901b41bbafa5043ac1eb
+title: california_state_university_northridge_1
+---
+# manuals. The Union's Personnel Director, Ana Snowden and her successor Roni Lopez
 
-In short, courts have ruled that employers can be held bound by their handbooks.
+made sure that each student supervisor gave their new employees a copy of the handbook.
 
-The exception to this rule is based on the use of adequate disclaimers that state, this is not
+27
 
-a contract and can be changed at any time by the employer without notice. However, if a
+It was the unions' position that by giving them a handbook, it leads to employee
 
-prior handbook exists without a..ny disclaimers, then leg::il issues :rn::iy arise. Failure to
+empowerment and awareness. Also, each semester during orientation employees are
 
-print a disclaimer and notifying employees of any changes may place a company in the
+reminded of key issues contained with the handbook and about ethics. On the other hand
 
-same situation as ITT Cannon, being bound by its contents. The ITT case is the latest
+there are companies that are not giving out handbooks or making mention of them.
 
-development regarding an employee handbook, which was written several years ago
+Dissemination of information on annual or biannual basis was good for the union based on
 
-without a disclaimer. Furthermore, if certain procedures are spelled out a particular way,
+its style of operation. However, going over valuable information in a large meeting may
 
-it is imperative that they are followed accordingly. At the same time, a handbook can be
+not be feasible for some businesses. The business in question must determine what is
 
-extremely instrumental in disseminating critical company policy, if well written and
-
-reviewed by a human resource representative.
-
-28
+appropriate and how to disseminate such information, by memo, e-mail or some other

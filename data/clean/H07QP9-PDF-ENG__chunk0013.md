@@ -1,39 +1,31 @@
-## adequately account for the culture, norms, and system within which the
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a95693da278fb1d353f0fab8e69234bd45f7891
+title: H07QP9-PDF-ENG
+---
+# HBR / Digital Article / Don’t Let Your Company’s Culture Stifle Leadership Developme…
 
-leader is working. Leaders may be asked to think long term in a culture
+Within an organizational context, senior leaders play a large role in
 
-that ﬁxates on immediate results, or they may be taught to collaborate
+creating the environment. Edgar Schein, who is considered the “father”
 
-across organizational boundaries when they’re rewarded for work
+of organizational culture, noted that what leaders pay attention to,
 
-within their own group. When leaders and leadership development
+role model, teach, and reinforce will have a signiﬁcant inﬂuence on
 
-practitioners fail to acknowledge the critical role of 1) a company’s
+organizational culture. A leader who spends all of their time with the
 
-culture and organizational context and 2) the most senior leaders’ role
+leaders above them while neglecting their own team is sending a signal
 
-in shaping that context, they oversimplify and likely undermine their leadership development eﬀorts.
+about what they believe is important. When a leader refuses to admit
 
-At Intuit, we’ve spent the last ﬁve years working to build a culture that
+a mistake or weakness, they’re implicitly telling their team it’s not safe
 
-reinforces, rather than inhibits, positive leader growth. We’ve had our
+for them to do so either. In Taylor’s case, her manager avoided diﬃcult,
 
-share of learnings along the way, including the need to modernize our
+direct conversations and set the tone that conversations like that are not
 
-learning technology, which required signiﬁcant buy-in and investment
+important enough to prioritize and are okay to avoid.
 
-from our HR and tech teams. We’ve also been reminded of how diﬃcult
-
-it is for our leaders to consistently prioritize their development in the
-
-midst of limited time and many competing priorities. While we still
-
-have a long way to go, we’ve seen positive feedback, engagement, and
-
-behavior change that suggests we’re on the right track. Hopefully our
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+And yet, all too often, leadership development programs don’t

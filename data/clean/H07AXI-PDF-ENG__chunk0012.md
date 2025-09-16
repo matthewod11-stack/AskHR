@@ -1,15 +1,23 @@
-## ramps to light and glare, stimulation level to acoustics, degree of privacy
+---
+source_path: H07AXI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9c541ec78500752d711e85f2dc6e05ebb417316
+title: H07AXI-PDF-ENG
+---
+# to the most heads-down at the top.
 
-to furniture that would accommodate 60 diﬀerent postures.
+Accommodate a more diverse workforce.
 
-We also made clear that our norms about attire and other aspects of
+Some of the backlash around a return to the oﬃce in corporate America
 
-showing up to work are more ﬂexible than ever before. We refer to this
+comes down to a rejection of old models of professionalism. Work culture in general and oﬃce design in particular need to reﬂect a more
 
-as “the new professionalism,” where people can bring more of their
+complex and varied workforce, including and those with physical and
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+cognitive disabilities. Thus, inclusive design principles informed all
 
-3
+the choices we made for the new LinkedIn headquarters. Taking into
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+account conditions such as paralysis, visual or auditory impairment,
+
+neurodivergence, anxiety, and more, we considered everything from

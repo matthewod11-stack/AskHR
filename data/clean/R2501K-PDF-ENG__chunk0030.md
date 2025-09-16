@@ -1,11 +1,7 @@
-# Organizational Interdependencies
-
-Most projects require collaboration across multiple teams within an
-
-organization, and some also involve outside stakeholders. Each of these
-
-groups can introduce their own elements of unpredictability, which may
-
-increase your risk in ways you can’t control. However, you can slice the
-
-interdependencies with an “organizational tracer bullet” that tests, for
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54dcf1c276295f36005174178f46aac5e75ad3c3
+title: R2501K-PDF-ENG
+---
+# greenlight a full integration.

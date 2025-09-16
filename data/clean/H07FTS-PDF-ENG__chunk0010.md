@@ -1,15 +1,21 @@
-# before.
+---
+source_path: H07FTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fd514b111ff161930b56f906ba177d7e38cbf3a
+title: H07FTS-PDF-ENG
+---
+# the new year.
 
-If you ﬁnd yourself in those WFH doldrums and it’s impacting your
+Here are a few reasons why you may want to shake things up — and how to make these changes eﬀectively.
 
-motivation and productivity, it’s time to switch things up.
+Reason #1: You’re feeling bored with the same old, same old.
 
-One of the most eﬀective ways to do that is through a change of scenery. I’ve seen people go to coﬀee shops, libraries, or even hang out by the
+One reason why you may need to change up your work-from-home
 
-pool if they live in warmer climes. If you want a real oﬃce-y feel, you
+schedule is that nothing has changed at all in the past two-plus years,
 
-could also position yourself at a co-working space. Getting out and
+and the monotony is getting to you. Instead of really starting work on
 
-being around other people may add a little bit of time and distraction.
+time, you’re logging in and then snoozing some more. You miss the
 
-But if it overall helps you feel more energetic and motivated, then it’s a
+social interactions with your coworkers. And every day feels like the day

@@ -1,19 +1,17 @@
-## performance reviews by several percentage points.
+---
+source_path: H07P5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c06ab9eb9f6ca6a887e80c91c9980e8ed003e4d9
+title: H07P5A-PDF-ENG
+---
+# HBR / Digital Article / Watch Out for These 3 Gender Biases in Performance Reviews
 
-- • •
+other employees belong to the in-group. At performance-review time,
 
-Men and women often experience the workplace diﬀerently, whether
+reviewers were also asked to recall one thing they had in common
 
-in-person or virtually. To include and support the best talent for your
+with the person they were about to review. We found that this
 
-company in a dynamic environment, it’s important to take a careful
+simple intervention, which meant that reviews began from a point of
 
-look at the data, be alert to the three kinds of biases discussed in
-
-this article, and identify practices that are leading you to overvalue
-
-the eﬀorts of certain groups. The insights you gain from doing so
-
-will not only help you treat women more fairly but also will lead to
-
-fewer predictable surprises, more productive work hours, and increased eﬃciency in smoothly leading teams — and your company — to
+commonality, decreased the gender discrimination in the company’s

@@ -1,19 +1,13 @@
-## HBR / Digital Article / Leaders Can Move Fast and Fix Things
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc06d980f5f602570ec76f0be48480227c3a9c47
+title: H08NQI-PDF-ENG
+---
+# recent years.
 
-- 3. Involve people you don’t know—and who know more than you do.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Decision quality rises when the stakeholders who are most impacted
+4
 
-by those decisions—often the same people who know the most about a
-
-problem—are at the decision-making table. For example, social media
-
-platforms often miss the mark on child safety, we argue, because
-
-parents are underrepresented in their workforces.
-
-In our work we push leaders to constantly “make new friends” and break
-
-their pattern of overreliance on familiar networks to solve problems.
-
-The colleagues who make us comfortable don’t necessarily make us
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

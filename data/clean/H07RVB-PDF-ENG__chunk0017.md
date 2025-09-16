@@ -1,15 +1,13 @@
-# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6cd9b84c682d46ad73fa606bea98e16483d0490
+title: H07RVB-PDF-ENG
+---
+# the conversation.
 
-You could call it the old-boys network, you could call it the men’s club.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-It still feels that way in many situations, including in my industry and
+4
 
-from other people I’ve talked to in other industries. Diversity in the
-
-C-suite, diversity in the CEO suite overall, not just queer diversity, has
-
-been a hot topic and will continue to be a hot topic because the C-suites,
-
-particularly in America, Fortune 100 or Fortune 500, Fortune 1000, does
-
-not really reﬂect the community at large, the constituency of America
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

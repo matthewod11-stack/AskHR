@@ -1,5 +1,7 @@
-## Recordkeeping, Reporting, Notices and Posters (Retirement Plans)
-
-Posters. There are no Federal poster requirements.
-
-Notices. ERISA contains several notice requirements for retirement plans, such as the summary plan description, individual beneﬁt statements, and the summary annual report. The Reporting and Disclosure
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: e6d2ab43c31ae011bd7521d47c6d4496e8ddd390
+title: Employment Law Guide - Employee Benefit Plans
+---
+# requirements under ERISA.

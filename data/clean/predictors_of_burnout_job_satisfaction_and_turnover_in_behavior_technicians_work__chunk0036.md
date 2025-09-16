@@ -1,7 +1,7 @@
-# Burnout; job satisfaction
-
-Wishful-thinking coping was found to be a predictor of burnout.
-
-Extraversion was found to be a protective
-
-factor and neuroticism was found to be a risk factor for burnout and job satisfaction. Perceived supervisor support was found to partially mediate the effects of personality traits on job satisfaction.
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: fcae8878524eaa316116a061f7a1f7209984ff92
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Burnout

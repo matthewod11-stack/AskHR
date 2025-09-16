@@ -1,5 +1,23 @@
-## decision-making power as key executives and majority owners. This
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b19f14b0067608feface28a285a0944b37462a8c
+title: H07TV8-PDF-ENG
+---
+# mutual commitment.
 
-intergenerational triumvirate setup allowed the innovative prowess of
+While formalized multi-generational leadership teams are relatively
 
-the co-founders to thrive under the guidance of Schmidt’s experience.
+rare, there are some noteworthy examples: In 2001, the co-founders
+
+of Google (Larry Page and Sergey Brin, both 28 years old at the time),
+
+convinced Eric Schmidt (then 48 years old), a seasoned technology
+
+executive and former CEO of Novell, to join the ﬁrm. Schmidt became
+
+CEO and chairman, providing what Page and Brin called “adult
+
+supervision,” while the founders took on the roles of presidents
+
+of products and technology, respectively, maintaining signiﬁcant

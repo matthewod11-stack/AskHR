@@ -1,9 +1,17 @@
-## Organizational Effectiveness: People and Performance. Loneliness and
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d6e41e249cc9853d83f596778f011ad033d8129
+title: H082MI-PDF-ENG
+---
+# Jimena Roquero/Stocksy
 
-isolation have had such a widespread impact on society over the last
+Remote work, as many of us know, can be isolating. That isolation often
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+leads to feelings of loneliness, which can cause employees stress and
 
-1
+signiﬁcantly impact their job performance. Absenteeism attributed to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+stress and loneliness costs U.S. employers an estimated $154 billion
+
+annually, according to a 2022 article published in the Journal of

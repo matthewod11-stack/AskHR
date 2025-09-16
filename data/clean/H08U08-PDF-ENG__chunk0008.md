@@ -1,15 +1,7 @@
-# misión.
-
-Los jefes de departamento se enfrentan entonces a un duro reto. Tienen
-
-que convencer a esos altos ejecutivos, que pueden no estar cerca de las
-
-operaciones cotidianas, de que recortar funciones clave podría suponer
-
-un riesgo mucho mayor que la recompensa. En una hoja de cálculo,
-
-eliminar un papel puede parecer un ahorro. Pero sobre el terreno,
-
-prescindir de talentos clave puede estancar el impulso, erosionar la
-
-cultura y poner en peligro el éxito a largo plazo.
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 758c872a27a9315de761ead1b88bebea0673c963
+title: H08U08-PDF-ENG
+---
+## más perjudicial: la pérdida del talento de los equipos críticos para la

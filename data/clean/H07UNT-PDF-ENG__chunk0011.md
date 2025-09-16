@@ -1,7 +1,11 @@
-## or our own self worth,” explains Morra Aarons-Mele, author of The
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0268557ed83772dd7a78be4391e7944be6d3af18
+title: H07UNT-PDF-ENG
+---
+# complacent.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+To start managing expectations, you need to understand where they
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+come from. “Expectations can be deeply rooted in our own insecurities

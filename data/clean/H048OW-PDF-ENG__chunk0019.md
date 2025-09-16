@@ -1,11 +1,17 @@
-## on the cultural dimensions of restraint, long-term orientation, uncertainty
+---
+source_path: H048OW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c54a190fc90f8ec2cec1939cffa228d77adc7efc
+title: H048OW-PDF-ENG
+---
+# aversion.
 
-avoidance, and harmony. By contrast, ﬁrms with weaker performance after
+We found that some of these cultural values are statistically linked to
 
-the shock had CEOs whose ancestors came from countries that rated
+better competitive performance, and some are associated with negative
 
-Copyright © 2018 Harvard Business School Publishing Corporation. All rights reserved.
+performance. For instance, we found that banks with stronger
 
-4
+performance after this shock had CEOs whose parents and grandparents
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+came from Germany, Italy, Poland and Russia — countries that rate highly

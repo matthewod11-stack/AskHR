@@ -1,7 +1,19 @@
-# trillions of dollars.
+---
+source_path: H08QBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fabbc8e24f209fc77bd9c48aec498398a2d1c86a
+title: H08QBY-PDF-ENG
+---
+# HBR Staff/Unsplash
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+As AI matures, the availability of so-called “digital labor” is exploding,
 
-1
+expanding the very deﬁnition of a qualiﬁed workforce. What was once
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the exclusive domain of human talent has now been joined by AI agents
+
+capable of handling many tasks once considered beyond the reach of
+
+automation—and as a result, according to Salesforce CEO Marc Benioﬀ,
+
+the total addressable market for digital labor could soon reach the

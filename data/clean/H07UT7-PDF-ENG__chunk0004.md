@@ -1,7 +1,9 @@
-# ideas.
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d487a7931b30b5624a34779ac1b93060b8f6205
+title: H07UT7-PDF-ENG
+---
+## activities. In this moment of reﬂection about when, where, and how
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+work should be done, it’s an opportune time to explore out-of-the-box

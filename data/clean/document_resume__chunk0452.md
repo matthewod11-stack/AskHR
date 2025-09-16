@@ -1,3 +1,11 @@
-# Supervisor Appraisal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 86b7374274f2252bff1b6b838675fe42872f204b
+title: document_resume
+---
+# Sources of Appraisal Data
 
-Probably the most important source of judgmental data is the immediate superior. A manager has both a right and a duty to make appraisal and developmental decisions regarding subordinates. In addition, the superior normally assigns the w oil, and is responsible for rewards and sanctions. The liabilities of super\ isory appraisal include the familiar objection to "playing God" as well as the lack of interpersonal skills needed to maintain positive relationships with subordinates. Moreover; there is always the possibility of rater errors, including favoritism and bias.
+The best sources of appraisal data are.
+
+(1) a knowledgeable indiv idual who has directly and continually observed job performance and w ho can late performance with- out error or bias and (2) items that can be counted, qualified, measured, analyzed, or compared. These factors should be considered no matter which approach is selected for conducting the performance appraisal. This section provides a brief description of the various sources which are currently accepted within organizations. Sources of critical information needed to perform the appraisal function may include. the supervisor, the subordinate, peer review, self-appraisal, and outside appraisals (including the assess- ment center concept and student evaluations, where applicable).20

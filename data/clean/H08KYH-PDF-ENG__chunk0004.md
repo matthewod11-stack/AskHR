@@ -1,13 +1,27 @@
-# and mental well-being.
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b861050bc9d22707f2f88327bcbd3ef4e4a9024
+title: H08KYH-PDF-ENG
+---
+## HBR / Digital Article / The Insidious Effects of Hurrying
 
-While the onus should be on employers to address many of the root
+employees, where 45% said their workload had signiﬁcantly increased
 
-causes of hurry sickness — hustle culture, incentives to overwork,
+over the past 12 months and more than half felt there was too much
 
-and constant organizational change, for example — there are steps
+change at their workplace happening too quickly.
 
-you can take to mitigate it even in non-ideal circumstances. Here,
+This relentless urgency can result in a phenomenon known as “hurry
 
-we’ll explore the profound consequences of hurry sickness and outline
+sickness,” a term ﬁrst introduced in 1974 by cardiologists Meyer
 
-several strategies to reclaim your time and peace of mind.
+Friedman and R.H. Rosenman to describe the damaging eﬀects of
+
+Type A (i.e., high-achieving) behavior on cardiovascular health. Hurry
+
+sickness isn’t a diagnosable condition, but it encapsulates a set of
+
+behaviors and emotions — impatience, chronic rushing, and a constant
+
+sense of time scarcity — that can wreak havoc on a person’s physical

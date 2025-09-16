@@ -1,17 +1,25 @@
-## McNatt, D. B., Campbell, S., & Hirschfeld, R. R. (2005, April).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a5d7bc38df85d0a65de343ef7669c4951667169c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## McKee-Ryan, F. M., Song, Z., Wanberg, C. R., & Kinicki, A. J.
 
-Building self-conﬁ dence: A meta-analysis of the eﬀ ectiveness of self-eﬃ cacy interventions. Poster presented at the 20th annual conference of the Society for Industrial and Organizational Psychology, Los Angeles, CA.
+(2005). Psychological and physical well-being during unemployment: A meta-analytic study. Journal of Applied Psychology, 90(1), 53–76.
 
-McNatt, D. B., & Judge, T. A. (2004). Boundary conditions of the Galatea eﬀ ect: A ﬁ eld experiment and constructive replication. Academy of Management Journal, 47(4), 550–565.
+McKee, T. L., & Ptacek, J. T. (2001). I’m afraid I have something
 
-McShane, T. D. (1993). Eﬀ ect of nonverbal cues and verbal ﬁ rst impressions in unstructured and situational interview settings. Applied H.R.M. Research, 4(2), 137–150.
+bad to tell you: Breaking bad news from the perspective of the giver. Journal of Applied Social Psychology, 31(2), 246–273.
 
-Mead, A. D., & Drasgow, F. (1993). Equivalence of computerized and paper-and-pencil cognitive ability tests: A meta- analysis. Psychological Bulletin, 114(3), 449–458.
+McLeod, P. L., Baron, R. S., Marti, M. W., & Yoon, K. (1997). Th e eyes have it: Minority inﬂ uence in face-to-face and computer-mediated group discussion. Journal of Applied Psychology, 82(5), 706–718.
 
-Medsker, G. J., Katkowski, D. A., & Furr, D. (2005). 2003 income and employment survey results for the Society for
+McManus, M. A., & Baratta, J. E. (1992). Th e relationship of
 
-Industrial and Organizational Psychology. Th e Industrial- Organizational Psychologist, 43(1), 36–50.
+recruiting source to performance and survival. Paper presented at the annual meeting of the Society for Industrial and Organizational Psychology, Montreal, Canada.
 
-Meehan, B. T. (1994, January 16). Ice star, bodyguard a pair who
+McManus, M. A., & Ferguson, M. W. (2003). Biodata, personality, and demographic diﬀ erences of recruits from three sources. International Journal of Selection and Assessment, 11(2/3), 175–183.
 
-didn’t ﬁ t in. Roanoke Times and World News, pp. A1, A8.
+McNatt, D. B. (2000). Ancient Pygmalion joins contemporary
+
+management: A meta-analysis of the result. Journal of Applied Psychology, 85(2), 314–322.

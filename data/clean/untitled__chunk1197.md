@@ -1,3 +1,9 @@
-# eral Psychology, 59, 21–33.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c21b6135e2fe228593aebdd462673c216e24056f
+title: untitled
+---
+# ogy. New York: Guilford Press.
 
-O’Donnell, J. M. (1985). The origins of behaviorism: American psy- chology, 1870–1920. New York: New York University Press.
+O’Connell, D. C. (1958). Idiographic knowledge. Journal of Gen-

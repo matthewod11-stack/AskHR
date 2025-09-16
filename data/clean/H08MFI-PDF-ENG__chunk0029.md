@@ -1,13 +1,29 @@
-## HBR / Digital Article / When Your Job Breaks Your Heart
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08ace7b3d1a2f4497e0d6ae3837ca9c4c3904536
+title: H08MFI-PDF-ENG
+---
+# early stages?
 
-who likes to create a plan, block out your time, and create a sense of
+You’re not alone, and what you’re feeling isn’t weird! If you can try to let
 
-momentum through action? Or do you need some time to try something
+yourself feel your feelings without assigning judgment to them, moving
 
-totally new in your life and experiment? Understand your ﬁnances,
+on will be easier and you’ll feel better. Give yourself the time to mourn,
 
-what demands there are on your time and energy, and try to create a
+and if you’re mourning while also working full time and living your life, make some time in your day to feel your feelings. Stuﬃng them down
 
-path forward that allows you to look ahead and get excited rather than
+just doesn’t work; they need to move through.
 
-looking back in regret and rumination. This too shall pass, and one day
+When you feel ready to get going again, it’s really important to spend
+
+some time thinking about what will help you gain momentum as you
+
+move forward or seek a new opportunity. Are you the kind of person
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

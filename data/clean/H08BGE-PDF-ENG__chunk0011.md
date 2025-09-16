@@ -1,29 +1,23 @@
-## Researchers Jamie Gloor, Tyler Okimoto, and Eden King call this
+---
+source_path: H08BGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e0bbb73e0aebf2e076377af0313d70a5ddd872e
+title: H08BGE-PDF-ENG
+---
+## HBR / Digital Article / How Biases About Motherhood Impact All Women at Work
 
-practice “maybe baby” discrimination. Managers’ assumptions that
+I said, ‘I don’t want children’… I could tell I was considered suspicious
 
-an applicant will have a baby “increases their perceptions of risk
+and probably a liar. The places that asked did not hire me.” A chief executive oﬃcer noted the futility of actions like ﬁling a complaint or
 
-associated with employing childfree, childbearing-aged women — but
+suing: “It’s illegal but there’s no way to hold these hiring managers
 
-not men.” Even just changing one’s last name at marriage is enough to
+accountable unless we have a ton of money because the system is
 
-trigger “maybe baby” bias against women. And unfortunately, women
+rigged. We have to prove that one question was why they didn’t hire
 
-themselves can hold this bias, as one participant did: “I’ve had several
+us.” Several women noted that they were advised to remove wedding
 
-people I manage get pregnant and have children, and it…makes things
+and engagement rings for interviews to avoid the perception of needing
 
-tough as far as being able to count on them.”
-
-“Do more” bias
-
-Many women with no children found that they were expected to work
-
-longer and harder than their peers with children. A project manager
-
-stated, “What I have experienced is that I would go the extra mile, or
-
-that I had capacity to do more work or longer hours because I didn’t
-
-have children. Which I greatly resented. All of us have a life, with or
+maternity leave.

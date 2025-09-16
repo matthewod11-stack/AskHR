@@ -1,9 +1,13 @@
-## suggestions from authors Amy Henderson and Sarah Johal:
+---
+source_path: H08HMK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1869d26db7d7525ba5de9ee647c3865d53563a28
+title: H08HMK-PDF-ENG
+---
+# Gather better data.
 
-- Investigate what other companies are doing around measuring
+It’s likely you have no idea how caregiving aﬀects your employees. And
 
-caregiving status and learn from them about what’s working and
+for all the talk about making better decisions based on data, companies
 
-what’s not.
-
-- Ask your employees what they need, gathering information from
+rarely collect any on working families. To do so, consider the following

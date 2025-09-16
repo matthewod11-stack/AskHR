@@ -1,7 +1,17 @@
-# next step.
+---
+source_path: H08T9Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7226e4033d59744bc9014d02e993caf5df0d448b
+title: H08T9Z-PDF-ENG
+---
+# relationship:
 
-Ask yourself: Why was I so frustrated? What are the facts that led to the
+Reflect objectively before reacting.
 
-mistake? What could I have done differently? Identify the exact behavior
+Jumping into an apology or confrontation without clarity can make
 
-that caused the tension in your mind and whether your boss would
+things worse. It’s crucial to reﬂect for a moment on how the mistake
+
+happened, what role your emotions played, and how your actions could
+
+be perceived. Understanding the full picture is key before deciding your

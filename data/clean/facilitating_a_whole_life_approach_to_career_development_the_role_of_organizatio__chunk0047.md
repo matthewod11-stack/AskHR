@@ -1,3 +1,17 @@
-## The Academy of Management Review, 31, 72–92. doi:10.2307/20159186
+---
+source_path: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio.md
+pages: n/a-n/a
+chunk_id: c5fac5c04775e3580b0f64a1a6d3116dd5dba777
+title: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio
+---
+# Litano and Major
 
-Gupta, K. (2011). A practical guide to needs assessment. San Francisco, CA: John Wiley. Hall, D. T. (1976). Careers in organizations. Santa Monica, CA: Goodyear Publishing. Hall, D. T. (1996). The career is dead-long live the career: A relational approach to careers. San Francisco, CA:
+Giberson, T. R., Resick, C. J., Dickson, M. W., Mitchelson, J. K., Randall, K. R., & Clark, M. A. (2009). Leadership and organizational culture: Linking CEO characteristics to cultural values. Journal of Business and Psychology, 24, 123–137. doi:10.1007/s10869-009-9109-1
+
+Greenhaus, J. H., & Beutell, N. J. (1985). Sources of conflict between work and family roles. Academy of
+
+Management Review, 10, 76–88. doi:10.5465/AMR.1985.4277352
+
+Greenhaus, J. H., & Kossek, E. E. (2014). The contemporary career: A work-home perspective. Annual Review of Organizational Psychology and Organizational Behavior, 1, 361–388. doi:10.1146/annurev-orgpsych- 031413-091324
+
+Greenhaus, J. H., & Powell, G. N. (2006). When work and family are allies: A theory of work-family enrichment.

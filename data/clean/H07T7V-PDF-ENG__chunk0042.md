@@ -1,29 +1,17 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84d1c2d71ca58e6d435629e427aea1c2f0abc795
+title: H07T7V-PDF-ENG
+---
+# culture of openness.
 
-nonsense business. The company is not a therapy group. It’s not there so
+When I used to hear this word, “vulnerability”, in connection with
 
-you can sit around feeling vulnerable all the time. I was just wrong.
+leadership or business, I thought it was just a buzz phrase, hand wavy,
 
-Now, the company is not your therapy group. However, a successful
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-company needs to be a place where it’s okay to be wrong, to fail, to
+13
 
-not have the answer, to show that you’re uncertain. Nadella helped get
-
-Microsoft down that path, and it was an absolutely fundamental thing
-
-to do.
-
-I also interviewed Yamini Rangan, who’s the CEO of HubSpot here in
-
-Cambridge, who took over a culture and has strengthened it through a really diﬃcult time through the pandemic.
-
-She discussed one of the things she learned and that she was good at
-
-was saying in this unbelievably uncertain time of the pandemic where
-
-tech companies were shrinking. It was all weird. She said to a lot of
-
-her constituencies, “Look, I don’t know. I don’t know what the future
-
-holds here. I’m going to be honest with you.” She also shared her board
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

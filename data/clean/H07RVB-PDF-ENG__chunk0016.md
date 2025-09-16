@@ -1,7 +1,21 @@
-# the conversation.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0588232a1828a3a9fc0ddd747c920e3af0613187
+title: H07RVB-PDF-ENG
+---
+# regular performance reviews.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+And it’s about sharing stories and sharing commonalities. In many
 
-4
+cases, as a queer executive, when you walk into a room of eight or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+10 people, you might be the only self-identifying out, gay executive.
+
+And so your story by nature is diﬀerent. I don’t have kids. Many queer
+
+executives do have kids. So I can’t talk about what schools my kids
+
+are applying to or universities they’re going to. It’s just there’s not that
+
+common language, those common topics that make you ﬁt easily into

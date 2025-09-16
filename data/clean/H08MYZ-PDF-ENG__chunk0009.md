@@ -1,5 +1,9 @@
-## resources like the Bureau of Labor Statistics’ Occupational Outlook
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68b50688c0182273c2fdff2acbaead34a15aa0bd
+title: H08MYZ-PDF-ENG
+---
+## HBR / Digital Article / How to Get Hired When AI Does the Screening
 
-Handbook to research potential roles. Once you ﬁnd the right ﬁt, you
-
-can craft a compelling narrative that highlights your transferable skills
+ﬁelds such as such as cybersecurity, AI ethics, or AI training, and use

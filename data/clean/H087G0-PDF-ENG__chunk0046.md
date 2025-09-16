@@ -1,11 +1,19 @@
-# Focus on Strengths
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a2bca7f54a44bdd1ba3708c3ae957c8420ce2aa
+title: H087G0-PDF-ENG
+---
+## positive work environment despite your health challenges. In some
 
-If you decide to disclose a medical condition or a disability, the next
+cases you may also consider a “radical” disclosure (such as educating
 
-step often involves working with your manager, team, or organization
+colleagues about your condition in a meeting, explaining how it impacts
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+your communication in your email signature, or “coming out” via social
 
-10
+media) to both live out your authentic identity at work and help reduce the stigma surrounding health diﬀerences. While not without risk,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+radical disclosure can expand your network in ways that prevent the
+
+potentially catastrophic consequences of losing a sole supporter.

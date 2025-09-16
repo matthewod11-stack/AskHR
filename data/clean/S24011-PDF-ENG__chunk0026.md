@@ -1,15 +1,23 @@
-## HBR / Spotlight Article / Leading in the Flow of Work
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 476249bfa945b078e73340000a5d8c8bf40466f6
+title: S24011-PDF-ENG
+---
+# leave.
 
-“Mrs. Thatcher,” Gorbachev said. “I know you are a person with an acute
+And then something remarkable happened. Gorbachev centered
 
-mind and high personal principles. Please bear in mind that I am the
+himself and considered his intentions in meeting Thatcher. “We are
 
-same kind of person.” She responded with a nod. He then continued,
+guests here; the conversation must continue,” he thought. He reframed
 
-“Let me assure you that I have not come here with instructions from
+the situation in his mind from “She’s attacking my government!” to
 
-the Politburo to persuade you to become a member of the Communist
+“She’s promoting her principles.”
 
-Party.” Thatcher burst into laughter. “The tension was broken,” recalled
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Gorbachev, “and the discussion continued, although it soon [heated] up
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

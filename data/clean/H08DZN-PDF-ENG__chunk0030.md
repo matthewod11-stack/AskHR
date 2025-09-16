@@ -1,3 +1,9 @@
-# TH
+---
+source_path: H08DZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7fc4e68385708b56220b7080919c26ca28e252d7
+title: H08DZN-PDF-ENG
+---
+# IH
 
-Tanja Hentschel is an Associate Professor of Organizational Behavior at the Amsterdam Business School, University of Amsterdam. She received her PhD from the Technical University of Munich and was a research fellow at the Department of Psychology, New York University. Tanja is an editorial board member of Journal of Business and Psychology. Her research focuses primarily on (gender) stereotypes, biases, leadership, and career choices.
+Ivona Hideg is Professor of Organisation Studies at the Saïd Business School, University of Oxford, and the Ann Brown Chair of Organization Studies in the Schulich School of Business, York University. Previously, she was a research fellow with the Women and Public Policy Program at Harvard Kennedy School, she served as an Associate Editor at Academy of Management Journal and is currently serving as Past Chair of the Canadian Society for Industrial & Organizational Psychology. Her main program of research includes workplace equity, diversity and inclusion with a focus on gender, but she also examines issues surrounding race, language, and socio- economic background diversity.

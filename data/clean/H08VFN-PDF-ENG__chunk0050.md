@@ -1,15 +1,11 @@
-# and self-pity.
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03655812ee0782adea3dbd77f58d8589867b4f18
+title: H08VFN-PDF-ENG
+---
+## HBR / Digital Article / Lessons from U.S. Army Special Ops on Becoming a Leader
 
-Solution 1: Target victory. List all the successes you want your
+focused on what’s happening now that you start believing that you’re
 
-organization to achieve over the next ﬁve years. Then identify a single
-
-ambitious goal that, if you hit it, will enable you to achieve most (even
-
-all) of those successes. That goal is your deﬁnition of victory.
-
-Victory is bold and speciﬁc—a precise target that is hard but possible
-
-to attain. When leaders fail to deﬁne victory, it’s usually because their
-
-target is either bold but not speciﬁc (Double proﬁts in four years) or
+necessary for everything, falling into megalomania, micromanagement,

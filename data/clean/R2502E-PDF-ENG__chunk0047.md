@@ -1,17 +1,19 @@
-## HBR / Magazine Article / How Women Can Win in the Workplace
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35dce71109a4f7bde4307f4b7a14a6d6ca1856fb
+title: R2502E-PDF-ENG
+---
+## didn’t study computer science or engineering in college.
 
-Be an AI power user. Generative AI is accelerating the automation of
+But remember: What you learn in school is only half the story. You
 
-tasks across hundreds of job categories and has the potential to increase
+can still learn at work, and there are several ways you can embrace
 
-productivity in the global economy by up to $4.4 trillion. By 2030, 30%
+technology to set yourself apart.
 
-of the activities of every job in the United States, on average, could
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-be done by automation and generative AI. In some jobs up to 70% of
+12
 
-activities can be augmented by gen AI. That’s not to say these jobs will
-
-disappear, but how workers in them spend time and add value will be
-
-substantially diﬀerent, and being able to harness gen AI in them will be
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

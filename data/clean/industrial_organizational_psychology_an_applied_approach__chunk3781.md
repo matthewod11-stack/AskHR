@@ -1,7 +1,13 @@
-# particular job.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e88446913e06dd00d2b9dcdfdf6eb1865d1b5eae
+title: industrial_organizational_psychology_an_applied_approach
+---
+# GLOSSARY
 
-Acceptance stage The fourth and final stage of emotional reaction to downsizing, in which employees accept that lay-offs will occur and are ready to take steps to secure their future.
+360-degree feedback A performance appraisal system in which feedback is obtained from multiple sources such as supervisors, subordinates, and peers.
 
-Accommodating style The conflict style of a person
+Ability A basic capacity for performing a wide range of different tasks, acquiring knowledge, or developing a skill.
 
-who tends to respond to conflict by giving in to the other person.
+Absolute amount The actual salary paid for a

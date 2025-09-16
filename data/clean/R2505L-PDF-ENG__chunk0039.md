@@ -1,7 +1,11 @@
-#RootedInTruth campaign has two key strengths. First, it encourages
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a11bfbeaf20067ae9e763397c8aeb6784bac5033
+title: R2505L-PDF-ENG
+---
+#RootedInTruth. The campaign involves suppliers and employees who
 
-spontaneous storytelling driven by emotions and personal experiences, which eﬀectively captures attention and builds trust. Second, and most
+share personal stories about why they trust Vero, alongside photos of
 
-important, it creates a perception that ordinary customers (and not just
-
-elite experts) do not believe the fake news, further reinforcing social
+their favorite Vero products and their own recipes that use them. The

@@ -1,29 +1,33 @@
-## transform business processes and empower workforces, companies will
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b50943cdceb5fd9bec6a0a8bf77ea0f5aac1fafa
+title: R2502W-PDF-ENG
+---
+## to improvements across the board—but especially with lower-skilled
 
-be able to fundamentally rethink how they deploy their resources.
+consultants, whose scores rose 43% while the scores of the highest-
 
-Smart ones will identify the handful of processes in which they can
+skilled employees rose 17%.
 
-provide world-class expertise and capabilities and reallocate resources
+Using AI to augment the expertise and thus the capabilities of
 
-to deepen the moats around those processes. At the same time, they will
+employees has multiple implications. It may reduce the time and cost to
 
-reduce employees’ focus on noncore processes by leveraging AI-enabled
+onboard new hires, broaden the pool of those who can perform speciﬁc
 
-platforms provided by third parties.
+processes, and provide more ﬂexibility in how employees are deployed
 
-An early example of this shift can be seen at FocusFuel, a purveyor
+to achieve outcomes. It also has implications for organizational
 
-of caﬀeinated gummies. Founded in 2023 by a trio of entrepreneurs
+structure if median performance levels can be achieved with less
 
-and marketers in partnership with a collective of gamers, athletes,
+oversight from a manager and if any employee can eventually command
 
-and content creators, the company has utilized gen AI technologies
+a range of AI agents to get jobs done. Some companies may adopt wider
 
-across its entire value chain. The founders identiﬁed their core
+managerial spans, while others may choose to operate with more tightly
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+scoped teams, with each team member managing a ﬂeet of AI agents.
 
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+More investment in activities that matter. As AI agents and bots

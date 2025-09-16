@@ -1,7 +1,11 @@
-# Late Nineteenth into Twentieth Century
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c9203615f0ef2f5e9fbb4aa164c80ae465d80a82
+title: untitled
+---
+# The Psychoanalytic Theory of Psychopathology, Second Version—Freud’s Seduction Theory
 
-fact that his patients would reproduce the scenes only under the strongest compulsion, trying to hide the most violent sen- sations while doing so, and claiming that they had no real feeling of recollecting these scenes. However, he asserted that the incidents must have been real because the recollections by different patients displayed uniformity in certain details that must have followed identical experiences. Uniformity of rec- ollection is, unfortunately, more consistent with the simple explanation that Freud’s conviction of what the memory ought to be was determining the content of the memory.
+In 1896, Freud published The Aetiology of Hysteria (Freud, 1896/1950a), in which he stated unequivocally that the un- conscious memories that generate hysterical symptoms are inevitably of one or more premature actual sexual experi- ences in early childhood (stimulation of the genitals, coitus- like activities, etc.). Freud asserted that he could recognize the connection between an infantile sexual experience and every symptom in 18 cases of hysteria that he had treated, and that this was conﬁrmed by therapeutic success with each patient when he brought them to recall the pathogenic mem- ory. His discovery that infantile sexual experience is the origin of neuropathology, Freud claimed, was a revelation as momentous as the discovery of the source of the Nile. The alleged sexual experience was either an isolated instance of abuse by strangers or, much more frequently, seduction by a caretaker, near relation, or siblings who initiated the child into sexual intercourse and maintained a regular love-relation with him, often for years.
 
-Not long after publishing his seduction theory, Freud began to realize that some of his patients had not in fact actually been seduced, and in 1897, he discarded both the theory and his pressure technique. He substituted instead the method of free association and the procedure of interpreta- tion, including the interpretation of dreams.
-
-Freud claimed in his On the History of the Psychoanalytic Movement (1914/1950b) that he knew of no inﬂuence that drew “my interest to [dreams] or inspired me with any helpful expectations.” He was, however, familiar with J. Hughlings Jackson’s theory that during sleep, the higher men- talprocessesnolonger“keepdown”theprocessesofthelower braincenters.HehadquotedJackson’sstatement,“Findoutall about dreams, and you will have found out all about insanity.” In Freud’s view, dreams, like neurotic symptoms, provide a conduit for the indirect discharge of accumulated nervous ex- citations. In sleep, although the body is no longer attuned to external stimulation, internal stimulation continues since or- ganic needs are always signaling their presence.
+Freud had had great difﬁculty in eliciting memories of early sexual experience from his patients. He referred to the

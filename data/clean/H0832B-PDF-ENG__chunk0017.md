@@ -1,7 +1,19 @@
-# development, or human resources.
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c2c82a2eaa7e22a1df11fa7bc12cb3ef302c0f8
+title: H0832B-PDF-ENG
+---
+## manager role. More advanced programs with large alumni networks
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+may even assign a full team to managing the program. Having a
 
-3
+dedicated alumni manager or team not only ensures appropriate
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+attention is going into the company’s alumni strategy, but also provides
+
+alumni with a designated point of contact. Where the alumni manager
+
+and/or team sit often depends on the organization’s speciﬁc goals for
+
+alumni, but they are most commonly located in marketing, business

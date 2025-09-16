@@ -1,7 +1,7 @@
-# Don’t
-
-- Do all the talking. Open the ﬂoor to questions and listen for feedback
-
-that will help you gauge whether your message is landing.
-
-- Wallow in negativity but also don’t be a Pollyanna. Strike a balance
+---
+source_path: H08QZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38c9e3a3dadc4cff473654b387850f513ec1063f
+title: H08QZW-PDF-ENG
+---
+# sense of clarity and purpose.

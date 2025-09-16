@@ -1,7 +1,15 @@
-# evidence.”
+---
+source_path: H07YJT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1d8e8c356960c04e511d2c2470f0b42567455fa
+title: H07YJT-PDF-ENG
+---
+# discussion.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Prepare. Conducting a thoughtful performance review requires some
 
-2
+groundwork and reﬂection on your part, according to Mondal. “Too
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+often managers go from meeting to meeting without clear purpose,” she
+
+says. “But for these conversations, you need to be prepared with written

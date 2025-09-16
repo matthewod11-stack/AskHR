@@ -1,43 +1,25 @@
-# HBR / Digital Article / How a “Pay-to-Quit” Strategy Can Reveal Your Most Motivated E…
+---
+source_path: H07NAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04a6b1ae6857c5d1874fe6b6788cef85b432726c
+title: H07NAR-PDF-ENG
+---
+# Testing the Program
 
-I’ve recently been working with a large consulting company that is
+It’s hard to judge the success of such incentive-based programs without
 
-conducting such a test. The model is instructive. The company decided
+running a controlled study. How can you really know if the right people
 
-to implement a signiﬁcant technological change in the way it operated
+are quitting, or if those who stay get a moral boost from doing so? To
 
-— a change that would require senior employees to invest time in
+ﬁnd out, you need to run an experiment that includes a control group
 
-learning new technology and drastically alter their working methods.
+that is not oﬀered the incentives, which you can compare to a group that
 
-Some of these employees were enthusiastic about the opportunity, and
+is oﬀered them.
 
-others were not, but management couldn’t distinguish between them.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Company leaders recognized that they needed to ﬁgure that out in one
+3
 
-particularly important context — when they were considering which
-
-employees to name as partners. Why? Because when the company
-
-chooses who to promote, it is declaring them highly competent
-
-and valuable, which immediately makes them interesting to other
-
-companies, who often begin eﬀorts to lure them away. The company
-
-wants to avoid a situation in which it trains employees and promote
-
-them to partner at the expense of others, only to see those partners take
-
-their knowledge and training and go elsewhere. In addition, it’s hard
-
-to ﬁre partners even if they don’t do a good job or embrace necessary
-
-changes in how work gets done. That’s why the company wanted to
-
-ﬁgure out which employees were the most motivated before it decided
-
-which of them to name as partners. If the company could do that, it
-
-could then make its investments in training much more strategically
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

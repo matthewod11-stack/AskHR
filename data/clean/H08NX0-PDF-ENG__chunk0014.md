@@ -1,25 +1,23 @@
-## This focus on clarity, structure, and trust instead of in-oﬃce attendance
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e3dbc9c07fb87733103174895a5918e06d0dc24
+title: H08NX0-PDF-ENG
+---
+## prioritizes performance, with clear goals and rigorous milestones to
 
-demonstrates that hybrid models can be both employee-centric and performance-driven. This model has also proven cost eﬀective, reducing
+ensure accountability, no matter where employees are working.
 
-the company’s real estate footprint while justifying the investment in
+Rather than mandating a set number of in-oﬃce days each week,
 
-bringing employees together periodically.
+Airbnb has structured its hybrid model around intentional in-person
 
-Leaders looking to master this balancing act must take a thoughtful,
+gatherings. Employees work remotely most of the time but come
 
-multifaceted approach. First, design work environments with clear
+together for one week each month at the company’s San Francisco
 
-intention, recognizing that productivity isn’t about physical location.
+headquarters. These gatherings foster collaboration and connection,
 
-Next, develop a deep understanding of your speciﬁc workforce by
+ensuring that teams have dedicated time to align on key priorities while
 
-gathering systematic feedback and assessing what truly enables
-
-teams to perform at their best, then construct a framework that
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+maintaining the ﬂexibility of remote work.

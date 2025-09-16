@@ -1,7 +1,17 @@
-# LEARNING & DEVELOPMENT SCORE
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: fd7fa3b7fc3505cbdfdd75ad414cb09d83000c3f
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# CULTURE SCORE
 
-Q13: I have good opportunities to learn and grow at my company.
+Q16: I feel free to speak my mind without fear of negative consequences
 
-Q14: I know what skill I will need in future to be a valuable contributor to this company
+Q17: I am treated with respect and dignity
 
-Q15: I have the training I need to do my job effectively
+Q18: You feel that the organization you work for is diverse and inclusive
+
+Q29: Your organization offers employees multiple workspace options The physical
+
+space reflects the values of your organization

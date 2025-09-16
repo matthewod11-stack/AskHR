@@ -1,17 +1,29 @@
-# policy?”
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f10cf826d601e5e910326457b1e1e63f988c1da
+title: H07QOV-PDF-ENG
+---
+# possible.
 
-AMY EDMONDSON:
+Those are the kinds of both experiments and failures we must welcome
 
-Let’s start with airlines because clearly none of us want them to be
+with open arms. They are discoveries and they allow us to ﬁgure out
 
-comfortable with failure. Yet I think the reason why airlines have an
+quickly what to try next. But a portion of the book is devoted to best
 
-extraordinary record of success and safety is because they’re willing and
+practices for failure-prooﬁng that which can be failure-proofed. The
 
-able to talk about failure. The failures that they do tolerate happen in
+activities, the operations in your company that are in known territory,
 
-the simulator. There’s training, there’s a lot of emphasis on speaking
+are ones that should be well set up to make failure extremely rare.
 
-up early to prevent something worse from happening. So their safety
+ADI IGNATIUS:
 
-record does not come from being intolerant of failure, but rather being
+Are there industries that do not tolerate failure? Airline pilots? You
+
+don’t really want them to fail. This isn’t a rhetorical question. Are there
+
+industries that really don’t tolerate failure? And can you look at them
+
+and say, “You actually can get interesting results if you have that kind of

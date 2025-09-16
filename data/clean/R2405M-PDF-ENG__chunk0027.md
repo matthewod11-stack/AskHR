@@ -1,19 +1,31 @@
-# An Important Turning Point
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d97ae6da6f2c7a50427a32711dd2dac7bc4bb88
+title: R2405M-PDF-ENG
+---
+## two expansion ideas ﬁrst as a division head?”
 
-The three paused as they ﬁnished on the ninth green.
+“Perhaps she knows this is the only chance she has to negotiate with
 
-Jean-Louis broke the silence. “We served our country by building
+you, because this is the only time she will have a credible walk-away
 
-our careers in our new nation—by showing that Africans can become
+threat,” Jean-Louis said. He looked searchingly at his two friends. “May
 
-successful and wealthy without colonial patronage. The next generation
+I ask you to consider what would happen if Aminata came home and
 
-wants more. They want to contribute directly to nation building. Who
+was successful? The agribusiness would help provide food security and good jobs for our people.6 Producing power for the grid would help industrial productivity and improve the quality of life for Ivorians. Your
 
-are we to stand in their way?”
+daughter could become a national hero.”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+“That’s true,” Koﬃ said. “But may I ask you to consider what would
 
-7
+happen if she failed? We’d have to leverage the business for a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+transformation of this scope. Apart from wiping out the value of
+
+the company, it would turn Assoua Group into yet another “désastre
+
+africain,” which the Paris papers love to write about. We’ve worked our
+
+whole lives to make sure that doesn’t happen.”

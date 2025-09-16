@@ -1,15 +1,13 @@
-# Coordinate
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68c95c07ffca3992701b90d0ca147838444b9a63
+title: R0510D-PDF-ENG
+---
+# REVIEW STRATEGY
 
-Organize and lead monthly strategy-review meetings, briefing the CEO about strategic concerns in advance. Document needed ad- justments to strategy and execution identified during meetings and follow up to ensure that changes are implemented. Help the chief fi- nancial officer prepare strategy updates for board meetings.
+Human resource alignment. HR function manages employee incen- tives, competency development programs, and annual performance reviews in a man- ner consistent with corporate and business unit strategic objectives.
 
-page 1
+See that the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
-
-.
-
-D E V R E S E R S T H G I R L L A
-
-.
-
-N O I T A R O P R O C G N H S I L B U P L O O H C S S S E N I S U B D R A V R A H 5 0 0 2 © T H G I R Y P O C
+Knowledge management. with the chief learning officer to ensure that the best practices and ideas most critical to the corporate strategy are shared through- out the organization.

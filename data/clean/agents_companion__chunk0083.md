@@ -1,15 +1,17 @@
-# framework.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 80f60903489977c1e4370d6b4bb7369d71b641b0
+title: agents_companion
+---
+# benchmarks for specialized use cases, like Adyen’s Data Analyst leaderboard DBAStep20
 
-16
+which may give you a more targeted evaluation - if you understand both the evaluation
 
-Beyond public evaluations, you will want to evaluate the behavior of your agent across a
+approach and the agents who are on the leaderboard.
 
-variety of scenarios to ensure it does what you want it to do. You are simulating interactions
+Public benchmarks are a valuable starting point, to get a feeling for what is possible and
 
-with your agent and evaluating how it responds. This includes the evaluating final response
+identify pitfalls to look out for. Most benchmark assessments include discussions of common
 
-and also the set of steps it takes along the way (trajectory). Those are the 2 most common
-
-and practical approaches we recommend you start with. There are many other evaluation
-
-techniques you can use beyond these, either for finer details on sub-components or
+failure modes that can guide you in setting up your own, use-case specific evaluation

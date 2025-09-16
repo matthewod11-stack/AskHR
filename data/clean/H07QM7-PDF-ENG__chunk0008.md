@@ -1,21 +1,11 @@
-## Steps to Take When You Don’t Trust Your Employee
+---
+source_path: H07QM7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b507c426a42ba449e4a9126c785ea53ed4f9789
+title: H07QM7-PDF-ENG
+---
+## Unfortunately, the adverse eﬀects of leader distrust can also
 
-Two-way trust is paramount to a healthy and productive leader-
+extend beyond the speciﬁc leader-employee relationship, stealthily
 
-employee relationship. If you ﬁnd yourself in the uncomfortable
-
-situation of distrusting a team member, here are ﬁve steps to help you
-
-address the issue and move forward.
-
-- 1. Pinpoint the source of your distrust.
-
-We often hear (and make!) comments like “I don’t trust them” or “They
-
-aren’t trustworthy.” We talk about trust in all-or-nothing terms, but trust
-
-is not some global entity — trust is situation speciﬁc. Rarely will you
-
-distrust everything about someone. For example, you may trust your
-
-team member’s technical expertise but not their ability to present their
+diminishing innovation, morale, and performance of the broader team.

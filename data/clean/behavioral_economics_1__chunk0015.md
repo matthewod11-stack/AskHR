@@ -1,5 +1,25 @@
-# psychological comparison of outcomes with unrealized outcomes (disappointment) or with outcomes from
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 3c2596226d668f3ddf94d67ba8b5a4d816f55b4e
+title: behavioral_economics_1
+---
+# namely, through the reference point.6
 
-foregone choices (regret) imply that the utility of a gamble is not separable into a sum of its expected
+Slovic and Lichtenstein (1968) were the first to notice that reversals of expressed preference could result
 
-component utilities, but there are workable formal models of these phenomena (e.g., Gul, 1991; Loomes,
+when people choose between two gambles, relative to pricing the gambles separately, a violation of procedure-
+
+invariance (see also Grether and Plott, 1979). This insight lays the groundwork for using pricing institutions
+
+(such as different auctions) to influence expressions of preference.
+
+Human perception and cognition is heavily influenced by contrast. A circle looks larger when
+
+surrounded by smaller circles than when it is surrounded by larger circles (the Titchener illusion). Since choices
+
+undoubtedly involve basic perceptual and cognitive neural circuitry, it would be surprising if choice evaluation
+
+were not sensitive to contrast as well. Indeed, there is ample evidence that the appeal of choices depends on the
+
+set of choices they are part of (e.g., Simonson and Tversky, 1992; Shafir, Osherson and Smith, 1989). Similarly,

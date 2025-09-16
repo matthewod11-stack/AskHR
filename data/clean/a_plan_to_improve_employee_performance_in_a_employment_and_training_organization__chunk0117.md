@@ -1,19 +1,19 @@
-## key performance objectives and essential job functions.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 418ed38ce980d1cac66319a27a1d07f1a2fa2d9a
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# acceptable performance or expectations.
 
-As stated earlier standards of performance are usually developed in collaboration
+Currently, Employers ' Training Resource does not have an effective or objective
 
-with employees and explained to new employees within the first month of employment.
+measure to evaluate the essential functions of the job, as a counseling technician. This
 
-Employers' Training Resource should specify general criteria for evaluation ratings,
+plan will outline the essential functions of Counseling Technician I/II and propose key
 
-which are found on the Performance Evaluation form (see Appendix A). These ratings
+performance objectives supervisors can use to evaluate employee performance during a
 
-describe the level of performance of the employee compared to the essential job functions
+particular review period. But first the author will discuss what performance standards are
 
-and standard of performance . Supervisors will use this criteria to rate the employee 's
-
-27
-
-performance . Performance standards answer the question , "How will the emplo yee and
-
-supervisor know when the emplo yee is meeting or exceeding expectations for his or her
+and how management can develop written Performance Standards before proposing the

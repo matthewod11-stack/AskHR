@@ -1,29 +1,13 @@
-# HBR / Digital Article / How to Learn from Your Mistakes and Make Better Decisions
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 153eac8e3d36f7b7a52b88836a325239899cf025
+title: H08EDN-PDF-ENG
+---
+# resource-intensive mistakes.
 
-Determined to move forward, Stacey asked Jordan, her human
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-resources leader, to begin recruiting again for the chief operating
+1
 
-oﬃcer opening. However, she worried she wouldn’t trust the candidates
-
-Jordan identiﬁed because he had recruited the two previous candidates
-
-who had crashed and burned. How could she feel conﬁdent that things
-
-would turn out better this time?
-
-I had worked as an executive coach with Stacey for several years. When
-
-she came to me with this problem, I immediately asked her how she was
-
-rethinking her hiring process after the two failures.
-
-Her answer: She wasn’t.
-
-There’s an old saying that the deﬁnition of insanity is doing the same thing over and over and expecting a diﬀerent result. What I’ve seen over
-
-and over again with my clients is that most of us behave like Stacey
-
-more often than we care to admit. In part, this behavior stems from
-
-wanting to be eﬃcient, leaning on well-worn and largely unconscious
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

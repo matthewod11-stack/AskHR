@@ -1,5 +1,13 @@
-# funcionários decair.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 24d291169d14a6d4dbb4dd8faf8d45e41c472f7f
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## rápida identificação e atuação da empresa nos pontos problemáticos. Como saber
 
-Conhecemos o eNPS através de benchmarking com outras empresas. É uma prática comum do meio corporativo, encontramos empresas que passaram por momentos similares aos nossos e pedimos para compartilhar a narrativa do seu processo de aprendizagem. Foi bem simples porque nossas lideranças conheciam lideranças de People em startups que estão em posição de destaque no mercado, e eles aceitaram tranquilamente conversar conosco e nos contar da sua vivência. A nossa pauta para o bench era pesquisa. (Entrevistada)
+se algum ponto evoluiu se não se questionar todas as vezes exatamente da mesma
 
-40
+forma era uma das questões que se colocava. Neste sentido, as pesquisas
+
+passaram a ser cada vez mais longas e via-se, ciclo após ciclo, a participação dos

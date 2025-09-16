@@ -1,9 +1,15 @@
-## in areas such as approaches to communication, decision-making, and
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 962b7c7a5a0dcdae440b798c7e4a1b5559a4167e
+title: R2503K-PDF-ENG
+---
+## Sociologists Frank Dobbin and Alexandra Kalev found that opt-in
 
-conﬂict resolution—that are often shared across a range of identities
+training sessions that emphasize perspective-taking and skill-building
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+help team members understand how their diﬀerences contribute to
 
-12
+achieving shared goals. Instead of relying on broad generalizations and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+stereotypes, leaders can emphasize diverse work styles and values—

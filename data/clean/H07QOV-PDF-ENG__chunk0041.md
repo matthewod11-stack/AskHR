@@ -1,49 +1,37 @@
-## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3642e2bd4218116fef0edafd72a37df1a7622376
+title: H07QOV-PDF-ENG
+---
+## So here’s another question along those lines from Mohammed in
 
-But even individuals who have the ambition to grow and develop in
+Pakistan. Employees may be hesitant to oﬀer feedback that could be
 
-their roles and in their careers have to train themselves to be willing to
+perceived as negative, which can impede professional development,
 
-do this and receive it because of its value. So we’ve got to call attention
-
-to its value. We’ve got to call attention to the fact that it’s hard and then
-
-do it anyway and support each other.
-
-ADI IGNATIUS:
-
-This question is from Don from Calgary in Canada. If it’s true that
-
-we learn acutely from mistakes, what are some ways to encourage
-
-permission from our leaders who may be risk averse?
+hinder organizational progress. How does one tackle this situation?
 
 AMY EDMONDSON:
 
-We’re all risk averse, and maybe leaders even more than others, maybe
+Such a good question because it’s true. We are very reluctant to do things, to speak up with negative or diﬃcult information, because
 
-not. But ﬁrst of all, I make a distinction between mistakes and failures.
+frankly it will always be easier not to. It will always be easier to hold
 
-I’m not anti-mistake because I’m a human being, and I make them, we
+back than to speak up candidly and forthrightly about something that
 
-all do.
+you hope could be made better.
 
-But a mistake is not the same thing as a failure. A failure is something
+The way to make this very diﬃcult thing easier is to set the stage by
 
-that went wrong that we wish were otherwise. A mistake is a deviation
+pointing out how valuable it is. Periodically, I would say even frequently,
 
-from a known practice. Now, that could happen because of inattention,
+refer to the fact that “We need to do this hard thing. We need to do it
 
-because of lack of training, because of exhaustion, you name it.
+well if we want to be as good as we can as a team.”
 
-But I think it’s helpful for leaders, and others for that matter, to talk
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-about the reality that we will make mistakes because we’re human. The
+13
 
-very best practice is not to never make a mistake. It’s to catch and
-
-correct them quickly, and then also to make that distinction between
-
-smart experiments in new territory that we also want to see more of
-
-because it’s the secret to future value creation. And we welcome those,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

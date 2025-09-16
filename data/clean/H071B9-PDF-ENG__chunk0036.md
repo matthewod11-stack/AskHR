@@ -1,19 +1,19 @@
-# complex challenges.
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a007752431698628b1fafd7eb9c69f6b79c764dc
+title: H071B9-PDF-ENG
+---
+# intuition.”
 
-When leaders focus on getting the conversations right, groups often
+- It’s vital to get the most accurate data on the table, even when that
 
-improve decisions and progress quite quickly. The experience of shared
+data is unpleasant to share. Everyone involved is responsible for
 
-progress often strengthens trust between collaborators. It might sound
+creating an atmosphere where others can act with both candor and
 
-counterintuitive, but shifting attention away from trust might be one
+vulnerability when sharing their perspective.
 
-effective way to quickly build trust in new constellations.
+- Our individual willingness to explore and take each other’s
 
-Per Hugander is a strategic advisor on leadership, strategy, innovation, and organizational culture. He is an adjunct professor of practice at Hult/Ashridge International business school and an agenda contributor to the World Economic Forum.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+perspectives is key to progress and effective decision making on

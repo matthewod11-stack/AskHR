@@ -1,33 +1,23 @@
-# Emerging Management Practices
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71909161a1427f72f5a6f3ac6f85225e99aa7c41
+title: R2403D-PDF-ENG
+---
+# extra work or inconvenient demands. How
 
-Many of the leaders we talked with initially tried to manage freelancers
+will they react, say, to a freelancer calling
 
-the same way they’ve long managed other temporary workers: by relying on a contract agency for staﬃng and then maintaining a
+in to join a team stand-up that they’ve been
 
-transactional relationship with the workers that focused on speciﬁc
+told they must attend in person? How will
 
-deliverables, with minimal investment by the company in developing
+they feel when freelancers are given a pass
 
-an emotional connection with them. But they soon learned that force-
+Xan Padrón’s series Time Lapse combines individual photographs to create a larger portrait of all the movement and changes that happen in even the smallest corners of a city.
 
-ﬁtting the model they use for temporary staﬀ needs doesn’t work well
+on pitching in when crises arise? How will
 
-for freelancers. That’s not surprising. The role of traditional contractors
+Marta keep everyone in various work
 
-is staﬀ augmentation: They add capacity on a temporary basis and
-
-perform outsourced, noncore work as employees of a third party. But
-
-when the purpose is not augmentation but innovation, ﬁrms need a
-
-diﬀerent approach—one that fully integrates expert freelancers into
-
-a highly cohesive team. To that end, forward-looking companies are
-
-starting to develop new practices.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+arrangements appropriately engaged?

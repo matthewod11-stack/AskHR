@@ -1,25 +1,55 @@
-## reinstatement and attorney's fees (Roads to Resolution, 1999).
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 8d10904b926acfc3198b9577a93ddb2859285a3a
+title: california_state_university_northridge_1
+---
+## Association, JAMS/Endispute, and Resolution Systems and in addition to any other
 
-Arbitration times and dates are agreed upon and format followed is outlined. Only
+dispute resolution organizations, the parties involved may agree upon. The mediator does
 
-relevant information may be exchanged by the parties involved, and sh_all be submitted to
+not act as a judge in this process; their role is defined as seeking both parties mutual
 
-the arbitrator. At the arbitration, only facts on addressing the issue can be presented along
+cooperation to find a solution to the problem. Another key role is problem identification,
 
-with expressly supporting documentation. This process is conducted privately and after
+which is fundamental. If the problem cannot be identified then no resolution can be
 
-the hearing, the arbitrator will submit a final written decision within thirty days, which is
+determined at any stage for any organi7.ation. Once thi,;: has been identified, then the
 
-binding, by the company and the associate involved.
+mediator will explore possible bases for agreement and consensus (Roads to Resolution,
 
-During steps three and four the associate may have an attorney present. The
+1999).
 
-compar."1.y will not pay for an attorney representing an associate. If the associate hires an
+The Mediator will meet with both parties together or separately in which each
 
-attorney then the company will do the same if they are in stage four or five. However, by
+party will have the opportunity to present their perspective regarding the issue. The
 
-participati...'lg in a...'1.y step four or five, the company shall i.i1cur the cost of the entire process
+mediator will present a proposed solution based on the information provided by both
 
-for each party involved (associate, company, mediator administrative fees and or arbitrator
+parties. Consequently, the proposed solution is not required to be accepted by either
 
-56
+party. Should both parties agree to a solution presented by the mediator, then is shall be
+
+placed in writing which is final and binding.
+
+55
+
+Finally, the fourth step is External Arbitration. This next step is a binding
+
+arbitration process. Here any employment related claim and or legally protected rights
+
+might be heard in this step. This step also involves and outside neutral third party.
+
+process the arbitrator will hear the claim presented by both sides and render a decision that
+
+is binding unlike mediation, where the solution presented can be rejected. During this
+
+process, the formality is far greater than any other steps before this. In arbitration,
+
+witnesses can testify on your behalf or for the company and evidence can be presented and
+
+argument made, this rule applies to both sides. Here, any evidence, witness and or
+
+arguments must comply with the rules of arbitration. More importantly, the arbitrator has
+
+the flexibility to grant awards that are permissible within a court oflaw, such as back pay,

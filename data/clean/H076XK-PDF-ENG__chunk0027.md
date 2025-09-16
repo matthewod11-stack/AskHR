@@ -1,9 +1,17 @@
-# U.S. Supreme Court.
+---
+source_path: H076XK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b74290f4ba1f6f1616cb89c455a41d783fee6da7
+title: H076XK-PDF-ENG
+---
+# to retention.
 
-- • •
+The numbers speak for themselves. Each month, over 200 people show
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+up, and keep showing up — as themselves, bringing their whole selves
 
-5
+to work. Daryl Drabinsky, EVP head of digital health, North America,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+was so inspired that she initiated “Time to Connect: West” for West
+
+Coast employees to connect after Roe v. Wade was overturned by the

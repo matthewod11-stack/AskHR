@@ -1,3 +1,7 @@
-# Group & Organization Management 0(0)
-
-Psychological empowerment may play an important role in translating leader inclusion into valued outcomes for minority employees. Chrobot- Mason and Aramovich (2013) found that when employees feel they work in an environment in which they have equal access to opportunities and are treated fairly (two components of afﬁrming climate for diversity), they are less likely to report intentions to leave the organization. In addition, four psy- chological outcomes (identity freedom, psychological empowerment, per- ceived climate for innovation, and organizational identiﬁcation) fully mediate the relationship between diversity climate perceptions and turnover intentions. Identity freedom in which employees can express their true identity at work rather than attempt to suppress differences was particularly impactful on the experience of psychological empowerment. Chrobot-Mason and Aramovitch considered identity freedom as closely aligned to value in uniqueness in the Shore et al. (2011) model. Finally, it was determined in this study that psychological empowerment was associated with a climate for innovation.
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 2ac30d5a54ec42e6abb45e72ccc98f7fd8966b2c
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# 10

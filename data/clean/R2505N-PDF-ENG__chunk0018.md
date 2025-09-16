@@ -1,7 +1,29 @@
-## example, during each internal meeting or client onboarding, track
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a44b6f19de51b50191d8e0d7733938d12310d03
+title: R2505N-PDF-ENG
+---
+## HBR / Magazine Article / Why Aren’t I Better at Delegating?
 
-that you’ve (1) explained why you’re having it, (2) outlined what those
+more-regular dopamine hits than context-setting does. Many leaders in
 
-assembled need to achieve, and (3) described the behaviors that will
+our study said that they miss having lists of discrete to-dos to check oﬀ
 
-help you meet that collective goal. You can also make lists of tasks to
+each day. What’s more, context-setting is cognitively taxing, especially
+
+for those new to it, creating a dopamine deﬁcit. So managers just
+
+learning to delegate will feel a craving for those old hits. Ultimately,
+
+leaders need to accept that their work will yield fewer and less frequent
+
+chemical rewards associated with productivity. But there are ways to
+
+avoid feeling their absence so strongly:
+
+Create different types of checklists. Activity-based work might be easier
+
+to break down into to-dos, but it’s possible to do the same for your
+
+context-setting work so you can get dopamine hits there, too. For

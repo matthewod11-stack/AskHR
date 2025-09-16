@@ -1,3 +1,9 @@
-# BG
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3e906db945a2df091cccd7e884fb48925e3d63d
+title: H08OET-PDF-ENG
+---
+# them.
 
-Boris Groysberg is a professor of business administration in the Organizational Behavior unit at Harvard Business School and a faculty aﬃliate at the school’s Race, Gender & Equity Initiative. He is the coauthor, with Colleen Ammerman, of Glass Half-Broken: Shattering the Barriers That Still Hold Women Back at Work (Harvard Business Review Press, 2021).
+This article was originally published online on April 1, 2025.

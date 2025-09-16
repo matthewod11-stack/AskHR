@@ -1,15 +1,37 @@
-## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3093ec6f3ffb4e01756a359475dd7b0a809e62f3
+title: R0507Q-PDF-ENG
+---
+## standard of performance for the automobile industry, while the U.S.
 
-from ordering, scheduling delivery, and paying for the materials;
+Department of Transportation’s measurement of on-time arrivals and
 
-to receiving, inspecting, handling, and storing the materials; to the
+lost baggage provides external standards for airlines. Benchmarking
 
-scrapping, reworking, and obsolescence caused by the materials;
+procedures are yet another technique companies use to compare their
 
-and schedule disruptions (expediting and value of lost output) from
+performance against competitors’ best practices. Many companies have
 
-incorrect deliveries. An excellent supplier may charge a higher unit
+introduced “best of breed” comparison programs: The company looks
 
-price for products than other vendors but nonetheless be a lower-cost
+to one industry to ﬁnd, say, the best distribution system, to another
 
-supplier because it can deliver defect-free products in exactly the
+industry for the lowest-cost payroll process, and then forms a composite
+
+of those best practices to set objectives for its own performance.
+
+In addition to measures of time, quality, and performance and service,
+
+companies must remain sensitive to the cost of their products. But
+
+customers see price as only one component of the cost they incur
+
+when dealing with their suppliers. Other supplier-driven costs range
+
+Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

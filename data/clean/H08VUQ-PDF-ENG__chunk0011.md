@@ -1,9 +1,15 @@
-## Consider Yunji Technology’s AI-powered delivery robots. Instant
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6d294ecab1405fd7009865a797f3b43e36076af
+title: H08VUQ-PDF-ENG
+---
+# marketplace.
 
-delivery around the clock is the norm in China. From hot meals to fresh
+But when companies take the opposite approach, starting with strategy,
 
-ﬂowers to daily essentials, almost anything is just a click away—and
+identifying how they can oﬀer buyers a leap in value, and then looking
 
-typically arrives within 15 to 30 minutes.
+to technology as a tool to deliver that leap, AI can be a powerful catalyst
 
-But a challenge arose for hotel guests who wanted to use delivery
+to proﬁt, growth, and commercial opportunities.

@@ -1,3 +1,11 @@
-## ﬂow manner. Do not share your raw thoughts (via email or otherwise)
+---
+source_path: H071S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: baf106d97ef024667ba50de9185d05fcc74a82a7
+title: H071S2-PDF-ENG
+---
+# expectations, and your stress levels.
 
-with your colleague. This exercise is so you can become aware of your
+Before you give feedback to your employee, acknowledge your own
+
+emotions. Write out anything you might be thinking or feeling in a free-

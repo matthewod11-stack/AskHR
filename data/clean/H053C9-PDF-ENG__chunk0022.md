@@ -1,7 +1,9 @@
-## and communities and upset current or potential customers. However, if
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5b55821166bee3f3ebda79d82fdffeba17f521e
+title: H053C9-PDF-ENG
+---
+# gay laws.
 
-a company wants to be a market leader on LGBT inclusion — to recruit
-
-and retain LGBT talent, to appeal to LGBT consumers and allies, and to
-
-help create vibrant inclusive economies — it should strive to become an
+The Advocate model is not without risk: It can provoke governments

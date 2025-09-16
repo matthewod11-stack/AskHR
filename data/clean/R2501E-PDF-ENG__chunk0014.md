@@ -1,27 +1,39 @@
-# Entertainments).
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ddd5fd92c97edcd15ac6075665b6544234c62ac
+title: R2501E-PDF-ENG
+---
+## HBR / Magazine Article / Leaders Shouldn’t Try to Do It All
 
-We suggest that overwhelmed leaders follow a four-step process in
+For A.G. those include Trina Spear, a cofounder and the CEO of FIGS,
 
-making choices. The ﬁrst two steps involve getting tasks oﬀ their
+a designer scrubs and medical apparel company that grew to more
 
-calendars; the second two, putting tasks on.
+than $500 million in sales within a decade and went public in 2021.
 
-- 1. Remove all tasks for which you lack any absolute advantage.
+A.G. serves on the board of FIGS and provides advice to Spear in that
 
-When Roger arrived at the Rotman School, he was informed that the
+capacity. In addition, at her request, he coaches and mentors her on
 
-dean’s most important job was to hire tenure-stream faculty members
+speciﬁc issues she’s wrestling with.
 
-and that he, like his predecessors, should be heavily involved in every
+For Roger they include Jørgen Vig Knudstorp, the highly successful
 
-aspect of the hiring process. That’s an example of what we often see as
+CEO of the Lego Group from 2004 through 2016, who saved the
 
-a should do. Leaders are told they should do something in part because
+company from imminent bankruptcy and made it the biggest, most
 
-that’s how it has always been done.
+proﬁtable, and most respected toy company in the world, with sales that
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+have grown by a multiple of 10. In 2017 Knudstorp became executive
 
-4
+chairman, coheading Lego Brand Group with the fourth-generation
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+owner, Thomas Kristiansen, to coordinate the various Lego branded
+
+assets, including the core business, Lego Foundation, Lego Digital, Lego
+
+Education, the giant Lego House project in the company’s hometown,
+
+and Legoland Parks (which were owned and operated by Merlin

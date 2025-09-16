@@ -1,5 +1,11 @@
-## situations. The Volkswagen emissions scandal, the result of deliberate
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2f94099675ef338de3a65340fc26af777d86685
+title: S24012-PDF-ENG
+---
+## the Ukraine war or regulatory moves like antitrust suits or bans on
 
-test manipulations, had broad ﬁnancial and reputational fallout and
+products sold to China, are other examples.
 
-demanded concentrated CEO action. BP’s Deepwater Horizon oil spill
+At Harvard Business School we teach several case studies on clarion call

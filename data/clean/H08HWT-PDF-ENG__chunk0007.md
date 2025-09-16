@@ -1,9 +1,15 @@
-## Generative AI relies on natural language processing (NLP) to
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ce955aaa10a0ebfd38b74f3780e2b7c35bd69fd
+title: H08HWT-PDF-ENG
+---
+## such as “best downhill mountain bike for intermediate riders.” That
 
-understand the request and generate relevant results. It’s basically
+approach is often carried into prompting. The results build on a linear
 
-pattern recognition and pattern assembly based on instructions to
+path of thinking, research, and decision-making based upon the world
 
-deliver output that completes the task at hand. This approach aligns with our brains’ default mode: pattern recognition and eﬃciency-
+as we know it. This is perfectly normal and eﬀective. In fact, it’s how
 
-seeking, which favors short, straightforward prompts to get immediate,
+today’s generative AI models largely work.

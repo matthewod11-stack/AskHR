@@ -1,17 +1,35 @@
-# the world of entertainment.
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d38396d8c59d7d9de7ab61eca23463dbfe41784b
+title: R2502D-PDF-ENG
+---
+# the context.
 
-A few techniques can help ensure that your framing is as novel as
+Find a novel framing of the problem. Most great innovations start
 
-possible. The ﬁrst is to strive to keep it neutral. That means being
+with a novel framing. For example, Henry Ford began not with the
 
-agnostic about the solution to the problem. For example, Ford’s focus on
+conventional How can I make more money selling cars? but with How can
 
-making cars aﬀordable for everyone led to reducing the cost of selling
+I make cars more affordable for everyone? That made him unique among
 
-them by using franchises, as Singer had done for sewing machines.
+his peers, all of whom were more interested in how to make better cars
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+for the 5% of the population that could already aﬀord them.
 
-7
+Likewise, Reed Hastings didn’t frame his challenge around building a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+better Blockbuster or creating a better way to rent movies, although he
+
+managed to do both. It came to him while he was driving to his gym
+
+and ruminating on the late-return penalty he had to pay for Apollo 13.
+
+He asked himself, How could a movie-rental company operate like a gym?
+
+At the time, many people were familiar with Blockbuster’s late fees,
+
+Amazon, DVDs, and gym memberships, but it was Hastings’s unique
+
+framing that led him to combine them in an innovation that changed

@@ -1,3 +1,9 @@
-# b. Servant Leadership
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 0346e6272fa23793a021263ad8982dac06396ab9
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# a. Transformational Leadership
 
-Servant leadership places the leader's focus on serving the needs of their team members and the organization as a whole. This style emphasizes humility, empathy, and a commitment to the well- being of others. Servant leaders prioritize the development and growth of their employees, believing that by supporting their team, the organization will thrive. Servant leaders often lead by example, demonstrating the values and behaviors they expect from their team members. This approach creates a culture of trust and collaboration, leading to improved overall performance.
+Transformational leaders are known for their ability to inspire and motivate their followers to exceed their own expectations. They often possess a strong vision for the future and are capable of communicating this vision effectively. They encourage creativity and innovation, promoting a culture of continuous improvement within the organization. Transformational leaders also build strong relationships with their teams, displaying empathy and support. They empower their followers to take ownership of their work, fostering a sense of purpose and commitment [5], [6].

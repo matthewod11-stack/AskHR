@@ -1,5 +1,15 @@
-## confidencialidade dessas respostas, compromisso assumido perante todo quadro de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 11f9ed332a39ce3e44733168edec627cbbf90fa6
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## reportam direta ou indiretamente para ele.
 
-funcionários da empresa e que precisa ser mantido a fim de garantir um canal aberto
+As respostas das pessoas jamais são expostas nominalmente, sendo
 
-e seguro para que toda pessoa sinta-se confortável para ser sincera e transparente
+apresentadas apenas como indicadores consolidados, utilizando o cálculo da
+
+metodologia do eNPS, além da distribuição entre as classes detratores, neutros e
+
+promotores, e outras estatísticas descritivas que não firam, de maneira nenhuma, a

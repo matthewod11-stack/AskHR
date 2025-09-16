@@ -1,9 +1,13 @@
-# ("walk-around" rights)
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: 509ecb949c11420ca22508636b247339c34079d8
+title: Employment Law Guide - Mine Safety and Health
+---
+# demolition workers, and truck drivers working at a mine are considered to be "miners" and may exercise the
 
-Report hazardous conditions and make a complaint of an alleged danger or safety or health violation to
+rights given them under the Act.
 
-MSHA, a state agency, a mine operator, an operator's agent or a miner's representative. Obtain an inspection of the mine where reasonable grounds exist to believe that an imminent danger, or a
+The Mine Act gives a miner the right to:
 
-violation of the Act or of a safety or health standard exists;
-
-Receive health and safety training during normal working hours and to be paid for that time at the regular
+Designate a representative to accompany an MSHA inspector during an inspection without loss of pay

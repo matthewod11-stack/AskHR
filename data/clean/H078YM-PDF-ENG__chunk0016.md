@@ -1,1 +1,17 @@
-## visits, individual meetings, and group sessions as part of the onboarding
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8eb400f18252f7e1f32d78cef0e7791991b59cee
+title: H078YM-PDF-ENG
+---
+## HBR / Digital Article / Is Bad Onboarding Stifling Your New Senior Leaders?
+
+want to test. So rather than force the new person to learn what you think
+
+is important only, build the onboarding curriculum together.
+
+Not long ago, for example, a health care company brought in a new
+
+divisional CEO, whom I’ll call Esme (both the company and the CEO
+
+have been disguised). The ﬁrm set up an extensive schedule of site

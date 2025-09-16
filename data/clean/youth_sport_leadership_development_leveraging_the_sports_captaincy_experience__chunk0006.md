@@ -1,5 +1,15 @@
-## Youth Sport Leadership Development: Leveraging the Sports Captaincy Experience
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: e5874006198d402d4ee79ce33932490a421fbd83
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# Article views: 26941
 
-DANIEL GOULD and DANA K. VOELKER Institute for the Study of Youth Sports, Michigan State University, East Lansing, Michigan, USA
+View related articles
 
-Leadership has been identiﬁed as an important but underdeveloped life skill among youth athletes. This article discusses a recent effort to develop leadership by taking a formal educational approach to the sport captaincy experience. More speciﬁcally, the Institute for the Study of Youth Sports has partnered with the Michigan High School Athletic Association to create the MHSAA Captain’s Lead- ership Training Program. The program’s design, structure, and content are discussed as well as our biggest successes, challenges, and future directions. Implications for sport consultants, coaches, and other practitioners are provided.
+Citing articles: 8 View citing articles
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=uspa20
+
+Journal of Sport Psychology in Action, 1:1–14, 2010 Copyright © Association for Applied Sport Psychology ISSN: 2152-0704 print / 2152-0712 online DOI: 10.1080/21520704.2010.497695

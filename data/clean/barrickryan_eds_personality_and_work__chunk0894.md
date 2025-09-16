@@ -1,9 +1,19 @@
-## cognitive ability. Journal of Applied Psychology, 84, 376–389.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 48608de39a38459a2773861ef98b298332dd9b62
+title: barrickryan_eds_personality_and_work
+---
+## human universal. American Psychologist, 52, 509–516.
 
-Ones, D. S., Hough, L. M., & Viswesvaran, C. (1998, Apr.). Validity and ad- verse impact of personality-based managerial potential scales. Symposium conducted at the Thirteenth Annual Convention of the Society for Industrial and Organizational Psychology, Dallas, TX.
+McHenry, J. J., Hough, L. M., Toquam, J. L., Hanson, M. A., & Ashworth, S. (1990). Project A validity results: The relationship between pre- dictor and criterion domains. Personnel Psychology, 43, 335–354. Mischel, W., Shoda, Y., & Mendoza-Denton, R. (2002). Situation-behavior proﬁles as a locus of consistency in personality. Current Directions in Psychological Science, 11, 50–54.
 
-Ones, D. S., & Viswesvaran, C. (1996, Apr.). What do pre-employment cus- tomer service scales measure? Explorations in construct validity and impli- cations for personnel selection. Paper presented at the Eleventh Annual Conference of the Society for Industrial and Organizational Psy- chology, San Diego, CA.
+Motowidlo, S. J., Borman, W. C., & Schmit, M. J. (1997). A theory of in- dividual differences in task and contextual performance. Human Performance, 10, 71–83.
 
-Ones, D. S., & Viswesvaran, C. (1998). Integrity testing in organizations. In R. W. Grifﬁn, A. O’Leary-Kelly, & J. M. Collins (Eds.), Dysfunc- tional behavior in organizations: Vol. 2. Nonviolent behaviors in organi- zations (pp. 243–276). Greenwich, CT: JAI Press.
+Mount, M. K., Barrick, M. R., & Stewart, G. L. (1998). Five-Factor Model of personality and performance in jobs involving interpersonal in- teractions. Human Performance, 11, 145–165.
 
-Ones, D. S., & Viswesvaran, C. (2001). Personality at work: Criterion- focused occupational personality scales used in personnel selec- tion. In B. W. Roberts & R. T. Hogan (Eds.), Personality psychology in the workplace (pp. 63–92). Washington, DC: American Psycho- logical Association.
+Muchinsky, P. M. (1999). Applications of Holland’s theory in industrial and organizational settings. Journal of Vocational Behavior, 55, 127–135.
+
+Murtha, T. C., Kanfer, R., & Ackerman, P. L. (1996). Toward an interac- tionist taxonomy of personality and situations: An integrative situa- tion–dispositional representation of personality traits. Journal of Personality and Social Psychology, 71, 913–207.
+
+Neuman, G. A., & Wright, J. (1999). Team effectiveness: Beyond skills and

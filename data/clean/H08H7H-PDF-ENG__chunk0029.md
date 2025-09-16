@@ -1,13 +1,9 @@
-## as a generator of employee relationships rather than as an impediment.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e47345569e06f40da50b35db1b32419d3b5be033
+title: H08H7H-PDF-ENG
+---
+## Lean into the relational potential in your remote business practices
 
-Our research shows that over video meetings, coworkers can learn
-
-new nonwork information about each other in ways that beneﬁt their
-
-relationships more than the traditional ways employees learn about one
-
-another in the oﬃce (e.g., by telling each other about themselves or even
-
-connecting on social media).
-
-Based on our research, we suggest two ways you can easily start tapping
+Once you have changed your mindset, you can start to see remote work

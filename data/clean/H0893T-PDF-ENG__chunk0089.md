@@ -1,15 +1,23 @@
-# HBR / Digital Article / Research: The Most Common DEI Practices Actually Undermine…
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b230d2001e0e8a5b23bf3d9ed71a460b4738a93e
+title: H0893T-PDF-ENG
+---
+# aﬃrmative action.
 
-to use their limited resources on the most eﬀective strategies, like
+When there are resource constraints, DEI initiatives are often
 
-employing Chief Diversity Oﬃcers, creating diversity task forces,
+one of the ﬁrst things to be cut in organizations. Organizations
 
-and implementing formal mentoring programs. Companies should
+also predominantly rely solely on practices that undermine or
 
-also expand family-friendly practices such as childcare, ﬂextime, and
+fail to advance diverse representation. If we are going to see
 
-parental leave. Importantly, diversity training should be revamped.
+meaningful progress toward diverse representation, organizations need
 
-Rather than focusing on legal repercussions and blaming employees
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-for discrimination, training programs should empower employees to
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

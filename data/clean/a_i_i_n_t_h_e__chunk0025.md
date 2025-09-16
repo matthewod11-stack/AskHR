@@ -1,15 +1,13 @@
-# The power of why
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: c7f7f47547536e625e60cb8fec80e1145bf9c26d
+title: a_i_i_n_t_h_e
+---
+# Embed AI into your products
 
-Making great job recommendations to job seekers is only the start of the Indeed experience.` They also need to explain to the candidate why this speci…c job was recommended to them9
+How Indeed humanizes job matching
 
-Indeed uses the data analysis and natural language capabilities of GPT-4o mini to shape these ‘why’ statements in their emails and messages to jobseekers. Using AI, the popular ‘Invite to Apply’ feature also explains why a candidate’s background or previous work experience makes the job‰ a good ‚t.
+When AI is used to automate and accelerate tedious, repetitive work, employees can focus on` the things only people can do. And because AI can process huge amounts of data from many sources, it can create customer experiences that feel more human because they’re more relevant and personalized9
 
-The Indeed team tested the previous job matching engine against the GPT-powered version with the new, customized context.` The performance uplift was signi…cant:
-
-A 20% increase in job applications starte(cid:16)
-
-A 13% uplift in downstream success—not only were more candidates likely to apply,` but employers were more likely to hire them.
-
-9
-
-AI in the Enterprise
+Indeed, the world’s No. 1 job site, uses GPT-4o mini to match job seekers to jobs in new ways.

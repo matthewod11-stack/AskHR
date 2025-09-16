@@ -1,15 +1,13 @@
-# our recent purchase?"
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 4dfbe10b7ecd826f56b236c76173d6d26bc07377
+title: a_p_r_a_c_t_i_c_a_l
+---
+# input
 
-/
+(
 
-42
+"Could you please provide an update on the delivery timeline forJ
 
-/
-
-In the above example, the initial user message is sent to triage_agent. Recognizing thatŒ the input concerns a recent purchase, the triage_agent would invoke a handop to the order_management_agent, transferring control to itu
-
-This pattern is especially epective for scenarios like conversation triage, or whenever you prefer specialized agents to fully take over certain tasks without the original agent needing to remain involved. Optionally, you can equip the second agent with a handop back to the original agent, allowing it to transfer control again if necessary.
-
-23
-
-A practical guide to building agents
+4(cid:6)

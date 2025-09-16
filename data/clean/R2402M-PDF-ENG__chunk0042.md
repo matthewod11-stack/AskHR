@@ -1,3 +1,9 @@
-## With the Workers’ Party—known for its interventionist policies—in
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 643f11f966949d8f6227041510f2ed27e0af9031
+title: R2402M-PDF-ENG
+---
+# future.
 
-power in Brazil, she can help ensure government support for Paulo’s
+Lucia also can play a crucial role by using her political connections.

@@ -1,5 +1,15 @@
-# How it’s going
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: 22368ebb02047a3cba84dbf987bbb7051450c5b5
+title: a_i_i_n_t_h_e
+---
+# Human trainers
 
-Today, 98% of Morgan Stanley advisors use OpenAI every day; access to documents has jumped from 20% to 80%, with dramatically reduced search time; and advisors spend more time on client relationships, thanks to task automation and faster insights.
+Comparing AI results to responses from expert advisors, grading for accuracy and relevance.
 
-The feedback from advisors has been overwhelmingly positive. They’re more1 engaged with clients, and follow-ups that1 used to take days now happen within hours.
+These evals—and others—gave Morgan Stanley the con]dence to start rolling the use cases´ into production.
+
+6
+
+AI in the Enterprise

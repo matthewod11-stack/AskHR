@@ -1,21 +1,19 @@
-# eye contact with every employee.
+---
+source_path: H07GDE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67bc20c08d3a491fce49b820b7cc72037c3ee172
+title: H07GDE-PDF-ENG
+---
+# speaking.
 
-The exception to this rule is if you take questions after the
+Look directly at the camera.
 
-announcement. In this case, you should look into the computer monitor
+Getting the camera shot right is also crucial. The camera should be
 
-at the employees while they’re asking questions. This is natural and will
+at eye level. If the camera is lower than your face, you will look
 
-help you “read the room.”
+overbearing. If the camera is too high, you will look meek. While
 
-Remember to breathe.
+speaking, look straight into the camera — not at the individual audience
 
-It’s understandable to be nervous in a meeting like this; you’re probably
-
-bringing in a lot of your own emotions and you might feel angry or
-
-embarrassed. It’s important to remember to breathe. Not only will it
-
-help you do your job, but anxiety can dramatically alter one’s voice. To
-
-project strength and conﬁdence, it’s essential to try to counteract this
+members appearing in boxes on the screen. This allows you to maintain

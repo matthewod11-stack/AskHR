@@ -1,17 +1,25 @@
-# HBR / Digital Article / Research: Flat Hierarchies Can Discourage Women Applicants
+---
+source_path: H08DWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eae4b5112d8b839ed946612e7244cef439b1fc66
+title: H08DWZ-PDF-ENG
+---
+# Viktor Solomin/Stocksy
 
-especially crucial for startups, who risk accruing “diversity debt” — the issue of correcting a lack of diversity that becomes increasingly diﬃcult
+Diversifying the workplace has become a central objective for many
 
-as the ﬁrm grows.
+employers, with U.S. ﬁrms spending nearly $8 billion annually on
 
-Parallel to this emphasis on gender diversity, companies are
+diversity eﬀorts. While the many beneﬁts of diverse teams have been
 
-increasingly adopting ﬂatter organizational structures, characterized
+widely studied, attracting a diverse talent pool has proven challenging
 
-by fewer managerial levels. Companies like Valve and Zappos are well-
+for some companies, and many groups, like women, remain severely
 
-known examples of ﬁrms that have eliminated traditional hierarchical
+underrepresented across industries. The push for gender diversity is
 
-roles, positioning ﬂat hierarchies as more egalitarian and ﬂexible
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-environments. To compete against established ﬁrms — which can oﬀer
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

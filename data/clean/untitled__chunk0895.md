@@ -1,5 +1,7 @@
-# chological Bulletin, 124, 75–111.
-
-Grotzer, T. A., & Perkins, D. A. (2000). Teaching of intelligence: A performance conception. In R. J. Sternberg (Ed.), Handbook of intelligence (pp. 492–515). New York: Cambridge University Press.
-
-Guilford, J. P. (1967). The nature of human intelligence. New York:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 228359f5f7072be8f7de327eec5ad8680bceef20
+title: untitled
+---
+## Grigorenko, E. L., & Sternberg, R. J. (1998). Dynamic testing. Psy-

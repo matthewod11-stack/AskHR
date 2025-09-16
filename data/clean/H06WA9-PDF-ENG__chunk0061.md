@@ -1,15 +1,21 @@
-## including GE, Deloitte, PwC, Cisco, and Procter & Gamble — have
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4150104bf7a22d7da71e970a5d2c14958b665c58
+title: H06WA9-PDF-ENG
+---
+# Embrace Mutual Learning
 
-developed “reverse mentoring” programs, where younger people teach
+Finally, to fully reap the beneﬁts of intergenerational teams, members
 
-older peers new skills, typically around technology. We suggest that
+must believe that they have something to learn from colleagues in
 
-companies and even managers of small teams combine both approaches
+diﬀerent age cohorts. The ultimate goal is mutual learning: peers of all
 
-into two-way “mutual mentoring.” Research shows that such programs
+ages teaching and learning from one another in an ongoing loop.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+One way to encourage this is with formal mentoring initiatives. While
 
-12
+traditional mentoring programs (older colleagues teaching younger
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ones) exist at many organizations, a number of top companies —

@@ -1,9 +1,9 @@
-# Recommendations
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 42b9aa30c5eee94d5b0475564fad079ff2cca196
+title: journal_of_european_industrial_training
+---
+## Journal of European Industrial Training 25/1 [2001] 5±32
 
-While the evidence is reassuring for organisations considering using 3608 feedback, there are a number of important issues that need to be considered to enable an organisation to adopt multi-rater feedback effectively, including: . The focus of the 3608 feedback process must be clear to all employees who are part of the feedback system ± the developmental nature of the programme must be clearly communicated and understood.
-
-. Clear guidance must be given to the
-
-recipients regarding what they should do with the feedback. This will usually require the organisation to put in place some form of development planning and career management processes to enable recipients to translate the feedback into appropriate development and career plans.
-
-. Raters must be afforded the opportunity to observe the various behaviours that are being rated; raters should be able to accurately perceive and interpret the salient aspects of the ratee's performance; and raters have to perceive the need to improve the effectiveness of the behaviour that is being assessed.
+proactive career behaviour and the degree to which the feedback report clarifies the actions that recipients need to take to address skill deficiencies. There is a dearth of empirical scrutiny of the extent to which the feedback is subsequently used by recipients to further their careers. The degree to which employees would accept the introduction of a 3608 feedback process and the antecedents to its success are areas which have been inadequately addressed in the literature.

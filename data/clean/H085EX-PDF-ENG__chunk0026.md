@@ -1,7 +1,11 @@
-## traditional top-down targets and bottom-up delivery model, leadership
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42fac7da966e55ef4270a9484ab64fa88ed4a80f
+title: H085EX-PDF-ENG
+---
+# its successful transformation.
 
-should adopt a middle-out approach. By harnessing the ingenuity and
+. . .
 
-creativity of an organization’s middle management, companies can
-
-develop the innovative solutions needed to unlock the full potential of
+It’s time to redeﬁne the approach to transformation. Instead of the

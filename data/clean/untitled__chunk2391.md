@@ -1,9 +1,13 @@
-# School Psychology Review, 15, 430–440.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0add22f6fa63aa23d2977e7771c68432889c7af4
+title: untitled
+---
+## Washington, DC: American Psychological Association.
 
-Fagan, T. K. (1987). Gesell: The ﬁrst school psychologist. Part 2: Practice and signiﬁcance. School Psychology Review, 16, 399– 409.
+Dunn, L. M. (1973). An overview. In L. M. Dunn (Ed.), Excep- tional children in the schools: Special education in transition (pp. 1–62). New York: Holt, Rinehart and Winston.
 
-Fagan, T. K. (1990). Research on the history of school psychology: Recent developments, signiﬁcance, resources, and future direc- tions. In T. R. Kratochwill (Ed.), Advances in school psychology (Vol. 7, pp. 151–182). Hillsdale, NJ: Erlbaum.
+English, H. B. (1938). Organization of the American Association of Applied Psychologists. Journal of Consulting Psychology, 2, 7–16.
 
-Fagan, T. K. (1993). Separate but equal: School psychology’s search for organizational identity. Journal of School Psychology, 31, 3–90.
-
-Fagan, T. K. (1994). Acritical appraisal of the NASP’s ﬁrst 25 years.
+Fagan, T. K. (1986). The evolving literature of school psychology.

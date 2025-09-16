@@ -1,15 +1,19 @@
-## an astonishingly good bureaucracy-reduction mechanism.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b10ba2b0b0f184824945d5ed8b2121c9d8f8c822
+title: H07T7V-PDF-ENG
+---
+# own the code.”
 
-Maybe the deepest thing that Nadella did was that he pulled oﬀ this
+And what he meant by that was you can’t be the gatekeeper. You can’t
 
-amazing feat of helping Microsoft become a less defensive organization.
+say yes or no to other groups who might want to use it. With that one
 
-What I mean by that was, he said in his interview with me, “We had
+simple move, he said to the company, “Look, if the AI group wants
 
-a culture where it was not OK to be wrong, to show any weakness, to
+to go grab all of the GitHub code to train up a model to help provide
 
-not hit your numbers, to not be the smartest person in the room.” He
+assistance to programmers, you don’t have to ask permission. Just go do
 
-said, “We just had that culture and it had to change.” He did a number
-
-of really brilliant things to move from a culture of defensiveness to a
+that, subject to all the right constraints and safeties on it.” Man, that is

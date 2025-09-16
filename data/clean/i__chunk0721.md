@@ -1,1 +1,17 @@
-## (cid:111) PAVANSUBHASH. (2014). IBM HR Analytics Employee Attrition & [Dataset].
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 0372787db214d0c44f1e2390732d45609d1e31c8
+title: i
+---
+## https://abo.finna.fi/Record/abo_electronic_aa.9913514103105972?sid=
+
+4080133394
+
+(cid:111) Mularz, C. M., & Ülkü, M. A. (2014a). Analytics for nonprofits. In IGI Global eBooks (pp. 1153123). https://doi.org/10.4018/978-1-4666-5202-
+
+6.ch012
+
+(cid:111) Mularz, C. M., & Ülkü, M. A. (2014b). Analytics for nonprofits. In IGI Global eBooks (pp. 1153123). https://doi.org/10.4018/978-1-4666-5202-
+
+6.ch012

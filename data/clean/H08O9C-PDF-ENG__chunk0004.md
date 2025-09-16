@@ -1,17 +1,7 @@
-## expensive and time-consuming—the average hourly rate for a career
-
-coach in 2023 was $272.
-
-With the emergence of generative AI platforms such as ChatGPT,
-
-Perplexity, DeepSeek, and Claude, many job seekers are turning to AI
-
-as an accessible, eﬃcient, and personalized alternative to traditional
-
-career coaches, even if they are already lucky enough to have a great
-
-human career coach. Quantifying the exact degree to which people are
-
-now using gen AI for career coaching is diﬃcult. However, some surveys
-
-suggest that as many as 65% of job seekers are using AI for help at some
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 416045657b431cbae2779ee4b7efc12271d60c49
+title: H08O9C-PDF-ENG
+---
+## HBR / Digital Article / Want to Use AI as a Career Coach? Use These Prompts.

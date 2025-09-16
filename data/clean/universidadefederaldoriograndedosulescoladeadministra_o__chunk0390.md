@@ -1,3 +1,19 @@
-# funcionário versar sobre o tópico que desejar, não sendo mais responsabilidade de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: e834a1acf696b925a3ccc5dee06b9b8ff86ecb87
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# elevando
 
-quem desenvolve o instrumento de pesquisa delimitar os assuntos de que tratam a
+consideravelmente a taxa de resposta, ainda que tenham aumentado a recorrência
+
+da coleta - de semestral para trimestralmente. Este relato da entrevistada encontra
+
+forte respaldo no que defende Legerstee (2013) quando ele afirma que o eNPS é
+
+uma métrica simples e também muito eficiente em manter mais curtas as pesquisas
+
+realizadas com funcionários, fator que influencia na taxa de resposta diretamente.
+
+Ainda, com a questão aberta complementar, foi possível dar espaço para o

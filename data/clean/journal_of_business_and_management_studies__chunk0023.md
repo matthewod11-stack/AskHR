@@ -1,3 +1,9 @@
-# JBMS 6(3): 47-59
+---
+source_path: journal_of_business_and_management_studies.md
+pages: n/a-n/a
+chunk_id: cd7430221727da3a64f87b44c21112290760bac1
+title: journal_of_business_and_management_studies
+---
+# Output:
 
-To substantiate the association between monthly income by attrition and department, the following code snippet was applied to generate the appropriate scatter plot:
+Page | 54

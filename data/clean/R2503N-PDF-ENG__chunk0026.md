@@ -1,27 +1,25 @@
-## HBR / Magazine Article / Are You Really a Good Listener?
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db9985fc6482db6756d368069f13b58dadcddf5a
+title: R2503N-PDF-ENG
+---
+# accountability.
 
-Listening is a cognitively and emotionally demanding activity. It takes
+Be transparent about what you can or cannot act on, and in all cases
 
-deliberate attention and eﬀort to avoid the ﬁve pitfalls we’ve described
+explain why. If you’re taking an employee’s suggestion, outline how
 
-here. But if you master this managerial skill, you will build stronger
+you want the team to make it happen. If a requested change can’t be
 
-relationships, foster greater trust, minimize misunderstandings,
+implemented because of budget constraints, company policy, or other
 
-and create opportunities for meaningful change. Don’t let haste,
+limitations, acknowledge that reality. Delineating the reasons behind
 
-defensiveness, invisibility, exhaustion, and inaction keep you from
-
-becoming a better listener and leader.
-
-A version of this article appeared in the May–June 2025 issue of Harvard Business Review.
-
-Jeffrey Yip is an assistant professor of management and organization studies at Simon Fraser University’s Beedie School of Business.
-
-Colin M. Fisher is an Associate Professor of Organizations and Innovation at UCL School of Management and the author of The Collective Edge: Unlocking the Secret Power of Groups (Avery). He has a PhD from Harvard Business School, and his research focuses on creativity and team dynamics.
+inaction can open the door to brainstorming alternative approaches.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-10
+9
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,23 @@
-# lawsuit.
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a744ec59113e5b200128c960c90c33cc2a212a9
+title: H08KUZ-PDF-ENG
+---
+## dollars in licensing and building some of the best technology solutions
 
-No speciﬁc details are provided, but such cyber resiliency analysis and
+in the airline industry” or “Delta is known for its customer service, reliability, and operational eﬃciency.”
 
-comparison needs to be performed in a systematic and rigorous manner
+On the other hand, CrowdStrike and Microsoft have made general,
 
-to ensure credible conclusions and apples-to-apples comparisons.
+controversial claims suggesting that Delta may have had an inferior
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+resiliency set-up compared to other leading airlines, resulting in
 
-6
+a longer time to recover following the incident: “Our preliminary
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+review suggests that Delta, unlike its competitors, apparently has not
+
+modernized its IT infrastructure, either for the beneﬁt of its customers
+
+or for its pilots and ﬂight attendants,” according to CrowdStrike’s

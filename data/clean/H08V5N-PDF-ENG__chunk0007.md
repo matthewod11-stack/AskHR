@@ -1,15 +1,25 @@
-## HBR / Digital Article / How to Sync Your Budget with a Strategic Plan
+---
+source_path: H08V5N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4dd4d72706eb1ef6cfe4a49bf8670bff51799e98
+title: H08V5N-PDF-ENG
+---
+# Step 1: Review How You Address Strategy
 
-departments, e.g., production, ﬁnance, HR, etc. This quickly morphs
+Your strategy is the absolute foundation for all your planning. If you
 
-into a detailed to-do list rather than a series of statements about the
+don’t get this right, anything you build on top of it, such as your budget,
 
-organization’s positioning. If that’s the case, it simply won’t succeed.
+is doomed to collapse. Your budget must be built on your strategy
 
-So, before setting oﬀ to design a budget or any further steps, you must
+framework, i.e., organized around the same concepts.
 
-revise your strategic plan to structure it around the key stakeholders on
+But what if your strategic plan is not strategic? This occurs if,
 
-which your company depends.
+for example, your strategic plan is structured around your internal
 
-To identify which are key, ask yourself whether the stakeholder has
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

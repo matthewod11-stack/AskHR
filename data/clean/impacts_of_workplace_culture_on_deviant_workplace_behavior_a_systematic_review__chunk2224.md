@@ -1,13 +1,25 @@
-# postgraduates. Sage Publications.
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: d8db89ed0d32766d6b84c42653ebcdcbe4c04450
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# Research and Public Health, 18(16), 8663. https://doi.org/10. 3390/IJERPH18168663
 
-Wang, Q., Lin, M. H., Narayan, A., Burns, G. N., & Bowling, N. A. (2022). A cross-cultural examination of the relation- ships between job attitudes and workplace deviance. Asia Pacific Journal of Management, 39(1), 249–272. https://doi. org/10.1007/s10490-020-09721-1
+Tiwari, M., & Jha, R. (2022). Narcissism, toxic work culture and abusive supervision: A double-edged sword escalating organizational deviance. International Journal of Organiza- tional Analysis, 30(1), 99–114. https://doi.org/10.1108/IJOA- 05-2020-2187/FULL/PDF
 
-Williams, L. J., & Anderson, S. E. (1991). Job satisfaction and organizational commitment as predictors of organizational citizenship and in-role behaviors. Journal of Management, 17(3), 601–617. https://doi.org/10.1177/014920639101700305 Wimbush, J. C., & Shepard, J. M. (1994). Toward an under- standing of ethical climate: Its relationship to ethical beha- vior and supervisory influence. Journal of Business Ethics, 13(8), 637–647. https://doi.org/10.1007/BF00871811
+Trevino, L. K. (1986). Ethical decision making in organizations: A person-situation interactionist Modelm Academy of Man- agement Review, 11(3), 601–617. https://doi.org/10.5465/ AMR.1986.4306235
 
-Wood, S., Stride, C., & Johnson, S. (2012). Personal and team morale in health services: Distinct and measurable concepts. Journal of Health Management, 14(4), 535–557. https://doi. org/10.1177/0972063412468981
+Valle, M., Kacmar, K. M., Zivnuska, S., & Harting, T. (2019). Abusive supervision, leader-member exchange, and moral disengagement: A moderated-mediation model of organiza- tional deviance. Journal of Social Psychology, 159(3), 299–312. https://doi.org/10.1080/00224545.2018.1466776 van Mujien, J. J., Koopman, P., de Witte, K., de Cock, G., Sasanj, Z., Lemoine, C., Bourantas, D., Papalexandris, N., Branyicski, I., Spaltro, E., Jesuino, J., das Neves, J. G., Pitariu, H., Konrad, E., Peiro, J., Gonzales-Roma, V., & Turnipseed, D. (1999). Organizational culture: The focus questionnaire. European Journal of Work and Organizational Psychology, https://doi.org/10.1080/ 135943299398168
 
-Xia, N., Zou, P. X. W., Griffin, M. A., Wang, X., & Zhong, R. (2018). Towards integrating construction risk management and stakeholder management: A systematic literature review and future research agendas. International Journal of Project Management, 701–715. https://doi.org/10.1016/J. IJPROMAN.2018.03.006
+8(4),
 
-36(5),
+551–568.
 
-Zakaria, E., Kamarudin, N. N., Mohamad, Z. S., Suzuki, M., Rathakrishnan, B., Singh, S., Singh, B., Rahman, Z. A., Sabramani, V., Shaari, A. H., & Kamaluddin, M. R. (2022). The role of family life and the influence of peer
+Vardi, Y., & Weitz, E. (2003). Misbehavior in organizations: research, and management. Psychology Press.
+
+Theory, https://doi.org/10.4324/9781410609052
+
+Victor, B., & Cullen, J. B. (1987). A theory and measure of ethi- cal climate in organizations. Research in Corporate Social Performance and Policy, 9, 51–71.
+
+Wallace, M., & Wray, A. (2016). Critical reading and writing for

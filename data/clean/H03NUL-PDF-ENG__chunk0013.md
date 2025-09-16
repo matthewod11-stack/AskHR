@@ -1,15 +1,39 @@
-# HBR / Digital Article / Tech Companies Should Speak Up for Refugees, Not Only High-S…
+---
+source_path: H03NUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7528c3c64dd35c9ff145436812f4fe00b9121384
+title: H03NUL-PDF-ENG
+---
+## leverage, due to the tight labor market in Silicon Valley.”
 
-The sector should extend these eﬀorts by making sure its technologies
+Consider how, a few days after Trump’s ﬁrst travel ban, thousands of
 
-aren’t used to target broad groups of people based on nationality or
+Google employees walked out of their jobs in a day of protest. Consider, too, how Uber suﬀered a PR crisis for seeming tone-deaf immediately
 
-religion. Already the U.S. Customs and Border Protection (CPB) is asking
+following the ban. Despite CEO Travis Kalanick’s statements in support
 
-for the social media accounts — even passwords — of visitors from
+of immigrants and refugees, many Uber employees and consumers were
 
-other counties. The Council on American-Islamic Relations has ﬁled
+furious that he still planned to attend Trump’s meeting of economic
 
-complaints against the CPB, stating that Muslim American citizens have
+advisors a few days later. In the wake of the #DeleteUber campaign that
 
-been subjected to enhanced screening that includes scrutiny of their
+followed, Kalanick stepped down from the advisory council.
+
+In recent years technology companies have tried to convey to the public
+
+that they will protect their consumers against government overreach.
+
+For example, Apple has refused to give government authorities a
+
+backdoor key to encrypted iPhones, and Microsoft recently won a
+
+federal case wherein it refused the U.S. government’s demands to hand
+
+over consumer data stored overseas.
+
+Copyright © 2017 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

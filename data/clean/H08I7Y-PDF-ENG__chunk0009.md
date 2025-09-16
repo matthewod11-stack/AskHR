@@ -1,11 +1,13 @@
-## Aligning Strategies and Motivation Styles
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4447fa04b8bfb1e3b2bc41c67b21f97e9fc1b95
+title: H08I7Y-PDF-ENG
+---
+# HBR / Digital Article / 3 Reasons Change Initiatives Fail — and How to Ensure Yours Su…
 
-Many leaders attempting transformation initiatives fail in three ways.
+the change-management investment. Impressed by these results, the
 
-First, they don’t clearly deﬁne the type of change their organization
+organization asked Debora to extend the ﬁve-step process throughout
 
-or departments are facing, which means they can’t clearly deﬁne
-
-their speciﬁc objectives. Second, they often apply a one-size-ﬁts-all
-
-strategy to their situation and don’t assess what sort of balance it calls
+the entire organization. In this article, we’ll brieﬂy sum up the process.

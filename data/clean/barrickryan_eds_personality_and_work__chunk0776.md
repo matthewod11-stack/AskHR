@@ -1,9 +1,13 @@
-## PERSONALITY IN PERSON-ORGANIZATION FIT RESEARCH 263
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: e6c5c77dc408bae300b08e934b4119399fc47334
+title: barrickryan_eds_personality_and_work
+---
+# CHAPTER 10
 
-tensive, PG ﬁt is discussed in Chapter Seven in this volume, and the role of personality in PO ﬁt assessment is less understood.
+Focusing on Personality in Person-Organization Fit Research Unaddressed Issues Ann Marie Ryan Amy Kristof-Brown
 
-Our goal in this chapter is not to review the literature on PO ﬁt. Indeed, several comprehensive reviews already exist (Judge & Kristof-Brown, in press; Kristof, 1996; Werbel & Gilliland, 1999). Considerable research has demonstrated that perceptions of PO ﬁt relate to important individual and organizational outcomes (for example, satisfaction, organizational commitment, extra-role be- haviors, organizational attraction, hiring decisions, turnover; Cable & Judge, 1997; Judge & Cable, 1997; Lauver & Kristof-Brown, 2002; Kristof-Brown, 2000; Verquer, Beehr, & Wagner, 2001). Instead, we discuss four pertinent issues regarding the role of personality in PO ﬁt.
+Kristof-Brown (2000) noted that one can distinguish person-job (PJ) ﬁt, or the match between an applicant’s knowledge, skills, and abilities and the job requirements, and person-organization (PO) fit, that is, the match between the person and broader organizational attributes. One of the primary foci of person-environment ﬁt re- search has been person-vocation (PV) ﬁt (Holland, 1985), or the match between an individual’s attributes and preferences and his or her occupation. Furthermore, researchers have recently begun to explore what could be labeled person-group (PG) ﬁt (Barrick, Stewart, Neubert, & Mount, 1998; Kristof-Brown & Stevens, 2001; Chapter Seven, this volume), or the ﬁt between a person and mem- bers of his or her immediate work group. In all of these types of ﬁt— PO, PJ, PV, and PG ﬁt—personality may play a role. Furthermore, there are relationships between these (with a poor PV ﬁt, one may also experience poor PJ ﬁt; poor PJ or PG ﬁt might negatively in- ﬂuence perceptions of PO ﬁt), although research has supported their distinctiveness (Kristof-Brown, 2000; Lauver & Kristof-Brown, 2002; Saks & Ashforth, 1997). We focus our chapter solely on PO ﬁt because research on PJ and PV ﬁt and personality is more ex-
 
-- Does PO ﬁt on personality even matter? • When is good PO ﬁt on personality bad, and when is bad PO ﬁt on personality good for individuals and organizations?
-
-- How accurate are personality PO ﬁt perceptions? • How does ﬁt relate to adaptability?
+262

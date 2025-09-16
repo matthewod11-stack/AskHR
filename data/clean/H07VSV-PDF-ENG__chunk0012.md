@@ -1,33 +1,19 @@
-# the project goals.
+---
+source_path: H07VSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f0df7fed7a04ecfcba3b85436dff74cb5246f57
+title: H07VSV-PDF-ENG
+---
+## Re-establish or re-define the project purpose, goals, and vision.
 
-Getting the team together to re-establish or re-deﬁne these goals can
+The project may not be going well because the organization’s goals and
 
-breathe a second life into the project — assuming the context hasn’t
+vision aren’t clear. In fact, a lack of clear goals is the most common
 
-changed so much that the project is no longer relevant. No one likes
+factor, leading to 37% of project failures. A changing internal and
 
-working on “road to nowhere.” Research from the Standish Group
+external organizational context could aﬀect the relevance of the project
 
-shows that more than 30% of projects will get cancelled prior to
+goals or stakeholder buy-in, as priorities shift. According to TeamStage,
 
-completion. According to Antonio Nieto-Rodriguez, author of HBR’s
-
-Project Management Handbook, “Consider revising the project charter
-
-if necessary.”
-
-As part of this process, make sure you have executive sponsorship for
-
-the project. The TeamStage study also shared that 62% of successfully
-
-completed projects had supportive sponsors. Nieto-Rodriguez shared
-
-that “Having a high-level executive articulate the project’s importance
-
-to the organization can give the team a renewed sense of purpose.”
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+44% of projects fail due to lack of alignment between the business and

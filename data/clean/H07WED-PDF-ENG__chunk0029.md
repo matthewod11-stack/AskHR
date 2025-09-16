@@ -1,13 +1,23 @@
-# this transformation.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9a96ae2f2dd414914c236741accc69e2630c32b
+title: H07WED-PDF-ENG
+---
+# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
 
-Dr. Susan Desmond-Hellmann is another example of a renowned leader
+Another great example is Satya Nadella, the CEO of Microsoft, who has
 
-with a background in leading transformative projects. She served as the
+roots in project management. Nadella joined Microsoft in 1992 and held
 
-CEO of the Bill & Melinda Gates Foundation, one of the world’s largest
+various leadership roles, including leading the company’s cloud and
 
-philanthropic organizations. In her role, she oversaw numerous projects
+enterprise division. His background in managing complex technology
 
-and initiatives to improve global health, reduce poverty, and expand
+projects and his strategic vision were instrumental in his appointment
 
-access to education. Prior to joining the foundation in 2014, she was
+as CEO in 2014. Under Nadella’s leadership, Microsoft transitioned
+
+into a cloud-ﬁrst, mobile-ﬁrst company and experienced signiﬁcant
+
+growth. His project management skills played a role in orchestrating

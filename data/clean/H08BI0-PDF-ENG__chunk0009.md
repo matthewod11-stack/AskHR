@@ -1,17 +1,9 @@
-## postpartum within the past ﬁve years, as well as survey validation work
+---
+source_path: H08BI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c61ca1e9249f533e5f60422f9828769c09da942c
+title: H08BI0-PDF-ENG
+---
+## What Postpartum Allyship Behaviors are Valuable to Mothers?
 
-with over 500 working mothers, all of whom were residing and working
-
-within the United States, we found four distinct types of allyship
-
-behaviors most valued during the reentry period:
-
-Co-navigating the HR infrastructure.
-
-This involves helping a postpartum mother beneﬁt from, or avoid being
-
-penalized by, HR policies. Examples include identifying policies that
-
-are relevant to parental leave and the reentry process, ﬁnding ways to
-
-extend parental leave time, and helping the mother advocate for her
+Through interviews with 45 working mothers who had returned to work

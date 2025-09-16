@@ -1,5 +1,9 @@
-# transfer
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 2399811ee2d183b64a394cc88b632dba91c0370d
+title: building
+---
+# operational data
 
-13
-
-This phase requires careful attention to change management and systematic documentation of best practices to enable successful replication of early wins.
+- Building internal capability through training and knowledge

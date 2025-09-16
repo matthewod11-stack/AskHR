@@ -1,64 +1,114 @@
+# ui/app.py
 import os
+import time
 import requests
 import streamlit as st
+from urllib.parse import urljoin
 from dotenv import load_dotenv
 
-# Load environment variables
 load_dotenv()
-API_PORT = os.getenv("API_PORT", "8000")
-API_URL = f"http://localhost:{API_PORT}"
+API_URL = os.getenv("API_URL", "http://localhost:8000")
+DEFAULT_MODEL = os.getenv("LLM_MODEL", "llama3.1:8b")
 
 st.set_page_config(page_title="Ask HR (Local)", layout="centered")
 st.title("Ask HR (Local)")
-st.caption("Stack: FastAPI, Ollama, Streamlit, Local RAG")
 
-# Sidebar controls
+# messages: list of {"role": "user"|"assistant", "content": str, "citations": list[dict]}
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+# ---------------- Sidebar options ----------------
 with st.sidebar:
     st.header("Options")
     k = st.slider("Top k results", 4, 12, 8)
+    model = st.text_input("Model", DEFAULT_MODEL)
+    grounded = st.checkbox("Grounded only", value=False)
+
     if st.button("Health Check"):
         try:
             resp = requests.get(f"{API_URL}/health", timeout=10)
             resp.raise_for_status()
-            st.success("API healthy!")
+            st.success(resp.json())
         except Exception as e:
-            st.error(f"Health check failed: {e}")
+            st.toast(f"Health check failed: {e}", icon="⚠️")
 
-# Main chat UI
-if "chat" not in st.session_state:
-    st.session_state.chat = []
+# ---------------- Helpers ----------------
+def stream_tokens(text: str, delay: float = 0.002):
+    """Client-side visual streaming for a completed answer."""
+    for tk in text.split():
+        st.write(tk + " ", end="", unsafe_allow_html=True)
+        time.sleep(delay)
 
-query = st.text_input("Enter your HR question:")
-ask = st.button("Ask")
+def norm_url(u: str) -> str:
+    """Normalize API-relative URLs to absolute so the browser can open them."""
+    if not u:
+        return ""
+    return urljoin(API_URL, u) if u.startswith("/") else u
 
-def call_ask(q, k):
-    r = requests.post(
-        f"{API_URL}/v1/ask",
-        json={"query": q, "k": k},
-        timeout=60,
-    )
-    r.raise_for_status()
-    return r.json()
+def render_citations(citations):
+    """Render citation objects: display_name + Open / Download PDF links."""
+    if not citations:
+        return
+    with st.expander("Citations"):
+        for c in citations:
+            label = c.get("display_name") or c.get("open_url") or "Source"
+            open_url = norm_url(c.get("open_url", ""))
+            pdf_url = norm_url(c.get("pdf_url", ""))
 
-if ask and query.strip():
+            parts = []
+            if open_url:
+                parts.append(f"[Open]({open_url})")
+            if pdf_url:
+                parts.append(f"[Download PDF]({pdf_url})")
+
+            suffix = " • ".join(parts) if parts else ""
+            if suffix:
+                st.markdown(f"- **{label}** — {suffix}")
+            else:
+                st.markdown(f"- **{label}**")
+
+# ---------------- Transcript (input stays at bottom) ----------------
+for msg in st.session_state.messages:
+    with st.chat_message("user" if msg["role"] == "user" else "assistant"):
+        if msg["role"] == "assistant":
+            st.markdown(msg.get("content", ""))
+            render_citations(msg.get("citations", []))
+        else:
+            st.markdown(msg.get("content", ""))
+
+# ---------------- Chat input ----------------
+prompt = st.chat_input("Ask about your HR corpus…")
+if prompt:
+    st.session_state.messages.append({"role": "user", "content": prompt})
+
     try:
-        data = call_ask(query.strip(), k)
-        st.session_state.chat.append(("you", query.strip()))
-        st.session_state.chat.append(("ai", data.get("answer", ""), data.get("citations", [])))
-    except Exception as e:
-        st.error(f"Error: {e}")
+        r = requests.post(
+            f"{API_URL}/v1/ask",
+            json={
+                "query": prompt.strip(),
+                "k": k,
+                "system": None,
+                "grounded_only": grounded,
+                "model": model,
+            },
+            timeout=120,
+        )
+        r.raise_for_status()
+        data = r.json()
 
-# Render chat
-for turn in st.session_state.chat:
-    role = turn[0]
-    if role == "you":
-        st.markdown(f"**You:** {turn[1]}")
-    else:
-        answer = turn[1]
-        citations = turn[2] if len(turn) > 2 else []
-        st.markdown("**AI:**")
-        st.write(answer)
-        if citations:
-            with st.expander("Citations"):
-                for c in citations:
-                    st.code(c)
+        answer = data.get("answer", "")
+        citations = data.get("citations", [])
+        if not isinstance(citations, list):
+            citations = []
+
+        st.session_state.messages.append(
+            {"role": "assistant", "content": answer, "citations": citations}
+        )
+        # re-render to keep the newest message in view and stream tokens
+        st.experimental_rerun()
+
+    except requests.HTTPError as he:
+        detail = he.response.text if getattr(he, "response", None) else str(he)
+        st.toast(f"API error: {detail}", icon="❌")
+    except Exception as e:
+        st.toast(f"Request failed: {e}", icon="❌")

@@ -1,17 +1,11 @@
-# terms of their current employment.
+---
+source_path: H08J8Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 336663c55e2703c4a9463bc0526e89ade9fe4096
+title: H08J8Z-PDF-ENG
+---
+## HBR / Digital Article / Research: Do New Hires Really Understand Your Policies?
 
-While 52% of hiring managers thought their most recent hire was
+employment. We then surveyed a group of employees and asked them
 
-fully informed of the terms of their employment and 65% thought
-
-they had fully consented to these terms, only 20% of employees felt
-
-fully informed of the terms of their employment and only 39% felt
-
-that they had fully consented to them. Further, employees who felt
-
-uninformed at the outset of their roles were more likely to disengage,
-
-perceive their workplace as unfair, and develop strained relationships
-
-with supervisors. They were also more likely to consider quitting.
+the extent to which they had truly understood and consented to the

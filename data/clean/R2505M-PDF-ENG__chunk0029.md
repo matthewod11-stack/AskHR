@@ -1,41 +1,33 @@
-## HBR / Magazine Article / Why You Need Systems Thinking Now
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3098df05c299f57f274da4e7545b0863b340b7ae
+title: R2505M-PDF-ENG
+---
+## A Streamlined Approach to Systems Thinking
 
-Construction workers don’t want a drill; they want a hole in the wall.
+To reap the advantages of systems thinking you don’t need to precisely
 
-Music lovers don’t want to own recordings of their favorite songs; they
+model a complex adaptive system. Instead, you can develop a general
 
-just want to listen to them. Systems thinking, by contrast, focuses on
+understanding of critical patterns in the system and then collaborate
 
-the company’s role in some desired future state—one that cannot be
+with actors in the ecosystem to test simple ideas. The goal is to
 
-achieved without changes to the many diﬀerent parts of the system.
+experiment, not to make wholesale, potentially catastrophic changes. A
 
-In our workshops we start by helping a company articulate its North
+good nudge will often inspire new ideas that can transform the system.
 
-Star—what it wants the system to deliver—and what its own role will
+Our streamlined approach to systems thinking has four key steps.
 
-be in that new system. This helps the company frame discussions with
+- 1. Deﬁne your desired future state. Standard practice in design
 
-the stakeholders that will also have roles in the future state and whose
+thinking, and to some extent in breakthrough thinking, is to address
 
-cooperation is needed for the system—and the company—to progress
+the “job to be done” or the “unarticulated need” of the customer.
 
-toward the North Star. It also keeps innovation activities within the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-system from going awry. Disparate groups of individuals (within the
+7
 
-same organization or from diﬀerent organizations) can build on one
-
-another’s eﬀorts so that innovation doesn’t become a disconnected or
-
-conﬂicting set of activities.
-
-Design thinking cuts through complexity by focusing primarily on the users of the product or service being designed.
-
-Consider the case of Maple Leaf Foods. In 2019, then-CEO Michael
-
-McCain launched an eﬀort to refresh the Canadian meat-processing
-
-company’s purpose. He recognized that while the processed-food
-
-industry served consumers by creating cheap and tasty products, it
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

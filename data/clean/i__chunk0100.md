@@ -1,7 +1,17 @@
-# for the organization.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: d66b810d29aabde3b17cc547d0e9479089f5f9c7
+title: i
+---
+## 2.3.3 Five Stages of People Analytics Development
 
-Ferrar and Green (2021) describe the development of PA by <five ages=: Discovery,
+Human Resources (HR) is not limited to HR operations; it is centered around the business and
 
-Realization, Innovation, Value and a prediction for the future, which is the age of Excellence
+plays an important role as a business center, not just a cost center. Similarly, people analytics
 
-19
+transcends not only the measurement of HR activities as visualized in scorecards or dashboards
+
+but also the presentation of intriguing insights or interesting pieces of information. Instead, its
+
+primary purpose is to contribute to achieving tangible outcomes and delivering concrete results

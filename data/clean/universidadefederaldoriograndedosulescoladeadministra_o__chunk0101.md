@@ -1,15 +1,25 @@
-# pesquisadores (MATTOS et al., 2019).
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 03cf0fc9687175a9461f902d2e6461d92dc1212e
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## É importante compreender que o percurso metodológico pode ser flexibilizado
 
-Luz (2003) define que o processo de gestão do clima organizacional pode ser
+para a escolha de fatores que observem mais adequadamente as características
 
-dividido nas seguintes etapas: 1) autorização para aplicação da pesquisa pela
+12
 
-direção; 2) planejamento da pesquisa e de suas etapas; 3) definição das variáveis
+próprias da organização analisada. Não há uniformidade sobre as dimensões a
 
-do instrumento de coleta de dados; 4) montagem e validação do instrumento; 5)
+serem utilizadas nas pesquisas de clima (KUBO et al., 2015; FRANÇA; MATTOS,
 
-parametrização em conformidade com os critérios estabelecidos; 6) divulgação da
+2017). Assim, os estudos apresentam um amplo e variado conjunto de dimensões e
 
-pesquisa para o público-alvo; 7) aplicação e coleta de dados; 8) tabulação de dados;
+indicadores de mensuração. Essa peculiaridade faz com que os modelos sejam
 
-- 9) emissão de relatórios; 10) divulgação dos resultados alcançados; 11) definição
+fundamentados em diferentes perspectivas organizacionais sob medida, como forma
+
+de adequar os instrumentos de coleta de dados às especificidades da organização,
+
+aos objetivos das pesquisas, ou ainda às diferentes perspectivas teóricas dos

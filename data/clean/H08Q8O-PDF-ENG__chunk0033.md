@@ -1,25 +1,29 @@
-# something that matters to him.
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2423ae0e07542f1ea978bec668134df3da0b91a3
+title: H08Q8O-PDF-ENG
+---
+## Leaning into these questions, Carlos Mendes Gonçalves, CEO of Casa
 
-Turning to what works, CMG has implemented a process to make sure the employees could make the shift to a four-day week eﬀectively. After
+Mendes Gonçalves (CMG), one of the largest producers of vinegar and sauces in the Iberian Peninsula, has taken a very diﬀerent approach
 
-research on other companies that had made this move (discovering
+from leaders who have adopted a blanket approach to RTO. In multiple
 
-none in their industry), they started with a six-month pilot with 10–15
+interviews with him, we have observed that his approach to hybrid
 
-people, which they are currently rolling out across the organization.
+working and communicating with employees is consistent with what
 
-Then, asking what matters, CMG has planned a study to listen to
+you would expect from a leader guided by an ethics of care.
 
-their employees, pre-pilot and afterward, to understand not only their
+First, asking what is right, Gonçalves wondered how he could on the one
 
-professional needs but also their emotional and social needs. This has
+hand ask the 350 factory workers to be on-site ﬁve days a week while oﬀering a hybrid model for the 100 employees in the oﬃce. So when
 
-meant training managers to conduct in-person discussions because, as
+the new HR director joined in September 2024, Gonçalves told her that
 
-CMG’s HR director stresses, it is key that the managers themselves are
+she needed to implement a four-day week in the factory to compensate
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+for the fact that factory workers cannot beneﬁt from hybrid work. This
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+way, Gonçalves reasons, both groups get a boost to their well-being,

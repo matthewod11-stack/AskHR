@@ -1,15 +1,13 @@
-# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b12c48747a6ea057ec77343baef3631d3f6dc126
+title: H07RVB-PDF-ENG
+---
+# Totally. Yeah.
 
-ADI IGNATIUS:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Another question from the audience. This is from Ben from Chicago. I
+13
 
-don’t know if you’ve thought about this, but now that many of us are
-
-working remotely or on a hybrid basis, how can we create and sustain a
-
-strong authentic workplace when we’re dispersed the way we are now?
-
-JIM FIELDING:
-
-Thank you, Ben, for this question. This is a very real-world challenge
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

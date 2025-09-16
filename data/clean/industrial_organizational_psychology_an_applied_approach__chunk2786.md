@@ -1,1 +1,15 @@
-## Figure 12.2 Consequences of leader orientation
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 19e03d60bdf524aebced2ccbee3e5f60b628e5d9
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Task Orientation
+
+about their families, do not look over their shoulder, and use a more “hands-off” approach to leadership. Under pressure, person-oriented leaders tend to become socially withdrawn (Bond, ).
+
+Task-oriented leaders such as task-centered leaders, Theory X leaders, and leaders high in initiating structure define and structure their own roles and those of their subordinates to attain the group’s formal goals. Task-oriented leaders see their employees as lazy, extrinsically motivated, wanting security, undisciplined, and shirking responsibility. Because of these assumptions, task-oriented leaders tend to manage or lead by giving directives, setting goals, and making decisions without consulting their subordinates. Under pressure, they become anxious, defensive, and dominant (Bond, ). Interestingly, task-oriented leaders tend to produce humor (e.g., tell jokes and stories), whereas person-oriented leaders tend to appreciate humor (e.g., listen to others’ jokes) (Philbrick, ). As shown in Figure ., when using the terms from Figure ., the best leaders (team) are both task and person oriented, whereas the worst (impoverished) are neither task nor person oriented. Some leaders (middle-of-the-road) have moderate amounts of both orientations.
+
+A meta-analysis by Judge, Piccolo, and Ilies () found that higher scores on consideration or on initiating structure were associated with such posi- tive leadership criteria as follower satisfaction and group performance. The relationships between person orientation (consideration) and follower satisfac- tion, follower motivation, and ratings of leadership effectiveness were higher than the relationships between task orientation (initiating structure) and these same three leadership criteria.
+
+A leader’s task or person orientation can be measured by several instruments, two of which are the Leadership Opinion Questionnaire (LOQ) and the Leader Behavior Description Questionnaire (LBDQ). The LOQ is filled out by super- visors or leaders who want to know their own behavioral style. The LBDQ is completed by subordinates to provide a picture of how they perceive their leader’s behavior. A meta-analysis by Eagly and Johnson () indicated that in laboratory studies, women were more likely to have a person orientation and less likely to have a task orientation than were men. They did not find any such difference in studies that were conducted in actual organizations. They did, how- ever, find small gender differences in that women were more likely to use a more participative approach and men more likely to use a more autocratic approach.

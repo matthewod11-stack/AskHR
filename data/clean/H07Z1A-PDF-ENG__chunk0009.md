@@ -1,31 +1,15 @@
-# across the business.
+---
+source_path: H07Z1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86cd53bc829fcf974ff7b70adfda600673be68ce
+title: H07Z1A-PDF-ENG
+---
+## HBR / Digital Article / How to Lead Across a Siloed Organization
 
-Sadly, this is not an isolated example. In a recent CEO research study
+The team kicked oﬀ the meeting by saying: “We’re sorry, but we’ve spent
 
-we conducted, we interviewed a dozen CEOs of mid- to large-size
+extensive time on this and we’re stuck. We haven’t ﬁgured out how to
 
-companies. There was one key challenge every CEO mentioned: their
+work together to make this happen.” The CEO was stunned, and thus
 
-frustration at not being able to get their executive teams to work
-
-together. “I’m the only one who thinks about the entire company,” one
-
-CEO lamented, “and despite my best eﬀorts, each of my executives is
-
-only concerned with their own function or team.”
-
-It’s long been recognized that cross-functional collaboration is
-
-essential. Still, stubborn silos that bog down execution, hamper
-
-innovation, and slow decision-making are still a common and persistent
-
-challenge. In our work with company leaders, we’ve found that without
-
-leaders working together at the top, silos and dysfunction are inevitable.
-
-The onus is therefore on senior leaders to knock down these silos —
-
-moving beyond their ability to lead their own teams to also prioritize
-
-leading across the organization.
+began a months-long process of building the leaders’ ability to lead

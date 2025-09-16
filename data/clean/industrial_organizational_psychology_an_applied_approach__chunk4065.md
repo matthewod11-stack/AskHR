@@ -1,13 +1,21 @@
-## Balfour, D. L., & Wechsler, B. (1996). Organizational
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2e71ed5a651c2b03cead9d290dce5f23fd0a61c6
+title: industrial_organizational_psychology_an_applied_approach
+---
+# New York: McGraw-Hill.
 
-commitment: Antecedents and outcomes in public organizations. Public Productivity and Management Review, 29, 256–277.
+Bahls, J. E. (1998). Drugs in the workplace. HR Magazine, 43(2),
 
-Baltes, B. B., Briggs, T. E., Huﬀ , J. W., Wright, J. A., & Neuman, G. A.
+81–87.
 
-(1999). Flexible and compressed workweek schedules: A meta-analysis of their eﬀ ects on work-related criteria. Journal of Applied Psychology, 84(4), 496–513.
+Baldridge, D. C., & Veiga, J. F. (2001). Toward a greater under-
 
-Balzer, W. K., & Sulsky, L. M. (1992). Halo and performance
+standing of the willingness to request an accommodation: Can requesters’ beliefs disable the Americans with Disabilities Act? Academy of Management Review, 26(1), 85–99.
 
-appraisal research: A critical examination. Journal of Applied Psychology, 77(6), 971–986.
+Baldwin, T. T., & Ford, J. K. (1988). Transfer of training: A review and directions for future research. Personnel Psychology, 41, 63–105.
 
-Bandura, A. (1977). Social learning theory. Englewood Cliﬀ s, NJ:
+Baldwin, T. T., Magjuka, R. J., & Loher, B. T. (1991). Th e perils
+
+of participation: Eﬀ ects of choice of training on trainee motivation and learning. Personnel Psychology, 44, 51–65.

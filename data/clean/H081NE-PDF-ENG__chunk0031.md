@@ -1,9 +1,13 @@
-## feel comfortable enough with a new work colleague to share personal
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff5cd038a5c02b9910bfaa528449bbb216847632
+title: H081NE-PDF-ENG
+---
+## to professional relationships across cultures because some cultures
 
-information with them. This is exempliﬁed by the fact that Germans
+(and personalities) are quick to develop an initial working trust and
 
-often wait for a long time before even using the more familiar form of
+then get down to business right away, while others might be slower
 
-the pronoun “you” (which is “du”) — defaulting instead to the more
-
-formal version (“sie”) until the time is right. You just don’t typically
+to open up. In Germany, for example, it generally takes a while to

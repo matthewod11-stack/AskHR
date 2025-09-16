@@ -1,21 +1,49 @@
-## Redesign your business (and workforce) model.
+---
+source_path: H08QBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 651d73d48dbcfc188c24d4ffe6f6b815bcc935dc
+title: H08QBY-PDF-ENG
+---
+## HBR / Digital Article / Agentic AI Is Already Changing the Workforce
 
-This requires envisioning new ways to procure and deploy talent,
+taxonomy of AI capabilities that map to your common roles not
 
-including full-time employees, temporary hires, freelancers, and AI.
+only in, say, data validation or call-center functions but also other
 
-To do that, you’ll need to consider multi-tiered models such as client-
+roles, including marketing analyst, customer-support rep, scheduling
 
-owned digital labor (you license or build your own AI solutions,
+coordinator, and so on. Language models might excel at drafting
 
-eﬀectively bringing “digital employees” in-house); leased digital labor
+marketing copy, but specialized computer-vision agents might be
 
-(you “rent” AI agents from a third party, in a manner akin to traditional temp staﬃng); and fully outsourced AI subdepartments (you partner
+best for quality checks in manufacturing. By creating a capabilities
 
-with a vendor that runs entire processes, such as order fulﬁllment or
+“catalogue,” you can avoid a one-size-ﬁts-all approach. In procurement
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+terms, this is your RFP for AI solutions. Know which models solve which problems, and partner with staﬃng or technology vendors that can
 
-4
+prove domain expertise. This ensures you’re not paying top dollar for
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+AI hype that may not match the actual needs of the business.
+
+Integrate your hybrid team.
+
+If you want AI agents and human teams to work well together, you need
+
+crystal-clear role boundaries. So, develop a hybrid-workforce strategy in
+
+which you deﬁne which tasks AI will own, which tasks people will own,
+
+and how the escalation of problems should happen. For example, if an
+
+AI customer-service agent receives a complaint about a complex billing
+
+dispute that concerns an amount above a certain dollar threshold, a
+
+rule might automatically route it to a human specialist. By documenting
+
+roles, protocols, and “hand-oﬀ” points when responsibilities shift in
+
+a workﬂow from one party to another, you build trust across your
+
+organization, preventing conﬂict or duplication.

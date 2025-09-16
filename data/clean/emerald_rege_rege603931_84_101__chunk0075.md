@@ -1,7 +1,9 @@
-# Bastos, A.V.B.
+---
+source_path: emerald_rege_rege603931_84_101.md
+pages: n/a-n/a
+chunk_id: 4af07200a91b755769f586e21540c2fe26b5de95
+title: emerald_rege_rege603931_84_101
+---
+## Bardin, L. (2008), Análise de conteúdo, Editora, Lisboa, p. 70.
 
-Bastos, A.V.B., Brandão, M.G.A. and Pinho, A.P.M. (1997), “Comprometimento Organizacional: uma análise do conceito expresso por servidores universitários no cotidiano de trabalho”, Revista de Administração Contemporânea, Vol. 1 No. 2, pp. 97-120, doi: 10.1590/S1415-65551997000200006. (2008), “Comprometimento Organizacional”, in Siqueira, M.M.M. (Ed.), Chapter 4, Medidas do Comportamento Organizacional, Bookman, Porto Alegre, pp. 54-72.
-
-Bastos, A.V.B., Siqueira, M.M.M., Medeiros, C.A.F. and Menezes, I.G.
-
-Burguess, S., Lane, S. and Stevens, L. (2001), “Churning dynamics: an analysis of hires and separations
+(1993), “Comprometimento Organizacional: um balanço dos resultados e desafios que cercam essa tradição de pesquisa”, Revista de Administração de Empresas, Vol. 33 No. 3, pp. 52-64, doi: 10.1590/S0034-75901993000300005.

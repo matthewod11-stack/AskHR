@@ -1,17 +1,19 @@
-# Foster.
+---
+source_path: F2503A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36cd1d363fd798be9adec2d5d2b7bc5b49a495c4
+title: F2503A-PDF-ENG
+---
+## Amirhossein Zohrehvand (Leiden University) wanted to determine
 
-“AI and automation are having a major eﬀect on how and where we
+whether employees could distinguish between messages written by AI
 
-work,” Choudhury says. “But when we think about the next frontier
+and those written by Zapier CEO Wade Foster. Using a large language
 
-for generative AI, one of the possibilities is that personal bots will
+model developed by the company’s employees, Choudhury and his
 
-communicate, attend meetings, listen in, and speak on our behalf. We
+colleagues trained a chatbot on Foster’s Slack and email messages,
 
-wanted to determine the extent to which this might be possible today.”
+public statements, and other communications. The “Wade Bot,” as the
 
-The researchers crowdsourced questions for Foster to reply to from 105
-
-employees. The CEO and the Wade Bot both produced answers, then
-
-employees tried to tell them apart. They correctly identiﬁed AI-written
+researchers began calling it, was speciﬁcally designed to write like

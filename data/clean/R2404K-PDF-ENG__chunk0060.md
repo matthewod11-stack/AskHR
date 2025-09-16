@@ -1,13 +1,7 @@
-# Talent
-
-GROWTH DRIVER MODEL (Example: independent accelerator collaborating with a large corporation and investors)
-
-Mediated: Higher-risk products are developed by trusted teams with assurance of fit.
-
-Minimized: R&D costs are off balance- sheet, and price is preset below M&A value.
-
-Maximized: Collaboration with the accelerator to develop products fills in portfolio gaps.
-
-Moderated: Development teams have autonomy, but accelerator teams guide efforts toward the corporation’s needs.
-
-Mobilized and motivated: Talent can focus on what it does best.
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce2a3d7b7a205deb2f31b2298bb4dace7449d784
+title: R2404K-PDF-ENG
+---
+# Control

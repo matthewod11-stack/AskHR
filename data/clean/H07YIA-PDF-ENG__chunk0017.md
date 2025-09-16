@@ -1,17 +1,17 @@
-# to the challenge.
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ff882518e487e7050c1175dfcc843c77d39b8d6
+title: H07YIA-PDF-ENG
+---
+# future managers and leaders.
 
-One way to standardize this process is to create a mentorship
+- 2. Set expectations with mentees early.
 
-contract for each mentee outlining your expectations. Communicating
+Working with a great mentee is rewarding for everyone. Conversely, a
 
-expectations clearly from the beginning can prevent onboarding of
+mentee who does not follow through on expectations or whose vision
 
-uncommitted mentees. Examples of expectations include timing of
+does not align with yours exacerbates mentor fatigue. The lack of
 
-response to emails, frequency of meetings, and speciﬁc areas that are “oﬀ limits” for discussion. Another approach to standardizing
-
-your hiring and ﬁring practices is to give mentees a set number
-
-of opportunities to demonstrate their commitment based on the
-
-established expectations. The number of opportunities granted is determined by you, which oﬀers ﬂexibility in your approach to
+objective guidelines on when to end a mentor-mentee relationship adds

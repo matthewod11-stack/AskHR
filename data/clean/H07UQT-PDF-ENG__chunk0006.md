@@ -1,13 +1,7 @@
-## HBR Staff; Caspar Benson/Getty Images; Unsplash
-
-Most multigenerational family businesses eventually arrive at the same
-
-decision point: the current generation realizes it needs to hire a non-
-
-family-member to run the business.
-
-This could happen for a range of reasons. Perhaps no members of
-
-the next generation are interested. Maybe none have cultivated the
-
-necessary skills or experience. Perhaps the family has begun to look to
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a29951d3095be188c2b44e4f4b773442960e0b1a
+title: H07UQT-PDF-ENG
+---
+## Published on HBR.org / October 25, 2023 / Reprint H07UQT

@@ -1,3 +1,9 @@
-# AS
+---
+source_path: H08QAO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b276e4b615cf2a926aec7d6f879999af68220aff
+title: H08QAO-PDF-ENG
+---
+# of a more inclusive workforce.
 
-Almasa Sarabi is an assistant professor at Amsterdam Business School, University of Amsterdam (a.sarabi@uva.nl). She studies employment relationships with a focus on gender disparities in hiring and career advancement.
+This article was originally published online on May 16, 2025.

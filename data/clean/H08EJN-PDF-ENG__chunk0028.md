@@ -1,13 +1,7 @@
-# Politely Push Back
-
-You don’t want to be thought of as someone who refuses change, but
-
-constantly bending to the whims of your boss’s last-minute muses
-
-doesn’t serve you well either.
-
-If you greet perpetual pivots with “no problem!” you are a willing
-
-partner in this very frustrating dance. There’s a middle ground, between
-
-toddler-level stubbornness and staying awake until midnight to rework
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac835a4748c9d8fbcce1274c0db2f340404e77e5
+title: H08EJN-PDF-ENG
+---
+# conﬁdently close the loop.

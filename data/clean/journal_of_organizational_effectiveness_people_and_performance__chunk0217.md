@@ -1,3 +1,9 @@
-## performance”, Journal of Applied Psychology, Vol. 88, pp. 500-517.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 09b4c7664d34f1c62ef2879095e31fd9f10e7fbf
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# Tett, R.P. and Burnett, D.D.
 
-Tims, M., Bakker, A.B. and Derks, D. (2012), “Development and validation of the job crafting
+(2003), “A personality trait-based interactionist model of job

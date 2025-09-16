@@ -1,13 +1,9 @@
-## 2 With assistance of his team at Bain company. 3
+---
+source_path: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis.md
+pages: n/a-n/a
+chunk_id: 6ecc4d8787232560e8b1f592ea2fc0b6e9af3a45
+title: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis
+---
+# Development of the NPS
 
-F. Reichheld, The One Number You Need to grow, “Harvard Business Review”, December 2003, vol. 81(12), pp. 46–54, https://pubmed.ncbi.nlm.nih.gov/14712543/ (accessed: 7.12.2019). Ibidem, p. 1. D. B. Grisaffe, Questions about the Ultimate Question: Conceptual Considerations in Evaluat- ing Reichheld’s Net Promoter Score (Nps), “Journal of Consumer Satisfaction, Dissatisfaction & Complaining Behavior” 2007, vol. 20, pp. 36–53. F. F. Reichheld, S. R. Covey, The ultimate question: Driving good profits and true growth, vol. 211, Harvard Business School Press, Boston 2006. B. Temkin, Is Net Promoter Score A Savior Or A Demon?, 2015, https://experiencematters.bl og/2015/07/09/is-net-promoter-score-a-savior-or-a-demon/ (accessed: 7.12.2019). A. Pogrebniak, 15 Net Promoter Score Statistics You Need to Know in 2019, Lumoa 2018, Re- search, https://lumoa.me/blog/net-promoter-score-statistics (accessed: 7.12.2019). F. Reichheld, The One Number…, p. 3.
-
-4 5
-
-6
-
-7
-
-8
-
-9
+Reichheld, in his text, is rather modest when it comes to the description of his methodology. He mentions that the research took 2 years and “the ‘would recom- mend’ question generally proved to be the most effective in determining loyalty and predicting growth”9. What we know, is that the author of the NPS was look- ing for correlation between the survey questions and business results based on over 4000 surveys.

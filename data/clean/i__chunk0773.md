@@ -1,9 +1,15 @@
-## dynamic capabilities. Journal of Business Research, 70, 3563365.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 3c63bb2428f939b0e761165f20e307f00bb82c8e
+title: i
+---
+# (cid:111) Walford-Wright, G., & Scott
 
-https://doi.org/10.1016/j.jbusres.2016.08.009
+Jackson, W. (2018). Talent Rising; people
 
-93
+analytics and technology driving talent acquisition strategy. Strategic Hr
 
-(cid:111) Waters, S. D., Johnson-Murray, R., Streets, V. N., & McFarlane, L. (2015). The Practical Guide to HR Analytics: Using Data to Inform,
+‐
 
-Transform,
+Review, 17(5), 2263233. https://doi.org/10.1108/shr-08-2018-0071 (cid:111) Wamba, S. F., Gunasekaran, A., Akter, S., Ren, S. J. F., Dubey, R., & Childe, S. J. (2017). Big data analytics and firm performance: Effects of

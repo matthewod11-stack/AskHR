@@ -1,27 +1,55 @@
-# Bottom 20%
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7e658748f05b213d63479c4d496ddd8a28656257
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Next 20%
 
-21 16 12 09 05 30 24 19 14 10
+30%
 
-39 33 28 22 16 48 44 37 25 25
+40%
 
-59 54 49 42 36
+.20 .30 .40 .50 .60 .20 .30 .40 .50 .60
 
-was ., the average test score of the other  applicants was ., and the stan- dard deviation of all test scores was .. The desired figure would be:
+40 46 51 58 64 51 57 63 69 75
 
-. − . __________ .
+34 35 37 38 40 45 46 48 50 53
 
-= . ___ .
+29 29 28 27 26 40 40 39 39 38
 
-= .
+26 24 21 18 15 35 33 31 28 24
 
-The second way to find m is to compute the proportion of applicants who are hired and then use a conversion table such as that in Table . to convert the pro- portion into a standard score. This second method is used when an organization plans to use a test and knows the probable selection ratio based on previous hirings, but does not know the average test scores because the organization has never used the test. Using the previous example, the proportion of applicants hired would be:
+50%
 
-number of applicants hired _______________________ total number of applicants
+60%
 
-=  ____ 
+.20 .30 .40 .50 .60 .20 .30 .40 .50 .60
 
-= .
+61 67 73 78 84 71 76 81 86 90
 
-From Table ., we see that the standard score associated with a selection ratio of . is .. To determine the savings to the company, we use the following formula:
+55 57 59 62 65 63 66 69 72 76
 
-Savings = (n) (t) (r) (SDy) (m) − cost of testing (# of applicants × the
+50 50 50 50 50 60 61 61 62 62
+
+45 43 41 38 35 56 54 52 47 47
+
+70%
+
+.20 .30 .40 .50 .60
+
+79 84 88 91 95
+
+75 78 79 82 85
+
+70 71 72 73 74
+
+67 65 63 62 60
+
+Note: Percentages indicate probability that applicant with a particular score will be a successful employee.
+
+Source: “Expectancy charts II: Their theoretical development,” C. H. Lawshe and R. A. Brune, 1958, Personnel Psychology, 11, 545–599.
+
+the employee’s annual salary (Hunter & Schmidt, ). The % rule yields results similar to more complicated methods and is preferred by managers (Hazer & Highhouse, ). To obtain this, the total salaries of current employees in the position in question should be averaged. . Mean standardized predictor score of selected applicants (m). This number is obtained in one of two ways. The first method is to obtain the average score on the selection test for both the applicants who are hired and the applicants who are not hired. The average test score of the nonhired applicants is subtracted from the average test score of the hired applicants. This difference is divided by the standard deviation of all the test scores.
+
+For example, we administer a test of mental ability to a group of  applicants and hire the  with the highest scores. The average score of the  hired applicants

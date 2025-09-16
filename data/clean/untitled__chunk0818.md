@@ -1,11 +1,19 @@
-# Intelligence
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6848a2d4946bc6bd62dd17974ff77083a1568179
+title: untitled
+---
+## Thurstone’s Theory of Primary Mental Abilities
 
-- 4. Memory—the ability to remember strings of words, let- ters, numbers, or other symbols or items. This ability is measured by serial- or free-recall tests.
+Louis L. Thurstone, like Spearman, was an ardent advocate of factor analysis as a method of revealing latent psycho- logical structures underlying observable test performances. Thurstone (1938, 1947) believed, however, that it was a mistake to leave the axes of factorial solutions unrotated. He believed that the solution thus obtained was psychologi- cally arbitrary. Instead, he suggested rotation to what he re- ferred to as simple structure, which is designed to clean up the columns of a factor pattern matrix so that the factors display either relatively high or low loadings of tests on given factors rather than large numbers of moderate ones. Using simple-structure rotation, Thurstone and Thurstone (1941) argued for the existence of seven primary mental abilities.
 
-- 5. Perceptual speed—the ability rapidly to recognize letters, numbers, or other symbols. This ability is measured by proofreading tests, or by tests that require individu- als to cross out a given letter (such as A) in a string of letters.
+- 1. Verbal comprehension—the ability to understand verbal material. This ability is measured by tests such as vocabu- lary and reading comprehension.
 
-- 6. Inductive reasoning—the ability to reason from the speciﬁc to the general. This ability is measured by tests such as letters series (“What letter comes next in the fol- lowing series? b, d, g, k, . . . .”) and number series (“What number comes next in the following series? 4, 12, 10, 30, 28, 84, . . .”).
+- 2. Verbal ﬂuency—the ability involved in rapidly producing words, sentences, and other verbal material. This ability is measured by tests such as one that requires the examinee to produce as many words as possible in a short amount of time beginning with a certain letter.
 
-- 7. Spatial visualization—the ability involved in visualizing shapes, rotations of objects, and how pieces of a puzzle would ﬁt together. This ability is measured by tests that re- quire mental rotations or other manipulations of geometric objects.
+- 3. Number—the ability to compute rapidly. This ability is measured by tests requiring solution of numerical arith- metic problems and simple arithmetic word problems.
 
-The argument between Spearman and Thurstone was not resoluble on mathematical grounds, simply because in ex- ploratory factor analysis, any of an inﬁnite number of rota- tions of axes is acceptable. As an analogy, consider axes used to understand world geography (Vernon, 1971). One can use lines of longitude and latitude, but really any axes at all could be used, orthogonal or oblique, or even axes that serve differ- ent functions, such as in polar coordinates. The locations of points, and the distances between them, do not change in Euclidean space as a result of how the axes are placed. Be- cause Thurstone’s primary mental abilities are intercorre- lated, Spearman and others have argued that they are nothing more than varied manifestations of g: Factor-analyze these factors, and a general factor will emerge as a second-order factor. Thurstone, of course, argued that the primary mental abilities were more basic. Such arguments became largely polemical because there really neither was nor is any way of resolving the debate in the terms in which it was presented. Some synthesis was needed for the opposing thesis of g ver- sus the antithesis of primary mental abilities.
+141
+
+142

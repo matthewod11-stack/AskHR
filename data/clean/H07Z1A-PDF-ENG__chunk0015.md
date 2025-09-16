@@ -1,11 +1,25 @@
-# picture success:
+---
+source_path: H07Z1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46c2aaef4f401cd01dc37fab5ebbc39720e0280b
+title: H07Z1A-PDF-ENG
+---
+## What Sets Successful Cross-Functional Leaders Apart
 
-- They think enterprise-ﬁrst, consistently putting enterprise objectives
+Leaders who thrive cross functionally possess what we call “lateral
 
-above functional, team, or personal goals. They are more selﬂess than
+agility,” or the ability to move side to side quickly while maintaining
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+their balance. They spend as much time leading across the organization
 
-3
+as they do with their own teams. In organizations, this means eﬀectively
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+partnering with leaders of diﬀerent departments to further enterprise
+
+goals, while maintaining a focus on their own group’s objectives. Here
+
+are three traits these high-performing leaders have in common.
+
+Expanded mindsets. High-performing, cross-functional leaders
+
+embrace expanded mindsets that lean on humility to activate bigger

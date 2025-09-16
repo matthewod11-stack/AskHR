@@ -1,7 +1,17 @@
-# like the technology sector.
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b519d5bc8164ac34087bd257aa1fd8652d249511
+title: H07DLJ-PDF-ENG
+---
+# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
-- How to constructively combat imposter syndrome, and actually use its
+but a sponsor who will put their own career on the line to advance that
 
-energy to fuel your drive.
+of someone they believe in.
 
-- How Ancestry uses cutting-edge technologies to help families tell their
+HBR editor in chief Adi Ignatius sat down with Liu in this episode of our
+
+video series “The New World of Work” to talk about:
+
+- How women can survive and thrive in stereotypically “bro” industries

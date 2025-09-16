@@ -1,9 +1,13 @@
-# Rosenthal,R.,Hiller,J.B.,Bornstein,R.F.,Berry,D.T.R.,&Brunell- Neuleib,S.(2001).Meta-analyticmethods,theRorschach,andthe MMPI. PsychologicalAssessment, 13, 449–551.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bd1068c22de503f43b20f30fe1b560dd7bdc1569
+title: untitled
+---
+# ing. New York: Guilford Press.
 
-Rotter, J. B., Lah, M. I., & Rafferty, J. E. (1992). Manual: Rotter In- complete Sentences Blank (2nd ed.). Orlando, FL: Psychological Corporation.
+Rohde, A. R. (1946). Explorations in personality by the sentence completion method. Journal of Applied Psychology, 30, 169– 181.
 
-Rotter, J. B., & Wickens, D. D. (1948). The consistency and gener- ality of ratings of social aggressiveness made from observations of role playing situations. Journal of Consulting Psychology, 12, 234–239.
+Rohde, A. R. (1948). A note regarding the use of the sentence com- pletion test in military installations since the beginning of World War II. Journal of Consulting Psychology, 12, 190–193.
 
-Ryan, J. J., & Ward, L. C. (1999). Validity, reliability, and stan- dard errors of measurement for two seven-subtest forms of the Wechsler Adult Intelligence Scale–III. Psychological Assess- ment, 11, 207–211.
-
-Spitzer, R. L., Endicott, J., & Robins, E. (1978). Research diagnos- tic criteria: Rationale and reliability. Archives of General Psychiatry, 35, 773–782.
+Rorschach, H. (1942). Psychodiagnostics: A diagnostic test based on perception. New York: Grune & Stratton. (Original work pub- lished 1921)

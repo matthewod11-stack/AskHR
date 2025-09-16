@@ -1,23 +1,17 @@
-## employee survey results or after all-staﬀ meetings.
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dba09c6985607819909b051bd74b7890ea9ac907
+title: R2503N-PDF-ENG
+---
+# understanding. For example, you might
 
-- 4. Exhaustion
+say, “So what I’m hearing is that you’re
 
-Exhaustion is a silent killer of eﬀective listening. When leaders are
+concerned about the deadline because it might not allow enough time
 
-physically or emotionally drained, they lose their capacity to focus,
+for testing.” This approach not only reassures the speaker that you’re
 
-process, and engage productively with employees. Imagine a boss who
+attentive but helps prevent any misunderstandings. C-suite leaders can
 
-has just ﬁnished back-to-back meetings and skipped lunch and is now
-
-on a late-afternoon call with a team member sharing a pressing concern.
-
-Despite being present physically, her attention drifts, and she’s unable
-
-to respond thoughtfully.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+also use it in emails or other corporate communications after receiving

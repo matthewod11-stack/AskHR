@@ -1,11 +1,15 @@
-## job-matching platforms—such as Upwork and Fiverr—can instantly
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7221a134ac1065a6964b6c05931e1b4712c05c52
+title: R2403D-PDF-ENG
+---
+# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
 
-match highly skilled candidates with employers’ needs. Some platforms
+Talented workers have sought ﬂexible work for some time, but it’s only
 
-are hyperspecialized, such as A.team and People Analytics, which
+recently that the downsides traditionally involved in freelancing have
 
-serve engineers and data scientists. Technology also now provides
+been addressed. Independent work used to be an unreliable source of
 
-administrative and other support to independent workers, whether it’s
-
-virtual fractional accountants, tax apps, or AI for managing email and
+income that was heavily dependent on personal networks, but today

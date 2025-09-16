@@ -1,7 +1,13 @@
-## HBR / Spotlight Article / Teamwork at the Top
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fafecfec5a44f63a545fc3233467b81b10ed63db
+title: S24053-PDF-ENG
+---
+# Matt Stevens
 
-To break the cycle, the regional CEO scheduled a series of top-team oﬀ-sites designed to build personal relationships and foster mutual
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-empathy—two key enablers of collaboration. The ﬁrst meeting started
+9
 
-with the team sharing stories that highlighted their values and past
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

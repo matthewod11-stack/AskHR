@@ -1,27 +1,43 @@
-## myopic view of the world through one’s own function or region.
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 040dffff898a54931d5f08c8e608299fdb33ad07
+title: H08TA2-PDF-ENG
+---
+# HBR / Digital Article / Why Senior Leaders Should Stop Having So Many One-on-Ones
 
-This creates four core problems:
+truth: The more 1:1 meetings senior executives have, the more
 
-Fragmented governance
+fragmented and functionally siloed the organization can become.
 
-Each 1:1 functions like a mini steering committee, but with no one else
+It might be easy to conclude that Melissa should have known better not
 
-in the room. Governance becomes informal and duplicative, requiring
+to assume her functional VPs had consulted with key peers impacted by
 
-rework and follow-up meetings just to keep others up to speed. Worse,
+their decisions, or that she simply should have said, “Before we move
 
-viewpoints that weren’t considered in the initial 1:1 then surface later
+ahead, why don’t you loop John in to make sure this doesn’t cause any
 
-on, leading to friction that could have been avoided. When too much
+issues for him.” Fair enough. But even if that had happened, it wouldn’t
 
-time is spent in fragmented meetings, there’s little left for the work that
+entirely eliminate the challenges of fragmentation caused by executive
 
-only senior leaders can do: stewarding enterprise priorities, developing
+1:1s. And worse, it may have led to ﬁve additional meetings she would
 
-talent, and advancing culture.
+have had to referee.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+At the executive level, no meaningful decision exists in a vacuum. As
 
-3
+was the case with Melissa’s team, what the engineering VP does is
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+signiﬁcantly impacted by a decision the VP of marketing makes. The VP
+
+of operations’ decision had signiﬁcant implications for the VP of quality.
+
+Yet Melissa’s meetings with those key leaders resulted in decisions—and
+
+assumptions—that others didn’t hear, couldn’t weigh in on, or later
+
+had to be retroactively briefed about. There was no intended malice or
+
+attempt to usurp others’ inﬂuence. Just the natural centrifugal force of a

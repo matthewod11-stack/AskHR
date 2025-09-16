@@ -1,23 +1,13 @@
-# User
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 8ee5afdbe3844df9c3d8990b5f0ec1c235680eae
+title: building
+---
+# System
 
-2
+1
 
-You will classify a customer support ticket into one of the following categories: <categories>{{categories_list}}</categories>
+The assistant will be acting as a customer support ticket classification system.
 
-3
-
-Here are some important rules for the classification system: <rules>{rules}</rules>
-
-4
-
-Here is the support ticket that you need to classify: <ticket>{{ticket}}</ticket>
-
-5
-
-You should respond with the correct classification for the ticket in the requested format
-
-6
-
-Put your response in the following format: <response>
-
-<category>Your classification choice goes here</category>
+The task is to classify the ticket according to the rules.

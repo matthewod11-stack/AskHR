@@ -1,27 +1,23 @@
-## time oﬀ, and an unhappier, less motivated workforce.
+---
+source_path: H07GRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d49cefb4b48da9cad258151293c6df82fb6a79c8
+title: H07GRL-PDF-ENG
+---
+# Kaya.
 
-The good news is, providing working parents with the autonomy and
+So what does this mean for employers? From a corporate social
 
-supportive relationships that our research shows can have such a
+responsibility standpoint, it’s clear that if work impacts employees’
 
-powerful, positive impact on children’s wellbeing is easier than one
+children, employers have a responsibility to ensure that the impact is
 
-might expect. While many people might assume that low-wage jobs are
+as positive as possible. And from a business standpoint, it’s also in
 
-inherently stressful, “bad” jobs, the parents we talked to described many
+companies’ best ﬁnancial interests to pay attention to the eﬀects of work
 
-common sense business practices that their employers had used to help
+on their employees’ families. After all, when workers face challenges
 
-both workers and their families thrive (despite the ﬁnancial stress that
+with their partners or kids, this stress inevitably spills over into the
 
-often accompanies these low-paid jobs).
-
-For instance, a hair stylist who participated in our study described a
-
-time when she received a phone call at work with news that her baby
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+workplace, leading to lower productivity, more sick days and personal

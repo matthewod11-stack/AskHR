@@ -1,5 +1,9 @@
-# Comments
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 67bcec16f8d7d95ae0b53e723bb6130a7806fa64
+title: performance_management_3rd_edition_by_aguinis
+---
+# Factors
 
-A. KEY RESPONSIBILITIES SPECIFIC TO THIS JOB Performs key responsibilities as articulated in the job description.
-
-(may give a global rating OR insert here essential functions as listed in the job description, include them by reference in an attached copy of the job description, or paraphrase from the job description)
+Rating (bold or underline to select)

@@ -1,11 +1,13 @@
-# (constant)
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: d6ad1591edf59e06bb5d023d5d66dc8dc6827089
+title: file_1
+---
+# F for total
 
-3.105
+3.031
 
-.075
+.049
 
-.000
-
-3.116
-
-.073
+3.864

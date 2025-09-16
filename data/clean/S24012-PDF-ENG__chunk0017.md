@@ -1,11 +1,19 @@
-## HBR / Spotlight Article / Leaders Must React
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b8af6f6268c799e5e8190be0855d433637f8db5
+title: S24012-PDF-ENG
+---
+# The Reactive Management Framework
 
-See more HBR charts in Data & Visuals on HBR.org.
+My matrix contains four quadrants: normal noise, clarion calls, whisper
 
-Normal noise: Small issues likely to remain small.
+warnings, and siren songs. Let’s look at the kinds of events that belong in
 
-The leader’s task: Don’t get drawn in.
+each one and how leaders should approach them.
 
-A certain level of unpredictability and variability is natural in any
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-organization’s internal and external environment. This generates a
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

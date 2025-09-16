@@ -1,11 +1,29 @@
-# housework.
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f9ab89a6673fd852045b9c1dc607fd67c10b8afe
+title: H08AOU-PDF-ENG
+---
+## around 50% for women of color, and 43% of Black women.
 
-If these diﬀerentials don’t seem notable to you, think again. Bias is
+At the same time, high-proﬁle work is only one side of the story: Women
 
-like compound interest — even small amounts add up over time to be career-deﬁning. A 5% diﬀerential can have devastating consequences: A
+also tend to be burdened with the non-promotable oﬃce housework:
 
-computer simulation study demonstrated that when a company starts
+administrative work, like scheduling meetings; literal housework, like
 
-out with equal numbers of men and women at the lowest level, if there’s
+cleaning up; emotion work, like being the peacemaker; or routine
 
-a 5% gender bias built in at each level, only 2% of the C-suite will be
+everyday work that needs to be done but does not typically lead
+
+to promotion. Women of all races report doing more of the oﬃce
+
+housework than men, and our research has found the gap is large, on
+
+average around 20 percentage points. Women in general, and women
+
+of color even more so, are routinely placed in a position where they
+
+have to work extra hours in order to have the same amount of time
+
+for high-proﬁle work while carrying a disproportionate load of oﬃce

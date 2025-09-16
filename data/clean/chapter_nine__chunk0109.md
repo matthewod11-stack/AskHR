@@ -1,11 +1,15 @@
-## patient care. Nursing Standard. Vol. 24. No. 30. pp 70-71.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: fe9e143906e32151a72c66159b63d6b62fd61b6a
+title: chapter_nine
+---
+## Management Review. Vol. 16. No. 1. pp 21-29.
 
-Mahony, K. (2000) Faith in the ‘cultural fix’: limits to a planned cultural change programme in a rural
+Lieshout van, F., Cardiff, S. (2011) Dancing outside the ballroom: innovative ways of analysing data with practitioners as co-researchers. In: Higgs, J., Titchen, A., Horsfall, D., Bridges. (2011) Creative Spaces for Qualitative Researching: Living Research. Rotterdam: Sense Publishers.
 
-health service. Australian Health Review. Vol. 23. No. 4. pp 187-196.
+Lok, P., Westwood, R., Crawford, J. (2005) Perceptions of organisational subculture and their
 
-Manley, K., Hardy, S. (2005) Improving Services to Patients through Ongoing Development of Critical Care Teams. A project report commissioned by the Department of Health (England). London September.
+significance for organisational commitment. Applied Psychology. Vol. 54. No. 4. pp 490-514.
 
-Manley, K. (1997) A conceptual framework for advanced practice: an action research project operationalising an advanced practitioner/consultant nurse role. Journal of Clinical Nursing. Vol. 6. No. 3. pp 179-190.
-
-Manley, K., McCormack, B. (1999) Practice Development in Action: Philosophy, Processes, Activities
+Maben, J. (2010) The Feelgood Factor. Evidence for a link between staff wellbeing and the quality of

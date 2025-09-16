@@ -1,27 +1,25 @@
-# and management capabilities.
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5855b6f72e27dde1544a3739429f8ca07c4043ff
+title: R2404K-PDF-ENG
+---
+## Second, again in partnership with the outside investor, the corporation
 
-The model is most eﬀective when created as an active partnership
+sets up an oﬀ-balance-sheet “accelerator” company that identiﬁes and
 
-between a corporation and an external investor, as that enables
+builds out the innovation projects for which the corporation will be
 
-the accelerator to leverage the capital and resources at its disposal.
+the customer. Finally, innovations are developed. As the accelerator
 
-Typically, the partner will be an investment institution—and most
+takes form, corporate leaders, investor partners, and the accelerator’s
 
-likely a private equity ﬁrm—because those investors have experience
+management team identify a pipeline of “growth drivers”—products
 
-working closely with large corporations. VC ﬁrms are less-ideal partners
+and services that will generate long-term revenue growth in markets
 
-because they are more interested in highly disruptive innovations and
+where the ﬁrm is already established or in closely adjacent markets.
 
-prefer to manage the risk of such investments through diversiﬁcation.
+The corporation then establishes an operating model for these new
 
-Institutional investors tend to be passive investors and are not focused
-
-on management in the way that this model requires.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+products that leverages its existing sales, manufacturing, regulatory,

@@ -1,3 +1,7 @@
-# DN
-
-Duc Duy Nguyen is a lecturer in Banking and Finance at the University of St Andrews. His research interests lie at the intersection of empirical corporate ﬁnance, ﬁnancial intermediation, and labor economics.
+---
+source_path: H048OW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ca3ca7c5596aece068262cd86ca5813a722af33
+title: H048OW-PDF-ENG
+---
+# business world.

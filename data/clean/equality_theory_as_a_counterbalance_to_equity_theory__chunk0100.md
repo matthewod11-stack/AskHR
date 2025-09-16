@@ -1,5 +1,11 @@
-# Press.
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: e34a5c01e5745accd327bf48bc89a7fb320067d6
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# Harvard Business Review, 85, 77–84.
 
-Yaeger, T. F., Head, Thomas C., & Sorensen, P. F. (2006). Global organization development: Managing unprecedented change. Charlotte, NC: Information Age Publishing.
+Warren, A. S. (1986). Quality of work life at GM. In J. M. Rosow (Ed.), Teamwork: Joint labor-management programs in America (pp. 119–132). New York, NY: Pergamon Press.
 
-Zuboff, S., & Maxmin, J. (2004). The support economy: Why corporations are failing individuals and the next episode of capitalism. New York: Penguin.
+Williamson, O. (1975). Markets and hierarchies. New York: Free

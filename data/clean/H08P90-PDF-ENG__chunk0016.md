@@ -1,19 +1,33 @@
-# HBR / Digital Article / To Drive Innovation, Create the Conditions for Serendipity
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f1dd5e1dc3ee325ca2d29ab3a6a83e827b780b7
+title: H08P90-PDF-ENG
+---
+## (Mourou, Strickland, Kurtz, Juhasz, and Du) received the Golden Goose
 
-design spaces that make it easy for them to connect. Steve Jobs, Apple’s
+Award. This prize honors scientists whose federally funded research
 
-famous co-founder, argued, in connection with his design choices for
+has led to unexpected innovations with a signiﬁcant impact on society.
 
-Pixar’s headquarters, that: “There’s a temptation in our networked
+Without the combined expertise of physicists and ophthalmologists,
 
-age to think that ideas can be developed by email and iChat—that’s
+there would have been no femtosecond laser eye surgery. Physicists
 
-crazy. Creativity comes from spontaneous meetings, from random
+had searched for practical applications of femtosecond lasers, but they
 
-discussions. You run into someone, you ask what they’re doing, you say
+couldn’t come up with an innovative idea.
 
-‘Wow,’ and soon you’re cooking up all sorts of ideas.”
+Within companies, employees with diverse areas of expertise are often
 
-Following his lead, many companies have designed their headquarters
+spread across diﬀerent departments. This makes cross-disciplinary
 
-to encourage serendipitous interactions. A standout example is Nvidia,
+collaboration unlikely to happen naturally. To make spontaneous
+
+interactions a part of employees’ daily routines, companies should
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

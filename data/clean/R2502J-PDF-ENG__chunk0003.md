@@ -1,15 +1,13 @@
-## unrealistic goals. Despite clear evidence of misconduct, company
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c9bcd4d0f11f9309d84488cbf540d2d637b409e
+title: R2502J-PDF-ENG
+---
+# Dan Saelinger/Trunk Archive
 
-leaders ignored the behavior, according to the Department of Justice
+From 2002 to 2016, Wells Fargo employees exploited the bank’s sales
 
-civil settlement agreement. The bank eventually paid more than $3.7
+incentive program. They opened millions of unauthorized accounts and
 
-billion in ﬁnes. Top executives settled as well, including one who was
-
-sentenced to home conﬁnement as part of a criminal plea deal.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+enrolled customers in fee-incurring services to meet management’s

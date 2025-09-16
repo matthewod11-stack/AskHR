@@ -1,31 +1,25 @@
-## uncomfortable questions during executive town halls—on camera, with
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1986e2b6e7bf9ef8a665be86ee032f25e50811b1
+title: H08VNO-PDF-ENG
+---
+# risk.
 
-no pre-screening. Within three quarters, internal trust scores rose 32%.
+One European tech ﬁrm tried to address this by launching anonymous
 
-Employees said they didn’t just feel heard—they saw that being heard
+Q&A forums and encouraging open challenge. On paper, the move
 
-made a diﬀerence.
+looked progressive. But 83% of employees from marginalized groups
 
-The takeaway is simple but often overlooked: people speak when it’s
+reported never submitting a question. When asked why, they cited
 
-safe, when it matters, and when speaking leads to change. Culture isn’t
+a lack of psychological safety and concern that anonymity wouldn’t
 
-built by soliciting feedback—it’s built by how leaders respond when that
+protect them from informal backlash. The format had changed—but the
 
-feedback is hard to hear.
+power dynamics hadn’t.
 
-Too often, silence is misread as consensus. But in high-power-distance
+After rethinking its approach, the company introduced a reverse Q&A
 
-cultures, silence is more likely to signal disengagement, fear, or learned
-
-helplessness. Real alignment starts with acknowledging that people
-
-won’t raise the hard stuﬀ unless you actively make room for it—and
-
-protect them when they do.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+format. Employee councils selected and read aloud the most critical,

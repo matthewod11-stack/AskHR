@@ -1,13 +1,13 @@
-## HBR / Digital Article / It’s Time to Reimagine Scale
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 254f312f2ac951658f59fa8803b2553f12b9f696
+title: H08HGJ-PDF-ENG
+---
+# back to the region.
 
-As their success has grown, many have pushed Hieatt to expand
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-into other product lines. But at a recent conference for “Makers and
+6
 
-Mavericks,” Hieatt challenged the assembled group: Can a company
-
-scale in other ways than size? For example, in impact? Since this
-
-time, Huit Denim has become an advocate for treating employees well,
-
-dealing with microplastics, and manufacturing sustainably.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

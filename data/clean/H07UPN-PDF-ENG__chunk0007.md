@@ -1,17 +1,29 @@
-## HBR / Digital Article / Is Your Team Overworking But Underperforming?
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ef79d6de669dbbc97031aa86e375bf1413caa29
+title: H07UPN-PDF-ENG
+---
+# Toshiro Shimada/Getty Images
 
-make us feel productive, but it leads to stagnation. When we’re focused
+We’re taught from an early age that hard work is important. What
 
-only on execution, we respond to challenges by pedaling harder,
+we’re not taught is that hard work comes in two equally important
 
-working more hours, hiring more people, and at times even cutting
+forms: eﬀort to perform and eﬀort to improve.
 
-corners. None of this is enough to keep up with the fast pace of change,
+When we have a murky understanding of the two types of eﬀort, our
 
-so we still feel behind.
+lengthy to-do lists tend to trap us in chronic eﬀorts to perform —
 
-When we switch our lens to include eﬀorts to improve, entering what I
+a relentless drive to execute tasks as best as we know how, trying
 
-call the “learning zone,” we can get things done in ways that make us
+to minimize mistakes. I call this the “performance zone,” where we
 
-more eﬀective. Not only does this result in better outcomes, it makes
+develop tunnel vision, focusing only on getting things done. This might
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

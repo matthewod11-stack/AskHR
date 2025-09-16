@@ -1,15 +1,21 @@
-# Williams, 2001).
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 40e0fc634b6b76e3e2ce16f46c651274d3a52062
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-We note that a meta-analysis by de Jong et al. (2016) revealed that cognitive and
+performance and OCB. This constitutes an important finding as debate continues about the
 
-affective team trust predicted team performance to a similar extent. Our findings paint a
+extent to which these bases of trust are empirically distinct (van Knippenberg, 2018). From a
 
-different picture for trust in the leader at the individual level. Specifically, we found evidence
+SET perspective, our findings suggest that affective trust is particularly powerful for
 
-that affective trust in the leader is a more powerful predictor of OCB and performance
+facilitating the exchange process between a leader and follower. Indeed, Colquitt and
 
-compared to cognitive trust suggesting that, in the context of a relationship with one’s leader,
+colleagues (2014) identified affective trust as one of the most ‘content-valid indicators of
 
-affective trust may be more critical. This may be symptomatic of differences in how the
+social exchange relationships’ (p. 609). Further, such a finding is consistent with the view
 
-social exchange relationship operates in leader-follower exchange relationships compared to
+that affective trust represents a more enduring and powerful form of trust (McAllister, 1995;

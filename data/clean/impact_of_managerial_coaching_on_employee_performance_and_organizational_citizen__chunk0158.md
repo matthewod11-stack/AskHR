@@ -1,5 +1,7 @@
-# relationship between man
-
-Li, M., Li, M., Liu, W., Liu, W., Han, Y., Han, Y., & Zhang, P. (2016). Linking empowering leadershipL and change-oriented organizational citizenship behavior: The role of thriving at work and autonomy orientation. Journal of Organizational Change Management, 29(5), 732-750.
-
-Liu, X., & Batt, R. (2010). How supervisors influence performance: A multilevel study of mediated services. Personnel coaching and group management Psychology, 63(2), 265-298.
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: c948bff20b20fa51acb5e4fc0120c9eac4ee35bd
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# (1965). Reciprocation: The

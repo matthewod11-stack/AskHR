@@ -1,11 +1,15 @@
-# world.
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 410f95890cefb5435ac792c46f93add2b4096176
+title: R2504A-PDF-ENG
+---
+# board.
 
-A version of this article appeared in the July–August 2025 issue of Harvard Business Review.
+We are proud to have become a symbol of national pride in Kazakhstan.
 
-Mikhail Lomtadze is the CEO of Kaspi.kz.
+We believe we can ﬁnd success in other areas of our region by
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+continuing to focus relentlessly on improving customers’ lives. And we
 
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hope to inspire other companies to do the same in their own parts of the

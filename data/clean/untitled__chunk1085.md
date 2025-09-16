@@ -1,3 +1,13 @@
-# The Mental Hygiene Movement
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4d63f5fd1c563c40270650f7ff537be02ce72fa5
+title: untitled
+---
+## the close connection between sociology and social work:
 
-Inspired by a case study—the autobiography of a former patient (Beers, 1908)—the mental hygiene movement was organized in 1909 to reform the treatment of patients in men- tal institutions. The movement soon became a powerful coalition of psychiatrists, educators, and social workers who attributed various social and personal problems to individual maladjustment (see Cohen, 1983; Danziger, 1990, 1997; Lubove, 1965; Parker, 1991). Expanding their goals to in- clude the identiﬁcation of potential cases of maladjustment, mental hygiene workers made “personality” the focus of their preventive and therapeutic efforts, which frequently involved interdisciplinary teams of experts undertaking intensive case studies of “troublesome” children in settings such as child guidance clinics (W. Healy, 1915; Jones, 1999). Psychiatrists typically screened clients for medical disorders and con- ducted psychotherapy, and social workers contributed case
+Sociology and social work took a long time to become disentan- gled; in the 1920s people called social workers were equally or even more likely to carry out empirical research, and university sociologists very frequently drew on their case data whether or not it had been collected for research purposes. (Platt, 1996, p. 46)
+
+Social workers’ interest in personality during this period is illustrated by social work theorist Mary Richmond’s insis- tence that the “one central idea” of social casework was “the development of personality” (1922, p. 90). Richmond and other social workers (e.g., Shefﬁeld, 1920) wrote inﬂuential works on case study methods.
+
+In the sociological literature of this period, the term “case study” referred not only to the number of cases and the inten- siveness with which they were studied but also to a “special kind” of data (Platt, 1996, p. 46). “Case study” was often used interchangeably with “life history” and “personal docu- ments”; these methods were seen as giving “access to the subjects’ personal meanings, while alternatives [were] seen as dry, narrow and giving access only to external data” (p. 46). Exemplifying this usage, sociologist John Dollard applied his Criteria for the Life History (1935) to several different types of “life history,” deﬁned as “an autobiography, biography or clinical history” or “even a social service case history or a psychiatric document” (p. 265). Dollard’s work also reﬂected sociologists’interest in reﬁning and standardiz- ing case methods.

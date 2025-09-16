@@ -1,9 +1,13 @@
-## of operator accidents and that the implementation of this biometric
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8613693de4d5221354b38793a11b4c1b22063317
+title: H08QRZ-PDF-ENG
+---
+# protects job autonomy and security.
 
-data collecting system has signiﬁcantly improved worker safety. Given
+For example, Caterpillar deployed a system of cameras and sensors to
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+track the pupil sizes and eye movements of tractor operators to monitor
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+driver fatigue. The company notes that fatigue leads to nearly two thirds

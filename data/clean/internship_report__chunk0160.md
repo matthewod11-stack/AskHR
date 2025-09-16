@@ -1,3 +1,7 @@
-# Experience:
-
-Good command on leadership & English both speaking & writing, Grievance handling capability & Ability to take under pressure, Expert on Computer Operation System (MS Office, Internet, HRMIS) Draft writing skills with reporting Minimum 04 years practical experience on HR and Admin Operational works
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: fd1b9276abf443f38b579eef3f11d520b7f57445
+title: internship_report
+---
+# Skills:

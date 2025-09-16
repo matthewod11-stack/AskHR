@@ -1,5 +1,9 @@
-## assess those candidates, conﬂicts of interest arise, because search ﬁrms
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1c21796ed97faca9eed20544cb6a0d9325fb8f3
+title: H08UV9-PDF-ENG
+---
+# size-ﬁts-all reports.
 
-get paid when an executive is placed. Furthermore, most mid-sized companies—even PE ﬁrms—cannot oﬀer the deal ﬂow that qualiﬁes
-
-them for the best, most customized support from search ﬁrms; they’re often served by diﬀerent people for each search, which can reduce
+Search ﬁrms are invaluable for sourcing candidates, but when they also

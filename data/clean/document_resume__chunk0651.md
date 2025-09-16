@@ -1,9 +1,7 @@
-# p.
-
-- 9. N R. F. Meier. Appuns* Performance (La Jolla, CA. University Associates,
-
-Inc., 1976).
-
-- 10. Norman Cousins, "The Hersey Episode," Saturday Revien (January 1977).
-
-11.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: f6c4f842937c91878fdc1f294036c37bd6f9e6a4
+title: document_resume
+---
+# Goodall. Wilson, and Waagen, op cit

@@ -1,11 +1,15 @@
-# The Impact of Early Positivity
+---
+source_path: H08PID-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c49d4d4df99be833b988dc9e71f304415a599c9
+title: H08PID-PDF-ENG
+---
+# than others.
 
-In our ﬁrst study, we analyzed data on 9,968 consultants at a leading
+In new research, recently published in Organization Science, we aimed
 
-professional services ﬁrm over the course of 20 months. We collected
+to understand whether the timing of leaders’ positive or negative emotional expressions shapes team member performance diﬀerently.
 
-the formal written feedback (approximately 250,000 comments) that
+We indeed found that positivity can help drive performance—but the
 
-they received from their leaders and we used software to see the degree
-
-to which leaders expressed positive and negative emotions in that
+timing matters.

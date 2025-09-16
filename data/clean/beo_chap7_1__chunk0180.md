@@ -1,13 +1,11 @@
-# ~kamenica/papers/legosFinal.pdf.)
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: f9f9af646da54cb8e03d5f11cc97510ed4cbdea0
+title: beo_chap7_1
+---
+# downloads/Sawyersubmittedpdf.)
 
-Babcock, L., and G. Loewenstein. 1997. Explaining bargaining impasse: the role of self-serv-
+Ariely, D., E. Kamenica, and D. Prelec. 2004b. Man’s search for meaning: the case of Legos.
 
-ing biases. Journal of Economic Perspectives 11:109-26.
-
-Babcock, L., X. Wang, and G. Loewenstein. 1996. Choosing the wrong pond: social com-
-
-parisons in negotiations that reflect a self-serving bias. Quarterly Journal of Economics
-
-111:1-19.
-
-Baker, G., M. Gibbs, and B. Holmstrém. 1994. The wage policy of a firm. Quarterly Journal
+Harvard Business School Working Paper. (Available at http://www.people.fas.harvard.edu/

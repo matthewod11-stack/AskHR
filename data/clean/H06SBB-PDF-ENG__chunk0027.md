@@ -1,59 +1,73 @@
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 372ba413fe7a376d2bc4bda741047420539bee36
+title: H06SBB-PDF-ENG
+---
 # HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
 
-between the decisions that are being made and the people who have the
+ADI IGNATIUS: So is your guess that COVID and our response to it has
 
-real direct lived experience?
+permanently changed how we collaborate and how we interact, or that
 
-ADI IGNATIUS: I’m going to go to a couple audience questions now,
+we will eventually get back to something we were familiar with?
 
-because we’re getting a lot of them and some of them are quite
+SANDY SPEICHER: I would say that it’s permanently changed
 
-interesting. So this one might be out of your purview, but I’m going to
+something for us. I don’t think that necessarily means that what we’re
 
-try it anyways. This is from Vance who’s in Chicago who’s asking about
+doing right now is what we’re going to be doing forever, but I think
 
-the metaverse. We’ve been talking about designing systems, physical
+what has permanently changed is this societal scale consciousness, this
 
-systems to improve how we do things and then there’s this parallel,
+recognition of the larger systems that we live and work within. And
 
-virtual environment called the metaverse. So the question is how do you
+really, I think that now business leaders and employees and everyone
 
-see the metaverse playing a role in the future of work?
+are asking questions about the role that business can play in helping
 
-SANDY SPEICHER: Hi, Vance, thanks for your question. And while it’s
+the world be a better place. How do we rebalance a lot of the social
 
-a very prescient question, I think this is one of the creative pathways we
+injustices that we’ve become quite conscious of? How do we create a
 
-have for the future. I guess when I think about the metaverse, it feels
+new relationship with the planet that’s not extractive, but generative?
 
-like another environment for us to build a world, right? For us to build
+These are questions that leaders are starting to ask that employees are
 
-how we relate to each other, what rituals we run ourselves by, what
+now demanding that leaders ask, and I think that this has been in us for
 
-agreements we run ourselves by. And actually, that to me is the same set
+a long time, the belief that the way we’re working isn’t quite working
 
-of underpinnings that we need in the real world, right? That we need in
+and these two years have really helped us see a lot of those dimensions
 
-our workplaces, that we need in our virtual work environments.
+and realize that we can change things.
 
-So this idea of world building feels like something for us to all become
+And that’s happening at a pretty big scale. I think that we’re all
 
-really aware of, not just to jump into another technology tool or another
+designing our way toward that now. But I do think that some of our
 
-platform or another environment, but to really be thinking of what
+clients, for instance, are asking super interesting questions. We have
 
-world are we building? We can all become very aware of that and very
+some work we’re doing with multiple companies right now around, for
 
-intentional about that and set what kinds of agreements we want to
+instance, how do we increase the voice of the frontline worker in the
 
-govern our relationships, what kind of work we can do here that we
+decisions that are made about technology to support their work? Now,
 
-want to do here, how we make sure that we’re deepening relationships,
+it’s really common that there’s a tech team that sits in the background
 
-not just transacting.
+of big companies and makes a lot of decisions for what tools workers
+
+should use. And it’s rare, actually, that frontline workers are seen as not
+
+just a customer in that, but a potential designer of that. But yet, they’re
+
+the ones that know the needs. And so how do we actually build our
+
+organizations to be that collaborative, to not have that much distance
 
 Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-10
+9
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

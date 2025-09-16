@@ -1,17 +1,15 @@
-## as collaborators on a joint mission, rather than competitors.
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5b5911fd3714d8d5032b8cadff0afd82ce3f01b
+title: H06WA9-PDF-ENG
+---
+## HBR / The Big Idea / Harnessing the Power of Age Diversity
 
-Furthermore, research shows that having a common purpose
+1.
 
-and goals are vital to team performance. Intergenerational teams
+- 1. Find common ground and similarities. While it may seem
 
-can struggle more than most to ﬁnd that shared ground. So at
+counterintuitive to focus on commonalities when the goal is to
 
-your ﬁrst roundtable, ask teammates to work together to answer
-
-questions such as “Why does the team exist?” and “What shared
-
-goals do we want to accomplish?” This helps team members begin
-
-to see themselves as uniﬁed in pursuit of the same interests and
-
-builds psychological safety. At future sessions, remind them of
+leverage diﬀerences, team members must ﬁrst see themselves

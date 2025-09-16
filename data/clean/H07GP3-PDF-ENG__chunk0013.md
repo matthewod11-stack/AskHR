@@ -1,45 +1,33 @@
-# HBR / Digital Article / For Female Founders, Fundraising Only from Female VCs Come…
+---
+source_path: H07GP3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbcdd0d36e23b16999b1329c06d83f1d7be7d008
+title: H07GP3-PDF-ENG
+---
+# competent.
 
-Interestingly, research has identiﬁed similar eﬀects with respect to aﬃrmative action. When people are told that a female employee was an aﬃrmative action hire, they perceive her as less competent than equally qualiﬁed men or women who were not aﬃrmative action hires. Even
+This is because of an eﬀect psychologists call attribution bias: the
 
-if two women have objectively identical levels of competence, just the knowledge that one was hired as part of an aﬃrmative action program is
+tendency to assume that someone’s identity or character, rather than
 
-enough to make her seem less competent.
+outside factors, are responsible for the situation they’re in. When people
 
-So, what does this mean for female founders looking to raise capital?
+see that a female founder has a male investor, they assume she must
 
-We are not suggesting that women should never raise capital from other
+have received his investment because she is competent, and her startup
 
-women. Female investors might be more responsive to female founders,
+is strong. But when people see that a female founder has a female
 
-and more able to see their potential. Networking between women can
+investor, they attribute her investment success to her gender rather
 
-also be more comfortable and less fraught, and a female founder may be
+than her competence. As a result, new potential investors assume that
 
-more likely to establish a trusting mentorship relationship with a female
+a female founder is less competent if they see that she has only been
 
-VC, which can bring substantial long-term beneﬁts to both.
+backed by female investors — regardless of her actual qualiﬁcations.
 
-However, this can be a risky strategy when it comes to a startup’s long-
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-term success. There are still very few female investors, and they tend to
+3
 
-be concentrated in funds that focus on earlier-stage investments, where
-
-risk is higher and funds invested are smaller. Today, female VCs simply do not control suﬃcient assets to continue to invest in female-led ﬁrms
-
-as they scale. This means that female founders will ultimately need to
-
-attract male investors in order to grow — and if you’re a woman, our
-
-research shows that’s a lot easier to do if you raise at least some capital
-
-from men from the start. As one female founder we spoke to put it:
-
-I think there’s deﬁnitely a problem, if you’re a female entrepreneur,
-
-backed by a female investor, and you want to get more capital, and
-
-now the only people around the table are these two women. It’s almost
-
-like, you’d want to do the hard thing ﬁrst, and get a few men brought
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

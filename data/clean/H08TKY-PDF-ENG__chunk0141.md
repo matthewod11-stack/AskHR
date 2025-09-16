@@ -1,5 +1,13 @@
-## economic and social conditions in the communities in which it
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a10372f9de620cd5fa84a210d8ec44d22edfe5c7
+title: H08TKY-PDF-ENG
+---
+# Montgomery (2008)
 
-operates. Shared value creation shows that addressing societal needs is
+[ S ]
 
-proﬁtable, and it focuses on identifying and expanding the connections
+Shared value: Policies and operating practices that enhance the
+
+competitiveness of a company while simultaneously advancing the

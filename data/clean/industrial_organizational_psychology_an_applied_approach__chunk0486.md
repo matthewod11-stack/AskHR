@@ -1,5 +1,7 @@
-# Frequency
-
-0 1 2 3
-
-Task is not performed as part of this job. Task is seldom performed. Task is occasionally performed. Task is frequently performed.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a7ac14c8447a556db0786d35a77e843ed666c747
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Example of Task Inventory Scales

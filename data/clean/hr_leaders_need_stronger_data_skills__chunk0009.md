@@ -1,11 +1,7 @@
-# HR Leaders Need Stronger Data Skills
-
-https://hbr.org/2018/10/hr-leaders-need-stronger-data-skills?autocomplete=true
-
-4/6
-
-and develops the talent their organizations will need to executetheir business strategy. Investing in developing HR’s data andtechnology skills should be a top priority if companies want towin the war for talent.
-
-is chief scientist and vice presidentat global leadership company DDI.
-
-is
+---
+source_path: hr_leaders_need_stronger_data_skills.md
+pages: n/a-n/a
+chunk_id: 6021350fc8fde6a1c2c2a1d9827c5de43356689c
+title: hr_leaders_need_stronger_data_skills
+---
+# 8/22/25, 11:13 AM

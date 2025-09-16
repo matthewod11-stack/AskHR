@@ -1,7 +1,13 @@
-# HBR / Digital Article / Research: Why Employees Work While Sick—and How Leaders C…
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e712e38ed6e4ee46fbbcfa36ac2d823ac89cdd4b
+title: H08R51-PDF-ENG
+---
+# employee’s annual salary.
 
-Finally, persistent presenteeism can worsen health conditions,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-potentially leading to serious long-term illnesses and increasing
+2
 
-healthcare expenses and disability claims, signiﬁcantly burdening
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

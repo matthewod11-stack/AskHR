@@ -1,13 +1,21 @@
-## and senior leaders to share their political know-how and leverage
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d11d41e42ee7f1ad9f1c957e50beda0c00f06bf8
+title: H07268-PDF-ENG
+---
+# development programs.
 
-their political power across racial and gender lines. For instance, well-
+- 4. Leverage politics to drive inclusion.
 
-respected sponsors can be encouraged to get involved in leadership
+All too often, politics are seen as a system that’s designed to keep
 
-development programs speciﬁcally designed to support women and
+power with those who have it, and exclude those who don’t. But what
 
-ethnic minority employees. This both improves employees’ access to
+if we instead used politics to disrupt entrenched inequalities? There’s
 
-senior leaders’ networks, and helps the sponsors better understand the barriers diﬀerent employees face. They can then use these insights
+no denying that managers play a key role in gatekeeping the political
 
-(alongside their political savvy) to advocate for their proteges and come up with more-eﬀective strategies to address obstacles facing employees
+arena, but that also means they’re in the perfect position to encourage
+
+fairness rather than favoritism. Organizations should train managers

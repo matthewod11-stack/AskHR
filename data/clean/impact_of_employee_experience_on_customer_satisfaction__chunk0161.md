@@ -1,5 +1,15 @@
-## approach, mindset, and processes in many parts of the organization.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 31b3a9bc5e0088e1a5f771b8e177997fa6eb19f1
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Goal for surveys
 
-The benefits will be:
+Every company would like to become a strong partner for their customers and deliver
 
-- Real time input from customers and the ability to respond quickly to early
+excellent customer experience, great products and service. It is essential that all
+
+discussions begin from a customer’s point of view but also consider aspects of
+
+employees and their impact on customer experience. It demands major change in

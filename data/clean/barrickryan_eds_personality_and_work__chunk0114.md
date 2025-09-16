@@ -1,1 +1,13 @@
-# 22 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: e56555263dfd84c0167432cbf3e1c8faf5b88908
+title: barrickryan_eds_personality_and_work
+---
+## THE STRUCTURE OF PERSONALITY ATTRIBUTES 21
+
+1992), but it is not yet clear whether it is superior to potential com- petitor models in this regard. With respect to generalizability across cultures and languages, the Big Five appears adequate using the lenient criteria that we discussed earlier, but there may well be other models that meet stringent criteria even better. With respect to applicant samples in personnel selection, some have found the Big Five difﬁcult to recover (Schmit & Ryan, 1993), and others have proposed models with more than ﬁve factors (Hough, 1994). A more comprehensive model—one that covers the domain of important variables more thoroughly—will generally be preferred to a less comprehensive model. The Big Five may be adequately comprehensive if we use fairly narrow and conventional ways of deﬁning what is a relevant personality variable and set a stringent threshold (a very low multiple correlation with the Big Five) for a variable to be judged “beyond the Big Five.” But there are clearly dimensions of individual differences beyond the Big Five, particu- larly if we widen the taxonomy to include abilities, social attitudes, or appearance-related characteristics (Saucier & Goldberg, 1998). And given the indeterminate boundaries around the concept of personality, especially the ambiguity about whether externally de- ﬁned attributes should be included, it makes sense to widen the taxonomy in this manner.
+
+Many psychologists stress that a good structural model has a strong theoretical basis. The Big Five is often described as “merely” a descriptive taxonomy because it was empirically derived; there are other structural models that come packaged with more a pri- ori theory, although the Big Five seems to be slowly accumulating theoretical perspectives post hoc (Wiggins, 1996).
+
+In summary, the strongest performance of the Big Five seems to be on criteria like social importance, breadth, stability, cross- observer agreement, and generality across self- and peer-rating data. But the Big Five seems vulnerable to being bettered by an- other model on other criteria: causal clarity, correspondence to main lines of biological inﬂuence, predictive validity, generaliz- ability across cultures and languages (by stringent criteria), asso- ciation with theory, and comprehensiveness. However, we sorely lack comparative analyses involving multiple models with respect to all of these criteria. On the path to an optimal structural model for personality attributes, there is still much to learn.

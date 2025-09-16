@@ -1,15 +1,21 @@
-# all operating through.
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7d85a2112f39300d84340e5ee5c2cbf2489ccd4
+title: H06SBB-PDF-ENG
+---
+# more deeply.
 
-So some of the things that we’ve been doing is really learning about
+For instance, one of the things we’ve done is created a culture survey
 
-the methods and mindsets of being inclusive and really looking at what
+that asks a lot of different elements about what people’s experiences
 
-foundational systems we need to recreate in order to build more clarity,
+are in our culture. And then we look to the qualitative input, the things
 
-to build more equal opportunity across our system.
+that people are saying for those who are self-reporting as feeling most
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+left out or most distant from what may be the central culture of the
 
-13
+organization. And really understanding the root cause of some of those
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+dissonances helps us better design the foundational systems that we’re

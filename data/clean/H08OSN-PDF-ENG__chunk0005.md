@@ -1,19 +1,23 @@
-# progress.
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dcefb46d409214276fca3f5e29e2154f8365a737
+title: H08OSN-PDF-ENG
+---
+## HBR / Digital Article / When You’re Overloaded—and Delegating Isn’t an Option
 
-We encourage leaders to work in a “ﬁt-for-purpose way.” That means
+We have seen this situation many times working with hundreds of
 
-intentionally assessing what level of eﬀort makes sense for a given piece
+leaders and teams in our consulting and coaching work. Fortunately,
 
-of work. Do you discuss what is “good enough” for speciﬁc assignments
+there are three key strategies you can use to reassess and reconﬁgure the
 
-with your team members? Or what corners should be cut?
+work you do to free up your limited time and capacity.
 
-One example of a client who managed eﬀort and time well was a CEO
+- 1. Make sure your team really understands what “good enough” looks like
 
-one of us (Jordan) coached who understood what was important and
+It’s easy to think that every piece of work should be an A+. But if
 
-what wasn’t. He told his board that he was going to send weekly email
+everything you or your team does is “excellent,” you are overdoing
 
-updates and that these notes would be a “brain dump,” without any
-
-editing. This allowed him to keep his board informed in real time and
+quality, stressing your team, wasting energy, and slowing down

@@ -1,19 +1,27 @@
-## HBR / Digital Article / When Everyone’s Quitting … Except You
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3c0c0addec594a77879fb6e201e8f8e7ed4c80e
+title: H06KTS-PDF-ENG
+---
+# Davide Urani/EyeEm/Getty Images
 
-With a historic number — over 40% — of the global workforce reporting
+One of my clients is an executive who has been with her company for
 
-that they plan on leaving their jobs this year, my client’s story is not
+more than 20 years. Over the past several months many of her peers
 
-unique. You might even be in a similar situation and wondering what
+have moved on from the company, part of 2021’s turnover tsunami.
 
-happens to the workers who are not job surﬁng. When employers are
+She’s now surrounded by new hires and she worries that she is being
 
-heavily concentrated on engaging and supporting their new hires, loyal
+associated with the “way things used to be” and unfairly seen as
 
-employees can feel left behind. In many cases, simply being a new
+someone who isn’t innovative, strategic or willing to take risks by virtue
 
-employee in a new company can pay oﬀ, as external hires enjoy many
+of being a “long-timer” at the company.
 
-beneﬁts not aﬀorded to internal hires in similar positions. In addition,
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-with so many new people joining a team, the work environment shifts in
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

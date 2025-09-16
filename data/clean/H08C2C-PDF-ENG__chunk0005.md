@@ -1,13 +1,19 @@
-# Create a Knowledge Map
+---
+source_path: H08C2C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61ca47bfe3cea5f22b4af780e9f0175a037f513c
+title: H08C2C-PDF-ENG
+---
+# engagement, and retention.
 
-It’s important for your new employee to understand who knows what
+As a leader, rather than overloading a new employee with passively
 
-within your company and how all the people and groups ﬁt together.
+consumed information, consider emphasizing the importance of
 
-Creating a knowledge map (like this one, for example) as a resource is a
+developing strategic relationships with people who can share critical
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+knowledge, and help contextualize and speed up their learning.
 
-2
+Here are three steps you, as a manager, can take to help new employees
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+build these beneﬁcial relationships.

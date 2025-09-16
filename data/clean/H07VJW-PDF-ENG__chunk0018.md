@@ -1,11 +1,11 @@
-# other words, the relevance to them.
+---
+source_path: H07VJW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4567ec3a9e7448c547230da42f0f50bc91eab5e2
+title: H07VJW-PDF-ENG
+---
+## HBR / Digital Article / A Simple Hack to Help You Communicate More Effectively
 
-- Now What: Outline the call-to-action or next steps, such as taking
+- What: Describe and deﬁne the facts, situation, product, position, etc.
 
-questions or setting up a next meeting.
-
-This structure not only helps in organizing your thoughts but also
-
-serves as a guidepost for your audience, making the information easier
-
-to follow and act upon.
+- So What: Discuss the implications or importance for the audience. In

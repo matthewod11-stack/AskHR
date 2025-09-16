@@ -1,3 +1,15 @@
-# PERSONALITY AND JOB PERFORMANCE 97
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 6c44313d9e1542dfad8a35ae8954b5c0f6f39107
+title: barrickryan_eds_personality_and_work
+---
+# 96 PERSONALITY AND WORK
 
-(1993) found that students low in evaluation apprehension, high in self-discipline, and high in creative achievement tended to per- form better on an ill-deﬁned task, which is an element of adaptive performance. LePine, Colquitt, and Erez (2000) found that Open- ness to Experience was positively related and dependability was negatively related to decision quality after the rules were unex- pectedly changed on a decision-making task.
+One could go to an even more speciﬁc level than Level 3 by in- cluding Tett et al.’s (2000) managerial competencies, many of which are relevant to all jobs. Level 3 is the most appropriate level for linking speciﬁc predictor constructs to speciﬁc performance constructs. Level 2 may be used for cumulating results across stud- ies for meta-analyses, at least until sufﬁcient data have been gath- ered to conduct meta-analyses at Level 3.
+
+Task performance has generally not been predicted well by per- sonality variables. In the U.S. Army’s Project A, technical proﬁci- ency (job-speciﬁc task proﬁciency) and general soldiering proﬁciency (non-job-speciﬁc task proﬁciency) had very low correlations with all personality variables measured (Hough et al., 1990). Hough’s (1992) meta-analysis found only intellectance to be related to tech- nical proﬁciency. In a meta-analysis by Hurtz and Donovan (2000), the highest mean corrected correlations with criteria classiﬁed as task performance were .16 and .14 for Conscientiousness and Emo- tional Stability, respectively.
+
+Hurtz and Donovan (2000) found personality to be a better predictor of citizenship performance. For job dedication (a com- bination of conscientious initiative and organizational support), mean corrected correlations were .20 for Conscientiousness and .14 for Emotional Stability. For interpersonal facilitation (personal support), mean corrected correlations were .18 for Conscien- tiousness, .17 for Emotional Stability, and .20 for Agreeableness. Organ and Ryan’s (1995) meta-analysis showed Conscientiousness to correlate .30 with generalized compliance (part of organiza- tional support) and .22 with altruism (part of personal support). Borman, Penner et al. (2001) updated this meta-analysis and found Conscientiousness, Agreeableness, positive affectivity, negative af- fectivity, and locus of control to have relatively high uncorrected mean correlations with a general citizenship performance com- posite (range of .13 to .24).
+
+Several studies have investigated the relationship between per- sonality variables and adaptability. In a study of over ﬁfteen hun- dred managers, Conway (2000) found corrected correlations of .20 or greater between an adaptability performance dimension and the California Psychological Inventory (CPI) scales of responsibil- ity, tolerance, achievement via independence, and intellectual ef- ﬁciency. Mumford, Baughman, Threlfall, Uhlman, and Costanza

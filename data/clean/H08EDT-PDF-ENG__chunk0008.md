@@ -1,9 +1,19 @@
-## recent political attacks on the very concept of DEI and declines in
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55db5f0f76b0da614391f185d6fee829ac87447f
+title: H08EDT-PDF-ENG
+---
+## to more openly accept gender and racial inequalities as structural
 
-corporate commitments to racial and gender equity, there’s concern
+issues, not what I call “ﬁx women” ones. Leaders have stepped up
 
-that the next decade may not bring as much progress as the last one —
+commitments to do better at solving for both. Words like “bias”
 
-which is why we need to keep our foot on the accelerator when it comes
+“microaggressions,” and “racism” are all more accepted in the corporate
 
-to achieving gender parity at work.
+lexicon. (So much so that I’ve even made the case for leaders to retire
+
+the term “microaggressions” in favor of “exclusionary behaviors.”)
+
+Despite this progress, gender equity still remains uneven. Coupled with

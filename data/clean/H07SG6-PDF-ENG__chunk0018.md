@@ -1,49 +1,15 @@
-# regularly and consistently.
+---
+source_path: H07SG6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2111c0bdcb84ed0802f58e9992a6d297eee6711
+title: H07SG6-PDF-ENG
+---
+## HBR / Digital Article / Stop Overworking After Vacation
 
-Prevent or ease “reentry shock.”
+away as a last resort only after you’re depleted and unproductive, or as
 
-“Reentry shock” refers to the discombobulation you feel when you
+a special reward when your to-do list is ﬁnally done, take a cue from top
 
-transition from a place of calm and equilibrium to one that pulls you into the frazzle and fray. You can prevent this by using buﬀers. Schedule
+athletes and include work recovery as an essential component of a high-
 
-a free day between your return from vacation and your return to work so
-
-you can mentally and physically prepare for the change in environment.
-
-Keep your calendar light just after your return, which will give you a
-
-chance to reacclimate and avoid overwork. For example, one of our clients has a two-day “no meetings” buﬀer after his return.
-
-Bring some vacation magic home with you.
-
-What exactly was it during your period of recovery that helped you
-
-decompress and feel more like yourself? Was it exercise? Reconnecting
-
-with loved ones? An artistic pursuit or hobby that’s neglected during
-
-the work week? Simply enjoying some unscheduled leisure time? As
-
-much as possible, build these activities and conditions into your normal
-
-weekly routine. Remember, even small doses of downtime make a diﬀerence.
-
-Before saying yes to new requests when you return to work, consider what’s getting in your way of saying no.
-
-Are you concerned about not being recognized, rewarded, or promoted?
-
-If so, stop, breathe, and check your assumptions. It may be possible
-
-to get the recognition and rewards you’re looking for without
-
-overcommitting yourself and sacriﬁcing your health and well-being. If
-
-you can’t identify the problem areas — or if you need help ﬁguring out
-
-what to do about them — consider working with a coach.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+performance strategy. Work recovery works best when it’s practiced

@@ -1,11 +1,17 @@
-# Treat Purpose as an Organizing Principle
+---
+source_path: H07WQJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8bd371a95b776874f45230b1afa8f1a8c3dd6f7
+title: H07WQJ-PDF-ENG
+---
+## healthier future for people and our planet.” Although helpful in areas
 
-For the leaders I studied, purpose became a comprehensive principle for
+like sustainability and product quality and safety, this language didn’t
 
-organizing, giving rise to strategy, processes, systems, cultural norms,
+necessarily evoke a broader moral basis for taking stands that deﬁned
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Pepsi’s place in society. It is hardly surprising that the company seemed
 
-3
+to struggle at times to respond to the Black Lives Matters protests that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+broke out in the United States during the late 2010s.

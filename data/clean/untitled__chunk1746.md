@@ -1,11 +1,15 @@
-# Stanford, CA: Stanford University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2f9b37859423917d044fe91031c7523c8cd56546
+title: untitled
+---
+# men. New York: Rinehart.
 
-Phelps, R., Eisman, E. J., & Kohout, J. (1998). Psychological prac- tice and managed care: Results of the CAPP practitioner survey. Professional Psychology, 29, 31–36.
+Othmer, E., & Othmer, S. C. (1994). The clinical interview using DSM-IV. Vol. 1: Fundamentals. Washington, DC: American Psy- chiatric Association.
 
-Piedmont, R. L. (1998). The Revised NEO Personality Inventory: Clinical and research applications. New York: Plenum Press.
+Otis, J. A. (1923). Otis Classiﬁcation Test. Yonkers, NY: World.
 
-Piotrowski, C. (1999). Assessment practices in the era of managed care: Current status and future directions. Journal of Clinical Psychology, 55, 787–796.
+Pascal, G. R., & Suttell, B. J. (1951). The Bender Gestalt Test: Quantiﬁcation and validity for adults. New York: Grune & Stratton.
 
-Piotrowski, C., Belter, R. W., & Keller, J. W. (1998). The impact of “managed care” on the practice of psychological testing: Prelim- inary ﬁndings. Journal of Personality Assessment, 70, 441–447.
-
-Piotrowski, C., & Keller, J. W. (1989). Psychological testing in out- patient mental health facilities: A national study. Professional Psychology, 20, 423–425.
+Paul, G. L. (1966). Insight vs. desensitization in psychotherapy.

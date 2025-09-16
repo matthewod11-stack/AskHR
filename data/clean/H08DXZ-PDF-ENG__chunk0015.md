@@ -1,5 +1,9 @@
-## a better understanding of their counterparts’ positions, interests, and
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26fb41981f2b0b9a69198f82011926eb5f3a26b4
+title: H08DXZ-PDF-ENG
+---
+## twice as informative — as responses to closed-ended questions or
 
-constraints, leading to more eﬀective proposals and, ultimately, better
-
-outcomes. Notably, asking closed-ended questions did not lead to
+non-question statements. This depth of information gave negotiators

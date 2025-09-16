@@ -1,23 +1,13 @@
-## around 50% for women of color, and 43% of Black women.
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c440b2b15246089f4194567c4e55b9c3bd39635
+title: H08AOU-PDF-ENG
+---
+## But the gender and racial disparity in access to career-enhancing
 
-At the same time, high-proﬁle work is only one side of the story: Women
+work means this attrition impacts some groups more than others. Our
 
-also tend to be burdened with the non-promotable oﬃce housework:
+research across industries has found that 81% to 85% of white men
 
-administrative work, like scheduling meetings; literal housework, like
-
-cleaning up; emotion work, like being the peacemaker; or routine
-
-everyday work that needs to be done but does not typically lead
-
-to promotion. Women of all races report doing more of the oﬃce
-
-housework than men, and our research has found the gap is large, on
-
-average around 20 percentage points. Women in general, and women
-
-of color even more so, are routinely placed in a position where they
-
-have to work extra hours in order to have the same amount of time
-
-for high-proﬁle work while carrying a disproportionate load of oﬃce
+report fair access to desirable assignments, but that number falls to only

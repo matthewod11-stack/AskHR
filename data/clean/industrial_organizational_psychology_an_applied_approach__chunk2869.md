@@ -1,25 +1,23 @@
-# Leadership through Power
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 68d2c592532a263da5371ebd263d6348d8573fef
+title: industrial_organizational_psychology_an_applied_approach
+---
+# n a y r B n o v e D ©
 
-Another strategy leaders often use is management by power. Power is important to a leader because as it increases so does the leader’s potential to influence oth- ers (Nesler, Aguinis, Quigley, Lee, & Tedeschi, ). Leaders who have power are able to obtain more resources, dictate policy, and advance farther in an orga- nization than those who have little or no power.
+At Avon, we currently view
 
-Earlier in this chapter, French and Raven’s bases of power were alluded to in terms of their relationships to Geier et al.’s IMPACT theory. These authors (French & Raven, ; Raven, ) identified five basic types of power: expert, legitimate, reward, coercive, and referent.
+leadership as a competency with four components. The first component is the extent to which leaders understand and successfully manage them- selves and their relationships with others. Effective leaders strive for self-awareness and self-regulation. For individuals to successfully demonstrate this competency, they would establish and build productive working relationships with oth- ers, take accountability for their own performance and growth, and relate to people in an open, friendly, and accepting man- ner. They express themselves to individuals and groups in a manner that enhances under- standing and understand the existing and potential custom- ers and markets.
 
-leadership
+The second leadership component is that leaders must have a relentless account- ability for results while at the same time being governed by business ethics and embracing change. Leaders must have the courage to make tough calls, to create an environment that continuously raises the
 
-457
+bar, and to act decisively using facts and discipline. Effective leaders at Avon drive results and obtain success in spite of obstacles. They make timely and sound decisions and man- age resources effectively. They have the ability to influence and interest others in career opportunities, products, pro- grams, and initiatives. To make the best decisions, our leaders are taught to identify and analyze data and options prior to making decisions. To be suc- cessful, leaders must develop action plans and schedules to accomplish their goals and objectives.
 
-458
+A third component of leadership competency is the ability to nurture talent. This means putting the right people in the right jobs at the right time. Effective leaders at Avon focus on developing the next generation of leaders by promoting those who deliver results, develop talent, and differentiate performance. Our leaders identify the needs of individuals and provide rel- evant training and coaching to help them succeed. They
 
-chapter 
+identify and engage others to participate in beneficial career opportunities. By earning respect and gaining commitment and coopera- tion, they inspire others to take action.
 
-Expert Power As mentioned earlier in the chapter, in certain situations, leaders who know some- thing useful—that is, have expert knowledge—will have power. But there are two requirements for expert power. First, the knowledge must be something that oth- ers in an organization need. In a university’s psychology department, a researcher with an excellent grasp of statistics has power over those who do not. Similarly, a soldier who knows how to get around the military bureaucracy has more power than those who know only how to follow established channels and procedures.
+The final piece to the leadership puzzle is the ability to break down barriers and to manage matrix relation- ships. Effective leaders must be strategic thinkers and action-oriented implementers who integrate a diversity of perspectives. They can work across geographical boundaries and work closely with relevant business partners. They have the ability to understand, appreciate, and build on the contributions of those from varied backgrounds and points of view.
 
-Second, others must be aware that the leader knows something. Information is powerful only if other people know that the leader has it or if the leader uses it.
-
-Legitimate Power Leaders obtain legitimate power on the basis of their positions. For example, a sergeant has power over a corporal, a vice president has power over a supervisor, and a coach has power over players on a football team. Leaders with legitimate power are best able to get employees to comply with their orders (Rahim & Afza, ) but have low follower satisfaction (Rahim, ).
-
-Reward and Coercive Powers Leaders also have power to the extent that they can reward and punish oth- ers. Reward power involves having control over both financial rewards—salary increases, bonuses, or promotions—and nonfinancial rewards—praise or more favorable work assignments (Ward, ).
-
-For a leader to have coercive power, it is important that others believe she is willing to use her ability to punish; she cannot maintain coercive power if employees believe she is bluffing. Punishment includes such actions as firing or not promoting and the more subtle action of giving someone the cold shoulder.
-
-Referent Power Another source of power for a leader may lie in the positive feelings that others hold for him. Leaders who are well liked can influence others even in the absence of reward and coercive power. Leaders can obtain such referent power by com- plimenting others, doing favors, and generally being friendly and supportive (Kipnis, Schmidt, & Wilkinson, ). Employees of leaders with referent power are most committed to their organizations and satisfied with their jobs (Rahim & Afza, ).
+Although individu- als must possess many core competencies to be effective leaders at Avon, I think leadership is a core competency an organization must develop. Without true leaders, organizations don’t innovate. Instead, they copy and are not original.

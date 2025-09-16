@@ -1,17 +1,15 @@
-# extra work or inconvenient demands. How
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ea545b3ab63339ae8ae834b4ea9eff109b1583d
+title: R2403D-PDF-ENG
+---
+# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
 
-will they react, say, to a freelancer calling
+Finally, Marta wonders if her full-time
 
-in to join a team stand-up that they’ve been
+team members will stay committed once
 
-told they must attend in person? How will
+they see the autonomy granted to
 
-they feel when freelancers are given a pass
-
-Xan Padrón’s series Time Lapse combines individual photographs to create a larger portrait of all the movement and changes that happen in even the smallest corners of a city.
-
-on pitching in when crises arise? How will
-
-Marta keep everyone in various work
-
-arrangements appropriately engaged?
+freelancers, who can more easily decline

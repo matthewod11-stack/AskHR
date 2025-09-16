@@ -1,5 +1,11 @@
-# in this
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: fc570482d5ea75a88b544b89251f4ef323eed2ed
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+# all
 
-changes there has also come an increase in the level
+Solorzano & Yasso, 2000). Along with the demographic
 
-arena (Posselt et al., 2014). In the past 30 years, there
+that might benefit educational organizations

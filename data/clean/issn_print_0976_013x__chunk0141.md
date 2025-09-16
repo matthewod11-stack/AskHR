@@ -1,19 +1,31 @@
-# opportunities, foreign direct investment (FDI), and increases in national income.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 304d1e47d1832aefbd4834b4df20c825cca00f14
+title: issn_print_0976_013x
+---
+# INTRODUCTION
 
-In addition to their regular company activities, many smaller companies have started to use
+Entrepreneurship is identifying and exploiting business possibilities at the individual opportunity
 
-environmentally friendly practices, environmental legislation, environmentally friendly talents,
+nexus. (Shane S & Venkataraman S, 2000). The GEM 2022 report defines entrepreneurship as
 
-and innovative ways to get resources to help the environment (Rizos, 2016). The rise of the
+starting and operating a company. When entrepreneurs start new businesses, they create jobs,
 
-collaborative economy led to technological advances that gave people more freedom and made
+income, and value-added, the three pillars of economic growth. They often introduce new goods,
 
-connecting with others easier. Platforms for working together can make it harder for their
+technologies, or processes (GEM 2022). Economics, psychology, and sociology were the most
 
-businesses to stay in business (Fang & Li, 2022). Many entrepreneurs and business owners are
+significant influences on the study of entrepreneurship. Schumpeter (1934) and McClelland
 
-very optimistic and consider social and environmental issues when making decisions. These
+(1967), considered to be the founders of the field of entrepreneurship studies, looked at the topic
 
-worries may go away as incomes rise, however. Since many of these economies have already felt
+from a psychological point of view. They focused on people as the main subjects of their studies.
 
-17
+Between 1980 and 2005, mainstream entrepreneurship studies shifted in this regard. (Kirchhoff
+
+- 1991) This method used economic and strategic theories to understand entrepreneurship during
+
+this period (Frese & Gielnik, 2014). Choosing to go into business for yourself opens various doors.
+
+It brings in more money from economic and industrial activity, investment returns, job

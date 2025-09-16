@@ -1,17 +1,33 @@
-# aﬃrmative action.
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77650a3dc5eec02f2ca8c26fc75681e71e1dab5c
+title: H0893T-PDF-ENG
+---
+## grievance procedures. The only counterproductive practice that
 
-When there are resource constraints, DEI initiatives are often
+organizations utilize infrequently is managerial job tests.
 
-one of the ﬁrst things to be cut in organizations. Organizations
+. . .
 
-also predominantly rely solely on practices that undermine or
+Progress toward diverse managerial representation has been slow and
 
-fail to advance diverse representation. If we are going to see
+plagued by persistent challenges. While legislative measures such as the
 
-meaningful progress toward diverse representation, organizations need
+1964 and 1991 U.S. Civil Rights Acts instigated marked advancements,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+the absence of comparable legislation in the last 30 years suggests that
 
-9
+we are relying on employers to drive progress toward equality.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Organizational diversity interventions have proliferated since the 1960s,
+
+providing the pretense for more just and equitable workplaces. The
+
+Black Lives Matter and Me Too movements, for instance, have provided
+
+an opportunity for similar advancements. However, the current
+
+landscape has seen a backlash against DEI, spurred by political agendas,
+
+misconstrued interpretations of DEI objectives, and the erosion of

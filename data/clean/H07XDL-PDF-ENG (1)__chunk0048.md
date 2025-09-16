@@ -1,15 +1,21 @@
-# to you.
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 96043930a0c67b88c4344814533ef713d36cf724
+title: H07XDL-PDF-ENG (1)
+---
+## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
 
-- 6. What portfolio choices can I make?
+Other studies have found that proven life-enhancers include practicing
 
-Corporate strategy is about making choices between options: Should
+kindness, mindfulness, meditation, and gratefulness; cultivating more
 
-we keep our current portfolio, diversify, focus, acquire a company, or
+humor and laughter; dedicating time to learning; and developing a
 
-enter a new market? In life, the equivalent questions are: What happens
+growth mindset (that is, believing your abilities and life can improve through eﬀort and persistence).
 
-if I continue to live my life the way I am now? What if I change my
+As you do this work, it’s important to understand and learn from what
 
-priorities? Equipped with your deﬁnition of a great life, your purpose,
+has worked for others, while also remembering that you can’t just copy
 
-your vision, your SLU ratings, and your benchmarks, you are ready to
+and paste someone else’s approach. Your life strategy should be unique

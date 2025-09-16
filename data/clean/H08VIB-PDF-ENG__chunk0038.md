@@ -1,21 +1,17 @@
-## engage with me in a step-by-step dialogue about how robotics could
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea63d788d8cb7d8a2b096b6189354f7c46a6a303
+title: H08VIB-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
 
-be applied in my area of work. First, help me identify key pain points
+Take the example of David, a manager facilitating a workshop with
 
-or repetitive tasks in my area. Then, help me explore how robotics
+20 participants focused on identifying use cases for robotics within
 
-might address these challenges or create new opportunities. Finally,
+their company. David asked everyone to bring their laptops so they
 
-help me think which ideas seem most promising and why.” After each
+could access AI throughout the session. During the ideation phase,
 
-participant completed their co-thinking dialogue with AI, David used
-
-AI on his laptop to capture and synthesize the team’s ideas. This
-
-approach proved more eﬀective than “AI at one seat,” for two reasons.
-
-First, a one-to-one interaction with AI creates a psychologically safe
-
-setting, allowing participants to brainstorm without having their ideas
-
-be immediately judged by others. Second, when AI is accessed through
+participants run a prompt crafted by David, “You (Generative AI)

@@ -1,7 +1,27 @@
-# thing.”
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e57f988a008b9748b6648509882051d70e31c424
+title: H08LGU-PDF-ENG
+---
+# meaningful ways.”
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+“An area missing in DEI work was embracing that the work requires
 
-12
+change,” said communications strategist Kim Clark. “DEI tended to stay
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+at the top level of organizations, perhaps exempliﬁed as a branded
+
+external campaign, rather than empowering every department, every
+
+team, and every employee. This led to performative communications
+
+that caused more harm than good.”
+
+“I see [an] opportunity to go beyond the perfunctory, performative, and
+
+symbolic,” said Zach Nunn, CEO and founder of Living Corporate, an
+
+experience management company. “This is where this space is going;
+
+in some ways, the critical season [we are experiencing now] is a good

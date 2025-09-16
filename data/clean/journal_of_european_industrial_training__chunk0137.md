@@ -1,3 +1,7 @@
-# integrated perspective'', Career Development International, Vol. 1 No. 3, pp. 20-3.
-
-Hugget, M. (1998), ``360-degree feedback, great expectations'', Industrial and Commercial Training, Vol. 30 No. 4.
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 4726fcf597f562f16b46c8dc2ad8e4ef731f032c
+title: journal_of_european_industrial_training
+---
+## Heisler, W. (1996), ``360-degree feedback: an

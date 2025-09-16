@@ -1,15 +1,29 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52b3e5a28578bb78da5bc928d9b9897db5bf6008
+title: H07T7V-PDF-ENG
+---
+# embrace unconventional solutions.
 
-ANDREW MCAFEE:
+The patron saint of geeks is probably Maria Montessori, who about 100
 
-The particular geeks I got excited about that led me to write the book
+years ago got obsessed with the problem of how you educate young
 
-were not educational geeks like Maria Montessori, they were business
+children best, and came up with the Montessori educational method,
 
-geeks. They were a group of people concentrated on—but not exclusive
+which is this radical departure from the industrial scale model of
 
-to—the West Coast of the US who got obsessed with this problem of,
+schools that was dominant then, and sadly still dominant now. Think
 
-“How do we run a company in an age of really fast technological change
+about Maria Montessori when you think about a geek.
 
-and lots of uncertainty? And in particular, how do we avoid some of the
+ADI IGNATIUS:
+
+How do you deﬁne the “geek way” that you’re talking about in the book?
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

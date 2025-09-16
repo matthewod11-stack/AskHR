@@ -1,5 +1,9 @@
-## particular intentions, rituals, and preferences.
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 545ccebbae870ca4f11a1d2148e3fa0db2378f69
+title: R2502F-PDF-ENG
+---
+## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
 
-A British negotiator from a London-based family oﬃce negotiating with a Japanese executive oﬀers an instructive example. Instead of assuming
-
-that his counterpart would exhibit common Japanese cultural traits
+settings to focus speciﬁcally on their counterparts, learning their own

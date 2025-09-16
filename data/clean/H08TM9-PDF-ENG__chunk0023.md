@@ -1,11 +1,23 @@
-# today and into the future.
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d36b1bd4768c92593da907c793d42e52d36da8d6
+title: H08TM9-PDF-ENG
+---
+## mental health and work-life balance beneﬁts.
 
-This article was originally published online on July 18, 2025.
+. . .
 
-Alexander Kirss, director of research in the Gartner HR practice, specializes in chief human resource oﬃcer (CHRO) eﬀectiveness with an emphasis on CEO succession planning, C-suite collaboration, and how CHROs can best partner with their CEO and board of directors.
+As the adage goes, past performance is no guarantee of future
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+results, particularly in a continuing VUCA environment. Although
 
-5
+organizations have performed surprisingly well amidst the volatility of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the past ﬁve years, they risk future performance by ignoring anticipated
+
+executive departures. Understanding and then implementing these
+
+three strategies can help organizations staunch executive turnover and
+
+ensure that they have the executive team needed to drive performance

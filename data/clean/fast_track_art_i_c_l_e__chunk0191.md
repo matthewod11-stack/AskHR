@@ -1,9 +1,15 @@
-# Not applicable
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: ef817321a26f55c079febc71c5e7aff0f7d2b034
+title: fast_track_art_i_c_l_e
+---
+# Dependent variables in the models
 
-0.000 0.120
+Proportion enrolled Proportion participating* Time 2 risks T2–T1 behavior change
 
-1.000 0.608 3.747 −0.352
+0.321 0.606
 
-0.000 0.116 0.330 0.175
+0.183 0.143
 
-- Proportion participating based to those who have enrolled.
+1.000 0.614

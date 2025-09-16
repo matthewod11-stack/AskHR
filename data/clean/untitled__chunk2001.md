@@ -1,5 +1,9 @@
-# York: Norton.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a9030daee90b34c6e8be1cbe15ffac7f1f6e026b
+title: untitled
+---
+# 354 Clinical Psychology
 
-Korman, M. (1974). National conference on levels and patterns of themes.
-
-training professional American Psychologist, 29, 441–449.
+Kelly, G. A. (1955). The psychology of personal constructs. New

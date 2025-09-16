@@ -1,7 +1,11 @@
-# perception, and any untapped potential.
+---
+source_path: H08SGA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d40349e7feb59b2e9bb498ff9bfca63e98b9122
+title: H08SGA-PDF-ENG
+---
+# reviews alone.
 
-- Consider asking each leader to participate in a formal 360 review,
+- Conduct stakeholder interviews within your department and cross
 
-or share their most recent one, to gain nuanced insights into their
-
-leadership behaviors and how they’re perceived within the company
+functionally to gather more details about past performance, current

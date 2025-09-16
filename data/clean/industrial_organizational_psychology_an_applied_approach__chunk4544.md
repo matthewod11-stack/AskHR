@@ -1,9 +1,7 @@
-# Police Department, 89
-
-Adaptation, 517 Adarand v. Pena, 104 Additive tasks, 482 Adelphia, 517 Adverse impact, 91–94, 196,
-
-225–226
-
-defenses for, 93–94 determining, 91–92,
-
-225–226
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b3ffdd4150d7b27e01bbf4f5ef6514523c80d90c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Adams v. North Little Rock

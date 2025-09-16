@@ -1,23 +1,43 @@
-## initiatives, like a roadmap for an organization-wide eﬀort, as well as
+---
+source_path: H08RVK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1408d6a366bcfdd5a2e97e8cbb7116dfa64e7f68
+title: H08RVK-PDF-ENG
+---
+## HBR / Digital Article / Is Your Flexible Schedule Burning You Out?
 
-meeting with other executive stakeholders to get alignment on that
+not with his family, and guilty when he was with his family and not
 
-plan. Tim performed at a higher level and received a promotion by
+working.
 
-ensuring that when he did work, he was doing so on the most valuable
+I worked with Tim on deﬁning what was enough in diﬀerent parts of his
 
-use of his time. Best of all—he stopped feeling guilty and had time back
+schedule, as I did with Sean—but we took it a step further. To actually
 
-in the evening and on weekends to spend with his family.
+compress his work hours to a less ﬂexible timeframe, he needed to
 
-As a senior leader, there will always be more tasks that people want you
+radically clarify where he added the most value. As a senior leader, he
 
-to do than you can get done. To succeed, decide on where you provide
+had to ensure that he was producing results for his corporation.
 
-the highest value in terms of the organization’s goals. Focus on those
+Although he had ﬂexibility with his work hours, Tim found that almost
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+all of his scheduled workday was spent in back-to-back meetings, which
 
-4
+forced him to work on nights and weekends to get his work done as
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+an independent contributor. To free up time, we did a meeting audit,
+
+where we took a look at the meetings he was accepting to determine
+
+which were really necessary to attend. After this assessment, he started
+
+to reduce how many meetings he went to by declining them, delegating
+
+them to other team members, emailing his thoughts, or attending
+
+only the decision-making part of the meetings and leaving once the
+
+execution part began.
+
+This allowed Tim to open up hours during the day to focus on strategic

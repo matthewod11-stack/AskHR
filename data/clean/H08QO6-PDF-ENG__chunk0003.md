@@ -1,9 +1,17 @@
-## overseen by fellow VPs with aggressive quarterly targets of their own.
+---
+source_path: H08QO6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e25f81faa64e9056ba281899a8809c3920b5f5ed
+title: H08QO6-PDF-ENG
+---
+# Richard Baker/Getty Images
 
-“I used to just tell my team what to do,” he told me. “But now I spend
+Delegating to your direct reports is simple. They report to you, so when
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+you assign work, they know it’s part of their job. But with peers, it’s
 
-1
+trickier. Take what happened to Preston, who had recently stepped
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+into a VP role leading Customer Experience. His ﬁrst major initiative
+
+involved rejiggering workﬂows across Sales, Support, and Product—all

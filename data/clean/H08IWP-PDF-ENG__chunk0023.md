@@ -1,17 +1,25 @@
-# Stipulate information rights.
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bdb65794433c381acb133c4a718b6fcb308318d
+title: H08IWP-PDF-ENG
+---
+# Serve as mediator.
 
-The prior two mechanisms increase the chances that a balance will
+Having a forum where stakeholders can voice their interests improves
 
-be found among stakeholders’ interests, but they don’t ensure that
+their mutual awareness, but it does not guarantee that stakeholders’
 
-stakeholders will actually discuss the issues that are most relevant to
+often divergent interests will be automatically aligned. That’s because
 
-them, because executives might be withholding important information
+although all key stakeholders are necessary for the business model to
 
-from them. If you want to improve transparency and build trust among
+work, some are naturally more important than others and can therefore
 
-stakeholders and executives, you should make it possible ﬁrst for
+exert their power in the forum to impose their interest. As an executive
 
-everybody to declare what issues are most important to them, and
+at the center of the stakeholder nexus, you’re in a unique position to
 
-second you should stipulate that every stakeholder has the right to
+mediate and identify compromises so that no stakeholder is favored at
+
+others’ expense or blocks decision making.

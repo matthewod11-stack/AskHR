@@ -1,7 +1,7 @@
-# Ana Moreno
-
-It’s been less than three years since OpenAI introduced ChatGPT, but
-
-the technology has already begun to transform work. Tasks that once
-
-consumed large parts of many employees’ days can now be done more
+---
+source_path: F2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be520bfec34a17852ffd6e4d075d57254984b629
+title: F2504A-PDF-ENG
+---
+## From the Magazine (July–August 2025) / Reprint F2504A

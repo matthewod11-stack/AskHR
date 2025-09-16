@@ -1,13 +1,55 @@
-# about “character” during the draft.
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c20862e4dd0a9a16ee083541753c4ab869ef9b75
+title: S24054-PDF-ENG
+---
+# What Helps—and What Gets in the Way
 
-Leaders work within a system. When football fans look back on the
+The leadership behaviors I’ve just described can help any individual
 
-Patriots’ success from 2001 to 2019, they spend a lot of energy trying
+improve a team’s performance. But there are also some pretty strong
 
-to divide up the credit. Who was responsible for it? Was it the coach?
+forces that can work for or against you and inﬂuence how much better a
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+team can get.
 
-14
+The emotions and behaviors that deﬁne individuals are formed early.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+My experience working with hundreds of teammates has taught me
+
+that the core behaviors that make any of us a good teammate—
+
+unselﬁshness, discipline, humility—are wired into us when we’re very
+
+young. If your childhood experiences taught you that people aren’t
+
+trustworthy or don’t follow through on promises, it can be tough
+
+to convince you otherwise when you become a pro athlete in your
+
+twenties. That’s a real challenge. As a society, we should begin more
+
+systematically teaching behaviors around teamwork when kids are in
+
+kindergarten—and even then, there’s no guarantee that those lessons
+
+will make a diﬀerence, especially for children who have unstable family
+
+lives. As members of organizations, whether sports teams or companies,
+
+we need to start focusing on teaching team-centric behaviors to young
+
+people coming up in the ranks. I’m now a part owner of a British soccer
+
+team and a women’s professional basketball team, and I’m trying to
+
+become a part owner of the NFL’s Las Vegas Raiders. In these roles, I’m
+
+doing all I can to transfer some of the leadership lessons I learned in
+
+my athletic career to the next generation of players. But again, that can be diﬃcult, because by the time athletes reach the professional ranks,
+
+many of their values and their ability to adapt and manage emotions
+
+are fully formed. That’s why scouts and general managers talk so much

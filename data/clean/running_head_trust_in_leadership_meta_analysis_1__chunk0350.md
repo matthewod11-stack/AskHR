@@ -1,21 +1,27 @@
-# Servant
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 5f96121248c3593d625c3f3027967ae0c9ee8878
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Transformational
 
-5
+14
 
-923
+3583
 
-.58
+.55
 
-.47
+.48
 
-.70
+.62
 
-.69
+.63
 
-.12
+.17
 
-17.79
+8.28
 
-.53
+.42
 
 .84

@@ -1,7 +1,11 @@
-# 24 Psychology as a Science
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 90b17435e9bcc7e981a596661f027ac35d0d95f9
+title: untitled
+---
+# River, NJ: Prentice Hall.
 
-Leary, D. (1987). Telling likely stories: The rhetoric of the new psy- chology, 1880–1920. Journal of the History of the Behavioral Sciences, 23, 315–331.
+Leary, D. (1978). The philosophical development of the conception of psychology in Germany, 1780–1850. Journal of the History of the Behavioral Sciences, 14, 113–121.
 
-Logan, C. A. (1999). The altered rationale for the choice of a stan- dard animal in experimental psychology: Henry, H. Donaldson, Adolf Meyer, and “the” albino rat. History of Psychology, 2, 3–24.
-
-Mandler, G., & Kessen, W. (1959). The language of psychology.
+23

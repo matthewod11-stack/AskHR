@@ -1,9 +1,13 @@
-## at the employer level”, Labour Economics, Vol. 8 No. 1, pp. 1-14.
+---
+source_path: emerald_rege_rege603931_84_101.md
+pages: n/a-n/a
+chunk_id: 015989a3990ae8dfe467b2a60999a6c2e517e36d
+title: emerald_rege_rege603931_84_101
+---
+# Bastos, A.V.B.
 
-Campos, C.A. and Malik, A.M. (2008), “Satisfação no trabalho e rotatividade dos médicos do programa
+Bastos, A.V.B., Brandão, M.G.A. and Pinho, A.P.M. (1997), “Comprometimento Organizacional: uma análise do conceito expresso por servidores universitários no cotidiano de trabalho”, Revista de Administração Contemporânea, Vol. 1 No. 2, pp. 97-120, doi: 10.1590/S1415-65551997000200006. (2008), “Comprometimento Organizacional”, in Siqueira, M.M.M. (Ed.), Chapter 4, Medidas do Comportamento Organizacional, Bookman, Porto Alegre, pp. 54-72.
 
-de saúde da família”, Revista de Administração Pública, Vol. 42 No. 2, pp. 347-368.
+Bastos, A.V.B., Siqueira, M.M.M., Medeiros, C.A.F. and Menezes, I.G.
 
-Carayon, P., Schoepke, J., Hoonakker, P.L.T., Haims, M.C. and Brunette, M. (2006), “Evaluating causes and consequences of turnover intention among IT workers: the development of a questionnaire survey”, Behaviour & Information Technology, Vol. 25 No. 5, pp. 381-397, doi: 10.1080/01449290500102144.
-
-Cardoso, A. and Lage, T. (2007), As Normas e os Fatos, FGV, Rio de Janeiro.
+Burguess, S., Lane, S. and Stevens, L. (2001), “Churning dynamics: an analysis of hires and separations

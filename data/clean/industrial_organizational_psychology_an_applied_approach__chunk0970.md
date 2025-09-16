@@ -1,7 +1,23 @@
-# 7
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f6136959c4358cdaa3c9da9c4ec960682434a437
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Nontraditional Populations
+
+When traditional recruitment methods are unsuccessful, many organizations look for potential applicants from nontraditional populations. Here are a few examples:
 
 7
 
 7
 
-Cub Foods in Illinois hires people with intellectual disabilities to serve as baggers in their grocery stores (Andrews, ). At rug maker Habitat International in Tennessee, over % of the employees have a physical or intellectual disability (Andrews, ). To solve the driver-shortage problem, many trucking companies are trying to hire married couples to be team drivers. To better entice them, trucks are enhanced to include larger sleeping berths and appliances such as microwave ovens (Taylor, b).
+7
+
+7
+
+7
+
+Manpower Incorporated, in Chandler, Arizona, the Chicago Police Department, and the Hackensack, New Jersey, Police Department, formed partnerships with local churches that resulted in successful hires (Tyler, ). Xerox, J. P. Morgan, and American Express developed recruitment strategies and such gay-friendly benefits as domestic partner benefits to recruit and retain gay and lesbian employees (Armour, ). Seventy percent of organizations have reported that hiring welfare recipients has been a successful source of recruitment (Minton-Eversole, ). Due to low wage-and-benefit costs, Jostens Incorporated and Escod Industries are using prison inmates to perform work. In additional to the financial savings to the employer and the work skills learned by the inmates,  cents of every dollar earned by inmates is used to pay the cost of incarceration, and another  cents goes for victim compensation and support of the inmate’s family (Workplace Visions, ). Denny’s and Sheboygan Upholstery have been successful in recruiting ex-cons. In fact, the Kettle Moraine Correctional Institution in Wisconsin held a job fair for  soon-to-be-released convicts. The job fair was attended by  employers (Jones, ).
+
+Figure 4.7 Evaluating the eff ectiveness of recruitment strategies

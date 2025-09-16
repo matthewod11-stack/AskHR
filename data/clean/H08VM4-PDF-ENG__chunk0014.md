@@ -1,11 +1,21 @@
-# better outcomes.
+---
+source_path: H08VM4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00c1f0420f313dae204b3625f446fba53763edb3
+title: H08VM4-PDF-ENG
+---
+# hangovers,” focus on ﬁve key strategies.
 
-Turn agendas into action plans. Frame agenda items as speciﬁc
+Don’t dominate, facilitate. Encourage participation by letting team
 
-questions that drive decisions. Instead of “Product Launch Update,”
+members lead relevant agenda items. Use interactive tools like polls,
 
-ask, “What are the critical risks to our product launch timeline, and
+and structure discussions to ensure everyone has a voice.
 
-how can we mitigate them?” Clear, action-oriented topics keep meetings eﬃcient.
+Cut the guest list. Only invite those essential to the discussion. If
 
-Make every minute count—and don’t run over. Set meetings for the
+someone doesn’t need to be there, oﬀer them alternatives, like asking
+
+them for pre-meeting input or sending them a follow-up summary.
+
+Fewer attendees mean more-focused conversations—and ultimately

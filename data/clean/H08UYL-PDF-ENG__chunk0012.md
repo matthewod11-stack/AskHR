@@ -1,13 +1,27 @@
-# conﬁdence and clarity.
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 937676be2a50faf1ba1d1a4e2667e03669846b7c
+title: H08UYL-PDF-ENG
+---
+## diluted focus on the company’s core advertising business. Through
 
-One CEO Jordan coached wanted to be transparent as he navigated shifting return-to-oﬃce plans. With his executive team, he often shared
+executive coaching with one of us (Tutti), he introduced a structured
 
-his evolving thoughts—and worries—in real time, sometimes leaning
+“5% innovation time” and began clearly distinguishing between
 
-toward full-time return, other times suggesting permanent remote
+exploratory concepts and strategic priorities. This shift preserved his
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+creative energy while enabling the team to stay focused on execution.
 
-3
+- 3. The Anxious Communicator
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This leader overshares uncertainty in the name of transparency.
+
+They want to be honest and real but often broadcast indecision or
+
+internal anxiety too early. During organizational change, this can
+
+leave teams feeling unmoored rather than informed, contributing to
+
+change exhaustion when repeated ambiguous updates erode employee

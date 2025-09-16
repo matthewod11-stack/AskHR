@@ -1,11 +1,17 @@
-## sonality and Social Psychology, 73, 1246–1256.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 0286b198f000664f1e953b6aaceb2d41739c4505
+title: barrickryan_eds_personality_and_work
+---
+# 24 PERSONALITY AND WORK
 
-Ellsworth, R., & Maroney, R. (1972). Characteristics of psychiatric pro- grams and their effects on patients’ adjustment. Journal of Consult- ing and Clinical Psychology, 39, 436–447.
+De Raad, B., & Szirmák, Z. (1994). The search for the “Big Five” in a non- Indo-European language: The Hungarian trait structure and its re- lationship to the EPQ and the PTS. European Review of Applied Psychology, 44, 17–26.
 
-Eysenck, H. J. (1991). Dimensions of personality: 16, 5, or 3? Criteria for a taxonomic paradigm. Personality and Individual Differences, 12, 773–790.
+Di Blas, L., & Forzi, M. (1998). An alternative taxonomic study of per- sonality descriptors in the Italian language. European Journal of Per- sonality, 12, 75–101.
 
-Funder, D. C. (2001). The personality puzzle (2nd ed.). New York: Norton. Goldberg, L. R. (1981). Language and individual differences: The search for universals in personality lexicons. In L. W. Wheeler (Ed.), Re- view of personality and social psychology (Vol. 2, pp. 141–165). Thou- sand Oaks, CA: Sage.
+Di Blas, L., & Forzi, M. (1999). Reﬁning a descriptive structure of per- sonality attributes in the Italian language: The abridged Big Three circumplex structure. Journal of Personality and Social Psychology, 76, 451–481.
 
-Goldberg, L. R. (1990). An alternative “Description of personality”: The Big-Five factor structure. Journal of Personality and Social Psychology, 59, 1216–1229.
+Digman, J. M. (1990). Personality structure: Emergence of the Five-Factor Model. In M. R. Rosenzweig & L. W. Porter (Eds.), Annual review of psychology (Vol. 41, pp. 417–440). Palo Alto, CA: Annual Reviews.
 
-Goldberg, L. R. (1992). The development of markers for the Big-Five fac-
+Digman, J. M. (1997). Higher order factors of the Big Five. Journal of Per-

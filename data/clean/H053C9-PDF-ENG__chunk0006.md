@@ -1,7 +1,7 @@
-# Kelly Bowden/Getty Images
-
-As the rainbow ﬂags come down in New York City after the WorldPride
-
-and Stonewall 50 celebrations, and as ﬂags go up for pride events in
-
-other parts of the world, it’s worth asking: where do we stand on global
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1cc5ca9a6ee8d0713e47cf31100497672dcfe7c4
+title: H053C9-PDF-ENG
+---
+## Published on HBR.org / August 15, 2019 / Reprint H053C9

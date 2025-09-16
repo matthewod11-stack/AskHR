@@ -1,9 +1,7 @@
-# 1.2(cid:32) Background of the Report
-
-There is no doubt that the world of work is rapidly changing. As part of an organization then,
-
-HRM must be equipped to deal with the effects of the changing world of work. For them this
-
-means understanding the implications of globalization, technology changes, workforce diversity.
-
-Changing skill requirements, continuous
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 90e20ba0194cb0784d97a950c687b29bf3f1c8a7
+title: internship_report
+---
+## & Policy Development of Karnaphuli Group. (cid:32)

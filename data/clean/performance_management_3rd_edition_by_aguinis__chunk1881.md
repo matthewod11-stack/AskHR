@@ -1,17 +1,15 @@
-# 11.4.1 Prerequisites
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 33f39faffa5e9c8d97a9b20c1660eb80984e1c49
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part IV • Reward Systems, Legal Issues, and Team Performance Management
 
-The first component of the performance management process involves two prerequi- sites. First, there is a need to have good knowledge of the organization’s mission. This prerequisite is present regardless of whether there is an emphasis on team performance. This knowledge, combined with knowledge regarding the mission of the team’s unit, allows employees to make contributions that will have a positive impact on the unit and organization as a whole. Second, there is a need to have good knowledge of the job in question. In the case of individual jobs, a job analysis is conducted to determine the key components of a particular job: hat tasks need to be done, how they are to be done, and what knowledge, skills, and abilities (KSAs) are needed to do them. Similarly, if we have good information about what a team is supposed to do and how, then it is easier to establish criteria for team success.
+- 4. Use a multi-method approach to measurement. The measurement of team performance is complex. Thus, multiple methods and sources of data are often necessary.
 
-In addition to considering the team as a whole, we need to identify KSAs that will allow individuals to make a positive contribution to the team. These include not only KSAs related directly to the task at hand, such as a programmer who needs to have knowledge of the programming language, but also KSAs that are especially conducive to team performance. Examples include the following:10,11,12
+- 5. Focus on process as well as outcomes. Behavioral/process-oriented measures as well as results are as useful for team performance management systems as for individuals. Thus, serious consideration must be given to how both types of measures will be used within the context of managing team performance.
 
-- Communication. Giving and receiving constructive feedback, listening, and shar- ing information and ideas.
+- 6. Measure long-term changes. Although short-term processes and results are easier to measure, it is important to also consider long-term measures of performance. Team performance must be sampled over a variety of contexts and over time.
 
-- Decision making. Helping the team make decisions. • Collaboration. Dealing with conflict effectively, committing to the team and its goals, valuing the diversity and experience of other team members, and sharing accountability.
-
-- Team leadership. Taking on the role of team leader, including knowing how to ex- tract the best out of the team.
-
-- Self-control.
-
-Keeping emotions under control and not displaying negative
-
-actions even when faced with opposition or even hostility from others.
+Recall the basic components of the performance management process as shown in Figure 11.2. You may recall that this same figure appears in Chapter 2. Now, let’s consider each of the components of the process when we design a system that includes team performance and let’s incorporate the six basic principles outlined above into the various steps in the process.

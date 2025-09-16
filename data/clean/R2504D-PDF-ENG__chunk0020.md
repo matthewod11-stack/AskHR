@@ -1,17 +1,19 @@
-## new communication channels and trust-building mechanisms. His
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a110756938e198158f115096d91c1b5c5a4faf6
+title: R2504D-PDF-ENG
+---
+# Yasu + Junko/Trunk Archive
 
-signature innovation was the business-plan review meeting, a weekly
+A decade later, Alan Mulally took a similar approach in building a
 
-forum where division executives reported their projects’ status using
+positive organizational environment at Ford. When he took the helm,
 
-a red-yellow-green traﬃc-light system. Mulally publicly celebrated the
+in 2006, the company was facing a $12.7 billion loss and struggling
 
-executives brave enough to present red projects, declaring, “You can’t
+with a deeply entrenched culture of distrust and secrecy. Fearing
 
-manage a secret.” This seemingly simple change catalyzed a profound
+blame or punishment, executives hid problems in their divisions until
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they turned into crises. Mulally spent his ﬁrst months establishing

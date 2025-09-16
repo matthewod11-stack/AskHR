@@ -1,1 +1,17 @@
-# disabilities.
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e398107a5e78396db4314b14b8700de2431df29b
+title: R2304H-PDF-ENG
+---
+## All of this results in high levels of employee engagement. Thijssen
+
+told us that La Trappe’s employee attrition rate and absenteeism had
+
+fallen to all-time lows. People didn’t want to leave the company and
+
+hardly ever called in sick. Other companies in our study had similar
+
+experiences: Twenty of the 57 ﬁrms that we surveyed reported a decline
+
+in absenteeism after their companies had started hiring people with

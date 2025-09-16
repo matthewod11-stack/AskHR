@@ -1,13 +1,7 @@
-# post-close.
-
-In our experience, organizations tend to assess the culture of the
-
-company they are acquiring but often fail to assess the culture of
-
-their own organization. Understanding your own organizational culture
-
-will help you determine which aspects of culture to prioritize during
-
-integration. Plus, a thorough understanding of both cultures will help
-
-you determine what you’ll need to do to successfully bring them
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad12ab959b39fbe1990559629076444f49624069
+title: H08ON1-PDF-ENG
+---
+## the due diligence phase of the acquisition (if possible) or immediately

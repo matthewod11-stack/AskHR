@@ -1,7 +1,25 @@
-## What to Do If You Manage a “Quiet Quitter”
+---
+source_path: H077SI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 608fb955bb085849b1269c4a29a8c45177c4d683
+title: H077SI-PDF-ENG
+---
+## HBR / Digital Article / Quiet Quitting Is About Bad Bosses, Not Bad Employees
 
-Suppose you have multiple employees who you believe to be quietly
+Many people, at some point in their career, have worked for a manager
 
-quitting. In that case, an excellent question to ask yourself is: Is this a
+that moved them toward quiet quitting. This comes from feeling
 
-problem with my direct reports, or is this a problem with me and my
+undervalued and unappreciated. It’s possible that the managers were
+
+biased, or they engaged in behavior that was inappropriate. Employees’
+
+lack of motivation was a reaction to the actions of the manager.
+
+Most mid-career employees have also worked for a leader for whom they
+
+had a strong desire to do everything possible to accomplish goals and
+
+objectives. Occasionally working late or starting early was not resented
+
+because this manager inspired them.

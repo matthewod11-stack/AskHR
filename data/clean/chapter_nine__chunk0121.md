@@ -1,7 +1,21 @@
-## Online Journal of Issues in Nursing. Vol. 16. No. 2. Manuscript 1.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 46f40e345747868fdaa5aefb7da930d10af74f0d
+title: chapter_nine
+---
+## Effectiveness through a Programme of Support. London: RCN.
 
-McCance, T.V. (2003) Caring in nursing practice: the development of a conceptual framework. Research and Theory for Nursing Practice: An International Journal. Vol. 17. No. 2. pp 101-116. McClure, M., Poulin, M., Sovie, M., Wandelt, M. (1983) Magnet Hospitals: Attraction and Retention of Professional Nurses. Kansas City: American Academy of Nursing:Taskforce on Nursing Practice in Hospitals.
+Mannion, R., Davies, H., Marshall, M. (2005) Cultural characteristics of ‘high’ and ‘low’ performing
 
-McCormack, B. (2001) Autonomy and the relationship between nurses and older people. Ageing and
+hospitals. Journal of Health Organization and Management. Vol. 19. No. 6. pp 431-439.
 
-Society. Vol. 21. No. 4. pp 417-446.
+Manojlovich, M., Ketefian, S. (2002) The effects of organisational culture on nursing professionalism: implications for health resource planning. Canadian Journal of Nursing Research. Vol. 33. No. 4. pp 15-34.
+
+Marshall, M., Sheaff, R., Rogers, A., Campbell, S., Halliwell, S., Pickard, S., Sibbald, B., Roland, M. (2002) A qualitative study of the changes in primary care organisations needed to implement clinical governance. British Journal of General Practice. Vol. 52. No. 481. pp 641-645.
+
+Martin, V. (2000) Own goals: how to measure effectiveness. Nursing Management. Vol. 7. No. 1. pp
+
+23-26.
+
+McCance, T., McCormack, B., Dewing, J. (2011) An exploration of person-centredness in practice. The

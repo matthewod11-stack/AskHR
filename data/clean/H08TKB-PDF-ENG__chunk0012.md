@@ -1,23 +1,33 @@
-# daily routines.
+---
+source_path: H08TKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 34988d59b405e8d529c2dd66ebf56b039f1f0827
+title: H08TKB-PDF-ENG
+---
+# HBR / Digital Article / Planning an Offsite for Your Leadership Team? Ask These 5 Que…
 
-Oﬀsites aren’t just a day away from the oﬃce—they’re an opportunity to
+Allocate time at the end of the oﬀsite to align with the team on a
 
-reset your team’s trajectory. By focusing on these ﬁve questions, you’ll
+handful of commitments. Set expectations that all participants will be
 
-transform a routine gathering into a catalyst for meaningful change.
+held accountable, and track the team’s progress vs. commitments on a
 
-Start with the end in mind, ask the right questions, and design and
+quarterly basis. Intervene when progress isn’t demonstrated and reward
 
-deliver an oﬀsite that creates connection, clarity, and momentum so
+continuing eﬀorts when they are.
 
-your team walks away primed to thrive.
+Another approach to ensuring follow through is to establish champions
 
-This article was originally published online on July 17, 2025.
+who will hold the team accountable for certain commitments. For
 
-Marissa Fernandez is a former chief marketing oﬃcer turned executive coach, speaker, and facilitator who helps organizations strengthen leadership impact, navigate change, and elevate team performance. She brings 15+ years of senior experience at brands like the NFL, Gillette, and Tide. Marissa specializes in executive coaching and team development that accelerates collaboration, builds conﬁdence, and delivers lasting results.
+example, a media company’s leadership team developed new operating norms at their oﬀsite to improve decision-making eﬃciency. To ensure
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the norms stuck, they assigned a “norms champion” for each team
 
-5
+meeting—a rotating role responsible for monitoring adherence and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+gently calling out deviations. They also scheduled a 30-day follow-up
+
+session to reﬂect on what was working, adjust the norms, and reinforce
+
+their commitment. These steps helped embed the changes into their

@@ -1,7 +1,17 @@
-## for interviews — for example, a management position — members of
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83a6475137d6252f3b3f4c1665fa281ea83a23fe
+title: H07NT2-PDF-ENG
+---
+## due to systematic inequities in access to resources and opportunities
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+between groups in society, members of traditionally advantaged groups
 
-5
+are disproportionately likely to attend prestigious undergraduate
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+universities, secure sought-after internships, and achieve a post-
+
+graduate (e.g., master’s) degree. Thus, if the job being hired for is one
+
+where people with fancy credentials are especially likely to be selected

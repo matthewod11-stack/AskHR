@@ -1,3 +1,13 @@
-# that
+---
+source_path: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare.md
+pages: n/a-n/a
+chunk_id: 760467463ed044e34f2dccd534be1efb2bd01ee8
+title: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare
+---
+# Page 4 of 11
 
-Thematic analysis Participants responded to four open-ended questions on cross-cultural health care delivery. They were asked to re- flect on ways to improve cross-cultural health care and the extent to which they perceived their organizations to be suitably performing in this area. Each question and the associated response themes are presented below.
+Participant perceptions on the importance of cross- >cultural education and communication in health care settings are presented in Table . The vast majority of participants clearly believed that cultural considerations are an important component of best practice health care and that professionals should be learning about different cultural groups. Responses varied as to whether one’s organization should be making improved efforts to meet the needs of diverse clientele and whether <?A3B2 thyc=cultural-specific approaches to health (e.g., trad- itional/spiritual healers) should be accommodated.
+
+Participants were also asked to designate the level of perceived importance they afforded to having staff from diverse cultural backgrounds represented at their work- place. Almost three-fifths (39.3%, n = 22) of the sample believed staff diversity to be ‘extremely important’, 28.6% (n = 16) believed staff diversity to be ‘important’ and a further 12.5% (n = 7), 17.9% (n = 10), 1.8% (n = 1), believed staff diversity to be moderately, slightly, or not at all important, respectively. Most participants (91.1%, n = 51) acknowledged that bi-lingual staff worked at their organization. Three participants (5.4%) did not pro- vide an answer to this question.
+
+Participant perceptions of their own cross-cultural awareness experiences and capabilities are presented in Table 2. Health care providers acknowledged that they regularly treat patients of color and that they would commonly attend to their needs. The majority also noted that sometimes, and for some, often, it was more challenging to treat or engage with patients from a different cultural background to their own. Over 40% (n = 23) of participants believed that their cultural back- ground often makes patients from other cultural back- grounds uncomfortable. Moreover one-fifth (n = 12) of the sample thought their cultural background sometimes made patients of color feel anxious or ner- vous. Participants were also asked to describe how sat- isfied they were with their own perceived level of cross-cultural knowledge. Under 15% (n = 8) reported that they were ‘extremely satisfied’ with their level of knowledge, 64.3% (n = 36) were ‘satisfied’ with their level of knowledge, 16.1% (n = 9) were neither dissatis- fied or satisfied, and 3.6% (n = 2) were ‘dissatisfied’. No participant reported ‘extreme dissatisfaction’ with their level of cross-cultural knowledge.

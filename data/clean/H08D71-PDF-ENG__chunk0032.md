@@ -1,13 +1,11 @@
-## America, and Southeast Asia, where performance, quality, and cost
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3a32fb5ebc4a6e13ab763983b8478cc15bf80d0
+title: H08D71-PDF-ENG
+---
+# China.
 
-requirements are more similar to China than to the U.S.- or Europe-
+Crucially, the technology innovations pioneered in China have allowed
 
-designed products. Complementary strengths and collaboration with
-
-Cummins contributed to Chinese truck OEM’s exporting over 300,000
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Cummins to expand in other developing markets such as India, South

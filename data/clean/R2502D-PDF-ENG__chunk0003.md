@@ -1,9 +1,19 @@
-## & Gamble’s cofounder William Procter in 1887; and (4) Isaac Singer’s
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c5df0154b6118d7a1809c1c3cd468bf69f848dd
+title: R2502D-PDF-ENG
+---
+# Sameer Raichur
 
-19th-century network of local dealers selling sewing machines. Even the
+When we teach innovation at the world’s largest companies and in
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Stanford University’s most popular courses on entrepreneurship, we
 
-1
+often start by asking what these four innovations have in common:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+(1) the moving disassembly lines of Chicago slaughterhouses in the
+
+late 1800s; (2) quick-drying nitrocellulose black lacquer used in what
+
+is known as “japanning”; (3) staﬀ proﬁt-sharing, introduced by Procter

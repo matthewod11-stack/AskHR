@@ -1,9 +1,15 @@
-# NM
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27fa5cfc42a7e09c8e93c26cce10bac8556f0244
+title: H08P90-PDF-ENG
+---
+# HBR / Digital Article / To Drive Innovation, Create the Conditions for Serendipity
 
-Nicolas Mottis is Professor at the Ecole Polytechnique in France. His research focuses on performance management, sustainable ﬁnance and innovation management. He is the author of several books and numerous academic and professional publications in these ﬁelds. He is also President of the Doctors Without Borders Foundation.
+themselves up to its possibilities. That’s a pity because it suggests that
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+they may be missing out on a great many opportunities.
 
-8
+This article was originally published online on May 13, 2025.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Jérôme Barthélemy is Professor of Strategy & Management, and the former Executive Vice-President, Dean for Post Experience Programs, Corporate Programs & Relations at ESSEC Business School in France. He is the author of Myths of Strategy (Kogan Page, 2023)

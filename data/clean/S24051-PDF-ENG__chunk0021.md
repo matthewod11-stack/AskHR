@@ -1,21 +1,21 @@
-## on-one feedback sessions and twice-a-month retrospective reviews with
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6e60876dbde3b76c75b7fd16a57d9f9b8f4bf87
+title: S24051-PDF-ENG
+---
+## us but also with a mix of outside digital architects, designers, and
 
-the whole team. These systematic take-stock moments, all tracked
+experts. Team members were greatly frustrated: They didn’t know what
 
-by a digital tool, enabled the team to make adjustments as needed.
+was expected of them or who was responsible for what. Everyone was
 
-During one retrospective, for example, the team realized it needed help
+working long hours, to little eﬀect. Time to start over.
 
-applying the bank’s agile methodology to the current transformation
+The team leaders decided to reset using the WWW operating system.
 
-project. So it called in experts to provide coaching. By the end
+First, they held a structured kickoﬀ—involving all team members,
 
-of the nine-month project, the bank had successfully launched the
+including outside consultants—that set a work cadence, team norms,
 
-digital products it had set out to develop, and the McKinsey team
-
-had completed a comprehensive handover, transferring all relevant
-
-knowledge to the client. Both the McKinsey team members and the
-
-client reported a positive experience—an excellent result after that
+and expectations. Team leaders committed to conducting regular one-

@@ -1,5 +1,9 @@
-## Legal framework Internal rules & regulations Statutory rules
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 4389b943813095e742e09416ff9ba2707a6eb3d4
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Employee Regulation  
 
-
-
-Figure (cid:1006).(cid:1005): Co(cid:374)(cid:272)eptual fra(cid:373)e (cid:449)ork
+&

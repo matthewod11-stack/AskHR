@@ -1,7 +1,13 @@
-# Leaf as a meat processor?
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c05591e060c82a87a6662afe6f0a1db0af8e853a
+title: R2505M-PDF-ENG
+---
+## largely ignored collateral long-term damage to human health from
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+addictive products that contributed to obesity and increased cancer
 
-8
+risks. Sooner or later, he believed, those societal costs would have to be
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+addressed by the industry. What would the implications be for Maple

@@ -1,9 +1,9 @@
-# IT
+---
+source_path: H08T45-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a616bfb706ecf0eb6ee0c5eb08a897be9a9f37c
+title: H08T45-PDF-ENG
+---
+## HBR / Digital Article / 6 Steps to Reset a Demotivated Team
 
-Ina Toegel is a professor of leadership at IMD. She is the program director for IMD’s executive program on Leading High- Performing Teams and researches topics such as team dynamics, team composition, and organizational culture change. Named among the “Best 40 Under 40” global business school professors by Poets&Quants in 2021, Professor Toegel also works with top leadership teams globally in the industries of banking and insurance, manufacturing, luxury, and FMCG.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Alyson Meister is a professor of leadership at IMD where she directs the Future Leaders, Change Management, and Resilience programs. Her research focuses on high-performance leadership, team dynamics, and change, and she has worked with thousands of executives, teams, and organizations from professional services to industrial goods and technology. In 2021 she was recognized as a Thinkers50 Radar thought leader.

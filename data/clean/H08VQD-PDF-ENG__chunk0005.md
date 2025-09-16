@@ -1,11 +1,27 @@
-## HBR / Digital Article / You Need to Be Bored. Here’s Why.
+---
+source_path: H08VQD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f572ad393ff527b382b47ee4d08156d8c785e6f
+title: H08VQD-PDF-ENG
+---
+## nothing while your mind wanders and thinks about, for example, big
 
-I’ll tell you why not. We ﬁgured out a way to eliminate boredom. We’ve
+questions of meaning in your life. What does my life mean? You go to
 
-been able, almost completely, to shut oﬀ the default mode network
+uncomfortable existential questions when you’re bored.
 
-in our brains. How? The answer is that thing in your pocket with the
+That turns out to be incredibly important, incredibly good. One of the
 
-screen, which you take out even when you’re standing on the street
+reasons we have such an explosion of depression and anxiety in our
 
-corner waiting for the light to change, is like, I might have to wait here
+society today is because people actually don’t know the meaning of
+
+their lives, much less so in previous generations. Tons of data show this,
+
+and furthermore, we’re not even looking. Why not?
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

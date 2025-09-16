@@ -1,19 +1,25 @@
-# unhelpful.
+---
+source_path: H08RGL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da81040cdfd08526b842c13257baaf50955fe71e
+title: H08RGL-PDF-ENG
+---
+## HBR / Digital Article / Research: When Help Isn’t Helpful
 
-That’s right: one in four times, help wasn’t actually helpful.
+Helping was woven into the fabric of Glow—so much so that it was
 
-Decades of research has shown that helping at work, though valuable,
+enshrined in the employee handbook as the “mother-lode of all Glow
 
-is all too rare. Workers often don’t get the help they need—generally,
+values.” It was because of this culture that we approached them about
 
-because they don’t ask. In recent years, however, research, including
+conducting an in-depth study of help at work. We spent years studying
 
-our own, has identiﬁed some forward-looking organizations that have
+how helping worked at Glow, including conducting 69 interviews and
 
-cracked the code of creating a culture of helping, including ﬁguring
+analyzing 401 daily diary entries from team members about help they
 
-out how managers can oﬀer help without micromanaging. That makes
+gave and received. And yet, despite the strength of this culture, we
 
-helping a lot more common.
+discovered something unexpected in our data: 25% of help-seeking
 
-But making help more common comes with its own risks. Even in
+episodes reported in the daily diaries were rated by recipients as

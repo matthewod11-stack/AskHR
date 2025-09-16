@@ -1,3 +1,13 @@
-## learner. Learning and Individual Differences, 2, 327–336.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: dfcbc144a2cdfb3061a00b02c30dde2011ac2b83
+title: barrickryan_eds_personality_and_work
+---
+# Belmont, CA: Wadsworth.
 
-Harackiewicz, J. M., Barron, K. E., Carter, S. M., Lehto, A. T., & Elliot, A. J.
+Gully, S. M., Payne, S. C., Koles, K. L., & Whitman, J. (2002). The impact of error training and individual differences on training outcomes: An attribute-treatment interaction perspective. Journal of Applied Psy- chology, 87, 143–155.
+
+Guthrie, J. T., Wigﬁeld, A., & Von Secker, C. (2000). Effects of integrated instruction on motivation and strategy use in reading. Journal of Ed- ucational Psychology, 92, 331–341.
+
+Hall, R. H., Dansereau, D. F., & Skaggs, L. P. (1990). The cooperative

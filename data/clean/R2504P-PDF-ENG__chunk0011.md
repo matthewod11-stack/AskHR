@@ -1,19 +1,15 @@
-# your questions.”
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8592fd0f020d34c0250443c2660c8b5de465471
+title: R2504P-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: Do We Reskill or Replace Our Workforce?
 
-Rich Symond, who represented SolidTech’s founding family as head of
+the tight labor market, we’re therefore thinking about retraining our
 
-its investment trust, which still held a majority stake in the company,
+existing workforce and creating a new culture of continuous learning.
 
-unmuted himself ﬁrst. “Do we have evidence that programs like this
+This Grand Bargain will help us maintain our industry expertise and
 
-actually work in practice? Can we really get our existing employees to
-
-the level they need to be so that they’re retainable? Or will we still have
-
-to hire new software talent anyway and let other people go? I know that
-
-the family won’t want to see us do that to longtime employees, but I also
-
-worry that we’ll spend millions on retraining only to ﬁnd ourselves at a
-
-competitive disadvantage relative to companies that hired young guns
+stay competitive. Our adviser, Sarah Thompson, is here to help answer

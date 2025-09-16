@@ -1,19 +1,27 @@
-## HBR / Magazine Article / How Apple Is Organized for Innovation
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70a4ebaf61d2e230582eb22f72736794e915a8dd
+title: R2006F-PDF-ENG
+---
+# few of the improvements.
 
-knowledge of the technologies responsible for disruption. Long before it
+Apple leaders need deep expertise, immersion in details, and collaborative debate.
 
-can get market feedback and solid market forecasts, the company must
+To create such innovations, Apple relies on a structure that centers
 
-make bets about which technologies and designs are likely to succeed in
+on functional expertise. Its fundamental belief is that those with the
 
-smartphones, computers, and so on. Relying on technical experts rather
+most expertise and experience in a domain should have decision rights
 
-than general managers increases the odds that those bets will pay oﬀ.
+for that domain. This is based on two views: First, Apple competes in
 
-Second, Apple’s commitment to oﬀer the best possible products would
+markets where the rates of technological change and disruption are
 
-be undercut if short-term proﬁt and cost targets were the overriding
+high, so it must rely on the judgment and intuition of people with deep
 
-criteria for judging investments and leaders. Signiﬁcantly, the bonuses
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-of senior R&D executives are based on companywide performance
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,7 @@
-## needed—Slack, Zoom, webcams, Google Docs, and of course GitLab
-
-—to communicate, collaborate, and even develop rapport. And what
-
-mattered most to Dmitriy and me? Progress and results. Success isn’t
-
-measured in input such as hours spent at an oﬃce. It’s about output—
-
-what you achieve.
-
-Today at GitLab, I work with the executive team to set company-level
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c54fb3fd656f96da50562fd3a4ff7162854c475a
+title: R2302A-PDF-ENG
+---
+# HBR / Magazine Article / GitLab’s CEO on Building One of the World’s Largest All-Rem…

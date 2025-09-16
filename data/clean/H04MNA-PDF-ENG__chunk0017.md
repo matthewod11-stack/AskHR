@@ -1,21 +1,35 @@
-## work environments. So bystander intervention, which Stapleton and
+---
+source_path: H04MNA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7c614193e845a90cf1d4be062a3500325b3399a
+title: H04MNA-PDF-ENG
+---
+## Center at the University of New Hampshire and an expert in bystander
 
-others are beginning to develop for workplaces, is designed to help
+interventions, told me about an all-too-familiar scenario: Say there’s a lecherous guy in the oﬃce — someone who makes oﬀ-color jokes,
 
-everyone ﬁnd their voice and give them tools to speak up.
+watches porn at his cubicle, or hits on younger workers. Everyone
 
-It’s all about building a sense of community. “Bystander intervention is
+knows who he is. But no one says anything. Co-workers may laugh
 
-not about approaching women as victims or potential victims, or men as
+uncomfortably at his jokes, or ignore them. Maybe they’ll warn a new
 
-perpetrators, or potential perpetrators” she said. “Rather, it’s leveraging
+employee to stay away from him. Maybe not. “Everybody’s watching,
 
-the people in the environment to set the tone for what’s acceptable and
+and nobody’s doing anything about it. So the message the perpetrator
 
-what’s not acceptable behavior.”
+gets is, ‘My behavior is normal and natural,’” Stapleton said. “No one’s
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+telling him, ‘I don’t think you should do that.’ Instead, they’re telling
 
-3
+the new intern, ‘Don’t go into the copy room with him.’ It’s all about
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+risk aversion — which we know through decades of research on rape
+
+prevention, does not stop perpetrators from perpetrating.”
+
+When bystanders remain silent, and targets are the ones expected
+
+to shoulder responsibility for avoiding, fending oﬀ, or shrugging oﬀ
+
+oﬀensive behavior, it normalizes sexual harassment and toxic or hostile

@@ -1,17 +1,19 @@
-## and concentration. In such moments, AI-powered tools such as
+---
+source_path: H07RKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0164b16f2b9f73fd0167b0e0c871cdffd178719b
+title: H07RKP-PDF-ENG
+---
+## from the improved readability of text and the enhanced user experience
 
-ChatGPT are invaluable to communicate eﬀectively and access information eﬃciently. It becomes a supportive companion whether I
+when you use a plug-in like Dyslexie Font. In addition, it’s important
 
-need help organizing my thoughts or retrieving vital details. Its iterative
+to use clear and concise language in how to use the chatbot and in the
 
-and responsive nature helps me navigate through moments of cognitive
+chatbot’s responses (in the languages provided) to enable users with
 
-uncertainty, or “brain fog,” assisting me to fully engage in conversations
+cognitive disabilities to understand the conversation easily.
 
-and tasks that would otherwise be overwhelming. It helps me maintain
+The rewards of designing for accessibility and inclusivity are signiﬁcant.
 
-my productivity and independence, and ultimately it enhances my
-
-overall well-being despite the challenges posed by my condition.
-
-With regular testing and improvement to ensure that your interfaces
+As an individual living with multiple sclerosis, I have experienced eﬀects that include cognitive diﬃculties such as trouble with memory

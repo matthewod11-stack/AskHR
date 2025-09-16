@@ -1,9 +1,9 @@
-# Chronic self-esteem, 329 Chronological resumes, 149 Chronotypes, 551 Church of Body
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ba77cbd0da1a67b219235ce458dbae64d9afe8b8
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Restaurant, 348
 
-Modiﬁ cation, 86 Circadian rhythm, 548 Circuit City Stores v. Adams,
-
-77, 509
-
-Cisco, 583 City of Richmond v. Croson, 102 Civil Rights Act of 1866, 82 Civil Rights Act of 1964, 82 Civil Rights Act of 1991, 82 Claim Jumper Restaurants,
-
-321, 469
+Chick-ﬁ l-A, 347, 349 Child care, 581–584 Chile-absenteeism, 387 China-performance appraisal, 244 Christopher Lack v. Wal-Mart, 95

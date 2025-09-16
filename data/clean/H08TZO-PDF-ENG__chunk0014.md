@@ -1,9 +1,11 @@
-## strategic product shifts and two workforce shifts:
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 757f166c2344ee770809439268bf6084508d2ea4
+title: H08TZO-PDF-ENG
+---
+# exception.
 
-- 1. From youth-centric to age-inclusive product design
+To stay competitive in a world shaped by longevity, population aging,
 
-Older adults are often treated as edge cases in product development,
-
-if they’re considered at all. But designing with age in mind doesn’t
-
-mean designing only for older people. It means building for a range of
+and, in some cases, population decline, businesses should make two

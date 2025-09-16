@@ -1,9 +1,9 @@
-## role contribute to your professional growth?
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9fdd9d2f72eabd3ff408e7e2ec36dc1946e743ce
+title: H0881J-PDF-ENG
+---
+# these prompts:
 
-- Which aspects of your work do you feel align most with your career
-
-aspirations, and how can we build on those strengths?
-
-- Could you talk about any experiences or skills you’re hoping to gain
-
-soon to support your career path?
+- When you think about your long-term goals, how does your current

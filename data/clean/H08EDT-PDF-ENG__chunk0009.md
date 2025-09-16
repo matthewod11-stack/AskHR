@@ -1,17 +1,15 @@
-## Progress on Corporate Gender Advancement Is Mixed
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 10d091c5a3f784d766a8bc28dd9cea62133a7347
+title: H08EDT-PDF-ENG
+---
+## recent political attacks on the very concept of DEI and declines in
 
-Since it was ﬁrst released in 2015, the Women in the Workplace
+corporate commitments to racial and gender equity, there’s concern
 
-report has become more intersectional and nuanced, getting more
+that the next decade may not bring as much progress as the last one —
 
-detailed about the particular obstacles preventing women of color from
+which is why we need to keep our foot on the accelerator when it comes
 
-progressing in corporate America. The latest version of the report looks
-
-back on the past decade of women’s experiences. As it stands, women
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to achieving gender parity at work.

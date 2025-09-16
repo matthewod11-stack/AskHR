@@ -1,21 +1,19 @@
-# Customer Experience
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: edb11ff76a974a560a53c9a7de5324d7a571b3c1
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 62 | P a g e
 
-Customer experience reflects employee experience. Based on published literature
+and meaningful work should be linked to personal and development review with the
 
-and author research, positive customer experience is essential for an organization’s
+respective manager, and each employee should agree on their mission and role in
 
-success and begins with its first customers, the people who work there. It is strongly
+the company. Though Atlas Copco has a strong KPi’s and drive in diversity and
 
-recommended to establish a CX strategy. As a first, ensuring that employees
+inclusion, the company is perceived not be attractive for women. Diversity must be
 
-understand their roles in customer experience and how customer experience affects
+supported by middle management and a recommendation is to establish diversity
 
-employees. The right set up of goals and mission are very important factors. It is
-
-suggested to the organization that the process of annual targets should be built from
-
-financial and customer experience aspects. Secondly, the Net promoters score and
-
-Employee Experience survey should run regularly, a minimum on annual basis. Third,
-
-combining NPS data and EX data, building a comprehensive 360-degree view of
+ambassadors’ programs in each of customer centers.

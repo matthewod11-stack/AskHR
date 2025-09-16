@@ -1,9 +1,17 @@
-## dominate discussions. Research from psychology and economics
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7948e55ba0fa685cb78e9ebd4c6873309bdbe901
+title: R2405D-PDF-ENG
+---
+# recommendations.
 
-suggests that biases—such as base rate neglect, the tendency to overlook
+Whether evidence comes from an outside study or internal data,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+walking through it thoroughly before making major decisions is crucial.
 
-2
+In our interactions with companies—including data-heavy tech ﬁrms
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+—we’ve noticed that this practice isn’t consistently followed. Too
+
+often predetermined beliefs, problematic comparisons, and groupthink

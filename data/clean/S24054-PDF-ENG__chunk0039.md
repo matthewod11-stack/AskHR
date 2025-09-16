@@ -1,13 +1,27 @@
-## upside here, not only for sports teams but for any other organization.
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6496ea0215599f781ebe287761e9724d47744e65
+title: S24054-PDF-ENG
+---
+## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
 
-If the corporate world creates more skilled team leaders, companies
+This kind of evolution also happens away from sports. At age 19, Mark
 
-will produce better results and employees will have more fun doing it.
+Zuckerberg led Facebook diﬀerently than he does now, at age 40. But
 
-Bad bosses, toxic coworkers, and “quiet quitting” will become far less
+even when his entire team could ﬁt in his dorm room, he was still acting
 
-common. As much as I loved winning Super Bowls, I recognize that
+like a leader, and that’s important. Even the youngest people in an
 
-the impact of helping organizations achieve success through teamwork
+organization are capable of leadership. If they work intentionally toward
 
-could be far-reaching. That’s why I’m so excited about embracing this
+that goal, they’ll get better at it over time. Especially as I grew older, I
+
+worked to improve as a leader as much as I did at throwing a football.
+
+. . .
+
+Despite the challenges, I remain optimistic about the potential for more
+
+people to become better teammates and team leaders. There is a huge

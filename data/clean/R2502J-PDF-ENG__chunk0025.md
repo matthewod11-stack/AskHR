@@ -1,13 +1,17 @@
-# future.
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6472de6363fa6c1bfba208dd3b74dbdcaf8aca3c
+title: R2502J-PDF-ENG
+---
+## After a week of intensive monitoring, the incentive plan team
 
-Some of these practices may seem to be victimless crimes or relatively
+determined that 15% of the reps were ignoring a large share of their
 
-insigniﬁcant. Submitting a customer order on the ﬁrst day of the
+incoming calls, forcing other team members to pick them up, so that
 
-month rather than the last day of the previous month, for instance,
+these reps could focus on commission-paying outbound calls. Team
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+leaders corrected the behavior with one-on-one discussions, and the
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+incentive team instituted a process for ﬂagging similar behavior in the

@@ -1,27 +1,35 @@
-# in just a decade.
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7d585a9a610ae63aa8bd2363f95bb5363d5bbb3
+title: H088S2-PDF-ENG
+---
+# solar.
 
-- 3. Build transformation into the company’s operating rhythm.
+Initially, Ørsted lacked a concrete plan to achieve this ambitious
 
-To thrive in today’s fast-paced environment, leaders must seamlessly
+objective. There were no existing benchmarks to study, nor industry
 
-integrate transformation into the company’s operating rhythm. This
+best practices to emulate — Ørsted ‘s goal surpassed anything seen in
 
-involves incorporating change initiatives into existing governance
+the sector before. This bold ambition compelled everyone within the
 
-processes and forums, ensuring that evolution becomes a natural part of
+company to confront harsh realities about its business model, including
 
-running the business.
+the urgent need to address climate change and the ﬁnite nature of fossil
 
-By embedding transformation initiatives into the operating rhythm,
+fuel resources, and reshape its business portfolio.
 
-leadership can ensure alignment between strategic goals and day-to-
+Henrik Poulsen, who served as Ørsted ‘s CEO from 2012 to 2020,
 
-day activities. This integration fosters a holistic approach to the
+leveraged this bold ambition to rally a workforce initially skeptical
 
-change eﬀort, enabling organizations to respond swiftly to evolving
+of such monumental change, inspiring them to embrace creative
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+solutions. The company sold oﬀ its oil and gas business, phased-out
 
-5
+the use of coal for power generation, and acquired Deepwater Wind
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and other assets to expand its position in oﬀshore wind. Ørsted set a
+
+timeline of 30 years to achieve its goal, yet remarkably accomplished it

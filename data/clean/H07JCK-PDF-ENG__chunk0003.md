@@ -1,9 +1,23 @@
-# HBR / Digital Article / 6 Questions to Ask Yourself When You’re Frustrated with Your T…
+---
+source_path: H07JCK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2f1977d35cbcc0f29d366cb5f29c39760ed3ff2
+title: H07JCK-PDF-ENG
+---
+# Fuse/Getty Images
 
-people managers reported feeling burned out “very often or always,” as
+“They’re just not doing their job,” grumbled an executive in a group one
 
-compared to 27% of individual contributors and 22% of leaders.
+of us (Amii) was recently facilitating. She was resentful over what she
 
-When it’s a constant mental strain to get the work done, managers may
+viewed as a lack of productivity on her team.
 
-have a short fuse. When expectations aren’t met, the brain short-circuits
+Being a leader has always been challenging, but manager stress and
+
+burnout is rising: A November 2021 Gallup survey found that 35% of
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,33 @@
-## question by hybrid working and the anticipated impact of generative AI.
+---
+source_path: H08H1D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce0c8c90a4a6f9ad907749644008d768eb4e7a6d
+title: H08H1D-PDF-ENG
+---
+## HBR / Digital Article / How to Lead When the Future Feels Unpredictable
 
-All of these challenges, needless to say, have made many of us feel
+Liminal experiences involve a prolonged separation from normal ways
 
-unsettled or anxious. Where do we stand when the ground underneath
+of being and doing. They represent a break from the familiar, but they
 
-us is shifting? What if the ground doesn’t stop shifting and an
+don’t fully replace it. Instead, they’re at once disturbingly diﬀerent and
 
-acceptable “new normal” never emerges?
+confusingly similar. And when they come to an end, they leave those
 
-In the course of our work, we’ve spoken to many leaders and who have
+who have survived them forever changed.
 
-described feeling confused and anxious about these questions in our
+We ﬁrst wrote about liminal experiences for HBR in 2021, during the
 
-current era of uncertainty and liminality. The problem is, leaders are
+pandemic. Once we all emerged from that period, most of us thought
 
-supposed to know what to do about this — and most simply don’t.
+we had made it through the biggest challenge of the decade. But
+
+since then, we’ve lived through many other profound challenges to
+
+our expectations about the shape and nature of our lives — an energy
+
+crisis, wars in Europe and the Middle East, unprecedented political
+
+situations, extreme weather events, climate-change anxiety. Even at the
+
+organizational level, the way we work together has been called into

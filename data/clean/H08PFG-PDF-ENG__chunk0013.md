@@ -1,21 +1,19 @@
-# available.
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22e6f9c4ecd467ee2a34eb1ea6cef6a77a0dff73
+title: H08PFG-PDF-ENG
+---
+## In addition to informational interventions, norm entrepreneurs can
 
-While senior leaders may have more privileges, inﬂuence, and power
+decrease ambiguity by role modeling desired actions to show they
 
-to make change, employees don’t need to be in the C-suite to change
+can be done successfully. Former transportation secretary Pete
 
-norms in the workplace. Often, the people who shape our expectations
+Buttigieg and Reddit cofounder Alexis Ohanian are examples of norm
 
-the most are the ones closest to us, as equities sales trader Ronak Patel
+entrepreneurs who took parental leave and were vocal about their
 
-explained about his 16-week parental leave: “The more men that do it,
+positive experiences, helping to dispel the myth that men do not or
 
-the less of a big deal it becomes.”
-
-To change perceptions of prevailing norms, ask yourself:
-
-- What data might you be able to collect or share that could challenge
-
-employees’ existing beliefs about an issue?
-
-- What behaviors can you role model that will shift your organization’s
+cannot take leave, at least in organizations where parental leave is

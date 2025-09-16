@@ -1,41 +1,61 @@
-## HBR / Digital Article / Is Office Politics a White Man’s Game?
+---
+source_path: H04JA0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff66b8c6f4b1095242dde49c4cd0535512648e7f
+title: H04JA0-PDF-ENG
+---
+# Playing the Game Comes at a Cost
 
-argues that women prefer work environments that foster cooperation,
+The political double bind also inﬂuences individual motivation and
 
-teamwork, and support. Creating cooperative rather than competitive
+stress. Speciﬁcally, research published in the British Journal of
 
-environments will allow more women to thrive. This was further
+Management in 2013 ﬁnds that women view organizational politics
 
-supported by research undertaken by Accenture, which found 14 factors
+as an expression of masculine culture. Responses to it range from
 
-that contribute to creating cultures of equality, and these fell into three
+reluctance to resistance and ﬁnally acceptance. This acceptance is
 
-key areas: making diversity a top leadership priority, including men in
+based on the awareness that these are the rules of the game. To obtain
 
-diversity initiatives, and ensuring employees feel comfortable creating,
+functional beneﬁts, like access to lucrative relationships and coalitions,
 
-innovating, and being themselves at work. In these environments
+women and ethnic minorities should engage in political tactics — even
 
-women are four times more likely, and men are twice as likely, to
+if there is no guarantee of success.
 
-rise to senior management positions. It seems that creating work
+Political behaviors are the standard for how things get done in
 
-environments that are less competitive and more cooperative serves to
+organizations, leaving individuals with little choice but to engage. This
 
-beneﬁt us all. Oﬃce politics may be a white man’s game, but it is a game
+comes at a cost. Research has found women who engage in oﬃce
 
-that beneﬁts only some white men.
+politics often consider it emotionally draining, and anecdotal evidence
 
-One barrier to creating a more equitable system for everyone may be the
+suggests that women may even reject leadership roles because of their
 
-leaders in charge today. These leaders not only set the political norms
+dislike of oﬃce politics. Future research needs to investigate whether
 
-but also help create and maintain the political environment that favors
+this holds true for minority groups as well as white men, as we may ﬁnd
 
-them at the disadvantage of everyone else. Creating cooperative work
+that oﬃce politics is really an outdated game that no one wants to play.
 
-environments is one way to ﬁx this, but that can only be achieved if
+Given the challenges that organizational politics creates for women
 
-today’s existing leaders are willing to give up the game.
+and racial minorities, perhaps we should stop implementing programs
 
-This article was originally published online on September 12, 2018.
+aimed at improving political skill — since it doesn’t seem the problem
+
+is a lack of skill — and instead focus on creating environments that
+
+support individuals engaging in a diverse range of behaviors.
+
+What would this environment look like? One place to start is
+
+collaboration. Research published in the Journal of Applied Psychology
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

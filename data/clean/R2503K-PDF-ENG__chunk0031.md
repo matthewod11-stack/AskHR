@@ -1,9 +1,23 @@
-## HBR / Magazine Article / Leading Global Teams Effectively
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8dba9c50652b752ea1ef7f5a0745a6ab52bcd499
+title: R2503K-PDF-ENG
+---
+# Too Much Emphasis on Differences
 
-problems and viewing products and projects more critically. But
+Understanding our diﬀerences has become the holy grail of inclusion
 
-overindexing on diﬀerences can be damaging. One Deakin University
+initiatives and cross-cultural management training. It’s considered
 
-study of 265 Australian workers found that diversity can make us
+key to building innovative teams. And there’s plenty of evidence to
 
-anxious, leading to reduced knowledge-sharing and communication
+support the power of diversity. Team members who have diverse
+
+backgrounds and perspectives oﬀer built-in expertise for tackling
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

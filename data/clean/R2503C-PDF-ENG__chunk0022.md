@@ -1,7 +1,19 @@
-## committee meetings, business unit leadership team meetings, and other
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee6bddbe025e7a39ffbf7c4b3328eade13368b12
+title: R2503C-PDF-ENG
+---
+# storage.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Business is a game of choices, and good choices start with strong alternatives. But most companies fail to consistently explore multiple options when making strategic decisions.
 
-7
+The ﬁnal step is to create (or update) a decision calendar, which
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+outlines when each item on the strategic backlog will be addressed and
+
+notes the leadership team member accountable for recommending the
+
+best course of action (after getting the input of experts and others).
+
+Typically, the calendar is aligned with the schedule for executive

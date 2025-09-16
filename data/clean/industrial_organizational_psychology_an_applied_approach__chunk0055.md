@@ -1,5 +1,7 @@
-## The Field of I/O Psychology Diff erences Between I/O and Business Programs
-
-2
-
-
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 31a880fed105241e19424d9bda2dbc59e3e8aff3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Introduction to I/O Psychology

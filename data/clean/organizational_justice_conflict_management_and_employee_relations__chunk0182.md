@@ -1,11 +1,23 @@
-# CM 6
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: ebf16f0a90597c0606ddb82426b1dcd64f3dc0da
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# OJ
 
-7
+1
 
-8
+2
 
-My organization treats all individuals equally and respectfully I collaborate with my managers to resolve the conflicting issues I communicate my ideas to come up with the decisions jointly I am satisfied with the outcome of the conflict
+My organization rewards for better contributions My organization has fair and impartial procedures and practices
 
-9
+3
 
-I am appreciated for my valuable suggestions
+My work schedule is fair
+
+4
+
+My organization maintains fairness at the time of promotion
+
+5

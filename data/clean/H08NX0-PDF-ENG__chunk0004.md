@@ -1,27 +1,9 @@
-# their organizations.
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8666d5371cca0ae7286059b775da3120180dcdae
+title: H08NX0-PDF-ENG
+---
+## HBR / Digital Article / 5 Pandemic-Era Lessons on Leading Through Drastic Change
 
-Five years later, it’s clear that major disruptions are no longer rare
-
-events. Whether sparked by global health crises, geopolitical conﬂicts,
-
-or technological upheavals, leaders now operate in an environment
-
-where signiﬁcant change can emerge at any moment.
-
-Consider how the pandemic didn’t simply accelerate existing trends—it
-
-transformed how organizations operate and how leaders must think.
-
-Remote work has evolved from experimental to standard practice.
-
-Supply-chain vulnerabilities have shifted from theoretical concerns
-
-to strategic priorities. Technology continues to redeﬁne how work
-
-gets done and value gets created. Perhaps most signiﬁcantly, the
-
-employer-employee relationship has fundamentally changed, with
-
-workers expecting greater ﬂexibility, purpose, and support from their
-
-organizations amid the institutional pressure to prioritize growth,
+incomplete information, all while maintaining trust and stability in

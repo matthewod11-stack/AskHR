@@ -1,9 +1,19 @@
-## HBR / Digital Article / 4 Warning Signs of Ethical Burnout on Your Team
+---
+source_path: H08CR0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a73c43f1ad62e28d73a9552c965325897cfec528
+title: H08CR0-PDF-ENG
+---
+## from headquarters geographically or in terms of transparency and
 
-company’s expectations. For example, Swedish telecom company
+information access. Being further from the epicenter of decision
 
-Ericsson, headquartered in what is commonly considered a low-risk and
+making and where ethical standards are set makes it easier for
 
-highly transparent country, experienced ethical breaches in distant and
+local business norms to encroach, even if they conﬂict with the
 
-higher-risk markets including Kuwait, China, and Indonesia, among
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

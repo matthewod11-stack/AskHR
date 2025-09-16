@@ -1,59 +1,43 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e7133b84fa5ee3f2af31dc16d21ebe517772d04
+title: H07T7V-PDF-ENG
+---
+## free-ﬂowing, argumentative, autonomous, evidence-driven, and pretty
 
-ADI IGNATIUS:
+egalitarian. That’s the goal of the geek way.
 
-Some of these founders, entrepreneurs who got into whatever they
+Now you point out some of these companies that I do think follow the
 
-got into because they wanted to make the world a better place, Serge
+geek way that are still too pale, stale, and male. That’s absolutely true.
 
-and Larry in their garage trying to systematize our access to all the
+The evidence is pretty clear on this. I hope that gets better over time.
 
-world’s information, these great ideals: when they are actually running
+But Adi, you said something that I disagree with, that a lot of these
 
-companies, they not only are trying to run a company, but they become
+cultures that are not good places to work. That’s true in some cases.
 
-killers, wanting to wipe out the competition, to foster monopolistic
+Remember when LinkedIn did its top attractors survey, I believe in
 
-practices, to just grab as much market share as possible.
+2016, they said, look, we’re just going to look at objective criteria.
 
-ANDREW MCAFEE:
+We’re going to look at which company pages get viewed the most often
 
-Is any of this new? Within the businesses? No, I’m serious. Were the
+by LinkedIn members. Which companies get the most interest from
 
-businesses of previous eras cuddly? Did they want their competitors to
+LinkedIn members, the most applications, and where do people stick
 
-succeed? Were they trying to rise all boats?
+around when they take their ﬁrst job?
 
-Capitalism is an inherently competitive process. These companies are
+The top 11 attractors in the LinkedIn list were all companies
 
-very, very good performers. If you want to use the adjective “killer” for
+headquartered on the West Coast in the industry that we loosely call
 
-them, I think that’s by design. You’re not in business not to succeed. You
-
-want to grow your market share. You want to grow your proﬁts, you want
-
-grow. That is often at the expense of somebody else.
-
-I think it’s for the courts to decide whether they meet the deﬁnition
-
-of monopolist. It’s a word we toss around a lot. The courts so far have
-
-tossed out a lot of the recent lawsuits against some of these giant tech
-
-companies. I don’t think they meet the deﬁnition of monopolist. In
-
-general, for a lot of these companies, the competition is one click away.
-
-And is Tesla a monopolist in the auto industry? You simply can’t make
-
-that case. SpaceX has become pretty close to a monopolist in the rockets
-
-and satellites industry, but they didn’t start that way, and they’ve
-
-become so large and inﬂuential because they do the job better.
+tech. The geek culture is an extremely attractive culture to work in.
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

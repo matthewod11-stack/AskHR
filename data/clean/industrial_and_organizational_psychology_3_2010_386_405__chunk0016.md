@@ -1,3 +1,9 @@
-# I–Opsychologyandworkplacedecisions
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 59989406fed7727032ca95cfbee5d8ac1927843c
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+## A Canter Through IOOB-Relevant Research on JDM
 
-thought provoking to IOOB researchers and practitioners. We therefore delib- erately do not provide an exhaustive overview of the JDM literature (for examples of more comprehensive reviews, albeit with diverse emphases, see Bazerman & Moore, 2008; Highhouse, 2001; Stevenson, Busemeyer, & Naylor, 1990). We do, how- ever, touch brieﬂy upon some topics that fall outside the realm of the traditional JDM literature (e.g., naturalistic and strate- gic decision making) because we believe relevance to them to be of particular IOOB. We have structured this overview on the basis of several themes—namely, judgments versus decisions, a focus on internal versus external validity, levels of analysis, applied implications, and philo- sophical approaches—collected from mul- tiple extant sources (e.g., Doherty, 2003; Maule & Svenson, 1993; Pliske & Klein, 2003; Solomon & Shields, 1995). The main message of this section is that decision- making researchers have studied a wide variety of topics relevant to IOOB; however, they have typically done so using different perspectives and methods than those used in mainstream IOOB.
+Our overview is focused on our (i.e., the ﬁrst and second authors’) views regarding topics that will be most useful or at least

@@ -1,21 +1,15 @@
-# conversations.
+---
+source_path: H08IIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ff3769e1e8cc5e0a3ab2770b3e34eb8cbb9455a
+title: H08IIJ-PDF-ENG
+---
+# Managing Interactions When Time Is Short
 
-- They hid from coworkers by working at home or even sneaking oﬀ to
+The parents in our study, like Jenna, handled interactions through a
 
-the bathroom at a time when everyone else was in a work meeting.
+series of strategies we labeled interaction practices:
 
-- They organized interactions strategically by booking meetings back-to-
+- They avoided interactions by turning down invitations to lunch,
 
-back so they could promptly end an earlier meeting by pointing out
-
-they had to stop to talk to someone else (as opposed to simply saying,
-
-“I am sorry, I don’t want to talk anymore,” which parents recognized
-
-would be interpreted as rude).
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+not going to departmental social hours, and never initiating casual

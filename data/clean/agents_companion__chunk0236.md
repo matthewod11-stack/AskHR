@@ -1,9 +1,9 @@
-# Conversational Navigation Agent
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 35bd47abc23d817ec34cffcf1a021cf6a2e476b5
+title: agents_companion
+---
+# Specialized Agents
 
-The Conversational Navigation Agent is specialized in helping users find locations, suggest
-
-places, and navigate using APIs like Google Places and Maps. This agent understands
-
-navigation intents like "Find me a sushi restaurant nearby," queries the Places API for relevant
-
-results, re-ranks these results based on user preferences and historical data, and sends
+Let’s first look at some examples of specialized agents.

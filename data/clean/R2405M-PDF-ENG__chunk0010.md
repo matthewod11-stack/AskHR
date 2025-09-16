@@ -1,33 +1,17 @@
-# conglomerates.
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12222978be6304b7a8d2ddf8da997944b221d72c
+title: R2405M-PDF-ENG
+---
+## with particular expertise in sugar and other bulk commodities. In
 
-Koﬃ and Yao had visited Aminata twice in Paris, where she had started
+the early 2000s they had expanded into importing cement and
 
-her job in the strategic planning oﬃce of a global energy company 10
+eventually into mining limestone and manufacturing cement. That
 
-months ago, after earning her MBA at INSEAD. This was her ﬁrst visit
+energy-intensive operation led them, several years later, to build their
 
-home since graduation. The trio had set up monthly Zoom calls while
+own power plant to produce electricity. With revenues above $600
 
-Aminata was in business school, and the brothers had been thrilled
-
-with her increasing interest in Assoua Group. They had even shared
-
-historical ﬁnancials and business plans with her while explaining
-
-all the various elements of the enterprise. But Aminata had been
-
-noncommittal about coming home. So they were delighted when she
-
-had suggested several months earlier that she visit to discuss some ideas
-
-for the company in person. And now, after such a long wait, suddenly
-
-there she was, in a tailored linen suit and a white silk shell. As she
-
-walked toward them, smiling and conﬁdent, her father was struck again
-
-by how much she resembled her late mother.
-
-“Ma chérie!” Koﬃ exclaimed, giving her an enthusiastic hug.
-
-“Don’t forget to hug me, too,” Yao said, his arms outstretched and a huge
+million, Assoua Group had become one of West Africa’s most successful

@@ -1,15 +1,7 @@
-## style, particularly during unscripted moments.
-
-- Demonstrate empathy to executives who may have concerns and
-
-encourage them to raise them with the CEO.
-
-- Empower the CEO with insights on the broader C-suite climate, being
-
-careful to anonymize individual concerns to preserve conﬁdentiality.
-
-- 2. Develop retention criteria.
-
-Executive retention eﬀorts can be costly, particularly if executives are
-
-being courted by a competitor. Moreover, not all executives contribute
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7396fc55d252309ad3b225c7888c0d8e3a59ca11
+title: H08TM9-PDF-ENG
+---
+## team decisions or an abrupt change in an executive’s communication

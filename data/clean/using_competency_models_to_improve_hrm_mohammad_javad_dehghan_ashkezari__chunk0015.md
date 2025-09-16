@@ -1,1 +1,13 @@
-# HR-XML (www.hr-xml.org)
+---
+source_path: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari.md
+pages: n/a-n/a
+chunk_id: ca453b16b6f6d4962bea37de9464b61e66d1bd18
+title: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari
+---
+## 1: Current definitions of the competency concept
+
+Definitions Competencies are measurable human capabilities that are required for effective work performance demands. Competencies are those characteristics- knowledge, skills, mindsets, thought patterns, and the like-that, when used either singularly or in various combinations, result in successful performance. A specific, identifiable, definable, and measurable knowledge, skill, ability and/or other deployment- related characteristic (e.g. attitude, behavior, physical ability) which a human resource may possess and which is necessary for, or material to, the performance of an activity within a specific business context. Boyatzis described as underlying characteristics of an individual, which are, causally (change in one variable cause change in another) related to effective job performance. Selby described it as an ability expressed in terms of behavior. The National Vocational Council for Vocational Qualification described competency as performance standards, the ability to perform in work roles or jobs to the standard required in employment. “Competencies” are the knowledge, skills, abilities and behaviors that an employee applies in performing his/her work and that are the key employee-related
+
+Marrelli (1998) (1)
+
+Dubois (1998) (2)

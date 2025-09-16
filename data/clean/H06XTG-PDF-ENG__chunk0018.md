@@ -1,37 +1,17 @@
-## consistently upheld even in this geographically distant subsidiary.
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25d84facc319a54418ed35ec63d189ba8bb826e3
+title: H06XTG-PDF-ENG
+---
+## For instance, the French luxury brand Cartier designs and manufactures
 
-- 3. How strong is your relationship with local leadership?
+its products exclusively in France and Switzerland, and so it made
 
-The ﬁnal question to ask yourself is, how much do you trust your local
+sense for the company to keep its governance structures centered on its
 
-counterparts? The stronger and more trusting your relationship, the
+headquarters. In addition, Cartier’s key executives based in the Middle
 
-more it will be feasible to give local teams greater autonomy.
+East (including its CEO and head of HR) are Cartier veterans originally
 
-For example, one of the reasons that Amazon India enjoys substantial
-
-autonomy is because the Indian team is led by Amit Agarwal — an Amazon veteran and longtime member of Jeﬀ Bezos’s leadership circle
-
-who is deeply trusted by the home oﬃce. In contrast, interviews with
-
-the company’s senior leadership in 2019 suggested that HQ had less
-
-trust in its China team, and as a result Amazon China’s autonomy
-
-was more limited, with most of its functional units required to get
-
-permission from headquarters on many decisions (Amazon has since
-
-closed down its domestic business in China). Similarly, when InMobi
-
-hired a new, untested China manager, the company decided that only
-
-the local sales team would report to her, with all other China teams
-
-reporting into headquarters. But over time, as she built a track record
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+from Paris, helping to ensure the company’s values and norms are

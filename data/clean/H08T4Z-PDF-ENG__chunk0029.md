@@ -1,3 +1,7 @@
-# EY
-
-Eddie Yoon is the founder of Eddie Would Grow, a growth strategy advisory, a partner in Greyspace ,and co-founder of Category Pirates, a top business Substack and digital education company. His book, Superconsumers, was published by HBR Press in December 2016. Follow him on Twitter @eddiewouldgrow.
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0eb02e8af9272cf8f5269b2d365ba8ee8594408a
+title: H08T4Z-PDF-ENG
+---
+## HBR / Digital Article / How to Know When to Pursue Your Side Gig Full-Time

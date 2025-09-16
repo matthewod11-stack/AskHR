@@ -1,17 +1,19 @@
-## draw on their power, network, resources, social capital, and inﬂuence to
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0cbc26207482705da975343e33adb99b7ab7d4c
+title: H089KA-PDF-ENG
+---
+## for career advancement and belonging — though only a few mentioned
 
-advocate for, recommend, and protect their protégés.
+that they had sponsors.
 
-Stacey, a COO at an EdTech company, has had many sponsors who
+Enabling and growing solid sponsors and mentors in the workplace
 
-believed in her and made her more visible within the organization.
+can serve as counterspaces to combat negative experiences of
 
-Monique had executive-level Black women sponsor her and others, and
+microaggressions, biases, and favoritism. Counterspaces are conceptual,
 
-they would create inclusive bubbles for Black and Latina women within
+ideological, or physical settings that promote the psychological
 
-the organization. And Catalina described how she met her sponsor at an
-
-event, and he eventually hired her. She observed that CEOs and C-suite
-
-level sponsors do not have much time to sponsor, and recommended
+wellbeing of individuals who experience oppression. Sponsors can also

@@ -1,19 +1,23 @@
-# Data, Reward, Compute
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93270191210b61f1acfb43ccf98e3a905af43124
+title: H08SHM-PDF-ENG
+---
+# student budget.
 
-The framework that propelled the image recognition breakthrough is far
+That moment ended the decades-long AI winter, put neural nets at the
 
-more general than most realize. It can be invoked whenever we can a)
+center of progress, and revealed the playbook the ﬁeld still runs on.
 
-deﬁne the task environment and assemble its data—be it a corpus of
+First, gather relevant data—roughly 14 million labeled images in the
 
-text, a repository of images and video, logged driving miles, or streams
+ImageNet case. Next, rely on metrics to quantify and drive progress.
 
-from a robot’s sensors; b) specify a target reward, explicit (“did the
+Last, ﬂood a model with data and GPU muscle until it teaches itself, a
 
-model predict the next word?”) or implicit (inferred from observing
+formula that has carried AI from categorizing objects to writing ﬂuent
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+prose and, most recently, to reasoning, planning, and wielding external
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+tools in today’s emerging “thinking” systems.

@@ -1,5 +1,11 @@
-## a well-designed performance management system.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 868981fbf564deef559ec19f37d154dc216e8741
+title: performance_management_3rd_edition_by_aguinis
+---
+# LEARNING OBJECTIVES
 
-(cid:2) Recognize the multiple negative consequences that can arise from the poor design and implementation of a performance management system. These negative consequences affect all the parties involved: employees, supervisors, and the organization as a whole.
+By the end of this chapter, you will be able to do the following:
 
-(cid:2) Understand the concept of a reward system and its relationship to a performance
+(cid:2) Explain the concept of performance management (PM). (cid:2) Distinguish performance management from performance appraisal. (cid:2) Explain the many advantages and make a business case for implementing

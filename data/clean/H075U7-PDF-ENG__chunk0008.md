@@ -1,7 +1,15 @@
-# guy.”
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f57751586bfbea8f697837004af350ad9e0e6431
+title: H075U7-PDF-ENG
+---
+## training simulators for the cervix, uterus, and ovary examinations. He
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+smiled at the undergraduates and motioned to the plastic models: “Don’t
 
-1
+worry, you won’t have to do this position.” Later, a male supervisor, who
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+was told of the anatomy professor’s behavior, described him as a decades-
+
+long friend, saying: “Oh, he didn’t mean anything by that. He’s a good

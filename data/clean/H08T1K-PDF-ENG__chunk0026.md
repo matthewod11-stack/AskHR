@@ -1,9 +1,19 @@
-# RK
+---
+source_path: H08T1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ba6ef0d860c94c70ac4f51758dd3cc5a4cbb967
+title: H08T1K-PDF-ENG
+---
+# More Resources
 
-Rebecca Knight is a journalist who writes about all things related to the changing nature of careers and the workplace. Her essays and reported stories have been featured in The Boston Globe, Business Insider, The New York Times, BBC, and The Christian Science Monitor. She was shortlisted as a Reuters Institute Fellow at Oxford University in 2023. Earlier in her career, she spent a decade as an editor and reporter at the Financial Times in New York, London, and Boston.
+- How to Communicate a Tough Decision to Your Team
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- What Employees Need from Leaders in Uncertain Times
 
-6
+- How to Talk to Your Team About a Decision You Disagree With
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 6 Strategies for Leading Through Uncertainty
+
+- How to Be a Good Leader in a Bad Economy
+
+This article was originally published online on July 7, 2025.

@@ -1,13 +1,15 @@
-# intra-dependence between stakeholders
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 0201fa3d8f604a40fc72b1f8a2a9d060090157e1
+title: issn_print_0976_013x
+---
+# INTRODUCTION
 
-involved, optimal
+The drivers of supply chain practices in the contemporary business world are continuously
 
-alignment of supply chain practices and policies is always open to improvement. The supply
+evolving. As a result, the supply chain is also under continuous improvement to maintain a
 
-chain is a system of systems. It encompasses various activities like procurement,
+competitive edge under such diverse market scenarios. Although the practices and policies
 
-transportation, loading/unloading, manufacturing, storage, inspection, marketing, etc., where
-
-the task is to align these activities and resources with the market needs with utmost efficiency
-
-and responsiveness. In the present business world, competitive edge depends upon the rivalry
+are market-dependent and

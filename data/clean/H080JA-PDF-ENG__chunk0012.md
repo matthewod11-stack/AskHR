@@ -1,33 +1,21 @@
-## HBR / Digital Article / It’s Time to Redefine Our Gendered Idea of “Ambition”
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bc63daef908364d2581bb1f56be7a930eb8f69c
+title: H080JA-PDF-ENG
+---
+# the following ways:
 
-of development, even when employees have to prioritize ﬂexibility in
+They offer ﬂexibility in pace and path.
 
-the short term, as women so often have to do. In these companies,
+Rather than enforcing a binary point of view — you’re either climbing
 
-opportunities to advance are not ultimatums.
+up the ladder or stepping aside — skillful managers do not equate
 
-For example, at one Fortune 100 company we support, a senior
+pace with potential. They assume talent remains constant and worthy
 
-executive remained at a middle-management level for eight years while
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-she was raising her children. Yet the experience she built over this
+3
 
-period gave her deep expertise, relationships, and conﬁdence that led
-
-to rapid advancement when the time was right. Her acceleration came
-
-when she was ready, but her pace did not cost her the opportunity to
-
-grow. She now often tells others that her being able to ﬂex in this way
-
-was critical for both her career and her family.
-
-Rather than penalizing women for lacking stamina or drive, savvy
-
-companies recognize how systemic barriers (such as gendered divisions
-
-of labor at home) can overwhelm women at key moments in their
-
-careers. These companies aﬀord women a sense of agency about when
-
-to accelerate and don’t force them to drive at the same speeds as their
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,43 +1,27 @@
-## HBR / Digital Article / Why Feedback Can Make Work More Meaningful
+---
+source_path: H08L36-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30dc251a2b0a57ec770a7b08f1c70aa77d7f5159
+title: H08L36-PDF-ENG
+---
+# Jorg Greuel/Getty Images
 
-employees of the constructive critiques that aid in their development —
+If you’re like most managers, you probably hate giving constructive
 
-and that they deeply crave.
+feedback to your team. It’s awkward, it’s uncomfortable, and it often
 
-For years, I’ve taught feedback in my courses, coached executives
+doesn’t work. You may question whether it’s worth the trouble to tell
 
-on how to give feedback eﬀectively, and run countless feedback
+an employee that what they’re doing is wrong. Is it worth the risk of a
 
-workshops. What I’ve found is that managers fully understand most
+long-drawn out conversation when there are more pressing things to do?
 
-of the reasons why feedback matters. Managers have long been told
+Is it worth the risk of hurting a team member’s feelings or opening the
 
-how feedback is critical to organizational success. They attend training
+door for potential conﬂict? Perhaps you answer “no” and deprive your
 
-after training to learn how to give eﬀective feedback in order to manage
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-underperformers and ensure that employees are on the right track with
+1
 
-their work. Managers also learn that feedback is a necessary ingredient
-
-for a company culture built on trust, accountability, and compassion.
-
-But what’s often missing from the conversation about the importance of
-
-feedback is the real reason why it matters: Feedback is a critical tool for
-
-helping employees ﬁnd deeper meaning in their day-to-day work.
-
-Employees crave meaning. Once basic job needs are met (e.g., fair
-
-salary, safe working conditions), meaning is what employees most
-
-desire in their job. This desire is especially important for Gen Z.
-
-Nearly 75% of Gen Z workers say that a sense of purpose in their
-
-jobs is more important than pay, according to research by the job site,
-
-Monster. And meaning matters: studies show that employees who have
-
-more fulﬁllment and meaning in their day-to-day work have higher
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

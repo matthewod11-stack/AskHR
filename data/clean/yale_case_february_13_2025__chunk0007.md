@@ -1,3 +1,7 @@
-# 01 Employee selection
-
-Selecting the right candidate involves more than simply checking off skills and experience; it requires ensuring that the candidate aligns with the company’s values, team culture, and role expectations. When hiring decisions are rushed or based on incomplete assessments, new hires may find it difficult to meet the demands of the position or integrate smoothly into the team. Issues arise if a candidate’s working style or personality clashes with the company’s environment, even if they possess strong skills. Such misalignments often lead to underperformance, creating the need for future corrections or, ultimately, dismissal.14
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: 8ad2e01ff88259b6b5680a25c34c8c7fca116622
+title: yale_case_february_13_2025
+---
+## Figure 2: Key areas of potential company failure

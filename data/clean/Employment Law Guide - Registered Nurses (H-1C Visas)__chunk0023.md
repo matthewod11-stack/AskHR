@@ -1,5 +1,9 @@
-# c=ecfr&sid=37d3532fdedfe1089145315391a5f161&tpl=/ecfrbrowse/Title20/20cfr655_main_02.tpl), Subparts L and M)
+---
+source_path: Employment Law Guide - Registered Nurses (H-1C Visas).md
+pages: n/a-n/a
+chunk_id: 51016897fd99b6cc53474f0654d7300b122816c2
+title: Employment Law Guide - Registered Nurses (H-1C Visas)
+---
+# vgnextoid=fa7e539dc4bed010VgnVCM1000000ecd190aRCRD&vgnextchannel=fa7e539dc4bed010VgnVCM1000000ecd190aRCRD&CH=act)
 
-The Nursing Relief for Disadvantaged Areas Act of 1999 and its reauthorization in December of 2006 allows qualifying hospitals to employ temporary foreign workers (nonimmigrants) as Registered Nurses (RNs) for up to three years under H-1C visas. Only 500
-
-H-1C visas can be issued each year during the three-year period of the H-1C program (2006-2009).
+(8 USC §1101 et seq.(http://www4.law.cornell.edu/uscode/8/1101.html); 20 CFR Part 655(http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?

@@ -1,23 +1,31 @@
-## How to Deal with a Toxic Boss — and When to Quit
+---
+source_path: H08HUR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dba6bf1fa17a9045c201dbd2ffab51cf9360ad03
+title: H08HUR-PDF-ENG
+---
+## negative impact on the dynamics of the wider team as well.
 
-- 1. Prioritize your own well-being.
+- 4. Increased employee turnover
 
-First, know that you are your priority, so your starting point should be
+A toxic boss will not only aﬀect your conﬁdence, they will also decrease
 
-to ﬁrst take care of yourself. Recognize which emotions belong to you
+your job satisfaction and motivate you to look for another job.
 
-and which belong to others. If you’re an empath and tend to absorb
+- 5. Increased risk of serious illness
 
-other people’s emotions, you may ﬁnd yourself sharing their emotional
+Numerous studies have found a link between toxic bosses and serious
 
-burden, stress, or outrage about the toxic boss. This might make you
+health issues such as depression, high blood pressure, PTSD, anxiety,
 
-feel anxious or concerned on their behalf, aﬀecting your mental health
+and even premature aging.
 
-when you already have your own emotions to process. Investing time
+- 6. Burnout
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The expectations of toxic bosses around work-life balance are
 
-5
+demanding. They don’t recognize or appreciate your eﬀorts or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+achievements, and they tend to provide inadequate support for you to
+
+succeed. All of this can lead to burnout.

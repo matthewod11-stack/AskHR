@@ -1,7 +1,9 @@
-# Burdine, 18
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: c7b73bee7b2627ea5942527110e364bfef75f1c8
+title: document_resume
+---
+# impact)
 
-Theory X and Theory Y, 104 Tide VII (also see Civil Rights Act), 5,
-
-9, 10, 12, 15
-
-Training (see Raters) Trait rating scales, 20, 21
+Tests, 3, 9, 14, 44, 75, 99, 103, 110 Texas Dept. of Community Affairs v.

@@ -1,11 +1,17 @@
-# HBR / Digital Article / Research: The Benefits of Letting HR Decide Who Gets an Interv…
+---
+source_path: H08QAO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2911609b3253794a584df0417d9b5c7ddae7f2ef
+title: H08QAO-PDF-ENG
+---
+# and after changes to the hiring process.
 
-percent increase) were hired into the company when the shortlisting
+Analyzing data from 8,750 external hires over two years and across more
 
-was done by HR professionals.
+than 60 country locations, we found that more women (a noticeable 9.2
 
-We also found that this eﬀect was the most pronounced in countries
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that had more-rigid views about which occupations women could work
+2
 
-in, according to the UN’s Gender Social Norms Index.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

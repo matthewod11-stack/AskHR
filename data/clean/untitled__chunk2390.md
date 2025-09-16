@@ -1,7 +1,11 @@
-## Washington, DC: American Psychological Association.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2b44fd5d688ecbd99ee822325b78acca5dff359b
+title: untitled
+---
+# Cambridge, MA: Riverside Press.
 
-Dunn, L. M. (1973). An overview. In L. M. Dunn (Ed.), Excep- tional children in the schools: Special education in transition (pp. 1–62). New York: Holt, Rinehart and Winston.
+Curtis, M. J., Hunley, S. A., & Prus, J. R. (Eds.). (1998). Creden- tialing requirements for school psychologists. Bethesda, MD: National Association of School Psychologists.
 
-English, H. B. (1938). Organization of the American Association of Applied Psychologists. Journal of Consulting Psychology, 2, 7–16.
-
-Fagan, T. K. (1986). The evolving literature of school psychology.
+Cutts, N. E. (Ed.). (1955). School psychologists at mid-century.

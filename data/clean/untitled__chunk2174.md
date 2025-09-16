@@ -1,11 +1,11 @@
-# Archives of Psychology, 22, 1–55.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4e5dd86810c55c6e1f45c9e379c11a7f507578f4
+title: untitled
+---
+# nal of Applied Psychology, 77, 787–802.
 
-Link, H. C. (1919). Employment psychology. New York: Macmillan.
+Landy, F. J. (1997). Early inﬂuences on the development of indus- trial and organizational psychology. Journal of Applied Psychol- ogy, 82(4), 467–477.
 
-Locke, E. A. (Chair). (2000, April). Eminent I-O psychologists look back and forward. Symposium presented at the 15th annual conference of the Society for Industrial and Organizational Psychology, New Orleans, LA.
-
-London, M., & Moses, J. L. (1990). The changing roles of the industrial/organizational psychologist: From analyst/technician to change agent/strategist. Industrial-Organizational Psycholo- gist, 27, 17–26.
-
-Lord, R. G., & Maher, K. J. (1991). Cognitive theory in industrial and organizational psychology. In M. D. Dunnette & L. M. Hough (Eds.), Handbook of industrial and organizational psy- chology (2nd ed., Vol. 2, pp. 1–62). Palo Alto, CA: Consulting Psychologists Press.
-
-Lorsch, J. W. (Ed.). (1987). Handbook of organizational behavior.
+Likert, R. (1932). A technique for the measurement of attitudes.

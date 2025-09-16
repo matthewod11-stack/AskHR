@@ -1,11 +1,13 @@
-# (cid:37)(cid:45) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:2)(cid:6)(cid:2)(cid:8)(cid:13)(cid:35)(cid:10)(cid:14)(cid:15)(cid:13)(cid:2)(cid:3)(cid:7)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)(cid:17)(cid:2)(cid:18)(cid:15)(cid:2)(cid:19)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: e8164520815ff2d05adf0e2a6343ebc33f6ada2c
+title: microsoft_word_performance_management_literature_review_doc
+---
+# Incomes Data Services (2008), Competency Frameworks, IDS HR Study 865, IDS, London
 
-Kessler I (2000), ‘Remuneration systems’, in Bach S, Sisson K (eds.), Personnel Management in Britain, 3rd edition, Blackwell, Oxford
+Incomes Data Services (January 2009), Performance Management, IDS HR Study, 886, IDS, London
 
-Ledford G , Lawler E (1994), Reward systems that reinforce organisational change. Centre for Effective Organizations, University of Southern California, October
+Industrial Relations Services (2003), ‘Annual appraisals are the norm, despite doubts about line managers’, IRS Employment Review, 768, IRS, London
 
-Likert R (1959), ’Motivational approach to management development’, Harvard Business Review, Vol. 37, pp. 75-82
-
-Locke E, Latham G (1990), ‘Work Motivation: The High Performance Cycle’, in Kleinbeck U, et al. (eds.), Work Motivation, Hillsdale NJ: Lawrence Erlbaum
-
-Martinez V (2005), What is the Value of Using Performance Management Systems? Centre for Business Performance, Cranfield School of Management, UK
+Karuhanga B N (2010), Challenges of performance management in universities in Uganda, International Research Symposium in Service Management, Le Meridien Hotel, Mauritius, 24-27 August 2010

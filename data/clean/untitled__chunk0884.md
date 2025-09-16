@@ -1,3 +1,7 @@
-# quences. Hove, England: Erlbaum.
-
-Feuerstein, R. (1979). The dynamic assessment of retarded perform- ers: The learning potential assessment device theory, instru- ments, and techniques. Baltimore: University Park Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c565c6a55a73c80493810aba3a9bdc6ce88d87bf
+title: untitled
+---
+## Evans, J. (1989). Bias in human reasoning: Causes and conse-

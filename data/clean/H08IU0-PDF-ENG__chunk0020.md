@@ -1,27 +1,17 @@
-# organization: resentment.
+---
+source_path: H08IU0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9132cc2ba4242294d66b2439c5ae90d7db0f8a63
+title: H08IU0-PDF-ENG
+---
+## HBR / Digital Article / Are You the Cause of Your Team’s Change Fatigue?
 
-At the outset of any major change, I have my clients set stringent ground
+for others to join you in feeling one thing, but saying another. Without
 
-rules about how they will be completely candid with one another, deﬁne
+the ability to be honest, your organization is inculcating the greatest
 
-what criteria they will use to objectively measure progress, and how
+form of change fatigue: the cognitive dissonance created by having to
 
-they will gather wide swathes of opinions about risks from those lower
+hide their true feelings while feigning positive regard for change. It’s
 
-in the organization. Inserting safeguards against groupthink, collusion,
-
-and self-deception into the change process can help reduce the threat of
-
-months (even years) of wasted eﬀort and resources.
-
-Name what you can’t control
-
-Much of the anxiety fueling defensive organizing comes from the
-
-many factors outside the control of leaders trying to stave oﬀ disaster
-
-or capitalize on market opportunities. The crescendo of enthusiasm
-
-for new ideas is largely born from the illusion that if leaders join
-
-forces, they can conquer the challenge or opportunity—regardless
+exhausting and ultimately gives way to the ﬁnal phase of defensive

@@ -1,3 +1,9 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 1639376269456396898b8feb83bbcca4bde94c02
+title: issn_print_0976_013x
+---
+# shaping-the-future-of-India-36519/
 
-Lave J., Wegener E. (1991). Situated Learning: Legitimate Peripheral Participation. Cambridge:
+61

@@ -1,5 +1,9 @@
-## top leaders. One-on-ones become arenas for inside inﬂuence, where
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5193d936141117b1b20c7d9ee13e379c51dbe63
+title: H08TA2-PDF-ENG
+---
+# Executive rivalry and collusion
 
-leaders can imply advantage by referencing private access (“In my 1:1
-
-with Bill this morning…”), creating a sense of secrecy and status that
+Succession overhang and ambition can subtly foster competition among

@@ -1,1 +1,13 @@
-# 23
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 95e736a987acf9e46d91b59db6d12d53cf712025
+title: microsoft_word_ebch_1926_v3_sameer
+---
+## Stages in the Training and Development Process
+
+The following stages have been listed as necessary for the actual implementation of training and development programmes. Business strategy: It is crucial to create a business strategy before organising and implementing the programmes. The preparation of goals, objectives, strategies, approaches, rules, and policies that are necessary to complete the tasks and activities in an orderly fashion is referred to as the business plan. When creating a business plan, it is important to take into account what the organisation is currently doing, how its processes and methods are enhancing the production of goods and services, how improvements to the production processes need to be brought about, employee recruitment and selection, and properly organised managerial functions such as planning, organising, directing, staffing, controlling, co-ordinating, and leadership. The creation of a business plan typically happens during a meeting of the organization's members. The parties involved each have unique responsibilities and titles. The participants share their opinions, thoughts, and viewpoints with one another.
+
+Training Strategy and Policy: The outline of how each person intends to carry out their plan is referred to as the training strategy. To ensure that the programmes are achievement-oriented, training strategy and policy are essential. It is crucial to make sure that these programmes are created in accordance with specific strategies and policies when they are organised. The strategies comprise the mission, aims, and objectives of training and development as well as policy and procedure. A training requirements analysis, responsibilities, resources, training plans, execution, recordkeeping, and assessment and review are all covered by the policies. Planning, organising, directing, controlling, coordinating, and leading are significant managerial tasks that are heavily incorporated into training strategy and policy. The people engaged must be knowledgeable and skilled so they may make informed decisions.
+
+Training Needs Analysis: The main principles that guide this process include assessing one's current performance and contrasting it with their future goals, analysing the factors contributing to any performance gaps, and determining the types of training interventions needed to close those gaps. Organisational demands and individual needs are two perspectives on the training

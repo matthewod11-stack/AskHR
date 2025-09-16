@@ -1,31 +1,33 @@
-## hopefully tens of thousands, if not millions of people.
-
-ADI IGNATIUS:
-
-How has your life changed since you published the book? I mean, now
-
-you’re sort of out there as an authority. Has that changed your life?
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed3c3d08a49cfe424a4c026f17cb01e931623ed2
+title: H07DLJ-PDF-ENG
+---
+# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
 DEB LIU:
 
-My life is: before running in here, I was literally cooking lunch for my
+Actually, I had been thinking about this book for a long time. Even
 
-family. So I feel like in some ways, having a family of three, with three
+before I became the CEO of Ancestry, it was eight years ago, I started an
 
-kids and my husband and my mom who has cancer living with us, has
+open door policy. I let women who wanted to reach out, who needed an
 
-kept me humble. And in fact, it reminds me that so much of our life is
+ally, reach out to me. And over the course of eight years, I’ve coached
 
-not lived like what you see on social media, right? The successes, getting
+over a thousand women and I realized it wasn’t scalable. One of the
 
-the amazing job, or joining X board, or getting your book published,
+things I wanted to do with this book was to say, “What are all those
 
-[but] so much of life is actually the day to day, which is what keeps me,
+lessons? What are the themes I was hearing?” Women were asking, “Hey,
 
-reminds me, that we can have inﬂuence in small ways and big ways.
+why wasn’t I promoted? Why is my peer now my manager? What am
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+I doing wrong?” Women would say, “Hey, I don’t know why I’m not
 
-5
+given stretch opportunities. I don’t have a sponsor.” And I realized if
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+I just shared those lessons and took all of the things I learned from
+
+those thousand conversations and put it in a book, I could scale that to

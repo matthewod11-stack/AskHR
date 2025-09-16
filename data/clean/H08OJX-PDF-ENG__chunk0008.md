@@ -1,17 +1,13 @@
-# Focus on the Right Problem
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba54b8a802051429db3e270fedad2a47fd9a8463
+title: H08OJX-PDF-ENG
+---
+# situation.
 
-As corporate gaslighting progresses in stages, the victim may become
+However, if an executive does nothing against these dysfunctional
 
-preoccupied with defending against adversarial behavior, often failing
+behaviors, they may regret not acting. Here are three actions that some
 
-to notice that a negative narrative is starting to take root.
-
-A CIO from a S&P 500 global technology company noted:
-
-“I was so stuck in the adversarial behavior that I missed how the
-
-negative narrative around me was taking me down. I could feel it,
-
-but I could not grasp it. If I had the clarity I have today I would
-
-have focused on countering the narrative rather than combating the
+targeted executives have implemented successfully.

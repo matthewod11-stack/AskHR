@@ -1,11 +1,35 @@
-## HBR / Digital Article / In a Slump at Work? Here’s How to Motivate Yourself.
+---
+source_path: H08OI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab95f025731890e1e94325a7ad9315ff871da256
+title: H08OI6-PDF-ENG
+---
+# interim.
 
-This article was originally published online on March 28, 2025.
+. . .
 
-Octavia Goredema is the CEO of Fire Memos and the author of Prep, Push, Pivot: Essential Career Strategies for Underrepresented Women. She is the host of two Audible Original series, Brand Yourself for Success and How to Change Careers. You can learn more about Octavia’s work here.
+Remember that slow seasons can nurture growth. It’s not uncommon
+
+to feel bored during certain periods at work, but don’t allow boredom
+
+to become stagnation. Your career is the most personal and the most
+
+valuable investment you’ll ever make. It’s up to you to be proactive
+
+about how you seek out opportunities to learn, grow, and evolve. In fact,
+
+slow seasons can be a precursor to something new and exhilarating—
+
+whether that’s an idea, a revelation about what you need to do your
+
+best work or what you want to explore next, or even just a deeper
+
+understanding of who you are. It’s up to you to determine how you will
+
+handle it, seize new challenges, and ﬁnd the silver lining.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

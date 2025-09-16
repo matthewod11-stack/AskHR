@@ -1,15 +1,11 @@
-# of favor.
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e95eaf8ee9fe5de39c66b9c9ed0b6e9c4da2851b
+title: S25011-PDF-ENG
+---
+## HBR / Spotlight / How to Marry Process Management and AI
 
-At the same time, AI and other information technologies have also
+process reengineering became a fad that left too many failed projects
 
-disappointed companies when it comes to generating productivity
-
-gains. Robert Solow’s 1987 comment that “you can see the computer
-
-age everywhere but in the productivity statistics” is sadly still relevant.
-
-Organizations have invested trillions of dollars in data and the
-
-technology to analyze and enhance productivity but have little to
-
-show for it. Most organizations don’t even have ROI ﬁgures beyond
+and mindless layoﬀs in its wake in the early 1990s. No wonder it fell out

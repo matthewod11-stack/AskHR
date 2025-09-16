@@ -1,15 +1,9 @@
-## Manchester University/RCN Institute: London.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: f515ce134185ea91eccf2c910de8d7ef3aaef8d1
+title: chapter_nine
+---
+## outcomes. Nursing Standard. Vol. 14. No. 37. pp 34-39.
 
-Manley, K. (2002) Commentary on critique of consultant nurse framework. Nursing in Critical Care.
-
-Vol. 7. No. 2. pp 84-87.
-
-Manley, K., McCormack, B. (2003) Practice development: purpose, methodology, facilitation and
-
-evaluation. Nursing in Critical Care. Vol. 8. No. 1. pp 22-29.
-
-Manley, K. (2004) Transformational culture: a culture of effectiveness. Chapter 4 in McCormack, B., Manley, K., Garbett, R. (Eds) (2004) Practice Development in Nursing. Oxford: Blackwell Publishing.
-
-Manley, K., Webster, J. (2006) Can we keep quality alive? Nursing Standard. Vol. 21. No. 3. pp 12-15. Manley, K., Sanders, K., Cardiff, S., Garbarino, L., Davren, M. (2007) Effective workplace culture: concept analysis. In RCN Workplace Resources for Practice Development. RCN: London. pp 6-10.
-
-24
+Manley, K. (2001) Consultant Nurse: Concept, Processes, Outcomes. Unpublished PhD thesis

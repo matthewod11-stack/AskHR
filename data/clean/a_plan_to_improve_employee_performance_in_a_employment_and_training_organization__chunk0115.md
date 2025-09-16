@@ -1,15 +1,15 @@
-# Performance Objectives/Standards
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 5cf8bed92ceda3e5bffa7c049646b95dcd6758ce
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+## an agreement between the employee and supervisor over these priorities.
 
-Performance objectives, usually referred to as performance standards, are written
+- 5) Set up a timetable with dates for review of accomplishments and the employee
 
-statements or measures describing how well a job should be performed . Performance
+should decide when these dates should be established. If employees set the
 
-objectives should be developed collaborativel y with employees , and explained to new
+timetable, it will empower them to increase their performance and accountability.
 
-employees during the first month on the job. Performance objectives provides a standard
-
-or benchmark against which to evaluate employee performance . The job description may
-
-describe the essential functions and tasks of the job, the performance objective defines
-
-how well each function or task must be performed to meet or exceed some level of
+26

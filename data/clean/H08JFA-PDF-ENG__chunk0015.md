@@ -1,29 +1,29 @@
-## HBR / Digital Article / Why You’re Chronically Overcommitted
+---
+source_path: H08JFA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a2c25eb56feff171f181b5f2e9cfadca60622ce
+title: H08JFA-PDF-ENG
+---
+# Signs You’re Overcommitted
 
-you have no idea how to ﬁt this into your workload and you may be
+You can’t change something you are unaware of. So, to make a
 
-working the next three weekends to meet the deadlines.
+meaningful change, you need to know how overcommitment shows up
 
-- Avoiding prioritization and tackling whatever seems most urgent:
+in your habits, and that begins with self-awareness.
 
-You log into your email in the morning and realize you haven’t really
+Here are some signs you might be overcommitted.
 
-cleared your inbox in the last week. You start responding to them
+- Saying yes to requests without considering your capacity: Your
 
-in the order they came in and end up spending the ﬁrst half of the
+manager requests a volunteer for a high-proﬁle client event. You
 
-morning doing just that, In the afternoon you realize you also have a
+already have a packed week with three other projects, but you
 
-client presentation to submit in a couple of hours. You rush through
+immediately raise your hand to oﬀer your time. Later, you realize that
 
-it, only to end up getting a lot of feedback and making all the changes
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-your colleagues point out.
+4
 
-- Frequently working late hours or during weekends to “catch up”:
-
-On a Sunday morning, you log into your work email to “just get ahead
-
-and prepare a little before the week starts.” Before you know it, you’ve
-
-spent her entire day at your laptop. By Sunday night, you’re exhausted
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

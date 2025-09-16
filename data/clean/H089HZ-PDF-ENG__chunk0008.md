@@ -1,7 +1,17 @@
-## backlash from employees and an explosion of social media fervor, as in
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1329f61d17912683caf4d97b63bd9c361e80c62
+title: H089HZ-PDF-ENG
+---
+## A steady stream of high-proﬁle companies across a wide range
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+of industries — including Google, Farmers Insurance, Disney, UPS,
 
-1
+Boeing, IBM, and Amazon — have required employees to return to their
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+oﬃces. While their messaging about these RTO mandates has ranged
+
+in form and tone, much of it has felt tone-deaf at best and in many
+
+cases adversarial or even dictatorial. Unsurprisingly, the result has been

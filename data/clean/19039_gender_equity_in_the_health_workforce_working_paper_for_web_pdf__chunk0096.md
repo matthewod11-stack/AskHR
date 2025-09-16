@@ -1,5 +1,9 @@
-# patterns.
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: 9fb197cd222a5aa362e6a5c6872bf4e52b4f4304
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+## fewer per week for pharmacists, and 3 hours fewer per
 
-8 The likelihood for earning in the highest income category for men as compared with women was OR = 2.10 (95% CI: 1.83–2.40) for physicians; OR = 2.27 (95% CI: 1.76–2.93) for nursing and midwifery personnel; and OR = 3.38 (95% CI: 2.27–5.03) for personal care workers. (OR – odds ratio; CI – conﬁdence interval.)
-
-10
+week for personal care workers. Census data showed similar

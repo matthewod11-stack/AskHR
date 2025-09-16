@@ -1,15 +1,9 @@
-# Performance Review Form
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: cbb961287d36bd9ee741faab8b66159eb33dd569
+title: performance_management_3rd_edition_by_aguinis
+---
+# Signatures
 
-Employee Name: _________________________________ Title: ____________________________________________ Manager: ________________________________________ Date of Appraisal Meeting: ________________________
-
-Employee Performance Reviews improve employee performance and development by encouraging communication, establishing performance expectations, identifying developmental needs, and setting goals to improve performance. Performance reviews also provide an ongoing record of employee performance, which is helpful for both the supervisor and employee.
-
-Use the form below to list examples of outstanding performance or achievements as well as areas of performance that need improvement. Please provide open comments on your employee’s performance. Complete each section and list examples of performance where applicable.
-
-- 1. Job description/key responsibilities/required tasks:
-
-_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________
-
-- 2. Note expected accomplishments vs. actual accomplishments:
-
-_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________
+First, consider the form included in Figure 6.1. This is a generic form that can be used for almost any position in a company. Let’s evaluate this form in relation to the components listed in Table 6.1. First, the form asks for the employee’s basic informa- tion. Second, while the form asks the manager to list the expected versus the actual accountabilities, it does not include objectives or standards. Third, the form includes five competencies, but it does not include a definition of those competencies nor does it list the indicators to look for to determine whether the employee has mastered the

@@ -1,13 +1,19 @@
-# ucational Psychologist, 27, 5–32.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 70f785542ce6168a78a15308e52e29e81c8c8123
+title: barrickryan_eds_personality_and_work
+---
+# 260 PERSONALITY AND WORK
 
-Spielberger, C. D. (1966). Theory and research on anxiety. In C. D. Spiel- berger (Ed.), Anxiety and behavior (pp. 3–37). Orlando, FL: Aca- demic Press.
+Ryan, A. M., & Ployhart, R. E. (2000). Applicants’ perceptions of selec- tion procedures and decisions: A critical review and agenda for the future. Journal of Management, 26, 565–606.
 
-Spielberger, C. D. (1977). State-trait anxiety and interactional psychology. In D. Magnusson & N. S. Endler (Eds.), Personality at the crossroads: Current issues in interactional psychology (pp. 173–183). Mahwah, NJ: Erlbaum.
+Savage, R. E., Williges, B. H., & Williges, R. C. (1982). Empirical predic- tion models for training-group assignment. Human Factors, 24, 417–426.
 
-Swanson, H. L., O’Connor, J. E., & Cooney, J. B. (1990). An information processing analysis of expert and novice teachers’ problem solving. American Educational Research Journal, 27, 533–566.
+Schmidt, A., & Ford, J. K. (2002).The role of goal orientations on metacogni- tive activity and learning outcomes. Paper presented at the Seventeenth Annual Meeting of the Society for Industrial and Organizational Psychology, Toronto, Ontario.
 
-Tubiana, J. H., & Ben-Shakhar, G. (1982). An objective group question- naire as a substitute for a personal interview in the prediction of suc- cess in military training in Israel. Personnel Psychology, 35, 349–357. Volet, S. E. (1991). Modeling and coaching of relevant metacognitive strategies for enhancing university students’ learning. Learning and Instruction, 1, 319–336.
+Shoda, Y. (1999). Behavioral expressions of a personality system. In D. Cervone & Y. Shoda (Eds.), The coherence of personality (pp. 155– 181). New York: Guilford Press.
 
-Warr, P., & Bunce, D. (1995). Trainee characteristics and the outcomes
+Snow, R. E. (1990). New approaches to cognitive and conative assessment in education. International Journal of Educational Research, 14, 455–473.
 
-of open learning. Personnel Psychology, 48, 347–375.
+Snow, R. E. (1992). Aptitude theory: Yesterday, today, and tomorrow. Ed-

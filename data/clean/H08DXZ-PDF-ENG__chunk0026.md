@@ -1,17 +1,21 @@
-## 4,500 open-ended questions from negotiators — and the responses
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ae118b4043ec1517ed8b4dc22339bd305bf3b79
+title: H08DXZ-PDF-ENG
+---
+# irritation (bolded terms).
 
-they elicited. Our language models extracted both strategic information
+Kate, on the other hand, asked, “How would moving in next week help
 
-disclosure (italicized) and emotional tone (bolded) from the responses.
+your business?” Her property manager replied, “Well, moving in next
 
-We found that asking “Why” questions often elicited longer, more
+week would be great for us. It keeps our leasing plan on schedule and
 
-detailed responses, revealing useful information but also leading
+helps me coordinate better with the other tenants.” While it was less
 
-to more negative sentiment. In contrast, “How” questions tended
+obvious that the move-in date was the landlord’s most critical concern,
 
-to generate positive sentiment but less detailed responses. “What”
+the tone was more relaxed and collaborative.
 
-questions fell in between, providing a balance between gathering
-
-information and maintaining a neutral or positive tone.
+As illustrated in these examples, we analyzed responses to more than

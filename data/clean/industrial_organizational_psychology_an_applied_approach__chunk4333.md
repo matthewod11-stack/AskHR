@@ -1,35 +1,17 @@
-## Mercer (2005). Mercer 2004/2005 Compensation Planning
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 78919ecd08dbe73d6ecad95d803e1a6e1c627fdf
+title: industrial_organizational_psychology_an_applied_approach
+---
+# HR Magazine, 52(4), 12.
 
-Survey. New York: William M. Mercer, Inc. Mero, N. P., & Motowidlo, S. J. (1995). Eﬀ ects of rater
+Melamed, S., Fried, Y., & Froom, P. (2001). Th e interactive
 
-accountability on the accuracy and the favorability of performance ratings. Journal of Applied Psychology, 80(4), 517–524.
+eﬀ ect of chronic exposure to noise and job complexity on changes in blood pressure and job satisfaction: A longitudinal study of industrial employees. Journal of Occupational Health Psychology, 6(3), 182–195.
 
-Mershon, D. H., & Lin, L. (1987). Directional localization in
+Melamed, S., Harari, G., & Green, M. S. (1993). Type A behavior, tension, and ambulatory cardiovascular reactivity in workers exposed to noise stress. Psychosomatic Medicine, 55(2), 185–193.
 
-high ambient noise with and without the use of hearing protectors. Ergonomics, 30, 1161–1173.
+Mento, A. J., Steel, R. P., & Karren, R. J. (1987). A meta-analytic
 
-Meyer, J. P., & Allen, N. J. (1997). Commitment in the workplace: Th eory, research, and application. Th ousand Oaks, CA: Sage.
-
-Meyer, H. H. (1980). Self-appraisal of job performance. Personnel
-
-Psychology, 33, 291–296.
-
-Michaels, J. W., Blommel, J. M., Brocato, R. M., Linkous, R. A., & Rowe, J. S. (1982). Social facilitation and inhibition in a natural setting. Replications in Social Psychology, 2, 21–24.
-
-Mijares, T. C. (1993). Selecting police personnel for tactical
-
-assignments: Considerations for female oﬃ cers. Applied H.R.M. Research, 4(2), 94–101.
-
-Miles, E. W., Patrick, S. L., & King, W. C. (1996). Job level as a
-
-systematic variable in predicting the relationship between supervisory communication and job satisfaction. Journal of Occupational and Organizational Psychology, 69(3), 277–292.
-
-Miles, J. A., & Greenberg, J. (1993). Using punishment threats to attenuate social loaﬁ ng eﬀ ects among swimmers. Organizational Behavior and Human Decision Processes, 56(2), 246–265.
-
-Miller, B. K., Rutherford, M. A., & Kolodinsky, R. W. (2008). Perceptions of organizational politics: A meta-analysis of outcomes. Journal of Business and Psychology, 22, 209–222.
-
-references
-
-649
-
-Miller, C. W. (1998, January 18). Managers beneﬁ t from walking around, talking with workers. Th e Roanoke Times and World News, p. B2.
+study of the eﬀ ects of goal setting on task performance: 1966–1984. Organizational Behavior and Human Decision Processes, 39, 52–83.

@@ -1,5 +1,11 @@
-# Situational Variables
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f088d405685317dd3111c50236a6c14466ad482e
+title: barrickryan_eds_personality_and_work
+---
+# 304 PERSONALITY AND WORK
 
-Hattrup and Jackson’s plea (1996) for learning about individual dif- ferences by taking situations seriously has been taken seriously. The once extreme positions of early situationism and trait psychology are today blended; even Mischel has modiﬁed his position (Mischel, Shoda, & Mendoza-Denton, 2002). The importance of both indi- vidual differences (especially personality variables) and situations is now recognized, and it is nowhere more apparent than in the study of teams—their composition and their effectiveness. Situa- tions can interact with individual differences in personality, differ- entially eliciting cooperative and competitive behavior (Graziano, Hair, & Finch, 1997). Situations can mediate and moderate the ef- fects of personality variables on outcome variables. The growing awareness that an individual’s ﬁt with the environment affects work adjustment is a clear recognition of the importance of situations.
+variables (LePine, Hollenbeck, Ilgen, & Hedlund, 1997). In addi- tion, type of task may moderate the relationships. For example, group-level Extraversion appears to be related curvilinearly to team performance on creative problem-solving tasks (Barry & Stewart, 1997) and linearly to team performance on compensatory tasks (Barrick et al., 1998). Although the complexities of the relation- ships are almost overwhelming, they must be reﬂected in our mod- els of performance.
 
-The following variables incorporate the situation into their de- ﬁnition or measurement: type of task, type of team, type of job, cul- ture, research setting, and ﬁt. (See Chapter Ten, this volume, for a discussion of ﬁt between the individual and the organization.) Each of these “situations” can interact with independent variables in our models to affect dependent variables. These situations also act as moderator and mediator variables as well.
+The research in this area highlights the importance of con- ducting a mission analysis (akin to job analysis at the individual level) that takes into account required group-level (team) compe- tencies, group-level criterion variables, type and form of the rela- tionships, and situational variables. Studies in this area also highlight the difﬁculties of operationalizing group-level predictor variables.

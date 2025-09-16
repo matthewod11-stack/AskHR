@@ -1,7 +1,21 @@
-# with large portfolios of small-scale investments, as in corporate R&D, or consumer
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: d08676bd973fd22a6f089af3de239669f1dba022
+title: beo_chap7_1
+---
+## step further and account for endogenous organizational response. Organizational
 
-product companies which expect a high rate of product failure. These firms need
+design may limit bad escalation. Budget constraints and milestones are in place
 
-to routinely pull the plug on bad projects. Understanding how they cope with high
+precisely to avoid escalation. The bigger the risk of bad escalation, the more extensive
 
-rates of failure could be useful in understanding how to prevent escalation.
+should be the implementation of such mechanisms. In fact, they may sometimes
+
+produce an opposite bad effect: good projects are terminated prematurely. Heath
+
+(1995) points out that sometimes people de-escalate too quickly, when a project’s
+
+losses hit a budget constraint.
+
+A promising place to study escalation and organizational responses are firms

@@ -1,3 +1,11 @@
-# 1.4.1 Base Pay
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d5053a115d76b096fa193eb33848d36baa7f428a
+title: performance_management_3rd_edition_by_aguinis
+---
+# 1.4 DEFINITION OF REWARD SYSTEMS
 
-Base pay is given to employees in exchange for work performed. The base pay, which usually includes a range of values, focuses on the position and duties performed rather than an individual’s contribution. Thus, the base pay is usually the same for all employ- ees performing similar duties and ignores differences across employees. However,
+An employee’s compensation, usually referred to as tangible returns, includes cash compensation (i.e., base pay, cost-of-living and merit pay, short-term incentives, and long-term incentives) and benefits (i.e., income protection, work/life focus, tuition reimbursement, and allowances). However, employees also receive intangible returns, also referred to as relational returns, which include recognition and status, employment security, challenging work, and learning opportunities. A reward system is the set of mechanisms for distributing both tangible and intangible returns as part of an employ- ment relationship.
+
+It should be noted that not all types of returns are directly related to performance management systems. This is the case because not all types of returns are allocated based on performance. For example, some allocations are based on seniority as opposed to performance. The various types of returns are defined next.25

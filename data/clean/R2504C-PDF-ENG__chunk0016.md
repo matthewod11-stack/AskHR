@@ -1,15 +1,13 @@
-## HBR / Magazine Article / “Speed Is a Leadership Decision”
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87e7392336424706c206e78bc6eee2c989dbec33
+title: R2504C-PDF-ENG
+---
+# successful in this new economy.
 
-How are you able to attract and retain talent when everyone is going after the same skill set?
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-You have to build a place where the talent you desire wants to work and
+8
 
-a culture where builders want to come. There are things that are unique
-
-to our culture. A lot of companies talk about being customer focused,
-
-but very few really are. We’re all customers, and we all know what it’s
-
-like to be treated in a mediocre way. If you hire people who share a
-
-customer focus, it’s very inspiring. It starts with customers and goes
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

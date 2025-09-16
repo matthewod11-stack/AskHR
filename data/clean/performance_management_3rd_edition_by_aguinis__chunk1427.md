@@ -1,3 +1,7 @@
-# from a 360-Degree Feedback System
-
-Decreased possibility of biases Increased awareness of expectations Increased commitment to improve Improved self-perceptions of performance Improved performance Reduced “undiscussables” Employees enabled to take control of their careers
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 9393381751de8a05ea4ae10239a9dc79aa920c91
+title: performance_management_3rd_edition_by_aguinis
+---
+## TABLE 8.4 Summary List of Benefits Resulting

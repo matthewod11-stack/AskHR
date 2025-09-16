@@ -1,35 +1,15 @@
-# Back~round
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: b5f426eb866ddd93038963a8ccd315e322bb7f42
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# g) referral to training programs.
 
-Within our organization and among counselors there exist many inconsistencies.
+As a counselor , our job is to determine eligibility , assess suitability and advise
 
-We better equip some counselors with better training - to provide a quality customer
+customers for various JTPA programs and services at ETR. As an employee ofETR , my
 
-2
+role is to take the unemployed , those needing employment, those needing training for
 
-service, be more knowledgeable , and be more productive than other counselors. Why?
-
-On one hand, some counselors avoid doing intakes and average seeing two to three
-
-people per day. On the other hand, some counselors grab the application when the
-
-customer arrives and they average seeing six to eight people per day. Employees are not
-
-maximizing their potential to perform/work , and they lack the motivation to do so.
-
-Sometimes, counselors get an intake and they do everything possible in their power to
-
-look for reasons not to do a complete intake. They will either refer the client or have the
-
-client come back for another appointment , because the client forgot the necessary
-
-information. In this event, the counselor just gets "rid" of the client and hope they come
-
-back to see another counselor. Also, counselors can probably complete an intake in
-
-approximately an hour to an hour and a half, but some counselors take two to three hours
-
-per intake. Why? (Supervisors have not specified the optimal time to complete an
-
-intake) . The central issue or "constraint" revolves around employee performance , which
-
-has an influence on many other issues of concern, such as: customer service,
+employment, and provide services in the form of training and employment opportunities.

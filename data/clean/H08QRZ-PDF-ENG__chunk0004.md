@@ -1,27 +1,21 @@
-# behavior.
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba568c6f659d3e08d182fd4568b31aa6338b0e2e
+title: H08QRZ-PDF-ENG
+---
+## HBR / Digital Article / The Risks of Collecting Employees’ Biometric Data
 
-All of this data, the argument goes, can create a healthier, more eﬃcient
+go as far as collecting health data, incentivized by the desire to improve
 
-workforce, and safer, more secure places to work.
+the overall health of the workforce or get discounts on premiums
 
-While it’s true these practices can beneﬁt organizations, too many
+from health insurers. The technology that facilitates this collection has
 
-overlook the risks—to both their workers and themselves. However,
+gotten both better and cheaper in recent years. Wearables and mobile
 
-according to our forthcoming research, workers also report that this
+devices can count steps, measure heart rates, and provide statistics on
 
-kind of monitoring can make them feel insecure in their jobs and
+sleeping habits. Through “behavioral biometrics,” cameras can identify
 
-harm their physical and mental health. Employee disengagement and
-
-diminished productivity can more than erase any short-term gains.
-
-Recent lawsuits show that the risks don’t end there. Last year,
-
-BNSF Railway settled a $75 million class action lawsuit after tens of
-
-thousands of its truckers argued that the company unlawfully scanned
-
-and stored their ﬁngerprints, violating Illinois privacy laws. The Old
-
-Dominion Freight Line, a truckload shipping company; Speedway, LLC,
+people based on their gait and posture, for instance, and analyze their

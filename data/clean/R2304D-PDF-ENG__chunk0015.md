@@ -1,15 +1,11 @@
-## Aspen Institute’s Economic Opportunities Program and MIT’s Institute
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c36336b544ae2ace3ec1fa5c5640fe55d0374c54
+title: R2304D-PDF-ENG
+---
+## that challenge companies also prompt disruption and soul-searching
 
-for Work and Employment Research, we lay out a more collaborative
+among traditional labor organizations. Both must evolve.
 
-—and eﬀective— approach to leading the organized, and organizing,
-
-workforce. We’ll focus on the U.S. landscape in this article, but we’ll
-
-also highlight approaches that work in Europe and around the world.
-
-Ultimately, we hope to build a foundation for overdue discussions about
-
-how business and organized labor need to modernize, and how to bring
-
-about changes in the law to accommodate new realities.
+In this article, building on insights from a roundtable we host with the

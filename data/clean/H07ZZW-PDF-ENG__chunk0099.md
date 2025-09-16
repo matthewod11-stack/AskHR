@@ -1,19 +1,17 @@
-# work awaits.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af44fa44fccbb94a65bb7e04ccf71069753222b0
+title: H07ZZW-PDF-ENG
+---
+# publicly available.
 
-Once you have been explicit and deliberate about employee
+To be in line with good practice on business and human rights, ensure
 
-involvement in strategy, ethics, politics, and human rights, you’ll be
+that your actions and spending are aligned. Be certain, too, that you’ve
 
-better equipped to make consistent decisions on how to address social
+taken concrete steps to protect employees and supply chain workers
 
-and political issues. Your employees may not always agree, and you
+from human rights violations before you mount any public campaign on
 
-must be clear from the outset as to whether they’re allowed to disagree
-
-publicly. But because they’ve been involved throughout the process,
-
-and there has been clear consideration of how these issues will aﬀect
-
-organizational culture, they should better understand what you are (or
-
-are not) saying — and why.
+an issue. On reﬂection, most companies will ﬁnd that further internal

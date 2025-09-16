@@ -1,15 +1,9 @@
-# festival in a park or an improv class.
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4442b96072da77df383b6b31665722e30bb0a30b
+title: H08SR2-PDF-ENG
+---
+# gym, library, or nonproﬁt organization.
 
-The more that non-work spaces have these characteristics, the more
-
-potential they have to function as what we term a “relational holding
-
-environment,” a non-work setting that helps colleagues bond by easing
-
-the unpleasant feelings associated with blurring their work and non-
-
-work lives. Our study found that when leaders and employees connect
-
-in a relational holding environment, it can fuel stronger relationships,
-
-provide better access to information, and create opportunities for
+- 4. Playful: The setting sparks a sense of fun and playfulness, like a

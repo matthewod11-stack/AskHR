@@ -1,11 +1,51 @@
-## transparent communication, professional respect, and support for
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a15e72b65a62bb528aacb4a1fcb9c17fedc0bb3d
+title: R2504D-PDF-ENG
+---
+## HBR / Magazine Article / The Conflict-Intelligent Leader
 
-calculated risk-taking.
+Our research reveals that leaders need four core competencies to
 
-It’s easy to confuse emotional intelligence and conﬂict intelligence,
+navigate conﬂict. The ﬁrst, and most foundational, is self-awareness
 
-but they’re distinct concepts with unique applications. Emotional
+and self-regulation—recognizing and managing your personal reactions
 
-intelligence refers to the ability to recognize, understand, and manage
+so that you can remain calm and engage strategically. The second
 
-your own emotions as well as the emotions of others. It involves skills
+competency, strong social-conﬂict skills, which include deep listening,
+
+balancing advocacy with collaboration, and checking biases, helps
+
+leaders reach constructive solutions. Situational adaptivity—knowing how to tailor strategies to ﬁt diﬀerent types of conﬂict and when
+
+to lean in, step back, or adjust for cultural nuances—is also crucial.
+
+Finally, systemic wisdom allows leaders to address chronic, deeply
+
+rooted conﬂicts by seeing the bigger picture, embracing complexity, and
+
+learning from past successes and failures.
+
+Leaders who demonstrate the four core competencies have what we
+
+call a high conﬂict-intelligence quotient (CIQ). Our research indicates
+
+that such executives not only excel at dispute resolution but also create
+
+workplace environments where team members experience greater job
+
+satisfaction, empowerment, and well-being. These leaders also tend
+
+to build organizational cultures marked by greater creativity and
+
+constructiveness and, according to research by Nicholas Redding,
+
+the ability to navigate stress and uncertainty. Notably, our research
+
+has found signiﬁcant correlations between employees’ perceptions of
+
+leaders’ conﬂict intelligence and the psychological safety they feel at
+
+work—whether their environment is characterized by mutual trust,

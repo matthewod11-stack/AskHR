@@ -1,7 +1,9 @@
-# HUMAN RESOURCE DEVELOPMENT INTERNATIONAL
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: e8efa15171cc98becb32b789ba96472f947dad34
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+# Implications for practice
 
-contrast, informal coaching is often opportunistic, routine, and immediate (Grant, 2017), which some employees appraise as general supervision (Dixey, 2015).
-
-Some supervisors prefer informal coaching because it requires less time and aligns with organisational constraints (Grant, 2017, p. 39). Others perceive formal coaching as more confrontational and potentially less effective (Dixey, 2015). However, our findings suggest otherwise. We found that employees receiving formal coaching view their work as more meaningful and demonstrate stronger OCBs. Therefore, we recommend that HRD practitioners integrate formal coaching as a core leadership competency and train supervisors to be experts.
-
-It is acknowledged that effective workplace coaching requires time, effort, and com- mitment (Milner et al., 2023). However, HRD practitioners could help by ensuring supervisors receive ongoing training in best practices (Ellinger, 2013). Additionally, HRD practitioners could foster a coaching culture by developing organisational policies that encourage employees at all levels (coaches and coahees) to take an active role in the process (Koskinen & Anderson, 2023). For example, HRD practitioners could advocate for investment in digital platforms that streamline coaching efforts, such as tracking sessions, monitoring goal progress, and providing feedback. This would ensure super- visors are better equipped to balance their role as leader and coach, something recom- mended in the literature (B. Kim & Lee, 2024).
+Formal workplace coaching is distinct from no coaching, but we also suggest it is distinct from informal coaching which is typically more frequent, shorter in duration, and less structured (Dixey, 2015). Compared with informal coaching, formal coaching is extra- ordinary because it extends beyond routine supervision, sending a strong signal that employees are valued, and have potentially reached insider status (Zhao & Liu, 2020). When supervisors dedicate extended one-on-one time to coach employees for improved performance, it is unsurprising that employees recognise it as a valuable job resource. In

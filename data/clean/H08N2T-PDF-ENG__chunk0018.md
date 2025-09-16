@@ -1,17 +1,15 @@
-## of joy, creativity, or adventure into my daily routine, and how much
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51e79cbc41e228bb7e1d38777597a96d24551b9f
+title: H08N2T-PDF-ENG
+---
+# HBR / Digital Article / 6 Questions to Help You Decide What You Want in Your Next Job
 
-am I potentially willing to sacriﬁce (e.g., in terms of money, workload,
+questions that can help you assess the degree to which you need to
 
-career growth, etc.) to get that experience? In fact, how important is the
+be intrinsically motivated by your job and career. How much fun or
 
-experience part of the experience I would get? Do I need the journey to
+enjoyment do I expect from my work, and does this role oﬀer tasks or
 
-be enjoyable and fun, or am I OK seeing it as a means to an end?
-
-As science shows, if you can match your interests and intrinsic
-
-motivations to a new opportunity, you’ll naturally be more engaged in
-
-the role. And yet, we have known for ages that people diﬀer in their need
-
-for fun vs. capacity for sacriﬁce, something captured by the hedonism-
+projects that I genuinely enjoy? Will this new opportunity bring a sense

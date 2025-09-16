@@ -1,7 +1,11 @@
-# human resources, and operations.
+---
+source_path: H08MEZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cba301730a59d488b08fbf0dc3ef5ce4dc719e32
+title: H08MEZ-PDF-ENG
+---
+# compliance penalties.
 
-Investing in technology to track state-level changes, such as paid leave
+To build such a framework, companies should establish a cross-
 
-accrual systems, is also vital. Additionally, the company’s leadership
-
-must be regularly updated on emerging trends to align strategy with
+functional compliance team that includes representatives from legal,

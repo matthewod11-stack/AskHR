@@ -1,9 +1,9 @@
-# I
+---
+source_path: F1905A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f08c941edb53d410746aeaabb31790a1d112bfd0
+title: F1905A-PDF-ENG
+---
+# L O O H C S
 
-expected to see some positive effects of the #MeToo movement: For instance, 74% of women said they thought they would be more willing now to speak out against harassment, and 77% of men anticipated being more careful about potentially inappropriate behavior. But more than 10% of both men and women said they thought they would be less willing than previously to hire attractive women. Twenty-two percent of men and 44% of women predicted that men would be more apt to exclude women from social interactions, such as after- work drinks; and nearly one in three men thought they would be reluctant to have a one-on-one meeting with a woman. Fifty-six percent of women said they expected that men would continue to harass but would take more precautions against getting caught, and 58% of men predicted that men in general would have greater fears of being unfairly accused.
-
-Because the data was collected soon
-
-after the #MeToo movement gained momentum, and because much of it focused on expectations, the researchers conducted a follow-up survey (with different people) in early 2019. This revealed a bigger backlash than respon- dents had anticipated. For instance, 19% of men said they were reluctant to hire attractive women, 21% said they were reluctant to hire women for jobs involv- ing close interpersonal interactions with men (jobs involving travel, say), and 27% said they avoided one-on-one meetings with female colleagues; only one of those numbers was lower in 2019 than the numbers projected the year before. The researchers say that some of the behaviors are manifestations of what is sometimes called the Mike Pence rule—a reference
-
-to the U.S. vice president’s refusal to dine with female colleagues unless his wife is present. “I’m not sure we were surprised by the numbers, but we were disap- pointed,” says Rachel Sturm, a professor at Wright State University who worked on the project. “When men say, ‘I’m not going to hire you, I’m not going to send you traveling, I’m going to exclude you from outings’—those are steps backward.” The researchers have several recom- mendations for organizations looking to reduce harassment, a number of which involve prevention training. Their study shows that traditional sexual harassment training has little effect, perhaps because much of it focuses on helping employees understand what constitutes harassment, and the data shows they already do. Instead, the researchers say, companies should implement training that educates employees about sexism and character. Their data shows that employees who dis- play high levels of sexism are more likely to engage in negative behaviors, and they believe training can reduce those levels. Their data also shows that people of high character—those who display virtues such as courage—are less likely to harass and more likely to intervene when others do. “Though character building in organiza- tions is on the cutting edge and consul- tants are just learning how to do this, there are training resources available,” the HBR Reprint F1905A researchers write.
+S S E N I S U B D R A V R A H 9 1 0 2 © T H G R Y P O C

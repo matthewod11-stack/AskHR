@@ -1,19 +1,13 @@
-# to individual performance.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b0813a907ee750d1393c4a1535ec046a13455404
+title: performance_management_3rd_edition_by_aguinis
+---
+# LEARNING OBJECTIVES
 
-(cid:2) Understand the various types of teams and how different types of teams
+By the end of this chapter, you will be able to do the following: (cid:2) Know the definition of a team, and understand why teams are so pervasive
 
-may require different types of performance measurement.
+in organizations worldwide.
 
-(cid:2) Be aware of challenges associated with the design and implementation of
-
-performance management systems that include a team component.
-
-(cid:2) Extend guidelines on how to design performance management systems that consider individual performance to systems that include both individual and team performance components.
-
-(cid:2) Design and implement a performance management system that focuses on
-
-(1) individual performance, (2) individual performance that contributes to team performance, and (3) team performance.
-
-(cid:2) Extend principles regarding how to reward individual performance to how
-
-to reward team performance.
+(cid:2) Understand the importance of managing team performance in addition

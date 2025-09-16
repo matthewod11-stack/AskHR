@@ -1,9 +1,11 @@
-# Acknowledge your own emotions.
+---
+source_path: H071S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d88afa00f548e36ff037061339157626f5c72a5
+title: H071S2-PDF-ENG
+---
+## into a place of higher levels of productivity.
 
-If you’ve been managing this person for a long time, you’ve likely
+If you’re a manager unsure of how to help, here are some practical steps
 
-experienced a broad range of emotions ranging from mild irritation
-
-to outright infuriation. Your feelings will vary depending on how
-
-severe the issues have been, the stakes involved, your personality, your
+you can take to improve the situation, starting today.

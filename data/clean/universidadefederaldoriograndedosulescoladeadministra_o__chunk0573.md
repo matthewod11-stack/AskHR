@@ -1,5 +1,9 @@
-## testando correlações da métrica de eNPS e de construtos como engajamento e
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 2394f7fd11d2b35a7c56495275ced05953668b8a
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# de maneira geral.
 
-satisfação com o trabalho consideraram-no suficientemente bom a fim de se obter
-
-uma avaliação geral destes fatores por parte dos funcionários (LEGERSTEE, 2013;
+Ainda que a literatura sobre o tema seja escassa, os autores que trabalharam

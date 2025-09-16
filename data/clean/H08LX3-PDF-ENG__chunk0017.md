@@ -1,9 +1,37 @@
-## fearlessly throughout its virtual oﬃce space and engage with coworkers
+---
+source_path: H08LX3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be2524697e0e5ab8d6ee3a99adb90768430c5b2d
+title: H08LX3-PDF-ENG
+---
+## modes of collaboration and work-related activities.
 
-in ways he couldn’t in the physical world.
+The beneﬁt here is the improvement in well-being and eﬃciency that
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+comes from a more engaging and less monotonous work environment. The metaverse oﬀers countless opportunities to simulate environments
 
-4
+that can boost creativity and well-being simultaneously. Imagine,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+for instance, brainstorming sessions held on virtual beaches, team
+
+meetings atop simulated mountain peaks, or individual focus time in
+
+serene, virtual gardens. Virtual oﬃces like SoWork and Virbela are
+
+expanding these possibilities.
+
+The metaverse also allows for a form of social interaction that’s been
+
+severely limited in the age of remote work. The metaverse could
+
+replicate, and even enhance, the social aspects of an oﬃce, like a
+
+virtual Ping-Pong table or a digital kitchen where you can sit with
+
+colleagues. Team members with disabilities, who might ﬁnd traditional
+
+oﬃce settings limiting, can engage more freely in a virtual environment
+
+tailored to their needs. Meta, for example, showcased its Horizon
+
+Workrooms through the lens of a man with no legs who could roam

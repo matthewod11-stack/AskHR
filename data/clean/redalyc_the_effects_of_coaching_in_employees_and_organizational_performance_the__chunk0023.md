@@ -1,31 +1,29 @@
-# organisational effectiveness.
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: b76ecbefe2104b159cfb0a67838afc3d6e331243
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Intangible Capital – http://dx.doi.org/10.3926/ic.586
 
-Therefore, the main contribution of this work is that it improves our knowledge of coaching and
+Consequently, the aim of this article is to provide theoretical support to justify the use of
 
-its primary features. Moreover, we analyse its effects on employees and firms and identify the
+employee coaching as part of human resource development and the effects of such coaching
 
-factors that can influence the effectiveness of this type of coaching. With regard to practical
+on workers and organisations. We also seek to determine whether our theoretical approaches
 
-implications, this research offers valuable guidance to help managers assess the desirability of
+are verified by testing the empirical model in a Spanish case. Achieving this objective may help
 
-investing in coaching and orient the planning of their firms’ human resources strategy.
+bring empirical knowledge of coaching to a level that is more consistent with its popularity.
 
-To achieve our objectives, we have structured this paper as follows. After this introductory
+Thus, our work will help bridge the current gap in the theoretical framework and justify the use
 
-section, the remainder of this work is divided into five sections. Section 2 presents the
+of coaching as part of human resource development. The current work emphasises the
 
-conceptual framework within which we base the research and formulate our research
+importance of this line of research; the scarcity of previous research, as Carey, Phillippon and
 
-hypotheses. In Section 3, we present the methodology that we follow as well as the sample.
+Cummings (2011) argue; and the need to further our knowledge of the effects of coaching.
 
-Section 4 presents the results of the research, and Section 5 provides a discussion of the
+Furthermore, as Feldman and Lankau (2005) highlight, few theoretical studies examine how
 
-results, limitations and future areas of research. The work ends with the main conclusions.
-
-- 2. Theoretical framework and hypotheses
-
-2.1. Definition of coaching
-
-The literature offers many definitions of coaching. According to Kampa-Kolesch and Anderson
-
-(2001), coaching is a form of systematic feedback intervention that is designed to enhance
+and why coaching should work and under which conditions it translates into greater

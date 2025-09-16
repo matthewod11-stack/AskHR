@@ -1,17 +1,9 @@
-# OJ
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: a84af3d7e60db8516429da75c65163d74853deec
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# Contemporary source
 
-1
-
-2
-
-My organization rewards for better contributions My organization has fair and impartial procedures and practices
-
-3
-
-My work schedule is fair
-
-4
-
-My organization maintains fairness at the time of promotion
-
-5
+Authors’ own

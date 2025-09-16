@@ -1,19 +1,41 @@
-# for important career conversations.
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3c5f280467e894501669b41d35152a5a14859a2
+title: H08EDT-PDF-ENG
+---
+# about compensation and promotions.
 
-Inspiring employees to become agents of change
+Activating managers to build an inclusive culture
 
-I’ve often observed a gap between the “why” of DEI and how employees
+Success in advancing gender equity requires leadership commitment,
 
-can actually connect with it. The report recommends rallying
+consistency, and accountability, driven by personal buy-in on why DEI
 
-employees by making explicit the link between an organization’s
+is important. “When we work with leaders, we start with building a
 
-values and advancing women, for example: “If your company values
+shared understanding that inclusion is a key leadership skill and they
 
-innovation, share research ﬁndings that diverse teams are often more
+should hold themselves accountable for leading with inclusion,” as
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+leadership and workplace culture expert La’Kita Williams recommends.
 
-5
+“Leaders should also look out for systemic barriers that are in place for
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+women of color and actively advocate for change in the system.”
+
+The good news is that the report cites a signiﬁcant rise in managers
+
+prioritizing inclusion over the past decade. Unfortunately, many
+
+managers also reported a critical lack of support and feeling spread too
+
+thin, with 42% reporting often or always feeling burned out compared
+
+to 33% of non-managers. Organizations must ﬁnd ways to reduce
+
+managers’ individual workloads so they have more time to support their
+
+teams. They can also provide managers with tools such as standardized
+
+questions to gauge their team members’ well-being and sample scripts

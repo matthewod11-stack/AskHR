@@ -1,15 +1,17 @@
-# entrepreneurs through its state-of-the-art Technopark Technology Business Incubator (T-TBI)
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 5587c5db648d3d562078f0c3ac3778edf052923d
+title: issn_print_0976_013x
+---
+# ABSTRACT
 
-which provides economical plug and play facili(cid:415)es to start-ups in IT/ITeS sectors and support
+Technopark in Thiruvananthapuram is one of the largest technological parks in the world. It
 
-them throughout the gesta(cid:415)on period. Characteris(cid:415)c features of Technopark contribute
+was established by the Government of Kerala in 1990 as an autonomous organiza(cid:415)on to meet
 
-signiﬁcantly toward developing an enabling ecosystem for the entrepreneurs within the
+the infrastructure needs of emerging electronics and Informa(cid:415)on Technology industry. The
 
-campus. This ar(cid:415)cle provides an insigh(cid:414)ul account of how the Technopark is changing the
+Technopark has now expanded to accommodate more than 200 companies that employ a
 
-entrepreneurial landscape in Kerala and crea(cid:415)ng opportuni(cid:415)es for the young to innovate,
-
-grow and become successful in all their ventures. True, Technopark is a success story of a
-
-- Associate Professor & Head, Mul(cid:415)disciplinary Studies, Apeejay School of Management, New
+large por(cid:415)on of the IT workforce in Kerala. Besides, Technopark also helps the budding

@@ -1,5 +1,21 @@
-# Interpersonal Communication Skills
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 006ba4420716d2d332be67e9f64b539163e714e4
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Improving Employee Communication Skills
 
-One of the most common methods used to increase interpersonal communica- tion skills is the training workshop conducted by an outside consultant. Although a large number of consultants lead communication workshops, such workshops often bring only short-term improvement in skills.
+Organizations are always looking for employees with excellent communication skills. The difficulty in finding such employees was recently exemplified by the experience of a national insurance company. The company was having difficulty with a position that required employees to respond to customer complaints. The company had hired expensive consultants to teach its employees how to write effective letters, but performance had not improved. The company then con- structed sample letters so that an employee could read a customer complaint, find a standard response form, and add a few personal lines. This also did not work. Finally, the company tried using a standardized writing test before hiring its employees. Although the test showed significant prediction for the performance
 
-An exception to this general failure to produce long-term improvements was reported by Freston and Lease () from their work with Questar Corporation in Salt Lake City. As the personnel manager at Questar, Freston believed that the organization’s managers were not properly trained in communication. Questar thus hired Lease as a communications consultant, and together Freston and Lease designed a new training program that included seminars on awareness, nonverbal communication, assertiveness, and listening. In addition to the seminars, Freston and Lease also used role play and group discussion. The revised training program brought more positive attitudes for supervisors and increased performance qual- ity in tasks such as performance appraisal and training.
+organizational communication
+
+429
+
+Would this be an example of good communication?
+
+430
+
+chapter 
+
+of African American employees, it did not predict the performance of White employees. This case of single-group validity made the test risky to use. Thus, the question remains: How can an organization increase the communication skills of its employees?

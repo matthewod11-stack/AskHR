@@ -1,3 +1,11 @@
-## V. Organisation and Presentation of Material
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 758c34373eaf51f24ff1a9aa599316a6abd9749a
+title: document_resume
+---
+# IV. Classroom Presence
 
-I. Begin class with a review of previous work? 2. 3. Use current, pertinent, and/or personal examples to illustrate point" 4. 5. Admit not knowing answer to a question" 6. Use outside references to supplement course'' 7. Distribute handouts/notes to supplement course? 8. Use visual aids to supplement lecture? Provide for field trips? 9. 10. Have guest lecturers? 11. Have full command of the subject matter? 12. Give lectures different from (supplement) text? 13. Cover all course requirements? 14. Avoid trivial detail? 15. Answer questions; work problems if requested? 16. 17. Give erroneous information about course material's 18. Muse to explain material? 19. Make students learn "on-their-own"? 20. 21.
+- 1. Appear well groomed? 2. Speak clearly and distinctly a. Mumbh? b. Talk too softly? c. Talk in a monotone?
+
+- 3. Use dramatic gestures (phrases) to emphasue important points" 4. Use humor in lecture to illustrate points? Read lectures from notes or book? 5. 6. Appear nervous, ill -at -ease during lecture" Talk or present material too rapidly? 7. 8. Give rambling, disorganised lecture? Look at students dunng lecture? 9. 10. Use language students understand? 11. Use profane language excessively?

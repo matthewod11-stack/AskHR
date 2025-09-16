@@ -1,13 +1,7 @@
-## mais positivo, não requerendo instrução específica aos respondentes, não tomando
-
-muito tempo e sendo facilmente compreensível pela gestão. No estudo de caso
-
-realizado, a pesquisa de eNPS reflete o engajamento dos funcionários e traz à tona
-
-o padrão de sentimento do grupo de trabalhadores; o acompanhamento próximo dos
-
-resultados permite não apenas mensurar o engajamento e a satisfação dos
-
-funcionários como captar novas demandas e problemas que, sem este instrumento,
-
-talvez levassem muito mais tempo para se tornarem conhecidos dos tomadores de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 9e357f9084c044af923f7334f80759233c4b29f1
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## SEDLAK, 2020). E ainda adicionaram que a simplicidade é justamente seu fator

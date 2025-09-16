@@ -1,9 +1,11 @@
-## experience]. Philosophical Review, 12, 62–67.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 97d07acb58211e9da8dba36adc711927f931a035
+title: untitled
+---
+## the History of the Behavioral Sciences, 36, 489–498.
 
-Cohen, S. (1983). The mental hygiene movement, the development of personality and the school: The medicalization of American education. History of Education Quarterly, 23, 123–149.
+Cocks, G., & Crosby, T. L. (1987). Psycho/history: Readings in the method of psychology, psychoanalysis, and history. New Haven, CT: Yale University Press.
 
-Cohler, B. J. (1993). Describing lives: Gordon Allport and the “science” of personality. In K. H. Craik, R. Hogan, & R. N. Wolfe (Eds.), Fifty years of personality psychology (pp. 131– 146). New York: Plenum Press.
-
-Corbin, J. (1908, November). How one girl lived four lives: The astounding case of Miss Beauchamp. Ladies’Home Journal, 25, 11–12, 68–69.
-
-Craik, K. H. (1986). Personality research methods: An historical
+Coe, G. A. (1903). [Review of the book The varieties of religious

@@ -1,17 +1,15 @@
-# CAS E ST U DY 5-4
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 84d944fa77dc67393d9155c83f4e83b7f0471b10
+title: performance_management_3rd_edition_by_aguinis
+---
+# Definition
 
-Creating BARS-Based Graphic Rating Scales for Evaluating Business Student Performance in Team Projects
+Description of specific behavioral indicators that can be observed when someone demonstrates a competency effectively
 
-In many universities, students are required to conduct team projects. A description of these “job” duties is the following:
+Description of specific behaviors that are likely to occur when someone does not demonstrate a competency effectively (what a competency is not)
 
-Work with team members to deliver project outcomes on time and according to specifica- tions. Complete all individual assignments to the highest quality, completing necessary back- ground research, making any mathematical analysis, and preparing final documents. Foster a good working environment.
+List of suggestions for developing the competency in question
 
-Please do the following:
-
-- 1. Generate a list of competencies for the position described. Identify a list of critical behavioral indicators for each competency.
-
-- 1. Generate a list of competencies for the position described. Identify a list of critical behavioral indicators for each competency.
-
-- 3. Generate critical incidents (high, average, and poor performance) for each behavioral indicator.
-
-- 4. Create graphic rating scales using BARS to measure each competency. (cid:2)
+Source:Adapted from D. GROTE, “Public sector organizations: Today’s innovative leaders in performance management,” Public Personnel Management, 29(Spring 2000), 1–20.

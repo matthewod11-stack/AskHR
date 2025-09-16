@@ -1,17 +1,23 @@
-# empathy and clarity.
+---
+source_path: H08VM4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed6cfa9f5c2b4c3eda14d41a9c56c0b9d6a8b7d5
+title: H08VM4-PDF-ENG
+---
+# composure.
 
-Adjust the setup. Use the “Five W’s”—who, what, where, when, and
+Visualize the meeting in advance. Picture the setting, the people
 
-why—to ﬁne-tune the logistics. Who needs to be there? Should you
+involved, and how you want to feel walking out. Mentally rehearse how
 
-bring in resources to support the conversation? What needs to be shared
+you’ll open the discussion, handle tension, and steer toward resolution.
 
-and what doesn’t? Where should the meeting take place, and what is the
+Anticipate challenges and plan calm, conﬁdent responses.
 
-optimal time? Finally, why is this discussion important?
+Reframe your mindset. Focus on the positives. Before the meeting,
 
-Build in buﬀer time. Give yourself 10 minutes before the meeting to
+reﬂect on what you appreciate about the individuals involved or what
 
-get focused and 10 minutes after to reset. A short walk or quiet moment
+good outcomes could come from the conversation. This small shift
 
-can help you stay composed and avoid carrying stress into your next
+builds emotional resilience and helps you approach the interaction with

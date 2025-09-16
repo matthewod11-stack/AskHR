@@ -1,13 +1,21 @@
-# success?
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a71b4107f74661100ebadb84ecb0dd755937a3be
+title: R2502C-PDF-ENG
+---
+# parts.
 
-In this article we will explain why maximizing company value for the
+The senior leaders resolved to increase the company’s value by breaking
 
-beneﬁt of all stakeholders is the right objective. We will identify seven
+down organizational silos and increasing teamwork to get everyone
 
-strategic factors and describe how to align them to unleash a company’s
+working toward mutually beneﬁcial goals. As we write this article,
 
-collective strengths. Drawing on the inspiring example of Self Esteem
+they are endeavoring to do that. In the process, they are addressing
 
-Brands, a ﬁtness, health, and wellness company, we will show how to
+fundamental questions that were swept under the rug for years: What
 
-build an extraordinary organization that creates extraordinary value.
+does winning mean to us? Are we using the right scorecard to measure
+
+and manage progress? Which strategic factors are constraining our

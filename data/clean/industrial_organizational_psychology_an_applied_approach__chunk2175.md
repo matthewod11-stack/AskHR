@@ -1,13 +1,7 @@
-# i
-
-n o i t c a f s i t a s
-
-s s e n e t a L
-
-n o i t a v i t o m
-
-l a n o i t a p u c c O
-
-l a n o i t a z i n a g r O
-
-n o i t a r u D
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 132a329ca1379226a1a49ac2b3f16d388d2124af
+title: industrial_organizational_psychology_an_applied_approach
+---
+# t n e m e v l o v n

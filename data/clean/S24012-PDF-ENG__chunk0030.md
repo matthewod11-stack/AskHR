@@ -1,37 +1,21 @@
-# run-of-the-mill intelligence chatter.
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2017cb1fcb19082c2f41b65050a784a834f964d6
+title: S24012-PDF-ENG
+---
+## HBR / Spotlight Article / Leaders Must React
 
-Whisper warnings can take various forms. They might be emerging
+the potential to morph into major concerns. For leaders, this is the
 
-competitors that could disrupt market dynamics, murmurs of employee
+most dangerous kind of event. It can be easy to dismiss or mistake a
 
-dissatisfaction, nascent regulations with the potential to widen in scope, or seemingly insigniﬁcant operational ineﬃciencies that could
+whisper warning as normal noise—and fail to recognize the likelihood
 
-balloon if unchecked. Quite often, major product or safety failures start
+that an issue will escalate into a substantial threat. Perhaps the most
 
-as whisper warnings. In the mid-1990s plaintiﬀs’ attorneys began ﬁling
+famous example of this occurred in the months before 9/11, when U.S.
 
-lawsuits alleging that the tread on Firestone tires on Ford Explorer
+intelligence agencies received various tips about suspected terrorists
 
-SUVs tended to separate at high speeds, causing accidents. Several
-
-dealers, insurance agents, and other players received isolated reports of
-
-problems during those years. But the larger problem remained hidden
-
-until 2000, when media reports made its scope clear. Over time the
-
-defective tires were implicated in 203 deaths (most of which occurred
-
-after the earliest whisper warnings) and caused signiﬁcant reputational
-
-damage to Ford and Firestone. Leaders who were more attuned to
-
-whisper warnings might have reacted earlier.
-
-Leaders need to pay careful attention to small signs of discontent that have the potential to fester and grow.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+enrolling in ﬂight schools and an imminent attack involving airplanes. Still, oﬃcials failed to connect the dots or recognize them as more than

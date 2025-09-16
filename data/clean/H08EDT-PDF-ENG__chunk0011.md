@@ -1,29 +1,19 @@
-## a common experience for women, with no change since 2018: One in
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a13fe86bff1b4f4ae1338de9a60b96cbcb156ea2
+title: H08EDT-PDF-ENG
+---
+# HBR / Digital Article / How Work Has Changed for Women in Corporate America Over t…
 
-ﬁve women today say they’re onlys for their gender and two in ﬁve are
+today make up 29% of C-suite positions, up from 17% in 2015. That
 
-onlys for their race. Onlys report encountering more microaggressions
+represents a meaningful gain, but at the current rate of progress, it will
 
-at work, which profoundly detract from their workplace experiences,
+take women of color 48 years to reach parity in corporate America,
 
-and are also more likely to feel they’re under additional scrutiny.
+compared with 22 years for white women.
 
-The report also ﬁnds that organizational and leader commitments to
+The report also ﬁnds that being an “only” — that is, one of the only
 
-gender and racial diversity are declining. In 2019, 87% of companies
-
-cited gender diversity as a high priority, and 77% cited racial diversity
-
-as high priority. In 2024, those numbers dropped to 78% and 69%,
-
-respectively, which the report’s authors rightly described as “deeply
-
-concerning.” That tracks with my recent experiences in my work as an
-
-inclusion strategist: I’ve observed a decline in DEI commitments at a
-
-number of organizations. Moreover, I’ve seen leaders give in to political
-
-pressure to step back on commitments to racial equity, particularly
-
-after last year’s Supreme Court decision to limit aﬃrmative action in
+people of their race or gender in the room at work — continues to be

@@ -1,11 +1,11 @@
-# wherever possible.”
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7f87d2dc93aeb9902d9cd12e64d4069886955f7
+title: H08F9M-PDF-ENG
+---
+## and standards to its strategy and structure, the empathy initiative
 
-The results were remarkable. Between 2007 and 2019 patient
+transformed the clinic into a place where people “imagine what another
 
-satisfaction with nurses improved ﬁve times more than the national
-
-average, while satisfaction with doctors increased 11 times the national
-
-average. Over this same period employee satisfaction increased from a
-
-top box score of 55% to 92%. At the same time, the clinic continued
+person is going through, work to alleviate suﬀering, and create joy

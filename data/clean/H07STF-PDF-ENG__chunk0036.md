@@ -1,37 +1,51 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dbd5ee23ddf05b88c2938d9dab3f858b66728192
+title: H07STF-PDF-ENG
+---
+# comfortable with that.
 
-all the complexity of leading today, because ultimately what we’ve seen
+HERMINIA IBARRA:
 
-in a really deep way is that the problems organizations face, they’re big
+The other thing about the complexity is that in the workplace we’re also
 
-problems. They’re adaptive problems. That means there isn’t a simple
+assessing each other for potential. Who’s going to do well, who’s going
 
-solution to them, and you need to harness everyone’s energy and brains
+to advance? We talk a lot about authenticity in the context of being able
 
-and hearts in order to solve them.
+to be vulnerable and to express vulnerability. But vulnerability doesn’t
 
-You really have to be able to get people on board, get them to tell you
+get coded the same way when it’s expressed by a man versus a woman,
 
-what they think, get them to work outside their comfort zones, and all
+or assertiveness doesn’t get coded the same way when it’s expressed by a
 
-that requires a set of people skills that most managers today who are
+Black person versus a white person. All of these complexities come into
 
-successful and who get to the top haven’t necessarily developed because
+play, which we really need to take into account because we each want to
 
-they have been rewarded for delivering results in any which way.
+put our best foot forward and be able to accomplish our goals within the
 
-Delivering results is still important. What ends up happening is as
+organizations where we work.
 
-people get more senior and they start to look promising, they get a
+ADI IGNATIUS:
 
-lot of nudges, which is, it’s really time now to think about how to
+What is the ideal proﬁle of a leader in 2023? What are the skills or
 
-cultivate this other side, which has more to do with how you connect
+experience you think matter most?
 
-with people, how you bring out the best in them, how you create a
+HERMINIA IBARRA:
 
-context in which there is psychological safety. All of that has become
+You guys at HBR have been putting out the headlines on this, and
 
-much more important, not because it’s nice to have, but because the
+there’s a very common drumbeat, and it’s been on for a while, which is
 
-requirements for learning in our organizations have become so much
+about the importance of soft skills and people skills. We’ve been talking
+
+about that for a long time. The pandemic accelerated that, and really
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

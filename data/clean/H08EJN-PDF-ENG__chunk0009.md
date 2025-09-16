@@ -1,17 +1,13 @@
-# plan with his boss.
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32cc124943a93ed4072d789ed1ef72de339025bf
+title: H08EJN-PDF-ENG
+---
+## HBR / Digital Article / How to Work for a Boss Who Always Changes Their Mind
 
-“Huh,” his boss huﬀed, after taking a passive glance at a very thorough
+were deﬁned, and the aggressive publication timeline his boss wanted
 
-deck. “I wonder if we should be going in a diﬀerent direction. Did
+was laid out. He was excited to dive in.
 
-you see what our competitors put out yesterday? Maybe we should try
-
-inﬂuencer marketing instead of making our own stuﬀ. Can you look into
-
-it?”
-
-“Sure,” Rudi replied, defeated.
-
-Internally, Rudi was shrieking. At the start of the week, his boss was
-
-gung-ho about the team creating their own videos, and now, because of
+That Friday, he walked into his one-on-one eager to share the project

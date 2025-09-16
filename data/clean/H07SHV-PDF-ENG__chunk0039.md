@@ -1,17 +1,49 @@
-# apply to the lives of others.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74f2d9d47548cfa3dbb49810e8e8012c81a5be3b
+title: H07SHV-PDF-ENG
+---
+# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-ADI IGNATIUS:
+Other people have diﬀerent issues. Everybody wants to be high positive
 
-To what extent do we need to be happy at work? I mean, one approach
+and low negative. That’s called the cheerleader. It turns out cheerleaders
 
-to work could be I do it, I am hopefully making decent money to be able
+have problems, too. If two cheerleaders meet each other and marry, for
 
-to sustain myself, and I’m focusing on my personal development, on my
+example, they won’t be able to bear any threat or listen to any bad news
 
-happiness outside of work. Obviously in an ideal world, we’re happy and
+or think that anything bad might happen in the future. They’ll spend all
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+the money and go bankrupt. Cheerleaders, they tend to be pretty rocky
 
-12
+CEOs because they will not listen to bad news, and they tend to get
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+wiped out by threats.
+
+High negative, low positive, these are poets. They tend to be extremely
+
+creative, but they suﬀer a lot from sadness and these negative emotions.
+
+They have to manage that.
+
+And last, low, low, these people are not horribly unhappy or low quality
+
+of life. They have low intensity aﬀect. These are judges. These are
+
+people who are sober. They make great surgeons, they make great
+
+litigators and judges. They make great parents of teenagers, high stress
+
+professions, etc. But they tend to look a little unenthusiastic.
+
+I give these tests to my students so they can know who to marry, how
+
+to manage themselves, how to build a management team around them
+
+that complements them. It’s really, really instructive, and this is one
+
+of the ways that I measure my own happiness and the management
+
+techniques that I need, using the neuroscience for my life, and that I can

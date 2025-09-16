@@ -1,47 +1,23 @@
-# Reinforce good habits.
+---
+source_path: H08VV2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0f158ef0b7c7c1de2b14d7ebc7f7a33446b4d7c
+title: H08VV2-PDF-ENG
+---
+## HBR / Digital Article / Protecting Your Team in a Toxic Organizational Culture
 
-Once your team has agreed on how you’ll work together, you need
+you’re seeing the opportunity to deviate from a toxic culture, others are
 
-to reinforce it in the day to day. “When people feel threatened
+too,” she says.
 
-about their future, your job is to dispel that anxiety and restore the
+The goal is to give your team members more say so they feel more in
 
-conﬁdence they need to perform,” says Chatman. She suggests “creating
+control. Kehimkar recommends asking your team: What do we want
 
-socialization opportunities and curating success stories that model
+our reputation to be? What should we be known for? What makes us
 
-the new behaviors you want to see.” If you want more collaboration,
+diﬀerent? “Shape your team’s culture around that,” she says. “You’re
 
-for example, share examples of team members that solved problems
+not trying to prove you’re better than everyone else, but to create an
 
-together and explain why it worked.
-
-Celebrate teamwork, not just individual achievements. “People tend to
-
-resist change not because they don’t want it, but because they don’t
-
-understand what you’re really asking of them,” she adds. “The more
-
-vividly you can create clarity, the more likely it is people will take a risk
-
-and try new behaviors.”
-
-Make sure you’re not part of the problem.
-
-Your team is watching to see if you genuinely want to do things
-
-diﬀerently or if you’re going to fall into the same patterns. “How you
-
-behave as a leader seems obvious, but it’s not,” says Chatman. “Leaders
-
-have to be extremely tuned in and not just say they want certain
-
-changes but also model them and call out that they’re modeling them.”
-
-For example, if you say you want people’s voices to be heard but then
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+intentional culture that stands apart.”

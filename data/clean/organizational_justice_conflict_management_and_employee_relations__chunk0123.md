@@ -1,9 +1,11 @@
-## attitudes, Psychology, Vol. 88 No. 1, pp. 160-169.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: 2541b168714230b438a1f5f701914c422d7706f8
+title: organizational_justice_conflict_management_and_employee_relations
+---
+## Academy of Management Perspectives, Vol. 21 No. 4, pp. 34-48.
 
-Cropanzano, R., Byrne, Z.S., Bobocel, D.R. and Rupp, D.E. (2001), “Moral virtues, fairness heuristics, social entities, and other denizens of organizational justice”, Journal of Vocational Behavior, Vol. 58 No. 2, pp. 164-209.
+Cropanzano, R., Prehar, C.A. and Chen, P.Y. (2002), “Using social exchange theory to distinguish procedural from interactional justice”, Group & Organization Management, Vol. 27 No. 3, pp. 324-351.
 
-De Dreu, C.K., Evers, A., Beersma, B., Kluwer, E.S. and Nauta, A. (2001), “A theory-based measure of conflict management strategies in the workplace”, Journal of Organizational Behavior, Vol. 22 No. 6, pp. 645-668.
-
-De Dreu, C.K.W. and Gelfand, M.J. (2008), “The psychology of conflict and conflict management in organizations”, in De Dreu, C.K.W. and Gelfand, M.J. (Eds), Conflict in the Workplace: Sources, Functions, and Dynamics Across Multiple Levels of Analysis, Lawrence Erlbaum Associates, New York, NY, pp. 3-54.
-
-Deutsch, M., Coleman, P.T. and Marcus, E. (2014), The Handbook of Conflict Resolution: Theory and
+Cropanzano, R., Rupp, D.E. and Byrne, Z.E. (2003), “The relationship of emotional exhaustion to work job performance, and organizational citizenship behaviors”, Journal of Applied

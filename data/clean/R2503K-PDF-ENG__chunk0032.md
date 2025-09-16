@@ -1,9 +1,15 @@
-## challenges with colleagues from diﬀerent backgrounds. Researchers
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a68c15ab35151e4c43bb7b3bd62d3c5be15c5640
+title: R2503K-PDF-ENG
+---
+## HBR / Magazine Article / Leading Global Teams Effectively
 
-from the University of Missouri found that some diversity initiatives
+problems and viewing products and projects more critically. But
 
-can also inadvertently lead to disengagement and the exclusion of
+overindexing on diﬀerences can be damaging. One Deakin University
 
-underrepresented individuals, hindering the very inclusion they were
+study of 265 Australian workers found that diversity can make us
 
-meant to create.
+anxious, leading to reduced knowledge-sharing and communication

@@ -1,11 +1,23 @@
-# heads of state.
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf1a5b5885a72b02d8d6e2178a71acf4fad7594a
+title: H0561N-PDF-ENG
+---
+# Gender Equality Gaps by Dimension
 
-So while women are increasingly educated and healthy, they are rarely
+The gaps between men and women across all of these measures are
 
-included in decision making that aﬀects them.
+slowly getting smaller. In 2018 the WEF report showed that 68% of the
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+overall gap is closed, a slight rise from about 65% in 2006. Much of
 
-2
+that has to do with educational attainment and health, where gender
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+diﬀerences have almost vanished. But two key areas of power and
+
+inﬂuence still haven’t caught up: political empowerment and economic
+
+participation and opportunity. Women hold a mere 34% of managerial
+
+positions worldwide, and fewer than 10% of countries have women as

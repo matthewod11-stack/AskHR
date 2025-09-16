@@ -1,13 +1,11 @@
-## julgam a métrica volátil uma vez que, principalmente em times menores, o
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 5fe42800493a168d01790ab8e98285106755c4a5
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# de frequência decrescente, foram:
 
-eNPS tende a variar muito quando da mudança de apenas uma resposta
+68
 
-promotora ou detratora;
-
-- 2. consideram vaga a maneira como é reportado o resultado alcançado pela
-
-empresa a cada rodada de coleta, entendem que poderiam receber maiores
-
-informações a respeito.
-
-Ainda assim, os empregados respondentes foram muito mais favoráveis ao
+1.

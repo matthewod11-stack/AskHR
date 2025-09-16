@@ -1,15 +1,35 @@
-# —and better proﬁtability.
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1d8a59b24fe2ba38e64651cf318711c94a86ea2
+title: H08T5A-PDF-ENG
+---
+# Address the tempo, not just the hours.
 
-In order to address the constant pressure to be “on,” Basecamp, a
+To break entrainment, organizations must change how work is done.
 
-software company known for its project management tools, prioritizes
+That means, for instance, rethinking project pacing, reducing artiﬁcial
 
-asynchronous communication and minimal meetings, encouraging
+urgency, and redesigning calendars to allow for focus and reﬂection. It
 
-employees to take their time writing emails rather than being bound
+implies a shift from reactive busyness to proactive planning.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+One example of a systemic intervention is the introduction of a
 
-5
+four-day workweek. If done thoughtfully, this restructure sets a ﬁrm
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+boundary that forces teams to prioritize, streamline, and recalibrate
+
+their tempo—not just compress the same overload into fewer days. Rather than individuals managing their calendars diﬀerently, the entire
+
+organization shifts its operating cadence, prioritizing greater work-life
+
+balance. In 2021, the United Kingdom–based Atom Bank shifted to
+
+a four-day workweek without cutting employee pay. This wasn’t just
+
+about fewer hours; it meant redesigning meetings, project cycles, and
+
+planning norms. After two years, the company reported that the shift
+
+had led to lower absenteeism, improved morale, sustained productivity

@@ -1,17 +1,21 @@
-# Income Divide
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81723dea9944349a499f527984d17d87ab40e8a4
+title: H08PLG-PDF-ENG
+---
+# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
 
-AI’s adoption is projected to increase the productivity of certain workers
+or de-biasing practices can slow down that process, but they need to
 
-while making others’ work redundant—a shift poised to accelerate
+consider the risk of losing market share as customer awareness and
 
-income inequalities. Half of Americans are concerned that AI will
+demand for such products becomes the norm. A study of 350 companies
 
-lead to greater income inequality, and it’s easy to see why: The IMF
+revealed that 36% of them have already suﬀered commercial losses due
 
-projects that almost 40% of jobs worldwide will be aﬀected by the
+to AI bias. Meanwhile, others are diﬀerentiating their products as being
 
-technology. More conservatively, MIT’s Acemoglu expects 5% of all
+less biased, such as SAP, which declared that bias is “bad business.”
 
-tasks will be proﬁtably performed by AI in the next decade. People in
-
-occupations exposed to AI with roles that are highly substitutable will
+[ 2 ]

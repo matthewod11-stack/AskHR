@@ -1,17 +1,23 @@
-## behaviors that enable success, especially in our complex and fast-
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e95f764f85ef7339a9361b834593536b277f9ba0
+title: H07UPN-PDF-ENG
+---
+# each week?
 
-changing world. If you model them, your team will become more
+- Do you acknowledge when you don’t know something or do you
 
-conﬁdent about learning and better equipped to prosper.
+present yourself as someone who is sure to have the right answer?
 
-- 4. Regularly reinforce messages about learning.
+Asking for others’ perspectives supports the notion that anyone can
 
-While leaders can set the stage by describing a desired culture,
+always expand their understanding.
 
-changing mental models and behavior takes time and requires periodic
+- When you take on a challenge, face a struggle, or make a mistake, do
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+you share that with others, voice your reﬂections, and ask for ideas?
 
-5
+You might fear that these behaviors could prompt others to lose
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+conﬁdence in you or your organization. However, it is these exact

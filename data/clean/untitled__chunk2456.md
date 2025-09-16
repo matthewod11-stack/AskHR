@@ -1,3 +1,7 @@
-## Asbell, B. (1995). The pill. New York: Random House.
-
-Barker, R. (1963). Explorations in ecological psychology. American
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 13365c6f8798ff249a883f2a4d5c564e88445870
+title: untitled
+---
+# Books.

@@ -1,11 +1,25 @@
-## In How to Be Bold, Harvard Business School professor Ranjay Gulati
+---
+source_path: R2504Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e97ec7973f2f91e4898bd4cc3008d9d43c87dc4
+title: R2504Q-PDF-ENG
+---
+# many obstacles.
 
-argues that courage is not an innate trait reserved for heroes but
+Whether you’re a parent facing a healthcare challenge, a manager with
 
-a mindset that anyone—introvert or extrovert, young professional or
+a supply chain failure, or a CEO trying to lead through an economic
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+crisis, it takes great fortitude to navigate shifting contexts with scant
 
-2
+data and no handbook. Three new story-driven, research-backed books
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+could have helped me do so more easily, and they can help you now. The
+
+authors assert that courage is a skill you can develop and strengthen in
+
+yourself and on your team, and they provide insights and inspiration on
+
+how to be brave—in both everyday and extraordinary situations that call
+
+for you to be and do more than you think possible.

@@ -1,21 +1,29 @@
-# with more managerial responsibilities.
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd6914f764d2d6c7a0d53555b3f022555eea379e
+title: H087FX-PDF-ENG
+---
+## HBR / The Big Idea / Long Covid at Work: A Manager’s Guide
 
-Dara’s story, for all its challenges, is a hopeful one. However, many other
+and unpaid leave to rest and try to recover. Eventually she improved
 
-people’s experiences of trying to work with long Covid are not.
+enough to return to work — but she knew her job needed to change.
 
-Annette was a researcher at a large university prior to the crisis. She
+Collaborating with her managers and the HR team, Dara found a set of
 
-worked long hours and felt well respected in her department, which
+accommodations that ﬁt her needs. They gave her the option to work
 
-she’d been in for seven years. She commuted nine miles a day on a bike
+from home whenever she wanted — up to 100% of the time and at a
 
-and was a mountain climber outside of work.
+reduced schedule. For days when she wanted to go in to the oﬃce, they
 
-Then at age 30, during the height of the pandemic, Annette was left
+secured a mobility scooter to help her get around the building. She also
 
-with debilitating symptoms, possibly due to asymptomatic Covid. She
+received additional unpaid leave to manage symptom ﬂares. “I wouldn’t
 
-struggled with basic mobility and overwhelming exhaustion, and was
+still have a job without [that] support,” Dara says.
 
-eventually diagnosed with myalgic encephalomyelitis/chronic fatigue
+As her health has improved, she’s been working with her managers and
+
+HR to resume her career growth. She was recently promoted to a role

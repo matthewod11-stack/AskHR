@@ -1,13 +1,15 @@
-## Religion and Public Life, and the number of people in America who
+---
+source_path: H06N4L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70d4353bd748f7c0b285b97dfe0962f5c235b088
+title: H06N4L-PDF-ENG
+---
+# employees?”
 
-identify as Jewish, Muslim, Buddhist, and Hindu is increasing, as is
+It’s not surprising that this question is coming up more and more.
 
-the number of people who identify as having no religious aﬃliation.
+Religious diversity in corporate America is a fact. Although nearly two-
 
-For decades, many companies’ holiday calendars have been oriented
+thirds of Americans identify themselves as Christian, that number is
 
-around the major Christian holidays. As people who practice other
-
-religions become a large portion of the talent base, these shifts require that HR and internal DEI eﬀorts update the way they handle policies for religious holidays — so that people can have time oﬀ to celebrate
-
-whichever religious holidays are meaningful to them, their families, and
+down 12% over the last decade, according to Pew Research Center on

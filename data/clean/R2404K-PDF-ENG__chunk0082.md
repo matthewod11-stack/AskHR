@@ -1,21 +1,15 @@
-## strategies in other parts of our portfolio.”
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edf297ee92d4ca5c31654047e4f4403e0aa3839e
+title: R2404K-PDF-ENG
+---
+## at 8%. Philip Hammarskjold, the executive chairman at Hellman &
 
-By using the growth driver model during the 2022 investment
+Friedman, notes, “This innovative growth model is a new tool we can
 
-downturn, Ajax was able to recruit a team of engineers from Nidus
+use to drive equity value in our companies by accelerating much needed
 
-Biomedical that had been struggling to raise venture capital for several
+patient-care innovation on a cost-eﬀective basis. Looking forward, we
 
-transformative projects. The Nidus team had been pursuing innovations
-
-to address signiﬁcant unmet needs in the acute and chronic heart-
-
-failure spaces, which required large, lengthy, and costly clinical trials.
-
-The team worked with Cordis-X on a series of more manageable projects
-
-that were innovative but more iterative in nature. This approach
-
-brought the team new capital to subsidize its pursuit of those higher
-
-risk, more transformative innovations—thereby satisfying both Ajax’s
+are excited to deploy this model alongside more-traditional growth

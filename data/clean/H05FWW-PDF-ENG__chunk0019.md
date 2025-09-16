@@ -1,15 +1,9 @@
-# satisfaction score, and/or churn rate
+---
+source_path: H05FWW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 96d6842b691aada70a86e11cb056e648be293dea
+title: H05FWW-PDF-ENG
+---
+# goals, such as:
 
-- Employee engagement, attitudes, satisfaction, or turnover rates
-
-- Number of passengers or passenger miles ﬂown
-
-- Brand strength relative to industry, over time
-
-- Returns relative to competitors, over time
-
-- Proﬁtability relative to competitors, over time
-
-These measures are enduring and not linked to the particulars of the
-
-strategy chosen for achieving them. In other words, they don’t put a
+- Customer measures, such as Net Promoter Score (loyalty), customer

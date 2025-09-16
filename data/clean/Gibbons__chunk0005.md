@@ -1,17 +1,26 @@
-### **Stage 4: Creating feedback loops**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: cb174ff80775ac4b3966923d4354ccc1c0eb1363
+title: Gibbons
+---
+### **Stage 3: Establishing evaluation frameworks**
 
-Static human-AI teams quickly become obsolete as both technology and
-business needs evolve. You need deliberate feedback mechanisms that
-enable continuous improvement of the collaboration.
+Here\'s where most human-AI team implementations fail: they don\'t
+establish clear frameworks for evaluating outputs from both humans and
+AI. Without systematic evaluation, you can\'t identify when the
+collaboration is working versus when it\'s creating risk.
 
-This means tracking not just outcomes but the process of collaboration
-itself. Which types of prompts generate the most useful AI outputs?
-Where does human intervention most improve AI recommendations? When does
-AI assistance actually diminish human performance by creating
-overreliance?
+This evaluation must be multidirectional. Humans evaluate AI outputs for
+accuracy, relevance, and potential bias. But AI should also analyze
+patterns in human decisions to identify potential blind spots or
+inconsistencies. And crucially, you need to evaluate the collaboration
+itself, not just individual components.
 
-A legal firm discovered through systematic tracking that junior
-associates using AI for research became better at identifying relevant
-precedents but worse at constructing novel arguments. They adjusted
-their workflow to use AI for discovery but required human-only sessions
-for strategy development.
+A financial advisory firm implemented this multidirectional evaluation
+by having AI analyze patterns in advisor recommendations while advisors
+assessed AI-generated insights. They discovered advisors consistently
+underweighted certain risk factors while the AI missed crucial
+contextual information about client life circumstances. By identifying
+these complementary blind spots, they designed workflows that
+compensated for both.

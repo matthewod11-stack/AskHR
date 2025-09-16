@@ -1,11 +1,11 @@
-# violence. IPMA News, January, 26–27.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 70bae80fa6d541417af40636d555574a14223ccf
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Emrich, C. G., Brower, H. H., Feldman, J. M., & Garland, H.
 
-Erdogan, B., & Enders, J. (2007). Support from the top:
+(2001). Images in words: Presidential rhetoric, charisma, and greatness. Administrative Science Quarterly, 46(3), 527–560.
 
-Supervisors’ perceived organizational support as a moderator of leader-member exchange to satisfaction and performance relationships. Journal of Applied Psychology, 92(2), 321–330.
-
-Erfurt, J. C., Foote, A., & Heirich, M. A. (1992). Th e cost-
-
-eﬀ ectiveness of worksite wellness programs for hypertension control, weight loss, smoking cessation, and exercise. Personnel Psychology, 45(1), 5–28.
-
-Estes, R. (1990). Eﬀ ects of ﬂ exi-time: A meta-analytic review.
+Epstein, D. G. (2003). Safety and security: Preventing workplace

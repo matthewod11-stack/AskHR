@@ -1,59 +1,39 @@
-# product innovation.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: c06528f9b6c7fd2e4dd60da6c734e53932b871c1
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## work settings (Weick and Berlinger, 1989).
 
-Drawing insights from Cappelli’s (2008a; 2008b) contribution, we recognise that
+We argue that there are at least two key implications at this level of analysis.
 
-the talent pool should be focused on managing the risks- the costs associated with
+Firstly, from a demand perspective, organisation should recognise the importance of the
 
-outcomes that are difficult to predict- associated with pivotal positions. The key risks
+external labour market in their talent management systems. Owing to the increasing
 
-include; the potential mismatch between employees and skills, i.e. too few employees to
+career mobility evident in the current labour market it may be possible to recruit high
 
-meet business demands or too many employees resulting in redundancies; equally the
+performing candidates from the external labour market. As Arthur (1994: 295) argues
 
-failure to retain talent resulting in a loss in the investment development initiatives. These
+“organizational effectiveness can be enhanced by career movements across
 
-challenges are illustrated, and indeed exasperated, by the volatile nature of the global
+organizational boundaries” This may be particularly relevant in some specific
 
-economic climate in the modern age. Since Capppelli’s work was published in early
+circumstances. As DeFillippi and Arthur (1994: 315), building on the contribution of
 
-2008, the economic climate has altered significantly and his assertions on the limited
+Spender (1989), note “a person hired with experience in one firm may be pre-
 
-availability of talent in the external labour market seem less relevant in the current global
+socialised…and pre-trained…to perform similar tasks in another firm”. Indeed, over
 
-economic crisis. However history tells us that such economic trends are cyclical and there
+three decades ago, Pfeffer and Leblebici (1973) argued that organisations facing the
 
-is a strong likelihood that the situation will revert in time. Such an illustration provides
+14
 
-further support for the idea of shorter planning horizons with regard to talent
+greatest threat from external sources aggressively recruited executives with experience
 
-management. “Years-long programs for developing talent create a false sense of accuracy
+from the external labour market. Similarly, Roa and Drazin (2002) argue that the
 
-and no longer make sense” (Cappelli, 2008b: 9).
+recruitment of managers from the external labour market is an important means through
 
-Thus without wishing to be overly prescriptive we argue that in developing talent
-
-pools the following factors would facilitate their effective development. Firstly,
-
-organisations should combine internal development and external recruitment in filling
-
-15
-
-talent pools (Cappelli, 2008a). This facilitates the management of quantitative risks
-
-associated with ensuring there is sufficient talent to meet organisational needs and not an
-
-oversupply- which represents a waste in resources. It also facilitates the management of
-
-qualitative risks associated with ensuring that the organisation has the requisite skill set
-
-required at a point in time. Secondly, it is clear that for organisations, it is more effective
-
-to develop talent within the broader context of the organisation, rather than with a
-
-particular succession role in mind. This prevents developing employees to fit narrow,
-
-specialised roles but rather, once developed employees can be developed with broader
-
-competencies which would fit a range of roles (Cappelli, 2008b).
-
-2.3
+which newly established and poorly connected firms can reduce the constraints on

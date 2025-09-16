@@ -1,3 +1,9 @@
-# 4.2. Educational attainment
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: f90319796702ad126803819caa0c982aebf2d6c8
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# Larrabee et al.
 
-Conﬂicting results were found for the effect of the individual factor of educational attainment on job satisfaction and on intent to leave. Six studies used self-reported demographic data to ascertain the educa- tional level of participants (Fang, 2001; Lu et al., 2002; Tzeng, 2002; Yin and Yang, 2002; Larrabee et al., 2003; Rambur et al., 2003). Three studies found positive correlations for educational level and job satisfaction. A
+In contrast to the ﬁndings of the studies presented above, the results of Tzeng’s (2002) work suggested that leadership style exerted no inﬂuence on job satisfaction and intent to leave (n ¼ 648, RR ¼ 82%). The different method of modelling utilised by Tzeng distinguishes this study from the others and may account for the variance in ﬁndings, although it is noteworthy that large p-values (model 2, p ¼ 0:10; model 3, p ¼ 0:35) were obtained for leadership style. This study was undertaken in Taiwan and whilst the potential for cultural inﬂuences to explain the differences is acknowledged, interestingly Yin and Yang (2002) attained opposing results in their meta- analysis of 13 Taiwanese studies. In particular, consis- tently signiﬁcant results were reported for experienced turnover due to supervisor turnover and potential dissatisfaction (ranked 5/18 and 3/16, respectively, po0:05). The speciﬁc areas of supervisor dissatisfaction, while measured, were not presented thus lowering the opportunity for direct application of ﬁndings to practice.

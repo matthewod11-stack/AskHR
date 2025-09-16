@@ -1,7 +1,35 @@
-# in the
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 53e1edc3587a3be0486664807b74b8e296ec6ff0
+title: california_state_university_northridge_1
+---
+# rights.
 
-workplace. Also, stricter requirements were placed on an employer with 15 employees or
+Finally, Goldberg writes on affirmative action, mandatory arbitration mental and
 
-more are required them to adopt a policy by a specific date. Based on these requirements, it
+emotional illness are changing based on current lawsuits. An example given is the white
 
-can be detennin.e the state of Massachusetts does not take the issue of sexual J:1arassment
+schoolteacher who sued a school board for discrimination according to Tittle VII. The
+
+teacher in question was laid off for an equally qualified black teacher. School board argued it
+
+was within it rights to consider race into the equation as to prevent future discrimination. The
+
+school board lost and, while the court was split eight to four on this issue. It appease that the
+
+school attempted to do what they thought was the right thing however, it was at the expense
+
+of a current employee who was terminated. In short, the school board had to discriminate
+
+against a qualified employee to level the playing field by hiring an equally qualified employee
+
+of a different race (Goldberg, 1997, p. 81(3) ).
+
+An article written by Jonathan Rosenfeld titled "Legal charged tighten workplace
+
+regulation" deals with court cases in Massachusetts. It is noted that employment law cases
+
+are up in the state of Massachusetts. Recently, developments in sexual harassment, now
+
+requires an employer with more than six employees to have a policy on harassment

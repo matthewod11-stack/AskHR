@@ -1,7 +1,11 @@
-# HBR Staff Using AI
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbcff8be3dcbf4160dee7e08f3eac390673446b0
+title: H08T5A-PDF-ENG
+---
+# Digital Article / Organizational Culture
 
-Why do so many high-performing professionals keep working at a
+New Research on Why Teams Overwork—and What Leaders Can Do About It If you want sustainable performance, break the link between speed and success—and help your team find a more human pace. by Ioana Lupu and Shanming Liu
 
-punishing pace, even when it damages their health, relationships,
-
-and personal well-being? And why do organizational attempts to
+Published on HBR.org / July 9, 2025; updated July 14, 2025 / Reprint H08T5A

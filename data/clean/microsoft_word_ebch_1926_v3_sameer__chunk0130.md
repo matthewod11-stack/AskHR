@@ -1,5 +1,7 @@
-# INTRODUCTION
-
-To collect data for the study, a structural questionnaire was used. The number of respondents was calculated as a sample size of 300 using stratified random sampling. The research design adopted in the study was descriptive. Statistical Package for the Social Sciences (SPSS) was used to code, input, and analyse the obtained data.To generalise the population, descriptive and inferential statistics were employed. Internal consistency approaches were used with a Cronbach Alpha Coefficient of 0.7 to test the instruments' dependability. The study found that supervisors gave their workers comments on their performance reviews. The study also showed that organisations found it simpler to share favourable feedback on appraisals than to criticise subpar performance.Organisations gave employees enough feedback on their performance, and employees' flexibility and independence served as a motivational tool. Supervisors' comments on productivity helped workers improve their own growth for exceptional performance and gauge their actual performance against predetermined goals.
-
-According to the study, each independent variable had a favourable impact on an employee's productivity. The study found other aspects that influence an employee's performance in addition to the evaluation criteria, feedback, and procedure. The study indicated that organisations found it simpler to offer good assessment feedback than to criticise subpar performance, and that
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 6532d05512cacc14760737b0da14ccc2a819a687
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# Employee Productivity, Kamba County,Kenya, Performance Appraisal, Sewerage Companies, Water.

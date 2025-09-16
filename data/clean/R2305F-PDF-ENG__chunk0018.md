@@ -1,21 +1,21 @@
-# amygdala, doesn’t.
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da5b692fd315bbc2a9e795f3e5b92f2e7b39bcb4
+title: R2305F-PDF-ENG
+---
+## feedback at all, except occasionally from my boss.”)
 
-If you tell me I’ve acted ineffectively, it may trigger an alarm in my
+This prompted me to tease them, asking, “Isn’t it interesting that only those
 
-amygdala: “Danger! I might get kicked out of my tribe!” The stress
+rare people who would provide the feedback participate in my sessions?”
 
-hormones cortisol and adrenaline flood my bloodstream, throwing my
+Apparently, most managers, when faced with this problem in a classroom,
 
-body into “fight or flight” mode. The fight reaction leads me to respond
+say they’ll give the feedback, but in real life they don’t.
 
-defensively: “I’m not the problem. You are!” The flight reaction may result
+The issue is that the scenario triggers a conflict in people’s brains between
 
-in a comment like “Thanks so much for that feedback. That is very helpful,”
+the frontal cortex and the amygdala. The cortex, the most logical part of
 
-after which I try to never speak to you again.
-
-The challenge with feedback, therefore, is to make sure that your delivery
-
-succeeds in helping the cortex override the amygdala.
-
-[ 1 ]
+the brain, loves candid feedback. But the brain’s most primitive part, the

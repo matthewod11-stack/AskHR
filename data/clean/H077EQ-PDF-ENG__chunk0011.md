@@ -1,17 +1,23 @@
-# ﬁrst place.
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b75a0f851bb4cfa8575ec54517b233a3c4432eb9
+title: H077EQ-PDF-ENG
+---
+# Don’t Let Anchors Drag You Down
 
-There are ways out of anchoring. The ﬁrst step is gaining clarity around
+Anchoring is everywhere in the retailing world. It’s a way to make
 
-the data. When we are clearer about the evidence, we are less likely to
+customers feel like they’re getting a good deal. One of my favorites is big
 
-get hoodwinked. When it comes to a big decision, for instance, I often
+box stores that will oﬀer huge “discounts” oﬀ grossly inﬂated “original”
 
-write down all the factors involved. Writing down the information helps
+prices that have little to do with the item’s actual value.
 
-me evaluate its reliability and eliminate anchors that aren’t relevant.
+So, for instance, I’ll see a low-budget couch “originally” priced at $800
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+that has been marked down to $200 to make the couch seem like a great
 
-3
+deal. Companies will often perform such “markdowns,” even though
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+there’s no reason that the couch should have been priced at $800 in the

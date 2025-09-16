@@ -1,11 +1,15 @@
-## behavioral neurobiology. San Francisco: Freeman.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 363ea8b9fe47b2952409d997c7e18ef8d112b4b5
+title: untitled
+---
+# Appleton-Century-Crofts.
 
-Karplus, J. P., & Kreidl, A. (1910). Gehirn und sympathicus. II: Ein sympathicuszentrum im Zwischenhirn. Pﬂüger Archives Geselshaft Physiologie, 135, 401–416.
+James, W. (1884). What is an emotion? Mind, 7, 206–208.
 
-Klüver, H., & Bucy, P. C. (1937). Psychic blindness and other symp- toms following bilateral temporal lobectomy in rhesus monkeys. American Journal of Physiology, 119, 352–353.
+James, W. (1890). Principles of psychology. New York: Holt.
 
-Krasne, F. B. (1969). Excitation and habituation of the crayﬁsh escape reﬂex: The depolarization response in lateral giant ﬁbers of the isolated abdomen. Journal of Experimental Biology, 50, 29–46.
+Jameson, D., & Hurvich, L. M. (1955). Some quantitative aspects of an opponents-colors theory. Vol. 1: Chromatic responses and spectral saturation. Journal of the Optical Society of America, 45, 546–552.
 
-Krech,D.,Rosenzweig,M.R.,&Bennett,E.L.(1960).Effectsofen- vironmental complexity and training on brain chemistry. Journal of Comparative Physiology and Psychology, 53, 509–519.
-
-Lashley, K. S. (1929). Brain mechanisms and intelligence. Chicago:
+Kandel, E. R. (1976). Cellular basis of behavior: An introduction to

@@ -1,25 +1,19 @@
-# forced-choice rating scales, 282–284
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 792adf1031dc887477676c846c26391706b721ac
+title: industrial_organizational_psychology_an_applied_approach
+---
+# interview, 270–272 behavioral observation scales, 285–286 behaviorally anchored rating scales, 281–282
 
-legal issues, 256, 273–276
+contextual performance,
 
-mixed-standard rating scales, 284–285 multi-source feedback,
+246–247
 
-241–245
+cultural limitations,
 
-objective measures,
+240–241
 
-250–252
+employee comparison methods, 247–250 evaluation of methods,
 
-observing performance,
-
-259–261
-
-performance ratings,
-
-252–255
-
-rater errors, 260, 263–268 rater training, 258–259 rating performance,
-
-263–270
-
-reasons for, 239–240 terminating employees,
+255–258

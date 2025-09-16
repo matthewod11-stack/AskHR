@@ -1,27 +1,31 @@
-# HBR / Digital Article / Research: How Companies Can Support Managers They Send A…
+---
+source_path: H08LL6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3e5add39a0b81e573e66c27e391205568b96d33
+title: H08LL6-PDF-ENG
+---
+# global objectives.
 
-projects, such as oﬀshore drilling operations. These tools ensure that
+Unilever’s “One Unilever” strategy demonstrates another eﬀective
 
-lessons learned in one location can be applied elsewhere, reducing risks and improving eﬃciency.
+approach. The company’s expatriates access global sustainability
 
-While a bright, culturally-savvy employee may come to a position
+initiatives and consumer insights, allowing them to implement
 
-with fresh new ideas, other equally competent workers may struggle
+campaigns like reducing plastic waste or promoting sustainable
 
-to understand how to address some culturally-speciﬁc challenge.
+sourcing while sharing what worked and what didn’t in speciﬁc
 
-Knowledge sharing allows workers to harness the trial-and-error,
+contexts. By integrating global knowledge into local decision-making,
 
-successes, and failures of their team across contexts, giving them more
+Unilever achieves consistency and innovation.
 
-information to help make the best decisions in their new environment.
+In the energy sector, Shell employs global knowledge-sharing platforms
 
-That said, knowledge integration isn’t without challenges. For example,
+that allow expatriates in diﬀerent regions to collaborate on complex
 
-consulting ﬁrms often encounter barriers to eﬀective knowledge
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-sharing, such as technological constraints, cultural diﬀerences, and
+5
 
-organizational silos. These challenges can inhibit the seamless
-
-exchange of information across diﬀerent regions, impacting overall
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

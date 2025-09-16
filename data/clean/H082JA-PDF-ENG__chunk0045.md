@@ -1,19 +1,29 @@
-# The jargon jungle.
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d58c6923aa2ba94e98d189673a93c2cf88386ea
+title: H082JA-PDF-ENG
+---
+# work at Avinsa.
 
-Organizational change often brings with it a wave of new terminologies.
+Likewise, separate communication consultants hired by the
 
-While intended to streamline and deﬁne the transition, new terminology can sometimes have the opposite eﬀect. Instead of
+company seemed somewhat detached from the nuances of Avinsa’s
 
-facilitating clarity, these new terms can become barriers, muddying
+transformation. While they provided essential technical expertise,
 
-understanding and creating divides among employees. Such disparities
+their suggestions occasionally misaligned with the company’s culture
 
-in understanding can hinder collaboration and impede the very
+and overlooked local challenges. As a result, Avinsa’s in-house
 
-progress these terms were meant to support.
+communications team decided to ignore several of the external team’s
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+recommendations and chose not to renew their contract.
 
-8
+Overall, external consultants’ advice should be assessed in light of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the organization’s core values and capabilities, ensuring alignment
+
+and authenticity. This can motivate employees when they see familiar
+
+values reﬂected in new practices.

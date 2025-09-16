@@ -1,7 +1,15 @@
-## Construct Issues: Different Referents and Definitions of Trust in Leadership
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: d98d5d6dac365f6721270a5a8584410cd19a306b
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# TRUST IN LEADERSHIP META-ANALYSIS
 
-Past research has demonstrated a diversity in construct focus. In this section, we examine two issues regarding the construct of trust in leadership. As suggested by Clark and Payne (1997), the con- struct of trust has two independent facets: the referent of the trust in leadership and the definition of trust in leadership. In other words, in responding to a survey, the follower is asked to assess a particular referent on a particular dimension. We use the theoret- ical framework described earlier to examine how a focus on a particular referent or a particular definition of trust affects the primary relationships between trust and other variables. We dis- cuss hypotheses only for those relationships for which we have both sufficient data and a theoretical rationale.
+In addition to the question of whether these variables influence trust, we are also interested in the magnitude of the effects. At present, research has not explored which practices have the stron- gest effect on trust. It is possible, for example, that some practices have stronger relationships with trust than others because of the different processes involved in the effect (relationship-based vs. character-based). Last, it is unclear how the magnitudes of lead- ership practices compare to other potential determinants such as the ones discussed below.
 
-Attributes of the relationship. The length of a relationship between individuals may affect the level of trust between them. For example, the level of trust may be greater in a relationship of long duration than in a relationship of short duration owing to the level of knowledge and familiarity acquired. Lewicki and Bunker (1996) suggested that deeper levels of trust develop over time, largely as a function of the parties having a history of interaction. Length of a relationship is one proxy for the extent of interaction. As a counterpoint, an individual may over time recognize that trust in a leader is not warranted. In sum, it is unclear whether length in relationship will be related to trust in leadership.
+Attributes of the follower. Rotter (1967) and others have rec- ognized that individuals vary in the extent to which they trust others in general. The trait is often referred to as propensity to trust and is sometimes hypothesized to influence individuals’ trust in specific individuals with whom they have a personal relationship. For instance, this propensity might affect how individuals initially perceive and interact with their leaders, which might influence the ultimate level of trust in the relationship. Alternatively, this pro- pensity might have little or no effect on trust in specific partners because of the unique experiences in each relationship that over- whelm the effects of the trait. According to McKnight, Cummings, and Chervany (1998), researchers have experienced mixed results when using dispositional trust to predict interpersonal trust.
 
-Hypothesis 2: Trust in leadership will be positively related to transformational leadership, perceived organizational sup- port, interactional justice, transactional leadership, procedural justice, PDM, distributive justice, propensity to trust, and length of relationship and will be negatively related to unmet expectations.
+debate, we treat trust in leadership as a correlate of follower ratings of the LMX construct and meta-analyze data from those studies that treat it as a construct distinct from LMX.
+
+Hypothesis 3: Trust in leadership will be positively related to satisfaction with leader and LMX.

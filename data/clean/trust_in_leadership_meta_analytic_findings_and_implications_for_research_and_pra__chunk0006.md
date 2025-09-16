@@ -1,7 +1,7 @@
-## Donald L. Ferrin State University of New York at Buffalo
-
-In this study, the authors examined the findings and implications of the research on trust in leadership that has been conducted during the past 4 decades. First, the study provides estimates of the primary relationships between trust in leadership and key outcomes, antecedents, and correlates (k (cid:1) 106). Second, the study explores how specifying the construct with alternative leadership referents (direct leaders vs. organizational leadership) and definitions (types of trust) results in systematically different relationships between trust in leadership and outcomes and antecedents. Direct leaders (e.g., supervisors) appear to be a particularly important referent of trust. Last, a theoretical framework is offered to provide parsimony to the expansive literature and to clarify the different perspectives on the construct of trust in leadership and its operation.
-
-The significance of trust in leadership has been recognized by researchers for at least four decades, with early exploration in books (e.g., Argyris, 1962; Likert, 1967; McGregor, 1967) and empirical articles (e.g., Mellinger, 1959; Read, 1962). Over this period of time, the trust that individuals have in their leaders has been an important concept in applied psychology and related disciplines. For instance, it is a key concept in several leadership theories: Transformational and charismatic leaders build trust in their followers (Kirkpatrick & Locke, 1996; Podsakoff, MacKenzie, Moorman, & Fetter, 1990); employees’ perceptions that leaders have attributes that promote trust may be important for leader effectiveness (Bass, 1990; Hogan, Curphy, & Hogan, 1994); and trust theory (Schriesheim, Castro, & Cogliser, 1999) and the consideration dimension of leader behavior (Fleishman & Harris, 1962). The importance of trust in leadership has also been emphasized in numerous other literatures across multiple disciplines. Published articles that include the concept can be found in the literatures on job attitudes, teams, communication, justice, psychological con- tracts, organizational relationships, and conflict management, and across the disciplines of organizational psychology, management, public administration, organizational communication, and educa- tion, among others. More recently, trust has emerged as a research theme in its own right. The rise in interest is evidenced by special issues of journals devoted to the topic of trust (Kramer & Isen,
-
-is
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 9bf10ad4489e7afad5da3c316557d7e778ace368
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+## Kurt T. Dirks Washington University in St. Louis

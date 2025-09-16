@@ -1,13 +1,13 @@
-# current position:
+---
+source_path: H08LCW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e62db62bc26ad4c649435e73a4f8dbf682e1e55e
+title: H08LCW-PDF-ENG
+---
+# management skills.”
 
-I started my career as an associate media planner at [agency name]
+If a candidate with seven years’ experience as a media planner in two
 
-where I mastered project management skills while supporting ten
+diﬀerent jobs wants to align their experience to the job description, they
 
-directors. I researched and analyzed target audiences, reported on
-
-ad campaigns across platforms, and wrote data-driven strategic
-
-plans which were presented directly to the clients. Within two years, I
-
-was promoted to own and manage client accounts and built strong
+would start from their ﬁrst job after school and progress toward their

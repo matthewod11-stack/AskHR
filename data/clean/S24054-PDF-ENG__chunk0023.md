@@ -1,45 +1,43 @@
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b4b4d2b823d4e1bb24421ec1d7fdf49e4418ebe
+title: S24054-PDF-ENG
+---
 ## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
 
-Our other team leaders used diﬀerent leadership styles. Willie
+Brady with offensive players at the University of Michigan, in 1999 Harry How/Getty Images
 
-McGinest, a great linebacker during my early years with the Patriots,
+In his leadership style, Coach Belichick never got too close to his
 
-was six-foot-ﬁve and 270 pounds. He used his physical presence and
+players. He wasn’t one to mingle and form personal relationships with players or coaches, because it’s diﬃcult to do that when you know
 
-voice as a leadership tool. When Willie said something, people stood
+you’ll have to trade, cut, or ﬁre most of them at some point down the
 
-up straight and said: “Yes, Willie, we’ll do whatever you ask us to do.”
+road. So I often took the opposite approach: I tried to get to know
 
-Matthew Slater, who I played with in the 2010s, became a leader by
+my teammates deeply and show that I cared about them personally.
 
-example because of how hard he played on our special teams unit. The
+I asked about their families and the things going on in their lives
 
-dedication and work he put into his job endeared him to his teammates.
+oﬀ the ﬁeld. I made it clear that if we connected as teammates,
 
-Assistant coaches played important leadership roles, too. Dante
+they’d be my teammates for life, and I’ve tried to live up to that. My
 
-Scarnecchia, who coached our oﬀensive line, combined the tough
+relationships are the most important thing in my life. I like to think my
 
-discipline that Belichick exuded with a deep personal caring for people.
+style complemented Coach Belichick’s. I was lucky to play for a coach
 
-He got every ounce of eﬀort out of his players, every day. At the
+who was so smart, hardworking, and focused on discipline—a coach
 
-Patriots we talked about leaders as “culture drivers,” and in any given
+who relentlessly held people accountable for doing their job. He was
 
-season there were probably a dozen players who held that role, each
+fortunate to have someone like me who could recognize where the team
 
-complementing the others with his own style.
+was at emotionally, rally the troops, and pull people together.
 
-Recognize and counteract the external forces that can cause selﬁsh
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-behavior. Leaders need to realize that powerful external forces push
+11
 
-people to focus on themselves instead of the team. In professional
-
-sports, agents can be one example. In a perfect world, I’d have three
-
-great receivers who didn’t care which one I threw the ball to, as long as
-
-we won the game. In reality, if receiver A has a great day, receivers B
-
-and C may be happy we won, but then they may hear rumblings about
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

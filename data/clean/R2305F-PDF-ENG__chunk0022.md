@@ -1,13 +1,15 @@
-## example, people across the world most often stereotype American
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32ab014666c0c521f896bbe55fd065ce33a7cfd5
+title: R2305F-PDF-ENG
+---
+# of cultures and countries.
 
-culture as exceedingly direct. In some aspects this stereotype is true.
+The risk of upsetting people in these situations is high. That’s because
 
-Americans tend to place a high value on clear, simple communication
+what’s considered a constructive way to oﬀer feedback in one culture
 
-and on actions like recapping key points and conﬁrming decisions in
+is often perceived as destructive in another. It isn’t easy for outsiders
 
-writing. This approach certainly feels straightforward to many. But the
-
-story changes when it comes to negative feedback, whether in a critical
-
-performance review or an evaluation of a colleague’s less-than-ideal
+to understand the nuances around feedback in other cultures. For

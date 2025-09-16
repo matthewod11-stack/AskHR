@@ -1,11 +1,17 @@
-## The Challenges of an Inclusive Workplace Pet Policy
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62b2a55917be8fe57b70a6de6d465b8ad80f9c94
+title: H07UT7-PDF-ENG
+---
+## HBR / Digital Article / Research: The Benefits of a Pet-Friendly Workplace
 
-We hope to have given you some reason to be excited about welcoming
+opening up opportunities for social interaction, and enhancing their
 
-pets. Let us now be transparent about the challenges.
+sense of independence. As a side note, this is also (if not more so) true
 
-A documented minority of employees view pet-friendly workplaces
+for service animals, who, of course, fall into a legal class of their own. In
 
-as unprofessional, unclean, or unsafe. Objections range from cultural
+short, welcoming pets can make the oﬃce a more social and inclusive
 
-and religious traditions; past encounters and phobias; health, hygiene,
+place, key conditions to foster creative collaboration.

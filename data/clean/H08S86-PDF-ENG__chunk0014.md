@@ -1,17 +1,7 @@
-# Minimization of Disruption
-
-The appointment of a new CEO is a major disruptive event for any
-
-company regardless of the reason for the CEO change. The beginning of
-
-a calendar or ﬁscal year presents a natural breakpoint to interrupt the
-
-work of organizational members. Synchronizing a new CEO succession
-
-with the beginning of the calendar or ﬁscal year allows enough time
-
-for organizational members to regain focus and attention on tasks and
-
-projects before results are expected, thus reducing disruptive eﬀects
-
-associated with CEO succession.
+---
+source_path: H08S86-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aeb146953d3da51f9db60cc53770e17889bf4ea9
+title: H08S86-PDF-ENG
+---
+# goals.

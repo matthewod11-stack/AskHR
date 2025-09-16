@@ -1,19 +1,35 @@
-# The Industrial Policy Landscape
+---
+source_path: H08T0G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30499fe512868e9ad92f1e06ca6dbc99cfdd93cb
+title: H08T0G-PDF-ENG
+---
+## HBR / Digital Article / Competing in the New Era of Industrial Policy
 
-As the OECD deﬁnes it, industrial policy is “government assistance to
+Global commerce has entered an era where competition is directly—and
 
-businesses to boost or reshape speciﬁc economic activities, especially
+profoundly—shaped by government industrial policy.
 
-to ﬁrms or types of ﬁrms based on their activity, technology, location,
+It used to be that legislative agendas and macro policy issues like
 
-size, or age.” Its tools include tariﬀs, incentives, subsidies, investment in
+trade policies or environmental initiatives were long-cycle issues about
 
-public goods like infrastructure, and more. By that deﬁnition, industrial
+which executives could say, “Oh, let’s see what happens in the next G7
 
-policy has become a strategic program in every major economic bloc.
+meeting.” They no longer have that luxury. We’ve come a long way, in what seems a very short time, from the days when U.S. oﬃcials could be
 
-Consider that in the U.S., while the Trump and Biden administrations
+counted on to proclaim that it was not the job of government to “pick
 
-have followed very diﬀerent paths, both parties’ stated goals share
+winners and losers” or when leaders of advanced economies routinely
 
-similarities: to support semiconductor and microchip research and
+and sincerely said government policy should simply work to ensure a
+
+“level playing ﬁeld.”
+
+Focused or fuzzy, brilliant or bone-headed, industrial policies are here.
+
+Business leaders thus need to know how government aﬀects their
+
+organizations—that is, how industrial policy might endanger value
+
+creation, strengthen it, or create opportunities to expand it.

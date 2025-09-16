@@ -1,17 +1,13 @@
-## HBR / Magazine Article / Want Your Company to Get Better at Experimentation?
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 88ba55a9c4952faaa26458273825e0d60872eff7
+title: R2501G-PDF-ENG
+---
+## the technology sector—conduct online experiments.
 
-However, many companies use online experimentation for just a
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-handful of carefully selected projects. That’s because their data
+1
 
-scientists are the only ones who can design, run, and analyze tests.
-
-It’s impossible to scale up that approach, and scaling matters. Research
-
-from Microsoft (replicated at other companies) reveals that teams and
-
-companies that run lots of tests outperform those that conduct just a
-
-few, for two reasons: Because most ideas have no positive impact, and
-
-it’s hard to predict which will succeed, companies must run lots of tests.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

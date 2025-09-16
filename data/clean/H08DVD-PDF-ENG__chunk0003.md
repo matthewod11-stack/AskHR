@@ -1,11 +1,25 @@
-## HBR / Digital Article / Research: The Long-Term Costs of Layoffs
+---
+source_path: H08DVD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e423ca1d7fcf6514e71fb994210d607d0454823a
+title: H08DVD-PDF-ENG
+---
+# Peter Cade/Getty Images
 
-Layoﬀs might sound like a shortcut to a more agile, lean, and responsive
+In today’s climate, large-scale layoffs are in the news often. The
 
-operation, but proceed with caution. While they can lead to short-term
+industry being hit the hardest right now is tech, with more than 100,000
 
-ﬁnancial beneﬁts — and even rightsize burn to ensure the continued
+roles being cut in 2024 so far, including from large companies like
 
-economic stability of a company in uncertain economic times — our
+Microsoft, Intuit, and Dell. With such high-proﬁle companies making
 
-research shows just how much of an impact they can have on employee
+widespread staﬀ cuts, it’s only natural for leaders to wonder if reducing
+
+headcount might be the answer to their business’s woes, too.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

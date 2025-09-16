@@ -1,31 +1,11 @@
-## of the demands of the job and attention to her young children.
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8363c751f393beae7579d644f84582cadd252aaa
+title: H07BCM-PDF-ENG
+---
+## HBR / Digital Article / What’s Stopping You from Reinventing Your Career?
 
-Introduced to one of our workshops by a friend, she realized that the
+Barbara had become disillusioned with her career in marketing. She
 
-real problem wasn’t a lack of time; it was that she didn’t know where
-
-to start. At the workshop, we encouraged Barbara to more precisely
-
-articulate and then visualize several possible future paths, much as we
-
-had done with Em, and then appraise them analytically, in order to
-
-be able to compare and contrast their attractiveness, suitability and ﬁt.
-
-Doing this allowed Barbara to test these possible career journeys, and
-
-select the path she felt was best suited to her goals and capabilities.
-
-Barbara carved out some time to test some of the ideas she had drawn
-
-and eventually found her new path as a graphic recorder.
-
-If you tend to procrastinate, ask yourself why you are putting oﬀ
-
-important decisions about your life? And, why you are choosing to
-
-prioritize other tasks? The adage “just do it” can help take a ﬁrst step
-
-and act as a reminder that reinvention is an iterative process, so taking
-
-that ﬁrst step no matter how small is better than a perfect idea that
+didn’t have much time for nurturing her aspirations, however, because

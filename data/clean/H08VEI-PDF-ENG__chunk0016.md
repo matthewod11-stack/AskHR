@@ -1,11 +1,17 @@
-# and the team.
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85074c889c21159778e4a8868ce2a5b9b2029a13
+title: H08VEI-PDF-ENG
+---
+# Point out progress.
 
-Concrete case studies help make the strategy feel tangible and relevant.
+If some workers are having trouble grasping what the strategic change
 
-“There are going to be people who are harder to persuade, and you have
+means for their day-to-day work, Willett recommends using real-life
 
-to do what you can to show them the way,” he says. “‘Just do it’ isn’t
+examples to bring the vision to life. Seek out people in your organization
 
-going to help.” And it will likely backﬁre. Success stories can help people
+who are already on board and making the change work. Showcase their
 
-come around and see progress that can be made.
+achievements and demonstrate how the new approach beneﬁts them

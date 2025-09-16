@@ -1,13 +1,11 @@
-## positive work environment despite your health challenges. In some
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 228960724a850bd636fb33cdf94cec5b408664f7
+title: H087G0-PDF-ENG
+---
+# groups.
 
-cases you may also consider a “radical” disclosure (such as educating
+Having the backing of your manager, HR, an ERG, and/or multiple
 
-colleagues about your condition in a meeting, explaining how it impacts
-
-your communication in your email signature, or “coming out” via social
-
-media) to both live out your authentic identity at work and help reduce the stigma surrounding health diﬀerences. While not without risk,
-
-radical disclosure can expand your network in ways that prevent the
-
-potentially catastrophic consequences of losing a sole supporter.
+colleagues can provide a much stronger foundation for building a

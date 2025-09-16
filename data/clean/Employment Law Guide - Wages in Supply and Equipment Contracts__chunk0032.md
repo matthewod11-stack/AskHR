@@ -1,13 +1,11 @@
-# Basic Provisions/Requirements
+---
+source_path: Employment Law Guide - Wages in Supply and Equipment Contracts.md
+pages: n/a-n/a
+chunk_id: 5df527e2769182d9e67fd2b589ec3780cff5777a
+title: Employment Law Guide - Wages in Supply and Equipment Contracts
+---
+# the District of Columbia
 
-Covered contractors must pay employees on the contracts the federal minimum wage. The employers may
+Contracts administratively exempted by the Secretary of Labor in special circumstances to avoid serious
 
-pay special lower rates to apprentices, students in vocational education programs, and disabled workers if
-
-they obtain special certiﬁcates from the Department of Labor. Employees must also be paid one and one-half times their regular rate of pay for all hours worked over 40 in a workweek.
-
-The PCA prohibits the employment of youths less than 16 years of age and incarcerated individuals, except
-
-under certain conditions. Not included are persons paroled, pardoned, or discharged from prison, or prisoners
-
-participating in a work-release program.
+impairment of government business when the exemption will serve justice or the public interest

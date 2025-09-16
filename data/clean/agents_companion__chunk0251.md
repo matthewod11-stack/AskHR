@@ -1,11 +1,19 @@
-# General Knowledge Agent
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 8bc72b87bead0107341f45930f36d91c0566f19e
+title: agents_companion
+---
+# Example Interaction:
 
-The General Knowledge Agent is specialized in answering factual questions about the world,
+User: "How do I turn off the lane-keeping assist feature in this Volkswagen?"
 
-history, science, culture, and other general topics. This agent accesses a broad knowledge
+Car Manual Agent: "To turn off lane-keeping assist in your Volkswagen, press the
 
-base to answer factual questions, provides biographical information about people, offers
+button with the car-and-lane icon located on the left side of your steering wheel. You'll
 
-contextual explanations of concepts and phenomena, maintains grounding in factual
+see a confirmation in the driver display when it's deactivated. You can also disable
 
-information while avoiding hallucinations, and responds to follow-up questions by maintaining
+it permanently in the infotainment system under Settings > Driver Assistance > Lane
+
+Keeping. Would you like me to walk you through the settings menu instead?"

@@ -1,15 +1,13 @@
-# a full boil.
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6bbb94d665a77a51b39588ea2c678adebec1d805
+title: R2504K-PDF-ENG
+---
+## HBR / Magazine Article / How to Identify the Perfect Cofounder
 
-. . .
+- Hire a coach to work with you as individuals and together as a
 
-Finding the right cofounder is a journey that requires patience,
+cofounding team. It’s much easier to talk through challenges with an
 
-self-awareness, and a structured approach. While cofounders can
-
-provide complementary skills, emotional support, and access to capital,
-
-they also introduce complexities that will be tricky to navigate.
-
-Maintaining transparency, adaptability, and a commitment to nurturing
-
-the relationship will be critical to building a resilient and thriving
+expert when things are just simmering than when an issue has come to

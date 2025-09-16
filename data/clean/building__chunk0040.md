@@ -1,3 +1,9 @@
-# both technical and business outcomes
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 1ba20f81867a553d65cc0ba895387f822ac1f03b
+title: building
+---
+# impact with manageable risk
 
-- Establishing leadership and organizational trust in the AI
+- Developing comprehensive metrics frameworks to measure

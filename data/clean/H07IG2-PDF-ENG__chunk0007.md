@@ -1,19 +1,23 @@
-# Updating Reengineering
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97b9f64514bc21dcf38bad728d09e5123582fae9
+title: H07IG2-PDF-ENG
+---
+## for development — all without any assistance from technology.
 
-The technologies enabling reengineering in the 90s were primarily
+Now, a version of this idea is making a comeback in some companies,
 
-transactional and communications-based. They enabled eﬃcient data
+and we expect to see it in more. It will require not only an
 
-capture and transfer within and across organizations. AI, on the other
+appreciation and understanding of AI, but also a renewed appreciation
 
-hand, enables better, faster, and more automated decisions. In essence,
+of business processes as a structure for improving work. As AI emerges
 
-most AI deployments in large organizations involve learning from large
+as a universally applicable, general-purpose technology, it appears
 
-datasets to make a prediction or classiﬁcation, which in turn helps
+increasingly possible that it can enable the kind of radical redesign of
 
-business with making a better operational decision. Better operational
+business processes originally envisaged by reengineering’s proponents.
 
-decisions, in turn, enhance eﬃciency by producing better outcomes. A key diﬀerence is that present AI systems are a true general-purpose
-
-technology, and have brought about dramatic changes not just in
+(One of us — Davenport — wrote the ﬁrst book on the topic.)

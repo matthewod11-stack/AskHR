@@ -1,23 +1,41 @@
-# The Appeal of Fake News
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c98b0a64953db086b03f4e1f2e5dfc64c3952fa0
+title: R2505L-PDF-ENG
+---
+## HBR / Magazine Article / How to Counter Fake News
 
-What’s happening here? Many executives don’t understand the viral
+an era where disinformation can spread with unprecedented speed and
 
-nature of the problem and can often inadvertently amplify fake news by discussing it. This phenomenon is known as the “Streisand eﬀect,”
+reach, silence can be risky.
 
-named after the actor-singer Barbra Streisand, whose unsuccessful
+Second, asking news outlets and social media platforms to swiftly
 
-attempts to prevent knowledge about her home address from spreading
+remove or correct harmful content is an important ﬁrst step, but it is
 
-inadvertently made it more widely known. Once a piece of fake news reaches a certain threshold, eﬀorts to suppress it will be largely in
+insuﬃcient to staunch the ﬂow. Fake news often resurfaces through
 
-vain. For example, in 2016, PepsiCo faced a viral fake-news crisis when
+screenshots, reposts, or alternative formats, making it nearly impossible
 
-stories circulating on social media falsely claimed that CEO Indra
+to contain its spread entirely.
 
-Nooyi had told Trump supporters to “take their business elsewhere.”
+Third and more frustrating still, correcting the record with facts does
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+little to change the narrative. For instance, when Wayfair faced baseless
 
-4
+accusations of child traﬃcking in 2020, the company’s clariﬁcations
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+failed to prevent the rumors from going viral and ultimately reaching
+
+some 4.5 million people. And when the Arab airline Saudia faced false
+
+accusations of segregating men and women on its ﬂights, company
+
+spokespeople denied the claims in newspaper interviews. Despite their eﬀorts, the fake news took on a life of its own, sparking ongoing
+
+online debates about Islamophobia, sexual harassment on airplanes,
+
+and cultural misunderstandings—conversations that continued to
+
+propagate the fake news story.

@@ -1,3 +1,9 @@
-# THE MODERN SCIENTIFIC PERIOD
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f957ec8b8cbe7481f88ac8d3fd312d987d3ebc4d
+title: untitled
+---
+# The Modern Scientiﬁc Period 125
 
-The modern era in the study of cognition opened with the in- ventionofthedigitalelectroniccomputerduringWorldWarII. The engineers, logicians, and mathematicians who created the ﬁrst computers developed key notions that eventually gave rise to contemporary cognitive psychology.
+severe drubbing from linguist Noam Chomsky (1959) from which its theses never recovered. The computer model of mind replaced the mediational model and isolated the radical behaviorists. Radical behaviorism carries on after Skinner’s death, but it is little mentioned elsewhere in psychology.

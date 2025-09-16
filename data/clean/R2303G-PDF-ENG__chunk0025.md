@@ -1,9 +1,13 @@
-## in the context of an organizational shift toward a more empowering
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0291506c5d9d860bdabb44320fb4c533bef5eadc
+title: R2303G-PDF-ENG
+---
+## HBR / Magazine Article / The Leadership Odyssey
 
-culture—and discover that their new behaviors help them achieve
+Broadening your repertoire of people skills is not a single event but an involved process that unfolds over time, often uncomfortably, with many twists and turns.
 
-valued results.
+The impetus for change can come in other ways. We’ve often seen
 
-That’s what happened with Rajiv, a newly appointed divisional CEO.
-
-Rajiv’s boss, the company’s CEO, had launched an initiative to instill
+executives emulate bosses with more-developed people skills—usually

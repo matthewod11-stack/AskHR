@@ -1,7 +1,11 @@
-## vantage points: your behavior, your information, your analysis, and the
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3f578bea25fdde8a4b4daa1dfab224feff3fc8b
+title: H0705Q-PDF-ENG
+---
+# The BIAS Framework
 
-structure, or environment around you as you make your decision. I call
+So how do we understand and account for our expectations? I’ve
 
-this the BIAS framework, taking the the ﬁrst letter of each vantage point.
-
-The goal is to use a structured approach to keep your mind open, further
+created a framework that asks you to consider your decisions from four

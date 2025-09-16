@@ -1,5 +1,15 @@
-# Those for less than $150,000;
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Covered Veterans.md
+pages: n/a-n/a
+chunk_id: fa3dd89bcbddad3abb6b9a8cb2fda95d5c754285
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Covered Veterans
+---
+# veteran, recently separated veteran, active duty wartime or campaign badge veteran, or Armed Forces service
 
-Those for indeﬁnite quantities where the agency determines that the cost in any one year will not exceed $150,000;
+medal veteran ("protected veteran"). Covered contractors must also take steps to employ and advance in employment qualiﬁed protected veterans. Contracts covered by VEVRAA are subject to the implementing
 
-Those for work that is performed outside the U.S. and for which employment activity decisions were made
+regulations found at 41 CFR Part 60-300.
+
+The following types of contracts and subcontracts are not covered under VEVRAA:

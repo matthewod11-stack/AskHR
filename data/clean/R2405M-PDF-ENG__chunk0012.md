@@ -1,7 +1,13 @@
-# HBR / Magazine Article / Case Study: Should a Family Business Accept a Returning Da…
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bc2d72a3cba8f69e44d21ccf4c828c4968340746
+title: R2405M-PDF-ENG
+---
+# smile on his face.
 
-As they moved toward the exit, Koﬃ felt a wave of relief and relaxation.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-“Amina,” he said, “we have a whole week planned for you. We are
+2
 
-going to take you to see all the operations of the company, meet all the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

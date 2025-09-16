@@ -1,11 +1,17 @@
-# of their ritual.
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ab25f9418a3752837828799a7ab46b59198f4bc
+title: H08TQX-PDF-ENG
+---
+## HBR / Digital Article / New Research on How to Get Workplace Rituals Right
 
-- 4. Do set a relaxing atmosphere.
+selecting energizing and inspiring speakers for the event and crafting
 
-Create space and time for employees to unwind and savor their
+their messages. If it’s an onboarding event, think about ways to get new
 
-experience at the ritual. If it’s a holiday party, allow people to come and
+employees excited about all that your company oﬀers and how it might
 
-go at will or show up for just a short while. Don’t create an event that’s
+help them grow. Also, don’t underestimate the power of simple games to
 
-so highly structured that it becomes stressful to be involved or requires
+put people in a good mood, especially if a prize is involved. On multiple occasions, employees mentioned that raﬄes were one of the highlights

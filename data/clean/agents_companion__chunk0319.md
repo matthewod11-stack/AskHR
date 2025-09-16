@@ -1,3 +1,9 @@
-# Endnotes
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: f0dd13b2d18e7763bb30757142c2d2d9b5dd1660
+title: agents_companion
+---
+# the references.
 
-- 1. Shafran, I., Cao, Y. et al., 2022, 'ReAct: Synergizing Reasoning and Acting in Language Models'.
+73

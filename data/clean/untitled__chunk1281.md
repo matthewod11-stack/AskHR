@@ -1,3 +1,9 @@
-# chological Review, 6, 551–573.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ba1a6a5809af4633e73793df1c377e21095896aa
+title: untitled
+---
+# race. London: Routledge/Thoemmes Press.
 
-Baldwin, J. M. (1897). Social and ethical interpretations in mental development:Astudyinsocialpsychology.NewYork:Macmillan. Baltes, P. B. (1987). Theoretical propositions of life span develop- ment psychology: On the dynamics of growth and decline. Developmental Psychology, 23, 611–626.
+Baldwin, J. M. (1895). The origin of a “thing” and its nature. Psy-

@@ -1,23 +1,11 @@
-# Team
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1ca553b84916c9065ec13955535ff17cabebe8bb
+title: industrial_organizational_psychology_an_applied_approach
+---
+## GLOBE = Global Leadership and Organizational Behavior Eff ectiveness.
 
-5.76
+464
 
-0.26 5.83
-
-5.50
-
-5.62
-
-5.55
-
-5.74
-
-5.86
-
-5.91
-
-5.57
-
-5.62
-
-5.76
+chapter 

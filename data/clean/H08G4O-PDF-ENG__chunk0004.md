@@ -1,33 +1,21 @@
-## HBR / Digital Article / The Strengths and Weaknesses that Set Founders Apart
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a7fd6e67f00ee5ff0814b201e53714abd7998aba
+title: H08G4O-PDF-ENG
+---
+## With his recent essay on “Founder Mode,” Paul Graham, the co-founder
 
-Silicon Valley have implicitly assumed that scaling a startup meant
+of Y Combinator, has ignited a conversation on the diﬀerences between
 
-switching to manager mode. But we can infer the existence of another
+founder-led companies and those led by professional managers.
 
-mode from the dismay of founders who’ve tried it, and the success of
+“In eﬀect there are two diﬀerent ways to run a company: founder mode
 
-their attempts to escape from it.” He continued:
+and manager mode,” Graham wrote. “Till now most people even in
 
-There are as far as I know no books speciﬁcally about founder mode.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Business schools don’t know it exists. All we have so far are the
+1
 
-experiments of individual founders who’ve been ﬁguring it out for
-
-themselves. But now that we know what we’re looking for, we can
-
-search for it. I hope in a few years founder mode will be as well
-
-understood as manager mode. We can already guess at some of the
-
-ways it will differ.
-
-It’s clear that founders are not your typical executives. They’re the
-
-alchemists of the business world who turn a spark of an idea into a
-
-living, breathing business. But the same entrepreneurial instinct that
-
-breeds success can make them less straightforward partners, especially
-
-when professional investors enter the picture to scale the business to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

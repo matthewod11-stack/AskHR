@@ -1,19 +1,13 @@
-## Chan, D., Schmitt, N., DeShon, R. P., Clause, C. S., &
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 55f329753c0d625af8631e7fd28843ebba2b0d62
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Cellar, D. F., Curtis, J. R., Kohlepp, K., Poczapski, P., &
 
-Delbridge, K. (1997). Reactions to cognitive ability tests: Th e relationship between race, test performance, face validity perceptions, and test-taking motivation. Journal of Applied Psychology, 82(2), 300–310.
+Mohiuddin, S. (1989). Th e eﬀ ects of rater training, job analysis format and congruence of training on job evaluation ratings. Journal of Business and Psychology, 3(4), 387–401.
 
-Chan, K. Y., & Drasgow, F. (2001). Toward a theory of individual diﬀ erences and leadership: Understanding the motivation to lead. Journal of Applied Psychology, 86(3), 481–498.
+Chan, D., & Schmitt, N. (1997). Video-based versus paper-and-
 
-Chang, C. H., Johnson, R. E., & Yang, L. Q. (2007). Emotional strain and organizational citizenship behaviors: A meta- analysis and review. Work & Stress, 21(4), 312–332.
-
-Chang, C. H., & Rosen, C. C. (2003). A meta-analytic review of perceived organizational politics and its outcomes. Poster presented at the 18th annual meeting of the Society for Industrial and Organizational Psychology, Orlando, FL.
-
-Chapman, D. S., & Zweig, D. I. (2005). Developing a nomological
-
-network for interview structure: Antecedents and consequences of the structured selection interview. Personnel Psychology, 58(3), 673–702.
-
-Chapman, D. S., Uggerslev, K. L., Carroll, S. A., Piasentin, K. A., & Jones, D. A. (2005). Applicant attraction to organizations and job choice: A meta-analytic review of the correlates of recruiting outcomes. Journal of Applied Psychology, 90(5), 928–944.
-
-Chen, A. Y., Sawyers, R. B., & Williams, P. F. (1997). Reinforcing ethical decision making through corporate culture. Journal of Business Ethics, 16, 855–865.
-
-Chen, S. C. (1937). Social modiﬁ cation of the activity of ants in
+pencil method of assessment in situational judgment tests: Subgroup diﬀ erences in test performance and face validity perceptions. Journal of Applied Psychology, 82(1), 143–159.

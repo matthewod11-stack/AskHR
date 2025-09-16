@@ -1,13 +1,25 @@
-# email.
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8d4469ed6fda7a24b06d9be5d97b3e025cd6eef
+title: H088OR-PDF-ENG
+---
+# norms.
 
-In 2023, this rate was 7.2% for small group meetings, up from 4.8% in
+“No-participation rates” in small group meetings are increasing.
 
-- 2022. It should be noted that these numbers are likely underestimates, as they require the participant to never go oﬀ mute for the entire meeting (if someone brieﬂy says “hi” at the beginning but then goes
+In addition to meeting volume, collaboration data can measure how
 
-on mute for the remainder, that would not be captured).
+frequently the features of virtual meeting platforms are utilized, such
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+as attendees enabling their cameras, microphones, and recording
 
-4
+capabilities. Among these features, it can measure how many
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+participants stayed muted for the entirety of a meeting, which we refer
+
+to as the “no-participation rate.” This behavior can be desirable for large
+
+meetings to reduce interruptions and background noise, but for small
+
+groups, it’s often an indication of a meeting that could have been an

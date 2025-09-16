@@ -1,33 +1,27 @@
-# own background through Ancestry?
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fd7ca51696725bf0d0d924af6cd4cf64cce90cb
+title: H07DLJ-PDF-ENG
+---
+# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
-DEB LIU:
+I also think it’s a matter of focus as well. We focused on areas where we
 
-I actually was able to pull my mother-in-law’s immigration papers,
+could easily get access to the records. As we grow our record database,
 
-actually her immigration card. And I showed it to her, and I found the
+we have the largest exclusive database of historical records in the world.
 
-record that was the attestation of her good character. And I showed it
+And one of the things that we want to do is to continue to grow that
 
-to her and she said, “Oh…” My husband saw it and he goes, “Oh, that’s
+archive in areas, in countries, where it might not be as easily accessible.
 
-Aunt Mary from church.” And so just to see that kind of the story. They
+And so there’s some work that will be done there, but technology is only
 
-never told me the story of how they came to America and how she got
+making this easier over time. And so we’re going to continue to invest in
 
-her green card, and how she stayed in America. And so it just opened
+and grow that.
 
-up that conversation and that’s why we’re here. It’s not just, you have
+ADI IGNATIUS:
 
-this record. It’s the story behind the record. It’s actually the story of a
-
-person who left her home with almost nothing and came to America to
-
-go to college not knowing how she was going to go back. And the life
-
-that she’s unfolded here.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-16
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Have you been able to learn anything about your own family and your

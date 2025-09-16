@@ -1,19 +1,23 @@
-## computational instructions. Likewise, Jorge Odon, an auto mechanic
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ddadd786b15c662891b45b0ba6c469af0c5e202
+title: R2502D-PDF-ENG
+---
+## HBR / Magazine Article / Precedents Thinking
 
-from Argentina, was inspired by a technique for removing a cork from
+get its items placed near hummus rather than with crackers. Kneller’s
 
-an empty bottle to create the Odon device for easier childbirth. The
+team worked with grocers to position Sweet Nothings in the frozen fruit
 
-Pope Francis and Medellín precedents were particularly inspiring to
+section, which led to rapid adoption.
 
-Global Foods’ leaders, and two of the three precedents that inspired
+Sweet Nothings’ inspiration came from a nearby precedent, but
 
-DoorDash (FedEx and Uber) had nothing to do with delivering food.
+faraway precedents can be even more powerful. For example, the
 
-In our experience, the best way to ﬁnd pertinent out-of-domain
+mathematician Ada Lovelace laid the foundation for modern computing
 
-innovations is to “disassociate” the elements of your problem such that
+when she recognized that the way looming machines used punch cards
 
-they are no longer speciﬁc to your domain, and to move from asking
-
-How? to asking Who? For example, instead of How can we share delivery
+to complete textile patterns could be used to specify more-general

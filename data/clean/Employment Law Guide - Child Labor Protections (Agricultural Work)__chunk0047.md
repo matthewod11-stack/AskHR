@@ -1,9 +1,9 @@
-# Fair Labor Standards Act (FLSA) Child Labor Rules Advisor(/elaws/whd/ﬂsa/cl/default.htm): Helps young
+---
+source_path: Employment Law Guide - Child Labor Protections (Agricultural Work).md
+pages: n/a-n/a
+chunk_id: f335a1a760fd54a80abfe99a90575150e8e10ad0
+title: Employment Law Guide - Child Labor Protections (Agricultural Work)
+---
+## Fair Labor Standards Act (FLSA) Coverage and Employment Status
 
-workers and their employers, parents, and educators understand the FLSA's child labor provisions, which
-
-dictate the hours youth can work and the jobs they may and may not perform.
-
-Fair Labor Standards Act (FLSA) Hours Worked Advisor(/elaws/whd/ﬂsa/hoursworked/default.asp): Helps employers and employees determine which work-related activities are considered "hours worked" and thus
-
-hours for which employees must be paid.
+Advisor(/elaws/whd/ﬂsa/scope/screen9.asp): Helps employers and employees understand and determine coverage of employees under the FLSA.

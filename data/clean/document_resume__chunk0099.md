@@ -1,21 +1,15 @@
-## Arthur M. Cohen and Florence B. Brawer, Confropith g Identity: The
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: d5e529b159ce7c2e8ecca81da0b903df07cc10ff
+title: document_resume
+---
+# Endnotes
 
-Community College Instructor, (Englewood Cliffs, NJ. Prentice Hall, 1972), p. 186.
+1.
 
-Thomas F. Gilbert, "Analyzing Productix e Performance," in Handbook of Organizational Behavior Management, ed. Lee W. Frederikson (New York. John Wiley and Sons, 1982), p. 127.
+Evelyn Eichel and Henry E. Bender,. Performance Appraisal. A Study of
 
-3.
+Current Techniques, (New York. American Management Asso.ations, 1984), p. 9.
 
-4.
-
-Christine M. Licata, "Post-tenure Faculty Evaluation: Threat or Opportunity," Executive Summary, ASHE ERIC Higher Education Report I, (Washington, DC: Association for the Study of Higher Education, 1986), p. 1.
-
-- 5. Michael Seriven, "Summative Teacher Evaluation," in Handbook of Teacher
-
-Education, ed. Jason Millman (Beverly Hills, CA. Sage, 1981), pp. 244-271.
-
-Hans A. Andrews and William A. Nlarzano, "Faculty Evaluation. Stimulates Expectations of Excellence," Community and Junior College Journal 54 ,December January 1983-1984), pp. 35-37.
-
-6.
-
-7.
+2.

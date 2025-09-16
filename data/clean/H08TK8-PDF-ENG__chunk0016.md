@@ -1,23 +1,13 @@
-# world.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13d631904a2d2a530ede62a61c6b8ccd0eedd155
+title: H08TK8-PDF-ENG
+---
+# and clarity.
 
-Reframe: Shift the narrative.
+Reﬂection doesn’t require a lot of time. It just takes the discipline to
 
-Reappraising emotionally taxing experiences can also speed recovery by
+pause amid the busyness. Even a few intentional minutes can help
 
-reducing our distress and freeing up our cognitive resources. Reframing
-
-doesn’t mean you’re ignoring the diﬃculty of a situation; instead, it’s
-
-about shifting your perspective to ﬁnd new meaning or possibility.
-
-For example, after successfully leading a major turnaround, my client
-
-Jacob was blindsided by a reorg that reassigned his team and left his
-
-role uncertain. Understandably, he was both frustrated and stressed. But over time, Jacob began to see the situation diﬀerently: as a chance
-
-to recharge after an intense chapter, and an opportunity to stretch into
-
-something new. By ﬁnding a silver lining, Jacob shifted his emotional
-
-state and was able to show up with more steadiness and optimism, while
+you build the self-awareness, emotional intelligence, and resilience essential for eﬀective leadership in today’s complex and challenging

@@ -1,3 +1,11 @@
-# KJ
+---
+source_path: R2304M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a04eaced0e8ff19b918dad590f7e4c75484aa60d
+title: R2304M-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: How Should a Start-Up Cut Its Burn Rate?
 
-Sophia Wronsky is a director at Thrive Capital.
+Nitin Nohria is the George F. Baker Jr. and Distinguished Service University Professor. He served as the 10th dean of Harvard Business School, from 2010 to 2020.
+
+Katie Josephson is a partner at Thrive Capital.

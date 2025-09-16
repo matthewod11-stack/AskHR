@@ -1,13 +1,7 @@
-## technical language or coordination efforts across state lines. There
-
-were also significant legal, security and privacy concerns ranging from
-
-cybersecurity to patient privacy.
-
-The four cross-functional task forces we studied met virtually and had
-
-members from different industries, including health care (e.g., doctors,
-
-nurses, a hospital president), insurance (e.g., insurance executives),
-
-technology (e.g., executives from IT, internet-based medical services,
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 855252538c6f49a2a1b170db3b6db35b5d59239d
+title: H06W7A-PDF-ENG
+---
+## technology platform for health care providers, and no common

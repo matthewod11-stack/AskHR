@@ -1,27 +1,19 @@
-# A Marathon, Not a Sprint
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3d044e46ffd4951607bac23b202b8bdfec5a3db
+title: S24042-PDF-ENG
+---
+## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
 
-Few things instill more conﬁdence than a strong track record does, yet if
+There’s an important lesson here: If you’re a new CEO who wants to
 
-you’re a new CEO, you start with a blank slate. So how to proceed? We’ve
+maximize the value you’ll create in the long term, during your ﬁrst two
 
-identiﬁed six key practices that you should apply systematically.
+years you’ll need to patiently and methodically earn the conﬁdence of
 
-Set a deliberate pace. This is crucial. We’ve worked with many new
+all stakeholders. In this article, drawing not only on our research and
 
-CEOs who, feeling the pressure to deliver quick wins, hit the ground
+analysis but also on Mahesh’s personal experiences as a CEO, we’ll oﬀer
 
-at a full sprint, launching a variety of initiatives and pursuing multiple
-
-objectives without having secured the alignment of the board, their
-
-leadership team, or other key stakeholder groups. Needless to say, that
-
-approach backﬁres because the race they’re running is not a sprint but a
-
-marathon. A marathon requires patience, endurance, and a sustainable
-
-long-term strategy. In a marathon time is on your side. You need to go
-
-slow to go fast. Accepting that idea and pacing yourself accordingly will
-
-allow you to steady your eﬀorts and help others develop faith in your
+guidance on how to do just that.

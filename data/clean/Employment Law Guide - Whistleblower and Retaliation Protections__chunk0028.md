@@ -1,5 +1,29 @@
-## certain environmental laws or regulations.
+---
+source_path: Employment Law Guide - Whistleblower and Retaliation Protections.md
+pages: n/a-n/a
+chunk_id: 723253b625403bad109efbc71b451f74f2b6b6d9
+title: Employment Law Guide - Whistleblower and Retaliation Protections
+---
+# transportation.
 
-Under the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century (AIR21), employees
+Under the Asbestos Hazard Emergency Response Act (AHERA), employees may ﬁle complaints with OSHA
 
-of air carriers and their contractors and subcontractors may ﬁle complaints with OSHA if they believe that they have experienced discrimination or retaliation for reporting alleged violations of Federal aviation safety laws or
+if they believe they have experienced discrimination or retaliation for reporting alleged violations of
+
+environmental laws relating to asbestos in elementary and secondary school systems.
+
+Under the International Safe Container Act (ISCA), employees may ﬁle complaints with OSHA if they believe
+
+that they have experienced discrimination or retaliation for reporting allegations of an unsafe cargo container.
+
+Under the Energy Reorganization Act (ERA), certain employees in the nuclear power and nuclear medicine
+
+industries may ﬁle complaints with OSHA if they believe that they have experienced discrimination or
+
+retaliation for reporting alleged violations of nuclear safety laws or regulations.
+
+Under the Clean Air Act (CAA), Safe Drinking Water Act (SDWA), Federal Water Pollution Control Act
+
+(FWPCA), Toxic Substances Control Act (TSCA), Solid Waste Disposal Act (SWDA), Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), employees may ﬁle complaints with
+
+OSHA if they believe that they have experienced discrimination or retaliation for reporting alleged violations of

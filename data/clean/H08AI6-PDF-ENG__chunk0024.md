@@ -1,17 +1,21 @@
-# HBR / Digital Article / Research: How Family Motivates People to Do Their Best Work
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb403fa1ef4aa026644a9526472834ef01786b94
+title: H08AI6-PDF-ENG
+---
+## employees good working conditions like stable pay and predictable
 
-days as “family and loved ones days oﬀ” to give employees time for
+schedules, as well as the resources to promote mental health and well-
 
-those who matter most. These policies can send a clear signal that an
+being. If family motivates employees at work, organizations need to do
 
-employer is supportive of people’s personal relationships, and could pay
+their part to support employees with families in turn, such as providing
 
-back dividends, given that employees are likely to come back into the oﬃce with refreshed motivation from the time spent with loved ones
+beneﬁts like parental leave and ﬂexible work, or designating certain
 
-and gratitude toward their employer for creating this time and space.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Employers should take steps to give family-motivated employees
+7
 
-the security they need to ameliorate any potential negative eﬀects.
-
-First, organizations can help employees feel that their job is stable.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

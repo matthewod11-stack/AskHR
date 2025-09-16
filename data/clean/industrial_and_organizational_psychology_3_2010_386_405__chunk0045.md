@@ -1,1 +1,15 @@
-# familiar
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: aaeeb4b333fb2b26f03134291550770f148c9db1
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# 396
+
+had not complained that participants in JDM research are not accountable for their decisions (Tetlock, 1985).
+
+Question 3: What are some examples of how you or other IOOB researchers haveusedtheoriesormethodsfromJDM toadvanceresearchorpractice?
+
+Jerel Slaughter: Let me begin with meth- odology. Speciﬁcally, the policy captur- ing methodology (e.g., Karren & Barringer, 2002) that comes from JDM has made important contributions to IOOB. As a reviewer and an action editor, I ﬁnd that I see a fair number of policy capturing sub- missions, and some of those do eventually getaccepted. Manypolicy capturing articles have been published in JAP and some have been very inﬂuential. As of early March 2010, the Rotundo and Sackett (2002) paper on judgments of job performance has been cited close to 100 times, and the Judge and Bretz (1992) paper on the effects of work values on job choice decisions has been cited over 150 times.
+
+The JDM topic that has become the most to the IOOB community is escalation of commitment, or the irra- tional continued commitment to a chosen course of action. Articles on escalation have been published in both JAP (e.g., Simonson & Staw, 1992) and AMJ (e.g., Ross & Staw, 1993), in addition to OBHDP In addition, of course (e.g., Ku, 2008). there have been applications of decision errors and biases to decisions that are made at work. Certainly Scott has done a lot of that work (e.g., Brooks, Highhouse, Russell, & Mohr, 2003; Highhouse, 1996; Highhouse & Johnson, 1996), and I have done some as well (e.g., Slaughter, Bag- ger, & Li, 2006; Slaughter & Greguras, 2008; Slaughter, Sinar, &Highhouse, 1999). For example, Scott and I have both done work on the decoy effect, a phenomenon in which manipulating the characteristics of an inferior third option that is never chosen causes preferences between two superior options to reverse. Obviously, we think that this phenomenon has alot of applicability to IOOB, especially in employee selection. An

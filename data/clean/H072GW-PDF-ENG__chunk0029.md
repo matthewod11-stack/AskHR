@@ -1,17 +1,19 @@
-# an accomplishment?
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e2b0b6c9d9cfc0159cb98a2130a0b88e75b2a45
+title: H072GW-PDF-ENG
+---
+## outcomes instead of “professional appearance,” presenteeism, or work
 
-To avoid evaluating style instead of substance, review your criteria for
+style supports both inclusion and productivity. For example, if a
 
-performance evaluation and promotion. Do these include references to
+performance evaluation form calls for assessing the number of phone
 
-subjectively deﬁned “potential” or “ﬁt”? Do they include preferences
+calls an employee made, but they exceeded their sales goal using a
 
-for a speciﬁc work style (e.g., teamwork)? When criteria other than
+well-crafted email blast, does it matter that they didn’t use phone calls?
 
-outcomes are considered, the most marginalized are the least likely to
+Or if a manager eﬀectively uses asynchronous collaboration technology
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to unite a hybrid team, is the lack of synchronous meetings a problem or

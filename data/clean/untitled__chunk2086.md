@@ -1,5 +1,25 @@
-# Scope of Content
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8806fd5fa9e8da8a125dcd59d30b868d380c3eaa
+title: untitled
+---
+# Industrial-Organizational Psychology
 
-A discipline is deﬁned by the kinds of questions that are asked, which can be determined by examining the content of the ﬁeld at different points in time. Changes in scope are evi- dent from reviewing textbooks (e.g., Viteles, 1932) and chap- ters in the Annual Review of Psychology and the Handbook of Industrial and Organizational Psychology (Dunnette, 1976; Dunnette & Hough, 1990–1992; Triandis, Dunnette, & Hough, 1994). Table 18.1 contains the contents of Viteles’s book. Table 18.2 contains a list of topics from the chapter titled “Industrial Psychology” in the ﬁrst volume of the An- nual Review of Psychology (Shartle, 1950). Similar topics were covered in chapters for the next 10 years. In 1961 and subsequent years, multiple chapters on related areas, such as personnel management, industrial social psychology, con- sumer psychology, personnel selection, program evaluation, group dynamics, and engineering psychology, were included. In 1964, the ﬁrst chapter devoted to organizational psychol- ogy was published. Table 18.2 displays the broad range of topics related to I-O psychology from 1961 to 2000.
+more common after the war (Viteles, 1932). Other labels were employment psychology (Burtt, 1926) and psychotech- nology (Jenkins, 1935). When the American Association of Applied Psychology (AAAP) formed in 1937, a section was created and labeled Industrial and Business Psychology (Section D). In 1945, the AAAP merged with the American Psychological Association (APA), and Division 14, Industrial and Business Psychology, was established. “Business” was dropped from the division’s name in 1962. In 1973, “Organi- zational” was added to the name, and APA Division 14 became the Division of Industrial and Organizational Psy- chology. This label remained when Division 14 incorporated in 1982 as the Society for Industrial and Organizational Psychology, Inc. (SIOP), Division 14 of the APA.
 
-Dunnette (1976) provided several observations about changes in content by comparing the 1950 Handbook of Ap- plied Psychology (Fryer & Henry, 1950) and the 1976 Hand- book of Industrial and Organizational Psychology (Dunnette, 1976). He noted that the 1950 Handbook consisted of tech- niques and applications; scant attention was given to re- search, research methodology, or theories of individual or organizational behavior. In contrast, the 1976 Handbook con- tents, shown in Table 18.3, emphasized research strategies and methods, theories of behavior, and the psychological inﬂuences and forces of organizational characteristics on individuals.The earlier handbook covered all areas of applied psychology, whereas the latter included only I-O, reﬂecting
+In recollection of these name changes, APA-Division 14 (now SIOP) past president (1972–1973) Robert M. Guion recalled,
+
+In the late 1960s (the decade of the youthful revolt), youthful in- dustrial psychologists . . . demanded a Division 14 name change to indicate a change in the focus of the ﬁeld. They opted for the name “Division of Organizational Psychology.” Vocal adherents did not want to eliminate the heritage. . . . There were enough traditionalists and enough “young Turks” to make compromise necessary. One name that was considered as more descriptive than any of the others was “Division of the Study of the Psy- chology of Behavior at Work.” It was never seriously considered (it deﬁes acronym), and thus I/O was born. I think this may have been the most important name-change debate in I/O history dur- ing the last half of the century. First of all, its abbreviation of general choice was I/O. The slash, /, is a printers’ symbol for “or.” Most of the next couple of decades were times of division, with people being either “I’s” or “O’s”—there is still not much real communication between the two components of the ﬁeld. The name of the division and the subsequent Society, however, used the conjunction “and,” implying integration of these two components. (Robert M. Guion, personal communication, July 27, 2000)
+
+Renewed interest in renaming SIOP to accurately reﬂect the scope of the science and practice recently materialized (i.e., Church, 2000).
+
+During the early years, deﬁnitions described the ﬁeld al- most exclusively as a technology with a focus on practical issues. For example, Kingsbury (1923) stated that business psychology or psychotechnology is “interested in acquiring facts and principles only in so far as they can be turned di- rectly to account in the solution of practical problems, in industry, selling, teaching, or other ﬁelds of human behavior” (p. 5). Forty-ﬁve years later, Blum and Naylor (1968) deﬁned the discipline as “simply the application or extension of psy- chological facts and principles to the problems concerning
+
+human beings operating within the context of business and industry” (p. 4).
+
+Over time, deﬁnitions included science (theories and re- search) and practice, and a wide range of work-related topics. In both editions of the Handbook of Industrial and Organiza- tional Psychology, Dunnette stated,
+
+Industrial and Organizational Psychology is today an academic discipline, an emerging blend of research, theory and practice. The blend offers great promise, in the years ahead, for further de- veloping and extending our knowledge of those behavioral processes which are critical to an understanding of interactions between persons and the institutions and organizations of a soci- ety. (Dunnette, 1976, p. 12, 1990, p. 23)
+
+Although the deﬁnition has expanded, a common underly- ing theme persists: improving the workplace and work lives.

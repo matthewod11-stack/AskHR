@@ -1,17 +1,7 @@
-## a tacit acceptance of repetition and routine.
-
-I hit this plateau at a high point in my career. The work I was doing
-
-with my team was sharp—strategically sound, rich with insight and
-
-delivering strong results. Two years earlier getting those kinds of results
-
-in similar projects would have ﬁlled me with delight and pride. But
-
-now I couldn’t help but feel that the creative leaps my team and I
-
-were making were becoming incremental and predictable. We weren’t
-
-recycling work, but we were recycling our ways of thinking. I knew we
-
-had the talent and vision to push further; we just needed to break out of
+---
+source_path: H08VUS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: baaa00f0ddb332bf4326c75cf10e24a69ca67c53
+title: H08VUS-PDF-ENG
+---
+## burnout, but something more subtle: practicing reliable excellence with

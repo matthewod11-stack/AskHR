@@ -1,13 +1,23 @@
-## management rather than sexual harassment.
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d12a15d073058f4ad3cde2919e04a3637491504d
+title: H04HPZ-PDF-ENG
+---
+# rules on the books.
 
-But one factor that’s often left out of this conversation is the role the
+We know, for example, that employees who have experienced
 
-courts have played in shielding companies from legal liability. When a
+harassment are often reticent to use company complaint procedures
 
-case does manage to reach the legal system, courts will often side with
+because they fear retaliation. Some believe that they must put up with
 
-a company due to the mere presence of an oﬃcial policy, regardless of whether the policy is actually eﬀective in addressing harassment
+harassment in order to get ahead. Research suggests that as few as
 
-or abuse. I call these policies “symbolic structures,” and they often
+25% of women who experience harassment use an internal company
 
-do more to protect employers from lawsuits than they do to protect
+complaint procedure or ﬁle a complaint with the EEOC. The few
+
+who do are often confronted with dismissive complaint handlers who
+
+treat their experiences as interpersonal problems or instances of poor

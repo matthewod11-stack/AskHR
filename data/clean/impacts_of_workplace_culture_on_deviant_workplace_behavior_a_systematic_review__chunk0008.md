@@ -1,9 +1,7 @@
-# Introduction
-
-A straightforward explanation of workplace culture is ‘‘how things are done around here’’ (Drennan, 1992). The term ‘‘workplace culture’’ refers to the shared values, opi- nions, or perspectives held by employees within a com- pany or organizational unit (Robbins & Coulter, 2018). Culture is best defined as a set of psychological predispo- sitions, known as basic assumptions, maintained by mem- bers of an organization that impact how the members behave (Schein, 1985a). Trevino (1986) in her study on ethical decision making in organizations, stated that envi- ronmental and organizational factors have been shown to influence employee behaviors and attitudes. Workplace culture can be a set of written or unwritten rules that must be adhered to by all employees to be accepted in the orga- nization. These organizational norms, or those estab- lished by formal and informal organizational policies, rules, and procedures; are defined by social groupings rather than by a set of absolute moral standards. Thus, certain workplace cultures can be construed as an act of deviance and impact an employee’s morale conscience.
-
-A group’s morale is described as a psychological state that all of its members share and consists of feelings of pleasure with the circumstances affecting the group (Wood et al., 2012). It is common knowledge that low morale in the workplace leads to burnout, which in turn can have severe repercussions on an employee’s mental health and overall welfare (Milner et al., 2016; Teo et al., 2021). It is safe to say that workplace culture which is an organizational factor, can affect an employee’s morale and lead to deviances. Sabitova et al. (2020) discovered that a supportive working atmosphere, collaborative teams, and fair, honest, and transparent processes were all positively connected with job morale in a study of healthcare employees. In addition, it has been discovered that working in a learning culture improves clinical ser- vices and that assisting clinicians in their work boosts morale and increases worker retention (Blanchard et al., 2020; Sabitova et al., 2020; Senge, 2006).
-
-Generations of sociologists (Blake & Davis, 1964; Etzioni, 1988; Parsons, 1937; Scott, 1971) beginning with Durkheim (1895, 1903), have argued that moral norms and laws are essential to social organization because they prevent individuals from engaging in deviant behavior and promote social solidarity and cooperation among members of society. Morality has been demonstrated to be a strong independent predictor of criminal probabilities and misbehavior, with a strength that appears to outper- form self-control as a predictor of criminal probabilities and misbehavior, requiring greater attention as a potent (Antonaccio & variable in understanding misconduct Tittle, 2008).
-
-A prominent white-collar crime theory holds that organizations have diverse cultures that allow legal
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: a8d9834795fe54a805246e65d68c6d8277b92dac
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# 2

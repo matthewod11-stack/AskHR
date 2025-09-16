@@ -1,17 +1,7 @@
-# Call to Action:
-
-The future of AI is agentic. We encourage developers to embrace these concepts and
-
-begin building the next generation of intelligent applications. Start experimenting with the
-
-tools and techniques discussed in this whitepaper. Explore the resources available, such
-
-as Google Agentspace, NotebookLM Enterprise, Vertex Eval Service, Cloud Observability,
-
-and Vertex AI Search, to accelerate your development process. Dive into the provided code
-
-examples, tutorials, and documentation to gain hands-on experience. Build, evaluate, iterate,
-
-and contribute to the growing community of agent developers. The possibilities are limitless,
-
-and the time to build is now! Specifically, get started with the code and Colab notebooks in
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: bb78e1ef06a2609dd924a748397be5f7f4c90960
+title: agents_companion
+---
+# we contract work from other companies.

@@ -1,5 +1,13 @@
-# Houghton Mifﬂin.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 40d622c3a96991bd8858e7cbdfcca0ef71e3933e
+title: untitled
+---
+# Norton.
 
-Thorndike, R. L. (1959). The California Psychological Inventory: A review. In O. K. Buros (Ed.), Fifth mental measurements yearbook (pp. 742–744). Highland Park, NJ: Gryphon Press. Thorndike, R. L., Hagen, E. P., & Sattler, J. M. (1986). Stanford- Binet Intelligence Scale: Guide for administering and scoring the 4th ed. Chicago: Riverside.
+Sundberg, N. D. (1961). The practice of psychological testing in clinical services in the United States. American Psychologist, 16, 79–83.
 
-Trzepacz, P. T., & Baker, R. W. (1993). The psychiatric mental sta-
+Suzuki, L. A., Ponterotto, J. G., & Meller, P. J. (Eds.). (2000). The handbook of multicultural assessment (2nd ed.). New York: Wiley.
+
+Terman, L. M. (1916). The measurement of intelligence. Boston:

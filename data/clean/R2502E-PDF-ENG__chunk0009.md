@@ -1,7 +1,9 @@
-# especially at senior levels?
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5801134535416ad94ef1397e10ec2dc36d1e341
+title: R2502E-PDF-ENG
+---
+## translate into better representation all the way up the professional
 
-One of the big reasons is that education and entry-level skills get
-
-you only halfway to your full earning potential. The rest is based on
-
-knowledge, skills, and wisdom gained on the job. We call this experience
+ladder? Why do these stubborn gender gaps exist in the workplace,

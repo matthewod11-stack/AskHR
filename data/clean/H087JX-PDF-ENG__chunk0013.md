@@ -1,33 +1,23 @@
-# HBR / Digital Article / When Someone You Manage Isn’t Following the Return-to-Offic…
+---
+source_path: H087JX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2667f40dbf216dc145632dcdff9401b8a3d66262
+title: H087JX-PDF-ENG
+---
+## Carol Kulik, a professor at the University of South Australia and the
 
-Show compassion. The tension over returning to the oﬃce might seem
+author of Human Resources for the Non-HR Manager advises working
 
-as if it’s about location, but it’s actually about autonomy, says Kulik.
+with your team members to “co-design the return” together. “That
 
-“The pandemic was the ﬁrst time workers had a say in creating their
+means addressing their concerns, advocating for them where possible, and ensuring they derive value from spending more time at the oﬃce.”
 
-own routines, and it oﬀered them a taste of autonomy,” she says. Your
+Here are a few steps to try if your company is insisting on RTO but some
 
-employees’ reluctance to relinquish that is understandable: “They’re
+of your employees are still resisting coming in.
 
-not voluntarily walking back into the cage.”
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Ask your resistant team members about their concerns and the diﬃculties they face coming into the oﬃce. Listen attentively,
+2
 
-empathize, and oﬀer support. Markman warns against inadvertently
-
-adding to team members’ complaints or fostering negativity, as it could
-
-undermine the policy and fuel resentment. “You can show empathy for
-
-the situation, while still focusing on the advantages of the policy for
-
-both the organization and individuals,” he says.
-
-Be collaborative — and look for creative solutions. One of the most
-
-powerful things a manager can do amid this transition is to ask people
-
-what they need and be responsive to that, says Markman. “Say, ‘I know it’s a change. I know it’s diﬃcult. What would help?’”
-
-Some of the biggest challenges associated with RTO include money
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

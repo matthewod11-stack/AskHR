@@ -1,7 +1,9 @@
-# Hierarchical Pattern
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: bed2396797143e5d5e2d974a4c7538dca60eff06
+title: agents_companion
+---
+# Patterns in Use
 
-A central Orchestrator Agent classifies queries and routes them to specialized agents. For
-
-example, when a user asks "Find me a sushi restaurant nearby," the Orchestrator detects
-
-this as a navigation request and routes it to the Navigation Agent, which handles location
+Let’s look at the some common ways used to combine these agents.

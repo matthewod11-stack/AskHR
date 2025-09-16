@@ -1,7 +1,41 @@
-## “backlash eﬀect,” or an increase in hostility toward women.
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f80984a3b8abed8de2147e04970ba1594495c38a
+title: H0522T-PDF-ENG
+---
+## harassment, unwanted sexual attention, and sexual coercion. Gender
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+harassment involves negative treatment of women that is not
 
-2
+necessarily sexual, but may include things like a supervisor or coworker
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+making sexist remarks, telling inappropriate stories, or displaying sexist
+
+material. Unwanted sexual attention includes coworker or supervisor
+
+behaviors such as staring, leering, ogling, or unwanted touching. Sexual
+
+coercion includes bribing or pressuring women to engage in sexual
+
+behavior. We also measured participants’ self-esteem and self-doubt, to
+
+see how these correlated with their experiences.
+
+What did we ﬁnd? In terms of what has changed, we saw that fewer
+
+women in our sample reported sexual coercion and unwanted sexual
+
+attention following the #MeToo movement. In 2016, 25% of women
+
+reported being sexually coerced, and in 2018 that number had declined
+
+to 16%. Unwanted sexual attention declined from 66% of women to 25%.
+
+In contrast, we noticed an increase in reports of gender harassment,
+
+from 76% of women in 2016 to 92% in 2018. This data suggests that
+
+while blatant sexual harassment — experiences that drive many women
+
+out of their careers — might be declining, workplaces may be seeing a

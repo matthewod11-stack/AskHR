@@ -1,9 +1,31 @@
-# relationships with.
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 597034cb0b5fd7c8f882e1525841e52e6cf10b83
+title: R2402F-PDF-ENG
+---
+# reﬂective time.
 
-Innovation is more likely to succeed when it is a curated process in which an intermediary takes responsibility for sparking and sustaining collaboration among the people involved.
+Consider how community dinners are held. Fellows are divided into
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+tables of ﬁve or six people plus a UI mentor. Each table is given a
 
-5
+prompt; for example, “Tell us about a decision you made that changed
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+your life” or “Describe an object that is meaningful to you.” Each fellow
+
+gets ﬁve minutes to respond without interruptions. Fellows often share
+
+personal and emotional experiences. As one participant recalls, “There
+
+was not one dinner without some tears.”
+
+The programs include periods of time oﬀ for activities such as yoga
+
+or quiet walks. The importance of having space for reﬂection is
+
+well documented in organizational psychology research: It is how
+
+people come to understand others with whom they have shared
+
+intense experiences and discover whom they might be able to form

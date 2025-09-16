@@ -1,9 +1,15 @@
-# L&D programs.
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79b5baa75635ca35c63588b9dd4ca7ea00c150f8
+title: H07TEC-PDF-ENG
+---
+## uncertain, complex, and ambiguous environments. Historically, the
 
-This article was originally published online on October 16, 2023.
+challenge with implementing L&D programs has been the diﬃculty
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+in quantifying the impacts on organizational performance. Utilizing a
 
-7
+balanced benchmarking approach to assess training needs and applying training where it can be most eﬀective is an approach that can overcome
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+this challenge and ensure your organization is getting the most out of its

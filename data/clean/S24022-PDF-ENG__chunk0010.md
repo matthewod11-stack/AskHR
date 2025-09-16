@@ -1,17 +1,25 @@
-# the lower three quartiles.
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e074245f72ee0c07cc87c59aad976d826f9a6096
+title: S24022-PDF-ENG
+---
+## ﬁve-year compound annual growth rates (CAGRs) over the period 2018
 
-Next, we sought to understand what allowed the growth champions to
+to 2022 and focused on the top quartile of growth performers. We rank-
 
-show such steady upward trajectories in revenue. Was it their business
+ordered those 535 companies—we call them growth leaders—by revenue
 
-models? Were they simply faster at putting diﬀerentiated solutions in
+growth for each year within the period and identiﬁed the ones that were
 
-customers’ hands? Did acquisitions play a role in propelling consistent
+in the top half every single year. That’s remarkably consistent growth,
 
-growth? Those factors mattered, of course, but our study conﬁrmed
+and for that reason, we call those 234 companies growth champions.
 
-what we have observed in our work for many years: The highest-
+Both groups in the top quartile had similar average CAGRs over
 
-performing organizations invested in a growth system, an integrated
+time, but the growth champions demonstrated a consistency that was
 
-collection of capabilities and assets that drove both short-term and
+signiﬁcantly more valued by the market, earning an average valuation of
+
+4.2 times revenue versus 2.8 for growth leaders and 1.7 for companies in

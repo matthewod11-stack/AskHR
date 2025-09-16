@@ -1,21 +1,35 @@
-# experiment group.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8602073c17b54ea1c527a5a7ca48725f335df06
+title: H06K3M-PDF-ENG
+---
+# less productive.
 
-While still a work in progress, Uber’s experiments are showing that
+Uber found that employees were able to take more control over their
 
-it takes both information and enablement to combat collaborative
+workloads, and improve their feelings of well-being, when they had
 
-overload. Insights are necessary to provide employees with the context
+both the insights and the tools they needed to be successful. The
 
-for action, but are not suﬃcient by themselves because they don’t
+company is addressing collaborative overload through a two-pronged
 
-provide a channel for action. Speciﬁc interventions — such as focus time applications and workspace design — can enable more eﬀective
+approach of information and enablement. For example, the company
 
-collaboration, but employees may not utilize them fully if they don’t
+ran an experiment in late 2020 where they communicated the impact of
 
-understand the context behind why they are important. It takes both tools and context to make a real diﬀerence.
+focus time on productivity (along with tips for how to increase it) to a
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+group of employees and then compared their focus time to employees
 
-5
+who did not get this information. Focus time improved moderately
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+for the informed group. In another experiment, they deployed an
+
+application that helped employees deﬁne the amount of focus time they
+
+needed, and then optimized their calendars for them by moving and
+
+managing meetings accordingly (working much like a virtual executive
+
+assistant). This led to about a 20% increase in focus time in the

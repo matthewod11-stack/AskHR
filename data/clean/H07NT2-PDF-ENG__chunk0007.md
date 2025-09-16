@@ -1,23 +1,31 @@
-## HBR / Digital Article / When Blind Hiring Advances DEI — and When It Doesn’t
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d3153e0fe860f9e4dbade6d12f7838a8b401088
+title: H07NT2-PDF-ENG
+---
+# jenniholma/Getty Images
 
-practitioners indicated that about 20% worked for organizations that
+Inspired by the results of the famous orchestra study — where
 
-used blind hiring and about 60% were familiar with it.
+symphony orchestras began hiring more women by having people
 
-What many practitioners may be unaware of, however, is the large span
+audition from behind a screen that concealed their gender — some
 
-of new research on blind hiring that has been published since that
+major organizations are now using a “blind hiring” strategy to help
 
-orchestra study in 2000. Over the past two decades, the eﬃcacy of blind
+achieve goals related to diversity. The typical blind hiring process
 
-hiring as a strategy to boost hiring outcomes for members of historically
+involves stripping information from job application materials before
 
-disadvantaged groups has been tested in the “ﬁeld” — that is, in real
+review that could signal applicants’ memberships in speciﬁc groups
 
-hiring decisions in real organizations — in various settings across
+and cue discrimination. Though not yet widespread, this de-biasing
 
-Europe, Canada, and the U.S. By understanding the results of these
+strategy is gaining traction: A recent survey of over 800 U.S.-based HR
 
-recent studies, decision-makers in organizations can now determine, at
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-a very granular level, whether a blind hiring strategy is likely to help or hinder their organizations’ eﬀorts to diversify pools of new hires.
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,11 @@
-# the future.
+---
+source_path: H08T1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f317a0fa387f5983ecda9d8942411095cbb46da
+title: H08T1K-PDF-ENG
+---
+# Don’t
 
-- Ignore reality, or else you’ll appear tone-deaf; acknowledge challenges
+- Oﬀer false hope when you don’t have all the answers; instead, share
 
-and uncertainties, and remind your team what it’s capable of.
-
-- Go quiet; be a positive presence for your team by modeling calm, open,
+what you know, what you’re watching, and how you’re preparing for

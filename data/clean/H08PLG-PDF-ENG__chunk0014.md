@@ -1,21 +1,13 @@
-# Technologies
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb8aa27bd9a60b45ea4c9b0060f7e13bc1119333
+title: H08PLG-PDF-ENG
+---
+# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
 
-A primary concern for AI developers and companies here is imbalances
+In the current U.S. political climate, guardrails against AI bias are
 
-in data that could create harm. Developers should consider: 1) seeking
+unlikely to be a regulatory priority. Here’s how company leaders can
 
-out datasets that are representative of the populations they seek to
-
-serve, 2) checking the distribution of potential sources of bias and
-
-alternative demographic attributes in the training data, and 3) using
-
-metrics such as disparate impact to measure outcome disparity between
-
-groups, or equalized odds to ensure that a model’s predictions are
-
-equally accurate across diﬀerent protected groups.
-
-Companies can also turn to available tools, such as IBM’s AI Fairness
-
-360 Toolkit or open-source tools, such as Fairlearn, as they pursue such
+take action and proceed responsibly:

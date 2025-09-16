@@ -1,19 +1,31 @@
-# the workforce.
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2ecd55a25a1c26501d5333c4df6c5f5815a72ea
+title: H07MI6-PDF-ENG
+---
+# HBR / Digital Article / 6 Key Levers of a Successful Organizational Transformation
 
-“In a transformation, things pop up all the time,” as Christiane Wijsen,
+design, rather than something that was presented to them as a fait
 
-head of corporate strategy at Boehringer Ingelheim, told us. “When you
+accompli…This minimized the numbers of active detractors.”
 
-have a movement around you, supporters will buﬀer it and tweak it each
+- 6. A shared sense of ownership over the outcome
 
-time. When you don’t have this movement, then you’re alone.”
+In the successful transformations we studied, leaders and employees
 
-- • •
+worked together to co-create an environment where everyone felt a
 
-To conclude, it’s worth reiterating that all transformations are tough.
+shared sense of ownership over the transformation vision and outcome.
 
-Even during successful programs, there will come a time where people start to feel stressed. The skill at this diﬃcult stage is being able
+A prime example of this is many companies’ rapid shift to virtual and
 
-to energize your workforce and turn that heightened pressure into
+remote working during the pandemic. Because of the speed and urgency
 
-something productive, as opposed to letting the transformation spiral
+of the change, leaders needed to collaborate closely with the workforce
+
+to create new ways of working and be much more responsive to their
+
+views on what was or wasn’t going well. This mass co-creation helped
+
+build a sense of pride and shared ownership across both leadership and

@@ -1,13 +1,19 @@
-# MSHA's regulations.
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: f739e141d48528e1fb9a88aba3fa136362ef0ed4
+title: Employment Law Guide - Mine Safety and Health
+---
+# Compliance Assistance Available
 
-MSHA's Web site contains compliance assistance information, guidance, and helpful tips for the mining community. For example, it lists upcoming seminars designed for mine operators and others to receive the
+MSHA develops safety and health training programs in cooperation with industry and labor; tests new mining
 
-latest information about the requirements of a rule or to hear about solutions to various safety and health
+equipment; works with other agencies to advance safety and health research programs; and compiles and
 
-problems. Also, the website provides model forms, records, and plans for the mine operator to use to comply
+analyzes accident, injury, and illness data to better address serious workplace hazards. MSHA has developed
 
-with MSHA requirements, thus avoiding the need for the operator to create these items independently.
+booklets, pamphlets, and pocket-size laminated cards that address known safety and health hazards and identify acceptable compliance processes. MSHA routinely distributes its accident prevention materials to the
 
-Through the Web site, mine operators may ﬁle various reports directly with MSHA.
+mining industry at large, or to those sectors of the industry that are experiencing the injuries addressed by the
 
-Among the many resources available are:
+materials. MSHA also has a number of elaws Advisors that provide assistance in understanding and applying

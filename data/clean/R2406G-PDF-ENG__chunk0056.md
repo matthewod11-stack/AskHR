@@ -1,23 +1,19 @@
-## their accounts outside Voya into the app.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62bf698883f45cb069538756c4b4533113d50b4e
+title: R2406G-PDF-ENG
+---
+## HBR / Magazine Article / Personalization Done Right
 
-Next Voya built a “test engine” to relentlessly experiment in order
+Then Voya experimented with new customer experiences that
 
-to learn how best to encourage members to take a useful action,
+were driven by personalization. When customers gave Voya a full
 
-such as increasing their retirement contributions, setting up a health
+picture of their ﬁnancial portfolios, the company quickly produced
 
-savings account, or moving personal savings into an account with better
+recommendations for rebalancing the portfolios for optimal health,
 
-interest rates. The company started with its own employees, working
+even if it meant money would be moved out of Voya accounts. By being
 
-through the execution issues and building its base of data. Then it
-
-scaled up those eﬀorts and continually learned from its experiments.
-
-AI capabilities helped spot which members would beneﬁt, helped set up
-
-the cells for testing multiple variables, and generated creative variants
-
-for the program team to consider.
-
-Taken together, these personalization eﬀorts contributed to not only
+objective, Voya built trust, and members felt encouraged to add more of

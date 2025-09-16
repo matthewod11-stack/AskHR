@@ -1,11 +1,25 @@
-# churn.
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da4432c072f43ddc5a9892407ffb073587b4c728
+title: H08LEQ-PDF-ENG
+---
+# from recommendations.
 
-AI also helps Netﬂix analyze viewership patterns and feedback to
+Even the thumbnail images for each title oﬀered on a Netﬂix viewer’s
 
-identify the kinds of content and themes that are popular with
+screen are personalized: AI is used to create and select which thumbnail
 
-viewers. But using this AI-driven data to produce content that resonates
+images — drawn from the tens of thousands of still frames that
 
-with Netﬂix’s diverse audience requires the experience and creativity
+each movie comprises — would best engage which viewers. Further
 
-of humans, who must make the ultimate decisions about content
+personalization is achieved through adaptive bitrate streaming, using
+
+AI to dynamically optimize the quality of streaming based on the
+
+user’s internet speed and device capabilities. This approach minimizes
+
+buﬀering, ensures the kind of smooth viewing experience that’s
+
+essential for maintaining user satisfaction, and reduces customer

@@ -1,5 +1,13 @@
-## Professional and Organizational Development Network, Memphis, 1979.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4147d0eb22c453ae98275954a0db84f9d295ac82
+title: document_resume
+---
+## Arthur M. Cohen, "Evaluation of Faculty," Commands College Review 2
 
-- 10. Linda Darling-Hammond, Arthur E. Wise. and Sara R. Pease, "Teacher Evaluation in the Organizational Context. A Review of the Literature," Review of Educational Research 53 (Fall 1983), pp. 285-328. Paul H. Thompson, Robin Z. Baker, and Norman Smallwood, "Improving Professional Development by Applying the Four Stage Career Model," Organizational Dynamics 15 (Autumn 1986), p. 50.
+(Summer 1974), p. 12-21.
 
-12.
+9.
+
+L. Wilkerson, "Faculty Development." Paper presented at Conference of

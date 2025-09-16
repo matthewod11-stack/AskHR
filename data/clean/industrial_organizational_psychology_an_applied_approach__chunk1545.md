@@ -1,11 +1,17 @@
-# Chapter Summary
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7d661c18cb24b1e4e6b29ce82b9710b7dfa4364d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# What Do You Think? 7
 
-In this chapter you learned: 7
-
-Test length, item homogeneity, and scorer accuracy can affect the reliability of a test. There are three ways to measure reliability: (a) the test-retest method, which measures temporal stability; (b) the alternate-forms method, which measures forms stability; and (c) the internal consistency method (split-half, K-R , and coefficient alpha), which measures item homogeneity. Tests can be validated using five approaches: content, criterion, construct, known-group, and face. Information about tests can be obtained from such sources as the Measurements Yearbook. The utility of a test can be determined using the Taylor-Russell tables, the Lawshe tables, proportion of correct decisions, and utility formulas. The fairness of a test can be determined by testing for adverse impact, single-group validity, and differential validity. Selection decisions can be made in four ways: top-down, rule of three, top-down with banding, or passing scores.
+To increase diversity, it is often legal to consider race or gender as a factor in selecting employees. Although legal, do you think it is ethical that race or gender be a factor in making an employment decision? How much of a role should it play?
 
 7
 
-7
+Is it ethical to hire a person with a lower test score because he or she seems to be a better personality fit for an organization?
 
 7
+
+If an I/O psychologist is employed by a company that appears to be discriminating against Hispan- ics, is it ethical for her to stay with the company? What ethical obligations does she have?

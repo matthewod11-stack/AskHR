@@ -1,11 +1,11 @@
-# I
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: fd659cb4f4dec58cf8caba0b954a226c55f8c9d8
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# M
 
-d e d a o l n w o D
+,
 
-proposition therefore suggests that engagement is associated with individual, team and organizational performance and competitive advantage:
-
-P2. Organizations that create the conditions that support, enhance and sustain employee engagement will have higher levels of job, unit and organizational performance, and therefore competitive advantage.
-
-In terms of how a strategic focus on HRM systems creates competitive advantage, as previously noted, there are a number of relevant theoretical frameworks. For example, and consistent with Figure 1, Bowen and Ostroff (2004) explained that human resource management systems influence organizational climate (Bowen and Ostroff, 2004) because the implementation of a coherent, consistent and strategically focused suite of HRM policies, practices and procedures communicates to employees expectations about the skills, knowledge, motivations, attitudes, norms, values, and behaviours expected within their organization (Bowen and Ostroff, 2004). As a consequence “shared perceptions” emerge about the behaviours, values and norms that are important to an organization’s functioning. As such organizational climate provides an important upstream context for individual and organizational performance. Sparrow (2001) defined organizational climate as perceptions about a relatively stable set of value orientations of the organization as a whole, facets of organization and management style, espoused values and permitted behaviours, which influence the behaviour of organizational members with respect to organizational effectiveness. Furthermore, when employees experience a coherent system of engagement related policies, practices, and procedures, all aimed at optimizing individual, group and organizational effectiveness, the likelihood of focused effort towards the achievement of organizational goals is heightened (Macey and Schneider, 2008). In support of this claim, Takeuchi et al. (2009) showed in a multi-sample study that the influence of HRM practices, in the form of high-performance work systems, on employee attitudes was mediated by organizational climate. Thus, our third proposition is:
-
-P3. Human resource practices strategically focused on engagement will have a
+Y T I S R E V N U R E T S A C N A L y b

@@ -1,15 +1,17 @@
-# An Executive Decides
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4e2e14ab0551a1e3ed8b661975d6cb6fa896c31
+title: H08GJ6-PDF-ENG
+---
+## parallel. The tighter the budget constraint — think, for example, of the
 
-Investing scarce resources into new product development, early-stage
+extreme selectivity of pharmaceutical companies when they populate
 
-ventures, or scientiﬁc research, can be daunting. The scope for
+their portfolio of clinical trials — the greater the importance of choosing
 
-breakthrough ideas is huge and ﬁnancial means typically limited.
+a rule that can identify the best project(s) among many candidates
 
-Sometimes these decisions come down to one senior leader.
+To that end, we considered some of the common ways organizations
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+make these innovation project decisions:

@@ -1,15 +1,21 @@
-# results.
+---
+source_path: H08DIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5cb4507e4f647a089fad7b65a4023a9a631dd79
+title: H08DIY-PDF-ENG
+---
+## HBR / Digital Article / When a Coworker You Don’t Like Becomes Your Boss
 
-Taken together, these ﬁve strategies might just help you transform a
+you’ve clashed, and then with genuine sincerity and curiosity, explain
 
-challenging situation into career growth.
+that you’re committed to helping the team succeed and ask how you can support that eﬀort.
 
-This article was originally published online on September 05, 2024.
+If you suspect that your boss won’t be receptive to feedback, might
 
-Kelli Thompson is a women’s leadership coach and speaker. She is the author of Closing The Conﬁdence Gap: Boost Your Peace, Your Potential & Your Paycheck. You can download a free chapter here.
+react negatively, or isn’t even aware of the problem, try a less direct
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+approach. You might ask what they believe will be the keys to successful
 
-5
+collaboration, what they value in reporting relationships, and what
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+speciﬁc actions you should (and shouldn’t) take to help them achieve

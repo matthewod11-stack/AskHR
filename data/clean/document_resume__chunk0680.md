@@ -1,13 +1,11 @@
-## Wexley and Richard Klimoski. They suggest:
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 59bee1f40a0e002ccf61e662bf39345be19600b4
+title: document_resume
+---
+# Minimizing Rater Errors
 
-The person doing the assessment must. (1) he in a position to observe the behavior and performance cf the individual of interest, (2) be knowledgeable about the dimensions or features of performance, (3) have an understanding of the scale format and the instrument itself, and (4) must be motivated to do a conscientious job of rating.s
+it would not be wise to ignore these important findings. Ratings turned in by indi- viduals who are poorly adjusted or are undergoing a personal or emotional crisisor who have proven to be grossly mattentive to details- -are suspect and could be very damaging to the integrity of the performance appraisal process.
 
-Note that in an academic setting this may call for multiple raters, each attending to a specific aspect of a professor's performance. For example, the department head may be in the best position to observe and es aluate adherence to policy and departmental service; students may be the best sources of data regarding the professor's day-to-day classroom performance, peers may be the best judges of the adequacy of syllabi and tests; and outside reviewers may be the best sources of unbiased evaluations of wnting and creative work.
-
-The point is that there are some steps the administrator can take to make certain that persons are fairly evaluated. Individuals NA, ho. ( I) have no opportunity to observe the performance in question, (2) do not understand the rating scale, (3) are obviously biased toward or against the individual being appraised, t4) are poorly adjusted or undergoing a personal or emotional crisis, or (5) have proven to be grossly inattenuve to details should not be selected to Like part in the performance appraisal process.
-
-- 2. Clarify the purpose of the performance appraisal program.
-
-Performance appraisal ratings can be used for a variety of purposes, including providing feedback to the ratee, justify ing personnel actions, identify ing training needs and special talents, placing employees into propel jobs, fostering accountability, and improving organizational effectiveness.'' The specific purpo:,e for which appraisal ratings are collected can affect the molly awl --and thus the behavior -of the raters who are providing the scores, as noted in the l'ailowing passage from the work of Wallace Lonergan:
-
-Appraisal programs are doomed to failure if employees associate them with determination of firing and layoffs Such negative associations not only engender resentment and distrust on the part of the employees, but also put the assessing supervisor on the spot Similarly, if appraisal programs become associated with favorable management action, a supervisor, wishing to show the department in a good light, might understandably upgrade an employ ee's ratings, thus adding leliberate distortion to Iready biased human judgment. in
+A more practical approach to the selection of potential raters is offered by Kenneth

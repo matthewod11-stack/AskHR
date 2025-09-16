@@ -1,7 +1,7 @@
-## The result: fewer delays, better quality control, and a stronger position
-
-with retailers. The procurement lead’s question kept Darryl’s company
-
-from waiting for things to “go back to the way they were.” The question
-
-didn’t oﬀer a prediction, it forced a new frame. And that reframing led
+---
+source_path: H08Q2Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56a20b703a4ac327a621fa1705828f6c8c930fcf
+title: H08Q2Q-PDF-ENG
+---
+# switch.

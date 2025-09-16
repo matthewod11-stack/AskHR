@@ -1,15 +1,35 @@
-# HBR / Digital Article / Your Company Wants to Close Pay Gaps. Here’s Where to Start.
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8e1b04f86fd544df0f4a6959b8d237bc009b8e4
+title: H08NEW-PDF-ENG
+---
+## then, the larger the organization and the more regimented its pay
 
-Pay equity presents both consequences and opportunities for ﬁrms.
+structure, the less wiggle room is needed.
 
-On the one hand, ﬁrms must ensure their pay gaps do not call down
+- 4. Practice proactive pay equity management
 
-the wrath of stakeholders or regulatory authorities. On the other
+Get ahead of future pay gaps by ensuring that new hires (and
 
-hand, ﬁrms that deﬁne clear pay equity goals and adhere to them set
+internal promotions) get unbiased starting salaries (which can be
 
-themselves apart as good places to work, and their employees are less
+evaluated based on a ﬁrm’s pay equity model). A proactive approach
 
-likely to leave. We strongly encourage ﬁrms to take a proactive approach
+also includes monitoring pay equity in real time and accounting for
 
-to pay equity, whether to minimize regulatory risk, ensure minimal
+the changes in the workforce as they happen. Finally, it includes
+
+making ad hoc adjustments in a data-informed manner that ensures
+
+internal consistency with similarly situated employees. These days,
+
+sophisticated but user-friendly software exists to help with this process.
+
+. . .
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

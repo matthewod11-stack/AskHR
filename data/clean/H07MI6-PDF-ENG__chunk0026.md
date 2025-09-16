@@ -1,13 +1,25 @@
-## downward into pessimism and underperformance.
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b47cd0040bb820a9d2114c73961bd51b7a73c8c4
+title: H07MI6-PDF-ENG
+---
+# the workforce.
 
-What we saw throughout our research is that leaders who are
+“In a transformation, things pop up all the time,” as Christiane Wijsen,
 
-truly working with their employees are much more successful. They
+head of corporate strategy at Boehringer Ingelheim, told us. “When you
 
-acknowledge and manage emotions, rather than pushing them aside or
+have a movement around you, supporters will buﬀer it and tweak it each
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+time. When you don’t have this movement, then you’re alone.”
 
-7
+- • •
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+To conclude, it’s worth reiterating that all transformations are tough.
+
+Even during successful programs, there will come a time where people start to feel stressed. The skill at this diﬃcult stage is being able
+
+to energize your workforce and turn that heightened pressure into
+
+something productive, as opposed to letting the transformation spiral

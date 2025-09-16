@@ -1,5 +1,9 @@
-# The Empiricist Tradition
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3c382ece5e5de73ec466c1969edc88f4328f8e01
+title: untitled
+---
+# The Philosophical Period 115
 
-Notwithstanding the subjectivity of consciousness, empiri- cism began with John Locke (1632–1794), who accepted consciousness at face value, trusting it as a good, if imperfect, reﬂection of the world. Locke concisely summarized the cen- tral thrust of empiricism: “We should not judge of things by men’s opinions, but of opinions by things,” striving to know “the things themselves.” Locke’s picture of cognition is es- sentially Descartes’. We are acquainted not with objects but with the ideas that represent them. Locke differed from Descartes in denying that any of the mind’s ideas are innate. Descartes had said that some ideas (such as the idea of God) cannot be found in experience but are inborn, awaiting acti- vation by appropriate experiences. Locke said that the mind was empty of ideas at birth, being a tabula rasa, or blank slate, upon which experience writes. However, Locke’s view is not too different from Descartes’, because he held that the mind is furnished with numerous mental abilities, or facul- ties, that tend automatically to produce certain universally held ideas (such as the idea of God) out of the raw material of experience. Locke distinguished two sources of experience, sensation and reﬂection. Sensation reveals the outside world, while reﬂection reveals the operations of our minds.
-
-Later empiricists took the Way of Ideas further, creating
+with any conﬁdence? Asking this question created a degree of paranoia in subsequent philosophy. Descartes began his quest for a foundation upon which to erect science by suspecting the truth of every belief he had. Eventually he came upon the apparently unassailable assertion that “I think, therefore I am.” But Descartes’method placed everything else in doubt, including the existences of God and the world. Related to the philosophicalquestionsarepsychologicalones.Howandwhy does consciousness work as it does? Why do we experience the world as we do rather than some other way? Because the answers to the philosophical questions depend on the answers to the psychological ones, examining the mind—doing psychology—became the central preoccupation of philoso- phy before psychology split off as an independent discipline. Three philosophical-psychological traditions arose out of the new Cartesian questions: the modern empiricist, realist, and idealist traditions. They have shaped the psychology of cognition ever since.

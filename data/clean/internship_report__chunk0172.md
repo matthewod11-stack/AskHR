@@ -1,5 +1,9 @@
-# which position, salary, allowances, date of commencement of employment and necessary
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 5637c06943445c021498f0d8f95aec1a71df9185
+title: internship_report
+---
+# II.(cid:32)Appointment Letter:
 
-instructions are included. If the applicant accepts the offer, he / she is to sign a duplicate copy of
-
-the letter and return it to the Human Resources Department.
+After completion of selection process successful applicant is given an Appointment Letter in

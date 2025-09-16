@@ -1,9 +1,7 @@
-# References
-
-Alsalem M. and Alhaiani A. (2007). Relationship between organizational
-
-justice and employees’ performance. Aledari, 108, 97–110.
-
-Anderson J. and Gerbing D. (1988). Structural equation modeling in practice: A review and recommended two-step approach. Psychological Bulletin, 103, 411–423.
-
-Armağan Y. and Erzen E. (2015). The effect of leadership on organizational justice. In Leadership and Organizational Outcomes (pp. 239–254). Cham, Switzerland: Springer.
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: b68ef4a75a9e9afa231bd6564d7ca58f2f92798d
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# Financial Support. None.

@@ -1,7 +1,25 @@
-# number. Th e Washington Post, p. C4.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 59583a1d626e0d2ffecb10f5eee54b2c640af36a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Hill.
 
-de Castro, J. M., & Brewer, E. M. (1992). Th e amount eaten in
+Davis, T. R. (1984). Th e inﬂ uence of the physical environment in oﬃ ces. Academy of Management Review, 9, 271–283. Day, D. V., & Schleicher, D. J. (2006). Self-monitoring at work:
 
-meals by humans is a power function of the number of people present. Physiology and Behavior, 51(1), 121–125. Deci, E. L. (1972). Th e eﬀ ects of contingent and noncontingent
+A motive-based perspective. Journal of Personality, 74(3), 685–714.
 
-rewards and controls on intrinsic motivation. Organizational Behavior and Human Performance, 8, 217–229.
+Day, D. V., Schleicher, D. J., Unckless, A. L., & Hiller, N. J. (2002). Self-monitoring personality at work: A meta-analytic investigation of construct validity. Journal of Applied Psychology, 87(2), 390–401.
+
+632
+
+references
+
+Day, D. V., & Sulsky, L. M. (1995). Eﬀ ects of frame-of-reference training and information conﬁ guration on memory organization and rating accuracy. Journal of Applied Psychology, 80(1), 158–167.
+
+Dean, M. A., Roth, P. L., & Bobko, P. (2008). Ethnic and gender
+
+subgroup diﬀ erences in assessment center ratings: A meta- analysis. Journal of Applied Psychology, 93(3), 685–691.
+
+Deane, C. (1999, January 10). Don’t worry, we’ve got your

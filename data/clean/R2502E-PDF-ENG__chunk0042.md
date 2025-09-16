@@ -1,7 +1,21 @@
-## HBR / Magazine Article / How Women Can Win in the Workplace
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c9c5967893280ccff5c825a8fa35fb3522a817b
+title: R2502E-PDF-ENG
+---
+# overall.
 
-job changes, that will need to be made in the United States by 2030.
+Shrinking occupations. Automation and generative AI will lead
 
-Because women hold more of the jobs in all those occupations except
+to declining opportunities primarily in four categories of jobs— customer service and sales, food service, oﬃce support (administrative
 
-production, they are 50% more likely than men to be aﬀected by job loss
+assistants), and production (manufacturing). People working in them
+
+will account for roughly 85% of the 12 million occupational shifts, or
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

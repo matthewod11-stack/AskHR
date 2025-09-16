@@ -1,11 +1,13 @@
-## government and GAM (Gerakan Aceh Merdeka) separatists. But
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5080567e73d77fe8639d070c00f278cfe8e39d74
+title: R2504D-PDF-ENG
+---
+# negative interpersonal interactions.
 
-Ahtisaari understood that natural disasters can create what scholars call
+The Nobel Peace Prize winner Martti Ahtisaari’s work on the Aceh Peace Process in Indonesia after the devastating 2004 tsunami oﬀers
 
-“hurting stalemates”—moments when continuing a conﬂict becomes
+a good example. The disorder and distress following the disaster
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+could have deepened the decades-long conﬂict between the Indonesian

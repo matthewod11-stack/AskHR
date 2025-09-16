@@ -1,7 +1,13 @@
-# from other participants.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8a985ef9390661ceaa8e9c9def4f60248920585
+title: H07QP9-PDF-ENG
+---
+## Taylor, a seasoned manager at a midsize tech company, recently
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+completed a training on how to have diﬃcult conversations. Taylor
 
-1
+found the training valuable. She learned a new model, practiced a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+diﬃcult conversation she needed to have with a peer, and got feedback

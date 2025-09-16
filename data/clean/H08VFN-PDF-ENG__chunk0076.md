@@ -1,9 +1,9 @@
-## disorganization, or one of the other diagnostic indicators of leadership
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9d322d23006c4cdc66089aff6842507ef2298dc
+title: H08VFN-PDF-ENG
+---
+# role or on a startup project.
 
-failure (see “The Four Reasons” above), stop the exercise immediately.
-
-Congratulate the student on pushing themselves to failure. Then ask the
-
-student to go to another room and perform a “hot wash” in which they
-
-write down everything they can remember about the exercise, including
+If, instead, the student displays helplessness, hesitation, irritation,

@@ -1,15 +1,19 @@
-# personal rhythms.
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2b62a145ec94b0740104fdcecd74b99d9d24bfa
+title: H08T5A-PDF-ENG
+---
+## HBR / Digital Article / New Research on Why Teams Overwork—and What Leaders Can…
 
-Editors’ note (July 14, 2025): This article originally misidentified the company using Teale. It has since been corrected.
+Additionally, people should feel that they have the cultural permission
 
-This article was originally published online on July 9, 2025.
+to pause. It is not enough to change schedules—companies have to
 
-Ioana Lupu is a Professor at ESSEC Business School France and Director of the ESSEC Center for Responsible Performance. Her research focuses on well-being, diversity, and performance management in knowledge-intensive ﬁrms such as audit, consulting, and law ﬁrms. Her work explores how professionals navigate demanding organizational rhythms and how ﬁrms can foster healthier, more sustainable ways of working. Personal website: www.ioanalupu.com
+change expectations. Taking breaks, disconnecting on non-work days,
 
-Shanming Liu is an Assistant Professor at ESSEC Business School. His research explores how management control systems—such as performance evaluation, incentive design, and generative AI integration—shape creativity and ethical behavior, and inﬂuence gender bias in organizations. He also examines how these systems aﬀect work-life balance and helps organizations build fairer, more eﬀective approaches to managing people and innovation.
+and ignoring the inbox when on holidays should become organizational
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+norms, not individual exceptions. The emotional sync with work
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+intensity could thus be disrupted, allowing people to develop healthier

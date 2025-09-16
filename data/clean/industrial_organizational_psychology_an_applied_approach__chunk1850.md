@@ -1,1 +1,15 @@
-# Table 8.1
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 294c09fe442b10919b56b2044c3148b50b1bc6a2
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Person Analysis
+
+The third and final step in the needs analysis process is determining which employees need training and in which areas. Person analysis is based on the rec- ognition that not every employee needs further training for every task performed. For example, trainers at Applebee’s restaurants test management trainees on essential on-the-job tasks. When the trainees demonstrate proficiency, the train- ing ends. Thus, some trainees complete the management training program in half the time it takes others. To determine the individual training needs for each employee, person analysis uses performance appraisal scores, surveys, interviews, skill and knowledge tests, and/or critical incidents.
+
+Performance Appraisal Scores Perhaps the easiest method of needs analysis is to use employees’ performance appraisal scores. Low ratings on a particular dimension for most employees may indicate that additional training in that dimension is needed. Conversely, if most employees score high on a particular dimension, relatively little training time is needed. For example, as can be seen in Table ., the bank employees as a whole need little training in loan processing or data entry, but they do need further training in cross-selling, customer relations, and keeping accurate teller draw- ers. But even though most employees can accurately process loans, Fernandez needs further training in this area; both Abbott and Harrigan probably can skip the training in teller drawer accuracy.
+
+Although using performance appraisal scores appears fairly easy as a method of needs assessment, three problems can interfere with their use. First, as dis- cussed in the previous chapter, several types of rating errors can reduce the accuracy of performance appraisal scores. The most relevant here are leniency errors and strictness errors. If the performance appraisal scores are consistently high because of leniency error, a human resources professional might incor- rectly conclude that employees are proficient in a particular area and thus need no training. Likewise, consistently low scores might be interpreted as a need for training when, in fact, the actual cause of the low scores is rater error.
+
+The second problem is that rarely are there situations in which all employ- ees score either high or low on a dimension. Instead, it is more common for only a few employees to score poorly. In this case, a person examining the aver- age performance appraisal scores might conclude that training in a particular dimension is unnecessary. But that conclusion would be only partially correct.

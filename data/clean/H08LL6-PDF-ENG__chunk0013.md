@@ -1,21 +1,41 @@
-## engagement among expatriates and enhances customer satisfaction.
+---
+source_path: H08LL6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0724e54a66a91840f0db7a5269d8274cdf80e163
+title: H08LL6-PDF-ENG
+---
+## The Three Key Elements of Expatriate Success
 
-In the technology sector, Google demonstrates eﬀective
+- 1. Empowering Local Decisions Through Decentralization
 
-decentralization by allowing regional teams to localize products such as Google Maps, adapting them to regional traﬃc patterns, cultural
+Decentralization grants local managers the authority to make decisions,
 
-landmarks, and user behaviors. This approach ensures that products
+allowing them to adapt operations to regional needs and market
 
-meet local needs while beneﬁting from the company’s global expertise.
+dynamics. This ﬂexibility is especially critical in culturally diverse and
 
-While decentralization empowers local managers, it can lead to inconsistencies, ineﬃciencies, and fragmented customer experiences
+rapidly changing environments.
 
-if not properly coordinated. For example, a global retail chain
+Take IKEA as an example. The global furniture retailer empowers local
 
-would likely struggle if regional managers made decisions that
+store managers to adjust product displays and layouts based on regional
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+preferences. In China, where IKEA stores are largely in urban locations,
 
-3
+stores highlight compact furniture for smaller living spaces, while in the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+United States, where IKEAs are often located in suburban areas, displays
+
+more regularly emphasize larger items. By delegating decision-making
+
+authority, IKEA ensures relevance in diverse markets while maintaining
+
+articulated global brand standards.
+
+Similarly, Marriott International retains expatriates by decentralizing
+
+decision-making. Local managers tailor guest experiences to cultural
+
+preferences — from menu adaptations to room designs — while
+
+adhering to overarching corporate guidelines. This approach fosters

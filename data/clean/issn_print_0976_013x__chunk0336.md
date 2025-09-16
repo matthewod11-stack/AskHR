@@ -1,11 +1,15 @@
-# Reconfigurability using Integrated and Deterministic Assessment Models. Journal of
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 06a7b3a7cd7c7bd9be95b7e15a6fb186ffcbd151
+title: issn_print_0976_013x
+---
+# REFERENCES
 
-Manufacturing Systems, 52, 172-183. https://doi.org/10.1016/j.jmsy.2019.05.008
+Aggarwal, A., Shankar, R., & Tiwari, M.K. (2006). Modelling the metrics of lean, agile and
 
-Carter, C.R. & Rogers, D.S. (2008). A framework of sustainable supply chain management:
+leagile supply chain: An ANP-based approach. European Journal of Operation Research,
 
-moving towards new theory. International Journal of Physical Distribution & Logistics
+173(1), 211-225. https://doi.org/10.1016/j.ejor.2004.12.005
 
-Management, 38(5), 360-387. https://doi.org/10.1108/09600030810882816
-
-Coutu, D. (2002). How Resilience Works. Harvard Business Review, 80(5), 46-55.
+Biswas, P., Kumar, S., Jain, V., & Chandra, C. (2019). Measuring Supply Chain

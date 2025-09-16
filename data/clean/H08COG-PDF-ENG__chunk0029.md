@@ -1,15 +1,19 @@
-# relevant.
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 130912517fda425c6cf85ad65c5f051ab1d67c33
+title: H08COG-PDF-ENG
+---
+## HBR / Digital Article / Research: How to Build Consensus Around a New Idea
 
-Previous research has shown that individuals often incorrectly assume
+By ﬁnding out what criteria evaluators are using, you can better judge
 
-others share their thinking. By identifying strengths and weaknesses in
+how well it maps onto the new proposal. Are some judgements biased,
 
-diﬀerent perspectives, evaluators can use discussion to build consensus
+such as by evaluators’ moods or other factors that are irrelevant to
 
-around the most pertinent factors to use in evaluating a new idea.
+assessing idea value? Discussing how someone is evaluating something,
 
-Develop criteria to focus discussions.
+rather than just weighing their opinion, can open up the conversation,
 
-Another way to build consensus is to create and disseminate criteria
-
-ahead of time. Ask employees to evaluate the idea based on speciﬁc
+and help teams determine what criteria are the most important or

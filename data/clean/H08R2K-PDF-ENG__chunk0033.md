@@ -1,9 +1,27 @@
-## critical predictors of this stress-related risk.
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b6d888c1f1654a8e03fedb769a52fa1ca6e0c2d
+title: H08R2K-PDF-ENG
+---
+## HBR / Digital Article / Employee Stress Is a Business Risk—Not an HR Problem
 
-For example: One multinational client that we worked with used the Stress Risk Thermometer framework to gauge how diﬀerent levels of
+customer feedback compared to less stressed departments or teams.
 
-stress related to resilience across the organization, broken down by
+The goal is to identify whether elevated stress is concentrated in areas
 
-department and region. After conducting an initial stress survey, they
+tied to critical business outcomes, and whether this elevated stress is
 
-ran a follow-up survey asking questions such as “How conﬁdent are you in your ability to manage stress eﬀectively?” to assess levels of stress
+associated with increased risk or reduced performance.
+
+Finally, to act on these insights, companies can pinpoint the underlying
+
+factors that predict stress. These factors can be assessed by asking
+
+employees questions such as: “To what extent do your workload
+
+and deadlines feel manageable?” or “Do you feel psychologically safe
+
+raising concerns or asking for help?” These additional insights can help
+
+organizations design targeted, structural interventions that address the

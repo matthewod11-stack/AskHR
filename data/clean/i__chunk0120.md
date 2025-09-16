@@ -1,9 +1,13 @@
-# Resources.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: be5b380250bc67e413ca54f4c3f4562a81108ee5
+title: i
+---
+# Stakeholders possibly belong to the various categories of stakeholders with whom people
 
-Skills delves into the role skills, and responsibilities of the people analytics leader and team
+analytics teams collaborate to make a <meaningful impact and provide value=. Stakeholder
 
-members. The operating model for the analytics team is also highlighted.
+management emphasizes the importance of strategies for engaging with stakeholders in terms
 
-Technology. Refer to the choice of technology and how to leverage technology to expand the
-
-reach of analytics solutions and harness emerging technologies in data collection, analysis,
+of stakeholder meetings and approaches for building relationships.

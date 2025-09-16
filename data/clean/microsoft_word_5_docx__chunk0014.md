@@ -1,13 +1,19 @@
-# following:
+---
+source_path: microsoft_word_5_docx.md
+pages: n/a-n/a
+chunk_id: a960dd27b4b2cd0026dac581078f77d384964be3
+title: microsoft_word_5_docx
+---
+# Javier, Alfonso & Luis 61
 
-- The Model of Hackman & Wageman (2005) deals with team coaching. It indicates how leaders can influence team learning and development by carrying out distinct functions in each work stage. For example, at the initial stages, the function of motivation, to get the members of the team to know each other better; later, strategy consultation for carrying out tasks; and in the final stages, education, with the objective of stimulating the group to think.
+Because of their characteristics and diversity, today’s organizations represent fertile ground for the study of leadership models (García Saiz, 2010). More specifically, globalization, new technologies, communication, and economic and social trends challenge organizations with new leadership roles and functions (Burke & Cooper, 2006).
 
-- The Model of Zaccaro, Heinen & Shuffler (2009) establishes the foundation of team leadership on connectivity, integration, and coherence among the team members. The leader’s fundamental role, aside from general management and leadership, is achieved specifically through coaching and developing the skills and capacities of the team members.
+The need to face new challenges in a globalized world requires leaders to accept a complex role which involves combining continuity with innovation, based on a solid foundation of social values, ethical principles and the practice of integrating groups of professionals from different areas.
 
-- The Model of Kozlowski, Watola, Jensen, Kim & Botero (2009), or adaptive, flexible, and fluid model, adapts to the contingencies of the work load, the abilities of the team members, and the relationships between them. The leader’s role can rotate among the team members depending on the circumstances, thereby creating distributed leadership.
+In comparison with typical traditional leadership, there have emerged new models of leadership much more dynamic and in step with reality. Thus, we see other types of leadership, for example, the transformational model which demonstrates positive correlations not only among different individual variables in the leader (ethics, emotional management, knowledge-building, etc.), but also with results at the organizational level (better performance, higher team satisfaction).
 
-62 Journal of Physical Education and Sports Management, Vol. 2(2), December 2015
+In recent years, interest in studies of the relationship between leadership and ethics (Simola, Barling & Turner, 2010), transcultural leadership (Chocar, Brodbeck & House, 2007), and global leadership (Heames & Harvey, 2006) has grown.
 
-- The Model of Morgeson, Scott & Karam (2010) proposes two dimensions: internal and external leadership and formal shared leadership. In addition, they identify two stages of team development. First, the transition phase where the team defines its mission, establishes goals, plans, organizes, works on the development of the team, and provides feedback. Second, the action phase where the task of the leader is to supervise, manage limits, create challenges, encourage self-management, and promote an atmosphere of social support. Today’s situations, so characterized by ambiguity and complexity, make it difficult for a leader to successfully carry out all the functions inherent to leadership. For this reason, the leader needs to exercise shared leadership, which can be defined as a dynamic and interactive process among the team members whose objective is to actively communicate with each other in order to attain the team’s goals or the organization’s goals or both (Pearce & Conger, 2003).
+Team leadership can be understood in two ways (Day, Gron & Salas, 2004). Firstly, leadership as those attributes (abilities and behavior) that the members bring to the team, for example, charisma, integrity, etc., which have an impact on the group processes and performance. Secondly, leadership as the result of group processes (group learning) that facilitate the adaptation and performance of the work team in different stages of development. Both approaches are essential to the understanding of team leadership.
 
-It has been noted that the effectiveness of shared leadership increases with the complexity of the team work, for example with decision-making. Shared leadership also improves group processes such as collaboration, cooperation, and coordination (Yeatls & Hyten, 1998). In regard to the effectiveness of the work team, it has been shown that there is a positive relation between shared leadership and the efficiency of the task in certain contexts, such as senior management, non-profit organizations, etc. (Carson, Tesluk & Marrone, 2007). We understand and share with Celma (2004) the fact that the new role of the sports manager should be based on an evolution that goes beyond strictly technical aspects to achieve an executive or leadership level. In this vein, the author establishes the differences in managerial styles between traditional leadership and newer forms of leadership (as demonstrated graphically in Table 2).
+Among the new tendencies or models in team leadership, we make mention of the

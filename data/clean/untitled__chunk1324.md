@@ -1,9 +1,17 @@
-# implications.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4c5910265ad6939d1aaf571cdfb7038f36c21917
+title: untitled
+---
+# (2nd ed.). New York: Random House.
 
-Papousek, H. (1961). Conditioning during postnatal development. In Y. Brackbill & G. G. Thompson (Eds.), Behavior in infancy and early childhood (pp. 259–284). New York: Free Press. Parke, R. D. (1988). Families in life-span perspective: A multilevel developmental approach. In E. M. Hetherington, R. M. Lerner, & M. Perlmutter (Eds.), Child development in life-span perspec- tive (pp. 159–190). Hillsdale, NJ: Erlbaum.
+Lewis, M. (1992). Self-conscious emotions and the development of self. In T. Shapiro & R. N. Emde (Eds.), Affect: Psychoanalytic perspectives (pp. 45–73). Madison, CT: International Universi- ties Press.
 
-Parke, R. D., & Buriel, R. (1998). Socialization in the family: Ecological and ethnic perspectives. In W. Damon (Series Ed.) & N. Eisenberg (Vol. Ed.), Handbook of child psychology: Social, emotion, and personality development (Vol. 3, pp. 463–552). New York: Wiley.
+Lipsitt, L. P. (1963). Learning in the ﬁrst year of life. In L. P. Lipsitt & C. C. Spiker (Eds.), Advances in child development and be- havior (Vol. 1, pp. 147–195). New York: Academic Press.
 
-Parke, R. D., Ornstein, P.A., Rieser, J. J., & Zahn-Waxler, C. (1994). The past is prologue:An overview of a century of developmental psychology.InR.D.Parke,P.A.Ornstein,J.J.Rieser,&C.Zahn- Waxler (Eds.),Acentury of development psychology(pp. 10–70). Washington DC:American PsychologicalAssociation.
+McLoyd, V. C., Cauce, A. M., Takeuchi, D., & Wilson, L. (2000). Marital processes and parental socialization in families of color: A decade review of research. Journal of Marriage and the Family, 62, 1070–1093.
 
-Parke, R. D., & Tinsley, B. J. (1987). Family interaction in infancy. In J. D. Osofsky (Ed.), Handbook of infant development (Vol. 2, pp. 599–641). New York: Wiley.
+Miller, G. A., Galanter, E., & Pribram, K. H. (1960). Plans and the structure of behavior. New York: Holt, Rinehart and Winston. Overton, W. F., & Reese, H. W. (1973). Models of development: In J. R. Nesselroade (Ed.), issues
+
+Methodological Life-span developmental psychology: Methodological (pp. 65–86). New York: Academic Press.

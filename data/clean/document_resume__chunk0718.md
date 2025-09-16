@@ -1,5 +1,17 @@
-# Minimizing Rater Errors
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 352df42d0ba570cc91de1995b353d045434249ff
+title: document_resume
+---
+## 11 John Bernardm and Richard W. Beatty, Petlottnan« Appraoal /b.sc.s,sing
 
-- 3. William I. Sauser, tr., A Comparative Evaluation if the Effects of Rater Participation and Rater Training on Chat acteristic.s if Employee Performance Appraisal Ratings and Related Mediating I atiables (Doctoral Dissertation). (Atlanta. Georgia Institute of Technology, 1978). pp. 16-20 Patricia C. Smith, "The Problem of Criteria," in Handbook of Industrial and Organizational Psychology,. ed. Mary in D. Mimetic. (Chicago. Rand McNally, 1976), pp. 757-758.
+Human Behavior at Work, (Boston. Kent, 1984), pp. 238-239.
 
-5.
+2.
+
+J P. Gifford, Psychometric Method,s 2nd ed., (New York. McGraw-Hill,
+
+1954), pp. 278-280.
+
+I '3

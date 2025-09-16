@@ -1,9 +1,15 @@
-## concept. British Journal of Psychology, 71, 449–474.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 952cff855c0d873feeb755e6699554c6af74b0fd
+title: untitled
+---
+# American Psychologist, 17, 475–483.
 
-Hunt, E. B., Lunneborg, C., & Lewis, J. (1975). What does it mean
+Hunt, E., Frost, N., & Lunneborg, C. (1973). Individual differ- ences in cognition: A new approach to intelligence. In G. Bower (Ed.), The psychology of learning and motivation (Vol. 7, pp. 87–122). New York: Academic Press.
 
-to be high verbal? Cognitive Psychology, 7, 194–227.
+Hunt, E. B. (1978). Mechanics of verbal ability. Psychological
 
-Intelligence and its measurement: A symposium. (1921). Journal of Educational Psychology, 12, 123–147, 195–216, 271–275.
+Review, 85, 109–130.
 
-Jensen, A. R. (1969). How much can we boost IQ and scholastic
+Hunt, E. B. (1980). Intelligence as an information-processing

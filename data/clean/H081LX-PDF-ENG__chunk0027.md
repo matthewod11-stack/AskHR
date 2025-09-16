@@ -1,17 +1,17 @@
-# potential.
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed0366739986171f29b1edd2cfa28e83609e7cd6
+title: H081LX-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways Humility Can Undermine Your Leadership
 
-Being a humble leader is great — in most circumstances. But like
+Seen through this lens, eﬀective delegation itself becomes an act of
 
-many things, taken to an extreme, it can end up harming your career
+humility: It requires a leader to empower their team, trusting them to
 
-and the prospects of your team. Becoming aware of situations where
+rise to the challenge and fostering an environment where everyone can
 
-humility can extend too far enables you to guard against excesses
+excel. This nuanced understanding of humility encourages leaders to
 
-and leverage the power of your genuine desire to highlight others —
-
-without sacriﬁcing too much along the way. The key lies in cultivating a
-
-balanced approach, combining humility with assertiveness.
-
-This article was originally published online on March 04, 2024.
+balance their responsibilities and liberate their teams to realize their full

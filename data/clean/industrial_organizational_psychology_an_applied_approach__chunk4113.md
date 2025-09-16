@@ -1,11 +1,11 @@
-## Burnett, J. R., & Motowidlo, S. J. (1998). Relations between
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 64c637044f1c16dc039d3f1316135434ba5efb38
+title: industrial_organizational_psychology_an_applied_approach
+---
+# hospitals. New York: Putnam.
 
-diﬀ erent sources of information in the structured selection interview. Personnel Psychology, 51(4), 963–983.
+Burnett, J. J., & Dunne, P. M. (1986). An appraisal of the use of
 
-Burns, W. (1979). Physiological eﬀ ects of noise. In C. M. Harris
-
-(Ed.), Handbook of noise control (pp. 15-1–15-23). New York: McGraw-Hill.
-
-Butterﬁ eld, K. D., Trevino, L. K., & Ball, G. A. (1996). Punishment from the manager’s perspective: A grounded investigation and inductive model. Academy of Management Journal, 39(6), 1479–1512.
-
-Bycio, P. (1992). Job performance and absenteeism: A review and
+student subjects in marketing research. Journal of Business Research, 14(4), 329–343.

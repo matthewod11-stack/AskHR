@@ -1,11 +1,21 @@
-## with its own cultural and economic context.
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 188adf6073f5cbda71e1b43493860b027aa68296
+title: R2504D-PDF-ENG
+---
+## priorities, R&D, and executive compensation metrics.
 
-This multifaceted approach drove remarkable results: During her tenure
+To manage the disputes, Nooyi developed a variety of strategies,
 
-the company grew its revenues 80% while successfully repositioning
+balancing sustainability with action on immediate business pressures.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+For the core beverage business, she maintained traditional metrics
 
-12
+and proﬁt-focused approaches. However, for emerging health-focused
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+products, she implemented collaborative development processes
+
+involving nutritionists and consumer-advocacy groups. Environmental
+
+initiatives were guided by sustainability frameworks, while market expansion strategies were customized for diﬀerent global regions, each

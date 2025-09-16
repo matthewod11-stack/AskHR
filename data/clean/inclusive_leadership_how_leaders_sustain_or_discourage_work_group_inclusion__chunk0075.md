@@ -1,5 +1,13 @@
-# NY: Plenum.
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 4734e52c089ff35c05d88e55e25353e5175eeeed
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# Group & Organization Management 0(0)
 
-McCluney, C. L., & Rabelob, V. C. (2019). Conditions of visibility: An intersectional examination of black women’s belongingness and distinctiveness at work. Journal of Vocational Behavior, 113, 143-152.
+beneﬁts of diversity and cultivating value-in-diversity beliefs. Group and Orga- nization Management. Advance online publication. doi:10.1177/1059601121 1009683
 
-McKay, P. F., & Avery, D. R. (2005). Warning! Diversity recruitment could backﬁre.
+Li, N., Guo, Q-Y, & Wan, H. (2019). Leader inclusiveness and taking charge: The role of thriving at work and regulatory focus. Frontiers in Psychology, 10, 1-9, Article 2393. doi:10.3389/fpsyg.2019.02393
+
+Lind, E., & Tyler, T. (1988). The social psychology of procedural justice. New York,

@@ -1,7 +1,23 @@
-## ingrained cultural expectations of constant availability.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b608fc443f73d1c68d84ee1600f74035f71b62a7
+title: H08R51-PDF-ENG
+---
+# presenteeism.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Our analysis further reveals that job security intensiﬁes occupational
 
-4
+presenteeism patterns. When job security was perceived as low,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+women consistently missed fewer workdays than men, suggesting they
+
+feel heightened pressure to demonstrate reliability under insecure
+
+conditions. However, as job security improved, women were more
+
+likely to use sick leave, indicating that stability helps alleviate fears
+
+of professional repercussions. By contrast, men continued to report
+
+presenteeism even with increased job security, indicating deeply

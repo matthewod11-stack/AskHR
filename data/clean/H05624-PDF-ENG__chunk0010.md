@@ -1,15 +1,31 @@
-## loyalty and productivity out of employees as a result. Humans, whether
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bfa918ca18b56a80a3f6d4a46e8a5556ffdc76a1
+title: H05624-PDF-ENG
+---
+## organization Paid Leave for the United States that 77% of respondents
 
-software engineers or people preparing food, can only do their best work
+said that the amount of paid leave employers oﬀer would aﬀect their
 
-if they have peace of mind that their home and family are secure. If
+decision to pick one company over another. Again, it’s something that
 
-they are instead distracted or stressed or frustrated, there will be costs
+will help you win talent. But we should also realize that it creates value
 
-to that. I work with many entrepreneurs now, and I have yet to have one
+that won’t always be reﬂected in the short-term numbers.
 
-of them come back to me and say that a paid leave policy was a bad idea.
+What would you say to leaders of startups or small businesses or
 
-Apart from oﬀering several months or more of time oﬀ after the
+non-tech companies who argue that they just can’t aﬀord to keep
 
-birth or adoption of a child, what makes for a good corporate paid
+paying people to be away from work for several months?
+
+I would point to a company like sweetgreen, the fast-casual salad chain.
+
+The salad business is deﬁnitely not the software business, and they
+
+made the math work on ﬁve months of fully paid parental leave —
+
+even longer than ours at Initialized Capital. And I think that’s because
+
+they, and other employers like myself, realize that they will get more

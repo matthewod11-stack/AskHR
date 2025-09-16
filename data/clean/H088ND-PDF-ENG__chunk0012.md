@@ -1,23 +1,17 @@
-# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7da4201eb6a5fce7aafe913e4985a6c16e65b05e
+title: H088ND-PDF-ENG
+---
+# Dispelling Myths on Asians in Leadership
 
-and securing entry-level positions. However, when they should be
+Asians are often viewed as a uniformly successful group. While highly
 
-leveraging their education and hard work to ascend in their careers,
+diverse, Asians by and large do excel in acquiring higher education
 
-their prospects often take a sharp and unexpected decline.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Although Asians make up around 13% of the U.S. professional workforce, they hold only 1.5% of Fortune 500 corporate oﬃcer roles.
+2
 
-This disparity is even more pronounced for Asian women, who make up
-
-less than 1% of promotions into the C-suite. Additionally, more than half
-
-of Fortune 1000 company Boards have no Asian directors.
-
-For many, being “stuck” somewhere in the middle of the career
-
-ladder is a profound source of disappointment, frustration, and
-
-even shame. This challenge is particularly poignant for those whose
-
-professional achievements symbolize the culmination of their family’s
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

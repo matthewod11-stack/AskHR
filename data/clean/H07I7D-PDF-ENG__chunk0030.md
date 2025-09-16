@@ -1,27 +1,25 @@
-## HBR / Digital Article / How to Help Superstar Employees Fulfill Their Potential
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f158396a955c5a055fa2d7b596304a5542684821
+title: H07I7D-PDF-ENG
+---
+# of interpersonal relationships.
 
-the conditions that enable the team to operate eﬀectively without their
+Our analysis pointed to three clear priorities as organizations look to
 
-daily presence. This involves developing the operational platforms and
+develop their high potentials:
 
-incentives to reinforce positive behaviors; supporting and cultivating a
+- 1. Measure high potentials against speciﬁc competencies to help expand their leadership style. While most high potentials have experience managing small teams,
 
-vibrant and healthy culture; and creating a context that enables team
+their next career step will likely involve leading larger teams, where they
 
-members to grow, develop, and produce.
+won’t have the ability to regularly interact with every team member. As
 
-Managers can support this eﬀort by tracking high potentials’ progress
+high potentials step up to leading at scale and scope, they must create
 
-against key leadership competencies, such as team management,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-relationship building, and communication. In particular, a high
+7
 
-potential’s ability to lead eﬀective teams, inspire and motivate others,
-
-and articulate a compelling vision are dependent on their ability
-
-to successfully communicate. While they may be eﬀective in small
-
-team meetings or one-on-one interactions, they must also excel
-
-at communicating at scale and scope. This requires demonstrating
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

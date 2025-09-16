@@ -1,9 +1,29 @@
-# More Resources:
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0117a1a6b002cb1c1a30f05742908a2d16fcd3f6
+title: H08H7H-PDF-ENG
+---
+# information.
 
-- One Company A/B Tested Hybrid Work. Here’s What They Found.
+. . .
 
-- We’re Still Lonely at Work
+Our research shows that the decision to RTO can’t solely be about
 
-- What Employers Get Wrong About How People Connect at Work
+building better and stronger relationships because working from home
 
-- Research: People Still Want to Work. They Just Want Control Over
+can beneﬁt coworker relationships in ways that working in the oﬃce
+
+cannot. Thus, while there is a certain magic to being in-person that
+
+we haven’t yet ﬁgured out how to fully replicate virtually, there is
+
+also a magic to working-from-home —perhaps being able to switch the
+
+laundry while you learn new information about your coworkers. This is
+
+a magic that many employees have felt and are not happy about losing,
+
+suggesting that managers may want to be strategic in their RTO policies
+
+and capitalize on the upsides of working remotely.

@@ -1,23 +1,15 @@
-## HBR / Magazine Article / Precedents Thinking
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e61ace6a4402869a131cf1561f9f56cbf6dd28a8
+title: R2502D-PDF-ENG
+---
+## & Gamble’s cofounder William Procter in 1887; and (4) Isaac Singer’s
 
-brightest corporate and startup minds rarely guess the correct answer.
+19th-century network of local dealers selling sewing machines. Even the
 
-When revealed, however, it seems obvious: Henry Ford.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Inspired by the slaughterhouse process, Ford invented the moving
+1
 
-assembly line. He adopted japanning to speed up production of the
-
-Model T, leading to his famous policy of oﬀering “any color…as
-
-long as it’s black.” He introduced proﬁt-sharing to reward speedy
-
-assembly workers and help them aﬀord cars of their own. Mimicking
-
-Singer’s network of independent dealers, he avoided the expense of
-
-employing a widespread sales force. By combining those precedents,
-
-Ford transformed his struggling company into a market leader. As
-
-he later remarked, “I invented nothing new. I simply assembled the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

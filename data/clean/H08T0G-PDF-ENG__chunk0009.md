@@ -1,13 +1,15 @@
-## How to Strategize Around Industrial Policy
+---
+source_path: H08T0G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 702d9ddf15c96ef32fd4e4eec36b812e3861b577
+title: H08T0G-PDF-ENG
+---
+## enormous defense budget, large public research universities, and ability
 
-Some companies might try (and some might be able) to shape industrial
+to attract, deploy, and reward both ﬁnancial and human capital quickly.)
 
-policy to their own beneﬁt, but all companies need to know how it will
+Good policies also prize consistency, since erratic policy can paralyze
 
-aﬀect them, monitor both trends and details, and be able to act on what
+the very investments it aims to promote. Danger comes when public
 
-they see. Here are six ways to go about that:
-
-- 1. Look at your business through the eyes of policymakers.
-
-It’s easy for defense and semiconductor companies to see how policy
+purpose is used to cloak a private agenda.

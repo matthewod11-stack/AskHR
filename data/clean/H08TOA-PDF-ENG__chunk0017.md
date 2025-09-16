@@ -1,21 +1,23 @@
-# Reflect
+---
+source_path: H08TOA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71fb2f7e464ffce2bfc3755ba53a553e19309ec6
+title: H08TOA-PDF-ENG
+---
+# back out of the meeting entirely.
 
-The last step in the process is to analyze how you have reallocated your
+Throughout the whole process, you’ll want to be aware of the temptation
 
-time. After, say, two months, you may consider restarting your time log
+to take tasks back, especially at the ﬁrst sign of a mistake or hesitation.
 
-for a few weeks to calculate the return on your delegation investment.
+When Tina, the CFO I worked with, delegated the annual budget presentations, she actually took the day oﬀ when her team was working
 
-At the very least, you can look at your original time log and add up how
+on it and went to a movie so she wouldn’t be tempted to check up
 
-much time the meetings and tasks took before and what replaced them.
+on them. I’m not saying everyone should go to the movies when they
 
-That is how the CFO, Mike, identiﬁed the 20 hours a month he had been
+delegate a task, but you should remember one thing in times like these:
 
-spending on the tasks he delegated.
+you probably weren’t as good when you ﬁrst started performing the task
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as you are today.

@@ -1,7 +1,9 @@
-# Social Networks in Organizations
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: fd08ad2bf6cfe9bdd642f3ab0e7f1d2b8fe494db
+title: barrickryan_eds_personality_and_work
+---
+## SELF-MONITORING PERSONALITY AND WORK RELATIONSHIPS 211
 
-In considering the role of individual differences in the construc- tion and maintenance of work relationships, it is important to keep in mind that relationships do not exist in a vacuum; they are con- nected to other individuals and other relationships (Agnew et al., 2001; Bott, 1957). For this reason, every relationship represents a system (Reis et al., 2000). These relational systems can take on dif- ferent appearances and can yield vastly different resources; how- ever, not all conﬁgurations of networked relationships are equally helpful to an individual or an organization (Mehra, Kilduff, & Brass, 2001).
-
-Social networks have been used as a primary method for mea- suring the social capital of individuals and organizations. In essence, social capital refers to relational resources that are em- bedded in the ties between individuals (Coleman, 1988). The struc- tural, relational, and cognitive dimensions of social capital have been theoretically linked to the facilitation, combination, and ex- change of resources within organizations (Nahapiet & Ghoshal, 1998). Subsequent empirical work has demonstrated positive re- lations between social capital and individual and group perfor- mance (Mehra et al., 2001; Sparrowe, Liden, Wayne, & Kraimer, 2001), individual career success (Seibert et al., 2001), innovation and value creation (Tsai & Ghoshal, 1998), and the aggregate lead- ership capacity (Day, 2001) in organizations. Overall, theory and research suggest that social networks are critical to understanding why some individuals and organizations outperform others.
-
-A social network is deﬁned as a set of nodes (individuals) and con- nections (relationships or ties) between nodes (Brass & Krackhardt,
+mary means for status enhancement. Low self-monitors are also con- cerned about their public images, but may be primarily focused on their reputations as “genuine and sincere people who act on their beliefs” (p. 547). Their social networks may reﬂect this motive, speciﬁcally in the types of connections that are made with others. A brief review of the basic aspects of social networks in organizations follows to provide a better understanding of the dispositional ef- fects on these systems and their relevance to important individual and organizational outcomes.

@@ -1,3 +1,7 @@
-# Richard B. Peterson and David Lewin
-
-This paper critically reviews research on unionized grievance procedures to identify key issues for human resource/labor relations executives and to provide recommendations for dealing with these issues. The review covers psychological, sociological, economics, and industrial relations- based research. Specifically, the authors recommend that senior human resource/labor relations executives and their staffs conceptualize the grievance procedure as a high involvement human resource practice, distinguish between the presence and use of grievance procedures, use griev- ance data to determine whether grievants or their supervisors suffer management reprisals, assess supervisors’ dominant orientation toward employees, determine employee perceptions of griev- ance procedure fairness, and monitor the effects of work force composition and supervisor selec- tion on grievance activity. © 2000 John Wiley & Sons, Inc.
+---
+source_path: research_on_unionized_grievance_procedures_management_issues_and_recommendations.md
+pages: n/a-n/a
+chunk_id: 8edc237dc43241adbf804ecff138f30999ee9981
+title: research_on_unionized_grievance_procedures_management_issues_and_recommendations
+---
+# RESEARCH ON UNIONIZED GRIEVANCE PROCEDURES: MANAGEMENT ISSUES AND RECOMMENDATIONS

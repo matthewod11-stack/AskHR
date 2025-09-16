@@ -1,15 +1,25 @@
-# problem for months.
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0b118ca579f7fa6865190311034f1a61246b79b7
+title: H08NQI-PDF-ENG
+---
+## HBR / Digital Article / Leaders Can Move Fast and Fix Things
 
-The risk of superﬁcial analysis is even higher when we’re in what
+- 1. Make sure you’re solving the right problems.
 
-conﬂict researcher Amanda Ripley calls a state of “high conﬂict,” an
+Too often, we’ve seen change leaders attack the symptoms of problems
 
-emotional position that leads us to miss important signals and turn
+and not their root cause, losing precious time and gaining little traction.
 
-our opponents into two-dimensional enemies. This pattern had begun
+We worked with one leadership team at an early-stage tech startup
 
-to show up in the interpersonal dynamics at the young tech company,
+that was convinced they had a culture problem embodied by a “clash
 
-as Gen X and Gen Z faced oﬀ against each other. And it seems to be
+of generations” between older and younger employees. In fact, they
 
-happening in our polarized political environment, for example, in the
+had a strategy problem: The company’s unwillingness to focus had
+
+driven employees to take refuge with other like-minded employees. By
+
+the time the team called us, they had been trying to solve the wrong

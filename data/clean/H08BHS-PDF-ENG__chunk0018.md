@@ -1,13 +1,17 @@
-## HBR / Digital Article / What High Achievers Need from Their Mentors
+---
+source_path: H08BHS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b94fa4d4275b30fbcacb657dbf98ca47fa016ae
+title: H08BHS-PDF-ENG
+---
+# Expand Their Network and Influence
 
-to for help and support, but there will always be blind spots in their
+High achievers often have strong networks, but there is always room for
 
-network — people who could help them or relationships they should be
+growth and improved focus. They will know, at a high level, who to turn
 
-developing further, but who are not front of mind.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-A mentor can provide increased focus on uncovering those key
+4
 
-relationships, one that will lead to even more impactful results.
-
-Introducing them to new, diverse circles can provide fresh insights and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

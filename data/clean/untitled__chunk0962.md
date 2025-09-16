@@ -1,7 +1,9 @@
-# 160 Emotion
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fb7d5129210f9643a8b0ce7e64bf0424471e33a4
+title: untitled
+---
+# TWO DISTINCT PSYCHOLOGIES OF EMOTION
 
-events are seen as consequences of psychic events. While much of this line of thinking is tied to a belief in fundamental unanalyzable feelings, it was also the forerunner of another development—the conﬂict theories—that has a lengthy his- tory going back at least 150 years to Johann Friedrich Herbart (1816), who saw emotion as a mental disorder caused by dis- crepancies (or what we would call today “conﬂicts”) among perceptions or ideas. The other face of emotion is organic. It also has a long history, primarily among the sensualists of the eighteenth century who wanted all experience to be built of nothing but sensory impressions and who stressed the effect of organic reactions on mental emotional consequences. The organic theorists insisted on physiological events, rather than thoughts, as the determiners of emotion.
-
-In the course of discussing the organic/peripheral theories, we shall have repeated occasion to refer to autonomic and/or visceral changes. Unless otherwise noted, this usually refers to activities of the sympathetic nervous system (SNS). The autonomic nervous system (ANS) is, in contrast to the central nervous system, the other major subdivision of the body’s nervous armamentarium. The ANS consists of the SNS and the parasympathetic nervous system. The latter is primarily concerned with energy storage and conservation and is the evolutionarily older of the two (Pick, 1970); the former deals with energy expenditure, reaction to emergencies, and stress and is characterized, inter alia, by increased heart rate and sweating. Discussions of visceral responses, here and else- where, usually deal with sympathetic activity.
-
-I shall follow Fraisse’s distinctions and argument and start with the organic/peripheral and then return to the mentalist/ central position.
+There are two major traditions in the study of emotion. They are distinguished by a relative emphasis on central as op- posed to peripheral processes, the former concerned with central nervous system mechanisms, the latter with periph- eral reactions and particularly autonomic nervous system responses (see Schachter, 1970). A similar distinction is es- sentially a Cartesian one between mental and organic causes of emotion. Paul Fraisse (1968) calls the distinction “les deux faces de l’émotion”—the two aspects, or Janus-like faces, of emotion. One face is mental and intellectual—the organic

@@ -1,13 +1,15 @@
-# International Journal of Case Studies in Business, IT, and Education (IJCSBE), ISSN: 2581-6942, Vol. 7, No. 2, June 2023
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 2ef7f617252f3b9dadaa0c10bc9984662a4c411e
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# Sergeant & Laws-Chapman (2012). [36]
 
-9
+Gerhart, B. (2009). [37]
 
-10
+Lee & Kramer (2016). [38]
 
-11
+Al Dari et al. (2021). [39]
 
-12
-
-13
-
-The role of values in shaping work culture
+PAGE 295

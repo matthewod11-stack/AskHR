@@ -1,7 +1,13 @@
-## development programs, employee aﬃnity groups, and other initiatives.
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5a2bb9d9f0821be9ded5940df6ad43958de0aa6c
+title: H07268-PDF-ENG
+---
+## transparent about both the existence and the importance of politics.
 
-In addition, as remote and hybrid work become the norm, it’s important
+Leaders, managers, and employees at every level should be encouraged
 
-to consider where and how informal connections occur in online spaces,
+to talk openly about the value of building connections, and to
 
-and make sure that all employees are aware of and have access to these
+make the informal practices of oﬃce politics visible through explicit onboarding processes, mentoring (both by peers and senior staﬀ), talent

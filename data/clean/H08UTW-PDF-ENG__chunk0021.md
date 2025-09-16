@@ -1,7 +1,9 @@
-# through the motions.
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aad9189ddc990443372c3e73dec4dc46777dcbb6
+title: H08UTW-PDF-ENG
+---
+## HBR / Digital Article / When “Yes, and…” Backfires
 
-If at any point you feel yourself resisting the exercise, pause and ask
-
-why. Are you uneasy about opening the ﬂoor to new ideas? Do you
-
-believe “creativity” has no place in your ﬁeld? That reﬂex usually reveals
+everyone aligned on the goal and prevent them from simply going

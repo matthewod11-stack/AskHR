@@ -1,13 +1,45 @@
-# HBR / Digital Article / Research: Flat Hierarchies Can Discourage Women Applicants
+---
+source_path: H08DWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a765d289b9799613e3f2db7d0b1c6a8f57e93e90
+title: H08DWZ-PDF-ENG
+---
+## to their ﬂat organizational hierarchies in recruitment materials. This
 
-also 14% less likely to show an interest in the position (measured by
+led us to question whether mentioning ﬂat hierarchies in recruitment
 
-whether or not they clicked a link in the recruitment email that led to
+materials actually encouraged more women to apply.
 
-the application) when the recruitment email mentioned a ﬂat hierarchy.
+In new research, published in the Strategic Management Journal,
 
-To understand why women may be relatively less attracted to
+we found that, surprisingly, when companies reference their ﬂat
 
-ﬂatter hierarchies, we conducted a large-scale follow-up experiment,
+hierarchies, it actually deters women, relative to men, from applying
 
-surveying 8,498 new U.S. participants. Our ﬁndings unveiled several
+or being interested in the role.
+
+To reach these ﬁndings, we ﬁrst conducted a ﬁeld experiment. We
+
+partnered with a U.S. health care startup and created two recruitment
+
+emails for two open jobs at the company. One email highlighted
+
+the startups’ ﬂat hierarchy, and the other made no mention of
+
+organizational structure. The emails went out to 8,167 actual U.S.
+
+job seekers on ZipRecruiter whose proﬁles identiﬁed them as good
+
+applicants for the roles. While highlighting the startup’s ﬂatter
+
+hierarchy did not signiﬁcantly impact the number of job applicants
+
+between the two groups, the email that emphasized a ﬂat hierarchy
+
+had 28% fewer women applicants in their pool. Women applicants were
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

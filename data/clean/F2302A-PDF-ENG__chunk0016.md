@@ -1,15 +1,17 @@
-## “Rote Training Is Boring—but Games Are the Opposite of Boring”
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4652a922b616271923862b1a9fae65171334c276
+title: F2302A-PDF-ENG
+---
+# from new clients by 7% more.
 
-Christian Gossan, a director at the advisory firm KPMG Australia, led the
+Leader engagement with the training was also important. The more oﬃce leaders who registered to use the platform, the higher the employee sign-up rate. And that improved results. Oﬃces whose leaders
 
-creation of the gamified training platform described in the accompanying
+participated more than others increased fees collected by 19% more and
 
-article. He recently spoke with HBR about KPMG’s experience with this
+grew the number of clients served by 7% more.
 
-learning approach. Edited excerpts of the conversation follow.
+The researchers oﬀer three recommendations for using gamiﬁed
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+training to improve employee performance.

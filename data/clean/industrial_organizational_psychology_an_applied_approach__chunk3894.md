@@ -1,9 +1,13 @@
-## Internal timekeepers A type of stress personality who
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4df53770a718e7f00a40cf82c9864f61b0a3d457
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Internal pay equity The extent to which employees
 
-takes on too much work because he or she enjoys doing a variety of things.
+within an organization are paid fairly compared with other employees within the same organization. Internal recruitment Recruiting employees already
 
-Internalization The fifth and final stage of organizational change, in which employees become comfortable with and productive in the new system.
+employed by the organization.
 
-Internship A situation in which a student works for
-
-an organization, either for pay or as a volunteer, to receive practical work experience.
+Internal reliability The extent to which responses to test items measuring the same construct are consistent.

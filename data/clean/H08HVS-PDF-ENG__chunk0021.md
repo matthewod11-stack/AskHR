@@ -1,37 +1,51 @@
-## HBR / Digital Article / Management By Driving Around
+---
+source_path: H08HVS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 023e34e827a6f10ba7caed6da822997584489fe4
+title: H08HVS-PDF-ENG
+---
+# reaches their goal.
 
-customers. We’re using this story to try to encourage more staﬀ to give
+Again and again, when we dissect what successful friction ﬁxers do,
 
-us feedback.”
+we encounter leaders like Gordon who instill “authentic” (rather than
 
-. . .
+“hubristic”) pride in others. In particular, the pride DMV employees
 
-Leaders and teams that make the right things easier and the wrong
+felt about working together to speed service for their customers runs
 
-things harder in organizations treat friction ﬁxing as a way of life. As one CEO told us about his company’s eﬀorts to eliminate unnecessary
+through these stories about Gordon’s journey. For example, when
 
-meetings, such work is like “mowing the lawn”: Constant maintenance
+Gordon celebrated Andrea and Samantha, the two frontline employees
 
-is required; there is no “one and done.”
+who sketched out their ideas on sticky notes, he emphasized the pride
 
-That’s why, despite Steve Gordon’s pride that the DMV had improved
+they (and he) felt in their work. That story embodied the culture that
 
-customer service in so many ways in just ﬁve years, he emphasized, “We
+Gordon wanted throughout the DMV.
 
-still have a lot more to do; we are certainly not celebrating in the end
+Gordon told the story about Andrea and Samantha in a three-minute
 
-zone yet.” Above all, we are impressed by Gordon’s devotion to creating
+“Director’s Corner” video titled “Speak Up” that was shared with
 
-a culture at the DMV where, long after he and his team have moved
+all DMV employees. The video included interviews with the duo
 
-on, people will question the status quo, move swiftly to prevent and
+to illustrate how, by looking around, employees who are curious
 
-repair the never-ending problems that arise in every organization, and
+about their work, pay attention to obstacles, and notice frustrations
 
-“think of [themselves] as a competitive customer product and behave as
+that customers face — and say something about it — can improve
 
-if dissatisﬁed customers could take their business elsewhere.”
+DMV services. In the video, Gordon urged employees to talk to their
 
-This article was originally published online on November 29, 2024.
+supervisors about such obstacles and frustrations or email him directly.
 
-Robert I. Sutton is an organizational psychologist and Professor Emeritus of Management Science and Engineering at Stanford University. He has written eight books, including (with Huggy Rao) The Friction Project: How Smart Leaders Make the Right Things Easier and the Wrong Things Harder (St. Martin’s Press, 2024).
+He explained, “To continue improving, we need the ideas from those on
+
+the front lines to help us understand where the impediments are for our
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

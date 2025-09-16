@@ -1,13 +1,11 @@
-## After the pandemic, and its impact on our epidemic of loneliness
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9324c2b5f6bc0ddf8e293c5f42c8b875e2276c91
+title: H08OPG-PDF-ENG
+---
+## transforms even a mediocre physical environment (Company A) into a
 
-and isolation, it seems timely to acknowledge that we need to make
+thriving space for innovation is the people in it and what brings and
 
-a signiﬁcant investment in rebuilding the social fabric and social
-
-infrastructure of our organizations ﬁrst, or at least in parallel with evaluating eﬀorts for the return to the oﬃce. In this respect, the physical
-
-workspace is seen as a unique tool to be strategically leveraged in
-
-enabling that long rebuilding process.
-
-What are your recommendations for the role of physical
+keeps them there—together.

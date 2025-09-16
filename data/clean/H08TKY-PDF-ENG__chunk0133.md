@@ -1,7 +1,11 @@
-## Resource-based view of the ﬁrm (RVB): The resource-based view of
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d51d084244452b816d00da6072f65710bc23b1d3
+title: H08TKY-PDF-ENG
+---
+## Organizational Performance,” by Paul Rogers and Marcia W. Blenko
 
-the ﬁrm comprises a pragmatic and rigorous set of ﬁve market tests to
+(2006)
 
-determine whether a company’s resources are truly valuable enough to
-
-serve as the basis for strategy, and it integrates that market view with
+. . .

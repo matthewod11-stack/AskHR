@@ -1,7 +1,7 @@
-# JOURNAL OF WORKPLACE BEHAVIORAL HEALTH
-
-encountering mindful, persistent cohesion with others.” Filstad et al. (2019) had 51 students take one to four snapshot photographs with accompanying text explaining what “belonging at work” meant to them. Collective inter- pretation by the authors included the following themes: being part of some- thing (on equal terms); building connection; and tension and negotiation as part of becoming. McClure and Brown (2008) interviewed a heteroge- neous sample of twelve adults asking about their feeling of belonging as experienced at work. Six belonging themes were identified: (1) discovery of self within a job; (2) being invited and learning to be part of a group; (3) wanting to be included; (4) learning how to connect; (5) doing meaningful work; and (6) not-belonging, e.g., fear, rejection, and competition.
-
-Through these three qualitative articles and the authors’ interpretation, new item generation ideas including freedom of expression, and appreciat- ing and honoring differences surfaced, reinforcing newer, practitioner-ori- ented studies, i.e., Herbert (2020), Gurchiek (2022). These new item-testing ideas were combined with modifying existing items based on the earlier mentioned themes around connection, inclusion, and acceptance. This will be further discussed in the Measures section. Overall, by combining these different sources, the authors generated a new domain of items covering the OB construct for subsequent testing and scale development. Given the lack of prior research, this suggested the following general research ques- tion (RQ1) to be tested:
-
-RQ1 – reliable and valid new OB scales can be measured.
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 4430f36cdc23872d9f6edcf4a2c08edc4b10d12c
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# experience organizational belonging?”

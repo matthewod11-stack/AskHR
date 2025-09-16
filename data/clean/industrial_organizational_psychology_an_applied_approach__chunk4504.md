@@ -1,13 +1,23 @@
-## Welsh, D. H., Bernstein, D. J., & Luthans, F. (1992). Application
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3146c491d9e753a2cbc56c5c57de958c1543f8dd
+title: industrial_organizational_psychology_an_applied_approach
+---
+## dormitory. Journal of Applied Psychology, 63, 458–466.
 
-of the Premack Principle of reinforcement to the quality performance of service employees. Journal of Organizational Behavior Management, 13(1), 9–32.
+Weiss, H. M., Dawis, R. V., England, G. W., & Lofquist, L. H.
 
-Werner, J. M., & Bolino, M. C. (1997). Explaining U.S. Courts
+(1967). Manual for the Minnesota Satisfaction Questionnaire. Minneapolis: University of Minnesota, Industrial Relations Center.
 
-of Appeals decisions involving performance appraisal: Accuracy, fairness, and validation. Personnel Psychology, 50(1), 1–24.
+Weiss, H. M., & Shaw, J. B. (1979). Social inﬂ uences on
 
-Wernimont, P. F. (1962). Re-evaluation of a weighted application
+judgments about tasks. Organizational Behavior and Human Performance, 24, 126–140.
 
-blank for oﬃ ce personnel. Journal of Applied Psychology, 46, 417–419.
+Wells, S. J. (2000). Th e elder care gap. HR Magazine, 45(5), 39–46.
 
-Wexley, K. N., & Latham, G. A. (2002). Developing and training human resources in organizations (3rd ed.). Upper Saddle River, NJ: Prentice Hall.
+Wells, S. J. (2004). From ideas to results. HR Magazine, 50(2),
+
+55–58.
+
+Wells, S. J. (2005). No results, no raise. HR Magazine, 50(5), 76–80.

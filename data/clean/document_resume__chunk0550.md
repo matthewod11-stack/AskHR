@@ -1,5 +1,11 @@
-# cations for Personnel Selection," Psychological Bulletin 87 (January 1980), pp. 1-28.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 72c9108174dd96503d6c7d8efe2e00e6a0b2b5ee
+title: document_resume
+---
+# (Chicago: Dryden, 1987), p. 231.
 
-- 16. Gharpode, op. cit.
+- 14. American Psychological Association, op. cit., p. 5.
 
-- 17. Robyn M. Dawes, "Suppose We Measured Height With Rating Scales
+- 15. Kenneth Pearlman, "Job Families. A Review and Discussion of Their Impli-

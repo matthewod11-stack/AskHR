@@ -1,9 +1,13 @@
-## at HAPI Consulting — where, because of the reorganization, many
+---
+source_path: H07P5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6f150e9581b0788ec499c514cd2c6bc4bb5b667
+title: H07P5A-PDF-ENG
+---
+# Experience bias
 
-employees had been forced to put their routine work on hold. During
+The ﬁrst bias I observed was what we call experience bias, one aspect of
 
-that period, reviewers had judged employees instead on how they had
+which is overvaluing tasks that are easy to deﬁne.
 
-chosen to refocus their energies. Men, on the whole, had chosen work
-
-that was much easier to recognize. They spent more time on highly
+This form of bias, I found, was prevalent in performance reviews

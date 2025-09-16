@@ -1,3 +1,9 @@
-## regularly withhold feedback or concerns from senior leadership. The
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd5f136d383b3423634bfec4b8b611b8ae32d036
+title: H08VNO-PDF-ENG
+---
+# HBR / Digital Article / To Change Company Culture, Focus on Systems—Not Communic…
 
-top reasons? Futility and fear. Many said they’d spoken up before and nothing changed. Others feared being labeled diﬃcult, disloyal, or high-
+Our research found that in these environments, 69% of employees

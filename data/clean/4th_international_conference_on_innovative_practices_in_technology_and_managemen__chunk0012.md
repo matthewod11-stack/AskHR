@@ -1,13 +1,9 @@
-# intelligent machine
+---
+source_path: 4th_international_conference_on_innovative_practices_in_technology_and_managemen.md
+pages: n/a-n/a
+chunk_id: ea6ac7219bf2f84b6fb4a99d0a06a41cb9e5ce34
+title: 4th_international_conference_on_innovative_practices_in_technology_and_managemen
+---
+# the
 
-In the research by [6], was on the investigation the the correlation between employee characteristics and predictive attrition rate. The data consisted of job-related attributes and demographic profile of employees and the research consequences were employed to formulate a predictive model for forecasting the probability of employee attrition.
-
-Another study presented a novel method of ML techniques know as XGBoost system to forecast employee turnover. This in approach showed a high degree of effectiveness determining the likelihood of an employee quitting the organization and examining various variables influencing their decision-making process. This research provided timely and accurate forecasts of employee turnover, demonstrating a model with a low error rate and an accuracy rate of almost 90%. In order to improve the accuracy of staff turnover forecasts, the article recommends using the XGBoost approach by [7,10]. On the same approach another study used various ML algorithms to predict employee turnover like Logistic Regression, Naive Bayes, Random Forest, K-Nearest Neighbour (KNN),Extreme Gradient Boosting (XGBoost) and found Extreme Gradient XGBoost, more appropriate technique [8,11]. The research by [9] analyze employee attrition using ML predictive techniques was Artificial Neural Networks (ANN) that uses different architectures as feed forward and recurrent neural network.
-
-979-8-3503-0775-7/24/$31.00 ©2024 IEEE
-
-Authorized licensed use limited to: Visvesvaraya Technological University Belagavi. Downloaded on July 18,2024 at 09:29:23 UTC from IEEE Xplore. Restrictions apply.
-
-III. METHODS AND APPROACHES OF ML This study explores various supervised ML algorithms, specifying their descriptions, demonstrations, and evaluations concerning their efficacy in predicting employee attrition. The following section offers a comprehensive overview of the theoretical foundations underlying these algorithms. A. Decision Tree (DT):
-
-DT is defined as a tree that uses feature values to organize instances or regression models into classes inside a tree-like structure. Made up of the three basic segment features—the internal, leaf, and root nodes—each node in a DT indicates a characteristic of the instance that needs to be classified. Test results are represented by branches, while class distribution is shown by leaf nodes. Classification starts at the root node, where instances are arranged according to the values of their features [12]. Alduailij. For clarification, a decision tree flowchart is provided as a visual representation.
+forthcoming

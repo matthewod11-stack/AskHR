@@ -1,13 +1,15 @@
-## that care enough about employee morale and engagement to actually
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a80d0e0561032ac722d065384a324b7971113c7
+title: H08N2T-PDF-ENG
+---
+## The underlying reasons for the prevalent interest in job-switching and
 
-poll employees about their experience. We could expect things to be
+career-pivoting are well known. First, most people dislike their jobs,
 
-even bleaker for other workers. Second, although managers and leaders
+with Gallup data showing that only three in 10 people feel engaged at
 
-play a major role in driving employee motivation and performance
+work. Note that these estimates are based on people who work in some
 
-(or lack thereof), most people are disenchanted with their boss, if not
-
-traumatized by them: Research shows that people trust strangers more
-
-than their manager; that merely 20% of boards feel conﬁdent in the
+of the most successful organizations in the world—that is, companies

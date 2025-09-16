@@ -1,13 +1,7 @@
-## windowlessness: A study of the use of visual decor in
-
-references
-
-639
-
-windowed and windowless oﬃ ces. Environment & Behavior, 18, 604–622.
-
-Heilbroner, D. (1993). Th e handling of an epidemic. Working
-
-Woman, 2, 60–65.
-
-Heilman, M. E., & Alcott, V. B. (2001). What I think of me: Women’s reactions to being viewed as beneﬁ ciaries of preferential selection. Journal of Applied Psychology, 86(4), 574–582.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 20e222c72611f377418fa5768d395f65d5bb3110
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Heerwagen, J. H., & Orians, G. H. (1986). Adaptations to

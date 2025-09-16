@@ -1,25 +1,21 @@
-# drive cash ﬂow.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb8be74d21678f95e4266fa201d39ba8f918f7cf
+title: R0507Q-PDF-ENG
+---
+## attention to short-term ﬁnancial measures like quarterly sales and
 
-Some critics go much further in their indictment of ﬁnancial measures.
+operating income? Many have criticized ﬁnancial measures because
 
-They argue that the terms of competition have changed and that
+of their well-documented inadequacies, their backward-looking focus,
 
-traditional ﬁnancial measures do not improve customer satisfaction,
+and their inability to reﬂect contemporary value-creating actions.
 
-quality, cycle time, and employee motivation. In their view, ﬁnancial
+Shareholder value analysis (SVA), which forecasts future cash ﬂows
 
-performance is the result of operational actions, and ﬁnancial success
+and discounts them back to a rough estimate of current value, is an
 
-should be the logical consequence of doing the fundamentals well. In
+attempt to make ﬁnancial analysis more forward-looking. But SVA still
 
-other words, companies should stop navigating by ﬁnancial measures.
-
-By making fundamental improvements in their operations, the ﬁnancial
-
-numbers will take care of themselves, the argument goes.
-
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
-
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+is based on cash ﬂow rather than on the activities and processes that

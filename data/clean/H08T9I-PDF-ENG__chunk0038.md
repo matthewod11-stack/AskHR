@@ -1,9 +1,39 @@
-# timing to the task at hand.
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7bcddb43c2f85b6596d4720fe5d18e3a88cb4c5d
+title: H08T9I-PDF-ENG
+---
+# competitors.
 
-This article was originally published online on August 1, 2025.
+. . .
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Innovation is often seen as a badge of honor—bold, visionary, and
 
-11
+transformational. But the reality is more complex: many ﬁrms invest
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+heavily in innovation only to produce meager results. Our research
+
+and framework suggest that before asking how to innovate, managers
+
+should ﬁrst ask whether innovation is the right strategic move at all.
+
+By understanding your ﬁrm’s relative position in the industry, you can
+
+make more informed choices.
+
+If you’re in a nascent industry or near the performance frontier,
+
+innovation may be necessary to break new ground. But if you’re in
+
+a mature industry, imitation may be the faster path to performance
+
+gains. Imitation is not failure. It is strategic adaptation. Knowing when
+
+to imitate can save resources, reduce risk, and accelerate impact. The
+
+challenge for managers is to diagnose where they are and then conﬁgure
+
+the organization accordingly. Whether the answer is innovation or
+
+imitation, success depends on aligning structure, talent, routines, and

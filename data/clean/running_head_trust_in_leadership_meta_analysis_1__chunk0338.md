@@ -1,21 +1,27 @@
-# Abusive
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 7031201bfd42c1e34a3c51e949ea80ea9b80938f
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Paternalistic - Authoritarian
 
-8
+5
 
-3058
+1793
 
-- .42
+- .41
 
-- .48
+- .46
 
-- .36
+- .35
 
-- .48
+- .49
 
-.08
+.06
 
-28.04
+45.94
 
-- .57
+- .56
 
-- .38
+- .41

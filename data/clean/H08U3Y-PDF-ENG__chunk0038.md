@@ -1,15 +1,15 @@
-## perspectives into account more accurately.
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16c11f28c053dd02c9b283f5043e9ff2bccc3f96
+title: H08U3Y-PDF-ENG
+---
+# generally:
 
-Second, they solve the problem of information overload and asymmetry.
+First, they circumvent slow bureaucratic processes. By aggregating all
 
-By intaking and processing vast troves of data and then providing clear
+the relevant data into a dynamic model, CityScope analyzes trade-oﬀs better than city oﬃcials ever could on their own because it integrates
 
-visuals and methods for interacting with and sharing them, CityScope
+all perspectives and tests thousands of alternatives. The result is
 
-removes the informational barriers that favor those with more resources
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a considerably streamlined process, and also one that takes more

@@ -1,5 +1,9 @@
-## THE STRUCTURE OF PERSONALITY ATTRIBUTES 9
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 5ebdd1dc4d0f1b403fcbefc69e51c1e6a70997ed
+title: barrickryan_eds_personality_and_work
+---
+# Are Two Factors Better Than One?
 
-This constellation of two factors is also related to the three most ubiquitous dimensions of affective meaning, which include Potency (or Strength) and Activity in addition to Evaluation (Osgood et al., 1975). Whether this correspondence is due entirely to the imposi- tion of universal tendencies in human cognition or to the natural structure of phenomena “out in the world” remains an open ques- tion. In judgments about human targets, Potency and Activity tend to merge into a single dimension that Osgood and his associates called Dynamism. Unpublished analyses with English-language ad- jectives indicate that the Big Two lexical factors are strongly related to the dimensions of affective meaning as indexed in pancultural bipolar scales applied in self-descriptions. The ﬁrst unrotated lexical factor is strongly related to Evaluation (but independent of Potency and Activity), whereas the second unrotated lexical factor is related to Potency and Activity (but independent of Evaluation).
-
-As is true of the Big One factor structure, no lexical study has presented evidence to contradict the view that this two-factor struc- ture is ubiquitous across languages and cultures. If both the one- and two-factor structures eventually turn out to be universal, the latter has some advantage because two factors provide more in- formation than one.
+Two-factor solutions from several lexical studies also suggest a con- sistent pattern: one factor includes attributes associated with posi- tively valued dynamic qualities and individual ascendancy, whereas the other factor includes attributes associated with socialization, social propriety, solidarity, and community cohesion (Boies et al., 2001; Caprara, Barbanelli, & Zimbardo, 1997; Di Blas & Forzi, 1999; Digman, 1997; Goldberg & Somer, 2000; Hˇrebíˇcková, Os- tendorf, Osecká, & ˇCermák, 1999; Paulhus & John, 1998; Saucier, 1997; Shweder, 1972; White, 1980). Such a factor structure resem- bles that embodied in the theoretical model of Bakan (1966), who labeled the two factors Agency and Communion. In addition, these two factors may be aligned with some of the other sets of dual per- sonological constructs reviewed by Digman (1997) and by Paulhus and John (1998), including Hogan’s (1983) distinction between “getting ahead” (Dynamism) and “getting along” (Social Propriety).

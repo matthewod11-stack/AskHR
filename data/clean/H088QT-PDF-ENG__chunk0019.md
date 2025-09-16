@@ -1,11 +1,11 @@
-## employees to share thoughts and opinions about which aspects of their
+---
+source_path: H088QT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13a068148aec1b696d937b05029ec322172772a8
+title: H088QT-PDF-ENG
+---
+## informal opportunities (e.g., lunch and learns) to share best practices
 
-return-to-oﬃce policies are working — and which need improvement.
+and discuss challenges with peers. For instance, we have heard from
 
-Such conversations can help organizations determine what practices
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+organizations looking for opportunities to bring together managers and

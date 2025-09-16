@@ -1,45 +1,31 @@
-# In this
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: e10c4824fd5d28b472013d3e592c5d161f85058b
+title: california_state_university_northridge_1
+---
+## reinstatement and attorney's fees (Roads to Resolution, 1999).
 
-administrative fees). The time limits for initiating step three or four are same for filing a
+Arbitration times and dates are agreed upon and format followed is outlined. Only
 
-complaint in a civil action and complying with applicable law(s). If an associate tenninates
+relevant information may be exchanged by the parties involved, and sh_all be submitted to
 
-their employment from Prudential, they still may participate in Roads to Resolution.
+the arbitrator. At the arbitration, only facts on addressing the issue can be presented along
 
-Consequently, if an associate decides not to utilize step(s) three and or four and decides to
+with expressly supporting documentation. This process is conducted privately and after
 
-seek legal action or skip a step, Prudential will do the following. "Prudential's intents is to
+the hearing, the arbitrator will submit a final written decision within thirty days, which is
 
-as ask the arbitrator, agency, or court to suspend the proceedings until mediation has
+binding, by the company and the associate involved.
 
-been utilized" (Roads to Resolution, 1999).
+During steps three and four the associate may have an attorney present. The
 
-This particular program has just been introduced to the company this spring;
+compar."1.y will not pay for an attorney representing an associate. If the associate hires an
 
-therefore, no information exists on any outcome presented by the presenters at the town
+attorney then the company will do the same if they are in stage four or five. However, by
 
-hall meeting, in which the author had attended. This approach focuses on understand a
+participati...'lg in a...'1.y step four or five, the company shall i.i1cur the cost of the entire process
 
-problem that may have been miss understood and utilizing all the mechanism at the
+for each party involved (associate, company, mediator administrative fees and or arbitrator
 
-disposal of the company to resolve such issues. It was pointed out that the biggest
-
-concern by associates is fear ofretaliation ifhe or she spoke against a person in
-
-management and or a policy. Chairman and Chief Executive Officer, Arthur F. Ryan, is
-
-committed to have and open door policy at all levels of management, so that no associate
-
-feels a fear of retaliation. This has been expressed on several occasions in e-mail to all
-
-associates and our broadcast television update transmitted internally to communicate the
-
-goals and direction of the company each quarter. An employee is not band from taking
-
-legal action after all the options have been exhausted.
-
-There are five areas, which are not covered under the Roads to Resolution
-
-progra.111, and they are as follows.
-
-57
+56

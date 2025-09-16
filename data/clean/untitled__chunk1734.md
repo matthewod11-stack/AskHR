@@ -1,9 +1,13 @@
-# New York: Oxford University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 58a690ca27c568d8e805107513757bc39031e81f
+title: untitled
+---
+# (2nd ed.). New York: Wiley.
 
-Loutit, C. M., & Browne, C. G. (1947). Psychometric instruments in psychological clinics. Journal of Consulting Psychology, 11, 49–54.
+LaFortune, K. A., & Carpenter, B. N. (1998). Custody evaluations: A survey of mental health professionals. Behavioral Sciences and the Law, 16, 207–224.
 
-Lubin, B., Larsen, R. M., & Matarazzo, J. D. (1984). Patterns of psychological test usage in the United States: 1935–1982. American Psychologist, 39, 451–454.
+Lees-Haley, P. R., Smith, H. H., Williams, C. W., & Dunn, J. T. (1995). Forensic neuropsychological test usage: An empirical survey. Archives of Clinical Neuropsychology, 11, 45–51.
 
-Lubin, B., Wallis, R. R., & Paine, C. (1971). Patterns of psycholog- ical test usage in the United States: 1935–1969. Professional Psychology, 2, 70–74.
-
-Matarazzo, J. D., & Wiens, A. N. (1972). The interview: Research
+Lezak, M. D. (1995). Neuropsychological assessment (3rd ed.).

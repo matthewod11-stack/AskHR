@@ -1,7 +1,13 @@
-# Instructions:
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d0216fa821764173a70b61c3bb4c0956f1aae024
+title: performance_management_3rd_edition_by_aguinis
+---
+# Approvals
 
-Effective evaluation of job performance is an on-going process. Annually, each manager or supervisor provides a summary of progress toward meeting job expectations and last year’s goals. This form is to be used for annual evaluations, and at other times during the year when formal feedback is needed.
+UC Berkeley Performance evaluation and planning form Professional Employee:_______________________ Job Title: ____________________ Department: ___________________ Control Unit: _____________________ Evaluation Period: Appointment:
 
-These forms have been approved for employees covered by the Personnel Policies for Staff Members (PPSM). For represented employees, departments will want to use forms that have been approved by the respective bargaining units.
+From _________ to _________ Annual _______ Other________
 
-Part I—Job Success Factors These include key responsibilities and basic competencies. Rate each factor based on performance during the period identified above. The factors include key responsibilities specific to this position (Part 1-A), and competencies common to the campus professional job standards (Part 1-B).
+Limited/Contract, end date: ____________ Career ______ Probationary period ends: ______________

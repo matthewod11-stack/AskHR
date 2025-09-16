@@ -1,21 +1,7 @@
-# Nadu, India.
-
-As latent variables are not subject to direct observation, they cannot be measured directly. This
-
-study considers Risk-taking as an exogenous variable. In contrast, the observed variables are
-
-Proactiveness and Innovativeness—the above components are indicators of the fundamental
-
-constructs they embody. The additional mediating variables comprise Circular Practices' target
-
-Performance as indicators. Upon implementation of PLS-SEM, an evaluation is conducted to
-
-determine how each indicator variable contributes to representing its corresponding construct.
-
-Additionally, an assessment is made to determine the effectiveness of the collective set of
-
-indicator variables in representing the construct, focusing on reliability and validity. The present
-
-evaluation pertains to assessing the measurement model utilising the partial least squares-
-
-structural equation modelling (PLS-SEM) approach. Partial Least Squares Structural Equation
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 26c9ca7156f04870d8a3bc623bdd4aaf42374d88
+title: issn_print_0976_013x
+---
+# variable of Entrepreneurial Orientation among Entrepreneurs and Managerial individuals in Tamil

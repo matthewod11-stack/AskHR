@@ -1,3 +1,9 @@
-# RESEARCH THEMES FOR THE FUTURE 343
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 21102a748dc3828a2578ec76736f61373247f45d
+title: barrickryan_eds_personality_and_work
+---
+# Conclusion
 
-References Allport, G. W. (1937). Personality: A psychological interpretation. New York:
+The overarching theme of this book is that future theoretical and empirical work investigating the role of personality at work requires a complex analysis of the person, the situation, and behaviors. To reﬂect this complexity fully, researchers will have to incorporate one or more of the themes discussed in this chapter. A critical theme is that future research must take a construct-oriented perspective of the personality trait and give careful consideration to the appro- priate hierarchical level. A second theme necessary to advance re- search is to explain the mechanism through which distal personality traits affect performance outcomes at work. As suggested here, mo- tivational processes are likely to serve as important mediators of these relationships. Third, the context within which these variables are related will play a crucial role in determining the magnitude of the relationship, particularly for those traits (such as Extraversion, Agreeableness, and Openness to Experience) that have consistently been found to have contingent relationships with performance. Fourth, researchers must attend more thoughtfully and systemati- cally to the criterion of interest. Fifth, we need to give careful con- sideration to the appropriate level of analysis of many of these variables, including the situation and motivational processes. It is difﬁcult to ﬁnd an example of research on personality and work that would not be enhanced by incorporating one or more of these themes. Consequently, to advance the ﬁeld signiﬁcantly beyond our present understanding, future studies must address one or more of these themes in a complex way.

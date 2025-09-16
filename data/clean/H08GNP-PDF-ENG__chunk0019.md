@@ -1,9 +1,7 @@
-## Reducing the Prevalence of Abusive Behavior
-
-The key message is clear: Ethical leadership cannot shield employees
-
-from the negative impacts of manager or supervisor abuse. If anything,
-
-it may only make things worse. Given these ﬁndings, what might
-
-leaders, organizations, and employees consider doing to reduce the
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0971c08a2b7dec2d69c7338353cc681e9b624df4
+title: H08GNP-PDF-ENG
+---
+# higher-level manager.

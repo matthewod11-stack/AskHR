@@ -1,9 +1,9 @@
-# Car Manual Agent
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 269ad846c43a658aa8bf9f9a28843ec3ae86e71d
+title: agents_companion
+---
+# it first?"
 
-The Car Manual Agent is specialized in providing answers to car-related questions by
-
-leveraging a Retrieval-Augmented Generation (RAG) system. This agent retrieves relevant
-
-sections from the car manual based on user queries, summarizes and contextualizes this
-
-information using an LLM, and links users to detailed documentation or instructional videos
+56

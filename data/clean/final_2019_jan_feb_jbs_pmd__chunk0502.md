@@ -1,3 +1,11 @@
-# Model (ETA Model)
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: b29f3001104e80ffbbff19af4e1379dea4fe3b74
+title: final_2019_jan_feb_jbs_pmd
+---
+# 3.1 Employment & Training Administration
 
-The components of the competency models created by ETA and enterprises are predictable with the writing that depicts competency models. Rothwell (2002) clarifies that there are center abilities that are expected everything being equal. This would incorporate learning, aptitudes and capacities (usually alluded to as KSAs), just as delicate abilities or practices ( Lucia & Lepsinger, 1999; and Rodriguez, Patel, Bright, Gregory, & Gowing, 2002). The center abilities or aptitudes are comparable crosswise over occupations and are expected of numerous occupations.
+- 3. Competency Models for Training and Development in Organizations
+
+Many organizations make widespread use of competencies. Managers, Learning and Development professionals, and other employees use competency management, dictionaries, measurement and assessment, and competency-based development. Many organizations base their HR policy, and often also their HR development, assessment and throughput cycles, on competencies. The success of this approach is based on the assumption

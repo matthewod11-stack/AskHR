@@ -1,7 +1,19 @@
-# Cognitive
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: c41fe584bbfbd78232bcbe0d0706f13577cb5225
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Affective
 
-.00
+.26**
 
-- .05
+.03
 
-Notes: *p < .05. **p < .01
+.38**
+
+.06
+
+(43%)
+
+(50%)

@@ -1,23 +1,37 @@
-# The Four Stances in Real Time
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ccc98fa93562d8e098b8cf5fc38699692c7c226
+title: R2301H-PDF-ENG
+---
+# DON’T LEAN
 
-Mastery of the four stances is about being able to read each moment
+Contemplating, being still, visualizing, breathing
 
-and shift your stance quickly, under stressful circumstances. For the
+- When team members need to work something out on their own and your presence may be an intrusion or slow their progress
 
-highest-stakes interactions, you will need to draw on all four. Consider
+- When the team is frenetic and needs a break or a time-out to calm things down
 
-a client of ours who, after considerable work mastering the four stances,
+- When the team needs to step into planning or action mode
 
-was able to put them all into action during a tense moment.
+- When a crisis hits and people are looking to you for guidance
 
-Nathan, the CFO of a public health-care company, received news that
+Whatever stance you adopt, be aware that you can use it with varying
 
-its largest business unit had fallen short on its latest revenue forecast,
+levels of intensity. For instance, a Lean In comment can be a directive
 
-imperiling the ﬁrm’s earnings for the quarter. Nathan called an urgent
+or a suggestion, and you can Lean Back with a deep dive on an issue
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+or a more surgical set of questions. Your choice of framing should
 
-12
+be dependent on what will work best for the other person given the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+situation at hand. As you work to improve your ability to use each
+
+stance, it’s best to calibrate your behavior according to your comfort
+
+level. If Leaning In is uncomfortable, for instance, push yourself to
+
+communicate one more thing than you might otherwise. If you don’t
+
+Lean Back enough, try asking a question instead of making a statement.

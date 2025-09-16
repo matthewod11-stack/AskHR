@@ -1,5 +1,7 @@
-## Why It’s Important for Organizations to Be Trauma-Informed
-
-The way organizations support people during periods of trauma is
-
-uniquely powerful, and the ramifications are long-lasting. This is
+---
+source_path: H06YRB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f17c39a4b8654821d47e4d83e74a9ae8013dc73e
+title: H06YRB-PDF-ENG
+---
+# effects.

@@ -1,27 +1,27 @@
-# Empowering
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 9f458a8ac994fabae47f5663432a925c14d6a21f
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Abusive
 
-7
+3
 
-2113
+918
 
-.54
+- .39
 
-.46
+- .48
 
-.61
+- .31
 
-.61
+- .46
 
-.12
+.08
 
-12.78
+35.23
 
-.46
+- .56
 
-.77
-
-Notes. Results are corrected for criterion and predictor unreliability. k = number of correlations; N = number of respondents; r = sample weighted mean correlation; ρ = corrected population correlation; SDρ = standard deviation of the corrected population correlation; % VE = percentage of variance attributed to sampling error in corrected population correlation; 90% CI = 90% confidence interval around the sample weighted mean correlation; 80% CV = 80% credibility interval around the corrected population correlation.
-
-(cid:32)
-
-(cid:32)
+- .36

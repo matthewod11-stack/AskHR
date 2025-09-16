@@ -1,19 +1,29 @@
-## Erez Levin, father of two, adtech specialist at Google, and paternity
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c268c42c2b4068454c3012d0da0c1187a9f9439
+title: H07VWF-PDF-ENG
+---
+# Expect a Learning Curve
 
-leave “dadvocate,” agrees. Levin took advantage of his employer’s
+With any training program, the ﬁrst few days are fun — there’s
 
-parental leave entitlement when his children were born, and does not
+excitement that comes with new hobbies or projects. But then the real
 
-think the question should be if you take parental leave, but how you
+work sets in, and to get better, you have to stick with it. Improvement
 
-take parental leave. “When my daughter was four months old, my wife
+requires dedication, tenacity, commitment, and time. You have to
 
-returned to work, and that’s when I began my full 12 weeks of paternity
+plug through the hard days and can’t give up when things get rough.
 
-leave. I learned that bonding happens during the challenging moments,
+Otherwise, you’ll never meet your goal.
 
-and I had plenty of those, especially in the ﬁrst few weeks of my solo
+Brain training with an infant is no diﬀerent. Everyone who has spent
 
-leave,” he told us. “I beneﬁtted in more ways than I could list, but
+time with a baby knows how hard it can be: the sleep deprivation, the
 
-overall I am conﬁdent that taking my leave got me comfortable being an
+crying, the uncertainty, the monotony. But like other training programs,
+
+you need to persevere, and give your brain the stimulation it needs to
+
+grow and adapt, preparing you for a lifetime of parenthood.

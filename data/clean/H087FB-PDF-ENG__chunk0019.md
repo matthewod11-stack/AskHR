@@ -1,31 +1,25 @@
-# area.
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9aeeac8b4eeaad7ff510fbf8db2a9396c05e44de
+title: H087FB-PDF-ENG
+---
+## Go back and look at past work reviews and 360s.
 
-Is it time to make a pivot or try something new?
+Are there common themes that arise from looking at the data? Do you
 
-Maybe you would enjoy and ﬁnd fulﬁllment from teaching a class at the
+notice areas you could work on? Look back to move forward: cataloguing
 
-local college (or more simply, volunteering to be a guest lecturer). Don’t
+your past can spark insights for where you want to go next.
 
-take on too much change at once, but do consider where a change in
+For example, a client I worked with looked more deeply at her reviews
 
-direction or a schedule addition would add to your life and happiness.
+and 360s from a strength-based lens. We discovered that she enjoyed
 
-Perhaps you’ve always wanted to start a side business. Consider what
+and was good at creating and leading programs to help with the culture
 
-would be the ﬁrst step toward that new venture?
+of the organization. With that knowledge, she decided to speak with
 
-One leader I worked with kept a log of activities he found interesting.
+the CEO about some of her ideas and recommendations. By adding this
 
-He also created a list of fellow empty nesters he wanted to reconnect
-
-with now that they all had more free time. My client found that he
-
-enjoyed sharing experiences with fellow empty nesters, and that his
-
-conversations sparked ideas for activities to add to his log.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+work to her plate, she was able to build skills to shift her work into this

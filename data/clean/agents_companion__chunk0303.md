@@ -1,13 +1,13 @@
-# memory, and task decomposition.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 13d980c08ef6cf26f801f41e6d271e44df49f116
+title: agents_companion
+---
+# Key Takeaways for Developers:
 
-- 2. Metrics Drive Improvement: Start with business-level KPIs (like goal completion, user
+- 1. AgentOps is Essential: Building successful agents goes far beyond the initial proof-
 
-engagement, or revenue) as your "north star." Then, instrument your agents to track
+of-concept. Embrace AgentOps principles, integrating best practices from DevOps and
 
-granular metrics related to critical tasks, user interactions, and agent actions (traces).
-
-Human feedback (👍👍, user surveys) is invaluable.
-
-- 3. Automated Evaluation is Key: Don't rely solely on manual testing. Implement automated
-
-evaluation frameworks that assess agent capabilities, trajectory (the steps taken), and the
+MLOps, but also focusing on agent-specific elements like tool management, orchestration,

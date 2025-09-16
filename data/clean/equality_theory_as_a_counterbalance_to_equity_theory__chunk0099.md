@@ -1,5 +1,9 @@
-# Harvard Business Review, 85, 77–84.
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: 95d2d9b8d13514e712c9652415bc5e123285add2
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# and research. Boston, MA: Allyn & Bacon.
 
-Warren, A. S. (1986). Quality of work life at GM. In J. M. Rosow (Ed.), Teamwork: Joint labor-management programs in America (pp. 119–132). New York, NY: Pergamon Press.
-
-Williamson, O. (1975). Markets and hierarchies. New York: Free
+Walton, R. E. (1985). From control to commitment in the workplace.

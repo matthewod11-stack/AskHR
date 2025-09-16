@@ -1,15 +1,11 @@
-# Intelligence
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ad6119d576d65b1d6e95198d851d0b127d80510a
+title: untitled
+---
+# Evaluation
 
-with today as earlier. Replications generally have proven to be successful (Siegler, 1996). Yet the theory of Piaget has not stood the test of time without many scars. Consider some of the main ones.
+By any standard, Piaget’s contribution to the study of intelli- gence was profound. First, his theory stands alone in terms of its comprehensiveness in accounting for intellectual develop- ment. There is no competition in this respect. Second, even the many individuals who have critiqued Piaget’s work have honored the work by deeming it worthy of criticism. To the extent that a theory’s value is heuristic, in its giving way to subsequent theories, Piaget’s work is almost without peer. And much research today, especially in Europe, continues in the tradition of Piaget. Neo-Piagetians, although they have changed many of the details, still build upon many Piagetian theoretical ideas and tasks for studying development. Third, even the most ardent critics of Piaget would concede that many of his ideas were correct. Many of those ideas, such as of centration, conservation, and equilibration, remain alive today in a wide variety of forms. Fourth, Piaget provided an enormous database for developmental psychologists to deal
 
-First, Piaget’s interpretations of data have proven to be problematical in many different respects. The list of such cri- tiques is very long. For example, there is evidence that in- fants achieve object permanence much earlier than Piaget had thought (e.g., Baillargeon, 1987; Bowers, 1967, 1974; Cornell, 1978). There also is evidence that conservation be- gins earlier than Piaget suspected (Au, Sidle, & Rollins, 1993). As another example, difﬁculties that Piaget attributed to reasoning appear in some instances actually to have been due to memory (e.g., Bryant & Trabasso, 1971).
-
-Second, it now appears that children often failed Piaget- ian tasks not because they were unable to do them but because they did not understand the task in the way the ex- perimenter intended. The research of Piaget points out how important it is to make sure one understands a problem not only from one’s own point of view as experimenter but also from the child’s point of view as participant. For example, being asked whether a collection of marbles contains more blue marbles or more marbles can be confusing, even to an adult.
-
-Third, many investigators today question the whole notion of stages of development (e.g., Brainerd, 1978; Flavell, 1971). Piaget fudged a bit with the concept of horizontal dé- calage, or nonsimultaneous development of skills within a given stage across domains, but many investigators believe that development is simply much more domain speciﬁc than Piaget was willing to admit (e.g., Carey, 1985; Keil, 1989). As another example, children master different kinds of con- servation problems at different ages, with the differences ap- pearing in a systematic fashion (Elkind, 1961; Katz & Beilin, 1976; S. A. Miller, 1976), with conservation of number appearing before conservation of solid quantity, and conser- vation of solid quantity before that of weight.
-
-Fourth, many investigators have found Piaget’s theory to characterize children’s competencies more than their perfor- mance (e.g., Green, Ford, & Flamer, 1971). Indeed, Piaget (1972) characterized his model as a competency model. For this reason, it may not be optimally useful in characterizing what children are able to do on a day-to-day basis.
-
-Fifth, although Piaget believed that cognitive develop- ment could not be meaningfully accelerated, the evidence suggests the contrary (Beilin, 1980). Piaget probably took too strong a position in this regard.
-
-Finally, some have questioned the emphasis Piaget placed on logical and scientiﬁc thinking (e.g., R. J. Sternberg, 1990b). People often seem less rational and more oriented
+146

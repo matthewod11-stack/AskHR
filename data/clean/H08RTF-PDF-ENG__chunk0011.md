@@ -1,17 +1,15 @@
-## wellness research, individual-level interventions like well-being apps
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32246b8480f9b8c4eceabdc3775e4287013e2747
+title: H08RTF-PDF-ENG
+---
+# Change Systems, Not Individuals
 
-and employee assistance programs are likely to be ineﬀective unless
+Companies are making larger investments in employee wellness
 
-paired with systemic interventions.
+programs than ever; however, data suggests those programs aren’t
 
-To take a more holistic approach to workplace well-being, the authors
+actually resulting in better well-being outcomes for employees.
 
-suggest leaders become “behavioral architects” by embedding well-
-
-being strategies—and support—into all levels of the organization.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+According to a trio of authors drawing on a wide body of workplace

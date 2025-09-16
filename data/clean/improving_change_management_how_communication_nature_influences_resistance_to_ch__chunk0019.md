@@ -1,21 +1,57 @@
-# Resistance to Change
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: f0911896acede6e8cf9b9f12ec5a631a1bf13b3d
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+## communications in change processes (Ford and Ford, 1995; Kotter, 1996; Lewis and
 
-Resistance to change has usually been recognized as a significant factor that
+Seibold, 1996; Daly, Eague et al., 2003; Elving, 2005), and according to some of them,
 
-can influence the outcomes of an organizational change effort (Chiung-Hui and Ing-
+communications and organizational change are inextricably linked processes (Lewis,
 
-Chung, 2009). Organizational change literature offers several definitions for resistance
+1999). It can be easily found, throughout the literature review, that change is a
 
-to change. In fact, the common point among most of these definitions is that resistance
+communicative challenge (Allen et al 2007), or in another similar view, that change
 
-to change is seen as an important reason for change process failures (Armenakis,
+implementation is primarily a communication problem (Lewis and Seibold, 1998). As
 
-Harris et al., 1993), and consequently, as a problem to be minimized or overcome
+Bordia et al (2004: 96) illustrate:“Communication processes are inherently a part of
 
-(Nadler, 1993). One can find an example of this perspective in Coetsee’s statement, as
+these implementation activities”.
 
-resistance to change can be understood as "opposed or blocking energies and power
+Thus, it is necessary to look deeper into relational and communicational
 
-directed at impeding, redirecting, rejecting or stopping change" (Coetsee, 1999:209).
+processes while recognizing that sensemaking and sensegiving, and consequently
 
-When the concept of resistance to change is re-elaborated,it is directed to an
+change itself, are not under complete control. As the sensemaking theory of change and
+
+the other socially-constructed perspectives suggest, all that is involved in change will
+
+also bring about change through their social processes of interaction and the meanings
+
+they develop as a result (Berger and Luckmann, 1976). Indeed, such a perspective will
+
+shed light on some dialectical distinctions, revealing those that would not be the best
+
+denomination. As for now, change recipients might be better denominated change
+
+participants, due to the active, and not passive, role they play in change (Balogun and
+
+Johnson, 2004). As discussed further in this literature review, this “redenomination” of
+
+roles would also be applied to the resistant to change label.
+
+As an influenced but not controlled process, somehow sensemaking can
+
+generate disparate senses in comparison to what was expected from change leaders. If
+
+sensemaking occurs in the direction expected, or if comes up with an unexpected
+
+response, this is essential information that needs to be monitored by change leaders.
+
+Responsiveness to change, or resistance to change as it has been usually called, has
+
+also been a deeply studied aspect of organizational change that will be advanced in the
+
+following section in both conceptual and operational dimensions.

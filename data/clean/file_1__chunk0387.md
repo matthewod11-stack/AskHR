@@ -1,3 +1,17 @@
-# THEORY AND HYPOTHESES
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 950a9efc7ed2d990361335efc53d8e1cfa22c928
+title: file_1
+---
+# 88
 
-In order to explore how individuals perceive overall gender inequality, it is first essential to define the meaning of gender equality. This study builds on liberal feminist theory and sees gender equality as equal opportunities for men and women to realize their ambitions in society in general (Lehto, 1999). The problem of gender inequality is seen as a question of
+may pave the way for overcoming gender inequality. Furthermore, focusing on individuals’ perceptions of overall gender inequality rather than actual, statistically determined inequality is meaningful since knowledge of these perceptions may lead to positive changes. If people are not aware of gender inequality, it may affect their work-related attitudes and behaviours (Sanchez and Brock, 1996). It may lead, for example, to problems with retention, morale, performance, and satisfaction (Fields, Pang and Chiu, 2000; McDaniel, Schoeps and Lincourt, 2001; Tepper, 2001; Stone-Romero and Stone, 2005; van Dierendonck, Schaufeli and Buunk, 2001).
+
+Various factors may have an impact on the way individuals perceive overall gender inequality. For example, based on the gender socialization perspective (Stockard, 1999), Smith and Rogers (2000) concluded that men and women tend to regard their workplaces with different attitudes and expectations and, thus, may perceive gender inequality differently. The social context, in which the concept of gender inequality is located, can also have an impact on the way gender inequality is perceived (Verloo and Lombardo, 2007). Based on theories of social psychology, both Hollander and Howard (2000) and Deaux and Major (2000) explored the relationships between individual and social inequalities and proposed a social-psychological model of gender.
+
+However, not only gender and social environment may influence the way individuals perceive overall gender inequality. More theoretical and empirical work is thus needed to shed light on the question of whether and to what extent individuals with different occupational statuses perceive overall gender inequality to exist. A thorough study is required to explore the range of individual factors that may influence individuals’ perceptions of overall gender inequality.
+
+This paper develops a conceptual model of factors hypothesized to influence individuals’ perceptions of overall gender inequality. By scrutinizing theories from social psychology, such as the gender socialization perspective (Stockard, 1999), occupational socialization theory (Smith and Rogers, 2000), and relative deprivation theory (Crosby, 1982), the current study identifies a comprehensive list of potential individual determinants of individuals’ perceptions of overall gender inequality. The hypotheses are tested with the Finnish Gender Equality Barometer 2008, which investigates the experiences and attitudes of individuals in matters concerning gender inequality.
+
+In the next section, I develop a set of hypotheses concerning factors suggested to have an impact on individuals’ perceptions of overall gender inequality. The subsequent section discusses the sample, variables, and statistical techniques that are applied to test the hypotheses. The final section provides the study’s conclusions, limitations, and suggestions for future research.

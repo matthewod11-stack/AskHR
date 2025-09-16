@@ -1,5 +1,7 @@
-# Avoid All-or-Nothing Language
-
-It’s important to make sure your feedback doesn’t include exaggerated
-
-language like “you always contribute” or “you never miss an
+---
+source_path: H08GLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be688091f4b4182ffbae5c09a362eff6c3323e83
+title: H08GLK-PDF-ENG
+---
+# growth, and why.

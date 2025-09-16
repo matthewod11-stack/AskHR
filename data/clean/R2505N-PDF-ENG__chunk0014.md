@@ -1,21 +1,35 @@
-## HBR / Magazine Article / Why Aren’t I Better at Delegating?
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8462bd6073d95dc1af067079c80edf5b59e36d6b
+title: R2505N-PDF-ENG
+---
+# Deciding What to Delegate
 
-and how people should behave (with one another, other colleagues,
+Before you can successfully delegate, you need to learn to diﬀerentiate
 
-clients, and others) to get it done.
+between the work you should keep—and, indeed, do more of—and the
 
-By contrast, activity-based work—including making decisions about
+work that is better left to a team member. My advice is simple: When
 
-what work to do to achieve the company’s or team’s goals—should be
+considering any meeting, task, or responsibility, always ask yourself,
 
-your team members’ responsibility. That’s because their time costs less
+“Am I the best and cheapest person to get this done?” If the answer is no,
 
-than yours, they typically have more on-the-ground insight to drive
+delegate the work and give the person you’re handing it to the context
 
-good choices, and they’ll be motivated to do the job well when given
+needed to succeed.
 
-autonomy and accountability. Case study research I conducted from
+Context-setting includes explaining why the work needs to be
 
-2011 to 2013 showed that leaders’ strategic initiatives were more likely
+done (following an organizational strategy, entering a new market,
 
-to succeed when they made the desired outcomes clear but left the
+onboarding a client, or investing in a project, for example); the results
+
+the person or group is expected to deliver; the deadline for the work;
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,9 @@
-## American Journal of Sociology, 21(6), 721–864.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f5a8cbe05b115d1dad7b85f73271f4ce8b6f8f28
+title: untitled
+---
+# London: Methuen.
 
-Smith, M. B. (1986). McCarthyism: A personal account. Journal of
-
-Social Issues, 42(4), 71–80.
-
-Smith, R. (1997). The Norton history of the human sciences. New
+Small, A. W. (1916). Fifty years of sociology in the United States.

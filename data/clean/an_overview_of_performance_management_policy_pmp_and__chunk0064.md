@@ -1,9 +1,15 @@
-# excellence in service.
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: f18be733bbc7613592b2a7b39e5afedd826a0ef4
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# efficiency.
 
-- (cid:32) Ensure respect for community, good governance and compliance in everything we do.
+6
 
-2.4 VALUES:
+(cid:32)
 
-The Values of CBL defines the expected behaviour of the employees to be able to
+(cid:32)
 
-collectively achieve the Mission and the Vision of the bank.
+- (cid:32) Promote innovation and automation with a view to guaranteeing and enhancing

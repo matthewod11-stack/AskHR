@@ -1,9 +1,11 @@
-# Summary
+---
+source_path: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio.md
+pages: n/a-n/a
+chunk_id: 55041f4a658f09fb12ace999d2eb3a8d700e681f
+title: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio
+---
+# Litano and Major
 
-The organizational career is practical for employees when their professional development needs are addressed in concord with consideration of their nonwork circumstances. Through support for work–life balance, organizational leadership can facilitate employees’ whole-life career develop- ment by providing the benefits of the contemporary career paths within a single organization. In return, these organizations realize a competitive advantage through increased profitability, retain- ing valuable workers, and attracting talented applicants. Facilitating a whole-life approach to career development provides organizations with an opportunity to reinvent the organizational career in the new career era.
+talented workers, which supports the notion that work–life management may be in the employer’s best financial interest. The ‘‘business case’’ for work–life management was also supported by Clifton and Shepard (2004), who suggested that these initiatives are effective because family-friendly companies attract a larger applicant pool enabling the organization to be more selective. Organizations that pro- vided and supported work–life programs attracted higher quality candidates and realized increases in organizational productivity through increased employee output. Evidence from a recent meta-analysis suggests that the presence of family-friendly programs is predictive of applicant attraction (Uggerslev, Fassina, & Kraichy, 2012).
 
-Acknowledgments Special thanks to Benjamin R. Kaufman for his help in preparation of this article.
-
-Declaration of Conflicting Interests The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
-
-Funding The author(s) received no financial support for the research, authorship, and/or publication of this article.
+Although limited in scope, a growing body of literature has been dedicated to exploring how the accommodation of employees’ whole-life development needs may positively affect organizational performance and effectiveness. For example, organizational commitment to employees’ emotional and physical well-being positively impacts organization-level return on assets (Lee & Miller, 1999). The authors posit that commitment to employee well-being stimulates a mutual sense of loyalty that gen- erates performance improvements and organizational success, acting as a competitive advantage for these organizations. Further research has evidenced that organizations investing in employee human capital development realize increased financial performance, return on equity, and customer satisfac- tion (Carmeli & Schaubroeck, 2005). Sands and Harper (2007) found the use of family-friendly pro- grams to be negatively related to employee turnover and positively associated with organizational return on assets and return on equity. Ngo, Foley, and Loi (2009) found work–life program availability to be related to increased market performance (i.e., sales/turnover, net profit, and new product devel- opment) and HR-related performance (e.g., employee morale and retention). Thus, organizations that approach career development through a whole-life lens attract more applicants, retain valuable employees, and may realize increases in productivity and financial performance. Accommodating employees’ personal needs through work–life initiatives may improve retention and make the organi- zational career a more viable option.

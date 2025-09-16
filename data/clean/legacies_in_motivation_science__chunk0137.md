@@ -1,5 +1,13 @@
-# LOCKE AND LATHAM
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: 3a343cd3c1e33522616ccb3e109636860986e2b0
+title: legacies_in_motivation_science
+---
+# s i
 
-alties for failure to attain them. Impossible goals can motivate in the short run if people try hard to attain them. In ﬁeld settings, impossible-to- attain goals can lead to demoralization and pun- ishment. In organizations, goals should be chal- lenging yet attainable.
+e l c i t r a
 
-Inductive theory building re- quires evidence of generality. Although we had no formal theory of induction when we began our research, we reported evidence of generality across tasks (n (cid:3) 88), participants (n (cid:2) 40,000), countries (n (cid:3) 7), outcome measures (n (cid:3) 10), and time spans ranging from 1 min to several years,5 designs (experimental, correlational), settings (laboratory, simulation, ﬁeld), and goal sources (assigned, self-set, participatively set). Studies also showed that goal setting could be used successfully with groups/teams, divisions, and even small organizations (e.g., Porter & Latham, 2013; Pritchard, Young, Koenig, Sch- merling, & Dixon, 2013).
+s i h T
+
+98

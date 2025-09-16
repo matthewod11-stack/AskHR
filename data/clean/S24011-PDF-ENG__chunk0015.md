@@ -1,7 +1,27 @@
-## transcend ego, attachments, insecurities, impulses, and everyday habits
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f61eba20dafe4fc63215825bb6860ad8a289bbe4
+title: S24011-PDF-ENG
+---
+## curve, rating every individual as a low, average, or high performer. In
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+fact, each of us is the whole bell curve. As a wave of scientiﬁc ﬁndings
 
-3
+shows, the personality and behavior of someone will change with the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+context that person is in, the thoughts and feelings that individual is
+
+experiencing, and who else is present. Someone may be extroverted in
+
+one situation, introverted in another; agreeable in one, disagreeable in
+
+another. That’s why leadership is not a static trait—it is a dynamic state.
+
+But one thing remains constant: When we’re “triggered”—emotionally
+
+upset—we tend to underperform. Conversely, when we’re “centered”
+
+—calm, attuned, and open—we’re more likely to achieve high
+
+performance. This happens when we’re connected to our inner core. We

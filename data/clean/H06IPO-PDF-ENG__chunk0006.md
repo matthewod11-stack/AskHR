@@ -1,11 +1,23 @@
-# HBR / Digital Article / Managers: Compassion and Accountability Aren’t Mutually Exc…
+---
+source_path: H06IPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa0c945b92a764bb0305a4b21b538cf3391ebb0f
+title: H06IPO-PDF-ENG
+---
+# critical to performance.
 
-make that go away. “It’s not going to be a stress-free world,” says Hirsh.
+Don’t ignore the reality
 
-“There’s always going to be something going on in people’s lives.” He
+Now that we’re 18 months into this crisis, and many people are trying
 
-also cautions that the “old style” of dealing with mental health at work
+to return to some semblance of normalcy in their lives, you might
 
-— essentially keeping it hidden and pretending it doesn’t exist — just
+assume that you can go back to a pre-pandemic level of productivity.
 
-doesn’t work. We know now that people want to be able to talk openly
+But don’t ignore the fact that most people are still feeling burned out. “We are all depleted,” says Dutton, and reopening oﬃces isn’t going to
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

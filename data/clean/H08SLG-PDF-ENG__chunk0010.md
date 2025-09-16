@@ -1,19 +1,17 @@
-## experience facilitating meetings, leaders almost always underestimate
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3584009091fff4d89706643e26b966c830b4f653
+title: H08SLG-PDF-ENG
+---
+# exploration.
 
-how much airtime they take up.
+You may think that, unlike this manager, you already engage in spacious
 
-Leaders also tend to mistakenly believe that it’s easy for their direct
+mode, so you don’t need to worry. But leaders tend to overestimate
 
-reports to move into spacious mode without permission—or that it
+how spacious their own behaviors are. For example, our research has
 
-would be easy to ask for that permission. This is driven by “advantage
+shown that the more senior we are in a hierarchy, the more we think
 
-blindness,” which can cause those with higher standing in a hierarchy
-
-to underestimate the power they hold and the impact it has. Therefore
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+we are open to hearing others, when we are really not. Similarly, in our

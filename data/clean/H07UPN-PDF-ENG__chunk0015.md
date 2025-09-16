@@ -1,7 +1,19 @@
-# no improvement.
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2542999355ca6bc18ca5ed453bbb4c773f68bca2
+title: H07UPN-PDF-ENG
+---
+# enhance collaboration.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+- Align on why, when, and how to solicit feedback from customers,
 
-3
+peers, supervisors, direct reports, and beyond. Listening to feedback
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+yields insights about what the team is doing well and ideas on what to
+
+consider changing.
+
+- Schedule regular discussions on how your team is working together,
+
+sharing ideas for what to try diﬀerently. Without change, there can be

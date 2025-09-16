@@ -1,17 +1,27 @@
-# Alumni Feedback
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a64f35b61c241b419549dcd1d4d9e7ff59b38709
+title: H0832B-PDF-ENG
+---
+## Senior Director of SAP Alumni Relations, shares, “We customize content
 
-While some organizations consider an alumni program to be a top-
+for a variety of groups including executive alumni, ‘early talent’ alumni
 
-down eﬀort, others make considerable eﬀorts to gather feedback from
+who are at the start of their careers, alumni in speciﬁc geographical
 
-alumni. This often takes the form of issuing surveys, though even
+regions, retirees, and recent leavers. The possibilities for targeted
 
-this practice isn’t nearly as common as it should be: Only half of
+communication are unlimited, and this is a critical factor for successful
 
-organizations with formal programs implement a survey. When an
+connection with our alumni community.” Another targeted alumni
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+communication strategy is monitoring alumni milestones such as a
 
-5
+“one-year since exit” anniversary. Aligning communications with these
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+kinds of alumni milestones may be particularly important, as research
+
+suggests reaching out one year after exit may be the best time to check
+
+in about returning to the organization.

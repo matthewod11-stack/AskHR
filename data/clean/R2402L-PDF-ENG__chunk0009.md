@@ -1,37 +1,33 @@
-## HBR / Magazine Article / Negotiate Like a Pro
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14714595d3849264bcea3a2880c986f4be722846
+title: R2402L-PDF-ENG
+---
+# Eugenia Mello
 
-Over several weeks he and I sit side-by-side in a corporate oﬃce, 16
+Pirates have kidnapped six crew members off a ship operating in the
 
-hours a day, with a mobile phone in front of us on the table. Of course,
+Gulf of Guinea, near the west coast of Africa. The corporate owner of
 
-we take breaks to sleep and eat, especially when we’re not expecting a
+the vessel and employer of the victims has called me in from England
 
-call. But our focus is on that phone. And when the kidnappers do reach
+to help negotiate their release. My ﬁrst step is to calm everyone down.
 
-out, or we’re told to make contact, we turn our attention fully to it.
+We can’t navigate this situation from a place of agitation and high stress.
 
-They initially demand $5 million in ransom. I know from experience
+My second is to choose someone from the corporate crisis team whom
 
-and training that if we agree to pay it immediately, they’ll ask for more;
+I trust to interact with the bad guys—a person who can communicate
 
-or they’ll take it and then hit another of the company’s ships next week.
+in the right language and dialect, who seems emotionally stable and
 
-So with my coaching, John begins communicating with the kidnappers.
+resilient, and who, most important, will be able to listen to and connect
 
-“That is a lot of money, which we don’t have. We need time to see how
+with the people holding his colleagues. I quickly decide on John.
 
-much we can raise. Let’s speak again in two days.”
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Later, “You seem upset that we can’t move faster, but I assure you we are
+1
 
-trying our best. Please look after the hostages.”
-
-Later, “OK, let me make sure I’m understanding you. If we deliver
-
-the cash as agreed, you promise to release and return the hostages
-
-unharmed? And no further demands or delays?”
-
-Our aim is not just to stall for time but also to build rapport and trust
-
-with the other side. This is critical to success in high-stakes situations.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

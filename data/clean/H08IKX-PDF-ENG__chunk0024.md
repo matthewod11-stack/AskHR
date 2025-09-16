@@ -1,31 +1,55 @@
-## HBR / Digital Article / Is Your Company’s Problem Complicated? Or Complex?
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43e2f291edef950001125a45a2177a3b2cc6c041
+title: H08IKX-PDF-ENG
+---
+## twentieth century to the present illustrate the diﬀerences between
 
-panic and a massive recall by Johnson & Johnson. Despite its diﬃculty, we can classify this crisis as a complicated problem. Once
+complicated and complex problems. During the World Wars, military
 
-Tylenol executives decided to remove and destroy all existing capsule
+strategies were concerned mainly with mass mobilizations, clearly
 
-inventory from stores, they understood the step-by-step process
+deﬁned enemies, and battles over territory. While enormously
 
-required to execute this response. To prevent future tragedies, J&J
+challenging, these wars were complicated because they involved
 
-and its competitors quickly rolled out tamper-resistant packaging;
+coordinating large forces, using established tactics, and having
 
-this response required speed and ingenuity, but it wasn’t especially
+relatively predictable outcomes. In these conﬂicts, at some point the
 
-complex. Indeed, J&J had already begun marketing caplets (a coated
+war ended, and one side was victorious.
 
-tablet), and it moved more aggressively to roll them out as a safer
+In contrast, the wars and conﬂicts since the Vietnam War have
 
-alternative to capsules. Then it needed to reassure customers that this
+increasingly taken on a complex nature. The rise of terrorism, proxy
 
-product was safe and build the capacity to produce and distribute it. All
+wars, and cyber warfare has introduced a new level of unpredictability.
 
-of this required signiﬁcant leadership moves, but the steps J&J needed
+These conﬂicts do not have clear front lines or well-deﬁned enemies,
 
-to take were clear.
+and they involve multiple, often non-state actors whose motivations and actions are diﬃcult to predict. Since these wars have no deﬁned end
 
-The Boeing 737 MAX crisis illustrates the multifaceted nature of more
+points, intelligence agencies and military forces must now adapt to a
 
-complex problems. Following two fatal crashes in 2018 and 2019,
+constantly shifting landscape, where a more ﬂexible, adaptive approach
 
-the 737 MAX initially faced a global grounding, leading to extensive
+is necessary.
+
+Turning to business situations, the J&J Tylenol tragedy is often viewed
+
+as the canonical crisis case study, Yet, it is a complicated problem
+
+relative to the more complex Boeing 737 Max problem, which has the
+
+surface similarity of also being a safety issue.
+
+In 1982, several people died after consuming Tylenol capsules that
+
+a rogue actor laced with cyanide. These deaths led to a nationwide
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,37 @@
-# them.
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b9ed5479435b3c373cdef1723416a68b9d2969e
+title: H07CM6-PDF-ENG
+---
+## between three primary selves: the child, the defender, and the core self.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+This perspective is deeply inﬂuenced by Richard Schwartz (no relation)
 
-4
+the originator of a framework called Internal Family Systems.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The child self, which we’re born into, is our most vulnerable self. Our
+
+defender arises early on in our lives to protect our child self from
+
+feelings of fear, hurt, shame, vulnerability, and helplessness. For Lucas,
+
+it was especially powerful to recognize how his defender reacted under
+
+stress, when he felt his own value being threatened. As he was able
+
+to connect with his more capable and measured core self, rather than
+
+simply allowing his defender to take charge, he found that he was
+
+calmer, more self-regulated, more reﬂective, and more able to make
+
+considered choices.
+
+Most corporate leaders I’ve worked with rely primarily on one source
+
+of intelligence and insight – the mind. In fact, there are at least four
+
+centers of intelligence, including the heart, the body, and the spirit.
+
+Making the most fully informed decisions requires drawing on each of

@@ -1,1 +1,11 @@
-# 8 Harvard Business Review
+---
+source_path: S20031-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8aab403ca7717bcbdfce38b3079dce1503cdc75
+title: S20031-PDF-ENG
+---
+# Voluntary dispute resolution. For
+
+an alternative that falls somewhere between a formal grievance procedure and an ombuds office, consider a dispute-resolution system that relies on mediation. In this model, mediators hear claims, notify the accused, and try to find solutions that satisfy both sides. Some employers use professional mediators; others train their own workers to do the job. The system is less adversarial than a legalistic grievance procedure. This often suits victims, many of whom simply want their harassers to cut it out. But the victim must feel comfortable being iden- tified to the accused, and both parties must be committed to finding a solu- tion. Obviously, this approach doesn’t work for the most egregious cases of harassment, for which the only sensible solution is to fire the perpetrator.
+
+The U.S. Postal Service has long done interesting work with dispute resolution for discrimination and harassment complaints. For a while it experimented with outside professional mediators, and later it trained employees to do the job. Both options have worked well.

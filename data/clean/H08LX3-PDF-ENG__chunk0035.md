@@ -1,9 +1,17 @@
-# HBR / Digital Article / How Emerging Technologies Can Foster Human Connections at …
+---
+source_path: H08LX3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4852759508fdc38079c091e7429996e7284fb36
+title: H08LX3-PDF-ENG
+---
+# Review Press, 2025).
 
-Josh Drean is a web3 and workforce experience expert and cofounder of DreanMedia. Drean is an HR transformation expert who connects emerging technologies with workplace strategies. His insights have been featured in leading business publications, and he shares daily work trends across social media, which have attracted millions of views. He is the coauthor (with Deborah Perry Piscione) of Employment Is Dead: How Disruptive Technologies Are Revolutionizing the Way We Work.
+This article was originally published online on January 28, 2025.
+
+Deborah Perry Piscione is a Silicon Valley serial entrepreneur, innovation and future-of-business thought leader, and cofounder of the Work3 Institute, an AI and web3 advisory ﬁrm. She is the author of multiple books, including the New York Times bestseller, Secrets of Silicon Valley. Her latest book (with coauthor Josh Drean) is Employment Is Dead: How Disruptive Technologies Are Revolutionizing the Way We Work. She is a LinkedIn Learning instructor on the topics of risk-taking and innovation. She was previously a staﬀer in the US Congress and at the White House, and she served as an on-air commentator on CNN, MSNBC, and Fox News.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

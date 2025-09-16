@@ -1,9 +1,13 @@
-# abuse.
+---
+source_path: H07EE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c57b2b3b82476bf04a69cee5ccd48ba8738b156
+title: H07EE6-PDF-ENG
+---
+# address sexual harassment.
 
-This article was originally published online on December 19, 2022.
+Ultimately, a worker hotline that is well designed and utilized by
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+employees not only helps managers ﬁnd harm; it also can allow
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+managers to move from a reactive to a proactive approach to workplace

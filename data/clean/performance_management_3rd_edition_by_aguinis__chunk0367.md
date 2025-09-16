@@ -1,3 +1,7 @@
-## Summary Report for Tractor-Trailer Truck Drivers (from O*NET)
-
-Description Drive a tractor-trailer combination or a truck with a capacity of at least 26,000 gross vehicle weight (GVW) to transport and deliver goods, livestock, or materials in liquid, loose, or packaged form. May be required to unload truck. May require use of automated routing equipment. Requires commercial driver’s license.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 24a3e04348f0067ab792209691c128ecae450510
+title: performance_management_3rd_edition_by_aguinis
+---
+# BOX 2.2

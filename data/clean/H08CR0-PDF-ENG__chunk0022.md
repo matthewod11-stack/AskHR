@@ -1,19 +1,9 @@
-## minor ones, often under the pressure of shortened timelines. Another
+---
+source_path: H08CR0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36b7516e846f98c614f254ca6af2046887eae7a4
+title: H08CR0-PDF-ENG
+---
+## HBR / Digital Article / 4 Warning Signs of Ethical Burnout on Your Team
 
-client, who oversees compliance programs for a logistics company,
-
-shared, “We see a growing set of employees that, when under pressure,
-
-take ethical shortcuts, not to enrich themselves, but because they
-
-think they are helping the company.” When that occurs, use those
-
-opportunities to acknowledge and empathize with the intent and
-
-transform those missteps into “intelligent failures.” When people stray
-
-from processes, rules, and procedures, give them the runway to share
-
-their disagreements, explore their assumptions about why it seemed
-
-like a good decision, and be open to changes that can maximize learning
+Yet even with the best of intentions, ethical lapses will occur, even

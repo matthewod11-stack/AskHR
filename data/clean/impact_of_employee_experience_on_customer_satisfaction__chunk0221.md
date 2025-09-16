@@ -1,7 +1,7 @@
-# Employee Engagement
-
-EE consist of six questions in the author’s survey related to employee satisfaction,
-
-belonging, and purpose. According to research from the internal survey, the best
-
-employee engagement is in US, with a score of 89. China follows with a score of 83
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: c066b35c4de757b5e3f5502f418328d8041ed304
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# which correspond to 19%.

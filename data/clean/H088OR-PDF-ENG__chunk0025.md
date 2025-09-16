@@ -1,23 +1,11 @@
-# retention group (7.1%).
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30e9b6e1b1e35ddcbd2a30df6ad0beb76ba3bd0f
+title: H088OR-PDF-ENG
+---
+## HBR / Digital Article / Hybrid Work Has Changed Meetings Forever
 
-See more HBR charts in Data & Visuals on HBR.org.
+Similarly, the attrition group showed considerably higher rates of
 
-It’s important to note that these relationships don’t imply causality, and
-
-we would advise against drawing conclusions at an individual level (e.g.,
-
-“Sam rarely turns his camera on, he might quit”). But at suﬃcient scale,
-
-the correlations are too strong to ignore.
-
-While the data doesn’t explain why these relationships exist, recent
-
-research on meeting modality and employee engagement may shed
-
-some light. According to one study, highly engaged employees reported
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+no-participation in small group meetings (9.6%) compared with the

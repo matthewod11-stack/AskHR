@@ -1,5 +1,7 @@
-## occupational safety”, Journal of Applied Psychology, Vol. 90, pp. 77-93.
-
-Corresponding author Dr Simon L. Albrecht can be contacted at: simon.albrecht@deakin.edu.au
-
-For instructions on how to order reprints of this article, please visit our website: www.emeraldgrouppublishing.com/licensing/reprints.htm Or contact us for further details: permissions@emeraldinsight.com
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 588fb879ad734962246737911604ae0cfb93dc5e
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## (2005), “High-performance work systems and

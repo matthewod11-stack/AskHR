@@ -1,9 +1,7 @@
-## of temperament. New York: Harcourt, Brace.
-
-Roback, A. A. (1927b). [Review of the book Collected papers. Vol. 3: Case histories]. Journal of Abnormal and Social Psy- chology, 22, 346–347.
-
-Roback, A. A. (1935). Dr. Robert Saudek. Character and Personal-
-
-ity, 3, 263–269.
-
-Robinson, F. G. (1992). Love’s story told: A life of Henry A. Murray.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 01216d147b552b66b5742afe97ffafb4b1d7c6e8
+title: untitled
+---
+## Roback, A. A. (1927a). The psychology of character, with a survey

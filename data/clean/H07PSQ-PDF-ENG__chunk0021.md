@@ -1,3 +1,9 @@
-# LD
+---
+source_path: H07PSQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc7b379d3bb3a829a188537cee360023766df1dd
+title: H07PSQ-PDF-ENG
+---
+## HBR / Digital Article / How to Manage an Employee Who Always Makes Excuses
 
-Liane Davey is a team eﬀectiveness advisor and professional speaker. She is the author of The Good Fight and You First, and the coauthor of Leadership Solutions.
+This article was originally published online on July 17, 2023.

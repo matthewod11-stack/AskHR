@@ -1,9 +1,9 @@
-# I. Suspension
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 528e4ba05854dffd074c77eea8ae9e38b2066a05
+title: internship_report
+---
+## Q. Disciplinary Procedure, Job Separation, Termination, dismissal & Retirement:
 
-Suspension of an employee, during the course of his service simply means that no work is to be
-
-taken from him during the period of suspension. The employee does not work on a post in this
-
-period. If he is actually discharging the duty of a certain office prior to suspension, the order of
-
-suspension would mean that he would cease to work on and discharge the duties of that.
+Generally, there are four ways of separation from the Company:

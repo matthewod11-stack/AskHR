@@ -1,9 +1,13 @@
-## HBR / Digital Article / The Ripple Effect of a Bad Boss on Dual-Career Parents
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c9004921ecf630c47331b33373d6a2b6b7de282
+title: H07KK4-PDF-ENG
+---
+# pressure on the family system).
 
-What we found supported our initial supposition that when one co-
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-parent has a supportive work environment, it makes it signiﬁcantly
+2
 
-more likely that their co-parent will be able thrive both at home and in
-
-their own careers. Diving deeper into the data yielded some fascinating
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,23 @@
-# communication and stronger teamwork.
+---
+source_path: H07YWJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4337eb97b7d3bfc137c25be01f0ad4e8c2d7cdc5
+title: H07YWJ-PDF-ENG
+---
+## HBR / Digital Article / How High-Performing Teams Build Trust
 
-Building trust in the workplace can’t and shouldn’t fall solely on the
+relationships have their ups and downs,” and “most work relationships
 
-shoulders of management. After all, trust isn’t relayed from the top
+can be damaged and repaired.”
 
-down. It’s built organically on a foundation of behaviors exhibited by all
+In other words, they believe tension is temporary and, with a little eﬀort, thorny relationships can be salvaged. Those views make them
 
-team members that empower everyone to produce their best work.
+more likely to take action in the face of the occasional relational blip.
 
-Editor’s note (January 16, 2024): This article has been updated to correct the name of “Keystone Conversations.”
+. . .
 
-This article was originally published online on January 10, 2024.
+It’s no surprise that trust is at the core of high-performing teams.
+
+What our research reveals is the degree to which that trust emerges
+
+as a result of everyday peer-to-peer interactions that facilitate better

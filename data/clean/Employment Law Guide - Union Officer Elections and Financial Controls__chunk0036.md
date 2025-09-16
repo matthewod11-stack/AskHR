@@ -1,5 +1,9 @@
-# Employee Rights
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: f887eaf5afaab2883a2b1a81d64e5148e67c5434
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+# concerning strikes, boycotts, and picketing. The National Labor Relations Board (NLRB)
 
-Title I of the LMRDA guarantees certain rights to all union members. These include the right to nominate
-
-candidates, to vote in elections or referendums, to attend membership meetings, and to participate in the deliberations and vote upon the business of such meetings, subject to reasonable rules and regulations in the
+(http://www.nlrb.gov/), an independent Federal agency, administers the LMRA.

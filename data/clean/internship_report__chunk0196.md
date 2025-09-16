@@ -1,9 +1,13 @@
-# VIII.(cid:32) Personal Benefit
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: c795b9e5e4ac669a1ddff185c70d93a7c6b61397
+title: internship_report
+---
+# VII.(cid:32) Conduct
 
-Employee should actively discourage customers and in all cases strictly refrain from accepting
+Employee participating in political, governmental or civic affairs as individual citizens must
 
-personal benefits, in cash or kind, of all kinds. The Employee must avoid receiving entertainment
+ensure that they are not perceived as representatives of the Company. Such activities must avoid
 
-of a scale or frequency that may create, or give the appearance of creating, an opportunity to
-
-influence them in the performance of their duties.
+any real or perceived conflict of interest with their employment with the Company.

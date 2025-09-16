@@ -1,9 +1,19 @@
-## of Informatics at the University of California, Irvine, and the author of
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d3b27d07aa86b8bbdb39a4df59a994ec1718893
+title: H08M4T-PDF-ENG
+---
+# distractedness.”
 
-Attention Span: A Groundbreaking Way to Restore Balance, Happiness,
+It isn’t accidental. Our devices are engineered to exploit this
 
-and Productivity. “Think of your mind as a whiteboard,” she says.
+vulnerability. “They provide ﬂeeting hits of dopamine through
 
-“Each task or topic you focus on is like writing on that whiteboard.
+notiﬁcations, likes, and messages, keeping us in a constant cycle of
 
-When you multitask, you’re constantly erasing and rewriting diﬀerent
+seeking digital validation.”
+
+Many of us believe we’re adept at juggling interruptions, but research
+
+tells a diﬀerent story, according to Gloria Mark, Chancellor’s Professor

@@ -1,5 +1,15 @@
-# Intelligence
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 08c4e908caf2926534b00b7571f7673c73a0c36d
+title: untitled
+---
+# Cambridge University Press.
 
-Sternberg, R. J., Conway, B. E., Ketron, J. L., & Bernstein, M. (1981). People’s conceptions of intelligence. Journal of Person- ality and Social Psychology, 41, 37–55.
+Sternberg, R. J. (2002). Contemporary theories of intelligence. In I. B. Weiner (Series Ed.) & W. M. Reynolds & G. M. (Vol. Eds.), Comprehensive handbook of psychology. Vol. 7: Educational psychology. New York: Wiley.
 
-Sternberg, R. J., & Detterman, D. K. (1986). What is intelligence?
+Sternberg, R. J., & Berg, C. A. (1986). Quantitative integration: Deﬁnitions of intelligence: A comparison of the 1921 and 1986 symposia. In R. J. Sternberg & D. K. Detterman (Eds.), What is intelligence? Contemporary viewpoints on its nature and deﬁni- tion (pp. 155–162). Norwood, NJ: Ablex.
+
+155
+
+156

@@ -1,11 +1,9 @@
-## principles like transparency, voluntary opt-in where appropriate, data
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cdb2f235f24a829e296d8e4e9986b7334a7311fe
+title: H08C0J-PDF-ENG
+---
+## the ethical collection and use of data in early-warning systems with the
 
-minimization, and robust security protocols are essential to build trust
-
-and ensure the responsible use of employee information.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+same rigor required for any other employee-monitoring program. Key

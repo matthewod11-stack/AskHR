@@ -1,1 +1,11 @@
-## HBR / Digital Article / A New Way to Explain the Pause in Your Career
+---
+source_path: H06X12-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1854e127a9652275e48e85c1af507b3df8ddf84b
+title: H06X12-PDF-ENG
+---
+## A New Way to Explain the Pause in Your Career
+
+LinkedIn’s “Career Break” feature is designed to help people relaunch after some time away from the workforce. by Carol Fishman Cohen
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

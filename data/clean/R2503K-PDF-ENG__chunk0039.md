@@ -1,21 +1,23 @@
-## Seabright Primary School, London James Mollison
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 06e6029c8f47ae31f7c36b008100f331fa7bb632
+title: R2503K-PDF-ENG
+---
+## HBR / Magazine Article / Leading Global Teams Effectively
 
-Many of the students in the control group used negative stereotypes,
+A study led by Adam Galinsky at Columbia University illustrates the
 
-portraying the man as lonely, dependent, and declining in health.
+power of perspective-taking. Students were shown a photo of an elderly
 
-The students instructed to avoid stereotypes wrote more neutral
+man sitting next to a newspaper stand and were asked to write a short
 
-descriptions about the man, making up scenarios about how he might
+essay about a typical day in his life. Galinsky divided the students
 
-spend his time and what he might be thinking about. The students
+into three groups. The control group was asked to simply describe the
 
-asked to write in the ﬁrst person had the most positive descriptions,
+man’s day. The second group was told to describe his day without using
 
-highlighting the man’s wisdom, his broad circle of friends, and the joy
+stereotypes, and the people in the third group were instructed to write
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the essay in the ﬁrst person, imagining themselves as the man.

@@ -1,35 +1,23 @@
-## drive future growth versus those responsible for past performance
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5c9b7ce0523ec2924fb2e5782b905851355849f
+title: H08TM9-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways to Mitigate Executive Turnover
 
-can result in a win-win for the executive and organization as these
+- High performer retention. An emphasis on keeping higher
 
-executives may also be those most interested in growth opportunities.
+performing executives may be the best approach to maintaining
 
-- 3. Create a multi-channel retention strategy.
+overall performance, but it is often the costliest as these executives
 
-Armed with a better understanding of what their executives want and
+have more exit options.
 
-need, as well as which executives they want to retain, organizations can develop targeted retention eﬀorts.
+- Critical capability retention. Executives who have capabilities that
 
-Often the ﬁrst impulse for the CEO and board of directors is to increase
+are critical to organizational success, such as technical acumen or
 
-compensation for dissatisﬁed executives. While this may guard against competitive outside oﬀers, it will be less eﬀective in keeping executives
+institutional knowledge, may be costlier to replace.
 
-who have other reasons to move on.
-
-A multi-channel retention strategy that targets a wider range of executives’ expectations and needs will be more eﬀective than a simple
-
-compensation-based strategy. Moreover, as it hinges on coaching and
-
-other low-cost activities, it may also be more eﬃcient.
-
-The CHRO is key in both conceptualizing and implementing this
-
-multi-channel strategy. Speciﬁcally, the CHRO can mitigate concerns
-
-executives have around growth opportunities and culture by:
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- High potential retention. Focusing on retaining executives who can

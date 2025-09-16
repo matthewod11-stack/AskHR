@@ -1,11 +1,9 @@
-# Recommendations for Managers
+---
+source_path: H08MJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f85cb3bf494191d663b7c7113e788202a4edef16
+title: H08MJK-PDF-ENG
+---
+## surveillance of observational monitoring limits employee engagement
 
-Overall, managers should rethink their approach to monitoring their remote workforce. Based on our research, we oﬀer three key
-
-recommendations to help leaders structure their remote monitoring practices eﬀectively:
-
-- 1. Make monitoring a two-way street with interactional approaches.
-
-Shift from relying solely on technology that passively provides data to
-
-active engagement with employees. Regular check-ins — whether daily
+by adding unnecessary stress and eroding trust.

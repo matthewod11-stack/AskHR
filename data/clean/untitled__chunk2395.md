@@ -1,11 +1,19 @@
-## years. Professional School Psychology, 1, 267–277.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1fe3d6dbe271ea7a23a22232fb954036b3fa57ab
+title: untitled
+---
+## Fagan,T.K.,&Warden,P.G.(Eds.).(1996).Historicalencyclopedia
 
-French, J. L. (1988). Grandmothers I wish I knew: Contributions of women to the history of school psychology. Professional School Psychology, 3, 51–68.
+of school psychology. Westport, CT: Greenwood.
 
-French, J. L. (1990). History of school psychology. In T. B. Gutkin & C. R. Reynolds (Eds.), Handbook of school psychol- ogy (pp. 3–20). New York: Wiley.
+Fagan, T. K., & Wells, P. D. (2000). History and status of school psychology accreditation in the United States. School Psychol- ogy Review, 29(1), 28–51.
 
-Frisby, C. L. (1998). Formal communication within school psychol- ogy: A 1990–1994 journal citation analysis. School Psychology Review, 27(2), 304–316.
+Fagan, T. K., & Wise, P. S. (2000). School psychology: Past, pre- sent, and future (2nd ed.). Bethesda, MD: National Association of School Psychologists.
 
-Hagin, R. A. (1993). Contributions of women in school psychology: The Thayer report and thereafter. Journal of School Psychology, 31, 123–141.
+Farling, W. H., & Hoedt, K. C. (1971). National survey of school psychologists. Washington, DC: National Association of School Psychologists.
 
-Hildreth, G. H. (1930). Psychological service for school problems.
+French, J. L. (1984). On the conception, birth, and early devel- opment of school psychology: With special reference to Pennsylvania. American Psychologist, 39, 976–987.
+
+French, J. L. (1986). Books in school psychology: The ﬁrst forty

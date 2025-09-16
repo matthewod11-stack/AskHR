@@ -1,11 +1,9 @@
-# instructions=
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: a2dcfa5a483ea74e1a8d52c7734effcb309f99b8
+title: a_p_r_a_c_t_i_c_a_l
+---
+# name=Triage Agent"$
 
-"You act as the first point of contact, assessing customerG
-
-3(cid:5)
-
-queries and directing them promptly to the correct specialized agent."
-
-$
-
-3(cid:3)
+3(cid:9)

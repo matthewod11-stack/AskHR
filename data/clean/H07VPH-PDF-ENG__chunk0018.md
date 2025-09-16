@@ -1,29 +1,25 @@
-# work?
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6468511fe8a03d0d971594178776dff01b7ed81e
+title: H07VPH-PDF-ENG
+---
+## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
 
-Miriam saw herself as the co-head of a three-person team, all working
+As a lab scientist without any direct experience working with a CEO,
 
-toward the same goal. Her cofounder’s ghosting challenged that idea. As
+Miriam unwittingly adopted a CEO persona. “I am a scientist by
 
-we discussed this question, Miriam realized that while she assumed that
+training,” she told me. “So, founding a company was a big leap for me.
 
-Andre wanted the company to succeed, she didn’t actually know him.
+As the CEO of a start-up, I knew I owned the decisions. I felt I needed to
 
-Yes, they had been working together for a year, and she knew his work
+move quickly and decisively because that’s what CEOs do.”
 
-and his voice but they’d never met in person. It was his ﬁrst start-up
+- 4. Adopt other people’s perspectives.
 
-experience as well and now, as the only employee and key stakeholder,
+Who are the other stakeholders in the decision-making process and
 
-she recognized that how he reacted to the news and to his increased
+what is their relationship to you? Are you trying to make your boss look
 
-workload would aﬀect the company going forward. Although she was
-
-the boss, Miriam saw that she needed Andre’s buy-in; she couldn’t
-
-succeed alone.
-
-- 5. Scrutinize decision ownership.
-
-Is it your decision to make? How much will you (or your organization) be
-
-impacted by the decision outcome? And how important is the decision
+good or does the outcome of this decision primarily impact your own

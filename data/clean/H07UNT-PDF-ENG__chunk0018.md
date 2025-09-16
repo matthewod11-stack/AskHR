@@ -1,27 +1,29 @@
-## Create and foster relationships with your team.
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99b0f1f4bc1321c4b588f223dfe9748418227c2f
+title: H07UNT-PDF-ENG
+---
+## HBR / Digital Article / The Art of Setting Expectations as a Project Manager
 
-Project management requires a signiﬁcant level of emotional
+“I need to make it very clear that certain things will only be possible
 
-intelligence. PMs need to develop an understanding of various
+if pieces fall into place as anticipated,” says Sandy Binjour, a senior
 
-work styles, strengths and weaknesses, and build structures – and
+project manager at a global advertising agency. “At the 11th hour, if things are still oﬀ the rails, it’s time to have a candid yet collaborative
 
-relationships – accordingly.
+conversation that gets everyone to weigh in on the decision that needs
 
-So how do PMs like Binjour foster those relationships in a way that
+to be made.”
 
-builds trust? The answer might sound counterintuitive.
+To foster that collaboration and manage the expectations of key
 
-“I lie all the time,” she says. “There’s the deadline I tell people, and
+stakeholders prone to making unrealistic demands, Hecht suggests
 
-there’s the real deadline. I tell the production team one deadline and the
+trying this script. “I hear that you want X, and we can deliver X to a
 
-account team another and hope it lands somewhere in the middle.”
+point.” Clearly and candidly state how far you can go. Then, ask how the team can work together to come up with a diﬀerent solution so everyone
 
-To be clear, Binjour isn’t exactly lying; rather, she’s managing expectations and building buﬀers to ensure ﬂexibility throughout the process. She’s addressing diﬀerent work styles to move the project
+feels like they are co-creating the new path forward, even as folks are
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+dealing with high stress and strong emotions.

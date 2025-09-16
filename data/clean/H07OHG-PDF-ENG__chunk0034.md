@@ -1,5 +1,13 @@
-# HBR / Digital Article / 5 Ways Companies Are Addressing Skills Gaps in Their Workforc…
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03b51a2cb285672135242021deef11566e4a9046
+title: H07OHG-PDF-ENG
+---
+# right for their employees.
 
-Editor’s Note: Harvard Business Publishing has a content creation and distribution partnership with Emeritus. Neither the author or editor who worked on this article are involved in that partnership.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-This article was originally published online on June 15, 2023.
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

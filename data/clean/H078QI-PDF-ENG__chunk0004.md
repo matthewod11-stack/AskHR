@@ -1,17 +1,13 @@
-# HBR / Digital Article / To Avoid DEI Backlash, Focus on Changing Systems — Not Peop…
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4bca1673847faf244ae3730f10fed0da2b7fda6
+title: H078QI-PDF-ENG
+---
+# so “in the near future.”
 
-But in my own work as a DEI practitioner who often administers,
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-analyzes, and helps companies act on these kinds of assessments,
+1
 
-arriving at data-driven insights is only the tip of the iceberg. The
-
-far harder challenge is addressing organizational inequities without
-
-incurring backlash: strong adverse reactions from individuals and
-
-groups that undermine or compromise the positive outcomes DEI
-
-initiatives try to create.
-
-Mandatory DEI trainings have been linked to lower levels of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

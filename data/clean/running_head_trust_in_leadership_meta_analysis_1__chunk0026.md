@@ -1,15 +1,13 @@
-# outcomes.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 6ab2dc59b3ed59d30253ca79bd952b6d094b18c3
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# most prominent social-relational mediating mechanisms for a host of different leadership
 
-Finally, we extend previous meta-analyses (e.g., Colquitt et al., 2007; Dirks & Ferrin,
+styles. By positioning trust and LMX quality as parallel mediators in our analysis, we
 
-- 2002) by operationalizing trust as a multidimensional construct. Specifically, our analysis
+contribute to both the trust and LMX literatures and investigate the unique and differential
 
-differentiates between cognitive and affective trust and examines the extent to which these
-
-are empirically distinct. We seek to determine if different leadership styles are more likely to
-
-encourage the development of one of these forms of trust over the other as well as how each
-
-base of trust relates to performance outcomes. This contributes to the ongoing debate about
-
-the dimensionality of trust and how trust is best operationalised (e.g., Dietz & Den Hartog,
+role played by each in the relationship between leadership and follower performance

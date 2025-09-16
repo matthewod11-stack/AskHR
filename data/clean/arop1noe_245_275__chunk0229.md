@@ -1,11 +1,11 @@
-# SUMMARY POINTS
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 341309bccb9e9fe0b8ea3aaf1adfbd45b6fd9f39
+title: arop1noe_245_275
+---
+# l
 
-- 1. To contribute to understanding how to develop human capital resources, we need to consider learning from a broader, more strategic perspective that includes formal training and development; self-directed, informal learning; continuous learning; and knowledge management.
+development involve change over time. In their study on the development of social and human capital,Ng&Feldman(2010)provideagoodexampleofhowlatentgrowthmodelingcanbeused toassesschange.Manyresearchershavebeenunabletoevaluatechangeintheirassessmentsofthe effectiveness of learning interventions because of an inability to randomly assign study partici- pants to conditions. Connelly et al. (2013) show how propensity scoring can be used in quasi- experimental designs to improve causal inference.
 
-- 2. The ISD model needs to be modified or adapted to better fit the learner-centered rather thantheinstructor-centeredemphasisthathasdevelopedinlearningdesign,particularly for technology-based learning methods.
-
-- 3. Social media, simulations, games, and MOOCs are increasingly being used in practice,
-
-but we need a better understanding of their effectiveness.
-
-- 4. Research has shown that AARs are a design element that can facilitate learning and
+CONCLUDING REMARKS WeagreewithSalas et al. (2012, p. 358), who concluded that “overall, a well-developed science of traininghasariseninthelastseveraldecades.”However,webelievethattheincreasingimportance of knowledge and skills for the employability and well-being of employees and the role that the development of human capital resources plays in organizations gaining a competitive advantage should shift the focus of training and development research. This means adopting a broader perspective of the study of learning as it relates to human capital resource development, including formal training and development, and an increased emphasis on the social aspect of learning, including informal learning and knowledge sharing. Many important and practically relevant research questions need to be addressed in the areas of new forms and designs of learning, fa- cilitation of learning in the workplace, and consideration of different learning outcomes. For example,researchthataddressestheuseofsocialmediaandblendedlearningintoday’sworkplace is especially needed owing to employees’ and organizations’ increased use and demand for technology-aidedinstruction.Also,constructvalidityworkatthemicro,team,andorganizational levels is needed to better understand proactive learning behaviors such as informal learning, self- development, and development of social and human capital. A key challenge for researchers is to trytointegratemicroandmacroresearchfromstrategy,industrialandorganizationalpsychology, and organizational behavior to understand how individual learning contributes to the de- velopment of human capital resources. This will require new theory development and empirical studies using cross-level and longitudinal research designs.

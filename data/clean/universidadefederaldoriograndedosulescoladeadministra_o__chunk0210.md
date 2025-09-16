@@ -1,5 +1,7 @@
-## dimensões do Burnout aferido pelo Maslach Burnout Inventory – MBI (MASLACH;
-
-LEITER, 2008). Contudo, os autores Salanova et al. (2000) e Schaufeli e Salanova
-
-(2007) defendem que utilizá-lo para avaliar o engajamento no trabalho é um
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 1b290812cfda8dac93d278d353dd9ab96387ceca
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## perspectiva, o construto é avaliado pelo padrão oposto das pontuações das três

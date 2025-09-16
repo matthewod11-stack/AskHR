@@ -1,13 +1,17 @@
-# Practical implications
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: fc141c44ca1b288f55701a4e1686d41fd7c015d6
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+## Impact of inclusiveleadershipon employeeinnovativebehavior
 
-In a dynamic environment, as organizational competiveness relied on employee innovative behavior, it was vital to identify how leaders can stimulate their follower innovation [51]. The theoretical model proposed in this paper could inform managers of how to improve employee innovative behavior. As mentioned, creativity/innovation was risky, requiring employees to change and act differently and leaders to tolerate and accept deviation from conventional prac- tices. Since inclusive leadership was demonstrated to promote employee innovative behavior in this way, managers should develop skills of inclusive leadership in order to encourage employees engage in innovative behavior more. We suggested that leadership training pro- grams could help leaders realize the importance of inclusiveness, openness and quip them with necessary skills to provide support for employees.
+This research also advanced the inclusive leadership literature by complementing the classic
 
-Moreover, the finding that POS mediated the relationship between inclusive leadership and employee innovative behavior suggested the need of paying attention to the underlying mecha- nism through which inclusive leadership stimulated followers’ innovative behavior. Managers should consider ways such as showing openness and inclusiveness to employees’ new ideas, technologies, and products, and valuing their efforts to increase employees’ POS. Furthermore, managers may offer other kinds of support, such opportunities, resources, and autonomy to employees to stimulate more innovative behavior.
+social exchange theory with fresh insights from the organizational support theory framework [50], thereby broadening its theoretical scope to account for support-based outcomes that hinge on employees’ POS. Although the concept of inclusive leadership has received increasing attention in recent years, inclusive leadership remained a new concept without consensus on the nature of the construct or its theoretical underpinnings. This lack of theoretical and practi- cal consensus hampered the utility of inclusive leadership [79]. Our study was one of few stud- ies to investigate the influence of inclusive leadership on POS and employee innovative behavior, which responded to the view that “the inclusion construct and its underlying theo- retical basis need greater development” [79] and “much work remains to be done to advance theory related to our understanding of inclusive leadership” [18].
 
-Finally, given that people naturally tended to maintain their status quo, it was of critical
+Second, our results highlighted the role of POS as a mediator for the relationship between inclusive leadership and employee innovative behavior. This finding contributed to the litera- ture in that it showed POS as a mediator through which inclusive leadership influenced employee innovative behavior. In the past research, studies had not yet explored the mecha- nism underlying the relationship between inclusive leadership and employee innovative behavior from the perspective of organizational support. The current study complemented previous research by revealing how inclusive leadership increased employee innovative behav- ior through POS. Our findings were consistent with a view from Eisenberger, Fasolo, & Davi- slamastro’s saying that “perceived support might be associated with constructive innovation” [55].
 
-importance to identify factors that could help employees to overcome this tendency and
+Third, support for the positive effect of inclusive leadership on employee innovative behav-
 
-PLOS ONE | https://doi.org/10.1371/journal.pone.0212091 February 28, 2019
-
-10 / 14
+ior proposed an important role in addressing determinants of innovation. Advancing employee innovative behavior were critical to organization’s competitiveness and long-term success. Although an organization’s employees had idiosyncratic attributions and perceptions of leadership styles, our findings illustrated how an organization and its leaders can advance employee innovative behavior through inclusive leadership.

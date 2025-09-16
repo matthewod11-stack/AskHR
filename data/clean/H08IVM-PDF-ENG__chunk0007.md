@@ -1,11 +1,15 @@
-## the most common sources of disagreement during contract execution
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05dc1ad5b30314cc2d26dd2b1cc7d7ea1b43f301
+title: H08IVM-PDF-ENG
+---
+## of liability, price changes, indemniﬁcation, termination, and payment
 
-are practical issues like pricing, scope, and delivery.
+options) focus primarily on risk mitigation and worst-case scenarios.
 
-- Power imbalances: Negotiations are driven by power. Fifty-seven
+The primary message they send is: “I don’t trust you.”
 
-percent of negotiators say they regularly encounter situations where
+- Disconnect between negotiation and reality: While companies
 
-the counter party is a non-negotiator, aiming only to impose their
-
-template terms, regardless of suitability. The power imbalance is
+spend considerable time haggling over legal protections and penalties,

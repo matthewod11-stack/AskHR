@@ -1,11 +1,13 @@
-# Schedule a meeting doomsday.
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b786c343567b514d9f8e8e0bd6610f49b3b76b6
+title: H08GC0-PDF-ENG
+---
+# How to Get Rid of Unnecessary Meetings
 
-On this day, employees can delete all recurring meetings from their
+Conduct a meeting audit.
 
-calendars for 48 hours. Then, have them repopulate their calendars, but
+Have your team analyze their meetings and determine which ones don’t
 
-only with those meetings that are valuable — according to their own
-
-meeting audit. Asana found that when their employees were given the
-
-freedom to step back and assess, they made meetings shorter and less
+add value.

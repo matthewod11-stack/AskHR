@@ -1,7 +1,9 @@
-# Instead of
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3d92ca5feaac8aa225e3133a8a8675b6fc4ace68
+title: untitled
+---
+# Advances in Theory and Method
 
-Explanatory processes, too, were multifaceted in this pe- riod and included cognitive, social interactional, and affective processes. The grand claims of earlier eras were less evident, and more limited theories, which explained smaller bands of behavior rather than the full array of development achieve- ments, began to emerge. A glimmer of recognition that theo- ries may not be universally applicable appeared in this period, and interest in cross-cultural work intensiﬁed (Greenﬁeld, 1974;Harkness&Super,1983).Theroleofhistoricalandsec- ular changes, such as the Great Depression, as inﬂuences on development were recognized for the ﬁrst time (Elder, 1974). There was a return to an interest in applying basic knowledge to practical problems of child rearing and education unseen since the days of Gesell and Watson (e.g., research on the ef- fectsofearlypreschoolexperienceonchildren’sdevelopment by Ramey & Haskins, 1981). There was a shift toward a lifes- pan view of development, and, consistent with this shift, a reevaluation of the role of critical periods in development. Although considerable evidence to support the critical period hypothesis as it related to infant social development was col- lected (e.g., Harlow & Harlow, 1962; Sackett, 1968; L. J. Yarrow, 1961), it also became apparent in this period that sim- pleyes-or-noquestionsaboutwhetherearlyexperienceplayed a role in particular domains were inadequate to guide our thinking. Rather, it was important to understand the processes throughwhichexperiencesexertedtheirinﬂuenceonstructure and function and when they exerted that inﬂuence.
-
-THE CURRENT PERIOD (1985–PRESENT)
-
-In the current period, several themes characterize research and theory in developmental psychology. These include the rise of interest in the genetic and neurological underpinnings
+Inthisperiod,from1960to1985,weseesignsofmaturityinthe ﬁeld of developmental psychology. theories suggesting that development is either exclusively internally driven or entirely environmental in origin, the theories in this period included elements of both. In addition, under the guidance of Bronfenbrenner (1979), a commitment to contex- tualism was evident. Lerner (1986), a major proponent of this viewpoint,deﬁnesthispositionasfollows:Acontextualmodel assumes that there is constant change at all levels of analysis andthateachlevelisembeddedwithinallothers.Thus,changes in one promote changes in all. Central to the position is the in- teraction between the organism and its context (Sameroff, 1975).Ethology,ecologicalsystemstheory,andsocio-cultural theoryareexamplesofthecontextualmodel.

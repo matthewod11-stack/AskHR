@@ -1,15 +1,17 @@
-## Internal reference point R2 for increment
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 4e475a131a805634395605daa8ebcdfe007f2f04
+title: file_1
+---
+# External reference point
 
-.264
-
-.063
+- .157
 
 .060
 
-.000
+.010
 
-.199
-
-.037
+- .118
 
 .059

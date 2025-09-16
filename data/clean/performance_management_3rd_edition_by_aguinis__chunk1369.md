@@ -1,11 +1,17 @@
-# 8.1.3 Developmental Activities
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 2dbbb6ae8ff6a03c865054e44c0c734e1aa1a096
+title: performance_management_3rd_edition_by_aguinis
+---
+# Reimbursement for online course
 
-There are several ways through which employees can reach the objectives stated in their developmental plans, including
+Course to be completed by August 1, 2012
 
-- On-the-job training. Each employee is paired with a coworker or supervisor who designs a formal on-the-job training course. The design of these mini-training programs includes how many hours a day or week training will take place and specific learning objectives.
+- 2. Customer service skills in dealing with stu- dents and faculty
 
-- Courses. Some large organizations such as McDonald’s, Motorola, Capgemini and Ernst & Young offer in-house courses given at their own corporate universities. Other organizations may provide tuition reimbursement. Given the proliferation of online courses, employees have a wide variety of options from which to choose.
+Reimbursement for 1-day workshop. Time to receive on-the-job training from administrative assistant in psychology department.
 
-- Self-guided reading. Employees can read books and study other resources on their own. Once again, it is important that an objective be set regarding what will be read and within what time frame as well as what measure(s) will be used to assess whether learning has taken place.
+Workshop to be completed by October 15, 2012. On- the-job training completed by November 8, 2012.
 
-- Mentoring. Many organizations have mentoring programs. In general terms, mentoring is a developmental process that consists of a one-on-one relationship
+a good working knowledge of Excel after she has completed the online course? How will the supervisor know if the administrative assistant’s customer service skills have improved after she has attended the workshop and has undergone on-the-job training? The Excel training could be measured by the administrative assistant’s performance in the course or by examining answers to questions about knowledge of Excel that faculty and others giving Excel assignments to the administrative assistant answer in filling out appraisal forms. Regarding customer service skills, the accomplishment of the objective might be measured by questioning those customers served by the administrative assistant (i.e., faculty and students).

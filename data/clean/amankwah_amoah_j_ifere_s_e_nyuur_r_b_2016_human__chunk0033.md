@@ -1,15 +1,17 @@
-# operations and flexible labour regulatory framework in both countries particularly Nigeria
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: b7b301cdfeb21b906f21a8d851dedb3dd75684b6
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+## occupied 114 and 169 positions respectively (World Bank, 2016).
 
-and more efforts are required to enhance the situation. In 2015 Corruption Perceptions Index
+One of the key parameters in the rankings is the flexibility of the countries’ labour
 
-10
+market regulatory frameworks relating to hiring, work scheduling and firing. These
 
-by Transparency international, Ghana and Nigeria were ranked 56th and 136th respectively
+regulatory frameworks influence employers in decision making regarding dismissals,
 
-out of 167 countries around the world (Transparency International, 2015). Notwithstanding
+promotion, retraining, and reassigning employees (World Bank, 2016). The ranking of these
 
-the gains chalked by these countries, corruption is identified as one of the main issues holding
-
-Nigeria back from its potential and contributing to the high poverty level of about 70%
-
-people living on less than $1 a day (Agbiboa, 2012).
+two countries on this index suggests that there are some bottlenecks to smooth business

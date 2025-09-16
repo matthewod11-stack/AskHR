@@ -1,3 +1,13 @@
-# new pilot implementations
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: ccfb1a6c8d823268d6e7bd7feb3144bb3063fc4e
+title: building
+---
+# operational overhead
 
-“We’ve reduced the time taken to create Clinical Study Reports from 12 weeks to 10 minutes, with higher quality outputs and a fraction of the team. In terms of value, each day sooner a medicine gets to market can add around $15 million in revenue to the company.”
+- Scaling successful patterns across the enterprise while
+
+maintaining quality and control
+
+- Identifying additional use cases across departments, with

@@ -1,7 +1,13 @@
-# irresponsible or careless.
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1682ca29e9d5d7a79aa2ee0625e15855c3ca1a13
+title: H08TZO-PDF-ENG
+---
+# HBR / Digital Article / Age Inclusion Is Your Company’s Next Competitive Advantage
 
-Company leaders can learn from these plot lines and should:
+The stories highlight the ways that young and old frequently beneﬁt
 
-- Structure teams with age diversity as an intentional design element.
+from working together while also rewriting outdated stereotypes that
 
-- Establish mutual mentorship programs that value experience and
+tend to portray older adults as crazy or outdated and younger adults as

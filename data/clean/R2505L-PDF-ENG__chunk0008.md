@@ -1,11 +1,39 @@
-# challenge, for several reasons.
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f122e095209122ef791a0cc4e1a6d42a97ce0ff5
+title: R2505L-PDF-ENG
+---
+# its platforms.
 
-First, ignoring fake news is rarely eﬀective. Managers often assume that
+Fake news is distinct from misinformation or false rumors, which can
 
-a solid reputation serves as a natural defense, believing that fake news will not be taken seriously enough to aﬀect the company. However, in
+be deﬁned as false content shared regardless of intent. In contrast, fake
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+news is a speciﬁc type of disinformation: It is deliberately fabricated as a
 
-3
+“news” story with an intent to deceive, transmitted by social media, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+characterized by virality.
+
+The traditional corporate playbook for responding to misinformation or
+
+false rumors assumes that a company is engaging with actors who want
+
+to set the record straight or are open to fact-based persuasion. It calls
+
+for companies to ignore the information, scramble to have it removed,
+
+or provide facts and accurate information to debunk false claims. This
+
+fact-checking approach typically involves issuing statements through
+
+its own media channels, such as corporate Facebook pages or X
+
+accounts, as Eli Lilly did. When it comes to fake news, all those
+
+approaches are insuﬃcient. Through our own research and decades of
+
+experience in studying and advising on reputation management, we’ve
+
+found that conventional methods fail to address the full scope of the

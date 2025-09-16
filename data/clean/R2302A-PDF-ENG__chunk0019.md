@@ -1,21 +1,27 @@
-# nights.
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f97edbd855e4e43484dbef512de4eccc70e2ee7
+title: R2302A-PDF-ENG
+---
+# HBR / Magazine Article / GitLab’s CEO on Building One of the World’s Largest All-Rem…
 
-I and the rest of the executive team also practice what we preach. If you
+communicate, and so on. Values are what the organization cares about.
 
-drill down into the handbook’s team section and click on my picture
+At GitLab the top two values are results and iteration.
 
-and the “read me” link, you’ll ﬁnd not just my bio but also a list of
+The GitLab handbook both documents and reﬂects our culture. It is an
 
-my ﬂaws (with a directive to tell me when I succumb to them or to
+evolving online encyclopedia that contains more than 2,000 web pages
 
-point out ones that I haven’t yet noticed), advice from my direct reports
+of information, including answers to basic questions such as “How do I
 
-on how to work with me, instructions for arranging one-on-one time
+create a merge request?” and “How do I ﬁle an expense report?” and
 
-with me, and a schedule of my regular meetings—among them monthly
+a list of the 22 ways we reinforce our values, from promoting only
 
-“iteration” oﬃce hours, during which I meet virtually with any and
+those people who espouse them to having a corporate songbook full of
 
-all team members to talk about how we can get better at incremental
+adaptations such as “You’re the Iteration,” sung to the tune of Chicago’s
 
-innovation and reducing the scope of each project so that we can ship
+“You’re the Inspiration,” which we often belt out on team karaoke

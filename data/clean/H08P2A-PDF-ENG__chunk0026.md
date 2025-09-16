@@ -1,9 +1,35 @@
-# these tools.
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a3c8524a103fde7981dad33e29f4f14703c1d76
+title: H08P2A-PDF-ENG
+---
+# Ask: “How?”
 
-This article was originally published online on April 11, 2025.
+Fourth, implementation matters, so ask how to decide whether to
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+capture a meeting. Should this be your decision as a leader, or do you
 
-6
+want to open it up to the group? Is this a ﬁxed policy or something you
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+decide ad hoc, on an as-needed basis? Here is where it’s important to
+
+remember that there’s a very big diﬀerence between opt-in and opt-out
+
+(as routinely cited in data on organ donation). Recognize, of course, that
+
+expecting someone to speak up and tell a group that they don’t feel safe
+
+being recorded is more than a little contradictory.
+
+. . .
+
+Of course, the decision of whether to record, transcribe, and/or
+
+summarize is not life or death; there are far more mission-critical
+
+decisions to make on a given day. But over time, these eﬀects can
+
+stack up, and leaders who take psychological safety and team dynamics
+
+seriously need to give some thought to whether, how, and why to use

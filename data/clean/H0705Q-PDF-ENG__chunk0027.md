@@ -1,7 +1,13 @@
-# decision?
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 744c1598635ee50828e99847dd90d84b5e04dc35
+title: H0705Q-PDF-ENG
+---
+# speciﬁc medical histories.
 
-- What are your expectations about your ability to synthesize and
+To more clearly understand how the way you analyze information might
 
-understand the information related to the decision you currently face?
+impact your decision-making, ask yourself:
 
-- What can the other decision stakeholders contribute to the analysis
+- What analysis do you typically conduct? Is that relevant for this

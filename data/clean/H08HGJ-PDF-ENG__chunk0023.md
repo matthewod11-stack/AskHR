@@ -1,15 +1,31 @@
-# Scaling a Model, Not a Company
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 905202d371626ed3e332dee887bd927f5b178602
+title: H08HGJ-PDF-ENG
+---
+# Alternatives to Scaling
 
-As we have helped Blue Hill wrestle with how to address themselves to
+We recently worked with Blue Hill at Stone Barns, one of the world’s
 
-a business community that struggles to understand alternatives to one
+top restaurants, to understand how they are trying to rearchitect the
 
-company getting bigger, we’ve asked: Can a “model” scale rather than a
+food industry to support life and nutrition in the long run. Their biggest
 
-single company? In other words, if one develops an idea, or a business
+challenge in getting attention in the business world for an approach as
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+audacious as Space X or Tesla? Critics who immediately dismiss it with
 
-5
+the question, “Does it scale?” Ironically, one of the challenges Blue Hill
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+faces is to reinvent the food industry to be smaller, rather than bigger.
+
+In an ecological community, a system that integrates multiple types of
+
+crops, animals, and systems works better with nature and provides more
+
+nutrients and long-term viability. So what are the alternatives to our
+
+traditional view of scaling? Here is what leaders may want to consider as
+
+they think about their reasons for taking a given path.

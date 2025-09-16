@@ -1,15 +1,7 @@
-# http://www.fons.org/library/journal.aspx
-
-Of the total papers reviewed (n=97) the majority focused on organisational culture with a smaller number on corporate culture or combinations of these with variations of workplace culture becoming more evident towards the end of the search period. Generally, workplace culture was referred to implicitly rather than explicitly for example by using the words, ‘ward’, ‘unit’ culture, or sub-culture, environment or climate. The vast majority of papers were drawn from health related areas (82) followed by business (13) and then education (2). Research and theoretical papers combined (65) were more evident with practice critique (20) and some anecdotal papers (12) providing other insights.
-
-The practice developers/researchers used their expertise of developing effective workplace cultures in a range of different healthcare settings to inform the process of verification and critique of the data emerging from phase three.
-
-Literature reviewed was shared between the researchers and a template used to capture the analysis of implicit and explicit factors that contributed to answering the three questions the concept analysis aimed to address (see Table 2 for an example). Concept clarification is also achieved by describing what a concept is not, and so any insights relating to this were also noted.
-
-Once analysis of the 97 retrieved papers was complete and subsequent data captured on the template, each researcher exposed their own analysis to mutual critique and verification by the research team. The amalgamated data emerging from the literature was used to challenge the tentative attributes, enabling factors and consequences arising from phase two. As many of the components identified in the concept analysis were also concepts that had not been fully clarified themselves, discussion was required to ensure that there was a common understanding of the meaning of different elements, such as, shared governance, organisational readiness etc. From this process of critique within and across the phases two and three, a synthesised framework resulted to describe the concept of effective workplace culture, its enabling factors and consequences (Manley et al., 2007).
-
-Phase four The final phase of the project, since 2007, has involved informal critique and use in practice, as well as formal testing of different aspects of the framework in the field across a number of practice development projects internationally. This has led to minor refinements of the framework in response to research findings post 2006, as indicated by post 2006 references in the framework descriptors. During this time other related practice development concepts have also been further explored, researched and refined e.g. practice development processes and methods (McCormack et al., 2006); person centred care (McCormack and McCance, 2010; McCormack et al., 2011; McCance et al., 2011); critical creativity (McCormack and Titchen, 2006; 2007); human flourishing (Titchen and McCormack, 2008); work-based learning (Manley et al., 2009; Wilson et al., 2006); facilitating individual and team effectiveness (Manley and Titchen, 2011); active learning (Dewing, 2008); clinical leadership (Manley et al., 2008) and many others; and also, the political context has accentuated quality, safety and productivity (Department of Health, 2010).
-
-The framework: effective workplace culture The framework describing an effective workplace culture, how it would be recognised and enabled, as well as its consequences is presented in full in Table 3. The attributes, enabling factors and consequences are described in the sequence following the framework.
-
-7
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: f1a0d257bf3a6add9141be1f6550dd81a3672cf0
+title: chapter_nine
+---
+## © FoNS 2011 International Practice Development Journal 1 (2) [1]

@@ -1,7 +1,23 @@
-# via email after the fact.
+---
+source_path: H076XK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad0e95da60e16fb493df6fa8c7fbd54c38f94a51
+title: H076XK-PDF-ENG
+---
+# Psychological Safety
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+When employees come together for Time to Connect, Harrison begins
 
-3
+with some prepared remarks about the world event and then asks the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+same question each time: “So, how are you doing?”
+
+In order to give employees permission to answer this question honestly,
+
+she opens the conversation with her own perspective on the issue
+
+at hand. Leading by example provides people an opportunity to be
+
+real themselves. As a result, employees feel safe to respond to the
+
+conversations in whatever way works for them — live, in the chat, or

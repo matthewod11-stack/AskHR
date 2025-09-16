@@ -1,19 +1,23 @@
-## HBR / Digital Article / Using Simulations to Upskill Employees
+---
+source_path: H07BSP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c9ee90840597290dfea957f116a4552b1316bf7
+title: H07BSP-PDF-ENG
+---
+## languages with attention to cultural nuances.
 
-each takes place in a realistic setting like a doctor’s oﬃce, conference
+Topics ranged from goal-setting and problem-solving to coaching and
 
-room, oﬃce environment, or on a train. The manager must select
+performance reviews. In the simulations, managers met a range of reps with diﬀerent personalities, capabilities, and challenges. Some
 
-the most appropriate approach to the issue in that setting, weighing
+are demotivated, while others have diﬃculties getting client meetings,
 
-the information available, and then receives feedback about best
+managing sales conversations, or handling scenarios like a breach of
 
-practices in that context. The simulation includes more than 200 minigames at diﬀerent levels that build managers’ knowledge of
+client data. The simulations are played on managers’ laptops, and
 
-speciﬁc topics, as well as realistic dialogues with avatars representing
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-internal and external stakeholders. The dialogues change based on how
+5
 
-managers respond to each scenario, which determines their unique
-
-journey through the simulation — a contrast to the lowest-common-
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

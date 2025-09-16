@@ -1,29 +1,63 @@
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a3573ed43da3f3fa87514bb35c15b1d544467b3
+title: H07SHV-PDF-ENG
+---
 # HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-They’re what mathematicians would call a complex problem. That’s
+During the pandemic people started to become more isolated. They
 
-a problem that’s very easy to understand and that no amount of
+made the best of that isolation by creating lives that were very, very
 
-computational horsepower can solve it for you. You can only get in it
+convenient, I have to say.
 
-and experience it and work with it in real time.
+That said, some people do have a way better work-life balance because
 
-A cat is a complex problem. A toaster is a complicated problem. Your job
+they want to spend all that time with their families. The problem is all
 
-is more like a toaster and your relationships are more like a cat. Your
+of the people that are separated from their family and their friends and
 
-feelings are highly complex. The result is that I can master all these
+actually not seeing people at work, that’s really catastrophic when it
 
-highly complicated things, but I can’t get my mind around my feelings.
+comes to happiness.
 
-The solution starts with understanding the science of human emotion.
+ADI IGNATIUS:
 
-This is what I’m doing in a lot of my work. This is when my HBS
+The book in many ways is about agency: happiness and fulﬁllment are
 
-students come to me, these phenomenally talented and successful MBA
+not based on external variables or things that happen to us, but all very
 
-students, really at the best business school in the world. And they’ll say,
+much within our control. The problem is it’s very hard to take dramatic
 
-“My biggest problem is I can’t manage how I feel, and I feel like I’m
+actions to reorder one’s life. How do you get people who understand
 
-really out of control.” So the number one skill that we get is to treat your
+they should be doing this, but who don’t? How do you make that leap?
+
+ARTHUR C. BROOKS:
+
+Part of the problem is that a lot of people notice that they can manage
+
+their money and they can manage their company, but they can’t
+
+manage their feelings. Or they can manage their home and they can
+
+manage their family life, but they can’t manage their emotions. The
+
+reason is that emotional life is a diﬀerent species of problem.
+
+The stuﬀ around us in our work, these are complicated problems,
+
+meaning they’re hard to ﬁgure out. But once you do, you can master
+
+them and repeat the solutions over and over again.
+
+Life and your emotions, the aﬀairs of the heart and the feelings that
+
+you’re getting, positive and negative, they’re not complicated at all.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

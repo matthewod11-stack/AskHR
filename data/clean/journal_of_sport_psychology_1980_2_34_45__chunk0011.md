@@ -1,5 +1,13 @@
-# Internal Consistency and Reliability
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: f922b9d59032e5b6eab38a5c1f31e6f166ee9c23
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# 38 CHELLADURAI ANDSALEH
 
-As an index of internal consistency, Cronbach's alpha was calculated for each subscale. These coefficients are presented in Table 2 and are considered accepta- ble. Though the coefficient was lower for Autocratic Behavior preferred by the athletes (.45) it was adequate for the other two sets of data. It should also be noted that the other coefficients are generally higher in the case of the athletes' perception of leader behavior than in the other two data sets.
+limited amount of variance in each data set: 41.2% for physical education students' preferences, 39.3% for athletes' preferences, and 55.8% for athletes' perceptions.
 
-For the estimation of test-retest reliability, 53 of the physical education majors responded to the revised questionnaire a second time after an interval of 4 weeks. The composite factor scores (i.e., the sum of the selected items in each factor) were used to calculate the reliability coefficients. These reliability coeffi- cients were adequate and ranged from .71 (Social Support) to .82 (Democratic Behavior).
+From the three solutions certain items were selected to constitute each factor. The criteria for selection of these items were (a) the item should have its highest loading on the same factor in all three solutions, and (b) its loading should be higher than .3 in at least two of the solutions. This procedure resulted in a total of 40 items: 13 items for training and instruction, 9 items for democratic behavior, 5 items for autocratic behavior, 8 items for social support, and 5 items for positive feedback (see Table 1).
+
+Schriesheim and Kerr (1977), in their critical analysis of the existing leader- ship scales, noted the difficulty of comparing data derived through the four dif- ferent Ohio State scales even though they are purported to measure the same two dimensions of leader behavior—Initiating Structure and Consideration. This difficulty is caused by the fact that these Ohio State scales contain different sets of items. Our present procedure of selecting the items with the highest loading in all three solutions alleviates this problem and allows for the comparability of data collected from different groups (e.g., physical education majors and athletes) and between preferred and perceived leader behavior.

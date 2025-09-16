@@ -1,9 +1,13 @@
-## and behavior on the basis of new information)
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 033467dcb8b7652644e4f4c35428aaae45986d7b
+title: R2303G-PDF-ENG
+---
+# performance)
 
-Once candidates took office, however, their past success at delivering
+Collaborating and influencing (the ability to work with and through others
 
-results did not have any effect on their performance. Collaborating
+who are not under their direct control)
 
-and influencing, on the other hand, were associated with higher total
-
-shareholder return, and self-evaluation and adjustment were associated
+Self-evaluation and adjustment (the capacity to update your point of view

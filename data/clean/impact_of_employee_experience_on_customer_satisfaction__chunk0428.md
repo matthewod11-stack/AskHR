@@ -1,9 +1,11 @@
-# ONBOARDING
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: dd53bf81557f2caea996d17da8a40ea9708cd728
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# RECRUITMENT
 
-2
+1
 
-5
-
-How accurate was your role described to you during your interview process? (i.e., Are you doing what you expected you'd be doing)?
-
-Were you given an overview of your career path and progress in the company?
+What is your experience with Atlas Copco during recruitment process?

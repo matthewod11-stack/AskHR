@@ -1,25 +1,25 @@
-# HBR / Digital Article / Planning an Offsite for Your Leadership Team? Ask These 5 Que…
+---
+source_path: H08TKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04bc265046ecdd9812cb02296eed81515191c7da
+title: H08TKB-PDF-ENG
+---
+# behaviors after the session.
 
-a set of operating norms for navigating conﬂict, such as encouraging
+For example, an education non-proﬁt leadership team wanted to
 
-diverse perspectives and practicing active listening. To reinforce these
+transform their meetings from passive status updates into dynamic
 
-behaviors, they scheduled time in each leadership meeting to tackle
+discussions that harnessed everyone’s best thinking. The team had
 
-complex issues and actively practiced their norms during the session.
+historically avoided conﬂict, resulting in surface-level conversations
 
-This shift led to more engaged and impactful meetings post-oﬀsite.
+and missed opportunities for robust problem-solving. At the oﬀsite,
 
-- 4. What do you want your team to stop doing?
+they discussed the need for more productive debate and co-created
 
-Oﬀsites always generate new actions to the team’s to-do list. Less
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-commonly do leaders think about what can be subtracted. In order
+3
 
-to create capacity to operate eﬀectively and implement new ideas,
-
-exceptional leaders know they need to create room for it.
-
-One of Frans’s clients is the CEO of a ﬁnancial services organization.
-
-After a recent restructuring, she knew the current resource allocation
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,25 @@
-# HBR / Digital Article / Leaders Can’t Make Up for Bad Behavior by Being Nice Later
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad6b51327ab4d28846c0956096e92322463942f9
+title: H08GNP-PDF-ENG
+---
+# Jaunty Junto/Getty Images
 
-remorse and contrition, had become all too familiar for his colleagues,
+As Pat quickly walked back to his oﬃce, the echo of his own angry
 
-who often wondered aloud which version of Pat — “Good Pat (Dr.
+words was still ringing loudly in his ears. Just a few minutes earlier, Pat
 
-Jekyll)” or “Bad Pat (Mr. Hyde)” — would show up today.
+had publicly berated a product lead after a botched test, calling them
 
-As Pat slumped into his chair, the guilt began to creep in. “I’ll make
+“incompetent” and a “disgrace” in front of the entire team. Even worse,
 
-it up to them,” he muttered to himself, convincing himself that by
+this wasn’t the ﬁrst time Pat had lost his temper in such spectacular
 
-acting especially kind and fair over the next few days, he could erase
+fashion. His pattern of explosive outbursts, followed by periods of
 
-the damage of his outburst. But little did Pat realize he was playing a
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-dangerous game, with the stakes much higher than he realized for his
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,9 @@
-## of the BMGF alumni network, shares their advisory board members
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3075b4dc883fdcc738ad885fe2f78a180e945413
+title: H0832B-PDF-ENG
+---
+## alumni network at the Bill and Melinda Gates Foundation (BMGF)
 
-“serve voluntarily three-year terms, and live and work around the
-
-world representing the broader alumni community in geography and
-
-areas of expertise. Our board members provide strategic input and
+created a 12-person alumni advisory board. Andrea Voytko, manager

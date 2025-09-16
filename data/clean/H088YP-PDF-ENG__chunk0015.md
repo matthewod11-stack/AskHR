@@ -1,25 +1,61 @@
-## HBR / Digital Article / How to Make Job Interviews More Accessible
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 654ee2eaebd5b10cc21935ba7d93092d7f1c8494
+title: H088YP-PDF-ENG
+---
+## disadvantage candidates with social anxiety or neurodivergent
 
-she says, noting research that suggests disclosing a disability at work
+thinking, and thus face greater challenges in these situations. “You’re
 
-is often a fraught experience. Praslova champions the platinum rule —
+not interviewing for the Secret Service,” she says.
 
-an evolved version of the golden rule: “Treat others as they want to be
+Bach agrees. The interview doesn’t have to perfectly mimic the
 
-treated,” she says. “It’s not what you want, it’s what the other person
+conditions of the job, but you might want to examine any
 
-wants.”
+“physically and psychologically demanding practices” and perhaps
 
-Build in ﬂexibility and humanity. In addition to oﬀering speciﬁc
+make adjustments, she says. (More on this later.) Do interviews need
 
-accommodations, Praslova suggests building in ﬂexibility, convenience,
+to be all-day marathons? Must they include 90-minute-long on-the-ﬂy
 
-and humanity into your interviews. “If you create environments that
+case studies? Do they even need to be in person? “If it’s not part of
 
-are good for candidates, they’ll be good for everyone,” she says. For
+the job, you need to ask yourself: Are we creating an environment that
 
-example, she recommends conducting interviews in quiet, private
+anyone can thrive in? Or are we making it artiﬁcially hard?”
 
-spaces to reduce distractions and sensory overload; limiting the number
+Ask candidates what they need. Unfortunately, there isn’t a one-size-
 
-of interviews a candidate must attend in one day; and providing
+ﬁts-all solution for making interviews more inclusive, says Bach. “Even
+
+people with the same disability can have diﬀerent symptoms and
+
+severities,” which is why you need to work with individual candidates to
+
+determine what they might need.
+
+Bach suggests creating “a menu of possible accommodations” that
+
+includes examples of what’s been done in the past. This might include
+
+providing extra time for completing tasks or responding to interview
+
+questions, presenting questions in diﬀerent formats to address diﬀerent
+
+learning styles, or conducting remote interviews for candidates who
+
+may have mobility challenges.
+
+Praslova recommends sharing this menu of options with all candidates
+
+and encouraging them to request additional support if needed. “Make it
+
+clear that it’s safe to ask for things and it won’t be held against them,”
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,25 @@
-# spend with clients and colleagues.
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 485da7268507e5de5070c3ece1c3734c246a909c
+title: S24051-PDF-ENG (1)
+---
+## prototyping and testing of new digital tools into standard procedures
 
-Action plan. Identify the metrics that matter most (shift-changeover
+to help its teams continuously improve speed and quality. Managers
 
-time, perhaps), hypothesize which actions could improve performance
+at Hindustan Unilever’s Dapada factory use an app to track real-time
 
-in those areas (preassigned workstations, perhaps), and embed
+performance metrics, such as worker productivity, and use the insights
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+to maximize output. In both cases, technology is used to enhance
 
-11
+teamwork, not to disrupt it.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+At McKinsey, we’ve launched Lilli, a knowledge and capabilities
+
+platform that uses generative AI to search and synthesize our entire
+
+knowledge library. Lilli is changing the way our teams operate, by
+
+accelerating problem-solving and giving team members more time to

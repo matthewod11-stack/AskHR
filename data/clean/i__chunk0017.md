@@ -1,27 +1,51 @@
-## workers’ average working time at one corporation.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 919429d16b7e07c62ec1438ec051aa7af14f0bf5
+title: i
+---
+# 1.1 Research Background
 
-Pease et al. (2014, page 2) postulate the difference in beliefs and life experiences between
+Human resources are undoubtedly a critical resource for various organizations. Although the
 
-generations currently in the workforce. Isson (2016) suggests that the new generations enter
+HR function has been considered a cost center and a business supporting center, research has
 
-the job market and bring different employer-employee dynamics, which should be understood.
+proven that the HR function is an evolving business function and has become an essential
 
-McKinsey's Global Growth Model study suggests that in 2015, the US Deloitte consulting
+business strategy driver. Managing the workforce and reaching out to the labor pool is a
 
-ranked the cost for HR recruitment, retention, and relocation at 400 billion dollars. Expensive
+significant part of the operation. Still, HR needs to catch up in digitization compared to other
 
-1
+business functions (Isson et al.,p.6, page 29). PA is still in its early stage; a mere 16% of
 
-as it was, employees, in general, report being underused at work. A survey by the talent
+organizations have conducted advanced PA based on the Sierra-Cedar survey in 2018,
 
-mobility firm Lee Hecht Harrison reveals that 86% of workers say they often (62%) or
+conducted by 1636 organizations in over 70 countries. Digitalization has impacted the
 
-sometimes (24%) feel underutilized in their jobs.
+workplace in different ways (Cijan et al., 2019). The process has brought with it novel
 
-The workforce, which considered to be the most valuable asset of many businesses, needs to
+professions and novel tasks, as simple operation repetitive tasks, and machines and different
 
-be understood the same way companies understand their customers. Technology development
+equipment now perform other labor-intensive jobs while needs for new competencies and skills
 
-has allowed corporations to retain and utilize their relevant data for analysis. The PA is believed
+arise. New working conditions have been introduced: in addition to full-time, on-site
 
-to provide the HR department with tools to generate knowledge for decision-making.
+employee: hybrid, remote work or freelancing. The process has changed how disputes between
+
+organizations and their employees are settled. Understanding the workforce motivation,
+
+technological skills, concerns, and value at work is vital.
+
+Regarding the US and Western labor market, McKinsey (2021) also raised an alert about a
+
+<Great Attrition= when labor shortages happen in various industries. Technology has increased
+
+job satisfaction but also offers flexibility regarding career changes and job searches (Cijan et
+
+al., 2019). The competition in talent recruiting has also become fierce because of globalization,
+
+which provides opportunities and challenges while inducing highly skilled workers’s mobility.
+
+People tend to be loyal to their profession, but their engagement in their workplaces has
+
+decreased over time; in other words, we have witnessed a continuous decrease in highly skilled

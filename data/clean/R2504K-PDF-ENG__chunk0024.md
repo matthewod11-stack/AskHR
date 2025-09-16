@@ -1,21 +1,31 @@
-# venture.
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0cb444b37e529db5df59ef8df86bed0b8022516
+title: R2504K-PDF-ENG
+---
+## HBR / Magazine Article / How to Identify the Perfect Cofounder
 
-Conduct a listening tour. Meet with other startup cofounders—people
+cofounders I surveyed with successful startups—those that had been
 
-who are not candidates for joining your team but who’ve been through
+operating for more than three years and had raised funding through
 
-the courtship process. Ask what traits they value most in their partners,
+a series B, the point at which product-market ﬁt has been established
 
-what hurdles they had to overcome early in their relationship, and what
+and investors expect rapid growth—had spent more than 12 months
 
-red ﬂags to be on the lookout for. Even the greatest cofounding teams
+working together or interacting in other capacities before starting their
 
-have war stories about stressful times in their relationships and what
+venture. Approximately 25% of them had been former colleagues or
 
-they learned from them.
+were personal friends, suggesting that prior relationships are conducive
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+to scaling a startup.
 
-8
+Drawing on my experience working with, investing in, and advising
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+startups, I have identiﬁed a set of best practices for selecting a
+
+cofounder. Even if you had one in a previous startup, the process can
+
+still be valuable as you think about the distinctive needs of your current

@@ -1,11 +1,9 @@
-## leadership all throughout the organization, from the C-suite to the
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8eec65a023db0383ac7f629d7b16a457caec873e
+title: H08F9M-PDF-ENG
+---
+# better.
 
-frontlines. It is a paradigm to help organizations thrive by unleashing
-
-the power and potential of their people. Making that happen is work
-
-— the work of leadership. And we know this kind of work can be hard. Mobilizing people is not easy, and the path to solving diﬃcult problems
-
-may be uphill and rocky. Yet, that is precisely why leadership is great
-
-work. It is meaningful and fulﬁlling because it takes initiative and
+Leading through is a paradigm designed to activate that kind of

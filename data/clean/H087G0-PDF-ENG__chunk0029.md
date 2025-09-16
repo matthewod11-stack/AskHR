@@ -1,7 +1,21 @@
-## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f9f6047b19952f2e9276acbc9de29605737cbb5
+title: H087G0-PDF-ENG
+---
+# accommodations
 
-Consider your timing. There are also pros and cons to when to disclose.
+- Uncertainty about how disclosure will be received
 
-For example, while job candidates are not required to disclose during the hiring process, many hiring managers feel aﬀronted by a lack of
+- Potential bias from supervisors or coworkers
 
-disclosure. And yet many hiring managers also discriminate against
+- Potentially lower likelihood of advancement
+
+- Possible obstacles to professional development
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

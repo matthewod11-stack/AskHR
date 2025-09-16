@@ -1,1 +1,15 @@
-## THE STRUCTURE OF PERSONALITY ATTRIBUTES 7
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: ffd6b91808d0c8ef2a1e777ea9e6b39c64c6658e
+title: barrickryan_eds_personality_and_work
+---
+# 6 PERSONALITY AND WORK
+
+be interesting in their own way, but models that transfer well across populations, and thus across languages and sociocultural settings, are more congruent with the scientiﬁc ideals of replicability and generalizability.
+
+If we take cross-cultural generalizability as a criterion for a good taxonomic structure, we can apply this criterion in a lenient or a stringent way. The lenient way is to export a set of variables (most often, those represented in a single personality inventory) for use in other populations and then examine whether these pre- selected variables (after translation, if necessary) generate the same factor structure in each new language or culture. If the scales in a personality inventory generate similar factors across populations, one might argue that the structure is widely gener- alizable, as McCrae and Costa (1997) have done with respect to their revised NEO Personality Inventory (Costa & McCrae, 1992). However, this is not a very demanding test. It is not sufﬁcient to show that when personality measures in a new language are made to conform to the procrustean speciﬁcations of one model, that model can be recovered. There may be a large number of possi- ble models that are equally exportable and maintain their factor structures across many populations.
+
+A more challenging test of generalizability is to identify the most salient and important personality concepts within each lin- guistic and cultural context, derive an indigenous factor structure from those variables, and then examine the extent to which this new structure corresponds to any previously proposed models. A model that could meet this test in any language would have great psychological import; it could be considered far more ubiquitous and universal than a structure that simply met the less demanding imposed test (that is, showed a high degree of translatability).
+
+The lexical approach involves such an indigenous research strategy. Analyses are carried out separately within each language, using a representative set of native language descriptors, rather than importing selections of variables from other languages (for example, English). The hope is that the ﬁndings from these lexi- cal studies will converge on a replicable pattern such that most lan- guages will reﬂect its imprint. An analogous, and possibly universal, pattern has been identiﬁed in studies of color words across lexi- cons (Kay & McDaniel, 1978), corresponding to the genetics and neurobiology of color perception.

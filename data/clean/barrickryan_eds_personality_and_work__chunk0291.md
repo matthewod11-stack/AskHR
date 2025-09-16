@@ -1,3 +1,17 @@
-# PERSONALITY AND JOB PERFORMANCE 91
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f40b9941f345177f6338ae00fc0019f45065059b
+title: barrickryan_eds_personality_and_work
+---
+# 90 PERSONALITY AND WORK
 
-Motowidlo et al. (1997) suggested that behavior exemplifying conscientious initiative facilitates both the technical core and the broader work environment and should be considered an element of both task and citizenship performance. Johnson (2001) found that a factor model with conscientious initiative loading on both the task factor and the citizenship factor ﬁt signiﬁcantly better than models in which it loaded on just one or the other.
+thing under the general label of citizenship performance (Borman & Penner, 2001; Coleman & Borman, 2000).
+
+Conﬁrmatory factor analyses have provided evidence for the dis- tinction between task and citizenship performance (Conway, 1996; Johnson, 2001). Furthermore, research has shown that both task performance and citizenship performance are taken into consid- eration when supervisors evaluate others’ performance (Conway, 1999; Johnson, 2001; Motowidlo & Van Scotter, 1994; Van Scotter & Motowidlo, 1996). Some research also shows that task perfor- mance is better predicted by ability and experience, and citizenship performance is better predicted by personality variables (Borman, Penner, Allen, & Motowidlo, 2001; Hurtz & Donovan, 2000).
+
+The dimensionality of citizenship performance is muddled, with different authors offering different numbers of dimensions with dif- ferent labels (Borman & Motowidlo, 1993; LePine, Erez, & John- son, 2002; Organ, 1988; Podsakoff, MacKenzie, Paine, & Bachrach, 2000). In an attempt to clarify the latent structure of citizenship performance, Coleman and Borman (2000) identiﬁed twenty- seven citizenship performance behaviors based on all proposed models and discussions presented in the literature. The behaviors were sorted by forty-four I/O psychologists, and the similarity data were analyzed using factor analysis, multidimensional scaling, and cluster analysis. The authors rationally combined the results of the separate analyses into a single integrated model representing three categories of behavior. Borman, Buck et al. (2001) reﬁned this taxonomy on the basis of a sort of approximately twenty- three hundred examples of citizenship performance taken from twenty-two studies, giving the categories the following labels and explanations:
+
+Personal support: Behaviors beneﬁting individuals in the organiza- tion; includes helping, motivating, cooperating with, and show- ing consideration of others
+
+Organizational support: Behaviors beneﬁting the organization; in- cludes representing the organization favorably, showing loyalty, and complying with organizational rules and procedures Conscientious initiative: Behaviors beneﬁting the job or task; includes persisting with extra effort to complete tasks, taking initiative, and engaging in self-development activities (Borman, Penner et al., 2001).

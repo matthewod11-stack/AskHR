@@ -1,11 +1,13 @@
-# to internal policymaking.”
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9374fa3ae48122a56a347757bef0e69fc5467374
+title: H07ZZW-PDF-ENG
+---
+## adviser. “The committee deals with cases and themes with an ethical
 
-Your corporation’s impact on human beings is at the very root of your legal, operational, and reputational risks, even if how those risks might manifest is unpredictable.
+character in the ‘gray area.’ Often, there is not yet an internal policy
 
-Salesforce’s Paula Goldman, the company’s chief ethics and humane use oﬃcer, shares a similar process. “We created an ethical use advisory
+or legislation or regulations in such dilemmas. The outcome of the
 
-council that includes, notably, frontline employees, executives, and
-
-external tech ethics experts,” she explains. “When an issue comes
-
-our way, we will debate it from multiple angles…and we’ll make a
+dialogue can serve as a moral precedent for similar cases or contribute

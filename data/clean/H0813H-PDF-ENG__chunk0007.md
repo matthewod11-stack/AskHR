@@ -1,19 +1,31 @@
-# HBR / Digital Article / Surveilling Employees Erodes Trust — and Puts Managers in a B…
+---
+source_path: H0813H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19b63d11f8a39821a3bbf70f57bea4da06a93865
+title: H0813H-PDF-ENG
+---
+# repercussions of monitoring?
 
-and monitor their computers to prevent cheating on a work test. To
+We suspected that if supervisors could not control whether to use the monitoring systems, they may be able to control how they use the
 
-increase the believability of the experiment, we temporarily activated
+information from these systems. Speciﬁcally, we expected that whether
 
-the participants’ webcams to simulate recording; in reality, participants’
+supervisors used the system for control (i.e., performance evaluation)
 
-experimental activities were not recorded.
+or feedback (i.e., performance development) purposes would determine whether their relationship with their subordinates would suﬀer from
 
-About half of the participants received positive and constructive
+using monitoring systems.
 
-feedback from the study administrator following the initial test. Those
+We conducted two studies to assess our predictions. First, we conducted
 
-who had been monitored were told that this feedback was speciﬁcally
+an online experiment with 186 U.S.-based participants, recruited from
 
-based on the study administrator’s observations.
+the crowdsourcing platform Proliﬁc Academic. Half were told that a
 
-We also conducted a ﬁeld study with 298 full-time employees and
+study administrator would access their webcam to record their activities
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

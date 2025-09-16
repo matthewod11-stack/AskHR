@@ -1,27 +1,19 @@
-# demographics rather than performance.
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8755789e997b35bcd1562205c261cffe046f9782
+title: H08NYS-PDF-ENG
+---
+## inadvertently reinforce demographic inequalities.
 
-Keep it simple.
+A simple yet eﬀective approach for platforms is to regularly compare
 
-Adopt simpler evaluation processes that direct raters’ attention to
+ratings across demographic groups. To most accurately detect bias and
 
-the core assessment—Was the performance good or bad?—rather than
+not quality diﬀerences, platforms should compare ratings for workers
 
-complex rating systems that may introduce ambiguity and bias. Our
+performing similar jobs with comparable experience. Platforms can also
 
-research suggests that while more intricate evaluation methods appear
+proactively analyze individual customer rating behaviors to identify
 
-to provide platforms with greater nuance for customers, they often
-
-do not result in material diﬀerences. For example, in our study, we
-
-observed the rating inﬂation that is common on similar platforms:
-
-When using a ﬁve-star scale, customers overwhelmingly assigned
-
-scores of ﬁve stars, eﬀectively diminishing the intended granularity
-
-of the evaluation scale. As raters already underutilize the available
-
-distinctions in more intricate evaluation processes, simplifying the
-
-process may yield similar information while reducing bias.
+customers who consistently rate workers diﬀerently based on worker

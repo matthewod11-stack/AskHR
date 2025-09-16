@@ -1,3 +1,9 @@
-# TH
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef49b7be7411692323735a627811718ce7dfa70e
+title: H089M8-PDF-ENG
+---
+# journey.
 
-Travis Howell is an Assistant Professor of Management and Entrepreneurship at the W.P. Carey School of Business at Arizona State University.
+This article was originally published online on June 13, 2024.

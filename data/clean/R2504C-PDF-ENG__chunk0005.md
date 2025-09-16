@@ -1,41 +1,23 @@
-# customers.
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5f7f42777e1a4df5e24e767009dfbd23e6b267c
+title: R2504C-PDF-ENG
+---
+# that conversation.
 
-How do you staff for that?
+HBR: You’ve said that you want Amazon to operate like a startup. How do you make that happen?
 
-We need a lot of builders—people who like to invent, who like to dissect
+Jassy: Amazon moves very quickly. But as you get larger, all sorts of
 
-the customer experience and ﬁgure out what’s wrong with it, even if it’s
+things can slow you down. When we talk about operating like the
 
-pretty good, and then rebuild it. And we need owners—people who ask,
+world’s largest startup, we mean that whatever we build or wherever
 
-“What would I do if it were my money? What would I do if I owned all
+we commit resources, we make sure that we’re solving a real customer
 
-the resources?” In other words, people who feel accountable.
+problem. A lot of companies fall in love with their technology and build
 
-How do you think about pace?
+things they think are cool, but in the end they haven’t solved anything
 
-Speed disproportionately matters in every business at every time. I used
-
-to speak with a lot of CEOs who would say, “We’re big. We have security
-
-issues. We have compliance issues. We just can’t move fast.” I think
-
-speed is a leadership decision. You can decide you want to move fast,
-
-but you have to ﬁgure out what’s slowing you down and knock all those
-
-barriers out. Then you’ve got to get the whole organization aligned on
-
-moving really fast, even if you make mistakes along the way.
-
-That’s a classic challenge: How do you move quickly in a big organization with so many layers of management?
-
-You need to really try to root out bureaucracy. As you get bigger,
-
-you have a lot of managers—well-intended people—who keep layering
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+remarkable. Startups are missionary about trying to solve problems for

@@ -1,7 +1,13 @@
-# opportunities.
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4700782afe39056477ee3e28d88cfb616edc3b8f
+title: H08TM9-PDF-ENG
+---
+# to executives’ unique needs.
 
-- Supporting mental health and work-life balance. Executive
+- Strengthening CxO-CEO relationships. CHROs can help their
 
-burnout remains a challenge at many organizations, and CHROs can
+colleagues build trust with their CEO in order to assuage
 
-help peers identify sources of work stress and encourage usage of
+concerns about individual growth or ease conversations about new

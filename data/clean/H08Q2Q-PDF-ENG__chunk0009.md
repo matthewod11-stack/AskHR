@@ -1,49 +1,63 @@
+---
+source_path: H08Q2Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54fe50a860fd6f05e4566aacc2813e61160519a2
+title: H08Q2Q-PDF-ENG
+---
 # HBR / Digital Article / In Uncertain Times, Ask These Questions Before You Make a De…
 
-—to remember? Raj decided to delay the launch by two weeks to build in
+transparently to employees, reinforcing the company’s long-term
 
-stronger data protections and publicly explain the change.
+commitment while acknowledging short-term constraints.
 
-The result: The company missed the milestone, but gained internal
+The question helped Alana resist a reactive decision and instead choose
 
-trust, external respect, and investor conﬁdence. And a year later, that
+one that balanced immediate needs with long-term positioning.
 
-decision was held up as a deﬁning example of leadership with integrity.
+- 2. If a year from now this decision was used as an example of our leadership, what would it teach?
 
-- 3. What if this isn’t the storm—what if it’s the climate?
+In uncertain times, when data is incomplete and outcomes feel
 
-This question ﬂips the way leaders typically frame disruption. Rather
+unpredictable, this question helps leaders shift from reactive problem-
 
-than treating volatility as a temporary storm to wait out, it asks you to
+solving to intentional meaning-making.
 
-consider: What if this is the new normal?
+This is more than a reﬂection question—it’s a reframing device. It asks:
 
-That shift is more than semantic—it’s strategic. It challenges the
+What kind of story are we writing with this decision? What would others
 
-instinct to delay, defer, or design for an imagined return to stability,
+learn—not just about what we did, but about how we showed up?
 
-and it invites you to stop optimizing for recovery and start preparing
+Unlike a question that focuses on whether a decision will stand the test
 
-for persistence and building for endurance. It encourages investments
+of time, this question is about what your decisions say about you—your
 
-in systems, culture, and capabilities that can ﬂex under pressure—not
+priorities, courage, and clarity. It’s strategic because it prompts leaders
 
-snap. By confronting uncertainty head-on, leaders move from reactive
+to widen the lens and consider how their choices reﬂect the culture
 
-to resilient, making choices that don’t just survive the current moment,
+they’re building and the example they’re setting.
 
-but thrive across whatever comes next.
+Take Raj, a vice president at a fast-growing tech ﬁrm, who was leading a
 
-Darryl, COO of a consumer goods company, had been struggling with
+high-stakes product launch. One team member raised ethical concerns
 
-a key packaging vendor. Deliveries were late. Quality was slipping. But
+about how user data might not remain anonymous. While the legal team
 
-switching vendors felt risky—the current one had been with them for
+had signed oﬀ, a gray area remained. Delaying the launch would mean
 
-years, knew their specs, and oﬀered decent pricing. So, Darryl kept
+missing a major investor milestone. The team was split.
 
-pushing for ﬁxes, hoping the issues were temporary.
+Asking “If a year from now this decision was used as an example of our
 
-Then during a meeting with his team to discuss the supply chain, his
+leadership, what would it teach?” shifted the conversation. It wasn’t just
 
-procurement lead asked him: “What if this isn’t the storm—what if it’s
+about timelines or risk anymore—it was about character. What lesson
+
+did they want to model? What did they want their team—and their users
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

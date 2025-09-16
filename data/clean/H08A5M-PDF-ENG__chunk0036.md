@@ -1,13 +1,13 @@
-# HBR / Digital Article / Why Cross-Functional Collaboration Stalls, and How to Fix It
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1835d40a30d23db756a0ef0cc06d5dfb0d8ef3eb
+title: H08A5M-PDF-ENG
+---
+# in pivotal commercial decisions.
 
-. . .
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Business today requires a high degree of cross-functional collaboration
+6
 
-to achieve nearly any meaningful objective. When cross-functional
-
-eﬀorts stall, which is a natural and frequent occurrence, organizations
-
-should encourage functions and teams to develop their own talent and
-
-improve their own processes. Doing so will enable employees to thrive in inherently diﬃcult environments.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,17 @@
-# Why a Functional Organization?
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83ad74ef9f7d6e8998fd64782bbd0ea237dff32d
+title: R2006F-PDF-ENG
+---
+## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-Apple’s main purpose is to create products that enrich people’s daily
+intelligence and other new areas has increased, that structure has
 
-lives. That involves not only developing entirely new product categories
+changed. Here we discuss the innovation beneﬁts and leadership
 
-such as the iPhone and the Apple Watch but also continually innovating
+challenges of Apple’s distinctive and ever-evolving organizational
 
-within those categories. Perhaps no product feature better reﬂects
+model, which may be useful for individuals and companies wanting to
 
-Apple’s commitment to continuous innovation than the iPhone camera.
-
-When the iPhone was introduced, in 2007, Steve Jobs devoted only
-
-six seconds to its camera in the annual keynote event for unveiling
-
-new products. Since then iPhone camera technology has contributed to
+better understand how to succeed in rapidly changing environments.

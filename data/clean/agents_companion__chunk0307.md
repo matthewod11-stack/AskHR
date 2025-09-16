@@ -1,15 +1,11 @@
-# Understand different design patterns (sequential, hierarchical, collaborative, competitive)
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 6eb9f4a1585b1d9e5016cff81e2854cabf60d1b9
+title: agents_companion
+---
+## methods. Don’t outsource the domain knowledge.
 
-and choose the right one for your application.
+- 5. Multi-Agent Systems Offer Advantages: Consider multi-agent architectures for
 
-- 6. Agentic RAG Improves Relevance: Move beyond traditional RAG by incorporating
-
-agents that actively refine search queries, evaluate retrieved information, and adapt to
-
-evolving knowledge. This leads to more accurate and contextually relevant responses.
-
-- 7. Search Optimization is Foundational to RAG: Before diving into complex agentic RAG,
-
-optimize your underlying search engine. Techniques like semantic chunking, metadata
-
-enrichment, fine-tuning embedding models, and using rankers can significantly improve
+complex tasks. They can improve accuracy, efficiency, scalability, and fault tolerance.

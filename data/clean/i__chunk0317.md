@@ -1,25 +1,13 @@
-# attrition_data.columns
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 3209ab07a3b2276bd8d37488f4db580f8bbebc05
+title: i
+---
+# attrition_data.head()
 
-This returns name of 35 columns
+This returns first five rows, at the same time we can check the width dimension of the dataset,
 
-Index(['Age', 'Attrition', 'BusinessTravel', 'DailyRate', 'Department',
+which is 35 columns.
 
-56
-
-'DistanceFromHome', 'Education', 'EducationField', 'EmployeeCount',
-
-'EmployeeNumber', 'EnvironmentSatisfaction', 'Gender', 'HourlyRate',
-
-'JobInvolvement', 'JobLevel', 'JobRole', 'JobSatisfaction',
-
-'MaritalStatus', 'MonthlyIncome', 'MonthlyRate', 'NumCompaniesWorked',
-
-'Over18', 'OverTime', 'PercentSalaryHike', 'PerformanceRating',
-
-'RelationshipSatisfaction', 'StandardHours', 'StockOptionLevel',
-
-'TotalWorkingYears', 'TrainingTimesLastYear', 'WorkLifeBalance',
-
-'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion',
-
-'YearsWithCurrManager'],
+We can check dataset columns by

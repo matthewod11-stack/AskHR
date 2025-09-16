@@ -1,19 +1,23 @@
-## you notes, milestone celebrations, and employee-appreciation events —
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 111986f2ebe446b230e58411479a14de6b119f78
+title: H082MI-PDF-ENG
+---
+## HBR / Digital Article / Fighting Loneliness on Remote Teams
 
-can help provide opportunities for remote teams to celebrate and for
+- 2. Make recognition meaningful
 
-leaders to help embed recognition into the company culture.
+It was over a decade ago, but I still vividly remember a manager who did
 
-At its core, recognition is a signal of value and gratitude for one’s
+a great job celebrating personal and professional wins. He would rally
 
-work. Recognition makes employees feel good and part of something
+the team on occasion and we’d walk over to a quaint confectionery.
 
-meaningful. The business impact of recognition is signiﬁcant, too.
+In remote environments, where there’s physical distance and employees
 
-According to data from the employee recognition platform Achievers:
+may be spread across the country or globe, there aren’t as many
 
-- Three-quarters (73%) of workers say recognition would inspire them to
+opportunities to engage in in-person celebrations like dinner or
 
-be more productive.
-
-- Two-thirds (64%) of workers say recognition would reduce their desire
+afternoon treats. Employee recognition programs — including thank-

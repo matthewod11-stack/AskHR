@@ -1,11 +1,17 @@
-## particularly acute in large-small business relationships, where 88% of
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 272d1853d8a895d0b59076a3ee7839a8832484db
+title: H08IVM-PDF-ENG
+---
+## the most common sources of disagreement during contract execution
 
-SMEs report facing inﬂexibility from larger partners, and only 34% of
+are practical issues like pricing, scope, and delivery.
 
-large ﬁrms recognize SMEs’ strategic importance. This dynamic isn’t
+- Power imbalances: Negotiations are driven by power. Fifty-seven
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+percent of negotiators say they regularly encounter situations where
 
-2
+the counter party is a non-negotiator, aiming only to impose their
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+template terms, regardless of suitability. The power imbalance is

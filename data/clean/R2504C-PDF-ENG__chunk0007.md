@@ -1,67 +1,67 @@
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f78005d82604783aeeaebe50a9f4532f181c0dc
+title: R2504C-PDF-ENG
+---
 ## HBR / Magazine Article / “Speed Is a Leadership Decision”
 
-have to keep working on strengthening the parts of your culture that you
+in processes. And pretty soon you have process upon process upon
 
-see being stretched.
+process, which slows people down, so they can’t get the real work
 
-So what does that look like in practice?
+done. You have to be scrappy. You can’t put 50 or 100 people on every
 
-It comes back to the notion of wanting to operate like the world’s
+new project. We started our cloud-computing business, Amazon Web
 
-largest startup. We looked at our culture and identiﬁed a few things.
+Services, with about 13 employees. With a small number of people,
 
-Historically, Amazon has hired smart, ambitious, motivated people. We
+you can build something that resonates with customers and then keep
 
-let them make the lion’s share of what we call “two-way-door decisions”
+iterating from there.
 
-—if you walk through it and you’re wrong, you can always walk back, no
+How do push your team to take chances and embrace failure?
 
-harm done. (In a one-way-door decision, if you walk through the door
+As companies get bigger, they often get risk averse. If you hire
 
-and you’re wrong, it’s really hard to walk back.) But as you get larger,
+achievement-oriented, type A people, they are not used to failing. When
 
-as we have, you end up logically with a lot of managers and a lot of
+they want to pursue something new, they worry that if they get it wrong,
 
-layers of managers. There’s a pre-meeting for the pre-meeting for the
+they’ll be ostracized. So they play to not lose. We stress that the only way
 
-pre-meeting for the decision meeting. And owners who don’t feel like
+to build something unique is to do something diﬀerent. You have to be
 
-they own the decision to make a recommendation because they know
+willing to take risks and to fail.
 
-the decision will be made three levels up. We want them to own the
+Being customer-focused seems inconsistent with taking risks. If you know exactly what your customers want, you deliver that. It doesn’t sound risky. How do you square those two imperatives?
 
-two-way-door decisions and be able to move quickly and autonomously.
+I think they’re pretty consistent. If you ﬁnd the right feedback loops,
 
-It’s part of our eﬀort to increase the ratio of individual contributors to
+customers will tell you what’s wrong with your product or with their
 
-managers by at least 15%. We want to ﬂatten the organization in order to
+experience. And if you ask the right “why” questions about the problem
 
-move faster and to drive more ownership.
+you’re trying to solve, customers will tell you what’s really constraining
 
-What’s your advice for companies that want to break down their own layers of complexity in order to innovate quickly and effectively?
+them. They can’t always tell you how to ﬁx it, but if you’re listening and
 
-The ﬁrst step is to want to address it, which isn’t simple because you
+you understand the need, then you can invent on their behalf.
 
-get used to operating in a certain way. The leadership team has to
+You seem to be reinventing Amazon’s management and culture: You’re rethinking the role of middle management. You’ve adjusted expectations about how teams work together. What’s the unifying idea behind these steps?
 
-decide they actually want to change things and resolve to take action.
+Most companies that are successful for any period of time have a culture
 
-That requires getting visibility into what’s really happening. When we
+that’s a key part of their success. We have a really strong culture, but
 
-announced that we wanted to ﬂatten and have fewer managers, we
+it’s not our birthright. Things change. The size of the company changes.
 
-started a “no bureaucracy” email alias, and we encouraged anybody
+The scope of businesses you’re going after changes. The geographic
 
-in the company who thought they were experiencing bureaucracy to
-
-email me. I’ve received more than 1,000 emails in six months. Not all of
-
-them are about bureaucracy—sometimes people just tell me they don’t
-
-like their manager. But I’ve read every one and shared them with other
+distribution of your people changes. If you want to stay successful, you
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,7 @@
-# Advice to the CEO
-
-Not expected
-
-Expected within project parameters
-
-Expected on a full range of topics
-
-In that role Carol manages the oﬃce of the CEO and is responsible
-
-for ensuring the execution of her agenda—a job that includes time
-
-management, ﬂow of information to and from the CEO, and seeing that
-
-the CEO is always prepared and rarely surprised. Carol also coordinates
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f084c942366004e281bee87a62bae5dac6a5bca
+title: R2003G-PDF-ENG
+---
+## Frequent, on a range of issues, whenever necessary

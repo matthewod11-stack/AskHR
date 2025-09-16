@@ -1,1 +1,17 @@
-## of the website without these personal additions.
+---
+source_path: H08A30-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d38d6e3c1e70af6fc00ec8a850267459c53de20
+title: H08A30-PDF-ENG
+---
+# HBR / Digital Article / How to Improve the Hiring Process for Disabled Candidates
+
+Including all of these elements together led to a signiﬁcant boost in how
+
+prospective job candidates with disabilities rated the company: Roughly
+
+65% rated it more highly, 63% thought it was more trustworthy, and 54%
+
+showed greater intent to apply to a company like this, as compared to
+
+the average rating given by participants who saw the more basic version

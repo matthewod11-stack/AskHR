@@ -1,17 +1,29 @@
-## collection (DA SMA) and also at March 2011 (DA MA11).
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: abbe232d38f1193c54b36e1ba8ea9e54b66610a6
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# information during the change process.
 
-Previous to the acquisition, vice-presidents for instance would usually took
+The general evaluation of Organization X’s communication is that it had since
 
-decisions separately and announce them to the rest of the organization, characterizing
+before the acquisition, a highly fertile starting point, where of one assuming that didn’t
 
-that participants of a dialogue were engaged after the decision-making (Propinquity),
+know something did not mean a power loss (Risk dimension) and where it was common
 
-and that was gradually altered by the new management model, reflecting later in the
+language fine-tuning and trying to grasp others positions (Commitment). As can be
 
-growth of this item evaluation. The great charismatic style of the former president is an
+observed in Graphic 01 these two dimensions were the higher ones at the time of
 
-iconic example of how Mutuality was different under his leadership, in terms of his of
+acquisition (DA ACQ), according to respondents evaluation. That is coherent to the
 
-unquestioned power. As previously stated by respondents, not that it was generating a
+descriptions former presented about the internal climate and the decision making
 
-bad climate, on the contrary, people were very pleased to count on a fair leader,
+process. As also can be seen below in Graphic 01, Propinquity, Mutuality, Empathy and
+
+Input were in this order, not very present right after the acquisition, about two years
+
+before the first field data collection, compared to Risk and Commitment that were
+
+already at good levels and had some variation, but remained so six months before data

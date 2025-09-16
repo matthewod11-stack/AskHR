@@ -1,33 +1,13 @@
-## HBR / Digital Article / When Your High Standards Derail Your Success
+---
+source_path: H08HSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7839201b54f7eff6e28d92e1f053a1da7bd4ac88
+title: H08HSV-PDF-ENG
+---
+# team didn’t feel resentful.
 
-Another one of Anne’s clients had a disconnect with his team. He
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-thought he’d been clear on his vision for the department. However,
+3
 
-vision-sharing is not one-and-done; leaders need to continually share
-
-their vision with team members and get everyone’s buy-in. Because
-
-the team lacked clarity, they weren’t aligned on work standards and
-
-what would be “good enough.” Once the leader sat down and shared his
-
-vision again, team members “got it” — and the work improved.
-
-Consider your culture fit.
-
-You may need to zoom out and look at the bigger picture. Ask yourself
-
-whether you’re in the right company or department to leverage your
-
-skills. There’s no such thing as a perfect job or a perfect company, but
-
-you may be better suited to another environment. Ask yourself:
-
-- What am I hearing in my performance reviews?
-
-- What do the outputs from my 360s look like?
-
-- What is the culture of the company? How do I ﬁt within it?
-
-- Is leadership supportive of my work? (Ask your manager for candid
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,13 @@
-# Psychological Review, 45, 377–394.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 95ca4e34964a5f71cc816f3fc9318470193093ea
+title: untitled
+---
+## ality inventory. Journal of Social Psychology, 4, 387–405.
 
-Block, J. (1971). Lives through time. Berkeley, CA: Bancroft Books.
+Bertaux, D. (1981). Biography and society: The life history ap-
 
-Boring, E. G. (1950). A history of experimental psychology
+proach in the social sciences. Beverly Hills, CA: Sage.
+
+Bills, A. G. (1938). Changing views of psychology as science.

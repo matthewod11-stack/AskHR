@@ -1,11 +1,7 @@
-# Outcome-focused role descriptions
-
-Some companies are beginning to articulate the outcomes expected
-
-from a role rather than the speciﬁc tasks or duties the employee is
-
-required to perform. This approach provides ﬂexibility for the employee
-
-to determine the best way to achieve those results, fostering innovation
-
-and initiative and, importantly, allowing them to change their approach
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a7420fcf9936c9ff9b382d9a407ba62267a3398
+title: H07TI0-PDF-ENG
+---
+## with rapidly-changing, project-based roles.

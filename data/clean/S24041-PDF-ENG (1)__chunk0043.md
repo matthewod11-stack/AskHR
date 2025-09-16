@@ -1,7 +1,25 @@
-# anniversary as CEO.
+---
+source_path: S24041-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 3fbdee6a1073db0a8c3929ef86c5d662b82a5b5c
+title: S24041-PDF-ENG (1)
+---
+## sign of failed planning and talent development.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The outgoing CEO decided that the period when he and Jeﬀ overlapped
 
-13
+should be a short one. Seeing a chance to gain power more quickly, Jeﬀ
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+conveyed to the independent directors that it would be best if the CEO
+
+left even sooner. As their relationship soured, tension increased within
+
+the senior management group. Eventually things calmed down, but Jeﬀ
+
+never overcame the poor start. Then the pandemic hit, overwhelming
+
+the company. Its growth collapsed, and investors became skeptical of
+
+Jeﬀ’s leadership. Because the former CEO was not in his corner to
+
+help with either the board or investors, Jeﬀ was ﬁred before his ﬁrst

@@ -1,7 +1,25 @@
-# teammates:
+---
+source_path: H074IE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 161d2c9a9161ec52fe2e87ff1a0b7481f8009b48
+title: H074IE-PDF-ENG
+---
+# Gain perspective.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+If you sense your teammates are frustrated with you, don’t avoid the
 
-3
+issue or guess — ask them before it’s too late! Addressing the situation
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+prior to your review can remove this red flag from your record. This
+
+situation happened to one of my coaching clients, who was frequently
+
+late on deliverables and failed to alert her team. Worse yet, she tended
+
+to blame her delays on external circumstances, such as not receiving the
+
+information she needed on time instead of searching it out.
+
+If you’re not sure how your team perceives your contributions,
+
+executive and team coach Jennifer Porter suggests asking your

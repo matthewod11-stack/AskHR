@@ -1,21 +1,21 @@
-## Practice regular emotional check-ins with yourself.
+---
+source_path: H08JFA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9cd309f34c9202f9879ca46167455a4b3c74d236
+title: H08JFA-PDF-ENG
+---
+## all your current responsibilities and time commitments for the week
 
-It can help to do an emotional check-in with yourself regularly. Self-
+(or even a couple months) ahead. Then, reﬂect on which upcoming
 
-reﬂection will keep you connected to your emotions and give you
+opportunities realistically ﬁt in your schedule and are related to your
 
-insight into the direction of your career. During your weekly workload
+scope of work. Remember, your calendar doesn’t have to be jam-packed
 
-reﬂections (mentioned above), ask yourself:
+for you to know you’re at full capacity. It should have some white spaces
 
-- How am I feeling about my current responsibilities? This will show you
+for things that may come up at the last minute or for doing some deep
 
-if you are aligned with your workload or feeling overwhelmed (and can
+work when you need it. This will help you have an accurate idea of what
 
-be a red ﬂag that you may have overcommitted).
-
-- How am I feeling about my coworkers and work in general? This will
-
-help uncover the emotional connection you have to your work. Feeling
-
-disconnected, unsupported, or indiﬀerent can be a red ﬂag for a lack of
+you are already committed to and how much time you really have.

@@ -1,3 +1,9 @@
-## numa nota, que pode variar de -100 a 100:
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 0b8b476561d210af56955269ac8501a4ff9e750f
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# Fonte: Pedra, 2022
 
-Para comparações entre resultados de diferentes empresas que utilizem o
+O cálculo do escore final é dado pela mesma fórmula do NPS, resultando

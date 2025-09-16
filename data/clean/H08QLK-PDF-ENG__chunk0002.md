@@ -1,11 +1,7 @@
-# Beachmite Photography/Getty Images
-
-In 2011, venture capitalist Marc Andreessen declared that “software is
-
-eating the world,” arguing that software-driven companies would upend
-
-every industry. That framing explains why the 2010s were dominated
-
-by digital transformation: incumbents and challengers alike invested
-
-heavily in enterprise software to automate workﬂows and compete with
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7dbc8efc68b6b8636adcd0d88e0e04c19eebfd3b
+title: H08QLK-PDF-ENG
+---
+## Published on HBR.org / May 21, 2025 / Reprint H08QLK

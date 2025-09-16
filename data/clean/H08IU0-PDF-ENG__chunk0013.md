@@ -1,31 +1,15 @@
-# control.”
+---
+source_path: H08IU0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e992c788a35015415f05d706aedad0d173e09b97
+title: H08IU0-PDF-ENG
+---
+# Confront your denial and limitations
 
-The ﬂurry of intensiﬁed activity surrounding change initiatives serves
+“You can’t change the world if you’re not willing to change your world,”
 
-as a numbing agent to keep leaders from feeling the pains of real
+says Petriglieri. “We work in a world where organizations believe leaders
 
-trouble. I’ve seen organizations whip up innovation crazes, investing
+have more capacity to predict and aﬀect performance than they do.
 
-tens of millions of dollars into R&D pipelines to confront hemorrhaging
-
-market share, ignoring the reality that their core products are rapidly
-
-commoditizing or becoming irrelevant and consumers aren’t interested
-
-in new-fangled versions of obsolete products. But when the CMO shows
-
-up with market analytics that suggest that “improvements” to the core
-
-oﬀerings could revitalize sales and grow margins, the company is all in.
-
-For leaders, the pain of acknowledging the end of their monopolistic
-
-market share, their refusal to recognize the causes of declining sales,
-
-and the inability to admit that the kind of transformation required for
-
-them to succeed long term would take more years than shareholders
-
-would tolerate, are all too overwhelming to consider. This kind of self-
-
-deception, however, conspires to lure the organization into the vicious
+Leaders don’t want to look in the mirror and face the limits of their

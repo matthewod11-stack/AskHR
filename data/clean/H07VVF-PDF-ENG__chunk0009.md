@@ -1,9 +1,9 @@
-# common.
+---
+source_path: H07VVF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67f2bec527307aa59ff4638bcf629db09e026dbc
+title: H07VVF-PDF-ENG
+---
+# HBR / Digital Article / Your Company Will Need Remote Work as Extreme Weather Ge…
 
-Companies’ readiness to remote work obviously proved crucial during
-
-the Covid-19 pandemic. During the onset of the pandemic, workers
-
-could suddenly not safely go to the oﬃce anymore. As a result, ﬁrms
-
-that were more remote-work-ready lost, on average, $98.81 million less
+a warming world, where extreme weather is (sadly) becoming more

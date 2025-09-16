@@ -1,15 +1,15 @@
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 76b8eed07b4615a41c18d6ddf88d33b627b9a9d5
+title: H07XDL-PDF-ENG (1)
+---
 ## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
 
-Other studies have found that proven life-enhancers include practicing
+See more HBR charts in Data & Visuals on HBR.org.
 
-kindness, mindfulness, meditation, and gratefulness; cultivating more
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-humor and laughter; dedicating time to learning; and developing a
+17
 
-growth mindset (that is, believing your abilities and life can improve through eﬀort and persistence).
-
-As you do this work, it’s important to understand and learn from what
-
-has worked for others, while also remembering that you can’t just copy
-
-and paste someone else’s approach. Your life strategy should be unique
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

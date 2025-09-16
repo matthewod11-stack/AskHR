@@ -1,13 +1,9 @@
-# decision-making?
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc2b3ae5d30003668db79d122cb3467b95a45f9b
+title: H08SQS-PDF-ENG
+---
+# HBR / Digital Article / Research: Executives Who Used Gen AI Made Worse Predictions
 
-To test this, we ran a simple experiment. We asked more than 300
-
-managers and executives to make stock predictions after reviewing past
-
-trends. Half were then given the chance to confer with their peers,
-
-while the other half could consult with ChatGPT. Participants could
-
-then revise their predictions.
-
-The results were striking. We found that ChatGPT made executives
+their customer bases. But how does AI fare as a partner in higher-stakes

@@ -1,63 +1,63 @@
-## HBR / Digital Article / What Companies Still Get Wrong About Layoffs
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: afe89b7f59bf072d1d7fb24f22aff9e704da4173
+title: H07EDU-PDF-ENG
+---
+## with severance before layoﬀs, and support for multiple paths to
 
-We treated your colleagues well. We have a credible strategy to improve
+reemployment. According to unpublished research conducted for
 
-the company’s prospects. There is a clear role for you to play in the
+Edelman’s 2022 Trust in the Workplace report, if you’re in the position
 
-future success of the company. People trust in actions, not words, so the
+of announcing layoﬀs, be prepared to use more creativity and spend a
 
-real test will be making sure that each of these statements syncs with
+little more money than you might have before to provide a soft landing for employees.
 
-things you have done and will keep doing.
+Nokia got employees to stay for more than a year (some for as long
 
-Be prepared to publicly apologize.
+as two years) after announcing a restructuring in 2011 by oﬀering
 
-In the past, corporate leadership refrained from making public
+both paths to employment inside Nokia and support for ﬁnding jobs
 
-apologies for reducing staﬀ. Today, in contrast, the trend is for CEOs
+outside the ﬁrm. They also provided funding for individuals and small
 
-to apologize for eliminating jobs.
+teams with credible plans to start their own businesses — 1,000 were
 
-How you apologize matters. When making a company apology,
+developed — and provided a path to new skills by funding education. As
 
-researchers have identiﬁed three essential elements for restoring lost
+a result, 60% of 18,000 employees from 13 countries, including the U.S.,
 
-trust: 1) Acknowledge harm and say you are sorry for it; 2) explain why
+Finland, and India, knew what their next job was going to be before their
 
-you acted as you did; and 3) make an oﬀer of repair that genuinely helps
+job at Nokia ended. The company achieved the same percent of sales for
 
-the person you harmed. Stripe CEO Patrick Collison’s recent email to
+revenues from new products as they did before the announcement, and
 
-employees in which he announced a 14% reduction of staﬀ succinctly
+at €50 million (€ 2,800 per employee) the entire cost of the company-
 
-communicates an eﬀective apology. Collison’s tone conveyed sincerity
+managed program was less than 4% of restructuring charges.
 
-in acknowledging mistakes: “We’re very sorry to be taking this step and
+Don’t overlook remaining staff.
 
-John and I are fully responsible … We overhired for the world we’re in.”
+Many employees jump ship following a layoﬀ: One study found that
 
-It’s hard for leaders to make this type of public apology without inviting
+a layoﬀ aﬀecting 1% of the workforce led to a 31% increase in the
 
-cynicism, and today, social media and online news archives make it
+rate of voluntary turnover. Today’s robust job market provides ample
 
-easy for anyone to ﬁnd contradictions in a CEO’s message.
+alternatives for surviving employees who question the fairness of a
 
-. . .
+layoﬀ. Employees with low organizational commitment are 2.5 times
 
-Successfully managing workforce changes within today’s landscape
+more likely to leave a ﬁrm after a layoﬀ occurred.
 
-ultimately requires evaluating your actions against the backdrop of
+You’ll need to communicate a compelling case for why people should
 
-trust. Your company will weather the storm of layoﬀs more successfully
-
-if you can maintain trust with three groups who will determine your
-
-success in the future: employees you let go, employees you retain, and
-
-employees who don’t yet work for you.
+stay. Surviving and prospective employees want to hear three messages:
 
 Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-11
+10
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

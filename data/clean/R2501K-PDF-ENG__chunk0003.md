@@ -1,11 +1,27 @@
-## HBR / Magazine Article / How Project Leaders Can Tame Unpredictability
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d03bf35bb728b50939ffba4ed7d0bfcd7ee9f859
+title: R2501K-PDF-ENG
+---
+# Vicki Turner
 
-that threaten to derail our projects and decisions, particularly under
+If the past ﬁve years have taught us anything, it’s that change is
 
-unfamiliar circumstances brought on by macro events.
+still the only constant in business. We’ve had to navigate a global
 
-For the past 13 years, I’ve worked as an agile-product-development
+pandemic, geopolitical crises, supply chain disruptions, a shift to hybrid
 
-consultant in various industries, and I’ve found that new
+work, and the rise of generative artiﬁcial intelligence. As former U.S.
 
-initiatives face unpredictability in four key areas: human behavior,
+Secretary of Defense Donald Rumsfeld would put it, we’re facing many
+
+more “unknown unknowns” than “known unknowns” nowadays. But
+
+in our daily work lives, it’s often the smaller-scale unpredictabilities
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

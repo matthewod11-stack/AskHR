@@ -1,9 +1,9 @@
-# Balance Discipline with Creativity
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6eccb2c89d12c00758df3ee5530fd795dac68414
+title: R2504D-PDF-ENG
+---
+## HBR / Magazine Article / The Conflict-Intelligent Leader
 
-If you watch master negotiators work, you’ll notice that they seamlessly
-
-shift between ﬁrm boundary setting and collaborative problem-solving,
-
-between public strength and private ﬂexibility. One moment they’re
-
-establishing clear red lines, the next they’re exploring innovative
+[ 3 ]

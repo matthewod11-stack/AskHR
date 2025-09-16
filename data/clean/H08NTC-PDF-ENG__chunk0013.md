@@ -1,11 +1,19 @@
-# experience.
+---
+source_path: H08NTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74b2f025934baf0e7b37eece59bcfd183d792ced
+title: H08NTC-PDF-ENG
+---
+# Mental health and emotional support
 
-You can also encourage other team members to reach out with messages
+Support your employees’ mental health by oﬀering access to
 
-of support (without the expectation of a reply). This will help to foster
+counseling, such as through your company’s Employee Assistance
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Programs (EAP), and other stress-management resources. Listen to
 
-3
+them, validate their emotions, and show empathy. The simple act of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+witnessing their distress empathetically and showing that you are there to support them during this diﬃcult time can help ease some of the
+
+stress they experience and can mitigate the degree of trauma they may

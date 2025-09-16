@@ -1,1 +1,25 @@
-## HBR / Digital Article / How to Return to Work After Taking Parental Leave
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae2afdc2fb07ad3391d51821b913f1d874e86c3b
+title: H052W1-PDF-ENG
+---
+# Do:
+
+- Resist taking your emotional temperature during your ﬁrst few weeks
+
+back on the job. Returning to work after parental leave is a process.
+
+- Make your schedule as predictable as possible and communicate your
+
+plans to your colleagues. But understand that adjustments may be
+
+needed along the way.
+
+- Seek out support and encouragement from other parents at work.
+
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

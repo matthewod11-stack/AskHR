@@ -1,25 +1,19 @@
-# L. Thissen et al.
+---
+source_path: health_promotion_international_2023_38_1_11.md
+pages: n/a-n/a
+chunk_id: 1c0f3b534f8fea4fe683023806fddf3b00ce8fdc
+title: health_promotion_international_2023_38_1_11
+---
+# 8
 
-themselves to exchange orders and help one another in meeting deadlines while boycotting work meetings with the overall production manager (field notes). At the same time, the overall production manager reported experiencing the same balancing act:
+direct colleagues and got sincere compliments from the supervisor. However, the group leaders, who super- vised the daily execution of tasks, did not show much appreciation, except for a thumbs-up or a quick ‘Well done!’ This disappointed him: ‘a compliment would be good for your frame of mind’ (field notes), show- ing how being valued impacts one’s perceived health. When asked about his experiences with managers higher-up, he claimed that apart from the HR manager who visited the production halls every week, he did not feel recognized by supervisors from ‘way above’:
 
-Within the production halls, the short-term orders result in stress and unrest, which might increase absenteeism. Long-term orders with a low inten- sity and a constant work pressure without peaks is much better for employees. Yet, the shareholders prefer short-term orders because they yield more production and profit. (field notes)
+Sometimes, the board comes to the work floor to peek at us monkeys [in Dutch: aapjes kijken]. They come here with posh ladies or new clients to look at us. They then gather around you with their hands on their back, looking over your shoulder while not saying a word. I don’t like that. (field notes)
 
-Due to the perceived lack of communication, involve- ment and recognition of each other’s expertise at all levels, it seemed that the supervisors and the produc- tion manager did not know about each other’s shared struggle. This led the supervisors to arrange business among themselves, boosting a sense of belonging to that supportive group while worsening the feeling of organizational unbelonging as a whole and impairing the perceived health at work among employees (deal- ing with peaks in workload and frustrated supervisors), supervisors (balancing caring and reaching goals) and overall production managers (basically struggling with the same balancing act).
+The employee’s dislike of being ‘peeked at [as] mon- keys’ by the board members increased the perceived organizational distance between production employees and the board members accompanied by ‘posh’ ladies or new clients. The quote suggests that the world of the production hall and the world of the board are usually separated and that the employee experiences a clear us–them divide, echoing the definition of organi- zational distance (Hsiao et al., 2017).
 
-As in the industrial production company, the spa- tio-material dimension of belonging also plays a role in the social workplace. Here, the productional halls were located in different wings and hallways than the offices of managers, board members and admin- istrative departments. Yet, while all employees in the industrial production company could move freely from one building to another, production employees in the social workplace mainly stayed within the produc- tion area during most of their workweek. To enter the office area for meetings with HR or occupational sup- port, their supervisor either had to accompany them to open the door or they had to ring the bell so the receptionist could (after confirming the appointment) give them access to the office hallways. As researches, we got badges that gave us conveniently access to both hallways, with the exception of the board and finance hallway. A few weeks into fieldwork, we remarked that most employees of the mailing and packaging division knew that we had access and they deliberately waited for us to get in and out of the office area. The badge as a material object articulated the internalized biog- raphies of organizational unbelonging (the feeling of not fitting) in relation to space or, stated differently, of those who belonged and had access to both areas and those who did not belong and only had access to the production area. The badges’ underlying medi- ation of (un)belonging serves as an example of how
+The recognition of expertise in the social workplace was mainly discussed in relation to the overall trans- formation of Dutch social workplaces from sheltered workplaces into competitive production companies, resulting in a struggle between caring and producing (Van der Torre, 2016). The supervisor of the mailing and packaging division explained that she had knowl- edge about every employee in her team, for instance, how to approach employees or leave them alone. This was deemed essential in the early caring model, but there was no time for that anymore due to the produc- tion model of the contemporary social workplace:
 
-(cid:68) (cid:111) (cid:119) (cid:110) (cid:111) (cid:97) (cid:100) (cid:101) (cid:100) (cid:32) (cid:102) (cid:114) (cid:111) (cid:109) (cid:32) (cid:104) (cid:116) (cid:116) (cid:112) (cid:115) (cid:58) (cid:47) (cid:47) (cid:97) (cid:99) (cid:97) (cid:100) (cid:101) (cid:109) (cid:99) (cid:46) (cid:111) (cid:117) (cid:112) (cid:46) (cid:99) (cid:111) (cid:109) (cid:47) (cid:104) (cid:101) (cid:97) (cid:112) (cid:114) (cid:111) (cid:47) (cid:97) (cid:114) (cid:116) (cid:105) (cid:99) (cid:101) (cid:47) (cid:51) (cid:56) (cid:47) (cid:51) (cid:47) (cid:100) (cid:97) (cid:97) (cid:100) (cid:48) (cid:54) (cid:49) (cid:47) (cid:55) (cid:49) (cid:57) (cid:57) (cid:52) (cid:55) (cid:54) (cid:32) (cid:98) (cid:121) (cid:32) (cid:103) (cid:117) (cid:101) (cid:115) (cid:116) (cid:32)
+I don’t think the board knows how important the knowledge is that I have about each employee. I know how to play the game every day, but you don’t know these things just like that; that is the result of a year-long investment. (interview)
 
-(cid:108)
-
-(cid:105)
-
-(cid:108)
-
-(cid:111) (cid:110) (cid:48) (cid:57) (cid:83) (cid:101) (cid:112) (cid:101) (cid:109) (cid:98) (cid:101) (cid:114) (cid:32) (cid:50) (cid:48) (cid:50) (cid:53)
-
-(cid:32)
-
-(cid:32)
-
-(cid:116)
+Almost every week, we witnessed the supervisor balancing between caring for the team and reaching production targets. She often raised the point that it was difficult for her and her fellow supervisors to meet targets and deadlines while taking care of employ- ees. As the supervisors believed that this struggle was not resolved by the board and the overall production manager, the supervisors made arrangements among

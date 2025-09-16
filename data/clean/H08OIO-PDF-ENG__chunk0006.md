@@ -1,35 +1,33 @@
-## HBR / Digital Article / How to Prevent Strategy Fatigue
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30238662ef23e184cfdbaf698fbc4bdd992c97f0
+title: H08OIO-PDF-ENG
+---
+## The strategy-du-jour CEO in the opening story of a tech ﬁrm hinders
 
-- A fashion company that keeps ﬂipﬂopping about its strategic
+performance because she changes course “at a moment’s notice,”
 
-directionJennifer had been Senior Account Manager for a company
+chasing new ideas before the last one gained traction. Early on, this
 
-that sells high-end women’s fashion clothing, bags, and accessories.
+approach created buzz and energy. But over time, employees grew
 
-She had been hired to “expand the business internationally via
+frustrated with the constant whiplash. One month, the priority was
 
-wholesale” (B2B) and had identiﬁed a critical but complicated path to
+international expansion; the next it was pivoting to a new product—all
 
-make this happen. But after just two years she had left due to strategy
+without clear reasons. Productivity gave way to chaos. As one former
 
-fatigue brought on by her CEO’s ﬂipﬂopping about corporate direction.
+team member noted, “the CEO hit a wall and so did the company.”
 
-When I asked why the CEO kept changing course, Jennifer said she
+This is strategy fatigue at its most acute: talented people rendered
 
-“lacked a retail background, came from a large strategy consulting
+ineﬀective because leadership can’t stick to a direction long enough to
 
-ﬁrm, and didn’t have industry knowledge.” The CEO had trouble
+reach a successful ﬁnish line.
 
-staying on track with the plan and “changed the strategy every three
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-months,” switching from international expansion to extra focus on
+2
 
-retail (B2C), to opening more stores, to using a diﬀerent brand for a
-
-certain product—to anything the board okayed. “The CEO was always
-
-looking for a silver bullet to deliver unrealistic ﬁnancial results,”
-
-Jennifer observed, none of which worked. In the end, the CEO was
-
-ﬁred a year after Jennifer left.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

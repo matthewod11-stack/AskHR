@@ -1,23 +1,23 @@
-## HBR / Digital Article / Research: When Help Isn’t Helpful
+---
+source_path: H08RGL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90a9560e31f28f611001b88c8525da592d4cd4df
+title: H08RGL-PDF-ENG
+---
+# What Is Unhelpful Help?
 
-In our years of studying the helping process, we’ve discovered that
+Unhelpful help occurs when givers oﬀer assistance that misses the
 
-help at work is a paradox. Some aspects of organizational structure that
+mark—because it’s poorly executed, not what was promised, or simply
 
-make help common enough to fuel creativity and learning also increase
+not what the recipient needed. These failed attempts aren’t usually
 
-the likelihood that unhelpful help will emerge. These structures are (1)
+malicious. In fact, they often stem from good intentions. But they can
 
-strong helping norms, (2) ﬂat hierarchies, and (3) ﬂexible roles.
+still drain energy, slow down work, and erode trust.
 
-Strong helping norms increase the likelihood that people will ask for
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-help when they need it, and others will agree to give it. Flat hierarchies
+2
 
-mean that people don’t worry as much about asking others for help
-
-—even those experts who might be hard to approach in a steeper
-
-hierarchy. Finally, when roles are ﬂuid and everyone feels responsible,
-
-it’s hard to know who is responsible for what.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

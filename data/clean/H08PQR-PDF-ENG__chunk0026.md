@@ -1,27 +1,23 @@
-# gain from their equity in the business.
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5a48e6616f4961df4ec6e27a775b8684ad564e1f
+title: H08PQR-PDF-ENG
+---
+# Setting Hiring Rules
 
-This left non-family employees demoralized and created tension among
+John’s spouse had been hired without a formal interview or job
 
-cousins. When John’s marriage ended, the debate over whether John’s
+description. Other family members had come through opportunity;
 
-spouse should stay employed became personal, emotional, and divisive.
+others through obligation. Performance expectations were vague.
 
-It didn’t need to be this way.
+Titles were handed out based on family hierarchy, not qualiﬁcations.
 
-This company, like all family-controlled ﬁrms, needed a set of
+Compensation for family members was all over the map: Some family
 
-employment practices for family members. These policies should:
+members were paid signiﬁcantly more than non-family members who
 
-- Create a formal hiring process for all roles, family and non-family.
+held the same role, and others appeared undercompensated because
 
-- Write down clear expectations around which family members are
-
-eligible for employment, and what qualiﬁcations they need to be
-
-considered for roles.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their salary had been set with an eye toward how much they stood to

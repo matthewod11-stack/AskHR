@@ -1,7 +1,17 @@
-## Journal of Business Ethics, 101, 577–599.
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: 8be0a83ffeebf22f93e41b77acd5e2bcc947d509
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# CA: Jossey Bass.
 
-Locke, J. (2010). The second treatise of government and a letter concerning toleration. New York, NY: Createspace Publishers (Original work published in 1689).
+Lazear, E. P., & Rosen, S. (1981). Rank-order tournaments as optimum labor contracts. Journal of Political Economy, 89, 841–864.
 
-Mannix, E. A., Northcraft, G., & Neale, M. A. (1995). Equity, equality or need? The effects of organizational culture on the allocation of beneﬁts and burdens. Organization Behavior and Human Decision Processes, 63(3), 276–286.
+Lerner, M. J. (1974). The justice motive: ‘‘Equity’’ and ‘‘parity’’ among children. Journal of Personality and Social Psychology, 6, 291–306.
 
-Marin, G. (1981). Perceiving justice across cultures: Equity vs equality in Columbia and in the United States. International Journal of Psychology, 16, 153–159.
+Leung, K., & Park, H. J. (1986). Effects of interactional goal on choice of allocation rule: A cross-national study. Organizational Behavior and Human Decision Processes, 37, 111–120.
+
+Leventhal, G. S., Michaels, J. W., & Sanford, C. (1972). Inequity and interpersonal conﬂict: Reward allocation and secrecy about reward as methods of preventing conﬂict. Journal of Personality and Social Psychology, 23, 88–102.
+
+Lindblom, L. (2011). The structure of a Rawlsian theory of just work.

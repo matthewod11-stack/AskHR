@@ -1,11 +1,25 @@
-# caregivers.
+---
+source_path: H07CJU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b39775b500f569bc6326310d6fb542db48d4641f
+title: H07CJU-PDF-ENG
+---
+## HBR / Digital Article / 5 Things Employers Get Wrong About Caregivers at Work
 
-Myth #4: Caregiving isn’t talked about much at our office, so it must not be an issue.
+In order to more fairly and accurately value all employees, we need
 
-Many people are not comfortable sharing about their caregiving
+to examine some of our ingrained biases. A pre-pandemic study from Stanford randomly assigned employees to be in oﬃce or remote. Those
 
-responsibilities in the workplace because they are worried about being
+working oﬀsite were actually 13% more productive, but they were
 
-penalized professionally. Only 56% of caregivers report that their
+promoted half as often. Proximity bias is very real, with a recent study
 
-work supervisor is even aware of their caregiving responsibilities. The
+from the Society for Human Resource Management showing that 42%
+
+of supervisors confess to sometimes forgetting about remote workers
+
+when assigning tasks. If companies are not actively training managers
+
+on these issues and working to support remote workers, their talent
+
+pipeline will become an open drain of women, people of color, and

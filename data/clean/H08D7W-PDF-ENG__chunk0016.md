@@ -1,11 +1,9 @@
-## on fat content due to new discoveries in nutrition science. Nestle
+---
+source_path: H08D7W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95a7867cf81c1c022ca64a75612f3998503cb3f7
+title: H08D7W-PDF-ENG
+---
+## Jenny Craig in 2006 for approximately $600 million, after weight loss
 
-then sold the business cheaply seven years later as it divested several
-
-underperforming brands.
-
-There are other failure modes for trend sensing, too. Firms can discuss
-
-trends in abstract ways — like how the population is aging — without
-
-tying them to speciﬁc changes in customer needs, supplier capabilities,
+trends were already starting to move away from Jenny Craig’s focus

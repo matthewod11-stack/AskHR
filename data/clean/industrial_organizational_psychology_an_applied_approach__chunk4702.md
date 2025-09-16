@@ -1,3 +1,7 @@
-# job satisfaction, 370 performance
-
-appraisal, 244 protected classes, 82 vacation days, 586 Jehovah’s Witnesses, 86 Jenkins v. Southern Farm Bureau, 96 Jenson v. Eveleth Taconite,
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: faa306b26f30d203d2cfa24f66f761329ea541fc
+title: industrial_organizational_psychology_an_applied_approach
+---
+# J.P. Morgan, 130 Japan

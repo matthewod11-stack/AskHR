@@ -1,11 +1,9 @@
-# Media Resources and Learning Tools
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7fd392068189e8b85856fe7abc4d528f5c9d6673
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Questions for Review
 
-7
-
-7
-
-Visit our website. Go to www. cengage.com/psychology/aamodt, where you will find online resources directly linked to your book, including chapter-by- chapter quizzing, flashcards, crossword puzzles, application activities, and more. Want more practice applying industrial/organizational psychology? Check out the I/O Applications Workbook. This workbook (keyed to your textbook) offers engaging, high-interest activities to help you reinforce the important concepts presented in the text.
-
-594
-
-chapter 
+. Why are some people more affected by stress than others? . What job characteristics are most likely to result in high levels of stress? . Why should organizations be concerned about employee stress? . How much attention should organizations pay to noise and temperature? . Do stress management techniques actually work? Why or why not? . Why does workplace violence occur?

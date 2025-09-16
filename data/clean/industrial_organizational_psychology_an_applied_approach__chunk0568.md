@@ -1,5 +1,9 @@
-# shortest.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1091ca67aed835b1b23b849d3e3b822628b747fc
+title: industrial_organizational_psychology_an_applied_approach
+---
+# the most.
 
-. Th e CIT has been rated the most useful and the PAQ the least. . Task analysis gives the best overall job picture and the PAQ the worst.
-
-Keep in mind, however, that these ﬁ ndings were based on users’ opinions rather than on actual empirical comparison and that many of the newer (post- ) job analysis methods were not included in the Levine and Ash studies.
+. Task analysis has the highest-quality results and TTA the lowest. . Task analysis reports are the longest and job-elements reports the

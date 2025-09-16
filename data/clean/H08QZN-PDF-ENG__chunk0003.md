@@ -1,11 +1,13 @@
-## others and increasingly authentic to you.
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a61e0fe9f2610d2c0c4fe365ebb81a7a6c111734
+title: H08QZN-PDF-ENG
+---
+# Illustration by Jennifer Tapias Derch
 
-But what happens when your preferred approach suddenly loses
+As you move into senior roles, some leadership styles will come more
 
-followership? If you don’t adjust, you could diminish your credibility
+naturally than others, shaped by your personality and past successes.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+And over time, your favored style may become your brand, expected by

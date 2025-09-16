@@ -1,9 +1,15 @@
-# REFERENCES
+---
+source_path: from_big_data_to_deep_data_to_support_people_analytics_for_employee_attrition_pr.md
+pages: n/a-n/a
+chunk_id: d3b774c206530f2bade3ff71eef4ebfb2433c28c
+title: from_big_data_to_deep_data_to_support_people_analytics_for_employee_attrition_pr
+---
+# N. B. Yahia et al.: From Big Data to Deep Data to Support People Analytics for Employee Attrition Prediction
 
-[1] R.PunnooseandP.Ajit,‘‘Predictionofemployeeturnoverinorganizations using machine learning algorithms,’’ Int. J. Adv. Res. Artif. Intell., vol. 5, no. 9, p. 5, 2016, doi: 10.14569/IJARAI.2016.050904.
+- 19. How often did you travel for business at that organiza- tion?1:Non-travel,2:Travelrarely,3:Travelfrequently
 
-[21] M. M. Alam, K. Mohiuddin, K. M. Islam, M. Hassan, A.-U. M. Hoque, and S. M. Allayear, ‘‘A machine learning approach to analyze and reduce fea- tures to a signiﬁcant number for employee’s turn over prediction model,’’ in Intelligent Computing, vol. 857, K. Arai, S. Kapoor, and R. Bhatia, Eds. Cham, Switzerland: Springer, 2019, pp. 142–159.
+- 20. Intention to quit the organization Yes/No 21. Any other factors which you feel are responsible for Employee Attrition?
 
-[2] R. Colomo-Palacios, C. Casado-Lumbreras, S. Misra, and P. Soto-Acosta, ‘‘Career abandonment intentions among software workers,’’ Hum. Fac- tors Ergonom. Manuf. Service Industries, vol. 24, no. 6, pp. 641–655, Nov. 2014, doi: 10.1002/hfm.20509.
+[19] S. Karande and L. Shyamala, ‘‘Prediction of employee turnover using ensemble learning,’’ in Ambient Communications and Computer Systems, vol. 904, Y.-C. Hu, S. Tiwari, K. K. Mishra, and M. C. Trivedi, Eds. Singapore: Springer, 2019, pp. 319–327.
 
-[22] S. Shah, S. Alatekar, Y. Bhangare, B. Kasar, and R. Patil, ‘‘Analysis of employee attrition and implementing a decision support system providing personalized feedback and observations,’’ J. Crit. Rev., vol. 7, no. 19, pp. 2372–2380, 2020.
+[20] D. S. Sisodia, S. Vishwakarma, and A. Pujahari, ‘‘Evaluation of machine learning models for employee churn prediction,’’ in Proc. Int. Conf. Inventive Comput. Informat. (ICICI), Coimbatore, India, Nov. 2017, pp. 1016–1020, doi: 10.1109/ICICI.2017.8365293.

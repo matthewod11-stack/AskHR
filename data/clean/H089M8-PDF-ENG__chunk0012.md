@@ -1,7 +1,9 @@
-# skillsets.
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d9863a95e7b7aba491c4fb3c74073e8dfb3bdd5
+title: H089M8-PDF-ENG
+---
+## skillsets and de-emphasized interpersonal compatibility, whereas the
 
-This mismatch between lead founders and cofounders was evident
-
-across all our datasets and studies. Why is this the case? And what
-
-can lead founders do to overcome this mismatch and successfully form
+cofounders prioritized interpersonal compatibility and de-emphasized

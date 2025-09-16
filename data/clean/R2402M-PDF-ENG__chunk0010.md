@@ -1,17 +1,47 @@
-## HBR / Magazine Article / Case Study: Navigating Labor Unrest
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fca8d12b55a5dd0b7f5a3b52e080b0fe224047ed
+title: R2402M-PDF-ENG
+---
+# career—hung in the balance.
 
-His recent encounters with Lucia Mendez, the sector leader at AAB,
+He was now puzzling over how best to implement his strategy for
 
-hadn’t been promising. Paulo had made signiﬁcant overtures—better
+reversing the trends: investing $1 billion in modernizing the factory
 
-overtime pay, more days of leave for junior hires, even subsidized
+and pushing production from 85,000 vehicles to a staggering 170,000 vehicles a year.1 Though it was ambitious, doubling production would not only help the company meet rising demand for cars but also reduce
 
-transportation to help workers get to the plant—but each time Lucia had
+unit costs, increasing proﬁtability.
 
-responded with a ﬁrm “Not enough.” Paulo respected her toughness,
+Paulo knew that his strategy would fail without the buy-in of one crucial
 
-but he wished the union would stop seeing the negotiation as a zero-
+stakeholder: the labor union. In South America unions were more than
 
-sum game and adopt the more collaborative, progressive approach
+just collective bargaining entities; they were potent political forces.
 
-that he’d seen work wonders in Germany and Japan and even other
+With 70% of the plant’s workers in Aliança Automotiva Brasileira (AAB),
+
+getting the union’s endorsement was pivotal to any revamp.
+
+While there hadn’t been any strikes recently, AAB seemed to be throwing its weight around. The use of the andon cord2—which brings production to a standstill—had increased dramatically. Several weeks
+
+earlier a gaggle of union representatives with placards had begun
+
+gathering at the gates each day to meet the factory’s managers on their
+
+way to and from work. Memories of a strike a decade ago still haunted
+
+Paulo. He had been a young manager then, full of ideas and optimism,
+
+and the strike had been his ﬁrst taste of the power the unions wielded.
+
+Production had ground to a halt, and relationships had frayed. Years
+
+later they were still not fully healed.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

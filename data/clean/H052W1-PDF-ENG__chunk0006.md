@@ -1,13 +1,15 @@
-## professor of organizational behavior and public policy at Carnegie
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5951f1d400dfd4008b27397a9080cff730399f00
+title: H052W1-PDF-ENG
+---
+## schedule, to your new responsibilities as a parent, to your identity in
 
-Mellon University. “You may not feel ready to leave your child,” she
+terms of how you’ve seen yourself your entire adult life,” she says.
 
-says. Or you may even feel guilty about your decision to go back to work
+Adding to the pressure, you’re making this transition while “taking care
 
-in the ﬁrst place. “All of this is normal,” of course, but that “doesn’t
+of a little human who might not be sleeping very well.” It’s an “intense
 
-make it any less overwhelming.” Reentry is a challenge, and there’s no
-
-perfect path. Have faith “that you will walk it well,” she says, and know
-
-that there are many ways of doing so. Here are some pointers for how to
+physical and psychological adjustment,” adds Denise Rousseau, a

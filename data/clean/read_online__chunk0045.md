@@ -1,23 +1,7 @@
-# None
-
-1–3
-
-146
-
-154
-
-47
-
-49
-
-> 3
-
-11
-
-3
-
-Prefer not to say
-
-4
-
-1
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: b5ffce3623631a7934b696d9343064907ab205ee
+title: read_online
+---
+# Number of dependents

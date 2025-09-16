@@ -1,9 +1,19 @@
-## Feedback Across Generations: Create an Explicit Team Culture
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e83450a3656ecd239c29482a2bf4f83453c953c
+title: R2305F-PDF-ENG
+---
+## HBR / Magazine Article / When Diversity Meets Feedback
 
-Generational diversity in the workplace has increased signiﬁcantly
+your insights. If Miles had started his discussion with Cassandra by
 
-over the past decades, as people are living longer, healthier lives and
+saying, “I’d love to hear any thoughts you have about my presentation
 
-retiring later. In today’s organizations people might be collaborating
+this morning,” he would have put her in a position of power before
 
-with colleagues from four generations all at once—something unheard
+turning the tables, which would have led her to treat his advice as
+
+valuable help rather than an attempt to assert dominance.
+
+[ 3 ]

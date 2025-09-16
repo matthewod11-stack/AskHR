@@ -1,11 +1,17 @@
-## the implications—for example, whether their operating systems and
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c807b331ebb9f2ad24555666f9520010ad4c6246
+title: S24021-PDF-ENG
+---
+## growth—market forces and technological changes such as disruptive
 
-processes can scale, how rapid growth might aﬀect corporate culture,
+innovation—play a role, many companies’ growth problems are self-
 
-whether they can attract the human capital necessary to deliver that
+inﬂicted. Speciﬁcally, ﬁrms approach growth in a highly reactive,
 
-growth, and what would happen if demand slows. In the process of
+opportunistic manner. When market demand is booming, they go
 
-chasing growth, companies can easily destroy the things that made
+on hiring binges, throw resources at developing new capacity, and
 
-them successful in the ﬁrst place, such as their capacity for innovation,
+build out organizational infrastructure without thinking through

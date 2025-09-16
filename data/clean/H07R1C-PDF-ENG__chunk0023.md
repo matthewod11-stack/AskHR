@@ -1,5 +1,9 @@
-## American; parent and caregiver for a disabled person
+---
+source_path: H07R1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0324daa60d1c3111073dbcf07ab6752bb899bed4
+title: H07R1C-PDF-ENG
+---
+# retention, and productivity.
 
-We may miss some days or hours from work, but overall those hours
-
-are made up 100x by the intense hard work and dedication put in
+— Research manager who identiﬁes as female, ﬁrst-generation Asian

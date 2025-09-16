@@ -1,11 +1,7 @@
-# collaboration, 300 definition, 295 strategic planning, 62f, 77–79 types, 296–298, 297f
-
-Team-based rewards, 307, 312 Team performance, 295–296 assessment, 304–305 effectiveness, 304 efficiency, 304 execution, 303 learning, 305 management, 298, 303b, 305b,
-
-306b, 310–312
-
-member satisfaction, 305 planning, 302–303, 310 renewal and recontracting,
-
-306–307
-
-review, 305–306 rewards, 307–308
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a071e8e0a94bac2ee1a6a53cdb175627585ca0b3
+title: performance_management_3rd_edition_by_aguinis
+---
+## Taylor, C., 292 Taylor, M. S., 35 Taylor, S., 261 Teams

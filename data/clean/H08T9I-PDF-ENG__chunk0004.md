@@ -1,9 +1,13 @@
-## HBR / Digital Article / When to Innovate and When to Imitate
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d599669c115a307b602aefaa08e50d09f1c9decd
+title: H08T9I-PDF-ENG
+---
+# from their investment in innovation.
 
-Frequently, scholars and practitioners attribute innovation failures
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to the ways companies go about developing and commercializing
+1
 
-innovations. But our research suggests an alternative reason—many
-
-innovation attempts fail because companies do not fully understand
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,9 @@
-# Descriptive analysis:
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: d98949719cfc5e0090c3491cca1602e985253b36
+title: i
+---
+## Figure 5: Data Analysis Levels (Source: Fitz-Enz, 2012)
 
-This is the ground level of data analysis, where the facts are presented in the form of a chart
-
-in different forms: line chart, bar chart, pie chart, histogram… and other statistical metrics for
-
-example mean, mode, median, standard deviation, range.. Descriptive analysis uses key
-
-indicators to demonstrate what has already happened in the past and give a <snapshot= of the
-
-past. Fitz-enz and Mattox explain that descriptive analysis in HR analytics <reveal and describe
-
-relationships and current and historical data patterns=. Besides the above statistical method for
-
-scorecard, reporting, and dashboard, there are many mining techniques to leverage and find
-
-patterns using clustering, segmentation..
+11

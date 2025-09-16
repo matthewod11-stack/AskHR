@@ -1,15 +1,17 @@
-# coaching in both, employees development, and organizational performance. Thus, we
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 11005ecf59dafb92e5d24a56259f24d82a216af6
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# Abstract
 
-extend Joo’s (2005) conceptual model by adding social exchange theory and the
+Purpose: The expansion of coaching in firms reflects its potential use as a tool to
 
-resource-based view, so as to to develop a model that allow us to investigate coaching.
+improve the development of human capital and of the firm itself. Nevertheless, research
 
-Design/methodology/approach: We test our model on a sample of 498 Spanish
+into the effects of coaching is lagging some way behind practice and there is a need to
 
-firms. The hypotheses were analyzed using structural equations modeling.
+establish a theoretical framework capable of explaining how the coaching process
 
-Findings: Our results confirm that coaching has an influence on both individual
-
-performance and organizational performance indicators. Besides, social exchange
-
-theory and the resource-based view, are a proper frameworks so as to study the effects
+proceeds and its outcomes. The goal of this research is to analyze the effects of

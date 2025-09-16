@@ -1,7 +1,7 @@
-# Time Management
-
-How to Find the Time to Connect with Colleagues When You’re Very, Very Busy
-
-Strategies for overscheduled, under-connected employees. by Elizabeth Grace Saunders
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07P3X-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 445ca5fbc340727b9d9ec26a1bde312d18cfeb8e
+title: H07P3X-PDF-ENG
+---
+# Digital Article

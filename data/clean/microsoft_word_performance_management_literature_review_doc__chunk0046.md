@@ -1,13 +1,15 @@
-# (cid:34)(cid:37) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:2)(cid:6)(cid:2)(cid:8)(cid:13)(cid:35)(cid:10)(cid:14)(cid:15)(cid:13)(cid:2)(cid:3)(cid:7)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)(cid:17)(cid:2)(cid:18)(cid:15)(cid:2)(cid:19)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: e3cb2bca8fb31581dd3850815f1aaafe23a74c9a
+title: microsoft_word_performance_management_literature_review_doc
+---
+# outcomes.
 
-(cid:50) (cid:30)(cid:7)(cid:11)(cid:9)(cid:10)(cid:11)(cid:13)(cid:31)(cid:2)(cid:28)(cid:7)(cid:8)(cid:32)(cid:31)(cid:2)(cid:31)(cid:33)(cid:7)(cid:13)(cid:7)(cid:2)(cid:4)(cid:8)(cid:31)(cid:2)(cid:18)(cid:8)(cid:22)(cid:7)(cid:24)(cid:31)(cid:11)(cid:18)(cid:8)
+(cid:1) Women in more senior positions tend to get poorer performance outcomes.
 
-The CIPD survey (2005) of performance management found that one in three respondents, 31 per cent, reported that they operated a link between the appraisal process and pay progression. There are three main ways this link is made: assessing performance inputs (usually competencies, but sometimes skills); assessing performance against objectives (ie outputs); or a combination of the two. While competencies have become a foundation for many HR processes in virtually all large employers, their use for pay determination has been limited and more controversial. O’Neal (1993/1994) describes competency-related pay as ‘the way tomorrow’s organisations will pay’, supporting a shift from paying for the ’what’ to rewarding the ‘how’. But Sparrow (1996) feels that ‘pay determination requires a precision that could stretch the theory of competencies to breaking point’ and damage the development objectives in their use.
+(cid:1) People with disabilities tend to get poorer performance outcomes.
 
-Several researchers have also investigated whether the pay link will always reduce the quality of debate and agree that this will not necessarily happen. Prince and Lawler (1986) found that salary discussion does not affect the employee’s satisfaction with the appraisal process one way or the other but the Strebler et al (2001) study on the appraisal dialogue found an increasing disillusionment with the link to pay.
+(cid:1) Senior staff tend to get better performance outcomes (IES, 2011).
 
-Ducharme et al. (2005) in a large-scale Canadian workforce survey showed that performance feedback (not linked to pay) was a more important influence on pay satisfaction than performance related pay unaccompanied by feedback.
-
-(cid:50)(cid:37)(cid:27) (cid:26)(cid:10)(cid:13)(cid:14)(cid:7)(cid:4)(cid:7)(cid:2)(cid:28)(cid:16)(cid:54)(cid:11)(cid:7)(cid:15)(cid:31)(cid:4)(cid:7)(cid:18)(cid:8)(cid:14)(cid:31)(cid:16)(cid:8)
-
-The CIPD’s reward management survey (CIPD, 2008) finds that fewer than one in five employers link pay progression directly to competencies, although half of those which link performance and pay include considerations of skills and competence, as well as other factors such as affordability and results achieved. Brown’s (1998) review of links between competencies and pay found that two
+Organisations need to think carefully about how they manage and measure performance as the implications can be serious for the real performance of an organisation as well as for the people employed within it.

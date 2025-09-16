@@ -1,5 +1,7 @@
-# Columbia
-
-25
-
-S. J. Beck (1932), John E. Bell (1942), Augusta Bronner (1914), S. I. Franz (1899), Leta S. Hollingworth (1917), Anne Roe (1933), Carl R. Rogers (1931), David Wechsler (1925), Joseph Zubin (1932).
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8f8b27d973f8fb48a31f419194fd76e53c4c7b58
+title: untitled
+---
+# Well-Known Examples

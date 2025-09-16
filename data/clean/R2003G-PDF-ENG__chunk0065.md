@@ -1,29 +1,23 @@
-# travel with them.)
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e91ce9ae5bb5a65ab0212941a3950f409f326e8b
+title: R2003G-PDF-ENG
+---
+## HBR / Magazine Article / The Case for a Chief of Staff
 
-A good CoS knows which relationships are most important to the leader’s agenda.
+The tasks done at levels one and two are not new; what is new is that
 
-Another distinguishing factor is where each job is likely to lead. Susan’s
+the people doing them are increasingly being given the title chief of
 
-next step could be a managerial position in either ﬁnancial planning
+staﬀ. The level three role is a relatively recent development in business.
 
-or the beneﬁts department. Greg will probably move to a district
+Carol’s work is distinguished from Susan’s and Greg’s by its depth and
 
-manager’s job for ﬁeld experience and then go on to head up strategy
+because she works on the company’s top priorities, at its strategic core.
 
-or business development. Carol’s career path could move through senior
+Another diﬀerence: Carol spends two or three hours a week one-on-one
 
-marketing or operations positions and might eventually lead to chief operating oﬃcer.
+with the CEO and often travels with her. (Greg and Susan, in contrast,
 
-Whether a CEO requires a level one, two, or three CoS depends on a
-
-number of things. If the leader enjoys a stable environment, needs help
-
-mostly with time management and information ﬂows, and perhaps has
-
-an experienced EA who is ready to handle more responsibility, level
-
-one may be the right choice. A new-to-the-organization CEO who is
-
-facing more-complex challenges—such as implementing a new strategy
-
-or a cultural transformation while simultaneously driving short-term
+may meet with their CEOs for just two or three hours a month and don’t

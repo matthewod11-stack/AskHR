@@ -1,13 +1,7 @@
-# resilience.
-
-But this isn’t about setting your employees up for failure. To eﬀectively
-
-utilize productive failure methods, you’ll need to organize a balanced
-
-portfolio of tasks with built-in roadblocks. After employees have
-
-completed the carefully designed tasks, you will need to hold a feedback
-
-and debrief session to talk through the learnings.
-
-So, where do you begin?
+---
+source_path: H08GLN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd5d6975324bdec42b79cee89b52f4624a88bd65
+title: H08GLN-PDF-ENG
+---
+## employee learning and growth, foster innovation, and enhance team

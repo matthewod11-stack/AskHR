@@ -1,31 +1,35 @@
-## educational tip cards and sunscreen discount coupons.
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 759978d530cbe9d28a64d9eabf1122a93ffd3ffc
+title: H08C0J-PDF-ENG
+---
+# risk.
 
-Creating partnerships.
+But many of the pilot programs that have demonstrated long-term,
 
-When it comes to protecting the health of their employees from the
+sustainable ROI related to climate change and health are from the
 
-risks posed by climate change, companies don’t have to go it alone.
+public sector, and they showcase important learnings for corporate
 
-Teaming up with experts from hospitals or public health organizations
+players. Financial beneﬁts can be seen, for example, in the Texas Heat
 
-can provide the specialized knowledge and guidance needed to develop
+Stress Awareness Program, which reduced the odds of heat-related
 
-eﬀective, long-term strategies. These collaborations help companies
+illnesses in municipal workers by 91% and decreased the severity
 
-tackle the nitty-gritty details of their plans, from ﬁguring out the
+of heat-related illnesses, cutting the median cost for related worker-
 
-most-eﬀective approaches and estimating costs over multiple years, to
+compensation claims in half. And Colorado public-sector-employer data
 
-assessing what’s realistic and how to make the programs stick. Plus,
+showed that the expanded adoption of sun-protection actions in 98 local
 
-they send a powerful message to workers and the wider community that
+government organizations rang in at a “reasonable per-employee cost”
 
-a company is prioritizing people’s well-being and taking meaningful
+to address ultraviolet radiation, comparable to other standard worksite
 
-action to address the challenges ahead.
+health interventions. These actions included management training
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+around sun-safety practices, a tool kit for writing worksite policies and
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+conducting audits, and materials to distribute to employees, including

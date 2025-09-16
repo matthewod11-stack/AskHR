@@ -1,11 +1,11 @@
-## Job Adaptability Inventory (JAI) A job analysis
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 984be932b057d99177cb69c2ef0baaafb73fe359
+title: industrial_organizational_psychology_an_applied_approach
+---
+# measure the same construct.
 
-method that taps the extent to which a job involves eight types of adaptability.
+Item stability The extent to which responses to the
 
-Job analysis The process of identifying how a job is performed, the conditions under which it is performed, and the personal requirements it takes to perform the job.
-
-Job analysis interview Obtaining information about a
-
-job by talking to a person performing it.
-
-Job analyst The person conducting the job analysis. Job characteristics theory The theory proposed by Hackman and Oldham that suggests that certain characteristics of a job will make the job more or less satisfying, depending on the particular needs of the worker.
+same test items are consistent.

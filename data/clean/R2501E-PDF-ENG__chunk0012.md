@@ -1,17 +1,19 @@
-# quarter century.”
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dee977d8f93cec0f38baec08700bbae36c209aa9
+title: R2501E-PDF-ENG
+---
+## dean of the Rotman School of Management at the University of Toronto.
 
-We suggest that overwhelmed leaders follow a four-step process: The first two steps involve getting tasks off their calendars; the second two, putting tasks on.
+Rotman was hemorrhaging both cash and professors and was derisively
 
-As we will demonstrate, both of us combined making choices about
+referred to as the “Faculty of Mismanagement.” During his tenure he
 
-where to play and how to win with a relentless focus on the tasks that
+transformed Rotman from an underperforming and largely irrelevant
 
-beneﬁted from our comparative advantages. The concept of leading to
+business school to a global leader. In 2013 he was recognized by
 
-win shapes the advice we now give the many leaders we advise.
+Poets&Quants as Dean of the Year and described in the citation as “one
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of a handful of the most successful business school deans in the past

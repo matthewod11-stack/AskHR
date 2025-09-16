@@ -1,33 +1,29 @@
-## multi-generational immigrant dreams and sacriﬁces.
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da0057a3a15a8b2a27a4bbe7f5d1fcf3ea242ac9
+title: H088ND-PDF-ENG
+---
+# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
 
-These racial inequities stem in part from a lack of awareness about
+and securing entry-level positions. However, when they should be
 
-cultural diﬀerences. In the case of Asians, cultural diﬀerences are often
+leveraging their education and hard work to ascend in their careers,
 
-misunderstood, leading to a systemic waste of diverse talent.
+their prospects often take a sharp and unexpected decline.
 
-Asians are frequently stereotyped as excellent workers, but poor
+Although Asians make up around 13% of the U.S. professional workforce, they hold only 1.5% of Fortune 500 corporate oﬃcer roles.
 
-leaders. In truth, Asians make excellent leaders. For example, a study
+This disparity is even more pronounced for Asian women, who make up
 
-encompassing 1,000 startups that achieved unicorn status — each
+less than 1% of promotions into the C-suite. Additionally, more than half
 
-valued at over $1 billion — over the past decade revealed that one-third
+of Fortune 1000 company Boards have no Asian directors.
 
-of those founded in the United States had an Asian founder.
+For many, being “stuck” somewhere in the middle of the career
 
-Furthermore, a Goldman Sachs study of 5,000 CEOs, evaluating
+ladder is a profound source of disappointment, frustration, and
 
-CEO eﬀectiveness, indicated that Asian CEOs are typically appointed
+even shame. This challenge is particularly poignant for those whose
 
-during corporate crisis. Despite these challenging circumstances, the
-
-median Asian CEO elevates their company from underperforming to
-
-outperforming their sector by nearly 50%. Goldman Sachs concludes
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+professional achievements symbolize the culmination of their family’s

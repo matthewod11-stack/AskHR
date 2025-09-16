@@ -1,25 +1,21 @@
-# workforce perceives as safe.
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b26d50192281de75dbb259b736520a4a0caedfb
+title: R2503K-PDF-ENG
+---
+## HBR / Magazine Article / Leading Global Teams Effectively
 
-When leaders in other organizations attempt to replicate Google’s
+psychological safety had lower turnover rates, implemented diverse
 
-success applying psychological safety, many end up with teams whose
+ideas more eﬀectively, and generated more revenue. However, the teams
 
-members, instead of embracing a culture of rigorous debate, are timid
+included in Google’s study often lacked signiﬁcant diversity—members
 
-and afraid of oﬀending one another. They default to the common
+were mostly white or South Asian men steeped in Silicon Valley’s
 
-knowledge eﬀect, in which team discussions revolve around familiar
+culture. On these teams, “psychologically safe” meant that people felt
 
-ideas that everyone already knows, and individuals avoid sharing
+comfortable openly disagreeing with and debating one another, but
 
-anything that might be disagreeable and lead to uncomfortable debate
-
-or ﬁnger-pointing. The research on this backﬁre risk is now extensive.
-
-Several studies, including one led by Jeﬀ Dyer at Brigham Young
-
-University, have shown that many global teams have become places
-
-where safety, inclusion, and belonging are emphasized at the expense of
-
-intellectual honesty and the conﬁdence to challenge the status quo—the
+that kind of open conﬂict is incongruent with what most of the global

@@ -1,5 +1,7 @@
-# on
-
-REFERENCES Armstrong, M &Murlis, H (1998), Reward Management, 4th Edition, Kogan Page London.
-
-Armstrong, M & Baron, A (1995), The Job Evaluation Handbook, 7th Edition, London Press Publishers.
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 95b35414b610af2fa27957d3a6d1e510f9c94548
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# progressive

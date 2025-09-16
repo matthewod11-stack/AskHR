@@ -1,7 +1,7 @@
-## processes, learning, and attrition. J. Appl. Psychol. 95:132–44
-
-Sitzmann T, Ely K. 2011. A meta-analysis of self-regulated learning in work-related training and educational
-
-attainment: what we know and where we need to go. Psychol. Bull. 137:421–42
-
-www.annualreviews.org (cid:1) Learning in Today’s Workplace
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: d4f9ac40ff9659fd8df95f8f902ac1117b321a5b
+title: arop1noe_245_275
+---
+# SitzmannT,ElyK.2010.Sometimesyouneedareminder:theeffectsofpromptingself-regulationonregulatory

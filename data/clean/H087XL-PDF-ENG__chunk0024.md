@@ -1,5 +1,7 @@
-## management, sales and marketing, and human resources management.
-
-The ﬁrst step to reducing burnout from cross-silo collaboration is to
-
-formally recognize their role in bridging diﬀerent contacts and teams in
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4da47afd5833ce81d3ecc818e4cf0852d82e6c17
+title: H087XL-PDF-ENG
+---
+## engage in cross-silo collaboration more frequently, for example, project

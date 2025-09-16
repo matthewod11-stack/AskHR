@@ -1,3 +1,7 @@
-# underpinning process
-
-Ratings scales: Likert and behaviourally anchored scales combined with qualitative comments Performance appraisal often linked to pay, merit bonuses, promotions, task assignment, transfers, training and development, etc. Limited ownership of process; focus on evaluation of employee; acceptance of manager's decision; authoritarian top-down in orientation
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: d136bbb1881bb9927d290301fe617b15c5eac296
+title: journal_of_european_industrial_training
+---
+## Linkages with other HR decisions Philosophy

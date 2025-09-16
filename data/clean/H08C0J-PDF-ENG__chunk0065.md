@@ -1,41 +1,31 @@
-# subsequent action and engagement.
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e24e9d918804bf81fe0780249233986999c6396
+title: H08C0J-PDF-ENG
+---
+## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
 
-To be sure, employee education on climate and health risks will need
+Instead, executives should start by focusing on how the company is
 
-to involve more than just senior leadership. HR will play a major
+taking action to protect all employees. When Pichai, Google’s CEO,
 
-role, driving engagement through multiple channels such as written
+engaged and advised employees as wildﬁres blazed across California,
 
-materials, live webinars, and events. For example, one company I
+his communication emphasized action-driven eﬀorts to enhance safety
 
-worked with held a “Connecting Health, Environment, and Well-Being”
+and well-being via the GSRS I described earlier in this article, and he
 
-series. What’s more, climate health and safety should be integrated into
+made it personal and relatable by sharing anecdotes: “Like many Bay
 
-onboarding processes to ensure all employees are informed from the
+Area Googlers, the ﬁrst thing I noticed when I stepped outside today was
 
-start. This could include education and access to tools around climate
+the smell of smoke from nearby ﬁres.” He also oﬀered compassionate
 
-change and health as early as an employee’s ﬁrst week on the job, just as
+acknowledgment, saying, “Fires burning across California and Colorado
 
-companies embed health and wellness into onboarding processes with
+have already prompted thousands to evacuate their homes and our
 
-webinars and connections to beneﬁts portals and security apps.
+hearts go out to the many Googlers aﬀected.” This real-time, authentic
 
-Leaders should also be transparent when communicating with external
-
-stakeholders about what companies are doing to protect employee
-
-health. A logical venue for this communication is either a company’s
-
-sustainability report or even their 10-K shareholder letter. However,
-
-companies don’t currently do this in a standard way; when my Global
-
-Corporate Advisory team at Cleveland Clinic looked at the sustainability
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+style of communication is crucial for building a trusted platform for

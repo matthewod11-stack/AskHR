@@ -1,7 +1,15 @@
-# Part IV – Employee Development Plan
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: bd89691d94c92781da21a48676f4e3cb90ae5bfd
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part III – Employee DevelopmentPosition Identification Information
 
-- 30. Professional development goals:
+- 26. Position Number:
 
-- 31. Steps to be taken by the supervisor to assist employee to enhance job performance and in furthering professional development:
+- 27. Department:
 
-- 32. Steps to be taken by the employee toward enhancing job performance and in furthering professional development:
+- 28. Employee Name:
+
+- 29. Social Security or Employee ID Number.

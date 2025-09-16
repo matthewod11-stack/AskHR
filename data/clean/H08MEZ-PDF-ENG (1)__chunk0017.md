@@ -1,11 +1,13 @@
-## states, however. For example, the strictest of salary history bans, such
+---
+source_path: H08MEZ-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 7ae88a3a647138b4ea71b98f62914232f58b1406
+title: H08MEZ-PDF-ENG (1)
+---
+# compliance.
 
-as in California, prohibit employers both from seeking compensation
+When it comes to pay transparency laws, state policies typically fall into
 
-history and from using any information they already have about an
+two main categories: salary history bans and requirements to include
 
-individual’s prior compensation when making employment decisions.
-
-Emerging rules on artiﬁcial intelligence (AI) are following a similar
-
-path, with states stepping in to ﬁll the void left by federal inaction. In
+pay ranges in job postings. Speciﬁc requirements can vary widely across

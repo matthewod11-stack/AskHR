@@ -1,15 +1,21 @@
-## Take, and share, the Paternity Leave Pledge
+---
+source_path: H04UQM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55c7c1e9b69710916f78e5a62abfd9ed9b6e4f41
+title: H04UQM-PDF-ENG
+---
+# HBR / Digital Article / To Make the Case for Paternity Leave, Dads Will Have to Work T…
 
-Recently, Dove Men+Care and I announced a new effort to make paternity
+rights. I ﬁled a charge with the Equal Employment Opportunity
 
-leave a national norm. The Pledge for Paternity Leave is an invitation to
+Commission. Many people didn’t know what that is, let alone the fact that
 
-everyone to take action. New and expecting dads can pledge to take their
+an EEOC charge gives a worker certain protections. After my case was
 
-full leave — to stand up against the stigmas, exert their rights, and demand
+ﬁled, the EEOC also sent out guidance making clear to employers that they
 
-that their workplaces treat them fairly. Allies can pledge to spread the
+should “carefully distinguish” medical recovery leave for women after a
 
-word about positive impacts of paternity leave and to call on officials to
+birth and caregiving leave, which must be gender neutral. Steadily, more
 
-endorse parental leave. And business leaders can pledge to enact paternity
+men have been taking legal action.

@@ -1,13 +1,7 @@
-# The Research
-
-In four studies involving more than 3,500 participants, we explored
-
-what happens when humans and gen AI collaborate on common
-
-work tasks. Participants completed real-world professional tasks, such
-
-as writing Facebook posts, brainstorming ideas, and drafting emails,
-
-with or without gen AI. We then assessed both task performance
-
-and participants’ psychological experiences, including their sense of
+---
+source_path: H08QEO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d388076a4e32b9cd0823107de5f5857b08a0441
+title: H08QEO-PDF-ENG
+---
+# other responsibilities.

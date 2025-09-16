@@ -1,11 +1,7 @@
-## Take the Open Sustainability Technology Lab at Michigan
-
-Technological University, a multigenerational team that developed the
-
-ﬁrst low-cost open-source metal 3D printer. Former director Joshua
-
-Pearce credits the team’s success to members’ willingness to learn
-
-from those of other generations. To develop their new product, they
-
-needed the technical skills of Gen X faculty, the software wizardry of
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc7305c3b8025ca0710c7b2de236f2bb8cda5522
+title: H06WA9-PDF-ENG
+---
+## HBR / The Big Idea / Harnessing the Power of Age Diversity

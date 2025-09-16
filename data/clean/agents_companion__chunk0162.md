@@ -1,23 +1,17 @@
-# Better Search, Better RAG
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: e041cc6bc00543aa93d0c7b5750cf4efdacd0347
+title: agents_companion
+---
+## Figure 9: A diagram of Agentic RAG from Vectorize.io.25
 
-Almost all RAG approaches require a search engine to index and retrieve relevant data. The
+Agentic RAG is particularly valuable in complex domains where information is constantly
 
-introduction of agents allows for refinement of query, filtering, ranking, and the final answer.
+evolving, such as healthcare, finance, and legal research. For example, in healthcare, agentic
 
-Agentic RAG agents are executing several searches to retrieve information.
+RAG can help navigate complicated medical databases, research papers, and patient
 
-For developers who are trying to optimize existing RAG implementations, it is usually most
+records, providing doctors with comprehensive and accurate information.
 
-valuable to improve search results (measured in recall) prior to introducing agents. Some of
-
-the main techniques to improve search performance are:
-
-- Parse source documents and chunk them: Vertex AI Layout Parser can handle complex
-
-document layouts, embedded tables, and embedded images like charts, and uses a
-
-semantic chunker to keep chunks on topic with a hierarchy of headings.
-
-- Add metadata to your chunks: synonyms, keywords, authors, dates, tags and categories
-
-allow your searches to boost, bury, and filter; these allow your users or your agents more
+35

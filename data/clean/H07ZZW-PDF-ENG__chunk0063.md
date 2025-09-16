@@ -1,15 +1,13 @@
-## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44eb083f4fc47d3d49c0723b38b48516b30b8f72
+title: H07ZZW-PDF-ENG
+---
+# fewer, more-critical issues.
 
-Sam Hartsock, a cofounder of qb. consulting, has worked to involve
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-employees in sustainability strategy at numerous companies, including
+11
 
-Ben & Jerry’s and Bumble. “We always advise our clients to think about
-
-their employee engagement [around ESG] holistically,” she says. “If
-
-[they] only speak to senior leadership, the result is an echo chamber
-
-that leaves out a whole section of key stakeholders. This results in a
-
-skewed image of the business, presents signiﬁcant risks, and produces
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

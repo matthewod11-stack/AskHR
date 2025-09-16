@@ -1,5 +1,7 @@
-# Illustrations by ANUJ SHRESTHA
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
-
-C O P Y R G H T © 2 0 2 2 H A R V A R D B U S I N E S S
+---
+source_path: R2203M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7344b4765f5d60d3adfc87c8d10f5f300d210ff
+title: R2203M-PDF-ENG
+---
+# May–June 2022

@@ -1,21 +1,19 @@
-# Maintain and Refine
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0797d8dde9a646fdf8a582b87213fb22d00eb4ef
+title: R2504A-PDF-ENG
+---
+# there.
 
-We are just as systematic about maintaining and reﬁning our existing
+This staged approach not only makes the work more manageable for our
 
-products and services. To that end, we now have around 50 product
+teams, it also helps us to avoid overwhelming our customers. Adoption
 
-teams across the company, each backed by dedicated product owners, engineers, UX experts, data analysts, risk oﬃcers, customer service
+rates for simple oﬀerings are much better than for complex ones. We
 
-reps, and more, who are directly responsible for each of our oﬀerings.
+also learn how people use the ﬁrst feature, which informs and improves
 
-They’re expected to deliver at least one high-quality add-on innovation
+the rollout of the rest. Within a year, we have the originally envisioned
 
-per quarter, and their collective performance is measured by the Net
-
-Promoter Score (NPS) users give their product or service.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+product, but it’s been co-created with the customer.

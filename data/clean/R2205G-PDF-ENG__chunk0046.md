@@ -1,15 +1,17 @@
-# Childcare referral services
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d14a92e10b7abad989e5a1a196ec4441f674c546
+title: R2205G-PDF-ENG
+---
+# 12 weeks of parental leave
 
-4.8
+- 8.9
 
-9.7
+8.5
 
-6.2
+5.2
 
-5.0
+6.8
 
-6.7
-
-7.8
-
-7.8
+12.8

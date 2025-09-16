@@ -1,9 +1,13 @@
-## competency, our harshness or leniency as raters, and our own inherent
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 10e1889aa8adf4f18709c0a6897ccfd0ee6ff788
+title: The Feedback Fallacy
+---
+## heads a stable deﬁnition of an abstract quality, such as business acumen
 
-and unconscious biases. This phenomenon is called the idiosyncratic
+or assertiveness, and then accurately evaluate someone else on it. Our
 
-rater effect, and it’s large (more than half of your rating of someone
+evaluations are deeply colored by our own understanding of what we’re
 
-else reﬂects your characteristics, not hers) and resilient (no training can
-
-lessen it). In other words, the research shows that feedback is more
+rating others on, our own sense of what good looks like for a particular

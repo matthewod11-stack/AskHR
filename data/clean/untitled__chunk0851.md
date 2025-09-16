@@ -1,5 +1,15 @@
-# Intelligence
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: de4570f6a8b3977405be6b38b6bf50697db82597
+title: untitled
+---
+# Evaluation
 
-more or less intelligent within a given cultural setting, but again, the biology of the brain will not settle the question of what behavior is considered intelligent within a given culture or why it is considered to be so.
+The biological approach has provided unique insights into the nature of intelligence. Its greatest advantage is its recog- nition that, at some level, the brain is the seat of intelligence. In modern times, and to a lesser extent in earlier times, it has been possible to pinpoint areas of the brain responsible for various functions. The approach is now probably among the most productive in terms of the sheer amount of research being generated.
 
-Another weakness of the approach, or at least of its use, has been invalid inferences. Suppose one ﬁnds that a certain evoked potential is correlated with a certain cognitive re- sponse. All one really knows is that there is a correlation. The potential could cause the response, the response could cause the potential, or both could be based upon some higher-order factor. Yet, reports based on the biological approach often seem to suggest that the biological response is somehow causal (e.g., Hendrickson & Hendrickson, 1980). Useful though the biological approach may be, it always will need to be supplemented by other approaches.
+The greatest weakness of the approach is not so much a problem of the approach as in its interpretation. Reductionists would like to reduce all understanding of intelligence to un- derstanding of brain function, but it just will not work. If we want to understand how to improve the school learning of a normal child through better teaching, we are not going to ﬁnd an answer in the foreseeable future through the study of the brain. Culture affects what kinds of behavior are viewed as
+
+149
+
+150

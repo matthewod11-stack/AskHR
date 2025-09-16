@@ -1,11 +1,23 @@
-# one-dimensional, task-oriented level.
+---
+source_path: H07P3X-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd635d62c47b679b91504b8e80eb5cf89dfd3ecc
+title: H07P3X-PDF-ENG
+---
+# diﬀerence.
 
-If remembering details about people’s lives doesn’t come naturally
+You can use the same strategy for one-on-one meetings with colleagues
 
-to you, make a private note in your calendar with memory cues,
+who you regularly work with on projects. Depending on the length of
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+the meeting and how much you need to cover, you may not have time
 
-2
+to catch up each time. But if every few meetings you use a few minutes
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+at the beginning or end to talk about more than the projects at hand,
+
+you can strengthen those ties. This could include bonding over your
+
+excitement about a particular sports team, talking about your families,
+
+or discussing anything else that gives you space to connect beyond a

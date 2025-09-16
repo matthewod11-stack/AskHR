@@ -1,7 +1,19 @@
-# these behaviors.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a64aee54b1778cc11250b0e0d6468f4559aab08
+title: H07QP9-PDF-ENG
+---
+# important.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+We also try to help leaders build self-awareness about whether
 
-5
+they’re modeling our leadership behaviors. As part of several of our
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+executive development programs, leaders receive feedback from their
+
+teams and/or manager on the extent to which they’re practicing our
+
+Leadership Playbook. Leaders then create development goals based
+
+on this input to ensure they’re consistently reinforcing and practicing

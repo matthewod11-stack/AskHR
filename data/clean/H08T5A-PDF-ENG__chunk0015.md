@@ -1,7 +1,15 @@
-## become apparent. As a male partner in a law ﬁrm notes:
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55cbcf205addab776b69d22697a73d6589c8d088
+title: H08T5A-PDF-ENG
+---
+## The interplay between the positive reinforcement professionals
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+experience when synchronized with intense work patterns and their
 
-3
+adverse reactions when they’re out of sync exerts a strong psychological
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and embodied grip on individuals. This makes it challenging for them
+
+to disengage from the rhythms of work, even when the personal costs

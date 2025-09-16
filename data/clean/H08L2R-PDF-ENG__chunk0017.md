@@ -1,25 +1,21 @@
-# steps of the human–AI conversation.
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8242637e4ba0887b3958b8ba73fba38d1c01e9bf
+title: H08L2R-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Managers Think Through Problems
 
-Executives in many roles have spoken about using gen AI as a co-
+What the manager can do in the dialogue What the AI can do in the dialogue
 
-thinker. Masayoshi Son of Softbank has said, “I am chatting with
+- Validate
 
-ChatGPT every day,” brainstorming new ideas and business strategies.
+- Give different perspectives
 
-Jeﬀ Maggioncalda of Coursera called gen AI “an incredible thought
+- Decide
 
-partner changing the way I do my job.”
+- Challenge opinions
 
-Outside the C-suite, we met managers at all levels who embrace co-
+The value of a co-thinking dialogue is not only in the output but also
 
-thinking. Valentin Marguet, a project manager at Ferrari, shared that
-
-“For technical problem-solving, generative AI can act as a co-thinking
-
-partner, serving as a methodological expert while guiding structured
-
-thought processes to systematically explore root causes.” We believe
-
-that these approaches can help any leader or manager and that the time
-
-to start is now.
+in the dialogue itself — in fact value is co-created through the various

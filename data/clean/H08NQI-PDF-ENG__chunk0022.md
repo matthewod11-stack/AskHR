@@ -1,13 +1,19 @@
-# Satya.
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab6f4694f0cb6276ce97d800e7a0a9f1bf181736
+title: H08NQI-PDF-ENG
+---
+## HBR / Digital Article / Leaders Can Move Fast and Fix Things
 
-This article was originally published online on March 7, 2025.
+and ensuring consumer safety. “Rework,” in many scenarios, will be
 
-Frances X. Frei is a professor at Harvard Business School. She works with companies on large-scale organizational transformation and is a coauthor of the books Move Fast and Fix Things and Unleashed.
+measured in lives irreparably harmed—or even lost.
 
-Anne Morriss is an entrepreneur, leadership coach, and founder of the Leadership Consortium, a leadership accelerator that helps emerging leaders thrive. She is the coauthor of Move Fast and Fix Things and Unleashed.
+Speed is not the problem here. Speed releases the energy in an
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+organization. It makes it clear to everyone that you take the problems
 
-7
+you’re solving seriously. Speed is an essential change leadership
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+variable in any successful change campaign. Just ask Alan, Indra, and

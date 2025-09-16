@@ -1,25 +1,21 @@
-## 4.3 Other suggestions to utilize People Analytics or Predictive Analytics
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 0a09ff00180f4195ba4d73170e51dd612a0c1154
+title: i
+---
+# 4.2 Predictive analytics criticism
 
-Leonardi and Contractor (2018) criticize the current People Analytics approach as <narrow=
+Predictive analytics can contribute to enhancing the additional business value for the company.
 
-while employing only attribute data, which describes only facts and state of the employee. They
+Conversely, Oehler and Falletta (2015) argue that these advancements are game changers when
 
-propose Relational Analytics, utilizing social network analytics, rather than data about Traits,
+78
 
-which are static characteristics, attributes, or qualities of an individual or an object, and State,
+creating new business tasks for the HR department. The authors argue instead of a human-to-
 
-which are typically transient and subject to variability over time.
+human relationship, HR when fueled with analytics emphasizes more on business value and
 
-The authors propose six signatures of Relational Analytics, which mines personal
+financial value, as well as profit creation. The authors also postulate discrimination against
 
-communication in various forms for analyzing and interpreting patterns, relationships, and
-
-structures within social networks. This Relational Analytics examines interaction(cid:32)Patterns by
-
-analyzing the frequency and nature of interactions between individuals or entities within and
-
-beyond the border of an organization. In addition, the analysis can investigate how a particular
-
-individual influences others and study the spread of opinions or behaviors within the network.
-
-This analytics may involve identifying key influencers or understanding the mechanisms
+certain candidates or employees which is caused by the analytics and algorithm.

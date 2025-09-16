@@ -1,7 +1,9 @@
-# Deliverables & Specifications
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: fecde7cf201dd12e416861483539093440424e13
+title: agents_companion
+---
+# Yes
 
-deliverables from the contractor's task, including a list of
-
-specifications clarifying what makes the deliverable
-
-acceptable as outcome and details on how to verify that
+Describe precisely the expected outcomes and

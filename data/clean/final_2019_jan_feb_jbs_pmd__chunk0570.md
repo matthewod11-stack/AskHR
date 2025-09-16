@@ -1,5 +1,9 @@
-# Bajaj Finance
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: f9caabc068be5fc3e76cf022e11578bbe5677fb9
+title: final_2019_jan_feb_jbs_pmd
+---
+# Year
 
-1.34 0.53 0.83 1.85 2.89 3.14 3.31 2.92 2.73 2.75 2.23 1.01 45.29
-
-Shriram Transport Finance Corporation Financial Services 1.75 2.13 2.44 3.23 3.88 3.51 3.03 2.56 2.08 1.73 2.63 0.75 28.52
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 Average S.D C.V(%)

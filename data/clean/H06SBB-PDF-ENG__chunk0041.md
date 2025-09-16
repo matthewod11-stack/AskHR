@@ -1,51 +1,51 @@
-# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d9873af9b6fcf54fdb71b49e8db7b8fce418668
+title: H06SBB-PDF-ENG
+---
+# together.
 
-But what about seeking uncommon ground, right? That is part of our
+ADI IGNATIUS: Another question that all companies have is the
 
-work as creative people, looking to find leaps, to imagine things to
+million-dollar question: how do you innovate? How do you perpetually
 
-happen in new ways. We actually want to dig for what’s not common,
+create a sort of perpetual innovation machine in your company? And
 
-what is uncommon across the group, so that we can find new answers
+this is a question from James in Sydney who asked about the role of
 
-in there and new ways to intersect those different perspectives and
+serendipity and randomness in innovation. I know as employers we talk
 
-different lived experiences.
+about it being good to be together physically because there are these
 
-I’m right there with James around serendipity. I wouldn’t then say that
+sparks, but does that really happen?
 
-means we should all require being in the office, but I will say, because
+SANDY SPEICHER: I think it does really help. Serendipity really does
 
-I’ve been in the office recently and had informal conversations with
+help because through some of those interactions, you might learn
 
-people, it’s sparked some pretty new ideas for me.
+something that you hadn’t known before, and it might help you connect
 
-ADI IGNATIUS: I’m going to change gears a little bit. This is a question
+a dot in your mind on a problem that you’re working on.
 
-from Gaurav from Houston: what have been some of your learnings
+Of course, that doesn’t mean that being in the office is the only way to
 
-from workplace design ideas that have failed?
+do that. I think the key for that is to be looking for inspiration, to be
 
-SANDY SPEICHER: Workplace design ideas that have failed? Well…
+asking different types of questions, to be seeking outside of what your
 
-ADI IGNATIUS: Must have been one, surely.
+current experiences and knowledge are in order to help expand your
 
-SANDY SPEICHER: There must be one. A lot of ideas that fail have to
+mind with inspiration, which is the thing that helps us get to new ideas.
 
-do with time. They’re a good idea at the time and then they become not.
+Recently, someone I work with was talking about this, that in meetings,
 
-They don’t work as well after you try them for too long. I’m thinking
+what we’re often looking for is to find common ground. What’s the
 
-about, for instance, some changes that we’ve had to make to a space
+pieces that we all agree on so that we can move forward?
 
-that we’re renovating, and renovating during the pandemic. We built
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-all these open environments so that everyone can be bouncing off of
+14
 
-each other, and then of course we had to rethink the space to have a
-
-bit more room so that we’re not all on top of each other given just the
-
-health dynamics. But of course then once we’re in the rooms, we need to
-
-think about the technology that gets embedded in it because of all of the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

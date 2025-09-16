@@ -1,43 +1,61 @@
-# plete Exercise . in your workbook.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c076f003bd09f1ebfbf49feeac16084ea84d8c0d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Meaning
 
-Amount of Information The amount of information contained in a message can affect the accuracy with which it is received. When a message contains more information than we can hold in memory, the information becomes leveled, sharpened, and assimilated. For example, suppose a friend told you the following message over the phone:
+I did not say Bill stole your car.
 
-John Atoms worked in Detroit for the automobile manufacturer General Floaters Corporation. He came to work on Tuesday morning wearing a brown shirt, plaid pants, white socks, and dark shoes. He leaned forward, barfed all over the floor, and then passed out. He was obviously intoxi- cated. He had worked for the company for  years, so they didn’t want to fire him, but they had to do something. The company decided to suspend him for a few days and place him on probation. They were especially sensitive to his problems because he was on his eighth marriage.
+Someone else said Bill stole your car.
 
-organizational communication
+I did not say Bill stole your car.
 
-423
+I deny I said Bill stole your car.
 
-424
+I did not say Bill stole your car.
 
-chapter 
+I implied that Bill stole your car.
 
-What would the story sound like if you passed it on to a friend? When you level some of the information, unimportant details are removed. For example, information about the color of the employee’s shirt and socks would probably not be passed along to the next person. When you sharpen the information, interesting and unusual information is kept. In the example here, the employee’s “barfing” and his eight marriages would probably be the story’s main focus as it is passed from you to your friend. When you assimilate the information, it is modified to fit your existing beliefs and knowledge. Most of us have never heard of the last name Atoms, but we probably have known someone named “Adams.” Likewise, “General Floaters” might be passed along as General Motors. You would probably use the word drunk rather than intoxicated.
+I did not say Bill stole your car.
 
-Reactions to Communication Overload With many jobs, communication overload can occur when an employee receives more communication than he can handle. When an employee is overloaded, she can adapt or adjust in one of several ways to reduce the stress: omission, error, queuing, escape, using a gatekeeper, or using multiple channels.
+Someone else stole your car.
 
-Omission. One way to manage communication overload is omission: a con- scious decision not to process certain types of information. For example, a busy supervisor may let the phone ring without answering it so that she can finish her paperwork. Although this technique can work if the overload is temporary, it will be ineffective if an employee misses an important commu- nication.
+I did not say Bill stole your car.
 
-Error. In the error type of response, the employee attempts to deal with every message she receives. But in so doing, each processed message includes reception error. The processing errors are not intentional but result from processing more than can be handled.
+He borrowed your car.
 
-Perhaps a good example of this would be a student who has two hours in which to study four chapters for a test. A student using the error method would attempt to read and memorize all four chapters in two hours. Obviously, her test score will probably indicate that even though she did all of her reading, much of it was not remembered or not remembered correctly.
+I did not say Bill stole your car.
 
-The probability of error occurring can be reduced in two ways. First, the message can be made redundant. That is, after communicating an important message over the telephone, it is a good idea to write a memo to the other person summarizing the major points of the conversation. Furthermore, after sending an important memo, it is wise to call its recipient to ensure that the memo was not only received but also read.
+Bill stole someone else’s car.
 
-Second, error can be reduced by having the recipient verify the message. Ask the person to repeat the message or to acknowledge that she has read and understood it. For example, after a customer has placed an order at the drive-thru window of a fast-food restaurant, the employee repeats the order to the customer to make sure she heard it correctly. (Of course, with the poor- quality intercoms used by such places, most people still cannot understand the employee.)
+I did not say Bill stole your car.
 
-Queuing. Another method of dealing with communication overload is queuing— placing the work into a queue, or waiting line. The order of the queue can be based on such variables as the message’s importance, timeliness, or sender. For example, a memo sent by the company president will probably be placed near or
+Bill stole something else of yours.
 
-at the beginning of the queue, as will an emergency phone message. On the other hand, a message to return the phone call of a salesperson most likely will go at the end of the queue.
+Artifacts A final element of nonverbal communication concerns the objects, or artifacts, that a person wears or with which she surrounds herself. A person who wears bright and colorful clothes is perceived differently from a person who wears conservative white or gray clothing. Similarly, the manager who places all of her awards on her office wall, the executive with a large and expensive chair, and the student who carries a briefcase rather than a book bag are all making nonverbal statements about themselves.
 
-With this method of handling communication overload, all of the work will usually get done. However, queues are effective only if the communication over- load is temporary. If the employee is constantly overloaded, she will never reach the messages at the end of the queue.
+Research on visitors’ perceptions of certain office characteristics has resulted in several interesting but not necessarily surprising findings. One line of research examined the perceptions of visitors to offices that used either open or closed desk arrangements. An open desk arrangement faces a desk against a wall so that a visitor can sit next to the person who sits behind the desk. A closed desk arrangement places a desk so that a visitor must sit across from the person behind the desk.
 
-Escape. If communication overload is prolonged, a common employee response is to escape, usually through absenteeism and ultimately through resignation. This response certainly is not beneficial to an organization, but it can be beneficial to an employee if it protects her mental and physical health by relieving stress.
+Visitors to offices that use open rather than closed desk arrangements perceive the offices to be more comfortable, and their occupants as friendlier and more trustworthy, open, interested, and extraverted (Campbell, ; McElroy, Morrow, & Wall, ; Widgery & Stackpole, ). Visitors rate people with messy offices as being active and busy, those with clean offices as being organized and intro- verted, and those with organized offices (lots of papers placed in stacks) as being active and achievement oriented (McElroy et al., ; Morrow & McElroy, ). Finally, visitors rate offices with plants and posters as more comfortable, inviting, and hospitable than offices without plants and posters (Campbell, ).
 
-An example of the escape response is often seen with students who withdraw from college courses. A student may enroll in six classes and realize after two months that she does not have enough time to do all of the reading and writ- ing required for six classes. Rather than choosing the error or omission strategy, either of which would result in lower grades, the student withdraws from one of her classes to reduce her overload.
+Recently, thinking about the placement of desks in an office has gone beyond the simple concept of visitor reactions. Office decorating experts (e.g., Too, ) using the concepts of feng shui—the Chinese art of placement and design—advise that, to properly use the energy of a room, desks:
 
-Use of a Gatekeeper. A response to communication overload used by many execu- tives is the use of a gatekeeper, a person who screens potential communication and allows only the most important to go through. Receptionists and secretaries are the most obvious examples of gatekeepers.
+7 7 7
 
-Use of Multiple Channels. The final coping response to communication overload is the use of multiple channels. With this strategy, an organization reduces the amount of communication going to one person by directing some of it to another. For example, in a small restaurant, all of the problems involving cus- tomers, employees, finances, and vendors are handled by the owner. But as the business grows, the owner may not be able to handle all of the communication and thus may hire others to deal with finances (a bookkeeper) and vendors (an assistant manager).
+should never be placed directly across from a doorway should always face away from a wall should never be placed in the center of the room
 
-Knowing and understanding this list of responses to communication overload is important. When communication overload occurs, employees will react in ways that reduce the increased stress. Some of these strategies (omission, error, escape) result in negative consequences for the organization. Thus, the organization must recognize when overload occurs and aggressively adopt an acceptable strategy to deal with it. To see how you react to communication over- load, complete Exercise . in your workbook.
+Research on office design is not only interesting, but also important. A super- visor with a messy office and a closed desk arrangement is sending the message that he does not want to be bothered. This may not be his intended message, but it is the one perceived by his subordinates. Thus, if this supervisor wants to be more open and improve communication with his employees, he might start by changing the appearance of his office.
+
+Clearly, people make judgments about others based on their office, and the next logical step is to determine whether people with different types of offices actually have different types of personalities. Limited research, in fact, does seem to show that the appearance of an office provides insight into the personality of the occupant.
+
+McElroy, Morrow, and Ackerman () looked at the personalities of faculty members who had open desk arrangements and those who had closed desk arrangements, and found that those with open desk arrangements were more extraverted and “people oriented” than their closed-desk counterparts. Further- more, faculty members who used open desk arrangements had lower external locus of control and scored higher on the Least-Preferred Coworker (LPC) Scale, which is discussed in Chapter .
+
+In another study, Zweigenhaft () compared desk placement using several variables and found that older, higher-status faculty members used closed desk arrangements more than did younger members. Even more interesting was the finding that faculty members who used closed desk arrangements were also eval- uated less favorably in the classroom. Thus, desk placement was able to partially predict the effectiveness of a faculty member, providing support for the idea that different types of people arrange their offices in different ways.
+
+In a study of personnel managers, Cochran, Kopitzke, and Miller () com- pared the office characteristics used by managers with their personalities. They found that dominant, achievement-oriented managers did not decorate their offices with anything other than standard furniture; more outgoing managers had photographs of their vacations to remind them of good times and a clock to let them know when it was quitting time; introverted managers had plants and paintings so that their office would remind them of home; and organized manag- ers had cartoons to show that even though they were neat and compulsive, they also had a sense of humor.
+
+The presence of windows is another factor that seems to affect the way an office is decorated. Heerwagen and Orians () examined the ways people decorated both windowed and windowless offices and found that occupants of windowless offices used twice as many decorative items such as posters, pictures, and paintings. Not surprisingly, the posters in windowless offices contained more landscapes and fewer cityscapes than did offices with windows.
+
+To help you apply your new knowledge of nonverbal communication, com-

@@ -1,33 +1,23 @@
-## public policy exception to the at-will doctrine (Aalberts et al., 1993).
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 995477b2d60bd6700d1a07783b351b24debffc6e
+title: california_state_university_northridge_1
+---
+# t'
 
-Case laws are filled with application on how each of the three theories has been applied.
+summoned for jury duty and serves, a..nd then is fired. Another case, an employee is
 
-Courts ruling have impacted what managers' can and cannot do in the hiring, firing and
+33
 
-disciplining employees. Furthermore, future company documentation may be affected
+terminated for refusing to have sexual intercourse with their supervisor. Next, an
 
-based on particular rulings, in any of the three theories stated. The breach of contract
+employee who is terminated for filling a worker's compensation claim can have a valid
 
-theory dealing with implied protection, requires a contract however, it may be expressed
+claim for wrongful discharge. Lastly, an employee who refuses to lie to customers
 
-or implied. A definition of implied contract theory is "inferred by law as a matter of
+regarding the possibility of reasons for being walked to another hotel is a public policy
 
-reason and justice from the parties acts or conduct, the circumstances surrounding the
+issue. Under the at-will employment doctrine an employee can be terminated in each
 
-transactions making it reasonable or even necessary assumption .... that a contract existed
-
-between them by tacit understanding" (Aalberts et al., 1993). The clause tacit
-
-understanding is a gray area for both the employer and employee. Cases exist when the
-
-employee has been employed for a reasonable period of time and given the opportunity to
-
-be promoted, which leads to the development of an expectation for continued
-
-employment. Consequently, the employment for the employee in question comes to a
-
-rather abru.pt end. Given the th~e frame, trJs calls h~to question the terir.Jnation of said
-
-employee, who continually developed with the company without error.
-
-34
+example listed above. Consequently, such terminations are not permissible under the

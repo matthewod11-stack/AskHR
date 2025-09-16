@@ -1,17 +1,23 @@
-# any workﬂow gaps after the launch.
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8968b69989605cc933f418a6be6de55330d8a51
+title: H08MHC-PDF-ENG
+---
+## The vast majority of organizations today attempt transformation by
 
-- Empower and expect staﬀ to leverage experience and judgment to
+focusing on eﬃciency, following what can be described as a “minimum
 
-overcome any ambiguity that arises in these transformed workﬂows.
+viable product” strategy. Business leaders taking this approach
 
-- Focus on creating standardized, uniform processes.
+prioritize speed at every turn, trying to implement transformed
 
-While a seemingly common-sense approach that works in many other
+workﬂows — and thereby the transformation itself — as quickly as
 
-contexts, we found that in the context of functional transformation,
+possible to begin extracting value sooner to keep up with the pace of
 
-the eﬃciency-focused approach has almost no impact on improving the
+change they are confronting.
 
-success of a transformation. We measured success as both achieving the
+We identiﬁed that organizations following this approach:
 
-intended transformation objectives and doing so with as little diﬃculty
+- Deploy transformed workﬂows quickly and iterate improvements to ﬁx

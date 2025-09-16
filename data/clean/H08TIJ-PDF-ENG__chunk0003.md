@@ -1,11 +1,13 @@
-# quarterly newsletter.
+---
+source_path: H08TIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67d6d66c85c2de22c7c6c4a6a1e0910da15b39d4
+title: H08TIJ-PDF-ENG
+---
+# HBR Staff Using AI
 
-Sven wasn’t quite sure what to do. He’d need to involve other
+Sven, a sales leader, received a call from a major customer who was
 
-departments to resolve the problems, but there was a lot of
+furious. Their order arrived late, the product was damaged, and to top
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+it oﬀ, their invoice didn’t reﬂect the volume discount promised in the

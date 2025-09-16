@@ -1,9 +1,15 @@
-## projects, risk management, and human resource management in the PA team.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 1867bfc4229031e0e1167df50aad333530a99d64
+title: i
+---
+# management.
 
-The methodology focuses on the processes and frameworks required to ensure the
+22
 
-consistency and adaptability of people analytics. The methodology gives guidance to choose
+According to the authors, Governance of PA refers to the <mechanisms, processes, and
 
-priorities with clear and transparent criteria. Methodology also agrees on how to develop
+procedures= that govern the operation of people analytics. It serves as the foundation for all
 
-strategies for directing the team.
+analytics activities regarding an effective structure and stewardship for data management and

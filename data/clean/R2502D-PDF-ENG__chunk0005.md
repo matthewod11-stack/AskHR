@@ -1,11 +1,29 @@
-# discoveries of other[s].”
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc452bd5d46ad3fde82ebf04558b28c1ea48f977
+title: R2502D-PDF-ENG
+---
+## HBR / Magazine Article / Precedents Thinking
 
-Innovation can be daunting. Creating something entirely new feels
+brightest corporate and startup minds rarely guess the correct answer.
 
-intimidating. But that feeling misses a vital truth: Most great
+When revealed, however, it seems obvious: Henry Ford.
 
-innovations are creative combinations of existing ideas. Examples
+Inspired by the slaughterhouse process, Ford invented the moving
 
-abound. Reed Hastings, a cofounder of Netﬂix, reinvented the movie
+assembly line. He adopted japanning to speed up production of the
 
-rental business by combining his local gym’s monthly membership
+Model T, leading to his famous policy of oﬀering “any color…as
+
+long as it’s black.” He introduced proﬁt-sharing to reward speedy
+
+assembly workers and help them aﬀord cars of their own. Mimicking
+
+Singer’s network of independent dealers, he avoided the expense of
+
+employing a widespread sales force. By combining those precedents,
+
+Ford transformed his struggling company into a market leader. As
+
+he later remarked, “I invented nothing new. I simply assembled the

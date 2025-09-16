@@ -1,23 +1,21 @@
-# opportunities, or ATO.
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d008e2388bc87b9b3e51e904a21a7ad842420e6
+title: H08AOU-PDF-ENG
+---
+## Improving Access to Career-Enhancing Work
 
-Again, the results were dramatic. Two departments participated in the
+Oﬃce housework is only one part of the puzzle. We also worked
 
-pilot. In department A, our baseline data showed 51% of men but only
+with the energy company to improve access to career-enhancing work
 
-38% of women were getting assigned core technical work before the
+for women. At this company, we helped identify a typology of high-
 
-pilot began. After the ATO workshop and use of the tasking tool, the
+proﬁle opportunities, which they used to build a tasking tool that
 
-disparity between men and women dropped sharply to 0, with 50% of
+allowed managers to track the allocation of both career-enhancing and
 
-both men and women doing the core technical work. In department B,
+non-promotable assignments over a six-month period. At the midway
 
-our baseline data show that 37% of men but only 30% of women were
-
-getting technical leadership opportunities. This disparity, too, basically
-
-disappeared: After the intervention 34% of men and 35% of women were
-
-being given technical leadership roles. In both cases, managers leveled
-
-the playing ﬁeld for women without taking away opportunities away
+point, we held a workshop for managers on ensuring fair access to

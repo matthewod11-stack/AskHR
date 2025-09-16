@@ -1,17 +1,15 @@
-## variation across organizations in the speciﬁcs of their roles and titles.
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33bf03826467c35fd68183bff0e36455558350a6
+title: H08DSC-PDF-ENG
+---
+# HBR / Digital Article / Why Companies Should Consolidate Tech Roles in the C-Suite
 
-These individuals are most likely to be known as chief information
+In this study, however, we discovered that some organizations are
 
-oﬃcers, but they typically have broad responsibility for data and
+recognizing the downside of C-level proliferation. To tackle the issue,
 
-technology functions. Many also have operational responsibilities
+they’ve begun to consolidate senior technology and data roles; we refer
 
-within the business. Leaders of specialty tech and data functions
-
-(data, analytics, AI, cybersecurity) usually report to them. Establishing
-
-SuperTech leadership roles will bring clarity and accountability to
-
-organizations’ digital transformation initiatives. We interviewed several
-
-such leaders for the study and describe some of their backgrounds and
+to them as “SuperTech” leaders, although it’s important to note there is

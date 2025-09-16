@@ -1,13 +1,23 @@
-## campaigns, focus on supervisors and colleagues in traditional
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c37cbcc2dc759a4a72cb7fa50d9ca1df41cb40c0
+title: H08NYS-PDF-ENG
+---
+## inﬂuence workers’ job opportunities, work assignments, and income.
 
-workplaces. However, applying these interventions to the usually
+As a result, even subtle biases in customer evaluations can lead
 
-anonymous customer is challenging because they are not employees
+to signiﬁcant inequalities for workers, particularly those from
 
-and are not easily trained or monitored.
+marginalized backgrounds. To mitigate these disparities, the design and
 
-From this research, we oﬀer three strategies for platforms to create more
+structure of these evaluation processes are crucial.
 
-eﬀective evaluation processes that can reduce bias and improve the
+Our research, recently published in Nature, demonstrates how
 
-platform’s ability to identify the quality of service.
+customer evaluation processes on online platforms can unintentionally
+
+amplify the eﬀects of subtle biases. Traditional approaches to
+
+mitigating bias, such as diversity training and bias awareness

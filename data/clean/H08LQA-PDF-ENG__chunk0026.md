@@ -1,15 +1,25 @@
-## signiﬁcant time to the company, not just the executive class, deserves
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd28c5de61db11199cc6a5e72efcf4bbf5e76f00
+title: H08LQA-PDF-ENG
+---
+## HBR / The Big Idea / When Employees Take Sabbaticals, Organizations Benefit
 
-time to recover and explore interests outside of work — and that they
+Eligibility. Many employers make the mistake of oﬀering sabbaticals
 
-don’t have to jump through hoops to do so.
+only to people at certain levels — usually management. Adopting
 
-Another way to expand eligibility is by oﬀering new hires a chunk
+a managers-only approach exacerbates organizational hierarchy,
 
-of paid time oﬀ before starting: a “pre-battical.” Typically, only the
+provokes resentment, and limits beneﬁts such as increased innovation
 
-wealthiest among us are able to take unpaid leave, and they often do
+and reduced burnout to a select few. Don’t fall into that trap — make
 
-so between jobs. However, tech hospitality company SevenRooms began
+your program more widely accessible. Some companies, such as Adobe
 
-oﬀering two weeks oﬀ with pay to new hires after it noticed higher rates
+and Autodesk, allow employees to bypass their managers — requesting
+
+permission for a sabbatical is as simple as checking a box in an HR tool.
+
+Practices like these send the message that everyone who has devoted

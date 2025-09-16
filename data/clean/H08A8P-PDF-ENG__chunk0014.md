@@ -1,9 +1,17 @@
-# contributing.
+---
+source_path: H08A8P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7bb9395859bb40273e29a4c21a324ae8b890b9ab
+title: H08A8P-PDF-ENG
+---
+# other concepts.”
 
-. . .
+You can also direct their enthusiasm in a way that beneﬁts both of
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+you by guiding them toward areas where you actually need assistance.
 
-4
+For example, “Your input could be really useful on the compliance
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+side. Could we focus there versus ideating on the strategy more?” This
+
+makes them feel valued and ensures you’re happy with how they’re

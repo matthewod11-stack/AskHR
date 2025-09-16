@@ -1,23 +1,25 @@
-## HBR / Magazine Article / The Middle Path to Innovation
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56e09ec30e6cf84088629dd3e74656bf6903b6f1
+title: R2404K-PDF-ENG
+---
+# Manashil.
 
-ﬁnancial support that Blumhouse lacked, oﬀering it a 10-year deal for 15
+As the industry transforms and a new structure emerges, adopting
 
-pictures a year, ﬁve at $5 million and the remainder at $3 million or less.
+the growth driver model could be the key to success. Consider the
 
-Blumhouse eﬀectively became an accelerator, creating innovative ﬁlms
+art-house horror movie producer Blumhouse Productions, which has
 
-for Universal to distribute and market. The directors who led the
+already applied a version of this approach. In 2014 it found a partner,
 
-accelerator were given complete creative control and worked under a
+Universal, to fund the production, distribution, and marketing of the
 
-prearranged budget. Its ﬁlms cost far less to make than the average
+ﬁlms it accepts into its portfolio. Universal provided the operational and
 
-motion picture. Innovating in the middle generated signiﬁcant wins:
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Blumhouse creates a dozen movies a year for $12 million or less each —and scores consistent global box-oﬃce hits like Get Out and The
+16
 
-Purge that have earned hundreds of millions of dollars. Its low-budget
-
-model has had success with the low-cost horror genre, but hits like
-
-BlacKkKlansman and Vengeance demonstrate its potential for broader
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

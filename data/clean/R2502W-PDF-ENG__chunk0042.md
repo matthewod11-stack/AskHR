@@ -1,3 +1,21 @@
-## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c568470a0d5d7188b7e7a441fddc5c40ecbdb09
+title: R2502W-PDF-ENG
+---
+## of data, the adoption of cloud computing, and the establishment of
 
-deployed and where it has already proved valuable for other companies.
+security and governance protocols. Digital transformation can be a
+
+long process; expecting to complete it before trying to realize any
+
+beneﬁts from AI is unrealistic. It’s best to begin with a small number
+
+of business processes, maybe even just one, in which AI can be easily
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+10
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

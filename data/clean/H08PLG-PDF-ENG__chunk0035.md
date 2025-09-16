@@ -1,7 +1,23 @@
-## reliability of AI-generated information, social and environmental
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15c40550e7f322955bfa6756bd6d7733036d4b5a
+title: H08PLG-PDF-ENG
+---
+# Usage Divide
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+AI adoption has been uneven. In the U.S., for example, people with more
 
-6
+education and higher income are more likely to trust and use AI tools,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and its use is concentrated geographically in a few “superstar” cities and
+
+emerging hubs. The growing distrust in AI suggests that this divide will
+
+likely grow. And while it isn’t quite clear how AI use will change jobs,
+
+it’s fair to assume that people who use it will be better positioned to
+
+navigate the coming change
+
+Distrust is driven primarily by concerns about authenticity, the

@@ -1,45 +1,23 @@
-## to leadership development programs, such as mentorship programs
+---
+source_path: H07A0F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a54b5c56cd3078ec4b5de88c1b01b39f7c45f757
+title: H07A0F-PDF-ENG
+---
+# HBR / Digital Article / Is Your Leadership Development Program Undermining Your DE…
 
-or leadership coaching. According to research, employees that have
+Sheila is a composite, drawn from the experience of the HR leaders
 
-access to these kinds of professional development opportunities have
+we speak to regularly — well-intentioned practitioners working hard to
 
-34% higher retention than those who do not. What’s more, a nationally
+support their workforce and improve diversity, equity, and inclusion
 
-representative study found that companies with mentoring programs
+across the organization, but not seeing the results they want. So what’s
 
-saw an 18% increase in Black women managers over ﬁve years.
+going on?
 
-But leadership development is only eﬀective if it’s implemented
+We argue that many organizations have the right programs, but
 
-equitably. This is where we see many organizations falling short,
+they’re being implemented the wrong way, sometimes exacerbating
 
-starting with the selection process.
-
-In a study of 200 people leaders, which included a survey and
-
-qualitative interviews, we found that while 79% said identifying high-
-
-potential leaders (often for development programs) was a high priority,
-
-only 16% have a formal process in place to do so. A staggering 85%
-
-of leaders told us they relied on informal manager feedback to make
-
-decisions about who should get a leadership development opportunity.
-
-Most HR professionals sense that this is a problem: 51% admitted that
-
-the way they currently select leaders gave some employees an unfair
-
-advantage. They are onto something. According to McKinsey’s 2021
-
-Women in the Workplace study, white men make up 35% of entry-level
-
-employees but 62% of the C-suite. The reverse pattern is true for women
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+problems they’re meant to ﬁx. This is especially clear when it comes

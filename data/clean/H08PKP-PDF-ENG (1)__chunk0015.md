@@ -1,13 +1,17 @@
-# to them.
+---
+source_path: H08PKP-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 42b14718776e9df516627464bf08ea93c6daf664
+title: H08PKP-PDF-ENG (1)
+---
+# capacity limits.
 
-Expose leadership to operational realities. Bringing senior leaders
+- 2. Show the cost of saying yes.
 
-into execution discussions forces them to confront the reality of
+Senior leaders often make decisions without fully grasping operational
 
-feasibility. You could suggest:
+constraints, resources, and risks, and can fall into planning bias,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+causing them to assume best-case scenarios and underestimate
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+challenges. Prioritization is easier when the cost of saying yes is visible

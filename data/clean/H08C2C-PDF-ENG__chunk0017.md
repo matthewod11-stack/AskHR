@@ -1,5 +1,17 @@
-# HBR / Digital Article / Kickstart Your New Hire’s Success by Connecting them to the R…
+---
+source_path: H08C2C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b18c8af4e5716ee11cbdfa0bd47b0be6f38ef9ec
+title: H08C2C-PDF-ENG
+---
+## information about the new sales-tracking software in a manual or online
 
-and which can be saved for later. Once the connection has been made,
+course, connect your new employee with an expert user, who knows
 
-your new employee is likely to feel more comfortable leveraging their
+the software and which aspects are most important to understand ﬁrst,
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

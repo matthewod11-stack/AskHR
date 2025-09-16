@@ -1,19 +1,9 @@
-## and UK retailers after their supplier—a large German toy company—
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 950aa97100f65cca19b2be4f9a7a771fe1906b43
+title: H08UMD-PDF-ENG
+---
+# HBR / Digital Article / Research Roundup: Humility at the Top, Motivating Your Staff, R…
 
-launched online shops in France and the United Kingdom. (The Spanish
-
-retailers were analyzed as a control group.) The researchers found that
-
-in the following months, the UK and French retailers reduced their
-
-orders by 19%, on average, and paid 21% higher wholesale prices. This
-
-suggests that they were no longer invested in their relationship with the
-
-supplier—that they’d stopped negotiating for better prices and stocking
-
-a wide range of items. The UK and French retailers also pivoted toward
-
-the supplier’s more popular items—indicating that they continued to
-
-stock what they knew would sell but no longer took risks on the rest of
+Researchers examined the ordering behavior of 2,625 French, Spanish,

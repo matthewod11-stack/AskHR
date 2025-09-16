@@ -1,27 +1,11 @@
-# so on.
+---
+source_path: H07N1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e676b039d3c9454e72b8fd29377b78ace2184e2c
+title: H07N1K-PDF-ENG
+---
+# HBR / Digital Article / Working Parents, It’s Time to Let Go of These Pandemic-Era Ha…
 
-Some of these hacks continue to serve us well. Maybe thousands
+to alternate shifts on the days daycare was closed, or you led oﬀ each
 
-of Zoom-call disclaimers later, you’ve gotten comfortable discussing
-
-family responsibilities with colleagues and feel more authentic on the
-
-job. Or maybe continuing to work remotely, at least part time, allows
-
-you to stay more involved in the kids’ school activities than you ever
-
-could have while commuting ﬁve days a week. And certain practical
-
-pandemic-era solutions (think: virtual parent-teacher conferences) are
-
-so working parent–friendly that we’d all do well to keep them.
-
-At the same time, many of our Covid-era routines and beliefs aren’t
-
-helping us anymore. In fact, some of these practical and mental moves,
-
-now deeply embedded in our muscle memory, are actually making it
-
-harder for us to do what we really want: to succeed in our careers, while
-
-being loving and present caregivers, and staying healthy, whole, and
+Zoom call with a disclaimer that the baby was in the background — and

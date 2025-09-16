@@ -1,5 +1,11 @@
-# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 3f3196aae5c4fb8ecc2f459d848d0624436dbb1e
+title: beo_chap7_1
+---
+# Perspectives. 17:49-70.
 
-Heath, C. 1995. Escalation and de-escalation of commitment in response to sunk costs: the
+Hart, O. 1995. Firms, Contracts, and Financial Structure. Oxford University Press.
 
-role of budgeting in mental accounting. Organizational Behavior and Human Decision
+276

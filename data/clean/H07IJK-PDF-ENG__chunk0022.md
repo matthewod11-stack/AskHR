@@ -1,9 +1,13 @@
-## HBR / Digital Article / How to Onboard Your New Boss
+---
+source_path: H07IJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: daf1619ff247dcf98d76ac5929eeb9e9db49f845
+title: H07IJK-PDF-ENG
+---
+## success within the corporate environment.”
 
-. . .
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-In summary, many companies still give too little time and focus to
+5
 
-helping new leaders succeed. If you have a new manager coming soon,
-
-identify how you can help them rapidly learn about the organization,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

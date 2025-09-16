@@ -1,11 +1,21 @@
-# Areas of concentration
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 39c0260a11a18b510f1dda72bd35a3b824aa6c8b
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part II • System Implementation
 
-Did not meet expectations
+- 3. List the areas where the employee developed in ways enabling him or her to take on additional responsibilities or be eligible for high-profile assignments:
 
-Achieved most expectations
+_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________
 
-Achieved expectations
+- 4. Areas of development for upcoming quarter (i.e., communication skills, teamwork, project management skills, budgeting experience, etc.):
 
-Achieved expectations and exceeded on a few
+_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________
 
-Significantly exceeded expectations
+- 5. Goals for upcoming quarter (Please list S.M.A.R.T. goals):
+
+_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________
+
+Please circle the number below that best describes the employee’s performance in the following areas:

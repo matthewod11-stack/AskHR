@@ -1,21 +1,13 @@
-# than a decade.
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd6d732629d3fcc6fbf1a2fb289ebe4908318fe1
+title: H08AWG-PDF-ENG
+---
+# employees and job seekers.
 
-Part of the reason for this increase, it seems, is that workers have been
+Although many of these dynamics have been in the headlines since
 
-contemplating the kinds of lives they want and reﬂecting on the role
+2020, they are not actually new. According to data from the Bureau
 
-they want work to play in their lives. The reality is that people spend
-
-a lot of their lives working, and because of that, people’s day-to-day
-
-work experiences have a substantial impact on how satisﬁed they are
-
-with their lives. The relationship between work experience and life
-
-satisfaction has long been established, but given the recent struggles
-
-between workers and employers, we wondered how factors related to work ﬂexibility might aﬀect that satisfaction.
-
-Does having control over their time actually make workers happier —
-
-and more likely to stay in their jobs? To ﬁnd out, we analyzed survey
+of Labor Statistics, resignations have been steadily increasing for more

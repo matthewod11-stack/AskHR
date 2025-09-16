@@ -1,7 +1,27 @@
-# problem.
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 377f607c4b361e5e1ff85c49dfd7f56cb72fc153
+title: H08LGU-PDF-ENG
+---
+# identity with that audience.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+To measure representation, we can collect self-reported data from
 
-10
+surveys and assessments on people’s feelings about leadership,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+inﬂuence, voice, and trust. We can ask about their trust in leadership,
+
+the degree to which they feel like their opinions are solicited and
+
+valued, and the degree to which decision-makers consider needs like
+
+theirs. If we ﬁnd major diﬀerences in experience — for example,
+
+Black workers reporting feeling most unheard and excluded from
+
+decisions impacting them compared to other colleagues — we can
+
+investigate potential lack of representation and make corrections to
+
+communication, behavior, and decision-making processes to ﬁx the

@@ -1,11 +1,15 @@
-# Press.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 4e826a65bd8988fc8c0e49d9bb41da367c6f0ffa
+title: barrickryan_eds_personality_and_work
+---
+# havior. New York: Guilford Press.
 
-Stewart, G. L., & Barrick, M. R. (in press). Lessons learned from the person-situation debate: A review and research agenda. In B. Smith & B. Schneider (Eds.), Personality and organizations. Mahwah, NJ: Erlbaum.
+Saavedra, R. (1990). Beer sales and delivery teams. In J. R. Hackman (Ed.), Groups that work (and those that don’t): Creating conditions for ef- fective teamwork (pp. 361–381). San Francisco: Jossey-Bass.
 
-Stewart, G. L., Fulmer, I. S., & Barrick, M. R. (2002). Linking team person-
+Simons, T. L., & Peterson, R. S. (2000). Task conﬂict and relationship con- ﬂict in top management teams: The pivotal role of intragroup trust. Journal of Applied Psychology, 85, 102–111.
 
-ality to roles and self-perceptions in teams. Unpublished manuscript.
+Snyder, M., & Ickes, W. (1985). Personality and social behavior. In G. Lindsey & E. Ironstone (Eds.), Handbook of social psychology (3rd ed., Vol. 2, pp. 993–947). Reading, MA: Addison-Wesley.
 
-Stewart, G. L., & Manz, C. C. (1995). Leadership for self-managing work teams: A typology and integrative model. Human Relations, 48, 747–770.
-
-Wrightsman, L. S. (1994). Adult personality and development: Theories and
+Steiner, I. D. (1972). Group process and productivity. Orlando, FL: Academic

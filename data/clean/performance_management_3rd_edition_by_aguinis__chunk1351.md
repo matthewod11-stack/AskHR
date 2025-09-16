@@ -1,11 +1,9 @@
-# 8.1.1 Developmental Plan Objectives
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 5d51241d120f07e5712ec32e30b3ad8178964104
+title: performance_management_3rd_edition_by_aguinis
+---
+## Individual Developmental Plans at General Mills
 
-The overall objective of a developmental plan is to encourage continuous learning, performance improvement, and personal growth. In addition, developmental plans have other more specific objectives:
-
-- Improve performance in current job. A good developmental plan helps employees meet performance standards. Thus, a developmental plan includes suggested courses of action to address each of the performance dimensions that are deficient. This is an important point given that recent surveys have shown that about 25% of federal employees and between 11 and 16% of private sector employees in the United States are not performing up to standards.4
-
-- Sustain performance in current job. A good developmental plan provides tools so that employees can continue to meet and exceed expectations regarding the current job. Thus, the plan includes suggestions about how to continue to meet and exceed expectations for each of the performance dimensions included in the appraisal form.
-
-- Prepare employees for advancement. A good developmental plan includes advice and courses of action that should be taken so that employees will be able to take advantage of future opportunities and career advancement. Specifically, a good plan indicates which new competencies and behaviors should be learned to help with career advancement.
-
-- Enrich the employee’s work experience. Even if career opportunities within the organization are not readily available, a good plan provides employees with growth opportunities and opportunities to learn new skills. These opportunities provide employees with intrinsic rewards and a more challenging work experi- ence, even if the new skills learned are not a formal part of their jobs. Such opportunities can make jobs more attractive and serve as a powerful employee retention tool. In addition, the new skills can be useful in case of lateral transfers within the organization.
+At General Mills (http://www.generalmills.com), individual developmental plans (IDPs) are promoted strongly throughout the company. The Minneapolis, Minnesota-based General Mills is an interna- tional foods company. Some of the best-known brands include Pillsbury, Cheerios, Green Giant, and Yoplait. The formally written IDPs are completed annually, but the expectation is for ongoing conversations between managers and employees, focusing not only on competencies that are well developed and those that are in need of improvement but also on the employee’s career aspirations. The company’s IDP sessions promote the process for employees by hosting speakers, offering Web- based learning tools, and holding workshops for employees and managers to get the most out of the process. Some of these sessions are specifically tailored to different kinds of positions within the company with different needs in the development process. Also, the IDP is kept separate from the annual performance appraisal, as the belief is that development planning cannot be sufficiently addressed in the context of appraisal. In summary, General Mills provides an example of a company that has made a strong commitment to the growth and learning of all employees.3

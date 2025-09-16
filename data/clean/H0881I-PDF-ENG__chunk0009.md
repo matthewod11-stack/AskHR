@@ -1,41 +1,25 @@
-# Embrace the opportunity.
+---
+source_path: H0881I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f0d443e91b16e6c96ff7cdd821e74fa58b77caf
+title: H0881I-PDF-ENG
+---
+# HBR / Digital Article / You’re Back from Your Leadership Development Program. Now W…
 
-Leaders often worry that their newly acquired behaviors or visions
+Also, explore what they learned and how they developed during your
 
-will be met with skepticism and jokes about just returning from a
+absence and any impact it’s had on their future goals and aspirations.
 
-course. “Who kidnapped the real you and substituted this alien?” is a
+Any post-program change agenda will require the support of your team,
 
-common refrain. But don’t let this fear hold you back. You will be more
+and this is an opportunity to both create goodwill and explore how you
 
-disappointed in the long run if you fail to make any changes or if others
+might free up time by shifting responsibilities.
 
-fail to recognize your growth.
+Make sure to thank your boss, peers, and others, too, emphasizing
 
-Remember that this is an opportunity. Acknowledge that while you are
+how they might beneﬁt from your new insights and ideas. By
 
-committed to continuous, long-term personal and team development,
+demonstrating your gratitude and connecting your experience to group
 
-the course was indeed a catalyst for new thinking. Emphasize that you
-
-are dedicated to working with others to drive meaningful change.
-
-Communicate your intentions.
-
-To gain support for your change ideas, it’s essential to be candid about
-
-your intentions and the challenges you anticipate. The idea isn’t just to
-
-inform them and eliminate any preconceived notions they might have;
-
-it’s also to involve them in speciﬁc areas of transformation.
-
-Be mindful that you have been thinking about this evolution for longer
-
-than they have, though, and allow them time to process, reﬂect, and
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and organizational success, you reinforce your commitment to others.

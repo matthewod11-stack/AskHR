@@ -1,7 +1,7 @@
-## 3.3 RATING DESCRIPTION FOR KEY PERFORMANCE
-
-INDICATORS (KPIS):
-
-It is supported that employees set goal under every one of the measurements, Employees
-
-ought to allot a particular number of destinations altogether at whatever year. Goals should be
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 24df491ff48763c59dee95544cd52e010a43a884
+title: an_overview_of_performance_management_policy_pmp_and
+---
+## specific lattice of Performance and Potential.

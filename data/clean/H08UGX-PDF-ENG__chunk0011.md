@@ -1,11 +1,23 @@
-## Why Boundaries Between Leaders’ Personal and Professional Identities Are Crucial
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e460486149162a2b44860bf306c74b7b330593e5
+title: H08UGX-PDF-ENG
+---
+## their philosophies on capitalism, climate, and company values like
 
-Being authentic isn’t the same as being eﬀective. In fact, psychological science suggests that the most eﬀective leaders are anything but
+corporate shamans, while micromanaging team channels with fatherly
 
-unﬁltered. Here are four key, evidence-based reasons why boundaries
+fervor. Others conﬂate personal ideology with brand identity, pouring
 
-between personal and professional identity are critical in the C-suite:
+politics, marketing, and ambition into a single, steaming cup of
 
-- 1. Oversharing dilutes authority.
+performative leadership. These aren’t just magnetic personalities,
 
-Leaders are not paid to process their feelings in public. Their job is to
+they’re evidence of a larger phenomenon: When personal branding
+
+eclipses professional discipline, organizations are left with a front-row
+
+seat to their leader’s inner monologue. And the rest of us often have no
+
+choice but to listen.

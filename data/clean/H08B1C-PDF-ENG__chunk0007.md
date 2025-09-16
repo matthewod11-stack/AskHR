@@ -1,17 +1,7 @@
-## Paul, a high-level executive in a technology company, former
-
-university professor, and expert in his ﬁeld, attended a prestigious trade
-
-conference. Paul prides himself on having a learning mindset and felt at
-
-home surrounded by leading industry experts. He was eagerly engaged,
-
-asking questions about the latest trends and technologies to broaden his
-
-understanding and take in the expertise around him.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6bd0456ae9a1882e94f103d4c79b43b66476921b
+title: H08B1C-PDF-ENG
+---
+# serggn/Getty Images

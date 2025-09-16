@@ -1,7 +1,9 @@
-## Journal of Personality and Social Psychology, 20, 37–43.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: c0b210d3538ac78c3ae491b9062678654ad7ba38
+title: barrickryan_eds_personality_and_work
+---
+# Oxford University Press.
 
-Greene, T. R., & Noice, H. (1988). Inﬂuence of positive affect upon cre- ative thinking and problem solving in children. Psychological Reports, 63, 895–898.
-
-Harker, L., & Keltner, D. (2001). Expressions of positive emotions in women’s college yearbook pictures and their relationship to per- sonality and life outcomes across adulthood. Journal of Personality and Social Psychology, 80, 112–124.
-
-Headey, B., & Veenhoven, R. (1989). Does happiness induce a rosy out- look? In R. Veenhoven (Ed.), How harmful is happiness? Consequences of enjoying life or not (pp. 106–127). Rotterdam, Netherlands: Uni- versitaire Pers Rotterdam.
+Gouaux, C. (1971). Induced affective states and interpersonal attraction.

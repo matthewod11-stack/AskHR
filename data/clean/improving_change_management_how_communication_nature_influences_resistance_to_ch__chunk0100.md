@@ -1,1 +1,7 @@
-# Graphic02
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 44c08c29236e06787082929eada94dff055a874a
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# Cognitve

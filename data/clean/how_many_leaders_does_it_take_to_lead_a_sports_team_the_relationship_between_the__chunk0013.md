@@ -1,7 +1,11 @@
-# Different leadership structures
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: b430082c328ff88935c7b754c82d8b8bb53d7be7
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Athlete leadership
 
-The above findings seem to suggest that, when coaches share their leadership responsibilities with their players, this structure of shared leadership maximizes chances of team success.
+As the above definition of athlete leadership by Loughead et al. [8] highlighted, two types of athlete leaders can be identified based on their formal recognition as leaders—formal and informal leaders. A player occupies a formal role when he or she is formally recognized as a leader (e.g., captain or assistant captain). In contrast, players occupy informal roles when they do not have that formal recognition, but instead have gained their leadership status through social interactions recognizing their capacity to influence their teammates [8]. Moving away from the traditional focus on the team captain [13, 14], recent findings have pointed out that, in most sports teams, informal leaders are often perceived as better leaders than the formal team captain [10, 15]. To illustrate this, a study developed by Fransen, Vanbeselaere et al. [15], analyzing 4,451 players and coaches in nine team sports, noted that in only 1% of the teams did the team captain fulfill all leadership roles. It is thus the informal leaders who are often per- ceived as better leaders than the team captain.
 
-PLOS ONE | https://doi.org/10.1371/journal.pone.0218167 June 10, 2019
-
-2 / 22
+In addition to the formal-informal leader distinction, leaders can also be categorized in terms of their function. Within their role differentiation theory, Bales et al. [16] distinguished two leadership functions that individuals can fulfill, namely task functions (i.e., making deci- sions, responding to or resolving adverse situations, and establishing tactical instructions dur- ing matches that help the team achieve its goals and objectives) and social functions (i.e., establishing good relationships among peers, serving as a trusted person, and mediating in socially controversial situations in the group that will help satisfy the psychosocial needs of all team members). Loughead et al. [8] further extended this role categorization by adding a third role to the role of task and social leader, namely the role of external leader (i.e., being a team representative at club meetings, press conferences, and sponsors to help establish appropriate relationships with the team environment). The fulfillment of these three types of leadership has several benefits, as it promotes greater identification of players with the team and greater confidence in the team [17], a stronger task and social cohesion [11], and more optimal team functioning, resulting ultimately in a better team performance [12].

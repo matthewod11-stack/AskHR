@@ -1,9 +1,19 @@
-# their best.
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16a6af35eb9250860a89eec925567ec947fffc98
+title: H08FW4-PDF-ENG
+---
+## handle conﬂict serves as a model for the rest of the organization.
 
-This suggests that executive teams don’t understand that, in order
+Where executive teams fall short
 
-to align the organization, they must exemplify cohesion among
+Sadly, commitment to modeling a healthy culture seems rare. One study
 
-themselves. This makes sense considering many executive teams are
+by Gallup found that only 27% of employees believe in their company’s
 
-constructed around perceived “ﬁxed pie” rewards that tear at the
+values and only 23% think they could actually apply them to their jobs.
+
+And McKinsey’s State of the Workplace study found that only 25% of
+
+employees experience their leaders as inspiring them by example to be

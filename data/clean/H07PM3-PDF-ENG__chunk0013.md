@@ -1,27 +1,15 @@
-## protection, but this seemingly favorable treatment conceals male
+---
+source_path: H07PM3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48feb04ad0fa287b9d146f696f93792db69cd294
+title: H07PM3-PDF-ENG
+---
+# organizational inequality.
 
-dominance and can have negative consequences. When women are
+Imagine the scenario of benevolent sexism. Despite the decline of
 
-shielded from challenging assignments at work, for example, it
+overtly sexist attitudes, women still face subtle forms of discrimination
 
-inadvertently encourages stereotypes and fosters self-doubt, ultimately
+that may contribute to their underrepresentation in executive positions.
 
-hampering their professional performance.
-
-In a three-year study examining benevolent sexism, we took a closer
-
-look at women-only networking initiatives. These initiatives, touted
-
-as essential components of diversity guidelines within organizations,
-
-are often devised by male managers to assist women. However,
-
-women frequently perceive them as a superﬁcial attempt or mere
-
-tokenism aimed at fulﬁlling diversity quotas and creating a facade
-
-of inclusivity. Many such initiatives place the burden of overcoming
-
-gender disparities on women, often treating them as a homogenous
-
-group while failing to address the underlying systemic bias that fuels
+Women are often stereotyped as the “weaker sex” needing chivalrous

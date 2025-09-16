@@ -1,15 +1,23 @@
-# The Rise of New Organizational Models
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1e79b00369f17ef1c0629667f77e3d73c54d855
+title: H07RXW-PDF-ENG
+---
+# HBR / Digital Article / Is Organizational Hierarchy Getting in the Way of Innovation?
 
-Over the past few decades, there has been much debate about the
+In this article, we explore why and how these new models are surfacing,
 
-demise of traditional hierarchical structures. The consensus appears to
+looking speciﬁcally at how emerging technologies have created a
 
-be that while bureaucracy still has a place in some circumstances, it is
+tipping point for the shift to more competitive alternatives to the
 
-increasingly becoming less ﬁt for the needs of today’s businesses.
+traditional ﬁrm. We share the ﬁndings of our research, which looks at
 
-So, what exactly brought us to this point? Technology has, of course,
+the move towards decentralization and identiﬁes the key characteristics
 
-been a major factor. Robotics, automation, and 3D printing are enabling
+of one the most successful and promising models. And we provide
 
-companies to develop and launch new products faster and more
+practical advice on how companies who want to keep ahead of the curve
+
+can start adapting their organizational designs.

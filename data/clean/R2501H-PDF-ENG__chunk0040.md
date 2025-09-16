@@ -1,9 +1,9 @@
-## conversation away from the methods and costs of educational initiatives
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a6a40a63747783d6c4a78a36c4963ede11568cf
+title: R2501H-PDF-ENG
+---
+# Finding the Best Fit
 
-and toward their values and aims. It can also help you grasp why
-
-the learning leaders you work with might be struggling: Custodians
-
-and challengers can become embattled when people disagree with
-
-their preferred approach, and connectors often internalize the tension
+Understanding the three ways to lead learning can help you shift the

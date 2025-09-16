@@ -1,17 +1,29 @@
-# Hands-off (low push + low pull)
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3537e0b0fd508cfa4eac4284c25f0f9ac8233363
+title: H08NJ7-PDF-ENG
+---
+## less preparation than some of the other coaching styles.
 
-At the bottom-left quadrant lies the Hands-oﬀ coaching style. Here,
+The Telling style is best used when you’re coaching an employee
 
-the coach acts as an advisor and gives the coachee a great amount of
+whose job is standardized and includes repetitive tasks (for example,
 
-autonomy and decision-making freedom. The coachee is provided with
+a call center associate or an assembly line manager). It is also suitable
 
-the tools and resources they would need to succeed at something and
+for when the task or individual requires more oversight, like a new
 
-oﬀered support when they need it.
+data entry executive or a recently hired social media associate. This
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Telling style can also be beneﬁcial in situations that require urgent
 
-5
+or immediate action. However, you should use it sparingly and with
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+caution. A directive style can stiﬂe creativity and demotivate your
+
+employees, as it can make them feel that they lack the autonomy
+
+to learn and grow. When you overuse this style, you could also be
+
+perceived as micromanaging your employees.

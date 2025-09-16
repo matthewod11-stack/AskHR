@@ -1,9 +1,7 @@
-## semestralmente. Segundo seu relato, essa era uma prática que demandava alta
-
-carga de trabalho a cada nova pesquisa, como Menezes e Gomes (2010) alertaram,
-
-além de elevado nível de adaptabilidade, uma vez que os temas de interesse a cada
-
-momento do tempo não eram necessariamente os mesmos, como também
-
-antecipou Moreira (2012). Dessa maneira, além de pouco escalável e de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 02232f71e3da128bb630496db7523fcb751da234
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## costumavam realizar pesquisas internas de clima e engajamento com funcionários

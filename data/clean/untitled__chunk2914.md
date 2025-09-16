@@ -1,7 +1,9 @@
-# Publications
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 84769219448464bc5f10a79f971a9f47a641419d
+title: untitled
+---
+## The Department of Psychology and Education was established at Kuwait University.
 
-Publication of Psicologia y Educacion was initiated in Cuba.
-
-The Anuario de Psicologia was introduced in Guatemala.
-
-APA published the report, Some Views on Soviet Psychology from its Soviet mission in 1960.
+The University of Ghana introduced a Department of Psychology (see 1949).

@@ -1,17 +1,13 @@
-## Audience effects The effect on behavior when one or
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f49931118a0cba808e126d0b6e4949b9ed8b3bbb
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Attitudinal Listening Profile A test developed
 
-more people passively watch the behavior of another person.
+by Geier and Downey that measures individual listening styles.
 
-Autocratic I strategy Leaders use available information
+Attractiveness The extent to which a leader is
 
-to make a decision without consulting their subordinates.
-
-Autocratic II strategy Leaders obtain necessary
-
-information from their subordinates and then make their own decision.
-
-Averaging versus adding model A model proposed by
-
-Anderson that postulates that our impressions are based more on the average value of each impression than on the sum of the values for each impression. Avoiding style The conflict style of a person who reacts to conflict by pretending that it does not exist.
-
-Banding A statistical technique based on the standard error of measurement that allows similar test scores to be grouped.
+appealing to look at.

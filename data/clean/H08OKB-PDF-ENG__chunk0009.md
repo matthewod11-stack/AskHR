@@ -1,5 +1,9 @@
-## to 10% lower performance in the following year than practice areas that
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e5f0bfa93b86bba59fc235b7aefa4f6eb5e17fe
+title: H08OKB-PDF-ENG
+---
+# lawyers themselves.
 
-did not do so. Yet a closer look at our results reveals a more nuanced
-
-picture, with some instances in which hiring stars may work.
+Our study shows that, on average, practice areas that hired a star had up

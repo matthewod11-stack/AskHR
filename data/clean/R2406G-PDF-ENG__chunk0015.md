@@ -1,27 +1,35 @@
-## HBR / Magazine Article / Personalization Done Right
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd2feee8eba5ff78c00a34567c07bc6805648017
+title: R2406G-PDF-ENG
+---
+# progress on personalization?
 
-of adults in the United States today struggle with mental health. It can
+- Do we run weekly tests related to personalization?
 
-be confusing to navigate the various treatment options, so SonderMind
+- Do we implement improvements on a weekly or more frequent basis?
 
-set out to empower its users to ﬁnd help more easily. SonderMind’s
+Empower me. Personalization leaders start by asking: How can I make
 
-app personalizes patient journeys on the basis of interactive experiences
+the customer’s experience better by personalizing it? They understand
 
-that assess 12 brain functions (such as mental-processing speed and
+customers’ unique needs at every step of their journey and decide
 
-a predisposition to anxiety and depression), and patients log their
+how personalization can best help them. This is the most important
 
-progress against goals they set. While protecting individual patient
+component of the Personalization Index. To determine this score, we
 
-privacy, the app learns from the experiences of its many users and can
+use mystery shopping activities and customer surveys to assess the level
 
-suggest simple actions for each user to take (in addition to connecting
+and quality of personalization that companies are delivering.
 
-with a therapist)—for example, practicing a meditation exercise or
+A leader in this area is SonderMind, a mental wellness company.
 
-keeping a diary of one’s feelings. It also arms therapists with tools to
+According to the National Institute of Mental Health, almost a quarter
 
-develop the optimal treatment plan, based on anonymized data about
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-what has worked for similar patients. The result has been a win-win:
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

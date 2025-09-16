@@ -1,3 +1,13 @@
-# experience
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: f0555d45e7abe2c448e08ddf805fa3cdc46263d9
+title: file_1
+---
+# 48
 
-of working with
+of raising awareness about gender inequality is to increase efforts of Finnish media to discuss the concept of gender inequality and make women more aware of their rights and opportunities.
+
+Next, the finding that employees in lower-level positions perceive workplace gender inequality to a greater extent than employees in upper-level positions is noteworthy. This finding leads to the conclusion that even though Finnish equality programmes and policies have improved positions of many female employees, many steps have to be pushed forward by making organizational members in higher hierarchical positions realize their obligations and responsibilities. At the same time, I believe that the solution for solving gender inequality and overcoming the gender pay gap lies not only in the neglect of employees in upper-level positions and glass-ceiling effect but in all of us. Each of us is responsible for these issues and each of us can gain a lot from solving them. For example, women account for a half of the potential talent base throughout the world and, therefore, nation’s competitiveness and companies’ productiveness depend considerably on whether and how it educates and exercises its female talent. In corporate life, gender equality makes it possible for an organization to make optimal use of all human resources. In addition, the current world is characterized as an extremely fast developing area, where innovation, new ideas, and projects are highly valued, and the best thoughts are born in a diverse environment. This means that companies may greatly benefit by engaging female employees into key positions. Reducing gender inequality can also play an essential role in addressing the future problems caused by ageing populations and rising pension troubles. Thus, by overcoming gender inequality, not only companies, but whole nations can prosper dramatically.
+
+Finally, the discussion about the data of the Gender Equality Barometer 2008 should be included. By means of Finnish women’s and men’s opinions, attitudes, and experiences, the Gender Equality Barometer 2008 examined the division of labour and power between women and men, and how acceptable this division is in society in general and in workplaces in particular. The Barometer 2008 concluded that gender equality in Finland has not been achieved yet. By conducting more detailed and advanced data analysis in this thesis, I attempted to enlarge and strengthen the results of the Barometer 2008. Based on my research the continuation of the Finnish government's production of the Gender Barometer is to be welcomed in order to monitor and observe perceptions and experiences of Finnish men and women regarding gender equality in society, workplaces, and elsewhere. This type of work is very useful for researchers, policy makers, and practitioners.

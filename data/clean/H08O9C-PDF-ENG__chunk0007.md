@@ -1,7 +1,15 @@
-## decision-making in relation to jobs, work, and careers.
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df287cbc055425e55b49cffe3aba2e44220a44df
+title: H08O9C-PDF-ENG
+---
+# 7 Ways to Use AI as a Career Coach
 
-- 1. Gaining Career Clarity & Direction
+The potential uses of gen AI for career coaching (and beyond) are only
 
-Where should you take your career? Where could you and should you go
+limited by our imaginations. With that said, here’s what my research
 
-from where you are right now? What are the best available options for
+suggests are some of the most common “use cases,” or applications
+
+of these platforms that can help to improve your understanding and

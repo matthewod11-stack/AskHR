@@ -1,17 +1,13 @@
-## HBR / Digital Article / Looking for a Sense of Purpose? Volunteer.
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 501ec35e0e0732f2313ac53c406d54ecf9d4da32
+title: H08NSA-PDF-ENG
+---
+## beneﬁts of improved physical and mental health.
 
-If you similarly feel called to make an impact beyond your day job, here
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-are three simple ways to tap into the power of volunteering, based on
+2
 
-the advice I give to my MBA students and other young professionals
-
-looking for greater purpose.
-
-- 1) Don’t quit before you start.
-
-The magnitude of problems in our world can make it easy to feel
-
-hopeless. Despite your desire to “give back,” you may wonder if you,
-
-as one person, can really make a diﬀerence. I have seen this in my
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,21 @@
-# CONCLUSION
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: d0b0cd98b412d3c24b9b7b7943867396d1dcd2fc
+title: performance_management
+---
+# Outcome Expectancy/Self- Efﬁcacy
 
-Peter Drucker noted that in the 20th century, great leaders gave great answers; in the 21st century, great leaders will ask great ques- tions. In organizational settings, as is the case for their counterparts in professional sports, leaders may not necessarily be as adept or knowledgeable of the areas requiring coach- ing, as is the person who is being coached. Thus, becoming an expert on ‘‘the answers’’ is now, and will continue to be, all but impossible. The effective coach is one who questions and listens. Insightful questions lead to reﬂection; they lead to self-discovery. The arguable downside of becoming an effective coach is the queue; people seek out those who listen to them. However, as Colin Powell has observed, the day people stop bringing a person their problems is the day that person has stopped leading them. People have either lost conﬁdence that the person can help them, or they have con- cluded that the person does not care. Either case, argued Powell, is a failure of leader- ship. Together, performance appraisals that lead to ongoing coaching ensure a highly trained, highly motivated workforce. It is the essence of performance management.
+A drawback to setting speciﬁc high goals is that people may obtain tangible evidence that they did not attain them. They learn that they have failed despite their effort and per- sistence. Through multiple setbacks or even one severe one, they give up. To help people overcome their sense of helplessness, to instill optimism in the face of failure, coaches
 
-85
+need to focus on two key concepts: outcome expectations and self-efﬁcacy.
+
+A primary role of a coach is to help people see the relationship between what they do and the outcome that they can expect. Motor- ola is known for having an employee devel- opment system that combines performance appraisals, succession planning, and indivi- dual career planning into a single, continu- ous system, so that employees know what they have done, where they are going, and how exactly they need to improve. There is a sense of what one is striving for, and goals are set about how to get there. In addition, conversations take place about how well one has accomplished one’s goals in the past, and the progress of their current goals. Employ- ees beneﬁt from being able to understand their frequent (quarterly) appraisals in terms of their own career development, as well their role in meeting organizational perfor- mance targets.
+
+The response ‘‘I don’t get it’’ is sympto- matic of a lack of understanding of outcome expectancies. Thus, the job of the golf pro is to help the player see the relationship between wheretheleftfootisplacedandwheretheball goes after being struck by the club. The job of the salesdirectoristohelp thesalespersonsee the relationship between how the sales-call wasmadeandtheamountofrevenuethatwas generated. This is not a profound concept, yet it is one that many coaches in organizational settings overlook. The use of the empathy box described earlier in Organizational Dynamics (see Latham, 2003) is a helpful tool for clarify- ing anticipated outcomes.
+
+A second step to instilling a ‘‘can-do’’ mindset in an employee is for the coach to focus on the person’s self-efﬁcacy, namely, the conviction that ‘‘I can cause,’’ ‘‘I can bring about,’’ ‘‘I can make happen.’’ Since self- efﬁcacy is task speciﬁc, a person may have high self-efﬁcacy in one area—such as bring- ing in new business, and low self-efﬁcacy in another, such as managing staff.
+
+Task-speciﬁc self-efﬁcacy can be increased through: (1) enactive mastery, that is, sequen-
+
+cing a task, giving assignments in such a way that all but guarantees early successes; (2) ﬁnding models of desired behaviors that the person being coached can identify with and learn from; and (3) the appropriate encour- agement from others, particularly the coach. For example, at Syncrude, a large Canadian energy company, those with high appraisals are singled out and written to personally by the operations manager. This encouragement from the coach reinforces that performance is not only appraised, but encouraged and valued by corporate leaders.

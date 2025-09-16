@@ -1,17 +1,23 @@
-## Relation to State, Local, and Other Federal Laws
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: 4f41a1fd68bc715f28f10c66a5d64ad53c454566
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+# Penalties/Sanctions
 
-Federal laws related to the LMRDA include the National Labor Relations Act of 1935; the Taft-Hartley Act of
+Section 601(a) of the LMRDA authorizes the Secretary of Labor to investigate "in order to determine whether
 
-1947; the Racketeer-Inﬂuenced and Corrupt Organizations (RICO) Act; the Service Contract Act; and the Civil Service Reform Act of 1978.
+any person has violated or is about to violate" any provisions of the Act (except the Bill of Rights of Union
 
-Additional compliance assistance materials appear on the OLMS Home
+Members and amendments made by the LMRDA to other laws), and to "enter such places and inspect such
 
-Page(https://www.dol.gov/agencies/olms/). OLMS ﬁeld oﬃce staﬀ members are available to answer questions about the LMRDA and to help individuals and organizations aﬀected by the law.
+records and accounts and question such persons" as may be necessary to determine whether a violation has occurred. The Secretary may issue subpoenas to compel testimony or to obtain records and other materials
 
-The OLMS National Oﬃce Public Disclosure Room has copies of all reports and documents ﬁled with OLMS.
+needed to complete an investigation.
 
-Additional information about the LMRDA, including blank reporting forms and compliance assistance
+The Secretary may ﬁle civil actions in Federal district court to restrain or correct violations and to bring about
 
-publications, is available through the OLMS Union Reports Web site. Additional information about the LMRDA,
+compliance with the LMRDA. The embezzlement of union funds is subject to a ﬁne of up to $250,000 and/or
 
-including blank reporting forms and compliance assistance publications, is available through the OLMS Web site, as well as the OLMS National and ﬁeld oﬃces.
+imprisonment up to ﬁve years. Criminal penalties also apply to other Title V provisions as well as to certain reporting violations under Titles II and III.

@@ -1,11 +1,13 @@
-## In the corporate workplace…maybe mostly for women…there’s this
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 535a9abf1bea3fcbfe3e5e5212561b8888281d49
+title: H08SR2-PDF-ENG
+---
+# of the exercises.
 
-belief that we always have to be strong and we have to be stoic and
+These elements made participants feel comfortable to blur their work
 
-we have to be all of these things. I think when we put on this façade,
+and non-work lives with their colleagues. The experiences that they
 
-we don’t show any of that vulnerability. By riding together, all of a
-
-sudden, you’re extremely vulnerable… I think the humanizing [thing]
-
-is that you really just get to see the true human element of a person
+had with their colleagues on the platform also made them see their relationships diﬀerently. As one leader in our study said:

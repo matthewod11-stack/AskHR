@@ -1,33 +1,19 @@
-## group affiliations within a firm, and across firms.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 51253cf6dfe6648d446f6a848a2e9623aca9e2a8
+title: beo_chap7_1
+---
+# productive activities.
 
-To some extent, firms can manage group creation through sorting (selecting “our
+In the context of the organization, note first that the firm would most like its
 
-kind of person” in hiring) and other organizational practices. For example, if helping
+own workers to help each other, but to not help competitors’ workers. But group
 
-customers foo much is bad for the firm, it may use job rotation to keep its workers
+affiliations that determine helping probably do not map neatly onto legal boundaries.
 
-from becoming too helpful with favored customers. The sociology literature, how-
+Friendship, ethnicity and language, geography and architecture (which workers live
 
-ever, provides numerous examples of firms misestimating group effects, such as
+or work nearby), marital status (who hang out after work together at happy hour, or
 
-Roy’s (1952) famous study of a small-parts machine shop in Chicago. In this shop,
-
-the management designed task-specific piece rates such that for all the different
-
-jobs a certain monetary target could be reached with the same “effort.” Roy’s study
-
-demonstrates that workers were able to mislead management and induce piece rates,
-
-for which meeting the target was very easy. The workers imposed strong sanctions
-
-on anybody attempting to deviate and to exert more effort.
-
-Evolutionary psychology provides an interesting way to speculate about groups
-
-and firms. Psychologists think of some kinds of groups as “essential,” which means
-
-11Group dynamics can also induce the opposite bias, a “black-sheep effect.” Unpopular in-group
-
-members receive higher punishment than unpopular out-group members (Marques et al. 1988), especially
-
-if peer pressure is high. Another important caveat is its susceptibility to the experimental framing (Hertel
+during their children’s play dates), and other distinctions create an archipelago of

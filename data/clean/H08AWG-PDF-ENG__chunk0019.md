@@ -1,3 +1,7 @@
-# ST
-
-Stephanie Tepper is a behavioral scientist who studies behavioral and policy interventions to reduce economic inequality and promote economic opportunity. She is an Associate Fellow at the U.S. Oﬃce of Evaluation Sciences and a Postdoctoral Scholar at Jeb E. Brooks School of Public Policy at Cornell University.
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33d50d02136932ce88e5a379b3564a206c258da6
+title: H08AWG-PDF-ENG
+---
+# HBR / Digital Article / Research: People Still Want to Work. They Just Want Control Ov…

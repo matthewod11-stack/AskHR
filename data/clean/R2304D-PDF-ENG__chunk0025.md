@@ -1,15 +1,13 @@
-# employee concerns.
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b236d568c835dea762e6e1ddcf7ab75e433e8735
+title: R2304D-PDF-ENG
+---
+## National Labor Relations Board–administered election (an increasingly
 
-Ironically, the labor organizations likely to be most valuable to
+popular approach), to remaining neutral and leaving your employees to
 
-business will be the strongest ones. Good partnerships require partners
+decide whether to organize (as Microsoft recently did), to respectfully
 
-with balanced power. Strong unions cultivate deep relationships with
-
-workers and are their legitimate, democratically elected representatives.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+communicating why you don’t think organizing is the answer to

@@ -1,19 +1,13 @@
-# Vance, R.J.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 76ac5b35673996a6d1d2cca34b745346381a7fea
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## study”, European Journal of Work and Organizational Psychology.
 
-(2006), Employee Engagement and Commitment: A Guide to Understanding, Measuring, and Increasing Engagement in Your Organization; Effective Practice Guidelines, Society for Human Resource Management, Alexandria, VA.
+Truss, C., Shantz A., Soane, E., Alfes, K. and Delbridge, R. (2013), “Employee engagement, organisational performance and individual well-being: exploring the evidence, developing the theory”, The International Journal of Human Resource Management, Vol. 24 No. 14, pp. 2657-2669.
 
-Verquer, M.T., Beehr, T.A. and Wagner, S.H. (2003), “A meta-analysis of the relationship between person-organization fit and work-related attitudes”, Journal of Vocational Behavior, Vol. 63, pp. 473-489.
+Van den Heuvel, M., Demerouti, E., Schreurs, B.H.J., Bakker, A.B. and Schaufeli, W.B. (2009), “Does meaning-making help during organizational change? Development and validation of a new scale”, Career Development International, Vol. 14, pp. 508-533.
 
-Wildermuth, C. (2010), “The personal side of engagement: the influence of personality factors”, in Albrecht, S.L. (Ed.), Handbook of Employee Engagement: Perspectives, Issues, Research and Practice, Edward Elgar Publishers, Cheltenham, pp. 197-217.
-
-Wright, P.M., Gardner, T.M., Moynihan, L.M. and Allen, M.R. (2005), “The relationship between HR practices and firm performance: examining causal order”, Personnel Psychology, Vol. 58, pp. 409-446.
-
-) T P (
-
-5 1 0 2
-
-h c r a
-
-M 9 0
-
-0 0 : 8 0
+Van Dyne, L.V. and LePine, J.A. (1998), “Helping and voice extra-role behavior: evidence of construct and predictive validity”, Academy of Management Journal, Vol. 41, pp. 108-119. Van Maanen, J. (1975), “Police socialization: a longitudinal examination of job attitudes in an urban police department”, Administrative Science Quarterly, Vol. 20, pp. 207-228.

@@ -1,25 +1,19 @@
-## Journal of Organizational Behaviour, 20, 133-143.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: e3da9e2ae757f7137b4ed0fb5afd59548b457b04
+title: file_1
+---
+# Ohio State University.
 
-Leung, C., 2005. Convivial communication: decontextualizing communicative competence. International Journal of Applied Linguistics, 15, 119-44.
+Korsgaards, A., Schweiger, D. And H. Sapienza, 1995. Building commitment,
 
-Major, B. and J. Adams, J., 1983. Role of gender, interpersonal orientations, and self-
+attachment, and trust in strategic decision-making teams: the role of procedural justice. Academy of Management Journal, 38, 1, 60-84.
 
-presentation in distributive justice behaviour. Journal of Personality and Social Psychology, 44, 598-608.
+Kray, L., Thompson, L. and A. Galinsky, 2001. Battle of the sexes: Gender stereotypes and reactance in negotiations. Journal of Personality and Social Psychology, 80, 942-58.
 
-Major, B. and K. Deaux, 1982. Individual differences in justice behaviour. In J.
+Lange, T., 2008. Communist legacies, gender and the impact on job satisfaction in
 
-Greenberg and R. Cohen, eds, Equity and justice in social behaviour. New York: Academic Press, 43-76.
+Central and Eastern Europe. European Journal of Industrial Relations, 14, 327- 346.
 
-Major, B. and E. Konar, 1984. An investigation of sex differences in pay expectations
-
-and their possible causes. The Academy of Management Journal, 27, 777-792.
-
-Malatesta, R. and Z. Byrne, 1997. The impact of formal and interactional justice on
-
-organizational outcomes. Poster session presented for the twelfth annual conference of the Society for Industrial and Organizational Psychology, St. Louis, MO.
-
-McFarlin, D. and P. Sweeney, 1992. Distributive and procedural justice as predictors of
-
-satisfaction with personal and organizational outcomes. Academy of Management Journal, 35, 626-637.
-
-Mulvey, P., Le Blanc, P., Heneman, R., and M. McInerney, 2002. The Knowledge of
+Lee, C. and J. Farh, 1999. The effects of gender in organizational justice perception.

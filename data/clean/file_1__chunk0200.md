@@ -1,7 +1,9 @@
-## Group and Organization Management, 27, 352-373.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 0bc08cc642b6f38c0350d3b15d07c691d0754704
+title: file_1
+---
+# Basingstoke: Palgrave Macmillan.
 
-Barron, L.. 2003. Ask and you shall receive? Gender differences in negotiators’ beliefs about
-
-requests for higher salary. Human Relations, 56, 635-662.
-
-Benschop, Y. and H. Doorewaard, 1998. Covered by Equality, the gender subtext of
+Balkin, D. and L. Gomez-Mejia, 2002. Explaining the gender effects on faculty pay increases.

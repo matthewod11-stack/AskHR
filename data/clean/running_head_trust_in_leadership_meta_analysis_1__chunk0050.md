@@ -1,19 +1,35 @@
-# Insert Table 1 about Here
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 2bfac75f25060121b318a0170d0ceef2b660ae7b
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-As discussed, numerous leadership variables are theoretically and empirically
+however, is argued to create low levels of trust in leaders (e.g., Chen et al., 2014). Indeed, it
 
-associated with trust in the leader, which is often used as a mediator to explain the effects of
+is likely to operate in the opposite way to follower empowerment as the assertion of authority
 
-leadership variables on follower outcomes. While other lenses are also used, the link between
+and control over followers may send the signal that leaders do not trust followers and
 
-leadership, trust and outcomes is often built on the theoretical premise of SET. The
+encourage followers to accept and comply with the leaders’ ideas without voicing dissent.
 
-proliferation of new leadership variables has led to concerns of construct redundancy
+In addition, research has begun to explore the impact of destructive forms of
 
-particularly between the ‘newer’ conceptualisations of leadership and transformational
+leadership and their effect on outcomes via trust. Destructive leadership styles refer to
 
-leadership (Banks et al., 2018). The magnitude of correlation often observed between
+voluntary acts committed by a leader which most people would perceive as harmful and
 
-leadership styles (e.g., r = .72; Banks et al., 2018) is an issue for understanding the link
+deviant. The most studied of these is abusive supervision, defined as the extent to which
 
-between leadership and trust. While different leadership styles may relate to trust, we do not
+supervisors engage in ongoing displays of verbal and non-verbal hostility (Tepper, 2000).
+
+Examples of abusive supervision include humiliating employees in pubic, mocking,
+
+belittlement, rudeness, breaking promises and other inappropriate behaviours (Tepper, 2000).
+
+In accordance with SET, trust should decrease over time as a result of these unfavourable
+
+exchanges with a leader which may even contribute to feelings of distrust of the leader
+
+(Tepper, 2007).

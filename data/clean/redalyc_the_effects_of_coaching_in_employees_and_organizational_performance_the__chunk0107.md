@@ -1,9 +1,13 @@
-# GOULDNER, A.W. (1960). The norm of reciprocity: A preliminary statement. American
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 820e522abc37f9943ee8e8a82f8a7bd16732a636
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Editorial Policies. Personality and Individual Differences, 42(5): 831-839.
 
-Sociological Review, 25: 161-178. http://dx.doi.org/10.2307/2092623
+http://dx.doi.org/10.1016/j.paid.2006.09.019
 
-GRANT, R. (1996). Toward Knowledge based theory of the firm. Strategic Management Journal,
+GOULD, D. (1997). Developing directors through personal coaching. Long Range Planning,
 
-17: 109-122. http://dx.doi.org/10.1002/smj.4250171110
-
-GRAVINA, N.; SIERS, P. (2011). Square Pegs and Round Holes: Ruminations on the
+30(1): 29-37. http://dx.doi.org/10.1016/S0024-6301(96)00093-3

@@ -1,13 +1,19 @@
-# Implication. Thousand Oaks, CA: Sage.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 500d40f147bbe43b1a81fa504b2b0f086d62f6e3
+title: file_1
+---
+## Copenhagen: The Nordic Council of Ministers & the Nordic Council.
 
-Giapponi, C. and S. McEvoy, 2006. The legal, ethical, and strategic implications of gender
+Friedan, B., 1963. The Feminine Mystique. New York: W. W. Norton & Co.
 
-discrimination in compensation: Can the fair pay act succeed where the equal pay act has failed. Journal of Individual Employment Rights, 12 (2), 137-150.
+Gerhart, B., 1990. Gender differences in current and starting salaries: The role of
 
-Gill, R., 2002. Cool, creative and egalitarian? Exploring gender in project –based new media
+performance, college major, and job title. Industrial and Labour Relations Review, 43, 418-433.
 
-work in Europe. Information, Communication and Society, 5(1), 70-89.
+Gerhart, B. and S. Rynes, 1991. Determinants and consequences of salary negotiations by
 
-Glick, P. and D. Sahna, 2000. Schooling of girls and boys in a West African country: the
+male and female MBA graduates. Journal of Applied Psychology, 78, 256-62.
 
-effects of parental education, income, and household structure. Economics of Education Review, 19 (1), 63-87.
+Gerhart, B. and S. Rynes, 2003. Compensation: Theory, Evidence, and Strategic

@@ -1,9 +1,17 @@
-## Schleifer, L. M., & Okogbaa, O. G. (1990). System response
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 971e27d5e0f28cf90f18f18e174b2e8e7b567bb2
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Schippmann, J. S., Prien, E. P., & Katz, J. A. (1990). Reliability
 
-time and method of pay: Cardiovascular stress eﬀ ects in computer-based tasks. Ergonomics, 33(12), 1495–1509.
+and validity of in-basket performance measures. Personnel Psychology, 43, 837–859.
 
-Schmidt, F. L. (1973). Implications of a measurement problem for expectancy theory research. Organizational Behavior and Human Performance, 10, 243–251.
+Schippmann, J. S., Schmitt, S. D., & Hawthorne, S. L. (1992). I/O work roles: PhD vs. master’s level practitioners. Th e Industrial-Organizational Psychologist, 29(4), 35–39. Schleicher, D. J., Watt, J. D., & Greguras, G. J. (2004). Reexamining
 
-Schmidt, F. L. (1988). Th e problem of group diﬀ erences in ability test scores in employment selection. Journal of Vocational Behavior, 33(3), 272–292.
+the job satisfaction-performance relationship: Th e complexity of attitudes. Journal of Applied Psychology, 89(1), 165–177.
 
-Schmidt, F. L. (1991). Why all banding procedures in personnel selection are logically ﬂ awed. Human Performance, 4, 265–277.
+Schleifer, L. M., & Amick, B. C. (1989). System response time
+
+and method of pay: Stress eﬀ ects in computer-based tasks. International Journal of Human Computer Interaction, 1(1), 23–39.

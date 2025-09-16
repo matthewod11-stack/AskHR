@@ -1,3 +1,9 @@
-# independence at
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 27b48023abb61af23cf0fd3e7483ad344f984efb
+title: original_article
+---
+# Improving corporate performance
 
-strategies’
+with proﬁtability (0.42, P<0.01). Achieving a high level of board team dynamics reduces information asymmetry as demonstrated by Greenwald and Stiglitz (1994): the reduction of information asymmetry between those who ‘make decisions (agents) and the theoretical beneﬁciaries of those decisions (principals)’ is a way to optimize value creation (Greenwald and Stiglitz, 1994). Boards are primarily ‘decision- making groups composed mostly of outsiders who bring substantial the price of lower inside knowledge of the ﬁrm and its et al, 2012). According to the most recent survey of board directors conducted by Cloyd et al (2012), 97.8 per cent of boards are engaged in an evaluation process; however, the focus of the evaluation is on individual directors, and not the board as a team (Cloyd et al, 2012). We recommend that boards replace the individual director evalua- tion, adopting a team-based assessment (like the TLI) – to measure the effectiveness of the board’s dynamic and the resulting impact on proﬁtability performance.

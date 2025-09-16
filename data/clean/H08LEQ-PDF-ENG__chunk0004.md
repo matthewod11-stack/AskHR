@@ -1,13 +1,9 @@
-## accelerated business processes, innovative business models, and the
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0862ea9c9a1f4ada4362237d04055d5d3e676c26
+title: H08LEQ-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Is Changing How Companies Work
 
-globally wired world of the internet. Now the digital revolution is
-
-being overtaken by the AI revolution. And this time the speed, scale,
-
-and scope of industrial transformation will dwarf previous upheavals.
-
-According to our economic analysis, advances in AI and the tech/IT
-
-sector will create as much value in the next ﬁve years as it did during
-
-the previous 10, signaling broad-scale transformations across other
+communication of vast amounts of information and resulted in greatly

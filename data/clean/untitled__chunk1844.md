@@ -1,7 +1,9 @@
-# The Psychoses
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 574bf9aaa7757985e14f4b42011d64fa1ea3e1d4
+title: untitled
+---
+# 324 Abnormal Psychology
 
-Psychoanalytic theory was least developed in the matter of the major psychoses, especially schizophrenia and bipolar affective disorder. However, the central theme of psychoana- lytic thinking about the psychoses, and the schizophrenias in particular, determined that they arise from a massive failure of repression of unconscious material.
-
-From this perspective, schizophrenia symptoms are like dream-material intruding into and controlling consciousness in the waking state. Freud referred to psychosis as a waking dream. The central difference between the neuroses and the psychoses, according to Freud, was that the neurotic did not deny the existence of reality, whereas the psychotic did deny reality and tried to substitute something else for it.
-
-Freud’s extensive modiﬁcations were manufactured in order to shore up the suppositions from which the theory had originated. And for more than a hundred years, analysts in- doctrinated with Freudian theory or its various modiﬁcations directed the course of therapy to the elucidation of childhood erotic fantasies and wishes. Freud elaborated his psychoana- lytic theory, publishing extensively, until his death in 1939. Freud died in London, where he had moved from Vienna after the U.S. government intervened with the German Nazi government to permit him to do so.
+Freud rejected the possibility that in his psychoanalysis he might have led patients to report false memories of sexual seductions. Instead he concluded that the memories he had elicited were real—but not of real experiences. The memo- ries were memories of infantile fantasies of sexual seduction created because they had wished either to be seduced or to seduce. Why, if the patients had fantasized sexual seduc- tion in early childhood, had they repressed the memories of these fantasies? Freud answered this question with the further assumption that childhood sexual fantasies are always incestuous—hidden behind the fantasies of seduction were infantile wishes for erotic gratiﬁcation with their parents that led to fear of parental wrath and punishment, and so the memories of the fantasies were repressed. Freud also had to explain why neurotic patients had incestuous sexual fan- tasies, and this he did with the generalization that all young children create such fantasies. Mentally healthy individuals would show the same resistances if presented with evidence that they had once had such fantasies. To Freud, the only dif- ference between patients and nonpatients was that the analyst was in a position to bring pressure to bear on patients, so as to induce them to realize and overcome their resistances. In short, Freud claimed that criticism of his theory by others was itself evidence for the validity of the theory.

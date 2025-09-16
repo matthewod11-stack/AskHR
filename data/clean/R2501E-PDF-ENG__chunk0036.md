@@ -1,17 +1,7 @@
-# approach to innovation.
-
-A.G.’s campaign for the primacy of the consumer helped the
-
-organization focus on winning both the ﬁrst “moment of truth” (the
-
-decision to pick the product oﬀ a physical or virtual shelf) and
-
-the second (when using the product). He modeled the behavior he
-
-wished to see from all P&G leaders by personally visiting consumers
-
-wherever he traveled—including a visit to women washing clothes in
-
-a river in western China, which became legendary at the company. He
-
-championed a broader focus on the overall consumer experience at the
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67e036182b2c75ca1643355056122aa37b7d9fe7
+title: R2501E-PDF-ENG
+---
+## the shift to the now-famous and much-imitated Connect + Develop

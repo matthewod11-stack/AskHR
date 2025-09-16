@@ -1,9 +1,21 @@
-## productivity, and the overall financial performance of their company.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 0d3fb5f6d6ad5ecc553d57e649a9972d5444d86d
+title: i
+---
+# 7.Employee wellness, health, and safety
 
-The employee’s health profile of the company may be built. Employee health and safety , for
+Isson et al. (2016) postulate , in practice, companies that integrate workplace wellness and
 
-instance, in the mining industry, can be predicted by optimizing predictive models for issues
+health programs into their talent management life cycle have recognized the value. Big Data
 
-concerning which employee is more prone to accidents. Where accidents possibly happen, and
+analytics are used to showcase the effectiveness regarding financial terms, which is return on
 
-which equipment is more likely to cause incidents?
+investment (ROI) , and to optimize companies’ talent management programs. The authors also
+
+state companies under study have proven the causal relationship through the use of data
+
+analytics to evaluate the impact of their wellness programs. Their data-driven insights provide
+
+compelling evidence of the positive relationship between workplace wellness, employee

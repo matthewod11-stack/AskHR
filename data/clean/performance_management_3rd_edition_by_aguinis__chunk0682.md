@@ -1,19 +1,31 @@
-## Chapter 4 • Defining Performance and Choosing a Measurement Approach
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 198bf6f2908e5ee95511052b67058fa4c7bc1075
+title: performance_management_3rd_edition_by_aguinis
+---
+# End Notes
 
-- 14. Van Dyne, L., & LePine, J. A. (1998). Helping and voice extra-role behaviors: Evidence of construct and predictive validity. Academy of Management Journal, 41, 108–119.
+- 1. Motowidlo, S. J., Borman, W. C., & Schmit, M. J. (1997). A theory of individual differ- ences in task and contextual performance. Human Performance, 10, 71–83.
 
-- 15. Bedeian, A. G., & Armenakis, A. A. (1998). The cesspool syndrome: How dreck floats to the top of declining organizations. Academy of Management Executive, 12, 58–63. 16. Whiting, S. W., Podsakoff, P. M., & Pierce, J. R. (2008). Effects of task performance, helping, voice, and organizational loyalty on perform- ance appraisal ratings. Journal of Applied Psychology, 93, 125–139.
+- 2. Murphy, K. R., & Shiarella, A. H. (1997). Implications of the multidimensional nature of job performance for the validity of selection tests: Multivariate frameworks for studying test validity. Personnel Psychology, 50, 823–854. 3. McCloy, R. A., Campbell, J. P., & Cudeck, R. (1994). A confirmatory test of a model of Journal of performance determinants. Applied Psychology, 79, 493–505.
 
-- 17. Stone, D. L., Stone-Romero, E. F., & Lukaszewski, K. M. (2007). The impact of cultural values on the acceptance and effec- tiveness of human resource management policies and practices. Human Resource Management Review, 17, 152–165.
+- 4. Colvin, G. (2006). What it takes to be great. Fortune, 154, 88–96.
 
-- 19. Ellis, K. (2004). Individual development plans: The building blocks of development. Training, 41, 20–25.
+- 5. Edward Jones, A. G. Edwards lauded for training efforts (2002, February 20). St. Louis Business Journal. Available online at http:// stlouis.bizjournals.com/stlouis/stories/ 2002/02/18/daily31.html. Retrieval date: May 1, 2011.
 
-- 20. Daniels, A. (2005, October). Daniels’ scientific method. Workforce Management, 84, 44–45. 21. Heneman, R. L., & Thomas, A. L. (1997). The Limited, Inc.: Using strategic performance management to drive brand leadership. Compensation and Benefits Review, 29, 33–40. 22. Chang, J. (2004). Trophy value. Sales and Marketing Management, 156, 24–30.
+- 6. Borman, W. C., Penner, L. A., Allen, T. D., & Motowidlo, S. (2001). Personality predictors of citizenship performance. International Journal of Selection and Assessment, 9, 52–69. 7. Borman, W. C. (2004). The concept of orga- nizational citizenship. Current Directions in Psychological Science, 13, 238–241.
 
-- 23. Viswesvaran, C., & Ones, D. S. (2000). Perspectives on models of job performance. Journal of Selection and International Assessment, 8, 216–226.
+company and that he has the potential to become the most successful as well. However, he will need to overcome his fear of public speaking and develop his presentation skills in order to win this competition and reach his goals. Ricardo is committed to improvement and to becoming a top performer, and he understands that this will require a considerable amount of time and dedication. However, he hasn’t heard of the concept of deliberate practice and is unsure of how to get the most value out of the time he dedicates to improving his performance.
 
-- 24. Schmidt, F. L. (2002). The role of general cognitive ability and job performance: Why cannot be a debate. Human there Performance, 15, 187–210.
+- 1. Based on the concept of deliberate practice, list the five steps that lead to excellence. 2. Provide Ricardo with specific recommendations on how he can “deliberately practice” his pres- entation skills. (cid:2)
 
-- 18. The discussion of each of these approaches is based on D. Grote. The Complete Guide to Performance Appraisal (New York: American Management Association, 1996), chap. 3.
+- 8. Borman, W. C., Hanson, M., & Hedge, J. (1997). Personnel selection. Annual Review of Psychology, 48, 299–337.
 
-- 25. Smither, J. W., & Walker, A. G. (2004). Are the characteristics of narrative comments related to improvement in multirater feed- back ratings over time? Journal of Applied Psychology, 89, 575–581.
+- 9. Cascio, W. F., & Aguinis, H. (2001). The Federal Uniform Guidelines on Employee Selection Procedures (1978): An update on selected issues. Review of Public Personnel Administration, 21, 200–218.
+
+- 10. Arvey, R. D., & Murphy, K. R. (1998). Performance evaluation in work settings. Annual Review of Psychology, 49, 141–168. 11. Febles, M. (2005). The role of task and contex- tual performance in appraisal fairness and satisfaction. Unpublished doctoral disserta- tion, California School of Organizational Studies, Alliant International University, San Diego, CA.
+
+- 12. Van Scotter, J. R., Motowidlo, S. J., & Cross, T. C. (2000). Effects of task performance and contextual performance on systemic rewards. Journal of Applied Psychology, 85, 526–535.
+
+- 13. Bolino, M. C., Varela, J. A., Bande, B., & Turnley, W. H. (2006). The impact of impression-management tactics on super- visor ratings of organizational citizenship behavior. Journal of Organizational Behavior, 27, 281–297.

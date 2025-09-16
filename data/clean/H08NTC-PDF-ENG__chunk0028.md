@@ -1,19 +1,11 @@
-# the core values of their company.
+---
+source_path: H08NTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b384653d537f097b0555a48311d8b900b16e369e
+title: H08NTC-PDF-ENG
+---
+## necessities, as well as match donations by employees for disaster relief
 
-Other options you may pursue on behalf of the individual are to check
+and allow paid time oﬀ for any employee that volunteers to support
 
-whether the company can oﬀer a pay advance or loan, or even start a
-
-crowd-funding campaign to help them cover unexpected out-of-pocket
-
-expenses or administrative support to deal with personal matters.
-
-This will not only help alleviate stress but also enable them to be
-
-more present and focused when they are at work. You can also share
-
-information from the Society for Human Resources, which oﬀers a
-
-variety of resources on its website to help team members aﬀected by
-
-natural disasters navigate related ﬁnancial and insurance issues.
+relief eﬀorts. This is an example of a CEO leading with heart and living

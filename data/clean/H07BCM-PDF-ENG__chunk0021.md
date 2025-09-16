@@ -1,31 +1,37 @@
-# The Right Answer
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7af679cd1fb0d37492ab671193adb0b36850f68
+title: H07BCM-PDF-ENG
+---
+## HBR / Digital Article / What’s Stopping You from Reinventing Your Career?
 
-Our society teaches that there are “right” and “wrong” answers from
+direction of her career progress? She realized it was time to leave the
 
-our schooldays right through to the workplace. But, often, there are
+organization she had loved. Em followed her inner compass of intuition,
 
-no discernible right answers when looking out over the unknown of a
+resigned from her executive role to pursue an advanced degree in
 
-reinvented life or career. Executives who have conﬁdent replies at the
+psychology to prepare for the next step in life and have more time with
 
-ready in the context of their current roles become suddenly silent when
+her family. She tells us that stopping her overthinking about her past
 
-they’re asked about their personal futures.
+role created space for her to dare to imagine a possible future that she
 
-As a scientist, Sam had been educated to ﬁnd the right answer to the
+ﬁnds exciting and energizing.
 
-problems in front of him. After 20 years as a chemist in a large German
+If you catch yourself frequently saying “let me think that through,”
 
-ﬁrm, he started to feel ready for a change of direction and yet he found
+you are likely overthinking. Instead, notice other often-overlooked
 
-himself searching for the elusive right answer to what that direction
+sources of data — emotional and intuitive — and take an experimental
 
-should be. As a result, he remained in his role despite the feeling within
+approach. Personal reinvention is best served by doing, rather than
 
-him that something needed to shift.
+thinking: Trying things out and learning from the outcome. Attention to
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+physical cues, your intuition about how the experiment worked, as well
 
-5
+as others’ reactions can provide sources of data that can help you get out
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of the overthinking trap.

@@ -1,31 +1,33 @@
-# into it.
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a581f3e4db1af280ef7f855cd43cb61073552c61
+title: H07DLJ-PDF-ENG
+---
+# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
-I think for me, I really taught myself. I would force myself to speak.
+ADI IGNATIUS:
 
-I would grade myself, I would count how long I’d speak, how much I
+You written and talked about how you’re an introvert, and I’d love to
 
-spoke. And eventually it got me to a level of comfort. I had multiple
+hear a little bit about how you’ve made it as an introvert in a world that
 
-speaking coaches, and it did take a lot of time to get here. But I think
+seems to demand extroversion.
 
-that’s a reminder that almost anything is teachable.
+DEB LIU:
 
-The thing I hope, though, is that we don’t have to conform ourselves to
+I don’t know if you’ve read Susan Cain’s book, Quiet, but the world has
 
-what leadership looks like today. I hope that there are more ways that
+a huge bias that we don’t talk about, which is towards people who are
 
-people think leaders could look like. That there can be quiet leaders,
+extroverted, who don’t need time to process, who are able to speak on
 
-extroverted leaders. There can be leaders who lead in diﬀerent ways,
+any topic on a dime, and be comfortable in all circumstances. And that
 
-and that we can honor all of those things. But in the meantime, we do
+was not me for a long time, and it took me a long time to get to here. I
 
-have a model of leadership that is strongly biased towards extroversion.
+worked very hard at it. But I had to work at it like it was a skill, like it was a second language. It does not come natural to me. It is very diﬃcult for
 
-And that’s something which I felt like I needed to conform and learn.
+me to speak. And yet at the same time, by treating it as a skill, I believe
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you can learn almost anything, if motivated and you put enough time

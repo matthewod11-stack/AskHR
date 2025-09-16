@@ -1,29 +1,23 @@
-# : The extent to which a culture avoids
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0e2b6bb5b21a93e5ba808591c8ec58ffa8a065be
+title: industrial_organizational_psychology_an_applied_approach
+---
+# 7
 
-: The extent to which power is unequally shared
+7 7
 
-: The extent to which a culture encourages collective
+7
 
-: The extent to which individuals express pride in
+7
 
-: The extent to which a culture tries to minimize
+7
 
-: The extent to which individuals in a culture are assertive
+7
 
-: The extent to which a culture plans for and invests
+7
 
-: The extent to which a culture encourages and
+7
 
-: The extent to which a culture encourages and
-
-A comparison of data from  nations revealed that each nation could be placed into one of ten clusters (Gupta, Hanges, & Dorfman, ). These clusters are shown in Table ..
-
-Project GLOBE researchers also determined that six main leadership styles distinguish cultures: charismatic, self-protective, humane, team oriented, par- ticipative, and autonomous (Den Hartog, House, Hanges, Ruiz-Quintanilla, & Dorfman, ). A charismatic style involves vision, inspiration, integrity, and a performance orientation. A self-protective style involves following procedure, emphasizing status differences, being self-centered, and saving face. A humane style involves being modest and helping others. A team-oriented style involves being collaborative, building teams, and being diplomatic. A participative style
-
-leadership
-
-463
-
-s e g a m
-
-y t t e G / c s i D o t o h P ©
+Uncertainty avoidance uncertainty by using social norms and rituals Power distance Social collectivism distribution of resources In-group collectivism their organizations and families Gender egalitarianism differences in gender roles and prevent discrimination Assertiveness and challenging in social relationships Future orientation in the future Performance orientation rewards improvement in performance Humane orientation rewards people for being fair, caring, and giving

@@ -1,15 +1,27 @@
-## Chapter 10 • Reward Systems and Legal Issues
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 81b4a03c5b2f25797ade5b661b1b344ec005e4d7
+title: performance_management_3rd_edition_by_aguinis
+---
+# 10.4 SELECTING A CONTINGENT PAY PLAN
 
-defined roles. Examples of systems that work well in organizations with involvement cultures are the following:
+Assuming an organization wishes to implement a CP plan, what should the plan look like? Recall the discussion of various forms of compensation provided in Chapter 1. What considerations should be taken into account in choosing, for example, among offering employees group incentives, profit sharing, or individual sales commissions? A critical issue to consider is that of organizational culture. An organization’s culture is defined by its unwritten rules and procedures. For example, is the organization funda- mentally built around individual performance, or is teamwork the norm? Is the organi- zation one in which high-level performers are regarded as role models who should be emulated, or are they viewed as a threat to upper management?19 Are we happy with the current culture, or do we wish to change it? CP plans are powerful tools that help solidify the current culture, and that can be used to create a new type of culture. There should be a careful consideration of the culture of the organization before a specific type of CP plan is selected.
 
-- Profit sharing.
+Consider the types of systems that can be implemented in cultures that we can label traditional or involvement cultures. Traditional cultures are characterized by top-down decision making, vertical communication, and clearly defined jobs. What type of plan should be implemented in organizations with this type of culture? An effective choice would be a plan that rewards specific and observable measures of performance, where that performance is clearly defined and directly linked to pay. Examples of such CP systems are the following:
 
-Employees are paid based on the performance of a group (e.g., team or unit) and on whether the group has exceeded a specific financial goal. This type of system is implemented in many large law firms.
+- Piece rate.
 
-- Skill-based pay.
+Employees are paid based on the number of units produced or repaired. This system is usually implemented in manufacturing environments. In service organizations, this could involve the number of calls made or the number of clients, or potential clients, contacted. This system is usually implemented in call centers.
 
-Employees are paid based on whether they acquire new knowledge and skills that are beneficial to the organization. This type of system is usually implemented in knowledge-based organizations such as software devel- opment companies.
+- Sales commissions.
 
-In addition to the organization’s culture, an important consideration in selecting a CP plan is the organization’s strategic direction. Strategy is not only a key element in designing the performance management system, but it is also a key element in designing a CP plan. Table 10.2 includes a selected list of strategic objectives and CP plans that are most conducive to achieving the objective.
+Employees are paid based on a percentage of sales. This
 
-According to Table 10.2, if employee development is a key strategic priority, rewards should emphasize new skills acquired. If customer service is a priority, then rewards should emphasize competencies related to customer service and gain sharing. Gain sharing links individual and group pay to an organization’s overall profitability: The greater the organization’s overall profit, the greater the rewards given to individuals and teams in the organization. In this case, gain sharing would be based on whether customer service ratings improve during the review period. If the major goal of the CP plan is to increase the organization’s overall profit, choices include executive pay and profit or stock sharing. Executive pay includes cash bonuses that are given in response to success- ful organizational performance. Usually, however, executive pay includes company stock to ensure that executives’ activities are consistent with the shareholders’ interests and to encourage executives to tend to the long-term performance of the organization. This is also called profit sharing, although profit sharing is usually short term and focused on organizational goals while stock sharing and executive pay are more long term.
+system is usually implemented in car dealerships.
+
+- Group incentives.
+
+Employees are paid based on extra group production based on result-oriented measures (e.g., sales volume for the group). This system is implemented frequently in the retail industry.
+
+Involvement culture is different from traditional culture. Organizations with involvement cultures are characterized by shared decision making, lateral communications, and loosely

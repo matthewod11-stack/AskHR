@@ -1,17 +1,13 @@
-# else.
+---
+source_path: H08TT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90e934033fa7157cababea5f7d6fc4a1d9678c50
+title: H08TT4-PDF-ENG
+---
+## HBR / Digital Article / 5 Ways Leaders Can Communicate Power
 
-Owning failure signals power. When we take responsibility, we signal our ability to ﬁx the problem and better manage future scenarios.
+the ﬁrst 737 Max crash, rather than acknowledging aircraft design ﬂaws.
 
-In July 2024, cybersecurity company CrowdStrike faced a crisis when
+Both were ousted from their positions.
 
-a faulty software update led to widespread IT disruptions. CEO George
-
-Kurtz quickly took responsibility, stating:
-
-I want to sincerely apologize directly to all of you for today’s outage. All
-
-of CrowdStrike understands the gravity and impact of the situation. We quickly identiﬁed the issue and deployed a ﬁx…
-
-His prompt ownership of the situation and transition to corrective
-
-action showcased strong leadership and helped defuse further backlash.
+Blame and deﬂection signal weakness because they convey incapability to inﬂuence a situation. The fault (and therefore power) is with someone

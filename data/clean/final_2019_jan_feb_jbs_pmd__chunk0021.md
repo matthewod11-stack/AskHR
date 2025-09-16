@@ -1,3 +1,11 @@
-# Neha Anand* Assistant Professor, Vivekananda Institute of Professional Studies, GGSIPU
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: c8d1849df33c6dfafa74cd1f6c38c5b165d52b80
+title: final_2019_jan_feb_jbs_pmd
+---
+# Exchange Rate.
 
-countries, which are of economic significance in th e process of Global Transformation. It was seen that FDI inflow in south Asian countries was $470billion in 2018. In 2017, FDI flow witnessed a descending trend; global flows of foreign direct investment (FDI) fell by 14% in 2017 to an estimated $1.52 trillion. As a result of higher expected FDI growth in developed countries, the regional distribution of FDI may tile back towards the developing countries in the global inflow. FDI flow of developing economies reached to 46% of global inflow, developing Asia (33%) continues to be the region with highest FDI inflow significantly above European Union (21%) traditionally the region with the highest share of global FDI. FDI inflow was up also in the other major developing regions, Africa (3%) and Latin America and the Caribbean (10%). Although FDI to developed economies resumed its recovery path after the steep fall in 2012, it remained at a historically low share of the total global FDI flow (49%) and still 57% below its peak in 2007. Thus developed countries maintained their lead over developing countries. Developing economies and transition economies now constitute
+- 1. Introduction
+
+The world experienced a massive transformation process of globalization in terms of economic production and investment. The role of investment (FDI) in the process of transformation is very decisive. FDI has become a principle criterion of economic development in both developed and developing countries. FDI is defined as an ‘investment involving a long-term relationship and reflecting a long-lasting interest and control by a resident entity of one country of an enterprise resident in a different economy’. FDI influences the income, prices, production, employment, development and economic growth and general welfare of the South Asian countries. The benefit of FDI can be in the form of knowledge and technology spillover, employment generation and enterprise development. FDI going in and out of these emerging and transition economies like Sri Lanka, Pakistan, India, Bhutan, Afghanistan, Nepal, Maldives and Bangladesh collectively known as South Asian

@@ -1,41 +1,21 @@
-## labor bargaining, diplomatic relations, etc.)
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 968b27598af608dde826888bed06646748f88c93
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Does not apply Very minor Low Average High Extreme
 
-101
+4.1 Communications Rate the following in terms of how important the activity is to the completion of the job. Some
 
-Persuading (dealing with others in order to influence them toward some action or point of view,
+jobs may involve several or all of the items in this section.
 
-for example, selling, political campaigning, etc.)
+99
 
-102
+4.1.1 Oral (communicating by speaking) Advising (dealing with individuals in order to counsel and/or guide them with regard to
 
-Instructing (the teaching of knowledge or skills, in either an informal or a formal manner, to others, for example, a public school teacher, a machinist teaching an apprentice, etc.)
+problems that may be resolved by legal, financial, scientific, technical, clinical, spiritual, and/or other professional principles)
 
-103
+100
 
-Interviewing (conducting interviews directed toward some specific objective, for example,
-
-interviewing job applicants, census taking, etc.)
-
-104
-
-Routine information exchange: job related (the giving and/or receiving of job-related
-
-information of a routine nature, for example, ticket agent, taxicab dispatcher, receptionist, etc.)
-
-105
-
-Nonroutine information exchange (the giving and/or receiving of job-related information of a nonroutine or unusual nature, for example, professional committee meetings, engineers discussing new product design, etc.)
-
-106
-
-Public speaking (making speeches or formal presentations before relatively large audiences,
-
-for example, political addresses, radio/TV broadcasting, delivering a sermon, etc.)
-
-4.1.2 Written (communicating by written/printed material)
-
-107
-
-Writing (for example, writing or dictating letters, reports, etc., writing copy for ads, writing
-
-newspaper articles, etc.: do not include transcribing activities described in item 43, but only activities in which the incumbent creates the written material)
+Negotiating (dealing with others in order to reach an agreement or solution, for example,

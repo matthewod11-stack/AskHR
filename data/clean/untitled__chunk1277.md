@@ -1,3 +1,13 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1cdfdb62ce59caddf54476deef3f83636e2e686b
+title: untitled
+---
+# A GLANCE INTO THE FUTURE
 
-organized and would represent the levels of analysis that are intrinsic to different areas of development, just as we have longrecognizedthatbiological,biochemical,andsociallevels of inquiry may each have its own set of integrative principles (Sameroff, 1994). Multiple integrative approaches may be neededtocoverdifferentpartsofthedevelopmentterrain.The goal is to retain the advances that our retreat to minitheories has brought but, at the same time, to begin to put the “whole child” back together again. Our forebears had the vision to see this as the goal, and we should be in a better position to achieve it now than they were a century ago.
+Where are we going next? Today, a proliferation of minithe- ories has replaced single dominant positions or theoretical frameworks, and each of these smaller-scale theories ac- counts for a limited set of issues. This domain-speciﬁc nature of theory is one of the hallmarks of our current state of the ﬁeld. It represents a disenchantment with grand theories both of a century ago and of our more recent past. Part of the rea- son for the current proliferation of smaller and more modest paradigms is the lack of a new overarching paradigm to re- place the disfavored grand theories.
+
+The next stage of our development as a ﬁeld involves the creation of such a new overarching paradigm or framework to help us with our integrative efforts. There are signs that a new integration may be emerging in the form of a systems perspective that will bring together biological, social, cogni- tive, and emotional minitheories into a more coherent frame- work (Fogel & Thelen, 1987; Sameroff, 1994). Although the promise of a general dynamic systems theory is appealing and has been applied with considerable success to the motor development domain, especially by Thelen (1989), it remains to be seen whether the stringent requirements of this ap- proach for precise parameter estimation and measurement can be met in other domains (Aslin, 1993). Whether we have reached the stage of being able to quantify social behavior or children’s theories of mind with sufﬁcient precision to make this approach useful, beyond being merely metaphoric, is an open question.
+
+We are cautiously optimistic that a systems approach is a promising one and has proven useful both in organizing data and in pointing to new research directions in recent family research, as well as in research on the organization and func- tioningofsocialcontexts.Perhapsweneedtodevelopafamily of systems-theory integrations that would be hierarchically

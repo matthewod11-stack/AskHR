@@ -1,29 +1,37 @@
-# and quiet rest areas.
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fac6f4ca853108e9556599fddbd63563f44c3f3f
+title: H087FX-PDF-ENG
+---
+## HBR / The Big Idea / Long Covid at Work: A Manager’s Guide
 
-- Accommodating limited “uptime.” Some people with long Covid
+enabling employees to swap shifts with their colleagues (a practice that
 
-struggle with uptime: They’re able to stand or sit for a limited number
+workers resoundingly appreciate).
 
-of hours (or even minutes in some cases) but may be able to work for hours lying down. When it’s possible to oﬀer in-oﬃce supine
+- Eﬃcient work processes and tools. Let employees align their work
 
-workstations or rooms where employees can meditate or nap, that may be an eﬀective accommodation; when it’s not, companies should
+with their energy levels by providing asynchronous collaboration tools
 
-consider allowing partial or total remote work.
+and minimizing unnecessary meetings. Ask people what would make
 
-Skill development and training. Provide training options that
+work easier for them — for example, having access to work-related
 
-accommodate energy and symptom ﬂuctuations. Lengthy in-person
+phone apps that can be used while lying down.
 
-sessions can be exhausting, but so can ones that require sitting for hours
+Workplace design. Inexpensive adjustments to the physical workspace can make a signiﬁcant diﬀerence. These could include:
 
-or progressing at a set pace. Flexible learning will include options for
+- Improving indoor air quality. Better ﬁltration or windows that can
 
-in-person, video, or text-based work, allowing participants to control
+be opened are useful here.
 
-the length and speed of sessions. Do not use “time spent” or “pace”
+- Providing seating for roles typically performed standing. Cashiers,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+for instance, do not need to stand. In an oﬃce or a factory, you might
 
-10
+have a room with a couch, pillows, and/or a yoga mat that employees
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+can easily reserve for breaks.
+
+- Oﬀering basic resources. Ensure easy access to hydration, restrooms,

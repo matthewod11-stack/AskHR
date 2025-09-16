@@ -1,29 +1,31 @@
-# decision responsibility.
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3779bccc3d62c36b63b4842a445f779df24de1c2
+title: H08DAJ-PDF-ENG
+---
+## and for the other half, it concerned bonuses (a positive one). The
 
-We hypothesized that when a potential decision lies squarely within
+participants then indicated how fair they felt the requester was.
 
-someone’s wheelhouse, the request to make it would seem more
+When the decision concerned layoﬀs, we again found that decision
 
-legitimate and be viewed as more fair. For example, in one study we
+delegation (versus advice seeking) was interpersonally costly, yielding
 
-asked participants to imagine that they worked in a bank, and that their
+a lower willingness to provide help with future decisions. Yet when the
 
-manager was delegating the decision for a location for a new branch. We
+decision concerned bonuses, there was no cost of decision delegation;
 
-found that participants perceived such delegation as fairer when their
+those who were delegated to were equally willing to provide future
 
-assigned role was responsible for real-estate decisions compared with
+decision support as those asked for advice. We further found this
 
-when their role was in charge of employee beneﬁts.
+diﬀerence related to people’s perceptions of fairness: delegating a
 
-Limit the potential consequences to colleagues.
+positive decision seemed fairer than delegating a negative one.
 
-Finally, managers may be able to avoid the interpersonal costs of
+Give employees responsibility for decisions that fall within their roles.
 
-decision delegation when the decision primarily aﬀects the delegate
+Managers can also avoid the interpersonal costs of decision delegation
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+when there’s a contextual reason why it may make sense to transfer

@@ -1,1 +1,21 @@
-## dialogue rather than data, interactional monitoring fosters trust and
+---
+source_path: H08MJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09856a22109e36093609beb598b012a243144670
+title: H08MJK-PDF-ENG
+---
+## through virtual meetings, phone calls, and video conferences. These
+
+conversations provide a space for remote employees to share updates,
+
+discuss challenges, and align on goals. For example, a manager might
+
+schedule weekly one-on-one video calls with each direct report to check
+
+in and garner progress updates.
+
+Our study found that remote workers experiencing interactional
+
+monitoring reported that they tend to speak up and voice their
+
+ideas and suggestions for improving the organization. By focusing on

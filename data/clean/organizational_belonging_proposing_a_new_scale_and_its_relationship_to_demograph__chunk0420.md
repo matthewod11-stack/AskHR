@@ -1,1 +1,17 @@
-# Using
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 905a9e501a6a9dc709527c6b5c247b6446dce7a8
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# JOURNAL OF WORKPLACE BEHAVIORAL HEALTH
+
+Frequency analyses Table 1 reports the frequencies and percentages for nominal demographic and organization variables. Table 1 shows more participants were male, White, and Christian with a broad categorization of position level/roles.
+
+Factor analysis of 27 OB items Table 2 presents the results of the Exploratory Factor Analysis (EFA). The following criteria were used (Costello & Osborne, 2005): principal compo- nents method; eigenvalues greater than 1, scree test, and varimax rotation, to create more independent factors. The principal components method was used because there were no a priori assumptions about how the items would be related. The sample to items ratio was 5.2 to 1 (141: 27) which met the minimum recommended ratio of 5:1 (Suhr, 2006). There was some missing data, i.e., 19 out of 160 respondents (12%). Both the eigenvalue greater than 1 and scree tests suggested a seven-factor solution, with 73% of the variance accounted for.
+
+There were double item loading complications (cross factor loadings of at least 0.40) on seven italicized items (#6, 10, 13, 16, 23, 24, 26), so these items were deleted. In addition, two italicized items (#1, 20) were the only items to load cleanly on a factor (#1 on Factor 6; #20 on Factor 7), so both were deleted. The more general “work” referent and not “this organization” may have contributed to item #1 not loading on Factor #4 (Bussing, 2002). Deleting nine items left 18 items, across five factors. These factors were then interpreted to mean (included items): Be Myself(cid:2)7 Items (# 11, 14, 15, 17, 18, 21, 22); Acceptance(cid:2)4 items (# 2, 3, 4, 5); Diversity Valued(cid:2)3 items (#7, 9, 27); Connection(cid:2)2 items (# 12, 25) and Safety(cid:2)2 items (#8, 19).
+
+Beavers et al. (2013, p. 3) have argued that the size of the factor loadings is also important to consider, beyond sample size, in assessing the reliability of the factor analytic solution, “if a factor has four or more loadings of 0.60 or higher, sample size is not relevant versus the factors that have 10– 12 items that load moderately (0.40 or higher), then a sample size of 150 or more is needed to be confident in the results.” Closer inspection of the factor loadings on each named factor in Table 2 shows that using this 0.60 loading criterion, Be Myself has 6 of 7 loadings; Acceptance has 3 of 4 load- ings; Diversity Valued has 2 of 3 loadings; Connection has 2 of 2 loadings; and Safety has 2 of 2 loadings of at least 0.60 or greater. The overall strength of these loadings on each factor gives more confidence in the reli- ability of this factor solution.
+
+following coefficient alpha reliability estimates for each factor were then found: Be Myself(cid:2)0.89; Acceptance(cid:2)0.84; Diversity Valued(cid:2)0.71; Connection(cid:2)0.83;

@@ -1,13 +1,37 @@
-## diﬀerent” and value professional expertise.
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1811fbda2b3eb2d52c5da0eb2781672de4166506
+title: R2501H-PDF-ENG
+---
+## The title of a central chapter, “Let the Inmates Run the Asylum,”
 
-It’s worth noting that while many CEOs are uneasy being champions
+captures challengers’ view of organizations and their intent in them.
 
-of this approach themselves, they do want it to be represented on their
+The learning initiatives Bock describes throughout the book are all
 
-teams, so they hire challengers but don’t give them enough support.
+based on one principle: The more freedom leaders provide and the more
 
-That kind of ideological tokenism is a recipe for failure. And like
+attention they put on the growth and aspirations of each individual, the
 
-custodians, challengers can fall out of favor when their work is no longer
+more attractive a company becomes to talent and the more likely that
 
-seen as constructively questioning the status quo but, rather, as a costly
+talent is to have new ideas and turn them into breakthrough products.
+
+Bock’s approach worked wonders for Google at a time when the
+
+company was set on building an innovation engine and competed
+
+ﬁercely for talent. But those are not the only circumstances in which it
+
+works. Challengers are most successful and satisﬁed in companies that
+
+are hungry for change. Those could be ﬁrms in which strong traditions
+
+or a stretch of success has made people cautious or complacent. In
+
+such circumstances challengers have the most impact and experience
+
+the fewest clashes with their executive teams. The most successful
+
+challengers are often protégés of CEOs or CHROs who want “something

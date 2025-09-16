@@ -1,9 +1,23 @@
-## sion-making strategy. Social Cognition, 2, 18–31.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 2ac0689f574f6468a05dc1f3e0879c8a268f03ae
+title: barrickryan_eds_personality_and_work
+---
+# 56 PERSONALITY AND WORK
 
-Judge, T. A., Erez, A., & Bono, J. E. (1998). The power of being positive: The relation between positive self-concept and job performance. Human Performance, 11, 167–187.
+Hertel, G., Neuhof, J., Theuer, T., & Kerr, N. (2000). Mood effects on co- operation in small groups: Does positive mood simply lead to more cooperation? Cognition and Emotion, 14, 441–472.
 
-Judge, T. A., Locke, E. A., & Durham, C. C. (1997). The dispositional causes of job satisfaction: A core evaluations approach. Research in Organizational Behavior, 19, 151–188.
+Hirt, E. R., Melton, R. J., McDonald, H. E., & Harackiewicz, J. M. (1996). Processing goals, task interest, and the mood-performance rela- tionship: A mediational analysis. Journal of Personality and Social Psy- chology, 71, 245–261.
 
-Judge, T. A., Thoresen, C. J., Bono, J. E., & Patton, G. K. (2001). The job- satisfaction–job performance relationship: A qualitative and quan- titative review. Psychological Bulletin, 127, 376–407.
+Hom, H., & Arbuckle, B. (1988). Mood induction effects upon goal set- ting and performance in young children. Motivation and Emotion, 12, 113–122.
 
-King, L. A., & Napa, C. N. (1998). What makes a life good? Journal of Per-
+Howard, A. (1995). A framework for work change. In A. Howard (Ed.),
+
+The changing nature of work (pp. 3–44). San Francisco: Jossey-Bass.
+
+Iaffaldano, M. T., & Muchinsky, P. M. (1985). Job satisfaction and job per- formance: A meta-analysis. Psychological Bulletin, 97, 251–273. Isen, A. M. (1970). Success, failure, attention and reaction to others: The warm glow of success. Journal of Personality and Social Psychology, 15, 294–301.
+
+Isen, A. M., Johnson, M. M., Mertz, E., & Robinson, G. F. (1985). The in- ﬂuence of positive affect on the unusualness of word associations. Journal of Personality and Social Psychology, 48, 1413–1426.
+
+Isen, A. M., & Means, B. (1983). The inﬂuence of positive affect on deci-

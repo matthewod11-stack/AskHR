@@ -1,7 +1,15 @@
-# negative interpersonal interactions.
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d843d3f602c22d6b6c6b982f487202f81774636
+title: R2504D-PDF-ENG
+---
+# resilience, for instance.
 
-The Nobel Peace Prize winner Martti Ahtisaari’s work on the Aceh Peace Process in Indonesia after the devastating 2004 tsunami oﬀers
+Business leaders can adopt this approach by designing meaningful joint
 
-a good example. The disorder and distress following the disaster
+ventures that bring people together. Such projects promote positive
 
-could have deepened the decades-long conﬂict between the Indonesian
+engagement and build a rapport that can endure, and even grow, during
+
+moments of tension. The goal is to establish a high ratio of positive to

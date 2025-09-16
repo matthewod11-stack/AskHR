@@ -1,5 +1,21 @@
-# sem
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: f414594b69920b886e752786b445d314d05f4553
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## MENDONÇA; 2019). O movimento da psicologia positiva fez com que diferentes
 
-desconsiderar os fatores ou desfechos negativos do trabalho, importantes ganhos
+conceitos ganhassem espaço no campo científico,
 
-dos estudos sobre insatisfação laboral, Burnout, violência no trabalho, dentre outros,
+tais como resiliência,
+
+engajamento,
+
+florescimento,
+
+gratidão,
+
+compaixão,
+
+otimismo, perdão,

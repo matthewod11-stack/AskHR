@@ -1,23 +1,43 @@
-# term beneﬁts to performance.
+---
+source_path: H07WF3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3fa874681e6db235a372476d09a5e5c1f2a42de6
+title: H07WF3-PDF-ENG
+---
+## them for positive or negative sentiment, and extract key themes. Similar
 
-While we think these parallels between athletic and cognitive
+to performance-enhancing sneakers, in this case AI can accelerate
 
-capabilities are apt, there are important diﬀerences between the two
+an analyst’s capabilities in the moment, while still allowing for their
 
-domains. Whereas in sports the three relationships of steroids, sneakers,
+human judgment, curiosity, and creativity to be applied.
 
-and coaches are all quite distinct, they are much less so when it comes
+On the most desirable end of the spectrum, AI-powered tools can be
 
-to AI-powered tools, many of which are small variations on the same
+used like a coach that improves people’s own capabilities. Consider
 
-underlying technology. As a result, the choices we make in terms of
+an IT professional who is studying to pass a certiﬁcation test for a
 
-how we design and use these tools can shift them from one end of the
+new, complex system. An LLM that has been trained on the system’s
 
-spectrum to the other. Likewise, the norms we develop and how our
+documentation could interactively generate practice questions as the
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+professional gains competence and provide personalized feedback as it
 
-3
+teaches advanced concepts. Ultimately this would help the professional
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+stretch their understanding of the subject matter and develop new skills
+
+that last beyond just the time spent using the AI-powered tutor.
+
+Our own research has shown similar beneﬁts for learning new math
+
+concepts. In a randomized experiment we ran online, we found
+
+that giving people access to LLM-based explanations while practicing
+
+standardized test problems led to sizable improvements in their ability
+
+to later solve similar test problems on their own. Much like a sports
+
+coach, AI tools that teach could potentially provide both short and long-

@@ -1,13 +1,23 @@
-## four months, but in the end, collaboration and synergy dramatically
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa82a6d8470e64ed9a029f2b149e45ee4851882c
+title: H08PFQ-PDF-ENG
+---
+# believe in.
 
-improved.
+During one recent global transformation I worked on, three executives
 
-To strengthen cross-functional collaboration:
+leading critical adjacencies—data analytics and AI, cybersecurity,
 
-- Pair executives from diﬀerent functions to co-lead initiatives, with
+and information technology—had been contending with signiﬁcant
 
-shared ownership over outcomes and messaging.
+boundary conﬂicts in their departments. The executives went on a
 
-- At the start of each leadership meeting, ask one function to brieﬂy
+worldwide roadshow to meet with their teams, model alignment, and
 
-describe how a current enterprise-wide issue is impacting them. This
+help increase understanding of how the teams would collaborate.
+
+Instead of presenting their own department’s contribution, they each
+
+presented each other’s, signaling their shared ownership. It took

@@ -1,7 +1,11 @@
-# teaming and the collective eﬀort.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56cb62fb5397a09743692ffb3c39cc8be8e57395
+title: H07QOV-PDF-ENG
+---
+## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
 
-AMY EDMONDSON:
+where management becomes hyper-personalized, but I think maybe
 
-It’s almost as if we’ve lost sight of tensions and trade-oﬀs. There will
-
-always be a tension between me and we, right? There will always be a
+you’re already on to the risks in that, which is losing the sense of the

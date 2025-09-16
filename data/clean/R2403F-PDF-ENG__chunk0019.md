@@ -1,41 +1,15 @@
-# HBR / Magazine Article / HR’s New Role
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 132cd24e95ecad00f839b69888dd07048f9a2e6c
+title: R2403F-PDF-ENG
+---
+## management with data on the costs of turnover and the beneﬁts of
 
-to ﬁnd out what drove turnover and successful hiring. On the basis of
+retention and leveraged “voice of the customer” tools from marketing
 
-that information, the company introduced generous paid parental and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-family leave for all its associates, which was rare in retail but would be
+5
 
-especially valuable to its mainly female workforce, and allowed many
-
-jobs to continue to be remote after the pandemic. Severson also got
-
-the company to stop outsourcing recruiting by showing that it could be
-
-done better and more cheaply in-house.
-
-Such companies are the exception, however. At thousands of ﬁrms, a
-
-lack of information continues to drive job cuts and decisions to put oﬀ
-
-ﬁlling open positions. Executives announce restructurings and layoﬀs
-
-because they think investors like them. But even when these sweeping
-
-plans aren’t carried out, they panic employees, causing them to freeze
-
-up and start looking for jobs elsewhere. Recent evidence has shown that
-
-cutting head count deep and early, the typical advice when earnings fall, leads to worse ﬁnancial performance because of the diﬃculty of staﬃng
-
-up again. (Meta and other tech companies that had layoﬀs in early
-
-2023 in response to investor pressure announced hiring plans a few
-
-months later.) And research by Ciao-Wei Chen and Laura Yue Li of the
-
-University of Illinois at Urbana-Champaign shows that leaving positions
-
-open also can have signiﬁcant costs. They found that a one-standard-
-
-deviation increase in the length of job vacancies was associated with 5%
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

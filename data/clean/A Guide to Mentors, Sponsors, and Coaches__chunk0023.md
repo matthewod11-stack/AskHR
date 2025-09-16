@@ -1,1 +1,15 @@
-# 9/10/25, 9:47 AM
+---
+source_path: A Guide to Mentors, Sponsors, and Coaches.md
+pages: n/a-n/a
+chunk_id: 9ffb4376e50936afeb0753019b1c0e896bd8f1c6
+title: A Guide to Mentors, Sponsors, and Coaches
+---
+## A Guide to Mentors, Sponsors, and Coaches
+
+https://hbr.org/2024/01/a-guide-to-mentors-sponsors-and-coaches
+
+9/11
+
+A post shared by HBR Ascend (@hbrascend)Mentors and sponsors are invaluable resources — but sometimes,you need to bring in a professional. That’s where career coachescome in. A career coach is someone who specializes in listening tothe questions, doubts, and ideas you have about your current roleor your future career path. While mentors can offer youperspectives based on their personal experiences, coaches areresponsible for helping you define specific goals and giving youthe tools and resources you need to overcome the obstaclesstanding in your way.So, is a career coach right for you? Authors Yasmina Khelifi andIrina Cozma share some signs that you might be ready for one intheir article, “
+
+The Right Time to Get Yourself a Career Coach”:1. You feel frustrated by your current work and level ofachievement. Perhaps you’re successful at work, but you knowyou can accomplish more. Why aren’t you the one to lead thatnew innovative project? Why aren’t you selected to present atthe next conference? Why aren’t you getting promoted?2. You want to switch career paths. Maybe you have long-heldcareer dreams that you’ve had to put oﬀ for ﬁnancial, family, orsocial reasons. Maybe you’ve stayed in this job because it feelsstable. Now you’re in a better position to make a move, but youdon’t know where to go or how to make a switch.3. You feel uncertain about your future. What do you plan todo in three years? You’ve been asked this question duringinterviews and year-end reviews, but you’re confused anddon’t know what your next steps should be. A career coach

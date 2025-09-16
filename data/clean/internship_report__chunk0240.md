@@ -1,5 +1,7 @@
-## ‘We Do Not Want To Harm People or The Environment’
-
-To achieve this vision, we Karnaphuli are committed to the following:
-
-- Safety, health, care for the environment and quality are a pre-requisite to any business we
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 7f9b24ec7a4ae6ef94b966f913592afbe03f8bcf
+title: internship_report
+---
+# K. Safety & Security:

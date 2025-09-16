@@ -1,3 +1,9 @@
-# Possibility for Growth
+---
+source_path: microsoft_word_9_herzberg_s_motivation_theory_in_workplace.md
+pages: n/a-n/a
+chunk_id: a66f2399ce346be0e6a8977c3b71f17acb23e5db
+title: microsoft_word_9_herzberg_s_motivation_theory_in_workplace
+---
+# The Work Itself
 
-Possibilities for growth are the actual opportunities for a person to experience personal growth and be promoted in the workplace. This allows professional growth, increased chances to learn new skills, undergo training in new techniques, and gain new professional knowledge.
+The actual content of job tasks and assignments has either a positive or a negative effect upon employees. Whether the job is too easy or too difficult, interesting or boring, can impact satisfaction or dissatisfaction of employees in the workplace.

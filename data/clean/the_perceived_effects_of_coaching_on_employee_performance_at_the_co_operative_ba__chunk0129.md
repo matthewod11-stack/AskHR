@@ -1,17 +1,15 @@
-# leadership and personal effectiveness.
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 9e698230424dd8d8905bf5f83fcaacbc7e6e43f9
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# success.
 
-There is a tendency to resort to using resources within the organization (developing
+The coaching programs have impacted positively on employees and facilitated
 
-training courses and using existing internal coaches to provide the training) when
+behavioural changes in some key leadership competencies, such as self-awareness,
 
-training internal coaches. The results of this survey suggest that, individual
+emotional intelligence and strategic thinking. Participants reported that coaching
 
-productivity and engagement should be assessed, given their stronger association
-
-with coaching success.
-
-The results of this survey suggest that, individual productivity and engagement is
-
-evaluated through regular meetings with the employees to review their progress
-
-against set objectives.
+impacted on their focus, goal setting and self-confidence which are associated with

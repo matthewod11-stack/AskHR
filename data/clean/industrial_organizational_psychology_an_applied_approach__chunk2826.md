@@ -1,7 +1,13 @@
-## Tactical Style in a Climate of Disorganization
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 506a82c661c03f87ba093bb968b2ca6dd04a8f87
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Coercive Style in a Climate of Crisis
 
-A leader with a tactical style leads through the use of strategy and is most effective in a climate of disorganization. A good example is a class that breaks into small groups to complete an assignment. Ideally, every student knows the material well enough to complete the assignment, but normally there is a limited amount of time and too much work to do. The person who becomes the leader is the one who is best able to organize the group.
+A person using the coercive style leads by controlling reward and punishment and is most effective in a climate of crisis. Such a leader will often use statements such as “Do it or you’re fired” or “If you can get the package there on time, I will have a little something for you.” This style is typical in war. If soldiers disobey an order, an officer can have them shot. Conversely, if soldiers behave with bravery and distinction, an officer can reward them with a medal or promotion.
 
-Becoming an Eff ective Leader According to IMPACT Theory If IMPACT theory is correct, people can become effective leaders by one of the four methods shown in Table .. The first is by finding a climate that is consistent with their behavioral style. This method, however, involves either a great deal of luck or a lot of patience, as the leader must be in the right place at the right time.
+Mulder, de Jong, Koppelaar, and Verhage () found support for the situa- tional appropriateness of coercive styles of leadership. They studied the behavior of bankers whose leadership styles had been measured by the Influence Analysis Ques- tionnaire. Mulder and his colleagues found that in crisis situations, bankers tend to use more formal and coercive types of power than they do in noncrisis situations.
 
-In the second method, leaders change their style to meet a particular climate. That is, if the climate is one of ignorance, individuals change their behavior and use information to lead. On the other hand, if the climate is one of despair, indi- viduals become more outgoing and positive. Thus, people who are willing to adapt their behavior and who have the ability to “play” each of the six leadership styles should be effective leaders.
+The importance of leaders’ use of reward and punishment was best dem- onstrated in a series of studies by Komaki (). Komaki and her colleagues observed a wide range of managers/leaders including police sergeants, sailboat skippers, construction supervisors, and investment bankers and concluded that the best managers complimented and rewarded their employees/ subordinates who performed well and sanctioned those who did not. Perhaps the most important finding was that the best managers/leaders spend considerable time gathering performance information from their subordinates, sometimes asking simple questions such as, “How is it going?”

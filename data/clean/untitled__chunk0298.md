@@ -1,5 +1,9 @@
-# York: Scribner’s.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a7cde370559cf0f4e2da84561973e664f19d4fbd
+title: untitled
+---
+# verbal learning. Chicago: Lippincott.
 
-Washburn, M. F. (1908). The animal mind. New York: Macmillan.
-
-Washburn, M. F. (1917). The animal mind (2nd ed.). New York:
+Warren, H. C. (1921). A history of the association psychology. New

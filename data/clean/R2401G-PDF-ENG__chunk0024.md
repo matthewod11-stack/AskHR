@@ -1,7 +1,7 @@
-# attachment to more than 2,000 faculty
-
-members, inviting all of us to devote a
-
-Saturday to brainstorming about a new
-
-Michael Barker’s photography showcases views from U.S. college football stadiums—including from seats with views obstructed by pil- lars, press boxes, or walls. Barker runs the website College Football Campus Tour and uses his platform to warn fans about these less-than- ideal seats.
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6608fe1a8b9c5b6a83006f42510a64394754768
+title: R2401G-PDF-ENG
+---
+# 1,266-word email with a 7,266-word

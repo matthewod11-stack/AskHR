@@ -1,19 +1,17 @@
-## Arthur, W., Bennett, W., Edens, P. S., & Bell, S. T. (2003).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8b55c3c1ed8a81704211596b54eca53052505c59
+title: industrial_organizational_psychology_an_applied_approach
+---
+# line. USA Today, p. A1.
 
-Eﬀ ectiveness of training in organizations: A meta-analysis of design and evaluation features. Journal of Applied Psychology, 88(2), 234–243.
+Armour, S. (2004, December 6). Working 9-to-5 no longer: More choose ﬂ exible hours on the job. USA Today, p. B1-2.
 
-624
+Armour, S. (2006, June 12). Lunch break becomes briefer as
 
-references
+“hour” shrinks. USA Today, p. 3B.
 
-Arthur, W., Day, E. A., McNelly, T. L., & Edens, P. S. (2003). A meta-analysis of the criterion-related validity of assessment center dimensions. Personnel Psychology, 56(1), 125–154.
+Arnold, J. A., & Carnevale, P. J. (1997). Preferences for dispute resolution procedures as a function of intentionality, consequences, expected future interaction, and power. Journal of Applied Social Psychology, 27(5), 371–398. Arthur, J. B. (1994). Eﬀ ects of human resource systems on
 
-Arvey, R. D., & Begalla, M. E. (1975). Analyzing the homemaker job using the PAQ. Journal of Applied Psychology, 60, 513–517.
-
-Arvey, R. D., Bouchard, T. J., Segal, N. L., & Abraham, L. M. (1989). Job satisfaction: Environmental and genetic components. Journal of Applied Psychology, 74, 187–192.
-
-Arvey, R. D., Davis, G. A., McGowen, S. L., & Dipboye, R. L.
-
-(1982). Potential sources of bias in job analytic processes. Academy of Management Journal, 25, 618–629.
-
-Arvey, R. D., & Faley, R. H. (1988). Fairness in selecting employees
+manufacturing performance and turnover. Academy of Management Journal, 37(3), 670–687.

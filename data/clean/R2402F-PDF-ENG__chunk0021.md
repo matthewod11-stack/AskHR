@@ -1,27 +1,15 @@
-## HBR / Magazine Article / Nurturing Innovation
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd5cf43c4ca947a447e1f960de6d83627325250b
+title: R2402F-PDF-ENG
+---
+# relationships with.
 
-The careful curation of the retreat experiences can help create a
+Innovation is more likely to succeed when it is a curated process in which an intermediary takes responsibility for sparking and sustaining collaboration among the people involved.
 
-foundation for strong relationships. Here’s one example: Two fellows,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-one working on recycled 3D printing and the other on residential
+5
 
-wind turbines, discovered they had shared connections and interests
-
-at a lunch during a UI program. They stayed in touch in the months
-
-following the retreat, exchanging updates and advice and bonding over
-
-their journeys as they developed their ventures. A year after they ﬁrst
-
-met, the fellows had a moment of realization at another UI event,
-
-where they were demonstrating prototypes of their products. They
-
-recognized there were opportunities to work more closely together to
-
-improve their respective products—and possibly develop a new type of
-
-appliance. By the time we interviewed one of them, they were applying
-
-for grants together in order to turn their ideas into a more structured
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

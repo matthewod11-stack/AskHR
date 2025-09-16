@@ -1,9 +1,9 @@
-# JL
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5668287d19ed56c1fd89c2bd5e5fd2211ac76605
+title: H07KK4-PDF-ENG
+---
+# JJ
 
-Junghyun (Jessie) Lee is an associate professor of the Department of Management Studies in the College of Business at the University of Michigan-Dearborn.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Jaclyn M. Jensen is a Professor of Management and Associate Dean for Student Success at DePaul University’s Driehaus College of Business.

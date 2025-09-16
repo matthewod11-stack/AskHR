@@ -1,17 +1,29 @@
-# implement recognition:
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: b9bfa4f4fbf738a5505d9aa76cdc02e9d1e88bd9
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Reward and Reco2nition Pro2ram
 
-- Recognize highly successful employees whenever they surpass their goals.
+If the organization ' s goal is to improve performance and help employees gain
 
-- Recognize moderately successful employees whenever they reach their goals.
+higher levels of motivation , then the organization must provide some form of recognition
 
-- Recognize less successful employees whenever they almost reach their goals.
+that provides satisfaction on the job. Sincere recognition can bring about greater
 
-Recognizing and rewarding employees can be an integral part of a commitment to
+satisfaction on the job and at times increase the productivity of an organizational unit.
 
-continuous quality improvement. In an organization , like Employers ' Training Resource,
+Recognition also shows that the organization has confidence in the employee ' s
 
-it is hard to provide rewards and recognition of employees because of budget constraints,
+35
 
-but the following is a list of suggestions that can be used to establish a program for
+capabilities . Recognition gives the employee a sense of personal satisfaction , a sense of
 
-recognition , that are mostly non-monetary or very inexpensive to institute:
+achievement , personal growth, recognized by peers, and a sense of personal
+
+responsibility . Recognition is a key to motivation which is a factor to improving
+
+employee performance , their effectiveness on the job and the productivity levels of an
+
+organizational unit. I believe an organization can set up the following schedule to

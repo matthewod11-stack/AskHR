@@ -1,13 +1,13 @@
-## the top team throughout the organization.
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1fb62b1d72b61bd8df5cf5748554c1be1e1733fd
+title: S24053-PDF-ENG
+---
+## HBR / Spotlight Article / Teamwork at the Top
 
-But so does ineﬀectiveness. Poorly functioning top teams can
+study of 1,250 companies found that organizations led by highly eﬀective executive teams had revenue growth, proﬁtability, and total
 
-spread malaise across their companies, creating a powerful drag
+shareholder returns that were three times higher than the study group’s average. Research also shows that highly eﬀective leadership teams are
 
-on productivity, lowering revenue, and leading to higher employee
-
-turnover. The problem is pervasive: Roughly two-thirds of the senior
-
-executives surveyed in 2020 by the Center for Creative Leadership felt that their top team was ineﬀective, and only 20% felt that their
-
-team was high performing. (We deﬁne a top team as any leadership
+correlated with consistently high employee retention, productivity, and morale. In short, they are force multipliers: Eﬀectiveness radiates from

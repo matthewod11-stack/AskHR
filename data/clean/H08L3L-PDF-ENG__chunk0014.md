@@ -1,13 +1,15 @@
-# Re-express with different language.
+---
+source_path: H08L3L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c07ce6522196fcbc269a6cb040b1d2235e0572d
+title: H08L3L-PDF-ENG
+---
+# Nourish and Flourish
 
-Simply replacing key words in your creative challenge will enable
+These are strategies to use when you’re trying to push past a fallow
 
-your team to think diﬀerently. If your task is keeping clients, use
+period. Maybe you’re thinking, How do we get our rhythm back?, or
 
-the language of marriage counseling. Ask: How can we improve this
+you’re trying to bounce back from burnout, or you’re just bored and
 
-relationship? What can we do to increase aﬀection and ensure loyalty?
-
-Or if you are not a market leader in a competitive category, re-express
-
-this to your advantage. A brilliant example of this was the Avis Car
+looking for something new.

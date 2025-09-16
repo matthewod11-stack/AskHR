@@ -1,13 +1,17 @@
-## Intangible Capital – http://dx.doi.org/10.3926/ic.586
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 1b0d250717f2537d7c6f37fae72c6fa8398e2f67
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Organizational Behavior Management, 31(4): 277-287.
 
-GRAY, D.E.; EKINCI, Y.; GOREGAOKAR, H. (2011b). Coaching SME managers: business
+http://dx.doi.org/10.1080/01608061.2011.619418
 
-development or personal therapy? A mixed methods study. The International Journal of
+GRAY, D.E.; EKINCI, Y.; GOREGAOKAR, H. (2011a). A Five-dimensional Model of Attributes:
 
-Human Resource Management, 22(4): 863-882. http://dx.doi.org/10.1080/09585192.2011.555129
+Some precursors of executive coach selection. International Journal of Selection and
 
-GURAV, A.M.; MUDALKAR, P.K. (2011). A Critical Study of Human Resource Practices in
+Assessment, 19(4): 415-428. http://dx.doi.org/10.1111/j.1468-2389.2011.00569.x
 
-Selected Sugar Factories. IUP Journal of Management Research, 10(1): 46.
-
-HAMMERVOLL, T. (2011). Managing interaction for learning and value creation in exchange
+-185-

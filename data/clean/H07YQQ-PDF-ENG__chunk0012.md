@@ -1,7 +1,27 @@
-## and not only your expertise, team, functional area, or business unit.
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 60eefcad2277b7b0d3166a872d4fdddadee06a20
+title: H07YQQ-PDF-ENG
+---
+## Mastering the Four Agenda-Setting Domains
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Before you begin, make sure you’re clear on what you want to
 
-2
+accomplish and why it’s important to you. For example, consider
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+writing an objective statement. This isn’t necessarily a simple exercise,
+
+and will require some time and thought. But once your objective is clear,
+
+you can dive into the four domains: adopting an enterprise perspective,
+
+leveraging your strategic mindset, cultivating stakeholder awareness,
+
+and considering your personal motives and risks.
+
+Adopting an enterprise perspective
+
+After your goal is formulated, the ﬁrst domain for you to consider is an
+
+enterprise perspective — thinking in terms of the larger organization,

@@ -1,39 +1,53 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 107682bdaa939d12ab2c6b2c7e71cc51669cc9d6
+title: H07STF-PDF-ENG
+---
+## Stuart’s recruitment data for the C-Suite.
 
-why is that the way we are built, we are drawn to spontaneously build
+The way we framed it is most of the executives in succession processes,
 
-relationships with people who are like us and with whom we bump into on a regular basis because their oﬃce is next door.
+candidates, had plenty of developmental opportunities when it came to
 
-The way I summarize it is the mechanisms are similarity and proximity.
+these people skills. We ended up having a look at how it is that they
 
-That’s what builds our networks. We’re narcissistic and lazy. We like
+come to recognize that it will really stand in the way of what they want
 
-people like us. It’s easier to talk to them, and since we don’t have a lot of
-
-time, we’re going to get to know the people who are easy to get to know
-
-because they’re next door.
-
-That means our networks are insular. They’re not good. They don’t help
-
-us get new jobs. They don’t help us step up to bigger roles.
-
-We’ve got to work on it, but working on it is really aversive too, and
-
-you’ve published some great research on how that works. It makes us
-
-feel a little bit dirty, a little bit disingenuous, a little bit utilitarian, using
-
-people when we approach building relationships in a more strategic
-
-way. It gets in the way of our sense of meritocracy. It gets in the way of
-
-our sense of self-reliance, but we know from my research and that lots
-
-of other people are vital for getting jobs, changing careers, and being
-
-eﬀective and innovative as a leader in the roles which you have already.
+to accomplish if they don’t develop these skills and how they go about it.
 
 ADI IGNATIUS:
 
-Any tips on how to build a network that isn’t the person in the cubicle
+One topic I want to make sure we speak about is networking.
+
+Networking seems simple enough, but a lot of us struggle to even start to
+
+build eﬀective and meaningful networks. Do you have thoughts on how
+
+to do this better?
+
+HERMINIA IBARRA:
+
+A quick ad: a brand new article on HBR yesterday on the challenges of
+
+networking as an executive. What is it that makes it particularly hard for
+
+senior people to network who have their own challenges?
+
+Anyway, this topic is of endless fascination to me, Adi, because I started
+
+working on this in the 80s when I was doing my PhD research, and have
+
+been following it since.
+
+The headline is most of us are bad at it. Most of us are bad at it. Some
+
+people are very good, but most of us are bad, and you can look to
+
+social psychology to explain a big share of the why. The big share of the
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+16
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

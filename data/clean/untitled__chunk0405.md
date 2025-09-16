@@ -1,1 +1,15 @@
-# 50 Biological Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 13fe382a881bb9c808ed9be513d5c88c16a24f88
+title: untitled
+---
+# The Brain 49
+
+Gall’s ideas about the localization of cognitive functions began to tear at the religious and social fabric of the nine- teenth century. In particular, various governmental and reli- gious authorities saw his notion that various mental faculties were represented in different places in the brain as in conﬂict with moral and religious views of the unity of the soul and mind. Gall’s organology, and later versions of phrenology, faced similar critiques from philosophy and science. Clerics and metaphysicians were concerned with the larger theologi- cal implications of the phrenological system. For example, in Flourens’s critique of phrenology in 1846 (dedicated to Decartes), Gall and his followers were declared guilty of un- dermining the unity of the soul, human immortality, free will, and the very existence of God (Harrington, 1991). Rolando, the famous Italian neuroanatomist, recognized the elegance of Gall’s dissection techniques and his tracing of ﬁber tracts from the spinal cord to the cerebrum. However, he found no logical connection between the tracings of the ﬁbers and the distinct organs in the convolutions of the brain proposed to house particular mental faculties.
+
+Another scientiﬁc criticism had to do with the question- able way in which Gall had determined the locus and extent of each of the 27 organs. For example, Gall had localized the carnivorous instinct and the tendency to murder (organ 5) above the ear for three reasons: (a) This was the widest part of the skull in carnivores; (b) a prominence was found there in a student who was fond of torturing animals; and (c) this region was well developed in an apothecary who later be- came an executioner (Barker, 1897).
+
+Another scientiﬁc issue critics raised during the nine- teenth century was that Gall never speciﬁed the precise extent or the anatomical borders of any of the organs. This lack of rigor, it was argued, made it impossible to correlate a speciﬁc faculty with the size of an organ or cranial capacity (Sewall, 1839). Related criticisms involved Gall’s seeming failure to acknowledge that there were variations in the thickness of the skull, that is, variations from one individual specimen to an- other and from one locus to another within the same skull (Sewall, 1839).
+
+An oft-cited example of a speciﬁc contribution Gall made to our understanding of brain function is the idea that he an- ticipated the discovery by Broca in 1861 of a speciﬁc speech area of the brain (Ackernecht & Vallois, 1956; Bouillaud, 1848). However, we believe that a careful reading of the facts surrounding this discovery tells a somewhat different story. In fact, Broca never mentioned Gall’s name in his 1861 report. Moreover, he referred to Gall’s doctrine in a rather negative way. Nevertheless, Broca’s work stands as a clear example of a modern idea of localization of function built on the foundation and fundamental idea, established by Gall a

@@ -1,7 +1,15 @@
-# specialized capabilities.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 801b4c2fbeb9e3c357dee72f7b90db711f065969
+title: agents_companion
+---
+# accurate results.
 
-Improved Fault Tolerance: If one agent fails, others can take over its responsibilities.
+Improved Efficiency: Agents can work in parallel, speeding up task completion.
 
-- Reduced Hallucinations and Bias: By combining the perspectives of multiple agents,
+- Better Handling of Complex Tasks: Large tasks can be broken down into smaller, more
 
-the system can reduce the effects of hallucinations and bias, leading to more reliable and
+manageable subtasks, with each agent focusing on a specific aspect.
+
+Increased Scalability: The system can be easily scaled by adding more agents with

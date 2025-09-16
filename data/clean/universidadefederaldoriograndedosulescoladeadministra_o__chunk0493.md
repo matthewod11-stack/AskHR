@@ -1,11 +1,11 @@
-## optou pela resposta positiva e apenas um também pela resposta negativa. Sendo
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: f29ad19ca850d187175af1bc0dac80ec0fe245bf
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## de eficiência entre a pesquisa de eNPS e pesquisas de clima organizacional
 
-assim, a partir dessa questão, é possível concluir que, mesmo ocupando cargo de
+tradicionais. Neste caso, vimos que a maioria (66,7%) se eximiu de emitir uma
 
-liderança, os respondentes não detêm muito conhecimento a respeito das pesquisas
-
-usualmente aplicadas com a força de trabalho das organizações.
-
-A questão seguinte, que abordava as justificativas para a resposta dada a
-
-essa, não trouxe também contribuições, tendo uma citação à maior rapidez do
+opinião, alegando não saber fazê-lo, como mostra a figura 14. Apenas um líder

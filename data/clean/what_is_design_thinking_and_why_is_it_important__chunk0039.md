@@ -1,13 +1,13 @@
-# Processes in Design Thinking
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: c0dc3c2ba5cec6416358dc648bb075d5299badce
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Affinity for teamwork
 
-According to Braha and Reich (2003), the design process is characterized by being iterative, exploratory, and sometimes a chaotic process. It starts from some abstract specifications, or what Hatchuel and Weil (2009, p. 182) call a “brief,” and terminates with the description of a product while gradually refining the product specifications. Intermediate states of the design process might include conflicting specifications and product descriptions. Specifications may change in reaction to proposals or to unexpected problems discovered during the process. In this case, design follows cycles of mutual adjustment between specifications and solutions until a final solution is reached (Hatchuel & Weil, 2009).
+Designers need to develop interpersonal skills that allow them to communicate across disci- plines and work with other people.
 
-During the design process, designers engage in several different cognitive pro- cesses. Kolodner and Wills (1996) specified three processes required in design
+Avoiding the necessity of choice
 
-336
-
-Downloaded from
-
-http://rer.aera.net
-
-at AERA on October 2, 2012
+Designers search competing alternatives before moving to choice making or decision mak- ing. They try to find ways to come up with new configurations. This process leads to a solution that avoids decision and combines best possible choices.

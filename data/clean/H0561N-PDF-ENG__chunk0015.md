@@ -1,7 +1,7 @@
-## parliamentary positions, and the ratio of years that women and men
-
-have served as presidents or prime ministers in the last half century
-
-Below is a closer look at each of these dimensions, followed by how
-
-diﬀerent regions compare.
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf5c7ef5cd18552e6bc616ca906c72c5fefb5771
+title: H0561N-PDF-ENG
+---
+## Political empowerment: gender ratios in ministerial and

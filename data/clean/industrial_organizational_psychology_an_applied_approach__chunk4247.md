@@ -1,15 +1,17 @@
-## Jackson, S. E., & Schuler, R. S. (1985). A meta-analysis and
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b923ed84ed675a7f561606cbcd6d583b1fcf1629
+title: industrial_organizational_psychology_an_applied_approach
+---
+## meta-analysis. Journal of Personality and Social Psychology, 50(6), 1141–1151.
 
-conceptual critique of research on role ambiguity and role conﬂ ict in work settings. Organizational Behavior and Human Decision Processes, 36(1), 16–78.
+Ivancevich, J. M. (1982). Subordinates’ reactions to performance
 
-Jackson, T. W. (2008). Apprenticeships: Creating new work- forces. Blue Ridge Business Journal, 20(12), 18–19.
+appraisal interviews: A test of feedback and goal-setting techniques. Journal of Applied Psychology, 67, 581–587.
 
-Jacobs, J. A., & Kearns, C. N. (2001). Responding eﬀ ectively to a
+Jackson, D. E., O’Dell, J. W., & Olson, D. (1982). Acceptance of bogus personality interpretations: Face validity reconsidered. Journal of Clinical Psychology, 38, 588–592.
 
-claim of sexual harassment in the workplace. Association Management, 53(11), 19–20.
+references
 
-Jacobs, R. (1997). Organizational eﬀ ectiveness: Downsizing, one
-
-of many alternatives. Keynote address presented at the 18th annual Graduate Student Conference in Industrial Organizational Psychology and Organizational Behavior, Roanoke, VA.
-
-Jago, A. G., & Vroom, V. H. (1977). Hierarchical level and
+641

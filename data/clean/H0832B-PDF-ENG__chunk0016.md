@@ -1,13 +1,17 @@
-## manager role. More advanced programs with large alumni networks
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a16a93ba0761eee8614a87db38536b73a88a553f
+title: H0832B-PDF-ENG
+---
+# budget.
 
-may even assign a full team to managing the program. Having a
+Beyond the ﬁnancial considerations, leaders should also consider how
 
-dedicated alumni manager or team not only ensures appropriate
+many employee resources will be allocated to the alumni program.
 
-attention is going into the company’s alumni strategy, but also provides
+Management of an alumni program often starts as an additional
 
-alumni with a designated point of contact. Where the alumni manager
+responsibility for an existing employee. However, as the program
 
-and/or team sit often depends on the organization’s speciﬁc goals for
-
-alumni, but they are most commonly located in marketing, business
+matures, it becomes more common to create a full-time alumni

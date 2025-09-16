@@ -1,11 +1,17 @@
-# Journal of Psychology, 37, 593–599.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f28cac5aed550504c2f1f74d43c7afd08782a9b7
+title: untitled
+---
+# ogy. Psychological Bulletin, 3, 59–60.
 
-Seashore, C. E. (1910). General report on the teaching of the ele- mentary course in psychology: Recommendations. Psychologi- cal Monographs, 12(4, Whole No. 51), 80–91.
+Sanford, E. C. (1910). The teaching of elementary psychology in colleges and universities with laboratories. Psychological Mono- graphs, 12(4, Whole No. 51), 54–71.
 
-Study Group on the Conditions of Excellence in American Higher Education. (1984). Involvement in learning: Realizing the poten- tial of American higher education. Washington, DC: U.S. De- partment of Education.
+Sanford, F. H., & Fleishman, E. A. (1950). A survey of undergradu- ate psychology courses in American colleges and universities. American Psychologist, 5, 33–37.
 
-Sue, D. W., Bingham, R. P., Porche-Burke, L., & Vasquez, M. (1999). The diversiﬁcation of psychology: A multicultural revo- lution. American Psychologist, 54, 1061–1069.
+Scheirer, C. J., & Rogers, A. M. (1985). The undergraduate psy- chology curriculum: 1984. Washington, DC: American Psycho- logical Association.
 
-Thornton, G. R., & Thornton, J. S. (1942). Terms that are considered important for beginning students of psychology. Journal of Edu- cational Psychology, 33, 39–49.
+Schmitz, B. (1992). Core curriculum and cultural pluralism: A guide for campus planners. Washington, DC: Association of American Colleges.
 
-University of Pennsylvania Catalogue and Announcements,
+Schoen, M. (1926). Elementary course in psychology. American

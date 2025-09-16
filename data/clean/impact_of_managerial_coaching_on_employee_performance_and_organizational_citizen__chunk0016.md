@@ -1,3 +1,11 @@
-## Managerial Coaching on Employee Performance and OCB
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: 1a2f0672661b1b3a8098383aa1da7d4568fe651d
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+## 2.1 Managerial Coaching and Employee Job Performance
 
-weaknesses (Kim et al., 2013). According to Kim & Kuo, (2015), employee job performance is the key outcome of managerial coaching. The various skills of supervisors comprise the managerial coaching such as relationship development, effective listening skills, putting the analytical questions, accepting the ideas of employees, focusing on team approach, open communication with the employees, giving preference to the individual needs of employee, and facilitate their development result in their improved job performance (Cox et al., 2010). The following is developed based on the above discussion: (cid:32) H1: Managerial coaching will have a positive impact on employee in-role
+Managerial coaching is “a form of coaching that is provided by a supervisor or manager serving as a facilitator of learning (Ellinger et al., 2010). The manager or supervisor enacts specific behaviors that enable the employee to learn and develop thereby to improve performance”. The day to day interaction between supervisor and subordinates, individualized close contact with the supervisor, helping behavior of a supervisor, is considered as a managerial activity to enhance learning, development, and job performance of the employees (Grant, 2006; Jones et al., 2016). Manager as a coach exhibit different behavior such as guiding, supporting, and developing employee in the organization rather traditional management practices such as commanding and controlling the subordinates. MC becomes the cause of regular interaction among manager and subordinates (Boyatzis et al., 2012; Muhlberger & Traut, 2015). Moreover, MC focuses on providing regular feedback and helping the employee to improve performance by overcoming the
+
+793

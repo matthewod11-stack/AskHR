@@ -1,9 +1,9 @@
-# WL
+---
+source_path: H08UWX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 309a372c9a55fdd387268acf06931f724a3a97a8
+title: H08UWX-PDF-ENG
+---
+# BS
 
-William Leeds is the lead data scientist at BrightHire, an AI hiring platform.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Ben Sesser is the chief executive oﬃcer of BrightHire, an AI hiring platform.

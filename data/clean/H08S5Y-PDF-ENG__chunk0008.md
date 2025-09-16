@@ -1,7 +1,33 @@
-# the ground.
+---
+source_path: H08S5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 568249aa01254912de150be97f5aa97257db87d5
+title: H08S5Y-PDF-ENG
+---
+# you:
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- What’s the real challenge here?
 
-3
+- What options have you considered?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- What’s your recommendation?
+
+- If I weren’t here, what would you do?
+
+Get comfortable sitting with discomfort while your people wrestle with
+
+ambiguity. Get comfortable with pauses and silence. When a manager
+
+raises an issue, take a breath and say: “That’s complicated. Tell me what
+
+you’re seeing,” or “I understand why you’re concerned. What do you
+
+think is the best course of action?”
+
+- 2. Moving from execution to driving impact through others
+
+As a frontline manager, you were probably deeply involved in assigning
+
+work, tracking progress, and keeping things on course. You might have
+
+gained a sense of comfort from knowing exactly what was happening on

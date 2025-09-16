@@ -1,23 +1,21 @@
-# LEAN WITH
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 746a46e5f708bcb1bbf39d30cf82223c6b61c617
+title: R2301H-PDF-ENG
+---
+# information
 
-Empathizing, coaching, collaborating, encouraging
+- When emotions are running high and more data will help ground the team
 
-- When morale is low
+- When you are working
 
-- When your people are
+with introverts who respond better to data than to inspirational rhetoric
 
-extroverts and connection is the currency of choice
+- When team discussion
 
-- When you notice how a smile or an affirming remark energizes someone
+has reached the point of diminishing returns
 
-- When you notice a team member needs space to think
+- When people seem
 
-- When a team is operating well on its own and doesn’t need support
-
-- When people want to feel independent
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+overwhelmed and more data is obfuscating rather than clarifying thinking

@@ -1,37 +1,19 @@
-## “analytical thinking,” “strong collaboration skills,” “technical expertise
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d3b6d45df7d26c0696dee5119a7ff543794ea8a
+title: H08GNF-PDF-ENG
+---
+## HBR / Digital Article / Use the STAR Interview Method to Land Your Next Job
 
-in developing and optimizing algorithms,” or “ability to meet project
+- 2. When preparing your answers, be sure to align your accomplishments with the job description. As you think about how you’ll answer common STAR interview
 
-deadlines.” Here’s an example of a response:
+questions, be sure to use speciﬁc keywords from the job responsibilities
 
-Situation: Our team was facing a critical performance issue with
+listed in the job description in your response. For example, a question
 
-a complex algorithm in our new app and the launch deadline was
+for a SaaS app developer might be, “Can you tell me about a time
 
-approaching fast.
+when you had to solve a coding problem?” The job description
 
-Task: I had to ﬁgure out how to optimize the algorithm to improve
-
-the app’s performance and ensure it was ready for release.
-
-Action: I ﬁrst consulted with the team to understand the analysis
-
-which was completed on the current algorithm. Together, we
-
-whiteboarded and broke down the problem into smaller components
-
-to visualize the underlying logic of the code. I then used proﬁling
-
-tools to identify speciﬁc parts of the algorithm that consumed the
-
-most resources. I experimented with different data structures and
-
-replaced the inefficient ones, such as arrays, with more suitable
-
-ones like hash maps or balance trees. I implemented techniques
-
-like memorization and dynamic programming to optimize and
-
-speed up the algorithm. Finally, I cleaned up the code and
-
-removed unnecessary complexities to improve readability and
+might list speciﬁc job responsibilities or required skills such as

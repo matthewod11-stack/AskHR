@@ -1,11 +1,7 @@
-# HERO Scorecard
-
-Q56. If lifestyle management programs are
-
-offered, do you offer any type of incentive to promote participation and/or program completion? (check all that apply)
-
-0 = Not indicated
-
-3 dummy variables created based on “1” for any of the following responses:
-
-Token noncash reward
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 624aa245e5df0210b2bb57a975d85402f26da97b
+title: fast_track_art_i_c_l_e
+---
+## incentive for lifestyle management program

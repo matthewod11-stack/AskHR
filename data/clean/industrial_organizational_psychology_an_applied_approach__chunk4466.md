@@ -1,13 +1,29 @@
-## Switzer, K. C., Nagy, M. S., & Mullins, M. E. (2005). The
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d9bcfb97ec9e9baadf19bd547959b0678d620f89
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Summer, H. C., & Knight, P. A. (1996). Assimilation and
 
-influence of training reputation, managerial support, and self-efficacy on pre-training motivation and perceived training transfer. Applied H.R.M. Research, 10(1), 21–34.
+contrast eﬀ ects in performance ratings: Eﬀ ects of rating the previous performance on rating subsequent performance. Journal of Applied Psychology, 81(4), 436–442.
 
-Szary, D. (2001). Online recruiting I. Detroiter, 23(7), 26.
+Sundstrom, E., Town, J. P., Rice, R. W., Osborn, D. P., & Brill, M. (1994). Oﬃ ce noise, satisfaction, and performance. Environment and Behavior, 26(2), 195–222.
 
-Tait, M., Padgett, M. Y., & Baldwin, T. T. (1989). Job and life satisfaction: A reexamination of the strength of the relationship and gender eﬀ ects as a function of the date of the study. Journal of Applied Psychology, 74, 502–507.
+Surrette, M. A., Aamodt, M. G., & Johnson, D. L. (1990). Eﬀ ect
 
-662
+analyst training and amount of available information on job analysis ratings. Journal of Business and Psychology, 4, 439–451.
 
-references
+Surrette, M. A., & Harlow, L. L. (1992). Level of satisfaction and commitment to a decisional choice as mediated by locus of control. Applied H.R.M. Research, 3(2), 92–113.
 
-Tanaka, M., Tochihara, Y., Yamazaki, S., Ohnaka, T., & Yoshida, K. (1983). Th ermal reaction and manual performance during cold exposure while wearing cold-protective clothing. Ergonomics, 26, 141–149.
+Sutton, H. W., & Porter, L. W. (1968). A study of the grapevine in a governmental organization. Personnel Psychology, 21, 223–230.
+
+Sverke, M., Hellgren, J., & Näswall, K. (2002). No security: A meta-analysis and review of job insecurity and its consequences. Journal of Occupational Health Psychology, 7(3), 242–264.
+
+Swaroﬀ , P. G., Barclay, L. A., & Bass, A. R. (1985). Recruiting
+
+sources: Another look. Journal of Applied Psychology, 70, 720–728.
+
+Swink, D. F. (1993). Role-play your way to learning. Training and
+
+Development, 47(5), 91–97.

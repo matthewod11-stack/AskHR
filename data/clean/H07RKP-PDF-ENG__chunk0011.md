@@ -1,9 +1,33 @@
-## even greater, with 80% of C-suite leaders and their direct reports
+---
+source_path: H07RKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8597e137784c6c9be12c16084eea7f2363437a5
+title: H07RKP-PDF-ENG
+---
+# involve language.
 
-concealing disabilities at work. Regardless of whether individuals
+An estimated 386 million working age people have some kind of
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+disability; in some countries, despite persistent labor shortages,
 
-2
+unemployment has reached 80% among people with disabilities who
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+could otherwise work. Generative AI can help individuals ﬁnd —
+
+and do well in — jobs that they couldn’t previously have held. For
+
+example, OurAbility provides an AI-powered platform that utilizes
+
+chatbot technology to assist unemployed individuals in ﬁnding and
+
+securing employment opportunities.
+
+There are many more people with disabilities who are employed than
+
+employers know about. Our analysis (published earlier in HBR) showed
+
+that 76% of employees with disabilities had not fully disclosed their
+
+unique experiences at work (to colleagues, human resources contacts,
+
+or supervisors/managers). At the executive level, the number was

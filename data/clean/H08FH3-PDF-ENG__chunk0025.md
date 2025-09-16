@@ -1,21 +1,31 @@
-# HBR / Digital Article / What Employers Get Wrong About How People Connect at Work
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e71a092ebf51451d2ad0b87239c7a852ec8080e
+title: H08FH3-PDF-ENG
+---
+# The Nature of CLEAR Connections
 
-Our connection preferences can also wax and wane depending on
+Akamai and NLI have been gathering and analyzing data to test
 
-what’s going on in our lives. For example, an employee who previously
+and reﬁne this framework using a combination of questionnaires and employee data. Early results suggest that diﬀerent employees have
 
-had a strong preference for colleague connection might get married,
+unique needs surrounding each type of connection. One employee
 
-take up an all-encompassing hobby, or experience some other life event
+might deeply value leader connection, spending a lot of time one-on-
 
-that materially alters their desire for partnership at work. While the
+one with their manager, not collaborating much with their peers, and
 
-basic elements in each of the pillars are largely universal — meaning
+barely thinking about their organization’s mission. Their focus might be
 
-that most employees expect the minimum requirements of working
+on building a strong partnership with their leader and working together
 
-with helpful peers and leaders, being respected in their jobs, and
+to explore advancement opportunities. Motivating this person requires a diﬀerent path than the path for another employee who most highly
 
-working for a reputable company — the degree to which they want and
+values colleague connection.
 
-expect more will vary.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

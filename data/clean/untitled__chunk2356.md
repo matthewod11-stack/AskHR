@@ -1,5 +1,9 @@
-# Literary Development
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 78a3e2210ef41a7278f4520ee6ae07626f6e1394
+title: untitled
+---
+# Organizational Development
 
-With few exceptions, literature related to school psychology remained similar to that of the previous period. There were still no journals speciﬁcally about school psychology, and practitioners continued to read education and psychology journals. The addition of the AAAP’s Journal of Consulting Psychology provided a more speciﬁc focus, however. It was also during this period that the ﬁrst text about school psy- chology was published, Psychological Service for School
-
-Problems by Gertrude Hildreth (1930). In addition, the ﬁrst journal article including “school psychologist” in its title ap- peared early during this period (Hutt, 1923).
+Psychologists in New York State formed the New YorkAsso- ciation of Consulting Psychologists in 1921. Interest in this group spread to other states, and in 1930 it was renamed the Association of Consulting Psychologists (ACP). In addition to several state afﬁliate groups, theACP published a newslet- ter and, in 1937, founded the Journal of Consulting Psychol- ogy(nowtheJournalofConsultingandClinicalPsychology). In 1937, theACPmerged with the Clinical Section of theAPA to form the American Association of Applied Psychologists (AAAP), which had speciﬁc sections for business and indus- try,clinical,consulting,andeducationalpsychology(English, 1938). Psychologists practicing in school settings belonged to the clinical and/or educational sections. The dual representa- tion reﬂected the origins of the ﬁeld and its growing identity as a blend of both educational and clinical psychology.As yet, however, there was no clear identity for school psychologists in any national organization, and it is likely that most school psychological practitioners still did not belong to a national group. Even by 1940, there were no state-level organizations speciﬁcally for school psychologists, although many practi- tionersprobablybelongedtostateafﬁliatesoftheAAAP(e.g., the Ohio Association of Applied Psychologists). Local psy- chology groups existed in some large cities as well.

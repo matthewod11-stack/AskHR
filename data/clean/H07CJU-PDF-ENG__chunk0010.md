@@ -1,11 +1,23 @@
-## HBR / Digital Article / 5 Things Employers Get Wrong About Caregivers at Work
+---
+source_path: H07CJU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74897379e491dba5d3e2bcad0f784b8673117acd
+title: H07CJU-PDF-ENG
+---
+## infant daycare spot average around one year, and for every 100 children
 
-88% of schools nationwide are dealing with bus driver shortages, which
+born, there are less than 20 licensed daycare spots.
 
-makes transportation unreliable and leads to long route times when
+But staﬀ shortages aren’t just an issue for daycares catering to
 
-the buses do show up. After-school care is facing similar struggles. This summer, EdWeek predicted “a perfect storm of funding and staﬃng
+children under ﬁve. In addition to teacher vacancies, public schools
 
-crises” for after-school programs. This prediction bears out. In my city
+are experiencing huge problems with the support staﬀ that enables the
 
-of Durham, North Carolina, there were over 700 kids on the after-school
+school system to provide safe custodial care. According to Axios, about
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

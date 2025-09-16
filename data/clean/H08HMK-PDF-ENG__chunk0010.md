@@ -1,13 +1,17 @@
-# HBR / Digital Article / Your Employees Are Also Caregivers. Here’s How to Support Th…
+---
+source_path: H08HMK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e9fefb93ca6a6416c100520567e9194a52e3b37
+title: H08HMK-PDF-ENG
+---
+# surveys and ERGs.
 
-Understand that caregiving includes — and goes beyond — childcare.
+- Share what you’ve learned to build transparency and trust.
 
-Often, the abstract image people have of caregiving is limited in scope
+- Encourage more companies to gather this kind of data, too.
 
-— picking up a child from school, for example, or going on parental
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-leave. While these activities are absolutely central to caregiving, people
+2
 
-may also be managing a child’s mental health, or helping a parent,
-
-spouse, or friend dealing with a medical condition like Parkinson’s or
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

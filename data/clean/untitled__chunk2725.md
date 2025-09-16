@@ -1,7 +1,9 @@
-# Treating Ethnic Minority Clients 501
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2989c21f8a2aaaad8cad69d9eb4eea3fb6ff78d9
+title: untitled
+---
+# MINORITIES PROGRESS DURING 1999
 
-During 1999, ﬁve ethnic minorities assumed ofﬁce as pres- ident of their divisions, with all four ethnic minority groups represented. In addition to Bingham, Sue, and Vasquez, Steven James, a NativeAmerican, accepted the presidency of the Psychology of Religion and Siang-Yang Tan, an Asian American,becamepresidentoftheSocietyfor thePsycholog- ical Study of Gay, Lesbian, and Bisexual Issues.
-
-In 1996, there were 11 ethnic minority persons holding ofﬁce in a Division (excluding Division 45, the Society for the Psychological Study of Ethnic Minorities, which would be expected to have elected ethnic minorities). By 1999, the count increased to 26—a 136% increase. By 2000, the num- bers expanded to 51.
-
-Regarding APA standing Boards and Committees, the number of ethnic minorities increased from 18 in 1996 to 43 in 1999 for a 139% increase. By 2000, the number increased even further to 54. An observation was made of the contrast between the Planning Committee members and the photo- graphs on the wall of the APA board of directors, which were nearly all white persons.At the 1998APAmeetings in Boston, the presidents of the four autonomous ethnic minority psycho- logicalassociations—AsianAmericanPsychologicalAssocia- tion, Association of Black Psychologists, National Hispanic PsychologicalAssociation, Society of Indian Psychologists— werepresenttoreceivePresidentialCitationsrecognizingtheir associations’contributions to ethnic minority agendas.
+The year began with an unprecedented gathering of ethnic minority leadership, as the First National Multicultural Con- ference and Summit was organized by the four ethnic minor- ity past or then-current presidents of APA Divisions: Rosie Bingham, president, Division of Counseling Psychology; Lisa M. Porche Burke, past-president and Derald Wing Sue, president, Society for the Psychological Study of Ethnic Minority Issues; and Melba J. T. Vasquez, president, Division of the Psychology of Women. The Conference was so suc- cessful that extra room was required for additional regis- trants, and even then many had to be turned away. In 2001, the second Conference and Summit was organized, and once more ﬁlled the registration to its maximum.

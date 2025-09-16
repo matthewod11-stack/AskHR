@@ -1,15 +1,29 @@
-# 120 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: fcef2ecb377a7a7d6f16f6eda476a0c99c931b83
+title: barrickryan_eds_personality_and_work
+---
+# PERSONALITY AND JOB PERFORMANCE 119
 
-citizenship performance: Negative ﬁndings and proposed modiﬁcations. Manuscript submitted for publication.
+Penner, L. A., Midili, A. R., & Kegelmeyer, J. (1997). Beyond job atti- tudes: A personality and social psychology perspective on the causes of organizational citizenship behavior. Human Performance, 10, 111–131.
 
-Tett, R. P., Guterman, H. A., Bleier, A., & Murphy, P. J. (2000). Develop- ment and content validation of a “hyperdimensional” taxonomy of managerial competence. Human Performance, 13, 205–251.
+Phillips, J. M., & Gully, S. M. (1997). Role of goal orientation, ability, need for achievement, and locus of control in the self-efﬁcacy and goal- setting process. Journal of Applied Psychology, 82, 792–802.
 
-Tett, R. P., Jackson, D. N., & Rothstein, M. (1991). Personality measures as predictors of job performance: A meta-analytic review. Personnel Psychology, 44, 703–742.
+Podsakoff, P. M., MacKenzie, S. B., Paine, J. B., & Bachrach, D. G. (2000). Organizational citizenship behaviors: A critical review of the theo- retical and empirical literature and suggestions for future research. Journal of Management, 26, 513–563.
 
-Van Dyne, L., Cummings, L. L., & Parks, J. M. (1995). Extra role behav- iors: In pursuit of construct and deﬁnitional clarity (a bridge over muddied waters). In L. L. Cummings & B. M. Staw (Eds.), Research in organizational behavior (Vol. 17, pp. 215–285). Greenwich, CT: JAI Press.
+Pulakos, E. D., Arad, S., Donovan, M. A., & Plamondon, K. E. (2000). Adaptability in the workplace: Development of a taxonomy of adap- tive performance. Journal of Applied Psychology, 85, 612–624. Rioux, S. M., & Penner, L. A. (2001). The causes of organizational citi- zenship behavior: A motivational analysis. Journal of Applied Psychol- ogy, 86, 1306–1314.
 
-Van Scotter, J. R., & Motowidlo, S. J. (1996). Interpersonal facilitation and job dedication as separate facets of contextual performance. Jour- nal of Applied Psychology, 81, 525–531.
+Sackett, P. R., Gruys, M. L., & Ellingson, J. E. (1998). Ability-personality interactions when predicting job performance. Journal of Applied Psychology, 83, 545–556.
 
-Witt, L. A., Burke, L. A., Barrick, M. R., & Mount, M. K. (2002). The in- teractive effects of Conscientiousness and Agreeableness on job per- formance. Journal of Applied Psychology, 87, 164–169.
+Saucier, G., & Ostendorf, F. (1999). Hierarchical subcomponents of the Big Five personality factors: A cross-language replication. Journal of Personality and Social Psychology, 76, 613–627.
 
-Wright, P. M., Kacmar, K. M., McMahan, G. C., & Deleeuw, K. (1995). P = f(M + A): Cognitive ability as a moderator of the relationship between personality and job performance. Journal of Management, 21, 1129–1139.
+Schmit, M. J., Motowidlo, S. J., Degroot, T., Cross, T., & Kiker, D. S. (1996, Apr.). Explaining the relationship between personality and job per- formance. In J. M. Collins (Chair), Personality predictors of job perfor- mance: Controversial issues. Symposium conducted at the Eleventh Annual Conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
+
+Schneider, R. J., & Hough, L. M. (1995). Personality and industrial/ organizational psychology. In C. L. Cooper & I. T. Robertson (Eds.), International review of industrial and organizational psychology (pp. 75–129). New York: Wiley.
+
+Schneider, R. J., Hough, L. M., & Dunnette, M. D. (1996). Broadsided by broad traits: How to sink science in ﬁve dimensions or less. Journal of Organizational Behavior, 17, 639–655.
+
+Schneider, R. J., & Johnson, J. W. (2001, Apr.). The mediating role of con- textual knowledge in predicting contextual performance. Poster presented at the Sixteenth Annual Conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
+
+Schneider, R. J., & Johnson, J. W. (2003). Testing a theory of task and

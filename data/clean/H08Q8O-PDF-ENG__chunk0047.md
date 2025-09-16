@@ -1,11 +1,7 @@
-# Relational proximity.
-
-In our 2021 HBR article, we wrote about neuroscientiﬁc research
-
-suggesting that the brain chemistry of people in what psychiatrist
-
-Edward Hallowell calls a human moment—a face-to-face-encounter
-
-(often, but not necessarily, in person) that allows for empathy,
-
-emotional connection, and nonverbal cues to complement what is
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00fec49133370eff0a0cc6838b66c1dc7e125b94
+title: H08Q8O-PDF-ENG
+---
+# organizational decisions.

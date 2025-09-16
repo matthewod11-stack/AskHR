@@ -1,23 +1,45 @@
-## from the accurate disclosure of rank-and-ﬁle employee pay information.
+---
+source_path: H08UG4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00a174caab09cb8163868770c2b415b97d42362c
+title: H08UG4-PDF-ENG
+---
+# HBR / Digital Article / New Research Debunks a Common Criticism of Pay Transparen…
 
-. . .
+information. Are these numbers accurate? If the information online
 
-Instead of maintaining an old-fashioned approach to pay, where secrecy
+is wrong and inﬂated, managers may beneﬁt from providing accurate
 
-reigns, managers should develop pay transparency policies that ﬁt the
+salary information to employees. Take control of the information about
 
-information environment of their workforce. In doing so, employees
+your ﬁrm, as doing so can improve employee morale.
 
-can base their ideas about fair pay on accurate information from their
+What are the current sentiments of employees?
 
-managers, instead of relying on gossip and online rumors. Our research
+Many ﬁrms conduct anonymous surveys annually. They often ﬁnd that
 
-indicates that knowing the truth might make employees happier.
+employees believe they are underpaid and that some demographic
 
-This article was originally published online on August 15, 2025.
+groups believe that more strongly than others. If employees think this,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+even though the pay practices may be fair, a ﬁrm may stand to beneﬁt
 
-4
+from increased pay transparency. Correct the incorrect assumptions,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and employee satisfaction may increase.
+
+How competitive is the labor market?
+
+If employees are in a tight labor market, where they can easily get oﬀers
+
+from other ﬁrms, they likely know what they can earn elsewhere (i.e.,
+
+they know the market wage). They are not dreaming of salaries and roles
+
+that do not actually exist. However, if the employees are not likely to
+
+receive outside oﬀers because of labor market conditions or geographic
+
+location, they will have more limited information. Our research shows
+
+that these employees’ pay satisfaction levels will likely beneﬁt the most

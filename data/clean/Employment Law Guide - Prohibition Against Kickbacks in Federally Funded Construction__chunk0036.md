@@ -1,11 +1,22 @@
-# Penalties/Sanctions
+---
+source_path: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded
+  Construction.md
+pages: n/a-n/a
+chunk_id: 565e254b561533da7528f1daff401a78bac64f89
+title: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded Construction
+---
+# Department of Labor.
 
-Any contractor or subcontractor who induces an employee working on a covered contract to give up any part of the compensation to which he or she is entitled is subject to a ﬁne, imprisonment for up to ﬁve years, or
+There are reporting requirements under the Copeland "Anti-Kickback" Act for contractors and subcontractors
 
-both. Willful falsiﬁcation of the Statement of Compliance may subject the employer to civil or criminal
+performing on contracts in excess of $2,000 for the construction or repair of public buildings, public works, or
 
-prosecution and may be cause for contract termination or debarment. Contractors may challenge
+buildings or works supported by the federal government. Each covered contractor and subcontractor must provide the Federal agency contracting oﬃcer with a weekly payroll report of wages paid to each of its
 
-determinations on debarment before an Administrative Law Judge. Decisions of Administrative Law Judges
+laborers and mechanics during the preceding weekly payroll period. Each weekly statement of wages
 
-may be appealed to the Administrative Review Board (ARB). ARB determinations on debarment may be appealed to and are enforceable through the federal courts. Civil and criminal sanctions are pursued through
+submitted shall be a ccompanied by a "Statement of Compliance." Statements of Compliance are to be made
+
+on the Form WH-347 "Payroll (For Contractors Optional Use)" or on any form with identical wording. The
+
+weekly payroll report must be submitted within seven days after the regular pay date for the pay period.

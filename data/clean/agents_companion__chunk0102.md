@@ -1,9 +1,7 @@
-# improved scalability; and a stronger focus on real-world application contexts. The
-
-development of new standardized benchmarks is also gaining traction, facilitating objective
-
-comparisons between agents, while increased emphasis on explainability and interpretability
-
-aims to provide deeper insights into agent behavior.
-
-22
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 40f11ea390191a9d87ce6ba38dcf1f6dc372578c
+title: agents_companion
+---
+# understanding of agent reasoning; an increase in AI-assisted evaluation methods for

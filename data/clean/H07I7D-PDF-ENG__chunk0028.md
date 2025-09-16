@@ -1,13 +1,7 @@
-## How Organizations Can Develop High Potentials
-
-As organizations search for ways to ensure that their high potentials
-
-fulﬁll their promise, they must be prepared to equip them with
-
-the ability to think and act more strategically, to lead with greater
-
-conviction, and to cultivate and nurture relationships. In essence,
-
-organizations must create the scaﬀolding that allows high potentials to
-
-simultaneously develop the macro skills of strategy and the micro skills
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cbf9d789fab79c64f19ae92489b4446ef1a7cfc5
+title: H07I7D-PDF-ENG
+---
+# developmental opportunity for men.

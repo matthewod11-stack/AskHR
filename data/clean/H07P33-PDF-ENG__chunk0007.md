@@ -1,11 +1,19 @@
-## conversations between therapists and clients.
+---
+source_path: H07P33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f813230efa50c8fdc33dedad73d012ec937451bc
+title: H07P33-PDF-ENG
+---
+# Eleos Health
 
-One therapist explained: “After each session, the Eleos platform
+Eleos Health is a behavioral health technology company that Katherine
 
-analyzes the counseling techniques I used and provides a helpful
+studied in depth as part of her ethnographic research. The Eleos
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+platform uses HIPAA-compliant software to record and analyze
 
-2
+conversations between therapists and clients. In addition to saving time
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+for therapists in note-taking, the platform’s AI automatically identiﬁes
+
+relevant evidence-based techniques and summarizes key moments in

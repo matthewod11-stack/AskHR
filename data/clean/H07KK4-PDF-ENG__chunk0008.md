@@ -1,27 +1,13 @@
-## HBR / Digital Article / The Ripple Effect of a Bad Boss on Dual-Career Parents
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 646c86feceaad39eff2ddd7c66eb1f21254dabab
+title: H07KK4-PDF-ENG
+---
+## our experiences at work shape the experiences of our home lives.
 
-While writing Parents Who Lead, one of us (Alyssa) heard countless
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-examples of dual-career parents who described the invasive, negative
+1
 
-impact that an unsupportive work environment (think micromanaging
-
-boss, lack of family-supportive policies, presenteeism culture) can have
-
-on the entire family. It was common to hear one parent complain about
-
-their partner’s work and how carrying the resulting extra burden at
-
-home meant that they couldn’t fully engage at work themselves. And,
-
-happily, we also heard the positive ﬂip side of this story. When one
-
-parent was meaningfully supported at work, their co-parent felt better
-
-able to fully show up as a parent and in their own career.
-
-As a team of researchers and working parents ourselves, we set out
-
-to investigate this question: How does our co-parent’s support (or lack
-
-thereof) in the work environment inﬂuence our ability to thrive at home
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

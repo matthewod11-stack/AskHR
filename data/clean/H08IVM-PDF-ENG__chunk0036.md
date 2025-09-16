@@ -1,11 +1,7 @@
-# Critical success factors.
-
-Success in this transformation requires clear metrics that measure both eﬃciency and relationship quality. Organizations must regularly review
-
-and adjust negotiation practices based on actual dispute patterns,
-
-while maintaining ongoing investment in capability development
-
-across all stakeholder groups. Active executive sponsorship and
-
-monitoring of implementation progress remains crucial throughout the
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40ac0b752c08ee437e8c6770ba3839e088fd41db
+title: H08IVM-PDF-ENG
+---
+# piecemeal approach.

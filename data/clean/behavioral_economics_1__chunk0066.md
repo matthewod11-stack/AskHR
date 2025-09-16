@@ -1,7 +1,15 @@
-## G. Constantinides, M. Harris and R. Stulz.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: be311d06cef8f74b724ad3a746f07393f86da2bd
+title: behavioral_economics_1
+---
+# Economic Perspectives 19(3): 131-145.
 
-Bateman, I., D. Kahneman, A. Munro, C. Starmer and S. Robert (2005). "Is There Loss Aversion in Buying?
+Baker, M. P., R. S. Ruback and J. Wurgler (2004). Behavioral Corporate Finance: A Survey, NBER.
 
-An Adversarial Collaboration." Journal of Public Economics 89(8): 1561-1580.
+Barberis, N., A. Shleifer and R. Vishny (1998). "A model of investor sentiment." Journal of Financial
 
-Bateman, I., A. Munro, B. Rhodes, C. Starmer and R. Sugden (1997). "A Test of the Theory of Reference-
+Economics 49(3): 307-343.
+
+Barberis, N. and R. Thaler (in press). A Survey of Behavioral Finance. Handbook of the Economics of Finance.

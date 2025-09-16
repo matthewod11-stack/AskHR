@@ -1,3 +1,7 @@
-# A Textbook of Industrial Psychology
-
-human behavior are also mentioned in the model. The model's deductions presuppose that each individual's behavior is rational, subject to both internal and external influences, that they make their own decisions regarding their behavior, and that they have unique wants, goals, and aspirations. Individuals ultimately choose between potential behaviors.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: c455c13e49213f0dbe78386bea5d349461a1f340
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# 4

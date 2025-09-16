@@ -1,39 +1,27 @@
-# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44fe3568139b199df07a7b9cbf83ca79c48610ac
+title: R2303A-PDF-ENG
+---
+# Our First Shop
 
-members. We used social media to announce our launch plans to the
+Bitty & Beau’s Coﬀee is our attempt to change that. We started planning
 
-community and to put out a call for job applicants.
+our ﬁrst shop in November 2015. Friends in the coﬀee business advised
 
-In December we rented a room and hosted an informational session
+us on sourcing quality beans and what machinery we’d need. We
 
-for would-be employees. It was a packed house—about 50 people of all
+researched other aspects of food and beverage service online. We found
 
-ages and varying abilities, often accompanied by a family member. Most
+a 500-square-foot spot to rent and set to work to outﬁt it properly. We
 
-had never been to a job interview before and didn’t have a résumé, so
+included signage that explained our mission and a TV monitor on which
 
-it was informal. We simply explained that we were looking for people
+a video loop would present disability statistics and showcase our team
 
-with a positive attitude who were interested in learning something new
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-and assured them that our plan was to ﬁgure out through the training
+4
 
-process which jobs best ﬁt their skill sets and personalities. Then we
-
-made the rounds to meet everyone.
-
-We ended up hiring 19 people from that group—some with Down
-
-syndrome, some on the autism spectrum, some with cerebral palsy,
-
-others undiagnosed. We then spent time with them on-site and assigned
-
-roles: greeting customers, running the point of sale, making drinks,
-
-calling out orders when ready. Amy and other neurotypical supervisors
-
-we later brought in would ﬂoat in the background and assist only when
-
-necessary. We were clear about this: Employees with disabilities would
-
-be the face of our business. Customers would see them doing these
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

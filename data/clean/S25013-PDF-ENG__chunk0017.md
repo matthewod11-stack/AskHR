@@ -1,31 +1,27 @@
-# preference for human input.
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ffd905837e2c5e81287875c43cffe0eda964d2b
+title: S25013-PDF-ENG
+---
+# People Believe AI Is Emotionless
 
-Organizations can address this hurdle by framing tasks in objective
+Though consumers tend to ascribe some human capabilities to AI tools,
 
-terms—by focusing on their quantiﬁable and measurable aspects.
+they don’t think that machines can experience emotions and therefore
 
-For example, with AI-generated dating advice, you could highlight
+are skeptical that AI can accomplish subjective tasks that seem to
 
-the beneﬁts of relying on quantiﬁable outcomes from personality
+require emotional capabilities. That skepticism hinders the acceptance
 
-assessments to guide the matchmaking process. The online dating
+of AI systems that already can perform subjective tasks at the same
 
-service OkCupid complements its algorithms with personality
+skill level as humans can—such as recognizing emotions in faces and
 
-assessments and extensive user-data analysis; it also emphasizes how
+producing still images and video. For example, people are just as open to
 
-the algorithms ﬁlter and rank potential matches to ﬁnd the person who
+ﬁnancial recommendations from AI as they are from humans, because
 
-perfectly ﬁts a user’s preferences.
+that task is viewed as objective. However, when it comes to something
 
-Organizations can also promote the adoption of AI tools by
-
-anthropomorphizing them—for instance, by giving them a gender and
-
-a human name and voice. In one study using an autonomous vehicle
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+like dating advice, which is seen as highly subjective, they have a clear

@@ -1,41 +1,29 @@
-## HBR / Digital Article / How to Bring an Outside CEO into the Family Business
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 831435f14c799218f876760a7be9cbc999f465c4
+title: H07UQT-PDF-ENG
+---
+# organization.
 
-the person responsible for the unwise decision may be a family member
+For the incoming CEO, who is beginning to understand the family
 
-who is still on the board. These dynamics may require the incoming
+dynamics, opinions and observations must be sensitive to how the
 
-CEO to be especially diplomatic when oﬀering criticism. The incoming
+family and its legacy might inﬂuence business decisions. In a publicly
 
-CEO should also realize that outgoing CEOs who are family members
+traded company without controlling family stockholders, a new CEO
 
-(and therefore large stockholders) probably wielded more power than
+might feel free to suggest a division or product line doesn’t make sense
 
-a traditional executive CEO, so questioning decisions made by the
+or a decision made a decade ago looks unwise in retrospect. In a family
 
-outgoing CEO should be done with special care and consideration.
+business, that division may have been started by the founding great-
 
-At Gera, the observe stage was when we knew for sure that we had
+grandfather and be run today by a third-generation cousin; similarly,
 
-hired the right person as our new CEO. Gulzar engaged fully in company
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-meetings, and while he was willing to advance his proposals through
+5
 
-vigorous debate, he respected and embraced all perspectives (including
-
-those of the controlling family) as a consummate team player.
-
-By the fourth phase, own, your new CEO should be feeling like a leader
-
-and gradually taking over daily management and accountability. The
-
-new leader should be supervising their direct reports and implementing
-
-their own processes for supervising the areas of the company outside
-
-their direct control. As the month progresses, the outgoing CEO should
-
-meet less frequently with the new CEO, and eventually only as needed
-
-Even as the incoming CEO takes the helm, they must have awareness
-
-of how the power dynamics may be diﬀerent in a family-controlled
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

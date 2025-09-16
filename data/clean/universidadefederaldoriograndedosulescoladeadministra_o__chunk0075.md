@@ -1,7 +1,13 @@
-## década de 90, com aprofundamento na estrutura organizacional e sua inferência na
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: dfdd625d34d789e3cd2362d15072f70a08f8f5ed
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# tomar
 
-construção de clima através do desenho da cultura. Uma das conclusões que os
+forma,
 
-autores trazem é de que
+também validados por estudos empregados em organizações e
 
-[...] o desenvolvimento de definições operacionais para o conhecimento do clima de uma organização depende diretamente da culturais mais estrutura organizacional e das relevantes dos trabalhadores e que constituirão, consequentemente, o clima da organização. (MENEZES; GOMES, 2010)
+acompanhando o desenvolvimento dos estudos de caso. O terceiro e último, já na

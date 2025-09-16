@@ -1,23 +1,29 @@
-# I
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 611edc1bb4e1ad4af8a7217ff9033cc67eec4d98
+title: journal_of_european_industrial_training
+---
+## DeNisi and Kluger (2000) herald that, for
 
-d e d a o l n w o D
+scholars and practitioners in the field of human resource management in general, it is widely accepted that feedback is an essential component of an effective performance improvement strategy. Furthermore, commentators argue that performance feedback increases job satisfaction and motivation (see Hackman and Oldham, 1980) and many decision-making and career development models include a feedback loop emphasising that individuals learn on the basis of receiving feedback on their performance (DeNisi and Kluger, 2000). Thus, performance feedback plays an important
 
-Understanding 36088 feedback
+role in numerous organisational activities such as career development, motivation, job satisfaction, and performance management. It seems important then that such a globally employed phenomenon is fully understood. 3608 or multi-rater feedback is one of the vehicles that is used to facilitate performance feedback and therefore deserves attention at an academic and practitioner level.
 
-Defining 36088 feedback
+The monograph presents a review of the current research on the nature and value of 3608 feedback and considers issues central to the implementation of 3608 feedback in organisations. The first section defines the 3608 feedback process, traces its development within the literature and practice of HRM/ HRD, reports on the usage of 3608 feedback by organisations, focuses on how it differs from traditional top-down appraisal and details the key components of a 3608 feedback process. This section also gives some consideration to the alternative models that may be used by organisations to design a 3608 feedback system, discusses the benefits and limitations of 3608 feedback in performance management and career development contexts and concludes by focusing on the possible applications of a 3608 feedback process.
 
-There are numerous authors who propose definitions of the 3608 feedback process. ``Feedback from multiple sources or `3608 feedback' is a performance appraisal approach that relies on the input of an employee's superiors, colleagues, subordinates, sometimes customers, suppliers and/or spouses'' (Yukl and Lepsinger, 1995, p. 45). In a special edition of Human Resource Management on 3608 feedback, Tornow (1993) observes that in 3608 feedback programmes, feedback about a target individual is solicited from significant others using a standardised instrument. Jones and Bearley (1996) refer to 3608 feedback as the practice of gathering and processing multi-rater assessments on individuals and feeding back the results to the recipients. Hoffman (1995, p. 82) explains that 3608 feedback is:
+The second section considers the central issue of raters in the 3608 feedback process. It focuses on three rating sources in particular: upward feedback provided by subordinates, peer feedback and self-appraisal. The contemporary debates in respect of each of these sources of feedback are discussed and specific attention is given to the limitations and potential biases of these rating sources. The final section considers the implications of the research findings for practice in the context of the performance management process and employee development practices in organisations.
 
-... an approach that gathers behavioural observations from many layers within the organisation and includes self-assessment.
+[5]
 
-He points out that the feedback recipient completes the same structured evaluation process that managers, direct reports, team members and sometimes external clients use to evaluate his/her performance. Lepsinger and Lucia (1997) indicate that the 3608 feedback process involves collecting perceptions about a person's behaviour and the impact of that behaviour from a number of rating sources. Therefore, a 3608 feedback programme seeks to relay feedback to the recipient regarding his/her behaviour in the workplace and how it affects other organisational members that work with that employee.
+) T P (
 
-Journal of European Industrial Training 25/1 [2001] 5±32 # MCB University Press [ISSN 0309-0590]
+5 1 0 2
 
-Yukl and Lepsinger (1995) suggest that 3608 feedback is a performance appraisal method; Jones and Bearley (1996) refer to assessments in their definition; Tornow (1993) suggests that feedback is solicited from significant others using a standardised instrument. Hoffman (1995) mentions behavioural
+h c r a
 
-[6]
+M 8 0
 
-observations of the ratee and Lepsinger and Lucia (1997) mention perceptions. 3608 appraisal extends feedback input from the traditional top-down approach to include subordinates, peers, customers and can be viewed as ``boundaryless appraisal''. In an era where the boundaryless organisation is gaining increasing currency (see, for example, Ashkenas et al., 1995), the concept of 3608 feedback seems to fit very well with the tenets of this approach to organisational theory.
+1 0 : 5 1 t
 
-Common terms used to refer to 3608
+A K R O C E G E L L O C Y T I S R E V N U y b

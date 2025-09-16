@@ -1,5 +1,9 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8e8f255e2baed78d2f5462e6bb461851a40853e0
+title: untitled
+---
+# Stanford University Press.
 
-Wallston, K. (1997). A history of division 38 (health psychology): Healthy, wealthy, and Weiss. In D. Dewsbury (Ed.), Uniﬁcation through division: Histories of the divisions of the American Psy- chological Association (Vol. 2, pp. 239–267). Washington, DC: American Psychological Association.
-
-Watson, J. B. (1913). Psychology as the behaviorist views it.
+University Commission to Advise on the Future of Psychology at Harvard. (1947). The place of psychology in an ideal university. Cambridge, MA: Harvard University Press.

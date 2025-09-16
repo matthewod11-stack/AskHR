@@ -1,9 +1,21 @@
-## turbines six times faster and 40% more cheaply than conventional
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b155dbd17e345d767f6e0cc6c899701ad7de59e
+title: R2405E-PDF-ENG
+---
+## plan proof-of-concept tests with Aerones.
 
-solutions involving human technicians. Its success has inspired Enel to
+After successful trials, Aerones began
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+operations in 2021. By early 2023 it had
 
-4
+secured $30 million in growth capital
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+outside Enel, which reassured Enel that it
+
+would remain a robust supplier for years and helped Aerones meet
+
+surging demand in a market that’s expected to reach $50 billion by 2028.
+
+Using the start-up’s solution, Enel can inspect, maintain, and repair

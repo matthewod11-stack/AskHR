@@ -1,9 +1,19 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a3f65fd52a6b18067371ec6e8c32338ae559a7a
+title: H07T7V-PDF-ENG
+---
+# competition for them.
 
-the economy, and it’s pretty demonstrably powerful. The label that I
+There’s something brewing on the West Coast in industries that we label
 
-hang on that is the geek way.
+(for reasons that I don’t like very much) high-tech. There’s something
 
-ADI IGNATIUS:
+brewing that’s new, that is diﬀerent than what’s going on elsewhere in
 
-Was Steve Jobs a geek, and did his Apple follow the geek way or was that
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

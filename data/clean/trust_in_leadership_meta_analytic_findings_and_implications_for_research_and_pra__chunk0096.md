@@ -1,7 +1,11 @@
-# York: Free Press.
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: a930a1b9d0278df20584ad15258cea37956c1cb6
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# ness. Homewood, IL: Dorsey Press.
 
-Bass, B. M. (1990). Bass & Stogdill’s handbook of leadership: Theory, research, and managerial applications (3rd ed.). New York: Free Press. *Behson, S. (2001, April). Which dominates? The relative importance of work-family organizational support and general organizational context on employee outcomes. Paper presented at the Society for Industrial and Organizational Psychology conference, San Diego, CA.
+- Armstrong-Stassen, M. (1993). Production workers’ reactions to a plant closing: The role of transfer, stress, and support. Anxiety, Stress and Coping, 6, 201–214.
 
-- Bigley, G. (1996). Follower trust in the leader at work: Concept devel- opment, behavioral antecedents, and effects on followers’ fairness per- ceptions and organizational citizenship behaviors. Unpublished doctoral dissertation, University of California, Irvine. Blau, P. (1964). Exchange and power in social life. New York: Wiley. Bobocel, D. R., & Holmvall, C. (2001). Are interactional justice and procedural justice different? Framing the debate. In S. Gilliland, D. Steiner, & D. Skarlicki (Eds.), Theoretical and cultural perspectives on organizational justice (pp. 85–110). Greenwich, CT: Information Age. *Bommer, W. (1995). Contextual influences on transformational leader behavior’s effectiveness: Transformational leader behavior in a substi- tutes for leadership framework. Unpublished doctoral dissertation, In- diana University.
-
-Brockner, J., & Siegel, P. (1996). Understanding the interaction between procedural and distributive justice: The role of trust. In R. Kramer & T. Tyler (Eds.), Trust in organizations (pp. 390–413). Thousand Oaks, CA: Sage.
+- Ball, G., Trevino, L., & Sims, H. (1993). Justice and organizational punishment: Attitudinal outcomes of disciplinary events. Social Justice Research, 6, 39–65. Bass, B. (1985). Leadership and performance beyond expectations. New

@@ -1,31 +1,31 @@
-## key takeaways, particularly around small group meetings.
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e00d648d7bb56f7ffae45fdc64d77cb102aa8231
+title: H088OR-PDF-ENG
+---
+# categories:
 
-Returning to the ofﬁce did not reduce virtual meetings.
+- 1:1 — Meetings with exactly two participants
 
-Many of the organizations in this analysis implemented substantial
+- Small Group — 3–15 participants
 
-return to oﬃce policies over the past two to three years. We anticipated
+- Large Group — 16+ participants
 
-a drop in virtual meeting volume, but that wasn’t the case. In 2021,
+On average, each meeting produces close to 400 data points which can eﬀectively quantify many aspects of organizational collaboration,
 
-employees attended an average of 8.3 meetings per week, which jumped
+including an accurate measure of time spent, meeting hygiene issues
 
-to 10.32 in 2022. 2023 saw a slight reduction to 10.1, mostly driven by
+(late starts, running over scheduled time), modality (audio-only, video
 
-fewer 1:1s (the easiest to replace when fully in-person).
+enabled, reviewing content), and much more.
 
-This number staying high represents an important shift in employee
+For this eﬀort, we analyzed the data from the snapshot periods looking
 
-preference. By default, most meeting invites include a virtual link and
+for signiﬁcant patterns, shifts, and correlations. While it should be
 
-participants will often choose to join via video even when others are in
+noted that this data is novel (pre-pandemic, 77.6% of meetings were
 
-the same oﬃce. Some also prefer virtual meetings because they allow
+entirely face-to-face) and that we are still in the early stages of
 
-for recording, transcription, and AI note summaries that aren’t available
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+understanding its practical applications, we were able to identify some

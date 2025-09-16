@@ -1,35 +1,15 @@
-# of a few decades ago.
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f50482ff00f8cd02ec86aca291fd323f79655a9
+title: R2305F-PDF-ENG
+---
+## Feedback Across Generations: Create an Explicit Team Culture
 
-I started to become interested in age diversity at work 25 years ago in my
+Generational diversity in the workplace has increased signiﬁcantly
 
-ﬁrst management role. I had hired a woman who was exactly the same
+over the past decades, as people are living longer, healthier lives and
 
-age as my mother to join my team. A pharmacist by training, Carole
+retiring later. In today’s organizations people might be collaborating
 
-was elegant and worldly and was taking on her ﬁrst job after spending
-
-18 years raising children. I still remember how awkward I felt when she began having diﬃculty with a client and I had to give her corrective
-
-guidance. The age diﬀerence hadn’t seemed a problem when things
-
-were going well, but I couldn’t ﬁgure out how to avoid coming oﬀ as
-
-obnoxious when I outlined which behaviors she needed to change.
-
-The experience I was having is sometimes referred to as status
-
-incongruence. This basically means that the status accorded your role in
-
-society doesn’t match the part you’re playing in the current context. One
-
-research project with 8,000 employees in Germany showed that when
-
-younger managers supervise older workers, status incongruence has a
-
-measurable negative impact on employees’ happiness. It’s not just that
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with colleagues from four generations all at once—something unheard

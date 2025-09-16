@@ -1,29 +1,17 @@
-# viewpoints.
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d527379272868d7f58e563622fb4572c4b436489
+title: R2503K-PDF-ENG
+---
+## HBR / Magazine Article / Leading Global Teams Effectively
 
-Another way leaders can prevent an overemphasis on diﬀerences is
+he ﬁnds in life’s simple pleasures. Managers can apply this strategy
 
-by focusing the team on solving a shared problem. Research has
+when teammates disagree about a course of action by asking them to
 
-consistently shown that labeling diﬀerences within a group—whether
+describe the opposing perspective in the ﬁrst person. This approach
 
-based on culture, identity, or even something as trivial as assigning
+humanizes teammates, encourages perspective-taking, and may lead to
 
-people to “blue” or “green” groups—inevitably creates divisions. The
-
-most eﬀective way to counter this tendency is to reframe the group’s
-
-identity around a common goal or challenge. The psychologist Muzafer
-
-Sherif’s famous Robbers Cave experiment illustrates this: Researchers
-
-divided boys into two teams at summer camp, leading to conﬂict that
-
-only subsided when they faced shared challenges, like ﬁxing the camp’s
-
-water supply and a broken truck carrying food. In a far more dramatic,
-
-real-world example, at Hadassah Ein Kerem Hospital in Jerusalem,
-
-Israeli and Palestinian doctors and nurses work together to provide top-
-
-quality care, focusing on their shared commitment to patient care rather
+insights that enable the team to ﬁnd a solution that leverages multiple

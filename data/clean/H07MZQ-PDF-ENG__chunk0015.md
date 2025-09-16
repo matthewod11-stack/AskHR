@@ -1,23 +1,27 @@
-## early intervention papers, and information on state assistance
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2cc1683be1f380ed324a7d492f4eecd98264d54e
+title: H07MZQ-PDF-ENG
+---
+# HBR / Digital Article / How to Support Parents of Neurodivergent Children at Work
 
-programs. It was a taxing process. I felt overwhelmed, anxious, and
+My (Kalifa’s) son was diagnosed educationally just before he turned
 
-stressed. I made no mention of this at my job and kept working like
+3, and medically, just after. He was a bubbly baby who reached most
 
-normal. I checked my company’s resources for potential help. I checked
+developmental milestones really quickly. He was a funny little leader in
 
-our insurance coverage, and it was unclear that there was anything
+daycare. But as time passed, I noticed two things: he preferred parallel
 
-there. So I took all my lunch breaks, early mornings, and post-work
+play, meaning he didn’t really interact with his peers though they kept
 
-hours to schedule appointments and in-home visits. I was spent. But
+trying to interact with him, and he just wouldn’t speak. He was around 2-and-a-half when I became convinced that something felt diﬀerent
 
-after a few months, I found him support. He started a county early
+about how he interacted. But as a new mother, I wasn’t sure what to look
 
-intervention program on his third birthday. Afterwards, I still didn’t feel
+for. The internet was not helpful (and a scary place for a new parent).
 
-like I could speak about it. I didn’t fully understand the diagnosis, and
+My doctor asked me to monitor him, but I was not sure what to monitor for. Most people around me shrugged it oﬀ as me being hyper-worried, insisting he would grow into it. But I knew something was diﬀerent.
 
-I knew there was nothing I could ﬁnd in my company that showed they
-
-cared. I felt that my role as a parent of a neurodivergent child had no
+Fortunately, I am a research junkie and pored over research papers,

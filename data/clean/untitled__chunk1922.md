@@ -1,3 +1,9 @@
-# Real People Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b63c999b2d5ead8c988851f5faf7b051c97c61df
+title: untitled
+---
+## eugenics. Eugenic Laboratory. London: Dulau.
 
-Phillips, E. L. (1956). Psychotherapy: A modern theory and prac-
+Perls, F. S. (1969). Gestalt psychotherapy verbatim. Lafayette, CA:

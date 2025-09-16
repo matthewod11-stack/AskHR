@@ -1,33 +1,17 @@
-## about productivity, poor information ﬂow that results in slow decision-
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1abff71a212392a9c78925496f04a57a38807bbd
+title: R2003G-PDF-ENG
+---
+# remain CoS for ﬁve years or more.
 
-making, and too much time spent on back-and-forth and follow-up. She
+Not every executive needs a CoS, and the role is not right for every
 
-says, “If the leader is experiencing these areas of dissatisfaction, the
+corporate culture. Liza Wright, who served as the director of presidential
 
-right kind of chief of staﬀ may well be the best solution.”
+personnel in the White House for George W. Bush and later cofounded
 
-If you’re an executive looking to increase your eﬀectiveness, these seven
+a search ﬁrm specializing in hard-to-ﬁll jobs (including CoS), looks for
 
-questions will help you decide whether a CoS might help you:
-
-- Are you spending enough time on the vital A items on your agenda, or
-
-are you frustrated by time spent on B and C items?
-
-- Do you have enough “white space” in your calendar to consider future
-
-opportunities, or is most of your time spent reacting to what has
-
-already happened?
-
-- As you deliberate on the decisions that only you can make, are you
-
-getting the best available information? After you’ve made a call, do you
-
-get surprised by new information that you should have known?
-
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+three signs that a CEO would beneﬁt from adding the role: concern

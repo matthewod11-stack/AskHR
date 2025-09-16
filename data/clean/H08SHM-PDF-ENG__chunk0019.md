@@ -1,11 +1,19 @@
-## HBR / Digital Article / What Gets Measured, AI Will Automate
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3545d324312b18be4e1e8684844aea00de99953
+title: H08SHM-PDF-ENG
+---
+## From Lab Contest to Industrial Revolution
 
-starved, ingesting too little visual data to reach human performance.
+Back in the mid-2000s, computer scientist Fei-Fei Li saw that the ﬁeld of
 
-Her solution was refreshingly brute-force: she built ImageNet—a vast,
+computer vision, which is focused on enabling computers to “see” and
 
-meticulously labeled image trove assembled with help from Amazon
+interpret images, was dealing with a bottleneck: algorithms were pixel-
 
-Mechanical Turk. But her true stroke of genius came in 2010, when
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-she bolted a global leaderboard onto the dataset—transforming image
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

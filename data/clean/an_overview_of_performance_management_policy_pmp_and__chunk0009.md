@@ -1,7 +1,11 @@
-# BRAC University.
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 3fa2c8734cf75590ded900b437e923f5a539dc4d
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# Declaration
 
-2.(cid:32) The report does not contain material previously published or written by a third party,
+It is hereby declared that
 
-except where this is appropriately cited through full and accurate referencing.
-
-3.(cid:32) The report does not contain material which has been accepted, or submitted, for any other
+1.(cid:32) The internship report submitted is my/our own original work while completing degree at

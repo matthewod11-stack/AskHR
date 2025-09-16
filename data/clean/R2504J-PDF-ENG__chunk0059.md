@@ -1,13 +1,17 @@
-# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ba8148b78438d88efc318919176cb54547f0277
+title: R2504J-PDF-ENG
+---
+# the brain to process.
 
-About 65% of them were organized in a predominantly horizontal
+Most of the 170 presentations (out of our sample of 654) that included
 
-fashion. (They were probably prompted to do so by the default
+strategy visualizations did conform to some of our recommendations.
 
-landscape orientation of PowerPoint.) About 90% also displayed
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-framework components that were visually distinct. (In the remaining
+13
 
-10% the individual components weren’t clearly separated but were
-
-lumped together in, say, a matrix or a graph.) And 71% illustrated the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

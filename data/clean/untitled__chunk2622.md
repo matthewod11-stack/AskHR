@@ -1,21 +1,15 @@
-## Deﬁning the Outcomes of Undergraduate Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3ae773079b5a57366e4bd5c59bf51dedd01213da
+title: untitled
+---
+# SCHOLARSHIP
 
-In response to E. C. Sanford’s (1906) description of an ideal beginner’s course, Walter T. Marvin (1906) suggested the following:
+Ratcliff (1997) labeled a second curricular model as analyti- cal. Variables in the curriculum that affect student develop- ment are identiﬁed, measured, and evaluated to determine their effectiveness. McGovern (1993) described an analytical model for psychology as:
 
-The chief problem in any course is: What precisely does the teacher wish the student to learn, as distinguished from all the illustration, exposition, etc. that may be found helpful? In short, every course should include a body of deﬁnite and precise information to be thoroughly learned, hard as it may be to secure such information in psychology as compared with the exact sciences. . . . Perhaps one of the special habits we can form in the brightest pupils is reading interesting books on psychology. (p. 61)
+What kind of outcomes can be achieved with What kind of students taught by What kind of faculty using What kind of teaching methods as part of What kind of curriculum? (p. 218, emphases in original)
 
-Calkins (1910) was more speciﬁc:
+In this section on scholarship, we ﬁrst focus on faculty efforts to identify common outcomes from the earliest days of a
 
-Psychology is psychology whatever the use to be made of it. First courses in psychology should therefore be essentially the same in content and in method, whether they introduce the student to advanced work in psychology or to the different prob- lems of pedagogy, of ethics or of metaphysics. The [sic] imme- diate purpose of every course in psychology is to make the student expert in the study of himself: to lead him to isolate, an- alyze, to classify, and (in the scientiﬁc, not in the metaphysical sense) to explain his own perceiving, remembering, thinking, feeling, and willing. (p. 45, emphasis in original)
-
-These two psychologists’perspectives must be understood in historical context—the ﬁeld was still in the process of distin- guishing its content and methods from its philosophical an- tecedents. Wolﬂe (1942), in his review of the literature on the ﬁrst course since the 1910 studies, identiﬁed four prevailing objectives: teach facts and principles, develop scientiﬁc method or habits of critical thought, prepare students for later courses or interest in psychology, and eliminate popular su- perstition. However, his evaluation of more than 100 studies suggested to him the following synthesis of major objectives:
-
-The ﬁrst is to acquaint the student with the most important and most generally accepted facts, principles, and hypotheses of psy- chology. The attainment of this objective will contribute to the student’s general cultural education and will increase his ability to recognize and to deal intelligently with the psychological problems of modern society. The second objective to be stressed
-
-is to develop the habit of critical and objective analysis of psy- chological problems which arise and of the data or hypotheses available to help solve them. The third important objective depends on the attainment of the ﬁrst two and consists of the im- provement of the student’s ability to understand his own per- sonal problems and to achieve personally and socially desirable solutions of those problems. (pp. 706–707)
-
-This ideal synthesis was accomplished after the ﬁrst 50 years of the new discipline’s history. Recalling Veysey’s (1973) themes,psychologywasinthedisciplinarymainstreaminpro- viding for the utilitarian needs of society, afﬁrming a respect for science, and espousing the value of liberal arts education. For 25 years after World War II, psychologists continually reﬁned their understanding and pedagogy for these three ob- jectives. As it had done in the ﬁrst part of the twentieth cen- tury, the knowledge base addressed in Wolﬂe’s (1942) ﬁrst objective would continually expand, so much so as to suggest that the discipline had splintered. However, as we discussed in the introduction to the chapter, from the broader historical perspective of American higher education, the period after World War II would bring many different students to the cam- pus with many different objectives. The “psychological prob- lems of modern society” and students’ “personal problems” of Wolﬂe’s objectives became more complex, and faculty confronted them ﬁrsthand in their classrooms.
-
-In a paper prepared for theAPACommittee on Undergrad- uateEducation,Buxton(1956)asked:“Whoisresponsiblefor determining the objectives, and the means for reaching them, in liberal education?” (p. 84). He espoused control by each local institution’s faculty but recommended a balance be- tween student-centered (intellectual and personal adjustment) and teacher-centered (content and method) curricular and course objectives. His answer to the question “To what degree should curricular offerings, courses, or requirements be adapted to the student populations served?” (p. 90) focused solely on differences in major ﬁelds and career orientations. The student-centered versus teacher-centered curriculum had been debated at length by the Cornell Conference group (Buxton et al., 1952). It would be echoed by the Michigan Conferencegroup(McKeachie&Milholland,1961),buttheir response derived from the direct experience of increasingly heterogeneous student populations. In describing three differ- ent types of “ﬁrst course”—elementary, introductory and “ex- igential, or functionally oriented” (p. 47 ff.)—these authors asserted:
-
-The term liberal education has traditionally implied a quest for underlying abstract principles rather than a concern with speciﬁc problems. . . . Teaching not bound by practical concerns might produce minds not adjusted to life as it is now lived and poorly
+single course to the contemporary “Top 30” described by Perlman and McCann (1999a). Second, we focus on the as- sessment of these outcomes by the faculty, but more often mandated by external constituencies in the interests of ac- creditation or public accountability.

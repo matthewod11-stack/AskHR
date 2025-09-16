@@ -1,9 +1,9 @@
-## This leader shares too many early ideas without strategic framing.
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fff0b1e47012b2716ae261a2f40cc09a79f7eb63
+title: H08UYL-PDF-ENG
+---
+# more constructively.
 
-They thrive on creativity and innovation, but teams can become
-
-overwhelmed or confused when new ideas are shared without context or
-
-when priorities are already in motion.
-
-One founder frequently pitched new innovation projects during team
+- 2. The Idea Generator

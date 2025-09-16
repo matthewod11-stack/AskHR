@@ -1,7 +1,9 @@
-## reestructuración meditada, otros se enfrentan a un resultado mucho
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3c87ebe53b6f1817730e9469ea53fd5b43d0f23
+title: H08U08-PDF-ENG
+---
+## presión para reducir su concepto (line item) más caro: su personal.
 
-Copyright © 2025 Harvard Business School Publishing. Reservados todos los derechos.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Y mientras que algunos departamentos pueden beneﬁciarse de una

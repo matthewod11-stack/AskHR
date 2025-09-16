@@ -1,11 +1,19 @@
-# et
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 4439b0209c277e1e448caae6eb9a9bda703adc03
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# SRINIVAS PUBLICATION
 
-al.,
+Sirgy, M. (2012). [67]
 
-Van der Vaart et al., (2015). [71]
+J,
 
-Sharma et al., (2016). [72]
+Pradhan, et al., (2022). [68]
 
-Haddon, (2018). [73]
+Tripathi, (2011). [69]
 
-J.
+P.
+
+Grant, (2007)). [70]

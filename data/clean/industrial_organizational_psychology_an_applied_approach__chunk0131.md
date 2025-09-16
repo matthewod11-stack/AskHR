@@ -1,17 +1,7 @@
-## Step : Determine Who Will Evaluate  Performance Supervisors
-
-242
-
- 239
-
-Decision 3: Use of Employee Comparisons, Objective Measures, or Ratings 247 Evaluation of Performance Appraisal Methods
-
-255
-
-Step : Train Raters Step : Observe and Document Performance  Step : Evaluate Performance Obtaining and Reviewing Objective Data Reading Critical-Incident Logs
-
-
-
-
-
-262
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4bb72e0ee15f2bcd4720b474ac83d23c97c872c2
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Step : Identify Environmental  and Cultural Limitations

@@ -1,9 +1,7 @@
-## effectiveness of selection decisions (Ozcelik & Ferman, 2006:
-
-77).
-
-Training and Development Competency gap analysis can identify the needed competencies; these competencies can be linked with the equivalent learning objects (Draganidis & Mentzas, 2006:
-
-56)
-
-.
+---
+source_path: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari.md
+pages: n/a-n/a
+chunk_id: b41e3eb3c13c01009e6d88f3ced1a5048319fc4a
+title: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari
+---
+# 65

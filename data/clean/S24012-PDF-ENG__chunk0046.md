@@ -1,29 +1,23 @@
-## HBR / Spotlight Article / Leaders Must React
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c38528875770f759f98304a6401cfe18deb0e8fe
+title: S24012-PDF-ENG
+---
+# Yasu & Junko/Trunk Archive
 
-Having sized an issue, leaders then must properly frame it and
+of analysis, move between details and the
 
-communicate that framing to the organization. Sometimes they have
+big picture, and assess how material
 
-to address the fact that the organization may be tempted to overreact to
+something is. For leaders, having this sense of proportion is key. Even if
 
-a siren song or underreact to a whisper warning and must explain why
+they choose to delegate some issues to others, their own judgments are
 
-an issue may be larger or smaller than people initially realize.
+the ones they must ultimately live with.
 
-Responding. A leader’s actions in responding to any issue might seem
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-routine because coming up with a plan, delegating responsibility, and
+11
 
-overseeing execution is what a leader does daily. However, one key to
-
-dealing with unfolding events is recognizing that by deﬁnition they are
-
-evolving and require an adaptive response. They don’t lend themselves
-
-to static six-week plans. Often a leader may ask for quick daily updates
-
-to ensure that the response crafted yesterday still makes sense today
-
-and that the initial categorization of an issue still ﬁts. An incident that
-
-at ﬁrst presents as a whisper warning may eventually become normal
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

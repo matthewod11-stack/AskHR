@@ -1,7 +1,15 @@
-# account?
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2e194cd192243ec6e976165508842717b25bfef
+title: H06W7A-PDF-ENG
+---
+# in their own system….
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Dan: Right. … If patients are giving permission for the system to
 
-3
+include their data, should that automatically come with permission
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to view the data?
+
+Ken: Is there a way to propose a less onerous, but still comprehensive

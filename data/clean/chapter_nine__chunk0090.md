@@ -1,5 +1,7 @@
-# Department of Health (2005b) A National Framework to Support Local Workforce Strategy
-
-Development: A Guide for HR Directors in the NHS and Social Care. HMSO: London.
-
-Department of Health (2009) NHS 2010-2015: From Good to Great. Preventative, People-Centred,
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: e9a9f6da00e8545699474453ad6683abf2d1b83f
+title: chapter_nine
+---
+# HMSO: London.

@@ -1,13 +1,21 @@
-# much more coolly.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1f6c62016d3be1419e795190bf56ec2551a2f43
+title: S24011-PDF-ENG
+---
+# bridging.
 
-Most of us already have experience with the actions that activate
+Like Gorbachev, we all have more than one style. By drawing on our
 
-the core energies. We all, for instance, show appreciation and build aﬃliations in everyday life (though it might not occur to many of us
+core energies, we can pull away from a limiting identiﬁcation with
 
-to use these actions if we were in Gorbachev’s situation). The neural
+any particular style and adapt to the present moment. It is worth
 
-pathways for these actions are present in most people’s brains. Since it’s
+noting, however, that leadership-in-ﬂow does not work by faking it.
 
-much easier to activate existing pathways than to build pathways from
+If Gorbachev hadn’t ﬁrst truly felt admiration for Thatcher’s acute
 
-scratch, leadership-in-ﬂow is accessible to everyone—people in all roles
+mind and her principles, Thatcher probably would have sensed from
+
+his demeanor that he wasn’t being genuine and would have responded

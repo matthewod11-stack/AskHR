@@ -1,19 +1,15 @@
-# to:
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b08e23f18185dba429821edb4e9603763ae256c9
+title: H07P39-PDF-ENG
+---
+## HBR / Digital Article / 6 Ways to Become a More Collaborative Leader
 
-- Speak up frequently and vehemently, sometimes to the point of
+often proves counterproductive in the long run. The crusader leader
 
-dominating conversations.
+is often perceived as closed minded, inﬂexible, and overly passionate.
 
-- Interrupt others or answer questions with their viewpoint. In other
+While passion can be a positive trait, it becomes detrimental when
 
-words, they don’t always listen to understand.
-
-- Be outspoken about their opinions, often pushing their own agenda
-
-without considering other perspectives.
-
-- Exhibit visible and frequent frustration when faced with resistance,
-
-doubling down on justifying or defending their approach, often
-
-assuming that pushback stems from ignorance rather than a genuine
+accompanied by predictable negative behaviors. Crusader leaders tend

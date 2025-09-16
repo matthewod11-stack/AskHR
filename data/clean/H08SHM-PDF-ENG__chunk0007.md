@@ -1,17 +1,19 @@
-## memory, coherent reasoning, and strategic foresight, and Apple just
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6f8b55d4b883ab768d5052ce93bc9da064e2f74
+title: H08SHM-PDF-ENG
+---
+## up bespoke advice or coursework at a fraction of today’s cost—and with
 
-published new research claiming that today’s models perform only
+quality that’s closing in fast.
 
-within the limits of their training data. Yet even if progress stopped
+There are major questions about how much more powerful AI tools
 
-tomorrow, the disruption is already underway.
+might become—and how soon. Anthropic’s Dario Amodei and OpenAI’s
 
-To navigate this new landscape, leaders need to understand—and
+Sam Altman claim artiﬁcial general intelligence (AGI) could be only
 
-plan for—how automation will aﬀect their businesses. That requires
+a year or two away. Meta’s Yann LeCun is more skeptical, arguing
 
-understanding which tasks and responsibilities are most likely to come
-
-under pressure and charting a course to move the enterprise up the
-
-intelligence value chain before time runs out.
+that current models lack grounded physical understanding, durable

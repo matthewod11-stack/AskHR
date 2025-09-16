@@ -1,15 +1,33 @@
-# chains.
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12b3107a49fcfeb2926873a45a60c57eebe35f36
+title: S25012-PDF-ENG
+---
+## HBR / Spotlight / The Secret to Successful AI-Driven Process Redesign
 
-Consider how twins are used in healthcare. Some 90% of the world’s
+technology allows human operators to simply type text commands into
 
-top drug and healthcare laboratories already employ them in areas like
+a chat interface; users with no technical expertise can direct and debug
 
-preclinical drug development. Atlas Meditech has built a platform that
+the system. Ralf Gulde, the CEO, calls it “the world’s most accessible way
 
-lets surgeons practice on a virtual brain that matches the patient’s
+of interacting with robots.”
 
-brain in size, shape, and lesion position. Digital twins of hospitals
+What’s next? The convergence of gen AI and digital twins, already
 
-are used to make day-to-day decisions about staﬃng, operations, and
+underway, provides a glimpse of a future in which continuous process
 
-bed management. A hospital can also use its twin to stress-test the
+improvement becomes even more democratic. Digital twins are used to
+
+model complex systems—such as jet engines, wind turbines, factories,
+
+and human hearts—and simulate their functioning with an accuracy
+
+that allows users to remotely create solutions to any problems that
+
+arise (and often before problems arise). Digital twins can be used to
+
+make production processes more eﬃcient, improve quality, increase
+
+operational performance, and create more-robust and -resilient supply

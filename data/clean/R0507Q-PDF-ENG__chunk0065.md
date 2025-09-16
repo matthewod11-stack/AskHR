@@ -1,15 +1,11 @@
-## attention to short-term ﬁnancial measures like quarterly sales and
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf3c184a8a14ab4e2383b03cb909b39947305929
+title: R0507Q-PDF-ENG
+---
+## prosperity by increased market share by segment and return on equity.
 
-operating income? Many have criticized ﬁnancial measures because
+But given today’s business environment, should senior managers even
 
-of their well-documented inadequacies, their backward-looking focus,
-
-and their inability to reﬂect contemporary value-creating actions.
-
-Shareholder value analysis (SVA), which forecasts future cash ﬂows
-
-and discounts them back to a rough estimate of current value, is an
-
-attempt to make ﬁnancial analysis more forward-looking. But SVA still
-
-is based on cash ﬂow rather than on the activities and processes that
+look at the business from a ﬁnancial perspective? Should they pay

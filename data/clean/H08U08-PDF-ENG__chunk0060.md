@@ -1,11 +1,15 @@
-## pudo conseguir un traslado interno para ella a una iniciativa de mayor
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 981f2c4ba620698b67497bc412767e3694e55ed9
+title: H08U08-PDF-ENG
+---
+# documentado.
 
-prioridad que no se vio afectada por los recortes. Su defensa preservó
+En última instancia, su objetivo es hacer visible lo que está en juego para
 
-no sólo el conocimiento institucional sino también la moral del equipo,
+que lo más importante no se pierda en la hoja de cálculo. En el caso
 
-demostrando que incluso cuando no se pueden salvar las funciones, a
+de Alex, el papel del miembro de su equipo seguía siendo eliminado.
 
-menudo se puede salvar a las personas.
-
-. . .
+Sin embargo, como actuó a tiempo y enmarcó el riesgo con claridad,

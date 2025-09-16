@@ -1,7 +1,13 @@
-# Total Distribution statistics
+---
+source_path: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis.md
+pages: n/a-n/a
+chunk_id: 3155859d16d94f6e1ebb9c989a4bcdd3dd39e320
+title: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis
+---
+# An Empirical Results of how eNPS Works
 
-The company A 14 5 7 8 6 13 8 11 12 7 9 100 M = 5,1 SD = 3,2 –44%
+In the surveyed companies, except company B, the whole spectrum of answers was used by the respondents.
 
-The company B 0 4 1 2 2 11 11 22 25 15 9 100 M = 7,1 SD = 2,0 –6%
+Table 1. The distribution of the answers to eNPS question in company A, B and C (in percent)
 
-The company C 1 3 4 8 7 13 14 20 16 7 7 100 M = 6,2 SD = 2,3 –35%
+The eNPS answer 0 1 2 3 4 5 6 7 8 9 10

@@ -1,61 +1,63 @@
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d725545bfcf7181847a6c15dbb1b41d0b4b9948
+title: H07DLJ-PDF-ENG
+---
 # HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
-the small things being: for every 100 men that are promoted into
+actually wielding or having power is actually a bad thing. But the actual
 
-management, only 86 women are.
+deﬁnition of power is just the ability to inﬂuence people and events
 
-We don’t tell the other 14 women that they didn’t get promoted because
+around you, which is something we should all want with every single
 
-they’re a woman like they might have done 20, 30, 40 years ago. But
+day of our lives. That just means having impact. But it’s really that you
 
-instead, there’s these subtle stumbling blocks that we’re facing. And
+have more power, which means that in the circumstances that you’re in,
 
-the challenge now is rather than having something to point to, is that
+actually taking advantage of the things that you can do to move things
 
-if you’re one of those women that didn’t make it, you always wonder,
+towards justice, move things towards what you’re passionate about, that
 
-“Is it me? Could I have done something diﬀerent?” When actually,
+you’re actually delivering to your customers, that’s what I want everyone
 
-structurally, the system is a little bit set up so that there’s a slightly tilted
-
-playing ﬁeld. And yet, that small slight change makes a huge diﬀerence
-
-in the lives of the women that actually face it.
+to walk away with.
 
 ADI IGNATIUS:
 
-This is Harvard Business Review’s 100th anniversary, and as part of
+I’d say the book attempts to be inspirational, but it’s also quite
 
-the celebration we’ve been talking about some of the great articles
+clearheaded about the problems that women have faced and continue to
 
-that we’ve published and that have had the most impact. We’ve also
+face in the workplace. Have you seen progress? In recent years, is there
 
-unearthed some of the howlers that we’re frankly embarrassed about.
+notable progress that you could talk about?
 
-And it took us a long time to start to get gender right. I was recently at
+DEB LIU:
 
-a public event on stage, and I read from a 1956 article that talked about
+We have made so much progress over the years. I’ve talked to a lot
 
-how women needed to support their husband’s career, and they should
+of women and some of the women I interviewed actually came of age
 
-tolerate and even encourage their husband to work late, to go on trips.
+and led through decades when things were really diﬀerent. I talked to
 
-And then speaking to the husband, it sort of said that you might just
+Lenore Blum, she was one of the ﬁrst professors of math at Berkeley, and she was talking about how diﬃcult it was and how eventually her
 
-need to ﬁnd a new wife who will accommodate this lifestyle. This is
+contract was not renewed, how she was almost kicked out of her next
 
-1956, I wasn’t in the job then, but we did publish it and have to own it.
+university, before she went on to a great career and success.
 
-So there is a lot of progress. And yet, I think a lot of women feel a lot
+What you have to realize was that overt discrimination was happening
 
-of frustration still in the workplace. You’ve decided to write this book
+back then. Now, it’s actually much more covert. It’s actually really
 
-even as you are CEO of a nearly $5 billion corporation. What was the
+unconscious bias. Very rarely is a woman told, “You can’t have this
 
-calculation there to try to be able to do both?
+job,” or, “You can’t accomplish X,” but instead it’s just the small things,
 
 Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

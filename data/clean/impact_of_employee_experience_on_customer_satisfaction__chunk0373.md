@@ -1,7 +1,9 @@
-## Organizational Psychology. Chicago: Rand McNally.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 336c05be966912eae4c8c6bc16e71bd9ad05840b
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+## Journal of Personality and Social Psychology 90, 179-196.
 
-Lyubomirsky, S. (2014). The Myth of Happiness: What Should Make You Happy, but Doesnt.
-
-What Shouldnt Make You Happy, but Does . New York: Penguin Books.
-
-Maddux, J. (2018). Subjective Well-Being and Life Satisfaction. New York and London:
+Locke, E. A. (1993). The Nature and Causes of Job Satisfaction. Handbook of Industrial and

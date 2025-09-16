@@ -1,3 +1,9 @@
-# Labor.
+---
+source_path: Employment Law Guide - Registered Nurses (H-1C Visas).md
+pages: n/a-n/a
+chunk_id: 687dcdfe5095a0f0fc8b1eb4081a64fe38f147bf
+title: Employment Law Guide - Registered Nurses (H-1C Visas)
+---
+## oﬃce(https://www.dol.gov/agencies/whd/contact/local-oﬃces).
 
-No facility may intimidate, threaten, restrain, coerce, blacklist, discharge, or in any manner discriminate against any person because such person has ﬁled a complaint, testiﬁed, sought counsel, or asserted or exercised any rights on behalf of himself or
+All appropriate protections under U.S labor laws apply to workers under a temporary labor certiﬁcation from the Department of

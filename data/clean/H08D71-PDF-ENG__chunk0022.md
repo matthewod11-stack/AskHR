@@ -1,13 +1,11 @@
-## sustainable competitiveness in U.S. manufacturing.
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4dde152865cfa817f048647ee271d7b0e5f9a905
+title: H08D71-PDF-ENG
+---
+# HBR / Digital Article / The 4 Key Strengths of China’s Economy — and What They Mea…
 
-Ford is another U.S. company that has recognized that Chinese
+LONGi enables it to leverage LONGi’s scale, advanced technologies,
 
-technology is indispensable to its green ambitions. To make the diﬃcult
-
-transition from gas-guzzling SUVs and trucks to electric vehicles (EVs),
-
-the Detroit giant has teamed up with CATL, China’s dominant EV
-
-battery manufacturer. Ford is investing $3.5 billion into an EV battery
-
-factory in Michigan that will use licensed CATL technology to cost eﬀectively produce lithium-ion batteries for Ford’s F-150 Lightning
+and supply-chain advantages to help meet that target while achieving

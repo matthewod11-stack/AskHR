@@ -1,7 +1,21 @@
-## elements such as progression through challenges and levels, instant
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98afc4615c509382c6e2bea3b47889820761498c
+title: F2302A-PDF-ENG
+---
+# Jamie Cullen
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Corporate training isn’t all fun and games, but maybe it should be.
 
-1
+Most of us have (often grudgingly) used corporate learning systems.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+We skim through the 50-slide PowerPoint decks hoping to correctly
+
+guess enough answers to pass so that we can get back to our “real
+
+work.” Anything we learn may be forgotten by the time we receive our
+
+certiﬁcate of completion. But a new study shows that gamiﬁed training
+
+done right—lessons conducted carefully and over time, incorporating

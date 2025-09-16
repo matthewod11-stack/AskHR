@@ -1,9 +1,9 @@
-## Why Disclosing a Lack of Progress Can be Beneficial
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d0ab80bca3091bdeb20cb074a72be525cee028c
+title: H088Z4-PDF-ENG
+---
+## Because such transparency signals the genuineness and strength of
 
-People are often deeply skeptical of organizations’ professed
-
-commitments to diversity. Is it a PR stunt, “window dressing,” or plain
-
-old BS? They question the authenticity of statements regarding diversity
-
-because they could just as easily be chalked up to a superﬁcial eﬀort to
+their commitment, which is elusive in this arena.

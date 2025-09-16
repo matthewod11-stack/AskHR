@@ -1,9 +1,9 @@
-# Applied Social Psychology, 11, 314–355.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4acc262c8945ceb5ef6992d20b0e07ac7fbea08d
+title: untitled
+---
+# University Press.
 
-Maeder, T. (1985). Crime and madness: The origins and evolution
-
-of the insanity defense. New York: Harper & Row.
-
-Mark, M. M. (1999). Social science evidence in the courtroom: Daubert and beyond? Psychology, Public Policy, and Law, 5, 175–193.
-
-Marston, W. M. (1917). Systolic blood pressure changes in decep-
+Loh, W. D. (1981). Perspectives on psychology and law. Journal of

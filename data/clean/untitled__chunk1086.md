@@ -1,5 +1,9 @@
-# Individual Lives and Individual Differences: The Multidisciplinary Study of Personality (1900–1930) 183
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bc588327bdc4f044e34b41bf0b2d9e5bf594db4c
+title: untitled
+---
+# The Mental Hygiene Movement
 
-histories based on their investigations of clients and their families. Psychologists’ role in these interdisciplinary teams “generally came down to the construction and application of scales that would subject ‘personality’ to the rigors of mea- surement and so convert it from merely an object of social in- tervention to an object of science” (Danziger, 1990, p. 164). The movement thus supported psychologists as purveyors of expert scientiﬁc knowledge of personality in the form of test scores.
-
-[sic],” Coe (1903, p. 62) suggested that James’s results would be “doubly valuable” if they were supplemented by “an ex- perimental and physiological study of the same types” (p. 63) and commented on the “romanticism, not to say impression- ism” (p. 65) in his method. G. Stanley Hall’s Adolescence (1904), which was illustrated with quotations from autobi- ographies, literature, and answers to questionnaires, drew similar criticism. “Dr. Hall is as much an artist as a scientist,” commented one reviewer, adding, “It is to be regretted that much of the questionnaire data . . . has not been secured or tabulated according to the most approved statistical and scientiﬁc methods” (Kirkpatrick, 1904, p. 692).
+Inspired by a case study—the autobiography of a former patient (Beers, 1908)—the mental hygiene movement was organized in 1909 to reform the treatment of patients in men- tal institutions. The movement soon became a powerful coalition of psychiatrists, educators, and social workers who attributed various social and personal problems to individual maladjustment (see Cohen, 1983; Danziger, 1990, 1997; Lubove, 1965; Parker, 1991). Expanding their goals to in- clude the identiﬁcation of potential cases of maladjustment, mental hygiene workers made “personality” the focus of their preventive and therapeutic efforts, which frequently involved interdisciplinary teams of experts undertaking intensive case studies of “troublesome” children in settings such as child guidance clinics (W. Healy, 1915; Jones, 1999). Psychiatrists typically screened clients for medical disorders and con- ducted psychotherapy, and social workers contributed case

@@ -1,7 +1,15 @@
-# System
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 25667d489702ee012915b2c8f894d580873d6b5e
+title: building
+---
+# 5 Immediate task description or request
 
-1
+6 Output formatting
 
-The assistant will be acting as a customer support ticket classification system.
+7 Pre-filling the response (if required)
 
-The task is to classify the ticket according to the rules.
+20
+
+Here’s what our prompt might look like if we wanted Claude to help us classify customer support tickets:

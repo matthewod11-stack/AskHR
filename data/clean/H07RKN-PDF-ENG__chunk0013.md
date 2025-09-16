@@ -1,7 +1,13 @@
-# traditional sales situation.
+---
+source_path: H07RKN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35867dc0243e5ccbb06803fa04636c50135eff05
+title: H07RKN-PDF-ENG
+---
+# traction]
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+And that’s not all… [demonstrates potential, additional future
 
-2
+opportunities]
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Let’s look at an example of how this structure might be used in a

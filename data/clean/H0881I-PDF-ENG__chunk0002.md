@@ -1,19 +1,7 @@
-# Eoneren/Getty Images
-
-After participating in a good leadership development program, you’ll
-
-no doubt feel inspired to transform yourself, your team, and your
-
-organization. That’s why companies spend more than $46 billion
-
-per year on such training. They want their employees, from high
-
-potentials to top executives, to gain energy and purpose by learning and
-
-envisioning the future with others.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H0881I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3c1b82ade0dae463284408e5d09f85a96f7d3c4
+title: H0881I-PDF-ENG
+---
+## Published on HBR.org / May 10, 2024 / Reprint H0881I

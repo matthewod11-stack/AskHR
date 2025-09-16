@@ -1,5 +1,19 @@
-# American Psychologist, 15, 251–255.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2aec36e2344f2e40cca510d1fdc289ccc1c98002
+title: untitled
+---
+# References
 
-Wilpert, B. (2000). Applied psychology: Past and future societal and scientiﬁc challenges. Applied Psychology: An International Review, 49, 3–22.
+Sunar, D. (1996). An interview with Cigdem Kagitchibasi. World
 
-Woodworth, R. S. (1964). Contemporary schools of psychology
+Psychology, 2, 139–152.
+
+Triandis, H. C. (1980). Preface. In H. C. Triandis & W. W. Lambert (Eds.),Handbookofcross-culturalpsychology(Vol.1,pp. ix–xv). Boston:Allyn & Bacon.
+
+Triandis, H. C. (1994). On the utility of applied psychology.Address presented at the 21st International Congress of Applied Psychol- ogy, Madrid, Spain.
+
+Van Strien, P. J. (1997). The American “colonization” of northwest European social psychology after World War II. Journal of the History of the Behavioral Sciences, 33, 349–363.
+
+Watson, R. I. (1960). The history of psychology: A neglected area.

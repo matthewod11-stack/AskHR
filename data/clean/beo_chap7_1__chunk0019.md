@@ -1,11 +1,11 @@
-## 7.2.1 Workers Do Not Know the Disutility of Effort c(e)
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: afd61eda5cdecb0538a555941ad7d3c3fbc118dd
+title: beo_chap7_1
+---
+# mance negatively;
 
-Labor economics extends a standard assumption from consumer theory—namely,
+(vi) firms may be systematically biased in judging the cause of performance (i.e.,
 
-that people have complete and consistent preferences across bundles of goods—to
-
-the case of labor and leisure. But young people may have only a vague idea of what
-
-work they would like to do when deciding on their first jobs, or on college majors
-
-(or even colleges), which partly determine their career paths due to irreversibilities
+disentangling worker effort e; from luck 6;).

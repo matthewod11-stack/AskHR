@@ -1,5 +1,11 @@
-# DBM JOB RESPONSIBILITIES
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 086b15c4637c04bdf3e0e77d41f83ff13ecb4d55
+title: performance_management_3rd_edition_by_aguinis
+---
+## Differentiating Task from Contextual Performance
 
-The following are the core performance objectives for the district business manager (DBM) position: Create the environment to build an innovative culture, create and articulate a vision, drive
+Consider the following adaptation of a job description for the position of a district business manager for a sales organization in Bristol-Myers Squibb (BMS) (www.bms.com). BMS produces pharmaceuticals, infant formulas and nutritional products, ostomy and advanced wound care products, cardiovascular imaging supplies, and over-the-counter products. Some of its brands include Enfamil, Cardiolite, and Plavix. Its stated mission is to “extend and enhance human life by providing the highest- quality pharmaceutical and related health care products.” In addition, all employees live by the BMS pledge: “We pledge— to our patients and customers, to our employees and partners, to our shareholders and neighbors, and to the world we serve— to act on our belief that the priceless ingredient of every product is the honor and integrity of its maker.”
 
-- 1. Based on the DBM job description, extract a list of task and contextual performance behaviors. Refer to Table 4.2 for a review of the differences between task and contex- tual performance. (cid:2)
+innovation by embracing diversity and change, set the example, and thereby shape the culture. Develop and communicate the business plan, understand and explain BMS strategies, translate national plan to business plans for districts and territories, set goals and expectations of performance, set priorities, and allocate resources. Execute and implement the business plan, maximize rank order lists of medical education professional -relationships, achieve optimum coverage frequency of highest potential physicians, take accountability, and achieve results. Build relationships focused on customer retention, develop relationships (i.e., networks), influence others (i.e., internal and external), and develop self and others. Strong skills are acquired in the following areas: written and oral communication, negotiation, strategic analysis, leadership, team building, and coaching.

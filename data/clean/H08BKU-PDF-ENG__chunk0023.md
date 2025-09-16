@@ -1,17 +1,21 @@
-## HBR / Digital Article / Research: Why Inclusive Hiring Must Include Refugees
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2ecf2e2c52004df904d73ab0d5f723f1b9143de
+title: H08BKU-PDF-ENG
+---
+## support organizations (such as not-for-proﬁts and social enterprises)
 
-skillsets — an approach that creates a larger barrier to recruitment
+that support the recruitment of disadvantaged jobseekers.
 
-and selection for most non-native speakers. Managers should consider
+Reevaluate your selection processes.
 
-whether candidates should be tested on their ability to talk or write
+The traditional interview process often relies on the candidate’s ability
 
-about their skills, or on their ability to demonstrate these skills in
+to describe their prior experiences, qualiﬁcations, past work duties, and
 
-practice. To this end, rather than testing oral or written communication
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-aptitude, companies can adopt innovative ways to test practical and
+4
 
-technical on-the-job skills, in which candidates are asked to perform
-
-a task and are evaluated on their proﬁciency in execution rather than
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

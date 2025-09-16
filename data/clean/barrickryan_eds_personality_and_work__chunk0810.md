@@ -1,7 +1,13 @@
-## ity and Social Psychology Review, 4, 255–277.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 84f40e4d7303f740c5d6c0516875e91c631b219b
+title: barrickryan_eds_personality_and_work
+---
+## PERSONALITY IN PERSON-ORGANIZATION FIT RESEARCH 287
 
-Rokeach, M. (1973). The nature of human values. New York: Free Press. Rowe, D. (1987). Resolving the person-situation debate: Invitation to an interdisciplinary dialogue. American Psychologist, 42, 218–227. Rynes, S. L., & Gerhart, B. (1990). Interviewer assessments of applicant
+O’Reilly, C. A., Chatman, J. A., & Caldwell, D. F. (1991). People and or- ganizational culture: A proﬁle comparison approach to assessing person-organization ﬁt. Academy of Management Journal, 34, 487–516. Pervin, L. A. (1992). Transversing the individual-environment landscape: A personal odyssey. In W. B. Walsh, K. H. Craik, & R. H. Price (Eds.), Person-environment psychology (pp. 71–87). Mahwah, NJ: Erlbaum. Phillips, J. M. (1998). Effects of realistic job previews on multiple organi- zational outcomes: A meta-analysis. Academy of Management Journal, 41, 673–690.
 
-“ﬁt”: An exploratory investigation. Personnel Psychology, 43, 13–35.
+Posner, B. Z., Kouzes, J. M., & Schmidt, W. H. (1985). Shared values make a difference: An empirical test of corporate culture. Human Resource Management, 24, 293–309.
 
-Saks, A. M., & Ashforth, B. (1997). A longitudinal investigation of the re- lationships between job information sources, applicant perceptions of ﬁt, and work outcomes. Personnel Psychology, 50, 395–426. Schein, E. (1992). Organizational culture and leadership. San Francisco:
+Rohan, M. J. (2000). A rose by any name? The values construct. Personal-

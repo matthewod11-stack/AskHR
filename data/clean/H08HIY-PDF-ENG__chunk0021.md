@@ -1,5 +1,9 @@
-## comments about the woman character with an invisible disability
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21210916248f52824fb818442888f56944a3902d
+title: H08HIY-PDF-ENG
+---
+## our participants of her value as a negotiator.
 
-seemed harsh and gender-speciﬁc, such as “She’s dumb. Obviously
-
-poorly trained, or has no idea what she’s doing” or “THIS WOMAN IS
+Further gender bias appeared in the responses. Many of the negative

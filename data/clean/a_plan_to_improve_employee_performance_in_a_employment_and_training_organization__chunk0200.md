@@ -1,3 +1,7 @@
-# Level 1 2 3 4 5
-
-Extent to which employee is a self starter in attaining objectives of the job.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: b7f561d762790ee6c127206548bdf30d10b0cdf7
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Initiative

@@ -1,11 +1,17 @@
-## Sauser, "Evaluating Employee Performance," p. 16.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 89a987cc66f4df02713f9a0f03ab76db7c815f74
+title: document_resume
+---
+# Sauser, A Comparative Evaluation.
 
-Samuel B. Green, William I. Sauser, Jr., James N. Fagg, and Cecilia H. Champion, "Shortcut Methods for Deriving Behaviorally Anchored Rating Scales," Educational and Psychological Measurement 41 (Fall 1981), pp. 761-775.
+26.
 
-29.
+Stanley B. Silverman and Kenneth N. Wexley, "Reaction of Employees to Performance Appraisal Intenievvs as a Function of Their Participation in Rating Scale Development," Personnel Psychology 37 (Winter 1984), pp. 703-710.
 
-- 30. Cecilia H. Champion, Samuel B. Green, and William 1. Sauser, Jr., "Development and Evaluation of Shortcut-Derived Behaviorally Anchored Rating Scales," Educational and Psychological Measurement 48 (Spring 1988), pp. 29-41.
+Patricia C. Smith and Lorne M. Kendall, "Retranslation of Expectations: An Approach to the Construction of Unambiguous Anchors for Rating Scales," Journal of Applied Psychology 47 (February 1963), pp. 149-155.
 
-- 31. Bernardin and Beatty, op. cu., pp. 258-262.
+27.
 
-32.
+28.

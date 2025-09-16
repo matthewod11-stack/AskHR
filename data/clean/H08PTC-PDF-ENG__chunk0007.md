@@ -1,25 +1,15 @@
-## that same employee in evaluations, consistently rating them as less
+---
+source_path: H08PTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebc4ea34491636f479cb7cd5fa1061b96de3cd21
+title: H08PTC-PDF-ENG
+---
+# HBR / Digital Article / Research: Are You Penalizing Your Best Employees for Unplugg…
 
-committed and less promotable than their colleague.
+Managers consistently reported that the employee who disconnected
 
-This penalty persisted even when the detaching employee was a
+from work over the weekend would be more recharged and more
 
-manager’s direct report, when the detaching employee was objectively
+productive upon their return, thus recognizing the beneﬁts of
 
-better at their job, when neither of the employees actually did any work
-
-during their time oﬀ, and when the reason for detachment was virtuous
-
-(e.g., caring for a sick family member).
-
-Perhaps our most eye-opening ﬁnding? The eﬀect was just as strong
-
-among managers who say they value work-life balance as it was
-
-among those who do not. Even managers who report having explicitly
-
-encouraged detachment in their organizations penalized detaching
-
-employees in our studies. That is not just inconsistent and unfair, it
-
-is a recipe for a burnout culture.
+detachment on employee performance. However, they also penalized

@@ -1,23 +1,17 @@
-## a request from a major customer for more direct access to the
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da3d7cabf8c9d03edea42e93bb41238decb44da0
+title: H08UYL-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Edit What They Say Before They Say It
 
-core product. While this move could have created doubt among her
+a 90% survival rate feels very diﬀerent from describing it as having a
 
-employees, the CEO framed it instead as an experiment to test a new
+10% mortality rate, even though the data is the same.
 
-service model in the spirit of customer learning. This message preserved
+For leaders, framing is especially important when communicating
 
-conﬁdence in the company’s direction while creating space to explore.
+ambiguous, messy, or evolving information. It helps create structure
 
-- 5. Pressure-test your communication.
-
-Especially now with so much change, uncertainty, and ambiguity,
-
-senior leaders need safe spaces to process their thoughts conﬁdentially.
-
-Whether with a coach, mentor, or trusted advisor, ﬁnd someone who
-
-can help you think through your evolving ideas and messages before
-
-you share them more broadly. You’ll especially want to pressure-test and
-
-reﬁne your message before a high-stakes setting such as an all-hands
+and signals conﬁdence. One startup CEO Tutti worked with received

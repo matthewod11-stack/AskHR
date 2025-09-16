@@ -1,5 +1,19 @@
-## HBR / Digital Article / Collaboration Overload Is Sinking Productivity
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef703b1a551be4c6862aaff2fd4e7a953fd96602
+title: H06K3M-PDF-ENG
+---
+## time each week in shorter and more fragmented meetings, with voice
 
-These demands, which can be invisible to managers, are hurting organizations’ eﬀorts to become more agile and innovative. And they
+and video call times doubling and IM traﬃc increasing by 65%. And to
 
-can lead to individual career derailment, burnout, and declines in
+make matters worse, collaboration demands are moving further into the
+
+evening and are beginning earlier in the morning.
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

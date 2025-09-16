@@ -1,7 +1,13 @@
-# Recordkeeping
+---
+source_path: Employment Law Guide - Wages in Supply and Equipment Contracts.md
+pages: n/a-n/a
+chunk_id: c777343eebb2310ed46072f1158e1f6bc052b482
+title: Employment Law Guide - Wages in Supply and Equipment Contracts
+---
+# Workers with Disabilities/Special Minimum Wage (PDF) poster"(https://www.dol.gov/agencies/whd/posters/section-
 
-Under the PCA, contractors and subcontractors are required to maintain certain records which must be
+14c) must also be posted. This notice explains the conditions under which special minimum wages may be
 
-available for inspection by the Wage and Hour Division. Records providing the following information for each
+paid. The poster must be posted in a conspicuous place on the employer's premises where it can be readily
 
-covered employee must be kept on ﬁle for at least three years from their last date of entry:
+seen by employees and the parents or guardians of workers with disabilities.

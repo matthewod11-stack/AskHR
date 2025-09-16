@@ -1,25 +1,29 @@
-# discovery, registration, and “Tool RAG”.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: a29f181deb075dfb7e7914e33375d622319c1cea
+title: agents_companion
+---
+# output modalities.
 
-- Flow / Routing: This governs connections with other agents, facilitating dynamic neighbor
+- Memory Management: This includes short-term working memory for immediate context,
 
-discovery and efficient communication within the multi-agent system. This might be
+cache, and sessions . It also can include long-term storage for learned patterns and
 
-implemented as a delegation of a task to a background agent, or handoff of the user
+experiences, as episodes, examples, skills or reference data. It also includes “reflection”
 
-interaction to an agent, or the use of an agent as a tool.
+to decide which short term items (eg: user preference) should be copied into long term
 
-28
+memory (eg: user profile), and if that can be shared across agents, tasks, or sessions.
 
-- Feedback Loops / Reinforcement Learning: These enable continuous learning and
+- Cognitive Functionality: This is often underpinned by Chain-of-Thought (CoT), ReAct,
 
-adaptation by processing interaction outcomes and refining decision-making strategies.
+reasoning, thinking, or a planner subsystem - it allows agents to decompose complex
 
-For gen AI agents this rarely takes the form of traditional RL training, but the performance
+tasks into logical steps and engage in self-correction. In some cases this also includes
 
-metrics of the past can be incorporated into future decision making.
+user intent refinement, to ask a clarifying question if uncertain.
 
-- Agent Communication: Effective communication between agents is crucial for the
+- Tool Integration: This subsystem enables agents to utilize external tools, expanding
 
-success of multi-agent systems. The Agent to Agent communication protocol facilitates
-
-structured and efficient communication among agents, enabling them to achieve
+their capabilities beyond natural language processing. Dynamic tool registries allowing

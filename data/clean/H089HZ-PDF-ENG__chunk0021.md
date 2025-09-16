@@ -1,31 +1,17 @@
-## important than me spending time with my family.
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c644c422bbac4b37ff350216fc25a4b94f1699c0
+title: H089HZ-PDF-ENG
+---
+## Step 2: Focus on mutual value, not just organizational beneﬁts.
 
-This frame fails to take into account and communicate to employees
+Next, it’s critical to recognize that there remains a tremendous amount
 
-the signiﬁcant research showing that being an active part of a
+of mutually beneﬁcial value left on the table.
 
-strong community has substantial beneﬁts for individuals, not just
+Take, for example, the common argument from leaders that corporate
 
-organizations. In our own work on the integrated employee value
+culture is at risk because of remote work. Framed this way, employees are faced with an adversarial trade-oﬀ: I want to spend time on
 
-proposition, we ﬁnd that feeling connected to one’s organizational
-
-community is an important part of what employees want and need
-
-from their work. Similarly, the longest study on human happiness found
-
-that happiness, health, and longevity come ﬁrst and foremost from
-
-high-quality relationships, including those with colleagues.
-
-Or consider the oft-used argument that face-to-face work boosts
-
-innovation. Yes, there is strong evidence of this, as seen in the case of
-
-the video-gaming industry. Although innovation is typically seen as an
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+what’s important to me, but leadership thinks company culture is more

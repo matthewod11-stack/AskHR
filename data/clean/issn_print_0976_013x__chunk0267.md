@@ -1,9 +1,9 @@
-# economics, psychology, and organization management with different perspectives. Supply
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 9d72d76a00274d05dfa2f4fd3e3971f3c8949522
+title: issn_print_0976_013x
+---
+# Resilient and Sustainable Concepts
 
-chain resilience utilizes the aspect of flexibility, dynamic capacity, and adaptability approach
-
-towards negative as well as positive influences of the environment (Ponomarov & Holcomb,
-
-2009). It was identified as one of the critical components of Supply Chain Risk Management
-
-30
+Resiliency has been applied in several scientific fields like engineering, sociology, ecology,

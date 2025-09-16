@@ -1,7 +1,15 @@
-# organizational culture,
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: feafb5f3dc6026985d85f4dad733c81d2b7373b1
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Change agents, 519 Change management
 
-522–527 person being
+acceptance of change,
 
-changed, 519 sacred cow hunts,
+516–519
 
-514–515 Change analysts, 519 Change resisters, 519 Charisma, 459 Cheaper by the Dozen, 6 Chicago Fireﬁ ghters Union v.
+coping with change, 521 implementing change,
+
+519–527

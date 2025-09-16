@@ -1,3 +1,19 @@
-# Are the Tasks Enjoyable?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0c9c0e9794d3308cc96c36745af96fa1c49223c0
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Job
 
-Not surprisingly, research is fairly clear that employees who find their work inter- esting are more satisfied and motivated than employees who do not enjoy their jobs (Gately, ). Interestingly, although employees rank interesting work as being the most important factor in a job, supervisors rank salary and bonus as being the most important for employees. This discrepancy is why Glanz () advised employers to take innovative steps to make work more interesting.
+.56 .47
+
+.20
+
+−.08 −.46
+
+One’s coworkers can affect job satisfaction.
+
+7 7
+
+begins to ask for new projects appears bored or unchallenged

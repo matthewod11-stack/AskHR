@@ -1,7 +1,19 @@
-# into the 4/5 category.
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71d5f720b2293a235fcd2f388d190fb49d8fdabb
+title: H07US4-PDF-ENG
+---
+## for customers, or productivity, quality, and retention for employees.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Conventional wisdom also suggests that experiences rated as a 3 drive
 
-3
+slightly less of these desired behaviors than the 4’s, who, in turn, drive
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+slightly less than the 5’s. It’s this kind of thinking that leads us to
+
+lump 4’s with 5’s into a “top-two box” rating, or a “percent favorable”
+
+score, and then to focus our team on trying to move as many people as
+
+possible into this category — in eﬀect, to move the 2’s to 3’s, and the 3’s

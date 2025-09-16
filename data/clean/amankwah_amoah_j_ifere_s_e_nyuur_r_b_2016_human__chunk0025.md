@@ -1,15 +1,25 @@
-# Schwenk & Tang, 1989).
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: a6ea9ee93936ac3dfd3edfb41721e9fae626d92e
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+## The “escalation of commitment” (Brockner, 1992; Staw, 1981) and the “too much
 
-Another relevant stream of research is the pay-for-performance literature. Past studies
+invested to quit” perspective (Schwenk & Tang, 1989; Teger, 1980) also offer a theoretical
 
-have demonstrated that pay-for-performance is strongly associated with superior individual
+lens to view how and why firms persist with underperformance. This line of research argues
 
-and organisational performances (see Sturman, Trevor, Boudreau & Gerhart, 2003). One line
+that “cost of strategic change”, i.e. firing underperforming workers, may simply be too high
 
-of research has suggested that highly productive employees are more likely to opt for pay-for-
+for some firms, forcing them to engage in strategic persistence (Amankwah-Amoah, 2014;
 
-performance compensation, whereas, less productive workers often prefer fixed-salary
+Shein, 2011). This entails financial and non-financial costs such as training new employees,
 
-compensation (Jensen, 2003). Accordingly, failure or inability to reward workers for their
+hiring costs, risks associated with new employees, risk of former employees filing lawsuits,
 
-performance creates conditions, which discourage
+compensation and redundancy pay as a result of strategic change (Shein, 2011). Related to
+
+the above is a stream of research which argued that persistence may stem from mere
+
+inefficiencies, poor information and poor communication flow within the focal firm (see

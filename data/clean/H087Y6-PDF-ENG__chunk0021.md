@@ -1,13 +1,7 @@
-# consumers lower prices.
-
-For market innovation, the new rule is projected to spur an increase in
-
-patent ﬁlings, as well as patent value, estimated at between 17,000 to
-
-29,000 additional patents annually, reﬂecting an 11-19% yearly growth
-
-over a 10-year period. For a vibrant entrepreneurial economy, the rule is
-
-expected to encourage startup activity, potentially leading to a 2.7% rise
-
-in new business formation, equating to around 8,500 new enterprises
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 322a28350f8c1c492a6ca2e124cffe6058e6478c
+title: H087Y6-PDF-ENG
+---
+## Competition over employees raises salaries just as competition over

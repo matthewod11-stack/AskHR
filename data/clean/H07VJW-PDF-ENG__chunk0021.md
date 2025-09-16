@@ -1,5 +1,23 @@
-## HBR / Digital Article / A Simple Hack to Help You Communicate More Effectively
+---
+source_path: H07VJW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f438414ba3f9e17d16b99a667059cf854e05e45d
+title: H07VJW-PDF-ENG
+---
+# insights into attachment theory.
 
-- What: I am excited to introduce the latest version of our product. In
+- So What: Her work has changed the way many people go about
 
-this release we’ve added many usability enhancements and improved
+making daily decisions. I am certain you will think diﬀerently when
+
+you leave here tonight.
+
+- Now What: Without further ado, join me in welcoming Dr. Clark.
+
+When you’re introducing something:
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

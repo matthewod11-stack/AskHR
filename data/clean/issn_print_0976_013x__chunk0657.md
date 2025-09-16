@@ -1,3 +1,15 @@
-# openness, and between diversity and performance at individual and organizational levels.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: cd4946de09b2dd7330f9ff33c8b9c88147957a2d
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-Patrick (2010) found that diversity determines not only the results of the diversity within an
+priority was 1.8 times higher in 2020 than in 2019. Gartner analysis reveals an almost 800%
+
+increase in job postings for dedicated diversity recruiters (Romansky et al. 2021)
+
+As the importance of diversity in the organizational context has increased, most organizations
+
+would like to research diversity–organizational culture linkage, its effect on diversity

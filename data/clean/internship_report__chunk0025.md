@@ -1,25 +1,25 @@
-# organization needs.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 0fdbd0efdf4f7bf6f1bef61a20351f305d006e49
+title: internship_report
+---
+# University.
 
-Human resource management information system has many modules that can be related to the
+Any human organization- a factory, a hospital or any association- consists of people working
 
-different functions of the human resource department. Some of the modules of the HRMS are as
+together. An organization is nothing without human resources. Machine is useless without
 
-follows:
+human beings. In fact management and human resources management are one and the same.
 
-- (cid:32) Workforce planning
+Management is the process of efficiently getting things done with and through other people.
 
-- (cid:32) Recruitment, induction and orientation
+Therefore Human Resources Management is that part of the management function which is
 
-- (cid:32) Training and development
+concerned with people at work and with their relationship within an enterprise. According to
 
-- (cid:32) Performance appraisal
+Dale Yoder “Human resources management or personnel management is that phase of
 
-- (cid:32) Compensation, benefits administration
+management which deals with effective control and use of manpower as distinguished from other
 
-- (cid:32) Time management
-
-- (cid:32) Payroll.
-
-HR Planning & Policy Development
-
-(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:124) (cid:32) (cid:118) (cid:105)
+sources of power. Human Resource Planning helps determine the number and type of people an

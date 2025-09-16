@@ -1,7 +1,13 @@
-# PERSONAL PERSPECTIVE
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: aed19a745f3de625bdfea3eace1530d6dbf202cc
+title: untitled
+---
+## Ethnic Minorities in Research and Organization
 
-How does one integrate equally successfully into both cul- tures, the mainstream majority culture (Anglo-Saxon) and the mainstream minority culture (ethnic-minority)? It has always been my intent to have an impact in the ﬁeld of psy- chology as a neuropsychologist who was Cuban. For the ﬁrst 15 years of my career, I published exclusively on noncultural issues, primarily biopsychosocial variables in neuropsycho- logical assessment.
+do have an impact in academic and research circles, tend to focus their work on ethnic-minority issues.
 
-All the while, I have held positions in APA governance (e.g., two terms on Council of Representatives) and have been mentored by Richard Suinn, past-president of APA. In these positions, I have both self-identiﬁed and been identiﬁed as an ethnic-minority. Though I value this work, I often see myself as an outsider both within these ethnic- minority groups as well as with “majority” groups whose interests have little, if anything, to do with ethnic-minority concerns.
+Cuban-Americans often do not identify themselves with other Hispanics. The number of Cuban-Americans who are part of mainstream Hispanic groups such as La Raza are rather small. As G. C. Hall and Maramba (2001) have dis- covered, there is highly limited overlap between cross- cultural and ethnic-minority literature. They go on to report that authors of cross-cultural studies tend to be white men of European ancestry whereas ethnic-minority research tends to be authored by ethnic-minority men and women. Further, all ethnic-minorities with a Spanish surname in their review are of Latino and not of Cuban descent.
 
-Perhaps both groups, majority and minority, can consider their mission the development of a psychology of variance (Puente et al., 1993) rather than a psychology of central tendencies. I believe that would make a more interesting, and truer representation of the history of psychology.
+My service to the profession consisted of membership on a variety of boards and committees ranging from being pres- ident of the North Carolina Psychological Association, North Carolina Psychological Foundation, and the National Acad- emy of Neuropsychology (NAN) to serving on the Health Care Finance Administration’s Medicare Coverage Advisory Committee and the American Medical Association’s Current Procedural Terminology Panel. However, during the last 10 years, I have become much more interested in cultural, though not necessarily ethnic-minority issues. For example, I presented the ﬁrst workshop at a national neuropsychology convention on cultural issues in 1993.

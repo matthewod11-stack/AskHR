@@ -1,7 +1,9 @@
-## Building Design & Construction, p. 41-42. www.searchbank.com.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: d1797be6f8e00e473c859f83385298f570867205
+title: california_state_university_northridge_1
+---
+## Business Journal; 16, 9-12. www.searchbank.com.
 
-McGreevy, L. S. (1992, May). Employee handbook: policy or pitfall? Be careful not to
-
-make well-intentioned promises now that you don't want a court to make you keep later. Contractor, p. 60-62. www.searchbank.com.
-
-McMurry, K. (1998, December). California whistleblower ruling favors plaintiffs. Trial
+Lunch, F. M. (February 1989). Recommending termination risks legal action.

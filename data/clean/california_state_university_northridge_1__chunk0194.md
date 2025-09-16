@@ -1,83 +1,55 @@
-# level.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 25316dd0e4534955ac618a3036df1a6168e23a16
+title: california_state_university_northridge_1
+---
+## At the USU, Kristen Picher, the Associate Director of Operations assisted the
 
-70
+author with our departments hiring procedures. After Kristen became confident of the
 
-Marriott has a well thought out proactive business plan for all new managers. This
+author's abilit-yto ask appropriate questions, which were not a violation of any iaws,
 
-approach realized that some managers have more management experience than others
+Kristen allowed the author to conduct the entire hiring, recruiting and training process.
 
-however; the company will not assume that just because a person occupied a managerial
+69
 
-title in the past, they know the law. Also, some businesses have their own way of
+Kristen's involvement was approving the final candidates that the author recommended in
 
-conducting ordinary business issues and each newly hired employee needed to know the
+writing and meeting with each person selected. Understanding the importance of an
 
-approach of that business. Further, as a result of this on going intensive training, the
+excellent training program that is rooted in the law, followed by company policies, the
 
-group improved on leadership abilities and was held accountable for their actions. In
+author assisted those who aspired to take a supervisor position. In this training program,
 
-addition, the number of complaints, violation or misunderstanding of the union contract,
+the author did not focus on management styles, for they were already managers in their
 
-decreased. This is a model approach to training managers, which can potentially lead to a
+current positions (not directly over any particular set of employees) but on the laws and
 
-decrease in lawsuits filed by at-will employees. The mere fact that the training is on going
+company policies. Simply, the author stated what is necessary for an evaluation, hiring,
 
-and recapitulated over time keeps all managers aware of company policies and the laws
+termination, discipline and budget preparations. All three employees were promoted to a
 
-that pertain to the business. Unfortunately, all businesses do not train their managers,
+supervisor position and have done extremely well.
 
-such nractices are nreventive measmes .
+When the author started at Host Marriott Services Corporation, new employees
 
-..I.
+(managers) were hired in groups of seven. Each class of managers went through two
 
-..I.
+weeks of in class training before being transferred into the field. After the in class training,
 
-In regards to The Prudential Insurance Company of America, the author can only
+the group was then individually assigned to a business ll!lit for one month to become
 
-speak on the division in which the author works. The Policyonwer Relation Department
+familiar with the business operations. After the month was completed, the group then
 
-was recently created for a temporary project ( class action lawsuit) with an undefined
+became individually assigned to a permanent location. As apart of each groups overall
 
-completion date (which can not be determined by the company and or the courts). What
+training program, the manager had tailored training covering union contracts, discipline,
 
-author does know, employees are promoted to a supervisor capacity, called team leaders
+inventory, cost control and other areas deemed essential by the company. This part of the
 
-based on their past production, being the primary factory. Within this department,
+training started after the managers were assigned to a business unit and completion of all
 
-everything is about production for front line employees, team leaders, associate managers
+training programs was mandatory. After the first round, the group progressed to the next
 
-a.,d managers. Production is beii1g defined the ability to produce X amount of specified
-
-work on average per hour, per day, per week. Those who are promoted to team leaders
-
-71
-
-are given no training and in some cases have no experience in management. Any advice
-
-given to a team leader appears to be based off what needs to be accomplished, resulting
-
-from a particular situation. The corporate objective is having business issues handled by
-
-this department completed as fast as possible therefore, structured management training is
-
-not provided. Such practices as these can cause harm to the organization in the long run.
-
-Employees in this department range from undergraduate students,
-
-junior college students,
-
-graduate students, law school students, those taking a career break, persons in retirement
-
-and those that have not attended college or involved in any career. Despite the fact that
-
-this workforce is here because of schooling or career break does not mean, they will not
-
-take action if they feel they were wrongful discharged. The company should run training
-
-programs for all team leaders and recapitulate issues for associate manager who have also
-
-had some or no management experience.
-
-Below are steps m1y business can do, as preventive measures to protect thew.selves
-
-and the business, should a case come to court or the Equal Employment Opportunity
+round, which added new areas and went into more depth for topics covered at the first

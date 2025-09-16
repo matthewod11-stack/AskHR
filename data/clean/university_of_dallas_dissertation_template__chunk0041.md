@@ -1,47 +1,31 @@
-# (cid:32)
+---
+source_path: university_of_dallas_dissertation_template.md
+pages: n/a-n/a
+chunk_id: 1c0815e2b12a5dfe3d4b84b6be8c073b3ee199e0
+title: university_of_dallas_dissertation_template
+---
+# from employee perceptions of the trustworthiness of their immediate supervisor (Mayer &
 
-reciprocal relationship. Employees who believe managers are trustworthy feel respected and like
+Gavin, 2005). Although employees’ perceptions of their direct supervisor’s trustworthiness
 
-a part of the leader’s core group. Employees who trust others anticipate that others will act
+positively affect workers (Byrne et al., 2011; Y. J. Cho & Perry, 2012; Colquitt & Rodell, 2011;
 
-similarly (Korsgaard et al., 2015). Trust is essential to maintaining a positive relationship
+A. M. Grant & Sumanth, 2009), perceptions of top management’s reliability are also crucial. For
 
-between leaders and their employees (Colquitt & Rodell, 2011; Whitener et al., 1998). (cid:32)
+instance, comparative research reveals that the trustworthiness of top management has a more
 
-Suppose an employee believes top management is incompetent. In that case, this attitude
+substantial impact than that of supervisors, which encourages employees to focus on their work
 
-likely raises questions about their ability to set organizational direction (Mayer & Davis, 1999),
+(Mayer & Gavin, 2005). Employees who trust their managers reciprocate these actions,
 
-thus reducing the employee’s confidence in top management’s vision (Colquitt & Salam, 2009).
+strengthening a trusting relationship (Maxwell & Lévesque, 2014). (cid:32)
 
-A negative impression of senior management’s integrity creates a perceived gap between senior
+Such managerial actions are part of a larger social and economic exchange context.
 
-management’s words and actions. This gap appears to violate the principles and values accepted
+According to Gerstner and Day (1997), the SET better explains the interpersonal interactions
 
-by the employee (Knoll & Gill, 2011; Simons, 2002). When employees feel that senior
+between employees and managers. According to the SET, managers and employees have a
 
-management does not demonstrate trustworthiness, they face senior management’s inability to
-
-lead the company, including operating against their morals and not assisting them (Mölders et
-
-al., 2019). According to Frijda (1988), an increase in negative emotions may be a common
-
-reaction to these perceptions. Research has previously demonstrated how trust and emotions
-
-interact (C. C. Chen et al., 2011; Dunn & Schweitzer, 2005; G. R. Jones & George, 1998;
-
-Tomlinson & Mayer, 2009; M. Williams, 2007). According to Lindebaum and Gabriel (2016),
-
-unethical senior management can anger and disgust people when managers violate moral
-
-standards and doubt top management’s morality (Smith-Crowe & Warren, 2014). Similarly,
-
-negative emotions like anger and sadness may surface when employees believe they are at the
-
-mercy of non-benevolent senior management (C. C. Chen et al., 2011). A lack of trustworthiness
-
-among top management may cause unfavorable employee reactions (Mölders et al., 2019).(cid:32)
-
-(cid:53)(cid:54)(cid:32)
+(cid:53)(cid:53)(cid:32)
 
 (cid:32)

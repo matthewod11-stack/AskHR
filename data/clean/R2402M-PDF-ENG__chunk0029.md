@@ -1,11 +1,21 @@
-## about continuous improvement not just in processes and technology
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5e256123a3e2a47239197c999dc2a8d18daa1a8
+title: R2402M-PDF-ENG
+---
+# distribution center as leverage.
 
-but also in people. Paulo’s heart leaned toward reconciliation and
+But because he was a consensus builder by nature, Paulo believed that
 
-growth, but his mind warred with the potential risks of capitulation.
+true strength lay in unity, not division. He also realized that Luna’s
 
-His next move was shaping up to be the most consequential one of his
+management had been at least partly at fault for the present rift—
 
-working life.
+and wondered if capitulating to some of the union’s demands might
 
-Question: Should Paulo oﬀer further concessions or threaten to close
+foster the partnership he yearned for. It would be a gamble, since
+
+compromising on near-term technological advancements could make
+
+Luna Brazil uncompetitive, hamstringing the plant and his own career. But might it also pave the way for a more resilient operation? Kaizen was

@@ -1,7 +1,25 @@
-# sell and renew contracts.
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ec267b86f166041a851f1b4c1528978cc32c11b
+title: F2505A-PDF-ENG
+---
+# investments?
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+First-time entrepreneurs should be cautious about taking large amounts
 
-7
+of capital too soon. Avoid a high valuation without revenue to back it
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+up. This can create significant pressure to deliver rapid growth and big
+
+returns. It also results in equity dilution for your founding team and early
+
+investors, which reduces your control over the company’s direction. High
+
+valuations also create unrealistic expectations from investors. This can
+
+lead to increased scrutiny and pressure, potentially causing management
+
+changes or strategic shifts that may not benefit your company. I suggest
+
+seeking substantial investments only after you have proven your ability to

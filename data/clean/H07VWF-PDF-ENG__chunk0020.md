@@ -1,9 +1,11 @@
-## brain scans in ﬁrst-time fathers in California with those of ﬁrst-time
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8210e8a64accfcd93bc847a2bcf7821e607db1f0
+title: H07VWF-PDF-ENG
+---
+# caregivers for their children.
 
-fathers in Spain. Both groups of fathers showed changes. However,
+One study by Saxbe and colleagues highlights the potential power of
 
-comparing the two countries showed interesting diﬀerences. One key
-
-diﬀerence? Only the fathers in Spain showed signiﬁcant changes in
-
-regions associated with sustained attention, which in turn likely prepare
+paternity leave in shaping the dad brain. The research teams compared

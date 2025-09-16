@@ -1,7 +1,11 @@
-# motivation, and action.
+---
+source_path: H08VEB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf46048b95c5d285f1b4bad677f97be83875a9da
+title: H08VEB-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Normalize Emotion at Work
 
-To reveal the wealth of information that your emotions oﬀer, do the
+builds psychological safety, strengthens trust, and supports better
 
-following. After you notice and name your feelings, reﬂect and ask
-
-yourself: What message is that emotion trying to send me? What does it
+problem-solving. Logic helps us think, but emotion drives connection,

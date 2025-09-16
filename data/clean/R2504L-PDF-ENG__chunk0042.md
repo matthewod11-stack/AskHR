@@ -1,25 +1,15 @@
-## their reports with one another and to the organization. Recent research
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d039ab9ce33dd7ee03752dbb892d0e92fc65fd3
+title: R2504L-PDF-ENG
+---
+## boundaries between work and personal lives, especially about the hours
 
-found that the main task of supervisors with remote workers is to keep
+for scheduling meetings.
 
-them connected and updated on what’s happening in the oﬃce; what
+Make connecting and communicating a management priority. Many
 
-might be changing about business priorities, norms, and values; and what is happening with team members that might aﬀect projects. All
+of our recommendations have one overarching implication for how
 
-this requires much more of the supervisor’s time than it does in oﬃce settings. (See “What Great Remote Managers Do Diﬀerently,” HBR.org,
-
-Oct. 26, 2022.)
-
-Virtual companies such as Atlassian go to great lengths to make
-
-everything transparent. They document everything with a single,
-
-deﬁnitive online ledger that lets employees see where projects
-
-stand, what the performance objectives are, what is changing in the organization that might aﬀect their jobs, and so forth.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+managers do their jobs: Managers must spend more time connecting

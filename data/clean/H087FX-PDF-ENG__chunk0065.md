@@ -1,9 +1,15 @@
-# Reproductive health issues
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dcc70455533ded37fddbcd0c0a36b05cc5bb0b1a
+title: H087FX-PDF-ENG
+---
+# Gastrointestinal and urinary symptoms
 
-- Flexible work times, in particular around the menstrual cycle and during pregnancy and menopause, when chronic illness symptoms can be exacerbated
+- Frequent bathroom breaks
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- Allergy- and sensitivity-friendly food options at group events
 
-13
+- Accessible bathrooms
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Remote work

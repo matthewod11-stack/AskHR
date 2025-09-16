@@ -1,5 +1,15 @@
-# what
+---
+source_path: "You Can\u2019t Sit Out Office Politics.md"
+pages: n/a-n/a
+chunk_id: 339cd4ead9020996ba19806253a029ca8874f83c
+title: "You Can\u2019t Sit Out Office Politics"
+---
+# You Can’t Sit Out Ofﬁce Politics
 
-kind of political environment you are in.Is your company minimally, moderately, highly or pathologicallypoliticized? To what degree does the political culture fit your(current) personal political style and what you want out of yourlife and career?Kathleen Kelley Reardon, an expert on organizational politics,classifies
+https://hbr.org/2021/07/you-cant-sit-out-ofﬁce-politics
 
-political players into one of four types:1. The purist: Do you dislike all thought of politics, and simplywant to get on with the job at hand?
+9/13
+
+It’s almost never about the activity itself, but rather the intentionbehind the activity and the interpretation and judgement weattach to both. Clearly, we tend to put more energy intosomething we see — and label — as positive and important, thaninto those things we begrudge or don’t see the point of doing.Alternatively, if the negative connotations of “office politics” areso ingrained in you that you cannot change your mindset, trycalling them something else. Tell yourself, “I am buildingstrategic relationships with my stakeholders,” or “I’m expandingmy coalition of support.”What you call them doesn’t matter. What does matter is that yousee these things as valuable and important and put effort andenergy into them.
+
+Rather than spending your time and energy bemoaning orresenting the nature of organizations (which are inherentlypolitical), focus your time and energy on understanding

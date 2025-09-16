@@ -1,7 +1,7 @@
-# Key Takeaways for Developers:
-
-- 1. AgentOps is Essential: Building successful agents goes far beyond the initial proof-
-
-of-concept. Embrace AgentOps principles, integrating best practices from DevOps and
-
-MLOps, but also focusing on agent-specific elements like tool management, orchestration,
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 850c8de0a71bbd6bfcc6e298ac59ee6ab8cb74ac
+title: agents_companion
+---
+## evaluation techniques and the transformative potential of multi-agent systems.

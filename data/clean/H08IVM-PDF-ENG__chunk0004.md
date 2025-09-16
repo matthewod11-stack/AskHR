@@ -1,21 +1,9 @@
-# table.
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d0edab2d15ee0241bb3738a25ca93f2dab62f85
+title: H08IVM-PDF-ENG
+---
+# HBR / Digital Article / Contract Negotiations Should Be Collaborative, Not Adversarial
 
-So, why are we stuck and how do we make the shift?
-
-Businesses must fundamentally reimagine their approach to contract
-
-negotiation, moving from a mindset of conﬂict prevention to one of
-
-collaborative value creation. This shift isn’t about being “nicer” in
-
-negotiations; it’s about unlocking hidden potential, driving innovation,
-
-and creating sustainable, mutually beneﬁcial relationships. And part of
-
-that is getting better at selecting partners we trust.
-
-Our comprehensive study of the most-negotiated terms, surveying
-
-937 organizations worldwide, and representing both multinational
-
-corporations and small-to-medium enterprises (SMEs), paints a clear
+hampers innovation and growth but also leaves signiﬁcant value on the

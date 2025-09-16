@@ -1,15 +1,29 @@
-## of other relevant variables (Blumberg and Pringle, 1982).
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 9f4bb0e2b4f97b08386f480643542da35dc40290
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## management system and performance outcomes.
 
-Over the years research recognised the significant of context of performance. For
+Central to our theoretical development is the idea in building organisational
 
-example Blumberg and Pringle (1982: 586) posited that performance is a function of
+performance, organisations first have to focus on individual performance. In the context
 
-capacity (ability, health, intelligence, education ect.), willingness (motivation, job
+of strategic talent management, the question becomes how can the contribution of the
 
-satisfaction, status ect.) and opportunity to perform (tools, equipment, working
+organisation’s talent pool to organisational performance be maximised? Following
 
-conditions, co-worker and leader behaviour ect.). Similarly, Campbell et al (1993)
+Campbell et al (1993) we view performance as a set of behaviours that are relevant to the
 
-distinguish between the components- actual behaviours that constitute performance,
+goals of the organisation. In this regard there is a well established stream of literature in
 
-determinants- human and technological capabilities required for individuals to achieve
+the HR tradition which looks at the antecedents of individual performance in
+
+organisations (see Blumberg and Pringle, 1982; Campbell et al., 1993; Murphy, 1996;
+
+Neal and Griffin, 1999; Vroom, 1964). For example, writing in the 1960s Vroom (1964)
+
+theorised that performance was a function of ability and motivation. While quite
+
+influential, the model has been widely criticised owing for example to the non-inclusion

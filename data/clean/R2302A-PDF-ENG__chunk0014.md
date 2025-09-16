@@ -1,11 +1,17 @@
-## objectives and key results (OKRs) for each quarter, but the relevant
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72db828efbeda3d2f7832ea8e9e88d9395d17001
+title: R2302A-PDF-ENG
+---
+## needed—Slack, Zoom, webcams, Google Docs, and of course GitLab
 
-teams decide how they want to meet those goals. Each group agrees on
+—to communicate, collaborate, and even develop rapport. And what
 
-its own OKRs and on how action items should be assigned, and then
+mattered most to Dmitriy and me? Progress and results. Success isn’t
 
-individual members can do the work when and where they choose.
+measured in input such as hours spent at an oﬃce. It’s about output—
 
-Rather than tracking hours logged, we follow the metrics that matter
+what you achieve.
 
-most for each department. For salespeople, they are sales totals and client satisfaction; for customer support staﬀers, they’re response and
+Today at GitLab, I work with the executive team to set company-level

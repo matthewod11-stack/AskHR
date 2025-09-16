@@ -1,15 +1,13 @@
-# d ideas of past
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: b674c22e55b3e81e972ef9dead05c838368f07fc
+title: sciencedirect
+---
+# research
 
-individuals who had found and exploited their exceptional mix of "signature qualities” such as humanity, moderation and persistence. This vision of happiness joins the ethicalness morals of Confucius, Mencius and Aristotle with pr esent day asurements: The psychological theory of motivation. Seligman stated that individuals’ satisfaction has three me Pleasant Life, the Good Life, and the Meaningful Life.
+and theorizing [1].
 
-Using thorough surveys, Seligman found that the most fulfilled, energetic individuals were the
+Positive Psychology is a current branch of psychology which stresses ordinary, successful advancement instead of the treatment of psychological sickness. The field promises to strengthen traditional psychology rather than replacing it as PS fundamentally focuses on what is “good” in the individual, positive traits, and strengthen them.
 
-- 3. Positive psychology at the workplace
-
-The 21st Century workplace heavily depends on advancement on technology, hence putting pressure on both th e employees and the organization in terms of performance and productivity. In such an environment, organizations are working hard to find ways to improve employees’ performance and productivity. The paper proposes that both could be increased by building work policies which incorporate individuals’ positive traits.
-
-To accommodate for the fast-paced technological advances, organizations are expecte
-
-d to depend more on
-
-employees’ creativity and expertise. This is integral for the overall organizational productivity. Individually, the identification of employees’ knowledge, expertise, well-being and happiness become part of the o rganizational aim and develop processes which insure cross-talk and adaptability, undertaking plans that take benefit of human capital,
+Martin Seligman is considered the father of Positive Psychology, although the term is coined to Abraham Maslow, 1951, and he concentrated on the individuals’ happiness, prosperity, well-being and how the individual’s mental state could be improved by focusing on these traits. Seligman successfully amalgamated thoughts an researchers, philosophers and scientists and related them to the consciousness. The concept of practical importance of positive psychology has been originated in late 90s in its cotemporary form. This took place when Martin Seligman as the president of American Psychological Association invigorated the necessity of i ncluding a strength-based approach to the field of Psychology [2].

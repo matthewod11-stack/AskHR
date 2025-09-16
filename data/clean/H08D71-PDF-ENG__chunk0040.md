@@ -1,11 +1,11 @@
-# world in 2023.
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92c23488d128c25f87de5fdb561015e9bf5357b2
+title: H08D71-PDF-ENG
+---
+# HBR / Digital Article / The 4 Key Strengths of China’s Economy — and What They Mea…
 
-German car manufacturers are on a similar journey in China. Mercedes
+cut its prices four times in 2023. More importantly, Tesla’s reduced cost
 
-and other German automakers that once transferred combustion engine
-
-know-how to Chinese partners are now learning from Chinese EV
-
-makers, reversing the teacher-student relationship. In October 2023,
-
-Audi and Chinese automaker FAW announced a joint project to build
+structure turned Tesla’s Model Y into the number-one selling car in the

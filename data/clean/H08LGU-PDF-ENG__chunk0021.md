@@ -1,7 +1,13 @@
-## resources, opportunities, discipline, learning, and feedback. If we
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: afec05df598970c244e5a5c394118a1cf322685e
+title: H08LGU-PDF-ENG
+---
+## same high standard of experience for everyone.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+We measure fairness by looking at the major touchpoints of a person’s
 
-5
+interaction with their environment. In the workplace, that means
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+examining how people’s experiences diﬀer regarding pay, promotion,

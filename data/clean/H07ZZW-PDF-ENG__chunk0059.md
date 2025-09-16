@@ -1,31 +1,11 @@
-# consultants.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7918eb19cc5f082b75feef0b846b43847eb1b97f
+title: H07ZZW-PDF-ENG
+---
+## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
 
-Changing the way you determine your priorities — and whom you
+Third, senior leadership teams tend to set strategy and goals in isolation
 
-involve — can correct all three errors. Issues such as sustainability and
-
-diversity are distinct in that at least some employees feel passionately
-
-about them and yearn for a sense of agency in setting goals and
-
-enacting change. Students in a recent sustainability class told me that
-
-they focus less on which brands to patronize and lifestyle changes to
-
-embrace and more on pushing their employers to take action because
-
-doing so leverages their impact.
-
-Instead of awaiting such organized activity, or ignoring misalignments
-
-between senior leaders and staﬀ, it’s wise to include your employees
-
-when you use a materiality assessment to set environmental and social
-
-priorities. Any credible materiality assessment takes the concerns of
-
-internal and external stakeholders into account. And once you have
-
-listened to the full range of concerns and opinions, the imperative is to
-
-candidly focus on the handful of issues your business is truly capable of
+from the rest of their workforce or delegate the task to teams of

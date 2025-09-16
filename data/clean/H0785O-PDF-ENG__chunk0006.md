@@ -1,15 +1,19 @@
-# normal conditions.”
+---
+source_path: H0785O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd6497d78e4886957ba85d4a95ab93a35f85de33
+title: H0785O-PDF-ENG
+---
+# basis for executive action.”
 
-But the normality May saw in 1922 proved to be ﬂeeting. In just a few
+At the time, the business world had reason for optimism. The First
 
-years, the stock market would crash, followed by the Great Depression
+World War had ended just a few years before. The Spanish ﬂu pandemic
 
-and another world war. If a proper theory of business was desirable
+had subsided. The economy had weathered a brief depression, and
 
-in optimistic times, surely the tumult that marked so much of the
+the outlook was decidedly improving. In that ﬁrst issue, writing about
 
-century would make it all the more essential. The need to understand
+the taxation of capital gains, accountant George O. May said as much,
 
-how business and organizations function, to learn from the experience
-
-of others, and to detect patterns in seeming chaos has only gotten
+noting that, in the U.S. at least, business was getting “back to more

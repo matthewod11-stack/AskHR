@@ -1,15 +1,13 @@
-# HBR / Digital Article / How Companies Can Use AI to Better Serve Deaf and Hard-of-H…
+---
+source_path: H08DY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04e9f3f61fa15d65f2392f722392e72da41b1d91
+title: H08DY5-PDF-ENG
+---
+# programs in this era of AI:
 
-- 1. Design customer experiences to be inclusive from the beginning.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Consider the requirements of deaf and hard of hearing individuals at
+3
 
-every stage of service delivery. For example, if a company is looking
-
-to add a chatbot, they should ensure that its chatbots can seamlessly
-
-transfer to a live representative who can communicate via sign language
-
-or provide additional text-based support. Where possible, involve deaf
-
-end users in ideation and testing your systems to identify potential
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

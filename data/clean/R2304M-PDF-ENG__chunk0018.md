@@ -1,11 +1,21 @@
-## HBR / Magazine Article / Case Study: How Should a Start-Up Cut Its Burn Rate?
+---
+source_path: R2304M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3e0effee318cfa875e59b5f737a96bdce27b4d3
+title: R2304M-PDF-ENG
+---
+# oﬃce.”
 
-cuts, putting another group of employees out of work, would he still
+Simone nodded. “True. But this could be an opportunity. If we go with
 
-have credibility as a leader?
+this plan, we can invest at least some of what we save in other drivers of
 
-He swung by the oﬃce to pick up his laptop and then began the
+employee engagement, like learning and development.”
 
-walk home. He had a call scheduled with Louis for 8 o’clock the next
+Tyler thought back to the all-hands meeting where he’d announced the ﬁrst layoﬀ—a painful memory. If he announced another round of job
 
-morning, but he still didn’t know what was best for Puck.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

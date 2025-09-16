@@ -1,23 +1,23 @@
-# them?
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6da4b93dabfcb5576eac92cc0f2b27ddf34acd34
+title: H087FB-PDF-ENG
+---
+# Re-Evaluate Your Personal Interests
 
-Inventory all areas of your life and ask yourself whether you’re satisﬁed
+As you think about refocusing your work life, consider: What activities
 
-with that particular area. Categories to consider might be: friendships,
+outside of work would add to your development and enjoyment?
 
-health, work, and travel. Look at where you might be under-indexing
+Start with reinvestigating your foundational interests. Consider what
 
-and start to evaluate your next step. If you’re overwhelmed with this
+your goals were 20 years ago. What was your vision for your life? Ask
 
-inventory, move your body. You’ll think more clearly after a workout.
+yourself what you like to do with your time (not what you feel you
 
-All of the extra time and mental energy that comes with being an empty
+“should” do). The answer may be “take a yoga class” or “try horseback
 
-nester can put you into option overload, which can feel paralyzing.
+riding lessons” — explore whatever bubbles up. You can also re-look at
 
-Remember: You can take your time determining what comes next. You
-
-don’t have to have the perfect life and career plan right away. Engage in
-
-deep reﬂection and consider what you love to do. Accept that there will
-
-be ups and downs in this transition, but you can navigate them and take
+your hobbies from childhood. Can you ﬁnd a new way to restart one of

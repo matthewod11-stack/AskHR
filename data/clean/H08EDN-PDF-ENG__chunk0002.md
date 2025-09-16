@@ -1,9 +1,7 @@
-# rubberball/Getty Images
-
-Stacey, the chief executive of a nonproﬁt focused on energy eﬃciency,
-
-wanted to bolster her leadership team by creating a chief operating
-
-oﬃcer position. Her ﬁrst two hires to ﬁll the role were unsuccessful:
-
-Neither lasted a full year on the job. These were time-consuming and
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a76cbc84e469975bbcc20b910d3985fde4199db5
+title: H08EDN-PDF-ENG
+---
+## Published on HBR.org / September 25, 2024 / Reprint H08EDN

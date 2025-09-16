@@ -1,23 +1,15 @@
-# represent inequities.
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa8f01df7177916526cc62a6c87af6dade8597db
+title: H081SB-PDF-ENG
+---
+# Audit pay equity regularly.
 
-Importantly, the goal isn’t for every employee to make exactly the same
+Of course, identifying pay disparities is not a one-and-done activity.
 
-salary, or even for every title to be compensated the same way. The art
+To the contrary, employers should take accountability on an ongoing
 
-of ensuring an equitable pay structure is nuanced and complex, and
+basis by conducting regular pay-equity analyses. These audits should
 
-it requires leaders to take a range of factors into account, from the
-
-diﬀerent beneﬁts and perks that employees may have negotiated for to
-
-cost of living adjustments to variance in the contributions that diﬀerent
-
-people in similar roles may oﬀer.
-
-This is hard work, and there are no easy answers. However, a critical
-
-ﬁrst step is to ensure that whenever there are any disparities, that there
-
-is at least some way to explain them. After all, the real problems emerge
-
-when pay inequities seem arbitrary, or worse still, turn out to be the
+focus on identifying which disparities are fully explainable and which

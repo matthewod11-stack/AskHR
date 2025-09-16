@@ -1,7 +1,11 @@
-# your mind.
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f13b331cef9c20d696b8cfa790af44a0cfb8df8
+title: R2405N-PDF-ENG
+---
+## forward to credit ayahuasca, psilocybin, and more for their leadership
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+success, and some research suggesting that the use of LSD is rising
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+faster among managers than it is among nonmanagers, it’s time to open

@@ -1,21 +1,13 @@
-# plant?”
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb376b51856992beae252dcdfe2e3c0ae1e6e137
+title: R2402M-PDF-ENG
+---
+## the Japanese headquarters of Luna Motors.
 
-“Your plan is innovative,” Takeshi said, genuine admiration in his voice.
+“Hello, Paulo-san,” said Takeshi in his smooth baritone.
 
-“We’re willing to authorize the loans for the expansion. But we can’t wait
+“Good evening, Takeshi-san,” Paulo responded, trying to keep his voice
 
-forever. Our patience with this labor dispute has limits.”
-
-Paulo tightened his grip on the phone.
-
-“In Japan,” Takeshi continued, “our kaizen philosophy centers around
-
-harmonious collaboration between management and labor. It’s not
-
-just about continuous improvement but also about trust, respect,
-
-and mutual growth. The stories I hear from Campinas trouble me. Disruptions, the threat of strikes—these are not the Luna way.” 3
-
-Takeshi went on, “Our commitment to our employees is deep but not
-
-without boundaries. One idea we’ve been considering is repurposing
+steady. “Did you have a chance to look through my proposal for the

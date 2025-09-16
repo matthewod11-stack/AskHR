@@ -1,15 +1,39 @@
-# solution to that internal tension.”
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 400c996f9400e50f16353a5c69c71f674e3b7c88
+title: R2505C-PDF-ENG
+---
+# Andrew Liu/Unsplash
 
-Focus on what’s in your control. When you’re facing challenges from
+culture of putting guests ﬁrst. Throughout
 
-outside forces, it’s important to ﬁgure out where you can have an
+the attack, they fell back on that training,
 
-impact. That might mean breaking down a big challenge—like how to
+identifying themselves as stewards of the company and its customers,
 
-cope with shifting tariﬀ policies—into smaller ones, like improving your
+whom they bravely calmed and tried to protect.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Assemble a large tool kit. Courageous leaders have a broad array of
 
-8
+metatools—ways to think, solve problems, and stay resilient—that allow
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+them to tackle novel situations. For instance, when asked about the
+
+bravery it takes for astronauts to travel to and live on the International
+
+Space Station, NASA’s Terry Virts noted that the organization’s boot
+
+camp teaching mental endurance is as useful as its technical and
+
+physical training. For CVS’s Foulkes, an important individual tool was
+
+empowering her people through delegation, while a key team one was
+
+transparent debate—that is, “having really deep conversations about
+
+paradox and complexity…allowing people to share…what they’re excited
+
+about and what they’re nervous about…[and] taking those competing
+
+emotions and ﬁnding something new and diﬀerent as a creative

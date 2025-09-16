@@ -1,9 +1,15 @@
-## HBR / Digital Article / 3 Ways to Make All Your Stakeholders Feel Heard
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2008639484535c1b5c07353a45af7bc881f81e2
+title: H08IWP-PDF-ENG
+---
+# yourself the following questions.
 
-are — if they leave, they can seriously disrupt the functioning of your
+First, would it be diﬃcult to substitute your stakeholders? If their contribution is diﬃcult to replace, that speaks to how important they
 
-business model. In the case of the PGA Tour, there are only a limited
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-number of corporations who can aﬀord to pay more than $15 million to
+6
 
-sponsor a tour event and have that investment ﬁt into their marketing
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

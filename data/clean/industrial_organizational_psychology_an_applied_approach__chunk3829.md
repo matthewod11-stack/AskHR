@@ -1,19 +1,11 @@
-## Denial The first stage in the emotional reaction to
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bc323625f6bcd2a91c52dca2530b920a71cb51d0
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Debriefing
 
-change or layoffs, in which an employee denies that an organizational change or layoff will occur. Dependability-reliability One of five categories
+about the purpose of the study in which he or she was a participant and providing any other relevant information.
 
-from the trait approach to scoring letters of recommendation.
-
-Dependent variable The measure of behavior that
-
-is expected to change as a result of changes in the independent variable.
-
-Derivation sample A group of employees who were
-
-used in creating the initial weights for a biodata instrument.
-
-Desirability The extent to which a trait or behavior is
-
-valued as being good in society.
-
-Despair An organizational climate characterized by low
+Defense The second stage of change, in which employees accept that change will occur but try to justify the old way of doing things.

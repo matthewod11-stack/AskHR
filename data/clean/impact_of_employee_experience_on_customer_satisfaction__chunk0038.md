@@ -1,57 +1,27 @@
-# 5 | P a g e
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 5177933db099a9c6a5a106f50691f3647ed2cae1
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 1.4.1. Vision, Mission and Strategy
 
-Non-financial areas are important ingredients to reach financial growth goals. Atlas
+The Atlas Copco vision “First in Mind, first in Choice” is not meant only for customers,
 
-Copco has developed culture where employees have the possibility to grow their
+but it cascades down to all employees and other stakeholders. The corresponding
 
-knowledge and career and feel safe and motivated to bring new innovative products
+mission is to “Achieve sustainable, profitable growth”, meaning that all of our efforts
 
-to the market. It is not just a phrase: “The most valuable asset of the company are the
+are directed to producing long-lasting results while protecting people, profit, and the
 
-people”. The company provides many initiatives to drive the employee experience
+environment. On a corporate level, there are six focus areas which group financial
 
-journey. “The company believes that diversity and inclusion promote innovation,
+and non-financial goals and they are separated into the objectives which help
 
-strengthen employee engagement and lead to better decision making. Creating an
+accomplish and maintain the company vision and mission. All six focus areas have
 
-atmosphere where all employee feels appreciated where they can align their
+their own targets on a group level which can vary from the targets of each specific
 
-individual purpose with the organizational purpose, bringing their true selves to work
+division. However, all divisions contribute to the overall group targets.
 
-every day” (Atlas Copco, 2021, p. 42)
-
-Safety and Wellbeing is also a key part of the employee experience journey where
-
-the company has set high priority. Covid-19 challenged all organizations and led them
-
-to a new reality with a focus on safety and well-being by eliminating hazards and
-
-reducing occupational health and safety risks.
-
-Atlas Copco operates in four business areas decentralized across all continents and
-
-serving customers in 180 countries, however corporate culture is characterized by a
-
-commitment to people, customers, products, and innovations. The company ensures
-
-that group culture cascades down to each employee everywhere in the world. Atlas
-
-Copco believes “there is always a better way” and in many areas of our work we help
-
-the company improve products or processes, but this meaning also has deeper social
-
-aspects. For example, the company signs up for scientific targets to decrease CO2
-
-emissions. According to CEO Mats Rahmstrom: “Our Science-based targets will lead
-
-the way. They are the link between the Paris agreement and real actions to limit the
-
-global warming in the world. As a leading industrial innovator and global supplier, we
-
-can make a huge difference, also when it comes to battling climate change. We are
-
-engaged in this race, there is no turning point”. (Atlas Copco, 2021, p. 3) Atlas Copco
-
-with other well-known companies is fully committed and engaged to improve quality
-
-of life and make difference for all humankind.
+Fig. 1 Atlas Copco corporate goals and focus areas (Atlas Copco, 2022)

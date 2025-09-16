@@ -1,7 +1,9 @@
-# de Beauvoir (1949)
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: b50745b6a8c258347ad97c1ff02dce02ce490f22
+title: file_1
+---
+# 2.1. Gender
 
-When we think about gender, we commonly think about men and women, and the relationships between them. However, gender is just as relevant in relationships between men and between women (Hearn and Parkin, 2003). Therefore, when speaking of gender, one should carefully consider its definition in each particular context.
-
-In many cases, the term ‘gender’ is believed to be a synonym for ‘women’. Many researchers use the term ‘gender’ instead of the term ‘women’ in order to signify the scholarly seriousness of a work since ‘gender’ has a more neutral and objective sound than does ‘women’ (Scott, 1986). This is not the case for this thesis. Instead, Acker’s definition of gender serves as the starting point.
-
-Acker (1992: 250) described gender as ‘patterned, socially produced distinctions between female and male, feminine and masculine. Gender is not something we are, in some inherent sense, although we may consciously think of ourselves that way. Rather, for the individual and the collective, it is a daily accomplishment … that occurs in the course of participation in work organizations as well as in many other locations and relations’. In other words, according to Acker (1992), gender is the changing constitution of divisions between men and women in all social interactions. Since we are not ‘doing’ the same kind of gender which the previous generation ‘did’, gender is constantly changing. Men and women are active agents, who do gender in their everyday lives. Gender distinctions are socially incorporated into hierarchical structures where men tend to be at the top and women are disproportionally at the bottom, while images of those who govern and manage have a masculine character (Acker, 1992). Gender is also constantly changing because new technological practices emerge, organizational structures are reordered, and employment relationships expand (Heiskanen and Rantalaiho, 1997). Gender differences are also determined by social institutions, culture, and human interactions (Korvajärvi, 1997).
+“One is not born a woman, one becomes one.”

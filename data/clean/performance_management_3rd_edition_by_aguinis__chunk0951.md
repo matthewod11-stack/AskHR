@@ -1,5 +1,11 @@
-# Fulfills responsibilities (32–37 pts)
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b8d97867cabfdf897b978147476643a63d043deb
+title: performance_management_3rd_edition_by_aguinis
+---
+# Needs improvement (16–31 pts)
 
-Fulfilled all key responsibilities. Consistently performed to established work standards.
+Met main responsibilities, but did not fulfill all responsibilities. Inconsistent level of performance across tasks.
 
-3–4%
+1–2%

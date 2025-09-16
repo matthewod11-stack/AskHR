@@ -1,7 +1,19 @@
-# its internal and its external validity.
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8481062c66e4b0c3a5918b9c16c89142456dd0fa
+title: R2405D-PDF-ENG
+---
+## when the senior vice president of engineering at a major tech company
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+told us about his company’s rule against looking at university grades
 
-7
+in engineer hiring decisions, we asked about the rationale. He said that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Google had “proved that grades don’t matter”—referring to a Google
+
+executive’s comment he had read somewhere, claiming there wasn’t a
+
+relationship between school grades and career outcomes. By taking that
+
+piece of information as gospel, he ignored potential limitations to both

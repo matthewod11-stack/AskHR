@@ -1,13 +1,11 @@
-# which metrics matter.
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d103c550a30efff195cad1d66fe4b850ab7e53a
+title: H07UQT-PDF-ENG
+---
+## growth of dividends, development of next-generation family members
 
-At Gera, one of the changes we made during the evaluate change was
+who have management potential, or the company’s reputation within
 
-the format and frequency of monthly reviews. In moving to a hands-
-
-oﬀ role, Rohit felt the need to be in the know of what was going on
-
-monthly. Previously, the leadership team had held a half-day review
-
-once a month. Under Rohit’s successor, that shifted to four half-days of
-
-review per month, with three of those days doing in-depth reviews of
+the community. So as they think about performance, CEOs must learn

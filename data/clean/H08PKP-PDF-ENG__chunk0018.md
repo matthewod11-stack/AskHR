@@ -1,15 +1,23 @@
-# goal?”
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5deea37191db1d60cd497e9cad312c42d801d87b
+title: H08PKP-PDF-ENG
+---
+# conﬁrm feasibility.”
 
-Present feasible alternatives. Oﬀering what’s possible instead of
+Expose the trade-oﬀs. Help executives weigh consequences by framing
 
-rejecting what’s not keeps you in solution mode, reinforcing your
+decisions around priorities. Guide them to make informed choices by
 
-credibility while making you appear less resistant. For example, you
+laying out the consequences and what will be delayed, deprioritized, or
 
-might say:
+compromised. This reframes your refusal as responsible leadership. You
 
-- “Given our core priorities, I know my team won’t be able to launch the
+can say:
 
-new business line in six months. But we could complete the necessary
+- “We can hit that number, but we’ll need to cut back on product
 
-research and draft a product design to set us up for launch in the new
+development—are we okay with that?”
+
+- “Are we willing to accept these execution risks to achieve this new

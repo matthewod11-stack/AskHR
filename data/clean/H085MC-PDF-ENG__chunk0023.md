@@ -1,13 +1,27 @@
-# direction.
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a005f498b4b2020fdb0edecfba4d315fde9dd7f
+title: H085MC-PDF-ENG
+---
+# HBR / Digital Article / 6 Common Leadership Styles — and How to Decide Which to Us…
 
-- 5. Democratic leadership style
+According to Goleman, this relationship-oriented style is especially
 
-The democratic leadership style involves empowering your team to have
+valuable in shaping a positive work environment, which is particularly
 
-a voice in decision-making. By taking the time to gather input, listen to
+important at a time when some companies are calling employees back to the oﬃce. You can create a caring, cohesive community rather than
 
-concerns and diverse perspectives, and incorporate feedback, you show
+an administrative machine by getting to know your employees on a
 
-your team members that their opinions matter, their voices are heard,
+personal level and celebrating their wins, he says.
 
-and their contributions are valued. This gives them a sense of ownership
+When to use the aﬃliative leadership style
+
+This style builds connections and creates a positive company
+
+culture, but it should not be used in isolation. It may not provide suﬃcient feedback to address performance issues or deal with
+
+complex challenges. Combining this approach with the inspirational,
+
+authoritative style creates more balance by oﬀering both support and

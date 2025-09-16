@@ -1,11 +1,9 @@
-# Economic Review 90(1): 166-193.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 09bdc8679b8a5ca0f99c1ecdf080020a3d70fe01
+title: behavioral_economics_1
+---
+## fMRI evidence." Games and Economic Behavior 52(2): 424-459.
 
-Brocas, I. and J. Carrillo (2005). The Brain as a Hierarchical Organization, University of Southern California.
-
-36
-
-Brown, M., A. Falk and E. Fehr (2004). "Relational contracts and the nature of market interactions."
-
-Econometrica 72(3): 747-780.
-
-Bruni, L. and R. Sugden (2005). "The Road Not Taken. Two Debates on Economics and Psychology?"
+Bolton, G. E. and A. Ockenfels (2000). "ERC: A Theory of Equity, Reciprocity, and Competition." American

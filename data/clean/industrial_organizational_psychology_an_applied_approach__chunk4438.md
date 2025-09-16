@@ -1,19 +1,15 @@
-## Silbergeld, A. F., & Jan, G. C. (2004, November). Awareness
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e7bdf705414680d68a5e9b19146fbac2097a9418
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Shultz, K. S., Hoﬀ man, C. C., & Reiter-Palmon, R. (2005). Using
 
-and prevention of violence in the workplace. IPMA-HR News, 6–8.
+archival data for I-O research: Advantages, pitfalls, sources, and examples. Th e Industrial-Organizational Psychologist, 42(3), 31–37.
 
-Silva, J. M., & Jacobs, R. R. (1993). Performance as a function of
+Sieber, J. E., & Saks, M. J. (1989). A census of subject pool
 
-increased minority hiring. Journal of Applied Psychology, 78(4), 591–601.
+characteristics and policies. American Psychologist, 44(7), 1053–1061.
 
-Simner, M. L., & Goﬃ n, R. D. (2003). A position statement by
-
-the International Graphonomics Society on the use of graphology in personnel selection testing. International Journal of Testing, 3(4), 353–364.
-
-Simonton, D. K. (1987). Why presidents succeed: A political
-
-psychology of leadership. New Haven, CT: Yale University Press.
-
-Singer, B. W. (2000). Get goofy now! Health, 14(8), 76–79. Sitzmann, T., Brown, K. G., Casper, W. J., Ely, K., &
-
-Zimmerman, R. D. (2008). A review and meta-analysis of the nomological network of trainee reactions. Journal of Applied Psychology, 93(2), 280–295.
+Siegall, M., & Worth, C. (2001). Th e impacts of trust and control on faculty reactions to merit pay. Personnel Review, 30(5/6), 646–656.

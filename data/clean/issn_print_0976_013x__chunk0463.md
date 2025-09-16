@@ -1,13 +1,7 @@
-# Conformity
-
-21.8387
-
-6.455
-
-23.5806
-
-5.39614
-
-- 1.153
-
-0.254
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 8fafaba4fb1657f4c96cd828fef07ce17197eb52
+title: issn_print_0976_013x
+---
+# Deviation

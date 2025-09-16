@@ -1,7 +1,15 @@
-## from bland: the lack of collaboration between siloes.
+---
+source_path: H06GCB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d5b4e6a20b3be7e60b312139d5f675b6132ed32
+title: H06GCB-PDF-ENG
+---
+# HBR Staff
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+When members of multidisciplinary teams are asked to describe their
 
-1
+colleagues, many will say their peers are collegial, professional, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+accomplished. While we would all love to be on a team that’s not
+
+dysfunctional, behind this insipid description lurks a peril that is far

@@ -1,5 +1,11 @@
-# several of
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 529dbef60ad4f89ec0fa128dd5da71603911ef8a
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+## Expert Opinions on the Relevance of JDM to I–O Psychology
 
-Question 1: What are the differences inphilosophicalperspectivesacrossthe IOOB and JDM ﬁelds? What are the opportunities and obstacles created by thesedifferencesinperspectives?
+We turn now to a discussion of the philo- sophical and methodological traditions in
 
-Daniel Ilgen: Consider the difference between normative science and induc- tive science. The judgment and decision- making literature follows a normative approach. The literature is dominated by certain models (e.g., the Bayesian model, Slovic & Lichtenstein, 1971; the lens model,
+IOOB and JDM (including the obstacles to, and opportunities associated with, cross- fertilization), the areas in which IOOB has already been enriched by JDM as well as the areas in which it might be further enriched in the future, ways of increas- ing cross-fertilization from JDM to IOOB, and ways in which IOOB can in turn con- tribute to JDM. Included in this discussion are Scott Highhouse, Daniel R. Ilgen, Susan Mohammed, and Jerel E. Slaughter. These researchers are leading IOOB scholars whose research program is characterized by strong ties to JDM topics. They therefore have one foot in the IOOB world and the other in the JDM world. In addition, their speciﬁc areas of research interest collec- tively encompass both the ‘‘industrial’’ and ‘‘organizational’’ sides of I–O psychology. Several of them also teach courses in JDM- related topics, and several of them have authored reviews (e.g., Highhouse, 2001; Ilgen, Major, Hollenbeck & Sego, 1995; Mohammed & Schwall, 2009) and encyclo- pedia entries (e.g., Schwall & Mohammed, 2007; Slaughter & Reb, 2007) on JDM- related topics. Finally, the aforementioned scholars have served as editors, associate editors and/or editorial board members of OrganizationalBehavior andHumanDecisionProcesses (OBHDP), which is not only frequently considered a top-tier journal for IOOB researchers but also arguably the premier journal for JDM researchers. This discussion originated as, but has been greatly modiﬁed from, a panel discussion held at the 2009 SIOP conference.

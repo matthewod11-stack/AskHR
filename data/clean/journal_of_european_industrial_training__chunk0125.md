@@ -1,3 +1,7 @@
-# Perspective, Towers Perrin, London.
-
-Vicere, A. (1998), ``Changes in practices, changes in perspectives: the 1997 International Study of Executive Development Trends'', Journal of Management Development, Vol. 17 No. 7. Waldman, D. and Atwater, L. (1998), The Power of 3608 Feedback: How to Leverage Performance Evaluations for Top Productivity, Gulf Publishing Co., Houston, TX. Waldman, D. and Bowen, D. (1998),
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 3a33834c497fe3d05657e24865d4d4dce9e1b931
+title: journal_of_european_industrial_training
+---
+## Towers Perrin (1998), 3608 Feedback: The Global

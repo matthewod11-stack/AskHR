@@ -1,7 +1,9 @@
-# Learning Objectives
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 61ef0fbec79f10161fd96d77b0ac9cf991f66699
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Ô
 
-Understand the legal process involving employment law
-
-Know what classes of people are protected by federal law
-
-Be able to determine the legality of an employment practice
+

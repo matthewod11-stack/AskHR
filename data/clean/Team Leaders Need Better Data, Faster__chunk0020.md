@@ -1,13 +1,23 @@
-# member in the real world.
+---
+source_path: Team Leaders Need Better Data, Faster.md
+pages: n/a-n/a
+chunk_id: 914224bed49c7b280ad684dd03063556fd576e61
+title: Team Leaders Need Better Data, Faster
+---
+## in that in oﬀers the promise of perfect organizational alignment. The
 
-Moving forward, performance management systems should be designed
+reality is quite diﬀerent. In reality, each individual team member’s goals
 
-to address the practical concerns of team leaders. Once broad
+are so darned individual, so speciﬁc to each team member’s strengths,
 
-organizational priorities have been communicated, the team leader’s
+needs, and oft-changing circumstances, that team leaders struggle to
 
-Copyright © 2015 Harvard Business School Publishing. All rights reserved.
+place one team member’s actual goals into one of the static buckets,
 
-3
+let alone to record reliably their completion percentage. The result is
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a kabuki-like process in which everyone goes through the motions of
+
+alignment, but none of it addresses what is most pressing to team
+
+leaders: namely, how to get actual work done with a speciﬁc team

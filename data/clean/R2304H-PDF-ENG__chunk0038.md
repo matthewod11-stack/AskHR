@@ -1,17 +1,29 @@
-# In another follow-up experiment—this
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86f9da03874afd2ec73f87bb5a39f851bb0091a2
+title: R2304H-PDF-ENG
+---
+## HBR / Magazine Article / Disability as a Source of Competitive Advantage
 
-time analyzing 177 new respondents’
+Interestingly, our results clearly indicated that people’s willingness to
 
-inclination to buy and willingness to pay
+pay was signiﬁcantly higher for a company that they liked and felt a
 
-more for a backpack—we examined why
+communal relationship with. So even though customers are not willing
 
-people feel a stronger relationship with a
+to pay more for a product or a service just because the seller employs
 
-company that employs people with
+people with disabilities—there is not a simple direct relationship—
 
-disabilities. Analyzing diﬀerent potential
+they are willing to pay more for a product or service if they feel a
 
-motives, we found that it’s because they
+psychological bond with a company. And that bond is much more likely
 
-perceive such a company to be more fair
+to form if a ﬁrm is known to have disabled employees. Thus, there
+
+is a strong indirect positive eﬀect on people’s willingness to pay for a
+
+product or service. We also found some indication that customers would
+
+be more likely to make repeat purchases from the company.

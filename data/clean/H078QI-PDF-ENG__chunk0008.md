@@ -1,9 +1,19 @@
-## practice, especially when the vast majority of workers express support
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e15b9e51baf863ac6ca790f524c0083303d8ad0
+title: H078QI-PDF-ENG
+---
+## for their hiring, people rate the qualiﬁcations and skill of a candidate
 
-for DEI in the abstract? Because people are strongly motivated to protect
+from a marginalized group lower — even if they themselves are from
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+that same group. And when marginalized employees are presented
 
-2
+with a “business case for diversity,” espousing the beneﬁts of diversity
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+on business outcomes, they respond by reporting a lower sense of
+
+belonging and less interest in joining the organization.
+
+Why is backlash such a large risk when DEI initiatives are put into

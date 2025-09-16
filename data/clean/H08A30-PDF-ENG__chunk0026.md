@@ -1,17 +1,31 @@
-# Recommendations
+---
+source_path: H08A30-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e76d7e334b4e90a7fcad0950b1ccb4b9a8f1e9e
+title: H08A30-PDF-ENG
+---
+# of the assistive device only.
 
-Given the history of bias in this area, it takes more than lip service to
+- The other conditions added some combination of the following:
 
-convince qualiﬁed disabled job applicants to engage with a company.
+- A letter of recommendation (either with or without reassurance that
 
-Improving the signaling in job ads and on websites is one place to start.
+the device itself is helpful and not problematic)
 
-There are also additional opportunities for inviting candidates to make
+- An oﬀer to work for a trial period to demonstrate skills and ability
 
-the strongest possible impression and reduce bias earlier in the process.
+- A video of the candidate using the assistive device
 
-The phrase “trust needs touch” applies here as well — the touch, in this
+Of these, it seemed that either the letter of recommendation (with
 
-case, refers to something genuine that rings true to both employers and
+or without the extra language addressing the disability and assistive
 
-job candidates. Employers need to understand what works to structure
+device) or the oﬀer to work a trial period seemed to reduce bias. Neither
+
+the pictures nor the video was reassuring on their own, and stacking
+
+multiple extras at once did not lead to further gains. External support
+
+and personal dedication seemed to be keys to unlocking a greater
+
+appreciation for the candidate’s true potential.

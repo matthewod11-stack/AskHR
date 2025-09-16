@@ -1,11 +1,11 @@
-# worlds?
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0af271c42c7376b73efdaf2f270c86f518d2789c
+title: H087QD-PDF-ENG
+---
+## because of the greater work-life balance and personal productivity that
 
-At Ernst & Young LLP (EY U.S.), we’ve spent the last few years
+they experience. But what is the right amount of time to be in person?
 
-comprehensively studying our people throughout this period of
-
-profound change. This has enabled us to take a data-driven approach
-
-to questions around hybrid work, grounded in what our own people are
-
-telling us about their experiences. Our data comparing the performance
+How can corporate policymakers and team leaders get the best of both

@@ -1,7 +1,19 @@
-# thin.”
+---
+source_path: H08DM0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43033cfccb0243991960bc08afef57d77e1731b2
+title: H08DM0-PDF-ENG
+---
+## The sudden scrapping of a project with no explanation, a surge of
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+meetings ﬂooding your calendar, or the unexpected arrival of a new
 
-1
+hire: When your new boss is making hasty decisions without clear
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+justiﬁcation, your work life feels like it’s been knocked oﬀ-kilter.
+
+“It’s professionally frustrating and emotionally exhausting,” says
+
+Sharmin Banu, an executive coach based in Seattle. “You haven’t built
+
+trust with this new manager yet, so any goodwill you had initially wears

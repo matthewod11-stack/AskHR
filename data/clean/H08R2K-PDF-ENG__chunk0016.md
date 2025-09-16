@@ -1,15 +1,13 @@
-# Risk Mitigation
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a3465b11692169d35081662e284c08173ecf3a5
+title: H08R2K-PDF-ENG
+---
+## costs, identiﬁed in Mercer’s People Risk Report 2024 as the number one
 
-Additionally, 12% of employees in our study admitted to making
+business risk globally, are accelerating the urgency to address the cost
 
-mistakes, missing deadlines, or cutting corners in ways that could
+risk. From 2020 to 2024, per-employee premium costs in the U.S. have
 
-jeopardize regulatory compliance—and employees under high stress are
-
-11 times more likely to do so. The ﬁnancial penalties for non-compliance
-
-can be devastating, and we believe that what might be even harder to
-
-recover is the loss of stakeholder trust and reputational damage that
-
-stress-driven failures can create.
+surged by 28%, with annual increases averaging 6.5%.

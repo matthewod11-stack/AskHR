@@ -1,3 +1,15 @@
-# YL
+---
+source_path: H08QEO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6ad796c5ec991c525f6ea8538bb0bed917528696
+title: H08QEO-PDF-ENG
+---
+# HBR / Digital Article / Research: Gen AI Makes People More Productive—and Less Mo…
 
-Yukun Liu is an assistant professor at the School of Management, Zhejiang University. His research focuses on transformative work design, employee well-being, and how organizations can support human sustainability in the digital age.
+compromising workers’ motivation and engagement. After all, the
+
+future of work isn’t just about what AI can do—it’s about what humans
+
+and AI can achieve together.
+
+This article was originally published online on May 13, 2025.

@@ -1,11 +1,21 @@
-# perspective?”
+---
+source_path: H08JHQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92d230d25c83b33c3a3e71f7dafce03142b4b52f
+title: H08JHQ-PDF-ENG
+---
+## as a facilitator between the company’s needs and your employee’s
 
-Taking on the role as facilitator signiﬁcantly reduces the emotional
+needs, capability, and performance. You can do this by taking a
 
-pressure you may feel during diﬃcult conversations. It also reduces
+third-party approach. For instance, you can make an objective and
 
-the chance that your employee will feel personally attacked by your
+honest observation by saying something like, “The team needs to make
 
-feedback. If you show genuine care in the other person’s development,
+progress on this project, and your skills are important for us to get
 
-they will usually sense it and understand you’re trying to help them
+there. But I’ve also noticed you’re facing some challenges in hitting your
+
+target goals by the deadline we’ve discussed.” Then, follow up with your
+
+open-ended question: “Can you tell me what’s been going on from your

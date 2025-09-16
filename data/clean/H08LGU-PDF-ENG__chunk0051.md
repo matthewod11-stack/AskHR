@@ -1,25 +1,25 @@
-## for the jobs and opportunities of white men” and other majority
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d22dd2861b4fcdbd379ad68f2751a65fcc7b4e2f
+title: H08LGU-PDF-ENG
+---
+## product team without direct experience living in rural communities
 
-group members and lowers the possibility of productive dialogue. If
+might be very representative of rural communities due to frequent
 
-practitioners can instead start a conversation about how much diﬀerent
+communication, active outreach, and ongoing eﬀorts to understand and
 
-groups trust and feel heard by leadership, taking seriously those who
+advocate for rural communities’ needs.
 
-don’t feel represented regardless of their identity or background, we can
+Focusing on representation as an issue of trust rather than an issue
 
-avoid zero-sum mindsets and the backlash they engender.
+of identity allows us to avoid zero-sum conversations that can come
 
-Representation is a matter of trust, not tokenism.
+from ﬁxating on demographics. Assuming no change in team size,
 
-Does this mean demographics don’t matter? Not at all — but
+teams populated only with white men must necessarily lose white men
 
-demographic parity (having a workforce demographic mix that mirrors
+if they are to gain women or people of color. This framing instantly
 
-that of customers or society) is an issue of fairness, not representation.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+activates the common fear that eﬀorts to increase diversity are “coming

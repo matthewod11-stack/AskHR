@@ -1,27 +1,13 @@
-# agility.
+---
+source_path: H05FWW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ceb4ff03821d9152fe4a27d1d56aed318157faca
+title: H05FWW-PDF-ENG
+---
+## HBR / Digital Article / A New Framework for Executive Compensation
 
-The responses to this disruption, however, have not been matched in long-
+At the same time, societal forces and new business priorities are
 
-term incentive design. Conventional plans reward executives for winning
+undercutting shareholder primacy while strengthening other stakeholder
 
-over three years. Because companies now are vying to reshape their
-
-business over much longer periods, executives are essentially tied to a
-
-structure that supports only incremental change versus radical
-
-transformation. This disconnect means a clash is inevitable.
-
-It should come as no surprise that the directors we speak with on board
-
-compensation committees have become increasingly concerned. Could
-
-conventional three-year plans inadvertently encourage executives to
-
-compromise long-term performance? Are the plans’ structures too
-
-inﬂexible to allow for quick strategic pivots? How do stakeholder interests
-
-ﬁt into plans that have long focused solely on ﬁnancial results? We get
-
-these questions particularly from tech ﬁrms, which we believe are
+interests. Strategic stability has fallen from its pedestal in favor of strategic

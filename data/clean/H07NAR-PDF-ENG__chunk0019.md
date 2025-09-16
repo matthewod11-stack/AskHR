@@ -1,7 +1,15 @@
-# oﬀer to those employees.
+---
+source_path: H07NAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c37f6c6c2aea47f59a9d9b36e1fe7eac83d97ed
+title: H07NAR-PDF-ENG
+---
+# for you.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+- 3. Be selective.
 
-5
+Not all employees should be eligible for the oﬀer. Determine which
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+groups or positions are most likely to beneﬁt from it (as the consulting
+
+company above did, when it targeted potential partners), and limit the

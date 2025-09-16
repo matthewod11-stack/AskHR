@@ -1,5 +1,7 @@
-# procedural justice perceptions and organizational citizenship behaviors. Academy of
-
-Management Journal, 46: 97-105. http://dx.doi.org/10.2307/30040679
-
--188-
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: f48c81c820c26ef6db6f40a28e345761ed96962a
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# TEPPER, B.J.; TAYLOR, E.C. (2003). Relationships among supervisors' and subordinates'

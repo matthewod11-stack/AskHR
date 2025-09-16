@@ -1,11 +1,17 @@
-# entrepreneurs.
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81703e273b801511964d4b3a5f8c8cd6463f1490
+title: H037WI-PDF-ENG
+---
+## HBR / Digital Article / Why Are Immigrants More Entrepreneurial?
 
-Implications of our research also extend to the ﬁeld of immigration
+ideas receive no chance to exploit them within a company, they might
 
-policy. The United Nations estimates that there are over 240 million
+choose to do so outside of it. Previous research has identiﬁed that many
 
-temporary and permanent migrants and refugees worldwide. Our
+expatriates choose to leave their organizations soon after ﬁnishing an overseas assignment, when they suﬀer from a lack of promotion
 
-results help explain the above-average entrepreneurial activity of this group and highlight the positive eﬀects that immigration can have
+opportunities, career counseling, and status. Our results suggest that
 
-on an economy. We show that migration does not need to be a
+some of them might do this in order to exploit opportunities to become

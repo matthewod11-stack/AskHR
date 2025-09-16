@@ -1,15 +1,17 @@
-# more leadership responsibility.
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 805c5920d33f4bd39d671657c83ce6b394e7ce1c
+title: R2405M-PDF-ENG
+---
+## about sugar farming and power generation.
 
-This approach would safeguard the company from undue risks and would more eﬀectively leverage Aminata’s fresh perspectives and skills.
+All those who are involved in this negotiation must endeavor to be
 
-Cyrille NKontchou is a cofounder and managing partner of Enko Capital, based in South Africa.
+patient. If Aminata is to be smoothly integrated into Assoua Group,
 
-Koﬃ and Yao should reject Aminata’s plan—gently
+the process should be strategic and carefully phased. A clear road
 
-—and at the same time try to steer her to
+map should be drawn for scaling up the projects she advocates—if the
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+smaller initial versions prove successful—and for gradually giving her

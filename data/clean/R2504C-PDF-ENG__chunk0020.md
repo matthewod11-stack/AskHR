@@ -1,61 +1,63 @@
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 591ad3b82c4c69c957090e19a9d9ad4e70fded77
+title: R2504C-PDF-ENG
+---
 ## HBR / Magazine Article / “Speed Is a Leadership Decision”
 
-and principles, and we still speak regularly. When you’re succeeding
+think really matter. And we tolerate failure. If you aren’t failing, you’re
 
-someone, you may have to throw the plans out the window depending
+either not inventing enough or not pushing the envelope.
 
-on what’s happening in the world. I started this job in the middle of the
+I want to talk about leadership. As you say, AI is reshaping everything. And it feels as if there’s never been greater political and geopolitical complexity. How do you manage through all the uncertainty?
 
-pandemic, and things took oﬀ. We grew about 40% year over year on a
+There are a lot of things happening now in the world, in our country.
 
-$245 billion business. We took a fulﬁllment business built over 25 years
+And it can be dizzying. I think it’s important to acknowledge that there’s
 
-and doubled it in 18 months, then built out a last-mile transportation
+a lot going on, but you can only control the things that you can control.
 
-work the size of UPS in 20 months. With that kind of expansion, you
+And then remember what matters most. We’re here to make customers’
 
-now have a diﬀerent network on your hands.
+lives easier and better. We could get distracted by questions like “Are
 
-I’m really proud of the team. My team rethought our closely held beliefs
+there going to be tariﬀs? How high will be they be?” But at the end of the
 
-and reinvented what our network looks like. Each era presents diﬀerent
+day, we have a job to do, which is to ﬁgure out what customers want and
 
-challenges, and leaders have to address them and try to be themselves.
+then deliver it.
 
-You’ve been at Amazon for 28 years and in the CEO role for four. What’s your best career advice?
+For years, in HBR and elsewhere, the consensus has been that good leadership was deﬁned in large part by being attuned to the needs of all your stakeholders, of thinking about issues like sustainability and diversity. Has the deﬁnition of good leadership changed in your mind?
 
-First, pick something you’re passionate about or that you think you’re
+There isn’t one deﬁnition of what it means to be a great leader of a
 
-going to be good at. You don’t need to know what your career will
+signiﬁcant company. You have to deliver great customer experiences
 
-be early on. Before I went to business school, I tried sportscasting
+for whomever you’re trying to serve, and with successful ﬁnancial
 
-and sales. I worked as a product manager at a direct marketer. I tried
+results. Over the past few years, at times some issues suddenly got a
 
-physical retail and investment banking, and I started two businesses.
+disproportionate amount of attention. That’s because there’s still work
 
-Next, you can’t be terriﬁed of failure. Almost every important lesson I’ve
+to be done. We’re still not where we need the environment to be. I
 
-learned came from failure, from things that didn’t go right. If you are
+still think we want more-diverse teams. None of that has changed.
 
-self-reﬂective and learn from it, a failure can catapult you. And then,
+Sometimes those issues take up more of the conversation. But as a
 
-you need to have a good attitude about the things you can control. Do
+leader, you have to create the right customer experience with the right
 
-you work hard? Are you reliable? Do you want to be part of a team? Are
+results to match it. The other pieces are parts of that.
 
-you a can-do person? Those things aﬀect how people perceive you and
+You succeeded a very prominent and successful founder, Jeff Bezos. To what extent are you drawing from his legacy and to what extent are you advancing your own ideas and goals?
 
-how much they want to advocate for you and work with you.
+I was lucky to work for Jeﬀ directly for 20 years. He may be the most
 
-Finally, you need to be a good learner. At a certain point in their careers,
-
-many people seem threatened by having to learn again. They think it’s
-
-a sign of weakness that they don’t know everything. But if you work in a
+impressive business leader of our generation. I share a lot of his values
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-11
+10
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

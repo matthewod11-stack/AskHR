@@ -1,1 +1,13 @@
-# 391
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 207f48eeb5dccfcf13ada670bac9e847fcf971ca
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# several
+
+Neither individuals nor teams. Numerous decisions take place within a decision- making unit that is characterized neither by a person acting alone nor by a work team in which all members group or Indeed, with regard have equal status. it could be argued that a to the latter, truly ‘‘one member, one vote’’ type of team is actually not particularly common in the workplace (or elsewhere). Instead, power differentials within teams appear ubiquitous. For the ultimate responsibility for making a decision often lies with a single person (e.g., a leader) who nonetheless incorporates recommendations andinformation fromotherindividuals (e.g., subordinates or subject matter experts) into his or her ﬁnal decision. Such a decision- making unit is called a judge-advisor system or a hierarchical decision-making team (for reviews, see Bonaccio & Dalal, 2006; Humphrey, Hollenbeck, Meyer, & Ilgen, 2002). A consistent ﬁnding is that decision makers do not utilize advice sufﬁciently (from a normative perspective); thus, much recent research has been devoted to understanding factors that enhance advice utilization (e.g., Bonaccio & Dalal, in press; Dalal & Bonaccio, in press).
+
+instance,
+
+The organization. Working from a more ‘‘macro’’ perspective, some organization theorists have focused on what they refer to as ‘‘organizational decision making’’ the (e.g., Shapira, 1997). For example,

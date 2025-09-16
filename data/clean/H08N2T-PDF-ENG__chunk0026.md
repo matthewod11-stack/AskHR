@@ -1,11 +1,15 @@
-# Recognition and impact
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e8ba34bf139b8db395ce9f5045f65f698d830c7
+title: H08N2T-PDF-ENG
+---
+# Passion vs. paycheck
 
-- A) I care more about feeling fulﬁlled and making a real impact, even if
+- A) I would take a job that excites me, sparks my curiosity, and aligns
 
-my contributions are not widely recognized.
+with my interests, even if it pays less.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- B) Earning a high salary is my top priority—ﬁnancial success
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+outweighs how much I enjoy the work.

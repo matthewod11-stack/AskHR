@@ -1,13 +1,23 @@
-# HBR / Digital Article / Research: Caregiver Employees Bring Unique Value to Companie…
+---
+source_path: H07R1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c58e425a880dc40fbb6e847c686c87c2dc4878ce
+title: H07R1C-PDF-ENG
+---
+# Humanity
 
-sick child from school or take time to drive a parent to a doctor’s
+Improved empathy, emotional intelligence, collaboration, and
 
-appointment. These are the people who listen without judgment and
+teamwork simply make one a better coworker, a kinder manager,
 
-encourage their colleagues. Here’s how two respondents described the
+and a more understanding leader. This results in increased retention,
 
-caregiving skills they bring to work:
+engagement, and innovation. Humanity is what leads someone to
 
-Taking care of my three school-aged children…helped me be more
+volunteer to step up when someone needs to rush out to pick up a
 
-empathetic with coworkers’ personal needs, [leading to] lower levels
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

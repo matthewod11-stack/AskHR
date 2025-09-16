@@ -1,15 +1,31 @@
-## neutral sentiments about anything, our independent feedback teams
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2844a6f8b252c1148e8aa66b226452b0e66dbdc
+title: R2504A-PDF-ENG
+---
+## HBR / Magazine Article / The CEO of Kaspi.kz on Designing an Essential Superapp
 
-follow up to solicit more information. At product meetings we often
+When we adopted our mission statement centered on improving
 
-play the recordings from those calls. Picture it: 120 of Kaspi’s key people
+people’s lives, we didn’t want it to just be something written on a wall—
 
-listening intently as users describe exactly what they like and don’t like
+we wanted it to become a mantra we lived and breathed. To accomplish
 
-about our oﬀerings in their own words. It’s an eye-opening experience.
+that, we needed a clear, simple metric to track our progress and hold
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+ourselves accountable. In the beginning, we used two questions: “Would
 
-6
+you recommend this to a friend or family member?” and “Why or why
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+not?”
+
+Today we gather more detailed information. For example, instead of
+
+asking “Are you happy with our e-commerce shopping?” we ask “Are
+
+you happy with express delivery?” or “…with the payment process?” or
+
+“…with our locker network?” But the goal is the same—to understand
+
+how we can better serve customers. If any of them share negative or

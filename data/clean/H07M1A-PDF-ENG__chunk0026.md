@@ -1,11 +1,35 @@
-# stem from your trusted reputation.
+---
+source_path: H07M1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15b6aa585d472c30b1164b6d71e188d9c52198c5
+title: H07M1A-PDF-ENG
+---
+# online or not.
 
-This article was originally published online on May 15, 2023.
+- 5. Be generous and practice gratitude. Lending unsolicited support and amplifying another person’s eﬀorts go a long way. It is also never too late to thank someone for an opportunity. There is no expiration date on
 
-Aliza Licht is the founder of Leave Your Mark and the author of On Brand: Shape Your Narrative. Share Your Vision. Shift Their Perception (Union Square, 2023).
+gratitude. Thanking someone is also an underrated way to get back in
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+touch. In addition, if you are someone who reaches out to your network to ask how they are while asking for nothing — or even better, to oﬀer
 
-8
+support and take a sincere interest in what they are doing — you will
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁnd yourself ﬂush with social capital. A simple way to do this is to say,
+
+“Your name popped into my head today, and I wanted to reach out to
+
+see how you are.”
+
+. . .
+
+Remember that your credentials can’t speak for themselves; they need
+
+to be bolstered by the relationships that you are fostering along the
+
+way. Your social capital ensures your professional longevity, especially
+
+when you are not physically present. For any type of professional, your
+
+connections are as meaningful as what you know and the skills you
+
+have. Even from afar, the most signiﬁcant opportunities will always

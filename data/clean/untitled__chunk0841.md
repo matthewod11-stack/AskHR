@@ -1,9 +1,13 @@
-# The Cognitive-Correlates Approach
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 262b294d9a6d9bbc4aabf85bf44a2202e3c537e8
+title: untitled
+---
+## The Origins of the Process-Based Approach in Spearman’s Principles of Cognition
 
-Lee Cronbach (1957) tried to revive interest in the cognitive approach with an article on “the two disciplines of scientiﬁc psychology,” and efforts to revive this approach in the 1960s proceeded by ﬁts and starts. But serious revival can probably be credited in large part to the work of Earl Hunt. Hunt (1978, 1980; Hunt et al., 1973; Hunt, Lunneborg, & Lewis, 1975) was the originator of what has come to be called the cognitive-correlates approach to integrating the study of cognitive processing with the study of intelligence (Pellegrino & Glaser, 1979).
+Although some psychologists in the nineteenth century were interested in information processing (e.g., Donders, 1868/ 1869), the connection between information processing and intelligence seems ﬁrst to have been explicitly drawn by Charles Spearman (1923), the same individual known for ini- tiating serious psychometric theorizing about intelligence.
 
-Theproximalgoalofthisresearchistoestimateparameters representing the durations of performance for information- processing components constituting experimental tasks com- monly used in the laboratories of cognitive psychologists. These parameters are then used to investigate the extent to which cognitive components correlate across participants with each other and with scores on psychometric measures commonly believed to measure intelligence, such as the Raven Progressive Matrices tests. Consider an example.
+Spearman (1923) proposed what he believed to be three fundamental qualitative principles of cognition. The ﬁrst, ap- prehension of experience, is what today might be called the encoding of stimuli (see R. J. Sternberg, 1977). It involves perceiving the stimuli and their properties. The second prin- ciple, eduction of relations, is what today might be labeled in- ference. It is the inferring of a relation between two or more concepts. The third principle, eduction of correlates, is what today might be called application. It is the application of an
 
-In one task—the Posner and Mitchell (1967) letter- matching task—participants are shown pairs of letters such as “A A” or “A a.” After each pair, they are asked to respond as rapidly as possible to one of two questions: “Are the let- ters a physical match?” or “Are the letters a name match?” Note that the ﬁrst pair of letters provides an afﬁrmative an- swer to both questions, whereas the second pair of letters provides an afﬁrmative answer only to the second of the two questions. That is, the ﬁrst pair provides both a physical and a name match, whereas the second pair provides a name match only.
-
-The goal of such a task is to estimate the amount of time a given participant takes to access lexical information—letter names—in memory. The physical-match condition is in- cluded to subtract out (control for) sheer time to perceive the letters and respond to questions. The difference between name and physical match time thus provides the parameter estimate of interest for the task. Hunt and his colleagues
+inferred rule to a new situation. For example, in the analogy WHITE : BLACK :: GOOD : ?, apprehension of experience would involve reading each of the terms. Eduction of rela- tions would involve inferring the relation between WHITE and BLACK. And eduction of correlates would involve ap- plying the inferred relation to complete the analogy with BAD. Tests that measure these attributes without contamina- tion from many other sources, such as the Raven Progressive Matrices tests, generally provide very good measures of psychometric g.

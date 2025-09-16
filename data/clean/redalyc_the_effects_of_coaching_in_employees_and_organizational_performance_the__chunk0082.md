@@ -1,7 +1,9 @@
-## Intangible Capital – http://dx.doi.org/10.3926/ic.586
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 3ec000d96907ab9964079aae2af9b0bf398804d4
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# between improvements in individual performance as a result of coaching and organisational
 
-performance, as measured by economic profitability, return on assets and profit margin.
-
-Finally, the results also offer support for Hypothesis 4: the coefficient linking improvements in
-
-individual performance as a result of coaching with sales and productivity growth equals 0.302
+-179-

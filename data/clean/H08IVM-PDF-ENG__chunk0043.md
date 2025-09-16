@@ -1,11 +1,19 @@
-# TC
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 146fcaf3e1fa399998b925d56ef2fb70b405f57d
+title: H08IVM-PDF-ENG
+---
+## as an opportunity for collaborative value creation, companies can
 
-Tim Cummins is the Executive Director of CCMI and President of World Commerce & Contracting.
+unlock new sources of growth, foster innovation, and build the kind of
 
-Daniel J. Finkenstadt is a U.S. military oﬃcer, an academic researcher, and the principal of Wolf Stake Consulting. He is a coauthor of the books Supply Chain Immunity (2023) and Bioinspired Strategic Design (2024).
+resilient, adaptive partnerships needed to thrive in an uncertain future.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The question is no longer “How can we win this negotiation?” but rather
 
-7
+“How can we use this negotiation to create lasting value for all parties
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+involved?”
+
+This article was originally published online on December 18, 2024.

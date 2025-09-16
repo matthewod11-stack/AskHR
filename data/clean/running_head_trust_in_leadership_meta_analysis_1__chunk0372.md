@@ -1,21 +1,27 @@
-# Idealised Influence
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: be174ff1839bf6987a49dacdc9a65e5ab1cfdd86
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Intellectual Stimulation
 
-6
+5
 
-1235
+1422
 
-.65
+.64
 
-.59
+.51
 
-.71
+.78
 
-.75
+.73
 
-.08
+.20
 
-26.12
+3.90
 
-.65
+.48
 
-.85
+.98

@@ -1,5 +1,11 @@
-## deadlines, and expectations of constant availability.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a68171b8969ef41131cdbfe5ab8881fb7774e52
+title: H08R51-PDF-ENG
+---
+## framework classiﬁes work environments into two categories:
 
-- Job Resources: Factors supporting employees in managing these
+- Job Demands: Tasks requiring sustained physical, mental, or
 
-demands, including scheduling and location ﬂexibility, decision autonomy, clear managerial support, backup staﬃng, and open
+emotional eﬀort, such as high workloads, rigid schedules, tight

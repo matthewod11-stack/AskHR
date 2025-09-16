@@ -1,7 +1,9 @@
-## a cursory view into the makeup of the articles that
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: 3d52d08559fbd6b5ea62d56c70cd24381a07a28f
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+# theory
 
-- 1980) to provide the necessary rivulet of research
-
-span this Research Decade (RD). There is not much
-
-that will grow over the decades to follow. As Brewer
+(Snyder & Fromkin,

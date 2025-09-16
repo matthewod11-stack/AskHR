@@ -1,7 +1,9 @@
-# Human Resource Alignment.
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2eface86729b69aed87e6febc7f1e3eb2024f1f
+title: R0510D-PDF-ENG
+---
+# Planning and Budgeting.
 
-To fulﬁll its responsibilities success-
-
-HR performs these activities in a manner con- sistent with corporate and business unit strate- gic objectives. The goal is to make strategy ev- eryone’s job.
-
-Finally, the OSM needs to ensure that knowledge management focuses on sharing the best practices most criti- cal for the strategy. If managers use the wrong benchmarks, the company’s strategy will fall short of its potential. At some companies, learning and knowledge sharing are already the responsibility of a chief knowledge or learn- ing ofﬁcer; in those cases, the OSM needs to co- ordinate with that person’s ofﬁce. But if such a function does not already exist, the OSM must take the lead in transferring ideas and best prac- tices throughout the organization.
+No strategy can be effective unless the people who have to carry it out are motivated and trained to do so. Motivation and training is, of course, the natu- ral domain of HR, which typically carries out annual performance reviews and personal goal setting and manages employee incentive and competency development programs. It is the responsibility of the OSM to ensure that

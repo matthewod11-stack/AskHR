@@ -1,15 +1,23 @@
-# Monica’s desk.
+---
+source_path: H08Q2Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a38997c8998b5aefc76b63eea8b8aada961fe445
+title: H08Q2Q-PDF-ENG
+---
+# products.
 
-By ﬂipping the bias away from fear of acting and toward awareness of
+But in a leadership meeting, she asked out loud: “What’s the cost of
 
-inaction, they made a decision that balanced courage and caution. They
+waiting?”
 
-moved ahead with the hire and re-imagined the compensation structure
+As the team talked it through, they uncovered real risks: failing to get
 
-to heavily reward bringing in new assets. The question didn’t eliminate
+their name and product in front of potential investors, not reaching
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the customers who would beneﬁt from their product, losing out to
 
-7
+competitors, and damaging internal momentum after months of work.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Just as importantly, they realized that waiting for a more stable market
+
+would likely mean tossing out the stack of high-quality resumes on

@@ -1,13 +1,21 @@
-## producers by Germany or France can all aﬀect overseas markets.
+---
+source_path: H08T0G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dcdbccd5c59eb7f5596df7543fd4b890b1004a71
+title: H08T0G-PDF-ENG
+---
+# competitive gaps with overseas rivals.
 
-In parallel, identify opportunities to win or win back home-market
+- 3. Audit short-term, speciﬁc risks and opportunities both at home and abroad. Whether governments are using carrots or sticks, industrial policy
 
-customers currently served by foreign competitors if industrial policies
+creates risks for companies that depend on overseas suppliers. As my
 
-raise barriers for them. Consider how to leverage industrial policies
+colleague Sudeep Suman and I pointed out in HBR, companies need to
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+identify risks quickly and be prepared even for low-probability events—
 
-4
+in detail, down to the SKU. Conduct the same kind of analysis to identify
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+markets at risk. For example, restrictions slapped on American products
+
+by Mexico or Canada (or vice versa) or incentives given to domestic

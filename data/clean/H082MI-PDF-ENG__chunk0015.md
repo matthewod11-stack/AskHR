@@ -1,25 +1,21 @@
-## HBR / Digital Article / Fighting Loneliness on Remote Teams
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f756320974ba04a1b5db42391c4e418b7ae213b7
+title: H082MI-PDF-ENG
+---
+# Respect
 
-like decision making, meetings, and emails — viewing roughly 40% of
+Time is one of our most precious commodities — it should be respected.
 
-the time spent on these tasks as ineﬃcient.
+Wasting it drains energy and dampens motivation, giving employees
 
-As well as time, displaying respect for the individuals on your team will
+less time to do enjoyable and meaningful work. According to a 2023
 
-help foster a stronger sense of community. Employees often cite feelings
+PwC report, CEOs perceive major ineﬃciencies across routine activities
 
-of disrespect when managers take credit for their ideas, form a habit
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-of talking over them in meetings, or micromanage them in a way that
+3
 
-undermines proven capabilities.
-
-As you reﬂect on any roadblocks in your journey to building
-
-community, think about whether you may have broken respect around
-
-your employees’ time or emotions. If you uncover any instances, make it
-
-a goal to express a meaningful apology and, if necessary, show how you
-
-are rethinking your behavior and practices to facilitate change.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

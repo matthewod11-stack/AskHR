@@ -1,11 +1,19 @@
-## Zottoli, M. A., & Wanous, J. P. (2000). Recruitment source
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f5e0dfebc67c7122c16cbea9fd548f90e56b051c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Zimmerman, R. D., Triana, M. C., & Barrick, M. R. (2008,
 
-research: Current status and future directions. Human Resource Management Review, 10, 435–451.
+April). Th e criterion-related validity of a structured letter of reference using multiple raters and multiple performance criteria. Poster presented at the annual conference of the Society for Industrial-Organizational Psychology, San Francisco, CA.
 
-Zuber, A. (1996). Tapping a human resource: Restaurants ﬁ ght labor crunch with training programs. Nation’s Restaurant News, 30(26), 33–35.
+Zink, D. L. (2002). Chevron U.S.A., Inc. v. Echazabal: Has
 
-Zweigenhaft, R. L. (1976). Personal space in the faculty oﬃ ce: Desk placement and the student-faculty interaction. Journal of Applied Psychology, 61, 529–532.
+the Americans with Disabilities Act become a toothless tiger? The Industrial-Organizational Psychologist, 40(2), 70–75.
 
-references
+Zink, D. L., & Gutman, A. (2005, April). Legal issues in providing
 
-667
+and asking for references and letters of recommendation.
+
+Paper presented at the 20th annual meeting of the Society for Industrial and Organizational Psychology, Los Angeles, CA.

@@ -1,7 +1,13 @@
-# Seven Critical Actions
+---
+source_path: H08QBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bce50885aaf039136f78a6c249d7cffe3084591a
+title: H08QBY-PDF-ENG
+---
+## robust, auditable AI policies and governance frameworks, organizations
 
-Drawing on our collective experience within data science and AI, and in the open-talent and staﬃng ecosystem, we’ve devised framework
+that lack maturity in these areas will ﬁnd themselves at a disadvantage,
 
-to help you get started—a guide to help HR and procurement teams
+potentially losing out on critical contracts and partnerships. Inaction,
 
-design, test, and scale a new kind of workforce strategy based on the
+therefore, is not just a missed opportunity—it’s a tangible business risk.

@@ -1,5 +1,13 @@
-# Organizational Climate
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f9d13dd26652069f53b5c388688b1e5bb62a6ac5
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Situation Favorability
 
-Another situational theory, known as IMPACT theory, was developed by Geier, Downey, and Johnson (), who believed that each leader has one of six behav- ioral styles: informational, magnetic, position, affiliation, coercive, or tactical. Each style is effective in only a particular situation, or in what the researchers call an organizational climate. As shown in Table ., the six styles are similar to the five bases of power suggested several years ago by French and Raven (; Raven, ).
+As shown in Figure ., the relationship between LPC scores and group performance is complex. Basically, low-scoring LPC leaders (those who rate their least-preferred coworker low) function best in situations that are either favor- able or unfavorable, whereas high-scoring LPC leaders function best when the situation is only of moderate favorability.
 
-Informational Style in a Climate of Ignorance The leader who has an informational style provides information in a climate of ignorance, where important information is missing from the group. For example, if a car containing four college professors and a mechanic broke down on the side of the road, who would become the leader? Almost certainly it would be the mechanic because he would probably be the one who had the most knowledge or information needed to solve the problem.
+In spite of psychometric problems with the LPC Scale (Kennedy, Houston, Korsgaard, & Gallo, ; Stewart & Latham, ), research generally has supported Fiedler’s theory. Strube and Garcia () conducted a meta-analysis of  independent studies that investigated Fiedler’s model as well as  of Fiedler’s own studies and concluded that the ideas were well supported by the research. Schriesheim, Tepper, and Tetrault () found support for the general predic- tions of leader behavior but not for some of the specific predictions.
+
+Fiedler’s training program, called Leader Match, has also been supported by research (Strube & Garcia, ). This program is based on Fiedler’s belief that an individual’s leadership style is not easily changed. Thus, to improve their abilities, leaders learn through four-hour workshops how to diagnose situations and then change these situations to fit their particular leadership styles (Csoka & Bons, ). Leader Match is probably the only training program in the country concentrating on changing the situation rather than the leader.

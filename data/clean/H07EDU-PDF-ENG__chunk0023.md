@@ -1,17 +1,11 @@
-## For healthy employees without pre-existing health conditions, the odds
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6de6630a04f0c89067012794c5ed02b3bc286972
+title: H07EDU-PDF-ENG
+---
+## impairment of hearing or vision, or the death of a close friend.
 
-of developing a new health condition rise by 83% in the ﬁrst 15 to 18
+Experts advise that it takes, on average, two years to recover from the
 
-months after a layoﬀ, with the most common conditions being stress-
-
-related illnesses, including hypertension, heart disease, and arthritis.
-
-The psychological and ﬁnancial pressure of being laid oﬀ can increase
-
-the risk of suicide by 1.3 to 3 times. Displaced workers have twice the
-
-risk of developing depression, four times the risk of substance abuse,
-
-and six times the risk of committing violent acts including partner
-
-and child abuse. The stress induced by a layoﬀ can even impair fetal
+psychological trauma of losing a job.

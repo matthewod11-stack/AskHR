@@ -1,15 +1,15 @@
-# even more susceptible to interruptions.”
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78cf782e0beaba454d15d38cf72e7e077315111a
+title: H08M4T-PDF-ENG
+---
+# information.”
 
-So how can you strengthen your focus skills and stay on track? What
+All that switching comes at a cost. Studies show that multitasking leads
 
-simple techniques can help you cut down on interruptions? And how
+to longer completion times, more errors, and increased stress. “Your
 
-can you create an environment that supports better concentration?
+executive function — your brain’s CEO — gets fatigued,” says Mark.
 
-Here’s what experts suggest.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“And it struggles to ﬁlter out distractions or make decisions, leaving you

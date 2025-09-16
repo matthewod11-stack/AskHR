@@ -1,5 +1,9 @@
-# sity Casebook Series.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e02762e59449345cd46e6609aa7d43253ec91385
+title: untitled
+---
+# New York: Wiley.
 
-Wells, G. L. (1978). Applied eyewitness testimony research: System variables and estimator variables. Journal of Personality and Social Psychology, 36, 1546–1557.
-
-Wells, G. L. (1993). What do we know about eyewitness identiﬁca-
+Weinreb, L. (1986). Criminal law (4th ed.). Mineola, NY: Univer-

@@ -1,21 +1,41 @@
-## HBR / Spotlight Article / Power, Influence, and CEO Succession
+---
+source_path: S24041-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 60a820cc36a5ef38e09aeeacf570f68a7062e6eb
+title: S24041-PDF-ENG (1)
+---
+## best-selling studies on the use of inﬂuence and power. However, in
 
-Michel de Broin’s sculpture Possibility is inspired by oversize roadside signs and their ability to signal destinations to passing traffic.
+the context of CEO successions, we prefer the inﬂuence framework
 
-The second inﬂuence style is called incentives and disincentives. It’s a
+developed by Roger Harrison and David Berlew in the 1970s, because
 
-carrot-and-stick way of explaining consequences by saying things like
+it applies more readily to the dynamics of power and inﬂuence at the
 
-“Do what I want you to, and I’ll give you something you want. If you
+top of large organizations. It describes several approaches useful to the
 
-don’t, I’ll take away something you have or withhold something you
+departing CEO, to the board, and especially to the new leader, each of
 
-desire.” Someone using this style must have the power to deliver or
+which applies to a diﬀerent kind of situation.
 
-take away what followers want. This approach is commonly used in
+The ﬁrst approach, assertive persuasion, involves marshaling facts to
 
-companies facing a burning platform. (“Here are the bad things that
+make a cogent, logical argument, such as “A plus B equals C. Therefore,
 
-will happen to us if you don’t follow me down this new road.”) It can
+there’s no other reasonable option but for you to do what I’m asking.
 
-also be seen in reward systems that oﬀer bonuses or stock options for
+The facts are irrefutable, and the logic is clear.” This style requires
+
+being forceful and credible in expressing opinions about what must be
+
+done and how best to proceed. But it will be more eﬀective if you also
+
+make people recognize how their own interests will be served by the
+
+suggested plans.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,9 @@
-## Journal of Economic Behavior & Organization 33(2): 167-184.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 08398a7a29a5767179e96e37216fe33246327a9e
+title: behavioral_economics_1
+---
+## Uncertainty." Journal of Risk and Uncertainty 5(4): 297-323.
 
-Weber, R., C. Camerer, Y. Rottenstreich and M. Knez (2001). "The illusion of leadership: Misattribution of
-
-cause in coordination games." Organization Science 12(5): 582-598.
-
-Weibull, J. (1995). Evolutionary Game Theory. Cambridge, MA, MIT Press.
+Weber, M. and C. F. Camerer (1998). "The disposition effect in securities trading: an experimental analysis."

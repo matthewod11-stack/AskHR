@@ -1,5 +1,7 @@
-# Abstract
-
-A thorough probe into managerial coaching effectiveness is rare in the literature. To fill this research gap, this study examines the relationship of managerial coaching and employees’ performance more profoundly. This research probes the direct relationship of managerial coaching with task performance and contextual performance, and indirect relationship through intervening role of thriving at work. The self-designed questionnaires were used to collect data from 280 employees of pharmaceutical sector of Pakistan. The hierarchical regression analysis reveals that managerial coaching directly influences job performance, and indirectly influences job performance, organizational citizenship behavior toward individual and organization (OCBI-OCBO) as well via mediating role of thriving at work. The Sobel tests also confirms and shows the significance of mediating role of thriving at work in the conceptual model. This research provides empirical evidence regarding usefulness of managerial coaching grounded on social exchange theory in the context of Pakistan. The contribution of study, future directions and limitations are also discussed.
-
-Keywords: managerial coaching, employee performance, organizational citizenship behavior-individual, organizational citizenship behavior-organization, thriving at work, pharmaceutical sales representatives, pharmaceutical sector.
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: 6c481eebc8754bbe6676a9b3fb1e83af1f523c0f
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# Abdul Moueed National College of Business Administration & Economics, Lahore Email: moid215@yahoo.com

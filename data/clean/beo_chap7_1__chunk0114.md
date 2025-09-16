@@ -1,11 +1,11 @@
-# 74.1 Overconfidence among Top Managers
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 18d594296e5cb11d55df51681cfc22e6cfbff021
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-Overconfidence and overoptimism, which we may define as overestimation of own
+other kinds of managerial skill. Whether this is true is an empirical matter, which
 
-skills relative to others, and overestimation of one’s own prospects or future out- comes”? are two patterns that have been widely studied in the academic literature
-
-and also discussed often in the business press. One well-established stylized fact
-
-is the “better than average” effect. Svenson (1981) first demonstrated that the vast
-
-majority of subjects, if asked to assess their driving skills compared to the median
+cannot be resolved purely by theory.

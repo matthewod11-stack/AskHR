@@ -1,5 +1,9 @@
-# What Managers Should Do
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7f144a0ae20d650fce00e023dcbc712088ac156
+title: H06X4I-PDF-ENG
+---
+# HBR / Digital Article / Remote Work Has Opened the Door to a New Approach to Hiring
 
-Platforms are the primary way freelancers and companies ﬁnd each
-
-other for open/ﬂexible work, and help establish trust for both workers and employers. For the freelance workers, they oﬀer protection through
+So, where should companies start?

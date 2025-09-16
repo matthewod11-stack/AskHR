@@ -1,7 +1,17 @@
-# from their investment in innovation.
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0db45c9a6aed2bb6c88ff1bc5b2eef5e7010eb05
+title: H08T9I-PDF-ENG
+---
+# iiievgeniy/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+We often valorize companies that attempt to innovate in their
 
-1
+industries, because they push the boundaries of what is possible
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and, in doing so, achieve extraordinary returns for their endeavors.
+
+Not surprisingly, the vast majority of top performing companies rank
+
+innovation among their top three priorities. But not all ﬁrms beneﬁt

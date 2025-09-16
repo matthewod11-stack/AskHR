@@ -1,7 +1,15 @@
-# Barrick & Mount (1991)
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 5872e8f8270bf203ee338f808cac67f5ea09a4fb
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Personality (agreeableness)
 
-Note: Observed = mean observed validity; Corrected = observed validity corrected for study artifacts; k = number of studies in the meta-analysis; N = total number of subjects in the meta-analysis
+.04
 
-employee selection: references and testing
+.06
 
-195
+19
+
+3,685

@@ -1,33 +1,15 @@
-## in Brazil—chummy with government ministers and celebrities and a
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 278963a197b59c66614345c4a13a9049e92bc407
+title: R2402M-PDF-ENG
+---
+# The Union Leader’s Demands
 
-ﬁxture on the nightly news. When the Pope had visited Brazil, he met with Lucia before he met with any politicians.4
+In his living room at home, Paulo sat deep in thought. Unsolicited,
 
-That evening, as Paulo had been driving out of the building, one of
+Lucia, the head of the union sector, had ﬁred the next salvo. It was
 
-the union members holding a placard had knocked on his window and
+obvious that she had somehow caught wind of Paulo’s expansion plan.
 
-handed him an envelope with a letter from Lucia inside. Classic Lucia:
-
-She always did have a ﬂair for the dramatic.
-
-He perused the list of demands. Some of them he had already oﬀered
-
-to meet: an increase in hourly wages and overtime pay to counteract
-
-soaring inﬂation, paid leave for family illnesses, better ergonomics to
-
-prevent injuries, and transportation subsidies for workers commuting from far-oﬀ areas.5
-
-But now the union wanted more inﬂuence in hiring, training, and
-
-promotions, citing German unions’ rights as a precedent. Paulo worried
-
-that giving it more power would entrench mediocrity at his plant.
-
-Lucia also wanted assurances that the expansion of the plant would
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+That was not unexpected. Lucia was one of the most networked leaders

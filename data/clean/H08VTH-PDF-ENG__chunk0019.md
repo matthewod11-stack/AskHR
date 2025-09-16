@@ -1,9 +1,9 @@
-# signal about what you value.
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: daa850764c6a17f67157adc539affc1a3bbe8162
+title: H08VTH-PDF-ENG
+---
+# HBR / Digital Article / When You’re Suddenly Managing More People—and Feeling Buri…
 
-- 5. Protect Your Energy and Model Resilience
-
-When your team grows quickly, the demands grow with it. Your calendar
-
-ﬁlls up. Your energy drains, too. And if you’re depleted, your team
-
-will feel it. How you show up under pressure becomes the emotional
+Simpliﬁcation at this level may seem small, but it sends a powerful

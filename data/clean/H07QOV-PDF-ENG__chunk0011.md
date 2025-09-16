@@ -1,15 +1,45 @@
-# result of smart experiments.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de7b9503c44c33828888b2a7f844adb72c896ec1
+title: H07QOV-PDF-ENG
+---
+## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
 
-Smart experiments are ones that happen in new territory — honestly,
+honest conversation underground. It’s important to talk about the kinds
 
-if you can look up the answer, ﬁnd the recipe, ﬁnd the blueprint,
+of failure for which we really should be welcoming it with open arms
 
-please do, no need to experiment — new territory in pursuit of a goal
+and the kinds where we maybe shouldn’t.
 
-that’s consistent with the value proposition of the organization, with a
+ADI IGNATIUS:
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+I think the best thing you can say about failure is if you have a culture
 
-4
+that permits failure, that tolerates failure, it means you’re stretching,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you’re pushing, you’re trying to innovate, you’re trying to do things that are diﬃcult. That’s part of the deﬁnition of what a digital company is. A
+
+digital company experiments frequently and tries and fails, and is able
+
+to tolerate failure. I would guess if you talk to most companies, they’d
+
+say, “Yeah, we do that. That’s the culture we have. We didn’t used to, but
+
+we do that.” So I want to push you a little bit more: the rhetoric, that’s
+
+the happy talk, but in reality that’s not really how the world works?
+
+AMY EDMONDSON:
+
+First of all, it’s not how most incentives are set up. I’m not saying
+
+uniformly that’s the case, but most of the time, failure is not rewarded in
+
+organizations, and people would rather do anything but fail.
+
+And you’re right, maybe a better way to talk about this is not as failure,
+
+but as experimentation. We have to be very pro-experimentation. But
+
+we have to be pro-smart-experiments. And I think smart failures are the

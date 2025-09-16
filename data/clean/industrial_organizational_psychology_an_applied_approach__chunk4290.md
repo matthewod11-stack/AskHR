@@ -1,23 +1,21 @@
-# Psychologist, 36, 343–356.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 23d4fb269f91994a69e849f168d9bbe112de749b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Lapidus, R. S., & Pinkerton, L. (1995). Customer complaint
 
-Latham, G. P., & Blades, J. J. (1975). Th e practical signiﬁ cance of Locke’s theory of goal setting. Journal of Applied Psychology, 60, 122–124.
+situations: An equity theory perspective. Psychology and Marketing, 12(2), 105–122.
 
-Latham, G. P., Fay, C. H., & Saari, L. M. (1979). Th e development
+Larey, T. S., & Paulus, P. B. (1995). Social comparison and goal setting in brainstorming groups. Journal of Applied Social Psychology, 25(18), 1579–1596.
 
-of behavioral observation scales for appraising the perfor- mance of foremen. Personnel Psychology, 32, 299–311.
+Larson, J. J. (2001). A comparison of performance and attitudes
 
-Latham, G. P., & Pinder, C. C. (2005). Work motivation theory and research at the dawn of the twenty-ﬁ rst century. Annual Review of Psychology, 56, 485–516.
+of college students on computer-based versus paper-and- pencil testing. Paper presented at the 22nd annual Graduate Conference in Industrial-Organizational Psychology and Organizational Behavior, Pennsylvania State University, PA.
 
-Latham, G. P., & Wexley, K. N. (1977). Behavioral observation scales for performance appraisal purposes. Personnel Psychology, 30, 225–268.
+Larson, S. L., Eyerman, J., Foster, M. S., & Gfroerer, J. C. (2007).
 
-Latham, G. P., & Wexley, K. N. (1994). Increasing productivity through performance appraisal. Reading, MA: Addison Wesley.
+Worker substance use and workplace policies and programs. Washington, DC: Department of Health and Human Services.
 
-Latham, V. M. (1983). Charismatic leadership: A review and
-
-proposed model. Proceedings of the 4th Annual Graduate Conference in Industrial/Organizational Psychology and Organizational Behavior.
-
-Law, J. R. (1996). Rising to the occasion: Foundations, processes,
-
-and outcomes of emergent leadership. Unpublished doctoral dissertation, University of Texas, Austin, TX.
-
-Lawler, E. E. (2001). Organizing for high performance. San
+Latane, B. (1981). Th e psychology of social impact. American

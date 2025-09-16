@@ -1,21 +1,29 @@
-# private settings).
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87aaca35c55f53c6661c270bf1d12eba9678aa78
+title: S24042-PDF-ENG
+---
+## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
 
-You’ll need to engage investors too. At a public company a good place to
+an eﬀective conductor of information and was able to get his executive
 
-start is during quarterly earnings calls. One new CEO learned the hard
+team to chart a path forward collectively.
 
-way that emphasizing only positive outcomes and bullish scenarios
+Earning the conﬁdence of all employees is also key and should become
 
-tends to backﬁre—and when that happens, it harms credibility. He
+a daily practice. One often eﬀective approach is to run regular “ask me
 
-reconsidered his approach and began conducting earnings calls in
+anything” sessions with employee groups and gather data about what
 
-which he oﬀered a balanced discussion of what was going right and
+people are thinking, how trends are developing, and where the focus
 
-what could go wrong, and at the end of the calls he would spend time
+may need to be adjusted. That will help you learn what your employees
 
-with analysts to gather their views on the company. Because he now
+are concerned about and has the added beneﬁt of making them feel
 
-came across as a thoughtful steward of the company, he found that
+heard—all of which naturally engenders trust. Of course, don’t forget
 
-investors changed their perception of him and became increasingly
+the obvious: To maintain that trust, you’ll need to make sure that your
+
+actions match your words (those you speak on the public stage and in

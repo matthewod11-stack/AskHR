@@ -1,7 +1,9 @@
-# Youth Sport Leadership
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: 34e616cb3eeac5a7489798b0d9c09fdccecdb572
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# TABLE 1 Typical Clinic Schedule
 
-In the ﬁrst breakout session, the major components of leadership are intro- duced (e.g. positive peer modeling, communication, motivation, and team cohesion). The athletes then take part in various exercises and discussions that help them derive how they may assess and improve their skills as a cap- tain in key leadership areas (e.g., how to approach and talk to their coach with player issues, how to motivate teammates).
-
-In the second breakout session, the athletes have an opportunity to identify common team problems and collaborate with peers on how they might handle each difﬁcult situation as a leader. In the last breakout, athletes are encouraged to ask questions, receive feedback from adults in the room, and participate in goal-setting exercises speciﬁcally pertaining to their lead- ership development. All of these sessions are primarily athlete-discussion driven with minimal, if any, emphasis on PowerPoint lectures. More de- tail on the purpose and content of each breakout session is provided in Table 2.
-
-In the closing session, a MHSAA presenter recaps the day, reviews the major take-home messages, and emphasizes the importance of applying what they learned to their scholastic sport experiences. Unlike the previous sessions, the closing session is organized to allow coaches and athletes from the same school to sit together, collaborate, and develop an action plan for putting their newly acquired knowledge into practice. The athletes and administrators are also encouraged to use the clinic as a starting point to engage in a regular dialogue about the captaincy experience at their respective schools. Each participant is encouraged to continue using the six-chapter guidebook they received at the beginning of the day.
+9:00 AM–9:55 AM: Introduction 10:00 AM–10:50 AM: Breakout Session 1: What You Need to Know as a Leader 10:55 AM–11:45 AM: Breakout Session 2: Handling Common Team Problems 11:50 AM–12:20 PM: Lunch 12:25 PM–12:50 PM: Breakout Session 3: Getting Your Questions Answered 12:55 PM–1:30 PM: Closing: Where to Go From Here

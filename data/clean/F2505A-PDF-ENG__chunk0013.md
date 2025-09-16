@@ -1,27 +1,27 @@
-# ways.
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7048170e4429057d77bc9d395617ad87f17f9afb
+title: F2505A-PDF-ENG
+---
+## (data visualization software)—components of a popular tech stack—
 
-The researchers drew several conclusions from their analysis. First,
+would be considered more conventional and less innovative than
 
-the later that startups receive their ﬁrst round of funding, the more
+a ﬁrm combining lesser-known products such as DigitalOcean,
 
-likely they are to keep experimenting after the money arrives. Second,
+CockroachDB, and Metabase. The researchers say companies using
 
-startups that receive a bigger investment use more technologies after
+more-novel technology combinations tend to create more-innovative
 
-cashing the check but combine them in less unusual ways, signaling
+and -functional products. Previous research had measured innovation
 
-reduced experimentation. Last, the track record of the investors
+using metrics such as patent ﬁlings, but because ﬁling a patent is a
 
-(including whether they exited past investments through IPOs or
+cumbersome process and many startups never seek patent protection,
 
-acquisitions by other ﬁrms) aﬀects how much companies continue
+the ways ﬁrms combine technologies is a more relevant measure, the
 
-experimenting after launch, and the timing and size of the ﬁrst
+researchers say, noting that breakthrough products such as the iPhone
 
-investment can impact how long a startup survives.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+came about primarily from combining existing technologies in novel

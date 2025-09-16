@@ -1,27 +1,33 @@
-# Creating a Culture of Mobility
+---
+source_path: H06DD3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11456b8633e1c33251f628dce30df727ac74499d
+title: H06DD3-PDF-ENG
+---
+# people.
 
-Give managers incentives. The ﬁrst key to changing this dynamic is to
+But should be appealing is the elephant in the room. The main impediment
 
-reevaluate how an organization recognizes and rewards its managers. In a
+to talent mobility is almost always the manager. Our research found that
 
-select percentage of some of the best companies in the world, it’s
+half of companies (and 74% of low performers) reported that managers’
 
-understood that to consistently rotate talent — especially high-potential
+failure to encourage movement was their top obstacle to mobility.
 
-talent — they need to build it into a manager’s performance objectives and
+Managers are so careful to hold on to the stars on their teams that they
 
-make this part of the performance review process. These organizations
+often play games to keep them. We’ve probably all heard stories about
 
-often loudly provide internal recognition and compensate managers for
+managers who intentionally keep their top performers in the shadows so
 
-their ability to both develop people and provide them opportunities for
+no one discovers them.
 
-further development. In short, they build a culture where mobility is
+It’s hard to blame them for that. In fact, most companies incentivize them
 
-expected, and an environment that relies on this movement.
+to do that. When managers are having success in metrics the organization
 
-Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
+recognizes and rewards — typically pure business metrics — they want to
 
-3
+keep the talent that made them successful. If you’ve ever managed people,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you are likely guilty of this.

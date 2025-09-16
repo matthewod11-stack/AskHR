@@ -1,7 +1,7 @@
-# emotion and defensiveness.
-
-Teams don’t slouch into a pattern of constructive dissent, but with
-
-deliberate practice they can build and sustain this crucial norm. Here
-
-are eight practical ways to nurture constructive dissent and release your
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf22ed570517654058e0e5e3168aaf5ea2b0fbb2
+title: H08M6G-PDF-ENG
+---
+## regulation of team members and often results in intense negative

@@ -1,25 +1,15 @@
-# comers.”
+---
+source_path: H07U8T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81d76f0e2a4f6645852c14f671b4a373fd1f0a4a
+title: H07U8T-PDF-ENG
+---
+## HBR / Digital Article / Do You Manage Too Many People?
 
-Think twice before asking for fewer reports
+development opportunities for people on your team who want to move
 
-When you’re feeling stressed or overwhelmed, it’s tempting to ask for
+ahead. In particular, look for two-for-one opportunities that both help
 
-fewer direct reports, but it’s important to think through the potential
+them grow and free up some of your time. “You’ll get work done that’s
 
-risks of making that request. “It could send the wrong message to
-
-management,” says Gupta. You might be seen as wanting to step back
-
-from your responsibilities or as incapable of shouldering them, which
-
-could have unintended consequences for your career trajectory, he says.
-
-However, if you can demonstrate that the size of your team is too big for
-
-the kind of work you’re doing or that it poses risks to the organization
-
-— for instance, a nurse with dozens of direct reports — you should “feel
-
-empowered to escalate” the issue, says McDowell. “Articulate what the
-
-challenge is, why change is needed, and oﬀer solutions.”
+important to the organization and create visibilty for your up and

@@ -1,7 +1,33 @@
-## consideration for themselves, their employees, and their external
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1a501931aa05c6705fc721d253d934f0544989a
+title: H08NNP-PDF-ENG
+---
+# think.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The team was aware that after decades of working together they were
 
-4
+strongly aligned on many issues and could almost complete each
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+other’s sentences. They were also aware that their shared experience
+
+and well-rehearsed routines naturally created blind spots. As CEO
+
+Markus Giesswein told us, he agreed to this experiment as he expected
+
+“balanced and structured support, because many decisions in our size
+
+range are made based on gut feeling and emotions.”
+
+ChatGPT’s tendency to give comprehensive lists prompted the team to
+
+consider options they might not have considered, but the real value lay
+
+in the breaking and slowing down of existing patterns of thought and
+
+interaction, enabling the discussion of new elements.
+
+This was most obvious during the discussion over whether they should
+
+close their manufacturing facilities. This was a highly emotional

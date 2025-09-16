@@ -1,31 +1,37 @@
-# all the recipes”).
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f56d3e58f41e52fe248a27ed7d9050c757c9cdd6
+title: H08OXV-PDF-ENG
+---
+## HBR / Digital Article / Research: How “Leisure Crafting” Can Help You Recharge
 
-Spend a little time at the outset asking yourself speciﬁcs about the goal,
+Instead of focusing on how to set the “right” goals for the “right”
 
-like: How much time can I commit to? Do I want to set one overarching
+activities, focus on setting goals that you feel you can actually stick with
 
-goal (like running a marathon) and then set smaller goals to help me
+for activities you already enjoy and that energize you.
 
-achieve it (like joining a running group)? What days will I work on this
+If you really like watching TV, ask yourself: what do you like about it? Is
 
-goal? What will “success” look like to me in this context?
+it the social connection you feel with your peers talking about the latest
 
-While many assume that the self-development in leisure means taking
+episode? How can you create a goal to help strengthen what you already
 
-on time-consuming hobbies, even small adjustments (e.g., setting a
+enjoy about this activity? Perhaps hosting a monthly watch night, where
 
-distance intention before a walk or deciding to engage more socially
+you and your friends watch something none of you have seen will help
 
-in a hobby) can yield beneﬁts. But do not let your approach to leisure
+you to expand your horizons while deepening your friendships.
 
-become so serious that you create a scenario in which both work and
+- 2. Be Speciﬁc
 
-non-work activities make you feel burnt out. Start small and set a goal
+The size of the goals doesn’t matter. But it does matter that you stay
 
-that makes sense for you.
+committed to them. When goals are loose or unstructured (for example,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+“I want to be a more knowledgeable baker”), they can be hard to pursue.
 
-5
+Make sure to set tangible, trackable goals (like, “I will bake one new loaf
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of bread from the Tartine cookbook each week until I’ve gone through

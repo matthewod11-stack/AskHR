@@ -1,9 +1,11 @@
-## as a subscription service (Walmart+) and a buy-online-pickup-at-store
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 211e680c7293f55c6a9685d48e37cec6f189441d
+title: H082HH-PDF-ENG
+---
+# organization.
 
-oﬀering (Pickup Today). Walmart continues to experiment with new
+In Walmart’s grocery eﬀorts, many pilots were shut down as well. But a
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+few proved highly successful in the marketplace, eventually launching

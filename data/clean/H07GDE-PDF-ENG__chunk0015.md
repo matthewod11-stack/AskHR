@@ -1,7 +1,19 @@
-# just a bit.
+---
+source_path: H07GDE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6aafb72f5b2801bce9950f03fb6383940b133eda
+title: H07GDE-PDF-ENG
+---
+# them.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Watch your body language.
 
-3
+Body language is important. Your audience will be watching for signs
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that you’re nervous. If you play with your wedding ring, move your
+
+glasses, touch your face, scratch your beard, or shift or swivel in your
+
+chair, they may take this as a sign that they shouldn’t have conﬁdence
+
+in you. Instead, to appear more engaged, try leaning toward the camera

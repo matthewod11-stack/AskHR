@@ -1,7 +1,23 @@
-# them hire for and structure the job.
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69bedd57b8debf43b645c22a2d37a6898a0129cd
+title: R2003G-PDF-ENG
+---
+## HBR / Magazine Article / The Case for a Chief of Staff
 
-Although each leader should tailor the position to his or her own
+they’ve inherited, even if it is poorly suited to their style or to the
 
-needs, the CoS should handle several principal duties, all focused
+operational changes they must make. Often there’s a better way to
 
-on making time, information, and decision processes more eﬀective.
+handle the information ﬂow necessary for a CEO to succeed—and very
+
+often a chief of staﬀ (CoS) can play an essential role.
+
+During the 25 years I spent working at a consulting and software ﬁrm—a
+
+dozen as chairman and CEO—I had a chief of staﬀ myself. As an adviser
+
+and as a board member, I’ve recommended to several dozen executives
+
+that they add the position to their teams—and in some cases I’ve helped

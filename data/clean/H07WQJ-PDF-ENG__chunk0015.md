@@ -1,1 +1,17 @@
-## HBR / Digital Article / Unifying Your Company Around a Moral Goal
+---
+source_path: H07WQJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fecc404d364a6dc694377ba0577bda03ac1c2dc9
+title: H07WQJ-PDF-ENG
+---
+# Treat Purpose as an Organizing Principle
+
+For the leaders I studied, purpose became a comprehensive principle for
+
+organizing, giving rise to strategy, processes, systems, cultural norms,
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

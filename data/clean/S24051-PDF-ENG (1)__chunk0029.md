@@ -1,11 +1,9 @@
-# hypothesize, test, learn, and adapt.
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 1f65ebc80a4b9043041b112725fac059d51424e1
+title: S24051-PDF-ENG (1)
+---
+# HBR / Spotlight / New Rules for Teamwork
 
-One tool we use to measure and monitor people outcomes is a weekly
-
-survey. It is anonymous but segmented, and it is sent to all employees.
-
-It asks a single question: How are you feeling? People respond by
-
-clicking on one of ﬁve emojis, ranging from “Great” to “Terrible.” This
-
-simple query allows us to identify trends in sentiment across diﬀerent
+monitor our teams’ needs and performance in real time and then to

@@ -1,19 +1,11 @@
-# of the charismatic (i.e., idealised influence) dimension of transformational leadership and
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 783a109fc69d76cb015576e3d12766b7e55c8895
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-thus part of the independent variable as well as the mediating variable. Worryingly, this
+these prominent leadership styles confound the variable with its effects. For instance, in
 
-tautology and a priori positive framing may also be relevant to the scale used to measure
-
-ethical leadership which asks followers directly whether their leader “can be trusted” (Brown
-
-et al., 2005). In fact, the value-based and moral behaviour models of leadership in general
-
-tend to correlate heavily with constructs traditionally examined as outcome variables (e.g.,
-
-trust) and thus are carriers of endogeneity bias (Banks et al., 2018). Such an explanation may,
-
-at least, partly explain the high correlations found between the different leadership styles and
-
-trust in the leader. To begin to address these issues, we echo the call for future research to
-
-focus on the measurement of specific behaviours enacted by leaders rather than only broad,
+relation to trust, it is argued the perception that the leader instils trust is conceptualised as part

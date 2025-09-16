@@ -1,7 +1,13 @@
-# Authoritarianism Counseling skills
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: fdb5eb779b1a2ebed87e52d659960ad2f3d84bcc
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Rule enforcement
 
-1 12
+4
 
-16 4
+14
 
-17 16
+18

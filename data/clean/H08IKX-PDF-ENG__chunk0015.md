@@ -1,9 +1,7 @@
-## Ever since the dawn of the twenty-ﬁrst century and the Al Queda
-
-attacks of September 11, 2001, we are living in an increasingly volatile,
-
-uncertain, complex, and ambiguous world (dubbed VUCA by the U.S.
-
-Army War College). In the past two decades, crises are no longer rare
-
-sporadic events, but arrive continually as they did with the banking
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d21fd49c8e7f5d0e988c4c16a533063b443a59a1
+title: H08IKX-PDF-ENG
+---
+# unforeseen consequences elsewhere.

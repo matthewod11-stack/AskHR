@@ -1,13 +1,21 @@
-# HBR / Digital Article / Research: The Best Ways to Connect with Colleagues Outside o…
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2fc5b79514baf737ffc6fe105bc5954bec8e14d2
+title: H08SR2-PDF-ENG
+---
+## between leaders, between leaders and their employees, and between
 
-Beth Schinoff is an Assistant Professor of Management in the Alfred Lerner College of Business and Economics at University of Delaware. Her research focuses on how employees connect with each other in situations that can be challenging for connection. She has published numerous articles in top management outlets such as Academy of Management Journal, Academy of Management Review, and Organizational Science.
+employees, can be an antidote to loneliness and isolation, while also
 
-Jennifer Petriglieri is an associate professor of organizational behavior at INSEAD and the author of Couples That Work: How Dual-Career Couples Can Thrive in Love and Work (Harvard Business Review Press, 2019).
+enriching a culture of support of–and genuine interest in–one another.
 
-Julianna Pillemer is an assistant professor of management and organizations at New York University’s Stern School of Business. Her research examines the complex dynamics of interpersonal connections at work.
+This article was originally published online on July 2, 2025.
+
+Kristie Rogers is a professor of management at Marquette University. She studies respect and identity at work, with a focus on how people thrive in the face of complex tensions.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

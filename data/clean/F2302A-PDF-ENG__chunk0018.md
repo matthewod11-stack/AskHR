@@ -1,11 +1,15 @@
-# understanding of all our offerings and
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0bf2403141ef01f16f0fa74bc5e1fca71ee26061
+title: F2302A-PDF-ENG
+---
+## HBR / Magazine Article / Does Gamified Training Get Results?
 
-capabilities. Rote training is boring—but
+What problem was gamified training
 
-games are the opposite of boring. And
+meant to solve?
 
-their interactive nature means that people
+We have numerous service lines, so
 
-can’t just click through to completion. We
-
-started with a pilot for employees in our
+we needed to deepen employees’

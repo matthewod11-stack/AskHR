@@ -1,7 +1,9 @@
-# employees.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 9cb2e499fe30912001e2bc4a2786b2c9453b1365
+title: performance_management_3rd_edition_by_aguinis
+---
+## the organization’s culture and strategic business objectives.
 
-(cid:2) Use rewards effectively so that they produce the effects intended. (cid:2) Know the principles of how to design an organization’s pay structure, including
-
-how to conduct a job evaluation.
-
-(cid:2) Understand the advantages of the broad-banding approach to designing a pay
+(cid:2) Understand that pay is only one of many tools that can be used to motivate

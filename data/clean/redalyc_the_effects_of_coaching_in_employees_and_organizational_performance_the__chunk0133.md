@@ -1,11 +1,13 @@
-# WOODSIDE, A. (2011). Incompetency training: Theory, practice, and remedies. Journal of
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 83336f342f203358c22f2209d9d24717b52347d3
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Intangible Capital – http://dx.doi.org/10.3926/ic.586
 
-Business Research, 65(3): 279-293. http://dx.doi.org/10.1016/j.jbusres.2011.10.025
+WANBERG, C.R.; WELSH, E.T.; HEZLETT, S.A. (2003). Mentoring research: A review and
 
-ZALESKA, K.; DE MENEZES, L. (2007). Human resources development practices and their
+dynamics process model. Research in Personnel and Human Resources Management, 22:
 
-association with employee attitudes: Between traditional and new careers. Human Relations,
-
-60(7): 987-1018. http://dx.doi.org/10.1177/0018726707081155
-
-ZEUS, P.; SKIFFINGTON, S. (2002). Guía completa de coaching en el trabajo. Madrid: Mc
+39-124. http://dx.doi.org/10.1016/S0742-7301(03)22002-8

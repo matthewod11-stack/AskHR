@@ -1,11 +1,11 @@
-# Psychological Review, 20, 158–177.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fe61c266a04b6d522f0d14c88a3befa3845e9a48
+title: untitled
+---
+# Philosophical Review, 7, 449–465.
 
-Wever, E. G., & Bray, C. W. (1930). The nature of the acoustic response: The relations between sound frequency and frequency of impulses in the auditory nerve. Journal of Experimental Psy- chology, 13, 373–387.
+Valenstein, E. S., Cox, V. C., & Kakolweski, J. W. (1970). Re- examination of the role of the hypothalamus in motivation. Psychological Review, 77, 16–31.
 
-Woolsey, C. N., & Walzl, E. M. (1942). Topical projection of nerve ﬁbers from local regions of the cochlea to the cerebral cortex of the cat. Bulletin of the Johns Hopkins Hospital, 71, 315–344.
-
-Wundt, W. (1908). Grundzüge der physiologische psychologie [Principles of physiological psychology] (6th ed., Vols. 1–3). Leipzig, Germany: Engelmann. (Original work published 1874)
-
-Zola-Morgan, S. (1995). Localization of brain function: The legacy of Franz Joseph Gall (1758–1828). Annual Review of Neuro- science, 18, 359–383.
-
-Zola-Morgan, S., & Squire, L. R. (1993). Neuroanatomy of mem-
+Watson, J. B. (1913). Psychology as the behaviorist views it.

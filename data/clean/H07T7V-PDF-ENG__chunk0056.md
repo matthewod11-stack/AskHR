@@ -1,15 +1,11 @@
-## economy, lots of industrial-era incumbents, and then a lot of companies
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 75eb743cbe07a96f8614ef1f3af1713a6cdb7403
+title: H07T7V-PDF-ENG
+---
+# this?
 
-clustered in the tech space, clustered on the West Coast.
+But the thing that I got obsessed with was that in my career, I’ve spent
 
-For my whole career, I have been trying to pattern match and ﬁgure out
-
-what the deep diﬀerences are between the two. Is it the foosball tables?
-
-Is it the hoodies? Is it bringing your dog to work? No, obviously not.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-17
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a lot of time in the (I hate these labels) old economy and the new

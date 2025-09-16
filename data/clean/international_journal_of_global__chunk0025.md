@@ -1,23 +1,21 @@
-## 2.4.2. Best Practices According to William Rothwell
+---
+source_path: international_journal_of_global.md
+pages: n/a-n/a
+chunk_id: 8aa1b8e76303f36540995fd4f26cc32ab3aef8c2
+title: international_journal_of_global
+---
+## 2.4.1. Best Practices According to Fulmer
 
-Rothwell (2010) has identified the following succession planning practices. Roadmap - Succession planning must go beyond simple identification of internal development of leaders. The strategic roadmap is necessary to develop future leadership. Succession management programmes can help beyond identification of leadership development. Devoting funds to internal leadership development is the central way to maintain organizational sustainability.
+The following best practices for succession planning are recommended by Fulmer (2002). The link between succession planning and business strategy. Organizations that have best succession planning practices have links between operation continuity and succession plan. This link gives succession planning the opportunity to affect the organization's long-term goals and objectives (Fulmer, 2002; Rothwell, 2010). Role of Human resources - The contribution of human resources department in the succession planning process is important, but not during the development phase. The only responsibility comes to human resources department during the implementation phase. The role of human resources is very critical during the process of workforce planning. This process involves identifying and analysing the need of human resources to meet the organization's needs (Pynes, 2004).
 
-Top leadership involvement - The role of CEO is very strategic (Ridwan, 2017). The involvement of CEO guarantees the succession planning process is on right track and implemented well. Hence the role of CEO is essential during succession planning process. Organizations need to know the type of talent requires for vacant positions. It is essential to construct a lifestyle with the involvement of top management and personnel that helps and reinforces shared accountability, comments mechanisms and the general significance of leadership improvement (Leskiw & Singh, 2007).
-
-Develop and impellent an effective performance management system - Employee's assessment is depending on the organizational need and culture. Some institutions have effective assessment tool for measuring all employee's performance.one famous assessment method is 360-degree evaluation which evaluates employees from supervisors, peers and subordinates. This evaluation method is very helpful for evaluation top positions leaders. With the help of this evaluation method internal developed candidate may get effective results from the direct supervisor but might poorly results from peer and subordinates.
-
-Competencies for strategic objectives will be needed - Organizations identify the need of
-
-competencies to achieve strategic objectives for selection of successor.
-
-Narrow development gaps by individual development plans - The success of most organization is depending on two main things. Firstly, the young talent candidates developing them in future positions. Secondly, replacements for retiring employees' transition plan timely for the continuation of leadership. Designing well-developed programmes such as trainings and education can help new employees mentoring. It is very important for all organizations and employees to know the employee's development programmes and selection of successor seriously.
-
-Assess employees with competencies and develop ethical standards - A strong organizational culture provides values, beliefs and standards for all employees which affect effective succession planning. These values provide regular guidelines on everyday business continuity.
-
-Shared resources for all employees - Best practices in the succession planning include developing entire system for all employees with the help of formal training and action learning activities. building a viewpoint that talented employees are sharing different resources instead by benefiting some specific managers. This development device can allow man or woman employees and managers to develop together by sharing resources.
-
-44
+Role of Technology - The role of technology is very basic element in the succession planning process. Ideally, technology facilitates the process rather than becoming the focus of the process. It helps the process make it shorter, simple or even more flexible (Fulmer, 2002)." Many organizations are in a competitive race to enter e-commerce High-tech (example: video conferencing or audio teleconferencing) and online (example ; intranet or extranet)approached had a dramatic impact on succession planning practices "(Rothwell, 2010). Some organizations are in a competitive race to use technology to deliver programmes. Combining internal and external resources to deliver the programme's content could also be useful (Leskiw & Singh, 2007). Some organizations use organisation's succession management website to assess employees' current potential level, skills and experience. They use it as a reporting tool as well. Time is changing faster and classroom-based learning is getting replaced with web-based courses. High performance organizations are making range of management development courses available online (Deshwal, 2015).
 
 International Journal of Global Optimization and Its Application Vol 1, No 1, March 2022, pp.39-48.
 
-Use leadership development efforts to build shared competencies needed for the future - Developing professorial competencies is a key to future organizational success. Succession planning is the deliberate and systematic effort made by management of organizations to recruit, enhance and retain men and women with a range of management talents successful of enforcing contemporary and future organizational dreams (Liebman, 2016; Rothwell, 2010).
+Identifying Talent Pools - Best practice organizations use cyclical, continuous, identification process to focus on future leaders. Organizations also use a core set of leadership and succession management competencies. Many organizations cannot find a successor in advance. In this situation organizations devote their efforts to develop strong pool of candidates, from which successor can be selected when need arises. The strongest candidate at that time becomes the successor (Fulmer, 2002; Rothwell, 2010).
+
+Individual development Plans - The growth-oriented organizations take actions on the importance of specific and individual development plans for all employees. Individual development plans identify which developmental activities are needed and the best practice firms typically have a mechanism in place to make it simple for the employee to conduct the developmental activities (Rothwell, 2010). Typically, human resources department monitor employee's development activities (Fulmer, 2002). Leadership development programmes should focus on the skills and abilities of a leader rather than setting out a series of general steps to follow. Such steps are not always helpful because they fail to transfer to the complex realities of the workplace (Baker et al., 1997).
+
+Fundamental development activities - Best practice partners rely on the fundamental development activities of coaching, training and development most frequently and utilize all development activities to a much greater extent than sponsor organizations (Fulmer, 2002)
+
+Traditional education programs - In addition to traditional excessive education programmes, best practice partners increasingly use specific assignments, action learning and web-based development activities (Fulmer, 2002). The selection of special assignment chosen is supposed to present a challenge to the participant and improve their analytical ability (Deshwal, 2015).

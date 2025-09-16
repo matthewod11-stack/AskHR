@@ -1,9 +1,7 @@
-# the change process.
-
-Another way of advancing in research would be to conduct only the quantitative
-
-constituent of the methodology proposed for this case study, in an statistic relevant
-
-sample of organizations under radical change process, aiming to establish a causal
-
-mathematic relation between dialogic communication and resistance to change.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 65ad4a7933efb3ea52a17c0044568d7b469dccaf
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# size of organizations, different environmental causes for changes and other variables of

@@ -1,15 +1,19 @@
-## impacts class migrants and people from cultures that value modesty.
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d092e0b820741b0b4b075dc142a245d27e91fee8
+title: H072GW-PDF-ENG
+---
+## Subjective selection, promotion, and other talent management practices
 
-In selection, direct assessment of skills essential to the job is more
+exclude neurodivergent talent, create barriers for other marginalized
 
-valid than asking people to extol their skills. In promotion, evaluation
+groups, and narrow organizations’ talent pools. Instead, using valid
 
-supported by examples of outcomes helps reduce bias.
+instruments rooted in job analysis helps ensure inclusivity. For
 
-. . .
+example, autistic job-seekers are often denied work because of
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+personality-based interviews, which measure the ability to talk about
 
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+one’s skills rather than demonstrate them. This access barrier also

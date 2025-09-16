@@ -1,13 +1,21 @@
-# Example Interaction:
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 3119202b29f6309520111f5985d9b7455d0e1857
+title: agents_companion
+---
+# Conversational Media Search Agent
 
-User: "Play something upbeat to help me stay alert on this long motorway drive."
+The Conversational Media Search Agent is specialized in helping users find and play music,
 
-Conversational Media Search Agent: "I'll play an upbeat driving playlist to help keep
+audiobooks, and podcasts. This agent retrieves media from local databases or streaming
 
-you energized. Starting with 'Don't Stop Me Now' by Queen, followed by some Daft
+services, uses web search for additional content when necessary, suggests media based on
 
-Punk and Stromae tracks. I've added some popular European radio hits that match your
+contextual factors like mood, weather, and time of day, and handles voice commands such
 
-preferences. I've adjusted the volume for optimal road awareness. Just say 'next' if you
+as "Play a relaxing playlist for my drive." It also identifies similar artists or content when users
 
-want to skip a song."
+ask questions like "Who sounds like John Coltrane?"
+
+55

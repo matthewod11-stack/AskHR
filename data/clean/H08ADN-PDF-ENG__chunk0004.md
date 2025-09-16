@@ -1,7 +1,17 @@
-# not without costs.
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f09169be166775a026b7f3843608d63c063deaaa
+title: H08ADN-PDF-ENG
+---
+## In October 2021, Delta Air Lines CEO Ed Bastian noted a signiﬁcant
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+shift in the airline’s workforce as it emerged from the Covid-19
 
-1
+pandemic. Speaking to investors, he called it a juniority beneﬁt. “Many
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of our most experienced employees have chosen to retire, and that’s
+
+opened up opportunities for younger people,” he said, framing the
+
+change as advantageous for the company. But juniority beneﬁts were

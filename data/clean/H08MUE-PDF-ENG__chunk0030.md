@@ -1,33 +1,33 @@
-## For example, at Nationwide Insurance, where 90% of employees either
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a13ac090d507bcf193cb236d4544fe64159db76d
+title: H08MUE-PDF-ENG
+---
+## ambitions, strengths, weaknesses, and the interpersonal dynamics
 
-work remotely or have a hybrid schedule, leaders are trained in
+between them. In a remote setting, this contact becomes virtual and
 
-storytelling to convey the culture and values. They also are encouraged
+less frequent and these signals diminish.
 
-to ask their team members not just about their work experience but also
+To combat this, leaders need to intentionally and consciously talk to
 
-their full life experience, which can be harder to grasp when people are
+their people, listen to them, and devise ways to help them succeed.
 
-working away from the oﬃce. Similarly, at Edward Jones, a ﬁnancial
+Be proactive about reaching out if you have even a minor question or
 
-advisory ﬁrm where the majority of employees work remotely, leaders
+concern, don’t cancel your one-on-one meetings, and take advantage of
 
-are asked to focus on building relationships with their people, even
+moments just before a virtual meeting begins or after it ends to foster
 
-when the interactions are mostly virtual. As their head of HR notes, “It
+connection and hear what’s going on. Most importantly, don’t limit
 
-really is about listening, deeply understanding and ensuring that we are
+the interaction to work issues. Be deliberate about ﬁnding out what’s
 
-able to meet their needs where we can.”
+happening in their community or in their lives.
 
-The pandemic experience taught us that leaders can be recruited from
+This kind of intensive listening, however, doesn’t come naturally to
 
-anywhere, and do not necessarily need to be located at a corporate
+everyone, and may be quite diﬃcult for some managers. But without it,
 
-or business center. If we’re going to take advantage of this broader
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+managing remotely may not work.

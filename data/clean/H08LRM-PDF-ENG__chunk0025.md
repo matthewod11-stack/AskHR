@@ -1,15 +1,7 @@
-# Matt Carlson
-
-I talked to a number of people like Mary, who took sabbaticals to
-
-recover from or avoid burnout. My interviewees’ ailments included
-
-ulcers, chronic pain, and insomnia, with doctors diagnosing work stress
-
-as the cause. Their breaks involved activities that, as one interviewee
-
-put it, made them “feel human again.” For example, another employee
-
-suﬀering from burnout went camping to engage her “Neanderthal
-
-self: focusing on keeping warm, dry, and fed while enjoying the
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9727dad08cdcf3e2a04fae0884c5d7b1ae34569
+title: H08LRM-PDF-ENG
+---
+## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One

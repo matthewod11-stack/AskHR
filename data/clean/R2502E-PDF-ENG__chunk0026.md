@@ -1,29 +1,35 @@
-## HBR / Magazine Article / How Women Can Win in the Workplace
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7318b5a806ee8be4be9efbd8b6827b8b3bf1bffc
+title: R2502E-PDF-ENG
+---
+## connections. Systematically free up time on your calendar for coﬀee
 
-mentors, who are likely to be in the room when hiring and promotion
+chats, lunches, and so on, and use this time to talk to people in areas
 
-decisions are made.
+you’re interested in. Ask them about their roles, about other people they
 
-Signal the right skills. Often job seekers have the skills that are required
+think you should talk to, and—if you feel comfortable with it—whether
 
-for a role but fail to highlight them on their résumés, in their LinkedIn
+they can connect you directly to those people. Continue doing this until
 
-proﬁles, or in other ways. This gap is widest when it comes to soft skills
+you understand exactly what kind of opportunity you’re looking for and
 
-such as teamwork, conﬂict resolution, and communication. Together,
+what truly interests you. Once you know where you want to go, ﬁgure
 
-soft skills make up 25% of the top 20 skills listed in job postings, but
+out how best to get there. Be straightforward and clear as you continue
 
-most people focus predominantly on signaling their technical skills.
+to reach out to people: “I’m really interested in this area. How can I best
 
-Don’t make that mistake.
+prepare myself and build the right skills?” As you make progress and
 
-Close with conﬁdence. At the end of an interview, make it clear why
+start to apply for positions, update the people in your network who’ve
 
-you’re the person for the job. To pull oﬀ big and bold moves, you have
+been helpful. This is especially important in the case of sponsors or
 
-to believe in yourself, the skills you’ve developed, and your potential to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-apply them in a new role. If you’re willing to bet on yourself, prospective
+7
 
-employers will be more willing to bet on you too.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

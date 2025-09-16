@@ -1,13 +1,15 @@
-## HBR / Digital Article / The Best Leaders Edit What They Say Before They Say It
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef1e98bbd587579274f18c2c2269a73b68a987c7
+title: H08UYL-PDF-ENG
+---
+## A lot of executive communication happens in real-time exchanges when
 
-developing strong impulse control and recognizing, in the moment,
+you don’t have time to prepare. Good strategic editing also means
 
-when an idea surfaces that’s half-formed or emotionally charged. In this
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-situation, it’s critical to pause. Write the idea or thought down. Give
+6
 
-yourself a few minutes to consider if sharing it will distract from the
-
-core topic and cause unhelpful ripples, or whether it would be better
-
-to discuss it later when you’ve had time to think through the best
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

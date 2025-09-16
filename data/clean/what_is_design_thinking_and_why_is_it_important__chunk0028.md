@@ -1,9 +1,23 @@
-# Design Thinking and Its Importance
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: 8f6aaddc9645fa1c13dd2b096da05ede6859228c
+title: what_is_design_thinking_and_why_is_it_important
+---
+## Synthe(cid:25)c Synthe(cid:25)c Real Real
 
-drawn as informing further design efforts (Do & Gross, 2001; Lloyd & Scott, 1995). Designing often begins with a diagrammatic depiction that is gradually transformed to more complex graphic representations by adding detail. These design diagrams facilitate the designer’s reflection, dialogue, and self-critique and therefore serve the purpose of representing and testing the designer intent. In other words, diagrams serve as a primary vehicle for thinking and solving problems (Do & Gross, 2001; Nagai & Noguchi, 2003).
+FIGURE 1. Conceptual representation of content and process factors. Note. Adapted from “Design Thinking: Notes on Its Nature and Use,” by C. Owen, 2007. Design Research Quarterly, 2(1), 16–27.
 
-Braha and Reich (2003) viewed the design process as a generic process where designers modify either the tentative or current design or the requirements and specifications, based on new information that has become available. This ongoing process of modification is performed in order to remove discrepancies and estab- lish a fit between the problem space, expressed through requirements and specifi- cations, and the proposed design solution.
+In this mapping (represented by a circle), design falls in the fourth quadrant because it is highly synthetic and strongly concerned with real-world subject mat- ter. However, because disciplines of design deal with communications and sym- bolism, design has a symbolic component, and because design requires analysis to perform synthesis, there is also an analytic component (Owen, 2007).
 
-In 2000, Suwa, Gero, and Purcell argued that designing is a situated act, which means that designers invent design issues or requirements in a way that is situated in the environment in which they design. The authors found a strong bidirectional correlation between unexpected discoveries and the invention of issues and require- ments. Unexpected discoveries are those instances when a designer perceives something new in a previously drawn element of a solution concept. Not only do unexpected discoveries become the driving force for the invention of issues or requirements, but also the occurrence of invention tends to cause new unexpected discoveries. These results emphasize the importance of rapid alternation between different modes of activity during the design process (e.g., drawing sketches and conceiving of design issues or requirements that are dynamically related to one another). This also explains the opportunistic nature of design activity, as the designer pursues issues and requirements in an evolving solution concept.
+It is important to note that a case can be made for the positioning of any field to the left or the right of the map. However, mapping fields is relative and not abso- lute, which is important because this mapping provides a means for comparing the relationships among different fields with respect to the two dimensions: content and process. Each of the four quadrants in this figure is important in education because we want our students to develop higher-order thinking skills and be able to analyze, synthesize, innovate, and thus readily deal with real-world problems. According to Hatchuel and Weil (2009), design can be modeled as a relation- ship between two interdependent spaces with different structures and logic: the space of concepts (C) and the space of knowledge (K). Space K contains all estab- lished knowledge available for designers, while Space C includes concepts that are neither true nor false in K about an object. Design proceeds in a step-by-step par- titioning of C-sets until a partitioned C-set becomes a K-set, that is, a set of objects, well defined by a true proposition in K. Thus, for Hatchuel and Weil, design is a reasoning activity that starts with a concept about a partially unknown object and attempts to expand it into other concepts and/or new knowledge.
 
-According to Dorner (1999), several forms of thinking can be observed in designing. Design starts as a cloudy idea about how the design/product should look like and how it should work. With time, this idea crystallizes and transforms into a clear and complete image of the product. The cloudy idea comes from something that the designer already knows about the product. This knowledge can be a source of analogies. The second form of thinking involves the sketches and models that bring the cloudy idea to a more concrete form. Sketches and models clarify the characteristics of the product, helping to form a specific line of thought that facil- itates the development process and forms the basis for the design thinking process. The third form of design thinking is the “picture-word cycle,” which involves putting ideas into words that helps the designer clarify and elaborate on ideas. However, whatever the form of thinking, the design thinker should demonstrate specific characteristics in addition to creativity.
+At its core, design thinking refers to how designers see and how they conse- quently think (Liu, 1996). It is an iterative and interactive process where designers (a) see what is there in some representation of problem-solving concepts/ideas, (b) draw relations between ideas to solve the problem, and (c) view what has been
+
+334
+
+Downloaded from
+
+http://rer.aera.net
+
+at AERA on October 2, 2012

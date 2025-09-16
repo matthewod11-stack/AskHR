@@ -1,7 +1,19 @@
-# happiness contagious?
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1bbfb12967090c142280be971209acdab86ecae
+title: H07SHV-PDF-ENG
+---
+# a balanced portfolio.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Look, if everything you do for your happiness is work, that’s like putting
 
-15
+your entire pension into Greek bonds. It might work out, but I’m an
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+economist. I don’t recommend it. That’s not a diversiﬁed strategy.
+
+You’re most likely not going to retire the way you want to.
+
+ADI IGNATIUS:
+
+Here’s a question from Saudi Arabia, it’s a simple, intriguing question. Is

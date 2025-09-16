@@ -1,11 +1,9 @@
-# growth.
+---
+source_path: H07T9G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25a71207f3588cce3f841772d2afa882832f3131
+title: H07T9G-PDF-ENG
+---
+## HBR / Digital Article / Help Your Employees Develop the Skills They Really Need
 
-Anders Ericsson, who has spent decades researching expertise, points
-
-to the importance of deliberate practice in developing world-class
-
-performers. Mere instruction is not enough, you also need to practice
-
-skills, identify areas for improvement, and receive coaching. It is
-
-this combination of education, experience, and exposure that improve
+improvement in winning deals and a signiﬁcant boost in revenue

@@ -1,9 +1,19 @@
-# American Psychologist, 12, 671–684.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3bfa4d4116bc43f9293392917525ea13c1912c0a
+title: untitled
+---
+# Harvard University Press.
 
-Darwin, C. (1859). The origin of species. London: Murray.
+Chase, W. G., & Simon, H. A. (1973). The mind’s eye in chess. In W. G. Chase (Ed.), Visual information processing (pp. 215–281). New York: Academic Press.
 
-Das, J. P., Kirby, J. R., & Jarman, R. F. (1979). Simultaneous and successive cognitive processes. New York: Academic Press.
+Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. Cognitive Science, 5, 121–152.
 
-Das, J. P., Naglieri, J. A., & Kirby, J. R. (1994). Assessment of cog- nitive processes: The PASS theory of intelligence. Needham Heights, MA: Allyn & Bacon.
+Chi, M. T. H., Glaser, R., & Rees, E. (1982). Expertise in problem solving. In R. J. Sternberg (Ed.), Advances in the psychology of human intelligence (Vol. 1, pp. 7–75). Hillsdale, NJ: Erlbaum.
 
-DeGroot, A. D. (1965). Thought and choice in chess. The Hague:
+Chiesi, H. L., Spilich, G. J., & Voss, J. F. (1979). Acquisition of domain-related information in relation to high and low domain knowledge. Journal of Verbal Learning and Verbal Behavior, 18, 257–273.
+
+Cornell, E. H. (1978). Learning to ﬁnd things: A reinterpretation of object permanence studies. In L. S. Siegel & C. J. Brainerd (Eds.), Alternatives to Piaget: Critical essays on the theory. New York: Academic Press.
+
+Cronbach, L. J. (1957). The two disciplines of scientiﬁc psychology.

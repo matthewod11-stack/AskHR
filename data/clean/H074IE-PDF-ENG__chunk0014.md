@@ -1,13 +1,13 @@
-# HBR / Digital Article / Expecting a Bad Performance Review? Here’s How to Prepare.
+---
+source_path: H074IE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18cd1adea23d85bb221fc4e932a225a8b9dc2977
+title: H074IE-PDF-ENG
+---
+# teammates:
 
-- What am I doing as part of the team that is helpful?
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-- What am I doing that is not helpful?
+3
 
-- If you could change one part of how I interact with the team, what
-
-would it be?
-
-Once you receive their answers, take steps to rectify any areas that your
-
-team flagged. Better to take it upon yourself to do better than to hear
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

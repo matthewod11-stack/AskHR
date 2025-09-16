@@ -1,11 +1,7 @@
-# HBR Staff/Unsplash
-
-Business leaders today know they can’t ignore public controversies and
-
-crises. Comfortably objective, amoral stances don’t ﬂy when customers
-
-and employees care deeply about issues or when they feel under siege.
-
-And yet, when controversy strikes and crises ﬂare up, companies often
-
-struggle to respond. When, how, and on which issues should they stake
+---
+source_path: H07WQJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 353509cc630de832c8aec4d1b846411ddc3f58b7
+title: H07WQJ-PDF-ENG
+---
+## Published on HBR.org / November 22, 2023 / Reprint H07WQJ

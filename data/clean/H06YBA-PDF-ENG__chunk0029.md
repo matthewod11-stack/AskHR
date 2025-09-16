@@ -1,23 +1,43 @@
-# creatives.
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 987dfeb3f723a3033ae37b39a305f1c3fc7b5498
+title: H06YBA-PDF-ENG
+---
+## Center the experience of autistic people.
 
-- Include parents of autistic children, grandparents, siblings, and
+For a long time, others have claimed to speak and decide for
 
-friends. Events and focus groups supportive of their experience are
+autistic people, and much of the public discourse centered on non-
 
-important; perhaps one of your permanent ERGs could also serve their
+autistic autism professionals or family members. But the neurodiversity
 
-needs. However, do not center their experience over the experience of
+movement encouraged many autistic people to advocate for themselves
 
-autistic people. Allyship ampliﬁes; it does not speak over.
+and adopt “nothing about us without us” as a motto. Here are ways
 
-Amplifying autistic culture and centering autistic experience is the
+leaders and allies can help others see from the autistic perspective:
 
-mark of true allyship. However, the best form of allyship is full
+- Include your autistic employees in planning any relevant events — and
 
-inclusion, and the best way organizations can support autistic people
+let them lead.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+- Hire an autistic designer for your campaign materials.
 
-5
+- Before you ﬁnd an outside speaker, invite your employees to volunteer.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Oﬀer virtual sensory sensitivities experiences that simulate sensory
+
+overload in everyday situations (e.g., by amplifying common sounds
+
+to simulate auditory sensitivity, or amplifying lights and vibrations)
+
+to help allistic (non-autistic) employees understand the role of
+
+the environment in “disabling” individuals and develop empathy
+
+toward neurodivergent colleagues. This should be accompanied by an
+
+explanation that everyone’s autism experience is diﬀerent.
+
+- Feature works by autistic scholars, inventors, artists, writers, and other

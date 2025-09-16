@@ -1,29 +1,31 @@
-# HBR / Digital Article / How Emerging Technologies Can Foster Human Connections at …
+---
+source_path: H08LX3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64387ba99da94558990d78b6349a7bc892b3a702
+title: H08LX3-PDF-ENG
+---
+# Our Digital Humanity at Work
 
-embracing this shift, looking beyond simple productivity metrics to
+It’s easy to assume that the growing role of digital technologies in the
 
-consider employee well-being as a critical performance indicator.
+workplace could make our jobs feel more mechanical and less human.
 
-The future of work is digital and wonderfully human. It’s a future
+However, digital transformation is reshaping our relationship with work
 
-that understands the importance of both individual well-being and
+in ways that make it more meaningful and inherently human.
 
-collective progress, driven by technologies that enhance our human
+The power of digital tools allows for a reconﬁguration of work that
 
-capabilities. And it’s a future that we are already starting to live today.
+puts people at the center. We’re not just talking about convenience
 
-As we continue this journey into the digital age, let’s not lose sight
+or eﬃciency here — though those are undeniable beneﬁts — but
 
-of what’s truly important: building workspaces, whether physical or
+about a deeper, more fundamental change that enables us to connect
 
-virtual, that allow us to connect more fully in ways that bring about the
+meaningfully with our work and each other. Companies are increasingly
 
-richness of what makes us human. Let’s keep our focus on what truly
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-matters: creating work environments that cultivate deeper connections
+6
 
-and embrace the full spectrum of our humanity. These spaces should
-
-not only facilitate our work but also enrich our lives, reminding us that
-
-true progress is achieved by unlocking our collective potential.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

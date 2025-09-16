@@ -1,7 +1,23 @@
-## women of color seek support from the middle layer of management.
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1864e98a0a4059ac7e6531ae68f577b9c3f79467
+title: H089KA-PDF-ENG
+---
+## draw on their power, network, resources, social capital, and inﬂuence to
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+advocate for, recommend, and protect their protégés.
 
-8
+Stacey, a COO at an EdTech company, has had many sponsors who
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+believed in her and made her more visible within the organization.
+
+Monique had executive-level Black women sponsor her and others, and
+
+they would create inclusive bubbles for Black and Latina women within
+
+the organization. And Catalina described how she met her sponsor at an
+
+event, and he eventually hired her. She observed that CEOs and C-suite
+
+level sponsors do not have much time to sponsor, and recommended

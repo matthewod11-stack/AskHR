@@ -1,15 +1,9 @@
-# and innovation. On the contrary, organizations with robust diversity and inclusion programs
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: f1a87792c4c8e9e74eb87e99b8065ab02b56170a
+title: issn_print_0976_013x
+---
+# invariably augments
 
-are ahead of their competitors. Diversity refers to differences that exist between different
-
-people in terms of their race, religion, sexual orientation, nationality, language etc. Inclusion
-
-means making people, who are in the minority, feel valued, respected, and treated equally.
-
-The organizations must adopt and implement Diversity and Inclusion programmes to attract
-
-and retain talented people irrespective of gender, caste, creed, skin colour or sexual
-
-orientation. The diversity and Inclusion framework seeks to treat people fairly, ensuring
-
-everyone gets equal opportunities in the world of work and the community.
+organizational effectiveness. Less inclusive organizations generally lack a culture of creativity

@@ -1,7 +1,11 @@
-# Harper & Brothers.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f6780e08f882c41ad28ebd4b55e8a8422e116965
+title: untitled
+---
+# York: Springer.
 
-Carson, M. J. (1990). Settlement folk: Social thought and the Americansettlementmovement,1885–1930.Chicago:University of Chicago Press.
+Brewer, J. M. (1932). Education as guidance: An examination of the possibilitiesofacurriculumintermsoflifeactivities,inelementary andsecondaryschoolandcollege.NewYork:Macmillan.
 
-Davidson, E., & Benjamin, L. T., Jr. (1987). A history of the child study movement in America. In J. A. Glover & R. R. Ronning (Eds.), Historical foundations of educational psychol- ogy (pp. 187–208). New York: Plenum Press.
-
-Davis, A. F., & McCree, M. L. (1969). Eighty years at Hull House.
+Brewer, J. M. (1942). History of vocational guidance. New York:

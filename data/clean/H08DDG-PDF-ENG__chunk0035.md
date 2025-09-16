@@ -1,23 +1,29 @@
-## the startup. In addition, while we strictly adhere to all conﬁdentiality
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1243bcef8b3faf9ae9b89db9a4b991812c3db3c
+title: H08DDG-PDF-ENG
+---
+## HBR / Digital Article / Why VCs Should Use Net Promoter Scores with Founders
 
-agreements, we received one suggestion to secure explicit signoﬀ before
+that our entrepreneurs could use more support with ﬁnances, HR/
 
-sharing a startup’s information with other investors. In response, we
+recruiting, and ﬁnding customers/building ecosystems, we recruited
 
-improved our process to ensure thorough conﬁrmations with each
+non-investment principals in each of these areas. Similarly, in response
 
-founder before sharing materials.
+to feedback that some of our early-stage portfolio companies didn’t
 
-- 4. Communicate the changes back.
+have enough (or any) experience in marketing, we created a marketing
 
-Finally, don’t forget to close the loop by communicating changes back
+principal role to give portfolio companies a blueprint and coach them.
 
-to the people who gave you the gift of relevant feedback. This doesn’t
+We’ve also made a handful of process changes. For instance, in response
 
-mean spamming people incessantly; if you aren’t making speciﬁc
+to feedback that entrepreneurs were disappointed by our relatively
 
-changes based on their feedback, there’s no need to send unnecessary
+small check sizes given the depth of our due diligence review, we reﬁned
 
-updates. But for the founders who shared quality, actionable input, this
+our communications to ensure that clearer expectations were set up
 
-can be a great opportunity to express gratitude and further cement your
+front and that our due diligence was more right-sized to the stage of

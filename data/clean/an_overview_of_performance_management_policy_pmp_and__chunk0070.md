@@ -1,21 +1,23 @@
-# the more effectively.
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 3bebd3a57ac0fe2399e81b32a8be668432c2b484
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# CUSTOMER DELIGHT
 
-- 2. We are “ENGAGED & INSPIRED”
+- 1. “RESULT DRIVEN”
 
-The Bank works cooperatively with others and show obligation to accomplish the group targets. The
+The Bank drives to meet or surpass yearning performance goals and quality norms, convey business
 
-Bank will in general persuade others and acknowledge input, to get their obligation to thoughts,
+results and persistently find manageable enhancements in strategies or cycles and act in a proactive
 
-undertakings or activities are made plans to make individuals and cause them to believe in
+7
 
-themselves, so they constantly stretch their limits.
+(cid:32)
 
-- 3. We are “ACCOUNTABLE AND TRANSPARENT”
+(cid:32)
 
-The Bank will in general perform dependably with a feeling of possession and consider ourselves
+manner by making a move. It responds to circumstances as well as foresees future chances or issues,
 
-responsible for the result. The Bank assembles assets successfully to guarantee that solid corporate
-
-exhibition is conveyed. CBL, as responsible pioneers, accept that our conduct and activity aggregately
-
-will make positive effect on our traditions, primary concern and future. Sourced From (Tisha, 2019)
+and follows up on them well ahead of time. Moreover, it generally thinks of novel plans to work all

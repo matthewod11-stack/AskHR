@@ -1,7 +1,7 @@
-# Y/N
-
-Basic product/service to be offered (does what)
-
-Primary markets or customer groups to be served (to whom)
-
-Mission statement—Summarizes the organization’s most important reason for its existence
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: dcb8c118cd487548aca5167dc3cd032bcd6f81bf
+title: performance_management_3rd_edition_by_aguinis
+---
+# Characteristics

@@ -1,7 +1,9 @@
-# Economic Perspectives 19:9-32.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 5a6243078c62ad59b39166c711ce2a9e07ef1328
+title: beo_chap7_1
+---
+# REFERENCES
 
-Alicke, M. D. 1985. Global self-evaluation as determined by the desirability and controlla-
-
-bility of trait adjectives. Journal of Personality and Social Psychology 49:1621--30.
-
-273
+Akerlof, G., and R. Kranton. 2005. Identity and the economics of organizations. Journal of

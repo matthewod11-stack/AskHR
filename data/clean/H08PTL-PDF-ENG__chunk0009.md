@@ -1,7 +1,17 @@
-# tasks.
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4141fa034ee5109c3caee0800eca0446c198b0ac
+title: H08PTL-PDF-ENG
+---
+# power inherent in their roles.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Power-conduit tasks, such as setting meeting agendas and establishing
 
-2
+board committees, may appear routine but are vital for enabling leaders
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to exert their inﬂuence. Encroachment risk occurs when board chairs
+
+use AI applications to automate their tasks, but the use of AI ends up
+
+weakening or eroding the board chair’s inﬂuence over power-conduit

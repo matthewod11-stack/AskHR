@@ -1,19 +1,15 @@
-## downsides down the road, both for the employer and the employees.
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb67286e764492d222ba70fc45ad3c322ad90a1c
+title: H08AI6-PDF-ENG
+---
+# motivation in the workplace.
 
-If employees don’t want to change jobs to avoid bringing turbulence
+If family motivates people to do their best at work, there is a risk that
 
-to their family—for example, avoiding taking on a new job because
+people will do too much for the sake of their families. For example, one
 
-children would have to change schools and leave friends behind—
+way that family motivation can aﬀect work is by reducing turnover.
 
-it might lead employees to remain in a job that is otherwise not
-
-appealing, or where they’re no longer learning, growing, and feeling
-
-engaged. For instance, some researchers found that family motivation
-
-was associated with employees at corporations in China staying at
-
-their jobs despite experiencing abusive supervision. Thus, although the
-
-family is a motivating factor, it is important for employees not to neglect
+What may sound good for the employer at ﬁrst glance may have

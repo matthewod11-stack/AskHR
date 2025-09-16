@@ -1,45 +1,89 @@
-# D. Importing ‘new’ psychology
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: aed9d65c8c3bfac2686312a52b2943d9e01cb472
+title: behavioral_economics_1
+---
+# C. Field studies
 
-The workhorse models in Table 1 draw on a narrow range of cognitive psychology, mostly from
+Many new studies look for the influences of rationality limits in naturally-occurring field data. A good
 
-decision research. Other psychological concepts, which are hardly new in psychology but new to economists,
+example that highlights interest in time preference is Della Vigna and Malmendier’s (2005) study of health club
 
-are starting to be applied as well (such as memory, see Wilson 2004).
+memberships. The health clubs they study allow people to spend a fixed sum for an annual membership, or pay
 
-Attention is perhaps the ultimate scarce cognitive resource. A few studies have started to explore its
+for each visit separately. People who discount hyperbolically, but are “naïve” about their future hyperbolic
 
-implications for economics. Odean and Barber (2005) show that attention-getting events—abnormal trading
+preferences, will sign up for large-fee annual plans with per-visit fees that are below marginal cost (typically
 
-volumes or returns, or news events—correlate with purchases by individual investors. Della Vigna and Pollett
+25
 
-(2005) find that markets react less to earnings announcements made on Fridays than on other days; firms seem
+free). They find that even though per-visit fees average $10, the typical consumer who bought the annual-fee
 
-to know this and are more likely to release bad news on a Friday. Falkinger (2005) develops a rich model in
+package ended up going rarely enough that the per-visit cost was $19. They also show theoretically that this
 
-which firms must choose signal strength for their products to get the attention of consumers.
+contract is optimal for firms: Naïve hyperbolics like it because they misforecast how often they will go (they
 
-16 Tanaka, Camerer and Nguyen (2005) is one study that measures multiple dimensions of time, risk and trust
+don’t realize they are choosing a suboptimal contract), and “sophisticated” hyperbolic consumers like it because
 
-preferences corresponding to models in Table 1.
+the low per-visit fee provides external self-control (which they know they will need).
 
-27
+An early example of a field study inspired by behavioral economics is Camerer, Babcock, Loewenstein
 
-Attribution theory describes how people intuitively infer causes from effects. Many studies indicate
+and Thaler’s (1997) study of cab driver labor supply. New York City cab drivers typically rent their cabs by the
 
-systematic misattributions, such as the tendency to overattribute cause to personal actions rather than
+day, for a fixed fee, keep all the revenues they earn, and can drive up to 12 hours. The standard theory of
 
-exogeneous structural features (Weber et al, 2001). For example, Bertrand and Mullainathan (2001) find that
+upward-sloping labor supply, and intertemporal substitution, predicts that drivers will drive longer on high-
 
-oil company executives are rewarded when oil prices go up, but are not penalized equally penalized when prices
+wage days. But suppose drivers take a short horizon, e.g., one day at a time, and have an aspiration level or
 
-go down. Einav and Yariv (2005) note that authors of economics papers whose names come earlier in a list of
+reference point they dislike falling short of (i.e., they are averse to a perceived revenue “loss” relative to their
 
-authors benefit disproportionately by various measures, even though the order is almost always alphabetical.
+reference point or daily target). Myopic target-driven drivers will drive more hours on low-wage days, the
 
-Categorization refers to the way in which the brain forms categories. Mullainathan (2002) shows how
+opposite of the standard prediction. (This is a case where behavioral economics made a clear prediction of a
 
-categorization can generate non-Bayesian effects. An important property of categories is that likelihood
+new phenomenon, rather than just explaining an established anomaly.) Camerer et al found that inexperienced
 
-evidence which is weak can tip interpretations from one category to another, producing large effects from small
+drivers appear to have a negative labor supply elasticity—they drove more hours on low-wage days—and the
 
-causes. Fryer and Jackson (2004) develop a model of optimal categorization and discuss its application to labor
+elasticity of experienced drivers was around zero. Farber (2004) replicated this study with a smaller fresh
+
+sample using a hazard rate model of hourly quitting decisions. He found no evidence of daily targeting in
+
+general and weak evidence for three of five drivers for whom there are a lot of data. A subsequent study
+
+(Farber, 2005) finds effects of targeting which are significant but small in magnitude.
+
+Conlin, O’Donoghue and Vogelsang (2005) estimate how often items ordered from mail-order
+
+catalogues are returned. Their study is motivated by evidence of “projection bias”—the idea that one’s current
+
+emotional state exerts too much influence on a projection of one’s future state (e.g., people buy more groceries
+
+when they are hungry). They show theoretically that returns of cold-weather items (e.g., jackets or gloves) on a
+
+26
+
+particular day depend on whether the return-day weather is warm, and also depend on weather the ordering-day
+
+weather was cold. (The intuition is that people who order on a cold day mistakenly forecast it will be equally
+
+cold in the future, so they are systematically surprised.) Their result is striking because people are well aware of
+
+seasonality in weather (most people can tell you whether a day is unseasonably warm or cold). It is not as they
+
+are misforecasting their tastes for exotic novelties like sea urchin or funnypunk music.
+
+A booming and important area of field study is experimentation in field settings. Field experiments can
+
+range (Harrison and List, 2004) from abstract simple experiments done outside university labs, to measurement
+
+of treatment effects in field sites where those effects are of special interest (see Cardenas and Carpenter, 2005).
+
+These studies combine the value of measuring an effect directly in a population of interest with the gain from
+
+experimental control. The gain comes from randomized assignment of treatments, which avoids self-selection
+
+effects that are challenging to control econometrically in field data.16

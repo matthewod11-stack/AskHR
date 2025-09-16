@@ -1,13 +1,11 @@
-# visibility to senior leaders.
+---
+source_path: H07YJT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b583c87816b21fe7c57be0b9e5aecf6c942ce463
+title: H07YJT-PDF-ENG
+---
+# HBR / Digital Article / How to Conduct Motivating Performance Reviews When Busine…
 
-As you talk through possibilities, it’s important to emphasize that even
+Mondal notes that stretch assignments and new challenges are highly
 
-if a promotion isn’t imminent, opportunities for advancement will arise
-
-once the economy rebounds. “Give them a sense that they play a critical
-
-role in helping the organization pull through and when things do turn
-
-around, they will personally beneﬁt,” she says. “If they can stick it out
-
-and ride the surf, they can become future business leaders and grow
+motivating. Explore, too, ways that you can help increase people’s

@@ -1,5 +1,7 @@
-## Is Your Leadership Development Program Undermining Your DEI Goals?
-
-Poorly designed programs can exacerbate inequity. by Elizabeth Weingarten and Liz Kofman-Burns
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07A0F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e06b26b8f0109d453b93532d3c5691e671db40f1
+title: H07A0F-PDF-ENG
+---
+# Diversity And Inclusion

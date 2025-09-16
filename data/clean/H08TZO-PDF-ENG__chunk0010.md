@@ -1,15 +1,45 @@
-## Shifting from Generational Targeting to Life-Course Design
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23c23e8d994fe8cd9832e558505298a24ae8be0f
+title: H08TZO-PDF-ENG
+---
+# HBR / Digital Article / Age Inclusion Is Your Company’s Next Competitive Advantage
 
-What’s needed now is a wholesale shift in how companies think about
+This mindset is not only outdated but also contrary to market forces.
 
-age, not as a demographic silo, but as a design and strategy imperative.
+In the U.S., according to AARP, adults over 50 control nearly 70%
 
-That means moving beyond generational targeting (Boomers, Gen X,
+of household wealth. Globally, they account for 42% of consumer
 
-Millennials, Gen Z) to life-course design: a framework that reﬂects
+spending. And, according to the Bureau of Labor Statistics, labor force
 
-the dynamic, nonlinear paths people take through education, work,
+participation among people over 65 has nearly doubled since 2000,
 
-caregiving, health, and reinvention.
+outpacing all other age groups.
 
-Life-course design recognizes that a 67-year-old startup founder, a
+Some companies are waking up to this reality. Nike has made
+
+moves to attract older consumers, including the development of new
+
+product lines. Apple has quietly embedded inclusive features across
+
+its devices, like large-text interfaces, fall detection, and even hearing
+
+aid functionality, without singling out older users. Dove’s “Beauty
+
+never gets old” campaign features women over 60 and reframes aging
+
+as aspirational, challenging outdated beauty standards. The luxury
+
+fashion brand Jacquemus’s recent advertising stars 67-year-old Jon
+
+Gries, demonstrating the cultural power and credibility that older
+
+celebrities bring to brands. Even Nestlé, better known for confections
+
+and baby food, announced that it plans to diversify its product oﬀerings
+
+to include older adults.
+
+Yet these remain the exceptions, not the rule.

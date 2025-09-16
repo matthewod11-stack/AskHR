@@ -1,29 +1,19 @@
-# outperformance in the absence of growth:
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ff876c10c199c16cc785163da173b93628dde9c
+title: H08R2D-PDF-ENG
+---
+## HBR / Digital Article / Growth Isn’t the Only Way for Companies to Create Value
 
-- 1. At Your Service: The Asset-Light Play
+ownership may play a role in enabling a disciplined, long term–oriented
 
-Many businesses facing low growth prospects react by seeking to
+approach to value creation. This is consistent with the observation that
 
-acquire new customers—often at high cost—but stable outperformers
+stable ﬁrms steered clear of the risks that often accompany aggressive
 
-are more likely to maximize value from existing customer relationships.
+growth, such as overly ambitious, large-scale mergers or acquisitions,
 
-They do this by shifting from physical products with declining demand
+which have a failure rate of 70% to 75%.
 
-to asset-light services and software. This approach not only deepens
-
-customer ties but also improves margins and lowers asset intensity.
-
-The stable outperformers that made this shift increased their EBIT
-
-margins by 8 percentage points between 2004 and 2024 on average,
-
-driven by 50% lower capital expenditures and 25% lower cost of sales.
-
-This enabled them to also achieve an average annual TSR of 9%.
-
-This path is most common in asset-heavy industries undergoing digital
-
-transformations or in IT companies becoming more service-oriented.
-
-More broadly, it may oﬀer an interesting path for businesses facing
+Instead, these businesses used four distinct strategies to achieve

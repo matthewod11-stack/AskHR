@@ -1,15 +1,23 @@
-# with their onboarding experience.
+---
+source_path: H088RA-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 6fa41325dd0cd1490d9d1867a484a88f144dd5d0
+title: H088RA-PDF-ENG (1)
+---
+# experience.
 
-At Microsoft, alongside our onboarding materials, we developed a
+What’s needed is for managers to be intentional, provide structure, align
 
-Flexible Work Toolkit to equip our managers with information and
+on job expectations, set up their new hire with an onboarding buddy,
 
-resources to help meet the needs of individual work styles and oﬀer
+establish onboarding milestones, give frequent actionable feedback,
 
-as much ﬂexibility as possible. The toolkit includes resources on how
+and provide a list of resources. New hires whose manager plays an
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+active role in their onboarding are 3.5 times more likely to be satisﬁed
 
-5
+with their onboarding experience and 1.5 times more likely to feel
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they’re contributing to their team’s success. In a hybrid world, the
+
+manager’s role in onboarding is a key driver in new hires’ satisfaction

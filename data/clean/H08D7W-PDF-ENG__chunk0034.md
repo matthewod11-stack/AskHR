@@ -1,11 +1,19 @@
-## innovation from one-oﬀ achievements into consistent capabilities.
+---
+source_path: H08D7W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d0680281f04b19ac9abe590bb10ed36b974c45c
+title: H08D7W-PDF-ENG
+---
+## in Bayer’s corporate ﬁnance and marketing departments in Greece.
 
-This article was originally published online on September 05, 2024.
+. . .
 
-Stephen Wunker is the managing director of New Markets Advisors, a global consulting ﬁrm focused on innovation. He was responsible for one of the world’s ﬁrst smartphones, pioneered the mobile marketing and commerce industries, and partnered with a longtime colleague, Harvard Business School’s Clayton Christensen, in building the consulting ﬁrm Innosight. He’s the author of three award-winning business books, has written for Forbes since 2011, and has keynoted speaking events on ﬁve continents. He’s the co-author of the new book The Innovative Leader: Step-by-Step Lessons from Top Innovators for You and Your Organization (Morgan James Publishing).
+Innovation doesn’t just come from serendipity. The leaders we
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+researched rely on concrete mechanisms to ensure that they see
 
-6
+the right ideas, give them breathing room to develop, and look
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+for intersections within the company where innovation can thrive
+
+throughout their organizations. These four pillars can help transform

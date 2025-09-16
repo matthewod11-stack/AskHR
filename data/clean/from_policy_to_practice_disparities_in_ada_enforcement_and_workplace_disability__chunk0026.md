@@ -1,5 +1,9 @@
-# 1.(cid:32) Resource Limitations:
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: a20d3909c9d9853f4ddc0db65ef7988de74fbe35
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+## ISSN: 0976-7797 Impact Factor: 5.183 Index Copernicus Value (ICV) = 77.57
 
-The budget of the EEOC has not changed much over the decades, and the number of complaints is constantly growing. The backlog of investigations because of understaffed field offices makes the organization very unresponsive. 2.(cid:32) Variability in Legal Interpretation:
-
-Legal ambiguity has resulted because there have been inconsistent rulings by the federal circuit courts regarding similar ADA concerns. Until cases get to the Supreme Court or Congress acts, there are different sets of standards under which to act between jurisdictions (i.e., employer/individual).
+3.4 Challenges in Enforcement Consistency Although the ADA is a federal requirement, its implementation is not even throughout the country. Several correlated problems are the contributors to this inconsistency (West et al., 2023):

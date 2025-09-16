@@ -1,5 +1,9 @@
-## team structure on internal and external learning. Organ. Sci. 24:1120–39
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: c698c5538afac16b9d36a2dc7a5b73332b070f7f
+title: arop1noe_245_275
+---
+# Francisco: Pfeiffer
 
-Brown KG, Sitzmann T. 2011. Training and employee development for improved performance. In APA HandbookofIndustrialandOrganizationalPsychology,Vol.2,ed.SZedeck,pp.469–503.Washington, DC: Am. Psychol. Assoc.
-
-Bunderson JS, Sutcliffe KM. 2003. Management team learning orientation and business unit performance.
+Bresman H, Zellmer-Bruhn M. 2013. The structural context of team learning: effects of organizational and

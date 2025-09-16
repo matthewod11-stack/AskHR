@@ -1,3 +1,15 @@
-# References
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: 5bee06277fd25278f1989641e8c80aa24451791d
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+# 6.4 Avenues for further research
 
-Agarwal, R., Angst, C. M. & Magni, M. (2009). The performance effects of coaching: a multilevel analysis using
+Further to the results presented in this study (concerning our findings about the impact of coaching on performance, as well as other researchers’ findings about this phenomenon) one concern that can be expressed is the relatively small to medium effect size of coaching on performance. Following Cohen (1976), effect sizes of r=.10 can be categorized as small, r=.30 as medium and r=.50 as large. In the case of our study, effect size, measured using Pearson’s correlation coefficient ranged from a minimum of r=.170 in our study with sample #2 to a maximum of .249 with sample #1. Despite the fact that our results are of similar order as those other found in the literature, a question might be raise as to whether coaching could explain a significant proportion of the variance in performance.
+
+Following this line of inquiry, one aspect that has been neglected almost completely in the literature is the identification of mediators between coaching and performance. Identifying the mediating variables in any relationship is invaluable because it explains how the relationship works. Unfortunately, research in coaching has given little attention to this phenomenon and with the exceptions of Pousa (2012) and Pousa and Mathieu (2014) no studies have provided a rationale explaining why performance should increase after coaching interventions were conducted. In that aspect, it was found that incorporating mediators in the relationship between coaching and performance can explain a significantly higher percentage of variance (Pousa and Mathieu, 2014). Further research could continue in this line of inquiry and identify additional mediators between coaching and performance.
+
+Another avenue of research concerns the use of LMX as a framework for modeling coaching relationships. Given the high quality of the relationship between the manager and the subordinate in a coaching exchange, scholars used LMX as the main theoretical framework to understand these exchanges (Agarwal et al., 2009; Onyemah, 2009; Pousa, 2012; Pousa and Mathieu, 2014; Trépanier, 2010). One question that can be asked, though, is about the difference between coaching and LMX. If coaching can be understood as a high-quality LMX relationship, what makes it different from LMX? If a manager uses LMX as a leadership style, is he coaching? Are LMX and coaching one similar construct or are they different? These questions also open up new avenues for research.
+
+Finally, although LMX proved to be a useful and convenient theoretical framework to study coaching, are there other theories that can provide additional clues to understanding coaching? Recently it was suggested that Goal-setting theory could be a useful framework to study coaching (Grant, 2011) but its use in coaching research is still underrepresented. Identifying and using additional theoretical frameworks that can expand our understanding of coaching is another avenue for future research.

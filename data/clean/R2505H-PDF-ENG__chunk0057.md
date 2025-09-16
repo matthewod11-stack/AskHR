@@ -1,23 +1,15 @@
-## HBR / Magazine Article / The Founder’s Final Act
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: efbbf92093965e50e816df12007781d74128112a
+title: R2505H-PDF-ENG
+---
+## As David Weekley, the founder of one of the largest private home
 
-back from the company in phases. First he handed over day-to-day
+builders in the United States, approached retirement, he began to step
 
-leadership to a team he had built while retaining a “kill switch”—the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-ability to override major decisions he felt were counter to the company’s
+12
 
-essence. At the same time, Weekley began carefully studying other
-
-family businesses, attending family-business conferences, and learning
-
-what worked and what didn’t. He encountered transition models that
-
-felt misaligned with his values—such as families that gave a single heir
-
-full control of the business, leaving no role for the other children, or
-
-that suﬀered from “dividend sprawl,” where dozens of passive owners
-
-collected checks without contributing to the business. Instead, he made
-
-a plan that would balance family involvement, employee ownership,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

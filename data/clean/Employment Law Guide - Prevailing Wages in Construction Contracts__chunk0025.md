@@ -1,11 +1,27 @@
-# allowable payroll deductions.
+---
+source_path: Employment Law Guide - Prevailing Wages in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: 6bc1d5ee1e830da70c7f459f5f770339014aa3d9
+title: Employment Law Guide - Prevailing Wages in Construction Contracts
+---
+# assisted contracts in excess of $2,000 for construction, alteration, or repair (including painting and
 
-Contractors and subcontractors on prime contracts covered under the DBA or Related Acts in excess of
+decorating). Laborers and mechanics who work on the site of the work of DBRA-covered contracts are entitled to receive prevailing wage rates for such work.
 
-$100,000, or $150,000 for prime contracts covered under the DBA that are subject to the Federal Acquisition
+The Davis-Bacon and Related Acts (DBRA) require that contractors performing on covered contracts pay
 
-Regulations, are also required, pursuant to the Contract Work Hours and Safety Standards Act (CWHSSA), to
+laborers and mechanics employed on the project jobsite not less than the prevailing wage rates (including fringe beneﬁts) listed in the contract's Davis-Bacon wage determination for corresponding classes of laborers
 
-pay laborers and mechanics, including guards and watchpersons, no less than one and one-half times their
+and mechanics. The rates listed are based on wages and fringe beneﬁts the Wage and Hour Division (WHD)
 
-basic rates of pay for all hours over 40 worked on a covered contract in a workweek.
+found to be prevailing for laborers and mechanics employed on similar projects in the area. Davis-Bacon labor
+
+standards clauses and the applicable wage determination(s) must be included in covered contracts.
+
+Apprentices may be employed at less than the prevailing wage rates if they are individually registered in and employed pursuant to an apprenticeship program registered with the Department of Labor or with a state
+
+apprenticeship agency recognized by the Department.
+
+Contractors on DBRA projects are required to pay laborers and mechanics weekly and to submit weekly
+
+certiﬁed payroll records to the contracting agency. DBRA contractors are also subject to rules concerning

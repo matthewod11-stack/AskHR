@@ -1,5 +1,7 @@
-# outbreaks, and panic attacks.
-
-And it’s not just my community. Headspace’s 2024 Workplace State of
-
-Mind study found that work stress has negatively impacted physical
+---
+source_path: H0868F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cbb5951047711eb5ec48c6ac6602c37f81438fdf
+title: H0868F-PDF-ENG
+---
+## migraines, nausea, hair loss, sleep loss, weight changes, autoimmune

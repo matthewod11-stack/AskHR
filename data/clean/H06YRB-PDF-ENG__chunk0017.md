@@ -1,9 +1,11 @@
-## because in times of trauma, the twin concepts of institutional betrayal
+---
+source_path: H06YRB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5fb5499f7878c899e8cda8a7415f0dc1044b021f
+title: H06YRB-PDF-ENG
+---
+## Why It’s Important for Organizations to Be Trauma-Informed
 
-and psychological safety come into play.
+The way organizations support people during periods of trauma is
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+uniquely powerful, and the ramifications are long-lasting. This is

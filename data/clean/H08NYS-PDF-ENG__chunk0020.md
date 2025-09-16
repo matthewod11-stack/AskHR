@@ -1,11 +1,17 @@
-# HBR / Digital Article / Research: How Gig Platforms Can Mitigate Racial Bias in Rating…
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5168fa3ed8cb10ec364ae217b8be64277582e663
+title: H08NYS-PDF-ENG
+---
+## (4.72 stars) than white workers (4.79 stars) under the ﬁve-star scale—a
 
-This seemingly small diﬀerence had substantial economic
+statistically meaningful diﬀerence, even though the company had no
 
-consequences. As on many popular platforms, workers were directly
+evidence that this gap reﬂected actual diﬀerences in job quality.
 
-aﬀected by the ratings they received. In this case, the platform used
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-customer ratings to calculate worker pay, which led to workers of color
+3
 
-earning 91 cents for every dollar earned by white workers. However, the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

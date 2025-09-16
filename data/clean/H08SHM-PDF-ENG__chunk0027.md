@@ -1,11 +1,11 @@
-## pricey seed only on their best acres—where the yield jump easily
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4ff116def3c83bebe4c62ec162f0629c5ed1327
+title: H08SHM-PDF-ENG
+---
+# Measurement Too Cheap to Meter
 
-covered the extra cost and learning curve of using a new product.
+Economist Zvi Griliches’s landmark 1957 study of hybrid corn adoption
 
-As hybrids improved and word spread, even thin-margin ﬁelds soon
-
-cleared the beneﬁt-cost bar. With AI, the investment into measuring
-
-things follows the same payoﬀ curve. When turning reality into data is
-
-expensive, companies tend to only invest in the headline cases—credit-
+gives us a sharp lens on what comes next. Farmers ﬁrst planted the

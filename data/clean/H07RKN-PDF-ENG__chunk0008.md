@@ -1,17 +1,11 @@
-## both professional environments and day-to-day interactions.
+---
+source_path: H07RKN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8aea5295dadb990aa734075e8b2fd3b2496d7a82
+title: H07RKN-PDF-ENG
+---
+## HBR / Digital Article / How to Make a Compelling Pitch
 
-Successful pitching is, ﬁrst and foremost, about your audience. Your
+If you want to be an eﬀective communicator, you’re going to need to
 
-pitch must be understandable, relevant, and readily convincing —
-
-without any strong-arm tactics or perceived gimmicks and tricks. And
-
-in today’s rapid-ﬁre, short-attention-span world, it must also be concise.
-
-There are literally hundreds of thousands of books and lifetimes’ worth
-
-of training courses on pitching skills. But despite this plethora of
-
-content, I’ve found very little advice and guidance on how to pitch
-
-concisely and spontaneously. That’s why I’ve put together a simple,
+know how to pitch your ideas, concepts, and perspectives to others in

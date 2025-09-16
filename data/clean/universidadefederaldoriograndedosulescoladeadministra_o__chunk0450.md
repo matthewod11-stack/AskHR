@@ -1,19 +1,31 @@
-## benefício de forma negativa, segundo ela.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 8c5ffee9b636f971626ecd57f6e51947f7d4d403
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# dados.
 
-Era impossível não aparecer o vale-refeição na pesquisa. Além de pesquisador, somos também colaboradores da empresa, então vínhamos sofrendo defasagem financeira. Era daquelas respostas que estávamos esperando aparecer e que ia ajudar a mostrar para a alta gestão mudanças que precisavam ser feitas. E apareceu. Às vezes essa observação empírica ajuda a equipe a se preparar. Como estávamos preparados para receber essa resposta já tínhamos pensado, como equipe, quais dados gostaríamos de cruzar. (Entrevistada)
+Por fim, ela conta que, neste curto recorte temporal disponível na figura 7, por
 
-Uma vez que 2022 foi um ano em que se perdeu muito poder de compra por
+exemplo, já é possível referenciar um problema real que enfrentaram no último ano
 
-conta da inflação crescente, este problema foi escalando com o passar do tempo e
+(2022). O resultado do eNPS do primeiro trimestre de 2022, conforme mostra o
 
-sendo cada vez mais impactante no resultado final da avaliação dos colaboradores.
+último gráfico da figura 7, foi 60, índice que faz parte da zona de excelência do
 
-Antes do início do último trimestre, explica a funcionária na entrevista, a empresa
+indicador de acordo com Pedra (2022). Porém, daí em diante, pelos próximos 2
 
-decidiu realizar o reajuste, acima do valor da inflação, o que deixou os funcionários,
+trimestres, o patamar decaiu: 48 no segundo trimestre e 49 no terceiro - ambos na
 
-sob este aspecto, muito satisfeitos,
+zona positiva, uma categoria abaixo, conforme Pedra (2022). Nesta última pesquisa,
 
-influenciando diretamente no resultado,
+50
 
-retornando para o patamar da zona de excelência do eNPS, atingindo 54 pontos no
+em conformidade com a entrevistada, dentre muitos problemas encontrados quando
+
+da análise dos textos das respostas qualitativas dos funcionários, um deles era o
+
+mais representativo: o valor do benefício de vale-refeição já não comportava mais o
+
+mesmo padrão anterior. Mais de 70% dos comentários de detratores citavam este

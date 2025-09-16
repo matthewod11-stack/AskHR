@@ -1,9 +1,13 @@
-## foreign-trained executives to American companies with the UK as a distant
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55612c23cc84115e8b2f3fe94e9bfa333cb0549d
+title: H040YE-PDF-ENG
+---
+# university degrees.
 
-second. 4.1 % of Chinese, 5% of MENA, and 2.1% of Indian executives in
+While most immigrant executives arrive to the U.S. directly from their
 
-the U.S. have received their education in Canada. MENA immigrant
+home countries, our data shows that a small number of them are attracted
 
-executives’ routes appear a bit different in this regard from Chinese and
-
-Indian executives with about 10% of MENA immigrant executives arriving
+to the U.S. from other advanced economies. Canada is the top channel of

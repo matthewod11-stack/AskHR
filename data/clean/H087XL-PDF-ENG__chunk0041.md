@@ -1,11 +1,31 @@
-## HBR / Digital Article / Why Employees Who Work Across Silos Get Burned Out
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ed3379736cff81b784b255b42872ad320f07a00
+title: H087XL-PDF-ENG
+---
+# during non-working hours.
 
-in cross-silo collaboration but also to nurture a workplace ecosystem
+. . .
 
-that is healthier and more conducive to long-term success.
+Cross-silo collaboration is a double-edged sword in the modern
 
-This article was originally published online on May 13, 2024.
+workplace. While it undeniably serves as a catalyst for expedited
 
-Eric Quintane is an associate professor of organizational behavior at ESMT Berlin. He holds a PhD in management from the University of Melbourne in Australia. His research focuses on understanding the dynamics of interpersonal networks and their consequences for individuals (such as innovative performance or burnout).
+coordination and innovation, it can adversely aﬀect the well-being of
 
-Sunny Lee is an Associate Professor of Organizational Behavior at UCL School of Management and the author of Your Next Move: The Five Rules to Negotiate Your Life on Your Terms (Quarto Group, forthcoming). She has a PhD from London Business School, and her research examines the roles of biases and stereotypes in career outcomes and employee experience.
+those who engage in it. The good news is that organizations can adopt a
+
+multifaceted approach to support their boundary-spanning employees.
+
+Adopting these approaches will require eﬀort and time at both the
+
+organizational and individual levels. However, we believe this is a
+
+worthy investment, not only to address the risk of employee burnout
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

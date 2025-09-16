@@ -1,7 +1,23 @@
-# another for product pages.
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 490760c4d0e8541137c2bd4258799958fa52b74f
+title: R2501G-PDF-ENG
+---
+# Experimentation Programs
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Once an organization has become competent at learning across
 
-9
+experiments, the next step is to compare results across experimentation
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+programs, which makes it possible to evaluate the relative
+
+performance of various product areas and identify potential investment
+
+opportunities. Consider an e-commerce platform that has multiple
+
+features designed to help shoppers ﬁnd the right product, two of which
+
+are the search function and the product-details page. The business
+
+would most likely have one experimentation program for search and

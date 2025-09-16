@@ -1,15 +1,37 @@
-# vine.
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3db7cde49061615b2808258a0099d4a0c5eba99
+title: R2306H-PDF-ENG
+---
+# consideration.
 
-Only once he was conﬁdent that his idea could withstand outsider
+When the team was ﬁrst working on sugar-cane-based polymers—
 
-criticism did Ben gradually lower his guard. After he had convinced
+a project shrouded in secrecy—Ben sounded out his ideas with a
 
-himself and his conﬁdants that he could clear any potential hurdles, he
+select number of trusted conﬁdants while making every eﬀort to keep
 
-sought exposure to a wider internal circle. Speciﬁcally, he reached out
+shielding the project from the outright skeptics he knew would discard
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+the innovation as just plain foolish. The conﬁdants were colleagues
 
-12
+Ben had known for a long time and could count on to be critical
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+but constructive and to patiently listen to unusual ideas that weren’t
+
+completely baked yet. Conﬁdants play a crucial role by predicting the
+
+“killer questions” that will put an innovation in jeopardy. Through
+
+conversations with his conﬁdants, Ben realized that he had to put more
+
+thought into how plant-based bottles could be integrated into existing
+
+recycling infrastructure. He also needed to ﬁgure out how the new
+
+bottles would withstand the high-humidity climates in many important
+
+markets. Had he rolled out the idea too early, he would not have been
+
+prepared to address those concerns, and it might have withered on the

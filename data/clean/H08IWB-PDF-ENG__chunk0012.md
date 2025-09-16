@@ -1,23 +1,21 @@
-# HBR / Digital Article / Why Mentoring Programs Fail — and How to Make Them Worthw…
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9389dd880ee7ff3b679ace05afb16890a98c404
+title: H08IWB-PDF-ENG
+---
+## Leverage Storytelling to Highlight Benefits
 
-Sharing compelling stories of employees who have achieved signiﬁcant
+Storytelling can transform a routine announcement into a powerful and
 
-career milestones through mentoring brings the beneﬁts of, and need
+engaging call to action. Instead of merely informing employees about
 
-for, mentoring to life for each individual employee.
+the existence of a mentoring program, organizations should present
 
-These stories can be communicated through internal newsletters,
+it through compelling stories that illustrate its impact and relevance.
 
-video testimonials, and company meetings, capturing employees’
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-imaginations by giving them scenarios they can aspire to match and
+3
 
-illustrating the tangible beneﬁts of participation. Focus on the end
-
-result — what mentoring helped individuals achieve — rather than
-
-simply talking about mentoring without context. Your employees need
-
-to be drawn toward mentoring when hearing the stories, seeing it as
-
-important to help them meet their own career objectives.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

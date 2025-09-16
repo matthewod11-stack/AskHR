@@ -1,11 +1,11 @@
-# Cooperate
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 021b1828bfc2c7bbc69231e6b66e5b82be6f416f
+title: H0719C-PDF-ENG
+---
+# weak.”
 
-Don’t say: “You have to see a doctor.”
+Say: “I think it’s brave that you recognize that you are struggling and
 
-Say: “I wonder if a doctor might be able to help you. Our mental health
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+willing to get help.”

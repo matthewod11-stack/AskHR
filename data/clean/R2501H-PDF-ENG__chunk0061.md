@@ -1,21 +1,23 @@
-# divisions.
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4379e9fa47d95b7bf628185df4d4f9f83ec4d237
+title: R2501H-PDF-ENG
+---
+## role of director of corporate learning and development at a large global
 
-Mark proposed engaging all the company’s learning-and-development
+ﬁrm, he was given a bold challenge: Increase internal hires to 75% of
 
-professionals and leaders to create that framework together and
+all appointments for top roles by better preparing existing talent for
 
-proposed a suite of collaborative global programs as a vehicle
+leadership. Through Mark’s connector lens, the problem was evident:
 
-for building relationships across leadership generations. The senior
+The current talent-management process was disjointed. While some
 
-management team resisted. Surely this was a competence problem; how
+business groups and regions had knowledge about how to develop
 
-would connecting people spur leadership? “It was the worst meeting of
+leaders, the organization lacked a common framework that established
 
-my whole career,” Mark recalls.
+which skills the company’s leaders needed and how they should acquire
 
-But a friend helped him see the meeting as a reﬂection of the
-
-very challenge he was working to address: He needed to help senior
-
-executives let go of their custodian strategy, in which they were
+them, and aspiring leaders were mostly isolated in their individual

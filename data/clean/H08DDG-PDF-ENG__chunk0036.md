@@ -1,17 +1,29 @@
-# relationship.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e108570d88db3b39bece39cd47103020058b2426
+title: H08DDG-PDF-ENG
+---
+## the startup. In addition, while we strictly adhere to all conﬁdentiality
 
-Here again, it’s important to personalize communications. Rather than
+agreements, we received one suggestion to secure explicit signoﬀ before
 
-sending a blanket email, thank your founders individually for their
+sharing a startup’s information with other investors. In response, we
 
-speciﬁc input, and demonstrate exactly how you’re acting on it.
+improved our process to ensure thorough conﬁrmations with each
 
-In my responses, I always make sure to start by expressing my genuine
+founder before sharing materials.
 
-appreciation for their helpful input. I then describe the speciﬁc, tactical
+- 4. Communicate the changes back.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Finally, don’t forget to close the loop by communicating changes back
 
-8
+to the people who gave you the gift of relevant feedback. This doesn’t
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mean spamming people incessantly; if you aren’t making speciﬁc
+
+changes based on their feedback, there’s no need to send unnecessary
+
+updates. But for the founders who shared quality, actionable input, this
+
+can be a great opportunity to express gratitude and further cement your

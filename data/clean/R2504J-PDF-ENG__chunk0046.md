@@ -1,7 +1,11 @@
-## elements—mountains, forest, a river, and grassland—those components
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 716233d03f88d47f8eecb7fc3100125a35e0dc5d
+title: R2504J-PDF-ENG
+---
+# the ﬁrm’s strategy.
 
-are also intertwined, forming one coherent picture. A good strategy
+This phenomenon is a result of the way the human brain has evolved
 
-visualization mimics that: It displays a limited number of clearly
-
-identiﬁable components that are, nonetheless, also clearly linked to one
+to process views of landscapes. Although a landscape may have distinct

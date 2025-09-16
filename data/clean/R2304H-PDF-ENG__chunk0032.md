@@ -1,11 +1,15 @@
-## All of this results in high levels of employee engagement. Thijssen
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91dce064fdd86418ba0581b9db381c1ba66b3846
+title: R2304H-PDF-ENG
+---
+## HBR / Magazine Article / Disability as a Source of Competitive Advantage
 
-told us that La Trappe’s employee attrition rate and absenteeism had
+make them realize that they, too, can elevate their performance. The
 
-fallen to all-time lows. People didn’t want to leave the company and
+HR director of Gran Estación observes, “The person who is next to
 
-hardly ever called in sick. Other companies in our study had similar
+the person with a disability gets motivated because he realizes that if someone with diﬃculties has such good performance, then someone
 
-experiences: Twenty of the 57 ﬁrms that we surveyed reported a decline
-
-in absenteeism after their companies had started hiring people with
+who hasn’t got them also should be able to deliver it.”

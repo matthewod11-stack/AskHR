@@ -1,5 +1,9 @@
-# Wage and Hour Division(https://www.dol.gov/whd/) Contact WHD(https://webapps.dol.gov/contactwhd/Default.aspx)
+---
+source_path: Employment Law Guide - Family and Medical Leave.md
+pages: n/a-n/a
+chunk_id: af9d87e28fe5e18b709385e92630f6b4cd5c8f06
+title: Employment Law Guide - Family and Medical Leave
+---
+## Memo: Protection of Uniformed Servicemembers' Rights to Family and Medical
 
-Tel: 1-866-4-US-WAGE (1-866-487-9243)*
-
-- If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications
+Leave(https://www.dol.gov/sites/dolgov/ﬁles/VETS/legacy/ﬁles/fmlarights.pdf): Provides information on FMLA eligibility rules for reservists returning to private employment.

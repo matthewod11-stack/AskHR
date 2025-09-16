@@ -1,9 +1,17 @@
-# The Americas
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ab18a9044cbb954a9adbeeb960a1491479186f7
+title: R2101J-PDF-ENG
+---
+# Europe and Australia
 
-9%
+→ When long-term incentives (such as options, performance-based cash awards, and restricted stock) are factored in, CEO compensation is higher in the Americas than in the rest of the world.
 
-16%
+31%
 
-75%
+33%
 
-$16.7 M
+36%
+
+$6.2 M

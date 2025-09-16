@@ -1,11 +1,7 @@
-# SeanShot/Getty Images
-
-In an increasingly data-driven world, many companies, including
-
-Adobe, Morgan Stanley, and Goldman Sachs, have made the surprising
-
-move to do away with number-based performance reviews. Some have
-
-opted for more open-ended, narrative-based performance evaluations,
-
-while others have eliminated reviews completely, conducting regular
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d322b59c0b01b96198b440796f8d77dc16fd590b
+title: H08HAK-PDF-ENG
+---
+## Published on HBR.org / November 7, 2024 / Reprint H08HAK

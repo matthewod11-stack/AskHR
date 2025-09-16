@@ -1,7 +1,23 @@
-# 5.3 Results
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: e33e63ea509d17297aa89b08098e3cf1e755abad
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+# Performance .279*
 
-After the measuring model was deemed to be acceptable, we tested the main hypothesis using stepwise linear regression. First, we introduced control variables to the regression (tenure with the company, tenure in the position, and years of sales experience). In the following step we introduced the main effect (coaching) and assessed its effect on the dependent variable (performance) by analyzing whether the additional explained variance in the dependent variable was significant or not.
+.884 Performance AVE is the Average Variance Extracted. For each factor the square root of AVE is presented in the main diagonal Correlations above the main diagonal correspond to sample 1. Below the main diagonal correspond to sample2 * correlations are significant at 0.05 level (2-tailed)
 
-As hypothesized, coaching positively affects performance (β = .280, p < .05 for sample 1, and β = .200, p < .05 for sample 2) in support of our main hypothesis. The percentage of variance explained of the dependent variable once 2 = .062 for sample the effect of the control variables was eliminated was small but significant for both samples (∆radj 2 = .029 for sample 2) thus, suggesting that the use of coaching by the manager can have a significant 1 and ∆radj positive effect on salesperson performance (Table 4).
+5.804
 
-Table 4. Standardized regression weights and explained variance for the stepwise linear correlation
+.529
+
+.880
+
+.515
+
+.212*
+
+.718
+
+The fit indexes for the measuring model indicated a very good fit between the model and the data (Byrne, 2010; Kline, 2011) with χ2 = 119.44, p<.01; χ2 / df = 1.39; Comparative Fit Index (CFI) = .98; root mean square error of approximation (RMSEA) = .05, Hi 90 RMSEA = .07; Incremental Fit Index (IFI) = .98; and Tucker Lewis Index (TLI) = .97.

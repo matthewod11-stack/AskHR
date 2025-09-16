@@ -1,29 +1,17 @@
-# HBR / Digital Article / Research: The Benefits of Letting HR Decide Who Gets an Interv…
+---
+source_path: H08QAO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee0f8c2d72dec1cbcf120bd5e39e4de1ed1e9d81
+title: H08QAO-PDF-ENG
+---
+# Some Caveats
 
-study does not give any indication about how employees hired under
+While the intervention we studied proved an eﬀective way to improve
 
-the old or new hiring process fare in their subsequent organizational
+the hiring process for applicants and managers, challenges remain. Our
 
-lives—do they feel they ﬁt into the larger culture? We also lack data
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-on productivity levels and actual (team) performance. Our tests further
+4
 
-do not account for more subtle changes, such as those triggered by the
-
-increased interaction between HR and managers throughout the hiring
-
-process. While our study seems to have implications for improving
-
-diversity, we studied gender only, and can’t speak to how this change
-
-may impact other types of diversity, such as age or race.
-
-. . .
-
-Our ﬁndings suggest that letting HR select a ﬁrst round of candidates
-
-can lead to fairer outcomes—without forfeiting the nuanced knowledge
-
-that line managers possess by allowing them to retain control over the
-
-ﬁnal decision. With a small tweak, companies stand to reap the beneﬁts
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,13 @@
-# Towards Better Group Decision-Making
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6af19d2ba71ad00479b97884121804c1817534e9
+title: H08SUP-PDF-ENG
+---
+## HBR / Digital Article / Set Your Committees Up for Success
 
-Organizations seeking to improve the quality of their collective
+This led to greater information revelation which, more than voting
 
-judgments must look beyond selecting expert participants. They
+independence alone, appears to underlie the improvement in decision-
 
-need deliberate mechanisms that motivate members to surface and
+making performance.

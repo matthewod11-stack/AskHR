@@ -1,37 +1,35 @@
-## HBR / Digital Article / When Your Colleagues Have an Outdated Perception of You
+---
+source_path: H086B6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3835796cd11a307c85529fcc0c5bfaa81b823b8b
+title: H086B6-PDF-ENG
+---
+## George Mason University professor Sarah Wittman calls these “lingering
 
-Identify the perception gap. We all have words we’d use to describe ourselves. But how do others see us? Getting clear about the diﬀerences
+identities,” or old identities that persist rather than adapt to how we’re
 
-will help you understand the gap and design actions to close it.
+changing. Wittman shares that as we grow or change, our identity
 
-Take Sarah’s client Mike*, who was a long-tenured senior leader in
+transitions are often invisible — unless we do the work to help others
 
-a consumer-packaged goods company. He’d acquired a reputation for
+see our changes.
 
-being emotional and aggressive due to a few badly timed outbursts in
+While some research suggests that it can take as long as six years
 
-meetings. Soon, that perception was rooted in organizational lore and
+to shift these lingering ﬁrst (or early) impressions, in our experience,
 
-began to supersede present-day realities.
+it’s possible to change how others see you and reset the company
 
-Mike, however, was shocked when he learned others saw him as
+narrative about your contributions. Our clients have successfully used
 
-aggressive. Realizing the perception gap, he worked with Sarah to learn
+the following steps to increase their inﬂuence, change their leadership
 
-strategies to calm himself when he was getting agitated, channel his
+brand, and reposition themselves internally to better match the leader
 
-frustration into productive conversations, and get clear once again on
+they are today.
 
-the leader he wanted to be. He took ownership of the space between
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-whom others saw and who he wanted to be.
+2
 
-Align your actions. As long-term employees ascend the ranks, it’s
-
-not uncommon to have diﬃculty delegating and letting go of
-
-responsibilities that once made them successful. Holding on to long-
-
-held work assignments may help you feel productive, but it also means
-
-your colleagues are more likely to associate you with your previous role
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,7 @@
-# Communicate purpose and context
-
-Providing context for your inquiries and sharing your learning goals can
-
-help prevent misinterpretations. Clear, strategic communication is key
-
-to managing this learning mentality challenge. Before asking questions
-
-in meetings or discussions, brieﬂy explain your rationale and what you
-
-hope to achieve. This will position your questions as purposeful and
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7581f6fc2db8181295a2294d266051a729f0dab8
+title: H08B1C-PDF-ENG
+---
+# aligns with your intentions.

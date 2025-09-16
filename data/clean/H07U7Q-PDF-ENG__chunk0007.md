@@ -1,15 +1,17 @@
-# growth of the organization
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7c6d90d231432e8fa19ffb8ae320f139a35792d
+title: H07U7Q-PDF-ENG
+---
+# and mission
 
-“The New World of Work” explores how top-tier executives see the
+- How focusing on the happiness, growth, and development of
 
-future and how their companies are trying to set themselves up for
+employees not only leads to higher employee retention but improves
 
-success. Each week, Ignatius talks to a top leader on LinkedIn Live —
+customers’ experience
 
-previous interviews included Microsoft CEO Satya Nadella and former
+- While CEO roles can vary depending on the company, for Buechel the
 
-PepsiCo CEO Indra Nooyi. He also shares an inside look at these
-
-conversations —and solicits questions for future discussions — in a
-
-newsletter just for HBR subscribers. If you’re a subscriber, you can sign
+focus is primarily on internal leadership and supporting the vision and

@@ -1,17 +1,15 @@
-# respectivos trabalhos. Segundo ela, encontrar na bibliografia e, ao mesmo tempo, na
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 2f52509ac580d9e3d4a71136094a3c64feb1a931
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Um último ponto destacado pela funcionária entrevistada, que, de acordo com
 
-prática a comprovação de que o eNPS enquanto métrica era suficiente para se
+ela, foi crucial para a decisão pela utilização do eNPS como prática de gestão de
 
-41
+pessoas na companhia foi justamente a correlação encontrada entre outras medidas
 
-chegar à mesma resposta que antes necessitava de pesquisas muito mais longas e
+de engajamento utilizadas anteriormente e o índice do eNPS por meio de técnicas
 
-trabalhosas foi o estopim de que precisavam para ter segurança na hora de tomar
-
-essa decisão e mantê-la desde então.
-
-A nossa pesquisa era longa, perdíamos respondentes no meio do caminho. Além de trabalhoso, não era escalável. Empresas de rápido crescimento batem muito nessa tecla, se o que fazemos para 100 pessoas pode ser feito para 10.000, porque é isso que vivemos, viradas de chave intensas e frequentes. A pesquisa era um gargalo em termos de processo e de entrega final. Eu mesma pesquisei na literatura como agir, queria entender se fazia sentido o que ouvi nos benchs. E fazia. Simplifica o processo, garante escalabilidade, é uma metodologia aplicada em outro setor da empresa - e esse ponto é tão importante quanto ter metodologia científica por trás, que é se questionar se o alto escalão da empresa vai entender e abraçar o resultado da pesquisa - então fazia muito sentido. (Entrevistada)
-
-A pesquisa de clima utilizada anteriormente era, segundo a entrevistada,
-
-aplicada duas vezes ao ano, ao final de cada semestre. Não havia ferramenta
+estatísticas, o que reitera os achados de Legerstee (2013) e Sedlak (2020) em seus

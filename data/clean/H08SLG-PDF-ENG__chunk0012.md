@@ -1,13 +1,11 @@
-# How to Encourage Spacious Mode
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca14fa788669d65f6fc656e416bc09dbe61ecd5f
+title: H08SLG-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
 
-To give employees permission to spend time thinking, learning,
+leaders overestimate how approachable they are and how able those
 
-innovating, and collaborating, you’ll need to rethink how you
-
-communicate and which behaviors you reward. For example, Toni, a
-
-regional manager at a large U.S. retailer we spoke with during our research, counted herself lucky: “My chief people oﬃcer has a real sense
-
-of spaciousness around her and the way she shows up. I feel like I’ve got
-
-a lot of permission and protection from her in my role.”
+lower on the hierarchy are to choose their own course of action.

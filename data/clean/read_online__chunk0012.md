@@ -1,11 +1,11 @@
-# Original Research
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: d924cd929f1ab2b65dd429ced51855954b370308
+title: read_online
+---
+# in
 
-family commitments remain with a firm irrespective of differences in job satisfaction associated with work-life pressures. Whereas many of these relationships can be predicted, using a general theoretical model drawn across work contexts, we suggest that this cohort is not typical of general workers across contexts, given the unique historical context of the country which may have resulted in a new paradigm of work post 1994. On the basis of this logic, Hypothesis 1.a is derived: higher work-life balance conflict may be less likely to contribute to withdrawal intentions for older employees in part-time degree studies.
+On the other hand, those older in this cohort might have more experience in managing such pressures, and might in certain cases even have a motivational advantage. What is not clear, however, is whether older or younger individuals are relatively more vulnerable to withdrawal cognitions when their work-life balance is disrupted or reduced. It is not clear if older employees, in this specific cohort, with greater
 
-Boundary theory predicts that inter-role conflict can be reduced by adequately managing work and non-work commitments, through effective boundary management, or through the maintenance of temporal, physical, as well as (Clark 2000). Notwithstanding psychological borders attempts to manage it through boundary management, inter- role conflict can take the form of work–family conflict on account of either interference from family with work, or interference from work with family. Work–family conflict can result from time-based, strain-based and behaviour- based conflict (Greenhaus & Beutell 1985). Behaviour-based conflict refers to clashes in behaviour, when certain behaviours, deemed appropriate within the workplace context (for example assertiveness) can, in the family context, produce tension (Greenhaus & Beutell 1985). Time-based strain might be particularly problematic if gender roles place a disproportionate (and unfair) amount of time pressure on women (associated with family responsibilities, or the maintenance of a home, even without dependent children). It is not clear, however, what the extent is to which these family pressures differ by gender in their effect on the influence of work-life balance on withdrawal intentions, in this specific cohort. If women face gender-discriminatory burdens in family life, this might contribute to work-life balance conflict, but the extent to which this transmits to withdrawal cognitions is not clear in this context. Hypothesis 1.b is therefore offered: the relationship between work-life balance and intent to quit is moderated by gender.
-
-According to spillover theory, excessive time demands in either the family or work domains can result in spillover from family to work or from work to family (Edwards & Rothbard 2000). Nevertheless, an individual with more dependent children might be less risk-taking in their job-changing behaviour. On this basis, Hypothesis 1.c is derived: the relationship between work-life balance conflict and intent to quit may be weakened when an individual has more dependent children.
-
-Although time-based inter-role conflict theory suggests certain negative relationships between different roles, another theory suggests that these relationships can also be positive (Pradhan 2016). Carlson et al. (2006) suggest two mechanisms through which work–family enrichment can occur. The instrumental mechanism refers to conditions where resources attained in one role instantly enhance performance in a different role. The affective mechanism
-
-Open Access
+http://www.sajems.org

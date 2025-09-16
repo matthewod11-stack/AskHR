@@ -1,3 +1,11 @@
-# TABLE 1 Typical Clinic Schedule
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: 7d019e284f942c0c1d5687ba75cf58f0217a5494
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# Clinic Phase
 
-9:00 AM–9:55 AM: Introduction 10:00 AM–10:50 AM: Breakout Session 1: What You Need to Know as a Leader 10:55 AM–11:45 AM: Breakout Session 2: Handling Common Team Problems 11:50 AM–12:20 PM: Lunch 12:25 PM–12:50 PM: Breakout Session 3: Getting Your Questions Answered 12:55 PM–1:30 PM: Closing: Where to Go From Here
+The MHSAA offers several one-day captains’ leadership training clinics each fall and spring semester. Typically, 4 to 8 clinics are held per academic year throughout the state with between 100 and 200 athletes attending each time. Attendees include male and female, sophomore and junior high school athletes who have been purposefully selected to attend by their high school athletic departments. Some attendees are already captains. Others have not yet served in a formal captaincy role but have been identiﬁed as possessing the leadership potential to become one in the future. The athletes are bussed from school with chaperones, including coaches and athletic directors.
+
+Table 1 contains a typical clinic schedule. In the introductory session, each participant is provided with a six-chapter guidebook (i.e., Becoming an Effective Team Captain: Student-Athlete Guide) to complement the material presented in each session. A MHSAA presenter conducts an ice breaker activ- ity with the goal of alleviating anxiety about the day (e.g., Shoe activity—all youth take off one shoe and place in a massive pile, athletes pick up the shoe of another person, ﬁnd its owner, and get to know that person; Line- up activity—all youth line up in order according to their birthday with- out talking). The program’s purposes and expectations are outlined, with the bulk of the time spent emphasizing the importance of leadership and that leadership skills can be learned. These messages are conveyed through PowerPoint slides and DVD interviews with high school captains who dis- cuss their captaincy experiences, including the challenges they have faced. The focal point of the clinic is comprised of three breakout sessions. These typically consist of 20–25 clinic attendees randomly selected from dif- ferent schools. Breakout sessions are led by graduate students, faculty, and an occasional undergraduate intern involved in ISYS research and outreach.

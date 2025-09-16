@@ -1,9 +1,11 @@
-# Hill and Wang.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 111bca2a7188562deddb1238fe91ab83c1cb0b34
+title: untitled
+---
+# Chicago: University of Chicago Press.
 
-Williams, B. H. (1997). Coming together: The founding of the As- sociation of Black Psychologists. Dissertation Abstracts Inter- national (UMI Number: 9822882). Ann Arbor: University of Michigan.
+Walsh, M. (1985). Academic professional women organizing for change: The struggle in psychology. Journal of Social Issues, 41, 17–28.
 
-Williams, R. (1974). A history of the Association of Black Psychol- ogists: Early formation and development. Journal of Black Psy- chology, 1, 9–24.
-
-Wilpert, B. (2000). International Association of Applied Psychol- ogy. In A. E. Kazdin (Ed.), Encyclopedia of psychology (Vol. 4, pp. 336–337). Washington, DC: American Psychological Association.
-
-Wispe, L., Awkard, J., Hoffman, M., Ash, P., Hicks, L. H., & Porter, J. (1969). The Negro psychologist in America. American Psy- chologist, 24, 142–150.
+Wiebe, R. H. (1967). The search for order, 1877–1920. New York:

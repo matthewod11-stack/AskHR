@@ -1,7 +1,13 @@
-# and barriers. University of Phoenix.
+---
+source_path: international_journal_of_global.md
+pages: n/a-n/a
+chunk_id: 05b4d1ff34032aa527c53d9693145b4806ae4f99
+title: international_journal_of_global
+---
+## department. The College of St. Scholastica.
 
-Fulmer, R. M. (2002). Choose tomorrow’s leaders today. Graziadio Business Review, 5(1), 1–18.
+Eugene Fibuch, M. D., & Van Way III, C. W. (2012). Succession planning in health care organizations. Physician
 
-Grossman, C. S. (2014). Succession planning and knowledge transfer in higher education. Northcentral University.
+Executive, 38(5), 44.
 
-Hanson, B. (2013). The leadership development interface: Aligning leaders and organizations toward more effective
+Folkers, D. R. (2008). Succession planning and management in Nebraska state government: Perceptions, experiences,

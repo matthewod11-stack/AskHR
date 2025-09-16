@@ -1,19 +1,19 @@
-## employees. Typically, the extent of damage from breakthrough thinking
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3eeaab3ae81609d39a758bcf75dcfe94c6e0a174
+title: R2505M-PDF-ENG
+---
+## HBR / Magazine Article / Why You Need Systems Thinking Now
 
-is highest when it is applied to “wicked problems”—those that are
+When it works, breakthrough thinking delivers huge rewards for its
 
-constantly changing and hard to deﬁne and whose solutions involve diﬃcult trade-oﬀs. The more complex the ecosystem around the
+practitioners. But it can also create a lot of collateral damage. When
 
-problem, the more likely it is that the solution will impose economic
+Google rode roughshod over privacy and IP laws, it became the
 
-and social costs. So while breakthrough thinking is ideal if the problem
+target of a signiﬁcant public outcry and found itself facing many
 
-is clearly bounded—like getting a rocket into space—it won’t work well
+legal challenges. Uber put many taxi drivers out of business, and its
 
-when it comes to, say, ﬁxing the U.S. healthcare and education systems.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+gig workers lack many of the beneﬁts and protections of full-time

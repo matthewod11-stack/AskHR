@@ -1,9 +1,15 @@
-## the courage and curiosity of the employees and company leadership. To
+---
+source_path: H076XK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8e9656d544632d4f8311d9cdaa307eb57c03ccb
+title: H076XK-PDF-ENG
+---
+## Weber Shandwick’s values of courage, inclusion, curiosity, and impact
 
-be brave enough to take the leap into the unknown and open up these
+lend themselves particularly well to making this connection. The ritual
 
-challenging conversations is by deﬁnition courageous. And to create a
+of Time to Connect is the ideal way to bring personal and professional
 
-forum for people to listen to one another is an expression of curiosity.
+purpose together in one very powerful, shared experience based on the
 
-Employees have expressed gratitude that Time to Connect creates
+company’s values. The creation and endurance of this ritual speaks to

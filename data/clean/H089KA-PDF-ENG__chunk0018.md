@@ -1,7 +1,11 @@
-## relationships, whether organically or more structurally. Interview
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f1268e166631a87e0030d7f15ac0a52ce919e83
+title: H089KA-PDF-ENG
+---
+# accountability.
 
-participants highlighted onboarding buddy programs, hosting cross-
+- 1. Invest in programs that foster peer-based relationships.
 
-functional events, ERGs, and mentoring programs.
-
-Companies that may not have ERGs due to their size or budget can
+Companies should invest in programs that foster peer-based

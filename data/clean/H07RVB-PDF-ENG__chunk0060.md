@@ -1,5 +1,33 @@
-# community.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: defba14961d9f202d64faec8ce61aed9254eb38e
+title: H07RVB-PDF-ENG
+---
+## career to share my authenticity in that sphere as well.
 
-I don’t think metrics should be used against us though either. I think
+ADI IGNATIUS:
 
-they have to be used to say, “I would like to track all of the marginalized
+So I want to go to a question from Darcy from Wisconsin. What are your
+
+thoughts on incorporating metrics, performance measures, to include
+
+LGBTQ+ measurements of some kind? And if you think that’s good,
+
+what kind of metrics would you recommend?
+
+JIM FIELDING:
+
+It’s interesting, I’ve had this conversation in higher education. I do a lot
+
+of work in higher education where I would love to see on the admission
+
+forms or on applications if people chose to identify as a member
+
+of the queer community that we could actually track. Because even
+
+just self-identifying as a community and being actually able to track
+
+the percentage of students who identify with a particular community
+
+could help towards allocating resources and recognizing the size of the

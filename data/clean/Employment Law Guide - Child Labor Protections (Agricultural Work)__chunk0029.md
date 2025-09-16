@@ -1,7 +1,7 @@
-# Wage and Hour Division oﬃce and in subpart E-1 of Regulations, 29 CFR Part 570. By regulation, employers
-
-must keep records of the dates of birth of employees under age 19, their daily starting and quitting times, their daily and weekly hours of work, and their occupations.
-
-The FLSA also gives an employee the right to ﬁle a complaint with the Wage and Hour Division and testify or
-
-in other ways cooperate with an investigation or legal proceeding without being ﬁned or discriminated against in any other matter.
+---
+source_path: Employment Law Guide - Child Labor Protections (Agricultural Work).md
+pages: n/a-n/a
+chunk_id: e3826c9169800f20d641c828a76fba2d0e98b78a
+title: Employment Law Guide - Child Labor Protections (Agricultural Work)
+---
+# Detailed information on the occupations determined to be hazardous by the Secretary is available from a local

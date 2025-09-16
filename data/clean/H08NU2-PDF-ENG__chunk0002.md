@@ -1,11 +1,7 @@
-# Thomas Barwick/Getty Images
-
-The silo effect, characterized by limited communication between
-
-specialized business departments, has long been a pervasive issue
-
-in organizations. Multiple studies highlight the profound impact of
-
-silos: a Salesforce study revealed that 70% of customer experience
-
-professionals and executives view silo mentality as the biggest obstacle
+---
+source_path: H08NU2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9eb2aada6b3863c67794ec5f2e735ab950a5ae7c
+title: H08NU2-PDF-ENG
+---
+## Published on HBR.org / March 17, 2025 / Reprint H08NU2

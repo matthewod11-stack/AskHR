@@ -1,7 +1,11 @@
-# While competency models
+---
+source_path: sharp_diang7_06cx_good.md
+pages: n/a-n/a
+chunk_id: 8b33a312aeef92fc9d6b1df0b767123562f95392
+title: sharp_diang7_06cx_good
+---
+# skills, and behaviors
 
-have many applications,
+that would enable
 
-For the next phase, Sharp’s highest pri- ority will be to in- crease the use and application life span of the competency models. The com- petency models must be better integrated into the company’s selection and promotion procedures and its performance management process. There are different ways of achieving these goals, and part of the challenge will be matching options to the company’s culture, resources, and needs. TD
-
-some appealed more
+employees to achieve.

@@ -1,11 +1,21 @@
-## HBR / Digital Article / Do You Have an Emotionally Intelligent Team?
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e29719814a222b5b01f3df1d258c0d8a4c6c29d5
+title: H08UL7-PDF-ENG
+---
+## as SWOT analyses (Strengths, Weaknesses, Opportunities, Threats).
 
-Subsequent anonymous Team EI surveys revealed that the team felt
+Each meeting opened with a monthly open assessment of the team’s
 
-good about its progress. The team leader agreed. Most importantly, he
+progress, which included feedback from the team leader. They’d then
 
-stopped micro-managing his team members.
+discuss upcoming challenges and opportunities and brainstormed how
 
-Routinely talking to stakeholders. By taking the survey, one team
+to address them proactively.
 
-in the technology industry discovered that it was not reaching out
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

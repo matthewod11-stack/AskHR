@@ -1,21 +1,21 @@
-# England: Cambridge University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4887e0d59039b94a2f0ee64dc7e0c72db36b0a8d
+title: untitled
+---
+## behavior. American Psychologist, 15, 1–18.
 
-Boring, E. G. (1912). Note on the negative reaction under light- adaptation in the planarian. Journal of Animal Behavior, 2, 229–248.
+Beauchamp, G. K., Yamazaki, K., & Boyse, E. A. (1985). The chemosensory recognition of genetic individuality. Scientiﬁc American, 253(1), 86–92.
 
-Cadwallader, T. C. (1984). Neglected aspects of the evolution of American comparative and animal psychology. In G. Greenberg & E. Tobach (Eds.), Behavioral evolution and integrative levels (pp. 15–48). Hillsdale, NJ: Erlbaum.
+Beck, B. B., & Castro, M. I. (1994). Environments for endangered primates. In E. F. Gibbons Jr., E. J. Wyers, E. Waters, & E. Menzel (Eds.), Naturalistic environments in captivity for animal behavior research (pp. 259–270). Albany, NY: SUNY Press.
 
-Call, J., & Tomasello, M. (1994). Production and comprehension of referential pointing by orangutans (Pongo pygmaeus). Journal of Comparative Psychology, 108, 307–317.
+Beer, C. G. (1975). Was Professor Lehrman an ethologist? Animal
 
-Carpenter, C. R. (1934). A ﬁeld study of the behavioral and social relations of howling monkeys (Alouatta palliata). Comparative Psychology Monographs, 10(48), 1–168.
+Behaviour, 23, 957–964.
 
-Chiszar, D. A. (1990). The behavior of the brown tree snake: Astudy in applied comparative psychology. In D. A. Dewsbury (Ed.), Contemporary issues in comparative psychology (pp. 101–123). Sunderland, MA: Sinauer.
+Bitterman, M. E. (1965). The evolution of intelligence. Scientiﬁc
 
-Coburn, C. A., & Yerkes, R. M. (1915). A study of the behavior of the crow Corvus americanus Aud. by the multiple choice method. Journal of Animal Behavior, 5, 75–114.
+American, 212(1), 92–100.
 
-Cole, L. W. (1910). Reactions of frogs to chlorides of sodium, potassium, ammonium, and lithium. Journal of Comparative Neurology and Psychology, 20, 601–614.
-
-Conradi, E. (1905). Song and call-notes of English sparrows when reared by canaries. American Journal of Psychology, 16, 190–198.
-
-Cosm ides, L., & Tooby, J. (1987). From evolution to behavior: Evolutionary psychology as the missing link. In J. Dupré (Ed.),
-
-81
+Boakes, R. (1984). From Darwin to behaviourism. Cambridge,

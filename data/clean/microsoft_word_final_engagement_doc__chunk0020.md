@@ -1,1 +1,9 @@
-# V. Case Study Examples
+---
+source_path: microsoft_word_final_engagement_doc.md
+pages: n/a-n/a
+chunk_id: c5f437993a24bef8fe838f909866397e561fa7da
+title: microsoft_word_final_engagement_doc
+---
+# IV. Conclusion
+
+This brief has examined the concepts of employee engagement, how it is measured, how prevalent it is, the financial benefits of engagement, and how the workplace can change to move in the direction of greater employee engagement and company success. The level of employee engagement can range from high to low depending on the individual employee. This variability in work engagement is related to key aspects of company performance and is influenced by many aspects of organizational structure and functioning. Although engagement is expressed by individual workers through their work performance, their work behavior is often a reflection of the kind of organizational environment where they are working. Thus, even though promoting greater engagement can be done at the level of the individual employee (through better manager communication and appropriate use of EAP and mental health services), it appears equally important to improve employee engagement through effective leadership and actions at the organizational level. To promote higher levels of employee engagement, companies must make themselves the kinds of organizations with which employees want to engage.

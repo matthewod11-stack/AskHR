@@ -1,9 +1,27 @@
-# HBR / Digital Article / Research: Are You Penalizing Your Best Employees for Unplugg…
+---
+source_path: H08PTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12975cce89873bef039878910723755e9b560b84
+title: H08PTC-PDF-ENG
+---
+# The Research
 
-Managers consistently reported that the employee who disconnected
+Across 16 studies with 7,800 of participants, we explored a simple
 
-from work over the weekend would be more recharged and more
+question: How are employees who try to switch oﬀ from work during
 
-productive upon their return, thus recognizing the beneﬁts of
+non-work hours perceived?
 
-detachment on employee performance. However, they also penalized
+In controlled experiments, we presented managers with proﬁles of
+
+employees who were identical in quality (i.e., past annual evaluations)
+
+but varied in their use of detachment strategies. For example, one employee left an out-of-oﬃce reply during a weekend getaway while
+
+the other employee did not.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,17 @@
-## HBR / Digital Article / What the Best Leadership Teams Do Right
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87d8386401cffedfd68900d4e0bb014511fd55da
+title: H08FW4-PDF-ENG
+---
+## performance (revenue, proﬁtability, and shareholder return) and strong
 
-Top leaders intuitively understand that when their team functions
+executive team performance. But only 20% of executive teams in that
 
-well, it has a positive ripple eﬀect across the organization. But when
+study were shown to be high performing.
 
-they struggle to work well together, that same ripple eﬀect can create
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,9 @@
-## 5.(cid:32) Barriers to Accessing Legal Recourse:
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: b90ce99ebf64c7e3af8018568674f346a18eb0e0
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+# 4.(cid:32) Lack of State-Level Support:
 
-Logistical, financial, or psychological disadvantages inhibit those with disabilities from pursuing a claim under law. Particularly vulnerable groups might find the process of getting through with the EEOC, consulting the help of legal representation, and suffering through protracted proceedings especially challenging. These obstructions are an indication that, though ADA is a strong arm legislation, its implementation continues to lack coherence and diligence across the board. Unless the funding, cross-agency communication, and legal clarity can be reformed, the disparities in ADA application will probably only continue.
-
-- 4. Comparative Analysis of ADA Implementation Across States
-
-4.1 Methodology for State Comparison Analysis of the implementation of the Americans with Disabilities Act (ADA) in the United States is a multi-dimensional process. The part will use a mixed-methods comparative approach to the synthesis of both qualitative and quantitative data. To measure disparities, the following indicators were used to assess the states (West et al., 2023):
-
-©2025, Cognizance Journal, ZAIN Publications, Fridhemsgatan 62, 112 46, Stockholm, Sweden, All Rights Reserved 213
+Although the federal laws are enforced in some states with additional agencies of disability rights and judicial protection of the rights, there are states that lack administrative power or political motivation. This leads to a disjointed enforcement environment in which access to justice is highly limited by state-level infrastructure.

@@ -1,15 +1,11 @@
-## vision into clear, actionable communication.
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e8242a97b66a7f851b09e3d15ae3165d001c05e
+title: H08PPX-PDF-ENG
+---
+## connection between inclusion and healthcare quality.
 
-Organizations often use acronyms like SWOT, SMART, and DEI to
+- 3. Craft a purpose-driven narrative instead of using vague catch- all terms.
 
-distill complex ideas into simple frameworks. While this approach can
-
-enhance clarity, it also has unintended consequences. Grouping distinct
-
-concepts under a single umbrella term can obscure critical diﬀerences,
-
-create confusion, and oversimplify nuanced issues.
-
-This consequence is especially true for DEI. Over time, the acronym
-
-has become politicized, diluted, and even weaponized, often reducing
+One of the biggest challenges leaders face is translating an abstract

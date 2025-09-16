@@ -1,11 +1,13 @@
-## HBR / Digital Article / 3 Ways Humility Can Undermine Your Leadership
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a10739ff15f5fe411dd6ea3f6a87968e26ac8f05
+title: H081LX-PDF-ENG
+---
+# team’s capacity and resilience.
 
-Seen through this lens, eﬀective delegation itself becomes an act of
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-humility: It requires a leader to empower their team, trusting them to
+5
 
-rise to the challenge and fostering an environment where everyone can
-
-excel. This nuanced understanding of humility encourages leaders to
-
-balance their responsibilities and liberate their teams to realize their full
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,15 @@
-# . The credibility of the system once
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: b6986df901ed6f52ad09b0015b7915062ddea1e0
+title: journal_of_european_industrial_training
+---
+# Recommendations
 
-introduced must be maintained. This requires careful consideration of issues of confidentiality and access to the 3608 data. Typically, the recipient is the only individual to receive a copy of the feedback in the organisation. However, this can lead to a lack of motivation to use the feedback report. If the 3608 feedback process is used for managerial decision making, confidentiality and access become problematic.
+While the evidence is reassuring for organisations considering using 3608 feedback, there are a number of important issues that need to be considered to enable an organisation to adopt multi-rater feedback effectively, including: . The focus of the 3608 feedback process must be clear to all employees who are part of the feedback system ± the developmental nature of the programme must be clearly communicated and understood.
 
-. The process must have the support of senior management who themselves should take part in giving and receiving feedback and encourage all other managers to do the same. There must be a real determination to use the feedback
+. Clear guidance must be given to the
 
-data as the basis for individual development planning. The research evidence clearly highlights that no employee should feel threatened by the process and, at all times, the integrity of the system must be ensured.
+recipients regarding what they should do with the feedback. This will usually require the organisation to put in place some form of development planning and career management processes to enable recipients to translate the feedback into appropriate development and career plans.
 
-Kane and Lawler (1978, p. 584) state that ``rather than having any one level do the entire assessment of a person's performance, it is better to have each level contribute to the assessment of the portion that it is able to perform more effectively than any other level''. Indeed, this statement can be considered one of the earlier recommendations in the literature to use multiple raters in the performance appraisal process rather than any one source. The practice of 3608 feedback per se has taken some time to gain momentum but many authors argue that it will become a commonplace HRD activity as we enter the twenty-first century.
+. Raters must be afforded the opportunity to observe the various behaviours that are being rated; raters should be able to accurately perceive and interpret the salient aspects of the ratee's performance; and raters have to perceive the need to improve the effectiveness of the behaviour that is being assessed.

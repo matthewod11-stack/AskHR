@@ -1,5 +1,11 @@
-# score: 65%]
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 1173c41d44d46801057085043b786f6cda4fde3e
+title: agents_companion
+---
+## traction control." [Confidence score: 71%]
 
-Safety Tips Agent Response: "If you experience aquaplaning, ease off the accelerator,
+General Knowledge Agent Response: "Aquaplaning occurs when your tires lose contact
 
-avoid sudden braking or steering, and gently steer in the direction you want to go until you
+with the road surface due to water buildup between the tires and the road." [Confidence

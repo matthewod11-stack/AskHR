@@ -1,13 +1,13 @@
-## through the continuous identiﬁcation and systematic resolution of
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 721bb3bc3e5efb024f0f4715be6713cb3f2b0737
+title: H08TKY-PDF-ENG
+---
+## Go deeper: “Curveball: Strategies to Fool the Competition,” by George
 
-strategic issues. This helps companies produce more, better, and faster
+Stalk, Jr. (2006)
 
-decisions using the following guidelines:
+[ D ]
 
-- Separate—but integrate—decision-making and plan making. Take
-
-decisions out of the traditional planning process and create a diﬀerent,
-
-parallel process for developing strategy that helps executives identify
-
-the decisions they need to make to create more shareholder value over
+Decision-focused strategic planning: A way of reaching decisions

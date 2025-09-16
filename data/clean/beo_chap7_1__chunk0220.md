@@ -1,15 +1,11 @@
-# Wiley.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 5d6a760cbc87211043b43d955a70c622a6478bdf
+title: beo_chap7_1
+---
+# Working Paper 4849.
 
-Hertel, G., and N. Kerr. 2001. Priming in-group favoritism: the impact of normative scripts
+Hermalin, B. 2001. Economics and corporate culture. In The International Handbook of
 
-in the minimal group paradigm. Journal of Experimental Social Psychology 37:316~-24.
-
-Holmstrom, B., and S. Kaplan. 2001. Corporate governance and merger activity in the United
-
-States: making sense of the 1980s and 1990s. Journal of Economic Perspectives 15(2):121~
-
-44,
-
-Holmstrém, B., and P. Milgrom. 1991. Muiti-task principal_agent analyses: incentive con-
-
-tracts, asset ownership, and job design. Journal of Law, Economics, and Organization
+Organizational Culture and Climate (ed. C. L. Cooper, 8. Cartwright, and P. C. Earley).

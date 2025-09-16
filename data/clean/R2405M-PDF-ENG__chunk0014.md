@@ -1,15 +1,19 @@
-# A Very Direct Proposal
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca471882c18c42bb39ec25a8ac6e97189951eba5
+title: R2405M-PDF-ENG
+---
+## division heads, and meet with some of our key bankers and partners.”
 
-Once they had settled at a table in their favorite restaurant in the
+His daughter interrupted him. “Papa, it’s Aminata now,” she said,
 
-Plateau district of Abidjan, Aminata started to share the real reason
+tilting her head toward the driver to make clear how she wanted to be addressed in front of company staﬀers. “And that’s very kind. But before
 
-for her visit. “Papa and Uncle, I know you would like me to return
+we do all that, I would like a morning with you both to introduce some
 
-home. It’s clear what a great company you have built and how you worry
+ideas I have for Assoua Group.”
 
-about your legacy. But here’s my problem,” she said with uncommon
+“Of course,” Koﬃ replied.
 
-directness. “I’ve made a life in Europe. I’m respected for my talents and accomplishments, and I’ve just been oﬀered a substantial new position
-
-with P&L responsibilities. It would be a step backward to return to
+“Yes, my dear,” Yao echoed. “Whatever makes you happy!”

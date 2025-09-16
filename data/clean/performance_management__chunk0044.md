@@ -1,7 +1,11 @@
-## Sources of Appraisals and 360- Degree Feedback
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: 0da8f63e32b0fae991f7a77a46c8d52225f95d3a
+title: performance_management
+---
+# Legal Issues
 
-For good overviews of 360-degree feedback, seeD.W.Bracken,C.W.Timmreck,andA.H. Church (Eds.), The Handbook of Multi-Source Feedback (San Francisco, CA: Jossey-Bass, 2001), and J. W. Smither (Ed.), Performance Appraisals: A State of the Art in Practice (San Francisco, CA: Jossey-Bass, 1998).
+For a discussion of the legal ramiﬁcations of performance appraisal, see D. Martin, K. Bartol, and P. Kehoe, ‘‘The Legal Rami- ﬁcations of Performance Appraisal: The Growing Signiﬁcance,’’ Public Personnel Management, 2000, 29, 379–406. To gain a better understanding of ways that organiza- tions are likely to win their court cases, see J. M. Werner and M. C. Bolino, ‘‘Explaining U.S. Courts of Appeals Decisions Involving Performance Appraisal: Accuracy, Fairness, and Validation,’’ Personnel Psychology, 1997, 50, 1–24.
 
-Shorter introductions include D. Anto- nioni, ‘‘Designing an Effective 360-degree Appraisal Feedback Process,’’ in Organiza- tional Dynamics, 1996, Autumn, 24–38; M. A. Peiperl, ‘‘Getting 360 Feedback Right,’’ in Harvard Business Review, 2001, January, 142–147; and L. E. Atwater and D. A. Wald- man, ‘‘Accountability in 360-degree Feed- back,’’ in HRMagazine, 1998, May, 96–104.
-
-You should look out for the pitfalls of multisource feedback detailed in the follow- ing reviews: D. A. Waldman, L. E. Atwater, and D. Antonioni, ‘‘Has 360-Degree Feed- back Gone Amok?’’ in Academy of Manage- ment Executive, 1998, 12, 86–94; and J. Ghorpade, ‘‘Managing Five Paradoxes of 360-Degree Feedback,’’ in Academy of Man- agement Executive, 2000, 14, 140–150.
+trol of Bias in Ratings: A Theory of Rating,’’ Personnel Psychology, 1982, 35, 521–551.

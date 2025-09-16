@@ -1,7 +1,9 @@
-# personal comfort.
+---
+source_path: H07AXI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2f482cce6265135c9c5cb5fecb1ca229d867a4a
+title: H07AXI-PDF-ENG
+---
+## HBR / Digital Article / How LinkedIn Redesigned Its HQ for Hybrid Work
 
-This was an important way to ensure that many of the employees
-
-from underrepresented groups, who prefer to work from home because
-
-it involves less code-switching, also feel comfortable returning to the oﬃce.
+unedited selves to work, reducing formality in favor of authenticity and

@@ -1,5 +1,9 @@
-# 86 ORGANIZATIONAL DYNAMICS
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: 146d243350d842c09735a62ee1bcd8f97fcf037e
+title: performance_management
+---
+## Motivating Appraisers and Performance Management
 
-View publication stats View publication stats
-
-Supervisors, Managers, Mentors, and Feedback Givers, 3rd ed. (Minneapolis, MN: Lominger Limited, 2002); and M. Goldsmith, L. Lyons, A. Freas, and R. Witherspoon(Eds.), Coaching for Leadership: How the World’s Greatest Coa- ches Help Leaders Learn (San Francisco, CA: Jossey-Bass, 2000). A clear overview of goal setting is provided by E. Locke and G. P. Latham, ‘‘Building a Practically Useful The- ory of Goal Setting and Task Motivation: A 35-Year Odyssey,’’ American Psychologist, 2002, 57, 705–717.
+For overviews on executive coaching, see B. Peltier, The Psychology of Executive Coaching: Theory and Application (Philadelphia, PA: Brunner-Routledge, 2001); M. M. Lombardo and R. W. Eichinger, For Your Improvement: A Development and Coaching Guide for Learners,

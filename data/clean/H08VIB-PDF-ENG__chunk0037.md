@@ -1,11 +1,13 @@
-## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3eaa90cf70267446f126ffb2353f6f76b486353f
+title: H08VIB-PDF-ENG
+---
+# reﬂections in real time.
 
-Take the example of David, a manager facilitating a workshop with
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-20 participants focused on identifying use cases for robotics within
+8
 
-their company. David asked everyone to bring their laptops so they
-
-could access AI throughout the session. During the ideation phase,
-
-participants run a prompt crafted by David, “You (Generative AI)
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

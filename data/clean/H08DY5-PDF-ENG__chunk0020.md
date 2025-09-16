@@ -1,7 +1,13 @@
-# customers.
+---
+source_path: H08DY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6acffc2fc0e2d66ccf69a93d6f7f6bfe3d63e27
+title: H08DY5-PDF-ENG
+---
+## just in your customer service practices, but across your organization
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+— in your marketing and customer communications. This not only
 
-4
+telegraphs to customers with disabilities that they are valued, but also
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that your company is genuinely committed to the inclusivity of all its

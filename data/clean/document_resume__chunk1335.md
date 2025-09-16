@@ -1,5 +1,11 @@
-# B Ciiculation
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 24ee2cc50de9528afb6769e3bef8bcaa4a779eec
+title: document_resume
+---
+# Physicial Processing
 
-PCT 20%
+PCT 35%
 
-Carry ng out prescribed procedures, and accurately maintaining reccrds regarding the borrowing of books and other materials by library users.
+Creating and maintaining revords, and correctly performing related tasks needed to facilitate locating and obtaining library materials.

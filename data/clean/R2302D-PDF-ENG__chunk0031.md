@@ -1,15 +1,31 @@
-# continuity.”
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c88ddce59f6002d0fb40c70f3a694ab2c8d6e1ac
+title: R2302D-PDF-ENG
+---
+# “associates.”
 
-Focusing on individuals is not enough, because it’s in the relationships among people where many connections fray under the novel strains of hybrid work.
+- 2. What is special about the people we employ, the jobs we do, and the
 
-To that end Mars, like many other companies, instituted companywide
+customers we serve? This question gets at what makes your company
 
-beneﬁts that supported all employees impacted by Covid. But it also
+unique. Think long and hard about it. Ultimately the decisions you
 
-encouraged its factories to be creative in addressing the operational
+make about the redesign of work will have to do more than just align
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+with your values. They will have to support these speciﬁc traits.
 
-7
+Early in the pandemic the executive team at Mars Wrigley grasped
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the importance of understanding the needs of speciﬁc groups of
+
+associates. From the outset it focused on factory workers, who make
+
+up a signiﬁcant proportion of the company’s workforce. “Our priority,”
+
+says Mike Carabok, the vice president of global supply at Mars Wrigley
+
+Confectionery, “was to ensure the health and well-being of associates,
+
+to minimize spread [of the coronavirus] while maintaining business

@@ -1,15 +1,11 @@
-# Preparing the Organization
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1cc8768db746d64d96e2138349d5a8587bb176d7
+title: R2501G-PDF-ENG
+---
+## HBR / Magazine Article / Want Your Company to Get Better at Experimentation?
 
-In organizations that have not adopted experimentation, product teams
+complex experiments and analyzing company data in light of past test
 
-are generally evaluated according to whether they launch new products.
-
-When they start experimenting, too often the criterion becomes the
-
-number of “successful” experiments run. Unfortunately, that makes
-
-employees risk-averse, so they run too few experiments. Scaling up
-
-experimentation, therefore, requires changing incentives. Companies
-
-should evaluate employees on the basis of the overall performance of
+results to identify new possibilities for product initiatives.

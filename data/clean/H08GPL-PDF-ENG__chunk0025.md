@@ -1,11 +1,7 @@
-# More Resources
-
-- Managing an Underperformer Who Thinks They’re Doing Great
-
-- Overcome Your Fear of Giving Feedback
-
-- 3 Ways to Compassionately Hold Your Team Accountable
-
-- HBR Guide to Performance Management (HBR Press book)
-
-- The Giving Feedback with Conﬁdence Collection: Overcome Your Fear
+---
+source_path: H08GPL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d05df66a6ddec3ae0ce6b7d4f23cfb9dc457773
+title: H08GPL-PDF-ENG
+---
+## enhance performance, culture, motivation, and team dynamics.

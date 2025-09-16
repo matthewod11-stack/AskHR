@@ -1,63 +1,71 @@
+---
+source_path: H08RGL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17e883030cc30eaa035fb9d3c5d4af1bf84f46f6
+title: H08RGL-PDF-ENG
+---
 ## HBR / Digital Article / Research: When Help Isn’t Helpful
 
-environment of psychological safety—the knowledge that it is safe to
+subordinates to be open about their struggles and then listen carefully
 
-take interpersonal risks (such as asking for help when you need it).
+to what they hear. Leaders can focus these conversations around
 
-Leaders can foster psychological safety in several ways. First, they
+questions like “what are the obstacles that might prevent you
 
-can encourage employees to discuss problems and areas where they
+from reaching a goal on time?” and “what would be the expected
 
-need help—and praise those that do. Second, they can admit their
+deliverable from a colleague you may bring into this project?” When an
 
-own errors and struggles. Third, they can accurately frame the work,
+organization’s projects require creativity and learning, many employees
 
-telling employees when they expect that tasks will require buy-in from
+aren’t actually aware of what they need. Formulating the problem and
 
-others. When leaders normalize asking for help in clear, tangible ways—
+clarifying the help required is an important work task.
 
-and encourage others to do so as well—it can help change the culture,
+Additionally, organizations need to acknowledge that clarifying a
 
-making explicit asks feel less impolite and more standard fare.
+problem is progress. Both givers and receivers who have clarifying
 
-- 3. Close the Loop and Show Your Gratitude
+conversations should be praised and recognized. Just as doctors are
 
-In our research, we were surprised at how often help-givers didn’t know
+valued for their clear and correct diagnoses, so too should leaders and
 
-the ends of their own stories. They’d chipped in on a project but then
+other help-givers. Sometimes, understanding employees’ struggles is
 
-didn’t know how their contributions aﬀected the ﬁnal outcome.
+the most important work that needs to be done.
 
-Most people say “thank you” when they receive help. That’s good—
+- 2. Avoid the Politeness Trap
 
-we should feel and express our gratitude for those that help us. But
+In our research, we found that politeness is a hidden cause of poor-
 
-helpers often want more than momentary gratitude. They want to see
+quality help. Asking for help is akin to asking for a favor, so everyone
 
-the impact of their labor—how did it aﬀect the ﬁnal output?
+wants to do it politely. But sometimes, help-seekers are so deferential
 
-Besides genuinely wanting to provide value, people also help one
+that they make their requests vague, asking for general “input” or
 
-another in hopes of building relationships. That’s why leaders,
+nonspeciﬁc “feedback.” Such “fuzzy asks” can feel polite and deferential
 
-managers, project leads, and anyone asking for help should close the
+because pointed requests seem too bossy.
 
-loop after they receive it. Especially on big projects, it’s important to
+But help-givers aren’t mind readers. For any problem, there are a
 
-keep track of those that helped along the way. One impactful way to do
+thousand ways to help. Do you want new ideas that might send you
 
-this is to send contributors the ﬁnal product and point out how they,
+back to the drawing board? Or are you looking for minor feedback that
 
-speciﬁcally, made a diﬀerence.
+you can use quickly? It is possible to do this politely. Your helpers will
 
-For leaders, actively aﬃrming the diﬀerent ways that their staﬀ
+appreciate the direction and can be honest with you about whether they
 
-members have contributed—and asking managers too as well—will not
+can deliver.
 
-only make these workers feel appreciated and helpful. It is also likely to
+Senior leaders play an important role in making sure that their
+
+employees don’t fall into the politeness trap by fostering an
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

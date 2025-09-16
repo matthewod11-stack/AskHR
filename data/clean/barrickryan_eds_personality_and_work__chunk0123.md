@@ -1,11 +1,13 @@
-# 24 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 56a6d0f3f4d7a4720e8fd24db965c0b8b21f11b4
+title: barrickryan_eds_personality_and_work
+---
+## ual. Champaign, IL: Institute for Personality and Ability Testing.
 
-De Raad, B., & Szirmák, Z. (1994). The search for the “Big Five” in a non- Indo-European language: The Hungarian trait structure and its re- lationship to the EPQ and the PTS. European Review of Applied Psychology, 44, 17–26.
+Costa, P. T., & McCrae, R. R. (1992). Revised NEO Personality Inventory (NEO PI-R) and NEO Five-Factor Inventory (NEO-FFI) professional man- ual. Odessa, FL: Psychological Assessment Resources.
 
-Di Blas, L., & Forzi, M. (1998). An alternative taxonomic study of per- sonality descriptors in the Italian language. European Journal of Per- sonality, 12, 75–101.
+Crutcher, R. (1931). Personality and reason. London: Favil. Deary, I. J. (1996). A (latent) Big Five personality model in 1915? A re- analysis of Webb’s data. Journal of Personality and Social Psychology, 71, 992–1005.
 
-Di Blas, L., & Forzi, M. (1999). Reﬁning a descriptive structure of per- sonality attributes in the Italian language: The abridged Big Three circumplex structure. Journal of Personality and Social Psychology, 76, 451–481.
-
-Digman, J. M. (1990). Personality structure: Emergence of the Five-Factor Model. In M. R. Rosenzweig & L. W. Porter (Eds.), Annual review of psychology (Vol. 41, pp. 417–440). Palo Alto, CA: Annual Reviews.
-
-Digman, J. M. (1997). Higher order factors of the Big Five. Journal of Per-
+De Raad, B., Di Blas, L., & Perugini, M. (1997). Two independent Italian trait taxonomies: Comparisons with Italian and between Italian Ger- manic languages. European Journal of Personality, 11, 167–185.

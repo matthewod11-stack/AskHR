@@ -1,3 +1,9 @@
-# Key Words: Talent, Talent development, Talent management, Talent development tool
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 140e9452ef6e38f7d0c2f755f039f695ee52c134
+title: final_2019_jan_feb_jbs_pmd
+---
+# Abstract
 
-- 1. Introduction Human capital is regarded vital for an organization in order to gain edge over its competitors (Price, 2004); an indispensable entity that is available for a premium for organizations and becoming scarce resource (Kim and McLean 2012; Pruis 2011; Lockwood 2006)every passing day. It is illustrated in Talent Shortage Survey conducted by ManpowerGroup in 2018 that reported shortage of talent for the key leadership roles in 67% of the large organizations across the world. These talent ‘gaps’, ‘crunch’ or ‘shortage’ have hindered the business advancement (Collings and Mellahi 2009) by impacting on its operating costs, bottom-line Rajeev Ranjan Mishra* Research Scholar, Faculty of Hospitality & Tourism, Amity University, Uttar Pradesh Dr. Piyush Sharma** Associate Professor, Faculty of Hospitality & Tourism, Amity University, Uttar Pradesh Dr. Sanjeev Kumar*** Assistant Professor, IHTM, M.D. University, Rohtak
+Although talent development is increasingly needed in organizations, there is skepticism about its notion in blueprint and reality. This paper probes and extends better understanding into the disparity on the dissimilarities of the notion, meanings and approach to talent development. It also examines the range of tools available to organizations for development. Gaining inferences from a series of research papers, it revealed that talent development is an important constituent of the complete mechanism of talent management. The study underline d why talent development has proved crucial to the success of an organization, whether in prosperity or adversity. The restrictions faced by organizations in the implementation of TD strate gy have also been discussed. Though the study is exclusively qualitative in its essence; it highlights avenues for future studies. This study will help training professionals in dealing with certain problems and challenges that lead to the management and development of talent at work.

@@ -1,5 +1,13 @@
-## CLIENT RESISTANCE AND TREATMENT EFFECTIVENESS
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 16bd49789da66b4aa647a5126f9d69a29ed3279a
+title: untitled
+---
+## CLINICAL PROBLEMS FREQUENTLY PRESENTED IN THERAPY
 
-There were signiﬁcantly fewer reported sources of resistance in 1992 than in 1986, (i.e., 39% versus 61%, respectively; n (cid:2) 159). For example, attendance was one of the categories reported less frequently in 1986. Client dropout rates and length of treatment have been commonly reported problems by both white and non-white therapists working with ethnic minority clients (Sue, Zane, & Young, 1994). Based on our results, it appears that therapists in 1992 were better prepared to deal with resistance than those responding in 1986.
+Our survey asked respondents how frequently 11 clinical problems were presented by clients representing ﬁve ethnic groups. A signiﬁcant increase from 1986 to 1992 was re- ported among African American clients for the following
 
-Training signiﬁcantly contributed to the work of therapists in 1992. Half of those surveyed (n (cid:2) 87) indicated that they had received training that was helpful in understanding the therapeutic needs of ethnic minorities.
+four clinical problems: alcoholism, anxiety, health-related problems, and work-related problems. For Latinos, alco- holism was the only clinical problem showing a signiﬁcant increase. Signiﬁcant increases in the reporting of health- related problems and work-related problems were found for Asian American clients. For Native American clients, signif- icant increases were found on 5 of the 11 commonly reported clinical problems: health-related problems, marital/family related problems, stress-related problems, and work-related problems. No signiﬁcant differences were found for clinical problems reported to white versus non-white therapists.
+
+There is a considerable body of literature (Turner, 1996) on ethnic/cultural differences in symptomatology for depres- sion as well as on treatment considerations for anxiety disor- ders and associated stress-related conditions. Asian American clients most frequently presented marital/family problems in therapy, which may be associated with cultural traditions that place a high value on respecting one’s elders and a collective approach to decision making that emphasizes the good of the family versus the well being of the individual.

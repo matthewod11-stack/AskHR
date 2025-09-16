@@ -1,7 +1,9 @@
-## an added value to your previous or current role.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f39dbc66c0db8fdca2eebdaafae943906c143dbb
+title: H08GNF-PDF-ENG
+---
+# communication.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Incorporate unique value: Talk about how your unique skill brought

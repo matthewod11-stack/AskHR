@@ -1,23 +1,41 @@
-## the team member with the most pertinent expertise sways decisions.
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74cfb8d5c780c64b5bf9c70e7faa73156944f93c
+title: R2302E-PDF-ENG
+---
+## HBR / Magazine Article / You Need Two Leadership Gears
 
-For all those reasons, their teams perform better.
+Look at how much airtime you get. We’ve found that leaders often talk too much in meetings where everyone is supposed to contribute.
 
-In their study Neeley and Reiche tracked 115 senior leaders at a global
+Like good jazz players, successful leaders excel at both exerting their
 
-U.S.-based tech consulting company. Most of them were responsible for
+power and relinquishing it at the appropriate times. We saw this at one
 
-selling and implementing projects in countries where they had little
+start-up where the CEO told his team he was “horrible at sales” and
 
-experience. The leaders who were rated as top performers by their
+invited one of the women on it to take the lead at a meeting to draw up
 
-superiors and got more promotions routinely ﬂattened the hierarchy.
+the sales strategy. She steered the conversation, and he jumped in only
 
-They practiced “downward deference”: working side by side with
+occasionally with questions. At the end of the meeting the CEO took
 
-employees rather than lording power over them. Like the Brazilian
+control back, adding a few things to her list, telling her what to do next,
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+and then securing commitment from everyone in the room to support
 
-6
+the new strategy. This approach ensured that every team member would
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+follow up and help turn the new strategy into organizational action.
+
+Recognize that sharing power doesn’t diminish your authority. Many
+
+leaders fear that encouraging others to voice opinions and make
+
+decisions will weaken their own standing. But there is good evidence—
+
+including a study by Tsedal Neeley and B. Sebastian Reiche—that the
+
+opposite is true. Leaders who know when and how to cede power earn
+
+respect and commitment. The best people want to work for them, and

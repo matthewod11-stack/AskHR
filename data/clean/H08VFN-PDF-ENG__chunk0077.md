@@ -1,7 +1,15 @@
-## the scenario, the cadre’s challenges, and their own responses.
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a54dee4ccbe280ba77cb85b832a8f8f1ce06e90
+title: H08VFN-PDF-ENG
+---
+## disorganization, or one of the other diagnostic indicators of leadership
 
-The following day, have the student meet with cadre to review the
+failure (see “The Four Reasons” above), stop the exercise immediately.
 
-hot wash. The review’s purpose is to pinpoint the root cause of the
+Congratulate the student on pushing themselves to failure. Then ask the
 
-leadership failure, helping the student identify which leadership skill—
+student to go to another room and perform a “hot wash” in which they
+
+write down everything they can remember about the exercise, including

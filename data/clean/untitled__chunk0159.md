@@ -1,5 +1,13 @@
-# Deﬁning Psychology and Its Methods
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d0a773078cd6bfcdf6a89401318158b70057fbf2
+title: untitled
+---
+## The Psychological Laboratory and the Psychological Experiment
 
-Changes in the psychological experiment in apparatus and methods and the shift in roles of observer and experimenter
+Inferential statistics was unknown until the twentieth cen- tury: Student’s “t” test for comparing mean scores from two groups appeared in 1908. Analysis of variance tests were de- vised in the 1920s (Smith et al., 2000) but did not become a common part of psychological research designs until the 1930s (Rucci & Tweney, 1980).
 
-9
+With the publication of his Experimental Psychology (1938), R. S. Woodworth “introduced a clear distinction between experimental and correlational research” (Winston, 1990, p. 391). The critical distinction made between the two kinds of research was that only in experimental work could the cause of behavior be determined by manipulation of an independent variable; the deﬁnition “provided one powerful rationale for the animal research of the thirties, forties, and ﬁfties” (Winston, 1990, p. 397) because manipulations of “causal” variables in animal research provided fewer ethical or practical problems than research with humans. The search for causes of behavior and the theoretical models of learning embodied this deﬁnition of the psychological experiment as the means of testing hypotheses. This model of the experi- ment helped to establish prescriptions for the use of t-tests and analyses of variance as the statistical treatments of choice for the results of experiments, while correlational techniques and regression analyses were utilized by those interested in individual differences.
+
+The methodology of research and standards for analyzing and reporting results of experiments in keeping with psychol- ogy’s status as a science is reﬂected in the standardization of the reports of experiments and the deﬁnition of the experi- ment. The model for reports of empirical research for publi- cation in journals of the American Psychological Association evolved from a six-and-a-half-page style sheet published in 1929 (Bently et al., 1929) to the 1983 American Psychologi- cal Association Publication Manual (3rd edition) that con- tained about 200 pages of rules for preparing a manuscript (Bazerman, 1987) to the current ﬁfth edition of the manual (2001) of 439 pages. Reports initially emphasized either how quantitative experimental results might aid in understanding philosophical problems or simply let complex data speak for themselves (Bazerman, 1987). The emphasis on hypothesis testing and statistical analyses of comparisons between con- trol and experimental group performance that later came to dominate experimental design and instructions to authors preparing manuscripts reﬂected the success of Woodworth’s deﬁnition of what constituted an experiment in psychology.

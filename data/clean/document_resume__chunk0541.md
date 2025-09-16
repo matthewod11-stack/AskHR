@@ -1,7 +1,9 @@
-# Ibid.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 8322940ea7cceeb7a4357a0290d8e4cf8a87604b
+title: document_resume
+---
+## Personnel Psychology 30 (Summer 1977), pp. 167-174.
 
-American Psychological Association, DINision of Industrial-Organizational Psychology, Principles for the Validation and L'Ae tdPersonnel Selection Prot edures 2nd ed. (Berkeley, CA. Author, 1980), p. 4.
-
-6.
-
-7.
+5.

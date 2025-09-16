@@ -1,15 +1,11 @@
-## “ZQs” or “Zero Questioners” and talks about the important balance of
+---
+source_path: H08HRO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2882b758ff0ddfff859d959f3e9845289d076da0
+title: H08HRO-PDF-ENG
+---
+## professor at Harvard Business School and author of the new book Talk:
 
-speaking versus listening in a conversation.
+The Science of Conversation and the Art of Being Ourselves, coined a term
 
-So maybe it’s you. But maybe it’s not you. It’s easy to assume we’re
-
-the cause of someone’s distraction, but often, external factors are at
-
-play. Think about what you know about this person. Is something going
-
-on in this person’s life? Are they facing a lot of pressure inside or outside
-
-of work? Their distraction might have nothing to do with you. Give them
-
-the beneﬁt of the doubt before responding.
+for people who don’t ask questions in a conversation. She calls them

@@ -1,3 +1,7 @@
-## The Field of I/O Psychology Diff erences Between I/O and Business Programs
-
-Major Fields of I/O Psychology Brief History of I/O Psychology Employment of I/O Psychologists
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f81dfbc1053efef8bd8b87843fd34aaf885caa54
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Introduction to I/O Psychology

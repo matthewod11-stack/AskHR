@@ -1,13 +1,17 @@
-# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48830898db5083df088732e951118d6ac70b1197
+title: H08H7H-PDF-ENG
+---
+# coworker relationships.
 
-examine how the glimpses of coworkers’ nonwork lives seen through video calls aﬀect relationships. We found that these virtual interactions
+Our research, recently published in the Academy of Management
 
-can make employees see each other as more authentic, human,
+Journal, draws upon archival, ﬁeld, and experimental studies to
 
-and trustworthy — all qualities that lead to stronger personal and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-professional bonds. Our work provides a more balanced view into the
+2
 
-inﬂuence of remote work on how employees relate with each other. We draw upon our ﬁndings to oﬀer research-backed suggestions to
-
-managers grappling with the potential beneﬁts — and costs — of RTO
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

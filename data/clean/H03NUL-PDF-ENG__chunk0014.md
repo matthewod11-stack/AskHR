@@ -1,15 +1,21 @@
-# social media accounts and cell phones.
+---
+source_path: H03NUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 66c1d889504d627b63425d4b2498f6189a03ca6a
+title: H03NUL-PDF-ENG
+---
+# HBR / Digital Article / Tech Companies Should Speak Up for Refugees, Not Only High-S…
 
-Trump has talked about creating a database to identify and register
+The sector should extend these eﬀorts by making sure its technologies
 
-Muslims in America, including refugees. A number of companies,
+aren’t used to target broad groups of people based on nationality or
 
-including IBM, Microsoft, and Salesforce, have stated they will not help
+religion. Already the U.S. Customs and Border Protection (CPB) is asking
 
-build a Muslim registry if asked by the government. In addition, a
+for the social media accounts — even passwords — of visitors from
 
-group of nearly 3,000 American tech employees signed an online pledge
+other counties. The Council on American-Islamic Relations has ﬁled
 
-promising they would not develop data processing systems to help the
+complaints against the CPB, stating that Muslim American citizens have
 
-U.S. government target individuals based on race, religion, or national
+been subjected to enhanced screening that includes scrutiny of their

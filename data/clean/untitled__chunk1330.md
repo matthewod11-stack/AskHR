@@ -1,5 +1,9 @@
-# Chicago: University of Chicago Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 65ae05d1902e65a74bfeedf47dd02c40738b5ceb
+title: untitled
+---
+# University Press.
 
-Rothbart, M., & Bates, J. E. (1998). Temperament. In W. Damon (Series Ed.) & N. Eisenberg (Vol. Ed.), Handbook of child psy- chology: Social, emotion, and personality development (Vol. 3, pp. 105–176). New York: Wiley.
-
-Saarni, C. (1999). The development of emotional competence. New
+Ross, D. (1972). G. Stanley Hill: The psychologist as prophet.

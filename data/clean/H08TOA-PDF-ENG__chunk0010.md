@@ -1,15 +1,45 @@
-# your people.
+---
+source_path: H08TOA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b0694ae3d63d7b0161dbeae5b2172a9ab500d4b
+title: H08TOA-PDF-ENG
+---
+# Analyze
 
-Should not delegate. These tasks are core to your job and rely on your skill set and position to be eﬀectively executed. If you are able
+Once you have at least two weeks of data, start reviewing how you spent
 
-to delegate tasks in the other two categories, you will have more time
+your time. Categorize the tasks into the following four categories:
 
-to spend on these activities. For example, a CEO I coached lamented
+Should delegate. These are tasks that could be handed over to someone
 
-that he didn’t have any “strategic thinking” time because of all of the
+else without too much diﬃculty. Don’t be surprised by the number
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+of tasks you see here. For example, you might be preparing monthly
 
-4
+or quarterly reports (like Mike was) or attending meetings that should
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+actually be your direct report’s responsibility. These may even be carry
+
+over tasks you brought with you from a prior role or tasks you inherited
+
+from your predecessor that you never questioned.
+
+Could delegate. These are tasks that could be given to someone else, but giving them up could take some time and eﬀort. You may realize
+
+that some of these tasks are on your plate because you feel like there
+
+isn’t anyone on your team who has enough skills or experience to do the task, which leads to you keeping it. For example, a diﬀerent CFO
+
+I coach (Tina) would prepare the annual budget presentations for the
+
+company president herself because she worried that her employees did
+
+not have enough expertise or experience with such reports and wouldn’t
+
+complete them to her standards. I had to point out that they weren’t
+
+going to learn how to prepare the presentations if she kept doing it for
+
+them. And the good news is that taking time to teach someone to do something generally pays oﬀ within a few weeks or months (depending
+
+on the activity), both in terms of reallocating your time and growing

@@ -1,27 +1,17 @@
-# Why Teams Don’t Always Work
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0d45f7797b05ffae0822efce7ede17fffbb615dd
+title: industrial_organizational_psychology_an_applied_approach
+---
+# How Teams Develop
 
-Given that the scientific literature suggests that teams are seldom more effective than individuals (Allen & Hecht, ), there has been an abundance of advice in the literature about how to create successful teams. In a study investigating this advice, Hyatt and Ruddy () found that customer service teams were most effective when they received the necessary support from management (e.g., infor- mation, technology, training), had confidence in their ability to complete their tasks; were customer oriented; exhibited an open, supportive, and professional communication style; had set appropriate goals; and followed an agreed-upon
+In an influential theory of team development, Tuckman () proposed that teams typically go through four developmental phases: forming, storming, norm- ing, and performing. In the forming stage, team members get to know each other and decide what roles each member will play. During the early part of this stage, team members are on their best behavior as they try to impress and get along with the other team members. Team members are often excited about the poten- tial to accomplish something but are also anxious about working with others in a team. During the later part of this stage, the team concentrates on clarifying its mission, determining the goals it wants to accomplish, deciding on the tasks to be done to accomplish their goals, setting rules and procedures, and developing alternative courses of action to reach their goals (Marks, Mathieu, & Zaccaro, ). A meta-analysis by Salas, Mullen, Rozell, and Driskell () indicates that formal team building (training on how to be a team) that focuses on role clarifica- tion will slightly improve team performance.
 
-group behavior, teams, and conflict
+During the storming stage, the good behavior disappears. On an individual level, team members often become frustrated with their roles, show the stress of balancing their previous duties with their new team responsibilities, and question whether they have the ability to accomplish the goals set in the forming stage. Interpersonally, team members begin to disagree with one another and to challenge each other’s ideas. It is from this tension and conflict that the team often gets the energy to perform well in later stages.
 
-495
+During the norming stage, the team works toward easing the tension from the storming stage. Team members begin to acknowledge the reality of the team by accepting the team leader and working directly with other team members to solve difficulties. At this point, team members have either accepted their initial roles or made adjustments to roles for which they are better suited.
 
-496
+In the performing stage, the team begins to accomplish its goals. Group members make innovative suggestions, challenge one another without defensive responses, and participate at high levels. During this stage, the team continually monitors its progress toward goals, determines additional resources that might be needed, provides assistance and feedback to team members, and makes neces- sary strategic adjustments (Marks et al., ).
 
-chapter 
-
-group process. Moran, Musselwhite, and Zenger () identified  common problems encountered by teams. Let’s look at the six most important ones.
-
-The Team Is Not a Team Consistent with the previous discussion, teams often aren’t successful because they are teams in name only.
-
-Excessive Meeting Requirements A common problem with teams is that they either meet too infrequently or meet so often that they waste time when they do meet. The key to successful team meetings is to limit the topics to be discussed and to meet only when the entire team is needed to contribute. Furthermore, teams often feel the need to meet for the entire time for which a meeting is scheduled, even though the necessary busi- ness could be conducted in much less time. This tendency to “stretch” a meeting can reduce the motivation and enthusiasm of a team.
-
-As an example of the tendency to meet too often, I was placed on one of several teams whose task it was to address specific problems facing the univer- sity. Our team leader (committee chair) wanted us to meet every Wednesday at  o’clock until our task was completed. Because of the nature of our task, weeks might pass before we had anything new to bring to the group. Yet we still met every Wednesday. After four weeks, attendance at the meetings dropped to about %. When our angry team leader confronted our team members, she was shocked to hear such comments as, “These weekly meetings are a waste of time” and “I always attend the important meetings, just not the worthless ones.”
-
-I was on another committee that demonstrated the tendency to stretch meetings. The committee comprised  people and met one Friday a month from : p.m. to : p.m. When the dean ran the meetings, they always ended at exactly : p.m. When the dean was out of town, the committee’s vice-chair (the second in command, not the person in charge of vice) would start the meetings by saying, “Let’s do our business and get out of here.” On these occasions, we never stayed past : p.m.
-
-Lack of Empowerment Many teams are formed to solve problems but are not given sufficient authority to conduct their business. According to Moran et al. (), teams aren’t empowered because managers worry that the job won’t be done correctly, the teams are moving too fast, and the teams will overstep their boundaries such that other parts of the organization will be affected. This last managerial concern is especially important because as teams work to solve problems, their solutions often involve many dif- ferent departments. If the teams are not properly empowered, they will lack the authority to overcome the political resistance of each affected department.
-
-Though empowerment is essential for the success of most teams, it is not uncommon for team members to reject their empowered status. After all, with the advantages of empowerment come the risks of making mistakes and getting others angry. To many employees, these risks override the benefits of empowerment.
-
-Lack of Skill It is assumed that members assigned to a team have the skills necessary to effectively carry out their assignment. Unfortunately, this is often not the case (Yandrick, a). What is most common is for team members to lack either the skills needed to work in a team (e.g., communication, problem solving) or the
+Although this theory of team development is commonly used, as one would imagine, there is tremendous variation in how a given team will develop. An alternate theory, called punctuated equilibrium, suggests that rather than forming in stages, teams develop direction and strategy in the first meeting, follow this direction for a period of time, and then drastically revise their strategy about half way through the life of the team (Gersick, ).

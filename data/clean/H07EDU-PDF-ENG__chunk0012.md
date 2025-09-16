@@ -1,15 +1,21 @@
-## can simultaneously and instantly alert tens of thousands of employees
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9c3b76738410767a46946d8ddf39c1fe11dbc5a
+title: H07EDU-PDF-ENG
+---
+# What’s Different About Layoffs Today
 
-around the world to news of a layoﬀ. Whether companies want it this
+Those ﬁndings haven’t changed in the last four years. What’s diﬀerent
 
-way or not, communication is simultaneously internal and external,
+now is the larger social landscape in which today’s layoﬀs are unfolding. To make intelligent and humane staﬃng decisions in today’s economic
 
-spreading from employees to social media, journalists, and trade media
+turmoil, leaders must ﬁrst understand three recent trends.
 
-that serve speciﬁc industries and the people who work in them.
+Word travels faster. In the traditional pre-pandemic oﬃce environment, news of a reduction
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+in force might have spread as workers saw the upset faces of their
 
-2
+colleagues emerging from an unexpected meeting with their boss.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Today colleagues may be dispersed, but a single Slack or Teams message

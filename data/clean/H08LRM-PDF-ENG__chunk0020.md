@@ -1,9 +1,17 @@
-## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e77efb54c721ddae8bb3c7ba3f3ce2c9068975d6
+title: H08LRM-PDF-ENG
+---
+# harried work to-do lists.
 
-better. Indeed, high-eﬀort activities can be extraordinarily restorative.
+Their sabbaticals might not sound like fun, but I found that, from
 
-As Aarti explained, “Writing that book was one of the most emotional
+a well-being perspective, achievers come away feeling signiﬁcantly
 
-experiences of my life — akin to when I ﬁrst looked at my newborn
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-son.” The only regret she had was not taking a beat or two to rest at the
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

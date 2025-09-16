@@ -1,31 +1,25 @@
-## HBR / Digital Article / Worried About Impending Layoffs?
+---
+source_path: H07POT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4df4051bf2eb1cf1acc4e55c5f75e9f27d856bb
+title: H07POT-PDF-ENG
+---
+## slowing, despite the robust economy and continued growth in new jobs.
 
-You might think your job isn’t currently at risk. But with tens of
+According to Layoﬀs.fyi, tech companies slashed more than 187,000
 
-thousands of employees from scores of employers having lost their jobs
+positions in 2023 alone, compared to 80,000 in March to December
 
-since the beginning of the year, it’s well worth asking two questions: Am
+2020 and 15,000 in 2021. And it’s not just tech that’s feeling the pain —
 
-I next? And if I might be, what should I do to prepare?
+signiﬁcant cuts have come from a wide range of sectors and blue-chip
 
-While you may assume that you’re simply at the mercy of your
+companies including the Gap, Disney, LinkedIn, FedEx, Dow, 3M, and
 
-employer when it comes to the ﬁrst question, there’s a lot you can do
+Wayfair, to name a few.
 
-to strengthen your professional guardrails even if your job doesn’t end
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-up on the chopping block. Based on my 12 years of experience coaching
+1
 
-employees who were laid oﬀ, I’ve seen that the time to prepare is before
-
-you’re gripped by the shock and anxiety of a layoﬀ, when cooler heads
-
-tend not to prevail. Here are some ways to get started:
-
-Update your branding materials.
-
-Just as it’s important to maintain your health by getting periodic check-
-
-ups, you should also update your resume and LinkedIn proﬁle regularly.
-
-It’s a prudent best practice to take care of these updates before you need
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

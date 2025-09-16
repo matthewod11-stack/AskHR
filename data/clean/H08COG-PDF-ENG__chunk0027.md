@@ -1,17 +1,15 @@
-# worth.
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6f3b88ceec0ad4d6f86f05796a6bddd59113284
+title: H08COG-PDF-ENG
+---
+# invent Post-It notes).
 
-Gather information on evaluators’ reference points.
+However, viewing contention as a sign of ambiguity rather than
 
-Ask evaluators questions such as: What ideas are you comparing this
+negativity may help you also see hidden opportunity, in addition to risk.
 
-new idea to? On what grounds did you ﬁnd those reference points
+We propose using conﬂicting feedback as a sign that you need to explore
 
-successful or unsuccessful? What would success look like with this idea?
-
-What would failure look like?
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the criteria upon which evaluators are making decisions about an idea’s

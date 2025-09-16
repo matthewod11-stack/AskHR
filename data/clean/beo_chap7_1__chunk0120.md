@@ -1,43 +1,37 @@
-# hypothesis”: in corporate takeovers the overconfidence of individual decision makers
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 6b450bd7cd3e14d51cb15a62effede3a49335665
+title: beo_chap7_1
+---
+# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
 
-often results in bidding firms paying too much for their targets. What he had in mind
+merger and other corporate decisions. And, finally, a third factor contributing to the
 
-is a type of winner’s curse in merger fights. Roll’s hubris hypothesis may be best
+occurrence of overconfidence within the top management team is the lack of clear
 
-summarized by a famous quote from the 1981 Berkshire Hathaway Annual Report:
+measures or benchmarks for good and bad decisions. Overconfidence has been found
 
-Many managements apparently were overexposed in impressionable childhood
+to be strongest when it is difficult to compare performance across individuals and
 
-years to the story in which the imprisoned handsome prince is released from a
+when the reference point is abstract (Alicke et al. 1995). Given the amount of noise
 
-toad’s body by a kiss from a beautiful princess. Consequently, they are certain
+in stock prices, and the long horizon over which good and bad investments pay off
 
-their managerial kiss will do wonders for the profitability of Company T[arget]....
+or fail, there is little clear feedback that would shake a CEQ’s overconfidence.
 
-We’ve observed many kisses but very few miracles. Nevertheless, many managerial
+It is thus not surprising that experimental studies have found that executives are
 
-princesses remain serenely confident about the future potency of their kisses-~even
+particularly prone to display overconfidence, both in terms of the better-than-average
 
-after their corporate backyards are knee-deep in unresponsive toads.
+effect and in terms of underestimating risk (Larwood and Whittaker 1977; Moore
 
-(Taken from Weston et al. 1998)
+1977). Overconfidence, in the form of the better-than-average effect, also affects
 
-Confirming this hypothesis, Malmendier and Tate (2003) find that a firm is indeed
+the attribution of causality. Because individuals expect their behavior to produce
 
-significantly more likely to acquire another firm if the CEO is overconfident. In a
+success, they are more likely to attribute good outcomes to their actions, but bad outcomes to (bad) luck.”3
 
-sample of CEOs from Forbes 500 companies in the 1980s and the first half of the
+But how important are such biases in real-world corporate decision-making? Roll
 
-1990s, Malmendier and Tate find that overconfident CEOs are about 1.7 times as
-
-likely to conduct a merger in any given year as their rational counterpart. Here,
-
-the measurement of overconfidence is not based on responses to questions, but on
-
-actual personal portfolio decisions. The authors point to the high degree of under-
-
-diversification, which high-ranking executives face due to their stock-based com-
-
-pensation and the investment of their human capital in their firm, and argue that
-
-23 Miller and Ross (1975) provide a critical review of the abundant psychology literature on self-serving
+(1986) was one of the first to link overconfidence to mergers. He proposed a “hubris

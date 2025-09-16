@@ -1,5 +1,23 @@
-## incorrect conclusions or complications during the analysis phase
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 9f553e93c9afd8df9edb408483f954ba5bf236e1
+title: i
+---
+# Figure 9: Process View of Data Analytics
 
-Subsequently, data can be explored and evaluated using interactive tables, charts, and
+Source Mularzl and Ulku (2014) Diagram based on the original model of Liberatore and Luo
 
-dashboards. These tools for summarizing and visualizing data allow for the integration of
+(2010)
+
+According to the model of Liberatore and Luo, 2010, the analytics process initiates with data
+
+collection, a phase wherein information is gathered. Often, data necessitates certain
+
+adjustments prior to its application in the analysis stage. Typically, data is sourced from
+
+multiple origins, and it necessitates manipulation and arrangement to compile all pertinent and
+
+valuable information necessary for further examination. Although data collection can be time-
+
+intensive, its meticulous execution is vital, as inaccurate, or erroneous data could result in

@@ -1,5 +1,11 @@
-# McGraw-Hill.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 57f04fa8c1f1b0853a0ee641080f05ac9a61e228
+title: untitled
+---
+# report. New York: Basic Books.
 
-Lubove, R. (1965). The professional altruist: The emergence of social work as a career, 1880–1930. Cambridge, MA: Harvard University Press.
+Leonard, W. E. (1927). The locomotive-god. New York: Century.
 
-Lundberg, G. A. (1926). Case work and the statistical method.
+Lewin, K. (1935). A dynamic theory of personality. New York:

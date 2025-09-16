@@ -1,21 +1,15 @@
-## HBR / Digital Article / New Research on Why Teams Overwork—and What Leaders Can…
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81a8a5226d52048ed3e241bd3f8943ea8ac02378
+title: H08T5A-PDF-ENG
+---
+## curb these extreme work hours—no-email-after-hours policies, mental
 
-Our forthcoming research reveals a powerful and often overlooked
+health initiatives, or wellness seminars—so often fail?
 
-mechanism driving this behavior: the “entrainment cycle.” Drawing on
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-more than 150 interviews in global law and accounting ﬁrms, we found
+1
 
-that professionals become emotionally and physically synchronized
-
-with their organization’s relentless tempo, creating a powerful feedback
-
-loop that locks them into a culture of overwork.
-
-While high-tempo work cultures may appear eﬃcient and proﬁtable in
-
-the short term, the long-term costs for organizations are substantial—
-
-and often underestimated. These can include burnout-driven attrition
-
-(particularly among high performers); limited space and time for
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

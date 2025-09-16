@@ -1,9 +1,11 @@
-# communication.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11bbd5de51375621a38545eea69c0d9a784bf958
+title: H08R51-PDF-ENG
+---
+## deadlines, and expectations of constant availability.
 
-When job demands consistently outpace resources, employees
+- Job Resources: Factors supporting employees in managing these
 
-experience higher rates of presenteeism, burnout, absenteeism,
-
-diminished productivity, and lower job satisfaction. Conversely,
-
-balanced demands and adequate resources boost motivation,
+demands, including scheduling and location ﬂexibility, decision autonomy, clear managerial support, backup staﬃng, and open

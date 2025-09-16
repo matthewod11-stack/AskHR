@@ -1,15 +1,17 @@
-## study as part of the “Elgar Encyclopedia of Leadership.” Our aim
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9209eb91f558c4fac3524d1b72088815a71d13ed
+title: H08VNO-PDF-ENG
+---
+# don’t align with the message.
 
-was to explore how senior leaders deﬁne, express, and operationalize
+Culture shapes everything from decision-making norms to employee
 
-culture—and how those eﬀorts are interpreted by the people in the
+engagement, brand perception to risk tolerance. When it’s mismanaged,
 
-organization. Over 18 months, we engaged 164 senior leaders across
+organizations don’t just lose trust; they lose traction.
 
-North America, Europe, and Asia, from organizations in private,
+That paradox became the starting point for our research. To understand
 
-public, and non-proﬁt sectors. Leaders were selected based on their
-
-active involvement in shaping cultural initiatives or overseeing major
-
-cultural change. Through in-depth interviews, team conversations,
+how culture plays out in real time, we conducted a cross-national

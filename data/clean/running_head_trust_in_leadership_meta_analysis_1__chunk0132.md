@@ -1,29 +1,23 @@
-# nature of leadership styles.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 9ba800b72a321485fc4fa8abc72cf819e7a32502
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-Take for example, servant leadership which is typically conceptualised as a multi-
+cognitive trust in followers, while ethical leaders are best able to develop affective trust.
 
-dimensional construct. The most common measure of servant leadership (Liden et al., 2008
+These findings help in mapping the differing nomological networks of cognitive and affective
 
-scale) includes seven dimensions: emotional healing, creating value for the community,
+bases of trust in terms of differing relationships with antecedents. Going forward, our results
 
-conceptual skills, empowering, helping subordinates, grow and succeed, putting subordinates
+also highlight a means for the leadership literature to address current critiques by refining
 
-first, behaving ethically. As servant leadership is multi-faceted, the link with the two bases of
+theoretical and empirical investigations of leadership to establish a more accurate picture of
 
-trust is likely to be through different dimensions. One could argue servant leaders create trust
+distinct effects. Exploring differential effects for the dimensions of a given style would allow
 
-by acting with integrity and ethics (thus suggestive of an important link to cognitive trust).
+for less overlap and more specific, granular predictions in terms of outcomes. It is likely that,
 
-However, the care and concern implied by other aspects of the style (such as the
-
-empowerment component) may be germane for building affective trust. Such a discussion
-
-portrays the complexities of trying to tease out the differential nature of the relationship for a
-
-given leadership style with the bases of trust. In Appendix C (online), we offer a table that
-
-indicates the strength of the theoretical link between the dimensions of a given style with
-
-cognitive and affective trust as well as LMX quality. Any efforts to further test these links
-
-should go hand in hand with improved study design that can reduce endogeneity biases and
+such efforts would reveal a more nuanced and complex picture due to the multi-faceted

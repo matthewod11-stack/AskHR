@@ -1,17 +1,27 @@
-## HBR / Digital Article / 7 Questions to Decode Your Manager’s Priorities
+---
+source_path: H08ME9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2a8b21637399cb00188da61b18117be0325db24
+title: H08ME9-PDF-ENG
+---
+# Westend61/Getty Images
 
-Your boss likely isn’t trying to be diﬃcult. Many managers receive
+You probably know that to succeed in your role, you need to align with
 
-unclear direction from their own leadership. Some have never learned
+your manager’s priorities. In an ideal world, all leaders would be clear
 
-how to articulate a vision or translate big-picture goals into day-to-day
+about their expectations and proactive about sharing what’s on their
 
-directives. Others are overwhelmed and simply don’t have time to think
+mind. But in reality, most bosses can be frustratingly vague. They might
 
-strategically about what they really need from their team.
+launch into a rambling explanation that leaves you more confused than
 
-Learning to get into your boss’s head may sound like additional
+when you started. Or perhaps you’re told to “just keep doing what you’re
 
-emotional labor, but it actually puts you in control of your career
+doing” or brusquely brushed oﬀ as they rush to their next commitment.
 
-satisfaction. When you can decode their needs, you can prioritize
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,9 @@
-# ogy. Psychological Review, 4, 116.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 006ae2e20a04da6b3f024c99320ff26279ee2861
+title: untitled
+---
+## tions. Journal of Experimental Psychology, 3, 1–14.
 
-Witmer, L. (1907a). A case of chronic bad spelling: Anesia visualis verbalis, due to arrest of post-natal development. Psychological Clinic, 1, 53–64.
-
-Witmer, L. (1907b). Clinical psychology. Psychological Clinic, 1,
-
-1–9.
-
-Witmer, L. (1909–1910). The restoration of children of the slums.
+Witmer, L. (1897). The organization of practical work in psychol-

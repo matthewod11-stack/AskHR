@@ -1,43 +1,19 @@
-## or promotion decisions, the lived experiences of disabled employees
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c54831f04139e3333e75b29525655aa192d6d300
+title: H08HIY-PDF-ENG
+---
+## and neurological) encounter more stigma than “visible” disabilities
 
-also involve biases on the job. One context in which this can unfold
+(such as amputations and paralysis). Although there has been a
 
-is in professional negotiations. The prototypical image of a successful
+growing awareness and conscious eﬀort to destigmatize mental
 
-negotiator is someone who is competent, conﬁdent, and in control —
+health disabilities in recent years, tremendous bias still exists with
 
-characteristics that are not always readily applied to disabled people.
+consequences for employment, income, and levels of stress. In addition,
 
-Are disabled people more stigmatized in an intense job task, such as
+research suggests that disabled women face even harsher penalties.
 
-a potentially contentious, price-based negotiation? If so, is this stigma
-
-more pronounced for women and/or those with an invisible disability?
-
-To answer these questions, in partnership with the Rutgers Center
-
-for Women in Business, we had more than 2,000 people complete an
-
-online experiment. Participants were ﬁrst provided with background
-
-information about a ﬁctitious company they supposedly worked for and
-
-about a speciﬁc employee named Alex. An image of Alex was provided,
-
-and about half of our participants saw an image of a man, while the
-
-other half saw one of a woman.
-
-Participants were told that they would read a partial transcript of a
-
-negotiation and then be asked to provide their opinion about Alex,
-
-described as a colleague who had been on the job for about a year and
-
-was being asked to lead an important negotiation for the ﬁrst time about
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+While disability studies often focus on bias at the level of employment

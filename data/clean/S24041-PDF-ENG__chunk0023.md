@@ -1,11 +1,15 @@
-# use power and inﬂuence skillfully.
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8e6d1e7e9deb5ee7899d9c2b9267e347fda10c5
+title: S24041-PDF-ENG
+---
+## HBR / Spotlight Article / Power, Influence, and CEO Succession
 
-To be sure, any new CEO, whether she takes over during a strategic
+most to gain or lose. If things break down, the board can ﬁnd someone
 
-succession, a forced succession, or a planned succession, will need to
+else while keeping (or bringing back) the incumbent CEO or asking a
 
-ﬁgure out how to inﬂuence others in order to implement her agenda.
+director to serve as interim CEO. But for the successor, failure often
 
-With that in mind, here are the key approaches that will improve the
-
-new leader’s chances of success.
+means a disrupted career and a damaged reputation. She therefore must

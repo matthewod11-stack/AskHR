@@ -1,3 +1,9 @@
-# REFERENCES 172
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d12f85e0fe828561534f9c372ff9ea30ad2cfbe3
+title: untitled
+---
+## William James’s Question 171 How Many Theories?
 
-I shall brieﬂy sketch the prehistory of emotion, describing some of the highlights that led up to the nineteenth century and the adoption by psychologists of modern, “scientiﬁc” at- titudes and goals. The advent of a determinedly scientiﬁc psychology and the age of modernism occupy prominent late- nineteenth-century positions that coincide with a major shift in the psychology of emotion—the contribution of William James. Consequently, I let James lead us into the modern age and its two dominant—and as yet unreconciled—traditions of the organic and mental approaches to emotion. I end with a discussion of the contemporary scene and its precursors. A more extended treatment of such topics in the history of emo- tion as animal studies, the neurophysiology of emotion, phenomenology, and literary allusions may be found in such important secondary sources as Gardiner et al. (1937) and Ruckmick (1936). For a discussion of emotions in the con- text of literature and social history, but not psychology, see Elster (1999).
+172

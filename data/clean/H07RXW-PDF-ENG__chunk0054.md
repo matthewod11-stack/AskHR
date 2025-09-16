@@ -1,13 +1,17 @@
-# HBR / Digital Article / Is Organizational Hierarchy Getting in the Way of Innovation?
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cf5ccec1e72849b16c5af743aeb049c39b54f8e
+title: H07RXW-PDF-ENG
+---
+# agility) lead to success?
 
-Depending on where an area of the business sits on the matrix, you may
+You can think of these as a two-by-two matrix:
 
-want to embrace a diﬀerent approach.
+See more HBR charts in Data & Visuals on HBR.org.
 
-For those on the bottom left, maintaining a traditional, centralized,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-hierarchical model probably makes the most sense. Think of the
+10
 
-engineers manufacturing missiles or airplane propulsion systems.
-
-On the bottom right, you may want to encourage more
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

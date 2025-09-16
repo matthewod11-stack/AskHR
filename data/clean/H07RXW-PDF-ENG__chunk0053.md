@@ -1,11 +1,15 @@
-# agility) lead to success?
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24e1dd19a418e06eef760e12ea8e5d7baf1a821c
+title: H07RXW-PDF-ENG
+---
+## which beneﬁt from higher levels of entrepreneurial behavior. You can
 
-You can think of these as a two-by-two matrix:
+prioritize the top candidates by asking two questions:
 
-See more HBR charts in Data & Visuals on HBR.org.
+- 1. Are advances in technology likely to open up new, more competitive
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+approaches to organizing eﬀorts?
 
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 2. Does entrepreneurialism (e.g., testing new approaches, working with

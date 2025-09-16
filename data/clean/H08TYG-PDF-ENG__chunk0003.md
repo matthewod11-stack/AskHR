@@ -1,7 +1,17 @@
-# damage to morale.
+---
+source_path: H08TYG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8aa3df93f8f55f3d061b5dea2e8db1d411871cbe
+title: H08TYG-PDF-ENG
+---
+# Jorg Greuel/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+One of the responsibilities of leaders is to deliver bad news: that the
 
-1
+company is pulling the plug on a beloved project, forgoing raises or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+bonuses, implementing return-to-oﬃce mandates—or even eliminating
+
+jobs. When the economy weakens, more companies make these choices,
+
+requiring leaders to communicate them in a way that minimizes the

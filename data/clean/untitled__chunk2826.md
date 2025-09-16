@@ -1,17 +1,11 @@
-# Societies
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8ee8f861762450fb5b97482f5c091d14b8237fed
+title: untitled
+---
+# Congresses
 
-The Deutsche Gesellschaft fur Experimentelle Psychologie was founded. The organization changed its name to the Deutsche Gesellschaft für Psychologie in 1929.
+The ﬁrst International Congress of Psychiatry, Neurology, and Psychology took place in Amsterdam. Carl Jung, representing Freud, presented a paper on his theories.
 
-1902
-
-1903
-
-1904
-
-1905
-
-1906
-
-1907
-
-1908
+The ﬁrst International Congress of Psychoanalysis was convened in Salzburg.

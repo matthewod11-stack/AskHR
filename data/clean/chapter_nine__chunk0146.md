@@ -1,11 +1,11 @@
-## nursing departments. Nursing Research. Vol. 49. No. 1. pp 37-43.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 58ae7906bc19d82da3620797593c800ad1d60161
+title: chapter_nine
+---
+# Simmons, M. (2004) Facilitation of practice development: a concept analysis. Practice Development
 
-Thyer, G. (2003) Dare to be different: transformational leadership may hold the key to reducing the
+in Health Care. Vol. 3. No. 1. pp 36-52.
 
-nursing shortage. Journal of Nursing Management. Vol. 11. No. 2. pp 73-79.
-
-Tiernan, S.D., Flood, P.C., Murphy, E.P. (2002) Employee reactions to flattening organizational structures. European Journal of Work and Organizational Psychology. Vol. 11. No. 1. pp 47-67. Titchen, A. (2000) Professional Craft Knowledge in Patient-Centred Nursing and the Facilitation of its
-
-Development. D.Phil. Linacre College Oxford. Tackley: Ashdale Press.
-
-Titchen, A., McGinley, M. (2003) Facilitating practitioner research through critical companionship. NT
+Stordeur, S., Vandenberghe, C., D’hoore, W. (2000) Leadership styles across hierarchical levels in

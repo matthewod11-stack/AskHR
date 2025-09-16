@@ -1,7 +1,11 @@
-## Overview of Performance Appraisal Techniques
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: ea3305db1f41c089398eeb6309053a22676aea6f
+title: document_resume
+---
+# , motivation. and
 
-Many performance appraisal methods and techniques are used today. No method alone can be expected to accomplish all objectives of the performance appraisal process, and all have advantages and disadvantages. The methods described in this section are those that are most common. They include graphic rating scales, essay appraisals, comparative methods, checklist methods, Lruical modems, performance standards, behavioral scales, and management by objectives.
+decision-making likely to exceed the costs?
 
-J
-
-3
+To provide a basis foransweting these questions. kk C skill explain the characteristics of a number of performance appraisal methods and techniques. the various sources of appraisal data, and conclude with an approach to the question of costs vs. benefits.

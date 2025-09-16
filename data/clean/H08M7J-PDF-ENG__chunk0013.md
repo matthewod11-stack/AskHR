@@ -1,11 +1,7 @@
-# How to Navigate the Aftermath of Layoffs
-
-Facing the aftermath of layoﬀs can feel overwhelming, but it also oﬀers
-
-survivors an opportunity to navigate this period with intentionality and
-
-resilience. Furthermore, it may give you a rare chance to become an
-
-architect of the “new” organization. By acknowledging the challenges
-
-and taking proactive steps, you can regain a sense of control and
+---
+source_path: H08M7J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e4d78ea39a5cf1b34dca5c30098186cadf7ce7d
+title: H08M7J-PDF-ENG
+---
+# long-term productivity.

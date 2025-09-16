@@ -1,13 +1,13 @@
-## generalists—AI versions of the most valuable utility players on the team
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5fea76b2e0f0043669ab5353ead964c153ef108a
+title: H08TQF-PDF-ENG
+---
+## technical speciﬁcations, and customer psychology.
 
-—and employ them as such.
+For organizations seeking to both deepen and accelerate the creativity
 
-In contrast, specialized generative AI models understand not
+and productivity of content teams, generalist models oﬀer unmatched
 
-just what information to retrieve but also how that information
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+versatility. Leaders are well advised to think of them as sophisticated

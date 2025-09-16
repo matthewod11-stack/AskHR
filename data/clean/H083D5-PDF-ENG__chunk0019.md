@@ -1,5 +1,23 @@
-## terms, acronyms, and relationships to new employees. Include full
+---
+source_path: H083D5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c62295ca3c60ecf68cc1e75a4929f32656f96dc9
+title: H083D5-PDF-ENG
+---
+## feelings of exclusion, apprehension, and inadequacy.
 
-names and titles when you introduce people within the organization.
+This “insider” information also extends to people within the
 
-Provide new hires with a comprehensive glossary of industry or
+organization. Consider the experience of a new colleague, Edmund, who
+
+struggled with uncertainty when co-workers referred to other people
+
+at the company by their ﬁrst names. Each time it happened, Edmund
+
+would worry if he should know this seemingly important “Sarah” or
+
+“Juan” (without explicit introductions), and what did it say about him if
+
+he had to ask?
+
+To make sure everyone is in the loop, err on the side of over-explaining

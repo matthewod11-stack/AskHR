@@ -1,5 +1,11 @@
-# l
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: a094561c4bcb861eb18d1d8e574d350880b71a83
+title: arop1noe_245_275
+---
+# i
 
-Kozlowski SWJ, Klein KJ. 2000. A multilevel approach to theory and research in organizations: contextual, temporal, and emergent processes. In Multilevel Theory, Research, and Methods in Organizations: Foundations, Extensions, and New Directions, ed. SWJ Kozlowski, KJ Klein, pp. 3–90. San Francisco: Jossey-Bass
+.
 
-KozlowskiSWJ,SalasE,eds.2010.Learning,Training,andDevelopmentinOrganizations,Vol.1.NewYork:
+d e d a o n w o D

@@ -1,11 +1,23 @@
-# management information, customer survey data, and even macroeconomic or industry-specific
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 59104a036d32153f0aee04345ba554877e13fa43
+title: i
+---
+## objective and the roles of each new hires
 
-data, can collectively form a comprehensive analytical dataset.
+- 5. Talent Engagement Analytics
 
-With this rich dataset in hand, organizations can leverage analytics to make predictions related
+Analytics play a crucial role in comprehending the various factors that impacts on employee
 
-to various critical outcomes, such as employee performance, turnover rates, the quality of new
+engagement, leading to a workforce that is more satisfied and more productive while
 
-hires, and other relevant metrics. This data-driven approach enables organizations to anticipate
+concurrently reducing unplanned turnover. Furthermore, analytics provide human capital
 
-trends, identify areas for improvement, and implement targeted strategies to optimize their
+management teams with the tools to analyze and interpret talent-related data and information.
+
+Data collected for employee engagement analytics are typically from Employee surveys, which
+
+focus on drivers of employee engagement. Employee engagement survey data, when combined
+
+with onboarding and exit survey data, recruitment data, various HR datasets, learning and

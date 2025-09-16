@@ -1,43 +1,17 @@
-## their general mission statement on customer service into speciﬁc
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86c66bdf9fbd517f31a8ab9ad6b8971a3139446b
+title: R0507Q-PDF-ENG
+---
+# How Do Customers See Us?
 
-measures that reﬂect the factors that really matter to customers.
+Many companies today have a corporate mission that focuses on
 
-Customers’ concerns tend to fall into four categories: time, quality,
+the customer. “To be number one in delivering value to customers”
 
-performance and service, and cost. Lead time measures the time
+is a typical mission statement. How a company is performing from
 
-required for the company to meet its customers’ needs. For existing
+its customers’ perspective has become, therefore, a priority for top
 
-products, lead time can be measured from the time the company
-
-receives an order to the time it actually delivers the product or service
-
-to the customer. For new products, lead time represents the time to
-
-market, or how long it takes to bring a new product from the product
-
-deﬁnition stage to the start of shipments. Quality measures the defect
-
-level of incoming products as perceived and measured by the customer.
-
-Quality could also measure on-time delivery—the accuracy of the
-
-organization’s delivery forecasts. The combination of performance and
-
-service measures how the company’s products or services contribute to
-
-creating value for its customers.
-
-To put the balanced scorecard to work, companies should articulate
-
-goals for time, quality, and performance and service and then translate
-
-these goals into speciﬁc measures. Senior managers at ECI, for example,
-
-established general goals for customer performance: Get standard
-
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+management. The balanced scorecard demands that managers translate

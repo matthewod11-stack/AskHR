@@ -1,9 +1,15 @@
-# SF
+---
+source_path: H082RI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0f962e664e8aa99f695bd4163476e93aa4394e8
+title: H082RI-PDF-ENG
+---
+## applicants. With a little bit of thoughtful attention, organizations can
 
-Sean Fath is an Assistant Professor of Organizational Behavior at Cornell’s ILR School. His research interests include managerial decision making, bias reduction in social evaluations, and perceptions of social and organizational hierarchy.
+boost the chances that the demographics forms they use include
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+a broader set of identities that better represent the diverse set of
 
-7
+individuals ﬁlling them out.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This article was originally published online on March 27, 2024.

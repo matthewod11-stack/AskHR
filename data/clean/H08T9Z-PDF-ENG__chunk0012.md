@@ -1,33 +1,23 @@
-# into the conversation.
+---
+source_path: H08T9Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95cdf2cd14e87b36705de98a3b48acd5bcddd1cf
+title: H08T9Z-PDF-ENG
+---
+## HBR / Digital Article / You Lost Your Boss’s Trust. Now What?
 
-Propose a path forward.
+on the impact: “I want to acknowledge that my email was inappropriate
 
-Once Alex demonstrated accountability, he shifted the conversation
+and unprofessional. I let my frustration get the better of me, and I own
 
-from the past to the future. A sincere apology shows remorse, but oﬀering a way forward demonstrates maturity, initiative, and emotional
+that. I value our working relationship and I’m committed to working
 
-intelligence. You’re not just saying “I messed up.” You’re saying “Here’s
+with you to rebuild trust.”
 
-how I want to do better.”
+That was it. Clear. Direct. No over-explaining, no “but I felt dismissed…”
 
-As the conversation progresses, propose a path forward with a starting
+detour. Framing the conversation as a collaboration, not a confession
 
-point for rebuilding trust and improving the relationship. Frame it as
+helps avoid justiﬁcation of the behavior. Further, acknowledging the
 
-an invitation to collaborate or receive input. For example, “Moving
-
-forward, I’d like to be more mindful of how I communicate concerns
-
-and bring them directly to you to ensure I’m contributing in a positive
-
-way. I’m open to feedback. If there’s anything speciﬁc you’d like to see
-
-from me, I’d appreciate the guidance.”
-
-This approach keeps the door open for dialogue and collaboration. It
-
-shows that you’re not just interested in damage control; you’re invested
-
-in growth and learning from your mistake.
-
-Actions rebuild credibility more than words. Be intentional about
+impact, not just intention, will help your boss realize you’ve put thought

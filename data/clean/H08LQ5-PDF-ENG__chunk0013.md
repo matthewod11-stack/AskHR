@@ -1,17 +1,29 @@
-# Are Seasons the Future?
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98b2e15d2e4b98ccae417df4a785d2c17be12a22
+title: H08LQ5-PDF-ENG
+---
+## HBR / The Big Idea / Everyone Deserves a Season to Step Back
 
-Today, Melissa and Chas’s stories are the exception. But having a season
+Consider, too, the case of Chas Carey (full disclosure: Chas is my
 
-of stepping back is both possible and beneﬁcial for all parties, aiding in
+husband). When serving as the deputy general counsel of the New York Oﬃce of Housing Recovery Operations in 2017, he was oﬀered a role in an upcoming oﬀ-Broadway production. After talking to his boss and
 
-everything from burnout prevention to learning and development. My
+team about how he might make the opportunity work and still keep his
 
-case studies and research also reveal that a wide range of individuals
+job, Chas was able to shift his hours to a nontraditional schedule for the
 
-can beneﬁt from a dynamic allocation of their time across work,
+four weeks he was in daytime rehearsals and then, once performances
 
-relationships, personal growth, and community. In doing so, life becomes richer — and diﬀerent areas of life can positively reinforce one
+began, cut back on hours by delegating and deprioritizing while tending
 
-another. For example, having a side hustle can boost job performance
+to the most urgent and impactful work. After a four-week run, the
 
-and you can gain an inﬂux of innovative ideas from a diverse, second-
+production wrapped, and he returned to his “real life” with gratitude
+
+for the ﬂexibility and a renewed energy for the work. Over the next
+
+three years, Chas continued to excel in his job and was promoted ﬁrst to
+
+general counsel and then to acting director of the agency.

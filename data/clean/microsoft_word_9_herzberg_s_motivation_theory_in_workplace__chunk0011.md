@@ -1,5 +1,9 @@
-# Critical Review in Herzberg’s Theory
+---
+source_path: microsoft_word_9_herzberg_s_motivation_theory_in_workplace.md
+pages: n/a-n/a
+chunk_id: 87c98cd33e3b732f791419f9094e66faa83ce863
+title: microsoft_word_9_herzberg_s_motivation_theory_in_workplace
+---
+## HERZBERG’S MOTIVATION THEORY IN WORKPLACE
 
-Herzberg’s theory is appreciated on the ground that it provides an insight into the task of motivation by drawing attention to the job factors which are often overlooked. It shows the value of job enrichment in motivation. Thus, Herzberg’s theory has solved the problems of managers who were wondering why their policies failed to motivate the employees adequately.
-
-However, this theory has also not gone unchallenged. It has been criticized on the following grounds.
+continuum (Herzberg et al., 1959; Stello, 2011). Researches on job satisfaction were conducted in order to decide which factors in an employee’s work environment caused satisfaction or dissatisfaction. Subsequently, Herzberg et al. (1959) studied more than 203 accountants and engineers working in nine factories in the Pittsburgh area of the United States to determine which factors influence the worker’s work environment and cause satisfaction or dissatisfaction (Herzberg et al., 1959). The main hypothesis of Herzberg’s theory was that certain factors lead to positive attitudes towards work, and others lead to negative attitudes. The other hypotheses stated that the factors and effects involving long-range sequences of events and short-range sequences of events, respectively, were distinct (Herzberg et al., 1959; Stello, 2011). According to their research data, the original hypothesis of the Herzberg’s study was restated and then changed to the two-factor theory of job satisfaction. The two factors that had an effect on job satisfaction were divided into two sets of categories. The first category was associated with “the need for growth or self-actualization” and became known as the motivation factors. Motivation factors included achievement, recognition, the work itself, responsibility, advancement, and the possibility for growth (Herzberg, 1966; 2003). The other category of factors was related to “the need to avoid unpleasantness” and was known as hygiene factors. Hygiene factors included company policies and administration, relationship with supervisors, interpersonal relations, working conditions, and salary (Herzberg, 1966; 2003).

@@ -1,11 +1,7 @@
-# Celebrate!
-
-The adoption of a child is a monumental event for your employees and
-
-should be treated as such. Society is quick to celebrate pregnancies and
-
-births, showering the new parent with ﬂowers, cards, parties, and gifts.
-
-Yet adoptive parents often get overlooked. Celebrating your employee’s
-
-new family communicates to them that you recognize the signiﬁcance
+---
+source_path: H07IJ3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e971b1a7a519af4b215eb9daa50e6ff3ce9756e
+title: H07IJ3-PDF-ENG
+---
+# loyalty.

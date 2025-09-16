@@ -1,11 +1,21 @@
-## HBR / Digital Article / Why Your Organization Should Use Salary Benchmarking
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8fc2c6013f81218e2c4bcbcff17d236f7ebde4a
+title: H07TEY-PDF-ENG
+---
+## Recent transparency policies across several U.S. states, like salary
 
-appropriate compensation. A key solution lies in salary benchmarking:
+history bans that prevent employers from requiring candidates to
 
-using aggregated market data to establish competitive pay rates.
+report their compensation or even their salary expectations, have
 
-Setting salaries is a balancing act: you do not want to oﬀer salaries
+heightened the focus on fair salary practices in the workplace. As
 
-that are too high relative to the market, because that’d be wasteful; but oﬀering salaries that are below market may make it diﬃcult to attract,
+a result, there’s an increased demand for strategies to determine
 
-retain and motivate your employees. How do employers ﬁnd their sweet
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

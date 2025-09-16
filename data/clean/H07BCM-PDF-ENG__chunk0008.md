@@ -1,17 +1,15 @@
-## HBR / Digital Article / What’s Stopping You from Reinventing Your Career?
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92b27801e8ab007e6c4a0cd10116f97ad60cccb9
+title: H07BCM-PDF-ENG
+---
+## many of the professionals who such express an interest in reinvention
 
-The hardest part, we’ve found, and where many professionals get stuck,
+ultimately fail to follow through.
 
-is simply getting started on leaving the status quo. This is particularly
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-true for senior executives. Personal reinvention requires reappraising
+1
 
-life choices and imagining alternate paths — but this becomes more
-
-diﬃcult when the path a leader is on is seen, at least outwardly, as
-
-successful. Because leaders’ identities are so dependent on their work, it can also be hard for them to consider diﬀerent possibilities. And while
-
-these executives have been educated in strategic planning and change
-
-at the organizational level, reinvention at a personal level is not part of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

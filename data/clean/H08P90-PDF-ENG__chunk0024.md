@@ -1,41 +1,15 @@
-# ink.
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c9407fb111a9c6a4f5b7eaf53bc1e9c60f19ba2
+title: H08P90-PDF-ENG
+---
+# this new technology.
 
-Companies are more likely to discover serendipitous opportunities
+During one experiment, an employee accidentally touched the tip of an
 
-when they empower employees to run small-scale experiments.
+ink-ﬁlled syringe with a hot soldering iron. Much to his surprise, the
 
-While some of these experiments will fail, that doesn’t mean they
+heat caused the ink to spray out of the needle. He immediately realized
 
-are worthless. What appears to be failure may be a ﬁrst step
-
-toward an unexpected breakthrough. In a business context however,
-
-experimentation can only thrive with strong backing from top
-
-executives. They must champion it and acknowledge its role in driving
-
-innovation and success. Otherwise, employees are unlikely to risk
-
-running experiments that may eventually fail.
-
-Canon’s leadership gave the inkjet printing team the freedom to
-
-experiment. Although the inkjet printer as we know it began as a
-
-fortunate accident, it earned leadership support as soon as its potential
-
-became clear. Without that backing, one of the company’s most iconic
-
-products might never have existed.
-
-. . .
-
-While serendipity is highly valued in science, it is often overlooked or
-
-mistaken for luck in business. As a result, many managers don’t open
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that heat—rather than pressure—could be used to trigger the spray of

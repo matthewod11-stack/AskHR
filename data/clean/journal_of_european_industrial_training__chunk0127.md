@@ -1,5 +1,19 @@
-## Further reading Adsit, D., London, M., Crom, S. and Jones, D.
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 2b7e75df2d756456a90ce67b6bb43192e89dbe44
+title: journal_of_european_industrial_training
+---
+# ``The
 
-(1997), ``Cross-cultural differences in upward ratings in a multinational company'', The International Journal of Human Resource Management, Vol. 8 No. 4, August, pp. 385-401.
+acceptability of 3608 appraisals: a customer- supplier relationship perspective'', Human Resource Management, Vol. 37 No. 2, Summer, pp. 117-29.
 
-Alimo-Metcalfe, B. (1998), ``3608 feedback and leadership development'', International Journal of Selection and Assessment, Vol. 6 No. 1, January, pp. 35-44.
+Waldman, D., Atwater, L. and Antonioni, D. (1998), ``Has 3608 feedback gone amok?'', Academy of Management Executive, Vol. 12 No. 2, May, pp. 86-94.
+
+Walker, A. and Smither, J. (1999), ``A five-year study of upward appraisal feedback: what managers do with their results matters'', Personnel Psychology, Vol. 52 No. 2, Summer, pp. 393-423.
+
+Wexley, K. and Klimoski, R. (1984), ``Performance appraisal: an update'' in Rowland, K. and Ferris, G. (Eds), Research in Personnel and Human Resources, Vol. 2, JAI Press, Greenwich, CT.
+
+Yammarino, F. and Waldman, D. (1993), ``Performance in relation to job skill importance: a consideration of rater source'', Journal of Applied Psychology, Vol. 78 No. 2, April, pp. 242-9.
+
+Yukl, G. and Lepsinger, R. (1995), ``How to get the most out of 3608 feedback'', Training, Vol. 32 No. 12, December, pp. 45-50.

@@ -1,15 +1,19 @@
-## HBR / Magazine Article / The Power of Options
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be8e281df4e492bf66f38fa15d4823081a33b6c9
+title: R2301H-PDF-ENG
+---
+# move.
 
-vantage point, and to engage with stakeholders to ensure that they are
+Our experience shows that leaders’ success depends on their ability to
 
-along for the ride. (We lay out this framework in our book, Real-Time
+MOVE—that is, to be mindfully alert to priorities, to generate options
 
-Leadership. To gauge your ability to MOVE, take our self-assessment
+so that they always have several ways to win, to validate their own
 
-at RealTimeLeadershipInstitute.com.) In this article, we examine the
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-crucial second step of our model. Speciﬁcally, we look at four common
+2
 
-leadership approaches and the scenarios in which each can be most
-
-helpful, and we introduce a process for navigating the options in real
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

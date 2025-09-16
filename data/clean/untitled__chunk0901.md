@@ -1,7 +1,15 @@
-# logical theory. New York: Wiley.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0bfc7a1fb773759bb23a05de1b5b467c2039a1f4
+title: untitled
+---
+# Intelligence
 
-Hegel, G. W. F. (1931). The phenomenology of the mind (2nd ed., J. D. Baillie, Trans.). London: Allen & Unwin. (Original work published 1807)
+Guttman, L. (1954). Anew approach to factor analysis: The radix. In P. F. Lazarsfeld (Ed.), Mathematical thinking in the social sci- ences (pp. 258–348). New York: Free Press.
 
-Hendrickson, A. E., & Hendrickson, D. E. (1980). The biological basis for individual differences in intelligence. Personality and Individual Differences, 1, 3–33.
+Halstead, W. C. (1951). Biological intelligence. Journal of Per-
 
-Herrnstein, R. J., & Murray, C. (1994). The bell curve. New York:
+sonality, 20, 118–130.
+
+Hebb, D. O. (1949). The organization of behavior: A neuropsycho-

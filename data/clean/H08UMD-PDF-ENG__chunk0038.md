@@ -1,5 +1,29 @@
-# friends.
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cae6c4072b62c44604d798323f2bb04620d033b
+title: H08UMD-PDF-ENG
+---
+# People Dislike Pushy Referrals
 
-Almost 11% of the customers clicked on the link. Among that group,
+Your company has probably sent thousands of messages urging
 
-0.94% of customers shared the assertive message, and 1.6% shared the
+customers to recommend your product to their friends. But have you
+
+stopped to test whether any of them actually get results?
+
+In 2022 researchers conducted four studies involving 61,401 Chinese
+
+consumers to investigate how the language used in referral messages
+
+aﬀected consumer participation in referral reward programs. In one of
+
+them the researchers created two types of SMS text referral messages:
+
+an assertive message and a less assertive message. Each customer was
+
+randomly asked to share one of the two messages. The researchers
+
+tracked how many customers clicked on the link in the text to view the
+
+referral-program details and how many then sent the message to their

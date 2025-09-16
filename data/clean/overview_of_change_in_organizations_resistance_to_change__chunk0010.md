@@ -1,3 +1,11 @@
-## “Ovidius” University Annals, Economic Sciences Series Volume XXI, Issue 1 /2021
+---
+source_path: overview_of_change_in_organizations_resistance_to_change.md
+pages: n/a-n/a
+chunk_id: cc0954aa9f4c4a8ad3a90c3ffb52f08d20bf88ed
+title: overview_of_change_in_organizations_resistance_to_change
+---
+# remuneration system, structural
 
-organization perform their activity. Culture change generates changes in behaviour and thinking among both leaders and subordinates. Figure no. 3 shows that the driving forces of change switch from external and impersonal (environment, market, organizations) to internal and personal (culture and mentality) (Anderson & Ackerman Anderson, 2010, p.32).
+As can be seen in figure no. 3, the need for change is catalyzed by dynamic environmental changes, which generate new requirements for success in the organization’s market. New customer requirements bring about a need for new business strategies, which require changes in the organization in order to be carried out. They may include changes in the structure, systems, business processes or technology (content). If such changes in the organization are sufficiently relevant, the organizational culture must change in order to change the manner in which the people within the
+
+614

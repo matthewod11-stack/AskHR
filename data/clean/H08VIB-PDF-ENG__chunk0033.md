@@ -1,29 +1,13 @@
-## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a6602c10fd401f0ebc2236de28f02bde68283b8
+title: H08VIB-PDF-ENG
+---
+# experience more ﬂuid and seamless.
 
-Don’ts Don’t experiment with large groups ﬁrst. Embedding AI in a team
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-discussion works best with small groups of 3–4 people. It’s indeed more
+7
 
-practical to integrate AI in a team discussion with fewer people: either
-
-by typing or dictating. If you have more participants, consider using a
-
-large screen or splitting into sub-teams, each with their own “AI at one
-
-seat.”
-
-Don’t let the prompter dominate. The person interacting with the
-
-AI on behalf of the team shouldn’t take over the session, either
-
-from a facilitation/process or content perspective. This is particularly
-
-relevant when typing. Make sure everyone’s input is captured. How? By
-
-prompting AI to encourage active participation of all team members.
-
-Here’s an example of a prompt: “Make sure that silent, quieter team
-
-members contribute by asking open-ended questions like, ‘Jordan, what
-
-perspective would you add to this conversation?'”
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

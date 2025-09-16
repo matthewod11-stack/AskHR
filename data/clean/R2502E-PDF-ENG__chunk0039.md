@@ -1,17 +1,11 @@
-## States (consistent with historical patterns and previous technological
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72529456486cca8b5b5fac08a5ef13a487dbfd99
+title: R2502E-PDF-ENG
+---
+# Go Where the Jobs Are
 
-waves). And the good news is that, on average, those jobs will pay more.
+Even with the rise of AI, economists and demographers are hopeful that
 
-The catch is that they will also require diﬀerent skills.
-
-Whether you’re just starting out in your career or are more established,
-
-it’s important to understand the shifts that are underway now and those
-
-that are coming. When you’re choosing an occupation, it pays to be
-
-strategic and pick an area that’s growing. If you’re currently in one that’s
-
-shrinking, you’ll need to think about reskilling and upskilling.
-
-Here are some of the key aspects of the changing work landscape to
+we will have more jobs in the future than we do today in the United

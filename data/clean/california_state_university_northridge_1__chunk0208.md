@@ -1,21 +1,13 @@
-# correct steps in accordance with company policies and applicable laws. Additional
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: a37cc6f05018211a3cf482fc8aa7025f020482e4
+title: california_state_university_northridge_1
+---
+# as a pretext for termination.
 
-preventive measures include properly training employees, and notifying them of company
+In short, this portion of the study shows that preventive measures range from legal
 
-policies and procedure that may be in the form of a handbook, which sho11ld have a
+audits every other year to training the entire management staff. A well-trained
 
-disclaimer. An employee handbook does not have to be document to be feared, it can be
-
-effective, is written correctly. Further, establishing some written policies that are essential
-
-for a business would be beneficial to ensure consistency across the board for businesses
-
-that have nothing in place. Any preventive measure can only benefit the employer and
-
-employee in assisting them to solve problems on the job as they arise, rather than let them
-
-manifest into other complex issues. This study has shown that preventive measures can
-
-only help in reducing employment related suits that could possible end up in court.
-
-77
+management staff at the start of their employment would ensure they are following the

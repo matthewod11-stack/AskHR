@@ -1,3 +1,9 @@
-# International Journal of Electronic Business Management, Vol. 10 No. 3, pp. 224-233.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: 0c6e7f918035b05c2bea242dfbe94e90cad43823
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# Krot, K. and Lewicka, D.
 
-Lau, E. and Rowlinson, S. (2010), “Trust relations in the construction industry”, International Journal of
+(2012), “The importance of trust in manager-employee relationships”,

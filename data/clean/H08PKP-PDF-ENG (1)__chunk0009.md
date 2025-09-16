@@ -1,13 +1,19 @@
-# The Strategic Refusal Framework
+---
+source_path: H08PKP-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: ab2f28793814981b9eb669d0ea963ba4dea19ba0
+title: H08PKP-PDF-ENG (1)
+---
+# support?”
 
-Once the strategic refusal matrix has helped you determine that a
+- Low Strategic Importance + High Feasibility → Deprioritize: “While
 
-request should be declined, renegotiated, or deprioritized, the next step
+we could execute this, it would divert focus from higher-value work.
 
-is execution. This is where we’ve seen leaders get stuck because they
+Let’s pause this initiative and revisit it later.”
 
-don’t want to be perceived as diﬃcult, uncommitted, or deﬁant. The
+- High Strategic Importance + High Feasibility → Commit & Focus:
 
-four steps below provide a tactical approach and long-term plan for
+“This is both critical and feasible. Let’s allocate the right resources and
 
-pushing back in a way that’s constructive and strategic, protecting your
+move forward.”

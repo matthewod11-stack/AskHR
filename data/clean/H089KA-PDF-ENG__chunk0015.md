@@ -1,35 +1,63 @@
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 10635f002fdf75b2fa075f1e2ddb8805041bf34f
+title: H089KA-PDF-ENG
+---
 # HBR / Digital Article / Breaking Down Barriers to Belonging for Women of Color in Tech
 
-92% of interviewees. Pay and compensation along with promotion
+Peer-to-peer relationships foster a sense of empathy, security,
 
-opportunities followed closely after.
+psychological safety, and shared community. Adriana expressed, “When
 
-See more HBR charts in Data & Visuals on HBR.org.
+you get to know someone personally and they share their trials,
 
-When diving deeper into organizational culture, the examples
+tribulations, experiences, that [is] positive for your sense of belonging
 
-participants gave demonstrated when the environment or the company
+regardless of their background. You get to that level of intimacy where
 
-was working against them. Stacey shared her sentiments: “There are
+you get to know a person for who they are.”
 
-a lot of politics. A lot of white men in positions of power that would
+Another interviewee, Jenny, shared how much she values developing
 
-discredit you and talk over you.” Katie expressed similar challenges. “I
+relationships with her peers outside of work by spending weekends
 
-was constantly interrupted in meetings, or when giving a presentation;
+together and going on trips. “A lot of those moments culminated to me
 
-I would be interrupted with no apology or explanation … it felt like
+belonging… we are friends, not just coworkers,” she said.
 
-a hostile work environment,” she said. “I don’t think the perpetrators
+And another interviewee, Tahirah, discussed her experience when
 
-knew they were being hostile. They didn’t know any better, and I didn’t
+incidents of police brutality were in the news. “[My peer] was very vocal,
 
-feel safe speaking up. I had a lot of anxiety there. It was not [a] culture ﬁt
+and very supportive. She shared a personal story. And, that made me
 
-because I realized what I was up against.”
+feel more comfortable with talking to her about my cultural identity.”
+
+ERGs were also cited by 92% of interviewees as a safe space for women
+
+of color in technology to thrive. Tahirah shared, “In the Black ERG…
+
+we talked about HBCUs we may have attended. She also described her
+
+experience in her company’s Justice ERG. “Anytime there’s an issue
+
+with the police [and] when the abortion laws came down, we had an
+
+outlet where people actually understand you.”
+
+Everyone in the workplace can make an impact on belonging today,
+
+whether you are in a position of power or not.
+
+Organizational culture is the biggest detractor from their sense of belonging in the workplace.
+
+Participants expressed that organizational culture was the largest
+
+detractor to sense of belonging at 42.4% for survey respondents and
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

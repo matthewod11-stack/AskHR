@@ -1,17 +1,19 @@
-# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 867bff2c485f9274156c18b74f682c668896055d
+title: H08PLG-PDF-ENG
+---
+## Companies—especially those outside of the U.S.—can hedge against
 
-and datasets are not. The Chinese lab, DeepSeek has demonstrated that
+restrictions and being tied to a single ecosystem by adopting widely
 
-such open-source AI models can perform almost as well as the best
+accessible, open-source AI initiatives, including “open-weight” ones,
 
-proprietary AI models and do so at a fraction of the costs and resources.
+where trained parameters are publicly available, but the training code
 
-Companies, particularly those in the developing world, can also use
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-expanding access to AI tools to develop “small AI” innovations targeting
+8
 
-speciﬁc sectors and enhancing them with small injections of relevant
-
-information. For example, the app Plantix helps smallholder farmers
-
-identify crop-destroying pests and treat them.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

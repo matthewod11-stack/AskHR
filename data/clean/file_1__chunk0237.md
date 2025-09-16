@@ -1,15 +1,13 @@
-## Applied Social Psychology, 18 (7), 606-625.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 56f0ebc48b32b80f20db408530e5d85259cdc4bd
+title: file_1
+---
+## sensitivity construct. Academy of Management Review, 12, 222-234.
 
-Jamali, D., Sidani, Y. and A. Kobeissi, 2008. The gender gap revisited: insights from a
+Husu, L., 2001. Sexism, support, and survival in academia: Academic women and hidden
 
-developing country context. Gender in Management: An International Journal, 23(4), 230-246.
+discrimination in Finland. Report Series. University of Helsinki: Department of Social Psychology.
 
-Judge, T. and B. Livingston, 2008. Is the gap more than gender? A longitudinal analysis of
-
-gender, gender role orientation and earnings. Journal of Applied Psychology, 93 (5), 994-112.
-
-Jyrkinen, M., 2005. The Organisation of Policy Meets the Commercialisation of Sex. Global
-
-Linkages, Policies, Technologies.PhD thesis. Hanken School of Economics:Publications of the Hanken School of Economics No. 146.
-
-Kail, R. and J. Cavanaugh, 2008. Human Development: A Life-Span View. Wadsworth
+Jackson, L. and S. Grabski, 1988. Perceptions of fair pay and the gender pay gap. Journal of

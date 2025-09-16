@@ -1,5 +1,7 @@
-## 2.3.4 The adoption model of People Analytics
-
-As reviewed in the evolution of PA over the recent years, the growing adoption of HR
-
-information systems has facilitated data storage in a centralized location, simplifying the
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: a5cc6e398d2bd101c4c64d7e28a9d66706233d36
+title: i
+---
+## across organizations of all sizes and shapes.

@@ -1,13 +1,7 @@
-# Thesis
-
-(cid:32)
-
-An extended research paper that is part of the final exam
-
-process for a graduate degree. The document may also be
-
-classified as a project or collection of extended essays.
-
-xiii
-
-(cid:32)
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: be4502e8e684e52afa865b17614a2476dfdfc3a6
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# Glossary

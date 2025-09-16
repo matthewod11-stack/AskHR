@@ -1,9 +1,9 @@
-## with uncertainty, but maybe research a bit more carefully.
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70b3234cbe8230d68f552b1953d1b40b60ee501f
+title: H07STF-PDF-ENG
+---
+# make time for that.
 
-ADI IGNATIUS:
-
-We’re talking about two things. One is how to think about a career
-
-transition moment, how to be proactive and smart about that. But then,
-
-alright, you’ve made the move. How do you transition successfully into
+In any case, you’re out of there. And so, by necessity, you’re going to deal

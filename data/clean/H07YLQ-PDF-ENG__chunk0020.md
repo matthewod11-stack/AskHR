@@ -1,19 +1,21 @@
-## valuable professional development opportunity for the employees. With
+---
+source_path: H07YLQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51a146b61e9cec6f9375bd81cb82366e8b580773
+title: H07YLQ-PDF-ENG
+---
+# toward succession.
 
-their fresh perspectives, they frequently discover innovative ways to
+- 3. Support your efforts with measurable results.
 
-save time and money. It is always more proﬁtable to delegate.
+You are an expensive resource in the ﬁrm. Your time is not free. A quick
 
-You can benchmark anything by following a simple methodology.
+look at the payroll system will prove this. Delegating is indeed more
 
-First, start with what you want to benchmark, such as gross margins,
+expensive at ﬁrst. It may take an employee twice as long to perform a
 
-revenue per head, or founder income. Next, identify comparative
+task the ﬁrst time. However, then the experience curve kicks in. Soon,
 
-ﬁrms and begin collecting data. With data in hand, perform a
+the employee is as fast as you and getting faster with experience. This
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+growth in proﬁciency is not just a beneﬁt to the organization; it’s also a

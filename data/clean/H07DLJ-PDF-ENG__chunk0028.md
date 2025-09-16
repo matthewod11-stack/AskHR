@@ -1,29 +1,61 @@
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c503cba20a1cf19a7f206cbe0ae7f1934469b841
+title: H07DLJ-PDF-ENG
+---
 # HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
-their family? 80% of people have said that they want to learn more about
+ADI IGNATIUS:
 
-their family history, and we have such an opportunity to help them,
+My guess is, once you started to speak openly, and maybe publicly,
 
-but we don’t necessarily have all the records today. We don’t have the
+about that character trait, a lot of other people said, you know what? Me
 
-connections to all the archives. We don’t have as rich a rich database in
+too. I’ve never been able to talk about it, but me too.
 
-certain communities. And so a lot of the work we’ve been doing over the
+DEB LIU:
 
-past two years is really moving towards Ancestry for All.
+Absolutely. I share a lot about it and people seem surprised that this was
 
-The second thing we’ve done is really work from me to we. For a long
+such a struggle for me. But then it’s given a lot of people hope too. A lot
 
-time, a lot of the work on Ancestry was a solo activity, and we want to
+of people write me notes and say, “If you can do this, I can do this too.”
 
-make it a family and a new community activity, because people do this,
+And so it’s been really a great learning experience for me to talk more
 
-not just because they want to document their family history and story
+about some of these challenges because I see so many people say, “It’s
 
-for themselves, but because they want to share it with their family. They
+so great to see how far you’ve come and that you’re willing to share it.”
 
-want to talk about their memories, they want to actually make their
+Because I think a lot of times, we don’t talk about it either.
 
-family part of their experience. And so a lot of the work we’ve also been
+ADI IGNATIUS:
 
-doing is actually moving from me to we, and actually connecting people
+All right. So let’s talk about Ancestry. You’ve been in the CEO role
+
+for nearly two years. I’d love to get a quick sense of what you’ve
+
+accomplished to date and what you want to accomplish coming up.
+
+DEB LIU:
+
+When I ﬁrst got here, one of the things that was really important to
+
+me was that we look at the next chapter of where we want to go. We’ve
+
+had a successful company in business for so many years. It’s a 35 year
+
+old company, and it’s an innovator in the space of discovering and
+
+documenting your family story and history.
+
+And so our next chapter was really something we call Ancestry for All.
+
+So how do we make the product more accessible to everyone who loves
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

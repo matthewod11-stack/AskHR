@@ -1,11 +1,7 @@
-## A menu of accommodations along with individual job redesign eﬀorts
-
-will help employers retain employees with long Covid and other chronic
-
-illnesses and enable these workers to contribute more than they could
-
-otherwise. But organizations that take a more comprehensive approach
-
-— building inclusion into the entire talent cycle, as explained in
-
-Ludmila’s book, The Canary Code — will have the true advantage in
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d505a36e96494884187dcdbade167b7226060756
+title: H087FX-PDF-ENG
+---
+# Inclusion Must Be Built In

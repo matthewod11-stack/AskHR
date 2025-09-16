@@ -1,3 +1,17 @@
-# Charas
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 92b8207b4f006f02858501a60463c766ee418fe6
+title: original_article
+---
+# Correspondence: Solange Charas Case Western Reserve University, New York, USA E-mail: sc@charasconsulting.com
 
-theories generating inconsistent and disappoint- ing results (Bainbridge, 2010; Huse et al, 2011). Equally unsatisfactory is that most research has centered on the individual director as the unit of analysis instead of the board as a team, despite calls – since the early 2000s – for a focus on to collective board processes and behaviors understand and predict board performance quality (Leblanc and Gillies, 2003; Letendre, 2004; Huse, 2005; Pye and Pettigrew, 2005). The contrast between the individual and team level unit of analysis is strikingly clear when considering information from board members revealing that 90 per cent consider themselves to be ‘very effective’ but only 30 per cent rate the overall board’s performance as very effective in addressing their most important and strategic initiatives1 (Heidrick and Struggles, 2010). This is a disturbing revelation as shareholders and other stakeholders mistakenly believe that boards are comprised of successful, experienced and responsible executives working as a team to effec- tively carry out their legal and ethical obligation to represent and protect shareholder interests (Brennan, 2006), but, instead, we learn that less than half the time boards are assessing their collective performance as effective (Heidrick and Struggles, 2010). Poor board governance is one of shareholder activism (Smith, 1996; Gillan and Starks, 2007; Bebchuk and Weisbach, 2010). Much of the recent academic literature on boards has proffered the recommendation that directors should work as a team to be able to produce better board outcomes (Cohen and Bailey, 1997; Forbes and Milliken (F&M), 1999; Sonnenfeld, 2002; Finkelstein and Mooney, 2003; Leblanc and Gillies, 2003; Letendre, 2004; Pye and Pettigrew, 2005; Zona and Zattoni, 2007; Conger and Lawler, 2009; Payne et al, 2009; Van Ees et al, 2009; Huse et al, 2011; Vandewaerde et al, 2011; Lorsch, 2012), but these studies are based on theoretical assumptions.
+INTRODUCTION Board performance has been at the center of modern corporate governance research for more than two decades, with the majority of exclusively on economic inquiry
+
+relying
+
+© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
+
+www.palgrave-journals.com/jdg/
+
+108

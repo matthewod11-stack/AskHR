@@ -1,11 +1,21 @@
-# References
+---
+source_path: microsoft_word_9_herzberg_s_motivation_theory_in_workplace.md
+pages: n/a-n/a
+chunk_id: 8119c9ccd8f5a1a628ae18e92514068a9bb34eb5
+title: microsoft_word_9_herzberg_s_motivation_theory_in_workplace
+---
+## HERZBERG’S MOTIVATION THEORY IN WORKPLACE
 
-Alshmemri, M., Shahwan-Akl, L., & Maude, P. (2017). Herzberg’s two-factor theory. Life Science Journal, 14(5), 12-16. Retrieved from https://www.lifesciencesite.com/lsj/life140517/03_32120lsj140517_12_16.pdf?fbclid=IwAR1hXg_7fqsRNdGL4qu BFC1RyEQhZo1vl-6RcVSQXgL3MFSKLjEucbbxLdQ
+performance. On the other hand, understanding individual goals, combined with broader skills and abilities, can lead to greater opportunities. Therefore, individuals must be seen as valuable to organizations and capable of
 
-Ambrose, M. L., & Kulik, C. T. 1999. Old friends, new faces: Motivation research in the 1990s. Journal of Manage- ment, 25: 231–
+acquiring new skills useful for the future. Improving their skills and increasing the knowledge of employees will,
 
-292.
+in the long run, increase the value of an organization's human resources. More importantly, it can lead to greater
 
-Ansari, S. (2019). An evaluation of the employee motivation based on two-factor theory (M.Sc. thesis, Purbanchal University, 2019). Retrieved from https://www.globalscientificjournal.com/researchpaper/AN_EVALUATION_OF_THE_EMPLOYEE_ MOTIVATION_BASED_ON_TWO_FACTOR_THEORY.pdf?fbclid=IwAR3AI5EwcLvcYMicUbqGK8C1Ym_L6D1Wu3 5UNitQNM7DjGLAtCL2CvQi42c
+staff engagement, understanding and commitment.
 
-Ball, J. (2003). Understanding Herzberg’s motivation theory. Retrieved from https://www.chinaacc.com/upload/html/2013/06/26/
+Consequently, the theory is directly applicable to the wider field of work and plays a very important role,
+
+especially in relation to motivation. On the other hand, it is not possible to get absolute results by simply applying
+
+the theory of motivation, since there are other key factors that may influence this theory.

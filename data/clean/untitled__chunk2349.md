@@ -1,3 +1,11 @@
-# Organizational Development
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7efaedf5e34eaa0080760e754e8c067ce837710e
+title: untitled
+---
+# The Hybrid Years
 
-Although founded in 1892, the APA had a small, predomi- nantly doctoral level, membership, and avoided for several decades involvement in professional and applied psychology. Few school psychologists belonged to the APA, but per- haps some belonged to the National Education Association founded in 1870 (which added a section on child study in 1894). Of the 100 to 200 practitioners who provided psycho- logical services in school settings during this period, most held no national membership, and few if any state-level or local organizations represented their interests. The American Association of Clinical Psychologists (AACP) was formed in 1917 to serve the interests of clinicians in various settings, but it was short-lived, disbanding in 1919 to become the clinical section of the APA, the ﬁrst APA division.
+publication, and rapid popularity of normatively referenced psychological and educational tests. Emerging from proce- dures developed in laboratory settings, the use of tests gained ascendancy from the work ofAlfred Binet, whose scales were widely used in this country following their modiﬁcation and norming by Louis Terman in 1916. The Stanford Revision of the Binet-Simon Scales helped to deﬁne the segmentation of children for special education and was the hallmark of school psychology services for decades to come. Test devel- opment also occurred in academic achievement, vocational development, motor and sensory skills, and other areas. The testing movement was given additional impetus by the Army Alpha tests developed to select and classify recruits in World War I. These tests led to further development of group and in- dividual tests in numerous skill areas, many of which were used with schoolchildren. The Binet scales were frequently used by Gesell and other school psychologists of the period. Psychoeducational the need for expensive and cumbersome laboratory instruments and pro- cedures, provided a portability to psychological services that enhanced their development in several settings, especially in schools throughout the country (Fagan, 2000).
+
+tests, developed without

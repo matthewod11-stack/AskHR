@@ -1,25 +1,21 @@
-## questions around whether our strategy with a particular country or
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cada6787609f2a318d9c24e31afc5fd97a07c0d
+title: R2503N-PDF-ENG
+---
+# disengage altogether.
 
-product is good or evil.” However, in 2019 Sundar Pichai, Google’s CEO,
+Take Google’s all-company TGIF meetings. For years these were
 
-decided that the meetings were no longer working. Employees wanted
+biweekly open forums where company leaders would share updates,
 
-to talk about contentious issues like the company’s handling of hate
+discuss strategic developments, and take questions from employees.
 
-speech and sexual harassment, and discussions were often leaked to the
+They played a critical role in maintaining a culture of trust at the
 
-press. Pichai made them less regular and changed their format. It seems that listening to everyone had gotten too diﬃcult.
+company. As Laszlo Bock, Google’s former senior vice president of
 
-Similar scenarios have played out at Activision Blizzard, where an
+people operations, once explained, they covered “everything from
 
-attempt to address harassment claims during a company town hall
-
-led to a massive walkout, with workers complaining that leaders were
-
-minimizing rather than meaningfully addressing their concerns, and
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+whether the mix of food in the cafés is too healthy to really sublime

@@ -1,3 +1,9 @@
-# Shakedown Administration
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4d5131251696beb93fd0277374e5a35dc082c08e
+title: document_resume
+---
+# Management Support
 
-No matter how competent and professional the seam that developed the program, or how high the level of management support, or how deeply involved were the faculty and staff from its inception, there will be problems in implementation. Behavioral anchors which were clear and concise when written and reviewed by 15 people in three levels of the organization will suddenly become vague and ambiguous. Rater errors and tendencies which were fully covered during rater training sessions will proliferate and several new ones will emerge. Carefully designed weightingsystems and rules of com- bination will come apart when the same people who signed off on the job analysis data point out that the criteria do not match their work assignments. When the dust settles, it will be disco.ered that the problems are not that serious and Lan be corrected without fundamental changes. The time to make these refinements, however, is during a shake- down administration or "dry run." It is not when the ratings are to be used for adminis- trative decisions.
+When beginning the implementation phase of a performance appraisal program, often the president or another administrator makes appropriate comments at a convoca- tion or issues a letter pledging his/her support. All this is tine if preceded by intimate involvement in the developmental phase and followed by a demonstrated personal commitment. If performance appraisal is to be taken seriously, managers and supervi- sors at all levels of the institution must be conscientiously involved. In fact, how well they accomplish this task should be reflected in their performance ratings.

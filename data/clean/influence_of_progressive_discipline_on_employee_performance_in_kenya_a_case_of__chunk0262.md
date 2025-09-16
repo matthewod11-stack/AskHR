@@ -1,9 +1,7 @@
-# Employee disciplinary procedures
-
-The second objective of the study was to establish the effects of employee disciplinary procedures on employee performance in Kenya. From the study findings in Table 4.7 the majority (57.90%) of that employee disciplinary procedures did affect employee performance while 42.10% were of
-
-the respondents stated
-
-contrary opinion. The findings of the study concurs with literature review by Crane(2007) who observed that discipline can be positively related to employee perfomance performance. and It accomplishments.This implies that employee disciplinary procedures influenced employee performance in Mukurwe-ini Dairy Ltd. The findings were as shown in Table 4.5;
-
-is
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 8ebf60ea0ddd2fa0132c96d5845f1af8ad69f204
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Figure (cid:1008).(cid:1011): Le(cid:448)el of satisfa(cid:272)tio(cid:374) of e(cid:373)plo(cid:455)ee repri(cid:373)a(cid:374)d s(cid:455)ste(cid:373)

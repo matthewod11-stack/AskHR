@@ -1,17 +1,37 @@
-## talk behind reconnect and share about other matters.
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3870d1e84b18436260fcf860fbcf7d2ffc15052
+title: H08TQX-PDF-ENG
+---
+# The Ritual-Planning Checklist
 
-- 2. Do offer meaningful perks.
+So how do you ensure that your upcoming retreat or future onboarding
 
-Employees in our study reported feeling appreciated and rewarded
+event maximizes all that employees enjoy about complex rituals, while
 
-when their organizations provided meaningful perks at events. Quality
+mitigating common negative experiences? We’ve created a list of do’s
 
-food and entertainment, and small but thoughtful gifts, can signal that
+and don’ts, based on our research, to help you plan a great event that
 
-employees are valued. Not sure which perks are best? Take an evidence-
+will ensure you get the most out of it.
 
-based approach. We spoke with one leader who conducted a survey,
+The Dos 1. Do provide opportunities to strengthen your company’s social fabric.
 
-informing employees of the budget and providing them with options for
+While examining why many of the employees we studied felt more
 
-how to spend it, including a formal sit-down meal, highly interactive
+connected to their colleagues after attending rituals, we found two
+
+themes. First, employees especially appreciated connecting with
+
+colleagues whom they didn’t normally see in person, like those who
+
+work on other shifts or in other locations. Second, they took pleasure in
+
+talking to their coworkers about the non-work (personal) sides of their
+
+lives. Allowing time at the start of the event for employees to greet and
+
+connect with those they haven’t crossed paths with for a while—before
+
+other structured activities take place—creates space to leave the work

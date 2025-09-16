@@ -1,5 +1,13 @@
-## Academy of Management Journal, Vol. 38 No. 2, pp. 408-428.
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: 4daa1b5ee6a60992c4fc77e2fb20d664f659477a
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+## Development Quarterly, Vol. 25 No. 4, pp. 421-439.
 
-Cheng, B., Zhou, X., Guo, G. and Yang, K. (2020), “Perceived overqualification and
+Carrell, M.R. and Dittrich, J.E. (1978), “Equity theory: the recent literature, methodological
 
-cyberloafing: a moderated-mediation model based on equity theory”, Journal of Business Ethics, Vol. 164 No. 3, pp. 565-577.
+considerations, and new directions”, The Academy of Management Review, Vol. 3 No. 2, pp. 202-210.
+
+Chen, C.C. (1995), “New trends in rewards allocation preferences: a Sino-US comparison”,

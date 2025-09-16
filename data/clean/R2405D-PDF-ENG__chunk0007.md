@@ -1,25 +1,27 @@
-## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 615b7e185388410e7635b91abf29e99bab1bf217
+title: R2405D-PDF-ENG
+---
+# Docubyte
 
-Too often business leaders go in one of two directions in these
+Let’s say you’re leading a meeting about the hourly pay of your
 
-moments: either taking the evidence presented as gospel or dismissing
+company’s warehouse employees. For several years it has automatically
 
-it altogether. Both approaches are misguided. Leaders instead should
+been increased by small amounts to keep up with inﬂation. Citing
 
-organize discussions that thoughtfully evaluate seemingly relevant
+a study of a large company that found that higher pay improved
 
-evidence and its applicability to a given situation.
+productivity so much that it boosted proﬁts, someone on your team
 
-In the scenario just described you should pose a series of questions
+advocates for a diﬀerent approach: a substantial raise of $2 an hour for
 
-aimed at assessing the potential impact of wage increases on your
+all workers in the warehouse. What would you do?
 
-company speciﬁcally. You might ask:
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-- Can you tell us more about the setting of the research to help us
+1
 
-evaluate whether it applies to our warehouse employees?
-
-- How do our wages stack up against those of other employers
-
-competing for our workers, and how does that compare with the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

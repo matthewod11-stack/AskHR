@@ -1,7 +1,11 @@
-## workplace norms, and the unrelenting emotional labor of guiding and
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 82626f73a05439ce0cda0b69b0aa31e1824d30ba
+title: H08TK8-PDF-ENG
+---
+# No crisis. Just another Tuesday.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Each of these moments is emotionally taxing on its own. But taken
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+together—and set against a backdrop of performance pressures, shifting

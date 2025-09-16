@@ -1,9 +1,21 @@
-# D
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 54b9f4da733ba4ecb655d1a89d458a0cee7003c8
+title: performance_management_3rd_edition_by_aguinis
+---
+# C
 
-In this particular example, the area covered by the rectangle shows that this person is predominantly a driver and an analyzer but can also be a persuader and amiable. Now, create your own rectangle using your scores:
+2
 
-predominantly covering one of the quadrants and not the others? If there is, what can you do to start using the other styles as well? (cid:2)
+4
 
-What is your coaching style? Is there a dominance of one style over the other three as indicated by an area
+6
 
-Source: Coaching Guides. Available online at http://www.spe- cialolympics.org. Used with the kind permission of Special Olympics, Inc. Retrieval date: July 27, 2011.
+8
+
+10
+
+12
+
+14

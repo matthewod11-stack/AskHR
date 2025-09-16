@@ -1,5 +1,7 @@
-# REFERENCES 408
-
-and legislative agencies acting in a judicial capacity” (Com- mittee on Ethical Guidelines, 1991, p. 657 ). In a similar vein, the American Board of Forensic Psychology on its Web site in 1998 gave a broad deﬁnition: “The application of the science and profession of law to questions and issues relating to psychology and the legal system.” In The Handbook of Forensic Psychology, Bartol and Bartol (1999, p. 3) stated, “Forensic psychology is viewed broadly here. It is both (a) the research endeavor that examines aspects of human behavior directly related to the legal process . . . and (b) the professional practice of psychology within, or in consultation with, a legal system that encompasses both civil and criminal law and the numerous areas where they intersect. Therefore, forensic psychology refers broadly to the production and application of psychological knowledge to the civil and crim- inal justice systems.” Later, these authors suggested that forensic psychology is “an umbrella term for psychology and law, correctional psychology, police psychology, and the psychology of juvenile and adult offending” (Bartol & Bartol, 1999, p. 19).
-
-A similarly broad perspective was provided by Hess, a coeditor of The Handbook of Forensic Psychology (Hess & Weiner, 1999), who asserted that a functional deﬁnition of forensic psychology encompasses three ways in which psy- chology and law interact: “(a) the practice of psychology in
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 504c186b425e5a1a85032a8396d19e7533ab20c6
+title: untitled
+---
+## FORENSIC PSYCHOLOGY IN THE TWENTY-FIRST CENTURY 408

@@ -1,3 +1,7 @@
-# in our analysis. Because of
-
-Board processes – The mediators is The mediator for board-level outcomes TIQ or what F&M (1999) refer to as the ‘dynamic’ or the measure of boardroom ‘inter- vening processes’. To capture the director’s perception of TIQ, we employed the TLI questionnaire developed by Lingham (2009). This questionnaire focuses on the crux of team interaction by assessing the extent to which the board is currently creating a ‘safe and supportive environment, embracing and respect[ing] dif- ferences, developing strong trusting relation- ships, generating learning and getting tasks done effectively’ (Lingham et al, 2009). The 30 items scale measure interaction among team members on 10 behavioral attri- butes: engagement, active listening, individual- ity, solidarity, understanding, action, planning, power and inﬂuence, and openness. Board members responded to team- level questions on a 5-point Likert scale. As the instrument is a proprietary product of Interac- tive Science2, the raw data were provided to this organization and they in turn provided a single score representing the level of TIQ the per participant, and used to represent
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 7050211068d06a7ff6c833ce659b7d56d75e07e5
+title: original_article
+---
+# (or

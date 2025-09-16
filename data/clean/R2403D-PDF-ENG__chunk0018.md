@@ -1,17 +1,39 @@
-# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de661bd416630f40b8acf91e74baf034b793f46f
+title: R2403D-PDF-ENG
+---
+# Emerging Management Practices
 
-See more HBR charts in Data & Visuals on HBR.org.
+Many of the leaders we talked with initially tried to manage freelancers
 
-They help freelancers understand and embrace company culture.
+the same way they’ve long managed other temporary workers: by relying on a contract agency for staﬃng and then maintaining a
 
-Options abound for how to do this. Johnson & Johnson, for example,
+transactional relationship with the workers that focused on speciﬁc
 
-recognizes that its purpose, values, and credo critically shape how
+deliverables, with minimal investment by the company in developing
 
-employees interact and how work is done, so the company gives
+an emotional connection with them. But they soon learned that force-
+
+ﬁtting the model they use for temporary staﬀ needs doesn’t work well
+
+for freelancers. That’s not surprising. The role of traditional contractors
+
+is staﬀ augmentation: They add capacity on a temporary basis and
+
+perform outsourced, noncore work as employees of a third party. But
+
+when the purpose is not augmentation but innovation, ﬁrms need a
+
+diﬀerent approach—one that fully integrates expert freelancers into
+
+a highly cohesive team. To that end, forward-looking companies are
+
+starting to develop new practices.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

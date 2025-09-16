@@ -1,9 +1,19 @@
-# person?
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 756a338e1105f16e30685551dd29657d20e9c71c
+title: R2303A-PDF-ENG
+---
+# Beyond Our Business
 
-Jamie LaPradd calling out an order; Rachel Wolfe and Tyler Smith behind the counter Matt Ray
+We’ve been so focused on our own business over the past seven years
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+that we haven’t had much time to speak to other organizations about
 
-8
+how they might incorporate some of what we do at Bitty & Beau’s.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Maybe, as an initial step, corporate leaders could simply look at our
+
+example: If the majority of our workforce is made up of people with
+
+disabilities in frontline roles, could you really not employ one such

@@ -1,3 +1,9 @@
-# Practical Demands
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ddf3726fe942ea7ebe66c7a08780f1c61ecae247
+title: untitled
+---
+# American Psychology
 
-In the preceding sections, we have referred to the iden- tiﬁcation of psychologists with psychometric and statistical approaches to personality. Here, we examine several inter- related factors in the development of these approaches, and in psychologists’ resistance toward studies of individuals, dur- ing the early decades of the twentieth century.
+Twentieth-century American experimenters wanted general laws, not remarkable phenomena involving special persons. (Porter, 1995, p. 211)

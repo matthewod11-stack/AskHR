@@ -1,3 +1,9 @@
-# J
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 4ea6034727436fe2cf551b555f2a06be64985139
+title: barrickryan_eds_personality_and_work
+---
+# I
 
-Jackson, D. N., 19, 61, 84, 86, 291 Jackson, S. E., 61, 239, 296, 304 Jamal, M., 172 James, K., 65, 166 James, L. R., 313 Jamison, K. R., 46 Jandorf, L., 43 Jang, K. L., 14 Jansen, K. J., 270 Jelinek, J., 175 Jenkins, J. M., 210 Jex, S. M., 44, 127 John, O. P., 5, 7, 8, 14, 141, 158 Johnson, D. E., 90 Johnson, J., 310 Johnson, J. A., 14 Johnson, J. W., 83, 90, 91, 92, 100 Johnson, M. M., 45 Jones, G. R., 89 Jones, P. B., 136 Jones, R. G., 305 Judge, T. A., 30, 31, 32, 33, 34, 42, 63, 84, 103, 127, 154, 184, 263, 264, 265, 266, 267, 269, 277, 279, 298, 302, 303, 309, 329, 337
+Iaffaldano, M. T., 30, 31 Ickes, W., 184, 208 Ilgen, D. R., 291, 304 Ilies, R., 309 Irving, P. G., 111 Isen, A. M., 36, 37, 45, 47 Iverson, R. D., 302

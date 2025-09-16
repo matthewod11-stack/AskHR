@@ -1,9 +1,31 @@
-# accurate results.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 88ab449ce46b19774a6b831ceac5ebecbd0d1954
+title: agents_companion
+---
+# Multiple Agents & Their Evaluation
 
-Improved Efficiency: Agents can work in parallel, speeding up task completion.
+Agent evaluation, which assesses the effectiveness, reliability, and adaptability of
 
-- Better Handling of Complex Tasks: Large tasks can be broken down into smaller, more
+autonomous AI agents, as seen in the previous section, has emerged as a key focus area.
 
-manageable subtasks, with each agent focusing on a specific aspect.
+We have seen a significant evolution in AI systems, transitioning towards multi-agent
 
-Increased Scalability: The system can be easily scaled by adding more agents with
+architectures—where multiple specialized agents collaborate to achieve complex objectives.
+
+A multi-agent system is like a team of experts, each specializing in a particular area, working
+
+together to solve a complex problem. Each agent is an independent entity, potentially using a
+
+different LLM, and with its own unique role and context. Agents communicate and collaborate
+
+to achieve a common goal. This approach differs from traditional single-agent systems,
+
+where one LLM handles all aspects of a task.
+
+23
+
+Multi-agent systems offer several advantages over single-agent systems:
+
+- Enhanced Accuracy: Agents can cross-check each other's work, leading to more

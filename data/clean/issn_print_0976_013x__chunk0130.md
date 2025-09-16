@@ -1,19 +1,11 @@
-# squamosa L.)
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 0ef0aa03b7508876f14194ad623d3e07ca494f3c
+title: issn_print_0976_013x
+---
+## Science, Toxicology and Food Technology, 2017, 11
 
-for the development of new products. Journal of Food Quality.
+Souza, F. T. C., Santos, E. R., Silva, J. D. C., Valentim, I. B., Rabelo, T. C. B., Andrade, N. R. F. D., &
 
-https://doi.org/10.1155/2018/5281035
-
-Sravanthi T, Waghrey K, Daddam JR. Studies on preservation and processing of custard apple
-
-(Annona squamosa L.) pulp. International Journal of Plant, Animal and Environmental
-
-Sciences. 2014; 4(3):676-682
-
-Yadav CM, Karanjkar LM, Kashid UB. Effect of assimilation of custard apple (Annona squamosa)
-
-pulp on chemical quality and cost of ice-cream. Journal of Dairying, Foods and Home Sciences.
-
-2010; 29(2):86-91.
-
-15
+Silva, L. K. D. S. (2018). Production of nutritious flour from residue custard apple (Annona

@@ -1,31 +1,23 @@
-## HBR / Digital Article / How High-Performing Teams Build Trust
+---
+source_path: H07YWJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c3acdd18ef0c6096df3929316eb072ea9522a62
+title: H07YWJ-PDF-ENG
+---
+# about the value of trust.
 
-Conversations about cultivating trust at work often focus on the
+Employees who trust their organizations show higher engagement,
 
-relationship between managers and employees. While useful, this
+creativity, and productivity. Those who don’t experience more stress,
 
-approach represents only half the equation. As important — if not more
+increased burnout, and are more likely to quit. Fostering trust,
 
-so — is establishing trust between teammates. After all, most employees
+therefore, represents a crucial imperative for any leader looking to
 
-work in teams, and the lion’s share of their daily experience involves
+create a high-performing team.
 
-interacting with colleagues, often in the absence of a boss.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-So, how do the best teams build trust among themselves?
+1
 
-To ﬁnd out, my team at ignite80 surveyed 1,000 U.S.-based oﬃce workers, with the goal of pinpointing behaviors that diﬀerentiate high-
-
-performing teams and understanding we can learn from their approach.
-
-To identify members of high-performing teams, we invited respondents
-
-to complete a survey about their attitudes, experiences, and behaviors
-
-at work. Embedded within our questionnaire were items asking workers to: 1) rate their team’s eﬀectiveness, and 2) compare their team’s
-
-performance to other teams in their industry. Workers who scored their
-
-team a 10 out of 10 on both items were designated members of high-
-
-performing teams, allowing us to compare their behaviors against those
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

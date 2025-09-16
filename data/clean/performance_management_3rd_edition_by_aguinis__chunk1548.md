@@ -1,7 +1,7 @@
-# Behavior and Outcomes
-
-Chapter 6 addressed the fact that people may make intentional and unintentional errors while observing and evaluating performance. Managers may make similar errors in observing and evaluating behaviors related to developmental goals. For example, a manager might make a halo error by assuming that if an employee does a good job at working toward one developmental goal (e.g., improving her typing skills), she is also doing a good job at working toward a different developmental goal (e.g., improving customer service). As is the case for performance in general, it is important to observe and document behaviors specifically related to developmental activities. Documentation can include memos, letters, e-mail messages, handwritten notes, comments, observations, descriptions, and evaluations provided by colleagues.17 The discussion presented in this section complements information given in previous chapters because, although it is specifically related to behaviors regarding developmental activities, it can be easily gener- alized to behaviors related to performance in general. In other words, the following discussion applies to the observation of all performance behaviors, not just those displayed while working toward achieving developmental goals.
-
-Observing an employee’s progress in achieving developmental goals is not as easy as it may seem. Consider the following constraints that managers might experience in attempting to observe an employee’s performance regarding developmental activities:
-
-- Time constraints. Managers may be too busy to gather and document information about an employee’s progress toward his developmental goals. Consequently, too
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: cd983a50b7fefdfb6c14810a7810fbafe6021a7a
+title: performance_management_3rd_edition_by_aguinis
+---
+## 9.3.1 Observation and Documentation of Developmental

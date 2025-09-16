@@ -1,15 +1,37 @@
-# eﬀectively.
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 066fd42ecec2b02ec6fd622a60550f548de8f654
+title: H081LX-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways Humility Can Undermine Your Leadership
 
-Consider a leader who, in an eﬀort not to overburden the team, assumes
+respond with: “Thank you. I’m proud of what we have achieved. It was a
 
-responsibility for administrative tasks, such as taking meeting notes
+collective eﬀort, and I want to highlight my team members’ innovative
 
-or planning team meetings. While the intention is to lighten the
+approach that signiﬁcantly contributed to our success.” This way, you
 
-team’s load, this approach inadvertently deprives team members of
+acknowledge your role in the achievement while also uplifting your
 
-opportunities to enhance their organizational and coordination skills.
+team members’ contributions.
 
-The leader’s well-intentioned actions result in a heavy workload for
+- 3. You may be limiting your team’s development.
 
-themselves while simultaneously limiting the team’s exposure to these
+Humble leaders often perceive themselves as equals with their team in
+
+the trenches. They live by the ethos that their time is not more precious
+
+than their colleagues’ time, and they worry that delegating could be
+
+seen as oppressive or demotivating. This belief stems from a fear of
+
+imposing on their team, but it can paradoxically stiﬂe their growth and
+
+development opportunities. Excessive modesty can prevent you from
+
+eﬀectively delegating tasks, leading to an unsustainable workload and
+
+eventual burnout. True humility in leadership means acknowledging
+
+your team’s capabilities and ensuring that you’re leveraging them

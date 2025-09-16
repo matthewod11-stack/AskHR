@@ -1,7 +1,15 @@
-## “reinventing itself company.” Hum. Resour. Dev. Q. 16:389–415
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 65cf0c7d119c2adbe1bfda41183dcc8c67c012e1
+title: arop1noe_245_275
+---
+## a mutuality perspective. J. Manag. 38:210–42
 
-Erhardt N. 2011. Is it all about teamwork? Understanding processes in team-based knowledge work. Manag.
+Doornbos AJ, Simons RJ, Denessen E. 2008. Relations between characteristics of workplace practices and types of informal work-related learning: a survey study among Dutch police. Hum. Resour. Dev. Q. 19:129–51
 
-Learn. 42:87–112
+Edmondson AC. 1999. Psychological safety and learning behavior in work teams. Adm. Sci. Q. 44:350–83 EdmondsonAC. 2002.Thelocal andvariegatednatureof learningin organizations:a group-level perspective.
 
-Ericsson KA, Krampe RT, Tesch-Romer C. 1993. The role of deliberate practice in the acquisition of expert
+Organ. Sci. 13:128–46
+
+Ellinger AD. 2005. Contextual factors influencing informal learning in a workplace setting: the case of

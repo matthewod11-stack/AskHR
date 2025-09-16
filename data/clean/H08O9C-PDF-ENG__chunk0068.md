@@ -1,7 +1,15 @@
-# @drtcp
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ea9912b0f906948fab66825f15f419984579699
+title: H08O9C-PDF-ENG
+---
+## HBR / Digital Article / Want to Use AI as a Career Coach? Use These Prompts.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+So the most important advice is to experiment and invest time in interacting with the diﬀerent tools and platforms. By using well-
 
-11
+crafted prompts and providing detailed context, you can maximize its eﬀectiveness to help you navigate your career journey with conﬁdence.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This article was originally published online on April 15, 2025.
+
+Tomas Chamorro-Premuzic is the chief innovation oﬃcer at ManpowerGroup, a professor of business psychology at University College London and at Columbia University, a cofounder of deepersignals.com, and an associate at Harvard’s Entrepreneurial Finance Lab. He is the author of Why Do So Many Incompetent Men Become Leaders? (and How to Fix It) (Harvard Business Review Press, 2019), upon which his TEDx talk was based, and I, Human: AI, Automation, and the Quest to Reclaim What Makes Us Unique, (Harvard Business Review Press, 2023). His latest book is Don’t Be Yourself: Why Authenticity Is Overrated (and What to Do Instead) (Harvard Business Review Press, 2025).

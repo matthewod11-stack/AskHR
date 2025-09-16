@@ -1,11 +1,19 @@
-# issues.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 84d1f0ca272163ecb4692d52fc3aced8a76bdb03
+title: california_state_university_northridge_1
+---
+## for damages and $150,000 for emotional distress.
 
-1.1.
+In another case, involving Bull HN Information Systems Inc., and an
 
-''Notify former employees of new job vacancies'' (Cole-Gomolski, 1999,
+antidiscrimination agency, the computer company settled in the matter of layoff
 
-p. 14).
+procedures for infonnation tech_nology. The attorney general for the state of
 
-1.2.
+Massachusetts settled charges that the company had discriminated against older workers
 
-''Require senior management to review all layoffs of workers over the age
+during layoff in the early 90s. There was no monetary compensation given to any worker
+
+or admission of wrongdoing, the company agreed to comply with the following three

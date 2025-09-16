@@ -1,19 +1,15 @@
-# advisor to an array of ﬁrms.
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8a75a2eaae17354938b4a081a025fce227034ee
+title: H08MUE-PDF-ENG
+---
+## discussions about the relative merits of remote and hybrid work and
 
-For example, the new leader of a corporate function recently asked me
+return-to-oﬃce policies. But these debates have largely focused on
 
-to work with her team to develop a new strategy for supporting the
+employees, without considering the implications of remotely based leaders and how they might need to work diﬀerently as they supervise
 
-business. We were organizing a big in-person work session with the
+performance and build culture from a distance. The challenges are real,
 
-team. Since the company is based in New York, I assumed that most of
-
-the leaders she managed would live in or near the city and suggested
-
-that’s where we should hold the meeting. She disagreed, thinking that
-
-maybe it would be better to ﬁnd a more central location so that no one
-
-would need to travel too far. When I expressed some confusion, she
-
-went on to explain that while she worked out of New York, the leaders
+but so are the beneﬁts—which I’ve seen in my work as a leadership

@@ -1,13 +1,37 @@
-# LITERATURE REVIEW
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: b3a7918aeae27f240c9a677c1adc97639c3616f8
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-Values express what's essential to you and your organization. Your values reflect your beliefs.
+Within our social contexts, conformity is pervasive. Occasionally, we are aware of our
 
-They reflect who you are and shape your culture. When considering values, think about your
+behaviour, but we often act unconsciously without much thought or awareness. Sometimes,
 
-conduct and decisions. If companies know who they are and who they aren't, they can hire
+we approve of things with which we disagree or behave in ways we are aware we cannot
 
-and fire the correct people. Employment branding and corporate culture boost hiring and
+control. Conformity facilitates the organization's behaviour as a single entity working together
 
-retention Effectiveness. Culture determines behaviour in any company. Culture is built on an
+as a team. Businesses must have regulations and guidelines that streamline and govern
 
-organization's values. These ideas help us understand what's right and wrong for our
+output standards to retain brand integrity. It may be claimed that conformity stifles
+
+innovation, but it also eliminates this issue by clarifying organizational norms and employee
+
+expectations. It enables companies to have a degree of uniformity, which increases the
+
+likelihood that everyone is working towards the same objective. Here it is pertinent to
+
+mention about a major research on the theme –Solomon Asch, a noted psychologist,
+
+recruited participants to execute what they thought was a simple perceptual test in these
+
+1950s experiments. Pupils had to pick a line that matched one of three lengths. Individuals
+
+choose the right decision. When questioned by confederates who had been informed of the
+
+study and purposely chose the wrong line, 75% of participants conformed at least once. This
+
+experiment effectively exhibits normative influence.

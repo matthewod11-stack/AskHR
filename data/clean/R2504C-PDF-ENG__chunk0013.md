@@ -1,17 +1,21 @@
-# with generative AI.
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db30c608a3b0b3fdd6ada33ebeb528720866c11c
+title: R2504C-PDF-ENG
+---
+## HBR / Magazine Article / “Speed Is a Leadership Decision”
 
-Let’s play the projection game. In 10 years how will AI remake business?
+more personalized over time. If you’re a golfer, it can ask, “What’s your
 
-I think almost every experience that we can imagine will be better. It
+handicap? Do you have a fast swing or a slow swing?” And it can explain
 
-doesn’t mean there won’t be people working on these things. Humans
+the beneﬁt of a graphite shaft versus a steel shaft. If you’re thinking
 
-will work in conjunction with AI agents—especially in areas where
+about buying apparel, you can ask, “Does this brand run large or small?”
 
-their unique capabilities and IQ can add value—but all the experiences
+We built a foundation model to compare all brands and identify which
 
-will be better. Great AI personal assistants will be accessible to almost
+ones run comparably small or large in order to recommend the right size
 
-everyone. Robots will do a lot of the work that today isn’t safe or
-
-that could cause injury from repetitive motion. It’s going to change
+for you. Every part of our retail customer experience will be reinvented

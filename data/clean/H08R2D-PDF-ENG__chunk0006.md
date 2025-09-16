@@ -1,7 +1,7 @@
-# Stability Has Its Perks
-
-To ﬁnd answers, we studied more than 10,000 companies from North
-
-America, Europe, and Japan over the past 20 years. From that cohort,
-
-we identiﬁed 172 stable ﬁrms, deﬁned by steady, near-zero revenue
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ad39fa0d06ba47de0a07e9fef22d98dfcded731
+title: H08R2D-PDF-ENG
+---
+# without growth?

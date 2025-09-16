@@ -1,21 +1,33 @@
-## For example, a recent Take Care Tuesday message —“Take Care of
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24382b37310fe55f5c6f7c28667839d0a12079d6
+title: H06K3M-PDF-ENG
+---
+## internal General Mills data from Microsoft Workplace Analytics). By the
 
-the Business” — reminded leaders “to know” that clear and consistent communication is essential during times of change and oﬀered these
+end of July, average hours spent in collaboration had increased to 25.7
 
-tips of things “to do”:
+hours per week — an increase of 20%.
 
-- 1. Tell a story that enables others to envision where we need to be and
+When the company combined this collaboration data with employee
 
-where we currently are
+experience data, they noticed that negative employee sentiment was
 
-- 2. Continue to capture hearts and minds by sharing why you think the
+also increasing during this time. As a result, they were able to
 
-change is important. and
+understand and take corrective actions to keep stress and burnout from
 
-- 3. Allow time for questions and reﬂections.
+continuing to accelerate.
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+One speciﬁc example, focusing on manufacturing and front-line employees, was branded as “Take Care Tuesday.” This weekly eﬀort
 
-8
+provided targeted, prioritized, and focused reminders to all leaders
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to help support overall well-being and team dynamics. Each targeted
+
+message focused on what a leader needs “to know” and quick tips on
+
+what “to do” — with the focus rotating each week from taking care
+
+of yourself, to taking care of others, to taking care of the business.

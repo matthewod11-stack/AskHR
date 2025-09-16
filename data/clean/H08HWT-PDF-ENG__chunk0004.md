@@ -1,9 +1,17 @@
-## HBR / Digital Article / Train Your Brain to Work Creatively with Gen AI
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1193473a9675a3f91016fc7cdde16f9f3fd747c3
+title: H08HWT-PDF-ENG
+---
+## tools. Many common digital tools already feature integrated AI co-pilots
 
-more to generative AI beyond enhancing or accelerating what we
+to automagically enhance and complete writing, coding, designing,
 
-already do. With the right mindset shift, or mindshift, we can train our
+creating, and whatever it is you’re working on. But there is so much
 
-brains to creatively rethink how we use these tools to unlock entirely
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-new value and achieve exponential outcomes in what’s becoming an
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

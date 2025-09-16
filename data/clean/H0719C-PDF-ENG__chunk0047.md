@@ -1,7 +1,25 @@
-## HBR / Digital Article / How to Be a Mental Health Ally
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dc446d18d4f567a2bdc6666033091bfd348bfd72
+title: H0719C-PDF-ENG
+---
+# Workshops and classes
 
-Another helpful employee resource is a mental health handbook that
+Informational events can provide useful background knowledge to all
 
-covers mental health basics, beneﬁts information, and a list of vetted
+employees. Several organizations oﬀer workplace training, the most
 
-health-care providers. Be sure to refer employees to reputable sources,
+popular being the Mental Health First Aid Course oﬀered by the
+
+National Council for Mental Wellbeing. Mental health nonproﬁts such
+
+as the National Alliance on Mental Illness – New York City (where I am
+
+on the board) also provide training.
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

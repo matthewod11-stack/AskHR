@@ -1,5 +1,9 @@
-# 128
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 9290b6d78b4b205c80dd530497ab80b9ccaf715c
+title: file_1
+---
+# High Procedural justice
 
-likely because the studied organizations are public universities and relevant external comparisons might result in a perception of underpayment.
-
-To fully test our Hypothesis 3 and study the significance of the indirect effects of interaction terms (gender X pay inequity and gender X procedural justice) through mediators (pay comparison and access to pay information) on organizational commitment, bootstrap confidence intervals were obtained (see Preacher and Hayes, 2008; Shrout and Bolger, 2002 for information on bootstrapping). For the interaction term gender X pay inequity, a procedure with 1,000 bootstrap samples yielded a bootstrap 95 % confidence interval (Lower CL = -.064; Upper CL = -.003), which does not include 0, suggesting that pay comparison and access to pay information partially mediate the link between pay inequity X gender and organizational commitment. However, the comparison of the mediation effects revealed that neither of the variables was superior to the other in their prediction power. In the case of interaction term gender X procedural justice, the bootstrap 95 % confidence interval (Lower CL = -.005; Upper CL = .060), included 0, suggesting that the gender difference in this regard is not explained by access to pay information or internal and external pay comparison. Thus, our Hypothesis 3 is supported for pay inequity but not for procedural justice.
+Further, we attempted to explore whether pay comparison and access to pay information would explain some of the observed gender differences. On step 3, the incremental variance significantly added to the prediction of organizational commitment in both Model 1 (F = 9.569, p < .001) and Model 2 (F = 5.909, p < .01), which suggests that our mediators predict organizational commitment over and above the main and interactive effects of gender, pay inequity, and procedural justice. Access to pay information ((cid:2) = .162-.169, p > .05) and internal pay comparison ((cid:2) = .199-.264, p > .01) were related to higher organizational commitment. External pay comparison ((cid:2) = -.118-.157, p > .05) was related to a lower level of organizational commitment. This is

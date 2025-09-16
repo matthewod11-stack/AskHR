@@ -1,15 +1,13 @@
-## HBR / Digital Article / Want to Use AI as a Career Coach? Use These Prompts.
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bbcef8e47760a36ac876005e3b6d249c5f4af8be
+title: H08O9C-PDF-ENG
+---
+# than most people.
 
-Indeed, AI has redeﬁned the meaning of expertise, which used to be
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-about knowing the answer to lots of questions, and is now more about
+7
 
-asking the right questions of AI, knowing how to vet AI’s insights on
-
-accuracy and utility (and detect when it is “hallucinating”), and coming
-
-up with a creative story that combines both your own knowledge and
-
-the wisdom you extract from AI. In simple terms, the more you know,
-
-the more you know how to use AI to persuade others that you know!
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

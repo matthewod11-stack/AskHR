@@ -1,39 +1,17 @@
-# and on weekends.
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7bb2275e0070588d105bc0153d7129a2077a0f13
+title: H08AAA-PDF-ENG
+---
+# HBR / Digital Article / 3 Ways to Build a Culture That Lets High Performers Thrive
 
-- Under-mentored: Because her organization focuses on ﬁxing and
+- Stressful goals: Because she’s done so well in the past, she often
 
-improving “squeaky wheels,” Élodie feels under-mentored by her
+receives the most complex and risky goals after others have failed.
 
-leaders. Since she doesn’t cause problems, her needs are not met.
+- Meeting mania: Because she is seen as an essential part of the team
 
-- Return-to-oﬃce pressure: Because she’s “high proﬁle,” Élodie has a
+and can often solve even the thorniest of issues, her days are ﬁlled with
 
-higher expectation to work from the oﬃce, resulting in less ﬂexibility.
-
-On top of that, leadership is becoming harder. Skill gaps, decreasing
-
-loyalty, worsening volatility, and higher worker expectations have
-
-increased the burden on leaders to the point where leaders are burning
-
-out at signiﬁcantly higher levels. After battling burnout for months,
-
-Élodie quit, despite her company taking all the standard measures to
-
-retain talent. So why aren’t current attempts working?
-
-For many reasons, and as we describe in our book Primed to Perform,
-
-many companies build cultures that are focused on controlling the
-
-output of low performers, rather than growing and unlocking everyone’s
-
-skills. For example, think about your task management meetings, where
-
-you review what tasks are red (problematic), yellow, or green. Who is
-
-this meeting for? Its purpose is typically to ensure that low performers
-
-get the bare minimum done. But is it helping low performers improve?
-
-And is it the best use of high performers’ time? In both cases, usually
+back-to-back meetings, which requires her to get work done at night

@@ -1,19 +1,17 @@
-# Push real concerns upward.
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9fca5e12af7f9a07bf535c1f5847dedced03e9f9
+title: H08VEI-PDF-ENG
+---
+# and the team.
 
-You might hear pushback or comments like, “This is just a fad” or “We
+Concrete case studies help make the strategy feel tangible and relevant.
 
-tried this before and it didn’t work.” Some of that resistance may be
+“There are going to be people who are harder to persuade, and you have
 
-noise, but legitimate concerns are worth paying attention to, according
+to do what you can to show them the way,” he says. “‘Just do it’ isn’t
 
-to Willett. “If you uncover real issues, you need to get that information
+going to help.” And it will likely backﬁre. Success stories can help people
 
-back up the ladder so that it reaches the people making the decisions.”
-
-The problem isn’t always the change itself, but how leaders are going
-
-about it. And there might be a better way to implement it, he says. In
-
-some cases, certain processes may need carve-outs or exceptions. “It
-
-might be something the CEO overlooked,” he says. “It’s important to get
+come around and see progress that can be made.

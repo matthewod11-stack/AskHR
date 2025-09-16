@@ -1,13 +1,17 @@
-## engagement, retention, and productivity, the reality on the ground
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42d6317ae3296f6ed99b9de9482c08f433fa588a
+title: H08IWB-PDF-ENG
+---
+# HBR / Digital Article / Why Mentoring Programs Fail — and How to Make Them Worthw…
 
-often falls short. Programs are frequently conﬁned to a small group
+to deliver on their promise, and what can organizations do to ensure
 
-of employees or lack the necessary communication and visibility to
+these initiatives eﬀectively retain their top talent?
 
-attract participation. As a result, many employees are unaware of or
+The issue lies not with mentoring itself but in the underutilization
 
-uninterested in participating in mentoring opportunities. Moreover,
+and ineﬀective reach of many mentoring programs. While studies
 
-potential mentors might be too overwhelmed with their own workloads
-
-to commit to meaningful mentorship, leading to a cycle of under-
+have consistently shown that eﬀective mentoring boosts employee

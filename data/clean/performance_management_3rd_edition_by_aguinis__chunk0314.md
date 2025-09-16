@@ -1,11 +1,31 @@
-# Endnotes
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8ad2ef2586911fd0c7a967e9e80f96824ba40772
+title: performance_management_3rd_edition_by_aguinis
+---
+## Pertains to both performance appraisal and management systems
 
-- 1. DeNisi, A. S., & Kluger, A. N. (2000). Feedback effectiveness: Can 360-degree appraisals be improved? Academy of Management Executive, 14, 129–139.
+1
 
-- 2. Halachmi, A. (2005). Performance measure- is only one way of managing ment of performance. Productivity and Performance Management, 54, 502–516. Journal
+2
 
-- 3. Fandray, D. (2001, May). Managing perform- ance the Merrill Lynch way. Workforce Online. Available online at http://www.workforce. com/archive/feature/ 22/28/68/223512.php. Retrieval date: August 25, 2011.
+3
 
-- 4. Bisoux, T. (2004). Man, one business. BizEd, 3(4), 18–25.
+4
 
-- 5. Holland, K. (2006, September 10). Performance reviews: Many need improvement. The New
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Source: Some of these criticisms were derived from the following sources: (a) Ryan, Liz. (2009, June 30). CEOs should skip performance reviews in 2009. Bloomberg Businessweek. Available online at http://www.businessweek.com/managing/content/ jun2009/ca20090630_736385.htm. Retrieval date: March 3, 2011; (b) Segal, Jonathan, A. (2011, January 14). The dirty dozen performance appraisal errors. Bloomberg Businessweek. Available online at http://www.businessweek.com/managing/content/ jan2011/ca20110114_156455.htm. Retrieval date: March 3, 2011; and (c) Hammonds, Keith H. (2005, August 1). Why we hate HR. Fast Company. Available online at from http://www.fastcompany.com/magazine/97/open_hr.html?page=0%2C0. Retrieval date: March 3, 2011.

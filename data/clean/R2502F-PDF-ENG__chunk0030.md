@@ -1,23 +1,23 @@
-## But among people from diﬀerent cultures, variances in rituals may
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ec75c1438cbe2506b1a8b83799289156c4fe7ef
+title: R2502F-PDF-ENG
+---
+# Don’t Adapt Rituals, Co-Create New Ones
 
-expand the communication gap and cause misunderstanding and
+Cross-cultural negotiations are further complicated by rituals—the
 
-conﬂicts. Unfortunately, people often express themselves or act without
+established and sometimes symbolic actions, behaviors, or even
 
-thinking consciously about how others who are unfamiliar with their
+ceremonies through which people convey messages and meaning
 
-rituals will interpret their words, behaviors, and moves. For negotiators, this can hamper eﬀorts to build a trusting relationship and increases the
+within a social or cultural group. If all members in a group accept and
 
-chances that benign behaviors will be misconstrued as adversarial.
+adopt similar rituals, social interactions become smoother, faster, more
 
-Note that diﬀerences in rituals have an impact not on what the parties
+pleasant, and automatic. In other words, rituals are culturally approved
 
-want but on how they prefer to achieve their goals. Some cultures—
+shortcuts for communicating important messages eﬃciently within a
 
-and individuals—tend to be rigid with time or deadlines; others are
-
-lax. Some like to tackle problems head-on; others like to go around
-
-them. Some like to talk straight; others are more indirect and careful.
-
-Some prize independence and empowerment; others prefer collective
+group. They facilitate the process of relationship building.

@@ -1,7 +1,19 @@
-## unsystematic, haphazard, and for many men a pathetic gamble.” To
+---
+source_path: H0785O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a809fee34afb6840902584401c4fa0f5b1783a15
+title: H0785O-PDF-ENG
+---
+# Mario De Meyer
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+In October 1922, the very ﬁrst essay in volume 1, number 1 of Harvard
 
-1
+Business Review laid out the purpose of the brand-new journal. “It is
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+pertinent to inquire how the representative practises [sic] of business
+
+men generally may be made available…and how a proper theory of
+
+business is to be obtained,” wrote Harvard Business School dean
+
+Wallace B. Donham. Without such a theory, “business will continue

@@ -1,7 +1,7 @@
-# Thousand Oaks, CA: Sage.
-
-Hackman, J. R. (1985). Doing research that makes a difference. In E. E. Lawler III, A. M. Mohrman Jr., S. A. Mohrman, G. E.
-
-Ledford Jr., & T. G. Cummings (Eds.), Doing research that is useful for theory and practice (pp. 126–149). San Francisco: Jossey-Bass.
-
-Hakel, M. D. (1979). Proposal to incorporate as the Society for Industrial and Organizational Psychology. Industrial- Organizational Psychologist, 16(4), 4–5.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 07fe6f761a2fcf7a37c82885d500f0fe3d3de944
+title: untitled
+---
+## Gutman, A. (2000). EEO law and personnel practices (2nd ed.).

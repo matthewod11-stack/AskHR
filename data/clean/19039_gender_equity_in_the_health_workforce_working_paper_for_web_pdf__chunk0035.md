@@ -1,3 +1,9 @@
-## agenda, few comprehensive studies on gender in the health
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: eb4e66dcb5c109e7406792eadefeba7896b1e702
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+# transformative actions and investments.
 
-and social workforce have been conducted at the global level. This brief is based on an analysis of WHO NHWA data5
+While gender issues have been at the top of the global

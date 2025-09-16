@@ -1,17 +1,13 @@
-# some other way?
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8bdcb5bf9c06725b08b449d572eb1121253fa16
+title: H07U7Q-PDF-ENG
+---
+# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
 
-JASON BUECHEL:
+ADI IGNATIUS:
 
-It’s really ﬁguring out how we expand our reach and impact. One of the
+What do you see as Whole Foods’ biggest challenges? Is it simply to grow
 
-ways we’ll do that obviously is adding new stores, but it’s also ﬁnding
-
-new ways that we can serve customers.
-
-One of the things we launched earlier this year is the ability to have
-
-items directly shipped to our customer’s homes through Amazon. We
-
-currently have over 800 products available within our exclusive brands,
-
-our 365 brand as an example. That’s something we can serve more
+as quickly as possible, to add new stores? Or do you think about it in

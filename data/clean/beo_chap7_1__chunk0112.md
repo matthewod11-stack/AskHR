@@ -1,39 +1,29 @@
-## large companies in the S&P 500—be the very embodiment of the hyper-rational
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 5f6b711c1da65e726d33dce0735e31a9f2e84ca1
+title: beo_chap7_1
+---
+# variations in anti-takeover laws.
 
-Homo oeconomicus? For example, would executive selection processes not ensure
+To push the argument for biased decision-making in corporations even further,
 
-that more rational and socially neutral agents rise to the top? Not necessarily. As
+the market not only may be unable to “short-sell biased CEOs” and to thereby
 
-long as a specific bias is not negatively correlated with the ability to have a success-
+remedy distorted corporate decision-making, but may actually value managerial
 
-ful corporate career, CEOs are not necessarily less likely to deviate from rational
+overconfidence. As Goel and Thakor (2000) and Gervais et al. (2003) point out,
 
-decision-making than the average individual. Goel and Thakor (2000) also point out
+diversified shareholders, who would like managers to make risk-neutral choices
 
-that managers may even be more likely to be promoted to CEOs in a tournament set-
+and to maximize the expected value of their firms, may prefer managers to be
 
-ting if they underestimate project risk, which leads them to take very risky projects
+overconfident if it balances managers’ risk aversion.
 
-with the largest probabilities of very large returns. In the implicit rank-order tourna-
+If, for all of those reasons, certain managerial biases are unlikely to be eliminated
 
-ment among potential successors of a CEO, the biased person is thus more likely to
+by market pressures or to be remedied by the organizational design, the question
 
-have the highest outcome, conditional on success, and is therefore unconditionally more likely to have the highest rank.*!
+is: are top managers likely to exhibit biases in the first place? Shouldn’t people
 
-Moreover, if superior management skills are correlated with limits on rationality
-
-and self-interest then it is conceivable that top managers are even more judgmen-
-
-tally biased and social-comparison-minded than average workers. Confidence may
-
-be correlated with other kinds of managerial value—like inspiring workers or mes-
-
-merizing Wall Street analysts-—so sorting may actually select for overconfidence
-
-rather than filter it out. Mistakes in one type of judgment may be a price one pays for
-
-21 See Van Den Steen (2004) for a related argument about the endogenous generation of overconfidence
-
-due to the selection of tasks in which the agent is likely to succeed.
-
-259
+successful and smart enough to become the leader of a company—in particular of

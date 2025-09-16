@@ -1,15 +1,21 @@
-## HBR / The Big Idea / Long Covid at Work: A Manager’s Guide
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8829b928dcb90737030c8023f03f3c82cdf8ca46
+title: H087FX-PDF-ENG
+---
+## work opportunities, ﬂexible hours, and recordings and transcripts of
 
-reassign tasks that are particularly challenging for an individual and to
+meetings they can reference. (A list of 10 common symptoms and
 
-add in tasks better aligned with their current capacity?
+potential accommodations can be found at the end of this article.)
 
-Consider recruiters, who may do a combination of on-site work (such
+Supporting people with these conditions also means reviewing and
 
-as job fairs and hiring days at speciﬁc locations) and remote work that
+potentially adjusting the work they are asked to do. Is there room to
 
-can ﬁt schedule needs (such as reviewing résumés, screening candidates
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-over the phone, and talking to colleagues across departments to
+7
 
-understand hiring needs). If a recruiter with long Covid has signiﬁcantly
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

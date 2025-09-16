@@ -1,3 +1,9 @@
-# 2 Marginal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 08d5e4dba385f8876430f2ef51aa2ea5e8850e0b
+title: document_resume
+---
+# 3 Acceptable
 
-Reviews topic(s) to be covered. Outlines presentation or instruc- tional activity so that instructional time is not wasted. Usually is prepared with materials necessary for class instruction.
+Develops outlines and notes to ensure that key concepts are emphasized; that textbooks and other materials are integrated. Instructional time is wisely used. Comes to class prepared with necessary materials for classroom instruction.

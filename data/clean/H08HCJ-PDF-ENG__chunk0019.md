@@ -1,13 +1,9 @@
-## better balance between the presence of large ﬁrms and the needs of
+---
+source_path: H08HCJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a0cdc23aff550daba0c4138d647648373337b03
+title: H08HCJ-PDF-ENG
+---
+# HBR / Digital Article / Research: The Risks of Founding a Startup Near Big Companies
 
-the entrepreneurial community. For example, regional policymakers
-
-frequently seek to attract large ﬁrms with tax and other incentives, and
-
-we show that they face a tradeoﬀ in doing so. Large ﬁrms can increase
-
-agglomeration economies in a region, but crowding might diminish
-
-or even reverse these beneﬁts. Regions that recruit large ﬁrms with a
-
-specialized focus and have policies that improve employee mobility,
+of local policymakers. Some regional policies are poised to provide a

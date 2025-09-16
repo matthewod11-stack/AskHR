@@ -1,17 +1,27 @@
-## customers on their satisfaction with our oﬀerings — and of the
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ad95fecc07fb7f264826656a85e5886047f4b43
+title: H08IKZ-PDF-ENG
+---
+# lodging.
 
-additional insights gained speaking to non-customers about why they
+- 4. Selecting data sources.
 
-are choosing a competitor’s services or not choosing any service at all.
+Assessing your options can beneﬁt from relevant data. But even though
 
-Moreover, not all valuable information is quantiﬁable. For a car, factors
+the word data derives from the Latin “datum” (something that is given),
 
-like comfort, aesthetics, or driving experience are subjective. We need
+data needs to be created: captured, ﬁltered, selected, interpreted and
 
-to identify proxies for these qualitative aspects or gather ﬁrsthand
+corrected — a task that requires human agency and discernment.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+We must avoid the trap of focusing only on given or easily
 
-4
+accessible data. In our car-purchasing scenario, relying solely on manufacturer-provided fuel-eﬃciency data may not provide the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+complete picture. Supplementing this with independent reviews of real-
+
+world performance can lead to a more informed decision.
+
+In business, think of the ease with which we can query current

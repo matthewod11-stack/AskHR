@@ -1,33 +1,17 @@
-## HBR / Magazine Article / Why You Need Systems Thinking Now
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb5bda3a882740e08b00312b552af3833cc31c51
+title: R2505M-PDF-ENG
+---
+## eﬀects in turn exacerbate climate change in a vicious feedback loop.
 
-relationship between soil quality and climate change, we ﬁgured, they
+In other words, industrial farming experiences the cost of climate
 
-would be more interested in the university’s research.
+change through its impact on soil quality. If farmers understood the
 
-With this reframing, more farmers answered our calls and participated
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-in the workshops with other stakeholders. The work resulted in a
+11
 
-number of innovations, from low-tech solutions, such as oﬀering sheep
-
-for hire to serve as natural grazers and fertilizers, to high-tech ones,
-
-such as developing and applying iron oxide nanoparticles to the soil.
-
-The initiative also served to validate and accelerate the deployment of
-
-Susterre Technologies’ high-pressure water system for planting seeds,
-
-allowing farmers to maintain crop cover, which sequesters more carbon
-
-than tilling soil does.
-
-- 3. Focus on ﬂows and relationships, not products or services. Most
-
-innovators focus their energy on ﬁnding a product or service that will
-
-solve the problem they’ve identiﬁed. And from a user’s perspective,
-
-it is much easier to make sense of the innovation when it comes in
-
-the form of a physical object—for example, Meta’s new smart glasses
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

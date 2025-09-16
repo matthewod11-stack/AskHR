@@ -1,7 +1,15 @@
-## HBR / Digital Article / The Definitive HBR Strategy Glossary
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f884e7dbbb7ae657a89a87c30456a624552c3fab
+title: H08TKY-PDF-ENG
+---
+## stocks of resources for its business and strategy.
 
-- 1. The test of inimitability: Is the resource hard to copy?
+These market tests are:
 
-- 2. The test of durability: How quickly does this resource depreciate?
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-- 3. The test of appropriability: Who captures the value that the resource
+25
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

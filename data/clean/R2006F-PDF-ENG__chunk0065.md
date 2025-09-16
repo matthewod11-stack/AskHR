@@ -1,23 +1,29 @@
-## HBR / Magazine Article / How Apple Is Organized for Innovation
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0b7c819bb0912b2ae5cd49eed6933b8e2759365d
+title: R2006F-PDF-ENG
+---
+## the top-level aspects of software applications and their architecture that
 
-often passionate critiques of his team’s work. (Clearly, general managers without his core expertise would ﬁnd it diﬃcult to teach what they don’t
+aﬀect how users engage with the software. He also collaborated with
 
-know.)
+managers across the company in projects that involved those areas.
 
-See more HBR charts in Data & Visuals on HBR.org.
+But with the expansion of his responsibilities, he has moved some
 
-The second challenge for Rosner involved the addition of activities
+things from his owning box—including traditional productivity apps
 
-beyond his original expertise. Six years ago he was given responsibility
+such as Keynote and Pages—into his teaching box. Now he guides and
 
-for the engineering and design of News. Consequently, he had to
+gives feedback to other team members so that they can develop software
 
-learn about publishing news content via an app—to understand news
+applications according to Apple’s norms. Being a teacher doesn’t mean
 
-publications, digital advertising, machine learning to personalize news
+that Rosner gives instruction at a whiteboard; rather, he oﬀers strong,
 
 Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-19
+18
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

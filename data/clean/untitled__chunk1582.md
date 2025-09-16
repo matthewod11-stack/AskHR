@@ -1,5 +1,11 @@
-# CO: Westview Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: cb5ec0ab041e20a38af72766bd86da26c1d028a2
+title: untitled
+---
+# University of Minnesota Press.
 
-Tolman, D. T., & Szalacha, L. A. (1999). Dimensions of desire: Bridging qualitative and quantitative methods in a study of fe- male adolescent sexuality. Psychology of Women Quarterly, 23, 9–42.
+Tiefer, L. (1991). A brief history of the Association for Women in Psychology. Psychology of Women Quarterly, 15, 635–649.
 
-Unger, R. K. (1979). Toward a redeﬁnition of sex and gender.
+Tiefer, L. (1995). Sex is not a natural act and other essays. Boulder,

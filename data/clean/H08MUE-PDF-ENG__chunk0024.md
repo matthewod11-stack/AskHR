@@ -1,11 +1,23 @@
-## quarter so he and other leaders can share information with each other
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8960d9113a4c59bc743f9de96b12159e30772310
+title: H08MUE-PDF-ENG
+---
+## HBR / Digital Article / The Pandemic Proved That Remote Leadership Works
 
-and have unscripted time with their teams. He has also shaped the team
+of these trips requires not only time, but pre-planning to connect with
 
-so that he has strong business and HR leaders at each site to help him
+the right people and have the right agendas. In other words, managing
 
-consult with them ahead of a visit about how to best leverage his time.
+from a remote location takes real work, planning and thinking—more
 
-Monitoring performance through technology and greater structure
+perhaps than just coming to an oﬃce on a regular basis.
 
-Without immediate visual cues and interaction, leaders need to
+One of my clients, who lives on the east coast but manages large
+
+concentrations of people in several other locations, told me he is
+
+very deliberate with his travel planning, arranging meetings and even
+
+unstructured time in advance. He organizes a town hall at each site each

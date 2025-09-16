@@ -1,11 +1,25 @@
-# beginning of the pipeline as well.
+---
+source_path: H08GMA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 749e3edc0064d79f21fbe15bdd41ad3fbf56f2d7
+title: H08GMA-PDF-ENG
+---
+# What Companies Should Do
 
-Companies should start by monitoring representation at every level.
+It’s not only younger men whose commitments to diversity are
 
-Using existing data, they can determine whether or not women are
+declining; companies’ commitments are also the lowest they have been
 
-underrepresented at the entry level and if so, why. Adopting tried-
+in years. This deprioritization is worrisome given our report’s stark
 
-and-true approaches, like inclusive hiring and recruiting, can help
+reminder that gender equality won’t simply be achieved by the passage
 
-companies ensure that younger women are entering the workforce at
+of time. Indeed, what history shows us is that social change requires
+
+deliberate and sustained eﬀorts. Thus, instead of scaling back, it’s
+
+incumbent on companies to continue to push forward and take action.
+
+All too often, eﬀorts to advance women are targeted at the C-suite. But
+
+achieving gender parity in corporate America demands action at the

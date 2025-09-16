@@ -1,5 +1,11 @@
-# International Associations: Specialized
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 86516be58088ebec2dde5e21f71aac6db362cf43
+title: untitled
+---
+# Other Regional Meetings
 
-Therearemanyinternationalorganizationsthatrepresentpsy- chologists who are interested in speciﬁc areas of research or practice. Fourteen international organizations are afﬁliated with the IUPsyS. In addition, there are at least 65 others, and probably more.Also, at least 30 specialized organizations focus primarily on members in a particular region, such as Europe,Asia–South Paciﬁc, and the Nordic countries.Almost alloftheseorganizationswereestablishedinthelasthalfofthe twentieth century.
+Since 1995, regional congresses of psychology have been held, primarily in developing areas of the world, under the cosponsorship of the IUPsyS and the IAAP. These con- gresses usually do not involve permanent regional organi- zations; rather, the host country organizes them, and most participants come from the surrounding region, although psy- chologists from other regions are welcome to register and
 
-Among the more prominent specialized international or- ganizations are the International Neuropsychological Society (est. 1967), the International Society for the Study of Behav- ioural Development (est. 1969), the Jean Piaget Society (est. 1970), the International Association for Cross-Cultural Psy- chology (est. 1972), and the International Test Commission (est. 1974). Examples of specialized regional associations in- clude the European Association of Psychological Assessment (est. 1990), the European Health Psychology Society (est. 1986), and the International Society of Political Psychology (est. 1978).
+attend. These regional meetings are especially important for younger psychologists and colleagues from less developed countries who may not be able to afford the travel costs and registration fees for world congresses. Regional congresses have been held in Guangzhou, China (1995), Mexico City, Mexico (1997), Durban, South Africa (1999) and Mumbai, India (2001).

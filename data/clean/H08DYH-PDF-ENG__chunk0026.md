@@ -1,13 +1,39 @@
-# goals.
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 096caac6b04515b9c4a99ac720539d6c1dcf6ceb
+title: H08DYH-PDF-ENG
+---
+## a boring meeting room into a “laboratory” or “greenhouse” with the
 
-For instance, it’s important to actually integrate the above suggestions
+help of local art students can provide a physical signal that the
 
-into routines and at the right junctures to make them habits. Integrating
+space is dedicated to nurturing ideas and fostering a playful mindset.
 
-short, playful breaks into the daily routine can shift employees’
+Additionally, organizations can introduce team-building practices
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+that encourage light-hearted, non-work-related conversations during
 
-5
+meetings. Set aside a few minutes at the start of each meeting for
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+team members to share something fun, like a favorite hobby or a recent
+
+adventure. These brief moments of connection can help build rapport,
+
+reduce stress, and create a more open and collaborative environment
+
+where creativity can thrive.
+
+- 3. Incorporate playfulness strategically.
+
+Leaders should be intentional about when they use playful techniques,
+
+ensuring they align with the needs of the team and the goals of the
+
+activity. It should be seen as a tool to unlock creativity when needed,
+
+not as a constant state or just a means to an end of greater productivity.
+
+Remember that when you prioritize the well-being of your workforce,
+
+you’ll have far better odds of accomplishing your team’s long-term

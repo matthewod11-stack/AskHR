@@ -1,15 +1,11 @@
-# work together in person.
+---
+source_path: H07TSI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72202a1d574e24372401a50d061d4e9ebddc7ebc
+title: H07TSI-PDF-ENG
+---
+# Illustration by Beatrice Caciotti
 
-This debate continues to miss the point.
+This fall, companies are once again pushing workers to return to the
 
-One-size-ﬁts-all mandates can succeed only if work is a universal task
-
-executed by a homogenous workforce. Of course, we know neither is
-
-true. Instead of threatening employees, CEOs should empower and
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+oﬃce, continuing the debate over how many days employees should

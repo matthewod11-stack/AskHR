@@ -1,1 +1,23 @@
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 755ff99e35f34f7f324b72e0333ce9d9d5256f79
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
 ## Impact of inclusiveleadershipon employeeinnovativebehavior
+
+linking inclusive leadership to employees’ innovative behavior remains underdeveloped. In this section, the mediating role of POS will be clarified. How inclusive leadership affects POS will be clarified first, and subsequently the effect of POS on innovative behavior will be explained.
+
+According to organizational support theory [43], employee’s perception of favorable treat-
+
+ment received from the organization, such as supervisor support, should increase POS [52]. Supervisors in leadership roles played a key role in providing organizational resources and rewards for subordinates, and therefore, should be regarded as an important source of organi- zational support [53]. Inclusive leader could provide benefits that subordinates could make use of. Supportive behaviors from inclusive leader helped subordinates perceive that their contri- butions were valued and their well-being were cared about [54], and should enhance POS. Thus, supportive behaviors from inclusive leaders should be closely related to POS, and we proposed the following hypotheses:
+
+Hypothesis 2: Inclusive leadership is positively related to POS. Employees’ innovative behavior can be stimulated by fostering a work context in which employees feel supported to generate, promote, and realize inventive ideas and concepts [55]. Innovation and spontaneous problem solving may additionally be associated with perceived support [55, 56]. First, on the basis of social exchange theory [57], POS should elicit the norm of reciprocity, leading to employee’s obligation to help the organization to achieve its goals, as well as the expectation that increased efforts on the organization’s behalf would be noticed and rewarded [52]. Employees who perceived high levels of POS were more likely to feel a duty of caring for the organization’s development and help it achieve its goals. Luksyte and Spitzmuel- ler (2016) indicated that “high levels of POS create a sense of obligation to contribute to the organization” [23]. This responsibility enhanced employees’ affective commitment to the orga- nization and the will of retention. For instance, according to the social exchange theory (the principle of reciprocity), employees’ sense of responsibility and emotional commitment would help decrease absenteeism and increases altruistic behavior [58]. Barksdale and Werner (2001) argued that POS could motivate employees to better fulfill in-role behavior [59]. Similarly, employees who felt more POS experience a better needs–supplies fit, and increased creativity [23]. Also, Bammens claimed that organizational care, which was closely related to POS, posi- tively predicted innovative behavior [20]. Conversely, when employees perceived low support of organization, their involvement in innovation would be lessened [55]. Therefore, we suggest the following hypothesis:
+
+Hypothesis 3: POS is positively related to employee innovative behavior. Inclusive leadership could influence employee innovative behavior through POS. Accord-
+
+ing to social exchange theory [57], the more desired inclusion, permission, and resources employees received from the leader and organization, the higher the POS and the more moti- vated and obliged they were to reciprocate by being more engaged in innovative behaviors. Employees were highly attuned to leaders’ behavior and examined leader actions for informa- tion on what was expected and acceptable in organizational interactions [60]. To assist them in unleashing their innovation potential, employees may require a general sense that leaders showed support [4,51]. On the one hand, if leaders care about subordinates’ needs and feelings, provided positive feedback, encourage employees to express their own ideas and develop their skills, and helped them solve job-related problems, organizational loyalty and employees’ interest in work will greatly improve, increasing their enthusiasm to explore and innovate [61]. Furthermore, inclusive leadership could inspire a sense of responsibility: When employ- ees received support from the organization, their confidence increases, they demonstrate more voluntary acts, and actively use their potential to fulfill the organization’s mission, further increasing their abilities and awareness of innovation [62].
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0212091 February 28, 2019
+
+5 / 14

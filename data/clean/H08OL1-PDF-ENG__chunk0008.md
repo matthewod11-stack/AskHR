@@ -1,23 +1,23 @@
-## HBR / Digital Article / Research: The Gender Wage Gap Tipping Point
+---
+source_path: H08OL1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1cc2b4be3fbdf84e51d602d66379288ea46c155
+title: H08OL1-PDF-ENG
+---
+## the World Economic Forum’s (WEF) Global Gender Gap Index. The data
 
-wage gap is deﬁned as female full-time workers’ median earnings
+is also widely inclusive of 40 diverse job categories like professional occupations, senior and middle management, oﬃce support, and care
 
-divided by male full-time workers’ median earnings.
+providers across diﬀerent industries, making it particularly useful for
 
-Our results showed that the gender wage gap closed more quickly when
+examining the wage gap. The 40 job categories cover nearly all of
 
-there were fewer than 14% women in the category—in other words,
+Canadian employment. We analyzed 22 years of annual data from 1997
 
-when women were more underrepresented. But once women made up
+to 2018 for each of the job categories. For each job category, the gender
 
-a certain proportion of the occupation—the “tipping point”—progress
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-continued but at a much slower pace. For example, before the tipping
+2
 
-point, adding just 1 percentage point more women to a job category, say
-
-from 8% to 9%, shrinks the wage gap noticeably. But after that point,
-
-progress slows such that it takes adding about 3.6 percentage points
-
-more women, say from 20% to 23.6%, to achieve the same improvement.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

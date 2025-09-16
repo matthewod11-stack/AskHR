@@ -1,7 +1,7 @@
-## The Differential Role of Cognitive and Affective Trust
-
-An increase in studies adopting multidimensional operationalisations allowed us to
-
-explore the effects of the cognitive and affective components of trust. Interestingly, when
-
-considered in parallel, affective trust in the leader was the only significant predictor of
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 871f66b2ddfccb559a88ef8054d8acad7e2bb41f
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# mediators.

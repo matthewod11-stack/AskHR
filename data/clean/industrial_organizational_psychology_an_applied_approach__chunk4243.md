@@ -1,9 +1,17 @@
-## Ilardi, B. C., Leone, D., Kasser, T., & Ryan, R. M. (1993).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b6816afcd998d143272c0f820ed52266a344bf41
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Hutchison, S., Valentino, K. E., & Kirkner, S. L. (1998). What
 
-Employee and supervisor ratings of motivation: Main eﬀ ects and discrepancies associated with job satisfaction and adjustment in a factory setting. Journal of Applied Social Psychology, 23(21), 1789–1805.
+works for the gander does not work as well for the goose:
 
-Ilgen, D. R., & Bell, B. S. (2001a). Informed consent and dual purpose research. American Psychologist, 56(12), 1177.
+Th e eﬀ ects of leader behavior. Journal of Applied Social Psychology, 28(2), 171–182.
 
-Ilgen, D. R., & Bell, B. S. (2001b). Conducting industrial and
+Hyatt, D. E., & Ruddy, T. M. (1997). An examination of the relationship between work group characteristics and performance: Once more into the breach. Personnel Psychology, 50(3), 533–585.
 
-organizational psychology research: Review of research in work organizations. Ethics and Behavior, 11, 395–412.
+Iaﬀ aldano, M. T., & Muchinsky, P. M. (1985). Job satisfaction and
+
+job performance: A meta-analysis. Psychological Bulletin, 97, 251–273.

@@ -1,5 +1,9 @@
-# 6.3 DETERMINING OVERALL RATING
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: aaedc7e08ef318ec3ad330a3a73ebf73065a034f
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part II • System Implementation
 
-After the form has been completed, there is usually a need to compute an overall perform- ance score. This is particularly necessary for making administrative decisions such as the allocation of rewards. Computing overall performance scores is also useful in determining whether employees, and groups of employees, are improving their performance over time. Two main strategies are used to obtain an overall performance score for each employee: judgmental and mechanical. The judgmental procedure consists of consid- ering every aspect of performance and then arriving at a defensible summary. This basically holistic procedure relies on the ability of the rater to arrive at a fair and accu- rate overall score. The mechanical procedure consists of first considering the scores assigned to each section of the appraisal form and then adding them up to obtain an overall score. When adding scores from each section, weights are typically used based on the relative importance of each performance dimension measured.
-
-Consider the performance evaluation form shown in Figure 6.3, which is used to evaluate the performance of sales associates at a supermarket chain.4 This form includes the hypothetical ratings obtained by a sales associate on just two competencies and just two key results (the complete form probably includes more than just four performance dimensions). You can see that, in the Competencies section, each competency is weighted according to its value to the organization. Specifically, Follow-Through/Dependability is given a weight of .7 whereas Decision Making/Creative Problem Solving is given a weight of .3. For the competency Follow-Through/Dependability, Anthony Carmello obtained a score of 4 for the first half of the review period and a score of 3 for the second half of the review period; consequently, the scores for this competency are 4 (cid:5) .7 (cid:4) 2.8 for the first half and 3 (cid:5) .7 (cid:4) 2.1 for the second half of the review period. Adding up the
+point to consider regarding these and other forms is that they should include the critical components discussed here because such forms help organizations implement a per- formance-focused culture. An exclusive emphasis on the appraisal form should be avoided; it is just one component of the performance management system.

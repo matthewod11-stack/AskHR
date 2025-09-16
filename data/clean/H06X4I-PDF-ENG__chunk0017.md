@@ -1,21 +1,19 @@
-# HBR / Digital Article / Remote Work Has Opened the Door to a New Approach to Hiring
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b040c3352c67085f4a4cdf9aa44251e292448909
+title: H06X4I-PDF-ENG
+---
+# traditional hiring arrangements.
 
-willingness to utilize remote freelancers, both during the pandemic and
+Things are beginning to change, however. In surveys conducted by
 
-going forward.
+Ozimek from a representative panel of ﬁrms, more than half of hiring
 
-The supply of workers interested in these models has simultaneously
+managers indicated that remote work has opened up their ability or
 
-swelled. Self-employment rates have surged over the past year,
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-supporting anecdotal reports that many considering adding to the Great
+3
 
-Resignation were seeking more ﬂexibility and control over their lives.
-
-In a representative survey of working-age people in the U.S., one out of
-
-ﬁve respondents who could work mostly remotely during the pandemic
-
-reported considering freelancing to stay remote. Among those who
-
-would consider freelancing, a more ﬂexible schedule was what they
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

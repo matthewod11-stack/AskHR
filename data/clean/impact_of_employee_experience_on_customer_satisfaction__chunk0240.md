@@ -1,15 +1,13 @@
-# Table 5 Correlation between Q19 and Q20
-
-Effect size indicates whether a relationship is meaningful in a practical sense,
-
-regardless of the amount of data. In this case represent 0.537 which is large effect.
-
-R-squared is a measure of how well a value for one variable could be predicted by
-
-entering a value for the other in the below formula:
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: b5ec7f533d77758da75afa604d6fbc40ed824812
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 44 | P a g e
 
 Q19: “I can manage my job responsibilities in a way that enable a healthy work-life
 
-balance” = (0.609 x Q20: “I have the flexibility I need in my work schedule to meet
+balance” is strongly positively correlated with Q20: “I have the flexibility I need in
 
-both work and personal needs”) + 0.858 which shows strong statistical relationship
+my work schedule to meet both work and personal needs”

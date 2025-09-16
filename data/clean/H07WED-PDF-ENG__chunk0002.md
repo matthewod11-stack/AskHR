@@ -1,11 +1,7 @@
-# Big Cheese Photo/Getty Images
-
-Project managers, in theory, are some of the best candidates to
-
-become CEOs of their organizations. In their daily work, they must
-
-bring together all the disparate aspects of theory, reality, vision,
-
-process, ﬁnances, value, politics, and human nature to create successful
-
-outcomes. When you demonstrate success in managing enterprise-level
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 145719317592d6f521475b6cca7b6fe7ce147b46
+title: H07WED-PDF-ENG
+---
+## Published on HBR.org / November 8, 2023 / Reprint H07WED

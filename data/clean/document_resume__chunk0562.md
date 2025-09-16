@@ -1,9 +1,13 @@
-## "Uniform Guidelines on Employee Selection Procedures," Federal Register
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: bceefae13b4497f9394f35104e51084520a22e2e
+title: document_resume
+---
+## Personnel Psychology 14 (Spring 1961), pp. 141-149.
 
-43 (August 25, 1978), pp. 38302-38303.
+- 35. Patricia Smith and Lorne M. Kendall, "Retranslation of Expeciations. An Approach to the Construction of Unambiguous Anchors for Rating Scales," Journal of Applied Psychology 47 (February 1963), pp. 149-155.
 
-- 38. Baruch Nevo, "Face Validity Revisited," Journal of Educational Measure-
+- 36. Gatewood and Field, op. cit., p. 135.
 
-ment 22 (Winter 1985), pp. 287-293.
-
-- 39. Charles Secolsky, On the Direct Measurement of Face Falidity. A Comment
+37.

@@ -1,13 +1,25 @@
-# execution.
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7039a891f796f39e745e4ad4414e7e19fa06397
+title: H08G4O-PDF-ENG
+---
+# them.
 
-- 5. They show raw horsepower and agility, learning through trial and error. More than half of the founder CEOs in our dataset showcased an
+- 4. They live and breathe the business, bringing drive and resilience.
 
-exceptional ability to pivot their companies and products as the context
+Seventy-six percent of founder CEOs in our dataset exhibited a level
 
-shifted, constantly adapting by problem-solving or innovating concepts,
+of drive and resilience that goes beyond simply working hard. One
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+board member shared, “The beneﬁt of founders is that they are
 
-5
+entrepreneurial — they care deeply. They act like owners and work
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+super hard. That’s what they’ve had to do to succeed.”
+
+For non-founder CEOs, their hard-charging desire to deliver, a strength
+
+shared among 60% of those in the dataset, stemmed from a history
+
+of consistently demonstrating credibility through action-oriented

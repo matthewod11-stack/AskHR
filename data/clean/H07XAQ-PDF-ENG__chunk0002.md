@@ -1,5 +1,7 @@
-# Yaroslav Danylchenko/Stocksy
-
-Imagine a novice gardener looking for a single solution to a pest
-
-problem. They step into a gardening store, hoping for some guidance.
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 533eae22be8a5f05c0e3d8e54a0375a0dadf0ccb
+title: H07XAQ-PDF-ENG
+---
+## Published on HBR.org / December 6, 2023 / Reprint H07XAQ

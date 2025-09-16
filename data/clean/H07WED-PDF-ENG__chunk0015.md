@@ -1,11 +1,15 @@
-# outline shortly.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 47701f6f73e0d5e064c3568d8d740b7c1f2a6a6f
+title: H07WED-PDF-ENG
+---
+## them with a holistic understanding of how the business operates and
 
-In contrast, the career path of a project manager is often characterized
+relevant expertise to the organization’s strategic needs. They may have
 
-by a more conﬁned, linear progression. They typically begin as
+opportunities to serve as chief operating oﬃcers (COOs) or in other
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+high-level positions before assuming the CEO role. This transitional
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+phase allows them to develop executive competencies, which we’ll

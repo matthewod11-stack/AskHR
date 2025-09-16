@@ -1,7 +1,7 @@
-# The 70/20/10 Learning Model
-
-If our organizations are to learn the skills needed to win the future,
-
-we recommend a “70/20/10” learning model incorporating education,
-
-exposure, and experience. Here’s how it works:
+---
+source_path: H07T9G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec3ff81b7c3e02c0df73d7efb119c00faf75415d
+title: H07T9G-PDF-ENG
+---
+# performance.

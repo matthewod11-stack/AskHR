@@ -1,9 +1,19 @@
-# work environment.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22a0a6c4a3315e0f3b7d1fccc8720ad0ce083588
+title: H06K3M-PDF-ENG
+---
+## a very signiﬁcant impact of collaborative overload on employee well-
 
-Three key actions emerged from these analytic insights:
+being.
 
-- The implementation of a “Free-Form Fridays” policy. Employees
+The solution was to help people structure time diﬀerently, rather than
 
-were instructed to leave their calendars blocked starting at 2:00pm
+invite them to more meetings. While this is not the sole, silver-bullet
 
-every Friday, to provide dedicated space to engage in “deep work,”
+solution, General Mills is continuing to use data to help teams and
+
+individuals better manage the shifting nature of collaborative demands,
+
+especially as new teams are preparing for a more hybrid and ﬂexible

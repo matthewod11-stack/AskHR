@@ -1,11 +1,9 @@
-# Promoting “the Intuitive Method”
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b18077e4a24e216429b592bcc5b34fe6d3cf7e8c
+title: untitled
+---
+# 186 Personality
 
-After returning from Europe, Allport struggled to reconcile the empirical and quantitative American approach to per- sonality with the more theoretical and qualitative German approach (G. W. Allport, 1962b). He became particularly in- terested in the German method known as Verstehen, which he translated as “the intuitive method” (G. W. Allport, 1929) or “case method” (Roe, 1962)—“the understanding of the con- crete personality in its cultural setting” (G. W. Allport, 1929, p. 15). Contrasting the intuitive method with the psychomet- ric approach,Allport remarked, “It was inevitable that mental testing should appear. By these methods persons can be com- pared with persons, but can never in the wide world be under- stood in and of themselves” (n.d., p. 11; emphasis in original [Courtesy of the Harvard University Archives]; see also G. W. Allport, 1924, p. 133; 1929, p. 16, for further elabora- tions of this point, which was one ofAllport’s cardinal princi- ples). By this,Allport meant that only the intuitive method, by its focus on the whole person rather than the measurement of separate traits, could reveal the interaction or organization of traits within the person. (We discuss this point further below.) In 1928, Allport conducted “an experiment in teaching by the intuitive method” (G. W. Allport, 1929, p. 14), basing an introductory psychology course on the autobiography of William Ellery Leonard (1927) and requiring that students prepare a case study (G. W. Allport, 1929). It is probably in this context that Allport began to develop his suggestions for preparing case studies (G. W. Allport, 1937b). He continued to teach by the case method throughout his career, using auto- biographies (e.g., Leonard, 1927; Wells, 1934), personal documents, and other case materials and assigning the prepa- ration of case studies (Barenbaum, 1997b; Cherry, 2000).
-
-Allport’s early publications promoting “the study of the undivided personality” (G. W. Allport, 1924) and the intuitive method (G. W. Allport, 1929) apparently had little impact on American psychologists. His suggestion that “personality never possesses an exclusively objective character” and his emphasis on intuition were clearly incompatible with the view of psychology as an objective “natural science.” His cri- tique of the psychometric method was an unwelcome reminder of psychologists’subjectivity:
-
-Personality is in reality always perceived by some person whose own experience is the background for the perception. That is to
-
-say, in actual life the apprehension of personality is conditioned by three factors, (a) the behavior sets of the person studied, (b) the behavior sets of the person studying, and (c) the condi- tions under which the study is made, including the relation which exists between the two persons. The psychograph [i.e., a proﬁle of trait scores] oversimpliﬁes the problem by assuming that the investigation of personality need only consider the ﬁrst of these conditions. (1924, pp. 132–133)
-
-Although Allport stressed the need for both “natural science” and intuitive methods in the study of personality, statements such as the following were no doubt unpersuasive to his sci- entiﬁcally minded colleagues: “The psychology of personal- ity must be broad enough to embrace both the particular and general aspects of its subject. Even if this obligation requires that it be both art and science, there is still no escape” (1929, p. 20; emphasis in original).
+personal documents (e.g., G. W. Allport, 1942) may have been encouraged by Stern, who advocated the use of bio- graphical and historical methods (1911) and published a psychological analysis of his own adolescent diaries (1925; cited in G. W. Allport, 1942).

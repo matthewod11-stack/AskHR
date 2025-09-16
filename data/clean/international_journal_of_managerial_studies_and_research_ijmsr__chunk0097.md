@@ -1,7 +1,11 @@
-# Effect of Motivation on Employee Productivity: A Study of Manufacturing Companies in Nnewi
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: aab4334ee89679329d9a27cfbc7ffa2981f1eb98
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+## of the welfare package of the workers and their families.
 
-quality and personal value which will help them to identify those things that motivate their staff and apply them properly. 8. RECOMMENDATIONS The government should set up employment policy and condition of services for the private sector as obtainable in the public sector. These policies should gear towards curtailing the inhuman treatment that the private sector employees suffer.
+- 7. CONCLUSION The researcher therefore conclude from his findings that the effect of motivation on employee productivity is of paramount important to the organization .In order to meet up with the current dynamic rate of the business trends, the management of the manufacturing firms in Nnewi should try as much as possible to adopt good and positive motivational techniques to increase the moral of the workers towards productivity and performance. Finally, management of the manufacturing firms in Nnewi should seek for various ways of improving productivity in their company by finding out the effect, causes or problems associated with motivation. Meanwhile, for the workers to be motivated, the management must posse good
 
-More so, the private sector establishments should be encouraged to adopt more positive motivational strategies in order to align themselves with the best practices. The researcher is of the view that more positive strategies will bring about more productivity in the company than the ones presently practiced.
-
-Further studies should be carried out to find out whether the motivation strategy adopted by the manufacturing firms in Nnewi is common in private sector establishments in Nigeria. Studies should also be done to establish the reasons behind the adoption of punitive strategies by the manufacturing firms in Nnewi..
+International Journal of Managerial Studies and Research (IJMSR) Page | 146

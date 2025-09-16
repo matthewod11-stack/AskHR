@@ -1,3 +1,7 @@
-# Original Article
-
-Cite this article: Hanh Tran T.B. and Choi S.B. (2019). Effects of inclusive leadership on organizational citizenship behavior: the mediating roles of organizational justice and learning culture. Journal of Pacific Rim Psychology, Volume 13, e17. https://doi.org/ 10.1017/prp.2019.10
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: 691cfb9d59fc80daa858a405a2dc24e9892e1f3d
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# www.cambridge.org/prp

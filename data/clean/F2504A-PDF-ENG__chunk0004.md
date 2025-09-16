@@ -1,7 +1,11 @@
-# managers?
+---
+source_path: F2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1de15e82ac3b1ec87fa5d77a09f54756588b9250
+title: F2504A-PDF-ENG
+---
+# quickly—and in some cases automatically.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Now researchers are focusing their attention up the org chart and
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+asking a related question: How will gen AI change the work of middle

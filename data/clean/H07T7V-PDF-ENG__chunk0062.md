@@ -1,21 +1,53 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89330770c58707edbcc8e6f7069653e29b584efa
+title: H07T7V-PDF-ENG
+---
+# business.
 
-a kind of a tripod. There are three things you have to do over and over
+Again, this is uncomfortable stuﬀ to do, but it’s a big step toward the
 
-again more until you’re absolutely exhausted.”
+geek way. And then ﬁnally, you can start to say, “How are we going
 
-First of all, tell them a vivid story. We humans respond to narratives.
+to make this decision? Can we agree on what evidence we’re going to
 
-Second, give them some evidence, give them some numbers to show
+look at to make this decision?”, as opposed to saying, “Well, I’m the
 
-that it works. And third, give them a theory. Explain why it works.
+boss,” or, “I got it right last time, so you should listen to me this time,”
 
-You’ve just got to go through all three of those legs.
+all these other ways we have to make decisions, credentials, hierarchy,
 
-“Why can’t we make decisions this way? I’m a pretty smart person. I
+charisma, excellent PowerPoint, all these things: get out of that business
 
-reached this place on the org chart because of my excellent judgment.
+and start asking for the consensus on, “How are we going to settle this
 
-What do you mean we should be relying a lot less on my judgment?”
+argument? What evidence are we going to look at?” These are all super
 
-Again, three part answer to that question, keep iterating on it. It is not
+geeky practices you can start doing tomorrow.
+
+ADI IGNATIUS:
+
+Here’s another audience question. This is Lori from North Carolina, and
+
+it’s another very practical question: how can organizations get leaders to
+
+unlearn the idea that failure is bad?
+
+ANDREW MCAFEE:
+
+This is a super hard question, and I fall back on something that I
+
+learned from Clay Christensen: one of the things Clay taught me is that
+
+managers are voracious consumers of theory. He said, “Don’t be afraid
+
+to tell them why this needs to change, what the principle, what the
+
+framework is.” And he said, “If you want to get people to change, there’s
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+19
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

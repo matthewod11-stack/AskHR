@@ -1,11 +1,19 @@
-# single product-development roadmap.
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d20557cd133b452659ed2513a308c0e0facc81da
+title: H07M52-PDF-ENG
+---
+# aims. They must:
 
-On the ﬂip side, don’t stew over the opportunity cost of this vision: Once
+Emphasize overarching goals — not missed opportunities. Even if
 
-you’ve made and communicated priorities, accept that your team needs
+people have many responsibilities, it’s easier to cope when the objective
 
-to say no to some new opportunities that might arise. As one survey
+is clear. During your meetings and in-person interactions, regularly
 
-respondent put it, “Don’t expend your energy on what didn’t happen.”
+reframe competing demands in this context. For example, emphasize
 
-Workers are already on edge: Don’t make it worse by introducing
+how various initiatives come together to improve overall customer
+
+service, or visually chart out how diﬀerent work streams merge into a

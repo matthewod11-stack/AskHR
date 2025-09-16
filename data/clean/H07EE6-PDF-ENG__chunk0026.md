@@ -1,7 +1,9 @@
-# mechanisms:
+---
+source_path: H07EE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 735afa9c856c7d893077389539b06c8abc2a4468
+title: H07EE6-PDF-ENG
+---
+## The success of this hotline model oﬀers four important, generalizable
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+lessons for managers seeking to establish eﬀective grievance

@@ -1,9 +1,9 @@
-# Anitha & Shanthi, (2020). [63]
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 67d44bc185e437843d265ac70ca6f798e847204f
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# et
 
-Van De Voorde, (2012). et al., [64]
-
-Zheng, et al., (2015). [65]
-
-Salanova, et al., (2014). [66]
-
-PAGE 299
+al.,

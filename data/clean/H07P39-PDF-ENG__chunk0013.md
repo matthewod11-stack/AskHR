@@ -1,1 +1,25 @@
-# divergence of viewpoints.
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dc284fe4b5779f25d2e6031ce388baf5202f5da1
+title: H07P39-PDF-ENG
+---
+# to:
+
+- Speak up frequently and vehemently, sometimes to the point of
+
+dominating conversations.
+
+- Interrupt others or answer questions with their viewpoint. In other
+
+words, they don’t always listen to understand.
+
+- Be outspoken about their opinions, often pushing their own agenda
+
+without considering other perspectives.
+
+- Exhibit visible and frequent frustration when faced with resistance,
+
+doubling down on justifying or defending their approach, often
+
+assuming that pushback stems from ignorance rather than a genuine

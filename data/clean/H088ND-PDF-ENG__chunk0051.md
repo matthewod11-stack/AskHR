@@ -1,9 +1,15 @@
-# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79ef8cc1046b982b9429e084b32381dd204081db
+title: H088ND-PDF-ENG
+---
+## their employers a competitive edge in understanding, identifying and
 
-Moreover, incorporating Asian perspectives at the board level
+capturing opportunities within these key regions.
 
-can signiﬁcantly enhance a company’s market strategy. Just as
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-technological or domain-speciﬁc expertise is valued, companies can
+11
 
-proﬁt from Asian board members who bring relevant market insights
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

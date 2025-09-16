@@ -1,5 +1,9 @@
-# HOW TO CAPITALIZE ON IT
+---
+source_path: R2106K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6ef21890637c456c84e94ff173922dade813789
+title: R2106K-PDF-ENG
+---
+# WHY IT’S OFTEN MISSED
 
-Managers can provide experiential training in ethical dilemmas, foster psychological safety when (minor) lapses occur, conduct pre- and post- mortems for initiatives with ethical components, and create a culture of service by encouraging volunteer work and men- toring in ethics.
-
-People don’t enter the workforce with a fixed moral character. Just as employees can nurture (or neglect) their skills and abilities over time, they can learn to be more or less ethical. Yet rather than take a long-term view of employees’ moral development, many organizations treat ethics training as a onetime event, often limiting it to the onboarding process. If they do address ethics thereafter, it may be only by espousing codes of conduct or establishing whistleblower hotlines. Such steps may curb specific unethical actions, but they don’t necessarily help employees develop as moral people.
+Many organizations relegate ethics training to the onboarding process, perhaps also issuing codes of conduct and establishing whistle- blower hotlines. Such steps may curb speciﬁc unethical acts but don’t necessarily help workers grow as moral people.

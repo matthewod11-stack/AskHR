@@ -1,19 +1,13 @@
-## 74.2.3 Empire Building and Capital Suppression
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: fb26639f22305b3d1ae3f21f8c2d84f79e6a2d33
+title: beo_chap7_1
+---
+# with large portfolios of small-scale investments, as in corporate R&D, or consumer
 
-The tendency of top managers to “build empires’”—to create divisions which are too
+product companies which expect a high rate of product failure. These firms need
 
-large in an economic sense, benefiting managers at the expense of shareholders—is
+to routinely pull the plug on bad projects. Understanding how they cope with high
 
-often discussed as an agency cost within the standard, rational framework. Behav-
-
-ioral economics offers a reinterpretation: when managers grow their firms at the
-
-detriment of shareholders, they may do so not (only) because of their desire to reign
-
-a larger empire and in fuli awareness of the resulting value destruction. Rather, they
-
-may (also) overestimate how much value will be created under their leadership,
-
-as discussed in Section 7.2.6.3 on overconfidence. Or they may feel competitive
-
-towards top managers of other firms, without full awareness of the resulting value
+rates of failure could be useful in understanding how to prevent escalation.

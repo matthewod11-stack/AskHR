@@ -1,25 +1,25 @@
-## problematic dependence on outside talent over time—and how can she
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 231ca58afc1578b27a82331a5dfcbd5cc9b71d16
+title: R2403D-PDF-ENG
+---
+# The Challenges of a Blended Workforce
 
-make sure her own employees’ skills don’t atrophy?
+Let’s return to Marta as she wrestles with her concerns about hiring
 
-Marta is also concerned about her ability to manage freelancers without
+freelancers for her digital and AI projects. She and her team have
 
-the formal authority over employees that is traditionally invested in
+worked hard to create a culture of inclusion, collaboration, ownership,
 
-company managers. She recognizes that managing freelance workers
+and continuous learning. Will skilled freelancers live by these values
 
-will require a diﬀerent set of skills; they’re specialists, after all, and
+and help maintain this culture? A colleague recently told her that a
 
-she’ll need to evaluate them strictly on project deliverables, rather than
+freelancer at his company took screenshots of an internal CEO video
 
-on their contribution to overall performance. She also knows that she
+and posted them online. “It felt like an onlooker eavesdropping on our
 
-can’t rely on the (often unspoken) leverage of pay increases or enhanced
+family dinner conversation and posting our squabbles,” the colleague
 
-career opportunities to motivate them and manage their performance.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+said. And what of skills transfer? How will Marta avoid developing a

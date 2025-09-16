@@ -1,13 +1,21 @@
-## HBR / Magazine Article / The Power of Options
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61f805488d698543db170fea6d4033613e4f735d
+title: R2301H-PDF-ENG
+---
+## keen observation skills in real time and the ability to self-regulate in
 
-every situation. Just as the most enduring organizations are agile and
+stressful situations. But most of all, it requires humility to acknowledge
 
-adaptable, so too are the best leaders.
+that the approach that most helped elevate you into a leadership role
 
-Editor’s note: David Noble and Carol Kauffman are the authors of Real-Time Leadership (Harvard Business Review Press, 2023), from which this article is adapted.
+won’t always be the right one to deploy as a leader. No organization
 
-The best leaders, in the biggest moments, know how to read the situation, respond in the most eﬀective way possible, and move forward. You can, too.
+can survive if led by people who cling to the same approach in
 
-Buy it here
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-A version of this article appeared in the January–February 2023 issue of Harvard Business Review.
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,61 @@
-# HBR / Digital Article / How Managers, Coworkers, and HR Pressure Women to Stay Sile…
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a95831fc53658ec8a01f59ad64a3249d28018251
+title: H04FQE-PDF-ENG
+---
+# Trusting the System to Resolve Issues
 
-and I don’t talk to anyone in the organization much unless I really
+When women complained to HR, they were often urged to be
 
-have to.
+patient and allow the issue to be quietly resolved. Senior researcher
 
-The HR oﬃcers attempted to “solve” Neev’s issue by asking her
+Neev explained what happened when she complained about a senior
 
-perpetrator to be nice to her. As far as they were concerned, Neev was oﬀered support and her issue was solved. But Neev felt extremely
+colleague who harassed her:
 
-patronized and embarrassed for being seen as a “melodramatic”
+I wasn’t included in many things — there were several areas of
 
-individual. She believed that she still wasn’t being treated fairly, and
+work that I was stronger in than all of my group members, but I
 
-HR’s interest in archiving her complaint left her confused.
+wasn’t asked to be involved. It was clearly a boys’ club. I felt that I
+
+was treated differently to everyone else in our group, and there was
+
+aggression too when I tried to complain about things. I couldn’t take
+
+it anymore, so I went to HR. They told me to calm down and said that
+
+they will look into things. They came back to me almost immediately
+
+and said that people speak very highly about this person. But then
+
+they were sympathetic about how I felt, they had talked to this
+
+manager, and they were very willing to help me to better integrate
+
+into my team. And that was it.
+
+In their view my problem was solved, and they hinted that I
+
+should not talk about these things to anyone because these are
+
+very conﬁdential issues. They made me feel like an overly dramatic
+
+person and they then offered to help me to deal with my issues. That
+
+manager is now nice to me — but it is patronizing; it does not change
+
+what he did. I guess they would have to talk with him. I think I
+
+deserve some justice for what I went through. But after my experience
+
+with HR, I am confused. I feel that I have a point which has not been
+
+recognized, but they seem to think it has been solved. I feel really low
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,15 @@
-# them:
+---
+source_path: H071S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c544f88c3f0a2eb5efe20c62e0aed566a1f10906
+title: H071S2-PDF-ENG
+---
+# Help at the start.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+In some situations, simply giving feedback about what you need or want
 
-4
+can improve the situation. But in others, you’ll need to do more to help
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+things move forward.
+
+To get your direct report started, consider taking these actions with

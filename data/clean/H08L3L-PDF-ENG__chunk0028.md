@@ -1,11 +1,21 @@
-# new revenue streams.
+---
+source_path: H08L3L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad8b1e96fb7457e7f446a614d4a801ee893db6c7
+title: H08L3L-PDF-ENG
+---
+## joint management course or individual and collective coaching. Her
 
-. . .
+second was to bring them together for a weekly meeting with her. But
 
-In the age of AI, human creativity is a superpower that brings growth
+she suspected such measures wouldn’t result in long-term behavior
 
-to your career and organization. It also makes the workplace a more
+change. Her third idea was to reorganize the company, moving from
 
-interesting and fun place to be. Try these exercises. Get inspired by
+three divisions to two and giving each leader a reimagined role, team,
 
-these examples. And start bringing your best creative mind to work in
+and objectives. It was a controversial choice, and there were teething
+
+problems, but a year later, the silos had disappeared, all three executives
+
+were working well together, and revenues were up 20% in part due to

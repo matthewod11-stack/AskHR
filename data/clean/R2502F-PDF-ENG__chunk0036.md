@@ -1,25 +1,9 @@
-# together.
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6be46aba985a0d3b2a33e55efbf4351c489e39ff
+title: R2502F-PDF-ENG
+---
+## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
 
-This can be challenging. Negotiators should make their own rituals
-
-explicit up front, share the intentions behind them, and discuss how
-
-adopting each other’s rituals may introduce diﬃculties. In one instance
-
-of this, two teams from Switzerland and Spain were starting a long-
-
-term negotiation that would require regular meetings. Aware of their wide cultural diﬀerences, the teams jointly created a simple, shared
-
-document, which they named hoja de ruta (road map), written in
-
-Spanish because one of the Swiss team members was ﬂuent in the
-
-language. In this document, they outlined the ﬁve positive behaviors
-
-they expected from each other during the negotiations, codifying
-
-collaborative intentions on both sides. Then they created a ritual
-
-around it: At the start of meetings, each person would brieﬂy share
-
-a positive hoja de ruta behavior performed by a member of the other
+are willing to invest in building it, and lay out the process for working

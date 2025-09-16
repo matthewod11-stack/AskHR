@@ -1,25 +1,21 @@
-# the following four-step process.
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5f2a977519389c32a4e5dd63e278006c3414ac4
+title: R2502J-PDF-ENG
+---
+## HBR / Magazine Article / How Salespeople Game the System
 
-Use data to pinpoint how salespeople are exploiting the system. Let’s
+Once a company has determined the extent of cheating schemes,
 
-return to our example of airline employees who received a cash bonus
+leaders should carefully consider making changes to the sales incentive
 
-for each passenger who signed up for a cobranded company credit card.
+plan. They should weigh the expected consequences of the behavior
 
-Employees working at the check-in counter would, against company
+against their organization’s appetite for risk. In most cases, executives
 
-policy, oﬀer the credit card application to customers and propose
+will conclude that tolerating salespeople’s cheating is not an option and
 
-waiving their baggage fees if they completed the application on the spot.
+the compromised plan must be ﬁxed.
 
-Employees had the right to waive those fees for a variety of reasons:
-
-when customers held the cobranded credit card, for high-tier frequent
-
-ﬂiers, or as part of a service recovery eﬀort. That made it hard to isolate
-
-the cheating scheme. We would advise the airline to use information
-
-systems to identify the top quartile of credit-card-incentive earners
-
-and match the timing of those agents’ credit-card sign-ups with their
+In cases where there is a consensus to ﬁx the problem, we recommend

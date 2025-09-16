@@ -1,9 +1,7 @@
-# 59
-
-Knijn, T. and K. Kremer, 1997. Gender and the caring dimension of welfare states. Social
-
-Politics, 4, 329-367.
-
-Korvajärvi, P., 1997. Working Within and Between Hierarchies. In L. Rantalaiho and T. Heiskanen, eds, Gendered Practices in Working Life. Macmillan Press Ltd.
-
-Korvajärvi, P., 1998. Gendering Dynamics in White-Collar Work Organizations. PhD
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 77b057bf769fecf76c695f304f03d3313c948c7a
+title: file_1
+---
+# State University.

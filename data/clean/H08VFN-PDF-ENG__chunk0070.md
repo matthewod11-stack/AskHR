@@ -1,11 +1,11 @@
-## In the center of a midsize room, preferably without windows, place a
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e47700f303118d117027bdca8c829aadce4645af
+title: H08VFN-PDF-ENG
+---
+# Run a Simulated Failure Exercise
 
-table. At the table, seat two to ﬁve cadre. (More cadre are better, if you
+Now that you’ve got students, cadre, and a catalogue of training
 
-have them.) Behind the cadre, convene a seated audience. The audience
-
-does not need to be large but it should be emotionally signiﬁcant
-
-to the students. It might contain members of their peer group,
-
-respected senior members of the organization, previous graduates of the
+exercises, you’re ready to simulate failure.

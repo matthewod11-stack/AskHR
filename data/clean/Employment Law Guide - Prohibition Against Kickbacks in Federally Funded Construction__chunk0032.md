@@ -1,9 +1,8 @@
-# them to receive their pay in cash or a negotiable instrument payable on demand. The Wage and Hour Division
-
-accepts complaints of alleged Copeland Act wage violations. Local Wage and Hour Division oﬃces are listed on the DOL web site at: www.dol.gov/whd/america2.htm
-
-There are no notice or poster requirements.
-
-Contractors and subcontractors are required to keep payroll records for each laborer and mechanic on
-
-covered projects, recording accurately and completely the following:
+---
+source_path: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded
+  Construction.md
+pages: n/a-n/a
+chunk_id: ec596dd099cf2a3b74c76b1c1a8efd4964d9275b
+title: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded Construction
+---
+# otherwise approved of by DOL. It gives such workers the right to receive pay on a weekly basis, and entitles

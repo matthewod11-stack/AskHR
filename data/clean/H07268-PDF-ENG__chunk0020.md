@@ -1,19 +1,21 @@
-## HBR / Digital Article / Office Politics Don’t Have to Be Toxic
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f98dcac8c7fe133665cf96e02a1b52d2cc90844
+title: H07268-PDF-ENG
+---
+## professional development tools, but also to the informal processes that
 
-oﬃce politics. This assumption — that politics are, at best, a necessary
+are critical for growth.
 
-evil — can be deeply ingrained, especially among people who are used
+- 3. Reframe politics positively.
 
-to being left on the outside. But it is also an assumption that can be
+In our interviews, we repeatedly heard from employees that they felt
 
-challenged: Our prior research found that people’s views on politics
+it would be distasteful, perhaps even morally repugnant, to engage in
 
-can change signiﬁcantly as a result of their professional experience. As
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-such, leaders should explicitly push back against the view that politics
+5
 
-can only be used for self-gain, and instead reframe it as a tool that
-
-can help everyone build connections, access opportunities, and get
-
-things done. This means ﬁnding ways to highlight the value of political
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

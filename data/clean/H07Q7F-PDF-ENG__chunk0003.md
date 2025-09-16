@@ -1,13 +1,13 @@
-# like the end of the world.”
+---
+source_path: H07Q7F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a9e4437058190cc258caf5df63de974321da059
+title: H07Q7F-PDF-ENG
+---
+# Juan Moyano/Stocksy
 
-Filip was the director of project management at a company that oﬀered
+“I felt like I was going to throw up,” Filip confessed to me during our
 
-translation services for streaming content providers across the globe.
+coaching session. “Giving feedback is something a leader should be able
 
-Hard working (sometimes to a fault), Filip was an expert at juggling
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to do every day without breaking a sweat,” he said. “But for me, it feels

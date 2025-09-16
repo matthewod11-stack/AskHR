@@ -1,15 +1,21 @@
-# Output
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: beb4f1116b53bc3aa97e803a3949010c1abdc5d6
+title: prompt
+---
+# Prompt
 
-In the hea(cid:457) of a murky abyss, lies a dilapidated underwater research facility, standing as a testament to human ambition and its disastrous consequences. Shrouded in darkness, pulsating with the hum of malfunctioning machinery, and haunted by the echoes of drowned souls, the facility is now a breeding ground for
+Context: 5 engaging themes for a first person shooter video game:
 
-a nightmare borne from the deep sea. The player, an elite marine equipped with advanced diving gear and experimental weaponry, is tasked with venturing into
+- 1. **Abandoned Military Base**: A sprawling, post-apocalyptic military complex crawling with mutated soldiers and rogue robots, ideal for challenging firearm combat.
 
-this aquatic realm of terror. Armed with resilience and resourcefulness, they must navigate treacherous corridors, solve cryptic puzzles, and confront gruesome sea
+- 2. **Cyberpunk City**: A neon-lit, futuristic urban environment with towering skyscrapers and dense alleyways, featuring cybernetically enhanced enemies and hacking mechanics.
 
-monstrosities that lurk in the depths. From grappling with the crushing pressure of the deep sea to outsma(cid:457)ing cunning aquatic predators, every moment in this uncha(cid:457)ed underworld tests the limits of human endurance and courage.
+- 3. **Alien Spaceship**: A vast alien vessel stranded on Earth, with eerie corridors, zero-gravity sections, and extraterrestrial creatures to encounter.
 
-Table 10. An example of prompting for self consistency
+- 4. **Zombie-Infested Town**: A desolate town overrun by hordes of aggressive zombies, featuring intense close-quarters combat and puzzle-solving to find safe passage.
 
-That looks like an interesting video game! By using step back prompting techniques you can
+- 5. **Underwater Research Facility**: A deep-sea laboratory flooded with water, filled with mutated aquatic creatures, and requiring stealth and underwater exploration skills to survive.
 
-increase the accuracy of your prompts.
+Take one of the themes and write a one paragraph storyline for a new level of a first-person shooter video game that is challenging and engaging.

@@ -1,15 +1,33 @@
-# relaxation and peace.
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ec68ad19c85a2c39258b3eee557667ea3ebcac6
+title: H08KYH-PDF-ENG
+---
+# tactic.
 
-Use a tool to help you prioritize.
+Write down the consequences of saying yes.
 
-Hurry sickness can mask what is truly high priority by leading you to
+Pausing to write down what will happen if you say yes to an incoming
 
-believe that everything is, so bring some objectivity to your to-do list.
+request is a natural forcing function that compels you to slow down and
 
-Many of my coaching clients like the tried-and-true 4D method. Assign
+prevents you from saying yes automatically. I prefer doing this exercise
 
-each of your tasks to one of four categories: Do tasks are essential and
+in longhand for the deeper thoughtfulness the extra time allows. Is the
 
-high-priority; Defer (or Delay) tasks can be done a little later; Delegate
+amount of stress associated with this task tolerable? Will the request
 
-tasks can be handed oﬀ to someone else; and Delete tasks are the ones
+take too much time away from activities outside of work or simply
+
+recharging? Seeing the consequences literally spelled out before you not
+
+only slows you down, it can be a great wake-up call.
+
+Write down the beneﬁts of slowing down.
+
+For extra accountability and inspiration, try the ﬂip side: Make a list
+
+of all the positives you can enjoy if you slow down even a little. For
+
+many, it’s extra sleep, more time for relationships, and a greater sense of

@@ -1,27 +1,13 @@
-## HBR / Magazine Article / Now Is the Time for Courage
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea04d0caeb6ead465744c36df8e5a975fe8808ee
+title: R2505C-PDF-ENG
+---
+# triumph over it.
 
-Many experts argue that, in work and business settings, the best
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-way to overcome anxiety about uncertainty is risk management. As
+2
 
-professor Kathleen K. Reardon has written, courageous action is really
-
-an “intelligent gamble” based on “careful deliberation and preparation”
-
-that includes weighing risks and beneﬁts. Indeed, when considering
-
-decisions like whether to fund a new business, undertake a merger or
-
-acquisition, or switch jobs, it’s sensible to do a cost/beneﬁt analysis
-
-to reduce the odds of negative outcomes and mitigate their potential
-
-consequences. People have long used these tools to eﬀectively manage
-
-and even proﬁt from risk. But as research by the late economist Frank
-
-Knight has shown, they aren’t enough to help us behave boldly in
-
-situations where we can neither identify all the potential dangers
-
-we face nor estimate their chances of materializing. Under volatile,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,9 @@
-## organizations. New York: Oxford University Press.
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 38a5b8998ec8521fad1abf801512338cdf89f5b7
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+## Abnormal and Social Psychology, 52, 304–309.
 
-- Lee, C., & Farh, J. (1999). The effects of gender in organization justice perception. Journal of Organizational Behavior, 20, 133–143.
-
-- Novak, M. (1984). A study of leader resources as determinants of leader- member exchange. Unpublished doctoral dissertation, University of Cincinnati.
-
-- Lee, C., Pillutla, M., & Law, K. (2000). Power-distance, gender, and organizational justice. Journal of Management, 26, 685–708.
-
-Lee, K., Carswell, J., & Allen, N. (2000). A meta-analytic review of occupational commitment relations with person- and work-related vari- ables. Journal of Applied Psychology, 85, 799–811.
-
-Lewicki, R., & Bunker, B. (1996). Developing and maintaining trust in
-
-- Nyhan, R. (1999). Increasing affective organizational commitment in public organizations: The key role of interpersonal trust. Review of Personnel Administration, 48, 58–70.
-
-- Nyhan, R. (2000). Changing the paradigm: Trust and its role in public sector organizations. American Review of Public Administration, 30, 87–109.
+- Muchinsky, P. M. (1977). Organizational communication: Relationships to organizational climate and job satisfaction. Academy of Management Journal, 20, 592–607.

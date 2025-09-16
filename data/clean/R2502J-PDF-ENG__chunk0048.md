@@ -1,19 +1,11 @@
-# Maybe You Don’t Respond
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7856c319d382b2ec8ef4ace93b71b68ef806ddd
+title: R2502J-PDF-ENG
+---
+## HBR / Magazine Article / How Salespeople Game the System
 
-Companies may choose not to ﬁx every gaming tactic they discover.
+companies be diligent in sharing and reviewing dashboards and reports
 
-Indeed, it may be preferable to tolerate certain strategies that have low
-
-impact or occur infrequently. That’s because abandoning or altering a
-
-mostly functioning incentive plan can have downsides: Changes may
-
-disrupt the focus of the sales team, resulting in a dip in productivity.
-
-Or salespeople might feel that the changes are unfair, resulting in
-
-resistance, demotivation, or even turnover. Finally, plan changes may
-
-produce unintended consequences, including new opportunities to
-
-cheat, higher-than-expected payouts, or the disruption of existing
+with sales leadership to conﬁrm progress.

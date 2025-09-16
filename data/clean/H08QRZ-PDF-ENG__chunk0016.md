@@ -1,11 +1,17 @@
-# feelings of security in the workplace.
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0ecf7e0e5cf96df137f8c3a93d08ef20000c512
+title: H08QRZ-PDF-ENG
+---
+# initiatives.
 
-Be transparent about why and how data is being collected.
+How to collect biometric data without causing job insecurity
 
-Openness about the data collection process can help alleviate concerns
+Of course, it is possible for these initiatives to be implemented in a
 
-around biometric screenings and encourage employees to opt in. This
+way that beneﬁts both the organization and their employees—without
 
-helps employees retain control over their sensitive bodily data, reducing
+threatening employees’ sense of job security. Employers that want
 
-feelings of job insecurity for even those employees who choose to opt
+to collect intimate biometric data should consider two strategies to balance improving operational eﬃciencies and preserving employee

@@ -1,3 +1,11 @@
-# 5 Exceptional
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 9f49b4af1971987e4f41aeedb8e132a538d7f7af
+title: document_resume
+---
+# F. Professional Development
 
-Maintains professional membership(~) and may hold a leadership position within Reads and researches information from professional Initiates research projects in area of specialty. Holds appropriate terminal degree. Pursues academic work beyond the terminal degree.
+1.
+
+Independent Self-Improvement Keeps informed of new information relating to subject area, including better teaching methods and techniques.

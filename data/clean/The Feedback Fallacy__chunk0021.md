@@ -1,13 +1,25 @@
-## Because of your genetic inheritance and the oddities of your early
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 1e71d8bcdc8fa4b2cd7b2246aecaa1a683b4d159
+title: The Feedback Fallacy
+---
+# How We Learn
 
-childhood environment, your brain’s wiring is utterly unique. Some
+Another of our collective theories is that feedback contains useful
 
-parts of it have tight thickets of synaptic connections, while others are
+information, and that this information is the magic ingredient that
 
-far less dense, and these patterns are diﬀerent from one person to the
+will accelerate someone’s learning. Again, the research points in the
 
-next. According to brain science, people grow far more neurons and
+opposite direction. Learning is less a function of adding something
 
-synaptic connections where they already have the most neurons and
+that isn’t there than it is of recognizing, reinforcing, and reﬁning what
 
-synaptic connections. In other words, each brain grows most where it’s
+already is. There are two reasons for this.
+
+The ﬁrst is that, neurologically, we grow more in our areas of greater
+
+ability (our strengths are our development areas). The brain continues
+
+to develop throughout life, but each person’s does so diﬀerently.

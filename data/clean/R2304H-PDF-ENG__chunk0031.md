@@ -1,9 +1,43 @@
-## HBR / Magazine Article / Disability as a Source of Competitive Advantage
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c304f38b51bce2cdb0884991bb9177f7514a72b9
+title: R2304H-PDF-ENG
+---
+# La Casa de Carlota
 
-make them realize that they, too, can elevate their performance. The
+consequences, like being punished or
 
-HR director of Gran Estación observes, “The person who is next to
+humiliated.
 
-the person with a disability gets motivated because he realizes that if someone with diﬃculties has such good performance, then someone
+When we asked the HR professionals about changes in psychological
 
-who hasn’t got them also should be able to deliver it.”
+safety at their ﬁrms, 65% indicated that it had increased since the hiring
+
+of employees with disabilities. What’s more, 74% observed that their
+
+teams had begun to work better together, and 75% indicated that the
+
+hires had enhanced the general atmosphere in their organization. One
+
+respondent commented that having a disabled colleague on a team
+
+“immediately improves team cohesion and creates new routines for
+
+collaboration.” Another said, “Ever since a person with an intellectual
+
+disability started working in the company, all of us have behaved in a
+
+more humane way.”
+
+Our case studies also suggest that colleagues of people with disabilities
+
+don’t learn just to be more accepting of one another’s limitations. Seeing
+
+coworkers with disabilities succeed can inspire other employees and
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

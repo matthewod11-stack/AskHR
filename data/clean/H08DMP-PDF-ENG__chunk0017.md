@@ -1,13 +1,31 @@
-## for this with longer hours on oﬃce days and weekends.
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0d7f29ed4a57d718b1269de71253bee93457c86
+title: H08DMP-PDF-ENG
+---
+# HBR / Digital Article / One Company A/B Tested Hybrid Work. Here’s What They Foun…
 
-Trip.com is also conducting more experiments to collect data in other
+accounting, marketing and ﬁnance. And with positive results the
 
-hybrid-related aspects, such as ﬁne-tuning the number of days in the
+leadership took hybrid to the whole company.
 
-oﬃce to ﬁnd the optimal balance. The beneﬁts of happier workers and
+Trip.com has been highly data-driven in its decision-making to avoid
 
-better retention make it all very attractive.
+jumping to incorrect conclusions about productivity of hybrid work
 
-Our results showed that under a hybrid-work policy, Trip.com was able
+model. The data showed hybrid employees were working about 1.5
 
-to generate millions of dollars of proﬁts by reducing expensive attrition
+hours less per home day, superﬁcially suggesting these employees were
+
+working less. But in examining the data closely, they found hybrid
+
+employees put in longer hours on their oﬃce days and weekends to
+
+make up. Employees shared that they found home-days useful for
+
+important activities like a doctor’s appointment, taking their children
+
+to school or trips, or leisure activities like golf. Because these workers
+
+were well motivated by rigorous performance evaluations, they made up

@@ -1,13 +1,29 @@
-## some 10,000 employees, 180 ﬁeld oﬃces, and an annual budget of $1.3
+---
+source_path: H08HVS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71540633c8acddd6c2ef7d62be743a876bb79f5a
+title: H08HVS-PDF-ENG
+---
+## HBR / Digital Article / Management By Driving Around
 
-billion, all in a state with 27 million licensed drivers and 36 million
+That year, Governor Newsom hired veteran technology executive Steve
 
-registered vehicles. The pressure on Gordon’s team was ampliﬁed by a
+Gordon to transform the DMV: to increase online services, improve
 
-one-time $242 million budget bump to speed the DMV’s turnaround.
+service at ﬁeld oﬃces, and bolster employee morale. Gordon knew the
 
-They rose to the challenge.
+DMV was in crisis when he took the job, and not just from the troubling
 
-Two of us (Huggy and Robert) are academics who have devoted the last
+statistics and press reports, but from his own visits to oﬃces. At the San
 
-eight years to “The Friction Project” to uncover how leaders can make
+Jose DMV oﬃce Gordon visited while he was still considering the job, a
+
+long line formed at 6 a.m. — two hours before the doors would open at 8
+
+a.m. One man even brought a lawn chair in anticipation of a long wait.
+
+The Newsom administration expected Gordon to implement
+
+widespread improvements in this big, complicated, and troubled
+
+department — and to do it fast. That was a tall order, as the DMV has

@@ -1,3 +1,9 @@
-## Human Resource Management, Vol. 16, pp. 949-70.
+---
+source_path: international_journal_of_innovation_and_applied_studies.md
+pages: n/a-n/a
+chunk_id: b28444857a1c4111772eddebcf96a96babdd0889
+title: international_journal_of_innovation_and_applied_studies
+---
+## the Competitive Enterprise, Peoplesoft, Inc., Pleasanton, CA.
 
-[28] O Neal, S., & Gebauer, J. (2006). Talent management in the 21st century: Attracting, retaining and engaging employees
+[31] Brewster, C., Sparrow, P. and Harris, H. (2005), “Towards a new model of globalizing HRM”, International Journal of

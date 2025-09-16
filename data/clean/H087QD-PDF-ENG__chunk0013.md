@@ -1,37 +1,13 @@
-# Beneﬁts of the remote part of hybrid
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36371744076af1ffb86386916d88b8f252ee3dfb
+title: H087QD-PDF-ENG
+---
+## experience more real-time feedback and more-equitable opportunities.
 
-There is little doubt that the opportunity to work remotely at least
+And while our data did not directly address it, research suggests
 
-some of the time has a substantial positive impact on well-being and
+that creativity and ideation seem to beneﬁt from in-person energy, to
 
-work-life balance. (In fact, we had a nearly 20% increase in agreement
-
-with the statement “I am able to dedicate time to my health and well-
-
-being needs” among hybrid workers compared to fully in-person.) One
-
-of the more surprising ﬁndings in our research, however, is that hybrid
-
-employees feel more recognized and appreciated than fully in-person
-
-employees. Why would someone who works in the oﬃce less experience
-
-greater trust and feel more valued?
-
-While we are still in the process of collecting data to support our
-
-hypothesis, we believe based on anecdotal feedback that the answer
-
-lies in the culture of care and respect for employees that hybrid work
-
-helps facilitate. Employees know that leaders are eager for them to
-
-return to the oﬃce, so oﬃce policies that allow ﬂexibility despite leader
-
-preferences signal that employee well-being is paramount. It is the
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+produce more and higher-quality ideas.

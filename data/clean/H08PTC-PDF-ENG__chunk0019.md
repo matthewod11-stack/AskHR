@@ -1,9 +1,11 @@
-# than broad statements of support.
+---
+source_path: H08PTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e5d0e8eecc259777b8d960b26831939edbbaf80
+title: H08PTC-PDF-ENG
+---
+# policies around work-life balance.
 
-. . .
+Whatever steps you take, ensure buy-in from leaders across the
 
-Expectations about when and how employees should be available for
-
-work have permeated our workplace culture. Our research shows just
-
-how hard these assumptions are to shake, even when people recognize
+organization. Clear, consistently enforced policies are more eﬀective

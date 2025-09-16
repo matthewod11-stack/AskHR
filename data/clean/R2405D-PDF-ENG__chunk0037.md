@@ -1,11 +1,7 @@
-## A. Garvin and Michael Roberto, HBR, September 2001.) Encouraging
-
-dissent and constructive criticism can help combat groupthink, make
-
-it easier to anticipate unintended consequences, and help teams avoid
-
-giving too much weight to leaders’ opinions. Leaders also must push
-
-people to consider the impact of decisions on various stakeholders and
-
-deliberately break out of siloed perspectives.
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d0d84bc79aba9af74706fbcb14199b7f0dccebb
+title: R2405D-PDF-ENG
+---
+## data. (See “What You Don’t Know About Making Decisions,” by David

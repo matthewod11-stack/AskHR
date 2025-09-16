@@ -1,13 +1,17 @@
-## HBR / Digital Article / Designing a Corporate Alumni Program? Start Here.
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d659813e9eea6c6b670d1fb4133ffc8784763b4
+title: H0832B-PDF-ENG
+---
+# entirely realistic.
 
-some cases, even healthy. When leaders recognize that employees
+Rather than only focus on employee retention, more forward-thinking
 
-who choose to move on is a normal aspect of contemporary talent
+organizations acknowledge that some turnover is inevitable, and in
 
-management, their perspective shifts toward exploring the value that
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-former employees, also known as alumni, can bring to the organization.
+1
 
-Growing evidence supports the importance of alumni to organizational
-
-performance as they can provide new business opportunities, share
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

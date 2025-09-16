@@ -1,31 +1,21 @@
-# problem.
+---
+source_path: F2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8140b84ff004947352a82a7508c8128c9ad3bf31
+title: F2504A-PDF-ENG
+---
+## HBR / Magazine Article / How AI Is Redefining Managerial Roles
 
-Have you met resistance from middle managers? Do they feel
+be that a middle manager was an expert on the methodology. But now,
 
-threatened by AI’s capabilities?
+when you bring gen AI into the mix, you can train it to master and explain
 
-We’ve made great strides, but we still have a percentage of people who are
+the methodology to anyone. People can read about the methodology, ask
 
-resistant. I would like to think I’ve created a safe space for people to explain
+gen AI about it, and come to a strategy meeting already knowledgeable.
 
-why. Rather than have them hide it, it gives me the opportunity to speak to
+This frees middle managers to execute on the methodology by speaking
 
-them about their fears. I tell them that AI can’t do one of the most critical
+directly to clients. They’re spending less time learning and teaching
 
-aspects of their job. They know how to speak to our clients. They can read
-
-between the lines, and help others articulate a problem, and explain what
-
-they need to solve it. These are human-centric conversations AI can’t have
-
-today. And they were conversations middle managers seldom had time to
-
-have before.
-
-A version of this article appeared in the July–August 2025 issue of Harvard Business Review.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the methodology, and more time linking the methodology to the client’s

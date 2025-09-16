@@ -1,3 +1,7 @@
-# Extraversion
-
-structs, typically based on the Five-Factor Model (FFM) of person- ality, and meta-analytic research. These studies reveal that two of the ﬁve personality traits, Conscientiousness and Emotional Stabil- ity, are universal predictors of overall job performance across nearly all jobs (Barrick, Mount, & Judge, 2001). In contrast, the other three traits (Extraversion, Agreeableness, and Openness to Experi- ence) are contingent predictors of performance (Barrick et al., 2001). These traits relate to success in only a few jobs or with a few criteria. For example, Extraversion has been found to be related to performance in jobs with a large competitive social component
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 1a8363dd7c5a7313c16567bcd077bcfbce1787b3
+title: barrickryan_eds_personality_and_work
+---
+# Status Striving

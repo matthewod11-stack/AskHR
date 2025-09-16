@@ -1,43 +1,37 @@
-# HBR / Digital Article / Is Your Organizational Transformation Veering Off Course?
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73ce3af9a5e837070c3f974ff3f6dcd71f10dd02
+title: H08CT9-PDF-ENG
+---
+## Our research identiﬁed six speciﬁc emotional and behavioral signals
 
-- Mistakes and misunderstandings, which occur when people start to
+leaders should look for in their teams:
 
-doubt themselves or don’t feel psychologically safe.
+- Lack of clarity on how to proceed, often accompanied by a spike in
 
-- Decreased engagement or communication, when employees go
+anxiety or static energy levels as teams can’t make progress.
 
-quiet, as they did in the Applied Materials example above.
+- Delays, slow progress, or missed milestones, which can trigger
 
-- 2. They dig into the underlying issue at play.
+frustration, stress, and anxiety, and lead to teams stopping working
 
-Once a signal has been picked up, it means there is a threat to the
+or pulling away from the program.
 
-transformation program and leaders must make sense of why. This is
+- Ineﬀective collaboration, or when groups retreat to silos instead of
 
-vital because at this moment, they have only identiﬁed behaviors and
+working together to solve complex problems. In this case you might
 
-emotions; they haven’t got to the root cause.
+see the language shift from “we” to “you” as teams regress to an “us vs.
 
-At this point, it’s essential to bring people together — the workforce
+them” mindset.
 
-as well as leadership — to decide the course of action. Our research
+- Increase in negative emotions, such as anger or frustration, as
 
-found that those who successfully navigate turning points are 1.4x more
+problems go unaddressed or employees feel close to burnout.
 
-likely to involve the full team in next steps. We advise bringing the team
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-together in person to establish a shared understanding of the challenges
+6
 
-and a shared sense of ownership over the outcome.
-
-For example, Volvo, another one of our case studies, transformed its
-
-trucks division by introducing electric vehicle (EV) models. In doing
-
-so, it opted for a mixed-model assembly in which EV trucks would
-
-roll oﬀ the same line as traditional internal combustion engine trucks.
-
-This meant old and new ways of working collided, and engineers and
-
-managers were unclear on deliverables amid the pace of change on the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

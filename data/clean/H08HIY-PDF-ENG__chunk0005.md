@@ -1,13 +1,13 @@
-## and neurological) encounter more stigma than “visible” disabilities
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5213aefc94e2ce92f2437a5283e8eb613c12b5c7
+title: H08HIY-PDF-ENG
+---
+# HBR / Digital Article / Research: The Stigma Disabled People Face During Negotiations
 
-(such as amputations and paralysis). Although there has been a
+However, disabilities are not a single entity, nor is the bias
 
-growing awareness and conscious eﬀort to destigmatize mental
+uniform across people or situations. For example, research suggests
 
-health disabilities in recent years, tremendous bias still exists with
-
-consequences for employment, income, and levels of stress. In addition,
-
-research suggests that disabled women face even harsher penalties.
-
-While disability studies often focus on bias at the level of employment
+that disabilities categorized as “invisible” (including psychological

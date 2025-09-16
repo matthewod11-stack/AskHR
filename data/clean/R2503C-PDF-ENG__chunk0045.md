@@ -1,11 +1,39 @@
-# backlog.
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8ca80e05c26748080edb67dd68d27e975fec855
+title: R2503C-PDF-ENG
+---
+## HBR / Magazine Article / Lean Strategy Making
 
-Amgen has also developed Sensing, a metric-monitoring platform that
+sales fell short of the plan. Leaders must probe deeper into the reasons
 
-tracks performance using both leading and lagging indicators. For
+behind such misses and determine whether corrective measures are
 
-instance, “new prescriptions written” serves as a leading indicator
+needed.
 
-of pharmaceutical revenue, while “patient enrollment rates” predict
+Few strategies, no matter how well crafted, can be executed without
 
-trial speed, helping assess whether a drug is on track to meet its
+adjustments over time. Market conditions and competitor strategies
+
+are always changing, often requiring companies to revise or ﬁne-tune
+
+their strategies. Business performance reviews are the ideal forum for
+
+assessing whether such shifts are needed. Leadership should ask, Have
+
+the facts changed enough to suggest a better strategic alternative? If
+
+the answer is yes, the issue needs to be revisited. If the answer is no, leadership may still choose to intensify eﬀorts in certain areas while
+
+scaling back others to realign performance with the company’s goals.
+
+Amgen, a $33 billion biotech pioneer, has successfully implemented
+
+this type of rigorous performance monitoring. At its monthly operating
+
+team meetings, which are attended by its top 30 executives, time is set
+
+aside for “performance dialogues,” which examine whether the team is
+
+executing on the commitments made against the company’s strategic

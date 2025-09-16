@@ -1,17 +1,29 @@
-# Hypothesis-Driven Innovation
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 823666a272cdeff5cb7ec1093ec4d00c1048bb28
+title: R2501G-PDF-ENG
+---
+# tests.
 
-As organizations adopt and scale up experimentation throughout the
+That shift will encourage a far wider range of employees to generate
 
-enterprise and transition to an incentive model that rewards overall
+and test as many ideas as possible, increasing their chances of
 
-business impact, product leaders should be able to extract signiﬁcantly
+discovering breakthroughs that enhance performance. But it will also
 
-more value by focusing on understanding the why behind test results.
+result in testing potentially higher-risk ideas with less oversight from
 
-That requires managers to use experimentation for more than making
+experienced data scientists—something that can make people hesitant
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+to run experiments. As we mentioned, one solution is to embed
 
-7
+guardrails (quantitative criteria that act as trip wires) in the platform.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Another is to roll out new features or changes in phases—a practice
+
+common among the largest tech ﬁrms. For example, updates to mobile
+
+apps from the Apple App Store and the Google Play Store are released
+
+that way to reduce risk.

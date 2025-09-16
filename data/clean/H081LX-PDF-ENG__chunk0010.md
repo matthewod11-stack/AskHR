@@ -1,23 +1,23 @@
-## This common perception arises because humble leaders, in their quest
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9581c69fd2f4b5c01a18a9e38c219e71336de323
+title: H081LX-PDF-ENG
+---
+# improvement and adaptability.
 
-to value every team member’s input, may prioritize consensus over
+However, the adage “too much of a good thing” can also apply when
 
-swift decision-making. While their intention might be to democratize
+it comes to humility. As I have seen in my work as an executive
 
-the decision-making process, it can sometimes be misconstrued as a
+coach for both top corporate leaders and those newly taking the reins,
 
-reluctance to take a stand or a lack of conviction in their strategic vision.
+an overemphasis on humility can potentially diminish your perceived
 
-Eﬀective leaders recognize that true humility isn’t just about
+authority. The challenge for leaders like Sunil lies in striking a delicate
 
-downplaying your authority; it’s about conﬁdently wielding it when the
+balance between modesty and assertiveness to be eﬀective. Here are
 
-situation calls for it. The challenge lies in demonstrating that seeking
+three ways I’ve seen humility hinder a leader’s eﬀectiveness.
 
-input doesn’t mean you’re uncertain about direction but rather that
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 1. You may be perceived as indecisive.

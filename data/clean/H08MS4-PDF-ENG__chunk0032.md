@@ -1,13 +1,17 @@
-# HBR / Digital Article / The Legal Landscape Around DEI Is Shifting. Your Messaging Sh…
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7180e8fd3cd3e890a24c1cc161d4ad1db318400
+title: H08MS4-PDF-ENG
+---
+# policy areas.
 
-Train managers on how to communicate around DEI.
+Such a document could serve as a touchstone for organizational leaders
 
-Many DEI communication errors are made not by DEI specialists but
+when implementing existing DEI policies or designing new ones.
 
-by managers who are involved peripherally in DEI activities, such
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-as during a panel discussion at a conference or while interviewing
+6
 
-candidates for an internship. Organizations should train people who
-
-will be talking about the company’s DEI programs to do so consistently
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

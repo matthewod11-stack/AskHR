@@ -1,25 +1,19 @@
-# EMPLOYEE ENGAGEMENT
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: aa6a5fed21b4894234a06e3edad35a03e9275291
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# EMPLOYEE NET PROMOTER SCORE
 
-23
+10
 
-24
+I would recommend this company to people I know as a great place to work
 
-The work that I do is meaningful to me.
+11
 
-I feel a sense of belonging at my company.
+I am proud to work for this company
 
-25
+12
 
-I feel satisfied with the recognition or praise I receive for my work.
-
-26
-
-People at my company behave ethically.
-
-19
-
-I can manage my job responsibilities in a way that enable a healthy work-life balance
-
-20
-
-I have the flexibility I need in my work schedule to meet both work and personal needs
+How happy are you working at your company?

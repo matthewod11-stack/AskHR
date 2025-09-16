@@ -1,11 +1,15 @@
-## preparing, physically and mentally, for a medical procedure and time
+---
+source_path: R2406N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62fe054ab64fd5dd6a3a0087de2a43d3384ba8d0
+title: R2406N-PDF-ENG
+---
+# Elise Vandeplancke
 
-oﬀ to recover. The clock is ticking, and your draft is on the verge of
+It’s 1 PM on a beautiful Saturday afternoon. A few months back
 
-being late.
+you told your editor you would write an essay on overwork for an
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+upcoming issue of the magazine at which you’re employed. However,
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you’ve been slammed with other assignments and projects and are

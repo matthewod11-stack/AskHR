@@ -1,13 +1,25 @@
-## comprometimento organizacional e as evidências mostraram que, apesar de haver
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 279bc6a9fc259a848508e3fa42426b8781f0f2e5
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## com seu trabalho (CHRISTIAN; GARZA; SLAUGHTER, 2011) ou seria apenas
 
-correlação entre esses construtos, o engajamento no trabalho oferece uma
+“vinho antigo numa garrafa nova” (SAKS, 2006). Com relação à satisfação no
 
-contribuição relevante aos estudos organizacionais. Os autores ressaltam que “o
+trabalho, Bakker e Leiter (2010) defende que os conceitos são diferentes, na medida
 
-grau com que indivíduos investem seus ‘eus completos’ na execução de seu
+em que o engajamento combina um alto nível de prazer no trabalho (dedicação) com
 
-trabalho parece diferente do grau com que indivíduos estão satisfeitos com seus
+uma alta ativação (vigor, absorção), enquanto a satisfação no trabalho seria uma
 
-empregos ou comprometidos com suas organizações”
+forma mais passiva de bem-estar. Em outras palavras, o grau de ativação ou energia
 
-(CHRISTIAN; GARZA;
+associado ao engajamento seria maior do que o da satisfação (MACEY;
+
+SCHNEIDER, 2008).
+
+Christian, Garza e Slaughter (2011) analisaram quantitativamente a relação
+
+entre engajamento, satisfação no trabalho, envolvimento com o trabalho e

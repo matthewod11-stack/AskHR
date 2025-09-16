@@ -1,33 +1,9 @@
-# rules and
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 6669d32dd75b4279b93b3e3c7243a769e85b2cb5
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Figure (cid:1008).(cid:1005)(cid:1009): U(cid:374)dersta(cid:374)di(cid:374)g of e(cid:373)plo(cid:455)ee rules a(cid:374)d regulatio(cid:374)s
 
-employee performance at Mukurwe-ini Dairy Ltd. The study found out that most of the
-
-- 1583 -
-
-respondents(50%) were of the opinion that employee rules and regulations highly affected employee performance, 25% cited were moderately affected, 15% posited were neutral, and 5% indicated that it did not have any impact on employee performance. This implies that employee rules and regulations highly affected
-
-employee performance in Mukurwe-ini Dairy Ltd. According to Hassan(2006), the rules and regulations should have a positive ompact on the employees to enhance their perfomance and grievance procedures and with a significant impetus.
-
-50%
-
-50%
-
-40%
-
-30%
-
-20%
-
-10%
-
-5%
-
-5%
-
-15%
-
-25%
-
-0%
-
-Not affecting
+The study sought to find out the extent of which regulations affected employee

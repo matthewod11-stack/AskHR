@@ -1,13 +1,7 @@
-# and geographic expansion more difficult.
-
-For the first eight years of B.good’s existence, it pursued a growth strategy
-
-compatible with its constraints: It opened only eight restaurants, all in
-
-the immediate Boston area and all completely company-owned. It had a
-
-cohesive growth strategy aligned with its core value proposition.
-
-But then the company changed its growth strategy. It began to add outlets
-
-very quickly, a rate decision. By 2019, it operated 69 stores across the
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ec2ef2659b8bab3266c34041ca971f4cdc4bf9f
+title: S24021-PDF-ENG
+---
+## standardization and less corporate control over human resource decisions—

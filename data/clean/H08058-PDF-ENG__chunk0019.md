@@ -1,13 +1,13 @@
-## HBR / The Big Idea / A Leader’s Guide to Navigating Employee Activism
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78824bebfc5c3f54656afe3a25c57e235f0ed97b
+title: H08058-PDF-ENG
+---
+# the ﬁeld).
 
-Had the management team paused, the executive acknowledged to
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-us, they would have seen that their primary concern was for the
+5
 
-company’s employees in the geographic region — their suﬀering and
-
-their immediate needs. The organization’s corporate identity had never
-
-previously included taking a stand on political or humanitarian issues
-
-generally, but their values were to look after one another and to respect
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,15 @@
-# members whose buy-in wasn’t critical.
+---
+source_path: H08L6Z-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: fc0ee97af1d9d777afa59ed12bc0548b09ccc864
+title: H08L6Z-PDF-ENG (1)
+---
+# eﬀectively.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- The legal team and her immediate boss landed in Quadrant 3. While
 
-4
+supportive, their backing alone wasn’t enough to get the campaign
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+approved.
+
+- Quadrant 4 included several regional sales managers and junior team

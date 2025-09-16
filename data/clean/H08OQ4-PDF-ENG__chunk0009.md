@@ -1,13 +1,13 @@
-# HBR / Digital Article / How to Prepare for a Meeting Where Emotions Will Run High
+---
+source_path: H08OQ4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f83e8c84c56ac3752628442c392c7c8e2cd2c2d
+title: H08OQ4-PDF-ENG
+---
+# conﬁdence and performance.
 
-Start with the end in mind: What does success look like for your situation?
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-How do you want to feel walking out of the room? How do you want others
+2
 
-to feel afterward? As it was for Jason, success might not mean instant
-
-resolution but a productive conversation where people feel heard and
-
-there’s a clear path forward.
-
-Now, turn your upcoming meeting or interaction into a mental movie.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

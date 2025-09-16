@@ -1,5 +1,9 @@
-# 2.1. Turnover
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 3981a9e02a81476ef2c30fb6ee13026f6ebe9fd2
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# 2.2. Job satisfaction
 
-Turnover at an organisational level is seen to be a major contributor to the shortage of nurses (Gauci-
-
-As a shortage ensues and difﬁculties in retention are highlighted, it follows that the reasons nurses leave their jobs must be clearly identiﬁed if the issue is to be successfully addressed. Job satisfaction has been cited as a major contributory factor to intent to stay in the international nursing literature (Cavanagh, 1992;
+- 2. Background

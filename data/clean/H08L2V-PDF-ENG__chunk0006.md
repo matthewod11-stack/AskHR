@@ -1,21 +1,17 @@
-## HBR / Digital Article / Don’t Let Growth Muddle Your Company’s Strategy
+---
+source_path: H08L2V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb3bffe4418422e7e12f43f1e7ddf04d48a4786f
+title: H08L2V-PDF-ENG
+---
+# culprit for the damage.
 
-only are the incentives in any ﬁrm focused on short-term results —
+Third, the beneﬁts of growth are evident in the short-term whereas the
 
-thus encouraging managers to undertake an investment even if they
+dilution — if it happens — becomes apparent in the long term. Not
 
-fear that it might lead to some long-term dilution — but even worse,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-these same managers may feel that by the time the dilution eﬀect
+2
 
-becomes apparent, they may no longer be employed by the ﬁrm to be
-
-held accountable! Not to mention that it is next to impossible to link
-
-the dilution of a ﬁrm’s diﬀerentiation to investment decisions that were
-
-taken ten or twenty years earlier, by diﬀerent managers.
-
-Whatever the reasons for the growth trap, the challenge for any ﬁrm is to
-
-grow without inﬂicting too much damage to its diﬀerentiated strategic
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

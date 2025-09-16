@@ -1,21 +1,15 @@
-# within company projects.
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cfce3f7f9f409d8050d9a6c4d2b6338422bb34c8
+title: H07TI0-PDF-ENG
+---
+# Skills-focused role descriptions
 
-For a company to execute on this approach means identifying the
+Other companies create dynamic documents that outline the skills and
 
-skills and qualiﬁcations needed for each role and developing training
+capabilities an employee brings to a position or should aim to develop.
 
-programs and career paths that help employees build those skills. The
+With this approach, the emphasis shifts from the tasks a person is
 
-aim is to fully utilize and develop an individual’s abilities and strengths,
-
-which can lead to increased job satisfaction as well as performance. It
-
-also means that companies can quickly assemble teams of people with
-
-the skills and experience needed to tackle speciﬁc projects or initiatives.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+supposed to complete to their talents and how those can be applied

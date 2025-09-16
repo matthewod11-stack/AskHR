@@ -1,5 +1,29 @@
-# workplace and economy.
+---
+source_path: H07T9G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38fe2c85998d6958366a5c10cc4fdd9d78714460
+title: H07T9G-PDF-ENG
+---
+# Alex O’Brien, CEO of the bank.
 
-This article was originally published online on October 6, 2023.
+If we are to compete for the future, we need to shift from a “war
 
-Greg Satell is Co-Founder of ChangeOS, a transformation & change advisory, an international keynote speaker, host of the Changemaker Mindset podcast, bestselling author of Cascades: How to Create a Movement that Drives Transformational Change and Mapping Innovation. You can learn more about Greg on his website, GregSatell.com, follow him on Twitter @DigitalTonto, his YouTube Channel and connect on LinkedIn.
+for talent” mindset to a skills-based mindset. Talent isn’t an innate
+
+property that ﬁrms can attract and bid for, but a capacity that needs
+
+to be built — and in any case, the most vital skills of the future don’t
+
+exist yet. In the same way that venture capitalists invest in and manage
+
+portfolios of companies, corporate leaders need to pursue portfolios of
+
+skills, divesting in some that become obsolete while doubling down on
+
+others that begin to pay oﬀ.
+
+The future of work will not be determined by technology, but by
+
+creating the right mix of education, exposure, and experience needed to
+
+develop skills and put them to work, creating a vastly more productive

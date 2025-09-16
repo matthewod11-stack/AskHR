@@ -1,11 +1,29 @@
-# together.
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a744a8d4433bf7b8050cf90e4c5c37f7502475b9
+title: R2504K-PDF-ENG
+---
+## HBR / Magazine Article / How to Identify the Perfect Cofounder
 
-Equity splits between cofounders can be a tricky part of a prenup
+It’s important to come to an agreement up front, because it is diﬃcult
 
-—especially if one person started the venture and then brought a
+to do so once the venture is in ﬂight. What’s more, the prenup
 
-cofounder in later. Equity will vary depending on timing, skills, and
+conversation often uncovers the goals and character of a potential
 
-experience. For example, even if you’ve already spent a year building
+partner. Just as a couple considering a long-term commitment may
 
-a startup on your own, you may still split ownership 50/50 because
+discuss whether each party wants to have kids, cofounders should
+
+discuss desired outcomes and how they see their roles evolving as the
+
+business scales. During one prenup conversation, two cofounders I had
+
+been working with had already nailed down titles and responsibilities
+
+when they discovered that one wanted to exit fast for a quick return
+
+and the other wanted to build a long-term business with IPO potential.
+
+That misalignment led to their eventual decision not to move forward

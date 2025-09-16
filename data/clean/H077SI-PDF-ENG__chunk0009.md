@@ -1,23 +1,13 @@
-# leadership abilities?
+---
+source_path: H077SI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0599a9418fb37a84520ea01a5059f9ce5fdc93ad
+title: H077SI-PDF-ENG
+---
+## What to Do If You Manage a “Quiet Quitter”
 
-If you’re conﬁdent in your leadership abilities and only one of your
+Suppose you have multiple employees who you believe to be quietly
 
-direct reports is unmotivated, that may not be your fault. As the above
+quitting. In that case, an excellent question to ask yourself is: Is this a
 
-chart shows, 3% or 4% of the best managers had direct reports who were
-
-quietly quitting.
-
-Either way, take a hard look at your approach toward getting results
-
-with your team members. When asking your direct reports for increased
-
-productivity, do you go out of your way to make sure that team members
-
-feel valued? Open and honest dialogue with colleagues about the
-
-expectations each party has of the other goes a long way.
-
-The most important factor is trust. When we analyzed data from more
-
-than 113,000 leaders to ﬁnd the top behavior that helps eﬀective leaders
+problem with my direct reports, or is this a problem with me and my

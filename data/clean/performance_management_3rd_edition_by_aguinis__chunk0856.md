@@ -1,5 +1,7 @@
-## Accountabilities, Objectives, and Standards
-
-Below is an actual job description for a sourcing and procure- ment internship position that was available at Disney Consumer Products/Studios. Based on the information in the job descrip- tion, create accountabilities, objectives, and standards for this position.
-
-broadcast and cable networks, Internet and direct marketing, consumer products, radio and television stations, theatrical productions, publishing activities, and professional sports enterprises.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8d7d31f6f9c7ba8ff0fee78d5b90af551ab2ba00
+title: performance_management_3rd_edition_by_aguinis
+---
+# CAS E ST U DY 5-1

@@ -1,9 +1,7 @@
-# Organizational Behavior, 28, 979-1003.
-
-Blau, P. M. (1964). Exchange and power in social life. Transaction Publishers.
-
-Brower, H. H., Schoorman, F. D., & Tan, H. H. (2000). A model of relational leadership: The
-
-integration of trust and leader–member exchange. The Leadership Quarterly, 11, 227-
-
-250.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: a9d8b9c0bf0e609e9df00f19dc113df1b941764a
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## member social exchange (LMSX): Development and validation of a scale. Journal of

@@ -1,7 +1,13 @@
-# inequitable educational outcomes.
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77e8879a903af598e73f308eb31e5d69e8a9d0d6
+title: H0893T-PDF-ENG
+---
+# HBR / Digital Article / Research: The Most Common DEI Practices Actually Undermine…
 
-Across the four interventions with mixed eﬀects, only skills training is
+predominantly white school districts, resulting in white employees
 
-frequently utilized in organizations. Cross-training, employee resource
+entering the workforce with greater access to skilling opportunities than
 
-groups, and self-managed teams are implemented with moderate
+employees of color. As such, organizational training is needed to rectify

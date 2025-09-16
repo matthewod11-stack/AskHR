@@ -1,11 +1,25 @@
-# and community impact.
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6f85985736a9382a4ae8f89ce00c4131f4199e4
+title: H08PPX-PDF-ENG
+---
+## it to a corporate buzzword rather than a meaningful, actionable
 
-As one leader pointed out to an author of this article: “I ﬁnd that DEI
+practice that drives individual, team, and organizational success. While
 
-experts use words that only they understand. For example, they say,
+organizations and researchers continue to debate and reﬁne DEI
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+terminology, they have yet to establish a universally accepted deﬁnition,
 
-7
+standardized goals, or shared language.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Adding to this challenge, current DEI eﬀorts often overemphasize
+
+diversity, conﬂate equity with equality, and use inclusion as a vague
+
+catch-all rather than a well-deﬁned practice. As a result, DEI often
+
+appears as an abstract statement of values rather than a concrete,
+
+measurable strategy tied to innovation, market growth, talent retention,

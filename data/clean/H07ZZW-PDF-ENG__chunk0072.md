@@ -1,7 +1,11 @@
-## an online, interactive ethical decision-making framework for staﬀ. It
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c3203cbb4d1501f98fa43f34d8468de8b309a44
+title: H07ZZW-PDF-ENG
+---
+# recommendation to leadership.”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Organizations can give their employees a framework for responding
 
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to nuanced and complex problems. Novartis, for example, developed

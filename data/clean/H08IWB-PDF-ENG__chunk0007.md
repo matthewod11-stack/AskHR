@@ -1,23 +1,23 @@
-# HBR / Digital Article / Why Mentoring Programs Fail — and How to Make Them Worthw…
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 526a19195386e6edde12a4ded8c6eecafd5ea681
+title: H08IWB-PDF-ENG
+---
+## Tailor Communication to Individual Preferences
 
-Employees today view themselves as consumers of workplace
+To enhance engagement with mentoring programs, organizations
 
-experiences, seeking empowerment to make their own choices. By
+need to rethink their communication strategies. A one-size-ﬁts-all, top-
 
-referencing frameworks like Dr. Ellie Drago-Severson’s on diﬀerent ways
+down communication approach is ineﬀective, especially with today’s
 
-of knowing, organizations can understand that employees have varied
+workforce that craves personalized interactions. Employees want to feel
 
-motivations and communication needs. Organizations should think
+like valued participants in the process, not just recipients of directives.
 
-about how they frame the availability of mentoring programs, giving
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-employees more reasons to engage with them. Mentoring programs
+2
 
-should be positioned to include:
-
-- Highlighting practical beneﬁts: Many employees are driven by what
-
-mentoring can do for their immediate career goals. Communication
-
-should focus on the speciﬁc, tangible beneﬁts of participation, such as
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

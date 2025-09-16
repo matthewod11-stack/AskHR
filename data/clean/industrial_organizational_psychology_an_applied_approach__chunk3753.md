@@ -1,9 +1,17 @@
-# 7
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: aeabd6d657265c0dc3d6583474eef094bcad33e3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Chapter Summary
+
+In this chapter you learned: 7
+
+Stress is a psychological and physical reaction to certain life events or situations. Common sources of stress include personal stressors and such occupational stressors as job characteristics (role conflict, role ambiguity, role overload), organizational characteristics, work environment (noise and temperature), change, and relationships with others (e.g., conflict, difficult people, angry customers).
 
 7
 
-7
+stress management: dealing with the demands of life and work
 
-At a personal level, stress can affect marriages and relationships with oth- ers. At a health level, stress results in a number of psychological (e.g., anxiety, depression) and physical disorders (e.g., joint pain, cardiovascular problems). At an organizational level, stress results in burnout, increased drug and alcohol use, lower job satisfaction, increased absenteeism, and increased turnover. Type A individuals and pessimists are more prone to stress than Type B individuals and optimists. Such techniques as exercise, laughter, a healthy diet, not smoking, getting plenty of sleep, joining support groups, self-empowerment, and time management can reduce stress. Workplace violence can result from employee stress.
-
-7
+593

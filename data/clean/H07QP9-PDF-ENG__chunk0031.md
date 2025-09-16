@@ -1,17 +1,9 @@
-# the VP Leadership Lab.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac3748e211bbfb1dec17a23e51733f8abdd158a1
+title: H07QP9-PDF-ENG
+---
+# HBR / Digital Article / Don’t Let Your Company’s Culture Stifle Leadership Developme…
 
-Recognize and reinforce leadership.
-
-In order for your leadership behaviors to stick, they must be
-
-systematically reinforced through your talent and performance systems
-
-and processes. When your performance systems aren’t aligned with the
-
-behaviors you’re promoting, leaders are much less likely to consistently
-
-practice these behaviors. Consider all of the formal and informal ways
-
-you hire, reward, and recognize your leaders. Each of these processes
-
-provides an opportunity to reinforce your organization’s deﬁnition of
+Playbook, 95% of VPs voluntarily attended our ﬁrst executive program,

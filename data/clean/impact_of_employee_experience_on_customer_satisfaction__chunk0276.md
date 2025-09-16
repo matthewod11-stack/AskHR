@@ -1,9 +1,13 @@
-## in the US and an even smaller number of detractors in China.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: ed5e3786bcb1723c550ac1b1aeb7832c90d6aa63
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+## Figure 39 Net Promoter Score Europe, US, and China
 
-Customer touchpoints performance on table 8 shows a comparison of different areas
+In the European market, Atlas Copco has only 29% promoters, and a similar number
 
-of Net Promoter scores based on question 3 of author’s NPS survey Q3: “Based on
+of detractors at 26%. In both the US and China, customer loyalty and satisfaction
 
-your working relationship with Atlas Copco over last 12 months, please rate how
-
-satisfied you are with each of the following experiences:” Purchasing, Project
+show significant differences. Both markets have 47% promoters with 23% detractors

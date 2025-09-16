@@ -1,3 +1,9 @@
-# ST
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 125480c887ac3415cb83ae108fd198530de96d7a
+title: H06V9A-PDF-ENG
+---
+# HP
 
-Subra Tangirala is Dean’s Professor of Management at the University of Maryland’s Robert H. Smith School of Business in College Park, Maryland.
+Hyunsun Park is an Assistant Professor of Organizational Behavior at the Georgia Tech Scheller College of Business in Atlanta, Georgia.

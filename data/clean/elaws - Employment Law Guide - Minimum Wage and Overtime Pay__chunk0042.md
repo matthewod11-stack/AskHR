@@ -1,11 +1,15 @@
-## and hour requirements, among other things.
+---
+source_path: elaws - Employment Law Guide - Minimum Wage and Overtime Pay.md
+pages: n/a-n/a
+chunk_id: 2dc62b814c42fc944da34f809cef05bb4847f2dc
+title: elaws - Employment Law Guide - Minimum Wage and Overtime Pay
+---
+# the FLSA.
 
-The Act generally prohibits manufacture of women's apparel (and jewelry under hazardous conditions) in the
+The Act prohibits performance of certain types of work in an employee's home unless the employer has obtained prior certiﬁcation from the Department of Labor. Restrictions apply in the manufacture of knitted
 
-home except under special certiﬁcates that may be issued when the employee cannot adjust to factory work
+outerwear, gloves and mittens, buttons and buckles, handkerchiefs, embroideries, and jewelry (where safety
 
-because of age or disability (physical or mental), or must care for a disabled individual in the home.
+and health hazards are not involved). Employers wishing to employ homeworkers in these industries are
 
-Special wage and hour provisions apply to state and local government employment. For more information
-
-regarding these special provisions, see the Wage and Hour Division Fact Sheet #7: State and Local Governments Under the FLSA.
+required to provide written assurances to the Department of Labor that they will comply with the Act's wage

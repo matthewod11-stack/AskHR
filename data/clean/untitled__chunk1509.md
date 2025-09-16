@@ -1,3 +1,9 @@
-## Clinical Practice, Counseling, and Feminist Therapy
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2cb2309105ee12d507ace4f23238c4ad1758cc27
+title: untitled
+---
+# Diversity and Cultural Difference
 
-1987; Espín, 1997; Greene, White, Whitten, & Jackson, 2000). The goal of this work is not to describe the psychology (let alone, the psychopathology) of “the” Hispanic woman, “the”AfricanAmerican teenager, or “the” lesbian. Rather it is to comprehend the experiences of women with varying rela- tions to privilege in society (Hurtado, 1989): the problems they bring to therapy, the strengths and resources available to them, and the barriers confronting them.
+Gender is not the only axis of social hierarchy.To be a woman may involve subordination, but all women are not subordi- nated equally or in the same way. Racism, ethnic prejudice, heterosexism,andhomophobiaaffectclients’experiencesand contributetotheproblemsthatbringthemtotherapy.Feminist researchers have begun to compile a knowledge base that en- compasses the diversity of women’s experiences across cul- tural and class backgrounds (e.g., Chin, 2000; Comas-Diaz,

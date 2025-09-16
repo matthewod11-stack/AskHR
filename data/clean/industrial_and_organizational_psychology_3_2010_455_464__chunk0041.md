@@ -1,7 +1,11 @@
-# Connolly, T.
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: 2bee5d7f67bb1773f2da541cab4e333125c5f14d
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# nelPsychology, 2, 171–183
 
-if we took researchers’ workplace decisions seriously? Mundane incen- tives versus intellectual merit in the selection of research topics. IndustrialandOrganizationalPsy- chology:PerspectivesonScienceandPractice, 3, 452–454.
+Bottom, W. P., & Kong, D. J. (2010). Normative mod- els for strategic decision making in industrial– organizational psychology and organizational behavior. Industrial and Organizational Psychol- ogy: Perspectives on Science and Practice, 3, 417–420.
 
-Dalal, D. K., Diab, D. L., Balzer, W. K., & Doherty, M. E. (2010). The lens model: An application of JDM methodologies to IOOB practice. Industrial and Organizational Psychology: Perspectives on ScienceandPractice, 3, 424–428.
-
-Dalal, R. S., Bonaccio, S., Highhouse, S., Ilgen, D. R., (2010). What Mohammed, S., & Slaughter, J. E. industrial–organizational psychology decided if to take workplace decisions seriously? Industrial and Organizational Psychology: Perspectives on ScienceandPractice, 3, 386–405.
+Byham, W. C.(2010). Assessmentcenters are an excel- lent way of studying decision making. Industrial and Organizational Psychology: Perspectives on ScienceandPractice, 3, 443–444. (2010). What

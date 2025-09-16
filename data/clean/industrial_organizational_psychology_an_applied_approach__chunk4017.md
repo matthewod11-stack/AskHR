@@ -1,15 +1,19 @@
-# cause and nature of behavior.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e7ce8f3f8f5074cec108d2165531fa3fa843ccbf
+title: industrial_organizational_psychology_an_applied_approach
+---
+# an organization.
 
-Theory X leaders Leaders who believe that employees
+Terminal master’s degree programs Graduate
 
-are extrinsically motivated and thus lead by giving directives and setting goals.
+programs that offer a master’s degree but not a Ph.D.
 
-Theory Y leaders Leaders who believe that employees are intrinsically motivated and thus lead with a “hands-off” or a participative approach.
+Test-retest reliability The extent to which repeated
 
-Thin-layer chromatography A method of analyzing
+administration of the same test will achieve similar results.
 
-urine specimens for drugs that is performed by hand and requires a great deal of analyst skill.
+Thematic Apperception Test (TAT) A projective personality test in which test-takers are shown pictures and asked to tell stories. It is designed to measure various need levels.
 
-Third-party intervention When a neutral party is
-
-asked to help resolve a conflict.
+Theory A systematic set of assumptions regarding the

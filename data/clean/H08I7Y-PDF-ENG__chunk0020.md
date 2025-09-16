@@ -1,17 +1,9 @@
-# tendencies.
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a129083bb8429277f7cca2e75713d580cbdaa6df
+title: H08I7Y-PDF-ENG
+---
+## motivational styles of the employees on your teams, you can now
 
-In the case of Debora’s ﬁnancial institution, we matched Play to Win
-
-employees with exploratory projects that involved the development of
-
-new ﬁnancial products, and we matched Play Not to Lose employees
-
-with projects focused on regulatory compliance and risk management.
-
-Not surprisingly, we placed Balancers in roles that required both
-
-innovation and careful execution. More extreme measures are possible,
-
-too: During one merger we consulted on, we sorted employees by their
-
-natural motivational styles and created entirely separate project teams
+strategically assign employees to projects that align with their natural

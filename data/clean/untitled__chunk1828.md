@@ -1,3 +1,9 @@
-# Late Nineteenth into Twentieth Century
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4f433d6390e2d865c1ff30c32a4f9fba101163e8
+title: untitled
+---
+# Social Darwinism
 
-Darwin. However, the evidence he adduced was powerful and his exposition was cogent. The clear consequences his theory held for religious views of human nature and popular views of man’s purpose in the cosmos created a dramatic and disturbing departure from the thinking of earlier centuries. Natural selection, with its message of competition and con- ﬂict was equally disturbing. Social Darwinism, a political in- terpretation of the principle of natural selection, was to have serious consequences for the public perception and treatment of the mentally ill. Social Darwinism assumed that human society was the product of inevitable and continuous conﬂict and competition. As a result, individuals formed a continuum of the “ﬁt” (the intelligent, physically healthy, afﬂuent, and powerful) at one end and the “unﬁt” (poor, diseased, retarded, insane, alcoholic, criminal, and powerless) at the other that extended to the different “races” of man. The elimination of unﬁt individuals or races was interpreted as part of man’s inevitable process of progressive improvement with an ac- companying moral imperative to eliminate any obstacles to this improvement.
+Perhaps the most important nineteenth-century development arose from the impact of Charles Darwin’s work. Evolu- tionary theory and the conception of man as a descendant of earlier animal forms were not totally unknown before

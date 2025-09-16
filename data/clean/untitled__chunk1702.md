@@ -1,5 +1,9 @@
-# Upper Saddle River, NJ: Prentice-Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c8efb301ad005705466ea355edd05d00cb3944f5
+title: untitled
+---
+# 298 Assessment Psychology
 
-Archer, R. P., & Newsom, C. R. (2000). Psychological test usage with adolescent clients: A survey. Assessment, 7, 227–235.
-
-Atkinson, J. W., & Feather, N. T. (1966). A theory of achievement
+Anastasi, A., & Urbina, S. (1997). Psychological testing (7th ed.).

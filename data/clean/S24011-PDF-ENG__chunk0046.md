@@ -1,9 +1,7 @@
-# Mary Haasdyk Vooys
-
-Such preparation also frees up more of the brain’s executive system
-
-—the frontal lobes—to deal with evolving dynamics, allowing people
-
-to adapt quickly as conditions change. They can use whatever action
-
-makes the most sense to them, moment by moment, shifting toward
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a723110a513049b9b9218d87e0f00c52a2426192
+title: S24011-PDF-ENG
+---
+## HBR / Spotlight Article / Leading in the Flow of Work

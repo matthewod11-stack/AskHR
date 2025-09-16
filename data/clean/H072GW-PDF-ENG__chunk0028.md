@@ -1,13 +1,13 @@
-## outcomes instead of “professional appearance,” presenteeism, or work
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72224769380d33db378b4289d8b3dab2d38e3a47
+title: H072GW-PDF-ENG
+---
+# Outcomes
 
-style supports both inclusion and productivity. For example, if a
+Autistic employees’ productivity is partly explained by their innovative
 
-performance evaluation form calls for assessing the number of phone
+ways of working. Yet, innovative employees of all backgrounds are
 
-calls an employee made, but they exceeded their sales goal using a
-
-well-crafted email blast, does it matter that they didn’t use phone calls?
-
-Or if a manager eﬀectively uses asynchronous collaboration technology
-
-to unite a hybrid team, is the lack of synchronous meetings a problem or
+often forced to work in traditional, less-eﬀective ways. Focusing on

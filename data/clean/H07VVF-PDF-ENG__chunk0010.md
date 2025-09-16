@@ -1,21 +1,15 @@
-## in quarterly revenue than their less prepared competitors, and similarly
+---
+source_path: H07VVF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f8766fc2aa3da2cc1e63e29b8e7694c5c492aa7
+title: H07VVF-PDF-ENG
+---
+# common.
 
-outperformed them on other performance metrics, such as net incomes and stock returns. This eﬀect is most pronounced during the ﬁrst three
+Companies’ readiness to remote work obviously proved crucial during
 
-quarter of the 2020. As the pandemic progressed, less remote-work-
+the Covid-19 pandemic. During the onset of the pandemic, workers
 
-ready competitors eventually caught up, in part due to increased tech
+could suddenly not safely go to the oﬃce anymore. As a result, ﬁrms
 
-hiring and IT investment as well as workforce reorganization to enable
-
-remote work practices. But the damage was already done.
-
-While we may hope to not see a global pandemic again anytime soon,
-
-the advantage of remote-work readiness extends beyond pandemics
-
-to include unforeseen natural disasters like snowstorms, ﬂoods,
-
-hurricanes, or wildﬁre smoke, which can swiftly impede worker
-
-mobility. Notably, ﬁrms equipped for remote work have demonstrated
+that were more remote-work-ready lost, on average, $98.81 million less

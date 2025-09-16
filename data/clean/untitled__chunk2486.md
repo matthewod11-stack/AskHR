@@ -1,17 +1,11 @@
-## Journal of Community Psychology, 14, 126–128.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c0ecefffc57d1de0eedec2af79bdc26367a63dff
+title: untitled
+---
+# American Psychologist, 26(10), 897–903.
 
-Kelly, J. G. (Ed.). (1987). Swampscott anniversary symposium: Reﬂections and recommendations on the 20th anniversary of Swampscott. American Journal of Community Psychology, 15, 511–631.
+Kelly, J. G. (1979). Tain’t what you do, it’s the way that you do it. American Journal of Community Psychology, 7(3), 244–261.
 
-Kelly, J. G. (2000). Wellness as an ecological enterprise. In D. Cicchetti, J. Rappaport, I. Sandler, & R. P. Weissberg (Eds.), The promotion of wellness in children and adolescents: Washington, DC (pp. 101–131). Washington, DC: CWLAPress.
-
-Kelly, J. G., Dassoff, N., Levin, I., Schreckengost, J., Stelzner, S. P., & Altman, B. E. (1988). A guide to conducting prevention research in the community: First steps. New York: Haworth Press.
-
-Kelly, J. G., Snowden, L. R., & Munoz, R. F. (1977). Social and com- munityinterventions.AnnualReviewofPsychology,28,323–341.
-
-Kennedy, D. M. (1999). Freedom from fear: The American people in depression and war 1929–1945. New York: Oxford Univer- sity Press.
-
-Kessler, M., & Goldston, S. E. (Eds.). (1986). A decade of primary prevention. Hanover, NH: University Press of New England.
-
-Kessler, M., Goldston, S. E., & Joffe, J. M. (Eds.). (1992). The present and future of prevention. In honor of George Albee. Newbury Park, CA: Sage.
-
-Kiester, E. (1994). The GI Bill may be the best deal ever made by
+Kelly, J. G. (1986). In honor of George W. Fairweather. American

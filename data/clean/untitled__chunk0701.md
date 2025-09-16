@@ -1,3 +1,9 @@
-# The Psychology of Consciousness
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 195d9c6533ea7b682da39cae1e9da736a06a97fd
+title: untitled
+---
+# THE EARLY SCIENTIFIC PERIOD
 
-With the exception of comparative psychologists (see follow- ing), the founding generation of scientiﬁc psychologists studied human consciousness via introspection (Leahey, 2000).Theywerethusprimarilyconcernedwiththeprocesses of sensation and perception, which are discussed in another chapter of this handbook. Research and theory continued to be guided by the positions already developed by philoso- phers. Most psychologists, including Wilhelm Wundt, the traditional founder of psychology, adopted one form or another of the Way of Ideas, although it was vehemently re- jected by the gestalt psychologists, who adopted a form of realism proposed by the philosopher Franz Brentano (1838–1917; Leahey, 2000).
+Contemporarycognitivescientistsdistinguishbetweenproce- dural and declarative learning, sometimes known as knowing how and knowing that (Squire, 1994). Although the distinc- tion was drawn only recently, it will be useful for understand- ing the study of cognition and learning in the Early Scientiﬁc Period. A paradigmatic illustration of the two forms of learn- ing or knowing is bicycle riding. Most of us know how to ride a bicycle (procedural learning), but few of us know the physi- cal and physiological principles that are involved (declarative learning).

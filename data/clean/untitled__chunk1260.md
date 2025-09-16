@@ -1,3 +1,9 @@
-# The Discovery of Precocity
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8af6b320e575f3a1736673125eab70c0de665d8d
+title: untitled
+---
+## The Rise of Contemporary Themes (1960–1985) 211
 
-In part the result of Piaget’s early work on infant cognitive and perceptual development and in part the consequence of new experimental techniques for assessing infant visual, au- ditory, and olfactory capacities (e.g., Fantz, 1963; Lipsitt, 1963), there was a resurgence of interest in documenting in- fant sensory and perceptual competence. Studies of infants challenged traditional views and ushered in an era of discov- ering the “competent infant.” In contrast to earlier views of infants as limited, helpless, and incompetent, these new studies revealed an infant who was biologically prepared for social, perceptual, and cognitive encounters with the exter- nal environment. Babies were revealed to be capable of vi- sual and auditory discriminations (e.g., color, form, pitch) from a much younger age than earlier theorists had assumed. In turn, this prepared the way for a closer look at biological contributions to early development. A similar set of ad- vances concerning the remarkable capacity of infants to learn was also reported (Lipsitt, 1963; Papousek, 1961; Sameroff, 1970).
+Piaget by American psychologists. J. McVicker Hunt (1906– 1991) published his inﬂuential treatise, Intelligence and Experience (1961), which reintroduced Piagetian thinking to Americans. A few years later, a systematic overview of Piaget’s theory was offered by John Flavell in his book The Developmental Psychology of Jean Piaget (1963). Piaget’s views of nature and nurture as both necessary and interactive quickly became prevalent in developmental psychology. A ﬂurry of empirical work that both supported and challenged Piagetian theory appeared in the 1960s and 1970s. This re- vitalized interest in cognitive development coincided with the onset of the cognitive revolution (Miller, Galanter, & Pribram, 1960) in mainstream psychology, so it is not sur- prising that cognitive development returned as a major theme of research.

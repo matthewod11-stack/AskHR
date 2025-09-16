@@ -1,29 +1,27 @@
-# in the market.
+---
+source_path: H08L2V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 803167f5cfcd2205e75fcf79719867bb69701954
+title: H08L2V-PDF-ENG
+---
+## HBR / Digital Article / Don’t Let Growth Muddle Your Company’s Strategy
 
-Why it happens
+The St Louis-based brokerage ﬁrm Edward Jones, for example, has built
 
-One might wonder why clever people undertake investments that dilute
+its success over the years by targeting conservative individual investors
 
-their ﬁrm’s strategy or diﬀerentiation. As it happens, there are many
+in rural America, serving them through its vast national branch
 
-good reasons why. First, there is the issue that when an investment is
+network, with each branch being operated by a single broker. It is this
 
-being evaluated, nobody knows for sure if it will lead to dilution and/or
+strategy that led journalists to call Edward Jones the Walmart of Wall
 
-if it does, how much dilution there would be. It is only after the fact —
+Street. However, in its eﬀorts to grow, the ﬁrm is now targeting more
 
-and often, long time after the fact — that the dilution eﬀect becomes
+upmarket customers by oﬀering services to high net-worth individuals,
 
-apparent and by that time, the damage has been done.
+and is also moving into big cities where branches will be operated by
 
-Second, it is rarely one big decision that leads to dilution. More often
+multiple brokers. On the face of it, these seem sensible investments, but
 
-than not, it is a series of many small decisions, taken over a long
-
-period, that cumulatively lead to dilution. Since ﬁrms evaluate each
-
-investment on its own merits at the time they are considering it,
-
-individual investments may not appear as too damaging to the ﬁrm’s
-
-diﬀerentiation; and since the investments are taken over a long period of time, it is diﬃcult to assess their cumulative eﬀect, which is the real
+they do run the risk of diluting the ﬁrm’s original strategic positioning

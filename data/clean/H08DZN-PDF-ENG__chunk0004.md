@@ -1,3 +1,7 @@
-## Research: How Anxiety Shapes Men’s and Women’s Leadership Differently
-
-A study of 137 leaders and their direct reports during the early stages of Covid-19 shows that men were more likely to resort to abusive behavior during stressful moments. by Ivona Hideg, Tanja Hentschel, and Winny Shen
+---
+source_path: H08DZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a6c34af30351b175a6391e6fdf1da020de85f8e
+title: H08DZN-PDF-ENG
+---
+# HBR / Digital Article / Research: How Anxiety Shapes Men’s and Women’s Leadership…

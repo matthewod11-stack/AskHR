@@ -1,21 +1,25 @@
-# HBR / Digital Article / Research: A Better Way to Keep Tabs on Your Remote Workforc…
+---
+source_path: H08MJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cda782b1349f47b6415a876045fabb1838aa5c0e
+title: H08MJK-PDF-ENG
+---
+# Two Caveats
 
-seeking to foster innovation, communication, and trust among remote
+Although our research demonstrates the advantages of interactional
 
-employees, interactional monitoring should take precedence.
+monitoring, one should not conclude that observational monitoring
 
-That said, interactional monitoring is not without its challenges. Prior
+has no value. Previous studies indicate that under certain conditions,
 
-research suggests that excessive and overly frequent virtual meetings
+this type of monitoring can enhance performance and curb deviance.
 
-can lead to fatigue and disengagement among employees. Managers
+Our argument relates not to eliminating observational monitoring but
 
-should balance their approach by tailoring meeting frequency to
+to which types of monitoring organizations should prioritize. When
 
-the actual needs of their team and individual employees, ensuring
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that interactional monitoring supports productivity rather than detracts from it. Ultimately, the eﬀectiveness of remote monitoring
+6
 
-— whether observational or interactional — depends on thoughtful
-
-implementation that aligns with the speciﬁc demands of the work and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

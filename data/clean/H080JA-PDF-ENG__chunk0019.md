@@ -1,7 +1,21 @@
-## HBR / Digital Article / It’s Time to Redefine Our Gendered Idea of “Ambition”
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 260f820eada15634bad37a2d8ed52326c857af01
+title: H080JA-PDF-ENG
+---
+# leverage key talent and potential.
 
-For far too long, women have had no choice but to submit to this
+Additionally, junior women who observe their senior colleagues succeed
 
-male blueprint. But smart companies and managers today recognize
+by trading away a personal life will come to believe that they must make
 
-that this blueprint thwarts the career advancement and development of
+the same transaction — and, more concerning, that if they fail to do so,
+
+they’re simply not ambitious.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

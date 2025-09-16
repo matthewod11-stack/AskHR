@@ -1,7 +1,25 @@
-## DISPOSITIONAL INFLUENCES ON AFFECTIVE EXPERIENCES AT WORK 127
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b741a61303a622bb7517482461f4773585266ca0
+title: barrickryan_eds_personality_and_work
+---
+# 126 PERSONALITY AND WORK
 
-the Minnesota Satisfaction Questionnaire (Hart, 1999; Smith & Tziner, 1998; Watson & Slack, 1993) and the Job Descriptive Index (Glynn, 1998; Judge & Hulin, 1993; Levin & Stokes, 1989). In ad- dition, job satisfaction, unlike affective experiences, is a fairly sta- ble construct. Although results generally show moderate relations between affective personality constructs and job satisfaction, these results, weak or strong, tell us very little about personality and true affective reactions.
+example, anger) into the PsycINFO database. An enormous list was generated, but only terms related to work or organizations are in- cluded in our overview.
 
-Psychological strain as an outcome of exposure to job stressors has many operationalizations, including job satisfaction, frustra- tion, anxiety, depression, burnout, and physical health problems. Some of these may be considered emotional reactions, but, inter- estingly, even so are generally measured over a period of time (say, in the past month). For example, Chen and Spector (1991) asked participants “how they generally felt at work during the past 30 days,” but they called this a “state” measure of anger. The same type of measure has been used with anxiety (Jex & Gudanowski, 1992; Jex & Spector, 1996; Spector, Chen, & O’Connell, 2000).
+We believe that the literature can be characterized by four major
 
-Our second conclusion relates to the ﬁrst point. Overwhelm- ingly, when more clearly affective constructs have been studied, ag- gregate measures have been used as the dependent variable. Sometimes measures of relatively stable constructs like satisfaction are used; sometimes people are asked to aggregate their momentary experiences subjectively over a particular time period (for example, “How have you typically felt over the last month?”); sometimes re- searchers aggregate momentary data mechanically. The Job Affect Scale (Brief, Burke, George, Robinson, & Webster, 1988) used in several studies (George, 1990; Saavedra & Kwun, 2000) asks for the respondent’s mood for the past week rather than at the moment the person is responding to the items. Stokes and Levin (1990) re- lated their new negative affectivity scale to experienced positive and negative affect over a one-week period. Other studies have used one-day measures, assessing the respondents’ judgments of their average moods over the course of a day (Bohle & Tilley, 1993). Although these studies have found relationships between personality constructs and individual differences in average affect, this paradigm is not able to explain the within-person changes in affect, which we have noted is a large portion of the total variance in emotional states.
+observations that are relevant to the objectives of this chapter:
+
+- 1. In the literature on personality and affect in work settings, af- fective experiences are frequently studied not as affect itself but as related constructs, such as job satisfaction and psycho- logical strain.
+
+- 2. Studies of personality and affective reactions in organizational settings have primarily involved the examination of aggregate affective constructs as dependent variables.
+
+- 3. The general format for studying affect-related experiences in- volves cross-sectional questionnaire studies that are unable to capture the affect process as it unfolds over time.
+
+- 4. Affective experiences and personality variables create a murky pool in which there is no clear distinction between a stable characteristic and an experience in progress.
+
+Our ﬁrst point is that many organizational studies on person- ality and affect have examined such things as job satisfaction (Bluen, Barling, & Burns, 1990; Fisher, 2000; Hart, 1999; Judge, Locke, & Durham, 1997; Porac, Ferris, & Fedor, 1983), psycholog- ical strain (Chen & Spector, 1991; Jex & Bliese, 1999; Saks & Ash- forth, 2000), and burnout (Wright & Cropanzano, 1998; Zellars & Perrewe, 2001); fewer have looked at emotions or moods at work. Although these regularly studied phenomena are potentially in- ﬂuenced by affective experiences and are related conceptually, they are not the same as actual affective experiences (Weiss, 2002a). Job satisfaction is a good example.
+
+Job satisfaction is an attitude, not an affective state. As an atti- tude, it is best conceptualized as an evaluation of one’s job, inﬂu- enced in part by affective events that have occurred at work (Weiss, 2002b; Weiss & Cropanzano, 1996) and, as a source of error, the mood one is in at the time of making the evaluation (Brief, Butcher, & Roberson, 1995). In addition, most measures of job satisfac- tion have a large cognitive component (Brief & Roberson, 1989). The studies reviewed often used highly cognitive measures, such as

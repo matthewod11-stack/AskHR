@@ -1,1 +1,13 @@
-# 9/10/25, 12:05 PM
+---
+source_path: "What to Do When Your Ideas Aren\u2019t Landing.md"
+pages: n/a-n/a
+chunk_id: 1811b1726d6f21b017e6b0f33558d66e186387eb
+title: "What to Do When Your Ideas Aren\u2019t Landing"
+---
+# Privacy - Terms
+
+https://hbr.org/2023/07/what-to-do-when-your-ideas-arent-landing
+
+1/7
+
+them, pronto. But to your dismay, nothing you share ends uplanding. This continues to happen week after week.When you ask your manager for feedback, they tell you somethingvague like: “We love all ideas — keeping them coming!” Still, youfeel you could be doing more to communicate your thoughts in ameaningful way.Ever been in this situation? You’re not alone. The majority of theworkers I coach face this issue at some point in their careers, andtypically, the issue is not their ideas — it’s their delivery. Here arefour strategies that have consistently worked for my clients. Usethem to present your ideas in a way that will resonate with anyaudience.Think small.One client I worked with had great ideas that she believed couldsolve some major issues at her company. She didn’t get too muchone-on-one time with her manager, so when she did, she endedup sharing all of her recommendations at once. A few minutesinto their meetings, my client could see her manager’s eyes glazeover. She knew her ideas weren’t being heard.It can be easy to get carried away and think you need to share allyour ideas at once — especially if, like my client, you get little facetime with the decision-makers at your organization. Butpresenting someone with too many thoughts or proposals at oncecan overwhelm them. Whether you’re talking a manager, a peer,or a senior leader — these people have a lot on their plates. It willbe easier for them to process what you’re saying if it’s clear, to the

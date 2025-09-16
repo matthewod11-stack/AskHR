@@ -1,17 +1,19 @@
-## keeps interdependencies visible and relevant.
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b76046f299df005bb2d24f7585231640d34e7c42
+title: H08PFQ-PDF-ENG
+---
+## four months, but in the end, collaboration and synergy dramatically
 
-Lead out loud with context.
+improved.
 
-Letting people into your own cognitive process allows them to learn
+To strengthen cross-functional collaboration:
 
-from you while learning about you—seeing you as human, vulnerable,
+- Pair executives from diﬀerent functions to co-lead initiatives, with
 
-and therefore more worthy of their conﬁdence. “Leading out loud”
+shared ownership over outcomes and messaging.
 
-means saying things like, “Here’s what I’m still working out for myself,
+- At the start of each leadership meeting, ask one function to brieﬂy
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+describe how a current enterprise-wide issue is impacting them. This

@@ -1,7 +1,11 @@
-## Chapter 5 • Measuring Results and Behaviors
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d6e19d7d424a23ebf23a5d1e0e1ca5111d4a4805
+title: performance_management_3rd_edition_by_aguinis
+---
+# Evaluating Objectives and Standards
 
-of the ideal characteristics if the characteristic is present. Then, use the Comments column to provide a description of why or why each objective and standard meets or does not
+Using the results from Case Study 5.1, use the accompanying checklist to evaluate each objective and standard you
 
-meet the ideal. Finally, review your tables, and provide an overall assessment of the quality of the objectives and standards you created. (cid:2)
-
-Objectives must have the following characteristics:
+produced. For each objective and standard, use the first column in the checklist, and place a check mark next to each

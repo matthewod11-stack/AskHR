@@ -1,5 +1,11 @@
-# l
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 79d09835449c91c286157501b1be4f03ce03a407
+title: arop1noe_245_275
+---
+# i
 
-Gagne RM. 1992. Principles of Instructional Design. Fort Worth, TX: Harcourt Brace Galagan P 2010. Bridging the skills gap: new factors compound the growing skills shortage. TþD 64:44–49 Garavan TN, McGuire D. 2010. Human resource development and society: human resource development’s role in embedding corporate social responsibility, sustainability, and ethics in organizations. Adv. Dev. Hum. Resour. 12:487–507
+.
 
-Gardner HK, Gino F, Staats BR. 2012. Dynamically integrating knowledge in teams: transforming resources
+d e d a o n w o D

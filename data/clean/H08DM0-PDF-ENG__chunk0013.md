@@ -1,17 +1,29 @@
-# Offer information and support.
+---
+source_path: H08DM0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32e238b2a26fb7e2ea7c69f8b92605e44cd0e4be
+title: H08DM0-PDF-ENG
+---
+# Practice empathy.
 
-In your early conversations with your boss, Martin suggests asking two
+It’s tough to summon compassion for someone whose rushed decisions
 
-key questions: “What do you need? And how can I help?” Repeat as
+are making your job harder, but “put yourself in your new boss’s shoes,”
 
-necessary. Your willingness to provide support creates an environment
+says Banu. “They’ve just started at a new organization and they’re eager
 
-of “open communication and cooperation” and paves the way for
+to prove themselves.”
 
-dealing with any decisions that seem premature, he says.
+Bear in mind, too, your new boss might be dealing with pressure from
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+higher-ups that you’re not aware of. They may be trying to deliver
 
-2
+on promises they made during their interviews, which often means
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+bringing about big changes in a short amount of time, says Martin.
+
+In other words: Your new boss is monumentally stressed. “In the ﬁrst 90
+
+days, you’re not seeing them at their best,” says Martin. Assume good
+
+intentions and “give them grace.”

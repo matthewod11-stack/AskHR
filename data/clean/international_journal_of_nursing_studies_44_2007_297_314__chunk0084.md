@@ -1,11 +1,11 @@
-## Journal of Nursing Administration 33 (5): 271–283
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 9155a4b4b71593a7698879099c4fc4657bebb231
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+## Journal of Nursing Administration 31 (6): 324–331
 
-Larger study An examination of whether stress in RNs is associated with illness or injury.
+Predicting registered nurse job satisfaction and intent to leave
 
-Smaller part of study An exploration of job satisfaction factors (including turnover) related to the work environment.
-
-Investigation of the relative inﬂuence of nurse attitudes, context of care and structure of care on job satisfaction and intent to leave.
-
-Postal questionnaire sent to RNs in 10 hospitals in southern Michigan including:
-
-(cid:2) The Speciﬁc Satisfactions Subscale (from Job Diagnostic Survey) (cid:2) The Immediate Supervisor (cid:2) The Health Professions Stress (cid:2) Single question relating to intent to
+Larrabee J, Janney M, Ostrow C, Withrow M, Hobbs G, Burant C (2003)

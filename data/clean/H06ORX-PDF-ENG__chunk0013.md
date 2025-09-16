@@ -1,31 +1,39 @@
-# approach is…
+---
+source_path: H06ORX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9d3efdc5ef4479deab0d33a09667bed727831e2
+title: H06ORX-PDF-ENG
+---
+# HBR / Digital Article / Rebuilding Relationships Across Teams in a Hybrid Workplace
 
-- 3. I’m most excited about this team’s ability to…
+their work mattered) and lacking a sense of belonging. They lacked what
 
-- 4. The help I need to be successful on this team is…
+I refer to as organizational solidarity: creating strong ties to one another
 
-- 5. The contribution I feel I can make to your success is…
+and to a shared purpose so people never question either.
 
-It was a heartfelt two days full of emotions and surprises for the group.
+Relationships across functions are especially challenging to form with
 
-Most notable were the many comments from tenured employees about
+solidarity when you haven’t seen or spoken to one another in a long
 
-seeing their long-standing colleagues in a fresh light while accelerating
+while. In one client organization where there had been a lot of change
 
-trust with their new colleagues. One participant said it well: “My
+in one division during the pandemic (a new organization design,
 
-default position with other departments has been to assume the worst.
+new people, and shifts in people’s roles), we did a comprehensive re-
 
-But when they showed up with that level of commitment to me, I
+onboarding of everyone in the organization. Leaders realized that if we
 
-knew I had to trust them.” These results are further evidence of what
+didn’t level the playing ﬁeld for everyone, trust would take too long
 
-my own 15-year longitudinal study revealed: Stronger cross-functional
+to build. In a two-day session of round-robin conversations, people
 
-relationships are six times more likely to produce trustworthy behavior.
+gathered to “meet for the ﬁrst time…again.” Each person came prepared
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+to share their responses to ﬁve prompts:
 
-4
+- 1. The most signiﬁcant thing that’s diﬀerent about me since the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+pandemic started is…
+
+- 2. The thing I’m most concerned about returning to work in our hybrid

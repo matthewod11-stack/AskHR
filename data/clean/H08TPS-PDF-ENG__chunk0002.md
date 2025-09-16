@@ -1,9 +1,7 @@
-# Ekaterina Nosenko/Getty Images
-
-For months, economists, journalists, and analysts have wondered
-
-whether a recession might hit the U.S. economy. When a recession
-
-strikes, many companies respond by immediately downsizing their
-
-workforce to preserve cash, streamline operations, and maintain
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26b0aa4da976dfd23ec1758bd3f9c1d724a0b337
+title: H08TPS-PDF-ENG
+---
+## Published on HBR.org / July 21, 2025 / Reprint H08TPS

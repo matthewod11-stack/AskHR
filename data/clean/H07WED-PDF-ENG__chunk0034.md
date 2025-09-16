@@ -1,15 +1,13 @@
-# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a51789549ebd41152d3ea85307d7ebd69665fe10
+title: H07WED-PDF-ENG
+---
+# attributes:
 
-- 1. Forward thinking
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-In project management, forward thinking involves creating
+6
 
-comprehensive plans while considering long-term goals. To transition
-
-to a CEO perspective, actively participate in strategic planning sessions,
-
-contribute to deﬁning the organization’s future direction, and align your
-
-projects with these strategic objectives. Stay informed about industry
-
-trends and emerging technologies that can shape the future of your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

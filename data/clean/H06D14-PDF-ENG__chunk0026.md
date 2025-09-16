@@ -1,21 +1,39 @@
-## HBR / Digital Article / When You’re Stuck Working with a Slacker
+---
+source_path: H06D14-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5d67af5af191128acb4dfe8914bd8358519d7a0
+title: H06D14-PDF-ENG
+---
+# spiteful.”
 
-let Brian try to explain himself,” she says. Her boss knew what she
+But she did a number of other things. At the beginning of the project,
 
-accomplished; Brian’s poor performance was also apparent.
+she delineated her responsibilities from Brian’s—and made sure the
 
-Lauren continued to work at the organization, and she got used to
+boss knew who was responsible for certain deliverables. “I clearly
 
-dealing with Brian. “He became known as the underperformer in
+indicated who had been assigned to work on what, and I made
 
-our department, and nobody wanted to work with him,” she says.
+continuous written updates of my progress,” she says. “I documented
 
-“Eventually, he left the company.”
+my contributions and ensured that my parts were completed.”
 
-Her advice to others in this situation: “Don’t let an underperformer drag
+Her goal was to distance herself from Brian’s performance and make
 
-you down, because they will if you let them. Stand tall; let your work
+sure her manager knew that she was getting results even if he wasn’t.
 
-speak for itself.”
+The project came in late. “It was presentable, but it wasn’t as great as it
 
-Case Study #2: Deﬁne roles and responsibilities to increase
+could have been,” says Lauren.
+
+When it was over, Lauren requested that her manager provide feedback
+
+to her and Brian at the same time. Her boss knew that something was
+
+awry. “In the meeting, I was conﬁdent about my performance, so I
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

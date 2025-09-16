@@ -1,9 +1,21 @@
-## old habits and systems and immovable ﬁnancial, legal, and political
+---
+source_path: H08HVS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89b1eeb2263e4394d3cc54747eee5bb730870b47
+title: H08HVS-PDF-ENG
+---
+## the right things easier and the wrong things harder in organizations. We
 
-constraints. This article zeros in on how the team was able to improve
+were intrigued by the rapid repairs Gordon’s team made at the DMV. So
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+we joined up with Stanford case writer Michael Rothkopf, as well as
 
-2
+a wonderful team at Stanford Business School, to work with Gordon
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and his colleagues to produce a multimedia case study, “Steve Gordon:
+
+Reducing Traﬃc Jams at The DMV,” available to download for free.
+
+We could write an entire book about lessons from Gordon’s team about
+
+leading change in big organizations — especially those saddled by bad

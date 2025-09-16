@@ -1,13 +1,9 @@
-# employees without proper consent.
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e689e135ccf00a01dfc9aaa19990d6a1ce13ab5e
+title: H08QRZ-PDF-ENG
+---
+## a convenience store and fuel station chain; and Meta Platforms all
 
-In this article, we provide guidance for employers to not only collect
-
-such data ethically, but to better understand when not to do it. In
-
-addition, we suggest ways for employees to navigate situations where
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+settled similar claims that they collected and used the bodily data of

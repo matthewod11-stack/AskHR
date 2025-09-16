@@ -1,11 +1,19 @@
-# the beneﬁts landscape.
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3cc7e7ff75c08e84289523444738a3959360ada7
+title: R2504F-PDF-ENG
+---
+## HBR / Magazine Article / Your Company Needs an Eldercare Policy
 
-Enlist everyone in supporting elder caregivers. Managers should be
+assessment and navigation services. The means of delivery must
 
-equipped to work eﬀectively and empathetically with employees who
+be adaptable, too, so that employees can not only get institutional
 
-are balancing caregiving and their everyday work tasks. Employees
+guidance and support but also learn how to take action on their own.
 
-should be encouraged to seek out coworkers with personal experience
+And beneﬁts must be packaged for ease of understanding and use. The
 
-they can draw upon. There are also many beneﬁts to forming an
+variety of needs and beneﬁts makes this a challenge, but employees
+
+should be well briefed on available support and able to easily navigate

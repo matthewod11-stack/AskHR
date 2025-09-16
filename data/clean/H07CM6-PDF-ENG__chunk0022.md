@@ -1,33 +1,17 @@
-## HBR / Digital Article / To Coach Leaders, Ask the Right Questions
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d52b30f5fe195e008c0068a1b6498aa6523d63d
+title: H07CM6-PDF-ENG
+---
+## The fourth center of intelligence, the spirit, refers to the wider
 
-Paulina B. is the CEO of a large nonproﬁt. The clients that her
+perspective that emerges when leaders ﬁnd the right balance between
 
-organization serves have long been a powerful source of spiritual energy
+taking care of their own needs, and taking care of others.
 
-for her. When we began working together during Covid, she was feeling
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-deeply burned out, to the point that she was considering leaving her job.
+5
 
-As we explored her experience, Paulina began to see that her defender
-
-arose whenever she felt she was falling short of perfection — in the form
-
-of a relentless self-critic who found her wanting. The louder that voice
-
-became, the harder she pushed herself, the more involved she got in
-
-details, and the more dispirited she became.
-
-We focused together on a very basic question: What fuels your energy,
-
-and what depletes it? By giving herself permission to explore the
-
-answers, Paulina discovered that jumping into every problem in the
-
-organization served her perfectionism, but often prevented her from
-
-investing in the parts of her job that she found most nourishing.
-
-Chief among them were the energy she derived spending time in the
-
-ﬁeld with employees and clients, and interacting with leaders of other
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

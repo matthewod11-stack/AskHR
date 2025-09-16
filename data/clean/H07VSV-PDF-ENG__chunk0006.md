@@ -1,7 +1,7 @@
-# Benne Ochs/Getty Images
-
-According to a report by TeamStage, 70% of projects globally fail.
-
-And big projects, with greater complexity and more moving parts,
-
-fail at signiﬁcant rates. This can be for a variety of reasons, ranging
+---
+source_path: H07VSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e532c3c7eb8668a531e1d6952515176395936df
+title: H07VSV-PDF-ENG
+---
+## Published on HBR.org / October 31, 2023 / Reprint H07VSV

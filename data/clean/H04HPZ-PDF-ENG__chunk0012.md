@@ -1,7 +1,19 @@
-# employees from harassment.
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12ba03bd61ab8ed5c380607b4e43a20a42106f3a
+title: H04HPZ-PDF-ENG
+---
+## management rather than sexual harassment.
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+But one factor that’s often left out of this conversation is the role the
 
-2
+courts have played in shielding companies from legal liability. When a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+case does manage to reach the legal system, courts will often side with
+
+a company due to the mere presence of an oﬃcial policy, regardless of whether the policy is actually eﬀective in addressing harassment
+
+or abuse. I call these policies “symbolic structures,” and they often
+
+do more to protect employers from lawsuits than they do to protect

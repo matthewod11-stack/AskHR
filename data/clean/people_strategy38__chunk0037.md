@@ -1,5 +1,11 @@
-# Source of insight
+---
+source_path: people_strategy38.md
+pages: n/a-n/a
+chunk_id: bb3a9590cc5afb8a8125947caf1bb3df97ef4a73
+title: people_strategy38
+---
+# Adherence to convention
 
-Analytical Market decisions are relentlessly data-driven—nothing is approved if there aren’t air-tight numbers to support it
+Procedural Leadership has been in place for more than a decade, is dedicated to historically successful processes and slow to change
 
-Intuitive Assessments of market potential use data but also incorporate experience, judgment and informed instinct
+Flexible New leadership is pragmatic about how to accomplish tasks and not inclined to default to existing process

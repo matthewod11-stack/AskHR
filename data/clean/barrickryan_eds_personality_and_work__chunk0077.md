@@ -1,3 +1,15 @@
-# THE CONTRIBUTORS xxiii
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a8fac2a9dc66f67f0afb56a50fc6a7e32278b41c
+title: barrickryan_eds_personality_and_work
+---
+# xxii THE CONTRIBUTORS
 
-Howard M. Weiss is professor of psychological sciences at Purdue University and codirector of the Military Family Research Institute at Purdue, an institute dedicated to conducting research on the re- lationships between quality of life and job satisfaction, retention, and work performance. His research interests focus on emotions in the workplace and job attitudes. His most recent publications are related to his theoretical framework, affective events theory. He re- ceived his Ph.D. in industrial/organizational psychology from New York University
+and Web-based testing in psychological research and personnel se- lection settings. He received his Ph.D. in psychology from the Uni- versity of Minnesota.
+
+Paul R. Sackett is a professor of psychology at the University of Minnesota. He has served as the editor of Personnel Psychology, pres- ident of the Society for Industrial and Organizational Psychology, cochair of the Joint Committee on the Standards for Educational and Psychological Testing, a member of the National Research Council’s Board on Testing and Assessment, chair of American Psy- chological Association’s Committee on Psychological Tests and As- sessments and its Board of Scientiﬁc Affairs. His research interests revolve around psychological testing and assessment in workplace settings. He received his Ph.D. in industrial/organizational psy- chology from Ohio State University.
+
+Gerard Saucier is associate professor in the Department of Psy- chology at the University of Oregon. He serves as associate editor of the Journal of Research in Personality and is on the editorial board of three other personality journals. He was the 1999 recipient of the Cattell Award for outstanding early career contributions from the Society of Multivariate Experimental Psychology. He has writ- ten extensively about issues related to personality measurement, the structure of personality attributes, and the representation of these attributes in language, and he carries out research on the structure of ideological beliefs and social attitudes. He received his Ph.D. from the University of Oregon.
+
+Greg L. Stewart is an associate professor of management at the University of Iowa. His areas of expertise include organizational behavior and human resource management. He has published nu- merous articles related to organizational stafﬁng, including an em- phasis on understanding how employee personality traits affect performance. He also conducts research related to self-managing work teams and team leadership. His research articles have ap- peared in leading academic journals, including Journal of Applied Psychology, Personnel Psychology, Academy of Management Journal, Or- ganization Science, and Human Relations. He earned his Ph.D. at Ari- zona State University.

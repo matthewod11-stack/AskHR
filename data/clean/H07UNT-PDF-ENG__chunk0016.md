@@ -1,35 +1,27 @@
-# project to the end zone.”
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1a6e65c5b6c58743108650b97301bf1d00eb940
+title: H07UNT-PDF-ENG
+---
+## Approach project management as couples therapy.
 
-Further, PMs often become experts at delicately navigating the moods
+A common argument among couples is that one partner can’t read the
 
-of various stakeholders, another skill that enables them to properly
+others’ mind. The same rings true for most colleagues.
 
-manage the expectations of the entire team.
+That’s why executive coach Shoshanna Hecht suggests project
 
-“PMs become couples counselors, mediators, and therapists,” says
+managers take a cue from the job of couples counselors: to establish
 
-Hecht. “They need to make everyone feel valued and heard, explaining
+that they are not on the side of either party. The counselor’s role is to
 
-what’s possible while clearly outlining the limitations. Clear is kind.”
+remain on the side of the relationship as a whole. As such, the project
 
-To do this successfully, recap conversation takeaways in detail. For
+manager is on the side of the project.
 
-example, the way a client digests a conversation can signiﬁcantly
+“The PM is in service of the business. That doesn’t always mean
 
-vary from how a creative team digests it. An all-too-familiar scenario
+appeasing the client, but understanding the job to be done and the
 
-happens when a client approves a creative concept, a team begins work
-
-and comes back to present ideas to the client. The feedback isn’t great.
-
-The PM needs to re-brief the team, set new deadlines, and present
-
-again. Minds are changing, self doubt is creeping in, the PM is trying
-
-to motivate employees as deadlines are shrinking.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+overall business goals,” she says. “They are responsible for getting the

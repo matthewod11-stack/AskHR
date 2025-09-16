@@ -1,31 +1,35 @@
-# shift.
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f335a41e36ff2e6e7086a5cb65d29cd3cb3fb66b
+title: H07UNT-PDF-ENG
+---
+## HBR / Digital Article / The Art of Setting Expectations as a Project Manager
 
-“Leaders tend to have the expectation that everyone thinks the way
+Anxious Achiever. “They may potentially stem from a formative
 
-they do,” says Lindsay Dunphy, founder and project management
+experience in life. Expectations can make us vulnerable.”
 
-lead at Fireﬂy Consulting Services. “So they don’t necessarily set the
+This can spill over into our work. It is also part of the reason that, when
 
-groundwork for employees to work within the systems they’ve created.
+workplace expectations aren’t clear, anxiety and stress seep in.
 
-Being able to articulate that expectation can be challenging.”
+That’s why it’s critical to be clear, deliberate and decisive from the
 
-To prevent confusion, a team can collectively set goals and understand
+outset. “People become anxious when there are unsaid expectations that
 
-what it will take to meet key performance indicators (KPIs). Equally
+are not explicit,” Aarons-Mele says. “So, align on terms and meanings.
 
-as important is continually re-evaluating these goals. As a project
+What does ‘good’ mean? What does ‘ready for next steps’ mean? What
 
-moves along, is the team meeting expectations? Do the goals still feel
+does ‘ready for client approval’ mean? What does ‘draft’ mean? My
 
-reasonable to achieve? Or is working towards them demoralizing the
+‘good’ might be your ‘terrible.’”
 
-team? If the latter, how can you reconﬁgure those goals or adjust
+In other words, don’t make people guess, or everyone will start
 
-expectations in order to meet those KPIs?
+operating based on assumptions, not facts. Your colleagues cannot read
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+your mind. Setting clear expectations prevents work moving forward
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+based on assumptions, especially as logistics and timelines inevitably

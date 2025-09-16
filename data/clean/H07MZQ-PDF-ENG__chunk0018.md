@@ -1,23 +1,23 @@
-# sometimes productivity at work.
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8907751c6fb0bd5c456e2a3e8f57649fd9774cd
+title: H07MZQ-PDF-ENG
+---
+# HBR / Digital Article / How to Support Parents of Neurodivergent Children at Work
 
-Initially, I would push through to the point of complete exhaustion,
+When I did speak up, I was overwhelmed with messages from people
 
-which would compound through the sleep regression period. To better
+sharing their own stories with me.
 
-cope and minimize this impact on my performance, I learned to do
+My (Kalifa’s) autistic son, now 8 years old, often goes through periods
 
-three things at work: 1) I immediately rearrange meetings when I can,
+where he has severe sleep issues (which can be typical with autism)
 
-- 2) I take breaks between meetings and while doing work that requires
+that amplify some behaviors related to autism and comorbid conditions.
 
-intense focus like writing or data analysis, and 3) I am open about my
+This disrupts the whole family’s sleep — including his younger siblings’
 
-experience. I realized that while people may not be able to completely
+— and also means I am exhausted and stressed out during my workday.
 
-understand my son’s situation, they can relate to sleep issues — an
-
-entry-point for discussion. I know the sleep regression periods are not
-
-everyday occurrences and are ﬁnite. And I knew I could create balance between my personal and work commitments by changing how I work,
-
-which has allowed me to better monitor my son’s needs during those
+These unpredictable periods take a toll on my energy, well-being, and

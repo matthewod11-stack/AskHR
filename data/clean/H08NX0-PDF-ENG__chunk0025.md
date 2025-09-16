@@ -1,7 +1,15 @@
-# norms.
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5df4874992bdcbaa96be9bb8a32cfca649cc468
+title: H08NX0-PDF-ENG
+---
+## HBR / Digital Article / 5 Pandemic-Era Lessons on Leading Through Drastic Change
 
-These companies showed that eﬀective decision-making in uncertain
+model was upended virtually overnight, they made quick but signiﬁcant
 
-times requires a balance of speed and prudence, supported by strong
+decisions: cutting their workforce by 25%, pausing marketing, and
 
-feedback mechanisms and the willingness to adjust course as new
+refocusing their platform on long-term stays and local travel—all before
+
+knowing whether travel patterns would ever return to pre-pandemic

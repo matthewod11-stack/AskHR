@@ -1,37 +1,43 @@
-# Agent Success Metrics
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: d180c80c8622f390c865495b8bedc07c5dec011c
+title: agents_companion
+---
+## orchestration, memory, and task decomposition.
 
-Metrics are critical to building, monitoring, and comparing revisions of Agents. Business
+Figure 2. Each of these “Ops” are about technology, processes, and people14
 
-metrics, like revenue or user engagement, are probably outside of the scope of the agent
+All of these “Ops” are, in essence, the harmonious blend of people, processes, and
 
-itself but these should be the north star metric for your agents.
+technologies working together to efficiently deploy machine learning solutions into a
 
-Most Agents are designed around accomplishing goals, so goal completion rate is a key
+live production environment. It’s crucial to recognize that Ops extends beyond mere
 
-metric to track. Similarly, a goal might be broken down into a few critical tasks or critical
+technology; it’s not simply about constructing and delivering a ML pipeline. Successful Ops
 
-user interactions. Each of these critical tasks and interactions should be independently
+implementations delve deeper, considering the customer’s operational model, their existing
 
-instrumented and measured.
+business units, and their overall organizational structure. This holistic approach ensures that
 
-So before we get into the details of the Agent itself, we already have several metrics
+the technology is tailored to their specific needs, seamlessly integrating into the business
 
-identified which you should be able to easily track on a dashboard. Each business metric,
+and maximizing value.
 
-goal, or critical interaction, will be aggregated in a familiar fashion: attempts, successes,
+11
 
-rates, etc. Additionally, metrics you should be able to get from any application telemetry
+The next section will cover Agent Evaluation in detail, which is a significant part of the story
 
-system are very important to track for agents as well, metrics like latency, errors, etc.
+for AgentOps and automation to capture useful metrics. Before we go there, let’s start with a
 
-12
+thought experiment; imagine setting up an A/B experiment in production for your new Agent.
 
-None of these metrics are specific to Agents, you could track them for any software, but they
+The treatment arm gets your new agent and the control arm does not. In that scenario, what
 
-are even more important for Agent builders. Deterministic code does only what you tell it to
+metrics are you measuring to determine if the treatment arm is doing better? What metrics
 
-do, whereas an agent can do a lot more, relying on LLMs which are trained on huge amounts
+are you measuring to determine ROI for the project? Is it a goal being accomplished, or
 
-of data. Instrumentation of these high level metrics is an important part of observability.
+sales totals, or a set of critical steps in a user journey? Those metrics must be understood,
 
-You can think of them as Key Performance Indicators (KPI) for the agent, and they allow for
+instrumented and easily analyzed in addition to more detailed Agent Evaluation metrics.

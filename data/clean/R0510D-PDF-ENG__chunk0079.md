@@ -1,5 +1,7 @@
-# A
-
-Line-of-business and support-unit leaders align their units with strategy. Board of directors becomes aligned. Balanced Scorecard team facilitates development of unit scorecards.
-
-Ofﬁce of strategy management oversees alignment of all management processes with strategy.
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4317e595654f3aed00174992283dac3f4b55187f
+title: R0510D-PDF-ENG
+---
+# l l

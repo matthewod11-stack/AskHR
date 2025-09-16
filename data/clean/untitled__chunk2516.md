@@ -1,11 +1,13 @@
-# children. San Francisco: Jossey-Bass.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b81428603ff30617501bd47da36ef4ef068cd803
+title: untitled
+---
+# indigenous people. London: Zed Books.
 
-Spivack, G., & Shure, M. B. (1985). ICPS and beyond: Centripetal and centrifugal forces. American Journal of Community Psy- chology, 13, 226–243.
+Smith, M. B., & Hobbs, N. (1966). The community and the commu- nity mental health center. American Psychologist, 21, 499–509.
 
-Spivack, G., & Shure, M. B. (1989). Interpersonal cognitive problem solving (ICPS): A competence-building primary pre- vention program. Prevention in Human Services, 6(2), 151–178.
+Spaulding, J., & Balch, P. (1983). Abrief history of primary preven- tion in the twentieth century: 1908–1980. American Journal of Community Psychology, 11, 59–80.
 
-Steele, R., Trickett, E. J., & Labarta, M. (1981). Ecology and cultural diversity: Multicultural examples. Paper presented at the annual meeting of the American Psychological Association, Los Angeles.
-
-Stokols, D. (1992). Environmental quality, human development, and health: An ecological view. Journal of Applied Developmen- tal Psychology, 13(2), 121–124.
-
-Stokols, D., & Altman, I. (1987). Handbook of environmental
+Spivack, G., & Shure, M. B. (1974). Social adjustment of young

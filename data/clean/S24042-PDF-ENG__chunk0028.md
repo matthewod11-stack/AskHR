@@ -1,23 +1,21 @@
-# ineﬀective and indecisive.
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b861ab148315f28ebf51fec37208b9f944f6ec20
+title: S24042-PDF-ENG
+---
+# widely.
 
-New CEOs who come from inside the organization obviously beneﬁt
+When one new CEO we worked with stepped into the role, he wanted
 
-greatly from having already developed strong relationships within their
+to ﬁll two key positions before he tried to get his top team on board
 
-ﬁrms. But they also have a special conﬁdence-building challenge: They
+with his objectives. He ﬁgured the searches would take a couple of
 
-must convince their former peers and colleagues—who have known
+months—three tops. However, as sometimes happens, they took longer
 
-them in other capacities—that they have what it takes to lead the entire
+than expected, and while they dragged on, another key executive
 
-enterprise. This challenge hit especially close to home for one CEO who
+left the company, creating yet another vacant seat. Waiting to start
 
-had spent much of his long career with his company. When he stepped
-
-up from CFO to CEO, he wanted the organization to know him better
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+moving forward cost this CEO valuable time and made him appear both

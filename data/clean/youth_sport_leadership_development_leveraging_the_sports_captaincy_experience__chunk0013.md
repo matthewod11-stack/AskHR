@@ -1,15 +1,11 @@
-# Youth Sport Leadership
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: 6b7e04ef122885d271ac8400269da95519ee1108
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# YOUTH LEADERSHIP DEVELOPMENT PHILOSOPHY
 
-- 2. Effective leadership results from the reciprocal interaction of leader charac- teristics (e.g., traits, orientations, behavioral skills), follower characteristics (e.g., traits, orientations, behavioral skills), and situational inﬂuences (e.g., resource availability, such as program funding).
+Leadership is a highly valued construct, but it is not always easily deﬁned or understood. Over time, we at ISYS have developed a leadership philos- ophy that serves as a foundation for all of our outreach work in this area. This philosophy is based on the latest leadership research conducted with adults (Anderson, 2007), youth leadership research and theory (Martinek & Hellison, 2009; van Linden & Fertman, 1998), our own research on youth sport leadership (Voelker, Gould, & Crawford, 2010; Voelker, Gould, & Griffes, 2010; Voelker et al., 2010), and our staff’s ﬁve years of experience in conducting CLTP. The fundamental principles of this youth leadership development philosophy follow:
 
-- 3. All young people can and need to learn leadership skills. However, certain youth will have characteristics and previous experiences that will increase their capacity to lead and enhance their leadership effectiveness.
-
-- 4. Youth leadership development occurs in stages beginning with awareness of one’s leadership capacity and the development of basic skills (e.g., mak- ing eye contact when communicating, focusing on positive reinforcement) and moving to more abstract interpretations of and interventions into one’s environment (e.g., understanding the complexity of leader-follower dy- namics, developing and sharing a team vision, eliciting positive behaviors from followers).
-
-- 5. Learning how to lead is multi-faceted. Much of the literature suggests that leadership may be developed through experience (observational and ex- periential learning), trial and error, mentorship, and formal education—the focus of our initiative (e.g., Doh, 2003; Kempster, 2006; Kouzes & Posner, 1987; Martinek & Hellison, 2009).
-
-- 6. Effective youth leadership development requires experiential learning. Young people in a leadership role need supervising adults to allow them to make “meaningful” decisions and to become active agents in their own development. Cultivating leadership in young people is difﬁcult when adults dominate their sport environment.
-
-- 7. Of all the venues that may be used to develop leadership in young peo- ple, sport appears to be one of the most underutilized. Highly valued in many societies, sport is an activity that young people are highly motivated to pursue and where youth believe their actions have important conse- quences. However, based on our research and personal and professional experiences, we have found that captainship is increasingly treated as a right and a status symbol that is granted when an athlete demonstrates out- standing athletic ability or reaches their senior year. Efforts to give high school captains real leadership opportunities are not occurring enough and when they do occur, captains are often ill prepared to handle them. When captainship is treated in this way, selﬁsh entitlement is promoted and life skill development is undermined. Captainship, in our view, is therefore an underrecognized opportunity to teach young people about real leadership. THE MHSAA CAPTAIN’S LEADERSHIP TRAINING PROGRAM
-
-CLTP has been developed over the last ﬁve years through a partnership between the MHSAA and ISYS. Its purpose is to teach current and future
+- 1. Leadership is a complex process that involves the effort of an individual (i.e., a leader) to help groups identify and achieve personal and group goals.

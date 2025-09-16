@@ -1,23 +1,17 @@
-# substantial backlash at worst.
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 28771c930fdabde8dcb6379fcc3a2a785ca2cf68
+title: H08LGU-PDF-ENG
+---
+# What Does a Better Model Look Like?
 
-Leaders at the forefront of reimagining this work are using data
+As I wrote in HBR last year, the mainstream DEI strategy adopted by
 
-to design interventions that measurably improve outcomes for all.
+many organizations — marked by jargon-heavy communication, siloed
 
-They apply a change management approach to create impact at
+programming reliant on burned-out volunteers, one-oﬀ workshops
 
-scale, improving personnel policies; hiring, promotion, and feedback
+utilizing outdated tactics like blame and shame, and little measurement
 
-processes; leadership incentives; and organizational culture and norms,
-
-rather than repeatedly seeking to “build awareness” without follow-up.
-
-They are building coalitions that engage everyone in the workplace
-
-as part of the solution, rather than looking to pin problems on one
-
-social identity group versus another. And they are communicating in
-
-ways that defuse defensiveness and threat by establishing the beneﬁt
-
-of this work for everyone, rather than resort to rhetoric that inﬂames
+or accountability — often created the appearance of progress at best and

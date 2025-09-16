@@ -1,17 +1,21 @@
-# for you too.
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2fe4ba6cbadbbf1670f04c07d404fa792846f4f9
+title: H08OSN-PDF-ENG
+---
+## HBR / Digital Article / When You’re Overloaded—and Delegating Isn’t an Option
 
-One senior partner in the professional services industry that we worked
+decision principle. Assure your team: If we remove or change the way we
 
-with consistently found herself overloaded with work because she was
+do this work and we need to put it back in place, we will.
 
-involved in too many projects.
+- 3. Strategically reduce your availability
 
-We challenged her on her standard, “all-in” level of participation on
+Many leaders think they should always be available. But too much
 
-projects and introduced two other possible modes. The ﬁrst was: Be
+availability creates more interactions and makes team members more
 
-there at the start, check in one to two times during the project phase,
+dependent on you than necessary or ideal. With a bit more space, your
 
-and attend the closing session of the project. The second option was
-
-to be available as an advisor “on request” for brainstorming ideas or
+team members will experience more room to act and this frees up time

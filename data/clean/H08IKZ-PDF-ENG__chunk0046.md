@@ -1,15 +1,29 @@
-## their feasibility, as well as ethical and competitive implications.
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eeba207d78356987e3c94074acf94476a0758cd4
+title: H08IKZ-PDF-ENG
+---
+# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
 
-Consider Netﬂix, which is famous for making production choices based
+The pumpkin spice latte, one of Starbucks’ most successful products,
 
-on its vast trove of viewership data. Its decision to create the chart-
+is an example of human decision-makers taking the lead and
 
-topping show Stranger Things may have been driven by an observation
+leveraging their understanding of context. While initial tests showed
 
-that content dealing with supernatural themes performed well, or the
+that customers preferred the taste of chocolate or caramel-ﬂavored
 
-enduring popularity of 1980s shows. However, Netﬂix also had to make
+products, the product developers believed that for a seasonal special,
 
-several bets driven by intuition, such as hiring a pair of unproven
+uniqueness was even more important than taste. In subsequent studies,
 
-showrunners that would inject their own vision or taking a chance on
+they gathered information on this criterion, where the pumpkin ﬂavor
+
+excelled.
+
+There will also be tasks where human and machine intelligence
+
+intersect and cooperate, forming what might be called a bionic
+
+organization in which humans review AI-generated solutions to assess

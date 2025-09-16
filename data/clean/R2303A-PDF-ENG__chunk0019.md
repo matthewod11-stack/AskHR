@@ -1,17 +1,41 @@
-# new one.
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bbaef1569395b269839b06fdffb4e541b131bb2a
+title: R2303A-PDF-ENG
+---
+# The Path to Growth
 
-Shift supervisors were chosen for their ability to adjust and adapt in
+With so much interest from outside Wilmington, we started to consider
 
-this way. They didn’t necessarily need previous experience interacting
+how we might grow. Emails from would-be Bitty & Beau’s operators
 
-with people with disabilities; they just needed the courage and the heart
+ﬂooded our inboxes; we got about two dozen a week. Our ﬁrst thought
 
-to share expertise and lead from behind in the diverse workplace we’d
+was to franchise, so we began accepting applications. But as hundreds
 
-created.
+poured in over the next few months, we realized that we should pump
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+the brakes and experiment with expansion ﬁrst. We decided to open a
 
-6
+single shop outside Wilmington, in Charleston, South Carolina, to prove
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that our concept could be scaled up and that success didn’t depend on
+
+the two of us being there every day.
+
+We hired for the new shop in the same way as for the ﬁrst: We found
+
+people who were excited to work and learn, and we assigned them
+
+to the stations they were best suited for. We would embrace any
+
+kind of disability and make accommodations. Our aim was to give
+
+team members meaningful work to do—whether they used only sign
+
+language or were in a wheelchair or had limited dexterity or were
+
+uncomfortable with social interactions—and to stay ﬂexible. If someone
+
+was put in the wrong role to start, we’d simply have that person try a

@@ -1,7 +1,11 @@
-## Personality as a Direct Determinant of Counterproductive Behavior
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 3b336cee4258727957bb890c8db7a6453a03b0d2
+title: barrickryan_eds_personality_and_work
+---
+## PERSONALITY AND COUNTERPRODUCTIVE WORKPLACE BEHAVIOR 157
 
-One reason personality traits may inﬂuence the occurrence of counterproductive behaviors is that they reﬂect internal biological states that predispose us toward certain relatively stable patterns of behavior in general. The idea that personality traits may reﬂect bi- ological states has a long history in the ﬁeld of personality psy- chology. Allport (1937) conjectured that traits reﬂect neuropsychic systems with motivational properties. Murray (1938) viewed needs as “psycho-chemical” forces, and Eysenck (1990) attempted to link his three-factor theory of traits—Extraversion, Neuroticism, and Psychoticism—to individual differences in nervous system func- tioning and formation (Winter & Barenbaum, 1999). More re- cently, McCrae and Costa (1999) have deﬁned traits as deep, unobservable psychological entities that are biological in origin.
+- 5. Personality as a moderator of cognitive, affective, and emo- tional reactions to perceived environmental events (personality leads to different behavioral reactions to injustice).
 
-Recent empirical evidence is strongly supportive of the thesis that personality traits are reﬂections of events taking place at the molecular level. In particular, by examining the neurotransmitters that govern the transmission of nerve impulses and their linkages to human behavior, researchers are beginning to identify the bio- logical states associated with our personality traits.
-
-To date, the most progress has been made in relation to the traits of Extraversion and Impulsivity, which as a trait essentially re- ﬂects a state of high Extraversion, low Conscientiousness, and low Agreeableness (Digman, 1997; Eysenck, 1997). There is emerging consensus that the neurotransmitter dopamine inﬂuences the ex- pression of either extraverted-type behaviors or impulsive behaviors, or both. Disagreement remains, however, about whether the line of neurobiological inﬂuence lies more properly with Extraversion or Impulsivity speciﬁcally. One group of researchers contends that dopamine production directly inﬂuences extraverted-type behavior
+We explore each of these possibilities in the ﬁve sections that follow.

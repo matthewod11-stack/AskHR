@@ -1,17 +1,7 @@
-# game like Overcooked-AI, where
-
-they must coordinate their actions
-
-to achieve a shared goal while
-
-competing for resources and
-
-optimizing individual performance.
-
-Table 2: A table comparing types of multi-agent systems.
-
-26
-
-Figure 7: An image depicting different multi-agent topologies, from LangGraph documentation.23
-
-The choice of design pattern depends on the specific application and the desired level of
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: e4ed6cbf72b5f9495a4e17ba43c7ddff6ff8320a
+title: agents_companion
+---
+# best outcome.

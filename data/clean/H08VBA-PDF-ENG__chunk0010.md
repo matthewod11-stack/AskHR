@@ -1,13 +1,15 @@
-# HBR / Digital Article / Your Company Needs to Focus on Fewer Projects. Here’s How.
+---
+source_path: H08VBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9d5ad11bc40ef2980eca4bbbf0c69a6ae778a2a
+title: H08VBA-PDF-ENG
+---
+## primarily through initiatives and transformations, but that doesn’t
 
-slow decision-making, and prevent organizations from focusing on the
+mean that more projects are better. Bloated portfolios dilute resources,
 
-projects that could truly move the needle.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-The ﬁrst rule for thriving in this new reality is simple: Kill more
+2
 
-projects. But here’s the catch—everyone knows this, yet few know how
-
-to do it. They fear the politics, the tradeoﬀs, and the uncomfortable
-
-conversations, so the overload continues, quietly draining focus and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

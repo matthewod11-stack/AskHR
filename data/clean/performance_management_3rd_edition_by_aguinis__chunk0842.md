@@ -1,17 +1,11 @@
-## Chapter 5 • Measuring Results and Behaviors
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a5a93e1d5abe804a1ff927d2fd107d2a8265f87c
+title: performance_management_3rd_edition_by_aguinis
+---
+## Listens to others and seeks solutions acceptable to all
 
-A third variation of the critical incidents technique is the use of behaviorally anchored rating scales (BARS), which are described next as one of several types of graphic rating scales.
+Ensures that everyone’s thoughts and opinions are considered in reaching a solution
 
-The graphic rating scale is the most popular tool used to measure performance. The aim of graphic rating scales is to ensure that the response categories (ratings of behavior) are clearly defined, that interpretation of the rating by an outside party is clear, and that the supervisor and the employee understand the rating. An example of a graphic rating scale used to rate the performance of a project manager is the following:
-
-Project management awareness is the knowledge of project management planning, updating status, working within budget, and delivering project on time and within budget. Rate _______________’s project management awareness using the following scale:
-
-1
-
-2
-
-3
-
-4
-
-5
+Actively seeks input in addition to recognized sources and facilitates implementation of solution

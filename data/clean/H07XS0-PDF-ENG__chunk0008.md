@@ -1,25 +1,17 @@
-## HBR / Digital Article / What It Really Takes to Become an Executive Coach
+---
+source_path: H07XS0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 815062774f46a790995152d25e919aab5ecf1537
+title: H07XS0-PDF-ENG
+---
+## Why People Say They Want to Become a Coach
 
-naturally wired for pro-social behavior, and the thought of getting paid
+Coaching is a helping profession, and we often experience a “helper’s
 
-to help others certainly seems like a win-win.
+high” (similar to a runner’s high) when we help. We humans are
 
-Many people who are interested in the profession believe they
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-have natural coaching skills that they could leverage into a career.
+2
 
-Furthermore, they may be at a stage in their careers where they have
-
-knowledge and experience and want to share it. They may also be at a stage where they’re tired of oﬃce politics and reporting to managers,
-
-and desire more autonomy and agency in their work. More than ever
-
-before, people want ﬂexibility and control over where, when, and how
-
-they work.
-
-Another reason we hear from our colleagues and clients delights us:
-
-Many people have experienced powerful, positive transformations with
-
-coaches, and they want to be a part of that process from a diﬀerent
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

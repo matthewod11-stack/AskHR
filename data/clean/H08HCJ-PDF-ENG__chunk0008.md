@@ -1,35 +1,35 @@
-# When Competition Drives Up Salaries
+---
+source_path: H08HCJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05e566090ec4c1e6e789d61d0b327f891d42380a
+title: H08HCJ-PDF-ENG
+---
+# HBR / Digital Article / Research: The Risks of Founding a Startup Near Big Companies
 
-Startups initially consist of a founder team and a set of early employees
+the oﬀerings of their large ﬁrm competitors. Spending large amounts
 
-that join through informal networks. But once a startup attempts to
+on salaries can leave less capital for other important initiatives, like
 
-grow larger, it enters formal labor markets, including by posting job
+experimentation or marketing, which can in turn make it harder for
 
-advertisements. In order to explore how large ﬁrm hiring aﬀects local
+startups to reach a growth phase.
 
-startups, we analyzed the online job ads of more than 140,000 U.S.
+So what should startups do? Does the beneﬁt of being close to talent
 
-startups founded between 2010 and 2020, and compared them to the
+outweigh the ﬁnancial burden of attracting it away from big ﬁrms?
 
-more than 180 million ads posted in this timeframe.
+And what part do large ﬁrms play in this? In new research, we
 
-We found that when large ﬁrms increase their hiring, startups in the
+analyzed more than 180 million job ads placed between 2010 and 2020,
 
-same location are forced to oﬀer up to 10% more for crucial roles, while
+including ads from more than 140,000 U.S. startups founded in that
 
-reducing their expected growth by 36%, compared to startups that did
+decade. We found that local large ﬁrm hiring patterns have a signiﬁcant
 
-not experience a corresponding increase in exposure to large ﬁrms. This
+impact on startups’ ability to grow. We examine our ﬁndings and oﬀer
 
-is true even when controlling for factors such as industry, economic
+recommendations for startups looking to navigate this complicated
 
-conditions (like recessions or booms), location, startup characteristics,
+landscape in order to take advantage of resource-rich locations without
 
-and education and experience requirements. We also found that this
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+being crowded out.

@@ -1,17 +1,25 @@
-# Provide an Actionable Path Forward
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fab7d7dcd5c44536e66d5e66f4954bb601d15da7
+title: H0881J-PDF-ENG
+---
+# Give Positive Reinforcement
 
-Consider providing feedback that’s focused on the future and allows
+Now that you’ve taken the time to look back and assess what’s
 
-you as the manager to ask the employee to imagine “what if.” For
+happening, reset the focus to the present state. Set the tone of the
 
-example, “How would you handle a situation if…?” This forward-looking
+conversation by acknowledging the employee’s strengths and desire to
 
-reframing of feedback helps remove the stigma of criticism and puts
+do well. Emphasizing empathy and understanding will show them that
 
-your direct report in a state of mind where they’re able to accomplish a diﬀerent result; after all, we can’t change the past.
+the discussion is about growth and development rather than criticism.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+You want to communicate that you believe improvement is possible
 
-5
+and that you and the team are here to support them through their self-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+improvement journey. As Charles Schwab said, “The way to develop the
+
+best that is in a person is by appreciation and encouragement.”

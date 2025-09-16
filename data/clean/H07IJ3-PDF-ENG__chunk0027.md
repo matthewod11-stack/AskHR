@@ -1,9 +1,17 @@
-# of the event.
+---
+source_path: H07IJ3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8365d221a67969e64f41d6d84cbf1b06020a5238
+title: H07IJ3-PDF-ENG
+---
+# Celebrate!
 
-- • •
+The adoption of a child is a monumental event for your employees and
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+should be treated as such. Society is quick to celebrate pregnancies and
 
-4
+births, showering the new parent with ﬂowers, cards, parties, and gifts.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Yet adoptive parents often get overlooked. Celebrating your employee’s
+
+new family communicates to them that you recognize the signiﬁcance

@@ -1,13 +1,17 @@
-## in, say, the federal government, on another more personal level, you
+---
+source_path: Team Leaders Need Better Data, Faster.md
+pages: n/a-n/a
+chunk_id: 8449ea447b2f7529897986214e3c93be539b6a25
+title: Team Leaders Need Better Data, Faster
+---
+## same way—you still ﬁnd signiﬁcant range in the performance metrics.
 
-know that your day-to-day experience of working is forged locally, by
+Books such as The Toyota Way and How Google Works lead us to believe
 
-the actual activities of your own job, by the support of your teammates,
+that organizations are monolithic—they have one business model, or
 
-and by the feelings of purpose, progress, and personal success created in
+one company culture, and this model and this culture explain why
 
-Copyright © 2015 Harvard Business School Publishing. All rights reserved.
+certain organizations are successful and others aren’t. But while, on one
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+level, you know that it must surely feel diﬀerent to work at Pixar than

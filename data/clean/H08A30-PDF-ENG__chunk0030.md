@@ -1,17 +1,9 @@
-# in need.
+---
+source_path: H08A30-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fe7986a220239a723885588b1ae59150f10cb58
+title: H08A30-PDF-ENG
+---
+# HBR / Digital Article / How to Improve the Hiring Process for Disabled Candidates
 
-This is a collaboration. Considering the real risk of individual people
-
-ﬁnding themselves on the wrong side of an employment decision,
-
-change needs to be addressed at multiple levels. No one small
-
-adjustment is going to resolve these concerns, but the tide is turning,
-
-and companies are showing the will to improve. Understanding some
-
-of the elements that make a diﬀerence for disabled job candidates is an
-
-important place to start.
-
-Note: This article follows the preference
+discussions on what works best and why for each individual employee

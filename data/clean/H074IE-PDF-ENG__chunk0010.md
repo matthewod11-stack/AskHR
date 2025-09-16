@@ -1,7 +1,15 @@
-# culture consultant Chris Littlefield:
+---
+source_path: H074IE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d9ef6c86bc9a11ece054564687f47baafd01d09
+title: H074IE-PDF-ENG
+---
+# to the company?
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+- What could I have done more of?
 
-2
+- What should I have done less of?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+In addition to asking for feedback, you can also ask yourself the
+
+following questions, recommended by executive coach and workplace

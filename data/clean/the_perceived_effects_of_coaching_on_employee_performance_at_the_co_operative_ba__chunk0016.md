@@ -1,11 +1,21 @@
-# post-graduate study.
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: e61f55851ba3475dd1472050a2e5a0c0fc51b5dc
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# ACKNOWLEDGEMENTS
 
-Finally, I have been able to rely on the constant support and encouragement from
+I could not have completed the course without the support of a number of people to
 
-my family. My husband, Henry who has always been there to exchange ideas and
+whom I am very grateful. Firstly, to all those who participated in the data collection
 
-share challenges with. My sister, Angela who took her precious time to make sure I
+process. Their contribution was highly valued and the time and insight they provided
 
-had all the support I needed for the research. Without them, I would not have been
+was greatly appreciated.
 
-able to find space and time to complete what has been a personally rewarding
+Next, I would particularly acknowledge my supervisor, Prof. Nzuve for his valuable
+
+guidance, support and dedication throughout the period of study. I also appreciate
+
+the opportunity given to me by The Co-operative Bank of Kenya to undertake this

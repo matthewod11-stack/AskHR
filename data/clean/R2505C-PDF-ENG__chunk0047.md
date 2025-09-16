@@ -1,13 +1,11 @@
-## less visible—but extremely important—supporters, as well as an array
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 776bbcd13b1e716e0fd132b9bcf31f9697fb2665
+title: R2505C-PDF-ENG
+---
+# Find Connection
 
-of constructive critics, including employees and customers. I found that
+Contrary to popular wisdom, there are few lone heroes. Courage is a
 
-bold leaders connect with others in three ways.
-
-Turn to allies for an emotional boost. We all want to feel loved and
-
-respected. If you’re facing uncertainty, that kind of support becomes
-
-even more important. When you surround yourself with people who
-
-think that you have what it takes to be bold, you start to believe it yourself. Relationships also aﬃrm people’s identities—for example
+team sport, and behind every brave leader, there is usually a group of

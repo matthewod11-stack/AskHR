@@ -1,7 +1,15 @@
-# evaluations.
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b5b732b26adca9f2f4f84bdbbaae40504df6c47
+title: H071B9-PDF-ENG
+---
+## strategic progress, transformation, and long-term survival.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Organizations that overemphasize trust risk triggering this kind of
 
-4
+unproductive behavior. Of course, it’s important to know that people
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in the organization are trustworthy, but management meetings and
+
+strategic collaboration efforts are not the right time to perform such

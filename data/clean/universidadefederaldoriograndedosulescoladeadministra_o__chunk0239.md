@@ -1,13 +1,7 @@
-## A validade de tais adaptações ainda tem pouca comprovação formal na
-
-literatura, o que se observa pela baixa produção acadêmica a este respeito. Em 27
-
-25
-
-de dezembro de 2019, em pesquisa no Google Acadêmico, 143 resultados foram
-
-encontrados para "employee net promoter score" enquanto que, para "net promoter
-
-score",
-
-foram encontrados 9.150 resultados (SEDLAK, 2020). Replicando essas
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 1d419922130b724595d150714b7f830119dd3a7d
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# área de RH, adaptações são feitas.

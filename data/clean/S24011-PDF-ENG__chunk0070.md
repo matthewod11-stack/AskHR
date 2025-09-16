@@ -1,13 +1,15 @@
-## 20.Empathize. Attune yourself, without judgment, to the emotions and
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe42ef27e6916572fbf39510d76fab6204d99d7a
+title: S24011-PDF-ENG
+---
+## Love Energy: Connected with Those You Work with and Serve
 
-thoughts of others, and make them feel understood.
+- 17. Appreciate. Recognize positive qualities in situations and people.
 
-- 21. Act/express thoughtfully. Bring a deep sense of caring to how you
+- 18. Affiliate. Find common ground with others.
 
-make tough decisions and communicate hard truths.
+- 19. Deepen human connection. Create strong emotional bonds with others
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-16
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+by accepting and offering bids for connection.

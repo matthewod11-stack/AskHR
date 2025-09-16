@@ -1,9 +1,13 @@
-# 84 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f37708ac52fac28f98f591fd97abdc6f2251c662
+title: barrickryan_eds_personality_and_work
+---
+# CHAPTER 4
 
-that behavior is determined more by situations than by traits (Guion, 1998).
+Toward a Better Understanding of the Relationship Between Personality and Individual Job Performance Jeff W. Johnson
 
-In the late 1980s, the trait approach to personality was back in vogue, and the trait-versus-situation debate had produced a better understanding of how to predict behavior from traits. In early per- sonality research, correlations were computed between all person- ality variables and all criteria. Most of these correlations were near zero, creating the impression that personality was generally unre- lated to performance. We now better understand that the trait being investigated must be relevant to the criterion and that pre- dictors and criteria should be conceptualized as constructs (Hough & Schneider, 1996). Personality research now involves the speciﬁ- cation of a personality taxonomy, a job performance taxonomy, and hypothesized relationships between them. A meta-analysis by Tett, Jackson, and Rothstein (1991) found generally higher validi- ties in studies that had a clearly stated hypothesis than in purely exploratory studies.
+Researchers and practitioners in industrial and organizational (I/O) psychology have long been intrigued by the potential for measures of personality to describe, explain, and predict the be- havior of individuals at work. Including personality variables in a se- lection system often has the effect of increasing its validity for predicting job performance, while simultaneously reducing adverse impact against protected groups (Hough, 2001). Although the use- fulness of personality predictors is widely accepted today, academic I/O psychologists paid very little attention to personality measures from the mid-1960s to the mid-1980s (Schneider & Hough, 1995). This dearth of research is often attributed to an inﬂuential review of personality test validities by Guion and Gottier (1965), which con- cluded that research to that point had been so poorly done that personality measures should not be used to make employment de- cisions without clearer evidence of their validity. Other inﬂuences were the Civil Rights Act of 1964, which permitted the use of pro- fessionally developed ability tests but was not so explicit about per- sonality inventories, and the emergence of Mischel’s (1968) idea
 
-Meta-analyses of the criterion-related validity of personality vari- ables have illustrated the beneﬁt of using personality taxonomies as an organizing framework, revealing personality-performance re- lationships that had not been clear before (for example, Barrick & Mount, 1991; Hough, 1992; Hough, Eaton, Dunnette, Kamp, & McCloy, 1990). Barrick, Mount, and Judge (2001) conducted a second-order meta-analysis of all meta-analyses of the relationship between personality and performance conducted during the 1990s. Results were organized according to the Big Five dimensions of per- sonality. Conscientiousness consistently predicted job performance across all criterion types and occupational groups and had the high- est validity of all dimensions. Emotional Stability was the only other dimension to have nonzero true score correlations with overall work performance. Extraversion, Agreeableness, and Openness to Ex- perience predicted some criterion types in some occupations. These results showed that the Big Five dimensions of personality are valid predictors of performance for at least some jobs and some criteria, although the magnitudes of the validities were relatively low.
-
-Research has moved beyond the search for signiﬁcant correla- tions between Big Five dimensions and general measures of job performance and is focused on understanding in greater depth
+83

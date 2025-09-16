@@ -1,13 +1,23 @@
-## move you toward a great life, and commit to them.
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 6b814053361763629a0273711f34aee89665632b
+title: H07XDL-PDF-ENG (1)
+---
+# ﬁnd out.
 
-Now you need to be speciﬁc about what you want to change.
+Go back to the great-life exercise in step 1 and think about what you
 
-Examples from our workshop attendees include reconnecting with
+can do for your areas of dissatisfaction. Review your purpose and vision
 
-three friends from school, visiting one’s grandpa every week, engaging
+from steps 2 and 3 and brainstorm how you might realize them. Think
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+about the SLUs that step 4’s portfolio exercise identiﬁed as needing
 
-18
+more attention, and how you can improve satisfaction or reallocate time
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+there. Then consider how the insights gleaned from step 5’s benchmarks
+
+can help you with all of the above. From this long list of potential
+
+changes and actions — small and large — select several that will best

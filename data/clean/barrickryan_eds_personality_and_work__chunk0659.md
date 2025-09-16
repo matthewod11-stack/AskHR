@@ -1,7 +1,15 @@
-## SELF-MONITORING PERSONALITY AND WORK RELATIONSHIPS 225
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 90f31bdae1ebbeee9efe7bd8a804c84ea8f03f37
+title: barrickryan_eds_personality_and_work
+---
+# Conclusion
 
-Berscheid, E. (1999). The greening of relationship science. American Psy-
+The personality compositions of teams and the differences in re- lationship content and context for different personality types are relatively unexplored topics. Despite the so-called greening of re- lationship science across many ﬁelds in psychology (Berscheid, 1999), there is a tendency to neglect the broader environments of relationships. If a goal of relationship scholars is to seek laws gov- erning individuals’ interactions with each other, we must consider dispositional as well as the structural inﬂuences in surrounding en- vironments. Just as recent research has led to the acknowledgment that romantic relationships do not exist in a vacuum (Agnew et al., 2001), a similar understanding is needed regarding work rela- tionships. Because of the fundamental importance of relationships in the social capital of individuals and organizations, this is an issue of critical importance to researchers and practitioners interested in work-related behavior.
 
-chologist, 54, 260–266.
+A primary goal of this chapter was to build theoretically on pre- vious work, demonstrating that dispositional differences inﬂuence the structural advantage that some individuals have in organiza- tions through choices that shape their interpersonal environments. Another purpose was to expound on the reasons that a considera- tion of network conﬁgurations is important. One’s structural po- sition in a network is of interest, but previous work has tended to overlook the dispositional motives of others with whom network connections are sought. By widening the lens to consider the self- monitoring orientation of both members of a network dyad, we hope that a better understanding is gained of some of the chal- lenges associated with building networks that enhance the social capital of individuals and organizations.
 
-Blau, P. M. (1974). Exchange and power in social life. New York: Random
+References Agnew, C. R., Loving, T. J., & Drigotas, S. M. (2001). Substituting the for- est for the trees: Social networks and the prediction of romantic re- lationship state and fate. Journal of Personality and Social Psychology, 81, 1042–1057.
+
+Baron, R. A. (1989). Personality and organizational conﬂict: Effects of the Type A behavior pattern and self-monitoring. Organizational Be- havior and Human Decisions Processes, 44, 196–281.

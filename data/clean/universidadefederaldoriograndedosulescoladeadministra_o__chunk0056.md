@@ -1,5 +1,17 @@
-# atualmente.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: b3806a3d793c0c3ca27f44ed2e081ba80dd3f66a
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# funcionários nelas.
 
-Assim, o trabalho buscará, como seu objetivo geral, descrever e analisar
+Diante do exposto, a questão de pesquisa que este estudo visa responder é
 
-como a empresa examinada utiliza o eNPS na sua gestão de RH. Para atingir tal
+como uma empresa utiliza o eNPS na sua gestão de recursos humanos? Para isso,
+
+foi realizado um estudo de caso em uma empresa brasileira de tecnologia que já
+
+aplica o eNPS há oito anos. A escolha pela empresa em questão baseou-se na
+
+facilidade de acesso da autora a ela, uma vez que é funcionária da companhia

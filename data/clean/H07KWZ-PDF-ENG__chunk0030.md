@@ -1,7 +1,11 @@
-# @francescagino
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c91c65d429ab4a2b81959dc8dce7d0f3fabb00bb
+title: H07KWZ-PDF-ENG
+---
+# line.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+This article was originally published online on March 31, 2023.
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Francesca Gino is a behavioral scientist and the Tandon Family Professor of Business Administration at Harvard Business School. She is the author of Rebel Talent and Sidetracked.

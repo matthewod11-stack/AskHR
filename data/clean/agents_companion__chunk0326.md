@@ -1,11 +1,9 @@
-## Available at: https://arxiv.org/abs/2305.08291.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: ab3fb61ea9c083ce0cd24a1223b9bdd6f8057c78
+title: agents_companion
+---
+## Available at: https://arxiv.org/abs/2305.10601.
 
-- 8. Google. 'Google Gemini Application'. Available at: http://gemini.google.com.
-
-- 9. Swagger. 'OpenAPI Specification'. Available at: https://swagger.io/specification/.
-
-- 10. Xie, M., 2022, 'How does in-context learning work? A framework for understanding the differences
-
-fromtraditional supervised learning'. Available at: https://ai.stanford.edu/blog/understanding-incontext/.
-
-- 11. Google Research. 'ScaNN (Scalable Nearest Neighbors)'.
+- 7. Long, X., 2023, 'Large Language Model Guided Tree-of-Thought'.

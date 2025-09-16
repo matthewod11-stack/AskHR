@@ -1,15 +1,19 @@
-## leadership qualities for today’s turmoil.
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56f1d8e4ae464e6f28eff6bbb2fc1e6fc056ee63
+title: H08PFQ-PDF-ENG
+---
+# circumstances shift again.
 
-To model fast learning:
+Tell people what you’re learning, how you’re learning it, and what
 
-- Begin leadership team meetings with a “what I’m learning right
+you’re doing with the new knowledge. Stay ahead of industry shifts,
 
-now” round, encouraging members to share something new they’re
+geopolitical risks, and emerging technologies as best you can. Those
 
-exploring or struggling to grasp.
+who invest in continuous learning and upskilling maintain trust
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+in their ability to navigate complexity. Rapid cycles of learning
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and unlearning demonstrate relevance and humility—both essential

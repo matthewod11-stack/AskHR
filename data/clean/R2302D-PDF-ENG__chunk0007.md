@@ -1,13 +1,15 @@
-# of us.
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5a7809e8771f15a63729de7421fba29b4237b68e
+title: R2302D-PDF-ENG
+---
+# Skizzomat
 
-I still believe that’s true. But ﬁguring it out will take time—
+Two years ago, as much of the world was gradually emerging from
 
-perhaps longer than we expected. That’s because reimagining work
+lockdown, I argued in an HBR article (“How to Do Hybrid Right,” May–
 
-is complicated. As we move into the fourth year of the Covid era,
+June 2021) that we had a once-in-a-lifetime opportunity to adopt a new
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hybrid model for work—one that, if embraced properly, could beneﬁt all

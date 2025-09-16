@@ -1,5 +1,11 @@
-# 286 Assessment Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6e09f28724d82ee6f1bc88c8c242da8477b7efea
+title: untitled
+---
+# NEO-PI
 
-various factor analyses of personality test and rating scale data that recurrently identiﬁed four to six factors to which individual differences in personality could be attributed (see Digman, 1990). Selecting self-report items related to their preferred ﬁve-factor formulation, Costa and McCrae developed a questionnaire that yields scores along ﬁve trait dimensions, which they called “domain scales”: neuroticism, extraversion, openness, agreeableness, and conscientious- ness. Their effort resulted in the 1985 publication of the NEO Personality Inventory, currently available in revised form as the NEO PI-R (Costa & McCrae, 1992).
+Cattell’s factor analytic approach from the 1940s, in addition to being still visible in continued use of the 16-PF, had a con- temporary renaissance in the work of Paul Costa and Robert McCrae. Like Millon, Costa and McCrae were guided in their test construction by a theoretical formulation of personality functioning, in this case the Five Factor Model (FFM), some- times referred to as the “Big Five.” The FFM emerged from
 
-Like the 16-PF, the NEO PI-R was intended as a measure of normal personality characteristics but has proved useful in evaluating personality problems in disturbed persons (see Piedmont, 1998). Although time has yet to tell how the NEO PR-I will eventually fare with respect to its frequency of use, there is already an extensive literature on the Five Factor Model to suggest that it will become well-established assess- ment instrument.
+285

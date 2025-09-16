@@ -1,11 +1,13 @@
-## aggressive comments from certain colleagues.
+---
+source_path: H08VFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f0ab93f63d6e067fbde7aed14e034a314b6ed42
+title: H08VFX-PDF-ENG
+---
+# David Malan/Getty Images
 
-Even worse, the backlash feels personal. It’s not gentle, “let’s slow
+You’ve just announced a change that you know is right for the
 
-down here” type concerns. Rather, others are openly questioning
+organization. But you also know this direction will make some
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+team members unhappy. And sure enough, soon you notice passive-

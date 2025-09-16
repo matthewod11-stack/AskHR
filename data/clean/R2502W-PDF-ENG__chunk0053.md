@@ -1,29 +1,19 @@
-## lines of business, functions, or the corporate center.
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3d17f8babe44e012128b671b494edd427786150
+title: R2502W-PDF-ENG
+---
+## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
 
-Coursera provides a great example of a company that started with
+its business impact. Research shows that AI can fail at the front lines,
 
-a speciﬁc process—in this case coding—and now innovates rapidly
+and employee training is an important way to avoid that outcome.
 
-and broadly with AI across a range of activities. When ChatGPT was
+Finally, a budget should be allocated for even early activities. As
 
-introduced, Coursera’s CEO, Jeﬀ Maggioncalda, quickly recognized
+companies realize a greater triple-product return, the cost of using AI
 
-the potential of gen AI and started bringing it into his company. He
+will be more than oﬀset by productivity gains. Organizations will begin
 
-believed that Coursera’s software engineers needed to better understand
-
-emerging gen AI capabilities to truly create value. His company hired a
-
-ﬁrm that specialized in gen AI coding techniques to conduct training
-
-for its software developers. It also introduced an AI assistant that helped its engineers code more eﬃciently. Equipped with knowledge
-
-and tools, the teams at Coursera were able within just a year to
-
-incorporate AI capabilities into several products, such as translation,
-
-personalized learning, and automated course creation. By learning and
-
-doing, Coursera’s employees have positioned themselves to continue
-
-innovating and to stay ahead of the competition as new AI capabilities
+to regard AI as a core element in the budgets of all divisions, be they

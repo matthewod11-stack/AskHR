@@ -1,7 +1,29 @@
-# straight weeks each month.
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2205d3bc812c7bc94f6f562828b4e19440a6de6
+title: S24051-PDF-ENG
+---
+## Create a System for Continuous Improvement and Innovation
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The idea of continuous improvement is hardly novel. What is fresh,
 
-10
+however, is that teams today have new forms of technology and data
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+collection at their disposal to help them self-correct while projects are
+
+underway. At McKinsey, team leaders have access to all the metrics
+
+collected and can use them to track progress and assess feedback in
+
+real time. On the basis of this data, they can—and are expected to
+
+—make improvements. We empower our middle managers to make
+
+changes and to run their own experiments. For example, depending
+
+on where they are in the course of a project, or depending on changes
+
+in team-sentiment data, they might decide to modify their colocation
+
+model from being in-person every other week to being in-person for two

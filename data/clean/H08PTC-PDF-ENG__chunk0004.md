@@ -1,37 +1,13 @@
-# HBR / Digital Article / Research: Are You Penalizing Your Best Employees for Unplugg…
+---
+source_path: H08PTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e05524773aeb126442c6d94d15b48b7dcc14f91
+title: H08PTC-PDF-ENG
+---
+# well-being and productivity.
 
-Employers have responded by promoting wellness programs
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-and encouraging work-life balance—initiatives proven to increase
+1
 
-productivity, reduce turnover, and boost job satisfaction. But our
-
-research reveals a hidden contradiction at the heart of these eﬀorts:
-
-While companies say they want employees to unplug, they may be
-
-quietly punishing those who actually do.
-
-In new research, published in Organizational Behavior and Human
-
-Decision Processes, we found that even when leaders recognized that
-
-detaching from work boosts employee well-being and improves job
-
-performance, they still penalized employees who engaged in these
-
-behaviors when they were up for a promotion or being considered
-
-for a new role. This is because these workers were seen as less
-
-committed than those who worked around the clock, even if their job
-
-performance during working hours was perceived to be higher than
-
-their “committed” counterparts.
-
-But we also found that there are structural changes organizations can
-
-make to help protect workers’ boundaries without also penalizing them:
-
-creating a culture that both mitigates burnout and rewards strong work.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

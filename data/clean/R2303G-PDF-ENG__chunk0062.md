@@ -1,7 +1,9 @@
-# @HerminiaIbarra
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 231a57508ad48803c96e39cb6338b07635062f35
+title: R2303G-PDF-ENG
+---
+# HI
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-16
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Herminia Ibarra is the Charles Handy Professor of Organisational Behaviour at London Business School and the author of Act Like a Leader, Think Like a Leader, revised edition (Harvard Business Review Press, 2023), and Working Identity (Harvard Business Review Press, 2023).

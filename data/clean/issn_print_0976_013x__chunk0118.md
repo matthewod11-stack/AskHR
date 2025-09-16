@@ -1,5 +1,25 @@
-# ACKNOWLEDGEMENT
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 940b1c8a101e3961c025c2deb62455bb2db0ecf6
+title: issn_print_0976_013x
+---
+# flour (Souza et al., 2018).
 
-This is an improvised version of the paper presented at 12th International Conference on
+Involvement of the technical agency to provide their expertise to the tribal women is limited for
 
-Management Practices & Research, ICMPR 2023 organized by Apeejay School of Management,
+a short period. Once the processing unit takes off, the technical agencies exit the scene. Hence
+
+the village-level processing units are under constant threat from the big players. Hence, it is
+
+imperative for the government to also create safeguards for the tribal women who come forward
+
+to start their own small ventures in the form of custard apple pulp processing units. Further, the
+
+government can increase financial support to make such ventures sustainable. Moreover, such
+
+endeavours can be gainfully integrated with self-help groups. Also, the government can make
+
+concerted efforts to promote the non-farm sector in the country to help small and marginal
+
+farmers in supplementing their income during lean seasons when there is no work in the farms.

@@ -1,11 +1,17 @@
-# rapidly through venture capital financing and initial public offerings (IPOs) in the
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: bae8657044fa3893e6a55b9ac2c0d5a5b90ae033
+title: beo_chap7_1
+---
+# destruction.
 
-late 1990s. They suggest that “if Netscape, eBay or Amazon had been invented
+The same psychology, then, could help a better understanding of the reverse
 
-inside a big company, their potential value would probably have been overlooked”
+tendency—suppression of capital—in business units that are speculative but grow-
 
-(Holmstr6m and Kaplan 2001, pp. 138~-39). They further suggest the barriers to
+ing rapidly and have huge potential. As an example of capital suppression, Holm-
 
-“Gntrapreneurship” are due to weak internal incentives: “Even if some degree of
+strom and Kaplan (2001) note that it is hard to imagine how internal capital alloca-
 
-266
+tion could have created the kind of fast-growing technology-based firms that grew

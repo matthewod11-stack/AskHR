@@ -1,17 +1,9 @@
-## (cid:32) How HR policy align with organization strategy
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: aaa5cd5fad68522b8fd714247ac7f4b774d5e733
+title: internship_report
+---
+## (cid:32) Knowing of few clauses of Bangladesh Labor law 2006
 
-(cid:32) How HR policy helps organization misinterpretation and serious legal cost
-
-(cid:32) How does a company recruit & retains its employee
-
-(cid:32) How does performance evaluation conduct
-
-(cid:32) How does HR policy develop working culture
-
-(cid:32) How does HR policy ensures growth of employees
-
-(cid:32) How to write internship report
-
-(cid:32) How to do employee survey and analysis with those data
-
-(cid:32) How does HR policy help the employees and management teams run the organization in an
+(cid:32) How to write the HR policy of an organization

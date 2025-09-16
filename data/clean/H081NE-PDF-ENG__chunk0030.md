@@ -1,7 +1,11 @@
-## to professional relationships across cultures because some cultures
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61659a6ab38fcfa410bea7d0feaad75ab9b2de5d
+title: H081NE-PDF-ENG
+---
+# Pacing
 
-(and personalities) are quick to develop an initial working trust and
+Do you feel comfortable getting acquainted quickly? Or do you prefer
 
-then get down to business right away, while others might be slower
-
-to open up. In Germany, for example, it generally takes a while to
+taking things slow? Pacing, which is similar to privacy, is relevant

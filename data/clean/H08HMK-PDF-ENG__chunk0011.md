@@ -1,15 +1,19 @@
-## cancer. As professor and caregiver Anne Bardoel notes, “in one sense
+---
+source_path: H08HMK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b873496b3559aea2489f573df1ea20e60bbe5f4
+title: H08HMK-PDF-ENG
+---
+# HBR / Digital Article / Your Employees Are Also Caregivers. Here’s How to Support Th…
 
-you can talk about somebody’s kids with them at work. We don’t
+Understand that caregiving includes — and goes beyond — childcare.
 
-often have a conversation about elderly parents…or brothers who have
+Often, the abstract image people have of caregiving is limited in scope
 
-autism. … So, I’ve now realized that people come to work with all sorts
+— picking up a child from school, for example, or going on parental
 
-of things that you don’t know about them.” She suggests managers be
+leave. While these activities are absolutely central to caregiving, people
 
-proactive about saying things like, “if any of you ever have any issues
+may also be managing a child’s mental health, or helping a parent,
 
-family related, I’m always happy to provide you ﬂexibility” to open
-
-up the conversation about caregiving and expanding the possibility for
+spouse, or friend dealing with a medical condition like Parkinson’s or

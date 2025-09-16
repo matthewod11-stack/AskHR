@@ -1,7 +1,19 @@
-## 5.2 Future research paths, limitations and implications for managerial practice
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: c81492d3eccec2d5d3d1531c6949af9214b5c730
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+# n
 
-l Hence, future research might investigate the damages that an excessive focus on individua evaluation would produce to satisfaction and performance in GVTs. Recent literature on biases in peer performance evaluations and team cohesion (Tavoletti et al., 2019, 2022a, 2022b) suggest that GVTs comprise a fragile organizational setting in which the team-level dimension of performance and team cohesion should be given priority, as opposed to emphasizing the very biased individual level of performance. ET can be a promising frame to address the issue of measuring individual performance in GVTs beyond the limits of the present manuscript, whose empirical base is limited to a student sample from a consulting project that is especially useful as a w idely recognized “early-stage research lab” (Stahl and Maznevski, 2021, p. 12).
+Existential-based equality challenges pay disparities, such as the staggering differentia ls between top executives and other employees, and improves satisfaction in intellec tual teamwork by taking the form of the Benevolents’ approach in self and peer perf ormance assessments. Conversely, Entitleds are even frustrated by the idea of a team reward, and their frustration grows in GVTs, where the character of international virtual collaboration further limits opportunities for monitoring individual performance and granting personal recognition. Bakhshi et al. (2009) corroborate this notion by positing that personal outcomes (i.e. pay and job satisfaction) are linked to procedural justice, defined as how recognition is distributed to employees.
 
-Importantly, although we do not underestimate the importance of meritocracy as a ma jor different value
+Our findings show the positive effects on the satisfaction of equality -based evaluations –
 
-driver of organizational performance (as well as the notion that contributions of should rightly result in different outcomes), we do wish to underline t organizational setting has to find a balance between an individualistic orientation, and a common, team-level orientation, in which the individual interest has to take into account a superior mission and goals (Rousseau and Arthur, 1999).
+as opposed to the vast research on equity importance of distributive justice in business organizations. This body of knowledge suggests that e of an “equality theory” might substitute “equity theory” in GVTs because the main purpos evaluations in teamwork is not to grant the fair share of individual recognition each one dese rves but to achieve a context where everyone is an esteemed and recognized participant.
+
+- based assessment, in the context of the growing
+
+on is equal in fundamental worth and moral status, advocating the elimination of concrete or abstr act barriers among people – be they of economic, social or financial nature or centralization of power. Thus, in the past, the discussion of Social Egalitarianism brought about questions of equality of distribution and evaluations, which might have disturbed some constituents and directly confronted established theory and practice (Cowherd and Levine, 1992). However, the same may be said for the now -accepted “symbolic egalitarianism” when it was introduced in the scholarly debate and business practice (Pfeffer, 1995).
+
+ET has linkages with Social Egalitarianism, which posits that every pers

@@ -1,13 +1,25 @@
-# EMERSON, R.M. (1962). Power-dependence relations. American Sociological Review, 27(1):
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 99196215821c60978f51c58129d638c8fd7b745f
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Intangible Capital – http://dx.doi.org/10.3926/ic.586
 
-31-41. http://dx.doi.org/10.2307/2089716
+DIEDRICH, R. (1996). An iterative approach to executive coaching. Consulting Psychology
 
-EVERED, R.D.; SELMAN, J.C. (1989). Coaching and the art of management. Organizational
+Journal, 48(2): 61-66. http://dx.doi.org/10.1037/1061-4087.48.2.61
 
-Dynamics, 18(2): 16-32. http://dx.doi.org/ 10.1016/0090-2616(89)90040-5
+ELLINGER, A.D.; ELLINGER, A.E.; KELLER, S. (2003). Supervising coaching behavior, employee
 
-FELDMAN, D.; LANKAU, M.J. (2005). Executive Coaching: A Review and Agenda for Future
+satisfaction and warehouse employee performance. Human Resource Development
 
-Research. Journal of Management, 31(6): 829-848. http://dx.doi.org/ 10.1177/0149206305279599
+Quarterly, 14(4): 435-458. http://dx.doi.org/10.1002/hrdq.1078
 
-GIL, A; CARRILLO, F. (2013). La creación de conocimiento en las organizaciones a partir del
+ELY, K.; ZACCARO, S.J. (2010). Evaluating the Effectiveness of Coaching: A Focus on
+
+Stakeholders, Criteria, and Data Collection Methods. In G. Hernez-Broome & L. Boyce
+
+(Eds.). Advancing Executive Coaching (pp. 317-349). San Francisco: Jossey-Bass.
+
+http://dx.doi.org/10.1002/9781118255995.ch12

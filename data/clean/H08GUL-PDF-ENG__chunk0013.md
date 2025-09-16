@@ -1,23 +1,11 @@
-# ﬁt.
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 049dac2a5b826b07047e4def9f48ba4a51f5e5d2
+title: H08GUL-PDF-ENG
+---
+## platforms like Google Cloud AI Platform, Amazon SageMaker, or Azure
 
-Coping with excessive customer demands
+Machine Learning are great options. For faster prototyping or if you’re
 
-An Indian satellite data analytics company that we’ll call Sat Vista
-
-Analytics oﬀers “decision intelligence from space.” As Rohan, the company’s Chief Technology Oﬃcer describes, “We provide results for
-
-banks to assess possible loans to small-hold farmers by understanding
-
-how much each farmer is likely to earn. We also assist agribusinesses
-
-to establish contracts and set prices of their own products [cocoa, rice,
-
-wheat] based on likely crop yields.”
-
-However, Sat Vista Analytics has struggled with overload from the
-
-number of analyses demanded by its clients. These analyses required
-
-the company’s remote sensing specialists to perform multiple tasks
-
-ranging from data preprocessing and spectral signature analysis to the
+focused on NLP, tools like Hugging Face or Colab are most likely a better

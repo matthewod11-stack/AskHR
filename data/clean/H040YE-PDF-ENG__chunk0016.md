@@ -1,21 +1,21 @@
-## 3,098 corporate leaders of Chinese ethnicity, 3,095 Indian; and 1,395 of
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bac0156de6cbca9b719ad1a8a5c0c8e8bdaba5e
+title: H040YE-PDF-ENG
+---
+# executive leadership.
 
-MENA ethnicity. The remaining were 139,748 were from other ethnicities.
+We had access to other details about these individuals, so we could
 
-About 48% of Chinese ethnicity executives received their ﬁrst degree
+double-check instances of potential overlaps or errors. We could also
 
-outside the U.S., compared with just under 53% of Indian ethnicity
+double-check the information about the individual on the internet to verify
 
-executives, and 43% of MENA ethnicity executives. (Interestingly,
+in case of confusion whether an individual belonged indeed to one group
 
-executives of these ethnicities – immigrants and not – were more likely
+or another, including conducting a global search on the ﬁrst or family
 
-than the average U.S. executive to be in possession of a PhD, an MBA or a
+name. The result was that of a database of 147,336 corporate leaders for
 
-Master’s degree. Indian executives are signiﬁcantly more likely to hold an
-
-MBA or a Master’s degree than average executive, while Chinese
-
-executives are more likely to possess a PhD.) This means a substantial
-
-share of ethnic executives in the U.S. have arrived as immigrants with
+which educational background was available, we could identify a sample of

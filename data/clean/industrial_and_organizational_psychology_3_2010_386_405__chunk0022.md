@@ -1,5 +1,11 @@
-# R.S.Dalaletal.
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: beda9296b72a7954f74fa44fb9b301237e4e1fa3
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# AFocusonInternalVersus ExternalValidity
 
-settings that are frequently characterized by high stakes, complexity, uncertainty, severe time pressure, and multiple goals that may nonetheless be ill-deﬁned, feedback loops, teams or crews of interacting individuals, and so forth (Pliske & Klein, 2003; Salas, Rosen, & DiazGranados, in press).
+Traditional JDM research is focused on internal validity (Pliske & Klein, 2003). It is therefore frequently (though by no means always) conducted in the laboratory. For example, vis-`a-vis the heuristics and biases program of research, Doherty (2003) notes, ‘‘There is a belief that if people cannot do simple, one-shot tasks in the laboratory, it is highly unlikely that they can do complex tasks outside’’ (p. 662).
 
-The theoretical model most closely associated with NDM (Lipshitz, Klein, Orasanu, & Salas, 2001; Pliske & Klein, 2003; the recognition-primed decision model (Klein, 1998). This model, originally developed through the study of ﬁreﬁghter comman- ders, yielded several counter intuitive (from a traditional least) insights. For example, ﬁreﬁghter comman- rarely compared and then chose ders between multiple alternatives; instead, allegedly on the basis of their expertise and situation awareness, they very quickly (i.e., in a matter of moments) generated a single alternative and evaluated its worka- bility. A second alternative was generated only if the ﬁrst alternative was found to be unworkable.
+In a later section, we discuss mainstream JDM’s emphasis on laboratory research in more detail. However, here we introduce a discipline that has arisen in roughly the last 2 decades: naturalistic decision making (NDM). NDM focuses on the study of expert decision makers in context-rich

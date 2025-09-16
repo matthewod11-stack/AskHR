@@ -1,15 +1,19 @@
-## without any impact on performance, innovation, or productivity. Firms
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8141d5a84a76cb445793bb670abf6de556731af7
+title: H08DMP-PDF-ENG
+---
+## for this with longer hours on oﬃce days and weekends.
 
-should expand their A/B testing from consumer experience to daily
+Trip.com is also conducting more experiments to collect data in other
 
-practices for continuous managerial improvement. Only companies that
+hybrid-related aspects, such as ﬁne-tuning the number of days in the
 
-continually innovate and improve will survive — and to do that they
+oﬃce to ﬁnd the optimal balance. The beneﬁts of happier workers and
 
-need to experiment and reﬁne even their own management practices.
+better retention make it all very attractive.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Our results showed that under a hybrid-work policy, Trip.com was able
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to generate millions of dollars of proﬁts by reducing expensive attrition

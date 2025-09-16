@@ -1,29 +1,35 @@
-## and anxious about another busy week ahead.
+---
+source_path: H08JFA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5c0501c66c8347066af91ff84366547add8215d
+title: H08JFA-PDF-ENG
+---
+## HBR / Digital Article / Why You’re Chronically Overcommitted
 
-- Experiencing anxiety or resentment when asked for help or
+you have no idea how to ﬁt this into your workload and you may be
 
-feedback: During a team meeting, a colleague asks for your support
+working the next three weekends to meet the deadlines.
 
-on a new project. Outwardly, you smile and agree, but inside, you feel a
+- Avoiding prioritization and tackling whatever seems most urgent:
 
-wave of resentment and think to yourself, “Why did I say yes?”
+You log into your email in the morning and realize you haven’t really
 
-- Feeling worried or guilty when you have free time: After ﬁnishing a
+cleared your inbox in the last week. You start responding to them
 
-big task early, you take a much-deserved coﬀee break. As you sit down
+in the order they came in and end up spending the ﬁrst half of the
 
-you start to feel guilty, and instead of relaxing, you open your laptop
+morning doing just that, In the afternoon you realize you also have a
 
-and start reviewing next week’s tasks.
+client presentation to submit in a couple of hours. You rush through
 
-- Constantly second-guessing your decisions: You agreed to mentor
+it, only to end up getting a lot of feedback and making all the changes
 
-a new hire. A few days in, you start to fall behind on deadlines. Then,
+your colleagues point out.
 
-you start to wonder, “Did I make a mistake by taking this mentee on?”
+- Frequently working late hours or during weekends to “catch up”:
 
-At the same time, the thought of stepping back makes you worry: “If
+On a Sunday morning, you log into your work email to “just get ahead
 
-I ask to step out, will my manager think I’m not reliable and not call
+and prepare a little before the week starts.” Before you know it, you’ve
 
-me out for new projects?” The indecision stresses you out and you do
+spent her entire day at your laptop. By Sunday night, you’re exhausted

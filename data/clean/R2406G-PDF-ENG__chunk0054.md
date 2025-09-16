@@ -1,35 +1,21 @@
-## retirement plans, personal ﬁnancial activity, and healthcare beneﬁts.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce08fada5fffb6d43cbdd37fa19cf62b30c1d23d
+title: R2406G-PDF-ENG
+---
+## Voya Financial Keeps the Promises of Personalization
 
-Voya examined how people make ﬁnancial decisions and discovered
+One company that’s realizing the potential of personalization is Voya
 
-numerous opportunities to be a better partner. If it could get a
+Financial. Recognizing that employee beneﬁts were becoming a no-
 
-more complete picture of customer ﬁnancials, executives realized, it
+win commodity game, Voya’s leaders set out to diﬀerentiate the
 
-could dramatically improve its ability to inform customers about their
+ﬁrm. They positioned it as a partner that would improve how its
 
-situations and recommend options.
+clients’ employees managed their ﬁnances while delivering superior
 
-Voya’s leaders started by recognizing that most people don’t really
+economics for employers. To do that, they focused on pulling together
 
-understand how their disparate ﬁnancial relationships ﬁt together.
-
-Their research showed that few people had thought through how their
-
-healthcare costs were likely to aﬀect their ﬁnancial plans, or why their
-
-retirement and personal savings should have diﬀerent goals and get
-
-diﬀerent tax treatment. So they ﬁrst focused on bringing together all the
-
-data, educating their members, and providing a single app, My Voyage,
-
-where members could see and add to their ﬁnancial proﬁles.
-
-The top quartile of firms in the Personalization Index outperformed not only the laggards but also the market index over three, five, and 10 years.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a complete ﬁnancial picture for registered users—including their

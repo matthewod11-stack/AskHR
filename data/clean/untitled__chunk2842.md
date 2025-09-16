@@ -1,5 +1,7 @@
-## The International Association of Applied Psychology was founded.
-
-The Chinese Psychological Society was founded but was dissolved after a few years.
-
-The Moscow Psychological Society was disbanded and its members (along with members of the St. Petersburg Philosophical Society) were exiled to the West.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c133e66ba18d58810bacccd6334fa1b62672fcbc
+title: untitled
+---
+# Societies

@@ -1,7 +1,15 @@
-# of Harvard University Press.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: d29dc9699089bf78e5ec2cbc507e49cd1b97fc80
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-Rizzolatti, G., L. Fogassi, and V. Gallese. 2001. Neurophysiological mechanisms underlying
+King-Casas, B., D. Tomlin, C. Anen, C. F. Camerer, S. R. Quartz, and P. R. Montague. 2005.
 
-the understanding and imitation of action. Nature Neuroscience 2:662-70.
+Getting to know you: reputation and trust in two-person economic exchange. Science
 
-Squire, L., and E. R. Kandel. 1999. Memory from Mind to Molecules. New York: Scientific
+308:78-83.
+
+Nelson, R., and S. Winter. 1982. An Evolutionary Theory of Economic Change. Belknap Press

@@ -1,23 +1,23 @@
-# early stages?
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac692360256bde7e4880807fab49a58ca871469e
+title: H08MFI-PDF-ENG
+---
+# to school at the age of 45.
 
-You’re not alone, and what you’re feeling isn’t weird! If you can try to let
+“It was one of the most transformative decisions of my life,” she said,
 
-yourself feel your feelings without assigning judgment to them, moving
+and she has since earned three additional degrees. “The journey hasn’t
 
-on will be easier and you’ll feel better. Give yourself the time to mourn,
+just been about education; it’s been about rediscovering my value
 
-and if you’re mourning while also working full time and living your life, make some time in your day to feel your feelings. Stuﬃng them down
+and purpose. The layoﬀ that once felt like a loss has turned into an
 
-just doesn’t work; they need to move through.
+opportunity for reinvention and growth. I’m proud of the person I’ve
 
-When you feel ready to get going again, it’s really important to spend
+become through this journey, and I’m excited for the future ahead.”
 
-some time thinking about what will help you gain momentum as you
+Are there any parting words you’d leave someone who is currently
 
-move forward or seek a new opportunity. Are you the kind of person
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+going through a professional heartbreak, especially if it’s in the

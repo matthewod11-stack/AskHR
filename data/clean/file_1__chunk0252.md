@@ -1,5 +1,9 @@
-## Theory and Research in Education, 3, 131-164.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: aafecba4ead91cda0990cd7519689ef5b0ca133a
+title: file_1
+---
+# Publishing Company.
 
-Major, B. and E. Konar, 1984. An investigation of sex differences in pay expectations and their possible causes. The Academy of Management Journal, 27, 777-792.
-
-Marecek, J., Fine, M. and L. Kidder, 1997. Working between words: Qualitative methods and
+Lynch, K. and J. Baker, 2005. Equality in education: An equality of condition perspective.

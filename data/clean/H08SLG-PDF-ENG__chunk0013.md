@@ -1,39 +1,19 @@
-## Our research points to three behaviors of leaders and managers who
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b9a2c14cf1c7b08e379395ac7ae85d95ef7c310
+title: H08SLG-PDF-ENG
+---
+# How to Encourage Spacious Mode
 
-enable their teams in this way:
+To give employees permission to spend time thinking, learning,
 
-Focus on ideas instead of tasks. One of us (Megan) was working
+innovating, and collaborating, you’ll need to rethink how you
 
-with a CEO who wanted his senior team to focus more on the bigger
+communicate and which behaviors you reward. For example, Toni, a
 
-picture rather than day-to-day operations. Through their conversations,
+regional manager at a large U.S. retailer we spoke with during our research, counted herself lucky: “My chief people oﬃcer has a real sense
 
-he realized that in his meetings he almost inevitably focused ﬁrst
+of spaciousness around her and the way she shows up. I feel like I’ve got
 
-(and often solely) on quarterly results. To expand the team’s thinking,
-
-Megan suggested that he begin some meetings by asking, “What hasn’t
-
-gone well over the last few weeks, and what have you learned from
-
-that?” or “How have you developed your team recently?” Over time, the
-
-team’s conversations naturally began to shift more toward group-wide
-
-perspectives that bolstered their learning and development.
-
-Our survey showed that many employees feel that tasks are consistently
-
-prioritized over more spacious topics. They ranked learning, values,
-
-purpose, creativity, and relationships as topics they’d like to talk to
-
-their managers about above tasks. Managers need to structure meeting
-
-agendas in a way that includes these spacious-mode topics.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a lot of permission and protection from her in my role.”

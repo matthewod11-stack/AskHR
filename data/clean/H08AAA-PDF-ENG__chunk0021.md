@@ -1,9 +1,7 @@
-## The Impact of Being High-Performer Obsessed
-
-No matter the kind of business you run or the people on your team, it
-
-is worth investing in a high-performance culture. When organizations
-
-make the switch, we’ve seen massive improvements in sales, quality,
-
-and customer satisfaction, all while improving employee retention and
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 382ddae9cbdb7a749da1378c11f89e17d3d4a22c
+title: H08AAA-PDF-ENG
+---
+# and performance grow hand in hand.

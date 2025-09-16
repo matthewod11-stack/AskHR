@@ -1,51 +1,45 @@
-## HBR / Magazine Article / Precedents Thinking
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97e89b44c3cd3a99dfb23f05181df8f342294235
+title: R2502D-PDF-ENG
+---
+## investment trusts (REITs) and search funds (an investment vehicle
 
-restaurant delivery, their venture’s success relied heavily on completing
+popular among Stanford MBAs), Gold Leaf started out by acquiring
 
-multiple deliveries per hour. Their ﬁrst experiments focused on whether
+farms for its investors and hiring third parties to manage them. But
 
-the lessons from FedEx could be applied to deliver the minimum
+McCarthy soon discovered that farms managed by third parties did not
 
-number of orders necessary, according to their early economic analyses,
+perform well. He embarked on a systematic search for precedents that
 
-to break even. Once they proved that the FedEx precedent was
+would help his company address this challenge and found Lineage, a
 
-truly applicable to their challenge, they were ready to raise their
+REIT that acquires and manages cold-storage warehouses. He studied
 
-ﬁrst signiﬁcant round of funding, because they could make investors
+the approach Lineage used to manage its facilities in depth and then
 
-conﬁdent that their big idea would work.
+developed a strategy for operating the farms in a similar fashion.
 
-. . .
+By bundling some of the innovations Lineage had pioneered with
 
-Competition to be the ﬁrst with a great idea is ﬁerce. The key to
+a high-quality recruitment program for farm managers modeled on
 
-winning lies in combining old ideas in new ways to solve creatively
+McKinsey’s hiring practices, Gold Leaf developed its own internal team
 
-framed problems. Business leaders and entrepreneurs who are willing to
+and operations for managing farms. That turned its model around and
 
-revisit, reshape, and reapply established ideas will unlock value creation
+helped it attract more capital.
 
-in unexpected places. Precedents thinking oﬀers a repeatable, reliable
+Precedents can also guide the choice of experiments to run when
 
-approach to help them do that. And although it can be demanding, the
+testing the viability of a novel business idea. Their experience with
 
-more that leaders and entrepreneurs use it—when refreshing strategies,
-
-reinventing business models, developing new products, building novel
-
-businesses, and tackling any business challenge—the more innovative
-
-they and everyone around them will become.
-
-A version of this article appeared in the March–April 2025 issue of Harvard Business Review.
-
-Stefanos Zenios is a professor of entrepreneurship at the Stanford Graduate School of Business and the faculty director of its Center for Entrepreneurial Studies. He is also the main architect of the school’s “Startup Garage” course and oversees its Venture Studio.
-
-Ken Favaro is the founder of act2 LLC, an advisory ﬁrm for CEOs; a cofounder of LucyAI, a digital agent for innovators; the CSO of BERA.ai, an online platform for brand building; the author of Real Strategy; and a guest instructor at the Stanford Graduate School of Business.
+FedEx guided the DoorDash founders. Given the very thin margins in
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-15
+14
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

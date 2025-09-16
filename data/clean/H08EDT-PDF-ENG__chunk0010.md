@@ -1,13 +1,23 @@
-# HBR / Digital Article / How Work Has Changed for Women in Corporate America Over t…
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a06d54e169bc7cd904b2645b005778a32dfb429c
+title: H08EDT-PDF-ENG
+---
+## Progress on Corporate Gender Advancement Is Mixed
 
-today make up 29% of C-suite positions, up from 17% in 2015. That
+Since it was ﬁrst released in 2015, the Women in the Workplace
 
-represents a meaningful gain, but at the current rate of progress, it will
+report has become more intersectional and nuanced, getting more
 
-take women of color 48 years to reach parity in corporate America,
+detailed about the particular obstacles preventing women of color from
 
-compared with 22 years for white women.
+progressing in corporate America. The latest version of the report looks
 
-The report also ﬁnds that being an “only” — that is, one of the only
+back on the past decade of women’s experiences. As it stands, women
 
-people of their race or gender in the room at work — continues to be
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

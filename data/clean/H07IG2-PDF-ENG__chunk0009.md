@@ -1,17 +1,15 @@
-## HBR / Digital Article / How AI Is Helping Companies Redesign Processes
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 47498a6a034f607cc1b295d3968ecb672bb2525a
+title: H07IG2-PDF-ENG
+---
+## production planning and control, but also visual image recognition and
 
-While the methods fueling this growth of AI have been around for
+inspection, autonomous operations, and generating new content.
 
-decades, the cost of implementing them has dropped precipitously.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Previously the domain of data scientists only, modern AI-based solutions are now mature enough to be oﬀered “oﬀ the shelf,” greatly
+2
 
-lowering the technical barriers to entry. Falling computing costs —
-
-driven by the wide availability of the cloud, the growth of low-cost
-
-bandwidth, and reduced cost of sensors — have drastically lowered
-
-the price of model-driven prediction. AI-based decisions can also be
-
-included within the wider context of automation. Technologies such
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

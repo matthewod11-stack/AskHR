@@ -1,13 +1,27 @@
-# HBR / Digital Article / To Change Company Culture, Focus on Systems—Not Communic…
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3054e4ba5a062dad271436128323715f4e37339b
+title: H08VNO-PDF-ENG
+---
+## in employee trust, engagement, or retention one year later. Despite the
 
-we wanted to behave.” Another senior leader put it simply: “We didn’t
+visibility and investment, employees perceived these eﬀorts as surface-
 
-announce a culture shift. We just started acting like it mattered.”
+level — more performance than practice.
 
-The problem isn’t the intention—it’s the framing. Culture is still too
+The reverse was also true. In companies where senior leaders changed
 
-often treated like a project: something to roll out, brand, or assign to HR.
+how they led—how they ran meetings, gave feedback, made decisions,
 
-Meanwhile, underlying power dynamics, communication habits, and
+and responded to challenge—trust scores rose by an average of 26%,
 
-decision-making norms go untouched, and the deeper operating system
+even in the absence of a branded campaign. As one executive told us,
+
+“We didn’t write our values—we reverse-engineered them from how
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,11 @@
-## from an internal service provider into a strategic partner for business
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11a871bc88b5813731f2065ebc68b25f3e114618
+title: H08L2R-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Managers Think Through Problems
 
-units. Amy has created a gen AI prompt sequence that her team
+- Amy is a ﬁnance leader at a large technology company who is tasked
 
-members can run to help them understand and reﬂect on how to
-
-embrace the new mindset and behaviors that this initiative will
+with promoting a change initiative that will transform her department

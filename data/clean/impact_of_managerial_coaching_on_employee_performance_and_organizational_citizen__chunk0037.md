@@ -1,5 +1,11 @@
-## Managerial Coaching on Employee Performance and OCB
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: dfa46e23d6af34a384c97698a33587afda963bcf
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# 3.4 Analysis Strategy
 
-- 4. Results
+SPSS (version 22) was used for statistical analysis. The descriptive analysis described the mean, standard deviation, and correlation matrix. For evaluation of the measurement model, reliability via Cronbach’s alpha, convergent validity using average variance extracted (AVE) and discriminant validity based on Fornell-Larcker criterion were ensured. Cohen and Cohen (1983) technique of hierarchical regression analyses was used to observe the direct relationships of managerial coaching and employee outcomes. Baron and Kenny (1986) technique were used to observe indirect relationships. This technique is mostly used in psychological literature; therefore, this technique is used in this study (Preacher & Hayes, 2014). For measuring the significance of mediation effect, sobel test was used (Sobel, 1982, 1986). This technique is enhancement of Baron and Kenny method for checking significance of mediation effect, therefore this technique is used (Kraemer et al., 2008).
 
-Correlations, means and standard deviations are presented in Table 2. Correlation coefficients were lower, so there is no any problem regarding multicollinearity (<0.70; Tabachnick & Fidell, 1996). Results showing that managerial coaching is significantly correlated with thriving at work (r = 0.401, p < .01), in-role job performance (r = 0.482, p < .01), OCB-I (r = 0.250, p < .01), and OCB-O (r = 0.138, p < .01). When managers provide coaching to their employees, then they feel thrive in their work and return enhance their performance. Thriving at work is significantly correlated with in-role performance (r = 0.525, p < .01), OCB-Individual (r = 0.381, p < .05), and OCB-Organization (r = 0.533, p < .01). When people feel thrive in their work setting, then they perform better and do their work activities efficiently and effectively and perform beyond their routine duties for the organization. These correlations provide initial support to the hypothesis of this study.
+797

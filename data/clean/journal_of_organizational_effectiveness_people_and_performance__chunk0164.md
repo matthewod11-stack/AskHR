@@ -1,5 +1,7 @@
-# Psychology, Vol. 10, pp. 177-181.
-
-Jiang, J.Y. and Liu, C.-W. (2015), “High performance work systems and organizational effectiveness: the mediating role of social capital”, Human Resource Management Review, Vol. 25, pp. 126-137.
-
-Jiang, K., Lepak, D.P., Hu, J. and Baer, J.C. (2012), “How does human resource management influence organizational outcomes? A meta-analytic investigation of mediating mechanisms”, Academy of Management Journal, Vol. 55 No. 6, pp. 1264-1294.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 55fd75f4c1123968df29055de78225542587dd17
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## (2011), “Personality and job engagement”, Journal of Personnel

@@ -1,7 +1,9 @@
-## brand awareness for [client #1] within six months with a strategic
+---
+source_path: H08LCW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8c39cd7d0f8c8fbbff27c603f783553457f9e6a
+title: H08LCW-PDF-ENG
+---
+## relationships with Client Name 1 and Client Name 2. Through
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+strong strategy development, I was able to drive a 20% increase in

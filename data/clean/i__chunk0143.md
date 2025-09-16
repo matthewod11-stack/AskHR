@@ -1,11 +1,17 @@
-# approach and organizational strategies.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 61c963149126111eb9ff58abe0c99008fb2431dd
+title: i
+---
+# referral program, high cost per hire; other recruiting process and talent management
 
-Besides a clear vision and outsourcing cost, there needs to be other technology used in the
+challenges lead to low quality of hire, low engagement of human resource; weak relationships
 
-selection process to ensure talent acquisition optimization. The PA can be used <as a
+with hiring managers and internal applicants, and a lack of key performance indicators (KPI)
 
-29
+or individual development plans (IDP) for the talent acquisition team. Notably, the absence
 
-predictive tool.= At the same time, it builds a <template= for future hires and <see the
+of PA is, according to the author, one of the organization's core strategies. These factors can
 
-candidate three-dimensionally,= a <democratic, impartial= and decision support to achieve the
+impact the company's financial resources and necessitate reevaluating its recruitment

@@ -1,15 +1,19 @@
-## professional with more than two decades of relevant experience. With
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57d7265b453bd8d2c0595c672fb6e455109b31df
+title: H07UQT-PDF-ENG
+---
+## business into a leader in lifestyle-focused, child-centric family housing
 
-Gulzar in place, we began an equally important but often overlooked
+in Western India. When he began to consider moving on, and with
 
-process: onboarding the new leader.
+no family members as potential successors, Rohit hired his coauthor
 
-Every new employee requires onboarding, but due to the complexity of
+(family business management specialist Christina Wing) to advise on
 
-the role, the process of introducing and integrating a CEO hired from
+the search and onboarding process.
 
-the outside requires a unique approach. (For more on onboarding CEOs,
+Together, we led a two-month process that identiﬁed and hired Gulzar
 
-see “After the Handshake,” HBR, December 2016.) In a family-controlled
-
-ﬁrm, the process must be especially bespoke, taking into account the
+Malhotra to be Rohit’s successor. Gulzar is a seasoned real estate

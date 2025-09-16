@@ -1,9 +1,13 @@
-## as veto rights or golden vote procedures.
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bd42ac15d910722f217caad6485125229887631
+title: H06OBF-PDF-ENG
+---
+## HBR / Digital Article / Making Silos Work for Your Organization
 
-- Three lines model. From a control perspective vertical managers
+commercial tenders. Introduce thresholds to escalate approvals for
 
-are the so-called ﬁrst line: They have the primary responsibility
+decisions to an existing higher-level body as a function of their
 
-to achieve the objectives assigned to their vertical and manage
-
-the concomitant risks. But speciﬁc second-line functions (such as
+business impact and risks. If needed, make additional provisions such

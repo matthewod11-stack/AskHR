@@ -1,25 +1,17 @@
-## HBR / Magazine Article / The Power of Strategic Fit
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54d8fff309247099643d418b4555ebea7f7238d8
+title: R2502C-PDF-ENG
+---
+# What Is Strategic Fit?
 
-of the business. One component, for example, is employees. When
+Strategic ﬁt is the degree of alignment and amount of synergy in
 
-employees are aligned with other components—such as the company’s
+a company’s business system. When a ﬁrm’s strategic ﬁt is optimal, it creates beneﬁcial multiplier eﬀects among all the components
 
-purpose—their engagement increases. Engaged employees develop
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-more-innovative products, the kind that create enthusiastic and loyal
+4
 
-customers. Enthusiastic customers attract other customers, improve
-
-ﬁnancial results, and make employees’ jobs more fulﬁlling. Enhanced
-
-ﬁnancial performance can generate the money needed to provide better employee beneﬁts, to invest in creating appealing customer oﬀerings,
-
-and to contribute more to the community. Strategic ﬁt produces a
-
-system that is nearly impossible for competitors to replicate—provided the company adapts eﬀectively to changing conditions.
-
-This concept is sorely underutilized but
-
-not completely new. In the mid-1800s
-
-Charles Darwin popularized the phrase
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

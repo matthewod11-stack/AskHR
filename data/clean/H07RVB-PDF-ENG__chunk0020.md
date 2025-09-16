@@ -1,7 +1,15 @@
-## story, their industry, their tenure with the company, their tenure with
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65b013216e1161e06022ab129057b3970c572833
+title: H07RVB-PDF-ENG
+---
+# districts in the United States.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Is it easier than it was when I ﬁrst came out in the ’80s? Yes, I think
 
-5
+there’s been a ton of progress. We obviously have more protections than
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+we had when I ﬁrst came out. But I still think it’s very situational. And
+
+in that case, you have to take into consideration the person’s individual

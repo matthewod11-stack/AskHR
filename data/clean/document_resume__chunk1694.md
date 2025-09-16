@@ -1,3 +1,17 @@
-# Almost Always
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 3676be703c9a1c0cd4df32156679bed5f6423567
+title: document_resume
+---
+# Almost Never
 
-Uses planned student program of study pros ided by the counselor to help advise plan quarterly or yearly schedules.
+1
+
+2
+
+3
+
+4
+
+5

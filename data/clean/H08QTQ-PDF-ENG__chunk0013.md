@@ -1,25 +1,29 @@
-## HBR / Digital Article / The Right Way to Implement Stretch Assignments
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98e8d5eca788715da014fbe10510a85cdeb6646b
+title: H08QTQ-PDF-ENG
+---
+## with 12% who were Black, Latinx, Indigenous, and/or Paciﬁc Islander.
 
-access to these assignments by measuring how frequently respondents
+These demographics closely—but not exactly—reﬂect U.S. engineering
 
-engaged in each type. Survey participants were asked how often, since
+bachelor’s degree recipients at the time of the study (2015-2017), with
 
-starting their current job, their assignments involved either generating
+women particularly overrepresented among our survey respondents.
 
-interest and feedback from others (visibility) or working in unfamiliar
+In this study, we broke down a stretch assignment into two main
 
-areas (new areas), using a ﬁve-point scale from “never” to “very often.”
+components and analyzed each one separately: assignments that are
 
-We also examined how these types of assignments were connected to
+visible to others in the organization (they are known and get you known)
 
-each participant’s expectation of job rewards. Speciﬁcally, we asked how
+and that involve new and unfamiliar areas (they get you “out of your
 
-likely participants thought they were to receive a raise or promotion in
+comfort zone” and help you learn new skills). We analyzed who had
 
-the next year, using a ﬁve-point scale from “deﬁnitely not” to “deﬁnitely
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-yes.” While we didn’t ask participants to directly link their expectations
+3
 
-to stretch assignments, our statistical models allowed us to analyze these relationships—oﬀering insight into how stretch work may shape perceptions of career advancement. We looked at diﬀerences by gender
-
-and race/ethnicity among engineers, controlling for academic and job-
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

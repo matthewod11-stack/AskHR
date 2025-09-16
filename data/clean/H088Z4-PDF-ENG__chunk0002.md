@@ -1,5 +1,7 @@
-## Research: Why Companies Should Disclose Their Lack of Progress on DEI
-
-Stakeholders value transparency and accountability — even when you’re falling short. by Evan Apfelbaum and Eileen Suh
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5a27effcf0414272e952c25d97b2ad31bb8b5ec
+title: H088Z4-PDF-ENG
+---
+# Diversity and Inclusion

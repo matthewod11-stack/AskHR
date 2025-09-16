@@ -1,29 +1,41 @@
-# Connect and offer support
+---
+source_path: H07U8T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a0f4a0944ae812843cb0eca0738e5fbffbd4f91d
+title: H07U8T-PDF-ENG
+---
+## HBR / Digital Article / Do You Manage Too Many People?
 
-The more direct reports you have, the harder it is to give each of them
+Manage up and down Another diﬃculty of leading a large team is balancing your own
 
-personal attention. Yes, you’re stretched thin and you’ve got a lot on
+professional needs with those of your team. You have to manage
 
-your plate, but when you come across as too busy for your employees,
+upwards — to provide the right level of detail to your boss to ensure
 
-you make them feel as if they don’t matter. “If your subordinates think
+you and your team members receive the recognition you deserve —
 
-you’re too busy for them, you’ll lose your grip and your ability to lead,”
+while also coaching your employees and providing feedback on their
 
-says Gupta. Instead, “you want them to feel that you have time and
+performance, says McDowell. It’s a balancing act. She advises taking a
 
-energy for them and that you have their back.”
+Goldilocks approach. If the issues that consume your day are too small,
 
-When you’re one-on-one with team members, give them your full
+you’re being too tactical and are likely interfering. If they’re too big,
 
-attention. Put away your phone and ignore your notiﬁcations, so you
+you’re not connected to what’s occurring on the front line. “But when
 
-can be fully present. Celebrate their victories and successes. “Let them
+they’re just right you’ll have a pulse for what’s happening on the ground
 
-know they’re valued,” he says. McDowell recommends seeking out
+and you’re able to spend time on longer term strategic priorities and on
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+mentoring your teams.”
 
-4
+Be mindful of your tone and persona — especially when it comes to how
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you interact with your team, says Gupta. “A lot of bosses are good at
+
+managing up but not managing down,” he says. “You don’t have to be
+
+selﬂess, but if your direct reports sense you care more about your own
+
+advancement that’s going to hurt you in the long run.”

@@ -1,11 +1,15 @@
-# and mission
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8fe86d3001a1b0fa9113a11d5d203539b38352e6
+title: H07U7Q-PDF-ENG
+---
+# and direction.
 
-- How focusing on the happiness, growth, and development of
+For this episode of our video series “The New World of Work”, HBR
 
-employees not only leads to higher employee retention but improves
+editor in chief Adi Ignatius sat down with Buechel to discuss:
 
-customers’ experience
+- How authenticity is crucial in leadership and sustainability eﬀorts, as
 
-- While CEO roles can vary depending on the company, for Buechel the
-
-focus is primarily on internal leadership and supporting the vision and
+companies need to ensure their actions align with their core values

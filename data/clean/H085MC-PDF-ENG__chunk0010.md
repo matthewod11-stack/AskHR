@@ -1,11 +1,19 @@
-# The Six Types of Leadership Styles
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdb243b34fa385ad8956a756020a00dc08015f8d
+title: H085MC-PDF-ENG
+---
+# future.
 
-- 1. Coercive leadership style
+Though the world has changed over the past two decades, these
 
-Of all the leadership styles, coercive is the least eﬀective in most situations, according to Goleman. It’s not diﬃcult to understand
+leadership styles remain relevant. Mastering them will help you
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+navigate the complexities of diﬀerent situations, boost morale, and
 
-2
+drive your team’s long-term growth.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+With that in mind, here’s a closer look at each of the six leadership styles
+
+— and when to use them — updated for today’s business landscape.

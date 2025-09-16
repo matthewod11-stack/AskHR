@@ -1,15 +1,27 @@
-# mirror.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6a10cff2ef9a168b7d1b6cb76a896ef06c0f0e7
+title: H06K3M-PDF-ENG
+---
+# The Enemy Is Also in The Mirror
 
-We all jump into too many collaborations, which happens in micro-
+Disruptions and switching costs are not the only drivers of collaborative
 
-moments when a request is made or when we see an opportunity that
+overload that companies are missing when they focus only on the
 
-we know we could help with, even when we know we shouldn’t. Most
+volume of collaborative demands. Another critical source of overload
 
-people have had the experience of being asked to do something and
+comes from the personal motivations that result in each of us — far
 
-knowing with every ﬁber of their being that they should say no, but in a
+more than we realize or like to admit — creating our own collaborative
 
-nano-second convince themselves why they need to do this thing after
+overload problems by jumping in unnecessarily. When people talk
 
-all. They jump in and then wonder six weeks later why they never have
+about collaborative overload, they inevitably blame culprits such as
+
+out-of-control email, back-to-back meetings, demanding clients, and
+
+unreasonable bosses. But our research has shown that about 50% of the
+
+time, the main culprit of our overload can be found by looking in the

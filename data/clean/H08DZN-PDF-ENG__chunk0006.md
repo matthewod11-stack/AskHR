@@ -1,9 +1,7 @@
-# master1305/Getty Images
-
-One of the oldest and most persistent gender stereotypes is that
-
-women are too emotional. This stereotype hurts women’s leadership
-
-prospects as they are seen as less ﬁt for leader roles because they are
-
-perceived to be more likely to make irrational, emotion-driven decisions
+---
+source_path: H08DZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 01db39c2cda6a899f6b3d0b52033fae59b810ae9
+title: H08DZN-PDF-ENG
+---
+## Published on HBR.org / September 16, 2024 / Reprint H08DZN

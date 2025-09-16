@@ -1,5 +1,9 @@
-## 3.1 DEFINITION AND PURPOSES OF STRATEGIC PLANNING
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e57497bad8936eba28d512deb2c93bfdfb2833d7
+title: performance_management_3rd_edition_by_aguinis
+---
+## support for a performance management system.
 
-Strategic planning is a process that involves describing the organization’s destination, assessing barriers that stand in the way of that destination, and selecting approaches for moving forward. The main goal of strategic planning is to allocate resources in a way that provides organizations with a competitive advantage.1 Overall, a strategic plan serves as a blueprint that defines how the organization will allocate its resources in pursuit of its goals.
-
-Strategic planning serves the following purposes: First and foremost, strategic planning allows organizations to define their identities. In other words, it provides organizations with a clearer sense of who they are and what their purposes are. Second, strategic planning helps organizations prepare for the future because it clarifies the desired destination. Knowing where the organization wants to go is a key first step in planning how to get there. Third, strategic planning allows organizations to analyze their environment, and doing so enhances their ability to adapt to environmental changes and even anticipate future changes. Although knowledge of the environment does not guarantee that an organization will be more likely to change and adapt, knowl- edge is the first step toward possible adaptation. Fourth, strategic planning provides organizations with focus and allows them to allocate resources to what matters most.
+In Chapters 1 and 2 we discussed the fact that good performance management systems encourage employees to make tangible and important contributions toward the organization’s strategic objectives. When these contributions to the top organiza- tional and unit priorities are made clear, performance management systems are likely to receive crucial top management support. Without this support, it is unlikely that a performance management system will be successful. How, then, are these strategic organizational objectives identified? How does an organization know what the “target” should be, what it is trying to accomplish, and how to do it? These questions are answered by considering an organization’s strategic plan.

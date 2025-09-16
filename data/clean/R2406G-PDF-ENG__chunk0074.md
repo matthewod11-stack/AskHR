@@ -1,13 +1,9 @@
-# personalization use cases.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b18e17978022701dd58421cd8dbfbd68c1c8738b
+title: R2406G-PDF-ENG
+---
+## HBR / Magazine Article / Personalization Done Right
 
-Secure the personalization foundation. The Personalization Index,
-
-paired with your strategic plan, will quickly highlight the gaps in your
-
-foundational capabilities. The key to success is prioritizing how to
-
-address those gaps and tying the upside and investments associated
-
-with each to the overall business case. Personalization leaders also
-
-apply the principles of smart integration. (For more detail, see “What
+comprising many of these functions need to deliver on each wave of

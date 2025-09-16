@@ -1,25 +1,29 @@
-# priorities).
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43268f7fcb0ac361daf5e62324f5db07364a24a8
+title: R2301H-PDF-ENG
+---
+# The Four Stances
 
-Building on this work, we have developed an approach, called the
+Dozens of research studies spearheaded by American psychologists
 
-“four stances,” to help leaders generate options for interpersonal
+Charles “Rick” Snyder and Shane J. Lopez demonstrate how people’s
 
-communication. Think how tennis players nearly instantly shift their
+capacity to reach their desired goals can be increased by conceiving
 
-stance to make an optimal response to a ball hurtling over the net. The
+multiple possible pathways. Most people assume that success at a task
 
-core concept for our approach is rooted in evolutionary psychology and
+is a question of perseverance or willpower. But Snyder and Lopez show
 
-how our basic reﬂexes (ﬁght, ﬂight, and so on) automatically deploy
+that willpower must be coupled with “way power” to drive successful
 
-under dangerous or novel circumstances. In the more evolved world
+outcomes. Their research suggests that ideally you will have four or
 
-of leadership, the four stances help leaders identify and access more
+more options or pathways for achieving your goals (external priorities).
 
-interpersonal options. The stances are:
+It also demonstrates the importance of determining who you want
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+to be as a leader in terms of your character strengths and values
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+(internal priorities) and how you can best relate to others (interpersonal

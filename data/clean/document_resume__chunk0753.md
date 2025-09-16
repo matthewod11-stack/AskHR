@@ -1,15 +1,23 @@
-# B
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 57b157f7bb18d02aa322d2d3c96e77b0e2bd02a5
+title: document_resume
+---
+# A
 
-There is a need for systematic, objective information regarding teaching performance.
+The evaluation of professors' teaching performance is a commonly occurring event.
 
-For lack of more objecux e data, Important decisions are often made on the basis of the "informal evaluation" described above. As noted, much of this informal evaluation is based on hearsay, reputation, random comments and observations, etc. These sources are often inaccurate and even unfair They typically present a distorted, biased picture of the professor's true teaching ability and performance. In order to increase the possi- bilities of appropriate, unbiased, fair decisions being made, It is necessary to gather more objective, systematic,. relevant information about faculty teaching performance. Teacher rating forms are one means of making lanky evaluation more objective and systematic, and less biased.
+When we think of "faculty evaluation," we usually visualue a formal process involving rating forms, computer printouts, etc. Actually, the evaluauon of professors' teaching performance occurs quite often, usually in an informal manner.
 
 2
 
-One major problem with man) faculty rating forms is that they can be interpreted dif- ferently by each student neer. Thus, characteristics of the type of form used can influ- ence the outcome of a teacher evaluation project. Students do not always agree on the definition of "good teaching performance," and what one sees as "excellent" perfor- mance may be only "fair" to another. Since the outcome of the rating process can be as easily influenced by how the raters interpret the form as by the faculty member's actual teaching performance, it is important to make sure that all of the raters interpret the form as similarly as possible The teaching behaviors to be evaluated and the meaning of each point on the scale should he clearly specified to ensure nearly uniform inter- pretation Otherwise, the raters may all be rating different aspects of behavior, and the data will not be meaningful.
+Students frequently "compare notes" and "spread the word" about professors. As they do this, the students arc informally evaluating their professors, often on the basis of reputation and randomly observed events.
 
 3
 
-In order to be useful, faculty evaluation data must be reliable. That is, the evaluations by several independent raters of the same professor s teaching perfomiance in the same class should be relatively consistent- -there should be relativ,ly high agreement among the raters. If there is a very low rate of agreement among the raters, the Information will obviously be of little use.
+Professors often evaluate themselves and other professors in Informal discussions. These Informal evaluations also may be large!) based on reputation and randomly observed events, as well as comments from two or three students.
 
-1
+4
+
+Deans, department heads, and others are faced with making decisions regarding promotion, tenure, salary, ,ourse assignments, etc., for their professors. These deci- sions require some type of evaluauon of the profcssors in question. When objecuve data are not available. these decisions are frequently based upon some type of informal evaluation, such as reputation, random observauons, or the comments of two or three students or faculty members, even though these are certainly not the fairest ways to evaluate faculty members.

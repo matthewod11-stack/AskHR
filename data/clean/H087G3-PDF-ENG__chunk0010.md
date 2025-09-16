@@ -1,7 +1,15 @@
-## HBR / The Big Idea / Survey: How People Experience Chronic Illness at Work
+---
+source_path: H087G3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58592145e949f176117064774bf6f2af2d6c7649
+title: H087G3-PDF-ENG
+---
+## ME/CFS; postural orthostatic tachycardia syndrome, or POTS; and
 
-like to work while experiencing one of these conditions? And how much
+Ehlers-Danlos syndrome, or EDS, are others, to name a few.) What is it
 
-do people’s colleagues and managers know about how to accommodate
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-employees who have them?
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

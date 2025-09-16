@@ -1,23 +1,13 @@
-## HBR / The Big Idea / Everyone Deserves a Season to Step Back
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1e343f5ab415b21437ddeb92c90a0df1c9e028f
+title: H08LQ5-PDF-ENG
+---
+# sense of loyalty.
 
-Consider, too, the case of Chas Carey (full disclosure: Chas is my
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-husband). When serving as the deputy general counsel of the New York Oﬃce of Housing Recovery Operations in 2017, he was oﬀered a role in an upcoming oﬀ-Broadway production. After talking to his boss and
+3
 
-team about how he might make the opportunity work and still keep his
-
-job, Chas was able to shift his hours to a nontraditional schedule for the
-
-four weeks he was in daytime rehearsals and then, once performances
-
-began, cut back on hours by delegating and deprioritizing while tending
-
-to the most urgent and impactful work. After a four-week run, the
-
-production wrapped, and he returned to his “real life” with gratitude
-
-for the ﬂexibility and a renewed energy for the work. Over the next
-
-three years, Chas continued to excel in his job and was promoted ﬁrst to
-
-general counsel and then to acting director of the agency.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

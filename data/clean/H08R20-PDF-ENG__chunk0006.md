@@ -1,9 +1,21 @@
-## data mirrors 2023 ﬁndings from the human capital management ﬁrm
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1c9168e11719ea80d64bfe81ae86d3e9d9fc651
+title: H08R20-PDF-ENG
+---
+# The Power and Urgency of Noticing
 
-Workhuman, showing that 30% feel “invisible” and 27% feel “ignored.”
+In January 2025, Gallup reported employee engagement hit its lowest
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+point in a decade. During that same timeframe, services to improve
 
-2
+engagement became a $1 billion industry and organizations invested
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+millions in well-being programs and perks. Yet seven in ten people are
+
+still disengaged. Why?
+
+One data point stands out: Just 39% of employees in the sample
+
+strongly agreed that someone at work cares for them as a person. That

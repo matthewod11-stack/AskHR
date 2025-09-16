@@ -1,21 +1,9 @@
-# physical experience as well as online.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35a9532a6a21c8b21df4a4c1d72772af88037edf
+title: H07U7Q-PDF-ENG
+---
+# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
 
-A lot of our customers like to shop through multiple diﬀerent channels.
-
-In some cases they’d like to have center of store picked for them and
-
-ready for them to pick it up when they shop the store, and then look
-
-at our perimeter, whether it’s picking out their own meat or seafood or
-
-interacting with our team members. As an example, at our cheese case,
-
-a certiﬁed cheese professional can help choose exactly the right cheeses
-
-as you’re putting together your cheeseboard and charcuterie plates.
-
-ADI IGNATIUS:
-
-So fast-forward, not way into the future, but a year or two or three.
-
-How do you think the in-store experience will change for Whole Foods
+space. I continue to see that we’ll have opportunities both in the

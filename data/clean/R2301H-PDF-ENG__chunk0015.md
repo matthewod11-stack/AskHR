@@ -1,15 +1,19 @@
-## HBR / Magazine Article / The Power of Options
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e04905b41c45e0104739b1c1471800f624433f1
+title: R2301H-PDF-ENG
+---
+# the company couldn’t deliver on.
 
-Berlin-based photographer Matthias Heiderich is interested in architectural patterns and colors he finds in the city, especially in overlooked functional spaces and in the multitude of ways that inhabitants design and shape their surroundings.
+“I’m getting a bad reputation for being aggressive at board meetings,”
 
-As we talked, we identiﬁed a clear gap between her own and others’
+she told us at our ﬁrst two-on-one coaching session. “I just tell the truth
 
-perceptions. Leaning In—way in—was her default stance. As a former
+—someone needs to—but I’m the one getting dinged.”
 
-lawyer, she was a world-class debater, and her impact was far more
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-powerful than she realized. It was clear she needed to overcome her
+4
 
-reﬂexive behavior and ﬁnd other viable ways to win. We described
-
-the four stances and asked her to consider alternatives to her default
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

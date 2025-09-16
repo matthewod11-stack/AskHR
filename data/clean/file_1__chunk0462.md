@@ -1,3 +1,17 @@
-# CONCLUSION
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 998257664ba5bd2352b9844c0e81ca51dbbc7422
+title: file_1
+---
+# 109
 
-Existing research on the gender pay gap has examined the phenomenon and the reasons for it in depth but has not yet adequately examined whether and to what extent individuals perceive the gender pay gap to exist. This paper broadens the domain of the gender pay gap research by exploring individuals' perceptions of it. Examining the factors that have an impact on the way individuals perceive the gender pay gap helps answering the question of
+than in male-concentrated sectors by both genders, which meant that individuals perceived the gender pay gap to a lesser extent in female-concentrated rather than in male- concentrated sectors.
+
+A relevant explanation on how sector gender composition can influence individuals’ perceptions of the gender pay gap is based on expectancy theory (Vroom, 1964). According to the theory, changes in perception are likely to affect the motivation to perform as well as create feelings of inequality. The theory describes the value of the reward, the performance- reward connection and the performance-effort connection. The value of the reward, financial compensation in this case, appears to have been risen for women recently. In the past, there was a tendency to undervalue performance-reward connections in female-concentrated sectors since women were more likely to work in sectors which provided services rather than produced products. As women started moving into male-concentrated sectors, the performance-reward connection became more comprehensive, but there are still some female-concentrated sectors where the establishment of the performance-reward connection is at the very beginning. The performance-effort connection is also uncertain in many female-concentrated sectors. For example, a study of Lange (2008) showed that many women are reluctant to ask for the salary they call for in female-concentrated sectors and are satisfied with less salary than their male counterparts. Consequently, individuals in female- concentrated sectors are expected to perceive the gender pay gap to a lesser extent than individuals in male-concentrated sectors because lower pay is perceived as more reasonable in female-concentrated sectors.
+
+Proposition 8: individuals in female-concentrated sectors will perceive the gender pay gap to a lesser extent than individuals in male-concentrated sectors.
+
+Occupational status: occupational status might also have an impact on individuals' perceptions of the gender pay gap. According to social dominance theory (Sidanius and Pratto, 1999), individuals are motivated to believe that they live in a world where everyone gets what he/she deserves. Hence, the fact that individuals in high and moderate-status occupations get higher financial rewards than individuals in low-status occupations is a reflection of effort and is justified (Rosette and Thompson, 2005). Accordingly, individuals in moderate and high-status occupations are expected to possess higher standards of what forms a reasonable reward than individuals in low-status occupations and, thus, perceive pay inequalities and the gender pay gap in particular to a lesser extent than individuals in low- status occupations. The following proposition is thus presented:
+
+Proposition 9: individuals in low-status occupations will perceive the gender pay gap to a greater extent than individuals in moderate and high-status occupations.

@@ -1,15 +1,27 @@
-# my health.
+---
+source_path: H08JFA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b893fc2b6798c03554257b894d9e9effc2d1a4a
+title: H08JFA-PDF-ENG
+---
+## HBR / Digital Article / Why You’re Chronically Overcommitted
 
-This realization came to me after I had hastily completed a report
+prove my worth, I felt I had no other choice but to say yes to every
 
-(because there was so much to get done), and my manager said, “This
+request that came my way.
 
-could have been a much better report if you’d spent a little more time on
+How was I going to ﬁt all of this into my schedule? I had no idea.
 
-it.”
+Everyone on the team had more experience than me in working in
 
-The irony was hard to ignore. Doing more was making me less
+digital health. They had been embedded in the startup industry for
 
-productive. It was also leaving me overworked, overwhelmed, and
+longer, and they knew so many things I didn’t know.
 
-exhausted.
+So, I believed that taking on more responsibility than I could handle
+
+would show others that I was competent, reliable, dedicated, and
+
+most importantly, valuable. What I didn’t realize at that time was that
+
+overcommitting came with two major costs: the quality of my work and

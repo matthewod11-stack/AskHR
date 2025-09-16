@@ -1,13 +1,25 @@
-## —largely because tight production schedules and last-minute editorial
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 098c31c14395fca3ceeaa885e108be521bfb9d30
+title: H08VNO-PDF-ENG
+---
+## unlimited vacation, ﬂexible Fridays, daily gratitude prompts, and access
 
-changes continued to drive daily pressures.
+to mindfulness tools. On paper, it was generous. But within three
 
-The perks became a pressure point. Employees felt guilty for taking
+months, internal feedback scores fell sharply. Employees reported
 
-time oﬀ, unsure of whether they were truly allowed to. One team
+feeling more burned out, not less. The reason? Nothing about the
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+actual workﬂow had changed. Role clarity remained murky. Deadlines
 
-7
+were still erratic. Slack pings continued after hours. The message was
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“unplug” — but the expectation was “stay responsive.”
+
+A similar pattern played out in a Southeast Asian media company,
+
+where management introduced digital detox days and wellness
+
+stipends. Despite the new initiatives, employees reported rising anxiety

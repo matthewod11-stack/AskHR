@@ -1,7 +1,25 @@
-## of Marketing, Content Marketing World, and Digital Summit. I also
+---
+source_path: H08LCW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7419bf7b1214cf96122e6adc4d2e116d398b837
+title: H08LCW-PDF-ENG
+---
+# me to a role at [new company].
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Then continue with one sentence on what you accomplished at the
 
-4
+new company that is relevant to the prospective job. Again, this
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+demonstrates that colleagues valued your work, even if your former
+
+company let you go.
+
+The key is to be proactive and ﬁll in breaks in employment before you
+
+are asked about them. Yes, it’s okay to say you took time oﬀ to raise
+
+children, but talk about how you kept your skills updated during that
+
+time, such as, “While I took a break to raise my children, I attended
+
+numerous conferences to keep my skills fresh, such as the ANA Masters

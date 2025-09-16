@@ -1,19 +1,13 @@
-# with managers and HR professionals.
+---
+source_path: H08QAO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1ccb5ba8b6840983ccb22275e10edcff01d647f
+title: H08QAO-PDF-ENG
+---
+# Why Did Gender Diversity Increase?
 
-We found the strongest evidence for the idea that the hiring disparities
+To answer this question, we drew on internal organizational data about
 
-had been due in part to time constraints on the company’s line
+the hired candidates and a dataset about Alpha’s job listings. We also
 
-managers. Time crunches often forced them to rely on subjective data
-
-—including recommendations from colleagues and assumptions about
-
-who best ﬁt a role—to make quick decisions so that they could return
-
-to their work. This likely perpetuated the company’s status quo, which
-
-was predominantly male. The HR department, on the other hand, was
-
-more likely to place greater weight on objective data about candidates
-
-and whether they ﬁt the job description and requirements provided by
+conducted both a company-wide survey and semi-structured interviews

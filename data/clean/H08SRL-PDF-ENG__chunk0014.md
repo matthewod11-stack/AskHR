@@ -1,9 +1,21 @@
-## HBR / Digital Article / An International Travel Checklist for U.S. Employers
+---
+source_path: H08SRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 203469033f462ad3c14e3e7747ccbbaaaa89c62b
+title: H08SRL-PDF-ENG
+---
+## Burundi, Cuba, Laos, Sierra Leone, Togo, Turkmenistan, and Venezuela.
 
-the importance of securing visas ahead of time for employees to reduce
+The travel ban is narrower in scope than those attempted during
 
-the risk of being aﬀected by future bans. Goeschl says he’s also observed
+Trump’s ﬁrst term, Goeschl notes. It does not restrict people from those
 
-more ESTA applications being denied or delayed, so he recommends
+countries who are green card holders, currently in the U.S., or already
 
-submitting them well in advance, too.
+have a valid visa to the U.S. Still, Goeschl says the new rule underscores
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

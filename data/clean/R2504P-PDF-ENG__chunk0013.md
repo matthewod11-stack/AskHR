@@ -1,43 +1,35 @@
-## HBR / Magazine Article / Case Study: Do We Reskill or Replace Our Workforce?
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8884247ce22eae915791d0aec8562bc8dc0a99b6
+title: R2504P-PDF-ENG
+---
+# right away.”
 
-Monica Chen from minority investor Meridian Ventures spoke next. “I
+Before Alex could respond, Akash Rao from RT Hinkley Capital,
 
-really like the idea of a reskilling program—and agree there is solid
+SolidTech’s second largest shareholder, chimed in. “I actually see this
 
-evidence they work well—but I do have some practical concerns. First,
+as a good way to get to downsizing at SolidTech. The company needs to
 
-SolidTech’s largest business opportunity remains the refurbishment
+improve its margins, and if this reskilling program gives Alex cover to
 
-of old elevators in old buildings. What’s more, many customers in
+make his workforce leaner, I’m all for it.”
 
-emerging markets are very cost conscious; they just want a box that goes
+Alex winced. The last thing he wanted to do was oversee mass layoﬀs.
 
-up and down reliably. I’m worried we are letting the buzz of innovation
+He glanced over at Sarah, and she jumped in. “That is truly not the intent,” she said ﬁrmly. “It’s an eﬀort to hold on to our people
 
-crowd out common sense. Is this really where our focus should be?
+while recognizing we can do so only if they have the right skills,
 
-Or should we be starting small with our smart, connected elevators, perhaps even under a diﬀerent brand?”
+and to preserve institutional knowledge and culture while evolving
 
-“I’m glad Monica raised the point about tech hype,” said Thomas Smith
+capabilities. And, yes, we’ve seen companies like IBM and Amazon do
 
-from Falcon Capital. “Online universities and MOOC startups are high-
+this with great success.”
 
-risk partners. I know they are all the rage in tech circles, but why should
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-we take on that risk? Frankly, is it even the company’s responsibility to
+4
 
-reskill employees? My friends on the right would say that sounds like
-
-something individuals should be responsible for, and my friends on the
-
-left would say that’s something the state should handle.”
-
-After the call ended, Alex sat in the conference room, reviewing
-
-his notes. SolidTech’s owners weren’t at all aligned. Sarah placed a
-
-hand on his shoulder. “There were always going to be questions,” she
-
-said. “Change is scary, especially when it seems expensive. But we
-
-can bring them on board. Reskilling is the best way to execute this
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

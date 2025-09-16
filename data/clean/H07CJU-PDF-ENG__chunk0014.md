@@ -1,11 +1,11 @@
-## with more gender neutral language and the inclusion of same-sex
+---
+source_path: H07CJU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb80fdb0162411806f5b8acf85bd71d741bf9acb
+title: H07CJU-PDF-ENG
+---
+# some of these ongoing stressors.
 
-parents and adoptive and foster parents, which are all wonderful
+Myth #2: All it takes to have “inclusive care policies” is giving dads paternity leave.
 
-changes. However, family leave policies often laser focus on welcoming
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Workplace family leave policies have evolved a lot over the last decade,

@@ -1,7 +1,7 @@
-# JOHN C. BRIGHAM AND J. THOMAS GRISSO
-
-WHAT IS FORENSIC PSYCHOLOGY? EARLYATTEMPTS TO APPLY PSYCHOLOGICAL OR PSYCHIATRIC KNOWLEDGE TO THE LEGAL SYSTEM 392 Conceptualizations of Insanity Early Enthusiasts forApplying Psychology to the Law:
-
-391
-
-392
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 804fa4ee47a8cc5af32b7010419551ba6ba9eaa0
+title: untitled
+---
+# Forensic Psychology

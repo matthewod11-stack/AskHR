@@ -1,7 +1,39 @@
-## Go deeper: “Lean Strategy,” by David J. Collis (2016)
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c5395204012f81f5f9905284b9906bc9eacffc5
+title: H08TKY-PDF-ENG
+---
+## Go deeper: “Why the Lean Start-Up Changes Everything,” by Steve Blank
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+(2013)
 
-18
+. . .
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Lean strategy: The lean strategy process ensures that startups innovate
+
+in a disciplined fashion so that they make the most of their limited
+
+resources. This helps company builders choose viable opportunities,
+
+stay focused, and align the entire organization.
+
+The process begins with setting the venture’s vision, or ultimate
+
+purpose—perhaps the only aspect of strategy that should be permanent.
+
+To deliver on it, senior executives agree on a deliberate strategy,
+
+deﬁning the ﬁrm’s objective (the near-term goal that describes success),
+
+scope (what the ﬁrm will and will not do), and competitive advantage
+
+(how it will win). The deliberate strategy sets the bounds within which
+
+experiments will take place and guides daily decisions, but the results
+
+of those experiments and decisions lead to learning that reshapes the
+
+strategy. Though priorities evolve, at each point in time it’s clear to
+
+everyone in the ﬁrm which ones take precedence.

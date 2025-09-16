@@ -1,9 +1,9 @@
-# In an experiment, the group of
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a6f702854695fd5c40d0c6fed1bdf3277e65e5f6
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Experiment A type of research study in which
 
-subjects that receives the experimental treatment of interest to the experimenter.
-
-Expert power Power that individuals have because they
-
-have knowledge.
-
-Expertise The amount of knowledge or skill possessed
+the independent variable is manipulated by the experimenter. Experimental group

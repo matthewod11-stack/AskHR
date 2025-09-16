@@ -1,11 +1,7 @@
-# utilize concepts from population ecology theory, consideration of energy as the master
-
-resource, RBV (Resource-based view), and suggested practices as the run for the acquisition
-
-of energy resources at low cost, vertical coordination, contracts, joint ventures, partnership,
-
-and alliances and enables accessibility to member’s technologies thereby, ensuring effective
-
-utilization of resources. Knowledge has also been considered one of the prime resources that
-
-31
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 61da50fc39b83b0969fc8471f62d487feb75c916
+title: issn_print_0976_013x
+---
+# among others. Theoretical developments in the sustainability aspect of the organization

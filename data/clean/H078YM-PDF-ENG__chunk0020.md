@@ -1,5 +1,23 @@
-## HBR / Digital Article / Is Bad Onboarding Stifling Your New Senior Leaders?
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 31e462344e465783feede9b5a4ee727799c82e65
+title: H078YM-PDF-ENG
+---
+# Ask for critical observations
 
-new person permission to think critically and to explore alternatives as
+The third alternative is to ask the new person to keep a diary of
 
-a normal part of the process. It also helps the leader to develop a change
+observations from each meeting and each day. Then set up a time for
+
+them to make a presentation to you, or perhaps you and your leadership
+
+team, about what they’ve learned, what didn’t make sense, what they
+
+have seen done diﬀerently in previous jobs, and so on. This gives the
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

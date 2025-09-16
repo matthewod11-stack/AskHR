@@ -1,17 +1,19 @@
-# idea.
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c9a950f161804e36b32b1a350907592394fd2605
+title: R2306H-PDF-ENG
+---
+# own work.
 
-Consider the relationship between Xiu and Malika. (As with Jaideep and
+After identifying a sparring partner, a leader should reach out to others
 
-Hannah, these names are pseudonyms.) Xiu was an R&D director in a
+who are knowledgeable about the partner’s domain but aren’t in the
 
-large pharmaceutical ﬁrm leading a team of scientists who conducted
+partner’s network. The leader should also encourage the partner to
 
-clinical research on menopausal symptom relief. It’s well-known that
+likewise look for advisers in the leader’s domain who aren’t close to
 
-many women don’t consult their doctors about these symptoms because
+the leader. That will set the two colleagues up to do what we call dual
 
-they believe that they’re an unavoidable part of aging or they have
-
-concerns about the safety of treatments. Xiu was determined to give
-
-women easier access to menopause medication through an over-the-
+networking and gather a fusion of perspectives that will enhance a new

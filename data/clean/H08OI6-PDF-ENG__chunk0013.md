@@ -1,9 +1,13 @@
-# various beneﬁts for both parties.
+---
+source_path: H08OI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c50e2f1854efd92e901c4692a64d81ace8437eb5
+title: H08OI6-PDF-ENG
+---
+# and perspectives to your work week.
 
-At ﬁrst glance, mentoring or advising someone else may seem
+Strengthen your skills by sharing your knowledge.
 
-counterintuitive when you’re the one looking for growth. It is, of
+I’ve witnessed from my own career how connecting with someone to
 
-course, a great way to pay it forward. But mentoring also provides the
-
-opportunity for you to learn new things from your mentee’s shared
+share your work and experiences and answer their questions can unlock

@@ -1,3 +1,7 @@
-# questions, 141 Path-goal theory, 451 Patterned-Behavior Description Interviews (PBDI), 141
-
-Pay for performance, 349 Peak-time pay, 546 Peer ratings, 242 Pepperdine University, 13 Perceptual ability, 172 Performance appraisal, 237–286
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b0a079f52d649881235f26d24ae350b67a5c2401
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Pass-through programs, 314 Past-focused interview

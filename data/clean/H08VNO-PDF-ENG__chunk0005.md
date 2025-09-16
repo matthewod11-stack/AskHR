@@ -1,11 +1,7 @@
-# don’t align with the message.
-
-Culture shapes everything from decision-making norms to employee
-
-engagement, brand perception to risk tolerance. When it’s mismanaged,
-
-organizations don’t just lose trust; they lose traction.
-
-That paradox became the starting point for our research. To understand
-
-how culture plays out in real time, we conducted a cross-national
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1980665668b5850b93b22423fdfbba9d788c3247
+title: H08VNO-PDF-ENG
+---
+## about culture, the more performative it feels—especially when actions

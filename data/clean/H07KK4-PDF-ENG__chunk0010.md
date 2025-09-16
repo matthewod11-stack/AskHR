@@ -1,5 +1,31 @@
-## enthusiastic, and a sense of continuous growth and learning. Beyond
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22f52eb7ab5497b7990e54fd40e068d9ca51a9ad
+title: H07KK4-PDF-ENG
+---
+# and at work?
 
-merely surviving, we wanted to know why some working parents were
+To answer this question, we identiﬁed 100 dual-career couples with
 
-able to thrive (especially during the pandemic, which placed immense
+children and surveyed them at multiple time points over a year and a
+
+half during the pandemic. We asked each parent to tell us about the
+
+extent to which their work environment was supportive of their lives
+
+outside of work. We asked these questions about several facets of the
+
+work environment — their direct supervisor, their coworkers, and the
+
+broader organizational culture. We also asked both parents about their
+
+home lives, including the extent to which their partner was a supportive
+
+co-parent. Finally, we asked them to describe the degree to which they
+
+felt that they were thriving at work and at home. From an academic
+
+perspective, thriving is deﬁned as two distinct but related psychological
+
+states — vitality and learning. When you thrive, you feel energized,

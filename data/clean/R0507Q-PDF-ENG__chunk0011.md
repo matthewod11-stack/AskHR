@@ -1,19 +1,35 @@
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03b9163813b30db2eeaeaa08b434c901452de381
+title: R0507Q-PDF-ENG
+---
 ## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
 
-See more HBR charts in Data & Visuals on HBR.org.
+destination, and other indicators that summarize the current and
 
-While giving senior managers information from four diﬀerent
+predicted environment. Reliance on one instrument can be fatal.
 
-perspectives, the balanced scorecard minimizes information overload
+Similarly, the complexity of managing an organization today requires
 
-by limiting the number of measures used. Companies rarely suﬀer
+that managers be able to view performance in several areas at once.
 
-from having too few measures. More commonly, they keep adding new
+The balanced scorecard allows managers to look at the business from
 
-measures whenever an employee or a consultant makes a worthwhile
+four important perspectives. It provides answers to four basic questions:
+
+- How do customers see us? (customer perspective)
+
+- What must we excel at? (internal business perspective)
+
+- Can we continue to improve and create value? (innovation and
+
+learning perspective)
+
+- How do we look to shareholders? (ﬁnancial perspective)
 
 Copyright © 2005 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

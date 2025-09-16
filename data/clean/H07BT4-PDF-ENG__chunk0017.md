@@ -1,7 +1,23 @@
-# about this?
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65524937ffa3ae8842131e122d48fd255411ce07
+title: H07BT4-PDF-ENG
+---
+## drive and drag resonate with their day-to-day work experience.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+According to sellers we interviewed, although some aspects of the job
 
-3
+can be engaging — especially live interactions with customers and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+colleagues — others can be a real drag. Our survey results conﬁrmed
+
+it: While more than three out of every four sellers have high drive, 83%
+
+of sellers report medium or high levels of drag.
+
+The subjective experience of drag is hardly cold and clinical. Sellers we
+
+spoke to often expressed frustration with leadership’s failure to act on
+
+their concerns. This begs the question: Why aren’t leaders doing more

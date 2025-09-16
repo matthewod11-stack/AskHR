@@ -1,5 +1,9 @@
-## relationship between professional capital (PC) and team task performance (TTP).
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 9ef925ae06db1da32192621220204cfcd47dc89f
+title: original_article
+---
+# 0.06 ns Direct
 
-Hypothesis 6: Team interaction quality (TIQ) mediates the relationship
-
-between cultural intelligence quotient (CQ) and proﬁtability. Hypothesis 7: Team potency (TP) mediates the relationship between
+Not supported

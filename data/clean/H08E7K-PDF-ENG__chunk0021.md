@@ -1,9 +1,17 @@
-## HBR / Digital Article / How to Keep Learning at Work — Even When You Feel Fried
+---
+source_path: H08E7K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e425cfab9f3f6005d3054d7cd34b462f6eaae9e2
+title: H08E7K-PDF-ENG
+---
+# Work with your brain, not against it.
 
-the new information. But what good is the content if your brain
+Once you are emotionally invested in learning new skills, you’ll often
 
-struggles to retain it?
+ﬁnd your second wind to push through the fatigue and keep absorbing
 
-Another important way to make learning eﬀective while depleted
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-is to design an approach that follows your brain’s preferences
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

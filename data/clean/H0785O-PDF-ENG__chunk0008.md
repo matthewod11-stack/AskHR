@@ -1,15 +1,17 @@
-# relationship with the rest of society.
+---
+source_path: H0785O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee38c35b20ed99110bab1146adb14ce48063fb22
+title: H0785O-PDF-ENG
+---
+# stronger.
 
-We also admit that management advice hasn’t always gotten things
+So, what can we learn from the past 100 years of management thinking?
 
-right, and that what worked for one era may not for another. So we
+For this Big Idea series, we asked experts to look back — and forward
 
-asked an array of researchers which management practices should
+— to help us understand what good leadership should look like,
 
-be retired for the next 100 years. Their answers point to the impact
+how successful organizations are structured, what qualities make up
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a job people love, and what needs to change to improve business’s

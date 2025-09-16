@@ -1,13 +1,15 @@
-# THE MIDDLE AGES TO THE
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f8709c64760c9b82875c72c1b556ec4aadbe531c
+title: untitled
+---
+# PRELIMINARY ISSUES 303
 
-EIGHTEENTH CENTURY 310 Hospitals 311 The Anatomy of Melancholy From Animal Spirits to Animal Electricity From Magnetism and Mesmerism to Hypnosis 313 314 Moral Management and the Association Model EIGHTEENTH TO MID-NINETEENTH CENTURY 315
+Popular Myths of Psychopathology Early Attempts at Classiﬁcation 305 Legal Views of the Mentally Ill 306
 
-311
+304
 
-312
+THEORYAND PRACTICE IN THE CLASSICAL PERIOD 307 Classical Medical Theory 307 Medical and Other Treatments
 
-Asylums of the Era Advent of Nosological Systems Brain Pathology Model of Psychopathology and
-
-315
-
-315
+307

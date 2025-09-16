@@ -1,25 +1,17 @@
-## What the Literature Says About Wrongful Termination
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 9c44c7ea29ea8d86992365180cf34583f550ae51
+title: california_state_university_northridge_1
+---
+# country.
 
-In an article written by Charles E. Ramirez, titled "Employee Handbooks are Essential
+In short, it can be said that the internal mechanisms presented, are designed to
 
-at the Workplace" focuses on the importance and benefits of a handbook. Mr. Ramirez begins
+have employees solve problems, work towards a solution, and maintain their employment.
 
-stating that employee handbooks are not read by most employees and new hires in particular.
+It can also be said that preventive measures are tools an employer has to establish a work
 
-He also points out that this is the place where the new employee can obtain a sense of the
+place that is prepared to deal work related problems once they arise.
 
-organizational culture. By determining the organizational culture, the employee is able to
-
-identify what is deemed to be important and gain a sense of the value system. If a new
-
-employee is able to obtain an idea of the culture then he or she will be able to navigate
-
-through different challenges they may be faced with.
-
-Also, Ramirez mentions some basic things that are contained in the handbook. The
-
-basics that can be found in a handbook are, dress code, rules and regulations, attendance and
-
-equal employment policies. Aside from the background about an organization, the basics that
-
-were listed are the main rea.~on for writing a handbook. There were no remark.s regardirlg
+8

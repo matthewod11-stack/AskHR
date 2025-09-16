@@ -1,23 +1,25 @@
-# Minimizing Rater Errors
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 2970046ac5d2bd77a030f10ccf8f24e67adcbbc9
+title: document_resume
+---
+# Performance Appraisal
 
-Sonk of the ideas Klimoski provides to create this Llimate include the following:
+Many of the suggestions presented in previous sections of this chapter are focused on providing this necessary standardization. For example, the proper appraisal instru- ment must be chosen so that all raters are using the same dev ice. Rater selection, training, and involvement are intended to ensure that all raters share a common view- point and understanding of the appraisal process. The techniques described in the previous two sections are designed to make certain that there is standardization in the observation and recording of key instances of actual behavior.
 
-I. Top management must establish and support specialists within the organization itself who are capable of de\ eloping and implementing appraisal systems.
+However, there are other factors in the appraisal setting which also must be consid- ered. For example, William Sauser, Carlos Arauz, and Randall Chambers found that the level of background noise present when ratings were produced could have a signifi- cant effect on those ratings." Other contextual factors w filch have been found to influ- ence ratings include the presence of higher-level supervisors in the room where ratings are produced, the number of ratees evaluated in one session, the presence of environ- mental stressors, and the time available for making the ratings.59
 
-- 2. Top management must personally use aud demonstrate careful assessment of its own staff. Actions speak louder than words.
+Administrators who are serious about reducing the possibility of error in perfor- mance appraisals should consider standardizing such contextual factors as the time and place in which ratings are done, the number of ratees to be appraised at one time, and the presence of supervisors, trainers, and other persons when ratings are being produced. It should be obvious that a rater who is trying to evaluate 35 subordinates in an hour while working in a hot, crowded, noisy room late at night will quite likely pro- duce different scores than when evaluating five subordinates in an entire morning while working in quiet, comfortable surroundings.
 
-- 3. Careful performance assessment should be made an explicit part of each It may even be written into a job manager's job responsibility. descrip'ion.
+To maintain fairness for all ratees, the administrator should ascertain that all ratings are produced under the same standardized environmental conditions. This may require, for instance, that a specified time and place be established at which all raters will per- form their work.
 
-- 4. Make use of appraisal data in corporate decisions affecting staffing. . Decisions with regard to promotions, to reductions in force, or to salary adjustments should be based, at least in part, on assessed performance.62
+- 9. Motivate the raters to do a good job.
 
-Commitment from the top has long been reLognized as the key to successful implementation of any organization-wide program. Klimoski has proxided excellent advice to be followed by administrators who w ant to demonstrate a real Lommitment tc the implementation of a valid performance appraisal system.
+No matter how sophisticated a performance appraisal sy stem has been established,
 
-- 10. Maintain the quality of the program.
+no matter how well the raters have been trained, no matter how many observations of behavior have been recorded, no matter how carefully the context has been standard- ized, there still remains an essential factor which heavily influences the validity of the ratings obtained. "individual raters and their motivation or hick of motivation) to rate accurately. "60
 
-Any administrator who follows the nine suggestions desmbed tiboke when devel- oping and implementing a perfonuanLe appraisal program will most likely Lonstruct an lloweer, just like the outstanding system which will produce valid, useful results. finest automobiles, perform:I-IL,: appraisal systems must be properly maintained if they are to continue to operate at optimal levels.
+Richard Klimoski makes the following obsery anon concerning this crucial factor.
 
-The administrator who wishes to maintain an expellent systi:m should make certain that appraisal forms and obsen ational aids are kept rele ant and up-to-date, particularly when job content has changed. New superisors must be properly trained, and all raters should be given periodic "refresher Louses' to make certain they are Lontinumg to interpret and use the scales in the presubed manner. Statistk.al analyses should be per- formed to monitor the reliability and k aliduy of performance appraisal ratings.6' Raters should be periodically reminded of the importance of accurate ratings, and reinforced for doing a good job of appraising and de\ elopiniz subordinates. Finally, the entire appraisal prot,ess should be subjected to a peinAlk program eN, Autumn to make certain that it is still meeting the objeLtik es originally esta)lished tw itand re ised if it is not, or if the objectives have changed.
-
-Within this context of progi tni ek A11,16011 lot performance appraisal systems, the
-
-administrator should attend to the :,age words of K ujaw ski and Young
+issue of motivation toward accuracy must be (Ultimately) the critical confronted But, in my opinion, it can only be dealt with by creating a climate or ethic for careful and ':onsidered employee assessment. I also feel that prime responsibility for doing this lies with upper management, and especially with the chief executive officer.6I

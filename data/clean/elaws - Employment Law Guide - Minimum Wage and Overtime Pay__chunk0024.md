@@ -1,15 +1,21 @@
-# and institutions of higher education; and Federal, state, and local government agencies.
+---
+source_path: elaws - Employment Law Guide - Minimum Wage and Overtime Pay.md
+pages: n/a-n/a
+chunk_id: 5b7fcbff05027c6841f64c081206b4f4b8a06b98
+title: elaws - Employment Law Guide - Minimum Wage and Overtime Pay
+---
+# establishes standards for minimum wages, overtime pay, recordkeeping, and child labor. These standards
 
-Employees of ﬁrms that do not meet the $500,000 annual dollar volume threshold may be covered in any
+aﬀect more than 135 million workers, both full time and part time, in the private and public sectors.
 
-workweek when they are individually engaged in interstate commerce, the production of goods for interstate commerce, or an activity that is closely related and directly essential to the production of such goods.
+The Act covers enterprises with employees who engage in interstate commerce, produce goods for interstate
 
-In addition, the Act covers domestic service employees, such as housekeepers, cooks, gardeners, nurses, or
+commerce, or handle, sell, or work on goods or materials that have been moved in or produced for interstate
 
-home health aides, if they work in a private home. These employees are subject to the minimum wage and
+commerce. For most ﬁrms, a threshold of $500,000 in annual dollar volume of business applies to be covered
 
-overtime provisions if they receive at least $2,200 in 2020 from one employer in a calendar year, or if they work
+(i.e., the Act does not cover enterprises with less than this amount of business).
 
-a total of more than eight hours a week for one or more employers. (This calendar year wage threshold is set by the Social Security Administration each year, and can be found at
+In addition, the Act covers the following regardless of their dollar volume of business: hospitals; institutions primarily engaged in the care of the sick, aged, mentally ill, or disabled who reside on the premises; schools
 
-https://www.ssa.gov/oact/cola/CovThresh.html). For additional coverage information, see the Wage and Hour
+for children who are mentally or physically disabled or gifted; preschools, elementary and secondary schools,

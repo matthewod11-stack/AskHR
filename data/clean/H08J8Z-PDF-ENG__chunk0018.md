@@ -1,13 +1,23 @@
-# What Companies Can Do to Build Trust
+---
+source_path: H08J8Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40f90157568e0b718cf59d1a62b3d1f377e4de97
+title: H08J8Z-PDF-ENG
+---
+# terms of their current employment.
 
-In an organizational context, consent is more than a formality — it’s the
+While 52% of hiring managers thought their most recent hire was
 
-foundation of a trusting, productive relationship. However, our research
+fully informed of the terms of their employment and 65% thought
 
-shows that people in charge of soliciting consent in organizations often
+they had fully consented to these terms, only 20% of employees felt
 
-overestimate how informed employees feel when they agree to policies,
+fully informed of the terms of their employment and only 39% felt
 
-contracts, and even take on extra work tasks. This miscalculation can
+that they had fully consented to them. Further, employees who felt
 
-have direct costs for organizations in terms of employee disengagement
+uninformed at the outset of their roles were more likely to disengage,
+
+perceive their workplace as unfair, and develop strained relationships
+
+with supervisors. They were also more likely to consider quitting.

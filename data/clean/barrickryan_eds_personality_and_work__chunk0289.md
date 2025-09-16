@@ -1,5 +1,11 @@
-# Citizenship Performance
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 01894964d4c943a298aaf01145f6941db7c1e0db
+title: barrickryan_eds_personality_and_work
+---
+# PERSONALITY AND JOB PERFORMANCE 89
 
-Borman and Motowidlo (1993) proposed a model of performance with two components at the highest-level: task performance and contextual performance. Task performance consists of activities that (1) directly transform raw materials into the goods and ser- vices produced by the organization or (2) service and maintain the technical core by replenishing supplies, distributing products, and providing planning, coordination, supervising, and staff functions that allow for efﬁcient functioning of the organization (Motowidlo, Borman, & Schmit, 1997). Contextual performance consists of ac- tivities that support the broader environment in which the tech- nical core must function, including behaviors such as volunteering for tasks not formally part of the job, demonstrating effort, help- ing and cooperating with others, following organizational rules and procedures, and supporting organizational objectives (Borman & Motowidlo, 1993).
+- Demonstrate effort • Maintain personal discipline • Facilitate peer and team performance • Supervision/leadership • Management/administration
 
-Contextual performance is similar in deﬁnition to Organ’s (1988) organizational citizenship behavior (OCB), as well as other concepts such as prosocial organizational behavior (Brief & Moto- widlo, 1986), extra-role behavior (Van Dyne, Cummings, & Parks, 1995), and organizational spontaneity (George & Jones, 1997). The primary difference between the deﬁnitions of OCB and contextual performance is that OCB was deﬁned as extra-role, discretionary, and not formally recognized or rewarded by the organization. Organ (1997) recognized the lack of clarity this brought to the construct and reﬁned the deﬁnition to make it more or less syn- onymous with contextual performance. Contextual performance, OCB, and related concepts are now often referred to as the same
+This model is a useful starting point to which more speciﬁc di- mensions can be added based on recent research on citizenship performance, adaptive performance, and managerial performance.

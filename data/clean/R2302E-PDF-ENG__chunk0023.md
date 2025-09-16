@@ -1,27 +1,37 @@
-## HBR / Magazine Article / You Need Two Leadership Gears
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b33e8b37857bcd5268506f78cb677f00fce907f3
+title: R2302E-PDF-ENG
+---
+## in the exercise-authority mode, with the CEO dominating discussions
 
-should have been made and carried out. Their leaders need to step in
+and decisions. Though that mode had made sense when the company
 
-and force closure, but they don’t. We’ve seen numerous start-ups fail
+was navigating a series of crises, including a corporate turnaround
 
-because of this phenomenon. For instance, at one we studied, the two
+and the pandemic, it was now hurting team members’ ability to make
 
-cofounders couldn’t determine which of them should be the CEO—even
+contributions, argue over ideas, and innovate. We worked with the CEO
 
-though investors had asked them to do so— and struggled to make
+and the team to embrace and live the mantra “debate, commit, and act.”
 
-decisions about how to build their product (what dimensions it should
+We taught them how to use tools such as assigning a diﬀerent member
 
-be) and get it to market (which segment to target ﬁrst). With no clear
+to serve as devil’s advocate during each meeting. And we introduced
 
-decision-maker, they stagnated in an endless back-and-forth. Frustrated
+a 360-degree feedback system that helped members relearn when and
 
-with the stalled product development, their investors pulled the plug.
+how to speak up and debate openly in team meetings.
 
-- 3. Set Expectations
+If your team has trouble changing modes, look at the agendas for your meetings. Do they clearly indicate when you want to discuss ideas and when it’s time to make a decision?
 
-Skilled leaders aren’t coy or subtle about when to operate in one
+Other teams have the opposite problem. They can’t stop brainstorming
 
-power mode or the other. They send crystal clear signals about the
+and debating and are still trying to reach consensus long after a decision
 
-modes people will work in before meetings, programs, tours, or other
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

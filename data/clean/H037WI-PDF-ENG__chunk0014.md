@@ -1,7 +1,15 @@
-## Additionally, discrimination against immigrants in labor markets may
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa5dd63892c4f121d94739e7cdc5d7946c84d4ae
+title: H037WI-PDF-ENG
+---
+## HBR / Digital Article / Why Are Immigrants More Entrepreneurial?
 
-exert pressure on them to seek self-employment.
+Research has suggested that selection and discrimination eﬀects may
 
-In a recent study, we investigated a diﬀerent explanation: Cross-
+be driving this phenomenon. It appears plausible that entrepreneurial
 
-cultural experiences may increase individuals’ capabilities to identify promising business ideas. By living in diﬀerent cultures, they encounter
+individuals are more likely to migrate and that immigration policies
+
+in many countries favor highly motivated and capable individuals.

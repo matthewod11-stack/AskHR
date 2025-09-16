@@ -1,9 +1,15 @@
-## HBR / Digital Article / How CEOs Hone and Harness Their Intuition
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fab5ffa8802832265087ae3c5fc07379238dd82f
+title: H08SY7-PDF-ENG
+---
+# internal clicked.
 
-That moment—that ﬂash of recognition—is what many people call gut
+They couldn’t explain it fully at the time—but they “just knew.”
 
-feel. In the world of executive decision-making, it’s often misunderstood
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-as impulsive or emotional. But in reality, it’s something more nuanced
+1
 
-and more powerful: the output of a process called intuition.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

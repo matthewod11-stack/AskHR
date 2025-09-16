@@ -1,5 +1,7 @@
-# The Employment Law Guide is oﬀered as a public resource. It does not create new legal obligations and it is
-
-not a substitute for the U.S. Code, Federal Register, and Code of Federal Regulations as the oﬃcial sources
-
-of applicable law. Every eﬀort has been made to ensure that the information provided is complete and accurate as of the time of publication, and this will continue.
+---
+source_path: Employment Law Guide - Prevailing Wages in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: 0fdc5e608dcdf0bf0f70fed96e96f450fba6dce4
+title: Employment Law Guide - Prevailing Wages in Construction Contracts
+---
+# relay services.

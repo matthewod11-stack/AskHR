@@ -1,17 +1,23 @@
-# functionality
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e2b5d2d73b381ecba8a7670cf9ffcdb8f8e8e1a
+title: H08SNU-PDF-ENG
+---
+## The Triple Test for Subtractive Strategies
 
-- Prominence: Ensuring visibility and appeal to stakeholders
+The eﬀective use of subtraction requires a holistic approach that
 
-Relentlessly slimming a system for pure eﬃciency can leave it brittle
+considers multiple performance dimensions beyond eﬃciency. Begin
 
-and invisible, eroding long-term value instead of creating it. For
+by asking, “How can we innovate in turbulent times by subtracting to
 
-example, when ﬁrms pursued “just-in-time” inventory as the ultimate
+improve eﬃciency, strengthen resilience, and elevate our prominence?”
 
-cost saver, many discovered during the Covid-19 shock that a penny shaved oﬀ warehousing was quickly lost to plant shutdowns, empty
+For any innovation to thrive in 2025’s complex landscape, the use of
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+subtraction must include three interrelated business performance goals:
 
-2
+- Eﬃciency: Minimizing resources, time, and eﬀort
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Resilience: Adapting to disruptions and maintaining core

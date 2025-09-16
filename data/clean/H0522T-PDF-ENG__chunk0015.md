@@ -1,17 +1,23 @@
-## sexual harassment. Within organizations, human resource departments
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c7f516f7a2d69fa6863c519eae9886a9df885d3
+title: H0522T-PDF-ENG
+---
+## one’s self-esteem from the stigma of harassment.
 
-need to maintain this as a priority, by oﬀering bystander intervention
+The women we interviewed told us that the #MeToo movement helped
 
-training, having clear zero-tolerance policies on sexual harassment, and
+them realize that they were not alone in their experiences. A marketing
 
-responding dutifully to complaints.
+executive in her late thirties explained, “I started seeing [#MeToo posts]
 
-Several women told us that it is imperative that human resource
+coming in, and I was just like, ‘Oh my gosh, they’re being so brave.
 
-departments remain vigilant in responding to concerns around
+Telling very personal stories that I never knew about.’….It isn’t like I’m
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+vindicated; it is more, I’m validated.”
 
-3
+What should companies and managers be doing now? On the most basic
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+level, we need to continue to highlight the importance of preventing

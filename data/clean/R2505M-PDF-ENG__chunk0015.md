@@ -1,13 +1,23 @@
-## HBR / Magazine Article / Why You Need Systems Thinking Now
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1640f4b086d666b450bde77a7016e060afa95d7
+title: R2505M-PDF-ENG
+---
+## Uber didn’t work with local authorities and taxi companies when it
 
-When it works, breakthrough thinking delivers huge rewards for its
+launched its services in new cities—it just did it. The mindset of these
 
-practitioners. But it can also create a lot of collateral damage. When
+and other Silicon Valley companies is to move forward and worry about
 
-Google rode roughshod over privacy and IP laws, it became the
+the consequences later. Like Alexander the Great, they make progress
 
-target of a signiﬁcant public outcry and found itself facing many
+by slicing through the Gordian knot of a complex problem, rather than
 
-legal challenges. Uber put many taxi drivers out of business, and its
+attempting to unpick it.
 
-gig workers lack many of the beneﬁts and protections of full-time
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

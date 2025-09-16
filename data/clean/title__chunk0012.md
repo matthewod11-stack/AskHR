@@ -1,5 +1,13 @@
-# Business Review 87(7-8), 78–84.
+---
+source_path: title.md
+pages: n/a-n/a
+chunk_id: 4a98c8009f4713bb929c3edec507247bdc4d037f
+title: title
+---
+# References
 
-Bandiera, O., I. Barankay, and I. Rasul (2005). Social preferences and the response to incentives: Evidence from personnel data. The Quarterly Journal of Eco- nomics 120(3), 917–962.
+Al-Ubaydli, O., G. Jones, and J. Weel (2013). Patience, cognitive skill, and coordination in the repeated stag hunt. Journal of Neuroscience, Psychology, and Eco- nomics 6(2), 71.
 
-Barr, A. and P. Serneels (2009). Reciprocity in the work-
+Almlund, M., A. L. Duckworth, J. J. Heckman, and T. D. Kautz (2011). Personality psychology and economics. Technical Report w16822.
+
+Ariely, D. (2009). The end of rational economics. Harvard

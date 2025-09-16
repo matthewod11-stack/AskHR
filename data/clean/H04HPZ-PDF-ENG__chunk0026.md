@@ -1,15 +1,11 @@
-## procedures in the Faragher v. City of Boca Raton and Burlington v.
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e2b7ce27963e5c9fd460b7d8d72c75ee2a09a25
+title: H04HPZ-PDF-ENG
+---
+## an anti-harassment policy and complaint procedure in place.
 
-Ellerth cases, which were decided together. The HR profession did not
+In 1998, the Supreme Court — citing the 1980 EEOC guidelines —
 
-sit back idly during the arguments. The Society for Human Resource
-
-Management (SHRM), the ﬁeld’s professional association, ﬁled an
-
-amicus brief in the Faragher case arguing that employers should be aﬀorded legal protection when they create anti-harassment policies.
-
-SHRM also wrote that employers, rather than courts, were best suited
-
-to address sexual harassment. In its own amicus brief in the Faragher
-
-case, the EEOC distinguished between two types of harassment: quid
+explicitly addressed the issue of anti-harassment policies and complaint

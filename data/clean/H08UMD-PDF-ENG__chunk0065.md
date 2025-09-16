@@ -1,5 +1,7 @@
-# CEO Departures Are Increasing
-
-Last year 202 global CEOs left their posts, surpassing the six-year
-
-average of 186 and reﬂecting a 13% increase over 2023. (“The
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19ba62bafb738addcdb4b23443bebb3090e54709
+title: H08UMD-PDF-ENG
+---
+# Pulse of Change, 2025.”)

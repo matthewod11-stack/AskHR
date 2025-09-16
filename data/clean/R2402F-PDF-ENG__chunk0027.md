@@ -1,31 +1,17 @@
-## HBR / Magazine Article / Nurturing Innovation
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72057072f728d08fefbf0483d13a4d54ee71af13
+title: R2402F-PDF-ENG
+---
+## daily operations of a functioning business.
 
-the founder of a venture in last-mile distribution, who was working
+Creating a road map for a collaboration is a complicated undertaking,
 
-with an entrepreneur developing biotech solutions. Their teams had
+and getting an outside perspective can be incredibly helpful. Consider
 
-started working together to deliver health care products to isolated
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-communities during the pandemic. “You need time and space to get
+6
 
-to know the partners, do the right expectations management, and
-
-understand what exactly it is you’re trying to achieve together, and that
-
-honestly needs to be facilitated,” the founder explains.
-
-Another UI fellow echoes that sentiment. “A collaboration requires
-
-external support, like a third-party strategist who says, ‘here’s how
-
-you guys can align’ to help design and facilitate the next steps.” All
-
-the fellows we spoke with highlighted the challenge of moving from
-
-a shared idea and the early excitement of the collaborative encounter
-
-to establishing a collaboration infrastructure (roles, leadership, project
-
-management needs, and team dynamics) while reﬁning the idea of the
-
-product or service to work on together. The UI program provided them
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,1 +1,7 @@
-# Age
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: c70560f3b2e07f1e0a7a915f6c9d82cb93f10722
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Variable

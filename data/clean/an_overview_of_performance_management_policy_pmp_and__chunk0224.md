@@ -1,25 +1,15 @@
-# 3.19 Promotion Form:
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: b6fff4997040b83572dee0b6893e9ff96451e86c
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# 3.18 Promotion Recommendation Approval:
 
-Advisory group will evaluate the appropriateness of up-and-comers by thinking about the
+The promotion review committee shall assess the suitability of candidates by considering the
 
-advancement proposals. After finish of all the advancement selection, it should be affirmed
+promotion recommendations. After finalization of all the promotion nomination, t needs to be
 
-by individual specialty units Head. No advancement across the organization will be finished
+approved by respective business units Head. No promotion across the company will be finalized or
 
-or imparted before endorsement from the top administration audit board.
-
-26
-
-(cid:32)
-
-(cid:32)
-
-3.20 REWARD AND RECOGNITION POLICY:
-
-City Bank Limited (CBL) feels that the individual and collaboration and performance should
-
-be consistently valued and perceived to keep its employees persuaded to give in their earnest
-
-attempts. Also, more significantly by perceiving these exhibitions, we strengthen, with its
-
-picked methods for acknowledgment, the activities and practices we need CBL employees to
+communicated before approval from the top management review committee.

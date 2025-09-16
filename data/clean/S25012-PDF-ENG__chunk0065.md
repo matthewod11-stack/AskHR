@@ -1,9 +1,19 @@
-## HBR / Spotlight / The Secret to Successful AI-Driven Process Redesign
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69e9193b7b0bd63a28181fcb5a45073ff2294f82
+title: S25012-PDF-ENG
+---
+# equation.
 
-H. James Wilson and Paul R. Daugherty are the authors of Human + Machine: Reimagining Work in the Age of AI, New and Expanded Edition (Harvard Business Review Press, 2024), from which this article is adapted.
+Even in the face of increasing machine autonomy, processes remain
 
-Buy it here
+human-centered. In the coming age of autonomous agents, that will be
 
-A version of this article appeared in the January–February 2025 issue of Harvard Business Review.
+one of the keys to kaizen.
 
-H. James Wilson is the global managing director of technology research and thought leadership at Accenture Research. He is the coauthor, with Paul R. Daugherty, of Human + Machine: Reimagining Work in the Age of AI, New and Expanded Edition (HBR Press, 2024).
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

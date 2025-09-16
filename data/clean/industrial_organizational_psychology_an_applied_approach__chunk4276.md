@@ -1,7 +1,9 @@
-## Kozlowski, S. W., Kirsch, M. P., & Chao, G. T. (1986). Job
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c803c7c6832843eea03f9cad608bca71583ca03c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Harvard Business School Press.
 
-knowledge, ratee familiarity, conceptual similarity and halo error: An exploration. Journal of Applied Psychology, 71, 45–49.
-
-Kraiger, K., & Ford, J. K. (1985). A meta-analysis of ratee race eﬀ ects. Journal of Applied Psychology, 70, 56–65. Kravitz, D. A., Harrison, D. A., Turner, M. E., Levine, E. L., Chaves, W., Brannick, M. T., Denning, D. L., Russell, C. J., & Conard, M. A. (1997). A review of psychological and behavioral research on aﬃ rmative action. Bowling Green, OH: Society for Industrial and Organizational Psychology.
-
-Kravitz, D. A., & Platania, J. (1993). Attitudes and beliefs about aﬃ rmative action: Eﬀ ects of target and of respondent sex and ethnicity. Journal of Applied Psychology, 78(6), 928–938.
+Kovach, R., Surrette, M. A., & Whitcomb, A. J. (1988, January). Contextual, student, and instructor factors involved in college student absenteeism. Paper presented at the 10th annual National Institute on the Teaching of Psychology, St. Petersburg, FL.

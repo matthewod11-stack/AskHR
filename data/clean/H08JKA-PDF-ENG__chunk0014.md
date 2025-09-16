@@ -1,11 +1,19 @@
-## sales, supply chain, ﬁnance, and legal come together for two days to
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bfb3e13296056a604100ca6dd5294af6d2a1df4
+title: H08JKA-PDF-ENG
+---
+# business impact.”
 
-learn how to sell wine online. The game takes place on real platforms,
+L’Oréal has practiced a cross-functional approach to learning for nearly
 
-teaching leaders about digital ads, web analytics, customer experience,
+a decade. In 2015, then-CEO Jean-Paul Agon committed the company to
 
-and brand positioning. CLO Nicolas Pauthier credits this program with
+shift e-commerce revenue from single-digit percentages to 20% of total
 
-playing a signiﬁcant role in achieving L’Oréal’s ambitious e-commerce
+sales. This required a massive shift in the mindset and skills of leaders.
 
-goals. In 2023, L’Oréal’s revenue from e-commerce was 27% of total
+To achieve this, L’Oréal launched a leadership simulation called the
+
+“wine game,” in which leaders from general management, marketing,

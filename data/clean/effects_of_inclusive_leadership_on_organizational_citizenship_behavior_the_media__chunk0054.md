@@ -1,9 +1,7 @@
-# Degree of mediation
-
-Inclusive leadership → Organizational justice → Organizational citizenship behaviors (H6) Inclusive leadership → Organizational learning culture → Organizational citizenship behaviors (H7)
-
-.123***
-
-.033*
-
-.585***
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: fc88de75a8f7ad43359ed04dc0fd45296fa1ed0f
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# Coefficient

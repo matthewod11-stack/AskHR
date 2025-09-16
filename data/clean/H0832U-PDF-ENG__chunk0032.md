@@ -1,15 +1,55 @@
-## HBR / Digital Article / Leading the 6-Generation Workforce
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b5364debdf589b73cc57b010fe039a1c412ed60
+title: H0832U-PDF-ENG
+---
+## joy and maybe even commitment to the organization.
 
-their own personal sense of purpose while coming together with others
+- 5. Center purpose as the great intergenerational unifier.
 
-to fulﬁll the organization’s purpose at the same time.
+The tensions between older and younger workers are not new. Now,
 
-Each of these ﬁve steps can help leaders build healthy 6G organizations
+some human capital futurists believe that we are on our way to a post-
 
-that are designed for intergenerational sustainability in the workplace
+generational workforce environment — a paradigm that suggests the
 
-and the marketplace. Giving each generation — and, importantly, each
+path forward might be to transcend generational diﬀerences instead of
 
-individual — the opportunity to be seen, understood, valued, and
+overly focusing on them. Deloitte’s 2020 Global Human Capital Trends
 
-leveraged in the workplace throughout the course of their career is
+survey suggests that the post-pandemic workforce may be characterized
+
+by greater cross-generational alignment regarding what people want out
+
+of work (such as meaning, purpose, and growth). This means leaders
+
+have the opportunity to capitalize on that intergenerational alignment
+
+by designing organizational life around the importance of purpose.
+
+Centering personal and organizational purpose represents a critical
+
+opportunity for leaders on the quest to build sustainable 6G
+
+organizations. It’s not just members of the younger generations who
+
+are motivated by purpose, preferring to work for organizations that
+
+make a positive diﬀerence. McKinsey reports employees at all levels
+
+want purpose in their lives. Embracing this commonality elevates
+
+the conversation around the company’s purpose, why it matters, how
+
+it is experienced by colleagues, customers, and clients. To do this,
+
+leaders must move beyond the marketing spin and commit to helping
+
+colleagues see how working in their organization can help them activate
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

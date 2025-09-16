@@ -1,13 +1,17 @@
-# HBR / Digital Article / The 4 Key Strengths of China’s Economy — and What They Mea…
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73c0d371b0601e06fabab448da40b218a6704025
+title: H08D71-PDF-ENG
+---
+# luxury goods, and industrial equipment.
 
-demand for consumer purchases ranging from tech-laden EV cars to the
+China’s large tech-savvy consumer base, bolstered by an expanding
 
-latest luxury products. A report from Bain suggests China is expected
+middle class and increasing disposable income, has driven substantial
 
-grow to as much as 40% of global luxury spending by 2030. In 2022,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-the Chinese luxury e-commerce market was valued at approximately
+7
 
-$74 billion. Before Covid, which restricted Chinese foreign travel and
-
-consumer expenditure, tourists, a majority from China, made up 40% of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

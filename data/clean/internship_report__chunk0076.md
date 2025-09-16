@@ -1,19 +1,17 @@
-## 2.9(cid:32) Corporate Social Responsibility (CSR)
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 002210121231fe1c7e57a7cc2b255e599ed86ccb
+title: internship_report
+---
+## 2.8(cid:32) Sister Concerns and Associates of Karnaphuli Group
 
-Karnaphuli firmly believes that it is a responsibility of successful organizations to give back to
+The followings are the sister concerns and associates of Karnaphuli Group.
 
-society and intervene, engage and assist in areas where it is necessary to do so.
+- (cid:32) Karnaphuli Limited (cid:32) Karnaphuli Works Ltd. (cid:32) Karnaphuli Industries Ltd. (cid:32) Desh Television Limited (cid:32) VOICETEL Limited (cid:32) Republic Insurance Company Limited (cid:32) Container & Terminal Services Ltd. (cid:32) Karnaphuli Group Shipping Company (BD) Ltd. (cid:32) PIL (BD) Limited (cid:32) Regensea Lines Limited (cid:32) Finvest Services Ltd. (cid:32) Holy Crescent Hospital Limited
 
-Accordingly, in its quest to be a good corporate citizen, Karnaphuli contributes towards
+HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:56)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
 
-charitable causes. It also provides relief and humanitarian assistance during natural calamities
+(cid:32) (cid:32) (cid:32) (cid:32)
 
-which from time to time afflict the country. Through activities of "Shobujmoti Trust" it supports
-
-free health care and educational stipends / scholarships to the vulnerable and disadvantaged as
-
-well as micro credit operations too the urban poor. Karnaphuli also believes that it has to be
-
-environmentally sensitive and responsive and promote these concepts in deeds rather than words.
-
-This is reflected in its "Karnaphuli Green" real estate project which is planned to be
+- (cid:32) HR Holdings Limited (cid:32) HR Securities & Investment Ltd. (cid:32) K & T Logistics Ltd. (cid:32) Sea Consortium Bangladesh Ltd. (cid:32) Travelscene Ltd. (cid:32) Mediascene Limited (cid:32) Sanarc

@@ -1,9 +1,11 @@
-# Human trainers
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: d9417d2af23802d376a534737673048051dc04b2
+title: a_i_i_n_t_h_e
+---
+# Summarization
 
-Comparing AI results to responses from expert advisors, grading for accuracy and relevance.
+Evaluating how a model condenses information, using´ agreed-upon-metrics for accuracy, relevance, and coherence.
 
-These evals—and others—gave Morgan Stanley the con]dence to start rolling the use cases´ into production.
-
-6
-
-AI in the Enterprise
+03

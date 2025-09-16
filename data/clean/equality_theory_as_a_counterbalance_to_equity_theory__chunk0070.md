@@ -1,1 +1,13 @@
-## Martin, J. (1992). Cultures in organizations: Three perspectives. New
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: 9691dc2f23bb4737e8865179d59c67f580c61686
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+## Journal of Business Ethics, 101, 577–599.
+
+Locke, J. (2010). The second treatise of government and a letter concerning toleration. New York, NY: Createspace Publishers (Original work published in 1689).
+
+Mannix, E. A., Northcraft, G., & Neale, M. A. (1995). Equity, equality or need? The effects of organizational culture on the allocation of beneﬁts and burdens. Organization Behavior and Human Decision Processes, 63(3), 276–286.
+
+Marin, G. (1981). Perceiving justice across cultures: Equity vs equality in Columbia and in the United States. International Journal of Psychology, 16, 153–159.

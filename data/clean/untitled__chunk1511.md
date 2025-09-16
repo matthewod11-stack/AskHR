@@ -1,5 +1,9 @@
-## Collaboration and Power Sharing in Therapy
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1d808f9092b1fe0a4cb3902a2498c465c34f558d
+title: untitled
+---
+# Valuing Women’s Ways of Being
 
-Attention to the power relations between therapists and clients has been a distinctive feature of feminist therapy. Feminist therapists were among the ﬁrst to disseminate mate- rials to clients and potential clients informing them about the nature of therapy, how to go about selecting a therapist, and their rights as consumers. Feminist therapists have experi- mented with a variety of other ways to put the therapy relationship on a more equal footing. One is the practice of self-disclosure, for example, the disclosure that the therapist has struggled with issues akin to those the client faces. Other disclosures may show clients that their therapists are ordinary and fallible human beings. There are both ethical and theo- retical considerations that govern the use of self-disclosure;
-
-259
+In Toward a New Psychology of Women, Jean Baker Miller (1976) addressed women’s experiences of subordination in the intimate setting of marriage and family life. Although her observations were limited mainly to white, middle-class, heterosexual women, she argued that women in general were endowed with special capacities for intuition, empathy, and relatedness, as well as a propensity for nurturing and caring for others. Miller celebrated these universal feminine characteristics as “closer to psychological essentials” and “therefore, the bases of a more advanced form of living” (p. 27). Subsequently, others put forward a variety of related claims about women’s experience and personality. The prime example is a model of women’s development origi- nally called the self-in-relation model and now named the relational/cultural model (Jordan, Kaplan, Miller, Stiver, & Surrey, 1991). The model holds that childhood experiences, particularly mother–daughter interactions, give rise to a uniquely feminine psychology, one that is sustained by and seeks out emotional connections. Although some schol- ars have raised doubts about the model (Marecek, 2001; Westkott, 1989), the self-in-relation model has been a popu- lar framework for many feminist-identiﬁed therapists and counselors.

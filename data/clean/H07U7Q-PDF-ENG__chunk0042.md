@@ -1,11 +1,17 @@
-# balance that?
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d39ef535f51d7b80771fec57a99dc22f38881637
+title: H07U7Q-PDF-ENG
+---
+# proud of.
 
-JASON BUECHEL:
+ADI IGNATIUS:
 
-We’ve done a return to oﬃce where our store support team members are required to be in the oﬃce three days a week, but ultimately many of
+Let’s shift gears a little bit. This is another audience question, from
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Punjab, Pakistan, and it’s about hybrid work. How do you manage the
 
-12
+fact that your frontline workers need to be there full-time in the stores,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+versus white collar workers who are able to work hybrid? How do you

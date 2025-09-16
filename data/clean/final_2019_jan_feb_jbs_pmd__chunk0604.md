@@ -1,1 +1,11 @@
-# Table-8: Earnings per share (EPS) of select Non-banking financial companies in India
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 0e99c82a5f5125aae93f3e4d693bc9ccce588f0c
+title: final_2019_jan_feb_jbs_pmd
+---
+# ISSN 2393-9451
+
+Inference: Table 7 is showing profit before tax per shareof select Non-banking financial companies in India from year 2007 to 2016. The average profit before tax per shareof Bajaj Finance (135.57) was highest and averageprofit before tax per shareof Mahindra &Mahindra Financial Services (38.68) was lowest. But standard deviation and coefficient of variation ofprofit before tax pe r sharewas highest for Bajaj Finance (123.16, 90.80%).
+
+Deviation of actual profit before tax per sharefrom average profit before tax per sharewas highest forBajaj Finance.Standard deviation and coefficient of variation of profit before tax per sharewas lowest for Sundaram Finance (20.89, 31.67%).It means the deviation of actual profit before tax per sharefrom average prof it before tax per sharewas very low for Sundaram Finance. The profit before tax per shareSundaram Finance was very stable during the period of observation.

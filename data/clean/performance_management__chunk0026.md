@@ -1,7 +1,11 @@
-# 82 ORGANIZATIONAL DYNAMICS
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: 757d1c0edd4aac9a17d24b640714414f68284e41
+title: performance_management
+---
+# least
 
-ceived similarities regarding extraversion, conscientiousness and emotional stability.
+two supervisors,
 
-in this new millennium, people who smoke are rated lower than non- smokers comportment, working with others, and dependability. Smokers are viewed as wasting valuable production time as a result of leaving for designated smoking areas.
-
-Interestingly,
+The U.S. Army showed that one’s knowl- edge and ability explained only a very small part of an appraisal from one’s supervisor and peers. The supervisor’s positive regard for a subordinate resulted in both positive leniency and halo errors, and little inclination to punish poor performance. Other studies have found that the perceived similarity of the subordinate by the supervisor inﬂates appraisals in the private and public sectors. This is especially true with regard to per-

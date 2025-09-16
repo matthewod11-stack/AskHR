@@ -1,15 +1,19 @@
-# reward employees for those ideas.
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59734ff3fab093086fbd83b816e4bdebf52f9c04
+title: H06V9A-PDF-ENG
+---
+## HBR / Digital Article / The Unintended Consequences of Asking for Employee Input
 
-Of course, this is not to suggest that managers shouldn’t invite their
+come up with and express their ideas. Rather than rewarding employees
 
-employees to contribute ideas. Explicitly soliciting input is a great
+for that eﬀort, we found that managers would often take credit
 
-way to gather new, innovative ideas from employees who might not
+themselves for creating an environment that they felt had enabled
 
-otherwise feel comfortable or conﬁdent enough to speak up. But our
+employees to speak up. In other words, soliciting input led managers
 
-research illustrates how it can also make managers less likely to reward
+to assume (consciously or subconsciously) that their employees were
 
-employees for speaking up, and thus potentially reduce employees’
-
-motivation to continue sharing their ideas.
+only speaking up because they were asked to, making them less likely to

@@ -1,13 +1,17 @@
-# superior predictive performance.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 7ddd244ae4fe1773537d32c2a9841efd7d93157f
+title: i
+---
+# 3.6 Conclusion from analysis
 
-Despite random forest's superiority after tuning, it's noteworthy that even without
+Based on the conducted analysis utilizing logistic regression, decision tree, and random forest
 
-hyperparameter tuning, the random forest still outperformed the other methods, showcasing its
+algorithms to predict employee attrition, several key conclusions can be drawn:
 
-robustness and versatility in handling data with minimal parameter optimization.
+Random forest, particularly after tuning hyperparameters, emerged as the most effective
 
-The performance of logistic regression, while a commonly used method, fell short compared
+method for predicting employee attrition. This indicates that the ensemble approach of
 
-to both random forest and decision tree models. This suggests that the linear relationship
-
-assumptions of logistic regression might not capture the complexity and non-linearity present
+combining multiple decision trees and utilizing bootstrapping and feature randomness leads to

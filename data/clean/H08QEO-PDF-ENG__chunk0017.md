@@ -1,15 +1,23 @@
-# fulﬁllment in their tasks.
+---
+source_path: H08QEO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d20bb9e79f5dbc6ff92097eed83231489d4f0c87
+title: H08QEO-PDF-ENG
+---
+# HBR / Digital Article / Research: Gen AI Makes People More Productive—and Less Mo…
 
-- 4. Rotate Between Tasks: Organizations can sustain both productivity
+after drafting AI-supported emails, assign a task that allows workers
 
-and engagement by structuring workﬂows that alternate between
+to be in control of designing a new project. These tasks allow
 
-AI-assisted and independent tasks. Rather than clustering similar
+employees to exercise their skills, creativity, and decision-making
 
-task types, managers can sequence the day to begin with cognitively
+without relying on AI.
 
-demanding, solo work and shift to AI-supported tasks later for
+- 3. Make AI Collaboration Transparent: Our study found that workers
 
-eﬃciency. For example, starting with strategy development and
+can feel disengaged when they perceive that AI has taken control.
 
-ending with AI-assisted editing balances mental stimulation with
+Clear communication about how AI is assisting—not replacing—their
+
+contributions can help workers maintain a sense of ownership and

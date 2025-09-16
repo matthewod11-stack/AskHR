@@ -1,13 +1,21 @@
-# enhance collaboration.
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7eab2e9e83359674538e48c5e2345728cabdef87
+title: H07UPN-PDF-ENG
+---
+# it?
 
-- Align on why, when, and how to solicit feedback from customers,
+- Clarify when it’s appropriate to stay in the performance zone, and
 
-peers, supervisors, direct reports, and beyond. Listening to feedback
+when and how to engage in the learning zone. For example, if you’re
 
-yields insights about what the team is doing well and ideas on what to
+under a tight deadline for a high-stakes project that’s at risk, it
 
-consider changing.
+might be OK to stay in the performance zone. Conversely, to ensure
 
-- Schedule regular discussions on how your team is working together,
+regular engagement in the learning zone, consider setting up systems
 
-sharing ideas for what to try diﬀerently. Without change, there can be
+to run experiments, or scheduling conversations across divisions to
+
+help people better understand the organization and explore ways to

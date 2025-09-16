@@ -1,7 +1,15 @@
-# for
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: f522599e658f48273ff7698b746efc36fa6f411d
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Systems Theory
 
-dealing with
+The systems theory of industrial relations as propounded by Dunlop (1958), states that industrial relations can be regarded as a system or web of rules regulating employment and the ways in which people behave at work. According to this theory, the role of system is to produce the regulations and procedural rules that govern how much is distributed in bargaining process and how the parties involve or relate to one another. Dunlop explained that the output of the system takes the following forms; the system is expressed in many formal or informal guises that are in legislation and statutory orders, trade union regulations, in collective agreements and arbitration awards, in social conventions, in managerial decisions and in accepted custom and practice. The rules may be defined and coherent or ill-defined and incoherent. In a company the rules may be concerned with doing no more than defining status quo that both parties recognize as the norm from which deviations may be made only by agreement. In industrial relations this sense therefore an system is a normative system where a norm can be seen as a rule, a standard or a pattern for action that is generally accepted as the basis up on which the parties concerned should operate.
 
-a(cid:374)d e(cid:373)plo(cid:455)er(cid:859) asso(cid:272)iatio(cid:374)s. “u(cid:271)sta(cid:374)ti(cid:448)e a(cid:374)d procedural rules settle the rights and obligations attached to jobs. In UK, the parties to collective agreements have tended to concentrate more on procedural than substantive rules. In United States, where there is greater emphasis on fixed term agreements, the tendency has been to rely more on substantive rules.
+Dunlop (1958), asserts that job regulation aims to provide a framework of minimum rights and rules. These may provide for internal or external regulation, contain substantive or procedural rules or be expressed in the form of collective
 
-According to Armstrong (2011), Procedural rules are intended to regulate relationships especially those involving conflict between the parties. Custom and practice refers to the unwritten rules on how and industrial employment issues should be dealt with that have been built up and accepted by management and trade unions overtime. Custom and practice is an implied contractual the term. The above understanding of the fourth study variable and objective that is to find out the effects of employee rules and regulations on employee performance in Kenya.
+- 1558 -
+
+agreements or customs and practice. Internal is concerned with and external regulations procedure grievance, redundancies or disciplinary problems and rules concerning the operation of the employment relationship and the rights of stewards. External is carried out by means of regulation employment legislation, rules of trade unions

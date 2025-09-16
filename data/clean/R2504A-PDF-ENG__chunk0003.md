@@ -1,9 +1,17 @@
-## generates $2 billion in annual net income on revenues of just under
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6fc2acca6827f616b136c94507b084e6cbcf0eaa
+title: R2504A-PDF-ENG
+---
+# Damir Otegen
 
-$5 billion. The U.S. equivalent might be having PayPal, Amazon, Capital
+When I stepped in to run the company that would become Kaspi.kz in
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+2007, it was a bank with no online presence that had been struggling
 
-1
+to survive amid a global ﬁnancial crisis. Today, it is the most widely
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+used platform in Kazakhstan for ﬁnancial and government services,
+
+payments, and e-commerce. It serves 75% of the population and

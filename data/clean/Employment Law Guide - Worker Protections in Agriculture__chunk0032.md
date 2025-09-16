@@ -1,1 +1,7 @@
-# reasonable use of the above; and to inform each employee of the importance of good hygiene practices. For more information on the ﬁeld sanitation standards see the Wage and Hour Division Fact Sheet #51: Field Sanitation Standards under the Occupational Safety and Health
+---
+source_path: Employment Law Guide - Worker Protections in Agriculture.md
+pages: n/a-n/a
+chunk_id: eac1e157fa8ddfacce1165819014abf0720a07f4
+title: Employment Law Guide - Worker Protections in Agriculture
+---
+# establishments to provide toilets, potable drinking water, and hand-washing facilities to hand-laborers in the ﬁeld; to provide each employee

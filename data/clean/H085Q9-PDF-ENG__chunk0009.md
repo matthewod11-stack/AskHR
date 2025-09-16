@@ -1,9 +1,31 @@
-# California-based employment attorney.
+---
+source_path: H085Q9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8aed2d1d6632d1cecc8937ed55ef37725095015
+title: H085Q9-PDF-ENG
+---
+## HBR / Digital Article / 6 Mistakes Leaders Make When Announcing Layoffs
 
-Employees will also want to know whether more layoﬀs are coming. You
+They don’t offer remaining employees the opportunity to ask questions.
 
-can share that you are conﬁdent in the business strategy and, if true,
+Most people understand that business demands may result in staﬀ reductions. However, these events are still viewed “with great
 
-that no further cutbacks are planned. However, never say this is the
+cynicism,” says Rodstein. Be prepared and available to respond to
 
-“only” or “last” time you will have reductions in force. You cannot know
+myriad questions, from how the work will be handled to what support services will be oﬀered to departing employees. People are evaluating
+
+whether your organization is a safe and rewarding place to stay.
+
+Employees will likely want to understand why some roles were chosen
+
+for elimination versus others. There is projection of survivor guilt —
+
+Why were they chosen and not me? — as well as a stress response: Am I
+
+next? Be prepared to share, even at a high level, the business rationale
+
+for the positions or business units that were selected. But make sure to
+
+consult with your HR and legal teams on what you can say. How you exit
+
+people “can spin out into legal claims,” observes Jennifer Schwartz, a

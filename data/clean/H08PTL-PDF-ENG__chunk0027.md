@@ -1,5 +1,7 @@
-# Identify power-conduit tasks
-
-Once you’ve identiﬁed the key strategic roles, work with those
-
-individuals to pinpoint tasks that are central to their ability to
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26310db7c1fb3f9dfa6a98e22bfb5b576d5908f0
+title: H08PTL-PDF-ENG
+---
+# term sustainability goals.

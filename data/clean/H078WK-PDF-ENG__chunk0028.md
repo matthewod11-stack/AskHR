@@ -1,17 +1,19 @@
-# Using History to Build Better Together
+---
+source_path: H078WK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2284386b7d4377a700b6b73f06c6482625498932
+title: H078WK-PDF-ENG
+---
+# inclusivity.
 
-Weaver’s intentional eﬀorts to foster diversity and diversity of thought
+“We regularly have diversity training to educate our team on topics
 
-have been instrumental to its success. Now, she’s thinking bigger.
+such as the Tulsa massacre and Juneteenth,” Weaver says. “We’ve done
 
-In 2020, Weaver had an epiphany: “The piece I think our industry was
+skills building to have everyone walk through their journey together
 
-missing until now was that we were all trying to ﬁgure out how to foster
+and identify their own implicit biases. Every time we do training, team
 
-diversity within the American spirits industry separately,” she says. So,
+members share that one of their favorite parts of our culture is that we
 
-Uncle Nearest and Jack Daniels parent company formed the Nearest
-
-& Jack Advancement Initiative to increase diversity in the American
-
-whiskey industry, starting with the Nearest Green School of Distilling
+create space for everyone to learn about these topics together.”

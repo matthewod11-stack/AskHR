@@ -1,29 +1,27 @@
-# competitive edge.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 8cc928c214c9f44fd3d4c7bf1bd7199da238d4d7
+title: issn_print_0976_013x
+---
+# developments and practices in the supply chain indicate exploration of the overlapping
 
-The present study on evolving paradigms in supply chain research indicates several
+concepts and interactive relationship study as a prime methodology. The literature study
 
-indications of triggers that may be evolving. It may emerge as a sudden event in the not-too-
+establishes the reconfigurable practices as of fundamental position under whatever scenario
 
-distant future, and the capabilities and innovativeness will be again under examination for
+subjected to and can be applied to other significant research angles under different
 
-target achievement and performance improvement. In this context, Industrial 5.0 and allied
+orientations. In this sense, leagile, flexible, resilient, digital, and sustainable practices can be
 
-extension in sustainability dimensions and the need for supply chain agility under extreme
+incorporated into a single reconfiguration framework with practices from different paradigms.
 
-pressure from a reconfiguration perspective have been carried out since the Reconfigurable
+Moreover, current research practices' drivers are continuously evolving;
 
-SC has been advocated as the most recent and robust among all the paradigms. The consensus
+therefore,
 
-that can be agreed upon is the positioning of Reconfiguration at the forefront for future
+reconfiguration prospects must be explored under such situations. As a system of several
 
-evolving challenges.
+systems, the supply chain will be under dynamic uncertainties, and disruptions may become a
 
-Although evolving drivers may be divergent from existing research practices, the scope and
-
-applicability of the reconfiguration principle cannot be denied. Rather than focusing on
-
-individual research paradigms requirements, the reconfigurations provide a more holistic and
-
-robust practice that can be utilized with dynamic capabilities and integration towards several
-
-38
+new norm. The task under such a situation would be increasingly complex to generate a

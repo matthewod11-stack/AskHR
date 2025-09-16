@@ -1,11 +1,9 @@
-# y b
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: 0181acdd54322a7c138dad4c5200acad993c4369
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# t
 
-d e d a o l n w o D
-
-(2012), “Explaining the justice-performance relationship: trust as exchange deepener or trust as uncertainty reducer?”, Journal of Applied Psychology, Vol. 97 No. 1, pp. 1-15.
-
-Colquitt, J.A., LePine,
-
-J.A., Piccolo, R.F., Zapata, C.P. and Rich, B.L.
-
-Cropanzano, R., Bowen, D.E. and Gilliland, S.W. (2007), “The management of organizational justice”,
+A y t i s r e v i n U e t a t S a w o I

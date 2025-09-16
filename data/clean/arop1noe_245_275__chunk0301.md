@@ -1,3 +1,11 @@
-## into performance. Acad. Manag. J. 55:998–1022
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 0c7f46bb20b6fba806db0e55a7c5b1e4581a7816
+title: arop1noe_245_275
+---
+# l
 
-Gelfand MJ, Erez M, Aycan Z. 2007. Cross-cultural organizational behavior. Annu. Rev. Psychol. 58:479–514 Gilson LL, Shalley CE. 2004. A little creativity goes a long way: an examination of teams’ engagement in
+Gagne RM. 1992. Principles of Instructional Design. Fort Worth, TX: Harcourt Brace Galagan P 2010. Bridging the skills gap: new factors compound the growing skills shortage. TþD 64:44–49 Garavan TN, McGuire D. 2010. Human resource development and society: human resource development’s role in embedding corporate social responsibility, sustainability, and ethics in organizations. Adv. Dev. Hum. Resour. 12:487–507
+
+Gardner HK, Gino F, Staats BR. 2012. Dynamically integrating knowledge in teams: transforming resources

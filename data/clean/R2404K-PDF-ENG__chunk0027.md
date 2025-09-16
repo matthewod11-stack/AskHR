@@ -1,7 +1,15 @@
-## the quality of products and their ﬁt within the corporate portfolio and
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d46a3197e72c6104192d381019488d4ea9dba95e
+title: R2404K-PDF-ENG
+---
+## HBR / Magazine Article / The Middle Path to Innovation
 
-provide a market check on costs.
+Next they determine the development budget and acquisition prices
 
-The acquisition price is set on the basis of the anticipated value created,
+for the accelerator’s products. The speciﬁc process for this will diﬀer
 
-taking into account the budget of the winning bid. It aims to provide a
+by industry, but certain general principles apply. Inviting trusted
+
+development teams to bid on RFPs with clear speciﬁcations will ensure

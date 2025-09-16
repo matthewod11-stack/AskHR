@@ -1,3 +1,11 @@
-## 316 • HUMAN RESOURCE MANAGEMENT, Fall 2002
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: caeeec68dcda3facc93a2c810828fab0034b1156
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+# Development of Competency Models
 
-To develop federal competency models, occupational analysis surveys are sent out to a stratified, random sample of incumbents and supervisors. The data are collected and ana- lyzed to identify critical competencies and tasks for each occupation. The large number of re- spondents for each survey (e.g., 7,938 for ex- ecutives, supervisors, and managers; 59,997 for seventy-seven clerical and technical jobs; 46,889 for 105 professional and administra- tive jobs) shows the scope of these projects. Data are analyzed for each occupation at every grade (i.e., pay) level where there are sufficient respondents. To create the final competency model for an occupation or occupational group, both incumbent and supervisor ratings are typi- cally used. The Leadership Effectiveness Study, however, surveyed only incumbents.
+After finalizing the benchmarks, questions are written for each competency to elicit be- havioral responses that can be tied back to the benchmarks for rating purposes (see Table III). This represents an application of the behav- ioral consistency approach, where past behav- ior is a good indication of future behavior (Schmidt et al., 1979).
+
+The size of the organization should be consid- ered in determining the job analysis methodol- ogy. Larger organizations, like the federal govern- ment, should use survey approaches to collect job analysis information to achieve sufficient rep- resentation of the population, whereas smaller organizations or jobs with few incumbents may be adequately represented through focus groups.

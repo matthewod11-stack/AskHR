@@ -1,9 +1,9 @@
-# cost-eﬀective activities.
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 035146f47be333213c6f7d1333653107a83a01ad
+title: H08TQX-PDF-ENG
+---
+## HBR / Digital Article / New Research on How to Get Workplace Rituals Right
 
-- 3. Don’t waste an opportunity to show appreciation.
-
-Findings from our research showed that employees who felt
-
-underappreciated during rituals often disengaged from work
-
-afterwards. Use your rituals as an opportunity to recognize
+with no seating. Try to ﬁnd that sweet spot between meaningful yet

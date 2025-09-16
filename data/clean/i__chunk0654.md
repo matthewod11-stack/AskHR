@@ -1,3 +1,13 @@
-# (cid:111) Ben
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: e00306c6fde1406f9523b35b1fa5a75b76690b2f
+title: i
+---
+# Reference list:
 
-Gal, H. C. (2019). An ROI-based review of HR analytics: practical
+(cid:111) Aitkenhead, M. (2008). A co-evolving decision tree classification method. Expert Systems With Applications, 34(1), 18325.
+
+https://doi.org/10.1016/j.eswa.2006.08.008
+
+87

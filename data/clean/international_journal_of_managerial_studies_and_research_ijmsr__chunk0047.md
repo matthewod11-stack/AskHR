@@ -1,5 +1,9 @@
-# Figure 2. A Model of the System Approach
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: a41f2ffc2de4173b7155144c14c22c37b3849e06
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# Environment
 
-Response: Here, a system interacts with its environment by importing inputs, while it exports output in order to maintain itself in a permanent state of equilibrium.
-
-International Journal of Managerial Studies and Research (IJMSR) Page | 142
+Source: Gauba O.P (2003). An Introduction to Political Theory. New Delhi: Macmillan, p.93.

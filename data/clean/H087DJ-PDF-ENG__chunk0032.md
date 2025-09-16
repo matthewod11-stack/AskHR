@@ -1,15 +1,13 @@
-## employee assistance program (EAP) or company insurance plan. Most
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1846db30be8cd6c9d8130d5edb5d833dc1495c2
+title: H087DJ-PDF-ENG
+---
+# policies, procedures, and cultures.
 
-employees of color want a therapist who looks like them. However,
+Empowering employees of color to protect and prioritize their mental
 
-currently the number of therapists of color is unfortunately small. Thus,
+health involves ensuring that therapists of color and culturally
 
-the inclusion of culturally competent therapists who have previous
-
-experience counseling employees of color is critical. Due to cultural
-
-mistrust, some employees of color will request a therapist outside the
-
-EAP and indicate their willingness to forgo the insurance plan and
-
-self-pay. In these cases, HR should compile and make available a list
+competent therapists and counselors are available through the

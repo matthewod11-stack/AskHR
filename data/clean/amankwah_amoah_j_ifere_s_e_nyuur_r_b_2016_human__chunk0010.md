@@ -1,29 +1,61 @@
-## unified explanation for strategic persistence with underperforming workers.
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 83b49b1a7bde68959eb229c9376943010edd02da
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# underperformance (Amankwah-Amoah, Nyuur & Ifere, 2016; Collings & Mellahi, 2009).
 
-Another contribution is that we integrate insights on the effects of institutional and
+Many firms have utilised incentives such as higher salary and bonuses to attract and retain
 
-social pressures on human resource practices (See Chiang & Birtch, 2010; Hayek et al., 2016;
+top talents as well as encourage superior job performance (Henagan & Bedeian, 2009).
 
-Thomas & Inkson, 2007) with firm-level factors to develop an integrated framework of
+At the same time, some firms persist with underperforming workers and even refrain
 
-factors to explain persistence with underperforming workers. In addition, although firms that
+from taking steps to weed out underperforming workers (Mmieh et al., 2011; Shein, 2011;
 
-operate in high relational contexts are affected by different institutional factors (Peng, 2014),
+Taylor, 1998). Although the labour market in many advanced economies such as the US and
 
-to date, studies have not incorporated these into our understanding of underperformance.
+Canada are associated with a “pay-for-performance” culture to motivate employees to
 
-Exploring this issue would help to not only enrich our cross-cultural understanding, but shed
+achieve optimum outcome (Bloom & Van Reenen, 2011), in many emerging economies
 
-light on the more intricate processes through which strategic persistence occurs. In so doing,
+“underperforming employees are typically left in post for several months or even years before
 
-we capture the various factors that help to explain persistence with underperforming workers.
+any action is taken to address them” (Bloom & Van Reenen, 2011, p. 1705). Despite decades
 
-The remainder of the paper is structured as follows. First, we present a review of the
+of research by international business and strategy scholars on emerging economies, the
 
-literature on the paradox of success, “too much invested to quit” perspective, nepotism and
+existing literature has remained relatively silent as to why firms and managers persist with
 
-legitimacy. The research context and method are then examined. We then set out our findings
+underperforming employees even under threat of worsening performance. The largely
 
-4
+unexplored nature of this issue in emerging market context is puzzling given that the
 
-on underperforming workers. The final section outlines the implications for managers and
+existence of underperforming workers can undermine the contribution levels of fellow
+
+workers (Wagner-Tsukamoto, 2007). More importantly, star performers can become targets
+
+3
+
+of underperformers, who can engage in acts to undermine their progress and success (see
+
+Henagan & Bedeian, 2009; Fiske, 2011). Our purpose in this study is to examine why firms
+
+persist with underperforming workers in emerging economies. We focus specifically on two
+
+emerging economies in Africa: Ghana and Nigeria, to shed light on the subject. The two
+
+countries are often regarded as the gateways to West Africa.
+
+This paper makes three main contributions to strategic human resources, international
+
+business and strategy research. First, although past studies have examined skill formation
+
+(Mellahi & Collings, 2010), they have failed to offer any robust explanations as to why firms
+
+persist with underperforming employees. In this direction, we integrate the concept of the
+
+paradox of success (Audia et al., 2000), legitimacy literature (Baum & Oliver, 1991;
+
+Suchman, 1995) and “too much invested to quit” perspective (Teger, 1980) to develop a

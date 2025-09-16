@@ -1,15 +1,17 @@
-# HBR / Spotlight / New Rules for Teamwork
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 5d95a58f1d5ef77e7ccb50d09c3b5553c3bc4ddd
+title: S24051-PDF-ENG (1)
+---
+# tough start.
 
-bank did: hold kickoﬀs, conduct one-on-ones, and take stock of progress
+Action plan. In our research on high-performing teams, we have found
 
-using retrospectives. For our part, we also close out with comprehensive
+that the best teams consistently do the three things that our team at the
 
-handovers, documenting our work so that the client, and future
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-teams, can build on what we did. We recommend that companies use
+5
 
-these practices as the foundation of their teamwork operating system,
-
-tailoring them to reﬂect their important cultural norms. For example,
-
-the “obligation to dissent,” one of McKinsey’s core values, is embedded
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

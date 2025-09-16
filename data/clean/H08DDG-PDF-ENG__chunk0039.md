@@ -1,21 +1,25 @@
-# critical.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d14c15e8cf027d717af0c166a89ef72ade3c8f09
+title: H08DDG-PDF-ENG
+---
+# the reason for my ‘10’ [rating] below.”
 
-But in general, if you expect your entrepreneurs to listen to their
+. . .
 
-customers, it’s only fair that you listen to yours, too.
+Of course, every ﬁrm is diﬀerent. While TDK Ventures has had success
 
-The four-step approach I’ve outlined is an easy way to both capitalize
+with this approach, it may not work for all VC ﬁrms. Smaller or younger
 
-on the untapped ideas your entrepreneurs can oﬀer and to ensure
+VC ﬁrms with fewer companies in their portfolios may be less likely to
 
-you’re able to provide them with as positive an experience as possible,
+glean as many useful insights, simply because they won’t have access
 
-ultimately increasing the chances that they’ll recommend you to their
+to as much feedback as larger ﬁrms. Moreover, while I have found NPS
 
-networks. This is a true “equal-win” for VCs and entrepreneurs: It makes
+to be incredibly valuable in my own experience, more data — that is,
 
-the VC better at serving its entrepreneurs (which beneﬁts startups),
+more VCs trying out this methodology — would further validate its
 
-and it inspires those entrepreneurs to become champions of the VC,
-
-ultimately helping VCs connect with even more great entrepreneurs and
+eﬀectiveness. As with any initiative, experimentation and iteration are

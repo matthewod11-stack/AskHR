@@ -1,13 +1,7 @@
-# Exceptional
-
-Able to focus on only one task at a time
-
-Easily distracted from work assignments/ activities
-
-Handles a variety of work assignments/ activities with few difficulties
-
-Handles a variety of work assignments/ activities concurrently
-
-Easily juggles a large number of assignments and activities
-
-Avoids or attempts to undermine changes
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 5f1bda319ace68e2238a4d0bde89f49096bfbc38
+title: performance_management_3rd_edition_by_aguinis
+---
+# Highly Effective

@@ -1,3 +1,7 @@
-## Databases  AMED  CINAHL  EMBASE  MEDLINE  PsycINFO
-
--  Workplace culture  Corporate culture  Organisational culture  Cultural change  Effective culture  Transformational culture  Workplace culture Resulting literature Transformational + Culture Corporate culture Organisational culture
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 4d9c4827aa448df628d582ade65d2b7a24aca322
+title: chapter_nine
+---
+# Search engines OVID

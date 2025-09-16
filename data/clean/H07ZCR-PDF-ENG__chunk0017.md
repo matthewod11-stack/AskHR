@@ -1,7 +1,19 @@
-# map:
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62f3c7eb4d6888511efed8e0c86f2bfc83d2e4a4
+title: H07ZCR-PDF-ENG
+---
+# when?
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- Who has the authority to make decisions about this objective?
 
-5
+- What’s the opportunity cost to the customer or organization if I don’t
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+get the resources I need?
+
+Next, determine the concrete actions that will create mutually
+
+successful outcomes for each stakeholder along with milestones to hold
+
+yourself accountable. Here’s a sample of Elena’s stakeholder evaluation

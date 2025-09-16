@@ -1,13 +1,17 @@
-## criteria like business goals, strategy, execution and people development.
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cbf0679b7ce7a7742eb99d10f501e6d48b1651fc
+title: H06KTS-PDF-ENG
+---
+## Managing your Career in Changing Workplace Dynamics
 
-Then he set up a cadence to meet with these colleagues to align on
+The above principles have been successfully used by several executives
 
-performance in each focus area and gather ongoing feedback as well
+I’ve worked with. One client, an executive who had been with his
 
-as explore ways to add value to their priorities. In just the ﬁrst month
+company for more than 25 years, crafted his own 90-day “re-onboarding
 
-of carrying out his re-onboarding plan, he reported that his colleagues
+plan,” laying out a map of key stakeholders to inﬂuence above him,
 
-were impressed with his initiative even started asking him for feedback.
-
-The exercise also lifted his spirit, bringing him resilience and optimism
+below him and across his peers. He also focused on key success

@@ -1,7 +1,9 @@
-# motivation? Why or why not?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 372046223ed4da8ec6312c3a64ce6997d986b606
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Questions for Review
 
-. If the right techniques are used, can everyone be motivated to perform well?
-
-Why do you think that?
-
-. Which of the individual incentive plans is best? Why? . What is the optimal level at which goals should be set? Why? . Is the threat of punishment an effective motivator? Why or why not?
+. Does getting paid for a task that one enjoys performing reduce intrinsic

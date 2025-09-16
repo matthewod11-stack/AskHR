@@ -1,11 +1,23 @@
-# as possible.
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 210681956798c704ee57dd26e670ba5fa7a88108
+title: H08MHC-PDF-ENG
+---
+# any workﬂow gaps after the launch.
 
-In fact, our research found that functions that perfect the eﬃciency-
+- Empower and expect staﬀ to leverage experience and judgment to
 
-based approach saw their transformation success increase by just 5%.
+overcome any ambiguity that arises in these transformed workﬂows.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- Focus on creating standardized, uniform processes.
 
-3
+While a seemingly common-sense approach that works in many other
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+contexts, we found that in the context of functional transformation,
+
+the eﬃciency-focused approach has almost no impact on improving the
+
+success of a transformation. We measured success as both achieving the
+
+intended transformation objectives and doing so with as little diﬃculty

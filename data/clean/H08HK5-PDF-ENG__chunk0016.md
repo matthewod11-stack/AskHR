@@ -1,31 +1,11 @@
-## the employee with open-ended questions such as, “Tell me about how
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2eeb67c3dcc1084660ccea6c833c85c0eeb2340c
+title: H08HK5-PDF-ENG
+---
+## HBR / Digital Article / When Expressing Gratitude to Employees, Timing Matters
 
-it went,” “How are you feeling now?” or “How can I best support you?”
+negative experience, “thanks in advance,” no matter how heartfelt, does
 
-Additionally, these conversations can help you to better understand
-
-your employee, what the pain points of their position are, and can help
-
-improve your ability to provide proactive gratefulness in the future, as
-
-you’ll better understand what about a task makes it most challenging. If
-
-necessary, repeat your genuine expression of gratitude to the employee
-
-after the event. A little gratitude repetition never hurts, especially for
-
-employees who seldom hear it at work.
-
-- 4. Cultivate a culture of gratitude. Our ﬁndings suggest that gratitude
-
-in advance is successful in part because it makes people feel a strong
-
-sense of collective social worth. They believe they are a valued part
-
-of the team and that their contributions to this team are meaningful, even when the tasks are diﬃcult. While it’s important for managers
-
-to give gratitude in advance, supervisors should also encourage their
-
-team to liberally extend gratitude amongst themselves; for example,
-
-expressing genuine gratitude to other team members when they embark
+not completely eliminate the negative emotional experience. Prompt

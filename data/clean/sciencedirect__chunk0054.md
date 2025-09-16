@@ -1,3 +1,9 @@
-## Expectancies.” Health Psychology 4 (3): 219-247.
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: 504dea1caf45c81d1f4cbb40eec9db7f88623a27
+title: sciencedirect
+---
+# Books.
 
-[14] Campbell, A., P. Converse, and W. Rodgers. (1976) The Quality of American Life: Perceptions, Evaluations, and Satisfactions, Russell
+[13] Scheier, M.F., and C.S. Carver. (1985) “Optimism, Coping, and Health: Assessment and Implications of Generalized Outcome

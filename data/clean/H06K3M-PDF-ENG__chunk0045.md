@@ -1,13 +1,9 @@
-# leaders and employees.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 928f905e01517bd2c00a0126bb36721a5ca399ca
+title: H06K3M-PDF-ENG
+---
+## These straightforward reminders, with practical action steps and links
 
-This was an important step. At that point in the Covid evolution, most
-
-organizations were more concerned with engaging virtual employees
-
-by piling on more meetings and emails. In contrast, General Mills had
-
-appropriate analytics in place to know this would have absolutely been
-
-the wrong thing to do — the correlation between fragmented time and
-
-both negative mood and employee fatigue was .55, meaning there was
+to additional resources on a regular cadence have been well-received by

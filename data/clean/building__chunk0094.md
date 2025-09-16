@@ -1,3 +1,9 @@
-# PROMPT ENGINEERING
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 1f4754c8bf4f08c555845203101040ea187aaa5a
+title: building
+---
+# Stage 3: Build for production
 
-You’ll need to build a strong prompt for your test case. Here’s how we’d structure it to ensure you get the most out of the model:
+Now that you’ve identified the best use case and settled on a model it’s time to build something real. Moving to production means thinking through all the details that will help your Claude implementation run reliably and scale smoothly. Whether you’re building customer-facing features or internal tools, let’s look at what it takes to get your use case production-ready.

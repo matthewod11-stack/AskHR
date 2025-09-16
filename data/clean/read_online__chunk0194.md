@@ -1,13 +1,9 @@
-# Page 11 of 12
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 94811f5f960ec0d0c0ae5e1d5e30ab136082020f
+title: read_online
+---
+# the workplace
 
-Age, gender, engagement and stress are not found to moderate the focal relationship, and satisfaction is not found to mediate it. These findings raise important questions about the pressures experienced by individuals who are working and attending evening degree classes in this context at this time. We suggest here that individuals might enter a period of ‘stasis’, or stability in their associations between job satisfaction and turnover intentions, whereas while they are studying, they are less likely to intend to quit, even when dissatisfied with their work. This would be an explanation for why these relationships do not reflect those expected in the general working context. We encourage further research to explore other explanations.
-
-It might be that individuals who undertake degree studies enter this ‘period of stasis’, in which even the influence of age, gender, engagement and stress does not substantively add to, or subtract from, the influence of WLBC on withdrawal intentions. It might be that the pressures of family life steel an individual to deepen this state of stasis, perhaps to ‘see it out’, perhaps intensifying the perseverance of an individual. It is only social support networks, however, that seem to weaken this stasis effect, perhaps lowering the stakes of leaving a job for those holding out to finish their degree studies.
-
-These results contribute to the literature on work-life conflict by offering evidence of under what conditions those seeking to study while working are more vulnerable to WLBC. This work also contributes to a longstanding body of literature in the South African context that has sought to understand the specific determinants of intent to quit across different contexts, for example that by Stanz and Greyling (2010).
-
-It is concluded that this cohort of students, who invest their evenings in degree studies while working, may exist as an important subset of working adults. Given their need for perseverance, even while experiencing higher WLBC because of their studies, further research should seek to better understand this phenomenon we identify here, of stasis, or a robustness to the negative influences that are typically expected to manifest in general working contexts.
-
-We therefore suggest that further research apply causal research designs to replicate our work, and to extend it to other contexts of study of work-life conflict at the nexus of employment, family responsibilities. We believe that the findings of such research, if applied by societal stakeholders, can make a difference in the lives of these people.
-
-evening degree
+Open Access

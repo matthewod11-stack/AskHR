@@ -1,31 +1,37 @@
-# How We Use It
+---
+source_path: H0734V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c698590c0810ba6fb14babdc9d4fb794293cb974
+title: H0734V-PDF-ENG
+---
+## HBR / Digital Article / Using Fiction to Find Your Strategy
 
-The first step of putting design fiction into practice involves crafting
+Over the past seven years in working with about 50 executive teams
 
-scenarios of possible futures. For example, in a project with a major
+around the world, we’ve been experimenting with an alternative
 
-car insurance company, we analyzed information from urban mobility
+approach to strategy: design fiction. Design fiction is a technique that
 
-trends, autopilot flight modes, Luc Besson’s notorious movie The Fifth
+immerses executives and employees deeply in various possible futures,
 
-Element, and interviews with early electric car adopters to develop
+and uses artifacts such as short movies, fictitious newspaper articles,
 
-scenarios of possible futures. These atypical data sources help spotlight
+and imaginary commercials to generate transformation roadmaps.
 
-less obvious aspects that would otherwise remain unnoticed in the
+Rooted in the future but helping to act in the present, design fiction
 
-strategizing process. In this example, from talking to an airline pilot
+results in concrete actions taken to adjust companies’ visions, strategies,
 
-we understood how the risks will be shifting in an autonomous driving
+and activities to create a better future.
 
-ecosystem. Bumper shocks and losing control of the vehicle will not
+Unlike many strategic foresight tools, design fiction does not attempt
 
-happen anymore, but new risks such as system hacking and break down
+to identify what is more likely to happen. Nor does it limit strategy
 
-of vital sensors will arise.
+conversations to the C-suite; in fact a core component is the
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+participation of a wide range of stakeholders. Consequently, the teams
 
-2
+that we’ve seen deploy design fiction are able to formulate and shape
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+desirable futures that other tools do not enable people to see.

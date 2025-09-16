@@ -1,7 +1,9 @@
-## Price Waterhouse v. Hopkins, 109 S. Ct. 1775 (1989).
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: cd24907acd7b9bae9479996a80b9093851e8a9ec
+title: untitled
+---
+# Plessy v. Ferguson, 163 U.S. 537 (1896).
 
-Quen, J. (1994). The psychiatrist in the courtroom: Selected papers of Bernard L. Diamond, M.D. Hillsdale, NJ: Analytic Press.
-
-Quinsey, V., Harris, G., Rice, M., & Cormier, C. (1998). Violent offenders: Appraising and managing risk. Washington, DC: American Psychological Association.
-
-Ray, I. (1983). A treatise on the medical jurisprudence of insanity. New York: DaCapo Press. (Original work published 1838)
+Poythress, N., Nicholson, R., Otto, R., Edens, J., Bonnie, R., Monahan, J., et al. (1999). The MacArthur Competence Assess- ment Tool for Criminal Adjudication. Odessa, FL: Psychological Assessment Resources.

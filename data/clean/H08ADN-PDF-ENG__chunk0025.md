@@ -1,9 +1,27 @@
-# deliberate leadership.
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd7be0f8cad4858ebf149f21f4078c41d0f91095
+title: H08ADN-PDF-ENG
+---
+## demonstrates appreciation for ambiguity and uncertainty and fosters
 
-This article was originally published online on July 11, 2024.
+shared expectations related to mutual learning.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Responding appreciatively
 
-6
+When colleagues and managers respond to newcomer questions, ideas,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or mistakes with curiosity and support, they can prevent the loss
+
+of psychological safety. Appreciation is not about tolerating repeated
+
+failures or incompetence, but rather about ensuring learning.
+
+. . .
+
+Psychological safety is not the default in any workplace, and those
+
+who need it most — newcomers — are also most vulnerable to losing
+
+it. Cultivating and reinforcing a climate favorable to learning requires

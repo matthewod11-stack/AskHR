@@ -1,7 +1,11 @@
-# DX
+---
+source_path: H08UG4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1560b022f1ccb7fd6fbbc4ebfd33b8fb6b227b62
+title: H08UG4-PDF-ENG
+---
+# JS
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Jason Sandvik is an associate professor of ﬁnance at the Eller College of Management at the University of Arizona.
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Da Xu is an assistant professor in accounting at Tsinghua University

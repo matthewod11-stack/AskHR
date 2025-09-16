@@ -1,7 +1,23 @@
-## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f270a28da1f4230b5bf6179555a18f068927b396
+title: H07QOV-PDF-ENG
+---
+# hypothesis-driven in pursuit of a goal.
 
-I think the best way to answer the measurement question is, let’s make
+But so is a really bad blind date. That’s intelligent failure. Maybe your
 
-sure the criteria are adhered to. And then, let’s think about what the
+friend thought you’d like each other. You are willing to go out and have a
 
-right frequency is, given the work we’re trying to do, of intelligent
+coﬀee. Smallest possible new territory in pursuit of a goal, all the rest. So
+
+a bad blind date and a failed clinical trial are clearly apples and oranges,
+
+yet they both qualify under the category.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

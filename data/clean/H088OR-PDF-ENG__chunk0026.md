@@ -1,13 +1,29 @@
-## HBR / Digital Article / Hybrid Work Has Changed Meetings Forever
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a0230321309d134d7ea1c41e467ebb61ccf87bf
+title: H088OR-PDF-ENG
+---
+# retention group (7.1%).
 
-less fatigue from virtual meetings than those who were disengaged. If the fatigue and negative eﬀects of enabling one’s camera are
+See more HBR charts in Data & Visuals on HBR.org.
 
-disproportionately higher for disengaged employees, and disengaged
+It’s important to note that these relationships don’t imply causality, and
 
-employees are at a higher ﬂight risk, it could explain the behavior diﬀerences between the two groups.
+we would advise against drawing conclusions at an individual level (e.g.,
 
-With this in mind, some organizations are exploring the value of
+“Sam rarely turns his camera on, he might quit”). But at suﬃcient scale,
 
-monitoring high-level trends in camera enablement as a potential
+the correlations are too strong to ignore.
 
-proxy for general employee engagement. Some are even correlating the
+While the data doesn’t explain why these relationships exist, recent
+
+research on meeting modality and employee engagement may shed
+
+some light. According to one study, highly engaged employees reported
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

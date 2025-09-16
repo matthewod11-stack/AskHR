@@ -1,9 +1,19 @@
-## mesmas pesquisas atualmente, percebe-se que o cenário não sofreu muita
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 084b8c3d09a2fa78e679653c108eb5c25f9efc3b
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## A validade de tais adaptações ainda tem pouca comprovação formal na
 
-alteração desde 2019: foram encontrados aproximadamente 19.200 resultados para
+literatura, o que se observa pela baixa produção acadêmica a este respeito. Em 27
 
-a busca utilizando as palavras-chave "net promoter score" e apenas 571 resultados,
+25
 
-para "employee net promoter score" no dia 10 de agosto de 2023 mesmo não
+de dezembro de 2019, em pesquisa no Google Acadêmico, 143 resultados foram
 
-limitando o uso do termo ao título.
+encontrados para "employee net promoter score" enquanto que, para "net promoter
+
+score",
+
+foram encontrados 9.150 resultados (SEDLAK, 2020). Replicando essas

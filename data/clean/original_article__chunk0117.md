@@ -1,3 +1,7 @@
-# 6 per cent
-
-Master’s degree 52 per cent; bachelor’s degree 37 per cent; doctorate
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 0a1a92a69632915d2191af0980697805e7df3a2d
+title: original_article
+---
+# Highest level of education

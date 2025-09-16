@@ -1,3 +1,9 @@
-# The ﬁrst World Conference on Behavioral Economics convened in Princeton, New Jersey.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1f3b6df4696abc58192eb11068c1fe7064ff7316
+title: untitled
+---
+# Congresses
 
-The ﬁrst European Congress of Psychology, sponsored by the European Federation of Professional Psychology Associations, took place in Budapest, Hungary.
+The ﬁrst Gulf Conference of Psychology took place in Kuwait.

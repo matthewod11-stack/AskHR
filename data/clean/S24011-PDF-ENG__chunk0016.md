@@ -1,21 +1,13 @@
-## HBR / Spotlight Article / Leading in the Flow of Work
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6cf277fab0d16fd2ebbcabd96f6fc2fb5ec27c9b
+title: S24011-PDF-ENG
+---
+## transcend ego, attachments, insecurities, impulses, and everyday habits
 
-—like interrupting others or appearing agreeable while actually feeling
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-resistant—and act in a way that’s best for the cause we’re serving.
+3
 
-But a number of things can prevent executives from achieving this
-
-state. First, they often walk into pivotal moments feeling stressed—
-
-either about other things going on in their lives or about the very
-
-situation they’re confronting. Second, they simply don’t see the greater
-
-possibilities their situation oﬀers—to build trust, resolve conﬂict,
-
-inspire a beaten-down team, and so on. Third, once they’re in a
-
-situation they react in habitual, ﬁxed ways instead of observing the
-
-dynamics among people and responding agilely. And last, they focus
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

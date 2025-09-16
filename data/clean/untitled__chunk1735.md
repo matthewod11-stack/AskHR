@@ -1,13 +1,15 @@
-## on its anatomy and structure. Chicago: Aldine-Atherton.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 684beae11593cce0d8627ecf207f5de3a71b4ada
+title: untitled
+---
+# New York: Oxford University Press.
 
-McArthur, D. S., & Roberts, G. E. (1990). Roberts Apperception Test for Children manual. Los Angeles: Western Psychological Services.
+Loutit, C. M., & Browne, C. G. (1947). Psychometric instruments in psychological clinics. Journal of Consulting Psychology, 11, 49–54.
 
-McClelland, D. C., Atkinson, J. W., Clark, R. A., & Lowell, E. L. (1953). The achievement motive. New York: Appleton-Century- Crofts.
+Lubin, B., Larsen, R. M., & Matarazzo, J. D. (1984). Patterns of psychological test usage in the United States: 1935–1982. American Psychologist, 39, 451–454.
 
-Meyer, G. J., & Archer, R. P. (2001). The hard science of Rorschach research: What do we know and where do we go? Psychological Assessment, 13, 486–562.
+Lubin, B., Wallis, R. R., & Paine, C. (1971). Patterns of psycholog- ical test usage in the United States: 1935–1969. Professional Psychology, 2, 70–74.
 
-Meyer, G. J., Finn, S. E., Eyde, L. D., Kay, G. G., Moreland, K. L., Dies, R. R., et al. (2001). Psychological testing and psychologi- cal assessment: A review of evidence and issues. American Psychologist, 56, 128–165.
-
-Millon, T. (1969). Modern psychopathology: A biosocial approach tomaladaptivelearningandfunctioning.Philadelphia:Saunders.
-
-Millon,T.(1977).MillonClinicalMultiaxialInventory.Minneapolis,
+Matarazzo, J. D., & Wiens, A. N. (1972). The interview: Research

@@ -1,9 +1,17 @@
-## Figure 28 Employee Well-being Index in three different markets
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: a006a6522da5d2ac794150c5c239958c1e461935
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Employee Well-being
 
-The lowest scored question was Q21: “My workload is manageable”, shows significant
+This area of EX consists of six questions. Atlas Copco overall scored 80, whereas
 
-differences in comparison between the three markets. The lowest score, 66, is in the
+Europe scored 75, US scored 85, which is best result, and 81 was scored China.
 
-European market, while the US scored 79 and China with 71. In Europe, 14 out of 35
+Nearly 50 out of 105 respondents ranked Employee Wellbeing in the highest position.
 
-employees defined their answers as neither agree or disagree and somewhat
+One of the highest rated questions from survey is Q27: “I feel safe at my workplace”,
+
+where the average score was 91.

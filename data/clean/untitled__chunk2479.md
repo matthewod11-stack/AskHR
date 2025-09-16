@@ -1,11 +1,15 @@
-## tions. Annual Review of Psychology, 35, 333–360.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ea9f6d36bb45b91167ee8c00772c2a73d75d36c5
+title: untitled
+---
+## munity. American Psychologist, 29(8), 607–613.
 
-Isserman, M., & Kazin, M. (2000). America divided: The civil war
+Iscoe, I. (1975). Report to the membership: National training conference in community psychology. Division of Community Psychology Newsletter, 8, 3–10.
 
-of the 1960s. New York: Oxford University Press.
+Iscoe, I. (1997). Exemplars of community psychology [Video], J. G. Kelly (Ed.). Chicago: Society for Community Research and Action.
 
-Jahoda, M. (1953). The meaning of psychological health. Social
+Iscoe, I., Bloom, B. L., & Spielberger, C. D. (1977). Community psy- chology in transition: Proceedings of the national conference on trainingincommunitypsychology.Washington,DC:Hemisphere.
 
-Casework, 34, 349–354.
-
-Jahoda, M. (1958). Current concepts of positive mental health. New
+Iscoe, I., & Harris, L. C. (1984). Social and community interven-

@@ -1,9 +1,17 @@
-## The emergence of novel and more eﬃcient forms of biometric data
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20978fe751ba34aaff8e738cec32dc7c10eb7f70
+title: H08QRZ-PDF-ENG
+---
+## his time and attendance—traditional punch cards—due to an aversion
 
-collection has the potential to dramatically improve organizational
+to the scanner stemming from his religious beliefs. CONSOL refused,
 
-operations. However, those practices can make employees feel less
+prompting Butcher to resign and ﬁle a discrimination lawsuit, which he
 
-secure in their jobs, which is ultimately detrimental to an organization.
+won. Employees should know that there are legal precedents in their
 
-Companies should thoughtfully assess why they wish to collect data
+favor that can help inform discussions with managers.
+
+. . .

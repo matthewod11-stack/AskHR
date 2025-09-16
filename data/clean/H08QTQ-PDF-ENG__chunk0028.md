@@ -1,11 +1,9 @@
-## stretch assignments in unfamiliar areas, the expected job rewards
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2020b0c72c38523cb8ee8e7ca15b111baa87ee56
+title: H08QTQ-PDF-ENG
+---
+## stronger for dominant groups in engineering—male, White, and Asian
 
-associated with this work were less clear for them than for men.
-
-These disparities became even more pronounced when analyzed by
-
-race and ethnicity. For Asian and White engineers, stretch assignments
-
-in new and unfamiliar areas were strongly linked to expected salary
-
-increases and promotions. These same relationships were not observed
+engineers. In fact, although women engineers reported doing more

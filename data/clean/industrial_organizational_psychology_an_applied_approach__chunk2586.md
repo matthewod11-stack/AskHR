@@ -1,1 +1,11 @@
-# Table 11.1 Rather Than
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2705daadf0aa550cac9ecf2b05ae4782db9f603e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# and changes in the handbook.
+
+The typical company manual is hundreds of pages long, so it is not surprising that many employees do not want to read it. To reduce length problems, most organizations have two types of company manual. The first, called a policy man- ual, is very specific and lengthy, containing all of the rules and policies under which the organization operates. The second type, usually known as the employee handbook, is much shorter and contains only the most essential policies and rules, as well as general summaries of less important rules.
+
+An example that supports the need for two manuals involved security guards at a manufacturing plant. The security guards were paid minimum wage and had an average tenure of about three months before quitting. The company became concerned for two reasons. First, three months was not enough time for the guards to learn all of the policies in the -page emergency procedures manual. Second, the manual was written by an engineer, and none of the security guards were able to understand the writing. The organization thus had industrial/orga- nizational (I/O) graduate-student interns develop a short, easy-to-read procedure manual that could be read and understood in a day or . Tips for effective writing that also apply to manuals are shown in Table ..

@@ -1,9 +1,13 @@
-## HBR / Digital Article / Agentic AI Is Already Changing the Workforce
+---
+source_path: H08QBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed2d130ada606cca2107abece9fd201c81e00afb
+title: H08QBY-PDF-ENG
+---
+## more advanced AI training or more robust human oversight. Traditional
 
-“set it and forget it” approaches to staﬃng don’t apply here. AI’s
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-value compounds over time as it learns from interactions. Negotiate
+5
 
-contractual agreements that let you capture improvements while also
-
-respecting the intellectual property (IP) rights of your vendor or the data
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

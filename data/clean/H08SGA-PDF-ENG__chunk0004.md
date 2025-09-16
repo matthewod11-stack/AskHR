@@ -1,13 +1,31 @@
-## inherited strengths, and lead purposeful change.
+---
+source_path: H08SGA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 437acae1939160db9f8a8f95bbdc24f06ce8fe68
+title: H08SGA-PDF-ENG
+---
+## HBR / Digital Article / 5 Steps for Leading a Team You’ve Inherited
 
-- 1. Lead with curiosity, not conclusions.
+was to “raise the level of talent,” but the move created lasting damage.
 
-The pressure to perform quickly in a new role can lead even seasoned
+We started working together six months after the changes when her
 
-leaders to make hasty judgments about their inherited team. But
+engagement survey showed the dust hadn’t settled. She couldn’t shake
 
-quick assessments and defaulting to replacing people often stem from unconscious biases, not data. Aﬃnity bias can lead you to favor
+the fear and distrust she had sparked, which destabilized the culture as
 
-individuals who feel familiar in background, interests, or experiences.
+employees wondered whether their jobs were next.
 
-An availability heuristic can lead you to make hasty judgments based on
+While bold moves may appear to create momentum, they can also
+
+generate resistance, erode trust, and destabilize culture. The most
+
+eﬀective leaders recognize that immediate upheaval rarely builds
+
+sustainable results. Instead, they adopt a thoughtful and strategic
+
+approach that balances fresh perspective with deep respect for the
+
+organization’s existing talent. Here’s a playbook for how to navigate
+
+this critical inﬂection point, helping you set the right tone, harness

@@ -1,7 +1,25 @@
-# HBR / Digital Article / How to Prepare for a Meeting Where Emotions Will Run High
+---
+source_path: H08OQ4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 528bc979d48bb4eaf9e5404246413b248ed4389e
+title: H08OQ4-PDF-ENG
+---
+# Connect Images/Getty Images
 
-teams had followed suit, creating silos, ineﬃciency, and widespread
+Leaders often ﬁnd themselves caught in the crosshairs of opposing
 
-tension. Jason knew he needed to step in but was anxious and
+opinions, strong personalities, and the responsibility to manage
 
-uncertain about his ability to manage the strong opposing viewpoints
+emotionally charged situations to a productive outcome.
+
+Take my client Jason, a marketing executive who reached out in
+
+distress. A simmering conﬂict between two key leaders on his team had
+
+escalated to the point where they refused to speak to each other. Their
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

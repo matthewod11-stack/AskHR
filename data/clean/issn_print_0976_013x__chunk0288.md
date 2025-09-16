@@ -1,17 +1,21 @@
-# alternative resources and links.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: afb3dafe96c8af780d9495988781e066b95fc06b
+title: issn_print_0976_013x
+---
+# attainment.
 
-Despite the advances in research angles of lean, agile, resilient, sustainable, and flexible, the
+Flexibility, in general, is a multi-dimensional and complex concept, and the implications
 
-search for a versatile integral actor which incorporates and guides research implications from
+associated with supply chain practices are imprecise and inconsistent, ranging from the
 
-different research aspects has been identified as reconfiguration (Dolgui et al., 2020), with its
+practices at individual resource, shop floor, plant level, operational and at the system level.
 
-origin in robotics dealing with the restructuring of modules in space. Reconfiguration has
+The triggers and enablers of flexibility have been identified in a literature review carried out
 
-been argued, as the extension of flexible manufacturing aspects emphasizing the aid of self-
+by Tiwari et al. (2015), in which critical flexible practices to mitigate risk and uncertainty are
 
-adjustments and adaptability, for rapid response to changes in a cost-effective manner for
+identified as encompassing adaptability, collaboration, integration, transparency and trust,
 
-companies (Koren et al., 1999).
-
-Traditional literature studies suggest reconfigurability in terms of changeability for quick and
+postponement, agility, outsourcing, restructuring, redundancy, and combination with

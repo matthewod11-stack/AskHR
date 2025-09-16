@@ -1,3 +1,11 @@
-# Personal Stressors
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f0cd77147830b90a372be83987bb65e5f41cf959
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Stress Sensitization
 
-Personal sources of stress deal with such nonwork issues as family and intimate relationships, marriage, divorce, health issues, financial problems, and rais- ing children. Difficult and angry people are also sources of stress because of the conflict they cause in our personal and work lives. In addition, having to deal
+The amount of stress you have experienced throughout your life seems to affect how you will handle future stress. For instance, if you are exposed to high levels of stress (such as abuse) over a long duration, studies suggest that you are likely to react more quickly and more negatively to situations that are potentially stress producing because, in a sense, you have become “trained” to respond in such a way. That is, if you are used to being jumpy because of the stress you experienced earlier in your life, you are more likely to react that way with future stress. This, of course, has implications for your future health and your stress behaviors. Desen- sitization can occur through learning new behaviors to handle stress and working through your feelings about past stress.
+
+Many events and factors could be considered stressors, and, as previously stated, what is stressful for one person may not be for another. Again, what determines whether something will be a stressor depends a great deal on its importance and the amount of perceived controllability. Stressors can be grouped under two broad categories: personal and occupational. Figure . lists common personal and occupational sources of stress.

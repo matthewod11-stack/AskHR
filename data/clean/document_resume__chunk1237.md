@@ -1,5 +1,11 @@
-# D. Student Affairs
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 76fdca97bda2b1b4b9a36f1d6d5f062bf3d73e57
+title: document_resume
+---
+# 2 Marginal
 
-- 1. Advising Assists students in cours- selection and career planning. Refers students to proper resources for personal counseling.
+Conducts pre and post conferences as necessary to evaluate previous clinical experiences. Uses conferences to make assign- ments. Allows student feedback regarding their experiences.
 
-5 Exceptional Guides students to discover their own career goals and directions. Refers students to knowledgeable persons in area of career interest. Exhibits concern for students with personal problems and refers them for personal counseling. Contacts advisees who fail to attend sessions with faculty advisor.
+1 Unacceptable Uses pre and post conferences chiefly for assignment purposes. Meets with students infrequently. Limits student input. Fails to critically evaluate feedback or consider alternate action.

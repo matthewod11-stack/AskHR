@@ -1,7 +1,11 @@
-# APAGS
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 141c2e1d84d6a83e9dce529bf8f87669883ce344
+title: untitled
+---
+## The Prescriptive Authority (RxP-) Agenda 41
 
-In 1988, the APA Council of Representatives formally estab- lished the American Psychological Association of Graduate Students (APAGS). Over the years, psychology has contin- ued to be one of, if not the, most popular undergraduate majors. By 2001, the APA membership (and afﬁliate) num- bers had grown to 155,000, with the APAGS possessing 59,700 members.
+of statutes and implementation of regulations that recognize psychology’s expertise. In the clinical arena, psychology’s expertise is now independently recognized throughout the judicial system and under all federal and private reimburse- ment systems. Psychology’s professional graduate students are supported under almost every federal training and service delivery initiative.
 
-An APAGS representative attends the open portions of the APA board of directors meetings (and another individual is seated on the ﬂoor of the Council of Representatives as a nonvoting member). Increasingly, as with other professions, the student voice is being heard. Several divisions, state asso- ciations, and council caucuses provide the APAGS with a voting seat on their boards of directors.
-
-Student participation brings to the APA governance delib- erations a unique focus upon the “here and now” practical consequences. The APAGS’s presence constantly reminds those within the APA governance that their deliberations do have very real consequences on future generations of profes- sional psychologists.
+The underlying unanswered question remains, however: Has professional psychology matured sufﬁciently to establish its own programmatic agenda via the public policy process (VandenBos, DeLeon, & Belar, 1991)?

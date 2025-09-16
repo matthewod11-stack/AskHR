@@ -1,17 +1,17 @@
-# career mentoring. Journal of Vocational Behavior, 65, 448–468. doi:10.1016/j.jvb.2003.10.003
+---
+source_path: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio.md
+pages: n/a-n/a
+chunk_id: f216473c7f70b0a60b0a54362963fafb17120597
+title: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio
+---
+## stigma? Journal of Social Issues, 69, 322–340. doi:10.1111/josi.12017
 
-Sullivan, S. E., & Arthur, M. B. (2006). The evolution of the boundaryless career concept: Examining physical and psychological mobility. Journal of Vocational Behavior, 69, 19–29. doi:10.1016/j.jvb.2005.09.001 Sullivan, S. E., & Mainiero, L. A. (2007). The changing nature of gender roles, alpha/beta careers and work-life issues: Theory-driven implications for human resource management. Career Development International, 12, 238–263. doi:10.1108/13620430710745881
+Sands, J., & Harper, T. (2007). Family-friendly benefits and organizational performance. Business Renaissance
 
-Thompson, C. A., Beauvais, L. L., & Lyness, K. S. (1999). When work–family benefits are not enough: The influ- ence of work–family culture on benefit utilization, organizational attachment, and work–family conflict. Jour- nal of Vocational Behavior, 54, 392–415. doi:10.1006/jvbe.1998.1681
+Quarterly, 2, 107–126.
 
-Uggerslev, K. L., Fassina, N. E., & Kraichy, D. (2012). Recruiting through the stages: A meta-analytic test of pre- dictors of applicant attraction at different stages of the recruiting process. Personnel Psychology, 65, 597–660. doi:10.1111/j.1744-6570.2012.01254.x
+Scandura, T. A., & Ragins, B. R. (1993). The effects of sex and gender role orientation on mentorship in male-
 
-Valcour, M., Bailyn, L., & Quijada, M. A. (2007). Customized careers. In H. Gunz & M. Peiperl (Eds.), Handbook
+dominated occupation. Journal of Vocational Behavior, 43, 251–265. doi:10.1006/jvbe.1993.1046
 
-of career studies (pp. 188–214). Thousand Oaks, CA: Sage.
-
-Vandello, J. A., Hettinger, V. E., Bosson, J. K., & Siddiqi, J. (2013). When equal isn’t really equal: The masculine
-
-dilemma of seeking work flexibility. Journal of Social Issues, 69, 303–321. doi:10.1111/josi.12016
-
-Weber, M. (1947). The theory of social and economic organization. New York, NY: Oxford University Press. Weng, Q., & McElroy, J. C. (2012). Organizational career growth, affective occupational commitment and turn-
+Scandura, T. A., & Williams, E. A. (2004). Mentoring and transformational leadership: The role of supervisory

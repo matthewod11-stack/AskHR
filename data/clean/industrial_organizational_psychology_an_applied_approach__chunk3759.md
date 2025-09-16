@@ -1,17 +1,19 @@
-# Product Design
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9a933234f13fb241b64b16d1fb8f6612d37e6aca
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Preventing Repetitive Stress Injuries
 
-596
+As a result of the amount of precision and computer work performed by employees, the number of hand and wrist injuries has greatly increased over the last decade. Th e most common of these repetitive-stress injuries (RSIs) or cumu- lative trauma disorders (CTDs) are carpal tunnel syndrome (CTS) and tendon- itis. RSIs aﬀ ect . million workers each year, annually costing employers over $. billion in workers’ compensation claims (Prewitt, ).
 
-appendix
+RSIs are the result of physical stress placed on the tendons and nerves that pass through a tunnel connecting the wrists and hands. Th e normal stress associ- ated with repeated ﬁ nger and hand movements is complicated by the awkward angle at which many employees must hold their wrists. Early symptoms of RSI include numbness and tingling in the hands and forearms. Later stages involve pain severe enough to make opening a door or holding a pen diﬃ cult, if not impossible.
 
-claims (Tyler, ). Th e training provided by M not only reduced the number of worker’s compensation claims by %, but also decreased absenteeism by % (Tyler, ).
+Treatments for CTS include taking anti-inﬂ ammatory drugs, wearing wrist braces, and undergoing surgery (more than , surgeries are performed annually). Th e healing process can take up to six months at a cost per case of $, in medical expenses and lost wages (Heilbroner, ). Many RSIs can be prevented by learning ergonomically proper work techniques, performing warm-up exercises, using wrist rests and special keyboards, taking breaks, and stopping work when numbness or pain begins.
 
-Human-factors psychologists are often employed by organizations to improve the “user friendliness” of products. Examples might include determining the best layout for a computer keyboard, choosing the optimal size for the ﬁ nger holes in a pair of scissors, or designing an automobile dashboard to reduce the distance a driver needs to reach to play the car stereo.
+A good example of an intervention to reduce RSIs is provided by Pratt & Whitney in Middletown, Connecticut. After employees complained of the physi- cal stress caused by repetitively using their ﬁ nger to open plastic bags containing machine parts, the company placed a small letter opener on the top of the carts used to move the parts. Th e cost for this intervention was only $ a cart. A more complicated intervention was implemented at a Goldkist plant in Alabama. To eliminate the need for employees to repetitively push crates of chicken along a series of rollers, the company installed a moving conveyor belt (Grossman, ).
 
-A good example of product design comes from a study by Dempsey et al. (), who were asked to help design the ideal satchel to be carried by postal workers. To do this, they tested four diﬀ erent satchels to determine which one was most comfortable, worked best in diverse climates, was easiest to use, and provided the best protection against attacking dogs. Th e results of their study indicated that the most comfortable bag also provided the worst protection against attacking dogs and had some problems with ease of mail retrieval.
+Organizations that have trained employees on ways to prevent RSIs have seen excellent results (Smith, b). For example, Mitsubishi reported a % decrease in RSIs over a two-year period following training, and M reported that its training program resulted in a % decrease in workers’ compensation
 
-A similar study was conducted by Pascoe, Pascoe, Wang, Shim, and Kim () in designing book bags. Pascoe and his colleagues compared the eﬀ ect that three types of bags—two-strap backpack, one-strap backpack, and one- strap athletic bag—had on the posture and gait of the student wearing the book bag. When compared with no book bag, all three types reduced stride length and increased stride frequency. Furthermore, the one-strap backpack and one- strap athletic bag resulted in uncomfortable changes in posture. However, the two-strap backpack did not result in such changes. Th us, the practical aspects of this study suggest that students should buy a backpack with two straps and, even though it is not as cool as slinging one strap over one shoulder, use both straps.
-
-Th e search for the ideal work glove provides another example of product design studies. Th is search took two paths: one that investigated the eﬀ ects of wearing gloves and another that compared the advantages of certain types of gloves over others. Th ough gloves clearly increase worker safety, their eﬀ ect on work performance depends on the type of task performed. For example, research- ers have found that wearing gloves increases muscle fatigue (Fleming, Jansen, & Hasson, ) and decreases the amount of turning force (the authors of the study called this “maximum volitional torque exertion of supination”) that can be exerted by a worker (Shih & Wang, ), but does not aﬀ ect the ability to dis- criminate weights (Shih & Wang, ).
-
-An example of a study searching for the optimal glove comes from Nelson and Mital (), who investigated the optimal thickness for examination gloves used by physicians (ouch!). Th eir study was conducted because although thicker gloves provide greater protection against needle sticks, they might also reduce the ability of the physician to perform sensitive work. Th e researchers tested ﬁ ve gloves ranging in thickness from . mm to . mm. Nelson and Mital found that the .-mm glove not only resisted routine impacts but provided the same level of dexterity and tactility as a bare hand. Th ough neither bags nor gloves are particularly exciting topics, these examples show the meticulous human-factors research that goes into the development of good products.
+595

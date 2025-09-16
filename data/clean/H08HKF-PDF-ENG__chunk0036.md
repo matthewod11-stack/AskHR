@@ -1,13 +1,7 @@
-# Baby Steps
-
-It is common for organizations to want to take “baby steps” in
-
-rolling out any enterprise-wide program. An RAI program is no
-
-exception. Implementing new policies, governance structures and
-
-entities, procedures, quality assurance and quality improvement,
-
-internal audits, training, etc. — each of which is a component of an eﬀective RAI program — is a complicated aﬀair.
-
-In large organizations, it aﬀects tens of thousands of employees and
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e91b7c52e27aa2ce440ef99d58735d880b12da3f
+title: H08HKF-PDF-ENG
+---
+# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist

@@ -1,9 +1,15 @@
-## Purpose Energy: Committed to a Noble Cause
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0b53548fdd8ef75845dae2dde51c647d6c91a4fd
+title: S24011-PDF-ENG
+---
+# How to Achieve Leadership-in-Flow
 
-- 1. Appeal to values and purpose. Discover and understand people’s dearly
+Leadership is not a set of traits to be learned; it is a state that can be
 
-held values and purpose and then tie them to what you’re seeking.
+attained by establishing a positive intention and then activating five core
 
-- 2. Reaffirm and reexpress. When facing an unexpected change or a
+energies we all possess, via quick actions that take just a few seconds to
 
-setback, find a way to reapply your core values and purpose to the new
+execute. Below are 25 actions that you can use to tap your core energies.

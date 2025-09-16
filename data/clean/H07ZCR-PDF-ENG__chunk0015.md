@@ -1,21 +1,17 @@
-# HBR / Digital Article / Becoming More Collaborative When Your Impulse Is to Be Territo…
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19a40cf2c99e1db9704e2634504d566b1f1ead32
+title: H07ZCR-PDF-ENG
+---
+# particular organizational goal.
 
-which stakeholders are critical to your success in the near term. Then
+A powerful exercise to clarify where to focus your energy to align
 
-you’ll be able to determine the actions you must take to move the
+incentives is a “stakeholder evaluation map.” This will help you identify
 
-relationship forward to achieve a mutually beneﬁcial outcome.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-To create a stakeholder evaluation map, start with a particular goal or
+4
 
-objective — for example, in Elena’s case, she was focused on increasing
-
-revenue from existing clients year-over-year by 15% and new customer
-
-referrals by 12%. Then ask yourself:
-
-- Who are the key stakeholders I must engage in the coming three to six
-
-months to be successful?
-
-- What speciﬁc resources will I need to meet this objective, and by
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

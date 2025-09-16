@@ -1,9 +1,25 @@
-## 95.9 % of the time, versus only 11.5 % for unasked skills.
+---
+source_path: H08UWX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04a4b241c0a519528068d19b5470891fc2a5b8d1
+title: H08UWX-PDF-ENG
+---
+# candidate’s qualiﬁcations.
 
-The risk this creates is clear: At best, we ﬁnd that almost half of the
+One remarkable ﬁnding relates to the role of structured questioning.
 
-oﬀers extended through such a process will rely on incomplete or biased
+Skills that interviewers explicitly asked about ended up being well-
 
-information. At worst, when a skill is never asked about explicitly,
+covered during the interview process only 53% of the time. This is
 
-that share is over 90%. In this context, candidates who happen to
+compared with just 1.6% for skills that were never asked about—which
+
+suggests that candidates should make sure to mention signiﬁcant
+
+attainments and emphasize points that they feel will advance their
+
+candidacies if interviewers aren’t asking about them in detail early
+
+on. Looking more broadly, when both the “well-covered” and “partially
+
+covered” categories are combined, asked-about skills were addressed

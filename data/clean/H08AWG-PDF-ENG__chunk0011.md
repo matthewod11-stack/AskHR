@@ -1,15 +1,33 @@
-# life) commuting.
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c513ad4b9ebbd8257c229358f98efc963934af6c
+title: H08AWG-PDF-ENG
+---
+# time.
 
-To meet employees’ diverse needs, employers should engage in
+Taken together, these ﬁndings tell us a few key things about workers
 
-continuous dialogue with workers to understand their desired degrees
+and their experiences in the modern workplace. First, job satisfaction is
 
-of structure and autonomy. Employers can institute workplace policies
+not just about how much work employees have to do. Some employers
 
-that create ﬂexibility and control for workers, including remote, hybrid, or asynchronous work options and leave policies that aﬀord employees
+(and too many pundits) have recently been arguing that “nobody wants
 
-more time with their loved ones. In addition to helping employees be
+to work anymore.” Our analyses do not support that (cynical) view of
 
-more satisﬁed at work and potentially increasing retention, these types
+contemporary workers. It is not the case that employees who work less
 
-of policies can also help organizations become more accessible and
+are more satisﬁed than those who work more.
+
+Instead, the driving factor behind worker satisfaction seems to be how
+
+much control over their time workers feel they have. Employees are
+
+not resisting the oﬃce because they don’t want to work or want to
+
+work less; instead, they want to be able to control their time — to do
+
+some chores between Zoom meetings, for instance, or get more regular
+
+exercise instead of spending 10 days per year (or almost a year of one’s

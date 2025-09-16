@@ -1,11 +1,11 @@
-## I. The themes and philosophy of behavioral economics
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 8f8f830391189a19a0cef9d5c10d21c06ecbfec3
+title: behavioral_economics_1
+---
+# Abstract
 
-Behavioral economics applies models of systematic imperfections in human rationality, to the study and
+Behavioral economics uses evidence from psychology and other disciplines to create models of limits on rationality, willpower and self-interest, and explore their implications in economic aggregates. This paper reviews the basic themes of behavioral economics: Sensitivity of revealed preferences to descriptions of goods and procedures; generalizations of models of choice over risk, ambiguity, and time; fairness and reciprocity; non-Bayesian judgment; and stochastic equilibrium and learning. A central issue is what happens in equilibrium when agents are imperfect but heterogeneous; sometimes firms “repair” limits through sorting, but profit- maximizing firms can also exploit limits of consumers. Frontiers of research are careful formal theorizing about psychology and studies with field data. Neuroeconomics extends the psychological data use to inform theorizing to include details of neural circuitry. It is likely to support rational choice theory in some cases, to buttress behavioral economics in some cases, and to suggest different constructs as well.
 
-engineering of organizations, markets and policy. These imperfections include limits on rationality, willpower
-
-and self-interest (Rabin, 1998; Mullainathan and Thaler, 2000), and any other behavior resulting from an
-
-evolved brain with limited attention. The study of individual differences in rationality, and learning, is also
-
-important for understanding whether social interaction and economic aggregation minimizes effects of
+January 18, 2006. This paper was prepared for the World Congress of the Econometric Society, 2005, London 18-24 August 2005. Thanks to audience members and Ariel Rubinstein for comments, and to Joseph Wang for editorial help.

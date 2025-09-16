@@ -1,3 +1,21 @@
-# 44 CHELLADURAI AND SALEH
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: 5f3b60d386897151dab55b8957c96450c90c4b0b
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# LEADERSHIP SCALE 43
 
-different sports (Chelladurai & Saleh, 1978). The differences in the preferences (or perceptions) expressed by athletes of different teams in a sport could be related to criteria of interest like satisfaction and performance (Chelladurai, 1978). The distinction between the decision style ofthe leader and the substance of his or her behavior holds promise for the matching of a decision style to specific sports situations (Chelladurai & Haggerty, 1978). Because scales similar to the LSS are used in other fields, it would facilitate comparison with and extensions of research findings from those fields.
+needs of the athletes. The coach's behavior may directly satisfy such needs or the coach may create a climate in which the members mutually satisfy their interper- sonal needs. It should be noted that social support is provided independently of member performance.
+
+This factor is similar to the Support factor in other leadership scales (Bowers & Seashore, 1966; House & Dessler, 1974). Danielson et al. (1975) in their study of coaching behavior identified a similar dimension which described socially oriented behavior outside the athletic situation.
+
+Factor 5—Positive Feedback. The factor of Positive Feedback includes five items. Athletic competitions, in general, are zero-sum games in which victory is attainable by only one of the contestants. An athlete, or team may perform at the maximum potential and yet lose a competition. Further, in team sports, contri- butions by certain positions may go unnoticed and unrecognized. It is therefore important for the coach to express appreciation and to compliment the athletes for their performance and contribution.
+
+Positive feedback from the coach is crucial in maintaining the motivational
+
+level of the athletes. Oldham (1976) found that it was one of the motivational strategies that predicted leader effectiveness. The path-goal theory (House & Dessler, 1974) posits that the effectiveness of leadership is related to the extent that the leader provides "rewards necessary for effective and satisfying perform- ance that would otherwise be lacking in the environment" (p. 31). This factor was originally labeled as "Rewarding Behavior" (Chelladurai & Saleh, 1978). Although Social Support and Positive Feedback are two aspects of the traditional dimension of "Consideration," a distinction must be made between them. Social support behavior is not contingent on individual performance and is provided outside of the athletic context (Danielson et al., 1975) whereas positive feedback behavior depends on the athlete's performance. Positive feed- back can be motivational only if it is contingent on performance.
+
+In summary, the LSS consists of one direct task factor (Training and Instruc- tion), two decision-style factors (Democratic and Autocratic Behavior), and two motivational factors (Social Support and Positive Feedback). Although the five selected factors do not explain all of the total variance in the three sets of data,' the LSS provides the researcher with a valuable tool that has advantages over other proposed factor structures (e.g., Danielson et al., 1975). These dimensions are consistent with the path-goal theory of leadership (House & Dessler, 1974), they are conceptually distinct categories of coaching behavior, and each of the dimensions is relatively reliable. The LSS could be used profitably in the analysis of coaching behavior and its effectiveness. For instance, leadership theory and research suggest that leader behavior should be varied according to the situation and the needs of the individual. The appropriateness of specific coaching behav- iors could be assessed by administering the questionnaire to participants in
+
+'An obvious limitation restricting the amount of explained variance in studies of this type is that the number and type of item statements included in the initial pool may not have been completely adequate.

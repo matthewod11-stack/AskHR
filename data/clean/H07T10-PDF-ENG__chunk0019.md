@@ -1,15 +1,9 @@
-## in their level of complexity and involvement.
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf53ade26e80a103cc05b4cbafe2991e5edfe76a
+title: H07T10-PDF-ENG
+---
+# questions.
 
-- Factual questions: Questions that have straightforward answers
-
-based on facts or awareness.
-
-- Convergent questions: Close-ended questions with ﬁnite answers.
-
-Typically, these questions have one correct answer.
-
-- Divergent questions: Open-ended questions that encourage many
-
-answers. These questions are a means for analyzing a situation,
-
-problem, or complexity in greater detail and stimulate creative
+The interviewee may use four types of questions, which are increasing

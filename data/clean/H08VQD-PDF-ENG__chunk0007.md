@@ -1,13 +1,19 @@
-## recipe for depression and anxiety and a sense of hollowness, which, by
+---
+source_path: H08VQD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 01fe845588cb8dac4e542b85f915ec8685076ae9
+title: H08VQD-PDF-ENG
+---
+# for 15 seconds.
 
-the way, are all through the roof.
+What are you doing? You’re actually trying to not be bored because the
 
-I get it. You don’t want to be bored. You need to be bored. Be bored
+default mode network is mildly uncomfortable, because it sends you to
 
-more. Tomorrow, when you go to the gym in the morning after you
+the types of questions that you can’t get your mind around. You can’t
 
-wake up, don’t take your phone. Can you handle it? Not listening to a
+get your arms around. Well, that’s a big problem. That’s a doom loop
 
-podcast while you’re working out. Just being in your head. I promise
+of meaning. If every time you’re slightly bored pull out your phone, it’s
 
-you, you’ll have your most interesting ideas while you’re working out
+going to get harder and harder for you to ﬁnd meaning, and that’s the

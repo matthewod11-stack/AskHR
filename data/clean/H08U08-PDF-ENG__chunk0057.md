@@ -1,9 +1,9 @@
-# simpáticos que son.
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb0db6b2f31b9767b733b6b8114cde736c151b18
+title: H08U08-PDF-ENG
+---
+# HBR / Artículo digital / Retener a los miembros de los equipos críticos durante los des…
 
-- Utilice resúmenes claros y visuales. Un mapa de valores estratégicos
-
-conciso con clasiﬁcaciones de riesgo y viñetas escaneables ayuda a los
-
-ejecutivos a comprender lo que está en juego en cuestión de segundos.
-
-- Haga un seguimiento por escrito. Un correo electrónico nítido o
+o ahorrar tiempo. No empiece con lo mucho que trabajan o lo

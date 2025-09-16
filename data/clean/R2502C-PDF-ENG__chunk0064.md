@@ -1,11 +1,9 @@
-# achieve measurable results.
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38ec321a9689d7c893f2e613166b2c4c0f903de7
+title: R2502C-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Strategic Fit
 
-Runyon told us that in the beginning, most competitors assumed the
-
-business model couldn’t work. But once they saw SEB’s proﬁtable
-
-growth, copycats emerged. By then SEB had created the competitive
-
-advantage that would be hardest to replicate: a people-centric culture
-
-that inspires everyone to be passionate about what they do. That culture
+welcoming environment, boosting engagement, and helping members

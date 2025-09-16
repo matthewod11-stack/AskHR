@@ -1,5 +1,13 @@
-# Wilmington, DE: Wide Range.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: cbba0e5578c171ddf7fb8517390225084554e8ee
+title: untitled
+---
+# Mahwah, NJ: Erlbaum.
 
-Wilson, M. S., & Reschly, D. J. (1996). Assessment in school psy- chology training and practice. School Psychology Review, 25, 9–23.
+Weiner, I. B. (2001). Advancing the science of psychological assessment: The Rorschach Inkblot Method as exemplar. Psychological Assessment, 13, 423–432.
 
-Woodworth, R. S. (1920). Personal data sheet. Chicago:
+Westen, D., Lohr, N., Silk, K., Kerber, K., & Goodrich, S. (1985). Object relations and social cognition TAT scoring manual. Ann Arbor: University of Michigan.
+
+Wilkinson, G. S. (1993). Wide Range Achievement Test–3.

@@ -1,19 +1,21 @@
-## perceptual impairment,” psychology and business professor Richard
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 7ec386bfcc49ee4965dc15e08f19734cde423012
+title: The Feedback Fallacy
+---
+## response to these diﬀerent sorts of attention.
 
-Boyatzis said in summarizing the researchers’ ﬁndings.
+In the brains of the students asked about what they needed to correct,
 
-Focusing people on their shortcomings or gaps doesn’t enable learning.
+the sympathetic nervous system lit up. This is the “ﬁght or ﬂight”
 
-It impairs it.
+system, which mutes the other parts of the brain and allows us to
 
-In the students who focused on their dreams and how they might
+focus only on the information most necessary to survive. Your brain
 
-achieve them, the sympathetic nervous system was not activated.
+responds to critical feedback as a threat and narrows its activity.
 
-What lit up instead was the parasympathetic nervous system,
+The strong negative emotion produced by criticism “inhibits access
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to existing neural circuits and invokes cognitive, emotional, and

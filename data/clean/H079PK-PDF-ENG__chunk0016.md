@@ -1,27 +1,13 @@
-# diﬀerentials in pay for the same work.
+---
+source_path: H079PK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 949aa4f8332eb4a1a2c82e6054b3deb0b6f4f875
+title: H079PK-PDF-ENG
+---
+## HBR / Digital Article / 3 Negotiation Myths Still Harming Women’s Careers
 
-The gender wage gap is calculated by comparing the earnings of male
+I don’t push for higher pay, I’m letting women down.” This is an unfair
 
-and female full-time workers. Jobs dominated by men tend to be higher
+burden to place on women, particularly because the gender wage gap
 
-paid and more time-intensive, on average, than those dominated by
-
-women. To be sure, there are situations in which women are unfairly
-
-paid, and those should be addressed. However, negotiating for women’s
-
-occupational advancement is likely to have a greater impact on the
-
-gender wage gap than negotiating solely for more pay in current roles.
-
-The keys to closing the gender wage gap are to support women’s
-
-occupational advancement into higher-paid jobs and to decrease the
-
-costs workers pay for seeking family-friendly work arrangements. In
-
-other words, let’s redirect the emphasis toward supporting women’s role
-
-negotiations and toward problem solving around work and family for all
-
-workers — and stop pressuring to women to focus on pay negotiations
+is more about the types of jobs that men and women are in than about

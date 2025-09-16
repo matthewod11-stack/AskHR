@@ -1,39 +1,29 @@
-## on Google, Bing, and custom-built search engines and chatbots that
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87de40f0224b164cb1a18451b03bfdedef44a16a
+title: H08UMD-PDF-ENG
+---
+## Search Engines Don’t Change Your Views—They Reinforce Them
 
-were designed to test speciﬁc interventions. In 2023 they added gen
+Despite what you might think, looking up information online is unlikely
 
-AI tools like ChatGPT—which people are increasingly using instead of
+to alter people’s opinions of things. That’s because your preexisting
 
-traditional engines—to the experiments. Analyzing searches across a
+beliefs have a major impact on the results you get from search engines
 
-variety of subjects, they observed that prior beliefs tended to persist
+like Google or Bing. If you believe caﬀeine is unhealthful, for example,
 
-after a search, mostly because of people’s tendency to base search
+you’ll tend to use search terms like “risks of caﬀeine.” If you think
 
-terms on those beliefs. However, in one of the studies the researchers
+nuclear energy is good, you’ll be likely to query the “beneﬁts of nuclear
 
-developed a custom search engine designed to provide people with a
+energy.” Because search algorithms surface the answers most relevant
 
-broader set of information. They recruited 1,002 participants to test
+to the terms you type, the results typically conﬁrm what you thought in
 
-whether its results reduced the eﬀects of narrow, biased searches. The
+the ﬁrst place. And that makes it harder for people to discover broader
 
-subjects ﬁrst read a passage about the debate over whether younger or
+perspectives and learn, according to the authors of 21 global studies.
 
-older people make better leaders, which focused on people’s cognitive
-
-abilities. Then they were instructed to use the search engine to explore
-
-the relationship between mental acuity and age. The search engine,
-
-without the participants’ knowledge, displayed one of two sets of
-
-10 search results: The ﬁrst was based on the participant-generated
-
-term, and the second was broader, combining multiple perspectives.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Beginning in 2020 researchers asked nearly 10,000 people to search

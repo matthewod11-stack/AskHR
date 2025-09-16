@@ -1,25 +1,23 @@
-## special projects for the CFO and the head of human resources. She
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4b145faf1c6283c547396f0ac285ee413c244ab
+title: R2003G-PDF-ENG
+---
+# Shaping the Job to Fit the Need
 
-also prepares prework, handles follow-up, and sits in on most board
+My observations of how this position has evolved in business
 
-meetings. Susan has worked at this company for almost 20 years, under
+organizations suggest that it entails three levels of responsibility.
 
-three chief executives, and she understands the culture. She has good
+Level 1. A CoS at level one has typically been promoted from an
 
-project-management skills, is well regarded by each of the CEO’s direct
+executive assistant role. An example is Susan, who was the more senior
 
-reports, and was underutilized in her EA job.
+of two EAs to the CEO of a large energy-related corporation before she
 
-Level 2. Greg is typical of a level two CoS. He joined a large life sciences
+became his CoS. Her replacement as senior EA and the other assistant
 
-company as chief of staﬀ after earning a PhD and an MBA from top
+now report to her. In addition to overseeing use of the CEO’s time
 
-programs and then working for a strategy consulting company, where
-
-his current boss was a client. Greg works closely with the heads of
-
-business development and R&D on alliances and acquisition projects, and with the chief human resources oﬃcer on ﬁnding scientiﬁc talent.
-
-Much of Greg’s time is spent helping manage relationships with the
-
-company’s scientiﬁc partners and studying the forces that have an
+and ensuring his focus on the most important issues, she manages

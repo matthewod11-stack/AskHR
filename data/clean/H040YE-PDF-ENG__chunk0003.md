@@ -1,3 +1,7 @@
-# by Sami Mahroum and Rashid Ansari
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b6eb63138aca19b78b8f2adf6f8c1087f601609
+title: H040YE-PDF-ENG
+---
+## What the Data Tells Us About Immigrant Executives in the U.S.

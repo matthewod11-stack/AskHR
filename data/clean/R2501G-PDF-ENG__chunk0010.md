@@ -1,15 +1,23 @@
-## (the target population) the most popular ﬁlms and TV shows in their
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37f998a8382c9ce73300894de07b887c3447816b
+title: R2501G-PDF-ENG
+---
+# The Current State
 
-country would improve the user experience as measured by viewing
+The basics of experimentation are straightforward. Running an A/B
 
-engagement on Netﬂix (the outcome metric). The experiment revealed
+test involves three main steps: creating a challenger (or variant) that
 
-that the change did indeed improve the user experience without
+deviates from the status quo; deﬁning a target population (the subset
 
-impairing other important business outcomes, such as the number of
+of customers targeted for the test); and selecting a metric (such as
 
-customer service tickets or user-interface load times. So the Top 10
+product engagement or conversion rate) that will be used to assess
 
-row was released to all users in early 2020. As this example illustrates,
+the outcome. Here’s an example: In late 2019, when one of us (Martin)
 
-experimentation enables organizations to make data-driven decisions
+led its experimentation platform team, Netﬂix tested whether adding
+
+a Top 10 row (the challenger) on its user interface to show members

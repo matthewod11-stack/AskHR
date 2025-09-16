@@ -1,5 +1,9 @@
-# Independent variable
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: ee486e319403a1b0b0884d3df2318474bcdf3446
+title: file_1
+---
+# 95
 
-Model of individuals’ perceptions of overall gender inequality (perceiving gender inequality to a greater extent(cid:2) perceiving gender inequality to a lesser extent) t
-
-(cid:2)
+Table 4 Results of linear regression analysis of individuals’ perceptions of overall gender inequality

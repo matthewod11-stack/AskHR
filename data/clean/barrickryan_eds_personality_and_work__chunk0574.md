@@ -1,5 +1,13 @@
-# 180 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 9bf24b027ae2b76a6e435c7bb4c9205b6f9fcec0
+title: barrickryan_eds_personality_and_work
+---
+# Human Decision Processes, 4, 309–336.
 
-Miles, D. E., Borman, W. E., Spector, P. E., & Fox, S. (2002). Building an integrative model of extra work behaviors: A comparison of coun- terproductive work behavior and organizational citizenship behav- ior. International Journal of Selection and Assessment, 10, 46–52. Mobley, W. H., Horner, S. O., & Hollingsworth, A. T. (1978). An evalua- tion of precursors of hospital employee turnover. Journal of Applied Psychology, 63, 408–414.
+McCrae, R. R., & Costa, P. T. (1985). Comparison of EPI and psychoticism scales with measures of the Five-Factor theory of personality. Per- sonality and Individual Differences, 6, 587–597.
 
-Moyle, P. (1995). The role of negative affectivity in the stress process: Tests of alternative models. Journal of Organizational Behavior, 16, 647–668. Murray, H. A. (1938). Explorations in personality. New York: Oxford Uni-
+McCrae, R. R., & Costa, P. T. (1986). Personality, coping, and coping effectiveness in an adult sample. Journal of Personality, 54, 385–405. McCrae, R. R., & Costa, P. T., Jr. (1999). A Five-Factor theory of person- ality. In L. A. Pervin & O. P. John (Eds.), Handbook of personality: The- ory and research (2nd ed., pp. 139–153). New York: Guilford Press.
+
+McHenry, J. J., Hough, L. M., Toquam, J. L., Hanson, M. A., & Ashworth, S. (1990). Project A validity results: The relationship between pre- dictor and criterion domains. Personnel Psychology, 43, 335–354.

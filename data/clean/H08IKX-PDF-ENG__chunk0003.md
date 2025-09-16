@@ -1,7 +1,17 @@
-# or longevity of Covid-19.
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fad414051b162a8dd9a78119f18dcaab9aacf45
+title: H08IKX-PDF-ENG
+---
+# MirageC/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+In January 2020, just eight months into her tenure as CEO of Best Buy,
 
-1
+Corie Barry learned about a novel coronavirus spreading in China. By
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+early March, Barry was getting reports that the virus was spreading
+
+rapidly on the U.S. coasts. She realized then that the company had no
+
+handbook for a global pandemic and no clarity about the nature, extent,

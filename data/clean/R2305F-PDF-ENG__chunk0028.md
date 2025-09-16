@@ -1,21 +1,51 @@
-## comment on the negative aspects at all; the
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a365d6f64b6acca33be795f58392203f516ab809
+title: R2305F-PDF-ENG
+---
+## HBR / Magazine Article / When Diversity Meets Feedback
 
-Thai employees would understand that he
+American working in Silicon Valley. With little understanding of
 
-Walter Chandoha was the most pro- lific feline photographer of the 20th century. Over a career spanning sev- en decades, he produced more than 225,000 photographs of animals, including approximately 90,000 of cats.
+cultural diﬀerences, he soon found himself in trouble for giving
 
-was not happy with what he hadn’t
+feedback (by video) to coworkers in Thailand using methods common
 
-mentioned. For example, when
+in the United States. HR in Bangkok responded by complaining that he
 
-commenting on a presentation he’d just
+was bullying his Thai colleagues.
 
-seen, he might say, “I especially liked the
+Jethro describes the situation like this: “I’d thought carefully about how
 
-examples you gave in the presentation last
+to provide the feedback. My comments (both verbal and then in writing)
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+were speciﬁc, explaining what actions had led to positive results and
 
-8
+which had been problematic, and then outlining clearly what my
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+colleagues needed to do diﬀerently to improve client satisfaction.”
+
+The head of HR in Thailand had some feedback of her own, however.
+
+“The American tendency to give feedback by explicitly stating ‘the area
+
+in need of improvement’ already feels aggressive to a Thai recipient,”
+
+she told Jethro. “To make things worse, Americans frequently end
+
+discussions by recapping key points in writing, which makes us feel that
+
+you don’t trust us to do as we say or are trying to get us in trouble.”
+
+She explained that Jethro would have more
+
+success if instead of detailing what his Thai
+
+colleagues had done wrong, he praised
+
+what was good clearly and left out what
+
+was bad. If he was speciﬁc about the things
+
+that had worked well, he didn’t need to

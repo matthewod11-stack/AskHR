@@ -1,29 +1,23 @@
-## poor emotional regulation, techniques such as mindfulness, stress
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2031a507c2e1ef822f4e8ea9bc5b00fb3f438560
+title: H08GNP-PDF-ENG
+---
+# prevalence of abusive leader behavior?
 
-management, and cognitive-behavioral strategies can help leaders
+We suggest leaders like Pat must either consistently eliminate all future
 
-better manage their emotional responses and thus prevent abusive
+instances of abusive behavior or reconsider the beneﬁts of trying
 
-supervision from happening, particularly in high-pressure situations.
+to “restore” their image after cyclic acts of abuse. Leaders should
 
-For organizations, it is essential to use all available HR tools — such
+recognize that attempts to “make up” for past negative behavior by
 
-as training, selection, rewards, and disciplinary actions — to address
+“doing good” — unless they eliminate future acts of abuse completely
 
-and reduce instances of Jekyll and Hyde leadership. Leaders across hierarchical levels should receive training on eﬀective self-regulation
+— can backﬁre, exacerbating the situation rather than ameliorating it.
 
-to prevent abusive behavior that might follow their ethical actions,
+For leaders, consistency in positive and fair leadership behaviors is
 
-or the other way around. Additionally, selecting individuals with high
-
-self-control and emotional stability can help ensure consistent, fair
-
-leadership. Organizations should also create channels for employees to
-
-report abusive behavior and have clear protocols for holding leaders
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the only way to go. As unfair leadership behaviors often stem from

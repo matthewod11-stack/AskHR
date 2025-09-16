@@ -1,7 +1,9 @@
-# REFERENCES
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: da90adea737d1ca2ab0654b1c3c7671a21501628
+title: untitled
+---
+# References
 
-Anderson, H. H. (1937). Domination and integration in the social behavior of young children in an experimental play situation. Genetic Psychology Monographs, 19, 343–408.
-
-Asher, S. R., & Gottman, J. M. (Eds.). (1981). The development of children’s friendships. New York: Cambridge University Press. Aslin, R. N. (1993). The strange attractiveness of dynamic systems to development. In L. B. Smith & E. Thelen (Eds.), A dynamic systems approach to development (pp. 385–400). Cambridge, MA: MIT Press.
-
-Aslin, R. N. (1998). The developing brain comes of age. Early
+organized and would represent the levels of analysis that are intrinsic to different areas of development, just as we have longrecognizedthatbiological,biochemical,andsociallevels of inquiry may each have its own set of integrative principles (Sameroff, 1994). Multiple integrative approaches may be neededtocoverdifferentpartsofthedevelopmentterrain.The goal is to retain the advances that our retreat to minitheories has brought but, at the same time, to begin to put the “whole child” back together again. Our forebears had the vision to see this as the goal, and we should be in a better position to achieve it now than they were a century ago.

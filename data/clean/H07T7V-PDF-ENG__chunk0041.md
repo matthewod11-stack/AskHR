@@ -1,11 +1,21 @@
-# culture of openness.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe73f633cac7984fed8f36c5e59bd7b4439e87b7
+title: H07T7V-PDF-ENG
+---
+## an astonishingly good bureaucracy-reduction mechanism.
 
-When I used to hear this word, “vulnerability”, in connection with
+Maybe the deepest thing that Nadella did was that he pulled oﬀ this
 
-leadership or business, I thought it was just a buzz phrase, hand wavy,
+amazing feat of helping Microsoft become a less defensive organization.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+What I mean by that was, he said in his interview with me, “We had
 
-13
+a culture where it was not OK to be wrong, to show any weakness, to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+not hit your numbers, to not be the smartest person in the room.” He
+
+said, “We just had that culture and it had to change.” He did a number
+
+of really brilliant things to move from a culture of defensiveness to a

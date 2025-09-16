@@ -1,9 +1,9 @@
-# KS
+---
+source_path: H08UBJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d14e226a16a43a4182fb2b6882f00541b02d78c
+title: H08UBJ-PDF-ENG
+---
+# AR
 
-Karin Shields is a senior lecturer in accounting at the Open University, UK, where she teaches advanced ﬁnancial accounting and advanced management accounting and leads research in gender in accounting and sustainability accounting. Before joining the Open University in 2023, she held a position at Birkbeck, University of London. Dr. Shields has published on topics ranging from insider trading and earnings management to the rhetorical strategies used in lobbying international accounting standard-setters. Her recent work includes a chapter on “The Concept of Capitals” (2024) and journal articles examining the intersection of gender, insider trading, and corporate disclosure.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Alan Duboisée de Ricquebourg is an associate professor of accounting at Leeds University Business School and a Fellow of the Institute of Chartered Accountants in England and Wales. His research focuses on auditor reporting, regulatory audit reforms, and ﬁnancial analysts’ monitoring eﬀectiveness, with publications in leading journals like European Accounting Review, British Accounting Review, Accounting Auditing & Accountability Journal, and Critical Perspectives on Accounting.

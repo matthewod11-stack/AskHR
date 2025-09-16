@@ -1,9 +1,9 @@
-# pessoas?"
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 8307698f6d7164f85e4b7fca70a30f040805d05f
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# específicas?):
 
-Fonte: respostas do questionário aplicado aos funcionários
-
-Após responderem se eram ou não líderes, os formulários direcionam
-
-automaticamente os respondentes às sessões de questões para líderes ou
-
-colaboradores sem função gratificada.
+Figura 10: Respostas à pergunta "Você ocupa atualmente uma posição de liderança de

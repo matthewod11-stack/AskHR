@@ -1,13 +1,31 @@
-# HBR / Digital Article / A Sports Analogy for Understanding Different Ways to Use AI
+---
+source_path: H07WF3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1ad8cb3dd538096083b1fe74516ee3f5dc143aa
+title: H07WF3-PDF-ENG
+---
+# Priorities Will Evolve
 
-freed up time for people to invest in developing other skills. In short,
+None of these categorizations are straightforward and can carry nuance
 
-we have decided to let some skills atrophy so that we can focus on
+from person to person and industry to industry. Consider how the value
 
-developing others.
+placed on spelling and arithmetic has changed over time. As mentioned
 
-With the growth of AI-powered tools, we expect to see similar shifts
+above, it used to be the case that being able carry out long division or
 
-in the skills that are valued and prioritized by society. People will
+spell obscure words without aid were prized and respected talents, but
 
-use their time diﬀerently and invest their learning in new places.
+now they are now largely seen as archaic and esoteric skills. Presumably
+
+this is because most people have access to a reliable calculator or spell-
+
+checking tool when they need one, transforming what was at some
+
+point feared to be a steroid into less of a concern. As a result, this has
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

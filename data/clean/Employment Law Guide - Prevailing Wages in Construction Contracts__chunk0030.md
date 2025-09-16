@@ -1,7 +1,7 @@
-# Weekly Certiﬁed Payrolls
-
-Each contractor must submit weekly to the contracting agency or entity certiﬁed payrolls providing the
-
-following information for each covered worker for the preceding weekly payroll period:
-
-Name and an individually identifying number for each worker (e.g., last four digits of worker's social security
+---
+source_path: Employment Law Guide - Prevailing Wages in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: 09d44eb3e81cd4793d4c4da494e60dae515df6bc
+title: Employment Law Guide - Prevailing Wages in Construction Contracts
+---
+# Reporting

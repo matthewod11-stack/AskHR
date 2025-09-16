@@ -1,17 +1,11 @@
-## Ruchika T. Malhotra, author of Inclusion on Purpose. “Actions most
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 410dbe6713914d5bcd154951835a3522ec01a910
+title: H08LGU-PDF-ENG
+---
+# intergroup hostility and polarization.
 
-often change as a result of intentionally designed processes. For
+“I’ve been encouraged by data that show if you design for better
 
-example, designing a more equitable hiring process actually beneﬁts
-
-people of all backgrounds. But if people are resistant to the word
-
-‘equitable,’ it shouldn’t stop leaders from designing for better hiring
-
-outcomes using the same principles.”
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+processes, you don’t always need to ﬁrst get everyone on board,” said

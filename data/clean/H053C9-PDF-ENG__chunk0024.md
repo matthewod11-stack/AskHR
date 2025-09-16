@@ -1,15 +1,13 @@
-# HBR / Digital Article / How Multinationals Can Help Advance LGBT Inclusion Around th…
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9db30bf9727696c23ba7898bb9332de65324ea0b
+title: H053C9-PDF-ENG
+---
+# Advocate globally.
 
-The interviewees in our study represented businesses using all three
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-models. Yet most of them had witnessed encouraging progression
+3
 
-toward Advocacy over time. When we asked how they each moved the
-
-needle in their respective locations, they shared both the successes and
-
-the challenges. Based on that interview data, we suggest three actions
-
-to help companies move from When in Rome to Embassy and three
-
-additional actions to help them move from Embassy to Advocate.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

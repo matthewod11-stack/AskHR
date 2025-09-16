@@ -1,7 +1,9 @@
-# activities. J. Appl. Psychol. 82:845–57
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 7d122d8428c12fda0d5d67c79d5d0ae5d4c1282d
+title: arop1noe_245_275
+---
+## processes, learning, and adaptability. J. Appl. Psychol. 93:296–316
 
-Blume BD, Ford JK, Baldwin TT, Huang JL. 2010. Transfer of training: a meta-analytic review. J. Manag.
-
-36:1065–105
-
-Bonk CJ, Graham CR. 2012. The Handbook of Blended Learning: Global Perspectives, Local Designs. San
+Benson G. 1997. Informal training takes off. Train. Dev. 51:93–94 Birdi K, Allen C, Warr P. 1997. Correlates and perceived outcomes of four types of employee development

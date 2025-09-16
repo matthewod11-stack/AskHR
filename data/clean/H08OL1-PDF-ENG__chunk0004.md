@@ -1,11 +1,29 @@
-## Our research, published in Equality, Diversity, and Inclusion: An
+---
+source_path: H08OL1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 086221a3b399f3a9dd522e193006aaadcb7a48e1
+title: H08OL1-PDF-ENG
+---
+## HBR / Digital Article / Research: The Gender Wage Gap Tipping Point
 
-International Journal, found that having more women in a job category
+While there are numerous proposed explanations for this persistent
 
-does, in some capacity, help close the wage gap. But there’s a tipping
+gender wage gap—including women choosing to work in lower-
 
-point: Once women make up a certain proportion of an occupation, the
+paying jobs or working fewer hours than men, leaving the workforce for
 
-wage gap narrows more slowly. This shift suggests the relationship is
+caregiving responsibilities, or facing gender bias and discrimination—
 
-more complex than it might appear; it is not as simple as “the more
+some have argued that simply increasing the representation of women
+
+in the workforce is enough to naturally eliminate the gap.
+
+We know that this “add women and stir” approach is important and can
+
+yield some improvements, but it isn’t enough on its own to solve the
+
+persistent wage gap problem. However, we wondered whether there is
+
+a speciﬁc point where the proportion of women in a given occupation
+
+meaningfully aﬀects how much they’re paid compared to men.

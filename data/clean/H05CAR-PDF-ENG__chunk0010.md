@@ -1,17 +1,17 @@
-## diﬀerently. In one-on-one meetings with individual board members of
+---
+source_path: H05CAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b6a957b288a1f57ebc4c6fa95f4775fd3f61dac
+title: H05CAR-PDF-ENG
+---
+# patients.
 
-GSK, he stressed the company’s moral responsibility to alleviate human
+Yamada held discussions with his research staﬀ and quickly learned
 
-suﬀering and tied it to the long-term success of the company. He stated
+that he was not alone in his opposition to the lawsuit. The team wanted
 
-that GSK can’t make medicines that save lives and then not allow people
+to be a part of the solution to global health issues, not party to a lawsuit
 
-access to them. He noted the public relations disaster associated with
+preventing such drugs from reaching those in dire need, but they felt
 
-the lawsuit, and set forth a vision, co-created by his team, for how GSK
-
-could also become a leader in the ﬁght against TB and malaria, diseases
-
-that also were disproportionately impacting third-world populations.
-
-The external pressure did not abate, with protests against many drug
+they lacked the power to change the company’s direction. Yamada felt

@@ -1,5 +1,13 @@
-# and everyday decisions.
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d86f018886f1e842012c07aed35b3b7afaac8389
+title: H08VNO-PDF-ENG
+---
+## workplace observation, and with access to employee engagement data
 
-A consistent pattern emerged: many leaders treat culture as a
+and biannual survey tracking for indicators such as trust in leadership,
 
-communication strategy. They believe it lives in messaging—in the
+psychological safety, communication transparency, we examined how
+
+culture is forged not in vision statements, but in meetings, moments,

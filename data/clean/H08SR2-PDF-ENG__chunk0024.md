@@ -1,27 +1,17 @@
-# actual connection with.
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36600502ee5d70c438f0faec9a93263e33d76db2
+title: H08SR2-PDF-ENG
+---
+# HBR / Digital Article / Research: The Best Ways to Connect with Colleagues Outside o…
 
-As another leader, Sarah, said: “Being the boss, when I’m in the Peloton
+knowing one another in a new way. Jack, a senior manager, talked about
 
-group [chat] or I’m in the Facebook group, I just get to be me.”
+connecting with one of his direct reports via Peloton:
 
-Furthering career advancement
+We’ve been able to talk [about Peloton] during our meetings and just
 
-Leaders in our sample shared that Peloton made interacting with
+connect differently…it has been cool to see how I can connect deeper
 
-higher-ups easier and helped them receive mentorship and sponsorship
-
-to advance in their career. Kathryn, a mid-level leader in her company,
-
-explained how the beneﬁts of her boundary-blurring interactions
-
-extended beyond the deepened friendships she now had at work; she
-
-attributed a recent promotion, in part, to gaining advocates for her
-
-career through these interactions. Kathryn described a senior leader
-
-who knew of her “discipline and consistency and engagement” from
-
-their interactions in a relational holding environment and put in a good
-
-word for her when she was up for a promotion. She got the job, and is
+or differently with people that I already know and already have an

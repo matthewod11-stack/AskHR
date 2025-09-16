@@ -1,13 +1,19 @@
-# Joann
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a0870f916174379232f293b888f7440cd5471fb
+title: R2502K-PDF-ENG
+---
+# McKinsey conference for IT leaders we
 
-one on the project or outside it had really
+attended, a participant whose company
 
-understood what the team had invented.
+had been involved in the invention and
 
-Adoption was slow at ﬁrst. The project seemed minor. No one could
+rollout of mobile texting suggested that it
 
-have predicted the explosion in usage that would follow, and no other
+had truly been a unique project. The leader
 
-project had set a precedent for it. So mobile texting was unique in that
+explained that it had taken only a few
 
-sense, or so the leader argued, and many of us in the room agreed at
+weeks to develop the SMS app and that no

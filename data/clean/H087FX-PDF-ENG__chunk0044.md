@@ -1,31 +1,21 @@
-# group.
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99a76d6241800b1619ff6fb72fc7ea7ef2f1b050
+title: H087FX-PDF-ENG
+---
+## Candidate assessment. Exclude demands from the hiring process that
 
-Work organization. This is crucial to providing ﬂexibility. Most
+aren’t essential to the position. For example, don’t make an interview
 
-ﬂexibility-focused interventions are free and provide a great beneﬁt to
+day an endurance test unless that mimics the conditions of the job.
 
-all employees — but they’re critical for allowing disabled, chronically ill,
+Onboarding and team-building activities. Avoid bonding exercises that
 
-and neurodivergent talent to participate in the workforce. Consider:
+are physically or mentally taxing in favor of inclusive options. Try
 
-- Remote-work options. When roles can be performed remotely, even
+swapping the obstacle course or the group yoga class with an icebreaker
 
-partially — for example, among call-center employees — this option
+that works for everyone, like asking people in advance to come up with
 
-can be a signiﬁcant accommodation.
-
-- Flexible hours and/or scheduling. Be open to diﬀerent employees working diﬀerent hours, with mutually agreed overlap. This can pay oﬀ for everyone: Employees with long Covid or similar chronic illnesses can work at the times of day when they’re most alert,
-
-and their peers get more ﬂexibility for things like childcare and
-
-other day-to-day responsibilities. Even in roles with ﬁxed hours, employers can oﬀer more ﬂexible scheduling options. This could
-
-include allowing for later start times, longer breaks, or part-time hours
-
-to accommodate energy ﬂuctuations and medical appointments, or
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a six-word title for their autobiography and to be ready to share with the

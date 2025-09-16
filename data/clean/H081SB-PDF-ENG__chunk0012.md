@@ -1,7 +1,11 @@
-## their trust in their teams and broader organizations. When people
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8c9d2773e63c8d46358d69c29ce8d9f883fb605
+title: H081SB-PDF-ENG
+---
+## a reality check around their own job satisfaction.
 
-perceive their organizations as treating them unfairly and paying them
+And ﬁnally, existing employees are likely to resign in response to
 
-inequitably, their morale and commitment falter, making them that
-
-much more likely to start looking for the door.
+sustained pay disparities because these situations signiﬁcantly erode

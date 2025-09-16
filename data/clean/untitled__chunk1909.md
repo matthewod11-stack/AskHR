@@ -1,11 +1,13 @@
-## persons. Psychological Bulletin, 33, 1–58.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9ec14241207131e4d153e67767c8169dd6cec1d2
+title: untitled
+---
+# York: Macmillan.
 
-Huston, P. E., & Locher, L. M. (1948). Manic-depressive psychosis: Course when treated and untreated with electric shock. Archives of Neurology and Psychiatry, 60, 37–48.
+Hilts, V. (1982). Obeying the laws of hereditary descent: Phrenolog- ical views on inheritance and eugenics. Journal of the History of the Behavioral Sciences, 8, 62–77.
 
-Jackson, J. H. (1887). Remarks on the evolution and dissolution of the nervous system. Journal of Mental Science, 33, 25–48. Janet, P. (1977). The mental state of hystericals. In Signiﬁcant con- tributions to the history of psychology (Vol. 2). Washington, DC: University Publications of America. (Original work published 1892)
+Hoch, A. (1904). Areview of some psychological and physiological experiments done in connection with the study of mental diseases. Psychological Bulletin, 1, 241–257.
 
-Kraepelin, E. (1915). Klinische psychiatrie: Ein lehrbuch für studierende und årtze [Clinical psychiatry: A textbook for students and physicians]. Leipzig, Germany: Barth.
-
-Kraus, L. A. (1831). Kritisch-etymologisches medicinisches lexikon, Theil I [Critical etymological medical dictionary, Part I]. Vienna, Austria: Haykul & Lechner.
-
-Leicester, H. M. (1974). Development of biochemical concepts from ancient to modern times. Cambridge, MA: Harvard University Press.
+Hunt, J. M. (1936). Psychological experiments with disordered

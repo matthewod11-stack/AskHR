@@ -1,7 +1,15 @@
-# support for:
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14ffc004226e71755a473e87cb0e8b21e832b29c
+title: H08NFX-PDF-ENG
+---
+## Opportunity Commission (EEOC) Acting Chair Andrea Lucas has
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+illuminated the kinds of measures she considers appropriate. This is
 
-2
+signiﬁcant because the EEOC will play a central role in enforcing the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+administration’s views.* Lucas has unsurprisingly warned companies to
+
+avoid rules that base decisions on race or gender, but she has expressed

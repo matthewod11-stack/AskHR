@@ -1,27 +1,29 @@
-# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89df5d740019f857c1e10586d43c23a0f844d330
+title: R2504J-PDF-ENG
+---
+# alike.
 
-A verbal description of this strategy, while compelling in the moment,
+In addition, the value proposition deﬁned the internal culture the bank
 
-may be hard for people who did not develop it to internalize. But it is
+needed to foster. Traditionally, ﬁnancial institutions in South Africa
 
-possible to capture almost perfectly in a single slide the relationships
+favored a formal, almost stiﬀ, and often hierarchical culture—perhaps
 
-and causalities among all the concepts making up the strategy, as you
+because they wanted to convey a sense of seriousness to employees and
 
-can see in a slide that we developed, which is shown in the exhibit “The
+customers. This was reﬂected in their interactions with customers and
 
-Right Way to Design a Strategy Visualization.” In it you can easily see
+the design of their branches. Capitec wanted its employees to present
 
-the three main strategic concepts. In the center is the value proposition
+an informal, welcoming face to low-income customers, who might feel
 
-(“a simple, single account,” with its four subconcepts and their tangible
+uncomfortable, even scared, going into a bank.
 
-manifestations). The key customer segment (people “lacking ﬁnancial
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-literacy”) is on the right, and the necessary resources and capabilities
+6
 
-(“a local branch network” and what it would oﬀer) for meeting the
-
-segment’s needs are on the left. The visualization also shows how
-
-each of the three concepts feeds into the others to create a proﬁtable
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

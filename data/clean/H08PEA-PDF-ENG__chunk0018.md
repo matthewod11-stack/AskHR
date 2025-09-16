@@ -1,17 +1,17 @@
-## team from mental fatigue or bad decisions.
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ecd1f447ab529d99259073ace6e0dad709e4da8
+title: H08PEA-PDF-ENG
+---
+# Should You Not Be Proactive?
 
-- 1. Take breaks
+Our research found that proactivity comes at a cost by creating mental
 
-Research outside our study suggests that regular breaks can help
+fatigue which can make it harder to do complex tasks later on in the day.
 
-ease mental fatigue, so taking frequent breaks on proactive days (or
+But proactivity is still an important way for people to feel connected
 
-encouraging or requiring them for your staﬀ) may help you feel
+to their jobs and for companies to gain valuable knowledge and new eﬃciencies. With this in mind, we oﬀer the following suggestions to
 
-mentally refreshed. Giving yourself space to breath—literally, not just
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+help you improve your job tasks while still protecting yourself and your

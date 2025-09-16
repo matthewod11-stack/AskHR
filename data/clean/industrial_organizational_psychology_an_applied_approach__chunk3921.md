@@ -1,13 +1,15 @@
-## Least-Preferred Coworker (LPC) Scale A test used
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 90f85e6b4cb5a774731aa12400ba5b756a7112cc
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Leader/member relations The variable in Fiedler’s
 
-in conjunction with Fiedler’s contingency model to reveal leadership style and effectiveness.
+contingency model that refers to the extent to which subordinates like a leader.
 
-Legitimate power The power that individuals have
+Leadership motive pattern The name for a pattern of needs in which a leader has a high need for power and a low need for affiliation.
 
-because of their elected or appointed position. Leisure listening The listening style of a person who
+Leadership Opinion Questionnaire (LOQ) A test used to measure a leader’s self-perception of his or her leadership style.
 
-cares about only interesting information. Leniency error A type of rating error in which a
-
-rater consistently gives all employees high ratings, regardless of their actual levels of performance. Letter of recommendation A letter expressing an
-
-opinion regarding an applicant’s ability, previous
+Least acceptable result (LAR) The lowest settlement that a person is willing to accept in a negotiated agreement.

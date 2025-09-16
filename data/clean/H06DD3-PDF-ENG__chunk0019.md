@@ -1,13 +1,15 @@
-# to the workforce.
+---
+source_path: H06DD3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d3ad2795d9475d85dd393e75c160c3785d3847f
+title: H06DD3-PDF-ENG
+---
+## capabilities under the management of key decision-makers. Our research
 
-Celebrating lateral movement also addresses one of the risks associated
+shows that supporting lateral mobility and encouraging relocation
 
-with mobility — hitting a glass ceiling. When companies only view
+assignments have a strong correlation to market performance. So does
 
-mobility in terms of upward movement, it’s important to have positions
+transparency about the process. High-performance organizations are four
 
-available. If organizations lack positions to move people into or have
-
-limited opportunities for upward mobility, they often leave employees
-
-feeling stuck. We found that 39% of employers cited lack of positions to
+and a half times more likely to make the criterion for talent mobility clear

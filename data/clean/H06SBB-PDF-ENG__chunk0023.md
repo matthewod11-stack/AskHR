@@ -1,23 +1,27 @@
-# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 439739d2d1552606df62dd8ce804fe2a5f8ec48c
+title: H06SBB-PDF-ENG
+---
+## intersection of as much of that as possible.
 
-SANDY SPEICHER: And actually, it’s so relevant for today.
+ADI IGNATIUS: That’s inspiring. Before COVID, several years ago you
 
-Disequilibrium comes out of an educational theory, a constructivist
+wrote an article that said the secret to creative success is disequilibrium.
 
-learning theory. The basic idea is that all of your knowledge you have
+Can you explain what you mean by that?
 
-constructed, and what people do is they form mental models about the
+SANDY SPEICHER: Oh, thanks for that question. You give me a chance
 
-world around them. Like we were just talking about, “this is what the
+to be a little bit nerdy here. Disequilibrium is one of my favorite terms,
 
-office is for,” “this is what the workplace is about,” or “this is my role
+but I might go into teacher mode on it.
 
-in society.” These mental models we form through the experiences and
+ADI IGNATIUS: It’s okay, our audience is highly sophisticated.
 
-information that we’re given. Well, a process of learning actually means
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-that when we come to information that questions our mental model,
+7
 
-that says, “Gosh, the way I understood the world isn’t quite lining up
-
-anymore,” we go into this phase of disequilibrium. We’re out of balance.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

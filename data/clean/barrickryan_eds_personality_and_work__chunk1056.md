@@ -1,1 +1,7 @@
-# Well-being. See Happiness Work habits, 99, 101–102, 106 Work performance. See Job
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 15de8bde3d0b7a46c474c4207bb8ae5c114f7e38
+title: barrickryan_eds_personality_and_work
+---
+# W

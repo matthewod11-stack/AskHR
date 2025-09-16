@@ -1,15 +1,11 @@
-# Special Minimum Wages" poster
+---
+source_path: Employment Law Guide - Workers with Disabilities for the Work Being Performed.md
+pages: n/a-n/a
+chunk_id: 825f4189d2731de0f17ebb913fc7ec271f5679e5
+title: Employment Law Guide - Workers with Disabilities for the Work Being Performed
+---
+## Mariana Islands (PDF)(https://www.dol.gov/whd/regs/compliance/posters/cnmi.pdf).
 
-.
+As discussed above, under FLSA Section 14(c), employers of workers with disabilities who are paid
 
-In addition to the recordkeeping requirements imposed on all employers subject to the FLSA, those paying
-
-subminimum wages to workers with disabilities under Section 14(c) must also maintain records regarding the
-
-disabilities of the workers, prevailing wage surveys, work measurements, and individual productivity. See the following for the general FLSA recordkeeping requirements.
-
-Every employer covered by the FLSA must keep certain records. Employers must keep records on wages,
-
-hours, and other information as set forth in the Department of Labor's regulations. Most of this data is the type
-
-that employers generally maintain in ordinary business practice.
+subminimum wages are also required to post the "Employee Rights for Workers with Disabilities Paid at

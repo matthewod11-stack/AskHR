@@ -1,3 +1,11 @@
-# 198 Personality
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: de6443f749982341a72d54c248394d6113bf9b46
+title: untitled
+---
+## (2nd ed.). New York: Appleton-Century-Crofts.
 
-Bray, D. W. (1982). The assessment center and the study of lives.
+Bradford, G. (1927). The signiﬁcance of biography. In J. C. Johnston, Biography: The literature of personality (pp. xv–xxi). New York: Century.
+
+197

@@ -1,17 +1,11 @@
-## necessary accommodations or alternative income sources.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3dc5c8b8ae26393a767a433394084a61d006b1d
+title: H087G0-PDF-ENG
+---
+## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
 
-It’s hard to see all the options when you’re stressed; a friend, a family
+backﬁres. Ask yourself, “What other sources of support or earnings
 
-member, or a trusted colleague can provide new perspectives. Ask them,
-
-“Can you see alternative solutions I might have missed?” or “How would
-
-you approach this situation?”
-
-Weigh the pros and cons of disclosure. With your priorities and backup
-
-plan in mind, consider the pros and cons of disclosing your condition
-
-in your current job. Here are some typical ones; the odds of speciﬁc
-
-outcomes may depend on organizational culture and power holders.
+have I not considered?” This could involve exploring job roles with the

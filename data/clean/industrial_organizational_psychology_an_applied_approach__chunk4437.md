@@ -1,9 +1,9 @@
-## Shultz, K. S., Hoﬀ man, C. C., & Reiter-Palmon, R. (2005). Using
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: aa157da557868ac6e8b6d41ea45a5363dd35c12b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## SHRM (2008b). 2008 Job satisfaction: Meeting the needs of a
 
-archival data for I-O research: Advantages, pitfalls, sources, and examples. Th e Industrial-Organizational Psychologist, 42(3), 31–37.
-
-Sieber, J. E., & Saks, M. J. (1989). A census of subject pool
-
-characteristics and policies. American Psychologist, 44(7), 1053–1061.
-
-Siegall, M., & Worth, C. (2001). Th e impacts of trust and control on faculty reactions to merit pay. Personnel Review, 30(5/6), 646–656.
+multifaceted workforce: What matters most? Alexandria, VA: Society for Human Resource Management.

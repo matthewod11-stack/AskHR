@@ -1,29 +1,49 @@
-# HBR / Digital Article / Shift Your Leadership from “Power Over” to “Leading Through”
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 193ffc26f802f0281e500b1e011d8d125d98e20e
+title: H08F9M-PDF-ENG
+---
+# miserable.
 
-We need a new paradigm of leadership — what we call the “leading
+But the glimmer of promise we saw in the earliest days of the Covid-19
 
-through” paradigm — to help to break through this tendency. The aim of
+crisis should give us hope. When we loosen our grip on consolidated
 
-leading through is to activate the power of our humanity — soul, heart
+power and control and expand our myopic focus on short-term costs
 
-and mind — to create thriving organizations. Power to create amazing
+(to prioritize people, purpose and real productivity) something great —
 
-value for organizations; power to improve the lives of people; and power
+even miraculous — can happen. This is the lesson of the last few years
 
-to heal the divides and bridge the chasms that exist between us. It is this
+— and it isn’t a new one.
 
-power that we hope to activate, power that is realized through others.
+But still — almost universally — we revert to power and control in
 
-The Cleveland Clinic saw the need for this kind of paradigm shift
+the name of the need of the times for quick ﬁxes. In doing so, we
 
-when it embarked on a journey to make empathy — and the overall
+continue to embrace a legacy paradigm that is driven by the pursuit
 
-patient experience — a deﬁning characteristic of the organization.
+and maintenance of power over people. And the story we tell ourselves
 
-The organization’s executives had come to believe that the patient
+— and the one we reward — is that this is good leadership.
 
-experience needed to change so fundamentally that the empathy
+But the truth is that this paradigm — what we call the “power-over”
 
-initiative would need to touch everything and engage everyone in the
+paradigm — is the very reason executives ﬁnd themselves frustrated
 
-quest for improvement and innovation. And it did. From its objectives
+that they aren’t getting as much out of their people and organizations as
+
+they believe they could be.
+
+This is the paradox of the power-over paradigm: We have a tendency
+
+to default to its ways of thinking, behaving, and organizing, even as it
+
+serves to limit our capacity to make things better.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

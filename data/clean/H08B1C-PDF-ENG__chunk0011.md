@@ -1,11 +1,9 @@
-## sometimes oblivious to the signals their frequent question-asking sends.
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76b45ff605bcc06dc3fbca2049c1eccb7f269caf
+title: H08B1C-PDF-ENG
+---
+## The Unintended Consequences of a Learning Mentality
 
-Here are three ways stakeholders might misperceive your inquisitive
-
-learning behavior:
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Like Paul, many leaders with an ingrained learning mentality are

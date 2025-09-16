@@ -1,17 +1,17 @@
-# Role conflict
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 713933d186e9ed32a2de9b95596c511cb5b56f98
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+## Differences between number of leaders (p) 0–2
 
-2.30 (.88)
+0–1
 
-2.00 (.79)
-
-2.30 (.85)
-
-8.58
-
-���
-
-.004
+1–2
 
 1.00
 
-.001
+1.00
+
+.61

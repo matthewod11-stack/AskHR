@@ -1,11 +1,13 @@
-## workforce engagement during wildﬁres due to poor air quality and
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2e370470b597de051a6115298855697216a527b
+title: H08C0J-PDF-ENG
+---
+## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
 
-even eco-anxiety, a condition marked by fear and hopelessness in the
+estimate suggests that four in 10 nonelderly workers are in occupations
 
-face of environmental doom. As the eﬀects of climate change take
+at increased risk for climate-related health impacts. The climate crisis
 
-hold, multilayered risks lie ahead — for instance, multiple studies
-
-have shown that worker attention and general cognitive performance
-
-declines dramatically after even short-term exposure to wildﬁre smoke
+has already taken employee lives in extreme heat waves and reduced

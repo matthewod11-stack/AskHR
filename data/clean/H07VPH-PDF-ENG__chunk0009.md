@@ -1,9 +1,19 @@
-## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bbaa3564fd67fd8705e7fbaee891ab710885e84
+title: H07VPH-PDF-ENG
+---
+# impede clear problem solving.
 
-working, where we are in our life, who we are deciding with, and how
+However, what I call “situationality” can also override your dominant
 
-much ownership we have over the decision at hand. So, situationality is
+PSP. Situationality is more than context. I deﬁne situationality as a
 
-a blend of external and internal factors. But it’s important to recognize
+formula for the situation we ﬁnd ourselves in: how and where we are
 
-that each situation is diﬀerent; we are not static, and neither is the world
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

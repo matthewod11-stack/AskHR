@@ -1,7 +1,11 @@
-## companies of all sizes in a variety of industries.
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09191289ed2f4f111283e88f074c48462cc9755d
+title: H08VFN-PDF-ENG
+---
+## Engineers, Logistics, Military Intelligence, and other Army sectors. And
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+with the help of Army Special Operators, my lab has also translated the
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+method into business settings, transitioning managers into leaders at

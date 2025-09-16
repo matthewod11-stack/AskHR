@@ -1,27 +1,33 @@
-# 2.2.3 Data type and data source
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: a3fc81e49c14565affe5ab24643b473b1b80dbc6
+title: i
+---
+# potential implications for future actions within an organizational context. This process
 
-Data is classified as structured, semistructured and unstructured. (Bay University, 2020)
+encompasses various practices, ranging from basic monitoring of facts and indicators to the
 
-Structured data: arranged in a table and has a tabular schema with distinct rows and columns
+utilization of advanced analytical methods. What ties these various practices together is their
 
-to denote instances and features, making it easier to process and analyze.. Structured data is
+shared reliance on factual data and a "rational" foundation.
 
-valuable to business, and it’s quite easy to gather structured data from different sources.
+Data analytics (DA) and its mining technique are methods to identify and discover new
 
-Traditionally, business data is in structured format however, with the growing demand for
+knowledge (Frawley, PiatetskyShapiro, and Matheus,1991). Davenport and Harris writes: <the
 
-knowledge extraction, the need to analyze unstructured data of business was raised.
+extensive use of data, statistical and quantitative analysis, explanatory and predictive models,
 
-Unstructured data, on the other hand, <has no predefined conceptual definition= which makes
+and fact-based management to drive decisions and actions=. Stubbs (2011) defines DA as <a
 
-it not easy to analyze. Unstructured data grows enormously in amount and makes a significant
+process that involves the use of statistical techniques (measures of central tendency, graphs and
 
-part of big data. Data from sources like social media is unstructured, and other typical
+so on), information system software (data mining, sorting routines) and operations research
 
-unstructured data businesses usually deal with are emails, meeting minutes, call records, or in
+methodologies (linear programming) to explore, visualize, discover and communicate patterns
 
-People analytics, unstructured data are job seeker’s curriculum vitae and cover letters..
+8
 
-Semi-structured data is a hybrid of the above two groups.
+or trends in data=. Data analysis is a process of extracting knowledge, and insights ( Gandomi
 
-Soraya (2018, page 5,6,7) suggests classifying data type into four categories: Database, Raw
+&Haide, 2014)

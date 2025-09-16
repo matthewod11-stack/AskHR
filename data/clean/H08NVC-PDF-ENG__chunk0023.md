@@ -1,25 +1,27 @@
-## express themselves and their emotions in a comfortable way, this
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9877a186cc65b5c0e11a8a9ee0bdc024b360f54
+title: H08NVC-PDF-ENG
+---
+# this issue.
 
-organization created close-door, small-group activities for these leaders
+First, consider a global consulting ﬁrm’s UK oﬃce. The oﬃce’s well-
 
-to meet and share, as opposed to open-invitation company-wide events
+being lead realized that majority of its senior management belonged
 
-and talks commonly used by many multinationals to save cost. In
+to a generation and gender group that found it challenging to discuss
 
-small groups, the leaders were encouraged to reﬂect on the challenges
+mental health, both in and outside of work. They were taught that
 
-managing the organization, using art materials such as plasticine or toy
+mental health and stress were not topics to be discussed with anyone
 
-bricks to make a structure that represented their sentiments. They then
+else, and that they simply had to “tough it out.” Yet, in reality, they
 
-shared what they had built with each other. Through the practice, these
+still needed outlets to open up during hard times, as accessing and
 
-senior leaders were able to “see” their emotional experiences through
+articulating emotions is a pivotal way to process experiences, reduce
 
-the object they had built. Feeling less threatened or confronted, they
+stress, and maintain mental well-being.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Recognizing the importance of encouraging the senior leaders to

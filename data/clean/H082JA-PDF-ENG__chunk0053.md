@@ -1,7 +1,9 @@
-## with budgetary challenges for several months until the “Financial Club”
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bee2bba5c36bac79ce0f5deb227fb5719e9b2a01
+title: H082JA-PDF-ENG
+---
+## former department heads to sub-circle coordinators, some of whom
 
-was born. Led by the ﬁnance team, this initiative provided tailored
-
-coaching on budget management, empowering the new ﬁnancial
-
-stewards with essential knowledge related to P&L, cash ﬂow, and
+lacked experience managing budgets. Accordingly, Avinsa grappled

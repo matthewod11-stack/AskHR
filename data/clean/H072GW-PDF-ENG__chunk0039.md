@@ -1,5 +1,15 @@
-# Transparency and clear communication
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aca54302ba45924ce9bc3024d5774fc42d885dbe
+title: H072GW-PDF-ENG
+---
+# decisions
 
-Clear organizational communication is essential for autistic people,
+- Have a mechanism to correct inaccurate decisions
 
-who are often excluded by the reliance on hidden messages, corporate
+- Conform to prevailing standards of ethics or morality
+
+- Ensure that the views of various groups aﬀected by the decision have
+
+been taken into account.

@@ -1,5 +1,11 @@
-# 36 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a6f06e954b0b4f8cfc7a88570853eb376c77ba66
+title: barrickryan_eds_personality_and_work
+---
+## Speciﬁc Effects of Happiness and Well-Being
 
-focus most of our discussion on the effects of positive affect on worker productivity.
+We often think of satisfaction and emotions as the end result of a valenced event: when something pleasant happens, we feel satis- faction, happiness, and joy, and when something unpleasant hap- pens, we experience dissatisfaction, anger, depression, or fear. In the work context, this means that employees will feel happy when work conditions are good and unhappy when work conditions are bad. Yet careful analysis of the nature of emotion suggests that emotions can play a much more complicated role in the way we ap- proach the world and the speciﬁc actions we take in reaction to events. Frijda (1999), for example, views emotions as more than just a feeling of pleasure or pain combined with an appraisal of an object or event as good or bad. He argued that emotions have three additional components: action readiness, or the readiness for changes in behavior toward the environment, autonomic arousal, and cognitive activity changes. Although each of these components is elicited in reaction to some stimulus, they also prepare us to deal with the stimulus in a speciﬁc way. Fear and anger, for example, have distinct patterns of action readiness, autonomic arousal, and cognitive activity changes; we will act very differently toward an un- pleasant stimulus depending on whether we feel fear or anger.
 
-In the next sections, we review the evidence for speciﬁc effects
+Interestingly, although many different negative emotions can be distinguished based on the unique pattern of these components, it appears that positive emotions are relatively undifferentiated and often do not have explicit action tendencies (Fredrickson, 1998). However, in her “Broaden and Build Model,” Fredrickson held that most positive emotions can be described as promoting a tendency to increase and diversify one’s resources in a general way. So al- though happiness may not lead to a speciﬁc action tendency in the same way that fear leads to a desire to ﬂee, positive affect may lead to behaviors that serve to broaden and build one’s social, material, and cognitive resources. Because the tendency to develop these re- sources has important implications for work behavior and because positive emotions comes closest to what we mean by happiness, we

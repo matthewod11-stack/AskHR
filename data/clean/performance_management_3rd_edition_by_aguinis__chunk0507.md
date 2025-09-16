@@ -1,11 +1,17 @@
-## strategic acquisitions and organic growth.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b0facd7cb05d4679b1d3c311ef026b9dc923f6e6
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part I • Strategic and General Considerations
 
-We will strengthen our brands and generate growth through emphasis on brand strategy/marketing and innovative product technology, design and packaging.
+also include specific information, such as the technology used in production or delivery, and the unique benefits or advantages of the organization’s products and services. Finally, a mission statement can include a statement of values and beliefs, such as the organiza- tion’s managerial philosophy.
 
-We will leverage IT infrastructure, distribution channels, purchasing power and operational structure globally to continue to drive efficiencies and reduce costs.
+3.2.1.3 VISION An organization’s vision is a statement of future aspirations. In other words, the vision statement includes a description of what the organization would like to become in the future (about 10 years in the future). Vision statements are typically written after the mission statement is completed because the organization needs to know what it is and what its purpose is before they can figure out who they will be in the future. Note, however, that mission and vision statements are often combined and, therefore, in many cases it is difficult to differentiate one from the other. In such cases, the vision statement usually includes two components: a core ideology, which is referred to as the mission, and an envisioned future, which is what is referred to as the vision per se. The core ideology contains the core purpose and core values of an organization, and the envisioned future specifies long-term objectives and a picture of what the organization aspires to.
 
-We will profitably expand distribution in all served markets.12
+Spectrum Brands (formerly Rayovac Corporation) provides an example of combin- ing mission and vision into one statement. Spectrum Brands is a global consumer prod- ucts company and a leading supplier of batteries, kitchen appliances, shaving and grooming products, personal care products, pet supplies, and home and garden prod- ucts. Originally founded in 1906 as the French Battery Company in Madison, Wisconsin, and renamed Rayovac Company during the 1930s, the company changed its name to Spectrum Brands in 2005 to reflect its diverse portfolio and position as a publicly-held company which employs 10,000 individuals worldwide. Spectrum Brands’ combined mission and vision statement is the following:
 
-This statement includes components of a mission statement (i.e., “a rapidly growing, global, diversified, market-driven consumer products company”) as well as components of a vision statement (e.g., “will strengthen our brands and generate growth through emphasis on brand strategy/marketing and innovative product technology, design and packaging”). This statement combines the present (i.e., who the company is, what it does) with the future (i.e., aspirations).
+Spectrum Brands is a rapidly growing, global, diversified, market-driven consumer products company.
 
-Other organizations make a more explicit differentiation between the mission and vision statements. Consider the vision statement for Greif, a global company headquartered in Delaware, Ohio, with approximately 16,000 employees providing industrial packaging
+We will continue to grow our company through a combination of

@@ -1,7 +1,15 @@
-# 300 Assessment Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 034f3f9de7ed97b3c1be04477e20c7d5440de15a
+title: untitled
+---
+# York: Norton.
 
-Koppitz, E. M. (1975). The Bender Gestalt Test for young children. Vol. 2: Research and applications. New York: Grune & Stratton.
+Kent, G. H., & Rosanoff, A. (1910). A study of association in insanity. American Journal of Insanity, 67, 37–96, 317–390.
 
-Kubiszyn, T. W., Finn, S. E., Kay, G. G., Dies, R. R., Meyer, G. J., Eyde, L. D., et al. (2000). Empirical support for psychological assessments in clinical health care settings. Professional Psy- chology, 31, 119–130.
+Koppitz, E. M. (1968). Psychological evaluation of children’s
 
-Kuder, G. F. (1939). Kuder Preference Record: Form A. Chicago:
+human ﬁgure drawings. New York: Grune & Stratton.
+
+299

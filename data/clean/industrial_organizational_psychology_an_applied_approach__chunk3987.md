@@ -1,13 +1,19 @@
-## Role ambiguity The extent to which an employee’s
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 11d8df3083ab2268bd0f14a5a14d5f898e63985c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Return on investment (ROI) The amount of money
 
-roles and expectations are unclear.
+an organization makes after subtracting the cost of training or other interventions.
 
-Role conflict The extent to which an employee’s role
+Reward power Leadership power that exists to the
 
-and expected role are the same.
+extent that the leader has the ability and authority to provide rewards.
 
-Role overload The extent to which an employee is able
+Right/wrong scoring A method of scoring interview questions in which the answer is either right or wrong (e.g., What is the legal drinking age in Virginia?)
 
-to psychologically handle the number of roles and tasks assigned.
+Rituals Procedures in which employees participate to
 
-Role play A training technique in which employees act
+become “one of the gang.”

@@ -1,21 +1,29 @@
-## HBR / Digital Article / You Lost Your Boss’s Trust. Now What?
+---
+source_path: H08T9Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f38c60f5bf2ca6a0276c439939a9b305567c279
+title: H08T9Z-PDF-ENG
+---
+# perceive it the same way.
 
-Have the conversation sooner rather than later.
+Alex knew instantly he messed up. But instead of running to his boss’s
 
-When you’ve made a mistake with your boss, avoiding the conversation
+oﬃce to apologize, he took time to reﬂect on his behavior and the
 
-in hopes that it will blow over rarely works. Silence becomes its own
+emotions he felt about her, not just that he mistakenly sent the email.
 
-message, often interpreted as avoidance, defensiveness, or a lack of
+He realized quickly that feeling dismissed in meetings triggered a
 
-accountability. Add changed body language and skipped check-ins
+deeper emotional response from being undervalued in previous jobs,
 
-and you have compounding quiet signals of discomfort, which creates
+and that reaction had fueled his impulsive email. That helped him
 
-further emotional distance that will be harder to bridge later.
+understand that his boss’s intent may not have been to dismiss him
 
-That’s why it’s critical to initiate the conversation within 24 to 48
+but to move the meeting along in a timely fashion.
 
-hours of the misstep. This gives you time to reﬂect and ground yourself
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-emotionally, while also signaling maturity and urgency to resolve the
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

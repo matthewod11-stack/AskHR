@@ -1,7 +1,9 @@
-# Behavioral expectation scales (BES)
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: fd43dbfff169d0d0d34e9348fefccad4502515eb
+title: document_resume
+---
+# At-will Lability, 16-17, 105
 
-(see BARS)
-
-Behavioral observation scales (BOS),
-
-32-33, 48 Bias (see Rating errors) Board of Regents v. Roth, 18, 115 Brito v. Zia Company, 9 Burden of proof, 12 Business necessity, 12
+Behaviorally anchored rating scales (BARS), 31-33, 38, 48, 75, 77, 79, 82, 93-94

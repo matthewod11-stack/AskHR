@@ -1,19 +1,27 @@
-# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 457a463409f65cee33bf2b3678671b26542562be
+title: H07TEC-PDF-ENG
+---
+## ﬂat rate annual cost of $7,500/learner for the training, this investment
 
-within the ﬁrm. This is helpful, but you won’t know what the true best
+would have yielded the law ﬁrm an annual rate of return of more than
 
-performance looks like in your industry.
+950%!
 
-To the extent that you can collect data from competitors on similar
+Expand your data beyond your organization.
 
-performance metrics, you’ll be able to gain a better understanding
+Balanced benchmarking provides a relative measure of performance for
 
-of where your ﬁrm’s performance stands relative to the industry.
+all teams or individuals included in the analysis. While it’s easiest to
 
-Competitor data is diﬃcult to collect, but you will be surprised at what
+perform this analysis within the ﬁrm because that data is accessible, the
 
-you can learn from industry veterans within your organization. Simple
+resultant analysis will only tell you who is performing better and worse
 
-conversations with these individuals are likely to uncover a wealth
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-of information about competitor performance metrics. For example,
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

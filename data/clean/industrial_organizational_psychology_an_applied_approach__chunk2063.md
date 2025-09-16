@@ -1,15 +1,25 @@
-# tiveness of reinforcement. For example:
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c880b2f5a9b910124b5a3a0a278ec9ddc5c7059d
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Are Employees Rewarded for Achieving Goals?
 
-7
+An essential strategy for motivating employees is to provide an incentive for employees to accomplish the goals set by an organization. As a result, organiza- tions offer incentives for a wide variety of employee behaviors, including working overtime or on weekends, making suggestions, referring applicants, staying with the company (length-of-service awards), coming to work (attendance bonuses), not getting into accidents, and performing at a high level (Henderson, ). The basis for these incentive systems are operant conditioning principles, which state that employees will engage in behaviors for which they are rewarded and
 
-7
+employee motivation
 
-7
+343
 
-7
+t i d E o t o h P / h c i r
 
-Austin, Kessler, Riccobono, and Bailey () provided daily feedback and weekly monetary reinforcement to employees in a roofing crew. This intervention resulted in a % labor cost reduction and an % improvement in safety. Lafleur and Hyten () used a combination of goal setting, feedback, and reinforcement to increase the quality of hotel banquet staff performance. Ply Marts, a material supply company in Norcross, Georgia, reduced the number of injuries from  per year to  by providing daily feedback on injuries and giving employees a bingo number for each day that no employee was injured. Each day, money was added to the pot until an employee got to “bingo” and won the pot (Atkinson, ). Kortick and O’Brien () devised the “World Series of Quality Control” at a package delivery company in New York. The  employees were divided into  teams of eight employees each and competed against one another to have the best shipping accuracy and quantity. Performance information and team standings were posted each week, with the winning team receiving pizzas. At the end of each month, the winning team received individual plaques and dinner at a local restaurant. The intervention resulted in promising increases in shipping accuracy.
+m m e a D b o B ©
 
-Though the research is clear that rewarding employees will often lead to increased motivation and performance, six factors must be considered in deter- mining the effectiveness of incentive programs:
+344
 
-. timing of the incentive . contingency of the consequences . type of incentive used . use of individual-based versus group-based incentives . use of positive incentives (rewards) versus negative incentives
+chapter 
+
+avoid behaviors for which they are punished. Thus, if employees are rewarded for not making errors, they are more likely to produce high-quality work. If employ- ees are rewarded for the amount of work done, they will place less emphasis on quality and try to increase their quantity. Finally, if employees are not rewarded for any behavior, they will search for behaviors that will be rewarded. Unfortu- nately, these might include absenteeism (which is rewarded by going fishing) or carelessness (which is rewarded by spending more time with friends).
+
+Research and applied literature abound with studies demonstrating the effec-

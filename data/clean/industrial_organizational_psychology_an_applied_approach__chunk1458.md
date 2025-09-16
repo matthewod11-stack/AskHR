@@ -1,21 +1,11 @@
-# Brogden-Cronbach-Gleser Utility Formula
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 327d0d3c15a4444eb69f1fc9f59ad829359a842a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Lawshe Tables
 
-Another way to determine the value of a test in a given situation is by comput- ing the amount of money an organization would save if it used the test to select employees. Fortunately, I/O psychologists have devised a fairly simple utility formula to estimate the monetary savings to an organization. To use this formula, five items of information must be known.
+The Taylor-Russell tables were designed to determine the overall impact of a testing procedure. But we often need to know the probability that a particular applicant will be successful. The Lawshe tables (Lawshe, Bolda, Brune, & Auclair, ) were created to do just that. To use these tables, three pieces of informa- tion are needed. The validity coefficient and the base rate are found in the same way as for the Taylor-Russell tables. The third piece of information needed is the applicant’s test score. More specifically, did the person score in the top %, the next %, the middle %, the next lowest %, or the bottom %?
 
-. Number of employees hired per year (n). This number is easy to
-
-determine: It is simply the number of employees who are hired for a given position in a year.
-
-. Average tenure (t). This is the average amount of time that employees in the position tend to stay with the company. The number is computed by using information from company records to identify the time that each employee in that position stayed with the company. The number of years of tenure for each employee is then summed and divided by the total number of employees.
-
-. Test validity (r). This figure is the criterion validity coefficient that was
-
-obtained through either a validity study or validity generalization. . Standard deviation of performance in dollars (SDy). For many years, this number was difficult to compute. Research has shown, however, that for jobs in which performance is normally distributed, a good estimate of the difference in performance between an average and a good worker (one standard deviation away in performance) is % of
-
-evaluating selection techniques and decisions
-
-221
-
-222
-
-chapter 
+Once we have all three pieces of information, the Lawshe tables, as shown in Table ., are examined. For our example, we have a base rate of ., a validity of ., and an applicant who scored third highest out of . First, we locate the table with the base rate of .. Then we locate the appropriate category at the top of the chart. Our applicant scored third highest out of  applicants, so she would be in the second category, the next highest one fifth, or %. Using the validity of ., we locate the intersection of the validity row and the test score column and find . This means that the applicant has a % chance of being a successful employee.

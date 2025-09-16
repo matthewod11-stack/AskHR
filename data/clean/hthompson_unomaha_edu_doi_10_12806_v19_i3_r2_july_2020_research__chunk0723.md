@@ -1,13 +1,13 @@
-# supportive and inclusive university culture: a mixed-methods interdisciplinary comparative analysis of
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: bda51938ae972b0d061da2a855e86c12b2b22842
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+# References
 
-medical and social sciences at the University of Oxford. Interdisciplinary Science Reviews, 44(2).
+Oseguera, L. & Astin, A. W. (2004). The declining “equity” of American higher education. The Review of Higher
 
-Parker, L., & Villalpando, O. (2007). A race(cialized) perspective on education leadership: Critical Race Theory
+Education, 27(3), 321-341.
 
-in educational administration. Educational Administration Quarterly, 43(5), 519-524.
-
-Pedersen, P. B., & Pope, M. (2010). Inclusive cultural empathy for successful global leadership. American
-
-Psychologist, 65(8), 841–854.
-
-Pelled, L. H., Kedfird Jr, G. E., & Mohrman, S. A. (1999). Demographic dissimilarity and workplace inclusion.
+Ovseiko, P. V., Pololi, L. H., Edmunds, L. D., Civian, J. T., Daly, M., & Buchan, A. M. (2019). Creating a more

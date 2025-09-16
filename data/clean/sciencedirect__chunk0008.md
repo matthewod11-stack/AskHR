@@ -1,1 +1,15 @@
-# ScienceDirect
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: ad5360399fc7e508e33b1ce6a6168c46ba3c487a
+title: sciencedirect
+---
+# Abstract
+
+Employees’ productivity has been extensively addressed by psychologists for a long time. With the emergence of positive psychology (PS), positive psychologists started to fill the literature gap which addresses the influence of individual’s positive traits on employees’ performance and organizational productivity and how it could be improve it by identifying these traits and build sitive individuals’ traits organizational policies based on them. Unlike traditional psychology, PS focuses on the employees’ po such positive traits, - rather than on curing the negative psychological aspects of the individual. This research identifies three Optimism, Well-Being and Personal Strength and analyses their impacts on employees’ productivity, hence or ganizational licy productivity. The research explicitly investigates these three positive traits, their identification and the development of a po based on these aiming at positive effects on increasing the employees’ performance, hence their productivity. The research proposes a “process” and a “framework” which reflect the relationships between Positive Psychology traits, employees’ performance and Organizational Productivity. Hypotheses were drawn from the framework and a questionnaire was prepared to collect data to verify the validity of the relationships proposed on the framework. The questionnaire was administered on employee in a selected organization. Each hypothesis was tested, and the results were analyzed using statistical approaches. The results demonstrated quite interesting findings which demonstrated that, implementing positive psychology concepts and individual p ositive traits such as optimism, well-being and personal strength at the workplace increase employees’ performance hence organizational productivity, and this was verified by the acceptance of all the hypotheses following the data analysis.
+
+© 2019 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer-review under responsibility of the scienti(cid:191)c committee of The Fifth Information Systems International Conference 2019.
+
+- Corresponding author. Tel.: +61-88-946-6505; fax: +61-89-270-612. E-mail address: jamal.el-den@cdu.edu.au
+
+1877-0509 © 2019 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer-review under responsibility of the scientiﬁc committee of The Fifth Information Systems International Conference 2019. 10.1016/j.procs.2019.11.118

@@ -1,21 +1,17 @@
-## HBR / Digital Article / The Definitive HBR Strategy Glossary
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a15b0f97d4a5788037f07b8275474e779bea158
+title: H08TKY-PDF-ENG
+---
+## HBR editors across our digital, magazine, and press divisions.
 
-[ A ]
+Each concept also names the article in which it originated and includes
 
-Adjacency expansion: Sustained, proﬁtable growth when a company
+the authors who came up with the idea.
 
-expands the boundaries of its core business into an adjacent space.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Companies that are repeatedly successful at adjacency expansion
+2
 
-share two common characteristics. First, they are extraordinarily
-
-disciplined, applying rigorous screens before they make an adjacency
-
-move. This discipline pays oﬀ in the form of learning curve beneﬁts,
-
-increased speed, and lower complexity. Second, in almost all cases,
-
-these companies develop their repeatable formulas by studying their
-
-customers and their customers’ economics very carefully.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

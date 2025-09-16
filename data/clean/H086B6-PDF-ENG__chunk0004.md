@@ -1,7 +1,27 @@
-# Why Growth Gets Overlooked
+---
+source_path: H086B6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 41e39205b2e9cf2c0692b82250c96c0e09decf29
+title: H086B6-PDF-ENG
+---
+## HBR / Digital Article / When Your Colleagues Have an Outdated Perception of You
 
-We all know people whose career has become their entire identity.
+Instead, the CEO announced an external search, stating that there were
 
-But we often aren’t aware of the professional identity that others have
+no qualiﬁed internal candidates. Tasha was hurt and angry, recognizing
 
-assigned us — and truthfully, they may not always recognize it, either.
+a harsh reality she’d long suspected: “I’m seen as I was, not as I am.”
+
+If you’re a reliable, long-term employee like Tasha who still wants to
+
+grow in your career but is feeling trapped by old perceptions, you’re
+
+not alone. As executive coaches, we’ve worked with many professionals
+
+who’ve accelerated their contributions over time, but who continue to
+
+be seen through the lens of their past.
+
+In this article, we’ll share why this can happen and more importantly,
+
+what you can do about it if that employee is you.

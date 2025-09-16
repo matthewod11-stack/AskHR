@@ -1,19 +1,37 @@
-## Phil Thomas, the CEO of Ascential Futures, part of a global intelligence
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 841c6c139b86a048cb227be27564283c4f79e8ae
+title: R2302D-PDF-ENG
+---
+## HBR / Magazine Article / Redesigning How We Work
 
-and events organization, recently told his leadership team during a
+Companies have started to realize that the changes they’re contemplating to workplace practices and norms may be more significant than anything that’s happened in generations.
 
-discussion of their hybrid future. “We need to acknowledge that.”
+When I repeated the survey the following November, the percentage of
 
-Perhaps it’s far-fetched to liken the convulsions of our present moment
+executives who reported having rolled out a ﬁnal hybrid-work design
 
-to those of the Industrial Revolution. But perhaps not. At the very least,
+had risen considerably, to 42%. Some companies are at last moving into
 
-we have to acknowledge that the transformation we’re living through
+that phase, but many others remain in transition.
 
-will probably take years to settle in. That means it’s time for leaders to start thinking diﬀerently about the problem. It’s time for them to
+Why has this been so hard? Because so much is at stake. The new world
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+of hybrid work is about more than determining whether everybody
 
-3
+should come back to the oﬃce full-time, or whether two or three days
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a week makes more sense, or whether employees should be allowed
+
+to work from home. In debating those and other questions, companies
+
+have found themselves testing long-held assumptions about how work
+
+should be done and what it even is—and have started to realize that
+
+the changes they’re contemplating to workplace practices and norms
+
+may be more signiﬁcant than anything that’s happened in generations.
+
+“This is the greatest change to work since the Industrial Revolution,”

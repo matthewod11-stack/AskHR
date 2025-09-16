@@ -1,31 +1,33 @@
-## HBR / Magazine Article / Case Study: Do We Reskill or Replace Our Workforce?
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30c3b67f70b70b8d0a726970e3a95017183a468f
+title: R2504P-PDF-ENG
+---
+# problem.”
 
-“Yes, most are covered by the company, but if employees want to ramp
+A former Bain partner who now ran her own ﬁrm, Sarah had a
 
-up with extra courses, we’ll secure deeply discounted group rates,”
+reputation for both future-focused thinking and brutal honesty. It was
 
-Sarah replied. “Those who adapt will have a future here. Those who
+the reason Alex had hired her as an adviser.
 
-don’t…” She let the implication hang in the air.
+“This is why SolidTech needs to move forward with the ‘Grand
 
-“I see you’re suggesting potential demotions and pay cuts for those who
+Bargain,’” she continued, tapping the presentation in front of Alex.
 
-don’t participate,” Alex said, “but that feels harsh.”
+“Reskill your existing workforce through an opt-in program. Employees
 
-“Reskilling is a balancing act,” Sarah replied. “To keep costs down,
+invest time in learning new skills, while the company secures the talent
 
-there must be consequences for those who don’t embrace the change. Those measures—and voluntary attrition—will help oﬀset the cost of
+it needs without trying to hire thousands of software engineers in this
 
-the program.”
+tight labor market.”
 
-Alex stood up and walked to the window, looking out at the SolidTech
+Alex nodded slowly. “Online training, massive open online courses, community college courses—we can oﬀer it all?” he asked.
 
-campus. Several buildings housed teams that had been with the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-company for decades. He thought about the broader implications of
+2
 
-displaced workers—not just at SolidTech but across the country.
-
-“You know, this isn’t just about our bottom line,” he said quietly.
-
-Sarah nodded. “Which is why I’m suggesting a win-win plan. This is
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

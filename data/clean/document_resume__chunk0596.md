@@ -1,1 +1,9 @@
-# Beliefs
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: e35d5c3c58ac1af26fb4362f6f52d2237badc9b9
+title: document_resume
+---
+# Performance Appraisal
+
+the message must he repeated by the appraiser until the appraiser recognizes that both the content and feelings expressed are understood.21 The tendency to listen ev aluatively contributes to another poor listening habit. Instead of attending fully to what the sender is saying, the receiver may be forming respomzs. When receivers are preoccupied with how they will respond to points being made by senders, the points are usually missed. Stano advocated that managers be taught to listen carefully and accurately, to give reflective feedback, and to ask appropriate, open-ended, non-directive questions. Stano felt that careful listening was especially important in encouraging subordinates to talk.24

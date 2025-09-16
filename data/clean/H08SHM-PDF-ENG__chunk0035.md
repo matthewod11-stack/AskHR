@@ -1,15 +1,15 @@
-## deep mantle and abyssal oceans, or live cellular interactions inside the
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d85485ac453bf17410d364d9632ba72f799d75c8
+title: H08SHM-PDF-ENG
+---
+## of our counterfactual brainpower for higher-level problems.
 
-human brain. It will also lag where measurement is throttled by privacy,
+AI will also struggle in domains where measurement verges on the
 
-ethics, or regulation; where society requires transparent reasoning—
+impossible—witness the decade-long, globe-spanning eﬀort the Event
 
-at least until model interpretability catches up; and where people
+Horizon Telescope needed to capture a single black-hole image, and
 
-simply prefer a human touch. Yet, as with hybrid corn adoption, future
-
-generations will keep revisiting the cost-beneﬁt calculus for each of
-
-these—and may reach conclusions very diﬀerent from ours.
-
-But one crucial carve-out in what can be measured may prove
+the still-unsolved challenges of probing extreme-scale physics, Earth’s

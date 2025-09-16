@@ -1,7 +1,23 @@
-## Alliance Program, and the OSHA Strategic Partnership Program (OSPP).
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: 63a77bc7226ce6e1c632474ebf3210100acce916
+title: Employment Law Guide - Occupational Safety and Health
+---
+# OSHA Safety and Health Topics Pages: Provide information on speciﬁc safety and health hazards, and
 
-Voluntary Protection Programs: The Voluntary Protection Programs (VPP) are aimed at extending worker
+speciﬁc hazard information on diﬀerent industries. These pages provide information on hazard identiﬁcation and control and applicable OSHA standards.
 
-protection beyond the minimum required by OSHA standards. The VPP is designed to:
+OSHA's Help for Employers Page: Provides a portal to OSHA's compliance assistance resources.
 
-Recognize the outstanding achievements of those who have successfully incorporated comprehensive
+OSHA Frequently Asked Questions: Highlights topics and speciﬁc questions that are often asked of OSHA.
+
+Because states with OSHA-approved job safety and health programs adopt and enforce their own standards
+
+under state law, copies of these standards can be obtained from the individual states. Many are available through state Web sites, which are linked from OSHA's State Occupational Safety and Health Plans webpage.
+
+Cooperative Programs. OSHA oﬀers a number of opportunities for employers, employees, and organizations
+
+to work cooperatively with the Agency. OSHA's major cooperative programs are the Voluntary Protections
+
+Program (VPP), the Safety and Health Achievement Recognition Program (SHARP), OSHA Challenge, the

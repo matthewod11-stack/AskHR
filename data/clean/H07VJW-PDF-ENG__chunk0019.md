@@ -1,13 +1,17 @@
-# The Framework in Action
+---
+source_path: H07VJW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b70778f1ae72a120588cb3b74f5957344c958e2e
+title: H07VJW-PDF-ENG
+---
+# other words, the relevance to them.
 
-What does this structure look like in practice? Here are three examples:
+- Now What: Outline the call-to-action or next steps, such as taking
 
-- 1. Introductions
+questions or setting up a next meeting.
 
-Introductions can often ramble and confuse. Using this structure can
+This structure not only helps in organizing your thoughts but also
 
-help you be clear and set expectations for what is to come.
+serves as a guidepost for your audience, making the information easier
 
-When you’re introducing someone:
-
-- What: I am honored to introduce Dr. Clark, who is here to discuss her
+to follow and act upon.

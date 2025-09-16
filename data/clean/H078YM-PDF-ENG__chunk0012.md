@@ -1,39 +1,43 @@
-## HBR / Digital Article / Is Bad Onboarding Stifling Your New Senior Leaders?
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e104dac7f97023f6f7692a76da8c25cabb917907
+title: H078YM-PDF-ENG
+---
+# individually or together.
 
-transform the company’s HR function — everything from building more eﬃcient processes and strengthening data-driven decision making to
+Set a short-term challenge
 
-creating partnerships with business units and upgrading the talent
+Setting a 100-day, short-term results challenge for the new person
 
-review cycle. He had a lot to learn.
+right from the beginning can help them get oriented while achieving
 
-The CEO recognized that bringing Rick up to speed on every aspect of
+something of real value. This could be streamlining or strengthening
 
-the business involved in these items would require extensive education
+a key process or helping a sales team increase uptake for a particular
 
-and would keep him from making meaningful progress on any of them
+product, for example. Then, shape the onboarding process around this
 
-for six to 12 months at best. So instead, the CEO suggested that Rick
+goal. Have the leader get to know primarily the people and processes
 
-spend his ﬁrst three months focused on just one aspect of the talent
+that are critical for achieving it, rather than trying to meet everyone
 
-review cycle: improving the talent assessment process.
+and learn everything about the organization. This is impossible anyway
 
-To do this, Rick still had to meet his team and other leaders and
+— and there is always time to meet the others later. (Michael Watkins
 
-learn about the business, but he did so with an eye toward reshaping
+is one among many who have written extensively about how the ﬁrst
 
-the way successors and top talents were identiﬁed, and how plans for
+100-odd days are critical for new employees to make an impact.)
 
-development and retention were put in place. Within his ﬁrst 100 days,
+For example, several years ago the CEO of a global engineering ﬁrm brought in a new chief human resources oﬃcer from outside the
 
-he was able to create a much more professional talent process for the
+industry; I’ll call him Rick (not his real name). Although experienced in
 
-company and the board — and he also learned a lot about the company
+HR, Rick was a ﬁrst-time CHRO and came into the job with a mandate to
 
-in the process. With that knowledge, and a better understanding of
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-what it took to make change happen in the company, Rick then was
+3
 
-able to better shape his plans and priorities for the next 100 days and
-
-beyond. In this way, onboarding became a form of continuous learning
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,21 @@
-# Compliance Assistance Available
+---
+source_path: Employment Law Guide - Prevailing Wages in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: af29ed5d744cab94c9ff9ffa23a0aaa3fec277c9
+title: Employment Law Guide - Prevailing Wages in Construction Contracts
+---
+## (HUD)), and the Federal Water Pollution Control Act.
 
-The Department of Labor provides employers, workers, and others with clear and easy-to-access information
+The Copeland "Anti-Kickback" Act prohibits contractors from inducing any person employed in DBRA- covered construction to give up any part of the compensation to which they are entitled, and requires
 
-and assistance on how to comply with the Davis-Bacon and Related Acts (DBRA), such as the DOL Prevailing
+contractors to submit a weekly statement of the wages paid to each worker performing DBRA-covered work.
 
-Wage Resource Book and the DBRA Forms page. Other compliance assistance related to the DBRA is
+Implementing regulations govern allowable payroll deductions.
 
-available on the Davis-Bacon and Related Acts (DBRA) webpage. Also, the SAM.gov provides the ability to
+Contractors on projects subject to Davis-Bacon labor standards may also be subject to overtime pay
+
+requirements under the Contract Work Hours and Safety Standards Act (CWHSSA) and the Fair Labor Standards Act (FLSA).
+
+In addition to these federal labor standards, state and local prevailing wage and overtime pay requirements
+
+may apply.

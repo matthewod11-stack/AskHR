@@ -1,13 +1,13 @@
-## Presence of Others: Social Facilitation and Inhibition
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 81ddb1caccdab5a62c90dd220f68d17a6074bc40
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Group Roles
 
-At the turn of the last century, researcher Norman Triplett () noticed that cyclists rode faster when competing against other cyclists than when competing against a clock. Intrigued by this observation, Triplett conducted a study in which children completed a task either alone or while competing against other children. As expected, Triplett found that children who worked against others completed their tasks faster than did children who worked alone.
+Another factor that affects the performance of a group is the extent to which its members assume different roles. For a group to be successful, its members’ roles must fall into one of two categories: task oriented and social oriented (Stewart, Fulmer, & Barrick, ). Task-oriented roles involve behaviors such as offering new ideas, coordinating activities, and finding new information. Social-oriented roles involve encouraging cohesiveness and participation.
 
-Since that first study, psychologists have studied what we now call social facilitation and social inhibition. Social facilitation involves the positive effects of the presence of others on an individual’s behavior; social inhibition involves the negative effects of others’ presence. Social facilitation and social inhibition can be further delineated by audience effects and coaction.
+A third category—the individual role—includes blocking group activities, calling attention to oneself, and avoiding group interaction. Individual roles sel- dom result in higher group productivity.
 
-Audience Effects. The phenomenon of audience effects takes place when a group of people passively watch an individual. An example would be a sporting event held in an arena.
-
-The strength of the effect of having an audience present is a function of at least three factors. Latane () hypothesized these factors to be an audience’s size, its physical proximity to the person or group, and its status. Thus, groups are most likely to be affected by large audiences of experts who are physically close to them. Not surprisingly, the presence of an audience increases performance in extraverts but not introverts (Graydon & Murphy, ).
-
-Coaction. The effect on behavior when two or more people are performing the same task in the presence of one another is called coaction. Examples would be two runners competing against each other without a crowd present, or two mail clerks sorting envelopes in the same room. Shalley () found that coaction decreased creativity and productivity. Two other studies provide interesting exam- ples of coaction-influenced behavior. In the first, Sommer, Wynes, and Brinkley () found that when people shopped in groups, they spent more time in a store and purchased more goods than when alone. In the second study, de Castro and Brewer () discovered that meals eaten in large groups were % larger than those eaten when a person was alone.
-
-Explaining Social Facilitation Effects. More than  studies of social facilitation have indicated that performance does not always increase in the presence of others. Performance increases only when the task being performed is easy or well learned; performance decreases when the task is difficult or not well learned (Bond & Titus, ; Platania & Moran, ). Social facilitation and coaction effects occur not only with humans but also with cockroaches running a maze (Zajonc, Heingartner, & Herman, ), chickens eating food (Tolman, ), and ants building nests (Chen, ). Some research examples are shown in Table ..
+Group members will often naturally assume these roles on the basis of their individual personalities and experiences. For example, people high in conscien- tiousness tend to fill task-oriented roles, and people high in agreeableness tend to fill social-oriented roles (Stewart et al., ). When roles are not naturally filled by group members, leaders must assign roles to certain individuals. For example, if a leader notices that every group member is filling a task-oriented role, she may either recruit a new group member or assign a current member to fill a social role.

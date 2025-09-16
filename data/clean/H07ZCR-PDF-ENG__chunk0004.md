@@ -1,33 +1,21 @@
-# HBR / Digital Article / Becoming More Collaborative When Your Impulse Is to Be Territo…
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c338f2471260368fccab72022cc185551c65d8f6
+title: H07ZCR-PDF-ENG
+---
+## especially amid disruption like restructuring, layoﬀs, and budget cuts.
 
-acquisition came a change in leadership structure and ownership. This
+While it’s natural to advocate for your success or support your people, it
 
-left Elena feeling vulnerable, as she would often see prior leadership
+becomes problematic when it comes at the expense of the organization.
 
-teams — including her managers, mentors, and supporters — impacted.
+A client of ours, “Elena,” came up in a company that had been bought
 
-Elena felt deeply bruised if she was layered under a new boss or her
+and sold several times over the past 20 years. With each merger and
 
-team was restructured.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-In fact, in times like this, Elena’s territorial instincts would kick in. On
+1
 
-this occasion, after being promoted to EVP-Americas of client success,
-
-she held on to a key client relationship that needed to be transitioned
-
-to one of her new peers. This territorial approach was preventing her
-
-from operating at her full potential in her new role. She was preoccupied
-
-with what she was “losing” to her sales counterpart by transitioning
-
-these client relationships. Consequently, she struggled to capitalize on
-
-the opportunity to make a broader impact on the customer experience
-
-and gain the seat at the executive table she had long desired.
-
-Elena’s experience is not unique. In our work as consultants and
-
-executive coaches, we’ve observed many leaders who become territorial
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

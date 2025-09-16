@@ -1,11 +1,9 @@
-## champion Serena Williams, and father, to their daughter, Olympia, now
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c215ecf66aa02d2a79e5d829895778039aa0daa9
+title: H05624-PDF-ENG
+---
+## investment ﬁrm Initialized Capital as cofounder and managing partner.
 
-age two. After taking his own paternity leave and learning how to
-
-operate as a working dad, he has become an advocate for mandatory
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+But he says that his most important roles in life are husband, to tennis

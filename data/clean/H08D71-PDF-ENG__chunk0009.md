@@ -1,9 +1,23 @@
-# enthusiasm for the latest tech wizardry.
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2577f92550bb6323effb1489a3290731db7e275
+title: H08D71-PDF-ENG
+---
+# pragmatism and humility.
 
-Leaders of multinational corporations must adopt a certain Deng-like
+Today, the roles are reversing. Although it’s too early to say whether
 
-pragmatism and humility to achieve success in China today. Those who
+China’s hybrid “state capitalist” system will outmatch Western models,
 
-do will see proﬁtable global growth and will have a leg up in their home
+it has undeniable strengths. China leads in 53 out of 64 critical
 
-markets, provided they seize opportunities in the four key strengths of
+technological ﬁelds, according to the Australian Strategic Policy
+
+Institute. This success is built on centralized planning and control, but
+
+also features ruthless competition that produces global winners able to
+
+compete on price and quality in developed and emerging economies
+
+alike. No other country can match China’s market scale, or consumer

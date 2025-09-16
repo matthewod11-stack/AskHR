@@ -1,19 +1,25 @@
-# The number of aﬀected employees
+---
+source_path: Employment Law Guide - Notices for Plant Closings and Mass Layoffs.md
+pages: n/a-n/a
+chunk_id: 3594ec8f13facba07c02dfd87278b6d56074375e
+title: Employment Law Guide - Notices for Plant Closings and Mass Layoffs
+---
+# A statement as to whether the planned action is expected to be permanent or temporary and, if the entire plant is to be closed, a statement to that eﬀect
 
-If the employer chooses the alternative notice, the information required for the longer form of notice must be maintained on-site where it is
+The expected date of the ﬁrst separation, and the anticipated schedule for making separations
 
-readily accessible to the state dislocated worker unit and to the unit of local government.
+The job titles of positions to be aﬀected, and the number of aﬀected employees in each job classiﬁcation
 
-There are no recordkeeping requirements.
+An indication as to whether or not bumping rights exist
 
-There are no reporting requirements.
+The name of each union representing aﬀected employees, and the name and address of the chief elected oﬃcer of each union
 
-WARN is enforced through the U.S. District Courts. Workers, their representatives, and units of local government may bring individual or class
+The notice may include additional information useful to the employees such as a statement of whether the planned action is expected to be
 
-action suits against employers believed to be in violation of the Act. The Department of Labor has no authority or legal standing in any
+temporary and, if so, its expected duration. As an alternative, an employer may give notice to the state dislocated worker unit and to the unit
 
-enforcement action and cannot provide speciﬁc binding or authoritative opinions or guidance about individual situations. The Department of Labor provides assistance in understanding the law and regulations to individuals, ﬁrms, and communities.
+of local government by providing them with a written notice stating:
 
-An employer who violates the WARN provisions is liable to each employee for an amount equal to back pay and beneﬁts for the period of the
+The name and address of the employment site where the plant closing or mass layoﬀ will occur
 
-violation, up to 60 days. This may be reduced by the period of any notice that was given, and any voluntary payments that the employer made
+The name and telephone number of a company oﬃcial to contact for further information The expected date of the ﬁrst separation

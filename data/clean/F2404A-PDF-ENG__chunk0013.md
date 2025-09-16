@@ -1,21 +1,23 @@
-# viability.
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e11fccade39c9e70a0698740e563674255f6791a
+title: F2404A-PDF-ENG
+---
+## Mimoto’s experiences support Gambardella’s contention that where
 
-“Some of the ﬁrms pivoted during our study, and that’s not necessarily a
+founders start out is not really that important because they will test
 
-bad thing because most pivoted very early,” Gambardella says.
+and test to determine what is possible. Experimentation allows them to
 
-Embracing the scientiﬁc method isn’t diﬃcult. Entrepreneurs can easily
+adjust, change, or terminate their approaches much sooner than they would have without using the scientiﬁc method. Pivoting is common for
 
-apply it by following these steps:
+early-stage start-ups. YouTube started as a dating site before pivoting
 
-First, state your main hypothesis. Mimoto’s founder believed that
+to video. PayPal was originally an internet security company. The key
 
-college kids would want to rent mopeds to get to classes faster. Only
+to a successful pivot is focusing not on your original theories but on
 
-by articulating that hypothesis clearly and then observing how mopeds
+the answers you receive from your experiments. They should provide
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+insight into customer demand, industry pain points, and ultimately,

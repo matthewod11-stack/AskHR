@@ -1,9 +1,13 @@
-## without enough discipline or enough courage to state their convictions.
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fe2b3909933a5169eaa8ee03b6391f01fd61dce
+title: R2501H-PDF-ENG
+---
+## simultaneously. And in circumstances where community building isn’t
 
-Perhaps those executives are simply skeptical that a company might
+a priority, connectors can appear unfocused. When introduced to the
 
-truly honor both instrumental and humanistic principles, doing well
+three types, some executives have even told me that they do not believe
 
-and doing good. Connectors view that skepticism as unfounded and
-
-work to overcome it.
+connectors really exist—that they’re just custodians or challengers

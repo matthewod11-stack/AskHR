@@ -1,23 +1,13 @@
-## you, the organization, the team, or the client?
+---
+source_path: H08L36-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ca137e2dc0a88d8821e35ac55eb1363778086a3
+title: H08L36-PDF-ENG
+---
+## HBR / Digital Article / Why Feedback Can Make Work More Meaningful
 
-- 3. Feedback Helps Employees Feel Seen
+- What’s the observable behavior that can be changed, adapted, or
 
-According to a 2021 Grant Thornton study, 45% of workers don’t feel
+reinforced?
 
-that their needs are understood by their employers. Feedback lets the
-
-employee know that they, and their work, are noticed. Even what might
-
-be considered “negative” feedback is an opportunity for the manager to
-
-connect and better understand the why behind someone’s behavior. A
-
-manager might say, “I noticed that the deliverable you’ve been working
-
-on wasn’t sent on time. Is everything okay?” Perhaps the employee
-
-responds with their inability to prioritize tasks at that moment. Or a
-
-lack of understanding of what the deliverable should look like. Either
-
-way, the feedback enables the employee to be understood and seen by
+- What’s the impact of that behavior? Why does this behavior matter to

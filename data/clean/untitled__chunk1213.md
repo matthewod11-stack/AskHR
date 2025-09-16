@@ -1,9 +1,7 @@
-## Papers, American Philosophical Society, Philadelphia.
-
-Romero, M., & Stewart, A. J. (Eds.). (1999). Women’s untold stories: Breaking silence, talking back, voicing complexity. Florence, KY: Taylor & Francis/Routledge.
-
-Rosenbaum, R. (1998). Explaining Hitler: The search for the ori-
-
-gins of his evil. New York: Random House.
-
-Rosenthal, R. (1958). Training clinical students in personality the-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8d359e93d073345e63098ba175c28cb983219274
+title: untitled
+---
+## Roe, A. (1962). [Interview with Gordon W. Allport]. Anne Roe

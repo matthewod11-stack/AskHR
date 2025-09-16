@@ -1,9 +1,9 @@
-## SLAUGHTER, 2011). Schaufeli e Salanova (2007) apontam, a partir de estudos de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: f69f374d1a95404078a4d940aee97c667bce66b9
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Pesquisas revelaram que altos níveis de engajamento predispõem ao
 
-metanálise, longitudinais e cross-culturais, que os trabalhadores que apresentam
-
-desempenho superior são mais engajados no trabalho, exibem mais cidadania
-
-organizacional e menos comportamentos contraproducentes no trabalho (como o
-
-absenteísmo), em comparação aos menos engajados. Trata-se de um construto
+aumento do desempenho laboral dos trabalhadores (CHRISTIAN; GARZA;

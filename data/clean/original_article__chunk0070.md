@@ -1,5 +1,7 @@
-# SC
-
-A numeric value indicating the degree to which the director is ‘connected’ to over 500 000 other directors in the BoardEx database. A measure of the breadth of their social network and therefore their social capital
-
-1
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 06a4c79386fb4bd849445faeb9303353b60fc214
+title: original_article
+---
+# Independent:

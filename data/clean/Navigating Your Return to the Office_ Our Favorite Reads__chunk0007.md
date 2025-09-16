@@ -1,5 +1,11 @@
-# no
+---
+source_path: Navigating Your Return to the Office_ Our Favorite Reads.md
+pages: n/a-n/a
+chunk_id: fa9f75445388557900037c23f892cd2e4816d769
+title: Navigating Your Return to the Office_ Our Favorite Reads
+---
+# the number one
 
-longer just a place to work. It’s a space to gather, meet people, andcollaborate. Our commutes are changing in sync. Traveling to andfrom work is no longer a ritual we must do to be productive. It’s away to infuse balance into our days.Here’s what I’m learning: Commutes have more potential than wethink. Our time on the train or in the car doesn’t have to bedreadful. It can be a space to pause and
+reason people prefer hybrid work is because it allows them toavoid commuting. Employees want a more flexible workplace thatvalues their well-being. But we also know that working from homehasn’t necessarily improved our mental health. Research suggeststhat our job satisfaction and general mental health havecontinued to
 
-nurture ourselves —
+deteriorate in the remote workplace. This burnoutcan be a result of us missing human connection.So, how do we make sense of all this?The truth is that the purpose of “the office” is changing. It’s

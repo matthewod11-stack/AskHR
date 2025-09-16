@@ -1,7 +1,15 @@
-# conﬁrmation process.
+---
+source_path: R2406P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fece1f26cbf343fda46c3e9b8e3d738c2464dce8
+title: R2406P-PDF-ENG
+---
+## Court or the challenges that would most certainly arise in our current
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+political environment. I also felt well prepared to do the job, having
 
-6
+served at the two prior federal levels and been a Supreme Court clerk.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This was, in a way, my wheelhouse in terms of skills and preparation.
+
+The scariest part was suddenly being thrust into the limelight and the

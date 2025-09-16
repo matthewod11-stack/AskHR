@@ -1,3 +1,9 @@
-## Human Resource Development Review, 4, 462-488.
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: ec6bb52900f33dc5eecf618a8344fd534b8f3f81
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+## Based Coaching and Mentoring, 6(2), 100-113.
 
-Kilburg, R, (1996). Toward a Conceptual Understanding and Definition of Executive Coaching, Consulting
+Joo, B. (2005). Executive Coaching: A conceptual framework from and integrative review of practice and research,

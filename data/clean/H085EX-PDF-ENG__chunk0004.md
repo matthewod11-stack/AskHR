@@ -1,19 +1,23 @@
-# HBR / Digital Article / Middle Managers Should Drive Your Business Transformation
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac74c3b6e8534ace966ebe566693ed9c2e0c9a6f
+title: H085EX-PDF-ENG
+---
+## The conventional approach to business transformation — top-down
 
-But why? Because sustained performance improvement isn’t solely
+directives coupled with bottom-up execution — isn’t working. Today,
 
-about cutting costs; it’s about fundamentally changing how an
+fewer than one in eight transformations yield lasting results, leaving
 
-organization operates and what it achieves. Identifying these necessary
+seven in eight lacking sustained impact. While the traditional top-down
 
-changes demands insights and experience that aren’t typically found at
+method may aid in cost-cutting and eﬃciency, it fails to produce
 
-the top or bottom of the corporate hierarchy, but rather in the middle.
+enduring breakthroughs in business performance.
 
-To elaborate, top-down directives often overlook the subtle nuances
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-crucial for propelling performance to new heights. Executives in the
+1
 
-C-suite can become detached from the details of day-to-day operations,
-
-leading them to propose solutions that barely scratch the surface.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

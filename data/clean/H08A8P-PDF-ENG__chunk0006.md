@@ -1,13 +1,33 @@
-## Frame your ideas as a decision, not a discussion.
+---
+source_path: H08A8P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99d2d6e4f01b178bc900d4201304db03b6a98d44
+title: H08A8P-PDF-ENG
+---
+# their experience, of course).
 
-Instead of saying, “I’m thinking about trying X,” you could say, “I’ve
+Whether someone frequently points out ﬂaws before fully
 
-decided to do X because of Y and Z beneﬁts.” You can also use
+understanding your plans, gives input on topics where they’re not
 
-phrases like “After a lot of research, I’ve committed to…” or “We’re
+the expert but you are, or responds to a straightforward request with
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+suggestions about things you didn’t ask about, getting advice out of
 
-2
+the blue can feel like a jab at your skills and competency. But chances
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are, your colleagues or boss aren’t out to criticize you. They’re probably
+
+trying to oﬀer a fresh perspective.
+
+As with most aspects of workplace relationships, balance is key. While
+
+it’s good to be open to new ideas and feedback, you also need to
+
+trust your own expertise and insights. When unsolicited input becomes
+
+chronic, overwhelming, or is frequently misplaced, it’s okay to set
+
+boundaries respectfully. Here’s how to do that so you can stay open-
+
+minded without feeling pushed around.

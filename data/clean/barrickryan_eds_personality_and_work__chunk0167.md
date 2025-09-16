@@ -1,3 +1,11 @@
-# Health and Coping
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 3ca2fd7aa38363b7a899322db6fcc432089ce98c
+title: barrickryan_eds_personality_and_work
+---
+# THE HAPPY WORKER 43
 
-In addition to the direct effects of happiness on work behavior, well-being may have additional indirect beneﬁts for worker pro- ductivity and organizational efﬁciency. For example, researchers have shown that happy individuals have better health and coping outcomes than do unhappy individuals. Most of the research in this area has focused on the effects of negative affect and stress on health and immune functioning, and these studies often ﬁnd that individuals with higher levels of stress and negative affect have poorer health outcomes (Salovey, Rothman, Detweiler, & Steward, 2000; Sapolsky, 1999). However, it is also possible that positive emo- tional and cognitive well-being may have similar effects or may at least moderate the effects of negative moods and stress. Correla- tional studies of mood and immune functioning over time (Stone, Cox, Valdimarsdottir, Jandorf, & Neale, 1987; Stone et al., 1994) and experimental studies of induced mood and immune func- tioning (Dillon, Minchoff, & Baker, 1986; Futterman, Kemeny, Shapiro, & Fahey, 1994) provide evidence that positive moods and immune functioning are linked.
+helping behavior. Is it possible that happiness can lead to feelings of sociability, helpfulness, and cooperation and to arrogance and insubordination? We do not believe (and have found no evidence) that happiness in any form is likely to lead to these more hostile forms of self-conﬁdence. In fact, in experience sampling studies, we found that when people are feeling happy, they are likely to feel both more assertive and more affectionate (Lucas, 2000).
+
+Organizational research may provide a useful test of these ef- fects. Certain sales jobs, for example, require individuals to be so- ciable and friendly at the same time that they are trying to take advantage of the person to whom they are selling. Does positive af- fect make them appear more friendly at the same time that they are being more cunning (the appearance of helpfulness and co- operation), or does positive affect actually make sales associates more likely to give the buyer a better deal (actual helpfulness and cooperation)? Organizational settings can provide researchers with a unique opportunity to test these separable, and perhaps con- ﬂicting, effects of positive affect.

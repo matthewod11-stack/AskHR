@@ -1,29 +1,33 @@
-## HBR / Digital Article / When to Innovate and When to Imitate
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2af1c05f1b04bc4757fdc297c855eb54fdb04ece
+title: H08T9I-PDF-ENG
+---
+## India, China, Russia, and Eastern Europe.
 
-See more HBR charts in Data & Visuals on HBR.org.
+When an industry is nascent, innovating tends to win because many
 
-Instead of just imitating Ford, GM was better oﬀ by leapfrogging it—
+valuable, unexplored opportunities await discovery. For example,
 
-ﬁnding a new position in the uncharted territory. A similar pattern
+following the introduction of Ford’s Model T in 1908, GM entered
 
-played out in the early days of the modern electric vehicle industry.
+the market by imitating the Model T’s aﬀordability and reliable
 
-When Tesla entered the market, most automakers were focused on
+quality. But after unsuccessful imitation attempts, GM decided to
 
-building small, practical electric cars that closely resembled existing
+innovate and move into completely diﬀerent territory: by segmenting
 
-gasoline vehicles—essentially imitating the conventional car template.
+the market and introducing colorful cars with neatly designed closed
 
-Instead, Tesla innovated by launching the high-performance Roadster
+bodies. The industry was simply too young to standardize around the
 
-and, later, the luxury Model S, proving that electric vehicles could be
+Model T; superior designs remained undiscovered, and companies that
 
-desirable, fast, and aspirational. By targeting an unexplored segment
-
-—premium, long-range EVs—Tesla leapfrogged traditional automakers
+pioneered these alternatives achieved remarkable success.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

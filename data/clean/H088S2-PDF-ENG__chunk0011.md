@@ -1,5 +1,23 @@
-## HBR / Digital Article / A New Model for Continuous Transformation
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa5ab84126a02aab84a9176415ae13a46d43ebaa
+title: H088S2-PDF-ENG
+---
+# change initiatives.
 
-insurance sector — grew from $100 billion to nearly $135 billion, and
+State Farm’s transformation journey has already yielded signiﬁcant
 
-the growth across its primary lines of business surpassed the average
+beneﬁts for both the company and its customers. By embracing
+
+digital technologies and modernizing processes, State Farm improved customer experience, enhanced operational eﬃciency, and achieved
+
+substantial cost savings. Notably, between 2018 and 2023, State Farm
+
+Mutual’s net worth — a critical measure of ﬁnancial strength in the
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

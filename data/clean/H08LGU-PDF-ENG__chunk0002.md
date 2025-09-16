@@ -1,11 +1,7 @@
-# Illustration by Michelle D’Urbano
-
-The need for more inclusive workplaces for all is undeniable — 91%
-
-of workers have experienced discrimination related to race, gender,
-
-disability, age, or body size, and 94% of workers care about feeling a
-
-sense of belonging at work. But anti-DEI rhetoric and backlash has sunk
-
-support for diversity, equity, and inclusion (DEI) to a low of only 52% of
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99203f6b74fab57a651e3c4da81ab20f5fe90e37
+title: H08LGU-PDF-ENG
+---
+## Published on HBR.org / January 23, 2025 / Reprint H08LGU

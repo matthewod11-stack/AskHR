@@ -1,15 +1,25 @@
-# deﬁned priorities.
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29aa55db3477bf6f2af459cda8578fd0cfbc461f
+title: H08FW4-PDF-ENG
+---
+## HBR / Digital Article / What the Best Leadership Teams Do Right
 
-Bringing the roles together
+For one global consumer products client we worked with, our
 
-As the ﬁgure below illustrates, the power behind these three roles is
+assessment revealed an unusually intense degree of frustration over
 
-the outcomes they produce in combination with one another. At the
+the amount of time consumed by useless meetings, leaving “only
 
-intersection of shaping a healthy culture, setting competitive direction,
+evenings to do our day jobs,” according to one interviewee. The top 500
 
-and securing resources, organizations experience a greater measure
+leaders collectively spent more than 57,000 hours per year in recurring
 
-of cohesion: the broad sense of unity that comes from feeling deeply
+meetings, the equivalent of six and a half years! The executive team had
 
-connected to those we work with, and the sense that we’re all moving
+unwittingly abandoned their governance responsibilities. Motivated by
+
+the assessment, they eliminated hundreds of unnecessary standing
+
+meetings, redeploying thousands of hours of capacity toward clearly

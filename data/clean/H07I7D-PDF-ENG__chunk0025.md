@@ -1,23 +1,15 @@
-## HBR / Digital Article / How to Help Superstar Employees Fulfill Their Potential
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7661b22a877b01c09e70c665e2f88d589ba6da9
+title: H07I7D-PDF-ENG
+---
+## a broader vision and a deeper sense of the strategic and competitive
 
-enabled high potentials to excel may in fact impede their ability to
+landscape. They noted that the technical and functional skills that
 
-see the “big picture.” As one manager wrote, “Calvin’s* weakness is
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-seeing the bigger picture of how what he manages aﬀects the entire
+6
 
-organization.”
-
-In addition to widening their apertures, high potentials also need
-
-to expand their emotional intelligence and communication skills.
-
-A representative comment from a sponsor said, “John has very
-
-strong hard skills. He is strong in operations, sales, and leading the
-
-development of new technology, but he must improve his soft skills.
-
-He has a big blind spot in terms of how he treats people.” Sponsors
-
-in our sample were more likely to identify strategic management as a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

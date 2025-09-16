@@ -1,29 +1,19 @@
-# schedule.
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec6db60822d0ef20cc7371acd3b91d4ddc6cbce5
+title: H08KYH-PDF-ENG
+---
+# quickly.
 
-- You’re low on patience and easily irritated. Even minor delays can
+- You’re preoccupied with the passage of time. It feels as though time
 
-trigger stress and frustration, and you can lose your temper when
+is always slipping away from you, you feel compelled to “beat the
 
-something (or someone) comes between you and completing a task.
+clock,” and you’re always on the lookout for shortcuts and timesavers.
 
-- You deprioritize your own well-being in favor of eﬃciency and
+- You always feel behind schedule. Despite your eﬀorts, you
 
-productivity. Getting things done is always on your mind and takes
+frequently worry about falling behind — even when deadlines aren’t
 
-precedence over everything else. You sacriﬁce sleep, meals, exercise,
-
-time with loved ones, time away from work, or hobbies in favor of
-
-accomplishing things — and the quicker, the better.
-
-- You’re uncomfortable with downtime and rarely take time to rest.
-
-You consider slowing down or taking a break a waste of time. Being
-
-unoccupied can make you anxious, irritable, impatient, or ﬁdgety.
-
-- You get pleasure from getting things done. Pleasurable experiences
-
-trigger the release of dopamine, the neurotransmitter known
-
-colloquially as the feel-good hormone. It’s dopamine that delivers a
+imminent or others consider you highly productive and ahead of

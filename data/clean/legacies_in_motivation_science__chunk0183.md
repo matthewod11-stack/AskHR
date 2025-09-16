@@ -1,1 +1,11 @@
-# Primed Goals
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: c953d1f0deace1ca75d46949c58c7d028d073fed
+title: legacies_in_motivation_science
+---
+# LOCKE AND LATHAM
+
+manner (Latham, Erez, & Locke, 1988).6 That an assigned goal was as effective as a partici- patively set goal ran counter to the prevailing belief in I-O psychology (e.g., Likert, 1967). The explanation for this seemingly contradic- tory ﬁnding was provided in an experiment by Latham, Winters, and Locke (1994). Research- ers, including us, had been looking in the wrong direction. That is, we were searching in vain for the motivational effects of participation in set- tings goals (e.g., commitment) when the main beneﬁt is cognitive. A mediation analysis re- vealed that the quality of the strategies that are used is responsible for the high performance of the individuals who participate in the goal- setting process. Scully, Kirkpatrick, and Locke (1995) found that participation’s beneﬁts were based on knowledge exchange.
+
+which participants sought to increase market share under rapidly evolving changes in the telecommunications industry, the researchers found that those who had a speciﬁc, challenging learning goal to discover and implement a spe- ciﬁc number of strategies or were urged to do their best signiﬁcantly increased market share versus those with a speciﬁc challenging perfor- mance goal. A learning goal orientation pre- dicted performance only when a vague goal had been set, namely to do one’s best. In short, speciﬁc goal setting masked the effect of a learning goal orientation on subsequent perfor- mance. Self-efﬁcacy and information search (strategy) mediated the learning goal–perfor- mance effect.

@@ -1,7 +1,13 @@
-# Maslow's Hierarchy of Needs
+---
+source_path: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa.md
+pages: n/a-n/a
+chunk_id: 3bb9be224f516a37f1dacedb51a6564ee4daebab
+title: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa
+---
+## VIII. POPULAR THEORIES OF WORKPLACE MOTIVATION
 
-Abraham Maslow presented his model of motivation in 1954. The basic idea of
+Two of the most popular models of motivation are Maslow's Hierarchy of Needs
 
-Maslow's model was that there are five levels of needs for humans and each level needed
+and Herzberg's two-factor model. Both are widely accepted and most recent research
 
-to be fulfilled before someone could be motivated by higher level factors. Figure 1 is a
+builds on the ideas presented in these two models.

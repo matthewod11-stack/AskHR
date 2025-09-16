@@ -1,21 +1,15 @@
-## HBR / Digital Article / Do You Have an Emotionally Intelligent Team?
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1754b83d862f71c4812287b8a968710e2bcfe488
+title: H08UL7-PDF-ENG
+---
+## learn more about individuals’ responsibilities, work context, current
 
-travel. Everyone visited someone during the ﬁrst six months and shared
+challenges, and more. They did this by taking detours during routine
 
-with the team what they’d learned from the visit.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-These visits boosted team trust and sense of psychological safety. It
+5
 
-increased the quality of the feedback that members shared with one
-
-another and feelings of support within the team. Some of the feedback
-
-boosted the emotional intelligence of individual team members. One
-
-member, for example, learned that his novel ideas were valuable and
-
-that he needed to assert himself and share them more often. Within a
-
-year, he was promoted to a higher-level position in the company.
-
-Routinely assessing strengths and opportunities. We worked with
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

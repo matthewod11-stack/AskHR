@@ -1,15 +1,15 @@
-# Multilevel Performance
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 7335590dfff36aa6907e2b52a0f377c1b8783fe8
+title: arop1noe_245_275
+---
+# learning than more passive individuals are. More proactive employees are also likely to engage in greaterinformationexchange,whichfacilitatesthebuildingoftrustrelationships(Gongetal.2012).
 
-Performance as a learning outcome needs to be examined from a multilevel perspective, including unit and firm performance. In addition, the performance domain needs to be expanded to include innovation and financial outcomes.
+Goal orientation. Research on the role of goal orientation has broadened its focus by considering different types of learning-related cognition and behaviors. For example, Wong et al. (2012) suggest that individuals with a high learning goal orientation should be more likely to reflect on experiences (a key activity in informal learning) in a useful manner and learn more from them. Matzler & Mueller (2011) found that a learning orientation positively influenced knowledge sharing, whereas a performance orientation negatively influenced it.
 
-Cross-level perspective. Research on learning outcomes has typically been conducted at either a micro, group or team, or macro level of analysis. However, because the development of human
+Also, recent studies have added to our understanding of how goal orientation influences learning by adopting a person-in-situation perspective. Orvis & Leffler (2011) found three sig- nificant person–situation interactions were related to self-development participation. Specifically, workplace support for self-development interacted with learning goal orientation, openness to experience,andconscientiousness.Individualswithhighlevelsofthesetraitsalsohadhighlevelsof self-development regardless of support. When dispositions were low, however, support com- pensated for low levels of these traits. Hirst et al. (2009) found that creativity was related to the interaction between learning goal orientation and team learning behavior (i.e., collective problem solving and reflection). For individuals with high levels of learning goal orientation, team learning behavior appeared to activate their creative dispositions.
 
-www.annualreviews.org (cid:1) Learning in Today’s Workplace
+Affect and emotion. Aguinis & Kraiger (2009) highlight that research has focused on the re- lationship between training reactions (such as satisfaction with the instructor) and learning outcomes but has paid less attention to relationships between the affective states learners ex- perience during training and learning outcomes. Since Aguinis and Kraiger’s review, a few studies have begun to examine the role of affective states, emotions, and learning. Daniels et al. (2009) indeed found learning to be associated with pleasant affect but not anxious affect. Gondim & Mutti(2011)lookedattheaffectivestatesexperiencedbycourseparticipantsusingtimesampling. In general, the course generated affective states such as joy, excitement, pleasure, and pride. The authors also found that training activities that were more direct and realistic generated greater emotional impact and that team-based activities were associated with lower levels of anxiety than individual training activities were.
 
-261
-
-6 2
-
-: 5 2 : 4 0
-
-5 2 0 2
+EXPANDING THE SCOPE OF LEARNING OUTCOMES By examining the effectiveness of organizations’ human capital resource development demands, we expand focus beyond program- or individual-level outcomes to include organizational-level outcomesthatareconsideredcriticalforcompetitiveadvantage.Recentresearchandpracticehave begun, and need to continue, to examine a broader set of outcomes, including multilevel per- formance, employment brandingand socialresponsibility, employee engagement,and well-being.

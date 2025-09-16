@@ -1,3 +1,7 @@
-## and algorithms. Indeed, the spread of more powerful tools and larger
-
-datasets will likely make the human elements of decision-making more
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e84cf572f791c4fda5f0cc1f945f6de3af411257
+title: H08IKZ-PDF-ENG
+---
+## Many crucial aspects of decision-making lie beyond the realms of data

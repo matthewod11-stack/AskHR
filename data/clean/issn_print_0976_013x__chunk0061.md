@@ -1,17 +1,13 @@
-# THE ROAD AHEAD
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 34d7e8fe53dda6cbc11cbec6f92e3d2ad0cc895b
+title: issn_print_0976_013x
+---
+# and Non-SEZ rental op(cid:415)ons.
 
-Technopark has not only served its stakeholders in a meaningful way over the years but has
+- Futuris(cid:415)c: The hi-tech infrastructure of Technopark is quite futuris(cid:415)c. The brilliantly
 
-also contributed towards job crea(cid:415)on, capital accumula(cid:415)on and wealth maximiza(cid:415)on.
+designed, fully air-condi(cid:415)oned conference halls, seminar and mee(cid:415)ng halls are well
 
-However, the organiza(cid:415)on has a track record of always looking ahead in terms of enriching
-
-the experience of all the stakeholders within and outside the Technopark campus while
-
-con(cid:415)nuously adding value. Sanjeev Nair, Chief Execu(cid:415)ve Oﬃcer, Technopark is taking keen
-
-interest in improvising campus ameni(cid:415)es and crea(cid:415)ng new opportuni(cid:415)es. An area where
-
-Technopark needs to focus is development of non-SEZ commercial and residen(cid:415)al buildings5.
-
-7
+equipped to meet all the business needs of the stakeholders.

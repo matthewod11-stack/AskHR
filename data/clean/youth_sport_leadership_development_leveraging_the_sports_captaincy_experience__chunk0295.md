@@ -1,7 +1,11 @@
-# REFERENCES
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: 75400289f05bf11274928548024ba99efcbe35d4
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# Youth Sport Leadership
 
-Anderson, N. B. (Ed.). (2007). Leadership [Special issue]. American Psychologist,
+For coaches, leadership also appears to be under-recognized. That is, many coaches appear to be frustrated with the leadership on their teams, but few appear to proactively develop leadership skills in their athletes. Coaches can play numerous roles in the leadership development process. For example, coaches can be cultivators of leadership themselves by serv- ing as positive role models, providing a mentorship experience to captains, teaching their captains about leadership principles, and providing feedback on their captain’s leadership skills throughout the season. Coaches can use the same principles of empowerment and autonomy by giving their captains an opportunity to lead and providing a legitimate leadership role with clear expectations and reasonably challenging responsibilities. Coaches can also promote and support other venues by encouraging their athletes to attend sport leadership development initiatives and by holding their own athletes accountable for what they have learned.
 
-62(1), 1–47.
-
-Doh, J. P. (2003). Can leadership be taught? Perspectives from management Educa-
+For everyone involved in facilitating leadership development through sport, we recommend consulting the relevant literature, collaborating with others on the topic, and doing your own leadership exploration. What is leadership to you, why is it important, and how can you best develop it in the young people you work with? Numerous initiatives have involved young people in volunteer work and service learning projects and then called it a leadership development program. We are questioning how much leadership development is occurring if leadership skills are not proactively taught. Similarly in sport, we encourage you to ask yourselves how much our athletes are learning about leadership just by being there and to what degree we need to do something more to develop leaders for our future.

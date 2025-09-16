@@ -1,9 +1,9 @@
-## comprehensiveness, and readability over the previous
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 6ccd08fd8239fd57252a3fcf40ece71b214d7d2e
+title: building
+---
+## “Across all our use cases—from code generation to technical
 
-version of Claude 3.5 Sonnet. What’s truly impressive is the new careful reasoning comes without the usual latency
-
-hit we see in other models. This combination of improved
-
-performance and efficient processing makes it ideal for
-
-powering multi-step, agentic software development.”
+discussions—we’re seeing 5-10% improvements in accuracy,

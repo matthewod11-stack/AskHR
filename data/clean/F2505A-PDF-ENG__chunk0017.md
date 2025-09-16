@@ -1,7 +1,19 @@
-# experimentation.
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8c37b5c2e06045cc63cc29cd9e56806161f2e91
+title: F2505A-PDF-ENG
+---
+# likely cease or limit experimentation.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Is there a strategic ﬁt? Roche advises startups to consider the investor’s
 
-4
+preferred exit strategy, whether it be acquisition, IPO, or allowing
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the startup to keep growing as a proﬁtable, stand-alone company.
+
+The investor’s ultimate goals can signiﬁcantly impact the startup’s
+
+growth trajectory and operational decisions. Investors seeking a near-
+
+term IPO are more likely to push for quicker results over constant

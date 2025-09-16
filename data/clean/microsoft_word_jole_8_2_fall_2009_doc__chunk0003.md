@@ -1,7 +1,9 @@
-# Introduction
+---
+source_path: microsoft_word_jole_8_2_fall_2009_doc.md
+pages: n/a-n/a
+chunk_id: 3c945a5128af0e61275857437609a1fd2c863375
+title: microsoft_word_jole_8_2_fall_2009_doc
+---
+# Abstract
 
-The question of whether leadership is learnable has received considerable attention in the academic and practitioner arenas. Doh (2003) presented the perspectives of several prominent management educators on this topic. He concluded that several aspects of leadership might be enhanced through various learning experiences. Additionally, it was suggested “leadership skills are best acquired as part of a practical, experiential educational program” (p. 64).
-
-224
-
-(cid:68)(cid:111)(cid:119)(cid:110)(cid:108)(cid:111)(cid:97)(cid:100)(cid:101)(cid:100)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:104)(cid:116)(cid:116)(cid:112)(cid:58)(cid:47)(cid:47)(cid:119)(cid:119)(cid:119)(cid:46)(cid:101)(cid:109)(cid:101)(cid:114)(cid:97)(cid:108)(cid:100)(cid:46)(cid:99)(cid:111)(cid:109)(cid:47)(cid:106)(cid:111)(cid:108)(cid:101)(cid:47)(cid:97)(cid:114)(cid:116)(cid:105)(cid:99)(cid:108)(cid:101)(cid:45)(cid:112)(cid:100)(cid:102)(cid:47)(cid:56)(cid:47)(cid:50)(cid:47)(cid:50)(cid:50)(cid:52)(cid:47)(cid:49)(cid:48)(cid:48)(cid:54)(cid:53)(cid:57)(cid:56)(cid:53)(cid:47)(cid:118)(cid:56)(cid:95)(cid:105)(cid:50)(cid:95)(cid:114)(cid:102)(cid:55)(cid:46)(cid:112)(cid:100)(cid:102)(cid:32)(cid:98)(cid:121)(cid:32)(cid:103)(cid:117)(cid:101)(cid:115)(cid:116)(cid:32)(cid:111)(cid:110)(cid:32)(cid:48)(cid:57)(cid:32)(cid:83)(cid:101)(cid:112)(cid:116)(cid:101)(cid:109)(cid:98)(cid:101)(cid:114)(cid:32)(cid:50)(cid:48)(cid:50)(cid:53)
+The question of whether leadership is teachable has received considerable attention in the academic and practitioner arenas. Organized athletic team participation offers students a different experiential venue that many argue develops leadership. The purpose of this study is to investigate the relationship between organized sports team participation and leadership skills. We employ a valid means of measuring several leadership dimensions using a validated assessment center method. Nine distinct leadership skill levels were measured for 141 MBA program students. Using ANOVA and correlation analysis we found no systematic association between the number of seasons of sports team participation and the level of any particular leadership skill. The findings caution recruiters and other persons making personnel decisions against using this past behavior as an indicator of these or any other leadership skills. By showing a preference for athletes, recruiters may bypass persons who would be a good fit for a position.

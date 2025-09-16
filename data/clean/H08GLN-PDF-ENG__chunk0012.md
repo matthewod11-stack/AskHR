@@ -1,23 +1,19 @@
-# Designing a Portfolio
+---
+source_path: H08GLN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f8cc7bc5b74e1b52428f723622737673fe931d1
+title: H08GLN-PDF-ENG
+---
+# resilience.
 
-The key to designing failure tasks lies in creating a balanced portfolio of
+But this isn’t about setting your employees up for failure. To eﬀectively
 
-both performance goals and learning goals.
+utilize productive failure methods, you’ll need to organize a balanced
 
-Performance goals include tasks that focus on achieving set goals where
+portfolio of tasks with built-in roadblocks. After employees have
 
-failure is not acceptable. They may involve routine activities such as
+completed the carefully designed tasks, you will need to hold a feedback
 
-accurately processing payroll or managing client deliverables on a high-
+and debrief session to talk through the learnings.
 
-stakes project where success is imperative.
-
-Learning goals are designed to push employees beyond their current
-
-abilities. These stretch tasks are speciﬁcally chosen for their potential
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+So, where do you begin?

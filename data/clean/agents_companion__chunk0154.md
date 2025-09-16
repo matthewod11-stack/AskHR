@@ -1,21 +1,9 @@
-# Challenges in Multi-Agent systems
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 31743d2f589cd66da2c0f8e60d863d3bccc5a5f7
+title: agents_companion
+---
+## collaborative capabilities of LLM agents within multi-agent systems.
 
-While multi-agent systems offer numerous advantages, they also face several challenges:
-
-- Task Communication: Today most agent frameworks communicate in messages, not
-
-structured async tasks.
-
-- Task Allocation: Efficiently dividing complex tasks among different agents can be
-
-challenging, and feedback loops are often left up to the developer to implement.
-
-- Coordinating Reasoning: Getting agents to debate and reason together effectively
-
-requires sophisticated coordination mechanisms.
-
-- Managing Context: Keeping track of all the information, tasks, and conversations
-
-between agents can be overwhelming.
-
-- Time and Cost: Multi-agent interactions can be computationally expensive and time-
+30

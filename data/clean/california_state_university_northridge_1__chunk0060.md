@@ -1,27 +1,43 @@
-## areas of employment, promotions, job assignments and so forth.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: efa21b4a222465edd29143ee506c273057844635
+title: california_state_university_northridge_1
+---
+# compensation polices, employee benefits, arbitration clause, drug testing polices and
 
-Marissa goes into and in-depth discussion of how termination on the basis of age
+applicable laws. Based of the basics, there may not be a need for drug testing policies and
 
-cannot be used and lists examples where an employer violated the ADEA. An example given
+every organization my not have an arhitration c1anse ThP rPH~on rHscipll11e procedure w.ay
 
-is when an employee over forty is removed from their current position and replaced by a
+not be listed is because they have caused lawsuits in which have been costly to employers
 
-VOUJlQer emplovee who is less than fortv vears of aoe A ~m;:e oiVf~n ciescrihes H m1rgP. 'Who
+(Ramirez, 1998, p. 3).
 
-- 'Q
+Marissa J. Ventura, writes in an article tilted, "When age makes you a cut back
 
-.,
+target." The article opens by illustrating examples where employees who are older and paid
 
-.!JQ'"'
+more are being let go and or demoted, since the position they were in is no longer needed.
 
-,0
+This is all done in an effort to save money for the organization for budgetary reasons.
 
-was terminated along with sixty other employees, whom were nurses. The nurse Peggy
+Furthermore, higl-Jy paid personnel are being terminated for mh1or errors that previously were
 
-Woodhouse applied for another position and did not meet the qualifications, alleged by the
+10
 
-employer. An ADEA suit was filed, and within a short time span seventy-six nurses were
+dealt with a slap on the wrist. The article goes on to suggest that this is nothing more than a
 
-hired and ninety seven percent of them were younger than the group of sixty-one nurses that
+subterfuge for the real issue of age; this position is taken by attorneys.
 
-were terminated. Woodhouse won the case and was awarded $50,700 in back pay and
+The arena of focus is the medical profession, in particular nurses and how they were
+
+phased out of certain positions. As stated, the reason is that she or he is within an age range,
+
+which they are paid more and are at senior positions. This type of downsizing and or
+
+termination, will lead to an increase in the age discrimination suits. We are reminded that the
+
+Age Discrimination Employment Act (ADEA) prohibits discrimination of employees above 40
+
+years of age for the sole basis of their age. A key point is that this has been extended to all

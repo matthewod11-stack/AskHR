@@ -1,25 +1,15 @@
-# Harvard Business School Press.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: c2338cdd21da0bf6b1c8b4284889680bcdfcc2b8
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# Paauwe, J. (2004) Human Resource Management and Performance, Oxford, Oxford University Press.
 
-Pfeffer, J. (1994) Competitive Advantage Through People: Unleashing the power of the workforce, Boston MA, Harvard Business School Press.
+Paauwe, J. and Boselie, P. (2003) “Challenging ‘strategic HRM’ and the relevance of institutional setting”, Human Resource Management Journal, 13, 56-70.
 
-Pfeffer, J. and Leblebici, H. (1973) “executive Recruitment and the Development of Interfirm Organizations”, Administrative Science Quarterly, 18, 449-461.
+32
 
-Powell, W.W. (1990) “Neither Market nor Hierarchy: Network forms of Organization”, Research in Organization Behavior, 12, 295-336.
+Pender, C.C. (1998) Motivation in work organizations, Upper Saddle River, NJ, Prentice Hall.
 
-Rao, H. and Drazin, R. (2002) “Overcoming resource constraints on product innovation by recruiting talent from rivals: A study of the mutual fund industry, 1986-94”, Academy of Management Review, 45, 491-507.
-
-Ready, D.A. and Conger, J.A. (2007) “Make your company a talent factory”, Harvard Business Review, June, 69-77.
-
-Schuler, R.S. (1989) “Strategic Human Resource Management and Industrial Relations”, Human Relations, 42, 157-184.
-
-Schuler, R.S. and Jackson, S.E. (1987) “Linking competitive strategies and human resource management practices”, Academy of Management Executive, 1(3), 207-19.
-
-Smart, B. D. (1999). Topgrading: How leading companies win by hiring, coaching, and keeping the best people. Paramus, NJ: Prentice Hall Press.
-
-Smilansky, J. (2006) Developing Executive Talent: Best practices from global leaders, Chichester, John Wiley.
-
-Smith, C. A., Organ, D. W., and Near, J. P. (1983) “Organizational citizenship behavior: Its nature and antecedents”, Journal of Applied Psychology, 68, 653–663.
-
-Somaya, D. and Williamson, I.O. (2008) “Rethinking the ‘war for talent’”, MIT Sloan Management Review, 49, 4, 29-34.
-
-Sparrow, P. (2007) “Globalization of HR at function level: four UK-based case studies of the international recruitment and selection process”, International Journal of Human Resource Management, 18, 845 – 67.
+Pfeffer, J. (1998) The Human Equation: Building Profits by Putting People First, Boston,

@@ -1,13 +1,31 @@
-## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bcd1d65afbe88c2d65d99c75f0f5f6407a8809ae
+title: R0507Q-PDF-ENG
+---
+# drive cash ﬂow.
 
-Assertions that ﬁnancial measures are unnecessary are incorrect for
+Some critics go much further in their indictment of ﬁnancial measures.
 
-at least two reasons. A well-designed ﬁnancial-control system can
+They argue that the terms of competition have changed and that
 
-actually enhance rather than inhibit an organization’s total quality
+traditional ﬁnancial measures do not improve customer satisfaction,
 
-management program. More important, however, the alleged linkage
+quality, cycle time, and employee motivation. In their view, ﬁnancial
 
-between improved operating performance and ﬁnancial success is
+performance is the result of operational actions, and ﬁnancial success
 
-actually quite tenuous and uncertain. Let us demonstrate rather than
+should be the logical consequence of doing the fundamentals well. In
+
+other words, companies should stop navigating by ﬁnancial measures.
+
+By making fundamental improvements in their operations, the ﬁnancial
+
+numbers will take care of themselves, the argument goes.
+
+Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+
+15
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

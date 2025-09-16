@@ -1,7 +1,9 @@
-# University of California, Berkeley.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: a4747cf0925b7e12bbbdd31a3d2566710da95821
+title: behavioral_economics_1
+---
+# forthcoming.
 
-Dufwenberg, M. and G. Kirchsteiger (2004). "A Theory of Sequential Reciprocity." Games and Economic
-
-Behavior 47: 268-298.
-
-Edgeworth, F. Y. (1881). Mathematical Psychics: An Essay on the Application of Mathematics to the Moral
+Della Vigna, S. and J. Pollet (2005). Investor Inattention, Firm Reaction, and Friday Earnings Announcements,

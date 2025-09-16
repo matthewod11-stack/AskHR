@@ -1,31 +1,21 @@
-## Suffering Consequences After Challenging the System
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f1bd3848b9af2daf139a225b455ccab1abeb609
+title: H04FQE-PDF-ENG
+---
+# HBR / Digital Article / How Managers, Coworkers, and HR Pressure Women to Stay Sile…
 
-The women we talked to were also advised by well-meaning colleagues
+and I don’t talk to anyone in the organization much unless I really
 
-to not voice their discontent, because of career repercussions and social
+have to.
 
-isolation that might ensue. Abbey told us how many people cautioned
+The HR oﬃcers attempted to “solve” Neev’s issue by asking her
 
-her against complaining about a senior colleague who harassed her:
+perpetrator to be nice to her. As far as they were concerned, Neev was oﬀered support and her issue was solved. But Neev felt extremely
 
-He made my life miserable during maternity leave, hinting that I
+patronized and embarrassed for being seen as a “melodramatic”
 
-strategically chose to have children during the grant. But my team
+individual. She believed that she still wasn’t being treated fairly, and
 
-members were like, “Even if you leave the organization, getting the
-
-wrong person on your bad side can effectively ruin your career,
-
-especially if it’s someone in your area. So just keep quiet. You don’t
-
-want to be known as a parasite.” Of course I don’t want to be known
-
-as a parasite. So I am scared to open my mouth, to be honest,
-
-although I really want to.
-
-Abbey’s maternity leave was not respected, but her close colleagues
-
-insisted that she should not raise the issue any further, because bringing it up would position her as a “troublemaker” and negatively aﬀect her
-
-career. This instilled a sense of fear that led Abbey to stay silent.
+HR’s interest in archiving her complaint left her confused.

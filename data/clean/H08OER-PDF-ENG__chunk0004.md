@@ -1,9 +1,17 @@
-## Johnny C. Taylor Jr., CEO of the Society for Human Resource
+---
+source_path: H08OER-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1decc450187eddb12fd14a694ba28df5d5cb255f
+title: H08OER-PDF-ENG
+---
+## HBR / Digital Article / What It Takes to Fix a “Mean” Workplace
 
-Management (SHRM), estimates that incivility costs U.S. businesses
+what to say—or whether to say anything at all. Even casual remarks,
 
-$2 billion per day in lost productivity. When on the receiving end of
+lighthearted jokes, or well-meaning feedback can spark conﬂicts or
 
-incivility, 63% of employees in a 2013 survey reported losing work time avoiding the oﬀender, 66% said their performance declined, 80% lost
+smolder resentment. With some major companies mandating a ﬁve-day
 
-work time worrying about the incident, and 25% admitted to taking
+return to the oﬃce, the tension is likely to escalate.
+
+Which is a shame, because the consequences of incivility are profound.

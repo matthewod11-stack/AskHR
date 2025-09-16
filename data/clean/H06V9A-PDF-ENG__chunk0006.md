@@ -1,19 +1,17 @@
-# teams.
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95ac4f9fb0c85e40e5c8608d60874eb3892a4e36
+title: H06V9A-PDF-ENG
+---
+## consequences: Through a ﬁeld survey and an experimental study with
 
-Why does this happen? Let’s say you’re a manager on a software team,
+a total of nearly 1,000 working professionals in the U.S. and India, we
 
-and your employee, Susan, just shared a potential solution to a known
+found that the more managers solicited input from their employees, the
 
-product issue. If Susan spoke up unprompted, you would likely view
+less likely they were to reward employees for speaking up. This could
 
-her as a very proactive employee, and a strong candidate for a raise,
+be highly demoralizing for the employees, who had invested time and
 
-high-proﬁle project, or promotion. On the other hand, if Susan shared
-
-the same idea, but only did so after you asked for her input during a
-
-meeting, you might think that Susan only spoke up because you told
-
-her to. In this situation, you might credit yourself for Susan’s actions,
-
-and thus not reward Susan as highly — even though she oﬀered equally
+eﬀort in developing and speaking up about ideas that could help their

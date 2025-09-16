@@ -1,17 +1,27 @@
-# your team.
+---
+source_path: H08ME9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80e00a6c162e2baa06bcc6e19b9d381fc39c9e8f
+title: H08ME9-PDF-ENG
+---
+# above you.
 
-- 2. What keeps you up at night when thinking about our team or projects?
+Getting these insights requires asking smarter questions — ones that
 
-Unlike asking about general challenges, which often gets you a canned
+help your boss open up about their challenges and deeper needs. Here
 
-response, asking this question tends to elicit a more candid answer.
+are seven you can try:
 
-It invites vulnerability in a way that builds trust and creates an
+- 1. What goals do you discuss with your boss?
 
-opportunity to help solve issues. You might ﬂag risks earlier, suggest
+This question reveals what impacts your manager’s performance
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+reviews, bonuses, and career trajectory. Which metrics do they mention
 
-2
+ﬁrst? Do any diﬀer from what you typically track? Notice if they dive
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+into a speciﬁc calculation or become enthusiastic about certain ﬁgures.
+
+You can use this insight to present your work in ways that matter to
+
+senior leadership, making it easier to get resources and recognition for

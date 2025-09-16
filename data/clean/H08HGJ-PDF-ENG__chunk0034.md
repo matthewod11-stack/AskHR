@@ -1,9 +1,13 @@
-# JK
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be61359abe4e85e4ff3df880756ca0f2ec9d3da8
+title: H08HGJ-PDF-ENG
+---
+# company.
 
-John Kay is an economist whose career has spanned the academic world, business and public aﬀairs. He was the ﬁrst dean of Oxford’s Said Business School and has held chairs at the London School of Economics, the University of Oxford, and London Business School.
+This article was originally published online on November 22, 2024.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Nathan Furr is a Professor of Strategy at INSEAD and a coauthor of ﬁve best-selling books, including The Upside of Uncertainty, The Innovator’s Method, Leading Transformation, Innovation Capital, and Nail It then Scale It.
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Susannah Harmon Furr is an entrepreneur based in Paris. She is a coauthor of The Upside of Uncertainty (Harvard Business Review Press, 2022).

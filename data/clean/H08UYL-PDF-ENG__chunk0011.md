@@ -1,21 +1,7 @@
-## diluted focus on the company’s core advertising business. Through
-
-executive coaching with one of us (Tutti), he introduced a structured
-
-“5% innovation time” and began clearly distinguishing between
-
-exploratory concepts and strategic priorities. This shift preserved his
-
-creative energy while enabling the team to stay focused on execution.
-
-- 3. The Anxious Communicator
-
-This leader overshares uncertainty in the name of transparency.
-
-They want to be honest and real but often broadcast indecision or
-
-internal anxiety too early. During organizational change, this can
-
-leave teams feeling unmoored rather than informed, contributing to
-
-change exhaustion when repeated ambiguous updates erode employee
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cae89d4bb98fe4f95bb11e97160f6fb8f53ec5db
+title: H08UYL-PDF-ENG
+---
+## meetings. While imaginative, the constant inﬂux of new initiatives

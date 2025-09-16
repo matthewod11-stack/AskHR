@@ -1,7 +1,13 @@
-## Relation to State, Local, and Other Federal Laws
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: 195814bb1ab6254b466217aa77550f393c06d6a1
+title: Employment Law Guide - Mine Safety and Health
+---
+# sanctions against mine operators who "willfully" violate safety and health standards. MSHA reviews particular
 
-The Mine Act does not give MSHA the authority to cede its responsibilities to states or any other political
+citations and orders for possible knowing or willful violations. In general, the violations reviewed include those involving imminently dangerous situations and a high degree of negligence or reckless disregard. MSHA
 
-subdivisions. The Mine Act does not preempt state mine safety and health laws, except insofar as they may
+initiates and conducts investigations of possible knowing or willful violations. If evidence of willful violations is
 
-conﬂict with the Mine Act or MSHA's regulations. States may have more stringent health and safety
+found, the case is referred to the Department of Justice.

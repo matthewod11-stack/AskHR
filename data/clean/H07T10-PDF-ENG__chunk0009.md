@@ -1,15 +1,45 @@
-## Critical Thinking Is Fundamentally a Process of Questioning
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87cc174d0e1920ca2d7837e6d38fcc1ddbc4ab1d
+title: H07T10-PDF-ENG
+---
+# very short dates.
 
-A key insight from our research, based on surveying and teaching
+Now let’s consider the typical process of hiring talent. The primary tool
 
-thousands of executives, is that the smartest person in the room is
+we use to assess talent is a set of job interviews. The typical interview
 
-not the one with the answer but the person asking the question.
+process is a Q&A format where some version of the common questions
 
-They are curious, engaged, unafraid, inquisitive, and ready to explore
+are asked of the candidate: Tell us about your background. Why do
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+you want to work for us? Share a challenge you faced at work and how
 
-2
+you dealt with it. What are you most proud of? What impact have you
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+had? Why are you the best person for the job? What is your greatest
+
+achievement? What are your weaknesses?
+
+While much has been said in favor and against the value of interviews
+
+themselves, the typical Q&A job interview process fails to assess one
+
+of the most important, if not the most important, skills you should be
+
+looking for from people you hire — critical thinking. Critical thinking
+
+is seeking information from various sources, assessing its credibility,
+
+and determining its relevance and veracity. Often classiﬁed as a higher-
+
+order skill, critical thinking is not a single skill but a collection of skills
+
+involving reasoning, constructing sound arguments, and identifying
+
+a situation’s ﬂaws, biases, logic, or inconsistencies. Critical thinking is diﬀerent from creative thinking. Creative thinking is the ability to
+
+generate new, innovative ideas. Critical thinking requires the candidate
+
+to carefully and logically analyze facts and form a judgment.

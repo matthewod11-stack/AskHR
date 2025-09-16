@@ -1,13 +1,23 @@
-## HBR / Digital Article / Make Better Decisions by Challenging Your Expectations
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3d243de0af9cd20b12ec80e5b2513707ba6f86d
+title: H0705Q-PDF-ENG
+---
+# external pressures?
 
-. . .
+- Are the other stakeholders under any constraints?
 
-After applying the BIAS framework to their decision-making, Bill and
+Biases to look out for: planning fallacy (underestimating the time it will
 
-his parents realized that they were solving for the wrong problem. They
+take to complete a future task, despite knowledge that previous tasks
 
-didn’t need an eldercare facility, and by trying to shoe-horn themselves
+have generally taken longer than planned); status-quo bias (preferring
 
-into one to prevent a second move, they could have made an expensive
+the current state of affairs resulting in a resistance to change).
 
-and unhappy decision. They simply needed a house without outdoor
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

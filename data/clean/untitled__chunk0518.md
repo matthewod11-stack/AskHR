@@ -1,9 +1,11 @@
-# Soul-Searching
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5bb8ff541cd1b81c9ce55ca689764141d5e9d92d
+title: untitled
+---
+# Academic Societies
 
-Comparative psychologists have often assessed the state of their discipline and often criticized the directions taken. Three major articles stand out. In his famous “The Snark Was a Boojum,” mentioned earlier, Beach (1950) argued that comparative psychology had begun as the study of a wide range of topics in a wide range of species but had degenerated into the study of learning in rats. He stressed the need for a resurrection of the breadth that had earlier characterized the ﬁeld. Although Beach’s analysis was ﬂawed (Dewsbury, 1998), it was quite inﬂuential.
+No one academic society has emerged as the primary home for comparative psychologists. The APA remains the leading organization of psychologists, but its Division of Behavioral Neuroscience and Comparative Psychology (Division 6) is but a small part of the APA. Some psychologists have given allegiance to other psychological organizations such as the Psychonomic Society or theAmerican Psychological Society. TheAnimal Behavior Society in NorthAmerican, theAssoci- ation for the Study of Animal Behavior in Great Britain, and the International Ethological Congress have become the lead- ing organizations in the ﬁeld of animal behavior studies.
 
-In the second major critique, Hodos and Campbell (1969) criticized comparative psychologists’ perspective on evolu- tionary history. They argued that comparative psychologists still utilized the concept of a Scala naturae, derived from Aristotle, that implies that all species can be placed along a single great chain of being. They pointed to the branching na- ture of evolutionary history and to the need for a more realis- tic selection of species in comparative analyses.
-
-In “Reﬂections on the Fall of Comparative Psychology: Is There a Lesson for Us All?” Lockard (1971) detailed 10 myths that he thought plagued the ﬁeld. He incorporated the problems discussed by both Beach (1950) and Hodos and Campbell (1969) and added that comparative psychologists had devoted too little effort to the study of individual differ- ences, species differences, genetics and evolution, and ﬁeld research. Lockard advocated a more realistic biological ap- proach for comparative psychology.
-
-All three were effective critiques that provoked much dis- cussion and appear to have helped to stimulate change. How- ever, all three appear to have been overstatements of the problems. This may have been caused, in part, by the lack of a clear differentiation of true comparative psychology from other important, but different, parts of animal psychology. A survey published in 1980 revealed that comparative psychol- ogists remained divided with regard to both the deﬁnition and status of the ﬁeld (Demarest, 1980).
+Many comparative psychologists participate in these. The International Society for Comparative psychology, founded in 1983, has great possibilities that have not yet been realized.

@@ -1,7 +1,17 @@
-## for transportation, energy use, and environmental regulation. When
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3326d4f1d66967ed3e6d08d9a87129de7ef5b1b8
+title: H08U3Y-PDF-ENG
+---
+# machine” for a reason.
 
-Russia invaded Ukraine in 2022, Hamburg had the tools to welcome tens
+Eighteen months after the partnership with CityScope began, Hamburg
 
-of thousands of refugees in a fraction of the usual time And the United
+had not just housed thousands of refugees: It had strategically
 
-Nations now funds a project exporting CityScope to other cities that face
+distributed them across the city to maximize social cohesion, economic
+
+opportunity, and community resilience. Since then, the city has been
+
+integrating CityScope into its decision-making processes more broadly,

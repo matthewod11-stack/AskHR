@@ -1,15 +1,31 @@
-## group of outstanding performers in their respective practice area for the
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d098de4d3210bb9d3d6aee24cafc06608e69f36a
+title: H08OKB-PDF-ENG
+---
+# lateral hires per ﬁrm.
 
-year in question. In the context of our study, we deﬁne performance
+This leads to a very interesting question: If hiring stars is unlikely
 
-in relation to the rating that a particular practice area is awarded in
+to work, as recognized both in the academic and in the practitioner
 
-Chambers. We complemented our analysis of statistical data by talking
+literature, why do organizations continue to do so?
 
-to some key decision-makers in the law ﬁrms featured in our study,
+Our recent working paper, which has been presented at AOM and other
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+conferences, on the lateral hiring of stars in the UK legal industry helps
 
-2
+to answer this question. We followed 2,700 star lawyers working in more
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+than 100 UK based corporate law ﬁrms over a 17-year period (2000-2017)
+
+and looked at whether practice areas that hired a star performed better
+
+in the year after hiring than comparable practice areas that did not
+
+do so. We deﬁne a lawyer as a star if they were listed in the annual
+
+UK Chambers Legal Directory. Inclusion in “Chambers” indicates that
+
+a lawyer is recognized by peers and clients as being amongst a small

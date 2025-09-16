@@ -1,25 +1,29 @@
-# moments of crisis.
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6f9105d7d6aecd3e66cc31433fde2406563753f
+title: H08058-PDF-ENG
+---
+## debate and to share decision-making duties on any action that should
 
-Employee activism challenges our assumptions about what leaders can
+be taken. You won’t be able to satisfy everyone, but you can show that
 
-and should attend to when running a business — and the extent to
+you’ve got a robust, respectful process for ﬁguring out which issues to
 
-which organizations can stand apart from the social, economic, and
+take a stand on.
 
-environmental issues that are part of a noisy public sphere.
+Make sure corporate identity, purpose, and activist intentions are
 
-Leaders must come to terms with this shift, cede some control, and work
+discussed and included in your strategic plan. Not everyone on the
 
-with stakeholders to reﬂect on the case for action — and nonaction.
+management team we referred to at the start of the article connected
 
-The tools we’ve described help them to do this and to learn, rather than
+the debate they’d just had on strategy with their ensuing conversation
 
-continuing to make the same mistakes.
+on activist employees. You won’t be able to predict every issue that will
 
-This article was originally published online on February 6, 2024.
+come up — but it will help if you have already had deep conversations
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+with your colleagues about your collective values and how they ﬁt into
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+your strategic goals, rather than having to rush those discussions in

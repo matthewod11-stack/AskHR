@@ -1,15 +1,25 @@
-## United States. The rights of employees with values-based objections to
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e4dee066d70d0adcdf23490bab6184001f89f85
+title: H07ZZW-PDF-ENG
+---
+## reproductive health care equally available to all employees and contract
 
-reproductive care are not violated by the provision of care to colleagues.
+workers across the United States (including travel) are explicitly
 
-Companies that fund candidates and organizations that seek to restrict
+addressing the ruling’s negative human rights impacts.
 
-this right, by contrast, are contributing to negative human rights
+The most astute corporate responses always respect the principles of
 
-impacts, and they should stop making such contributions.
+privacy and freedom of choice. In this case, a business would not
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+require employees to discuss their choices with HR departments but
 
-17
+would provide funds and medical coverage that can be accessed without
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+involving the employer. So long as there exists no eﬀort to force such
+
+health care on women who oppose abortion, it aligns with human rights
+
+principles to provide the same access to every staﬀer, anywhere in the

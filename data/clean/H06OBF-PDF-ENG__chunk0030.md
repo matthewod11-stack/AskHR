@@ -1,19 +1,11 @@
-# across verticals.
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67e28bcd18e075396bca903aa8217adc3ae0e4bf
+title: H06OBF-PDF-ENG
+---
+## internal control, compliance, cybersecurity, sustainability, and risk)
 
-- Intervention tools. Institute ad hoc interventions using speciﬁc tools.
+can provide assistance with managing risks, including the risk of having an insuﬃciently enterprise-wide perspective. Third-line
 
-For example, the capital projects industry uses a so-called assumptions
-
-book to ensure anticipation, explicitness, and transparency across
-
-verticals. Peer reviews by people from other verticals, shared “lessons
-
-learned” sessions or third-party audits are other examples.
-
-The boundaryless organization is a chimera. Verticals exist for good
-
-reasons: to aggregate expertise, assign accountability, and provide
-
-a sense of identity. To temper the attendant insular mindsets and
-
-behaviors, companies should build bridges between verticals and
+functions (internal audit) provide additional checks and balances

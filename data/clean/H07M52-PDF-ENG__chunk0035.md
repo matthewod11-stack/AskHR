@@ -1,3 +1,23 @@
-## HBR / Digital Article / Is Your Hybrid Team Losing Steam?
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94d371fc09eb8ddef4c26015c9c60e899524c9c6
+title: H07M52-PDF-ENG
+---
+# teams.
 
-boost,” “greater focus,” and “wanting to do more,” among countless
+Notice others’ different sides — not just your own. Leaders shouldn’t
+
+talk about themselves too much. They must also show interest in their
+
+employees’ complex competencies and viewpoints. If asking people
+
+about themselves doesn’t get them energized, not much else will. And
+
+according to our research subjects, this interest can lead to a “morale
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

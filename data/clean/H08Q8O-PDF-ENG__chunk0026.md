@@ -1,13 +1,9 @@
-# Adopting a Care Lens in Organizations
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 617c6d0b538d2911e5ee5a841afdfd988f54ad76
+title: H08Q8O-PDF-ENG
+---
+# business literature.
 
-While there is no single deﬁnition of “ethics of care,” there are some
-
-key themes that are relevant for organizations, particularly on the tricky
-
-issue of who can work from where.
-
-First, as reﬂected in the Heinz dilemma, the concept is rooted
-
-in the assumption that humans are fundamentally relational and
-
-interdependent. Second, context matters. Unlike the ethics of justice
+So, how does it work for a business?

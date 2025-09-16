@@ -1,11 +1,9 @@
-## The classic performance x potential gird (9-box
+---
+source_path: it_s_not_about_the_boxes.md
+pages: n/a-n/a
+chunk_id: 26f7b78fbf711a3a250b5f94d87dd968414f4ffa
+title: it_s_not_about_the_boxes
+---
+# by Marc Effron, Talent Strategy Group
 
-or other variant) remains the most popular tool to use in these conversations, based on our client experience. Yet, there are some HR leaders and con- sultants who deride the 9-box and similar matrices as outdated or no longer applicable in talent review discussions.
-
-Their objections include, “Haven’t we moved
-
-beyond the point where we put people in boxes?” or
-
-INSIGHTS / PAGE 1
-
-values-based reactions like, “It’s not helpful to label people.”
+The talent review is a well-accepted and increas- ingly common element of how organizations man- age talent. They see the value in understanding an individual’s potential to advance and using that information to better plan for succession. Which tool should guide that discussion, however, is in- creasingly under debate.

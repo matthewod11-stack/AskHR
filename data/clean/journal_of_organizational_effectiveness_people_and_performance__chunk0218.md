@@ -1,5 +1,9 @@
-## scale”, Journal of Vocational Behavior, Vol. 80, pp. 173-186.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: bcd5fc259da3721ec64c5a3e08d01c9c2ce9bccf
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## performance”, Journal of Applied Psychology, Vol. 88, pp. 500-517.
 
-Tims, M., Bakker, A.B. and Derks, D. (2013), “The impact of job crafting on job demands, job resources, and well-being”, Journal of Occupational Health Psychology, Vol. 18, pp. 230-240.
-
-Tims, M., Bakker, A.B. and Derks, D. (in press), “Job crafting and job performance: a longitudinal
+Tims, M., Bakker, A.B. and Derks, D. (2012), “Development and validation of the job crafting

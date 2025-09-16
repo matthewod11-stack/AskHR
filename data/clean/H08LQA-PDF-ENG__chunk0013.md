@@ -1,35 +1,13 @@
-## HBR / The Big Idea / When Employees Take Sabbaticals, Organizations Benefit
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e66ed3ba92efd3b70d6bdbcaca9cc6c1d21884d7
+title: H08LQA-PDF-ENG
+---
+# ﬂight risk.
 
-Consider Carson’s experience. She had been working at a research
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-center focused on emerging-market poverty, leading partnerships
+3
 
-and innovation and seeing the center through a critical period of
-
-formalization and growth. After ﬁve years in the job, she was feeling
-
-undervalued in terms of her level of autonomy and pay. She and her ﬁancé had been fantasizing about taking a “monster” honeymoon. So,
-
-she asked her bosses for ﬁve months oﬀ. To her surprise, they granted
-
-the unpaid leave. She traveled through many of the countries her
-
-organization studied during her leave, and it reminded her why she’d gotten into the work in the ﬁrst place. Her time away not only reaﬃrmed
-
-her belief in the center’s mission but also gave her the conﬁdence to
-
-consider taking her skills and experience elsewhere if necessary.
-
-She came back reinvigorated, and she was pleased to learn that her
-
-absence had caused the team to recognize the magnitude of her
-
-contributions. Her bosses asked what they could do to keep her, and
-
-she went from “feeling like a cog in a wheel,” in her words, to “feeling
-
-like a grown-up with power.” She was promoted and, two years later,
-
-became the executive director. The organization has thrived since her
-
-return, doubling its budget and scope and quadrupling its number of staﬀ members and research aﬃliates.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

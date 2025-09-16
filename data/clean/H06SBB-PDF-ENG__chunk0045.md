@@ -1,49 +1,45 @@
-# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b80aeb71e2680114e3907e203c673ebda301055
+title: H06SBB-PDF-ENG
+---
+# connection.
 
-going to just see a whole lot of variety, and we’re going to talk a lot more
+ADI IGNATIUS: I’ll put you on the spot again, and this is impossible
 
-about the rituals that we create in order to bring us together.
+of course, but what’s your guess: What will the office of the future
 
-ADI IGNATIUS: Before we let you go, I’ve asked a lot of our guests more
+look like? Even 10 years from now, extrapolating what’s happening
 
-about innovation, and I guess my question is, tell us something about
+now and what we know about where technology is, how technology is
 
-innovation that we don’t already know.
+developing, what do you imagine the workplace and how we interact
 
-SANDY SPEICHER: I think innovation often gets synthesized pretty
+will be like?
 
-quickly to be this kind of always-playful, happens-really-fast, happens-
+SANDY SPEICHER: I’m going to hold my pluralism here and say it’s workplaces. I do think we’re going to have many, many different
 
-in-the-spark-of-the-moment, process. And it’s true that there are times
+environments that are designed to be fit for purpose and flexible. So that
 
-in an innovation journey that you come together that way, but you
+means that the workplace might look like this, what we’re doing right
 
-do that in order to really do the rigorous work of understanding the
+now. The workplace might look like offices that we’ve had before, and
 
-implications of what you’re imagining, of processing what you’ve really
+the workplace might look like what it looks like for us to move around
 
-been hearing, understanding what that turns into. So I guess the thing I
+with our laptop and be connected with each other when we need to be.
 
-would say that most people aren’t talking about with innovation is that
+And I think that those spaces will become platforms of real intention.
 
-it’s actually a really rigorous process.
+I think we’ll see that the shared spaces where we really need to come
 
-ADI IGNATIUS: That’s great. So Sandy, I want to thank you for being
+together will be prominent in the workplace of the future. Café’s,
 
-with us. My producer sent me a note that we’ve probably had more
-
-audience questions for this show than we’ve had at any other. So people
-
-are really very interested in you and very interested in the topic. So
-
-thank you very much for being on The New World of Work.
-
-SANDY SPEICHER: Oh, thank you. Thanks Adi. I really enjoyed
-
-chatting with you.
+classrooms, the maker spaces like I mentioned. And so I think that we’re
 
 Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-17
+16
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

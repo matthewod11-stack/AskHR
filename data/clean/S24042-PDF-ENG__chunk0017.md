@@ -1,13 +1,15 @@
-## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5499847a9badee5b894d5271276e9473cb8f4359
+title: S24042-PDF-ENG
+---
+## market cap of an S&P 500 organization, the conﬁdence premium
 
-There’s an important lesson here: If you’re a new CEO who wants to
+amounts to close to $10 billion.
 
-maximize the value you’ll create in the long term, during your ﬁrst two
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-years you’ll need to patiently and methodically earn the conﬁdence of
+4
 
-all stakeholders. In this article, drawing not only on our research and
-
-analysis but also on Mahesh’s personal experiences as a CEO, we’ll oﬀer
-
-guidance on how to do just that.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

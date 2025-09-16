@@ -1,11 +1,35 @@
-# mental pathways.
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f337540ef0240285f5ac36c993438cb7e405cb7d
+title: H08EDN-PDF-ENG
+---
+# HBR / Digital Article / How to Learn from Your Mistakes and Make Better Decisions
 
-What I’ve also learned in my work researching and writing about
+Determined to move forward, Stacey asked Jordan, her human
 
-decision-making is that too often we don’t want to spend time
+resources leader, to begin recruiting again for the chief operating
 
-and mental energy revisiting the past, especially if it contains
+oﬃcer opening. However, she worried she wouldn’t trust the candidates
 
-uncomfortable missteps. But stopping and looking carefully at those
+Jordan identiﬁed because he had recruited the two previous candidates
 
-mistakes is exactly what can help us make better decisions moving
+who had crashed and burned. How could she feel conﬁdent that things
+
+would turn out better this time?
+
+I had worked as an executive coach with Stacey for several years. When
+
+she came to me with this problem, I immediately asked her how she was
+
+rethinking her hiring process after the two failures.
+
+Her answer: She wasn’t.
+
+There’s an old saying that the deﬁnition of insanity is doing the same thing over and over and expecting a diﬀerent result. What I’ve seen over
+
+and over again with my clients is that most of us behave like Stacey
+
+more often than we care to admit. In part, this behavior stems from
+
+wanting to be eﬃcient, leaning on well-worn and largely unconscious

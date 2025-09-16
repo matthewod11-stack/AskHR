@@ -1,11 +1,25 @@
-# Don’ts
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c0c0bcd02009e54b6bbaeec832f645b7a3ca68a
+title: H08VIB-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
 
-Don’t let AI become a distraction. Human nature still applies:
+on their own device to reﬂect on the implications for their unit or team,
 
-devices can be a distraction during meetings. Make sure to clarify
+before the group discussion. To guide the self-reﬂection, the facilitator
 
-when participants should keep their laptop open and interact with
+gives a ready-to-use prompt to participants. This keeps insights focused
 
-AI. Discipline is the success factor. Otherwise, participants might
+and makes it easier to bring them back into group discussion.
 
-start checking their inboxes and detach themselves from the group
+Time-box the reﬂection with AI. Let participants work individually
+
+with AI for a maximum of 10 minutes, then reconvene to share, discuss,
+
+and consolidate ideas. This approach supports divergence ﬁrst, then
+
+convergence. But avoid having too many pauses; interrupting the ﬂow
+
+too much can kill the momentum of group discussions.

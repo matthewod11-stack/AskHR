@@ -1,23 +1,23 @@
-## HBR / Magazine Article / Why Aren’t I Better at Delegating?
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c533171bb89d996076f03c91e41bc09d9a90ce22
+title: R2505N-PDF-ENG
+---
+# Overcoming the Four Challenges
 
-more-regular dopamine hits than context-setting does. Many leaders in
+Even leaders who understand what work to delegate and how to hand it
 
-our study said that they miss having lists of discrete to-dos to check oﬀ
+oﬀ with skill still struggle against four challenges.
 
-each day. What’s more, context-setting is cognitively taxing, especially
+- 1. The dopamine hit of personal productivity. MRI brain scans show that
 
-for those new to it, creating a dopamine deﬁcit. So managers just
+when humans accomplish something, our brains release a tiny hit of
 
-learning to delegate will feel a craving for those old hits. Ultimately,
+dopamine that produces feelings of pleasure, motivating us to take on and complete diﬃcult tasks. Unfortunately, activity-based work oﬀers
 
-leaders need to accept that their work will yield fewer and less frequent
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-chemical rewards associated with productivity. But there are ways to
+4
 
-avoid feeling their absence so strongly:
-
-Create different types of checklists. Activity-based work might be easier
-
-to break down into to-dos, but it’s possible to do the same for your
-
-context-setting work so you can get dopamine hits there, too. For
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,9 @@
-# Journals
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e1d3b59e8afadd4e2d02cb101f5279ba63617e19
+title: untitled
+---
+# 76 Comparative Psychology
 
-Beginning in 1947, the Journal of Comparative Psychology adopted a name more descriptive of its coverage: the Journal of Comparative and Physiological Psychology. That title re- mained until 1983, when it was split into three journals even more descriptive of the three prominent parts of animal psy- chology at the time: Behavioral Neuroscience, the Journal of Experimental Psychology: Animal Behavior Processes, and the reformulated Journal of Comparative Psychology.
-
-The scope of the growth of animal psychology can be seen in an analysis of the articles appearing in the Journal of Com- parative and Physiological Psychology in 1963 as compared with 1949 (Dewsbury, in press-b). The number of articles published increased by a factor of nearly 3.5 from 60 to 208. There were few footnote credits to federal funding sources in 1949; by 1963, just 14 years later, it had risen eightfold.
-
-Comparative psychologists published in other American journals as well. Some comparative psychologists found American journals uncongenial and published in the grow- ing stable of European journals, including Animal Behav- iour, Behaviour, and the Zeitschrift für Tierpsychologie (now Ethology).
+Behavior in 1942. Schneirla and Lester R. Aronson joined him in the department; Schneirla succeeded Beach as curator when Beach left for Yale University in 1946. Students such as Tobach, Rosenblatt, and Howard Topoff graduated and re- mained in the New York area. After graduating, one promi- nent student in the program, Daniel S. Lehrman, moved to the Newark, New Jersey, campus of Rutgers University, where he founded the Institute of Animal Behavior in 1959. This, too, became an important center for education and research. The focus of this whole group was on an epigenetic approach to development, and this New York epigeneticist group pro- duced numerous students and programs in the ﬁeld.

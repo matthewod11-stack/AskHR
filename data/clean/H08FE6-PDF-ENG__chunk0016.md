@@ -1,21 +1,17 @@
-## a turn toward the positive (3.2% growth in the following year). But
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58029a614d217b906b39968284043845b3892286
+title: H08FE6-PDF-ENG
+---
+## percentage points, from an average 15.5% growth rate the year before
 
-if the company was growing, just not at the rate the leadership team expected, switching out the CRO had a negative eﬀect, leading to a more
+the CRO switches out, to an average 11.7% growth rate the ﬁrst full ﬁscal
 
-than eight percentage point decline in the growth rate in the ﬁrst full
+year after the CRO switches out.
 
-ﬁscal year after the switch-out. Switching out the CRO to capture a few
+There is a small glimmer of positivity hidden in these averages. If
 
-additional points of growth typically backﬁres.
+the company’s growth was ﬂat or declining in the year before the
 
-To put it simply, new CROs create a massive wake of disruption.
-
-Growth plans and initiatives grind to a halt waiting for new leadership
-
-to design and direct them. Commercial leadership teams experience
-
-turnover, either following the former CRO or making way for the new
-
-CRO’s preferred team, further delaying initiatives. A “new playbook”
-
-gets implemented, taking signiﬁcant time to mobilize the commercial
+CRO switched out, while small, the company was more likely to see

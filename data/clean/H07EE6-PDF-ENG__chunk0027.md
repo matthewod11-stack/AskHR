@@ -1,19 +1,13 @@
-## HBR / Digital Article / How to Create a Worker Safety Hotline That Really Works
+---
+source_path: H07EE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdd813f639fb4a169a98cfaefa9911e7c956dff1
+title: H07EE6-PDF-ENG
+---
+# mechanisms:
 
-- 1. Hotlines need to be accessible, at the times, in the languages, and
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-through the mediums that workers prefer.
+4
 
-- 2. Hotlines need to institute serious protections against retaliation with
-
-immediate, biting penalties for non-compliance.
-
-- 3. Workers need to see fast responses to concerns, and quick resolutions
-
-when they make valid complaints.
-
-- 4. Informal complaint resolution can be more eﬀective, faster, and
-
-better oriented to workers’ needs. Nevertheless, retaining the option
-
-of a formal process is essential to guarantee complaint process
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,13 @@
-# Process ends
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4f1b74373410d4c4b5f312b51ebe4a7a7c30939d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Agency investigates
 
-Agency takes employer to court
+No unfair practice found
 
-Employer takes steps to correct problem
+Unfair practice found and agreement not reached with employer
 
-Involves state law
-
-Involves federal law
-
-Case goes before state district court
-
-Case goes before federal district court
-
-Decision appealed?
+Unfair practice found but agreement reached with employer

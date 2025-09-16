@@ -1,13 +1,9 @@
-## than 600 million users and $14 billion, respectively.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a556a5a421411a52af2d58b6401dc34d98dc794
+title: R2406G-PDF-ENG
+---
+## HBR / Magazine Article / Personalization Done Right
 
-Despite investing heavily in technology that could make
-
-personalization easier, faster, and smarter, most companies struggle to
-
-achieve Spotify’s degree of personalization. In a BCG survey of 5,000
-
-global consumers designed to gauge the eﬀectiveness of personalized
-
-recommendations, two-thirds of respondents say they have recently
-
-experienced a recommendation that was inappropriate, inaccurate,
+revenues have both increased by 1,000% in the past decade to more

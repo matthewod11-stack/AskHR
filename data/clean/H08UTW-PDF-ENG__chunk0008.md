@@ -1,11 +1,35 @@
-# them oﬀ guard.
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd70669f8ea7a534ee7d50ad421cc81638602c9f
+title: H08UTW-PDF-ENG
+---
+## HBR / Digital Article / When “Yes, and…” Backfires
 
-Retrospectives: When reviewing a project’s success or failure, “yes,
+How to avoid this mistake:
 
-and…” can help you acknowledge what happened and shape productive
+“Yes, and…” delivers the most value when it ﬁts the moment. To spot
 
-next steps. For instance, if someone says, “The customers loved/hated
+that moment, ﬁrst agree on why you and your team are meeting in the
 
-the product,” a response could be, “Yes, and we can continue that
+ﬁrst place. Is this a quick status update, an idea sprint, or a strategic
 
-success by…,” or, “Yes, and we can avoid that problem in the future by…”
+product decision? Once your goal is clear, you can decide whether to use
+
+the technique at all, and if you do, when to switch from generating ideas
+
+to evaluating them.
+
+Here are a few common examples to guide you:
+
+Brainstorming sessions: “Yes, and…” works well here. Research shows
+
+that the more ideas a team generates, the better the ﬁnal outcomes tend
+
+to be. If you need to come to a decision by the meeting’s end, limit “yes,
+
+and…” to the ﬁrst 10 minutes or so, then shift from divergent thinking
+
+(idea making) to convergent thinking (idea weighing and selecting). Tell
+
+your team in advance when you’ll be switching gears to avoid catching

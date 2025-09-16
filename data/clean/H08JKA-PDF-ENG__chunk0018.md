@@ -1,25 +1,31 @@
-# practice-based learning.
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5759849b145e84ff218e72f9b9777eea8eff7577
+title: H08JKA-PDF-ENG
+---
+# HBR / Digital Article / Connect Your Learning Programs to Your Company’s Strategy
 
-Standard Chartered used “brain training games” to get employees to
+New formats for workplace learning can make it easier for this
 
-practice new behaviors and integrate what they learned into their daily
+application to happen. For example, as part of a program to increase the
 
-work. These are two-minute tasks designed to build habit and reduce
+adoption of AI tools, PwC launched a hybrid learning initiative called
 
-reaction time. They can be used to enhance product knowledge, explain
+“prompting parties.” These facilitated virtual events were designed
 
-acronyms, or build functional skills. For example, a brain training game
+to help partners and employees experiment in a guided, hands-on
 
-on data analysis rapidly shows random examples of clean and “dirty”
+environment. Super users of ChatPwC, the ﬁrm’s internal AI tool, led
 
-data sets, prompting the user to spot errors or make choices that help
+these sessions, in which participants tested various AI prompts and
 
-them more quickly evaluate the quality of the data they work with.
+learned how to apply AI as an integral part of their everyday roles.
 
-According to Villeneuve, “We’ve delivered over 86 internally built brain
+“In the ﬁrst six months, we focused on building a base of knowledge
 
-training games and we’ve been able to prove that many of these new
+and interest and comfort”, said Houde. Within the ﬁrst month of the
 
-methods improve productivity, product knowledge and speed to desk
+AI enablement program, the ﬁrm received more than 400 requests for
 
-radically.”
+additional prompting parties, underscoring the demand for interactive,

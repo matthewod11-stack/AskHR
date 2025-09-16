@@ -1,9 +1,11 @@
-## relationship with the expert as an ongoing resource for questions that
+---
+source_path: H08C2C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16231bc103b97eb92c997ec81c67b4f6174877de
+title: H08C2C-PDF-ENG
+---
+# HBR / Digital Article / Kickstart Your New Hire’s Success by Connecting them to the R…
 
-may come up down the road.
+and which can be saved for later. Once the connection has been made,
 
-Here are more tips for facilitating these connections:
-
-- Schedule a lunch meeting and invite both the new employee and the
-
-person you want them to connect with. This initial meeting can serve
+your new employee is likely to feel more comfortable leveraging their

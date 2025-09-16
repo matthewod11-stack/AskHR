@@ -1,13 +1,7 @@
-## Focus on Ethics The Ethics of Using Role Play in Employee Trainings
-
-287
-
-Employee performance can be improved in many ways. In Chapters  and , you
-
-learned that employee selection procedures often result in higher employee performance. But as you also learned in Chapter , employee selection is not an effective way to improve productivity in situations where only a few applicants compete for a large number of openings or a job involves only easily learned tasks. When these situations are encountered, training rather than selection tech- niques must be emphasized. For example, I was once involved in a project designed to develop a selection system for intramural basketball officials. Although we were successful in finding a test that correlated significantly with referee performance, we ran into a problem with the selection ratio. The intramural department needed  referees each year but had only  applicants. Thus, the selection test could not be used because the intramural department had to hire everyone who applied. The logical solution was to extensively train the referees who did apply.
-
-This does not mean that training should be emphasized only when selection techniques are not appropriate. Instead, training should be used in conjunction with the selection systems discussed in Chapters  and , and with the motiva- tional techniques that will be discussed in Chapter .
-
-Training is the “systematic acquisition of skills, rules, concepts, or attitudes that result in improved performance” (Goldstein & Ford, ). Training is impor- tant for several reasons. As shown in the intramural example above, organizations often have difficulty finding applicants with the necessary knowledge and skills to perform a job. Thus, training compensates for the inability to select desired applicants. Also, as discussed in Chapter , jobs change. Employees might have the necessary knowledge and skills one year, but have deficiencies by the next. Finally, no employee has the “complete package”—that is, every technical and interper- sonal knowledge and skill perfected; there is always room for improvement. The ultimate purpose of employee training is to increase an organization’s profits.
-
-Collectively, organizations realize the importance of training by spending more than $. billion on it each year (ASTD, ). Major organizations spend an average of .% of their payroll on training—$, per employee (ASTD, ). In some organizations, including the Palace Hotel in Inverness, Scotland, training is viewed as so valuable that employee training is mentioned in the hotel’s mission statement.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 79ef14bf04b1a221c929ccaa1c9eab59ff9d975b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## On the Job: Applied Case Study: Training at Pal’s Sudden Service

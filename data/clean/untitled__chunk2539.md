@@ -1,3 +1,15 @@
-# 456 Health Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 89f6305de3616ad7501086956b50e3c794180d5d
+title: untitled
+---
+## Formalization as a Field of Inquiry and Practice 455
 
-represents a historical landmark in the change of beliefs in medicine, psychology, and the general public regarding mind–body relationships.
+in the domain of health psychology, as well as measurement theory. Finally, several Europe-wide studies, some of them under the auspices of the World Health Organization (WHO), haveincreasedunderstandingofepidemiologicalpatternsand theirrelationshiptopsychosocialvariables.Examplesare those projects related to cardiovascular disease (WHO-MONICA project [WHO, 2000]) and health behaviors in school-aged children (WHO-HBSC project [Currie, Hurrelmann, Set- tertobulte, Smith, &Todd, 2000]).
+
+Worldwide, over the past 25 years there has been a signiﬁ- cant focus on research and practice related to health behaviors such as those involved in dietary management, exercise, ad- herencetomedicalregimens,andseatbeltusage.Althoughthe term behavioral health was originally deﬁned by Matarazzo (1980) as a corollary to behavioral medicine in order to em- phasizehealthpromotionandpreventionratherthanillnessit- self, it was unfortunate that the term was not trademarked at that time. In the last decade, this term has come to be used to describe alcohol, substance abuse, and other more traditional mental health services in the evolving health care system and no longer conveys its distinctive meaning.
+
+Other trends have been an increased emphasis on environ- mental health psychology (e.g., examination of stress-related health effects of environmental noise, Staples, 1996), occupa- tional health psychology, and genetic testing. There has also been increased emphasis on women’s health issues and issues of diversity in health behavior research. In 1992, the National Conference on Behavioral and Sociocultural Perspectives on Ethnicity and Health was held, resulting in a special issue of Health Psychology edited by Norman B. Anderson, the con- ference organizer (Anderson, 1995). There has also been more focus on the application of health behavior research ﬁndings to public policy, of which Patrick DeLeon has been a leader within U.S. psychology.
+
+In conclusion, despite harsh criticism, the psychosomatic movement within which psychology and psychologists have played signiﬁcant roles has survived and evolved to include moresocialandculturalcorrelatesofillness.Theterminology related to the ﬁeld has also evolved such that terms such as behavioral medicine, behavioral health, health psychology, and health behavior research are more prominent. From its initial focus on personality and disease, the movement has given rise to work on the relationship between illness and be- reavement,helplessness,lifechanges,occupationalstress,so- cialsupport,healthbeliefs,ethnicity,environmentalstressors, and others. Moreover, it has stimulated new multidisciplinary areas of inquiry, such as psychoneuroimmunology and psy- choneuroendocrinology. It has also been home for a wide range of theoretical viewpoints, including psychodynamic, psychophysiological, and cognitive-behavioral theories. It

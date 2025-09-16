@@ -1,9 +1,9 @@
-# Disponível
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 8af3feb0be73b396b455a942f9d8e7a377c9ece6
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# out./dez.
 
-85
-
-VAZQUEZ, A.; PIANEZOLLA, M.; HUTZ, C. Avaliação de fatores psicossociais no trabalho. uma revisão sistemática. Estudos de psicologia, v 35 (1), jan - mar 2018. Disponível em https://doi.org/10.1590/1982-02752018000100002. Acesso em: 22 fev. 2023.
-
-VERGARA, S. Métodos de pesquisa em administração. São Paulo: Atlas, 1997.
-
-XAVIER, C. L. Satisfação e Engajamento do Colaborador: a importância de ter trabalhadores satisfeitos e engajados dentro da empresa. Assis, 2020. https://cepein.femanet.com.br/BDigital/arqTccs/1711480153.pdf. Disponível Acesso em: 22 fev. 2023.
+2019.

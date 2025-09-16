@@ -1,35 +1,43 @@
-# psychology.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: e95fb783e948b8a38dc7bfb457b4e7f5aa2aba82
+title: behavioral_economics_1
+---
+# Colander, 2005).
 
-Pareto advocated divorcing economics from psychology by simply assuming that unobserved
+For example, Adam Smith believed there was a disproportionate aversion to losses which is a central
 
-Benthamite utility (“the subjective fact”) is revealed by choice (“the objective fact”). He justifies this equation
+feature of Kahneman and Tversky’s prospect theory. Smith wrote (1759, III, ii, pp. 176-7):
 
-(in modern terms, that choices necessarily reveal true preferences) by restricting attention “only [to] repeated
+Pain ... is, in almost all cases, a more pungent sensation than the opposite and correspondent pleasure.
 
-actions”, so that consistency results from learning.
+The one almost always depresses us much more below the ordinary, or what may be called the natural state of
 
-The Paretian equation of choice and true preference is neither a powerful proof nor a robust empirical
+our happiness, than the other ever raises us above it.
 
-regularity. It is a philosophical stance, pure and simple. And because Pareto clearly limits the domain of
+Smith (1759, II, ii, ii, p. 121) also anticipates Thaler’s (1980) seminal2 analysis of the insensitivity to
 
-revealed preference to “repeated actions” in which learning has taught people what they want, he leaves out
+opportunity costs, compared to out-of-pocket costs:
 
-important economic decisions that are rare or difficult to learn about from trial-and-error (e.g., Einhorn,
+…breach of property, therefore, theft and robbery, which take from us what we are possessed of, are
 
-1982)—corporate mergers, fertility and mate choice, partly-irreversible education and workplace choices,
+greater crimes than breach of contract, which only disappoints us of what we expected.
 
-planning for retirement, buying houses, and so forth.
+Why did behavioral insights like these get left out of the neoclassical revolution? A possible answer,
 
-Could economic theory have taken another path? Many economists such as Edgeworth, Ramsey, and
+suggested by Bruni and Sugden (2005), is that Vilfredo Pareto won an argument among economists in the early
 
-Fisher speculated about how to measure utility directly, but lacked modern tools and gave up3. What seemed an
+1900’s about how deeply economic theories should be anchored in psychological reality. Pareto thought
 
-impossible task a hundred years ago might be possible now, given developments in experimental psychology,
+ignoring psychology was not only acceptable, but was also necessary. In an 1897 letter he wrote:
 
-neuroscience and genetics. So this is a good time in history to revisit the ideas of Adam Smith and others, and
+It is an empirical fact that the natural sciences have progressed only when they have taken secondary
 
-the paths not taken by neoclassical economists due to Pareto’s bold move.
+principles as their point of departure, instead of trying to discover the essence of things. ... Pure
 
-3 Colander (2005) notes that Edgeworth described a “hedonimeter” which would measure momentary fluctuations in pleasure, and eventually provide a basis for utilitarian adding-up across people. Irving Fisher also speculated about how to measure utility in his 1892 dissertation. Ramsey wrote about a “psychogalvanometer”. It is interesting to speculate about whether at least some economists might have taken a different path in the early 20th century if fMRI, genetic methods, single-unit recording, and other tools were available which allowed more optimism about measuring utility directly. Would any of them have become neuroeconomists? Even if most did not, it is hard to believe that none of them would have, given the curiosity evident in all their writing.
+2 Many people regard Thaler’s 1980 paper as the starting point of behavioral economics per se, since it drew on psychology but was clearly focused on the economics of consumer choice (see Thaler, 1999 for an update on the same topic).
 
-5
+4
+
+political economy has therefore a great interest in relying as little as possible on the domain of

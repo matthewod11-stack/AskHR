@@ -1,9 +1,21 @@
-## harassment, microaggressions, and mistreatment in their workplaces
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d616e6353e6a0850345b5030390399617d63dfd3
+title: H05W7P-PDF-ENG
+---
+# process.
 
-need to rethink and redesign the way reporting is done. When
+- Independent, allowing employees to report without fear of retaliation
 
-employers can successfully prevent retaliation, give victims agency and
+or repercussions through a neutral process that preserves anonymity.
 
-transparency throughout dispute resolution, and give victims resolution
+- Actionable, allowing employers to respond to reports without
 
-and recourse, they will be able to restore their employees’ trust in
+compromising the anonymity of reporters. One way to achieve this is
+
+by tracking and aggregating details from submitted reports and acting
+
+on patterns within that aggregated data.
+
+Leaders who want to take a critical step toward ending discrimination,

@@ -1,5 +1,21 @@
-## The Four Dimensions of Compensation Design
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c72e77b7a9c638db87fd8f22583f06ddd1f5903b
+title: R2101J-PDF-ENG
+---
+## Thirty­three percent of companies with formulaic annual
 
-Modern compensation systems can generally be analyzed along four dimensions: fixed versus variable, short­term versus long­term, cash versus equity, and individual versus group. The factors that drive choices include the firm’s stra­ tegic objectives, ability to attract and retain talent, ownership structure, culture, corporate governance, and cash flow. Within the Russell 3000 Index, companies focus on aligning pay and company performance—something stakeholders
+incentives incorporate a performance modifier, which provides a check on the primary metrics by adjusting payouts up or down. Some modifiers only tweak results (increasing or decreasing payouts by 5% or less) while others have a meaningful impact (altering payouts by 20% to 25%). They’re commonly based on nonfinancial metrics—like safety, customer service, and employee engagement—and often incorporate elements of individual performance.
 
-Short- versus long-term. A second dimension is the extent to which variable compensation is paid out in the year it is awarded or deferred and paid over some future period. This applies to awards where the amount (a specified cash payment or a fixed number of shares) is established up front and where it’s based on meeting specified future hurdles. Short­term variable compensation generally takes the form of cash; long­term generally is delivered in equity, through instruments such as stock options, restricted stock, and performance shares. (See the sidebar “The Elements of Long­ Term Compensation.”)
+As organizations work their way through the Covid­ related economic crisis, we fully expect to see changes in approach. Many companies, for instance, have cut pay for senior executives—though these cuts are largely temporary and apply just to base salary. More pressing will be how to think about the goals embedded within incentive plans. Many targets won’t be achievable given the new financial realities and thus will no longer serve as effective incentives. In light of this, companies have begun considering a range
+
+of moves: adjusting performance metrics but capping pay­ outs, revising goals for the year, and committing to monitor the situation but not take action yet. For multiyear plans, the options being discussed include deemphasizing 2020 results in award calculations, adjusting the payout curve, shortening the performance period, instituting new awards with relative performance metrics, adding relative total shareholder returns as a modifier, and paying out awards in cash rather than shares. Discussions about whether or not to reprice options, a controversial practice, have also taken place.
+
+The silver lining here is that the crisis offers companies an important opportunity to revisit incentive programs and incorporate metrics that serve stakeholder interests in a broader and more meaningful way.
+
+expect. But particularly outside the United States, companies may have to take into account other factors, such as seniority. Fixed versus variable. Total direct compensation is made up of a base salary (set in advance and paid in cash) and short­ term and long­term incentives. Both kinds of incentives are variable or at­risk elements and may be contingent on the achievement of certain organizational or individual goals. Awards can be based on an established formula or at the dis­ cretion of management or the board’s compensation commit­ tee. Our analysis of the compensation of the five highest­ paid executives at Russell 3000 companies shows that on average 82% of their compensation is variable; the rest is base salary. The mix of fixed and variable components is driven primarily by company size and industry, and to some extent, company­ specific factors like culture and risk appetite.
+
+The breakdown between fixed and variable comp is relatively consistent across industries, although telecom, technology, and energy companies pay a slightly higher percentage of variable compensation. Financial services, materials, and utility companies pay a slightly higher percentage of fixed. The balance is also relatively consistent across U.S. and non­U.S. companies. But there are notable differences across market caps: Small­cap companies put 69% of compensation in the form of variable payments, and large­cap companies 87%.
+
+The directors we interviewed insisted that variable pay was an important component of executive compensation. As one commented, “I’m a strong believer that CEO compensa­ tion needs to be in large part at risk. I would like to see at least 70% to 80% of the CEO’s pay at risk, with less emphasis on building too high a base salary that insulates the CEO from the effect of poor performance.”

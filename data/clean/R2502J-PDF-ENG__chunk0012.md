@@ -1,5 +1,15 @@
-## opportunities for incentive payouts instead of the targeted segments
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 394f2a0ebbf9972887a508be10d1ca3b86d78b68
+title: R2502J-PDF-ENG
+---
+## HBR / Magazine Article / How Salespeople Game the System
 
-favored by the company. One interviewee told us that this was common
+ended up paying more for unwanted, higher-tier services, possibly
 
-among customer service associates (CSAs) who were responsible for
+resulting in customer dissatisfaction and defection.
+
+- 4. Lost in segmentation. Salespeople sometimes game the system
+
+by focusing their eﬀorts on buyer segments that provide greater

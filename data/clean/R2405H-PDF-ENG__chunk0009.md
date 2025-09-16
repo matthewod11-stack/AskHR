@@ -1,21 +1,17 @@
-# better on safety?
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 963f978d7c5ed3ce178afc7b47bfa03bb2c61c65
+title: R2405H-PDF-ENG
+---
+## HBR / Magazine Article / Safety Should Be a Performance Driver
 
-Most executives frame safety as a compliance issue. They see it as a
+to happen. In 2023 in the United States 3,300 recalls aﬀected more
 
-cost and, consequently, they underinvest in it. To make matters worse,
+than 135 million products, a high not seen since 2016. U.S. employers
 
-they tend to treat safety more as an abstract value than as a driver of
+reported 2.8 million injury and illness cases in 2022, a 7.5% increase
 
-performance. Finally, when a company is hit with a safety crisis, it often
+over 2021. The United States saw 5,486 fatal work injuries in 2022—the
 
-responds by introducing ﬁnancially and managerially unsustainable
-
-measures that are aimed more at managing its public image than at
-
-resolving the underlying issue, and even those measures are eventually
-
-abandoned. To help companies get out of this rut, we present evidence
-
-that safety can be a key driver of performance, and we oﬀer a ﬁve-step
-
-process they can use to turn safety from a constraint into a source of
+equivalent of one death every 96 minutes. Why aren’t companies doing

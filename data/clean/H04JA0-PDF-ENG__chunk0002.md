@@ -1,5 +1,7 @@
-# Is Office Politics a White Man’s Game?
-
-A roundup of the research on organizational politics, race, and gender. by Michelle King, David Denyer, and Emma Parry
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H04JA0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 144422e24d3ca1a3b2f6e3a302f94ef3932c3889
+title: H04JA0-PDF-ENG
+---
+# Organizational Culture

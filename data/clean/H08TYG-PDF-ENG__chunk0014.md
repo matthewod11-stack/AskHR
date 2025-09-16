@@ -1,17 +1,13 @@
-# HBR / Digital Article / Q&A: Professor Robert Sutton on Communicating Difficult Decis…
+---
+source_path: H08TYG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76d5ec215e4b5000ef655f7484a586c75258c952
+title: H08TYG-PDF-ENG
+---
+# people predictability?
 
-In the article, I refer to Martin Seligmann’s research on London air raid
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-sirens during World War II, and experiments in which animals received electric shocks at diﬀerent intervals. This and other research show that
+4
 
-when bad things happen unpredictably, it causes people to live with a constant state of anxiety. So as a leader, oﬀer whatever reassurance you can honestly give. I’ve seen CEOs say, “We will not have layoﬀs during
-
-the next four months,” and while that may not sound very reassuring, it
-
-tells people that they’re safe for now.
-
-Here at Stanford, our budgets are under pressure because of federal
-
-research cuts, just as they are at Harvard. I admire how the new dean
-
-at Stanford’s Graduate School of Business recently sent out a memo saying that as of right now, our business school isn’t planning any staﬀ reductions. She’s not saying it will never happen, but she’s oﬀering what
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

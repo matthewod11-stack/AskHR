@@ -1,17 +1,21 @@
-## beneﬁts of spending time outdoors in the evening, after the workday.
+---
+source_path: H07Q3D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77d6fd1f37eacdbf42e6a96cb6e005bb8fb99b99
+title: H07Q3D-PDF-ENG
+---
+# employees a natural boost.
 
-We found that employees were more productive the next day when they
+Think beyond the ofﬁce… It goes without saying that it is not just
 
-spent time outdoors the prior evening. Especially for hybrid and remote
+oﬃce workers who beneﬁt from nature. Employees in settings where
 
-workers, the implications are clear: The beneﬁts of being around nature
+the work environment feels especially removed from nature — think
 
-at home carry over into work. So even incentivizing employees to take
+warehousing or manufacturing — are especially likely to notice a dash
 
-an evening walk can help them be more productive the next day.
+of the outdoors brought inside and be positively impacted by it because of how diﬀerent it is from their status quo.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+…and beyond the workplace. The beneﬁts of nature extend beyond
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+employees’ work lives. Some of our research looked at the work-related

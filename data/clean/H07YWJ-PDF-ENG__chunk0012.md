@@ -1,11 +1,9 @@
-## tendency to proactively share information.
+---
+source_path: H07YWJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2787724aa007946201f8cd37485c26db284cf2d1
+title: H07YWJ-PDF-ENG
+---
+## High-Performing Teams Keep Colleagues in the Loop
 
-Greater transparency doesn’t just foster trust — it’s also been shown
-
-to fuel creativity, performance, and proﬁtability. In contrast, when
-
-colleagues withhold information from their teammates, there are
-
-frequently deeper issues at play. “Knowledge hiding,” as it’s referred to
-
-in academic literature, often suggests a lack of psychological safety or
+Another factor that diﬀerentiates high-performing teams is their

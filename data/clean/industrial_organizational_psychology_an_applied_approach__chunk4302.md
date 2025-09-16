@@ -1,11 +1,19 @@
-# Harper & Row.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2f902ab7c4c5276404285b4774de8d65569675bd
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Levine, E. L., Ash, R. A., Hall, H., & Sistrunk, F. (1983).
 
-Lewin, K. (1958). Group decision and social change. In
+Evaluation of job analysis methods by experienced job analysts. Academy of Management Journal, 26, 339–348.
 
-E. E. Maccoby, T. M. Newcomb, & E. L. Hartley (Eds.), Readings in social psychology (pp. 197–211). New York: Holt, Rinehart & Winston.
+Levine, S. P., & Feldman, R. S. (2002). Women and men’s
 
-Liden, R. C., Wayne, S. J., & Bradway, L. (1996). Connections make the diﬀ erence. HR Magazine, 41(2), 73–79.
+nonverbal behavior and self-monitoring in a job interview setting. Applied H.R.M. Research, 7(1), 1–14.
 
-Liden, R. C., Wayne, S. J., Judge, T. A., Sparrowe, R. T., Kraimer,
+Levit, A. (2008). Success for hire: Simple strategies to ﬁ nd and
 
-M. L., & Franz, T. M. (1999). Management of poor performance: A comparison of manager, group member, and group disciplinary decisions. Journal of Applied Psychology, 84(6), 835–850.
+keep outstanding employees. Alexandria, VA: ASTD Press.
+
+Lewin, K. (1951). Field theory in social science. New York:

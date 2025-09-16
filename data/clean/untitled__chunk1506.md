@@ -1,7 +1,11 @@
-# Feminist Approaches to Therapy
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 264856813068c131b951a8f781638559e28aabe2
+title: untitled
+---
+# 258 Psychology of Women and Gender
 
-The term feminist therapy came into use in the early 1970s. The ﬁrst feminist therapists deliberately positioned them- selves outside the system in freestanding therapy collectives. One therapist has described the early days of feminist ther- apy as “raggedy, boisterous, know-it-all, risky, and heady” (Adelman, 1995). In those times, some volunteered their ser- vices without pay. Others raised funds to be able to offer therapy without charge or on a sliding-fee scale. Now, femi- nist therapy has for the most part moved beyond its separatist, grassroots beginnings and its underground aspect. Therapists who identify themselves as feminist therapists or who spe- cialize in women’s issues work in a variety of settings, in- cluding universities, public and private hospitals and clinics, private agencies, and independent practice.
+responsibility takes precedence over self-sufﬁciency (Hare- Mustin & Marecek, 1986).
 
-Although there are a number of frameworks for fem- inist therapy, certain concepts unite feminist approaches to therapy. First and foremost is an ethical commitment to pro- moting equality and social justice. Other key concepts are at- tention to the social context, particularly to inequities in the distribution of power and resources; respect for diversity and cultural difference; valuing ways of being and social roles
-
-associated with women; and a commitment to collaboration and power sharing in therapy relationships.
+Feminist critiques have been accompanied by a variety of efforts to change clinical training and practice. In 1977, the Division of Counseling Psychology undertook a 2-year pro- gram of conferences and special issues of The Counseling Psychologist designed to provide information and skills about women and girls and to counter sex bias in therapy and counseling. Around the same time, the APA constituted a Task Force on Sex Bias and Sex Role Stereotyping, which produced and promulgated guidelines for nonsexist therapy (American Psychological Association, 1978). In 1979, the APA and the National Institutes of Mental Health convened an interdisciplinary conference of mental health specialists to identify priorities for clinical research on women. Women and Psychotherapy, the volume resulting from that confer- ence, served as a core text in the area of women and psy- chotherapy for many years (Brodsky & Hare-Mustin, 1980). Feminists “broke the silence” surrounding sexual contact in psychotherapy (Hare-Mustin, 1974). They argued that be- cause of the inevitable power differences in therapy relation- ships, sexual involvement between therapist and client could not be consensual. As a result of pressure by feminist groups, the APA eventually altered its ethical code to include an ex- plicit injunction against sexual contact between therapist and client.

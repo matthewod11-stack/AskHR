@@ -1,3 +1,9 @@
-## Society for the Psychological Study of Social Issues
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e6a23bc95419047d934c5baa00f06f609445b206
+title: untitled
+---
+## The National Council of Women Psychologists
 
-Founded in 1937, the Society for the Psychological Study of Social Issues (SPSSI) was one of the earliest groups to advo- cate for social action research. Despite its commitment to so- cial justice, however, SPSSI did not focus on women’s issues until the 1970s. With the women’s movement of the 1970s, the number of women in the discipline increased and SPSSI’s membership changed. During the 1980s and 1990s, women assumed leadership roles in SPSSI. The Journal of Social Issues, as well as SPSSI’s workshops, conferences, and meet- ing programs, have addressed issues of women and gender (Katz, 1991). Moreover, many other topics that SPSSI has addressed, such as poverty, homelessness, pornography, and immigration, are directly relevant to women’s lives.
+The National Council of Women Psychologists (NCWP) was founded in 1941. During World War II, women were not al- lowed to be part of the defense system of the country. Mildred Mitchell, who worked for the U.S. military, Gladys Schwesinger, and other women protested the exclusion of women (Capshew & Laszlo, 1986; Frances M. Culbertson, personal communication, March 1, 2001). They founded the NCWP to develop and promote emergency services that women psychologists could render. After the war, the group continued to carry out projects that promoted the careers of women psychologists, such as a newsletter of employment opportunities. In 1947, the name was changed to the Interna- tional Council of Women Psychologists and membership opened to women outside the United States. The organization remained a women’s organization until 1960; at that point, men were admitted and the group became the International Council of Psychologists.

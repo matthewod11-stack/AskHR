@@ -1,17 +1,7 @@
-# ISSN 2393-9451
-
-significant at 5 percent level which shows that determinates are potential determinants of FDI inflow, where the Exchange rate is not significant which indicate that this determinants might not be important determinants in this case. The positive value of th e coefficient indicates perfect synchronization of determinants variable with FDI inflow whereas negative sign shows that they affect FDI inflow in reverse manner i.e. decreasing value of the determinants. The coefficient of LGDP and LE&I show that foreign investor are highly sensitive to the market growth as 1 percent increase in the variable leads to 1.53 percent and 1.33 percent increase in FDI respectively. Whereas coefficient of Official Exchange rate indicates that 1 percent increase in leads to 0.012 percent increase in FDI which is very nominal in nature.
-
-- 6. Conclusion: As stated earlier the motive of the study is to examine the factors that determine the FDI inflow to the SAARC countries. Economic integration provides development and security to the respective countries and world at large. It can be concluded from the analysis that financial system that is growth of the GDP plays a very significant role in mobilizing FDI inflow in to the nation.The study made an attempt to recognize the factor determinants the FDI inflow in SARRC countries from 2000-2017 for which determinants include GDP, Export and import and Foreign exchange rates.The study found the GDP and Export and Imports are potential determinants of the FDI inflow. The challenges for the SARRC countries isto maintain its GDP growth so that FDI inflow shouldcontinue and follow the upward trend. Moreover the governments of the respective countries
-
-have to optimize their economic conditions to attract more FDI. 7. Policy Implication GDP and Exports and Imports are crucial factors in engaging FDI, which may help to make appropriate policies for improving the performance of domestic economy. In addition, the business facilitating dimension in the form of treaties and investment promotion agencies may be supported by good political environments, corporate governance, efficient economic policies and sound infrastructure measure to exploit the benefits from FDI. 8. Limitation The study analyzes the impact of determinants of FDI Inflow in the eight economies of the SAARC as a whole unit but it does not analyze how the selected determinants variable influence the FDI inflow on each country on individual basis. There are other important determinants which are not covered under this study like Gross capital formation, labourcost, work forc e, market capitalization, inflation etc. Labour cost are import determinants in the India, Pakistan, Nepal. 9. Scope For Further Research The research can be further extended to analyze how profit remittance homes countries by direct investors contributes to current account deficit (CAD). It ca n be constructed from the above study that as a policy implication FDI can cause worsening of balance of payment position by causing current Account Deficit (CAD) in long run. Another area of further research can be sect oral analysis to enhance the understanding of the industry specific FDI flow and its determinants to analyze whether FDI stock and output are reinforcing manufacturing sectors along the primary sectors or not.
-
-- 10. References 1. Baltagi, Badi H. (2008). Econometric Analysis of Pan el Data (4th ed.). New York, NY: Wiley. pp. 17–22. ISBN 978-0-470-51886-1.
-
-- 2. Diggle, Peter J.; Heagerty, Patrick; Liang, Kung-Yee; Zeger, Scott L. (2002). Analysis of Longitudinal Data (2nd ed.). Oxford University Press. pp. 169–171. ISBN 0-19-852484-6.
-
-- 3. Laird, Nan M.; Ware, James H. (1982). “Random-Effects Models for Longitudinal Data”. Biometrics. 38 (4): 963–974. JSTOR 2529876.
-
-8
-
-IITM Journal of Business Studies (JBS)
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 23d5539b3f7ae4f769a5f40791f8dd2d18e0569c
+title: final_2019_jan_feb_jbs_pmd
+---
+# January - December, 2019

@@ -1,27 +1,39 @@
-## HBR / Digital Article / The Most Effective Negotiation Tactic, According to AI
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93478a347bc6c5412a605ef767c723d53028cb32
+title: H08DXZ-PDF-ENG
+---
+# counter-proposals.
 
-Prior work suggests that we shy away from asking questions out
+- 3. Balance inquiry with relationship-building.
 
-of fear of appearing incompetent or because we overestimate our
+You may have uncovered your counterparts’ interests and constraints
 
-persuasive powers. There is no doubt that assertiveness is essential at
+like a pro, but you’re still unlikely to get those extra concessions if
 
-the bargaining table. However, our microscopic dive into negotiation
+they don’t like you. Make sure you strategically balance “why,” “what,”
 
-conversations reveals a major imbalance in how people naturally pursue
+and “how” questions throughout the conversation to gather in-depth
 
-their goals to inﬂuence and learn. Most of us spend our time pitching
+information and build and maintain good rapport.
 
-and defending our positions without asking enough about the other
+Negotiation is a core leadership and life skill — one that inﬂuences
 
-side: working to discover what they want and why they want it.
+everything from the prices we pay and the salaries we earn to who
 
-By preparing and incorporating a mix of why, what, and how questions
+picks up the kids from school. Despite its pervasiveness, people often
 
-into our negotiations, we can uncover valuable information, build
+overlook a simple strategy to achieve better outcomes: asking more
 
-stronger relationships, and ultimately achieve better outcomes. So, the
+open-ended questions, a strategy that is much easier if you spend just
 
-next time you’re at the negotiation table, remember: less pitching, more
+a couple of minutes brainstorming open-ended questions before the
 
-asking. You might be surprised at what you learn — and how much you
+negotiation begins.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,13 @@
-# HBR / Digital Article / Does Returning to the Office Support Your Company’s Strategy?
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa0834e56729f79c0fd420bbdbecd1d484dc2fd1
+title: H08N0B-PDF-ENG
+---
+## rates, pay equity, and well-being across job levels, gender and other
 
-demographics, and location to look for disparities between employees with diﬀerent work conﬁgurations. Managers and their teams then
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-adjust their remote/hybrid work approach to address any inequities the
+6
 
-data reveal. For example, lower levels of reported well-being among a
-
-certain demographic (e.g., new hires) or work arrangement (e.g., on site,
-
-remote) of employees would trigger further analysis to understand and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

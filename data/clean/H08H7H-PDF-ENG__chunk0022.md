@@ -1,17 +1,35 @@
-# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 345acc2472fb4ac6206de7f0e9d5a4f17881fc02
+title: H08H7H-PDF-ENG
+---
+## on Twitter, 14,625 on LinkedIn, and 40,551 comments across 10 news
 
-the room during the meeting. Others learned that their coworker had a
+stories related to interpersonal learning. We found that employees
 
-dog or child because they were told so by the coworker.
+learned a variety of nonwork- and work-related information, including
 
-When we analyzed our data, we found that when employees learned
+how their coworkers parent, what their coworkers do in their free time,
 
-information about the coworker that was more vivid (visual or auditory),
+and what their coworkers’ religion or political values are.
 
-perceived as unintentional, and nonwork-related — all ways of learning
+Building on this qualitative study, we designed experiments to test
 
-that are more likely when working from home — they were more likely
+our hypotheses. We asked 1,244 full-time, U.S.-based employees in
 
-to invest in their personal (i.e., pursue friendship) and professional (i.e.,
+one study and 413 in another study to watch a simulated video
 
-pursue future work collaborations) relationships with that coworker. We found that eﬀect was largely driven by seeing that coworker as more
+meeting alongside a new virtual “coworker” and to collaborate with this
+
+coworker on a task during that meeting. Over the course of the call,
+
+participants learned various work and nonwork information about their new colleague in diﬀerent ways. For example, some participants learned
+
+that their coworker had a dog or child because the dog or child ran into
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,11 @@
-# collaboration.
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef71be0ec550889e98192598a6e8fc268297df0c
+title: R2501K-PDF-ENG
+---
+## a single scenario, all the connections among the teams responsible for
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+providing and receiving goods or services. This approach allows you
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to identify the hurdles that must be overcome to achieve larger-scale

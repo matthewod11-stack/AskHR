@@ -1,7 +1,13 @@
-# HBR / Digital Article / The Legal Landscape Around DEI Is Shifting. Your Messaging Sh…
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 132cd1ed53f94e71039007579e3bf858d73eed32
+title: H08MS4-PDF-ENG
+---
+# orders.
 
-By now, many organizational leaders are well aware of the need to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-conduct a legal review of their DEI programs. But having lawful policies
+1
 
-in place is one part of the equation. The way you communicate about
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,13 @@
-## due to greater competitiveness in the workforce and among companies.
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 856fa52b7bac7dd85fb7c0f6e9455ad546eb7611
+title: H08PLG-PDF-ENG
+---
+# Markets
 
-In light of this, companies will have the incentive to apply such tools—
+As AI tools that narrow income gaps are adopted more widely,
 
-and ought to do so more consistently—to establish and sustain business
+companies will have access to a wider pool of qualiﬁed workers. And as
 
-models that can go up against the competition.
-
-[ 3 ]
+smaller enterprises become more cost-eﬀective, the market will expand

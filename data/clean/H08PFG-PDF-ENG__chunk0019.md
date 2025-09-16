@@ -1,9 +1,23 @@
-# in STEM.
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd686aecd55e227784c77f8832507dcf91f52e41
+title: H08PFG-PDF-ENG
+---
+# same credit.
 
-To ﬁnd the right audience for your norm entrepreneurship, ask yourself:
+Similarly, Katherine Johnson, Mary Jackson, and Dorothy Vaughan,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the protagonists of the ﬁlm Hidden Figures, became famous not only
 
-5
+because they were brilliant mathematicians, but also because they were
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“ﬁrsts” in many ways at NASA in the 1960s. They started to change
+
+norms by breaking glass ceilings and paving the way for others.
+
+In both cases, people became credible norm entrepreneurs because
+
+they did something counter-stereotypical: white men hiring women
+
+and people of color and Black women climbing up the career ladder

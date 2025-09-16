@@ -1,17 +1,31 @@
-## HBR / Digital Article / 4 Styles of Coaching—and When to Use Them
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a871fa03c359c5d6070bea2fe1bb503485d34b0a
+title: H08NJ7-PDF-ENG
+---
+## a deep review of academic literature on the subject.
 
-The Coaching Styles framework is a 2×2 matrix with the “pull” factor
+The framework is based on the concepts of “push” and “pull” that
 
-on the y-axis and the “push factor” on the x-axis. Each quadrant is
+are widely used in the ﬁeld of sports to develop an athlete’s skills and
 
-characterized by diﬀerent levels of pull and push. The higher the pull,
+performance. The push coaching method refers to an approach where
 
-the more preparation the coaching style requires.
+the coach provides clear instructions, guidance, and feedback. This
 
-See more HBR charts in Data & Visuals on HBR.org.
+style is more hands-on and involves telling athletes what to do and how
+
+to do it. Pull coaching adopts a facilitative approach, aiming to guide
+
+and support rather than provide direct instruction. This style relies on
+
+asking open-ended questions to encourage self-reﬂection so athletes
+
+can discover solutions on their own.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

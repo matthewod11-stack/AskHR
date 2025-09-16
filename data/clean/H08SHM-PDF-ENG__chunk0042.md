@@ -1,9 +1,17 @@
-# arrives.
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 88da0ba2e6f514ae09619b518d3b4f1414b77126
+title: H08SHM-PDF-ENG
+---
+## across R&D, new markets, and complex customer, partner, and policy
 
-This article was originally published online on June 19, 2025.
+interactions. Carve out slack time and engineer cross-team collisions
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+to spark serendipity and idea recombination. Treat those pockets of
 
-8
+planned ambiguity not as liabilities, but as strategic assets.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Only leaders who pay attention to what is measurable—and, more
+
+crucially, to what stubbornly isn’t—will be ready when the next shift

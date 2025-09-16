@@ -1,15 +1,33 @@
-# replacement.
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 460da5bebf4f41c76511404cf74c3dd9d4e273aa
+title: S24041-PDF-ENG
+---
+## HBR / Spotlight Article / Power, Influence, and CEO Succession
 
-The board’s agenda is to pick the right CEO for today who also can grow
+annually among the S&P 1500 alone. On average, companies that have
 
-as the company changes; to be applauded (primarily by investors) for
+to ﬁre their CEOs sacriﬁce $1.8 billion each in shareholder value, a 2015
 
-having made a wise choice; and to establish a power dynamic with the
+study by PwC found. The handoﬀs from Bob Iger to Bob Chapek and
 
-incoming CEO that ensures the directors’ primacy.
+then back to Iger at Disney and from Jeﬀ Immelt to John Flannery to
 
-Meanwhile, the designated successor wants to impress the board, the incumbent, and the rest of the senior executive group and aﬃrm that
+Larry Culp at General Electric serve as powerful reminders of the cost of
 
-she was the best choice; to build positive working relationships with
+mishandling successions.
 
-inﬂuential directors; and to lay the groundwork for success after the
+In theory the key parties in the process would be fully aligned on getting
+
+a succession right. In reality there are multiple agendas at play.
+
+The outgoing CEO may be eager to burnish his legacy by promoting
+
+his accomplishments rather than helping his successor achieve hers. Or
+
+he may push to continue his favorite initiatives; for the successor to
+
+retain his top team; to leave on his own terms (and his own timeline)
+
+rather than the board’s; or to play a more signiﬁcant role in choosing his

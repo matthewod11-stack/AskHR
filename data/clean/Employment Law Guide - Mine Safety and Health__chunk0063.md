@@ -1,5 +1,9 @@
-# The Employment Law Guide is oﬀered as a public resource. It does not create new legal obligations and it is
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: ce458b018a865bcba6f3b5eefd2c56103b95c3d4
+title: Employment Law Guide - Mine Safety and Health
+---
+## Contact MSHA(https://www.msha.gov/about/contact-msha)
 
-not a substitute for the U.S. Code, Federal Register, and Code of Federal Regulations as the oﬃcial sources
-
-of applicable law. Every eﬀort has been made to ensure that the information provided is complete and accurate as of the time of publication, and this will continue.
+Tel: 1-800-746-1553; TTY: 1-877-889-5627

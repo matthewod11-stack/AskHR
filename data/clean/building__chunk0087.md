@@ -1,5 +1,13 @@
-# months to 6 weeks
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 707de5341e37d06fe1a6b252554999d6784e1295
+title: building
+---
+#  Query complexity handling
 
-- Saved 16,000 hours of search time annually • Reduced infrastructure costs by 55%
+17
 
-“We made the decision to go with an Anthropic model within AWS because we like the safety that Anthropic provides with their model. If you think about over the course of a year, about 300,000 documents come out and we would review about 20% of those manually through the legal editing process. We processed 300,000 summaries in an automated way in about 6 weeks.”
+Working with AWS and Anthropic to apply generative AI and machine learning techniques to its research, Pfizer:
+
+- Cut time from prototype to minimal viable product from 3+

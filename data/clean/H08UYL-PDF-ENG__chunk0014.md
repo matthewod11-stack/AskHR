@@ -1,21 +1,15 @@
-# regain clarity.
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b228f9ddeaf0562d4c91e8b8779b1b43ced93103
+title: H08UYL-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Edit What They Say Before They Say It
 
-- 4. The TMI Leader
+work. The frequent reversals were meant to keep people in the loop but
 
-This leader blurs personal and professional boundaries. Especially in
+instead left his team confused and anxious, which made it harder for them to communicate eﬀectively with their own teams. By pausing to
 
-organizational cultures that emphasize authenticity or “bringing your
+ﬁnalize his thinking before communicating and aligning his tone with
 
-whole self to work,” some leaders overcorrect. While empathy is a
-
-critical leadership skill, blurring boundaries by oversharing personal
-
-stress, doubt, or emotion can erode credibility and create discomfort.
-
-Consider a founder Tutti worked with, who regularly opened team oﬀsites by sharing personal struggles, hoping to foster connection.
-
-Instead, team members began questioning her steadiness and
-
-judgment. She needed to better balance her authenticity with the
-
-intention behind why she was sharing, and pick what and when to share
+a sense of direction, he helped his team and the organization relax and

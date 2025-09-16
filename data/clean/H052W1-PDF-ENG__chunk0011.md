@@ -1,47 +1,19 @@
-# the pros and cons of each.
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e93092d9997e3a277469d93987b7e62cdf6827d5
+title: H052W1-PDF-ENG
+---
+# Rousseau.
 
-- Easing back in by working part-time at ﬁrst “allows you to learn
+Consider your schedule
 
-how to do the job you did before diﬀerently,” says Rousseau. It removes
+Making the transition back to work will “never be easy,” but there are
 
-some of the pressure of juggling your new home life, and it helps you
+“a lot of aspects of it that you can manage and plan for,” says Dowling.
 
-focus at work. “You learn to prioritize and concentrate on the things
+Take, for instance, the question of whether you return gradually by
 
-that move the needle.” When you’re part-time, “you can’t putz around,”
+working a couple of days a week or resume full-time work from the get-
 
-she says. “You have to be discriminating” about the tasks you take on
-
-and how you do them. Be aware, however, that this schedule might
-
-“send a complex message” to your team, says Dowling. “If you’ve
-
-been a guns-blazing professional and you come back to two days a
-
-week, you’re telegraphing — even if you don’t mean to — that you
-
-are no longer working in the same way,” she says. “Your attention and
-
-ambition have shifted.”
-
-- Going back full-time immediately allows you to “resume the
-
-career you had before,” rather than one “with radically reduced
-
-expectations,” says Dowling. It may be harder at ﬁrst, but the beneﬁt is that you’re not “setting the bar diﬀerently” at the outset. Returning
-
-full-time allows you to “go in and do some data gathering and test
-
-things out.” If you need to, you can then “ratchet back.”
-
-Whichever path you choose, Dowling recommends working only two or
-
-three days in your ﬁrst week back on the job. A midweek start allows you
-
-to make the adjustment a little more slowly and ensures that you don’t
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+go. Not everyone has an option, but if you do, it’s sensible to consider

@@ -1,23 +1,25 @@
-## HBR / Digital Article / A New Way to Explain the Pause in Your Career
+---
+source_path: H06X12-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee6c27b85bc211834888e045464eba98b6a5ee87
+title: H06X12-PDF-ENG
+---
+## degree in computer science and seven years of experience in database
 
-what happened, too. We contacted the employer, a long-time partner
+development, and she last held paid employment in 2015. Simone is
 
-of ours. They looked more closely at Simone’s excellent technical
+a perfect candidate for a reentry program, but when she applied at
 
-credentials, her eﬀorts to stay current with technology, and her long
+a well-established company career reentry program, she received an
 
-career break, and she ended up receiving an oﬀer. If Simone hadn’t
+automated rejection within an hour.
 
-pushed back, she would not have been hired — and the employer would
+Baﬄed by the instant rejection, Simone got in touch with our team at
 
-have missed out on an outstanding candidate.
+iRelaunch. Seeing her obvious qualiﬁcations, we wanted to understand
 
-Why was she rejected? For the period since 2015, Simone’s resume
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-showed volunteer work and recent technical coursework, but did not
+2
 
-clearly state that she had taken a career break. Newer recruiters on the
-
-employer’s team who hadn’t been fully trained to spot the resumes with
-
-career breaks missed that Simone was eligible.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

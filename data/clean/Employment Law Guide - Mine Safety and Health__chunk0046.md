@@ -1,11 +1,7 @@
-# abandoned panels or in areas which are inaccessible or unsafe for inspections). The accidents must be
-
-investigated by the mine operator or his agent to determine the cause and the means of preventing a recurrence. Records of such accidents and investigations must be kept and the information must be made
-
-available to MSHA and the appropriate State agency. The records must be open for inspection by interested
-
-persons, include man-hours worked, be reported at a frequency determined by MSHA, but at least annually.
-
-In addition to the Mine Act recordkeeping requirement, MSHA's regulations and mandatory safety and health
-
-standards published in Title 30 of the Code of Federal Regulations contain recordkeeping and reporting requirements. Recordkeeping forms can be found here.
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: 8dc2f090f644f1c8b2ba3e1e5ebf0f6e9c0b3042
+title: Employment Law Guide - Mine Safety and Health
+---
+# Section 103(d) requires recordkeeping regarding all accidents, including unintentional roof falls (except in any

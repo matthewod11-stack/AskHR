@@ -1,9 +1,19 @@
-## strongest team, the best project management software, and the most
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 852c8082d2e1112a88c28a54c7c150369a7a544c
+title: H07UNT-PDF-ENG
+---
+# breakdowns.
 
-skillful communicators, a project can still go awry.
+“Communication is always number one, but so is making sure that
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+people say what they mean,” says Dunphy. That’s why, “as a PM, you
 
-6
+can usually see the ﬁnish line before everyone else can.”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Build a structure that’s sturdy but flexible.
+
+One of the best methods of expectations management is balancing
+
+structure with ﬂexibility. Even with the most organized structure, the

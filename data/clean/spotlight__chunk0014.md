@@ -1,1 +1,37 @@
-# ARTICLE TITLE
+---
+source_path: spotlight.md
+pages: n/a-n/a
+chunk_id: de4eb74825cb371c6371f62b0d0f66ce729fa1e1
+title: spotlight
+---
+# SPOTLIGHT ON TOPIC
+
+market shifts? It’s a new kind of problem to solve, and the jury is still out on how to respond.
+
+Rewarding performance. Appraisals gave managers a clear-cut way of tying rewards to indi- vidual contributions. Companies changing their sys- tems are trying to figure out how their new practices will affect the pay-for-performance model, which none of them have explicitly abandoned.
+
+They still differentiate rewards, usually relying on managers’ qualitative judgments rather than nu- merical ratings. In pilot programs at Juniper Systems and Cargill, supervisors had no difficulty allocating merit-based pay without appraisal scores. In fact, both line managers and HR staff felt that paying closer attention to employee performance through- out the year was likely to make their merit-pay deci- sions more valid.
+
+But it will be interesting to see whether most supervisors end up reviewing the feedback they’ve given each employee over the year before allocat- ing merit pay. (Deloitte’s managers already do this.) If so, might they produce something like an annual appraisal score—even though it’s more carefully considered? And could that subtly undermine de- velopment by shifting managers’ focus back to accountability?
+
+Identifying poor performers. Though manag- ers may assume they need appraisals to determine which employees aren’t doing their jobs well, the tra- ditional process doesn’t really help much with that. For starters, individuals’ ratings jump around over time. Last year’s performance score predicts only one-third of the variance in this year’s score—so it’s hard to say that someone simply isn’t up to scratch. Plus, HR departments consistently complain that line managers don’t use the appraisal process to document poor performers. Even when they do, waiting until the end of the year to flag struggling employees allows failure to go on for too long with- out intervention.
+
+We’ve observed that companies that have dropped appraisals are requiring supervisors to immediately identify problem employees. Juniper Systems also formally asks supervisors each quarter to confirm that their subordinates are performing up to company standards. Only 3%, on average, are not, and HR is brought in to address them. Adobe reports that its new system has reduced dismissals, because struggling employees are monitored and coached much more closely.
+
+1508  Harvard Business Review October 2016
+
+Still, given how reluctant most managers are to single out failing employees, we can’t assume that getting rid of appraisals will make those tough calls any easier. And all the companies we’ve observed still have “performance improvement plans” for employees identified as needing support. Such plans remain universally problematic, too, partly because many issues that cause poor performance can’t be solved by management intervention.
+
+Avoiding legal troubles. Employee relations managers within HR often worry that discrimina- tion charges will spike if their companies stop basing pay increases and promotions on numerical ratings, which seem objective. But appraisals haven’t pre- vented discriminatory practices. Though they force managers to systematically review people’s contri- butions each year, a great deal of discretion (always subject to bias) is built into the process, and consid- erable evidence shows that supervisors discriminate by giving some employees undeservedly low ratings. Leaders at Gap report that their new practices were driven partly by complaints and research showing that the appraisal process was often biased and ineffective. Frontline workers in retail (dispro- portionately women and minorities) are especially vulnerable to unfair treatment. Indeed, formal rat- ings may do more to reveal bias than to curb it. If a company has clear appraisal scores and merit-pay indexes, it is easy to see if women and minorities with the same scores as white men are getting fewer or lower pay increases.
+
+All that said, it’s not clear that new approaches to performance management will do much to miti- gate discrimination, either. (See the sidebar “Can You Take Cognitive Bias Out of Assessments?”) Gap has found that getting rid of performance scores in- creased fairness in pay and other decisions, but judg- ments still have to be made—and there’s the possibil- ity of bias in every piece of qualitative information that decision makers consider.
+
+Managing the feedback firehose. In recent years most HR information systems were built to move annual appraisals online and connect them to pay increases, succession planning, and so forth. They weren’t designed to accommodate continuous feedback, which is one reason many employee check- ins consist of oral comments, with no documentation. The tech world has responded with apps that enable supervisors to give feedback anytime and to record it if desired. At General Electric, the PD@GE
+
+app (“PD” stands for “performance development”) allows managers to call up notes and materials from prior conversations and summarize that informa- tion. Employees can use the app to ask for direction when they need it. IBM has an app that is similar but also enables employees to give feedback to peers and choose whether the recipient’s boss gets a copy. Amazon’s Anytime Feedback tool does much the same thing. The great advantage of these apps is that supervisors can easily review all the discussion text when it is time to take actions such as award merit pay or consider promotions and job reassignments.
+
+Of course, being on the receiving end of all that continual coaching could get overwhelming—it never lets up. And as for peer feedback, it isn’t al- ways useful, even if apps make it easier to deliver in real time. Typically, it’s less objective than supervi- sor feedback, as anyone familiar with 360s knows. It can be also “gamed” by employees to help or hurt colleagues. (At Amazon, the cutthroat culture en- courages employees to be critical of one another’s performance, and forced ranking creates an incen- tive to push others to the bottom of the heap.) The more consequential the peer feedback, the more likely the problems.
+
+NOT ALL employers face the same business pressures to change their performance processes. In some fields and industries (think sales and financial ser- vices), it still makes sense to emphasize accountabil- ity and financial rewards for individual performers. Organizations with a strong public mission may also be well served by traditional appraisals. But even government organizations like NASA and the FBI are rethinking their approach, having concluded that accountability should be collective and that supervi- sors need to do a better job of coaching and develop- ing their subordinates.
+
+Ideology at the top matters. Consider what hap- pened at Intel. In a two-year pilot, employees got feedback but no formal appraisal scores. Though supervisors did not have difficulty differentiating performance or distributing performance-based pay without the ratings, company executives returned to using them, believing they created healthy com- petition and clear outcomes. At Sun Communities, a manufactured-home company, senior leaders also oppose eliminating appraisals because they think formal feedback is essential to accountability. And Medtronic, which gave up ratings several years ago,

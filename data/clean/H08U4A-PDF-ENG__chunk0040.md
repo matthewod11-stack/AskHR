@@ -1,7 +1,13 @@
-## behaviors and team experiences and not in vague or subjective terms.
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11945a41471a6a9ae183cd72661541627ede10ba
+title: H08U4A-PDF-ENG
+---
+## colleague, professional, and manager or leader.
 
-While no perfect kindness metric currently exists, many organizations
+- 3. Measure kindness.
 
-already measure distinctly related dynamics such as psychological
+Most organizations that take something seriously measure it. The same
 
-safety, inclusion, civility, and trust. Others dig into the root causes
+should apply to kindness. It should be measured in terms of observable

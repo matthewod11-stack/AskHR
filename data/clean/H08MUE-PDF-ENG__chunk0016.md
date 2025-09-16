@@ -1,29 +1,43 @@
-## HBR / Digital Article / The Pandemic Proved That Remote Leadership Works
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92795e5e7dfdfc128f2c5bf57bc49a8ca795b2b9
+title: H08MUE-PDF-ENG
+---
+# The Pushback
 
-The biggest constraint to remotely based managers, however, is the
+Despite the beneﬁts of remote leadership, there are still plenty of
 
-general perception that allowing people work remotely is bad for
+objections. For one, managing employees from a distance—without
 
-culture, morale, and productivity. In this context, many of the CEOs
+being physically present—requires leadership skills that are diﬃcult,
 
-who I spoke with over the past year felt that people working remotely
+don’t come naturally, and often aren’t taught in business schools or
 
-were not suﬃciently productive, or didn’t understand the fundamental
+corporate universities. For example, leaders who manage remotely need to ﬁnd diﬀerent ways of building a cohesive culture, bonding with their
 
-values of their company, or hadn’t built relationships with other areas of
+people, managing social isolation and mental health, and making sure
 
-the ﬁrm that they needed to interact with. Almost all of these cultural
+that processes are coordinated across groups. None of this is easy, which
 
-worries seem to center around the workforce, and not the leaders, and
+may explain why 70% of managers in one survey last year said that it’s
 
-many have been refuted in research. Still it’s hard to tell workers to
+easier to supervise employees in person.
 
-come back to the oﬃce and exempt their bosses (though that seems to
+Remotely based leaders can also become invisible to their people and
 
-be happening too). Thus, the kneejerk reaction, in many cases, has been
+to key stakeholders they need to inﬂuence, falling victim to the “out of
 
-to mandate that all employees—including leaders—limit their remote
+sight, out of mind” syndrome. No matter how good they are at their jobs,
 
-work and return to the oﬃce, at least for two or three days per week,
+they may not be asked to participate in key task forces or be considered
 
-if not full time. This has been the approach taken by three quarters of
+for new assignments. So in many cases, it’s just easier for leaders to go
+
+back to the way it was.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,9 @@
-## sounds counterintuitive. After all, ChatGPT essentially just collates and
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eebd847bc7e22c923b85b20df8d1771e3dc0b1bb
+title: H07WKC-PDF-ENG
+---
+# ChatGPT.
 
-processes the sum total of all the answers to a question that people
-
-have already come up with. It seems almost inevitable that ChatGPT’s
-
-strategic advice would simply parrot the most common solutions to a
+To many people, the idea that AI can be a source of new ideas

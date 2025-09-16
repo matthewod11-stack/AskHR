@@ -1,13 +1,19 @@
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2836af7df0c18a46e98ed1c433c0e819a208a28d
+title: H08ADN-PDF-ENG
+---
 ## HBR / Digital Article / Research: New Hires’ Psychological Safety Erodes Quickly
 
-These trends suggest that strategically assigning new hires to
+present for new hires at six months reﬂect just how quickly they pick up
 
-departments with positive climates ensures preferable socialization,
+on “the way it is” in their departments.
 
-kicking oﬀ a virtuous cycle that builds psychological safety over
+See more HBR charts in Data & Visuals on HBR.org.
 
-time. When placement in settings with low psychological safety is
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-necessary, investing in departments’ psychological safety, such as
+5
 
-through manager or team leader skills training, could help stave oﬀ
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

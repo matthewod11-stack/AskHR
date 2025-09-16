@@ -1,13 +1,37 @@
-## digital services for safety and survival.
+---
+source_path: H03NUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48518acaa0a83d2791a506c02d08baab628eea75
+title: H03NUL-PDF-ENG
+---
+## Published on HBR.org / May 16, 2017 / Reprint H03NUL
 
-In researching migration and the refugee crisis in Europe, my team
+The Trump administration’s latest travel ban is back in U.S. federal
 
-and I interviewed over 140 refugees from Syria, and I’ve learned
+court. The Fourth Circuit, based in Virginia, and Ninth Circuit, based in
 
-that technology has been crucial to those ﬂeeing war and violence
+San Francisco, are hearing cases challenging the latest executive order
 
-Copyright © 2017 Harvard Business School Publishing. All rights reserved.
+banning immigrants and refugees from six Muslim majority countries
 
-1
+from entering the United States. Joining the fray are 162 technology
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+companies, whose lawyers collectively ﬁled an amicus brief to both
+
+courts. Amazon, eBay, Google, Facebook, Netﬂix, and Uber are among
+
+the companies urging federal judges to rule against the executive order,
+
+detailing why it is unjust and how it would hurt their businesses.
+
+While the 40-page brief is ﬁlled with arguments in support of
+
+immigration, it hardly speaks about refugees, except to note that
+
+those seeking protection should be welcomed. Any multinational
+
+company with a diverse workforce would be concerned about limits to
+
+international hiring and employee travel. But tech companies should
+
+also be concerned about the refugee populations that depend on their

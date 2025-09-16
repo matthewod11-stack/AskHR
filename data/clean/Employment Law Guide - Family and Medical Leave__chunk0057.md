@@ -1,7 +1,9 @@
-# Reporting
+---
+source_path: Employment Law Guide - Family and Medical Leave.md
+pages: n/a-n/a
+chunk_id: 5d0b7beb13decefd096f839348c87cc84b1c21f7
+title: Employment Law Guide - Family and Medical Leave
+---
+# employee's physical or medical condition might require emergency treatment. Government oﬃcials
 
-There are no reporting requirements under the FMLA.
-
-Covered employers are required to post a notice for employees outlining the basic provisions of the FMLA and
-
-are subject to a civil money penalty if they willfully fail to post such a notice.
+investigating compliance must be provided access to relevant information.

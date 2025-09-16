@@ -1,75 +1,27 @@
-# alarm.” (G14)
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: dd7f62e7dbdb4d05d755dcc5b52a7e55318b9eae
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Other external factors
 
-This informant also noted that the employee has been kept for more than a year, not
+Our findings also suggest that managers/owners of firms with poorly performing individuals
 
-because of his contribution to the business, but because of his contacts which helped them to
+often have a desire to improve efficiency by firing such individuals. However, they have been
 
-maintain the government contract. In this informant’s experience, the worker came to be
+unable to do so particularly due to the strong potential influence from government officials.
 
-designated as part of the “protected group” of workers, who in theory could not be fired
+Although the contributions of such workers are often non-existent within the firm, any
 
-because of the risk of losing contracts and connections with government officials to the
+attempt to terminate their employment could lead to sudden changes in government policy or
 
-business. To some co-workers, the continuous employment of such individuals is shrouded in
+contracts of which the firm is a beneficiary. One informant noted:
 
-mystery into which they have limited insight.
+“As soon as we issued him a notice (letter) that his contract was under threat due to poor
 
-By the same token, the data from Nigeria also suggest that many of those interviewed
+performance, his ‘contact’ in government informed us that our contract with them was under
 
-pointed to corruption as one of the main reasons why organisations persist with
+review … after three weeks it became clear to us so we decided to withdraw the notice … It
 
-underperforming employees in Nigeria. Many pointed out that underperforming employees
-
-are not only retained in employment, but promoted because of their loyalty in paying
-
-“homage” and presenting gifts as bribes to those in leadership positions. When the
-
-interviewer told them that corruption existed in all parts of the world, virtually all the
-
-informants retorted that it is a norm rather than an exception in Nigeria.
-
-22
-
-Another aspect of our findings indicates that some of the workers were recruited by
-
-the new executive teams and portrayed as the up-and-coming star performers. Over time such
-
-workers failed to deliver and eventually came to be seen as underperforming. However, some
-
-of the top management often fail to admit defeat and worry that firing such workers could
-
-damage their reputation and judgement. Consequently, the executive persist with such
-
-workers to protect their reputation. As one informant noted:
-
-“They just want to save face … XXX employed him two years ago but we haven’t seen
-
-anything yet … XXX won’t fire him.” (G14)
-
-A director of a major automobile marketing company in Lagos (N39) referred to some
-
-aspects of organisational culture as being responsible for the persistence of underperforming
-
-employees in his organisation. He said the fear of diffusion of business secrets, especially by
-
-senior managers, has led to keeping them as employees even when they have begun to
-
-underperform. Table 3 provides a summary of how underperforming workers have come to
-
-be viewed as “imposed workers” and possessing “unfulfilled potentials”. As illustrated in the
-
-table, persistence with underperforming workers can stem from their imposition from an
-
-external force over which management have limited or no control. In some of the case of the
-
-oil multinationals, persistence were at time attributed to governmental contracts requiring
-
-foreign firms to have a quota of local employees. As one government official (N36) in
-
-Nigeria with several years of experiences noted,
-
-“We make it clear to them (Western multinationals) that they have to hire more local workers
-
-not only labourers, but also as senior managers, if they want to succeed here”.
-
-This guideline was noted to have influenced demand for executive-level and blue-collar
+then came as no surprise when a government official contacted us to say that it was a false

@@ -1,13 +1,35 @@
-# reality in their organizations.
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c56879c450672d4a85a19ddf8246c86ea45b9bf
+title: R2501G-PDF-ENG
+---
+## complex questions about past experiments.
 
-A version of this article appeared in the January–February 2025 issue of Harvard Business Review.
+. . .
 
-Iavor Bojinov is an assistant professor of business administration and the Richard Hodgson Fellow at Harvard Business School. He is also a faculty aﬃliate of Harvard’s statistics department and the Harvard Data Science Initiative.
+Leading tech organizations use experimentation to innovate and
 
-David Holtz is an assistant professor in the management of organizations and entrepreneurship and innovation groups at the University of California, Berkeley’s Haas School of Business and a research aﬃliate at the MIT Initiative on the Digital Economy.
+improve performance rapidly by testing all ideas—not just carefully
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+vetted ones or only the big ones. Moreover, learnings from those
 
-12
+experiments (often gleaned from combining results across similar
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+experiments) generate new ideas for testing. Experimentation can be
+
+scaled up only by democratizing access to tools, aligning incentives
+
+with improvements in long-term outcomes, and enabling employees to
+
+easily view, compare, and synthesize the results of experiments both
+
+within and across experimentation programs. Thanks to modern data
+
+tools and advances in AI, becoming expert in experimentation is now
+
+within reach for many more organizations. Given that the same AI
+
+advances are reducing the cost of coming up with, testing, and building
+
+innovative product variants, leaders must turn what is possible into a

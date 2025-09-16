@@ -1,31 +1,39 @@
-# HBR / Digital Article / Should Your Business Use a Generalist or Specialized AI Model?
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c38c87c025de5d460642eb58cb2d0d9cd14e53fb
+title: H08TQF-PDF-ENG
+---
+# pitfalls:
 
-the underlying frameworks that guide professional decision-making.
+Can the vendor clearly demonstrate the logic behind its AI and make its reasoning transparent?
 
-Success comes from vendors that embed this professional logic into
+The critical question isn’t whether AI can process information faster
 
-their architecture rather than hoping their models will somehow
+than humans but whether it can reason—i.e., use that information
 
-discover it through pattern matching. This question ensures your
+—in ways that your key domain experts can trust, understand,
 
-vendor can adapt as professional standards change, while maintaining
+and build upon. This question helps avoid the trap of “shallow
 
-access to the domain expertise that drives continuous improvement.
+transparency illusions,” which happens when vendors show which
 
-Can the vendor’s proposed solution address cross-domain integration and scope expansion, or will its offering only function as a point solution?
+criteria were evaluated, for instance, but fail to capture deeper
 
-As researchers from McKinsey highlighted in HBR, the key to
+professional reasoning. Look for solutions that embed professional
 
-capturing AI’s full potential lies in understanding and addressing the
+judgment frameworks, not just decision trees, and can explain why they
 
-organizational and cultural barriers that AI initiatives face, rather than
+prioritize speciﬁc evidence.
 
-simply deploying more powerful general-purpose models. This question
+Does the vendor maintain ongoing collaboration with domain experts in your ﬁeld? How does it handle evolving practices?
 
-helps leaders choose vendors that anticipate how professional decisions
+This requires deep collaboration between AI developers and domain
 
-interconnect across domains and ones that expand their capabilities as
+experts—not just to gather training data but also to understand
 
-an organization’s needs evolve.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-The competitive landscape for industry-speciﬁc AI may look quite
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

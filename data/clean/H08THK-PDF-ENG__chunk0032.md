@@ -1,9 +1,29 @@
-# HBR / Digital Article / Our Favorite Management Tips on Communicating Like a Leader
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 716fcca4d3839d6c9e973dba6b720dd337b61399
+title: H08THK-PDF-ENG
+---
+## email, a formal document, a social post, or something else.
 
-Finally, what’s your point? This is the essential substance of your
+First, determine the purpose of what you’re writing. What result do
 
-writing. To locate the message you’re aiming to deliver, ask yourself how
+you want to achieve? Are you looking to inform, persuade, or make
 
-you would explain it to your audience in 15 seconds or less. Then, get to
+a request? Let that purpose inform the substance and style of your
 
-the point early in your document, within the ﬁrst 40 to 50 words.
+communication from beginning to end.
+
+Then, identify exactly who your audience is and speak directly to them.
+
+This means using language that they understand and a voice that
+
+resonates with them. It also means anticipating and answering their
+
+questions—before they need to ask.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

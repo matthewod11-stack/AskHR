@@ -1,15 +1,11 @@
-## Despite the importance of cash, fewer than one in four companies
+---
+source_path: H08QTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d93dbe8629a5485eb7763432d16aea8439bd73e
+title: H08QTW-PDF-ENG
+---
+## HBR / Digital Article / How to Rescue a Failing Strategy
 
-(24%) say cash management is one of their top three priorities in
+particularly acute for companies that have high debt-service obligations
 
-times of disruption, according to data we collected for the AlixPartners
-
-Disruption Index. Many companies have only approximate data about
-
-their cash needs and position, because the numbers are siloed and
-
-aggregation takes time.
-
-Two quick actions can make a big diﬀerence in a company’s cash
-
-position: better forecasting and aggressive improvements in working
+(such as many private equity–owned businesses).

@@ -1,7 +1,19 @@
-## Chronic presenteeism also intensiﬁes work-related stress and burnout.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d987ac58bc9ced4ee56f84237d76a4d8e2f2208a
+title: H08R51-PDF-ENG
+---
+## billion annually, nearly 10 times more than absenteeism. Yet many
 
-Nearly 60% of U.S. workers in 2024 experienced burnout, ranging from
+senior leaders underestimate the problem. Employees who work while
 
-moderate to very high. Burnt-out employees are also far more likely
+sick experience reduced focus, slower decision-making, and increased
 
-to quit, with each departure costing between 40% and 200% of that
+errors, ultimately reducing individual productivity by one third or
+
+more. These impacts ripple throughout teams, creating bottlenecks, ineﬃciencies, and diminishing overall output. Presenteeism also
+
+accelerates the spread of illness and drives up absenteeism costs, which
+
+exceed $225 billion annually.

@@ -1,7 +1,11 @@
-# Actual behavior
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3eaeaae79329e7738f7fed3ab5903162040ed22d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Step : Observe and Document Performance
 
-Observed behavior
+The next step in the performance appraisal process is for supervisors to observe employee behavior and document critical incidents as they occur. Critical incidents are examples of excellent and poor employee performance. Such documentation is usually written in a critical incident log—formal accounts of excellent and poor employee performance that were observed by the supervisor. Critical incidents should be communicated to the employee at the time they occur (details on how to provide feedback will occur later in this chapter as well as in Chapter ). Documentation is important for four reasons. First, documen- tation forces a supervisor to focus on employee behaviors rather than traits and provides behavioral examples to use when reviewing performance ratings with employees.
 
-Processed behavior
-
-Recalled behavior
+Second, documentation helps supervisors recall behaviors when they are evaluating performance. As shown in Figure ., without documentation, instead of recalling all of an employee’s behavior or at least a representative sample of

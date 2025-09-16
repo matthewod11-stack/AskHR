@@ -1,25 +1,13 @@
-## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb2cc24a238a2fa5a82db9cab5ce869484ff6926
+title: H07VPH-PDF-ENG
+---
+# adventurer proﬁle.
 
-The ﬁrst assumption was that her coworkers liked working
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-independently, because that’s what was comfortable for her. “In a
+7
 
-professional setting – particularly one where I’m in charge – I’m used to
-
-working on my own and making my own decisions rather than reaching
-
-out to others for their input,” she explained.
-
-The second assumption was that, as a CEO, she thought she was
-
-supposed to make all the decisions. “I assumed that no news was good
-
-news, and that assumption turned out to be wrong.”
-
-- 8. Recognize how your problem-solver profile can help you make more effective decisions.
-
-While all PSP strengths provide solutions, returning to your dominant
-
-PSP can enable you to use strengths that you’ve already built as a
-
-decision-maker and initiate pathways where you’ve experienced success
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

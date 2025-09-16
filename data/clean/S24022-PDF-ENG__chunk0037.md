@@ -1,19 +1,23 @@
-# Putting It All Together
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59e3990c88c3163ef36125b1625b64d8201a4930
+title: S24022-PDF-ENG
+---
+## HBR / Spotlight Article / Create a System to Grow Consistently
 
-Designing an all-encompassing growth system is not easy. A prime
+in-platform user-to-user call features to expand engagement. Roblox
 
-example of a company that has demonstrated sustained success by
+also looks for ways to embed its platform in devices with active gamer
 
-creating such a system is Salesforce, one of the growth champions in our
+populations, such as Sony PlayStation, and in emerging domains such
 
-study. Salesforce is laser-focused on customer outcomes, diversifying its
+as virtual reality headsets. When people use these assets, they generate
 
-oﬀerings to respond to an evolving market while grounding innovation
+in-game, easily convertible currency, called Robux. That allows Roblox
 
-in what is important to its customers—something some rival tech
+to connect the number of daily active users and engagement hours with
 
-companies have been slower to do.
+revenue growth. And that, in turn, helps the company decide where to
 
-Over the past decade, Salesforce has supplemented its ﬂagship CRM
-
-capabilities with cloud-computing and AI services, while also acquiring
+make its next wave of growth investments.

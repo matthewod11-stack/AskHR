@@ -1,15 +1,19 @@
-# irritation (bolded terms).
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07eebe7fedc52c29a06a8e61233cc09a285826dd
+title: H08DXZ-PDF-ENG
+---
+## move-in date with their respective property managers.
 
-Kate, on the other hand, asked, “How would moving in next week help
+Judith asked, “Why do you need us to move in next week?” Her property
 
-your business?” Her property manager replied, “Well, moving in next
+manager responded, “Look, I’ve got other tenants to manage, and if you
 
-week would be great for us. It keeps our leasing plan on schedule and
+delay, it’s going to mess up my entire schedule. I’ve already bent over
 
-helps me coordinate better with the other tenants.” While it was less
+backward to get you what you wanted, but this is non-negotiable.”
 
-obvious that the move-in date was the landlord’s most critical concern,
+Judith’s question uncovered the utmost importance of the move-in date
 
-the tone was more relaxed and collaborative.
-
-As illustrated in these examples, we analyzed responses to more than
+for the landlord (italicized terms), but the response also carried some

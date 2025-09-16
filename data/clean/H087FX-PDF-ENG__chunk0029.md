@@ -1,27 +1,23 @@
-# patients after exertion.
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5452e15700d1a466b0d0f871a2b8b7355d3af7c2
+title: H087FX-PDF-ENG
+---
+## The fatigue that people with long Covid and similar conditions
 
-When people with long Covid exceed their energy capacity, symptoms
+experience has little in common with normal, day-to-day tiredness or
 
-can often worsen, sometimes severely, as with PEM. Those in chronic
+weariness. This fatigue is physically crushing. As one respondent from
 
-illness communities often describe this phenomenon using the “spoon
+Katie’s survey said, echoing a sentiment shared by many: “[I] am now a
 
-theory.” Imagine that every exertion costs you a spoon of energy. Taking
+shadow of myself. I’m completely isolated due to the fatigue.”
 
-the subway to work? Fifteen spoons. Sitting upright at your desk or
+Their fatigue is severe, multifaceted, and persistent, and it happens at
 
-attending a meeting? Ten spoons. While a healthy person may have
+a cellular level. In people with ME/CFS and also many with long Covid,
 
-unlimited spoons to use, people with complex chronic illnesses often
+the function of the mitochondria — the cell powerhouses that create
 
-have a ﬁnite number. Importantly, patients with severe illness may have
-
-very few to almost no spoons, whereas patients with mild illness have
-
-more. However, if they exceed their allotment, their symptoms ﬂare.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+energy — is impaired, and there are physiological changes in these

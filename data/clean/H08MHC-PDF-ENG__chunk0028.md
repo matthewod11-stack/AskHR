@@ -1,15 +1,23 @@
-# by transformation leaders.
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b57b4489d36c7d76b05514d5ee2b48f3703b3ee3
+title: H08MHC-PDF-ENG
+---
+# purchase basis.
 
-By contrast, the goal of the designed simplicity approach is to simplify workﬂows in advance, achieving a positive user experience for the staﬀ. To ensure this, leaders, managers, and staﬀ collaborate as an integrated team throughout the transformation so staﬀ can provide real-time
+In the race to declare the transformation complete, the eﬃciency
 
-input, rather than just feedback after the fact. This distinction is critical.
+approach adds sustainability metrics to supplier selection criteria while
 
-In the sustainability example, this means stakeholders across functions
+leaving these novel, intricate, multi-stakeholder complexities to be worked out by staﬀ. Transformations are fundamental changes, which means staﬀ are most likely inexperienced in sustainability, and yet they
 
-and up and down the seniority scale collaborate to ensure the workﬂows
+are tasked with solving these complexities in real time alongside all
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+their other business-critical responsibilities. Leadership is frustrated
 
-7
+about underperformance against a transformation that has ostensibly
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+been completed. This pales in comparison, though, to the frustration that their staﬀ feels, with their already diﬃcult jobs now burdened with
+
+an even more complex series of problems where they feel unsupported

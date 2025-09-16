@@ -1,9 +1,21 @@
-## DISPOSITIONAL INFLUENCES ON AFFECTIVE EXPERIENCES AT WORK 145
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 125152d18441a2d275fc0f4b006402c26abd2d74
+title: barrickryan_eds_personality_and_work
+---
+## ual. Odessa, FL: Psychological Assessment Resources.
 
-tive Communication Test. Journal of Personality and Social Psychology, 39, 333–351.
+Davidson, R. J. (1995). Cerebral asymmetry, emotion and affective style. In R. J. Davidson & K. Hugdahl (Eds.), Brain asymmetry (pp. 361–387). Cambridge, MA: MIT Press.
 
-Frijda, N. H. (1993). Moods, emotion episodes, and emotions. In M. Lewis & J. M. Haviland-Jones (Eds.), Handbook of emotions (pp. 381–404). New York: Guilford Press.
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to mo-
 
-Gable, S. L., Reis, H. T., & Eliott, A. J. (2000). Behavioral activation and inhibition in everyday life. Journal of Personality and Social Psychology, 78, 1135–1149.
+tivation and personality. Psychological Review, 95, 256–273.
 
-George, J. M. (1990). Personality, affect, and behavior in groups. Journal
+Fisher, C. D. (2000). Mood and emotions while working: Missing pieces
+
+of job satisfaction? Journal of Organizational Behavior, 21, 185–202.
+
+Fredrickson, B. L. (2000). Extracting meaning from past affective expe- riences: The importance of peaks, ends, and speciﬁc emotions. Cog- nition and Emotion, 14, 577–606.
+
+Friedman, H. S., Prince, L. M., Riggio, R. E., & DiMatteo, M. R. (1980). Understanding and assessing nonverbal expressiveness: The Affec-

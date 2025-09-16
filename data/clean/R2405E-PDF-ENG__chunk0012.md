@@ -1,21 +1,23 @@
-# Through the Enel Innovation Hub Europe
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 978f94dde734aa3276142458b26a1cd8effe0a88
+title: R2405E-PDF-ENG
+---
+## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
 
-2018, the company discovered Aerones, a
+get VC funding. Critically, the size of any single commitment shouldn’t
 
-Latvian start-up that uses automated
+preclude the incumbents from working with other partners.
 
-technology and robotics to do wind-turbine
+To scout out promising ideas, the Italian energy giant Enel sets up
 
-maintenance. As wind turbines doubled in
+innovation centers and events through which it connects with start-ups
 
-height, they became more powerful, but
+and small companies around the world. Each year Enel gets involved in
 
-maintaining them became more complex
+about 200 proof-of-concept tests, spanning projects in the entire value
 
-and dangerous, and operators needed a
+chain for the energy sector. But it forgoes early-stage equity investments
 
-way to handle that task more safely and eﬃciently. During the Enel Green Power
-
-Gjon Mili was a pioneer of strobe and stop-action photography and rapid-fire sequencing techniques used to capture multiple exposures in one frame. His methods of por- traying movement led him to collab- orate with Pablo Picasso, who drew with light in this series for Life mag- azine in 1949.
-
-Bootcamp later that year Enel started to
+in those projects so that it can focus on business results.

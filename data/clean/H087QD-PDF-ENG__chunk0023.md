@@ -1,13 +1,9 @@
-# support my physical health.”
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8975cdc53103f38423dd75fce6a683eac2c0205c
+title: H087QD-PDF-ENG
+---
+# support my mental and emotional health.”
 
-If you’re a team leader and your organization doesn’t have a tool or
-
-framework for setting team norms, you can do this on your own. When
-
-leading your team in this collaboration, make sure to cover:
-
-- The work-life challenges that each team member is managing
-
-- Ways you can support each other with these challenges in mind
-
-- When you’ll be in person together and how you’ll make the most of
+- A 37% increase in agreement with “I am able to dedicate time to

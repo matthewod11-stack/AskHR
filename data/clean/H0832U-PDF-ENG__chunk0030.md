@@ -1,15 +1,15 @@
-## HBR / Digital Article / Leading the 6-Generation Workforce
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1bdb8aca1ae8c69280ae2d7e1657420a73537c18
+title: H0832U-PDF-ENG
+---
+## their favorite theme park rides, both because of the excitement they
 
-is fun to be had during the wait. In the queue, there’s entertainment
+can see and hear from the riders ahead of them and because there
 
-and clarity on the length of the wait and the cause of any delays.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Employers can create the same sense of willingness to wait by gamifying
+6
 
-career pathing: showing people how they can advance by anticipating —
-
-and working toward — the “next level.” By building 6G talent pipeline
-
-architecture, companies can ensure that people can move forward on a
-
-career path with more intentionality and transparency, not to mention
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

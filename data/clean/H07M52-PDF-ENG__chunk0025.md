@@ -1,21 +1,21 @@
-# generate energy:
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e5a6eba95272ed43ebd218e98009253181e99d2
+title: H07M52-PDF-ENG
+---
+## remote environment compounds feelings of isolation because in online
 
-Co-create a sense of meaning — don’t force your own vision. People
+meetings we typically have fewer shared sidebar conversations that
 
-often get caught up in the minutiae of their ﬁelds or customer
+build rapport and interpersonal trust.
 
-engagements, but adopting a bigger-picture view of how they’re helping
+To combat this problem, leaders need to generate energy — essentially
 
-clients, patients, or other stakeholders has measurable and lasting
+building something from nothing. This approach is potentially the most
 
-eﬀects on motivation and performance. Leaders trying to increase
+well understood of the three outlined in this article and has been an
 
-a group’s energy should work with employees to unearth these
+area of focus of organizational leaders during the pandemic. That said,
 
-connections between their work and a greater purpose. Don’t make
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+our research has surfaced three crucial actions for leaders to take to

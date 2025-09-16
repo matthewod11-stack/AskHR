@@ -1,13 +1,13 @@
-## HBR / Magazine Article / Leading Global Teams Effectively
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f2e063db16be91f10393d03ca705b5fcada08ce
+title: R2503K-PDF-ENG
+---
+# Omaha.
 
-A diﬀerent approach is needed for leading global teams. It’s not that
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Western leadership advice is entirely wrong; rather, a global leader
+1
 
-needs a larger toolbox and a more reﬁned understanding of when
-
-and how to use the tools inside. Cultural sensitivity training and even
-
-culture-speciﬁc preparation often fall short because they’re too targeted
-
-and episodic. It’s like trying to teach a robot how to read and respond to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

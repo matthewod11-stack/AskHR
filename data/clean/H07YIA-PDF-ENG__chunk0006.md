@@ -1,11 +1,7 @@
-# Vladana Stanojevic-Ilic/Getty Images
-
-Advancing in a career can come with a variety of beneﬁts — the
-
-more expert one becomes, the more one is sought out for guidance
-
-and perspective. Invitations to give talks, serve in leadership roles, and
-
-weigh in on big decisions begin to accumulate. And before long, others
-
-come to you with requests for mentorship as they embark on their own
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57b9dd34d8d384d9994eb99f1cfcc2991b7e745e
+title: H07YIA-PDF-ENG
+---
+## Published on HBR.org / January 02, 2024 / Reprint H07YIA

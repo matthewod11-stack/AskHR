@@ -1,43 +1,23 @@
-# their word.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be71e24c8465bce58f29680642a417b455a69f0c
+title: H087G0-PDF-ENG
+---
+## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
 
-Caution is advisable because it’s not always possible to predict how
+Creating a network of disclosure — in other words, disclosing your
 
-people will react to your disclosure. Your friendly supervisor may end up showing a cold and suspicious side, but a gruﬀ coworker
+condition to two or more people — can be a part of the solution, though
 
-could turn into your staunchest champion. So, much like when you
+it may sound counterintuitive. After all, doesn’t it increase your chances
 
-took stock of your guiding priorities, start with the basics. Consider
+of experiencing bias? Possibly, but it can also increase the chances you’ll
 
-your organization’s overall culture and standard procedures. Are there
+get the support you need, and research shows that people who make a
 
-policies or practices in place to assist disabled employees? Are there any
+commitment known to others are more likely to keep that commitment.
 
-examples of people who received help for health issues? If so, can you
+If your accommodations are discussed with your manager, HR, and the
 
-ﬁnd out which units and individuals were most considerate of them?
-
-Then, decide who to reach out to. Here are the people and groups you
-
-might look to for support, albeit with downsides for some:
-
-Your manager. Disclosing your health challenges allows your manager
-
-to better understand your needs and provide accommodations that
-
-contribute to your well-being and productivity. These could include
-
-ﬂexible work arrangements, aligning your assignments and tasks with
-
-your abilities, or access to assistive technology. Disclosure could also
-
-help build trust and open the door for better communication. In most
-
-cases, it’s important to have your manager as part of your disclosure
-
-network. That said, not all managers are equipped to support employee
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+accessibility oﬃcer, any one party will have a harder time going back on

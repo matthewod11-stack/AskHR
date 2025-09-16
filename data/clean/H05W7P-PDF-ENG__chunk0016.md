@@ -1,17 +1,19 @@
-## their identities and themselves to potential retaliation as a result.
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eee3359933e905624a9dc0a537c8b53df74676b1
+title: H05W7P-PDF-ENG
+---
+# for resolution.
 
-Toxic company cultures play a ﬁnal role in low rates of reporting, with
+The lack of anonymity oﬀered by most reporting processes is also an
 
-53% of employees in one study citing hostile work environment as a
+issue. Research has consistently demonstrated that oﬀering anonymous
 
-reason for not reporting. If victims feel that not only is it unlikely
+reporting channels increases reporting rates by making it easier for
 
-that their report will result in a harasser being found responsible, but
+people to report and protecting victims against retaliation. While
 
-that their company would also then disregard the ﬁnding or shield the
+many companies have some form of anonymous reporting channel,
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+resolution typically requires that employees come forward and expose

@@ -1,9 +1,7 @@
-# Audit pay equity regularly.
-
-Of course, identifying pay disparities is not a one-and-done activity.
-
-To the contrary, employers should take accountability on an ongoing
-
-basis by conducting regular pay-equity analyses. These audits should
-
-focus on identifying which disparities are fully explainable and which
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16c85f61743587c65b2ebbd82f81bb8cb96f6eb4
+title: H081SB-PDF-ENG
+---
+# bottom line.

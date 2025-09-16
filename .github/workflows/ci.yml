@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      # ...existing test steps...
+
+  eval_sample:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install pydantic tqdm tabulate requests
+      - name: Run eval sample
+        run: python eval/run_eval.py --cases eval/cases.csv --limit 3
+      - name: Upload eval results
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: eval-results
+          path: eval/results/**

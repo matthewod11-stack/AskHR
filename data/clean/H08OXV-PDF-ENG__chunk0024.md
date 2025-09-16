@@ -1,23 +1,37 @@
-## HBR / Digital Article / Research: How “Leisure Crafting” Can Help You Recharge
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a26575746fdf0dec1262511f68e1d6bcb2cc04f5
+title: H08OXV-PDF-ENG
+---
+# all the recipes”).
 
-- 3. Hold Yourself Accountable and Be Willing to Adjust
+Spend a little time at the outset asking yourself speciﬁcs about the goal,
 
-Setting timeframes or journalling can be a useful way to track your
+like: How much time can I commit to? Do I want to set one overarching
 
-progress toward your goals, reﬂecting on what’s worked well and what
+goal (like running a marathon) and then set smaller goals to help me
 
-hasn’t gone as planned. Reviewing old journal entries can also be a
+achieve it (like joining a running group)? What days will I work on this
 
-good way to stay inspired when progress feels slow: looking back at how
+goal? What will “success” look like to me in this context?
 
-incremental actions have moved you toward an accomplishment can
+While many assume that the self-development in leisure means taking
 
-help reignite your commitment.
+on time-consuming hobbies, even small adjustments (e.g., setting a
 
-That said, goals are only useful when you’re working toward them. If
+distance intention before a walk or deciding to engage more socially
 
-a goal is starting to feel like a slog—and you feel yourself dreading
+in a hobby) can yield beneﬁts. But do not let your approach to leisure
 
-it or blowing it oﬀ—it’s probably a good time to adjust and look for
+become so serious that you create a scenario in which both work and
 
-something that feels energizing and possible.
+non-work activities make you feel burnt out. Start small and set a goal
+
+that makes sense for you.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,11 @@
-# well as ﬂexible work arrangements.
+---
+source_path: H07SGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d279013b412ece0104d0a3d4c706f08fd55d38fa
+title: H07SGE-PDF-ENG
+---
+# transparency.
 
-- Its Corporate Sustainability Reporting Directive (CSRD) mandates that,
+- Its Work-Life Balance Directive, which came into eﬀect in 2019, aims
 
-starting in May 2024, any company with €40 million in net turnover,
-
-€20 million in assets, or 250 or more employees that trades in Europe
-
-publish detailed information about their eﬀorts to address a range of
+to set minimum standards for paternity, parental, and career leave as

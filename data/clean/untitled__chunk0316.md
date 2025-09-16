@@ -1,5 +1,9 @@
-# (Rev. ed.). New York: Ronald.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6d693be003dc40d5594f49a8d14a84ea314d5062
+title: untitled
+---
+# Holt.
 
-Woolley, H. T. (1910). A review of recent literature on the psychol-
-
-ogy of sex. Psychological Bulletin, 7, 335–342.
+Woodworth, R. S. (1948). Contemporary schools of psychology

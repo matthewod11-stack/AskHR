@@ -1,9 +1,23 @@
-# months.
+---
+source_path: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas).md
+pages: n/a-n/a
+chunk_id: 77a67ab9e7757a395c7a61644163b465feb1ea0a
+title: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas)
+---
+# supplies, certiﬁcation and recruitment fees, labor disputes, and other conditions.
 
-Employers certiﬁed under H-2A must keep accurate and adequate records with respect to the workers' earnings as well as the hours each
+Workers who believe that their rights under the H-2A regulations were violated may ﬁle their complaints through the Job Service Complaint System, as described in 20 CFR part 658, Subpart E.
 
-worker actually works. In addition the employer must retain a record of time "oﬀered" to the worker but which the worker "refused" to work.
+H-2A workers as well as non-H-2A workers who are engaged in corresponding employment (i.e., performing any agricultural work performed
 
-Records must also include the time the worker began and ended each day, the rate of pay, the earnings per pay period, the worker's home address, and the amount of and reasons for any and all deductions taken from the worker's wages. These records must be kept for three years
+by the H-2A workers or any other work included on the employer's job order) during the validity period of the H-2A contract may ﬁle
 
-after the date of the H-2A certiﬁcation.
+complaints about non-compliance with H-2A labor standards with a local Wage and Hour Division oﬃce. In addition, ETA or any State
+
+Workforce Agency will forward any complaint received about contractual H-2A labor standards between the employer and the employee to a local Wage and Hour Division oﬃce for appropriate action.
+
+The Department's Employment and Training Administration and Wage and Hour Division published a ﬁnal rule implementing changes to the H-
+
+2A program eﬀective March 15, 2010. One of the requirements in the rule is for employers who employ H-2A workers to display the H-2A
+
+poster where employees can readily see it. The poster is also available in Spanish. It will be made available in other languages in the coming

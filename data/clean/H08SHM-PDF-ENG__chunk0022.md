@@ -1,17 +1,15 @@
-# student budget.
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da1809e1cc56da9a7eae15034299142f91bc2858
+title: H08SHM-PDF-ENG
+---
+## Then, in 2012, Alex Krizhevsky, Ilya Sutskever, and Geoﬀrey Hinton
 
-That moment ended the decades-long AI winter, put neural nets at the
+blew the competition away. Using two oﬀ-the-shelf NVIDIA GTX 580
 
-center of progress, and revealed the playbook the ﬁeld still runs on.
+graphics cards, the trio from Toronto was able to train a breakthrough
 
-First, gather relevant data—roughly 14 million labeled images in the
+convolutional neural network in just a few days—a groundbreaking
 
-ImageNet case. Next, rely on metrics to quantify and drive progress.
-
-Last, ﬂood a model with data and GPU muscle until it teaches itself, a
-
-formula that has carried AI from categorizing objects to writing ﬂuent
-
-prose and, most recently, to reasoning, planning, and wielding external
-
-tools in today’s emerging “thinking” systems.
+approach that proved you could bend computer-vision history on a grad

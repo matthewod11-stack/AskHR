@@ -1,13 +1,17 @@
-## mechanical engineering, animal handling, and other hands-on jobs.
+---
+source_path: H07MHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0d5133da02a03127cd7d470bdc3ef1de44fc068
+title: H07MHV-PDF-ENG
+---
+# works.
 
-Spatial visualizers tend to think in patterns and abstraction, and are
+I am not the only kind of visual thinker. It turns out there is another
 
-often skilled in mathematics, computer programming, and music. We
+type, with its own unique perspective and skill set: spatial visualizers.
 
-have distinct approaches to problem solving: Object visualizers can see
+This distinction was identiﬁed by Maria Kozhevnikov and her team
 
-how mechanical devices work, while spatial visualizers calculate how
+of researchers at Harvard. People like me, who think in photorealistic
 
-they are supposed to work. I’ve made the analogy that object visualizers
-
-make the trains, and spatial visualizers make them run. We need both
+pictures, are known as object visualizers. We tend to be good at design,

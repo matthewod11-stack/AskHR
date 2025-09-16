@@ -1,21 +1,43 @@
-## It Takes Time to Develop a Culture of Care
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0de33cab7c82720817c1e134513195cba4f7ed6
+title: H08Q8O-PDF-ENG
+---
+# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
 
-Creating a culture of care can be challenging for organizations because it’s based in eﬀectiveness, not eﬃciency. This notion is anathema to
+not. Many assistants had longer commutes and more-complicated
 
-most executives and often leads companies to outsource or delegate
+childcare situations than the senior partners. Aware of the importance
 
-care work by sending their managers to customized executive retreats, coaching programs, or special curated events. These eﬀorts are usually
+of the assistants’ work and acknowledging the necessity for his ﬁrm to
 
-self-defeating, however—on a day-to-day basis, employees can easily
+retain them, the CEO decided to adapt the policy to their needs and
 
-see what the company really cares about.
+allow them to work from home several days a week. In consequence, he
 
-The ethics of care can bridge this disconnect. If the old psychological
+told the senior partners that they would have to adapt and get used to
 
-contract called for managers to be rulemakers and fair judges, the ethics
+not having their personal assistants on-site all the time.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Our view is not that policies should never be set or that existing ones
 
-15
+be abolished but that they should be treated as values rather than rules.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Novo Nordisk doesn’t have an enforced rule about hybrid work but
+
+rather it has a formal opinion, which is that people should work in the
+
+oﬃce a little more than at home. So on average you should be working
+
+in the oﬃce more than 2.5 days a week. But one manager we spoke
+
+to explained, “We believe in ﬂexibility,” meaning that employees have
+
+a variety of hybrid work arrangements and exceptions can be granted for diﬀerent reasons. Attentive adaptability suggests that to rebuild
+
+the psychological contract, managers need to move away from a rigid
+
+standard and instead think of a template with guidelines that can be
+
+discussed with employees.

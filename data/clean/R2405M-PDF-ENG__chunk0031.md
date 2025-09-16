@@ -1,21 +1,13 @@
-# investment?
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b28d79a1bf1f29f5172b39e1b9795df3a967cc07
+title: R2405M-PDF-ENG
+---
+# Case Study Classroom Notes
 
-- 3. Aminata wants to be professional and respect familial courtesy. Could
+- 1. The “merit or inherit” dilemma vexes many family businesses. Research
 
-she improve her presentation style?
+has shown that professional management, given the right conditions, can produce better results than a family-only structure. What advantages do you see in each approach?
 
-- 4. Côte d’Ivoire exports power but faces power deficits, especially when drought lowers water levels at its hydropower dams. Rationing often impairs industry. Millions of Ivorians have no access to electricity.
-
-- 5. Some studies suggest that exposure to a family business creates
-
-pressure and feelings of inferiority, making a potential successor more likely to leave the company. Others posit that it transmits positive parental values. Which outcome seems likelier to you?
-
-- 6. A weak transport infrastructure, low harvests, and farmers’ limited
-
-access to both capital and markets mean that Côte d’Ivoire is a net food importer.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 2. What are the risks and opportunities of buying land as a future

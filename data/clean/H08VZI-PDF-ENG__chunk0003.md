@@ -1,9 +1,7 @@
-## Every two years, like clockwork, one of the largest automotive parts
-
-manufacturers in the world faced what it called a “big event”: a large
-
-project went oﬀ the rails, costing the company a minimum of $80
-
-million to $100 million each time. When a new president joined the
-
-organization, he decided to investigate what was behind this expensive
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb9d542145e9cf361ac55ed66b8c28959aad492d
+title: H08VZI-PDF-ENG
+---
+# Illustration by Skizzomat

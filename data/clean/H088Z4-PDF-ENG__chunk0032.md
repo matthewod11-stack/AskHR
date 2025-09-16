@@ -1,9 +1,9 @@
-## over the past year in relation to these longer-term objectives. The
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16a5e47c8dd493930cc9fe5c7fcb60f365fa9171
+title: H088Z4-PDF-ENG
+---
+## aspirational targets (or KPIs) for various diversity dimensions and then
 
-current climate is likely to compel companies to more carefully consider
-
-how they formulate and communicate their diversity goals in similar
-
-ways, but this is unlikely to change the important role that transparency
-
-and genuineness play when reﬂecting on a company’s progress towards
+candidly reﬂects on the diﬀering degrees of progress they have made

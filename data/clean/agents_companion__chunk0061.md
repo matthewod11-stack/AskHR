@@ -1,33 +1,29 @@
-# and relevance.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 4ab8d1eb7cd46de6f167764db83940c06db4a3ba
+title: agents_companion
+---
+# and decision-making:
 
-- Orchestration layer: The orchestration layer is a cyclical process that dictates how the
+- Model: Within the agent's framework, the term "model" pertains to the language
 
-agent assimilates information, engages in internal reasoning, and leverages that reasoning
+model (LM) that functions as the central decision-making unit, employing instruction-
 
-to inform its subsequent action or decision. This layer is responsible for maintaining
+based reasoning and logical frameworks. The model can vary from general-purpose to
 
-memory, state, reasoning, and planning. It employs prompt engineering frameworks to
+multimodal or fine-tuned, depending on the agent's specific requirements.
 
-steer reasoning and planning, facilitating more effective interaction with the environment
+- Tools: Tools are critical for bridging the divide between the agent's internal capabilities
 
-and task completion. Reasoning techniques such as ReAct, Chain-of-Thought (CoT), and
+and the external world, facilitating interaction with external data and services. These
 
-Tree-of-Thoughts (ToT) can be applied within this layer.
+tools empower agents to access and process real-world information. Tools can include
 
-Building on these foundational concepts, this companion paper is designed for developers
+extensions, functions, and data stores. Extensions bridge the gap between an API and
 
-and serves as a "102" guide to more advanced topics. It offers in-depth explorations of agent
+an agent, enabling agents to seamlessly execute APIs. Functions are self-contained
 
-evaluation methodologies and practical applications of Google agent products for enhancing
+modules of code that accomplish specific tasks. Data stores provide access to dynamic
 
-agent capabilities in solving complex, real-world problems.
-
-7
-
-While exploring these theoretical concepts, we'll examine how they manifest in real-world
-
-implementations, with a particular focus on automotive AI as a compelling case study. The
-
-automotive domain exemplifies the challenges and opportunities of multi-agent architectures
-
-in production environments. Modern vehicles demand conversational interfaces that function
+and up-to-date information, ensuring a model’s responses remain grounded in factuality

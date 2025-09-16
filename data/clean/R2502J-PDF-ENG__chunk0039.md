@@ -1,7 +1,15 @@
-# disciplinary action.
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 963b7da288f805dfa2be0abb36e74c6a1a753a27
+title: R2502J-PDF-ENG
+---
+## specify acceptable and unacceptable behaviors and procedures. If
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+cheating involves bending or breaking rules or providing false
 
-10
+information, add language prohibiting inappropriate practices and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+reinforcing the consequences for employees who violate the policies.
+
+Consequences might include denial or clawbacks of incentives and

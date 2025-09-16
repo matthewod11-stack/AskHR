@@ -1,13 +1,41 @@
-## the heads of risk, compliance, sales, and human resources, as well
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8409d29e9c8d6f69fe93e4c56d6d0b09de34bcd8
+title: H08TA2-PDF-ENG
+---
+## into capability areas—like “virtual care experience” and “clinical
 
-as the business unit general managers, to discuss capability-focused
+operations technologies”—and created standing 1:3 capability meetings
 
-topics. Because the right people were hearing the context in real
+that included product, operations, and engineering leaders. As a result,
 
-time, execution accelerated. Leaders no longer had to “sell” decisions
+go-to-market cycles shortened by 20%, and duplication and friction
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+across teams dropped signiﬁcantly.
 
-6
+Ensure the right people are listening. One of the quiet ineﬃciencies of 1:1s is that they pull decisions
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+into private channels, where the people most aﬀected often aren’t
+
+present. That means leaders have to replay discussions for others
+
+later, or relitigate decisions once new information surfaces, leading to
+
+misunderstanding, misalignment, or delayed action.
+
+You can use capability meetings to bring together the speciﬁc leaders
+
+whose functions intersect around a given issue. This ensures that the
+
+people who need to understand and act on the information are hearing
+
+it at the moment it matters. No one has to wait to be briefed later.
+
+This kind of targeted presence builds sharper shared judgment and
+
+eliminates the need to re-translate decisions across silos.
+
+At a ﬁnancial services ﬁrm I’ve consulted with, the CEO replaced many
+
+of his 1:1s with capability meetings like “go to market,” “operational eﬃciency,” or “enterprise talent,” convening various combinations of

@@ -1,15 +1,13 @@
-## HBR / Digital Article / How Managers Can Dismantle “Benevolent Marginalization”
+---
+source_path: H07PM3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65d9ebc586f62488879253ae4b0a87f48ba48475
+title: H07PM3-PDF-ENG
+---
+# the talk” on inclusivity.
 
-- 3. Create supportive spaces by handing over responsibilities to disadvantaged individuals. Overcoming benevolent marginalization requires the creation of both
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-formal and informal supportive or “safe” spaces in the workplace
+7
 
-where marginalized groups can freely express themselves and expose
-
-behaviors they perceive as paternalistic or patronizing. However, it
-
-is not enough to unite marginalized employees in, say, an employee
-
-resource group (ERG) and expect them to form an empowering
-
-collective without further support. True inclusion demands a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

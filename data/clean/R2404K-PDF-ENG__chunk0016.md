@@ -1,19 +1,15 @@
-## Second, again in partnership with the outside investor, the corporation
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: caaa2a6dc49aac2478177e1053b19c46d1f06272
+title: R2404K-PDF-ENG
+---
+# The Growth Driver Model
 
-sets up an oﬀ-balance-sheet “accelerator” company that identiﬁes and
+Our model has three stages. First, a corporation partners with an
 
-builds out the innovation projects for which the corporation will be
+outside investor and identiﬁes where riskier innovations are needed,
 
-the customer. Finally, innovations are developed. As the accelerator
+how these innovations would ﬁt into the ﬁrm’s strategy, and how
 
-takes form, corporate leaders, investor partners, and the accelerator’s
-
-management team identify a pipeline of “growth drivers”—products
-
-and services that will generate long-term revenue growth in markets
-
-where the ﬁrm is already established or in closely adjacent markets.
-
-The corporation then establishes an operating model for these new
-
-products that leverages its existing sales, manufacturing, regulatory,
+they might be integrated into its operational and functional units.

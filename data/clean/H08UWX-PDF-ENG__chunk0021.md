@@ -1,13 +1,13 @@
-# Recommendations for Leaders
+---
+source_path: H08UWX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20b5c9a091d02d458a52b0ca0c1fc8615827879e
+title: H08UWX-PDF-ENG
+---
+## software-development assistance, strategic perspective, and prompt
 
-Our ﬁndings point to several concrete steps that organizations can take
+engineering. But those conversations remain the exception rather than
 
-to align their hiring processes with their stated priorities:
+the rule, representing a signiﬁcant missed opportunity to identify
 
-Implement structured interview guides. Intentional questioning
-
-matters: Companies should develop comprehensive interview guides
-
-that ensure all critical skills receive explicit attention and include
-
-mechanisms to track interviewers’ compliance during the process.
+candidates who could drive AI adoption within organizations.

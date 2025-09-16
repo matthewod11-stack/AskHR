@@ -1,17 +1,35 @@
-## performance review with her direct reports, not just the good parts, but
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20168aba6be6e8d94fbd456d2fd2c631988f6c46
+title: H07T7V-PDF-ENG
+---
+## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
 
-the stuﬀ that she needs to work on too. These are all just great moves to
+nonsense business. The company is not a therapy group. It’s not there so
 
-start to show the rest of the organization it is okay not to be perfect, not
+you can sit around feeling vulnerable all the time. I was just wrong.
 
-to put on the brave front, not to be winning all of the time.
+Now, the company is not your therapy group. However, a successful
 
-Jack Welch’s autobiography was called Winning, and it epitomized this
+company needs to be a place where it’s okay to be wrong, to fail, to
 
-industrial era view of what you have to do all day every day. I love the
+not have the answer, to show that you’re uncertain. Nadella helped get
 
-geek view, which is, “Hey, man, we’re going to launch some rockets and
+Microsoft down that path, and it was an absolutely fundamental thing
 
-they are going to blow up. Now, we’re not going to kill anybody, but
+to do.
 
-we’re absolutely going to launch some rockets that are going to blow up
+I also interviewed Yamini Rangan, who’s the CEO of HubSpot here in
+
+Cambridge, who took over a culture and has strengthened it through a really diﬃcult time through the pandemic.
+
+She discussed one of the things she learned and that she was good at
+
+was saying in this unbelievably uncertain time of the pandemic where
+
+tech companies were shrinking. It was all weird. She said to a lot of
+
+her constituencies, “Look, I don’t know. I don’t know what the future
+
+holds here. I’m going to be honest with you.” She also shared her board

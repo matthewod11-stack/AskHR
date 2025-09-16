@@ -1,5 +1,15 @@
-# 66
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: e1bb75da317a644f1b714c1004ea5203426c2d47
+title: file_1
+---
+# INTRODUCTION
 
-Jackson and Grabski, 1988). The current study concentrates on the perceptions of employees and, thus, explores not only how individual but also employment factors can be related to Drawing on the gender socialization employees’ perceptions of gender inequality. perspective (Stockard, 1999), anticipatory injustice model (Shapiro and Kirkman, 2001), relative deprivation theory (Crosby, 1982), and role-balance theory (Marks and MacDermid, 1996), the study extends knowledge about factors related to the way employees perceive both societal and workplace gender inequality.
+Stratification scholars have revealed structural inequalities across nations and over time along the lines of class, gender, and race (Crompton and Mann, 1986; Lam, 2004). Various patterns of inequality have been distinguished: inequality of outcome, opportunity, merit, and entitlement (Baker, Lynch, Cantillon and Walsh, 2004). A growing awareness of gender inequality as well as a conviction that this inequality should be eliminated has produced a number of studies aiming at uncovering the reasons for it (e.g., Acker, 2006a; Kanter, 1977; Neff , Cooper and Woodruff, 2007; Reskin, 2003; Sen, 1995; Teigen and Wängnerud, 2009).
 
-One of the objectives of the study is to reveal individual and employment factors, which are related to employees’ perceptions of societal and workplace gender inequality. Drawing on several social psychological theories and perspectives, a conceptual model consisting of both individual and employment factors is developed. It is tested by applying data from the Finnish Gender Equality Barometer 2008, which investigates the experiences and attitudes of individuals in matters concerning gender inequality. Another objective is to attempt to understand why so many employees tend to see gender inequality at the societal level but deny its existence at the organizational level.
+Whatever the level of gender inequality measured by different indicators, there is also a subjective dimension, which concerns how visible it is for individuals. Visibility of inequality, defined as ‘the degree of awareness of inequality’ (Acker, 2006a: 452), may vary considerably. Acker (2006a) argued that people generally see inequality as existing somewhere else, not where they are. Gender inequality is not an exception. It tends to ‘disappear’ among organizational members or is seen as something that does not exist in specific organizations (Acker, 2006a; Ely and Meyerson, 2000; Korvajärvi, 1998; 2003).
+
+While van den Brink and Stobbe (2009) empirically examined perceived gender inequality in organizations, followed by Durbin and Fleetwood (2010) who studied perceived gender inequality in employment, few studies have compared to some extent the way people perceive both societal and workplace gender inequality (Acker, 2006a; Hearn, Piekkari and Jyrkinen, 2009). However, it is important to investigate the distinction between perceptions of societal and workplace gender inequality since it may reveal visibility of societal gender inequality among individuals and its disappearance in their own workplaces. By exploring social psychological aspects of both societal and workplace gender inequality through a large scale survey, the present study broadens our knowledge about the perceived gender inequality.
+
+Previous studies have shown that such factors as gender, age, education, marital status are related to individuals’ perceptions of gender inequality (e.g., Davis and Robinson, 1991;

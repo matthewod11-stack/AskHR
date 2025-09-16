@@ -1,5 +1,15 @@
-# by a leader.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4c0e4bfb8b501171d3ea2915322bb2065391a74d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# In an experiment, the group of
 
-External equity The extent to which employees within an organization are paid fairly compared with employees in other organizations.
+subjects that receives the experimental treatment of interest to the experimenter.
 
-External locus of control The extent to which people believe that their success and failure is determined by external sources (e.g., luck, other people).
+Expert power Power that individuals have because they
+
+have knowledge.
+
+Expertise The amount of knowledge or skill possessed

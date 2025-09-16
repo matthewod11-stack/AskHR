@@ -1,9 +1,17 @@
-## of startups within the same commuting zones.
+---
+source_path: H08HCJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2df388cf2ec7845b82c052cb70bc5855696bb6dd
+title: H08HCJ-PDF-ENG
+---
+# these eﬀects in our study.
 
-. . .
+Additionally, we measured startup growth by how many jobs they
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+were able to post compared with other startups at similar gestations,
 
-5
+but there are many other ways of measuring growth that we did not
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+examine in this study, for example, revenue. That said, our work
+
+provides compelling evidence that large ﬁrms seem to aﬀect the growth

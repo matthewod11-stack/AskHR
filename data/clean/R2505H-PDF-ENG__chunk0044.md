@@ -1,31 +1,29 @@
-## HBR / Magazine Article / The Founder’s Final Act
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2fe3cb1bdc523fdebb8d4751e8f5d608006dca8
+title: R2505H-PDF-ENG
+---
+## one of the oldest companies in the United States, the Philadelphia
 
-Donate ownership to charity. The founder of Rolex, Hans Wilsdorf, gave
+Contributionship, a home-insurance company that was founded by Ben
 
-all his shares to a foundation that owns 100% of the company. Each
+Franklin in 1752. Cooperatives and mutual companies (like State Farm
 
-year, the foundation distributes an estimated 300 million Swiss francs
+and Northwestern Mutual) can align the interests of the executives and
 
-(about $360 million) to charitable causes. Paul Newman donated 100%
+customers, allowing for a value-driven approach to decision-making.
 
-of the company he’d founded, Newman’s Own, to a foundation that
+However, the number of sectors where ownership by customers is
 
-supports children in need. While charitable ownership is challenging
+practical is relatively small. Businesses owned by customers can also
 
-in the United States, the “Newman’s Own exception” allows founders
+struggle to get capital and stagnate because of lower ﬁnancial pressure
 
-to give an entire company to a charity. In other countries, company
+to perform.
 
-ownership by charitable entities is much easier and more common.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Charitable ownership can create a permanent home for a business that
+9
 
-is driven by creating value for stakeholders rather than by maximizing
-
-proﬁts. Proﬁts that aren’t reinvested can be directed to causes important
-
-to the founder. Beyond the limited options available in the United
-
-States, the main downside to this approach is that a charity may not
-
-be motivated enough by ﬁnancial performance to provide eﬀective
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

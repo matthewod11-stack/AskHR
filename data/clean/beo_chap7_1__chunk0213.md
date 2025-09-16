@@ -1,3 +1,9 @@
-## Quarterly Journal of Economics 118:107-55.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 12b64b6baf1a5bc323122cc692707c7233b6ed8d
+title: beo_chap7_1
+---
+# of Michigan Working Paper.
 
-Hall, B., and K. J. Murphy. 2003. The trouble with stock options. Journal of Economic
+Gompers, P. A., J. L. Ishii, and A. Metrick. 2003. Corporate governance and equity prices.

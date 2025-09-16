@@ -1,9 +1,9 @@
-# underdeliver.
+---
+source_path: H08PKP-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: cfb42fb3c4d46f98cdbb0fb5ab2680eb9cc74aee
+title: H08PKP-PDF-ENG (1)
+---
+## Key Insight: Leaders with a strong decision-making process gain
 
-. . .
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+credibility, whereas those who agree blindly erode trust when they

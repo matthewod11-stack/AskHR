@@ -1,5 +1,13 @@
-# Relatively Structured Tests
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8acc3d97afaa3765f929634b4f720b011592651e
+title: untitled
+---
+## Identifying Personality Characteristics and Psychopathology
 
-The entry of the United States into World War I inﬂuenced as- sessment psychology by creating an urgent need to evaluate not only the intellectual level of draftees, as noted earlier, but their emotional stability as well. Reports from France in 1917 indicated that the war effort was being hampered by the pres- ence in the ranks of mentally fragile soldiers who could not tolerate the psychological stress of combat. In response to these reports, Robert Woodworth (1869–1962), a prominent experimental psychologist who had done his doctoral work with Cattell and later succeeded him as department head at
+ments are probably more appropriately classiﬁed as belong- ing to a category of “performance-based” measures, as has been proposed by the American Psychological Association Work Group on Psychological Assessment (Kubiszyn et al., 2000; Meyer et al., 2001). By contrast with self-report data, the data obtained by performance-based measures consist not of what people say about themselves, but of the manner in which they deal with various tasks they are given to do.
 
-283
+A third thread in the history of methods for assessing per- sonality characteristics and psychopathology comprises in- terview procedures. Assessment interviews are similar to self-report measures, in that respondents are asked directly what the assessor wants to know. Unlike relatively structured tests, however, which are typically taken in written form and involve little interaction with the examiner, interviews are in- teractive oral procedures in which the participants engage in a conversational exchange. Moreover, assessment interviews include a performance-based as well as a self-report compo- nent, in that interviewers typically base their impressions not only on what respondents say about themselves, but also on how they say it and how they conduct themselves while being interviewed.
+
+The fourth thread consists of behavioral procedures that epitomize performance-based assessment. In behavioral as- sessment, the manner in which respondents conduct them- selves is not an ancillary source of information, but instead constitutes the core data being obtained. Respondents are asked to perform tasks selected or designed to mimic certain real-world situations as closely as possible, and their perfor- mance on these tasks is taken as a representative sample of behavior that should be predictive of how they will act in the real-world situation. Gideon’s previously mentioned method of selecting his troops exempliﬁes assessment based on ob- serving behavior in representative circumstances. As elabo- rated next, behavioral assessment, like the other three threads of personality assessment history, has a unique lineage with respect to how, why, and by whom it became established.

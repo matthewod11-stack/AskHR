@@ -1,3 +1,7 @@
-# JK
-
-J. Daniel Kim is an assistant professor of management at the Wharton School. His research is at the intersection of entrepreneurship, strategy, and labor markets. He has conducted studies on the drivers of venture scaling and performance, acquisitions of startups, and the broader role of entrepreneurship in the US economy.
+---
+source_path: H08ERV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 678e29793b9c71ee61c08ec024dd01ec5eed7701
+title: H08ERV-PDF-ENG
+---
+## HBR / Digital Article / Research: When Should Startups Scale?

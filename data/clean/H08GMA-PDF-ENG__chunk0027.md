@@ -1,13 +1,21 @@
-# promotion rates.
+---
+source_path: H08GMA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fa3870578ef90e9c5b92e43d919a30aacc48948
+title: H08GMA-PDF-ENG
+---
+# rates equitable to younger men.
 
-Third, companies need to broaden the conversation about ageism to
+Second, companies need to address the broken rung, given that the
 
-include youngism. As companies work to foster a culture of respect and
+greatest barrier to women ascending to the top is getting stuck at the
 
-inclusion, they should address the distinct microaggressions and biases
+entry level. Fixing the broken rung will require that companies take a
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+closer look at their people processes to ensure fairness. Best practices
 
-5
+involve tracking promotion rates by gender, race, and level to uncover
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hidden barriers, then working to mitigate and block the biases that
+
+can drive gender and racial disparities in performance evaluations and

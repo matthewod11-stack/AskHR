@@ -1,37 +1,45 @@
-# compensation polices, employee benefits, arbitration clause, drug testing polices and
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: a295aada551c699a383219b6f6fbba453312359d
+title: california_state_university_northridge_1
+---
+# disciplinary action and or possible examples of what constitute appropriate and inapproiate
 
-applicable laws. Based of the basics, there may not be a need for drug testing policies and
+behavior. He goes on further to suggest that the employee's expectations and any type of
 
-every organization my not have an arhitration c1anse ThP rPH~on rHscipll11e procedure w.ay
+questions and answers would be contained here.
 
-not be listed is because they have caused lawsuits in which have been costly to employers
+Another area mention in this article is protection from lawsuits for both the employer
 
-(Ramirez, 1998, p. 3).
+and employee. A key issue mentioned are employers who do not adhere to the guidelines
 
-Marissa J. Ventura, writes in an article tilted, "When age makes you a cut back
+stated with the handbook. In a sense, he is writing that organizations that do not comply with
 
-target." The article opens by illustrating examples where employees who are older and paid
+the stated material can possible find an employee using the verbiage in the handbook against
 
-more are being let go and or demoted, since the position they were in is no longer needed.
+them as evidence for any legal action. On the other haiid, a handbook may also work against
 
-This is all done in an effort to save money for the organization for budgetary reasons.
+the employee for not having k.nowledge of the contents. This portion of the article is
 
-Furthermore, higl-Jy paid personnel are being terminated for mh1or errors that previously were
+9
 
-10
+supported by David Deromedi, an employment law attorney for the law firm of Dickinson,
 
-dealt with a slap on the wrist. The article goes on to suggest that this is nothing more than a
+Wright, Moon, Van Duesen & Freeman. Mr. Ramirez refers to labor relation experts who
 
-subterfuge for the real issue of age; this position is taken by attorneys.
+argue that employee manuals are binding contracts between employers and their employees.
 
-The arena of focus is the medical profession, in particular nurses and how they were
+From this, it can be concluded that those who view handbooks as binding are less likely to
 
-phased out of certain positions. As stated, the reason is that she or he is within an age range,
+have them in a business where they are employed.
 
-which they are paid more and are at senior positions. This type of downsizing and or
+At the end Mr. Ramirez article indicates from various lawyers, since the workplace is
 
-termination, will lead to an increase in the age discrimination suits. We are reminded that the
+constantly changing, all that is needed are the basics and what the company entitles to the
 
-Age Discrimination Employment Act (ADEA) prohibits discrimination of employees above 40
+employees. Meaning if an organization wants a broad base handbook it should be tailored
 
-years of age for the sole basis of their age. A key point is that this has been extended to all
+around that organization's culture. This article is ended by some basic things that should be
+
+included in every manuai a distinction between part time and full time employees,

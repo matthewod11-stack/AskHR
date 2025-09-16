@@ -1,11 +1,9 @@
-## own experience, powers of observation, and creativity.
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15fb3ad263229886db4567144f86c8317a9e592a
+title: S25012-PDF-ENG
+---
+## HBR / Spotlight / The Secret to Successful AI-Driven Process Redesign
 
-The platform also helps teams identify bottlenecks in the supply
-
-chain. Meanwhile, the company’s software developers are using
-
-GitHub Copilot, the AI-powered assistant that turns natural-language
-
-prompts into coding suggestions. This frees them up to spend more
-
-time addressing complex process issues and integrating software
+than replace, workers’ ability to generate improvements based on their

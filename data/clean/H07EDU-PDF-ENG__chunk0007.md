@@ -1,11 +1,15 @@
-## Redﬁn (13%), Lyft (13%), Stripe (14%), Snap (20%), Opendoor (18%), Meta
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 362eb82a191be5b60f5dd803333f986c00a5c731
+title: H07EDU-PDF-ENG
+---
+# Martin Barraud/Getty Images
 
-(13%), and Twitter (50%). So many companies have initiated layoﬀs
+Today it’s difﬁcult to read the news without seeing an announcement
 
-recently that tech and HR entrepreneurs launched trackers like TrueUp
+of layoﬀs. Just this week, Morgan Stanley announced it will reduce its
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+workforce by 2%, Buzzfeed said it would cut headcount by 12%, and
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+PepsiCo said it plans to cut “hundreds” of jobs. The same is true at

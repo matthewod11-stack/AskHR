@@ -1,23 +1,29 @@
-## HBR / Magazine Article / Your Company Needs an Eldercare Policy
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2321d19f7496ea3ddfe61cd5533b642223617f50
+title: R2504F-PDF-ENG
+---
+# Who Provides Eldercare?
 
-by our estimate, they are responsible for providing at least two-thirds
+According to the U.S. Bureau of Labor Statistics, nearly half (45%) of
 
-of eldercare in the United States. Many elder caregivers (21%) have
+all elder caregivers are between the ages of 45 and 64, which means
 
-children under 18, which means they’re sandwiched between the
+many are at the height of their earning power and organizational
 
-generations and have a great need for ﬂexible support on the job.
+responsibility. They and their employers therefore have a great deal at
 
-The work that elder caregivers do is varied,
+stake in avoiding disruptions to their employment.
 
-and the mix often changes over time. But
+As with childcare, women who provide eldercare are those most in
 
-here’s a representative sampling: They
+need of support. They make up the majority (59%) of providers and
 
-provide emotional and social support,
+spend more time in their caregiving roles than men do. As a result,
 
-including companionship, conversation,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-and meaningful activities. They provide
+4
 
-household support, including cooking,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

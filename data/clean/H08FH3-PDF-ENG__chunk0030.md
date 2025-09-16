@@ -1,17 +1,15 @@
-# HBR / Digital Article / What Employers Get Wrong About How People Connect at Work
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5a61a99e26d7adae3823d049754d80159ede2792
+title: H08FH3-PDF-ENG
+---
+## of the patchwork principle and strive for a portfolio of policies that
 
-At this moment in work, when employers and employees are
+incorporate all four pillars of connection.
 
-contending with lagging engagement, rapid and constant change, and a
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-general lack of trust, getting workplace connections right is a business
+5
 
-imperative. As such, it’s crucial that business leaders move beyond a
-
-one-dimensional view, and get clear on what workplace connections
-
-really are and how to leverage them to create the best outcomes for their
-
-employees and business. Having a conceptual framework for the type of
-
-workplace connections employees value is a step in the right direction
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,13 @@
-# 234 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: de3021c07989297caefe2c31d485c7bb04c24520
+title: barrickryan_eds_personality_and_work
+---
+# UNDERSTANDING THE DYNAMIC LEARNER 233
 
-(ATI) effects. There are too few studies on ATI effects in the train- ing literature and an absence of a taxonomy of learning situations on which to build a cumulative review.
+Personality Training research focusing on personality has sought to under- stand the stable individual differences that have an impact on mo- tivation to learn and subsequent knowledge and skill acquisition (Noe, 1986). A number of researchers have provided evidence sup- porting a positive relationship between trainee motivation to learn and scores on learning measures (Mathieu, Tannenbaum, & Salas, 1992; Noe & Schmitt, 1986). Such research has also found that fac- tors such as demographics (age, education), work-related attitudes (job involvement, career planning, organizational commitment), and personality or trait factors (locus of control, anxiety, goal ori- entation) have an impact on learning processes and outcomes (see the review by Mathieu & Martineau, 1997).
+
+A recent meta-analytic integrative review by Colquitt, LePine, and Noe (2000) linked trainee characteristics to motivation to learn and learning measures. These researchers accumulated evidence across results from over one hundred studies, revealing a number of important relationships. Regarding personality traits, the meta- analysis contained enough data from individual studies to report on three traits from the Big Five: locus of control, trait anxiety, and con- scientiousness. Results showed a strong relationship between locus of control and motivation to learn: those with an internal locus of control showed higher motivation levels on average than those with an external locus of control. In addition, trainee trait anxiety was related to motivation, with highly anxious trainees tending to be less motivated to learn and less self-efﬁcacious. An individual’s level of conscientiousness was indirectly related to the motivation to learn through its effect on pretraining self-efﬁcacy. Motivation to learn was positively related to knowledge and skill acquisition, reactions of the trainees to the training program, and transfer of training indexes.
+
+These meta-analytic ﬁndings support the notion that personal- ity traits such as conscientiousness can affect learning outcomes through their inﬂuence on motivation to learn. Yet it is clear from the limited information that the meta-analysis could gather across studies that more research is needed. Only a small subset of the per- sonality domain has been incorporated into training studies. Colquitt et al. (2000) note that traits such as cognitive playfulness, positive and negative affectivity, need for dominance, and compet- itiveness have been examined in only one or two studies. Also, the meta-analysis could not examine aptitude-treatment interaction

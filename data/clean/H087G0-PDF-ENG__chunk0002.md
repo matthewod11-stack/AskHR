@@ -1,5 +1,7 @@
-## How to Weigh the Risks of Disclosing a Disability
-
-A guide to help you decide — and find support. by Ludmila N. Praslova
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4c286137fc2f95d2a7e3a03cce0d7a069d6ab2c7
+title: H087G0-PDF-ENG
+---
+# Disabilities

@@ -1,19 +1,17 @@
-## Design of an employee engagement programme
+---
+source_path: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1.md
+pages: n/a-n/a
+chunk_id: c40ed8123974e316e2f8dac1986f7e9268ab801f
+title: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1
+---
+# moderately satisfactory with realistic deadlines and adequate physical work conditions.
 
-The employee satisfaction level in the organization is satisfactory. The following points are
+Sometimes work pressure interfered with personal life thereby causing some dissatisfaction to
 
-suggested to
+the respondents. Respondents showed very low satisfaction with teamwork as it caused
 
-the management to enhance employee commitment
+confusions at work thereby slowing down the pace of work. They also felt that communication
 
-leading to employee
+between the top management and employees were not clear and information on strategies and
 
-engagement. These include:
-
-- (cid:32) Communications activities
-
-- (cid:32) Reward schemes
-
-- (cid:32) Activities to build the culture of the organisation
-
-- (cid:32) Team building activities
+activities were not transparent on all occasions.

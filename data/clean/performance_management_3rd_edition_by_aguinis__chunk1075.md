@@ -1,5 +1,7 @@
-# 6.5.5 Customers
-
-Customers, and other key stakeholders in general, provide yet another source of performance information.29 Collecting information from customers can be a costly and time-consuming process; however, performance information provided by customers is particularly useful for jobs that require a high degree of interaction with the public or with particular job-related individuals (e.g., purchasing managers, suppliers, sales representatives). Also, performance information can be collected from internal customers. For example, line managers may provide information regarding the performance of their HR representative. Although the clients served may not have full knowledge of the orga- nization’s strategic direction, they can provide useful information. For example, consider how this is done at Federal Express (http://www.fedex.com/us//). Federal Express revised its performance management system to include measures of customer service.30 Currently, the company uses a six-item customer-satisfaction survey, which is evaluated by a representative sample of the employee’s customers at the end of the year. As a result of adding customer input and customer-developed goals to the performance review process, employees are more focused on meeting customer expectations.
-
-Although Federal Express is now using external customer input in evaluating performance, organizations in other industries have some catching up to do. For example, a recent study examining appraisal forms used to evaluate the performance of account executives in the largest advertising agencies in the United States found that much more emphasis is placed on internal than on external customers.31 Specifically, external client feedback was measured in only 12% of the agencies studied. About 27% of agencies do not evaluate the contributions that account executives make to client relationships and to growing the client’s business. In short, advertising agencies might benefit from assessing the performance of account executives from the perspec- tive not only of internal but also external customers.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 268c10da7f4e4bf264f9b00cc5322501c188a529
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 6 • Gathering Performance Information

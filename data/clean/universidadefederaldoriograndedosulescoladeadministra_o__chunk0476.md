@@ -1,3 +1,15 @@
-# respondesse mais de uma vez.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 459c7ef14284bef42f01b6eac4e3a09bdc43a106
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## formulário permaneceu aberto aceitando respostas, 42 retornos foram coletados, o
 
-53
+que representa cerca de 1% da população total de funcionários ativos da empresa.
+
+O questionário foi estruturado em Google Forms e disponibilizado por meio de
+
+link pelo qual os funcionários acessaram para responder às questões. Apesar de
+
+não identificar os respondentes, a ferramenta não permitia que a mesma pessoa o

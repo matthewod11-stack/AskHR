@@ -1,39 +1,35 @@
-## HBR / Digital Article / 5 Things Employers Get Wrong About Caregivers at Work
+---
+source_path: H07CJU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7996386b33604e6d73f9a7357801db8412c0170d
+title: H07CJU-PDF-ENG
+---
+## Deloitte University Leadership Center for Inclusion report, Uncovering
 
-the time blocked on your calendar as “busy,” share the reason you are unavailable. Rather than saying you’ll be out of the oﬃce for “a
+Talent, reveals that 61% of all employees minimize their identities
 
-family trip,” be honest that you are taking time oﬀ work to help your
+that make them “diﬀerent” in some way, which can look like silently
 
-mother move into assisted living. Leaders showcasing that they have
+struggling through a frantic work week while your child’s daycare is
 
-personal lives and care responsibilities can have a huge impact in what
+closed due to Covid, or saying to coworkers you are going to the dentist
 
-employees feel is “OK” to talk about at work.
+when you are really driving your father to his chemo appointment.
 
-Myth #5: If there was a problem with our policies, we’d know about it.
+Unfortunately, mothers in particular are right to be concerned that their
 
-Companies rarely put eﬀort into evaluating policies unless something
+family responsibilities might be held against them. Anti-mom bias has
 
-prompts them to do so. In a labor market with a low unemployment
+been long-rampant in the workplace.
 
-level, individual employees might rather leave their job than put in the
+The best way for leaders to create more transparency around caregiving
 
-extra and often uncompensated work of pointing out policy ﬂaws and
+is by starting to talk about it themselves. If you leave early on Thursdays
 
-going out on a limb to advocate for changes.
+because you lead your child’s Scout troop, rather than just having
 
-According to research from The Rosalynn Carter Institute, close to one
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-third of caregiver employees have chosen to leave a job at some point
+5
 
-because of their caregiving responsibilities. If someone says in their
-
-exit interview they are leaving “to spend more time with their kids”
-
-or “have more ﬂexibility to help with their elderly mother,” jumping
-
-to the conclusion that this decision was purely personal can obscure
-
-what the company could have done to better support the employee, and
-
-what policies might have made it possible for them to stay on the job
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

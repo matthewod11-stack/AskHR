@@ -1,11 +1,13 @@
-## infrastructure and network across independent restaurants and small
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2042457cfa64546978e0e379083c0496c00ef641
+title: R2502D-PDF-ENG
+---
+# adjust to uneven demand.
 
-bakeries; (3) how to seamlessly place and deliver orders; (4) how to keep
+What the DoorDash founders learned helped them identify the ﬁve
 
-delivery costs as low as possible; and (5) how to ensure that orders were
+elements of the problem they had to solve to reach a workable solution:
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+(1) how to manage variability in demand; (2) how to share a delivery

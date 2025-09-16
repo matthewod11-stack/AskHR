@@ -1,27 +1,35 @@
-## to less comfortable forms of understanding,” notes Praslova. “That
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca8c6122b4453d8e11c98a5f71ed90d573ff5877
+title: H088YP-PDF-ENG
+---
+## HBR / Digital Article / How to Make Job Interviews More Accessible
 
-means listening without judgment and not making assumptions about
+“Many of us hold a certain image of what disability looks like and
 
-someone faking or being lazy or high maintenance.”
+assume that we haven’t worked with many disabled people,” she says.
 
-Recognize that people may need accommodations and that strict
+But statistically speaking, this belief is unlikely to reﬂect reality.
 
-conformity to traditional interview methods can perpetuate bias.
+Roughly one in four Americans live with a disability, according to
 
-Empathy is important — but even empathy has its limitations, Praslova
+the Centers for Disease Control and Prevention, and studies suggest
 
-says: “It’s not about you, it’s about the other person. And their reality
+that about 9% of Americans have a learning diﬀerence. Many of these
 
-might be very diﬀerent from yours.”
+diﬀerences and disabilities are hidden or invisible.
 
-Look critically at your current practices. Next, examine your current
+Meanwhile, 61% of disabled workers have experienced bias,
 
-interview practices and techniques and identify unnecessary hurdles
+mistreatment, and bullying on the job, research shows. “Once you
 
-that don’t reﬂect actual job requirements.
+broaden your understanding of disability and its implications,” says
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Bach, “you realize it’s far more prevalent and complex than you
 
-3
+thought.”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Which is all to say that when it comes to designing more inclusive,
+
+accessible job interviews, “sometimes you need to open yourself up

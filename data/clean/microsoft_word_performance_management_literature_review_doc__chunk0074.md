@@ -1,9 +1,17 @@
-## Corporate Leadership Council (2002), Performance Management Survey
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: 94fb26541f275879f4129575a4416a3bd35e7cbb
+title: microsoft_word_performance_management_literature_review_doc
+---
+## CIPD (2008), Annual Reward Management Survey, CIPD, London
 
-DeNisi A, Pritchard R (2006), ‘Performance Appraisal, Performance Management and Improving Individual Performance: A Motivational Framework’, Management and Organization Review, Vol. 2, Issue 2, pp. 253-277
+CIPD (2009), Meeting the UK's people management skills deficit, Download, CIPD, 11 June
 
-De Waal (2003), ‘Behavioural factors important for the successful implementation and use of performance management systems’, Management Decision, Vol. 41/8
+Cocca P, Alberti M (2010), ‘A framework to assess Performance Measurement Systems in SMEs’, International Journal of Productivity and Performance Management, Vol. 59, No. 2
 
-Ducharme M, Singh P, Podolsky M (2005), ‘Exploring the links between performance appraisals and pay satisfaction’, Compensation and Benefits Review, September/October, pp. 46-52
+Colville K, Millner D (2011), ‘Embedding performance management: understanding the enablers for change’, Strategic HR Review, Vol. 10, No. 1
 
-Elzinga T, Albronda B, Kluijtmans F (2009), ‘Behavioural factors influencing performance management systems’ use’, International Journal of Productivity and Performance Management, Vol. 58, No. 6
+Coens T, Jenkins M (2000), Abolishing Performance Appraisals and What to do Instead, Berrett-Koehler
+
+Cunneen P, (2006), ‘How to…improve performance management’, People Management, 12 January, pp. 42-43

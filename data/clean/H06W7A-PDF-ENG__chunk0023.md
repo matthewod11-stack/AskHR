@@ -1,19 +1,15 @@
-# health record:
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8432f9556a6df52c756bdf7052a6ba5b96603316
+title: H06W7A-PDF-ENG
+---
+## HBR / Digital Article / How to Steer Clear of Groupthink
 
-Daniel: The standard way to build transparency is that the
+What we saw in the groups that overcame groupthink is that it began
 
-technology can and does provide that auditing — and that audit
+with one member expressing dissatisfaction with the status quo. For
 
-should itself be available to the patient whose information has been
+example, one group we studied had the following conversation about
 
-disclosed. The more detailed audit, the more transparency.
-
-Ron: So, let me get this straight … what transparency means is
-
-that the patient has access to every single point of access to his or
-
-her record. They have an electronic paper trail of who it was that
-
-accessed their data, when they accessed their data, and where they
-
-accessed their data.
+whether patients should be able to see who had accessed their electronic

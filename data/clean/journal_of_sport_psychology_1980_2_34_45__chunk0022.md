@@ -1,17 +1,15 @@
-# athlete's mistakes.
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: 20da3393be35aceb47df49ba728472a2eee342be
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# and tactics of the sport.
 
-37
+23
 
-55
+54
 
-69
+71
 
-Make sure that his part in the team is
-
-understood by all the athletes. Instruct every athlete individually in
-
-49
-
-58
-
-66
+Pay special attention to correcting

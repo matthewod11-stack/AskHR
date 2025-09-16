@@ -1,7 +1,9 @@
-# London: University of London Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: dadca6fb367410b97dba7d049803eba286fe3a13
+title: untitled
+---
+# Boston: Houghton Mifﬂin.
 
-Thorndike, E. L., Bregman, E. D., Cobb, M. V., & Woodyard, E. I. (1926). The measurement of intelligence. New York: Teachers College Press.
-
-Thorndike, R. L., Hagen, E. P., & Sattler, J. M. (1986). Stanford–Binet Intelligence Scale: Guide for administering and scoring the fourth edition. Chicago: Riverside.
-
-Thurstone, L. L. (1938). Primary mental abilities. Chicago: Univer-
+Terman, L. M., & Merrill, M. A. (1973). Stanford–Binet Intelligence Scale: Manual for the third revision. Boston: Houghton Mifﬂin. Thomson, G. H. (1939). The factorial analysis of human ability.

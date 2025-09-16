@@ -1,5 +1,9 @@
-## relationships between themselves and their work, their coworkers, their
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f114d002e7541157b9c5d482e6f712e052abd741
+title: H08FH3-PDF-ENG
+---
+# Alexander Spatari/Getty Images
 
-leaders, and their employers. This is evidenced by quiet quitting, the
-
-Great Resignation, and the broken contract between employers and
+These days, many workers are experiencing strained or fractured

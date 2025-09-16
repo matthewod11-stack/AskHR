@@ -1,13 +1,39 @@
-## for damages and $150,000 for emotional distress.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 28983378b6f2cbc2c6b4b5c301e7f1aaa8994f56
+title: california_state_university_northridge_1
+---
+## Moody v. Pepsi-Cola Metropolitan Bottling Company, Inc. 915 F. 2d201 (6th Cir.
 
-In another case, involving Bull HN Information Systems Inc., and an
+- 1990) ("Pretense for age discrimination," 1991). An employee 51 years of age was a
 
-antidiscrimination agency, the computer company settled in the matter of layoff
+warehouse manager at Pepsi bottling facility in Michigan, was fired on October 1, 1982.
 
-procedures for infonnation tech_nology. The attorney general for the state of
+A 29-year-old employee replaced the former employee. The former employee sued on
 
-Massachusetts settled charges that the company had discriminated against older workers
+the grounds of ADEA and other state law violations. Said employee constantly had above
 
-during layoff in the early 90s. There was no monetary compensation given to any worker
+average performance evaluations for duration of five years. A new supervisor began to
 
-or admission of wrongdoing, the company agreed to comply with the following three
+37
+
+criticize the quality of work being produced by the older employee. This supervisor in
+
+question stated the employee was let go because a reduction in workforce as specified by
+
+upper management. The order given was to terminate six management level employees
+
+since sales had been dropping. U.S. District Court for the Eastern District of Michigan
+
+ruled in favor of the plaintiff, in which Pepsi appealed the ruling. The case came before
+
+the U.S. Court of Appeals for the Sixth Circuit, in which the appellate court upheld the
+
+district court ruling favoring the plaintiff. The appellate court stated a pretext of reduction
+
+in work force was used to terminate said employee on the basis of his age. After an
+
+investigation, it was determined there was no reduction in work force by Pepsi-Cola.
+
+Plaintiff was awarded $132,818

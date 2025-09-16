@@ -1,17 +1,29 @@
-# HBR / Digital Article / Immigrants Play a Disproportionate Role in American Entrepren…
+---
+source_path: H0368R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c8e387e3417c86c8baf5b2604fecf7ce3af4a47
+title: H0368R-PDF-ENG
+---
+## Published on HBR.org / October 03, 2016 / Reprint H0368R
 
-because the rate of entrepreneurship has declined signiﬁcantly in the
+Immigration is one of the most divisive and polarizing topics today.
 
-U.S. over the last 30 years, and fewer startups are being generated today.
+Do immigrants take American jobs, or help our economy grow? Do
 
-With many places looking to stoke economic growth, state and local
+immigrants drain our welfare funds, or can they help reﬁll public coﬀers
 
-governments have clamored to launch initiatives to attract more
+as our baby boomers retire?
 
-immigrant entrepreneurs, hoping they will found businesses and create
+One argument you tend to hear in the immigration debate in the U.S. is
 
-more jobs. Globally, many countries are doing the same — for example,
+that there is a ﬁxed number of jobs in the economy — and immigrants
 
-Chile pays overseas entrepreneurs to come visit for six months through
+just compete for a slice of the pie rather than helping the pie grow.
 
-its Start-Up Chile program, as a way to build global bridges and foster an
+This perspective is less prevalent when talking about startups, however,
+
+Copyright © 2016 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,21 +1,11 @@
-# process.
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46a572c53eda4c667c9185dc3f4aeae79a2c106b
+title: H07RXW-PDF-ENG
+---
+# this wealth of data and interviews.
 
-Second, there is clear and statistically signiﬁcant evidence to show
+First, that ﬁrms are gradually becoming less centralized — although
 
-that companies who use elements of a looser RenDanHeYi model
-
-outperform their peers in terms of entrepreneurial activity, the ability
-
-to attract and retain top talent, and ultimately ﬁnancial performance.
-
-This research also brings into focus four clear characteristics of these
-
-organizations, most of which replace their traditional hierarchy. These
-
-characteristics are:
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their evolution towards decentralization has been a slow and nonlinear

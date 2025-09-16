@@ -1,13 +1,9 @@
-# IJM
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: 4308b4c17a20fcc386deec2e04d7ac337225f233
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# y b
 
-Figure 1. Hypothesized research model
-
-to strengthening the quality of relationship between employees and organization (Swalhi et al., 2017). In the work setting, the social entities often experience incompatibility that creates conflict and obstructs the organizational life and productivity. Conflicts should not be avoided, rather be managed constructively to promote healthy workplace relations. These interpretations rejuvenate the notion of trust for promoting cordial organization–employee relations (Zapata et al., 2013). Consequently, climate of trust is introduced as a mediator in the relationship between organizational justice and ER, and between conflict management and ER. ER is an important aspect of every business enterprise, which still remains unexplored in the field of the power sector. Thus, in this framework, a comprehensive model of ER is initiated. ER can be defined as the relationship between employers and employees characterized by fair and equitable treatment, effective management of workplace conflicts, and mutual trust resulting in employee satisfaction, commitment, and job performance.
-
-justice (Cropanzano et al., 2007; Kim et al., 2017), conflict management (Posthuma, 2011; Tjosvold et al., 2014), trust (Jiang et al., 2015; Gaudencio et al., 2017) and ER (Jiang, 2012; Waters et al., 2013; Gill and Meyer, 2013), while limited studies have examined these four factors simultaneously. The present work aims to explore the impact of organizational justice and conflict management on ER through the mediating effect of climate of trust, which is a unique approach of investigation in the field of ER. Furthermore, limited studies have emphasized on interrogating the employer–employee relations established in power sector specific to the Indian context. In order to bridge the gaps, an integrated model is proposed that will supplement to building up atheoreticalaswellasan empiricalbaseinthescopeof ER.Thisscholarlyendeavor is introduced with the theoretical framework and hypotheses development. Next, the methods that outline the sample and the measures with their reliability are explained. The result section cites the outcomes of hypothesis testing. Finally, a discussion of the key findings, implications, limitations, and suggestions for future research and conclusion are delineated.
-
-Previously, ample of research has examined the constructs of organizational
-
-- 2. Theoretical framework and hypotheses development In this research, the social exchange theory (SET) is adapted to establish a conceptual framework by illustrating the influence of organizational justice, conflict management and climate of trust on ER. The idea of social exchange was advocated by Blau (1964), which is considered prevalent to describe organization–employee relations (Cropanzano et al., 2003). In ER, social exchange is cultivated on the organization’s fair and equal treatment provided to the employees (Aryee et al., 2002). In social exchange, trust is defined as the central feature, and mutual obligation flourishes as the social entities start exchanging the concrete outcomes and the socio-emotional benefits (Blau, 1964). The conceptual
-
-the study is displayed in the form of a hypothesized research model (Figure 1) that is developed on the basis of the SET and will be validated through empirical analysis. The extant literature provides a conceptual background based on which the study hypotheses were formulated.
+d e d a o l n w o D

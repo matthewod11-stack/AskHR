@@ -1,17 +1,71 @@
+---
+source_path: F2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 47a2017cfe529a6a39965448a6747bf7aeab5695
+title: F2504A-PDF-ENG
+---
 ## HBR / Magazine Article / How AI Is Redefining Managerial Roles
 
-do high performers have that can be shared with lower-skilled workers?
+group was less likely to ask managers or peers for help. That’s not all.
 
-Armed with this knowledge, middle managers can better determine
+For nearly all activities, in both core work and project management,
 
-why employees are struggling. They can then help employees develop
+developers who used Copilot worked in smaller groups than those who
 
-methods to autonomously use gen AI to improve.
+didn’t. A similar experiment can beneﬁt most companies. Observe how
 
-You shouldn’t focus solely on low performers. Gen AI oﬀers ample
+your team uses gen AI and ﬁnd areas where it can increase autonomy.
 
-opportunity for employees of all skill levels to improve at a wide variety
+“Gen AI can, in some instances, replace a manager, mentor, or any other
 
-of tasks. Although Hoﬀmann’s research focused solely on coding,
+individual that junior employees may ask for help,” Hoﬀmann says.
 
-observing how both high and low performers use gen AI—no matter
+“Managers don’t always have time for people. And their teams don’t
+
+always have the bandwidth to meet in very large groups. But with gen
+
+AI, people can ﬁgure things out by themselves without the need for that
+
+extra layer of management.”
+
+Determine who beneﬁts the most. Hoﬀmann’s team made another
+
+critical observation: Coders who were less skilled than their peers
+
+beneﬁted more from gen AI. This occurred partly because they were
+
+more likely to conduct coding activities and less likely to conduct
+
+project management activities than high-ability developers were. Past
+
+research has shown that people tend to trust their own knowledge and
+
+experience more than an AI system’s. In other words, the less you know
+
+about a topic, the more likely you are to rely on AI’s expertise.
+
+Hoﬀmann views this as a major opportunity for companies to relieve
+
+middle managers from the burden of having to upskill low performers,
+
+among other beneﬁts. Because low performers can now use gen AI to
+
+instantly learn and improve on their own, managers can focus their
+
+time on more-important, hands-on work. This represents hours saved
+
+for each manager for each low-performing individual. It also represents
+
+added hours of productivity for everyone involved. This information
+
+can help middle managers better understand their employees’ strengths
+
+and weaknesses. Do low performers understand what work they need
+
+to do and the quality that is expected, for example? What knowledge
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,19 @@
-# ahead.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 535cf6f9d966b74dcc71fe07b9dd55b385f0f2b0
+title: industrial_organizational_psychology_an_applied_approach
+---
+# advice for layoff victims:
 
-. Plan a new course of action and go forward with confidence.
+. Immediately tell families. . Evaluate the reasons for the job loss. That is, was the loss inevitable due to problems with the organization, or could better performance, more current skills, or a better attitude have allowed the employee to keep his job?
 
-Survivors At first, one might think that an organization need not worry about survivors— those employees not laid off. After all, these are people who still have their jobs. However, research indicates not only that survivors suffer psychological trauma but that their future productivity is related to the way in which they and their not- so-fortunate counterparts are treated during the downsizing process. Research (Cascio, ; Marks, ) indicates that survivors
+. Deal with the emotions that accompany a layoff (e.g., anger, disbelief,
 
-7
+guilt, shame) and get help if necessary.
 
-7 7 7 7 7
+. Prepare for departure by doing such things as securing references,
 
-become afraid of taking risks and are more apprehensive and narrow-minded are more stressed, anxious, secretive, skeptical, cynical, and distrustful have greater role conflict and ambiguity lose confidence in themselves and in management have lower levels of morale and job satisfaction feel a loss of control
+negotiating a severance package, and taking advantage of outplacement opportunities.
+
+. Take a vacation or a short rest period to help prepare for the journey

@@ -1,17 +1,19 @@
-# Advance Salary
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 6a7f7d759cba33c765ae37861d5d437ba3ca9aac
+title: internship_report
+---
+# Employee Salary
 
-Company always discourages Advance Salary. Granting of advance against salary will be at the
+Company offers a competitive salary, which is designed to motivate performance. Strong
 
-discretion of the Controlling Authority who may allow such advance to the most necessary cases,
+performance will receive a variable related pay increase. The monthly salary ranges for each job
 
-special/sudden requirement after having recommendation from the concerned HOD/In-Charge.
+is structured so that is comparable favorably to the local market. Salaries are structured
 
-Advance salary withdrawn will be applicable for the confirmed/contract employees. Current
+according to the Job Grade. The salary is stated in the Appointment Letter. Any changes during
 
-month salary advance may be allowed with limited scale under discretion of Controlling
+the career with the company will be notified in writing.
 
-Authority. But for paying Advance Salary except current month following policy will be
-
-followed:
-
-a. Only on medical ground for self, dependent i.e. wife/husband, children, sister, brother, mother
+II.(cid:32)

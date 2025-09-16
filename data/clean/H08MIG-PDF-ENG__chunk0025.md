@@ -1,27 +1,29 @@
-## on the larger workgroup and the organization.
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dbf7e60ce7a7242243c02c3f9e1d46f77c7dac9
+title: H08MIG-PDF-ENG
+---
+# HBR / Digital Article / Research: When Is Leniency the Right Response to Employee M…
 
-. . .
+Will your decision to be lenient display bias, favoritism, and unjust
 
-At its core, handling misconduct is a “people problem” involving
+application of the rules? Or will it demonstrate your sense of humanity
 
-complicated feelings and relationships. Leniency can be a powerful
+and compassion? That is, will other employees understand the merits
 
-response if managers consider the whole picture — what was the
+of being lenient or the need to be compassionate toward the oﬀender?
 
-misconduct, how does it inﬂuence myself and others, are there personal
+And do other employees understand any personal issues behind the
 
-issues to consider, and what are the consequences for the broader
+misconduct that might inspire compassion?
 
-group? We suggest leniency should come with a warning label: Use with
+How others see your decisions meaningfully inﬂuences how they will
 
-care and when compassion and forgiveness are present.
+act. Because our research suggests that leniency can evoke strong
 
-This article was originally published online on February 11, 2025.
+reactions — and even contempt — from observing employees (unless
 
-Kate P. Zipay is an Assistant Professor of Management and a Faculty Aﬃliate at the Center for Working Well at the Mitch Daniels School of Business, Purdue University. Her research investigates the fruitful ways life — in and outside of the workplace — inﬂuences employee emotions, attitudes, and behaviors.
+there is a clear and compelling reason for compassion), suspend your
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+own perspective as a manager to consider the impact of your response

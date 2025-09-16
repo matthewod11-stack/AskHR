@@ -1,3 +1,7 @@
-# Car Manual Agent Response: "Your Audi is equipped with Electronic Stability Control
-
-(ESC) and Anti-lock Braking System (ABS) which help prevent aquaplaning by maintaining
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 6851d8c7b942bb846199e3d6acebec4637a17839
+title: agents_companion
+---
+## [Behind the scenes, multiple agents generate responses:]

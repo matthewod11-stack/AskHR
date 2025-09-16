@@ -1,17 +1,13 @@
-## HBR / Magazine Article / The Conflict-Intelligent Leader
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f577e8c6a731c2ca32ffbe15638143537fcd6e0
+title: R2504D-PDF-ENG
+---
+# and reintegration.
 
-For a business example, let’s turn to Tim Cook, the CEO of Apple. In
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the mid-2010s the tech giant faced a deep tension between privacy
+9
 
-advocacy and business growth, particularly as it expanded its service
-
-revenues. That conﬂict took place both inside and outside the company, with diﬀerent internal groups advocating for competing priorities and
-
-external stakeholders pushing for either stronger privacy protections or
-
-enhanced services (which required more data collection).
-
-Cook pulled oﬀ a careful balancing act. He maintained Apple’s strict
-
-public stance on privacy while ﬁnding creative ways to grow service
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

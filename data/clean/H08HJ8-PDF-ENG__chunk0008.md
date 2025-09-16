@@ -1,7 +1,13 @@
-# yourself:
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6cdbad93df6df81b5fddebe6484869b67733cb3f
+title: H08HJ8-PDF-ENG
+---
+## HBR / Digital Article / When Your Manager Is Ineffective — and You Feel Stuck
 
-- Is this a task issue (I don’t agree with how they do things) or a
+If you’re frustrated with or losing respect for your manager, our ﬁrst
 
-personality issue (I don’t like this person’s style)?
+recommendation is to pause and reﬂect. Get clear on what’s really
 
-- Is my manager truly incompetent or just diﬀerent than what I expected
+bothering you. Look deeper than “They don’t add any value.” Ask

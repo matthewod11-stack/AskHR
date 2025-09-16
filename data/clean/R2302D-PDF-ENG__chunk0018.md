@@ -1,11 +1,15 @@
-## employees during the ﬁrst six months of 2020, when hybrid work
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f4b8b529a8dac7e74e1ba45d9d18d570ac19351
+title: R2302D-PDF-ENG
+---
+## HBR / Magazine Article / Redesigning How We Work
 
-was widespread, and found that collaboration networks became more
+Designing hybrid work to support innovation requires a level of intentionality that may have been missing in traditional colocated firms.
 
-static, with fewer bridges connecting disparate parts of the company.
+But how does working virtually aﬀect connectivity and innovation?
 
-That ﬁnding has been replicated by other studies, which have also
+It’s a fraught question. In 2022 a Microsoft research team analyzed
 
-demonstrated that when employees don’t work together in close
-
-quarters, they get less feedback and guidance from coworkers. In
+the communication patterns of more than 60,000 of the company’s

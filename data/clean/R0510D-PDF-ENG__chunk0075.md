@@ -1,3 +1,7 @@
-# Q4
-
-Strategy update: CEO and executive team clarify vision. Balanced Scorecard team facilitates development of corporate scorecard and strategy map.
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3ad4b2a872423b461c962a3d22b7954e7b84666
+title: R0510D-PDF-ENG
+---
+# Q3

@@ -1,15 +1,17 @@
-# recruit.
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63687d169db5dbdf635c75a2b131963a174453e9
+title: R2403F-PDF-ENG
+---
+# employee discontent.
 
-It’s understandable why breaking old habits is hard. Telling leaders
+Then there are the repeated restructurings that have become a way of
 
-that the approach they’ve been following for 40 years—and the one
+life at large companies. The constant changes raise employees’ stress
 
-thing investors seem to understand about human capital (“cut it!”)—
+levels and take a big toll on their mental health. That not only pushes up
 
-is all wrong does not seem like a career-building move. Nonetheless,
+health-care costs but also increases turnover and undermines employee
 
-HR executives can—and must—make the case to their CEOs and
-
-operating executives that the old way is no longer working and that their
-
-companies need to change direction.
+engagement, performance, and productivity, as well as ﬁrms’ ability to

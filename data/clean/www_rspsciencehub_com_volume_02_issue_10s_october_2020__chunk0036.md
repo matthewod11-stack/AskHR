@@ -1,3 +1,9 @@
-# into
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: 352a555863260df4eda8583dff2f08b2ff15fa2a
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# regression
 
-In the present study, based on demographic information, Logistic Regression mainly utilized to predict employee attrition risk. Along with this a proper retention plan has been mapped to focus on the risk categories developed.
+Researchers executed the research based on real life project and collected demographic information from separated and existing employees. The questionnaire authors prepared, evaluate quitting probability with current staffs. The authors divided overall Attrition Risk two part 1) Demographic Risk and 2) Behavioural Risk.

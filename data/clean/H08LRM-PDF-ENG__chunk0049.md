@@ -1,21 +1,43 @@
-## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9512b03359570d4fca6dc37eb0151cf848b35690
+title: H08LRM-PDF-ENG
+---
+# An Idea Whose Time Has Come
 
-from sabbaticals becoming the norm for all workers, but current trends
+We don’t talk enough about how important it is to have the time and
 
-suggest that we should be moving in that direction.
+space outside of work to do what’s important to us. Despite all the
 
-We shouldn’t have to wait for something to break to give ourselves
+talk about the Great Resignation, quiet-quitting, and work-life balance,
 
-permission to explore, for a little while, what makes life worth living.
+many of our cultures loudly lionize — and reward — overwork: the CEOs
 
-So allow yourself to brieﬂy turn down the volume around boardroom
+who run multiple companies at once or the workers who sleep under
 
-logistics, quarterly goals, or team dynamics, and let your quieter voice
+their desks. Even when we’re given paid time oﬀ, we fail to take it:
 
-emerge: What are things that light up your curiosity, either now or
+Almost half of Americans fail to take all their vacation days.* Leisure
 
-when you were younger? Thus far in life, what do you most regret
+time used to be something to aspire to — the hallmark of the wealthy —
 
-not having done? Your answers can point you in a new direction. My
+but now the richest among us are the least likely to invest free time in
 
-research suggests that a sabbatical is more than just a long vacation; it’s
+leisure. But that story is beginning to change.
+
+Younger generations say they value ﬂexibility over compensation and
+
+purpose over prestige. And with the Covid-19 pandemic, the cat is out
+
+of the bag with the importance of ﬂexibility for knowledge workers,
+
+as well as the reality that there are many diﬀerent ways to get a job
+
+done, from many diﬀerent places and time zones. We may be a long way
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+13
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

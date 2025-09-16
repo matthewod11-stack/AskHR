@@ -1,21 +1,41 @@
-# as a speaker and a performer into it.
+---
+source_path: R2406P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27d521edc2932b12bcbdd2c400a24efaf0cadbe0
+title: R2406P-PDF-ENG
+---
+## HBR / Magazine Article / Life’s Work: An Interview with Ketanji Brown Jackson
 
-As you entered Harvard Law and then your career, how did it feel to again be one of a few Black women in those white-male-dominated environments?
+You write a lot about defying expectations, but many women and people of color say that those who do that can get pushback. So how did you defy in a way that didn’t make people defensive?
 
-It wasn’t easy. But in college I had formed a community with some Black
+I’ve never thought about it in those terms. Maybe part of it is that in
 
-women who became my good friends, and we all ended up going to the law school too. Having a close-knit group during that diﬃcult training
+the early 1970s and through the mid ’80s our society, having just turned
 
-together was a comfort. By that time I was also in a serious relationship
+the corner from an era of segregation, was interested in responding to
 
-with my then boyfriend, now husband, and I had his support. I fell back
+those prior circumstances. Not only did my parents want to make sure
 
-on the skills for coping and survival that I had developed early on. Of
+that I had opportunities and was taking full advantage of them but my
 
-course, as a young lawyer, I sometimes felt as though my contributions
+community was also very open to inclusion and encouragement. Most
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+people I came into contact with growing up genuinely wanted me to
 
-3
+succeed, so I don’t recall encountering any sort of direct pushback.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Your favorite extracurricular was debate, but you focused on the dramatic performance categories and you later starred in musicals at Harvard and aspired to Broadway. Why did you choose law over the arts?
+
+My father went back to law school when I was little, so the seeds of
+
+that being a career goal or track were planted very early. I thought the
+
+law was fascinating and consequential. And as much as I loved the
+
+arts, I always really wanted to do work that I thought would have a
+
+direct impact on society. I was also good at writing. So I saw the legal
+
+profession as a way to combine my skills, interests, and desire to make a
+
+diﬀerence, and I thought I could channel whatever talents I’d developed

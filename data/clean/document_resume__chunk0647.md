@@ -1,13 +1,11 @@
-# Communication Factors
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: f3a0a1671ee993d67f28cda8645d41c8bbca5fc4
+title: document_resume
+---
+## Resource Review, (January 1981), pp. 3-6.
 
-pp. 827-837; and Kenneth N. We \ le), "Appraisal Inters iew ," in Performance AA.SeAA- meat Methods and Applications, ed. Ronld A. l3erk (Baltimore. Johns Hopkins Press, 1986), pp 167-185.
+Eric Wm Skopec, "Rhetorical Dimensions of Performance Appraisal Inter- views," Pape! presented at the Annual Meeting of the Eastern Communication Associa- tion (75th, Philadelphia, PA, March 8-11, 1984), pp. 1 10, Napier and Latham, op. ca.,
 
-4.
-
-Angela Laird and Phillip G. Clanspitt, "Effectis e Performance Appraisal: Viewpoints from Managers," The Journal of Bicsino.s Communitation 22.3, pp. 49-57.
-
-5.
-
-H. Lloyd Goodall, Jr., Gerald L. Wilson, and Christopher L Waagen, "The Performance Appraisal Inter% iew . An 'inapt-en\ e Assessment," Quartet!) Journal of Speech 72 (February 1986), pp. 74-87.
-
-6.
+3.

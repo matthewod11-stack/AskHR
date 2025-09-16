@@ -1,11 +1,7 @@
-# Behavioral Observation Scales
-
-Behavioral observation scales (BOS), developed by Latham and Wexley (), are a more sophisticated method for measuring the frequency of desired behav- iors. Even though BOS have no psychometric advantages over BARS (Bernardin & Kane, ), they are simpler to construct and easier to use (Latham, Fay, &
-
-evaluating employee performance
-
-285
-
-286
-
-chapter 
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0e6868701e80460679f6a5438ffdc65439912e8e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Source: Adapted from Saal (1979)

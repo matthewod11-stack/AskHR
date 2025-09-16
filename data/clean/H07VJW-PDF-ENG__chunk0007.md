@@ -1,7 +1,15 @@
-## messages in a clear, concise, logical manner.
+---
+source_path: H07VJW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 458124e75d5a4d0252eaecdaeecbee8926e72394
+title: H07VJW-PDF-ENG
+---
+# master1305/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Effective communication has never been more critical in our rapidly
 
-1
+evolving world, where every conversation, negotiation, meeting, or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+pitch could impact our personal and professional success. We are much
+
+more likely to achieve our communication goals if we package our

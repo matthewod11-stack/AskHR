@@ -1,17 +1,55 @@
-## more positive stock-price reaction than the latter, with the market
+---
+source_path: H052Q1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2dbd30b172b51f9af147bb6868eceafb1d2ad8c4
+title: H052Q1-PDF-ENG
+---
+# HBR / Digital Article / Research: Executives’ English Skills Affect the Outcomes of Earn…
 
-rewarding the optimism in the tone of the Anglo-Saxon manager. This
+industry-, country-, and conference call characteristics — most notably,
 
-means that executives whose cultural inclination is to use fewer optimistic
+the underlying ﬁnancial numbers being discussed.
 
-words may not get full credit for their ﬁrm’s most recent performance.
+The range was dramatic. When an Anglo-Saxon executive and a Chinese
 
-The only exception was for investors who shared a cultural background
+executive discussed the same ﬁnancial results, the difference in their tone
 
-with the ﬁrm’s managers. These investors were better able to interpret the
+tended to be the same as the difference you might ﬁnd when two
 
-Copyright © 2019 Harvard Business School Publishing Corporation. All rights reserved.
+executives from the same cultural background discuss two substantially
 
-5
+different results, one in the top 10% of the distribution and the other in the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+bottom 10%. (This corresponds roughly to the tone those executives might
+
+use when one is discussing performance that has beaten the consensus by
+
+several cents per share, and the other is discussing performance that has
+
+fallen short by the same amount.)
+
+Some foreign executives are new to the art of earnings calls, so you might
+
+be tempted to attribute their performance to nothing more than a lack of
+
+preparedness. But you shouldn’t. Our ﬁndings on this front held, in
+
+somewhat muted form, even when we only looked at U.S-based ﬁrms and
+
+executives: U.S.-based executives with non-Anglo-Saxon roots still showed
+
+signs of their cultural ancestry in the way they spoke but less so than if
+
+they had not been exposed to the U.S. environment. We didn’t try to
+
+determine at what point the executives or their ancestors immigrated to
+
+the United States, but other studies show that cultural heritage persists
+
+over time and difficult to shake off even after several generations.
+
+Do investors see through these cultural differences? They generally do not.
+
+If an Anglo-Saxon and a Southeast Asian CEO both report ﬁnancial results
+
+that meet the consensus estimates on Wall Street, the former will elicit a

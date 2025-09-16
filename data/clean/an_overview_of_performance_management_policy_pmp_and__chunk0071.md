@@ -1,19 +1,27 @@
-## 2.5 Product and Services of the City Bank Limited:
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 1e371cae925f1c89da6b9bd94b557710a08c8e59
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# the more effectively.
 
-City bank Limited has not yet just picked up colossal prominence yet additionally been
+- 2. We are “ENGAGED & INSPIRED”
 
-effective in assembling store and credit items. The bank includes gained critical ground inside
+The Bank works cooperatively with others and show obligation to accomplish the group targets. The
 
-a brief timeframe period because of its dynamic administration and presentation of different
+Bank will in general persuade others and acknowledge input, to get their obligation to thoughts,
 
-8
+undertakings or activities are made plans to make individuals and cause them to believe in
 
-(cid:32)
+themselves, so they constantly stretch their limits.
 
-(cid:32)
+- 3. We are “ACCOUNTABLE AND TRANSPARENT”
 
-buyer inviting credit and store items. All the items and administrations offered by the bank
+The Bank will in general perform dependably with a feeling of possession and consider ourselves
 
-can be grouped under two significant heads. Sourced From (windmillhillcityfarm)
+responsible for the result. The Bank assembles assets successfully to guarantee that solid corporate
 
-(cid:32)
+exhibition is conveyed. CBL, as responsible pioneers, accept that our conduct and activity aggregately
+
+will make positive effect on our traditions, primary concern and future. Sourced From (Tisha, 2019)

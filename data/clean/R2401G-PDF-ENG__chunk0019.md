@@ -1,17 +1,7 @@
-## Why Companies Are Plagued by Addition Sickness
-
-Our project uncovered three forces that fuel these behaviors. First, we
-
-humans default to asking, “What can I add here?” and not “What can I
-
-get rid of?” Studies by Gabrielle Adams and her colleagues discussed in
-
-a 2021 Nature article found that this “addition bias” shapes the solutions
-
-that people generate to improve universities, edit their own and others’
-
-writing, modify soup recipes, plan trips, and build Lego creations. When
-
-one university president asked students, faculty, and staﬀ members for
-
-suggestions to improve the place, only 11% of the responses entailed
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bcf7f0383eb31e767b77cbb50c201978fbe2923
+title: R2401G-PDF-ENG
+---
+## of financial performance for more than 50 years.

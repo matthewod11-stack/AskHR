@@ -1,7 +1,13 @@
-## Understand the eff ects of stress on behavior
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c18c2b612a00217c649f8e4c50acc4c7b2d1a03f
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Learning Objectives
 
-Learn ways to reduce stress
+Learn the defi nition of stress
 
-Be familiar with the importance of child-care and elder-care programs
+Be able to name common stressors
 
-Learn how stress can at times result in workplace violence
+Learn the common consequences of stress (strains)

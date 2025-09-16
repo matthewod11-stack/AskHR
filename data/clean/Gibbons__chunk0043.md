@@ -1,29 +1,20 @@
-### **[Building organizational metacognition]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: eb0cf2eeeb731e2ff0e7c9a057605004cbe48634
+title: Gibbons
+---
+### **[The metacognitive blind spot of AI systems]{.underline}**
 
-[The most forward-thinking organizations are now using AI to develop
-collective metacognition --- the ability to think about how the
-organization thinks.]{.underline}
+[Here\'s the paradox that makes this collaboration so powerful: AI
+systems excel at helping us develop metacognition precisely because they
+lack it themselves. Current AI doesn\'t know what it knows. It can\'t
+reflect on its own thinking or recognize the boundaries of its
+understanding. When ChatGPT generates a response, it\'s not thinking
+about thinking --- it\'s generating statistically probable
+text.]{.underline}
 
-[Bridgewater Associates, the world\'s largest hedge fund famous for its
-culture of \"radical transparency,\" has been at the forefront of this
-approach. The firm has long used algorithmic decision-making and
-systematic feedback loops to improve organizational thinking. As co-CIO
-Greg Jensen explained at the MIT Sloan Investment Conference, their
-systematic approach to decision-making creates a framework where
-\"machines are better at finding patterns across times and across
-countries.\"]{.underline}
-
-[In 2024, Bridgewater launched a \$2 billion fund that uses machine
-learning as the primary basis for decision-making, incorporating models
-from OpenAI, Anthropic, and Perplexity. This isn\'t just about AI making
-investment decisions --- it\'s about creating what CEO Nir Bar Dea calls
-a system that generates \"unique alpha\" uncorrelated with human
-strategies.]{.underline}
-
-[The firm\'s AIA (Artificial Investment Associate) Labs uses AI agents
-to break down complex investment strategies while keeping human analysts
-in the loop. This balance is crucial: AI processes vast amounts of data
-to identify patterns, while humans provide oversight on risk management,
-data acquisition, and trade execution. As Jensen notes, \"You\'re going
-to have intelligence that can read every newspaper in the
-world.\"]{.underline}
+[This limitation becomes a feature when properly understood. Because AI
+lacks metacognition, it approaches your thinking with a kind of naive
+directness. It won\'t unconsciously filter observations through its own
+metacognitive biases because it doesn\'t have any.]{.underline}

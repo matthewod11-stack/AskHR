@@ -1,17 +1,35 @@
-## constructive debate throughout the process.
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2fe22dd84ff0d75524dc5b8bda6bb2406f96672
+title: S24053-PDF-ENG
+---
+## unit rather than a collection of individuals.
 
-The strategy worked. “Our team lived and breathed these behaviors
+Drive. Top teams with drive prepare assiduously, debate constructively,
 
-for six months,” the company’s general counsel told us—and the SEC
+and are industrious and resilient over the long term. They know how
 
-ultimately cleared the company of any violations. In the process, the
+to prepare for and surmount obstacles. As the COO of one global
 
-team developed an enduring mindset and behaviors that have since allowed it to surmount other obstacles and to diﬀerentiate between
+consumer-products company told us, teams with drive do “the hard
 
-problems that can be solved and those that can be only mitigated.
+work of doing the hard work.”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Drive is pivotal when a top team faces a crisis. That was the case for one
 
-7
+life-sciences company we worked with after it learned that it was being
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+investigated by the Securities and Exchange Commission. The CEO and
+
+his top executives were certain that there had been no wrongdoing,
+
+so they devised a plan for how they would behave as a team: They
+
+would face every diﬃculty head-on, immediately, and with optimism.
+
+When the SEC made a request, they would work together to address
+
+it, regardless of whose domain was at issue. They would pay careful
+
+attention to detail. Most important, they would be resilient, engaging in

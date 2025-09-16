@@ -1,1 +1,9 @@
-# as
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: 4e13de314a8d99f367707f6139739a4d52f0ace5
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# SAGE Open
+
+organization are Organizational Culture Assessment Instrument (OCAI) by Cameron and Quinn (1999) and FOCUS Questionnaire developed by van Mujien et al. (1999). Other scales measured more macro parts of orga- nizational culture such as toxic work culture, abusive injustice, power supervision, perceived organizational distance culture, tightness-looseness, organizational poli- tic, aggressive work culture and hostile organizational climate. A plethora of studies tend to portray organiza- tional climate and perception of leadership or supervi- sion frequent organizational culture measured were abusive supervi- sion (Mawritz et al., 2014; Syed & Azam, 2019; Tiwari & Jha, 2022; Valle et al., 2019), organizational justice (Loi et al., 2020; Nasir & Bashir, 2012), aggressive work cul- ture (Mawritz et al., 2014; Restubog et al., 2012) and organizational politic (Bashir et al., 2019; Rosen et al., 2016).

@@ -1,15 +1,9 @@
-## Disorganization A climate in which the organization
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7d8dda47f1923f66324ea7024b4370e2f09ddfb3
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Disjunctive tasks Tasks for which the performance
 
-has the necessary knowledge and resources but does not know how to efficiently use the knowledge or the resources.
-
-Dispute A situation when two parties do not agree. Disqualifier A type of structured interview question in
-
-which a wrong answer will disqualify the applicant from further consideration.
-
-Dissertation A formal research paper required of most
-
-doctoral students in order to graduate.
-
-Distracting The idea that social inhibition occurs
-
-because the presence of others provides a distraction that interferes with concentration.
+of a group is based on the performance of its most talented member.

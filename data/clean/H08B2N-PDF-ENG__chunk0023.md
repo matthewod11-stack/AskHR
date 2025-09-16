@@ -1,11 +1,25 @@
-## feedback and more resistant to objective information about their
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32861610ce6b46e9a1cd0c670dc294fed2265cfa
+title: H08B2N-PDF-ENG
+---
+# overconﬁdence.
 
-performance, as their rose-colored glasses may inﬂate their perceptions
+To be clear, we are not arguing that managers should discourage
 
-of their performance and make it harder for them to set realistic
+passion. Instead, we need to account for the overconﬁdence that
 
-expectations. As such, it may be especially important for managers of
+so often accompanies passion. For example, managers may beneﬁt
 
-passionate employees to help them set more realistic expectations for
+from building in what we refer to as “passion slack” by encouraging
 
-themselves, and to provide feedback regularly to help them develop
+passionate employees to add buﬀer time to an ambitious timeline,
+
+to pause and evaluate their bandwidth before saying yes to a new
+
+project, or to think proactively about the potential hurdles to which
+
+their passion may be blinding them.
+
+In addition, more passionate employees may be less open to negative

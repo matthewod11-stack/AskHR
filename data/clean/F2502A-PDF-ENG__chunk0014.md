@@ -1,27 +1,23 @@
-# challenges.
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bc05c92c6b41088c1a90385d04d438d477ad082d
+title: F2502A-PDF-ENG
+---
+# burden.
 
-“What employees do with the extra time ultimately depends on how
+Develop a blueprint for reallocating time. Once you have a handle
 
-managers encourage them to use it,” Engeler says. “Employees could
+on how many hours your team will save with gen AI, design a plan
 
-plan to use it for stretching, getting a coﬀee, interacting with colleagues,
+to use them in a meaningful way—for instance, in activities that
 
-or working on a strategic project. Whatever it is, it’s important to
+promote employee well-being, productivity, and personal growth. Ask
 
-allocate this time purposefully in advance. Without guidance and
+your people how they’ve traditionally spent time savings and where
 
-preplanned activities, the saved time might easily slip away unused.”
+investing more time would beneﬁt them most. But keep in mind that
 
-Monitor how the time is redirected. Regular monitoring and feedback
+as the manager, you are responsible for setting the direction—whether
 
-are crucial to help employees make the most of their newfound time.
-
-Managers should stay engaged, observing what their reports do with
-
-time windfalls and promoting eﬀective uses.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+by urging employees to recharge or prompting them to tackle new

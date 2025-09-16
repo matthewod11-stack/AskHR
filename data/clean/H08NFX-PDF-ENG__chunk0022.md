@@ -1,33 +1,23 @@
-# commitment to diversity and inclusion.
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1d448f16646a11d21960718b9f5cd99addd3829
+title: H08NFX-PDF-ENG
+---
+## for professional development—for example, through both programs
 
-Another alternative is to do what has worked at the University of
+targeted to speciﬁc populations and to all employees through the
 
-California system: Ask candidates to describe in an essay the challenges
+company’s learning platforms. Also advisable is to open up ERGs and
 
-they have faced, and how they have overcome them. This approach
+similar initiatives to any person who wishes to participate, provided
 
-sends the inclusive message that the goal is to address disadvantage
+they support the group’s goals. If handled well, this can enhance program eﬀectiveness.
 
-experienced by any group. It also reaches ﬁrst-generation professionals,
+Internships and fellowships limited to speciﬁc groups based on race
 
-which Acting Chair Lucas has recommended.
+or gender also are easy to reframe. America First Legal sued several
 
-It’s not illegal to use the term “DEI,” but you can consider alternatives.
+law ﬁrms with fellowship programs but dropped those suits when the
 
-Companies are acutely aware that anything named DEI, DEIB (diversity,
-
-equity, inclusion, and belonging) or DEIA (diversity, equity, inclusion,
-
-and accessibility) will show up in searches for potential targets for litigation or government enforcement eﬀorts—even if the programs are
-
-lawful and compliant with EEO laws. Some companies have shifted
-
-from using the phrase “DEI” to “belonging,” on the theory that creating
-
-an environment where a broad range of talent can thrive is not illegal—
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁrms redeﬁned the programs as open to everyone with a demonstrated

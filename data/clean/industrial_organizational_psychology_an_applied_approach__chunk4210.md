@@ -1,7 +1,13 @@
-## Gosling, S. D., Vazire, S., Srivastava, S., & John, O. P. (2004).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bbe112e1261528aaf083502e3f6c8618377822e6
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Gordon, M. E., Slade, L. A., & Schmitt, H. (1986). Th e “science of
 
-Should we trust web-based studies? A comparative analysis of six perceptions about internet questions. American Psychologist, 59(2), 93–104.
+the sophomore” revisited: From conjecture to empiricism. Academy of Management Review, 11, 191–207.
 
-Gowen, C. R. (1990). Gainsharing programs: An overview of
+Gordon, R. A., & Arvey, R. D. (2004). Age bias in laboratory
 
-history and research. Journal of Organizational Behavior Management, 11(2), 77–99.
+and ﬁ eld settings: A meta-analytic investigation. Journal of Applied Social Psychology, 34(3), 468–492.

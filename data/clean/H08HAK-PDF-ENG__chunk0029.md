@@ -1,15 +1,13 @@
-# HBR / Digital Article / Research: Performance Reviews That Actually Motivate Employ…
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d82f5b8e81a096ae2baedaa6184e65b0ea62938b
+title: H08HAK-PDF-ENG
+---
+# continuous development.
 
-Delivering negative performance feedback. Eﬀectively delivering
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-negative feedback is a pivotal part of helping your employees
+7
 
-understand how they can improve and grow. Though while employees
-
-generally respond well to positive feedback regardless of how it’s
-
-delivered, negative feedback can evoke resistance, defensiveness,
-
-or even feelings of helplessness among employees. For managers,
-
-presenting negative feedback can be challenging and uncomfortable.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

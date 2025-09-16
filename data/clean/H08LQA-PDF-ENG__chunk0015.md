@@ -1,19 +1,31 @@
-## HBR / The Big Idea / When Employees Take Sabbaticals, Organizations Benefit
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 974968fb48ed937752d6e77c3570dcb361f1212a
+title: H08LQA-PDF-ENG
+---
+# Building Organizational Resilience
 
-But when a sabbatical reveals that your employee wants to move on
+Many company leaders I talk to fear that if they oﬀer a sabbatical, they’ll
 
-from their role or your company, there are silver linings. First, you’ve
+essentially give a “golden parachute” to an employee who intends
 
-parted ways with someone who wasn’t committed to your organization
+to leave. Here’s some good news: According to my research, 80% of
 
-anyway. As one Zappos director explains, “If upon the ﬁrst sight of
+extended-break-takers return to their companies. Of course, that means
 
-daylight they sprint for the exits, at that point I wouldn’t want them on
+that 20% do not. While this number is far preferable to the 0% of
 
-our team anymore. We have no shortage of folks who actually want to
+employees who return when they are forced to quit to get an extended
 
-be here.” And second, new employees bring with them high motivation,
+leave, it does suggest that turnover is a legitimate worry. Recruiting and
 
-new ideas, fresh energy, and insights from their previous employment,
+training a new hire takes time, and the process is disruptive, creating
 
-whether at competitors or in other industries, that can lead to more
+extra work for those who remain.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

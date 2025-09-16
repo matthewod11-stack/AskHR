@@ -1,7 +1,27 @@
-# Page 10 of 12
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 51e6830999fe1d4573fae94c957cd256dee0d777
+title: read_online
+---
+# Upper
 
-Post hoc testing A further test was performed to ascertain the effect of the interaction of WLBC and prior studies on intent to quit. Although individuals with higher education have higher turnover intentions, and although this difference seems to be larger at higher levels of WLBC (Figure 7), this difference is not significant in testing. This test was considered to be appropriate in order to gauge the potential influence of educational attainment for this cohort who were undertaking studies. The lack of a moderating effect on education accords with the results of a study by Du Plooy and Roodt (2013) in which education levels were not found to be a moderator in the prediction of turnover intentions, unlike the results of a study by Bester (2012), which found that they did.
+0.0000
 
-Most respondents (71%) fell into the age group 20–35 years, with most having a school leaving certificate as their highest qualification. Those with other qualifications seem to be a minority, and this result suggests that having a prior qualification does not differentiate an individual from the rest of the cohort in terms of their WLBC–withdrawal cognitions relationship.
+0.3502
 
-Limitations Certain limitations of the study need to be acknowledged. Firstly, this research was limited to one university and one geographic region, namely Gauteng. Results may be generalised only to contexts that are similar to this one. A cross-sectional study design was used, which has certain limitations as it cannot show which relationships are increasing or decreasing in their associations over time. The most important limitation of this study is that the methods applied here cannot be used to ascribe causality. This is a typical research. Nevertheless, these results are taken to be a valid reflection of the net relationships between tested variables that manifest across the sample.
+0.5473
+
+0.0000
+
+0.2175
+
+0.3872
+
+0.0313
+
+0.0880
+
+0.2095
+
+Open Access

@@ -1,17 +1,27 @@
-## to your most important and highest-satisfaction activities, and invest
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9881a1b3c8f9a652ffdf39a67fc33af25683dde8
+title: H07XDL-PDF-ENG
+---
+# similar PERMA-V exercise.)
 
-less in those that are less important (bottom left and right).
+Now sketch out your own 2×2; we call it the Strategic Life Portfolio. But
 
-Finally, look at your entire 2×2 and ask yourself: Does my current
+instead of mapping growth against share, you will put the importance
 
-portfolio of SLUs put me on the right track to support my purpose and
+of each SLU on the y-axis and the satisfaction it brings on the x-axis.
 
-achieve my vision? Does it bring me closer to how I deﬁne a great life?
+Plot each SLU with a bubble, making the size of the bubble roughly
 
-Where can I save and reallocate my time? Just as in corporate strategy
+proportional to the percentage of time in a week you spend on it.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+In the top-left quadrant, you will ﬁnd the SLUs of high importance
 
-13
+and low satisfaction. These are areas of high urgency, because you care
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+about these activities deeply but aren’t focusing on them enough to get
+
+the most out of them. The SLUs in the top-right quadrant also deserve
+
+some attention: You want to keep devoting signiﬁcant time and energy

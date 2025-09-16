@@ -1,11 +1,33 @@
-# our new era of work.
+---
+source_path: H07THH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 991e90e45b83ec2c98bc6178b40a0dd292452155
+title: H07THH-PDF-ENG
+---
+# HBR / Digital Article / Research: Flexible Work Is Having a Mixed Impact on Employee…
 
-This article was originally published online on October 16, 2023.
+teams are more likely to report they are burning out as compared to
 
-Jeremie Brecheisen is a partner and managing director of The Gallup CHRO Roundtable.
+managers leading either remote or onsite teams. You might be thinking
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+managers will ﬁgure it out, but what Gallup discovered is that they are
 
-6
+not ﬁnding their way, but instead are losing themselves.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+With mental health, engagement, productivity, and more on the line,
+
+leaders should require training on leading hybrid teams that also
+
+teaches managers how to put on their own oxygen masks before helping
+
+others — because their mental health is at just as much risk.
+
+To be truly engaged and productive, your employees must thrive in
+
+both their work and their life. Organizations that help employees ﬁnd
+
+their version of balance, prioritize their feelings of being cared for, and
+
+ensure managers are actually equipped to lead remote and hybrid teams
+
+have a good chance of improving both well-being and productivity in

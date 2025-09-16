@@ -1,9 +1,9 @@
-# McGraw-Hill, 2nd edition.
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: c86d9d9af39fe42528b82abcad6933523be3e89d
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+## Personal Selling & Sales Management, 18(Winter), 53-63.
 
-Robson, C. (2002). Real World Research. Malden, MA: Blackwell Publishing, 2nd edition.
-
-Schmitt, N. (1994). Method Bias: The Importance of Theory and Measurement, Journal of Organizational Behavior,
-
-15(5), 393-398.
-
-Sparrowe, R. T. & Liden, R. C. (1997). Process and Structure in Leader-Member Exchange, The Academy of
+Richardson, L. (2009). Sales Coaching: Making the great leap from Sales Manager to Sales Coach. New York:

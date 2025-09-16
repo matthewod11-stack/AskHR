@@ -1,13 +1,19 @@
-# retailers.
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a977aeba501a9d2997bf2b5b0704e5eaa75c58c6
+title: H08UMD-PDF-ENG
+---
+# the company’s product lines.
 
-Suppliers contemplating changes to their distribution strategies should
+Not all retailers disengaged to the same degree, however. The
 
-consider how they might aﬀect retailers of diﬀerent sizes, the
+researchers determined that large retailers reduced their orders
 
-researchers write. While relationships with large retailers may not suﬀer
+substantially less than small retailers did. A survey of 138 of the original
 
-much, they contend, suppliers who want to stay on good terms with
+2,625 retailers revealed that when retailers are large and powerful,
 
-small customers should think about oﬀering them lower wholesale
+they’re less likely to perceive the launch of a supplier’s online shop as
 
-prices or products that are diﬀerent from those sold on their direct-to-
+a competitive threat and retaliate only minimally compared with small

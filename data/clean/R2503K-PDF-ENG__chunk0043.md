@@ -1,9 +1,11 @@
-## Sociologists Frank Dobbin and Alexandra Kalev found that opt-in
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81ccfa5b6c149c2cbe75fe18aa906504330fdbee
+title: R2503K-PDF-ENG
+---
+# than their cultural diﬀerences.
 
-training sessions that emphasize perspective-taking and skill-building
+Diversity training can play an important role as leaders walk
 
-help team members understand how their diﬀerences contribute to
-
-achieving shared goals. Instead of relying on broad generalizations and
-
-stereotypes, leaders can emphasize diverse work styles and values—
+the line between ignoring diﬀerences and overindexing on them.

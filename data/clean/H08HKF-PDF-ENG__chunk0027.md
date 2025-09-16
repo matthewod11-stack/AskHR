@@ -1,7 +1,17 @@
-# augmentation, ﬁnancial resources, etc.
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12e241c44f2aa7b6f3623f9809af61d8d52f0af3
+title: H08HKF-PDF-ENG
+---
+## crucial that the RAI program not unnecessarily stiﬂe innovation.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- Does the RAI program augment those other programs? For instance,
 
-7
+might it augment the cyber program?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Whether the RAI program interferes with or augments other
+
+strategic priorities, what needs to be tweaked so that everything
+
+works in harmony? This could include human resources, workﬂow

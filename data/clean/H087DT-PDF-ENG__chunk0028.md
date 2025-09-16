@@ -1,3 +1,21 @@
-## HBR / Digital Article / Make Your Workday Work for Your Mental Health
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e635c99e84fc5bb691091d51d9813e9514684551
+title: H087DT-PDF-ENG
+---
+# list to the next don’t feel good.
 
-to work) per day keeps them from piling up and creating mental clutter
+In my book Stress-Free Productivity, I observed that I can do up to an
+
+hour of admin tasks before I start my deep work, without disrupting
+
+how much deep work I get done. The reason I focus on my admin tasks
+
+ﬁrst is that if I attempt to get to them after deep work, I’m too tired. And checking oﬀ at least one “life admin” task (something not related
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

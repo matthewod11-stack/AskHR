@@ -1,25 +1,31 @@
-# than ever before.
+---
+source_path: H08S5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1cf69e56b725766f491dc5896d9936a521d92a7
+title: H08S5Y-PDF-ENG
+---
+# problems.
 
-This was a wake-up call for Claudia. What had made her successful
+But here’s where things get tricky. While a senior role comes with nice
 
-at the frontline level—behaviors like being hands-on and swooping in
+rewards, the transition itself can be disorienting. Leading leaders isn’t
 
-with solutions—was now holding her back. She was competent and
+“more of the same” just with bigger teams and budgets. In reality, you
 
-capable, but she hadn’t updated her professional identity to match her
+have to fundamentally shift how you think about your role, how you
 
-new operating altitude.
+spend your time, and how you measure success.
 
-Maybe you also ﬁnd yourself in the middle of transitioning to leading
+Claudia, an operations executive, discovered this the hard way. She
 
-leaders and trying to ﬁnd your footing. If so, then like Claudia, you
+had built her reputation on solving any problem, from late shipments
 
-might be realizing that it requires rewiring beliefs you have about what makes you valuable and eﬀective. Here are the three key shifts you need
+and client complaints to staﬃng shortages. When she was promoted
 
-to make.
+to oversee four regional managers, Claudia saw it as an extension of her previous role. She jumped in to oﬀer guidance, sat in on team
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+meetings, and weighed in on almost every decision, not realizing she
 
-2
+was crowding out her managers in the process. They seemed frustrated,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+not grateful—and Claudia’s boss questioned why she was still in the weeds. She found herself working longer hours but feeling less eﬀective

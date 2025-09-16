@@ -1,39 +1,23 @@
-## such as Ratatouille, Finding Nemo, and Soul and the Incredibles and
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6430b88f4c2241f91f5786b61fb27363d3273b3a
+title: R2302E-PDF-ENG
+---
+## HBR / Magazine Article / You Need Two Leadership Gears
 
-Toy Story series. According to Ed Catmull, who cofounded Pixar and
+suggestions, raise concerns about problems and risks, and argue. They
 
-was its president for its ﬁrst 32 years, the company uses power shifting
+also make it psychologically safe for people to speak up—ensuring they
 
-in the meetings of a group dubbed “the brain trust.” At these meetings
+feel they’ll be heard, respected, and valued. And when it’s time to end
 
-ﬁlmmakers—including story artists, producers, and directors—help
+the discussion, make a decision, and act, skilled leaders signal that
 
-directors develop their ﬁlms by oﬀering suggestions and criticism and
+they’re taking charge again.
 
-debating diﬀerent solutions. Catmull recently told us, “While outside
+Teams that routinely shifted between “one person clearly takes the lead” and “we all participate equally” outperformed those that operated in just one of those modes.
 
-the room, one person may have more authority than another, inside the
+That’s what the ﬁlmmakers at Pixar Animation Studios do. Pixar is
 
-brain-trust meeting everyone’s voice has equal weight. The people in
-
-the room must view one another as peers.” To help “remove power from
-
-the room,” he added, during these sessions the most prestigious people
-
-“keep quiet for the ﬁrst 10 or 15 minutes” and allow others to speak.
-
-At the end of the meeting, after the group has ﬁnished sharing and
-
-debating ideas as peers, the hierarchy kicks back in: “The ﬁnal decision
-
-on how to solve a problem is always the director’s,” Catmull said.
-
-Meetings are a good opportunity for leaders to shift power modes.
-
-Though people love to hate meetings, every organization needs
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+renowned for compelling and proﬁtable computer-animated movies

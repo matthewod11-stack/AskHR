@@ -1,15 +1,15 @@
-## wide and simultaneous or b) sequentially by department/role?
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: afafc302cbb5ff74eb48dff062022e80bad8cb35
+title: H08HKF-PDF-ENG
+---
+## implementation to monitoring to quality assurance to auditing of the
 
-- If a) will you do advanced training for all departments
+RAI program. This will also include the budgeting, the ﬁnancing, the
 
-simultaneously, or is it only the general training module that is
+people who will have oversight, management style, and so on. Other
 
-delivered simultaneously? Will you only require attestation or will
+high-level questions include:
 
-you test whether they have the appropriate level of knowledge?
-
-- If b), what’s the sequence/how will you prioritize? What milestones
-
-must be hit to proceed to subsequent departments/roles?
-
-- Will you include vendors, suppliers, strategic partners, board
+- Will the cadence of deployment of the RAI program be: a) enterprise-

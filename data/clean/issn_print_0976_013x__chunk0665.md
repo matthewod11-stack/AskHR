@@ -1,7 +1,25 @@
-## STRATEGIC IMPERATIVES FOR PROMOTING DIVERSITY AND INCLUSION
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 3713f3d4ae3a1456aceddeb9000c95793ec29eb3
+title: issn_print_0976_013x
+---
+# individuals.
 
-Cox and Lancefield 2021) underlined five strategic imperatives for promoting diversity and
+As such, some organizations may need to move forward in the DE&I space at a fundamental
 
-inclusion in organizations viz.
+level. A starting point would include examining the root causes of racism as a threshold
 
-- CEOs as Champions of D&I efforts
+foundation. A look back in history reveals the scourge of slavery and its impact on society over
+
+centuries and how the burden has plagued our nation, along with the guilt of those actions
+
+weighing heavily on our collective conscience. Superiority ideologies passed down from
+
+generation to generation are at the base in the formation of racial prejudice. Without
+
+exposure to diversity and the plight of people of colour in society in general and in the
+
+workplace, individuals cannot gain the pertinent information or develop the necessary
+
+empathy to address and remedy such issues (Baum, 2021).

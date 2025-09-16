@@ -1,9 +1,7 @@
-# in the educational context. This
-
-impact the physical and psychological health of those
-
-was done for several reasons. Educational research:
-
-targeted (p.1604). In simple terms, the stakes are very
-
-- 1) has shown the longest history of publication related
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: 6cbae99ea2fb2f521fdc9194c9dee76ea6f1386e
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+# Inclusive Leadership

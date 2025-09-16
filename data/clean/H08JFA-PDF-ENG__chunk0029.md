@@ -1,11 +1,25 @@
-## HBR / Digital Article / Why You’re Chronically Overcommitted
+---
+source_path: H08JFA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2f1344561117a442bd1bb43526c634f96612486e
+title: H08JFA-PDF-ENG
+---
+# Practice “micro-mastery.”
 
-In order to assess which opportunity or task is relevant to your micro-
+You might feel tempted to say yes to every opportunity that comes your
 
-mastery goals, ask yourself these questions before agreeing to anything:
+way, believing that all experience is good experience. While that might
 
-- Asses the relevance and impact on your long-term goals: Does this
+be true sometimes, irrelevant experience should not come at the cost
 
-directly build the skills I want to develop?
+of relevant experience. Micro-mastery is focusing on excelling in one or
 
-- Consider the cost: Will taking this on impact my ability to perform in
+two speciﬁc small areas of your role (tasks or opportunities), instead of
+
+saying yes to everything.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

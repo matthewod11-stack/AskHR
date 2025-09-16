@@ -1,7 +1,27 @@
-# the organization.
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2918ab43b8452d9c2d5a089718b4b1e07b8d491
+title: H08F9M-PDF-ENG
+---
+# Increase organizational “light.”
 
-In that spirit, the work of leadership must overcome what we call
+In our view, leadership is always and everywhere a moral work.
 
-organizational darkness — attitudes, behaviors, and practices that make seeing the right way forward more diﬃcult. Darkness is generated
+Leadership derives from moments of inﬂuence. What a potential leader
 
-by things like arrogance, inﬁghting, abuse, bullying, backstabbing,
+does with that inﬂuence will impact the people involved for good, or
+
+for bad. That makes leadership a moral concern and we believe that
+
+eﬀective leaders always seek to do good, and to make things better
+
+for the long term. This is what we call the soul of leadership, and
+
+it demands that leaders (and those they lead) strive to do what is
+
+right, because it is right, even when it is hard. This means that the
+
+work itself and the people who do it need a moral context — a shared
+
+framework of moral values and beliefs that guide and direct action in

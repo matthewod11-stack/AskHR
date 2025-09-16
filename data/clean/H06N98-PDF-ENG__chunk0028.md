@@ -1,21 +1,25 @@
-# Competitions
+---
+source_path: H06N98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98ec1d6c521b20cbe12dd73dc8fd81c61eb342f5
+title: H06N98-PDF-ENG
+---
+## HBR / Digital Article / A User’s Guide to Open Strategy
 
-Online contests typically prove most productive for companies when
+Choose the right tools for engaging with outside participants
 
-the strategic challenges are complex or novel, when established best-
+As shown in “The Open Strategy Decision Tree” graphic above, we’ve
 
-practice approaches don’t exist, and when companies don’t know which
+developed a framework to help managers determine for each of
 
-precise combinations of skills or areas of expertise are required to
+the three phases of strategy (1) whether participants should come
 
-succeed. As the amount of information you have to divulge in the
+exclusively from inside the company or should also include externals
 
-ideation phase is limited, it is best to opt for a large crowd. This
+and (2) whether they should recruit large groups of randomly selected
 
-increases the chances of spotting anomalies and lends legitimacy
+or self-selecting people or target small numbers of hand-picked
 
-to new ideas, facilitating collective decision making. To keep up
+individuals. In each case, we identify the appropriate open strategy
 
-engagement it makes sense to gamify the contest as the Navy did
-
-when participants received votes and comments as a form of micro-
+mechanisms for engaging with external participants, which include:

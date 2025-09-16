@@ -1,11 +1,23 @@
-# HBR / Digital Article / Coding Isn’t a Necessary Leadership Skill — But Digital Literacy…
+---
+source_path: H075J4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5de6649ce24931007a2ccf04c88fd7440c8761f
+title: H075J4-PDF-ENG
+---
+# productive.
 
-While the data science team might not have solutions right away, this
+This weekly event doesn’t have to be longer than 30 minutes. In the ﬁrst
 
-conversation will lay the foundation for eﬀective collaboration. In turn,
+meeting, begin by outlining your goals for the year and where you see
 
-ask the technical team to tell you what problems they’re working on,
+the biggest bottlenecks. Is there something you wish you knew about
 
-how they measure success, and who is involved. Seeing how engineers
+your customers? Are there sales spikes or sudden drops that mystify
 
-and data scientists solve problems will educate you on what’s possible
+you? What concerns you about your next advertising campaign?
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

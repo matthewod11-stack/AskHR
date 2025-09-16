@@ -1,27 +1,11 @@
-# emotional load.
+---
+source_path: H07HOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce2159650b09240d884a6d01603e1cbb4aad60a6
+title: H07HOW-PDF-ENG
+---
+## HBR / Digital Article / Navigating Uncertainty About Your Role During a Reorg
 
-Take this example. One of my clients was required to transition her
+And try not to personalize any reorg-related conversations and decisions. The reality is that companies undertake restructuring eﬀorts
 
-organization to another leader with her next role still undeﬁned. She
-
-felt unvalued and upset, but knew she needed to be collaborative. In
-
-reappraising the situation, she realized this change would give her
-
-a chance to recharge and try something new. This helped her feel
-
-more positive about the transition and showed that she could thrive in
-
-uncertainty, resulting in accolades and a more senior role. Ask yourself:
-
-What could be some upsides of this reorg for me?
-
-. . .
-
-While you may have limited inﬂuence over your company’s
-
-reorganization, you absolutely have control over your response in
-
-moving forward. Using the strategies here can provide a measure of
-
-self-determination and opportunity, helping you successfully navigate
+purely for business reasons. Thinking otherwise only adds to your

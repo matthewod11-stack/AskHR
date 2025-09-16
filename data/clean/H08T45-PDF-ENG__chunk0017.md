@@ -1,11 +1,19 @@
-## HBR / Digital Article / 6 Steps to Reset a Demotivated Team
+---
+source_path: H08T45-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 927fddfb31ac72eb2d6537acd5b7e690d3700934
+title: H08T45-PDF-ENG
+---
+# culture.
 
-- Tracking progress against the team’s new goals and priorities.
+- 6. Readjust: Sustain momentum
 
-- Providing micro-feedback frequent, brief, and targeted, and holding
+A relaunch is not a one-time event—it’s an ongoing process, and the
 
-each other accountable to new ways of working.
+steps aren’t always linear. Keep the momentum by:
 
-- Regularly reassessing and adjusting what’s working and what’s not,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-including roles and responsibilities, decision-making processes, and
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

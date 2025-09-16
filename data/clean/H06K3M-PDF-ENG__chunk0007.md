@@ -1,13 +1,15 @@
-## time each week in shorter and more fragmented meetings, with voice
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2fd69d0333cd71d2c08c7a1b2adf39683b6a74ef
+title: H06K3M-PDF-ENG
+---
+# mikkelwilliam/Getty Images
 
-and video call times doubling and IM traﬃc increasing by 65%. And to
+Collaborative work — time spent on email, IM, phone, and video calls
 
-make matters worse, collaboration demands are moving further into the
+— has risen 50% or more over the past decade to consume 85% or
 
-evening and are beginning earlier in the morning.
+more of most people’s work weeks. The Covid-19 pandemic caused this
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁgure to take another sharp upward tick, with people spending more

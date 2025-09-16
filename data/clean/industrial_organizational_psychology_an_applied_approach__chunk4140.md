@@ -1,23 +1,25 @@
-## Cooper, W. H. (1981a). Conceptual similarity as a source of
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1e4d175b00ddafe65a213fe80e5ad902133532ab
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Conard, M. A., & Ashworth, S. D. (1986). Recruiting source
 
-illusory halo in job performance ratings. Journal of Applied Psychology, 66, 302–307.
+eﬀ ectiveness: A meta-analysis and re-examination of two rival hypotheses. Paper presented at the 1st annual meeting of the Society for Industrial and Organizational Psychology, Chicago, IL.
 
-Cooper, W. H. (1981b). Ubiquitous halo. Psychological Bulletin,
+Conard, M. A., & Matthews, R. A. (2005, March). Th ey’re not
 
-90, 218–244.
+“doing too much,” they’re neurotic: Personality, cognitions, workload and stress in college students. Paper presented at the annual meeting of the Eastern Psychological Society, Boston, MA.
 
-Cooper-Hakim, A., & Viswesvaran, C. (2005). Th e construct
+Condly, S. J., Clark, R. E., & Stolovitch, H. D. (2003). Th e eﬀ ects of incentives on workplace performance: A meta-analytic review of research studies. Performance Improvement Quarterly, 16(3), 46–63.
 
-of work commitment: Testing an integrative framework. Psychological Bulletin, 131(2), 241–259.
+Connolly, J. J., & Viswesvaran, C. (2000). Th e role of aﬀ ectivity in job satisfaction: A meta-analysis. Personality and Individual Diﬀ erences, 29(2), 265–281.
 
-Cordes, C. L., & Dougherty, T. W. (1993). Review and integration of research on job burnout. Academy of Management Review, 18(4), 621–656.
+Contournet, G. (2004, October). Maintenance of order: Legal and psycho-sociological aspects. Paper presented at the annual meeting of the Society for Police and Criminal Psychology, Rome, Italy.
 
-Cornelius, E. T., & Hakel, M. D. (1978). A study to develop an improved enlisted performance evaluation system for the U.S. Coast Guard. Washington, DC: Department of Transportation.
+Converse, J. M., & Presser, S. (1986). Survey questions: Handcrafting the standardized questionnaire. Beverly Hills, CA: Sage. Conway, J. M., & Huﬀ cutt, A. I. (1997). Psychometric properties
 
-Cornelius, E. T., Hakel, M. D., & Sackett, P. R. (1979). A methodological approach to job classiﬁ cation for performance appraisal purposes. Personnel Psychology, 32, 283–297.
+of multi-source performance ratings: A meta-analysis of subordinate, supervisor, peer, and self-ratings. Human Performance, 10(4), 331–360.
 
-Cornwell, L. (2007, September 10). Larger employees, smaller paychecks. Roanoke Times & World News, pp. A1, A4. Cortina, J. M., Goldstein, N. B., Payne, S. C., Davison, H. K., & Gilliland, S. W. (2000). Th e incremental validity of interview scores over and above cognitive ability and conscientiousness scores. Personnel Psychology, 53(2), 325–351.
-
-Cottrell, N. B. (1972). Social facilitation. In C. G. McClintock (Ed.), Experimental social psychology (pp. 185–236). New York: Holt, Rinehart & Winston.
-
-Courtis, J. K. (1995). Readability of annual reports: Western versus Asian evidence. Accounting, Auditing and Accountability, 8(2), 4–17.
+Cooper, M., Kaufman, G., & Hughes, W. (1996). Measuring supervisory potential. IPMA News, December, pp. 8–9.

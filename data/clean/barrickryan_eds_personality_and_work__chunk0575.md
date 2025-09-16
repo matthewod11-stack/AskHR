@@ -1,15 +1,11 @@
-# versity Press.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: d68657923d9d573128b003c45d8d148f4523df0c
+title: barrickryan_eds_personality_and_work
+---
+# 180 PERSONALITY AND WORK
 
-O’Connor, E. J., Peters, L. H., Rudolph, C. J., & Pooyan, A. (1982). Situ- ational constraints and employee affective reactions: A partial ﬁeld replication. Group and Organizational Studies, 7, 418–428.
+Miles, D. E., Borman, W. E., Spector, P. E., & Fox, S. (2002). Building an integrative model of extra work behaviors: A comparison of coun- terproductive work behavior and organizational citizenship behav- ior. International Journal of Selection and Assessment, 10, 46–52. Mobley, W. H., Horner, S. O., & Hollingsworth, A. T. (1978). An evalua- tion of precursors of hospital employee turnover. Journal of Applied Psychology, 63, 408–414.
 
-Ones, D. S., & Viswesvaran, C. (1998). Integrity testing in organizations. In R. W. Grifﬁn & A. O’Leary-Kelly (Eds.), Dysfunctional behavior in organizations: Violent and deviant behavior (pp. 243–276). Greenwich, CT: JAI Press.
-
-Ones, D. S., & Viswesvaran, C. (2001). Integrity tests and other criterion- focused occupational personality scales (COPS) used in personnel selection. International Journal of Selection and Assessment, 9, 31–39.
-
-Ones, D. S., Viswesvaran, C., & Schmidt, F. L. (1993). Comprehensive meta-analysis of integrity test validities: Findings and implications for personnel selection and theories of job performance. Journal of Applied Psychology, 78, 679–703.
-
-Parkes, K. R. (1990). Coping, negative affectivity, and the work environ- ment: Additive and interactive predictors of mental health. Journal of Applied Psychology, 75, 399–409.
-
-Perrewe, P. L., & Ganster, D. C. (1989). The impact of job demands and behavioral control on experienced job stress. Journal of Organiza- tional Behavior, 10, 213–229.
-
-Ralston, D. A. (1989). The beneﬁts of ﬂextime: Real or imagined? Jour-
+Moyle, P. (1995). The role of negative affectivity in the stress process: Tests of alternative models. Journal of Organizational Behavior, 16, 647–668. Murray, H. A. (1938). Explorations in personality. New York: Oxford Uni-

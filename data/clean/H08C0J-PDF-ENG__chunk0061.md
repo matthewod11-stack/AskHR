@@ -1,11 +1,11 @@
-## susceptible to day-to-day climate extremes). Communication should
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 876d138b991fc942f137c8a8ad214533a8b83b13
+title: H08C0J-PDF-ENG
+---
+## broad in nature (for example, conversations across the entire workforce
 
-be empathetic, acknowledging that climate change can exacerbate
+around extreme weather or climate anxiety), and speciﬁc to the
 
-existing health disparities. Leaders should express a commitment
-
-to ﬁnding solutions while also avoiding messages that inadvertently
-
-highlight socioeconomic diﬀerences. For instance, one executive who
-
-spoke at a town hall about smoke pollution described a high-ﬁltration HVAC system he had added to his home oﬃce, despite the fact that
+unique health risks of a given workforce (for example, employees and oﬃces located near ﬂooding areas or groups of outdoor workers more

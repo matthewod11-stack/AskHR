@@ -1,13 +1,21 @@
-## directors but also their preferred engagement rhythms and forms of
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 079fcec35d8e797494d53f95509e3e2d6a508679
+title: S24042-PDF-ENG
+---
+# around the new path forward.
 
-interaction. He arranged for the directors to spend meaningful time
+Engage stakeholders at the right time. For most new CEOs, this process
 
-getting to know his senior team. This work paid oﬀ: At a stage when
+starts with the board. Building trust, familiarity, and support here is
 
-many new CEOs become an information bottleneck, he instead became
+a priority, but new CEOs rarely recognize just how much time they’ll
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+need to invest in learning the subtleties of boardroom dynamics and
 
-9
+developing a strong relationship with each director. Mahesh devoted
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+himself to this important task almost immediately after becoming CEO,
+
+intent on understanding not only the domain expertise of his various

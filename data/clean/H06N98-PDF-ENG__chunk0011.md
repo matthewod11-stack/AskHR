@@ -1,31 +1,27 @@
-## participants from both inside and outside their organizations for very
+---
+source_path: H06N98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97e2ae0c75e51ca415f25b33f048b941151bffbc
+title: H06N98-PDF-ENG
+---
+# vehicles across borders.
 
-speciﬁc questions of strategic relevance, while retaining partial or even
+If the IC had posed a challenge to coders directly, they would have
 
-total secrecy. But open methods can also be applied at a more general
+attracted unwanted attention. Russian spies might have sabotaged the
 
-and strategic level – and we have developed a framework for doing just
+contest, for instance, by ﬁling submission after submission with smart-
 
-that. By using the framework, strategy-makers can beneﬁt from outside
+looking but useless algorithms. Or they might have tried to ﬁle the
 
-perspectives while maintaining appropriate levels of secrecy.
+winning algorithm, and then used their inside knowledge to adjust their
 
-Identify where you are in your strategy-making
+movements on the ground to avoid being tracked. By framing their
 
-A simple insight sits at the heart of our framework: strategy is developed
+challenge as an exercise in nature conservation, the IC could get the
 
-in three distinct phases, each of them requiring a diﬀerent solution
+knowledge it needed undetected.
 
-to get the balance between openness and secrecy right. Depending
+The IC experience clearly demonstrates that organizations can use
 
-on whether a company wants to open up in order to determine the
-
-direction it wants to take (idea generation phase), work out the exact
-
-details of their strategy (formulation phase), or mobilize staﬀ around
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+open methods to leverage diverse perspectives from a large number of

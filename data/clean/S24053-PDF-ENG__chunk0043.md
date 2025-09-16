@@ -1,21 +1,11 @@
-## experience of the team—everything from its culture and climate to
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b36681b931c22c98071e8d7869f3b1b298ae43e
+title: S24053-PDF-ENG
+---
+# training.
 
-its operations and routines. Survey your direct reports or run focus
+- 2. Hold up the mirror. To determine how you’re currently working together, conduct a team-eﬀectiveness diagnostic. Focus on understanding how your team views itself as well as how others see
 
-groups to get an outside-in perspective. Ask questions about whether
-
-the team is demonstrating the ﬁve traits or not. Whenever possible,
-
-ensure anonymity and conﬁdentiality to encourage candor.
-
-This process reveals truths that can help a team get better faster.
-
-Consider the experience of one ﬁntech CEO who, on the basis of
-
-anecdotal evidence and his own observations, was certain that his
-
-team’s struggles stemmed from animosity between two business heads.
-
-Anonymous surveys and conﬁdential interviews revealed that the
-
-problems went deeper, however, including a general lack of agreement
+it. Use a survey or interviews to get members’ opinions on their

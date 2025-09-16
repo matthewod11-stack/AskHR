@@ -1,13 +1,15 @@
-## A less-direct but still helpful source of hints about the administration’s
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6e027d2b5332b5cb86a7f4df09bfcf8f9d20354
+title: H08NFX-PDF-ENG
+---
+# policies
 
-position can be found in complaints ﬁled by America First Legal, founded by Stephen Miller (currently Trump’s deputy chief of staﬀ). (An
+- Removing “culture ﬁt” from hiring and promotion practices
 
-important note: Filing a complaint does not necessarily mean America
+- Widening the pool of applicants by expanding colleges and
 
-Legal’s legal theory will prevail.)
+geographical areas where you recruit
 
-Using these two sources as guidance, we’ll assess the risk levels of
-
-common corporate DEI policies and programs. We’ll also look at the
-
-research on what actually works to deliver concrete gains toward a fairer
+- Conducting regular audits to identify potential areas of legal risk

@@ -1,7 +1,9 @@
-## complete with curated aesthetics, communal kitchens, and wall-to-wall
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad6aaad9114c4d3ffb9e1627a3326bba2d8fc348
+title: H08UGX-PDF-ENG
+---
+# HBR / Digital Article / Why Leaders Should Bring Their Best Self—Not Their Whole Self…
 
-motivational quotes, sell the illusion of connection while engineering
-
-curated loneliness under the guise of community.
-
-Even the more polished types aren’t immune. Some CEOs broadcast
+that blur the line between oﬃce and home. These utopian setups,

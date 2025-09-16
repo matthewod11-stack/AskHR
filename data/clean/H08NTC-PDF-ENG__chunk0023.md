@@ -1,9 +1,13 @@
-# Necessities assistance
+---
+source_path: H08NTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d8bc8f1a495aa8f180d91c40c092fb60c584fd5
+title: H08NTC-PDF-ENG
+---
+# Offer Ongoing Support
 
-If possible, consider having your team or organization organize
+When your impacted employee starts to re-engage in work activities,
 
-donations of basic necessities, such as food or clothing, to help the
+they may still feel overwhelmed. To alleviate the burden on these
 
-person get settled. During natural disasters, there are often many free
-
-resources that get circulated via email and social media. Aggregate
+employees, oﬀer practical resources, including:

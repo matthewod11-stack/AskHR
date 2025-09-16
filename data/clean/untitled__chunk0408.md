@@ -1,5 +1,9 @@
-# Color Vision
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 903ebfcb9abcd44ffc28cb032997de63f2083945
+title: untitled
+---
+# SENSORY PROCESSES
 
-Color vision provides an illustrative case history of the de- velopment of a ﬁeld in biological psychology with feet in both physics and physiology. Isaac Newton was perhaps the ﬁrst scientist to appreciate the nature of color. The fact that a prism could break up white light into a rainbow of colors meant that the light was a mixture that could produce spectral colors. But Newton recognized that the light rays themselves had no color; rather, different rays acted on the eye to yield sensations of colors (1704/1931). Oddly, the great German literary ﬁgure Goethe asserted it was impossible to conceive of white light as a mixture of colors (1810/1970).
-
-In physics there was an ongoing debate whether light was particle or wave (we know now it is both). Interestingly, Newton favored the particle theory. Thomas Young, an English physicist working a century later, supported the wave theory. Newton had developed the ﬁrst color circle showing that complementary pairs of colors opposite to one another on the circle would mix to yield white light. Young showed that it was possible to match any color by selecting three
+We select two examples of sensory processes, color vision and pitch detection, that illustrate very well the historical develop- ment of the study of sensory systems. They are both extraor- dinary success stories in the ﬁeld of biological psychology.

@@ -1,3 +1,9 @@
-# JK
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b532a0af646f6a1632299696b63a8d042ae7ccb3
+title: H08HAK-PDF-ENG
+---
+# their employees in meaningful ways.
 
-Joonyoung Kim is an assistant professor of management at the Robert J. Trulaske, Sr. College of Business, University of Missouri. His research primarily focuses on how organizations can gain a competitive advantage through systematic human resource management practices.
+This article was originally published online on November 7, 2024.

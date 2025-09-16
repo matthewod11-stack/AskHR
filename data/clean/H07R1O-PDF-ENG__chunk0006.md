@@ -1,11 +1,7 @@
-# kkgas/Stocksy
-
-The sociologist Arlie Hochshild introduced the concept of emotional
-
-labor to highlight the emotional burdens of diﬀerent jobs. Bill collectors,
-
-for example, must inure themselves from the emotional distress of the
-
-people they must harass. Doctors must deal with the emotional trauma of their patients when delivering diﬃcult medical prognoses. Almost all
-
-service workers must endure emotionally challenging encounters with
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 689655df19dbba9fc34dff1d346037b962510297
+title: H07R1O-PDF-ENG
+---
+## Published on HBR.org / August 11, 2023 / Reprint H07R1O

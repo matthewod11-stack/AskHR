@@ -1,15 +1,19 @@
-# HBR / Digital Article / How to Conduct Motivating Performance Reviews When Busine…
+---
+source_path: H07YJT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dbdc4c4bbf7afb34b7fce145222bf8111d83dd3
+title: H07YJT-PDF-ENG
+---
+## In an uncertain economy, there’s often less patience for
 
-that is another issue altogether. “You don’t want to unnecessarily alarm
+underperformers, which is why Sedatole recommends frankness during
 
-people, but transparency is important,” she says.
+the performance review. “Don’t make promises you can’t keep,” when
 
-Performance reviews oﬀer a prime opportunity to address exactly
+it comes to matters of job security, though whether or not it comes to
 
-where your employee is falling short of expectations. Oﬀer support and
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-encouragement where merited. “It can feel personal,” says Mondal. “But
+4
 
-a mediocre or poor review doesn’t make them a bad person; they’ve just
-
-had a bad year.” It’s your job to “help them see it as part of their long
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

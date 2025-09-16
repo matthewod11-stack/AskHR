@@ -1,15 +1,17 @@
-## to customers and stakeholders, such as members of upper-level
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e63c42d54814d7edf1ced7290f73d0fb55a705f1
+title: H08UL7-PDF-ENG
+---
+## HBR / Digital Article / Do You Have an Emotionally Intelligent Team?
 
-management, often enough. Team members knew that building these
+Subsequent anonymous Team EI surveys revealed that the team felt
 
-relationships could provide them with key information and visibility.
+good about its progress. The team leader agreed. Most importantly, he
 
-They chose to adopt a norm of increased stakeholder communication
+stopped micro-managing his team members.
 
-and involvement. They started by completing a stakeholder analysis
+Routinely talking to stakeholders. By taking the survey, one team
 
-map, on which they listed the names of all the stakeholders they could
-
-think of and brainstormed what a closer connection to each one might
-
-provide. They assigned one team member to serve as an ambassador to
+in the technology industry discovered that it was not reaching out

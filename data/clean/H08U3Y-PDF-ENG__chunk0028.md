@@ -1,29 +1,21 @@
-# ﬁnd common ground (consensus).
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9eec5697a9a85c73a2a796bdd834638f20e45d8b
+title: H08U3Y-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Tackle Collective Decision-Making
 
-In Figure 2, these metrics are aggregated by street into a 3D map
+performance on each priority (higher is better), and the horizontal
 
-of the city. Positive changes are in green, negative ones in red, and
+lines on each bar indicate the performance for each of these priorities
 
-alternatives can be modeled at the scale of the individual street,
+for a given future scenario. The bars with red ﬁll indicate areas that
 
-neighborhood, or the city as a whole. In Hamburg, these representations
+would change for the better; those that are green show the city has
 
-allowed users to understand trade-oﬀs and ﬁnd ways to overcome
+already met the targets. Through this chart, CityScope helps residents
 
-them. For example, the visualization made starkly clear the diﬀerences between the preferences of aﬄuent communities, where proposals that
+understand their situation (insight again), extrapolate current trends
 
-threatened lower-density zoning received the worst ratings, and the city
-
-as a whole, where building more houses in underdeveloped areas to
-
-welcome refugees scored well.
-
-CityScope then helped the residents ﬁnd the best way to accommodate
-
-these conﬂicting preferences. By evaluating competing proposals, it
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+(prediction again), evaluate possible alternatives (transformation), and

@@ -1,9 +1,9 @@
-# BG
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f2b6ea8f2b51d0678fc7fb8cef3d6dc8228b2c5
+title: H07BT4-PDF-ENG
+---
+# AW
 
-Betsy Gregory-Hosler is a Senior Director, Research in the Gartner Sales Practice, guiding complex research eﬀorts that address challenges among sales leaders.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Alice Walmesley is a Director, Advisory in the Gartner Sales Practice, regularly consulting with cross-industry Heads of Sales/ Senior Sales Leaders to understand and address their most pressing challenges and opportunities for growth.

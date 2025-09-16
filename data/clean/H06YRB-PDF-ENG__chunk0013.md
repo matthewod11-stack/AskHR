@@ -1,9 +1,9 @@
-## Substance Abuse and Mental Health Services Administration definition
+---
+source_path: H06YRB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 033102fbb524eea778efadf916a06a86c616cf85
+title: H06YRB-PDF-ENG
+---
+# trauma-informed organizations.
 
-of trauma: Trauma is an emotional injury that affects performance and
-
-well-being. The same incident can affect different people differently,
-
-so the goal is to assess each individual and provide the supports they
-
-need. A trauma-informed organization is one that operates with an
+In my work with organizations, I use a simplified version of the

@@ -1,21 +1,9 @@
-## world-leading manufacturer of sustainable solutions for automotive and general
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 4fe89c5d6460ff8e71984539ec2e0bfa6d7db84d
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Atlas Copco group
 
-industry. In its early beginnings, Atlas Copco worked in railway construction where it
-
-manufactured and sold all types of materials and tools, but began developing the first
-
-air compressors after they were hit hard by the recession of the 1880’s. Over the years
-
-the compressor business grew and became strong foundation for the company.
-
-Several strategic acquisitions brought Atlas Copco the status of a world-leading
-
-company in compressor technique. Expansion continued in other industrial segments
-
-and Atlas Copco expanded the portfolio to include assembly tools, drilling machines,
-
-vacuum technology, adhesive dispensing, and riveting technology for the automotive
-
-industry. The company become strong partner for carmakers and a leading provider
-
-of products with significant joining knowledge for car manufacturing.
+Atlas Copco is a Swedish industrial group founded in 1873 in Stockholm and is a

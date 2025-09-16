@@ -1,9 +1,35 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: be3feaf535fe0ab4e67bba4cbc2c695eb13e5c60
+title: issn_print_0976_013x
+---
+# competitive edge.
 
-challenges of future business context. In future, along with the engineering perspective of the
+The present study on evolving paradigms in supply chain research indicates several
 
-supply chain, the ecological perspective may be combined, and consideration of innovative
+indications of triggers that may be evolving. It may emerge as a sudden event in the not-too-
 
-practices will treat the supply chain as an ecosystem. Reconfiguration practices under such
+distant future, and the capabilities and innovativeness will be again under examination for
 
-ecological systems and subjected to divergent drivers will require identifying and interacting
+target achievement and performance improvement. In this context, Industrial 5.0 and allied
+
+extension in sustainability dimensions and the need for supply chain agility under extreme
+
+pressure from a reconfiguration perspective have been carried out since the Reconfigurable
+
+SC has been advocated as the most recent and robust among all the paradigms. The consensus
+
+that can be agreed upon is the positioning of Reconfiguration at the forefront for future
+
+evolving challenges.
+
+Although evolving drivers may be divergent from existing research practices, the scope and
+
+applicability of the reconfiguration principle cannot be denied. Rather than focusing on
+
+individual research paradigms requirements, the reconfigurations provide a more holistic and
+
+robust practice that can be utilized with dynamic capabilities and integration towards several
+
+38

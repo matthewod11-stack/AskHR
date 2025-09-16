@@ -1,17 +1,47 @@
-# for a more inclusive environment.
+---
+source_path: H087JX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f933df8a44134a343c313d4810b875a469e300b6
+title: H087JX-PDF-ENG
+---
+# HBR / Digital Article / When Someone You Manage Isn’t Following the Return-to-Offic…
 
-She suggests addressing these issues by creating activities and
+team members has a sick child and needs to be home for three days, be
 
-initiatives that can help to create more engagement. This might include
+ﬂexible and accommodating,” says Markman. And although eliminating
 
-introducing employees to colleagues with similar interests or arranging
+the mandate is beyond your authority, you may be able to identify
 
-mentorship opportunities. “When people feel excluded, you have to
+times when more work-from-home allowances could be permitted, says
 
-work harder to include them.”
+Kulik. You could propose remote work during periods that require deep
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+thinking or designate a “free week” each month where employees can
 
-4
+choose their work location based on their tasks. Kulik says that “these
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+minor compromises demonstrate to the big bosses that we all are on the
+
+same page” and share a desire to achieve common goals.
+
+Another oft-cited reason employees don’t want to work at the oﬃce is
+
+that it’s practically impossible to get any work done. Knowledge work is solitary, but oﬃces are often noisy. This presents an opportunity to evaluate your oﬃce environment, says Kulik. “You don’t need to gut
+
+your building or do anything dramatic.” Simple adjustments, such as
+
+relocating more chatty, social teams or designating a quiet corridor, can
+
+be eﬀective.
+
+Prioritize inclusion. To better understand the needs and concerns of
+
+your team, Kulik recommends looking at the demographic data to
+
+identify groups of employees who seem most resistant to returning to the oﬃce. This information can help you “diagnose a culture problem,”
+
+she says. For example, if your most recent hires are wary, it may be
+
+due to a lack of proper onboarding and a sense of disconnection. Or, if
+
+female employees are expressing more doubts, it may indicate a need

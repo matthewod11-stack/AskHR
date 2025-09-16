@@ -1,3 +1,21 @@
-## HBR / Digital Article / Research: When Extra Effort Makes You Worse at Your Job
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59007fa43ce0d932f6a8c87d674691c9abd9ecba
+title: H08PEA-PDF-ENG
+---
+## Simple adjustments, such as breaks, ﬂexible scheduling, and clearer
 
-Karoline Strauss is a Professor of Management at ESSEC Business School in Paris. She earned her PhD in Organizational Psychology from the University of Sheﬃeld, UK. Her research explores how individuals envision their future selves and how these visions inﬂuence proactive behavior, career development, and adaptability in the workplace. She has published in leading journals such as the Journal of Applied Psychology, Journal of Management, and Human Resource Management. Professor Strauss serves on the editorial boards of the several top journals. She has collaborated with organizations across various sectors, including healthcare, law enforcement, telecommunications, and sports.
+task prioritization, can help reduce the mental strain of proactivity
+
+while still allowing organizations to beneﬁt from it.
+
+This article was originally published online on May 1, 2025.
+
+Mouna El Mansouri is an assistant professor of Organizational Behavior at EDHEC Business School in Lille, France. She earned her MBA from Ecole des Ponts in Paris then her PhD from ESSEC Business School in Paris, and worked for around 8 years in the ﬁnance/banking industry before transitioning to academia. Her research revolves around proactivity, emotions, cognitive functioning, and well-being in the workplace.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

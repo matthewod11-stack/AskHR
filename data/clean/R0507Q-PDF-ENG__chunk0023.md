@@ -1,7 +1,15 @@
-# appropriate measure for each.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 110a1d318d93adad5f31c2ac46c9a10f78397d6e
+title: R0507Q-PDF-ENG
+---
+## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
 
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+products to market sooner, improve customers’ time to market, become
 
-7
+customers’ supplier of choice through partnerships with them, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+develop innovative products tailored to customer needs. The managers
+
+translated these general goals into four speciﬁc goals and identiﬁed an

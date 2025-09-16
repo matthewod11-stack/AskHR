@@ -1,11 +1,23 @@
-## Many opponents of such practices in the workplace
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e41ad3878ad05441791279af2b1b91b2c6c827ce
+title: industrial_organizational_psychology_an_applied_approach
+---
+# The Ethics Behind Workplace Privacy
 
-say that there are many ethical issues involved with these practices: one of which is employee privacy. Critics state that there are certain aspects of an employee’s personal life, both at work and at home, that should not be available to employers, such as personal phone conversations or personal emails. Although making per- sonal phone conversations or personal emails may cut into company time, it is unrealistic to think that there are never times when it is necessary for an employee to do such personal things during work hours.
+You read in your textbook that drug testing, of-
 
-chapter 
+fice and locker searches, psychological testing, and electronic surveillance are legal, with few
 
-Although some amount of employee monitoring, if used properly, may be useful to evaluate employees’ performance, critics say there should be a limit to how much monitoring can be done. Information that is gathered can be stored and used against the employee many years later, which could impact an employees’ potential promotion within the company or his/her references when applying to other companies. And it is not necessary that managers watch everything employees do to be able to fairly evaluate their per- formance. Some limits should be imposed, by law, including some mechanism that can warn employees when they are being monitored so that they will not be engaging in activities of a private matter.
+restrictions. Genetic screening checks for genetic abnormalities in healthy people at risk for devel- oping certain diseases in the future. This type of screening can be used to screen job applicants and employees who may be likely to develop disease
 
-As for genetic testing, this will remain an ongo-
+if exposed to certain worksite substances such as chemicals or radiation. And even though President George W. Bush signed the Genetic Information Nondiscrimination Act on May 21, 2008 that prohib- its employers from firing, refusing to hire or other- wise discriminating against workers on the basis of genetic information, there is still fear that it will be used for just that reason.
 
-ing debate. Opponents state that such screening violates the Fourteenth Amendment to the Constitu- tion, which provides equal protection to all people (not just healthy ones) and states that all people should be treated fairly. They state that a person’s health is a private matter and should not be under scrutiny of potential or actual employees. If compa- nies find out that applicants or employees are at risk for certain diseases, these applicants and employees will be treated differently from those who aren’t at risk. Not only is that breaking the law, according to critics, it is unfair, and therefore, unethical treat- ment of a certain class of people. Other objections to genetic testing include the fact that the validity and reliability of such tests have not been established, and the fear that the information gained from the genetic tests could fall into the hands of health care providers, who can then reject some people who may never actually end up with a disease from adequate health care coverage.
+legal issues in employee selection
+
+109
+
+110
+
+Proponents for such practices in the workplace say that these types of practices can protect and help employees, consumers and/or companies. Electronic surveillance such as email, Internet, and telephone monitoring, and use of video cameras is a proactive step toward catching potentially harmful or illegal behaviors by employees. For example, by monitoring Internal emails, management can learn about inappropriate emails of a sexual or discriminatory nature directed toward a specific employee or employees and can take immediate action to stop this behavior. And this type of monitoring can help employers more fairly evaluate employee performance, because managers are able to track both good and bad behaviors throughout the day by monitoring emails, Internet usage, and telephone conversations. For example, there is software that can be used to view an employee’s screen while they are working, count keystrokes of data entry personnel to track speed and reliability, and track the amount of time an employee’s computer remains idle. This type of soft- ware is beneficial to both employees and employers. And genetic screening, according to its sup- porters, can keep both employee and employer safe. Research has identified about fifty genetic disorders that could increase a person’s susceptibility to toxins or chemicals. For example, people with sickle cell trait could be at risk for sickle cell anemia if exposed to car- bon monoxide or cyanide. Genetic screening could re- duce certain people’s chances of getting such diseases, which would spare them from spending thousands of dollars in medical bills and from premature death. Employers would benefit from the savings incurred from less workers’ compensation payments, health care premiums, low productivity, and high absenteeism and turnover. And, job applicants don’t have to agree to the screening. According to defenders of this practice, those applicants have the right to seek employment else- where. Of course, this area of concern may be a moot point since President Bush signed the Genetic Informa- tion Nondiscrimination Act on May 21, 2009.

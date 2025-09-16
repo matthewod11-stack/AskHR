@@ -1,13 +1,9 @@
-# INTRODUCTION
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 75b057e96ccf9ead5b3f5985203c96c29947a249
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## STRATEGIC TALENT MANAGEMENT: A REVIEW AND RESEARCH AGENDA
 
-Since a group of McKinsey consultants coined the phrase the War for Talent in
-
-1997 (see Michaels et al., 2001; Axelrod et al., 2002), the topic of talent management has
-
-received a remarkable degree of practitioner and academic interest. This relatively recent
-
-emphasis on talent management represents a paradigm shift from more traditional human
-
-resource related sources of competitive advantage literature such as those that focus on
-
-organizational elites, including upper echelon literature (Hambrick and Mason, 1984;
+1.0

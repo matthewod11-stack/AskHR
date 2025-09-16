@@ -1,13 +1,19 @@
-## HBR / Digital Article / Making Silos Work for Your Organization
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 75adbc71c89f713a12a60c879e5029c9bc02fc05
+title: H06OBF-PDF-ENG
+---
+## performance, either directly (because the corporate KPIs and the
 
-own vertical, as opposed to working with the corporate engineering
+vertical’s KPIs don’t perfectly align) or indirectly (by aﬀecting vertical
 
-team, thus reducing the latter’s scale and overall performance. Or
+B’s performance negatively). For example, at the power company, the
 
-business development occasionally used less experienced contractors,
+business development team decided to hire technical staﬀ within its
 
-which led to hidden supervision costs down the road.
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-Checks and balances can mitigate these eﬀects. Checks identify critical
+4
 
-omissions, mistakes and other lapses that a vertical may have made as
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

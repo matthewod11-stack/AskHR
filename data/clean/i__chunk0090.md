@@ -1,11 +1,15 @@
-# outcomes.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 5f8350dc0ff3a479caadcc33c504900fbbeda813
+title: i
+---
+## mining and business analytics techniques to the field of HR=.
 
-Dooren (2012) refers to PA as a methodology that is achieved through the application of
+Isson et al. (2016) argue that the field of PA initiates the process by formulating specific talent
 
-statistical methods and experimental approaches, using metrics such as efficiency,
+management inquiries or objectives. Subsequently, it combines diverse data sources for
 
-effectiveness, and impact…to comprehend and assess the cause-and-effect connection between
+generating predictive insights concerning future scenarios. These insights, in turn, serve as a
 
-HR practices and organizational performance results. Results can be customer satisfaction,
-
-sales, or profit. It establishes credible foundations for human capital decisions, influencing
+basis for formulating actionable strategies within organizations, leading to quantifiable

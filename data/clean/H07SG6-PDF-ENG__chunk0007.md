@@ -1,17 +1,27 @@
-## HBR / Digital Article / Stop Overworking After Vacation
+---
+source_path: H07SG6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 699a93bc6b5feb363ffcd016f921c0582f09563e
+title: H07SG6-PDF-ENG
+---
+# master1305/Getty Images
 
-that’s on top of the guilt I’ve been feeling about overburdening my
+As summer winds down and many of our coaching clients and research
 
-team while they’ve been covering for me.
+participants are returning from vacation, we’re seeing increased levels
 
-It’s easy to respond to these intense feelings like Leslie did, by throwing
+of return-to-work anxiety. As one client, “Leslie,” put it:
 
-yourself into overworking, overcompensating, and overachieving the
+Coming back from vacation almost makes [it] seem not worth it. For
 
-minute you disable your out of oﬃce responder — especially in work cultures that don’t exactly encourage time oﬀ in the ﬁrst place.
+me, it’s like psychologically accelerating from a cruising pace of 30
 
-However, there’s a healthier, more balanced approach that can help you
+mph to a speed of 80 so I can get through my inbox, catch up on all
 
-ease back into your routine without losing all the stress-reducing and
+the meetings I missed, and reconnect with my neglected clients. And
 
-performance-enhancing beneﬁts of unplugging from work.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,9 @@
-# Total
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: ec64f5d8dc5f842f0b4e1a30bd8725f8edaca095
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# No
 
-38
-
-The study sought to establish the level of satisfaction of code of conduct at Mukurwe-ini Dairy Ltd. The study found out that most of the respondents (45%) were dissatisfied, 25% were highly dissatisfied, 15% were neutral, 10 % were satisfied and only 5% were highly dissatisfied. This implies that employee were dissatisfied with code of conduct at Mukurwe-ini Dairy Ltd. Codes of ethics are written to guide behavior
-
-- 1579 -
-
-is an open professional conduct. A code disclosure of the way an organization operates; also serve as an important communication vehicle that reflects the covenant that an organization has made to uphold its most important value, dealing with such matters as its commitment is employees as its standards for doing business and its relationship with the community employee perfomance in an organization.According to the study findigs the code of conduct influenced employee performance in Mukurwe-ini Dairy Ltd. The findings were as shown in Table 4.6.
+16

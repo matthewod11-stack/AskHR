@@ -1,13 +1,17 @@
-# talent.”
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb873c4916407ab887dbab5b797fd10c932fc917
+title: H07OHG-PDF-ENG
+---
+# HBR / Digital Article / 5 Ways Companies Are Addressing Skills Gaps in Their Workforc…
 
-HSBC, the global banking organization, recently began piloting cohort-
+them more engaging than standard online learning,” she said. “Our colleagues report that the combination and cadence of ‘oﬃce hours’
 
-based online courses as well, and the early results are promising.
+with instructors, live discussion sessions with the rest of the cohort,
 
-According to David Morris, global head of people capability, “One
+and short videos and exercises to be completed each week are a
 
-of our challenges has been to deliver in-depth learning in an online
+more accessible way for them to learn. Learning and development
 
-format, given the range and complexity of our markets. Our early
-
-results show that the online cohort-based format is achieving signiﬁcant
+opportunities like this allow us to continue to attract and retain the best

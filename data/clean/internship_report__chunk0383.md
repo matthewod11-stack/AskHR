@@ -1,17 +1,63 @@
-## 4.2 HR Policy Vs. Bangladesh Labour Law-2006:
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: ceb6e3952c51e32aa963ddbcce7dd7bd5b89b26d
+title: internship_report
+---
+## 4.1.8 Analysis of HR Policy Modernization on the demand of the employees
 
-Employment legislation is important because it provides protection and job security for
+(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)(cid:111)(cid:102)(cid:32)(cid:72)(cid:82)(cid:32)(cid:80)(cid:111)(cid:108)(cid:105)(cid:99)(cid:121)(cid:32)(cid:77)(cid:111)(cid:100)(cid:101)(cid:114)(cid:110)(cid:105)(cid:122)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:111)(cid:110)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:100)(cid:101)(cid:109)(cid:97)(cid:110)(cid:100)(cid:32)(cid:111)(cid:102)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:115)(cid:32)
 
-employees against malpractices in the workplace. The labor laws relating to employment of
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
 
-workers, relations between workers and employers, determination of minimum rates of wages,
+(cid:48)(cid:37)(cid:32)
 
-payment of wages, compensation for injuries to workers during working hours, formation of
+(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
 
-trade unions, raising and settlement of industrial disputes, health, safety, welfare and working
+(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
 
-conditions and environment of workers. So every organization that hires people is bound to
+(cid:54)(cid:52)(cid:37)(cid:32)
 
-follow the Bangladesh Labour Law-2006.
+(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
 
-Karnaphuli HR policy Vs. Bangladesh labor law (in some points) is mentioned below:
+(cid:51)(cid:54)(cid:37)(cid:32)
+
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
+
+(cid:48)(cid:37)(cid:32)
+
+(cid:48)(cid:37)
+
+(cid:49)(cid:48)(cid:37)
+
+(cid:50)(cid:48)(cid:37)
+
+(cid:51)(cid:48)(cid:37)
+
+(cid:52)(cid:48)(cid:37)
+
+(cid:53)(cid:48)(cid:37)
+
+(cid:54)(cid:48)(cid:37)
+
+(cid:55)(cid:48)(cid:37)
+
+Figure 8: Analysis of HR Policy Modernization on the demand of the employees
+
+In the above graph (Fig: 8) it shows that in case HR Policy Modernization on the demand of the
+
+employees, 36% employees are showing their agreement which very positive sing of employee
+
+oriented organization. Moreover, it helps to motivate the employees and do their best effort for
+
+the organization. On the other hand, 64% employees are not sure about the modernization of the
+
+HR policy. I think, HR department, should assemble all the employees and declare the changes
+
+so that all employees become aware about this. It has another advantage that the communication
+
+gap between employee and HR department become very rational.
+
+HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:53)(cid:49)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
+
+(cid:32) (cid:32) (cid:32) (cid:32)

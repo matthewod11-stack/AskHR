@@ -1,13 +1,11 @@
-# Ohio State University.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 48605998f964ff0b2436ffce224654b1c54280c6
+title: file_1
+---
+# 134
 
-Korsgaards, A., Schweiger, D. And H. Sapienza, 1995. Building commitment,
+Kekäle, J., 2008. The negotiation process toward the new salary system in the Finnish university sector. Higher Education Management and Policy, 20, 1–21.
 
-attachment, and trust in strategic decision-making teams: the role of procedural justice. Academy of Management Journal, 38, 1, 60-84.
-
-Kray, L., Thompson, L. and A. Galinsky, 2001. Battle of the sexes: Gender stereotypes and reactance in negotiations. Journal of Personality and Social Psychology, 80, 942-58.
-
-Lange, T., 2008. Communist legacies, gender and the impact on job satisfaction in
-
-Central and Eastern Europe. European Journal of Industrial Relations, 14, 327- 346.
-
-Lee, C. and J. Farh, 1999. The effects of gender in organizational justice perception.
+Klein, H., 2008. A measure of commitment strength. Unpublished manuscript. The

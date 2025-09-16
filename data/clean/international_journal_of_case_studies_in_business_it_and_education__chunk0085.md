@@ -1,3 +1,7 @@
-# include
-
-Job insecurity is negatively related to employee well- being, and it leads to decreased job satisfaction and increased stress and anxiety Internal service quality has a favourable impact on employee commitment and satisfaction, which in turn has a positive effect on staff performance. Employers should prioritize protecting their employees' mental health because it has a significant impact on productivity In order to evaluate the role of positive psychology and attitude in an organisational environment, this research uses a critical literature review methodology approach. Employee happiness and a positive attitude about work are key factors in improving corporate citizenship behaviour during a crisis. A positive mindset and psychology can result in the best performance outcomes during times of crisis. It is concluded that a variety of critical factors, such as workplace positivity and employee well-being in times of crisis, are necessary for enhancing corporate citizenship behaviour. The leadership, line management governance, and employee well-being are examined in this chapter.The results show that leadership and line management are essential for influencing and promoting workplace well-being.
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: c8ae77b463b0d27b105d751300b6db29b95a75ca
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# job

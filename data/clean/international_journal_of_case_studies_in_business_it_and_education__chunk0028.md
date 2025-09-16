@@ -1,3 +1,11 @@
-## The impact of work culture on employee creativity and innovation
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 60041e8ad634bd0ab2ed81ca776e5ab060e52c11
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# Remote work and work culture
 
-Elvira Monteiro., et al, (2023); www.srinivaspublication.com
+Explored how organizational values can shape work culture and how values can be aligned with business goals. The author suggests that values can be defined as fundamental beliefs that guide behaviour and serve as a basis for judgment. The paper argues that values are an essential component of work culture, as they can influence employee behaviour, decision- making, and interactions with others in the workplace. The author identified trust is essential for building strong relationships between employees and managers, promoting cooperation and collaboration, and encouraging risk-taking and innovation Explored how a positive work culture can promote employee well-being and reduce burnout. a culture that promotes employee autonomy, support, and collaboration enhances employee well-being. In contrast, a negative work culture characterized by low levels of social support, autonomy, and trust results in negative effects on employee well-being, including burnout, absenteeism, and turnover. This study argues that in order to improve employee wellbeing and, ultimately, organisational success, businesses should concentrate on creating a pleasant workplace culture. Explored how feedback can shape work culture and how leaders can promote a feedback-rich culture. The researchers found that providing constructive feedback to employees can promote a positive work culture by increasing employee engagement, motivation, and satisfaction. The study also emphasises the value of consistent feedback and how it fosters a climate of ongoing progress. Examined how remote work can impact work culture and how organizations can promote a positive work culture for remote employees. Remote work creates challenges in maintaining team cohesion, building trust, and managing conflicts. Explored how work culture can influence employee creativity and innovation. The author argues that work culture can play a vital role in fostering a work environment that promotes creativity and innovation. The contribution of the research is that it highlights the importance of creating a
+
+14

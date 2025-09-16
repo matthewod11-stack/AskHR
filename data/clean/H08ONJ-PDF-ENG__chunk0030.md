@@ -1,9 +1,15 @@
-## work—such as Alexander Pope’s translation of the Iliad from Greek to
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89db6dc97f640bc203a38b0a5eb87be74beaff35
+title: H08ONJ-PDF-ENG
+---
+## Perry Chen, Yancey Strickler, and Charles Adler, who founded
 
-English. For that endeavor, 750 people provided funding and in return
+Kickstarter, looked far back in time to understand how artists had
 
-got their names inscribed in the ﬁrst edition. That was an important
+historically gotten their work funded. They found that it wasn’t simply
 
-clue to how Kickstarter could get around monetary incentives for funders and instead oﬀer other rewards, such as recognition on an
+a matter of the Medici family or the church coming in to fund artistic
 
-artist’s website.
+work. In a number of instances, a large audience had funded a creative

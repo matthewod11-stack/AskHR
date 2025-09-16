@@ -1,13 +1,25 @@
-# The Future
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32bd938bbffb711e4ab5fe4d79c2a7a559396395
+title: R2504A-PDF-ENG
+---
+## HBR / Magazine Article / The CEO of Kaspi.kz on Designing an Essential Superapp
 
-We took Kaspi public in 2020 in part to allow our private equity owners
+well as those we generate internally, including through our operations
 
-to sell their shares but also because we wanted to showcase the future of
+unit, which reports back from direct dealings with customers. Then
 
-corporate Kazakhstan on a global stage. The country might be known
+preliminary research is done on 10 or so suggestions. After that, we
 
-for its natural resources, but we are capable of developing unique
+abandon the least promising half and advance the remainder to the next
 
-business models too. We opted for the London Stock Exchange ﬁrst
+level. Each suggestion must get a three-page explainer document that
 
-because its investor base tends to better understand Eastern Europe.
+answers questions such as “Why this change or feature? How does it
+
+add value? What will it change about the user experience?” If everyone
+
+on the team ﬁnds the case for the new feature sound, we move into
+
+development, targeting implementation within three to six months.

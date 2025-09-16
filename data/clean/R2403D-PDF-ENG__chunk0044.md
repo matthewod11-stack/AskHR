@@ -1,7 +1,29 @@
-# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51faa628c09d9c8b73f397b77df9cf745c1932b6
+title: R2403D-PDF-ENG
+---
+# drop job titles.)
 
-behavior such as disrespectful and noninclusive treatment. This is often
+This is happening at a time when employees are demanding more and
 
-missed in company engagement surveys that focus on aggregate scores
+tolerating less. A 2023 HP study of 15,600 workers in 12 countries found
 
-covering a range of topics such as pride in and connection with the
+that expectations have changed dramatically since the pandemic. In
+
+particular, organizations will need to address unhealthy relationships
+
+at work in order to retain valued employees. For example, 83% of
+
+employees said they would take a pay cut to be happier at work.
+
+According to a 2023 study by the American Psychological Association,
+
+64% of U.S. employees characterize their workplaces as “toxic,” citing
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

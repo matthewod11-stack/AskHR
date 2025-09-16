@@ -1,23 +1,13 @@
-# a ﬁrst for him in years.
+---
+source_path: H08RVK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8d7d77c6bcf8fc241991ebbd359e6d3e2af0a17
+title: H08RVK-PDF-ENG
+---
+## This shift from full availability and ﬂexibility in communication to
 
-If you ﬁnd yourself tethered to your phone or smart watch, create rules about when you can oﬃcially turn oﬀ. It could be that from when
+a more deﬁned line of “on” and “oﬀ” helped Henry to feel happier
 
-you log oﬀ before dinner until your kids go down to bed that you’re
+and more refreshed on a daily and weekly basis. He also gave himself
 
-disconnected with work. Or you have “no email” weekends, where you
-
-don’t check your work inbox and only emergencies can reach you via
-
-text. The exact times and rules can vary, but the important point is that
-
-you create a space where you and the people around you know that they
-
-have your full attention.
-
-. . .
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+permission to go on vacation and not check in on work at all, which was

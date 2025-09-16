@@ -1,7 +1,27 @@
-# The goal of the restaurant
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e5fc7959c5cb8dfde91e4b9762318fd9db2bba9a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# the “Bueno Way”:
 
-is to get the orders to the customers within 60 seconds of their pulling up to the cashier. To meet or better this goal,
+7
 
-Taco Bueno wanted to improve the time spent taking and completing orders in the drive- thru lanes at its 185 + restau- rant locations. The restaurant’s reasoning is that fast delivery speeds not only increase the average number of cars that can be served in an hour, but also reduces the number of people who might not patron- ize the restaurant if they see long, slow-moving lines.
+Integrity: We base our actions and words on the highest level of honesty.
 
-Taking into consideration what you learned in this chap- ter on motivation, how would you motivate employees to improve the drive-thru speed at Taco Bueno? To see how Taco Bueno reduced drive-thru service times by more than 14 seconds and experienced record sales, follow the link on your text website.
+7
+
+Customer focus: We strive to deliver 100% guest satisfaction.
+
+7
+
+Teamwork: We act as one, encourage communication, and respect diversity.
+
+7
+
+Accountability: We see it, own it, and take charge!
+
+7
+
+Spirit: We have fun, cel- ebrate victories, and share our success.

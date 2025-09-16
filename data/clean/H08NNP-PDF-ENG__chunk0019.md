@@ -1,9 +1,17 @@
-# incomplete or faulty information.
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: deceb5ef1bac152ba8e286b0e7b0424b7b10ce5b
+title: H08NNP-PDF-ENG
+---
+## A New Type of Interaction for Executive Teams
 
-What makes AI a valuable member of the executive team is that it is diﬀerent from humans. This disrupts and therefore broadens
+So far, much of the conversation on the value of generative AI has
 
-the considerations—in some cases, providing information quickly to
+focused on the accuracy of the information it provides. Our one-year
 
-move forward. But for this to work, it needs a human (a critical
+engagement at Giesswein suggests that the value lies elsewhere, namely
 
-thinker but not necessarily an industry expert) to operate the tool. The collective intelligence of the combination of humans and the tools oﬀers
+in the process of interaction itself. Executives are aware that the tool
+
+will occasionally hallucinate; they are also accustomed to working with

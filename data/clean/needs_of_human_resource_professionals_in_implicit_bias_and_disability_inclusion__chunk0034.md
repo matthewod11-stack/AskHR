@@ -1,5 +1,13 @@
-# 2.1. Participants
+---
+source_path: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion.md
+pages: n/a-n/a
+chunk_id: b24652c543092cc69d77c0ca30f374354b904c73
+title: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion
+---
+# Bezyak et al.
 
-The current study used a qualitative approach, which included contributions from two focus groups. The sample consisted of HR professionals interested in providing feedback on the implicit bias and disability inclusion training and sharing their experience related to the role of bias in employment of individuals with disabilities. Participants in the focus group meetings received and responded to email invitations sent through ten human resource (HR) professional organizations in Colorado. Each organization emailed the invitation to members, and interested individuals contacted the researchers directly. A total of 16 individuals participated in the two focus group meetings lasting one hour each, and three of the participants were male (18.7%) and 13 were female (81.3%). The mean age of participants at the time of the study was 44. The majority of the participants identified as white (n = 14; 87.5%), and the remaining did not wish to answer that question (n = 2; 12.5%). Seven participants (43.8%) identified as having a disability with categories including psychiatric disability and ongoing chronic health condition. Participants reported a wide range of experience supervising and/or working alongside people with disabilities, and job titles ranged from HR Specialist to HR Director to ADA Coordinator.
+1.
 
-2.2.
+What guidelines and content areas should be included in training to benefit individuals with disabilities and key stakeholder groups?
+
+- 2. Methods

@@ -1,29 +1,17 @@
-# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08c40f6df7246718f35289bdea53a625fc4930ea
+title: H07SHV-PDF-ENG
+---
+## your faith life, your family life, your real friendships, and work that
 
-ADI IGNATIUS:
+serves others in person—these have been in decline. When those things
 
-You do have your ﬁnger on it. I want to focus on the world of work. I
+go in decline, there’s no tech that’s going to solve the problem.
 
-think this is drawing from stats in the book, I think you say just 16% of
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-employees self-report that they’re very satisﬁed with their work. I want
+4
 
-to ask about that because we’re spending half our waking hours in the oﬃce, and yet we’re not getting the kind of fulﬁllment and satisfaction
-
-that we deserve. So what’s happening here and how can we think about
-
-moving the needle?
-
-ARTHUR C. BROOKS:
-
-I’ve been studying what brings work satisfaction for the longest time,
-
-and when I ﬁrst started oﬀ, I was a fresh PhD. I thought, well, let’s see
-
-if for-proﬁt versus nonproﬁt versus government work: which brings the
-
-most happiness? Turns out, that’s insigniﬁcant. So I said, well, high
-
-salaries versus low salaries. Above a certain level of subsistence, it’s a
-
-wash. College educated, not college educated, white collar, blue collar,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

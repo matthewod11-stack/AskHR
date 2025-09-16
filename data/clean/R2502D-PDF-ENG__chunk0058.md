@@ -1,13 +1,9 @@
-## the information on each precedent over the course of several weeks and
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b92d474b6a6b53e9005367a43a60f2b8414d9942
+title: R2502D-PDF-ENG
+---
+## HBR / Magazine Article / Precedents Thinking
 
-to generate at least one creative combination. That proved essential to
-
-having every leader primed and ready for combinatory play.
-
-Use precedents thinking to guide execution, too. Precedents thinking
-
-is not just for generating big ideas; it’s for bringing them to fruition.
-
-Studying relevant precedents in depth and learning from their key
-
-implementation tactics can make the diﬀerence between success and
+precedent’s success. Each leader was expected to spend time digesting

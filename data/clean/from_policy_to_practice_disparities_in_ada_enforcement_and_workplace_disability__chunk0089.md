@@ -1,5 +1,9 @@
-# Series.
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: 94c1b7597eca0f234577354b7058a39727c80c29
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+## 1–15). Cham: Springer International Publishing.
 
-36.(cid:32) Morgan, J. N. (2021). Policing under disability law. Stan. L. Rev., *73*, 1401.
-
-©2025, Cognizance Journal, ZAIN Publications, Fridhemsgatan 62, 112 46, Stockholm, Sweden, All Rights Reserved 228
+34.(cid:32) McGowan, B. L., Hopson, R., Epperson, L., & Leopold, M. (2025). Navigating the backlash and reimagining diversity, equity, and inclusion in a changing sociopolitical and legal landscape. Journal of College and Character, *26*(1), 1–11. 35.(cid:32) Miller, T. (2024). Boosting Employment for People with Disabilities: Reforms Beyond the ADA. Mercatus Policy Brief

@@ -1,5 +1,13 @@
-## HBR / Spotlight Article / Leaders Must React
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d3582757a8354c4d228321374cc90f69403d874
+title: S24012-PDF-ENG
+---
+## hiccups, routine ﬂuctuations in stock prices, mixed feedback from
 
-stakeholders, and ﬂare-ups of human emotions fall into this category.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Most of these things don’t warrant the leader’s intervention or any
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

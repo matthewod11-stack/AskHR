@@ -1,9 +1,7 @@
-# York: Collier-Macmillan.
-
-Roethlisberger, F. J., & Dickson, W. J. (1939). Management and the worker. Cambridge, MA: Harvard University, Graduate School of Business Administration.
-
-Scott, W. D., & Hayes, M. H. S. (1921). Science and common
-
-sense in working with men. New York: Ronald Press.
-
-Scripture, E. W. (1895). Thinking, feeling, doing. New York:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 22547a110df4aa2f4053ca45546537b050971740
+title: untitled
+---
+## Roback, A. A. (1952). A history of American psychology. New

@@ -1,3 +1,7 @@
-## +ve correlation between job satisfaction and:
-
-(cid:2) professional commitment (cid:2) intent to leave organisation (cid:2) intent to leave profession.
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 8a049960cfe9e1eb948303f2ae7c2b388233d6f3
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# Findings

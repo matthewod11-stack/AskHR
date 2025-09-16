@@ -1,5 +1,9 @@
-# Psychological Bulletin, 36, 221–263.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9960a8ded5c3cede15dee2fac3f8b1b008acb991
+title: untitled
+---
+# chological Review, 42, 517–527.
 
-Stevens, S. S. (1951). Mathematics, measurement, and psy- chophysics. In S. S. Stevens (Ed.), Handbook of experimental psychology (pp. 1–49). New York: Wiley.
-
-Thompson, H. B. (1903). The mental traits of sex. Chicago: Univer-
+Stevens, S. S. (1939). Psychology and the science of science.

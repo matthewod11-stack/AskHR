@@ -1,7 +1,7 @@
-# Identify questions
-
-At this first step, it is pivotal to have a clear focus on the business problems to raise the
-
-efficiency of the workforce. However, the question should be raised in a <nonintrusive way=
-
-as the human resource information may negatively affect the workers.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: e0a88b21bc9562abae331337eb41d44eaee485a4
+title: i
+---
+## analytics at any stage of talent management.

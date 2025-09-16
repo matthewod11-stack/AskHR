@@ -1,19 +1,33 @@
-## HBR / Digital Article / Do You Have an Emotionally Intelligent Team?
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a474296ff4962bc1176b5ef37715b60397140193
+title: H08UL7-PDF-ENG
+---
+# performance.
 
-Use these scores to start a conversation about whether current norms
+- We anticipate problems or challenges and actively work to prevent or
 
-support a day-to-day culture that encourages teamwork and best
+address them.
 
-serves the team’s goals. Resist the desire to blame outliers on their
+- When a problem does arise, we take quick action to solve it.
 
-personalities; instead, focus on the inﬂuence of norms on poor team
+Routinely talking to stakeholders.
 
-habits. In teams, outliers often present opportunities to innovate—
+- We actively build relationships with our stakeholders.
 
-changing behavior is easier and faster if you focus on modifying norms
+- We regularly speak to and build relationships with those in other groups or departments who can provide resources that aﬀect our performance.
 
-rather than trying to change people. For example, we’ve found that
+Look at your scores and see where you should improve. Lower numbers indicate areas where you should focus your eﬀorts. Look at the overall
 
-selﬁsh behavior in teams frequently emerges as a defensive response
+range of responses and see where they fall. Averaging responses will
 
-to norms that allow for the inequitable treatment of members. It’s
+give you a general indication of where your team lies, but ranges
+
+among members’ responses can matter even more, revealing areas where people have diﬀerent experiences.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

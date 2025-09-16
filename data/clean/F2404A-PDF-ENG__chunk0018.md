@@ -1,15 +1,31 @@
-## “We Would Have Ended Up With a Product That Wasn’t Viable”
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00a1804a99352710000b0a150e6799ef86c52e78
+title: F2404A-PDF-ENG
+---
+## HBR / Magazine Article / Why Entrepreneurs Should Think Like Scientists
 
-Cosimo Cecchini is a cofounder of Osense, a start-up focused on
+Reﬁne your theories and test them again—but more broadly. When
 
-technology for sustainability that participated in Gambardella’s research.
+Mimoto found that its theory wasn’t feasible, it developed a new
 
-He recently spoke with HBR about the study and what he learned using the
+theory involving young professionals. But it didn’t assume the new
 
-scientific method. Edited excerpts of that conversation follow.
+theory would work in the real world just because it had worked in an
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+experiment. Mimoto tested it by placing dozens of mopeds in urban environments. It reapplied the scientiﬁc method to its new theory until it was conﬁdent it had found a viable solution.
 
-5
+“Entrepreneurs who adopt the scientiﬁc method are not visionaries.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+They’re aware that their theories may be wrong. And when they’re
+
+wrong, they modify their theories, which they test again. If no theories
+
+are successful, they terminate the start-up,” says Gambardella.
+
+Even if you end up shutting down a business, don’t worry. “Failing a few
+
+times is a recipe for future success,” Gambardella says.
+
+About the research: “A Scientific Approach to Entrepreneurial Decision-Making: Large-Scale Replication and Extension,” by Arnaldo Camuffo et al. (Strategic Management Journal, 2024)

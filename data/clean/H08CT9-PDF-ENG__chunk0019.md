@@ -1,31 +1,27 @@
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 720f43e83e741800754be809e1d34d14f24093e9
+title: H08CT9-PDF-ENG
+---
 # HBR / Digital Article / Is Your Organizational Transformation Veering Off Course?
 
-But, as with most programs, it didn’t go exactly to plan, and the
+See more HBR charts in Data & Visuals on HBR.org.
 
-transformation leader noticed issues surfacing with this supplier early
+In our research, we pinpointed how a shift in emotional energy was
 
-on. He later reﬂected:
+acted on at Applied Materials. The company had embarked on a ﬁnance
 
-I was sitting through those workshops at the back, listening to the
+transformation using robotic process automation (RPA). The purpose
 
-interaction and judging how the supplier was answering the tough
+was to optimize ﬁnance processes and free up time for team members
 
-questions from the Applied team…They didn’t have an answer. The
+to focus on higher-order work. The company had brought in one of the
 
-Applied Materials team asked two questions and then went silent.
+world’s leading suppliers of RPA to lead the transformation.
 
-Their internal ﬁlter was saying: “This person doesn’t know what
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-they’re talking about.”
+4
 
-In this case, there was no hard data for the leader to fall back on. But his
-
-presence — sitting in the workshops, speaking to colleagues outside the
-
-meetings — enabled him to detect a shift in the team’s emotional energy
-
-that would harm the transformation eﬀorts. He saw his workforce had
-
-lost conﬁdence in the supplier. Before it was too late, he was able to act,
-
-bringing in a new external team that engaged more eﬀectively with the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

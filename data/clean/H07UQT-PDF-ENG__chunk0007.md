@@ -1,9 +1,19 @@
-## the business more for investment income than for employment. Maybe
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ece5e4bd9fcd35ba75c93d6fc15ba1532776c8d
+title: H07UQT-PDF-ENG
+---
+## HBR Staff; Caspar Benson/Getty Images; Unsplash
 
-the family owners recognize the best way to grow the business is to
+Most multigenerational family businesses eventually arrive at the same
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+decision point: the current generation realizes it needs to hire a non-
 
-1
+family-member to run the business.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This could happen for a range of reasons. Perhaps no members of
+
+the next generation are interested. Maybe none have cultivated the
+
+necessary skills or experience. Perhaps the family has begun to look to

@@ -1,33 +1,13 @@
-# HBR / Digital Article / Building Cross-Cultural Relationships in a Global Workplace
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32c1b682abc749aaa77eaf912d958c20017eb20e
+title: H081NE-PDF-ENG
+---
+## internships, a keen sense of strategy and design, and the ability to
 
-seamlessly interact across cultures. This last talent came naturally: He
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-had easily made friends with students from nearly every continent, he
+1
 
-followed creators from around the world to stay up on global trends,
-
-and he leapt at any chance to travel abroad. Given his deep interest in
-
-cultures near and far, the part of his new job that he was least worried
-
-about was the multicultural aspect.
-
-Imagine his surprise, then, when he struggled to bond with his new
-
-colleagues, who were nothing like the cosmopolitan peers of his own
-
-age whom he had so successfully connected with at school. Even after
-
-several weeks of working together, his new coworkers still felt like
-
-strangers. Interacting with them felt awkward, unnatural, and forced.
-
-For the ﬁrst time, Partha experienced cultural diﬀerences as a barrier.
-
-It was confounding, especially since he couldn’t pinpoint how or why
-
-relationship building seemed so diﬀerent from what he was used to.
-
-Worse, he didn’t know what to do about it — and not only did this make
-
-his daily work life less pleasant, but he fretted that it could impact his
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,19 +1,13 @@
-# HBR / Digital Article / How to Evaluate a Job Candidate’s Critical Thinking Skills in an…
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 568f12c60782c58c80ae3cb7fd00b994f76377aa
+title: H07T10-PDF-ENG
+---
+# journey.
 
-By the time we start working, it is instilled in us that we need to
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-have answers. In the work environment, the value of questioning is
+8
 
-frequently, largely, and wrongly overlooked. Answers are championed;
-
-solutions are expected; more questions are implicitly discouraged. Yes,
-
-results matter, but could those results have been more signiﬁcant
-
-and achieved with less risk through a more intelligent allocation of
-
-resources or with a more creative strategy? Too often, we neglect the fact
-
-that top performers are the ones who ask questions and activate critical
-
-thinking that can expose weaknesses in a strategy or reveal an alternate
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

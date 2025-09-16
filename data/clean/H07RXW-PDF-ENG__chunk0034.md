@@ -1,13 +1,17 @@
-# attempts at innovation.
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71f80f6d831358cd03df22af530e4fdd8d878090
+title: H07RXW-PDF-ENG
+---
+## — the frequency and degree of innovation and risk that employees
 
-You only have to look at examples from corporate history to see how
+undertake — that was nearly 3x higher than their peers. They were
 
-much potential has been missed by companies who have failed to
+also more likely to outperform their competition (1.4x) and were better
 
-give their employees the freedom to explore new opportunities. As an
+and recruiting and retaining top talent (1.6x). Treating employees like
 
-employee at HP, Steve Wozniak, for example, proposed the design that
+intrapreneurs can involve rewarding proactive behavior, encouraging
 
-would become the ﬁrst Apple computer and was turned down all ﬁve
-
-times. How much more valuable would HP be today if it had given
+them to get close to customers, and celebrating ideas and even failed

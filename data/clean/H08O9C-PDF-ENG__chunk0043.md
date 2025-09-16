@@ -1,5 +1,9 @@
-# my manager?
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5c240dc9569632d76f925c720c67bb601b59361
+title: H08O9C-PDF-ENG
+---
+# managerial role?
 
-- How can I build executive presence in meetings and presentations?
-
-- What behaviors should I avoid if I’m interested in being perceived as a
+- Can you help me draft an email to request a promotion discussion with

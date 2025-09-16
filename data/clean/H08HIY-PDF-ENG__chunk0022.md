@@ -1,7 +1,11 @@
-## HORRIBLE AT THE OPENING BID, LETS [sic] SEE WHERE THIS TRAIN
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 550e5028c6b67a9d42a5e1b795d0aa8787c6f183
+title: H08HIY-PDF-ENG
+---
+## comments about the woman character with an invisible disability
 
-WRECK GOES” or “…that’s the bimbo’s initial oﬀer??? Give me a break,
+seemed harsh and gender-speciﬁc, such as “She’s dumb. Obviously
 
-how did she get this job?” There were no comparable comments about
-
-the same character engaging in the same behaviors when Alex was a
+poorly trained, or has no idea what she’s doing” or “THIS WOMAN IS

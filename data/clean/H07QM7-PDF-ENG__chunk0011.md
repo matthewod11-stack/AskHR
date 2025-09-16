@@ -1,25 +1,37 @@
-# discussions.
+---
+source_path: H07QM7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f2f6ac181346fc515cdaa4be9f4c53ebf9bfd45
+title: H07QM7-PDF-ENG
+---
+## HBR / Digital Article / What to Do When You Don’t Trust Your Employee
 
-- If you trust your employee’s technical skills, try having them mentor a
+Trusting someone’s competence entails having faith in their ability to
 
-newer team member or guide them through a complex task.
+do the job. Consistency is the belief that the person is reliable — they do
 
-- If you trust your employee’s problem-solving abilities, try assigning
+what they say they’ll do and perform as expected. Finally, trusting their
 
-increasingly complex tasks or providing more autonomy in tackling
+character is believing that they have integrity and care about others
 
-problems and coming up with their own solutions.
+and their needs as well as their own. Like the indispensable legs of a
 
-Focus on clear and frequent communication as you delegate and build
+three-legged stool, each component of trust is crucial in a relationship.
 
-on their tasks and responsibilities. Communicate the purpose and
+To move past the black-and-white impasse of “They aren’t trustworthy,”
 
-desired outcome of the task, your speciﬁc expectations and standards,
+ask yourself: Which component of trust is lacking here? What exactly
 
-deadlines, and their level of authority in making task-related decisions.
+did this person do or not do that has led to my distrust? Separate facts
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+from assumptions and focus on speciﬁc problematic behaviors.
 
-3
+- 2. Identify the speciﬁc situations or assignments where you are willing to trust them. Make a list of the areas in which you do trust your employee, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+consider how you might incrementally build on these areas in low-risk
+
+ways. Here’s how this might look like:
+
+- If you trust your employee to communicate eﬀectively within the
+
+team, try involving them in cross-functional meetings or broader

@@ -1,1 +1,7 @@
-# Thriving at Work
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: bebf40e6dc227cdf4d40bf6171505ab053d68570
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# Managerial Coaching

@@ -1,3 +1,9 @@
-# SL
+---
+source_path: H08DWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6597710333a9fb1b8964b83b46786dc300e68ec
+title: H08DWZ-PDF-ENG
+---
+# RH
 
-Saerom (Ronnie) Lee is an assistant professor of management at the Wharton School. His research examines how ﬁrms acquire and organize their diverse employees at the early stage of their life cycle and how they adjust their organizational design to meet the needs of their distinct challenges in venture scaling.
+Reuben Hurst is an assistant professor of management and organization at the University of Maryland’s Smith School of Business. His research focuses on how employers adjust recruiting strategies in response to growing political polarization and demographic diversity and how these strategies contribute to labor market segregation by political partisanship, gender, and race.

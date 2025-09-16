@@ -1,11 +1,35 @@
-# tips.
+---
+source_path: H05538-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 840d76953e04e155ac6675096d1768ab4f88bc2a
+title: H05538-PDF-ENG
+---
+# and in our many years of coaching.
 
-Don’t Be Defensive And Don’t Provoke Defensiveness. If you feel the need to defend yourself—“I am
+In surveys and interviews, we found many instances in which white women felt free to counsel their
 
-not a racist”—stop and ask yourself why you feel threatened. If you become defensive, you are
+black female colleagues about their dress, sociability, and speech. Perhaps unsurprisingly then, time
 
-unlikely to understand what is being said, and you are unlikely to say what you really want to say.
+and again, we heard from black professional women who spoke of the tiresome and dispiriting efforts
 
-By the same token, avoid saying anything likely to cause the other person to become defensive. For
+they make at work to “fit in.” Said one woman, “Every day I dress for work as if I were going to a
 
-example, saying “I’m sorry you feel that way” devalues the other person’s feelings and accomplishes
+meeting with the CEO. I am always kind and sweet to everyone, and I always smile until my cheeks
+
+hurt. I want to be sure I am not seen as an angry black woman. Every night I drop into bed exhausted
+
+from the effort.”
+
+The question then is how women can do better. Based on our many years of coaching, we believe that
+
+this can only be done when women are willing to enter into honest, often uncomfortable
+
+conversations with one another. And while our research focused primarily on women and race, these
+
+tips are applicable for many relationships, including those between men, or between men and
+
+women. What they’re really about is creating an opening to honestly and caring-ly address cultural
+
+differences and allow each person in a relationship to be authentic to themselves. These
+
+conversations can often be very difficult, but many missteps can be avoided with these four simple

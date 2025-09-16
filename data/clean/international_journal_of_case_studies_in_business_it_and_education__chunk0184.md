@@ -1,13 +1,25 @@
-# management, 18(9),14-19.Google Scholar 
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 762a4e57174e34afc4a4a93556c967ba5240b283
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+## subjective well-being”. Evidence-based HRM, 5 (2), 206-221.Google Scholar 
 
-[37] Gerhart, B. (2009). How much does national culture constrain organizational culture? Management
+[30] Hakanen, J. J., Bakker, A. B., & Schaufeli, W. B. (2006). Burnout and work engagement among
 
-and Organization Review, 5(2), 241-259. Google Scholar 
+teachers. Journal of school psychology, 43(6), 495-513. Google Scholar 
 
-[38] Lee, Y., & Kramer, A. (2016). The role of purposeful diversity and inclusion strategy (PDIS) and cultural tightness/looseness in the relationship between national culture and organizational culture. Human Resource Management Review, 26(3), 198-208. Google Scholar 
+[31] Yang, Y., Guo, Z., Kou, Y., & Liu, B. (2019). Linking self-compassion and prosocial behavior in adolescents: The mediating roles of relatedness and trust. Child Indicators Research, 12(1), 2035- 2049. Google Scholar 
 
-[39] Al Dari, T., Jabeen, F., Hussain, M., & Al Khawaja, D. (2021). How types of organizational culture and technological capabilities contribute to organizational learning. Management Research Review, 44(3), 437-459. Google Scholar 
+[32] Long, B. S., & Helms Mills, J. (2010). Workplace spirituality, contested meaning, and the culture of organization: A critical sensemaking account. Journal of organizational change management, 23(3), 325-341. Google Scholar 
 
-Elvira Monteiro., et al, (2023); www.srinivaspublication.com
+[33] Ozcelik, H., Langton, N., & Aldrich, H. (2008). Doing well and doing good: The relationship between leadership practices that facilitate a positive emotional climate and organizational performance. Journal of Managerial Psychology, 23(2), 186-203. Google Scholar 
 
-PAGE 312
+[34] Zakaria, J. (2015). An examination of the work culture, motivation, quality of work life on the relations between job performance and job satisfaction. International Journal of Humanities and Social Science Invention (IJHSSI), 4(9), 41-49. Google Scholar 
+
+[35] Ciulla, J. B., & Ciulla, J. B. (2020). The importance of leadership in shaping business values. The
+
+search for ethics in leadership, business, and beyond,50(1), 153-163. Google Scholar 
+
+[36] Sergeant, J., & Laws-Chapman, C. (2012). Creating a positive workplace culture. Nursing

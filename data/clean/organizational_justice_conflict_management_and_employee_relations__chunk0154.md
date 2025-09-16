@@ -1,3 +1,7 @@
-# Relations, London.
-
-Podsakoff, P., MacKenzie, S., Lee, J. and Podsakoff, N. (2003), “Common method biases in behavioral research: a critical review of the literature and recommended remedies”, Journal of Applied Psychology, Vol. 88 No. 5, pp. 879-903.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: b7953e59b99b4eb46c0cd17a598725bf6946b257
+title: organizational_justice_conflict_management_and_employee_relations
+---
+## in Organizations, The Institute of Public

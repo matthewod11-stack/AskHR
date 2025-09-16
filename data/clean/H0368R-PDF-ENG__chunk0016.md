@@ -1,35 +1,25 @@
-# HBR / Digital Article / Immigrants Play a Disproportionate Role in American Entrepren…
+---
+source_path: H0368R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f66f50b52527f8855846f5c7cf85bbd78f8abc03
+title: H0368R-PDF-ENG
+---
+## The ﬁgure below shows that this immigrant share of entrepreneurship
 
-- 2. Many discussions around immigration and entrepreneurship focus
+has been increasing dramatically since the mid-1990s, when the
 
-on startups backed by venture capital ﬁrms and entrepreneurs seeking
+immigrant share of founders was closer to 17%. This rise in immigrant
 
-high-growth opportunities that could result in the next Starbucks,
+contributions to entrepreneurship is sharper than the rise in the
 
-Facebook, or Staples. We have merged in data on the ﬁrms backed by
+immigrant share of all employees in new ﬁrms. You can also see that, in
 
-VC ﬁnancing. On the whole, immigrant entrepreneurship is somewhat
+total, 35%-40% of new ﬁrms have at least one immigrant entrepreneur
 
-stronger for VC-backed ﬁrms, with 31% of VC-backed founders being
-
-immigrants, compared to 25% of all entrepreneurs in 2005.
-
-- 3. Immigrant founders launch ﬁrms that are smaller than native-
-
-founded ﬁrms. The average initial employment for ﬁrms founded by
-
-immigrants exclusively is 4.4 workers, compared to 7.0 workers for
-
-ﬁrms launched exclusively by natives. When both types of founders are
-
-present (i.e., “mixed founder team”), the average is 16.9 workers.
-
-- 4. We quantify subsequent ﬁrm performance by analyzing employment
-
-growth and closure rates. The ﬁrms founded by immigrants close at a
+connected to the ﬁrm’s creation.
 
 Copyright © 2016 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

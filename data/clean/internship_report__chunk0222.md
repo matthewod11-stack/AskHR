@@ -1,7 +1,7 @@
-# VIII. Leave Items
-
-Staff members appointed on the temporary / contractual basis or for any probationary period
-
-against regular appointment and remaining employed as such for less than one year will be
-
-entitled with CL/ML absolutely on pro-rata basis.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 506e1aa8c0efe1212b1fa2a086b9f53e2ab6bed8
+title: internship_report
+---
+# PAR (Performance Appraisal Report).

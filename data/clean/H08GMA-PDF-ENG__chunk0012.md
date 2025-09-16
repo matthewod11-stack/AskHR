@@ -1,9 +1,11 @@
-## representation at every level of the corporate pipeline, especially in
+---
+source_path: H08GMA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0b69b29948d026df4c998bca45d389c2a1c0e374
+title: H08GMA-PDF-ENG
+---
+# the C-suite.
 
-senior leadership. But those gains are fragile. Even at this current rate of
+The report gives corporate America a mixed scorecard over the past
 
-progress, it will still take almost 50 years to reach parity for all women in
-
-corporate America — and that’s if everything goes right, which it almost
-
-never does. As Ruchika T. Malhotra discussed in her HBR article “How
+decade. On the one hand, women have made important gains in

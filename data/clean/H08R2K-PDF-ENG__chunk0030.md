@@ -1,23 +1,15 @@
-# workforce.
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f55d3f1e9e91c34c6bcbb9747b18904900d30562
+title: H08R2K-PDF-ENG
+---
+## persistent moderate stress—without adequate recovery—can erode
 
-- High zone: Stress is continual or severe enough to aﬀect employees
+focus, creativity, and teamwork. Over time, this zone is likely to
 
-chronically, making risks likely. Employees report feeling stressed
+become a source of hidden performance risk, marked by an increased
 
-“frequently” or “all the time.” This group represents a crisis zone with
+risk of disengagement, strained relationships, and health-related
 
-compounding costs and operational vulnerabilities. Compared to low-
-
-stress peers, these employees take 8 times more sick days, are 3.7 times
-
-more likely to consider leaving, 4 times more likely to be disengaged,
-
-11 times more likely to make compliance-related mistakes, 2.5 times
-
-more likely to ﬁle health claims, and 7 times more likely to report
-
-interpersonal conﬂict with their colleagues. Our data suggests that this
-
-group makes up about 45% of the workforce.
-
-After seeing where their workforce falls, companies can analyze how
+challenges. Our data suggests this group makes up about 41% of the

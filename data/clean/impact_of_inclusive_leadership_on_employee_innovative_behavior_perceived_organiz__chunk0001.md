@@ -1,7 +1,9 @@
-## Lei Qi1, Bing Liu1*, Xin Wei1, Yanghong Hu2
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 425c27e86d5ed9d64f62a6f13314e949bac0ab4b
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+# RESEARCH ARTICLE
 
-1 School of Management, ShandongUniversity, Jinan, P. R. China, 2 Kings College,The University of AberdeenBusiness School, Old Aberdeen, Aberdeen,Scotland, The United Kingdom
-
-a1111111111 a1111111111 a1111111111 a1111111111 a1111111111
-
-- liubing@sdu.edu.cn
+Impact of inclusive leadership on employee innovative behavior: Perceived organizational support as a mediator

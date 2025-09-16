@@ -1,19 +1,11 @@
-# 33
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 1e137d3d3b0ce5e9f6c82c517171734862dfa2bf
+title: file_1
+---
+# 3.2.1. Data validity and reliability
 
-- sector (public, local government, private),
+Validity and reliability are the main concepts when evaluating the quality of empirical research. Four tests are commonly applied when evaluating the quality of research design, namely construct validity, internal validity, external validity, and reliability (Yin, 2003). External validity concerns the extent to which the findings of a study can be generalized beyond Finland (Bryman and Bell, 2003). Since some aspects of the research context are unique, it may be difficult to fully differentiate between universal and context-specific phenomena which may cause a potential threat to the external validity of this research.
 
-- sector gender composition (male-concentrated, female-concentrated, gender- neutral),
-
-- occupational categorization (students, employees, entrepreneurs, retired people),
-
-- employment hierarchy (supervisory or management position, upper level white- collar employee, lower-level white-collar employee, worker),
-
-employment contract (full-time, part-time),
-
-- employment relationship (permanent, fixed-term, temporary).
-
-Common method bias refers to the difference between examined and actual relationships among constructs. This bias is caused by the use of single respondents, meaning that the same respondent, who answer the questions, are applied to create both dependent and independent variables (Podsakoff, MacKenzie, Lee, and Podsakoff, 2003). All results were subject to the possibility of common method bias. This is one of the major methodological limitations of applying secondary data for this thesis.
-
-Construct validity concerns the question of whether a construct actually reflects the concept that it was designed to reflect (Bryman and Bell, 2003). Although the constructs used in the 2008 Barometer were not adopted from existing, validated operationalizations, experts from many professions have contributed to the data content of the 2008 Barometer. Furthermore, the same measures were applied in the previous Barometers of 1998, 2001 and 2004. However, it is indeed preferable to use academically proven variables when conducting a thesis.
-
-Reliability concerns the stability and consistency of the measure, meaning the extent to which the research is repeatable (Bryman and Bell, 2003). As mentioned in the previous paragraph, same measures were applied in the 2008 Barometer as in the previous Barometers. This proves the stability and consistency of the measures. Yet, it is vital to acknowledge that Cronbach’s alpha of some constructs was lower than .70.
+Internal validity refers to the issues of causality, meaning how certain it is that the independent variable is causing variation in the dependent variable (Bryman and Bell, 2003). The response rate of 64% shows the data’s high internal validity. In addition, Statistics of Finland made a significant effort to certify its internal validity by adequate variation in observations and respondents’ characteristics:

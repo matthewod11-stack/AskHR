@@ -1,5 +1,9 @@
-## psychology, peace and conﬂict studies, and complexity science—and
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d6110842482bd902720afd21f3c90aede0a2c14
+title: R2504D-PDF-ENG
+---
+## at the Morton Deutsch International Center for Cooperation and
 
-conducted scores of surveys and laboratory, case, and ﬁeld studies—in order to identify the most eﬀective conﬂict-engagement strategies of leaders, mediators, and peacemakers. Those eﬀorts led us to create a
-
-set of principles that will help leaders guide their organizations through
+Conﬂict Resolution at Columbia University have drawn insights from

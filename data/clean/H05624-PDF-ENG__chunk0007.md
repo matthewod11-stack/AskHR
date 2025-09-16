@@ -1,33 +1,31 @@
-# Reddit?
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9eab08934cf8f882dd47e9cddc49f805c5a6147
+title: H05624-PDF-ENG
+---
+# conversation in mid-August.
 
-When I came back to the company in 2014, after stepping back from
+. . .
 
-a full-time executive role for several years, we had no HR. Katelin
+Why did you decide to make paid parental leave your cause?
 
-Holloway was willing to come on as head of people and culture, and she
+I honestly hadn’t thought much about it until my daughter was born.
 
-brought with her a plan, including paid leave, and I thought it seemed
+At Reddit, we oﬀered 16 weeks of leave, and, in using all of it, I saw
 
-reasonable. Within the tech industry, 16 weeks of leave is table stakes.
+ﬁrsthand how important it was. My wife and I have tons of advantages
 
-But that speaks to an important issue. Tech companies have these
+— help at home, supportive families, and other resources. But after the
 
-beneﬁts because we’re in a war for talent. The reason tech companies
+life-threatening complications she faced following childbirth, I couldn’t
 
-are able to grow hundreds of millions of dollars in revenue and billion-
+imagine having to leave my family for my job or being told to decide
 
-dollar valuations is because they’re attracting and retaining people
+between the two. It really hit home. I saw that this shouldn’t be a
 
-who are high performers. I’m proud that tech is on the frontline of
+privilege aﬀorded only to folks lucky enough to work at companies with
 
-supporting paid leave. And it should be a bellwether for other industries
+good policies. It should be required.
 
-that want top talent, especially with technology skills. You’re going to
-
-have to attract them by oﬀering as much or better.
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Why had you already decided to oﬀer a relatively generous policy at

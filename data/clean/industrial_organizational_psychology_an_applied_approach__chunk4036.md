@@ -1,11 +1,13 @@
-## Wiki A collection of web pages in which users can
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 38ac8e6c4853682a6694603b35d00172333e1c75
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Webinar Short for “web seminar”, an interactive
 
-create web pages on a topic and readers can freely edit those pages.
+training method in which training is transmitted over the Inernet.
 
-Winning at all costs An approach to handling conflict in which one side seeks to win regardless of the damage to the other side.
+Well pay A method of absenteeism control
 
-Withdrawal An approach to handling conflict in which one of the parties removes him/ herself from the situation to avoid the conflict.
-
-622
-
-glossary
+in which employees are paid for their unused sick leave.

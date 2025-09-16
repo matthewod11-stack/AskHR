@@ -1,1 +1,13 @@
-# 297
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e32824b7e12474f886450286b561e7cb34d39480
+title: performance_management_3rd_edition_by_aguinis
+---
+# Figure 1. p. 110.
+
+routine as those of work or service teams. Examples are the team that developed IBM’s first personal computer and the team that developed the original Taurus/Sable at Ford. Project teams include members from different functional areas who may not know each others’ specialties and, therefore, are highly dependent on one another’s high level of specific knowledge and usually sophis- ticated skill sets.
+
+- Network teams. These teams include members who are not constrained by time or space and members who are not limited by organizational boundaries. Usually, team members are geographically dispersed and stay in touch via telecommunications technology such as e-mail, videoconferencing, and, of course, telephone. Their work is extremely nonroutine. Network teams usually include a combination of temporary and full-time workers, customers, vendors, and even consultants. One example is the group of Russian and U.S. astronauts and scientists who communicated and worked together during months of training using telecommunications technology, from their respective countries, before some of them actually worked face-to-face in the Mir space station.
+
+Team performance management must consider the type of team in question before performance measures are put in place. Different performance measurement methods are particularly appropriate depending on the type of team being evaluated. Work and service teams can clearly benefit from peer ratings because members observe one another’s performance on a daily basis. In addition, because team members have similar responsibilities, everyone is familiar with the competencies needed to do the job. Project teams do not stay together for long periods of time, and, therefore, the measure of results at the end of a project may not benefit the team’s development since the team is likely to disband as soon as the project is finished. Instead, measurements should be taken periodically as the team works on the project so that corrective action

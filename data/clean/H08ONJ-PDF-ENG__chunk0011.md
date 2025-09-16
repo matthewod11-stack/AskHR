@@ -1,5 +1,19 @@
-## needle. And the more competitive or “hot” the industry—think a
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de01b1fd06a9ea0658e437ce8d9356302755313c
+title: H08ONJ-PDF-ENG
+---
+# How?
 
-bloody red ocean or fast-growing AI—the greater tend to be cries
+DeepSeek prioritized creativity instead of brute-force scaling like the
 
-for more resources. Far fewer prioritize or understand the paths to
+rest of the industry. The company saw that it could bypass the expense
+
+of the most advanced AI hardware by leveraging synthetic data and
+
+creative algorithms, and distilling knowledge from existing AI models,
+
+building on top of them rather than starting from scratch.
+
+Yet, resources are the metric most companies focus on to move the

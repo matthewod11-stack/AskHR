@@ -1,11 +1,7 @@
-# competencies).
-
-A company’s core competencies must provide potential access to a wide
-
-variety of markets, make a contribution to the customer beneﬁts of the product, and are diﬃcult for competitors to imitate. Management
-
-should ask, “How long could we preserve our competitiveness if we did
-
-not control this core competence? How central is this core competence
-
-to customer beneﬁts? What opportunities would be foreclosed if we lost
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7501c7ea261b9a35d0c0b4d47851778f53279664
+title: H08TKY-PDF-ENG
+---
+## core competencies and core products (the tangible results of core

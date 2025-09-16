@@ -1,1 +1,7 @@
-## http://internationalbanker.com/banking/co-operative-bank-kenya-
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 268e15fb420c6cf089936094bcd5190b62526f14
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# lives of millions.

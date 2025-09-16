@@ -1,9 +1,7 @@
-## All additions to or deductions from the employee's wages
-
-For a full listing of the basic records that an employer must maintain, see the Wage and Hour Division Fact
-
-Sheet #21: Recordkeeping Requirements Under the FLSA. Employers are required to preserve for at least three years payroll records, collective bargaining agreements, and sales and purchase records. Records on
-
-which wage computations are based should be retained for two years. These include time cards and
-
-piecework tickets, wage rate tables, work and time schedules, and records of additions to or deductions from
+---
+source_path: elaws - Employment Law Guide - Minimum Wage and Overtime Pay.md
+pages: n/a-n/a
+chunk_id: 91fa92986479b4eef971769a1b0afbdf520cab06
+title: elaws - Employment Law Guide - Minimum Wage and Overtime Pay
+---
+# Total overtime earnings for the workweek

@@ -1,25 +1,13 @@
-## Ramstad, 2008; Huselid, Beatty and Becker, 2005).
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 62b01a0a10dbd0249cd6f8b914a575b9c9657616
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# strategic jobs (Becker and Huselid, 2006), or between those organizational roles which
 
-The second element of our definition emphasises the development of a talent
+promise only marginal impact vis-à-vis those which can provide above-average impact
 
-pool of high potential and high performing incumbents to fill the roles that differentially
+(Boudreau and Ramstad 2007). This is in contrast to the extant situation in many
 
-contribute to an organisation’s sustainable competitive advantage. In line with the first
-
-aspect of our definition we also argue that organisations should differentiate between
-
-employees who are strategic performers and those who are not. In order for strategic or
-
-pivotal jobs to have a differential impact on organisational performance, it is important
-
-that such jobs are filled with high performing or high potential employees. This view
-
-stands in contrast to some of the earlier contributions which argued that all roles within
-
-the organisation should be filled with “A performers”, referred to as “topgrading” (Smart,
-
-7
-
-1999). It also differs with the approach advocated by the McKinsey consultants behind
-
-the war for talent approach who advocate managing “C players”, or consistently poor
+organisations where over-investment in non-strategic roles is common (Boudreau and

@@ -1,1 +1,7 @@
-# Rarely
+---
+source_path: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare.md
+pages: n/a-n/a
+chunk_id: 7ab0cade9bd0b64d7bdb5f118baaa0bf7c52f348
+title: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare
+---
+# Sometimes

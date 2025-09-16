@@ -1,23 +1,19 @@
-## Gaby, S. H., & Woehr, D. J. (2005, April). Development and
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1144db82f334a81a9376663ca87951356fd4f932
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Frone, M. R. (2000). Work-family conﬂ ict and employee
 
-evaluation of a ‘Climate for Performance Appraisal’ measure. Poster presented at the 20th annual meeting of the Society for Industrial and Organizational Psychology, Los Angeles, CA.
+psychiatric disorders: Th e national comorbidity survey. Journal of Applied Psychology, 85(6), 888–895.
 
-Gael, S. (1988). Subject matter expert conferences. In S. Gael
+Frone, M. R., Russell, M., & Cooper, M. L. (1995). Job stressors, job involvement, and employee health: An identity theory. Journal of Occupational and Organizational Psychology, 68(1), 1–11.
 
-(Ed.), Th e job analysis handbook for business, industry, and government (Vol. 1, p. 434). New York: Wiley.
+Frost, P. J., & Jamal, M. (1979). Shift work, attitudes and
 
-Gajendran, R. S., & Harrison, D. A. (2007). Th e good, the bad,
+reported behaviors: Some associations between individual characteristics and hours of work and leisure. Journal of Applied Psychology, 64, 77–81.
 
-and the unknown about telecommuting: Meta-analysis of psychological mediators and individual consequences. Journal of Applied Psychology, 92(6), 1524–1541.
+Fry, E. (1977). Fry’s Readability Graph: Clarifications,
 
-Gallup, D. A., & Beauchemin, K. V. (2000). On-the-job training. In G. M. Piskurich, P. Beckschi, & B. Hall (Eds.), Th e ASTD handbook of training design and delivery. New York: McGraw Hill.
-
-Galvin, T. (2003). 2003 Industry report. Training Magazine,
-
-40(9), 21–45.
-
-Gandy, J. A., & Dye, D. A. (1989). Development and initial
-
-validation of a biodata inventory in a merit system context. Proceedings of 13th Annual Meeting of the International Personnel Management Association Assessment Council, pp. 138–142.
-
-Gannon, M. J., Norland, D. L., & Robeson, F. E. (1983). Shift work has complex eﬀ ects on lifestyles and work habits. Personnel Administrator, 28(5), 93–97.
+validity, and extension to level 17. Journal of Reading, 21, 243–252.

@@ -1,23 +1,19 @@
-## across the city with an augmented reality (AR) version of the platform
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89fefc48a4ed410dad8db7d452cfbbf8c82a806f
+title: H08U3Y-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Tackle Collective Decision-Making
 
-(see Figure 3).
+demonstrated that wealthier neighborhoods could beneﬁt from more
 
-The AR interface allowed participants to collaborate with CityScope
+houses provided that a new metro line were also built in the process,
 
-to see the implications of their choices. Hamburg residents would
+thereby paving the way to consensus.
 
-come into the room and rearrange the LEGO-like bricks representing residential units, oﬃce buildings, parks, and other urban amenities in a
+The vizualizations also allow CityScope to yet again collect people’s
 
-speciﬁc zone, redesigning the city one brick at a time (Figure 3). When
+preferences, this time on the trade-oﬀs and competing proposals. In
 
-participants made these changes, the digital projection updated in real
-
-time to show how the proposed changes would aﬀect quality of life.
-
-The platform also connected these changes with the zoning laws that
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Hamburg, the team administered surveys and organized workshops

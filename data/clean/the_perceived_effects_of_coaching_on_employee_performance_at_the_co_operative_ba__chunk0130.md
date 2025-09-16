@@ -1,21 +1,23 @@
-# 5.4(cid:32) Limitations of the study
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: b3b478d1c077832cb7383bf7031a7c0419e0889c
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# leadership and personal effectiveness.
 
-Out of the 100 intended respondents only 80 respondents from 20 branches
+There is a tendency to resort to using resources within the organization (developing
 
-submitted their questionnaires. The sample size was also not large enough due to
+training courses and using existing internal coaches to provide the training) when
 
-time constraints. This left out valuable contribution from the respondents in the
+training internal coaches. The results of this survey suggest that, individual
 
-remaining branches and head office units who are involved in coaching. These
+productivity and engagement should be assessed, given their stronger association
 
-respondents could have added more information to the study.
+with coaching success.
 
-(cid:51)(cid:53)(cid:32)
+The results of this survey suggest that, individual productivity and engagement is
 
-(cid:32)
+evaluated through regular meetings with the employees to review their progress
 
-The study was focused on only one organization Cooperative Bank of Kenya. It
-
-therefore may not be representative of all organization in the country. However it
-
-has taken into account other views along theoretical analysis.
+against set objectives.

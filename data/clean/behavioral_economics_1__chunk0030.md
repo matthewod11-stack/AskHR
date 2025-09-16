@@ -1,27 +1,33 @@
-# another bias (the curse of knowledge).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 1fb7569025ff3a73008bf5f343a6e0d37e6bdd4b
+title: behavioral_economics_1
+---
+# bad investments.
 
-Experiments on rationality aggregation: Experiments are ideally suited to studying how rationality
+12 Becker conjectures that “it doesn’t matter if 90 percent of people can’t do the complex analysis required to calculate probabilities. The 10 percent of people who can will end up in jobs where it’s required”. A good example is insurance actuaries or analysts who price derivative assets.
 
-aggregates. In an experiment, one can measure the degree of individual bias and market-level bias, and compute
+15
 
-whether biases in market prices or quantities is smaller than the average (or dollar-weighted) individual bias.
+Finally, note that sorting is difficult to study in the field, but it is easy to study experimentally—because
 
-Anderson and Sunder (1995), and Camerer (1987) studied errors in abstract Bayesian judgments designed to
+agents’ characteristics can be measured, and self-selection can be measured too (e.g., Lazear, Malmendier, and
 
-test whether traders would overreact to likelihood evidence (and underweight priors) when a small sample of
+Weber, 2005).
 
-balls drawn from a bingo cage was “representative” of the cage’s contents. They found small biases in market
+Organizational repairs: An interesting supply-side response to managerial rationality limits is what
 
-prices, which were reduced by hours of trading, but not eliminated. Ganguly, Kagel, and Moser (2000) found
+Heath, Larrick and Klayman (1998) call “organizational repairs”. They suggest that some organizational
 
-much larger pricing errors when the event was a hypothetical word problem rather than a bingo cage draw.
+practices can be seen as responses to managerial errors. Microsoft had a hard time getting its programmers to
 
-Camerer, Loewenstein and Weber (1989) studied the “curse of knowledge” (mistakenly assuming other subjects
+take customer complaints seriously (despite statistical evidence from customer help-lines), because the
 
-have your private information) and Kluger and Wyatt (2004) studied the famous “Monty Hall” three-door
+programmers thought the software was easy to use and couldn’t believe that customers found it difficult (a
 
-problem. Both found that market trading reduced, but did not eliminate, mistakes. Maciejovsky and Budescu
+“curse of knowledge”). So Microsoft created a screening room with a one-way mirror, so programmers could
 
-16
+literally see for themselves how much trouble normal-looking consumers had using software. The trick was to
 
-(2005) found that markets for information in Wason 4-card logic problems do guide agents toward rational
+use one judgment bias—the power of visually “available” evidence, even in small samples— to overcome

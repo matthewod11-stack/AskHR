@@ -1,27 +1,25 @@
-## HBR / Digital Article / An Intersectional Approach to Inclusion at Work
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e7bf4e5ec1116250a26008ed4276f1d5b3f8664
+title: H072GW-PDF-ENG
+---
+## sequentially: gender this year or two, race next, then sexual
 
-happens to have some attributes that aren’t “currently includable”?
+orientation, and maybe someday disability and age. Or maybe class.
 
-Sequential inclusion leaves people behind.
+Or neurodiversity. Generally, sequential inclusion is expanded from the
 
-Welcoming all talent requires:
+power center to bring in the next-most “acceptable” characteristic. But
 
-- Systemic inclusion that considers intersectionalities, comprehensively
+what happens if someone is an older, Black, visibly disabled woman? Or
 
-addresses all barriers, and embeds inclusion in all talent processes
+an Indigenous, economically disadvantaged, autistic man? What about
 
-and decision-making mechanisms. It calls for inclusion by design,
+a deaf refugee ﬂeeing religious persecution, or any other person who
 
-thoroughly and thoughtfully planned.
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-- Inclusion from the margin. Creating systems that include the most
+1
 
-marginalized and those identifying with multiple marginalized groups
-
-is the fastest way to include all. It also requires the participation of
-
-the marginalized. People don’t notice barriers they don’t face. Those
-
-impacted by barriers others don’t notice (or only notice when the
-
-problem becomes extreme) are best qualiﬁed to design the barrier-free
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

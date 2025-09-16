@@ -1,3 +1,11 @@
-# Conclusion
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 3f95efd14cbde64a2e9ba81a05b29cbf7ef0f8fc
+title: barrickryan_eds_personality_and_work
+---
+# 112 PERSONALITY AND WORK
 
-This chapter has reviewed and advanced research in two areas rel- evant to understanding the link between personality and individ- ual job performance. The ﬁrst area is identifying relationships between speciﬁc personality predictors and speciﬁc job perfor- mance criteria. According to Hough (2001; Hough & Ones, 2001), an important goal for personality researchers is the development of a nomological net of personality-performance relationships for use in building predictor equations for speciﬁc situations. The tax- onomy of performance dimensions proposed in this chapter is a step in this direction. This taxonomy includes task performance, citizenship performance, and adaptive performance at the high- est level, with a second and third level of more speciﬁc dimensions. To advance our state of knowledge most efﬁciently, primary stud- ies must be conducted relating speciﬁc personality variables to these performance dimensions, and meta-analyses must summa- rize this research at more speciﬁc levels than the Big Five and over- all task and citizenship performance. This performance taxonomy should also be reﬁned by identifying other important performance dimensions that are not adequately represented in the taxonomy. The second area of research is investigating the mediating vari- ables through which personality inﬂuences job performance. The
+predictive to a lesser extent because of their weaker associations with these constructs. Personality variables are probably most pre- dictive of adaptive performance because of the importance of self- regulatory skills when quickly adjusting to a new situation. Ability variables should also be strongly related because of the importance of skills such as problem solving.
+
+An immediate need for research with this model is the medi- ating effect of citizenship knowledge and skill. So far, support for this effect has been mixed at best. In addition, we have very little idea at this time how the aspect of performance being studied in- ﬂuences the predictors of motivation. For example, certain per- sonality variables are likely to be highly related to motives, expectancies, self-efﬁcacy, goal content, and goal commitment when the criterion is a dimension of citizenship performance, but they have no relationship to these constructs when the criterion is a dimension of task performance.

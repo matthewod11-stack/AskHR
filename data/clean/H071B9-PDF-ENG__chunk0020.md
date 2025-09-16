@@ -1,7 +1,15 @@
-## individuals and their information into teams and decision-making
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bced295e8385ddcb071e7b4832912a82b19ad5e0
+title: H071B9-PDF-ENG
+---
+# important information.
 
-processes is the second requirement for collaborative decision making.
+When industries transform, organizations need new competencies.
 
-Trust is a vague term and has a vast number of definitions. To
+Most often, those competencies come attached to a person, who may
 
-understand trust in regard to collective decision making, keep these two
+differ from established employees in terms of background, values,
+
+demographic characteristics, etc. Thus, being able to include new

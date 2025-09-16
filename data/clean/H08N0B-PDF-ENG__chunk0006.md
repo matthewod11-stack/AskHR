@@ -1,17 +1,23 @@
-# The Problems with Current Approaches
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: acf540948c7b86ebfa1e8af7214df3c404269125
+title: H08N0B-PDF-ENG
+---
+## hybrid work reveal three common reasons as to why:
 
-The evidence is clear that, for many employees and organizations, working remotely at least part of the time pays oﬀ. In the U.S. from
+- 1. Their policies aren’t designed to meet strategic business needs
 
-2019 to 2022, for example, the rise of remote work was associated with productivity growth across 61 diﬀerent industries in the private sector.
+- 2. Their policies aren’t implemented in ways to help leverage talent
 
-People who are remote workers one to two days a week are rated by
+- 3. Their policies are rarely or never ﬁne-tuned .
 
-their supervisors as having higher performance than full-time on-site
+Instead of playing follow the leader on RTO, organizations should be
 
-employees. Experiments led by Stanford researchers at a global travel
+much more strategic about what’s truly working about their remote or
 
-agency in China found that hybrid employees working from home
+hybrid strategy—and which areas they should revamp.
 
-two days a week are as productive as fully on-site workers—and are
+Here are some places where current approaches fall short, as well as
 
-happier and less likely to quit. These ﬁndings are especially true for
+strategies for truly embedding hybrid work into your business.

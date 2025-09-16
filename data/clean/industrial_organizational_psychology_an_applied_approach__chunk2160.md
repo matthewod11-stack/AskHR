@@ -1,5 +1,7 @@
-## Why Should We Care about Employee Attitudes?
-
-What Causes Employees to Be Satisﬁ ed with and Committed to Their Jobs? What Individual Diff erences Aff ect Job Satisfaction? Are Employees Satisfi ed with Other Aspects of Their Lives? Are Employees’ Job Expectations Being Met? Is the Employee a Good Fit with the Job and the Organization? Are the Tasks Enjoyable? Do Employees Enjoy
-
-Working with Supervisors and Coworkers? Are Coworkers Outwardly Unhappy? Are Rewards and Resources Given Equitably? Is There a Chance for Growth and Challenge? Integration of Theories
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3d044394bee21b7f2f71e2440a77522d6598784a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Employee Satisfaction and Commitment

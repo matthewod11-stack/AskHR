@@ -1,17 +1,13 @@
-# (Cole-Gomolski, 1999).
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 775918d1510bab155c6db24bfdea96c93481707f
+title: california_state_university_northridge_1
+---
+# of 40" (Cole~Gomolski, 1999).
 
-Lawyers familiar with this case state, the company did not protect itself from age
+38
 
-discrimination suits. To protect the organization, an employer would need to consider the
+1.3.
 
-average age of the current workforce and then determine the average age after a layoff.
-
-In addition, to compare the average age of those workers laid off. If disparate treatment
-
-exists after the comparison, then adjustments should be made accordingly.
-
-There are loopholes to the ADEA; if an employer is cleaver enough to utilize such
-
-measure, then evil intent does exit. It is not against the law to terminate employees for the
-
-sake of business necessity in an attempt to reduce cost. If an employer wants
+"Change its internal complaint procedures for age discrimination"

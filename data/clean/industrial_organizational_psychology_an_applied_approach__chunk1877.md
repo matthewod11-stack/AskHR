@@ -1,35 +1,71 @@
-# 7
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1685c488b3b3a49495439f9c98de547eb036e21f
+title: industrial_organizational_psychology_an_applied_approach
+---
+# skill level.
 
-7
+Know the material. It is very important that you have a thorough understand- ing of the material prior to pre- senting. I have been to training sessions that have bombed because the trainer sat and read from notes during the entire session. There is nothing worse than attending a seminar like this. Review your material prior to the training until you know it inside out. It is one thing to understand material and another to actually teach/present it. Keep practicing until you can do it in your sleep.
 
-Open-ended questions to elicit audience response and encourage discussion. Free writes in which audience members are asked to write about the topic. For example, in a training seminar on sexual harassment, trainees were asked to write about a time when they either were harassed or saw another employee being harassed. In a training seminar on dealing with difficult customers, trainees were asked to write about an angry customer they had to deal with and how they handled the situation.
+Don’t make up answers. You will quickly lose the credibility of your participants if you provide answers that are not true. If you are unsure about a question that may come up—and you will be—tell the participant that you don’t know the answer to that question but will look into it and get back to him or her with an answer. Or, you can always turn
 
-There are three considerations in choosing an icebreaker: the goal of the ice-
+the question back to the group to see if anyone in the audience has the answer. Never make up an answer on the spot just to answer the question. This will come back to haunt you!
 
-breaker, the length of the training session, and the nature of the audience.
+Use different formats while presenting. I like to use several formats when presenting. I find that variety keeps the participants interested and engaged during the entire training program. Nobody likes attending a seminar where the person lec- tures to them for eight hours. Use such things as PowerPoint, group activities, videos, group exercises, roundtable discussions, Web dem- os, and case studies. This not only will make your training program more interesting, but it will help participants learn the materials.
 
-Goal. For an icebreaker to be successful, it must accomplish a goal. The most com- mon goals for icebreakers are to get people to know one another, to get them talking, to wake them up, and to get them thinking about the topic. For example, introductions work well when it is important that the audience members know one another, and free writes work well when the goal is to get the audience think- ing about a topic. Having an icebreaker for the sake of having an icebreaker is not a good idea.
+Wear good shoes. It may sound funny, but it’s true. I bought a cheap pair of shoes prior to a training program, and I paid the price: back pain and a sore neck. Remember, when you train you will be standing for a
 
-Length of the Training Session. If the training session will last only a few hours, the ice- breaker should be short—if one is even used. If the training session will last an entire week, time should be spent on introductions and “group bonding” activities.
+long period of time. A poor pair of shoes will make for an ex- tremely uncomfortable training experience.
 
-Nature of the Audience. Certain types of icebreakers work better with some audi- ences than they do with others. For example, having a group of trainees introduce themselves by saying their name and a trait starting with the first letter of their name (e.g., Friendly Fred, Timid Temea, Zany Zach) is not likely to go over as well with a group of police officers as it might with a group of social workers.
+Be prepared. Always check that you have all of your materials and information prior to walking out the door. I like to use a checklist of all the things I need to take with me prior to the training.
 
-Making the Presentation Though this is not a public speaking text, here are some tips you might find use- ful in making a training presentation:
+Use stories and experiences. People love to hear different war stories and experiences when you present the material. It helps to present the material and apply it to real-life settings. When I conduct a training program on employment dis- crimination, I share actual cases I have been involved in and the outcomes. This helps me drive home the importance of the training material.
 
-7 7
+Humor goes a long way. I once asked a colleague what made him such a great trainer. He said, “I may not be the
 
-7
+brightest person in the world, but people find me funny.” His point was well taken. People like to be amused and entertained when they come to a training session. Effective use of humor can be a great way to engage and entertain your audience. This will help break up the monotony of the session.
 
-7 7
+Oh, yeah, one more piece of good advice. Always supply good snacks and drinks. The caffeine will keep them awake, and the food will keep them happy.
 
-7
+Every training session you conduct will be different. Differ- ent audiences lead to different experiences. This is what makes training such fun. Remember, the most effective way to foster an environment of learning is when you entertain and educate participants at the same time. Your audience will remember you for that!
 
-7 7
+slow pace to help the lower-ability trainees, the higher-ability trainees become bored. If the trainer caters to the higher-ability trainees, the other trainees fall behind. For these reasons, most trainers present material at a moderate pace. Not surprisingly, the research evidence is clear that employees who perform well in training are bright, believe they can perform well (have high self-efficacy), are motivated, and are goal oriented (Salas & Cannon-Bowers, ).
 
-7
-
-Make eye contact with the audience. Use gestures effectively. That is, don’t wave your hands or use other gestures unless they help make a point. Don’t read your presentation. Use visuals such as your PowerPoint slides to guide you. If you know your material and have practiced your presentation, all you should need is the occasional reminder that can be provided by glancing at your PowerPoint slides projected on the screen. Don’t hide behind the podium. Use a conversational style. A training presentation is not a speech, lecture, or sermon. Talk with your audience, not at them. Be confident. Avoid the use of fillers, speak at an appropriate volume, and don’t brag about yourself. If you know your stuff, the audience will notice—you don’t have to tell them how smart you are. Speak at a pace that is neither too fast nor too slow. Avoid swearing, making off-color or offensive remarks, and demeaning other people, groups, or organizations. Try to make the presentation interesting. This can be done by using fun (e.g., humor, stories) or a variety of activities (e.g., lecture, video, discussion, activity), creating energy either through the speaker’s pace or
+Developing the Training Curriculum Putting together a training program can take a great deal of time. The trainer must research a topic, develop a training outline, create visuals (e.g., PowerPoint slides), create handouts, and obtain or create supporting materials such as videos and role play exercises. Though some authors use an estimate of  hours of prepara- tion for every hour of training (Zemke, ) and others use  hours (Diekmann, ), I use an estimate of  hours of preparation for every hour of training. Of course, the actual time needed to develop a training seminar is a function of the
 
 designing and evaluating training systems
 
-303
+301
+
+302
+
+chapter 
+
+trainer’s knowledge of the topic, the amount of talking a trainer expects to do, and the ready availability of videos, exercises, and role plays related to the topic.
+
+Creating Handouts An important part of any training presentation is the handouts to the audience. The purpose of handouts is to provide material that the trainees can take back to their jobs. Providing comprehensive notes is important because people forget about half the training content once they leave the room and then forget another % within  hours (Nichols & Stevens, ). Handouts should include the following:
+
+7
+
+7 7 7 7
+
+7
+
+7 7
+
+A cover sheet with the title of the training program as well as the date and location in which the training took place. A list of goals and objectives. A schedule for the training (e.g., breaks, ending times). A biographical sketch of the trainer. The notes themselves in outline form, full text, or copies of the PowerPoint slides. Activity sheets such as personality inventories, free writes, or group activity information. References and suggestions for further reading. A form to evaluate the quality of the training program.
+
+Delivering the Training Program Introducing the Trainer and the Training Session Training sessions usually begin with the introduction of the trainer. This can be done by the trainer introducing himself or by another person doing the intro- duction. The introduction should be short and should establish the credentials of the trainer. The length of the introduction depends on the time allocated for the training and the extent to which the audience already knows the trainer. If necessary, a more complete biography of the trainer can be placed in the training materials so that the audience can see the trainer’s credentials without the trainer appearing to be bragging.
+
+After the introduction of the trainer, the objectives of the training semi- nar, the training schedule (e.g., starting times, break times, meal times, quitting times), and seminar rules (e.g., turning off cell phones, not smoking, not criti- cizing audience members) are covered. When possible, it is a good idea for the schedule to include a -minute break at the end of each hour and one and a half hours for lunch.
+
+The Career Workshop box gives tips on etiquette for audience members.
+
+Using Icebreakers and Energizers Following the introduction of the trainer, most training programs start with some sort of icebreaker or energizer. Types of icebreakers include:
+
+7
+
+7 7
+
+Introductions such as asking each trainee to introduce the person next to him or her, or having a scavenger hunt in which trainees are given a list of questions (e.g., “Who likes baseball?” “Who has a daughter?”) and are asked to mingle with the other trainees to obtain answers to the questions. Jokes or stories. Activities in which trainees, either individually or in small groups, are given a question or problem to solve.

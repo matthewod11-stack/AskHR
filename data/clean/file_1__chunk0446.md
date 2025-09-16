@@ -1,13 +1,17 @@
-# interactive effects. Organizational Behaviour and Human Decision Processes, 86, 197-215.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 9d55bc052ee96b932aceddcbb28aa89b7dca4e47
+title: file_1
+---
+## gender. New York, NY: Plenum Publishers, 215-227.
 
-van Dierendonck, D., Schaufeli, W. and B. Buunk, 2001. Burnout and inequity among human
+Stone-Romero, E. and Stone, 2005. How do organizational justice concepts relate to
 
-service professionals: A longitudinal study. Journal of Occupational Health Psychology, 6, 43-52.
+discrimination and prejudices? In J. Greenberg and J. Colquitt, eds, Handbook of organizational justice. Mahwah, NJ: Lawrence Erlbaum, 339-469.
 
-Vella, F., 1994. Gender Roles and Human Capital Investment: The Relationship between
+Teigen, M. and L. Wängnerud, 2009. Tracing Gender Equality Cultures: Elite Perceptions of
 
-Traditional Attitudes and Female Labour Market Performance. Economica, 61 (242), 191-211.
+Gender Equality in Norway and Sweden. Politics & Gender, 5, 21-44
 
-Verloo, M. and E. Lombardo, 2007. Contested Gender Equality and Policy Variety in Europe:
-
-Introducing a Critical Frame Analysis Approach. In M. Verloo, eds, Multiple Meanings of Gender Equality: A Critical Frame Analysis of Gender Policies in Europe.
+Tepper, B., 2001. Health consequences of organizational injustice: Tests of main and

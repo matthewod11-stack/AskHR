@@ -1,19 +1,13 @@
-## HBR / Digital Article / Growth Isn’t the Only Way for Companies to Create Value
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7dcbd1e3cbcb32e2dd02e550482930f3c0aad016
+title: H08R2D-PDF-ENG
+---
+# TSR over the past 20 years.
 
-- 4. Take It to the Bank: The Dividend Play
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Rather than aggressively pursuing growth, stable and mature
+5
 
-companies often prioritize returning cash to their shareholders.
-
-However, without signiﬁcant revenue growth, it can be challenging for
-
-these companies to meet dividend growth expectations, and therefore,
-
-to achieve high TSR. Our analysis identiﬁed an alternative strategy for
-
-value creation through dividends: providing consistent and predictable
-
-payouts that make their stocks behave like bonds.
-
-This “bond-like” approach exhibited dividend volatility one standard
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

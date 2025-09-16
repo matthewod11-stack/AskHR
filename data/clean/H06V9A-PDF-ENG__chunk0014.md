@@ -1,17 +1,17 @@
-## their thoughts in an appropriate and persuasive manner. Managers
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9cca5ea3d5dfbd1f02eb7e1bbe9000e2f593abe2
+title: H06V9A-PDF-ENG
+---
+## HBR / Digital Article / The Unintended Consequences of Asking for Employee Input
 
-shouldn’t let their own eﬀorts in soliciting input be a reason to negate
+welcoming, inclusive environment and actively seeking out employees’
 
-the eﬀort employees demonstrate when they speak up.
+viewpoints and suggestions, they should not invalidate the eﬀort it
 
-Ultimately, it’s up to managers to create a work environment where
+still takes for employees to provide that input. Employees often invest
 
-employees are empowered to openly share their ideas and concerns.
+substantial time and eﬀort into analyzing work processes and products,
 
-That means not only rewarding proactivity, but also demonstrating
-
-that all input is valued and recognized — regardless of whether it was
-
-solicited or oﬀered without prompting.
-
-This article was originally published online on February 18, 2022.
+identifying issues and problems, developing solutions, and expressing

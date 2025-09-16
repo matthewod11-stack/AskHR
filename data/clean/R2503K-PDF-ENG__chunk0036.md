@@ -1,5 +1,9 @@
-## team’s mission, perspective-taking enhances cognitive ﬂexibility while
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fcf713a4cd52d77d49cb3764c192ffe0118f6300
+title: R2503K-PDF-ENG
+---
+## emotions, perceptions, and motivations of someone else. Unlike
 
-maintaining focus on the task at hand. It helps team members
-
-understand, for example, how two smart people can receive the same
+empathy, which can sometimes confuse personal feelings and the

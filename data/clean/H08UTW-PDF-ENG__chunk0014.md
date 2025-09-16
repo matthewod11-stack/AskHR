@@ -1,15 +1,19 @@
-# that same depth of training?”
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9db28673f0aaf37100b6fad5c50ad44c62f8f38e
+title: H08UTW-PDF-ENG
+---
+## HBR / Digital Article / When “Yes, and…” Backfires
 
-Along with your words, be mindful of your delivery. A warm, curious,
+You can say, “Yes, I like that you’re thinking through our challenges with
 
-or thoughtful tone can show that you’re focused on keeping the other
+new personnel, and that you want to make sure new employees get the
 
-person engaged.
+training they need.”
 
-Mistake #3: Getting hung up on the phrase itself.
+You can then follow up with: “Extending onboarding is one idea that
 
-Leaders often tell me: “I don’t want to sound like a ‘yes person’ or come
+could have merit. Let’s also consider a range of possibilities to make
 
-across as ‘soft’.’” They assume “yes, and…” only works if you literally say
-
-those words. That’s a misconception. If the language feels unnatural,
+sure we’re not missing anything else. What other ways could we achieve

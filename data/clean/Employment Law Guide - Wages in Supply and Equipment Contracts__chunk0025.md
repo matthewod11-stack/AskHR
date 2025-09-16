@@ -1,3 +1,7 @@
-# Wage and Hour Division (WHD). The PCA applies to contractors with contracts in excess of $15,000 for the
-
-manufacturing or furnishing of materials, supplies, articles, or equipment to the U.S. government or the District of Columbia. The PCA covers employees who produce, assemble, handle, or ship goods under these
+---
+source_path: Employment Law Guide - Wages in Supply and Equipment Contracts.md
+pages: n/a-n/a
+chunk_id: 804a35df56426f200cddd15550ef40a09b85b0f3
+title: Employment Law Guide - Wages in Supply and Equipment Contracts
+---
+# The wage and hour requirements of the Walsh-Healey Public Contracts Act (PCA) are administered by the

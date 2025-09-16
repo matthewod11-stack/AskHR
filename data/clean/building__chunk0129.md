@@ -1,7 +1,7 @@
-# 6 Immediate task description or request
-
-7 Thinking step by step (CoT if applicable)
-
-8 Output formatting 9 Pre-filled response (if any)
-
-27
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 739636ec4ba0dc2feee0566ed50037f9bf7eb12d
+title: building
+---
+# 5 Conversation history or user input

@@ -1,11 +1,11 @@
-# Macmillan.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 64c149305ff0b64fe2bccdadbde23a674cd082b1
+title: untitled
+---
+# ed.). New York: Appleton-Century-Crofts.
 
-Bringmann, W. G., Balance, W. D. G., & Evans, R. (1975). Wilhelm Wundt 1832–1920: A brief biographical sketch. Journal of the History of the Behavioral Sciences, 11, 287–297.
+Boring, E. G. (1965). On the subjectivity of important historical dates: Leipzig, 1879. Journal of the History of the Behavioral Sciences, 1, 5–9.
 
-Bringmann, W. G., Bringmann, N. J., & Ungerer, G. A. (1980). The establishment of Wundt’s laboratory: An archival and documen- tary study. In W. G. Bringmann & R. D. Tweney (Eds.), Wundt studies: A centennial collection (pp. 123–159). Toronto, Ontario, Canada: C. J. Hogrefe.
-
-Bruce, D. (1997). Puzzling over animal intelligence. Contemporary
-
-Psychology, 42, 879–882.
-
-Buckley, K. W. (1982). The selling of a psychologist: John Broadus Watson and the application of behavioral techniques to advertis- ing. Journal of the History of the Behavioral Sciences, 18, 207–221.
+Bridgman, P. W. (1927). The logic of modern physics. New York:

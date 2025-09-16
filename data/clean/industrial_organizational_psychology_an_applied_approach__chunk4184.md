@@ -1,13 +1,11 @@
-## Fisher, J. D., Rytting, M., & Heslin, R. (1976). Hands touching
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9cf2bfa72d63bcc358280ffa4d0ce9e0804842ef
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Finkelstein, L. M., Burke, M. J., & Raju, N. S. (1995). Age
 
-hands: Aﬀ ective and evaluative eﬀ ects of an interpersonal touch. Sociometry, 39, 416–421.
+discrimination in simulated employment contexts: An integrative analysis. Journal of Applied Psychology, 80, 652–663.
 
-Fisher, S. L., & Greenis, J. L. (1996). Th e customer in job analysis. Poster presented at the 11th annual conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
-
-Fitzgibbons, A. (1997). Employees’ perceived importance of
-
-proﬁ t sharing plays a role in proﬁ t sharing’s organizational
-
-impact. Proceedings of the 18th Annual Graduate Conference in Industrial/Organizational Psychology and Organizational Behavior, 18, 43–44.
-
-Flanagan, J. C. (1954). Th e critical incident technique.
+Fisher, J. D., Bell, P. N., & Baum, A. (1984). Environmental psychology. New York: Holt, Rinehart & Winston.

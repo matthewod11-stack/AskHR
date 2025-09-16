@@ -1,5 +1,9 @@
-## health care professional after exposure to a known case of active tuberculosis
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: 057df0255def2b986389336a91034f877d026a20
+title: Employment Law Guide - Occupational Safety and Health
+---
+# standard
 
-Employers do not have to record certain injury and illness incidents such as a visit to a doctor solely for
-
-observation and counseling or those requiring ﬁrst aid treatment only. For more information see the full list of
+Work-related cases involving hearing loss under certain conditions Tuberculosis infection as evidenced by a positive skin test or diagnosis by a physician or other licensed

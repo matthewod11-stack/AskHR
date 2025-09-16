@@ -1,7 +1,15 @@
-## overwhelming (too many suggestions), while more-skilled employees
+---
+source_path: H07P33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a74f40349091f6a63315421096e2c4cbab2783a
+title: H07P33-PDF-ENG
+---
+# more comfortable with the tool.
 
-sometimes found it lacking in nuance. What employees want is
+Managers can also customize the quality of the feedback to reﬂect
 
-personalized coaching, so it’s important to pick an AI tool that’s ﬂexible
+speciﬁc employee needs — for example, by having the output provide
 
-enough to accommodate the array of people and situations in your
+more encouraging feedback during employee onboarding. In one study, the AI coaching tool was found most eﬀective for moderately skilled
+
+employees, as less-skilled employees sometimes found the feedback

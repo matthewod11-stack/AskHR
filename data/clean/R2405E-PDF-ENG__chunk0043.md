@@ -1,7 +1,35 @@
-# riskier in comparison.
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6da769da7e56f414cde4d0cd808be9f06f80b8d
+title: R2405E-PDF-ENG
+---
+## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+race to market. So it’s vital for incumbents to be organized to rapidly
 
-11
+mobilize their resources and scale innovations up quickly.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+At this stage investment is the only factor preventing a new venture
+
+from realizing its full potential. While other obstacles may still crop up,
+
+the risk of not committing is now greater than the risk of committing.
+
+Unfortunately, at just this point incumbents often develop cold feet and
+
+start bogging the new venture’s leadership team down with last-minute
+
+questions and hurdles that hamper execution. This is particularly
+
+common in R&D-intensive industries with high downstream costs,
+
+such as the semiconductor industry, where ﬁrms make signiﬁcant
+
+R&D investments and establish partnerships but then switch rapidly
+
+from seeking opportunity to avoiding risk. This change in direction is
+
+particularly hard to counter if the incumbent company has room to
+
+grow in the market, because investing in innovation inevitably appears

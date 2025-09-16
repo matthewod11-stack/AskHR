@@ -1,9 +1,17 @@
-## example, text, number or even image or sound.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 762c45aaa496d7a2a7fd58acd7e70c69b56a1629
+title: i
+---
+# (Ruohonen,S.( 2015( Combine from Modified from Fitz-enz and Mattox (2014)and Gartner
 
-Meanwhile, the amount of data retained is continuously growing due to the advancement of
+(2013)
 
-technology. In 2011, IBM estimated that 90% of the world's data was created in several
+Data analytics : A definition of data analytics and different levels of data analytics.
 
-previous years, while the UN stated that the amount of data in 2011 alone was more significant
+Data is defined by the Oxford Dictionary as1. facts or information, especially when examined
 
-than that of the whole history of humanity. As data storage becomes more affordable, data
+and used to discover things or make decisions. 2. information that is stored by a computer. Data
+
+is the collection of factual information existing in all many different types and formats, for

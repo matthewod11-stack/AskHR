@@ -1,17 +1,49 @@
-# purpose.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f946b7fcaaf85e17688ca393bf5319965a145fe
+title: H07SHV-PDF-ENG
+---
+# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-ADI IGNATIUS:
+ARTHUR C. BROOKS:
 
-This is a question from Nepal that picks up on your themes. You’ve
+Yeah, happiness is absolutely contagious because social contagion
 
-talked about people taking agency in their own life and their own
+is a real thing. There’s a really great study, Adi, more or less in
 
-fulﬁllment and sense of happiness. But how should we deal with people
+our neighborhood, they’re called the Framingham Heart Study from
 
-in leadership who don’t believe in any of this stuﬀ, who don’t believe in
+Framingham, Massachusetts. It looks over 50 years. It was set up to look
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+at people’s lives, at how diﬀerent social aspects of life are contagious
 
-16
+for physical stuﬀ, whether obesity is socially contagious, etc. But they
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+started to look at other things like happiness, and they found that just
+
+being in the vicinity of a happy person makes you happier. Having
+
+your spouse get happier makes you happier. Having your best friend get
+
+happier makes you a lot happier.
+
+But even more contagious is misery. That’s the reason you don’t want
+
+your teenage kids to hang out with a kid who wears all black and
+
+looks bummed all the time. And that’s because it’s like, “Oh, that
+
+sucks. Everything sucks.” You don’t want that because that’s so socially
+
+contagious that your kid is going to become unbelievably negative and
+
+become sad. And nobody wants this for their children because they
+
+have a sense of the social contagion.
+
+The number one issue that I see in family dynamics is a social contagion
+
+of negativity. That’s what each one of us has to turn around, is to try
+
+to inject the happiness virus into our family and to basically do it on

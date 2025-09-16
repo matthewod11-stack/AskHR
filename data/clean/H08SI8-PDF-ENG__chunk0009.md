@@ -1,21 +1,19 @@
-# eﬀort.
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72af46f9a217af370b68dde532cc4552305b3d33
+title: H08SI8-PDF-ENG
+---
+# Honeywell
 
-This was a problem for a couple of reasons. For one, because
+To understand the distinction between digital adoption and digital
 
-Honeywell contains so many businesses, the sprawl of tools and systems
+transformation, consider the problem that Honeywell faced at the
 
-heightened those internal divides. Second, as a result, that hindered
+beginning of its recent eﬀort to transform itself. “We had more than 150
 
-Honeywell’s ability to create new value for its customers. “The question
+enterprise resource planning systems (ERPs), some 2,700 applications,
 
-we asked ourselves,” writes Adamczyk, “was ‘Is it possible to use
+1,700 websites, and no overarching plan for collecting and using data,”
 
-digitalization to transform a diversiﬁed industrial conglomerate into an
-
-integrated company?’”
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+writes Darius Adamczyk, who was CEO of Honeywell at the outset of the

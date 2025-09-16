@@ -1,19 +1,9 @@
-# organic farming standards.
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6ee76164cd9939ea6801018913e4f0a776e51c9
+title: R2505L-PDF-ENG
+---
+## farm practices, sustainability initiatives, and customer endorsements.
 
-Such transparency has been adopted by real companies in a range
-
-of high-scrutiny industries. For example, to counter persistent urban
-
-legends—such as claims that its burgers contained earthworms or “pink
-
-slime”—McDonald’s launched the transparency campaign “Our food.
-
-Your questions,” inviting customers to ask questions and providing
-
-clear answers. As part of the campaign, McDonald’s invited camera
-
-crews into its factories, hosted live Q&A sessions on social media, and
-
-published detailed information on its website. Similarly, Starbucks has
-
-a webpage, “Starbucks for the Record,” where the company directly addresses misinformation targeting the coﬀee maker, using CEO letters,
+This platform includes myth-busting FAQs and educational content on

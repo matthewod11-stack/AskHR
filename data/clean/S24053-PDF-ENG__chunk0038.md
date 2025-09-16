@@ -1,11 +1,13 @@
-## experience. Anonymous quotes and data about the team’s functioning
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6797513d2c8efdceb76b29e2c76bd7964ab78b8f
+title: S24053-PDF-ENG
+---
+## HBR / Spotlight Article / Teamwork at the Top
 
-were gathered from members in advance and shared to help build a
+To break the cycle, the regional CEO scheduled a series of top-team oﬀ-sites designed to build personal relationships and foster mutual
 
-picture of strengths and gaps. Two things in particular helped the team
+empathy—two key enablers of collaboration. The ﬁrst meeting started
 
-bond. First, the regional CEO modeled vulnerability by highlighting an
-
-area in which he needed to improve. And second, the team created a
-
-charter that identiﬁed their purpose, desired behaviors, focus areas, and
+with the team sharing stories that highlighted their values and past

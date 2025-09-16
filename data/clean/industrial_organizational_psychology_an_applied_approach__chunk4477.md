@@ -1,7 +1,9 @@
-# violent episodes. HR News, pp. 2–4.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 49946bb96f454adab4f3487ff04a451cafc0a53f
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Annual Review of Psychology, 30, 31–61.
 
-Trice, E. (1997, October). Referrals to the rescue? IPMA News,
-
-pp. 12–13.
-
-Triplett, N. (1898). Th e dynamogenic factors in pacemaking and
+Trenn, K. (1993, December). Th ird or survey respondents report

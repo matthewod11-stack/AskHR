@@ -1,5 +1,7 @@
-# justice on employee
-
-engagement: a study of Indian professionals”, Employee Relations, Vol. 35, pp. 61-78.
-
-Hackman, J.R. and Oldham, G.R. (1980), Work Redesign, Addison-Wesley, Reading, MA. Hakanen, J.J., Bakker, A.B. and Schaufeli, W.B. (2006), “Burnout and work engagement among
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 6c150ffc53f88a9de2f57e0e2fee9682547d2bac
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# (2013), “Impact of performance appraisal

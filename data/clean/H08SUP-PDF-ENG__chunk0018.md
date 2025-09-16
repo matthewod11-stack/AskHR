@@ -1,11 +1,7 @@
-## As part of its regulatory authority, the FDA convenes Advisory
-
-Committees (AdComs) to assist its decision-making. These AdComs
-
-are expert panels whose purview includes evaluating new drugs
-
-and medical devices, and making recommendations on product
-
-approvals before they enter the U.S. market. For example, in December
-
-2020, the Vaccines and Related Biological Products AdCom met to
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5363ccf1e0d14a9b3604d25fe9b68f8bc6f137a0
+title: H08SUP-PDF-ENG
+---
+# A Simple Change in the Voting Protocol

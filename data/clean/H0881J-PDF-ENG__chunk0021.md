@@ -1,19 +1,29 @@
-# Give Positive Reinforcement
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c6873d4f5857894b5909eb04309b3dbfa0acc12
+title: H0881J-PDF-ENG
+---
+# HBR / Digital Article / How to Talk to an Employee Who Isn’t Meeting Expectations
 
-Now that you’ve taken the time to look back and assess what’s
+I architect a well-structured meeting. I prepare a clear agenda and
 
-happening, reset the focus to the present state. Set the tone of the
+assign sections of it to speciﬁc team members. Giving everyone a
 
-conversation by acknowledging the employee’s strengths and desire to
+role in how the meeting runs makes everyone feel involved, sets the
 
-do well. Emphasizing empathy and understanding will show them that
+expectation that everyone is accountable for coming prepared, and
 
-the discussion is about growth and development rather than criticism.
+ensures no one dominates the conversation. It also allows me to lead
 
-You want to communicate that you believe improvement is possible
+by example: The team sees what a well-run meeting looks like and
 
-and that you and the team are here to support them through their self-
+how they can adapt the structure for their own meetings.
 
-improvement journey. As Charles Schwab said, “The way to develop the
+Ask your employee to share their honest opinion about what is leading
 
-best that is in a person is by appreciation and encouragement.”
+to this feedback, then sit in silence and give them space to share their
+
+thoughts. More often than not, they will take some accountability for
+
+their results. If they don’t, they may not be coachable.

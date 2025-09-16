@@ -1,11 +1,61 @@
-## Differences between male and female teams
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 5a72c7f275fe75d41df53ed8796a2c05beeb574f
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Collective efficacy
 
-Most common leadership structure. For both male and female teams, the majority of the
+3.39 (.58)
 
-teams had one task leader, one social leader, and two external leaders (Table 1).
+3.79 (.82)
 
-Most effective leadership structure. To identify potential differences between male and female teams in the effectiveness of the different leadership structures, we conducted MANO- VAs. The first step was to run a two-way MANOVA to examine whether there were differ- ences in players’ perception of team effectiveness based on the interactions between gender and the different leadership roles. Significant effects were observed for the interactions between gender and task leadership (Wilk’s Λ = .64, F(54,2599.99) = 4.36, p = .<001; partial η2 =
+3.33 (.75)
 
-PLOS ONE | https://doi.org/10.1371/journal.pone.0218167 June 10, 2019
+6.57
 
-12 / 22
+��
+
+.26
+
+1.00
+
+.005
+
+Intention to continue
+
+3.29 (.79)
+
+4.27 (.95)
+
+3.72 (.99)
+
+6.11
+
+��
+
+.004
+
+.30
+
+.01
+
+Perceived performance
+
+3.93 (.70)
+
+3.74 (1.34)
+
+3.40 (1.00)
+
+3.41
+
+1.00
+
+.17
+
+.23
+
+�p < .05 ��p < .01 ���p < .001. The values that reflect the best team functioning are presented in bold.
+
+https://doi.org/10.1371/journal.pone.0218167.t006

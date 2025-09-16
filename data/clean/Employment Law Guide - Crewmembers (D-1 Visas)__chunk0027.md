@@ -1,15 +1,31 @@
-# Employee Rights
+---
+source_path: Employment Law Guide - Crewmembers (D-1 Visas).md
+pages: n/a-n/a
+chunk_id: e4110592f3f35740675d85710a63f26096d655c7
+title: Employment Law Guide - Crewmembers (D-1 Visas)
+---
+# port.
 
-U.S. workers have the right not to have foreign crewmembers on prevailing practice D-visas perform longshore work during a strike or lockout in the course of a labor dispute. Also, the performance of the longshore work by foreign crewmembers must not
+As noted, performance of longshore work at U.S. ports by D-1 crewmembers on foreign vessels is generally prohibited with few
 
-be intended to inﬂuence an election of a bargaining representative for workers in the local port. The employer must provide notice
+exemptions. The Employment and Training Administration is responsible for administering two of those exemptions. Employers in these ports are required to ﬁle an attestation with ETA which is valid for one year.
 
-of the ﬁling of an attestation to longshore workers employed at the local port. Any aggrieved person or organization (including
+The attestation for the prevailing practice exception (Form ETA 9033 which is valid for one year, must state that the use of alien
 
-bargaining representatives in the local port) may ﬁle a complaint alleging a misrepresentation on an attestation or a failure to comply with its terms.
+crewmembers to perform longshore work is the prevailing practice for the activity at that port, that the use of such alien
 
-Under the State of Alaska exception, an employer must make a bona ﬁde request for, and employ U.S. workers who are qualiﬁed
+crewmembers is neither occurring during a strike or lockout at the place of employment, nor intended to inﬂuence an election of a
 
-and available in suﬃcient numbers to perform the longshore work. Only where suﬃcient U.S. longshore workers are not made
+bargaining representatives in the local port, and that notice has been given to U.S. workers or their representatives.
 
-available may the employer use alien crewmembers to perform the work.
+The exception for Alaska, which an employer seeks by ﬁling Form ETA 9033-A with ETA, requires that, before using alien
+
+crewmembers to perform longshore activities in the State of Alaska, the employer will inter alia make a bona ﬁde request for and
+
+employ U.S. longshore workers who are qualiﬁed and available in suﬃcient numbers from contract stevedoring companies, and
+
+private dock operators. ETA administers the attestation process under the prevailing practice and State of Alaska exceptions.
+
+The Wage and Hour Division investigates and resolves complaints that the employer failed to meet conditions to which it attested, misrepresented a material fact in an attestation, or failed to use the automated vessel exception properly. Complaints about such
+
+matters should be ﬁled with a local Wage and Hour Division oﬃce.

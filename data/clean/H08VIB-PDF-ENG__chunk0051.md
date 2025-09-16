@@ -1,11 +1,25 @@
-## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e8a9d6f7d005f0bd07e72047a5afb3c4d36e871
+title: H08VIB-PDF-ENG
+---
+# drive idea convergence after ideation.
 
-Elisa Farri is vice president and head of Capgemini Invent’s Management Lab, and Thinkers50 Radar Class of 2023. She is the co-author of the book HBR Guide to Generative AI for Managers.
+. . .
 
-Gabriele Rosani is director of content and research at Capgemini Invent’s Management Lab. He is a co-author of the book HBR Guide to Generative AI for Managers.
+While the use of AI in teamwork is still emerging, pioneers like Anna,
+
+John, and David are already shaping best practices. The three modes
+
+we’ve described—AI sets the table, AI at one seat, and AI at every seat—
+
+oﬀer a practical framework to guide your experimentation.
+
+This article was originally published online on August 27, 2025.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-12
+11
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

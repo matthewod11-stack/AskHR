@@ -1,19 +1,13 @@
-# What the Experts Say
+---
+source_path: H08VV2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 315279505ce60d4ed87d0787296c07aed98e09da
+title: H08VV2-PDF-ENG
+---
+## HBR / Digital Article / Protecting Your Team in a Toxic Organizational Culture
 
-Leading a team in an organization where communication and trust have
+So, what are the best ways to counter the negativity? How can you be
 
-broken down can leave you feeling powerless. The bad energy has a
+realistic but also constructive about company problems? And how can
 
-way of seeping into everything, threatening to contaminate your people
-
-too. But as a team leader, “you have more control and inﬂuence than
-
-you think,” according to Jennifer Chatman, dean of the Haas School of
-
-Business at the University of California, Berkeley. “In organizations that
-
-are slightly to very toxic, being siloed can actually be an advantage,”
-
-she says. “The opportunity for leaders is to focus on creating a pocket
-
-of excellence: a culture that helps buﬀer your team from the rest of the
+you set boundaries between your team and the company’s turmoil?

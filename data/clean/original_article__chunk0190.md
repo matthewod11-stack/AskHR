@@ -1,17 +1,15 @@
-# Improving corporate performance
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 57a1a2ed883f29185c5246ac28e21caf1cadacb7
+title: original_article
+---
+# as
 
-Granovetter, M.S. (1973) The strength of weak ties. American Journal of Sociology 78(6): 1360–1380. Grant, R.M. (1996) Toward a knowledge-based theory of the ﬁrm. Strategic Management Journal 17: 109–122.
+Gabrielsson, J. and Huse, M. (2004) Context, beha- vior, and evolution: Challenges in research on boards and governance. International Studies of Management & Organization 34(2): 11–36. Gabrielsson, J., Huse, M. and Minichilli, A. (2007) Understanding the Leadership Role of the Board Chairperson through a Team Production Approach. Gill, A., Biger, N. and Tibrewala, R. (2010) Deter- minants of dividend payout ratios: Evidence from United States. The Open Business Journal 3: 8–14.
 
-Greenwald, B.C. and Stiglitz, J.E. (1994) Asymmetric the Firm: Information and the New Theory of Financial Constraints and Risk Behavior. Nashville, TN: National Bureau of Economic Research.
+Gill, A.S. and Obradovich, J.D. (2012) Corporate governance, institutional ownership, and the decision to pay the amount of dividends: International Research Evidence from USA. Journal of Finance and Economics 97(September): 60–71.
 
-Huse, M., Hoskisson, R., Zattoni, A. and Viganò, R. (2011) New perspectives on board research: Changing the research agenda. Journal of Man- agement and Governance 15(1): 5–28.
+Gillan, S.L. and Starks, L.T. (2007) The evolution of shareholder activism in the United States. Journal of Applied Corporate Finance 19(1): 55–73.
 
-Huse, M., Minichilli, A. and Schøning, M. (2005) Corporate boards as assets for operating in the new Europe: The value of process-oriented boardroom dynamics. Organizational Dynamics 34(3): 285–297.
-
-Guzzo, R.A., Yost, P.R., Campbell, R.J. and Shea, G.P. (1993) Potency in groups: Articu- lating a construct. British Journal of Social Psychology 32(1): 87–106.
-
-Ilgen, D.R., Hollenbeck, J.R., Johnson, M. and in organizations: (2005) Teams Jundt, D. From input-process-output models to IMOI models. Psychology 56(1): 517.
-
-Hambrick, D.C., Werder, A. and Zajac, E.J. (2008) in corporate governance
-
-New directions research. Organization Science 19(3): 381. Hare, A.P. (2003) Roles, relationships, and groups in organizations: Some conclusions and recom- mendations. Small Group Research 34(2): 123–154. Hartenian, L.S. (2002) Personal and Organizational Correlates and Abilities: How do Team Players Get that Way? Oshkosh, WI: Management and Human Resources College of Business Administration, University of Wisconsin.
+© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131

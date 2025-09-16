@@ -1,15 +1,17 @@
-## unique information incurs signiﬁcant costs to the individual.
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bbf99ba0f1e54ae0f682c1a0a990c9112add6ddb
+title: H08SUP-PDF-ENG
+---
+# Why Committees Fail
 
-Cognitive costs. Our human cognitive limits often make the sharing of
+Despite the many advantages that committees bring, decision-making
 
-private information less likely. This is because unique, or “unshared,”
+groups are known to face several challenges in surfacing and processing
 
-data often requires greater cognitive eﬀort to recall and articulate—
+information. At the core are cognitive, psychological, and social costs to
 
-especially when its relevance to the current discussion is uncertain. The
+sharing the information that is privately held by individual members of
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the committee. All these challenges stem from a common root: sharing

@@ -1,7 +1,11 @@
-# cultural competence
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: 9ec72dfcc2bf64e135025607d8c2d1ac8bc372df
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# staff
 
-Being available and responsive to staff
+“Attracting, hiring, and retain diverse employees and allowing them to contribute and succeed in an organization.”
 
-“I try to be friendly and welcoming to our staff, and try to be my authentic self and encourage others to do the same.” “I am available and open, make time for everyone, follow-up on concerns/ check-in, and try to give everyone space to talk and share ideas.”
-
-Cultivating regular team interactions
+Role modeling emotional intelligence and

@@ -1,21 +1,21 @@
-# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b491a7d5c7e80dec446dd6fed364f1d6dc5a65b
+title: H07DLJ-PDF-ENG
+---
+# right now?
 
-I also think it’s a matter of focus as well. We focused on areas where we
+DEB LIU:
 
-could easily get access to the records. As we grow our record database,
+Well, I think ﬁrst, digitization costs are going down, and so that’s going
 
-we have the largest exclusive database of historical records in the world.
+to help access more records and has made it much more possible for us to get access to records that would’ve been really diﬃcult and expensive
 
-And one of the things that we want to do is to continue to grow that
+to key in many years ago. I think that will make a huge diﬀerence.
 
-archive in areas, in countries, where it might not be as easily accessible.
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-And so there’s some work that will be done there, but technology is only
+15
 
-making this easier over time. And so we’re going to continue to invest in
-
-and grow that.
-
-ADI IGNATIUS:
-
-Have you been able to learn anything about your own family and your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

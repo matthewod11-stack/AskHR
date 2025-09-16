@@ -1,5 +1,13 @@
-# Who is Covered
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Covered Veterans.md
+pages: n/a-n/a
+chunk_id: dc4b642c7a5f28e50906366c1e43c155db530f40
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Covered Veterans
+---
+## Vietnam Era Veterans’ Readjustment Assistance Act of 1974
 
-The Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended, 38 U.S.C. 4212, ("VEVRAA") is
+(VEVRAA),
 
-administered by the Oﬃce of Federal Contract Compliance Programs ("OFCCP"). VEVRAA requires employers with Federal contracts or subcontracts valued at $150,0001 or more, and contracts or subcontracts for indeﬁnite quantities (unless the contracting agency has reason to believe that the cost in any one year will be
+as amended; 41 CFR Part 60-300

@@ -1,5 +1,7 @@
-# Team Leaders Need Better Data, Faster
-
-They’re the ones who have the real power to change things. by Marcus Buckingham
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: Team Leaders Need Better Data, Faster.md
+pages: n/a-n/a
+chunk_id: b2ae1246d50f6c0807615da43e54af79e514e00a
+title: Team Leaders Need Better Data, Faster
+---
+# Performance Indicators

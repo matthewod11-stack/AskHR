@@ -1,7 +1,33 @@
-# HBR / Digital Article / The Formal Policies That Protect Family Businesses from Interp…
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1745c098dd2830af879cef1cb1bfdd3ae9f4c6e9
+title: H08PQR-PDF-ENG
+---
+# gain from their equity in the business.
 
-- Ensure everyone hired has a clear job descriptions and performance
+This left non-family employees demoralized and created tension among
 
-metrics tied to accountability.
+cousins. When John’s marriage ended, the debate over whether John’s
 
-- Set in place a code of conduct and grievance procedures applicable to
+spouse should stay employed became personal, emotional, and divisive.
+
+It didn’t need to be this way.
+
+This company, like all family-controlled ﬁrms, needed a set of
+
+employment practices for family members. These policies should:
+
+- Create a formal hiring process for all roles, family and non-family.
+
+- Write down clear expectations around which family members are
+
+eligible for employment, and what qualiﬁcations they need to be
+
+considered for roles.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

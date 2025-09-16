@@ -1,25 +1,17 @@
-# transformation.
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4c53dc3bcc7365cf066d6a0d9c3354129ed13d1
+title: H088S2-PDF-ENG
+---
+# growth rate for each sector.
 
-Instead, organizations should cultivate aspirations that challenge and
+- 2. Use aspirations to continuously challenge and stretch the organization.
 
-motivate at every level. Unlike static targets, aspirations serve as
+Relying solely on top-down targets, even those based on external
 
-dynamic catalysts for ongoing improvement. They represent goals
+benchmarks and industry best practices, often falls short of fostering
 
-currently beyond the reach of the company’s existing plans, but not
+sustained performance improvement. While these targets may initially inspire eﬃciency enhancements, they often lead to complacency once
 
-so distant as to be perceived as unattainable. Unlike ﬁxed targets
-
-that stagnate progress once achieved, aspirations evolve with the
-
-organization and its strategy. They continuously push the organization
-
-to adapt to changing market conditions, technological advancements,
-
-evolving customer needs, and even growing environmental concerns.
-
-Consider the example of Ørsted, a multinational energy company based
-
-in Denmark formerly known as DONG Energy. In 2008, its leadership
-
-embarked on a journey to transition the company from a traditional
+achieved, perpetuating the rigid “unfreeze, change, refreeze” model of

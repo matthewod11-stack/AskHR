@@ -1,15 +1,29 @@
-# current challenges.
+---
+source_path: H08T7B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 896b9d991bd136265df8ac59649491f5270cb491
+title: H08T7B-PDF-ENG
+---
+## variations in the sequence and blend of these types of team learning.
 
-Our research reveals a likely culprit of stalled innovation: Teams are
+Together, these comprise a toolkit that enables teams to innovate:
 
-blending incompatible learning activities at the wrong times.
+- 1. Experimental learning: A team deliberately tests ideas, expecting
 
-Cognitive neuroscience conﬁrms what experienced leaders intuitively
+failures along the way, as part of developing new knowledge and
 
-know: Our brains need structured breaks to turn experiences into
+occasional breakthroughs. Experimental learning includes activities
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+like brainstorming and prototyping.
 
-2
+- 2. Vicarious learning: Teams consult with other teams or individuals
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+who have done similar work to avoid reinventing the wheel.
+
+- 3. Contextual learning: A team’s members scan their environment to
+
+detect market shifts, emerging trends, or competitor strategies.
+
+- 4. Reﬂexive learning: A team deliberately engages in self-examination,
+
+such as by assessing strategies, revisiting goals, and discussing

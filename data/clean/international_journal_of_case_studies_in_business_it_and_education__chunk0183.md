@@ -1,19 +1,19 @@
-## subjective well-being”. Evidence-based HRM, 5 (2), 206-221.Google Scholar 
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 514bcf0be2410653057004a95732041502985fa5
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# SRINIVAS PUBLICATION
 
-[30] Hakanen, J. J., Bakker, A. B., & Schaufeli, W. B. (2006). Burnout and work engagement among
+for common mental health problems. Occupational and environmental medicine, 74(4), 301-310. Google Scholar 
 
-teachers. Journal of school psychology, 43(6), 495-513. Google Scholar 
+[24] Lee, C., Huang, G. H., & Ashford, S. J. (2018). Job insecurity and the changing workplace: Recent developments and the future trends in job insecurity research. Annual Review of Organizational Psychology and Organizational Behavior, 5(1), 335-359. Google Scholar 
 
-[31] Yang, Y., Guo, Z., Kou, Y., & Liu, B. (2019). Linking self-compassion and prosocial behavior in adolescents: The mediating roles of relatedness and trust. Child Indicators Research, 12(1), 2035- 2049. Google Scholar 
+[25] Cooper, S., & Nielsen, S. (2017). Stigma and social support in pharmaceutical opioid treatment populations: A scoping review. International Journal of Mental Health and Addiction, 15(2), 452- 469. Google Scholar 
 
-[32] Long, B. S., & Helms Mills, J. (2010). Workplace spirituality, contested meaning, and the culture of organization: A critical sensemaking account. Journal of organizational change management, 23(3), 325-341. Google Scholar 
+[26] LaMontagne, A. D., Martin, A., Page, K. M., Reavley, N. J., Noblet, A. J., Milner, A. J., & Smith, P. M. (2014). Workplace mental health: developing an integrated intervention approach. BMC psychiatry, 14(1), 1-11. Google Scholar 
 
-[33] Ozcelik, H., Langton, N., & Aldrich, H. (2008). Doing well and doing good: The relationship between leadership practices that facilitate a positive emotional climate and organizational performance. Journal of Managerial Psychology, 23(2), 186-203. Google Scholar 
+[27] Lindsay, S., Cagliostro, E., Leck, J., Shen, W., & Stinson, J. (2019). Employers’ perspectives of including young people with disabilities in the workforce, disability disclosure and providing accommodations. Journal of Vocational Rehabilitation, 50(2), 141-156. Google Scholar  [28] Aldamman, K., Tamrakar, T., Dinesen, C., Wiedemann, N., Murphy, J., Hansen, M., & Vallières, F. (2019). Caring for the mental health of humanitarian volunteers in traumatic contexts: the importance of organizational support. European journal of psych traumatology, 10(1), 1-12. Google Scholar 
 
-[34] Zakaria, J. (2015). An examination of the work culture, motivation, quality of work life on the relations between job performance and job satisfaction. International Journal of Humanities and Social Science Invention (IJHSSI), 4(9), 41-49. Google Scholar 
-
-[35] Ciulla, J. B., & Ciulla, J. B. (2020). The importance of leadership in shaping business values. The
-
-search for ethics in leadership, business, and beyond,50(1), 153-163. Google Scholar 
-
-[36] Sergeant, J., & Laws-Chapman, C. (2012). Creating a positive workplace culture. Nursing
+[29] Joo, B.-K. and Lee, I. (2017), "Workplace happiness: work engagement, career satisfaction, and

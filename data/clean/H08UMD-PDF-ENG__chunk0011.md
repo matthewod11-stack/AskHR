@@ -1,7 +1,11 @@
-# harmony over personal recognition).
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f9aad355c26dbde5dbe08195eb776a3b6cfeef39
+title: H08UMD-PDF-ENG
+---
+# HBR / Digital Article / Research Roundup: Humility at the Top, Motivating Your Staff, R…
 
-To see whether these ﬁndings held true in Western cultures, which
+highly individualistic employees, who prioritize personal uniqueness
 
-tend to have a higher concentration of individualistic workers, the
-
-researchers conducted a follow-up survey with 210 participants in
+and growth (in contrast to collectivist employees, who prioritize group

@@ -1,1 +1,13 @@
-# 55
+---
+source_path: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio.md
+pages: n/a-n/a
+chunk_id: 33e0b736fa986b281ade7d7f6ca4d19e73b25047
+title: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio
+---
+# The ‘‘New’’ Organizational Career
+
+Recent career development research has accentuated the frequency of employment changes among employees seeking career success (e.g., Colakoglu, 2011). A report from the Bureau of Labor Statistics (2012) revealed that younger baby boomers held an average of 11.3 jobs from ages 18 to 46. These findings reveal that on average, younger generation employees are remaining with an organization for less than 31 months.
+
+Despite this concerning trend, there are indications that a career within a single organization is still a viable and desirable option for employees (Clarke, 2013). Employee interviews revealed that those who frequently pursued career development through interorganizational moves were motivated by a need for career and personal development and work–life balance (Clarke, 2013). Others who were employed by a single organization for at least 10 years emphasized the importance of having been pro- vided flexibility, opportunities for career and personal development, and a shared responsibility for career management through a strong employer–employee relationship. These employees stressed the importance of having a career compatible with their personal lives.
+
+The new organizational career is one that provides the flexibility of a contemporary career within a single organization. Employees are afforded internal mobility opportunities (e.g., new roles, interna- tional or cross-cultural experiences, and flexible work arrangements) that may preempt the need to seek opportunities through alternate employment. Organizations provide employees with career- specific development opportunities, which are one of the three facets of career growth (i.e., one’s per- ceptions of development and advancement opportunities within an organization; Weng & McElroy, 2012; Weng, McElroy, Morrow, & Liu, 2010). Organizations can support employee development

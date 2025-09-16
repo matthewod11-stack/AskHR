@@ -1,5 +1,17 @@
-## PERSONALITY IN PERSON-ORGANIZATION FIT RESEARCH 271
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: afccf1f299e3b51144313a73e984fbee6b7d9ac8
+title: barrickryan_eds_personality_and_work
+---
+# 270 PERSONALITY AND WORK
 
-et al. (2001) assessed the team’s extraversion by using the average of team members minus the person whose ﬁt was being assessed. However, results by Barrick et al. (1998) suggest additional ways in which team personality may be modeled. They described three methods of operationalizing team personality composition: mean score for the group, variability (variance, proportion of members possessing a particular trait), and minimum and maximum scores on a trait. Whether these methods could be applied to the assess- ment of PG or even PO ﬁt with any meaning is another question worth pursuing.
+congruence rather than as an interaction, it may be more inﬂu- ential when assessed as PG rather than PO ﬁt. Constructs at adja- cent levels of analysis (person and group) should be more strongly related than those that are more distal (person and organization; Simon, 1973).
 
-One ﬁnal issue is that the question of whether personality- based PO ﬁt matters may be too simplistic. Given our knowledge of the usefulness of certain personality traits as predictors of per- formance, we could ask whether any organization cares about ﬁt on conscientiousness and emotional stability; instead, ﬁrms want to hire individuals high on these traits regardless of the current lev- els in the workforce. However, PO ﬁt on these two traits will still matter for outcomes such as satisfaction, as the highly conscien- tious individual will be less satisﬁed when there is low ﬁt. Thus, it is overly simplistic to talk about PO ﬁt on personality affecting out- comes. We must consider what traits we are talking about and what outcomes we are hoping to predict. We expand on this more fully in the next section.
+Referring back to our example at the beginning of this section, Carolyn was initially unhappy with her position because of a poor PO ﬁt on values. Her values regarding collegiality were not con- gruent with those of others in her organization. After moving to a new university that shared her value for collegiality, she was struck by the lack of ﬁt in terms of conscientiousness with the others in her department. Because she interacts with these individuals on a daily or at least weekly basis, this lack of ﬁt on personality was neg- atively affecting her attitudes about her work and coworkers. Both types of misﬁt (PO misﬁt on values and PG misﬁt on personality) resulted in negative consequences for Carolyn.
+
+We believe that an important next step in ﬁt research is to in- vestigate the relative impact of these various types of ﬁt. Kristof- Brown, Jansen, and Colbert (2002) have conducted preliminary research in this area, using a policy-capturing design to demon- strate that PJ, PG, and PO ﬁt each has important independent ef- fects on satisfaction. Their results also showed that people with different amounts and types of work experience weight each type of ﬁt differently and that most individuals use complex strategies for combining their perceptions of these multiple types of ﬁt. Ad- ditional research demonstrating when, and for whom, a particular type of ﬁt will be most inﬂuential is needed.
+
+In addition, research on personality-based PG ﬁt is clearly nec- essary. In one of the only studies on PG ﬁt, using separate samples of M.B.A. project teams and long-standing manufacturing teams, Kristof-Brown, Barrick, and Stevens (2001) demonstrated that members’ attraction to their teams was highest when their level of extraversion was different from that of their team members. Their results show a complementary ﬁt relationship for the trait of ex- traversion. Additional personality traits should be investigated to understand more fully how ﬁt on personality operates within teams.
+
+One issue for this research to consider is how best to opera- tionalize the personality of the team or organization. Kristof-Brown

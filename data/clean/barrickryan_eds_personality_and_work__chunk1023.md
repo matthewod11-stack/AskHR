@@ -1,11 +1,11 @@
-# Multi-Language Seven model, fac-
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 459507ea843edc1cbe38387a3a50c76461bf06da
+title: barrickryan_eds_personality_and_work
+---
+## Managerial performance, 92 Metacognition, 243 Moderator model of personality in
 
-tors in, 10–11, 13
+teams, 198, 200–201
 
-Multidimensional Personality Ques- tionnaire (MPQ): and Interna- tional Personality Item Pool (IPIP), 19; scales of, 17; variable selection in, 4
-
-Multilevel theories, personality in,
-
-313–314, 338–340
-
-N Negative affect: and counterproduc- tive workplace behaviors (CWBs), 170, 173–174; deﬁned, 31. See also Affect
+Moods: behavioral consequences of, 135; and creativity, 45–46; and de- cision making, 47; distinction be- tween emotions and, 32, 303; as form of affect, 122; and health and immune functioning, 43–44; and helping behavior, 37; person- ality traits linked to, 165–167 Motivation: deﬁned, 97; as determi- nant of individual job perfor- mance, 97–98, 99, 332–333; differing conceptualizations of, 101–103

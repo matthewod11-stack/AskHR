@@ -1,15 +1,11 @@
-## impact: A Gallup study on employee engagement estimates that
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39fc255b0af5964e779092d0ebc390485f5a3464
+title: H07UNT-PDF-ENG
+---
+## So much of our workplace anxiety, confusion and ambiguity —
 
-setting clear expectations would reduce turnover by 22%, reduce safety
+particularly when managing projects — stems from this great
 
-incidents by 29%, and increase productivity by 10%.
-
-Here are the ﬁve main principles PMs can use to work through setbacks
-
-and close the expectations gap in the workplace.
-
-Consider the root of everyone’s expectations.
-
-Managing expectations can be a delicate balance. Set them too high, and
-
-risk disappointment. But aiming too low can leave people and teams
+expectations gap. But directly addressing it can have a signiﬁcant

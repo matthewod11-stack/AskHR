@@ -1,11 +1,27 @@
-## HBR / Magazine Article / You Need Two Leadership Gears
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9fa6289d70f621fc5c3664e4c8de2ff5e440f3c2
+title: R2302E-PDF-ENG
+---
+# Headcase Design
 
-approaches to meet the demands of the moment. They build teams and
+Do the best leaders take charge, lead from the front, give orders, and
 
-organizations whose members are adept at switching back and forth
+push people to do great work? Or do they listen to them, empower them,
 
-too, and leverage their formal authority and the respect they’ve earned
+and get out of the way?
 
-to shape when and how their people do so.
+After spending years considering clashing arguments from renowned
 
-We’ve learned about this bimodal leadership approach in our
+leaders and academics—and hundreds of hours studying this question
+
+ourselves—we’ve concluded that it’s a false choice. The most eﬀective
+
+leaders, our research shows, routinely shift between those two
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

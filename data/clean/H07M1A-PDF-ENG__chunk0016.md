@@ -1,5 +1,21 @@
-## HBR / Digital Article / Building Social Capital When You Work Remotely
+---
+source_path: H07M1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e6ec907cd9adb500c4eaf17eebd2c45bdbcce7f
+title: H07M1A-PDF-ENG
+---
+# unreliable.
 
-on them repeatedly. You will think about these people even when they
+Conversely, I’m sure you can easily name the people you know you can
 
-are not in the room. In doing so, they have earned social capital with
+count on and who earn the covetable reputation of consistently being
+
+great to work with. You are conﬁdent these people can deliver whatever
+
+you ask of them well and on time. Because of this, you are likely to call
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

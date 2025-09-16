@@ -1,9 +1,13 @@
-# Psychology, 2(1),18-22. Google Scholar 
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 9c4b519240de845f66ee46f16c2c04f93571629e
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+## (pp. 35-63). Springer, Dordrecht. Google Scholar 
 
-[70] Grant, A. M., Christianson, M. K., & Price, R. H. (2007). Happiness, health, or relationships? Managerial practices and employee well-being tradeoffs. Academy of management perspectives, 21(3), 51-63. Google Scholar 
+[68] Pradhan, R. K., & Hati, L. (2022). The measurement of employee well-being: development and
 
-[71] Van der Vaart, L., Linde, B., De Beer, L., & Cockeran, M. (2015). Employee well-being, intention to leave and perceived employability: A psychological contract approach. South African Journal of Economic and Management Sciences, 18(1), 32-44. Google Scholar 
+validation of a scale. Global Business Review, 23(2), 385-407. Google Scholar 
 
-[72] Sharma, P., Kong, T.T.C. and Kingshott, R.P.J. (2016), "Internal service quality as a driver of employee satisfaction, commitment and performance: Exploring the focal role of employee well- being”. Journal of Service Management, 27(5), 773-797.Google Scholar 
-
-[73] Haddon, J. (2018), "The impact of employees’ well-being on performance in the workplace".
+[69] Tripathi, P. (2011). Employee Well-being: Role of Psychological Capital. Amity Journal of Applied

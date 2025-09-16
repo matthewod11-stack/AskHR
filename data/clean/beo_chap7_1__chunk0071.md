@@ -1,25 +1,21 @@
-# 7.3.2 Peers and Groups
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 56b18749d9343bfe53743d47c1b8d03399584c15
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-One place in which social preferences have entered labor economics is in the con-
+accounted for as part of the merger cost. For example, when General Electric (GE)
 
-cept of “peer pressure.” Peer pressure is often invoked to explain why group-based
+bought the television network NBC, the high salaries of NBC employees angered
 
-incentives are surprisingly successful despite the incentive to free ride. For example,
+many successful engineers, who suddenly had an immediate reason to compare their
 
-Knez and Simester (2001) note that a $65/month bonus for all Continental Airlines
+wages with the highly paid “new neighbors.” Kole and Lehn (2000) make the same
 
-employees, for improved on-time-arrival rates, actually worked, even though any
+point about the takeover of Piedmont Aviation by U.S. Airways. The choice of the
 
-one employee’s performance has a minuscule effect on the firm’s overall on-time
+boundary of the firm, therefore, is also a choice of social comparison sets, which
 
-performance. They note the important influence of immediate pressure by peers to
-
-improve performance (see also Kandel and Lazear 1992). The experimental litera-
-
-ture on public goods games with sanctions also shows the power of peer pressure
-
-(see, for example, Yamagishi 1988; Fehr and Gachter 2000). When subjects can
-
-punish others at a cost to themselves, they often do so, which drives contributions
-
-up. Note that not every subject punishes, but enough do so to create higher contri-
+has economic consequences of its own.

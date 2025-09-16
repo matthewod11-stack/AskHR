@@ -1,5 +1,9 @@
-## Journal of Intercultural Management 7(4), 5–19.
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 5047da4f285dd33420db26cf23d05a3e92c297bb
+title: read_online
+---
+## for beginners, Introducing Statistical Methods Series, Sage, London.
 
-Greenhaus, J. & Beutell, N., 1985, ‘Sources of conflict between work and family roles’, Academy of Management Review 10(1), 76–88. https://doi.org/10.5465/ amr.1985.4277352
-
-Greenhaus, J., Collins, K. & Shaw, J., 2003, ‘The relation between work–family balance
+Goldman, G. & Callaghan, C.W., 2015, ‘A holistic synthesis of the organisation theories’,

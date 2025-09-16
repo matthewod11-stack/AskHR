@@ -1,33 +1,35 @@
-# HBR / Digital Article / When New Hires Get Paid More, Top Performers Resign First
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 553918f7dd0e46b6e281244e3b31ba6235876ea7
+title: H081SB-PDF-ENG
+---
+## performance management systems to your informal norms and
 
-in particular to avoid losing top performers, pay adjustments have to
+company culture surrounding pay conversations. Does your HR
 
-happen fast.
+department depend on outdated, clunky software or slow-moving,
 
-. . .
+bureaucratic processes? If so, it’s going to struggle to keep up with
 
-The world of pay and compensation is incredibly complex. There are
+the rapidly evolving needs of its workforce. Similarly, are managers
 
-countless factors to balance, and no guarantees of success — even
+accustomed to engaging in open and transparent conversations with
 
-with the best of intentions. Moreover, while our research focused on
+their reports about compensation and related concerns, or are these
 
-a general analysis of workforce behavior, prior work suggests that
+topics so taboo that employees would rather just resign than attempt to
 
-inequities are likely further exacerbated by gender and racial biases. For
+get the raise they feel they deserve?
 
-example, data from the Pew Research Center has shown that American
+Adopting more agile processes and mindsets can come with some
 
-women still make just 82 cents for every dollar earned by men, and that
+growing pains, but these transitions are critical for any employer to stay
 
-gap is even greater for Black and Hispanic women.
+competitive. After all, our research shows that to avoid attrition, and
 
-In addition, every organization faces its own unique challenges. While
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-our analyses highlight big-picture trends, they represent correlations,
+6
 
-not necessarily causal eﬀects, and they may not hold for all employers.
-
-It’s up to individual organizations to analyze their own data to test
-
-whether they see similar patterns and to identify any eﬀects that may be
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

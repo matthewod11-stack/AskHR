@@ -1,29 +1,15 @@
-# to judgment and reaction.
+---
+source_path: H07JCK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c218ca7243287eb99a8920f9a35e8833c9d970ff
+title: H07JCK-PDF-ENG
+---
+# HBR / Digital Article / 6 Questions to Ask Yourself When You’re Frustrated with Your T…
 
-This is exactly the opposite of what your employees need. In healthy
+people managers reported feeling burned out “very often or always,” as
 
-workplace cultures, leaders know how to balance accountability for
+compared to 27% of individual contributors and 22% of leaders.
 
-results with empathy. One way to do this is to aim for reﬂection instead of reaction. If you’re playing the long game, how you achieve goals is going to get you further than what you achieve short-term.
+When it’s a constant mental strain to get the work done, managers may
 
-Employees who feel they can learn and grow are more engaged.
-
-Receiving developmental feedback is also critical to development.
-
-Our call to action is for leaders to take a pause and reﬂect before the
-
-pressure of high demands leads to lashing out. When frustration and
-
-judgment hovers, cultivate curiosity and ask yourself the following six
-
-questions. They will serve as your north star checklist to make sure
-
-you’re centering empathy in your attempts to encourage performance.
-
-- 1. Have I been clear about expected work outcomes?
-
-Leaders often underestimate the need to communicate. Reﬂect on how
-
-eﬀectively you’ve shared your expectations when it comes to roles,
-
-deliverables, support, and results. Identifying what success looks like
+have a short fuse. When expectations aren’t met, the brain short-circuits

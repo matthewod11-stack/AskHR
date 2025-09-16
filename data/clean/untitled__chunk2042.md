@@ -1,3 +1,13 @@
-# THE RISE OF PSYCHOLOGICALTESTING
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3c7199e8975fb5245e085581d65ebf7f59df190c
+title: untitled
+---
+# The Rise of Psychological Testing 359
 
-The First World War saw much less interest in the choice of a meaningful career and much more interest in the selection of able soldiers. The role and inﬂuence of psychologists ex- panded greatly during this period as the new tools of the trade were offered to the testing and classiﬁcation of recruits.
+to everyday life. Psychologists such as Lightner Witmer, E. Wallace Wallin, G. Stanley Hall, Augusta Bronner, William Healy, Maude Merrill, Lewis Terman, and Helen Woolley in- vestigated various aspects of the childhood experience, each contributing in his or her own way to the child-saving move- ment and helping to create a body of knowledge that helped to shape social-science policy in the early decades of the twentieth century (Baker, 2001).
+
+While psychologists were busy with the study of individ- ual difference in mental abilities, educators continued to de- velop a national program of vocational guidance. Although Frank Parsons was well regarded for developing a system of vocational guidance, his was an individual method. In public education, greater numbers of students could and would be reached through the provision of group guidance. In 1907, Jesse B. Davis became principal of Grand Rapids High School in Michigan. Davis attempted to expose students to vocational planning through English composition. He rea- soned that having high school students explore their voca- tional interests, ambitions, and character would empower them to make informed choices about their place in the ﬂux of the new social order (J. B. Davis, 1914). Soon his ideas about vocational and moral development would be translated into a complete program of guidance (Brewer, 1942).
+
+Between 1890 and 1920, vocational guidance would come of age in American culture and establish itself as a permanent ﬁxture of the twentieth-century landscape. Individual efforts of people like Parsons and Davis were eclipsed by the forma- tion of national organizations concerned with vocational guidance. In 1906, the National Society for the Promotion of Industrial Education (NSPIE) was formed largely through the efforts of progressive labor leaders and settlement home ad- vocates, many with ties to the Civic Service House and its Vocational Bureau. The NSPIE provided an organized means of lobbying the federal government for changes in public schooling that would accommodate industrial education and vocational guidance (Stephens, 1970). In 1913, the National Vocational Guidance Association was founded and provided a clear identity for those associated with vocational guidance. With powerful political support and an impressive set of ad- vocates, vocational guidance found its way into most educa- tional systems in America by 1920.

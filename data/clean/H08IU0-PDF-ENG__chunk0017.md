@@ -1,5 +1,15 @@
-## the eﬀorts, and sometimes directly at the center of them, privately
+---
+source_path: H08IU0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5fc2404cb5b13e9bc04a6daefa07ba697a98ab7
+title: H08IU0-PDF-ENG
+---
+## honest acknowledgement of your own limitations.
 
-harboring pessimism about the odds of success. Many of them talk
+Surface people’s honest feelings about the change, including your own
 
-privately about the absurdity of the eﬀorts despite publicly showing
+After more than three decades of consulting for organizations on
+
+strategic change, I’ve seen my fair share of ill-conceived change eﬀorts.
+
+And in my experience, there are always people at the periphery of

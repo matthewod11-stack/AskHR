@@ -1,17 +1,29 @@
-## HBR / Digital Article / How to Sync Your Budget with a Strategic Plan
+---
+source_path: H08V5N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72c7b128a387431920e4eb17e9816df50c564d56
+title: H08V5N-PDF-ENG
+---
+# the ﬁnancial consequence.
 
-down from the clouds and ties it directly to your organization’s ﬁnancial
+. . .
 
-engine. Strategy changes from being “pie in the sky” and becomes a
+For too long, strategic planning has lived in one universe and budgeting
 
-living, breathing process that guides real-world choices.
+in another. The result is a gap which is often ﬁlled by guesswork,
 
-This article was originally published online on August 18, 2025.
+intuition, or after-the-fact reconciliation. It’s time for a reframe. By
 
-Graham Kenny is the CEO of Strategic Factors and author of Strategy Discovery. He is a recognized expert in strategy and performance measurement who helps managers, executives, and boards create successful organizations in the private, public, and not-for-proﬁt sectors. He has been a professor of management in universities in the U.S. and Canada.
+structuring both your strategic plan and your budget around the same
+
+set of key stakeholder categories, you create a powerful feedback
+
+loop. Strategy becomes actionable, budgets become meaningful. And
+
+executives stop talking past each other. This approach brings strategy
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

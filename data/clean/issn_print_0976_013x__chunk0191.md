@@ -1,7 +1,17 @@
-## Quarterly Journal of Economics and Economic Policy, 15(3), 511-536.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: df6a228a5572fb5425428e32699389130976c940
+title: issn_print_0976_013x
+---
+# and
 
-European Commission. (2015). Closing the loop – an EU action plan for the circular economy.
+recycling, 168,
 
-(COM 2015) 614 final.
+105300.
 
-24
+https://doi.org/10.1016/j.resconrec.2020.105300
+
+Dankiewicz, R., Ostrowska-Dankiewicz, A., & Bulut, C. (2020). The attitudes of entrepreneurs of
+
+the small and medium-sized enterprises sector in Poland to key business risks. Equilibrium:

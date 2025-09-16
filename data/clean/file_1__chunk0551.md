@@ -1,11 +1,11 @@
-# t t n n e e m m
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 08b0ed668fac31a86c5c0915cc46094c36bd1b56
+title: file_1
+---
+# 127
 
-t t i i
+Figure 1 The Effect of Pay Inequity on Organizational Commitment for Men and Women
 
-3,5 3,5
-
-m m m m o o c c l l a a n n o o i i t t a a z z i i n n a a g g r r O O
-
-3 3
-
-2,5 2,5
+4 4

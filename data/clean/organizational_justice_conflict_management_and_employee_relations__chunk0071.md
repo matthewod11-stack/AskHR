@@ -1,1 +1,17 @@
-# Model
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: 1b45adb0d45d77f64c7fe1268f65afcfadbea5f1
+title: organizational_justice_conflict_management_and_employee_relations
+---
+## Table III. Model fit indices of the measurement model
+
+confirmed that the model could be tested for mediation as the variables: organizational justice, conflict management, climate of trust and ER are positively and significantly correlated with each other.
+
+4.2 Common method variance The study employed the most frequently used Harman single-factor test to solve the problem of common method variance, developed by Podsakoff et al. (2003). Exploratory factor analysis was used in this technique, where all the items were loaded onto a single factor by explaining only 47.53 percent variance and reduced the common method bias. Thus, the outcomes of this procedure enhanced the confidence in deducing the results of the study.
+
+4.3 Measurement model The statistical package AMOS (version 20) was used to perform a confirmatory factor analysis with the four latent constructs (OJ, CM, CT and ER) to determine the fitness of the model. The literature highlights that the maximum likelihood assessment was used to assess the fit indices as outlined in Table III. It was recommended that the values of the indices (χ2/df o 3, GFI and CFI W 0.90 and RMSEA o 0.08) are within the threshold (Hair et al., 2010) and established a satisfactory fit between the hypothetical model and sample data.
+
+4.4 Construct validity The validity of the constructs was tested using convergent and discriminant validity and the values are depicted in Table IV. The convergent validity includes the factor loadings, average variance extracted (AVE) and composite reliability (CR) values for all latent constructs that were in an acceptable region (AVEW0.50; CRW0.70), providing confirmation of convergent validity. The discriminant validity defines the degree of difference between a specific construct with other constructs. The square root of AVE of the constructs is greater than the shared variance between the constructs (Gefen and Straub, 2005), thus indicating each construct is distinct from others and confirming the discriminant validity.
+
+- 5. Hypotheses testing 5.1 Mediation Mediation analysis was executed to find out the mediating effect of climate of trust in establishing the association between organizational justice and ER, and conflict management and ER. The SEM procedure for testing mediation is similar to Baron and Kenny’s (1986) four-step mediation analysis. The mediation effect was tested using the approaches of Baron and Kenny (1986) and Preacher and Hayes (2004). The study adopted the Sobel test to estimate the significance of mediation effects among variables and to create the most reliable results as illustrated in Table V. The mediation effect of climate of trust is depicted in Figure 2 in two distinct models. These two models clearly demonstrate the individual mediating effect of climate of trust in

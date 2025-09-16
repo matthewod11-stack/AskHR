@@ -1,35 +1,27 @@
-## HBR / Digital Article / To Become a Better Presenter, Look Inward
+---
+source_path: H08H8C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bafad9a84e4d21005866426c6b7489f4130403ac
+title: H08H8C-PDF-ENG
+---
+# Audshule/Stocksy
 
-The most eﬀective presenters and communicators have a strong sense
+For 20 years, I’ve worked as a coach, helping leaders and teams
 
-of their identities and a level of self-awareness acquired through
+improve their presentation skills. One of the most frequent comments
 
-reﬂecting on their beliefs, attitudes, and behavioral patterns. It’s
+I’ve gotten is, “Wow, this kind of feels like therapy!” This may sound
 
-much easier to change and improve how we communicate when we
+surprising to some, but my guidance typically delves deeper than the
 
-understand why we speak and behave the way we do.
+popular advice, like make eye contact, use body language, or share your
 
-Our individual communication styles are determined by a variety of
+agenda beforehand. While my approach is by no means therapy, I do
 
-factors: the settings we are in, the person (or people) with whom we
+push people to improve by engaging in some inner work.
 
-are speaking, as well as our cultural upbringings and how they manifest
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-in diﬀerent contexts. For example, how we communicate may change
+1
 
-depending on the authority level of our listeners and how we believe
-
-those listeners perceive us. It may also change depending on the stories
-
-we tell ourselves in certain settings, and whether we feel like an expert
-
-or a novice among our peers. Becoming aware of our communication
-
-styles, and how they change due to context, can help us intentionally
-
-control the way we show up — as opposed to reactively retreating or
-
-becoming overbearing.
-
-To teach yourself how to present clearly and with conﬁdence, try doing
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

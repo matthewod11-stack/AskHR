@@ -1,9 +1,31 @@
-## compensation? (More on ﬁnancial considerations below.)
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 855b2690163dbda9d0068fe7fd9d1f6fd8cfed87
+title: H08N2T-PDF-ENG
+---
+## Self-Assessment: What Do You Value Most at Work?
 
-These questions should help you assess your foundational needs,
+To help you assess and reﬂect on what really motivates you in your
 
-such as ﬁnancial security or the ability to manage your personal life
+career, consider this series of science-based questions that can help you
 
-alongside your career. Being clear about your priorities, especially the
+determine whether a new job or career path might be a good ﬁt:
 
-one or two non-negotiables, is a great starting point to guide you in your
+- 1. What are my non-negotiables, personal values, and top priorities?
+
+How important are factors like job stability, ﬂexibility, or work-life
+
+balance to me? Do I care about working form anywhere or working from home? Would I be happy with a job that requires me to go to the oﬃce
+
+almost every day? Do I want a certain lifestyle, which would beneﬁt
+
+from a low-stress environment, or a wellness culture that encourages
+
+time oﬀ? How important is it for me to align my personal values with
+
+the company’s mission, mandate, or values? Do I want to start a family,
+
+which would require good insurance and good family leave policies?
+
+Do I want to retire early, which would require a certain salary and

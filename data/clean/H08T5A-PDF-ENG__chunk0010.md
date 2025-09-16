@@ -1,7 +1,9 @@
-## and performance evaluation systems) that challenge professionals to
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3090d577d9baf279921f3660dd0cb027b22f4486
+title: H08T5A-PDF-ENG
+---
+# sense of urgency.
 
-continually meet escalating performance targets year after year.
-
-- Cultural expectations—reinforced by managers and peers—that
-
-frame overwork as virtuous and normal, making boundary-setting feel
+- Career advancement systems (e.g., up-or-out promotion models

@@ -1,5 +1,9 @@
-# Personnel Review, 38 (1), 26-44.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: f35fd51559300156a18f2811f1745d60e59382b0
+title: file_1
+---
+## Effectiveness. PhD thesis. Espoo: University of Technology.
 
-Salmi, M. and J. Lammi-Taskula, 1999. Parental leave in Finland. In P. Moss and F. Deven, eds, Parental Leave. The Hague, Brussels: NIKI/ CBGS Publications, 85-122. ‘
-
-Salonius, J, 2011. Samapalkkaisuusohjelman kokonaisarviointi 2007(cid:2)2010.
+Salin, D., 2009. Organizational responses to workplace harassment: an exploratory study.

@@ -1,15 +1,17 @@
-# obsolescence.
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0733c035340a4123ded00919fde4024bdd340bb2
+title: R2504P-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: Do We Reskill or Replace Our Workforce?
 
-SolidTech is on the right track in calling this a “Grand Bargain,” but
+The Experts Respond: Should Alex push forward with a reskilling program?
 
-management needs to do far more in terms of employee outreach.
+Paddy Hull is the global head of talent, culture and leadership at Heineken.
 
-It’s a good start to have identiﬁed roles that need reskilling. Now, get
+The question isn’t whether SolidTech should
 
-speciﬁc. Don’t just announce a program; outline exactly what it means
+reskill but how. Competitors aren’t waiting; they
 
-for each role. In my experiences at Unilever, where I oversaw a reskilling
-
-program, and now at Heineken, I’ve learned that the “ﬁght, ﬂight, or
-
-freeze” response is real. People are threatened when they hear the word
+are adapting. The choice is to evolve or face

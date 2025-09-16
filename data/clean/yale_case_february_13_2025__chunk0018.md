@@ -1,13 +1,11 @@
-# 06 Terminations in a remote world
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: fc42e31a7d9c4101db50fe596d5b66cac8387385
+title: yale_case_february_13_2025
+---
+# 05 After the meeting
 
-With remote work becoming more common, terminating an employee virtually requires additional considerations beyond traditional in-person firings. While all standard principles of respectful and professional terminations still apply, the lack of face-to-face interaction necessitates careful planning.
+Once the termination meeting concludes, the focus shifts to ensuring a smooth and respectful transition for the departing employee. Escort the individual to collect their personal items, maintaining privacy and professionalism throughout the process. This step is essential both for security and to preserve the employee’s dignity during a difficult moment.
 
-To convey empathy and maintain a personal connection, use a secure video conferencing platform rather than a phone call or email. Test all technical aspects beforehand to avoid disruptions. Prepare by outlining key points to cover, such as reasons for termination, next steps, and available support. Coordinate with HR and IT to schedule the meeting thoughtfully, considering time zones and ensuring the employee’s system access can be revoked promptly afterward. Have the necessary documentation ready to send securely following the meeting.
-
-Ensure both parties are in private settings to maintain confidentiality. However, be prepared for the possibility that the employee may record the meeting without requesting permission, as it’s easier to do so remotely. This awareness underscores the importance of communicating clearly and respectfully throughout the process. Employers should assume virtual meetings could be recorded and conduct themselves accordingly—look no further than the viral Cloudflare employee who recorded her termination meeting.32
-
-Risks to contemplate – personal safety, operations, and culture
-
-Employee terminations can sometimes provoke intense emotional reactions and, in rare cases, escalate to physical confrontations. Preparing for this possibility is crucial. Ensure the meeting takes place in a private but secure setting, with a second person present to observe and document (we know we have suggested having a second person in the room previously, but its importance cannot be overstated). Having a plan in place to handle any escalation, such as involving HR or security personnel if necessary, adds a layer of precaution that protects all parties involved.33
-
-The consequences of improper offboarding can also have organization-wide effects. The Maroochy Shire sewage spill of 2000 provides a cautionary tale. After being terminated, ex-contractor Vitek Boden exploited his retained access to the sewage control system, using stolen equipment to release 800,000 liters of raw
+Processing final wages promptly is another critical responsibility. Adhering to the company’s payroll policies and legal requirements not only demonstrates fairness but also reduces the risk of disputes. Whenever possible, provide outbound support or resources to help the employee transition to their next role. This could include resume assistance, job placement services, or access to professional networks. Taking these actions reinforces a sense of care and compassion, even in challenging circumstances, and reflects the organization’s commitment to treating employees with integrity.

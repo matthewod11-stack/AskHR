@@ -1,13 +1,25 @@
-# the company’s product lines.
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b8a8d33f0c036b7ea0b2037ef3a3fbfaa1b27ff
+title: H08UMD-PDF-ENG
+---
+## and UK retailers after their supplier—a large German toy company—
 
-Not all retailers disengaged to the same degree, however. The
+launched online shops in France and the United Kingdom. (The Spanish
 
-researchers determined that large retailers reduced their orders
+retailers were analyzed as a control group.) The researchers found that
 
-substantially less than small retailers did. A survey of 138 of the original
+in the following months, the UK and French retailers reduced their
 
-2,625 retailers revealed that when retailers are large and powerful,
+orders by 19%, on average, and paid 21% higher wholesale prices. This
 
-they’re less likely to perceive the launch of a supplier’s online shop as
+suggests that they were no longer invested in their relationship with the
 
-a competitive threat and retaliate only minimally compared with small
+supplier—that they’d stopped negotiating for better prices and stocking
+
+a wide range of items. The UK and French retailers also pivoted toward
+
+the supplier’s more popular items—indicating that they continued to
+
+stock what they knew would sell but no longer took risks on the rest of

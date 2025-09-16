@@ -1,9 +1,7 @@
-# SA 0
-
-0
-
-0
-
-A 3 (0.8%) 5 (1.3%) 6 (1.5%)
-
-D 397 (99.3%) 54 (13.5%) 222 (55.5%)
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: aba371112e0b05585ef5675f0c53e8b083ab19e9
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# the

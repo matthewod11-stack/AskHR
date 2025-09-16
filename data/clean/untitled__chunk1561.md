@@ -1,5 +1,9 @@
-# University.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 09feaac1008ad2145c25258e0e91d7d730c0cb98
+title: untitled
+---
+# Bass.
 
-Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Stud- ies, 14, 575–599.
-
-Harding, S. (1986). The science question in feminism. Ithaca, NY:
+Haaken, J. (1998). Pillar of salt. New Brunswick, NJ: Rutgers

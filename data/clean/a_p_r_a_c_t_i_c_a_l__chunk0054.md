@@ -1,21 +1,15 @@
-# Orchestration
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 5f601fc94c795ad71f9ded0babd4eda825776c1b
+title: a_p_r_a_c_t_i_c_a_l
+---
+# Unset
 
-With the foundational components in place, you can consider orchestration patterns to enable) your agent to execute work(cid:25)ows e(cid:16)ectively(cid:14)
+1
 
-While it’s tempting to immediately build a fully autonomous agent with complex architecture, customers typically achieve greater success with an incremental approach.(
+“You are an expert in writing instructions for an LLM agent. Convert the following help center document into a clear set of instructions, written in a numbered list. The document will be a policy followed by an LLM. Ensure that there is no ambiguity, and that the instructions are written as directions for an agent. The help center document to convert is the following {{help_center_doc}}”.
 
-In general, orchestration patterns fall into two categories:
-
-01
-
-Single-agent systems, where a single model equipped with appropriate tools and instructions executes work0ows in a loop
-
-02
-
-Multi-agent systems, where work0ow execution is distributed across multiple coordinated agents
-
-Let’s explore each pattern in detail.
-
-13
+12
 
 A practical guide to building agents

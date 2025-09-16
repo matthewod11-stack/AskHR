@@ -1,13 +1,9 @@
-# and sustainably throughout your career.
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65475f9a5c256ec54062f4c9b55781b6a8ddb754
+title: H07YIA-PDF-ENG
+---
+## creation of team-based mentorship programs in our ﬁelds. These ﬁve
 
-- 1. Divide your mentees into teams.
-
-When mentoring numerous individuals at once, it is easy to feel
-
-compelled to take complete responsibility for each mentee. However,
-
-the cumulative burden can become overwhelming. This challenge can
-
-be overcome by organizing mentees into subgroups consisting of three
-
-to four mentees with varying degrees of experience and led by the
+strategies will help you actively manage mentorships more eﬃciently

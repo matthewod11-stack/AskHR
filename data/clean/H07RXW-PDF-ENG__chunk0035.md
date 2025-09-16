@@ -1,13 +1,19 @@
-# Wozniak a greenlight?
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9a99ddf09bea1ea1cd63581e529df1e844cc37e
+title: H07RXW-PDF-ENG
+---
+# attempts at innovation.
 
-Embedding an intrapreneurial culture doesn’t always have to mean
+You only have to look at examples from corporate history to see how
 
-the constant pursuit of new product ideas. MacMillan Learning, for
+much potential has been missed by companies who have failed to
 
-example, recently held an innovation competition, where they invited
+give their employees the freedom to explore new opportunities. As an
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+employee at HP, Steve Wozniak, for example, proposed the design that
 
-6
+would become the ﬁrst Apple computer and was turned down all ﬁve
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+times. How much more valuable would HP be today if it had given

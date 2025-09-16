@@ -1,15 +1,39 @@
-# moves the needle.
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11cc3ff5e2ffc22525d0d699b668c245222cf2bb
+title: H08VTH-PDF-ENG
+---
+# forward.
 
-Not every system change needs a transformation roadmap. Start
+Your job isn’t to control the chaos but to eliminate what slows the work
 
-with the systems closest to you, considering how priorities are
+down. That means questioning legacy systems, removing unnecessary
 
-communicated, how decisions are made, and how progress is tracked.
+steps, and aligning processes to what matters now. Ask yourself and
 
-Ask your team what’s getting in their way and then remove it.
+your team what’s creating unnecessary drag. Is it clunky handoﬀs?
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Endless status reporting? Meetings that feel like time sinks? These
 
-5
+aren’t small irritants; they’re system-wide energy leaks. One study
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+found that bad meetings alone cost large companies as much as $100
+
+million a year, with respondents reporting that they could’ve skipped
+
+30% of the meetings they attended in a week.
+
+Dave, one ﬁntech executive we coached, realized that critical updates
+
+were being shared across multiple platforms, including email, Teams,
+
+and team-speciﬁc update decks. Information was often repeated,
+
+missed, or misunderstood. He launched a two-week “process audit
+
+sprint,” empowered his area leads to map what was working and what
+
+wasn’t, and simpliﬁed the team’s internal communication ﬂow. The
+
+payoﬀ? Less noise, faster alignment, and more time spent on work that

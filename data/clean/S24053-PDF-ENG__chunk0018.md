@@ -1,7 +1,19 @@
-## as a collective behavioral unit rather than a loose aﬃliation of
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37bddc6eee58a41a7c833eab3e9d9bc68b356149
+title: S24053-PDF-ENG
+---
+## HBR / Spotlight Article / Teamwork at the Top
 
-individual leaders. That’s what the team at Root Capital did: The leaders acknowledged that the hard, deliberate, and sustained eﬀort that it
+—those dynamics. To their detriment, top teams tend to keep such
 
-takes to become a team is actually part and parcel of being a team.
+diﬃculties secret, fearful that acknowledging their struggles could
 
-In this article, we’ll discuss the key traits of eﬀective top teams that we
+shake the conﬁdence of their many stakeholders. Instead, they either
+
+grind along in silent mediocrity, or the CEO tries to root out the problem
+
+by replacing seemingly problematic team members.
+
+Both paths lead to dysfunction. Instead, organizations need to prioritize the development of strong and eﬀective leadership teams that function

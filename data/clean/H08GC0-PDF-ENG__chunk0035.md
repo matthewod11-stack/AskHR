@@ -1,7 +1,17 @@
-# workdays over the course of a year.
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c3ba1c4706e4ae74ec53ac944e724c9ee34e8de2
+title: H08GC0-PDF-ENG
+---
+# frequent.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Celebrate the time savings.
 
-8
+Get everyone to calculate how much time they saved by comparing the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+time they spent in meetings after doomsday with their initial meeting
+
+audit. For Asana, over the course of their one-month experiment,
+
+participants saved 11 hours per month on average and roughly 17

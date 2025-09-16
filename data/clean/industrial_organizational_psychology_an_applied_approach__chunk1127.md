@@ -1,3 +1,11 @@
-## Predicting Performance Using Applicant Ability
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ef1256a096e1a4916842401c482c7c61e7ef775c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Predicting Performance Using Applicant Knowledge
 
-Ability tests tap the extent to which an applicant can learn or perform a job-related skill. Ability tests are used primarily for occupations in which applicants are not expected to know how to perform the job at the time of hire. Instead, new employees will be taught the necessary job skills and knowledge. Examples of such occupations include police officers, firefighters, and military personnel. For example, cognitive ability would enable a police cadet to obtain knowledge of search-and-seizure laws; psychomotor ability (dexterity) would enable a secretary to type fast or an assembler to rapidly assemble electronic components; perceptual ability would enable a mail clerk to distinguish zip codes or a textile worker to distinguish colors; and physical ability would enable a firefighter to learn how to climb a ladder or carry a victim from a burning building.
+Used primarily in the public sector, especially for promotions, job knowledge tests are designed to measure how much a person knows about a job. For exam- ple, applicants for a bartender position might be asked how to make a martini or a White Russian, and applicants for an HR position might be asked how to conduct a job analysis. These tests are similar to the exams given several times a semester in a college class. They are typically given in multiple-choice fashion for ease of scoring, but they also can be written in essay format or given orally in a job interview. Common examples of job knowledge tests include tests of computer programming knowledge, knowledge of electronics, and knowledge of mechanical principles. Standardized job knowledge tests are commonly used by state licensing boards for such occupations as lawyers and psychologists.
+
+Job knowledge tests have excellent content and criterion validity (Schmidt & Hunter, ), and because of their high face validity, they are positively accepted by applicants (Robertson & Kandola, ). Even though job knowledge tests do a good job of predicting performance, they often result in adverse impact and can be used only for jobs in which applicants are expected to have job knowledge at the time of hire or promotion.

@@ -1,45 +1,25 @@
-# leverage it:
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80dd4925f3ae943dfc9bdcede06d979c20953a94
+title: H08P90-PDF-ENG
+---
+# HBR / Digital Article / To Drive Innovation, Create the Conditions for Serendipity
 
-- 1. Encourage openness to surprises.
+scientists found a treatment for erectile dysfunction while developing
 
-A hallmark of scientists is their openness to surprises. In the
+a blood pressure drug. But unlike scientists, business leaders and
 
-femtosecond laser story, Kurtz was immediately intrigued by the
+managers are often reluctant to embrace serendipity. To some extent,
 
-unusual burns he saw on Du’s retina. He was also curious to understand
+this is understandable. Serendipity is unpredictable and companies
 
-where they came from.
+cannot entirely depend on it to innovate. Companies are also very
 
-Some managers have a similar ability to make sense of the unexpected.
+diﬀerent from universities. Their raison d’être is not to advance science,
 
-In the early 1970s, Bernard Sadow was returning from a holiday in the
+but to be proﬁtable and grow. Nonetheless, we believe that more
 
-Caribbean. While waiting in the airport’s customs transfer area, he saw
+businesses could beneﬁt from more doses of serendipity. Here are three
 
-an employee pushing a heavy machine on a wheeled skid. He looked at
-
-his heavy suitcases and thought: “Now that’s what we need: wheels on
-
-luggage.” And just like that, the rolling suitcase was born.
-
-In the business world, managers overlook surprises because they are too
-
-focused on day-to-day operations. When Sadow came up with the idea
-
-for the rolling suitcase, he was working at a luggage company. Had he
-
-been on a business trip rather than on holiday, he would have likely
-
-been too busy to notice the airport employee maneuvering the heavy
-
-machine and to make the connection that inspired the rolling suitcase.
-
-To foster openness to surprises, business leaders should regularly invite
-
-their team members to share the unexpected observations they’ve
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+science-inspired strategies that business leaders can use to better

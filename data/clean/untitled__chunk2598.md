@@ -1,9 +1,9 @@
-# Teaching
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2585d8989d5640707047e47f5a12d18c7f31472a
+title: untitled
+---
+## Courses: Catalog Studies and Surveys of the Undergraduate Curriculum
 
-school responses to a questionnaire; Calkins (1910) from 47 “colleges supposed to have no laboratory” (p. 41); and E. C. Sanford (1910) from 32 colleges and universities with labo- ratories. Seashore (1910), the committee chair, composed a summary report and recommendations for the elementary course in psychology based on his three colleagues’ separate studies. Henry (1938) examined 157 liberal arts college cata- logs for their “plan of instruction” (p. 430). F. H. Sanford and Fleishman (1950) examined 330 catalogs selected according to eight institutional types; Daniel, Dunham, and Morris (1965) replicated this study using 207 catalogs but limiting their selection to four institutional types (universities, liberal arts colleges, teachers colleges, and junior colleges). Lux and Daniel (1978) examined catalogs from 56 universities, 53 lib- eral arts colleges, and 69 two-year colleges. The APA spon- sored surveys by Kulik (1973), Scheirer and Rogers (1985), and Cooney and Grifﬁth (1994). Messer, Griggs, and Jackson (1999) reported their analysis of 292 catalogs for the pre- valence and requirements of focused specialty-area options versus general psychology degrees. In the same issue of the journal Teaching of Psychology, Perlman and McCann (1999a) examined 400 catalogs from four institutional types for the most frequently listed courses.
-
-Werecommendallofthesestudiesforstudentsandscholars of both history and program development. As Ash (1983) noted, our self-representation is revealed in the courses we choose to teach. How did we move from the single, elementary course so characteristic in 1890 catalogs to baccalaureate programs in which the “mean number of psy- chology credits required for a major is 33.5 (SD (cid:2) 7.8, Mdn (cid:2) 33,mode(cid:2)30,range(cid:2)7to81)”(Perlman&McCann, 1999b,pp.172–173)?Let’sbeginatthe“beginning.”
-
-Using Jastrow (1890), the 1910 studies, and Ruckmich (1912) as starting points, McGovern (1992b) examined cata- logsfrom20selectedinstitutionsfortheyears1890and1900. He found that psychology took one of three forms in 1890. First, at Amherst, Georgia, and Grinnell, psychology was listed as a topic or primary focus in a philosophy course. Sec- ond,asinglecourseinpsychologywasoneofseveralphiloso- phy courses listed in the catalogs for the City College of New York, Cincinnati, Columbia, Minnesota, New York Univer- sity, and Ohio State University. This single course was taught eitherasarequirementorelectiveforjuniorsorseniors.Third, the ﬁrst course in “elementary psychology” was followed by some other course or courses. At Indiana, Michigan, George Washington, and Yale, the course was in “physiological psy- chology.” At Nebraska and Pennsylvania, the second course wastitled“experimentalpsychology”andhadarequiredlabo- ratoryexperience.Additionalcourseswereofferedas“special problems” at Brown, “advanced psychology” at Pennsylvania and Yale, or selections based on faculty members’ special
-
-467
+Psychologists have been conscientious in mapping the land- scape of their discipline’s undergraduate courses over the past 100 years. In an APA committee report, Whipple (1910) described the teaching of psychology from 100 normal

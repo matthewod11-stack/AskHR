@@ -1,17 +1,23 @@
-# long-term growth.
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b018d2187be7b6d669de3758788025a66e56efd6
+title: S24022-PDF-ENG
+---
+# the lower three quartiles.
 
-This approach is fundamentally diﬀerent from the way companies
+Next, we sought to understand what allowed the growth champions to
 
-tend to manage growth. Most are stuck on a treadmill, searching for
+show such steady upward trajectories in revenue. Was it their business
 
-growth in places where they have no fundamental advantage (or, worse,
+models? Were they simply faster at putting diﬀerentiated solutions in
 
-are disadvantaged). So even when they manage to increase revenues
+customers’ hands? Did acquisitions play a role in propelling consistent
 
-the cost is often prohibitive. At the extreme, companies become
+growth? Those factors mattered, of course, but our study conﬁrmed
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+what we have observed in our work for many years: The highest-
 
-2
+performing organizations invested in a growth system, an integrated
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+collection of capabilities and assets that drove both short-term and

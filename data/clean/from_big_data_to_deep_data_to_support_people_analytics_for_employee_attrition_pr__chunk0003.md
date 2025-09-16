@@ -1,17 +1,11 @@
-# INDEX TERMS Deep people analytics, employee attrition, retention, prediction, interpretation, policies recommendation.
+---
+source_path: from_big_data_to_deep_data_to_support_people_analytics_for_employee_attrition_pr.md
+pages: n/a-n/a
+chunk_id: 5e111626df73337c2038ff395dfff6a6e22d49e3
+title: from_big_data_to_deep_data_to_support_people_analytics_for_employee_attrition_pr
+---
+## Corresponding author: Ricardo Colomo-Palacios (ricardo.colomo-palacios@hiof.no)
 
-I. INTRODUCTION Employee attrition or voluntary turnover presents a key issue for organizations as it affects not only their productivity and work sustainability but also their long term growth strate- gies[1].Onthispath,employeeretentionisamajorchallenge for recruiters and employers alike, since employee attrition means not only the loss of skills, experiences and personnel butalsothelossofbusinessopportunities[2].IntheeraofBig Data, people analytics help organizations and their human resources (HR) managers to reduce attrition by changing the way of attracting and retaining talent [3]. In this context, HR analytics is considered as a ‘must have’ capability for the HR management and profession and ‘‘a tool for creating
+This work was supported in part by the ERASMUS + KA2 Projects ‘‘Information Technology Governance for Tunisian Universities’’ under Grant 561614-EPP-1-2015-1-ES-EPPKA2-CBHE-JP.
 
-The associate editor coordinating the review of this manuscript and
-
-value from people and a pathway to broadening the strate- gic inﬂuence of the HR function’’ [4]. So, it represents the quantiﬁcation and the systematic identiﬁcation of the people drivers of the business outcomes with the purpose of mak- ing better decisions. There are interchangeable terms used for HR analytics that are talent analytics, people analytics, and workforce analytics [5]. Thanks to people analytics, HR managers gain the ability to understand their departments and their employees, by providing more accessible and inter- pretable data about employee attributes, performance and behaviours [6]. Thus, HR analytics plays a signiﬁcant role in every aspect of the HR function in organizations including recruiting, training and development, retention, engagement and compensation. In the context of HR Analytics, employee attrition analysis has caught more and more attention in the businessworld.Infact,howtouseanalyticmethodstopredict
-
-approving it for publication was Weiping Ding
-
-.
-
-VOLUME 9, 2021
-
-This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
-
-60447
+ABSTRACT In the era of data science and big data analytics, people analytics help organizations and their human resources (HR) managers to reduce attrition by changing the way of attracting and retaining talent. In this context, employee attrition presents a critical problem and a big risk for organizations as it affects not only their productivity but also their planning continuity. In this context, the salient contributions of this research are as follows. Firstly, we propose a people analytics approach to predict employee attrition that shifts from a big data to a deep data context by focusing on data quality instead of its quantity. In fact, this deep data-driven approach is based on a mixed method to construct a relevant employee attrition model in order to identify key employee features inﬂuencing his/her attrition. In this method, we started thinking ‘big’ by collecting most of the common features from the literature (an exploratory research) then we tried thinking ‘deep’ by ﬁltering and selecting the most important features using survey and feature selection algorithms (a quantitative method). Secondly, this attrition prediction approach is based on machine, deep and ensemble learning models and is experimented on a large-sized and a medium-sized simulated human resources datasets and then a real small-sized dataset from a total of 450 responses. Our approach achieves higher accuracy (0.96, 0.98 and 0.99 respectively) for the three datasets when compared previous solutions. Finally, while rewards and payments are generally considered as the most important keys to retention, our ﬁndings indicate that ‘business travel’, which is less common in the literature, is the leading motivator for employees and must be considered within HR policies to retention.

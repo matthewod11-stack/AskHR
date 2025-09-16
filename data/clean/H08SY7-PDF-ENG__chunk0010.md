@@ -1,21 +1,19 @@
-# emotionally coded experience.
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9fc2558004e0a7d2bff31c5064c2c20b6053dac0
+title: H08SY7-PDF-ENG
+---
+## HBR / Digital Article / How CEOs Hone and Harness Their Intuition
 
-Here’s where it gets interesting: By the time they experienced a gut
+Gut Feel Isn’t Just Emotion. It’s Experience Plus Data.
 
-feeling, the data had been so thoroughly integrated with their memory
+During my dissertation research, I studied early-stage investors and
 
-and emotion that it no longer felt like external information—it felt
+how they made high-stakes decisions in contexts where traditional
 
-personal. Internal. Like drinking sweetened iced tea: You know sugar
+analysis fell short. I found that when investors said they “had a gut
 
-was once added, but now it’s fully dissolved. You don’t taste separate
+feeling,” it wasn’t an impulsive hunch. It was the ﬁnal step in a quiet,
 
-ingredients; you experience the whole.
-
-This is why trying to fully explain a gut feeling often backﬁres. Investors
-
-who attempted to justify their decisions using only logic and facts often
-
-ended up talking themselves out of the right call. Because intuition isn’t
-
-just what you think. It’s what you know, sometimes beneath conscious
+layered intuiting process that integrated analytical information with

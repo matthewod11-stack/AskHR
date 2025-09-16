@@ -1,19 +1,13 @@
-# actions within the teamwork.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c4369333d338ad42e38bb81b49b6a880700fea52
+title: H08GNF-PDF-ENG
+---
+## accomplishments or a challenging problem.
 
-- Focus on me, me, me: It’s not about how great you are. Instead, talk
+- Use “we” in every story: Interviewers want to know what you did. A
 
-about how your work brought value to the company.
+better approach would be to brieﬂy mention the team on the project,
 
-- Memorize scripts: Don’t read notes or reply in a way that sounds
-
-robotic or unnatural—this can be detrimental to your success.
-
-. . .
-
-Mastering the STAR framework is an ongoing learning process. By
-
-practicing and reﬁning your responses, you can become a more
-
-conﬁdent and eﬀective communicator, which will increase your
-
-chances of landing your next job opportunity.
+which shows you understand teamwork, and include your speciﬁc

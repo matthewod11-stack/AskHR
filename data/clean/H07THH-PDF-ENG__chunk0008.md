@@ -1,25 +1,25 @@
-## work: 45% of white-collar employees and 62% of blue-collar employees
+---
+source_path: H07THH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2adb7de32b0f0bb3d3bd61152f8ce9bf02b04e85
+title: H07THH-PDF-ENG
+---
+# HBR / Digital Article / Research: Flexible Work Is Having a Mixed Impact on Employee…
 
-want to be splitters, whereas 55% of white-collar employees and 28% of
+day. But Gallup asked a representative sample of the U.S. workforce: In
 
-blue-collar employees want to be blenders. Our survey of large-company
+your best life imaginable, which of the following work schedules would you prefer Monday through Friday, whether at home or in the oﬃce?
 
-CHROs found that HR leaders consistently underestimated the percent
+- 1. A job in which you work 9 AM to 5 PM and attend to other
 
-of workers who want to be splitters.
+life activities before or after work (Gallup calls these employees
 
-This matters quite a bit because when employees are not working in
+“splitters”)
 
-their preferred ways — meaning if they prefer to be a splitter, but their
+- 2. A job in which you alternate between work and other life activities
 
-work requires them to be a blender (or the other way around) — they are
+throughout the day (Gallup calls these employees “blenders”)
 
-less engaged, more likely to report burning out at work, and more likely
+The results were surprising: 50% of the U.S. workforce want to be
 
-to be watching for or actively seeking a new job.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+splitters and 50% want to be blenders. This varies somewhat by type of

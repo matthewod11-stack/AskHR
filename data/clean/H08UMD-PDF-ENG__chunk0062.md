@@ -1,7 +1,7 @@
-# Are Employees Hiding Gen AI Use?
-
-Sixty-eight percent of employers do not provide “full, unrestricted
-
-access” to gen AI-based tools for work. Still, 75% of employees claim
-
-to be using it, according to an Accenture survey of 3,450 C-suite leaders
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74958aafddd14c3a8df27822739cebf108c80341
+title: H08UMD-PDF-ENG
+---
+# AI and CEOs

@@ -1,21 +1,19 @@
-# and responsibility.
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef3ae9818b34551dfd0c4822ceaf6671b289d76b
+title: H085MC-PDF-ENG
+---
+# direction.
 
-When to use the democratic leadership style
+- 5. Democratic leadership style
 
-This style is ideal when you’re unsure about the best course of action
+The democratic leadership style involves empowering your team to have
 
-and want to generate ideas. But it’s not a good strategy when your team
+a voice in decision-making. By taking the time to gather input, listen to
 
-members lack experience or information, or in times of crisis.
+concerns and diverse perspectives, and incorporate feedback, you show
 
-- 6. Coaching leadership style
+your team members that their opinions matter, their voices are heard,
 
-The coaching style is focused on individual growth, and involves
-
-dedicating time to understand your team members’ long-term goals,
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and their contributions are valued. This gives them a sense of ownership

@@ -1,3 +1,11 @@
-# such as
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: bb5b70bb9b5e15d2c4b590e9491bc8653a8cf30e
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# B. Coomber, K. Louise Barriball / International Journal of Nursing Studies 44 (2007) 297–314
 
-The UK Government recognises the need to address low retention in health care, with initiatives designed to reverse the trend in turnover. Introduction of ﬂexible working practices are part of the Government’s commit- ment to improving the work–life balance of staff (DH, 1999). This may be particularly relevant for retention of younger nurses who were found to perceive stress from lack of control over work scheduling (Shader et al., 2001). An increase in stafﬁng levels via improved retention is also a means to address the cited stressor of workload (Yin and Yang, 2001). With an increase in demand for health care, the burden of high workload can only be ameloriated by increasing nurse numbers. The RCN (2002) maintains this point, and adds that recruitment efforts will produce little signiﬁcant im- provement in workload stress in the near future and should perhaps be seen as a medium to long-term measure. Government initiatives designed to meet needs of the majority is a starting point, but in view of the individual nature of stress may not provide the answer for all nurses (McVicar, 2003). In view of the fact that organisational change is a recognised source of stress (Kouzes and Posner, 2003) and that changes constantly occur in the health services in line with modernisation plans, this issue is unlikely to be solved imminently within the British NHS.
+environments are not generic makes achieving this complicated. In view of this, interventions that seek to support stress-management training, which enables individuals to utilise their most effective coping strategies, and increasing support from colleagues and senior staff have both been suggested as appropriate measures to counteract stress within the nursing profession (McVicar, 2003).
+
+the individual,

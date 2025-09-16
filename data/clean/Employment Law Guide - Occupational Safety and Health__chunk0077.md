@@ -1,15 +1,11 @@
-# illness prevention programs.
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: e1e60993d2838073c82ff644e3ea9006f7f5c5e7
+title: Employment Law Guide - Occupational Safety and Health
+---
+# occupational health advice to small and medium-sized businesses in all states across the country, with priority
 
-On-site OSHA consultation assistance includes an opening conference with the employer to explain the
+given to high-hazard worksites. On-Site Consultation services are separate from enforcement and do not result in penalties or citations. Consultants from state agencies or universities work with employers to identify
 
-ground rules for consultation, a walk through the workplace to identify speciﬁc hazards and to examine those aspects of the employer's safety and health program that relate to the scope of the visit, and a closing
-
-conference. Later, the consultant sends a report of ﬁndings and recommendations to the employer. This
-
-process begins with the employer's request for consultation, which must include a commitment to correct any
-
-serious safety and health hazards identiﬁed. The consultant will not report possible violations of OSHA
-
-standards to OSHA enforcement staﬀ unless the employer fails or refuses to eliminate or control worker exposure to any identiﬁed serious hazard or imminent danger. Should this occur, OSHA may investigate and
-
-begin enforcement action. The employer must also agree to allow the consultant to confer freely with
+workplace hazards, provide advice on compliance with OSHA standards, and assist in establishing injury and

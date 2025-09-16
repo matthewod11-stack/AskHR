@@ -1,27 +1,21 @@
-# Our Findings
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3426628df9cbba6f65e7a404c3b441e23dec01ad
+title: H081SB-PDF-ENG
+---
+## database, the Visier Community Data, of more than 4 million live
 
-Through our ﬁrst round of analyses, we determined that employees
+employee records from nearly 100 companies across the U.S., Canada,
 
-whose pay was increased soon after the addition of a higher-paid
+and Europe during the period of 2018 to 2023. We looked at the tenures
 
-coworker tended to stay in their jobs a lot longer, whereas those who
+and salaries of higher- and lower-performing employees, leveraging
 
-had to wait for a raise were more likely to quit.
+statistical methods to identify patterns and trends in the data. We were
 
-When pay was adjusted within a month of the new addition, existing
+particularly interested in how likely employees were to resign after the
 
-employees remained with their companies for an average of another two
+addition of a higher-paid coworker, as well as the extent to which getting
 
-and a half years. In contrast, when pay adjustments took six months,
-
-employees stayed on board for an average of just one and a half years,
-
-and when pay increases took an entire year, employees quit an average
-
-of just 13 months after the new hire joined. In other words, employees
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a pay raise might reduce their chances of resigning.

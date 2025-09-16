@@ -1,7 +1,13 @@
-## extraordinarily varied range of medical experiences and expertise. But
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58036106606df8269ae19940de090c4bea1648c6
+title: R2306H-PDF-ENG
+---
+## deep trust over many years of friendship—made it easier for Jaideep
 
-even among this well-connected bunch, Hannah stood out for her
+to share his challenges and for Hannah to commit time and energy
 
-diverse array of contacts. She loved the exchange of ideas, often going to
+to think about them. Equally important as the social bonds were the
 
-conferences well outside her own domain and making friends in many
+divergent career paths of the group’s members, which spanned an

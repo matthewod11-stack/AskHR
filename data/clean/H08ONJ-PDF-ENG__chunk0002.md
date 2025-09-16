@@ -1,11 +1,7 @@
-## HBR Staff; Flavio Coelho/Getty Images; Unsplash
-
-In January, the Chinese startup DeepSeek rattled the AI world, tech
-
-stocks, and Wall Street darling NVIDIA when it released an open-source
-
-model that was smaller, more eﬃcient, and signiﬁcantly cheaper to
-
-build than products from leading U.S. companies. DeepSeek quickly
-
-jumped to the top of app-store charts, and the moment was declared a
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd7f349b2299664bd92b791c7fc237981e19125e
+title: H08ONJ-PDF-ENG
+---
+## Published on HBR.org / April 3, 2025 / Reprint H08ONJ

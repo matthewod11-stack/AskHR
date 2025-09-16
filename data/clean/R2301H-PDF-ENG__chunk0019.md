@@ -1,15 +1,15 @@
-# reﬂex.
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42914e49a337ff8c81ccf970fbecab41d1898ad2
+title: R2301H-PDF-ENG
+---
+# Putting the Process to Work
 
-Identify your default stance. Rank how comfortable you are working
+How can you adapt the four stances without an executive coach? We
 
-with others in each stance. This simple exercise is often all our clients
+recommend a ﬁve-step process for addressing major opportunities and
 
-need to identify their default stance, but if there’s any doubt, reﬂect on
+crises, whether they play out in the moment or over the long term. It will
 
-feedback you’ve been given, such as a 360-degree review. You may think
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+enable you to choose your way forward rather than being propelled by

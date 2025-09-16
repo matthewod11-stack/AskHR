@@ -1,1 +1,7 @@
-# Direct effect
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 1926d2af68c7053d053eb7e0cb6b15f40b4f4cd8
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+# Effects

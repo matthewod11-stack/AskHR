@@ -1,11 +1,17 @@
-# cal papers. New York: Harper.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 34b399293c506dcbc170a3fc91990144cfbaeaf6
+title: untitled
+---
+# Community Psychology, 26, 189–206.
 
-Lindemann, E. (1953). The Wellesley project for the study of certain problems in community mental health. In Interrelations between the social environment and psychiatric disorders (pp. 167–185). New York: Milbank Memorial Fund.
+Levine, M., & Perkins, D. V. (1997). Principles of community psychology: Perspectives and applications (2nd ed.). New York: Oxford University Press.
 
-Linney, J. A. (1986). Court ordered school desegregation: Shuf- ﬂing the deck or playing a different game. In E. Seidman & J. Rappaport (Eds.), Redeﬁning social problems (pp. 259–274). New York: Plenum Press.
+Levine, M., Reppucci, N. D., & Weinstein, R. (1990). Learning from Seymour Sarason. American Journal of Community Psychology, 18(3), 343–351.
 
-Linney, J. A. (2000). Assessing ecological constructs and com- munity context. In J. Rappaport, & E. Seidman (Eds.), Hand- book of community psychology (pp. 647–668). New York: Kluwer Academic/Plenum Press.
+Levine, M., Toro, P. A., & Perkins, D. V. (1993). Social and community interventions. In Annual review of psychology, Vol. 44 (pp. 525–558). Palo Alto, CA: Annual Reviews, Inc.
 
-Long, B. E. (1968). Teaching psychology to children. American
+Levy, L. H. (2000). Self help groups. In J. Rappaport & E. Seidman (Eds.), Handbook of community psychology (pp. 591–614). New York: Kluwer Academic/Plenum Press.
 
-Psychologist, 23(9), 691–692.
+Lewin, K. (1951). Field theory in social science: Selected theoreti-

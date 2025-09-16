@@ -1,15 +1,19 @@
-## the most engaged teams and the most loyal customers. Throughout
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f88162d0ff3eb90685d7310d4beca58d9b97be6
+title: H07US4-PDF-ENG
+---
+## HBR / Digital Article / The Business Case for Love
 
-thousands of these qualitative focus groups and interviews, there’s been
+it comes to driving the behaviors of customers and employees, AI is
 
-one force that most powerfully drives customer and employee behavior.
+barren. And always will be.
 
-This force is love.
+I’ve spent my career studying excellence, beginning, back in 1990, with
 
-We shy away from this word, relying instead on more corporately
+a Gallup study of the very best housekeepers in Walt Disney World. I’ve
 
-palatable phrases, such as “employee engagement” or “customer
+looked to uncover what the world’s best managers, leaders, teachers,
 
-loyalty.” We feel quite comfortable talking about a “caring culture” or
-
-“passionate service” or “customer satisfaction.” But we steer clear of
+and salespeople have in common, and I’ve researched what drives

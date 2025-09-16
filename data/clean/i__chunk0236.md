@@ -1,7 +1,25 @@
-# Employee Performance Management
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 4bd73cfd36019d48729f271761be8508fee8f1c9
+title: i
+---
+# Employee separation and retention:
 
-The performance management includes various stages, from developing, managing, and
+Retention of talents is one of the critical strategic plans of the organization HR’s division. The
 
-evaluating employee performance. It is an <on going process of assessment and feedback=. The
+author introduces analysis to estimate the correlation and causation between elements and
 
-analysis includes various linear and non-linear regression models.
+logistic regression to estimate the turnover rate. Turn over rate is generally classified into two
+
+groups: voluntary and involuntary. An effective employee separation and retention analysis
+
+reveals insights into reasons for leaving regarding recruitment from other organizations,
+
+following employee's career after leaving the organization, employee’s performance, and other
+
+demographic indicators. The predictive analysis also identifies employees with a high chance
+
+of leaving their current position to pursue a career change.
+
+51

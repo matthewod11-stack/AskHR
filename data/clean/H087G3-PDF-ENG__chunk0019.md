@@ -1,31 +1,37 @@
-# promotions.”
+---
+source_path: H087G3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 31f1dde3e12c1306c6c763e92c0096c17bec1bb2
+title: H087G3-PDF-ENG
+---
+## HBR / The Big Idea / Survey: How People Experience Chronic Illness at Work
 
-One employee talked about the tension between needing support and
+- “More time to complete projects. Shifting deadlines when appropriate.
 
-wanting to appear “well”: “Because long Covid is an invisible disability,
+Time oﬀ work when symptoms ﬂare. Work from home is #1.”
 
-I am often stuck between wanting to pass as non-disabled so I am not
+- “Later start time due to sleep disorders and fatigue.”
 
-excluded from various activities, projects, etc., and needing people to
+Some respondents said they didn’t need formal accommodations due
 
-understand that I can’t function the way I used to. I end up feeling like
+to the nature of their job (for example, a job that is already remote) or
 
-I need to read as simultaneously sick and well.”
+because they had informal agreements with their managers (such as keeping their camera oﬀ during meetings).
 
-These concerns may not be unfounded. Some respondents who had
+However, other respondents cited barriers to accessing accommodation.
 
-disclosed their condition shared that they had experienced challenges.
+The most common was fear of disclosing health status due to stigma or
 
-“Once people get wind of my disabling condition, they begin to
+concern about repercussions. “It’s too embarrassing to ask and I think
 
-infantilize me and really put more focus on what they think my
+the management team will think less of me if they know how sick I am,”
 
-limitations are rather than what I actually state as my limitations,”
+said one respondent. Another wrote, “Bringing this up to an employer is
 
-noted one person. And from another: “When my employer learned
+risky due to not knowing how they might react to having an employee
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+that might be ill…Most working professionals have a reputation at stake,
 
-5
+and to let our employer know about our condition might put us in a bad
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+spot and potentially not have opportunities for professional growth and

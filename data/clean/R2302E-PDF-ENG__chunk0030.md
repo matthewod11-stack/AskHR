@@ -1,9 +1,9 @@
-## their conﬁdence before high-pressure tasks—and that group rituals
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62a409373a919c1e0309156007403d49adfefd24
+title: R2302E-PDF-ENG
+---
+## HBR / Magazine Article / You Need Two Leadership Gears
 
-enhance the meaning of work and improve group performance. But
-
-more to the point, rituals can be a powerful way to indicate shifts
-
-from one power mode to another. For instance, as we learned from
-
-interviewing them, when U.S. Navy SEAL teams switch from the pure
+Our work shows that rituals reduce employees’ anxiety and increase

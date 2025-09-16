@@ -1,7 +1,15 @@
-# ensues.
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e105ee66ac10b4dc8d760bb4313151a3115b1eb0
+title: H08DYH-PDF-ENG
+---
+## busy, conscious brain state (beta) to a more relaxed and creative state
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+(alpha or theta). I call this exercise “Picasso”: I ask everyone if they think
 
-3
+they can draw like Picasso. No one raises their hand, but after they’re
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+done drawing without looking at the paper, they look down and see
+
+that they have, in fact, drawn a Picasso-like picture. Laughter typically

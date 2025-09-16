@@ -1,7 +1,7 @@
-# I. Training
-
-Human Resource department has to ensure about limitation & weakness of their personnel‟s by
-
-TNA with discussion of line manager/immediate supervisor. If HR/Line Manager thinks
-
-individual needs training, HR will arrange a training program regarding follow:
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: b6490e86bf22b2553a3bc55f806e56eb8062fa19
+title: internship_report
+---
+# J. Training & Development:

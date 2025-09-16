@@ -1,11 +1,19 @@
-## HBR / Spotlight Article / Create a System to Grow Consistently
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 008ad4a29202ad6890711e28eab9e7c8f377bab3
+title: S24022-PDF-ENG
+---
+## research, for example—is not typically a successful path to growth.
 
-Measure return and reallocate investment. Growth champions allocate
+Companies that build processes to engage customers not only learn
 
-resources to capabilities that help them achieve diﬀerentiated customer
+more about their users but also create the type of value that drives real
 
-outcomes, and they reinvest the proﬁts in those resources. They also
+loyalty and translates directly into growth.
 
-carefully measure the relationships between inputs (investments) and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-outputs (performance). While key metrics include R&D growth, asset
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

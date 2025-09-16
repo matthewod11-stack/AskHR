@@ -1,3 +1,11 @@
-# 476 Undergraduate Education
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1fadce9bb5bbe208561d1bb90f609d75e7f4e849
+title: untitled
+---
+## PASTAS PROLOGUE FOR THE TWENTY-FIRST CENTURY
 
-We suggest the following two dynamics for undergraduate
+Psychology is not only with us, but swamping us. Its popularity is so great as to arouse suspicions of superﬁciality, or even quackery. It has become almost a fashion, so that publishers claim that the word psychology on the title page of a book is suf- ﬁcient guarantee for a substantial sale. (p. 596)
+
+Was this an editorial from a newspaper or a speech by a leg- islator in the year 2000? A commentary from a church pulpit in the 1950s? The quote is from an article by a faculty mem- ber at the Carnegie Institute of Technology, Max Schoen (1926), writing about the purposes of elementary courses in psychology in his era. In response to such popularity, the au- thor suggested that the aims of psychology in colleges were to “create an intelligent reading audience” and “to inculcate in the student a tolerant, open-minded and broad attitude to- wards human affairs and human problems” (p. 596).

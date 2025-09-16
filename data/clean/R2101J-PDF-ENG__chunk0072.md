@@ -1,3 +1,7 @@
-# COMPENSATION
-
-When discussing performance benchmarks in their plans, the directors we interviewed focused largely on organizational metrics, including total shareholder return, revenue growth, and profit margins. However, some also brought up individual objectives, which they believed worked well. “These personal goals include things like maintaining a detailed succession plan for yourself and the top 10 managers,” one director told us, “and like attempting to choose two new specific acquisitions over the next 12 months or improving the company’s public image.” Direc­ tors also wrestled with the drawbacks of holding individuals responsible for metrics they can’t always control—which, they argued, is frequently the case with organizational and company metrics.
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07e19d9e71823a5b044b9a967a00cdd4db079bdc
+title: R2101J-PDF-ENG
+---
+## FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG

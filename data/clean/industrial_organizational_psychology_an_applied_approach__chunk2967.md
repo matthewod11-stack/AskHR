@@ -1,3 +1,13 @@
-# During College S
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: fb64a228cc3251a807a154fe1a24c8e30084c36b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Obtaining Leadership Skills
 
-Learn what skills successful leaders need. Reading this chapter is a good start. Seek additional infor- mation by surfing the Net, going to the library, and buying self-help books, videos, or DVDs. Then, seek out opportunities where you can practice and build these skills, such as becoming an officer in a club on campus. The more you use a skill, the better you become.
+You will have many opportunities in your life to
+
+be a leader: as a parent, coach, supervisor, or president of a civic group. To help you become an
+
+effective leader, consider the following tips.

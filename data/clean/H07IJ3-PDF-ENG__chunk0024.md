@@ -1,11 +1,7 @@
-## Connect employees with adoption networks or support groups
-
-Another way to support adoptive parents is to connect them with local
-
-adoption networks or support groups. Not only will the support they
-
-receive from there be beneﬁcial, but being the one to connect them
-
-shows that you care about their family and support their adoption
-
-eﬀorts, which is sure to go far in ensuring employee commitment and
+---
+source_path: H07IJ3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2e8bcc8438eaeb47e280269e61c1e08afbc044e
+title: H07IJ3-PDF-ENG
+---
+# balance things.”

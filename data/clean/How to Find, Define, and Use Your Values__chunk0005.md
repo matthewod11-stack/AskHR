@@ -1,9 +1,7 @@
-# How to Find, Deﬁne, and Use Your Values
-
-https://hbr.org/2023/02/how-to-ﬁnd-deﬁne-and-use-your-values
-
-2/7
-
-Honesty is critical at this stage. Try to sum up your ideas in as fewwords as possible. (You’ll expand and further define your valueslater.)
-
-Some examples may include: family, money, comfort,friends, career, time, freedom, optimism.2) Review the list and pick your top three values. You’re probablythinking, But they’re all important! While they all might bedesirable, some are certainly more important to you than others.Again, honesty is key. If you’re struggling to select three, you canchoose two or four values instead. The number isn’t important —the intent here is to keep the list as short as possible.3) Rank your values. Once you have your top values, reflect on ifthey have equal meaning to you, or if you’re able to rank them.There is no right or wrong approach here. But your answer shouldtell you something about how important these different elementsare in your life.Remember: This isn’t a one-time exercise. It might take a coupleof weeks or months to stabilize your top values. Take the time toreflect and revise. When I did this exercise myself, it took mealmost a year to find and stabilize my values. Gradually, I realizedthat “happiness” and “fairness” are essential to me. Later, I added“freedom,” which was so engrained in me that I could not identifyit as quickly as the others. Keep an eye out for values that mayemerge or become important to you over time.Step 2: Deﬁne Your ValuesNow that you know your values, it’s time to define what theyreally mean to you in your own words. While you can look for thedictionary definition of your values, the answer probably won’t bethere. It’s important to come up with your own definition.
+---
+source_path: How to Find, Define, and Use Your Values.md
+pages: n/a-n/a
+chunk_id: 60a505a2e4589c6893c800e633ad44cf8e14773f
+title: How to Find, Define, and Use Your Values
+---
+# 9/10/25, 11:58 AM

@@ -1,33 +1,35 @@
-## HBR / Digital Article / Research: How to Build Consensus Around a New Idea
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b56ebaef7055a5e0100783ef90bc6e29d62b64e5
+title: H08COG-PDF-ENG
+---
+## beforehand that relate to the strengths or weaknesses of this new idea?
 
-of our study is it does not explore the opposite extreme of groupthink,
+Oﬀering shared reference points can help focus discussion.
 
-where new ideas may be hindered because evaluators agree too much.
+You could also create separate meetings meant to anchor conversations.
 
-Group discussions can lead people to converge too much, but this
+One meeting might be based on logistical feasibility or potential costs
 
-research investigated people judging value separate from the inﬂuence
+of a new idea, while another could focus on what ways the new idea might impact eﬃciencies or improve client relationships, for example.
 
-of others. Our research oﬀers useful ﬁndings for managers wading
+Focusing evaluations by oﬀering speciﬁc criteria, rather than opening
 
-through wide ranging opinions and contention around new ideas, and
+them up to wide-ranging discussion, could help make feedback more
 
-oﬀers solutions for how to get employees on the same page, creating
+focused and useful.
 
-avenues to submit meaningful evaluations for a novel concept.
+. . .
 
-Understanding why people are more likely to disagree about the value
+Creative ideas are important to keeping companies relevant and helping
 
-of creative ideas creates opportunities to anticipate when a lack of
+them to grow and adapt. So, too, is diverse feedback. While our study
 
-consensus may occur. Understanding lack of consensus is a signal to
+focused on ways that diﬀering criteria can stiﬂe new ideas, a limitation
 
-investigate, assess, and weight the reasoning diﬀerent evaluators are
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-using will help facilitate thoughtful decisions, helping overcome what
+6
 
-otherwise can be a meaningful barrier to innovation.
-
-This article was originally published online on August 20, 2024.
-
-Wayne Johnson is a researcher at the Utah Eccles School of Business. He focuses on evaluations and decisions about new information, including persuasion regarding creative ideas and belief change.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

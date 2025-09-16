@@ -1,19 +1,15 @@
-## correct promptly any sexually harassing behavior, and (b) that the
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94305003d09a27fb5356717abaea9b120cfe636a
+title: H04HPZ-PDF-ENG
+---
+# HBR / Digital Article / How HR and Judges Made It Almost Impossible for Victims of Se…
 
-plaintiff employee unreasonably failed to take advantage of any
+identical to the rule articulated in the 1981 Personnel article, with the
 
-preventive or corrective opportunities provided by the employer or
+distinction advanced by the EEOC added. The aﬃrmative defense set
 
-to avoid harm otherwise.
+forth allows employers to escape liability if they can prove:
 
-The court went on to specify that in most cases, a policy prohibiting
-
-sexual harassment and a complaint procedure would satisfy the ﬁrst
-
-prong of the aﬃrmative defense. And so having a policy became a proxy
-
-for companies actually doing something to prevent sexual harassment.
-
-As a result, it has become almost impossible for an employee to
-
-win a hostile work environment case about sex or race harassment.
+a) That the employer exercised reasonable care to prevent and

@@ -1,9 +1,21 @@
-## mindfulness app, a basket of healthy snacks, or a sympathetic
+---
+source_path: R2406N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 317adc0652b988a7c577ccab4ad496d9a3421582
+title: R2406N-PDF-ENG
+---
+## especially for people with precarious, unpredictable work schedules.
 
-employee assistance program,” Schulte writes, “[r]ather than, say, hir[ing] suﬃcient staﬀ to manage the workload, pay[ing] them well, and
+She notes, however, that most of us don’t stop, because “just the thought
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+of losing one’s job [also] creates stress,” and our employers might not be
 
-2
+interested in changing the status quo. As one interviewee, Stanford’s
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Jeﬀrey Pfeﬀer, explains, “You have a system that ’s running along.
+
+There’s enormous amounts of inertia. And…to overcome inertia, you
+
+need a force that is larger than the inertia.”
+
+You know what isn’t larger than inertia? “Lunchtime yoga, a

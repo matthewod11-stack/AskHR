@@ -1,23 +1,17 @@
-# Business Logic Contest
+---
+source_path: H06N98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 889b5b5c04a42c0944d07671b2983c906d27f526
+title: H06N98-PDF-ENG
+---
+## HBR / Digital Article / A User’s Guide to Open Strategy
 
-When making strategic decisions, leaders typically focus on where to
+about the future, asking a larger crowd to vote on them before grouping
 
-compete (which industries and markets), pushing oﬀ consideration
+them into larger trends. These were not necessarily new, but as a senior
 
-of competences, resources, and value chains they’ll need to the
+executive explained, that was never the goal anyway. The real value was
 
-implementation phase. The Business Logic Contest helps leaders to
+to create a shared understanding of the challenges these trends pose,
 
-think about the “what” and “how” of strategy together — to explicitly
-
-integrate the customer interface related to value creation with value
-
-capture and its associated process. This ensures that a company
-
-collectively engages in developing a unique proposition that works
-
-coherently for them. As described in the BPW example above, a
-
-workshop type model brings together a relatively small but diverse set
-
-of people preventing leakage of proprietary information.
+and agreement on what to do next.

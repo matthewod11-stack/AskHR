@@ -1,21 +1,17 @@
-## unpredictable reactions in ﬁnancial markets.
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13a67a73a7c93aaf9e60777643685aff02062cff
+title: R2505M-PDF-ENG
+---
+## part of a network of people, products, ﬁnances, and data, and changes
 
-Systems thinking helps predict and solve problems in dynamic,
+in one area of the network can have side eﬀects in others. For example,
 
-interconnected environments. It’s especially relevant to innovation for
+recent attempts by the U.S. government to impose tariﬀs on foreign
 
-sustainability challenges. Electric vehicles, for example, have attracted
+imports have had ripple eﬀects on the supply chains of major products
 
-a lot of investment, notably in China, because they are seen as a
+like cars and iPhones, whose components are sourced from multiple
 
-green technology. But their net eﬀect on carbon emissions is highly
-
-contingent on how green a country’s power supply is. What’s more,
-
-their technology requires raw materials whose processing is highly
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+countries. The tariﬀ plans have also led to a spiral of complex and

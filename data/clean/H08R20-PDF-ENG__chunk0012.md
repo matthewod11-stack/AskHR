@@ -1,39 +1,43 @@
-## HBR / Digital Article / Great Leaders Make People Feel Noticed
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9cdc6b17a8f848ff7b5bd4deca142fc030c74706
+title: H08R20-PDF-ENG
+---
+# How Leaders Notice
 
-to check in on an employee who’s struggling, or answer a few more
+So, how do we become better noticers? Here are three ways leaders—
 
-emails instead of connecting with a team member.
+whether you manage a small team or lead an entire organization—can
 
-Noticing also requires attention, and the erosion of our ability to pay
+do just that.
 
-attention is another barrier to seeing others. Research by psychologist
+Know the barriers to seeing others
 
-Gloria Mark shows that our average attention span for a single activity
+Leaders are always crunched for time, and the ﬁrst barrier to truly
 
-has decreased from over two minutes in 2004 to just 47 seconds today.
+seeing others is hurry. While researching my book The Power of
 
-The decrease is due to increased distractions and information overload.
+Mattering, an employee named Sonia shared this story: “[My manager
 
-One result of the strain on our attention is that interactions become
+and I] would have a weekly check-in, and almost every time my boss
 
-automatic. Our one-on-ones start the same. Performance evaluations
+would show up with ﬁve minutes left in the meeting and leave right
 
-become robotic. The weekly team meeting becomes habitual. Walks
+when it ended. She’d say, ‘Sorry, I was busy again.’”
 
-down the hall turn into a rush to a meeting room, avoiding eye contact
+Sonia was new to her role, a new mother, and needed support. “It was
 
-with those we’re passing by. This attentional autopilot can cause us to
+terrible. Absolutely terrible. It came to the point that I’d journal and cry
 
-miss signals: An employee starts sharing less, a colleague’s voice takes on a diﬀerent tone, or someone seems less energized than they used to
+and then keep going,” she said.
 
-be.
+Hurry and care can’t coexist. Noticing others takes time, but when
 
-The good news is we can get out of attentional autopilot through
+leaders rush, it becomes too easy to cancel a one-on-one meeting, forget
 
-“articulated intention”—being deliberate in setting goals for how we
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-want to show up in our interactions to ensure we’re making people feel
+3
 
-seen. This starts consciously deciding to slow down, make space, and
-
-use our time to pay deeper attention.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

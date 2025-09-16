@@ -1,15 +1,17 @@
-# Razzouk & Shute
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: b33d071d5f7cfdf4c74a7afa191c923f40dc7315
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Press.
 
-Suwa, M., Gero, J., & Purcell, T. (2000). Unexpected discoveries and s-invention of design requirements: Important vehicles for a design process. Design Studies, 21, 539–567. doi:10.1016/S0142-694X(99)00034-4
+Stempfle, J., & Badke-Schaube, P. (2002). Thinking in design teams—an analysis of team communication. Design Studies, 23, 473–496. doi:10.1016/S0142- 694X(02)00004-2
 
-Tang, H-H., & Gero, J. S. (2001). Sketches as affordances of meanings in the design process. In J. S. Gero, B. Tversky, & T. Purcell (Eds.), Visual and spatial reasoning in design II (pp. 271–282). Sydeny: University of Sydney, Australia: Key Center of Design Computing and Cognition.
+347
 
-Todd, R., & Magleby, S. (2004). Evaluation and rewards for faculty involved in engi-
+Downloaded from
 
-neering design education. International Journal of Engineering, 20, 333–340.
+http://rer.aera.net
 
-Ullman, D., Dietterich, T., & Stauffer, L. (1988). A model of the mechanical design process based on empirical data. Artificial Intelligence in Engineering Design and Manufacturing, 2, 33–52.
-
-Weth, R., Von der. (1999). Design instinct? The development of individual strategies.
-
-Design Studies, 20, 453–463. doi:10.1016/S0142-694X(99)00021-6
+at AERA on October 2, 2012

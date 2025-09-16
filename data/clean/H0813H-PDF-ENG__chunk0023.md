@@ -1,5 +1,9 @@
-# with their subordinates.
+---
+source_path: H0813H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c3bd2e701caa1ae2aa3799b5d02a20fa20c67e2
+title: H0813H-PDF-ENG
+---
+# HBR / Digital Article / Surveilling Employees Erodes Trust — and Puts Managers in a B…
 
-This article was originally published online on February 20, 2024.
-
-Chase Thiel, Ph.D., is the Rile Chair of Leadership and a Full Professor of Management at the University of Wyoming. His research focuses on workplace ethics and leadership, examining the causes of unethical behavior, methods to foster ethical practices, and the role of ethical leadership.
+for developmental purposes, rather than punitive ones, when engaging

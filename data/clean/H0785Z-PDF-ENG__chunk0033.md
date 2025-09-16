@@ -1,13 +1,21 @@
-# ways:
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2f67a6efbd12d9f5e50dbd5d8297357813b7703d
+title: H0785Z-PDF-ENG
+---
+# Where the Organization Is Now
 
-- 1. From mass market to markets of one. Bezos recognized that an online
+Bezos discovered early what every twenty-ﬁrst-century leader should
 
-retailer could oﬀer far more choices than a local shop could, along with
+now know: We have entered an age of discontinuity in which breaks in
 
-the convenience of delivery right to the customer’s home — all at a
+the external world are deeper and more frequent, rendering prevailing
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+organizational structures and practices ineﬀective, if not harmful.
 
-5
+Successful organizations exploit those changes, as Amazon has since
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+its inception, and take advantage of what’s new.
+
+Current realities make it imperative that companies shift in several

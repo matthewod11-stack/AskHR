@@ -1,11 +1,27 @@
-## than they would with a human telemarketer.
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6b2993e048eefbd1fb02a8041a780669f6b0190
+title: S25013-PDF-ENG
+---
+## HBR / Spotlight / Why People Resist Embracing AI
 
-While anthropomorphizing AI can often increase adoption, sometimes
+simulation, participants expressed greater trust and comfort when the
 
-it can be counterproductive, such as in sensitive or embarrassing
+vehicle’s AI had features like a human voice and a human avatar.
 
-contexts like obtaining medicine for sexually transmitted diseases.
+Another example is Amazon’s Alexa, which has a female gender and
 
-In those situations, consumers often prefer AI without human traits
+some humanlike traits, including a name and a voice. These features
 
-because they believe it will be less judgmental.
+create a familiar personality that helps users relate to AI better and feel
+
+more comfortable interacting with it.
+
+Other researchers have found that individuals who have a lower
+
+tendency to anthropomorphize AI also have less trust in AI’s abilities,
+
+leading them to resist using it. For instance, people who are less
+
+inclined to humanize a telemarketing chatbot tend to end calls quicker

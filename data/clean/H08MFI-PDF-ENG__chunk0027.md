@@ -1,17 +1,21 @@
-# to school at the age of 45.
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd539d12cd48e8b78a6efcb2868df65462986c5b
+title: H08MFI-PDF-ENG
+---
+## HBR / Digital Article / When Your Job Breaks Your Heart
 
-“It was one of the most transformative decisions of my life,” she said,
+you on a path that leads to something greater than you ever expected.
 
-and she has since earned three additional degrees. “The journey hasn’t
+I had always taken so much pride in my work. I just had to ﬁnd a new
 
-just been about education; it’s been about rediscovering my value
+mountain to climb.”
 
-and purpose. The layoﬀ that once felt like a loss has turned into an
+I also think it’s important to accept what you can’t change, and change
 
-opportunity for reinvention and growth. I’m proud of the person I’ve
+what you can. Tori Rhoades, an electrical engineer, was part of a
 
-become through this journey, and I’m excited for the future ahead.”
+mass layoﬀ well beyond her control at the height of Covid-19. It was a profoundly diﬃcult moment for her that left her feeling defeated and
 
-Are there any parting words you’d leave someone who is currently
-
-going through a professional heartbreak, especially if it’s in the
+questioning her self worth. But to move forward, she decided to return

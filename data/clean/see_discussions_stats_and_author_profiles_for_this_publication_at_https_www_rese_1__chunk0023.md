@@ -1,5 +1,7 @@
-# Objectives of the study
-
-1.(cid:32) To study the factors influencing employee satisfaction among employees in the company.
-
-2.(cid:32) To develop an employee engagement programme for the organization.
+---
+source_path: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1.md
+pages: n/a-n/a
+chunk_id: 005451adf4619e20acac1c829a5f5d0d5aea9dce
+title: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1
+---
+# productivity.

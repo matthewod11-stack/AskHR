@@ -1,17 +1,27 @@
-# the feedback.
+---
+source_path: H08AY4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38d6b861f939c1dbb25d8a96a85aa095084c6cf1
+title: H08AY4-PDF-ENG
+---
+# both of you.
 
-- You made a mistake in the feedback and need to ﬁx it.
+Feedback might take more than one conversation when:
 
-This will make feedback easier in the short term when you can free
+- The feedback is nuanced or complex.
 
-yourself from needing to get it perfect right out of the gate. It can also
+- You’re not sure that the other person understands the feedback, and
 
-make it easier in the long run, when your colleague learns that that
+you want to help them get it.
 
-you’re going to give them the opportunity to share their perspective.
+- You’re not sure you understand the other person’s perspective, and you
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+want to really listen.
 
-3
+- The recipient has a negative reaction to the feedback, and you want to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+give both of you time to regroup.
+
+- There’s disagreement about the feedback.
+
+- You realize that you didn’t have enough context and want to update

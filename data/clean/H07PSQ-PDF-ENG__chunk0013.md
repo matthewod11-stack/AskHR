@@ -1,31 +1,37 @@
-# Align on the Optimal Approach
+---
+source_path: H07PSQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a60cfbfa30bcb90cd70f5caa8cf8925344ef24e6
+title: H07PSQ-PDF-ENG
+---
+## HBR / Digital Article / How to Manage an Employee Who Always Makes Excuses
 
-A second major reason an employee might be making excuses for poor
+other initiatives or commitments? Answering these questions reduces
 
-performance is that they don’t have the skills or knowledge to do what
+the opportunity for the person to claim they didn’t know what you
 
-you ask. If your trepidation is tied to gaps in the person’s capability,
+wanted.
 
-your process must go beyond what they need to achieve and explore
+Once you’re aligned on the purpose of the work, you can paint a picture
 
-how they’ll achieve it. Depending on your speciﬁc concerns, there are a
+of what good, bad, and unacceptable outcomes would look like. But
 
-few ways to broach this.
+unfortunately, this is another step managers commonly skip. I refer to
 
-When you suspect that the person might take shortcuts or neglect
+it as the Valentine’s Day eﬀect; failing to articulate what you want and
 
-essential components, get into some detail about the required steps.
+being disappointed when the person doesn’t deliver. And in the case of
 
-Share eﬀective approaches and provide precedents from previous
+an employee you’re already leery of, failing to deﬁne your expectations
 
-projects. But don’t make the mistake of doing all the talking; their
+is almost certainly setting yourself up for disappointment. To provide a
 
-nodding head cannot be interpreted as understanding. Instead, ﬁnd out
+rubric for their work, describe the minimum standard. What would you
 
-how they’re processing the request by asking them to share their plan.
+consider a home run? What outcomes would be worrisome or would you
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+see as a failure? Answering these questions eliminates the possibility
 
-3
+that the person will pass oﬀ shoddy work as “good enough.”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+When you make the goals clear, you remove the alignment excuses.

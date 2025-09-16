@@ -1,17 +1,25 @@
-## spark of classic entrepreneurial ventures, they can partner with them.
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93fe7f1e089e6912a7d9e4975c4175ca2b91a550
+title: R2405E-PDF-ENG
+---
+## up a physical service business and then a digital service business, later
 
-As the ventures develop, they can carefully increase their support and
+becoming president of the construction business area. He eventually
 
-shape the projects to leverage their resources and better suit their
+moved on to become the CEO of two multinational companies.
 
-customers’ needs. Once a new business begins to take oﬀ, incumbents
+Unfortunately, corporate leaders capable of building a new business,
 
-have the capital, resources, and capabilities to grow it rapidly. Although
+rather than just managing an existing one, are few and far between,
 
-the entrepreneurial mantra “move fast and break things” may not be
+which means that you may have to look outside for one. That isn’t easy
 
-suitable for incumbents, “collaborate and scale up quickly” works very
+and can be expensive, but it’s often necessary.
 
-well for them—and can unlock underexploited sources of value.
+. . .
 
-A version of this article appeared in the September–October 2024 issue of Harvard Business Review.
+As we have shown, large companies can play a critical role in bringing
+
+groundbreaking ideas to life. While incumbents may lack the creative

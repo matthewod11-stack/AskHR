@@ -1,23 +1,25 @@
-## on average, the more years general physicians practice medicine, the
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a59936252589318b11e770cd76ff63ab5c26c66e
+title: H07UPN-PDF-ENG
+---
+## our journeys more interesting, enjoyable, and fulﬁlling.
 
-worse their patient outcomes become. That’s because many of them
+These ﬁve strategies can help managers equip your teams to move
 
-are solely focused on providing care: seeing patients, diagnosing, and
+from the performance zone to incorporating the learning zone, enabling
 
-prescribing as best as they know how. But doctors who continue
+them to work eﬀectively while driving change and growth.
 
-to engage in eﬀective learning — seeking out and expanding their
+- 1. Set the stage for the learning zone.
 
-knowledge and skills, and examining mistakes — continue to improve.
+In everyday work and life, most of us tend to get stuck in the
 
-Most of us don’t have the luxury of devoting signiﬁcant blocks of
+performance zone, ﬁxated on getting things done as ﬂawlessly as
 
-time every day to learning or practicing a speciﬁc skill. The biggest
+possible. This might work ﬁne while we’re novices, but once we become
 
-opportunity to accelerate our development is to get things done in ways
+proﬁcient, this single-minded focus leads to stagnation, or worse.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+For example, a Harvard Medical School meta-analysis concluded that,

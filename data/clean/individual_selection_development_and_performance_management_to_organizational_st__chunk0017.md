@@ -1,3 +1,9 @@
-# Developing Competency Models to Promote Integrated Human Resource Practices • 313
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: eb3769bd9ec528dbef75dfcb4658bff6a0695b87
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+# Review of Literature and Job Documents
 
-future trends and work conditions of an oc- cupational group, including projected future roles and job requirements. All KSAs, compe- tencies, and tasks found in the literature re- view are compiled into a database. For ex- ample, over 10,000 tasks and 500 KSAs were collected for the clerical and technical study. This information is then sorted by key words to create competencies and tasks that cover the work performed by all the occupations in the study and that eliminate redundancy and confusion in terminology. After draft lists of competencies and tasks are developed, the lists are reviewed and finalized by focus groups comprised of subject matter experts. The fi- nal lists (e.g., 170 tasks and thirty-one com- petencies for seventy-seven clerical and tech- nical jobs) comprise the common language for the occupational group under study.
+The development of competencies and tasks begins with a comprehensive literature review. The goal of the literature review is to develop comprehensive competency and task lists for an occupational group. The literature review integrates information from the organizational and psychological literature, published job analysis studies, training and certification in- formation, and documents such as current job descriptions and job advertisements from pub- lic and private sector organizations. The re- view also includes literature that addresses

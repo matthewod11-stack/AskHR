@@ -1,27 +1,19 @@
-## HBR / Digital Article / Inside the Success of South Korean Brands
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a617d01fff33a02469a5ded9ebcf35f96de3fbf
+title: H089ZD-PDF-ENG
+---
+# buy-in and feedback loops.
 
-Seoul. Known as the “pop-up mecca,” the Hyundai Seoul, the largest
+Experimentation is also core to K-brands retail strategy. Indeed, Seoul
 
-shopping mall in the city, attracted 100 million visitors in just 30
+has become one of the global capitals with the highest concentration of
 
-months. This form of short-lived retail is particularly attractive for
+pop-up stores. In 2022 alone, more than 250 pop-up stores opened in
 
-brands as it enables them to test new ways to interact with customers at
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-a fraction of the cost of creating a permanent store.
+5
 
-Finally, Korea is home to fast-paced brand experimentations. For
-
-instance, Gentle Monster explicitly relies on a philosophy of “high-end
-
-experimentation” to seek growth opportunities and expand outside
-
-eyewear. In 2017, it tested whether its success could translate to the
-
-cosmetics market by launching a new fragrance brand, Tamburins.
-
-After introducing the perfume with an art exhibition hosted right next
-
-to its ﬂagship retail store, Gentle Monster saw Tamburins sales jump.
-
-The company rapidly scaled up, opening new Tamburins stores in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,13 @@
-## Haydock,M.D.(1996).TheG.I.Bill.AmericanHistory,31(4),52–58.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 43ceaff71403ff6a56fee4d72937d05079784aa8
+title: untitled
+---
+# Thousand Oaks, CA: Sage.
 
-Hergenhahn, B. R. (1997). An introduction to the history of psychol-
+Hackman, J. R. (1985). Doing research that makes a difference. In E. E. Lawler III, A. M. Mohrman Jr., S. A. Mohrman, G. E.
 
-ogy (3rd ed.). Paciﬁc Grove, CA: Brooks/Cole.
+Ledford Jr., & T. G. Cummings (Eds.), Doing research that is useful for theory and practice (pp. 126–149). San Francisco: Jossey-Bass.
 
-Highhouse, S. (1999). The brief history of personnel counseling in industrial-organizational psychology. Journal of Vocational Behavior, 55, 318–336.
-
-Highhouse, S., & Zickar, M. J. (1997). Where has all the psychology gone? Industrial-Organizational Psychologist, 35(2), 82–88.
-
-Hilgard, E. R. (1987). Psychology in America: A historical survey.
+Hakel, M. D. (1979). Proposal to incorporate as the Society for Industrial and Organizational Psychology. Industrial- Organizational Psychologist, 16(4), 4–5.

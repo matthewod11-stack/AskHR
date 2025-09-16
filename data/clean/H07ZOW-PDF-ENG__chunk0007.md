@@ -1,31 +1,21 @@
-## HBR / Digital Article / 5 Reasons People Get Laid Off
+---
+source_path: H07ZOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7c10fdee2b7f92eaef6c2b775822447aa46bdb3d
+title: H07ZOW-PDF-ENG
+---
+## an expert in natural language processing, machine learning, or natural
 
-Showing a dedication to reskilling yourself in a new space and
+language understanding technologies, if you haven’t gained expertise in
 
-demonstrating those skills during the transition to a new way of doing
+LLMs, which can generate contextually accurate text, answer queries,
 
-business could save your job. Therefore, employees should take a
+summarize text, and preform language translation, then your skills are
 
-proactive approach to gaining skills and knowledge based on where the
+already outdated.
 
-market and company are heading to ensure their skills remain relevant.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-- 2. You’re an “overseer,” not a “doer”
+2
 
-When companies decide to implement budget cuts, the ﬁnance
-
-department typically allocates a speciﬁc percentage reduction to each
-
-department. The most straightforward method to meet the assigned cut
-
-percentage is to eliminate the positions of individuals with the highest
-
-salaries, particularly if they’re not actively involved in accomplishing
-
-the work. Managers who lack hands-on involvement may be seen as
-
-less valuable to the organization, as there is a perception that they’re
-
-not directly contributing to task and project execution. This perception
-
-could increase the likelihood of them being considered expendable
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

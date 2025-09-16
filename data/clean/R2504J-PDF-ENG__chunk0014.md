@@ -1,11 +1,11 @@
-## and the relationships among them on ﬂip charts and slides.
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba86e07e2926e96c5d742977016267f2b4ab5382
+title: R2504J-PDF-ENG
+---
+# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
 
-Once executives reach agreement on a strategy, they need to
+consultants, board members, and others, they often draw circles, boxes,
 
-communicate it to other stakeholders, who must understand it and act
-
-on it. The daily decisions of employees, for example, need to be guided
-
-by the same understanding of the ﬁrm’s strategy. If they don’t make
-
-diﬀerent choices as a result of a new strategy, then you don’t have a new
+and arrows that represent important elements of the proposed strategy

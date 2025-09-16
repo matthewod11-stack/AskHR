@@ -1,5 +1,11 @@
-## (2nd ed.). New York: Appleton-Century-Crofts.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 200b9678d7a32d5b1623c253e7c8605158d36f28
+title: untitled
+---
+# Psychological Review, 45, 377–394.
 
-Bradford, G. (1927). The signiﬁcance of biography. In J. C. Johnston, Biography: The literature of personality (pp. xv–xxi). New York: Century.
+Block, J. (1971). Lives through time. Berkeley, CA: Bancroft Books.
 
-197
+Boring, E. G. (1950). A history of experimental psychology

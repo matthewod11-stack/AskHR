@@ -1,21 +1,33 @@
-# From Nobody to Somebody
+---
+source_path: H08VUS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e08c24cf07c5a258e15d7aae725310f844c980b
+title: H08VUS-PDF-ENG
+---
+# thinking and working.
 
-Strategic amateurism doesn’t require major life changes, but it does
+I didn’t expect much, just that these pursuits would make my personal
 
-require intention. As the economist John Maynard Keynes put it, “The
+life feel a tad more expansive. But what happened next surprised me.
 
-diﬃculty lies not in the new ideas, but in escaping from the old ones.”
+At work, my team noticed a subtle shift in how I approached creative
 
-Here’s a three-step approach to operationalize that shift:
+reviews. When my internal agency brought an unexpected reference or
 
-- 1. Choose one or two activities with no professional relevance for you.
+an out-of-left-ﬁeld idea, instead of immediately trying to ﬁt it into our
 
-The further from your expertise, the better. The goal is to escape the
+usual framework, I gave it more space to breathe and develop. Dabbling
 
-weight of competence and let your brain form new connections.
+in art made me more receptive when our designers pushed for bolder
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+color choices on our assets. My late-night singing sessions reminded me
 
-4
+how freeing it can feel to create without judgment. That carried over
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+into how I treated rough early-stage ideas and hypotheses. Together,
+
+these changes helped my team and me create the conditions for some
+
+of our most distinctive work. We challenged B2B conventions, delivered
+
+meaningful business results, and earned industry recognition.

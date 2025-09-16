@@ -1,9 +1,9 @@
-# respective assessments?
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e6ca55fd1baca9092f510e057647dbbeca9c71b
+title: H08GJ6-PDF-ENG
+---
+## HBR / Digital Article / How to Decide Which Innovation Projects to Greenlight
 
-This type of quandary is reﬂected in our new research on the selection
-
-of innovation projects. Simulating a realistic selection environment,
-
-we horserace common decision methods such as voting, scoring,
-
-and ranking. Many big ﬁrms, be it device manufacturers, software
+best be left aside. But how, exactly, should you combine and weigh your

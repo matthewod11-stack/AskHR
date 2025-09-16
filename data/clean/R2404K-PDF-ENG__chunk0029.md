@@ -1,7 +1,15 @@
-## a lower price because of the greater certainty of acquisition and the
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e95322a0b758aa451e6de22938e94429504d0358
+title: R2404K-PDF-ENG
+---
+## superior value proposition for both parties than would either internal
 
-elimination of distracting and expensive activities such as fundraising,
+R&D or M&A. The corporation pays a lower price than it would in a
 
-sales, and manufacturing. A range of levers can be pulled in the
+traditional M&A context because as an early investor, it can obtain the
 
-negotiation, including milestone-based funding, equity incentives, and
+product at a lower valuation and is not buying sales and manufacturing
+
+capabilities it doesn’t need. The development team is willing to accept

@@ -1,13 +1,17 @@
-# Diﬀ erential Validity
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8f322fdc50e177620f3e66ee963ce7495d92e940
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Single-Group Validity
 
-The last test of fairness that can be conducted involves differential validity. With differential validity, a test is valid for two groups but more valid for one than for the other. Single-group validity and differential validity are easily confused, but there is a big difference between the two. Remember, with single-group validity, the test is valid only for one group. With differential validity, the test is valid for both groups, but it is more valid for one than for the other.
+In addition to adverse impact, an organization might also determine whether a test has single-group validity, meaning that the test will significantly predict performance for one group and not others. For example, a test of reading abil- ity might predict performance of White clerks but not of African American clerks.
 
-Like single-group validity, differential validity is rare (Katzell & Dyer, ; Schmidt & Hunter, ). When it does occur, it is usually in occupations dominated by a single sex, tests are most valid for the dominant sex, and the tests overpredict minority performance (Rothstein & McDaniel, ; Saad & Sackett, ). If differential-group validity occurs, the organization has two choices. The first is not to use the test. Usually, however, this is not a good option. Finding a test that is valid is difficult; throwing away a good test would be a shame.
+To test for single-group validity, separate correlations are computed between the test and the criterion for each group. If both correlations are significant, the test does not exhibit single-group validity and it passes this fairness hurdle. If, however, only one of the correlations is significant, the test is considered fair for only that one group.
 
-The second option is to use the test with separate regression equations for each group. Because applicants do not realize that the test is scored differently, there are not the public relations problems that occur with use of separate tests. However, the  Civil Rights Act prohibits score adjustments based on race or gender. As a result, using separate equations may be statistically acceptable but would not be legally defensible.
+Single-group validity is very rare (O’Connor, Wexley, & Alexander, ) and is usually the result of small sample sizes and other methodological problems (Schmidt, ; Schmidt & Hunter, ). Where it occurs, an organization has three choices. It can disregard single-group validity because research indicates that it probably occurred by chance; it can stop using the test; or it can use the test for only the one group and find another test to use for other groups.
 
-If a test does not lead to adverse impact, does not have single-group validity, and does not have differential validity, it is considered to be fair. If the test fails to pass one of these three fairness hurdles, it may or may not be fair, depending on which model of fairness is followed (Arvey & Faley, ). But to be used with complete confidence, a test must be valid, have utility, and be fair.
+Disregarding single-group validity probably is the most appropriate choice, given that most I/O psychologists believe that single-group validity occurs only by chance. As evidence of this, think of a logical reason a test would predict dif- ferently for African Americans than for Whites or differently for males than for females. That is, why would a test of intelligence predict performance for males but not for females? Or why would a personality test predict performance for African Americans but not for Whites? There may be many cultural reasons why two groups score differently on a test (e.g., educational opportunities, socioeco- nomic status), but finding a logical reason that the test would predict differently for two groups is difficult.
 
-evaluating selection techniques and decisions
-
-227
+If we do not believe that single-group validity is the result of chance, we must adopt one of the other two options. As you can see, even though the third option is statistically correct, many legal and public relations problems may result. For example, if an applicant asks, “Why did I get one test and my friend another?” we could respond that African Americans get one test and Whites get another. Such a response, however, is provocative and ultimately may be counterproductive for an organization.

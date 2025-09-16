@@ -1,19 +1,25 @@
-## employees in our study check and delete unnecessary emails during
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 322d2a9bfb9591a465fb6e5db1a9a4dcc011df10
+title: H08T5A-PDF-ENG
+---
+# meaningful engagement.
 
-holidays. One interviewee reported feeling the need to delete messages
+Another example of a useful change to break entrainment cycles is
 
-even while in the queue to see the historic Sagrada Família in Barcelona.
+German automaker Mercedes-Benz’s “Mail on Holiday” email policy,
 
-While this policy is optional at Mercedes Benz, it provides a good model
+which ensures its employees are taking full advantage of their time oﬀ, without fearing an overﬂowing inbox when they return. Through
 
-for what organizations can do help interrupt harmful synchronization.
+this policy, emails received during holidays are auto-deleted, and a
 
-Watch for warning signs—and keep making adjustments.
+note is sent to the sender, conveying that they will need to reach out
 
-One reason entrainment is so powerful is because it’s invisible. Over-
+once the employee has returned to the oﬃce. This allows employees
 
-synchronized employees often appear committed and productive, but
+to disconnect from the oﬃce rhythm without anxiety about missing
 
-beneath the surface, they may be struggling to disconnect, experiencing
+something. Moreover, quite often, the fear of coming back from the
 
-sleep problems, or losing a sense of purpose—compulsion disguised as
+holiday and facing an inbox full of hundreds of messages made many

@@ -1,19 +1,27 @@
-## HBR / Digital Article / Preparing to Announce Layoffs in a Virtual Meeting
+---
+source_path: H07GDE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b45f7325344b91edd4dd645030104c963d69f41
+title: H07GDE-PDF-ENG
+---
+## Alongside meetings, job interviews, and even social events, layoﬀs
 
-and Webex, expressing emotion and reassurance on them does not
+have entered the virtual era. It was, after all, inevitable. In a recent
 
-come easily for many of us. This is problematic as so much is at stake
+McKinsey study, 35 percent of respondents reported that they were able
 
-when employees are being laid oﬀ.
+to work remotely full time. Logic follows that when someone works
 
-If your team is preparing to announce layoﬀs virtually, calculated
+remotely, they can be laid oﬀ remotely, too.
 
-preparation for your executive team is critical. This isn’t just
+But this doesn’t give managers and company leaders a pass on handling
 
-another Zoom meeting; this is an announcement that aﬀects people’s
+the matter without sensitivity and compassion. In fact, it means the
 
-livelihoods and the future of your organization. Not only do
+opposite. As familiar as most of us now are with platforms like Zoom
 
-executives risk losing the conﬁdence of remaining employees and other
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-stakeholders, but they could also make headlines for heartless “Zoom
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

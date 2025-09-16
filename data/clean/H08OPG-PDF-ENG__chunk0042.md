@@ -1,9 +1,9 @@
-## physical proximity, voice levels, nuance of expressions, etc. And
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81a66e506504a2c0a83b04d4b2104ddd5d21380c
+title: H08OPG-PDF-ENG
+---
+## knowledge exchange—many more channels of input and output if
 
-as we know, complex problem-solving and decision-making in
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you will, like non-verbal cues and communication, body language,

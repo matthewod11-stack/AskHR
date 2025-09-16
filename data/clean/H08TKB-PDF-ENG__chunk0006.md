@@ -1,21 +1,25 @@
-# which decisions.
+---
+source_path: H08TKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 711ada165c3fa7bd31eecca7db0e836c96525fe8
+title: H08TKB-PDF-ENG
+---
+# HBR / Digital Article / Planning an Offsite for Your Leadership Team? Ask These 5 Que…
 
-At the oﬀsite, speciﬁc decision-making tools to support decision-
+reinforced the emotional impact she aimed to achieve. Not only that,
 
-making were discussed and speciﬁcally applied directly to three real-
+the feeling lasted, fueling intensiﬁed collaboration in a more systematic
 
-time situations. By providing the right tool and using it directly on
+way. Being really intentional about the emotions you want to create is
 
-actual situations, the team immediately clariﬁed their decision-making
+very valuable in crafting the right type of experience.
 
-process going forward.
+- 2. What is getting in the way of your team’s success?
 
-- 3. What shift in behavior will set your team on a new trajectory?
+A large retailer’s leadership team was consistently struggling to make decisions eﬃciently. This ﬂaw was preventing the team from operating
 
-Consider in what ways you hope things will be diﬀerent when
+to their fullest potential and contributing to unnecessary delays on key
 
-examining the “before” and “after” of the oﬀsite. A great oﬀsite is a
+initiatives. Diagnosing the issue, the leader disclosed that the team
 
-memorable milestone in the team’s story, after which, it is on a new
-
-trajectory. That diﬀerent trajectory can only be created with diﬀerent
+lacked clarity on how decision-making works and who to include in

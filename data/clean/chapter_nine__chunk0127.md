@@ -1,3 +1,7 @@
-# http://www.fons.org/library/journal.aspx
-
-McCormack, B., Henderson, E., Wilson, V., Wright, J. (2009) Making practice visible: The Workplace Culture Critical Analysis Tool (WCCAT) Practice Development in Health Care.Vol.8. No. 1. pp 28- 43.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 2730801c518ea86520b9f36ad1784627268571d4
+title: chapter_nine
+---
+## © FoNS 2011 International Practice Development Journal 1 (2) [1]

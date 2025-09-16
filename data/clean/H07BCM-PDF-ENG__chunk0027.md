@@ -1,9 +1,31 @@
-## HBR / Digital Article / What’s Stopping You from Reinventing Your Career?
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd70c85da7021bd7d0e90ad59ea2daead93e5afa
+title: H07BCM-PDF-ENG
+---
+# remains untested.
 
-— their legacy beliefs — that prevent them from doing so can help them
+The common denominator in these traps is that they aren’t bad habits
 
-ﬁnally imagine their next selves and start on their way.
+in and of themselves — quite the opposite. Executives follow strategies
 
-This article was originally published online on October 27, 2022.
+that have worked well for them throughout their lives — self-reliance,
 
-Heather Cairns-Lee is an adjunct professor of leadership at IMD and former president of Business Professional Women Lake Geneva. She is the co-editor of Clean Language Interviewing, a guide to asking questions and interviewing with minimal assumptions.
+thinking their way to an answer and throwing themselves into work that
+
+demonstrates their loyalty to the status quo. But it also keeps them safe
+
+from the messy, emotional work of exploring new possibilities.
+
+Only when executives recognize the dissonance between their inner
+
+yearning and the status quo can they address existential questions
+
+about who they are and what they want from life. Confronting the traps
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,21 @@
-## analysis. this issue. Group and Organization Management.
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: ee348315b604035887645d111ce6d2d98581017d
+title: eur_research_information_portal
+---
+## intellectual development. Chicago: University of Chicago Press.
 
-Roberts, L. M. (2005). Changing faces: Professional image construction in diverse organizational settings. Academy of Management Review, 30(4), 685–711. https:// doi.org/10.5465/amr.2005.18378873
+Ragins, B.R., & Cornwell, J. M. (2001). Pink triangles: Antecedents and consequences of perceived workplace discrimination against gay and lesbian employees. The Journal of Applied Psychology, 86(6), 1244–1261. https://doi.org/10.1037/0021- 9010.86.6.1244
 
-Rosenbaum, M. E. (1986). The repulsion hypothesis: On the nondevelopment of relationships. Journal of Personality and Social Psychology, 51(6), 1156–1166. https://doi.org/10.1037/0022-3514.51.6.1156
+Randel, A. E., Galvin, B. M., Shore, L. M., Ehrhart, K. H., Chung, B. G., Dean, M. A., & Kedharnath, U. (2018). Inclusive leadership: Realizing positive outcomes through belongingness and being valued for uniqueness. Human Resource Management Review, 28(2), 190–203. https://doi.org/10.1016/j.hrmr.2017.07.002 Ray, C., Maltarich, M. A., & Nyberg, A. J. Human capital resources emergence: The
 
-Rosette, A. S., Leonardelli, G. J., & Phillips, K. W. (2008). The White standard: Racial bias in leader categorization. Journal of Applied Psychology, 93(4), 758–777. https://doi.org/10.1037/0021-9010.93.4.758
+role of social capital. In Press. Academy of Management Review.
+
+Ridgeway, C. L. (1991). The social construction of status value: Gender and other nominal characteristics. Social Forces, 70(2), 367–386. https://doi.org/10.2307/ 2580244
+
+Ridgeway, C. L., & Correll, S. J. (2006). Consensus and the creation of status beliefs.
+
+Social Forces, 85(1), 431–453. https://doi.org/10.1353/sof.2006.0139
+
+Roberson, Q., & Perry, J. L. Inclusive leadership in thought and action: A thematic

@@ -1,41 +1,25 @@
-## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61d676d4bb16f8fc3fdb5c71b8801dd9ebf191c6
+title: S24054-PDF-ENG
+---
+# Mario Sorrenti/Art Partner/Trunk Archive
 
-achieved alone. To do great things, we rely on teammates. And to win,
+When our society talks about success, we tend to focus on individual
 
-team leaders must ﬁnd ways to draw the best physical, mental, and
+success. We obsess about who is the “greatest of all time,” who is most
 
-emotional performance from the players working with them.
+responsible for a win, or what players or coaches a team might add next
 
-Since retiring from football, Tom has been reﬂecting on what he brought
+season to become even better.
 
-to the teams he played on. Naturally, most people focus on his role as
+What can get lost in this way of thinking is that leaders don’t accomplish
 
-a quarterback. But we believe that another set of behaviors—how he
+anything by themselves. In fact, nothing of signiﬁcance in life is
 
-helped the people around him perform better—was a vital part of why
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-those teams won so much.
+1
 
-As part of Tom’s exploration of this topic, he reached out to Nitin, who
-
-has been studying and teaching leadership for nearly four decades.
-
-He’s also a football fan—a Patriots season ticket holder—who has
-
-followed Tom’s career closely. Together, we began to sort through Tom’s
-
-experiences to identify the leadership principles that people can use to
-
-maximize performance from their teammates.
-
-In this article, we’ve distilled this work into a set of seven behaviors.
-
-We’ve written the rest of the piece in Tom’s voice because these ideas
-
-are based on his experiences, but what follows is a collaborative eﬀort.
-
-Although Tom’s experiences took place mostly in sports, we believe that
-
-many of the techniques he used can be applied in any organization.
-
-Video Available Online To watch, please visit this article at HBR.org.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

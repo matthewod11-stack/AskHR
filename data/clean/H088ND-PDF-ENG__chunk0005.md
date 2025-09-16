@@ -1,15 +1,11 @@
-# HBR Staff/Gang Zhou/Getty Images
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbf82c7a5b5e5be00672df9bac7f7b881420b3ed
+title: H088ND-PDF-ENG
+---
+## Stop Overlooking the Leadership Potential of Asian Employees
 
-Asian Americans are crucial in today’s knowledge economy: around
+When companies leverage the diverse talents of their Asian workforce, they can evolve into more global, agile, and powerful hubs of innovation and growth. by Joy Chen and Angela Cheng-Cimini
 
-60% hold at least a bachelor’s degree and, despite representing only
-
-about 7% of the U.S. population, account for 50% of the workforce in
-
-leading Silicon Valley tech companies.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Published on HBR.org / June 03, 2024; updated July 02, 2024 / Reprint H088ND

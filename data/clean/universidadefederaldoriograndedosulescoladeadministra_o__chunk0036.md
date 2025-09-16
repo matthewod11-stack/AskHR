@@ -1,7 +1,15 @@
-## que não costuma deter mão-de-obra especializada ou tempo disponível para fazê-lo
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 3b4536329ecd9ffe2ad99e7feffaff510ec92f57
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# inúmeros instrumentos de
 
-de maneira e com metodologia adequada (BAKKER et al., 2008). Por este ângulo,
+pesquisa organizacional provêm do campo da psicometria - que une a psicologia
 
-5
+com a estatística - para mensurar traços latentes ou variáveis não observáveis como
 
-emerge, há alguns anos, um instrumento de pesquisa simplificado, que se propõe,
+são o engajamento e a satisfação. Porém estes instrumentos são, em sua maioria,
+
+complexos e de difícil aplicação pela área de gestão de pessoas das organizações,

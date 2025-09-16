@@ -1,9 +1,15 @@
-# The Old Strategy Calendar
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d32198169d006523e1a7ce1980c55b2185868d65
+title: R0510D-PDF-ENG
+---
+# The Office of Strategy Management
 
-Strategy management at most companies consists of processes carried out in
+ing and that required management attention and action. In his capacity as a member of the executive team, Russo followed up after each meeting to make sure that the required items were communicated and acted upon. As a re- sult of this proactive involvement in agenda setting and follow-up, the responsibilities of the business strategy function expanded to in- corporate many new cross-enterprise strategy execution processes. Thus was born Chrysler’s Ofﬁce of Strategy Management—a unit cur- rently employing some 13 full-time people who not only manage the company’s strategy but also assist the business units in developing new products. Chrysler’s new approach to strategy execution appears to have paid off handsomely. In 2004, despite a weak domes- tic automobile market, Chrysler successfully launched a series of exciting new cars and generated $1.2 billion in earnings.
 
-isolation by different groups with different reporting lines. That’s why strategy
+much the same way. A central project team at the Pentagon headquarters, under the leader- ship of the Army chief of staff, developed the initial scorecard, which the Army called the Strategic Readiness System (SRS). The project team also selected the software to be used for scorecard reporting and established systems and processes so that the scorecard would be regu- larly populated with valid, timely data. In the next phase, the team helped to cascade score- cards to 13 major subcommands and subse- quently to more than 300 subsidiary commands throughout the world. The centralized project team provided training, consulting, software, and online support for the dispersed project teams. The central team also reviewed the score- cards produced by local project teams to ensure that their goals were aligned with those articu- lated on the chief of staff’s scorecard.
 
-becomes disconnected from the units responsible for executing it.
+The U.S. Army’s Balanced Scorecard project produced an ofﬁce of strategy management in
 
-.
+The Army’s project team, like its counter- part at Chrysler, soon took on more than the traditional roles of scorecard custodian and

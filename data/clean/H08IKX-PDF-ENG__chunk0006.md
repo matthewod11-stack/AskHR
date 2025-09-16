@@ -1,25 +1,23 @@
-# and product decisions.
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dccfa8b45452870e004700f63fbc02aa1ccea18
+title: H08IKX-PDF-ENG
+---
+## safety of employees and customers Best Buy’s highest priority; 2) avoid
 
-Covid-19’s complexity, with its attending uncertainty, had to be
+permanent layoﬀs as long as possible; and 3) make decisions based
 
-embraced before top management could devise solutions to deal with
+on long-term value creation. Most notably, there was no mention of
 
-it. Thus, the three decision-making principles became a guiding light
+preserving near-term earnings.
 
-as management took a series of iterative actions to adapt to Covid-19’s
+Barry had the wisdom to recognize that such a complex problem as
 
-evolving nature. For example, initially Best Buy had to close all 1,025
+Covid-19 could not be solved with the company’s traditional approach to
 
-stores, but then it became one of the ﬁrst national retailers to reopen
+complicated problems— that is, to separate the challenge into its logical
 
-its stores safely a few months later. When the stores closed, Best Buy
+elements, create an approach to solving each of them, and then bring
 
-furloughed 51,300 employees, but many of them were brought back
-
-when stores reopened. Throughout, Barry relied heavily on her ﬁeld
-
-teams to make the best decisions they could, guided by the principles
-
-they had agreed upon. Barry and her team knew that each decision was
-
-provisional and could be revisited and changed as the crisis unfolded.
+them together into a logical whole — as the company used in its pricing

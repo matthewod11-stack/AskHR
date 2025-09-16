@@ -1,27 +1,21 @@
-## from humans to machines and back to humans like never before. We
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d97ca9bd4d404880c8c1660e49f3b69d78ce4cb9
+title: H08GUL-PDF-ENG
+---
+# traditional procedural programming.
 
-examine three cases of where this has occurred and suggest how these
+However, they haven’t up until recently made the widespread
 
-advances in technology could boost the eﬀectiveness of your strategic
+impact expected on management decision-making. One reason is that
 
-decision making to improve competitiveness.
+managerial contexts are much more in ﬂux than other applications.
 
-Evaluating high-return investment opportunities
+Now, because of changes in technology and AI, expert systems are
 
-A German venture capital organization that we’ll call Bavaria Ventures
+becoming increasingly powerful. They can capture actual human
 
-is always on the lookout for ﬁnancially attractive startups. However, as
+expertise with the level of ﬂexibility and adaptability required.
 
-Josef, one of the business partners explains, “We’ve seen double-digit
-
-growth in the number of applications we receive per analyst.” This has
-
-put pressure on the company as the decision-making process involves
-
-vetting each application. “It’s both time consuming and complex,”
-
-Josef continues, “numerous contextual factors must be considered, and
-
-personal judgement based on experience plays a huge role. But the
-
-sheer volume of applications means that we must delegate the ﬁrst stage
+Here we explain how advanced AI is facilitating the transfer of expertise

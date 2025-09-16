@@ -1,7 +1,11 @@
-## health for 77% of employees and relationships outside of work for
+---
+source_path: H0868F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c76c6bf87e061bec53f335396878048261b602b5
+title: H0868F-PDF-ENG
+---
+# outbreaks, and panic attacks.
 
-71%. A March 2022 Gallup analysis found that fewer than one in
+And it’s not just my community. Headspace’s 2024 Workplace State of
 
-four employees felt their organization cared about their well-being —
-
-nearly half the number who said the same at the start of the Covid-19
+Mind study found that work stress has negatively impacted physical

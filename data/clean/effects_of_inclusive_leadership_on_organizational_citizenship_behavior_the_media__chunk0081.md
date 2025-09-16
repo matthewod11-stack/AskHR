@@ -1,13 +1,23 @@
-## transactional Marketing Science Journal, 29, 115–134.
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: 50893a49838147361174361b4ad35a0d7772d55b
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+## exchange. Academy of Management Journal, 37, 656–669.
 
-Masterson S.S., Lewis-McClear K., Goldman B.M. and Taylor M.S. (2000). Integrating justice and social exchange: The differing effects of fair proce- dures and treatment on work relationships. Academy of Management Journal, 43, 738–748.
+Lee K. and Allen N.J. (2002). Organizational citizenship behavior and work- place deviance: The role of affect and cognitions. Journal of Applied Psychology, 87, 131–142.
 
-Moorman R.H. (1991). Relationship between organizational
+LePine J. and Van Dyne L. (2001).Voiceand cooperativebehavioras contrast- ing forms of contextual performance: Evidence of differential relationships with big five personality characteristics and cognitive ability. Journal of Applied Psychology, 86, 326–336.
 
-justice and organizational citizenship behaviors: Do fairness perceptions influence employee citizenship? Journal of Applied Psychology, 76, 845–855.
+Li Z., Zhu T. and Luo F. (2010). A study on the influence of organizational climate on knowledge sharing behavior in IT enterprises. Journal of Computers, 5, 508–515.
 
-Moorman R.H., Blakely G.L. and Niehoff B.P. (1998). Does perceived organi- zational support mediate the relationship between procedural justice and organizational citizenship behavior? Academy of Management Journal, 41, 351–357.
+LianL.K.andTui L.G.(2012).Leadershipstylesandorganizationalcitizenship behavior: The mediating effect of subordinates’ competence and downward influence tactics. Journal of Applied Business and Economics, 13, 59–96. Lindell M.K. and Whitney D.J. (2001). Accounting for common method vari- ance in cross-sectional research designs. Journal of Applied Psychology, 86, 114–121.
 
-Motowidlo S.M. (2003). Job performance. In W.C. Borman, D.R. Ilgen and R. Klimoski (Eds.), Comprehensive Handbook of Psychology. Industrial and Organizational Psychology (vol. 12, pp. 39–53). New York, NY: Wiley. Muhammad A.H. (2014). Perceivedorganizational support and organizational citizenship behavior: The case of Kuwait. International Journal of Business Administration, 5, 59–72.
+Liu Y. (2009). Perceived organizational support and expatriate organizational citizenship behavior:The mediating role of affective commitment towardthe parent company. Personnel Review, 38, 307–319.
 
-Nabatchi T., Bingham L.B. and Good D.H. (2007). Organizational justice and workplace mediation: A six factor model. International Journal of Conflict Management, 18, 148–176.
+Marsick V.J. and Watkins K.E. (2003). Demonstrating the value of an organ- ization’s learning culture: The dimensions of the learning organization ques- tionnaire. Advances in Developing Human Resources, 5, 132–151.
+
+MacKenzie S.B., Podsakoff P.M. and Fetter R. (1993). The impact of organi- zational citizenship behavior on evaluations of salesperson performance. Journal of Marketing, 7, 70–78.
+
+MacKenzie S.B., Podsakoff P.M. and Rich G.R. (2001). Transformational and leadership and salesperson performance. Academy of

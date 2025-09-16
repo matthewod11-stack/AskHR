@@ -1,7 +1,13 @@
-# questions:
+---
+source_path: H07VJW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 243cec84c4d7565a3b02e0034ab88729189cef51
+title: H07VJW-PDF-ENG
+---
+# The “What, So What, Now What” Framework
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Much like the Swiss Army Knife, known for its versatility and
 
-2
+reliability, this structure is ﬂexible and can be used in many diﬀerent
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+communication situations. The structure is comprised of three simple

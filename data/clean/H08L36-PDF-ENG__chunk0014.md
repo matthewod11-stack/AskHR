@@ -1,35 +1,29 @@
-# their manager.
+---
+source_path: H08L36-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 747a0ab894cf63e24e2eec36bf8d91662ff4d716
+title: H08L36-PDF-ENG
+---
+## you, the organization, the team, or the client?
 
-Furthermore, a feedback conversation that ends with suggestions for
+- 3. Feedback Helps Employees Feel Seen
 
-improvement signals, “I care enough about you to have thought about
+According to a 2021 Grant Thornton study, 45% of workers don’t feel
 
-what you can do to improve, grow, and develop.” It’s far more powerful
+that their needs are understood by their employers. Feedback lets the
 
-than empty praise. Psychoanalyst Stephen Grosz writes,“But isn’t this
+employee know that they, and their work, are noticed. Even what might
 
-attentiveness — the feeling that someone is trying to think about us —
+be considered “negative” feedback is an opportunity for the manager to
 
-something we want more than praise?” A critical ingredient to meaning
+connect and better understand the why behind someone’s behavior. A
 
-at work is the feeling of connection to others, and that you matter to
+manager might say, “I noticed that the deliverable you’ve been working
 
-others. Feedback enables that.
+on wasn’t sent on time. Is everything okay?” Perhaps the employee
 
-You can make sure your feedback helps an employee feel seen in a
+responds with their inability to prioritize tasks at that moment. Or a
 
-few simple ways. First, approach feedback as a conversation. Pause,
+lack of understanding of what the deliverable should look like. Either
 
-ask questions, and be curious about why your employee did something
-
-a certain way. Second, always end a feedback conversation with
-
-actionable ways an employee can improve to make sure the employee
-
-knows you care about her development and growth. Make sure you take
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+way, the feedback enables the employee to be understood and seen by

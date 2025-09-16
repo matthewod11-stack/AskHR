@@ -1,11 +1,27 @@
-# shape the future.
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08b6fbf6879cba64c4bf0b0d0b469d1e449ce60a
+title: H078YM-PDF-ENG
+---
+## projects, and a more intensive focus on new target identiﬁcation. This
 
-This article was originally published online on October 4, 2022.
+presentation then became the basis for a series of discussions with her
 
-Ron Ashkenas is a coauthor of the Harvard Business Review Leader’s Handbook and a Partner Emeritus at Schaﬀer Consulting. His previous books include The Boundaryless Organization, The GE Work-Out, and Simply Effective.
+boss, the overall head of R&D, and a number of other colleagues. By the
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+end of her ﬁrst 90 days, she had a focused and prioritized agenda for
 
-6
+change and already had buy-in from the key leaders in her area.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+. . .
+
+Whenever a new senior leader joins an organization, either from within
+
+or from an external ﬁrm, they bring fresh perspectives, new ideas, and
+
+energy for change. To take full advantage of these qualities, don’t mire
+
+them in endless learning about the organization as it is now. Instead,
+
+challenge them to ﬁnd opportunities for learning that will help them

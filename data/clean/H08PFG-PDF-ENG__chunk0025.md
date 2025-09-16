@@ -1,15 +1,13 @@
-## equitable results on his own show and credibility as a fellow journalist
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8984e4864b9af2f5bd83c315ee71cca412a089e
+title: H08PFG-PDF-ENG
+---
+## HBR / Digital Article / To Make Your Workplace Fairer, Take Charge of Its Norms
 
-to make the simple pitch: “We’ve found this helpful in our work, so
+inﬂuential BBC colleagues. Given the grassroots nature of the project
 
-maybe you’ll want to give it a go, too.” Seven years later, more than 750
+when it began in 2017, Atkins had no power to compel or even
 
-other BBC content creating teams had joined the 50:50 Project.
-
-You may think that one person cannot change the norms of a large
-
-organization. But these examples show that when people start with
-
-what they can control—their own daily work—and recruit a small
-
-circle of colleagues to join them, even a single individual can spark
+incentivize anyone to join him. But he had a proven track record of

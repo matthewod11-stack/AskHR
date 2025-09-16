@@ -1,11 +1,15 @@
-# development.
+---
+source_path: H08DSS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b39dc760d32f241613bb401f7555378d5869dba3
+title: H08DSS-PDF-ENG
+---
+# Snezhana Ryzhkova/Getty Images
 
-Engaging in a post-summer reset can help you gain motivation and
+Time off gives us much-needed space to slow down and zoom out.
 
-build momentum for your professional development. The idea is to
+Ideally, we return to work ready to reﬂect on our career progress with a
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+renewed focus on our professional development; however, the pressures
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of our day jobs can lead us to abandon our good intentions and stall our

@@ -1,13 +1,13 @@
-## HBR / Digital Article / Preparing to Announce Layoffs in a Virtual Meeting
+---
+source_path: H07GDE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be0d90d885b22333afaf3213ce24ad2a3eac890a
+title: H07GDE-PDF-ENG
+---
+# just a bit.
 
-Many executives have been coached not to use their hands when
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-speaking. This is terrible advice, as our hands help to convey emotion
+3
 
-and passion. If we’re restricted from using them, we can appear stiﬀ.
-
-Particularly pertinent to this conversation, when we keep our hands out
-
-of view, it can suggest we’re hiding something. For all these reasons,
-
-you should feel encouraged to use your hands naturally when you’re
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

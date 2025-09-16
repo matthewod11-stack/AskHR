@@ -1,23 +1,33 @@
-# At-Will Employment
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 4e8d7579fa3106898accf088c9154bcbec63c066
+title: california_state_university_northridge_1
+---
+# The law and Termination
 
-"This doctrine embraces a rule declaring that employment for an indefinite term
+Employers are utilizing the employment at-will doctrine to terminate employees at
 
-may be terminated at any time for any reason by either the employer or the employee
+any, time for reasons and no reason. Based off this doctrine, it is permissible for an
 
-without any legal liability" (Aalberts, Gaston & Seidman, 1993). The origin and or source
+employer to terminate without any fear oflegal action from the employee. If the employee
 
-of this doctrine remains obscure even to those who deal with at will employees and those
+files a lawsuit, based on wrongful termination, the employer can feel assured that the
 
-29
+employee will not prevail. The fundamental argument from the employer would be the at
 
-who write on the subject. By 1877 the at-will employment doctrine was generally
+will employment status of said employee. In conjunction with, it is their business and they
 
-accepted in American courts. "'It is generally assumed that the at-will rule was the result
+may terminate employees as long as no laws have been violated. On the other hand, the
 
-of an evolution in the master-servant relationship forced by industrialization in the
+employee perspective is different, and he/she may view the termination of their
 
-nineteenth century'' (Aalberts et al., 1993). In addition, employment oflarge number of
+employment as unfair. Just because an employer's action is unfair in the eyes of the
 
-employees by ever-growing powerful employers insisted on new employment standards
+employee does constitute wrongful discharge, perhaps bad policy or judgment. When the
 
-that needed to accommodate new economic conditions (Aalberts et al., 1993).
+employment at-will doctrine has come before courts, both sides have won, employer and
+
+employee. If the employer has the prerogative to terminate at-will, then the question is,
+
+why are such cases being lost?

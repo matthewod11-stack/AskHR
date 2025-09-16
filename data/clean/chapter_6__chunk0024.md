@@ -1,5 +1,7 @@
-# References
-
-Wang, K. T., Heppner, P. P., Wang, L., & Zhu, F. (2015). Cultural intelligence trajectories in new the development of cross-cultural competence.
-
-international students: International Perspectives in Psychology: Research, Practice, Consultation, 4(1), 51–65. Wilson, J., Ward, C., & Fischer, R. (2013). Beyond culture learning theory: What can personality tell us about cultural competence? Journal of Cross-Cultural Psychology, 44, 900–927.
+---
+source_path: chapter_6.md
+pages: n/a-n/a
+chunk_id: 1be6d5a22cbcff3888e3b8f9c58453c045dc9005
+title: chapter_6
+---
+## Francisco, CA: Berrett-Koehler Publishers.

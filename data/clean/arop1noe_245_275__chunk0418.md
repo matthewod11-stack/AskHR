@@ -1,13 +1,9 @@
-# Press
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: fb4231bc4a1c90b82646941ed3dfc877c1cbb6ec
+title: arop1noe_245_275
+---
+# of appraisal. J. Vocat. Behav. 79:505–16
 
-Weststar J. 2009. Worker control and workplace learning: expansion of the job demand control model. Ind.
-
-Relat.: J. Econ. Soc. 48:533–48
-
-274 Noe (cid:1) Clarke (cid:1) Klein
-
-6 2
-
-: 5 2 : 4 0
-
-5 2 0 2
+Wenger E. 1998. Communities of Practice: Learning, Meaning, and Identity. New York: Cambridge Univ.

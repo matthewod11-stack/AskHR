@@ -1,7 +1,9 @@
-## conduct in the workplace on the employees themselves. Complaint
+---
+source_path: H07EE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d60570f6a712a9746c393511459434373247780
+title: H07EE6-PDF-ENG
+---
+# Transfer of Burden
 
-processes can be lengthy with little reward, and disillusionment among
-
-workers — a pervasive feeling that speaking up would not lead to
-
-meaningful change — is a problem for hotline utilization.
+Worker hotlines inherently place some responsibility for monitoring

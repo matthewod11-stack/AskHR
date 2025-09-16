@@ -1,3 +1,7 @@
-# Land Registries Georgia[20]
-
-Land Registration process in Georgia cost varied from 50-200$ and a Minimum of 1 Days. The average price of Registration is expected to come down to 5-10 cents per Registry after the pilot launch. Georgia had maintained a verified account of land titles in its NAPR database, which was crucial for the success of a Blockchain project. Bitfury did not attempt to build a brand new Blockchain based land registry. It only created a time stamping layer on top of the existing digital land records of NAPR. As part of the proposed Phase 2, Georgian citizens will be able to access their property information on the NAPR website and put it up for sale. The network nodes verify that the buyer has sufficient funds and that the seller owns the property before the transaction is concluded.
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 185ac94beb94acee2748702530bac85d3cd44ba8
+title: final_2019_jan_feb_jbs_pmd
+---
+# Implementation Use Case

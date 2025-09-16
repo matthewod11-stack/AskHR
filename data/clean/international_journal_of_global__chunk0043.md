@@ -1,15 +1,15 @@
-# (Vol. 41). HeinOnline.
+---
+source_path: international_journal_of_global.md
+pages: n/a-n/a
+chunk_id: eafa1d17453da14460d73157620d8f938ca44f35
+title: international_journal_of_global
+---
+## companies. Performance Improvement Quarterly, 23(2), 5–31.
 
-Lyles, K. D. (2019). A Review of Succession Planning and Management Efforts at an Academic Health Science Center
+Laratta, J. L., Reddy, H. P., Bratcher, K. R., McGraw, K. E., Carreon, L. Y., & Owens, R. K. (2018). Outcomes and revision rates following multilevel anterior cervical discectomy and fusion. Journal of Spine Surgery, 4(3), 496– 500. https://doi.org/10.21037/jss.2018.06.16.
 
-in the Southeastern Portion of the United States. The University of Mississippi Medical Center.
+Leskiw, S., & Singh, P. (2007). Leadership development: Learning from best practices. Leadership & Organization
 
-Mandi, A. R. (2008). A case study exploring succession planning: Supported by a quantitative analysis of
+Development Journal, 28(5), 444–464. https://doi.org/10.1108/01437730710761742
 
-governmental organizations in the Kingdom of Bahrain. The George Washington University.
-
-Mateso, P. E. E. (2010). Understanding succession planning and management efforts at Midwestern University: A
-
-mixed methods study. Bowling Green State University.
-
-Mazzucato, M., & Perez, C. (2015). Innovation as growth policy. In The Triple Challenge for Europe. Oxford
+Liebman, W. B. (2016). Labor Law and the NLRB: Friend or For to Labor and Non-Union Workers? In Harbinger

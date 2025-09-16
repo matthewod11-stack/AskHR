@@ -1,5 +1,11 @@
-## Corresponding author: Ricardo Colomo-Palacios (ricardo.colomo-palacios@hiof.no)
+---
+source_path: from_big_data_to_deep_data_to_support_people_analytics_for_employee_attrition_pr.md
+pages: n/a-n/a
+chunk_id: 00a87cd298af1e367d8e52d8c3d8d89330162521
+title: from_big_data_to_deep_data_to_support_people_analytics_for_employee_attrition_pr
+---
+## Digital Object Identifier 10.1109/ACCESS.2021.3074559
 
-This work was supported in part by the ERASMUS + KA2 Projects ‘‘Information Technology Governance for Tunisian Universities’’ under Grant 561614-EPP-1-2015-1-ES-EPPKA2-CBHE-JP.
+From Big Data to Deep Data to Support People Analytics for Employee Attrition Prediction
 
-ABSTRACT In the era of data science and big data analytics, people analytics help organizations and their human resources (HR) managers to reduce attrition by changing the way of attracting and retaining talent. In this context, employee attrition presents a critical problem and a big risk for organizations as it affects not only their productivity but also their planning continuity. In this context, the salient contributions of this research are as follows. Firstly, we propose a people analytics approach to predict employee attrition that shifts from a big data to a deep data context by focusing on data quality instead of its quantity. In fact, this deep data-driven approach is based on a mixed method to construct a relevant employee attrition model in order to identify key employee features inﬂuencing his/her attrition. In this method, we started thinking ‘big’ by collecting most of the common features from the literature (an exploratory research) then we tried thinking ‘deep’ by ﬁltering and selecting the most important features using survey and feature selection algorithms (a quantitative method). Secondly, this attrition prediction approach is based on machine, deep and ensemble learning models and is experimented on a large-sized and a medium-sized simulated human resources datasets and then a real small-sized dataset from a total of 450 responses. Our approach achieves higher accuracy (0.96, 0.98 and 0.99 respectively) for the three datasets when compared previous solutions. Finally, while rewards and payments are generally considered as the most important keys to retention, our ﬁndings indicate that ‘business travel’, which is less common in the literature, is the leading motivator for employees and must be considered within HR policies to retention.
+NESRINE BEN YAHIA 1, JIHEN HLEL1, AND RICARDO COLOMO-PALACIOS 2, (Senior Member, IEEE) 1RIADI Laboratory, National School of Computer Sciences, University of Manouba, Manouba 2010, Tunisia 2Computer Science Department, Østfold University College, 1783 Halden, Norway

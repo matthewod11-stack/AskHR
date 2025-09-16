@@ -1,23 +1,33 @@
-## HBR / Digital Article / Research: How to Delegate Decision-Making Strategically
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e446f10267b581d9f867e5c87bd3c3e0f5f08f79
+title: H08DAJ-PDF-ENG
+---
+## The Interpersonal Costs of Decision Delegation
 
-candidates through an online chat. One candidate asked participants
+To better understand how delegation impacts employees’ desire to
 
-for advice and the other delegated a choice to them. Participants were
+work with delegators in the future, we asked 181 employees to recall a
 
-signiﬁcantly more likely to hire the advice seeker, rather than the
+time they had either been asked to make a decision or been asked for
 
-delegating candidate.
+advice. Then we asked participants how willing they would be to help
 
-We found the same pattern in another experiment involving 173 online
+the requester with a decision in the future. Those who recalled being
 
-workers. The participants were instructed that they would be working
+delegated to were less willing to help the same person with a future
 
-on a team and were connected with a teammate in a chat. In the chat,
+decision – even controlling for whether the outcome of the decision was
 
-half of the teammates asked the worker to make a decision and the other
+likely to be positive or negative.
 
-half asked the worker for advice on the same decision. After ﬁelding this
+In another study of 195 participants, we asked people to decide between
 
-request – to either make or provide advice on a decision – workers had
+two candidates for a managerial role, but ﬁrst they interacted with the
 
-the option to continue working with the same teammate or to end their
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

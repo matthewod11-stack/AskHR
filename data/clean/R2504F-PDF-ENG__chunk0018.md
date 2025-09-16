@@ -1,15 +1,25 @@
-## HBR / Magazine Article / Your Company Needs an Eldercare Policy
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18bc3060d2ad44c630164123e32648470a790655
+title: R2504F-PDF-ENG
+---
+## Whether it’s eldercare, childcare, or both, the demands of caregiving can
 
-family caregiving responsibilities as a key motivation for retiring earlier
+be overwhelming. A 2024 survey from AARP and S&P Global found that
 
-than planned.
+half of working caregivers have to make changes to their work schedules
 
-Those who don’t take such measures often struggle to meet their
+because of caregiving responsibilities. Many also have to make drastic
 
-work commitments and maintain work-life balance. The majority
+adjustments, such as taking a leave of absence (32%), reducing hours
 
-report being distracted at work or being unable to do their best. This
+or shifting from full-time to part-time (27%), turning down a promotion
 
-disruption takes a toll on employers in terms of lost productivity
+(16%), or not working for a period (16%). One in six retirees today cite
 
-and lower operational performance. Caregiving also takes a toll on
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

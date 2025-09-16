@@ -1,27 +1,29 @@
-# making.
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: 7843065bdec82142011b50d436e00ad918d6ab64
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# each athlete.
 
-71
+70
 
-68
+57
 
-75
+66
 
-Encourage athletes to make sugges-
+Democratic Behavior Ask for the opinioaof the athletes on strategies for specific competitions.
 
-tions for ways of conducting practices.
+62
 
-Let the group set its own goals. Let the athletes try their own way even
+54
 
-39 44
+61
 
-62 34
+Get group approval on important matters before going ahead. Let his athletes share In decision
 
-62 50
+53
 
-if they make mistakes.
+46
 
-42
-
-41
-
-48
+63

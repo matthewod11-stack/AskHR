@@ -1,5 +1,7 @@
-## workforce. Against this backdrop, employee learning and development
-
-is more critical than ever. CLOs who adopt these practices will be able
-
-to help their organizations adapt successfully by being more tied to
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9bbd359c2180a806b531aea292bec5238fa28381
+title: H08JKA-PDF-ENG
+---
+# HBR / Digital Article / Connect Your Learning Programs to Your Company’s Strategy

@@ -1,15 +1,25 @@
-# A Surprising Symmetry
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 09d745200b502645096dcc42b012cb88eac42236
+title: H07XDL-PDF-ENG (1)
+---
+## employees and managers, C-suite executives, board members, and
 
-Every corporate strategy project is diﬀerent. But the hundreds that
+retirees — to help them develop their individual life strategies.
 
-we’ve conducted for large organizations have had commonalities,
+You can create a life strategy at any time, but it can feel especially
 
-including the use of certain methodologies and tools. We typically work
+appropriate at certain milestones — a school graduation, the start of
 
-through seven steps, each guided by a question:
+your ﬁrst job, a promotion, becoming an empty-nester, retiring — or
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+after a major life event, such as a health scare, a divorce, the loss of a job,
 
-2
+a midlife crisis, or the death of a loved one. When you have a strategy,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you will be better able to navigate all those transitions and diﬃcult
+
+moments, building resilience and ﬁnding more joy and fulﬁlment while
+
+minimizing stress. This article will help you get started.

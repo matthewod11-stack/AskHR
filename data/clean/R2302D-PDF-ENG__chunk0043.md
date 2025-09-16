@@ -1,29 +1,31 @@
-# more-inclusive realities.”
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2eff3b799b4ab034a7bec04e9785a3cbf080bac3
+title: R2302D-PDF-ENG
+---
+## HBR / Magazine Article / Redesigning How We Work
 
-Companies can learn from the outside as well. That’s what Phil Thomas
+people and its clients. The pandemic induced its leaders to reimagine
 
-and his team at Ascential Futures have done. Thomas began by asking
+how to onboard new hires (it onboarded 150,000 Accenture employees
 
-various executives of other companies what challenges the move to
+in its metaverse in 2022), how to train them (for example, by creating
 
-hybrid work had presented for them and what principles they had
+realistic simulations with ﬁctitious clients), and how to connect its
 
-adopted to guide them through the move. He then chose six of them, from companies that had adopted very diﬀerent approaches, and
+workforce in ways it could never achieve in the real world at a
 
-interviewed them in depth. Using what he learned in those interviews,
+global scale. “When you hear colleagues’ voices right next to you,
 
-he created a 30-minute ﬁlm that he used to launch a very speciﬁc
+and you walk the virtual halls together, it’s much more intimate,
 
-conversation about hybrid work with his own leadership team. “What
+energizing, and memorable than hours of video calls,” says Ginny
 
-resonates with us?” he asked his colleagues after they had watched the
+Ziegler, the chief marketing and communications oﬃcer at Accenture
 
-ﬁlm. “What do we want, and what do we absolutely not want?”
+North America. “It is a powerful way for a geographically dispersed
 
-Each company will have diﬀerent answers to such questions, of course.
+workforce to collaborate, learn, build communities, and even socialize.
 
-But the approach that Thomas and his team adopted—collective,
-
-methodical, thoughtful, and drawing on the experience of others—is
-
-one that organizations should consider as they think about their long-
+The metaverse is also an equalizer of sorts, because it helps us create

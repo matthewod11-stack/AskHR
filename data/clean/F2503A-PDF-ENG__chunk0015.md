@@ -1,11 +1,25 @@
-# LinkedIn.
+---
+source_path: F2503A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5637fdd236e3c3d2345663aa2a33e776129eb9f
+title: F2503A-PDF-ENG
+---
+## for formal communications, such as shareholder letters or strategy
 
-“The target use case today should really be communicating with
+memos, according to Choudhury’s research. Avoid it for personal
 
-strangers or automating the drab parts of writing,” Choudhury says.
+communications, especially with people who know you well.
 
-“You could use AI to answer questions about your pricing strategy or
+In the Zapier experiment, employees with longer tenures were more
 
-what you expect to happen to interest rates for the next year. But I
+likely to spot AI-generated responses. Those who had been around
 
-wouldn’t use it to write an email to a board member about your last
+three years or more, for example, had a higher accuracy rate in their
+
+guesses (62%) than newer workers did (58%). Choudhury believes their
+
+familiarity with Foster’s communication style limited the bot’s success
+
+in imitating him. But a CEO’s personal style is much less discernible
+
+in formal writing than it is in an email to a subordinate or a post on

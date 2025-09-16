@@ -1,27 +1,21 @@
-# the emergence of new
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 87deb1de1ed176539d1eef038346e2b091a5e261
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# emergence of boundaryless careers.
 
-organisational forms such as network organisations (Miles and Snow, 1986; Powell,
+Although recognising that there are a number of meanings of boundaryless
 
-- 1990) and the emergence of a ‘new deal’ where individuals are more concerned with
+careers (c.f. Arthur and Rousseau, 1996: 6), in general terms boundaryless careers are
 
-13
+defined as “the opposite of organisational careers- [i.e.] careers that unfold in a single
 
-independent rather than organisational goals (Arthur et al., 2005; Becker and Haunschild,
+employment setting” (Arthur and Rousseau, 1996: 5). The antecedents of the emergence
 
-2003; Cappelli, 1999). An emerging theme within the literature recognises that careers
+of the boundaryless career lie to a significant degree in decreasing ability of large
 
-can have organisational effects- a perspective which stands in contrast to much of the
+organisations to provide internal careers (Cappelli, 1999; Kanter, 1989), owing to
 
-traditional career literature which assumes that organisations have career effects (Arthur,
-
-1994: 301). In this regard, Currie, Tempest and Starkey (2006: 755) argue, based on their
-
-case research, that “the rise of boundaryless careers has left employers marginalized in
-
-unforeseen ways”.
-
-This suggests that solely relying on the internal development and sourcing, with a
-
-general disregard for the external sourcing of talent, is at odds with an increasing
-
-realization that careers are more regularly characterized by inter-firm mobility in the
+flattening organizational hierarchies (Cappelli, 1999),

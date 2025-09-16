@@ -1,11 +1,11 @@
-# rights.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df4b6f2d9e2f8ec364b8641315b3e2f38a0013d8
+title: R2006F-PDF-ENG
+---
+## targets. Whereas the fundamental principle of a conventional business
 
-Thus the link between how Apple is organized and the type of
+unit structure is to align accountability and control, the fundamental
 
-innovations it produces is clear. As Chandler famously argued,
-
-“structure follows strategy”—even though Apple doesn’t use the
-
-structure that he anticipated large multinationals would adopt.
-
-Now let’s turn to the leadership model underlying Apple’s structure.
+principle of a functional organization is to align expertise and decision

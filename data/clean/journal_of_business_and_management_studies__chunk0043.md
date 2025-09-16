@@ -1,7 +1,9 @@
-# https://www.academia.edu/98899513/Machine_Learning_for_Predicting_Employee_Attrition?sm=b
+---
+source_path: journal_of_business_and_management_studies.md
+pages: n/a-n/a
+chunk_id: 8b7f029cb846eddce4fcf80d52ed0baef76e76e0
+title: journal_of_business_and_management_studies
+---
+## approaches. Applied Sciences, 12(13), 6424.
 
-[13] Zhao, Y., Hryniewicki, M. K., Cheng, F., Fu, B., & Zhu, X. (2019). Employee turnover prediction with machine learning: A reliable approach.
-
-In Intelligent Systems and Applications: Proceedings of the 2018 Intelligent Systems Conference (IntelliSys) Volume 2 (737-758). Springer International Publishing.
-
-Page | 59
+[12] Sani, N. S. (2023). Machine learning for predicting employee attrition. www.academia.edu.

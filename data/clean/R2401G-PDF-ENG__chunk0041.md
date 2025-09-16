@@ -1,11 +1,17 @@
-# College Football Campus Tour
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b4bddba2c062d8e193d9219b919e267e1f6ef45
+title: R2401G-PDF-ENG
+---
+## Collaboration Overload, Rob Cross describes “Scott” as an executive
 
-By the time Cross was called in to help, Scott was working 16 hours a day,
+who was “ﬂying up the hierarchy” of a large company until he took
 
-seven days a week, and still falling behind. When Cross examined the
+charge of three big units—some 5,000 people. Scott had had just a few
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+direct reports in past roles; he had 16 this time. He wanted to be “less
 
-9
+hierarchical,” so he urged people “to bring him problems and concerns
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or to include him in discussions.”

@@ -1,9 +1,17 @@
-# of rationality.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 2ec64e54454dd657238b2688cd2fc67c291cd433
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-The perspective that might be called “economic implications of how the brain
+via introspection and “thinking aloud” protocols. Both cleanly factored emotional
 
-works” is newer. It is being propelled into the foreground by a number of cultural
+aspects of action, allowing them to enter models of choice or decision only through
 
-and technical forces, but most notably by the very rapid gains in psychological mea-
+concepts such as value, utility, goal, or aspiration level. In this approach, models of
 
-surement capability that are discussed below. In this approach the starting point is
+economic action based on empirical observation are framed as conforming with, or
+
+systematically deviating from, behavior expected under conventional assumptions

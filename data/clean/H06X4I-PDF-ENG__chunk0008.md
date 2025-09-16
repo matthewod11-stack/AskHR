@@ -1,33 +1,13 @@
-# HBR / Digital Article / Remote Work Has Opened the Door to a New Approach to Hiring
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8a59f3798110b5701a054a5e4363c09bb1de0ee
+title: H06X4I-PDF-ENG
+---
+## accurate description of the remote work evolution for many ﬁrms. The
 
-forced experiment with remote work over the past two years has shown
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-some organizations the upside of approaches to work they would never
+1
 
-have otherwise considered. It also showed workers that they aren’t as
-
-locked into the traditional, in-oﬃce 9-5 at one company as they might
-
-have thought. For both, there’s no going back.
-
-Hybrid and remote work aren’t the end of the story, however. The new
-
-capabilities organizations have for remote work have opened up new
-
-possibilities, and now is the time for leaders to assess how other changes
-
-to the employment model could work for them.
-
-A ﬂexible or open talent model is particularly worth considering.
-
-Flexible and open talent are broad terms, covering scenarios from
-
-local freelancers coming on-premises to globally distributed online
-
-contractors to innovation sourcing through tournaments or contests. The deﬁning feature is project-based or temporary work that is staﬀed
-
-with workers who are not permanently attached to a company. If done
-
-correctly, these ways of working can help organizations access skilled
-
-talent while providing the ﬂexibility that many workers increasingly
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

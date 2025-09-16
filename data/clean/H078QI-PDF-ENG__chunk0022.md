@@ -1,19 +1,15 @@
-## universal beneﬁt, and systems improvement as other steps in the
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edb05caa5688990858ffed695671d1f98c88f112
+title: H078QI-PDF-ENG
+---
+# timeline.
 
-process. Finally, regroup the organization around the next objective to
+- 5. Sustain momentum by afﬁrming effort and celebrating wins.
 
-meet, and repeat these steps as needed.
+Using DEI-related metrics, regularly identify and celebrate wins and
 
-To genuinely address and resolve inequities, leaders must ﬁrst
+achievements while praising the shared eﬀort of all stakeholder groups.
 
-understand the nuances and obstacles that so frequently stymie the
-
-initiatives they undertake. Backlash is no diﬀerent, and what can appear
-
-at ﬁrst glance to be knee-jerk defensiveness, ignorance, or fragility,
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Ensure that these celebrations use a similar framing of fairness,

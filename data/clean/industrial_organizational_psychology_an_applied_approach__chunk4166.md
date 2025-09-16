@@ -1,3 +1,11 @@
-## Dougherty, T. W., Turban, D. B., & Callender, J. C. (1994).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: fcc9e116ec9b2031ad3f175b7815a9899131b04b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Times, October 4, 3.
 
-Conﬁ rming ﬁ rst impressions in the employment interview: A ﬁ eld study of interviewer behavior. Journal of Applied Psychology, 79(5), 659–665.
+Dormann, C., & Zapf, D. (2001). Job satisfaction: A meta-
+
+analysis of stabilities. Journal of Organizational Behavior, 22, 483–504.

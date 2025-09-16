@@ -1,7 +1,19 @@
-# leadership opportunities.
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5a118e3302201ddc0031b6c1a7bb10fce2d10fb2
+title: H08N2T-PDF-ENG
+---
+## with your values, oﬀer meaningful work, and foster personal growth—
 
-- A mix of A’s and B’s: You have a balanced and ﬂexible career
+even if they don’t come with the highest salary or status.
 
-orientation—valuing both work enjoyment and external rewards. This
+- Mostly B’s: You are driven by extrinsic motivations like ﬁnancial
 
-suggests that you may need to carefully weigh trade-oﬀs between job
+success, career advancement, recognition, and stability. You’re willing
+
+to make sacriﬁces, work long hours, or endure less-fulﬁlling work
+
+experiences if it means reaching your long-term career goals faster.
+
+Your career pivot should focus on maximizing earnings, prestige, and

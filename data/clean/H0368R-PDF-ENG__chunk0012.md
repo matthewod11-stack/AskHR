@@ -1,5 +1,7 @@
-## — from “Main Street” businesses to VC-backed Silicon Valley ﬁrms. We
-
-can see what happens to these ﬁrms after they have been founded,
-
-and whether, for example, immigrant-founded ﬁrms perform diﬀerently
+---
+source_path: H0368R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4445365ad3cd78ab592cb0c64aa4afbaf1883374
+title: H0368R-PDF-ENG
+---
+# HBR / Digital Article / Immigrants Play a Disproportionate Role in American Entrepren…

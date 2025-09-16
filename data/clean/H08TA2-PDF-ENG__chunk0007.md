@@ -1,37 +1,29 @@
-# HBR / Digital Article / Why Senior Leaders Should Stop Having So Many One-on-Ones
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5561f0c0da28727cf07d46b64bea0ae327166fc
+title: H08TA2-PDF-ENG
+---
+## as necessary for alignment, decision-making, or relationship
 
-truth: The more 1:1 meetings senior executives have, the more
+management. But at the top of an enterprise, the very structure of these
 
-fragmented and functionally siloed the organization can become.
+meetings is working against the organization’s best interests. While
 
-It might be easy to conclude that Melissa should have known better not
+there’s lots of information available about how to optimize or improve
 
-to assume her functional VPs had consulted with key peers impacted by
+your 1:1 meetings, no amount of improvement will help meetings that
 
-their decisions, or that she simply should have said, “Before we move
+shouldn’t be happening in the ﬁrst place.
 
-ahead, why don’t you loop John in to make sure this doesn’t cause any
+Lower in the organization, 1:1 meetings serve diﬀerent purposes that
 
-issues for him.” Fair enough. But even if that had happened, it wouldn’t
+may make more sense when people are guiding middle managers,
 
-entirely eliminate the challenges of fragmentation caused by executive
+supervisors, or individual contributors. But here’s the counterintuitive
 
-1:1s. And worse, it may have led to ﬁve additional meetings she would
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-have had to referee.
+2
 
-At the executive level, no meaningful decision exists in a vacuum. As
-
-was the case with Melissa’s team, what the engineering VP does is
-
-signiﬁcantly impacted by a decision the VP of marketing makes. The VP
-
-of operations’ decision had signiﬁcant implications for the VP of quality.
-
-Yet Melissa’s meetings with those key leaders resulted in decisions—and
-
-assumptions—that others didn’t hear, couldn’t weigh in on, or later
-
-had to be retroactively briefed about. There was no intended malice or
-
-attempt to usurp others’ inﬂuence. Just the natural centrifugal force of a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,15 @@
-# Tett et al. (1994)
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b10e779c9ecc9a2a0d060d94a7a67b179114f4cb
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Personality (overall)
 
-Unstructured interview
+.12
 
-.11
+.17
 
-.20
+97
 
-15
-
-7,308
+13,521

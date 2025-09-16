@@ -1,1 +1,15 @@
-# TABLE 7.1 Considerations to Minimize the
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8141940e456db81205f77a77d7a905d970a5b4e1
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 7 • Implementing a Performance Management System 173
+
+employees to be exposed repeatedly to the same message delivered using different communication channels. Of course, make sure the channels all convey consistent information.
+
+- Use credible communicators. Use credible sources to communicate the performance management system. In companies where HR department members are perceived as “HR cops” because they continually emphasize what cannot be done as opposed to how one’s job can be done better, it may be better to use a different department or group. Instead, in such situations, communication should be delivered by people who are trusted and admired within the organization. It also helps if those delivering the communication and endorsing the system are regarded as key and powerful organizational players.
+
+- Say it, and then say it again. Repeat the information frequently. Since people can absorb only a small amount of information at a time, the information must be repeated frequently.
+
+Table 7.1 summarizes what can be done to minimize cognitive biases, including selective exposure, selective perception, and selective retention. Consider the Department of Justice communication process, described earlier in this chapter. That plan attempts to minimize negative biases and gain support for the performance management system. For example, although it is a government agency, and the performance management system is a federal mandate, the OPM offered to help managers tailor the systems to their specific agencies. This is likely to help employees become more involved and is also helpful in addressing the specific needs of the employees in the various agencies. The memoran- dum from the director of the OPM, who is also a credible source of information on both the performance management system and the president’s policies, sets an extremely positive tone and appeals to employees’ patriotism by including a message from the president reminding them of the importance of serving the “American people.” The communication plan also provides facts and conclusions about the system. For example, it explains the reasoning for realigning the performance management system with the fiscal year, how to carry out this time line, and the importance of doing so. The communi- cation plan is also posted on the department’s Web site. There are also links to other Web sites with information about performance management. It is not clear whether the Department of Justice distributed this memorandum and accompanying system informa- tion using other media. Finally, the information presented in the memorandum and in the

@@ -1,5 +1,7 @@
-## How LinkedIn Redesigned Its HQ for Hybrid Work
-
-Three lessons to create an office people want to work in. by Lisa Britz and Robert Norwood
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07AXI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d62911663163f837a2ea6db3456783b57fe323a
+title: H07AXI-PDF-ENG
+---
+# Design Thinking

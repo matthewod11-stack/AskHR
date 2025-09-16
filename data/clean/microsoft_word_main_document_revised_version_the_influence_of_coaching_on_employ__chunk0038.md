@@ -1,7 +1,9 @@
-# hierarchical linear modeling, The International Journal of Human Resource Management, 20(10), 2110-2134.
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: 8c8cce61a000efd68f8559748e7f535e42ea56b7
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+# References
 
-Bagozzi, R. & Yi, Y. (1988). On the Evaluation of Structural Equation Models, Journal of the Academy of Marketing
-
-Science, 16(1), 74-84.
-
-Byrne, B. (2010). Structural Equation Modeling with AMOS: basic concepts applications and programming (2nd
+Agarwal, R., Angst, C. M. & Magni, M. (2009). The performance effects of coaching: a multilevel analysis using

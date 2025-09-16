@@ -1,21 +1,15 @@
-# resources.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 89ce9887806ef5bdef8d5f07c805e41433a5c44a
+title: issn_print_0976_013x
+---
+##  Form an inclusion council with genuine influence and power.
 
- Provide workers with a safe space to voice their concerns.
+ Value differences and create an environment where people can feel comfortable
 
- Benchmark key aspects of your organization’s culture—and understand the employee
+bringing their “full selves” to work.
 
-experience—before making changes to promote inclusivity.
+
 
- Remember that daily interactions are the most telling sign of whether or not your
-
-company has an inclusive culture.
-
-According to Cox and Lancefield (2021), ‘There’s widespread agreement on the need to
-
-improve diversity and inclusion in the workplace. But it’s not easy to deliver on the promises
-
-made. It’s time to adopt a more systematic, coherent approach. By following these five
-
-strategies, leaders can make more progress and create a more representative, fair, and high-
-
-performing workforce’.
+Identify underrepresented groups’ needs and give them necessary support and

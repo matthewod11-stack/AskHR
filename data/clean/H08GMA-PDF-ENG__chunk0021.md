@@ -1,43 +1,17 @@
-# household responsibilities.
+---
+source_path: H08GMA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 840f0d7fe4eabd7a1a868ba549d3973c50bb9679
+title: H08GMA-PDF-ENG
+---
+# HBR / Digital Article / Younger Women’s Experiences Show Gender Equity at Work Isn…
 
-Younger women face ageism.
+Younger women do a disproportionate amount of housework and childcare.
 
-Finally, younger women are the most likely to confront ageism at work.
+Things are at a standstill on the home front as well, with younger
 
-While unfair treatment based on a person’s age is most commonly
+women with partners reporting that they’re doing the same amount of
 
-thought to harm older adults, we found that “youngism” is just as
+housework and childcare as older women. Across the generations, over
 
-signiﬁcant a problem. Almost half of younger women say their age has
-
-negatively impacted their careers — that’s more than any other age
-
-group. And younger women are nearly twice as likely as younger men
-
-to report unwanted attention being drawn to their age. Ageism impacts
-
-older employees, too, but to a lesser extent, and older men and older
-
-women experience it at fairly similar rates.
-
-Given the current state of aﬀairs, perhaps it’s not surprising that
-
-younger women are twice as likely as older women to say their gender
-
-will make it harder for them to get ahead.
-
-Younger men don’t prioritize gender equity.
-
-What’s more, the next generation of men doesn’t appear to be pushing
-
-for change. While the younger women in our study stand out as the
-
-most committed to gender and racial diversity issues, younger men are
-
-clearly the least. And over the past ﬁve years, the percentage of younger
-
-men who claim gender and racial diversity as high personal priorities
-
-also declined signiﬁcantly. This is all consistent with other research
-
-suggesting that Gen Z men may care even less about gender equality
+a third of women with partners continue to take on most or all of the

@@ -1,25 +1,17 @@
-## better inform workers about professional development opportunities
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c3906d8283765d18996850fafcb373659c259da
+title: R2504L-PDF-ENG
+---
+## an array of peer assessments, such as 360-degree feedback, that focus
 
-by making job descriptions more detailed and explicit. Companies can
+on behavior and interpersonal skills. These reports are subjective, of
 
-expose employees to possible career paths using internal job markets,
+course, but in remote contexts there are few better alternatives.
 
-or talent marketplaces, which allow employees to apply for other jobs
+Managers should be aware that remote or hybrid workers may not know
 
-in the ﬁrm, work temporarily on projects, and take side assignments
+what jobs they might aspire to or would be suited for because they
 
-without leaving their current job. (See “How to Design an Internal
-
-Talent Marketplace,” HBR, May–June 2023.) All these opportunities
-
-help employees build relationships across units and functions.
-
-Establish in-ofﬁce anchor days. Anchor days for hybrid workforces are
-
-only worthwhile if everyone can actually be there, so attendance should
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+lack the opportunity to observe people in other roles. Managers can

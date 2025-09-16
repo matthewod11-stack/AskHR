@@ -1,23 +1,21 @@
-# helplessness
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5d749696ff40de1119fddab5be6e3ba30c2ec55
+title: H08VFN-PDF-ENG
+---
+## Within business settings, failures of initiative and emotional conﬁdence
 
-- Root Cause: A leader has no plan for dealing with a situation
+are more prevalent in managers who are new to leadership tasks;
 
-VUCA causes stress, which activates the brain’s threat response, aka
+failures of imagination and strategic vision are more prevalent in
 
-ﬁght-or-ﬂight, triggering fear. Fear evolved because the brain has
+managers on the cusp of being promoted to an executive level.
 
-learned, from millions of years of grappling with volatility, that
+Here’s how to diagnose and ﬁx these failures.
 
-planning must accelerate to match the rate of change. If you can’t spin
+- 1. Failure of Initiative
 
-up your planning fast enough, fear therefore intercedes to provide its
+- Special Ops Name: The Fear Box
 
-own plan, which is typically either to escape the situation or to copy
-
-what people around you are doing, solving the problem of no plan by
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Diagnostic Indicators: Blank mind, freezing, submissiveness,

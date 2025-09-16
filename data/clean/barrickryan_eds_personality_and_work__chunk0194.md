@@ -1,3 +1,9 @@
-## ies. Journal of Counseling Psychology, 30, 483–498.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a9c5f9478c2b68d481491d11a8ed38b056f45db0
+title: barrickryan_eds_personality_and_work
+---
+## happiness. Journal of Counseling Psychology, 24, 318–355.
 
-Fredrickson, B. L. (1998). What good are positive emotions? Review of
+Fordyce, M. W. (1983). A program to increase happiness: Further stud-

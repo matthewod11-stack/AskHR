@@ -1,17 +1,25 @@
-## HBR / Magazine Article / How Apple Is Organized for Innovation
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea48d79de213d54b9de0b093027ebc688a401bea
+title: R2006F-PDF-ENG
+---
+## imposes on the several hundred VPs and directors below the executive
 
-Cognizant of this problem, Apple has been quite disciplined about
+team. If Apple were to cap the size or scope of a senior leader’s
 
-limiting the number of senior positions to minimize how many leaders
+organization to limit the number and breadth of details that the leader
 
-must be involved in any cross-functional activity. In 2006, the year
+is expected to own, the company would need to hugely expand the
 
-before the iPhone’s launch, the company had some 17,000 employees;
+number of senior leaders, making the kind of collaboration that has
 
-by 2019 that number had grown more than eightfold, to 137,000.
+worked so well impossible to preserve.
 
-Meanwhile, the number of VPs approximately doubled, from 50 to 96.
+Apple Park, Apple’s corporate headquarters in Cupertino, California, opened in 2017. Mikael Jansson/ Trunk Archive
 
-The inevitable result is that senior leaders head larger and more diverse
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-teams of experts, meaning more details to oversee and new areas of
+16
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

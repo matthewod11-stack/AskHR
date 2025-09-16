@@ -1,7 +1,9 @@
-# II. Answers from Research
+---
+source_path: microsoft_word_final_engagement_doc.md
+pages: n/a-n/a
+chunk_id: fcc07c003123a13e6d862fefc98150f986743794
+title: microsoft_word_final_engagement_doc
+---
+# International Differences in Engagement
 
-The research on engagement suggests several themes are relevant to understanding the issue of engagement. Some studies examine how engagement affects the attitudes and work behaviors of employees that are indirect factors in business success. Other studies examine the cumulative effects of engagement levels among workgroups and companies, and how such engagement is linked to overall business success and corporate financial performance.
-
-(cid:82)(cid:101)(cid:115)(cid:101)(cid:97)(cid:114)(cid:99)(cid:104)(cid:32)(cid:87)(cid:111)(cid:114)(cid:107)(cid:115)(cid:32)(cid:32)(cid:32)(cid:74)(cid:117)(cid:110)(cid:101)(cid:32)(cid:50)(cid:48)(cid:48)(cid:57)(cid:32)
-
-(cid:32)
+As more companies have a global workforce, it is of general interest to explore possible differences in engagement between countries. Many of the early studies of employee engagement conducted by consulting companies were done in the United States. Studies using the UWES measure have been done in different countries and the results have found some differences between the primarily European countries, with engagement being highest among employees from Finland and France and lowest in Canada.12 In 2005, Towers Perrin published the findings from a survey of 85,000 employees from around the world.17 The detailed findings revealed a wide range in engagement levels between countries: Mexico (40%) and Brazil (31%) had the highest percentage of their workforce who were highly engaged, followed by the United States (21%) and Canada (17%), with Europe (11%) and Asia (7%) having the lowest levels of employee engagement. A 2007 Towers Perrin study with data from over 88,000 employees in 18 countries also found wide variability in engagement levels between countries.19 These studies indicate that there are some differences in work engagement between countries and cultures that merit further analysis and exploration. However, due to the differences in occupational groups in the different samples and many other factors involved, the interpretation of differences between countries in engagement scores is difficult.

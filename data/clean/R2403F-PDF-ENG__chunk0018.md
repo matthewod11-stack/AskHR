@@ -1,9 +1,17 @@
-## management with data on the costs of turnover and the beneﬁts of
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6cd7af23eeb6d696cf4c1eb7a0b28d3ef757ca52
+title: R2403F-PDF-ENG
+---
+## 2017, and “‘You’ve Got to Set Your People Up to Succeed,’” May–June
 
-retention and leveraged “voice of the customer” tools from marketing
+2023.) Among other moves, it increased pay, improved beneﬁts, invested
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+more in training, and redesigned jobs and schedules.
 
-5
+At Neiman Marcus, Eric Severson, the chief people oﬃcer, spearheaded
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a similar transition by persuading the rest of the C-suite that the
+
+retail chain was investing too little in human capital. He presented top

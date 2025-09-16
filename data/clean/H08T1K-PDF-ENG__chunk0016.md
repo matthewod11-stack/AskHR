@@ -1,5 +1,29 @@
-# Model resilience
+---
+source_path: H08T1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b544a7094e001a54141a59e45f1b3b718ea6d8a9
+title: H08T1K-PDF-ENG
+---
+# Highlight progress
 
-“Uncertainty isn’t the moment for you to go quiet,” says Eikenberg.
+The steady drumbeat of bad news might be inescapable, but it’s not exactly motivating. That’s why you need to “aﬃrm what’s going well,
 
-Indeed, silence from leaders can be unsettling as people start to ﬁll
+what can be repeated, and what strong performance looks like,” says
+
+Lynch. Point out where your team is growing by benchmarking against
+
+internal data on quality or speed. “The key is to do so in the context
+
+of big picture challenges, so you don’t come across as tone deaf.” For
+
+example: “We’re ﬁlling orders faster than ever before, even though
+
+overall volume is down. That reﬂects growth in how we work and
+
+deliver.” Eikenberg recommends inviting up-and-coming leaders to
+
+share case studies and success stories that show how the team’s eﬀorts
+
+tie to bigger goals. “As a leader, you need to make the invisible visible,”
+
+she says.

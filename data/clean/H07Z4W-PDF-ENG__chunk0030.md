@@ -1,7 +1,19 @@
-# territory.
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b090222b5940dedb314ef84fe1ae44145c8e8df3
+title: H07Z4W-PDF-ENG
+---
+# HBR / Digital Article / When You Want to Be Hybrid, But Your Boss Wants You in the O…
 
-If your employer rejects your request for a hybrid schedule, turn it into
+the CEO’s stance on the future of hybrid work], I thought this would
 
-a learning experience. Make sure you understand whether this is a “no,”
+be a good time to ask for a hybrid schedule.
 
-or a “not right now.” Is there an opportunity to revisit the discussion? If
+Whatever you say, you want to come across as assertive, thoughtful,
+
+and respectful. If you follow this advice and your manager is still
+
+unmovable, then be mindful that change brings resistance. Flexible
+
+work isn’t an ancient concept — for most, this is new and unfamiliar

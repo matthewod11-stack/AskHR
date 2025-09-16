@@ -1,15 +1,7 @@
-# The International Federation of Psychological Medical Organizations was established.
-
-1968
-
-1970
-
-1971
-
-1972
-
-1973
-
-1974
-
-1975
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5a0a01b571a4557980d8225314fc4f7d1f2087f3
+title: untitled
+---
+## The Cuban Society of Psychology of Health was founded.

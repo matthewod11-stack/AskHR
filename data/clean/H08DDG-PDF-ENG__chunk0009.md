@@ -1,21 +1,17 @@
-# customer.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69685b953e96d30bc7f5f6875428b6fd0bd791f2
+title: H08DDG-PDF-ENG
+---
+## HBR / Digital Article / Why VCs Should Use Net Promoter Scores with Founders
 
-However, despite the rising popularity of “founder-friendly” venture
+But in recent years, investors have begun to rethink this traditional
 
-capital, many investors continue to struggle to implement a founder-as-
+mindset. In the early 2000s, some VCs began suggesting that the
 
-customer approach in their daily operations. They may even ask for
+entrepreneurs in whom they invested were their true customers. Today,
 
-input using a traditional customer satisfaction survey, but these surveys
+this narrative has grown increasingly widespread, with more and more
 
-are generally not very eﬀective at sourcing real, constructive feedback.
-
-What does it take for VCs to move beyond platitudes to actually serve
-
-the entrepreneurs they fund as eﬀectively as traditional companies
-
-serve their customers?
-
-As the president of a corporate VC ﬁrm, I’ve learned that we’ve
-
-best served our entrepreneurs as customers when we use a proven,
+VCs claiming that they view their founders (not their LPs) as the

@@ -1,9 +1,27 @@
-# occupation and working hours (Figure 3).
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: ddfad763d2825abf4a49be29dba935da55d52a1f
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+# Gender pay gap
 
-A 13% pay gap for hourly wages was observed for physicians and a 12% pay gap for hourly wages for nurses
+Analysis based on median wages from LFS data from
 
-and midwifes. This suggests that a sizeable portion of the
+21 countries showed health workers face gender-related
 
-overall pay gap is attributable to occupational segregation
+gaps in pay, with female health workers earning, on average,
 
-within the sector. Projecting the changes in the health
+28% less than males. This is slightly greater than global
+
+estimates of gender pay gap data, showing that women are
+
+paid approximately 22% less than men.7 The gender pay gap
+
+among health workers can be explained by several factors:
+
+different working hours between men and women (6.9%),
+
+different occupations between men and women (9.9%),
+
+and a remaining unexplainable gap of 11.2% for similar

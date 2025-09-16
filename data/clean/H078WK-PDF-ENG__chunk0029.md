@@ -1,9 +1,23 @@
-## at Motlow State Community College in Tullahoma, Tennessee, aimed at
+---
+source_path: H078WK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f9db40fcdc1409f61528033276eb3e8455491b16
+title: H078WK-PDF-ENG
+---
+# Using History to Build Better Together
 
-helping build a more diverse pipeline of talent for the entire industry.
+Weaver’s intentional eﬀorts to foster diversity and diversity of thought
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+have been instrumental to its success. Now, she’s thinking bigger.
 
-6
+In 2020, Weaver had an epiphany: “The piece I think our industry was
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+missing until now was that we were all trying to ﬁgure out how to foster
+
+diversity within the American spirits industry separately,” she says. So,
+
+Uncle Nearest and Jack Daniels parent company formed the Nearest
+
+& Jack Advancement Initiative to increase diversity in the American
+
+whiskey industry, starting with the Nearest Green School of Distilling

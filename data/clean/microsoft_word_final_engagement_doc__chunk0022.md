@@ -1,15 +1,11 @@
-# V. Case Study Examples
-
-AAA Northern California, Nevada & Utah.42 AAA Northern California, Nevada & Utah, the second-largest club in the Automobile Association of America (AAA), conducted company-wide assessments of employee engagement with consulting assistance from Towers Perrin. In 2004 and 2005, more than 4,000 AAA employees per year participated in the survey process. Analyses found that employee engagement scores were positively and strongly correlated with customer service ratings (r = 0.69). The study also linked engagement with company financial and HR metrics, such as having individual development plans in place and opportunities for career advancement. Results indicated that a five percent increase in employee engagement overall was associated with potential financial gains of more than $47 million dollars in selling more insurance and travel products. Engagement was also associated with lower staff turnover. The findings had actionable implications for general HR practices and employee communication efforts. The project resulted in increased management support for internal action plans to encourage more employee engagement with the company.
-
-Molson Coors.43 Molson Coors, a beverage company, found that engaged employees were five times less likely than disengaged employees to have a safety incident and seven times less likely to have a lost-time safety incident. In fact, the average cost of a safety incident for an engaged employee was $63, compared with an average of $392 for a disengaged employee. Consequently, by strengthening employee engagement, Molson Coors saved over $1.7 million dollars in safety costs in 2002. In addition, cost savings were found from their sales performance teams after implementing interventions that improved engagement levels. In 2005, for example, high- engagement sales teams were more successful in business sales than were the less-engaged sales teams, with the difference in sales exceeding $2.1 million dollars.
-
-(cid:82)(cid:101)(cid:115)(cid:101)(cid:97)(cid:114)(cid:99)(cid:104)(cid:32)(cid:87)(cid:111)(cid:114)(cid:107)(cid:115)(cid:32)(cid:32)(cid:32)(cid:74)(cid:117)(cid:110)(cid:101)(cid:32)(cid:50)(cid:48)(cid:48)(cid:57)(cid:32)
-
-(cid:32)
-
-Pitney Bowes.44 Pitney Bowes, an office machine and services company, has been measuring employee engagement for more than a decade and has now integrated engagement-enhancing practices into the everyday culture of the company. With survey partner Kenexa Technologies, Pitney Bowes collects engagement survey data on an annual basis (with over 80% of its global workforce taking the survey in 16 languages). The company uses the results to create action goals for engagement in annual performance reviews of managers and shares the engagement survey results and employee comments with senior executives and the board of directors. One of the most valuable aspects of the engagement survey for management was the more than 25,000 employee responses to the open-ended question: “What one thing would you change to make Pitney Bowes a better place to work?” Another aspect to fostering a positive work culture is the internal recognition given each year to the Engagement Triple Crown Winners. These are the managers who score in the top quartile among all managers worldwide on each of three measures that the company tracks for encouraging engagement in employees. Finally, the CEO of the company, Murray Martin, also is supportive of the approach and has even featured the goal of increasing workforce engagement as one of the top five priorities for the company in 2009.
+---
+source_path: microsoft_word_final_engagement_doc.md
+pages: n/a-n/a
+chunk_id: 1c0dc2866c4eddfee98059af76f4cfe2db60f7d7
+title: microsoft_word_final_engagement_doc
+---
+# A
 
 (cid:32)
 
-(cid:57)(cid:32)
+(cid:56)(cid:32)

@@ -1,5 +1,7 @@
-# Your Guide to Working on Global Teams
-
-https://hbr.org/2023/07/your-guide-to-working-on-global-teams
-
-9/9
+---
+source_path: Your Guide to Working on Global Teams.md
+pages: n/a-n/a
+chunk_id: a3610d038612311d7847b66f646e0e3f2e47576d
+title: Your Guide to Working on Global Teams
+---
+# 9/10/25, 9:08 AM

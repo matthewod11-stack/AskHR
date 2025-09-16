@@ -1,33 +1,37 @@
-# men and other women.
+---
+source_path: H07P5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa601cc912ed3a8a53b993973baa56c59c53ee85
+title: H07P5A-PDF-ENG
+---
+# HBR / Digital Article / Watch Out for These 3 Gender Biases in Performance Reviews
 
-With the support of leadership, I tested several interventions designed
+taking place at the company. These tasks had longer timelines and were
 
-to help reviewers at the company correct this bias. While some
+harder to evaluate in the short term.
 
-interventions failed, two had a statistically signiﬁcant chance (with a
+These choices lent themselves to experience bias. It’s easy to
 
-95% conﬁdence interval or above) of reducing biases at this company.
+understand, for example, how somebody who has presented at a
 
-The ﬁrst was for managers to help employees set individualized goals
+major conference (probably a man) might have immediately provided
 
-with tailored metrics and then ask them to track what they had done
+a measurable beneﬁt to the company. In fact, men were three times
 
-every week — and to do it on a virtual whiteboard that the rest of the
+more likely than women to speak at outside events. But how easy is it
 
-team and the directors up the chain could see. In this way, people who
+to measure and evaluate the work that somebody (probably a woman)
 
-had contributed to less-easily-deﬁned outcomes, such as team cohesion,
+has begun to do in a long-term eﬀort to repair team dynamics or
 
-could still point to a record of their eﬀorts over time for all to see.
+prevent deep-rooted problems that might ultimately aﬀect hundreds or
 
-This whiteboard could record important work even if it wasn’t easily
+thousands of employees? Needless to say, given the nature of experience
 
-described in terms of traditional goals and metrics. This was helpful
+bias, reviewers at HAPI Consulting praised the men more regularly in
 
-come performance review time. Even if employees had failed to reach
+their performance reviews for having succeeded in their work. More
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+speciﬁcally, men who reviewed other men assessed them 12% higher
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+than women, on average, as compared to when women reviewed both

@@ -1,15 +1,19 @@
-# n
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 80f63f8d5ffb2958675cdb2a72f4c1c560a0920b
+title: issn_print_0976_013x
+---
+# Collaboratio
 
-Table 7 provides an overview of TCS and Infosys' mean and standard deviation scores on
+15.7419
 
-conformity and collaboration, respectively. There is no significant difference between TCS and
+2.23559
 
-Infosys on both conformity (0.254) and collaboration (0.682) as the P-value > 0.05. The
+15.5161
 
-preceding table indicates that there is no substantial difference between workplace
+2.07960
 
-conformity and collaboration among TCS and Infosys employees, contradicting the study, by
+0.412
 
-Tims et al. (2020) which demonstrates that non-conformists are more willing to work together
-
-for the greater good, but conformity to societal standards can make individuals less likely to
+0.682

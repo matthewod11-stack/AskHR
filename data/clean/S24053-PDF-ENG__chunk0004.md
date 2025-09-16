@@ -1,3 +1,7 @@
-# Teamwork at the Top
-
-It’s not just who’s in the room—it’s how they behave together. by Gregory LeStage, Sara Nilsson DeHanas, and Pete Gerend
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69c57d4a3f3916655f46a3e9e7719e41fab73c67
+title: S24053-PDF-ENG
+---
+## HBR / Spotlight Article / Teamwork at the Top

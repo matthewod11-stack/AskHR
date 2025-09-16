@@ -1,9 +1,13 @@
-# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5166951044c63c3653ff4edaa33bacb6426bf80a
+title: H07U7Q-PDF-ENG
+---
+# up here.
 
-ADI IGNATIUS:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Jason, welcome. Let’s start with your transition to CEO. It’s always
+2
 
-interesting how a founder CEO transitions to the next generation of
-
-leadership. Talk about that challenge and what you’ve tried to bring to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

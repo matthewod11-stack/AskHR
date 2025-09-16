@@ -1,13 +1,7 @@
-# Industry
-
-4.0.
-
-Scientometrics,
-
-127(6),
-
-3117–3144.
-
-https://doi.org/10.1007/s11192-022-04370-1
-
-Guo, W., Tian, Q., Jiang, Z & Wang, H. (2018). A graph-based cost model for supply chain
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: eaab60e76ead0efa2572b190f0e353e068e536f7
+title: issn_print_0976_013x
+---
+# of

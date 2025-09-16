@@ -1,13 +1,9 @@
-## Levine, E. L., Ash, R. A., Hall, H., & Sistrunk, F. (1983).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 32422d6748b0b2af995f014fe69e197efce1a1ea
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Levine, E. L., Ash, R. A., & Bennett, N. (1980). Exploratory
 
-Evaluation of job analysis methods by experienced job analysts. Academy of Management Journal, 26, 339–348.
-
-Levine, S. P., & Feldman, R. S. (2002). Women and men’s
-
-nonverbal behavior and self-monitoring in a job interview setting. Applied H.R.M. Research, 7(1), 1–14.
-
-Levit, A. (2008). Success for hire: Simple strategies to ﬁ nd and
-
-keep outstanding employees. Alexandria, VA: ASTD Press.
-
-Lewin, K. (1951). Field theory in social science. New York:
+comparison study of four job analysis methods. Journal of Applied Psychology, 65, 524–535.

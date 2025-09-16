@@ -1,13 +1,23 @@
-# prompt:
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23d051a0fb0ff507e4f03db34ef228b01aa1ad55
+title: H08DO8-PDF-ENG
+---
+# How Gen AI Can — and Can’t — help.
 
-We’re a commercial agricultural research organization. With 120
+Keith raised two highly relevant questions that we often hear from
 
-staff, we are the dominant player in our ﬁeld of independent
+strategic planning teams.
 
-contractors. Our clients engage us to conduct a wide range of ﬁeld
+The ﬁrst of these concerns bias, i.e., having a blinkered view based
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+on a team’s professional training and industry experience. Keith wants
 
-3
+to tap into a viewpoint outside agricultural science to produce a fresh
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+perspective. To do this, he could replace several of his executives with
+
+others from outside his industry. However, this is hardly practical. An
+
+alternative is to employ gen AI. We assisted him with the following

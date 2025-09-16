@@ -1,27 +1,15 @@
-## institutions, large infrastructure ﬁrms, and even business schools—
+---
+source_path: H08VBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15e7499bf7280892ed6cfdc3263768b692315bc1
+title: H08VBA-PDF-ENG
+---
+# HBR / Digital Article / Your Company Needs to Focus on Fewer Projects. Here’s How.
 
-the same pattern emerges. Banks run hundreds of competing digital
+projects. It feels exciting. It shows progress. Stopping them? That’s
 
-initiatives; consumer goods companies stretch their scarce innovation
+uncomfortable. It feels like failure.”
 
-talent across dozens of “priority” launches; health care and life sciences
+This story is far from unique. Across the industries I’ve worked in—
 
-ﬁrms keep long-running research or compliance programs alive long
-
-after their usefulness has passed.
-
-But hidden within this challenge lies a powerful opportunity: when
-
-organizations are brave enough to focus on fewer, higher-value
-
-initiatives, the payoﬀ can be remarkable. Energy, budgets, and talent
-
-stop being diluted and start ﬂowing into the projects that truly
-
-matter—accelerating delivery, boosting morale, and creating a stronger
-
-sense of shared purpose. Based on my experience, most organizations
-
-could cut 50% of their active projects tomorrow without any negative
-
-consequences. In fact, in some cases, trimming 70% would make them
+global consumer brands, leading pharmaceutical companies, ﬁnancial

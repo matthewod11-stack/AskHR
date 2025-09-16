@@ -1,5 +1,13 @@
-# strategies. Ashgate Publishing Company.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: d77e014ac349ea4ef77c53ae91f1b5c13c189244
+title: file_1
+---
+# 101
 
-Smith, A. and V. Rogers, 2000. Ethics-related Responses to Specific Situation Vignettes: Evidence of Gender-based Differences and Occupational Socialization. Journal of Business Ethics, 28 (1), 73-86.
+Shapiro, D. and B. Kirkman, 2001. Anticipatory injustice: The consequences of expecting
 
-Stockard, J., 1999. Gender Socialization. In J. Chaftez, eds, The handbook of the sociology of
+injustice in the workplace. In J. Greenberg and R. Cropanzano, eds, Advances in organizational justice. Lexington, MA: New Lexington, 152-178.
+
+Shunfeng, S. and C. Aimin, 2006. China's rural economy after WTO: problems and

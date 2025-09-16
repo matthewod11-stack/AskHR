@@ -1,11 +1,21 @@
-# Method
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: a8126367260b45534c294ca476a7dffa30fc2a7e
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# operations and flexible labour regulatory framework in both countries particularly Nigeria
 
-Given that the issue of underperforming workers and why firms persist with them remains
+and more efforts are required to enhance the situation. In 2015 Corruption Perceptions Index
 
-largely unexplored within the international business, strategy and human resource literature,
+10
 
-we adopted a qualitative approach to provide the depth of understanding (Birkinshaw,
+by Transparency international, Ghana and Nigeria were ranked 56th and 136th respectively
 
-Brannen & Tung, 2011; Eisenhardt, 1989; Miles & Huberman, 1994; Siggelkow, 2007). Our
+out of 167 countries around the world (Transparency International, 2015). Notwithstanding
 
-work sought to generate theory rather than test theory. We adopted semi-structured
+the gains chalked by these countries, corruption is identified as one of the main issues holding
+
+Nigeria back from its potential and contributing to the high poverty level of about 70%
+
+people living on less than $1 a day (Agbiboa, 2012).

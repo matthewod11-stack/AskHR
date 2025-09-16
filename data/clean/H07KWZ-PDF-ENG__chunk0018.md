@@ -1,7 +1,9 @@
-## Throughout the bidding war between Logan and his siblings, emotions
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c632773a24ba1fc857e038ce39d56f436b919a3a
+title: H07KWZ-PDF-ENG
+---
+# bid.
 
-are high. The siblings are so eager to beat their father that they
-
-make oﬀers unjustiﬁed by thoughtful analysis. My Harvard Business
-
-School colleague Deepak Malhotra and his colleagues have written
+Emotions can derail negotiations.

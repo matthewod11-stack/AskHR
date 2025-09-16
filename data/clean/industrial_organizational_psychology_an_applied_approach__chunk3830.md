@@ -1,7 +1,25 @@
-# morale.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9ec64036a0f8b707c5eb0375f47da826a89d86e3
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Denial The first stage in the emotional reaction to
 
-Devil’s advocate A group member who intentionally provides an opposing opinion to that expressed by the leader or the majority of the group.
+change or layoffs, in which an employee denies that an organizational change or layoff will occur. Dependability-reliability One of five categories
 
-Dictionary of Occupational Titles The DOT is a directory that was published by the federal government that supplied information for almost 30,000 jobs. It has been replaced by O*NET. Difference score A type of effect size used in
+from the trait approach to scoring letters of recommendation.
 
-meta-analysis that is signified by the letter d and indicates how many standard deviations separate the mean score for the experimental group from the control group.
+Dependent variable The measure of behavior that
+
+is expected to change as a result of changes in the independent variable.
+
+Derivation sample A group of employees who were
+
+used in creating the initial weights for a biodata instrument.
+
+Desirability The extent to which a trait or behavior is
+
+valued as being good in society.
+
+Despair An organizational climate characterized by low

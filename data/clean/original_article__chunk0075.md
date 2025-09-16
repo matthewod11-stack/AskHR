@@ -1,5 +1,7 @@
-# Mediator: TIQ
-
-A measure of the health of the dynamic of the team, as indicated by the ability of the team to create a ‘safe and supportive environment, embracing and respect[ing] differences, developing strong trusting relationships, generating learning and getting tasks done effectively’
-
-30
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 50e639e1ab01ece8f194eadab67be1a46cd7883b
+title: original_article
+---
+## CQS – Self Report (Ang and Van Dyne, 2008) Likert: 1–7

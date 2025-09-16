@@ -1,7 +1,9 @@
-## extrapolate future results from a well-understood and predictable
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3643ed6e244597e595d903bc94b5be16ff695698
+title: H08TKY-PDF-ENG
+---
+# conventional line of business.
 
-platform of past experience. One expects predictions to be accurate
-
-because they are based on solid knowledge rather than on assumptions.
-
-In these cases, a venture’s deviations from plan are a bad thing.
+Conventional planning operates on the premise that managers can

@@ -1,15 +1,13 @@
-# theory-building article
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: 8053bc8b64d3471114b25e05518b46b01a938e1e
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+## compromise between assimilation and differentiation
 
-reviewed from this period were from the fields of
+in educational research. The ten exemplary articles
 
-examines how a person’s need for acceptance can be
+from others”
 
-and education, social work. Much of the research in this time frame
-
-social psychology, management,
-
-oppositional to that person’s active need to be valued
-
-as unique from others. This connection can be made
-
-centered on
+(p.477). This

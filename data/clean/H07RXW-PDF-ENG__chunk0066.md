@@ -1,7 +1,15 @@
-## characteristics of hierarchy, clear lines of authority and division of
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bfe5803d033819bef03dd9124e96bcb50d2801b7
+title: H07RXW-PDF-ENG
+---
+# team).
 
-labor into specialties — has been the dominant method of coordinating
+. . .
 
-human eﬀort over the past several centuries. But as IoT, AI and data
+The technologies that are coming to the fore are not only transforming
 
-analytics, blockchain, and a collection of related technologies take hold, new, more open models are emerging in some areas as more eﬃcient
+the way ﬁrms go to market, but are also forcing companies to
+
+rethink the very way they operate. Bureaucracy — with its deﬁning

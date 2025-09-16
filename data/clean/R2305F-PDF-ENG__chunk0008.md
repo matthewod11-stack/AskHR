@@ -1,25 +1,21 @@
-# power?
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b16249e133a413f639bd795beaf5b8ddb112464c
+title: R2305F-PDF-ENG
+---
+## Unfortunately, a learn-it-all culture doesn’t arise naturally. And when
 
-Diversity in the workplace, in fact, increases the likelihood that people
+it comes to sharing feedback and advice, diversity often leads to
 
-will interpret feedback as an act of hostility. That means that people
+complications, which, if not understood and managed, can create
 
-must be careful about how they provide it. Of course, diversity at
+an environment rife with bad feelings, defensiveness, and ruptured
 
-work today encompasses many types of diﬀerences, from race and
+relationships. That’s because the vast majority of people aren’t ready
 
-sexual orientation to religious and ethnic background. In the following
+to receive criticism unless they feel safe with the person providing it.
 
-pages I’ll focus on how people can improve the way they deliver
+Do the people assessing your work really mean to help you, or are they
 
-feedback across three speciﬁc types of diversity: cultures, genders,
-
-and generations. I’ll also describe strategies for fostering a climate in
-
-which candor and diversity can coexist. I’ll conclude by looking at
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+surreptitiously trying to embarrass you, take your job, or usurp your

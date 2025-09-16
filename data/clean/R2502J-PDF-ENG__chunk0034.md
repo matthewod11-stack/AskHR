@@ -1,15 +1,33 @@
-## a remediation plan for aﬀected customers, and in consultation with
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 396668a2fc0cea5a9423fe0025543193f03a8160
+title: R2502J-PDF-ENG
+---
+## Home. According to the Federal Trade Commission, in 2021 some 130
 
-HR, they should aggressively address the problem, including possibly
+of the company’s commissioned sales reps regularly engaged in identity
 
-terminating the oﬀending salespeople. The company should put
+theft to approve customers for loans. If a customer didn’t qualify for
 
-stringent controls in place to ensure that the behavior does not persist.
+a loan, the reps would illegally use the credit record of an unrelated
 
-Companies may choose not to fix every gaming tactic they discover. Indeed, it may be preferable to tolerate certain gaming strategies that have low impact or occur infrequently.
+person with the same name. Falsifying data in this way—often called
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+“white paging”—is a violation of several laws. The company admitted
 
-9
+wrongdoing and agreed to pay a $15 million civil ﬁne and a $5 million
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁne to aﬀected customers.
+
+Given that a sizable number of sales reps had regularly engaged in
+
+the behavior, and given the signiﬁcant reputational damage and legal
+
+ﬁnes incurred, we would place that gaming activity in the top-right
+
+“widespread disruptive” quadrant. Companies that ﬁnd themselves
+
+in that quadrant should immediately alert leaders from sales, legal,
+
+and compliance functions and risk management. They should develop

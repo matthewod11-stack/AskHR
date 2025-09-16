@@ -1,7 +1,15 @@
-## Empiece por preguntarse: ¿Quién más ve el valor de este empleado?
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 261517a79b1c0c3660cb65c41ddf95351a38a209
+title: H08U08-PDF-ENG
+---
+## que haya aclarado el valor único del empleado, su siguiente paso
 
-Por ejemplo, busque compañeros interfuncionales, mentores u otros
+es reforzarlo activando a los principales stakeholder y alineándose
 
-líderes de alto nivel que puedan ayudarle a defender su caso. Emily se
+con sus prioridades personales. No se trata sólo de métricas, sino de
 
-puso en contacto con el jefe de producto y el vicepresidente de asuntos
+comprender lo que realmente les importa a los responsables de la toma
+
+de decisiones y a las personas inﬂuyentes clave.

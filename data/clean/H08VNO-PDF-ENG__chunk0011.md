@@ -1,15 +1,11 @@
-# experience?
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 394e932e73fe17b851aea9ddd629cb52b5a2d53e
+title: H08VNO-PDF-ENG
+---
+# HBR / Digital Article / To Change Company Culture, Focus on Systems—Not Communic…
 
-- What behaviors signal authenticity—and which quietly erode it?
+- How do senior leaders deﬁne and measure cultural impact?
 
-- And what does it actually take to build a culture that lasts?
-
-What we found was striking: culture doesn’t fail because it’s forgotten. It
-
-fails because it’s misunderstood. It’s treated as branding, not behavior.
-
-As output, not infrastructure. And when that happens—even the most
-
-well-meaning eﬀorts can erode the very trust they’re meant to build.
-
-Here’s what we learned.
+- What disconnects emerge between leadership intent and team

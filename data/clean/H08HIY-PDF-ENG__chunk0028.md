@@ -1,13 +1,15 @@
-# means:
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f45f130c14bcaa34ee5865d99c7f416dca1c2d0
+title: H08HIY-PDF-ENG
+---
+## biased judgments of their performance across job categories and tasks.
 
-- 1. Reinforcing learning opportunities beyond one-off anti-bias sessions
+For managers, the key takeaway is not to acknowledge what they likely
 
-While broad diversity trainings may be informative for all employees,
+already know — that bias exists and lurks in the workplace — but to
 
-research suggests they don’t seem to change behavior. More eﬀective
+confront it head-on to avoid missing out on the value that disabled
 
-eﬀorts include a combination of clear leadership buy-in and qualiﬁed
-
-external trainers who create space for employees to learn, opportunities
-
-to engage in perspective-taking, and a pathway for employees to track
+employees of all genders bring to the table. In practical terms, this

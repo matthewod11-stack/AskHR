@@ -1,33 +1,51 @@
-# fairly.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: a305571a96a042fea0509806afc913babd6e5e07
+title: california_state_university_northridge_1
+---
+# Concluding Thoughts
 
-Various forms arbitration, mandatory and voluntary are also increasing. The
+At the onset ofresearching this subject, it was the author's contention that
 
-courts have side for and against for such practices. Yet, it is important to note
+termination was conducted incorrectly due to the lack of knowledge oflaws and
 
-programs that have a mandatory arbitration process, are being struck down. It is only
+internal company procedures. Consequently, this is partially correct based on the case
 
-in those programs where an employee challenges such a program, that we know if the
+study approach rooted in case law, it has become apparent that another significant
 
-courts will continue to side with the employee. It is the positions of courts that
+factor has come into play. The cases presented have defendants ranging from
 
-employees should be able to explore all avenues available. The courts are in
+managers to executives who have full knowledge of company policies and procedures,
 
-agreement on, voluntary arbitration, which allows the employee and employer to seek
+using a pretext (bad performance) for termination, or simply do not terminate
 
-a solution that may keep the employer/employee relationship intact. These voluntary
+according to company policies. Moreover, the agents of the employer are defending
 
-programs seek communication by addressing the issue at hand while limiting blame.
+the termination based on at-will employment status, and are finding another method to
 
-This approach, assists the employer and employee, in dealing with the situation
+force employees out of their positions. This essentially proves that they aie
 
-regardless of any difficulties or complexities involved.
+knowledgeable and have the ability to terminate any employee correctly. Training
 
-Not all companies are able to have arbitration and or mediation, yet
+methods are critical, but they are only as effective as the manager( s) who view each
 
-alternatives do exist. Some companies still have unions and others may utilize a
+employee objectively, complying with company procedures and the law.
 
-Grievance Procedure or something similar. It is essential to remember the courts are
+Employees may not have a full understanding of the complexities of
 
-the final arbiters of societal conflict. Therefore, any legal action should be the last
+employment laws or the guidelines set forth by their employer, but they do posses a
 
-alternative for an employee to consider. Reducing wrongful termination is only as
+general understand of fundamental fairness. Further, he or she has the intellectual
+
+capabilities to determine if the termination process has been fair, or if their manager is
+
+out to get them. It is this notion of fairness and lu1owledge of their pai-ticular busii1ess
+
+operations, can lead the employee to a reasonable conclusion, if the termination has
+
+78
+
+been correct or incorrect. However, employment lawsuits and complaints are on the
+
+rise because employees have a reasonable expectation they have not been treated

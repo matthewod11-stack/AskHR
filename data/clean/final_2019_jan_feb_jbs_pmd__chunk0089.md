@@ -1,19 +1,7 @@
-# ISSN 2393-9451
-
-persons, organizations, establishments, etc. However, (Williams, 2000; Michaels et al., 2001; Tansley, 2011; and Gallardo-Gallardo et al., 2013) stressed that a distinct knowledge of the meanings, descriptions and notion of the term ‘talent’ is critical for the progress of establishments.
-
-Principally, talent is often understood from either an objective perspective (characteristics of people as talents) or a subjective perspective ( people as talents). Some researchers hold an objective perspective of talent, which portrays the characteristics of being talente d instead of talented people. Aptitudes (Thijssen& van der Heijden, 2003), proficiencies (Thijssen & van der Heijden, 2003; Ulrich, 2007; Lehmann, 2009; Siikaniemi, 2012) and organizational abilities (Claussenet al., 2014) are few of the key attributes expressing talents from an objective perspective. Michaels et al., (2001) portrayed talent as entirety of an individual’s skillsets, his inherent powers, abilities, level of knowledge, understanding, expertise, caliber, rationality, demeanor, behavior, personality and zeal. Talent was defined by Gagne (2000) as supreme expertise of organized and consistently cultured qualities or expertise. On the other hand, some of other interpretations with subjective perspective relate to great-performance workers (McDonnell et al., 2010), highly-promising workers (McDonnell et al., 2010), persons who can produce substantial contribution to the present as well as prospective achievement of t he organization (Stewart & Harte, 2010; Morton 2004), individuals who can fulfill present as well as futu re leadership criteria (Rhodes et al., 2008), and managers as a whole (Sheehan, 2012). Zikmund (2000) described talent as all those individuals who can accelerate organizational effectiveness either by means of their instant endeavour or eventually by displaying the highest degrees of excellence.
-
-of what talent denotes and in what way organizations need to manage them are yet a matter of discussion (Collings and Mellahi 2009).
-
-There is unexpectedly scant printed papers and articles that focus on global talent development problems and defines the dimensions and outlines the peripheries of the notion (Cohn et al., 2005; Garavan et al., 2009;Younger and Cleemann, 2010; Cook, 2010). It is recognized, nevertheless, that talent developmen t (TD) is a key element of global talent management (Barlow, 2006;Novations, 2009; Cappelli, 2009;Scullion and Collings, 2011; CIPD, 2011; Garavanet al., 2012).
-
-In HRM and HRD publications, talent management (TM) is more than ever being mentioned about (Berger and Berger, 2003;Stahl et al., 2007; Cappelli, 2009; Burbach and Royle, 2010;Collings et al., 2011). It is a prominent, even “imperative” subject across the globe (Barlow, 2006; Birschel, 2006; Jenkins, 2006;Berry, 2007; Powell and Lubitsh, 2007). Dessler (2009) viewed TD as a crucial constituent of talent management, which is a bunch of organizational methods and practices (McDonnell et al., 2010; CIPD, 2011) that describes how organizations lure, choose , engage, train and handle employees in an optimized and planned manner (Scullion and Collings, 2011).These two notions are also frequently related to, and occasionally used mutually (Lewis and Heckman 2006)with, career development (Collings et al., 2009), which features a continuing range of training and associated exercises that determine th e success and fulfillment of an individual’s profession (Dessler, 2009).
-
-- 5. Defining the Scope of Talent Development Organizations have been continuously emphasizing that they wish to manage and develop talent. However, researches have shown that the notion of talent development is conceived diversely in various organizations with varying degrees. Few academicians consider it as interchangeable with HRM and the issues
-
-According to Evans et al., (2002) talent development aims at evolving leaders through processes such as 360- degree feedback, networking, coaching, training, job assignments, action learning, mentoring and challenging employees. Davis et al., (2007) defined TD as the manner of transforming an organization, its workforce, its various stakeholders, and set of persons within it, by way of meticulously organized and impromptu training, with an objective to have an edge for the organization. Mehdiabadi et al., (2016) defined TD as an all-inclusive system comprising of a
-
-12
-
-IITM Journal of Business Studies (JBS)
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: bb2f954583e0ff55c745fe8fa646df2d7e439bc3
+title: final_2019_jan_feb_jbs_pmd
+---
+# January - December, 2019

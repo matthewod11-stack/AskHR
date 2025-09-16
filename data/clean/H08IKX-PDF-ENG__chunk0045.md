@@ -1,5 +1,11 @@
-# BG
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36500a7c6e0717e22ece4df78f926e3bca0e4746
+title: H08IKX-PDF-ENG
+---
+## HBR / Digital Article / Is Your Company’s Problem Complicated? Or Complex?
 
-Bill George is a professor at Harvard Business School and the author of True North: Emerging Leader Edition. He was the CEO of Medtronic from 1991 to 2001 and has served on the boards of Goldman Sachs, Novartis, Target, ExxonMobil, and Mayo Clinic.
+This article was originally published online on December 10, 2024.
 
-Kayti Stanley is a research associate at Harvard Business School.
+Nitin Nohria is the George F. Baker Jr. and Distinguished Service University Professor. He served as the 10th dean of Harvard Business School, from 2010 to 2020.

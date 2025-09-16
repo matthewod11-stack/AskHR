@@ -1,11 +1,15 @@
-# Sauser, A Comparative Evaluation.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 19a2056d48b03f13099c6e9e8c2b022b955e2014
+title: document_resume
+---
+## Kujawski and Young, op cit., pp. 4.163-4.164.
 
-26.
+- 21. 1954), p. 303.
 
-Stanley B. Silverman and Kenneth N. Wexley, "Reaction of Employees to Performance Appraisal Intenievvs as a Function of Their Participation in Rating Scale Development," Personnel Psychology 37 (Winter 1984), pp. 703-710.
+Peter Drucker, The Practice of Management, (Nov York. Harper and Row,
 
-Patricia C. Smith and Lorne M. Kendall, "Retranslation of Expectations: An Approach to the Construction of Unambiguous Anchors for Rating Scales," Journal of Applied Psychology 47 (February 1963), pp. 149-155.
+- 24. Kujawski and Young, op. en, p. 4.164
 
-27.
-
-28.
+25.

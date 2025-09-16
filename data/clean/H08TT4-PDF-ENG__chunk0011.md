@@ -1,11 +1,11 @@
-# illuminate.
+---
+source_path: H08TT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 098d4f0298f3bc68dc0939fd80037db42d8274eb
+title: H08TT4-PDF-ENG
+---
+# Think Big
 
-Research shows that leaders are perceived as more powerful when they
+Today’s leaders are buried in metrics. Engagement rates, KPIs, and
 
-think and speak more abstractly, stepping back from the data to present
-
-the bigger picture. For example, one study found that startup founders
-
-who describe their ventures in more concrete terms are less likely to get funded than those who use oﬀer abstract descriptions.
-
-Let’s contrast a common concrete (neutral) message versus an abstract
+conversion charts bombard us. These facts inform, but they don’t

@@ -1,11 +1,7 @@
-# pharmacies. International Journal of Pharmaceutical and Healthcare Marketing, 12(2), 158-
-
-- 180. https://doi.org/10.1108/IJPHM-07-2017-0038
-
-Stahel, W. R. (2013). The business angle of a circular economy–higher competitiveness, higher
-
-resource security and material efficiency. A new dynamic: Effective business in a circular
-
-economy, 1,
-
-11-32.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 14a86674819918d1daea99514d9e668d1a56d01b
+title: issn_print_0976_013x
+---
+# performance as a driver of customer orientation and company effectiveness among retail

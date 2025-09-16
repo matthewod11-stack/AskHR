@@ -1,13 +1,11 @@
-# infrastructure at
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: c5c1e8029f512fb0226b4e84be56183e203d8f04
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-Technopark is great. There is a bustling suburb right outside the Technopark campus.
+power substa(cid:415)ons within the campus. Water supply is maintained by Technopark
 
-Besides, there is a magniﬁcent food court within the campus. Presence of all the
-
-essen(cid:415)al commercial shops and establishments make the campus self-suﬃcient. There
-
-is a sprawling guest house within the campus to meet the needs of guests.
-
-- Green Environment: The green buildings in the Technopark campus have boosted
-
-energy eﬃciency through much lower power consump(cid:415)on. Besides, there is Solid
+through a dedicated distribu(cid:415)on system. Even the support

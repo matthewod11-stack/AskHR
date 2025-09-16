@@ -1,5 +1,7 @@
-# Ginn and Company.
-
-Deutsch, A. (1949). The mentally ill in America: A history of their care and treatment from colonial times (2nd ed.). New York: Columbia University Press.
-
-Guthrie, R. V. (1998). Even the rat was white: A historical view of
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1ede24ab5f27f8ee2fb883b9f4a7f848247b9dcd
+title: untitled
+---
+## Davis, J. B. (1914). Vocational and moral guidance. New York:

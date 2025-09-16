@@ -1,11 +1,9 @@
-## especially important with cross-gender interactions. Unless someone
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c3517312f77eb511bd1a9b380913e816a1648f9
+title: R2305F-PDF-ENG
+---
+# to yourself.
 
-has speciﬁcally requested your advice (in which case jump in and give
-
-it), solicit suggestions about your own work before you oﬀer anyone
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The third A is to ask for feedback before you provide it. This is

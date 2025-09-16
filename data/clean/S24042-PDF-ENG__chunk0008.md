@@ -1,15 +1,9 @@
-# into trouble.
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1aadb73b8715815a758daf37f2a5f017132a66a0
+title: S24042-PDF-ENG
+---
+## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
 
-You can’t blame new CEOs for falling into the speed trap. The
-
-conventional wisdom, after all, is that they have roughly 90 days to
-
-prove themselves to their organizations. But the process actually takes
-
-longer than that—far longer, according to our research and experience.
-
-Gaining the conﬁdence of all stakeholders, it turns out, takes a full two
-
-years. And only by focusing strategically and purposefully on building
-
-trust during that period can CEOs genuinely create the conditions for
+won the full support and trust of all stakeholders—and that gets them

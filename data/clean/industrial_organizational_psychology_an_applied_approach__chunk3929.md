@@ -1,17 +1,19 @@
-## Mental agility One of the intelligence measurement
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c5dfe758ef4a7740b6251a4c15e5405938f0ff92
+title: industrial_organizational_psychology_an_applied_approach
+---
+# period of time.
 
-categories developed by Peres and Garcia for analyzing the adjectives used in letters of recommendation. Mental Measurements Yearbook (MMY) The name of
+Maximum supportable position (MSP) The highest possible settlement that a person could reasonably ask for and still maintain credibility in negotiating an agreement.
 
-a book containing information about the reliability and validity of various psychological tests. Mentor An experienced employee who advises and
+Mean effect size Used in meta-analysis, a statistic
 
-looks out for a new employee.
+that is the average of the effect sizes for all studies included in the analysis.
 
-Mere presence Theory stating that the very fact that others happen to be present naturally produces arousal and thus may affect performance.
+Mediation A method of resolving conflict in which a neutral third party is asked to help the two parties reach an agreement.
 
-Merit pay An incentive plan in which employees receive
+Meeting cow An unnecessary or unnecessarily long
 
-pay bonuses based on performance appraisal scores.
-
-glossary
-
-613
+meeting scheduled out of force of habit.

@@ -1,7 +1,13 @@
-## a referral, regardless of the assertiveness of the message. Though the
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e172a0acfd497f7eaa779de9d3553a6d5ba4470
+title: H08UMD-PDF-ENG
+---
+# scale from one to three.
 
-likelihood was still lower with an assertive message than with a less
+The researchers found that participants were less likely to refer the
 
-assertive one when the beneﬁts was highlighted, the negative eﬀect of
+product when the message was assertive. However, when the beneﬁt
 
-an assertive tone was mitigated.
+of the product was highlighted, participants were more likely to make

@@ -1,15 +1,13 @@
-# Executive leadership as the catalyst.
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38fcba448a19dea6314224b7a558a2885b3b1cff
+title: H08IVM-PDF-ENG
+---
+# Making Collaborative Contracting Work
 
-Leadership commitment must go beyond verbal support to active
+The transition to collaborative contracting requires systematic change
 
-championing of new approaches. This means executives need to visibly
+across multiple dimensions. Our research identiﬁes ﬁve critical
 
-prioritize practical terms over risk mitigation in their own deal reviews.
-
-Leaders must actively challenge the traditional focus on liability and
-
-indemniﬁcation terms, redirecting attention to operational success
-
-factors. They must become clear about their approach to risk and
-
-set internal measurements accordingly, freeing their negotiators to act
+implementation elements that distinguish successful transformations:

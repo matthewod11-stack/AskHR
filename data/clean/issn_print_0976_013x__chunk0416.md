@@ -1,9 +1,7 @@
-# health
-
-research, 27(12),
-
-1870-1881.
-
-h(cid:425)ps://doi.org/10.1177/1049732317723889
-
-47
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 48132dba029d24488e9b62e5397307818363639d
+title: issn_print_0976_013x
+---
+# homes. Qualita(cid:415)ve

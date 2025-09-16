@@ -1,7 +1,9 @@
-# mindset.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12f6661de4a437c1b342d9e95387c4fc78137b48
+title: H06K3M-PDF-ENG
+---
+## authentic dialogue with their teams (and the company), in which they
 
-- The development and deployment of “Ways of Working” training
-
-and tools for units with high levels of collaboration, stress,
-
-and negative mood. The “Ways of Working” interventions began
+emphasized the need for prioritization, self-care, and a test-and-learn

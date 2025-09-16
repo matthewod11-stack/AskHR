@@ -1,15 +1,15 @@
-## mainstreaming of a near-future technology—stem-cell therapies that
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce9a28016d1db94c48486ae7b5f830b0d38b0257
+title: H08VFN-PDF-ENG
+---
+## HBR / Digital Article / Lessons from U.S. Army Special Ops on Becoming a Leader
 
-can reverse aging, perhaps, or highways that can wirelessly charge
+never have. When the brain focuses on probabilities, it starts to believe
 
-electric vehicles while driving. This disrupts your priors, encouraging
+that there’s one best plan; when the brain focuses on possibilities, it
 
-you to exit probability.
+perceives that there can be many viable paths to success.
 
-Then ask yourself: What initiatives could my organization launch to
-
-take advantage of this tech revolution? After you’ve used sci ﬁ to open
-
-up your mind to fresh possibilities, you’ll be primed to mull more
-
-immediate questions: What never-before events could occur at work
+To shift yourself into thinking in possibilities, imagine the

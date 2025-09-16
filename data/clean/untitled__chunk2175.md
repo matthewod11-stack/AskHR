@@ -1,5 +1,17 @@
-# Englewood Cliffs, NJ: Prentice-Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c4ac9ec696b50b6d6d59e7f50bbe0284dca70b47
+title: untitled
+---
+# Archives of Psychology, 22, 1–55.
 
-Lowenberg, G., & Conrad, K. A. (1998). Current perspectives in industrial/organizational psychology. Needham Heights, MA: Allyn & Bacon.
+Link, H. C. (1919). Employment psychology. New York: Macmillan.
 
-Manchester, W. (1973–1974). The glory and the dream (Vols. 1–2).
+Locke, E. A. (Chair). (2000, April). Eminent I-O psychologists look back and forward. Symposium presented at the 15th annual conference of the Society for Industrial and Organizational Psychology, New Orleans, LA.
+
+London, M., & Moses, J. L. (1990). The changing roles of the industrial/organizational psychologist: From analyst/technician to change agent/strategist. Industrial-Organizational Psycholo- gist, 27, 17–26.
+
+Lord, R. G., & Maher, K. J. (1991). Cognitive theory in industrial and organizational psychology. In M. D. Dunnette & L. M. Hough (Eds.), Handbook of industrial and organizational psy- chology (2nd ed., Vol. 2, pp. 1–62). Palo Alto, CA: Consulting Psychologists Press.
+
+Lorsch, J. W. (Ed.). (1987). Handbook of organizational behavior.

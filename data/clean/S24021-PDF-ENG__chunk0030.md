@@ -1,7 +1,19 @@
-## items such as hamburgers, hot dogs, sandwiches, fries, and milkshakes.
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2919d57ccef54f1643119ef25b8649455d3b7e8
+title: S24021-PDF-ENG
+---
+## per square foot in the industry: $2,500 versus $650 for the typical
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+burger chain. In an industry where scale economies are critical, the
 
-5
+chain’s excellent ﬁnancial performance is surprising. A key ingredient
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to its success is its operating system, which is designed around lean
+
+manufacturing principles. Every process, from where to place the
+
+ketchup on a burger to how far to open a hot dog bun, has been carefully
+
+studied and speciﬁed. The company’s menu is limited to a few basic

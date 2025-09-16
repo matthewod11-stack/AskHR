@@ -1,3 +1,15 @@
-# Almost Always
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 758cb6a9c83d4276d5b02197d8986f4ebfc994e4
+title: document_resume
+---
+# Almost Never
 
-Attends and actually participates in programs, workshops, and glasses designed for maintaining credentials and competencies.
+2
+
+3
+
+4
+
+5

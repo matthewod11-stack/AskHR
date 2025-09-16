@@ -1,21 +1,27 @@
-# Abusive
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: e6f05b4124bfb81fae7a331e2b1a4be65aefc5c5
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Ethical
 
 3
 
-936
+369
 
-- .35
+.60
 
-- .41
+.53
 
-- .29
+.67
 
-- .41
+.67
 
-.04
+.06
 
-68.77
+57.12
 
-- .46
+.60
 
-- .36
+.74

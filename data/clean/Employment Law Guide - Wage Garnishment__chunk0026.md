@@ -1,5 +1,7 @@
-# Employee Rights
-
-Title III will in most cases give individuals the right to receive at least partial compensation for the personal services that they provide despite garnishment. This law also prohibits an employer from discharging an
-
-employee because of the garnishment of wages for any single indebtedness. The Wage and Hour Division
+---
+source_path: Employment Law Guide - Wage Garnishment.md
+pages: n/a-n/a
+chunk_id: 094e38f7da6cdd89ec669d9483dd3f4377cd1d18
+title: Employment Law Guide - Wage Garnishment
+---
+# creditor or creditors.

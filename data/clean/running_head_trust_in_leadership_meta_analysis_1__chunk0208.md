@@ -1,9 +1,13 @@
-## meta-analysis. Journal of Management, 44, 501-529.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 5ad7b83a91664dcc44e0dfb881fcbad388c562f9
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## WEIRDly unfamiliar: A multi-language meta-analysis of paternalistic leadership
 
-Hoyt, C. L., & Blascovich, J. (2003). Transformational and transactional leadership in virtual
+behaviors from 152 studies. The Leadership Quarterly, 30, 165-184.
 
-and physical environments. Small Group Research, 34, 678-715.
+Hoch, J. E., Bommer, W. H., Dulebohn, J. H., & Wu, D. (2018). Do ethical, authentic, and
 
-Huang, X., Iun, J., Liu, A., & Gong, Y. (2010). Does participative leadership enhance work
-
-performance by inducing empowerment or trust? The differential effects on
+servant leadership explain variance above and beyond transformational leadership? A

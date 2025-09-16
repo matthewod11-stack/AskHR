@@ -1,29 +1,19 @@
-# design in addition to Agent design.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: d9f6c9a275486142affdea8a76f30d020fa92c28
+title: agents_companion
+---
+# AgentOps as well.
 
-Let’s go ahead and define these “ops” terms to help distinguish between them:
+Remember that new practices don't replace the old. DevOps and MLOps best practices
 
-- Development and Operations (DevOps) is the practice of efficiently productionizing
+are still necessary for AgentOps, as they are dependencies. For example, Agent tool use,
 
-deterministic software applications by integrating the elements of people, processes, and
+where APIs are invoked based on agent orchestration, often uses the same APIs you would
 
-technology. DevOps serves as the foundation for all the following terms.
+9
 
-- Machine Learning Operations (MLOps) builds upon the capabilities of DevOps and
+invoke with non-agentic software. Authentication and secret management, security, privacy,
 
-concentrates on the efficient productionization of ML models. The primary distinction is
-
-that the output of an ML model is non-deterministic and relies on the input data (garbage
-
-in, garbage out).
-
-- Foundation Model Operations (FMOps) expands upon the capabilities of MLOps
-
-and focuses on the efficient productionization of pre-trained (trained from scratch) or
-
-customized (fine-tuned) FMs.
-
-- Prompt and Operations (PromptOps) is a subcategory of GenAIOps that focuses
-
-on operationalizing prompts effectively. Its main additional capabilities include prompt
-
-storage, lineage, metadata management (including evaluation scores), a centralized
+exception handling, throttling, quotas, and scalability are still critical and require careful API

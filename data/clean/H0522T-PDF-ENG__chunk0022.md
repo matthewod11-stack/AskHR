@@ -1,23 +1,19 @@
-## HBR / Digital Article / Has Sexual Harassment at Work Decreased Since #MeToo?
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95a9e47484f5d43410a34e752f7d4d0dfd24e400
+title: H0522T-PDF-ENG
+---
+# More on our sample
 
-time employees in the US. The sample for the interview data was 31
+The overall sample for the survey data consisted of 513 women who
 
-women in 2016 and 21 of those women in 2018. They commented on
+responded to our Qualtrics panel (n = 250 in 2016 and n = 263 in 2018).
 
-sexual harassment and the #MeToo Movement. We focused our sample
+The participants ranged in age from 25 to 45 and were working as full-
 
-on women because, while men certainly do experience sexual harassment,
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-they experience it at a lower frequency and with fewer psychological
+5
 
-outcomes compared to women. We controlled for factors such as work
-
-experience, position level, and race to account for differences between the
-
-2016 and 2018 samples. The 2018 qualitative data was collected with a
-
-subset of the same women interviewed in 2016.
-
-This article was originally published online on July 18, 2019.
-
-Stefanie K. Johnson is an associate professor of management and entrepreneurship at University of Colorado’s Leeds School of Business and author of Inclusify. Dr. Johnson studies the intersection of leadership and diversity, focusing on how unconscious bias aﬀects the evaluation of leaders, and strategies that leaders can use to mitigate bias. She is a member of the MG 100 Coaches and the 2020 Thinkers50 Radar List.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

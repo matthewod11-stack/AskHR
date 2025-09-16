@@ -1,3 +1,13 @@
-# In addition to traditional
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4e3df09c17d6acf46783ec56b7e1381a66fd093e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Applied Case Study
 
-benefits, the kitchen staff receive a free meal each shift, and all employees receive 50% off meals for themselves and up to three guests when they are not working. Man- agers receive two weeks of vacation to start, and four weeks after ten years. They are also part of a bonus program that allows them to earn up to 200% of their potential. The company uses salary surveys to ensure that their pay and bonus package is competitive.
+Following the success of
+
+the motion picture Forest Gump, the Bubba Gump Shrimp Company opened its first restaurant in 1996 on Cannery Row in Monterey, California. Today, they have grown to over 30 locations worldwide. The importance of employee relations at the res- taurant chain is demonstrated by awards such as the 2005 Nation’s Restaurant News NRAEF Spirit Award for excellence in hiring, training, retaining, and developing employees; Chain Leader’s Best Places to Work in 2006, and being named by the OC Metro Magazine as the “2006 Best Company to Work for in Orange County.” As one would imagine from the name, Bubba Gump specializes in shrimp but also has items such as fish and chips, mahi mahi, and ribs.
+
+Each restaurant also contains a store in which customers can purchase Forest Gump souvenirs as well as sea food to prepare at home.

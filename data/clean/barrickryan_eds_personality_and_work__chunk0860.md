@@ -1,7 +1,9 @@
-# EMERGING TRENDS AND NEEDS 311
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 9a984318611121dce9806473a804a267dd6274da
+title: barrickryan_eds_personality_and_work
+---
+# Measurement Methods
 
-developing entirely new ways of measuring personality variables. A focus on the content of the individual item (referred to as item frame of reference) and bandwidth issues reﬂects interest in im- proving the validity of self- or other-report measures of personality. A focus on the cross-cultural applicability of our measures reﬂects the reality of globalization and its impact on our measures and gen- eralizability of our models. Different sets of instructions to test tak- ers are now recognized as a way to affect validity and decrease intentional distortion. New content, new constructs, and new modes of measurement have emerged.
-
-Item Frame of Reference A growing body of evidence indicates that specifying the context or situation portrayed in items moderates validity. Responses to complete sentences that provide context yield higher criterion- related validities than adjectives (Cellar, Miller, Doverspike, & Klawsky, 1996). Items that provide context by describing the situa- tion yield higher criterion-related validities, lower error variances, and more accurate differentiation among groups than items that ask about feelings or behavior in general (Schmit, Ryan, Stierwalt, & Powell, 1995; Robie, Schmit, Ryan, & Zickar, 2000; J. Wright, Lindgren, & Zakriski, 2001). These results provide support for Murtha, Kanfer, and Ackerman’s suggested interactionist taxon- omy of personality and situations (1996), as well as J. Wright and Mis- chel’s “conditional” approach to personality measurement (1987). Our models will provide more accurate predictions when the situ- ation is considered during scale development.
-
-Bandwidth The nature of the controversy concerning narrow versus broad bandwidth measures has changed. The answer to the question, “Which is better, broad or narrow measures?” is, “It depends on the nature of the criterion.” Criterion-related validities are higher when a construct-oriented approach is used to match predictors to criteria, including bandwidth considerations, whereby narrow pre- dictor constructs are matched with narrow criterion constructs and broad predictor constructs are matched with broad criterion con- structs (Hough & Furnham, 2003). This is an important conclusion that can help guide theory building and research.
+With the surge in research with personality variables has come a renewed interest in improving our measurement strategies, un- derstanding the threats to the accuracy of our measurement, and

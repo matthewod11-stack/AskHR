@@ -1,11 +1,9 @@
-## Josselson, R., & Lieblich, A. (Eds.). (1993–1999). The narrative
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2053ca162059d41222fe1870105aebb566610756
+title: untitled
+---
+# New York: Century.
 
-study of lives (Vols. 1–6). Newbury Park, CA: Sage.
-
-Jung, C. G. (1971). Psychological types. In H. Read, M. Fordham, G.Adler,&W.McGuire(Eds.),ThecollectedworksofC.G.Jung (Vol. 6, pp. 1–495). Princeton, NJ: Princeton University Press.
-
-Kershaw, I. (1999). Hitler, 1889–1936: Hubris. New York: Norton.
-
-Kirkpatrick, E. A. (1904). [Review of the book Adolescence]. Jour- nal of Philosophy, Psychology and Scientiﬁc Methods, 1, 687–693.
-
-Krueger, E. T. (1925). Autobiographical documents and personality.
+Jones, K. W. (1999). Taming the troublesome child: American families, child guidance, and the limits of psychiatric authority. Cambridge, MA: Harvard University Press.

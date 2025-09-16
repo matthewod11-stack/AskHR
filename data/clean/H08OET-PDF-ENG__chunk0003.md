@@ -1,5 +1,7 @@
-## Our previous article on the persistent negative impact of resume gaps
-
-received a good deal of reader attention. It’s not surprising, given
-
-the events of 2024 in the white-collar talent market. From the very
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8abb052eb79ee92c33477090e666909d1c2f3b4
+title: H08OET-PDF-ENG
+---
+# MirageC/Getty Images

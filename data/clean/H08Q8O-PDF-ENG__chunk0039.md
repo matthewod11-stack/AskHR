@@ -1,19 +1,49 @@
-# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3873b4837a433ff1a5821ea965b5eedd97ce988
+title: H08Q8O-PDF-ENG
+---
+## the employees better than the executives or human resource managers
 
-But this person’s boss found a way to create ﬂexibility within the
+designing policies do. One member of a Dell global team, who has been
 
-policies by caring about what matters. Acknowledging that it made no
+working remotely for more than 10 years from Europe with a boss in
 
-sense for the members of the global team to be in the oﬃce when they work with people in diﬀerent time zones (in early mornings as well
+Texas, told us that, when the company announced that employees had
 
-as late afternoons), the supervisor was able to create an exception for
+less than a month to choose between working at least three days in the
 
-them. “My boss is great,” our contact told us. “She talked to me about diﬀerent options and told me she would support our team.” And the
+oﬃce or else becoming ineligible for promotion or changing divisions,
 
-team, we learned, was more engaged than many other groups the team
+several reasons were given in terms of what is right and what works—
 
-member observed across the company.
+abstract arguments about the right of employers to set the conditions
 
-The CMG experiment and the Dell example both demonstrate that
+of how and where work gets done and the importance of presence
 
-crafting psychological contracts based on an ethics of care requires
+in the oﬃce for learning, creativity, and culture-building. None of the
+
+arguments addressed what matters.
+
+When the announcement was made, the Dell team member told us,
+
+there was a lot of agitation on their work group chats: “Everybody
+
+posted and the messages showed a mix of despair, frustration,
+
+unhappiness, and a feeling of unfairness. People didn’t trust the
+
+company.” The policy was strict: Time in the oﬃce would be tracked
+
+by badging; if you were sick one week, you had to work in the oﬃce
+
+extra days to make up for it. People suddenly faced long commutes and
+
+had to ﬁnd childcare solutions.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,11 @@
-## American Journal of Psychotherapy, 7, 8–15.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f25b307181e5820eb1eeff5a04d6974ea9bae57c
+title: untitled
+---
+# Routledge & Kegan Paul.
 
-Freeman, W., & Watts, J. W. (1948). Pain mechanisms and frontal lobes: A study of prefrontal lobotomy for intractable pain. Annals of Internal Medicine, 28, 747–754.
+Eysenck, H. J. (1952). The effects of psychotherapy: An evaluation. Journal of Clinical and Consulting Psychology, 16, 319–324. Foucault, M. (1965). Madness and civilization: A history of insanity in the age of reason (R. Howard, Trans.). New York: Mentor Book/New American Library.
 
-Freud, S. (1950a). The etiology of hysteria. In Collected papers: Early papers (Vol. 1, J. Riviere, Trans.). London: Hogarth Press. (Original work published 1896)
-
-Freud, S. (1950b). On the history of the psycho-analytic movement. In Collected papers: Early papers (Vol. 1, J. Riviere, Trans.). London: Hogarth Press. (Original work published 1914)
-
-Gall, F. J. (1835). Sur les fonctions du cerveau et sur celles de cha- cune de ses parties [On the functions of the brain and each of its parts] (Vol. 1-6, W. Lewis, Jr., Trans.). Boston: Marsh, Capen & Lyon. (Original work published 1825)
-
-Galton, F. (1909). Essays in eugenics. London: Eugenics Education
+Frankl, V. E. (1953). Logos and existence in psychotherapy.

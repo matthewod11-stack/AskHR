@@ -1,9 +1,7 @@
-## Aaron Hornbrook, a customer service manager and vice president at
-
-Wells Fargo we’ve interviewed, holds monthly roundtable meetings
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f802d7b81b12eb25cddd18200b32f01b1998bb60
+title: H06WA9-PDF-ENG
+---
+## contributions toward your common success.

@@ -1,9 +1,23 @@
-## A lot of executive communication happens in real-time exchanges when
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e4c1581ecbbe6de47fd8597c649bad2e3709a83
+title: H08UYL-PDF-ENG
+---
+# meetings.
 
-you don’t have time to prepare. Good strategic editing also means
+After receiving feedback, the CEO started to make a point of asking
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+himself how his team was feeling before he stepped into a meeting
 
-6
+to share his perspective with them. He got better at acknowledging
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the team’s concerns, needs, and successes—not just challenging them. As a result, the team felt like he understood the diﬃculties they were
+
+facing, cared about their well-being, and genuinely wanted to help them
+
+to be successful. This created a more motivating environment for all
+
+concerned.
+
+- 3. Prepare or pause.

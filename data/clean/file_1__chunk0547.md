@@ -1,19 +1,21 @@
-# F for increment R2 total
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 9cd104b5108eecc014202e6f14c13200b7fe3382
+title: file_1
+---
+## Internal reference point R2 for increment
 
-9.568
+.264
 
-.090
+.063
 
-.000
-
-5.909
-
-.068
-
-Adjusted R2 F for total
-
-.077 6.807
+.060
 
 .000
 
-.055 5.335
+.199
+
+.037
+
+.059

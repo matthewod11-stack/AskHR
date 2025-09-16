@@ -1,9 +1,9 @@
-# American Psychologist, 10, 238–242.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1c2126f1faf245352425f4ff69a23e8afc16ca1e
+title: untitled
+---
+## New York: Harcourt, Brace and Jovanovich.
 
-Holland, B., Hogan, R., & Sheton, P. (1999). From phrenology to fraud: The breakdown of science in the practice of industrial- organizational psychology. Industrial-Organizational Psycholo- gist, 36(3), 35–36.
-
-Hollenbeck, J. R. (Ed.). (1998). Personnel psychology’s citation leading articles: The ﬁrst ﬁve decades. Personnel Psychology, 51(4), Editorial.
-
-Hoppock, R. M. (1935). Job satisfaction. New York: Harper.
-
-Houser, J. D. (1938). What people want from business. New York:
+Hill, C. (1955). Psychological research within the armed services.

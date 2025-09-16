@@ -1,7 +1,13 @@
-# tech company.
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2328de7b87978db4e68e1a2eb4baa146ce4a2d13
+title: R2301H-PDF-ENG
+---
+# through diaphragmatic breathing.
 
-Isobel was in trouble and called us in. She was at loggerheads with
+To win in any leadership moment, great leaders need to develop and
 
-the ﬁrm’s mercurial CEO, who had a tendency to be unreliable—
+be able to access all four stances. To illustrate, let’s consider one of our
 
-contradicting himself, changing positions, and often making promises
+clients, Isobel, a newly appointed president of a major business line at a

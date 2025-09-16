@@ -1,17 +1,13 @@
-## with. In his forthcoming book, The Geek Way: The Radical Mindset that
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90a75d14ceed2f832068bdcb39982e524053a0a6
+title: H07T7V-PDF-ENG
+---
+## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
 
-Drives Extraordinary Results, McAfee says geeks are nothing more or
+According to Andrew McAfee, a principal research scientist at the MIT
 
-less than “obsessive mavericks” who are absolutely ﬁxated on ﬁnding
+Sloan School of Management, business leaders need to think more
 
-unconventional solutions to their business’ hard problems. You need
-
-them throughout the organization, not just at the top, and you need to
-
-entrust them with the power to make real changes.
-
-For this episode of our video series “The New World of Work”, HBR
-
-editor in chief Adi Ignatius sat down with McAfee to discuss:
-
-- Evolving a company’s culture not by focusing on organizational
+like geeks, but not the computer-based stereotype you may be familiar

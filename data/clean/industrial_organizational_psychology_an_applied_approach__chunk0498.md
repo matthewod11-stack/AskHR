@@ -1,15 +1,13 @@
-# When KSAO Is Needed 0
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6cbeb26c64e125755438e4ee1ff6b0251ce57a4e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Importance of KSAO 0
 
-KSAO is not needed.
+KSAO is not needed for graduation from the police academy or satisfactory job performance. KSAO is helpful for graduation from the police academy or satisfactory job performance. KSAO is important/essential for graduation from the police academy or satisfactory job performance.
 
 1
 
-KSAO is needed after completion of fi eld training.
-
 2
-
-KSAO is needed after graduation from the police academy.
-
-3
-
-KSAO is needed at the time of hire.

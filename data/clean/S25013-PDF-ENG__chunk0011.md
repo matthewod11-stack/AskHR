@@ -1,23 +1,17 @@
-## inventory by basic clothing features like category, fabric, color, and
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6a28ce8305a7c2aa2af75a4ab63b9680e23a4ac
+title: S25013-PDF-ENG
+---
+## HBR / Spotlight / Why People Resist Embracing AI
 
-price to predict which items would need to be allocated to each store.
+how Miroglio Fashion, a large Italian retailer of women’s apparel,
 
-The second model was more complex and obtuse, using sophisticated
+approached automating the task of forecasting demand at its 1,000
 
-image analysis to identify harder-to-describe visual features of clothing
+stores—which at the time was performed by each store’s local manager.
 
-—such as shape, layering and draping, and combinations of materials
+The company developed two models. The ﬁrst was simpler and
 
-—to make the same predictions. Even though the complex model
-
-outperformed the simpler one, the executive team ﬁrst introduced the
-
-simpler model to ensure that employees developed conﬁdence in AI and
-
-were motivated to use it. The company ran a 13-week pilot test with
-
-some stores, demonstrating that those locations were more successful
-
-than those without the model, before rolling out the simpler model to all
-
-stores. Only after about a year of using it did the retailer graduate to the
+understandable, leveraging a regression approach that broke down the

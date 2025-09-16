@@ -1,17 +1,7 @@
-# purchase basis.
-
-In the race to declare the transformation complete, the eﬃciency
-
-approach adds sustainability metrics to supplier selection criteria while
-
-leaving these novel, intricate, multi-stakeholder complexities to be worked out by staﬀ. Transformations are fundamental changes, which means staﬀ are most likely inexperienced in sustainability, and yet they
-
-are tasked with solving these complexities in real time alongside all
-
-their other business-critical responsibilities. Leadership is frustrated
-
-about underperformance against a transformation that has ostensibly
-
-been completed. This pales in comparison, though, to the frustration that their staﬀ feels, with their already diﬃcult jobs now burdened with
-
-an even more complex series of problems where they feel unsupported
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8c5c7b00366ba5a4303350ec5fb370352bf4c0a
+title: H08MHC-PDF-ENG
+---
+## diligence process on a supplier-by-supplier or even a purchase-by-

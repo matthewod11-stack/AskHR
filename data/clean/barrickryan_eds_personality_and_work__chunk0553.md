@@ -1,5 +1,9 @@
-# 172 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 462bbc22bea8ebb4ff7e6ad210e0eec7701570a2
+title: barrickryan_eds_personality_and_work
+---
+## Satisfaction, Perceived Injustice, Stress, and CWBs
 
-Perceptions of injustice are also related to theft (Greenberg, 1993; Skarlicki & Folger, 1997), retaliatory behaviors (Skarlicki, Folger, & Tesluk, 1999), organizational withdrawal, and other CWBs. In a recent meta-analysis, Colquitt, Conlon, Wesson, Porter, and Ng (2001) reported that the estimated population correlation between procedural justice and withdrawal, after correcting for sampling error and unreliability, was −.36 for procedural justice and −.41 for distributive justice.
-
-Finally, perceptions of workplace stress often result in CWBs. In the face of a perceived environmental stressor, individuals must somehow cope. CWBs such as withdrawal from work or substance abuse may be the chosen ways of coping. Perceived work stress has been linked to withdrawal (Leiter & Robichaud, 1997), turnover intention (Jamal, 1990), and sabotage (Storms & Spector, 1987).
+Research has linked satisfaction, perceived injustice, and stress to CWBs. The relationship between job satisfaction and employee turnover has been the focus of much of this research. In particu- lar, many structural models have been created to explain the rela- tionship between job satisfaction and turnover (Bannister & Griffeth, 1986; Dalessio, Silverman, & Schuck, 1986; Hom, Grif- feth, & Sellaro, 1984; Mobley, Horner, & Hollingsworth, 1978). Other meta-analyses have found signiﬁcant relationships between overall job satisfaction and absenteeism (Hackett, 1989).

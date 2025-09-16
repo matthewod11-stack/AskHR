@@ -1,11 +1,13 @@
-# Source: www.kudumbashree.com
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: b6b54a1decf06b84cbc1a9e15ef2f2b58b79eb0e
+title: final_2019_jan_feb_jbs_pmd
+---
+# ISSN 2393-9451
 
-Community Development Society (CDS) At the Panchayat / Municipal level a Community Development Society (CDS), a registered body under the Travancore-Cochin Literacy Scientific and Charitable Societies Act is formed by federating various ADSs in the Panchayat. The CDS has 2 distinct bodies – The General Body and The Executive Committee.
+elected by the ADS general body which include a Chairperson, Vice Chairperson and Secretary.
 
-General Body CDS General Body is comprised of all ADS Governing Body members.
+The second tier is the Area Development Society, which is formed at ward level by federating all the NHGs in the ward. The activities of the ADS are decided by the representatives of the women elected from various NHGs. The Area Development Society
 
-Executive Committee The size of the CDS Executive committee shall be equivalent to the number of ADS including special ADS. The CDS Executive shall have the following office bearers.
-
-- 2. Review of Literature Review of existing studies has been done to arrive at building a conceptual framework. The literature available even though is scant specifically in the context of Neighborhood Groups (NHGs) in Kerala, it helps in understanding the factors that affect the group performance. The factors identified through the review of literature are multi-dimensional in nature and hence has given a new dimension to the study. Relevance of the variables are studied empirically and through qualitative survey prior to the building of model. The variables are extracted from various studies based on their correlation and relevance to NHG performance. Literature is reviewed and presented in the following heads 2.1 Definition and meaning of concepts 2.2. Demographic characters and its impact of performance 35
-
-- 2. Review of Literature Review of existing studies has been done to arrive at building a conceptual framework. The literature available even though is scant specifically in the context of Neighborhood Groups (NHGs) in Kerala, it helps in understanding the factors that affect the group performance. The factors identified through the review of literature are multi-dimensional in nature and hence has given a new dimension to the study. Relevance of the variables are studied empirically and through qualitative survey prior to the building of model. The variables are extracted from various studies based on their correlation and relevance to NHG performance. Literature is reviewed and presented in the following heads 2.1 Definition and meaning of concepts 2.2. Demographic characters and its impact of performance 35
+consists of: General Body - consisting of all Presidents, Secretaries & 3 sectoral volunteers of the federated NHGs. Executive Committee - The Executive Committee of the Area Development Society consists of 7 members elected by the ADS general body which include a Chairperson, Vice Chairperson and Secretary.

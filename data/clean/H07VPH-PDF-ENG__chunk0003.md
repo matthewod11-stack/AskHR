@@ -1,7 +1,19 @@
-# revert.
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 598ee01056e1208767c44a9efd8251e4cef01049
+title: H07VPH-PDF-ENG
+---
+# Thomas Carroll/Getty Images
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Have you ever noticed that when you go home to your parents’ house,
 
-1
+no matter what age you are, you make decisions diﬀerently than when
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you’re at work or out with a group of friends? For many of us, this is a
+
+familiar and sometimes frustrating experience — for example, allowing
+
+our parent to serve us more food than we want to eat. We feel like adults
+
+in our day-to-day lives, but when we step into our childhood homes we

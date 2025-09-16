@@ -1,25 +1,31 @@
-# Lean into curiosity…
+---
+source_path: H08T1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac70a4ee46ff14156a9b78a028a1686521df4bcc
+title: H08T1K-PDF-ENG
+---
+## HBR / Digital Article / How to Communicate with Your Team When Business Is Bad
 
-Your team likely has many things weighing on them: What’s the
+See the good
 
-forecast? Will there be more layoffs? How bad is it, really? It might be
+As you tackle the hard issues, Eikenberg recommends reﬂecting on
 
-tempting to redirect the conversation, but Eikenberg advises “getting
+where things are on track. Take a cue from improv and use the “yes,
 
-curious” instead. “The best thing leaders can do is create space for
+and” framework as a guide. “Yes, things are chaotic—and we’re doing
 
-people to reﬂect, to muse, and wonder,” she says. Ask them questions
+good work,” she says. “You’ve got to hold what feels like two opposing
 
-about their experience: What are you concerned about? How is it
+views.” When you recognize what’s working even amid the messiness, it
 
-showing up day to day? And what does this mean for the core project
+helps your team see it, too, she adds. (More on this later.) One word of
 
-we’re working on? Beware: A lack of questions from your team doesn’t
+caution: as you zero in on the positives, be careful not to explain away
 
-necessarily signal all is well. If they’re not talking, Eikenberg suggests
+the negatives by blaming external factors like market conditions or a
 
-checking in with a few “thermometers” on the ground—project leads,
+down economy. “These realities can be part of the narrative, but don’t
 
-coordinators, or others who aren’t in formal leadership roles but are
+let them become excuses,” says Lynch. “Instead, take responsibility and
 
-trusted and in the loop—to get a read.
+focus on what can be improved.”

@@ -1,3 +1,21 @@
-## factors, for example, logistical strengths and weaknesses or advantages
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cdb00d34d3fa479f58a2552fcfcf7e7352a068b
+title: H08COG-PDF-ENG
+---
+# relevant.
 
-compared to existing oﬀerings. Are there case studies you can hand out
+Previous research has shown that individuals often incorrectly assume
+
+others share their thinking. By identifying strengths and weaknesses in
+
+diﬀerent perspectives, evaluators can use discussion to build consensus
+
+around the most pertinent factors to use in evaluating a new idea.
+
+Develop criteria to focus discussions.
+
+Another way to build consensus is to create and disseminate criteria
+
+ahead of time. Ask employees to evaluate the idea based on speciﬁc

@@ -1,7 +1,7 @@
-# | ARTICLE INFORMATION
-
-ACCEPTED: 01 May 2024 PUBLISHED: 18 May 2024 DOI: 10.32996/jbms.2024.6.3.6
-
-- 1. Introduction In the recent past, employee attrition or turnover rate has become a substantial concern for companies in the USA, because it results in loss of productivity, human capital, increased organizational costs, and the demand for talent acquisition. Employee attrition refers to the involuntary or voluntary departure of personnel from a company. Global surveys by the World Bank demonstrate that 15-25% of staff voluntarily quit their jobs annually (Naik, 2023). Therefore, retaining top performers is paramount for organizational success. In that respect, companies require strategies and tools to strategically pinpoint at-risk employees and resolve their needs respectively. With the large volume of employee data now available on the company database, machine learning can be utilized to build predictive models for employee attrition (Musanga, 2023). This study aims to delve into the Copyright: © 2024 the Author(s). This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) 4.0 license (https://creativecommons.org/licenses/by/4.0/). Published by Al-Kindi Centre for Research and Development, London, United Kingdom.
-
-Page | 47
+---
+source_path: journal_of_business_and_management_studies.md
+pages: n/a-n/a
+chunk_id: 257945c10f9486bc4679e51e043e9a97a44a1f58
+title: journal_of_business_and_management_studies
+---
+# Employee Attrition; Talent Retention Python; Random Forest; Gradient Boosting; Ada-boost; Decision Tree

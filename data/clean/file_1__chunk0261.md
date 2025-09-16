@@ -1,9 +1,25 @@
-# 62
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: b5a8f27c3d1cc411d25a1d4d87f3c9a11ebdd2ef
+title: file_1
+---
+## The Journal of Socio-Economics, 35(2), 243-267.
 
-Rantalaiho, L. 1997. Contextualizing Gender. Gendered Practices in Working Life. In L. Rantalaiho and T. Heiskanen, eds, Gendered Practices in Working Life. London: Macmillan Press Ltd.
+Pease, B., 2010. Undoing Privilege: Unearned Advantage in a Divided World. ZedBooks.
 
-Rantalaiho, L., Heiskanen, T. and P. Korvajärvi, 1997. Studying Gendered Practices. In L.
+Peng, K., Ngo, H., Shi, J. and C. Wong, 2009. Gender differences in the work commitment of
 
-Rantalaiho and T. Heiskanen, eds, Gendered Practices in Working Life. London: Macmillan Press Ltd.
+Chinese workers: An investigation of two alternative explanations. Journal of World Business, 44, 323-335.
 
-Reskin, B., 2003. Including mechanisms in our models of ascriptive inequality. American
+Pickens, J., 2005. Attitudes and Perceptions. In N. Borkowsky, eds, Organizational
+
+Behaviour in Health Care. Sudbury, MA: Jones and Bartlett.
+
+Podsakoff, P., MacKenzie, S., Lee, J-Y. and N. Podsakoff, 2003. Common method biases in behavioural research: A critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879-903.
+
+Powell, G. and L. Mainiero, 1992. Cross-currents in the river of time: conceptualizing the
+
+complexities of women's careers. Journal of Management, 18, 215-37.
+
+Raevaara, E. 2008. In the Land of Equality? Gender equality and the Construction of Finnish and French Political Communities in the Parliamentary Debates of Finland and France. In E. Magnusson, M. Rönnblom and H. Silius, eds, Critical Studies of Gender Equalities. Stockholm: Makadam Publishers.

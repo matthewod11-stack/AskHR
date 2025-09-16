@@ -1,11 +1,15 @@
-## Automotive AI: Real World Use of Multi-Agent Architecture
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: c37baae4c2bef4047debb8f71a95fb6b4b1fbdb6
+title: agents_companion
+---
+## Figure 14: A process diagram of the AI co-scientist system31
 
-To illustrate how multi-agent concepts manifest in practice, let's examine a comprehensive
+This approach exemplifies how multi-agent architectures move beyond static AI interactions,
 
-multi-agent system designed for automotive conversational AI, where several specialized
+instead fostering dynamic, evolving intelligence capable of handling sophisticated tasks in
 
-agents collaborate to provide an intuitive and seamless in-car experience.
+research, enterprise automation, and knowledge management.
 
-First, we’ll look at some examples of specialized agents, followed by some common patterns
-
-for combining them to form a multi-agent system.
+53

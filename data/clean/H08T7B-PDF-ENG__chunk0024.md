@@ -1,13 +1,7 @@
-## Fifth Symphony—skillfully balance moments of tension with moments
-
-of powerful resolution, eﬀective team learning thrives on the
-
-structured interplay between building up and then releasing tension.
-
-Harmonious learning occurs when complementary activities, such
-
-as team reﬂection and external expert consultations, reinforce one
-
-another, creating moments of clarity and alignment. Conversely,
-
-dissonance arises when conﬂicting activities, like simultaneous
+---
+source_path: H08T7B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 809470b83264d61018dbb9da8d9f98863ee19a8f
+title: H08T7B-PDF-ENG
+---
+## musical masterpiece. Just as great compositions—like Beethoven’s

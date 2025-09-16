@@ -1,23 +1,17 @@
-# The Turning Point
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 981f7219e896d0e2e359d24e627a0f54e064e687
+title: H08PQR-PDF-ENG
+---
+# non-family members.
 
-The Rossi family’s crisis was painful, but it was also clarifying. The
+Clearly deﬁned hiring and employment criteria help dispel perceptions
 
-family hired a family business advisor and began putting the necessary
+of favoritism. Transparent processes promote fairness, ensuring no
 
-policies in place. They created a family charter, drafted employment
+one feels that a family connection outweighs performance. A formal
 
-and ownership policies, and agreed that all future marriages involving
+grievance process empowers all employees to raise issues safely and
 
-family shareholders would be accompanied by a prenup.
-
-Today, the business is stronger and so is the family. Roles are clearer.
-
-Expectations are aligned. And when disagreements arise, they’re
-
-handled through process, not personality.
-
-. . .
-
-My message on these issues should be clear: Don’t wait for a crisis
-
-to get clarity. Too many family enterprises treat formal policies as
+constructively before they spill into the family dynamic.

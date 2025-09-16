@@ -1,15 +1,23 @@
-# work environment.
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77fa59538383a7a6b9e18a192b58936a8e37d50e
+title: H08CT9-PDF-ENG
+---
+# HBR / Digital Article / Is Your Organizational Transformation Veering Off Course?
 
-. . .
+The way to do it, from my own experience, is ﬁrst you listen to
 
-The heart of a successful transformation beats around reading,
+[employees] and then you agree with them what would need to
 
-nurturing, and acknowledging emotions. Leaders who achieve
+be done differently. You commit and you deliver. Then you do
 
-successful transformations create and maintain an environment where
+that several times and eventually, when people see that there is
 
-people can experiment, learn, and take ownership of their work —
+genuine interest, they are empowered to choose solutions to their
 
-and ultimately feel good about their eﬀort. As one frontline worker
+problem, they get the support that they need, and that support is
 
-at Applied Materials told us of his experience: “I think the support is
+predictable. Then you build more and more trust, and that trust
+
+helps create a better work environment…and a psychologically safer

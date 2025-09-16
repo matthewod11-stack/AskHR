@@ -1,21 +1,15 @@
-# this several times.
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f0c017b40c91dd8c50920f4054b10ea9afd0b07
+title: H08EJN-PDF-ENG
+---
+# your deck for the tenth time.
 
-- Do you think the current version won’t accomplish the objective?
+Consider politely pushing back with language like:
 
-- Will the change you’re requesting alter the outcome?
+I understand your feedback. I know both of us want this (product,
 
-- What’s the cost of waiting to move forward?
+project, etc.) to be successful. I appreciate you taking the time to
 
-- Is the change worth the investment of (X amount of time) or would
-
-that time be better served prioritizing Y?
-
-Tone is everything. You must ask these questions from a place of
-
-genuine curiosity. Perhaps, something has really changed.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+weigh in. I want to circle back to our objective of X. We’ve changed

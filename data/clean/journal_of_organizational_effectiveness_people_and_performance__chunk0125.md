@@ -1,5 +1,7 @@
-## Development International, Vol. 13, pp. 209-223.
-
-Bakker,A.B.andDemerouti,E.(2014),“Jobdemands-resourcestheory”,inChen,P.Y.andCooper,C.L. (Eds), Wellbeing: A Complete Reference Guide, Volume III, Work and Wellbeing, Wiley Blackwell, New York, NY, pp. 37-64.
-
-Bakker, A.B., Demerouti, E. and Verbeke, W. (2004), “Using the job demands-resources model to
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: ade192924c2ff6d039a584054dcb8178e3b8e21e
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## (2008), “Towards a model of work engagement”, Career

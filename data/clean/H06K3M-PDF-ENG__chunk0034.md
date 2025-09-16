@@ -1,7 +1,21 @@
-# time for work that interests them.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5a445dcc173b9ca5a358a3d7f24a1f2ae09941a3
+title: H06K3M-PDF-ENG
+---
+# mirror.
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+We all jump into too many collaborations, which happens in micro-
 
-6
+moments when a request is made or when we see an opportunity that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+we know we could help with, even when we know we shouldn’t. Most
+
+people have had the experience of being asked to do something and
+
+knowing with every ﬁber of their being that they should say no, but in a
+
+nano-second convince themselves why they need to do this thing after
+
+all. They jump in and then wonder six weeks later why they never have

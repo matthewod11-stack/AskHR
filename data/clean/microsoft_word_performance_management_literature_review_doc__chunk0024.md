@@ -1,13 +1,55 @@
-# (cid:33)(cid:34) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:2)(cid:6)(cid:2)(cid:8)(cid:13)(cid:35)(cid:10)(cid:14)(cid:15)(cid:13)(cid:2)(cid:3)(cid:7)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)(cid:17)(cid:2)(cid:18)(cid:15)(cid:2)(cid:19)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: 38a8e292eeb751b7216487a57c20a1ac081742c7
+title: microsoft_word_performance_management_literature_review_doc
+---
+# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:33)(cid:33)(cid:10) (cid:10)
 
-A study by Incomes Data Services comments that competency frameworks should not become ‘unwieldy and consequently fall out of use. Competency frameworks need to be flexible so they can be adapted easily in line with organisational changes and remain fit for purpose’ (IDS, 2008, p.1)and ‘whatever form competencies take, their overriding purpose is to add business benefit’ (IDS, 2008, p.2). Competencies and behaviours have become key to performance management to establish how goals should be achieved and to contribute to development planning (IDS, 2008).
+organisations appraising employees once a year, and competencies were a common component (IRS, 2003). Performance and development needs were found to be measured against competencies in 56 per cent of these organisations and in the vast majority of organisations surveyed a job description was provided for the jobs being appraised.
 
-The IDS study recommends that when an organisation is revisiting or replacing a competency framework, a first step should be to identify the strengths and weaknesses of the current system. It looks to the large retailer B&Q as an example of this, where consultations with key stakeholders have helped identify what are the elements of the existing competency framework that are working and what should be included in the new model. IDS recommends that employers review and adapt their competency frameworks on a regular basis.
+Plachy (1993) defines a job as a common definition of tasks that are the same whoever carries them out, while a role is a broader definition of requirements covering the contribution people make in achieving objectives, reflecting the different contribution individuals make, as well as the purpose of what they are doing. This move has supported the inclusion of competencies in appraisal and development processes. It has also encouraged some employers to link job tasks and competency development in a single role profile document.
 
-The IDS study found there are six to ten core competencies in a typical framework, with an equal number that are optional. Each core competency is usually supported by a brief definition, which ‘provides clarity for employees and line managers’ (IDS, 2008, p.3). The study also found that the most useful competency frameworks were not completely comprehensive ‘which risks over-complication, but are short, simple in structure and, above all, understandable’ (ibid., p. 4). The behavioural indicators at different levels also contribute to personal development planning through benchmarking and assessing the gaps in an employee’s abilities.
+A simplified example of this integrated role profile format from a multinational PLC is shown in Figure 5.1 below. The single document is used for job description and job evaluation purposes, as well as to identify competency requirements and skills development planning. An appraisal form is bolted onto it focusing on annual objectives and performance against them. The spread of more effective HR information systems has meant that these different systems – of appraisal, development, pay, recruitment etc. - are easier to link up and often can enable managers and employees to administer them more effectively.
 
-The number of competencies contained within frameworks have reduced in recent years. Whiddett and Hollyforde (1999) comments that whereas it was once common to find frameworks that contained 30 or more competencies, it is now more usual for frameworks to contain no more than ten. Many users find between six and 12 competencies to be the most useful range for a framework. Larger frameworks were often developed because organisations attempted to include all the information required for all applications and all roles, including information on job tasks, outputs and behaviours.
+(cid:36)(cid:5)(cid:33)(cid:6)(cid:11)(cid:7)(cid:8)(cid:41)(cid:37)(cid:27)(cid:38)(cid:8)(cid:12)(cid:39)(cid:31)(cid:13)(cid:14)(cid:15)(cid:7)(cid:8)(cid:11)(cid:10)(cid:15)(cid:7)(cid:8)(cid:14)(cid:11)(cid:10)(cid:9)(cid:5)(cid:15)(cid:7)(cid:8)(cid:9)(cid:10)(cid:11)(cid:13)(cid:31)(cid:4)(cid:8)(cid:9)(cid:11)(cid:10)(cid:13)(cid:8)(cid:15)(cid:31)(cid:11)(cid:33)(cid:7)(cid:8)(cid:45)(cid:46)(cid:8)(cid:30)(cid:47)(cid:26)(cid:8)
 
-But experience has shown that it is often more effective to produce generic frameworks, with guidelines on how to apply it to a range of applications. The more competencies that a framework contains, the more difficult it can be to implement (Whiddett and Hollyforde, 1999, p.11). Among the most common competencies included in these six to 12 core competencies are communications and other interpersonal skills, problem analysis and challenge, innovation and creativity, and management, leadership and supervision.
+(cid:22)(cid:10)(cid:15)(cid:7)(cid:8)(cid:5)(cid:2)(cid:18)(cid:5)(cid:28)(cid:31)(cid:4)(cid:10)(cid:11)(cid:3)(cid:8) (cid:8)
 
-And a simplification in the levels and descriptions of each competency or dimension also seems to have also been occurring. So for example, rather than
+(cid:10)
+
+(cid:48)(cid:23)(cid:7)(cid:7)(cid:18)(cid:8)(cid:4)(cid:10)(cid:8)(cid:18)(cid:10)(cid:43)(cid:8) (cid:8)
+
+(cid:1) (cid:47)(cid:2)(cid:24)(cid:10)(cid:30)(cid:16)(cid:3)(cid:30)(cid:5)(cid:28)(cid:2)(cid:10)
+
+(cid:1) (cid:1)(cid:3)(cid:15)(cid:6)(cid:7)(cid:3)(cid:24)(cid:10)(cid:7)(cid:9)(cid:9)(cid:5)(cid:16)(cid:8)(cid:13)(cid:7)(cid:22)(cid:15)(cid:23)(cid:15)(cid:13)(cid:15)(cid:2)(cid:28)(cid:10)
+
+(cid:1) (cid:47)(cid:2)(cid:24)(cid:10)(cid:30)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:6)(cid:2)(cid:7)(cid:28)(cid:16)(cid:3)(cid:2)(cid:28)(cid:10)
+
+(cid:1) (cid:17)(cid:2)(cid:30)(cid:5)(cid:3)(cid:13)(cid:15)(cid:8)(cid:12)(cid:10)(cid:28)(cid:13)(cid:3)(cid:16)(cid:9)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)
+
+(cid:1) (cid:48)(cid:15)(cid:8)(cid:7)(cid:8)(cid:9)(cid:15)(cid:7)(cid:23)(cid:10)(cid:15)(cid:6)(cid:30)(cid:7)(cid:9)(cid:13)(cid:10)
+
+(cid:1) (cid:25)(cid:2)(cid:9)(cid:15)(cid:28)(cid:15)(cid:5)(cid:8)(cid:10)(cid:6)(cid:7)(cid:40)(cid:15)(cid:8)(cid:12)(cid:10)
+
+(cid:10)
+
+(cid:10)
+
+(cid:10)
+
+(cid:48)(cid:23)(cid:7)(cid:7)(cid:18)(cid:8)(cid:4)(cid:10)(cid:8)(cid:25)(cid:2)(cid:10)(cid:24)(cid:43)(cid:8) (cid:8) (cid:1) (cid:31)(cid:30)(cid:2)(cid:9)(cid:15)(cid:4)(cid:15)(cid:9)(cid:10)(cid:2)(cid:49)(cid:30)(cid:2)(cid:3)(cid:15)(cid:2)(cid:8)(cid:9)(cid:2)(cid:41)(cid:40)(cid:8)(cid:5)(cid:19)(cid:23)(cid:2)(cid:32)(cid:12)(cid:2)(cid:10)
+
+(cid:10)
+
+(cid:48)(cid:23)(cid:7)(cid:7)(cid:18)(cid:8)(cid:4)(cid:10)(cid:8)(cid:49)(cid:7)(cid:43)(cid:8) (cid:8) (cid:1) (cid:20)(cid:5)(cid:6)(cid:30)(cid:2)(cid:13)(cid:2)(cid:8)(cid:9)(cid:15)(cid:2)(cid:28)(cid:10)
+
+(cid:1) (cid:15)(cid:8)(cid:10)(cid:24)(cid:5)(cid:16)(cid:3)(cid:10)(cid:7)(cid:3)(cid:2)(cid:7)(cid:10)
+
+(cid:1) (cid:14)(cid:2)(cid:18)(cid:2)(cid:23)(cid:10)(cid:5)(cid:4)(cid:10)(cid:9)(cid:5)(cid:6)(cid:30)(cid:2)(cid:13)(cid:2)(cid:8)(cid:9)(cid:15)(cid:2)(cid:28)
+
+(cid:1) (cid:15)(cid:8)(cid:10)(cid:5)(cid:13)(cid:21)(cid:2)(cid:3)(cid:10)(cid:7)(cid:3)(cid:2)(cid:7)(cid:28)(cid:10)
+
+(cid:1) (cid:7)(cid:9)(cid:3)(cid:5)(cid:28)(cid:28)(cid:10)(cid:4)(cid:16)(cid:8)(cid:9)(cid:13)(cid:15)(cid:5)(cid:8)(cid:28)(cid:10)
+
+(cid:1) (cid:50)(cid:16)(cid:7)(cid:23)(cid:15)(cid:4)(cid:15)(cid:9)(cid:7)(cid:13)(cid:15)(cid:5)(cid:8)(cid:28)(cid:41)(cid:19)(cid:5)(cid:3)(cid:40)(cid:10)(cid:2)(cid:49)(cid:30)(cid:2)(cid:3)(cid:15)(cid:2)(cid:8)(cid:9)(cid:2)(cid:10)

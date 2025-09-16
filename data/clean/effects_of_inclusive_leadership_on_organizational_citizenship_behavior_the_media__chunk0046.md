@@ -1,7 +1,7 @@
-## Inclusive leadership → Organizational citizenship behaviors (H1)
-
-.433***
-
-5.341
-
-supported
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: 25e162149eec3432d541d945179516b10ff1a8b8
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# Outcome

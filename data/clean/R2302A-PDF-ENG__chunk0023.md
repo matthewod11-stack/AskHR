@@ -1,17 +1,29 @@
-# great long-term beneﬁts.
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9106092aecf78b011d8989ddd86044716d20bc7
+title: R2302A-PDF-ENG
+---
+## A collage of GitLab team members and their pets. Courtesy GitLab
 
-GitLab is fortunate to have operated this way since the beginning. At co-
+One big concern about distributed workforces is that people will miss
 
-located start-ups culture tends to emerge and spread informally. But as
+out on the knowledge transfer that comes from being in the same place
 
-organizations expand into multiple oﬃces, cities, and countries, formal
+and able to consult colleagues spontaneously. The handbook helps us
 
-documentation and reinforcement of norms and values become more
+solve that problem because it provides a single source of truth accessible
 
-important. Many companies struggle with the transition. We never had
+to anyone at any time. Our team members can’t stop by a peer’s oﬃce
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+to ask for help, but they can consult an up-to-date, collectively edited
 
-6
+resource to get the answers they need.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+If what they need to know isn’t there, the next step is to work with
+
+colleagues via Slack or Zoom to understand or decide on the right
+
+information or course of action and then add those insights to the
+
+handbook. It takes a bit of time and energy in the short term but creates

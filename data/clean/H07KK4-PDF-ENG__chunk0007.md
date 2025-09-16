@@ -1,7 +1,21 @@
-## our experiences at work shape the experiences of our home lives.
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84bd6094f2aebdff019f309b46f86cdcae8d63d4
+title: H07KK4-PDF-ENG
+---
+# Jovo Jovanovic/Stocksy
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+A recent Washington Post article highlighted a seemingly obvious, yet
 
-1
+critically important ﬁnding from research conducted by Maureen Perry-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Jenkins: When parents work in more supportive environments, they are
+
+able to be more eﬀective in their parenting roles. This, in turn, leads
+
+to better developmental outcomes for their children. It’s no surprise
+
+that this news article quickly made the rounds across social media for
+
+parents — it articulates what so many working parents have felt: that

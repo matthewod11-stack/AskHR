@@ -1,15 +1,47 @@
-# Figure 3: Work-Life Balance Analysis
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 38ad739b083dd7eb71abb801ef8f937617bee5e6
+title: internship_report
+---
+# 4.1.3 Work-Life Balance Analysis
 
-(cid:32)
+(cid:87)(cid:111)(cid:114)(cid:107)(cid:45)(cid:76)(cid:105)(cid:102)(cid:101)(cid:32)(cid:66)(cid:97)(cid:108)(cid:97)(cid:110)(cid:99)(cid:101)(cid:32)(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)
 
-From this analysis (Fig: 3) it is very clear that in case of work-life balance only 18% people are
+(cid:56)(cid:48)(cid:37)
 
-agreed that they have their work-life balance. On the other hand, 73% employees are not
+(cid:55)(cid:48)(cid:37)
 
-interested to tell their opinion in this regard. But, I must say this should fall on the negative part
+(cid:54)(cid:48)(cid:37)
 
-of the analysis. Moreover, 9% employees are disagreeing about their work-life balance benefit.
+(cid:53)(cid:48)(cid:37)
 
-In summary, 82% employees are disagreeing about their work-life balance benefit. But, we
+(cid:52)(cid:48)(cid:37)
 
-know, Work–life balance is a concept including proper prioritizing between "work" (career and
+(cid:55)(cid:51)(cid:37)(cid:32)
+
+(cid:51)(cid:48)(cid:37)
+
+(cid:50)(cid:48)(cid:37)
+
+(cid:49)(cid:48)(cid:37)
+
+(cid:48)(cid:37)
+
+(cid:48)(cid:37)(cid:32)
+
+(cid:49)(cid:56)(cid:37)(cid:32)
+
+(cid:57)(cid:37)(cid:32)
+
+(cid:48)(cid:37)(cid:32)
+
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121) (cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
+
+(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
+
+(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
+
+(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
+
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121) (cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)

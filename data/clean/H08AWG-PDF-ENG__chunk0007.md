@@ -1,29 +1,17 @@
-# HBR / Digital Article / Research: People Still Want to Work. They Just Want Control Ov…
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6f9eca3420dad21eb9b2ea803d5479a7083ea7e
+title: H08AWG-PDF-ENG
+---
+## data from the National Study of the Changing Workforce, a nationally
 
-much control they have over their work schedule, and how satisﬁed
+representative sample of 1,516 workers in the United States. It contains
 
-they are at work and in life. These measures allow us to examine the
+measures like whether people feel like they have enough time, how
 
-relationship between how people experience their time and their well-
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-being — both at work and overall.
+2
 
-Previous research has documented that how people experience time —
-
-and in particular, whether they feel they have control over their time — aﬀects their motivation to work toward a variety of long-term goals.
-
-We wanted to know whether those dynamics operated in a similar way in the modern workforce. We also wanted to understand the diﬀerence
-
-between feeling like you don’t have enough time to do the things you
-
-need to do (referred to in this line of research as a sense of time scarcity)
-
-and feeling like you don’t have control over your time. These feelings
-
-can go hand in hand, but they don’t always. For instance, you might feel
-
-a sense of time scarcity when your schedule is ﬁlled with tasks you don’t
-
-have time to complete, even if you have total control over that schedule.
-
-We found a few key patterns that can help us to collectively understand
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

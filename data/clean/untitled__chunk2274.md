@@ -1,11 +1,13 @@
-# American Psychologist, 38, 869–877.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 82ad04155dd02cf1cb15f92ff1e29b9869d25bc1
+title: untitled
+---
+## Frye v. United States, 293 F. 1013 (D.C. Cir. 1923).
 
-Gilbert v. California, 388 U.S. 263, 87 S. Ct. 1951 (1967).
+Fulero, S. M. (1993). Eyewitness expert testimony: An overview and annotated bibliography, 1931–1988. Unpublished manuscript, Sinclair College, Dayton, Ohio.
 
-Goodman, G. S., Levine, M., & Melton, G. B. (1992). The best evi- dence produces the best law. Law and Human Behavior, 16, 244–251.
+Garrison, A. H. (1998). The history of the M’Naughten insanity de- fense and the use of posttraumatic stress disorder as a basis of insanity.AmericanJournalofForensicPsychology,16,39–88.
 
-Goodman, G. S., Levine, M., Melton, G., & Ogden, D. W. (1991). The American Psychological Association brief in Maryland v. Craig. Law and Human Behavior, 15, 13–29.
-
-Greenburg, J. (1956). Social scientists take the stand: A review and appraisal of their testimony in litigation. Michigan Law Review, 54, 953–970.
-
-Grisso, T. (1986). Evaluating competencies: Forensic assessments
+Gerard, H. B. (1983). School desegregation: The social science role.

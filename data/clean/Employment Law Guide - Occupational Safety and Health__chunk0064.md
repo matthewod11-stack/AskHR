@@ -1,13 +1,11 @@
-# Protection webpage.
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: 60b02d67f7f7c3caaf1cfe0e2db979ad3adedf7a
+title: Employment Law Guide - Occupational Safety and Health
+---
+# government employees.
 
-The Department of Labor provides employers, workers, and others with clear and easy-to-access information
+Finally, OSHA is also responsible for administering a number of whistleblower laws relating to safety and
 
-and assistance on how to comply with the Occupational Safety and Health Act. Among the many resources
-
-available are:
-
-OSHA Publications: Provides fact sheets, booklets, and other publications sorted by topic, publication type,
-
-and language. Compliance Assistance Quick Start: Provides introductory step-by-step instruction to Occupational Safety
-
-and Health Administration (OSHA) compliance assistance resources.
+health as described in the Whistleblower Protection section of this Guide and OSHA's Whistleblower

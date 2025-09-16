@@ -1,3 +1,7 @@
-## — startups often highlight unique non-monetary attributes that may
-
-appeal to diverse groups of potential employees, including references
+---
+source_path: H08DWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb74006a47b5f814bf4adafd003cce41634ca7b0
+title: H08DWZ-PDF-ENG
+---
+## applicants more attractive ﬁnancial incentives and greater job security

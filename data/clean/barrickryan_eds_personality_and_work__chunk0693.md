@@ -1,3 +1,13 @@
-## Beyond Broad Traits: Linking the Person, Situation, and Behavior
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 72c882999f45d93c62eedd5102ba658559112262
+title: barrickryan_eds_personality_and_work
+---
+# 236 PERSONALITY AND WORK
 
-Traditional research on workplace learning has taken a fairly lim- ited approach to understanding personality and its effects on learn-
+abilities (the g factors and its components), prior knowledge and ex- perience (physics knowledge), personality variables (trait anxiety), and motivational factors (achievement motivation).
+
+In the educational literature, several major aptitudes have been pointed out that relate to the learning environment in schools. Re- garding cognitive ability, high-ability students tend to do better in low-structure environments (discovery learning), and low-ability students tend to perform better in high-structured learning envi- ronments (Snow, 1990; Swanson, O’Connor, & Cooney, 1990). Re- garding personality constructs, students low in anxiety tend to perform better with heuristic instruction (low structure) than with algorithmic instruction (high structure). Personality also has been found to relate to the educational learning environment: ex- traverted and moderately anxious students seem to beneﬁt most in cooperative (versus competitive) learning situations (Hall, Dan- sereau, & Skaggs, 1990). In settings more related to work training, Savage, Williges, and Williges (1982) used motor and information- processing tests to develop empirical prediction models for assign- ing students to one of two training conditions based on predicted training time for each type of training. Making training assign- ments based on these individual differences resulted in a 47 per- cent savings in training time compared to random assignment and a 53 percent savings compared to a mismatched assignment.
+
+As Campbell and Kuncel (2002) recently noted, all core train- ing issues are framed by the ATI parameters and the criterion of in- terest. Identifying the parameters and capitalizing on them by modifying the training environment requires a ﬁrm understanding of types of contexts in which the learner might be placed. Unfor- tunately, as we previously lamented, we have limited understanding of the effects of varieties of learning and learning environments, but the literature we have reviewed thus far has pointed to several broad and consistent themes on both the individual and situational sides of the equation.

@@ -1,21 +1,31 @@
-# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: e5319bf16104c4cec36effd384144e869c80dbe1
+title: beo_chap7_1
+---
+# company subsidization. After the 1986 oil price shock, oil companies significantly
 
-many subjects choose to invest 50% in each. When asked to choose between two
+reduced their capital expenditure in non-oil subsidiaries even though the quality of
 
-stock funds and a bond fund, many subjects choose to spread allocations equally
+non-oil investment projects did not decrease. Equality-biased allocations might also
 
-among the three funds, which creates an aggregate investment that is more heavily weighted (2) to stocks.
+reflect a cognitive pattern called “partition dependence” or the “1 /n heuristic”-—-the
 
-Empirical tests of partition dependence in capital budgeting could study what
+tendency for allocations to be biased toward even allocations, given a particular
 
-happens when divisions are combined or split apart, for reasons that are exogenous
+partition of categories (Bardolet et al. 2005). For example, Fox and Rottenstreich
 
-to changes in the demand for capital across business units (e.g., regulation or tax
+(2003) asked subjects to guess the probabilities that the hottest day in the next week
 
-considerations). Anticipating Section 7.6.2 (on organizational “repairs”) organiza-
+would be Sunday or another day of the week. Many subjects answered (sensibly) that there isa 4 chance that Sunday is hottest, and a $ chance that the hottest day is a day
 
-tions that recognize the tendency to allocate capita) equally across divisions could
+other than Sunday. Others tend to give beliefs for the chance that Sunday is hottest which lie between ; and 4. The latter beliefs are influenced by the arbitrary partition
 
-deliberately structure divisions to mitigate the bias. A fast-growing product line that
+of the week into two subsets, into “Sunday” and “non-Sunday.” A similar effect is
 
-is starving for capital might be given its own small division to be sure it gets enough
+found in both laboratory and field data of investment in 401(k) plans (Benartzi and
+
+Thaler 2001). When asked to choose between investing in a stock or bond fund,
+
+264

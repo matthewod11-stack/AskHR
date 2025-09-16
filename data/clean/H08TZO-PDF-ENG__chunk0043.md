@@ -1,9 +1,7 @@
-# creators, not caretakers of the past.
-
-. . .
-
-Demographic change isn’t coming—it’s here, and it’s reshaping labor
-
-markets, consumer behavior, and economic growth. The question for
-
-business leaders is no longer whether to respond to these changes, but
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3aadc1212080f576aa295c83bd31e15430ca275b
+title: H08TZO-PDF-ENG
+---
+## and campaigns that elevate older consumers and professionals as

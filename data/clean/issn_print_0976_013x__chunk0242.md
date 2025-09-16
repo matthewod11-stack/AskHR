@@ -1,17 +1,15 @@
-# 2015). The dynamic and collaborative perspective of supply chain management empowers
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: e4c21c97b1963b01e9b6e94d47cdbb115bbf0941
+title: issn_print_0976_013x
+---
+## of ‘supply chain vs supply chain’ and the involved efficiency and efficacy.
 
-the utilization of different philosophies and improvement tools of other sectors or industries
+Today the world has emerged as an intelligent global village wherein a product/service
 
-to address the challenges it faces in the day-to-day operation and long run. One such industry
+conceived as good at one part may be demanded from anywhere. The fulfilment of such
 
-at an arm’s length synonymity with the supply chain is the manufacturing industry, and the
+demand requires the involvement of units at geographically dispersed locations and leads to
 
-successfully implemented tools and principles have been of great significance in tangible and
-
-observable terms. This relation attracts researchers and academicians from engineering and
-
-management backgrounds to foster the qualitative as well as measurable aspects of the field.
-
-Lean, agile, leagile, resilient, sustainable, digital, flexible and reconfiguration paradigms are
-
-the most discussed paradigms in supply chain literature, as depicted in Fig. 1. The evolving
+an extended/global/ultimate/long supply chain structure to ensure 7Rs (Garcia and You,

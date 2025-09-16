@@ -1,13 +1,9 @@
-## eNPS em lugar das tradicionais pesquisas de clima organizacional;
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 7d89a9ccad365448db343824b0a0fe158fe44453
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## objetivo, três objetivos específicos são propostos:
 
-- 2. descrever a metodologia de aplicação e a análise de dados do eNPS
-
-em uma corporação, identificando seus benefícios e limitações;
-
-3.
-
-identificar a percepção de líderes e empregados acerca da utilização
-
-do eNPS nesta companhia.
-
-7
+- 1. descrever e analisar a opção desta corporação pela utilização do

@@ -1,9 +1,13 @@
-# software with hardware.
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cab5e029daecb3e00c95df7e1e9e606f03dcbb9a
+title: R2504P-PDF-ENG
+---
+## AI-powered traﬃc optimization, and cloud-based monitoring platforms
 
-“That’s the line you need to keep hitting home,” said Sarah Thompson,
+that integrated with building management technology. The future of
 
-the consultant sitting across from Alex. “Your people know everything
+vertical transportation seemed to be less about simply moving people
 
-about cables, counterweights, and motor systems, but little about APIs,
-
-machine learning, or user experience design, and that’s an existential
+safely between ﬂoors and more about data, eﬃciency, and merging

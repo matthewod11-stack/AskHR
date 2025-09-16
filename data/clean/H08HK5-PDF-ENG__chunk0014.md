@@ -1,13 +1,25 @@
-# reiterate it.
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6ec979092d1142a8ae6fb562d630166fb26f5b7
+title: H08HK5-PDF-ENG
+---
+## and non-generic, of appropriate intensity, and not too over the top
 
-- 3. Check in after the situation. Check in with the employee after the
+given the current situation and nature of the relationship—inauthentic
 
-situation has concluded. While anticipatory expressions of gratitude
+gratitude will not yield desired results. It’s also important to use words
 
-serve an important emotion regulatory function that buﬀers the
+that explicitly describe why the employee’s behavior matters and is
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+impactful. In expressing genuine gratitude, you should remind the employee that their behavior—even though the situation is diﬃcult
 
-5
+and distressing—has a positive impact in furthering the group or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+organization’s goals, and that their contributions are truly valued by
+
+the team and organization. Our research ﬁnds that expressing gratitude
+
+(anticipatory or otherwise) has a positive eﬀect on employees’ sense of
+
+collective social worth, and detailing how it beneﬁts the team can help

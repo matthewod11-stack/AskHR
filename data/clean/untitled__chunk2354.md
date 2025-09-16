@@ -1,3 +1,11 @@
-## Emergence of School Psychology as a Distinct Field (1920–1940)
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 75b96ba847655b37beded68ed2bdab74f6e250d5
+title: untitled
+---
+# Early Practice
 
-The factors speciﬁc to school psychology’s origins expanded during this period, and discernible trends for the future were established. Despite the ﬁnancial woes of education during the Great Depression, employment opportunities for psychol- ogists in schools expanded during this period. Although orga- nizational representation continued to be unclear, school psychology literature contributed to the discipline’s identity. Training opportunities and the emergence of speciﬁc creden- tials followed upon the growth of employment and special educational programs.
+This period lacked much theoretical development or a knowl- edge base for the diagnosis and treatment of children’s dis- orders. Practitioners were operating largely from their own experience or that of mentors and used available laboratory and psychoeducational tests, including anthropometric mea- surements. Practice was oriented primarily toward observa- tion and assessment of the child (e.g., a medical model) with consideration given to some extent to school-based and fam- ily inﬂuences. The dominant role of the school psychologist was assessment, with lesser emphasis on remediation or ther- apy and consultation. Research and evaluation, administra- tion, and in-service education activities were also performed to some degree.
+
+School psychologists were a mix of persons trained in psychology, teacher education, and related ﬁelds. They were hired by school boards to administer the newly developed Binet and other tests primarily to sort children into differ- ent educational programs and to foster the development of special education. Overall, the period 1890–1920 provided a prototype from which a more identiﬁable school psychol- ogy specialty would emerge. For all practical purposes, professional development in school psychology was meager throughout this period. Training, credentialing, literature, organizational development, and practice identity would advance considerably in the following decades.

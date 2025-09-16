@@ -1,13 +1,17 @@
-# some guidelines upfront.
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 917ede65f193c86da127137d05d4f15b59d4cc2d
+title: H089EG-PDF-ENG
+---
+# Establish roles and a timeline.
 
-In this initial meeting, discuss a cadence for project check-ins that will
+Having clearly deﬁned roles is often where I see clients get stuck.
 
-work for you both. Explain that you will use the time to discuss project
+If you’re delegating a project, for example, you’ll likely want to give
 
-updates and help them troubleshoot challenges. Try to align on your
+your team member a timeline of goals to reach and check in on them
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+regularly to track their progress. At the same time, you don’t want your
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+direct report to feel micromanaged. That’s why it’s helpful to deﬁne

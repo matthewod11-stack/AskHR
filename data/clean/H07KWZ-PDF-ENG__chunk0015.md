@@ -1,61 +1,35 @@
-## HBR / Digital Article / What HBO’s “Succession” Can Teach Us About Negotiating
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56bd303da4f186de154deb6501b3c1ee829fbcf6
+title: H07KWZ-PDF-ENG
+---
+# beneﬁcial agreement.
 
-seems to be well aware of the power of framing in negotiation — the fact
+There is a second problem with Logan’s $6 billion bid: It is an
 
-that the way an oﬀer is presented can inﬂuence its perceived value and,
+aggressively low number, one that he did not bother to explain or
 
-ultimately, the negotiation’s outcome. In Nan’s case, she sends the clear
+justify to Nan. Negotiators who provide explanations for their proposals
 
-signal to the siblings that they will have to beat a solid oﬀer (Logan’s) if
+are more likely to reach agreements than those who do not oﬀer any
 
-they are truly interested in getting her attention.
+justiﬁcation, research shows. Compelling, well-reasoned explanations
 
-Negotiators can increase the likelihood of their oﬀer being accepted
+show the other side that you’ve given considerable thought to your oﬀer
 
-by framing their proposal in a way that emphasizes its beneﬁts and
+and that it is well justiﬁed.
 
-minimizes its drawbacks. Roman, Kendall, and Shiv themselves could
+Frame your proposal.
 
-have used framing to their advantage by highlighting the positive
+When Kendall, Roman, and Shiv meet with Nan Pierce in person to tell
 
-aspects of their proposal while downplaying the negatives. More
+her they are interested in making an oﬀer, she is quick to tell them that
 
-generally, both buyers and sellers can powerfully impact negotiation
-
-dynamics by framing their arguments thoughtfully.
-
-Anchors are sticky.
-
-When the Roy siblings tell Nan they can likely make a better oﬀer
-
-than the bid she’s already received, she comments, “I feel like I’m in
-
-a bidding war. Eight, nine, what’s next?” Enter the anchors that were
-
-likely to draw future bids in their direction.
-
-A powerful tool in negotiation, anchoring involves introducing a
-
-speciﬁc reference point, or anchor, aimed at inﬂuencing the other
-
-party’s perception of the value of subsequent oﬀers. Anchors are
-
-generally used as ﬁrst oﬀers in negotiation. This means that the ﬁrst
-
-oﬀer presented in a negotiation can have a signiﬁcant impact on the
-
-ﬁnal outcome, even if it is not accepted. For example, a seller who
-
-sets a high asking price for a car can anchor the buyer’s perception of
-
-the car’s value, making subsequent negotiations more favorable to the
-
-seller. Conversely, if the buyer sets the anchor with a lowball oﬀer, he or
-
-she can shift the seller’s perception of the car’s value in their favor.
+she has a solid oﬀer already and that they made the trip in vain. Nan
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

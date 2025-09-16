@@ -1,17 +1,21 @@
-# HBR / Digital Article / How to Compassionately Manage an Employee with a Terminal I…
+---
+source_path: H08EAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 589327d97bddc740b484a55633d6695c7f8fe902
+title: H08EAJ-PDF-ENG
+---
+## workplace morale. In moments of profound challenge, the way we
 
-Chidiebere Ogbonnaya is a Professor of Human Resource Management at King’s Business School, King’s College London.
+support one another deﬁnes our humanity and the enduring strength of
 
-Vijay Pereira is a professor of strategic and international human capital management at NEOMA Business School.
+our workplace community. By prioritizing compassion and connection,
 
-Benjamin Laker is a professor of leadership at Henley Business School, University of Reading. Follow him on Twitter.
+we honor the dignity and contributions of every individual.
 
-Mayowa Babalola is the Stan Perron Chair in Business Ethics at UWA Business School, The University of Western Australia.
-
-William Degbey is an associate professor of international management at the University of Vaasa, Finland.
+This article was originally published online on October 02, 2024.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-9
+8
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

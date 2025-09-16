@@ -1,13 +1,13 @@
-## HBR / Digital Article / Use the STAR Interview Method to Land Your Next Job
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bbc531101389786e852296e98742d5fc12ca5efd
+title: H08GNF-PDF-ENG
+---
+# picture?
 
-- 2. When preparing your answers, be sure to align your accomplishments with the job description. As you think about how you’ll answer common STAR interview
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-questions, be sure to use speciﬁc keywords from the job responsibilities
+5
 
-listed in the job description in your response. For example, a question
-
-for a SaaS app developer might be, “Can you tell me about a time
-
-when you had to solve a coding problem?” The job description
-
-might list speciﬁc job responsibilities or required skills such as
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

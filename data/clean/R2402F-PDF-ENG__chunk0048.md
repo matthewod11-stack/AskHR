@@ -1,15 +1,7 @@
-# Sustaining and Managing the Team
-
-The experiences of two ventures we tracked illustrate how crucial it
-
-is for collaborations to receive long-term support. In the ﬁrst, which
-
-was established during the Covid-19 pandemic, two UI fellows joined
-
-forces to provide health care kits to rural communities in Asia. They
-
-were working on tight timelines, and they felt that they didn’t have
-
-the time, space, and capacity to set up dedicated roles and clearly
-
-deﬁne responsibilities. That choice ultimately put the collaboration in
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a184a9eb398ecb919f824c589b8f4b9cd3bc533
+title: R2402F-PDF-ENG
+---
+# [ Step 3 ]

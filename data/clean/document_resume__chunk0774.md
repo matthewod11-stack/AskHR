@@ -1,7 +1,7 @@
-# Exhibit 6.4. Bernardin and Beatty's Suggestions for Writing Descriptions of Beha for
-
-1.
-
-Use specific examples of behaylor, not on, liksionA about the "goodness" or "badness" of beha% 'or.
-
-Use this. Gwen told her secretary when the work was to be completed, whether it was to be a draft or a final copy, the amount of spate in w lila it had to be typed. and the kind of paper necessary.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: a39b4f9222d1ee00ad717a8e5c4446a35584df51
+title: document_resume
+---
+# Performance Appraisal

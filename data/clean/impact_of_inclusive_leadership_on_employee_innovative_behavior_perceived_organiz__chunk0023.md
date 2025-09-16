@@ -1,13 +1,13 @@
-## Impact of inclusiveleadershipon employeeinnovativebehavior
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 78a9907c527db542dfa74b502a22b4b6e0e6ed59
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+# Measures
 
-regarding the pre-survey. Unless otherwise noted, we used a five-point Likert scale ranging from “1 = totally disagree” to “5 = totally agree” to assess each measure.
+To maximize the validity and reliability of the measurement tools, we used existing scales pub- lished in top journals. The original scales were all written in English. Thus, we followed the back translation procedures recommended by Brislin (1980) [66] to translate the measures. A management scholar who was fluent in both English and Chinese translated the items from English into Chinese. We then asked another bilingual management professor to translate the items from Chinese back into English. We also asked a management researcher to check the English and Chinese translations, and any discrepancies in the translation procedure were solved through discussion. Furthermore, before finalizing the formal questionnaire and sur- vey, a pre-survey was conducted to guarantee the appropriateness of the questionnaire design and diction to the study context. The questionnaire was then revised based on feedback
 
-Inclusive Leadership: We assessed inclusive leadership using a nine-item scale that were developed by Carmeli et al. (2010) [17] (T1, rated by employee). A similar approach was used by Hirak, Peng, Carmeli, and Schaubroeck (2012) [67] and Choi, Tran, and Kang (2016) [68]. A sample item was: “The manager is open to hearing new ideas.” The reliability coefficient (Cronbach’s Alpha) of the scale in this study was 0.927, indicating that the scale has good reliability.
+PLOS ONE | https://doi.org/10.1371/journal.pone.0212091 February 28, 2019
 
-Perceived organizational support (POS): The eight-item scale by Eisenberger (1986) [43]
-
-was employed to measure POS (T2, reported by employees). The scale has been used by Edwards and Peccei (2015) [69] and Zumrah and Boyle (2015) [70]. A sample item was: “My organization takes pride in my accomplishments at work.” The reliability coefficient (Cron- bach’s Alpha) of the scale in this study was 0.952, indicating that the scale had good reliability. Innovative behavior: The nine-item scale by Janssen (2000) [34] was used to measure employee innovative behavior (T2, rated by supervisor). The scale had been used by Janssen (2003) [58] and Agarwal, Datta, Blake-Beard, and Bhargava (2012) [71]. The scale measured employee innovative behavior based on three aspects of “ideas put forward,” “promotion of ideas,” and “apply the idea of.” A sample item was: “Creating new ideas for difficult issues (idea generation).” The reliability coefficient (Cronbach’s Alpha) of the scale in this study was 0.951, indicating that the scale had good reliability.
-
-Control variables: Based on previous research [72–74], we selected gender, age, education,
-
-and tenure (which reflects work domain expertise) [75,76] as main control variables for their probable association with employee perceived organizational support and innovative behavior.
+7 / 14

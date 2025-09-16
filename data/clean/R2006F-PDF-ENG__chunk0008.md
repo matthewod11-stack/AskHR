@@ -1,25 +1,21 @@
-## the design, engineering, operations, marketing, and retail of any of
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b26d3f08e8ad7d4d1baf2c1f6a21ae264e5fd72
+title: R2006F-PDF-ENG
+---
+## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-Apple’s main products meet. In eﬀect, besides the CEO, the company
+The adoption of a functional structure may have been unsurprising
 
-operates with no conventional general managers: people who control an
+for a company of Apple’s size at the time. What is surprising—in
 
-entire process from product development through sales and are judged
+fact, remarkable—is that Apple retains it today, even though the
 
-according to a P&L statement.
+company is nearly 40 times as large in terms of revenue and far more
 
-Business history and organizational theory make the case that as
+complex than it was in 1998. Senior vice presidents are in charge of
 
-entrepreneurial ﬁrms grow large and complex, they must shift from
+functions, not products. As was the case with Jobs before him, CEO
 
-a functional to a multidivisional structure to align accountability
-
-and control and prevent the congestion that occurs when countless
-
-decisions ﬂow up the org chart to the very top. Giving business unit
-
-leaders full control over key functions allows them to do what is best
-
-to meet the needs of their individual units’ customers and maximize
-
-their results, and it enables the executives overseeing them to assess
+Tim Cook occupies the only position on the organizational chart where

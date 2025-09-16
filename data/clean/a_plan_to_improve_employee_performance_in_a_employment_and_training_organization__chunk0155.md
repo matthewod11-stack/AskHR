@@ -1,19 +1,29 @@
-# Interpersonal Skills and Teamwork:
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: f56127714e061d0f9e969ef981f9291c0892e851
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# major accomplishment.
 
-Every employee should also attend a one-day seminar on interpersonal skills and
+- 2. Lunch outings for the entire unit (can be a pay your own way) but the value is
 
-team work/team building. The areas to be covered in the seminars would range from
+placed on the individual and the outing.
 
-effective communications to team work and group problem-solving. Employees who
+- 3. Dinner out for two for the "Emplo yee of the Month. "
 
-possess these techniques enhance their ability to work together and solve organizational
+- 4. Free coffee or soft drink delivered to the employee 's desk (one day or several).
 
-problems. Training can be organized around certain group problem-solving tasks, with
+- 5. Doughnuts or bagels as a morning starter valuing the employee 's efforts.
 
-groups meeting periodically , to assess and study a particular process or product, so they
+- 6. A box of candy, nuts or fruit.
 
-can be in a position to recommend a solution to a particular problem. Seminars cost -on
+These suggestions can serve as a basis to establish a recognition program and to develop
 
-the average of about $100-$150 per person. The cost to Employers ' Training Resource
+a strategy for recognition at ETR. Making a recognition program successful requires the
 
-Intake and Assessment department would be $5250 (35 employees @ $150).
+37
+
+personal commitment of team leaders and managers to make it valuable and meaningful
+
+to their employees. Putting the recognition program in place is only the first part.

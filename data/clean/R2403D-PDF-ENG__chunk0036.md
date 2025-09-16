@@ -1,35 +1,33 @@
-# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7677589617979a9bc16f07578e37acc9f7981322
+title: R2403D-PDF-ENG
+---
+## their professional development, everybody wins.”
 
-to quantify tasks and streamline operational workﬂows,” he adds. “It
+They leverage digital workﬂows and build trust to manage changes
 
-requires strong management of time and output daily.”
+in project needs. One dilemma with bringing in freelancers is that
 
-When freelancers are working on multiple projects at diﬀerent
+although their work is determined by a ﬁxed contract, a company’s
 
-companies simultaneously, as they often are, it can be tricky for
+project needs will inevitably change. Saatchi resolves this issue with
 
-managers to gauge their availability and bandwidth. Delegation
+digital workﬂows. Dickinson-Keen describes it this way: “First, we
 
-and traditional control mechanisms are oﬀ-limits for freelancers, so
+redesigned the operational processes of how work gets done; then
 
-managers must invest in mutual trust building. Employers need to trust
+we rebuilt the workﬂow system to have more of a real-time pulse on
 
-that their freelancers will tell them if they are occupied with another
+what everyone’s doing. It sounds controlling, but it’s smart workﬂow
 
-signiﬁcant project, and workers should be able to trust that they’ll
+management.” This enables Saatchi to have more visibility into how
 
-be informed in advance if projects are accelerated or put on hold. As
+the workload and hours are distributed. “To digitize workﬂow, we have
 
-Dickinson-Keen told us, “It’s not about controlling the worker’s time
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-or choices but understanding and managing expectations. It’s about
+9
 
-keeping commitments and ensuring both parties are aware of the work
-
-availability.”
-
-The focus on well-being is part of a shift away from industrial-era policies and toward more flexibility in time and place of work and better employee benefits.
-
-As more work devolves from ﬁxed jobs into a series of projects,
-
-managers are applying this approach even when working with full-
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

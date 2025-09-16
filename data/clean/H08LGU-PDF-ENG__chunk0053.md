@@ -1,7 +1,9 @@
-## hiring, promotion, and feedback more fair, demographic change will
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6788795fcd0ab5cfcd0144fbd48b4c0db2238200
+title: H08LGU-PDF-ENG
+---
+## HBR / Digital Article / What Comes After DEI
 
-be a lagging indicator of progress. In the meantime, today’s leaders
-
-have actionable goals to strive toward if they want to become more
-
-representative of those they serve, regardless of the identities these
+So long as leaders are engaged in making workplace systems like

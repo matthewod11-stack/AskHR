@@ -1,13 +1,9 @@
-# The Objective
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 16d082b9e3487041aac6677731046a979e25fec9
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# the field of employee experience.
 
-The employee experience is recently gaining much higher attention. After the difficult
-
-Covid times and challenging economic environment, companies are realizing the
-
-importance of the employee experience and how affects an organization’s top and
-
-bottom line. This document will help to understand key factors of the employee
-
-experience which influence customer satisfaction, why the employee experience is
-
-important, and what are the roles of employees in the customer satisfaction journey.
+1.1.

@@ -1,1 +1,15 @@
-# HBR / Digital Article / What Demographics Forms Say About Inclusivity at Your Compa…
+---
+source_path: H082RI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f8fe6f581cb354b68953e36187f49f201abd980
+title: H082RI-PDF-ENG
+---
+# SF
+
+Sean Fath is an Assistant Professor of Organizational Behavior at Cornell’s ILR School. His research interests include managerial decision making, bias reduction in social evaluations, and perceptions of social and organizational hierarchy.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,7 @@
-# Strengthening Organizational Core Values and Managerial Capabilities. Vienna: UNIDO.
-
-Acta Oeconomica Pragensia, 2019, 27(2), 62–71, https://doi.org/10.18267/j.aop.622
-
-71
+---
+source_path: the_importance_of_competency_model_development.md
+pages: n/a-n/a
+chunk_id: aa86ad2faba6eef30b85bac17acead74baf5fdff
+title: the_importance_of_competency_model_development
+---
+# UNIDO (United Nations Industrial Development Organization), (2002). UNIDO Competencies:

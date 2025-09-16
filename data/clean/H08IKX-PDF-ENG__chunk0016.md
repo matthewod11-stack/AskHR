@@ -1,19 +1,15 @@
-## collapse of September 2008, the 2020 arrival of Covid, Russia’s war on
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f27669513aef8be70ed7868ef6edb20d5fa24c16
+title: H08IKX-PDF-ENG
+---
+## Ever since the dawn of the twenty-ﬁrst century and the Al Queda
 
-Ukraine, Hamas’s attack on Israel, and the high inﬂation rate of 2022
+attacks of September 11, 2001, we are living in an increasingly volatile,
 
-— all of which have had a profound impact on decision-making by
+uncertain, complex, and ambiguous world (dubbed VUCA by the U.S.
 
-business leaders. As these crises interact, they create complex problems.
+Army War College). In the past two decades, crises are no longer rare
 
-In our CEO workshops at Harvard Business School, we ﬁnd leaders
-
-struggling with the rate at which they have to confront complex
-
-problems. Prior to becoming CEO, these leaders have had decades
-
-of experience in dealing with complicated problems, but limited
-
-experience in coping with complex issues. There are multiple causes
-
-of this shift: The reversal of globalization, a rise in nationalism,
+sporadic events, but arrive continually as they did with the banking

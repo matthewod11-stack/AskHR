@@ -1,17 +1,35 @@
-# Institutions
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aea93a20549090216d3b731dd628ac80daa7bee7
+title: H08PLG-PDF-ENG
+---
+# less energy.
 
-Given the signiﬁcance of AI’s energy demands, many organizations
+You can also explore novel approaches to hardware design, such
 
-are working on this problem and oﬀer training programs to develop
+as locating memory inside computing cores, which can cut energy
 
-expertise in AI and energy conservation. For instance, the Cornell AI for
+dissipation by shortening data travel distances. Or, deploying devices
 
-Sustainability Initiative is leading research, innovation, and education
+mimicking brain functions, which have been show to use 1,000 times
 
-on how to manage AI’s energy use, as well as how AI can help us use energy more eﬃciently.
+less energy than current standards. Other models have experimented
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+with running on low-powered microcontrollers. New components, such
 
-12
+as photonic accelerators, 3D chips, and new chip cooling techniques can
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+deliver computing power with less energy usage.
+
+There are also eﬃciencies to be found in model design. DeepSeek,
+
+for instance, demonstrated how it could save on compute and energy
+
+resources by deploying a “mixture of experts” technique that splits
+
+the AI’s neural networks into diﬀerent categories. The company also
+
+used other creative approaches, such as lopping oﬀ decimal places on
+
+numbers used in calculations without noticeable losses in performance.

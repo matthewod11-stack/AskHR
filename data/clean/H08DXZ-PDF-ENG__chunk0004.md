@@ -1,3 +1,7 @@
-## The Most Effective Negotiation Tactic, According to AI
-
-New research reveals the secret to better deals lies in asking more open-ended questions. by Matteo Di Stasi, Jordi Quoidbach, and Alison Wood Brooks
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6cdd990e5be56d58bec9af4dc14266b35841b7de
+title: H08DXZ-PDF-ENG
+---
+## HBR / Digital Article / The Most Effective Negotiation Tactic, According to AI

@@ -1,1 +1,25 @@
-# Socialization
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 2a31bae85fd3b47e5670f06aece976c5136a0d43
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# JOEPP 2,1
+
+8
+
+and defining the construct, distinguishing it from related, though not identical constructs (Hallberg and Schaufeli, 2006), and understanding its antecedents and outcomes (see Bakker et al., 2014; Christian et al., 2011; Crawford et al., 2010; Demerouti and Cropanzano, 2010; Halbesleben, 2010; Mauno et al., 2010 for meta-analyses and reviews). Despite this progress, relatively low levels of employee engagement continue to be reported in organizations across the globe. Aon Hewitt (2013), for example, reported that four out of every ten employees they surveyed were not engaged, and two out of ten were actively disengaged.
+
+In this paper we argue that, in order to deliver its purported benefits, engagement needs to be explicitly embedded within an integrated system of HRM policies, practices and procedures (Guest, 2014). We present, as Figure 1, a high level model to help explain how a strategic focus on engagement can lead to competitive advantage. In so doing, we aim to provide integration across the human resource management and engagement literatures that, until now, have largely run in parallel. More specifically, by integrating HRM-performance models (Becker et al., 1997; Guest 1997), high performance human research practices (HPHRP) frameworks (Kehoe and Wright, 2013; Sun et al., 2007), job-demands resources theory (Bakker and Demerouti, 2014), and SHRM-engagement frameworks (e.g. Sparrow, 2014), we map a series of organizational level, job level, and individual difference factors that help explain how four key engagement-focused HR practices lead to engagement and subsequently to downstream performance outcomes. By drawing on constructs identified in the HR and engagement literatures, we specifically address the mechanisms by which HR practices and engagement contribute to competitive advantage.
+
+In terms of broad empirical support for the proposed model, research has shown that HRM systems can influence perceptions of organizational climate (e.g. Gelade and Ivery, 2003; Zacharatos et al., 2005). Research has also shown that organizational climate can influence job resources and job demands (e.g. Dollard and Bakker, 2010), that in turn influence personal resources such as the psychological experience of safety, meaningfulness, and availability, that in turn influence engagement (e.g. Kahn, 1990; May et al., 2004). Engagement has also been argued to influence the extent to which employees engage job crafting behaviour (Tims et al., in press), and the extent to which they will voice ideas, suggestions, and concerns (Morrison, 2014). Furthermore, employee engagement has been shown to influence a range of attitudinal, behavioural, performance, and financial outcomes (e.g. Christian et al., 2011; Halbesleben, 2010; Macey et al., 2009; Xanthopoulou et al., 2009a). Halbesleben’s (2010) meta-analysis, for example, showed engagement is positively associated with commitment (ρ¼0.38), health (ρ¼0.20), turnover intention (ρ¼−0.26) and performance (ρ¼0.36). The arrows in Figure 1 suggest direct, indirect, and reciprocal relationships among the elements within the model. The modelling of direct and indirect relationships reflects the proximal and distal influence that HR practices and organizational climate, for example, can have on the individual experience of job resources, psychological safety, engagement, and on further downstream variables such as absence and turnover. Similarly, personality traits such as conscientiousness and extraversion can influence individual experience of job resources, psychological safety, engagement, and further downstream variables such as job satisfaction, commitment, absence, and turnover intention. This argument is consistent with research showing, for example, that individual difference factors influence constructs such as job satisfaction (Connolly and Viswesvaran, 2000; Judge et al., 2002). The reverse direction grey arrows are consistent with research (e.g. Schneider et al., 2003) showing that outcomes such as firm performance
+
+m o d e l
+
+S t r a t e g i c
+
+e n g a g e m e n t
+
+F i g u r e 1
+
+.

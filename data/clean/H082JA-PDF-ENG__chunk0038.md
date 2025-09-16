@@ -1,27 +1,13 @@
-## HBR / Digital Article / The Challenges of Becoming a Less Hierarchical Company
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b7666f9dd40480f611ad817707d7ae4075a81dc
+title: H082JA-PDF-ENG
+---
+## more nuanced, and arguably more challenging, model of leadership.
 
-Leadership in such a structure becomes an intricate dance. Leaders
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-are expected to be visionaries, setting the direction and inspiring
+6
 
-their teams, yet they must carefully calibrate their inﬂuence. Exerting
-
-too much control can stiﬂe the empowerment and initiative that ﬂat structures aim to foster. Conversely, being too hands-oﬀ can leave teams
-
-directionless, craving the clarity and decisiveness that leadership is
-
-supposed to provide.
-
-The challenges of this delicate balance were vividly illustrated at
-
-Avinsa. Here, leaders continually navigated the tightrope between
-
-asserting their views and encouraging independent decision-making
-
-among team members. In their enthusiasm to drive progress, leaders
-
-inadvertently dominated discussions at times, thereby curtailing the
-
-very autonomy they sought to promote. In other situations, their
-
-reluctance to intervene led to a lack of clear direction, resulting in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

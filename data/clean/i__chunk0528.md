@@ -1,7 +1,7 @@
-## print(classification_report(y_test3,y_pred_rf))
-
-precision recall f1-score support
-
-0 0.88 0.99 0.93 320
-
-1 0.57 0.08 0.15 48
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: bed536545bafb23aafa016f4a290a670d917dad3
+title: i
+---
+# plt.show()

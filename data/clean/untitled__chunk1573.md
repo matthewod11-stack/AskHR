@@ -1,13 +1,9 @@
-## the concept. New York: New York University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ed0392567b37623577fba0b0e9b140a2dcb2d548
+title: untitled
+---
+## responsibility. Cambridge, MA: Harvard University Press.
 
-Landrine, H. (1995). Bringing cultural diversity to feminist psychol- ogy: Theory, research, and practice. Washington, DC: American Psychological Association.
-
-Lerman, H. (1976). What happens in feminist therapy? In S. Cox (Ed.), Female psychology: The emerging self. Chicago: Science Research Associates.
-
-Lerner, H. G. (1988). Women in therapy. New York: Harper & Row.
-
-Lykes, M. B. (1989). Dialogue with Guatemalan Indian women: Critical perspectives on constructing collaborative research. In
-
-R. Unger (Ed.), Representations: Social constructions of gender (pp. 167–185). Amityville, NY: Baywood.
-
-Maccoby, E. E., & Jacklin, C. (1974). The psychology of sex differ-
+Lamb, S. (1999). New versions of victims: Feminists struggle with

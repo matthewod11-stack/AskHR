@@ -1,3 +1,9 @@
-## and physiology. Psychosomatic Medicine, 6, 151–154.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0000c024dc8f10cc7c233c8ffd630df4dce061ce
+title: untitled
+---
+## ited. American Psychologist, 10, 1241–1243.
 
-Sroufe, L. A. (1996). Emotional development: The organization of emotional life in the early years. New York: Cambridge Univer- sity Press.
+Sontag, L. W. (1944). Differences in modiﬁability of fetal behavior

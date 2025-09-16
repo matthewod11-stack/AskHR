@@ -1,11 +1,7 @@
-## Fred Luthans University of Nebraska, Lincoln
-
-hat do successful managers — those who have been promoted relatively quickly — have in common with effective managers — those who have satisfied, committed subordinates and high performing units? Surprisingly, the answer seems to be that they have little in common. Success- ful managers in what we define as ‘real organizations” — large and small mainstream organizations, mostly in the mushrooming service industry in middle America — are not engaved in the same day-to-day activities as effectrve man- agers in these organizations This is probably the most impor- tant, and certainly the most intriguing, finding of a compre- hensive four-year observational study of managerial work that 1s reported in a recent book by myselt and two col- leagues, titled Real Manayers !
-
-The startling finding that there 1s a difference between successful and effective managers may mercly confirm for many cynics and “passed over” managers something they have suspected for years. They believe that although manag- ers who are successful (that ts, rapidly promoted) may be astute politicians, they are not necessarily effective Indeed, the so-called successful managers may be the ones who do not in fact take care of people and get high performance trom their units
-
-Could this finding explain some of the performance problems facing American organizations today? Could it be that the successful managers, the politically savvy ones who are being rapidly promoted into responsible positions, may not be the effective managers, the ones with satisfied, com- mitted subordinates turning out quantity and quality per- formance in their units?
-
-This article explores the heretofore assumed equiva- lence of “successful managers” and “effective managers ”’ Instead of looking for sophisticated technical or governmen- tal approaches to the performance problems facing today’s organizations, the solution may be as simple as promoting effective managers and learning how they carry out their jobs Maybe its time to turn to the real managers themselves for some answers
-
-And who are these managers? They are found at all levels and in all types of organizations with titles such as department head, general manager, store manager, market- ing manager, office manager, agency chief, or district man- ager Inother words, maybe the answers to the performance problems facing organizations today can be found tn their own backvards, in the managers themselves in their day-to- day activities
+---
+source_path: successful_vs_effective_real_managers.md
+pages: n/a-n/a
+chunk_id: 7b137f34cd6e93fcedf2e4afe6fda2eb3c1a5f1b
+title: successful_vs_effective_real_managers
+---
+# Successful vs. Effective Real Managers

@@ -1,29 +1,37 @@
-## According to Asadi Someh & Shanks (2015), Big Data Analytics (BDA) significantly
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 7425d767dd97e7477fee09d5764c7214656be773
+title: i
+---
+# 2.2.1 Analytics to Business knowledge
 
-improves the overall performance of companies, particularly in markets experiencing
+The analysis of the primary research studies revealed that the adoption of Big Data Analytics
 
-growth. Wamba et al. (2017) investigated the relationship between BDA resources and
+(BDA) provides firms with knowledge regarding different factors, such as innovation,
 
-company performance. They found evidence that BDA is positively correlated with companies’
+information, agility market knowledge, technology knowledge, human resource knowledge,
 
-performance and this is especially true in markets that are currently expanding.
+and business knowledge (Hinawi, 2023). Data analysis or BDA facilitates companies in
 
-In the realm of big data, possessing a robust BDA empowers companies to uncover valuable
+5
 
-patterns, trends, and knowledge that can inform strategic decisions and innovative initiatives.
+enhancing their financial or non-financial performance with competitive advantage (van de
 
-Wamba et al. (2017) suggest that by cultivating and harnessing BDA, companies can gain a
+Wetering et al., 2019; Wamba et al., 2017). This improvement is realized at its most when
 
-competitive edge that will last over time. This stems from the capacity to make well-informed,
+managers pay attention to data infrastructure capability, as well as planning, investment,
 
-data-driven decisions, swiftly adapt to changing market conditions, and proactively address
+coordination, and control. The factors of advanced BDA tools and employees with strong
 
-emerging challenges. The ability to leverage big data analytics effectively enables companies
+analytical skills are also crucial to improving companies' performance using BDA (Wamba et
 
-to optimize their operations, enhance customer experiences, identify new market opportunities,
+al., 2017). When companies make adequate investments in BDA solutions, it can result in
 
-and craft targeted marketing strategies.
+increased customer satisfaction and better overall market performance, consequently
 
-2.2.2 How to extract value out of data
+contributing to the enhancement of the company's financial performance.
 
-6
+Research suggests that companies that effectively utilize BDA resources tend to perform better,
+
+primarily when operating in expanding markets.

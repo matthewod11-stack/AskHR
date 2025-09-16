@@ -1,45 +1,27 @@
-# HBR / Digital Article / Remote Work Has Opened the Door to a New Approach to Hiring
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16e08ec9e946be0974ab7f7b2ecd9a779aaa7c2f
+title: H06X4I-PDF-ENG
+---
+# internally.
 
-important variables that companies should weigh before deciding how
+- 4. Returns on exceptional solutions are high.
 
-to utilize open/ﬂexible talent.
+In the ﬁrst three situations, companies are responding to a simple need
 
-For one, the level of ﬁrm-speciﬁc knowledge required for a project
+for talent, but the last underscores another important motivation: In
 
-will typically tip the balance between insiders and outsiders. While
+many contexts outsiders have been found to beat insiders head-to-head. Outsiders can provide many diﬀerent approaches or solutions to a given
 
-freelancers can build complex database-driven web applications from
+problem, allowing the organization to choose the best one.
 
-scratch — perhaps more eﬃciently than the internal employees of many ﬁrms — a project that requires interfacing eﬀectively with existing
+But, perhaps even more important than the situation that brought ﬁrms
 
-applications that require signiﬁcant ﬁrm-speciﬁc context will mean
+to open talent, there’s the nature of the task itself. There are a few
 
-either: a) an internal employee is needed to form the bridge; b) the
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-freelancer must learn the internal systems (potentially at higher cost
+5
 
-than an internal employee); or c) an internal employee will serve an
-
-integration role that builds on the freelancer’s work.
-
-Then there’s the question of whether a project or task is recurring.
-
-All hiring and onboarding has some costs — whether screening a
-
-freelancer, setting up a contest, or hiring a full-time role. If a project
-
-or task is going to be repeated over time, the scale tips toward making
-
-a more permanent hire to economize on these costs, especially if they
-
-involve training a new hire on ﬁrm-speciﬁc processes. On the other
-
-hand, a repeated task can be suitable for open talent if it involves
-
-common skills and requires little ﬁrm-speciﬁc context.
-
-Finally, there are integration costs of incorporating work from an open
-
-talent solution into the larger organization. These tend to be low for
-
-projects that require little ﬁrm speciﬁc knowledge and can be very high
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

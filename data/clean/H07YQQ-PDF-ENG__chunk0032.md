@@ -1,37 +1,23 @@
-# alignment.
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c86a4a580cefb4404e3ca480f5161f2924c12d8
+title: H07YQQ-PDF-ENG
+---
+# them on board:
 
-As a result of the supply chain disruptions, one of our clients, a senior
+- With data?
 
-director of global procurement, had an idea that would dramatically
+- By linking it to enterprise impact?
 
-reduce outsourcing, and therefore reliance on the global supply
+- With endorsements from other key stakeholders?
 
-chain. Knowing his idea was a radical departure from the company’s
+- By aligning it with their values?
 
-existing process, and having identiﬁed his boss as a passive player,
+- By linking it to their potential win, their ego, or their advancement?
 
-one motivated by risk reduction, our client decided to bring up his
+- By linking it to a reduction in a risk that they care about?
 
-objective in stages. This gave his boss time to acclimatize himself to
+By now you should have a clear sense of what it will take to recruit your
 
-the conversation. First, he shared his idea at a high level to gauge his
-
-boss’ openness. In their next discussion, he gave a broad overview of the
-
-problem and the risk it posed to the enterprise. He gave his boss time to digest that, and only when he felt his boss was suﬃciently engaged with
-
-the issue, did he bring up his change agenda.
-
-Considering your personal motives and risks
-
-The ﬁnal domain you want to consider is your personal motives and
-
-risks — knowing what’s at stake for yourself, what’s required of you, and
-
-what you’re willing to settle for.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+stakeholders and with whom you need to continue to build trust and

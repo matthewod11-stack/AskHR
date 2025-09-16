@@ -1,23 +1,45 @@
-## familiar jobs and interact with them directly.
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3473e95703ec3fd1b3979c201eeeb4ad6cc0d2d
+title: R2303A-PDF-ENG
+---
+# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
 
-Our doors opened in January 2016 to great local fanfare, and it was
+members. We used social media to announce our launch plans to the
 
-exactly as we’d imagined. People were coming in; slowing down; receiving friendly, eﬃcient service; drinking great coﬀee; and, most
+community and to put out a call for job applicants.
 
-important, having meaningful personal exchanges with our team
+In December we rented a room and hosted an informational session
 
-members. And our customers weren’t just from the neighborhood. Some
+for would-be employees. It was a packed house—about 50 people of all
 
-saw the employee stories we shared on social media (“Look what Matt
+ages and varying abilities, often accompanied by a family member. Most
 
-did today!” “This is Joann’s ﬁrst job!”) and drove from all over the
+had never been to a job interview before and didn’t have a résumé, so
 
-country to visit the shop; others planned vacations to come see us.
+it was informal. We simply explained that we were looking for people
 
-Things were so busy that we quickly realized we’d need more space.
+with a positive attitude who were interested in learning something new
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+and assured them that our plan was to ﬁgure out through the training
 
-5
+process which jobs best ﬁt their skill sets and personalities. Then we
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+made the rounds to meet everyone.
+
+We ended up hiring 19 people from that group—some with Down
+
+syndrome, some on the autism spectrum, some with cerebral palsy,
+
+others undiagnosed. We then spent time with them on-site and assigned
+
+roles: greeting customers, running the point of sale, making drinks,
+
+calling out orders when ready. Amy and other neurotypical supervisors
+
+we later brought in would ﬂoat in the background and assist only when
+
+necessary. We were clear about this: Employees with disabilities would
+
+be the face of our business. Customers would see them doing these

@@ -1,21 +1,23 @@
-# alongside trust and LMX.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 03ac2cfc152f15937a3887536480d5ee1a96de8f
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-In summary, our mediation findings suggest that both trust and LMX offer distinct
+performance, although trust was more important for OCB. Our findings support Lee et al.’s
 
-pathways and provide support for the view of them as unique mediating mechanisms. The
+(2018) finding of larger indirect effects between empowering leadership and OCB via trust
 
-uniqueness observed in our analysis may be indicative of the differing extent to which these
+compared to LMX and vice versa for employee performance. However, the overall pattern of
 
-two mediators are in fact capturing the SET process. While LMX is a popular
+our results highlight trust as the primary mediating mechanism in contrast to both Nohe and
 
-operationalisation of SET, it has been argued that LMX measures (e.g., LMX-7; Graen &
+Hertel (2017) and Lee and colleagues (2020). These differences may be explained by
 
-Uhl-Bien, 1995) suffer from a shortage of items which are explicitly ‘exchange’ based
+differences in the empirical studies that inform our analyses. Lee and colleagues (2020) and
 
-(Bernerth et al., 2007). For LMX, the SET conceptualisation may be more diffuse, often
+Nohe and Hertel (2017) both draw on a smaller sample of primary studies, used a mixture of
 
-reflecting more role-making aspects of the relationship (Bernerth et al., 2007). Trust, and in
-
-particular affective trust, may offer a more accurate, focused operationalisation of SET. More
-
-generally, our mediation results underscore the value of testing multiple social-exchange
+self-rated and non-self-rated employee outcomes, and included additional non SET mediators

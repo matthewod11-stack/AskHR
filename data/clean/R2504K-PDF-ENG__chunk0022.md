@@ -1,19 +1,43 @@
-# Finding the Right Partner
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68a9a0d5d7acde3b83ec88261203ebb140e22cbe
+title: R2504K-PDF-ENG
+---
+# relationship.”
 
-If you decide, after applying the lenses above, that you need and want
+The question of whether to partner can come up at any point in the
 
-a cofounder—whether it’s at the inception of your venture or later
+startup journey. It may arise early on as you are assessing the problem
 
-on—do not rush the process. Finding the right cofounder is not as diﬃcult as ﬁnding a life partner, but it’s close. It’s a courtship, and
+you want to solve or later when you’ve already gotten traction but may
 
-despite the urgency you may feel, it is critical to think carefully about
+be feeling overwhelmed or are looking to add a certain skill needed for
 
-what you want in a cofounder and spend time nurturing prospective
+the business. Even if you decide you don’t want a cofounder, investors
 
-relationships. Certainly, patience seems to pay oﬀ. Sixty percent of the
+may push you to ﬁnd one. In my survey, 50% of founders reported
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+that they had trouble fundraising without a cofounder and were feeling
 
-7
+pressure from prospective investors to add one to derisk their venture.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+That said, investors are becoming open to backing solo founders as long
+
+as the ﬁrst few hires have equity in the venture to ensure commitment,
+
+align incentives, and build a strong team that can share the workload.
+
+Wherever you may be in the process, consultants and advisers may be
+
+able to ﬁll immediate needs so that you can make progress on your
+
+venture. Remember, your ﬁrst hire doesn’t need to be a cofounder; it’s
+
+perfectly ﬁne to hire subordinates, as long as the hierarchy, decision
+
+rights, and incentive package (including equity stakes) are clear.
+
+Consultants, advisers, and ﬁrst hires can become cofounders down the
+
+road if there is mutual agreement that a partnership makes sense.

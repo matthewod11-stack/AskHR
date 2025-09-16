@@ -1,23 +1,13 @@
-# Model leadership.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44f6ef93193053c3d3484565718d6e7f03df2a8c
+title: H07QP9-PDF-ENG
+---
+# HBR / Digital Article / Don’t Let Your Company’s Culture Stifle Leadership Developme…
 
-If you’re a senior leader, the most impactful thing you can do to ensure
+We’ve consistently received feedback from leaders that codifying these
 
-your company’s culture aligns with your leadership expectations is
+behaviors has been helpful in clarifying the expectations of them and
 
-to personally model your company’s leadership behaviors. As Schein
-
-suggests, your actions will have a disproportionately large inﬂuence on
-
-shaping the culture.
-
-To encourage this at Intuit, we start at the top, with our most senior leaders kicking oﬀ many of our leadership development eﬀorts. When
-
-we initially rolled out the Leadership Playbook at our annual leadership conference, our CEO Sasan Goodarzi and his staﬀ, along with our former
-
-CEO and then-executive chairman Brad Smith, shared their experiences
-
-practicing the playbook behaviors and the ways in which the behaviors showed up diﬀerently based on their unique leadership styles. Our most
-
-senior leaders set the tone for the rest of the organization, and their
-
-actions — much more than their words — indicate what they believe is
+providing a framework to address real leadership challenges.

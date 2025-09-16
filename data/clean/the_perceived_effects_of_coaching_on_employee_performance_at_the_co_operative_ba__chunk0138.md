@@ -1,11 +1,17 @@
-# organisations.
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 37b795275b6c86b44043ace0ffe87ca6b16b17b9
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# programs.
 
-In terms of practice, the results of the study will also assist the employees in the
+The researchers in the area of coaching will find this study more useful. The study
 
-bank and in other organisations to appreciate the importance of goal setting during
+provides a reference point for those researchers intending to carry out further studies
 
-coaching in helping them achieve their career development goals.
+in this area. The study has provided a theoretical framework upon which further
 
-(cid:51)(cid:56)(cid:32)
+studies can be done. It also provides an opportunity for the researchers to come with
 
-(cid:32)
+theories supporting the relationship between coaching and performance of

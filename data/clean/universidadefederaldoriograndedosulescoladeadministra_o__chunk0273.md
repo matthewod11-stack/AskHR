@@ -1,5 +1,9 @@
-## Rajasekaran e Dinesh (2018) igualmente introduzem o eNPS associando à
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 740a78e2022e82d2b97dd68a2bcd33de6c019be8
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## mensurar o construto de engajamento nos instrumentos de pesquisa utilizados por
 
-sua origem no NPS para explicar que, assim como faz com relação aos seus
-
-clientes, a organização deve se preocupar em identificar o nível de engajamento,
+ela nas empresas em questão.

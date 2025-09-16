@@ -1,39 +1,31 @@
-## How to Become a Better Cross-Functional Leader
+---
+source_path: H07Z1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 250008ec987acca2c1c7cf85e463e312e22ea530
+title: H07Z1A-PDF-ENG
+---
+## HBR / Digital Article / How to Lead Across a Siloed Organization
 
-Some organizations are now recognizing that intentional eﬀort is
+something purple — something diﬀerent and better than either of
 
-required to promote cross-enterprise collaboration. They’re beginning
+us would have created alone.” This leverages the idea of bringing a
 
-to develop lateral agility in their leaders and are re-examining
+“sketch” to a conversation: not starting from scratch, but also not
 
-incentives to ensure they promote inter-departmental collaboration
+forcing a fully developed plan on others who weren’t involved in
 
-rather than cross-departmental conﬂict. And they’re looking at
+creating it. One health care executive we talked to said: “I used to
 
-organizational structures to ﬁnd ways to minimize silos.
+push my team to accept my ideas because I wanted to move fast.
 
-Here are a few strategies to increase your own lateral agility:
+But I’ve realized over years of experience that the quickest way to get
 
-- Take inventory of how well you’re managing cross-functional
+alignment is to involve others up front in crafting the answer.”
 
-relationships. Considering the practices described above, which can
+- They reach across, prioritizing relationship-building with those
 
-yield the most beneﬁt for you? Identify your top ﬁve to eight
+stakeholders most important to getting work done. Realizing that
 
-stakeholders, then map them against their strategic importance to
+trust is key to eﬀective problem-solving, leaders with lateral agility
 
-you versus the frequency of interaction you have with them. Are you
-
-putting enough time and intention into building the cross-enterprise
-
-relationships that matter most?
-
-- Assess how much time you’re taking to lead across versus leading your
-
-own team. Knowing that the most successful leaders are now spending
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+understand that this is time well spent.

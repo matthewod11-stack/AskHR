@@ -1,37 +1,25 @@
-# An Idea Whose Time Has Come
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5259b9869398de9ed80cf2be9c55ef5bb4b802f8
+title: H08LRM-PDF-ENG
+---
+# learnings from your sabbatical.
 
-We don’t talk enough about how important it is to have the time and
+Finally, don’t stay out too long. Many sabbatical-takers, especially those
 
-space outside of work to do what’s important to us. Despite all the
+between jobs, assume that they will have everything “ﬁgured out” by
 
-talk about the Great Resignation, quiet-quitting, and work-life balance,
+the end of their time oﬀ: a dream job identiﬁed or a big life change
 
-many of our cultures loudly lionize — and reward — overwork: the CEOs
+executed. While this is sometimes the case (remember Aarti?) more
 
-who run multiple companies at once or the workers who sleep under
+often a sabbatical is an essential ﬁrst step to unlocking the next phase of
 
-their desks. Even when we’re given paid time oﬀ, we fail to take it:
+your life. Don’t let perfect be the enemy of good. It’s OK to extend your
 
-Almost half of Americans fail to take all their vacation days.* Leisure
+sabbatical based on what you feel you need, but it’s better to reenter the
 
-time used to be something to aspire to — the hallmark of the wealthy —
+workforce wanting more than it is to resent yourself for not completely
 
-but now the richest among us are the least likely to invest free time in
-
-leisure. But that story is beginning to change.
-
-Younger generations say they value ﬂexibility over compensation and
-
-purpose over prestige. And with the Covid-19 pandemic, the cat is out
-
-of the bag with the importance of ﬂexibility for knowledge workers,
-
-as well as the reality that there are many diﬀerent ways to get a job
-
-done, from many diﬀerent places and time zones. We may be a long way
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+transforming over the course of a relatively short span of your life.

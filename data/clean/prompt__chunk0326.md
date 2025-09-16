@@ -1,17 +1,11 @@
-# files=( "$folder_name"/* )
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 22987f9bd16eec60e4ee193ddb14a0f789ccc86c
+title: prompt
+---
+# ``` #!/bin/bash
 
-for file in "${files[@]}"; do new_file_name="draft_$(basename "$file")" mv "$file" "$new_file_name" done
+echo "Enter the folder name: " read folder_name
 
-echo "Files renamed successfully." ```
-
-This Bash script pe(cid:455)orms the following tasks:
-
-- 1. **User Input**:
-
-- It prompts the user to enter a folder name using the `echo` and `read`
-
-commands. The entered folder name is stored in the `folder_name` variable.
-
-- 2. **Folder Existence Check**:
-
-- It checks if the folder with the speci(cid:450)ed name exists using the `[ ! -d “$folder_name” ]` condition. If the folder does not exist, it displays an error message (“Folder does not exist.”) and exits the script with an exit code of 1.
+if [ ! -d "$folder_name" ]; then echo "Folder does not exist." exit 1 fi

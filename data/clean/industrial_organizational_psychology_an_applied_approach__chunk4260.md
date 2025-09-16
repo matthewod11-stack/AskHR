@@ -1,3 +1,7 @@
-# (7th ed.). Belmont, CA: Wadsworth.
-
-Kaplan, S., Bradley, J. C., Luchman, J. N., & Haynes, D. (2009). On the role of positive and negative aﬀ ectivity in job performance: A meta-analytic investigation. Journal of Applied Psychology, in press.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3a02c8117e298d3dafa20e66dd35c80cf03a7035
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Kaplan, R. M., & Saccuzzo, D. P. (2009). Psychological testing

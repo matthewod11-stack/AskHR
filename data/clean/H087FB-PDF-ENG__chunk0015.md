@@ -1,7 +1,17 @@
-## up-to-date on key skills in your industry.
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7ae5ba000943d9d37b8e7655debc9403bbcd89d
+title: H087FB-PDF-ENG
+---
+# Focus on Professional Development
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Now that you have extra time, how would you like to move forward in
 
-3
+your work life? I advise clients to consider these options:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Think about classes or certiﬁcations that can help you push ahead in your career.
+
+Do you have a knowledge or skills gap? Have time constraints kept you
+
+from moving forward in that area? With your extra time, you can get

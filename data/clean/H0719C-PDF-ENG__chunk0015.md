@@ -1,21 +1,13 @@
-## HBR / Digital Article / How to Be a Mental Health Ally
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5058201c791a7e64d80c7dcaf2243131b737357
+title: H0719C-PDF-ENG
+---
+# about the issue.
 
-Before talking to someone, listen and watch for signs that they are
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-struggling, as well as for their potential sensitivities. For example,
+2
 
-colleagues with serious and chronic issues may disclose their feelings
-
-but not their diagnosis. They may also experience self-stigma, or the
-
-internalization of the stigma, which can amplify the impact of others’
-
-negative beliefs. Further, people with mental illness may experience
-
-an anticipated stigma, or the belief that they will experience prejudice,
-
-discrimination, and stereotyping. For these reasons, they often have
-
-heightened sensitivity to the stigma and rejection.
-
-Keep in mind the following strategies and considerations for your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

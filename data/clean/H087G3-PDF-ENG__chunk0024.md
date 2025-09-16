@@ -1,9 +1,11 @@
-# individual.”
+---
+source_path: H087G3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d44e62ac23a37e6be85e5a4c58ea35daaab61808
+title: H087G3-PDF-ENG
+---
+## HBR / The Big Idea / Survey: How People Experience Chronic Illness at Work
 
-Other non-ill respondents spoke about the need to think more inclusively about how to deliver against organizational priorities.
+chronic illnesses may just need ecosystems that are supportive, where
 
-“There should be space for individuals to choose how they do their work
-
-and deliver results,” said one person. “If the role allows, performance
-
-should not be linked to aspects like hours worked, breaks taken,
+they feel safe and heard by managers and peers and that they will not be reprimanded for calling out their needs, which may be diﬀerent for each

@@ -1,3 +1,9 @@
-# The First Wave (c. 1876–1920)
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 758fdbb7f4e302a0e0b022307ebe3019d284b91b
+title: untitled
+---
+# FRAMEWORKS FOR STUDYING WOMEN AND GENDER
 
-Only a small cohort of American women held higher degrees in psychology in the early years of the twentieth century. Some women in this cohort questioned prevailing beliefs about innate sex differences in personality and ability. For instance, Helen Thompson Woolley conducted the ﬁrst labo- ratory study of sex differences in mental traits, developing innovative measures in the process. Woolley stressed the overall similarity of the sexes, critiqued biases in earlier re- search, and discussed possible environmental determinants of observed differences. Indeed, she argued that the experi- mental method was of little use for studying sex differences because it was not possible to ﬁnd male and female research subjects with equivalent social training and experiences. As we noted earlier, Woolley did not mince her words in assess- ing psychology’s claims about women and sex differences.
+Criticisms of psychology’s treatment of women and people of color have been voiced intermittently throughout the his- tory of psychology. As early as 1876, Mary Putnam Jacobi, a physician, challenged the then-popular notion that hormonal changes associated with the menstrual cycle handicapped women mentally and physically. Jacobi pointed out that re- search on the limitations of women was rarely conducted by women themselves but rather by men, who often attributed sex differences to nature (Sherif, 1979). In effect, Jacobi argued that psychological knowledge is socially situated, that is, that interpretations of data reﬂect the perspectives and interests of the researcher.

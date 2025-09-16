@@ -1,7 +1,13 @@
-## the formation of an emotional bond between new hires and the
+---
+source_path: H083D5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef8419cc2f8a9424d678b6bf1053d9605734579a
+title: H083D5-PDF-ENG
+---
+## HBR / Digital Article / Onboarding New Employees — Without Overwhelming Them
 
-company, impacting engagement and inﬂuencing employee retention.
+And yet organizations consistently fall short. According to a 2022
 
-New employee turnover rates can be as high as 20% in the ﬁrst 45 days,
+survey from payroll company Paychex, only about half of new hires are
 
-and approximately one-third of employees leave their new jobs within
+satisﬁed with their onboarding experience. This failure can preclude

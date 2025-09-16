@@ -1,17 +1,25 @@
-## between paternalistic leadership and follower OCB (e.g., Lin et al., 2015).
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: c3eca65b6f6063851425266a0b9841e8fba8c77f
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# research.
 
-To conclude, in the complex, interdependent contexts of contemporary organisations
+Finally, it is important to acknowledge mechanisms other than LMX and trust are
 
-it is no longer appropriate to see trust as an exogenous factor, something of benefit if it
+likely to be operating. For instance, future work could consider other related variables which
 
-should happen to be present. The findings of this meta-analysis attest to this, having
+revolve around the relationship between the leader and follower such as relational
 
-demonstrated strong relationships between affective trust and performance outcomes. If trust
+identification. Another interesting avenue may be to consider the relationship between the
 
-is a defining component of leadership (e.g., Shamir & Lapidot, 2003), determining which
+three dimensions of paternalistic leadership and OCB which were not found to be mediated
 
-styles are most relevant for facilitating its expression is of fundamental importance to both
+by trust in leader. Instead the dimensions of paternalistic leadership had relatively large direct
 
-the trust and leadership literatures. Our findings would suggest that ethical and servant
+effects on followers’ OCB which may indicate that paternalistic leadership is a leadership
 
-leadership hold most promise in this regard. So too may paternalistic leadership, following
+style with the potential to directly impact on follower behaviour. Alternatively, it may that
+
+more motivational mediators such as self-efficacy may better explain the indirect effect

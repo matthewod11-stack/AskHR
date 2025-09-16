@@ -1,3 +1,9 @@
-# What Do Successful Real Managers Do?
+---
+source_path: successful_vs_effective_real_managers.md
+pages: n/a-n/a
+chunk_id: 17c212c2cb0698ec1582dac7d9d02db5ed7e63ee
+title: successful_vs_effective_real_managers
+---
+# May, 1988
 
-To answer the question of what successful real man- agers do, we conducted several types of analyses — statistical (using multiple regression techniques), simple descriptive comparisons (for example, top third of managers as meas- ured by the success index vs. bottom third}, and relative strength of correlational relationships.® In all of these anal- yses, the rmportance that networking played in real manager success was very apparent. Of the four real manager activi- ties, only networking had a statistically significant relation- ship with success. In the comparative analysis we found that the most successful (top third) real managers were doing considerably more networking and slightly more routine communication than their least successful (bottom third) counterparts From the relative strength of relationship anal- ysis we found that networking makes the biggest relative contribution to manager success and, importantly, human resource management activities makes the least relative contribution.
+We obviously would have liked to use “hard meas- ures” of effectiveness such as profits and quantity/quality of output or service, but again, because we were working with large samples of real managers from widely diverse jobs and organizations, this was not possible.

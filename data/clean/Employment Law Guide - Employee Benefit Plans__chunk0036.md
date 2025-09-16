@@ -1,3 +1,9 @@
-## Department as part of an exemption application
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: 66c217d069025b72758481e9aa971dfb08b9b9e1
+title: Employment Law Guide - Employee Benefit Plans
+---
+# such exemption submissions
 
-The Department's exemption procedures are set forth at 29 CFR 2570.30 through 2570.51 (/elaws/leave-
+Statement of consent by third‑party experts acknowledging that their statement is being submitted to the

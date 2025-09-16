@@ -1,7 +1,11 @@
-# company.
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2297f2ef183c84f125bc959b81bf36538450a6aa
+title: H08HGJ-PDF-ENG
+---
+## HBR / Digital Article / It’s Time to Reimagine Scale
 
-This article was originally published online on November 22, 2024.
+Hill at Stone Barns scaling a model that creates healthier farms and
 
-Nathan Furr is a Professor of Strategy at INSEAD and a coauthor of ﬁve best-selling books, including The Upside of Uncertainty, The Innovator’s Method, Leading Transformation, Innovation Capital, and Nail It then Scale It.
-
-Susannah Harmon Furr is an entrepreneur based in Paris. She is a coauthor of The Upside of Uncertainty (Harvard Business Review Press, 2022).
+more delicious food as an equal, maybe even bigger, success than a tech

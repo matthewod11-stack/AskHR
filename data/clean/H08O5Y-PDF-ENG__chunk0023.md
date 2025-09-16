@@ -1,5 +1,7 @@
-## performance-based incentives, whereas in government, the same term
-
-may simply refer to pay and beneﬁts.
-
-This translation is crucial when updating your resume. Consider this
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67964827153203d6c12d07b7a41d6e50cbdb0116
+title: H08O5Y-PDF-ENG
+---
+## encompasses compensation, beneﬁts, well-being initiatives, and

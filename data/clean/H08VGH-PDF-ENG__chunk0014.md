@@ -1,9 +1,11 @@
-## crucial as specialized skills rise and fall with surprising speed.
+---
+source_path: H08VGH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e08c72966fe9bcb3a23814a68d6ab5634cb8074d
+title: H08VGH-PDF-ENG
+---
+## These Skills Provide Flexibility in a Fast-Changing World
 
-For example, Adobe Flash was once the gold standard for interactive
+Our study found that workers with a broad range of foundational skills
 
-web content, supporting a whole generation of developers. But when
-
-Flash was discontinued and browsers phased it out, only those who
-
-could pivot to HTML5 and JavaScript remained in demand. More
+were more adaptable to industry changes. This adaptability is especially

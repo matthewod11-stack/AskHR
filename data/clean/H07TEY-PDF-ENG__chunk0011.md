@@ -1,23 +1,25 @@
-## HBR / Digital Article / Why Your Organization Should Use Salary Benchmarking
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e29cc46a1d09fd8527037827583aeefb893fbf81
+title: H07TEY-PDF-ENG
+---
+## too high, relative to the market benchmark.
 
-form of salary benchmarks. Clients can then search for any job title they
+Our research also provides empirical evidence that access to salary
 
-want in a user-friendly way. It is one of the most advanced benchmark
+benchmarks has a signiﬁcant eﬀect on the salaries that ﬁrms set. We
 
-tools and is being used by many prominent ﬁrms.
+conducted it in collaboration with the largest U.S. payroll processing
 
-Our data covers the roll-out of the tool when it was ﬁrst introduced to
+company, ADP, serving more than one million ﬁrms and processing
 
-the market, late 2015, through the start of the pandemic in 2020. Our
+paychecks for one in six U.S. workers. In addition to the payroll services,
 
-sample includes 584 “treatment” ﬁrms that gained access to the tool
+the company aggregates the salary data from their payroll records in the
 
-and 1,431 “control” ﬁrms that did not gain access to the tool but were
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-selected because they shared similar characteristics to the treatment
+2
 
-ﬁrms. We studied the evolution of salaries in the treatment ﬁrms shortly
-
-before and after they gained access to the benchmarking tool, and we
-
-compared that to the corresponding evolution of salaries in the control
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,25 @@
-## Putting the Brakes on Rear-End Collisions
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: cfafc33dcd69cc8233ee42e54c57fc796eace1b6
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Transportation
 
-Th e goal of human-factors research in this area is to make driving safer and eas- ier. For example, human-factors researchers have conducted several studies to reduce rear-end collisions. Th e ﬁ rst step is to study the driving process and create a process chart that diagrams the events that take place, the order in which they occur, and their duration. Such a process chart might show that the amount of time needed to avoid a collision is a function of () the time it takes for the lead driver to scan the environment, determine if there is a reason to brake, make the decision to brake, and then apply the brake and () the time it takes for the trailing driver to notice cues (brake lights, turn indicators, slowing of speed), distinguish one cue from another, make a decision to brake, and then apply the brakes. To reduce rear-end collisions, human-factors psychologists look for ways to reduce the processing time at each of the steps shown in the process chart. For example, talking on a cellular phone (Caird, Willness, Steel, & Scialfa, ), lis- tening to loud music (Turner, Fernandez, & Nelson, ), or talking to a passen- ger (Young & Stanton, ) while driving increases the time it takes to notice such cues as brake lights and traﬃ c signals. Sivak, Flannagan, Sato, and Traube () found that neither neon nor LED brake lights resulted in better reaction times than either standard or enhanced incandescent lights.
+598
 
-Researchers in another study focused on the step of distinguishing one cue from another. Th ey hypothesized that because both your brake lights and your turn indicators are red, a driver following behind you must spend fractions of a second interpreting whether you are braking or using your turn-signal (Luoma, Flannagan, Sivak, Aoki, & Traube, ). Th ese fractions of a second could be the diﬀ erence in avoiding an accident in the case of an immediate stop. Luoma and
+appendix
 
-his research team found that changing the color of the turn signal from red to yellow reduced the time taken to react to a brake signal. Th is study supports the European and Japanese requirements that turn signals be yellow (in the United States, both red and yellow are allowed). In another study focusing on the ability to discriminate brake lights from other lights, Th eeuwes and Alferdinck () found that a brake light mounted in the rear window is more eﬀ ective if it is located higher on the window rather than toward the bottom of the window.
+the correlation table that each time the employee retrieved a french-fry container, he also retrieved french fries, yet the two are located in diﬀ erent areas. To improve eﬃ ciency, the most often retrieved items should be moved closer to the employee, and items that are retrieved together should be located near one another.
 
-Another study sought to reduce the time between the lead driver taking his foot oﬀ the accelerator and moving it to the brake. To do this, Shinar () developed an advance brake warning (ABW) system in which a sudden release in the accelerator pedal would activate the brake light for one second. If the driver actually hit the brake pedal, the brake light would stay on. If the driver did not brake, the brake light would go oﬀ . Th ough this system provides an early warning system, it could potentially result in false alarms. To study this possibility, Shinar () studied , times in which six drivers applied their brakes. Th e ABW was activated during  of the , instances of braking and provided a fol- lowing driver an average of one-ﬁ fth of a second more warning. Th e false alarm rate was % of ABW activations but accounted for only % of all brake light activations of less than a second. Th us, the extra warning time did not appear to result in an excessive number of false alarms.
+As another example, due to the high number of musculoskeletal com- plaints (for example, back pain or sore wrists) by grocery store cashiers, exten- sive research has gone into designing a checkout stand that is both eﬃ cient and comfortable. According to a literature review and new data by Grant and Habes (), these are the features of the ideal checkout stand:
+
+7 7
+
+7
+
+7
+
+7
+
+Th e cashier would face the customer. Th e height of the work surface would be no taller than the cashier’s elbows. Th e scanner and keyboard would be in front of the cashier and the cash drawer to his/her side (less than  inches away). Groceries would be presented to the cashier on a conveyor belt that is narrow (to reduce reach) and that runs from the scanner to the back of the checkout stand. Stools, footrests, and antifatigue mats would be present to allow the cashier the choice of sitting or standing.

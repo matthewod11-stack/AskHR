@@ -1,11 +1,13 @@
-# What Do You Think? 7
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: aef9667749529ab50f4b837ba9d1e3e7598a5aa0
+title: industrial_organizational_psychology_an_applied_approach
+---
+## The hiring professionals at the Borgata Hotel
 
-Do you see any potential ethical dilemmas of recruiting and hiring based on looks? If so, what are they? Is it ethical to take a less skilled applicant over a more skilled one just because one is more attractive than the other? Is it fair or ethical for places like Borgata Casino and Spa to refuse employment to less than average looking employees? Is there a more ethical way to balance the rights of companies to have attractive people and the rights of people who are perceived as unattractive? Do you think that more states and cities should make laws against discrimination of people based on their looks?
+Casino and Spa in Atlantic City, New Jersey, embrace this philosophy. Applicants for positions of waiters and waitresses are told that they cannot gain more than 7% of their body weight from the time they weigh at hire. This means that a 125-pound woman cannot gain more than eight pounds over her tenure at the company. Of course, if you are a little too heavy to begin with (not obese, though), you won’t even get an interview. Defenders of the right to hire based on looks say that physically attractive people are perceived as smarter, more successful, more sociable, more dominant, and as having higher self-esteem. And, customers would rather be helped by those types of employees rather than the less attractive ones. The assumption is that the more beautiful employees a company has, the more clients or customers that business will attract.This, of course, means more money for the company. And, the more money the company brings in, the higher the salaries employees can earn. So, according to the defenders, it’s a win-win situation. Well, win-win for the beautiful people, anyway.
 
-7
+And speaking of salaries. In 2005, the Federal Reserve Bank of St. Louis reviewed the correlation
 
-7
-
-7
-
-7
+So, like Professor Barror implies, as long as we, the customer, prefer looks over highly skilled professionals, companies should have the right to refuse employment to unattractive, short, and overweight applicants.

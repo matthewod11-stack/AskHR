@@ -1,9 +1,29 @@
-# among others.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: ca6541767456b8cbac9102688425bb343f792cae
+title: i
+---
+# 2.13 Predictive analytics with Python
 
-These models fall into two distinct categories: supervised and unsupervised algorithms.
+As Predictive analytics is considered as the highest level of PA, and Data Science is one of
 
-Supervised Algorithms: In this category, historical data includes both input variables and an
+building block for an analyst in PA ,we discuss the use of algorithm and demonstrate one of
 
-output variable. The model utilizes both input and output variables from past data. Examples
+the most popular PA analytics matter: to predict the turnover for Workforce planning
 
-of supervised algorithms comprise Linear Regression, Logistic Regression, Decision Trees,
+Kumar (2016) define predictive modelling as a collection of statistical algorithms implemented
+
+within a statistical tool. When applied to historical data, these algorithms generate a
+
+mathematical function or equation. Subsequently, this function can be employed to anticipate
+
+future outcomes based on specific inputs, with the aim of achieving business goals or
+
+facilitating improved decision-making in a broader context.. The array of available algorithms
+
+for predictive modelling encompasses Linear Regression, Logistic Regression, Clustering,
+
+53
+
+Decision Trees, Time-Series Modeling, Naïve Bayes Classifiers, Natural Language Processing,

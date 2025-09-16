@@ -1,11 +1,9 @@
-# Almost Never
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: f51bbda26fe28b2a16590820c1f49675fbe74aef
+title: document_resume
+---
+# Almost Always
 
-1
-
-2
-
-3
-
-4
-
-5
+Teaches innovative, state-of-the-art information in continuing education classes

@@ -1,15 +1,13 @@
-# man.
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d188a0ccbc4070eb0c579f50484d8671b784639
+title: H08HIY-PDF-ENG
+---
+## HORRIBLE AT THE OPENING BID, LETS [sic] SEE WHERE THIS TRAIN
 
-Overall, these results speak to the extra burden of discrimination
+WRECK GOES” or “…that’s the bimbo’s initial oﬀer??? Give me a break,
 
-faced by those with mental health disabilities, especially for women
+how did she get this job?” There were no comparable comments about
 
-who seem to face the “double bind” of the intersection of stigmatized
-
-categories. Research into the bias faced by those with mental health
-
-disabilities is nascent but growing, and companies are increasingly
-
-attuned to supporting the inclusion of all individuals. Some studies
-
-have begun to explore ways to lessen this bias, such as through speciﬁc,
+the same character engaging in the same behaviors when Alex was a

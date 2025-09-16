@@ -1,11 +1,19 @@
-## Chapter 9 • Performance Management Skills
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: db57951db8926107b597a35e5543dc128dc472f0
+title: performance_management_3rd_edition_by_aguinis
+---
+# information
 
-the negative feedback. At this stage of the process, however, feedback is delivered too late and often in a punitive fashion. Of course, feedback delivered so late in the process and in a punitive fashion is not likely to be helpful.
+In spite of the need to address poor performance, managers are usually not very comfortable providing negative feedback. Why is this so? Consider the following reasons:
 
-Alternatively, negative feedback is most useful when early coaching has been instrumental in identifying warning signs and the performance problem is still manageable. Negative feedback is also useful when it clarifies unwanted behaviors and consequences and focuses on behaviors that can be changed. There is no point in providing feedback on issues that are beyond the employee’s control because there is not much she can do to improve the situation. In addition, employees are more likely to respond constructively to negative feedback when the manager is perceived as being trustworthy and making a genuine attempt to improve the employee’s performance. In other words, the manager needs to be perceived as credible and as instrumental in improving the employee’s performance in the future.36 Finally, negative feedback is most likely to be accepted when it is given by a source who uses straight talk and not subtle pressure and when it is supported by hard data. The supervisor must control her emotions and stay calm. If managers follow these suggestions, it is more likely that employees will benefit from negative feedback, even if employees are not particularly open to receiving it.37 Following these suggestions leads to what has been labeled “actionable feedback,” meaning that such feedback will allow employees to respond in constructive ways and will lead to learning and performance improvement.38
+- Negative reactions and consequences. Managers may fear that employees will react negatively. Negative reactions can include being defensive and even becoming angry at the information received. In addition, managers may fear that the work- ing relationship, or even friendship, with their subordinates may be affected adversely and that giving negative feedback can introduce elements of mistrust and annoyance.
 
-Overall, regardless of whether the feedback session includes praise or a discussion of needed areas of improvement, it should provide answers to the following questions:39,40
+- Negative experiences in the past. Managers themselves may have received negative feedback at some point in their careers and have experienced firsthand how feelings can be hurt. Receiving negative feedback can be painful and upsetting, and managers may not want to put their subordinates in such a situation.
 
-- 1. How is your job going? Do you have what you need to do your job? 2. Are you adequately trained? Do you have the skills and tools you need to do your job? 3. What can be done to improve your and your unit’s/organization’s job/products/ services?
+- Playing “god.” Managers may be reluctant to play the role of an all-knowing, judgmental god. They may feel that giving negative feedback puts them in that position.
 
-- 4. How can you better serve your internal and external customers?
+- Need for irrefutable and conclusive evidence. Managers may not want to provide negative feedback until after they have been able to gather irrefutable and conclusive evidence about a performance problem. Because this task may be perceived as too onerous, managers may choose to skip giving negative feedback altogether.
+
+What happens when managers avoid giving negative feedback and employees avoid seeking it? A feedback gap results, in which managers and employees mutually instigate and reinforce lack of communication which creates a vacuum of meaningful exchanges about poor performance.35 A typical consequence of a feedback gap is that, in the absence of information to the contrary, the manager gives the employee the message that performance is adequate. When performance problems exist, they are likely to become more intense over time. For example, clients may be so dissatisfied with the service they are receiving that they may eventually choose to close their accounts and work instead with the competition. At that time, it becomes impossible for the manager to overlook the performance problem, and she has no choice but to deliver

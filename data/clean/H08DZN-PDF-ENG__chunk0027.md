@@ -1,11 +1,35 @@
-# HBR / Digital Article / Research: How Anxiety Shapes Men’s and Women’s Leadership…
+---
+source_path: H08DZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e124cdfa6b5eb127cdb00d32118816f24213046
+title: H08DZN-PDF-ENG
+---
+# leadership advantages.
 
-leaders and organizations to recognize that caring leadership behaviors
+More broadly, our research highlights the importance of
 
-may be valued diﬀerently when adopted by women compared to men.
+leadership behaviors that emphasize care. In our current work
 
-Recognizing gender bias and understanding how gender stereotypes
+landscape, characterized by uncertainty and anxiety, workers report
 
-shape expectations and evaluations at work is an important step in
+wanting leadership that is more understanding and supportive.
 
-addressing the systemic inequalities that beneﬁt one gender over the
+Transformational leadership, known for its communal values, is one
+
+such eﬀective approach. Studies show that women are more likely
+
+than men to practice transformational leadership, though this is a
+
+behavior that can be developed or trained. However, although this
+
+leadership style boosts promotability for men, it does not do the
+
+same for women. Therefore, encouraging leaders to compassionately
+
+consider their reports’ needs alone is not enough. It is essential for
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

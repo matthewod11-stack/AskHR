@@ -1,15 +1,13 @@
-## HBR / Digital Article / What Comes After DEI
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e908ab7fa8ff9ae266d0d8c3fcef79519a3b2797
+title: H08LGU-PDF-ENG
+---
+# problem.
 
-Representation is a matter of trust, not tokenism. While people may be
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-slightly more inclined to trust those who share identities in common
+10
 
-with them, trust is more dependent on the behavior and track record
-
-of those in power. It’s possible for a leadership team made up entirely
-
-of women to be non-representative of women if none of the leaders
-
-take the eﬀort to understand and advocate for the needs of the women
-
-they supposedly represent. On the other hand, it’s possible that a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

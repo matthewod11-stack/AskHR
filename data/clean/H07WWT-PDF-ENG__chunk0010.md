@@ -1,13 +1,13 @@
-# Commit to your PTO.
+---
+source_path: H07WWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51a7ddb7e08825efad442d0a023f2af85683c633
+title: H07WWT-PDF-ENG
+---
+# in their roles last year.
 
-One of the biggest challenges during year-end tasks is managing time
+So don’t wait for others to remember or to initiate requests you suspect
 
-oﬀ, especially when urgent requests pop up. According to a 2023 Pew
+may be coming. Anticipating and asking about possible requests isn’t
 
-research study, many Americans hesitate to take all their paid time oﬀ
-
-due to concerns about falling behind at work.
-
-To avoid giving up your well-deserved vacation days (and your overall
-
-well-being), conﬁdently communicate your plans with your colleagues.
+being nosy; it’s being helpful.

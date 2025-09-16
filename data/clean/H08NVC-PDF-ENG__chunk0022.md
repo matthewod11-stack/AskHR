@@ -1,21 +1,21 @@
-# this issue.
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb0f4afd001209fe2777b0d959067fa2860a67e4
+title: H08NVC-PDF-ENG
+---
+## Engage Different Mindsets with Creativity
 
-First, consider a global consulting ﬁrm’s UK oﬃce. The oﬃce’s well-
+Sometimes, of course, cultural stigma around mental health issues does
 
-being lead realized that majority of its senior management belonged
+play a role in low uptake. But the trap is in assuming that stereotypes
 
-to a generation and gender group that found it challenging to discuss
+are accurate in all circumstances and giving up prematurely when
 
-mental health, both in and outside of work. They were taught that
+encountering resistance based on them. Instead, companies can use the
 
-mental health and stress were not topics to be discussed with anyone
+knowledge of the stigma as a springboard to try out other methods of
 
-else, and that they simply had to “tough it out.” Yet, in reality, they
+engaging with mental health issues.
 
-still needed outlets to open up during hard times, as accessing and
-
-articulating emotions is a pivotal way to process experiences, reduce
-
-stress, and maintain mental well-being.
-
-Recognizing the importance of encouraging the senior leaders to
+Two case studies demonstrate indirect but eﬀective methods to address

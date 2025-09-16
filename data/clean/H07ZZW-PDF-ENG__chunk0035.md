@@ -1,13 +1,17 @@
-## elevation of core values and employee voice, or an opportunistic way
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a063ac252455c703713bc570d6e017ba0a965153
+title: H07ZZW-PDF-ENG
+---
+## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
 
-to galvanize customers and workers — the Overton window has clearly
+to the Supreme Court’s Roe v. Wade decision, Covid-19 mask and vaccine
 
-shifted.
+mandates, and inadequate gun control regulations. Now many are
 
-The professional has become personal. In the classroom, I hear my
+trapped between the Scylla of escalating, incessant employee demands,
 
-students say repeatedly that a career should align with one’s values.
+and the Charybdis of organized political backlash.
 
-They’re not alone. “Employees want to work for a company with
-
-purpose — that has values and sticks to them and isn’t hypocritical
+Regardless of what you think of these changes — as a necessary

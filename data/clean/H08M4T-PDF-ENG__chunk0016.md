@@ -1,33 +1,31 @@
-# Practice active listening.
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8bd194acc7a576c5efb77a253724d028daa1780
+title: H08M4T-PDF-ENG
+---
+# Tune into your energy patterns.
 
-One of the places where many people lose focus is during conversations,
+Your attention at work has a rhythm, says Mark. Your peak focus times
 
-notes Montminy. This occurs in team meetings on Zoom (you really
+are aﬀected by your chronotype, or your natural circadian rhythm.
 
-think no one notices when you check your email in another tab?)
+Mark’s research ﬁnds that most people have peak focus times around
 
-and can happen even in person when you’re talking with a colleague
+11 AM and mid-afternoon, though this varies depending on whether
 
-one minute, and the next, you’re mentally elsewhere, distracted
+you’re an early bird or night owl. To discover your personal rhythm,
 
-by your phone. “We’ve become accustomed to not being present
+keep a diary tracking your energy and concentration levels throughout
 
-with each other,” she says. “Shallow interactions have become the
+the day. “The desire to scroll or check your socials is a sign of your focus
 
-norm.” To improve your focus and rebuild connection, Montminy
+starting to quiver, usually toward the end of one of your cycles,” says
 
-recommends making a deliberate eﬀort to practice active listening. This
+Montminy. Then, schedule demanding tasks during your peak cognitive
 
-involves maintaining eye contact, tuning into what the other person
+hours and reserve less-complex work, like email, for when your energy
 
-is saying, and asking thoughtful questions. By doing so, you not only
+dips. “Understanding and adapting to your energy ﬂuctuations helps
 
-sharpen your concentration but also deepen your connections. “Make
-
-intentional changes to prioritize your relationships,” she advises.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you align your work schedule with your personal rhythm,” she says.

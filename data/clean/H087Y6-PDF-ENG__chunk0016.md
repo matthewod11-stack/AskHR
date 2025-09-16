@@ -1,15 +1,11 @@
-## Leaks, Raids, and Free-Riding, a competitive labor market, just like a
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 573102770631a7743ea995b7f085ea6c9ca0c552
+title: H087Y6-PDF-ENG
+---
+# Examining the Case Against Noncompetes
 
-competitive product market, is an engine for innovation, investment,
+Banning noncompetes not just good for workers, it is good for business.
 
-and economic growth. By curbing the enforceability of noncompetes,
-
-the FTC anticipates — based on research — several signiﬁcant beneﬁts.
-
-For wages, the removal of noncompete constraints is projected to boost
-
-worker earnings, with estimates suggesting an increase ranging from
-
-$400 billion to $488 billion over the next decade. The FTC has state-by-
-
-state modeling that projects that the average worker could see an annual
+As I argued in Talent Wants to be Free: Why We Should Learn to Love

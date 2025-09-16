@@ -1,3 +1,9 @@
-# The Cognitive-Contents Approach
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9df20bf12cc7579c3f9e51267808651e4813f4c4
+title: untitled
+---
+# The Cognitive-Training Approach
 
-In the cognitive-contents approach, one seeks to compare the performances of experts and novices in complex tasks such as physics problems (e.g., Chi, Feltovich, & Glaser, 1981; Chi, Glaser, & Rees, 1982; Larkin, McDermott, Simon, & Simon, 1980), the selection of moves and strategies in chess and other games (Chase & Simon, 1973; DeGroot, 1965; Reitman, 1976), and the acquisition of domain-related information by groups of people at different levels of expertise (Chiesi, Spilich, & Voss, 1979). The notion underlying such research can be seen as abilities being forms of developing expertise (R. J.Sternberg,1998).Inotherwords,theexpertshavedevel- oped high levels of intellectual abilities in particular domains as results of the development of their expertise. Research on expert-novicedifferencesinavarietyoftaskdomainssuggests the importance of the amount and form of information storage in long-term memory as key to expert-novice differences.
+The goal of the cognitive-training approach is to infer the components of information processing from how individuals perform when they are trained. According to Campione, Brown, and Ferrara (1982), one starts with a theoretical analysis of a task and a hypothesis about a source of individ- ual differences within that task. It might be assumed, for ex- ample, that components A, B, and C are required to carry out Task X and that less able children do poorly because of a weakness in component A. To test this assertion, one might train less able participants in the use of Aand then retest them on X. If performance improves, the task analysis is sup- ported. If performance does not improve, then either A was not an important component of the task, participants were originally efﬁcient with regard to A and did not need train- ing, or the training was ineffective (see also Belmont & Butterﬁeld, 1971; Belmont, Butterﬁeld, & Ferretti, 1982; Borkowski & Wanschura, 1974).

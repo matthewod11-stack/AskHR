@@ -1,13 +1,9 @@
-## value. A good onboarding process — with clear information on job
+---
+source_path: H083D5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c3a63160f7b9f6d27dba41ece4028df2a6f9869e
+title: H083D5-PDF-ENG
+---
+# Alexandr Dubynin/Getty Images
 
-requirements, organizational norms, and performance expectations —
-
-not only enhances employee productivity but helps increase loyalty and
-
-engagement, and decreases turnover.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+We know that effectively onboarding new employees has huge

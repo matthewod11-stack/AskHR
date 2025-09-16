@@ -1,7 +1,33 @@
-## HBR / Magazine Article / Leading Global Teams Effectively
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19d9917287933f700b488634db9aa5befde6d058
+title: R2503K-PDF-ENG
+---
+## Shohei Elementary School, Tokyo James Mollison
 
-deputies with sharing diﬃcult information, not so much to avoid the
+Team members, regardless of culture or personality, want leaders
 
-discomfort for themselves but to create an environment in which team
+to be clear. In fact, in the GLOBE Leadership Studies, “clarity” was
 
-members are comfortable asking questions while allowing everyone to
+rankedas one of the highest priorities that global employees want from
+
+leaders. One eﬀective strategy is to build trust gradually by gauging
+
+team members’ receptivity and modulating the level of disclosure
+
+accordingly. For cultures or individuals who may ﬁnd too much
+
+disclosure unsettling, start slowly and build trust through consistency,
+
+incremental sharing, and demonstrated competence. In some cases,
+
+sensitive information is better communicated through a third party
+
+rather than directly from the leader. Some senior leaders task their
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

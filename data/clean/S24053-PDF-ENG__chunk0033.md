@@ -1,9 +1,43 @@
-## workforce of 80,000—spends 15 minutes of every monthly meeting
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 66f651a713647ebc34775ba0d3b3983e616481af
+title: S24053-PDF-ENG
+---
+## HBR / Spotlight Article / Teamwork at the Top
 
-studying the “failure of the month.” It’s an agenda item that many look
+Not surprisingly, our research shows that the top teams of many of the
 
-forward to because it’s constructive and free of judgment.
+companies that thrived during Covid exhibited high levels of drive.
 
-Collaboration. The very heart of teaming is collaboration. It combines
+Dynamism. Dynamic teams treat change as constant and positive. They
 
-direction, discipline, drive, and dynamism, and it thrives in an
+actively scout information from outside and inside their organization so that they can take advantage of opportunities and head oﬀ challenges.
+
+They have a bias for action and respond with speed and ﬂexibility
+
+to new scenarios, modifying plans and executing accordingly. They
+
+invest in resources to accelerate innovation and protect initiatives from
+
+anything that might undermine them. They set compensation and
+
+incentives to support risk-taking and don’t penalize for failure.
+
+In business, as in life, allowing for the possibility of failure is important
+
+because it’s a prime source for learning and positive change. But top
+
+teams typically avoid practicing this behavior. In the high-stakes world
+
+they work in, failure can be a terrifying prospect, but aversion to risk undercuts dynamism and means that leaders can’t respond eﬀectively
+
+to change.
+
+A better approach is for top teams to publicly recognize the
+
+opportunities for learning that failure provides. That’s what happened
+
+at a major pharmaceuticals company we worked with. The team
+
+that leads the ﬁrm’s center of excellence for talent—which serves a

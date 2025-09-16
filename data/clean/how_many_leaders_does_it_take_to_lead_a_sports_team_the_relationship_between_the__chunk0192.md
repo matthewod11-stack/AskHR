@@ -1,1 +1,7 @@
-# F
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 12e57aeb84d40426c431d16ced037af592f6d6dc
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Balanced

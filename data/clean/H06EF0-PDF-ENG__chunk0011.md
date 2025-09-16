@@ -1,9 +1,15 @@
-# term pressures for proﬁts.
+---
+source_path: H06EF0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edafe65fb2a6cc7ebd949545aa74457eb0efe941
+title: H06EF0-PDF-ENG
+---
+# whistle.
 
-Throughout my consulting work, I’ve discovered that honest conversations
+This massive breach in ethics, one of the largest in recent years, stands in
 
-are a crucial tool in helping leaders and their organizations successfully act
+contrast to the company’s then-publicly stated mission to “satisfy our
 
-on their ethical ambitions. If you’re a CEO who aspires to lead ethically
+customers’ ﬁnancial needs and help them succeed ﬁnancially.” Sadly, even
 
-and with high purpose, consider the following strategies.
+authentic, high-purpose CEOs and their companies can succumb to short-

@@ -1,3 +1,9 @@
-# Leaders of the Reconstruction
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 68794eff6051a3baa9c80d32e9898a5a85970f89
+title: untitled
+---
+# BETWEEN THE WORLD WARS
 
-Few psychologists were in the universities to engage in re- construction. Harvey Carr and Walter Hunter, products of the Chicago program, remained active, as did Karl Lashley, who was inﬂuential in the careers of many aspiring compara- tive psychologists. After the war, Yerkes spent several years in Washington before Angell, then the president of Yale
+The period running from the late 1910s and through the 1920s was a nadir for the ﬁeld. With the old foundation for the ﬁeld gone, a new one had to be constructed.

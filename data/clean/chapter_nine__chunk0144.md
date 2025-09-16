@@ -1,7 +1,7 @@
-# http://www.fons.org/library/journal.aspx
-
-Shimko, B.W., Meli, J.T., Restrepo, J.C., Oehlers, P.F. (2000) Debunking the “lean and mean” myth and celebrating the rise of learning organisations. The Learning Organisation. Vol. 7. No. 2. pp 99- 109.
-
-Sim, J., Zadnik, M.G., Radloff, A. (2003) University and workplace cultures: their impact on the
-
-development of lifelong learners. Radiography. Vol. 9. No. 2. pp 99-107.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 0d97c645e35975bedc37d9d23c43f08c0ea2fa95
+title: chapter_nine
+---
+## © FoNS 2011 International Practice Development Journal 1 (2) [1]

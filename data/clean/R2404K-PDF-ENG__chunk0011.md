@@ -1,17 +1,15 @@
-## company for an eventual M&A or IPO, the entrepreneurial team behind
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cc97ec4510d817f8c72dca84d2a145808a83542
+title: R2404K-PDF-ENG
+---
+## proﬁtability and generate modest growth with lower risk.
 
-the innovation is forced to devote considerable time and energy to
+At the other end, venture capitalists favor high-risk “transformational”
 
-building up a range of functional and operational capabilities. The exit
+innovations that seek to upend industries and generate outsize returns.
 
-prices that venture capitalists require to generate the returns they need,
+They anticipate that the returns from innovation eﬀorts that succeed
 
-and the bidding wars to acquire the start-ups that arise, mean that a
-
-large ﬁrm must pay a hefty price to purchase a successfully launched
-
-innovative start-up. Although observers tend to celebrate when a start- up is acquired by an established company, there’s some ineﬃciency
-
-to this transaction. From an economic standpoint, it would be better
-
-if established companies did more innovation in-house—building, not
+will more than compensate for the failures. In order to build a viable

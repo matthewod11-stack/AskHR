@@ -1,7 +1,13 @@
-# team’s capacity and resilience.
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36f29fbe76fa04ba1c9661933e9f0b889aa72e17
+title: H081LX-PDF-ENG
+---
+# foundational experiences.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Additionally, research by Zenger Folkman has shown that the most
 
-5
+eﬀective leaders delegate not merely to lighten their own loads but to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+focus more on strategic initiatives. They understand that delegation isn’t strictly about oﬄoading tasks but rather about expanding the

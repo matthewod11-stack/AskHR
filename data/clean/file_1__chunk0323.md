@@ -1,9 +1,9 @@
-# 75
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 56bf79189305dd36855c08a425e507384201595c
+title: file_1
+---
+# 74
 
-Table 4 Results of linear regression analysis of employees’ perceptions of gender inequality Independent variable
-
-Dependent variable: Employees’ Perceptions of Societal Gender Inequality (perceiving gender inequality to a lesser extent (cid:2) perceiving gender inequality to a greater extent) t
-
-Dependent Variable: Employees’ Perceptions of Workplace Gender Inequality (perceiving gender inequality to a lesser extent (cid:2) perceiving gender inequality to a greater extent)
-
-(cid:2)
+Table 4 presents the results of OLS regression analysis in which two models are represented. Due to the missing information in some of the responses, the effective sample size for regression analyses is N=610 and 606 respectfully. The table consists of two models. The first one incorporates the impact of various factors on employees’ perceptions of societal gender inequality, and the second depicts the impact of the same factors on employees’ perceptions of workplace gender inequality.

@@ -1,1 +1,11 @@
-# It
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: b25d4a9bfa46d8a0c063deac76d2cead26bd4ba4
+title: fast_track_art_i_c_l_e
+---
+# One Size Does Not Fit All
+
+Best practices scorecards are being widely embraced as vital tools for EHM development and planning. As of October 2012, the HERO Scorecard, for example, had accumulated a normative data set based on nearly 800 companies in the United States completing the Scorecard.41 Although this should yield a growing opportunity for a better understanding of the beneﬁts from using best practices guidelines, basing research on established benchmarks can also in- hibit improvement of guidelines given the constraints of current components being assessed and limitations of the rather rudimen- tary deﬁnitions for successful implementation of each component. One worksite-based randomized controlled trial of the effectiveness of differing approaches to employee health promotion showed that health coaching that promoted changes in individual-level engage- ment in health care decision making was more predictive of positive health outcomes than any other program component.42 The study, called “Activate,” compared the differences between a traditional and a consumer-directed approach to EHM.
+
+is noteworthy that changes in activation levels were one of few individual-level variables that signiﬁcantly changed in the Activate study on the basis of both individual-level and

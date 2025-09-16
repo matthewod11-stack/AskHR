@@ -1,17 +1,13 @@
-# matter for future growth.
+---
+source_path: H08E7K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2e4cf6a543501276f35278db435f0fb0c92cf3e
+title: H08E7K-PDF-ENG
+---
+## HBR / Digital Article / How to Keep Learning at Work — Even When You Feel Fried
 
-As an executive coach to many talented leaders who feel constantly
+showed that more than half of workers feel “used up” at the end of the
 
-overwhelmed, I’ve observed that for them, not meeting their highest
+day. This means that not only are they depleted from meeting daily
 
-potential is just as mentally burdensome as working overtime is
-
-physically taxing. But a learning journey that takes them out of their
-
-comfort zone, provides meaning based on their values, and is optimized
-
-for their style of retention is just the thing that reinvigorates them.
-
-Consider these ﬁve strategies to ensure you’re continuously learning
-
-even when you’re feeling depleted or overwhelmed.
+expectations, they have limited stamina to pursue activities that truly

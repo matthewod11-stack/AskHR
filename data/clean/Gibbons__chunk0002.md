@@ -1,31 +1,32 @@
-### **Stage 1: Mapping complementary capabilities**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: 84aa9f722609f2ec09f7fe5989e0141936195003
+title: Gibbons
+---
+## **[Geoff Gibbins]{.underline}** 
 
-The first mistake organizations make is assuming AI should replicate
-human work. DeepMind succeeded because they identified what each party
-did best. Humans excel at formulating research questions, understanding
-context, and recognizing significance. AI excels at pattern recognition
-across vast datasets, consistent application of rules, and rapid
-generation of possibilities.
+Human-AI expert \| Managing Director at BOI \| Author
 
-Start by mapping your team\'s work into three categories:
+September 9, 2025
 
-1. Human advantage zones: These include ethical reasoning, contextual
- > judgment incorporating organizational values, causal understanding
- > of why relationships exist, and creative problem-solving that
- > transcends existing patterns. A pharmaceutical research team found
- > their chemists\' understanding of synthesizability and side
- > effects couldn\'t be captured in training data. This human insight
- > proved essential for filtering AI-generated drug candidates.
+In November 2023, Google DeepMind announced a breakthrough that should
+fundamentally change how you think about human-AI collaboration. Their
+Graph Networks for Materials Exploration discovered 2.2 million new
+crystal structures, equivalent to 800 years of traditional research.
+Within weeks, external laboratories had synthesized 736 of these
+predicted materials.
 
-2. AI advantage zones: These encompass pattern recognition across large
- > datasets, consistent application of defined criteria without
- > fatigue, rapid generation of multiple options, and processing vast
- > information volumes. The same pharmaceutical team used AI to
- > screen thousands of molecular structures in hours rather than
- > months.
+This wasn\'t AI replacing scientists. It was a new form of collaboration
+where human creativity and scientific understanding combined with AI\'s
+pattern recognition to achieve something neither could accomplish alone.
+The humans designed the questions, selected algorithms, and validated
+findings. The AI explored vast possibility spaces humans could never
+traverse manually.
 
-3. Collaboration zones: These are areas where neither humans nor AI
- > alone are sufficient. Complex decision-making requiring both
- > pattern recognition and contextual judgment falls here. Strategic
- > planning that needs both data analysis and stakeholder
- > understanding belongs in this category.
+Most organizations approaching AI implementation miss this crucial
+distinction.
+
+They focus on automation or augmentation when they should be building
+true human-AI teams. The difference determines whether you achieve
+incremental improvements or breakthrough transformations.

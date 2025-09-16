@@ -1,5 +1,9 @@
-# The Role of Situational Factors
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f141e0d3f5e4acd8c69de80d747f3cfa1eafc447
+title: barrickryan_eds_personality_and_work
+---
+## INFLUENCES ON TRAIT-BEHAVIOR RELATIONSHIPS 73
 
-These situational effects are represented in the model (see Figure 3.1). First, the two interpersonal personality traits, Extraversion and Agreeableness, are expected to relate to behavior only when the relevant situational demands and opportunities are highly salient in the work setting. Speciﬁcally, Extraversion should relate to job performance only in settings that can be characterized as competitive work environments. In contrast, Agreeableness should predict performance behavior only when the work requires work- ers to cooperate. In a similar vein, Status Striving relates to per- formance only in competitive environments and Communion Striving only in cooperative settings.
-
-The model also suggests that relevant personality traits have higher correlations with performance when the degree of auton- omy in the job is high (a weak situation). Consequently, in jobs with high autonomy, the predictive validity of Extraversion should be higher if the job is competitive and the validity of Agreeable- ness should be higher for cooperative jobs. Furthermore, two per- sonality traits, Conscientiousness and Emotional Stability, are expected to be valid predictors of performance in nearly all jobs. In settings where the situational pressures are weak (high auton- omy), we expect the relationship between these traits and perfor- mance also to be higher than where autonomy is low. Thus, the level of autonomy in the job will moderate the relationship be- tween Conscientiousness and Emotional Stability with performance in all or nearly all jobs, and either Extraversion or Agreeableness
+Data from 146 managers (Barrick & Mount, 1993) indicated that the predictive validity of two relevant personality predictors, Con- scientiousness and Extraversion, was greater for managers in jobs high in autonomy compared with those in jobs low in autonomy. Lee, Ashford, and Bobko (1990) also found that the degree of au- tonomy a person has in his or her job moderated the relationships between Type A behavior and job performance, job satisfaction, and somatic complaints for employees from a variety of organiza- tions. Based on these ﬁndings, we believe the degree of autonomy in the situation moderates the effects of all relevant personality pre- dictors on performance.

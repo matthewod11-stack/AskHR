@@ -1,15 +1,15 @@
-## X-ray classiﬁers systematically underdiagnose patients of color and
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f8f4f12c92e9daa9bae8646781a8d391d32e03b
+title: H08PLG-PDF-ENG
+---
+# Data Divide
 
-female patients. And when algorithms were used to evaluate mortgage
+AI combines mathematics with datasets. While math may not
 
-applications, lenders in Chicago were 150% more likely to reject Black
+discriminate, datasets do—they often include biases in the form of
 
-applicants relative to similar white applicants. In Waco, Texas, that
+incomplete information and even falsehoods. The data divide can
 
-number was even higher, at 200% for Latino applicants.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+have devastating consequences. For instance, algorithm-aided chest

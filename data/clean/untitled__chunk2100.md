@@ -1,3 +1,9 @@
-# diversity for team advantage.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c5f2d783db2a7802ac4b5d629584288e34b9968a
+title: untitled
+---
+# A cross-cultural conﬁrmation.
 
-Aging and work behavior. Age and employment. Toward a model of cross-cultural industrial and organizational
+Action as the core of work psychology: A German approach. Time and behavior at work. Cross-cultural leadership making: Bridging American and Japanese

@@ -1,7 +1,13 @@
-## from them? More often than not, the outcome isn’t good.
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a0f7924fe7041bbf97b93f3febcbfad4e5147a1
+title: H08IWP-PDF-ENG
+---
+# Jorg Greuel/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+What happens when executives — believing that they know what’s
 
-1
+in the best interest of the company — decide to not consult with
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+stakeholders, or even to temporarily withhold important information

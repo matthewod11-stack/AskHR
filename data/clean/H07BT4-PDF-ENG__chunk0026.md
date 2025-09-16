@@ -1,27 +1,21 @@
-# HBR / Digital Article / Why Some of Your Salespeople Are Dragging — and How to Fix It
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d6917d8df84527a4db8515713cc45e2ffc0af6d
+title: H07BT4-PDF-ENG
+---
+## Tailor a collaborative investigation process.
 
-also beneﬁt from the perspective of their peers, clarifying which issues
+Any approach to soliciting seller input should incorporate multiple
 
-were potentially systemic.
+channels to provide honest feedback, including at least one avenue to
 
-Synthesize seller feedback to uncover unstated needs.
+do so anonymously. At Lever, a mix of focus groups, guided discussions,
 
-Lever sellers met in small groups to discuss common pain points and
+and surveys ensured that sellers could share speciﬁc pain points and
 
-decide which to prioritize in their reporting. Leadership consolidated
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-input to distill key overarching themes and further investigate root
+4
 
-causes of particularly consequential issues. Interestingly, leaders did
-
-not put the onus on sellers to make a business case for ﬁxing each
-
-concern raised. Instead, sellers were asked to rate the impact on either
-
-the customer experience and/or their own employee experience.
-
-Develop a mixed-project portfolio.
-
-Lever used an investment portfolio approach to analyze and prioritize
-
-the relative costs and beneﬁts of each potential project according to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

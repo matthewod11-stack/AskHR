@@ -1,5 +1,11 @@
-# and then post-intervention.
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b30ed9991564ae45cd16cedce2da8b47873280e
+title: H08Q8O-PDF-ENG
+---
+## place a data collection plan with experimental and control groups. The
 
-In most cases, the best person to answer the what matters question
+data will include measures of productivity, energy costs, well-being, and
 
-is the line manager, who is familiar with the work context and knows
+psychosocial risks in the pre-intervention period, intervention periods,

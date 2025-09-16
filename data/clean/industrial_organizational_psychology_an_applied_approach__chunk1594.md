@@ -1,7 +1,9 @@
-# Peers
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a33419c2d6beb36ab893ff77854792b366ed85f1
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Supervisors
 
-Whereas supervisors see the results of an employee’s efforts, peers often see the actual behavior. Peer ratings usually come from employees who work directly with an employee; a bank teller could be rated by other bank tellers. However, other employees in the organization, those who often come in contact with the employee, can also provide useful information. For example, our teller could be rated by employees from the loan support or Visa card departments.
-
-Research has shown that peer ratings are fairly reliable only when the peers who make the ratings are similar to and well acquainted with the employees being rated (Mumford, ). Most important, peer ratings have been successful in predicting the future success of promoted employees, as they correlate highly with supervisor ratings (Cederbloom, ).
-
-Research suggests that certain employees are more lenient in their peer ratings than are other employees. Saavedra and Kwun () found that high performers evaluate their peers more strictly than do low performers. This difference in ratings is probably because employees compare others to themselves. Thus, the average employee does not appear impressive to a high performer but may do so to a less productive employee. Though peers may provide a unique view of per- formance, employees tend to react worse to negative feedback from peers than from experts (Albright & Levy, ). Employees who score high in self-esteem, high in self-monitoring, and low in individualism react most favorably to peer ratings (Long, Long, & Dobbins, ).
+By far the most common type of performance appraisal is the supervisor rat- ing. In fact, Bernardin and Beatty () estimated that more than % of all performance appraisals are conducted using supervisors’ ratings of performance. Though supervisors may not see every minute of an employee’s behavior, they do see the end result. A supervisor may not actually see a teller sign up custom- ers for Visa cards but will review the daily sales totals. Likewise, a professor does not see a student actually research and write a paper but infers the levels of these behaviors by viewing the results—the finished term paper.

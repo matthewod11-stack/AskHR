@@ -1,5 +1,13 @@
-## professor at Harvard Business School and author of the new book Talk:
+---
+source_path: H08HRO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebb15c85334f4491994ed0fe395e77b90a66dd79
+title: H08HRO-PDF-ENG
+---
+## assume positive intent on behalf of the listener.
 
-The Science of Conversation and the Art of Being Ourselves, coined a term
+Consider whether your approach might be contributing to their
 
-for people who don’t ask questions in a conversation. She calls them
+disengagement. Ask yourself if you’ve been speaking for a long time
+
+without letting the other person get a word in. Alison Wood Brooks,

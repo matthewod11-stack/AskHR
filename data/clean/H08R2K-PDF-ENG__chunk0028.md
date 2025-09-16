@@ -1,19 +1,33 @@
-## HBR / Digital Article / Employee Stress Is a Business Risk—Not an HR Problem
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad20dd610f91cf7aa845caa31d807ac5e3db680f
+title: H08R2K-PDF-ENG
+---
+# How to Get Started
 
-operational vulnerability. Our research shows they take fewer sick
+Companies can begin assessing stress risk internally by asking a simple
 
-days, submit fewer health claims, and report collaborating more eﬀectively. Organizations with higher concentrations of employees
+question like, “How often do you feel stressed, anxious, or overwhelmed
 
-in this zone tend to see more focused, resilient, and engaged teams.
+at work?” once every 6-12 months. Employees can be prompted to select
 
-In our research, this group made up 14% of employees who were surveyed. (While these numbers may diﬀer in your company, we oﬀer
+between “none of the time,” “rarely,” “sometimes,” “frequently,” or “all
 
-this number as an initial benchmark to see how your workforce stress
+of the time.” These data allow leaders to segment their workforce into
 
-breakdown compares to our sample.)
+low, medium, and high-stress zones, and should be held to high privacy
 
-- Medium zone: Stress is elevated at times but not critical, risks
+standards which we will discuss in greater detail below.
 
-are elevated but can be managed. Employees in this group report
+- Low zone: Employees are experiencing low stress and risks are
 
-feeling stressed “sometimes.” While often appearing productive,
+low. They report feeling stressed “rarely” or “none of the time.”
+
+They operate in a sustainable performance state with minimal
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

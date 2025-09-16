@@ -1,13 +1,31 @@
-## HBR / Magazine Article / When Diversity Meets Feedback
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 503115bb727602e094ba0d144f916efcd2ca366d
+title: R2305F-PDF-ENG
+---
+# organizations.
 
-what had become a know-it-all culture into a learn-it-all culture. While
+But there’s another movement in business that has increasingly gained
 
-know-it-alls are focused on raising their status by showing oﬀ their
+steam: diversity, equity, and inclusion. Bolstered by the Black Lives
 
-expertise and hiding their weaknesses, learn-it-alls have the courage
+Matter and #MeToo movements, DEI is perhaps the most overarching
 
-and humility to listen openly to constructive criticism and are eager to
+organizational culture trend of the decade. Today every single Fortune
 
-hear the opinions of teammates who have diverse viewpoints.
+100 company cites DEI as a key priority on its website.
 
-When it comes to sharing feedback and advice, diversity often leads to complications, which, if not understood and managed, can create bad feelings.
+At ﬁrst glance, DEI seems compatible with a culture of honest feedback.
+
+The more diverse the workforce, the more beneﬁcial it is to hear
+
+everyone’s opinions, and the more we all succeed. When Satya Nadella
+
+took over Microsoft, in 2014, he declared that he would work to turn
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

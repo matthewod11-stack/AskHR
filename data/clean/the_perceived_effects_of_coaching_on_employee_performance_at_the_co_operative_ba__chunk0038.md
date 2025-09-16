@@ -1,9 +1,7 @@
-## our behaviour rather than some objective understanding of external reality.
-
-Gikuya (2014) argues that employees are constantly going to assign meaning to the
-
-human resource policies that govern their daily working lives and individual
-
-attitudes in turn, tend to accumulate into unit- wide perceptions. To achieve desired
-
-organizational outcomes, it is important to have not only the right human resource
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: bf2ff4a5346c1de0ba234e6edf30da04af6f3a4c
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# personal perception of our social and physical environment that shapes and directs

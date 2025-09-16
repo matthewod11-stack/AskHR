@@ -1,3 +1,11 @@
-# Models of the Nature of Intelligence
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 28d9d124aee4064597d1b44ef388a75aa8936e7b
+title: untitled
+---
+# Guilford’s Structure-of-Intellect Model
 
-show only that the psychometric support that Guilford claimed for his model was not justiﬁed by the methods he used.
+Although many differential theorists followed the option of proposing a hierarchical model, not all did. J. P. Guilford (1967, 1982; Guilford & Hoepfner, 1971) proposed a model with 120 distinct abilities (increased to 150 in 1982 and to 180 in later manifestations). The basic theory organizes abilities along three dimensions: operations, products, and contents. In the best-known version of the model, there are ﬁve operations, six products, and four contents. The ﬁve op- erations are cognition, memory, divergent production, con- vergent production, and evaluation. The six products are units, classes, relations, systems, transformations, and impli- cations. The four contents are ﬁgural, symbolic, semantic, and behavioral. Because these dimensions are completely crossed with each other, they yield a total of 5 (cid:11) 6 (cid:11) 4 or 120 different abilities. For example, inferring a relation in a verbal analogy (such as the relation between BLACK and WHITE in BLACK : WHITE :: HIGH : LOW) would in- volve cognition of semantic relations.
+
+Guilford’s model has not fared well psychometrically. Horn and Knapp (1973) showed that random theories could generate support equal to that obtained by Guilford’s model when the same type of rotation was used that Guilford used— so-called “Procrustean rotation.” Horn (1967) showed that equal support could be obtained with Guilford’s theory, but with data generated randomly rather than with real data. These demonstrations do not prove the model wrong: They

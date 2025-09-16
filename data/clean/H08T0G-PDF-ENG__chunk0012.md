@@ -1,21 +1,19 @@
-# smart-factory equipment, and more.
+---
+source_path: H08T0G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c4a32c41a4c037202e02c0e0a73efca05a1bdfb
+title: H08T0G-PDF-ENG
+---
+## HBR / Digital Article / Competing in the New Era of Industrial Policy
 
-- 2. Pay attention to the long-term implications of industrial policy.
+view of your value chain may highlight more opportunities and impacts
 
-There’s a lot of noise in the trading system right now as the U.S. and
+coming down the pipe than appear on the surface. For example, some
 
-others throw tariﬀs at each other, but there are always signals within the
+policies may seem pointed at AI; but AI needs data centers, and data
 
-noise, and longer-lived trends despite the choppiness. Ideas and goals
+centers need lots of real estate, electricity, and construction work. A
 
-that have broad political and economic support, like defending key
+broad policy goal of encouraging manufacturing can beneﬁt bakers
 
-industries, jumpstarting industries of the future, or supporting energy
-
-independence, will likely survive the fray. A company can make long-
-
-term plans and investments with those in mind; at the least, it doesn’t
-
-make sense to bet against them. In some cases, trade restrictions can
-
-buy time for domestic producers to make investments that will close
+as well as automakers, not to mention logistics companies, makers of

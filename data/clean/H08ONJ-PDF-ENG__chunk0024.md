@@ -1,7 +1,13 @@
-## their expertise, capabilities, and economies of scale to substantially
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4aac1e567200acff2c35847890e49ab4fd2ee7ae
+title: H08ONJ-PDF-ENG
+---
+# price tag of near to zero for Square.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Ask yourself: Who from outside your organization has the resources
 
-5
+you lack? Which organization or organizations have the technical
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+expertise or capabilities you need? How can you creatively leverage

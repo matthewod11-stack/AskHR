@@ -1,3 +1,11 @@
-# l
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 2ce32ab2df3331b1731184fca2a3224f2dd21d6f
+title: arop1noe_245_275
+---
+# i
 
-engagement (e.g., Albrecht 2010, Bakker 2011), but more are needed. For example, Minhas (2010) found that having employees focus on developing their strengths led to increases in work engagement as well as in psychological well-being, life satisfaction, and self-esteem. The re- lationship between learning and engagement also appears to be reciprocal. Bakker and colleagues (Bakker 2011, Bakker et al. 2012) found that engaged workers, particularly those with high levels of conscientiousness, were more open to new information and more likely to engage in active learning.
+.
+
+d e d a o n w o D

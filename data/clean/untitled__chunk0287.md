@@ -1,3 +1,13 @@
-# can Journal of Psychology, 47, 323–330.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5ed14c0d9a4595627cefa11bf94b4bcd42a6eb38
+title: untitled
+---
+# Brown, Green, and Longmans.
 
-Stevens, S. S. (1935b). The operational deﬁnition of concepts. Psy-
+Stam, H. J., & Kalmanovitch, T. (1998). E. L. Thorndike and the origins of animal psychology. American Psychologist, 53, 1135–1144.
+
+Sternberg, S. (1969). The discovery of processing stages: Exten- sions of Donders’ method. In W. G. Koster (Ed.), Acta psy- chologica, 30, attention and performance II (pp. 276–315). Amsterdam: North Holland.
+
+Stevens, S. S. (1935a). The operational basis of psychology. Ameri-

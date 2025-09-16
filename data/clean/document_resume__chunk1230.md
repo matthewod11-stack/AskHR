@@ -1,3 +1,9 @@
-# 5 Exceptional
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 96a810b217ac05650a165c7fb3f328f689976b24
+title: document_resume
+---
+## submits final course grades to Registrar late.
 
-Effectively uses clinical conferences as a way to know each student personally. Provides an atmosphere of professionalism. Is available for discussing clinical issues at times other than regular conference hours. Encourages students' self-appraisal of their clinical performance. Uses clinical evaluations as a medium
+- 4. Pre and Post Clinical Conferences (Emergency Medical Technician-EMT) - Conducts pre and post clinical conferences to determine value of clinical experi- ences to students and assesses student progress.

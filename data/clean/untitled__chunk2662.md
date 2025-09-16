@@ -1,17 +1,17 @@
-## 1890–1891. Philadelphia: University of Pennsylvania.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 639d9f4e065d3b5c946f87e9eccbcf337b6d2416
+title: untitled
+---
+# Journal of Psychology, 37, 593–599.
 
-Veysey, L. (1973). Stability and experiment in the American under- graduate curriculum. In C. Kaysen (Ed.), Content and context: Essays on college education (pp. 1–63). New York: McGraw- Hill.
+Seashore, C. E. (1910). General report on the teaching of the ele- mentary course in psychology: Recommendations. Psychologi- cal Monographs, 12(4, Whole No. 51), 80–91.
 
-Walker, W. E., Newcomb, A. F., & Hopkins, W. P. (1987). A model for curriculum evaluation and revision in undergraduate psy- chology programs. Teaching of Psychology, 14, 198–202.
+Study Group on the Conditions of Excellence in American Higher Education. (1984). Involvement in learning: Realizing the poten- tial of American higher education. Washington, DC: U.S. De- partment of Education.
 
-Weiten, W., Davis, S. F., Jegerski, J. A., Kasschau, R. A., Mandel, K. B., & Wade, C. (1993). From isolation to community: Increasing communication and collegiality among psychol- ogy teachers. In T. V. McGovern (Ed.), Handbook for enhanc- ing undergraduate education in psychology (pp. 123–159). Washington, DC: American Psychological Association.
+Sue, D. W., Bingham, R. P., Porche-Burke, L., & Vasquez, M. (1999). The diversiﬁcation of psychology: A multicultural revo- lution. American Psychologist, 54, 1061–1069.
 
-Weiten, W., & Wight, R. D. (1992). Portraits of a discipline: An ex- amination of introductory psychology textbooks in America. In A. E. Puente, J. R. Matthews, & C. L. Brewer (Eds.), Teaching psychology in America: A history (pp. 453–504). Washington, DC: American Psychological Association.
+Thornton, G. R., & Thornton, J. S. (1942). Terms that are considered important for beginning students of psychology. Journal of Edu- cational Psychology, 33, 39–49.
 
-Whipple, G. M. (1910). The teaching of psychology in normal schools. Psychological Monographs, 12(4,Whole No. 51), 2–40.
-
-Whitehead, A. N. (1952). The aims of education. New York: Mentor.
-
-(Original work published 1929)
-
-Wight, R. D., & Davis, S. F. (1992). Division in search of itself: Ahistory of APADivision 2, the Division of the Teaching of Psy- chology. In A. E. Puente, J. R. Matthews, & C. L. Brewer (Eds.),
+University of Pennsylvania Catalogue and Announcements,

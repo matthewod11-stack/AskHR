@@ -1,27 +1,21 @@
-## HBR / Digital Article / Research: When Extra Effort Makes You Worse at Your Job
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81197452347ff7d8947896fed0529267226390de
+title: H08PEA-PDF-ENG
+---
+# Some Caveats
 
-might eventually make it less taxing. In other words, if you continually
+Our study examined the short-term impacts of proactivity, but we’re still
 
-look for new ways to do things, does it strengthen that ability,
+exploring what a long-term study of cognitive performance following
 
-so that proactivity has a weaker impact on cognitive performance?
+proactivity might look like. An interesting avenue for future work would
 
-Additionally, future research can explore how long it takes for cognitive
+be to test whether engaging in proactivity for several days in a row
 
-performance to bounce back after an especially proactive day. This
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-might give us better insight about how much proactivity workers can
+5
 
-engage in before it starts leading to mental fatigue.
-
-. . .
-
-While proactive behavior is widely seen as essential in today’s complex
-
-work contexts—and with good reason—it is important to consider
-
-its less visible downside. Both individuals and organizations need to
-
-recognize that proactivity may come—at least in the short term—with
-
-cognitive costs that may aﬀect performance by the end of the workday.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

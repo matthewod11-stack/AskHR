@@ -1,11 +1,9 @@
-# CHAPTER SEVEN
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 6e60b87f322f3b093abf02a6a5dbef2bfd374cf5
+title: beo_chap7_1
+---
+# and Kerr 2001).
 
-that group members share a common essence which is immutable.!2 Gil-White
-
-(2001, p. 519), for example, argues that ethnic groups are perceived as a species.
-
-They have
-
-(1) a distinctive morphology... (2) many intercorrelated hidden properties...
-
-(3) within-category mating and descent-based membership, and (4) saliently labeled
+251

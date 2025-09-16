@@ -1,19 +1,9 @@
-# makers.
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a7a5f1575fc40263b745c03d42f4e1fac22fae5d
+title: H08QTQ-PDF-ENG
+---
+## HBR / Digital Article / The Right Way to Implement Stretch Assignments
 
-As an example, at another company we studied, junior employees
-
-were matched with senior mentors who not only supported them
-
-through challenging projects but also helped translate that experience
-
-into broader career gains. This kind of mentorship, layered on top
-
-of day-to-day managerial support, demonstrated an organization-wide
-
-commitment to equitable development.
-
-Ultimately, our research underscores the importance of designing
-
-systems that make the value and rewards of stretch assignments clear,
-
-consistent, and accessible. When organizations invest in structures
+roles increases visibility and signals their contributions to key decision-

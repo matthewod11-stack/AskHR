@@ -1,17 +1,11 @@
-# pickup, or plan.
+---
+source_path: H0866R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62d03113e4bd77017bf91004bee775568cf921f3
+title: H0866R-PDF-ENG
+---
+# HBR / Digital Article / Working Parents, Plan for the Week with This Simple Exercise
 
-They’re not alone. Amir and Ria are a composite of the thousand-plus
+they’re running into each week bracing themselves for dealing with the
 
-families I’ve worked with over the past ﬁve years as I’ve been building
-
-Milo, an AI-powered tool to help them manage the invisible “logistics
-
-load” — the behind-the-scenes work of running a family. That logistics
-
-load has been growing heavier for working families: Kids today have a
-
-high number of scheduled events — between school, extracurriculars
-
-and social plans — while parents are juggling hybrid schedules and
-
-work travel. Information and reminders feel like a ﬁrehose (Crazy sock
+inevitable moment something breaks or that they miss a key reminder,

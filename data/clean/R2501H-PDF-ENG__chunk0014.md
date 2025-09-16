@@ -1,61 +1,31 @@
-## HBR / Magazine Article / Three Ways to Lead Learning
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6b1218d237f4f270304487f495280af30dc52ad
+title: R2501H-PDF-ENG
+---
+# Challengers
 
-Challengers often consider learning to be a moral duty of the
+When CEOs want a learning leader who is less concerned with
 
-organization rather than a ﬁnancial one. “I believe that education is the
+upholding standards and more focused on developing innovative
 
-way to help people grow personally and live a better life,” one told us.
+capabilities, they often turn to a challenger. In contrast to custodians,
 
-Challengers tend to claim they have an “outsider” perspective
+challengers embrace a humanistic belief that employees have an
 
-that diﬀers from the organization’s mainstream thinking. They see
+intrinsic right to grow and forge their own paths and that the
 
-themselves as valuable specialists who bring unique expertise to the C-
+organization must honor that right. While the organization beneﬁts
 
-suite—often with learning-focused résumés. These leaders love telling
+from learning because it helps employees raise the quality of their
 
-stories of their peers’ skepticism; friction with other senior leaders seems only to aﬃrm their view that most executives are champions
+work, challengers believe that the ultimate beneﬁciary must be the
 
-of the status quo who need redeeming rather than pleasing. That
-
-reﬂects challengers’ perception that learning is valuable in helping
-
-people defy norms and break habits that hold the company back. While
-
-instrumental learning fosters convergence and alignment, humanistic
-
-learning encourages divergence from a norm.
-
-There are strong beneﬁts to the challenger approach. The ﬁrst is
-
-engagement: A number of challengers we spoke to reported proudly that
-
-employees they worked with had turned down higher-paid jobs oﬀered
-
-by other companies, because they were afraid they would be made
-
-to conform and would lose the freedom they enjoyed. The second is
-
-innovation: Liberated, energized people are more likely to come up with
-
-new ways to do things. They can adapt global policies to local cultures.
-
-They do not wait for instructions to seize an opportunity or respond to
-
-a market turn. Most important, they are the restless, tinkering, internal
-
-champions of change that Clay Christensen believed were necessary in
-
-established companies, lest disruptive innovation from nimbler ﬁrms
-
-ﬁnd them unprepared. It’s perhaps ironic that while challengers report
-
-caring less about retention than custodians do, by making employees
-
-feel their skills are more portable, they improve it.
+individuals themselves, or learning will become oppressive.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

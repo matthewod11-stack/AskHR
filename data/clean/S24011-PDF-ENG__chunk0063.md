@@ -1,9 +1,31 @@
-## HBR / Spotlight Article / Leading in the Flow of Work
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c7fa01d3fc692327e02f758ecb9edca8cee6e4a
+title: S24011-PDF-ENG
+---
+## Wisdom Energy: Calm and Receptive to the Truth
 
-- 8. Dial an emotion up or down. Intensify positive feelings or dampen
+- 5. Understand before you act. Approach an issue with heightened
 
-negative ones to bring out the best in yourself and others. Sensing rising
+curiosity, and fully explore it before making your move.
 
-frustration in a team meeting, a manager can shift the conversation to
+- 6. Disarm. When you encounter disagreement, find something true in what
 
-past successes and team strengths before turning people’s attention
+the other party is saying and affirm it.
+
+- 7. Fuse opposing viewpoints. Find a way to integrate contradictory
+
+positions into a more nuanced and balanced perspective. For instance,
+
+if team members disagree about the quality of their presentation, their
+
+manager might point out that while the presentation was analytically
+
+persuasive, it overlooked building an emotional connection.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+15
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

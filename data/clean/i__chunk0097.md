@@ -1,11 +1,7 @@
-# (Cedar Crestone 2006)
-
-18
-
-As of today, advancements in technology and the implementation of big data analytics have
-
-significantly bolstered Human Resource Management (HRM) by enabling the creation of more
-
-streamlined and data-driven solutions for businesses (van den Heuvel, Bondarouk, 2017). The
-
-process of digitalizing HRM has opened up various opportunities for its enhancement (van den
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: a9059299bf29bb74e7aba52903a682dc26d80db5
+title: i
+---
+# companies.

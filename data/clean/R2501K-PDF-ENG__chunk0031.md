@@ -1,5 +1,17 @@
-## a single scenario, all the connections among the teams responsible for
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5b2d6d82ab3725f09206234ac79f9f4fcb2c4eb
+title: R2501K-PDF-ENG
+---
+# Organizational Interdependencies
 
-providing and receiving goods or services. This approach allows you
+Most projects require collaboration across multiple teams within an
 
-to identify the hurdles that must be overcome to achieve larger-scale
+organization, and some also involve outside stakeholders. Each of these
+
+groups can introduce their own elements of unpredictability, which may
+
+increase your risk in ways you can’t control. However, you can slice the
+
+interdependencies with an “organizational tracer bullet” that tests, for

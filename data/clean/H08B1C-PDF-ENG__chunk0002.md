@@ -1,5 +1,7 @@
-## When Asking Too Many Questions Undermines Your Leadership
-
-Tips for balancing a learning mindset with confidence and decisiveness. by Luis Velasquez
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 907c4b745f2b8f0a4cb623bc8cc0a68eaa6be3f3
+title: H08B1C-PDF-ENG
+---
+# Managing Yourself

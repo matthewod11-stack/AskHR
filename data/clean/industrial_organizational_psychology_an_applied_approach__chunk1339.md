@@ -1,9 +1,11 @@
-# Legal Issues
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c9f22bb2afae2eb2225c9e46bd459b9f94b80a2a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Foldes, Duehr, & Ones (2008)
 
-As you might recall from Chapter , methods used to select employees are most prone to legal challenge when they result in adverse impact, invade an applicant’s privacy, and do not appear to be job related (lack face validity). As shown in Table ., cognitive ability and GPA will result in the highest levels of adverse impact, whereas integrity tests, references, and personality inventories will result in the lowest levels (in viewing this table, you might want to review the concept of d scores and effect sizes discussed in Chapter ). In terms of face validity, applicants perceive interviews, work samples/simulations, and résumés as being the most job related/fair, and they
+suspects and defend himself, a situational interview to tap his decision-making ability, a personality test to ensure that he has the traits needed for the job, and a background check to determine whether he has a history of antisocial behavior.
 
-196
-
-chapter 
-
-view graphology, biodata, and personality tests as being the least job related/fair (Rynes & Connerley, ; Smither et al., ; Steiner & Gilliland, ).
+The late industrial psychologist Dan Johnson likened the selection process to a fishing trip. During our trip, we can try to catch one huge fish to make our meal or we can catch several small fish that, when cooked and placed on a plate, make the same size meal as one large fish. With selection tests, we try for one or two tests that will predict performance at a high level. But by combining several tests with smaller validities, we can predict performance just as well as with one test with a very high validity.

@@ -1,45 +1,27 @@
-## HBR / Digital Article / 6 Steps to Reset a Demotivated Team
+---
+source_path: H08T45-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77e8bcb6876c698065ec844208896b6cf4bcf8d9
+title: H08T45-PDF-ENG
+---
+# HBR Staff Using AI
 
-demotivation, or strategic pivots, there comes a moment when a team
+How often has your team changed lately? A new member joins. A key
 
-needs more than a tweak. It needs a relaunch.
+player exits. Roles shift. Strategy evolves. A conﬂict brews. Performance
 
-Based on our collective work with hundreds of teams over the past
+dips. Today’s teams are in constant ﬂux—reshaped by both internal
 
-decade, we oﬀer a roadmap for getting your team back on track.
+dynamics and external pressures. And yet many leaders push forward
 
-- 1. Reassess: Diagnose before you act
+without pausing to reset after a team change.
 
-Leaders often rush to make changes without ﬁrst diagnosing the
+The best leaders know that success isn’t static—it requires regular
 
-underlying issues, only to ﬁnd the problems worsen. Before jumping
+renewal. Whether driven by restructuring, relationship tensions,
 
-into action, consider these questions:
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-- Is the team aligned on purpose, goals, and priorities?
+1
 
-- Are there unresolved conﬂicts or trust issues?
-
-- Has motivation, engagement, or well-being dropped?
-
-- Are there external pressures impacting performance?
-
-- Does the team have the right resources?
-
-- Is there a shared commitment to investing in relationships?
-
-- Are there issues with your leadership style or perceived fairness?
-
-Not all team members will feel comfortable speaking openly, especially
-
-in group settings or directly with you. Cultural norms, personal history,
-
-and power dynamics can all shape how people express concerns. In
-
-addition to one-on-one conversations, consider using anonymous pulse
-
-surveys, or have one trusted member of the team compile unspoken
-
-themes and report them to you. And if the team’s psychological safety
-
-allows, host a structured dialogue where members can share their
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

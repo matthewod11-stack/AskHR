@@ -1,7 +1,13 @@
-# than most people.
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 601e6720b71b07a4fd5fff7043c6e405fb717143
+title: H08O9C-PDF-ENG
+---
+## possible and imaginable question about any topic better than most
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+humans, it is key to display some “social proof”, and persuade others
 
-7
+that you are a credible expert or source of knowledge in a given ﬁeld,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+which will probably imply that you are also using gen AI, just better

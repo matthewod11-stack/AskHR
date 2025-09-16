@@ -1,3 +1,7 @@
-## foundations to the current state of this construct
-
-utilized a modified version of the
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: 173e48b469aae33854f5bb36ef15f0ffb6b90a66
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+# future. We

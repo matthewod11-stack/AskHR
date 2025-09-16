@@ -1,23 +1,27 @@
-# and compensation increases.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55abc7c90c89da475987dfe7589e4da25c243a62
+title: R2502E-PDF-ENG
+---
+## HBR / Magazine Article / How Women Can Win in the Workplace
 
-Our research has shown that women aren’t earning the same amount
+learn new skills just as frequently as men do. However, men are more
 
-of experience capital as men. There are multiple systemic issues at
+likely to move to growing occupations from shrinking ones. Their moves
 
-work here that need to be addressed if we want to solve this problem,
+are also more likely to increase their pay than moves made by women,
 
-including biases in hiring and promotion, but in the meantime there’s
+who often see a decrease in pay.
 
-plenty that women can do to help themselves. That’s what this article
+Experience capital can be gained through employer-provided learning
 
-is about: the actions that women can take. By distilling what we’ve
+and development programs, through job changes that challenge you
 
-learned in more than a decade of research and through interviews
+to add new skills to your repertoire, and by observing how colleagues
 
-with successful female leaders, we’ve developed a set of strategies and
+and bosses handle complex tasks or tricky situations. But building
 
-practices for developing experience capital that can help women set
+experience capital isn’t the only challenge; the other half of the equation
 
-themselves up for success—in a way that will beneﬁt not just them but
-
-also the people and companies they work with.
+is having it recognized in the form of new opportunities, promotions,

@@ -1,35 +1,23 @@
-## units: the alignment of decision rights with expertise.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b2c84e9e5a94e76c517954d00fac06da8cd12d3
+title: R2006F-PDF-ENG
+---
+## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-Why do companies so often cling to having general managers in
+original expertise, and teams can grow in size when leaders teach others
 
-charge of business units? One reason, we believe, is that making the change is diﬃcult. It entails overcoming inertia, reallocating power
+their craft and delegate work. We believe that Apple will continue to
 
-among managers, changing an individual-oriented incentive system,
+innovate and prosper by being organized this way.
 
-and learning new ways of collaborating. That is daunting when a
+. . .
 
-company already faces huge external challenges. An intermediate step
+Apple’s functional organization is rare, if not unique, among very large
 
-may be to cultivate the experts-leading-experts model even within
+companies. It ﬂies in the face of prevailing management theory that
 
-a business unit structure. For example, when ﬁlling the next senior
+companies should be reorganized into divisions and business units as
 
-management role, pick someone with deep expertise in that area as
-
-opposed to someone who might make the best general manager. But
-
-a full-ﬂedged transformation requires that leaders also transition to a
-
-functional organization. Apple’s track record proves that the rewards
-
-may justify the risks. Its approach can produce extraordinary results.
-
-A version of this article appeared in the November–December 2020 issue of Harvard Business Review.
-
-Joel M. Podolny is the dean and vice president of Apple University in Cupertino, California. The former dean of the Yale School of Management, Podolny was a professor at Harvard Business School and the Stanford Graduate School of Business.
-
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
-
-21
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they become large. But something vital gets lost in a shift to business

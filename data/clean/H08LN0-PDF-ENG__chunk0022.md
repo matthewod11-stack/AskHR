@@ -1,9 +1,7 @@
-## Boards: Prioritize and safeguard employee well-being.
-
-It’s the board’s responsibility to ensure the ﬁnancial health of the
-
-organization. They should thus ensure that CEOs and top executives are
-
-held accountable for wider indicators of ﬁrm performance, including
-
-but not limited to employee wellbeing (such as enhancing employee
+---
+source_path: H08LN0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74f4fef7551b68057cc399e3b537bcf2a5a716f0
+title: H08LN0-PDF-ENG
+---
+# HBR / Digital Article / Research: Whistleblowing Is More Common When CEOs Are Ov…

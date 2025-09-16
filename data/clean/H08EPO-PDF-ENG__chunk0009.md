@@ -1,23 +1,11 @@
-## your understanding of the organization’s politics.
+---
+source_path: H08EPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26873d9743babdb0c81bcc4b058b265b12a450da
+title: H08EPO-PDF-ENG
+---
+## stakeholders, meetings, presentations, or company communications
 
-When Emily approached her manager, she pitched an idea: “What if you
+where your boss could advocate for your work. They’re more likely to
 
-gave us a shoutout in the next all-hands meeting or in the company
-
-newsletter? I believe a mention from you would really highlight the
-
-importance of our work — especially since AI is a key focus area now —
-
-and would solidify my role as the group’s leader.”
-
-Give your boss a spiel
-
-By providing your boss with ready-made language they can share, you
-
-remove barriers to action and control the narrative, ensuring that your
-
-eﬀorts are presented in the way you want them to be. For example, you
-
-might give your manager:
-
-- Concise talking points about your project that they can easily
+say “yes” because you’ve done the thinking for them — and it also shows

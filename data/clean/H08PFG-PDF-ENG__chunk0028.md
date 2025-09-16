@@ -1,11 +1,29 @@
-## HBR / Digital Article / To Make Your Workplace Fairer, Take Charge of Its Norms
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5bca57b6c03cc290e5779f04097c811e3d4282a2
+title: H08PFG-PDF-ENG
+---
+# the norm.
 
-norms and steps in when violations are about to occur. If you land on
+Try it. Confer with your team to create a set of norms that you
 
-an approach that works, share it with a few other teams or units and
+collectively agree to uphold, such as starting and ending meetings on
 
-encourage them to join you.
+time, scheduling social events during work hours, or doing weekly
 
-To leverage collective action as norm entrepreneur, ask yourself:
+feedback check-ins. Then, make those norms visible and top-of-mind,
 
-- What is a norm that I would like to spread throughout my
+such as by documenting them on posters in meeting rooms (for
+
+in-person meetings) or sharing them in email reminders for weekly
+
+feedback check-ins to create momentum. Team members could even
+
+take turns being the “norm champion” who helps everyone uphold the
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

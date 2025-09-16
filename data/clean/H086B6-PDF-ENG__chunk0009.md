@@ -1,7 +1,11 @@
-# abilities?
+---
+source_path: H086B6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2df1808db58aea4a529c2b46d11e7ecba40afb5
+title: H086B6-PDF-ENG
+---
+## HBR / Digital Article / When Your Colleagues Have an Outdated Perception of You
 
-- What’s the lower-value work that I need to delegate or stop doing?
+- What am I doing that reinforces who I am as a leader today?
 
-- What expectations or assumptions are others making about my work?
-
-If you continue to spend time on lower-level, lower-value work, you may
+- Where am I spending time that’s not aligned to my current leadership

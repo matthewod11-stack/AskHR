@@ -1,9 +1,29 @@
-## foster new ideas, the questioning of norms, and changes in perspectives
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6b90d5392dafa651436695d68a6e6656cf3ff5cc
+title: R2501H-PDF-ENG
+---
+## reﬂect on the company’s culture and their own habits, work, and
 
-and relationships, allowing for not only innovative leaps in thinking but
+interpersonal styles. Challengers frequently support talented employees who wish to pursue courses and programs outside the company’s oﬃcial
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+oﬀerings—be they cooking classes or spiritual retreats. Accountability
 
-7
+comes from frank conversations about what those employees will do
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+diﬀerently at work as a result of what they’ve learned.
+
+If military training is the obvious application of a boot camp, training
+
+for an architect or an artist would be an appropriate one for a
+
+playground. More and more companies are realizing that playgrounds
+
+are valuable for leadership development, too. A playground inherently
+
+allows people to acquire a larger variety of skills and viewpoints than
+
+they would at a boot camp—and develop the kind of agility and
+
+autonomy that’s required to lead. In the right contexts, playgrounds

@@ -1,9 +1,9 @@
-# JK
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a61a985620a30b924848012c6ca82f5c1d4a5eb
+title: H0522T-PDF-ENG
+---
+# KK
 
-Jessica F. Kirk is an assistant professor of management at the Fogelman College of Business & Economics at the University of Memphis. She studies how stereotyping leads to mistreatment and biased perceptions of women and minorities and has partnered with government institutions, technology accelerators, and Fortune 500 corporations in order to explore these dynamics in a variety of contexts.
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Ksenia Keplinger is a Scholar-in-Residence at University of Colorado’s Leeds School of Business. Her research interests include diversity and inclusion, gender biases in the workplace, gig economy, and virtuous leadership. Ksenia earned her BS in International Economics from the National Research University Higher School of Economics, Russia and her Ph.D. at Johannes Kepler University of Linz, Austria.

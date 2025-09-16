@@ -1,1 +1,7 @@
-# Elsevier
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 26cdeefc696ad6ddf4f714d0b40ac60449ee42dd
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# Publisher

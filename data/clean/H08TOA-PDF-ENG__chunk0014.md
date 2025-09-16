@@ -1,13 +1,15 @@
-## communicate expectations, and invite questions.
+---
+source_path: H08TOA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e011a5aef39564f1767326acd782e005905d0093
+title: H08TOA-PDF-ENG
+---
+# them over.
 
-The time such a transition will take depends on both the task and the
+Begin by selecting someone whose strengths, interests, and/or
 
-employee’s readiness to take it on. More complex tasks, especially those
+developmental goals align with the task. Then, make some notes on the
 
-on the “could delegate” list, probably need a longer plan with additional
+task and gather examples or materials that would help the person get up
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to speed. Finally, schedule a little time to gauge interest, review the task,

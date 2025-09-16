@@ -1,7 +1,15 @@
-# absent-minded “uh-huh.”
+---
+source_path: H08HRO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2550bec2909010ec3a712603831d379127910039
+title: H08HRO-PDF-ENG
+---
+# Westend61/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+We’ve all been there: We’re talking to someone and then realize they’re
 
-1
+not actually listening to us. Sometimes it’s obvious, like when someone
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+is scrolling through their phone while you’re speaking. Other times,
+
+it’s more subtle, such as a phone call where the only response is an

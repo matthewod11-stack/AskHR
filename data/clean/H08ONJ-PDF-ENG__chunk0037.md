@@ -1,15 +1,11 @@
-## trust, mutual commitments, or high-level aligned interests might you
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62164231ce012dfc555da9df64a7bc5c078254fa
+title: H08ONJ-PDF-ENG
+---
+## HBR / Digital Article / What DeepSeek Can Teach Us About Resourcefulness
 
-leverage to realize your business opportunity?
+Ask yourself: Beyond market-based economic means, is there social
 
-. . .
-
-Resources are a key hurdle faced by many organizations—not
-
-only small, bootstrapped ﬁrms, but also large ones where ﬁghting
-
-for resources can be just as tough. Especially in today’s resource-
-
-constrained environment, mastering the paths to resourcefulness
-
-couldn’t be more valuable. Beyond AI, the success of DeepSeek reminds
+capital you can leverage? What social norms, established bonds of

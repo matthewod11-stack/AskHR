@@ -1,9 +1,11 @@
-# Referent of Trust
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: aaf65e9b12dc6d096542cf1130a18edba0522b97
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# Correlates of Trust in Leadership
 
-Most studies examining trust in leadership have focused on one of two referents: the direct leader (e.g., supervisor, work group leader) or the organizational leadership (e.g., executive leadership team, collective set of leaders). Research from political and orga- nizational psychology suggests that individuals do distinguish be- tween individuals and collectives or systems of authority in mak- ing assessments (e.g., Colquitt, Conlon, Wesson, Porter, & Ng, 2001; Lind & Tyler, 1988). To date, however, there has been little research directed at understanding the distinction that individuals make between different leadership referents of trust, and the im- plications of these distinctions.
+We have classified satisfaction with leader and leader–member exchange (LMX) as correlates of trust in leadership. Trust in leadership and satisfaction with leader are conceptually similar because they both reflect an attitude or assessment that individuals hold about the same referent: the leader. Given the similarity, we expect the two variables to covary at a high level with no distinct direction of causality.
 
-According to social exchange principles, the relationship-based perspective implies that followers will reciprocate toward the other party in the relationship. For example, trust in direct leader should be associated with reciprocation primarily aimed at that referent, as opposed to organizational leadership. Research reviewed by Bass (1990, pp. 394–395) indicated that direct leaders tend to perform supervisory activities, such as managing performance and day-to- day activities on the job. In contrast, organizational leaders per- form more strategic functions, such as the allocation of resources to departments, human resource practices of the firm, and the communication goals of the organization. Given the distinction in the roles of the different leadership referents, reciprocating trust in a direct leader would tend to involve job-related outcomes such as increasing job performance, engaging in OCBs, and having higher levels of job satisfaction. For instance, individuals might give extra time to fulfill supervisor requests or may engage in helping be- havior such as staying late to help a supervisor or coworker because of a social exchange process involving a supervisor (Set- toon, Bennett, & Liden, 1996). In contrast, trust in organizational leadership may involve reciprocating to that referent in the form of organization-level commodities such as organizational commit- ment. Last, we suggest that for intention to quit, both referents will
-
-615
-
-616
+The relationship between trust and LMX is particularly com- plex. Some research has conceptually or empirically separated LMX from trust in leadership (e.g., Cunningham & MacGregor, 2000; Lagace, 1987); other studies have treated it as a subdimen- sion of LMX (for a review, see Schriesheim et al., 1999). Brower, Schoorman, and Tan (2000) suggest that LMX comprises two trust constructs that do necessarily have to be “balanced” or recipro- cated: the leader’s trust in subordinate and the subordinate’s trust in leader. Given the complex relationship that remains a point of

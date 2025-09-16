@@ -1,7 +1,7 @@
-# Don’t:
-
-- Use the STAR method to answer every question. Some questions
-
-don’t require outlining a speciﬁc circumstance or challenge such as
-
-“Can you walk me through your resume?” and “Why do you want to
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fadc465dfdff6c67d3b43191758ca9cb66d0b4e
+title: H08GNF-PDF-ENG
+---
+# method.

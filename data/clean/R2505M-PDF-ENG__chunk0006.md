@@ -1,7 +1,19 @@
-## socially and environmentally dysfunctional outcomes in complex
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: daea3043278f9c90927e6d8e7a2d8dba5c830b67
+title: R2505M-PDF-ENG
+---
+## Although the unforeseen consequences of innovation can to some
 
-systems. To avoid them, innovators should apply systems thinking, a
+extent be mitigated retrospectively through regulation and tax policy,
 
-methodology that has been around for decades but is rarely used today.
+we believe that a better approach is to avoid them in the ﬁrst place by
 
-It addresses the fact that in the modern economy every organization is
+thinking more carefully about how innovation is done.
+
+In this article we’ll look at the strengths and weaknesses of the
+
+two dominant approaches that businesses apply to innovation—
+
+breakthrough thinking and design thinking—which often produce

@@ -1,9 +1,11 @@
-## building on analogous situations, science fiction inspiration, interviews
+---
+source_path: H0734V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8eb329daba087b86bfc040ad6cea4a2232cbf3ef
+title: H0734V-PDF-ENG
+---
+## HBR / Digital Article / Using Fiction to Find Your Strategy
 
-with extreme users and other stakeholders. Typically, we also interview
+Akin to strategic foresight tools, we do analyze current trends and
 
-employees to understand which possible developments have (not) been
-
-considered by the company. We ask questions such as “What has been
-
-the biggest failure you’ve seen in the company?” and “What could kill
+weak signals, but importantly, we also leverage the best design tools by

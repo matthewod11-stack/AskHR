@@ -1,7 +1,15 @@
-## Business — Finding Your Work-Life Balance as a Working Mother.” The
+---
+source_path: H06NVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6048e5d2d429b4f43a2627d36b9ffd504f051519
+title: H06NVB-PDF-ENG
+---
+# mother and child as both adjust.”
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+Educate and elevate. Self-knowledge and a connection to yourself can
 
-6
+encourage your sense of security. Expectful is an app that offers
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+accessible and guided hands-on tools to elevate your mood, and it offers
+
+support in finding quality sleep. It also hosts courses such as “Back to

@@ -1,9 +1,15 @@
-## Figure 5: LangSmith diagram of final evaluation and trajectory.21
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: ff0890632a1f1f0a31e69ca16fe4d414b04f819b
+title: agents_companion
+---
+# trajectory of actions under the hood.
 
-The following six ground-truth-based automated trajectory evaluations provide different
+Comparing the trajectory that you expect the agent to take vs the trajectory that the agent
 
-lenses to assess the performance of an agent:
+actually took, is particularly useful for developers who want to debug their application,
 
-- 1. Exact match: Requires the AI agent to produce a sequence of actions (a "trajectory") that
+identifying errors or inefficiencies, and ultimately improving performance.
 
-perfectly mirrors the ideal solution. This is the most rigid metric, allowing no deviation from
+17

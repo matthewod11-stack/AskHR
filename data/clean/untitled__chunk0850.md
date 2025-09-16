@@ -1,9 +1,13 @@
-# Evaluation
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9a89f71b17bb77db461e690b8e80094215d0c058
+title: untitled
+---
+# Biological Bases of Intelligence
 
-The biological approach has provided unique insights into the nature of intelligence. Its greatest advantage is its recog- nition that, at some level, the brain is the seat of intelligence. In modern times, and to a lesser extent in earlier times, it has been possible to pinpoint areas of the brain responsible for various functions. The approach is now probably among the most productive in terms of the sheer amount of research being generated.
+condition, known today as aphasia, had been reported even in ancient Greece. Dax noticed that in all of more than 40 pa- tients with aphasia, there had been damage to the left hemi- sphere of the brain but not the right hemisphere. His results suggested that speech and perhaps verbal intellectual func- tioning originated in the left hemisphere of the brain.
 
-The greatest weakness of the approach is not so much a problem of the approach as in its interpretation. Reductionists would like to reduce all understanding of intelligence to un- derstanding of brain function, but it just will not work. If we want to understand how to improve the school learning of a normal child through better teaching, we are not going to ﬁnd an answer in the foreseeable future through the study of the brain. Culture affects what kinds of behavior are viewed as
+Perhaps the most well-known ﬁgure in the study of hemi- spheric specialization is Paul Broca. At a meeting of the French Society of Anthropology, Broca claimed that a patient of his who was suffering a loss of speech was shown post- mortem to have a lesion in the left frontal lobe of the brain. At the time, no one paid much attention. But Broca soon became associated with a hot controversy over whether functions, particular speech, are indeed localized in the brain. The area that Broca identiﬁed as involved in speech is today referred to as Broca’s area. By 1864, Broca was convinced that the left hemisphere is critical for speech. Carl Wernike, a German neurologist of the late nineteenth century, identiﬁed language-deﬁcient patients who could speak but whose speech made no sense. He also traced language ability to the left hemisphere, though to a different precise location, which now is known as Wernicke’s area.
 
-149
-
-150
+Nobel Prize–winning physiologist and psychologist Roger Sperry (1961) later came to suggest that the two hemi- spheres behave in many respects like separate brains, with the left hemisphere more localized for analytical and verbal processing and the right hemisphere more localized for holis- tic and imaginal processing. Today it is known that this view was an oversimpliﬁcation and that the two hemispheres of the brain largely work together (Gazzaniga, Ivry, & Mangun, 1998).

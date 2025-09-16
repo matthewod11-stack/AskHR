@@ -1,21 +1,23 @@
-## HBR / Digital Article / When Your Go-To Leadership Style Stops Working
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f55b71fb661c644c3f03257487c8a52554b1871b
+title: H08QZN-PDF-ENG
+---
+# followership.
 
-view of excellence—worked well when the company was small and his
+One of my coaching clients was a CEO who had spent his whole career
 
-leadership team was made up of longtime colleagues who expected it.
+at his company. Because of his deep institutional knowledge and a
 
-But as the business scaled and new leaders were hired to help the
+scrappy, “roll up your sleeves and get it done” personality, he preferred
 
-company develop a mature operational structure, his involvement
+to operate in the weeds, involving himself in extremely tactical issues.
 
-became a bottleneck. And his style, once eﬀective for solving
+This pacesetting style—hands on, detail oriented and pushing for his
 
-simpler problems, now limited his managers’ capabilities in addressing
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-increasingly complex ones. He realized that in order to sustain
+3
 
-eﬀectiveness, he needed to try on some new styles, namely a
-
-visionary one that encouraged team ownership, and a coaching one
-
-that empowered others to grow themselves in preparation for future
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

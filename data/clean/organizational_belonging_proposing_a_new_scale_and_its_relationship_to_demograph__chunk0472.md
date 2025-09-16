@@ -1,9 +1,29 @@
-# JOURNAL OF WORKPLACE BEHAVIORAL HEALTH
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 45ee744f49a683f71e4d59caadb85a686e8a5b50
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# References
 
-Bussing, A. (2002). Trust and its relations to commitment, and involvement in work and organizations. SA Journal of Industrial Psychology, 28(4), 36–42. doi:10.4102/sajip. v28i4.77
+AICPA. (2022). American Institute for Certified Professional Accountants. Downloaded June 30, 2022. Retrieved from https://us.aicpa.org/interestareas/privatecompaniespracticesec- tion/humancapital/pcps-diversity-and-inclusion-toolkit.
 
-Chatman, J. A., Caldwell, D. A., O’Reilly, C. A., & Doerr, B. (2014). Parsing out organiza- tional Culture: How the norm for adaptability influences the relationship between culture consensus and financial performance in high-technology firms. Journal of Organizational Behavior, 35(6), 758–808. doi:10.1002/job.1928/
+Ashforth, B. E., & Mael, F. (1989). Social identity theory and the organization. Academy of
 
-Cohen, A. (2007). Commitment before and after: An evaluation and reconceptualization of organizational commitment. Human Resource Management Review, 17(2), 336–354. doi: 10.1016/j.hrmr05.001
+Management Review, 14(1), 20–39. doi:10.2307/258189
 
-Costello, A. B., & Osborne, J. (2005). Best practices in exploratory factor analysis: Four rec- ommendations for getting the most from your analysis. Practical Assessment Research & Evaluation, 10(7), 2–9. http://pareonline.net/getvn.asp?v=10&n=7.
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. Psychological Bulletin, 117(3), 497–529. doi:10.1037/0033-2909
+
+Beavers, A. S., Lounsbury, J. W., Richards, J. K., Huck, S. W., Skolits, G. J., & Esquivel, S. L. (2013). Practical considerations for using exploratory factor analysis in educational research. Practical Assessment, Research, and Evaluation, 18, 1–12. doi:10.7275/qv2q- rk76.
+
+Belle, S. M., Burley, D. L., & Long, S. D. (2015). Where do I belong? High-intensity tele- experience of organizational belonging. Human Resource Development
+
+workers’ International, 18(1), 76–96. doi:10.1080/13678868.2014.979006
+
+Boccio, D. E., & Macari, A. M. (2013). Fostering worth and belonging: Applying the inter- personal theory of suicide to the workplace. Journal of Workplace Behavioral Health, 28, 234–245. doi:10.1080/15555240.2013.808082
+
+Booysen, F. (2002). An overview and evaluation of composite indices of development.
+
+Social Indicators Research, 59(2), 115–151. doi:10.1023/A:1016275505152
+
+Brimeyer, T. M., Perucci, R., & Wadsworth, S. (2010). Age, tenure, resources for control, and organizational commitment. Social Science Quarterly, 91(2), 511–530. doi:10.1111/j. 1540-6237.2010.00705.x

@@ -1,13 +1,17 @@
-# frustration in the process.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4db5dabd173941665e492dc115d5bd6855315f9f
+title: H07ZZW-PDF-ENG
+---
+## polarized workforces, political dysfunction, and anger about corporate
 
-What’s needed is a considered and deliberate strategy for speaking up.
+hypocrisy. These issues are particularly fraught in the United States
 
-Corporations are not democracies. Stakeholders are not an electorate.
+in a charged presidential election year, though they resonate far more
 
-Lacking both the authority and the mechanisms to advocate or
+widely. And increasingly, companies are facing backlash around what
 
-represent everyone’s interests in a coherent way, corporate leaders risk
+they are or are not saying on issues such as ESG and DEI, with many
 
-undermining both their businesses and other societal institutions when
-
-they claim that they can — or feel that they must. There is a better
+hesitating to defend their choices, and sparking further employee

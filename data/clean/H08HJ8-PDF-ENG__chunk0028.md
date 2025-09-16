@@ -1,11 +1,11 @@
-## wellbeing, team interactions, and my relationship with my manager.”
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6eb0d480be9913123a37c5347a1466ab20b00f37
+title: H08HJ8-PDF-ENG
+---
+## HBR / Digital Article / When Your Manager Is Ineffective — and You Feel Stuck
 
-If you still believe your manager is the core issue after having an honest
+I could help him, things became much smoother. Admittedly, this was
 
-conversation with yourself and critical discussions with your manager,
-
-consider taking the following actions.
-
-- Seek support: Ask trusted colleagues and mentors for advice, seek
-
-help from a coach, or connect with HR so you can approach the
+easier some days than others, but the shift in thinking improved my

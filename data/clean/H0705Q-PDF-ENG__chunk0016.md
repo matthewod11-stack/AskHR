@@ -1,19 +1,15 @@
-# Information
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a05ded081e1345882f9064a3d65b6ceecf04bbd
+title: H0705Q-PDF-ENG
+---
+# diﬀerent from past decisions?
 
-The next step is to understand your expectations around the
+- How do you expect the other stakeholders to behave?
 
-information you need and want to make your decision.
+Biases to look out for: framing bias (making decisions based on the way
 
-Bill is comfortable gathering information; indeed, he likes data-
+in which information is presented); anchoring bias (relying heavily on the
 
-gathering. As he and his parents began researching local facilities, he
-
-assumed he’d be able to get transparent pricing information, and a list of services and quality-of-life amenities each place oﬀered — and that
-
-this data would be the important data.
-
-Bill expected that his parents would care about information relating to
-
-how they could live independently now and that they would want to be
-
-assured of having whatever care they need in the future when they need
+ﬁrst piece of information received).

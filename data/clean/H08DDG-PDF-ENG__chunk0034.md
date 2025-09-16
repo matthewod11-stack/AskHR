@@ -1,23 +1,19 @@
-## HBR / Digital Article / Why VCs Should Use Net Promoter Scores with Founders
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bd352b199b2d327e1a87c1a59c7483a12c5c050
+title: H08DDG-PDF-ENG
+---
+# diﬀerence.
 
-that our entrepreneurs could use more support with ﬁnances, HR/
+Since launching TDK Ventures, my team and I have made numerous
 
-recruiting, and ﬁnding customers/building ecosystems, we recruited
+changes to our operations in direct response to feedback from
 
-non-investment principals in each of these areas. Similarly, in response
+our annual NPS surveys. For example, in response to feedback
 
-to feedback that some of our early-stage portfolio companies didn’t
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-have enough (or any) experience in marketing, we created a marketing
+7
 
-principal role to give portfolio companies a blueprint and coach them.
-
-We’ve also made a handful of process changes. For instance, in response
-
-to feedback that entrepreneurs were disappointed by our relatively
-
-small check sizes given the depth of our due diligence review, we reﬁned
-
-our communications to ensure that clearer expectations were set up
-
-front and that our due diligence was more right-sized to the stage of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

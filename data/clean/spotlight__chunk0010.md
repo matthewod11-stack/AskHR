@@ -1,43 +1,43 @@
-# SPOTLIGHT ON TOPIC
+---
+source_path: spotlight.md
+pages: n/a-n/a
+chunk_id: edd6c629a0ee068b8867f2a31ed8f4ece77c8e71
+title: spotlight
+---
+# HBR.ORG
 
-in 2015. Its new approach to performance manage- ment is aligned with its FastWorks platform for cre- ating products and bringing them to market, which borrows a lot from agile techniques. Supervisors still have an end-of-year summary discussion with sub- ordinates, but the goal is to push frequent conversa- tions with employees (GE calls them “touchpoints”) and keep revisiting two basic questions: What am I doing that I should keep doing? And what am I do- ing that I should change? Annual goals have been re- placed with shorter-term “priorities.” As with many of the companies we see, GE first launched a pilot, with about 87,000 employees in 2015, before adopt- ing the changes across the company.
+CAN YOU TAKE COGNITIVE BIAS OUT OF ASSESSMENTS? A classic study by Edward Jones and Victor Harris in the 1960s demonstrated that people tend to attribute others’ behavior to character rather than circumstances. When a car goes streaking past us, for instance, we think that the driver is a jerk and ignore the possibility that there might be an emergency. A good workplace example of this cognitive bias—known as the “fundamental attribution error”—is forced ranking. Separating employees into “A,” “B,” and “C” players assumes that the strongest performers are the best workers and the weakest are the worst; it overlooks the impact of good or poor management,
 
-The centrality of teamwork. Moving away from forced ranking and from appraisals’ focus on individual accountability makes it easier to fos- ter teamwork. This has become especially clear at retail companies like Sears and Gap—perhaps the most surprising early innovators in appraisals. Sophisticated customer service now requires front- line and back-office employees to work together to keep shelves stocked and manage customer flow, and traditional systems don’t enhance performance at the team level or help track collaboration.
+not to mention business conditions that employees can’t control.
 
-Gap supervisors still give workers end-of-year assessments, but only to summarize performance discussions that happen throughout the year and to set pay increases accordingly. Employees still have goals, but as at other companies, the goals are short- term (in this case, quarterly). Now two years into its new system, Gap reports much greater satisfac- tion with its performance process and the best-ever
+Of course, this model is highly ﬂattering to people who have advanced into executive roles—“A” players whose success is, by deﬁnition, credited to their superior abilities, not to good fortune. That may be partly why the model has persisted so long in the face of considerable evidence against it.
 
-completion of store-level goals. Nontheless, Rob Ollander-Krane, Gap’s senior director of organiza- tion performance effectiveness, says the company needs further improvement in setting stretch goals and focusing on team performance.
+Even when “A” players seem to perform
 
-Implications. All three reasons for dropping an- nual appraisals argue for a system that more closely follows the natural cycle of work. Ideally, conversa- tions between managers and employees occur when projects finish, milestones are reached, challenges pop up, and so forth—allowing people to solve prob- lems in current performance while also developing skills for the future. At most companies, managers take the lead in setting near-term goals, and employ- ees drive career conversations throughout the year. In the words of one Deloitte manager: “The conver- sations are more holistic. They’re about goals and strengths, not just about past performance.”
+well in many contexts (and that’s rarely measured), they may be coasting on the “halo eﬀect”—another type of bias, akin to self-fulﬁlling prophecy. If these folks have already been successful, they receive more opportunities than others, and they’re pushed harder, so naturally they do better. Biases color individual performance
 
-Perhaps most important, companies are over- hauling performance management because their businesses require the change. That’s true whether they’re professional services firms that must de- velop people in order to compete, companies that need to deliver ongoing performance feedback to support rapid innovation, or retailers that need bet- ter coordination between the sales floor and the back office to serve their customers.
+ratings as well. Decision makers may
 
-Of course, many HR managers worry: If we can’t get supervisors to have good conversations with sub- ordinates once a year, how can we expect them to do so more frequently, without the support of the usual appraisal process? It’s a valid question—but we see reasons to be optimistic.
+give past behavior too much weight, for instance, or fall prey to stereotypes when they assign their ratings.
 
-A TALENT MANAGEMENT TIMELINE The tug-of-war between accountability and development over the decades
+But when you get rid of forced ranking and appraisal scores, you don’t eradicate bias. Discrimination and faulty assumptions still creep into qualitative assessments. In some ways the older, more cumbersome performance systems actually made it harder for managers to keep their blinders on. Formal feedback from various stakeholders provided some balance when supervisors were otherwise inclined to see only the good things their stars did and failed to recognize others’ contributions.
 
-■ Accountability focus ■ Development focus ■ A hybrid “third way”
+Anytime you exercise judgment, whether
 
-WWI The U.S. military created merit- rating system to ﬂag and dismiss poor performers.
+or not you translate that to numerical ratings, intuition plays a part, and bias can rear its head.
 
-WWII The Army devised forced ranking to identify enlisted soldiers with the potential to become oﬃcers.
+seems to be extending beyond the United States as well. PwC reports that two-thirds of large companies in the UK, for example, are in the process of chang- ing their systems.
 
-1940s About 60% of U.S. companies were using appraisals to document workers’ performance and allocate rewards.
+Three Business Reasons to Drop Appraisals In light of that history, we see three clear business imperatives that are leading companies to abandon performance appraisals:
 
-1950s Social psychologist Douglas McGregor argued for engaging employees in assessments and goal setting.
+The return of people development. Companies are under competitive pressure to upgrade their talent management efforts. This is especially true at con- sulting and other professional services firms, where knowledge work is the offering—and where inexpe- rienced college grads are turned into skilled advisers through structured training. Such firms are doubling down on development, often by putting their em- ployees (who are deeply motivated by the potential for learning and advancement) in charge of their own growth. This approach requires rich feedback from supervisors—a need that’s better met by frequent, in- formal check-ins than by annual reviews.
 
-1960s Led by General Electric, companies began splitting appraisals into separate discussions about accountability and growth, to give development its due.
+Now that the labor market has tightened and keeping good people is once again critical, such companies have been trying to eliminate “dissatis- fiers” that drive employees away. Naturally, annual reviews are on that list, since the process is so widely reviled and the focus on numerical ratings interferes with the learning that people want and need to do. Replacing this system with feedback that’s delivered right after client engagements helps managers do a
 
-1970s Inﬂation rates shot up, and organizations felt pressure to award merit pay more objectively, so accountability again became the priority in the appraisal process.
+better job of coaching and allows subordinates to process and apply the advice more effectively.
 
-1506  Harvard Business Review October 2016
+Kelly Services was the first big professional ser- vices firm to drop appraisals, in 2011. PwC tried it with a pilot group in 2013 and then discontinued annual reviews for all 200,000-plus employees. Deloitte followed in 2015, and Accenture and KPMG made similar announcements shortly thereafter. Given the sheer size of these firms, and the fact that they offer management advice to thousands of or- ganizations, their choices are having an enormous impact on other companies. Firms that scrap ap- praisals are also rethinking performance manage- ment much more broadly. Accenture CEO Pierre Nanterme estimates that his firm is changing about 90% of its talent practices.
 
-As GE found in 1964 and as research has docu- mented since, it is extraordinarily difficult to have a serious, open discussion about problems while also dishing out consequences such as low merit pay. The end-of-year review was also an excuse for delaying feedback until then, at which point both the supervi- sor and the employee were likely to have forgotten what had happened months earlier. Both of those constraints disappear when you take away the an- nual review. Additionally, almost all companies that have dropped traditional appraisals have invested in training supervisors to talk more about development with their employees—and they are checking with subordinates to make sure that’s happening.
+The need for agility. When rapid innovation is a source of competitive advantage, as it is now in many companies and industries, that means future needs are continually changing. Because organiza- tions won’t necessarily want employees to keep do- ing the same things, it doesn’t make sense to hang on to a system that’s built mainly to assess and hold people accountable for past or current practices. As Susan Peters, GE’s head of human resources, has pointed out, businesses no longer have clear annual cycles. Projects are short-term and tend to change along the way, so employees’ goals and tasks can’t be plotted out a year in advance with much accuracy. At GE a new business strategy based on innova- tion was the biggest reason the company began eliminating individual ratings and annual reviews
 
-Moving to an informal system requires a culture that will keep the continuous feedback going. As Megan Taylor, Adobe’s director of business part- nering, pointed out at a recent conference, it’s diffi- cult to sustain that if it’s not happening organically. Adobe, which has gone totally numberless but still gives merit increases based on informal assessments, reports that regular conversations between manag- ers and their employees are now occurring without HR’s prompting. Deloitte, too, has found that its new model of frequent, informal check-ins has led to more meaningful discussions, deeper insights, and greater employee satisfaction. (For more details, see “Reinventing Performance Management,” HBR, April 2015.) The firm started to go numberless like Adobe but then switched to assigning employees several numbers four times a year, to give them rolling feed- back on different dimensions. Jeffrey Orlando, who heads up development and performance at Deloitte,
-
-1980s Jack Welch championed forced ranking at GE to reward top performers, accommodate those in the middle, and get rid of those at the bottom.
-
-1990s McKinsey’s War for Talent study pointed to a shortage of capable executives and reinforced the emphasis on assessing and rewarding performance.
-
-2000 Organizations got ﬂatter, which dramatically increased the number of direct reports each manager had, making it harder to invest time in developing them.
+October 2016 Harvard Business Review 1505

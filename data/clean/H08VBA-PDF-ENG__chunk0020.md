@@ -1,29 +1,49 @@
-# HBR / Digital Article / Your Company Needs to Focus on Fewer Projects. Here’s How.
+---
+source_path: H08VBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33df72c36fbdd46d180f418a03ed65dc4902cfc8
+title: H08VBA-PDF-ENG
+---
+# value.
 
-focused on high-value initiatives. Leaders described it as “one of the
+The process wasn’t just ﬁnancial—it was psychological. Leaders had
 
-most liberating changes we’ve ever made.”
+to publicly justify why a new project was more valuable than one
 
-- 4. Time-box projects to three or six months.
+already underway, creating an actual marketplace for priorities. After
 
-Long, open-ended projects are where focus goes to die. They create
+one session, a senior executive admitted: “I realized I was defending
 
-sunk-cost inertia, locking organizations into outdated priorities.
+projects I didn’t even believe in anymore, just because nobody ever
 
-An energy corporation I worked with shifted to a time-boxed approach:
+asked me to choose.” Within a year, the portfolio shrank by 35%, and
 
-All new initiatives were structured as three- or six-month projects, with
+execution speed for key strategic projects improved signiﬁcantly.
 
-continuation decided at the end of each cycle.
+- 3. Stop treating every idea as a project.
 
-This made it easier for executives to pivot—or stop—without political
+Many organizations reﬂexively elevate too many opportunities into
 
-fallout. Leaders could simply say, “This cycle ends here; we’re
+formal projects, complete with steering committees, governance
 
-redirecting resources elsewhere.” The approach gave the company
+meetings, and complex documentation. This clogs portfolios with
 
-remarkable agility; for example, when customer behavior shifted
+initiatives that should have been quietly tested—or quietly abandoned.
 
-sharply during a regulatory change, the ﬁrm was able to redirect
+One health care and life sciences company I advised created small cross-
 
-investment within weeks, something that would have been unthinkable
+functional “squad teams” to explore new opportunities for 30 to 60
+
+days. These squads had a simple mandate to test the strategic relevance
+
+and potential impact of an idea before requesting project status.
+
+The result? About 40% of ideas were dropped after this initial
+
+assessment, saving thousands of hours and keeping the organization
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

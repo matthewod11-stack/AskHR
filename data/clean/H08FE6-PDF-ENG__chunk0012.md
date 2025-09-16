@@ -1,5 +1,9 @@
-# performance data across multiple years.
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1bf16cff605565e254dfbc08e2275b042237375
+title: H08FE6-PDF-ENG
+---
+## services industries, with annual revenue between $100 million and $5
 
-Through a scouring of LinkedIn proﬁles, we identiﬁed 164 companies
-
-within those parameters that had a conﬁrmed turnover in their CRO,
+billion. We then narrowed that list to companies with reliable ﬁnancial

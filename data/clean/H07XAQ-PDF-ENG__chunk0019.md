@@ -1,23 +1,35 @@
-# unnecessary content.
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e7847ceaf4317b928df63c1b3afb9960178f8099
+title: H07XAQ-PDF-ENG
+---
+# everyone, all the time.
 
-We expect most L&D professionals are nodding as they review these
+- Nonoptimal inclusiveness. When every group has a seat at every
 
-motivations. Dealing with each of them takes a unique skill set and
+table, the result can be a hodgepodge of ideas. Seeking out other
 
-is rarely quick and easy. It requires understanding behavior-change
+perspectives is essential and helpful — and requires a decider (or small
 
-dynamics and related timelines. It requires patience. It requires
+set of them) to make the tough calls on when to say no.
 
-conﬁdence to push back and to leave things out. With so much on our
+- A lack of understanding of what employees really need and want.
 
-plates and virtually no free time, it’s easier to throw whole boxes of
+If employees don’t clearly understand what’s in it for them — i.e.,
 
-spaghetti at the wall and hope that something sticks, rather than ﬁnd
+if the learning content you’re providing doesn’t address a pain point
 
-the one strand best suited to solve the problem.
+they have — they aren’t going to engage with the learning. That said,
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+people often don’t know what they really need, and it can take time, eﬀort, and expertise on the part of learning providers to understand
 
-5
+the needs and how to frame the content so it’s appealing.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Deference to business leader requests. Although last on the list,
+
+this is highly common. The desire to have this or that covered in a
+
+forthcoming program because the leader’s gut intuition (rather than
+
+objective evidence) tells them it’s a good idea very often results in

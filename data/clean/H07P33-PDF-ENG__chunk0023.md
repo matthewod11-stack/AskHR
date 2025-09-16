@@ -1,23 +1,13 @@
-# organization.
+---
+source_path: H07P33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e07a309ddec3942451669e49a0eb594b46e0d389
+title: H07P33-PDF-ENG
+---
+## overwhelming (too many suggestions), while more-skilled employees
 
-Train managers intensively Many managers could beneﬁt from basic training in eﬀective coaching,
+sometimes found it lacking in nuance. What employees want is
 
-including how to embed genuine empathy and compassion in the
+personalized coaching, so it’s important to pick an AI tool that’s ﬂexible
 
-process. Integrating AI tools will require additional upskilling of
-
-managers. They should be trained not only in technical know-how but
-
-in how to translate AI-generated data sensitively and competently to
-
-employees. AI tools may also prove useful for training new managers by
-
-providing practice cases and other forms of experiential learning.
-
-. . .
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+enough to accommodate the array of people and situations in your

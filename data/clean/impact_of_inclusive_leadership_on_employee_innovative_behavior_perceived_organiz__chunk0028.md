@@ -1,1 +1,7 @@
-# Mean
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: cf3c01550562ea53646f7c2dd652f6726510d223
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+# Variable

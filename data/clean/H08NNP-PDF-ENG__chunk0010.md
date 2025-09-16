@@ -1,11 +1,19 @@
-## HBR / Digital Article / When AI Gets a Board Seat
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc5ba52bdcca8ad3b33fbc218e5b2026ef70b9d8
+title: H08NNP-PDF-ENG
+---
+# Augmentation not Substitution
 
-The unsupervised use of AI did not work well, providing output that was
+Overall, our executive board experiments showed that AI could indeed
 
-not speciﬁc enough for the executives to ﬁnd it useful. The suggestions
+be valuable in guiding and enriching executive discussions, but only
 
-we received based on simply inputting the agenda or executives’
+with actively engaged management.
 
-questions were perceived as commonplace, unsurprising, or clichéd.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-In contrast, the supervised applications, augmented by the abilities of a
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

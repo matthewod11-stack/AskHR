@@ -1,17 +1,21 @@
-## HBR / Digital Article / New Research on the Link Between Learning and Innovation
+---
+source_path: H08T7B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45ccae8bfe5e12feb08aebe78f3cb2f2c63ffe96
+title: H08T7B-PDF-ENG
+---
+# current challenges.
 
-actionable knowledge. Just as sleep helps consolidate daily experiences
+Our research reveals a likely culprit of stalled innovation: Teams are
 
-into long-term memory, structured reﬂection allows teams to integrate
+blending incompatible learning activities at the wrong times.
 
-insights gained during exploration phases into strategies and plans.
+Cognitive neuroscience conﬁrms what experienced leaders intuitively
 
-Without these deliberate rhythms, teams risk becoming overwhelmed
+know: Our brains need structured breaks to turn experiences into
 
-by continual information intake—akin to endlessly inhaling without
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-pausing to exhale—leading to confusion and burnout. By intentionally
+2
 
-embedding reﬂective pauses within structured learning cycles, teams
-
-can harness their full innovative potential.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,15 @@
-# see here.)
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a836944e455924f7058b042814ff55554db4ff1
+title: H07VZN-PDF-ENG
+---
+# margins.
 
-The questions we generated in this exercise with the global team were
+Recently, to help a team of global executives address this anxiety, we
 
-speciﬁc: How does the tendering process work in China? How much
+conducted an exercise that we called “Anxiety Alchemy,” borrowing a
 
-give and take is there with your partners in government relations?
+brainstorming tool we learned from Amazon. (For details about how we
 
-When talking to Chinese colleagues, how do you know when “yes” really
-
-means “no”? We then brought those questions to the China-based team,
-
-who had spent considerable time and resources working to educate
+conducted the exercise, and how you can use it for your own purposes,

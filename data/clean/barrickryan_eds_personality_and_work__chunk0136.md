@@ -1,11 +1,15 @@
-## sonality and Social Psychology, 52, 59–71.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: bafcc740f31e156fdef2dfeb3041e5c2f3a97803
+title: barrickryan_eds_personality_and_work
+---
+## fective meaning. Urbana: University of Illinois Press.
 
-Peabody, D., & Goldberg, L. R. (1989). Some determinants of factor struc- tures from personality-trait descriptors. Journal of Personality and So- cial Psychology, 57, 552–567.
+Ostendorf, F. (1990). Sprache und persönlichkeitsstruktur: Zur Validität des Fünf-Faktoren-Modells der Persönlichkeit [Language and personality structure: Toward the validation of the Five-Factor Model of per- sonality]. Regensberg, Germany: S. Roderer Verlag.
 
-Saucier, G. (1992). Benchmarks: Integrating affective and interpersonal circles with the Big-Five personality factors. Journal of Personality and Social Psychology, 62, 1025–1035.
+Paulhus, D. L., & John, O. P. (1998). Egoistic and moralistic biases in self- perception: The interplay of self-descriptive styles with basic traits and motives. Journal of Personality, 66, 1025–1060.
 
-Saucier, G. (1997). Effects of variable selection on the factor structure of person descriptors. Journal of Personality and Social Psychology, 73, 1296–1312.
+Paunonen, S. V., & Ashton, M. C. (2001). Big Five factors and facets and the prediction of behavior. Journal of Personality and Social Psychology, 81, 524–539.
 
-Saucier, G. (2002). Multi-language structure of personality attributes: Develop- ment and test of an alternative to the Big Five. Unpublished manuscript, University of Oregon.
-
-Saucier, G., & Goldberg, L. R. (1998). What is beyond the Big Five? Jour-
+Peabody, D. (1987). Selecting representative trait adjectives. Journal of Per-

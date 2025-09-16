@@ -1,19 +1,19 @@
-# of correct methods ..;.. total correct methods = %;
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 8806a1dee18b621fbec585b4cf8349df53bdf259
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# counselors.
 
-Again, management can specify what is an acceptable percentage rate or margin of error
+Error Rate - The extent to which a counselor performs the work correctly or
 
-for counselors based on the length of time employed with the organization .
+incorrectly. A standard should be set for new counselors , counselors who have been
 
-Orientation - Orientation is a major function for those who perform that specific
+employed for six months , one year, two years , etc. Management can specify how many
 
-task. This performance area can also be evaluated with the use of a questionnaire which
+methods a counselor uses per intake , then supervisors can evaluate according to the
 
-can be completed, by customers or clients. At the end of each orientation , the counselor
+34
 
-can have the customers complete a questionnaire/surve y (see Appendi x C). The purpose
-
-of this survey will not only serve as an evaluation tool for the counselor , but for the
-
-organization as well. The ratings also can be calculated from this Orientation Survey, and
-
-a standard of rating can be used as the norm (i.e., anything above 4.5 is an acceptable
+percentage of methods correct for each counselor. The following formula can be used:

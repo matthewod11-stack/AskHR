@@ -1,21 +1,7 @@
-# Contingent Reward
-
-8
-
-2316
-
-.52
-
-.43
-
-.62
-
-.63
-
-.16
-
-8.67
-
-.42
-
-.84
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 72f7524560c155909f40f4e3d7f5ab53415a9b04
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Transactional

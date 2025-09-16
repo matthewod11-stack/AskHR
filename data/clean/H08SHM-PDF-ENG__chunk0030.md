@@ -1,21 +1,29 @@
-# Thriving Despite Unknown Unknowns
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0e325aa964d3f4f17a6c39036213c720974a732
+title: H08SHM-PDF-ENG
+---
+## HBR / Digital Article / What Gets Measured, AI Will Automate
 
-Humans are evolutionary generalists, selected to navigate half-drawn
+beside the sensors, trimming bandwidth and latency, while synthetic
 
-maps. We don’t merely survive unknown unknowns—we thrive on
+data ﬁlls gaps when the real world is slow or awkward to capture.
 
-them, and that resilience is our deﬁning edge. Over countless
+Each extra decimal place quickly pays for itself: tiny error cuts
 
-generations we ﬁne-tuned our vocal cords and social brains until
+multiplied across millions of AI-driven decisions add up fast. As precise
 
-language emerged—opening the door to cumulative knowledge,
+measurement gets cheaper, ever-slimmer beneﬁt streams pencil out,
 
-abstract reasoning, and symbolic thought. From there we pushed
+and tasks once too minor to monitor slide into the automation net.
 
-beyond our biological limits, forging tools that stretched our senses,
+Not only may we soon have intelligence too cheap to meter, we’ll also
 
-expanded our memory, and multiplied our abilities.
+be measuring ever more of the world to expand—and continuously
 
-But the cornerstone of our advantage is our highly plastic, densely
+upgrade—what that intelligence can reach. We already live in the era
 
-wired prefrontal cortex. This neural command center lets us spin
+of “artiﬁcial-metrics intelligence,” where anything we can quantify is
+
+swiftly queued for automation.

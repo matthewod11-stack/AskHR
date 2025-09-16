@@ -1,21 +1,19 @@
-## important for understanding organizations.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: d239a59fd935a9b025e222176de4497fbf1969d7
+title: beo_chap7_1
+---
+## 7.3.4.2 The Cognitive Economics of Organizational Knowledge
 
-Organization theorists have argued that a narrative or story is a common way
+Organizations are complicated. Knowledge about how to behave in complicated
 
-of encoding information about what to do in an organization (see, for example,
+systems—like the world, or an organization—is often encoded in a form that is
 
-Martin 1982; Heath and Seidel 2004). If the punch line of the story is success or
+very different than the state-space partitions and Bayesian probability that dominate
 
-failure, a story is basically an instruction about how to behave. Narratives may be
+economic theory, and is much simpler and evolutionarily advanced. This suggests
 
-a superior encoding form from the point of view of human memory—if they are
+that understanding cognitive economy——what kinds of information fits the brain’s
 
-better remembered, they will not degrade as much as other kinds of information
-
-when passed down from old workers to new ones. If it is fun to tell stories——they
-
-often involve humor—they may spread more rapidly and reliably through a firm than boring instructions. !
-
-16Memory appears to be encoded into episodic memory (time-stamped events) and semantic memory
-
-256
+natural structures for storing, remembering, and reliably repeating information—is

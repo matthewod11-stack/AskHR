@@ -1,13 +1,35 @@
-# break:
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89f239f1d8428600f5fed6fe08a5d9b0ffe18122
+title: H0719C-PDF-ENG
+---
+# Be sensitive
 
-Don’t say: “I think you need to have some time oﬀ.”
+Don’t say: “I have to talk to you about your attitude [behavior, mood].”
 
-Say: “You’re a valuable member of our team. We need you, but you can
+Say: “You don’t seem like yourself lately. Would you like to talk about it?
 
-take time oﬀ if it would help. We can give you part-time work, you can
+I’ll understand if you don’t want to.”
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Don’t say: “You seem to be falling behind on your work. Why can’t you
 
-6
+keep up?”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Say: “I know that work can sometimes be challenging. Is there anything
+
+I can do to help?”
+
+Don’t say: “I don’t believe you are struggling; you’re so strong. You’ll get
+
+over this.”
+
+Say: “I suﬀer from ____ ; I’ve had a really hard time in the past when
+
+_____. I can’t imagine what you’re going through, but it seems hard.”
+
+Don’t say: “Cheer up.” Never use platitudes.
+
+Say: “I hope you feel a little better tomorrow.”
+
+If you’re a manager talking to someone who may beneﬁt from a work

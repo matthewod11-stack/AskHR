@@ -1,13 +1,17 @@
-# through detailing and timing.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 9d326b8fd3543fec49ba931c0df64f4be6104d82
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# more decentralized. This new characteristic of decentralization of decision making and
 
-The speed of change, new initiatives, adjustments and projects, as well as the
+power is also richly described inside the organization by the word transversality, largely
 
-great amount of procedures, patterns and policies to be aware of, are the causes for the
+used at the time of data collection.
 
-general perception about the needed care in terms of quality of information.In fact, no
+In terms of the quality and amount of information available concerning the
 
-new vehicles of communication were created after acquisition, and the existing ones
+change there is a general understanding that both quality and quantity were adequate.
 
-were preserved.
-
-It seems that an informal and open internal climate helped to keep the flow of
+Quality of information seemed to be well evaluated too, but with space to develop

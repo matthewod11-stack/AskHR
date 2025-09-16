@@ -1,15 +1,17 @@
-## human advisor with no special knowledge of the ﬁrm but experience
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8823d3d6e590d4f7f5b002743c21baed0baef5d
+title: H08NNP-PDF-ENG
+---
+## HBR / Digital Article / When AI Gets a Board Seat
 
-in developing strategies, was perceived as highly beneﬁcial by the
+The unsupervised use of AI did not work well, providing output that was
 
-executives. We observed three speciﬁc implications:
+not speciﬁc enough for the executives to ﬁnd it useful. The suggestions
 
-- 1. Ungainliness advantage
+we received based on simply inputting the agenda or executives’
 
-It seems counterintuitive, but the biggest advantage of ChatGPT
+questions were perceived as commonplace, unsurprising, or clichéd.
 
-was disrupting the natural ﬂow of the meetings. We expected the
-
-clumsiness, awkwardness, and delay it introduced to be a major
-
-irritation, but the executives appreciated how it made them stop and
+In contrast, the supervised applications, augmented by the abilities of a

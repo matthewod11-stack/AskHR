@@ -1,3 +1,7 @@
-# b. Laissez-Faire Management
-
-Laissez-faire managers adopt a hands-off approach, allowing their employees a high degree of autonomy and decision-making authority. This style is particularly effective when dealing with a self-motivated and highly skilled team, such as in creative industries or research and development. While laissez-faire management can foster creativity and innovation, it may lead to challenges in maintaining consistency and coordination, as there is limited centralized control.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 285c478a44334657e8974be88006bfd2cc366790
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# A Textbook of Industrial Psychology

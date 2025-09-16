@@ -1,7 +1,13 @@
-# two stages to the process:
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c6478ca0a98400c2ea3a0f37b491114fd55f0d0
+title: H06WA9-PDF-ENG
+---
+## Activity: Intergenerational Roundtable. Leaders of
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+intergenerational teams should set monthly or
 
-10
+quarterly meetings to elicit ideas for how to work
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+together more productively and smoothly. There are

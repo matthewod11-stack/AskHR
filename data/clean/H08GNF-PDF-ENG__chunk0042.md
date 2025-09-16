@@ -1,7 +1,15 @@
-# individual experience.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 759fc5c15f05d5672e7eaa056a88530b57eb0a85
+title: H08GNF-PDF-ENG
+---
+# candidate.
 
-Here’s an example of how unique value can be incorporated into the
+- 3. Highlight your unique knowledge, experience, and expertise.
 
-STAR method to answer the question, “Tell me about a time you had to
+As you prepare your answers, also consider what you bring to the
 
-resolve a conﬂict.”
+position that no other candidate can bring. Your unique value could
+
+be skills from previous jobs, your educational background, or your

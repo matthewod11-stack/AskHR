@@ -1,5 +1,7 @@
-# Group & Organization Management 47(4)
-
-effective teamwork, conﬂict resolution and information elaboration (van Knippenberg et al. 2020). These should be coupled with protocols for pro- cess accountability that hold groups accountable for how they arrive at de- cisions; such protocols make it more likely for groups to share voice and exert the effort needed to explore and integrate diverse cognitive perspectives (Lerner & Tetlock, 1999; Scholten, van Knippenberg, Nijstad & De Dreu, 2007).
-
-teams and rotational programs should be utilized to provide opportunities for cross-boundary interactions and outcome dependence (Kalev, 2009). Employee/business resource groups may also be valuable to the extent that they are explicitly designed to offer opportunities for meaningful interactions and outcome dependence among employees across roles, levels, and other organizational boundaries. Given what is known about how employee reactions to policies are inﬂuenced by how their adoption is rationalized (Nishii et al. 2018), it is important for senior leaders to draw a clear line of sight to the organization’s inclusion strategy and collective well-being. Finally, by adopting bundles of aligned inclusion-focused practices rather than standalone practices, senior leaders enhance their perceived credibility and authenticity and reinforce the message that the organization is serious about its commitment to inclusion (Nishii et al. 2018).
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: 82f7f9d851dc29018b4aec6f1c28e4d3a6e2f188
+title: eur_research_information_portal
+---
+# 706

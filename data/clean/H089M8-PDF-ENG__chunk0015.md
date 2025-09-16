@@ -1,23 +1,33 @@
-# HBR / Digital Article / Why Cofounder Partnerships Fail — and How to Make Them Last
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0bb5e92de939791bb923a96efedbc120fe47b9a
+title: H089M8-PDF-ENG
+---
+# team formation process.
 
-nitty-gritty details of transforming an idea into a viable business. They
+However, we also found that these complications were avoided when
 
-are grappling with the pressing needs of their idea and are searching for
+the individuals better understood the mindsets and motivations of
 
-someone who can seamlessly contribute to the concrete tasks at hand.
+their counterparts. We suggest lead founders and cofounders can better
 
-Their focus revolves around execution and turning concepts into reality.
+understand each other’s mindsets to create successful partnerships by
 
-It’s diﬀerent for cofounders. They often do not yet understand the
+taking the following steps:
 
-nature of the idea in great detail, and their view of the company
+- 1. Put yourself in the other person’s shoes.
 
-and its deﬁning features are much blurrier. In many cases, they are
+Lead founders and cofounders evaluate potential partnerships with entirely diﬀerent mindsets and motivations. Lead founders, for
 
-likely to already be employed somewhere else. So, rather than being
+example, have already given a lot of thought to the particulars of
 
-driven by “push” factors to ﬁx problems with the startup like the lead
+the business idea before they seek cofounders. They may already be
 
-founder might, cofounders are instead driven by “pull” factors: They are
+immersed in tangible tasks that demand immediate attention and the
 
-considering whether joining the initiator would be preferable to their
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

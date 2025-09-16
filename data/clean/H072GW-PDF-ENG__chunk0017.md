@@ -1,13 +1,21 @@
-## HBR / Digital Article / An Intersectional Approach to Inclusion at Work
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6b6c66eb30a0bf863594b995c432f2e4e7c56f2
+title: H072GW-PDF-ENG
+---
+# most employees.
 
-success barriers (e.g., limited access to professional development,
+Breaking the cycle of systemic discrimination
 
-unfair promotion mechanisms) further restrict representation, voice,
+Access and success barriers make up the self-perpetuating cycle
 
-and leadership opportunities for marginalized groups. The lack of
+of systemic discrimination. Access barriers limit the pipeline of
 
-representation in leadership, in turn, perpetuates access barriers. Thus,
+marginalized individuals into the organization. Multiple rungs of
 
-only a systemic intervention can address cycles of discrimination.
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-However, inclusive practices support a better future of work for all,
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

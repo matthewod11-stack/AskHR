@@ -1,13 +1,21 @@
-# function of the organization.
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d99e7b30ddc402acde216785acbed2c1332b438
+title: H08PPX-PDF-ENG
+---
+## alignment with their organization’s objectives.
 
-Note: The authors are all members of the Relationships Across Differences
+Like all strategic models, DEI models must evolve over time. The
 
-(RADs) Roundtable, a partnership backed by Wharton, Harvard Business
+moment has arrived to challenge outdated approaches and embrace
 
-School, and INSEAD that includes more than 70 academics and industry
+a more mature, dynamic model of DEI. This means crafting a DEI
 
-leaders committed to sharing science-backed insights and best practices,
+model that is tailored to the unique context, needs, and strategy of
 
-advancing inclusivity in all its forms, and ﬁnding ways to engage all
+the organization. We urge organizational leaders to seize the current
 
-stakeholders, even those who don’t believe in DEI. They would like to
+momentum to critically assess their organizations’ needs and how
+
+diversity, equity, and inclusion can be integrated into every core

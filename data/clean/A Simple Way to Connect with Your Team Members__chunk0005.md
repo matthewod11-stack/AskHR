@@ -1,7 +1,7 @@
-## A Simple Way to Connect with Your Team Members
-
-https://hbr.org/2022/10/a-simple-way-to-connect-with-your-team-members
-
-2/6
-
-If you’re a manager overseeing remote employees, you can use asimilar strategy.1) Keep it small.At least once a quarter, add a new meeting to your calendar — orpotentially two or three, depending on the size of your team. Onthe invite, break down your team into groups of eight to 10 people,or fewer. Just how small will be a matter of how many people youoversee and how many meetings you have time to schedule. If yourun a small team and can include everyone at once, that will beideal. I invite a maximum of 10 people, a small enough size to helpeveryone feel included.This isn’t a brainstorming or strategy meeting. Its sole purpose isto forge deeper connections with and among your team members.2) Choose a theme.Giving your meeting a theme, I’ve found, helps disarmparticipants. In my meetings, invitees are welcome to wear, bring,or do whatever they want in keeping with the theme. For example,one was, “Everything’s coming up roses.” I wore a flower on myshirt. Some participants brought plants, while others had hatswith flowers in them. Another theme was, “Bring a favoriteanimal.” I brought my dog Josie. Some participants brought theirpets as well, while others had stuffed animals or wore animalmascots from their universities. It can be a Zoom background, aphotograph, or anything else.The key is to choose a theme broad enough that everyone canrelate to it, such as music, travel, or food.3) Do a round robin.
+---
+source_path: A Simple Way to Connect with Your Team Members.md
+pages: n/a-n/a
+chunk_id: 24590c7cfd26a3c50e6596b885bd622bc26fcbb6
+title: A Simple Way to Connect with Your Team Members
+---
+# 9/10/25, 12:01 PM

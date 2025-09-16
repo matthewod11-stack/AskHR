@@ -1,19 +1,17 @@
-# prompt sequence.
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44a486a1a4f76270c4282fbe79c27e7d75a45e0b
+title: H08L2R-PDF-ENG
+---
+# a few examples:
 
-- Kim is a communications manager at a large consumer goods
+- Mario is a project manager at a manufacturing plant, and he and his
 
-company. She has been using gen AI both to draft press releases and
+team often must solve technical challenges. Uncovering root causes
 
-to weigh how diﬀerent stakeholders might react to them. Kim engages
+of problems is a recurring, yet complex task. Mario has designed
 
-in a two-way conversation asking gen AI to act as speciﬁc stakeholders
+a structured dialogue with gen AI to help him think through each
 
-and debate with her about the content of each draft. Kim’s rule of
-
-thumb is to challenge and be challenged by AI during the dialogue.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+problem. Whenever a new one arises, he ﬁne-tunes and tests his

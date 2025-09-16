@@ -1,9 +1,13 @@
-# Evaluation
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ae572600b4650514ca265244beb0ff296c98e40d
+title: untitled
+---
+# Guttman’s Radex Model
 
-Psychometric theories of intelligence have been enormously inﬂuential, particularly in North America and in the United Kingdom. In many respects, they have served the ﬁeld well. First, they have provided a zeitgeist for three generations of researchers. Second, they have provided a systematic means for studying individual differences. Arguably, no other para- digm has provided any means that has been nearly as sys- tematic or, really, successful in so many respects. Third, the theories cross well between theory and application. Few theo- ries have proven to have as many and as diverse practical applications.Finally,theyhaveprovidedamodelforhowthe- ory and measurement can evolve in synchrony.
+The last psychometric model to be mentioned is one pro- posed by Louis Guttman (1954). The model is what Guttman referred to as a radex, or radial representation of complexity. The radex consists of two parts.
 
-At the same time, there have been problems with the differential approach. First, although factor analysis, as a method, is neither good nor bad, it has frequently been sub- ject to misuse (Horn & Knapp, 1973; Humphreys, 1962;
+The ﬁrst part is what Guttman refers to as a simplex. If one imagines a circle, then the simplex refers to the distance of a given point (ability) from the center of the circle. The closer a given ability is to the center of the circle, the more central that ability is to human intelligence. Thus, g could be viewed as being at the center of the circle, whereas the more periph- eral abilities such as perceptual speed would be nearer to the periphery of the circle. Abilities nearer to the periphery of the circle are viewed as being constituents of abilities nearer the center of the circle, so the theory has a hierarchical element.
 
-143
-
-144
+The second part of the radex is called the circumplex. It refers to the angular orientation of a given ability with respect to the circle. Thus, abilities are viewed as being arranged around the circle, with abilities that are more highly re- lated (correlated) nearer to each other in the circle. Thus, the radex functions through a system of polar coordinates. Snow, Kyllonen, and Marshalek (1984) used nonmetric multidimen- sionalscalingonaThurstoniantypeoftesttodemonstratethat the Thurstonian primary mental abilities actually could be mapped into a radex.

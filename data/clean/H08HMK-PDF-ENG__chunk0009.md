@@ -1,11 +1,15 @@
-# surveys and ERGs.
+---
+source_path: H08HMK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 041584c8a5dd669d4bb80960a0a61b7f3eb1c6e0
+title: H08HMK-PDF-ENG
+---
+## suggestions from authors Amy Henderson and Sarah Johal:
 
-- Share what you’ve learned to build transparency and trust.
+- Investigate what other companies are doing around measuring
 
-- Encourage more companies to gather this kind of data, too.
+caregiving status and learn from them about what’s working and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+what’s not.
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Ask your employees what they need, gathering information from

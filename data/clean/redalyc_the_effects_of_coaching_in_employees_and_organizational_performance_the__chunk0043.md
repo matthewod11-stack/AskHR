@@ -1,17 +1,21 @@
-# Emerson, 1978; Emerson, 1962).
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: d1f6387b4ad189e9a05466d4e84fd15c3179ed40
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# 2.2.3. Process outcomes
 
-In this way, Gouldner (1960) emphasises the following three aspects: first, the relationship is
+We consider it necessary to complement the Joo´s (2005) framework, with a theoretical
 
-reciprocal because transactions flow in both directions because of the mutual exchange that
+approach that supports the individual outcomes or results and that links these outcomes with
 
-the coach and coachee establish; second, this reciprocity is an expectation that both the coach
+organisational benefits. Social exchange theory is one of the most influential conceptual
 
-and coachee share, each with his/her own particular situation; and third, reciprocity also
+paradigms for understanding employee behaviour in the workplace (Cropanzano & Mitchell,
 
-becomes a moral norm of action throughout the coaching process. Cook and Emerson (1978)
+2005). The central premise of this theory is that the exchange of resources is a fundamental
 
-add a fourth aspect: in the exchange process that they establish, participants must negotiate
+form of interaction between the people participating in the coaching process because they
 
-the normative framework that will regulate the coaching relationship and in which they will
-
-detail their aims. Finally, a number of other aspects affect coaching outcomes, including
+expect the benefits that they obtain from the process to exceed the direct costs (Cook &

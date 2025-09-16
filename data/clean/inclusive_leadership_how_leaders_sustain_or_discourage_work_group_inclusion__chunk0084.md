@@ -1,5 +1,9 @@
-# of Management Executive, 11, 21-31.
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 79fddd0bf32cb1148e94b113e08ac07906c373a7
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+## organizations. Group & Organization Management, 31, 212-236.
 
-Robinson, S. L., O’Reilly, J., & Wang, W. (2013). Invisible at work: An integrated model of workplace ostracism. Journal of Management, 39(1), 203-231.
-
-Robinson, S. L., & Schabram, K. (2017). Invisible at work: Workplace ostracism as aggression. In N. A. Bowling, & M. S. Hershcovis (Eds.), Research and theory on workplace aggression, (pp. 221-244). Cambridge: Cambridge University Press. Rudert, S.C., Sutter, D., Corrodi, V.C., & Greifeneder, R. (2018). Who’s to blame? Dissimilarity as a cue in moral judgments of observed ostracism episodes. Journal of Personality and Social Psychology, 115(1), 31-53. doi:10.1037/pspa0000122
+Roberson, Q., & Perry, J. L. (2021). Inclusive leadership in thought and action: A qualitative study of leader perception and behavior. Group & Organization Management. Advance online publication. doi:10.1177/10596011211013161 Robinson, G., & Dechant, K. (1997). Building a business case for diversity. Academy

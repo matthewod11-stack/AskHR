@@ -1,23 +1,25 @@
-## supportive and respectful work environment for our colleagues, as well
+---
+source_path: H08H56-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 229fe0b711881b9b2470b9e4a724dcd957960b9f
+title: H08H56-PDF-ENG
+---
+## HBR / Digital Article / How to Talk to Your Team the Day After the Election
 
-as delivering excellent products and services for our customers.”
+If there’s a clear winner, Clark recommends saying something like:
 
-If the outcome remains unclear and we face a prolonged period of
+“Good morning, everyone. I imagine many of you stayed up late last
 
-uncertainty, Clark advises acknowledging the tension and confusion
+night, and we all likely have personal feelings about the results of
 
-and then pivoting to your business needs. You might say: “It’s stressful
+the election. Some of you may feel pleased, while others might be
 
-for all of us that there’s no clarity about the election results. No matter
+very upset. I want to emphasize that one of our core values as an
 
-how it ultimately turns out, having a deﬁnitive outcome would provide
+organization is to be thoughtful and respectful toward one another.
 
-some comfort, allowing us to strategize and paint a picture of what the
+Let’s all be mindful of how we express our feelings, recognizing the
 
-next four years might look like. For now, though, we ﬁnd ourselves in
+diversity within our team. Regardless of how we each feel about politics,
 
-a state of uncertainty, which can be uncomfortable. While we all want
-
-certainty, it’s important to set those feelings aside for the moment so we
-
-can be there for our colleagues and customers.”
+there’s one thing we can all agree on: our commitment to creating a

@@ -1,9 +1,35 @@
-# HBR / Digital Article / 3 Types of Silos That Stifle Collaboration—and How to Dismantle…
+---
+source_path: H08NU2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2128b875ba9d89ba4598756de1f3e14ecc815c6
+title: H08NU2-PDF-ENG
+---
+## ﬁnancial planning. Through regular review meetings, stakeholders
 
-rotation programs can further expose R&D personnel to real-world
+discuss forecasts, production plans, and inventory levels, fostering
 
-manufacturing challenges, fostering appreciation for process design
+collaboration, shared accountability, and balance between sales volume and production eﬃciency.
 
-complexities. These eﬀorts encourage mutual respect and knowledge
+Improving communication.
 
-exchange, dismantling elitist silos and unlocking cross-departmental
+At EliteMed Pharma Co., elitist silos arise from the R&D department’s
+
+perception of superior expertise over the process improvement team,
+
+limiting the sharing of critical data. Since R&D believes engineers
+
+lack the necessary scientiﬁc understanding, simply setting common
+
+goals or securing data sharing won’t resolve the underlying knowledge
+
+disparity. To break down these silos, cross-functional teams should
+
+be established, allowing R&D to directly observe the expertise
+
+of process engineers and their role in scaling production. Job
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

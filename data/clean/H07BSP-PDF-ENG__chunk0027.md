@@ -1,19 +1,9 @@
-# answer.”
+---
+source_path: H07BSP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da71a6458b111a4e4340e8ec5e15873c041dc656
+title: H07BSP-PDF-ENG
+---
+## the comments of one MD: “I like the interactive nature [and] ability
 
-- 2. Change Management
-
-Dealing with change was a challenge facing Merck in upskilling
-
-650 frontline sales managers in its Healthcare Business. Speed was
-
-important: In this business, a patent clock is ticking, so time and money
-
-are closely correlated. More generally, studies indicate that “I’m too
-
-busy” is the most frequently cited barrier to managerial participation
-
-in training. The ability to deal with diverse buying and regulatory
-
-circumstances was important, too: the initiative involved 40 virtual-
-
-reality simulations for managers across 65 countries, translated into 7
+to go back and try it again, thus learning the ‘why’ behind the right

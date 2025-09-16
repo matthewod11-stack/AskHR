@@ -1,15 +1,9 @@
-# the following ways:
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6c5be20a01635f72a3b60da8e74a33a91870044
+title: H080JA-PDF-ENG
+---
+# stage demands.
 
-They offer ﬂexibility in pace and path.
-
-Rather than enforcing a binary point of view — you’re either climbing
-
-up the ladder or stepping aside — skillful managers do not equate
-
-pace with potential. They assume talent remains constant and worthy
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+We’ve observed managers promote a ﬂexible mindset about growth in

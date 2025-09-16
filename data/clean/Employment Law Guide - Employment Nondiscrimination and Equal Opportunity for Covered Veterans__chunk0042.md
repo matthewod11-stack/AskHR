@@ -1,17 +1,13 @@
-## record or personnel action, whichever occurs later.
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Covered Veterans.md
+pages: n/a-n/a
+chunk_id: 6d3ad90f9c994abc7a3598f80f890103b3753e1c
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Covered Veterans
+---
+# whichever occurs later.
 
-In addition, all contractors with a Federal contract or subcontract of $150,000 or more, and 50 or more
+Federal contractors and subcontractors with 150 or more employees or who have a government contract of
 
-employees, must retain certain records related to outreach and recruitment, the hiring benchmark and data
-
-analysis, for a period of three years from the date of the making of the record.
-
-Federal contractors or subcontractors with a Federal contract or subcontract of $150,000 or more have a
-
-separate requirement to complete and submit to the Department's Veterans' Employment and Training Service
-
-(VETS) the VETS-4212 Report showing the numbers of protected veterans hired or employed during the
-
-reporting period. The VETS-4212 Report may be completed online. OFCCP may verify whether the contractor
-
-has complied with this requirement during a VEVRAA compliance evaluation.
+$150,000 or more must keep employment records for two years from the date of the making of the personnel

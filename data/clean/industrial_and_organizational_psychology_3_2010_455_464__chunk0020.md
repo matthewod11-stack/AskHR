@@ -1,1 +1,11 @@
-# ‘‘either/or’’ but
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: 0cf8622226723e4f314e660a041261461832d82b
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# Takingworkplacedecisionsseriously
+
+causation is a much higher evidentiary standard than correlation—for evidence- based practice. We therefore urge IOOB to pay more attention to internal valid- (cer- ity and to use research designs tainly including laboratory experiments) conducive to demonstrations of internal validity. As Hodgkinson and Healey (2008) put it, ‘‘[a] blanket call for more ﬁeld and fewer laboratory studies is ... unwarranted’’ (p. 405).
+
+Summary. The issue of which method- ological tradition to adopt should not be one of instead one of ‘‘both/and.’’ The proper study of decisions in the workplace requires the best of both the IOOB and the JDM methodological tra- ditions. We need both ﬁeld and laboratory research and both external and internal validity. We should, however, recognize that external validity involves the general- izability of the theory. Moreover, IOOB’s neglect of internal validity and its seem- ing distrust of laboratory experiments are, in our view, counterproductive. Although this has been said before (Ilgen, 1985), it bears repeating: Laboratory research in IOOB should be a question of when, not if.

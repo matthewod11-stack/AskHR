@@ -1,17 +1,31 @@
-## a one-way door decision into a two-way door decision. Remember, a
+---
+source_path: H06O9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07f9ed7f0203470a78e69df134dbf5a63f87c968
+title: H06O9Q-PDF-ENG
+---
+# door decision into a two-way door one.
 
-one-way door decision is really just one where you think the costs of
+Is there a way to achieve a similar set of career objectives within the
 
-failure are too large to bear. Reducing your exposure for a decision you
+context of your current ﬁrm or job? Could you take a sabbatical or
 
-can’t undo is another way of ultimately making it a two-way decision.
+transition to part time to try something out or collect more data? Can
 
-So, if you can’t walk away from your one-way door decision, see if there
+you build or strengthen your ties and professional network to increase
 
-are ways to make a bad decision less costly. If you can get the cost low
+your options if your intended course of action turns out not to be all that
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+you were hoping?
 
-6
+Recognize that the one-way/two-way door distinction is a decision
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+heuristic — identifying something as one- or two-way is itself a
+
+judgment call that depends on your own level of risk tolerance and the
+
+costs you’re willing to bear. What’s too costly to roll back for one person
+
+might be within reason for another.
+
+Also keep in mind that you don’t need a costless “undo” button to turn

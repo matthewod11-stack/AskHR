@@ -1,15 +1,25 @@
-# mentorship.
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 88fb25442eec2e783621875f736d68f0f62ae641
+title: H07YIA-PDF-ENG
+---
+## HBR / Digital Article / How to Mentor More People — and Not Get Burned Out
 
-To promote equal access to opportunity and investment in such
+this can also serve as an indirect but eﬀective tool for recruitment
 
-obligations, institutions must recruit a diverse body of mentors and
+of additional talent. Showcasing the successes of your mentees
 
-avoid preferentially assigning unpaid tasks to underrepresented, early-
+within your organization can amplify your team’s ideas and status.
 
-or mid-career managers (or, in the case of academic institutions,
+Establishing your reputation as someone capable of building a pipeline
 
-faculty). Next, institutions must formulate objective metrics for
+of excellence is priceless.
 
-evaluating mentorship. Finally, it is important for them to dedicate
+- 5. Hold organizations accountable.
 
-ﬁnancial resources to support and develop good mentors. Online
+A true commitment to diversity, equity, and inclusion comes from
+
+investment in grass roots initiatives focused on mentorship. As such,
+
+organizations must provide dedicated time and funding for meaningful

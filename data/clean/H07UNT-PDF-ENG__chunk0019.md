@@ -1,31 +1,33 @@
-## HBR / Digital Article / The Art of Setting Expectations as a Project Manager
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ded47f16b1bfe66e237176ad95cc80c99702fcf7
+title: H07UNT-PDF-ENG
+---
+## Create and foster relationships with your team.
 
-forward without delays. This is a tactic many seasoned PMs use to accommodate the needs of diﬀerent people across various departments.
+Project management requires a signiﬁcant level of emotional
 
-“My priorities are making my creative team feel supported, ensuring the
+intelligence. PMs need to develop an understanding of various
 
-production team has the most relevant information, and that everyone
+work styles, strengths and weaknesses, and build structures – and
 
-understands what their expectations are,” says Binjour. “I make friends
+relationships – accordingly.
 
-and build sincere relationships. It can be emotionally draining, because
+So how do PMs like Binjour foster those relationships in a way that
 
-people trust you with personal information, but at the end of the day,
+builds trust? The answer might sound counterintuitive.
 
-I’m a safe space to blab to.”
+“I lie all the time,” she says. “There’s the deadline I tell people, and
 
-Protecting the psychological safety and comfort of a team is also critical
+there’s the real deadline. I tell the production team one deadline and the
 
-to fostering collaboration. The more people trust the PM, the more
+account team another and hope it lands somewhere in the middle.”
 
-comfortable they are speaking up when issues arise, leaving more room
+To be clear, Binjour isn’t exactly lying; rather, she’s managing expectations and building buﬀers to ensure ﬂexibility throughout the process. She’s addressing diﬀerent work styles to move the project
 
-to make adjustments, reset timelines, and manage the broader team’s
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-expectations, especially as the project evolves. Psychological safety
+5
 
-on a team also provides a comfortable environment for employees
-
-to give and receive feedback. Respectfully addressing this feedback
-
-reinforces expectations with clarity and helps prevent communications
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

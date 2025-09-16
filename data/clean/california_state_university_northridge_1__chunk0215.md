@@ -1,15 +1,23 @@
-# agreement, and mutuality of obligation.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 4325b758f96875091c82c7f68058c1b981d5804d
+title: california_state_university_northridge_1
+---
+# or state.
 
-Contractor - One who contracts to do work for another. This term is strictly
+Contract - An agreement between two or more persons which creates an
 
-applicable to any person who enter into a contract, but is commonly reserved to designate
+obligations to do or not to do a particular thing. As defined in Restatement, Second,
 
-one who, for a fixed prose, undertakes to procure the performance of works or services
+Contracts 3: "A contract is a promise or a set ·of promises for the breach of which the law
 
-on a large scale, or the furnishing of goods in large qualities, whether for the public or a
+gives a remedy, or the performance of which the law in some way recognizes as a duty."
 
-company or individual. Such are general classified as general contractors (responsible for
+A legal relationship consisting of the rights and duties of the contracting parties; a promise
 
-80
+or set of promises constituting an agreement between the parties that gives each a legal
 
-entire job) and sub-contractor (responsible for only portion of job; e.g. plumber,
+duty to the other and also the right to seek a remedy for the breach of those duties. Its
+
+essentials are competent parties, subject matter, a legal consideration mutuality of

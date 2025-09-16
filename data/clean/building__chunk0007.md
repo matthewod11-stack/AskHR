@@ -1,5 +1,9 @@
-# PEOPLE
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 1f98bb7f2be25666d98c35ac7049b303aa548d3b
+title: building
+---
+# Stage 1: Develop your AI strategy
 
-Executive alignment and sponsorship Get executive buy-in by articulating a strategic vision that ties AI initiatives to business outcomes. Clearly articulate the role Generative AI will play in organizational productivity, growth, and success. Plan for ongoing leadership engagement beyond the initial approval and provide realistic guidance around timelines and impact.
-
-Governance and oversight Governance shouldn’t be an afterthought. Establish an AI review board, define ethical guidelines, and create transparent processes for model evaluation and incident response. The goal is to build trust while maintaining momentum.
+A successful enterprise AI strategy requires a three-dimensional approach encompassing people, processes, and technology. Each dimension requires specific attention to ensure comprehensive implementation and sustainable adoption.

@@ -1,9 +1,15 @@
-# resultados, apenas uma resposta (16,7%) foi neutra em respeito à satisfação, como
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 9ba1187eab6afd86c72b407ad000b5f9896930ea
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# uma visão geral acerca de sua aplicação.
 
-se observa na figura 21. Estes pontos corroboram as opiniões de Legerstee (2013) e
+Todos mostraram-se no mínimo satisfeitos com a ferramenta, a periodicidade
 
-Sedlak (2020) quanto às facilidades intrínsecas à aplicação do eNPS.
+de aplicação e a agilidade do processo de coleta de eNPS na empresa, tendo
 
-Figura 18: Respostas à pergunta "Quão satisfeito você se considera a respeito da pesquisa
+optado pelas respostas 4 ou 5 ("satisfeito" ou "muito satisfeito") em todas elas, como
 
-de eNPS aplicada na companhia considerando os seguintes aspectos: ferramenta de
+demonstrado nas figuras de 18 a 20 a seguir. Ainda, quanto à divulgação dos

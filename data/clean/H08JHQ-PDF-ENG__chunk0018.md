@@ -1,15 +1,17 @@
-## as a facilitator between the company’s needs and your employee’s
+---
+source_path: H08JHQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a445aac74ea91edc45aef11616cbf981588ae92
+title: H08JHQ-PDF-ENG
+---
+## Mistake 4: Making the Issue About the Person
 
-needs, capability, and performance. You can do this by taking a
+When you go into a performance conversation, are you there as an
 
-third-party approach. For instance, you can make an objective and
+enemy or an ally? A manager who enters the discussion with an
 
-honest observation by saying something like, “The team needs to make
+adversarial tone — for example, by saying, “You’re not meeting my expectations,” or “You’ve messed this up and now the project will suﬀer”
 
-progress on this project, and your skills are important for us to get
+— is pitting themselves against the employee.
 
-there. But I’ve also noticed you’re facing some challenges in hitting your
-
-target goals by the deadline we’ve discussed.” Then, follow up with your
-
-open-ended question: “Can you tell me what’s been going on from your
+Instead, focus on the work itself — not the person. Position yourself

@@ -1,5 +1,9 @@
-## Have the Employee’s Values and Expectations Been Met?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 5353311e730896c74fcbc5ba06aad50d9cfdba59
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Needs for Achievement and Power
 
-Our work motivation and job satisfaction are determined by the discrepancy between what we want, value, and expect and what the job actually provides. For example, if you enjoy working with people but your job involves working with data, you are not likely to be motivated by or satisfied with your job. Likewise, if you value helping others, yet your job involves selling things people don’t really need, you will probably not be motivated to perform well.
-
-Potential discrepancies between what employees want and what the job gives them affect how motivated and satisfied employees will be with their jobs (Knoop, ; Rice, Gentile, & McFarlin, ). For example, imagine that Jane most values money and Akeem most values flexibility. Both are in jobs that pay well but have set hours and a standard routine. Though the job and the company are the same, one employee (Jane) will be motivated and the other (Akeem) will not be.
+A theory developed by McClelland () suggests that employees differ in the extent to which they are motivated by the need for achievement, affiliation, and power. Employees who have a strong need for achievement are motivated by jobs that are challenging and over which they have some control, whereas employees who have minimal achievement needs are more satisfied when jobs involve little challenge and have a high probability of success. In contrast, employees who have a strong need for affiliation are motivated by jobs in which they can work with and help other people. Finally, employees who have a strong need for power are motivated by a desire to influence others rather than simply to be successful.

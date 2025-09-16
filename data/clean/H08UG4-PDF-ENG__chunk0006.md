@@ -1,9 +1,13 @@
-# their own pay.
+---
+source_path: H08UG4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3f7c53e02e834133dadeebedefa364083d71015
+title: H08UG4-PDF-ENG
+---
+## satisfaction ratings from before and after the SEC’s 2018 mandate that
 
-Employees develop beliefs about what their colleagues are paid whether
+companies disclose the CEO pay ratio, which compares CEO pay to that
 
-or not a company discloses salary information. They can develop
+of the median employee. We found that the transparency brought on
 
-intuitions from whatever information they have access to. They hear
-
-gossip from their coworkers and form judgments based on visible
+by the new disclosure made employees more satisﬁed, on average, with

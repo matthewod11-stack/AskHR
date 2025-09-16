@@ -1,7 +1,9 @@
-# Workers with Disabilities/Special Minimum Wage (PDF) poster"(https://www.dol.gov/agencies/whd/posters/section-
+---
+source_path: Employment Law Guide - Wages in Supply and Equipment Contracts.md
+pages: n/a-n/a
+chunk_id: 0eeb690570cf932f1c7fe1e92c219425540837cc
+title: Employment Law Guide - Wages in Supply and Equipment Contracts
+---
+## Spanish(https://www.dol.gov/whd/regs/compliance/posters/scaspan.htm).
 
-14c) must also be posted. This notice explains the conditions under which special minimum wages may be
-
-paid. The poster must be posted in a conspicuous place on the employer's premises where it can be readily
-
-seen by employees and the parents or guardians of workers with disabilities.
+If the contractor employs workers with disabilities under special minimum wage certiﬁcates, the "Notice to

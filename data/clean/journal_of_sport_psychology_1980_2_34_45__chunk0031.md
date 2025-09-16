@@ -1,17 +1,7 @@
-# important coaching matters.
-
-Let athletes work at their own speed. Let the athletes decide on the plays to
-
-be used in a game.
-
-68 40
-
-53
-
-54 40
-
-44
-
-71 47
-
-61
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: 229bdc18641b22c110063e4d4aad44c9e054525e
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# Ask for the opinion of the athletes on

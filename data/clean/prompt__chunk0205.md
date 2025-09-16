@@ -1,3 +1,9 @@
-# Prompt
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 5b0d607abc8348f5b735c233ca132e7b4755e8f0
+title: prompt
+---
+# Top-P
 
-Write a one paragraph storyline for a new level of a first- person shooter video game that is challenging and engaging.
+0.8

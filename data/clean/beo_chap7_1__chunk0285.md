@@ -1,9 +1,35 @@
-# economics.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 9dc8499bf33df19464a2efda58dfa16315f4d1d9
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-At bottom, the relationship to psychology has been a major feature distinguishing
+of mind now developing in psychology gains credibility in the general intellectual
 
-organization theory from organizational economics. Roughly, one might say that many organizational theorists have been closer to the second approach described here, feeling obliged to take psychological (and social psychological) results on their
+community, that shift may markedly constrain the freedom of economics to operate
 
-own terms, and build up organization theory with those results as starting points,
+credibly in the eyes of policy makers and managers while retaining the strongly
 
-while economists have asked—and rightly se—how psychological results may be assimilated to the needs and theories of economics. In consequence, organization theory has far less formalized theoretical development than does organizational economics, though it addresses a broader array of significant issues.°9
+stylized representations of economic action that might be the most convenient for
+
+formalization. Consumers of economic advice may begin to ask where human habits,
+
+skills, identifications, and emotions enter into the analysis.
+
+And within economics itself the strategy of modifying existing theory to accom-
+
+modate behaviorally observed deviations may gradually undermine the elegant sim-
+
+plicity that has been one of its hallmark attractions. The danger is that theory can
+
+become encumbered with a mass of Ptolemaic epicycles and the discipline can be
+
+left behind after an eventual Copernican simplification.
+
+Still, we have seen that there are considerable advantages to the deviations
+
+approach and therefore good reasons to continue using it, despite some problems. Now we can turn to some examples suggestive of the potential—and challenges—of the alternative. I offer my views on the second perspective, the approach that starts
+
+from “how the brain works,” not as an economist, and also not as a psychologist, but as an organizational theorist who tries to pay close attention to psychology and

@@ -1,27 +1,45 @@
-# predictions.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: da71279fc350a2a640e018c4fc4d47b3ecdc158b
+title: behavioral_economics_1
+---
+## something from these new measurements about choices.
 
-Seen this way, neuroeconomics is likely to produce three types of findings: Evidence for rational-choice
+28
 
-processes; evidence supporting behavioral economics processes and parameters (as in Table 1); and evidence of
+Some basic facts about the brain can guide economic modeling (and already have, in “dual-process”
 
-different types of constructs which do not fit easily into standard modeling categories.
+models). The brain is divided into four lobes—frontal, parietal, occipital and temporal. Regions of these lobes
 
-17 However, as activities become automatic, they often become harder to remember and difficult to teach to others, an important fact for the division of labor in large firms where learning-by-doing creates automaticity.
+are interconnected and create specialized “circuits” for performing various tasks.
 
-29
+The human brain is a primate brain with more neocortex. To deny this important fact is akin to
 
-Results consistent with rational choice: In choice domains where evolution has had a long time to
+creationism. The fact that many human and anima brain structures are shared means that human behavior
 
-sculpt pan-species mechanisms that are crucial for survival (food, sex, and safety), neural circuits which
+generally involves interaction between “old” brain regions and more newly-evolved ones. The descent of
 
-approximate Bayesian rational choice have probably emerged. For example, Platt and Glimcher (1999) find
+humans from other species also means we might learn something about human behavior from other species.
 
-neurons in monkey lateral intraparietal cortex (LIP) which fire at a rate that is almost perfectly correlated with
+For example, rats become addicted to all drugs that humans become biologically addicted to, which implies that
 
-the expected value of an upcoming juice reward, triggered by a monkey eye movement (saccade). Monkeys can
+old reward circuitry shared by rat and human brains is part of human addiction.
 
-also learn to approximate mixed-strategies in games, probably using generalized EWA-type reinforcement
+While we often think of complex behavior as deliberate, resources for “executive function” or
 
-algorithms (Lee, McGreevy and Barraclough, 2005). Neuroscientists are also finding neurons that appear to
+“cognitive control” are rather scarce (concentrated in the cingulate). As a result, the brain and body are very
 
-express values of choices (Padoa-Schioppa and Assad, 2005) and potential locations of “neural currency” that
+good at delegating components of complex behavior into automatic processes. For example, a student driver is
+
+overwhelmed by visual cues, verbal commands, memory required for navigation, and mastery of motor skills.
+
+Many accidents result during this learning process. But within a few years, driving becomes so effortless that
+
+drivers can eat and talk (perhaps on a cell phone) while driving safely.17
+
+Methodologically, neuroeconomics is not intended to test economic theory in a traditional way
+
+(particularly under the view that utilities and beliefs are only revealed by choices). Instead, the goal is to
+
+establish the neural circuitry underlying economic decisions, for the eventual purpose of making better

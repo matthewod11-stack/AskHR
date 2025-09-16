@@ -1,9 +1,19 @@
-## Factor Model. Annual Review of Psychology, 41, 417–440.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: bf8891382293acf8965e61ccdea9c6aab5445234
+title: barrickryan_eds_personality_and_work
+---
+## spective. Journal of Personality, 69, 979–1006.
 
-Douglas, S. C., & Martinko, M. J. (2001). Exploring the role of individual differences in the prediction of workplace aggression. Journal of Ap- plied Psychology, 86, 547–559.
+Cohen, S. G., & Bailey, D. E. (1997). What makes teams work: Group ef- fectiveness research from the shop ﬂoor to the executive suite. Jour- nal of Management, 23, 239–290.
 
-Dwight, S. A., & Donovan, J. J. (1998). Warning: Proceed with caution when warning applicants not to dissimulate (revised). Paper presented at the Thirteenth Annual Meeting of the Society for Industrial and Orga- nizational Psychology, Dallas, TX.
+Costa, P. T., Jr., & McCrae, R. R. (1992). Revised NEO Personality Inventory (NEO PI-R) and NEO Five-Factor Inventory (NEO-FFI): Professional man- ual. Odessa, FL: Psychological Assessment Resources.
 
-Erez, A., & Judge, T. A. (2001). Relationship of core self-evaluations to goal setting, motivation, and performance. Journal of Applied Psy- chology, 86, 1270–1279.
+Crant, J. M. (1995). The proactive personality scale and objective job per- formance among real estate agents. Journal of Applied Psychology, 80, 532–537.
 
-Fox, S., & Spector, P. E. (1999). A model of work frustration-aggression.
+Dawis, R. V., & Lofquist, L. H. (1984). A psychological theory of work adjust- ment: An individual difference model and its applications. Minneapolis: University of Minnesota.
+
+De Fruyt, F. (2002). A person-centered approach to P-E ﬁt questions using a multiple-trait model. Journal of Vocational Behavior, 60, 73–90. De Fruyt, F., & Mervielde, I. (1999). RIASEC types and Big Five traits as predictors of employment status and nature of employment. Per- sonnel Psychology, 52, 701–727.
+
+Diener, E. (2000). Subjective well-being: The science of happiness and a proposal for a national index. American Psychologist, 55, 34–43. Digman, J. M. (1990). Personality structure: Emergence of the Five-

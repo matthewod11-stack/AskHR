@@ -1,5 +1,15 @@
-# function model. International Journal of Manpower, 25, 714–728. doi:10.1108/01437720410570036
+---
+source_path: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio.md
+pages: n/a-n/a
+chunk_id: 904766280cb8808150cdfced9739cd76d29a215f
+title: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio
+---
+# Journal of Occupational Health Psychology, 9, 136–151. doi:10.1037/1076-8998.9.2.136
 
-Colakoglu, S. N. (2011). The impact of career boundarylessness on subjective career success: The role of career competencies, career autonomy, and career insecurity. Journal of Vocational Behavior, 79, 47–59. doi:10. 1016/j.jvb.2010.09.011
+Chen, G., & Bliese, P. D. (2002). The role of different levels of leadership in predicting self-and collective effi- cacy: Evidence for discontinuity. Journal of Applied Psychology, 87, 549–556. doi:10.1037//0021-9010.87.3. 549
 
-Duchon, D., Green, S. G., & Taber, T. D. (1986). Vertical dyad linkage: A longitudinal assessment of antecedents, measures, and consequences. Journal of Applied Psychology, 71, 56–60. doi:10.1037/0021-9010.71.1.56 Frone, M. R. (2003). Work-family balance. In J. C. Quick & L. E. Tetrick (Eds.), Handbook of occupational health
+Clarke, M. (2013). The organizational career: Not dead but in need of redefinition. The International Journal of
+
+Human Resource Management, 24, 684–703. doi:10.1080/09585192.2012.697475
+
+Clifton, T. J., & Shepard, E. (2004). Work and family programs and productivity: Estimates applying a production

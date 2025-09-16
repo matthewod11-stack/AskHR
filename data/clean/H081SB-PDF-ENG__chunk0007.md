@@ -1,5 +1,33 @@
-# HBR / Digital Article / When New Hires Get Paid More, Top Performers Resign First
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50791fb1dbb3a9579e7fadc3cba1508b9572631a
+title: H081SB-PDF-ENG
+---
+# Our Findings
 
-resigned more than two times sooner if their employers took a year to
+Through our ﬁrst round of analyses, we determined that employees
 
-adjust their pay.
+whose pay was increased soon after the addition of a higher-paid
+
+coworker tended to stay in their jobs a lot longer, whereas those who
+
+had to wait for a raise were more likely to quit.
+
+When pay was adjusted within a month of the new addition, existing
+
+employees remained with their companies for an average of another two
+
+and a half years. In contrast, when pay adjustments took six months,
+
+employees stayed on board for an average of just one and a half years,
+
+and when pay increases took an entire year, employees quit an average
+
+of just 13 months after the new hire joined. In other words, employees
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

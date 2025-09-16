@@ -1,19 +1,21 @@
-## HBR / Magazine Article / Harness Your Network to Unlock Innovation
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ef112608608b247e6f046f519a39611efba56f3
+title: R2306H-PDF-ENG
+---
+# vine.
 
-to high-status, well-respected experts, whom we refer to as “pragmatic
+Only once he was conﬁdent that his idea could withstand outsider
 
-skeptics.” Although they’re not easily persuaded, once pragmatic
+criticism did Ben gradually lower his guard. After he had convinced
 
-skeptics are on board, their endorsements produce a ripple eﬀect and
+himself and his conﬁdants that he could clear any potential hurdles, he
 
-generate broader buy-in that the novel path is a promising way forward.
+sought exposure to a wider internal circle. Speciﬁcally, he reached out
 
-By sequencing their circles, leaders can eﬀectively calibrate the timing
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-of input from critics, use it to strengthen their innovations, and
+12
 
-overcome the unavoidable resistance that truly original ideas are bound
-
-to meet. By calling on the right people at the right time, leaders can
-
-reﬁne their innovations and validate them in the eyes of stakeholders
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

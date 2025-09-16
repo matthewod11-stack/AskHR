@@ -1,29 +1,17 @@
-# everyone, all the time.
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40ad5bde831ef3f784d53bad62a2beebdf6a3b1a
+title: H07XAQ-PDF-ENG
+---
+## HBR / Digital Article / When Designing Employee Learning Programs, Less Is More
 
-- Nonoptimal inclusiveness. When every group has a seat at every
+- The “what you see is all there is” bias. As Daniel Kahneman noted in
 
-table, the result can be a hodgepodge of ideas. Seeking out other
+Thinking Fast and Slow, we have a diﬃcult time seeing any perspective
 
-perspectives is essential and helpful — and requires a decider (or small
+other than our own. Consequently, people often see their priorities in
 
-set of them) to make the tough calls on when to say no.
+everything and jump at the chance to include their priority topic and
 
-- A lack of understanding of what employees really need and want.
-
-If employees don’t clearly understand what’s in it for them — i.e.,
-
-if the learning content you’re providing doesn’t address a pain point
-
-they have — they aren’t going to engage with the learning. That said,
-
-people often don’t know what they really need, and it can take time, eﬀort, and expertise on the part of learning providers to understand
-
-the needs and how to frame the content so it’s appealing.
-
-- Deference to business leader requests. Although last on the list,
-
-this is highly common. The desire to have this or that covered in a
-
-forthcoming program because the leader’s gut intuition (rather than
-
-objective evidence) tells them it’s a good idea very often results in
+content whenever they can — which leads to including everything, for

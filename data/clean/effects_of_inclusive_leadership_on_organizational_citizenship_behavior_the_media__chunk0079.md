@@ -1,9 +1,9 @@
-## exchange perspective. Human Relations, 48, 127–146.
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: 8ef90d6c38c4ad8210894d6fadd45e531428e384
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# Thi Bich Hanh Tran and Suk Bong Choi
 
-Khan S.K. and Rashid M.Z.A. (2012). The mediating effect of organizational commitment in the organizational culture, leadership and organizational justicerelationshipwithorganizationalcitizenshipbehavior:Astudyofacad- emicians in private higher learning institutions in Malaysia. International Journal of Business and Social Science, 3, 83–91.
-
-Kirkman B.L., Chen G., Farh J.L., Chen Z.X. and Lowe K.B. (2009). Individual power distance orientation and follower reactions to transforma- tional leaders: A cross-level, cross-cultural examination. Academy of Management Journal, 52, 744–764.
-
-Koopman P.L., Den Hartog D.N. and Konrad E. (1999). National culture and leadershipprofilesinEurope:SomeresultsfromtheGLOBEstudy.European Journal of Work and Organizational Psychology, 8, 503–520.
-
-Konovsky M.A. and Pugh S.D. (1994). Citizenship behavior and social
+Kamdar D. and Van Dyne L. (2007). The joint effects of personality and workplace social exchange relationships in predicting task performance and citizenship performance. Journal of Applied Psychology, 92, 1286–1298. Keller T. and Dansereau F. (1995). Leadership and empowerment: A social

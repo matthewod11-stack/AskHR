@@ -1,23 +1,27 @@
-# relevant industry trends.
+---
+source_path: H085Q9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fd4ffe0c13576e8f141c9827e754f3dae53282e
+title: H085Q9-PDF-ENG
+---
+## coach and former Wall Street leadership and talent executive.
 
-This kind of forward-looking communication strategy should ensure
+For organizations facing down this situation, how should reductions in
 
-employees are not shocked during inevitable business downturns.
+force be communicated to employees? What’s a “great place to work”
 
-People understand challenging business conditions. They will not
+to do? In my experience as a former CHRO, attorney, and now as an
 
-forgive avoiding or obscuring the facts.
+executive coach, I’ve seen six common mistakes leaders make when communicating layoﬀs.
 
-Angela Stopper, chief learning oﬃcer and director of people and
+They’re not transparent about the state of the business.
 
-organization development at UC Berkeley, observes that organizations sometimes delay communicating layoﬀs because they’re afraid “good”
+In good or bad times, the best companies proactively ensure employees
 
-people will leave. “Why would you think that?” she asks. “All your
+are routinely educated on the state of the business. They invite
 
-people should be good people.”
+employees to listen in on investor calls, host quarterly town halls, or
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+send regular “state of the business” emails that inform everyone about
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+major customer wins or losses, the acquisition or sale of a business, and

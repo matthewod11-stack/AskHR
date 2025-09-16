@@ -1,33 +1,31 @@
-# beneath the broader company’s eﬀorts.
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83b22a30d403e7a31ec7dd440f2076cbf0c5e301
+title: H07US4-PDF-ENG
+---
+## balance sheet. Call centers with manager-to-direct report ratios of 1 to
 
-The loving company doesn’t use performance ratings, because they see
+70 are unloving. As are, sadly and ironically, hospitals. As the CHRO of a
 
-each employee as so much more than a number. Nor do they have a
+large health care system shared with me, their nurse supervisor to nurse
 
-high-potential program, because they believe every single worker has
+ratio is also 1 to 70. With those ratios, it’s little wonder that we have such
 
-room to learn and grow, and that, as such, opportunities and advantages
+a burnout crisis and a nursing shortage. It’s almost as if hospitals have
 
-should not be reserved for the precious few with “potential.”
+turned a blind eye to what their nurses need to feel nourished at work.
 
-The loving company is super attentive to transitions. For example, a
+The loving company has a strong alumni program. After all, if to treat
 
-recent loving move by a few forward-thinking hospitals is the creation
+your people lovingly is to have an unwavering commitment to their
 
-of the hospitalist role. This is a doctor assigned to you when you’re
+ﬂourishing, it follows that this commitment persists even after the
 
-admitted, and whose job is twofold: First to explain what every other
+person leaves. The unloving company sees each person as merely a
 
-medical specialist is doing to you and for you and why, and second, to
+means to an end, and so, once an employee leaves, it’s as though they
 
-explain your needs, fears, and routines to the specialists.
+never existed. Their names are rarely brought up in meetings, and their
 
-The unloving hospital is one where you’re handed oﬀ from one nurse
-
-to another, to a doctor, to a diﬀerent doctor, to an administrator, and
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+contributions, whatever they may have been, are quickly subsumed

@@ -1,17 +1,11 @@
-## Data on the share of health workforce by sector (public
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: f0d5633aba7a5ef8ce4ef2c9872f087ec85a90c1
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+# patterns.
 
-or private) indicate that for highly paid occupations, such
+8 The likelihood for earning in the highest income category for men as compared with women was OR = 2.10 (95% CI: 1.83–2.40) for physicians; OR = 2.27 (95% CI: 1.76–2.93) for nursing and midwifery personnel; and OR = 3.38 (95% CI: 2.27–5.03) for personal care workers. (OR – odds ratio; CI – conﬁdence interval.)
 
-as physicians, men are more frequently employed in the
-
-private sector than women (49.2% vs 39.2% respectively, P < 0.001). However, the contrary is the case for low paid jobs, such as personal care workers, where women are more
-
-frequently employed by the private sector (53.0% vs 81.8% for men and women respectively, P < 0.001). This contrast illustrates a gender imbalance, with men more likely to
-
-obtain private sector jobs in occupations where public sector
-
-wage ceilings often exist, whereas women are more likely to
-
-obtain lower paid private sector jobs, which tend to offer less
-
-job security and favour part-time employment.
+10

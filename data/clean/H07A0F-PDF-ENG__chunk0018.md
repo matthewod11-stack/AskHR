@@ -1,25 +1,13 @@
-# HBR / Digital Article / Is Your Leadership Development Program Undermining Your DE…
+---
+source_path: H07A0F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b7aa1a88686a0cf18f1b17ac9c9a1de73fb57d6
+title: H07A0F-PDF-ENG
+---
+# bias, but on demonstrated performance.
 
-For instance, if the opportunity is for leadership training, criteria could
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-be demonstrated behaviors that show the employee builds trust with
+4
 
-team members, is curious, and takes initiative.
-
-- 3. Communicate opportunities to all.
-
-In our research, we found that deﬁnitional knowledge decreased
-
-alongside organizational power: Respondents told us that 49% of senior
-
-leaders knew what it meant to be a high-potential leader, but that only
-
-25% of employees were also aligned on that deﬁnition.
-
-Make sure everyone across the organization, including employees
-
-and managers, understands the leadership development opportunities
-
-and necessary qualiﬁcations. One simple way to do this is to ask all
-
-managers to send out an email (based on a template prepared by
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

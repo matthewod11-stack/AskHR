@@ -1,3 +1,9 @@
-## Federation (ICF) 2023 Global Coaching Study, the estimated number of
+---
+source_path: H07XS0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6a3801807c50b9a8f30b3c3f9dbc957da6e8ad5
+title: H07XS0-PDF-ENG
+---
+## HBR / Digital Article / What It Really Takes to Become an Executive Coach
 
-coach practitioners is more than 109,000 globally, having increased 54%
+That’s not just anecdotal. According to the International Coach

@@ -1,7 +1,11 @@
-# Cost Control
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37851427805e4f5b2acd835bb8baf3536fff2762
+title: H08R2K-PDF-ENG
+---
+## HBR / Digital Article / Employee Stress Is a Business Risk—Not an HR Problem
 
-Our data shows that employees experiencing high stress ﬁle 2.5 times
+stress for employers can be seen across three areas: cost control, risk
 
-more health claims than their low-stress counterparts, creating a direct
-
-ﬁnancial burden for businesses that self-insure. Rising health insurance
+mitigation, and sustained performance.

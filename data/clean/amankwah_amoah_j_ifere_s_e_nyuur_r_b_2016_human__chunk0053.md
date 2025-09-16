@@ -1,33 +1,19 @@
-# performance but patronage.”
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 616d26c30b57d9f9eb5e3a3d48e70bceaed2ac7b
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# (senior politician).” (G20)
 
-One explanation for this is that so long as their political masters remain in power, job
+Another Nigerian concurred by noting that:
 
-security is assured, irrespective of their performance on the job. This has created an
+“There is really no incompetent employee here (current firm) … a few months ago, I visited a
 
-atmosphere where such workers’ performances bear no relation to their level of rewards.
+government agency and found three of the people we fired earlier in the year there. They said
 
-Another informant from the private sector noted:
+they had no pressure to perform or even carry out their duties.” (N8)
 
-“I will always fire an incompetent worker because he/she has nothing to offer. One bad seed
+One of them who works for a public organisation in Lagos (N39) asserted:
 
-can destroy the business … We have fired plenty employees who could not meet their targets.
-
-Those former employees responded by looking for less strict jobs in government.” (N23)
-
-19
-
-Government agencies have also provided avenues for such workers to be transferred
-
-to on cases where the incompetence becomes so disruptive for the department. An employer
-
-(N37) who described herself as a social entrepreneur said she simultaneously pursues both
-
-economic profit and social objectives. She sees some of her underperforming employees as
-
-being from poor or disadvantaged backgrounds who should be kept in employment and
-
-developed through training and mentoring. Based on the above analysis, we offer the
-
-following proposition:
-
-Proposition 3: Firms focusing on non-profit objectives are more likely to create
+“There is no motivation for performance improvement as rewards are not based on

@@ -1,3 +1,19 @@
-# mandates.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b0f13f5fa08b58aeadec513928e83cdf528eed4
+title: H08H7H-PDF-ENG
+---
+# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
 
-How working from home provides a window into coworkers’ worlds
+examine how the glimpses of coworkers’ nonwork lives seen through video calls aﬀect relationships. We found that these virtual interactions
+
+can make employees see each other as more authentic, human,
+
+and trustworthy — all qualities that lead to stronger personal and
+
+professional bonds. Our work provides a more balanced view into the
+
+inﬂuence of remote work on how employees relate with each other. We draw upon our ﬁndings to oﬀer research-backed suggestions to
+
+managers grappling with the potential beneﬁts — and costs — of RTO

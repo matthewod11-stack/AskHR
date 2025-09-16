@@ -1,5 +1,7 @@
-# How to Talk to Your Kids About Layoffs
-
-Advice on what to say (and what not to say) when you break the news. by Jackie Coleman
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07F0V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b0e0273af0a475b1e3bd6efefadd097d33094f4
+title: H07F0V-PDF-ENG
+---
+# Layoffs

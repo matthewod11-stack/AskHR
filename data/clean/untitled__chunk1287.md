@@ -1,3 +1,7 @@
-# Child Development, 55, 83–96.
-
-Bijou, S. W., & Baer, D. M. (1961). Child development: A system- atic and empirical theory (Vol. 1). New York: Appleton-Century- Crofts.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bc2622a99e9fd9b5a1c093b97a689d8358b833d2
+title: untitled
+---
+## Belsky, J. (1984). The determinants of parenting: A process model.

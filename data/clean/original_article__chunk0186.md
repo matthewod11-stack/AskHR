@@ -1,11 +1,25 @@
-# Charas
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 05a4d77aac1c34b85d14807a4cc66abb8388cab5
+title: original_article
+---
+# Bainbridge, S.
 
-Cloyd, M.A., Keller, D. and DeNicola, P. (2012) PWC’s 2012 annual corporate directors sur- vey. Center for Board Governance, http:// www.pwc.com/us/en/corporate-governance/ publications/boardroom-direct-newsletter/ september-2012-issues-in-brief.jhtml. Cohen, S.G. and Bailey, D.E. (1997) What makes teams work: Group effectiveness research from the shop ﬂoor to the executive suite. Journal of Management 23(3): 239–290.
+(2010) The uncertain relation- ship between governance and performance, http://www.professorbainbridge.com/profes sorbainbridgecom/2010/11/page/2/, accessed 24 November 2010.
 
-Cohen, S.G. and Ledford, G.E. (1994) The effec- self-managing teams: A quasi-
+Brennan, N. (2006) Boards of directors and ﬁrm performance: Is there an expectations gap? Corporate Governance: An International Review 14(6): 577–593.
 
-tiveness of experiment. Human Relations 47(1): 13–43. Collins, C.G. and Parker, S.K. (2010) Team cap- ability beliefs over time: Distinguishing between team potency, team outcome efﬁ- cacy, and team process efﬁcacy. Journal of Occupational and Organizational Psychology 83(4): 1003–1023.
+Campion, M.A., Medsker, G.J. and Higgs, A.C. (1993) Relations between work group char- acteristics and effectiveness: Implications for designing effective work groups. Personnel Psychology 46(4): 823–847. Casciaro, T. and Piskorski, M.J.
 
-Conger,
+(2005) Power imbalance, mutual dependence, and constraint absorption: A closer look at resource depen- dence theory. Administrative Science Quarterly 50(2): 167.
 
-(2009) Sharing leadership on corporate boards: A critical requirement for teamwork at the top. Organi- zational Dynamics 38(3): 183–191.
+Champion, M., Papper, E. and Medsher, G. (1996) Relations between work-team characteristics and effectiveness: A replication and extension. Personnel Psychology 49(2): 429–453.
+
+Charas, S. (2012) Boardroom theater: Actors, actions and their consequences. In: The Second Inter- national Conference on Engaged Management Scholarship. UK: Cranﬁeld University. Charas, S. and Perelli, S. (2013) Threats to board stability: Understanding SME director beha- vior. International Journal of Disclosure and Gov- ernance 10(2): 175–191.
+
+© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
+
+127
+
+128

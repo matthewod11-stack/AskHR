@@ -1,11 +1,13 @@
-# workload.
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 248aa1354f956ffe6046909bb465d66b21bb7d25
+title: H087XL-PDF-ENG
+---
+## conﬂicting requirements through separate back-to-back meetings with
 
-Moreover, Nilam faced the challenge of adapting to diﬀerent group
+Jun to discuss customer preferences and with Riley to go over
 
-norms. As a marketer, Jun was all about making quick decisions and
+production costs. Each meeting ended with a list of action items
 
-fast iterations. Riley, however, followed the stringent protocols of their
-
-production team and was methodical and risk-averse. Managing these
-
-conﬂicting approaches was stressful for Nilam and took a toll on their
+that Nilam had to incorporate into the engine design, adding to their

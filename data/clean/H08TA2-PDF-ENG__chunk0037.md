@@ -1,17 +1,37 @@
-# the silos.
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5a68e7ab054be8f55503f5ea9c86ac947ee84c7d
+title: H08TA2-PDF-ENG
+---
+# HBR / Digital Article / Why Senior Leaders Should Stop Having So Many One-on-Ones
 
-Minimizing 1:1s may feel uncomfortable at ﬁrst. But for leaders ready to
+accountability. The “I know something you don’t” dynamic is replaced
 
-shape the organization they want, not just maintain the one they have,
+with shared context and visible contributions. Make it clear that real
 
-it’s a powerful step forward.
+inﬂuence comes from collaboration, not proximity. And the reduction of
 
-This article was originally published online on July 8, 2025.
+back-channel gossip allows genuine trust to ﬂourish.
 
-Ron Carucci is cofounder and managing partner at Navalent, working with CEOs and executives pursuing transformational change. He is the best-selling author of 10 books, including To Be Honest: Lead with the Power of Trust, Justice and Purpose (Kogan Page, 2021).
+One CEO I’ve coached at a global logistics ﬁrm noticed rising tension
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+among his direct reports, often rooted in whispered references to what
 
-8
+was said in private meetings, including ways he’d leveraged what he’d
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+learned in them. He eliminated his 1:1s entirely. Within two quarters,
+
+those “status ﬂexes” disappeared, and the team began naming a new
+
+culture of “leadership without leverage.”
+
+. . .
+
+Ultimately, this isn’t just about meeting eﬃciency. It’s about leadership
+
+eﬀectiveness. The role of senior executives isn’t to manage functions
+
+in isolation. It’s to enable the organization’s full capacity to perform,
+
+adapt, and grow. That requires seeing and leading the seams, not just

@@ -1,7 +1,19 @@
-# reﬂections in real time.
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36ce4a1b8f461b12fcf3a171f39453a5e79638b2
+title: H08VIB-PDF-ENG
+---
+# discussion for consolidation.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+In many workshops, participants are invited to take a moment to think
 
-8
+individually, generating ideas, reﬂecting on key topics, or jotting down
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+thoughts before sharing with the group. Traditionally, these moments
+
+have relied on pen, paper, and personal insight. Today, facilitators
+
+can at certain moments encourage participants to engage AI as a
+
+thought partner, asking questions, exploring ideas, and deepening their

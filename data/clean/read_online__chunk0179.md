@@ -1,21 +1,7 @@
-# Upper
-
-0.0000
-
-0.3502
-
-0.5473
-
-0.0000
-
-0.2175
-
-0.3872
-
-0.0313
-
-0.0880
-
-0.2095
-
-Open Access
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: ef2047847abae3dcedbf1d8df775b87ed184b687
+title: read_online
+---
+# Lower

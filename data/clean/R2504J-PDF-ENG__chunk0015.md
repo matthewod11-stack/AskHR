@@ -1,11 +1,17 @@
-# strategy.
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98d47e15b17d175efa7e87b71b7bf311bd1e7ca6
+title: R2504J-PDF-ENG
+---
+## and the relationships among them on ﬂip charts and slides.
 
-This is when executives must switch from sensemaking to sense giving:
+Once executives reach agreement on a strategy, they need to
 
-They need to transfer their cognitive map of the ﬁrm’s strategy to
+communicate it to other stakeholders, who must understand it and act
 
-the minds of employees and investors. Our research suggests that
+on it. The daily decisions of employees, for example, need to be guided
 
-reinforcing a verbal presentation with a visualization of the strategy and
+by the same understanding of the ﬁrm’s strategy. If they don’t make
 
-how it works is the most eﬀective way to do that.
+diﬀerent choices as a result of a new strategy, then you don’t have a new

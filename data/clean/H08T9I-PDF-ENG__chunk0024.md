@@ -1,19 +1,27 @@
-## HBR / Digital Article / When to Innovate and When to Imitate
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39ac7033bc14ff9eaeb8f4551f9d1c8801eea044
+title: H08T9I-PDF-ENG
+---
+## their performance and move to an equivalent position in the cloud. At
 
-reaching the industry leaders. The South Korean car industry thrived in
+the same time, Lada, a Russian car company, tried to imitate U.S. and
 
-the 1990s, while the Russian did not.
+German cars to improve their performance and achieve the success of
 
-A similar pattern can be seen today in the gaming industry. Tencent
+these industry leaders. But Lada was too far away from the U.S. and
 
-Games, for example, has strategically invested in or imitated games
+German companies to succeed. Imitation is a successful strategy when
 
-developed by close competitors to build its own capabilities. When
+ﬁrms target competitors that are not too distant and live within their
 
-Tencent developed Arena of Valor, a mobile game closely modeled
+imitation radius. Lada would have been better oﬀ engaging in a series
 
-after League of Legends, it targeted a competitor within its imitation
+of jumps, imitating near competitors in a sequence and then ultimately
 
-radius. This approach allowed Tencent to quickly gain expertise in the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-multiplayer online battle arena (MOBA) genre and achieve rapid success
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

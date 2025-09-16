@@ -1,3 +1,25 @@
-# their consultation.
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3dcf4303f4bc1227a1743443535a551c81ba68ff
+title: H08SQS-PDF-ENG
+---
+# HBR / Digital Article / Research: Executives Who Used Gen AI Made Worse Predictions
 
-AI caused overconﬁdence.
+These patterns held true even when we controlled for the most extreme
+
+(high or low) forecasts in our dataset.
+
+AI consultation made predictions worse.
+
+After we conducted our study, we waited a month, and then compared
+
+the predictions the executives had made against actual Nvidia
+
+data. We found that both groups were too optimistic, on average.
+
+However, we found that those who used ChatGPT made even worse
+
+predictions after their consultation. Those who discussed with their
+
+peers made signiﬁcantly better predictions than they’d made before

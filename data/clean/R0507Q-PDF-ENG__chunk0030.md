@@ -1,17 +1,11 @@
-## Other Measures for the Customer’s Perspective
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e1517ddc162b5e37f69f89cd498f6b337f9f4fc
+title: R0507Q-PDF-ENG
+---
+## right quantities at exactly the right time directly to the production
 
-- A computer manufacturer wanted to be the competitive leader in
+process and can minimize, through electronic data interchange, the
 
-customer satisfaction, so it measured competitive rankings. The company
-
-got the rankings through an outside organization hired to talk directly
-
-with customers. The company also wanted to do a better job of solving
-
-customers’ problems by creating more partnerships with other suppliers.
-
-It measured the percentage of revenue from third-party relationships.
-
-- The customers of a producer of very expensive medical equipment
-
-demanded high reliability. The company developed two customer-based
+administrative hassles of ordering, invoicing, and paying for materials.

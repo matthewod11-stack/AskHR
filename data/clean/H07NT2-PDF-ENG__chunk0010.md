@@ -1,21 +1,31 @@
-## HBR / Digital Article / When Blind Hiring Advances DEI — and When It Doesn’t
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4acb96f0adb82565646b5d6bc47c3565f96df339
+title: H07NT2-PDF-ENG
+---
+# the pool.
 
-approach, removing applicants’ names from their materials before
+Organizations using blind hiring policies single out information
 
-letting managers see them. Other types of information, like college
+conveyed in job application materials like resumes and application
 
-graduation years (which communicate age) or hobbies (which can signal
+forms that is irrelevant to the job but could cue unconscious biases in
 
-social class), are similarly candidates for blinding.
+managers. They then strip that information from materials before they
 
-The logic underlying a blind hiring approach is simple: Discrimination
+are reviewed. Names, for instance, communicate nothing about people’s
 
-against members of certain groups cannot occur at a given hiring
+skills but often communicate their gender and/or race; receiving
 
-stage if evaluators at that stage cannot discern applicants’ group
+this information can lead decision-makers to unconsciously favor
 
-memberships. Accordingly, decision-makers tasked with increasing the
+applicants of certain groups, like white people. Thus, an organization
 
-diversity of new sets of hires in their organizations may wonder whether
+concerned about this type of discrimination might use a blind hiring
 
-a blind hiring approach could help them achieve that goal.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

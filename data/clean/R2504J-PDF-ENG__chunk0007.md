@@ -1,7 +1,17 @@
-# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5feb8c09f419359000bc1238d6685ed061630d7
+title: R2504J-PDF-ENG
+---
+## it. And among the acquisitions in our sample one seemingly simple
 
-more than twice as likely to give it an immediate thumbs-up. The
+but signiﬁcant factor emerged: When presentations were accompanied
 
-positive impact of strategy visualizations, as we will call them, on
+by a slide illustrating the strategic rationale for a deal, investors were
 
-postannouncement valuations was four times larger than the impact of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

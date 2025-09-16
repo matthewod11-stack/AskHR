@@ -1,7 +1,7 @@
-## Apologies Can Be Good for the Bottom Line
-
-Companies often send emails apologizing for things like customer
-
-service snafus or mistaken information in prior messages. But does
-
-saying you’re sorry have any impact on how customers feel about your
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a41455a1c513eef9f224eb10a0f9d4044be527e7
+title: H08UMD-PDF-ENG
+---
+# Marketing and Retail

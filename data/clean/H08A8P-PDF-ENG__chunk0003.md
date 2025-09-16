@@ -1,15 +1,27 @@
-## HBR / Digital Article / When a Coworker Keeps Giving You Unsolicited Advice
+---
+source_path: H08A8P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e97dc4c63afee9434a2d18797d187a13a0c85b6
+title: H08A8P-PDF-ENG
+---
+# Westend61/Getty Images
 
-hesitated to share her ideas with Ethan, guarding against unprompted
+“Does it look like I have the words ‘suggestion box’ plastered on my
 
-input that often left her feeling undermined, not supported.
+forehead?” Dana* griped to me in our coaching session. Her colleague
 
-If you’ve ever been in Dana’s shoes, then you know that unsolicited
+Ethan had yet again oﬀered unsolicited input on her new business
 
-advice — even the well-meaning kind — can sometimes feel intrusive
+development initiative. As soon as she laid out her proposal, Ethan
 
-and undermine your conﬁdence. Perhaps in a meeting, a colleague
+burst in with, “Have you considered an email marketing campaign?”
 
-jumps in to suggest diﬀerent ways to interpret data you’re presenting
+and “This is deﬁnitely something you should partner with sales on!”
 
-— seemingly embarrassing you in front of senior leaders. Or maybe
+Over time, his well-intentioned enthusiasm began to frustrate Dana. She
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

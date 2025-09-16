@@ -1,15 +1,22 @@
-# Department of Labor.
+---
+source_path: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded
+  Construction.md
+pages: n/a-n/a
+chunk_id: 70564d068bc1e569e726bf309e64eaab730506ec
+title: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded Construction
+---
+# Correct classiﬁcation and rate of pay;
 
-There are reporting requirements under the Copeland "Anti-Kickback" Act for contractors and subcontractors
+Daily and weekly number of hours worked;
 
-performing on contracts in excess of $2,000 for the construction or repair of public buildings, public works, or
+Deductions made; and
 
-buildings or works supported by the federal government. Each covered contractor and subcontractor must provide the Federal agency contracting oﬃcer with a weekly payroll report of wages paid to each of its
+Actual wages paid
 
-laborers and mechanics during the preceding weekly payroll period. Each weekly statement of wages
+Contractors and subcontractors performing on covered contracts are required to preserve the weekly payroll
 
-submitted shall be a ccompanied by a "Statement of Compliance." Statements of Compliance are to be made
+records for a period of three years from the date the contract is completed. Additionally, contractors and
 
-on the Form WH-347 "Payroll (For Contractors Optional Use)" or on any form with identical wording. The
+subcontractors performing on covered contracts are required to make the payroll records available at all times
 
-weekly payroll report must be submitted within seven days after the regular pay date for the pay period.
+for inspection by the contracting oﬃcer or authorized representative, and by authorized representatives of the

@@ -1,11 +1,19 @@
-# leads into new active card members.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0558693c2e3c312afb78fb101478a2357ad32560
+title: R2406G-PDF-ENG
+---
+## HBR / Magazine Article / Personalization Done Right
 
-As those examples illustrate, getting personalization right has many
+action. They were tasked with a common goal of increasing the speed
 
-components, but a marketer who is reasonably familiar with the
+of testing. Within two months they cut the bank’s traditional 12-week
 
-company’s personalization capabilities can complete a reliable self-
+campaign-development process down to three days. Capitalizing on that
 
-assessment with a 15-minute survey. A full assessment can be done in a
+drastically shorter cycle time, they launched hundreds of new tests,
 
-couple of weeks. We believe that it is worth your time and eﬀort.
+exponentially increasing their rate of learning. Those actions cut the
+
+bank’s credit card churn rates in half and doubled the rate of converting

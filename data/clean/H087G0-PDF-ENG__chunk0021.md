@@ -1,19 +1,17 @@
-# and advancement opportunities.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa80ad6ee9827f57d598a199f1e633c2b3c4cf82
+title: H087G0-PDF-ENG
+---
+## Act (ADA), Australia’s Disability Discrimination Act 1992, and other
 
-How can you determine whether it makes sense to disclose your
+countries’ equivalents can somewhat protect a disabled employee
 
-condition at work? Here are the key steps.
+from blatant discrimination, such as being ﬁred speciﬁcally because
 
-Clarify your priorities. Disclosure involves many uncertainties since you
+of their condition. But it does not prevent more insidious forms
 
-can’t control others’ reactions and biases. Rather than attempting to
+of mistreatment, such as gossip, social exclusion, being assigned an
 
-predict how people will feel, tie your decision-making to your personal
-
-guiding principles. To start, ﬁgure out your nonnegotiable needs for
-
-your health and well-being. A few questions can help:
-
-- 1. What are the health risks? Ask yourself, “Is continuing to work
-
-without necessary accommodations risking my health, safety, or
+impossible workload, or being excluded from professional development

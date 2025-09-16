@@ -1,15 +1,33 @@
-## HBR / Digital Article / How to Bring an Outside CEO into the Family Business
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bc64c22583a57c665b72403244a73d59dca48b92
+title: H07UQT-PDF-ENG
+---
+## with some of these people a second and third time, with discussions
 
-unique features for the new CEO to learn. At Gera, for instance, Rohit
+becoming more speciﬁc and detailed. During these meetings, the new
 
-has a 28-year-old daughter who has studied real estate. Although she is
+CEO should only ask questions and listen. The goal is to determine
 
-relatively young, she is a member of the executive team and hopes to
+how things work, why things are done the way they are, and to absorb
 
-increase her skills and knowledge by working with the new CEO. The
+the answers without passing judgement. (Making snap judgements too
 
-new CEO will need to account for that as he plans for the future, so
+quickly can undermine legitimacy.) To manage expectations, the people
 
-meeting this daughter was an important step during this stage.
+meeting with the new CEO should be prepared for this approach so they
 
-At the end of the listen phase, we asked the new CEO to prepare
+don’t expect the CEO to make decisions at this stage.
+
+The listen month is also a time for the new CEO to become more
+
+familiar with how the executive team has typically interacted with
+
+family shareholders and family employees. Each family business has
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

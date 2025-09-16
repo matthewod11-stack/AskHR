@@ -1,7 +1,13 @@
-# Be intentional.
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5e995e20c972861dc4f9c73bb10f28e0a532591
+title: H08VIB-PDF-ENG
+---
+# How to Start
 
-Proactively ask, “What if we use AI in this group setting?” This allows
+We hope these examples give you many ideas to inspire you to bring
 
-you to shift to an experimental mindset challenging the status quo of
+AI to the table, beyond your individual use. As you start building team
 
-how work is typically done in groups.
+chemistry with AI in various group settings, remember to:

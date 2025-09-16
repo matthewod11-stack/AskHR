@@ -1,21 +1,9 @@
-# above, as the influence of design, content, relevance, appropriateness, and respondents'
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 1b119c86b9a3b2fdb435912ac7e5c58ee6bd4fdc
+title: i
+---
+# customer experience.
 
-understanding and motivation have significant impacts on the quality of data.
-
-Sales performance data. As the ultimate purpose of PA is to drive commercial value, sales
-
-performance is one of the key indicators of employees, who are members of the sales force.
-
-38
-
-Sales performance data reveals factors that foster sales performance and hinder the revenue
-
-stream. This data may include periodic sale value generated from existing or new customers to
-
-evaluate team or personal performance.
-
-Operational performance data: information or metrics that gauge the effective and efficient
-
-functioning. This typically pertains to the organization's efficiency in various operational
-
-aspects. An example of this data is processing time for customer orders or, the duration of a
+The customer satisfaction survey data design should also follow crucial factors mentioned

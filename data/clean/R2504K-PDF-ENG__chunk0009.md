@@ -1,37 +1,17 @@
-## important issues, from product and hiring decisions to operating
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9dec372a406aad59de75ea4d037d33d1565e6961
+title: R2504K-PDF-ENG
+---
+## HBR / Magazine Article / How to Identify the Perfect Cofounder
 
-procedures and fundraising strategy. Being able to process those
+the journey. If those are things you’ve valued in the past, you are likely
 
-decisions together and work through disagreements is essential to a
+to beneﬁt from a partnership.
 
-healthy cofounding relationship. Eliza Becton of Bevi, a smart-water-
+Having cofounders—like being in a committed personal relationship
 
-dispenser startup that I was an angel investor in, shared her ﬁrst-year
+—is a big test of your ability to be vulnerable, handle conﬂict,
 
-experience with her cofounder Sean Grundy: “We fought like siblings
-
-when we disagreed on product direction or company priorities, but it
-
-was always coming from a good-hearted place because we cared so
-
-much about each other and our venture.” Becton and Grundy had a
-
-willingness to lean into healthy discourse. They were open with each
-
-other about the roles they wanted to play at the company, which is
-
-critical in a cofounding relationship. “Because our product was my idea
-
-at the start, Sean advocated for me to be the CEO of the company,”
-
-Becton said. “But it didn’t take long for me to realize that’s not a job I
-
-love. I am a product designer and was much happier focusing there. So
-
-we agreed he’d take that role.”
-
-If the prospect of hashing out roles and compromising on things like
-
-ﬁnancing or product decisions gives you pause, you may need to do
-
-some introspective work before taking on a cofounder, or perhaps go it
+and compromise. Cofounding teams must constantly grapple with

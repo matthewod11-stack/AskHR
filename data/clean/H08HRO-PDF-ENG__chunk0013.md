@@ -1,25 +1,21 @@
-# Ask them a question.
+---
+source_path: H08HRO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 958ebad507012a53ef31a9692f41a366a58201e7
+title: H08HRO-PDF-ENG
+---
+## “ZQs” or “Zero Questioners” and talks about the important balance of
 
-The next step is to actively re-engage your counterpart. Asking a direct
+speaking versus listening in a conversation.
 
-question is the easiest way to capture the attention of someone who
+So maybe it’s you. But maybe it’s not you. It’s easy to assume we’re
 
-seems distracted.
+the cause of someone’s distraction, but often, external factors are at
 
-Try using their name and asking an open-ended question, such as:
+play. Think about what you know about this person. Is something going
 
-“How have you handled this before?” or “What do you think?” These
+on in this person’s life? Are they facing a lot of pressure inside or outside
 
-kinds of open-ended questions require more than just a “yes” or “no”
+of work? Their distraction might have nothing to do with you. Give them
 
-answer, making your counterpart more likely to respond at length.
-
-Once they respond, keep them engaged by asking a follow-up question.
-
-The most powerful follow-up question I like to ask is “Can you tell me
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the beneﬁt of the doubt before responding.

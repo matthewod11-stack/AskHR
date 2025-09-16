@@ -1,5 +1,7 @@
-# Societies
-
-The American Psychological Association was organized in the study of G. Stanley Hall at Clark University.
-
-The British Psychological Society (called The Psychological Society until 1906) was founded at University College of the University of London. In 1965, Queen Elizabeth II granted the Society a royal charter.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 94d2c1f6afe83647783d0aa87bdfd04bcab78787
+title: untitled
+---
+# The International Congress of Physiological Psychology was renamed International Congress of Psychology.

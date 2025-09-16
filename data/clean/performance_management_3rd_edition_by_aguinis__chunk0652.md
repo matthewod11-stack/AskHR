@@ -1,9 +1,15 @@
-## TABLE 4.3 Behavior Approach Versus Results Approach
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b079a9818b4b82ad06b443eafddaad30e34e3a81
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part II • System Implementation
 
-Adopting a behavior approach to measuring performance is most appropriate when
+result, she needs to pick up the papers at a specific time and use the most effective delivery route. If these behaviors are not present, the paper will not be delivered on time.
 
-- The link between behaviors and results is not obvious • Outcomes occur in the distant future • Poor results are due to causes beyond the performer’s control
+- Results show consistent improvement over time. When results improve consistently over time, it is an indication that workers are aware of the behaviors needed to complete the job successfully. In these situations, it is appropriate to adopt a results approach to assessing performance.
 
-Adopting a results approach to measuring performance is most appropriate when
+- There are many ways to do the job right. When there are different ways in which one can do the tasks required for a job, a results approach is appropriate. An emphasis on results can be beneficial because it could encourage employees to achieve the desired outcomes in creative and innovative ways.
 
-- Workers are skilled in the needed behaviors • Behaviors and results are obviously related • Results show consistent improvement over time • There are many ways to do the job right
+Table 4.3 summarizes the conditions under which a behavior or a results approach may be best suited for assessing performance. However, these approaches are not mutually exclusive. In fact, measuring both behavior and results is the approach adopted by many organizations. Consider the case of The Limited, Inc., a retailer head- quartered in Columbus, Ohio.21 The Limited, Inc. now operates 3,500 retail stores and seven retail brands including Victoria’s Secret, Express, The Limited, Bath & Body Works, C. O. Bigelow, The White Barn Candle Co., and Henri Bendel. The Limited aims to foster an entrepreneurial culture for its managers; therefore, managers who thrive in the company have a history of delivering impressive business results. The Limited decided to design a new performance management system that is now used uniformly by all The Limited companies. With the involvement of outside consultants and employees, The Limited developed a performance management system wherein managers are measured on business results including total sales, market share, and expense/sale growth ratio as well as leadership competencies that are tailored to The Limited. A few of these competencies include developing fashion sense, financial acumen, and entrepreneurial drive. Overall, The Limited has been pleased with the new system because it helps align individual goals with business strategy and results. Raters like the new system because behavioral anchors help define the competencies, which make ratings more straightforward. Finally, employees comment that they appreciate the new focus on how results are achieved, as opposed to focusing only on what is achieved (i.e., sales).

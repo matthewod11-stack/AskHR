@@ -1,11 +1,21 @@
-## Harvard Business Review November–December 2021
+---
+source_path: R2106K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a66a9c1f0473b681836d4d7cbbb229469743dcd
+title: R2106K-PDF-ENG
+---
+# FOCUS ON SERVING OTHERS
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Companies can also institutionalize a preemptive type of moral reﬂection—what the psychologist Gary Klein calls a premortem (see “Performing a Project Premortem,” HBR, September 2007). Key decision-makers meet before a project to think through ways in which it could lead to ethical lapses. Consider the experience of a young strategy consultant working in-house for a large health care system. During his ﬁrst year on the job he identiﬁed an opportunity for the system to legally sell anonymized utilization data on a secure third-party marketplace. His colleagues commended him for the idea, but in keeping with the organization’s standard practice, the key decision- makers held a two- to three-hour premortem to ensure that the proposed initiative was ethical and aligned with the organization’s values.
 
-7
+Building a truly ethical culture involves more than just helping people to avoid doing bad things; it also requires empowering them to do good things. Research has shown that serving other people can reduce self-focus and raise awareness of moral concerns. It also contributes to psychological ﬂourishing; studies have demonstrated a link between volunteer service and improved mood and well-being.
 
-to oﬀer their skills, free of charge, to help nonproﬁts better utilize cloud technologies. And they can apply for Salesforce Foundation grants to help organizations they care about. The company reports that since its inception, employees have donated more than 6 million hours of service. It encourages other companies to join it in pledging 1% of equity, time, products, and proﬁts to deserving organi- zations, communities, and causes. Although corporate volunteerism is not a foolproof inoculation against scandal, it’s probably no coincidence that of all the Silicon Valley tech giants, Salesforce has been one of the least tainted by scandal in recent years.
+Universities often provide students with service-learning
 
-Wharton professor Adam Grant has shown that connecting employees with the beneﬁciaries of their work helps them see the positive impact they are having and increases what psychologists call prosocial motivation—a desire to expend eﬀort to help others. Deere & Company has invited farmers to speak to assembly-line workers about the diﬀerence its equipment makes to their farms and families. The ﬁne stationery manufacturer William Arthur has shown employ- ees video testimonials by customers (often the owners of stationery boutiques) expressing gratitude for the reliability and quality of the ﬁrm’s oﬀerings and for how its products help people prepare for some of the most important days of their lives.
+opportunities, such as consulting projects with nonproﬁt organizations, to help them gain practical skills while making a positive diﬀerence in the world and, it is hoped, becoming committed to service along the way. Research ﬁnds that such programs have a spillover eﬀect on moral character. In one study undergraduate students who partic- ipated in a summer service-learning project outperformed their peers on a moral-reasoning assessment.
 
-The Pay It Forward campaign at the Savings Bank of Wal- pole, in which teams of employees are given $700 to perform random acts of kindness in the community, is another good example. The teams then report back and share uplifting stories with their colleagues.
+At the start of the meeting, all participants were asked to identify their strategic goals around the initiative and to reﬂect on how their own agendas might bias their perspec- tive. For example, those representing the organization’s ﬁnancial interests might be motivated to overlook any
+
+Companies can likewise provide opportunities to serve—
+
+something Salesforce has done since its founding, in 1999. Each year employees receive seven paid days oﬀ for volun- teer work in their communities. They are also encouraged

@@ -1,7 +1,17 @@
-# Formalize Stress in Risk Management
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6b95f97ea692e6d2435f86f6132c219730c8dff
+title: H08R2K-PDF-ENG
+---
+# reduction.
 
-To be eﬀective, managing stress as a material liability requires shared
+Based on these insights, we co-designed a habit formation program
 
-ownership. Integrating stress into formal risk management frameworks
+tailored to ﬁt the needs of each region and department. To encourage
 
-ensures regular assessment, reporting, and discussion at the leadership and board levels. In our work, the most eﬀective organizations bring
+regular participation, we created a central leaderboard that celebrated
+
+every time someone chose to show up and engage in these stress-
+
+lowering programs.

@@ -1,9 +1,7 @@
-## Our Stress Risk Thermometer provides a diﬀerent approach. Produced
-
-as a method of analysis for our research study, it delivers a structured,
-
-tiered assessment of employee stress which enables leaders to calibrate
-
-their interventions—prompting targeted strategies when a signiﬁcant
-
-portion of the workforce falls into high-stress zones linked to
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 275e9cc3177631cbe7eeb718c93fa0d7b87d1bc3
+title: H08R2K-PDF-ENG
+---
+## productivity, cost control, and risk exposure.

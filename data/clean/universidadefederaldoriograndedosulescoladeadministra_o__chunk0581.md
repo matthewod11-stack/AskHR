@@ -1,23 +1,11 @@
-## documentações que poderiam tê-lo enriquecido, como o cruzamento dos dados de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: cfa98fda368d5944e2865865ea233a549b1b3897
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# tendo sido atingido o objetivo proposto.
 
-eNPS e desligamentos voluntários da companhia, que a funcionária cita na
+Limitações foram impostas ao desenvolvimento do trabalho pela não autorização da
 
-entrevista como sendo correlacionados. Não foi possível também comprovar na
-
-prática o que os autores estudados afirmaram ser verdadeiro - que o eNPS tem
-
-associação com o engajamento, uma vez que a empresa X não aplica instrumento
-
-específico para mensurar engajamento (como o UWES). Em posteriores estudos em
-
-que se consiga acesso a medições tanto de engajamento quanto de eNPS de
-
-78
-
-empresa real, acredita-se que seria interessante comprovar esta relação também
-
-aqui no Brasil a fim de somar-se com a curta literatura acadêmica mundial a respeito
-
-do tema.
-
-79
+identificação da empresa estudada, restringindo, dessa forma, acesso a dados e

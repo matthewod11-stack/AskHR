@@ -1,9 +1,19 @@
-## For example, during the height of the Covid-19 pandemic, Microsoft
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be651dc9daa8acfe81ecc267d5afa4db06e29bc5
+title: H08R51-PDF-ENG
+---
+# support across teams.
 
-implemented continuous “daily pulse” employee surveys to track well-
+What happens next is equally important: Leaders must share the results
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+transparently and take visible, timely action, such as adjusting project
 
-7
+timelines, reassigning tasks, or oﬀering temporary support during peak
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+periods. These ongoing feedback loops can reduce presenteeism and
+
+burnout as well as build trust by showing employees that leadership is
+
+listening and responding continuously—not just once.

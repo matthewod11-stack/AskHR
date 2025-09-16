@@ -1,11 +1,19 @@
-# future managers and leaders.
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05349871c56cb6204580e2e4069118e873756a48
+title: H07YIA-PDF-ENG
+---
+## HBR / Digital Article / How to Mentor More People — and Not Get Burned Out
 
-- 2. Set expectations with mentees early.
+and protecting time to foster higher-level discussions with individual
 
-Working with a great mentee is rewarding for everyone. Conversely, a
+mentees when needed.
 
-mentee who does not follow through on expectations or whose vision
+We have found that mentees prefer these team-based mentorship
 
-does not align with yours exacerbates mentor fatigue. The lack of
+models because it increases their access to a larger pool of advisors and supports learning more eﬀectively while still giving them the
 
-objective guidelines on when to end a mentor-mentee relationship adds
+conﬁdence that they are under the watchful eye of an expert. It also
+
+allows you to identify members of your team well suited to become

@@ -1,3 +1,7 @@
-# is-dead-long-live-college/
-
-Robert Half Technol. 2011. Social work? More companies permit social networking on the job, Robert Half Technology survey reveals. PR Newswire, May 26. http://www.prnewswire.com/news-releases/ social-work-more-companies-permit-social-networking-on-the-job-robert-half-technology-survey-reveals- 122650448.html
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 16232b4d6548b13356b93dbf79e5311daf03b069
+title: arop1noe_245_275
+---
+# RipleyA.2012.Collegeisdead.Longlivecollege!Time,Oct.18.http://nation.time.com/2012/10/18/college-

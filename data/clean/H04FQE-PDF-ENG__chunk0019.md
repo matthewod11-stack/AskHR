@@ -1,19 +1,17 @@
-# HBR / Digital Article / How Managers, Coworkers, and HR Pressure Women to Stay Sile…
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 812a97d6f453f3376460b7fb3e298692301985e0
+title: H04FQE-PDF-ENG
+---
+# Ending Complicity with Harassment
 
-of various third-party actors. Each of these cases shows how managers,
+Based on our ﬁndings, we argue that sex-based harassment isn’t just a
 
-HR, and colleagues can be complicit in silencing people who experience
+result of one individual’s actions: It’s accomplished by the complicity
 
-harassment, encouraging them to trust the system and urging them to
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-keep these experiences to themselves.
+5
 
-This complicity not only provided a safe haven for perpetrators to
-
-operate, as they were spared punishment, but also made victims feel
-
-confused, unsupported, and, ultimately, compelled to acquiescence. As
-
-victims felt demoralized, they disengaged from work and from the social
-
-fabric of the workplace, behavior that is known to hurt productivity,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

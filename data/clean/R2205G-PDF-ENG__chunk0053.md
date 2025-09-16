@@ -1,1 +1,23 @@
-# 8 Harvard Business Review
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0248527e5efe14740f1aa85a05facb97bfd6014a
+title: R2205G-PDF-ENG
+---
+# Childcare Support
+
+Managers can prepare for leaves by cross-training workers so that when someone has to take time oﬀ, others will be ready to step in. Cross-training provides plenty of knock-on beneﬁts, too, such as increasing employee retention and making teams more agile in the face of changing demands. A leave policy thus costs employers little beyond the time it takes to coordinate coverage while workers are away.
+
+More and more employers are wise to the beneﬁts of sup-
+
+porting workers who need leaves. A growing number even pay staﬀ members during leaves—an unimaginable luxury a generation ago. Nordstrom now oﬀers new parents six weeks of pay, with birth mothers getting another six. Walmart gives new parents the same baseline. Target oﬀers new parents four weeks, with birth mothers getting another six to eight. Big retailers are starting to ﬁgure out that leaves pay oﬀ. That said, fewer than 10% of low-wage workers are eligible for any pay during family and medical leaves.
+
+Tech ﬁrms have taken things up a notch. Since 2015, Netﬂix has oﬀered salaried workers up to a year of paid parental leave. Meta provides full pay for four months, to be taken all at once or intermittently. And when Google (now Alphabet) extended its 12-week paid leave to 18 weeks, it cut in half the number of new mothers who quit. (The company recently increased paid leave for new mothers to 24 weeks.) How does the introduction of a family-leave policy aﬀect management diversity? For paid leave it’s hard to say, because most of the ﬁrms we contacted didn’t provide it. What’s easier to determine is what happens when ﬁrms introduce at least 12 weeks of unpaid leave: It signiﬁcantly boosts the number of white and Black women and Hispanic and Asian American men in management. (Positive eﬀects
+
+Finding childcare is a big hurdle for Black, Hispanic, and Asian American parents. While the cost of sending two children under age 5 to a childcare center is 29% of the median income for all American families, it is 42% of the median for Hispanic families and 56% of the median for Black families. Not surprisingly, Black women are nearly twice as likely as white women to have quit a job, refused a job oﬀer, or “greatly changed their job” because of childcare problems. And since the start of the pandemic, it has gotten harder for many parents of color to get aﬀordable child- care because they have seen sharp declines in income and because many providers in their communities have closed permanently.
+
+Corporate childcare support programs vary greatly, of course. We’ve examined the eﬀects of three common kinds: referral services (the least-expensive option); vouchers (a middle-range option); and company childcare centers (the most expensive option).
+
+Referral services. Such programs provide contact infor- mation for local childcare centers, usually in online listings where openings are regularly updated. They’re the most common type of childcare support, oﬀered today by about 40% of all U.S. employers and 60% of large employers. Small employers sometimes build provider lists from employee suggestions, but large employers often use a national vendor like WFD Consulting to cover all their sites.
+
+Referral programs provide no ﬁnancial help, but they signal that an employer wants to help workers solve their childcare problems. They make childcare concerns a normal part of workplace discussions, and they’re strikingly eﬀective: At companies that introduce them the number

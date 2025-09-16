@@ -1,29 +1,39 @@
-## Inclusive cultures foster participation in healthy office politics
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa0aa9445073ee644a509476c09b3d88c21dfea1
+title: H07268-PDF-ENG
+---
+## HBR / Digital Article / Office Politics Don’t Have to Be Toxic
 
-The good news is, not everyone we interviewed experienced oﬃce
+their peers “played the game” that was “all about trying to get the other
 
-politics negatively. Some people shared stories of supportive cultures
+person down.”
 
-in which managers proactively included minority employees in the types of political activity necessary to build relationships, be eﬀective
+In response to these toxic cultures, many of the people we talked to
 
-in their jobs, and advance in their organizations. For example, one
+disengaged from politics, keeping their heads down and redoubling their work eﬀorts rather than joining the political melee. For example,
 
-participant explained how their boss “ensured that [career growth]
+one interviewee told us that participating in their workplace’s oﬃce
 
-was made easier, because she had done the engaging with all the
+politics meant “you’re willing to bend the rules and you’re willing to
 
-right stakeholders beforehand.” Managers in these workplaces actively
+bully, you’re willing to step on people, and morally, to me, I don’t
 
-nurtured employees, leveraging politics to build connections rather
+agree with that, so I would not be part of that social club, so I haven’t
 
-than keep people down: “Well, I wouldn’t like to use the word
+[progressed].” Another explained, “I didn’t get involved in the politics;
 
-politics,” another participant reﬂected. “It’s more like having a proper
+just did a good job and that was it.” Some even sought to leave their jobs
 
-and professional relationship with the people in authority; [they]
+entirely: “I wasn’t conﬁdent I would succeed because of the cliquiness of
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+the organization,” a participant shared, “so I looked for jobs elsewhere.”
 
-3
+These reactions are understandable — but the problem with avoiding
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the political arena is that it can lead employees to miss out on the vital
+
+development opportunities and relationships they need to get things
+
+done and advance their careers.

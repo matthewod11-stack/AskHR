@@ -1,7 +1,9 @@
-## the organization through areas of ever-increasing specialization. Apple’s
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 614d58a6e29b763b26df1e8f701863b53e31444b
+title: R2006F-PDF-ENG
+---
+## manage hardware, software experts software, and so on. (Deviations
 
-leaders believe that world-class talent wants to work for and with other
-
-world-class talent in a specialty. It’s like joining a sports team where you
-
-get to learn from and play with the best.
+from this principle are rare.) This approach cascades down all levels of

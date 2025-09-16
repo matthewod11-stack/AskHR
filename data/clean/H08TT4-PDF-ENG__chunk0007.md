@@ -1,9 +1,11 @@
-# focus on action.
+---
+source_path: H08TT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86301c25d50b9ac84953596a6b62bbc87e42810d
+title: H08TT4-PDF-ENG
+---
+# Focus on Action
 
-For example, take the following two statements:
+Powerful leaders must deliberate on important decisions, weighing pros
 
-Neutral: There are several options in front of us. If we go with option
-
-A, we may secure our reputation with existing customers. On the other
-
-hand, if we go with option B, we may have an opportunity to expand our
+and cons with input from others. But when they communicate, they

@@ -1,9 +1,7 @@
-# Big Cheese Photo/Getty Images
-
-The blurring of boundaries between people’s jobs and personal lives,
-
-exacerbated by the pandemic, can make it feel like the workday never
-
-ends. The burnout that results from never quite feeling unplugged has
-
-become a major drain on workers and businesses, reducing employee
+---
+source_path: H08PTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a7b95cef5146e23428a3f4a377fd9d7f0828e7c9
+title: H08PTC-PDF-ENG
+---
+## Published on HBR.org / May 12, 2025 / Reprint H08PTC

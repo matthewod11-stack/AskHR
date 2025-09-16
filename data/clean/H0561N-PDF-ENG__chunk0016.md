@@ -1,17 +1,13 @@
-# Gender Equality Gaps by Dimension
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c4983a122c3df6c6e3816540b5e67dbadce53f5
+title: H0561N-PDF-ENG
+---
+## parliamentary positions, and the ratio of years that women and men
 
-The gaps between men and women across all of these measures are
+have served as presidents or prime ministers in the last half century
 
-slowly getting smaller. In 2018 the WEF report showed that 68% of the
+Below is a closer look at each of these dimensions, followed by how
 
-overall gap is closed, a slight rise from about 65% in 2006. Much of
-
-that has to do with educational attainment and health, where gender
-
-diﬀerences have almost vanished. But two key areas of power and
-
-inﬂuence still haven’t caught up: political empowerment and economic
-
-participation and opportunity. Women hold a mere 34% of managerial
-
-positions worldwide, and fewer than 10% of countries have women as
+diﬀerent regions compare.

@@ -1,3 +1,9 @@
-# Management Support
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 7e8f5907ef74971cf282e363a9675b9364c2e06d
+title: document_resume
+---
+# Performance Appraisal
 
-When beginning the implementation phase of a performance appraisal program, often the president or another administrator makes appropriate comments at a convoca- tion or issues a letter pledging his/her support. All this is tine if preceded by intimate involvement in the developmental phase and followed by a demonstrated personal commitment. If performance appraisal is to be taken seriously, managers and supervi- sors at all levels of the institution must be conscientiously involved. In fact, how well they accomplish this task should be reflected in their performance ratings.
+should address such critical issues as job analysis, criterion de\ elopment, instrumenta- tion, procedures, and purposes Without evidence of validity, even systems designed by "experts" are likely to be rejected by the courts.

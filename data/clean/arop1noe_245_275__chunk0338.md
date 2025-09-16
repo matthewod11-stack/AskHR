@@ -1,15 +1,9 @@
-# New York: Oxford Univ. Press
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 3366defb0c772475ed7ecc330759d74c1c5fb27a
+title: arop1noe_245_275
+---
+## positive psychological capital. Hum. Resour. Dev. Q. 21:41–67
 
-Malaby T. 2006. Parlaying value: capital in and beyond virtual worlds. Games Cult. 1:141–62
-
-www.annualreviews.org (cid:1) Learning in Today’s Workplace
-
-Shows that career mentoring facilitated perceptions of organizational support for development.
-
-271
-
-6 2
-
-: 5 2 : 4 0
-
-5 2 0 2
+Luthans F, Youssef CM, Avolio BJ. 2007. Psychological Capital: Developing the Human Competitive Edge.

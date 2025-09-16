@@ -1,1 +1,13 @@
-# 3
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: 10321bbab137b879ee95609e1d3ff186f7cf2208
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+# Social exchange and LMX theories
+
+When hypothesising the differences in work-related outcomes between employees who receive formal coaching from their supervisor versus those that do not, we draw on Social Exchange Theory (Blau, 1964) and the related Leader-Member Exchange Theory (Dansereau et al., 1975) because workplace coaching for improved performance can be understood as a social exchange between an employee and their supervisor (Ali et al., 2018; Wagstaff et al., 2018). SET and LMX are widely used in the literature to explain how workplace coaching enhances work-related attitudes and behaviours (e.g. S. Kim & Kuo, 2015; Tanskanen et al., 2019).
+
+According to SET, when an employee perceives coaching from their supervisor as a valuable job resource, they experience a ‘felt obligation’ (Haar & Spell, 2004, p. 1041), motivating the employee to reciprocate with positive attitudes, behaviours, (i.e. increased effort) (Batson & Yoder, 2012; Ribeiro et al., 2021). Such exchanges benefit the employee, their supervisor, and the organisation alike. Unlike economic exchanges, where work is done for payment, SET explains voluntarily reciprocity (Blau, 1964). Similar to economic markets, social goods and services (e.g. loyalty, support, information, and status) are negotiated through interpersonal interaction, with reciprocity as the foundation (Weer et al., 2016). Mutual respect and satisfaction strengthen social exchange relationships, making ongoing reciprocity more likely (Blau, 1964). In the workplace, SET reflects the employee’s obligation to repay valued support from their organisation or supervisor (Haar & Spell, 2004).
+
+LMX (a branch of SET), describes the exchange relationship between supervisors and each of their direct reports (Dansereau et al., 1975). At its core, LMX suggests leadership operates through vertical dyadic relationships, where leaders exchange job resources (e.g. inside information, interesting work assignments, or workplace coaching) for employee support and loyalty (Ali et al., 2018; Dansereau et al., 1975). Workplace coaching relies on an exchange dynamic between supervisors and employees (Hagen & Peterson, 2014). Wang (2013) supports this, noting that workplace coaching can foster high-quality LMX, as employees perceive their supervisor’s investment in their development. Similarly, Batson and Yoder (2012) suggest employees may deliver superior performance in

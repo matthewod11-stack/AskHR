@@ -1,9 +1,7 @@
-# Andy Crawford/Getty Images
-
-Walmart will soon offer better parental leave than most U.S.
-
-companies. The new policy for biological parents, announced in
-
-January, will go into effect on March 1, according to a company
-
-spokesperson. The company already has rolled out a more generous
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af3e4c189ba1a7851d183386ad3b2fb6640db019
+title: H0477B-PDF-ENG
+---
+## Published on HBR.org / March 01, 2018 / Reprint H0477B

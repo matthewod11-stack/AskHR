@@ -1,11 +1,19 @@
-# high-potential employees.
+---
+source_path: H07YLQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 75343ba3c56a0b253bbeb4d55e7147b1e39d5097
+title: H07YLQ-PDF-ENG
+---
+## HBR / Digital Article / Are You a “Bottleneck Boss”?
 
-This article was originally published online on December 22, 2023.
+gap analysis to inform any action items. Finally, keep recalibrating
 
-Greg Alexander is the founder of Collective 54, a community dedicated to helping professional services ﬁrms grow, scale, and exit. Prior to founding Collective 54, Greg started, scaled, and sold a consulting ﬁrm for nine ﬁgures. In addition, he is the author of The Boutique: How To Start, Scale, And Sell A Professional Service Firm and the host of the podcast of the same name. Greg received his undergraduate degree from the University of Massachusetts and his MBA from Georgia Tech.
+your benchmarks regularly (not haphazardly) so you don’t miss any
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+emerging opportunities or red ﬂags.
 
-5
+Every business needs a succession plan; to do that, you might just have
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to check your bottleneck tendencies at the door. If you’re that person,
+
+you should be working on tomorrow and handing over today to your

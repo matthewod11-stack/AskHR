@@ -1,17 +1,7 @@
-# Roos Koole/Getty Images
-
-Liza, an emergency medicine physician, had a fever and a persistent
-
-cough, but rigid shift requirements left her little ﬂexibility. Returning
-
-from maternity leave recently, she worried that calling out sick would
-
-brand her as “less committed,” so she worked despite exhaustion,
-
-potentially exposing her patients and coworkers.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f7646e85043385d90c7d9254298a37eb9081427
+title: H08R51-PDF-ENG
+---
+## Published on HBR.org / June 3, 2025 / Reprint H08R51

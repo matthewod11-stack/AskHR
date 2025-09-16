@@ -1,5 +1,9 @@
-# profitability, competitiveness, service, quality, brand and investment in the longer-term.
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 8ee9c65cea8bc5fe5db257b7f4d003deacb417d4
+title: final_2019_jan_feb_jbs_pmd
+---
+# Key Words: Talent, Talent development, Talent management, Talent development tool
 
-Moreover, the issue of the shortage of talent is almost global. Michaelset al., (2001) found that organizations around the world have little choice but to strive for the same group of talented people with the similar tools, tactics, and perspectives employed by many other organizations. This has led to certain unfair and illegal practices like poaching of talents. In an era of internationalization, where talent and intellectualism are preferred as the principal medium of exchange, developing talent has become pre-requisite for making a fortune because it is the talented people who wil l make your customers choose your brand and support your business.
-
-The notion of developing talent is not new; there has always been a need for talented employees since eternity. But, the crunch for talented employees has only hit the business sector today because of the paradigmshift of human resource. Norma D’Annunzio-Green (2008) revealed that since mobility
+- 1. Introduction Human capital is regarded vital for an organization in order to gain edge over its competitors (Price, 2004); an indispensable entity that is available for a premium for organizations and becoming scarce resource (Kim and McLean 2012; Pruis 2011; Lockwood 2006)every passing day. It is illustrated in Talent Shortage Survey conducted by ManpowerGroup in 2018 that reported shortage of talent for the key leadership roles in 67% of the large organizations across the world. These talent ‘gaps’, ‘crunch’ or ‘shortage’ have hindered the business advancement (Collings and Mellahi 2009) by impacting on its operating costs, bottom-line Rajeev Ranjan Mishra* Research Scholar, Faculty of Hospitality & Tourism, Amity University, Uttar Pradesh Dr. Piyush Sharma** Associate Professor, Faculty of Hospitality & Tourism, Amity University, Uttar Pradesh Dr. Sanjeev Kumar*** Assistant Professor, IHTM, M.D. University, Rohtak

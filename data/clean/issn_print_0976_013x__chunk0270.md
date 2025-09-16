@@ -1,9 +1,15 @@
-# availability, redundancy, mobilization of resources, collaboration, and supply chain structure
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: b6897c2b1e9f772b96f05f307fecac8c7b3ea1c1
+title: issn_print_0976_013x
+---
+# perspective) and beyond restoration towards further development (safe-fail design from
 
-knowledge. Significant overlaps have been identified in literary studies dealing with
+ecological perspective) of novel capabilities with better strength can be identified in various
 
-resilience definition and capabilities and a better perspective considering resilience as an
+interpretations of literary study (Coutu, 2002; Fiksel, 2006 & Vogus and Sutcliffe, 2007). The
 
-adoptive and evolving nature guiding supply chains to consider sense, respond, control,
+most grounded enablers of resiliency in the supply chain have been suggested in the review
 
-recover and evolve to a more robust state, thus, gaining competitive advantage.
+work carried out by Ponis and Koronis (2012), such as agility, flexibility, velocity, visibility,

@@ -1,11 +1,19 @@
-# York: Appleton-Century-Crofts.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 16ebfdb1a1ec39f4dda40c1f2d600d3fd128e01a
+title: untitled
+---
+# Philosophical Review, 7, 449–465.
 
-Tolman, E. C., & Honzik, C. H. (1930). Introduction and removal of reward, and maze performance in rats. University of California Publications in Psychology, 4, 257–275.
+Titchener, E. B. (1901–1905). Experimental psychology, a manual
 
-Tolman, E. C., Ritchie, B. F., & Kalish, D. (1946). Studies in spatial learning. I: Orientation and the short cut. Journal of Experimen- tal Psychology, 36, 13–25.
+of laboratory practice. New York: Macmillan.
 
-Tuddenham, R. D. (1962). The nature and measurement of intelligence. In L. Postman (Ed.), Psychology in the making (pp. 469–525). New York: Knopf.
+Todes, D. (1997). From the machine to the ghost within: Pavlov’s transition from digestive physiology to conditional reﬂexes. American Psychologist, 52, 947–955.
 
-Underwood, B. J. (1957). Interference and forgetting. Psychological
+Tolman, E. C. (1922). A new formula for behaviorism. Psychologi-
 
-Review, 64, 49–60.
+cal Review, 29, 44–54.
+
+Tolman, E. C. (1932). Purposive behavior in animals and men. New

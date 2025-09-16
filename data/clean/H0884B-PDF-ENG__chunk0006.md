@@ -1,19 +1,21 @@
-# How to Make a Request
+---
+source_path: H0884B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3794039a913f311464b34edd23112638fdc343a1
+title: H0884B-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways to Make a Request That Doesn’t Feel Coercive
 
-Here are three research-backed suggestions for how to elicit a more
+As an alternative approach, then, how might requesters formulate
 
-voluntary “yes” when making a request:
+requests that leave targets feeling more empowered to make their own
 
-Give people time to respond.
+genuinely voluntary choices? A common strategy requesters use is to
 
-It can be hard for people to come up with the words to say “no”
+add something along the lines of “but you are free to say no” at the end of a request. Yet research ﬁnds that such assurances have little eﬀect on
 
-when they are put on the spot. The loss for words we experience in
+how free targets actually feel to say no. Targets generally know they can
 
-the moment can ultimately make agreement feel like the path of least
+turn down a request; the real problem is knowing how to do so — that is,
 
-resistance. To ensure that someone isn’t agreeing simply because they didn’t have enough time to come up with the words to say “no,” oﬀer
-
-them time to think. You can do this by making your request and then
-
-adding, for example, “Don’t answer right now. Think about it and get
+ﬁnding the words in the moment to say no while saving face.

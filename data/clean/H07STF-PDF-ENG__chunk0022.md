@@ -1,9 +1,27 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6ac88f626a077f3899b51d60401c93f81ea8d013
+title: H07STF-PDF-ENG
+---
+# right?
 
-People try to solve this by going back to school, and that can help a lot
+One person I’ve been interviewing extensively over the last couple years was chief compliance oﬃcer at her organization, and she’s become
 
-by rounding you out. But what everyone forgets is that it’s not always up
+a documentary ﬁlmmaker. She had to start at the bottom, as an
 
-and up. So you’re seeing, “Okay, I’m here. If I make a change, I’m going
+apprentice. It depends.
 
-to be here. Whereas I can continue moving up,” and that may well not be
+Other people move into something that’s more adjacent, maybe doing it
+
+more entrepreneurially. And they don’t have to, they can really leverage
+
+the skillset and the experience that they’ve had, albeit in a very diﬀerent
+
+role and setting. It depends a lot.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

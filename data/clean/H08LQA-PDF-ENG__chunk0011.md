@@ -1,39 +1,17 @@
-# workers.
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94ecb9afff75dafdcbef80434775f0a3ba752bb9
+title: H08LQA-PDF-ENG
+---
+## My research highlights two ways that group performance improves
 
-A sabbatical can reveal the full breadth of someone’s role and
+when employees are able to take sabbaticals.
 
-responsibilities in a way that regular, shorter vacations can’t, because
+Clarifying responsibilities. In many organizations, it’s not always clear
 
-all the duties of the leave-taker must be transferred to other people
+who’s doing what, and when. A job description rarely represents an
 
-while they’re gone. The duration of the absence creates a revelation
+employee’s full contribution, particularly when they have long tenures
 
-for both the employee and the employer. As they work together to
-
-outline, hand oﬀ, and adjust work before and after the sabbatical (and
-
-as colleagues adjust during the sabbatical), tasks that are unnecessary
-
-are often eliminated and tasks that were delegated often stay that way.
-
-In this way, work is streamlined and both individual and company
-
-performance is enhanced.
-
-Retaining talent. People almost always return from a sabbatical with
-
-more energy and less stress — a clear win for organizations. Many
-
-also return with fonder feelings toward the organization that allowed
-
-them the break. It’s true that some might have used their time oﬀ
-
-to reﬂect on areas of work where they are dissatisﬁed, which might
-
-prompt a conversation about responsibilities and compensation upon
-
-their return. But even that can be a good thing for companies and the
-
-long-tenured high performers they want to keep, especially those who
-
-are underpaid relative to their market value and are thus an unseen
+and retain duties tied to previous roles. This lack of clarity can lead to ineﬃciency and redundancy, not to mention frustrated and burned-out

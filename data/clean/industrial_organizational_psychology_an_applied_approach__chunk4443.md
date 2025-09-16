@@ -1,11 +1,19 @@
-## Smith, F. R., & Fortunato, V. J. (2008). Factors inﬂ uencing
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9675072a9a3becb6ec36879c0170f3a6acca8354
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Smith, B. N., Hornsby, J. S., Benson, P. G., & Wesolowski, M.
 
-employee intentions to provide honest upward feedback ratings. Journal of Business and Psychology, 22, 191–207. Smith, L., & Folkard, S. (1993). Th e perceptions and feelings of shiftworkers’ partners. Ergonomics, 36(1), 299–305. Smith, L., Totterdell, P., & Folkard, S. (1995). Shiftwork eﬀ ects
+(1989). What is in a name: Th e impact of job titles on job evaluation results. Journal of Business and Psychology, 3(3), 341–351.
 
-in nuclear power workers: A ﬁ eld study using portable computers. Work and Stress, 9, 235–244.
+Smith, C., Reilly, C., & Midkiﬀ , K. (1988, August). Psychometric evaluation of circadian rhythm questionnaires with suggestions for improvement. Paper presented at the annual meeting of the American Psychological Association, Atlanta, GA.
 
-Smith, M. (2001, September). Th e employee grapevine: What employers can learn from it. IPMA News, pp. 10–11. Smith, M. (2003a, January). Employee health aﬀ ects more than
+Smith, D. E. (1986). Training programs for performance
 
-the bottom line. IPMA News, pp. 8–10.
+appraisal: A review. Academy of Management Review, 11, 22–40.
 
-Smith, M. (2003b, January). Repetitive motion injuries and
+660
+
+references

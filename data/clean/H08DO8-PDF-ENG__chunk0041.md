@@ -1,9 +1,11 @@
-# MK
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3136a338e53ba508aa3634c1f6d9576205c3139
+title: H08DO8-PDF-ENG
+---
+## your strategic thinking and decision-making.
 
-Marek Kowalkiewicz is a Professor and Chair in Digital Economy at QUT Business School in Brisbane, Australia. He was a Founding Research Manager of SAP’s Machine Learning lab in Singapore, a Global Research Program Lead at SAP Research, and a Research Fellow at Microsoft Research Asia. His new book is “The Economy of Algorithms: AI and the Rise of the Digital Minions“. He writes a weekly newsletter, “The Economy of Algorithms“.
+This article was originally published online on September 11, 2024.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Graham Kenny is the CEO of Strategic Factors and author of Strategy Discovery. He is a recognized expert in strategy and performance measurement who helps managers, executives, and boards create successful organizations in the private, public, and not-for-proﬁt sectors. He has been a professor of management in universities in the U.S. and Canada.

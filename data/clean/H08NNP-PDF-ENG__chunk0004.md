@@ -1,21 +1,13 @@
-## HBR / Digital Article / When AI Gets a Board Seat
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff15008490e1e11c45143706ad04377d73b8d76e
+title: H08NNP-PDF-ENG
+---
+# control, and market intelligence.
 
-Impressive though such results are, the studies we are aware of have
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-all been conducted under artiﬁcial laboratory conditions. Extrapolating
+1
 
-these to real-world conditions is far from straightforward. Executives in
-
-the wild face unframed and shifting challenges, often with insuﬃcient
-
-or inaccurate data.
-
-We wanted to understand: What happens if we take AI out of the lab
-
-into a real company? Over the past year we joined a series of executive
-
-team meetings at Giesswein, an $85 million revenue company based in
-
-Austria, that sells organic, eco-friendly wool sneakers. Our idea was to experiment with diﬀerent ways of integrating AI into their executive
-
-meetings to understand what works and how.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

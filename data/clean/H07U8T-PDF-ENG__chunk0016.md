@@ -1,9 +1,35 @@
-## HBR / Digital Article / Do You Manage Too Many People?
+---
+source_path: H07U8T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c08b012ce862d616fa38e54b9a701c9bc9851904
+title: H07U8T-PDF-ENG
+---
+# Connect and offer support
 
-development opportunities for people on your team who want to move
+The more direct reports you have, the harder it is to give each of them
 
-ahead. In particular, look for two-for-one opportunities that both help
+personal attention. Yes, you’re stretched thin and you’ve got a lot on
 
-them grow and free up some of your time. “You’ll get work done that’s
+your plate, but when you come across as too busy for your employees,
 
-important to the organization and create visibilty for your up and
+you make them feel as if they don’t matter. “If your subordinates think
+
+you’re too busy for them, you’ll lose your grip and your ability to lead,”
+
+says Gupta. Instead, “you want them to feel that you have time and
+
+energy for them and that you have their back.”
+
+When you’re one-on-one with team members, give them your full
+
+attention. Put away your phone and ignore your notiﬁcations, so you
+
+can be fully present. Celebrate their victories and successes. “Let them
+
+know they’re valued,” he says. McDowell recommends seeking out
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

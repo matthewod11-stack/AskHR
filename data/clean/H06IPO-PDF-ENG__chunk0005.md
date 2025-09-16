@@ -1,17 +1,51 @@
-# critical to performance.
+---
+source_path: H06IPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff0652e20942ab24f4ec981b94317929769eaf6e
+title: H06IPO-PDF-ENG
+---
+# HBR / Digital Article / Managers: Compassion and Accountability Aren’t Mutually Exc…
 
-Don’t ignore the reality
+employees as “being lenient,” Hill says to think of it as “being ﬂexible,
 
-Now that we’re 18 months into this crisis, and many people are trying
+which is the right thing to do.”
 
-to return to some semblance of normalcy in their lives, you might
+And reframe how you think about motivating employees
 
-assume that you can go back to a pre-pandemic level of productivity.
+You may also need to rethink your assumptions about what motivates
 
-But don’t ignore the fact that most people are still feeling burned out. “We are all depleted,” says Dutton, and reopening oﬃces isn’t going to
+employees. If you see compassion and accountability as opposite sides
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+of a coin, says Dutton, you’re thinking about it wrong. Many managers
 
-3
+believe they need to be tough to get people to produce, but the research
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+doesn’t support that. In fact, adding stress to an employee’s workday
+
+can result in what’s called a “threat rigidity eﬀect,” where people who
+
+feel they’re under threat focus on what they already know how to do and
+
+fail to be creative or innovative.
+
+You may be able to “extract labor” from people in the short term, says
+
+Dutton, but over the long term, it has the opposite eﬀect. In other words,
+
+coming down hard on people rarely works, especially if they’re already
+
+suﬀering. “At a purely instrumental strategic level, you’re not going to
+
+get the results you want if you add stress to people’s lives,” says Jacob
+
+Hirsh, an associate professor at the University of Toronto. He says that
+
+part of a manager’s job is to create a psychologically safe workplace
+
+— and if you do that for your team members, it will be far easier to
+
+then ask them to do their part. According to Dutton’s research, “People’s
+
+response to compassion is often to invest more in the organization.”
+
+So being compassionate and caring is not just a nice thing to do — it’s

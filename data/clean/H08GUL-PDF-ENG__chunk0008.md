@@ -1,19 +1,27 @@
-# attractiveness in the ﬁrst round.
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2eee4d15eca8fe797f3bced397ff2c896f87ce2
+title: H08GUL-PDF-ENG
+---
+## HBR / Digital Article / How 3 Companies Are Using AI to Mimic Expert Judgement
 
-According to Josef, the tool was developed through a combination of
+What the company did: Bavaria Ventures wanted speedier and more
 
-machine learning (speciﬁcally, a “random forest” algorithm that uses
+accurate assessments of startups based on what its managing partners
 
-decision trees to make predictions) and deep learning in the form of
+believed were the most promising ones. Rather than continue to train
 
-natural language processing.He explained how it works. “The solution
+junior analysts in the hope that they’d transfer the company’s decision-
 
-ranks applications according to their ﬁt with what we’re looking for. A
+making template into accurate assessments, Bavarian Ventures turned
 
-senior analyst periodically reviews the results to see if he or she wishes
+to producing a hybrid expert system which it labelled AI-4-VC. “The
 
-to overrule the algorithm. If the senior analyst does, then this is taken
+ﬁrst step,” says Josef, “was to turn to a university for help in developing
 
-in by the algorithm and the weighting of criteria is adjusted. The expert
+a solution that facilitated a faster and more accurate ranking of
 
-system implements any change in preferences among the managing
+startup applications.” This was designed to mimic how an experienced
+
+managing partner of Bavaria Ventures went about assessing a startup’s

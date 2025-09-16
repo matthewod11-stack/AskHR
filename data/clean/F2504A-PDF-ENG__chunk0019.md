@@ -1,7 +1,9 @@
-# organizational structure?
+---
+source_path: F2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca806607157f3142f28866eeffe8866feec5bde3
+title: F2504A-PDF-ENG
+---
+## HBR / Magazine Article / How AI Is Redefining Managerial Roles
 
-I think we were already on a path to
-
-flattening. Society is shifting to a skills-
-
-based workforce. We are beginning to
+Has gen AI helped flatten your

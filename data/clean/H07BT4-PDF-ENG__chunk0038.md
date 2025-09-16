@@ -1,7 +1,15 @@
-# skill transferability.
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f68aca77574301147e336008dd5af955d1681ec1
+title: H07BT4-PDF-ENG
+---
+# “career lattice.”
 
-The very existence of a career lattice signals a commitment to helping
+A career lattice incorporates traditional career path advancement, but
 
-employees envision a bright future within the organization, but lattices
+adds more opportunities to gain experience and skills training in
 
-are hardly the only way to signal a genuine investment in seller
+related, parallel roles. It clariﬁes role responsibilities using consistent
+
+language to describe skill requirements and allowing sellers to assess

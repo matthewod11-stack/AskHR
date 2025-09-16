@@ -1,9 +1,13 @@
-## HBR / Digital Article / The Unintended Consequences of Asking for Employee Input
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec269a28b0ddcb48c6c6609233ddb108fc75d4f3
+title: H06V9A-PDF-ENG
+---
+# opinions.
 
-However, our new research (forthcoming in the Journal of Applied
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-Psychology) suggests that the approach many managers take when
+1
 
-trying to create such an environment — that is, actively inviting
-
-employees to provide their input — can have unintended negative
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

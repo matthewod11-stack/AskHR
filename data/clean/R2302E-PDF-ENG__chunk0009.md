@@ -1,47 +1,35 @@
-## HBR / Magazine Article / You Need Two Leadership Gears
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab82ba8b13166b29375b8a79a5f50557ff679143
+title: R2302E-PDF-ENG
+---
+## power) or “ﬂat” mode (in which the leader levels the hierarchy and
 
-based them on advice from members who had less expertise than he
+shares power), they run into trouble. Teams ruled by overbearing
 
-did.
+leaders who issue commands don’t generate the innovative, creative
 
-The most successful leaders and teams rarely get stuck. That’s what we
+thinking that is the lifeblood of companies. When we did in-depth case
 
-found in our study of 258 virtual teams that were competing to develop
+studies of 10 start-ups, we found that those trapped in a top-down
 
-ideas for a new start-up. We ran that competition with help from the
+mode had CEOs who said things like “If I’m paying them, they’re
 
-Stanford Graduate School of Business, which provided the funding for
+supposed to do whatever I tell them.” Such CEOs didn’t have the
 
-the prizes. Leading venture capitalists judged the teams’ performance.
+skill, credibility, and trust needed to get ideas and suggestions from
 
-We discovered that teams that routinely shifted between “one person
+employees. In contrast, ventures stuck in ﬂat mode lacked the crisp decision-making, disciplined coordination, and eﬃcient action that
 
-clearly takes the lead” and “we all participate equally” outperformed
+drive good implementation. One CEO, for example, constantly deferred
 
-those that operated in just one of those modes.
+to his team and kept asking for feedback and repeating that everybody’s
 
-In another study we conducted a randomized experiment with 150
+opinion was valid. He put oﬀ urgent decisions and, when he made them,
 
-temporary teams made up of senior executives from a wide range of
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-companies. The leaders of 50 teams maintained a traditional hierarchy,
+2
 
-the leaders of another 50 created a ﬂat hierarchy, and those heading
-
-the remaining 50 alternated between the two—they gave members time
-
-to voice their opinions and ideas but then stepped in and asserted
-
-authority when needed. The teams played a simulation game in which
-
-members climbed Mount Everest together. They were evaluated on
-
-the quality of their decisions—such as when to start and end the
-
-daily climb, whether to climb that day at all, and how to allocate
-
-oxygen to team members—many of which required them to synthesize
-
-information held by diﬀerent members. Here again the teams that
-
-alternated modes performed much better than the others, making
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

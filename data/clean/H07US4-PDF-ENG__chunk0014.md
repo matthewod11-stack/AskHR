@@ -1,23 +1,19 @@
-# times.
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7f76d063a8b51bd828d2eb586222fb188d9d51b
+title: H07US4-PDF-ENG
+---
+## HBR / Digital Article / The Business Case for Love
 
-This is true for all customers of all products. It’s only when you’ve
+The same applies to customers. I know a ﬁlm studio executive who says
 
-managed to do something so compelling, so profound, so genuine, so
+that when he’s screen-testing his latest movie, what he’s listening for
 
-moving that the customer says, “I loved this experience!” that you’re
+isn’t “I really enjoyed that” or “I thought it was great.” He pays attention
 
-able to predict their subsequent behavior. In direct contrast, “liking” or
+only to how many times he hears someone spontaneously say, “I loved
 
-“really enjoying” or being “satisﬁed” tells us virtually nothing about a
+it!” Because only then can he be sure that this person will tell others
 
-person’s future behavior.
-
-Love by the Numbers
-
-We can see this quantitatively, in the data. Ask customers or employees
-
-or moviegoers to rate some aspect of their experience on a scale of 1–5,
-
-with 5 being extremely positive. The conventional wisdom is that these
-
-feelings drive people’s behaviors, such as loyalty, advocacy, and spend
+to go see the movie — and even go back themselves to see it multiple

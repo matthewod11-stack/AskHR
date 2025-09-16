@@ -1,19 +1,27 @@
-# of
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 40e1cd981dec992bb9d661a0d5e6fdb1abc6e72f
+title: performance_management_3rd_edition_by_aguinis
+---
+# End Notes
 
-- 9. Low-cost Ted may help United fly out of bankruptcy (2004, February 13). USA Today. Available online at http://www.usatoday. com/travel/news/2004-02-13-ted-wrap_x. htm. Retrieval date: May 1, 2011.
+- 1. Addams, H. L., & Embley, K. (1988). Performance management systems: From strategic planning to employee productiv- ity. Personnel, 65, 55–60.
 
-- 10. Kennedy, C. R., Jr. (1984). The external environment-strategic planning interface: U.S. multinational corporate practices in the 1980s. Journal of International Business Studies, 15, 99–108.
+- 2. Rao, A. S. (2007). Effectiveness of perform- ance management systems: An empirical study in Indian companies. International Journal of Human Resource Management, 18, 1812–1840.
 
-- 11. Collins, J. C., & Porras, J. I. (1996, your Building
+- 3. Collier, N., Fishwick, F., & Floyd, S. W. (2004). Managerial involvement and per- ceptions of strategy process. Long Range Planning, 37, 67–83.
 
-- 15. Harley-Davidson reports record fourth quar- ter and 18th consecutive record year. Available online at http://www.harley- davidson.com/CO/NEW/en/PressRelease_ Date.asp?locale=en_US&bmLocale=en_US &id_in=552&dspmm=1&dspyy=2004. Retrieval date: May 1, 2011.
+company’s vision. Harvard Business Review, 74, 65–77.
 
-- 16. Wilson, N. (2004). Rewarding values at Loop Customer Management. Strategic HR Review, 3(January–February), 12–13.
+- 12. Mission statement. Available online at http://www.spectrumbrands.com/ AboutUs/Mission.aspx. Retrieval date: May 1, 2011.
 
-- 17. Microsoft Corporation. Our mission. Available online at http://www.microsoft. com/about/en/us/default.aspx. Retrieval date: July 29, 2011.
+- 13. Company profile. Available online at http:// www.greif.com/about-greif/vision-statement. asp. Retrieval date: May 1, 2011. Greif, Inc. 14. Bill Gates. Available online at http://www. microsoft.com/billgates/speeches/industry &tech/iayf2005.asp. Retrieval date: May 1, 2011.
 
-- 18. Mission statement of NSU. Available online at http://www.nsu.edu/about/. Retrieval date: May 1, 2011.
+- 4. Tapinos, E., Dyson, R. G., & Meadows, M. (2005). The impact of performance measure- ment in strategic planning. International Journal of Productivity and Performance Management, 54, 370–384.
 
-- 19. The School of Business mission statement. Available online at http://www.nsu.edu/ business/. Retrieval date: May 1, 2011. 20. González-Benito, J., Aguinis, H., Boyd, B. K., and Suarez-González, I. (in press). Coming strategic consensus: A mediated moderation model of consensus and performance. Journal of Management. to
+- 5. Adapted from Addams and Embley (1988), op. cit. 6. Adapted
 
-- 21. Building people capability. Available online at http://www1.ap.dell.com/content/topics/ topic.aspx/global/hybrid/careers/content/ 8012aa1f-fa50-4634-ac65-fa149b26228f?c=au&l = en&s=corp. Retrieval date: May 1, 2011.
+from C. D. Fisher, L. F. Schoenfeldt, & J. B. Shaw. Human Resource Management, 5th ed. (Boston: Houghton Mifflin, 2003).
+
+- 7. The discussion regarding environmental analysis is adapted from W. Drohan, “Principles Strategic Planning,” Association Management 49 (1997): 85–87. 8. Company profile. Available online at http:// www.frontierairlines.com/frontier/who- we-are/company-info/fact-sheet.do. Retrieval date: May 1, 2011.

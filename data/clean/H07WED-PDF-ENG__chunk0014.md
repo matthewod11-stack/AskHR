@@ -1,9 +1,21 @@
-## them with a holistic understanding of how the business operates and
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 206c4d482e82baaa8d3eb72cc2fefad5fabc530b
+title: H07WED-PDF-ENG
+---
+## Divergent Career Paths: CEO vs. Project Manager
 
-relevant expertise to the organization’s strategic needs. They may have
+CEOs typically follow a sprawling path that leads them through
 
-opportunities to serve as chief operating oﬃcers (COOs) or in other
+various traditional functional areas such as ﬁnance, sales, marketing,
 
-high-level positions before assuming the CEO role. This transitional
+operations, or research and development. They are groomed for
 
-phase allows them to develop executive competencies, which we’ll
+leadership roles from early in their careers. They must provide
+
+direction, make strategic decisions, and inspire their teams. As
+
+they progress through their careers, they gain exposure to diverse
+
+organizational functions and often international experience, equipping

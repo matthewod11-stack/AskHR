@@ -1,23 +1,29 @@
-## 4.1.7 Analysis of Compliance Rules Circulation
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: ca0daae85f1e9a5a92c1ec89cdfae094d1d72cba
+title: internship_report
+---
+## Figure 6: Awareness Program Arrangement Analysis
 
-(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)(cid:111)(cid:102)(cid:32)(cid:67)(cid:111)(cid:109)(cid:112)(cid:108)(cid:105)(cid:97)(cid:110)(cid:99)(cid:101)(cid:32)(cid:82)(cid:117)(cid:108)(cid:101)(cid:115)(cid:32)(cid:67)(cid:105)(cid:114)(cid:99)(cid:117)(cid:108)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)
+In the above chart (Fig: 6) it reveals that in case of program arrangement of awareness of health
 
-(cid:48)(cid:37)(cid:32)
+and safety almost all employees (disagree & strongly disagree: 82% & neutral: 18%) are
 
-(cid:57)(cid:37)(cid:32)
+showing their agreement. On the other hand, it is very important from the context of both
 
-(cid:49)(cid:56)(cid:37)(cid:32)
+employee & employer. As we know that casualty happens once in a moon. However, if we all
 
-(cid:49)(cid:56)(cid:37)(cid:32)
+are not always aware about this casualty then the loss may be uncountable for both employee and
 
-(cid:53)(cid:53)(cid:37)(cid:32)
+employer. Moreover, as per our country laws, it is mandatory to arrange some drilling program
 
-(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
+(fire, earthquake) among employees on regular interval. If any organization follows these rules
 
-(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
+strictly then the casualty will be very less than the organization rarely practice this policy.
 
-(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
+Finally, I would like to say that prevention is better than cure.
 
-(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
+HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:52)(cid:57)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
 
-(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
+(cid:32) (cid:32) (cid:32) (cid:32)

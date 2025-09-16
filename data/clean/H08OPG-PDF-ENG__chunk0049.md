@@ -1,25 +1,21 @@
-# informed decisions.
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a316c73eca2bbcade08c159661a1639fe55b96a
+title: H08OPG-PDF-ENG
+---
+## HBR / Digital Article / What Is the Office for Today?
 
-But ultimately, humans are relational beings. We discover aspects of
+Looking ahead, the oﬃce—the physical workspace—will continue
 
-ourselves in relation to others, and we learn to make sense of abstract
+to have an important role to play for the future of organizations,
 
-concepts from our experiences of interacting in the world with others.
+particularly for those leveraging the integration between human work
 
-When I think of abstract ideas like stewardship, empathy, integrity,
+and machine work. Of course, we have evidence that it is possible
 
-leadership—all characteristics of great organizations—I can’t help wondering what the tradeoﬀs would be for future leaders and future
+to meet and even exceed productivity goals by working exclusively remotely. Similarly, we have a better understanding of the tradeoﬀs for
 
-organizations without, to use our example, “pebble-in-the-stream”
+individuals and groups over time when it comes to remote work. We
 
-experiences shared with others.
-
-This article was originally published online on April 10, 2025.
-
-Gretchen Gavett is a senior editor at Harvard Business Review.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+now have new knowledge and a clearer picture to help advance more

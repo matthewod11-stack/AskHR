@@ -1,29 +1,17 @@
-# generous bonus.
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3151abbc53b99f9eabe4bb9b7f41f1aea571566a
+title: R2502J-PDF-ENG
+---
+# commissions.
 
-- 6. Misleading customers. This tactic involves giving prospective
+- 5. Carrot and stick. Salespeople may use rewards, promises, threats, or
 
-customers misleading information or withholding information to move
+punishments to encourage customer behavior that maximizes incentive
 
-the sales process forward. At one ﬁnancial services company, some reps
+payouts. According to an interviewee at an airline, some agents oﬀered
 
-would falsely tell call-in customers that the transaction couldn’t be
+to waive baggage fees for customers during the check-in process if
 
-completed on the phone and encouraged them to meet with a ﬁnancial
-
-adviser, which yielded them higher bonuses for in-house referrals.
-
-- 7. Falsifying data. In this case, the sales management system is fed
-
-false information or information is omitted to maximize incentive
-
-payouts. In one interview, we heard that sales reps often log in to
-
-sales management systems and add their names to deals they did not
-
-participate in to increase their bonuses.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they signed up for the airline’s credit card, thus earning themselves a

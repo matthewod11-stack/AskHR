@@ -1,7 +1,9 @@
-## Personality and the Theory of Reasoned Action
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 9ff2c707d7c3cf8dc1ff4f59103c4775449ceec5
+title: barrickryan_eds_personality_and_work
+---
+## PERSONALITY AND COUNTERPRODUCTIVE WORKPLACE BEHAVIOR 161
 
-The fact that behavioral intention to engage in a counterproduc- tive behavior is a function of attitudes toward that behavior and subjective norms concerning that behavior suggests four possible paths through which personality can inﬂuence the occurrence of CWBs. Speciﬁcally, personality can inﬂuence either of the belief components associated with our attitude toward a given counter- productive behavior (that is, beliefs about the consequences of the behavior or beliefs about the desirability of those consequences), or either of the subjective norm components related to that be- havior (beliefs about what relevant others believe one should do and motivation to comply with that norm).
-
-Beliefs About the Consequences of CWBs There would appear to be a wide range of potential perceived con- sequences of engaging in CWBs. We posit that two key conse- quences are detection and sanction. For example, if I steal from the organization, will I be detected, and, subsequently, if detected, will there be sanctions? Other consequences are possible as well, such as effects on self-image and effects on how one is viewed by others.
-
-Of interest, then, is the question on whether personality vari- ables are related to these beliefs. It is interesting to note that item formats explicitly dealing with these perceptions are a part of some integrity tests. For example, a public domain instrument developed by Ryan and Sackett (1987) contains the agree-disagree item, “A person could steal company merchandise for 10 years without being caught.” The established link between Conscientiousness, Agreeableness, and Emotional Stability and integrity test score sug- gests that personality traits are linked to beliefs about the likeli- hood that certain CWBs are detected. There appears to be little
+be rare. For the vast majority of CWBs (unsafe behavior, poor attendance, poor-quality work, drug use, alcohol use), we would expect most people to be conﬁdent they can perform these be- haviors. Thus, for the purposes of this chapter, we focus on the at- titudinal and subjective norm components articulated in the original theory of reasoned action.

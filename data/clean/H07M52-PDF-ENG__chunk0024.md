@@ -1,15 +1,15 @@
-## remote environment compounds feelings of isolation because in online
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a1434bb3136bca197a7ddddb5bc723a00d50b1b
+title: H07M52-PDF-ENG
+---
+# Generating Energy
 
-meetings we typically have fewer shared sidebar conversations that
+Some teams are genuinely depleted overall. Groups of employees
 
-build rapport and interpersonal trust.
+who survived the latest round of layoﬀs often experience a sense of
 
-To combat this problem, leaders need to generate energy — essentially
+exhaustion and emotional turmoil, having lost frequent contact with
 
-building something from nothing. This approach is potentially the most
-
-well understood of the three outlined in this article and has been an
-
-area of focus of organizational leaders during the pandemic. That said,
-
-our research has surfaced three crucial actions for leaders to take to
+people who were not only coworkers but also friends. The hybrid or

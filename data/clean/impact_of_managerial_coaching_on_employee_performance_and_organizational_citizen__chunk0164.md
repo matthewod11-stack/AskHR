@@ -1,11 +1,19 @@
-## Managerial Coaching on Employee Performance and OCB
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: 3adb69e3d8b5ff734eedca0674f9385cc6f87d41
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# theoretical
 
-Ratiu, L., David, O. A., & Baban, A. (2017). Developing managerial skills through coaching: efficacy of a cognitive-behavioral coaching program. Journal of Rational- Emotive & Cognitive-Behavior Therapy, 35(1), 88-110.
+Pousa, C., & Mathieu, A. (2010). Sales managers’ motivation to coach salespeople: An exploration using expectancy theory. International Journal of Evidence Based Coaching and Mentoring, 8(1), 34-51.
 
-Rodell, J. B., & Judge, T. A. (2009). Can “good” stressors spark “bad” behaviors? The mediating role of emotions in links of challenge and hindrance stressors with citizenship and counterproductive behaviors. Journal of Applied Psychology, 94(6), 1438–1451. Rosen, C. C., Chang, C. H., Johnson, R. E., & Levy, P. E. (2009a). Perceptions of the organizational context and psychological contract breach: Assessing competing perspectives. Organizational Behavior and Human Decision Processes, 108(2), 202–217. Rosen, C. C., Harris, K. J., & Kacmar, K. M. (2009b). The emotional implications of perceived organizational politics: A process model. Human Relations, 62(1), 27–57. Rusbult, C., Campbell, M., & Price, M. (1990). Rational selective exploitation and distress: Employee reactions to performance based and mobility-based reward allocations. Journal of Personality and Social Psychology, 59(3), 487–500. Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68–78. Sim, W., Zanardelli, G., Loughran, M. J., Mannarino, M. B., & Hill, C. E. (2016). Thriving, burnout, and coping strategies of early and later career counseling center psychologists in the United States. Counselling Psychology Quarterly, 29(4), 382-404.
+Pousa, C., & Mathieu, A. (2015). Is managerial coaching a source of competitive advantage? Promoting employee self-regulation through coaching. Coaching: An International Journal of Theory, Research and Practice, 8(1), 20-35.
 
-Sobel, M. E. (1982). Asymptotic confidence intervals for indirect effects in structural equation models. Sociological Methodology, 13, 290-312.
+Pousa, C., Pousa, C., Mathieu, A., Mathieu, A., Trepanier, C., & Trepanier, C. (2017). Managing frontline employee performance through coaching: Does selling experience matter? International Journal of Bank Marketing, 35(2), 220-240.
 
-Sobel, M. E. (1986). Some new results on indirect effects and their standard errors in covariance structure models. Sociological Methodology, 16, 159-186.
+Preacher, K. J., & Hayes, A. F. (2004). SPSS and SAS procedures for estimating indirect effects in simple mediation models. Behavior Research Methods, 36(4), 717-731.
 
-Sonenshein, S., Dutton, J. E., Grant, A. M., Spreitzer, G. M., & Sutcliffe, K. M. (2013). Growing at work: Employees' in organizations. Organization Science, 24(2), 552-570.
+Prem, R., Kubicek, B., Diestel, S., & Korunka, C. (2016). Regulatory job stressors and their within-person relationships with ego depletion: The roles of state anxiety, self-control effort, and job autonomy. Journal of Vocational Behavior, 92, 22-32.
+
+811

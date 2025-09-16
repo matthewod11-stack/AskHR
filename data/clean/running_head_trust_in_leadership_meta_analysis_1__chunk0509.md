@@ -1,47 +1,7 @@
-# Trust
-
-.65**
-
-.21**
-
-.14**
-
-.11
-
-.16
-
-c’
-
-.08**
-
-.08**
-
-- .02
-
-- .02
-
-- .07*
-
-- .07*
-
-- .15**
-
-- .15**
-
-.04
-
-.04
-
-.22**
-
-.22**
-
-- .16**
-
-- .16**
-
-.16**
-
-.16**
-
-- .01
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 205a00db017e14839e4dbb37bd002085ce4d4c8e
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Performance

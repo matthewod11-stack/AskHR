@@ -1,11 +1,7 @@
-# ﬁnancial products or services may ﬁle complaints with OSHA if they believe that they have experienced
-
-discrimination or retaliation for reporting reasonably perceived violations of any provision of title X of the Dodd-Frank Act or any other provision of law that is subject to the jurisdiction of the Bureau of Consumer
-
-Financial Protection, or any rule, order, standard, or prohibition prescribed by the Bureau.
-
-Under the Aﬀordable Care Act (ACA), employees may ﬁle complaints with OSHA if they believe that they
-
-have experienced discrimination or retaliation for reporting violations of any provision of title I of the ACA,
-
-including but not limited to discrimination based on an individual's receipt of health insurance subsidies, the denial of coverage based on a preexisting condition, or an insurer's failure to rebate a portion of an excess
+---
+source_path: Employment Law Guide - Whistleblower and Retaliation Protections.md
+pages: n/a-n/a
+chunk_id: 3e7f079b9ceff455a061e7c0bb0b36e452491614
+title: Employment Law Guide - Whistleblower and Retaliation Protections
+---
+# Under the Consumer Financial Protection Act (CFPA), employees performing tasks related to consumer

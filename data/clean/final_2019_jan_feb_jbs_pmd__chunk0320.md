@@ -1,17 +1,41 @@
-# Collegiate education
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: b765096b83ea498017ff889aa03a8b89adb21a20
+title: final_2019_jan_feb_jbs_pmd
+---
+# Primary education
 
-53
+97
 
-3.8962
+2.1856
 
-.92579
+.43025
 
-.12717
+.04369
 
-3.6410
+2.0989
 
-4.1514
+2.2723
+
+1.33
 
 2.67
 
-4.83
+High school passed
+
+337
+
+3.5346
+
+.65069
+
+.03545
+
+3.4649
+
+3.6043
+
+1.17
+
+4.50

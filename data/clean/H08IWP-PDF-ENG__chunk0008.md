@@ -1,11 +1,21 @@
-# business model.
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6df15ed19b299cb80982cbf50e1fd9824a42cab2
+title: H08IWP-PDF-ENG
+---
+## excitement and competition among the game’s best players.”
 
-To begin with, they forced executives to grant them a majority on the
+For years PGA Tour executives and board directors had successfully
 
-board, so that the plan could only proceed with player approval. They
+coordinated the divergent interests of stakeholders, preserving a fragile
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+equilibrium in which no stakeholders could impose their interests at the
 
-2
+expense of the others. However, when the most powerful stakeholder
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+— the players — realized that their voice had been ignored during the
+
+negotiation of the Tour-Saudi PIF agreement, they reacted in ways that
+
+upset that fragile equilibrium and threatened to harm the PGA Tour’s

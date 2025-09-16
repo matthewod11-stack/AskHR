@@ -1,7 +1,7 @@
-## Communication barriers Physical, cultural, and
-
-psychological obstacles that interfere with successful communication and create a source of conflict.
-
-Communication channel The medium by which a
-
-communication is transmitted.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c4450bedfd49ce253c9545c5b9032934d4430f5a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# of a group.

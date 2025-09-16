@@ -1,7 +1,9 @@
-## Scientist-practitioner model A teaching model in
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3a145f516abed498cd6aa6a1be54c14534018b93
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Salary survey A questionnaire sent to other
 
-which students are trained first to be scientists, and second, to be able to apply the science of their field to find solutions to real-world problems. Scorer reliability The extent to which two people
-
-scoring a test agree on the test score, or the extent to which a test is scored correctly.
-
-Selection ratio The percentage of applicants an
+organizations to see how much they are paying their employees in positions similar to those in the organization sending the survey.

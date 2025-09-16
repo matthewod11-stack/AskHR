@@ -1,3 +1,11 @@
-# Homogeneity Within Organizations
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: da7f3b9e6bd8fffe3393594a2d878cb6a22f5648
+title: barrickryan_eds_personality_and_work
+---
+## Homophily and Constraints on Heterogeneous Network Ties
 
-A fundamental tenet of the attraction-selection-attrition (ASA) model of organizational behavior is that people self-select into and
+There is a well-established tendency for individuals to associate with others who are similar to them in one or more ways, which sociol- ogists term homophily (Lazarsfeld & Merton, 1954). For this reason, ties between dissimilar people are less likely than ties between those who are similar. Support, information, access, and inﬂuence are therefore most likely to be from people who are similar to an actor. This is not always a desirable outcome because of the likelihood of receiving redundant information from similar others (Scott, 2000). A more desirable network conﬁguration would include a portfolio of ties to dissimilar others, which are likely to provide access to dif- ferent resources and information than completely homophilous ties. Recently, organizational constraints on network formation have been considered, especially constraints on heterophily, or ties be- tween people who are dissimilar (Popielarz, 1999). This literature might help to provide insight on and motivation to address orga- nizational constraints on network heterophily.
+
+The principal structural constraint on heterophily is organiza- tional homogeneity (Popielarz, 1999). The more homogeneous the organization is, the greater is the likelihood of homophilous ties. This is because organizations provide the contact opportunities nec- essary to make connections with others. Whereas most of the re- search and theory associated with network homophily has been directed at demographic characteristics such as race and sex, there is reason to suspect that organizations also pose an inadvertent con- straint in terms of personality. Such constraints on personality-based heterophily can have deleterious effects for individuals and organi- zations. Speciﬁcally, research evidence suggests that organizations are relatively homogeneous in terms of the personality attributes of their managers, and personalities become more homogeneous as one advances to higher management levels.

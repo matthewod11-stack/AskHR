@@ -1,5 +1,7 @@
-# ``` #!/bin/bash
-
-echo "Enter the folder name: " read folder_name
-
-if [ ! -d "$folder_name" ]; then echo "Folder does not exist." exit 1 fi
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: d87ba8494c68839ecb4c9ecb0dd515fba102aed5
+title: prompt
+---
+# Explain to me the below Bash code:

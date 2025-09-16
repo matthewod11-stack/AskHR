@@ -1,25 +1,13 @@
-## HBR / Magazine Article / Redesigning How We Work
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d97b60f04ffe747ee5bc3f53bc532f961f8fe248
+title: R2302D-PDF-ENG
+---
+## create immersive learning and collaboration programs for its own
 
-people and its clients. The pandemic induced its leaders to reimagine
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-how to onboard new hires (it onboarded 150,000 Accenture employees
+9
 
-in its metaverse in 2022), how to train them (for example, by creating
-
-realistic simulations with ﬁctitious clients), and how to connect its
-
-workforce in ways it could never achieve in the real world at a
-
-global scale. “When you hear colleagues’ voices right next to you,
-
-and you walk the virtual halls together, it’s much more intimate,
-
-energizing, and memorable than hours of video calls,” says Ginny
-
-Ziegler, the chief marketing and communications oﬃcer at Accenture
-
-North America. “It is a powerful way for a geographically dispersed
-
-workforce to collaborate, learn, build communities, and even socialize.
-
-The metaverse is also an equalizer of sorts, because it helps us create
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

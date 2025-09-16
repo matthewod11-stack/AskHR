@@ -1,21 +1,17 @@
-## amount of time in one-on-ones often due to an over-reliance on
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 451c88bc65fb07393d6f5648a56940fb2ef0c1cb
+title: H08AAA-PDF-ENG
+---
+# HBR / Digital Article / 3 Ways to Build a Culture That Lets High Performers Thrive
 
-live conversation to remove roadblocks. For example, one ﬁrst-time
+down” on Friday. Prioritization is about aligning on the team’s strategy
 
-manager we know at a leading mechanical engineering ﬁrm spends
+for the week. Problem solving is for discussing challenges that have
 
-about a third of his week in one-on-one meetings with his direct reports.
+been percolating between meetings. And pencils down is to review
 
-“Between one-on-ones and team huddles, I don’t have any time left for
+completed work, share feedback, and align on next steps.
 
-the actual work,” he told us. But if you’re using the three weekly team
-
-meetings well, then there will be much less need for one-one-ones.
-
-Finally, strip down goal planning to the bare minimum: one quarterly
-
-“goal check” conversation. During a goal check, the team should align
-
-on its strategy for the next three months. These are the priorities that
-
-will anchor the weekly rhythm of prioritization, problem solving, and
+Next, optimize your one-on-ones. Managers spend an inordinate

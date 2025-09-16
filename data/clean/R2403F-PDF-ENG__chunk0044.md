@@ -1,17 +1,13 @@
-## to actual performance in a straightforward way—all changes that
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e04d3f0a217c76eea36bfed1b807ce4c5132779
+title: R2403F-PDF-ENG
+---
+# HBR / Magazine Article / HR’s New Role
 
-reduce perceived injustices, which can create enormous stress for
+needed. Improving equity involves making the treatment of employees
 
-employees. Increasing inclusion comes down to creating an atmosphere
+and the distribution of opportunities fairer, oﬀering opportunities on
 
-of tolerance and helping employees with their individual challenges.
-
-A work environment in which employees feel safe being who they
-
-are encourages people to speak up and inspires a sense of pride
-
-and belonging. Those positive feelings translate into hard work and
-
-increased employee loyalty. Employers who get DEI right are far more
-
-able to attract talent because it widens the pool they can access,
+a clear and meritocratic basis, reducing favoritism, and tying rewards

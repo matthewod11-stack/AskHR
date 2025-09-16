@@ -1,7 +1,41 @@
-## HBR / Digital Article / 7 Habits to Stay Focused in a World Full of Distractions
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c589eecd177722da991fe67f30be42dd0137866f
+title: H08M4T-PDF-ENG
+---
+# Interrupt your autopilot.
 
-Montminy suggests keeping alternatives to your phone nearby — a
+Attention comes in diﬀerent forms, says Mark. There’s the intentional
 
-magazine or notepad, for instance — to satisfy your underlying need
+kind, where we’re consciously focused on a speciﬁc task, such as
 
-for escape or stress relief. “Don’t use your device as a paciﬁer,” she says.
+writing a complex report; and the automatic kind, where actions occur
+
+without deliberate thought — like when you reﬂexively grab your
+
+phone, swipe it open, and scroll through Instagram mid-workday. To
+
+break these unconscious habits, Mark says you need to cultivate meta-
+
+awareness: observing your mental processes as they unfold. “It’s like
+
+slapping yourself awake and saying, ‘Pay attention!’” When you feel
+
+the impulse to check social media, pause, and ask yourself: What’s
+
+driving this behavior? Am I procrastinating? Am I avoiding challenging
+
+work? Asking these questions transforms an unconscious habit into
+
+a deliberate choice. “Meta-awareness is like a muscle — the more
+
+you practice catching and redirecting your attention, the stronger it
+
+becomes.”
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

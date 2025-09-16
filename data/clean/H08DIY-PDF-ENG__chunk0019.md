@@ -1,3 +1,21 @@
-## HBR / Digital Article / When a Coworker You Don’t Like Becomes Your Boss
+---
+source_path: H08DIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22a8090d3e2352ad3466672890a78690a9e4eca7
+title: H08DIY-PDF-ENG
+---
+## process details, results, and reports in meetings.
 
-person? What’s one thing I could do diﬀerently to generate the most
+The next step is to create a plan to bridge those diﬀerences. Don’t
+
+assume your new boss will change. Now that the power dynamic has
+
+shifted, the onus is on you to adapt your behavior to them. Ask yourself:
+
+What new behaviors will be required from me in interactions with this
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

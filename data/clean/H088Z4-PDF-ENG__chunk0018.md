@@ -1,13 +1,25 @@
-## works in the context of interpersonal relationship building. We
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b1d21c8a1e7597d7361ed2a398151768cdd8822
+title: H088Z4-PDF-ENG
+---
+## portray an organization in a positive light.
 
-know from decades of research that when people disclose personal
+When organizations that pledged to increase diversity later elect to
 
-information, they are more apt to be liked and trusted. One reason for
+voluntarily disclose their lagging diversity numbers, however, people
 
-this is that when we disclose sensitive information that exposes our
+may be hard-pressed to classify them as phonies attempting to augment
 
-vulnerabilities, we communicate something more profound than the
+their image. After all, they are publicly disclosing unfavorable data.
 
-content of the information itself — that we are willing to be genuine
+Why would they do such a thing? This certainly is not consistent with
 
-even if means taking a risk. In the case of lagging diversity numbers,
+a performative act intended to hearten their reputation. Rather, being
+
+transparent about unfavorable outcomes signals that organizations’
+
+commitment to strengthening diversity is real.
+
+This logic may seem counterintuitive, but consider how disclosure

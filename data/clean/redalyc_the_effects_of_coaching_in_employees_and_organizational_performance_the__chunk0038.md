@@ -1,23 +1,27 @@
-# rationality, altruism and commitment.
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 631fcc77b2000021446e4e2783dfcaab0195faff
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# Hezlett, 2003).
 
-Many empirical studies agree on this point and consider coaching to be effective because it
+As noted above, to ensure that the coaching process is effective, both the coach and coachee
 
-offers employees an intense way of learning that is suited to their individual needs and thus
+must make efforts to achieve a number of objectives. The coach must be sufficiently qualified
 
-leads to greater career satisfaction (Colomo & Casado, 2006; Rowold & Schilling, 2006;
+and experienced; must know the organisation well; and must be willing to transmit knowledge,
 
-Sherman & Freas, 2004; Zaleska & De Menezes, 2007). The support of other organisational
+dedicate time to the process and reproach the coachee when he/she does not perform as
 
-members, such as line managers, is also necessary (Leisink & Knies, 2011). Likewise, Moen
+agreed. The coachee, in turn, must be committed to the process and must seek a good partner
 
-and Allgood (2009) note that this practice makes participating managers more efficient and
+in the coach by sharing ideas and strategies and trusting the coach.
 
-effective in their leadership roles, as employee performance will improve if the coaching
+According to Cropanzano and Mitchell (2005), from social exchange theory the coaching
 
-process is prepared and implemented properly. Nevertheless, a review of the literature also
+relationship is reciprocal. The parties establish a normative framework within which to work.
 
-shows that scholars have not yet reached a consensus regarding the effectiveness of this
+The success of the process will depend on several reasons: the confidentiality within the
 
-practice (Bowles, Cunningham, De la Rosa & Picano, 2007). Thus, we present our hypotheses:
-
-Hypothesis 1: Organisational support improves the individual performance of a firm’s
+process; the consistency of the status of both coach and coachee; and their integrity,

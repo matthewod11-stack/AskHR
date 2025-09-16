@@ -1,39 +1,15 @@
-## the code on high-functioning teamwork—software and manufacturing
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13063fb21e9182be0d68ecd5fb72e7d83667c26d
+title: S24051-PDF-ENG
+---
+## cross-functional, project-based teamwork in their operations. In the
 
-organizations in particular. Other industries, such as those that are
+tech world, for example, software engineers are expected to connect
 
-more knowledge-based, are playing catch-up.
+with sales teams, data scientists to work on personnel projects,
 
-Traditional thinking around how to innovate teamwork has often
+and user-experience designers to partner with plant managers. Team members may be working together not only from diﬀerent oﬃces
 
-been based on intuition and observation, with a dash of psychology.
-
-But increasingly we face an environment of constant change and
-
-disruption, and new ideas about how to create well-functioning teams
-
-are emerging; some are based on experience, some are guided by new
-
-practices, and some are being made up on the ﬂy. None of this has yet
-
-cohered into a systematic approach to improving how teams work.
-
-In recent years at McKinsey, we’ve devoted ourselves to developing a
-
-new science of teamwork for our organization. This approach allows
-
-us to understand how our 4,000-plus teams are performing and to
-
-intervene when necessary. It combines the best of established wisdom
-
-with new data-driven techniques and insights. It relies on testing,
-
-learning, analysis, adaptation, and improvement—in real time and with
-
-accountability—to enable continuous learning. And it includes metrics
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+but on diﬀerent continents. Some industries seem to have cracked

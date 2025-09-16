@@ -1,3 +1,7 @@
-## (1980). Atheoryofbehaviorinorganizations. New York: Academic Press.
-
-Pfeffer, J. (1993). Barriers to the advance of organiza- tion science: Paradigm development as a depen- dent variable. Academy of Management Review, 18, 599–620. (2010).
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: d7524b0c452e222a52bf06a2a7a349e788c17d7d
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+## Naylor, J. C., Pritchard, R. D., & Ilgen, D. R.

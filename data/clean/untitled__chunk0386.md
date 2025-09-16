@@ -1,9 +1,13 @@
-# Maynard.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6eb91fc78c12f67a5971cbd62f6db1027df875b3
+title: untitled
+---
+# Englewood Cliffs, NJ: Prentice-Hall.
 
-Smyer, M. A., Balster, R. L., Egli, D., Johnson, D. L., Kilbey, M. M., Leith, N. J., et al. (1993). Summary of the report of the ad hoc task force on psychopharmacology of the American Psychologi- cal Association. Professional Psychology: Research and Prac- tice, 24(4), 394–403.
+Riess, B. F. (1992). Postdoctoral training: Toward professionalism. In D. K. Freedheim (Ed.), History of psychology: A century of change (pp. 765–775). Washington, DC: American Psychologi- cal Association.
 
-Sokal, M. M. (1982a). The Committee on the Certiﬁcation of Consulting Psychologists:Afailure of applied psychology in the 1920s. In C. J.Adkins Jr., & B.A.Winstead (Eds.), History of ap- plied psychology: Department of Psychology colloquium series, II (pp. 71–90). Norfolk, VA: Old Dominion University.
+Routh, D. K. (2000). Clinical psychology training: A history of ideas and practices prior to 1946. American Psychologist, 55, 236–241.
 
-Sokal, M. M. (1982b). James McKeen Cattell and the failure of anthropometric mental testing, 1890–1901. In W. R. Woodward & M. G. Ash (Eds.), The problematic science: Psychology in nineteenth-century thought (pp. 322–345). New York: Praeger.
-
-Stricker, G., & Cummings, N. A. (1992). The professional school movement. In D. K. Freedheim (Ed.), History of Psychotherapy:
+Scott, W. D. (1903). The theory of advertising. Boston: Small,

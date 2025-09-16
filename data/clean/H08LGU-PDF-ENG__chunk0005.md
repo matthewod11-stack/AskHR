@@ -1,29 +1,29 @@
-## Decades of research shows clear problems with status-quo DEI. Despite
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1950984a775ad8e58a269f4e5bfba42c87e1c747
+title: H08LGU-PDF-ENG
+---
+## HBR / Digital Article / What Comes After DEI
 
-their widespread prescription, DEI trainings often fail to change bias
+The predominant response to this backlash among practitioners I’ve
 
-or reduce prejudice. Popular strategies for communicating the value
+talked to has been to largely continue with the status quo, rebrand the
 
-of DEI can paradoxically both hurt marginalized communities and
+language as needed, and adhere to existing initiatives and programs
 
-decrease leadership support for DEI. Common initiatives intended to
+under the DEI umbrella that remain legal until forced to do otherwise.
 
-create better workplaces for all might instead activate backlash, increase
+Fewer practitioners — or employers — are considering whether DEI
 
-burnout, and fail to improve outcomes for underserved groups.
+work itself has room to improve.
 
-DEI needs a reset. People want more diverse, equitable, and inclusive
+In this moment, leaders and practitioners invested in building healthier
 
-workplaces, but the initiatives and approaches common to mainstream
+workplaces and societies for everyone have a once-in-a-generation
 
-DEI are far from the only way to achieve them.
+opportunity to reimagine this work — not only to adapt to a new
 
-Drawing from research, conversations with colleagues, and my own
+sociopolitical climate, but to let go of practices that have outlived their
 
-work over the last decade as a DEI practitioner, I’ve developed a
-
-replacement that I call the FAIR framework. It’s built around the core
-
-outcomes of fairness, access, inclusion, and representation that DEI was
-
-supposed to achieve for all, and it oﬀers four principles to guide this
+usefulness and refocus our eﬀorts on what works.

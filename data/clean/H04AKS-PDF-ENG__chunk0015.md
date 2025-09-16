@@ -1,5 +1,9 @@
-## market and technology factors outside the company, but here people
+---
+source_path: H04AKS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aef87da08f09e60be6763b0716fdd8c247ee99a4
+title: H04AKS-PDF-ENG
+---
+# science to culture transformation.
 
-analytics is a critical factor for execution. A people analytics team can
-
-serve as an instrument panel of sorts to track resources, boundaries,
+Top-down strategic transformation is often made necessary by

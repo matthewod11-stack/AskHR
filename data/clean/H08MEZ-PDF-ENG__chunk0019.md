@@ -1,7 +1,11 @@
-# the use of AI in the hiring process.
+---
+source_path: H08MEZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1fc8aa8fa1ea5bd2a6385417accb2c3ec58a6109
+title: H08MEZ-PDF-ENG
+---
+## the 2024 legislative session, at least 45 states, Puerto Rico, the Virgin
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Islands and Washington, D.C., introduced AI bills that ranged from
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+prohibitions on algorithmic discrimination to informing applicants of

@@ -1,11 +1,13 @@
-# elsewhere.
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5155c7333852864830dd660a305167ef7db1d8a
+title: H07UT7-PDF-ENG
+---
+## These concerns multiply in organizations where employees frequently
 
-While some people who aren’t comfortable with pets in the oﬃce
+interact with outside stakeholders, such as business clients, contractors, and consumers. Oﬃce Labradors, coﬀee shop kitties, bodega cats, and
 
-express their concerns freely, many may not. Conﬂicting inquiries for
+even barbershop roosters have all been praised for improving customer
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mood, but we must be mindful that these outcomes may not generalize

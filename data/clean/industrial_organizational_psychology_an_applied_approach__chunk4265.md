@@ -1,9 +1,17 @@
-## Kidwell, R. E., Mossholder, K. W., & Bennett, N. (1997).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b8bbb0a2fc71bba37918889347a1eade6c4a2988
+title: industrial_organizational_psychology_an_applied_approach
+---
+## dilemma analysis. Journal of Personality and Social Psychology, 45, 819–828.
 
-Cohesiveness and organizational citizenship behavior: A multilevel analysis using work groups and individuals. Journal of Management, 23(6), 775–793.
+Kerr, N. L., & Bruun, S. E. (1983). Dependability of member
 
-Kierein, N., & Gold, M. A. (2001). Pygmalion in work organizations: A meta-analysis. Journal of Organizational Behavior, 21, 913–928.
+eﬀ ort and group motivation loss: Free-rider eﬀ ects. Journal of Personality and Social Psychology, 44, 78–94.
 
-Kim, B. H. (2008, April). Truth. Lies and everything in between:
+Kerr, N. L., & Tinsdale, R. S. (2004). Group performance and decisions making. Annual Review of Psychology, 55, 623–655.
 
-Bogus items response processes. Presented in J. Levashina & M. A. Campion (Co-Chairs), Th at can’t be true! Detecting faking using bogus items. Symposium presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
+Khanna, C., & Medsker, G. J. (2007). 2006 Income and employment
+
+survey results for the Society for Industrial and Organizational Psychology. Alexandria, VA: HumRRO.

@@ -1,9 +1,7 @@
-# When Open Talent Works
-
-How firms can decide when an open model makes sense.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e070ca10dda1a35b7d47aac919a900a18e4def3
+title: H06X4I-PDF-ENG
+---
+## for a project for highly ﬁrm-speciﬁc tasks.

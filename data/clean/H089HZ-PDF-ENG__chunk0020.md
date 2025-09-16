@@ -1,11 +1,19 @@
-## Step 2: Focus on mutual value, not just organizational beneﬁts.
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ced4e89863ffdf06030bd421b27a69f4100f277e
+title: H089HZ-PDF-ENG
+---
+## above — RTO versus WFH, the “battle over RTO,” etc. — solidiﬁes
 
-Next, it’s critical to recognize that there remains a tremendous amount
+the framing that this is a winner-take-all contest. If we frame work
 
-of mutually beneﬁcial value left on the table.
+design instead as a collaborative, community problem-solving process,
 
-Take, for example, the common argument from leaders that corporate
+we stand a much better chance of starting the discussion on the right
 
-culture is at risk because of remote work. Framed this way, employees are faced with an adversarial trade-oﬀ: I want to spend time on
+foot. Changing language is deceptively challenging, so don’t hesitate to
 
-what’s important to me, but leadership thinks company culture is more
+use some of the tricks of the presentation trade that have been proven to
+
+work in eliminating other unwanted language.

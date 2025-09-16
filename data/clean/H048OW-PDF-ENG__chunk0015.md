@@ -1,9 +1,7 @@
-## a relationship between their cultural heritage and ﬁrm performance. This
-
-conﬁrmed the role of the CEO as the most important decision-maker in a
-
-bank. While we could not rule out that the cultural heritage of non-CEO
-
-executives may shape decision-making in their particular areas of
-
-responsibility, our results indicated that, should such effects exist, they are
+---
+source_path: H048OW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24cb4e8542714cc3506fd7b599659b2e3384d9ae
+title: H048OW-PDF-ENG
+---
+# HBR / Digital Article / Study: A CEO’s Decision Making Is Shaped by Whether Their Pa…

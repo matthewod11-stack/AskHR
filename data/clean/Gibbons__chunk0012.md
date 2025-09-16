@@ -1,30 +1,26 @@
-### **[What changes when AI joins the team]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: a2e090e632f572178be3bce7ec8773999f1b2ae1
+title: Gibbons
+---
+### **[The new org chart]{.underline}**
 
-[Everything changes when you add AI agents to a team, starting with
-communication protocols.]{.underline}
+[Forget everything you know about organizational design. The \'org
+chart\' looking forward shouldn\'t just show human relationships. It
+shows AI agents as team members with specific roles, responsibilities,
+and reporting structures.]{.underline}
 
-[Boston Dynamics recently demonstrated their Atlas robot taking natural
-language commands in a warehouse setting, interpreting requests like
-\"grab me that connector over there\" and understanding contextual
-references (Boston Dynamics, 2025). This level of natural interaction
-requires new protocols for human-AI communication.]{.underline}
+[At Kaiser Permanente, the care team now includes AI agents that handle
+ambient documentation, saving 16,000 hours in 15 months. These agents
+don\'t just execute tasks --- they learn from feedback, adapt to
+individual physician styles, and flag potential issues for human review
+(Kaiser Permanente, 2025).]{.underline}
 
-[Parloa, a Berlin startup, solved this by creating what they call
-\"multi-agent orchestration.\" Their customer service system routes
-every interaction through specialized agents --- one flags spam, one
-rates toxicity, one checks for self-harm indicators --- then hands
-complex cases to human supervisors. The system reduced response time by
-67% while improving accuracy (Parloa, 2025).]{.underline}
-
-[Accountability structures also transform. When an AI agent makes an
-error, who\'s responsible? Research by MIT on human-AI accountability
-found that clear \"accountability matrices\" are essential --- defining
-decision spaces where AI agents are autonomous versus where humans
-retain responsibility (Brynjolfsson et al., 2023).]{.underline}
-
-[Performance measurement becomes multidimensional. You\'re not just
-measuring human performance or AI performance --- you\'re measuring the
-effectiveness of their collaboration. Google\'s research on human-AI
-teams found that the quality of handoffs between human and AI team
-members was the strongest predictor of overall team performance (Google
-Research, 2024).]{.underline}
+[The human physicians don\'t just use these agents as tools. They manage
+them like team members. They provide feedback, adjust parameters, and
+coordinate handoffs. The agents, in turn, provide performance data back
+to help physicians improve their own practices. This bidirectional
+management --- humans managing AI, AI providing feedback to humans ---
+is the new normal. And most organizations are completely unprepared for
+it.]{.underline}

@@ -1,11 +1,29 @@
-# uncover.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5119aa3f6b04d0dfc18309f33c825c4c95cd3d1
+title: H08DDG-PDF-ENG
+---
+# Why NPS Works for Venture Capital
 
-To ﬁll this gap at TDK Ventures, my team and I began implementing
+Despite the wealth of research demonstrating the eﬀectiveness of NPS
 
-NPS with the founders we invested in. Over the past ﬁve years,
+in traditional business environments, VCs have been slow to adapt the
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+methodology for their own organizations. Answering the call to treat
 
-3
+their entrepreneurs as customers, some VCs have implemented other
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+forms of satisfaction surveys — but these ad hoc eﬀorts don’t have
+
+the research-backed beneﬁts of NPS. Traditional satisfaction surveys
+
+simply ask how happy someone is with your product or service, while
+
+NPS goes a level deeper to ask whether they would put their reputation
+
+on the line by recommending you to a colleague or friend. As a result,
+
+when implemented correctly, the NPS approach can help you unearth
+
+feedback that a simple satisfaction survey would be unlikely to ever

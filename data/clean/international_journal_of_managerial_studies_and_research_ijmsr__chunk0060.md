@@ -1,5 +1,33 @@
-## Source: Analysis of Survey data 2013, using SPSS 17.
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: c304ac6b7663ff8346cbbbb84b543bf59328c5d7
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# Percentage
 
-The result on Table 4.1 above shows that manufacturing firms in Nnewi employs more male staff (60.3%) than female. Majority of the staff are persons below the age of 30 years (51%). The company makes use of casual staff (50.5). Most of these staff is O’Level (38.5%) and OND (37.5%) certificate holders.
+60.3 39.8
 
-Table 3. Analysis of the Motivational Techniques Adopted by manufacturing firms in Nnewi
+2
+
+3
+
+4
+
+Total Age Below 30 years 31 - 40 yrs 41 - 50 yrs Above 50 yrs Total Education O'Level NCE/OND HND/BSc Postgraduate Degree Total Job Status Senior Staff Junior Staff Casual Staff Total
+
+400
+
+204 92 94 10 400
+
+154 150 89 7 400
+
+48 150 202 400
+
+100
+
+51.0 23.0 23.5 2.5 100
+
+38.5 37.5 22.3 1.8 100
+
+12.0 37.5 50.5 100

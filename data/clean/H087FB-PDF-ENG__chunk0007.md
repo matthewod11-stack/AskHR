@@ -1,11 +1,15 @@
-# professional goals.
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 077da83ce6c1c9424e9fe2e6fa2204ab9f61117c
+title: H087FB-PDF-ENG
+---
+# Make Space To Think Ahead
 
-Try this: Once a week, go to a coﬀee shop with only paper and a
+You don’t have to wait until you’re an empty nester to think about how
 
-pen. Brainstorm possibilities for your future self. Don’t bring along any
+you’ll structure your life once the kids leave. Begin thinking about this transition ﬁve years out. Let your mind wander; what could your life
 
-technological device. Let your mind wander and capture your thoughts
+look like without kids at home? Then, get more speciﬁc; think about
 
-with pen and paper; the quality of your thoughts will be diﬀerent than
-
-if you use digital devices. Use this time to think broadly and speciﬁcally
+what you’d like to your life to look like, based on your interests and

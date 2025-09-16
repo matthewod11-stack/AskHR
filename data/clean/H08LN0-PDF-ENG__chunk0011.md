@@ -1,45 +1,19 @@
-# HBR / Digital Article / Research: Whistleblowing Is More Common When CEOs Are Ov…
+---
+source_path: H08LN0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed554937f059e51e2499c18e2dec192c23999dd8
+title: H08LN0-PDF-ENG
+---
+## and concerns. For example, a company with strong environmental
 
-We measured ﬁrms’ treatment of diﬀerent stakeholders using
+practices and positive community engagement would score 1 in the
 
-standardized strength scores, calculated as the total strength score
+relevant strength dimensions, while one involved in harmful activities
 
-divided by the total number of dimensions in corresponding areas.
+would be marked as 1 in the corresponding concern dimensions.
 
-For instance, in 2010-2011, Amazon was recognized for its exceptional
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-customer service (earning 1 out of 3 KLD strength dimensions for
+2
 
-customer treatment). At the same time, it faced severe criticism for
-
-poor warehouse working conditions (earning 0 out of 5 KLD strength
-
-dimensions for employee treatment). This represents a signiﬁcant
-
-disparity in ﬁrm’s treatment of customers and employees.
-
-We used both archival data and experimental data to look at how
-
-pay disparity and external stakeholder disparity aﬀect the likelihood
-
-of employees blowing the whistle and reporting organizational
-
-wrongdoing to external authorities (in our case, regarding unsafe/
-
-unhealthy working conditions).
-
-We found that in ﬁrms with greater disparities, employees were
-
-more likely to become whistleblowers—and this likelihood was further
-
-enhanced when employees believed they could easily ﬁnd another job.
-
-We also conducted two experiments to further understand the
-
-psychology behind this decision. In the ﬁrst experiment, which involved
-
-247 full-time employees in the U.S., we manipulated CEO-employee pay
-
-disparities (to be high or low) and found CEO-employee pay disparities
-
-led to higher “willingness to report a health-related issue—inadequate
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

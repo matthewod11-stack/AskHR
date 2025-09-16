@@ -1,19 +1,25 @@
-# integrity.
+---
+source_path: H07EE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef9cde96b2ffad8c7f34d534d4743be35604479d
+title: H07EE6-PDF-ENG
+---
+## HBR / Digital Article / How to Create a Worker Safety Hotline That Really Works
 
-Dairy farms are a prime example of an industry context where
+- 1. Hotlines need to be accessible, at the times, in the languages, and
 
-precarious workers may hesitate to utilize a grievance mechanism, but
+through the mediums that workers prefer.
 
-the success of the MD hotline suggests these barriers can be overcome.
+- 2. Hotlines need to institute serious protections against retaliation with
 
-In fact, in our research the managers we spoke with emphasized
+immediate, biting penalties for non-compliance.
 
-that turnover, a key labor cost for the dairy industry, plummeted
+- 3. Workers need to see fast responses to concerns, and quick resolutions
 
-after the MD hotline went into eﬀect and workers began sharing
+when they make valid complaints.
 
-concerns. Building on this success, the hotline model — developed
+- 4. Informal complaint resolution can be more eﬀective, faster, and
 
-by the MD Program and other WSR Network members — is now
+better oriented to workers’ needs. Nevertheless, retaining the option
 
-being implemented in a variety of workplaces, including Hollywood to
+of a formal process is essential to guarantee complaint process

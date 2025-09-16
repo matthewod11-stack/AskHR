@@ -1,11 +1,23 @@
-## a stupid inﬂuencer TikTok from their competitor, the time Rudi spent
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f99cfd72ebdbc6a18973c0cff7de8fb813087b6
+title: H08EJN-PDF-ENG
+---
+# plan with his boss.
 
-making the project plan was a total waste.
+“Huh,” his boss huﬀed, after taking a passive glance at a very thorough
 
-And this wasn’t the ﬁrst time Rudi’s boss had a seemingly random
+deck. “I wonder if we should be going in a diﬀerent direction. Did
 
-change of heart. It happened with the SEO overhaul project. It
+you see what our competitors put out yesterday? Maybe we should try
 
-happened with the “Let’s get interns this summer!” idea. From design,
+inﬂuencer marketing instead of making our own stuﬀ. Can you look into
 
-to copy, to budget allocation, Rudi’s boss was constantly un-doing their
+it?”
+
+“Sure,” Rudi replied, defeated.
+
+Internally, Rudi was shrieking. At the start of the week, his boss was
+
+gung-ho about the team creating their own videos, and now, because of

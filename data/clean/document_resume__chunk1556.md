@@ -1,3 +1,15 @@
-# Almost Always
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 88e2626245c316d01d5d60d34eb9e7eb2960fafe
+title: document_resume
+---
+# Almost Never
 
-Administers alternative forms of student evaluations, in addition to the administra- tion's quarterly evaluations in order to achieve more personal and specific feedback from students regarding course and faculty performance.
+2
+
+3
+
+4
+
+5

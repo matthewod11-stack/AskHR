@@ -1,1 +1,19 @@
-# Original Research
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: be835ff309f4b6aebcb8b6ecc9e7e3cedaedc033
+title: read_online
+---
+# Page 5 of 12
+
+Refusals were unconditionally respected. A sampling protocol was followed to ensure consistency in the respondents’ experience of the data sampling process. Notwithstanding a relatively high number of refusals, 315 usable responses were ultimately attained. This amounted to a response rate of about 29% of the estimated 1100 students in the evening studies programme. An outline of the sample in terms of factual and demographic data is provided in Table 1. The majority of respondents are in the age range of 20 to 35 years (71%), with a sizable portion between the ages of 36 and 50 (20%). Women comprise the majority, as do those who are unmarried. Black employees make up 67% of the sample. The racial breakdown broadly reflects the demographics of the province, Gauteng, providing support for the representativeness of the sample. Of the total respondents, 52% indicated having dependent children. Over half the sample was therefore expected to be managing three-way work-life balance roles that extended to studies, work and family responsibilities.
+
+We used the principles of reliability and validity to guide the research process. Reliability, or consistency, was assessed though Cronbach’s alpha tests. Piloting was also used to ensure reliability and validity. The scales and their sources are now discussed.
+
+Turnover intention Roodt’s (2004) unpublished Turnover Intention Scale was used to measure the intentions an employee has to either stay with or leave an organisation. The scale is also used by Jacobs and Roodt (2008). It consists of 14 items measured using a seven-point Likert scale which ranges from ‘never’ to ‘always’. The scale has previously been validated in the South African context, attaining a Cronbach’s alpha of 0.80 (see Bothma & Roodt 2013). In this study, its value is 0.84.
+
+Work-life balance Haslam et al.’s (2015) Work–Family Conflict Scale (WAFCS) was utilised to assess WLBC. The scale consists of 10 items in which five items are used to measure family-to-work conflict and the remaining five items are used to assess work-to- family conflict. These measures apply a seven-point scale to measure participants’ agreement with statements, varying from ‘very strongly disagree’ to ‘very strongly agree’. The alpha in this study was 0.877.
+
+Job satisfaction The Minnesota Satisfaction Questionnaire (MSQ) has been widely used to measure job satisfaction (Weiss et al. 1967). The scale contains 20 items that measure individuals’ intrinsic, extrinsic and general levels of satisfaction with the use of a five-point Likert-type scale, ranging from ‘very dissatisfied’ to ‘very satisfied’. On account of piloting, 18 of the 20 items were retained, with the remaining items measuring a composite of extrinsic and intrinsic motivation. The incorporation of both intrinsic and extrinsic motivation was taken to be important in that this captured an
+
+http://www.sajems.org

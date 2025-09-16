@@ -1,25 +1,31 @@
-## Board member performance, review, and recommendation
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0fae6118fe77efb410e2dfb7bfd4e70b10a10c8
+title: H08PTL-PDF-ENG
+---
+## members toward alignment and decision-making.
 
-Chairs play a key role in evaluating board member eﬀectiveness,
+Summarizing may sound like something AI could handle easily, but it’s
 
-inﬂuencing tenure, and shaping future board composition.
+a powerful way for the chair to shape how the board understands things
 
-The chair must make sure the board as a whole is functioning well
+and the conclusions they reach. It’s about listening carefully, ﬁnding the
 
-and has the right mix of skills and experience. This isn’t something an
+main threads of the conversation, then putting it all together in a way
 
-optimizing routine of AI can do. It might require having some tough
+that builds consensus and moves things forward. If there’s confusion or
 
-conversations and even removing dysfunctional elements from the
+discord among the board members, the chair must step in and provide
 
-board. The chair also gets involved in setting board committees, such
+the context they need. Summarizing diﬀerent viewpoints enables chairs
 
-as the audit committee and compensation committee. It’s the chair’s job
+to subtly guide the narrative.
 
-to identify the right personnel from the board, balancing the right skill
+While AI can summarize a conversation, it can miss nuances, such as
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the things people aren’t saying or shifts in mood, that a good chair
 
-4
+can pick up on and use in their summary. It’s about reading the room,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+adding context and reframing, and making decisions.

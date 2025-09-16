@@ -1,11 +1,21 @@
-# Unspoken issues and hidden agendas
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4a25ae096d6e91f12d901ff83cf84ba60551cbf
+title: H075PH-PDF-ENG
+---
+# HBR / Digital Article / Why Employee Mediations Fail — and How to Get Them Back on…
 
-Problems can’t be resolved in open dialogue if important issues are kept
+are ﬁghting over sparse funding allocations or even the attention and
 
-hidden. For example, perhaps there are tensions around gender equity in the oﬃce, and the department heads in this scenario are diﬀerent
+recognition rarely doled out by higher-ups.
 
-genders. Mediations that involve issues that organizations aren’t talking
+Limiting conditions Eﬀorts that are greatly constrained by time, law, norms, or other factors
 
-openly about tend to fail.
+are also prone to ﬂop. To suggest that two employees can work out their
 
-So how can you guide your staﬀ, your company, or other types of
+issues in a single, two-hour meeting might be wrong. Working things out
+
+takes as long as it takes, and mediation doesn’t always respond to the
+
+parameters that organizations draw.

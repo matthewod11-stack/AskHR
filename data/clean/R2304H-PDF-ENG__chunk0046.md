@@ -1,21 +1,25 @@
-## disabilities or suﬀer from mental illness (many of whom might
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a7bad8399fcc050c844489ee40877490043f30d
+title: R2304H-PDF-ENG
+---
+# responsible.
 
-otherwise be in psychiatric hospitals), paying them standard salaries.
+These ﬁndings, however, do present some challenges for companies.
 
-By buying the cooperative’s products and services, customers will
+If people value how something is produced and by whom, it implies
 
-help these people have productive and meaningful lives. However,
+that the company needs to show and communicate to customers about
 
-supermarket consumers may not know about La Fageda’s workers.
+whom it employs. With a coﬀee chain, that’s easy because the servers
 
-To address that problem, the cooperative opened a visitors’ center,
+can be directly observed by customers. But with, for example, a factory,
 
-which, given its location in an area of natural beauty, attracts more
+it will require a lot more thought.
 
-than 40,000 visitors a year. “That is the best marketing we have,”
+Take the successful Spanish cooperative La Fageda, which runs a
 
-commented founder Cristóbal Colón. “People go away not just liking
+dairy farm and a gardening business and is well-known for its high-
 
-the yogurt but also—after seeing the forest, the cows listening to their
-
-music, and the workers doing their jobs—as apostles.” People develop
+quality yogurt. It employs several hundred people who have intellectual

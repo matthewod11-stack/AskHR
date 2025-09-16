@@ -1,3 +1,7 @@
-## Why Cross-Functional Collaboration Stalls, and How to Fix It
-
-Research shows that 78% of leaders report “collaboration drag” — too many meetings, too much peer feedback, and too much time spent getting buy-in from stakeholders. by Sharon Cantor Ceurvorst, Kristina LaRocca-Cerrone, Aparajita Mazumdar, and Anja Naski
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cbd839f885ead23dc9ef4e356261e3cd66fd9de2
+title: H08A5M-PDF-ENG
+---
+# HBR / Digital Article / Why Cross-Functional Collaboration Stalls, and How to Fix It

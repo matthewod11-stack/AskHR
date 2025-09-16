@@ -1,7 +1,11 @@
-# in pivotal commercial decisions.
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95c166b45b19e7c144a24400345be2209792fbc7
+title: H08A5M-PDF-ENG
+---
+# themselves.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Consequently, her team has successfully renegotiated their role on
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+cross-functional programs, and they are now seen as business partners

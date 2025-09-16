@@ -1,3 +1,9 @@
-# New York: Basic Books.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: cc3e3bfffb22c9f559739ce5571156255e867ecf
+title: untitled
+---
+# gences. New York: Basic Books.
 
-Gardner, H. (1999). Are there additional intelligences? The case for naturalist,spiritual,andexistentialintelligences.InJ.Kane(Ed.), information, and transformation (pp. 111–131). Education, Upper Saddle River, NJ: Prentice-Hall.
+Gardner, H. (1993). Multiple intelligences: The theory in practice.

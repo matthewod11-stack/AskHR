@@ -1,17 +1,25 @@
-# presenteeism.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff5f0d8b9fb413586342de95b1e0492706302369
+title: H08R51-PDF-ENG
+---
+# success, and career advancement.
 
-Our analysis further reveals that job security intensiﬁes occupational
+- 2. Working while sick reﬂects gendered job roles and pressures.
 
-presenteeism patterns. When job security was perceived as low,
+Occupational sorting (the tendency for men and women to cluster into
 
-women consistently missed fewer workdays than men, suggesting they
+diﬀerent sectors) further compounds these gendered pressures. Female-
 
-feel heightened pressure to demonstrate reliability under insecure
+dominated sectors, such as education, healthcare and social services,
 
-conditions. However, as job security improved, women were more
+and administration, often feature rigid schedules, strict attendance requirements, limited autonomy, and chronic understaﬃng, creating
 
-likely to use sick leave, indicating that stability helps alleviate fears
+structural barriers that discourage sick leave use. Male-dominated
 
-of professional repercussions. By contrast, men continued to report
+sectors, such as engineering, ﬁnance, and tech, while typically oﬀering
 
-presenteeism even with increased job security, indicating deeply
+more formal schedule ﬂexibility, frequently perpetuate an availability
+
+culture that rewards visible responsiveness, paradoxically increasing

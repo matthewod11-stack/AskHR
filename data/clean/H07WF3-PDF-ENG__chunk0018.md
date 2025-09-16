@@ -1,13 +1,21 @@
-# HBR / Digital Article / A Sports Analogy for Understanding Different Ways to Use AI
+---
+source_path: H07WF3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b36fd971fe6f40e7b5cc93bcc3f02066fc0e9cbd
+title: H07WF3-PDF-ENG
+---
+# Norms Will Emerge
 
-it would be equally diﬃcult to make a case for giving a calculator
+Second, we will need to develop rubrics for thinking about when and
 
-to a grade school student learning basic addition. Just as we have
+how we use AI-powered tools. Calculators serve as another historical
 
-come to settle on these norms for navigating how and when we use
+analog here. While we would be hard pressed to make an argument
 
-past technological innovations, we imagine the same will emerge for
+against a banker using a calculator to compute compound interest,
 
-AI-powered tools: the same tool may be considered beneﬁcial in some
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-settings but detrimental in others. We also expect these norms to shift
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

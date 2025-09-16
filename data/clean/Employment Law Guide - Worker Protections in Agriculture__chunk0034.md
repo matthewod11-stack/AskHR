@@ -1,9 +1,9 @@
-## Name, permanent address, and Social Security number
+---
+source_path: Employment Law Guide - Worker Protections in Agriculture.md
+pages: n/a-n/a
+chunk_id: 813855b0181bdbf2bef179517d9aa1bee2cbb8b4
+title: Employment Law Guide - Worker Protections in Agriculture
+---
+## Act(https://www.dol.gov/whd/regs/compliance/whdfs51.pdf).
 
-Basis on which wages are paid
-
-Number of piecework units earned, if paid on a piecework basis
-
-Number of hours worked Total pay period earnings
-
-Speciﬁc sums withheld and the purpose of each sum withheld
+Payroll records. Each farm labor contractor, agricultural employer, and agricultural association that employs migrant or seasonal agricultural workers must make and keep the following records for each worker:

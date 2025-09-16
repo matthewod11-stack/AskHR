@@ -1,9 +1,11 @@
-# Leadership
+---
+source_path: microsoft_word_5_docx.md
+pages: n/a-n/a
+chunk_id: 73ec00a1530a649ce2bbbfc989ce327217382e4d
+title: microsoft_word_5_docx
+---
+# M anaging in times of crisis
 
-It is clear that leadership is fundamental for the effectiveness of work groups and for
+It is therefore of utmost importance to conduct an exhaustive diagnosis in order to plan adequately for the medium- and long-term, using a participatory model based on the right balance between the commercial, public and social sectors (Rifkin, 1997). As we saw previously, at present and with an eye toward the future, municipal management should move towards carrying out six basic functions (Blanco, 2012): administer, coordinate, manage, integrate, invest, and plan. These functions should lead to the achievement of strategies based on actions and tasks that the municipalities can develop in an autonomous way and to their capacity to provide quality services.
 
-the organizations to which they belong (Baquero Pecino & Sánchez Santa-Bárbara, 2000).
-
-During a visit to Spain, John Kotter, speaker on the subject of Leadership and Change, stated that “it is not possible to manage organizations of the 21st century using frameworks from the 20th century and directors from the 19th century”, and that only one out of every five persons occupying an executive position has the makings of a leader.
-
-Leadership must respond effectively to the new needs of organizations: innovation, cultural diversity, work-based knowledge, communication, and work groups. Work groups play a central role in organizations, and leadership is essential for the effectiveness of these teams (Judge & Piccolo, 2004; O`Reilly, Caldwell, Chatman,Lapiz & Self, 2010).
+We must work to change. We have to know where we’re going, what we are, and what we are here for. Along this line, about public sports, render a faithful portrait of the reality we have before our eyes and which has installed itself in our society, a reality that has come to stay for a long time. Anyone who refuses to see it this way has and will continue to have a problem because “one can not hope to resolve new situations with old formulas”.Planning, structure, and organization of Human Resources are the most valuable assets any organization or business has. Sharing common goals, managing talent, improving team work, and management’s leadership are key elements for the organization to function.

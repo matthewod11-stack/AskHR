@@ -1,7 +1,9 @@
-## implementation strategy. Asian Academy of Management Journal, 11(1), 67–82.
+---
+source_path: issn_2222_1905_paper_issn_2222_2839_online.md
+pages: n/a-n/a
+chunk_id: d8f21f92763b8f41fe8ef78d8cd243783ff2529a
+title: issn_2222_1905_paper_issn_2222_2839_online
+---
+## company performance. European Journal of Innovation Management, 1(2), 74–84.
 
-Johnson, M.P. (2008). A typology of domestic violence: Intimate terrorism, violent resistance, and situational
-
-115
-
-European Journal of Business and Management www.iiste.org ISSN 2222-1905 (Paper) ISSN 2222-2839 (Online) Vol.10, No.26, 2018
+Ismail, N., Abdullah, H.S. & Salamuddin, N. (2006). Iso 9000 acceptance and the moderating effect of the

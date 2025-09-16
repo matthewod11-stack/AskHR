@@ -1,17 +1,7 @@
-# MirageC/Getty Images
-
-While many managers are attempting to improve inequalities facing
-
-employees by implementing diversity, equity, and inclusion (DEI)
-
-policies, these policies often have unexpected, negative consequences
-
-for the employees — including those the policies are trying to help. How
-
-can managers avoid this?
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07TPI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d02504d51e88f19124b5f8f11771226eb6d3cf7d
+title: H07TPI-PDF-ENG
+---
+## Published on HBR.org / October 06, 2023 / Reprint H07TPI

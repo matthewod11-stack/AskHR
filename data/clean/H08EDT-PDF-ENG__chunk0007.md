@@ -1,13 +1,9 @@
-## to more openly accept gender and racial inequalities as structural
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae2b7ced2b1c7d27703da8b576a4cc9e96dec148
+title: H08EDT-PDF-ENG
+---
+# gender and racial equity at work.
 
-issues, not what I call “ﬁx women” ones. Leaders have stepped up
-
-commitments to do better at solving for both. Words like “bias”
-
-“microaggressions,” and “racism” are all more accepted in the corporate
-
-lexicon. (So much so that I’ve even made the case for leaders to retire
-
-the term “microaggressions” in favor of “exclusionary behaviors.”)
-
-Despite this progress, gender equity still remains uneven. Coupled with
+Fortunately, much has improved in the past decade. We’ve learned

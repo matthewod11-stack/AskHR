@@ -1,23 +1,11 @@
-## Journal of European Industrial Training 25/1 [2001] 5±32
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: c89c569093ad06fcec1f2d3109b16d8581681b55
+title: journal_of_european_industrial_training
+---
+# I
 
-[22]
+d e d a o l n w o D
 
-Benefits and drawbacks of peer feedback One of the most frequently cited benefits of peer feedback arises from the discussion of the problems associated with traditional top-down appraisal in a teamwork environment. Numerous commentators argue that employees who work closely with and depend on their peers/co-workers can observe teamwork and task performance first hand and they are the best judges of performance (Fedor et al., 1999; Bettenhausen and Fedor, 1997; Murphy and Cleveland, 1991; Wexley and Klimoski, 1984; Kane and Lawler, 1978).
-
-Yammarino and Waldman (1993) report that peers are better than supervisors at evaluating skills that lead to improved performance. Cotton (1993) points out that peer appraisals can foster a more participative culture in an organisation, whereby the employees feel that they have input into the performance appraisal process and that their voice is being heard. Peers may also be more sensitive than supervisors to the contextual factors that impinge on performance and to the manner in which the focal individual responds to such factors (Cardy and Dobbins, 1994). Downey et al. (1976) advocate that peer ratings are a valid method of appraisal in terms of the prediction of future performance and Shore et al. (1992) found that peer ratings predicted future job advancement more accurately than assessment centres.
-
-This approach is, however, often criticised. The problem of popularity contests inherent in upward appraisal is also a problem for peer appraisals. Individuals vie for higher scores based on their friendship and personal relationship with the raters (Bettenhausen and Fedor, 1997; Love, 1981; Kane and Lawler, 1978). Numerous researchers report that peer ratings are subject to rater errors (see, for example, Saavedra and Kwun (1993)). Fedor et al. (1999, p. 93) refer to the
-
-problems that stem from the fact that peer feedback passes responsibilities on to employees that are not standard components of traditional performance appraisal systems. They posit that peer feedback ``goes beyond the psychological contract that legitimates the authority of one's boss to assign tasks and evaluate performance''.
-
-Another issue with peer feedback is that
-
-participants in the process may fear the repercussions of providing the focal individual with negative feedback (Bettenhausen and Fedor, 1997) and thus they may alter the ratings to avoid unpleasant consequences. The problem of self-serving bias is especially prevalent in the context of peer appraisal and, as Cardy and Dobbins
-
-(1994) point out, peer ratings provide individuals with an opportunity to alter their evaluations of others in order to enhance their own standing in the group/team. Peer feedback, therefore, is not without faults and failings.
-
-Employee acceptance of peer feedback User acceptance of subordinate ratings is an essential prerequisite to effective upward appraisal. This also applies to the peer appraisal component of the 3608 feedback process. Several commentators have indicated that a key to successful implementation of a peer evaluation system is gaining the acceptance of targeted employees (Maurer and Tarulli, 1996; Fedor and Bettenhausen, 1989; McEvoy and Buller, 1987). Cederblom and Lounsbury (1980) argue that, while peer evaluations may provide valid and reliable measures of performance, an obstacle to their use in organisations is resistance by potential or actual users of this particular assessment approach.
-
-One of the earliest studies to investigate
-
-this issue is that of Cederblom and Lounsbury (1980). They specifically investigated employee reactions to the use of peer evaluations and factors associated with acceptance or rejection of the system. They conducted the research among the faculty of a university in the USA and found that respondents indicated a relatively low degree of acceptance of peer appraisals. An important finding to emerge from the study is that recipients' previous peer ratings are not positively related to acceptance of the peer feedback, which implies that, even if employees receive negative ratings, this does not necessarily lead to resistance to peer appraisal. Cederblom and Lounsbury's findings reinforce the idea that recipient resistance to peer appraisal is a serious obstacle to the successful utilisation of this assessment method.
+Alma M. McCarthy and Thomas N. Garavan 3608 feedback processes: performance improvement and employee career development

@@ -1,17 +1,23 @@
-# Decrease in Time Pressure
+---
+source_path: H08S86-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37dd42da423505cdf8d635f78e51663d8ee0ef1f
+title: H08S86-PDF-ENG
+---
+# Minimization of Disruption
 
-There is always pressure to perform—particularly if you’re a new CEO.
+The appointment of a new CEO is a major disruptive event for any
 
-However, this pressure is especially strong closer to the end of a
+company regardless of the reason for the CEO change. The beginning of
 
-calendar or ﬁscal year, when ﬁrm results are more closely scrutinized
+a calendar or ﬁscal year presents a natural breakpoint to interrupt the
 
-and employees often have performance reviews. CEOs that begin their
+work of organizational members. Synchronizing a new CEO succession
 
-tenures in the middle of the year are, for example, more likely to feel
+with the beginning of the calendar or ﬁscal year allows enough time
 
-the pressure of earnings management, which can negatively impact
+for organizational members to regain focus and attention on tasks and
 
-their decision-making. Thus, appointing CEOs at the beginning of the
+projects before results are expected, thus reducing disruptive eﬀects
 
-calendar or ﬁscal year can alleviate time-induced pressure, enhancing
+associated with CEO succession.

@@ -1,13 +1,23 @@
-## HBR / Magazine Article / Your Company Needs an Eldercare Policy
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57b045f7f68189a0888fe9bf66903f26a15970c6
+title: R2504F-PDF-ENG
+---
+## of new and expanded policies, programs, and beneﬁts. The business
 
-The factors driving the need for eldercare support vary greatly
+case for doing so is straightforward. According to Care.com, supporting
 
-around the world, and international organizations adjust their beneﬁts
+family caregivers improves productivity, retention, recruitment, and
 
-oﬀerings to local laws and circumstances. That’s because although
+diversity, and according to the Rutgers Center for Women in Business,
 
-the demographics of population aging are common across developed
+the work of caregiving itself leads to growth: Caregivers have been
 
-countries, many countries have longer health spans and better public-
+shown to bring enriched capabilities to the workplace, among them empathy, eﬃciency, and persistence.
 
-health outcomes than the United States does, in part because of more-
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

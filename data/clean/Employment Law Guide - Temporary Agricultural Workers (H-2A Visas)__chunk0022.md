@@ -1,3 +1,9 @@
-# 20 CFR 655 Subpart B(/elaws/leave-dol.asp?exiturl=http://www.ecfr.gov/cgi-bin/text-
+---
+source_path: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas).md
+pages: n/a-n/a
+chunk_id: 5748273c4b36e626520321349b6c77a08df6d284
+title: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas)
+---
+# vgnextoid=fa7e539dc4bed010VgnVCM1000000ecd190aRCRD&vgnextchannel=fa7e539dc4bed010VgnVCM1000000ecd190aRCRD&CH=act) as
 
-idx^Q^SID=63897809ad4456751d89724b48501343|node=20:3.0.2.1.28|rgn=div5@20:3.0.2.1.28.4&exitTitle=www.ecfr.gov&fedpage=yes), and 29 CFR Part
+amended (8 USC §§1101, 1184, and 1188;

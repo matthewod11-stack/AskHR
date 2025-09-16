@@ -1,9 +1,11 @@
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d3ea9b223db7714424216f2c1f76eadf79abf287
+title: untitled
+---
 # Brace.
 
-Köhler, W. (1929). Gestalt psychology. New York: Liveright.
+Kohler, R. (1990). The Ph.D. machine. Isis, 81, 638–662.
 
-Koshtoyants,K.(1965).I.M.Sechenov(1829–1905).InI.Sechenov (Ed.), Reﬂexes of the brain (pp. 119–139). Cambridge, MA: MIT Press.
-
-Krantz, D. L. (1972). Schools and systems: The mutual isolation of operant and non-operant psychology as a case study. Journal of the History of the Behavioral Sciences, 8, 86–102.
-
-Kusch, M. (1995). Recluse, interlocutory, interrogator: Natural and social order in turn-of-the-century psychological research schools. Isis, 86, 419–439.
+Köhler, W. (1926). The mentality of apes. New York: Harcourt,

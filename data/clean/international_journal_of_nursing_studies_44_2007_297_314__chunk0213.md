@@ -1,13 +1,19 @@
-# Harper and Row, New York.
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 5d47bb2cbaa0f9752ff54111c70b49024fa8a80c
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# ed. Jossey Bass, London.
 
-Seccombe, I., Smith, G., 1997. Taking Part: Registered Nurses and the Labour Market in 1997. Institute for Employment Studies, Brighton.
+Rambur, B., Palumbo, M., McIntosh, B., Mongeon, J., 2003. A statewide analysis of RN’s decision to leave their position. Nursing Outlook 51 (4), 182–188.
 
-Shader, K., Broome, M., Broome, C., West, M., Nash, M., 2001. Factors inﬂuencing satisfaction and anticipated turn- over for nurses in an academic medical centre. Journal of Nursing Administration 31 (4), 210–216.
+Rosenzweig, P., 1994. When can management science research be generalised internationally? Management Science 40 (1), 28–39. Royal College of Nursing, 2002. Royal College of Nursing Congress 2002 report summary. Nursing Standard 16, 4–9.
 
-Smith, P., Kendall, L., Hulin, C., 1969. Measurement of Satisfaction in Work and Retirement. Rand McNally, Chicago.
+Saleh, S., Lee, R., Prien, E., 1965. Why nurses leave jobs. An analysis of female turnover. Personnel Administration 28, 25–28.
 
-McKenna, E., 2000. Business Psychology and Organisational Behaviour: A Student’s Handbook, third ed. Psychology Press, Philadelphia.
+Larrabee, J., Janney, M., Ostrow, C., Withrow, M., Hobbs, G., Burant, C., 2003. Predicting registered nurse job satisfaction and intent to leave. Journal of Nursing Administration 33 (5), 271–283.
 
-Sorrentino, E., 1992. The effect of head nurse behaviours on nurse job satisfaction and performance. Hospital Health Services Administration 37, 103–113.
+Lu, K.-Y., Lin, P.-L., Wu, C.-M., Hsieh, Y.-L., Chang, Y.-Y., 2002. The relationships among turnover intentions, profes- sional commitment, and job satisfaction of hospital nurses. Journal of Professional Nursing 18 (4), 214–219.
 
-McNeese-Smith, D., 1993. Leadership behaviour and employee
+Maslow, A., 1970. Motivation and Personality, second ed.

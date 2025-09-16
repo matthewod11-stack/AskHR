@@ -1,11 +1,13 @@
-## E-learning: Gaming, Simulations, Massive Open Online Courses, and Social Media
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 11d032354403061345c49a79100529242dbd0bf3
+title: arop1noe_245_275
+---
+## Social Learning and Communities of Practice
 
-The use of technology for delivering and facilitating learning is becoming increasingly popular because traditional face-to-face learning methods are expensive and difficult to bring to geo- graphically dispersed employees. Although e-learning has high development costs, organizations can potentially reduce their overall learning costs compared with face-to-face instruction through reduced travel and lodging costs, recurring instructional costs, and lost wages by learners. These costsavingscomefromlearners’abilitytoaccesse-learninganywhereandanytimefromapersonal computer, tablet, or smartphone, thus eliminating the need for an instructor (Bedwell & Salas 2010). However, e-learning is not inherently more effective than other instructional methods. Emerging research suggests that for organizations to develop human capital from e-learning, they mustinsurethatitfacilitateslearningandtransferoftrainingthroughtheuseofpractice,feedback,
+Itis well established that sociallearning occurs through observation, imitation, and reinforcement (Bandura1962).Sociallearningremainsrelevant,butthesocialcontextforlearninghasdrastically changed with advancements such as social media providing access to a greater number of models or social others to learn from. This suggests that our traditional model of social learning should be revisited. One emerging area of research focuses on the effectiveness of learning from others from an evolutionary perspective. Using a computer-simulated tournament, Rendell et al. (2010) showed that social learning was the most effective mode of learning when compared with asocial forms of learning (trial and error learning, a combination of social and asocial learning) because it isanadaptiveprocess.Adaptationduringsociallearningmayoccurthroughtheadoptionofeither explicit behavioral innovations or new behavior having resulted from error. To the extent that these errors are imitated and passed on, they may remain in the population. Although this study focusedonlyonindividualadoptionandadaptationofbehavior,theevolutionaryperspectivemay be useful for understanding how human capital emerges from the individual level to the team, organization, and industry levels.
 
-250 Noe (cid:1) Clarke (cid:1) Klein
+Sociallearninghasalsorecentlybeenstudiedinthecontextofcommunities of practice (Lave & Wenger 1991, Wenger 1998). Communities of practice have been used by organizations in an attempt to facilitate informal learning specifically relevant to a desired area of expertise (Li et al. 2009).Researchoncommunitiesofpracticehasbeencriticizedforitslackoftheoreticalgrounding and the use of the construct to describe many kinds of social learning (Storberg-Walker 2008, Li et al. 2009).
 
-6 2
-
-: 5 2 : 4 0
-
-5 2 0 2
+Recent work by Kirkman et al. (2011) is illustrative of the theory-driven approach needed for understanding communities of practice. The authors showed how organizational communities of practice (OCoP) are important for development of human capital resources through knowledge sharing at the organizational level. Their model included leadership, empowerment, the structure of tasks, and OCoP relevance for organizational effectiveness. They found that external com- munity leaders play an important role in enhancing OCoP empowerment, particularly to the extentthattaskinterdependencewashigh.Empowerment,inturn,waspositivelyrelatedtoOCoP effectiveness.OCoPdesignatedascorebytheorganization,thatis,workingoncriticalissues,were more effective than those that were noncore.

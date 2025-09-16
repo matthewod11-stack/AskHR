@@ -1,31 +1,21 @@
-## Italy, Japan, South and Central America, and Switzerland emailing to
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 607f0a2f6aa6081a8b606ddb20b787d637c89901
+title: R2303A-PDF-ENG
+---
+# four locations by the end of 2023.
 
-say, “Bring Bitty & Beau’s to our country.”
+Our headquarters staﬀ has grown in tandem: We now have franchise
 
-Of course, we choose and vet our franchisees carefully, spending Zoom
+liaison teams, creative services, and a much larger roasting operation
 
-call after Zoom call getting to know them. It’s wonderful if they have
+and fulﬁllment group that sends our coﬀee beans around the country.
 
-some business and franchise experience, but we also want to make sure
+We may eventually add more corporate-owned shops, but that takes
 
-they’re fully aligned with the Bitty & Beau’s mission. Many applicants
+time; meanwhile, franchising helps us capitalize on the momentum
 
-are people like us: They have family members with disabilities and want
+we’ve created. Indeed, international expansion may also be on the
 
-to create a place where they can work without feeling marginalized.
-
-Others just believe in what we’re doing and see what a diﬀerence they
-
-can make by bringing one of our shops to their hometown.
-
-Although each franchisee owns the franchise’s assets and a license to
-
-use our trademark, trade dress, systems, procedures, and operations,
-
-as prescribed in the franchise agreement, we own the business and
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+horizon. We’ve had people from Australia, Canada, England, Ireland,

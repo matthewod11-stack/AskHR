@@ -1,11 +1,33 @@
-## empathetic listening and the other elements of rapport building
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0554b1d44c27ea6b7f16b14384264eaff088881c
+title: R2402L-PDF-ENG
+---
+## forensic psychologist and University of Liverpool professor Laurence
 
-to constructive assertions and requests. When you have done the
+Alison explains in his book Rapport (written with Emily Alison), “When
 
-work to fully, unemotionally, and nonjudgmentally understand your
+we are able to extract someone’s core beliefs and values, we often
 
-counterpart’s needs, interests, and perspectives—and to ensure that the
+ﬁnd that they are more similar to ours than we imagine.” He adds
 
-person knows and trusts that you’ve done so—you earn the right to state
+that even if they’re not, “we don’t have to agree but we should seek
 
-your own needs, interests, and perspectives; make speciﬁc requests; and
+to understand.” Alison recommends that negotiators hold themselves
+
+accountable by asking themselves four questions: Am I being honest
+
+or trying to manipulate the other person? Am I being empathetic and
+
+seeing things from that person’s perspective or just concentrating on my
+
+own point of view? Am I respecting and reinforcing people’s autonomy
+
+and right to choose, or am I trying to force them to do what I want? Am
+
+I listening carefully and reﬂecting to show a deeper understanding and
+
+build intimacy and connection?
+
+Ultimately, the most eﬀective among us eventually move beyond

@@ -1,7 +1,15 @@
-# the public.
+---
+source_path: Employment Law Guide - Whistleblower and Retaliation Protections.md
+pages: n/a-n/a
+chunk_id: 91ab55b0d5f55f5d90364ea198e07a370a7c413e
+title: Employment Law Guide - Whistleblower and Retaliation Protections
+---
+# premium.
 
-Other Department of Labor agencies, such as the Wage and Hour Division, the Employee Beneﬁts Security
+Under the Seaman's Protection Act (SPA), as amended by the Coast Guard Authorization Act of 2010,
 
-Administration, and the Mine Safety and Health Administration, enforce the anti-retaliation provisions of numerous other statutes and Executive Orders. Information concerning many of these additional anti-
+seamen may ﬁle complaints with OSHA if they believe that they have experienced discrimination or retaliation
 
-retaliation protections is available in other sections of the Guide.
+for reporting to the Coast Guard or another federal agency a violation of a maritime safety law or regulation. Among other things, the Act also protects seamen from retaliation for refusing to work when they reasonably
+
+believe an assigned task would result in serious injury or impairment of health to themselves, other seamen, or

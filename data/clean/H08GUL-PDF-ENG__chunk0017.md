@@ -1,49 +1,69 @@
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92bd87ad0e8440f2a24f8f16254e8dda9d1bc71b
+title: H08GUL-PDF-ENG
+---
 ## HBR / Digital Article / How 3 Companies Are Using AI to Mimic Expert Judgement
 
-They considered developing online training courses to upgrade their
+But crucially, the algorithms were based on observing the specialist’s
 
-employees’ R&D skills and problem-solving methods.
+data processing decisions, not on rules provided by the specialist
 
-However, as Leo, Head of R&D, pointed out, “We soon realized that the
+themselves. That’s because people often aren’t all that great at
 
-administrative eﬀort required, the cost involved and the need to achieve
+explaining how they make decisions. Rohan spelled out how this
 
-alignment with diﬀerent training needs presented serious obstacles.”
+works. “Instead of asking each specialist about their preferred ways
 
-What the company did: Be Smarter adopted a more ﬂexible approach.
+of treating, analyzing and interpreting satellite data to create a set
 
-This involved AI agents, each representing a speciﬁc type of expertise.
+of recommendations, we monitored what each specialist actually did
 
-As Leo explains, “The agents can interpret and generate human-like text
+with the diﬀerent data sets.” The analysis avatar started out with a
 
-to carry out a wide range of functions, such as explaining concepts,
+simple machine-learning based approach and continued to become
 
-answering questions or providing speciﬁc recommendations.” The
+more complex as more data points about the specialists’ behavior were
 
-agent is ﬂexible and can deliver modules when the employee needs
+collected.
 
-them or skip over content when it’s not required.
+Results: Today, the analysis avatars can mimic the data treatment
 
-R&D employees can use diﬀerent agents as assistants to help them
+behavior of the company’s best remote sensing specialists to a level
 
-look at a given problem from an unusual perspective. Leo provided
+of precision, recall, and accuracy that meets most simple application
 
-a case where “an R&D employee facing a technological challenge can
+demands. This has left the human specialists to focus on new or more
 
-choose multiple AI agents to help them with a technical explanation,
+complicated tasks. Moreover, inexperienced remote sensing specialists
 
-a fresh perspective, or instructions about how to tackle the problem
+joining the company fresh from university can learn the company’s best
 
-from a diﬀerent angle.” For example, an R&D employee facing a mining
+practices without distracting its human experts.
 
-technology problem can choose a software testing agent, a geology
+How to do it yourself: Look for existing AI platforms that enable AI
 
-agent, or a machinery agent to help them.
+models to capture and replicate expert decision-making patterns
 
-When selecting agents, R&D employees regularly asked themselves
+automatically through observation. Your ideal platform should support
 
-which agents are most suitable in helping them with their type of
+continuous learning and real-time data processing. This will enable
 
-problem. So, Be Smarter decided to install a rating system for employees
+your AI system to evolve as new data is gathered, thus making
 
-to provide feedback on the usefulness of an AI agent for diﬀerent types
+intelligent decisions based on expert behavior without relying on
+
+predeﬁned rules.
+
+Upskilling R&D for competitive advantage
+
+An Australian company that we’ll call Be Smarter wanted to improve the
+
+problem-solving skills of its R&D employees to boost competitiveness.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

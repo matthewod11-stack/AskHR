@@ -1,23 +1,9 @@
-# arena to the business world.
+---
+source_path: H08CWK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a33572e001b943d6487a76d46b0ee09249d7425
+title: H08CWK-PDF-ENG
+---
+## medalists Brandie Wilkerson and Melissa Humana-Paredes, and
 
-Build a circle of advisors whose feedback you trust.
-
-The foundation of an Olympian feedback strategy is to make a
-
-commitment to getting better each day. Let improvement be your North
-
-Star, guiding every action and decision.
-
-Olympians recognize the beneﬁt of having a team who can see their
-
-blind spots, hold them accountable, construct their practices and
-
-habits, and focus their eﬀorts. To build a team that can provide clear,
-
-honest, and kind feedback about how you can get better, identify that
-
-small handful of people whose counsel you trust. They could be family
-
-members, friends, colleagues, mentors, or experts. Keep the list small.
-
-Make sure that each person is committed to supporting and protecting
+identiﬁed several feedback strategies that translate from the Olympic

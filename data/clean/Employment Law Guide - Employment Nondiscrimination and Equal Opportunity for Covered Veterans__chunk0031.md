@@ -1,39 +1,19 @@
-# Basic Provisions/Requirements
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Covered Veterans.md
+pages: n/a-n/a
+chunk_id: 2769cee269305dec6e5ce11cc7f7d3a59a560bac
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Covered Veterans
+---
+## beginning on the date of such veteran's discharge or release from active duty.
 
-The regulations implementing VEVRAA include the obligation to refrain from discrimination in employment
+"Armed forces service medal veteran" means any veteran who, while serving on active duty in the U.S. military ground, naval, or air service, participated in a United States military operation for which an Armed Forces
 
-against protected veterans. The regulations also require all covered contracts and subcontracts to include the
+service medal was awarded pursuant to Executive Order 12985 (61 Fed. Reg. 1209).
 
-clause at 41 CFR 60-300.5 in each of their nonexempt contracts and subcontracts.
+"Active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S.
 
-In addition, VEVRAA requires contractors and subcontractors to list most employment openings with an
+military, ground, naval or air service during a war or in a campaign or expedition for which a campaign badge
 
-appropriate employment service delivery system. Exempted from this mandatory job listing requirement are
-
-executive and top management positions, positions that will be ﬁlled from within the contractor's organization,
-
-and positions lasting three days or less. Listing employment openings with the State workforce agency job
-
-bank or local employment service delivery system where the opening occurs will satisfy the requirement to list jobs with the local employment service delivery system.
-
-Covered contractors and subcontractors are also required to make reasonable accommodations for the
-
-known physical or mental limitations of qualiﬁed disabled veterans, unless providing an accommodation
-
-would create an undue hardship. In addition, covered contractors and subcontractors are required to take all
-
-necessary actions to ensure no one attempts to intimidate or discriminate against any individual for ﬁling a complaint or participating in a proceeding under VEVRAA.
-
-Written Program. Under the regulations implementing VEVRAA, certain contractors and subcontractors are
-
-required to have a written program for employing and advancing in employment protected veterans.
-
-Speciﬁcally, each contractor or subcontractor that has (1) 50 or more employees, and (2) a Federal contract or
-
-subcontract of $150,000 or more must prepare, implement, and maintain a written program for each of its establishments.
-
-A contractor establishment required under VEVRAA to develop and maintain a written program must preserve
-
-its supporting documentation for the immediately preceding year, unless the contractor establishment was not
-
-then covered by the requirement.
+has been authorized, under the laws administered by the Department of Defense.

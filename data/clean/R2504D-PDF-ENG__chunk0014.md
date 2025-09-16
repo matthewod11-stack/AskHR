@@ -1,13 +1,7 @@
-# disputes.
-
-The question is, what, exactly, do high-CIQ leaders do during
-
-conﬂicts? What strategies do they employ to successfully manage these
-
-encounters? Our research reveals seven principles that are particularly
-
-helpful in volatile situations. They often are apparent in the work of master mediators and peacemakers of diﬀerent stripes—people who work in business, community organizations, and global aﬀairs. In
-
-this article I’ll draw on examples from those arenas to highlight how eﬀective leaders deploy them.
-
-[ 1 ]
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c180a8462744287f0f55ea5cd6c4a0c89192370e
+title: R2504D-PDF-ENG
+---
+## social dynamics, situational factors, and systemic forces that inﬂuence

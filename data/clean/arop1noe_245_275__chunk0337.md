@@ -1,3 +1,9 @@
-## positive psychological capital. Hum. Resour. Dev. Q. 21:41–67
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 7b37138e9ab5422c61a9c28dfc2a13485cae7930
+title: arop1noe_245_275
+---
+## innovative activity. Hum. Resour. Manag. 48:485–503
 
-Luthans F, Youssef CM, Avolio BJ. 2007. Psychological Capital: Developing the Human Competitive Edge.
+Luthans F, Avey JB, Avolio BJ, Peterson SJ. 2010. The development and resulting performance impact of

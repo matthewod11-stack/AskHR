@@ -1,3 +1,13 @@
-# 5.1.3. Pay inequity and reactions to it
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: a478855f3e4a11d53abe514ac326d34fde4b2ef4
+title: file_1
+---
+# 46
 
-“One man is not any better than another, not because they are equal, but because … there is no term of comparison.”
+suggests that older individuals are more socialized and, thus, are more aware of the gender pay gap than younger ones. Finally, derived from relative deprivation theory (Crosby, 1982), marital status can be expected to have an impact on individuals’ perceptions of the gap so that married individuals perceive the phenomenon to a lesser extent than unmarried ones.
+
+In addition, based on the expectancy theory (Vroom, 1964), sector gender composition is proposed to influence the way individuals perceive the gender pay gap so that individuals in female-concentrated sectors perceive the phenomenon to a lesser extent than individuals in male-concentrated ones. Finally, drawing on social dominance theory (Sidanius and Pratto, 1999), individuals in moderate and high-status occupations are assumed to possess higher standards of what forms a reasonable reward and, thus, are suggested to perceive the gender pay gap to a lesser extent than individuals in low-status occupations.
+
+All in all, such individual factors as pay expectations, gender role orientation, perceived pay fairness, gender, age, marital status, and education are likely to have an impact on individuals’ perceptions of the gender pay gap. Also such employment factors as sector gender composition and occupational status are suggested to be related to individuals’ perceptions of the gender pay gap.

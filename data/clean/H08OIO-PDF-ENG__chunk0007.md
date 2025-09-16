@@ -1,33 +1,41 @@
-# How to Fight Strategy Fatigue
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e37e83373eea017fca3a316de688e86f02750666
+title: H08OIO-PDF-ENG
+---
+## HBR / Digital Article / How to Prevent Strategy Fatigue
 
-Having too many initiatives in play or rapidly switching them for no
+- A fashion company that keeps ﬂipﬂopping about its strategic
 
-apparent reason dilutes focus and produces strategy fatigue. So how do
+directionJennifer had been Senior Account Manager for a company
 
-you combat this? For leaders, this can be something of a mind game.
+that sells high-end women’s fashion clothing, bags, and accessories.
 
-You need to channel reactive responses to shiny new ideas through
+She had been hired to “expand the business internationally via
 
-sober testing processes:
+wholesale” (B2B) and had identiﬁed a critical but complicated path to
 
-Set up screening criteria
+make this happen. But after just two years she had left due to strategy
 
-Create clear screening criteria to evaluate whether a new idea or project
+fatigue brought on by her CEO’s ﬂipﬂopping about corporate direction.
 
-aligns with your strategic direction. Be willing to say “no” or defer
+When I asked why the CEO kept changing course, Jennifer said she
 
-ideas that don’t align. For example, on returning to Apple, Steve Jobs
+“lacked a retail background, came from a large strategy consulting
 
-conducted a comprehensive review of the company’s product lineup
+ﬁrm, and didn’t have industry knowledge.” The CEO had trouble
 
-eliminating 70 percent of existing models to refocus on core products.
+staying on track with the plan and “changed the strategy every three
 
-This decisive action streamlined operations and redirected employee
+months,” switching from international expansion to extra focus on
 
-focus towards innovation. The subsequent introduction of the iMac
+retail (B2C), to opening more stores, to using a diﬀerent brand for a
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+certain product—to anything the board okayed. “The CEO was always
 
-3
+looking for a silver bullet to deliver unrealistic ﬁnancial results,”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Jennifer observed, none of which worked. In the end, the CEO was
+
+ﬁred a year after Jennifer left.

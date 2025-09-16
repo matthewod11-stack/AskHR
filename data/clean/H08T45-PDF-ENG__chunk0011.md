@@ -1,31 +1,15 @@
-## HBR / Digital Article / 6 Steps to Reset a Demotivated Team
+---
+source_path: H08T45-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94ebe55511362f16e723d9186698694b61a601db
+title: H08T45-PDF-ENG
+---
+# customers.
 
-- 4. Recontract: Clarify the team’s ways of working
+- Set a forward-looking tone that inspires optimism and agency.
 
-Misalignment often stems from confusion about roles, priorities, and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-how team members will actually collaborate. During a relaunch, renew
+4
 
-and redeﬁne key elements of what McKinsey refers to as the “team
-
-operating system”: “the building blocks for the way team members
-
-collaborate, create change, and support one another.” Consider:
-
-- Roles and responsibilities: Ensure everyone knows what’s expected
-
-of them. This encompasses both written and unwritten expectations of
-
-who speciﬁcally is responsible for which deliverables.
-
-- Decision-making processes: Clarify who makes which decisions and
-
-how input is gathered.
-
-- Team norms and expectations: Consider which behaviors are
-
-expected, what the optimal cadence is for meetings and collaboration,
-
-and when you’ll engage in feedback. It’s especially critical to regularly
-
-realign and reinforce these expectations when working across borders,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,29 @@
-# way:
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21e9e02fb00868922b40f03e6f19963378cc5d07
+title: H08SR2-PDF-ENG
+---
+## The Benefits of Relational Holding Environments
 
-He [was] the kind of person that I would think to myself like, “Oh,
+Making positive connections across status differences
 
-he’s going to question my credentials”…And the way that I was able to
+Leadership roles can feel lonely, and it is often diﬃcult for leaders to
 
-get over or look past some of that feeling of intimidation or a sense of
+ﬁnd the “right” ways to connect with higher-level leaders, peers, and
 
-like imposter syndrome that was really heightened by my interaction
+employees. Interacting in a relational holding environment gave leaders
 
-with this person was to kind of bond over our shared Peloton use.
+an opportunity to connect with others and share more of themselves,
 
-When considering peer leaders, Jackson, who sits in the C-suite of
+in a safe and bounded way. For example, one of our participants,
 
-his company, explained how he found colleagues in other companies
+Lila, shared that using the platform’s “high ﬁve” function to encourage
 
-through platform-related social media groups, which enabled him to
+colleagues who were in the same class at the same time, and ﬁnding
+
+colleagues who had previously taken the class through the platform’s
+
+hashtag feature, gave her the courage to approach someone “hugely
+
+inﬂuential to the company” without imposter syndrome getting in the

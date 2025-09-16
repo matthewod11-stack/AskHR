@@ -1,29 +1,29 @@
-## data standards and share data freely across an organization, although
+---
+source_path: S25011-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 8a893ac8ff4d711a3e24cb8ee61a7eec7ca27433
+title: S25011-PDF-ENG (1)
+---
+## improvement approaches like lean and Six Sigma—contributed to the
 
-many departments may be reluctant to do so. After all, they’ve
+decline in the popularity of process thinking. But over the past several
 
-implemented systems tailored for their speciﬁc needs, not necessarily
+years new technologies have created opportunities for organizations to
 
-for end-to-end eﬀectiveness. When departments don’t coordinate their
+transform process management. This is a key reason that we argue that
 
-data, however, it often leads to problems.
+companies should now return to employing it broadly.
 
-Consider an operations department whose job is to assemble the
+Process management and technology are mutually reinforcing. New
 
-various components of orders. Its employees receive orders from the
+technologies help companies signiﬁcantly scale up improved processes,
 
-sales department but quickly ﬁnd lots of holes and errors. So they do
+and it’s much easier to deploy and get value from a new AI algorithm
 
-their best to clean up the data—after all, they have key performance
+when the process it supports is well-deﬁned and well-managed. End-
 
-indicators to meet. One can’t fault sales, which has no idea that the
+to-end integrated processes also make it easier to obtain the huge
 
-data it provides is bad. Still, the people in operations have to spend a
+quantities of high-quality data needed to train AI.
 
-lot of time on a task for which they’ve received no training or support,
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Good process management requires departments to adopt common

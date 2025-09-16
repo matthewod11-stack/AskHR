@@ -1,7 +1,13 @@
-# conform to expectations at the time.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f03699e831417be4113e0aadf8b676888288ccf3
+title: H07RVB-PDF-ENG
+---
+## professional job in the 1980s, in the fashion industry, Jim Fielding
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+led what he calls a “double life.” With close friends and conﬁdants, he
 
-1
+was open about his relationship with another man. But at work, when
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+discussing his partner he’d switch his pronouns and change stories to

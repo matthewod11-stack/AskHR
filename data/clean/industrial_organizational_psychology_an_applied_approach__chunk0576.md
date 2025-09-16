@@ -1,5 +1,7 @@
-# Points
-
-High school education or less Two years of college Bachelor’s degree Master’s degree Ph.D.
-
-40 80 120 160 200
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b9e21cbd8fea4873caa72172ac45ac536fbabc99
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Example of Completed Job Evaluation Results

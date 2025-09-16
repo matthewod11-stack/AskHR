@@ -1,9 +1,17 @@
-# DamodaranL,OlphertW.2000.Barriersandfacilitatorstotheuseofknowledgemanagementsystems.Behav.
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: e295d5ca6c4360ccc22b737e99b82c60952cb56e
+title: arop1noe_245_275
+---
+# CrookTR,ToddSY,CombsJG,WoehrDJ,KetchenDJJr.2011.Doeshumancapitalmatter?Ameta-analysis
 
-Inf. Technol. 19:405–13
+of the relationship between human capital and firm performance. J. Appl. Psychol. 96:443–56
 
-Daniels K, BoocockG, Glover J, Holland J, Hartley R. 2009. An experiencesampling study of learning, affect,
+Cummings JN. 2004. Work groups, structural diversity, and knowledge sharing in a global organization.
 
-and the demands control support model. J. Appl. Psychol. 94:1003–17
+Manag. Sci. 50:352–64
 
-DeRue DS, Ashford SJ, Myers CG. 2012a. Learning agility: in search of conceptual clarity and theoretical
+Dabbagh N, Kitsantas A. 2012. Personal learning environments, social media, and self-regulated learning:
+
+a natural formula for connecting formal and informal learning. Internet High. Educ. 15:3–8

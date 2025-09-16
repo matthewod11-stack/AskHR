@@ -1,19 +1,25 @@
-# engagement scores.
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40cad3ac86daa7d3205138bc9a8ce294b54fa3c4
+title: H077VU-PDF-ENG
+---
+## emergence of cliques, silos, and conﬂicts.
 
-Shared goals can also foster team-building outside the oﬃce, during
+And yet shared goals can still oﬀer leaders a valuable opportunity for
 
-recreational activities. A well-designed social activity can do more than
+building a team mentality, even when collaboration is limited. For
 
-deliver a fun experience, it can present the conditions that empower
+example, managers can draw attention to the ways projects require a team eﬀort. Doing so can be as simple as highlighting an important
 
-colleagues to work shoulder-to-shoulder toward a common objective. In
+collaboration, or publicly thanking an individual whose contributions
 
-other words, skip the oﬃce happy hour and invest in a collaborative
+are vital to a team’s success but are easy to overlook.
 
-cooking class.
+Another option is to emphasize team-wide goals (such as objectives
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+and key results, or OKRs) that can only be achieved through working
 
-4
+together. Depending on the department, team OKRs may include
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+increasing referrals, improving organic traﬃc, or optimizing employee

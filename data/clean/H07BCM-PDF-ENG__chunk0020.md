@@ -1,31 +1,21 @@
-## HBR / Digital Article / What’s Stopping You from Reinventing Your Career?
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 629db263c5053278357057f0ca9a47ecd911787c
+title: H07BCM-PDF-ENG
+---
+# future.
 
-direction of her career progress? She realized it was time to leave the
+We asked Em to literally draw a prototype of a possible next step for
 
-organization she had loved. Em followed her inner compass of intuition,
+her. She sketched a journey with diverging paths and herself with an
 
-resigned from her executive role to pursue an advanced degree in
+inner compass that was fueled by intuition. She considered each of the
 
-psychology to prepare for the next step in life and have more time with
+possible future paths, asking herself: How energizing it would be? How much it ﬁt her own skill sets? And, how it would aﬀect the rate and
 
-her family. She tells us that stopping her overthinking about her past
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-role created space for her to dare to imagine a possible future that she
+4
 
-ﬁnds exciting and energizing.
-
-If you catch yourself frequently saying “let me think that through,”
-
-you are likely overthinking. Instead, notice other often-overlooked
-
-sources of data — emotional and intuitive — and take an experimental
-
-approach. Personal reinvention is best served by doing, rather than
-
-thinking: Trying things out and learning from the outcome. Attention to
-
-physical cues, your intuition about how the experiment worked, as well
-
-as others’ reactions can provide sources of data that can help you get out
-
-of the overthinking trap.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

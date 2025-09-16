@@ -1,13 +1,13 @@
-# a glossary
+---
+source_path: Your Guide to Working on Global Teams.md
+pages: n/a-n/a
+chunk_id: 4d6af3acf326e0264836e8e5fda51e8b9878cfdd
+title: Your Guide to Working on Global Teams
+---
+# Your Guide to Working on Global Teams
 
-Don’t say: “What’s your bandwidth for this project?
+https://hbr.org/2023/07/your-guide-to-working-on-global-teams
 
-Do say: “How much time do you have to work on thisproject?”
+7/9
 
-Don’t use idioms (or give an explanation when you do usethem)
-
-Don’t say: “You can call the shots on this project.”
-
-Do say: “You’ll be the main decision-maker on this project.”
-
-Do reformulate to use
+Avoid jargon or provide

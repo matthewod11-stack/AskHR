@@ -1,15 +1,17 @@
-## renewable energy, and environmental sustainability.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ef945b514f00347f899b2f56cdd15363b274c47
+title: R2502E-PDF-ENG
+---
+# from automation and gen AI.
 
-Cross-industry opportunities. Workers often don’t realize they can do
+New occupational categories. By 2030 technology and other trends will
 
-a very similar job in a very diﬀerent industry. As industries grow and
+also help create entirely new kinds of jobs. This is a long-standing
 
-shrink, it’s important to keep that possibility in mind and get creative
+pattern: In the United States about 9% of all jobs have been in
 
-about seeking opportunities. In some cases it may even be worth trading
+occupations that are less than 10 years old. Recent examples include
 
-a higher salary for a role in a growth sector. Just as you do when
-
-jumping to a new occupation, when you move to a new industry you
-
-take relevant skills with you—and increase your experience capital.
+jobs related to artiﬁcial intelligence, machine learning, social media,

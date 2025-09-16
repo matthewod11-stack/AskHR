@@ -1,11 +1,13 @@
-# Penalties/Sanctions
+---
+source_path: Employment Law Guide - Workers with Disabilities for the Work Being Performed.md
+pages: n/a-n/a
+chunk_id: f06bbc11eb8f36ac5059e3bc27693e9ee9777e43
+title: Employment Law Guide - Workers with Disabilities for the Work Being Performed
+---
+## records of additions to or deductions from wages.
 
-Section 14(c) certiﬁcates can be retroactively revoked if it is found that false statements were made or facts
+The FLSA does not contain any speciﬁc reporting requirements; however, the above referenced records must
 
-were misrepresented in obtaining the certiﬁcate or if it is found that any of the provisions of the FLSA, SCA, or the terms of the certiﬁcate have been violated.
+be open for inspection by the Wage and Hour Division's representatives, who may ask the employer to make
 
-The Department of Labor uses a variety of remedies to enforce compliance with the Act's requirements. When
-
-Wage and Hour Division investigators encounter violations, they recommend changes in employment
-
-practices to bring the employer into compliance, and they request the payment of any back wages due to
+extensions, computations, or transcriptions. The records may be kept at the place of employment or in a central records oﬃce.

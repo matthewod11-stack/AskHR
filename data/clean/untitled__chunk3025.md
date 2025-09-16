@@ -1,7 +1,9 @@
-# The Interamerican Society of Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: dcf9c47765c73eaba76d86e5aa817e07d9851b12
+title: untitled
+---
+# International Associations: Regional
 
-The Interamerican Society of Psychology (usually known by its Spanish-language acronym, SIP) was founded in De- cember 1951 during the Congress of the World Federation of Mental Health. The founding members intended for the so- ciety to be a small group of prominent psychologists who would work together to foster psychological science in the Americas and the Caribbean. There were only 50 members in 1953, most from the United States, Mexico, and a few Caribbean islands. However, membership grew to more than 900 by 1964, and the society was restructured to accommo- date growth. The number of countries represented grew to include many more Latin American countries. In 2000, the society’s membership included approximately 1,000 individ- uals from 26 countries.
-
-To fulﬁll its mission to promote psychology in the Western Hemisphere, the society has held the Interamerican Congress of Psychology since 1953. For the ﬁrst 7 years, the congress was held annually, with a move to biennial meetings held in odd-numbered years after 1959. All the major areas of psy- chology have been historically represented in the society and at the congresses. Focuses in the last years of the twentieth
-
-537
+The European Federation of Professional Psychology Asso- ciations and the Interamerican Society of Psychology are the two major regional psychological associations that hold reg- ular conventions in years when neither the IUPsyS nor the IAAP are holding their congresses. In addition, the IAAP and the IUPsyS jointly sponsor regional conferences on a peri- odic basis, usually in developing areas of the world.

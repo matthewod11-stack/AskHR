@@ -1,13 +1,9 @@
-## involvement of key stakeholders from marketing and production as
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78675b101978e705d39baa7392b778747a497357
+title: H087XL-PDF-ENG
+---
+## their job description, workload, and performance evaluation.
 
-part of an engine system engineer’s job description and responsibilities,
-
-along with developing speciﬁc objectives related to this boundary-
-
-spanning role. Recognizing these activities as part of Nilam’s role is an
-
-explicit acknowledgment of the demands that the role carries. The same
-
-addition would apply to the job of Jun and Riley, such that marketers
-
-and production leads expect to cowork with people from diﬀerent
+For example, in Nilam’s case, this would mean including the

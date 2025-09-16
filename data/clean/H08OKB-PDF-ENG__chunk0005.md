@@ -1,25 +1,27 @@
-# lateral hires per ﬁrm.
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c35a9ec7653a43e00b8693316a8ed6b8be302b4
+title: H08OKB-PDF-ENG
+---
+## HBR / Digital Article / Research: Hiring a Superstar Can Backfire
 
-This leads to a very interesting question: If hiring stars is unlikely
+Organizations that rely on the knowledge and skills of their employees
 
-to work, as recognized both in the academic and in the practitioner
+as their primary asset and source of competitive advantage still struggle
 
-literature, why do organizations continue to do so?
+with this dilemma. As such, they are under the strategic imperative to
 
-Our recent working paper, which has been presented at AOM and other
+recruit the “best and brightest,” even or perhaps especially, if this means
 
-conferences, on the lateral hiring of stars in the UK legal industry helps
+poaching them from their competitors.
 
-to answer this question. We followed 2,700 star lawyers working in more
+This practice is known as lateral hiring and knowledge-intensive
 
-than 100 UK based corporate law ﬁrms over a 17-year period (2000-2017)
+organizations, such as large law ﬁrms, are increasingly reliant on it
 
-and looked at whether practice areas that hired a star performed better
+for their growth strategies. A recent industry report shows that in the
 
-in the year after hiring than comparable practice areas that did not
+largest 200 American corporate law ﬁrms there can be as many as 3,000
 
-do so. We deﬁne a lawyer as a star if they were listed in the annual
-
-UK Chambers Legal Directory. Inclusion in “Chambers” indicates that
-
-a lawyer is recognized by peers and clients as being amongst a small
+lateral hires per year at partner level. This is an annual average of 15

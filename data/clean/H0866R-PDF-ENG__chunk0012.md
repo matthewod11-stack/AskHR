@@ -1,3 +1,9 @@
-## sheer number of scheduled commitments for each family member
+---
+source_path: H0866R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf3e98bf45c7254c061066f0e397ba18b1460f83
+title: H0866R-PDF-ENG
+---
+# week:
 
-increases the likelihood of unexpected conﬂicts or forgotten things
+- The ﬁrehose of information, particularly from schools, plus the

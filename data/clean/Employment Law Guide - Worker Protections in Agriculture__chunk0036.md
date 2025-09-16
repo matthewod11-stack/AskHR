@@ -1,23 +1,25 @@
-# certiﬁcate.
+---
+source_path: Employment Law Guide - Worker Protections in Agriculture.md
+pages: n/a-n/a
+chunk_id: b620bb6681087fe8667818f37d6f0953c7d16205
+title: Employment Law Guide - Worker Protections in Agriculture
+---
+# Net pay
 
-Each registered farm labor contractor and farm labor contractor employee must carry the certiﬁcate of registration card at all times when
+Each farm labor contractor, agricultural employer, and agricultural association that employs migrant or seasonal agricultural workers must keep
 
-performing farm labor contracting activities and must show the card, upon request, to anyone with whom he/she intends to deal as a farm labor contractor.
+all payroll records for each worker for a period of three years. When a farm labor contractor employs migrant or seasonal agricultural workers for an agricultural employer, agricultural association, or other farm labor contractor, the employer must also provide these payroll records for
 
-Section 110 of the 1977 Mine Act established a maximum civil penalty for each violation of an MSHA mandatory health or safety standard or violation of the Act. The Mine Act also established civil penalties for failing to correct a violation for which a citation was issued; discriminatory
+each employee. The person receiving these records must maintain them for a period of three years.
 
-conduct under Section 105(c) of the Act; and smoking or carrying smoking materials, matches, or lighters. Section 8 of the 2006 MINER Act
+Certiﬁcate of registration. Any person acting as a farm labor contractor is required ﬁrst to obtain a Certiﬁcate of Registration authorizing each such activity. For more details, see the Instructions for Form WH-530: Application for a Farm Labor Contractor or Farm Labor Contractor
 
-established a maximum civil penalty for a "ﬂagrant" violation and established minimum civil penalties for unwarrantable failure violations and
+Employee Certiﬁcate of Registration. The phrase "farm labor contracting activity" means recruiting, soliciting, hiring, employing, furnishing, or
 
-increased civil penalties for operators who fail to timely notify MSHA of certain accidents.
+transporting any migrant or seasonal agricultural worker.
 
-On July 1, 2016, the U.S. Department of Labor (DOL) issued an interim ﬁnal rule to adjust the amounts of civil penalties assessed or enforced in the DOL's regulations
+Any employee of a registered farm labor contractor who performs farm labor contracting activities solely on behalf of such contractor, and who
 
-The Federal Civil Penalties Inﬂation Adjustment Act of 1990 as amended by the Federal Civil Penalties Inﬂation Adjustment Act Improvements
+is not an independent contractor, must obtain a Farm Labor Contractor Employee Certiﬁcate of Registration authorizing each such activity. The employee's certiﬁcate must show the name of the farm labor contractor for whom the activities are to be performed. The contractor whose
 
-Act of 2015 (Inﬂation Adjustment Act) requires agencies to adjust the levels of civil monetary penalties with an initial catch-up adjustment,
-
-followed by annual adjustments for inﬂation. The DOL is required to calculate the catch-up and subsequent annual adjustments based on the
-
-Consumer Price Index for all Urban Consumers. The new penalty levels, which include MSHA civil penalties, are eﬀective no later than August 1, 2016.
+name appears on the employee's certiﬁcate must hold a valid certiﬁcate of registration covering the entire period shown on the employee's

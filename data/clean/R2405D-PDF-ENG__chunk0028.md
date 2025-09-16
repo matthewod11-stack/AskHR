@@ -1,13 +1,15 @@
-# appropriate period of time?
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c5305b1bf7324eef807b92e83bbae67fcfb6d83
+title: R2405D-PDF-ENG
+---
+# longer-term ones.
 
-Misjudging generalizability. With the example of the warehouse wage
+To really learn from any data set, you need to ask basic questions like,
 
-increase, a vital question is what the results from one set of warehouses
+What outcomes were measured, and did we include all that are relevant
 
-imply for a diﬀerent set. Moreover, a company may wish to know how
+to the decision we have to make? Were they broad enough to capture
 
-the results apply to, say, restaurant or retail employees.
-
-We have seen business leaders make missteps in both directions, either
-
-over- or underestimating the generalizability of ﬁndings. For instance,
+key intended and unintended consequences? Were they tracked for an

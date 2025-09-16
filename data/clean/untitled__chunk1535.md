@@ -1,9 +1,11 @@
-# Addison-Wesley.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a0600dd7ca937ea4501437b325ce804c0b67b766
+title: untitled
+---
+# feminist
 
-AmericanPsychiatricAssociation.(1994).Diagnosticandstatistical manual of mental disorders (4th ed.). Washington, DC: Author.
+Ader, D. N., & Johnson, S. B. (1994). Sample description, reporting and analysis of sex in psychological research: Alook at APAand APAdivision journals in 1990. American Psychologist, 49, 216– 218.
 
-American Psychological Association, Division of the Psychology of Women. (1989). Handbook of the division of the psychology of women. Washington, DC: Author.
-
-American Psychological Association Task Force on Sex Bias and Sex Role Stereotyping in Psychotherapeutic Practice. (1978). Guidelines for therapy with women. American Psychologist, 33, 1122–1123.
-
-Apfelbaum, E. (1999). Relations of dominance and movements for liberation: An analysis of power between groups. Feminism and Psychology, 9, 267–272.
+Allport, G. W. (1954). The nature of prejudice. Cambridge, MA:

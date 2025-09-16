@@ -1,13 +1,15 @@
-# opportunities.
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 02ed64b7a1d27d059b99fc7ba7028231a493a383
+title: H082HH-PDF-ENG
+---
+# Define Your Strategic Priorities
 
-The problem lens draws from the common wisdom of Silicon Valley
+The ﬁrst strategy question that must be central to any corporate
 
-entrepreneurs to “fall in love with the problem” you are seeking to
+innovation eﬀort is: What are the strategic priorities that matter most
 
-solve, and not the solution you expect will solve it. This could be a problem to solve for the customer (e.g., diﬃculty in placing an order or
+to our business? In my book, The Digital Transformation Roadmap,
 
-in personalizing a product). Or it could be a problem to solve for the business (e.g., high customer attrition, diﬃculty forecasting demand, or
-
-inaccuracy in packing orders).
-
-One company I’ve seen take this approach is Walmart. I’ve interviewed
+I suggest two lenses for deﬁning strategic priorities: problems and

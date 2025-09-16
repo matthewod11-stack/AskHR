@@ -1,11 +1,23 @@
-# NJ: Prentice-Hall.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e0cbe22a6628ee40b94966d30ce6a04460b8deac
+title: industrial_organizational_psychology_an_applied_approach
+---
+## presentation. Psychological Bulletin, 111, 203–243.
 
-Devine, D. J., Clayton, L. D., Philips, J. L., Dunford, B. B., &
+DePaulo, B. M., Lindsay, J. J., Malone, B. E., Muhlenbruck,
 
-Melner, S. B. (1999). Teams in organizations: Prevalence, characteristics, and eﬀ ectiveness. Small Group Research, 30(6), 678–711.
+L., Charlton, K., & Cooper, H. (2003). Cues to deception. Psychological Bulletin, 129(1), 74–118.
 
-Devine, D. J., & Philips, J. L. (2001). Do smarter teams do better: A meta-analysis of cognitive ability and team performance. Small Group Research, 32(5), 507–532.
+DeRosa, D. M., Smith, C. L., & Hantula, D. A. (2007). Th e
 
-Dew, A. F., & Steiner, D. D. (1997). Inappropriate questions in
+medium matters: Mining the long-promised merit of group interaction in creative idea generation tasks in a meta- analysis of the electronic group brainstorming literature. Computers in Human Behavior, 23(3), 1549–1581. DeRouin, R. E., Parrish, T. J., & Salas, E. (2005). On-the-job
 
-selection interviews: Interviewer knowledge and applicant reactions. Poster presented at the 12th annual conference of the Society for Industrial and Organizational Psychology, St. Louis, MO.
+training: A review for researchers and practitioners. Poster session presented at the 20th annual conference of the Society for Industrial and Organizational Psychology, Los Angeles, CA.
+
+Deshpandé, R., & Stayman, D. M. (1994). A tale of two cities:
+
+Distinctiveness theory and advertising eﬀ ectiveness. Journal of Marketing Research, 31, 57–64.
+
+Dessler, G. (2002). Personnel management. Upper Saddle River,

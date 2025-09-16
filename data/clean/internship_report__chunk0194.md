@@ -1,7 +1,7 @@
-# VI.(cid:32) Outside Employment
-
-Employee cannot accept directorships or take employment paid or unpaid jobs outside the
-
-Company without written approval from the Management. Employee is not allowed to do any
-
-business either alone or in any other association during your service under the Company
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 141f92da6a641ca9333a14a601180e7d1b7a5138
+title: internship_report
+---
+# Marital Status, Birth of Children, Further Educational/Professional Qualifications etc.)

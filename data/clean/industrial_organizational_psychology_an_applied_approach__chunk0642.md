@@ -1,7 +1,7 @@
-# Media Resources and Learning Tools
-
-7
-
-7
-
-Visit our website. Go to www. will ﬁ nd online resources directly linked to your book, including chapter-by- chapter quizzing, ﬂ ashcards, crossword puzzles, application activities, and more. Want more practice applying industrial/organizational psychology? Check out the I/O Applications Workbook. Th is workbook (keyed to your textbook) oﬀ ers engaging, high-interest activities to help you reinforce the important concepts presented in the text.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3add491b5234723b23716a3f27ce7a7e14e64db7
+title: industrial_organizational_psychology_an_applied_approach
+---
+# why not?

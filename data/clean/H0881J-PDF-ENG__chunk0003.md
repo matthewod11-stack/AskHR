@@ -1,9 +1,25 @@
-# HBR / Digital Article / How to Talk to an Employee Who Isn’t Meeting Expectations
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2595b9cbe7b0b81cb3a26c903050b046b75bb693
+title: H0881J-PDF-ENG
+---
+# J Studios/Getty Images
 
-negative feedback is a surprise to them, it might prompt them to start
+As a leadership and team coach, I frequently encounter situations
 
-looking for a new job.
+where managers feel ill-equipped to give their team members negative
 
-However, these challenging moments also present opportunities to
+performance feedback. These conversations can be particularly
 
-strengthen the manager-employee relationship. Here’s how to treat
+challenging because the stakes are high for both sides. Unfavorable
+
+performance reviews and ratings come with tangible consequences for
+
+an employee’s compensation and career progression. Further, if the
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,21 +1,13 @@
-## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d65231b0368d8e511e2e20e958999b55c6cbf3fb
+title: S24042-PDF-ENG
+---
+# “Top Performers Take Oﬀ in Year Three.”)
 
-See more HBR charts in Data & Visuals on HBR.org.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-During the ﬁrst two years of a CEO’s tenure little to no premium
+3
 
-emerges. During that period a new CEO’s words and actions are closely
-
-monitored, but it’s generally too soon for anybody to meaningfully
-
-evaluate their consequences. Starting in year three, however, things
-
-change. CEOs who began with comparable multiples gradually come
-
-to be seen as higher or lower performers—and from that point on, the
-
-gap between the two groups continues to widen, ultimately reaching a
-
-diﬀerence of nearly four points. That may sound small, but when one
-
-considers the eﬀect of such a multiplier on, say, the $30 billion median
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,29 @@
-# successful in this new economy.
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00801c68f0e6649ea312b069fadf56dfcbe5741a
+title: R2504C-PDF-ENG
+---
+# everything.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+You seem optimistic about all this. Is there any part of you that thinks, Uh-oh, if we’re not careful, there may be dire, unintended consequences?
 
-8
+I’m an optimist by nature, and I’m an optimist about this technology.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+I also think that you can’t stop the progress of technology. You have to
+
+ﬁgure out how to use it productively—for great customer experiences
+
+and for societal good. The pace of this transition may be quicker
+
+than other technology transitions. So we have to make sure that we’re
+
+being responsible about the way the algorithms and models work.
+
+The demand for software developers will go up exponentially with the
+
+advent of new coding apps that allow you to use natural language to
+
+describe what you want to build. It’s going to be very empowering,
+
+but we have to make sure our education keeps up so that people are

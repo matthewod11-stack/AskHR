@@ -1,17 +1,19 @@
-# Adobe
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 41ffab638234fbe68fddd7ff4127f5b6cc50dc70
+title: H08SI8-PDF-ENG
+---
+# sometimes new for the industry overall.”
 
-One of the hardest parts of adopting a rapidly changing technology
+The company learned four lessons through its transformation process,
 
-is staying abreast of new risks that you’re onboarding along with new
+which other leaders can apply: 1) When going through a major
 
-tools. With AI, which can be used in a dizzying variety of tasks and
+transition, failure is OK. 2) Don’t worry about how you’re behind; focus
 
-contexts, that eﬀort can feel Sisyphean. It’s also essential.
+on how you can leapfrog the competition. 3) View transformations as an
 
-To do this eﬀectively, leaders might need to reframe how they think
+opportunity to help everyone collect and use data. And 4) allow time for
 
-about the problem, looking at the whole picture rather than each part in
-
-turn. “[I]t’s critical that leaders carefully consider the context in which
-
-AI operates—understanding the speciﬁc circumstances, environments,
+tech savviness to grow.

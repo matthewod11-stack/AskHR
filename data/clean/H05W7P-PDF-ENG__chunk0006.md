@@ -1,11 +1,17 @@
-# workplaces.
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 732e7c3b832757b96ecc18293165c2a01bf03530
+title: H05W7P-PDF-ENG
+---
+# HBR / Digital Article / Do Your Employees Feel Safe Reporting Abuse and Discriminatio…
 
-Despite the high rates of sexual assault and harassment — aﬀecting up
+inequity in place. One of the alarming symptoms of these challenges is
 
-to 90% of women in some industries — and pervasive discrimination
+the low rate at which employees report incidents of assault, harassment,
 
-based on race, gender, age, and sexuality — experienced or witnessed
+and discrimination. Too many people don’t feel safe at work, and,
 
-by 61% of U.S. employees — reporting rates remain extremely low. A
+fearing repercussions, aren’t willing or able to speak up about it. This
 
-report by the EEOC found that only 30% of employees experiencing
+vicious cycle keeps systemic inequity deeply entrenched within many

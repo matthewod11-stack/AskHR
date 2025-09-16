@@ -1,19 +1,15 @@
-# a higher salary and career growth.
+---
+source_path: H07JWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b301a54c158bd7c352ffe3055a302b1ce29cf250
+title: H07JWT-PDF-ENG
+---
+## survey responses and behavioral data from more than 80,000
 
-But what struck us most were the notable diﬀerences between the
+employees. In a recent study, 89% of human resources leaders told
 
-responses of in-person and remote team members. Remote employees
+us that their teams have recently voiced concerns about job security,
 
-were 32% more likely to feel anxious in the wake of news about layoﬀs
+leadership changes, or reorgs. Anxiety also seems to be driving what
 
-and were far more concerned about getting a new manager during a
-
-reorg. And 67% said this anxiety had an impact on their productivity. People who go to the oﬃce at least some of the time — whether that be
-
-hybrid or fully in person — were 24% less likely to say that uncertainty
-
-has impacted their productivity over the past six months.
-
-It makes sense that employees who spend less (or no) time in person
-
-with leadership, their manager, and their team might lose out on an
+employees want most: Half of workers prioritized job stability over both

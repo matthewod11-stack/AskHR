@@ -1,33 +1,17 @@
-## feelings about an experience and their subsequent behaviors. In this
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12e8f840356385b76f1cd8cd32de4abae487c210
+title: H07US4-PDF-ENG
+---
+## HBR / Digital Article / The Business Case for Love
 
-sense, 4’s are far more like 3’s than they are like 5’s.
+Unfortunately, this thinking is not backed by the data. Moving 2’s to 3’s
 
-Two implications follow from this data. First, no eﬀective leader should
+and 3’s to 4’s drives very little in terms of desired customer or employee
 
-ever “top-two box” employee or customer survey scores. This is lumping
+behaviors — the line from 2’s to 3’s to 4’s might as well be ﬂat.
 
-apples with oranges, thereby obscuring the picture of what’s truly
+It’s only when employees or customers rate their experience as an
 
-happening with your employees or customers.
-
-It also means that the 5’s — those people who rated their experience
-
-extremely positively — are not just one step up from the 4’s. They are
-
-something else entirely. When someone spontaneously uses the word
-
-“love” to describe their experience, this isn’t just “lots and lots of liking,”
-
-or “caring turned up to 11,” or “uber passion.” The feeling that causes
-
-someone to say “I love that” is simply in a diﬀerent category altogether.
-
-And so, leaders who want to drive productive behaviors in their
-
-employees and customers must deeply examine this “love” category.
-
-Only by taking “love” seriously as a separate and distinct experience will
-
-leaders be able to deﬁne what happens to make people feel it. And once
-
-they deﬁne it, they will be able to deliberately design it into every single
+extreme positive — the 5’s — that we see a link between people’s

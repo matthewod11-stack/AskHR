@@ -1,23 +1,21 @@
-## HBR / Magazine Article / How Salespeople Game the System
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dcf91e63aaf37b10eac59b21b5f681d4ed52d26c
+title: R2502J-PDF-ENG
+---
+## unrealistic goals. Despite clear evidence of misconduct, company
 
-Although the criminal behavior exhibited in the Wells Fargo case is
+leaders ignored the behavior, according to the Department of Justice
 
-an extreme example, sales professionals who work under incentive
+civil settlement agreement. The bank eventually paid more than $3.7
 
-or commission programs frequently exploit the system to maximize
+billion in ﬁnes. Top executives settled as well, including one who was
 
-personal beneﬁt. Anyone who’s worked on or around a sales team
+sentenced to home conﬁnement as part of a criminal plea deal.
 
-knows how routinely sales professionals who won’t reach their monthly
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-quotas postpone big deals so that they’ll have impressive numbers the
+1
 
-following month. There are many other ways salespeople game the
-
-system, and the overall impact of such behavior can be enormous.
-
-To better understand the extent of the problem, in 2023 our research
-
-team conducted interviews with 38 salespeople, sales leaders, and
-
-C-suite leaders in 19 industries ranging from pest control to heavy
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

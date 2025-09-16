@@ -1,5 +1,7 @@
-## Weber, J. (2009). Automotive development processes. Springer.
-
-Wride, M., & Maylett, T. (2017). The Employee Experience. John Wiley & Sons,.
-
-Yohn, D. L. (2018, 01 02). 2018 Will Be the Year of Employee Experience.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 4aa38349505effe122ae85fdb6831f21c227c951
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# from survey

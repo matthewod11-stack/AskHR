@@ -1,9 +1,13 @@
-# high, medium, or low.
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d8b552ff796342fe2787270e1daa3392779b653
+title: H07YQQ-PDF-ENG
+---
+## In addition, assess each stakeholder in terms of:
 
-- The resources they control. Rate them high, medium, or low.
+- The amount of direct involvement they will have with your objective.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Rate them high, medium, or low.
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- The amount of inﬂuence they have over other stakeholders. Rate them

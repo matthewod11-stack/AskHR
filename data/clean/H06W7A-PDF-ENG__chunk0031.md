@@ -1,27 +1,45 @@
-## HBR / Digital Article / How to Steer Clear of Groupthink
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90af7b193acaeff7a250ad4c773b454e62a5df60
+title: H06W7A-PDF-ENG
+---
+# point clear?
 
-interest to carefully look through the audit. And Ryan interpreted the
+Kevin: Can I think about it?
 
-audit system not allowing for patient control as onerous.
+Daniel: It sounds like we have broad agreement about some of these
 
-- 2. They adopt a placeholder solution.
+elements. Perhaps we can take all these elements and evolve them
 
-The next key moment in avoiding groupthink is when a member reacts
+into something that is more user friendly once we have full agreement
 
-to the trigger by proposing a placeholder solution. We call these “liminal
+about what we think will work.
 
-ideas” — while they may not be the final solution, they function as
+Dan: I second the notion that these principles are a good starting
 
-transitional placeholders that allow the group to think both concretely
+point, but they do need to be vetted and discussed and thought
 
-(i.e., drilling down on how the idea might work) and abstractly (i.e.,
+through extensively and should not be considered the final word.
 
-developing agreement around the broader principle in question).
+When Ken uttered the word “onerous” it changed the direction of the
 
-Often times, the pressure to make a correct evaluation — especially
+conversation, because it attacked the usefulness of the status quo.
 
-for experts — can feel paralyzing when errors are costly. The groups
+We call these moments “triggers,” because they kick start the group
 
-we studied worried that if they made incorrect recommendations, they
+process of embracing new and different approaches. Triggers give
 
-would lose their reputation at best, and at worst dismantle the health
+members an opportunity to reveal how they each view the problem
+
+at hand. In the above conversation, Kevin interpreted the comment
+
+“onerous” in terms of how the backup system functioned. Dan spoke
+
+from the perspective of the patient, who may not have the time or
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

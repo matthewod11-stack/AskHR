@@ -1,11 +1,13 @@
-# Louis Lévy-Garboua (2008)
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: c8360cd2070f3eb1c7bc95d27e5dd1b67501cbde
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# Kashyap Bhuva (2018)
 
-The researchers done their research on Job Satisfaction and Resignations and used the wealth
+Kashyap Bhuva et.al (2018) done the research on Machine Learning Techniques for Forecasting the Employee Attrition rate. Researchers considered IT organization and collected the sample of the employee database of IBM USA.The current study is based on a workflow for the analytics project and considered segments - 1) Raw Dataset 2) Data Processing 3) Feature Selection & Scaling 4) Modelling 5) Model Evaluation & Tuning 6) Deployment & Monitoring
 
-43
+Index-Terms-Ridge, Lasso, Logistic Failure, Judgmental structure, Random Forest, straight Discriminant Analysis, Support Vector System analytical techniques are the analytical tools used in the research.
 
-www.rspsciencehub.com maximization theory of quitting behaviour on the (1985-2003). German Socioeconomic Panel Authors observed, job satisfaction is one of the most important reasons for employees who has exceptionally good experience and competency.
-
-Researchers considered Voluntary Retirement, Satisfaction level from the job, Surprises for the employees, Wealth Maximization model for explaining the research. Authors explained the reasons for quitting, an employee's tendency to leave or resign from the organization must be comparable with the present values of future results and the outside opportunities compare to current job.
-
-The results confirmed that through a simple subjective survey questionnaire about work structure, satisfaction level - Economists can draw or found plenty of hidden information or evidence easily. In-fact through this survey, a firm or industry can gain a prospect to improve them instead of using any traditional tools.
+Researchers predicted the attrition of IBM, USA data having 35 data mining techniques and machine learning algorithms by using different algorithms and combinations of several target attributes. The authors found, why intelligent and effective employee attrition prediction using data mining as Employee Attrition is one of the biggest Business Problem. Concluded the result of the prediction by data mining techniques with the similar dataset exposes that Linear Discriminant Analytical result beats than other one followed by Logistic Regression Model for a particular dataset if exactness is the metric favoured.

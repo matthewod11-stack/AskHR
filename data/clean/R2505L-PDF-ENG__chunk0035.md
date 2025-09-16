@@ -1,25 +1,31 @@
-## landscape with accurate and supportive narratives.
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6862018f04f0feb3ca717678d09e1b823d7f2f74
+title: R2505L-PDF-ENG
+---
+## chain—from extraction to the sale of end products—more transparent
 
-In our hypothetical scenario, Vero mobilizes its community of partners
+by allowing consumers, investors, and other stakeholders to digitally
 
-and experts with whom it has built a relationship through its
+monitor the path of precious metals as they move along the chain.
 
-transparency campaign. Vero alerts these stakeholders that the fake
+Domino’s Pizza turned skepticism into a marketing advantage by openly
 
-news about pesticide use threatens their own reputations as well. For
+sharing real customer feedback—even negative reviews—while live-
 
-example, retailers selling Vero products might ﬁnd that consumers
+streaming the preparation of its pizzas to prove quality claims.
 
-who believe the story are starting to question their reliability. Experts
+By making transparency a proactive strategy rather than a reactive
 
-who had previously lauded Vero’s zero-pesticide policy might ﬁnd
+defense—“prebunking” versus debunking—organizations create an
 
-themselves accused of industry capture—working in the interest of the
+environment in which fake news struggles to take hold in the ﬁrst place.
 
-industry and not the public good. So instead of hoping that its partners
+- 3. Activate allies. Although radical transparency lays the groundwork
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+for establishing social proof, it is not enough on its own. When fake
 
-13
+news emerges, companies must actively enlist credible voices—experts,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+industry allies, and engaged consumers—to ﬂood the information

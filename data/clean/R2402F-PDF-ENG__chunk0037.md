@@ -1,17 +1,15 @@
-## HBR / Magazine Article / Nurturing Innovation
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e05c9ca398293199f326b0a433cd07211b6b8991
+title: R2402F-PDF-ENG
+---
+#WirVsVirus’s organizers went further than most by bringing in
 
-the get-go. Even during the hackathon weekend, moderators performed
+mentors who focused on skill development and team dynamics from
 
-a dual role: They provided domain expertise and also helped people
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-set up their collaborations, structure the creative process, and manage
+8
 
-team dynamics. They assigned a Slack channel to assist teams in
-
-ﬁnding one another, and they helped them stay on track by asking
-
-questions about the status of their collaborations and probing into
-
-their challenges—technical and organizational—because they knew
-
-that teams might be reluctant to ask for assistance. The mentors made
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

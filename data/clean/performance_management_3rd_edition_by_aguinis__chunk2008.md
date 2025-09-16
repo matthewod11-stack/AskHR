@@ -1,11 +1,11 @@
-# Index
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 053abaebc47f9de422f31b058072903a6996fc85
+title: performance_management_3rd_edition_by_aguinis
+---
+# also specific countries
 
-ongoing monitoring and evaluation, 185–188
+and human resources, 23, 26 ideal vs. actual case study, 28–30 judgmental strategy, performance
 
-performance planning, 46–47 preparation, 169–170 prerequisites, 38–45 process, 39f, 55, 301f and productivity, 23b purposes, 14–15, 18t, 27 and reward systems, 263–291 rollout, 185b support building, 79–80 system evaluation, 192 team performance, 298–308 vs. performance appraisal, 3,
-
-26, 32–33
-
-Performance review, 50–52 disagreement, 149–150 distortion, 150–154, 156 forms, 133f–136f, 140f–141f information sources, 146–150, 156 meetings, 144–145, 145b, 248–253,
-
-307
+score, 140, 162–164 laws affecting, 284–285 legal principles, 281–283, 285t

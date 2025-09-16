@@ -1,29 +1,35 @@
-# none of it matters.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8dcc1315a08387c14764945acfd87baf2ee4cba0
+title: H07SHV-PDF-ENG
+---
+# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-Two things show up on the happiest workers, the people who have
+ADI IGNATIUS:
 
-the greatest happiness from work. They feel like they’re earning their
+You do have your ﬁnger on it. I want to focus on the world of work. I
 
-success, which is to say that they’re creating value with their lives and
+think this is drawing from stats in the book, I think you say just 16% of
 
-with their work lives, that their accomplishments are moving the needle
+employees self-report that they’re very satisﬁed with their work. I want
 
-and they’re being recognized for those accomplishments. And number
+to ask about that because we’re spending half our waking hours in the oﬃce, and yet we’re not getting the kind of fulﬁllment and satisfaction
 
-two, they feel like they’re serving people so that they’re needed. These
+that we deserve. So what’s happening here and how can we think about
 
-are the two big things.
+moving the needle?
 
-A lot of people are watching us right now who are employers, and I’ve
+ARTHUR C. BROOKS:
 
-been a CEO too. The number one thing that you can do for recruitment,
+I’ve been studying what brings work satisfaction for the longest time,
 
-for retention, the ultimate rewards that go far beyond money are
+and when I ﬁrst started oﬀ, I was a fresh PhD. I thought, well, let’s see
 
-making sure that you have a system where people are earning their
+if for-proﬁt versus nonproﬁt versus government work: which brings the
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+most happiness? Turns out, that’s insigniﬁcant. So I said, well, high
 
-5
+salaries versus low salaries. Above a certain level of subsistence, it’s a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+wash. College educated, not college educated, white collar, blue collar,

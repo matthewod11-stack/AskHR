@@ -1,1 +1,13 @@
-# Frequency and Criticality Scales
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 5de2d2e91f97d31556bd773a1f2890c83dad6a02
+title: performance_management_3rd_edition_by_aguinis
+---
+# Job Analysis Exercise
+
+Please conduct a job analysis for the position “graduate student enrolled in a master’s program in the general field of business.” This job analysis may benefit from interviewing incumbents (i.e., other students) as well as supervisors (i.e., faculty). In addition, of course, you can rely on your own knowledge of the “job.” By the end of your job analysis, follow the O*NET format to create a summary description for the position as well as a list of tasks, knowledge, skills, and abilities needed for successful performance. Use the box “Summary Report for Tractor-Trailer Truck Drivers (from O*NET)” as a template.
+
+Your job description should include four lists—one for tasks, one for knowledge, one for skills, and one for abilities. For each of the four lists, rate the corresponding elements in terms of frequency and criticality. Use the scales provided below to rate each element. Then, multiply the frequency and criticality scores for each of the elements in each list to obtain its overall score. Then, arrange the list of elements in order of importance from high to low.
+
+Have one or more people (who are knowledgeable about the position “graduate student enrolled in a master’s program

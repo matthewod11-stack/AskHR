@@ -1,7 +1,11 @@
-## child, marriage, or other life-deﬁning event.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8c51e40cfec830806f817d65bf7f07f23c2eaa6
+title: H08LRM-PDF-ENG
+---
+## similar paths with a fresh perspective and tweaked priorities. Whatever
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the speciﬁc result, sabbatical alumni universally describe their time oﬀ
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as a “peak life experience,” up there in importance with the birth of a

@@ -1,21 +1,7 @@
-# Types of Teams
-
-495
-
-Why Teams Don’t Always Work Group Conﬂ ict  Types of Confl ict 499 Causes of Confl ict Confl ict Styles
-
-499
-
-502
-
-495
-
-Career Workshop: Tips for Being a Good Group Member Employment Profi le Resolving Confl ict
-
-503 505
-
-507
-
-On the Job: Applied Case Study: Confl ict at Work Focus on Ethics: Group Hazing
-
-510
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b5b947b8c2fa6d0772a4f5ab430afe672ea9e6fb
+title: industrial_organizational_psychology_an_applied_approach
+---
+# 492 How Teams Develop

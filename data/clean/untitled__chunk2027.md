@@ -1,9 +1,11 @@
-# CA: Stanford University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 577615fd74d1ad95dfd46bb8e8a71c067a6f2d2b
+title: untitled
+---
+# Witmer, L.
 
-Wolpe, J., Salter, A., & Reyna, L. J. (Eds.). (1964). The conditioning therapies: The challenge in psychotherapy. New York: Holt, Rinehart and Winston.
+(1925). Psychological diagnosis and the psycho- nomic orientation of analytic science. Psychological Clinic, 16, 1–18.
 
-Yerkes, R. M. (1919). Report of the Psychology Committee of the National Research Council. Psychological Review, 26, 83– 149.
-
-Yerkes, R. M., Bridges, J. W., & Hardwick, R. S. (1915). A point scale for measuring mental ability. Baltimore: Warwick & York.
-
-355
+Wolpe, J. (1958). Psychotherapy by reciprocal inhibition. Stanford,

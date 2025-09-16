@@ -1,5 +1,13 @@
-# YOUTH LEADERSHIP DEVELOPMENT PHILOSOPHY
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: b065ff99d81cf768d1f6f2a5b934f596152b7547
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# D. Gould and D. K. Voelker
 
-Leadership is a highly valued construct, but it is not always easily deﬁned or understood. Over time, we at ISYS have developed a leadership philos- ophy that serves as a foundation for all of our outreach work in this area. This philosophy is based on the latest leadership research conducted with adults (Anderson, 2007), youth leadership research and theory (Martinek & Hellison, 2009; van Linden & Fertman, 1998), our own research on youth sport leadership (Voelker, Gould, & Crawford, 2010; Voelker, Gould, & Griffes, 2010; Voelker et al., 2010), and our staff’s ﬁve years of experience in conducting CLTP. The fundamental principles of this youth leadership development philosophy follow:
+Crawford, 2010). Moreover, captains most often reported that their leader- ship duty was organizational in nature, like calling the coin toss and choosing the team’s attire. Conclusions from this study indicated that captains were not given opportunities to exercise advanced leadership skills like helping coaches plan practice or lead team meetings (Voelker, Gould, & Crawford, 2010). Given the simpliﬁed nature of their roles and responsibilities, as well as the lack of purposeful adult mentorship and teaching, the degree to which these athletes really learned about leadership is questionable.
 
-- 1. Leadership is a complex process that involves the effort of an individual (i.e., a leader) to help groups identify and achieve personal and group goals.
+Still, other research suggests a tremendous need for leadership de- velopment in young people (Gould, Smith, White, & Chung, 2006; van Linden & Fertman, 1998). In particular, Gould and colleagues examined the perceptions of high school coaches on player life skill and social issues and found that poor leadership was the sixth most frequently cited prob- lem among adolescent athletes today. The lack of purposeful initiative to teach young people how to lead, despite the apparent need to do so, par- allels the general youth development literature (e.g., van Linden & Fertman, 1998).
+
+This article discusses a recent effort to reverse the deﬁcit in youth lead- ership development through sport and hopefully will advance our under- standing of youth leadership in general. More speciﬁcally, the Institute for the Study of Youth Sports (ISYS) partnered with the Michigan High School Athletic Association (MHSAA) to develop the MHSAA Captain’s Leadership Training Program (CLTP). This program was designed to teach high school student-athletes leadership skills and to thereby enhance the high school sports experience. The philosophy, design, content, implications, and future directions of CLTP will be discussed.

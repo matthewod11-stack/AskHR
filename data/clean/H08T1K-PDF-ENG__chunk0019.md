@@ -1,11 +1,7 @@
-# Do
-
-- Run stress tests and scenarios with peers and colleagues and avoid
-
-involving your team in speculative conversations.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08T1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a821c0df6d7e8a1570fbe8aca351709bc420b8cf
+title: H08T1K-PDF-ENG
+---
+# Principles to Remember

@@ -1,1 +1,15 @@
-# BOX 3.1
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d6fd284de79261d89002954e3c3d41ebe637f21e
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 3 • Performance Management and Strategic Planning
+
+implemented. Goals can also be a source of motivation and provide employees with a more tangible target for which to strive. Goals also provide a good basis for making decisions by keeping desired outcomes in mind. And, finally, goals provide the basis for performance measurement because they allow for a comparison of what needs to be achieved versus what each unit, group, and individual is achieving.
+
+Consider the case of Harley-Davidson, Inc., the motorcycle manufacturer. In January 2004, Jeffrey L. Bleustein, chairman and chief executive officer, said that the expectation was to continue to grow the business. Specifically, he said that the new goal was to satisfy a yearly demand of 400,000 Harley-Davidson motorcy- cles in 2007. Moreover, he also said that he was confident that Harley-Davidson, Inc., would be able to deliver an earnings growth rate in the mid-teens for the fore- seeable future.15
+
+These goals provide a clear direction for Harley-Davidson. In fact, they provide useful information to guide unit-level goals as well as individual and team perform- ance. The entire organization has a clear sense of focus because all members know that there is a goal to deliver 400,000 motorcycles in 2007.
+
+3.2.1.5 STRATEGIES At this point, we know what the organization is all about (mission), what it wants to be in the future (vision), and some intermediate steps to follow to get there (goals). What remains is a discussion of how to fulfill the mission and vision and how to achieve the stated goals. This is done by creating strategies, which are descriptions of game plans or how-to procedures to reach the stated objectives. The strategies could address issues of growth, survival, turnaround, stability, innovation, and leadership, among others.

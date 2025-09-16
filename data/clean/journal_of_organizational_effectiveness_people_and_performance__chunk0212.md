@@ -1,3 +1,7 @@
-# self-coaches”, Applied Psychology: An International Review, Vol. 53, pp. 260-278.
-
-(2007), “High performance human resource practices, citizenship behavior, and organizational performance: a relational perspective”, Academy of Management Journal, Vol. 50, pp. 558-577.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: b48c5106f476dfbfdb60c3c5dbb51cd2fde18a11
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# Sue-Chan, C. and Latham, G.P.

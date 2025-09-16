@@ -1,7 +1,15 @@
-# now and in the long term?
+---
+source_path: H080H9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: def0706ed17097648b21d33fcd34a3639d805125
+title: H080H9-PDF-ENG
+---
+## A sudden change in leadership, a corporate restructuring, a rough-and-
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+tumble economy — things can sometimes get chaotic at work. When
 
-1
+they do, maintaining your balance becomes a challenge. So, how can
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you ﬁnd your footing? Where should you turn for support? And what’s
+
+the best way to stay focused on your goals and priorities, both here and

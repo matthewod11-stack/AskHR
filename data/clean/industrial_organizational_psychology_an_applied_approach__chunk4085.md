@@ -1,13 +1,19 @@
-# Houston: Gulf.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 660293023b18bb153f63abdcddc08a32a3435e0a
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Bianchi, A. B. (1996). Th e character-revealing handwriting
 
-Blakley, B. R., Quińones, M. A., Crawford, M. S., & Jago, I. A.
+analysis. Inc., 18(2), 77–79.
 
-(1994). Th e validity of isometric strength tests. Personnel Psychology, 47(2), 247–274.
+Biddle, R. E. (1993). How to set cutoﬀ scores for knowledge tests used in promotion, training, certiﬁ cation, and licensing. Public Personnel Management, 22(1), 63–79.
 
-Blanchard, K. H., Zigarmi, P., & Zigarmi, D. (1985). Leadership and the one minute manager. New York: William Morrow.
+Bing, M. N., Stewart, S. M., Davison, H. K., Green, P. D.,
 
-Blanz, F., & Ghiselli, E. E. (1972). Th e mixed standard scale:
+McIntyre, M. D., & James, L. R. (2007). An integrative typology of personality assessment for aggression: Implications for predicting counterproductive workplace behavior. Journal of Applied Psychology, 92(3), 722–744.
 
-A new rating system. Personnel Psychology, 25, 185–200.
+Bishop, J. W., & Scott, K. D. (1997). How commitment aﬀ ects team performance. HR Magazine, 42(2), 107–111.
 
-Bliss, W. G. (2001). Cost of employee turnover can be staggering.
+Blake, R. R., & Mouton, J. S. (1984). Th e managerial grid III.

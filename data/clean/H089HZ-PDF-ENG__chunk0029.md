@@ -1,21 +1,29 @@
-# HBR / Digital Article / Leaders Need to Reframe the Return-to-Office Conversation
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f108d2f37dfcc6d47318e999fe0b2cbfa311902
+title: H089HZ-PDF-ENG
+---
+# beneﬁcial progress.
 
-. . .
+Equally important, you need to accept that you won’t get it right the
 
-The leadership side of the RTO discussion has been dominated by sticks
+ﬁrst time, and that’s ok. An iterative learning process takes time, and
 
-rather than carrots — as in, employees need to get back into the oﬃce
+missteps along the way are a critical part of learning. Don’t assume
 
-or else — with punishments for noncompliance ranging from reduced
+that the ﬁrst policy you create is the right one, or even that what
 
-pay to ﬁring.
+is right today will remain right in the future — in fact, go into the
 
-Leaders must stop trying to push employees into the oﬃce against their
+process expecting any plan to need adjusting. A critical part of your
 
-will and focus instead on making the oﬃce an energizing environment
+process is recognizing — and communicating — up front that periodic
 
-where employees want to be. Take a framing lesson from the social
+reassessment of any policy will be needed.
 
-media playbook, in which FOMO (fear of missing out) has proven to be a
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-massive driver of behavior and try to create FOMOO (fear of missing out
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

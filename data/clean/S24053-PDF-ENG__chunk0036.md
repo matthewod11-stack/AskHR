@@ -1,7 +1,37 @@
-# Matt Stevens
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f66e100ac6ee7f28a9a71ef0e669ec8ba8c3469
+title: S24053-PDF-ENG
+---
+## HBR / Spotlight Article / Teamwork at the Top
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+collaboration create the psychological safety needed to give and
 
-9
+take feedback, listen actively, brainstorm, solve problems, and hold
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+themselves accountable. None of this just happens on its own. It’s hard
+
+to collaborate well and consistently without instruction and practice.
+
+Collaboration can be especially challenging during mergers or in
+
+multicultural team environments. Consider the case of an Asia-
+
+headquartered technology ﬁrm we worked with. After acquiring a
+
+European competitor, it entered a prolonged period of integration,
+
+during which a ﬁerce battle raged over who would become the
+
+combined regional CEO. When the selection was ﬁnally made, the
+
+new regional CEO was left with a fragmented, angry top team that
+
+somehow had to ﬁnd a way to meet high-growth expectations from
+
+the corporate center. For the ﬁrst six months the members of the team
+
+chased individual goals, struggled to make decisions, and increasingly
+
+avoided one another.

@@ -1,25 +1,17 @@
-# S.D
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 1bc6bf55bd899b76ef1db6320bf35e809e13369d
+title: final_2019_jan_feb_jbs_pmd
+---
+# Average
 
-1.46
+3.80
 
-1.23
+3.75
 
-0.91
+3.87
 
-1.48
+3.96
 
-1.12
-
-C.V(%)
-
-38.42
-
-32.80
-
-23.51
-
-37.37
-
-58.64
-
-Source: calculated by author
+1.91

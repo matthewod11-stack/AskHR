@@ -1,47 +1,29 @@
-## HBR / Digital Article / To Help Your Team Grow, Give Them Space to Struggle
+---
+source_path: H07PLS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f915aa5a87d64fee07352fb8f6145dee44e6c794
+title: H07PLS-PDF-ENG
+---
+# Catherine Falls Commercial/Getty Images
 
-CEO that I was taking on this stretch assignment and that she would be
+“How are you justifying the sales and expenses estimates?” the CEO
 
-an observer. So, instead of taking over from me when I was facing tough
+asked. My face glowed red as I stuttered. My heart rate skyrocketed and
 
-questions, she let me ﬁgure my own way out of the discomfort. I did
+my throat tightened. I looked at my boss, Valerie. She made eye contact,
 
-muddle through it, albeit not as well as I would have liked, but in a way
+held a soft gaze, and said nothing.
 
-that left me better prepared for my next meeting with him.
+She could have eased some of the heat directed my way by chiming in
 
-I remember Valerie as a good boss because she often gave me
+and saving me, but she didn’t. That’s because I had asked Valerie for
 
-developmental opportunities like these. The stakes were usually low
+an opportunity to present to our organization’s leadership team. Prior to
 
-like that small, internal meeting, where everyone knew I was still green
+the meeting, she’d informed the head of our banking division and the
 
-and would be supportive. Valerie was present but in the background,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-allowing me to succeed or stumble but learn from the experience either
+1
 
-way. Afterward, she never gave me long lists of suggestions on how to
-
-improve. Instead, she asked great questions that prompted me to think
-
-about what I could have done diﬀerently.
-
-In theory, most leaders know how important it is to delegate challenging
-
-tasks to employees both to help them grow and create a collaborative,
-
-empowered, productive team. But, faced with real workplace demands,
-
-it can be tough to put this into practice. Many of my clients say things
-
-like “I’m the only one who can do the job” or “If this project doesn’t go
-
-smoothly, the whole team will suﬀer.”
-
-Empathy can get in the way, too. When you see an employee struggling,
-
-it’s only natural to want to step in and help. But from the other side, this
-
-can feel more like micromanagement than support. And when leaders
-
-over-function by keeping too many tasks, they allow their teams to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

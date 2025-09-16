@@ -1,7 +1,9 @@
-## for Children. New York: Psychological Corporation.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8a35d5254a79105b4d207602d76a511602c9891c
+title: untitled
+---
+# Williams & Wilkins.
 
-Wechsler, D. (1967). Manual for the Wechsler Preschool and Primary Scale of Intelligence. New York: Psychological Corporation.
-
-Wechsler, D. (1989). Manual for the Wechsler Preschool and Pri- mary Scale of Intelligence–Revised. New York: Psychological Corporation.
-
-301
+Wechsler, D. (1949). Manual for the Wechsler Intelligence Scale

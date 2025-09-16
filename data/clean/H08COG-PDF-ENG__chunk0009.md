@@ -1,11 +1,17 @@
-# it.
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae26ab4b9174f878946a4d6a2296ce3badf23080
+title: H08COG-PDF-ENG
+---
+## How Criteria Can Affect Perceptions of Value
 
-Lacking a clear evaluative template or criteria, each person will be
+Previous research has described creativity as “novelty that is useful,”
 
-forced to create their own, idiosyncratic version, considering diﬀerent
+where novelty is deﬁned as the distance of departure from existing
 
-stakes or potential rewards. This can result in diﬀerent conclusions
+oﬀerings or practices. The newer the idea, the harder it is to compare
 
-about the worth of the same idea. We proposed that the more novel an
+to what already exists. In other words, the newer an idea, the less likely
 
-idea, the greater the number of diﬀering criteria used, resulting in a
+there will be a common reference point or criteria by which to evaluate

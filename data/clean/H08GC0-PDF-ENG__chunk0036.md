@@ -1,19 +1,13 @@
-## HBR / Digital Article / Let’s End Toxic Productivity
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f2a04e02db5e417a0028b9bb66ddd3b1844d17c
+title: H08GC0-PDF-ENG
+---
+# workdays over the course of a year.
 
-Breaking the cycle of toxic productivity is no simple task. We’re trying to
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-change a values-based belief that’s the size of the Titanic and centuries
+8
 
-older. But I see glimmers of hope in these subtle shifts as some groups,
-
-particularly women and Gen Z employees, have started to push back
-
-on this antiquated perspective. That tends to happen when you have
-
-a collective existential crisis — priorities change, and how you really
-
-want to spend the rest of your days comes into focus. This mindset gets
-
-people wondering, “What will my biggest regret in life be? I can almost
-
-guarantee that no one will say, “You know, I wish I’d spent more time in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

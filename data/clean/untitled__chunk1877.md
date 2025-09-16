@@ -1,5 +1,11 @@
-# The Third Force and the New Therapies
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2a163376db3d48ab3dd18a23653983046302c743
+title: untitled
+---
+# 332 Abnormal Psychology
 
-One component of the antipsychiatry viewpoint was devel- opment of therapies based upon avowedly nonscientiﬁc principles. A spectrum of therapeutic techniques, known sometimes as the “Third Force,” and sometimes as “human- istic” arose. These included transactional analysis (Berne, 1961); rational psychotherapy (Ellis, 1958, 1962), logother- apy (Frankl, 1953), gestalt psychotherapy (Perls, 1969), and client-centered therapy (Rogers, 1951).
+somebody was “mentally ill” served to limit that person’s freedom of action and to prevent his communications from being taken seriously. His argument went on to point out that the practice of involuntary hospitalization meant that individ- uals were being incarcerated against their will when they had not committed crimes. Taken together, these were charges that contemporary psychiatry was bad science, unreliable practice, and an abuse of civil rights.
 
-These approaches in general rejected the concept that human behavior could be studied scientiﬁcally. Many hu- manistic therapists followed the lead of Carl Rogers in aban- doning the use of the medical term patient preferring instead to use client. He, and they, did however retain the use of the medical term therapy, and deﬁned themselves as “therapists.” These methods were not often applied to seriously disturbed clients. The more usual clientele were primarily persons with minor neuroses, mild anxieties, self-esteem problems, and the like.
+In this context, civil rights issues of the mentally ill at- tained the same kind visibility as civil rights issues for mi- norities and for women. The ﬁrst redress for discrimination against the mentally ill was deinstitutionalization. Patients were discharged from hospitals in large numbers, some to return to their families, but many to live as welfare recipients or, in some cases, to live homeless on the streets. The scale of deinstitutionalization was large, and the results varied from striking improvements in the functioning of some patients to tragedies of death from neglect in some of the homeless men- tally ill. Discharge from the hospitals had become feasible mainly because of the efﬁcacy of the new medications. The focus of caring for the mentally ill then shifted to problems of medication maintenance outside the hospital and provision of some degree of supervisory care in halfway houses or other residential arrangements that provided transitional care be- tween the hospital and the private home. Training in the vo- cational and social skills necessary to obtain employment and to get along in society outside the hospital emerged as a more practical goal for psychological techniques than had been the case with psychotherapy.

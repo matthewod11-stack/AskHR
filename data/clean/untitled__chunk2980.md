@@ -1,11 +1,11 @@
-# chologist, 4, 69–73.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fb5e5d05c7c43ab0727907e55bd3e98bccd17ab5
+title: untitled
+---
+## Brandt, L. W. (1970). American psychology. American Psycholo-
 
-Cattell, J. M. (1930). Psychology in America. In Proceedings of the 9th International Congress of Psychology, New Haven,
+gist, 25, 1091–1093.
 
-1998
-
-1999
-
-2000
-
-2001
+Cantril, H. (1949). Psychology working for peace. American Psy-

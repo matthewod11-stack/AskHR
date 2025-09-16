@@ -1,29 +1,11 @@
-# 316 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 16bc406e091626bc21a8d45e3aff3d066bb41e6c
+title: barrickryan_eds_personality_and_work
+---
+# Conclusion
 
-References Ackerman, P. L., & Heggestad, E. D. (1997). Intelligence, personality, and interests: Evidence for overlapping traits. Psychological Bulletin, 121, 219–245.
+We make many choices when building models and conducting research. Examples are choice of independent (antecedent, pre- dictor) variables, dependent (criterion) variables, intervening (mediator) variables, individual- versus group-level outcome vari- ables, situations (tasks, jobs, culture) within and across which rela- tionships are hypothesized, and type of hypothesized relationships or effects (linear, curvilinear, conﬁgural, moderator, interaction). Given the complexity of the measurement of the constructs, rela- tions between variables, direction, shape, and type of relationships, it is not surprising that during the dark ages between approximately 1965 and 1985, I/O psychologists (with the exception of a few such as Ghiselli, 1966) accorded personality variables a minor, if any, role in theories of the determinants of work-related behavior. Research during the 1980s and 1990s demonstrated the important main ef- fects of personality variables in determining behavior and perfor- mance. Now, evidence for the many roles of personality variables in determining behavior and performance is persuasive.
 
-Ashkanasy, N. M., Hartel, C.E.J., & Zerbe, W. J. (Eds.). (2000). Emotions in the workplace: Research, theory, and practice. Westport, CT: Quorum Books.
-
-Averill, J. R. (1997). The emotions: An integrative approach. In R. Hogan, J. Johnson, & S. Briggs (Eds.), Handbook of personality psychology (pp. 513–541). Orlando, FL: Academic Press.
-
-Barrick, M. R., & Mount, M. K. (1991). The Big Five personality dimen- sions and job performance: A meta-analysis. Personnel Psychology, 44, 1–26.
-
-Barrick, M. R., & Mount, M. K. (1993). Autonomy as a moderator of the relationships between the Big Five personality dimensions and job performance. Journal of Applied Psychology, 78, 111–118.
-
-Barrick, M. R., Stewart, G. L., Neubert, M. J., & Mount, M. K. (1998). Re- lating member ability and personality to work-team processes and team effectiveness. Journal of Applied Psychology, 83, 377–391. Barry, B., & Stewart, G. L. (1997). Composition, process, and perfor- mance in self-managed groups: The role of personality. Journal of Applied Psychology, 82, 62–78.
-
-Bateman, T. S., & Crant, J. M. (1993). The proactive component of orga- nizational behavior: A measure and correlates. Journal of Organiza- tional Behavior, 14, 103–118.
-
-Bono, J. E., Boles, T. L., Judge, T. A., & Lauver, K. J. (2002). The role of personality in task and relationship conﬂict. Journal of Personality, 70, 311–344.
-
-Borman, W. C., White, L. A., & Dorsey, D. W. (1995). Effects of ratee task performance and interpersonal factors on supervisor and peer per- formance ratings. Journal of Applied Psychology, 80, 168–177.
-
-Borman, W. C., White, L. A., Pulakos, E. D., & Oppler, S. H. (1991). Mod- els of supervisory job performance ratings. Journal of Applied Psy- chology, 76, 863–872.
-
-Brotheridge, C. M., & Grandey, A. A. (2002). Emotional labor and burnout: Comparing two perspectives of “people work.” Journal of Vocational Behavior, 60, 17–39.
-
-Campbell, J. P., & Knapp, D. J. (Eds.). (2001). Exploring the limits in per-
-
-sonnel selection and classiﬁcation. Mahwah, NJ: Erlbaum.
-
-Cellar, D. F., Miller, M. L., Doverspike, D. D., & Klawsky, J. D. (1996). Comparison of factor structures and criterion-related validity coef- ﬁcients for two measures of personality based on the Five Factor Model. Journal of Applied Psychology, 81, 694–704.
+Besides a need for more complex models, we must examine and develop additional taxonomic structures of personality, cri- terion, and situational variables, structures that incorporate more variables than the Big Five in the personality domain and more vari- ables than overall, task, and contextual performance as depen- dent variables. We need to develop an adequate taxonomy of situational variables. We need to incorporate other theories of per- sonality into our models of the determinants of performance. We need models that recognize that variables and relationships are dynamic, changing over time. Our models of performance must include multilevel measures of independent and dependent vari- ables and address relationships between variables at multiple lev- els. The complexity is enormous. Unless our theories and models reﬂect this complexity, the variance our theories and models ex- plain will be minimal.

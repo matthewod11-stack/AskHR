@@ -1,3 +1,11 @@
-## Journal of European Industrial Training 25/1 [2001] 5±32
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: fb5c2a5de7d2a9f4b329d3a8bfd096d9e88b8a5d
+title: journal_of_european_industrial_training
+---
+# I
 
-proactive career behaviour and the degree to which the feedback report clarifies the actions that recipients need to take to address skill deficiencies. There is a dearth of empirical scrutiny of the extent to which the feedback is subsequently used by recipients to further their careers. The degree to which employees would accept the introduction of a 3608 feedback process and the antecedents to its success are areas which have been inadequately addressed in the literature.
+d e d a o l n w o D
+
+Alma M. McCarthy and Thomas N. Garavan 3608 feedback processes: performance improvement and employee career development

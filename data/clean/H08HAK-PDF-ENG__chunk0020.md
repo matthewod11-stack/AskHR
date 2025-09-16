@@ -1,17 +1,47 @@
-# Lessons for Organizations
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 982614708ef038f03450e7f1402c4c6f437ad235
+title: H08HAK-PDF-ENG
+---
+## suggests that employees may value narrative-only feedback more when
 
-Our ﬁndings suggest that feedback format inﬂuences employees’
+there is ambiguity about their performance levels, as it provides a
 
-responses to feedback in a variety of ways. Diﬀerent feedback
+richer, more nuanced evaluation that can soften the blow of negative
 
-formats oﬀer varying levels of detail. Narrative feedback does a better
+assessments. When feedback is overwhelmingly positive, such as when
 
-job of explaining the context and providing personalized insights
+an employee achieves the highest performance ratings, the format
 
-that can clarify performance expectations and enhance employees’
+is less inﬂuential. Employees respond well to very positive feedback
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+regardless of whether the feedback is numerical, narrative, or a
 
-5
+combination of the two, since the positive outcome is clear and there
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+is little room for interpretation.
+
+In another experiment, we investigated how knowledge of monetary
+
+outcomes, like bonus amounts, inﬂuences reactions to feedback
+
+formats. Initially, employees who received narrative feedback perceived
+
+their evaluations as fairer and more positive than those who received
+
+numerical or combined feedback. Yet, once employees were informed of
+
+their speciﬁc bonus amounts, perceptions of fairness became similar
+
+across all feedback formats. Being informed of tangible outcomes
+
+clariﬁed the implications of the feedback, leading to more uniform
+
+perceptions of fairness across all formats. In other words, while
+
+narrative feedback can initially be perceived as more favorable, such
+
+perceptions may diminish once concrete outcomes are revealed,
+
+leveling the playing ﬁeld between diﬀerent feedback types.

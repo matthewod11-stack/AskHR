@@ -1,13 +1,11 @@
-## experiment and the overall product direction.
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3f23ae78e0bb6bf5b62ef75f4dfa0738e606a96
+title: R2501G-PDF-ENG
+---
+## focus on why fuels more customer-centric innovation, because feedback
 
-Netﬂix’s Top 10 experiment, for instance, began with a clear hypothesis:
+—gathered through experiments—is consulted not only to choose
 
-The Top 10 row would help members ﬁnd content to watch by tapping
-
-into an innate desire for shared experiences and conversations. That
-
-would increase member joy and satisfaction, as measured by increased
-
-member engagement. In addition to tracking overall engagement, the
-
-experiment monitored metrics such as where members found content
+between the variant and the status quo but also to determine the next

@@ -1,11 +1,21 @@
-# situation.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 1617ee6b47f3cc7b77235859e393443b4b9e2429
+title: california_state_university_northridge_1
+---
+# t •
 
-The co chair of the Alternative Dispute Resolution Task Force, Paul Steven Miller
+..l
 
-and Equal Employment Opportunity Commission, Commissioner, assisted in drafting a
+their right to pursue Equal Employment Opportunity Commission and or court options. The
 
-statement in opposition to mandatory arbitration. It is ru·gued that all internal resolution
+16
 
-mechanisms in place can substitute for the civil right laws. And that the employee who brings
+Equal Employment Opportunity Commission has recently dispatched a warning to
 
-charges should be able to seek assistance from the Equal Employment Opportunity
+corporations business with mandatory arbitration policies. The Equal Employment
+
+Opportunity Commission position is that such policies are unfair to employees. It is believed
+
+that an employee should have the opportunity to seek the appropriate venue for that particular

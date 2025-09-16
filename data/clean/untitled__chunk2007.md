@@ -1,11 +1,11 @@
-## and psychiatry. American Psychologist, 5, 3–15.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 246608a3c1df33ef85303531278e0e55c277d2e9
+title: untitled
+---
+## Washington, DC: American Psychological Association.
 
-Mineka, S., Davidson, M., Cook, M., & Keir, R. (1984). Observa- tional conditioning of snake fear in rhesus monkeys. Journal of Abnormal Psychology, 93, 355–372.
+Meltzer, H. (1966). Psychology of the scientist: XVII. Research has a place in private practice. Psychological Reports, 19, 463–472.
 
-Mitchell, D. (1919). The clinical psychologist. Journal of Abnormal
-
-Psychology, 14, 325–332.
-
-Mitchell, D. (1931). Private practice. In R. A. Brotemarkle (Ed.), Clinical psychology: Studies in honor of Lightner Witmer (pp. 177–190). Philadelphia: University of Pennsylvania Press.
-
-Morrow, W. R. (1946). The development of psychology internship
+Menninger, W. C. (1950). The relationship of clinical psychology

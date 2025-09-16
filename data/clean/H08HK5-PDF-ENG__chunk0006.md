@@ -1,15 +1,7 @@
-## ran two experiments with more than 600 online gig workers across
-
-multiple industries. Our ﬁnding: when you express gratitude to others
-
-before they engage in a distressing task it helps counteract some of
-
-the negative emotions associated with the task. Expressing gratitude early also makes employees more likely to persist through diﬃculty and
-
-bounce back and be resilient following failure.
-
-Our ﬁndings oﬀer insight into ways to provide meaningful gratitude
-
-and create a culture where your employees feel their work is seen,
-
-supported, and valued.
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e50cd08792f5aa48fc96f1d591ddb71dcb7468c5
+title: H08HK5-PDF-ENG
+---
+## intensive care units (ICUs) of a top-ranked U.S. medical center. We then

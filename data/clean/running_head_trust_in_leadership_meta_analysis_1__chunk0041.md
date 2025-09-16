@@ -1,31 +1,19 @@
-# consistency (Avolio & Bass, 1991; Kirkpatrick & Locke, 1996). Also, individualised
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: d343fb48780fbae6898311529105f2a9cbf600cc
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-consideration can signal to employees that leaders are benevolent (a defining feature of
+transformational leadership include inspiring followers to believe in a vision and challenging
 
-affective trust) and will look out for their best interest, facilitating trust. All transformational
+the status quo (Pillai et al., 1999). Trust is a well-established antecedent of risk taking in
 
-subdimensions predict trust (e.g., Kelloway et al., 2012).
+relationships (Mayer et al., 1995) and when followers trust their leader they are much more
 
-The full range model also distinguishes laissez-faire, which represents an absence of
+willing to accept such risk and show the effort needed to make the vision a reality.
 
-leadership, and transactional leadership styles (Bass, 1985). A transactional leadership style is
+Transformational leaders are persuasive role models who signal integrity (a defining feature
 
-based on economic exchange (Pillai et al., 1999) and leader influence over follower
-
-behaviour is achieved through contingent reward, where followers are rewarded for meeting
-
-agreed-upon-objectives, or management-by-exception (MBE), where the leader only takes
-
-corrective action, either active or passive, when things go wrong. Consistently engaging in
-
-contingent reward is likely to signal competence, reliability and predictability all of which
-
-denote aspects of ability or integrity (Mayer et al., 1995) or cognitive trust (McAllister,
-
-1995). Thus, contingent reward helps followers trust that leaders will keep their word and
-
-deliver on promises (Jung & Avolio, 2000). However, leaders who are disengaged (i.e.,
-
-laissez-faire leadership) or engage in punitive behaviours (i.e., management-by-exception)
-
-likely undermine the development of trust (e.g., Kelloway et al., 2012).
+of cognitive trust) via their willingness to make personal sacrifices and their word-deed

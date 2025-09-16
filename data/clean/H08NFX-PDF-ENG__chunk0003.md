@@ -1,7 +1,17 @@
-## programs and practices for EO compliance.
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bb0eea7ff1da0c8ef4b196e9cb6deb64aff9b5d
+title: H08NFX-PDF-ENG
+---
+# Illustration by Helena Pallarés
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+With a series of executive orders, the Trump administration has put a
 
-1
+target on corporate diversity, equity, and inclusion policies. As of this
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+writing, key portions have been enjoined by a federal court. Yet the
+
+administration has signaled its intention to make noncompliance so
+
+punitive that many companies still are scrambling to review their DEI

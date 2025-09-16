@@ -1,29 +1,13 @@
-# something else.
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d1dd85b637a368f366d42c5587b3e21a05888f0
+title: H074CY-PDF-ENG
+---
+## of those on-the-job behaviors on others in or outside the organization.
 
-Third, eﬀective reviews require a judgment about causes of a person’s
+You want people focused on the relevant causal relationships and not
 
-performance. For example, are performance issues the consequence
+just enacting the natural human tendency to ascribe credit for good
 
-of deﬁciencies in motivation or ability? Some people may work hard,
-
-but lack certain capabilities: Can training and coaching enhance those
-
-capabilities? Others may have the abilities but lack motivation: Can
-
-diﬀerent incentives or processes increase motivation? Still others may
-
-seemingly lack both motivation and relevant ability: Is this the right
-
-job for that person? Can a performance improvement plan help, or a
-
-diﬀerent role where their abilities can be better utilized? Or is it time to
-
-replace this person?
-
-Finally, stars often have both high motivation and ability: What can be
-
-done to reward, retain and learn from the stars’ behaviors?
-
-These are not easy judgments to make about human beings. But they’re necessary and imply diﬀerent action plans. Without them, it’s diﬃcult
-
-to be mutually productive during the review.
+outcomes to oneself and the causes of bad outcomes to someone or

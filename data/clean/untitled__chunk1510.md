@@ -1,3 +1,9 @@
-# Valuing Women’s Ways of Being
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5c9b33da0ee2810d8300e0addd82f6105c0d819b
+title: untitled
+---
+## Clinical Practice, Counseling, and Feminist Therapy
 
-In Toward a New Psychology of Women, Jean Baker Miller (1976) addressed women’s experiences of subordination in the intimate setting of marriage and family life. Although her observations were limited mainly to white, middle-class, heterosexual women, she argued that women in general were endowed with special capacities for intuition, empathy, and relatedness, as well as a propensity for nurturing and caring for others. Miller celebrated these universal feminine characteristics as “closer to psychological essentials” and “therefore, the bases of a more advanced form of living” (p. 27). Subsequently, others put forward a variety of related claims about women’s experience and personality. The prime example is a model of women’s development origi- nally called the self-in-relation model and now named the relational/cultural model (Jordan, Kaplan, Miller, Stiver, & Surrey, 1991). The model holds that childhood experiences, particularly mother–daughter interactions, give rise to a uniquely feminine psychology, one that is sustained by and seeks out emotional connections. Although some schol- ars have raised doubts about the model (Marecek, 2001; Westkott, 1989), the self-in-relation model has been a popu- lar framework for many feminist-identiﬁed therapists and counselors.
+1987; Espín, 1997; Greene, White, Whitten, & Jackson, 2000). The goal of this work is not to describe the psychology (let alone, the psychopathology) of “the” Hispanic woman, “the”AfricanAmerican teenager, or “the” lesbian. Rather it is to comprehend the experiences of women with varying rela- tions to privilege in society (Hurtado, 1989): the problems they bring to therapy, the strengths and resources available to them, and the barriers confronting them.

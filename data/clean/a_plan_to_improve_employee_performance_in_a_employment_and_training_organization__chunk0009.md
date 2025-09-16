@@ -1,5 +1,7 @@
-# Date
-
-This paper represents hard work, personal sacrifice and a will life. Accomplishing a major goal in my life has been achieved, and I would this opportunity to make a personal dedication to my parents, Ted & Marci Alvarez, who have been influential in the direction of my career and accomplishments. I dedicate this to them, because without their love and support this.goal could not have been achieved.· Thank you and I Love You.
-
-to succeed
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: e6e209d4dd7f088687c90f3f1d404b5b85c361de
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# MASTER OF PUBLIC ADMINISTRATION

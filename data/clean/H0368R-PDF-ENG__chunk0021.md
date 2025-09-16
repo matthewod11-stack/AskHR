@@ -1,9 +1,21 @@
-# migrants under H-1B.
+---
+source_path: H0368R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f3eef41224ad4b119c026d57dd8d090d16564b7
+title: H0368R-PDF-ENG
+---
+# HBR / Digital Article / Immigrants Play a Disproportionate Role in American Entrepren…
 
-Now that we can study the age of arrival, we found that immigrants
+Sergey Brin, who is frequently used as an example to advocate for
 
-coming to the U.S. as children are more likely to start larger ﬁrms than
+expansion of H-1B visas under the assumption that this would boost
 
-immigrants arriving as adults. Moreover, ﬁrms created by immigrants
+American high-tech entrepreneurship. There are several problems with
 
-who have grown up in the U.S. are generally associated with better
+the argument, one of which being that H-1B visas are mostly issued
+
+to skilled employees working in large ﬁrms, which means that any
+
+entrepreneurial stimulus would come with a time lag. Further, Brin
+
+came to the U.S. as a child, and is thus not representative of adult skilled

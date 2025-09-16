@@ -1,29 +1,13 @@
-# HBR / Digital Article / For Female Founders, Fundraising Only from Female VCs Come…
+---
+source_path: H07GP3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b08e3f155cc459f92aef26dad74468e166ffeff
+title: H07GP3-PDF-ENG
+---
+# in.
 
-Of course, as with any systemic inequity, it’s on those who’ve already
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-made it into positions of power to address bias and ensure founders
+4
 
-are evaluated fairly. In particular, VCs have a responsibility to rethink
-
-how they evaluate investment opportunities and ensure that business
-
-metrics rather than implicit biases guide early-stage funding decisions.
-
-But for female founders faced with fundraising in today’s imperfect
-
-world, our research suggests that it may be worth the extra eﬀort up
-
-front to cast a wider net and try to recruit a diverse team of VCs
-
-in the ﬁrst round. Indeed, beyond the eﬀects on future fundraising,
-
-prior research suggests that mixed-gender coalitions tend to outperform
-
-single-gender ones in advocating for gender equity. While there are
-
-legitimate reasons why female founders may both have an easier time
-
-attracting female VCs and reap more beneﬁts from those relationships,
-
-there is also a lot to be gained by ensuring a diverse set of perspectives
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

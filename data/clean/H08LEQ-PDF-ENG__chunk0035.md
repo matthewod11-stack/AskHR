@@ -1,7 +1,7 @@
-## chapter in the history of work, and for those companies and employees
-
-prepared to adapt, it is a chapter rich with opportunity.
-
-This article was originally published online on January 27, 2025.
-
-Karthik Narain is group chief executive of Technology at Accenture. He oversees cloud, data & AI, enterprise & industry technologies, security and ecosystem partnerships.
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83e23fe1d10c4d182679422f52496a932266f08e
+title: H08LEQ-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Is Changing How Companies Work

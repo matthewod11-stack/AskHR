@@ -1,17 +1,23 @@
-# leadership.
+---
+source_path: H08T7B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a161d0e292161df8d6494f849eb5607cc1a8f83
+title: H08T7B-PDF-ENG
+---
+## HBR / Digital Article / New Research on the Link Between Learning and Innovation
 
-This article was originally published online on July 14, 2025.
+Innovation thrives not through increased eﬀort, but through smarter,
 
-Jean-François Harvey is an associate professor in the Department of Entrepreneurship and Innovation at HEC Montréal.
+more structured eﬀort. Clearly sequencing and distinguishing your
 
-Johnathan R. Cromwell is an assistant professor at the University of San Francisco, where he is serving as faculty chair to launch a new Entrepreneurship Initiative focused on making positive societal change.
+team’s learning activities—reﬂection, exploration, and reﬁnement—
 
-Kevin J. Johnson is a professor in the department of management at HEC Montréal and serves as the director of the MBA program.
+turns potential chaos into strategic clarity, unlocking better decision-
 
-Amy C. Edmondson is the Novartis Professor of Leadership and Management at Harvard Business School. Her latest book is Right Kind of Wrong: The Science of Failing Well (Atria Books, 2023).
+making and sustained innovation. Like a conductor guiding a
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+symphony, mastering your team’s rhythm of learning transforms
 
-6
+everyday interactions into a powerful competitive advantage,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+positioning your organization for sustained growth and innovation

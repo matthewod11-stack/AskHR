@@ -1,27 +1,35 @@
-# and fears of failure.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b7ca927773ecf44cafc67322d53a652fbd8a8f8
+title: H07SHV-PDF-ENG
+---
+# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-And everybody out there watching, you know I’m talking about you
+contented everywhere, but do we need to be happy at work? How critical
 
-too. So take care of these pathologies because these are addictions like
+is that?
 
-anything else, and there’s a lot of brain chemistry in that.
+ARTHUR C. BROOKS:
 
-But the point is, you’re going to spend a ton of time doing that. And
+That’s an empirical question about whether or not people that have a
 
-if it’s drudgery, that’s bad. You don’t want drudgery. At very least it
+high quality of life tend to be happy at work or it doesn’t matter. And the
 
-should be something that’s pleasant and making it pleasant sometimes
+truth is, if you’re unhappy at work, you’re probably unhappy in life. It’s
 
-it’s completely out of our grasp. If you have a job that you truly hate and
+simple. I mean, it’s like nobody works an hour a day. Maybe you’re one
 
-a boss who’s just the worst, well, that’s no good. But a lot of it is in our
+of these lucky people that can be on the four-hour work week. My friend
 
-hands, and this is a lot of what I’m working on and what I’m trying to
+Tim Ferriss wrote that famous book, and the truth is, a lot of people
 
-help people understand they can actually manage.
+could get their work done in a lot less time than they do. But most of us
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+don’t have that luxury.
 
-13
+I’ve been working 80-hour weeks my whole career, and part of it is a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+pathology. I’m not going to kid you, I talk a lot in my research about self-
+
+objectiﬁcation, workaholism, which is all based on success addiction,

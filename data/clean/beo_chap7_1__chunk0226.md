@@ -1,11 +1,13 @@
-# Journal of Business 59:285-301.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 2383a33d48f0227abe90dc407393ccc1752cc19b
+title: beo_chap7_1
+---
+## Journal ofAccounting and Economics 7:151-—74.
 
-Kandel, E., and E. P. Lazear. 1992, Peer pressure and partnerships. Journal of Political
+Kahneman, D., and D. Lovallo. 1993. Timid choices and bold forecasts: a cognitive perspec-
 
-Economy 100:801-18.
+tive on risk taking. Management Science 39:17-32.
 
-Knez, M., and C. F. Camerer. 1994. Creating “expectational assets” in the laboratory:
-
-“weakest-link” coordination games. Strategic Management Journal 15:101-19.
-
-277
+Kahneman, D., J. Knetsch and R. H. Thaler. 1986. Fairness and the assumptions of economics.

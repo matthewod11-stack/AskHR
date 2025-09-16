@@ -1,9 +1,13 @@
-## Theoretical and Philosophical Psychology, 10, 3–24.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e36c2b0f02322dd46b8be010b54bf01e015afc89
+title: untitled
+---
+## Hispanic Journal of Behavioral Sciences, 2, 109–128.
 
-Puente, A. E., Blanch, E., Candland, D. K., Denmark, F. L., Laman, C., Lutsky, N., et al. (1993). Towards a psychology of variance. In T. V. McGovern (Ed.), Handbook for enhancing undergradu- ate education in psychology (pp. 70–92). Washington, DC: American Psychological Association.
+Padilla, A. (1999). Hispanic psychology: A 25 year retrospective look. In W. Lonner & D. L. Dinnel (Eds.), Merging past, present, and future in cross-cultural psychology: Selected papers from the fourteenth International Congress of the International Asso- ciation for Cross-Cultural Psychology (pp. 73–81). Lisse, The Netherlands: Swet & Zeitlinger.
 
-Puente, A. E., Matthews, J., & Brewer, C. (1992). Teaching psychology in America: A history. Washington, DC: American Psychological Association.
+Parham, T. A., White, J. L., & Ajamu, A. (2000). The psychology of Blacks: An African–centered perspective (3rd ed.). Upper Saddle River, NJ: Prentice-Hall.
 
-Puente, A. E., & Puente, K. L. (2000). Enrique Jose Varona y Pera. In A. Kazdin (Ed.), Encyclopedia of psychology (Vol. 8, p. 157). Washington, DC: American Psychological Association.
-
-Pugh, R. L. (1972). Psychology and the Black experience.
+Polkinghorne, D. E. (1990). Language and qualitative research.

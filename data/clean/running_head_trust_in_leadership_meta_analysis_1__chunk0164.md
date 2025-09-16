@@ -1,19 +1,17 @@
-# research.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: ebab20086a34781b26aed19dc885a43b3b0a475d
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-Finally, it is important to acknowledge mechanisms other than LMX and trust are
+currently possible to disentangle such effects. More studies focusing on the specific
 
-likely to be operating. For instance, future work could consider other related variables which
+subdimensions can help remedy this and the table in Appendix C may serve as a useful guide.
 
-revolve around the relationship between the leader and follower such as relational
+We also did not find sufficient studies which examined (or reported examining) trust in senior
 
-identification. Another interesting avenue may be to consider the relationship between the
+leadership, making comparisons across leader level impossible. The relative homogeneity of
 
-three dimensions of paternalistic leadership and OCB which were not found to be mediated
-
-by trust in leader. Instead the dimensions of paternalistic leadership had relatively large direct
-
-effects on followers’ OCB which may indicate that paternalistic leadership is a leadership
-
-style with the potential to directly impact on follower behaviour. Alternatively, it may that
-
-more motivational mediators such as self-efficacy may better explain the indirect effect
+studies in the field in terms of leader level is a limitation as well as a potential area for future

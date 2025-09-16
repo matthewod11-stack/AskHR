@@ -1,9 +1,33 @@
-# ES
+---
+source_path: H07P3X-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f81354e2bc7923c1e8f3165df719bf6510c9c17
+title: H07P3X-PDF-ENG
+---
+# HBR / Digital Article / How to Find the Time to Connect with Colleagues When You’re V…
 
-Elizabeth Grace Saunders is a time management coach and the founder of Real Life E Time Coaching & Speaking. She is the author of How to Invest Your Time Like Money and Divine Time Management. Find out more at RealLifeE.com.
+These conversations can end up taking a lot of time if you’re not
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+conscious of how long they go, so you’ll want to limit how frequently
 
-5
+you engage in purely social messaging. But reaching out a few times a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+week can be fun and help you feel connected. Consider pinging people
+
+at natural times when you would have said “Hello!” to coworkers in the
+
+past, such as when you ﬁrst get to your desk, around lunch, or when
+
+you’re waiting for a meeting to start.
+
+It can be a challenge to ﬁnd time to talk with people when you barely
+
+feel like you have time for completing tasks and projects. But there are
+
+beneﬁts to connecting with your coworkers. Rather than keeping your
+
+head down and focusing only on work, ﬁnd those pockets of time in
+
+your schedule where you can thoughtfully connect with colleagues.
+
+This article was originally published online on June 28, 2023.

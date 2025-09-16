@@ -1,21 +1,17 @@
-## Matt Light, Kevin Faulk, Logan Mankins, and Rodney Harrison (to name
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bbd6af59ab4d85faddafd4f456102581c6938d25
+title: S24054-PDF-ENG
+---
+## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
 
-just a few). We also developed a way of using the calendar to create a
+The owner? The quarterback? The truth is that we won championships
 
-cadence and a rhythm. We learned to relax and recharge just enough
+because of all three of us—along with dozens of other contributing
 
-in March and April without getting out of shape. By May, we were
+factors. As a team, we talked about “people, processes, and protocols.”
 
-completely focused on identifying our deﬁciencies from the prior year
+For example, a foundational culture of toughness and discipline had
 
-and improving. Maybe most of all, we mastered the ability (goaded on
-
-by Coach Belichick) to convince ourselves that a Wednesday practice in
-
-July was actually the fourth quarter of a playoﬀ game in January. That
-
-got us used to the feeling of performing under pressure so that we were
-
-able to handle ourselves when the pressure was no longer pretend. By
-
-the time the season started in September, we were just so far ahead of
+emerged just as I was arriving, built by players such as Tedy Bruschi,

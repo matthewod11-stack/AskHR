@@ -1,21 +1,15 @@
-## a month, and sometimes more often in response to traumatic events.
+---
+source_path: H076XK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3795d63b03d09ab606a06c7f89bfab4d929147d1
+title: H076XK-PDF-ENG
+---
+# Time to Connect
 
-Harrison calls this simple circle “Time to Connect.”
+In 2022, I met Judith Harrison, EVP, global diversity, equity & inclusion
 
-Time to Connect is considered a ritual for two reasons. First, the
+at global communications ﬁrm Weber Shandwick. After George Floyd’s
 
-gatherings aren’t directly related to the company’s stated mission —
+murder, Harrison oﬀered a time for employees to come together to
 
-their professional communications work. When I asked Harrison what
-
-inspired her to bring people together, she told me, “I thought having
-
-cadenced opportunities to talk through these events, all of which have
-
-mental health impacts on many people, made sense.”
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+process their grief. Ever since, the company has held the gathering once

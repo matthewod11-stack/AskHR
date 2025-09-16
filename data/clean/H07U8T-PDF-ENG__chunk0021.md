@@ -1,5 +1,11 @@
-# from one another.
+---
+source_path: H07U8T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b95c97a3d989bbaa43ee3c0e2c9992c5fe05ec25
+title: H07U8T-PDF-ENG
+---
+# on the big picture.
 
-- Be mindful of your interactions with your team; if your direct reports
+- Leverage the power of groups. Teams need a culture that encourages
 
-sense you care more about your own advancement, it will undermine
+everyone to hold each other accountable as well as where people learn

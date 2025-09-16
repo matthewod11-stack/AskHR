@@ -1,29 +1,25 @@
-## HBR / Digital Article / Quiet Quitting Is About Bad Bosses, Not Bad Employees
+---
+source_path: H077SI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55e7f82d67bd2e7397a01992e40f5ffe07ff007f
+title: H077SI-PDF-ENG
+---
+# HBR Staff/phaustov/Getty Images
 
-or putting in extra hours. They say “no” to requests to go beyond what
+Every employee, every workday, makes a decision: Are they only willing
 
-they think should be expected of a person in their position.
+to do the minimum work necessary to keep their job? Or are they willing
 
-In reality, quiet quitting is a new name for an old behavior. Our
+to put more of their energy and eﬀort into their work?
 
-researchers have been conducting 360-degree leadership assessments
+In the last few weeks, many of those who choose the former have self-
 
-for decades, and we’ve regularly asked people to rate whether their
+identiﬁed as “quiet quitters.” They reject the idea that work should be a
 
-“work environment is a place where people want to go the extra mile.”
+central focus of their life. They resist the expectation of giving their all
 
-To better understand the current phenomenon of quiet quitting, we
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-looked at our data to try to answer this question: What makes the
+1
 
-diﬀerence for those who view work as a day prison and others who feel
-
-that it gives them meaning and purpose?
-
-Our data indicates that quiet quitting is usually less about an
-
-employee’s willingness to work harder and more creatively, and more
-
-about a manager’s ability to build a relationship with their employees
-
-where they are not counting the minutes until quitting time.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

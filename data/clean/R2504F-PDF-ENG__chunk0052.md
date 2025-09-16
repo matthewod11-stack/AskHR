@@ -1,9 +1,13 @@
-## Solutions, Care.com, Cariloop, Family First, Homethrive, and Wellthy.
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98d6f36618306e5113aedbbd2b83a1c5092b1cb3
+title: R2504F-PDF-ENG
+---
+# make use of services
 
-To understand how one third-party provider aligns its oﬀerings with
+Companies don’t have to do all of this themselves. They can avail
 
-the beneﬁts programs of its employer clients, we looked at Bright
+themselves of third-party providers of eldercare education, assessment,
 
-Horizons. Nearly two decades ago, it began to oﬀer eldercare support
-
-as an extension of childcare services, and it now provides that support
+and navigation, oﬀered by such organizations as Bright Horizons Family

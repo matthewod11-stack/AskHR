@@ -1,11 +1,37 @@
-# or unreasonable;
+---
+source_path: Employment Law Guide - Reemployment and Nondiscrimination Rights for
+  Uniformed Services Members.md
+pages: n/a-n/a
+chunk_id: 5eb7108b5ee75e4e3cab9662ddfc6d1d21ca4851
+title: Employment Law Guide - Reemployment and Nondiscrimination Rights for Uniformed
+  Services Members
+---
+# services."
 
-The cumulative period of military service with that employer must not have exceeded ﬁve years; The person must not have been released from service under dishonorable or other punitive conditions; and
+Uniformed service includes active duty, active duty for training, inactive duty training (such as drills), initial
 
-The person must have reported back to the civilian job in a timely manner or have submitted a timely
+active duty training, and funeral honors duty performed by National Guard and reserve members, as well as
 
-application for reemployment, unless timely reporting back or application was impossible or unreasonable.
+the period for which a person is absent from a position of employment for the purpose of an examination to
 
-USERRA establishes a ﬁve-year cumulative total of military service with a single employer, with certain
+determine ﬁtness to perform any such duty.
 
-exceptions allowed for situations such as call-ups during emergencies, reserve drills, and annually scheduled active duty for training. USERRA also allows an employee to complete an initial period of active duty that
+USERRA covers nearly all employees, including part-time and probationary employees. USERRA applies to virtually all U.S. employers, regardless of size.
+
+USERRA prohibits employment discrimination against a person on the basis of past military service, current
+
+military obligations, or intent to serve. An employer must not deny initial employment, reemployment, retention in employment, promotion, or any beneﬁt of employment to a person on the basis of a past, present, or future
+
+service obligation. In addition, an employer must not retaliate against a person because of an action taken to
+
+enforce or exercise any USERRA right or for assisting in an USERRA investigation.
+
+The pre-service employer must reemploy servicemembers returning from a period of service in the uniformed
+
+services if those servicemembers meet ﬁve criteria:
+
+The person must have been absent from a civilian job on account of service in the uniformed services;
+
+The person must have given advance notice to the employer that he or she was leaving the job for service
+
+in the uniformed services, unless such notice was precluded by military necessity or otherwise impossible

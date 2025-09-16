@@ -1,9 +1,23 @@
-## HBR / Digital Article / 3 Ways to Make All Your Stakeholders Feel Heard
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 439291bf9e07cc5e9e3cf46ac0ca12267d8c8d54
+title: H08IWP-PDF-ENG
+---
+## customer dissatisfaction over performance issues on older hardware.
 
-previous operating system — Windows XP — or abandon Windows in
+Similarly, many third-party developers had trouble adapting, which left
 
-favor of other operating systems, notably Apple’s macOS. Widespread
+consumers unable to use their applications. Retailers also expressed
 
-consumer dissatisfaction and complaints also led to a class-action
+discontent that Microsoft did not provide adequate and timely training
 
-lawsuit that Microsoft had to settle, further damaging its ﬁnances and
+for their sales and support staﬀ, which led to higher return rates. All of
+
+this caused many developers and consumers to stick with Microsoft’s
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

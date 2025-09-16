@@ -1,9 +1,15 @@
-## HBR / Digital Article / Supporting the Mental Health of Employees of Color
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a89f13f990f82733eb69d96e9dc4c8a297a8315c
+title: H087DJ-PDF-ENG
+---
+# business alike.
 
-Angela Neal-Barnett, Ph.D. is a professor of Psychological Sciences at Kent State University and the author of Soothe Your Nerves: The Black Woman’s Guide to Understanding and Overcoming Anxiety, Panic, and Fear. The ﬁrst Black woman promoted to Full Professor in the College of Arts and Sciences, she directs the Program for Research on Anxiety Disorders among African Americans. Follow her on Twitter @dranjela or Linked In: Dr. Angela Neal-Barnett.
+This article was originally published online on May 03, 2024.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

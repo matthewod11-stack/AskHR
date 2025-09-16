@@ -1,7 +1,13 @@
-# Media Resources and Learning Tools
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c198714ee3b46886853268b6e9b7d4b3f04c2c39
+title: industrial_organizational_psychology_an_applied_approach
+---
+# successful leadership?
 
-7
+. Hogan identified three main reasons for unsuccessful leadership. Are there
 
-7
+others that he did not mention?
 
-Visit our website. Go to www. will find online resources directly linked to your book, including chapter-by- chapter quizzing, flashcards, crossword puzzles, application activities, and more. Want more practice applying industrial/organizational psychology? Check out the I/O Applications Workbook. This workbook (keyed to your textbook) offers engaging, high-interest activities to help you reinforce the important concepts presented in the text.
+. Can effective leadership actually be taught? . How can a leader be more persuasive?

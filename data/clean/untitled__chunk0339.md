@@ -1,3 +1,15 @@
-# 32 Psychology as a Profession
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fba48b20048e5b9eb3ec582037ff72cc5933c72b
+title: untitled
+---
+## The Beginnings of the New Profession of Psychology
 
-most of them women who already had teaching experience. (See the chapter by Fagan in this volume.)
+Goddard’s role in school psychology, and more broadly in educational reform, cannot be overstated. He sought to apply the science of psychology to the questions then facing public schools, particularly regarding the educability of children labeled subnormal in intelligence. Through his research efforts, his training workshops for teachers, and the promi- nence of his ideas in American education, Goddard was instrumental in promoting special education opportunities in American schools (even though many of those efforts went beyond what he would have endorsed). More important for psychology, he established a place for psychologists in the schools as diagnosticians of mental capacity, a role that was often synonymous with the label of school psychologist in the twentieth century (Zenderland, 1998).
+
+Terman, like Goddard, also focused on intellectual assess- ment.AlthoughTermanconductedsomeresearchonmentally handicapped children (including some work published with Goddard using subjects at Vineland), his work with children cametobemorefocusedongiftedstudents,andheisarguably best known (beyond the Stanford-Binet) for the longitudinal studies of children identiﬁed as gifted, the “genius studies,” that began in California in 1921. His revision of the Binet test was better psychometrically than Goddard’s across all intel- lectual levels but especially so in the higher ranges. Terman, like Goddard, enhanced the role of psychologist as assessor of intellectual functioning and as designer of curricula for special-needs children, particularly gifted children.
+
+Gesell was the ﬁrst person in the United States to hold the title of “school psychologist,” according to Fagan (1992). He was hired by the Connecticut State Board of Education in 1915 to evaluate schoolchildren and make recommendations for those who needed special treatment. Gesell’s duties in the beginning of his work were research oriented, but he later came to be consumed by a caseload of 502 schoolchildren (and his duties were similar to those of contemporary school psychologists). The signiﬁcance of Gesell’s appointment was that the title “school psychologist” was associated “with services to exceptional children, especially the mentally deﬁ- cient, and it associated the functions of that title as primarily diagnostic testing for placement decisions in the newly created programs for the handicapped” (Fagan, 1987, p. 406). Although Gesell is perhaps the most prominent of the early school psychologists, he was not the only person performing those duties by 1915. Already schools were employing teach- ers in intellectual assessment roles as well as curriculum design for special children. Norma Estelle Cutts (1892–1988) played such a role as early as 1914 in the New Haven, Connecticut, schools after working with Goddard for a year at Vineland (Fagan, 1989). She was one of many individuals whom Goddard inﬂuenced to become school psychologists,
+
+31

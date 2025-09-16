@@ -1,7 +1,25 @@
-## their teams, management attention, and capital on the expertise
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3168f60064d0147d20d4b93bccba261cc2d4b748
+title: R2502W-PDF-ENG
+---
+## Microsoft, Google, Amazon, and Alibaba provide cost-eﬀective and
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+scalable infrastructure and rich software solutions to their customers,
 
-5
+who no longer have to build custom applications and maintain large
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+workforces to run them.
+
+A large direct-to-consumer retailer, for example, can now rely on
+
+Shopify to build its e-commerce website, Google to advertise and
+
+connect with consumers, Stripe to process payments, Amazon to
+
+manage logistics and fulﬁllment, Salesforce and Workday to manage back-oﬃce applications, and Microsoft to provide secure cloud
+
+computing and AI platforms. This modern commerce technology stack
+
+is essentially an entire business platform. It allows retailers to focus

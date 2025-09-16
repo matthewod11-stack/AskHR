@@ -1,17 +1,37 @@
-## Washington, DC, one of a handful of states and local jurisdictions that
+---
+source_path: H062HI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56de2a066a4515c15d0022f928b5ecbfb7b5e8f0
+title: H062HI-PDF-ENG
+---
+## HBR / Digital Article / How Small Companies Can Offer Great Paid-Leave Programs
 
-have a public paid leave policy. That closed the deal.
+Yet some recruiters and executives at small ﬁrms, especially tech start-ups,
 
-Research has found that paid leave policies can help employers recruit top
+say that providing paid leave to employees — or living in a state with a
 
-talent, especially in the highly competitive tech sector. A 2016 Deloitte
+public paid leave program — is increasingly making the difference in
 
-survey found 77% of employees said that whether a ﬁrm offered paid leave
+recruiting and retaining top talent, especially as the Covid-19 pandemic
 
-— and the length of it — had some bearing on where they chose to work.
+strains families to the breaking point. “I’ve had people turn me down
 
-Half said they’d rather have more paid leave than a pay raise. Jaime Klein,
+because of the paid leave,” said Patricia Sias, head of HR at a small STEM
 
-founder and CEO of Inspire HR, calls it “the Google effect”: “Facebook,
+ﬁrm that does not offer paid family leave. In a previous position, with a
 
-Google, they’ve started doing these longer paid leaves, and in an effort to
+large ﬁrm, she said the paid leave policy often sealed the deal, especially
+
+for women and younger candidates. “Millennials brought [paid leave] up
+
+right off the bat,” she said.
+
+Men are increasingly bringing it up, too. Marcia Call, a recruiter with
+
+TalentFront who specializes in small businesses, said paid leave was a
+
+make-or-break issue in two recent cases, both men. “It was extraordinarily
+
+important to these men that they have this beneﬁt,” Call said. Though the
+
+ﬁrm she was recruiting for didn’t offer paid leave, the ﬁrm is located in

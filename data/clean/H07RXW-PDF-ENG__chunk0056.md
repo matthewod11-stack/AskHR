@@ -1,9 +1,9 @@
-## structures, culture, storytelling, and hiring.
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6966fa800f37e90e0bf529323179fefc84cf18a
+title: H07RXW-PDF-ENG
+---
+## entrepreneurialism, but not necessarily through tech-enabled changes.
 
-On the top left, where you want the advantages technologies oﬀer but
-
-do not need or want more entrepreneurialism, you may implement a
-
-digital products approach. For example, you might build an algorithm
-
-to dictate which candidate a recruiter should give a larger signing bonus
+Rather, focus on traditional organizational tools like reporting

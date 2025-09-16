@@ -1,13 +1,11 @@
-# Academic Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9f82e8e68bb1bef30b60f9bf26d7c9c203efdac2
+title: untitled
+---
+# New York: McGraw-Hill.
 
-Schachter, S., & Singer, J. E. (1962). Cognitive, social and physio- logical determinants of emotional state. Psychological Review, 69, 379–399.
+Schachter, S. (1970). The assumption of identity and peripheralist- centralist controversies in motivation and emotion. In M. B. Arnold (Ed.), Feelings and emotions (pp. 111–121). New York: Academic Press.
 
-Schlosberg, H. (1954). Three dimensions of emotion. Psychological
-
-Review, 61, 81–88.
-
-Sergi, G. (1894). Principi di psicologie. Dolore e piacere; storia
-
-naturale dei sentimenti. Milano, Italy: Fratelli Dumolard.
-
-Sergi, G. (1896). Sulla nuova teoria della emozioni. Rivista di
+Schachter, S. (1971). Emotion, obesity, and crime. New York:

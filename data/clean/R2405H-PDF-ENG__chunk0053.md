@@ -1,37 +1,13 @@
-## sensors and wireless connectivity to both measure worker safety and
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6ab0a5d877cba5169b97a40f8415c4c507b275b
+title: R2405H-PDF-ENG
+---
+## HBR / Magazine Article / Safety Should Be a Performance Driver
 
-track improvements in productivity. Similarly, Chevron is developing a
+Innovative companies are responding to the growing demand for safety-
 
-wearable skin patch that will provide real-time, automated analysis of
+focused equipment. For instance, in 2019 3M developed a new line
 
-sweat and electrolyte loss, alerting wearers to potential heat strain and
-
-the need for a break to replenish ﬂuids and electrolytes.
-
-Target training. Safety training must be customized to achieve speciﬁc
-
-preventive behaviors, and it should prioritize employee convenience.
-
-Otherwise, training programs can waste employees’ time, sap their
-
-morale, and fail to achieve the desired results.
-
-The nursing-home chain initially subjected employees to generic safety
-
-training, conducted during lunch, to explain the importance of safety.
-
-Perhaps unsurprisingly, no safety improvements materialized, so the
-
-chain redesigned its training, making it speciﬁc to bedsore reduction.
-
-It also began oﬀering the training sessions online so that employees
-
-wouldn’t need to forgo lunch to attend them. In addition, each
-
-employee was incentivized with a cash reward and a certiﬁcate for
-
-completing the training. As a result, training completion rates increased
-
-to 96%, employees identiﬁed more bedsores in the pre-formation stage,
-
-and the incidence of bedsores among residents decreased from 23.1% to
+of smart personal protective equipment (PPE) that uses advanced

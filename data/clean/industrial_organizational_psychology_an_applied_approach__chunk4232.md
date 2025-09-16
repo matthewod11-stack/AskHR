@@ -1,13 +1,19 @@
-## Hogan, J. B. (1994). Empirical keying of background data
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: cf3ede51db2d67659908083a0f06f3a2d8a39449
+title: industrial_organizational_psychology_an_applied_approach
+---
+# conference of the Society for Industrial and Organizational Psychology, Nashville, TN.
 
-measures. In G. S. Stokes, M. D. Mumford, & W. A. Owens, (Eds.), Biodata handbook (pp. 69–107). Palo Alto, CA: CPP Books.
+Hoﬀ Macan, T., & Foster, J. (2004). Managers’ reactions to utility analysis and perceptions of what inﬂ uences their decisions. Journal of Business and Psychology, 19(2), 241–253.
 
-Hogan, R. (1989, June). Th e darker side of charisma. Paper
+Hoﬀ man, B. J., Blair, C. A., Meriac, J. P., & Woehr, D. J. (2006).
 
-presented at 13th annual meeting of International Personnel Management Association Assessment Council, Orlando, FL.
+Expanding the criterion domain? A quantitative review of the OCB literature. Poster presented at the 21st annual conference of the Society for Industrial and Organizational Psychology, Dallas, TX.
 
-Hogan, T. P., Benjamin, A., & Brezinski, K. L. (2003). Reliability methods. In Bruce Th ompson (Ed.), Score reliability: Contemporary thinking on reliability issues. Th ousand Oaks, CA: Sage Publications.
+Hoﬀ man, C. C., & Th ornton, G. C. (1997). Examining selection
 
-Holden, M. (1998). Positive politics: Overcoming oﬃ ce politics
+utility where competing predictors diﬀ er in adverse impact. Personnel Psychology, 50(2), 455–470.
 
-and fast-track your career. Warriewood, Australia: Business & Professional Publishing.
+Hogan, J., & Quigley, A. (1994). Eﬀ ects of preparing for physical ability tests. Public Personnel Management, 23(1), 85–104.

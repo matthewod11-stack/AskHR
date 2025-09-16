@@ -1,43 +1,21 @@
-# referral in the future.
+---
+source_path: H07M1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 030d90a037041fb627f84292cd8bff683cbca0f5
+title: H07M1A-PDF-ENG
+---
+## HBR / Digital Article / Building Social Capital When You Work Remotely
 
-- 2. Communicate strategically and with intention. The most critical
+work, it might be worth it. Even so, this is not something you want to do
 
-factor to success when you’re behind a screen is ensuring your
+as a regular practice. Always weigh the pros and cons.
 
-communication is written to inspire action. First, consider your
+When you do something as a favor for someone when necessary, you
 
-timing. Whether you’re sending a pitch, catching up on email, or
+have taken your ﬁrst step in building social capital with that person.
 
-sending updates on projects, make sure you’re considering where your
+Furthermore, doing so, especially to gain experience in an area where you may need expertise, eﬀectively ﬁlls that skillset void. Negotiating a
 
-colleagues are. Just because you don’t mind emailing after hours doesn’t mean others do or can. Or perhaps you are in a diﬀerent time
+testimonial as part of your fee is strategic and acceptable. It can build
 
-zone. Send or schedule your emails to be delivered within your shared
-
-working hours to increase your odds of real-time response.
-
-Second, your words need to connect with the reader. That begins with
-
-understanding who you are addressing. Often, people forget to consider
-
-their audience. They focus on what they want to say and ignore who
-
-is on the other side. Do some research to understand the recipient’s
-
-experience or point of view. If you are pitching an idea, it is always
-
-beneﬁcial to understand what has been done before and what they
-
-might be looking for.
-
-When setting expectations, make sure your words are backed by action.
-
-Accurately assess your capabilities and deliver on that. Or better yet,
-
-exceed expectations. Make your words mean something.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+your credibility and be a valuable asset on your website or secure a

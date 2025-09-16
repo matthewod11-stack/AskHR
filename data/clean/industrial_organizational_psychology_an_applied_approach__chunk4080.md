@@ -1,3 +1,7 @@
-## Beshir, M. Y., El-Sabagh, A. S., & El-Nawawi, M. A. (1981). Time
-
-on task eﬀ ect on tracking performance under heat stress. Ergonomics, 24, 95–102.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 21b8a9ab830559a84a8686d9a561ed9da6f3a80e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Wadsworth.

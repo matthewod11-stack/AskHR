@@ -1,7 +1,13 @@
-## Chapter 8 • Performance Management and Employee Development
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a34f4cba6e6ff9c1ff6ddd656b4317340bcd7986
+title: performance_management_3rd_edition_by_aguinis
+---
+## 2020 Insight Gold www.2020insight.net (demo available online)
 
-- Relationships (builds personal relationships, facilitates team success) • Task management (works efficiently, works competently) • Production (takes action, achieves results) • Development of others (cultivates individual talent, motivates successfully) • Personal development (displays commitment, seeks improvement)
+20/20 Insight GOLD is extremely user-friendly software that lets you create and use practically any kind of multisource feedback survey you can imagine—including 360-degree feedback projects, pre- and post-training competency surveys, team and organization climate surveys, customer satisfaction surveys, and many more.
 
-The CheckPoint system includes self-evaluations as well as evaluations provided by the direct supervisor, direct subordinates, and peers. After performance information has been collected from all these sources, the evaluated manager receives feedback in the form of the graph shown in Figure 8.2. This graph illustrates the discrepancies between self- and others’ ratings as well as the scores obtained for each competency. For example, this graph shows that this particular manager has the greatest gap for the
+As an illustration, consider the system offered by CheckPoint (http://ourworld. compuserve.com/homepages/gately/chkpoint.htm). This system, designed for employees in supervisory roles, includes information on the following competencies:
 
-FIGURE 8.2 Checkpoint 360-Degree Competency System: Executive Overview Source: Bob Gately, Strategic Business Partner of Profiles International, Inc. 508-634-7748, bob@gatelyconsulting. com, http://www.gatelyconsulting.com/chkpoint.htm. Courtesy of Profiles International, Inc.
+- Communication (listens to others, processes information, communicates effectively) • Leadership (instills trust, provides direction, delegates responsibility) • Adaptability (adjusts to circumstances, thinks creatively)

@@ -1,21 +1,17 @@
-## the morning and only three in the afternoon.
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f61c65174cf885b6f32b58632e7773acf1f14a2
+title: H087FX-PDF-ENG
+---
+## HBR / The Big Idea / Long Covid at Work: A Manager’s Guide
 
-Because long Covid and similar conditions are complex and dynamic,
+Flares can be signiﬁcant, leaving some people bedbound for days or
 
-we recommend that accommodations be customizable and designed
+weeks. What makes these illnesses even more confusing is that energy
 
-for ﬂexibility. There is no one-size-ﬁts-all approach — sometimes not
+capacities vary, as does the extent to which speciﬁc activities are
 
-even for the same employee over time, which can be challenging
+draining, even for the same person. For example, someone with long
 
-for employers to understand and manage. The good news is that by
-
-adjusting how, where, and when people do their work, it’s possible
-
-to respond to the symptoms that are most problematic (and “spoon-
-
-draining”) for any given worker.
-
-We advise starting with a menu of options and then customizing
-
-from there. For example, if an employee experiences extreme fatigue,
+Covid might have ﬁve spoons one day and 15 the next, or 10 spoons in

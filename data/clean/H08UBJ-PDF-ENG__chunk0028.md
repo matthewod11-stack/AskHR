@@ -1,3 +1,7 @@
-# AR
-
-Alan Duboisée de Ricquebourg is an associate professor of accounting at Leeds University Business School and a Fellow of the Institute of Chartered Accountants in England and Wales. His research focuses on auditor reporting, regulatory audit reforms, and ﬁnancial analysts’ monitoring eﬀectiveness, with publications in leading journals like European Accounting Review, British Accounting Review, Accounting Auditing & Accountability Journal, and Critical Perspectives on Accounting.
+---
+source_path: H08UBJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71e9d275e408e09e37e9050132cc52e83184833e
+title: H08UBJ-PDF-ENG
+---
+# HBR / Digital Article / Gender Diversity Helps Teams Maintain Integrity Under Pressure…

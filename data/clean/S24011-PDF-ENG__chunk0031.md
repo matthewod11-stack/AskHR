@@ -1,15 +1,29 @@
-# bridging.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f151fbab6e9e8c6611e034e0d458f9f8d94c272
+title: S24011-PDF-ENG
+---
+## HBR / Spotlight Article / Leading in the Flow of Work
 
-Like Gorbachev, we all have more than one style. By drawing on our
+First, he established a positive intention and tapped into purpose by
 
-core energies, we can pull away from a limiting identiﬁcation with
+reaffirming and reexpressing his reasons for meeting with Thatcher
 
-any particular style and adapt to the present moment. It is worth
+and deciding to stay and reengage with her. Second, he showed
 
-noting, however, that leadership-in-ﬂow does not work by faking it.
+wisdom by creating the right frame—by looking at the situation more
 
-If Gorbachev hadn’t ﬁrst truly felt admiration for Thatcher’s acute
+constructively. Third, he evoked love by showing appreciation for her
 
-mind and her principles, Thatcher probably would have sensed from
+acute mind and her high personal principles and establishing an
 
-his demeanor that he wasn’t being genuine and would have responded
+affiliation with her—stating that he was the same kind of person. Last,
+
+instead of criticizing her for trying to convert him, he showed her how
+
+amusing it would be to her if he were trying to convert her, sparking
+
+joy (self-realization). Those actions instantly changed the tone of the
+
+meeting and helped him switch his leadership style from arguing to

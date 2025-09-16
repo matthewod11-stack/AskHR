@@ -1,7 +1,7 @@
-## Mistakes First-Time Managers Make When Giving Feedback
-
-https://hbr.org/2023/09/mistakes-ﬁrst-time-managers-make-when-giving-feedback
-
-4/7
-
-The solution is discernment. It’s your decision whether to sharethe feedback you receive from others with your direct reports.When you receive feedback for your team, remind yourself oftheir goals and then filter out any recommendations that won’t beuseful in helping them improve or reach them.Using the above example, let’s say you received feedback that thesessions during day one of the conference ran over the scheduledtime limit. Several attendees complained about the ending feelingrushed and not being able to ask questions. That feedback,indicating a consensus of opinion among several people, will helpensure a smoother event in the future. Therefore, it would beworth conveying that feedback to your direct reports. On theother hand, if you receive feedback from one person that they“didn’t like the topic of a session,” you may want to keep that toyourself. The random opinion of one person may not beconstructive, and could take your team’s attention and effortsaway from making impactful changes.You also need to learn when to deliver feedback. While deliveringfeedback promptly helps learning, there is one caveat: Whenemotions are running high or tanks are running low, it becomeseven more important to filter and focus your feedback. Forexample, day one of a three-day event is not the time for adetailed debrief. Rather, it’s a good time for focusing on one,maybe two things that might be improved the next day, liketechnology issues, making sure people can find the display booth,and ensuring that all speakers follow the schedule. A week later,with all the feedback from audience reactions, satisfaction surveyresults, and other outcomes measured, a detailed debrief will bemore useful. Delaying that detailed feedback will also help toeliminate blame and give you time to brainstorm solutionstogether as a team.
+---
+source_path: Mistakes First-Time Managers Make When Giving Feedback.md
+pages: n/a-n/a
+chunk_id: 742414cfa925e0dd892beccc06003a925dfc1ef0
+title: Mistakes First-Time Managers Make When Giving Feedback
+---
+# 9/10/25, 10:39 AM

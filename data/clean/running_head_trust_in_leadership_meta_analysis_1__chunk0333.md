@@ -1,21 +1,27 @@
-# Ethical
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: c20eac815a1ff3b981b39c4a8622d132329234c4
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Authentic
 
-19
+20
 
-4883
+4530
 
-.58
+.56
 
-.50
+.49
 
-.66
+.63
 
-.65
+.64
 
-.23
+.18
 
-4.06
+7.26
 
-.36
+.40
 
-.94
+.87

@@ -1,19 +1,19 @@
-## Romolini’s page-turner Ambition Monster: A Memoir, will resonate with
+---
+source_path: R2406N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 796590a3c360bbd6572a4153ea0967e37c120579
+title: R2406N-PDF-ENG
+---
+## HBR / Magazine Article / Getting Over Overwork
 
-those of us from less-than-privileged backgrounds who came of age
+streamlin[ing] processes to focus on getting the most important work done rather than the hours spent at the oﬃce or worksite.”
 
-during the “girlboss” era of the 2000s and early 2010s. She recounts how
+Some organizations do try to do those things, of course, but they’ve had
 
-messages about the importance of professional success wormed their
+mixed success; Schulte oﬀers the sobering case study of a pilot program
 
-way into her brain and her career: “I am told, again and again, that
+at Intel that was successful but nevertheless no longer exists.
 
-a good work ethic is the highest form of exaltation, and that working
+If this is what we’re up against, layer on top of it a second theme: the
 
-hard is what makes you worthy; it keeps you safe. My nuclear family
-
-occasionally went to church, but we had no religion. We prayed to the
-
-God of work.”
-
-She enters the worlds of New York City and Los Angeles media and
+role that upbringing plays in how we value and engage in work. Jennifer

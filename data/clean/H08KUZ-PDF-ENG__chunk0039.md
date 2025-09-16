@@ -1,21 +1,39 @@
-## due to ineﬀective cyber-resilience measures by its customers.
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c74797154afc023073980328ef7ce1c655ec7704
+title: H08KUZ-PDF-ENG
+---
+# recovery assistance.
 
-While such speciﬁc disputes will be resolved in the pending
+CrowdStrike claimed that CEO George Kurtz reached out to Delta
 
-lawsuits, we note that cyber information ﬂow boundaries and
+CEO Ed Bastian to “oﬀer onsite assistance but received no response.”
 
-accountability implications are generally ill-deﬁned and often
+Similarly, Microsoft claimed that it “immediately oﬀered to assist Delta
 
-ambiguous. Furthermore, there are cyber dependencies on multiple
+at no charge and that its CEO Satya Nadella emailed Bastian, but never
 
-third parties that introduce additional accountability questions.
+got a reply.”
 
-Consider for example Microsoft’s role in the dispute between Delta
+While commendable, it is not at all clear how valuable CEO-level
 
-and CrowdStrike. What is the precise relationship between Microsoft’s
+interactions are after automatic resiliency and recovery processes
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+should have been triggered (or indeed whether Delta’s CEO even
 
-7
+had access to his email system at that point or was it down due to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+CrowdStrike’s faulty update).
+
+- 4. How can we ensure accountability for losses?
+
+CrowdStrike quickly took responsibility for its faulty update and
+
+apologized to the market. With respect to its ﬁnancial liability in
+
+particular disputes such as the one with Delta, CrowdStrike indicated
+
+that “its contractual liability is capped in the single-digit millions,”
+
+implying that it is not liable for most of the ﬁnancial losses which are

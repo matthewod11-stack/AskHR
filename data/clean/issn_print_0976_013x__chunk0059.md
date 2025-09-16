@@ -1,19 +1,19 @@
-## Waste Management Unit within the Technopark campus.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 2d6d2fcfe3769a14673e3a971171a0d8a3fc08a8
+title: issn_print_0976_013x
+---
+# infrastructure at
 
-- Responsive Maintenance Team: The opera(cid:415)ons and maintenance carried out by
+Technopark is great. There is a bustling suburb right outside the Technopark campus.
 
-Technopark guarantees 24X7 assistance to the stakeholders.
+Besides, there is a magniﬁcent food court within the campus. Presence of all the
 
-- Safe and Protected Campus: Technopark safeguards the interests of all the
+essen(cid:415)al commercial shops and establishments make the campus self-suﬃcient. There
 
-stakeholders with zero man-days lost in the companies’ opera(cid:415)ons within the campus.
+is a sprawling guest house within the campus to meet the needs of guests.
 
-- Excellent Data Connec(cid:415)vity: Leased line in Fiber connec(cid:415)vity available in all the
+- Green Environment: The green buildings in the Technopark campus have boosted
 
-buildings on the campus guarantees seamless connec(cid:415)vity at lower cost.
-
-- Start-ups and Incuba(cid:415)on support: The Technopark Technology Business Incubator (T-
-
-TBI) provides economical plug and play facili(cid:415)es to start-ups in IT/ITeS sectors.
-
-- Lower opera(cid:415)onal costs: Technopark ensures lower opera(cid:415)ons cost with a host of SEZ
+energy eﬃciency through much lower power consump(cid:415)on. Besides, there is Solid

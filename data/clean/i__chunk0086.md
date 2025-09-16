@@ -1,25 +1,9 @@
-# of the above-mentioned term:
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 7bbce1f1dafe28a8df6ebfde7bf82c4585e019b5
+title: i
+---
+# or <Human Capital Analytics=.
 
-HR analytics primarily focuses on evaluating the performance of the HR department itself,
-
-including the analysis of key performance indicators (KPIs) such as employee turnover and
-
-time to hire. These analytics are mainly relevant to the HR team.
-
-16
-
-Workforce analytics, on the other hand, has a broader scope and covers the entire workforce,
-
-including the potential inclusion of data related to automation, AI, and robots. Workforce
-
-analytics provides a more comprehensive view for creating a holistic workforce strategy.
-
-PA goes even further by encompassing HR, the entire workforce, and customer insights. It
-
-involves measuring and analyzing all this information and integrating it to enhance decision-
-
-making and overall business performance.
-
-In this master’s thesis, the term <People Analytics= is employed, as it seems to be an emerging
-
-term, and PA does not belong within only HR but rather, these analytics deal with business
+According to Khan and Millner (2020) and other authors, there are distinct definitions for each

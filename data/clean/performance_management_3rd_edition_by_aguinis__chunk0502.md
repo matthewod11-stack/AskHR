@@ -1,19 +1,7 @@
-## Part I • Strategic and General Considerations
-
-obvious directions that the organization should pursue. Consider the case of IBM, the world’s largest information technology company as well as the world’s largest business and technology services provider (US$ 36 billion). In the past few years, IBM has concluded that the PC-driven client-server computing model no longer applies and that network-based computing is taking over. This realization shifted the focus to servers, databases, and software for transaction management. Furthermore, IBM recognized the upsurge of network-connected devices including personal digital assistants (PDAs), cell phones, and video game systems. To take advantage of this external opportunity, IBM now focuses its resources on support- ing network systems, developing software for the network-connected devices, and manufacturing specialized components. IBM has also improved its server technol- ogy and revamped its storage systems. IBM built up its software capabilities through internal development and outside acquisitions. In short, IBM developed a leverage factor by identifying internal strengths that matched external opportuni- ties, which in turn leads to a successful business model.
-
-- 2. Opportunity + Weakness = Constraint.
-
-In a constraint situation, the external opportunity is present; however, the internal situation is not conducive to taking advantage of the external opportunity. At IBM, this situation could have taken place if IBM did not have the internal capabilities to develop software for the network-connected devices and specialized components. The external opportu- nity would still be there but, absent the internal capabilities, it would not turn into an advantageous business scenario.
-
-- 3. Threat + Strength = Vulnerability.
-
-In this situation, there is an external threat, but this threat can be contained because of the presence of internal strengths. If this had been the case at IBM, the company would not have been able to take advantage of a new situation; nevertheless, existing strengths would have allowed IBM to continue to operate in other areas.
-
-- 4. Threat + Weakness = Problem.
-
-In the worst scenario, there is an external threat and an accompanying internal weakness. For example, in the 1980s, IBM refused to adapt to the demands of the emerging microcomputer market (i.e., today’s PCs). IBM did not have the internal capability to address customers’ needs for PCs and instead continued to focus on its internal strength: the mainframe computer. IBM’s poor performance in the early 1990s was a direct consequence of this problem situation: the external threat (increasing demand for PCs and dwindling demand for mainframe computers) was met with an internal weakness (the lack of ability to shift internal focus from the mainframe to the PC).
-
-Consider the organization you are currently working for, or the organization for which you have worked most recently. Try to identify one leverage and one problem based on an analysis of opportunities, threats, strengths, and weaknesses. What was the situation like? What were the results?
-
-In sum, the process of creating a strategic plan begins with an environmental analy- sis, which considers internal as well as external trends. Internal trends can be classified as either strengths or weaknesses, and external trends can be classified as either opportunities or threats. Agap analysis consists of pairing strengths and weaknesses with opportunities and threats and determining whether the situation is advantageous (i.e., leverage), disad- vantageous (i.e., problem), or somewhere in between (i.e., constraint and vulnerability).
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 86eec8ae41b3f9a3189da889854c2d01961208a6
+title: performance_management_3rd_edition_by_aguinis
+---
+# 68

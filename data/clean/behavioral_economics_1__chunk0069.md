@@ -1,9 +1,15 @@
-# University of Chicago.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 24e6e501ca5bab4c8eacd9fe0b42c771796c98ff
+title: behavioral_economics_1
+---
+# Journal of Economics 110(1): 73-92.
 
-Bernheim, B. D. and A. Rangel (2004). "Addiction and cue-triggered decision processes." American Economic
+Benhabib, J. and A. Bisin (2005). "Modeling internal commitment mechanisms and self-control: A
 
-Review 94(5): 1558-1590.
+neuroeconomics approach to consumption-saving decisions." Games and Economic Behavior 52(2): 460-
 
-Bernheim, B. D. and A. Rangel (2005). Behavioral Public Economics: Welfare and Policy Analysis With
+492.
 
-Fallible Decision-Makers. Economic Institutions and Behavioral Economics. P. Diamond and H. Vartiainen.
+Benjamin, D. J. and J. M. Shapiro (2005). Who is “Behavioral”? Cognitive Ability and Anomalous Preferences,

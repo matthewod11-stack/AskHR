@@ -1,23 +1,13 @@
-## Go deeper: “Operational Transparency,” by Ryan W. Buell (2019)
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3332b2783b6db13bab70188c9ba48e733fd9893
+title: H08TKY-PDF-ENG
+---
+## HBR / Digital Article / The Definitive HBR Strategy Glossary
 
-[ P ]
+Managers should be aware of certain conditions in which transparency
 
-Platform strategy: Traditional “pipeline” businesses succeed by
+can backﬁre, such as when it reveals things people genuinely don’t want
 
-optimizing the activities in their value chains—most of which they
-
-own or control. “Platform” businesses that bring together consumers
-
-and producers, as companies Uber, Alibaba, and Airbnb do, require
-
-a diﬀerent approach to strategy. The critical asset of a platform
-
-is external—the community of members. The focus therefore shifts
-
-from controlling resources to orchestrating them, and ﬁrms win by
-
-facilitating more external interactions and creating “network eﬀects”
-
-that increase the value provided to all participants. In this world,
-
-competition can emerge from seemingly unrelated industries and even
+to see, engenders anxiety, or destroys the magic, among other examples.

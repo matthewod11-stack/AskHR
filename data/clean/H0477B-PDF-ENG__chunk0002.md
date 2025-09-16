@@ -1,3 +1,9 @@
-# by Sarah Green Carmichael
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 820da08ac0298ee72e6cf76b89f13061bc04ed6b
+title: H0477B-PDF-ENG
+---
+# Personnel Policies
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Why Walmart Expanded Parental Leave — and How to Convince Your Company to Do the Same

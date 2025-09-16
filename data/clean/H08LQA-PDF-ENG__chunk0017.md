@@ -1,27 +1,21 @@
-## The African Leadership Academy (ALA), a pioneering boarding school
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff63a664ed25649737a339046844b4c1a59a2a61
+title: H08LQA-PDF-ENG
+---
+# creative solutions.
 
-in Johannesburg, experienced this ﬁrsthand. Ten years after ALA
+When an organization oﬀers extended breaks as a routine part of
 
-opened, its cofounder, Chris Bradford, decided to step back for an entire academic year to accompany his ﬁancée to Europe while she
+its culture, it builds the capacity to handle turnover. It’s a form of
 
-completed her master’s degree. When he returned, Chris discovered that
+resilience training, as the company is forced to ﬁll the gaps the absent
 
-the school’s operations had ﬂourished in his absence, but its fundraising
+person leaves behind — even if it’s just for a little while — and the
 
-eﬀorts had fallen oﬀ a cliﬀ. In response, he promoted the person who’d
+colleagues who ﬁll them get stretch experiences and opportunities to
 
-been handling operations to be ALA’s permanent COO. Then he turned
+prove themselves. Ironically, enacting a sabbatical policy can help a
 
-his attention to soliciting donations for the school’s upcoming gala and
-
-training others to better ﬁll this role. He set a personal goal to transfer
-
-the role to a colleague within three years so that he could move to the United States, where his ﬁancée would soon start an academic job.
-
-Chris’s sabbatical marked the beginning of the end of his time at ALA.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+company both prevent and prepare for the departure of key people.

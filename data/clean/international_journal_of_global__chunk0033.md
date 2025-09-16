@@ -1,7 +1,9 @@
-## Organ. Psychol. Organ. Behav., 1(1), 305–331.
+---
+source_path: international_journal_of_global.md
+pages: n/a-n/a
+chunk_id: d7f3a66af4b4fa7315583c324a6dace58610f589
+title: international_journal_of_global
+---
+## Career Development Quarterly, 64(2), 153–168.
 
-46
-
-International Journal of Global Optimization and Its Application Vol 1, No 1, March 2022, pp.39-48.
-
-Charan, R., Drotter, S., & Noel, J. (2010). The leadership pipeline: How to build the leadership powered company
+Cappelli, P., & Keller, J. R. (2014). Talent management: Conceptual approaches and practical challenges. Annu. Rev.

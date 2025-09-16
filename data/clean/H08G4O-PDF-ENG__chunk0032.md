@@ -1,11 +1,17 @@
-# execution.
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7739e7f26324bedd7f6dae25efbdcd292ef1deec
+title: H08G4O-PDF-ENG
+---
+## HBR / Digital Article / The Strengths and Weaknesses that Set Founders Apart
 
-One investor shared, “By deﬁnition, founder CEOs have built something
+- 5. They are overly optimistic and may underestimate risk based on prior success. The optimism that fuels a founder’s vision can blind them to potential
 
-from nothing and have been successful at it. This can create positive
+pitfalls. Forty-two percent of founders in our study displayed an
 
-bias. As a result, they frequently overestimate what is feasible. Other
+overly optimistic outlook, potentially underestimating risks based on
 
-CEOs may not think big enough; they see budgets as way too aggressive,
+past successes. On the other hand, 62% of non-founder CEOs studied
 
-while the founder CEO will say, ‘We can do much more than that.’”
+brought a more pragmatic, risk-conscious approach to planning and

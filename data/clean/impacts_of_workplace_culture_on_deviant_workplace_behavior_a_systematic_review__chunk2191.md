@@ -1,15 +1,27 @@
-# Wiley & Sons.
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: b93e4986b27dff1ee611fed9559064008a56ac3c
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# culture: What white-collar
 
-Boye, M. W., & Jones, J. W. (1997). Organizational culture and employee counterproductivity. In R. A. Giacalone & J. Greenberg (Eds.), Antisocial behaviour in organizations (pp. 172–184). Sage Publications.
+Appelbaum, S. H., Iaconi, G. D., & Matousek, A. (2007). Posi- tive and negative deviant workplace behaviors: Causes, 7(5), and solutions. Corporate Governance, impacts, 586–598. https://doi.org/10.1108/14720700710827176
 
-Bradfield, M., & Aquino, K. (1999). The effects of blame attri- butions and offender likableness on forgiveness and revenge in the workplace. Journal of Management, 25(5), 607–631. https://doi.org/10.1177/014920639902500501
+Aquino, K., Lewis, M. U., & Bradfield, M. (1999). Justice con- structs, negative affectivity, and employee deviance: A pro- posed model and empirical test. Journal of Organizational Behaviour, 20(7), 1073–1091.
 
-Buss, A. H., & Perry, M. (1992). The aggression questionnaire. Journal of Personality and Social Psychology, 63(3), 452–459. https://doi.org/10.1037/0022-3514.63.3.452
+Aquino, K., & Reed, A. (2002). The self-importance moral identity. Journal of Personality and Social Psychology, 83(6), 1423–1440. https://doi.org/10.1037/0022-3514.83.6.1423 Armeli, S., Eisenberger, R., Fasolo, P., & Lynch, P. (1998). Per- ceived organizational support and police performance: The moderating influence of socioemotional needs. Journal of Applied Psychology, 83(2), 288–297. https://doi.org/10.1037/ 0021-9010.83.2.288
 
-Calderon-Anyosa, R. J. C., & Kaufman, J. S. (2021). Impact of COVID-19 lockdown policy on homicide, suicide, and motor vehicle deaths in Peru. Preventive Medicine, 143, 1–8. https://doi.org/10.1016/J.YPMED.2020.106331
+Aryati, A. S., Sudiro, A., Hadiwidjaja, D., & Noermijati, N. (2018). The influence of ethical leadership to deviant work- place behavior mediated by ethical climate and organiza- International Journal of Law and tional commitment. Management, 60(2), https://doi.org/10.1108/ IJLMA-03-2017-0053
 
-Cameron, K. S., & Quinn, R. E. (1999). Diagnosing and chang-
+233–249.
 
-ing organizational culture. Addison Wesley.
+Bashir, M., Abrar, M., Yousaf, M., Saqib, S., & Shabbir, R. (2019). Organizational politics and workplace deviance in unionized settings: Mediating role of job stress and moder- ating role of resilience. Psychology Research and Behavior Management, 12, 943–959. https://doi.org/10.2147/PRBM. S213672
 
-Campbell, W. K., Bonacci, A. M., Shelton, J., Exline, J. J., & Bushman, B. J. (2004). Psychological entitlement: Interper- sonal consequences and validation of a self-report measure. Journal of Personality Assessment, 83(1), 29–45. https://doi. org/10.1207/s15327752jpa8301_04
+Bennett, R. J., & Robinson, S. L. (2000). Development of a mea- sure of workplace deviance. Journal of Applied Psychology, 85(3), 349–360. https://doi.org/10.1037/0021-9010.85.3.349 Bennett, R., & Marasi, S. (2015). Workplace deviance. In J. D. Wright (Ed.), International encyclopedia of the social & beha- vioral sciences (2nd ed., pp. 722–726). Elsevier.
+
+Blake, J., & Davis, K. (1964). Norms, values and sanctions. In R. Faris (Ed.) Handbook of modern sociology (pp. 456–484). Rand McNally.
+
+Blanchard, C., Baker, A., Perreault, D., Mask, L., & Tremblay, M. (2020). The importance of keeping employees satisfied: Three prevailing factors for health organization leaders. Journal of Health Organization and Management, 34(1), 23–39. https://doi.org/10.1108/JHOM-04-2019-0084/FULL/ XML
+
+Blau, & Peter, M. (1964). Exchange and power in social life.

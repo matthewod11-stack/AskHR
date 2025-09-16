@@ -1,11 +1,7 @@
-# Calvin Chan Wai Meng/Getty Images
-
-Perhaps in response to the critique that corporate eﬀorts to achieve
-
-diversity, equity, and inclusion are all talk and no action, an increasing
-
-number of companies are taking the matter of diagnosing and resolving
-
-inequities more seriously. According to a recent survey, more than 40%
-
-have either already conducted a DEI survey or audit or are looking to do
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb9d43e7fed172173f93b48c2d2fe494e3c96acc
+title: H078QI-PDF-ENG
+---
+## Published on HBR.org / September 21, 2022 / Reprint H078QI

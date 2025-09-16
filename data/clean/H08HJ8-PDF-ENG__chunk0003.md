@@ -1,33 +1,25 @@
-## HBR / Digital Article / When Your Manager Is Ineffective — and You Feel Stuck
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4a379f691a388ea4288cc1740b54da5c4b2e185
+title: H08HJ8-PDF-ENG
+---
+# Patricia Marroquin/Getty Images
 
-John’s disdain wasn’t just a personal dislike; it was a lack of respect
+John*, a talented executive at a fast-growing tech company, sat across
 
-that aﬀected his motivation and the team’s dynamics. This situation
+from Luis in a coaching session, complaining about his manager. “He
 
-is common. In our coaching practices, we’ve met professionals in
+doesn’t understand our projects, has no technical expertise or strategic
 
-similar predicaments who struggle to like, respect, or ﬁnd value in
+vision, and he seems more like a roadblock than a leader,” he said, his
 
-their managers. Like John, they might perceive incompetence or
+frustration palpable. John was convinced his manager was out of touch
 
-ineﬀectiveness. Sometimes they feel threatened by the manager’s role
+and not adding value.
 
-or authority. Other times there’s a cultural or value misalignment.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-These feelings can come with a serious cost. When you dismiss,
+1
 
-downplay, or disrespect your manager, you are often the one who pays
-
-the price in terms of credibility, reputation, and productivity, as Shari*,
-
-a former client of Sarah’s, experienced. After she began questioning
-
-the competence of her new manager, Shari actively disengaged by
-
-distancing herself, sharing minimal details about her team’s work, and
-
-multitasking during meetings. Where Shari had been seen as a rising
-
-star under her previous manager, leadership started to question her
-
-contribution and whether she was someone who could help lead the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

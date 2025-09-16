@@ -1,5 +1,11 @@
-# share ideas
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: 1fd404a4712cb63ce43ef4c67ab4a283185ec156
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# environment
 
-“Allowing everyone on the team to have a voice and feel conﬁdent in sharing that voice.”
+everyone feels welcome and safe, a place where all people feel valued, appreciated, and understood.”
 
-Creating a sense of empowerment
+Encouraging people to provide input and

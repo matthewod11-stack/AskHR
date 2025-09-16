@@ -1,23 +1,35 @@
-# more?
+---
+source_path: H08DSS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22ec44470bb3a6c881fd6bef068d669f81ffbc22
+title: H08DSS-PDF-ENG
+---
+## HBR / Digital Article / How to Kickstart Your Post-Summer Career Development
 
-- What do I want to be true about my impact in three months’ time?
+identify actions that will kick-start your learning in a way that’s easy to
 
-- Who am I learning from?
+add into your day. Here are four ways to get there.
 
-- What haven’t I done before that I would like to try out?
+- 1. Set a growth goal
 
-- What am I curious to learn more about?
+You’re likely used to having performance goals at work. These goals tend
 
-Here are a few example growth goals:
+to be set by or in conjunction with your manager and focus on your
 
-- To lead my ﬁrst global project in the next six months
+day-to-day deliverables. At most organizations, it’s less likely that you’re
 
-- To improve my presentation skills and use them in more situations
+setting similar goals for your professional growth.
 
-- To develop my coaching capability and use it to support my colleagues
+Growth goals focus on the strengths you want to stretch or the skills
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+you’d like to learn. You don’t need someone else to deﬁne them for you
 
-2
+or give you permission to get started. However, sharing your growth goal
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with your manager and colleagues makes it easier for them to support
+
+you and spot opportunities you might not see for yourself.
+
+To create a growth goal, ask yourself the following questions:
+
+- What do I want to be known for, and how can I use that skill/strength

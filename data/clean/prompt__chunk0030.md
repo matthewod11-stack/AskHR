@@ -1,31 +1,7 @@
-# Contextual prompting
-
-6
-
-7
-
-8
-
-8
-
-9
-
-9
-
-10
-
-11
-
-13
-
-13
-
-15
-
-18
-
-19
-
-21
-
-23
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 3bfaf81059d92c53133a807956f1d2fa71b75848
+title: prompt
+---
+# Role prompting

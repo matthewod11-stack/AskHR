@@ -1,31 +1,23 @@
-## HBR / Magazine Article / Does Gamified Training Get Results?
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 255fefdd092993ee6ecf31c62ce63c7d5579180a
+title: F2302A-PDF-ENG
+---
+## Communicate enthusiasm to managers and employees. Before
 
-jumps in and signs on to the platform, it gives employees license to sign
+adopting gamiﬁed training, organizations should stress the importance of manager participation. Leaders who visibly play while in the oﬃce
 
-on as well.” It also encourages employees to see the training as more
+are more likely to boost employee participation and business results.
 
-important than they otherwise might.
+“Prior research on digital gamiﬁed training platforms tells us that they
 
-Employees should feel comfortable using the training at their desks during oﬃce hours, free from concerns that others might think they are
+can be seen as a distraction,” says Tatiana Sandino, a professor at
 
-gooﬁng oﬀ. “The fact that it’s fun may make it seem less permissible,”
+Harvard Business School and a coauthor of the study. “But if the leader
 
-Buell says. “Do I really get to play at work? The leader is modeling that
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-not only is it OK to play; playing is a good thing.” In other words, playing
+5
 
-should be viewed as a legitimate part of work, not as a break from it.
-
-Measure outcomes ofﬁcewide. Performance improvements at KPMG were greater in oﬃces where many of the employees were already
-
-engaged with their jobs. But the ﬁrm’s results also suggest that
-
-organizations will see some level of improvement from everyone. “The
-
-time spent on training and the number of questions answered boosted
-
-performance even among employees who had low engagement with
-
-their jobs, and regardless of whether their leaders used the training,”
-
-says Wei Cai, an assistant professor at Columbia Business School and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

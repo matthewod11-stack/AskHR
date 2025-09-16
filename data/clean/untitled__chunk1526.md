@@ -1,9 +1,9 @@
-# Research, Scholarship, and Pedagogy
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 092abc33a9f8b3624fe5d37320b628cf8b856b67
+title: untitled
+---
+# SUMMING UPAND LOOKING AHEAD
 
-When the ﬁeld of psychology of women and gender was in its infancy, the question of sex differences loomed large. Today,
-
-therangeofquestionshasexpanded.Onesigniﬁcanttrendhas beentheshiftawayfromstudyingwomenasiftheyconstituted a single, undifferentiated category. Researchers turn their sights on speciﬁc groups of women and girls, situated in spe- ciﬁccircumstances.Anothertrendisincreasedattentiontothe lives of women beyond the borders of the United States and to interconnections between women in the United States and women worldwide. Issues include trafﬁcking of women and girls for prostitution, the systematic rape of women as part of warfare, and the growing use of women as apool of cheap and mobile labor in the transnational economy. A third trend is a focus on strength and resilience, that is, how women cope and prevail despite hardship, discrimination, life crises, and phys- ical illness or disability (Romero & Stewart, 1999; Johnson, Roberts, &Worell, 1999).
-
-The research methods employed in the psychology of women and gender also continue to evolve. Many feminist psychologists have moved beyond prevailing experimental methodology. Their methods of inquiry include open-ended interviewing and focus groups, textual analysis, ﬁeld-based research and participatory action research, and the family of approaches called discourse analysis. These methods have proven invaluable for studying how gendered power relations are reproduced in everyday practice and talk. They also en- able researchers to study the multivalent meanings of gender that research participants hold. These methods are important tools for understanding people not only as passive recipients of social inﬂuences but also as effective agents. The use of al- ternate research methods has brought increased attention to questions about the relationship between methods of inquiry and research outcomes. Although qualitative approaches are not new to psychology, they have been long out of vogue in the United States. As they are resurrected and refurbished, we can expect to learn more about how they work. Moreover, the powers and limits of all approaches will be thrown into sharper relief.
-
-Finally, the turn toward theory is another signiﬁcant trend in feminist psychology. Some feminists have found the crit- ical psychology movement compatible with their stance (Wilkinson, 1997). They are alert to the ways in which psychology, even feminist psychology, may share in and legitimate the status quo. For example, critical feminist psy- chologists have upbraided social psychology for failing to incorporate social, cultural, historical, and even group con- texts in its understanding of social processes (Apfelbaum, 1999). Others have noted that the uncritical use of psycho- language shunts moral and political concerns to logical the side. For example, when the psychological conse- quences of horriﬁc events are reformulated as the medical- ized diagnosis of Post-traumatic Stress Disorder, they lose
+The endeavors of feminist researchers, teachers, practition- ers, and activists have reshaped the contours of the discipline and the status of women in profession. In this ﬁnal section, we survey what has been accomplished and what, in our best guess, lies ahead.

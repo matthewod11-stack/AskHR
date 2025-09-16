@@ -1,15 +1,45 @@
-# oﬃce.”
+---
+source_path: R2304M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdc151e3f089e83564e539d33e0111e219feea19
+title: R2304M-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: How Should a Start-Up Cut Its Burn Rate?
 
-Simone nodded. “True. But this could be an opportunity. If we go with
+been low at 9%, Simone explained. But they could let that number move
 
-this plan, we can invest at least some of what we save in other drivers of
+up to 12%. The company could further reduce spending by cutting the
 
-employee engagement, like learning and development.”
+budget for events and food, removing low-usage beneﬁts and perks,
 
-Tyler thought back to the all-hands meeting where he’d announced the ﬁrst layoﬀ—a painful memory. If he announced another round of job
+and pulling back on other areas of spending on contract and vendor
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+services and marketing, which had increased over the past few months.
 
-7
+“If we communicate about this the right way, people will understand that we’re making these sacriﬁces to avoid more layoﬀs,” Simone said. “I
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+think the damage to the culture and performance will be less than if we
+
+put more people out of a job.”
+
+“But remember,” Ed chimed in, “when you cut people costs through
+
+attrition, the savings come more slowly and less predictably, and the
+
+increased workload for those who stay may lead to burnout, lack of trust, and unwanted departures.” 6
+
+He oﬀered a third option: “I love our new oﬃce space, but the reality is
+
+that it’s nearly empty two days a week. We could move to a remote-ﬁrst
+
+model, sublease the entire oﬃce, and ask people to work from home or
+
+from lower-cost coworking spaces. I think that could save us roughly
+
+$5.5 million to $6.5 million annually.”
+
+“Those cost savings are tempting,” Tyler said, “but I still worry about
+
+our culture and collaboration. We made it through the early days of the
+
+pandemic, but performance really picked up when we got back to the

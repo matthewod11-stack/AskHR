@@ -1,33 +1,17 @@
-## organizational design, business model, and culture.
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c97def17e8b1aa9a1437fc2020820e925f60b090
+title: S24021-PDF-ENG
+---
+# Rate: What Is the Right Pace of Growth?
 
-In ﬁnance, the concept of a sustainable growth rate is well understood:
+The answer to this question seems obvious: as fast as possible.
 
-It is the fastest a company can grow without having to sell equity or
+But taking a strategic perspective means that companies choose a
 
-borrow. But talent, organizational know-how, operational capabilities,
+target growth rate that reﬂects their capacity to eﬀectively exploit
 
-management systems, and even culture are also resources required to
+opportunities. Growth is a strategic choice with implications for a
 
-produce goods and services, and they, too, can become bottlenecks
-
-constraining growth. A competent CFO will keep a company from
-
-growing faster than its ﬁnancial resources will allow. Unfortunately,
-
-CEOs and leaders of other functions often do not apply the same
-
-disciplined thinking to nonﬁnancial resources (which constitute the
-
-vast majority of a ﬁrm’s value). For example, rapidly growing companies may downplay gaps between what their staﬃng levels, management
-
-capabilities, and operating processes can deliver and what is required to
-
-meet demand, seeing them as transitory “growing pains.” This approach
-
-can trigger a vicious circle. Shortfalls in critical capabilities can lead to
-
-quality and other operating problems, which in turn become a drain on
-
-already-stretched resources. With no time to design and install systems
-
-adequate to handle the growth, companies often attempt to “catch
+company’s operating processes, ﬁnancing, human resource strategy,

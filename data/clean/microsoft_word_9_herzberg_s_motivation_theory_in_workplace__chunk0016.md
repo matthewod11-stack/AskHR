@@ -1,11 +1,9 @@
-## HERZBERG’S MOTIVATION THEORY IN WORKPLACE
+---
+source_path: microsoft_word_9_herzberg_s_motivation_theory_in_workplace.md
+pages: n/a-n/a
+chunk_id: fb7963eaf9ee334d1b02bacbbb5c748dd018340f
+title: microsoft_word_9_herzberg_s_motivation_theory_in_workplace
+---
+# Motivation Meaning
 
-to the job. Thus, motivation factors operate to only increase and improve job satisfaction, whereas hygiene factors work to reduce job dissatisfaction. But in general, what do we mean with the word motivation?
-
-The term motivation has been discussed and conceptualized by various researchers. Early years of definition provided by Whiseand and Rush (1988) explained motivation as the willingness of an individual to do something and conditioned by actions to satisfy needs. Later, Wregner and Miller (2003) described motivation as something that energized individuals to take action and which is concerned with the choices the individual makes as part of his or her goal-oriented behavior. Following the recent definition contributed by Fuller et al. (2008), motivation is a person’s intensity, direction, and persistence of efforts to attain a specific objective.
-
-On the other hand, motivation is defined by Saraswathi (2011) as the willingness to exert high levels of
-
-effort, and the definition is further provided as effort, organization goal, and need.
-
-Motivators, or satisfiers, are those factors that cause feelings of satisfaction at work. These factors also lead to changing the nature of the work. They challenge a person to develop their talents and fulfill their potential. For example, adding responsibility to work and providing learning opportunities to a person to work at a higher level can lead to a positive performance growth in every task a person is expected to do if the possible poor results are related to boredom of the task they are supposed to accomplish. Motivators are those that come from intrinsic feelings. In addition to responsibility and learning opportunities also recognition, achievement, advancement, and growth are motivation factors. These factors don’t dissatisfy if they are not present but by giving value to these, satisfaction level of the employees is most probably going to grow (Bogardus, 2007, p. 34). When hygiene factors are maintained, dissatisfaction can be avoided. When, on the other hand, dissatisfaction is most probable to occur, motivation can’t take place.
+At the heart of the two-factor theory is the difference between motivation and hygiene factors, or intrinsic and extrinsic factors. Herzberg described motivation factors as intrinsic to the job and hygiene factors as extrinsic

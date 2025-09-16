@@ -1,15 +1,11 @@
-## creative solutions or novel partnership structures.
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8dcea55943737b00a5affc52d3dd24263ab6f0b2
+title: H08IVM-PDF-ENG
+---
+# value.
 
-- Damaged relationships: The entire approach to bidding and
+- Stiﬂed innovation: When negotiations focus on risk mitigation and
 
-negotiation typically generates an atmosphere of competition rather
-
-than cooperation. It’s an environment where transparency and
-
-openness are notable by their absence — and where contracts are
-
-divisive, rather than unifying.
-
-- Missed value: By focusing on protecting their own interests,
-
-organizations often overlook opportunities for mutual gain and value
+the imposition of standards, they leave little room for exploring

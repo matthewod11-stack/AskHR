@@ -1,9 +1,9 @@
-# Bezyak et al.
+---
+source_path: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion.md
+pages: n/a-n/a
+chunk_id: e68b9e8f9d62443159e56a57d5bcdf94783d85c2
+title: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion
+---
+# A u t h o r
 
-Kaye HS, Jans LH, & Jones EC (2011). Why don’t employers hire and retain workers with
-
-disabilities? Journal of Occupational Rehabilitation, 21(4), 526–536. 10.1007/s10926-011-9302-8 [PubMed: 21400039]
-
-Kelley HH (1967). Attribution theory in social psychology. In Levine D (Ed.), Nebraska Symposium
-
-on Motivation (Vol. 15, pp. 192–240). University of Nebraska Press.
+M a n u s c r i p t

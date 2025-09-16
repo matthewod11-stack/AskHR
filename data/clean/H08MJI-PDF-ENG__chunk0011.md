@@ -1,13 +1,11 @@
-## momentum.” Focus on routine tasks with clear steps that others can
+---
+source_path: H08MJI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da963e098203f2f668ac9da055969da33a7ce239
+title: H08MJI-PDF-ENG
+---
+# Start small
 
-replicate, like weekly reports or update memos. “Capture them into a
+Begin with baby steps. Morgan recommends tackling low-hanging fruit: tasks that are simple, require minimal eﬀort, and can be completed
 
-process and empower your team,” she says. Allowing others to prove
-
-themselves also helps address any lingering trust issues, adds Kerpen.
-
-Starting with small assignments fosters gradual skill development and
-
-“builds mutual conﬁdence,” he says. And remember, “when people
-
-mess up, and they will, because we’re human, it’s part of the learning
+quickly. “Having some quick wins under your belt creates positive

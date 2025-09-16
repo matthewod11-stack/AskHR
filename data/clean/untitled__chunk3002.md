@@ -1,11 +1,13 @@
-## Washington, DC: American Psychological Association.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 534e434069f6e0f171212a56d5aae7506ef106c9
+title: untitled
+---
+# American Psychologist, 39, 877–884.
 
-Rosenzweig, M. R., Holtzman, W. H., Sabourin, M., & Bolanger, D. (2000). The history of the International Union of Psychological Science (IUPsyS). Philadelphia: Psychology Press.
+Rosenzweig, M. R. (1988). Psychology and the United Nations
 
-Russell, R. W. (1984). Psychology in its world context. American
+human rights efforts. American Psychologist, 43, 79–86.
 
-Psychologist, 39, 1017–1025.
-
-Salazar, J. M. (1984). The use and impact of psychology in Venezuela: Two examples. International Journal of Psychology, 19, 179–182.
-
-Schmidt, H. D. (1980). Psychology in the German Democratic
+Rosenzweig, M. R. (1992). International psychological science.

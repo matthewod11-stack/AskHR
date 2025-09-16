@@ -1,3 +1,15 @@
-# ory. American Psychologist, 13, 605–606.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: df2eb49e46c4adc1737a73f76aa4d4ef850a09bb
+title: untitled
+---
+## Papers, American Philosophical Society, Philadelphia.
 
-Ross, D. (1991). The origins of American social science.
+Romero, M., & Stewart, A. J. (Eds.). (1999). Women’s untold stories: Breaking silence, talking back, voicing complexity. Florence, KY: Taylor & Francis/Routledge.
+
+Rosenbaum, R. (1998). Explaining Hitler: The search for the ori-
+
+gins of his evil. New York: Random House.
+
+Rosenthal, R. (1958). Training clinical students in personality the-

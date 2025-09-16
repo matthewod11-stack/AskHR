@@ -1,55 +1,39 @@
-# Technology
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: a05b30bf8029bc69dfeba62f713cb7fcc5d98f5e
+title: california_state_university_northridge_1
+---
+## public policy exception to the at-will doctrine (Aalberts et al., 1993).
 
-Lawyers are now using electronic mail ( e-mail), as evidence in wrongful
+Case laws are filled with application on how each of the three theories has been applied.
 
-termination cases. E~mail is an area where agents of the employer are providing expressly
+Courts ruling have impacted what managers' can and cannot do in the hiring, firing and
 
-supporting documentation of the direct violations of how that can be used against them in
+disciplining employees. Furthermore, future company documentation may be affected
 
-a court of Jaw. The problem with e-mail is that all uses communicate informally, as if
+based on particular rulings, in any of the three theories stated. The breach of contract
 
-they were on the phone. The content of phone conversations in some instances tend to be
+theory dealing with implied protection, requires a contract however, it may be expressed
 
-of candor and no connection with business etiquette, based on the situation. Companies
+or implied. A definition of implied contract theory is "inferred by law as a matter of
 
-often inform employees their e-mail is check randomly and should not be used for personal
+reason and justice from the parties acts or conduct, the circumstances surrounding the
 
-use. In regards to lawsuits, it is not the employee's e-mail that comes before the court; it
+transactions making it reasonable or even necessary assumption .... that a contract existed
 
-is an agent of the employer. Just because the user pushes the delete button does not take
+between them by tacit understanding" (Aalberts et al., 1993). The clause tacit
 
-the message away to a point it can never be retrieved. "Most computer systems,
+understanding is a gray area for both the employer and employee. Cases exist when the
 
-"deleting: a file merely means that it is moved to another part of the network" (Henry,
+employee has been employed for a reasonable period of time and given the opportunity to
 
-1995, P- R)- Since it has moved to another part of the network, allows any lnform::ition
+be promoted, which leads to the development of an expectation for continued
 
-proving culpability, accessible for duplication. Yet there is a way around this, and that is
+employment. Consequently, the employment for the employee in question comes to a
 
-purchasing software that will let them write over files instead of deleting them.
+rather abru.pt end. Given the th~e frame, trJs calls h~to question the terir.Jnation of said
 
-The Prudential Insurance Company of America e-mail system is known as lotus
+employee, who continually developed with the company without error.
 
-notes. This lotus notes database serves as the company's intranet site. In the e-mail
-
-portion of this database, employees at the Woodland Hills home office are notified on a
-
-regular basis to review the e-mail policy. In addition, sometimes a copy of the policy is
-
-sent as an attachment along with the reminder notice. By doing this employees are
-
-reir.Jnded that the company does have ru'1 e-mail policy and on a regularly basis any
-
-messages may be monitored. Lastly, the policy states, our e-mail system is not for
-
-35
-
-personal use only businesses. By doing this, should an employee use the e·mail for
-
-scheduling gatherings after work or stating their opinion about key management
-
-employees, he or she could be terminated for violation of e-mail policy.
-
-Prudential associates are at-will employees; this is also communicated in our
-
-Human Resource database, This notices in regards to employment status is stated in
+34

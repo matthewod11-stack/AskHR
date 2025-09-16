@@ -1,9 +1,7 @@
-# 3 Things That Won’t Make You Happy
-
-https://hbr.org/2022/06/3-things-that-wont-make-you-happy
-
-5/6
-
-pursue the right things — purpose, meaningful relationships,service to others, and positive experiences — and away from thefalse promises of money, stuff, and attention, can help us to leadmore joyful and fulfilling lives.
-
-John Coleman is the author of the
+---
+source_path: "3 Things That Won\u2019t Make You Happy.md"
+pages: n/a-n/a
+chunk_id: 5422c4a1545d206c8a062861093aea6f60b4fe18
+title: "3 Things That Won\u2019t Make You Happy"
+---
+# 9/10/25, 11:57 AM

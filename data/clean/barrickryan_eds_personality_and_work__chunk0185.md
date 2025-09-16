@@ -1,15 +1,13 @@
-# 52 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: ad851b6cc9b9b96fda75ced9ddedd7b50bc70917
+title: barrickryan_eds_personality_and_work
+---
+# THE HAPPY WORKER 51
 
-provides stronger evidence for the theories and prevents misinter- pretation of the evidence. As studies of absenteeism and health have shown, happy workers may be more likely than unhappy workers to miss work due to illness but more likely than unhappy workers to miss work due to injuries or the desire to do something more fun. Therefore, studies that examine absenteeism without study- ing the reasons for it may not provide useful evidence about the processes underlying the happiness-absenteeism relation. Research- ers who specify the precise mechanisms underlying the happy worker hypothesis in a speciﬁc context will be able to provide a stronger test of their theory.
+choices that people make and the behaviors in which they engage. The research reviewed in this chapter shows that happy individu- als are often more sociable, active, self-conﬁdent, healthier, more creative, and more likely to use quick and efﬁcient strategies for processing information than are less happy individuals. Thus, happy individuals appear to have many advantages when interact- ing with the world. However, the speciﬁc impact that these differ- ences will have on worker productivity likely depends on the nature of the worker’s task. Happy workers may be more sociable, but whether this beneﬁts productivity depends on the precise nature of their task. In addition, happy workers may be creative and efﬁcient when performing complicated tasks, but this creativity and efﬁ- ciency may come at the expense of caution and vigilance, which may result in costly errors. Thus, researchers interested in happy worker hypotheses must carefully examine the nature of the tasks in which workers will be engaged before making predictions about whether the hypothesis should hold.
 
-The importance of the happy worker hypothesis may be in- creasing as the nature of work changes. Howard (1995) noted that as we have moved into a postindustrial information age, the focus of work has shifted from making products to managing and pro- viding information. This shifting focus has resulted in increased numbers of service jobs, greater reliance on teamwork and the sharing of information, and higher involvement by workers. Many industries change quickly, and successful organizations adapt and provide novel products, services, and processes. These changes are transforming the nature of work in ways that have the potential to increase the inﬂuence of happiness and well-being on worker pro- ductivity. Therefore, the resurgence of interest in the happy worker hypothesis may be well timed to deal with the changing nature of work in the postindustrial information age.
+Future research must determine whether selecting employees based on levels of happiness can increase productivity. Positive af- fect, negative affect, and life satisfaction are stable over time, and thus employers may want to match workers with tasks that are suit- able for their dispositional level of happiness. However, much more research needs to be conducted on the speciﬁc interactions that occur before such selection procedures can be used conﬁ- dently. Furthermore, even with the considerable stability in well- being levels, it is possible that programs to increase happiness may also be effective (Fordyce, 1977, 1983). If this is the case, research will be needed to determine whether selecting happy people or in- creasing overall levels of happiness provides the biggest boost to productivity.
 
-References Andreasen, N. C. (1987). Creativity and mental illness: Prevalence rates in writers and their ﬁrst-degree relatives. American Journal of Psychi- atry, 144, 1288–1292.
-
-Baron, R. A. (1990). Environmentally induced positive affect: Its impact on self-efﬁcacy, task performance, negotiation, and conﬂict. Journal of Applied Social Psychology, 20, 368–384.
-
-Barrick, M. R., & Mount, M. K. (1991). The Big Five personality dimen- sions and job performance: A meta-analysis. Personnel Psychology, 44, 1–26.
-
-Barrick, M. R., & Mount, M. K. (1993). Autonomy as a moderator of the relationships between the Big Five personality dimensions and job performance. Journal of Applied Psychology, 78, 111–118.
-
-Barry, B., & Stewart, G. L. (1997). Composition, process, and perfor-
+In addition to suggesting some avenues for future research, we hope that we have been able to emphasize the importance of ex- amining speciﬁc components of well-being, multiple objective and subjective indicators of productivity, and explicit mechanisms that can link the two. Evidence shows that different indicators of pro- ductivity may be uncorrelated (Meyer & Gupta, 1995) and may be differentially related to different forms of well-being. Furthermore, when researchers specify precise mechanisms linking speciﬁc com- ponents of happiness and speciﬁc forms of productivity, they can test each link in the chain from one construct to the other. This

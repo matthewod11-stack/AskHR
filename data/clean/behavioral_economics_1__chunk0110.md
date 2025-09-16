@@ -1,7 +1,9 @@
-## International Tax and Public Finance 10(2): 189-203.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 092e4968c805242fdae282792f2a5a576282d904
+title: behavioral_economics_1
+---
+# Economics forthcoming.
 
-Laibson, D. (1997). "Golden Eggs and Hyperbolic Discounting." The Quarterly Journal of Economics 112(2, In
-
-Memory of Amos Tversky (1937-1996)): 443-477.
-
-Lazear, E. P., U. Malmendier and R. Weber (2005). Sorting in Experiments with Application to Social
+Krishna, A. and J. Slemrod (2003). "Behavioral Public Finance: Tax Design as Price Presentation."

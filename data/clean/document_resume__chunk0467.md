@@ -1,5 +1,9 @@
-# Cost Considerations
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: e75cd6747eae1bb5a57b3db63a18e56bd7e03f84
+title: document_resume
+---
+# The instructor's self appraisal
 
-Developing, validating, and administenng a performance appraisal sy stem is a major undertaking and requires a substantial investment in time and money. There are a number of factors an organization should consider in making the decso-. regarding resources to be invested. Among these are the nature of the relationship between devel- opmental costs and system effectiveness, allocation of costs among po.it;ons, and potential for improving performance.
-
-In general, the more costs the organization is willing to incur, the better the system that can be developed. It is important to note, however that as more is invested in development beyond what is necessary to establish validity, incremental costs do not necessarily result in proportionate increases in system effectiveness. An example would be useful to show this relationship. Assume the objective is to measure the per- formance of a faculty member. A dimensionalized and weighted rating scale similar to Figure 3.2 could be developed. Based on the author's experience, the job analysis, criterion development, and instrumentation could be accomplished for under $2,000 and would meet the minimum requirements of the "Guidelines." It might be desired, how- ever, to develop behaviorally anchored rating scales similar to Figure 3.7. The devel- opment of BARS requires a much more sophisticated approach and the cost could be as high as $10,000. While the cost may be five times as high, there is no research which suggests that BARS is five times more accurate. In fact, reviews have not found BARS to produce substantially more accurate results than traditional graphic scales.22 The same relationship holds true in the administration of a performance appraisal program. The essential elements of such a program include appraisal interview sind an appeal process. The cost is considerable, and there is always the danger that both subordinates and superiors may spend more time and energy in various aspects of appraisal than in productive work. While certain administrative requirements are necessary, they should
+Note that this list includes both judgmental and objective data from a variety of sources. In rating a different dimension; for example, scholarly productivity, the department chair would develop sources of data which reveal quality, creativity, and significance of the contributions of the professional field.

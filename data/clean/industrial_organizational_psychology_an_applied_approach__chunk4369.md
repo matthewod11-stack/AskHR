@@ -1,13 +1,15 @@
-## O’Kane, P., Palmer, M., & Hargie, O. (2007). Workplace
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7b5ddd3962ed92fae1c936b84aa6b49e537c762f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Oduwole, A., Morgan, A., & Bernardo, M. (2000).
 
-interactions and the polymorphic role of e-mail. Leadership & Organization Development Journal, 28(4), 308–324. Oldham, G. R., Hackman, R. J., & Stepina, L. P. (1978). Norms for the Job Diagnostic Survey. Technical Report no. 16, School of Organization and Management, Yale University.
+A reexamination of contrast eﬀ ects in the evaluation of job applicant resumes. Paper presented at the 21st annual Graduate Student Conference in Industrial- Organizational Psychology and Organizational Behavior, Knoxville, TN.
 
-O’Leary, B. S., Rheinstein, J., & McCauley, D. E. (1990). Job analysis for test development: Can it be streamlined? Paper presented at the annual meeting of the American Psychological Association, Boston, MA.
+Oﬀ ermann, L. R., & Spiros, R. K. (2001). Th e science and practice of team development: Improving the link. Academy of Management Journal, 44(2), 376–392. Oginska, H., Pokorski, J., & Oginski, A. (1993). Gender, aging,
 
-Olofsson, G. (2004). When in Rome or Rio or Riyadh: Cultural Q & As for successful business behavior around the world. Yarmouth, ME: Intercultural Press.
+and shiftwork intolerance. Ergonomics, 36(1), 161–168. OHS Health and Safety Services, Inc. (n.d.) Annual positivity
 
-Olson, R., Verley, J., Santos, L., & Salas, C. (2004). What we teach students about the Hawthorne Studies: A review of content within a sample of introductory I-O and OB textbooks. Th e Industrial-Organizational Psychologist, 41(3), 23–39.
-
-O’Neill, M. J. (1994). Work space adjustability, storage, and enclosure as predictors of employee reactions and performance. Environment and Behavior, 26(4), 504–526.
-
-Ones, D. S., & Viswesvaren, C. (1998). Gender, age, and race diﬀ erences on overt integrity tests: Results across four large-scale job applicant data sets. Journal of Applied Psychology, 83(1), 35–42.
+rates. Retrieved June 29, 2008, from http://www.ohsinc.com/ positive_rates_drug_testing_drug_screening_STATS.htm

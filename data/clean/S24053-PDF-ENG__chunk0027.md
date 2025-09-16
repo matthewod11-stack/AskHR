@@ -1,23 +1,9 @@
-## productive meetings, and practice healthy norms and routines, team
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 527c3efcc5610cc21bc95e1bfe9e8fd55dfd5427
+title: S24053-PDF-ENG
+---
+## HBR / Spotlight Article / Teamwork at the Top
 
-members need to have a clear understanding of their own and
-
-one another’s roles—and all too often, they don’t. CEOs are often
-
-perplexed to learn that members of their top team don’t suﬃciently
-
-understand their peers’ strategies, objectives, and deliverables, or
-
-how they spend their days in pursuit of them. When members don’t
-
-know those things, they can’t fully support one another or identify
-
-the interdependencies among their agendas that would encourage
-
-cooperation. More concerning perhaps, team members are often not
-
-clear on the role of the team itself. Many are unable to answer the
-
-question “What kind of team must we become to lead our strategy and
-
-people?” They may even struggle with a more existential one: “Why are
+Discipline. In order to make and execute decisions consistently, have

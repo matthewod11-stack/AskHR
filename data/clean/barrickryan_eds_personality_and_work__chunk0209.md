@@ -1,3 +1,11 @@
-# Research Journal, 3, 202–217.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b0f308372205b4280877330d5bafceb0ff9f1074
+title: barrickryan_eds_personality_and_work
+---
+# 58 PERSONALITY AND WORK
 
-Richards, R., Kinney, D. K., Lunde, I., Benet, M., & Merzel, A. (1988). Cre- ativity in manic-depressives, cyclothymes, their normal relatives, and control subjects. Journal of Abnormal Psychology, 97, 281–288. Russell, J. A. (1980). A circumplex model of affect. Journal of Personality
+association? In M. P. Shaw & M. A. Runco (Eds.), Creativity and af- fect (pp. 44–72). Norwood, NJ: Ablex.
+
+Richards, R., & Kinney, D. K. (1990). Mood swings and creativity. Creativity

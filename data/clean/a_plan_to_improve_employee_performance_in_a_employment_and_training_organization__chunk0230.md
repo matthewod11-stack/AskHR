@@ -1,19 +1,7 @@
-# Orientation Survey Draft
-
-Your opinion is valuable. As a One Stop Network, we are dedicated to providing a
-
-quality service for all job seekers. Please complete the following survey to help us
-
-maintain a quality standard of service.
-
-For Questions 1-6 please use the following rating scale :
-
-5
-
-4
-
-3
-
-1
-
-0
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: f7d8e04331ef99a09b70d9d83eb5696d5260a973
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Appendix C

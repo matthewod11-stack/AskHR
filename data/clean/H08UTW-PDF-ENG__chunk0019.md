@@ -1,23 +1,23 @@
-# to your work.
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 804d036dd31068ba5946310b3eca0a2094c46bf8
+title: H08UTW-PDF-ENG
+---
+## Some leaders in data-driven disciplines—where evidence and precision
 
-How to avoid this mistake:
+matter most—believe their job is to be 100% “correct” at all times,
 
-To avoid this trap, pinpoint a few areas where innovative thinking—
+leaving little room for the creative thinking that “yes, and…” is meant
 
-in process or execution—could move your organization forward. If
+to spark.
 
-you aren’t soliciting input from your team in these areas, plan a
+That view misses what the technique really delivers. “Yes, and…”
 
-brainstorming session to tap into their expertise.
+is fundamentally an innovation and communication tool—two
 
-Try using the “yes, and” method to guide the conversation. Be explicit
+capabilities that oﬀer a competitive advantage in every industry. If
 
-about what you’re inviting people to say “yes” to: participation,
+your organization holds meetings where people are expected to make
 
-collaboration, shared decision-making? Clarifying your intent will keep
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+suggestions, give opinions, or share ideas, then “yes, and…” is relevant

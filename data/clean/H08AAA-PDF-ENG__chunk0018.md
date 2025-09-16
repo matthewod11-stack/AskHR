@@ -1,17 +1,13 @@
-# HBR / Digital Article / 3 Ways to Build a Culture That Lets High Performers Thrive
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4c2486612779dca2dd0abeb481f416350165611
+title: H08AAA-PDF-ENG
+---
+# least developed.
 
-For example, imagine how Élodie would react if her leader had the
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-time to help her work through her burnout in regularly scheduled
+5
 
-development conversations. Perhaps Élodie has been struggling to
-
-generate good ideas from her team, and so she has been playing
-
-“hero,” coming up with all the solutions and implementing many on
-
-her own. A skilled, devoted mentor might help Élodie work on the skill
-
-of structuring problems so others can solve them, and by this time next
-
-quarter, Élodie might not have to put the team on her back quite as
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

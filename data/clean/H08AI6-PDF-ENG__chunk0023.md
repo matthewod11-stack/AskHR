@@ -1,15 +1,25 @@
-## employees good working conditions like stable pay and predictable
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b0b5c719a059ff2705e421d5982da8345d23031
+title: H08AI6-PDF-ENG
+---
+# work.
 
-schedules, as well as the resources to promote mental health and well-
+These examples also illustrate a potential risk that organizations could
 
-being. If family motivates employees at work, organizations need to do
+take advantage of family motivation, if they know employees rely on the
 
-their part to support employees with families in turn, such as providing
+work to support their families and will therefore stay in bad working
 
-beneﬁts like parental leave and ﬂexible work, or designating certain
+conditions or work themselves to exhaustion. In fact, organizations have
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+a particular responsibility to support employees who have care duties,
 
-7
+as they are at risk of burning the candle at both ends, giving their best at
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+work and then returning home for the “second shift.”
+
+The onus is on organizations to mitigate the potential downsides of
+
+the pressure family motivation creates, ﬁrst and foremost by oﬀering

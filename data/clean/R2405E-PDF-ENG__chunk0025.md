@@ -1,7 +1,25 @@
-## and president of the mining equipment company Epiroc, a subsidiary
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 47c457dae57a23cffd5cd7c5421b97b95afc03ab
+title: R2405E-PDF-ENG
+---
+## a new generation of leaders with intrapreneurial instincts.
 
-that Atlas Copco spun oﬀ in 2018. In that role she continues to
+A good example of someone that Atlas Copco nurtured is Helena
 
-blend leadership with innovation, overseeing several breakthroughs in
+Hedblom. After starting as a materials manager in the R&D department
 
-automated mining technologies that have signiﬁcantly boosted safety, productivity, and cost-eﬃciency.
+of the Rock Drilling Tools division, she moved up the ladder, becoming
+
+a vice president of R&D and later the general manager of a stand-alone
+
+company within the group, Atlas Copco Secoroc AB. Like other general
+
+managers, Hedblom had full responsibility for the business, which
+
+gave her exposure to the many entrepreneurial challenges of running
+
+a global unit, including driving operational excellence and innovation
+
+and hitting stretch ﬁnancial targets. Eventually she became the CEO

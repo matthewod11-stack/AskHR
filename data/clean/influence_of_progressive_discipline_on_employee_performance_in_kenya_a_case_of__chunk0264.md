@@ -1,3 +1,7 @@
-# goals
-
-Ta(cid:271)le (cid:1008).(cid:1009): E(cid:373)plo(cid:455)ee dis(cid:272)ipli(cid:374)ar(cid:455) pro(cid:272)edures o(cid:374) e(cid:373)plo(cid:455)ee perfor(cid:373)a(cid:374)(cid:272)e
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 194af1a1e83f5a833cf23d20c2376d71c8f4d238
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# the bridge between

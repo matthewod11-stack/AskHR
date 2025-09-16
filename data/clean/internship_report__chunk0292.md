@@ -1,9 +1,23 @@
-# his/her needs/requirement with limitation & weakness.2nd Reporting Supervisor (RS2) will
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 87440a3556bf38b932eab5005dbecc8fa8c1fcd0
+title: internship_report
+---
+# S M A R T
 
-review and amend the performance grade. RS2 will also review Part B and Part C and make
+KPI will be Specific
 
-necessary amendment / mandate especially next year target/plan with discussion of RS1 and
+KPI will be Measurable
 
-individual. If any staff member gets Performance Point D consecutively two years, his/her
+KPI will be Achievable
 
-designation may be demoted to the lower post or his/her service may be terminated depends on
+KPI will be Real
+
+KPI will be in Time Frame
+
+1st Reporting Supervisor (RS1) will conduct the preliminary Performance assessment and
+
+provide the marks and at the same time, prepare Part B and C. RS1 will have to mention
+
+employee‟s next year target/plan in Part B and in Part C RS1 will indicate how types of training

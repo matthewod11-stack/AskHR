@@ -1,11 +1,29 @@
-## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d0c396837ea0bde91a29834462221cb19685db0
+title: S24042-PDF-ENG
+---
+# ineﬀective and indecisive.
 
-and see him diﬀerently. So he actively shared more about himself and
+New CEOs who come from inside the organization obviously beneﬁt
 
-his personal life than ever before. He opened up about how he spent his
+greatly from having already developed strong relationships within their
 
-weekends and the challenges he had to overcome, such as the severe
+ﬁrms. But they also have a special conﬁdence-building challenge: They
 
-illness of his child. Doing so, he believed, was the best way to show his
+must convince their former peers and colleagues—who have known
 
-human side, rally his team behind him, and allow the organization to
+them in other capacities—that they have what it takes to lead the entire
+
+enterprise. This challenge hit especially close to home for one CEO who
+
+had spent much of his long career with his company. When he stepped
+
+up from CFO to CEO, he wanted the organization to know him better
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

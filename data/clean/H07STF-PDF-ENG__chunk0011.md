@@ -1,59 +1,43 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72d49980a924b46fe3e1162d871ba9a8a16ce597
+title: H07STF-PDF-ENG
+---
+# our careers more.
 
-And the fourth of the trends, and this one’s been going a long time,
+There’s four things that are contributing to this. We’re living longer and
 
-is that what we expect out of a job has changed a lot. It used to be
+longer, and as we live longer, we don’t want to have a long slide from
 
-providing a stable living. [Now] we want everything from our jobs.
+age 40, because we could easily be working another 40 years. We want to
 
-We want passion, we want purpose. We want self-fulﬁllment. We want
+make the most of it. That’s one.
 
-ﬂexibility. We want so much from them, and we are increasingly
+Two is technology. I don’t have to say much about that, but it is
 
-impatient, and wanting to move on if we don’t get those things.
+changing everything. It is disrupting jobs. It is creating new jobs. It’s
 
-ADI IGNATIUS:
+allowing us to work from anywhere. It creates a very interesting context
 
-If career reinvention, if the need for reinvention, is such a standard
+for being able to reinvent yourself.
 
-aspect of the contemporary business world, why are we having so much
+The third one is our companies, organizations, our workplaces: they are
 
-trouble still trying to carry it out?
+constantly disrupted too. That creates opportunities, but also creates
 
-HERMINIA IBARRA:
+challenges. We’ve seen a huge wave of layoﬀs recently in the tech world
 
-That’s the one thing I’ve learned, it’s really hard. It’s really hard, it takes
+for example. Now people in the ﬁnancial sector are struggling with high
 
-longer than people think. A couple of things. One is that most people
+interest rates and what that means for their products, and the list goes
 
-know what they don’t want to do anymore, but they don’t know exactly
+on. We don’t stay in jobs as long as we used to, either by choice or by
 
-what they want to do instead. And since they don’t have the answer,
-
-and I’m going to come back to this, they don’t know what to do. They
-
-don’t know how to search when they don’t know exactly what they’re
-
-searching for. So that’s one.
-
-Another one is, what we do is who we are. It’s such an important sense,
-
-it’s a part of our identity. And even losing a job that we didn’t like is a
-
-huge loss, because it was what we did, it was the people we spent time
-
-with, it was what structured our time. We built up to that. We invested in
-
-that. The sense of psychological loss is a big barrier.
-
-The last is that increasingly, particularly from mid-career on, when we
-
-change careers we’re moving into something diﬀerent. It’s not a linear,
-
-more-of-the-same at a higher level. It’s something diﬀerent. And those
+necessity as we are asked to leave them.
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

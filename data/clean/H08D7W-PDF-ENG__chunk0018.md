@@ -1,11 +1,17 @@
-## HBR / Digital Article / 4 Pillars of Innovation Every Organization Needs
+---
+source_path: H08D7W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c7a81f4a740c2e2439883dcc81e685a8f9aea7a
+title: H08D7W-PDF-ENG
+---
+## operational challenges, or competitive pressures. Alternatively, trend
 
-ambiguous signals, such as arguing that the growth of AI means that
+sensing may become a soapbox for opinionated individuals to make
 
-companies should bring more IT capabilities in-house. That can lead
+the industry their inkblot test, asserting big strategic implications from
 
-to expensive missteps as companies overpay for assets that may be
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-on-trend but lack other strengths such as competitive diﬀerentiation
+2
 
-or favorable economics. Witness perhaps the most disastrous merger of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

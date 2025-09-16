@@ -1,17 +1,11 @@
-## Of course, not every organization bets on potential. Startups, for
+---
+source_path: H08VGH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a20d8bf19744af4c210be88b818f6ea20ce2371
+title: H08VGH-PDF-ENG
+---
+## Capital, famously hire people for their raw quantitative ability—not
 
-example, may favor candidates with job-ready expertise, since they
+because they already know how to trade derivatives, but because they
 
-need people who can contribute immediately. In other cases, ﬁrms
-
-in low-trust or high-turnover environments tend to deprioritize
-
-foundational skills because they don’t expect long-term retention.
-
-Still, for companies thinking beyond the next quarter, foundational
-
-skills matter. They shape a person’s growth path—and their long-term
-
-ceiling. But there are reasons beyond individuals’ performance for ﬁrms
-
-to consider fundamental skills.
+have the foundational math skills to learn fast and go far.

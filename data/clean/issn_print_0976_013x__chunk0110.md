@@ -1,23 +1,7 @@
-# Amount vs Quantity
-
-1800
-
-1600
-
-1400
-
-1200
-
-1000
-
-800
-
-600
-
-400
-
-200
-
-0
-
-1 2 3 4 5 6 7 8 9 10111213141516171819202122232425262728293031323334353637383940
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 5cfb8359a93a46456749f73d6dab0efdfb7a20f2
+title: issn_print_0976_013x
+---
+# vendors among others.

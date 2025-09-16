@@ -1,9 +1,9 @@
-# “career lattice.”
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab5c698fe96791649d7f34ff8d52c80166c6bb12
+title: H07BT4-PDF-ENG
+---
+## ﬂex and stretch across a wide range of relevant competencies.
 
-A career lattice incorporates traditional career path advancement, but
-
-adds more opportunities to gain experience and skills training in
-
-related, parallel roles. It clariﬁes role responsibilities using consistent
-
-language to describe skill requirements and allowing sellers to assess
+To address these common shortcomings, one approach is to develop a

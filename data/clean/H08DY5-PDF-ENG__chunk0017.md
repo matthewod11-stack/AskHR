@@ -1,11 +1,21 @@
-# barriers.
+---
+source_path: H08DY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97ecdab0462a733d3974ac000c6a3c23b30ffdad
+title: H08DY5-PDF-ENG
+---
+# HBR / Digital Article / How Companies Can Use AI to Better Serve Deaf and Hard-of-H…
 
-- 2. Repurpose a portion of the efficiencies gained from automation to support more complex customer service needs.
+- 1. Design customer experiences to be inclusive from the beginning.
 
-For instance, using the resources you’ve saved through AI automation,
+Consider the requirements of deaf and hard of hearing individuals at
 
-create a dedicated queue for customers with disabilities to receive
+every stage of service delivery. For example, if a company is looking
 
-assistance from specially trained live representatives and implement
+to add a chatbot, they should ensure that its chatbots can seamlessly
 
-the ability to deliver services directly in sign language whenever
+transfer to a live representative who can communicate via sign language
+
+or provide additional text-based support. Where possible, involve deaf
+
+end users in ideation and testing your systems to identify potential

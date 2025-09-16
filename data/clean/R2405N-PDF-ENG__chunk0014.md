@@ -1,7 +1,17 @@
-## from Wisconsin Public Radio’s To the Best of Our Knowledge. In a
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35b97b9c7bd0fc65412a26be8f1045547bc5e3f6
+title: R2405N-PDF-ENG
+---
+## depression, addiction, and other conditions (which many scientists
 
-May 2024 episode the host, Steve Paulson, brought on the religious
+believe they are), but as tools for businesspeople to unleash receptivity,
 
-scholar Brian Muraresku to discuss whether the ancient Greeks used
+creativity, and enlightenment. Instead I found a diverse and sometimes
 
-psychedelic wine to ﬁnd God. In previous episodes Paulson explored
+contentious array of opinions regarding what psychedelics can and
+
+cannot do for us.
+
+First, for a little history, let’s turn to Luminous, a series on psychedelics

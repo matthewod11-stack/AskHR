@@ -1,11 +1,15 @@
-# requirements .
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ff750e3478a7e10841af838e337c42a3419bb73
+title: H07TI0-PDF-ENG
+---
+# Why Job Descriptions?
 
-By the mid-20th century they became even more formalized and
+Modern job descriptions can be traced back to the industrial revolution.
 
-detailed.
+As factories and other large organizations became more common, there
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+was a need to deﬁne roles and responsibilities more clearly to improve eﬃciency and productivity. This led to the creation of standardized job
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+titles and descriptions, which outlined each position’s tasks, duties, and

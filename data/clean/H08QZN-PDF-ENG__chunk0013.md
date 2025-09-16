@@ -1,39 +1,27 @@
-# demands.
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 267214c9a410665251f4a0098ffe7e58f8908b8a
+title: H08QZN-PDF-ENG
+---
+## HBR / Digital Article / When Your Go-To Leadership Style Stops Working
 
-Be transparent about style changes.
+view of excellence—worked well when the company was small and his
 
-Expanding your range of styles is a sign of sophisticated leadership,
+leadership team was made up of longtime colleagues who expected it.
 
-but be prepared for growing pains. Not only is adopting a new style
+But as the business scaled and new leaders were hired to help the
 
-unfamiliar to you, but it may confuse others if done without warning.
+company develop a mature operational structure, his involvement
 
-Failing to share the context of what and why you’re changing, may be
+became a bottleneck. And his style, once eﬀective for solving
 
-seen as erratic and even worse, diminish trust.
+simpler problems, now limited his managers’ capabilities in addressing
 
-To ensure alignment, build on your ongoing social contract, explaining
+increasingly complex ones. He realized that in order to sustain
 
-your intention and how you’ll experiment with broadening your range
+eﬀectiveness, he needed to try on some new styles, namely a
 
-when leading your team. You might tell them:
+visionary one that encouraged team ownership, and a coaching one
 
-Over the past year, I’ve noticed a habit of mine that is getting in
-
-the way of achieving the results we all want. I like to jump in and
-
-insert myself in the work when I don’t see progress. But that’s not
-
-working for either of us. Going forward, I’m going to try to empower
-
-you more, asking questions to invite your ownership and delegating
-
-more intentionally. If I seem quieter in meetings, it’s not that I’m
-
-disengaged, and if I’m asking lots of questions, I’m not trying to
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that empowered others to grow themselves in preparation for future

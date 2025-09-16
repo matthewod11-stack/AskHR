@@ -1,17 +1,25 @@
-# it.
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 609c6eca4d744932e2976e25d8a792a6727c08d8
+title: H0705Q-PDF-ENG
+---
+# Information
 
-As Bill examined his assumptions about what information they all
+The next step is to understand your expectations around the
 
-would need, he again circled back to the behavioral expectation step:
+information you need and want to make your decision.
 
-If he and his parents began solving the problem from an incorrect frame
+Bill is comfortable gathering information; indeed, he likes data-
 
-(i.e., only one move), they weren’t actually collecting the information
+gathering. As he and his parents began researching local facilities, he
 
-they needed. How could they possibly assess his parents’ future needs
+assumed he’d be able to get transparent pricing information, and a list of services and quality-of-life amenities each place oﬀered — and that
 
-accurately? Further, would they be able to assess how a particular
+this data would be the important data.
 
-institution would be able to meet those future needs? Might they
+Bill expected that his parents would care about information relating to
 
-assume that a lot of care equaled good care? This is called conﬁrmation
+how they could live independently now and that they would want to be
+
+assured of having whatever care they need in the future when they need

@@ -1,33 +1,31 @@
-# shortcomings.
+---
+source_path: H08C8U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e60d2678dfb3360c5e1670e80455a2580f1abb67
+title: H08C8U-PDF-ENG
+---
+# HBR / Digital Article / How to Set Transformation Targets That Actually Drive Change
 
-To elaborate, most senior executives strive to hit the bullseye. However,
+discover that a fraction of the theoretically “executed” or “realized”
 
-once managers identify the actions required to meet their assigned
+improvements translate to the corporate ledger.
 
-target, they often stop, seeing no need to identify additional steps or
+It is possible to utilize targets eﬀectively in transformation, but it
 
-strive to improve performance further. Worse, in companies that have
+requires a diﬀerent mindset and approach. Our review of successful
 
-deployed multiple rounds of targets over a short time, executives may
+transformations uncovered the primary diﬀerences between companies
 
-have a perverse incentive to avoid exceeding targets, fearing it will raise the baseline and make hitting subsequent targets more diﬃcult.
+that succeeded in transforming using targets and those that did not.
 
-Successful companies think of targets as minimum performance
+Four actions helped the winners defy the odds:
 
-requirements and often refer to them as such to avoid the stigma
+- 1. Change leadership’s mindset around targets
 
-now attached to the term targets. In these cases, leadership is explicit
+Successful target-setting demands that leadership think about targets
 
-about the minimum hurdle the company must clear and encourages
+diﬀerently. Rather than equating targets with something they must hit,
 
-executives to deliver even more, typically reinforced through incentives.
+executives should view them as a minimum bar they must clear. This
 
-This new mindset uniﬁes the organization, pushing everyone to identify
-
-new opportunities to drive higher levels of performance.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+preserves the beneﬁts of traditional target-setting while minimizing its

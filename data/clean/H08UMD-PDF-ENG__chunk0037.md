@@ -1,23 +1,15 @@
-# People Dislike Pushy Referrals
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f673446e7a7ff3a87f139193ee1c802da8c9d72f
+title: H08UMD-PDF-ENG
+---
+## email oﬀers of incentives with an apology for a trivial mistake. But
 
-Your company has probably sent thousands of messages urging
+they should be careful about the nature of the slip-ups they disclose.
 
-customers to recommend your product to their friends. But have you
+Apologizing for signiﬁcant mistakes doesn’t improve perceived warmth
 
-stopped to test whether any of them actually get results?
+and can reduce perceived competence, leading to negative attitudes
 
-In 2022 researchers conducted four studies involving 61,401 Chinese
-
-consumers to investigate how the language used in referral messages
-
-aﬀected consumer participation in referral reward programs. In one of
-
-them the researchers created two types of SMS text referral messages:
-
-an assertive message and a less assertive message. Each customer was
-
-randomly asked to share one of the two messages. The researchers
-
-tracked how many customers clicked on the link in the text to view the
-
-referral-program details and how many then sent the message to their
+toward a company, the authors write.

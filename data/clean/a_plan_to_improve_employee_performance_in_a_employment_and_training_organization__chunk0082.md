@@ -1,39 +1,33 @@
-# comprehensive performance evaluations .
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 91f40f6cbe1f12c09e34ec53370e75f9bd38a824
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Performance Evaluation System
 
-The new performance evaluation system will serve several useful functions:
+Performance evaluation is a process of assessing, summarizing and developing the
 
-- 1) To r~view progress against standards and to collect data for the evaluation.
+work performance of an employee. Writing the evaluation should be preceded by a
 
-- 2) To determine what standards of performance are app_ropriate for the work to be
+meeting with the employee to provide the opportunity for a mutual understanding of the
 
-performed by the employee, which should be changed, which should no longer be
+evaluation process. The employee will have the option to submit a position statement
 
-appropriate and which new standards are needed.
+(see Appendix B) which is a self-evaluation and to be considered in the development of
 
-- 3) To review performance standards to see whether they are adequate or need to
+the evaluation . The position statement will outline what the employee and supervisor
 
-be revised.
+think are the expectations of the job. Attached to the position statement will be an outline
 
-19
+of the essential functions of the job (see p.29), that will assist the employee in developing
 
-- 4) To analyze what areas the employee is deficient in knowledge or skill so the
+summary statements of his or her job expectations . In order to be effective and
 
-supervisor can act as a coach to eliminate any deficiencies .
+constructive, the supervisor conducting the evaluation should make every effort to gain as
 
-- 5) To determine any additional assistance to help the employee improve his/her
+much objective information about the employee 's performance as possible . Conducted
 
-performance and outline a plan for improvement.
+quarterly, performance evaluations provide further feedback to the employee and serve as
 
-When conducting a performance evaluation the goal should be to determine whether the
-
-performance standards for an employee are being achieved and whether they are being
-
-met and to what degree. Also, we are determining whether the employee's skill level is
-
-appropriate to the tasks of the job. During the performance ev~luation, the supervisor
-
-must act as a coach and identify how the employee could be more effective. Then, work
-
-out an improvement plan outlining what could be done so performance standards will be
-
-met or most likely to succeed in achieving those standards.
+a reference point in assisting the employee and supervisor to develop more factual and

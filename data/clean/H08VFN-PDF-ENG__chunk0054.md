@@ -1,5 +1,11 @@
-# long-term strategy.
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0edd031d5b8e021d5778cb01e7eefb8fcb94e383
+title: H08VFN-PDF-ENG
+---
+## HBR / Digital Article / Lessons from U.S. Army Special Ops on Becoming a Leader
 
-Key Takeaway: By providing a bold but speciﬁc target that focuses
+when stress is new. If the stress is familiar, ignore the problem and trust
 
-planning during VUCA, strategic vision preempts the chaotic meddling
+your managers to handle it, keeping your focus on your organization’s

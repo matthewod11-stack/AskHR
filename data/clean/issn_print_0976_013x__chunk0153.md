@@ -1,9 +1,9 @@
-# Performance of SMEs.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 1cad7f6b96c603c8a000252c139aa614105e2f53
+title: issn_print_0976_013x
+---
+## conventional methods of loans and shares (Christian Stone, 2016).
 
-The notion of proactiveness pertains to the capacity of an organisation to anticipate and take
-
-proactive measures in response to the demands of consumers by providing novel products and
-
-services that have yet to become familiar to any other entity in the industry (Kallmuenzer &
-
-21
+H2: Innovativeness has a positive influence on achieving the target of Circular Practice target

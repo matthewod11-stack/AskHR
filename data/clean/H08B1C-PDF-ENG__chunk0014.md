@@ -1,11 +1,7 @@
-# collaboration.
-
-- 2. Undermined expertise
-
-Leaders need to exude conﬁdence and demonstrate their expertise
-
-to maintain their authority in a subject matter. In corporate cultures
-
-where conﬁdence is equated with having answers, a leader’s persistent
-
-questioning can be perceived as a lack of self-assurance in their
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c048c909fe6d5e311f2df1770e4626a0578cf8b
+title: H08B1C-PDF-ENG
+---
+## open and collaborative one and ultimately harming innovation and

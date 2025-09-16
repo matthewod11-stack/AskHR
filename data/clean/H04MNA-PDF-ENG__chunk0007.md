@@ -1,13 +1,25 @@
-# HBR / Digital Article / To Combat Harassment, More Companies Should Try Bystander …
+---
+source_path: H04MNA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03ed7acf347e2aa502519dd7ec8186f9716c7b0d
+title: H04MNA-PDF-ENG
+---
+# ICHIRO/Getty Images
 
-four decades after the term “sexual harassment” was ﬁrst coined, it
+As the wave of #MeToo stories have come to light over the past year, it’s
 
-remains a persistent and pervasive problem in virtually every sector
+become painfully clear that whatever organizations are doing to try to
 
-and in every industry of the economy, our new Better Life Lab report
+prevent sexual harassment isn’t working.
 
-ﬁnds. It wreaks ﬁnancial, physical, and psychological damage, keeping
+Ninety-eight percent of companies say they have sexual harassment
 
-women and other targets out of power or out of professions entirely. It
+policies. Many provide anti-sexual harassment training. Some
 
-also costs billions in lost productivity, wasted talent, public penalties,
+perpetrators have been ﬁred or fallen from grace. And yet more than
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

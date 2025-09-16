@@ -1,9 +1,13 @@
-# benevolence, and integrity as dimensions of trustworthiness (Mayer et al., 1995). Trust
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: b0db8e01ab63ef8052a9abe59fc489c416d9dd90
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# interactions and judgements about similarity and the professional qualifications of the other
 
-scholars have drawn parallels between these dimensions and affective and cognitive forms of
+party. In contrast, affective trust refers to the emotional ties in an interpersonal relationship
 
-trust. Specifically, ability and integrity have theoretical similarities with cognitive trust, while
+and is informed by perceptions of the other party’s motives, the extent to which they provide
 
-benevolence perceptions are more closely aligned with affective trust (Colquitt et al., 2012;
-
-de Jong et al., 2016; van der Werff & Buckley, 2017).
+help and support, and frequency of interaction. Another widely used model focuses on ability,

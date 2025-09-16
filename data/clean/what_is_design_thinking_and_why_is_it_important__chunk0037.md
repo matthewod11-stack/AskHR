@@ -1,7 +1,11 @@
-# Systemic vision
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: 805405feeafc0f570d18b2cd04c8521fc38d9c2f
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Predisposition toward multifunctionality
 
-Designers should treat problems as system problems with opportunities for systemic solutions involving different procedures and concepts to create a holistic solution.
+Designers should look at different/multiple
 
-Ability to use language as a tool
-
-Designers should be able to verbally explain their creative process forcing invention where detail is lacking and expressing rela- tionships not obvious visually (i.e., explana- tion should go hand in hand with the creative process).
+solutions to a problem and keep the big pic- ture of the problem in mind while focusing on its specifics.

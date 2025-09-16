@@ -1,15 +1,21 @@
-## HBR / Digital Article / Building Social Capital When You Work Remotely
+---
+source_path: H07M1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e46fa23446a020e9d67b94c52a2d9c8a3ee1705
+title: H07M1A-PDF-ENG
+---
+# yield powerful results.
 
-work, it might be worth it. Even so, this is not something you want to do
+For independent contractors, no one wants to work for less than they are worth or for free, and most people cannot aﬀord to, but sometimes
 
-as a regular practice. Always weigh the pros and cons.
+it’s strategic and acceptable to do so. For example, if you know that
 
-When you do something as a favor for someone when necessary, you
+working with this client will add credibility and valuable experience to
 
-have taken your ﬁrst step in building social capital with that person.
+your business, and is likely to signal to other clients that you do good
 
-Furthermore, doing so, especially to gain experience in an area where you may need expertise, eﬀectively ﬁlls that skillset void. Negotiating a
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-testimonial as part of your fee is strategic and acceptable. It can build
+5
 
-your credibility and be a valuable asset on your website or secure a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

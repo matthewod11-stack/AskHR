@@ -1,23 +1,27 @@
-## HBR / Digital Article / To Coach Leaders, Ask the Right Questions
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05f18243e22066edd8cceb90bc97b4ffa628eca2
+title: H07CM6-PDF-ENG
+---
+# Boris Zhitkov/Getty Images
 
-But his own leadership was exactly the problem. And not for the typical
+Lucas B. is the CEO of a well-known multibillion dollar company whose
 
-reasons you might guess.
+survival was at risk at the height of the pandemic. Many analysts
 
-I have been coaching CEOs and other C-suite leaders for two decades. In
+had written it oﬀ. Lucas had a strategy for returning the company
 
-a ﬁercely complex and challenging world, I’ve found that leaders, more
+to proﬁtability, which his board supported, but he was struggling to
 
-than ever, need to understand how what’s going on inside themselves
+implement it. In Lucas’s view, he was up against an array of external
 
-is inﬂuencing their actions in the outside world. Instead, for most
+obstacles. When we began working together, he resisted the idea that his
 
-corporate leaders I’ve worked with – often doers more than deep
+own leadership was a central part of the problem.
 
-thinkers – what’s going on internally is a vast unexplored territory
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-that they haven’t valued much. That includes what they’re feeling,
+1
 
-where they’re feeling triggered, and how early experiences in their lives
-
-inﬂuence the choices they’re making in the present.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

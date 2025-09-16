@@ -1,9 +1,7 @@
-# Recruitment and On-boarding
-
-Employees participating in the survey ranked recruitment experience as positive was
-
-84, while neutral was 17 employees and 4 were negative. This statistic represents
-
-successful candidates who are now part of Atlas Copco; an external comparison
-
-needs to be evaluated.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: dc5de4de4ce047906438526656b3323447ba6aea
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 38 | P a g e

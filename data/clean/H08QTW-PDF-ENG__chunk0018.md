@@ -1,29 +1,29 @@
-# customer success support at a low cost.
+---
+source_path: H08QTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f45642bbf56ea23ea1d47739aada839aee0fc24a
+title: H08QTW-PDF-ENG
+---
+## HBR / Digital Article / How to Rescue a Failing Strategy
 
-- 3. Embrace your most profitable customers.
+to ﬁnd. For example, a $2 billion Silicon Valley-based technology
 
-Identify those customers and market segments that are the most
+service provider we worked with experienced a 10% improvement in
 
-proﬁtable—and don’t take your eye oﬀ them. Proﬁts and proﬁtable
+renewal rates ($100 million NRR improvement) in one year by analyzing
 
-growth potential are always concentrated by market, company,
+the lifetime value of customer segments, developing product bundles
 
-business, and business segment (i.e., at the intersection of products,
+speciﬁcally designed to appeal to each segment, and reconﬁguring
 
-customers, channels, etc.). Financial reporting and analysis are rarely
+incentives in its sales and service organizations. Using AI, companies
 
-detailed enough to identify those proﬁtable pockets—but these are the
+can create models that identify customers that are at risk and create a
 
-customers you must ardently work to win, keep, and expand, especially
+“save desk” to intervene.
 
-in tough times. Smart long-term strategy is best built knowing which
+Retention gains can be big, and they compound. If you pursue
 
-channels, customers, and segments are most proﬁtable for you.
+this course of action, you will likely be ahead of your competition:
 
-A detailed analysis of proﬁtability (including accounting for the cost of
-
-the capital consumed by each product or segment) can take months,
-
-but back-of-the-envelope calculations can be done quickly can give you
-
-much-needed momentum, even if you need to reﬁne your approach a
+Our research shows that only 15% of companies deliver white-glove

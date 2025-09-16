@@ -1,9 +1,17 @@
-# top-down direction.
+---
+source_path: H08UY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5bb88ab2b02515d3a1972172eacd2e0b223b148e
+title: H08UY5-PDF-ENG
+---
+# board members, analysts, and community.
 
-As you’re building relationships with stakeholders, ask yourself:
+Leading CEOs often start with a few critical priorities and form working
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+groups of inﬂuential voices—those culture carriers who can shape
 
-3
+opinions, rally teams, build trust, and ease concerns during change. By
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+engaging the right voices early, the best CEOs foster alignment and real
+
+input, building momentum from within rather than relying solely on

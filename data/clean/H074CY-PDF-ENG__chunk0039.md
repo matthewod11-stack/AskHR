@@ -1,9 +1,15 @@
-## HBR / Digital Article / How to Conduct a Great Performance Review
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3667b61f7d896d64cdc21f50ba8dbae6951e37ef
+title: H074CY-PDF-ENG
+---
+# performance.
 
-Frank V. Cespedes is a senior lecturer at Harvard Business School and the author of Sales Management That Works: How to Sell in a World That Never Stops Changing (Harvard Business Review Press, 2021).
+This article was originally published online on July 08, 2022.
 
 Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-9
+8
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

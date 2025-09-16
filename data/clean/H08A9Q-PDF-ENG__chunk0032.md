@@ -1,33 +1,33 @@
-## HBR / Digital Article / AI Success Depends on Tackling “Process Debt”
+---
+source_path: H08A9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b01d36d1092a497182658c3649b6fbd2ef24605a
+title: H08A9Q-PDF-ENG
+---
+# additional training in necessary skills.
 
-better, faster, and ideally cheaper new technologies can help save
+- 5. Adopt an iterative and learning mindset by architecting the change in short sprints. Make no mistake that getting value from these eﬀorts will likely not
 
-the day. But that approach may only increase the debt, with endless
+be easy, so organizations must manage these programs closely to both
 
-incremental new technologies creating a deeper and more complex web.
+conﬁrm proper adoption of the changes and course correct as needed.
 
-Start instead by remapping and reprioritizing the way your company
+The consumer products company redesigned their processes in 12- to
 
-does work, with a focus on clear outcomes your customers are
+16-week sprints. This created momentum and an iterative mindset to
 
-demanding and where you can meaningfully diﬀerentiate. Rethinking
+learn and help create value.
 
-how that work can be created and delivered is a much needed and
+. . .
 
-freeing exercise. Such an approach can lead to startling results — we’ve
+Organizations are anxious about tackling the burden of their
 
-seen 50% to 80% improvements in value — and will greatly focus your
+technical debt, increasingly focusing on the growing and seemingly
 
-organization on the activities that it’s better equipped to deliver.
-
-This article was originally published online on June 27, 2024.
-
-Sundar Subramanian is a principal at PwC U.S., and leads Strategy&, PwC’s strategy consulting business. He also heads its enterprise strategy, value, and digital transformation practice.
-
-Mohib Yousufani is a principal at PwC U.S. He is a senior global leader in digital transformation, and advises institutions across industries on achieving superior growth and performance.
+insurmountable budgets required to move forward and hoping that
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

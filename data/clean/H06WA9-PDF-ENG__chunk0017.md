@@ -1,7 +1,9 @@
-## colleagues away from generational conﬂict and toward a productive
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: abf4a7143b44f076e153620d601f5ffe4a239fbe
+title: H06WA9-PDF-ENG
+---
+# organizational performance.
 
-embrace of one another’s diﬀerences. There are four practices involved.
-
-The ﬁrst two, identify your assumptions and adjust your lens, help
-
-overcome false stereotypes. The next two, take advantage of differences
+In our book, Gentelligence, we lay out our framework for moving

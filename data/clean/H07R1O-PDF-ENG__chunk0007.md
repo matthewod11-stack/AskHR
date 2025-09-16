@@ -1,7 +1,17 @@
-# upset customers.
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9fee6324effbe06e5d5f827207fba6607eb364a1
+title: H07R1O-PDF-ENG
+---
+# kkgas/Stocksy
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+The sociologist Arlie Hochshild introduced the concept of emotional
 
-1
+labor to highlight the emotional burdens of diﬀerent jobs. Bill collectors,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+for example, must inure themselves from the emotional distress of the
+
+people they must harass. Doctors must deal with the emotional trauma of their patients when delivering diﬃcult medical prognoses. Almost all
+
+service workers must endure emotionally challenging encounters with

@@ -1,9 +1,9 @@
-## by the World Wide Web Consortium, a nonproﬁt, global, multi-sector
+---
+source_path: H07RKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe3fced22dd1b18f8fc92957485ba93261d7b9a4
+title: H07RKP-PDF-ENG
+---
+## comply with the latest Web Content Accessibility Guidelines, those
 
-community founded in 1994. Interestingly, chatGPT-powered platforms
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+beneﬁts will only grow. These guidelines are set, reviewed, and updated

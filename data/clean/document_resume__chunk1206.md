@@ -1,7 +1,9 @@
-# 2 Marginal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: e604333f18207ed2ad3815afc9aaef9ca7dc5125
+title: document_resume
+---
+# 3 Acceptable
 
-Exhibits basic knowledge in clinical area. Is aware of clients' diagnoses and treatment regimens. Ineffectively organizes students in meeting clients' needs. Directly instructs students rather than elicitiflb -heir ideas. Casually supervises students' activities with clients.
-
-1 Unacceptable Exhibits deficiencies in clinical knowledge. Is minimally aware of clients' diagnoses and treatment regimens. Is very disorga- nized, finding it difficult to supervise students and meet clients' needs. Inhibits students' thinking for themselves. Provides little supervision of students' activities with clients.
-
-V
+Demonstrates overall competence in clinical area. Knows clients' diagnoses and treatment regimens. Organizes self and students to meet the needs of clients within the clinical facility. Encourages students' to discover answers on own, but provides answers if necessary. Supervises students' activities with clients. Observes all invasive procedures and medications.

@@ -1,23 +1,29 @@
-## HBR / The Big Idea / Long Covid at Work: A Manager’s Guide
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07f9740b07cb71011c01d09fe7ba2579f870c866
+title: H087FX-PDF-ENG
+---
+# Jasu Hu
 
-and unpaid leave to rest and try to recover. Eventually she improved
+Before the pandemic, Dara was a research engineer, thriving in a job
 
-enough to return to work — but she knew her job needed to change.
+that involved complex technical design and problem-solving. (Names in
 
-Collaborating with her managers and the HR team, Dara found a set of
+this article have been changed for privacy.) She was also an avid baker
 
-accommodations that ﬁt her needs. They gave her the option to work
+and a voracious reader. Then in March 2020, she got Covid-19. Even after
 
-from home whenever she wanted — up to 100% of the time and at a
+the acute illness had passed, many symptoms remained: Dara struggled
 
-reduced schedule. For days when she wanted to go in to the oﬃce, they
+to sit up for more than half an hour, was too breathless and lightheaded
 
-secured a mobility scooter to help her get around the building. She also
+to walk even short distances, and had severe brain fog that left her
 
-received additional unpaid leave to manage symptom ﬂares. “I wouldn’t
+unable to hold a conversation or write an email. She used all of her paid
 
-still have a job without [that] support,” Dara says.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-As her health has improved, she’s been working with her managers and
+1
 
-HR to resume her career growth. She was recently promoted to a role
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,7 @@
-# Fact Sheet on LMRDA
-
-Information on Reporting and Disclosure Forms LM-1, LM-10, LM-15, LM-15A, LM-16, LM-20, LM-21, LM-
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: 7bff9e6395d2c2fa3c5fa14e7083c82c754291fa
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+## understand and comply with requirements in the LMRDA.

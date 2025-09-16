@@ -1,25 +1,27 @@
-## enterprise priority of the RAI program relative to other strategic
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6394b3759663a74f05a9712ef407461e3ab1ce48
+title: H08HKF-PDF-ENG
+---
+# risks.
 
-priorities, what the risks are, what their sources are, what risk
+The team members’ unique expertise is required to prevent and
 
-thresholds and metrics are appropriate for each market/context of deployment, and what makes the diﬀerence between a go/no-go
+mitigate each type of risk, but it can also be a weakness because a)
 
-decision, can play a pivotal role in whether the committee is able to eﬃciently and eﬀectively discharge its responsibilities.
+each member tends to focus on the risks pertaining to their expertise, b)
 
-- 5. Do you have the personnel you need?
+some risks of AI, particularly ethical ones, are outside of each members’
 
-One of the most important requirements of an RAI program is precisely
+area of expertise, and c) members aren’t experts at rolling out and
 
-the aspect that no one wants to do: ensure the program is being scaled
+overseeing an RAI program.
 
-and maintained in a way that meaningfully reduces risk. And one of
+This last point is particularly important. The committee is responsible
 
-the major obstacles is that there is no one in the enterprise who has the
+for ensuring the RAI program is rolled out appropriately and has
 
-skills and knowledge to do this work. Even existing QA/QI and audit
+the desired impact. This is a complex, continuous endeavor. Training
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+sessions or workshops in which teams achieve alignment on the

@@ -1,13 +1,7 @@
-# Retrieved
-
-08
-
-12,
-
-2022
-
-Rue, L., & Byars, L. (2003). Management: Skills and Application. New York: McGraw-Hill/Irwin.
-
-Schwarz, J. (2014, 03 07). The overwhelmed employee. Unites States. Retrieved 08 12, 2022 from https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2014/hc- trends-2014-overwhelmed-employee.html
-
-Smit, S. (2020). Mastering Employee Experience – 16 specific steps to take in your EX
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 21cd1d307a7a597307754e909d7bf453fbaf4766
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# culture-survey.html. https://www.strategyand.pwc.com/gx/en/insights/global-culture-survey.html

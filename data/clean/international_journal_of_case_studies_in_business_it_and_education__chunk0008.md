@@ -1,3 +1,13 @@
-# well-being.
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 98a84ff15c21b291a9cd142356c0eb63210eb139
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# SRINIVAS PUBLICATION
 
-(2) To explore the impact of different types of workplace culture, including toxic, positive, and
+Additionally, they offer chances for professional growth, acknowledgement, and work-life balance, all of which can improve employees' general wellbeing [3–4]. From a contrasting perspective, unfavourable workplace cultures that promote stress, conflict, and toxicity can have a variety of detrimental effects on both employees and businesses [5] in addition to adversely impacting employee well-being. In such cultures, employees may experience high levels of stress, feel unsupported or undervalued, and have difficulty balancing work and personal life. This can lead to increased absenteeism, decreased job satisfaction, and reduced productivity [6-7]. Negative work cultures can also result in higher turnover rates and lower levels of employee engagement, which can ultimately impact organizational success and reputation [8]. In recent years, there has been a growing recognition of the importance of creating positive work cultures that prioritize employee well-being and mental health [9]. Organizations are increasingly investing in employee well-being programs, such as stress management and mental health support services, to promote a positive work environment [10]. Yet, there is still more to be done to guarantee that staff members have access to the tools and services they need to take good care of their mental wellness and overall wellbeing. [11]. This is particularly important in the post-pandemic workplace, where many employees are facing new challenges such as remote work, increased workload, and social isolation [12]. Prioritizing employee well-being and developing work environments that support mental health and well-being are crucial as firms navigate the post-pandemic landscape [13]. The present role of research on workplace culture and its effects on workers' mental health and well-being will be examined in this review article.
+
+- 2. OBJECTIVES OF REVIEW PAPER :
+
+(1) To conduct a review of the literature on workplace culture and employee mental health and

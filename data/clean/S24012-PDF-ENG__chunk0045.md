@@ -1,17 +1,15 @@
-# Yasu & Junko/Trunk Archive
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd2e12eff8a186c14114e90cf32fea38af220f4a
+title: S24012-PDF-ENG
+---
+# underappreciated leadership quality Max
 
-of analysis, move between details and the
+Weber called “a sense of proportion.” It
 
-big picture, and assess how material
+entails the ability to separate the
 
-something is. For leaders, having this sense of proportion is key. Even if
+insigniﬁcant from the important, see how
 
-they choose to delegate some issues to others, their own judgments are
-
-the ones they must ultimately live with.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+things are connected across diﬀerent levels

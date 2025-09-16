@@ -1,13 +1,11 @@
-## practices (Edwards & Edwards 2016, Caughlin 2023), including:
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 05a797cf3a9cc950b9b9050c7c7f1e642270aa0e
+title: i
+---
+## business goals and not just talent management strategies.
 
-Employee Selection: PA can go beyond resumes by analyzing skills, cultural fit, and past
+As People Analytics (PA) reaches a higher level of maturity, its applications within HR extend
 
-performance data to identify top talent.
-
-Leadership Development: By analyzing leadership behavior and its impact on employee
-
-engagement and performance, PA can inform targeted leadership development programs.
-
-Employee Engagement: Employee surveys become more insightful when combined with
-
-other HR data points, allowing for a deeper understanding of employee sentiment and the
+far beyond influencing hiring decisions. It has the potential to transform a wide range of HR

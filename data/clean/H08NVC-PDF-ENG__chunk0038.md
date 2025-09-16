@@ -1,11 +1,19 @@
-# greatest assets.
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd838f6dc5653f2218e4663d70aa9db2345ec291
+title: H08NVC-PDF-ENG
+---
+## programs with high returns on investment, especially if the programs
 
-This article was originally published online on April 29, 2025.
+are relatable to the employees’ direct experiences. Just as multinational
 
-Enoch Li is the Co-Director of INSEAD’s MBA Personal Leadership Development Program and teaches in various Executive Education Programs. With a focus on organizational resilience and wellbeing at work, Enoch also sits on the Advisory Board of The Lancet Psychiatry Commission on Lived Experience in Mental Health Research and is a Board Member of United for Global Mental Health.
+companies would approach any new product launch or business
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+implementation, they should invest time in understanding their
 
-8
+employees’ well-being needs and experiences, plan tiered mental
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+health programs, and consider incorporating mental health awareness
+
+workshops into onboarding processes—because employees are their

@@ -1,5 +1,7 @@
-# January - December, 2019
-
-- 6. Government Use Cases for Blockchain The Government provides three categories of functions to its citizens namely: Civil Service, Legislative and an Enabler of Economy for managing and regulating assets for its citizens. In all the three functions of the Government, Proof Of Concept Blockchain projects have been implemented in various countries to verify Country
-
-- 6. Government Use Cases for Blockchain The Government provides three categories of functions to its citizens namely: Civil Service, Legislative and an Enabler of Economy for managing and regulating assets for its citizens. In all the three functions of the Government, Proof Of Concept Blockchain projects have been implemented in various countries to verify Country
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 8762173fe724e470addcb75d84a6e770a9654fac
+title: final_2019_jan_feb_jbs_pmd
+---
+# Volume 6 Issue 1

@@ -1,3 +1,7 @@
-# Estonia
-
-Govt Health Records are online and Access Controlled. The Estonian e-Health Record uses electronic health cards for user identification to ensure data integrity and mitigate internal threats to the data. This has been built on Guard Time System[13]. Estonians can log into their records using their identities and get access to audit log of View histories in there transactions.
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: a677c4f5637efd4d0635e1967274c8d720042bb4
+title: final_2019_jan_feb_jbs_pmd
+---
+# Health Records

@@ -1,7 +1,7 @@
-# Sample Prompts:
-
-- I’m unsure about my career path. Can you ask me some reﬂective
-
-questions to help me identify my strengths and interests?
-
-- Can you suggest career options that align with my skills in [list your
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c696e638b93b87bbfd7414c347cdc199959e6dad
+title: H08O9C-PDF-ENG
+---
+## HBR / Digital Article / Want to Use AI as a Career Coach? Use These Prompts.

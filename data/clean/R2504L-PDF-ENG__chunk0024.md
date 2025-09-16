@@ -1,9 +1,7 @@
-# Practical Steps for Leaders
-
-JPMorgan Chase and Amazon, among others, have said they would
-
-create more oﬃce space to accommodate their reinstituted, mandatory,
-
-ﬁve-days-a-week in-oﬃce policies. But that is an expensive proposition,
-
-and it is proving harder to do than expected. Amazon, for one, had to
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b95f6f080e262e339b8ca63e39853cd3f4e34c6a
+title: R2504L-PDF-ENG
+---
+## HBR / Magazine Article / Hybrid Still Isn’t Working

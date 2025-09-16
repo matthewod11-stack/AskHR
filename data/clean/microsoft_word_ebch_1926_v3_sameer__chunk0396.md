@@ -1,7 +1,9 @@
-# Health at Work,” October, 1995.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 02fc4004554dfd972bd80204e3259e2b33d9acb1
+title: microsoft_word_ebch_1926_v3_sameer
+---
+## Guatemala,” Ann. Glob. Heal., 2018, doi: 10.29024/aogh.2319.
 
-[9]
-
-I. Ahmad, A. Sattar, and A. Nawaz, “Occupational Health And Safety In Industries In Developing World,” Gomal J. Med. Sci., 2016.
-
-[10] K. Ahola, S. Salminen, S. Toppinen-Tanner, A. Koskinen, and A. Väänänen, “Occupational burnout and severe injuries: An eight-year prospective cohort study among finnish forest industry workers,” J. Occup. Health, 2013, doi: 10.1539/joh.13-0021-OA.
+[8] World Health Organization, “Global Strategy on Occupational Health for All: The Way to

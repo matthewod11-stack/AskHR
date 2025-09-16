@@ -1,25 +1,21 @@
-# HBR / Digital Article / Research: Women’s Complaints of Workplace Abuse Get Ignore…
+---
+source_path: H08QXF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8bebfeed78ade844eaafeb4d0378aaa6eceb669
+title: H08QXF-PDF-ENG
+---
+# The Good Brigade/Getty Images
 
-In our forthcoming paper in Organization Science, we analyzed
+Organizations often urge employees to report abusive behavior,
 
-thousands of workplace reports, combining archival data from U.S.
+believing that doing so is key to addressing misconduct. But our
 
-government employees with ﬁve experiments, to examine how reporter
+research shows that whether a report leads to corrective action doesn’t
 
-gender shapes corrective action. We found that reports made by women
+just depend on what is reported, but also who is doing the reporting.
 
-are less likely to be taken seriously than identical reports made by men.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-This gap is widest when reports lack supporting evidence, something
+1
 
-our data show is especially common in workplace abuse cases.
-
-In order for leaders to address the gendered biases that impact how
-
-misconduct is handled, they need to understand why they occur. We
-
-analyze our data to oﬀer insights and recommendations for companies
-
-to help them build the kind of equitable systems that their employees
-
-can trust.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

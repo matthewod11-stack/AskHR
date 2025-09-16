@@ -1,33 +1,13 @@
-# crucial for sustained adaptability.
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57a882ed53d2ae49cb5f455aed1685558a6c8c7f
+title: H08I7Y-PDF-ENG
+---
+## Even with the best alignment between change types and motivational
 
-Debora applied this approach in the customer-experience division of the
+styles, organizations will inevitably face situations where contradictory
 
-ﬁnancial institution she was working with, which needed to innovate to
+goals must be pursued simultaneously. Encouraging a paradox mindset
 
-improve customer relationships but also had to implement strict cost
-
-controls. She was able to foster a paradox mindset in the division by
-
-designing projects that balanced opposing objectives — and by then
-
-encouraging open discussions about the inherent tensions that arise.
-
-Leaders should model this approach, navigating competing demands
-
-transparently. Regular team reﬂections on these practices reinforce the
-
-mindset across the organization.
-
-. . .
-
-For years, organizations have chased the perfect transformation plan,
-
-yet often they keep failing. The pattern is clear: Well-intentioned
-
-change initiatives fail when organizations rush into one-size-ﬁts-all
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+— so that employees get comfortable in that zone of contradiction — is

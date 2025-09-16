@@ -1,15 +1,21 @@
-# the last ﬁve years.
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d015b3e1c2c3e99cedc626006e3c350a212394e8
+title: H07MI6-PDF-ENG
+---
+# HBR / Digital Article / 6 Key Levers of a Successful Organizational Transformation
 
-Considering that organizations will spend billions on transformation
+At the same time, leaders must recognize that transformation is fraught
 
-initiatives over the next year, a 70% failure rate equates to a signiﬁcant
+with risk. In 1995, John Kotter found that 70% of organizational
 
-erosion of value. So, what can leaders do to tilt the odds of success in
+transformations fail, and nearly three decades later, not much has
 
-their favor? To ﬁnd out, we interviewed 30 leaders of transformations
+changed. Our own research, in which we spoke to more than 900 C-suite
 
-and surveyed more than 2,000 senior leaders and employees in 23
+managers and more than 1,100 employees who had gone through a
 
-countries and 16 sectors. Half of our respondents had been involved
+corporate transformation, showed similar results: 67% of leaders told us
 
-in a successful transformation, while the other half had experienced an
+they had experienced at least one underperforming transformation in

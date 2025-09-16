@@ -1,29 +1,27 @@
-## remains accessible to everyone for reference.
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99d63a0be4e61864c88d00cbdad5a3df39faf179
+title: R2302A-PDF-ENG
+---
+# Output, Not Input
 
-Dmitriy’s initial version of GitLab was an open-source tool, and
+It won’t surprise you to learn that we use the GitLab platform to
 
-programmers who used it contributed to the underlying code. I joined
+collaborate on writing, reviewing, troubleshooting, launching, and
 
-with the aim of developing a more robust version to sell to corporations, and in 2014 we shifted our business model to focus on that paid oﬀering
+monitoring the performance of our code. Managers create a project, or
 
-while leaving a core tool available to all at no cost. That’s when we
+“milestone” in our parlance, within which speciﬁc tasks, or “issues,”
 
-started hiring more.
+are to be completed. Those issues are assigned to one or more team
 
-I’ll admit that I was a little worried when those ﬁrst few Dutch team
+members via a “merge request” labeled “work in progress.” Colleagues trade oﬀ working on the issue until they deem it ready to “stage” and
 
-members stopped coming into the home oﬃce I’d fashioned for us.
+“commit.” Their code is then run through a series of diagnostics that
 
-Were the chairs not comfortable enough? The snacks not tasty? Had
+test for accuracy, security, and performance. If it passes muster, it’s
 
-I forgotten to shower? My colleagues assured me that it was them,
+launched, and we continue to track how it performs. If problems are
 
-not me: They were simply more productive on their own time, in
-
-their own spaces, without commutes. We had all the technology we
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+identiﬁed, the team iterates on solutions. This entire history of work

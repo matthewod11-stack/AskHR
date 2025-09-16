@@ -1,5 +1,15 @@
-## out the best in their teams, their organizations, their partners, and
+---
+source_path: H0785O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6094913f8a649426fc457b76665a55218a714d3
+title: H0785O-PDF-ENG
+---
+# edicts.
 
-their communities. They must understand that to accomplish anything
+Organizations have gotten more complicated, as has the challenge of
 
-substantial — internally or externally — they have to reach across
+running them. They need leadership at all levels, not just at the top.
+
+They need managers who can think not just about the bottom line but
+
+about the culture they help shape. Leaders must learn how to bring

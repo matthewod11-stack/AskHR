@@ -1,5 +1,15 @@
-# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:36)(cid:44)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: ea93ce00a94c710ae22add0b8fb386eadd192dec
+title: microsoft_word_performance_management_literature_review_doc
+---
+## Corporate Leadership Council (2002), Performance Management Survey
 
-E-reward (2005), What is Happening in Performance Management Today: Part 1 – Survey Findings, Research report No. 32, E-reward
+DeNisi A, Pritchard R (2006), ‘Performance Appraisal, Performance Management and Improving Individual Performance: A Motivational Framework’, Management and Organization Review, Vol. 2, Issue 2, pp. 253-277
 
-Fletcher C (2001), ‘Performance appraisal and management: the developing research agenda’, Journal of Occupational and Organizational Psychology, Vol. 74, pp. 473-487
+De Waal (2003), ‘Behavioural factors important for the successful implementation and use of performance management systems’, Management Decision, Vol. 41/8
+
+Ducharme M, Singh P, Podolsky M (2005), ‘Exploring the links between performance appraisals and pay satisfaction’, Compensation and Benefits Review, September/October, pp. 46-52
+
+Elzinga T, Albronda B, Kluijtmans F (2009), ‘Behavioural factors influencing performance management systems’ use’, International Journal of Productivity and Performance Management, Vol. 58, No. 6

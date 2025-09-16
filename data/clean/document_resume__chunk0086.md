@@ -1,5 +1,9 @@
-# It
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: f336f4b00bbdceb57d84f2d9a0db5b62c3eff45e
+title: document_resume
+---
+# Compensation
 
-There are authorities in the field w ho feel that Compensation decisions should not be linked to performance appraisal. The contention is that during the performance appraisal conference, the individual is most LonLerned with the amount of the raise and not with such important matters as productiv it) improvement and professional devel- opment. Therefore, an employee is likely to conLenti ate Oil how the mating will translate into dollars and to ignore all else.
-
-While this issue cannot be resolved completely, it seems reasonable that if an orga- nization is willing to invest the time and resourLes needL.I to develop a job-related performance appraisal system, the results should be used in the compensation program. The argument that if individuals know their pay fracases are related to performance ratings, the other purposes of performance appraisal somehow \sill be minimized can be stated conversely. The person may feel that if ratings have no influence on salary, then the organization is not serious about performance appraisal.
+An organization's reward sy stem includes an thing an employ ec aloes that the employer is willing to offer in e \change foi the employee's contra- mons. One impor- tant reward is compensation. is logical that the amount of an individual's salary increase should be related to job performance during a vecific period. Many organiza- tions base the amount of mtrit raises directly on perforwanLe ratings. There are three reasons to relate salary to performance. First; as a society v e are Lommitted to a sense of equity that suggests that rewards and performance should be related. Second, research in motivation shows that if compensation is to be a motivator, people must see a clear, positive correlation with performance Third, research also shows that out- standing performers prefer to work ill and remain in meritocracies.' 3

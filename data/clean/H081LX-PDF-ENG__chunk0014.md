@@ -1,25 +1,21 @@
-# committee.
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4b9659d9a572a6770d88aa37ef4de10f2ac220a
+title: H081LX-PDF-ENG
+---
+# elusive.
 
-I also encouraged Sunil to communicate his strategic vision more
+I suggested that he start by setting clear decision-making frameworks
 
-assertively, framing decisions within the context of the vision to
+within his team, where the scope for input and the points at which
 
-illustrate how speciﬁc actions aligned with broader organizational
+a decision would be made should be clearly deﬁned, as well as who
 
-goals. This helped his team understand the “why” behind decisions,
+had ownership over the decision and whether it would be made with
 
-enhancing their trust in his leadership even when they weren’t directly
+or without full consensus. This approach allowed for a structured yet
 
-involved in the decision-making process.
+inclusive process, reassuring the team that their insights were valued
 
-Over time, Sunil reported a signiﬁcant shift in both his team’s dynamics
-
-and his own leadership style. His team began to appreciate the
-
-clarity and direction provided by this new approach, which balanced
-
-inclusivity with decisiveness. He found that his conﬁdence in making
-
-tough calls was bolstered by the understanding that true humility
-
-involves empowering others through clear leadership, not abdicating
+but also setting the expectation that not all decisions would be made by

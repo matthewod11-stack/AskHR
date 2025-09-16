@@ -1,11 +1,17 @@
-## more eﬀective than someone with a history of frustration.
+---
+source_path: H071S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f233594dffd27e9d1f193dfc2e358a800afc7ee5
+title: H071S2-PDF-ENG
+---
+# HBR / Digital Article / How to Help an Employee Who Struggles with Time Management
 
-As a manager, you can’t force anyone to improve their time
+In these situations, it can be helpful to connect your employee with
 
-management. But your communication and actions can make a huge
+outside resources such as time management training, an internal coach,
 
-diﬀerence in your direct report’s ability to overcome their struggles and
+or an external coach who can help them to develop these skills.
 
-increase their productivity.
+Someone with experience in helping people overcome these challenges
 
-This article was originally published online on May 20, 2022.
+and who is more emotionally distant from the situation can often be

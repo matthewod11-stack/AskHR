@@ -1,11 +1,9 @@
-## Key Words: NHG, Performance, Demographic, Homogeneity, Improve, Formation
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 24a128e33bd0c8b6f3882295610c1118645cc8d2
+title: final_2019_jan_feb_jbs_pmd
+---
+# Abstract
 
-- 1. Introduction Self Help Group was first started as a concept by National Bank of Agriculture and Rural Development (NABARD) in 1986 on an experimental basis and it was implemented in 1991.SHGs were started with a view to contribute to the alleviation of poverty. SHG- Bank linkage programme was launched in 1992.SHGs were conceived to enable the access to finance for the poor who cannot otherwise borrow from banks because of lack of collaterals.SHGs were initially formed t o grow and sustain as independent financial institutions (Tapadhan Roy,Kaushik Sen, 2015). But its popularity and acceptance lead to Government offering subsidies to the groups. SHGs are formed by women and is also act as a tool to support and empower the poor women in the society. SHGs as compared to other Models such as
-
-JLG(Joint Liability Group), has got broader objectives to fulfill. Beyond the narrow confines of financial objectives SHGs (S K Sharma, M. Mehta, 2014) SHGs focus is on building the capacity of the members and empowerment of women in the family and the society. Because of this it requires a federating structure entrenched in the society unlike the JLG.
-
-SHG’s performance should be understood more deeply as there are evidences from various studies which suggest that the SHGs have not met its goals in women empowerment and well being looking from the perspective of status change this is studied by (Rahman,1998) that 60% of loans are used by their husbands. (Ranjula Swain,2007) opines that the meaning of empowerment is rather complex to explain and in stricter sense women are not
-
-Rajeev G* Jansons School of Business, Karumathampatti, Coimbatore, Tamilnadu-641659, India Prof. C. Suriyaprakash. PhD** Jansons School of Business, Karumathamapatti, Coimbatore, Tamilnadu-641659, India
-
-1.2 SHGs Role and Functioning SHGs are primarily formed for the empowerment of marginalized in the society. They are informal associations formed for reaping the economic and social benefits through solidarity and mutual support. Kudumbasree also follows the concept of SHGs for bringing prosperity to poor women in Kerala. Even
+This paper analyses the impact of demographic facto rs on the Neighbourhood Group (NHG)performance of Kudumbashree in Trivandrum, Ker ala. The results showed that there is significant difference between that performances of the groups as the demographic factors differ. Analysis were done on the survey data collected fro m NHG.The paper also throws light on the aspects of homogeneity parameters which might have to be relooked while constituting the groups. Key factors like education and age are some very important aspects which can be used effectively to constitute the group.The authorities also can lo ok at focal points which if intervened can considerably improve the performance. The purpose o f joining the group also can be looked upon while considering the homogeneity. Paper focuses on demographics as the homogeneity is often overlooked and taken for granted in group formation which needs to be inquired.

@@ -1,23 +1,13 @@
-# hold.
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 01b7d6a3a6554ee1051964a940a2f0edcb5cd840
+title: R2504D-PDF-ENG
+---
+## HBR / Magazine Article / The Conflict-Intelligent Leader
 
-In her 12-year tenure at PepsiCo, Indra Nooyi illustrated similar
+conﬂict. In both Afghanistan and later Syria, he engaged neighboring
 
-adaptivity. Nooyi faced a ﬁrestorm when she became CEO, in 2006: Soda
+countries and regional powers, understanding that local conﬂicts often
 
-sales were in decline, competition from rival companies had intensiﬁed,
-
-and consumers were demanding healthful food and beverage options.
-
-Tensions were rising between executives in the traditional carbonated
-
-beverages division, who were resisting change, and those overseeing
-
-healthful products, which required new approaches. Units in emerging
-
-markets wanted localized strategies, while the North American units
-
-expected uniform global ones. Investors and the board were pressuring
-
-PepsiCo to improve quarterly earnings, which conﬂicted with Nooyi’s long-term vision emphasizing healthful oﬀerings and sustainability.
-
-These competing viewpoints led to ﬁghts over resources, marketing
+had international dimensions that needed to be addressed for peace to

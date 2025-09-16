@@ -1,9 +1,19 @@
-# the future.
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89b2c0026edf79d00a9255dc1fbee33af3e06312
+title: R2503C-PDF-ENG
+---
+## HBR / Magazine Article / Lean Strategy Making
 
-It’s also important to note that the MYO is not a plan. It doesn’t include
+Todd McLellan’s photo series from the book Things Come Apart features objects that have been deconstructed and rearranged to examine how their component parts work together.
 
-assumptions about productivity gains, favorable pricing changes,
+The next step is to compare the performance ambition against a
 
-improved asset management, or other factors often incorporated into
+multiyear outlook (MYO), which projects what a company’s future
 
-ﬁnancial plans or forecasts. Instead, the MYO is designed to capture
+performance will be, given the decisions and resource commitments its
+
+leadership has already made. Critically, the MYO does not account for
+
+decisions that haven’t been made yet, even if they’re likely to be made in

@@ -1,1 +1,15 @@
-## Keywords: board of directors; team dynamics; corporate ﬁnancial performance
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 39619dca29e3afd4a318af68bb08ea641967b9f5
+title: original_article
+---
+# Original Article
+
+Improving corporate performance by enhancing team dynamics at the board level
+
+Received (in revised form): 3rd November 2013
+
+Solange Charas is President of Charas Consulting, Inc., providing board and C-Suite advisory services. She is currently completing her PhD in Management at Case Western Reserve University, specializing in upper echelon team efficacy. Her works have been published and cited in both academic and practitioner journals including The International Journal of Disclosure and Governance, Academy of Management, Harvard Business Review (HBR.org), The Corporate Board Magazine, The Agenda, Forbes.com and The LATimes. Her research has won Best Paper awards at academic conferences. She has over 25 years of consulting and C-suite-level experience with organizations across all industries, maturities and sizes. She has served as a board director in both public and private for-profit organizations and is a certified Team Coach.
+
+ABSTRACT Board performance research conducted over the last 50 years has focused on indi- vidual directors’ economically-motivated behaviors and outcomes, and has generated inconsistent and disappointing results. Most research does not consider the board as a team, despite recent calls for a focus on collective board processes and behaviors. A recent survey revealed that 90 per cent of directors rate their individual performance as very effective but only 30 per cent rate overall board performance at an equivalent level, exposing a gap that needs to be addressed. The dis- crepancy between individual and team performance effectiveness was the focus of this research, based on original data from 182 directors and their assessment of their board’s dynamic, team task performance efﬁcacy, team potency and the impact of their activities, as a board, on ﬁrm proﬁtability. Our ﬁndings show that director experience, social network and cultural intelligence quotient, as well as their ability to achieve high levels of team interaction – thereby lowering information asymmetry – have a signiﬁcant impact on corporate proﬁtability. Our study demon- strates that the impact of board functioning as a team is an eight times greater predictor of corporate performance than individual director demographics. We found that this team dynamic as well as team potency has a positive impact on proﬁtability, while the focus on compliance- oriented tasks has a signiﬁcantly negative effect on proﬁtability. The insights of this study should help boards and their advisors better focus their efforts to improve team dynamic, optimize board interactions and refocus their attention on value-creating activities. We also believe that improv- ing board team dynamics will have an unintended consequence of bringing a level of individual and team satisfaction back to the boardroom. International Journal of Disclosure and Governance (2015) 12, 107–131. doi:10.1057/jdg.2013.35; published online 9 January 2014

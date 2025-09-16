@@ -1,13 +1,23 @@
-# What Constitutes a Sabbatical?
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c64c621dfbe9350eb000f04a5ed7e5c9180eef74
+title: H08LRM-PDF-ENG
+---
+## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
 
-There’s no universally agreed-upon deﬁnition of sabbatical, even among
+In an eﬀort to encourage more people to pursue sabbaticals — and to
 
-academics, where the practice originated as a way to learn about new
+reap the career and life rewards — I have spent the past seven years
 
-ﬁelds of studies and to rest and recover. For our purposes, the deﬁnition
+studying the ins and outs of successful sabbaticals. Here I’ll answer the
 
-is simple: an intentional extended leave from your job-related work.
+most common questions about them: What distinguishes a sabbatical
 
-Some employers oﬀer a formal beneﬁt of paid or unpaid sabbaticals.
+from a long vacation? Who takes them and why? What challenges must
 
-But many people choose to take one without the promise or security to
+be overcome to do so, and how do you ensure a meaningful experience?
+
+(To share your sabbatical experience and be included in my research,
+
+take this survey.)

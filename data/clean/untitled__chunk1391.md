@@ -1,3 +1,7 @@
-## Individual–Social World Dualism Revisited
-
-Changes in social psychology’s vision of man, including ways to conceptualize the individual, social relations, and the “ensuing riddle of their relationship”—or, “the endless prob- lem of how the individual stood vis-à-vis the world”—would meet additional challenges from social movements such as second wave feminism, black civil rights, and gay and les- bian rights, as well as from war protests (Riley, 1988, p. 15; Richards, 1997). That social psychology suffered theoreti- cally and research-wise on the social side of its psychological equation was a signiﬁcant part of the storm social psychology would have to weather in the 1970s. But, the problem went beyond the nature of the relation of this dualism’s polar opposites. Instead, the dualism itself, as that of the nature- nurture divide, would eventually be undermined (Henriques, Hollway, Urwin, Venn, & Walkerdine, 1984/1998; Richards, 1997; Parker & Shotter, 1990).
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 27037e0087e237663d9ad892494e279d531dad2e
+title: untitled
+---
+## SOCIAL MOVEMENTS AND MOVEMENTS FOR CHANGE IN SOCIAL PSYCHOLOGY

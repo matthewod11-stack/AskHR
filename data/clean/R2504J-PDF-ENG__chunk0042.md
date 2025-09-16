@@ -1,21 +1,13 @@
-## reaction from the stock market than the complex ones with many.
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8bbb5dbc62e1ee1d6bb11850ea9cb3b0de100e7
+title: R2504J-PDF-ENG
+---
+## good framework—consists primarily of a few main components that
 
-That ﬁnding aligns with a study by Michigan State University professor
+allow people to logically ﬁll in the details, like the operational choices
 
-Gerry McNamara and colleagues, who examined executives’ mental
+that must be made to support them. Our analysis showed that simple
 
-models about types of competitors in their industries and found that
-
-the companies of executives whose models had fewer elements had
-
-signiﬁcantly better ﬁnancial performance. It also aligns with studies
-
-by Jennifer Summerﬁeld using fMRI imaging, which show that people
-
-need only three concepts to create rich, coherent stories.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+visualizations with fewer components got a much more positive

@@ -1,59 +1,31 @@
-## HBR / Digital Article / When You Can Tell Someone Isn’t Listening to You
+---
+source_path: H08HRO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cd13f708c30445762c421f5e1baaab0a8223057
+title: H08HRO-PDF-ENG
+---
+# Ask them a question.
 
-more?” This type of question can elicit rich responses to your initial
+The next step is to actively re-engage your counterpart. Asking a direct
 
-query, and also puts the onus on the other person to ﬁll in the blanks.
+question is the easiest way to capture the attention of someone who
 
-Sometimes we are too quick to listen to a question and then move on
+seems distracted.
 
-to a diﬀerent topic, so take time to truly focus on your counterpart’s
+Try using their name and asking an open-ended question, such as:
 
-response before moving on to something else.
+“How have you handled this before?” or “What do you think?” These
 
-If your counterpart is truly ignoring you, you can gently ask, “Hey, is
+kinds of open-ended questions require more than just a “yes” or “no”
 
-everything okay? You seem distracted and I want to make sure nothing’s
+answer, making your counterpart more likely to respond at length.
 
-going on.” Remember, positive intent is important so it doesn’t feel like
+Once they respond, keep them engaged by asking a follow-up question.
 
-you’re attacking them.
-
-Change the rhythm.
-
-If the rhythm of the conversation is feeling oﬀ-tempo, you have a few
-
-other options for changing it up.
-
-You could stop talking and let silence do the work. Eventually your
-
-counterpart will look back at you, then you can smile and ask them one
-
-of the above questions to continue the conversation.
-
-Sometimes a physical reset can help refocus the conversation. Shifting
-
-your physical position can reset engagement, particularly in long
-
-meetings or casual one-on-one discussions. If you’ve been seated, move
-
-to stand up. If you’ve been standing, say something like, “Why don’t we
-
-sit down?”
-
-The best communicators aren’t just great speakers—they’re also great
-
-listeners who know how to bring others back into the conversation.
-
-. . .
-
-In a world ﬁlled with distractions, we need to master the art of capturing
-
-and keeping people’s attention. We have a number of verbal and
-
-nonverbal tools at our disposal. And small shifts—both in mindset and
+The most powerful follow-up question I like to ask is “Can you tell me
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

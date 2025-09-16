@@ -1,21 +1,7 @@
-# We Are/Getty Images
-
-There are times in our jobs where we may feel disappointment or
-
-frustration, but mostly on the surface. Think missing a deadline with
-
-your team or not getting a long-shot promotion. Usually, we manage
-
-to ﬁgure out a solution or next steps without the moment completely
-
-rocking our world.
-
-Then there are moments when everything shifts and you lose something
-
-in your career that’s deeply meaningful. As author and host of The
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22db6582aa901d1a72c6cb7bb727b92b08f3bff5
+title: H08MFI-PDF-ENG
+---
+## Published on HBR.org / February 14, 2025 / Reprint H08MFI

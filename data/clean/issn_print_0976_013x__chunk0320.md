@@ -1,5 +1,9 @@
-# speed, accuracy by automation and intelligent production system (Longo et al., 2020).
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: fd2173d85303053abde598d74c098b8599849009
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-The concept of Industry 4.0, wherein automation and robotics have been utilized as
-
-competitors to humans, now under the aegis of Industry 5.0 practices will rely on
+explore the hybrid potential of cognitive skills, critical thinking abilities of humans and

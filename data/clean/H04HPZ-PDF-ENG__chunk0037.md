@@ -1,11 +1,9 @@
-## of 1,024 organizational discrimination and harassment court decisions
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 230a1c8ebe81cb7100557f73371e251d21cc1a42
+title: H04HPZ-PDF-ENG
+---
+## My colleagues Linda Krieger, Scott Eliason, Catherine Albiston, and
 
-beginning in 1965 — after the passage of the Civil Rights Act — and
-
-continuing through 1999. Later, Brent Nakamura and I coded and
-
-analyzed a follow-up representative sample of 164 court decisions
-
-at ﬁve-year intervals after 1999: 2004, 2009, and 2014. We coded
-
-references to all types of organizational structures, including what were
+Virginia Mellema, and I collected and coded a representative sample

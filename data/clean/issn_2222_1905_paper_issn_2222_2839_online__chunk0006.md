@@ -1,21 +1,7 @@
-# organisations.
-
-It is however suggested that there could be more studies on which other factors (for example family
-
-background) would likely affect response of employees to change initiatives.
-
-References Abdullahi, Y. W. & Kherun, N. A. (2014), Change Management for the implementation of ICT applications in
-
-Nigerian Construction Industry. Journal of Physical Science and Innovation, 6(1), 62 – 69.
-
-Abdulraheem, I., Mordi, C., Ojo, Y. & Ajonbadi, H. (2013). Outcomes of planned organisational change in the Nigerian public sector: Insights from the Nigerian higher education institutions. Economic Insights – Trends and Challenges, II (LXV), 26 – 37.
-
-Adeniji, A.A., Osibanjo, O.A. & Abiodun, A.J. (2013). Organizational Change and Human Resource Management Interventions: An Investigation of the Nigerian Banking Industry. Serbian Journal of
-
-Management, 8(2), 139-154.
-
-Armstrong, M. (2009). Armstrong; handbook of human resource management practice.London, Kogan Press. Austn, O.O.. & Isaac, Z.O. (2012). Organisational development: The management of change in industrial organisations in Nigeria. International Journal of Asian Social Science, 2(5), 577-582. Babalola, S.S. (2013). The impact of commitment and job insecurity on openness to organizational change: The
-
-case of Nigerian Civil Aviation Industry. Journal of Business Management, 7(3), 206-212.
-
-Bamford, D. R. & Forrester, P. L. (2003). Managing planned and emergent change within an operations management environment. International Journal of Operations & Production Management, 23(5), 546–564. Bengat, J., Odenyo, M., & Rotich, J. (2015). Organizational change and resistance dilemmas resolution approaches
+---
+source_path: issn_2222_1905_paper_issn_2222_2839_online.md
+pages: n/a-n/a
+chunk_id: ababfac9bff79fdace237793a7f3bc746eaafe59
+title: issn_2222_1905_paper_issn_2222_2839_online
+---
+margin, customer service delivery and operational cost reduction performance. Olajide (2014) looked into the effects of change management on organizational performance of the Nigerian telecoms industries. The result revealed that changes in technology has a significant effect on performance and that changes in customer taste has a significant effect on customer’s patronage. It was also confirmed that changes in management via leadership has a significant effect on employee’s performance. Onyango (2014), investigated the causal effects of organization culture on change management using descriptive survey research design. The study found out that organization beliefs/ values as part of organization culture, affects change management. Organization norms was found to have no significant effects on Change Management, while support by top Management was found to have significant effect on Change Management in the organization. These findings are similar to the findings of Ojo (2009), who found out that corporate culture affects performance. Muo (2014), in a survey of a diverse sample of managers in 5 South-Western States of Nigeria confirmed the perception that resistance is the greatest obstacle to change management, and that the impact of change resistance is mostly negative. Okiiya, Kisiangani & Oparanya (2015), in a study to establish change management practices adopted by Public Secondary Schools in Siaya Sub County; found out that change management practices adopted by the institutions significantly influenced performance. - 4. Conceptual Framework Figure 4.1 Change Management, Change Resistance and Organisational Change Model. Source: Developed by the author (2016) - 5. Findings From The Literature Coming from the literature reviewed are that: - 1. Two out of three change initiatives fail due to the inability to manage change effectively. 2. Participation and Communication of change improved employee trust in the change process. 3. 4. Organisational culture and top management support have significant effect on change management and acceptance. - 5. The type of management practices adopted significantly influenced performance. - 6. Conclusion and Recommendations. Handling of change is a major determinant of organisational success. This is so because organisations must compete for the meagre resources in the environment, but that environment in itself is dynamic and ever changing. The organisation then cannot but be prepared for change at all times. No organisation can be boast of better performance without giving adequate attention to the need for change and the change management process. Organizational chieftains should be open and consultative about change, encourage those who have issues with the change process to come forward and ensure that negative feedback about proposed change programmes are evaluated and possibly accommodated, where meaningful. Two useful strategies for attaining this objective are building organized disagreement into the change process, and effective use of employee surveys. 114 European Journal of Business and Management www.iiste.org ISSN 2222-1905 (Paper) ISSN 2222-2839 (Online) Vol.10, No.26, 2018 In all, it is important to engage experts in human capital management to handle change implementation in the

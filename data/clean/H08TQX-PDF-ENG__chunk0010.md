@@ -1,23 +1,35 @@
-## helpful toward coworkers, more likely to share positive feelings about
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c0647544273f6fee03b874d3cfd776212cff6df
+title: H08TQX-PDF-ENG
+---
+## HBR / Digital Article / New Research on How to Get Workplace Rituals Right
 
-the organization, and less likely to search for a new job. However, when
+one study, we asked employees to describe how they felt at these
 
-employees encountered a greater share of negative experiences at the
+events. In line with previous work, we found that complex rituals can
 
-event (stating that some groups of employees were excluded or that they personally felt insuﬃciently appreciated, for example), these beneﬁts
+make employees feel more connected to their colleagues and have more
 
-disappeared.
+positive feelings about their company. But we also found that they can
 
-The takeaway is clear: for workplace rituals to eﬀectively drive
+make employees feel excluded, inauthentic, underappreciated, and like
 
-positive outcomes, the presence of positive experiences is necessary, but not suﬃcient. When planning a complex ritual event, like the
+they’re making a personal sacriﬁce.
 
-annual holiday party, it may be easy to focus on a great location,
+To examine how these positive and negative responses to complex
 
-awesome food, and a fun atmosphere—and all of this is important.
+rituals impact subsequent employee engagement and behavior, we
 
-But it is equally important to make sure that negative experiences
+conducted two additional studies in the U.S. and Germany. Both studies
 
-(such as asking employees to make personal sacriﬁces to attend and insuﬃciently expressing appreciation toward them) are prevented.
+examined the eﬀects that complex rituals had in the weeks and months
 
-Otherwise, organizations risk getting zero return on their investment
+following the ritual event. Consistent with prior research, we found that
+
+when employees reported having more positive experiences at the event
+
+(such as having meaningful social interactions or being recognized by
+
+leaders for their work), they were subsequently more engaged, more

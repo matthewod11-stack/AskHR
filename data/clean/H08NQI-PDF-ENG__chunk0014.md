@@ -1,13 +1,17 @@
-# shareholders.
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14d9cd0ec47a792e8a2a28dce9a18c3cec7b5bbf
+title: H08NQI-PDF-ENG
+---
+# decency.
 
-This is a “show don’t tell” challenge. For example, Uber’s leaders
+Our work suggests that low empathy is a big deal, as people don’t trust
 
-showed drivers they cared about their experience by responding to
+leaders who seem to be primarily in it for themselves. When we worked
 
-their demands for in-app tipping functionality. They showed riders that
+with Uber’s senior team to rebuild trust after its own crisis in leadership,
 
-they were listening to their concerns by adding safety features to the
+the company quickly made it clear to drivers, riders, and regulators
 
-rideshare experience. These eﬀorts helped to rebuild the foundation
-
-of stakeholder trust that has enabled the company’s successful run in
+that it also cared about their interests—not just the enrichment of their

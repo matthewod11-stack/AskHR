@@ -1,15 +1,25 @@
-## agility (see Doing Agile Right: Transformation Without Chaos, Harvard
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48dc2f113ec8f2773107de27c1ef17cf1019211e
+title: R2502C-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Strategic Fit
 
-Business Review Press, 2020); and how to increase value creation for
+Unfortunately, strategic ﬁt has been more easily described by academics
 
-the beneﬁt of all stakeholders, including how individual companies can
+than done by executives. Even leaders who appreciate the value of
 
-model and measure it (see “How to Create a Stakeholder Strategy,” HBR,
+strategic ﬁt struggle to understand how to achieve and sustain it. Which
 
-May–June 2023). In this article we will explain how executives can tie
+components must align? Is the process a cascading sequence of strategic
 
-these and other essential components of a successful strategy together,
+choices? How often should our strategic ﬁt be reviewed?
 
-creating a synergistic system that continually increases company value
+In previous books and articles, we have oﬀered executives methods to
 
-by improving strategic ﬁt.
+improve components of their strategy. We have described, for example,
+
+ways to develop a clear and compelling corporate purpose (see “What Successful Purpose Statements Do Diﬀerently,” HBR.org, March 1,
+
+2024); how to create an operating model that increases organizational

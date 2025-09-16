@@ -1,7 +1,15 @@
-# sustainable option.
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72db222d610de172bc73c16b718673a5c95c475d
+title: H08OSN-PDF-ENG
+---
+# glamstock/Imazins/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+When managers are overloaded as many are now, the usual leadership
 
-1
+advice is to delegate more. But what if you’ve delegated everything you
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+can and you still have too much work? If your team is drowning too,
+
+delegating more work simply means shifting the overload. This is not a

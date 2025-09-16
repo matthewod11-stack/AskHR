@@ -1,7 +1,13 @@
-# The Rise of Anti-Psychiatry
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d4b1dbccb3c6c6e1d71b16820c5bbb636b563916
+title: untitled
+---
+# The Twentieth Century
 
-A point of view arose that opposed the medical deﬁnition of psychopathological disorders. Known as “anti-psychiatry,” it drew inspiration from several sources. One source was Erving Goffman’s (1961) Asylums, which described the ef- fects of hospital rules and disciplines on patient behavior, ﬁnding their behavior similar to the inmates of other “total in- stitutions” such as convents, the military, and prisons. Scheff (1966) argued that the distinction between sane and insane is not a scientiﬁc one, but essentially a matter of social judg- ment and social labeling of the deviant.
+behavior was maladaptive but ignored the patient when be- havior was adaptive (“normal”) thereby serving to reinforce symptomatic behavior and to extinguish normal behavior. Rewarding normal behavior would provide a more rational approach to eliminating symptoms. Studies directed toward eliminating eating problems, mutism, and other symptoms, reported successes (e.g., Allyon, 1963, Allyon & Haughton, 1962) and led some public hospitals to develop large-scale “token reinforcement” programs.
 
-Perhaps the single most inﬂuential book was The Myth of Mental Illness (Szasz, 1961), in which Thomas Szasz as- serted that the mental illnesses had no established biological basis and that they were not really a proper subject for medical diagnosis and treatment. Terms such as disease, symptom, diagnosis, therapy, and the like were therefore metaphorical when applied to psychopathology. In support of his contention, he pointed out the failure to ﬁnd a biological basis for the various mental illnesses. Instead, he said, the “patient” suffers from problems of living in a stressful world, and his behavior may be best understood as a form of both communication and coping. While much of the work was centered on the problematic status of hysteria as a disease, his criticisms were addressed to the medicalization of de- viant behavior generally. He alleged that the diagnosis that
+Behavioral methods of this kind ran into criticism. One criticism was that they turned the professional ethical imper- ative to provide care and attention to the sick on its head and therefore compromised patients’rights. Another was that pa- tient improvements often were speciﬁc to the hospital setting and failed to persist after the patient was discharged. But the main factor in limiting the spread of this approach was the success of the new medications.
 
-331
+Behavior therapy proved broadly successful in treating nonpsychotic problems such as systematic desensitization of phobias, eliminating fear of ﬂying, smoking reduction, and training mentally retarded patients and passed into the reper- toire of psychiatric practice.

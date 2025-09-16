@@ -1,9 +1,9 @@
-## Veres, J. G., Green, S. B., & Boyles, W. R. (1991). Racial
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e5450b6fa0415c93d322cd02073c7d5f1d39cab5
+title: industrial_organizational_psychology_an_applied_approach
+---
+## hurdle. Personnel Administrator, 34(2), 62–64.
 
-diﬀ erences on job analysis questionnaires: An empirical study. Public Personnel Management, 20(2), 135–144.
-
-Verhaegen, P., Cober, R., de Smedt, M., & Dirkx, J. (1987). Th e
-
-adaptation of night nurses to diﬀ erent work schedules. Ergonomics, 30, 1301–1309.
-
-Vernon, H. M. (1936). Accidents and their prevention. London:
+Verdi, W. M. (1999). MBAs in I-O psychology: Barbarians at the gate or allies against organizational inertia. Th e Industrial- Organizational Psychologist, 37(2), 41–42.

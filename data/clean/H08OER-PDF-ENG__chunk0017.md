@@ -1,27 +1,23 @@
-## HBR / Digital Article / What It Takes to Fix a “Mean” Workplace
+---
+source_path: H08OER-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b52106e5d9c00b0c9519ee1afae2b904905fb0e3
+title: H08OER-PDF-ENG
+---
+# the project?
 
-- Fairness, or your perception of equitable interactions. Because Carl
+- Autonomy, or a feeling of control over events of your environment.
 
-has less experience, it feels unfair that he could derail you.
+After Carl’s remarks, you experience a reduced sense of control over
 
-A threat to any of these domains could trigger an uncivil response, but
+the direction of your presentation. You planned it so well, but now everything’s going oﬀ the rails.
 
-with all ﬁve domains threatened, it’s no wonder you almost snapped.
+- Relatedness, or your feeling of connection to others. You feel betrayed
 
-By identifying what’s driving your emotions, you can put the brakes on
+by Carl and want to avoid working closely with him in the future.
 
-your response and stop yourself from reacting in an uncivil manner.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-- 3. Break the cycle.
+4
 
-Once you’ve re-engaged your prefrontal cortex, you can consider how you’re going to communicate eﬀectively. Focus on maintaining a neutral
-
-manner. You don’t need to be overly friendly; you just want to avoid
-
-creating a threat response in anyone else.
-
-You want to be clear enough that recipients have little need to interpret
-
-your message or intent. Communicate everything that’s essential and
-
-nothing that isn’t so people don’t read hidden meanings into your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

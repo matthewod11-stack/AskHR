@@ -1,13 +1,19 @@
-# HBR / Digital Article / Is Organizational Hierarchy Getting in the Way of Innovation?
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb494702dad4d9ca32951a77e74d9afc22afcb69
+title: H07RXW-PDF-ENG
+---
+# Wozniak a greenlight?
 
-employees to enter innovative projects they had been working on over
+Embedding an intrapreneurial culture doesn’t always have to mean
 
-the past year. More than 200 employees engaged with the competition,
+the constant pursuit of new product ideas. MacMillan Learning, for
 
-entering 46 projects — which helped to reinforce the message that
+example, recently held an innovation competition, where they invited
 
-staﬀ were in fact already acting as internal intrapreneurs and, because
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-most of the ideas were internal process and organizational innovations,
+6
 
-entrepreneurial action need not always be market-facing.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

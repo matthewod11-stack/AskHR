@@ -1,5 +1,33 @@
-## time horizon, risk, and impact (on both the seller experience and the
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c005be4186400cf363e38ec9825a768be7f1c391
+title: H07BT4-PDF-ENG
+---
+# HBR / Digital Article / Why Some of Your Salespeople Are Dragging — and How to Fix It
 
-customer experience). The ﬁnal project mix was selected based on
+also beneﬁt from the perspective of their peers, clarifying which issues
 
-urgency, visibility, and resource intensity to achieve optimal return on
+were potentially systemic.
+
+Synthesize seller feedback to uncover unstated needs.
+
+Lever sellers met in small groups to discuss common pain points and
+
+decide which to prioritize in their reporting. Leadership consolidated
+
+input to distill key overarching themes and further investigate root
+
+causes of particularly consequential issues. Interestingly, leaders did
+
+not put the onus on sellers to make a business case for ﬁxing each
+
+concern raised. Instead, sellers were asked to rate the impact on either
+
+the customer experience and/or their own employee experience.
+
+Develop a mixed-project portfolio.
+
+Lever used an investment portfolio approach to analyze and prioritize
+
+the relative costs and beneﬁts of each potential project according to

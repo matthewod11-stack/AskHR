@@ -1,39 +1,17 @@
-## part of a transformation follow nine principles.
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: afc9bb9561ae9a70f027523eddbfe88798ca533f
+title: H08MHC-PDF-ENG
+---
+# What Is Designed Simplicity?
 
-They ensure that transformed workﬂows:
+We deﬁne designed simplicity as a user experience–based approach
 
-- Have no gaps or ambiguities when a transformation goes live
+to business process management that seeks to reduce complexity by
 
-- Make it easier to do the job
+designing procedures, tools, and stakeholder interactions that are easy
 
-- Are easy to understand and follow
+for users to understand and execute. Organizations that follow the
 
-- Cover even rare scenarios
-
-And when thinking about the design and implementation of those
-
-workﬂows, their leadership ensures that they:
-
-- Work as an integrated team along with managers and staﬀ
-
-- Remain closely involved, even if delegating particular tasks
-
-- Take steps to minimize added diﬃculty
-
-- Bake learning and development into actual work • Make special eﬀort to recognize change adoption
-
-These seem like common-sense principles, but most functions don’t
-
-abide by them in practice out of expediency and a fear that a focus on
-
-process will delay implementation. While that’s a reasonable concern,
-
-those following the eﬃciency-based approach reach implementation
-
-only six weeks sooner than those following designed simplicity — a
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+designed simplicity approach to designing and revising workﬂows as

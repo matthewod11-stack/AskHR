@@ -1,13 +1,7 @@
-# Do:
-
-- Determine what type of question is being asked: Is it really a STAR
-
-interview question? If you aren’t sure whether the answer calls for a
-
-story, answer the question without one and the interviewer will likely
-
-follow up and ask for an example.
-
-- Be memorable: Use vivid language with speciﬁc examples.
-
-- Quantify your results: Use numbers and metrics to demonstrate
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c60838c5ecf961e8bd9ef9cab390a4da92c51da
+title: H08GNF-PDF-ENG
+---
+## The Do’s and Don’ts of Using the STAR Interview Method

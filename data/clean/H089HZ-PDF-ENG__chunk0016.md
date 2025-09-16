@@ -1,39 +1,15 @@
-# HBR / Digital Article / Leaders Need to Reframe the Return-to-Office Conversation
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c8c8d7da7c73594d244167d216dccd01ff2e8b3
+title: H089HZ-PDF-ENG
+---
+## interests on one side (e.g., the need for innovation, concerns about
 
-lower cost of living, less time spent commuting), the issue becomes
+culture) and individual interests on the other (e.g., work-life balance,
 
-harder to solve, because “wars” resist settlement and “contests” are
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-either won or lost, not redesigned.
+2
 
-Our conversations with executives and employees echo this and reveal
-
-a core assumption that wins for one side mean losses for the other.
-
-One of us, Mark, has studied remote and hybrid work for over 20 years
-
-and found ample evidence that framing the situation not as us-versus- them but as a communal objective requiring collective eﬀort works.
-
-Meanwhile, Amy has found that how an innovation or improvement opportunity is framed aﬀects its implementation success. Today’s
-
-leaders need to reframe their own narratives accordingly as they create
-
-and communicate ﬂexible work policies. Here’s how.
-
-Step 1: Acknowledge the bind, and be patient.
-
-Given the prevailing sense that the ﬂexibility conversation is one of
-
-employees versus organizations, leaders must start by acknowledging that there are trade-oﬀs to manage.
-
-To begin with, the ﬂexible work policies some organizations put in
-
-place during and immediately after the Covid pandemic prompted
-
-many employees to make signiﬁcant life changes that are not easy to
-
-undo. Some moved away from high-cost cities, while others shifted
-
-care responsibilities for children or other family members. Altering
-
-these arrangements may take time and come with ﬁnancial and other
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

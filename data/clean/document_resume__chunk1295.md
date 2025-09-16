@@ -1,5 +1,9 @@
-# 2 Marginal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 5d8f62788527a91e1a1acda1dcfb55125bd2d73b
+title: document_resume
+---
+# 3 Acceptable
 
-Participates in only those classes or programs mandatory for maintaining credentials.
-
-I Unacceptable Refrains from participating in in-service programs, workshops, or advanced study to maintain credentials and competencies in subject area.
+Attends and actively participates in programs, workshops, and classes designed for maintaining credentials and competencies.

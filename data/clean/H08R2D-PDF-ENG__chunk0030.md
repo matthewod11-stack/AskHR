@@ -1,9 +1,17 @@
-## most applicable for companies with predictable streams of revenues
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e479f7c677ba6dc3b8ddde177d9d42871e4e1be5
+title: H08R2D-PDF-ENG
+---
+## the market despite limited growth in revenues, margins, or dividends.
 
-and little ﬂuctuation in investment patterns. Take GATX, a railcar
+These stable outperformers built ﬁnancial slack, for example, by
 
-leasing company: It has paid out uninterrupted quarterly dividends
+reducing their debt-to-equity ratios by 30% on average. In this way, they
 
-since 1919. Over the last 20 years, the ﬁrm has not had a reduction
+achieved not only a high and stable cash ﬂow contribution to TSR but
 
-in dividend payouts for a single year and has maintained dividend
+also enhanced their valuation multiples by an average of 3% per year.
+
+This strategy can be observed in all industries and sectors but is

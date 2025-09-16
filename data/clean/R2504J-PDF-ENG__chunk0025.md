@@ -1,19 +1,13 @@
-# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ab7b4cb90267de24034809bd98671936a5d91b9
+title: R2504J-PDF-ENG
+---
+# customs.
 
-That brings us to the fourth subconcept, personal service. Capitec
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-hired people from the retail and hospitality industries rather than
+5
 
-from banking because it wanted to emphasize service. It could do this
-
-because its technology platform was so simple to use. What’s more, the
-
-founders reckoned that these employees’ local market knowledge and
-
-networks would deliver more sign-ups and very low loan-default rates.
-
-The staﬀ would know who the good prospects were and who was likely
-
-to pay back unsecured loans—and who wasn’t. The combination of high
-
-sign-ups and low defaults would make for a happy combination of low
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

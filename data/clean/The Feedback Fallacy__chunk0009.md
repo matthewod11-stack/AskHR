@@ -1,17 +1,21 @@
-## HBR / Magazine Article / The Feedback Fallacy
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 10cd351bc239fceb51ef3c52960c99d9ae195f0d
+title: The Feedback Fallacy
+---
+## measure you against its predeﬁned leadership competencies and then
 
-inexpertise as givens; they assume that my way is necessarily your
+suggest various courses or experiences that will enable you to acquire
 
-way. But as it turns out, in extrapolating from what creates our own
+the competencies that your results indicate you lack.
 
-performance to what might create performance in others, we overreach.
+What these three theories have in common is self-centeredness: They
 
-Research reveals that none of these theories is true. The more we
+take our own expertise and what we are sure is our colleagues’
 
-depend on them, and the more technology we base on them, the less
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-learning and productivity we will get from others. To understand why
+3
 
-and to see the path to a more eﬀective way of improving performance,
-
-let’s look more closely at each theory in turn.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,35 @@
-## HBR / Spotlight / The Secret to Successful AI-Driven Process Redesign
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5058c1303541a52623ef3d0ada3f3bd73e1f9c4
+title: S25012-PDF-ENG
+---
+## handle timely payment collection, patient insurance veriﬁcation, prior
 
-successfully identiﬁed the completion of a workﬂow with 90% precision
+authorization, and claims processing. A second experiment involved
 
-and 84% recall. Those results suggest that the model could automate
+invoice processing at a large B2B enterprise, which was similarly
 
-entirely new categories of workﬂows, such as those that contain hard-
+complex, given the many contracts with widely varying conditions that
 
-to-describe steps, require complex decision-making, or are knowledge-
+the company dealt with. Most of the work in the two processes was still
+
+manual, despite attempts to automate it.
+
+To overcome the limitations of RPA, the researchers employed a
+
+multimodal foundation model that learned from humans by watching
+
+video demonstrations and reading documents, greatly reducing set-up
+
+costs. The model, which encompassed a variety of agents executing diﬀerent tasks, identiﬁed every step of each workﬂow with 93%
+
+accuracy. It leveraged its reasoning and visual-comprehension abilities
+
+to formulate plans of action, monitored itself and corrected errors, and
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+13
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

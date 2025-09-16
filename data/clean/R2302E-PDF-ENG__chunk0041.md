@@ -1,9 +1,19 @@
-## awkward silences after someone oﬀers an idea and everyone waits for
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76e6958b04e14339143b2e2db93eb140d7c6116c
+title: R2302E-PDF-ENG
+---
+## HBR / Magazine Article / You Need Two Leadership Gears
 
-you to express an opinion. One possible remedy: Leave—or never enter
+I can tell when they need a boost in motivation because the season is
 
-—the room. At Pixar, Catmull asked Steve Jobs not to show up at brain-
+long and requires much persistence. Those are the moments where I
 
-trust meetings because he felt that Jobs’s presence would stiﬂe the ﬂow
+give them power.”
 
-of suggestions made by the ﬁlmmakers.
+Leave the room. If you’re the most powerful person in the room, no
+
+matter what you do or say, your mere presence can be intimidating.
+
+Your authority alone can squelch comment and debate and create

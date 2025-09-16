@@ -1,33 +1,35 @@
-## emotional system, the limbic system of your brain, like anything else
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40867197720a4a752c2bff0bc759b4942daf8378
+title: H07SHV-PDF-ENG
+---
+# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-that you would be managing.
+They’re what mathematicians would call a complex problem. That’s
 
-Thinking about it as a complex system that you’re participating in,
+a problem that’s very easy to understand and that no amount of
 
-and using the techniques that we talk about in the class, which start
+computational horsepower can solve it for you. You can only get in it
 
-with basically this idea of learning how to experience your emotions,
+and experience it and work with it in real time.
 
-not as they’re delivered to you, but in the prefrontal cortex of your
+A cat is a complex problem. A toaster is a complicated problem. Your job
 
-brain so that you can decide how to react, substitute emotions, and
+is more like a toaster and your relationships are more like a cat. Your
 
-even disregard the emotions, but on purpose. That’s a speciﬁc set of
+feelings are highly complex. The result is that I can master all these
 
-techniques called metacognition that I walk through based on cutting-
+highly complicated things, but I can’t get my mind around my feelings.
 
-edge neuroscience. Anybody can do it.
+The solution starts with understanding the science of human emotion.
 
-The problem is, we don’t teach kids to do this. We don’t teach school
+This is what I’m doing in a lot of my work. This is when my HBS
 
-kids to do this. We don’t teach business people to do this. If I had my
+students come to me, these phenomenally talented and successful MBA
 
-way, every business school and every high school would have this class,
+students, really at the best business school in the world. And they’ll say,
 
-and when you came to work for a big company, they would have a class
+“My biggest problem is I can’t manage how I feel, and I feel like I’m
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+really out of control.” So the number one skill that we get is to treat your

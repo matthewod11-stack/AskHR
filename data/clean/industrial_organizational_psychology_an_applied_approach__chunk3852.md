@@ -1,7 +1,7 @@
-# outside the organization.
-
-External validity The extent to which research results can be expected to hold true outside the specific setting in which they were obtained.
-
-Extrinsic motivation Work motivation that arises from such nonpersonal factors as pay, coworkers, and opportunities for advancement.
-
-Face validity The extent to which a test appears to be
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0666d44b8c07657d3d0e44aa449d895d1229965e
+title: industrial_organizational_psychology_an_applied_approach
+---
+## External recruitment Recruiting employees from

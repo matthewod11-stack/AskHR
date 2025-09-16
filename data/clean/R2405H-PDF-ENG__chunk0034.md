@@ -1,15 +1,9 @@
-## incident rate of 0.02 per 200,000 work hours in 2022.
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e7b7c38c2a73278f79ba588a4b0a27f88d8b8d7
+title: R2405H-PDF-ENG
+---
+## employee evaluations and decision-making at all levels. ExxonMobil
 
-When adopting safety as a strategic goal, however, managers should
-
-avoid making it a stand-alone initiative. Doing so will only serve to
-
-divorce it from the core business strategy. In our experience, when
-
-safety is treated as a separate initiative, it quickly becomes an exercise
-
-in cost reduction and compliance. Employees see it as an additional
-
-burden, not an integral part of their job or the company’s strategy, and
-
-resources are cut at the ﬁrst sign of ﬁnancial pressure.
+has an industry-leading personnel-safety performance with a lost-time

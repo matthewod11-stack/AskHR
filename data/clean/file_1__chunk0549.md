@@ -1,41 +1,11 @@
-# Sign.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: fd823029e41dc151d918c9ad48e80368b33d0b07
+title: file_1
+---
+## Note. N=455. DV = Organizational commitment
 
-.000
+Notes. The residual of this General Linear Model was used as an indication of pay inequity.
 
-.062
-
-.024
-
-.022
-
-.022
-
-.000
-
-.056
-
-.855
-
-.015
-
-.015
-
-.003
-
-.000
-
-.097
-
-.447
-
-.034
-
-.013
-
-.047
-
-.001
-
-.001
-
-.000
+This parameter is set to zero because it is redundant

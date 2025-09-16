@@ -1,11 +1,11 @@
-## competitive edge. A deep understanding of government regulations and
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17fdc6d64fdb0c198c2aef590a067ac2628ed0ba
+title: H08O5Y-PDF-ENG
+---
+# private sector experience.
 
-policies can be very valuable in highly regulated industries like ﬁnance,
+Further, you want to demonstrate how your inside knowledge of speciﬁc
 
-healthcare, and technology. While conﬁdentiality may preclude you
-
-from sharing all the details of what you worked on, showing which
-
-transferable skills you used to accomplish the work, as well as the
-
-unique insights you can bring to the job, will allow you to eﬀectively
+areas, such as policy and regulation development, could give you a

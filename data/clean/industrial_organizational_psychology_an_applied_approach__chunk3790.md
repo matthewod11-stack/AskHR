@@ -1,15 +1,9 @@
-## Alternate-forms reliability The extent to which two
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 589e89b63396fba6a911d92dd4b83357a6590689
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Age Discrimination in Employment Act (ADEA)
 
-forms of the same test are similar.
-
-Americans with Disabilities Act (ADA) A federal law,
-
-passed in 1990, that forbids discrimination against the physically and mentally disabled.
-
-Ammerman technique A job analysis method in which a group of job experts identifies the objectives and standards to be met by the ideal worker.
-
-Anger stage The second stage of emotional reaction to
-
-downsizing, in which employees become angry at the organization.
-
-Anxiety An organizational climate in which worry
+A federal law that, with its amendments, forbids discrimination against an individual who is over the age of 40.

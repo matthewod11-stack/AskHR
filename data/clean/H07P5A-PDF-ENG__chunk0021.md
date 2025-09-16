@@ -1,19 +1,11 @@
-# In-group/out-group bias
+---
+source_path: H07P5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ea0589bedad5b48bb9853a649cad8b50ee70466
+title: H07P5A-PDF-ENG
+---
+# HBR / Digital Article / Watch Out for These 3 Gender Biases in Performance Reviews
 
-The third form of bias that was creeping into remote-work performance
+attention to the work that everybody was doing, no matter where they
 
-evaluations was in-group/out-group bias, or giving preferential
-
-treatment to people you feel belong to a group you identify with. Not
-
-surprisingly, employees who were working remotely, and particularly those who had moved away from the oﬃce and across state lines,
-
-were increasingly seen as members of the out-group — and they had
-
-annual performance review scores that were lower by an average of
-
-20%. Beneﬁts would accrue to those in the in-group, including vertical
-
-promotions, horizontal promotions (providing employees with new
-
-opportunities to learn new skills and take on more prized tasks that
+did it, these meetings helped the company resist proximity bias.

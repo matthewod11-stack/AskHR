@@ -1,9 +1,13 @@
-# HBR / Digital Article / Boost Your Team’s Productivity by Hiring Force Multipliers
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8770bcfc3a0bc51c70a3055f76c2cf7969ff0b9
+title: H08H33-PDF-ENG
+---
+## the overall talent density of the organization, regardless of their tenure.
 
-- 3. Pay people at market rates or above.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Finally, you have to consider pay. As we see in winning NBA or NFL
+5
 
-teams, you can’t achieve excellence by paying average salaries. You may
-
-have to be willing to pay above market rate for the superstars who drive
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

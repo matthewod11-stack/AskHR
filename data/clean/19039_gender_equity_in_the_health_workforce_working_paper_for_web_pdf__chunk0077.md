@@ -1,21 +1,13 @@
-# Gender pay gap
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: 8ef98acb7bea500e83b69bc60c42ed2a8a9396e0
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+# Source: LFS data from 57 countries.
 
-Analysis based on median wages from LFS data from
+Working paper 1
 
-21 countries showed health workers face gender-related
+3
 
-gaps in pay, with female health workers earning, on average,
-
-28% less than males. This is slightly greater than global
-
-estimates of gender pay gap data, showing that women are
-
-paid approximately 22% less than men.7 The gender pay gap
-
-among health workers can be explained by several factors:
-
-different working hours between men and women (6.9%),
-
-different occupations between men and women (9.9%),
-
-and a remaining unexplainable gap of 11.2% for similar
+4

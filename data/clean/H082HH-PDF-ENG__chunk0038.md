@@ -1,11 +1,11 @@
-# Innovation that Delivers Results
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11dee1b52e3c959d0176ea58a7f99b08e99f0737
+title: H082HH-PDF-ENG
+---
+## HBR / Digital Article / The Missing Link Between Strategy and Innovation
 
-There are no crystal balls in innovation. Just like a VC ﬁrm investing in
+approaches to reinvent the online grocery experience (such as Walmart
 
-startups, you won’t know in advance which new ventures will work. This
-
-is why innovation depends on portfolio investing, experimentation,
-
-and iterative funding. But for corporate innovation, one more thing is
-
-essential: Every venture must start from an idea that ﬁts the strengths
+InHome) to match evolving customer needs.

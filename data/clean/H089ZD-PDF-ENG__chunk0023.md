@@ -1,7 +1,19 @@
-# the brand universe.
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ed96c784a5ff1107cdceb77173d6532264ea2d0
+title: H089ZD-PDF-ENG
+---
+# Japan and China.
 
-For instance, in 2017 Samsung produced a short ﬁlm, Two Lights:
+- 4. They promote their brands through content creation.
 
-Relúmĭno, that told the story of a romance between two young people
+Finally, K-brands realized early on the importance of becoming content
 
-who met a photography club for the visually impaired. The ﬁlm also spotlighted Relúmĭno, Samsung’s visual aid application for people with
+powerhouses if they wanted to reach a global audience. The idea is
+
+simple: The marketplace must be viewed as a screen. Creating your own
+
+content and translating the brand DNA across markets gives you the
+
+capability to eﬀectively tell the brand story and invite customers into

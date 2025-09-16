@@ -1,7 +1,15 @@
-# Psychological Bulletin, 35, 107–109.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: eb4863e2e014c27df1e7a60854052549d9ff15ad
+title: untitled
+---
+## normal psychology. New York: Harper & Brothers.
 
-Capps, D. (1994). An Allportian analysis of Augustine. Interna- tional Journal for the Psychology of Religion, 4, 205–228.
+Camﬁeld, T. M. (1969). Psychologists at war: The history of American psychology and the First World War. Unpublished doctoral dissertation, University of Texas, Austin.
 
-Capshew, J. H. (1999). Psychologists on the march: Science, prac- tice, and professional identity in America, 1929–1969. New York: Cambridge University Press.
+Campbell, R. J., & Bray, D. W. (1993). Use of an assessment center as an aid in management selection. Personnel Psychology, 46, 691–699.
 
-Cartwright, D., & French, J. R. P. (1939). The reliability of life-
+Cannon, W. B. (1900). The case method of teaching systematic medicine. Boston Medical and Surgical Journal, 142, 31–36.
+
+Cantril, H. (1938). [Review of the book Psychology of personality].

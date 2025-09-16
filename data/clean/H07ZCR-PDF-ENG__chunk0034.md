@@ -1,9 +1,11 @@
-# Chief product officer
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8907b6415a17b2adbd0e8cb1c37d9bd440c5a44
+title: H07ZCR-PDF-ENG
+---
+# PRODUCT
 
-Improve customer- onboarding experience to dramatically boost net promoter scores while mitigating lost revenue from clients who don’t “go live” on a solution
+New product update to further a best-in- class customer- onboarding experience
 
-- Engage product marketing agency and product team to determine critical moments in the customer journey negatively impacting the customer by January 31
-
-- Develop new processes/ functionality to test and learn as a cross- functional product- and customer- success team by February 29
-
-- Optimize based on feedback and results to launch across customer base on April 1
+4/1/2024

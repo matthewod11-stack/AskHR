@@ -1,13 +1,9 @@
-## settings like the simulator, not in the execution of the real duties.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6dee310cef19308573f2dbeae6737c3c489a68e1
+title: H07QOV-PDF-ENG
+---
+## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
 
-But I don’t think it’s possible to describe industries in the way your
-
-question implies. I think there’s variation across companies. Pick an
-
-industry like fast-moving consumer goods. It’s going to be not that hard
-
-to ﬁnd diﬀerences in cultural failure tolerance within those industries
-
-across companies. So a more sensible way to put that is that some
-
-companies are doing better than others in having a healthy tolerance
+the kinds of risks and experiments we were just talking about in safe

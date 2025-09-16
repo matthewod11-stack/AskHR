@@ -1,3 +1,11 @@
-# The APA Committee on Women in Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 85c54a73dec6d9f6d6b1a5a9a1b9ba4851659757
+title: untitled
+---
+# Organizations and Activism 261
 
-The Committee on Women in Psychology (CWP) began as the task force headed by Helen Astin in 1970; it was accorded status as a continuing committee of the APA in 1973. The committee has worked to increase the visibility of scholar- ship on women and gender, highlight the contributions of women in psychology, end discrimination against women psychologists, and promote leadership by women. More broadly, the committee has worked to promote the psycho- logical well-being of women. The CWP has actively pursued its goals through symposia, conferences, task forces, and li- aisons with government agencies and professional groups. The CWP annually makes awards to women who have been distinguished leaders in psychology.
+The division established a peer-reviewed journal, Psychol- ogy of Women Quarterly, in 1976.The journal has come to oc- cupy a visible and respected position. By 1999, it ranked 16th out of 109 psychology journals in terms of the number of timesitsarticleswerecitedinscholarlypublications.Division 35 also sponsors a program of formal and informal sessions and social events at the annual APA convention, continuing- education workshops on teaching and other topics, and a yearly midwinter conference. In addition, the division gives annual awards for excellence in feminist research, practice, and service. In 1993, the division organized the ﬁrst National Conference on Education and Training in Feminist Practice (deﬁned broadly to include research, writing, clinical prac- tice, clinical supervision, and leadership), held in Boston. Shaping the Future of Feminist Psychology (Worell & Johnson, 1997) is a summation of the conference.
+
+Division 35 was one of the ﬁrst divisions that gave prior- ity to including psychologists from racial, ethnic, and other minority groups in its membership. It also took steps to assure that its leadership represented the diversity of women in psychology. The division has also worked to ensure that women from ethnic minority groups were considered for leadership positions in the APA. It has supported APA activi- ties that advance the interests of racial and ethnic minorities and their full representation within organized psychology. The division has had a Section on Women of Color for many years; among other activities, the section has promoted re- search on and by women of color.

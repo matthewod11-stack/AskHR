@@ -1,13 +1,17 @@
-# responsibilities.
+---
+source_path: H08BI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ea4c4535e9659de1584febdcd29597ebfa8bb0c
+title: H08BI0-PDF-ENG
+---
+# mothers, and fathers). For example:
 
-- Providing challenging work opportunities can likewise convey that
+- Non-birthing parents may still beneﬁt from help navigating HR
 
-non-birthing parents are still seen as valuable workers, even while
+policies, particularly because family leave policies may be more
 
-navigating their new role as parents.
+ambiguous for workers who are not birthing parents.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- Allowing non-birthing parents to work ﬂexible hours or work
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+from home may enable them to similarly attend to childcare

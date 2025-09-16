@@ -1,21 +1,27 @@
-# Shriram Transport Finance Corporation
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 9096d378ea2e542e2640c93454f348d765b78f74
+title: final_2019_jan_feb_jbs_pmd
+---
+# Bajaj Finance
 
-0.98
+0.90
 
-0.96
+0.82
 
-45.04# 0.29
+9.03#
 
-- 1.16
+0.03
 
-0.30
+- 2.88** 0.69
 
-- 1.14
+0.42
 
-0.31
+0.13
 
-1.12
+1.77
 
 0.02
 
-3.00**
+3.29**

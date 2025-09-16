@@ -1,7 +1,9 @@
-# Legal Aspects
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 80a26a2c8bcb24a6830a8517b80345c7d17b6399
+title: document_resume
+---
+# , persons 0% er 40, etc.).
 
-performance appraisal, employers may encounter legal liability when they attempt to discharge employees for poor performance. Two impoitant soinces of at -will liability involving performance appraisal are breach of contract ac ' violation of the implied convenant of "good faith and fair dealing."11
-
-There have been a number of successful lawsuits w here the employer has been charged with breach of contract Representation made in employee handbooks, poli- cies, procedures; and direct or indirect statements are implied contracts. Once a contract has been found to exist, either in fact or by implication; the employee has a iegal claim if its terms are not followed. The common claim of breach of contract is when employers fail to follow their ovum specified procedures when discharging employees for poor performance.15
-
-Courts are also allowing wrongful discharge suits where termination constitutes a violation of the implied convenant of "good faith and fair dealing." Arbitrary and unexplained firings are often overturned, and courts are making it clear that employees are entitled to varying amounts of organizational due process.'' Employees of public institutions have additional due process rights guaranteed by the 14th Amendment to the U S Constitution In other words, an employee who is being dismissed or pressured to resign (constructively discharged) for poor performance should have an opportunity to defend his or her performance and be judged in a fail Vs,l) with explicit know ledge of the criteria on which the dismissal was based.
+t her J

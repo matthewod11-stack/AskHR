@@ -1,7 +1,11 @@
-# (2nd ed.). New York: Wiley.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f825d510056d1d10450f779441dfad2b4c6a8f5f
+title: untitled
+---
+# University of Chicago Press.
 
-LaFortune, K. A., & Carpenter, B. N. (1998). Custody evaluations: A survey of mental health professionals. Behavioral Sciences and the Law, 16, 207–224.
+Kuder, G. F., & Zytowski, D. G. (1991). Kuder Occupational Inter- est Survey Form DD: General manual (3rd ed.). Monterey, CA: CTB Macmillan/McGraw-Hill.
 
-Lees-Haley, P. R., Smith, H. H., Williams, C. W., & Dunn, J. T. (1995). Forensic neuropsychological test usage: An empirical survey. Archives of Clinical Neuropsychology, 11, 45–51.
-
-Lezak, M. D. (1995). Neuropsychological assessment (3rd ed.).
+Lacks, P. (1998). Bender Gestalt screening for brain dysfunction

@@ -1,15 +1,17 @@
-# recommendation engine?
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0a2472d582ce2b6052112463c7856c50dd0e711
+title: R2406G-PDF-ENG
+---
+## HBR / Magazine Article / Personalization Done Right
 
-- Do we automate customer segmentation?
+Know me • Does customer data live in a single repository?
 
-Show me • Do we offer tailored experiences on a 1:1 basis for every customer? 10:1?
+- Is customer data integrated throughout our other marketing systems?
 
-100:1?
+- Do we have high-quality identity resolution in place?
 
-- Are we able to conduct personalized experiences or campaigns quickly
+Reach me • Do we conduct A/B testing on our personalization efforts?
 
-from ideation to launch?
-
-- Do we use gen Al to automate the production of marketing collateral?
-
-Delight me • Do organizational or technological impediments keep us from measuring
+- Have we deployed a next-best-action deci-sioning or product

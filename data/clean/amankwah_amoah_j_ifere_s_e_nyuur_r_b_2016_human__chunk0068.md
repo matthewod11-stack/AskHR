@@ -1,7 +1,11 @@
-# the responses of
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: c300e93ddfcb9fae7e2ba401283461adf7ba853e
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Another fruitful
 
-outperformers/top stars to persistence with underperforming workers. Such analysis would
+line of research would be
 
-help to enrich our understanding of whether outperformers become demotivated and alter
-
-their routines and contributions in such high-relational contexts. Such analysis might also
+to examine

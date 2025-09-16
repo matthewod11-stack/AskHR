@@ -1,5 +1,9 @@
-# EMERGING TRENDS AND NEEDS 307
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b06b7dc81a16eef5f3beebd165660f6952060fed
+title: barrickryan_eds_personality_and_work
+---
+# Fit
 
-two in terms of some set of variables. When ﬁt concepts are part of a model, interest and cognitive ability variables are often included (Dawis & Lofquist, 1984; Gottfredson, 1986). Personality variables are now playing a more important role. De Fruyt (2002), for ex- ample, concluded that when RIASEC person-environment ﬁt in- dexes include Big Five personality variables, predictive validity increases. (See Chapter Ten, this volume, for a thorough discus- sion of ﬁt.)
-
-The concept of ﬁt is not new; it is fundamental in vocational counseling and personnel psychology (Dawis and Lofquist’s the- ory of work adjustment [1984], Holland’s theory of vocational choice [1985], Gottfredson’s occupational aptitude patterns map [1986]), as well as in organizational psychology (B. Schneider’s attraction—selection—attrition cycle [1987]). Nonetheless, more careful and complete integration of congruence and ﬁt concepts in our models is needed. For example, the emphasis on classifying jobs into types or categories in some theories is unwise. Tax- onomies of jobs (job types or job families) require a stable envi- ronment, an essentially unchanging work environment. Given the changing nature of the world of work, any model we build that in- corporates job types is akin to building a sandcastle. Such models are destined to be temporary, unable to stand the test of time. In- stead, our models should incorporate individual difference vari- ables and work difference variables, not person types or job types. Fit indexes should be based on proﬁle or pattern analyses, not type analyses.
+Instead of conceptualizing the work environment as a moderator variable, many researchers have conceptualized its role in terms of ﬁt between the individual and the environment. “Fit” indexes thus involve measurement of both the individual and the situation, re- sulting in a variable indicating degree of congruence between the

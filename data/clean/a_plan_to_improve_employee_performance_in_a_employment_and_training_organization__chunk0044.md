@@ -1,15 +1,15 @@
-# Discussion
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: ee25b8e9d3396b3c50777e69fa58329fe225f005
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# productivity, communication, knowledge , clarity of mission and goals, supervision and
 
-I believe there are various solutions (alternatives) that can be implemented to
+training, can have a positive or adverse effect on employee performance , which leads to
 
-alleviate existing conditions. These existing conditions point to a lack of an effective
+meeting enrollments and performance standards . In turn, this increases/decreases the
 
-performance evaluation tool. If a counselor is properly and uniformly trained then he/she
+chances of renewed funding levels and/or increases/decreases to current funding levels,
 
-should be able to acquire the following characteristics: provide excellent customer
-
-service, top performer, productive, motivated , be clear about the organization ' s mission
-
-4
-
-and its goals, team worker , one who maximizes their potential to perform effectively and
+which fosters/creates job security for all employees.

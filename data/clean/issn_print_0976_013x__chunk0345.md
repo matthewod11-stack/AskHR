@@ -1,11 +1,9 @@
-# Chemical
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: d573512c5219065b648a6c67ec1488bb636bcb42
+title: issn_print_0976_013x
+---
+# Computers
 
-Engineering,
-
-81,
-
-153–170.
-
-https://doi.org/10.1016/j.compchemeng.2015.03.015
-
-Grabowska, S., Saniuk, S., & Gajdzik, B. (2022). Industry 5.0: improving humanization and
+&

@@ -1,31 +1,37 @@
-# boundaries, and time zones.
+---
+source_path: H08T45-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cca505bd6f60341970c0242194666aa65fb39e1
+title: H08T45-PDF-ENG
+---
+## HBR / Digital Article / 6 Steps to Reset a Demotivated Team
 
-We worked with the leadership team of a fast-moving consumer goods
+- 4. Recontract: Clarify the team’s ways of working
 
-company’s EMEA region on realigning their meeting practices. They
+Misalignment often stems from confusion about roles, priorities, and
 
-were suﬀering from meeting proliferation, where their entire days were
+how team members will actually collaborate. During a relaunch, renew
 
-spent sitting in meetings, leaving little time to get “actual work” done.
+and redeﬁne key elements of what McKinsey refers to as the “team
 
-We challenged them to be as speciﬁc as possible, considering questions
+operating system”: “the building blocks for the way team members
 
-like: Who must really be in the room, and who can receive the minutes
+collaborate, create change, and support one another.” Consider:
 
-afterward? What preparation is expected? What are our practices for
+- Roles and responsibilities: Ensure everyone knows what’s expected
 
-virtual and face-to-face meetings, including length, how to ensure all
+of them. This encompasses both written and unwritten expectations of
 
-voices are heard, and how much time to spend on checking in? And
+who speciﬁcally is responsible for which deliverables.
 
-after the meeting itself, is there time for debrieﬁng and sensemaking?
+- Decision-making processes: Clarify who makes which decisions and
 
-After going through that exercise, the team created—and upheld—new
+how input is gathered.
 
-standards, and meeting quality improved dramatically.
+- Team norms and expectations: Consider which behaviors are
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+expected, what the optimal cadence is for meetings and collaboration,
 
-5
+and when you’ll engage in feedback. It’s especially critical to regularly
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+realign and reinforce these expectations when working across borders,

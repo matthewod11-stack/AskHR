@@ -1,5 +1,11 @@
-# Freeman.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 374562dd922aab07063bd09d2b7f71d58ed6acb0
+title: untitled
+---
+# New York: Macmillan.
 
-Posner, M. I., & Shulman, G. L. (1979). Cognitive science. In E. Hearst (Ed.), The ﬁrst century of experimental psychology (pp. 371–405). Hillsdale, NJ: Erlbaum.
+Pogliano, C. (1991). Between form and function: A new science of man. The enchanted loom (pp. 144–203). New York: Oxford University Press.
 
-Prosser, C. L., & Hunter, W. S. (1936). The extinction of startle re- sponses and spinal reﬂexes in white rats. American Journal of Physiology, 117, 609–618.
+Posner, M. I., & Raichle, M. F. (1994). Images of mind. New York:

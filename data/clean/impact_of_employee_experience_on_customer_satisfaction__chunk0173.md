@@ -1,7 +1,13 @@
-# experiences.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 9a92aa5da73b4802270c20d7f4ef0831a0b7dd3e
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 3.2.1.1. Methodology of evaluation
 
-Q10: I would recommend this company to people I know as a great place to work – is
+Q1: What is your experience with Atlas Copco during recruitment process? –
 
-the eNPS question. The methodology of the eNPS question is explained in 2.6.2.1,
+representing recruitment and the evaluation is based on the feeling of employees
 
-however the main metrics are calculated:
+during recruitment, measures are a % between positive, neutral, and negative

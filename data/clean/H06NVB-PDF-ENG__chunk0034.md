@@ -1,15 +1,9 @@
-# version of yourself back to work.
+---
+source_path: H06NVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0bfa0da6f9fa3f5fad3335652e4dce6b9035e15
+title: H06NVB-PDF-ENG
+---
+## HBR / Digital Article / Navigating Postpartum Depression at Work
 
-- • •
-
-Sarah ultimately sought out professional help. It took time, but she was
-
-dedicated to improvement, and she recovered personally and
-
-professionally. In fact, AJ’s birth inspired Sarah to move into her next
-
-career phase as an entrepreneur. She started her own business, which
-
-was not only well suited for her lifestyle but thrived. She also found
-
-professional and personal relationships that are better suited for her
+make a huge difference. Know that they want you to bring your best

@@ -1,13 +1,15 @@
-# terrorist attack in Mumbai.
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd5e64ef8da4a9c02c21ffb7c862b086858b3c6a
+title: R2505C-PDF-ENG
+---
+## entrepreneurs, from the legendary Steve Jobs to the lesser-known
 
-In my research I found that individuals like these develop courage in
+Aloke Bajpai of India’s online travel agency Ixigo; and even everyday
 
-ﬁve ways: They create positive narratives, cultivate conﬁdence, take
+employees and citizens, like Facebook whistleblower Frances Haugen,
 
-small steps to boost their comprehension of the challenges they face,
+former US Airways pilot C.B. “Sully” Sullenberger, and the Taj Hotel
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+staﬀ members who risked their lives to help guests during a 2008

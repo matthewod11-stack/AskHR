@@ -1,11 +1,13 @@
-## HBR / Magazine Article / Nurturing Innovation
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89e8cfcfafa08762754faecc184d83cae6c2eaa9
+title: R2402F-PDF-ENG
+---
+## to successful cross-sector collaboration.
 
-Mentoring the collaboration is also at the core of the programs
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-organized by the Innovation Ecosystem (IECO) at Portugal’s Nova
+9
 
-School of Business and Economics. One program is Project X, a three-
-
-month innovation sprint in which 85 students work with 11 corporate
-
-innovation teams from companies in various industries (including
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

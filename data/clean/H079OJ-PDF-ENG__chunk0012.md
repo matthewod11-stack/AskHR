@@ -1,11 +1,23 @@
-## cross-generational conversations and collaboration. Absent those
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e1ee2a95411746f7508a9d0e2ef5630e2504f8a
+title: H079OJ-PDF-ENG
+---
+# business or the family.
 
-conversations, the senior generation may not learn to trust the
+Fake harmony can also create resentment in the family. People don’t
 
-junior generation and vice versa. And the junior generation may not
+feel like they can express their interests or opinions for fear of creating
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+conﬂict. Issues may be unspoken, but that doesn’t mean they’re gone.
 
-2
+Fake harmony also stiﬂes innovation. Families can be cornucopias
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of great ideas, but when individuals don’t share ideas because they
+
+are afraid to “rock the boat,” businesses and family owners miss
+
+opportunities to innovate.
+
+Fake harmony also delays generational transitions by limiting

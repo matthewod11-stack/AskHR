@@ -1,15 +1,23 @@
-## HBR / Digital Article / The Definitive HBR Strategy Glossary
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5277ccf67219b5c5340cf48c951f8591a399846c
+title: H08TKY-PDF-ENG
+---
+## Time,” by David B. Yoffie and Michael A. Cusumano (1999)
 
-reduces the chances that startups will spend a lot of time and money
+[ L ]
 
-launching products that no one will actually pay for.
+Lean startup: As a methodology for launching companies, lean startups
 
-This is in contrast to the more traditional path, where a venture’s
+begin by searching for a business model. They test, revise, and discard
 
-founders would write a business plan (complete with a ﬁve-year
+hypotheses, continually gathering customer feedback and rapidly
 
-forecast), use it to raise money, and then go into “stealth mode” to
+iterating on and reengineering their products. This strategy greatly
 
-develop their oﬀerings—all without getting much feedback from the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-people they intended to sell to.
+17
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

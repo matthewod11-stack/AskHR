@@ -1,3 +1,7 @@
-# Kluwer Academic Publishers.
-
-Bies R.J. and Moag J.S. (1986). International justice: Communication criteria of fairness. In R.J. Lewicki, B.H. Sheppard and M. Bazerman (Eds.), Research on Negotiation in Organizations (pp. 43–55). Greenwich, CT: JAI Press. Bingham L.B. (1997). Mediating employment disputes: Perceptions of redress the United States Postal Service. Review of Public Personnel
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: d96dba69b2c59aa367c7003440c88be5b9e0a38a
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+## Bayles M.D. (1990). Procedural justice: Allocating to individuals. Norwell, MA:

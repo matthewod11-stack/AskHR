@@ -1,35 +1,21 @@
-# their individual areas.
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3edacd5cfce7b0226aef5f57948deb56b23c89e
+title: S24022-PDF-ENG
+---
+# its commitment to customer success.
 
-Second, they acknowledge that growth systems require a multiple-year
+So where to start? In studying companies that have successfully
 
-journey to build and scale. CEOs and executives prioritize investment
+built elements of a growth system, we observed four behaviors that
 
-in the system even as they strive to meet near-term targets. As Frans
+help create momentum. First, growth-system companies have the full
 
-van Houten, a former CEO of Philips, says: “We talk about the need to
+support of the CEO, who is often the person instigating the work
 
-both perform and transform. If you only transform but don’t perform,
+and who plays a vital role in getting companywide buy-in. They
 
-you have no here and now. If you only perform but don’t transform,
+also have real collaboration among executive team members, who are
 
-you have no future. Therefore, in our scorecards we measure both. In
-
-our reviews we talk about both. And the targets that I give to all my
-
-executives…always [include] some transform objectives.”
-
-Third, these companies create a three- to ﬁve-year timetable, listing
-
-milestones and deliverables against the blueprint, and they inspire their
-
-teams to create the most-diﬀerentiated and -valuable capabilities to
-
-propel the system forward over the long term. This is not a ﬁnancial
-
-forecasting exercise; it’s a well-conceived road map of how the portfolio
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+committed to building a system together rather than just focusing on

@@ -1,3 +1,11 @@
-# The Kaufman Scales
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 57685b94f94a09140bcb1e33c86b76fb2e67ad17
+title: untitled
+---
+# 282 Assessment Psychology
 
-Although numerous other intelligence tests employing Binet’s mental age concept or Wechsler’s statistical approach have appeared, none has approached the visibility or popular- ity of these two measures. Perhaps most notable after Binet and Wechsler among intelligence test developers is Alan Kaufman, who in addition to writing extensively about the assessment of intelligence (Kaufman, 1990, 1994) devel- oped his own general intelligence measures for children— the Kaufman Assessment Battery for Children (K-ABC) (Kaufman & Kaufman, 1983)—and for adolescents and adults—the Kaufman Adolescent and Adult Intelligence Test (KAIT; Kaufman & Kaufman, 1993). Kaufman’s measures differed in two important respects from their predecessors. First, reﬂecting a theoretical rather than an empirical ap- proach, tasks were chosen not by testing how trial par- ticipants would respond to them, but by formulating certain constructs concerning the nature of intellectual functioning and using tasks that were considered likely to assess these constructs. Second, Kaufman included subtests designed to provide achievement as well as IQ scores, including assess- ment of abilities in reading and arithmetic.
+intelligence. In addition, because of the proﬁle of subtest scoresitoffered,comparedtothesingleIQscoreormentalage equivalent available from the Stanford-Binet, the Wechsler- Bellevue found applications in clinical health settings as a measure not only of intellectual ability but also of features of neuropsychological impairment and disordered thinking.
+
+A revised Wechsler-Bellevue-II appeared in 1946, and three further revisions of the test were published as the Wechsler Adult Intelligence Scale (WAIS), the most recent being the WAIS-III (Wechsler, 1997). The basic format and individual subtests were also extended downward to provide versions for use with young people: the Wechsler Intelligence Scale for Children (WISC) (Wechsler, 1949), the most re- cent version of which is the WISC-III (Wechsler, 1991), and the Wechsler Preschool and Primary Scale of Intelligence (WPPSI) (Wechsler, 1967), with its most recent version being the WPPSI-R (Wechsler, 1989).

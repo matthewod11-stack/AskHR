@@ -1,5 +1,9 @@
-# Prerequisites Performance planning
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 3e94193a96e034148ef6b6158e91df781caff3d6
+title: performance_management_3rd_edition_by_aguinis
+---
+# Process Component
 
-Performance execution Performance assessment Performance review Performance renewal and recontracting Rewarding team performance
-
-Source:This case is based, in part, on information available online at http://www.hr.duke.edu/ compensation. Retrieval date: September 8, 2011.
+Present at Duke University? (with comments if appropriate)

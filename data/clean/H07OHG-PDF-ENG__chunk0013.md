@@ -1,13 +1,15 @@
-## Jayasekara, chief of digital manufacturing at Rolls-Royce, which
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 747035784a8a24634e51ce20447172a48cbad603
+title: H07OHG-PDF-ENG
+---
+## and data science, that recruit, support, and train apprentices on
 
-works with Multiverse to upskill existing employees. “The experiential
+behalf of large employers. One UK-based provider, Multiverse, was
 
-learning that apprentices get through hackathons and project work
+recently valued at $1.7bn and claims to have served 10,000 apprentices.
 
-allows them to combine theory and practice in a way standard
+“We’ve long been believers in the apprenticeship model, and we’ve
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+found it particularly eﬀective for tech and digital jobs,” said Rashitha

@@ -1,7 +1,7 @@
-## on order management, and Johnson & Johnson on its supply chain. All
-
-have made signiﬁcant improvements with this narrower focus. As we
-
-mentioned earlier, this is a good way for organizations that don’t have a
-
-strong history of process management to get started.
+---
+source_path: S25011-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 89a0a7eb9f781b4df4ccfaf34268619221476afd
+title: S25011-PDF-ENG (1)
+---
+## PepsiCo on accounts receivable and payable processes, Cardinal Health

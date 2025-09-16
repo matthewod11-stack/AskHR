@@ -1,20 +1,18 @@
-# Family Medical Leave Act
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f4329de4f64365ea42fe55bd1b30d24f33a353c1
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Organizational Liability for Sexual Harassment
 
-In , Congress passed the FMLA, which entitles eligible employees (both male and female) to a minimum of  weeks of unpaid leave each year to deal with the following family matters:
+In cases of quid pro quo harassment of its employees, an organization will always be liable. In hostile environment cases, however, the U.S. Supreme Court has ruled that an organization can avoid liability by showing that it “exercised reason- able care to prevent and correct promptly any sexually harassing behavior” or that the complainant did not take reasonable advantage of the corrective opportuni- ties provided by the organization (Burlington Industries v. Ellerth, ; Faragher v. City of Boca Raton, ).
 
-7 7 7
+Preventing Sexual Harassment In determining an organization’s liability for the sexual harassing behavior of its employees, the courts look first at the organization’s attempts to prevent this behavior. To avoid liability, the organization must have a well-conceived policy regarding sexual harassment, must have communicated that policy to its employ- ees (Frederick v. Sprint, ), and must have enforced that policy (MacGregor v. Mallinckrodt, Inc., ). The policy must explain the types of harassment (Smith
 
-7
+v. First Union National Bank, ) and include a list of the names of the company officials to whom an employee should report any harassment (Gentry v. Export Packaging, ). It is important to note that organizations are also responsible for harassment committed by vendors, customers, and other third parties.
 
-Births, adoptions, or placement for foster care To care for a child, parent, or spouse with a serious health condition For employee’s own serious health condition that makes him or her unable to perform the job In , President George W. Bush signed the National Defense Authorization Act that amended the FMLA to provide  weeks of unpaid leave for a spouse, son, daughter, parent, or next of kin to care for a member of the military.
-
-All public agencies and private organizations with  or more employees physi- cally employed within a -mile radius of one another are covered by the act. Employers can decide if they want to define the eligibility period as a calendar year (i.e., January through December) or as a rolling -month period measured backward from the date an employee uses any FMLA leave. If the employer does not define its eligibility period in the employee handbook, the method most favorable to the employee will be in force (Dodaro v. Village of Glendale Heights, ).
-
-Employees are eligible if they
-
-. work for a covered employer, . have worked for the organization for at least one year, and . have worked at least , hours over the previous  months.
-
-Because the FMLA allows employees to take leave for the serious illness of a child, parent, spouse, or themselves, there has been some debate about how serious an illness has to be to qualify. The Department of Labor defines a serious health condition this way:
+Correcting Sexually Harassing Behavior If an employee complains of sexual harassment, it is essential that the orga- nization investigate the complaint quickly and then promptly take any nec- essary action to rectify the situation and punish the offender. To reduce an organization’s liability for sexual harassment, Jacobs and Kearns () advise the following:
 
 7
 
@@ -22,8 +20,24 @@ Because the FMLA allows employees to take leave for the serious illness of a chi
 
 7
 
-Any period of incapacity of more than  consecutive calendar days and at least  visits to a healthcare provider or one visit and issuance of prescription medicine (or) Any period of incapacity due to a chronic serious health condition requiring periodic treatment covering an extended period of time (or) Any period of absence to receive multiple treatments for a condition that would result in a  or more day period of incapacity if left untreated.
+7
 
-98
+7
 
-chapter 
+7
+
+7
+
+All complaints, no matter how trivial or far-fetched they appear, must be investigated. The organization’s policy must encourage victims to come forward and afford them multiple channels or sources through which to file their complaint. Complaints must be kept confidential to protect both the accused and the accuser. Information from the investigation should be kept in a file separate from the employee’s personnel file. Action must be taken to protect the accuser during the time the complaint is being investigated. Actions might include physically separating the two parties or limiting the amount of contact between them. Both the accused and the accuser must be given due process, and care must be taken to avoid an initial assumption of guilt. The results of the investigation must be communicated in writing to both parties. The severity of the punishment (if any) must match the severity of the violation.
+
+As mentioned previously, the proper handling of a sexual harassment com- plaint can protect an employer from legal liability. In such cases as Linda Roebuck v. Odie Washington () and Rheineck v. Hutchinson Technology (), courts of appeal ruled that the organization was not liable for sexual harassment because it investigated the complaint in a timely manner and then took prompt corrective action against the harasser. In contrast, in Intlekofer v. Turnage (), the court of appeals found the Veterans Administration liable for harassment because it ignored nearly two dozen complaints by a female employee and refused to take corrective action against the harasser.
+
+However, the concern for prompt action should not deny the accused due process. In , a jury awarded a man accused of sexual harassment $. mil- lion. He was fired by Miller Brewing Company for discussing an episode of the TV show Seinfeld in which Jerry Seinfeld forgot the name of a date but remem- bered that it rhymed with a female body part (Delores). The jury ruled that a rea- sonable person would not have been offended by the discussion, and thus Miller Brewing went too far in firing the accused employee.
+
+Rather than being reactive to sexual harassment complaints, it is in the best interests of an organization to be proactive, and prevent harassment. Pro- active steps include having a strong organizational policy against harassment ( Frederick v. Sprint, ) and training employees about behavior that constitutes harassment.
+
+legal issues in employee selection
+
+97
+
+In addition to the obvious legal costs, sexual harassment has other financial ramifications for an organization. Sexual harassment results in higher levels of turnover, greater absenteeism, and lower levels of productivity (Munson, Hulin, & Drasgow, ; Pratt, Burnazi, LePla, Boyce, & Baltes, ; Schneider, Swan , & Fitzgerald, ). To test your knowledge of sexual harassment, complete Exer- cise . in your workbook.

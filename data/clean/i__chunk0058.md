@@ -1,7 +1,21 @@
-# recently.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: bfa83e33536c35b2ab666dfabf5cd3aa1e9247cc
+title: i
+---
+# data, Text and Internet of Things.
 
-Internet of Things (IoT): The amount of data by IoT went up by tenfold within seven years,
+Database, where various types of structured data can be found. Data from organizations that
 
-from 2013 to 2020.
+are nicely placed on spreadsheets such as M.S. Excel, accounting systems, banking transaction
 
-9
+recording systems, etc.
+
+Raw data, which is complex, unclean, and needs preprocessing before it can be used for
+
+analyzing
+
+Text: By this, the book’s author refers to all natural language text from books, articles
+
+Images, audio, and video: this type of unstructured data which are becoming more ubiquitous

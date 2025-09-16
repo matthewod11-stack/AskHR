@@ -1,11 +1,11 @@
-## relationships (85%) and business strategy and vision (82%) as most
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77351c15b43092c2103d8c7ae559530fd804e968
+title: H08DSC-PDF-ENG
+---
+# Rise of the SuperTech Leader
 
-important. Technology strategy and vision (72%) was somewhat
+What skills should a combined tech leader should have?
 
-less important. Skills involving managing the employees of the
-
-combined technology function (38%) and technology execution
-
-skills (35%) were viewed as substantially less important. In other
-
-words, SuperTech leaders should be heavily business-oriented, with a
+Survey participants named overall leadership and senior executive

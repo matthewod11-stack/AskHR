@@ -1,13 +1,17 @@
-## HBR / Digital Article / When to Change Your Company’s P&L Responsibilities
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 453e4d0c99b96e1e392ba5404c46c0a65f04c4bc
+title: H06YIA-PDF-ENG
+---
+## depends on the continuity of your people, networks, and processes.
 
-Anticipate the unintended consequences of the change.
+In determining the pace of your change, you want to make a careful but
 
-Switching an organization’s primary dimension is a profound structural
+ﬁrm transition. Consider these four points:
 
-change, and leaders must anticipate the collateral eﬀects. When
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-changing the “anatomy” (formal structure) of the organization,
+5
 
-be mindful also of its “physiology” (processes) and “psychology”
-
-(attitudes), to use terms from researchers Christopher Bartlett and Paul
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

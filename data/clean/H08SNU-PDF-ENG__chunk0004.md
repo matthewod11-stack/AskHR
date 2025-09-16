@@ -1,21 +1,19 @@
-## HBR / Digital Article / In Turbulent Times, Consider “Strategic Subtraction”
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 811a8072e153453a5cd13e0e763e8c41861118e9
+title: H08SNU-PDF-ENG
+---
+## business uncertainty thanks to the volatile geopolitical environment
 
-To be sure, subtractive actions can be a powerful way of dealing
+and the rise of AI. In challenging contexts like this, it’s tempting for
 
-with emerging situations where resources are tight. However, they’re
+business leaders to engage in “subtractive” tactics, such as cutting costs,
 
-shortsighted if the goal is only to improve eﬃciency at the cost of other
+streamlining operations, and eliminating waste.
 
-objectives, such as resilience and visibility. Rather than simply using
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-subtractive tactics to make indiscriminate cuts, strategic subtraction
+1
 
-can help you innovate in a way that positions your organization to
-
-withstand the tumult and even rebound.
-
-This article introduces a “triple test” to help leaders gauge how any subtractive move will aﬀect three essential performance goals:
-
-eﬃciency, resilience, and prominence. We then map out six distinct
-
-subtractive transformations you can apply to meet all three objectives in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

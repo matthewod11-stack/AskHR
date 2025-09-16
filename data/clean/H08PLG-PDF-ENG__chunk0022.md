@@ -1,15 +1,17 @@
-# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c090a24512fb8fd3ae0e59247dd27917c60fb45
+title: H08PLG-PDF-ENG
+---
+# Markets
 
-or de-biasing practices can slow down that process, but they need to
+Right now, there are intense pressures on companies to bring AI—and
 
-consider the risk of losing market share as customer awareness and
+AI-powered—products to market. Companies often focus on how tests
 
-demand for such products becomes the norm. A study of 350 companies
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-revealed that 36% of them have already suﬀered commercial losses due
+4
 
-to AI bias. Meanwhile, others are diﬀerentiating their products as being
-
-less biased, such as SAP, which declared that bias is “bad business.”
-
-[ 2 ]
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

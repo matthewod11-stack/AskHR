@@ -1,17 +1,19 @@
-# presentation.
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9558b4925bde45698cbfae006f440a6e59b74246
+title: R2305F-PDF-ENG
+---
+## example, people across the world most often stereotype American
 
-In those situations Americans tend to place an especially strong
+culture as exceedingly direct. In some aspects this stereotype is true.
 
-emphasis on preserving the self-esteem of the feedback recipient,
+Americans tend to place a high value on clear, simple communication
 
-leading to common American practices such as giving three positives
+and on actions like recapping key points and conﬁrming decisions in
 
-for every negative, catching people doing things right, and using
+writing. This approach certainly feels straightforward to many. But the
 
-superlatives to accentuate the positive, even when the negative is the
+story changes when it comes to negative feedback, whether in a critical
 
-key point. (“Overall it was excellent. To this part you might want to
-
-make some small tweaks.”) This is downright confusing for people in
-
-countries where managers are much more likely to tell it like it is (the
+performance review or an evaluation of a colleague’s less-than-ideal

@@ -1,41 +1,29 @@
-# HBR / Digital Article / When Someone You Manage Isn’t Following the Return-to-Offic…
+---
+source_path: H087JX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61babb09619a13fe2244b2d89d53d652466db3d9
+title: H087JX-PDF-ENG
+---
+## and inconvenience. Lengthy rush-hour commutes and disruptions to
 
-team members has a sick child and needs to be home for three days, be
+school pickups are common complaints. In this case, explore options
 
-ﬂexible and accommodating,” says Markman. And although eliminating
+like adjusting your team’s start and end times to give them a window of
 
-the mandate is beyond your authority, you may be able to identify
+overlap with each other. Some team members could come in early and beat the traﬃc, while others could come in later after the school run,
 
-times when more work-from-home allowances could be permitted, says
+says Markman. “Think about what might make people’s lives easier and
 
-Kulik. You could propose remote work during periods that require deep
+better while still fulﬁlling the mission of the policy.”
 
-thinking or designate a “free week” each month where employees can
+While the RTO mandate may limit some of the ﬂexibility that employees
 
-choose their work location based on their tasks. Kulik says that “these
+have come to value, managers may still have the ability to provide
 
-minor compromises demonstrate to the big bosses that we all are on the
+ﬂexibility to their team members in meaningful ways. “If one of your
 
-same page” and share a desire to achieve common goals.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Another oft-cited reason employees don’t want to work at the oﬃce is
+3
 
-that it’s practically impossible to get any work done. Knowledge work is solitary, but oﬃces are often noisy. This presents an opportunity to evaluate your oﬃce environment, says Kulik. “You don’t need to gut
-
-your building or do anything dramatic.” Simple adjustments, such as
-
-relocating more chatty, social teams or designating a quiet corridor, can
-
-be eﬀective.
-
-Prioritize inclusion. To better understand the needs and concerns of
-
-your team, Kulik recommends looking at the demographic data to
-
-identify groups of employees who seem most resistant to returning to the oﬃce. This information can help you “diagnose a culture problem,”
-
-she says. For example, if your most recent hires are wary, it may be
-
-due to a lack of proper onboarding and a sense of disconnection. Or, if
-
-female employees are expressing more doubts, it may indicate a need
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

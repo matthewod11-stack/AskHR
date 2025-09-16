@@ -1,5 +1,15 @@
-# they
+---
+source_path: 4th_international_conference_on_innovative_practices_in_technology_and_managemen.md
+pages: n/a-n/a
+chunk_id: b78960c1a6fe8a3d95e1f833ccc5bc7c447d0f57
+title: 4th_international_conference_on_innovative_practices_in_technology_and_managemen
+---
+# Available
 
-improve
+[4] Rohit Punnoose, P. A., 2016. Prediction of Employee Turnover in Organizations using Machine Learning Algorithms. (IJARAI) International Journal of Advanced Research in Artificial Intelligence, 5(9), pp. 22-26.
 
-[7] R. Jain and A. Nayyar, “Predicting employee attrition using xgboost machine learning approach,” Proc. 2018 Int. Conf. Syst. Model. Adv. doi: 2018, Res. Trends, SMART 10.1109/SYSMART.2018.8746940.
+[5] K. K. Ramachandran, A. Apsara Saleth Mary, S. Hawladar, D. Asokk, B. Bhaskar, and J. R. Pitroda, “Machine learning and role of artificial intelligence in optimizing work performance and employee behavior,” Mater. Today Proc., vol. 51, pp. 2327–2331, 2022, doi: 10.1016/j.matpr.2021.11.544.
+
+[6] Valle, M.A., Varas, S., Ruz, G.A.: Job performance prediction in a call center using a naïve Bayes classifier. Expert Syst. Appl. 39, 9939–9945 (2012)
+
+A popular and comprehensible technique for predicting staff attrition is LR. This algorithm provides insights into the likelihood and variables driving attrition by modeling the chance of an employee leaving depending on input features. When it is assumed that there is a linear relationship between the predictors and the binary result of attrition, LR is more successful. (Tharani and Raj., 2020) [19, 20] It is appropriate for situations when comprehending the significance of every aspect is essential since it is straightforward and simple to interpret. In the area of employee attrition prediction, logistic regression is a useful tool due to its clarity, computing efficiency, and applicability to datasets with a reasonable amount of features, even though it may not capture complex non-linear correlations as well as some other methods. Regularization methods and feature selection should be carefully considered as the model's generalization capabilities.

@@ -1,7 +1,13 @@
-# accuracy 0.87 368
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: cab902fd6ac1e931fa759e306996c75c20128369
+title: i
+---
+## print(classification_report(y_test3,y_pred_rf))
 
-macro avg 0.72 0.54 0.54 368
+precision recall f1-score support
 
-weighted avg 0.84 0.87 0.83 368
+0 0.88 0.99 0.93 320
 
-75
+1 0.57 0.08 0.15 48

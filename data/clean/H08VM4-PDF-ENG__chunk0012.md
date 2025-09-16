@@ -1,5 +1,7 @@
-# Prevent Meeting Hangovers on Your Team
-
-A bad meeting doesn’t end when the call drops—it lingers, draining
-
-your team’s productivity and morale. To prevent these “meeting
+---
+source_path: H08VM4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cad6aaaba2883cd0e3ed9ef824d5b6761bf401c4
+title: H08VM4-PDF-ENG
+---
+# HBR / Digital Article / Our Favorite Management Tips on Leading Effective Meetings

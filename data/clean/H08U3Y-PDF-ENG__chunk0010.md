@@ -1,9 +1,11 @@
-## anticipated 80,000 families in a city of under 2 million people. At
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6778c2417519e89f2e88966cee8d50faa85eafe2
+title: H08U3Y-PDF-ENG
+---
+# The Crisis in Hamburg
 
-the time, the city had been stuck in unproductive conversations about
+In 2016, Germany decided to welcome 1 million refugees from the
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Middle East, and Hamburg was tasked with ﬁnding housing for an

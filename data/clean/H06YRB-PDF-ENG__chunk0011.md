@@ -1,19 +1,11 @@
-## domestic violence, sexual assault, racism, bias, harassment, economic
+---
+source_path: H06YRB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7a0da0ebaccd04ea8777906e4f723e8a423647e
+title: H06YRB-PDF-ENG
+---
+## HBR / Digital Article / We Need Trauma-Informed Workplaces
 
-uncertainty, political division, and more. New challenges arise every
+of the population will experience PTSD at some point in their lives.
 
-day, and conflict and strife anywhere in our globally connected world
-
-affect us all.
-
-As we’ve seen the lines between work and home blur and a fundamental
-
-shift in our expectations of the places we work, organizations have
-
-struggled to provide the support and leadership their employees and
-
-customers need. That’s why it’s so important that they take steps now to
-
-build the cultures that can see them through this crisis and the ones
-
-we’ll all inevitably face in the future. To do that, we need to build
+Trauma and distress can arise from a wide array of causes, including

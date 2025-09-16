@@ -1,11 +1,19 @@
-# Psychological Bulletin, 51, 327–358.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0b25751097b0a96353db4fb1666922915948d752
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Fisher, J. D., Rytting, M., & Heslin, R. (1976). Hands touching
 
-Flanagan, J. C., & Burns, R. K. (1955). Th e employee performance
+hands: Aﬀ ective and evaluative eﬀ ects of an interpersonal touch. Sociometry, 39, 416–421.
 
-record: A new appraisal and development tool. Harvard Business Review, 33, 95–102.
+Fisher, S. L., & Greenis, J. L. (1996). Th e customer in job analysis. Poster presented at the 11th annual conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
 
-Fleishman, E. A., & Harris, E. F. (1962). Patterns of leadership
+Fitzgibbons, A. (1997). Employees’ perceived importance of
 
-behavior related to grievances and turnover. Personnel Psychology, 15(2), 43–56.
+proﬁ t sharing plays a role in proﬁ t sharing’s organizational
 
-Fleishman, E. A., Harris, E. F., & Burtt, H. E. (1955). Leadership and supervision in industry. Columbus: Ohio State University Press.
+impact. Proceedings of the 18th Annual Graduate Conference in Industrial/Organizational Psychology and Organizational Behavior, 18, 43–44.
+
+Flanagan, J. C. (1954). Th e critical incident technique.

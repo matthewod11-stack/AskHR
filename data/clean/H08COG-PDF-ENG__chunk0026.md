@@ -1,9 +1,15 @@
-# invent Post-It notes).
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0003cd72c8cf2f3ae11b65eb2cac679e1b6caee2
+title: H08COG-PDF-ENG
+---
+# How to Build Consensus
 
-However, viewing contention as a sign of ambiguity rather than
+It might be tempting to interpret conﬂicting feedback about an idea as
 
-negativity may help you also see hidden opportunity, in addition to risk.
+a sign that the idea is a bad one and should be rejected — imagine the
 
-We propose using conﬂicting feedback as a sign that you need to explore
+contention in the 3M conference room when Spencer Silver proposed
 
-the criteria upon which evaluators are making decisions about an idea’s
+creating a product with an extremely weak adhesive (Silver went on to

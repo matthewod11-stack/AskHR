@@ -1,23 +1,47 @@
-# your employer.
+---
+source_path: H05JR3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d520bfd68fee9b35100d2f0250954167116c40b
+title: H05JR3-PDF-ENG
+---
+## HBR / Digital Article / Ramp Up Your Career After Parental Leave
 
-If you cannot articulate your answers, a parental leave is a great time to
+Navigating a system that was not designed for career paths that balance
 
-reﬂect on them. Being up with a tiny human at 3AM can give you some
+work with family can easily feel like a mission-practically-impossible even
 
-time for self-reﬂection. In my case, it was difficult to envision my long-
+in the best of times. And when the job market is weak, many people will
 
-term goals and to ﬁgure out how to achieve them until I took a break from
+become even more pessimistic about the possibility of persuading an
 
-the daily grind on my maternity leaves. During my ﬁrst leave, I resolved
+employer to accept a ﬂexible work arrangement.
 
-that I wanted to continue in consulting, a ﬁeld with predominantly male
+After two maternity leaves, I’ve discovered that some companies are
 
-leadership, as a partner at the consulting ﬁrm Oliver Wyman. But I also
+willing to let people redesign their positions in a way that will allow them
 
-wanted to leave work every day at 6PM to spend time with my family, and
+not just to continue their careers, but even to accelerate them. But it
 
-Copyright © 2020 Harvard Business School Publishing Corporation. All rights reserved.
+means setting clear goals, forensically analyzing how you spend your time,
 
-2
+consciously not doing things that aren’t core to meeting your goals, over-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+communicating, and then course-correcting when required.
+
+Set Clear Goals In order for any corporate machinery to try to accommodate your career
+
+goals, you ﬁrst need to identify them. If you’re not sure what your dreams
+
+are, no one can help you realize them. So step back and ask yourself: What
+
+is it that I really want?
+
+What are your immediate objectives after you return from your parental
+
+leave? What are your long-term goals? Do you want to run your company
+
+one day? Or do you want to slow down your career and focus on your
+
+family? Or do you hope for some combination of both? In my experience,
+
+all of these options can work — as long as you’re honest with yourself and

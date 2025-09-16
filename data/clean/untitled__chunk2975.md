@@ -1,9 +1,11 @@
-# REFERENCES
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f97199bea29a5d347f75d2904fd34a4dc9acb772
+title: untitled
+---
+# Societies
 
-Ahmed, R. A. (1992). Psychology in Arab countries. In U. P. Gielen, L. L. Adler, & N. A. Milgram (Eds.), Psychology in international perspective: 50 years of the International Coun- cil of Psychologists (pp. 127–150). Amsterdam: Swets & Zeitlinger.
+The Africa Psychology Conference, cosponsored by the IAAP and IUPsyS, took place in Durban, South Africa.
 
-Ahmed, R. A. (1997). An interview with Mustapha I. Soueif. World
-
-Psychology, 3(1/2), 13–27.
-
-Angell, J. R. (1930). Address of welcome. In Proceedings of the 9th International Congress of Psychology, New Haven, Connecticut, 1929 (p. 9). Princeton, NJ: Psychological Review.
+An International Organization of Students was founded at the XXVII International Congress of Psychology in Stockholm.

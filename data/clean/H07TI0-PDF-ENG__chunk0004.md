@@ -1,23 +1,19 @@
-# date.
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91f8add6a69b3ef7741e24790da0d9185c16a13d
+title: H07TI0-PDF-ENG
+---
+## HBR / Digital Article / A New Approach to Writing Job Descriptions
 
-Because most job descriptions are ﬁrmly embedded in the employee’s
+For example, a company that hired an employee for a certain set of tasks
 
-core area of work, they also tend to encourage silos in the organization
+might ﬁnd that four months later, a diﬀerent set of tasks takes strategic
 
-by discouraging cross-functional collaboration. Rigid job descriptions
+priority. Even though that employee has the right skills for the new
 
-also discourage experimentation with new technologies that may have
+tasks, the employee can point to their job description to decline to do
 
-been unimaginable at the time the description was written. And ﬁnally,
+the new task by saying that it wasn’t what they were hired to do — or, if
 
-narrow job descriptions can mean that an employee isn’t able to fulﬁll
-
-the full range of their talents at work, leaving them dissatisﬁed.
-
-In response, companies are starting to approach job descriptions in new,
-
-more ﬂexible ways based on outcomes, skills, and teams. I’ll describe
-
-each of these in turn, but ﬁrst let’s look at how job descriptions came to
-
-be what we know them as today, and what they do.
+they take on the new tasks, their job description becomes quickly out of

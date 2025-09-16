@@ -1,7 +1,15 @@
-# transparency on trust in leaders and their perceived effectiveness. The Leadership
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: f0ba35c9d0b65f8a33450b570be890c343064d54
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-Quarterly, 21, 350-364.
+Nohe, C., & Hertel, G. (2017). Transformational leadership and organizational citizenship
 
-Phong, L. B., Hui, L., & Son, T. T. (2018). How leadership and trust in leaders foster
+behavior: A meta-analytic test of underlying mechanisms. Frontiers in Psychology, 8,
 
-employees' behavior toward knowledge sharing. Social Behavior and Personality: An
+1364.
+
+Norman, S. M., Avolio, B. J., & Luthans, F. (2010). The impact of positivity and

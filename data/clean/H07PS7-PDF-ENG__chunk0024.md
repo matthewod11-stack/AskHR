@@ -1,11 +1,11 @@
-# ES
+---
+source_path: H07PS7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edf176ef66540407b648dba4591bc44c7c398425
+title: H07PS7-PDF-ENG
+---
+# article.
 
-Elad N. Sherf is an associate professor of organizational behavior at the Kenan-Flagler Business School, University of North Carolina, Chapel Hill. His research explores why employees frequently remain silent (versus speak up) about issues, ideas, and concerns, and how managerial attitudes and behaviors contribute to such tendencies.
+This article was originally published online on July 17, 2023.
 
-Maryam Kouchaki is a professor of management and organizations at the Kellogg School of Management. Her research explores ethics, morality, and the complexity and challenges of managing ethnic and gender diversity for organizations.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Christopher To is an assistant professor of human-resource management at the School of Management and Labor Relations, at Rutgers University. His research explores the management of workplace hierarchies, gender and racial inequalities, and interpersonal competition.

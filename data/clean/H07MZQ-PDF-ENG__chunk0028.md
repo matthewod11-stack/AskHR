@@ -1,33 +1,19 @@
-## them and the organization more successful.
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43a4a72579bbb060251ac3a87b745b12599c510f
+title: H07MZQ-PDF-ENG
+---
+## as anxiety or attention deﬁcit hyperactivity disorder (ADHD). These
 
-Regarding time, parent-determined schedules are essential. These
+lessons that parents of neurodivergent children learn very quickly can
 
-schedules can be planned somewhat in advance, but some parents may
+make them some of your best and most productive leaders.
 
-require more variability in their hours than others. This may mean that
+As workforces increasingly acknowledge neurodiversity, these parents,
 
-meetings at unusual hours are actually easier for these parents; if the
+if they choose to, are uniquely qualiﬁed to act as a bridge
 
-kids are asleep by 9 p.m., a 9:30 meeting will be less stressful than one at
+between neurodivergent and neurotypical employees and help develop
 
-5 p.m.
-
-While emotional support should include ﬁnancial resources — fair pay,
-
-mental health services, and childcare support — other employees also
-
-need to step up. Empathy and curiosity from coworkers, rather than
-
-judgment, goes a long way towards making parents of neurodivergent
-
-children feel safer and more engaged in their work.
-
-When other parent coworkers deliver anecdotes about their own
-
-experiences to try to help, they often in fact demonstrate how
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+processes, systems, and programs around neurodiversity that will make

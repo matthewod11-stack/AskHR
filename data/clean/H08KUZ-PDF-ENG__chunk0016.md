@@ -1,9 +1,11 @@
-## comprehensive overall cyber risk management.
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed316f6586a043e273e081d072636ef8dc84bd5c
+title: H08KUZ-PDF-ENG
+---
+## important gaps with signiﬁcant market implications:
 
-- Cybersecurity decisions are based on disjointed data points: A
+- A highly fragmented cybersecurity market: Multiple solution
 
-variety of cyber scores, local assessments, and questionnaires with insuﬃcient end-to-end cyber risk perspectives.
-
-- Ineﬀective assessments of cyber risk concentration: Limited
-
-capabilities to capture cyber dependencies necessary for identifying
+directions with limited capabilities to unify these for credible

@@ -1,17 +1,23 @@
-# eyes.
+---
+source_path: H06ORX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ca53b7caf81f249768adfad85e7744f5f3705c6
+title: H06ORX-PDF-ENG
+---
+# HBR / Digital Article / Rebuilding Relationships Across Teams in a Hybrid Workplace
 
-Research from NYU’s Jay Van Bavel found that our brains quickly
+Create new shared identities
 
-shift away from previously held biases when we work together in
+Humans are naturally tribal beings. We bind with and narrowly identify
 
-solidarity. In one experiment using brain imaging, a set of people
+ourselves as one of our immediate group. By default, those outside
 
-whose amygdalas revealed a variety of implicit biases about certain
+the group are “other” — and likely not to be trusted. This type of
 
-types of people showed that those biases were dramatically reduced
+we-they thinking will intensify if cross-functional connections aren’t
 
-when participants were told those same types of people were now
+strengthened. Enabling people to establish new shared identities that
 
-“on your new team.” The closer we aﬃliate with our “we” tribe, the
+bind them to one another more broadly helps reorient their brains to
 
-more outsiders become “they.” The solution requires broadening the
+new relationships, seeing colleagues who were once “they” with fresh

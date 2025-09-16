@@ -1,7 +1,13 @@
-## with lower cognitive capacity—for example, due to poor sleep. This
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f11d38a61027323207aa157a411fc52a69415a5b
+title: H08PEA-PDF-ENG
+---
+# performance tests.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+We found the results of these studies encouraging. However, it was
 
-3
+not clear whether the lower cognitive performance was a result of the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+proactive work behavior, or whether participants already began the day

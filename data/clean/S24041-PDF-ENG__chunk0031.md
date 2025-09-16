@@ -1,67 +1,41 @@
-## HBR / Spotlight Article / Power, Influence, and CEO Succession
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83ed1d23018d759ace4762185d846bf665bd99ba
+title: S24041-PDF-ENG
+---
+## During the transition phase, the incoming CEO’s main objective should
 
-For example, engineering and scientiﬁc organizations usually respond
+be to make others conﬁdent that she is well prepared to take charge.
 
-best to assertive persuasion because it’s based on facts and logic.
+That requires doing four things.
 
-People at sales-oriented companies tend to respond to incentives and
+Learn about the audiences you must inﬂuence and about how best to
 
-disincentives and to praise for achieving targets and feedback on
+convince and persuade them. The new leader must accurately read the
 
-progress toward goals. Companies that are not performing well, are
+hopes, fears, and goals of her new direct reports and of the executives
 
-under stress, and are tired of not succeeding might respond best to
+who still report to the incumbent CEO. That will enable her to tailor her
 
-a common vision because it’s a more inspirational approach. If the
+approach, choosing which push and pull styles are most likely to win
 
-strategy and operating model require intense collaboration across the
+people over to her ideas and get them behind her objectives. Though the
 
-business, leaders will be more eﬀective if they encourage input, show
+CEO and the board may press her for conclusions and quick decisions,
 
-appreciation, and are willing to be inﬂuenced themselves—that is, if
+she should take time to listen, observe, and ask questions, in hopes of
 
-they use openness and involvement.
+identifying which style will work best where.
 
-Secure the right allies and minimize the impact of opponents. Any
+Consider culture and context. The optimal inﬂuence style will depend
 
-time a new leader is poised to take over, there will be opposition. Some
+partly on the company’s norms and practices as well as on the technical,
 
-people will believe that the path the new leader represents is not best
-
-for the company. If those individuals are important to the company’s
-
-success, then the new leader should gradually and patiently try to
-
-alter their views. Others will resist for self-centered, political reasons.
-
-Perhaps they wanted the CEO position themselves, or the new leader’s
-
-change agenda threatens to erode their power. Successors should deal
-
-with outright resistance ﬁrmly and decisively (using push rather than
-
-pull styles) to send a clear message that the common good is more
-
-important than individual ambitions. But the response should ﬁt the
-
-situation: You want inﬂuential followers to approve of the way the
-
-designated successor responds to honest pushback and the way she
-
-responds when dealing with people who have a political agenda.
-
-Enhance your power by acting in a humble manner. Even once she’s
-
-been publicly identiﬁed as the heir apparent, the designated successor
-
-should tread carefully and never act as if her promotion to CEO
-
-is inevitable. Coming across as too conﬁdent oﬀers ammunition to
-
-opponents and strengthens resistance. She should solicit opinions and
+ﬁnancial, and strategic forces that aﬀect its performance right now.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-9
+8
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

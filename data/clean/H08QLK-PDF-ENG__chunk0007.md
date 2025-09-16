@@ -1,17 +1,21 @@
-# predeﬁned parameters.
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e7da3a5c3ceb8df9c71040b4ffbd875d71886bd
+title: H08QLK-PDF-ENG
+---
+## From Systems of Workflow to Systems of Work
 
-Consider Workday. Its data architecture centers on employee
+Most enterprise platforms—from Salesforce to Workday—treat
 
-records, enabling payroll processing, performance reviews, training
+organizations as systems of workﬂows. Workﬂows are processes that
 
-management, and beneﬁts administration. Completing a task like “add
+enable the organization to accomplish any task, from hiring and
 
-a new hire” or “change direct deposit” involves navigating this complex
+onboarding an employee to prospecting and expanding customer
 
-software system with explicit steps built into the user interface.
+relationships. These workﬂows are then analyzed as information
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+processing systems that map data ﬂows, automate structured analyses,
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and require users to input, monitor, and act on information within

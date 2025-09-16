@@ -1,7 +1,9 @@
-# collaborative contracting:
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fca90dd319dd258c164ceec0c6b3e4dd5ea29a6b
+title: H08IVM-PDF-ENG
+---
+## contracting and an escape from the “mitigation mindset.” Our research
 
-Leading organizations are shifting from risk transfer to value creation.
-
-This means focusing on terms that directly impact operational
-
-success and creating integrated negotiation teams that bring together
+identiﬁes three interconnected strategies that characterize successful

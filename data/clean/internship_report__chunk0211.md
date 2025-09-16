@@ -1,15 +1,21 @@
-# Compensatory allowances.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 00fb454a1baa1d8aa629615905f022ef775c5471
+title: internship_report
+---
+# proper and complete attendance report.
 
-V. The HR & Administration Department will not act upon „invalid sweep‟ or somebody forgets
+III. First half of everyday will start from 09:00am and late mark will be counted just after
 
-to sweep the ID Card.
+09:10am. Second half will start from 02:00pm and late mark will be counted just after 02:00pm
 
-VI. All members have to inform to the HR and Administration Department during Outside Duty
+(2nd half will be applicable who availed 1st half leave).
 
-(OD)/Tour. During the OD and early going for personal purpose, verbal information by the
+IV. OT (Over Time)/Compensatory allowances will be counted by Access Control System. The
 
-HOD/In-Charge is to be given to the HR and Administration Department.
+HR & Administration Department will check the time of coming in/going out and sign in the
 
-VII. “OUTSIDE DUTY (OD) REGISTER” will be maintained in the reception. Every staff
+OT/Compensatory allowances bill as per record of Access Control Machine. If anybody forgets
 
-member while going out for OD, will have to fill-up the register at his own responsibility and
+to sweep their ID CARD while leaving office, he/she may not be considered for OT/

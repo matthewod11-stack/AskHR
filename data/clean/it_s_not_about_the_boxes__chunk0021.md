@@ -1,7 +1,7 @@
-# currently available.
-
-INSIGHTS / PAGE 5
-
-in your company, in order to plan for succes- sion. This means that anyone who is in your high potential box should appear on a succes- sion chart. If they do not, what are they high potential for?
-
-employees, is to ensure that there is a specific development action agreed-upon in the talent review for every high potential leader.
+---
+source_path: it_s_not_about_the_boxes.md
+pages: n/a-n/a
+chunk_id: bafc957ebd4cf5632a2b9430e47be4abf15268ec
+title: it_s_not_about_the_boxes
+---
+## of upward potential at that moment and with the information

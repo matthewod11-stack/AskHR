@@ -1,9 +1,21 @@
-# must-have.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: c0c653fd35890362040556eb8e3614432cf472d8
+title: i
+---
+# Data Skill.
 
-Knowledge about data includes two different expertises: data expertise and analytics expertise.
+By People skill, the authors refer to the organization’s workforce, their psychology, and their
 
-Data expertise is not just about working with data itself from the very first raw form to ready-
+motivation to work. The people knowledge domain also requires knowledge about how to use
 
-to-use format, it is also required to gather, extract, clean data, and manage a database system.
+power and influence to <secure buy-in and communicate=
 
-On the other hand, analytics expertise enables analysts to mine the data for an actionable and
+Business knowledge: as concluded by different authors, the ultimate goal of PA is to enhance
+
+an organization’s performance outcome, the PA should have a a comprehensive view of the
+
+business process and understanding of organizational competitive advantages’s origin. Since
+
+the analysis begins with the business problem, business domain knowledge is undoubtedly a

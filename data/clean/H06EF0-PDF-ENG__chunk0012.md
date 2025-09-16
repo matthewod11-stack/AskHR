@@ -1,23 +1,15 @@
-# Start within.
+---
+source_path: H06EF0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 474788a22b52d975f864fb0e114f30b7013158a4
+title: H06EF0-PDF-ENG
+---
+# term pressures for proﬁts.
 
-The road to your higher ethical ambition starts with personal reﬂection
+Throughout my consulting work, I’ve discovered that honest conversations
 
-about your values and purpose in life. Take the time to have an honest
+are a crucial tool in helping leaders and their organizations successfully act
 
-conversation with yourself to help ﬁgure out what matters to you, and
+on their ethical ambitions. If you’re a CEO who aspires to lead ethically
 
-where your ethics lie.
-
-To start, write down key decisions you made in your life (for example,
-
-choice of job, spouse, and friends) and then ask yourself what motivated
-
-these decisions and what they say about you. For example, a newly
-
-appointed division manager, trained in accounting, reﬂected on why he
-
-chose to work for his company despite better offers and realized that it was
-
-the friendly, collaborative, and ethical culture. He then used this
-
-information to help deﬁne who he wanted to be as a leader.
+and with high purpose, consider the following strategies.

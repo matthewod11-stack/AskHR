@@ -1,13 +1,11 @@
-# I
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: eec3894f3141361854b7185d329625de21804c62
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# M
 
-d e d a o l n w o D
+,
 
-make in their task or relational boundaries. Physical changes refer to changes in the form, scope or number of job tasks, whereas cognitive changes refer to changing how one sees their job. For instance, a maintenance technician may craft the scope of his or her job by taking on additional tasks such as proactively helping newcomers to learn the job (Berg et al., 2010). Changing relational boundaries means exercising discretion over which colleagues employees interact with while doing their job. According to Wrzesniewski and Dutton, job crafting is about changing the job in order to experience enhanced job meaningfulness, increased person-job fit, and as a consequence, increased work engagement.
-
-The research evidence supports the positive claims made about job crafting. Tims et al. (2012) showed that self-ratings of job crafting were positively related to peer-ratings of work engagement, employability, and performance. Thus, employees who increased their job resources by, for example, asking for feedback from their supervisor and mobilizing their social networks, were most likely to be energetic and dedicated to their work. On a similar theme, Morrison (2014) recently argued in support of the important responsibility that supervisors and leaders have in enabling employees to exercise voice. Morrison defined voice as “the informal and discretionary communication by an employee of ideas, suggestions, concerns, information about problems, or opinions about work-related issues to persons who might be able to take appropriate action, with the intent to bring about improvement or change” (p. 174). Consistent with Kahn’s (1990) original conceptualization of engagement, and as modelled in Figure 1, employees who feel psychologically safe and engaged at work are willing to fully invest and express themselves in their work roles. More generally, self-initiated work behaviours such as voice, job crafting and proactive performance will be most prevalent among employees who are high in energy, involved in their work, and who strive to make their organization successful (Tims et al., 2013; Van Dyne and LePine, 1998). However, and as modelled in Figure 1, JD-R theory (Bakker and Demerouti, 2014) explains how job crafting also has an indirect influence on engagement. As such, engagement leads to job crafting, which in turn leads to increased job resources, which in turn leads to increased engagement. A similar “gain spiral” (Hakanen et al., 2008) for voice behaviour would predict that engagement leads to employees voicing suggestions or concerns, that in turn create job resources, that lead to engagement:
-
-P7. Human resource training, learning and development practices that are strategically focused on engagement will directly influence organizational climate and will indirectly influence the demands and resources experienced by employees in their work roles, the psychological experience of meaningfulness, safety and availability, engagement and attitudinal, behavioural and performance related outcomes.
-
-To summarize, the evidence described here clearly suggests that HR professionals can use top-down and bottom-up approaches to develop work engagement. Through learning and development initiatives and through self-initiated action, employees can learn to develop their job resources, manage their demands and develop their personal resources. The bottom line is that HRM professionals, through learning and development initiatives, can help create and sustain engagement in the organizational contexts within which they work.
-
-Practical implications Throughout the paper we have provided practical advice on how to structure and what to include in engagement focused HRM policies, practices, and procedures. We have,
+Y T I S R E V N U R E T S A C N A L y b

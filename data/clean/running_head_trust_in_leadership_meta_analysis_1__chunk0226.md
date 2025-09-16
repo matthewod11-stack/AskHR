@@ -1,3 +1,7 @@
-# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
-
-Lapidot, Y., Kark, R., & Shamir, B. (2007). The impact of situational vulnerability on the
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: b471de1e05151e61dd0727d1877b90c3236f66f1
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# (cid:32)(cid:52)(cid:56)(cid:32)

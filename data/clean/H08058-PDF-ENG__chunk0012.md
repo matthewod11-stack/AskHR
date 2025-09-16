@@ -1,9 +1,21 @@
-## HBR / The Big Idea / A Leader’s Guide to Navigating Employee Activism
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a25b8a4742e26fbfe26773141224509e7982a28
+title: H08058-PDF-ENG
+---
+# activists.
 
-diﬀerently than others in the organization do. We’ve written about this
+We’ve found that the ﬁrst three responses tend to lead to employee
 
-tendency for senior leaders to overestimate how approachable they are,
+silence, arising from fear and cynicism, which hurts performance and
 
-the quality of their listening, and the degree to which employees feel
+retention, so we advise staying away from them. Another key ﬁnding of
 
-able to speak out. As a result, they are often taken by surprise when
+our work is that people in management perceive their responses very
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

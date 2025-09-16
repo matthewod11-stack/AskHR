@@ -1,19 +1,7 @@
-# Cost of training
-
-Our analysis also indicates that the costs of training and relational ties are some of the reasons
-
-why firms persist with such workers. For many small businesses, the high costs of training
-
-and recruiting well-educated workers have forced them to keep some underperforming
-
-workers, as illustrated in Table 4.
-
------------------------------- Insert Table 4 about here ------------------------------
-
-The study suggests that, cumulatively, persistence with underperforming workers stems not
-
-only from external forces but also internal factors such as relational ties and idiosyncrasy
-
-credits, as depicted in Figure 1.
-
------------------------------- Insert Figure 1 about here ------------------------------
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 3f94bfa4a4172ca1072bf05a668c436659c8820c
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# after persistent underperformance.

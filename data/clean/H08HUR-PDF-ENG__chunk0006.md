@@ -1,7 +1,21 @@
-# feedback.
+---
+source_path: H08HUR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2314527758597bd2ea1ac21394944f1410a70eff
+title: H08HUR-PDF-ENG
+---
+# Signs of a Toxic Boss
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+While some bosses can be annoying, dismissive, or frustrating at times,
 
-2
+it doesn’t mean they’re toxic. So, what should you watch out for? Here
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are 10 toxic boss traits:
+
+- 1. They lack self-awareness.
+
+Toxic bosses lack the ability to recognize and control their emotions.
+
+They tend to think that they are right about everything. This inhibits
+
+their ability to create resonance with teams and generates resistance to

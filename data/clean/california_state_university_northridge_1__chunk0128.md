@@ -1,7 +1,7 @@
-# Employee Resources
-
-For employees who are experiencing problems on the job that may lead to
-
-termination, have resources within their company, which can be utilized. An employee
-
-can also take action outside of the company, which may render a decision within their
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 9a257136a660cba9a06b85298814f611dcf9e24a
+title: california_state_university_northridge_1
+---
+# Chapter Four

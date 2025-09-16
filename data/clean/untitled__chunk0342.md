@@ -1,5 +1,7 @@
-## WORLD WAR I AND THE GROWTH OF PSYCHOLOGICAL PRACTICE
-
-The foundations for the modern practice of psychology were well in place before the beginning of the First World War. Psychologists could be found working in schools, businesses, hospitals, and social and clinical service agencies. The num- ber of such individuals was still relatively small, particularly in comparison to their colleagues in colleges and universities. Two world wars would dramatically reverse that ratio. The ﬁrst would promote the rapid development of the practice specialties; the second would open the ﬂoodgates for psy- chological practice, including psychologists as independent practitioners of psychotherapy.
-
-It can be argued that American psychologists were un- prepared for World War I. On April 6, 1917, two days after America’s entry into the war, much of the leadership ofAmer- ican psychology—at least those located on the East Coast— were attending the annual meeting of E. B. Titchener’s “experimentalists” at Harvard University (see Boring, 1938, 1967). In attendance was Robert M. Yerkes (1876–1956), who was the current president of the APA. Yerkes chaired a discussion about psychology’s role in the war that led to an
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fbd82dbe6f09038e90a0e5ab900e5a249dffe426
+title: untitled
+---
+# largely as mental

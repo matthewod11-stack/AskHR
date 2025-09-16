@@ -1,11 +1,13 @@
-# Telling (high push + low pull)
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 82145f7ab23c510efb6f3e4de63add8df6e73556
+title: H08NJ7-PDF-ENG
+---
+## Picking a Style That Is Right for You (and Your Employees)
 
-At the bottom-right quadrant is the Telling (or instructive) coaching
+Use this guide to identify the most eﬀective coaching style for
 
-style. For most managers, this is their default mode. In this style, the
+your speciﬁc situation. With practice, you may even feel comfortable
 
-leader typically draws on their experience with the aim of passing on
-
-their knowledge and helping the employee achieve their goals. Since it’s
-
-“directive” in nature, coaching an employee using this style takes a lot
+switching between styles.

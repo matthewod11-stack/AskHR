@@ -1,33 +1,29 @@
-## HBR / Magazine Article / Lean Strategy Making
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8620942beed4246bbf626a2b1aa12cf764088b6
+title: R2503C-PDF-ENG
+---
+# Todd McLellan
 
-sales fell short of the plan. Leaders must probe deeper into the reasons
+This is signiﬁcantly diﬀerent from what companies typically do in
 
-behind such misses and determine whether corrective measures are
+business performance reviews. Most reviews resemble weather reports,
 
-needed.
+with the business unit and functional leaders comparing actual
 
-Few strategies, no matter how well crafted, can be executed without
+performance against the budget or operating plan. While they often
 
-adjustments over time. Market conditions and competitor strategies
+highlight variances, the common response is to tweak the plan or
 
-are always changing, often requiring companies to revise or ﬁne-tune
+task leaders with quickly addressing discrepancies. However, the true
 
-their strategies. Business performance reviews are the ideal forum for
+purpose of these reviews should be to determine whether the company
 
-assessing whether such shifts are needed. Leadership should ask, Have
+needs to alter its strategic direction. It’s not enough to merely note that
 
-the facts changed enough to suggest a better strategic alternative? If
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the answer is yes, the issue needs to be revisited. If the answer is no, leadership may still choose to intensify eﬀorts in certain areas while
+12
 
-scaling back others to realign performance with the company’s goals.
-
-Amgen, a $33 billion biotech pioneer, has successfully implemented
-
-this type of rigorous performance monitoring. At its monthly operating
-
-team meetings, which are attended by its top 30 executives, time is set
-
-aside for “performance dialogues,” which examine whether the team is
-
-executing on the commitments made against the company’s strategic
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

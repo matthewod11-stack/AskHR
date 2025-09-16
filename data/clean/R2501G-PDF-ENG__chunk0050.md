@@ -1,7 +1,9 @@
-## user base, and the cumulative impact of experiments on users over the
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7afa381ab4780e4ec8290ab8c4debb4c3cdaeb6
+title: R2501G-PDF-ENG
+---
+## the performance of experimentation programs (such as the number of
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+experiments run, the number of feature changes rolled out to the entire

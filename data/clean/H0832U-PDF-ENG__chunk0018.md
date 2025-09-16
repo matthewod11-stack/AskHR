@@ -1,15 +1,9 @@
-## with mandatory retirement ages for executives and board members, age
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee7c42b464a2f4ef2d9c52e9f5ea5cb3fa00a70b
+title: H0832U-PDF-ENG
+---
+## smarter, more creative, more innovative, and more proﬁtable. As global
 
-and generational diﬀerences take on renewed signiﬁcance. It can be
-
-tricky to ensure that your organization’s playing ﬁeld is level for people
-
-of all ages/generations to thrive. It can be challenging to ensure that job
-
-applicants and employees alike don’t feel like they must hide their age
-
-or apologize for being a member of their generation just to get access to
-
-opportunity in your organization. In short, leaders in 6G organizations
-
-must be prepared to manage the challenges created by both age-based
+life expectancy continues to increase and many organizations grapple

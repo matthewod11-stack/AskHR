@@ -1,19 +1,15 @@
-# fans.
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c989021113d01affef1f3b9419e7be42ca278cb2
+title: H08IWP-PDF-ENG
+---
+# the world.
 
-The move came as a big surprise. For two years Monahan had belittled
+In 2023 the CEO of the PGA Tour, Jay Monahan, along with two
 
-the eﬀorts made by the Saudi PIF to launch its own golf circuit —
+members of its board, concocted a partnership with the Saudi Public
 
-LIV Golf — and had justiﬁed not getting involved by publicly and
+Investment Fund (PIF) without consulting other board members or any
 
-moralistically invoking the memory of 9/11 and Saudi involvement in
-
-the attacks. But then all of a sudden, on June 6, there he was on
-
-primetime television, appearing alongside the governor of the Saudi
-
-PIF and announcing that they had privately reached an agreement
-
-for the Saudi PIF to become a multi-billion-dollar investor in the PGA Tour. This partnership, the oﬃcial press release declared, would ensure
-
-that “all stakeholders beneﬁt from a model that delivers maximum
+of the PGA Tour’s key stakeholders: players, sponsors, broadcasters, and

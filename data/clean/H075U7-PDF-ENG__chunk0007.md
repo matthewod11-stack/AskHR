@@ -1,9 +1,15 @@
-## training simulators for the cervix, uterus, and ovary examinations. He
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 056a8cb3352ac521f5e6a2dee954a15d056e5b74
+title: H075U7-PDF-ENG
+---
+# C.J. Burton/Getty Images
 
-smiled at the undergraduates and motioned to the plastic models: “Don’t
+The anatomy professor scanned the room of medical students and
 
-worry, you won’t have to do this position.” Later, a male supervisor, who
+college women. Based on the majority women group, he joked aloud, “I
 
-was told of the anatomy professor’s behavior, described him as a decades-
+should be careful or this could be a #MeToo moment.” He pointed to the
 
-long friend, saying: “Oh, he didn’t mean anything by that. He’s a good
+pelvis mannequins positioned in the open leg position. They served as

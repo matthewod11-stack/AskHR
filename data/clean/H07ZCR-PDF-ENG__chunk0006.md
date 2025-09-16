@@ -1,35 +1,37 @@
-# HBR / Digital Article / Becoming More Collaborative When Your Impulse Is to Be Territo…
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fa28d76976608c757e8f5573433cb3963266d23
+title: H07ZCR-PDF-ENG
+---
+## and overprotective of their teams, client relationships, and resources
 
-the criteria of being self-aware, deﬁned as understanding yourself and
+to preserve their ability to succeed. It’s not uncommon for talented
 
-your goals and valuing others’ opinions. Conﬂicts don’t happen in a
+leaders to compete internally with their peers for people, investment,
 
-vacuum, and it’s never too soon to hold yourself accountable for your
+and attention; in fact, it’s often that individual drive that made them
 
-contribution to a given situation.
+successful in the ﬁrst place. However, when you’re looking to scale your
 
-In Elena’s case, honest reﬂection prompted her to take a hard look at the
+leadership and reach the C-suite, this “fend for yourself” mentality will
 
-narratives she was telling herself and the biases she had formed about
+stop you in your tracks. Here are four strategies to help senior leaders
 
-her coworkers. Marliee Adams explains this concept in her book Change
+redeﬁne “winning” as a shared goal.
 
-Your Questions, Change Your Life. It’s easy to mistake being judgmental
+- 1. Enhance your self-awareness.
 
-(i.e., jumping to conclusions) with exercising judgment (i.e., creating
+You must start by uncovering your role in the situation. Examine a given
 
-space to understand someone else’s actions). Adams explains that you
+circumstance from all sides to uncover what you may have overlooked
 
-have a choice: to be a “judger” who’s inclined toward fault-ﬁnding, or a
+that’s contributing to the problem. This includes increasing your self-
 
-“learner” who leads with curiosity to understand someone’s actions.
+awareness. Research has shown that only 10% to 15% of people ﬁt
 
-To increase your self-awareness, reﬂect on the following questions:
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-What narrative am I telling myself about the situation? What assumptions am I making about the circumstances and people involved?
+2
 
-Exploring the narratives you construct can reveal underlying biases
-
-and preconceptions that may contribute to conﬂict. It also helps you
-
-connect the dots between your judgments and your decisions and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

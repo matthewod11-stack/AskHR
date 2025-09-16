@@ -1,13 +1,23 @@
-# cost-efficient addition/removal of resources or products at the equipment, production, and
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 8ae7816031c387f6f3a785c5bf062501a730c64a
+title: issn_print_0976_013x
+---
+# alternative resources and links.
 
-system level, which now has been extended at the supply chain level for design under cost-
+Despite the advances in research angles of lean, agile, resilient, sustainable, and flexible, the
 
-efficient, responsive, resilient, sustainable manner and can be considered as the prime concept
+search for a versatile integral actor which incorporates and guides research implications from
 
-to incorporate viability (Ivanov, 2020). Modularity, integrability, convertibility, scalability,
+different research aspects has been identified as reconfiguration (Dolgui et al., 2020), with its
 
-diagnosability and mass customization are the key characteristics of reconfiguration and
+origin in robotics dealing with the restructuring of modules in space. Reconfiguration has
 
-employing these characteristics, the decision and evaluation of the supply chain capacity to
+been argued, as the extension of flexible manufacturing aspects emphasizing the aid of self-
 
-adapt to changes can be performed (Biswas et al., 2019; Zidi et al., 2021a; Zidi et al., 2021b).
+adjustments and adaptability, for rapid response to changes in a cost-effective manner for
+
+companies (Koren et al., 1999).
+
+Traditional literature studies suggest reconfigurability in terms of changeability for quick and

@@ -1,19 +1,13 @@
-## mandate on their autonomy and their lives. Employer connections
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6389a8f951da2b73c6683f4b9ea0952c7bb37bd4
+title: H08FH3-PDF-ENG
+---
+## the same oﬃce and beneﬁtting from random and serendipitous
 
-can also take a dive as the desire to work hard to see the company
+interactions. But at the same time, leader connection might decrease,
 
-succeed is undermined by a feeling of betrayal. And without clear and
+because employees feel their supervisors don’t understand their
 
-unambiguous links to why employees need to be back in the oﬃce, role
-
-connection can be negatively impacted, as people believe they’re being
-
-evaluated based on their attendance more than on their performance.
-
-Focusing on only one pillar of the CLEAR connections model, therefore,
-
-is clearly detrimental. When leaders are making a return-to-oﬃce
-
-decision, they should keep in mind that there will never be a single
-
-policy that’s fair for everyone. Instead, leaders may rely on the idea
+motivations or don’t care about the impact of the return-to-oﬃce

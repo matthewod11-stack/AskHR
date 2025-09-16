@@ -1,15 +1,9 @@
-## their teams out of the damaging cycle of overwork:
+---
+source_path: H08PTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ea24142f8b9ac239d50df8a5ef7c5702ee1447a
+title: H08PTC-PDF-ENG
+---
+# of constant availability.
 
-- Ask yourself: Who are you rewarding? Are your highest-rated
-
-employees those who seem most “available” or those who are actually
-
-doing the best job? If your top performers feel they must sacriﬁce rest
-
-to prove commitment, your evaluation system may be broken.
-
-- Redeﬁne commitment. Start separating performance from presence.
-
-Being constantly available should not be equated with dedication.
-
-Make it clear that outcomes, not responsiveness or hours logged, are
+We oﬀer leaders the following recommendations to help them break

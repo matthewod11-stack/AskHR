@@ -1,17 +1,35 @@
-## without children.” Another non-mother expressed how her choice of
+---
+source_path: H08BGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 746edf23befd31b54df549c2940f4417af593487
+title: H08BGE-PDF-ENG
+---
+## Researchers Jamie Gloor, Tyler Okimoto, and Eden King call this
 
-vacation time was constrained: “It was assumed that I would always
+practice “maybe baby” discrimination. Managers’ assumptions that
 
-cover school [breaks] for mothers and not take any holiday at those
+an applicant will have a baby “increases their perceptions of risk
 
-times. There was never any taking it in turns or husbands bearing the
+associated with employing childfree, childbearing-aged women — but
 
-burden.” And a professor noted, “It is automatically assumed we have
+not men.” Even just changing one’s last name at marriage is enough to
 
-nothing to do.” If women aren’t literally bearing the next generation’s
+trigger “maybe baby” bias against women. And unfortunately, women
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+themselves can hold this bias, as one participant did: “I’ve had several
 
-3
+people I manage get pregnant and have children, and it…makes things
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+tough as far as being able to count on them.”
+
+“Do more” bias
+
+Many women with no children found that they were expected to work
+
+longer and harder than their peers with children. A project manager
+
+stated, “What I have experienced is that I would go the extra mile, or
+
+that I had capacity to do more work or longer hours because I didn’t
+
+have children. Which I greatly resented. All of us have a life, with or

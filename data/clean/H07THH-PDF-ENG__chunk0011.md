@@ -1,21 +1,13 @@
-## the case. However, less than a quarter of U.S. employees could strongly
+---
+source_path: H07THH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a64ecac37115ec456c9882efaa31bad0642d5bc2
+title: H07THH-PDF-ENG
+---
+# HBR / Digital Article / Research: Flexible Work Is Having a Mixed Impact on Employee…
 
-agree their organization cares about their well-being.
+Make sure your employees feel cared for.
 
-Leaders may feel like their organization cares about their employees —
+When Gallup asked large-company CHROs if their organization cares
 
-but that doesn’t matter if your employees don’t feel like you care.
-
-If your well-being strategy is based on programs that few people use,
-
-then you have failed to bridge the gap between your caring and your
-
-employees feeling cared for. Managers must not only understand what
-
-programs are available, they must also be trained on how to talk
-
-to employees about their well-being. While 72% of CHROs said their
-
-managers were trained on well-being programs, less than half (49%)
-
-said they were training managers how to have a conversation with their
+about the well-being of its employees, 65% strongly agreed that this was

@@ -1,11 +1,15 @@
-## up, demonstrate diverse thinking, and conﬁdently drive innovation.
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c2bbb3941e28440eea94b6a33515a28aac99dbe
+title: H07Z4W-PDF-ENG
+---
+# HBR / Digital Article / When You Want to Be Hybrid, But Your Boss Wants You in the O…
 
-This article was originally published online on January 18, 2024.
+communicating preferences around when to include you on emails or
 
-Rachel Montañez is a keynote speaker on burnout and self-advocacy in the workplace. Her clients include a range of Fortune companies including Google, General Mills, L’Oréal, and Under Armour. As a Millennial who has lived in the U.S., UK, South Korea, and Japan, her style and expertise resonate across borders and generations.
+what constitutes “urgent.”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Building the muscle to advocate for yourself will make you a stronger
 
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+employee. After all, companies need employees who can tactfully speak

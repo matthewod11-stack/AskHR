@@ -1,7 +1,9 @@
-# secondary, and tertiary education
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b95b464c992450430e59598a2560ec4bfbcaee9a
+title: H0561N-PDF-ENG
+---
+## HBR / The Big Idea / The Gender Gap in 6 Charts
 
-Health and survival: sex ratio at birth (to account for countries where
-
-male children are strongly preferred) and the diﬀerence in men’s and
-
-women’s life expectancies
+Educational attainment: women’s and men’s access to primary,

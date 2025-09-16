@@ -1,3 +1,11 @@
-# 1.4.6 Work/Life Focus
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e0d9f623fd3407dbadebe46491e0ba27b7cd214e
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 1 • Performance Management and Reward Systems in Context
 
-Benefits related to work/life focus include programs that help employees achieve a better balance between work and nonwork activities. These include time away from work (e.g., vacation time), services to meet specific needs (e.g., counseling, financial planning, on-site fitness program), and flexible work schedules (e.g., telecommuting, nonpaid time off). For example, Sun Microsystems actively promotes an equal balance between work and home life and closes its Broomfield, Colorado, campus from late December through early January every year. This benefit (i.e., vacation time for all employees in addition to indi- vidual yearly vacation time) is part of Sun’s culture. Sun believes in a work hard–play hard attitude, as is evidenced by CEO Scott McNealy’s motto: “Kick butt and have fun.”30
+$90,000 and expected to continue to earn that salary until retirement age would receive about $1,400 a month if he retired at age 62, about $2,000 a month if he retired at age 67, and about $2,500 if he retired at age 70.
+
+Other types of benefits under the income protection rubric include medical insurance, pension plans, and savings plans. These are optional benefits provided by organizations, but they are becoming increasingly important and often guide an applicant’s decision to accept a job offer. In fact, a recent survey including both employees in general and HR professionals in particular showed that health care/medical insurance is the most important benefit, followed by paid time off and retirement benefits.29

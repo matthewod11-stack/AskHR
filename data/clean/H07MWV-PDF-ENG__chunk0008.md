@@ -1,35 +1,33 @@
-# problems.
+---
+source_path: H07MWV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a480ebe77c68d58355891dbe141b7f6e8c7bd0c1
+title: H07MWV-PDF-ENG
+---
+## HBR / Digital Article / 3 Strategies for Making Better, More Informed Decisions
 
-Here’s how to combat the self-serving bias — and reach better, longer-
+Self-serving bias is the tendency to interpret information in a way
 
-lasting decisions:
+that conﬁrms our existing beliefs and serves our own self-interest. In
 
-Consider the source of the information you’re relying on.
+situations that lack clarity, we often make assumptions that serve to
 
-Doing this will likely lead you to reexamine the data you rely on to
+bolster our egos and self-esteem. We selectively interpret information
 
-make your decisions. As I wrote in my book Sidetracked, I once worked
+to support our own position, and overlook or dismiss information that
 
-with a chain of retail stores that was trying to motivate their employees.
+contradicts our views. In fact, in the above example, a look at the data
 
-Puzzled after a few unsuccessful attempts, they ﬁnally saw promising
+revealed that the team’s conversion rate was much lower than the team
 
-results when they introduced clear performance guidelines, sales
+expected. When presented with this data, some team members were
 
-targets, and monthly bonuses. Productivity shot up, most employees
+defensive and reluctant to acknowledge the reality of the situation.
 
-met their targets, and managers began using these positive results in the
+The self-serving bias can lead to suboptimal decision-making or even
 
-employees’ performance evaluations.
+contribute to conﬂict, as we become more entrenched in our own
 
-However, upon closer examination, company management noticed a
+positions and less willing to consider alternative perspectives. This,
 
-disturbing trend. Employees were achieving their sales targets primarily
-
-in the last week of each month, and there was a spike in returned
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in turn, can make it diﬃcult to collaborate on solutions to complex

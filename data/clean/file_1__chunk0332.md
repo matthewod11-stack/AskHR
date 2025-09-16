@@ -1,27 +1,19 @@
-# Age
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 4187d2d27e4e06b731099cc7eaa04ee6bb151f3c
+title: file_1
+---
+# Gender(0=women)
 
-.084
+- .321
 
-2.040*
+- 7.564***
 
-1.182
+1.248
 
-.119
+- .158
 
-2.885**
+- 3.721***
 
-1.182
-
-Marital status (0=unmarried, divorced, separated, and widowed)
-
-- .028
-
-- .697
-
-1.086
-
-.018
-
-.455
-
-1.086
+1.249

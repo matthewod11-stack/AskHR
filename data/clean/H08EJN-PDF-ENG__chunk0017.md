@@ -1,15 +1,27 @@
-# organization.
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4792105e2c30f5bd96ff8d1bd941f42b01b47ad2
+title: H08EJN-PDF-ENG
+---
+# Give Your Leader a “Tee-Up”
 
-Over a few weeks, you create a project plan to tackle this challenge. You
+Before you present something for your boss to respond to, lay some
 
-know you’ll need to work cross-departmentally, get into the weeds of
+groundwork and set the stage for them to engage eﬀectively. Proactively
 
-existing data, and create sustainable systems to ensure lasting success.
+explain the context of the project, why it matters, who is involved, and
 
-And now you’re ready to present your plan to your boss.
+what the expectations were (because they probably forgot).
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Let’s say you work in customer success, and you’ve found your
 
-3
+team is often missing out on valuable pieces of customer feedback.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Customer comments left on social media stay in marketing, feedback
+
+given directly to a sales rep stays in sales, and customer-survey data
+
+is unorganized. You and your boss agree that better collecting and
+
+theming customer feedback would be a high-value project for your

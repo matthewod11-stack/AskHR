@@ -1,5 +1,13 @@
-# their local Wage and Hour Division oﬃce (https://www.dol.gov/agencies/whd/contact/local-oﬃces).
+---
+source_path: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas).md
+pages: n/a-n/a
+chunk_id: 6b4e8291f84b4e3d15367cb4976aa9f4b64dd0e1
+title: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas)
+---
+# Employee Rights
 
-Many of the H-2B program's worker protections also extend to other workers in the employer's workforce,
+An employer who ﬁles an application for temporary foreign labor certiﬁcation pursuant to the H-2B regulations
 
-including U.S. workers hired in response to the requirement recruitment, and those who are found to be in corresponding employment. Workers may ﬁle complaints about non-compliance with H-2B labor standards
+must meet many speciﬁc conditions, including those concerning recruitment, wages, transportation, tools and supplies, certiﬁcation and recruitment fees, labor disputes, and other conditions.
+
+Workers who believe that their rights under the H-2B regulations were violated may ﬁle their complaints with

@@ -1,23 +1,17 @@
-# transportation.
+---
+source_path: Employment Law Guide - Whistleblower and Retaliation Protections.md
+pages: n/a-n/a
+chunk_id: a8488d1d70ff093f027e723c7add0bb1dc275241
+title: Employment Law Guide - Whistleblower and Retaliation Protections
+---
+# Under the Surface Transportation Assistance Act (STAA), employees and certain independent contractors
 
-Under the Asbestos Hazard Emergency Response Act (AHERA), employees may ﬁle complaints with OSHA
+in the trucking industry may ﬁle complaints with OSHA if they believe that they have experienced
 
-if they believe they have experienced discrimination or retaliation for reporting alleged violations of
+discrimination or retaliation for reporting certain commercial motor vehicle (CMV) safety, health, or security concerns; for refusing to drive under dangerous circumstances or in violation of CMV safety, health, or
 
-environmental laws relating to asbestos in elementary and secondary school systems.
+security rules; for accurately reporting their hours on duty; for cooperating with safety or security
 
-Under the International Safe Container Act (ISCA), employees may ﬁle complaints with OSHA if they believe
+investigations conducted by certain Federal agencies; or for furnishing information to a government agency
 
-that they have experienced discrimination or retaliation for reporting allegations of an unsafe cargo container.
-
-Under the Energy Reorganization Act (ERA), certain employees in the nuclear power and nuclear medicine
-
-industries may ﬁle complaints with OSHA if they believe that they have experienced discrimination or
-
-retaliation for reporting alleged violations of nuclear safety laws or regulations.
-
-Under the Clean Air Act (CAA), Safe Drinking Water Act (SDWA), Federal Water Pollution Control Act
-
-(FWPCA), Toxic Substances Control Act (TSCA), Solid Waste Disposal Act (SWDA), Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), employees may ﬁle complaints with
-
-OSHA if they believe that they have experienced discrimination or retaliation for reporting alleged violations of
+relating to any accident or incident resulting in injury or death or damage to property in connection with CMV

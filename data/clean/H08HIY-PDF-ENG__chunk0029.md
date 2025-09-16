@@ -1,31 +1,19 @@
-# their progress over time.
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b2e182619cf887d297a49cca986f23016ed4bfb
+title: H08HIY-PDF-ENG
+---
+# means:
 
-- 2. Improving performance evaluation systems to reduce bias
+- 1. Reinforcing learning opportunities beyond one-off anti-bias sessions
 
-Classic work on “management by objectives” has long endorsed goal
+While broad diversity trainings may be informative for all employees,
 
-setting as a mechanism for creating transparency and equity in
+research suggests they don’t seem to change behavior. More eﬀective
 
-evaluation processes. Establishing clear targets as standards for the end
+eﬀorts include a combination of clear leadership buy-in and qualiﬁed
 
-products can help reduce bias across contexts.
+external trainers who create space for employees to learn, opportunities
 
-While traditional (and often biased) performance appraisal systems look
-
-backward, this approach shifts to a forward-looking planning process
-
-in which both managers and employees participate in and agree on
-
-objectives (which can include both outcomes and activities), and how
-
-to measure them. Tools that can help include creating eﬀective rubrics
-
-before work has been performed, creating standardized templates for
-
-reviews and write-ups, having calibration sessions across managers, and
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to engage in perspective-taking, and a pathway for employees to track

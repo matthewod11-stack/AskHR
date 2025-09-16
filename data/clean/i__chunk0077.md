@@ -1,17 +1,19 @@
-# Figure 9: Process View of Data Analytics
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 33ce5ec0610824ae8b1cc4f94dd627242c75378f
+title: i
+---
+# competitors=.
 
-Source Mularzl and Ulku (2014) Diagram based on the original model of Liberatore and Luo
+Regarding the advanced analytics users, it is stated by Bain and company that they have double
 
-(2010)
+their chance to be in the top quartile in financial performance among other players in their
 
-According to the model of Liberatore and Luo, 2010, the analytics process initiates with data
+industries. Moreover, advanced analytics users make faster decisions at about five times and
 
-collection, a phase wherein information is gathered. Often, data necessitates certain
+have three times more chance to execute decisions as pe planned. They also use data analytics
 
-adjustments prior to its application in the analysis stage. Typically, data is sourced from
+for making decision twice as frequently as other
 
-multiple origins, and it necessitates manipulation and arrangement to compile all pertinent and
-
-valuable information necessary for further examination. Although data collection can be time-
-
-intensive, its meticulous execution is vital, as inaccurate, or erroneous data could result in
+14

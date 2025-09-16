@@ -1,5 +1,7 @@
-## And a positive onboarding experience matters for retention, as our data
-
-shows that the new hires who are satisﬁed with their onboarding at 90
-
-days are two times more likely to stay with the company 1.5 years down
+---
+source_path: H088RA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ce9b1dee4ca1a217cc78969a60721e3fb68c7e3
+title: H088RA-PDF-ENG
+---
+# experience.

@@ -1,5 +1,7 @@
-# Burnout
-
-Perceived supervisor support predicted
-
-lower levels of burnout and was found to moderate the effects of perceived work demands on burnout.
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 95ef6bde1c8e80f415b90b75905401cf29d9c268
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Questionnaires

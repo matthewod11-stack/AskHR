@@ -1,9 +1,39 @@
-## up” through massive hiring and infrastructure spending and other
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf1fc510a16921d359b5d1d74b53193aa557c204
+title: S24021-PDF-ENG
+---
+## organizational design, business model, and culture.
 
-stopgap measures. Worker burnout and attrition are not uncommon.
+In ﬁnance, the concept of a sustainable growth rate is well understood:
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+It is the fastest a company can grow without having to sell equity or
 
-4
+borrow. But talent, organizational know-how, operational capabilities,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+management systems, and even culture are also resources required to
+
+produce goods and services, and they, too, can become bottlenecks
+
+constraining growth. A competent CFO will keep a company from
+
+growing faster than its ﬁnancial resources will allow. Unfortunately,
+
+CEOs and leaders of other functions often do not apply the same
+
+disciplined thinking to nonﬁnancial resources (which constitute the
+
+vast majority of a ﬁrm’s value). For example, rapidly growing companies may downplay gaps between what their staﬃng levels, management
+
+capabilities, and operating processes can deliver and what is required to
+
+meet demand, seeing them as transitory “growing pains.” This approach
+
+can trigger a vicious circle. Shortfalls in critical capabilities can lead to
+
+quality and other operating problems, which in turn become a drain on
+
+already-stretched resources. With no time to design and install systems
+
+adequate to handle the growth, companies often attempt to “catch

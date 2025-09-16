@@ -1,7 +1,19 @@
-# Explore HBR’s First Issue
+---
+source_path: H0785O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 02d7eecb1b9e5c61027e381c4bb3e05d01198f23
+title: H0785O-PDF-ENG
+---
+# sectors.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+In 1922 leadership was the province of the few. In 2022 we believe
 
-4
+that anyone who wants to become a good leader can do so with the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+right kind of guidance. Perhaps what we’re still talking about is the
+
+“better theoretical basis for executive action” that Wallace B. Donham
+
+envisioned 100 years ago. Providing that essential insight is still what
+
+drives us. And we hope it continues to inspire you.

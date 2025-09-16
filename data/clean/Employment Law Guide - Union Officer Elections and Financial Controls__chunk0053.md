@@ -1,17 +1,11 @@
-## receipts of any subsidiaries and any special funds.
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: c151dfd0833dd82a227fd16d758c00254e975928
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+## as a separate reporting labor organization.
 
-The Form LM-4 must be ﬁled within 90 days after the end of the labor organization's ﬁscal year (12-month
+Form LM-4 (Financial report). If it is not in trusteeship, labor organizations with total annual receipts of less than $10,000 may ﬁle the abbreviated 2-page annual report Form LM-4. The term "total annual receipts"
 
-reporting period).
-
-If the organization goes out of existence during its ﬁscal year, a terminal ﬁnancial report must be ﬁled within 30
-
-days after the date it ceased to exist. A terminal ﬁnancial report must be ﬁled if the labor organization has
-
-gone out of business by disbanding, merging into another organization, or being merged and consolidated
-
-with one or more labor organizations to form a new labor organization. The last president and treasurer, or the
-
-oﬃcials responsible for winding up the aﬀairs of the labor organization, must ﬁle a terminal ﬁnancial report for the period from the beginning of the ﬁscal year to the date of termination. A terminal ﬁnancial report is not
-
-required if the labor organization changed its aﬃliation but continues to function as a separate reporting labor
+means all ﬁnancial receipts of the labor organization during its ﬁscal year, regardless of the source, including

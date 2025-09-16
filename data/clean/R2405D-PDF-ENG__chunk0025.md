@@ -1,9 +1,17 @@
-## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be92f09eabc1931753e4fc818e6fd9f511e21cf8
+title: R2405D-PDF-ENG
+---
+## a good proxy for the actual organizational goal in question. Some
 
-With certain questions and contexts, a short time frame may not be suﬃcient. One company that works to avoid this problem is Amazon:
+company experiments track results for just a few days and assume
 
-It invests heavily in exploring the longer-term costs and beneﬁts of
+that they’re robust evidence of what the longer-term eﬀect would be.
 
-possible product changes. There are many ways to assess the relevance
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-and interpretation of outcomes, ranging from clear discussions about
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

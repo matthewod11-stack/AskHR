@@ -1,19 +1,13 @@
-# HBR / Digital Article / Why Cofounder Partnerships Fail — and How to Make Them Last
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f13443a0b0d4fd4bdd3d647e7918a0ac2e85d7f9
+title: H089M8-PDF-ENG
+---
+# next point.
 
-- 2. Don’t neglect the interpersonal aspect in initial conversations.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-In one of our studies, we analyzed business partnerships being formed
+4
 
-in real time. From 2016 to 2017, we collected data at networking events
-
-held at an incubator at a prestigious university in the Midwest. The
-
-purpose of the networking events was to form business partnerships,
-
-and attendees included both lead founders and potential cofounders.
-
-Prior to the networking events, participants wore audio recording
-
-devices, allowing us to capture the content of their conversations. We
-
-also collected data on which individuals actually formed partnerships
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,1 +1,11 @@
-# 61
+---
+source_path: the_wiley_blackwell_handbook_of_the_psychology_of_training_development_and_perfo.md
+pages: n/a-n/a
+chunk_id: d412b91f782018432123cc2afd42227fd0e51cb6
+title: the_wiley_blackwell_handbook_of_the_psychology_of_training_development_and_perfo
+---
+# Future Research
+
+The complex interdependencies between work, learning, and agency in the contemporary world call for the exploration of new ideas and directions in the concept of workplace learning. An emerging agenda for researching work, learning, and competence development has been strongly underpinned by issues such as globalization, the knowledge-based economy, and the learning society. The development of ideas about the knowledge economy and the learning society has facilitated the emergence of new approaches towards work- place learning and development. Further research should address a range of innovations and emerging trends that characterize the complex ways we learn “in, for, and through the workplace,” such as, for example, the role of workplace learning in employee-driven innovation ( Høyrup et al., 2012); an innovative apprenticeship model (Rauner & Smith, 2010), corporate/university partnerships (O’Connor & Lynch, 2011), or a model of lifelong learning that is associated with the model for creating new structures for accredi- tation of prior learning through reflective practice (Harris & Chisholm, 2011).
+
+A range of international research findings suggests that the current perception of the concept of workplace learning is strongly interrelated with the notion of the learning space, in which individuals and teams work, learn, and develop their skills. The notion of the knowledge society challenges the traditional perception of the learning space, thus encour- aging us to develop a better understating of the concept of the workspace and its different configurations as well as the different types of knowledge that are “put to work” as people work and learn (Evans & Guile, 2012) . Although the notion of the learning space at work has been a subject of interest in a number of international studies, the continuous development of the learning society as well as the expansion of digital technologies call for further research to advance our knowledge and understanding of the ways individuals learn

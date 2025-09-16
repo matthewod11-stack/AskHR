@@ -1,13 +1,17 @@
-# people.
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50a697855c4a18307ab2800ed2f4650776166fb4
+title: H0477B-PDF-ENG
+---
+# HBR / Digital Article / Why Walmart Expanded Parental Leave — and How to Convince…
 
-And since only 14% of civilian U.S. workers have access to any paid
+This matters because America remains one of just three countries
 
-parental leave, employees at most American firms can now say the
+without paid maternity leave, and Walmart is America’s biggest
 
-words, “I’d have better parental leave if I worked at Walmart.” That
+employer. With 1.5 million U.S. employees, its workforce is bigger than
 
-creates — at least in theory — pressure on other companies to follow
+the populations of roughly a dozen U.S. states. While the policy only
 
-suit. Indeed, since Walmart announced its new policy, Starbucks
-
-announced that it would be expanding its parental leave benefits as
+applies to full-time workers, that is still hundreds of thousands of

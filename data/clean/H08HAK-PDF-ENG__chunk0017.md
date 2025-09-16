@@ -1,15 +1,9 @@
-## commitment to both personal and organizational goals.
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1a4e04cde6bf6b3acf886f0b436aed232404e84
+title: H08HAK-PDF-ENG
+---
+## positive reinforcement for employees whose morale and engagement
 
-There are exceptions. While narrative-only feedback typically enhances
-
-perceptions of fairness, our experiments revealed that its eﬀectiveness
-
-is not uniform across all scenarios. In one study, we explored how the
-
-valence of feedback — whether it is highly positive or more negative —
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are inﬂuenced by perceptions of fairness, thereby strengthening their

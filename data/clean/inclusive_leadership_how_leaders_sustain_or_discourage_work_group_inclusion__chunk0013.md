@@ -1,1 +1,15 @@
-# 5
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: cb1d137220a16b5e471bf1a4c00879b510d0df52
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# Shore and Chung
+
+manager is ready to listen to my requests”). Using Carmeli’s et al. (2010) leader inclusion measure, studies found positive relationships with psycho- logical safety (Carmeli, et al., 2010; Hirak, Peng, Carmeli, & Schaubroeck, 2012; Khan, Jaafar, Javed, Mubarak, & Saudagar, 2020), psychological empowerment (Khan et al., 2020), creativity (Carmeli et al., 2010; Choi, Tran, & Park, 2015), work engagement and affective commitment (Choi et al., 2015), thriving at work (Li, Guo & Wan, 2019), and enhanced unit perfor- mance (Hirak et al., 2012). These studies show that leader inclusion is an impactful approach with a great deal of potential for advancing organizational goals in addition to the beneﬁcial effects on employees.
+
+This body of research suggests that the leader who is inclusive is motivated by developing good relationships with followers to create an environment in which employees can share their perspectives, experience psychological safety, and inspire creativity and innovation. While Nembhard and Edmondson (2006) focus on the value of leader inclusion to create teams in which professional status is not an impediment to making contributions, ideas pertaining to leader inclusion in relation to the experience of employees from marginalized social identity groups are not well developed. Given the emphasis on inclusion that has emerged in many organizations to address inequity and discrimination, it is important that the leader inclusion literature incorporates ideas for creating environments where employees from mar- ginalized groups can thrive. Below, we review literature that emphasizes leader inclusion in relation to creating inclusive environments for diverse groups.
+
+A conceptual article by Randel et al. (2018) built on Shore et al. (2011) conceptualization and applied these ideas to a model of leader inclusion. Randel et al.’s deﬁnition differs from prior studies in that “leaders’ efforts are speciﬁcally focused on fostering group members’ perceptions of both be- longing and value for uniqueness as a group member” (p. 192). Their con- ceptualization focuses on the experience of the individual within the work group, with leader inclusion efforts centered on fulﬁllment of both belonging and value for uniqueness needs of each member in their team. They proposed that pro-diversity beliefs are antecedent to leader inclusion. Leaders who perceive diversity as being positive for group outcomes are likely to have pro- diversity beliefs (Homan, Van Knippenberg, Van Kleef, & De Dreu, 2007). Pro-diversity beliefs also recognizeandappreciate within-groupdifferencesof the individual group members which should translate into behaviors that encourage both belongingness and value in uniqueness.
+
+To facilitate belongingness, several behaviors are suggested by Randel et al. (2018). First, supporting group members entails leaders making members feel comfortable and communicating that they have the members’

@@ -1,19 +1,15 @@
-# on supervisors for guidance.
+---
+source_path: H07P33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac50a287b1e4a2f4d3fd06809a98fbaaaac9880a
+title: H07P33-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Stressed-Out Managers Be Better Coaches
 
-In addition, the AI platform can facilitate more useful checkpoints
+summary. This gives me a great sense of where I left oﬀ with that
 
-between therapists and their supervisors when they do need to meet.
+patient and what interventions I should use next time to best help
 
-For example, it can be used to quickly synthesize or extract relevant
+them.” In this way, the AI platform enables therapists to make self-
 
-client session data when discussing a complex case, reducing reliance
-
-on memory or notes. As one supervisor told Katherine, “New therapists
-
-often have questions … Eleos’ analyses allow me to zero in on key
-
-moments in their session visits, or on techniques the therapists have
-
-used, as well as patient progress over time, so that our coaching time
-
-together can be spent most productively.”
+directed improvements in their work without having to rely so heavily

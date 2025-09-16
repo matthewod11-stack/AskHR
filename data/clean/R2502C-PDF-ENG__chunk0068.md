@@ -1,35 +1,39 @@
-## HBR / Magazine Article / The Power of Strategic Fit
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b81cdf895c47fa7450089da30a851517d38ff0c2
+title: R2502C-PDF-ENG
+---
+## organization’s structure and accountabilities, governance processes and
 
-Leverton, to be the new CEO. Chuck Runyon, the CEO of SEB, and Dave
+metrics, leadership and culture, talent and performance management,
 
-Long, the CEO of Orangetheory, will continue to serve on the board. The cultures are a bit diﬀerent. Glassdoor reviews show that Orangetheory’s
+business processes, and technology and data. It is the organizational
 
-employees have been less satisﬁed than those at Self Esteem Brands (a
+engine that unleashes the power of people and fuels value creation.
 
-score of 3.7 versus 4.0). But a crucial test of any strategy system is how it
+Runyon sees the SEB operating model as its system for compounding
 
-performs following a leadership transition.
+the culture. “We never felt that our advantage was our product,” he says.
 
-. . .
+“It was always cooperation with our stakeholders. We have to support
 
-Maximizing company value requires unleashing the power of strategic ﬁt—creating beneﬁcial multiplier eﬀects among all the components
+them better. We have to move faster. If we get better, if we out-execute
 
-of a company’s business system. Eventually this value should show
+our competitors every day, we know we will win the market-share and
 
-up in its market value. But now that we have better ways to
+value-creation race.”
 
-measure the changing value of more-strategic factors and to model the synergistic eﬀects among them, executives can adapt to dynamic market conditions more quickly and eﬀectively. Intangible assets can
+SEB’s impressive operating model is about to face its greatest challenge.
 
-become more tangible and more easily valued inside and outside the
+In April 2024 the company began a merger of equals with Orangetheory.
 
-company. As executives gain experience with this way of thinking
+The economies of scale are obvious. The new operating model is not.
 
-and develop better data for measuring and managing progress, both
+The merged company, Purpose Brands, has hired an outsider, Thomas
 
-companies and markets will become more eﬃcient.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-A version of this article appeared in the March–April 2025 issue of Harvard Business Review.
+19
 
-Darrell Rigby is a partner in the Boston oﬃce of Bain & Company, where he heads the ﬁrm’s global agile enterprise practice. He is a coauthor of Doing Agile Right: Transformation Without Chaos (Harvard Business Review Press, 2020).
-
-Zach First is a partner in the Los Angeles oﬃce of Bain & Company, where he leads the ﬁrm’s stakeholder value creation work. He is a former executive director of the Drucker Institute.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

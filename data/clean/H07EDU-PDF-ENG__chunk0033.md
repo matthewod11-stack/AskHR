@@ -1,25 +1,19 @@
-## HBR / Digital Article / What Companies Still Get Wrong About Layoffs
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50061b62f1a5d3c27eaa074561ab793fef8ed85f
+title: H07EDU-PDF-ENG
+---
+# up.
 
-layoﬀs. Employees who survive the layoﬀ may struggle with anxiety,
+But those year-one costs would not fully explain why companies
 
-insecurity, low morale, sadness, and survivor guilt, which lead to
+that conduct layoﬀs underperform for nearly three years longer those
 
-disengagement and hinder job performance. Research shows show that
+that do not. The reasons are in the well-researched hidden costs of
 
-anxiety about job security, grief for coworkers who were let go, and
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-overwork can reduce innovation. Quality may decline as employees
+6
 
-focus on improving productivity to keep their jobs. Managing talent becomes more diﬃcult as existing staﬀ resign. Reputational damage
-
-may make it harder to attract high-quality new hires.
-
-The breadth of these eﬀects explains how post-layoﬀ underperformance
-
-happens — and how it can be missed, since the impacts are dispersed
-
-throughout the ﬁrm in activities and functions that might not appear
-
-at ﬁrst to relate to layoﬀs. There are many important reasons for
-
-restructuring and workforce reductions, including ownership changes through divestitures and M&A activity, eﬃciency improvements, down
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

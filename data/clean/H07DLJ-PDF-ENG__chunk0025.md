@@ -1,27 +1,13 @@
-# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f8ba70e56c85942ff0c8f683831577331f8014b
+title: H07DLJ-PDF-ENG
+---
+# execute on those strategies.
 
-ADI IGNATIUS:
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-You written and talked about how you’re an introvert, and I’d love to
+12
 
-hear a little bit about how you’ve made it as an introvert in a world that
-
-seems to demand extroversion.
-
-DEB LIU:
-
-I don’t know if you’ve read Susan Cain’s book, Quiet, but the world has
-
-a huge bias that we don’t talk about, which is towards people who are
-
-extroverted, who don’t need time to process, who are able to speak on
-
-any topic on a dime, and be comfortable in all circumstances. And that
-
-was not me for a long time, and it took me a long time to get to here. I
-
-worked very hard at it. But I had to work at it like it was a skill, like it was a second language. It does not come natural to me. It is very diﬃcult for
-
-me to speak. And yet at the same time, by treating it as a skill, I believe
-
-you can learn almost anything, if motivated and you put enough time
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

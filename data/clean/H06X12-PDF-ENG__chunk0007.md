@@ -1,11 +1,17 @@
-# breaks.
+---
+source_path: H06X12-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e864b01fee48800ef73d10b25e1397e13a80e8f
+title: H06X12-PDF-ENG
+---
+# HBR Staff/Makrushka/Getty Images
 
-The Career Break category allows individuals who have taken time
+LinkedIn recently introduced a new category — Career Breaks — for
 
-away from the traditional workforce not only to call out their career
+users who are building proﬁles. The new label helps normalize the idea
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+that careers are not always linear — and will give an enormous boost
 
-1
+to the recruiting eﬀorts of employers running career reentry programs
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or otherwise targeting the pool of professionals returning from career

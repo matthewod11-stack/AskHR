@@ -1,1 +1,9 @@
-# Climate of trust
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: b676fa497672e7c95d9748c2d8ccd59ca15ae850
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# CT as a mediator between CM and ER
+
+between the relations of organizational justice and ER, and the association of conflict management and ER. Thus, for the ease of understanding and to provide sufficient explanations about the mediating role of the variable climate of trust, two models are displayed, which can also be presented in one single model. In the mediation analysis, the first step revealed that organizational justice positively and significantly predicted

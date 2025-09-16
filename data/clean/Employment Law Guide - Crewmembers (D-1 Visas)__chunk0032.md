@@ -1,5 +1,23 @@
-# States Department of Labor."
+---
+source_path: Employment Law Guide - Crewmembers (D-1 Visas).md
+pages: n/a-n/a
+chunk_id: 06fe510793c60ea15e65320446c9f974330666f5
+title: Employment Law Guide - Crewmembers (D-1 Visas)
+---
+## Recordkeeping, Reporting, Notices and Posters
 
-The employer must maintain, in its records at the oﬃce of its U.S. agent, suﬃcient documentation to meet its burden of proof for
+There is no poster requirement.
 
-the attestation. These documents must be kept for a period of at least three years from the date of ﬁling, and made available to
+There is a notice requirement. Under the prevailing practice exception, in addition to ﬁling an Attestation (see Recordkeeping
+
+below), notice of the Attestation must be given to U.S. workers or their representatives of the request to employ nonimmigrant
+
+alien workers as crewmembers. Under the Alaska exception, where there is a bargaining representative, notice must be given to
+
+that representative. Additional notice is required under the State of Alaska exception to certain contract stevedoring companies,
+
+as well as operators of private docks at which the employer will use longshore workers.
+
+The notices must include the following statement: "Complaints alleging a misrepresentation of material facts in the Attestation
+
+and/or failure to comply with the terms of the Attestation may be ﬁled with any oﬃce of the Wage and Hour Division of the United

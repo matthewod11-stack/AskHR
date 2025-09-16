@@ -1,15 +1,11 @@
-## particularly useful during times of change or uncertainty. It can
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2de4e268bf727ff75ba4c31d443b455285d2aa3c
+title: H085MC-PDF-ENG
+---
+## shines as the most eﬀective and inspiring style.
 
-also be integrated into daily operations by reminding your team
+When to use the authoritative leadership style
 
-members of your company’s mission in an organic way. For example,
-
-a pharmaceutical executive might say, “Our work will beneﬁt many
-
-patients,” while an insurance leader might say, “We’re helping people
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This leadership style is beneﬁcial in lots of situations, and it’s

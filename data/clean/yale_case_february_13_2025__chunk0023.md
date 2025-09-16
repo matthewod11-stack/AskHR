@@ -1,1 +1,9 @@
-# though
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: 18736ebd8cde2013a6d41f82e1432eba05f8aef1
+title: yale_case_february_13_2025
+---
+# 13 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
+
+I believe that a lot of first-time, inexperienced CEOs are likely bad at terminating employees in the beginning, and I was no different; I feel we have made tremendous progress in this area since we bought Montis. My first termination, which occurred during the COVID-19 era, was marked by inexperience and a lack of human capital processes, particularly around company core values and performance. We didn’t have a methodology for agreement of performance standards, metrics to compare against, or transparent feedback, which led to frustration on both sides. Even terminated employee had been underperforming both in terms of performance and alignment with company culture, the termination process did not feel good to me, nor did it feel good to the terminated employee, given the unintentional lack of compassion and empathy. I didn’t know what I didn’t know about terminating employees, and I learned a lot of what not to do by trial and error.

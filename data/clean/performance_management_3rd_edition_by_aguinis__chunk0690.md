@@ -1,9 +1,11 @@
-## Chapter 5 • Measuring Results and Behaviors
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d423726ce7569781fc5d6f0bd9f6a1818aaa5ab9
+title: performance_management_3rd_edition_by_aguinis
+---
+# and assessment of competencies.
 
-(cid:2) Develop comparative performance measurement systems such as simple rank order,
+(cid:2) Develop competencies that are defined clearly, provide a description of specific
 
-alternation rank order, paired comparisons, relative percentile, and forced distribution (being aware of the relative advantages and disadvantages of each).
-
-(cid:2) Develop absolute performance measurement systems such as essays, behavior checklists, critical incidents, and graphic rating scales, and understand their advantages and disadvantages.
-
-Chapter 4 provided a definition of performance and described the trait, results, and behavior approaches to measuring performance. In this chapter, we provide a more detailed description of how to measure performance, adopting the two most common approaches: results and behavior.
+behavioral indicators that can be observed when someone demonstrates a competency effectively, provide a description of specific behaviors that are likely to occur when someone doesn’t demonstrate a competency effectively (what a competency is not), and include suggestions for developing them further.

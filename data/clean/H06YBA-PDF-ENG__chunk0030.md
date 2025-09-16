@@ -1,17 +1,29 @@
-# HBR / Digital Article / Your “Autism Awareness Day” Might Be Excluding Autistic Peo…
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18e3e60c0776853d7fdbe5151a42f06e9a693d6c
+title: H06YBA-PDF-ENG
+---
+# creatives.
 
-is by creating inclusive workplaces. Celebrating and normalizing
+- Include parents of autistic children, grandparents, siblings, and
 
-diﬀerences without othering helps create a foundation for cultures
+friends. Events and focus groups supportive of their experience are
 
-where diﬀerent people can thrive and belong.
+important; perhaps one of your permanent ERGs could also serve their
 
-This article was originally published online on April 1, 2022.
+needs. However, do not center their experience over the experience of
 
-Ludmila N. Praslova uses her extensive experience with neurodiversity and global and cultural inclusion to help create talent-rich workplaces. She is the author of The Canary Code: A Guide to Neurodiversity, Dignity, and Intersectional Belonging at Work (Berrett-Koehler, 2024), as well as a professor of graduate industrial-organizational psychology and the accreditation liaison oﬃcer at Vanguard University of Southern California.
+autistic people. Allyship ampliﬁes; it does not speak over.
+
+Amplifying autistic culture and centering autistic experience is the
+
+mark of true allyship. However, the best form of allyship is full
+
+inclusion, and the best way organizations can support autistic people
 
 Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

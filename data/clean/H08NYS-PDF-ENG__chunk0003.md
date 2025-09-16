@@ -1,11 +1,7 @@
-## Online labor market platforms like Fiverr, Handy, Uber, and Upwork
-
-have grown signiﬁcantly since the late 1990s, radically transforming
-
-the economy and the management practices used to support gig work.
-
-One major change introduced by these platforms is their reliance
-
-on customer ratings to assess worker performance. Unlike traditional
-
-organizations, where performance evaluations typically involve input
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b1459a178b865966514c7fb9e444f95e14c9e11
+title: H08NYS-PDF-ENG
+---
+# Wong Yu Liang/Getty Images

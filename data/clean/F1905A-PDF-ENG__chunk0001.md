@@ -1,1 +1,7 @@
-# ARTICLE IDEA WATCH The #MeToo Backlash
+---
+source_path: F1905A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6457507f2a6280ab7c1259185de45c7c6d4309ab
+title: F1905A-PDF-ENG
+---
+## REPRINT F1905A PUBLISHED IN HBR SEPTEMBER–OCTOBER 2019

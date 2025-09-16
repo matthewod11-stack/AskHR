@@ -1,9 +1,9 @@
-# RC
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa3f268ae013d90c718f5dba4b3763c508f2b5fe
+title: H08IWP-PDF-ENG
+---
+# AA
 
-Ramon Casadesus-Masanell is the Herman C. Krannert Professor of Business Administration at the Harvard Business School. His research focuses on how businesses can adapt their models to enhance competitiveness and innovation.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Africa Ariño is a professor of strategic management at IESE Business School, holding the Joaquim Molins Figueras Chair of Strategic Alliances. She specializes in the governance and dynamics of interorganizational relationships.

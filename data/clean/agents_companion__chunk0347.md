@@ -1,3 +1,9 @@
-# https://cloud.google.com/blog/products/ai-machine-learning/introducing-agent-evaluation-in-vertex -ai-gen-ai-evaluation-service?e=48754805.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: b17f2a3c6e4add1668f2dd3d26e15431acd6fbfa
+title: agents_companion
+---
+## https://cloud.google.com/vertex-ai/generative-ai/docs/models/evaluation-agents.
 
-- 39. Review sample agent evaluation notebooks for LangGraph, CrewAI, and LangChain.
+- 38. Irina Sigler, Ivan Nardini. Jan 2025 'Introducing Agent Evaluation in Vertex AI'. Available at:

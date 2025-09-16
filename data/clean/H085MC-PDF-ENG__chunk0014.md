@@ -1,19 +1,11 @@
-# Goleman.
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1784498de1ddcc9ed72aef36eb962b9af30bd9d1
+title: H085MC-PDF-ENG
+---
+## situations where swift, decisive action and a clear chain of command
 
-- 2. Authoritative leadership style
+are needed: a corporate takeover or in an emergency room, for instance.
 
-The authoritative leadership style, not to be confused with authoritarian
-
-leadership, involves motivating your team members by connecting
-
-their work to a larger organizational strategy, helping them understand
-
-how their day-to-day tasks contribute to a greater purpose. It’s about
-
-setting clear guidelines; not micromanaging. It’s also about trusting
-
-your staﬀ members to work towards the shared vision with autonomy
-
-and creativity, which creates high employee engagement and increased
-
-job satisfaction. If coercive is the worst kind of leadership, authoritative
+In most cases, though, this approach is likely to be detrimental, says

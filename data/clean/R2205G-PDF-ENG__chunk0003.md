@@ -1,3 +1,7 @@
-# by Alexandra Kalev and Frank Dobbin
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0feeb2e5bd35de57e428987c3d4e755d6595e9ce
+title: R2205G-PDF-ENG
+---
+## The Surprising Beneﬁts of Work/Life Support

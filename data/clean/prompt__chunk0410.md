@@ -1,3 +1,7 @@
-# Try to move the file try: shutil.move(old_path, new_path)
-
-except Exception as e: print(f"An error occurred while moving the file {file}: {e}")
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 0ecc25849eed757310069e765ec1470b7080adf9
+title: prompt
+---
+# Build the full paths for the original and new files old_path = os.path.join(folder_name, file) new_path = os.path.join(folder_name, new_filename)

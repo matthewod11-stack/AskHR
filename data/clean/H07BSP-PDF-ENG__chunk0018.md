@@ -1,33 +1,23 @@
-# a deliberate practice.
+---
+source_path: H07BSP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e25dd87a1c1cfff5d717dd2ed378c72c65415865
+title: H07BSP-PDF-ENG
+---
+# collaboration, and 2) change management.
 
-The agency had training programs in place, but a game-based solution
+- 1. Decision-Making and Collaboration
 
-called Financial Fitness Simulator enabled more than 300 MDs to
+A global digital agency sought to improve Managing Directors’ (MDs)
 
-work through scenarios involving discovery conversations with clients,
+decision-making in three areas: when to collaborate with other MDs,
 
-enlisting support from other service lines, and managing projects while
+how to price projects, and staﬃng project teams. In most organizations,
 
-building a pipeline of prospects. After this initiative, 88% of the MDs
+these skills are seen as something you only learn through experience
 
-reported a much better understanding of their responsibilities and
+and, if you’re lucky, with mentors. But it’s no coincidence that
 
-improved decision-making skills; 90% said their ability to collaborate
+experiential learning is called the “school of hard knocks.” In most
 
-with other lines of business had also improved. These are compelling
-
-results compared to most training initiatives.
-
-The simulation scenarios involved narratives, or plotlines depicting
-
-common work situations. This is a key element in promoting durable
-
-learning. As one summary of the research puts it: “Narrative provides
-
-not only meaning but also a mental framework for imbuing future
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁrms, on-the-job learning is a euphemism for an ad hoc process, not

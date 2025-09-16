@@ -1,7 +1,9 @@
-# — Sahil, Riyadh, Saudi Arabia
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b2820b19857c01816e9a255784e18d3106233fbc
+title: H0785Z-PDF-ENG
+---
+## What Makes a Successful Organization, According to HBR Readers
 
-An organization is successful when people enjoy waking up in the morning
-
-to dedicate their skills and time to deliver the organization’s value.…Its
-
-purpose and outcomes are human- and planet-centric, desirable and
+An organization that not only delivers on customers’ expectations today but also caters to their future, undiscovered demands.

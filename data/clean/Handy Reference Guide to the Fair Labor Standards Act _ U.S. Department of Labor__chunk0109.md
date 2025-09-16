@@ -1,7 +1,11 @@
-# to the Federal Government;
+---
+source_path: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department
+  of Labor.md
+pages: n/a-n/a
+chunk_id: 17e4b9e4d7bc93220c01a5b8844a26c1d341738e
+title: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department of
+  Labor
+---
+# provide goods to the Federal Government;
 
-- 4. the Contract Work Hours and Safety Standards Act, which sets overtime standards for service and construction contracts;
-
-- 5. the Migrant and Seasonal Agricultural Worker Protection Act, which protects farm workers by imposing certain requirements
-
-on agricultural employers and associations and requires the registration of crewleaders who must also provide the same
+- 3. the Service Contract Act, which requires payment of prevailing wage rates and fringe benefits on contracts to provide services

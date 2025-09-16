@@ -1,9 +1,13 @@
-# Abusive
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 7fda8608aea41517c7d2269a5c755a3119f64473
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Authentic
 
-20.14
+24.49
 
-11.91
+34.92
 
-14.04
-
-(cid:54)(cid:52)(cid:32)
+18.81

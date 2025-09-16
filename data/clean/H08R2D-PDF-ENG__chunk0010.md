@@ -1,13 +1,21 @@
-## HBR / Digital Article / Growth Isn’t the Only Way for Companies to Create Value
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4881e1926cf0ed8c028108c430e66b83d5028240
+title: H08R2D-PDF-ENG
+---
+## industries (though less frequently in fast-growing sectors, where they
 
-ownership may play a role in enabling a disciplined, long term–oriented
+can ﬁnd themselves left behind by competitors).
 
-approach to value creation. This is consistent with the observation that
+Still, they share some notable similarities. For one, 25% of stable
 
-stable ﬁrms steered clear of the risks that often accompany aggressive
+outperformers had an owner with a controlling interest, compared to
 
-growth, such as overly ambitious, large-scale mergers or acquisitions,
+less than 8% of companies in the S&P 1500—suggesting that a sense of
 
-which have a failure rate of 70% to 75%.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Instead, these businesses used four distinct strategies to achieve
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

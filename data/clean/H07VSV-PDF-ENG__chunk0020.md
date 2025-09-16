@@ -1,17 +1,29 @@
-# appreciate more public recognition.
+---
+source_path: H07VSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aca5fe963bf53fab18618a05eebfcb3728809794
+title: H07VSV-PDF-ENG
+---
+# HBR / Digital Article / Keep Your Team Motivated When a Project Goes Off the Rails
 
-By focusing on the above strategies, you can both re-energize your
+building session away from work can often reset the team’s energy and
 
-project team and help put a poorly performing project back on track,
+improve collaboration.”
 
-creating a virtuous cycle that leads to the project and team’s success.
+Celebrate small wins and provide recognition
 
-This article was originally published online on October 31, 2023.
+Recognizing small wins can help mark progress for the team and raise
 
-Rebecca Zucker is an executive coach and a founding partner at Next Step Partners, a leadership development ﬁrm. Her clients have included Amazon, Clorox, Morrison Foerster, Norwest Venture Partners, The James Irvine Foundation, and high-growth technology companies like DocuSign and Dropbox. You can follow her on LinkedIn.
+their spirits. Celebrating project milestones as a team can not only boost
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+morale, but also gives the team a sense of traction against their goals
 
-5
+and feelings of optimism. Nieto-Rodriguez shared that achieving even
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+minor milestones can be a source of motivation.
+
+In addition, providing individual recognition that is personalized can
+
+also help motivate team members, keeping in mind that introverts tend
+
+to prefer more private, one-on-one recognition and extroverts tend to

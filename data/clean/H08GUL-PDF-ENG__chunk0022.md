@@ -1,27 +1,23 @@
-# decision-making.
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: adbf7c30b9e45fa44843c51117bfcfc082409cc1
+title: H08GUL-PDF-ENG
+---
+## knowledge. These process complex queries and interact with users as
 
-Instead of relying on static expert systems, ensure your decision-making
+if guided by human experts. Focus on creating a ﬂexible system where
 
-support algorithms are designed to be continuously updated through
+your employees can choose agents tailored to their immediate needs
 
-feedback. This enables you to stay agile and make more informed
+allowing for personalized learning and assistance
 
-decisions as conditions evolve. The beauty of advanced AI is its
+. . .
 
-ﬂexibility to incorporate changes on the ﬂy.
+Today, you can integrate advanced AI technologies to transform how
 
-As AI continues to evolve, you should proactively explore how
+expertise is transferred and utilized within your organization. AI agents
 
-these advances can be integrated into your strategic decision-making
+can now support dynamic decision-making systems that adapt in near
 
-processes. This will help you drive innovation, ensuring that your
-
-business remains competitive in a rapidly-changing environment.
-
-This article was originally published online on November 15, 2024.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+real-time, oﬀering you more ﬂexibility and responsiveness in strategic

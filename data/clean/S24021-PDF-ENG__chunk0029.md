@@ -1,13 +1,19 @@
-## per square foot in the industry: $2,500 versus $650 for the typical
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f29d47c087384df70990d51030463cd0064ac868
+title: S24021-PDF-ENG
+---
+## southeastern United States that Francesca Gino, Bradley Staats, and I
 
-burger chain. In an industry where scale economies are critical, the
+studied, is an example of a company that has taken an exceptionally
 
-chain’s excellent ﬁnancial performance is surprising. A key ingredient
+disciplined approach to growth. Founded in 1956, Pal’s has eschewed
 
-to its success is its operating system, which is designed around lean
+the rapid expansion of outlets favored by many fast-food chains. Since
 
-manufacturing principles. Every process, from where to place the
+1985, when it opened its third outlet, it has added, on average, less
 
-ketchup on a burger to how far to open a hot dog bun, has been carefully
+than one new restaurant per year and it has never opened more than
 
-studied and speciﬁed. The company’s menu is limited to a few basic
+one restaurant in any year. Pal’s boasts one of the highest revenues

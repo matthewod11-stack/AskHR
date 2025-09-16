@@ -1,7 +1,17 @@
-# accuracy 0.79 368
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: f4c95ade3bb5338494982e3da9b5ab9e83272374
+title: i
+---
+# Which returns
 
-macro avg 0.57 0.59 0.58 368
+[[276 44]
 
-68
+[ 33 15]]
 
-weighted avg 0.81 0.79 0.80 368
+precision recall f1-score support
+
+0 0.89 0.86 0.88 320
+
+1 0.25 0.31 0.28 48

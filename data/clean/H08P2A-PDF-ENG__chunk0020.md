@@ -1,11 +1,13 @@
-## natural processes and parts of every eﬀective organization. The more
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a7b6e10494242b517d5f9ba2d6a4c9c8c14a291e
+title: H08P2A-PDF-ENG
+---
+# Ask: “How?”
 
-you think this meeting will evolve into dynamics that people might not
+Second, ask how you think the meeting is going to evolve. Is this likely
 
-want captured, the more you should consider whether it’s worth hitting
+to be a contentious discussion or a mundane one? Are tempers likely to
 
-record. I once had an executive admit to using the record button to keep
-
-the lid on a hot issue, but we all know that norm-setting and clear roles
-
-are far better ways to manage group conﬂict.
+ﬂare, or do you expect a relaxed conversation? Tension and conﬂict are

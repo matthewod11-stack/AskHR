@@ -1,21 +1,23 @@
-## evident in the example, and the bigger the factory the better.
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 207c9c8797acf6e84843be19a805006b6536a9d1
+title: H08HGJ-PDF-ENG
+---
+# How We Think About Scale
 
-But there is a twist to the story — and thus to the foundational economic
+Many of our ideas about scaling rest on foundational economic ideas
 
-thinking it makes up — that has important implications: Adam Smith
+eloquently espoused by Adam Smith in The Wealth of Nations, such as
 
-never actually visited the pin factory on which he builds his argument.
+the division of labor and specialization. Smith opens this canonical text
 
-In fact, Smith only saw an illustration in Denis Diderot’s Encyclopedie.
+with a description of a pin factory in France, where he argues that the division of labor has enabled unprecedented eﬃciency and increased
 
-But Diderot also never visited the factory. The essay in Encyclopedie was
+production with scale. In Smith’s example, one worker pulls a wire to
 
-written by M. Delaire, a philosopher who also did not visit the factory,
+create the body of the pin, another worker hammers out the head, and
 
-but rather wrote the article based on an illustration! In essence, one
+so forth, using division of labor to produce many times more pins than
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+one worker could produce alone. The beneﬁts of the approach are self-

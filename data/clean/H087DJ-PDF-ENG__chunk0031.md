@@ -1,7 +1,13 @@
-# policies, procedures, and cultures.
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7f319c6f9124e8769a2f14af94e376c31593773
+title: H087DJ-PDF-ENG
+---
+## of color at higher risk for mental health challenges. Leaders must
 
-Empowering employees of color to protect and prioritize their mental
+be willing to take a hard look at policies and procedures that
 
-health involves ensuring that therapists of color and culturally
+reﬂect systemic racism and workplace cultures that may be rife with
 
-competent therapists and counselors are available through the
+interpersonal racism. Then, they must work to rethink and change those

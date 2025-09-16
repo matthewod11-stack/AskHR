@@ -1,33 +1,25 @@
-## HBR / Digital Article / How to Get Better at Delegating
+---
+source_path: H08MJI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4ae11a133fd1e3f5b2729aa4553f7d243aa3354
+title: H08MJI-PDF-ENG
+---
+## sake of updates.” Avoid constant Slack messages and unnecessary
 
-Guide, listen, and ask for feedback
+interruptions. “Don’t be the digital equivalent of breathing down
 
-Think of yourself as both a coach and a cheerleader, says Kerpen.
+someone’s neck,” he warns. For those who absolutely need to be in
 
-“A coach’s job is to get the most out of their people,” he explains.
+the know, Morgan recommends ﬁnding ways to keep tabs without
 
-You’re not there to ensure everything is done perfectly or exactly as you would; your role is to inspire and guide. Oﬀer your experience
+disrupting the team’s ﬂow. A work management platform, for example,
 
-and provide context. “Help your team see how their work ﬁts into the
+can help you track performance without being intrusive. “That way, you
 
-whole,” says Morgan. “Why does it matter?” Encourage your team to ask questions and oﬀer feedback to you, too. Without ongoing and open communication, “delegating can go oﬀ the rails.”
+can take a breath because you know things are on track.”
 
-Remember: progress not perfection Eﬀective delegation is about “empowering your team, coaching them
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to success, and giving them the tools they need to succeed while
+4
 
-championing them along the way,” says Kerpen. The best part is that
-
-you’ll have more time, energy, and space to focus on what matters to
-
-you, both at work and in your personal life. That said, be realistic:
-
-delegation isn’t a cure-all. There’s still work to be done. “Accounting
-
-for that in your brain and your calendar is key,” says Morgan. “Even if
-
-someone completes a task 80% as well as you would, or only gets part
-
-way through it, that’s a win.” After all, “We’re not going for perfection.
-
-We’re going for progress, and delegation is the tool to get there.”
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

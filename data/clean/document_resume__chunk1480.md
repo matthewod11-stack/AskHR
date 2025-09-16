@@ -1,3 +1,15 @@
-# Almost Always
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 2fad3130b81ec6f9ecf0eb53a24b4804766aadbe
+title: document_resume
+---
+# Almost Never
 
-Monitors student progress throughout the quarter by encouraging feedback from supervisors on students' performances and experiences.
+2
+
+3
+
+4
+
+5

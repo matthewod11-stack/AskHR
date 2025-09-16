@@ -1,7 +1,9 @@
-## (resilience), and enhance digital accessibility (prominence).
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58c40e80716ef10e28184fdcc9b84287b3537dc7
+title: H08SNU-PDF-ENG
+---
+## reports, payments, pre-assessment) into a single mobile app to
 
-- Substitution: Replace traditional paper-based patient intake with
-
-voice-activated digital forms, reducing data entry errors (eﬃciency),
-
-improving record accuracy (resilience), and showcasing innovation
+streamline the patient journey (eﬃciency), centralize communication

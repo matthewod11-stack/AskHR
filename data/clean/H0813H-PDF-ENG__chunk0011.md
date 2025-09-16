@@ -1,7 +1,25 @@
-# counterproductive behaviors.
+---
+source_path: H0813H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77e2a5242b6e51b1843e91e9974b9953e3dc488e
+title: H0813H-PDF-ENG
+---
+# supervisor-subordinate relationships.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Our results show that when supervisors used monitoring for control
 
-3
+purposes, employees were more prone to engage in deviant behavior
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+(e.g., time thievery, inattentiveness, cyberloaﬁng, tardiness, etc.) and
+
+their performance decreased.
+
+These ﬁndings didn’t emerge when supervisors used the data for
+
+developmental purposes. When supervisors used information obtained
+
+from monitoring as developmental feedback, employees continued
+
+to trust and maintain positive relationships with their supervisors.
+
+They also performed better in their jobs and engaged in fewer

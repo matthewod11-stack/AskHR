@@ -1,27 +1,67 @@
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50e072a50e6885b3cba8c7f2561417309969b021
+title: H07DLJ-PDF-ENG
+---
 # HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
-DEB LIU:
+the small things being: for every 100 men that are promoted into
 
-Actually, I had been thinking about this book for a long time. Even
+management, only 86 women are.
 
-before I became the CEO of Ancestry, it was eight years ago, I started an
+We don’t tell the other 14 women that they didn’t get promoted because
 
-open door policy. I let women who wanted to reach out, who needed an
+they’re a woman like they might have done 20, 30, 40 years ago. But
 
-ally, reach out to me. And over the course of eight years, I’ve coached
+instead, there’s these subtle stumbling blocks that we’re facing. And
 
-over a thousand women and I realized it wasn’t scalable. One of the
+the challenge now is rather than having something to point to, is that
 
-things I wanted to do with this book was to say, “What are all those
+if you’re one of those women that didn’t make it, you always wonder,
 
-lessons? What are the themes I was hearing?” Women were asking, “Hey,
+“Is it me? Could I have done something diﬀerent?” When actually,
 
-why wasn’t I promoted? Why is my peer now my manager? What am
+structurally, the system is a little bit set up so that there’s a slightly tilted
 
-I doing wrong?” Women would say, “Hey, I don’t know why I’m not
+playing ﬁeld. And yet, that small slight change makes a huge diﬀerence
 
-given stretch opportunities. I don’t have a sponsor.” And I realized if
+in the lives of the women that actually face it.
 
-I just shared those lessons and took all of the things I learned from
+ADI IGNATIUS:
 
-those thousand conversations and put it in a book, I could scale that to
+This is Harvard Business Review’s 100th anniversary, and as part of
+
+the celebration we’ve been talking about some of the great articles
+
+that we’ve published and that have had the most impact. We’ve also
+
+unearthed some of the howlers that we’re frankly embarrassed about.
+
+And it took us a long time to start to get gender right. I was recently at
+
+a public event on stage, and I read from a 1956 article that talked about
+
+how women needed to support their husband’s career, and they should
+
+tolerate and even encourage their husband to work late, to go on trips.
+
+And then speaking to the husband, it sort of said that you might just
+
+need to ﬁnd a new wife who will accommodate this lifestyle. This is
+
+1956, I wasn’t in the job then, but we did publish it and have to own it.
+
+So there is a lot of progress. And yet, I think a lot of women feel a lot
+
+of frustration still in the workplace. You’ve decided to write this book
+
+even as you are CEO of a nearly $5 billion corporation. What was the
+
+calculation there to try to be able to do both?
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

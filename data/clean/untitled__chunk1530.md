@@ -1,5 +1,11 @@
-# 264 Psychology of Women and Gender
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fe92172ac1c2cd1aa6550311ec76a197016aeca4
+title: untitled
+---
+# Confronting the Backlash
 
-remains, however, to translate that evidence into a form that will be effective and persuasive.
+Many of the changes promoted by the women’s movement have become accepted practice: equal pay for equal work; women working outside the home; the repudiation of wife beating. These changes are no longer identiﬁed with femi- nism. At the same time, the term feminism has come to be disparaged, even viliﬁed, by the mass media. By the 1990s, the backlash against feminism in popular culture was intense (Faludi, 1991). Moreover, the legal gains that women had made in such areas as afﬁrmative action and reproductive rights have eroded. State support for poor women and their families has been severely curtailed by the welfare reforms of 1996.
 
-Every movement for social change meets resistance. The ﬁeld of the psychology of women and gender is no exception. Such resistance is an inevitable reaction to any struggle for change. In psychology, the resistance includes disdain for work on “women’s” topics and for feminist journals. Women, the majority of humankind, are still considered a special pop- ulation; research on women is seen as failing to contribute to psychological knowledge about human behavior. An analysis of psychology journal articles showed that when researchers used an all-female (versus an all-male) sample, they were more likely to provide a justiﬁcation for a single-sex sample and to point out that their results could not be generalized to the other sex (Ader & Johnson, 1994). Finally, many feminist psychologists value collaboration and interdisciplinary work, research with applied potential, and the use of innovative re- search approaches. All of these draw further antipathy.
+In popular culture, there has been an upsurge of claims that masculinity and femininity, as well as sexual orientation, are biologically determined and perhaps genetically encoded. For example, Men are from Mars, Women are from Venus (Gray, 1992) amounts to propaganda for male-female differ- ence and an apologia for male privilege. Yet, many—even some therapists—have accepted it as credible clinical theory. Extreme and proﬂigate claims about the evolutionary bases of male dominance and sexual access have become the fad in popular science. Media reports of sex differences in mathe- matics achievement have announced a “math gene,” ignoring the inﬂuence of social roles and differential opportunities and expectations regarding boys’ and girls’ math performance (Eccles & Jacobs, 1986). By now, feminists have amassed a good deal of evidence to counter many such claims. The task

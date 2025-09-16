@@ -1,21 +1,11 @@
-# Europa. Conforme informações cedidas pela funcionária entrevistada, em janeiro de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: e538298ba7820ade46c3ba5336dc71b0dc3403f8
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## valor de mercado estimado em mais de cinco bilhões de dólares.
 
-2013, a empresa contava com 3.655 funcionários, sendo 96% dessa força de
+Atualmente tem sede em São Paulo, capital, mas atua globalmente, com 23
 
-trabalho contratada via regime CLT (Consolidação das Leis do Trabalho), 3%
-
-formada por jovens aprendizes e estagiários e apenas o último 1% correspondente a
-
-sócios e alguns poucos funcionários contratados como PJ (pessoa jurídica) para
-
-realização de serviços. Além disso, 22% dos empregados ocupam cargos de
-
-liderança,
-
-contando com a função de gestão de pessoas dentre suas
-
-responsabilidades. Apesar do grande número de escritórios espalhados pelo mundo,
-
-o regime de trabalho atual é majoritariamente remoto. Ainda assim, 64% dos
-
-funcionários são residentes no estado de São Paulo. O próximo estado, na lista de
+escritórios espalhados por seis países diferentes das Américas do Sul e Central e

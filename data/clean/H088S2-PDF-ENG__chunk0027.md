@@ -1,7 +1,21 @@
-## through this continuous process of transformation that companies can
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 485d8536a11412275a48e6cb02c7d5a1de023e02
+title: H088S2-PDF-ENG
+---
+## HBR / Digital Article / A New Model for Continuous Transformation
 
-truly realize their full potential.
+large companies reveals that this number surpasses the performance of
 
-This article was originally published online on June 4, 2024.
+any other public company with revenues exceeding $30 billion.
 
-Michael Mankins is a leader in Bain & Company’s Organization and Strategy & Transformation practices and is a partner based in Austin, Texas. He is a coauthor of Time, Talent, Energy: Overcome Organizational Drag and Unleash Your Team’s Productive Power (Harvard Business Review Press, 2017).
+. . .
+
+In today’s fast-paced world, business transformation can no longer
+
+be treated as a one-time project. Continuous change necessitates
+
+ongoing transformation. The traditional approach of “unfreeze, change,
+
+refreeze” must give way to a new mindset: “rethink, reshape, repeat.” It’s

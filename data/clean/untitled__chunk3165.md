@@ -1,3 +1,7 @@
-## correspondence problem and, 103–105 inner vs. outer, 48, 104
-
-Psychoses (organic/functional), 324, 329–330 Psychosomatic medicine. See Health psychology Public interest psychological organizations, 545–548 Publishing. See Journals/textbooks/publishing
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7cd53c30b17f18d50b6cd1c28b39e06a8125de88
+title: untitled
+---
+## Psychopharmacology, 331, 349–352 Psychophysics, 2–3

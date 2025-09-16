@@ -1,7 +1,15 @@
-# your knowledge.
+---
+source_path: H080H9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c8b22ca5934925a211c5353a4c861511b78e59b
+title: H080H9-PDF-ENG
+---
+# Don’t:
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- Linger in defeatism. Instead, shift your perspective to view the chaos
 
-5
+as an avenue for growth, rather than an obstacle to overcome.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Vent too much to colleagues. Be cautious about what you share with
+
+them, as your comments might be misinterpreted or shared without

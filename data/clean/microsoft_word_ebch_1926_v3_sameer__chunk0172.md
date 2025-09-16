@@ -1,7 +1,7 @@
-# A Textbook of Industrial Psychology
-
-differences between leadership and management styles, highlighting the key characteristics of each.
-
-- 1. Leadership Styles
-
-Leadership is about inspiring and guiding a group of individuals towards a common vision or goal. Effective leaders can motivate their teams, foster innovation, and drive organizational change. There are several leadership styles, each with its unique attributes and applicability.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: f94d421c63b964b010e459dad82e03fe385d128b
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# 37

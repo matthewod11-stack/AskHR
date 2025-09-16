@@ -1,9 +1,25 @@
-## Objective tests A type of personality test that is
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4046252e8bd63f9e2751c487ed911cfd46a83c4b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Neuroticism One of the big five personality categories
 
-structured to limit the respondent to a few answers that will be scored by standardized keys.
+(the opposite of emotional stability), a description of people who are anxious, tense, and worried. Newsletters A method of downward communication typically used to communicate organizational feedback and celebrate employee success.
 
-Observation A job analysis method in which the job analyst watches job incumbents perform their jobs.
+Noise Any variable concerning or affecting the channel that interferes with the proper reception of a message. Nominal group A collection of individuals whose results are pooled but who never interact with one another.
 
-Occupational Information Network (O*NET) The job analysis system used by the federal government that has replaced the Dictionary of Occupational Titles (DOT).
+Nonbinding arbitration A method of resolving
 
-Ombudsperson A person who investigates employees’
+conflicts in which a neutral third party is asked to choose which side is correct but in which either party may appeal the decision.
+
+Noncalculative motivation Those who seek leadership positions because they will result in personal gain.
+
+Nonconforming listening The listening style of a
+
+person who cares about only information that is consistent with his or her way of thinking.
+
+Nonverbal communication Factors such as eye contact and posture that are not associated with actual words spoken.
+
+Normative commitment The extent to which employees feel an obligation to remain with an organization. Norming The third stage of the team process, in which teams establish roles and determine policies and procedures.

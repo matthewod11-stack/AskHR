@@ -1,25 +1,31 @@
-# responsibilities.
+---
+source_path: H083D5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b38489324befed7a485087821c72590e93688e29
+title: H083D5-PDF-ENG
+---
+## communication can, for the new hire, generate anxiety, stress, and
 
-- Set realistic and manageable goals (both short and longer-term). Short-
+reduce conﬁdence, especially if people are afraid of asking for help or
 
-term goals should be things you are sure the new hire can execute
+making mistakes.
 
-— for example, scheduling lunch once a month with someone from a
+To ensure role clarity and to set new hires up to make meaningful
 
-diﬀerent team or creating a schedule to help with time management.
+contributions, consider the following strategies:
 
-As time goes on, the level of responsibility can increase, and longer-
+- Provide employees a document that describes realistic expectations
 
-term goals can be established. These expectations could include tasks
+and responsibilities for their role (and make sure it aligns with the job
 
-such as taking a public speaking course to enhance communication
+description). For example, to encourage collaboration and productive
 
-skills, taking the lead on a project to get leadership experience, or
+teamwork, include details not just of the new employee’s role, but
 
-achieving a certain number of sales within the ﬁrst year on the job.
+how their role ﬁts in with other team members’ roles, and the overall
 
-- Communicate a vision for what your organization is working to
+goals of the organization. Indicate any responsibilities or projects for
 
-accomplish and help employees see how they contribute to the
+which the new hire will take the lead. List task priorities as well as
 
-company’s success. For example, if an employee is hired for their
+a rough breakdown of how much time will be allocated to diﬀerent

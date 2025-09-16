@@ -1,19 +1,13 @@
-# University.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: b0d5c29d9919b4102c08684819af2b5d6d89d0d2
+title: internship_report
+---
+# Executive Summery
 
-Any human organization- a factory, a hospital or any association- consists of people working
+This is the internship report based on my job that I had completed in Karnaphuli Group, a private
 
-together. An organization is nothing without human resources. Machine is useless without
+well known organization under Business Development of Karnaphuli Group where I have been
 
-human beings. In fact management and human resources management are one and the same.
-
-Management is the process of efficiently getting things done with and through other people.
-
-Therefore Human Resources Management is that part of the management function which is
-
-concerned with people at work and with their relationship within an enterprise. According to
-
-Dale Yoder “Human resources management or personnel management is that phase of
-
-management which deals with effective control and use of manpower as distinguished from other
-
-sources of power. Human Resource Planning helps determine the number and type of people an
+working from 2013 to till now. This report is the requirement of my MBA program, BRAC

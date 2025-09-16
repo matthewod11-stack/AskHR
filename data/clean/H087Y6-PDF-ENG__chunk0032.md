@@ -1,13 +1,17 @@
-# What Happens Next
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 401ea5c8e66b934f5e14bf1dc22a059cc711f437
+title: H087Y6-PDF-ENG
+---
+## consensus among scholars and policymakers on the signiﬁcance of
 
-The FTC ﬁnal rule was approved in a 3-2 vote and is already facing legal
+ensuring that the labor market remains competitive. To that end, the
 
-challenges in federal court. As of April 29, at least three lawsuits have
+FTC received more than 26,000 comments on the proposed rule (I
 
-been ﬁled, from the U.S. Chamber of Commerce, and other business
+submitted two), with over 25,000 of the comments supporting the
 
-groups. The challenges include, in part, that the FTC lacks authority
+rule. In terms of wider U.S. public opinion, an Ipsos survey in 2023
 
-to promulgate such a rule, or any rulemaking authority altogether, that
-
-the rule is arbitrary and capricious, and that it fails the favorite new
+found that most Americans supported banning noncompetes.

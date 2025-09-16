@@ -1,3 +1,11 @@
-# Future Research
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: e817106276ef81bcb9e81bbd8b827a94da83bedf
+title: barrickryan_eds_personality_and_work
+---
+## THE MULTILEVEL ROLE OF PERSONALITY IN TEAMS 195
 
-The primary method of assessing team personality is thus to mea- sure and aggregate individual-level measures. In essence, each of the current approaches suggests that team-level personality can be assessed through measuring and statistically combining individual- level traits. This approach can be justiﬁed theoretically. However, little effort has been directed toward assessing whether team traits can be reliably assessed with measures targeted speciﬁcally at team- level perceptions. Can available individual-level trait measures be adapted to measure traits at the team level of analysis reliably? If team traits change with tasks, are team-level traits stable enough to label as personality? One method of assessing this is to ask team members and observers to provide measures of regularities and patterns for the collective group. In essence, this is what Chan (1998) refers to as a referent-shift consensus composition model, where individuals provide data but the target of their response is the team as a whole rather than an individual. Future research should compare this cross-level approach to measurement with cur- rently adopted measures that aggregate individual-level traits. Such
+ported by Barrick et al. (1998), who found the mean level of Con- scientiousness to correlate with team performance. However, the evidence also supports a dominance effect for Conscientiousness. Neuman and Wright (1999) found the inclusion of a single team member low on Conscientiousness to harm measures of team ac- curacy and work completion. Conscientiousness is thus likely to ag- gregate by both additive and dominance effects, with the team’s tasks potentially playing an important role. Tasks that are not highly interdependent and allow team members to compensate for the shortcomings of individuals should result in more of an addi- tive effect.
+
+Emotional Stability at the team level also seems to operate with additive and dominant effects. Barrick et al. (1998) found that the mean and minimum levels of Emotional Stability relate to a vari- ety of team process measures, including cohesion, conﬂict, ﬂexi- bility, communication, and workload sharing. The inclusion of even a single member low on Emotional Stability thus seems to have a harmful impact on the internal dynamics of a team.

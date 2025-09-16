@@ -1,13 +1,15 @@
-## American Sociological Review, 43: 721-739. http://dx.doi.org/10.2307/2094546
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 8aa983c928ab3a4ea3b529dc6939ad7af9a01ebf
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# Management and Innovation, 3: 131-139.
 
-CROPANZANO, R.; MITCHELL, M.S. (2005). Social Exchange Theory: An Interdisciplinary
+COMBS, J.; HALL, A.; KETCHEN, D. (2006). How much do high performance work practices
 
-Review. Journal of Management, 31(6): 874-900. http://dx.doi.org/10.1177/0149206305279602
+improve establishment-level outcomes?. Personnel Psychology, 59, 501-528.
 
-DATTA, D.K.; GUTHRIE, J.P.; WRIGHT, P.M. (2005). Human resource management and labor
+http://dx.doi.org/10.1111/j.1744-6570.2006.00045.x
 
-productivity: does industry matter?. Academy of Management Journal, 48(1): 135-152.
-
-http://dx.doi.org/10.5465/AMJ.2005.15993158
-
--184-
+COOK, K.; EMERSON, R.M. (1978). Power, Equity and Commitment in Exchange Networks.

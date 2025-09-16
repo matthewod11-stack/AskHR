@@ -1,9 +1,17 @@
-## between are the Baby Boomers, Generation X, Generation Y (often
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16aadec127369df45f32e789d250adfca03cbb95
+title: H0832U-PDF-ENG
+---
+# HBR Staff/Unsplash
 
-called the Millennials), and Generation Z.
+For the ﬁrst time in history, many workplaces span six generations:
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+from the octogenarians of the Silent Generation who are still working
 
-1
+— and in many cases still holding onto key global leadership roles —
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to the teenagers of the emerging Generation Alpha who are eagerly
+
+pursuing their ﬁrst summer jobs and high school internships. In

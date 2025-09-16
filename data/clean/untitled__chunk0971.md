@@ -1,9 +1,9 @@
-# Two Distinct Psychologies of Emotion 163
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 294c6021605f6bf42369f78c27b01262eda7c0b2
+title: untitled
+---
+## Emotions and Variations in Peripheral/Visceral Activity
 
-immuno-sympathectomies (Levi-Montalcini & Angeletti, 1961) have been studied, but the results have been equivocal (Wenzel, 1972).
-
-The most fervently pursued area of research has been in the hunt for visceral patterning. Once James had intimated and Lange had insisted that for every discrete emotion there existed a discrete pattern of visceral response, the search was on for specifying these discrete visceral antecedents of emo- tion. Unfortunately, some 90 years of search have proven fruitless.
-
-Before examining some of the purported positive pieces of evidence, we must be clear about the theoretical position in- volved. Speciﬁcally, it must be shown that some speciﬁc emotional experience is the consequence of (is caused by) a speciﬁc pattern of visceral response. For our current under- standing of causal analyses, any experiment claiming to sup- port that position must show at least that the visceral pattern occurs prior to the occurrence of the emotional experience. Mere demonstrations of correlation between emotion and visceral response are interesting but do not address the issue. Themostwidelycitedstudypurportingtosupportthephys- iological speciﬁcity notion is an experiment by Ax (1953). Ax exposed subjects either to a fear-provoking or to an anger- provokingsituationandmeasuredpatternsofphysiologicalre- sponse to these two experimental “stimuli.” Both situations produced elevated levels of sympathetic nervous system re- sponse with some signiﬁcant differences on a number of vis- ceral indicators. I do not need to argue that this does not show any causal effects of visceral patterns. In fact, the question is: What does it show? We do not know, in the absence of exten- sive internal analyses and subjects’ reports, what speciﬁc “emotion” the subjects experienced.
-
-To put the study in the proper historical perspective, it was done when psychology was still in the grip of the behavior- istic approaches to emotion when “fear” and “anger” were deﬁned by what was done to the subjects, not by what they perceived. In addition, the difference in visceral patterning was shown as the average pattern of response for the two groups of subjects. The kind of patterns that Ax found could have been a combination of a variety of patterns from each individual subject. Thus, with hindsight, we cannot even come to any correlational conclusion about this study. More important, subsequent attempts either to replicate or modify the study have either failed to replicate the study or to pro- vide any evidence for the causal effect of visceral patterns. The conclusions of a 30-year-old survey still hold: “Inves- tigators have been unable to ﬁnd an identiﬁable physiological change that corresponds to changes from one speciﬁc emo- tion to another,” but “there is an unspeciﬁc relation between the emotional state and physiological state” (Candland et al.,
+A number of research areas are relevant to the James-Lange position on the importance of visceral activity. The most obvious is to produce an organism without a sympathetic nervous system, which should produce an absence of emotional behavior. Some animal preparations using

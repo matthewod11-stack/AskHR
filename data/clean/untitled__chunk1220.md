@@ -1,5 +1,9 @@
-# York: Norton.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b1de378e96909697a868d3ab91b3e306b9bdd17c
+title: untitled
+---
+# logical Review, 52, 234–238.
 
-Sokal, M. M. (1984). James McKeen Cattell and American psychol- ogy in the 1920s. In J. Brozek (Ed.), Explorations in the history of psychology in the United States (pp. 273–323). Lewisburg, PA: Bucknell University Press.
-
-Stagner, R. (1937). Psychology of personality. New York: McGraw-
+Smith, R. (1997). The Norton history of the human sciences. New

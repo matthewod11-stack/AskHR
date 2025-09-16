@@ -1,15 +1,7 @@
-# Karen Knorr
-
-The Spotify app knows what you want to hear. It uses AI to process a
-
-vast array of your engagement data, including the songs, podcasts, and
-
-audiobooks you’ve listened to, when you listened to them, and what led
-
-you to them. Its library is tagged by genre, era, tempo, mood, and a long
-
-list of other characteristics. The tags allow Spotify to collate playlists
-
-based on your listening habits. The app is always learning, constantly
-
-running micro tests with user groups. Spotify attributes a large part
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 06ee6a8427c986a2dd63949fe28146089004153d
+title: R2406G-PDF-ENG
+---
+## From the Magazine (November–December 2024) / Reprint R2406G

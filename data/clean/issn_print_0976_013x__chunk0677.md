@@ -1,7 +1,11 @@
-# today/news/hr-magazine/0418/pages/6-steps-for-building-an-inclusive-workplace.aspx):
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 93821991f14b2bce81ae923115ee6517365e596c
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
- Make sure company leaders understand that inclusion is about ensuring that
+Furthermore, Society for HRM has prepared a comprehensive checklist for inclusivity that the
 
-everyone’s voice is heard, opinions are considered and value to the team is evident.
-
- Train managers—and hold them accountable—to show that inclusivity is a core
+organizations must heed to foster a robust D&I programme (https://www.shrm.org/hr-

@@ -1,9 +1,9 @@
-# MS
+---
+source_path: H07EE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2f8c69cb7a4687d1b53b5ce95607d6adb3c982a6
+title: H07EE6-PDF-ENG
+---
+# KB
 
-Maya Stephens is a Social Scientist in the Oﬃce of Research Services at the University of Virginia Darden School of Business. She holds a Master of Public Policy degree from the University of Virginia Frank Batten School of Leadership and Public Policy, which focused on labor rights, supply chains, and corporate-social responsibility.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Kathryn Babineau is a Ph.D. student in the University of Virginia’s Department of Sociology and the Groundbreakers Fellow at the Jeﬀerson Scholars Foundation. She studies the regulation of global supply chains, labor rights, and migration. Outside of academia, she has worked as a human rights investigator in US agriculture and as a foreign policy researcher.

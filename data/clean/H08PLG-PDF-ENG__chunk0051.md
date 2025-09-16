@@ -1,11 +1,11 @@
-# Markets
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 198dace1c1551d91a7bf51efc717ad2c63926f62
+title: H08PLG-PDF-ENG
+---
+## them. Consider the International Computation and AI Network, which
 
-Open-source tools and applications create more opportunities for
+promotes AI access worldwide, and AI for Good which focuses on
 
-companies across the world to leverage AI. The commercial beneﬁts can
-
-be signiﬁcant, as the democratization of the technology can not only
-
-solve for local problems but may generate demand in multiple markets.
-
-Consider the examples of AI-aided disease identiﬁcation in plants from
+solving for global challenges.

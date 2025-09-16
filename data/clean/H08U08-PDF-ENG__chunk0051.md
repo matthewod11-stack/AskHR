@@ -1,5 +1,9 @@
-## Una vez que haya aclarado el impacto empresarial y reforzado su caso
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6a5c3910d4a4876cc47cc745a73d7965d247694
+title: H08U08-PDF-ENG
+---
+# caso.
 
-con apoyo estratégico, su siguiente paso es darle vida. Se trata de ayudar
-
-a la C-suite a ver el panorama completo antes de que las decisiones
+- 3. Hágalo visible.

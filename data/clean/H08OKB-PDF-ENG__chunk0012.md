@@ -1,19 +1,9 @@
-# course clients.
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8e1da8b87b0930185c60bc60f9a2460d70e0462
+title: H08OKB-PDF-ENG
+---
+## on the contributions and support of many others beyond the star in
 
-Performance also depends on routines, systems, and cultures of work
-
-which are often organization speciﬁc. As they move, stars lose their
-
-broader support networks and systems which greatly facilitated their
-
-exceptional performance. Moreover, research has shown that stars
-
-often struggle to adjust to their new organizations’ systems, routines,
-
-networks and cultures, as they are too invested in their previously
-
-successful ways of working. Indeed, many stars also feel that their star
-
-status insulates them from the need to change, and instead expect their
-
-new organization to adapt to them. They might in other words buy into
+question, including professional colleagues both in the star’s own team and across their broader organization, clerical and support staﬀ, and of

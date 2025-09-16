@@ -1,15 +1,13 @@
-# Penalties/Sanctions
+---
+source_path: Employment Law Guide - Wage Garnishment.md
+pages: n/a-n/a
+chunk_id: 173739e5e27d01a4e6b81a42ca2d8af7d3421a5c
+title: Employment Law Guide - Wage Garnishment
+---
+# Notices and Posters
 
-Violations of Title III may result in the reinstatement of a discharged employee, payment of back wages, and
+There are no poster or notice requirements under Title III of the Consumer Credit Protection Act.
 
-restoration of improperly garnished amounts. Where violations cannot be resolved through informal means,
+There are no recordkeeping requirements under Title III of the Consumer Credit Protection Act.
 
-the Department of Labor may initiate court action to restrain violators and remedy violations. Employers who
-
-willfully violate the law's prohibition against termination may be prosecuted criminally and ﬁned, or imprisoned for not more than one year, or both.
-
-If a state wage garnishment law diﬀers from Title III, the employer must observe the law resulting in the smaller
-
-garnishment and must observe any law prohibiting the discharge of an employee because his or her earnings have been subject to garnishment for more than one debt.
-
-Compliance Assistance Available
+There are no reporting requirements under Title III of the Consumer Credit Protection Act.

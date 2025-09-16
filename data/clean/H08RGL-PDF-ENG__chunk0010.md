@@ -1,35 +1,29 @@
-# Why Unhelpful Help Happens
+---
+source_path: H08RGL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e454c97235f315c2f493961a0a9fb1ec301a44b
+title: H08RGL-PDF-ENG
+---
+## HBR / Digital Article / Research: When Help Isn’t Helpful
 
-Our research identiﬁed three factors that contribute to unhelpful help:
+In our years of studying the helping process, we’ve discovered that
 
-- 1. Fuzzy Asks and Murky Understandings
+help at work is a paradox. Some aspects of organizational structure that
 
-In a culture where helping is expected, people ask for help often—but
+make help common enough to fuel creativity and learning also increase
 
-not always clearly. This was Glow’s ﬁrst trap. Strong norms encouraged
+the likelihood that unhelpful help will emerge. These structures are (1)
 
-asking for help, but people didn’t know how to ask for help eﬀectively.
+strong helping norms, (2) ﬂat hierarchies, and (3) ﬂexible roles.
 
-Speciﬁcally, people didn’t want to seem too demanding, so they made
+Strong helping norms increase the likelihood that people will ask for
 
-what we call fuzzy asks—vague, open-ended requests like “I just wanted
+help when they need it, and others will agree to give it. Flat hierarchies
 
-to get your input.”
+mean that people don’t worry as much about asking others for help
 
-As one designer in our study reﬂected, “Helping somebody help you is often quite diﬃcult when you’re overwhelmed with information and
+—even those experts who might be hard to approach in a steeper
 
-you don’t know how to narrow down the question.”
+hierarchy. Finally, when roles are ﬂuid and everyone feels responsible,
 
-Help-givers, in turn, were left guessing. One explained, “It was unclear
-
-what the team wanted from me…I think it was more like, ‘Can you
-
-come in and just be part of this discussion?’” The result? Murky
-
-understandings that led to help that didn’t ﬁt the receivers’ needs.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+it’s hard to know who is responsible for what.

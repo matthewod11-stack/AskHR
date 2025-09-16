@@ -1,3 +1,9 @@
-# Psychologist, 54, 362–363.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7007230cd43e45f16cea114c9227a449d0342c79
+title: untitled
+---
+## general psychology. Psychological Review, 40, 196–208.
 
-Korn, J. H., Sweetman, M. B., & Nodine, B. F. (1996). An analysis of and commentary on consultants’ reports on undergraduate psychology programs. Teaching of Psychology, 23, 14–19.
+Korn, J. H. (1999). Recognizing teaching as teaching. American

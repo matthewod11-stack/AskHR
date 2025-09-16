@@ -1,11 +1,15 @@
-# presenteeism:
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 794da154c634c61914688c51c98745b817931bfa
+title: H08R51-PDF-ENG
+---
+## workers, reveals that presenteeism isn’t just about individual decisions
 
-- 1. Men and women experience job ﬂexibility differently.
+or even sick leave policies. It’s a symptom of deeper, structural issues:
 
-Women in our study with rigid, low-ﬂexibility jobs like nursing,
+how jobs are designed, how work is structured across industries, and
 
-teaching, and administrative support reported working signiﬁcantly
+how cultural norms around availability and commitment are reinforced.
 
-more days while sick than men in similar roles. Concerns about job
-
-security, ﬁnancial strain, and potential repercussions for taking sick leave may make it more diﬃcult for women in these roles to prioritize
+From this, we identiﬁed three core organizational drivers that shape

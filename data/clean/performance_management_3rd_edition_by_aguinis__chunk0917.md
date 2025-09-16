@@ -1,41 +1,17 @@
-## Teamwork Leadership Business acumen Customer service Project management
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: f3f8ccadafff52699747963bded85ebca495898f
+title: performance_management_3rd_edition_by_aguinis
+---
+# Areas of concentration
 
-1 1
+Did not meet expectations
 
-1
+Achieved most expectations
 
-1
+Achieved expectations
 
-1
+Achieved expectations and exceeded on a few
 
-2 2
-
-2
-
-2
-
-2
-
-3 3
-
-3
-
-3
-
-3
-
-4 4
-
-4
-
-4
-
-4
-
-5 5
-
-5
-
-5
-
-5
+Significantly exceeded expectations

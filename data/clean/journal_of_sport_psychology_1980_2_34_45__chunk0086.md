@@ -1,11 +1,17 @@
-# LEADERSHIP SCALE 45
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: 345b6b2938f489acee57667c9afbdd7623d33492
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# Fleishman, E.A. The Leadership Opinion Questionnaire. In R.M. Stogdill & A.E. Coons
 
-House, R.J. A path-goal theory of leader effectiveness. Administrative Science Quarterly,
+(Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research, 1957. (b)
 
-1971,16,321-38.
+Halpin, A.W. The leader behavior and effectiveness of aircraft commanders. In R.M. Stogdill & A.E. Coons (Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research, 1957.
 
-House, R.J., & Dessler, G. The path-goal theory of leadership: Some post hoc and a priori
+Halpin, W.W., & Winer, R.J. A factorial study of the leader behavior description. In
 
-tests. In J.G. Hunt & L.L. Larson (Eds.), Contingency approaches to leadership. Carbondale, IL: Southern Illinois University Press, 1974.
+R.M. StogdillA A.E. Coons (Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research, 1957.
 
-Kerlinger, F.N. Foundations of behavioral research. New York: Holt, Rinehart, &
+Hemphill, J.K., & Coons, A.E. Development ofthe leader behavior description question- naire. In R.M. Stogdill & A.E. Coons (Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research 1957.

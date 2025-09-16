@@ -1,19 +1,27 @@
-## http://www.phac-aspc. gc.ca/pau-uap/fitness/ work/ study_vancouver_e.html
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ff29736e0e80586588744fc140b0fe0f15d42885
+title: industrial_organizational_psychology_an_applied_approach
+---
+# The Vancouver Interna-
 
-In this chapter you learned: 7
+tional Airport, located in Richmond, British Columbia, is Canada’s second busiest airport; serving over 17.5 million passengers in 2007. It has been named the top airport in North American for overall customer satisfac- tion. Thus, it takes great pride in its employees and their performance.
 
-The field of I/O psychology consists of three major subfields: personnel psychology, organizational psychology, and human factors. Industrial psychologists work in a variety of settings including industry, government, education, and consulting firms. The field of I/O psychology began in the early s and has grown rapidly since then: Division  of the APA began in  with  members and now has nearly , members. World War I, World War II, the Hawthorne studies, civil rights legislation, new technology, and changing demographics have had important impacts on I/O psychology. At least a master’s degree is required to find employment in the field, and median salaries currently are around $, at the master’s level and $, at the Ph.D. level.
+The Airport Authority oversees more than 300 employees in such areas as project management, finance, human resources, engineer- ing, communications, and emergency preparedness. Employees working for the airlines, stores, and restaurants are not part of the Airport
+
+Authority as they are employ- ees of private companies. To reduce costs and increase productivity, the Vancouver Airport Authority designed a wellness program for its employees. The program, called Fitness and Balance, comprised many components, including seminars on such topics as smoking cessation and stress management; health-related newsletters and announcements; outdoor-ac- tivity days in which employees and their families could hike, skate, or walk; and discounts at fitness facilities. To deter- mine the effectiveness of this program, the Airport Authority collected data and found that absenteeism dropped from
+
+4.07% to 2.55% and that the number of annual injuries dropped from 22 to 6. 7
+
+How would you have designed the study to determine the effective- ness of the wellness program?
 
 7
 
-7
+What outcome measures other than absenteeism and injuries might you use?
 
 7
 
-introduction to i/o psychology
+What ethical or practical considerations need to be considered when collecting and reporting data in a study such as this one?
 
-31
-
-7 7
-
-Research is important so that I/O psychologists can make the best decisions. Decisions must be made regarding what to research, the loca- tion of the research (laboratory or field), the research method that will be used (experimental method, nonexperimental method, sur- vey, archival research, meta-analysis), the sample that will be used, and the statistics that will be selected to analyze the research data.
+More information on this case can be found at:

@@ -1,13 +1,9 @@
-## Perspective.” Organizational Dynamics 34 (2): 153-167.
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: 688387a28ea579ca3f596a2234d856916ae701d1
+title: sciencedirect
+---
+## Conference on Knowledge Management: ECKM2015, Academic Conferences Limited.
 
-[9] Luthans, F. (2002) “The Need for and Meaning of Positive Organizational Behavior.” Journal of Organizational Behavior: The
-
-International Journal of Industrial, Occupational and Organizational Psychology and Behavior 23 (6): 695-706.
-
-[10] El-Den, J., and K. Dangi. (2016) “A Comparative Study and Analysis Between the (Positive Traits and Personal Strengths) PP Model and Current Security Compliance Models”, in ECIC2016-Proceedings of the 8th European Conference on Intellectual Capital: ECIC2016, Academic Conferences and publishing limited.
-
-[11] Csikszentmihalyi, M. and J. LeFevre. (1989) “Optimal Experience in Work and Leisure.” Journal of Personality and Social Psychology 56
-
-(5): 815.
-
-[12] Seligman, M.(2000) Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment, Atria
+[5] Cameron, K., and J. Dutton. (2003) Positive Organizational Scholarship: Foundations of a New Discipline. Berrett-Koehler Publishers. [6] Seligman, M.E., et al. (2005) “Positive Psychology Progress: Empirical Validation of Interventions.” American Psychologist 60 (5): 410. [7] Fryer, B. (2004) “Accentuate the Positive.” Harvard Business Review 82 (2): 22. [8] Peterson, S.J., and B.K. Spiker. (2005) “Establishing The Positive Contributory Value of Older Workers:: A Positive Psychology

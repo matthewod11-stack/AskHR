@@ -1,41 +1,19 @@
-# HBR / Digital Article / How Constructive Dissent Can Unlock Your Team’s Innovation
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21284e04eb9b445dd8e9d143848db71d1d865fba
+title: H08M6G-PDF-ENG
+---
+# motives.
 
-aﬃliation to something more personal. They assigned team members
+One team we saw do this eﬀectively assigned team members to
 
-to eat lunch with each other on a rotating basis while conducting the
+interview each other using a standard interview protocol with a set
 
-interviews. This practice worked against the natural tendency to split
+of penetrating questions that quickly moved the relationship from
 
-into groups based on natural aﬃnity.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-- 6. Use assigned roles to practice constructive dissent.
+5
 
-Creating constructive dissent as a norm takes more than
-
-encouragement — it also requires practice and accountability. As a ﬁrst
-
-step, you might assign certain members of your team to promote a
-
-contrary point of view once an idea has been shared. As a second step, after diﬀerent points of view have been shared, you might then assign
-
-team members to champion each other’s views.
-
-Another eﬀective exercise is to share an idea publicly and then
-
-challenge your own idea. After modeling that process, have each
-
-member of the team do the same thing: Generate an idea, share the
-
-idea with the team, and then challenge their own idea.
-
-- 7. Lead with inquiry.
-
-In working with teams across demographic and cultural lines, we see a
-
-consistent pattern: When a team member directly rejects or contradicts
-
-another’s point of view, constructive dissent is immediately put at
-
-risk. In team interactions, we call direct and unsympathetic forms of
-
-disagreement “head-on collisions.” Even when team members try to be
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

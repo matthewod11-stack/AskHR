@@ -1,21 +1,19 @@
-## doctrine of the current Supreme Court, the major questions doctrine.
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 28c9a0150636e83402259f69f7eae80c2b10880c
+title: H087Y6-PDF-ENG
+---
+# What Happens Next
 
-Many predict that under the current court climate, the challenges have a
+The FTC ﬁnal rule was approved in a 3-2 vote and is already facing legal
 
-good chance to lead to the striking down of the rule.
+challenges in federal court. As of April 29, at least three lawsuits have
 
-Ever the optimist, I remain hopeful that the robust record of empirical
+been ﬁled, from the U.S. Chamber of Commerce, and other business
 
-evidence about the beneﬁts of the rule will be heard. But if facts
+groups. The challenges include, in part, that the FTC lacks authority
 
-don’t sway the court, then the action to protect talent mobility will
+to promulgate such a rule, or any rulemaking authority altogether, that
 
-continue to be the purview of the states, and congress could pass
-
-a law that statutorily bans noncompetes. Last year, I drafted a bill
-
-to strengthen California’s longstanding public policy that voids all
-
-noncompetes, signed into law by Governor Gavin Newsom. Other states
-
-have recently moved closer to California’s policy, providing further
+the rule is arbitrary and capricious, and that it fails the favorite new

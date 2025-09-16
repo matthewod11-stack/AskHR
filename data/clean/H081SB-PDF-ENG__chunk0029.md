@@ -1,25 +1,39 @@
-## speciﬁc to their environment and workforce.
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 840b3906da0671ad13ad175eb9481aa0c881dd28
+title: H081SB-PDF-ENG
+---
+# HBR / Digital Article / When New Hires Get Paid More, Top Performers Resign First
 
-That being said, our data suggests that unless employers adjust existing
+in particular to avoid losing top performers, pay adjustments have to
 
-employees’ wages soon after making a higher-paid new hire, employees
+happen fast.
 
-tend to resign — and that top performers tend to resign even faster
+. . .
 
-than others. As such, employers should be aware of the psychological
+The world of pay and compensation is incredibly complex. There are
 
-eﬀects that hiring higher-paid external talent can have on their teams,
+countless factors to balance, and no guarantees of success — even
 
-they should conduct regular pay equity analyses to ensure that any
+with the best of intentions. Moreover, while our research focused on
 
-disparities are fully explainable, and they should develop the agility
+a general analysis of workforce behavior, prior work suggests that
 
-necessary to adjust wages as soon as inequities are identiﬁed.
+inequities are likely further exacerbated by gender and racial biases. For
 
-This article was originally published online on March 5, 2024.
+example, data from the Pew Research Center has shown that American
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+women still make just 82 cents for every dollar earned by men, and that
 
-7
+gap is even greater for Black and Hispanic women.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+In addition, every organization faces its own unique challenges. While
+
+our analyses highlight big-picture trends, they represent correlations,
+
+not necessarily causal eﬀects, and they may not hold for all employers.
+
+It’s up to individual organizations to analyze their own data to test
+
+whether they see similar patterns and to identify any eﬀects that may be

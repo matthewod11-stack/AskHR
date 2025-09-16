@@ -1,7 +1,7 @@
-# Future Research Directions
-
-The model that we present here focuses on the processes through which traits inﬂuence performance. A major contention of the me- diational portion of the model is that traits are expressed through broad goals, or personal strivings. Although this perspective is gen- erally supported by theory and empirical research, there are some additional ways that goals and goal properties might mediate the personality-situation relationship with behavior. For example, Mitchell and Wood (1994) point out that some goals focus on process while others focus on outcomes. People high on Agree- ableness may be more motivated by process goals, and people high on Conscientiousness may prefer outcome goals. In addition, re- search could test to see the consistency of goals preferred across different hierarchical levels. Individuals high on communion striv- ing, for example, should also embrace values reﬂecting the im- portance of interpersonal harmony at the highest level and working in teams at a lower task-speciﬁc level. Similar type consis- tency would be expected for Status Striving and Accomplishment Striving. Examinations of such consistencies and goal preferences are clearly warranted and provide a potentially fruitful path for ad- ditional research.
-
-Another major dimension of goal-setting research focuses on whether goals should be set by the self, assigned, or set participa- tively with one’s boss. At least initially, we believe that personality factors might be related to preferences for these different strate- gies. For example, highly conscientious people might prosper with self-set goals, people high on Agreeableness might prefer the in- terpersonal process involved with participation, and emotionally stable people might prefer the concreteness and speciﬁcity of as- signed goals. Thus, the goal construct and the goal-setting process also hold promise for further research on the mediating role be- tween personality and behavior.
-
-Sheldon and Elliot’s self-concordance model (1999) provides some interesting thoughts for guiding future research. This model suggests that people are more likely to persist at and derive well- being from goals congruent with enduring interests and values. This perspective suggests that extraverted individuals are likely to
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 1497a4c2d86a10a1d9f8d0fd2988f451cb5bf097
+title: barrickryan_eds_personality_and_work
+---
+## INFLUENCES ON TRAIT-BEHAVIOR RELATIONSHIPS 75

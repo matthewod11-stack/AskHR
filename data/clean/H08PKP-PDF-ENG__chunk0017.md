@@ -1,17 +1,13 @@
-# conﬁrm feasibility.”
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11cc2c9b834d89b6f65de2c6a701b24f95b1ca9a
+title: H08PKP-PDF-ENG
+---
+## HBR / Digital Article / When You’re Asked to Meet Impossible Goals
 
-Expose the trade-oﬀs. Help executives weigh consequences by framing
+- “Let’s have leadership sit down with the teams who would execute this
 
-decisions around priorities. Guide them to make informed choices by
+to get a clear sense of timeline, risks, and capacity.”
 
-laying out the consequences and what will be delayed, deprioritized, or
-
-compromised. This reframes your refusal as responsible leadership. You
-
-can say:
-
-- “We can hit that number, but we’ll need to cut back on product
-
-development—are we okay with that?”
-
-- “Are we willing to accept these execution risks to achieve this new
+- “Before we approve this, let’s hear from the teams executing it to

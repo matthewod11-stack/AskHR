@@ -1,37 +1,27 @@
-# HBR / Digital Article / 5 Ways Companies Are Addressing Skills Gaps in Their Workforc…
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c547f21ed9845530c7fb941aa5ba6c372cb0c023
+title: H07OHG-PDF-ENG
+---
+# The Democratization of Coaching
 
-assess what each employee needs from their coach, match them with
+How all of us can have a Sherpa for our careers
 
-a coach who has the right experience and expertise, and even conduct
+Professional coaching is a well-understood way to boost workers’
 
-coaching sessions via a digital platform.
+learning, conﬁdence, and eﬀectiveness. However, it has typically been
 
-The space is growing. According to the International Coaching
+an expensive tool, reserved only for senior executives. Moreover, even
 
-Federation, there were 71,000 practicing coaches in 2021, up 33% from
+for those who can aﬀord it, ﬁnding a coach can be a challenge.
 
-- 2016. Investors expect growth to continue: The leading digital coaching
+New platforms have emerged that use technology to make it easier to
 
-startup, BetterUp, raised $300m in 2021 at a $5bn valuation as part of a
+ﬁnd, match, and work with coaches. New companies provide tools to
 
-wave of investment into coaching startups.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Much of this growth is powered by large companies oﬀering coaching
+5
 
-services more broadly to their employees. Danone, the France-based
-
-food products company, has been working with one provider,
-
-CoachHub, to oﬀer this beneﬁt to 250 employees. According to
-
-Maxime Hollande, who leads diversity and inclusion for Danone in the
-
-Netherlands, “these coaching sessions have been of big added value for
-
-employees… One of the metrics we watch closely is the extent to which
-
-each employee has progressed toward the personal goals each of them
-
-deﬁne with their coach. The average score on this metric is 4.9 out of 5.”
-
-Chevron, the American global energy company, has made coaching
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

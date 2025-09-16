@@ -1,41 +1,49 @@
-## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d610a55736d1605a072f4172feab0be5b788b491
+title: R0507Q-PDF-ENG
+---
+## particular view of the world and its perspective on key success factors.
 
-means that some of the people who perform them are no longer
+But that view is not necessarily correct. Even an excellent set of
 
-needed. Companies are understandably reluctant to lay oﬀ employees,
+balanced scorecard measures does not guarantee a winning strategy.
 
-especially since the employees may have been the source of the ideas
+The balanced scorecard can only translate a company’s strategy
 
-that produced the higher quality and reduced cycle time. Layoﬀs are
+into speciﬁc measurable objectives. A failure to convert improved
 
-a poor reward for past improvement and can damage the morale of
+operational performance, as measured in the scorecard, into improved
 
-remaining workers, curtailing further improvement. But companies will
+ﬁnancial performance should send executives back to their drawing
 
-not realize all the ﬁnancial beneﬁts of their improvements until their
+boards to rethink the company’s strategy or its implementation plans.
 
-employees and facilities are working to capacity—or the companies
+As companies have applied the balanced scorecard, we have begun to recognize that the scorecard represents a fundamental change in the underlying assumptions about performance measurement.
 
-confront the pain of downsizing to eliminate the expenses of the newly
+As one example, disappointing ﬁnancial measures sometimes occur
 
-created excess capacity.
+because companies don’t follow up their operational improvements
 
-If executives fully understood the consequences of their quality and
+with another round of actions. Quality and cycle-time improvements
 
-cycle-time improvement programs, they might be more aggressive
+can create excess capacity. Managers should be prepared to either put
 
-about using the newly created capacity. To capitalize on this self-
+the excess capacity to work or else get rid of it. The excess capacity must
 
-created new capacity, however, companies must expand sales to existing
+be either used by boosting revenues or eliminated by reducing expenses
 
-customers, market existing products to entirely new customers (who
+if operational improvements are to be brought down to the bottom line.
 
-are now accessible because of the improved quality and delivery
+As companies improve their quality and response time, they eliminate
 
-performance), and increase the ﬂow of new products to the market.
+the need to build, inspect, and rework out-of-conformance products
 
-These actions can generate added revenues with only modest increases
+or to reschedule and expedite delayed orders. Eliminating these tasks
 
-in operating expenses. If marketing and sales and R&D do not generate
+Copyright © 2005 Harvard Business School Publishing. All rights reserved.
 
-the increased volume, the operating improvements will stand as excess
+17
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,7 @@
-# The Contributors
-
-Murray R. Barrick is the Stanley M. Howe Leadership Chair at the Tippie College of Business, University of Iowa. His research has been published in the Journal of Applied Psychology, Personnel Psy- chology, and Organizational Behavior and Human Decision Processes, among others. He was recognized by the Academy of Management with the Outstanding Published Paper Award in 1992 by the Schol- arly Achievement Award Committee of the Personnel/Human Re- sources Division, and in 2001, he was the recipient of the Owens Scholarly Achievement Award. In 1997, he was elected a fellow of the Society of Industrial and Organizational Psychologists in the American Psychological Association. He also serves on the editor- ial boards of the Journal of Applied Psychology and Personnel Psychology and has served on the editorial board of the Journal of Management. He received his Ph.D. from the University of Akron in industrial/ organizational psychology.
-
-Ann Marie Ryan is a professor of industrial/organizational psy- chology at Michigan State University. Her research interests are in the areas of fairness and employment selection and recruitment procedures, and selection tools, and she has published widely in these areas. She is president of Division 14 of the American Psy- chological Association, the Society for Industrial and Organiza- tional Psychology, and is editor of Personnel Psychology. She received her Ph.D. from the University of Illinois at Chicago.
-
-Michael J. Cullen is completing his doctoral studies in industrial/ organizational psychology at the University of Minnesota-Twin Cities. His interests are training, personality, and selection issues related to reducing counterproductivity in the workforce. He has coauthored a book chapter on integrity testing for the I/O volume
-
-xvii
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 9b7ffeb0112246ffbce807c90132e7d2bc906f33
+title: barrickryan_eds_personality_and_work
+---
+# ANN MARIE RYAN East Lansing, Michigan

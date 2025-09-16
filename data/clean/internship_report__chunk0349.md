@@ -1,11 +1,7 @@
-# IV. Discharges on Medical Ground
-
-Given at any time while the employee supported by a medical report is incapacitated by reason
-
-of ill health or accident from performing his/her duties hereunder if he/she shall have been so
-
-incapacitated for a period or periods totaling 180 (one hundred and eighty) days or more during
-
-any period of 12 (twelve) calendar months, the Company may discharge him/her on medical
-
-ground and pay him/her such compensation as may be decided by the Company.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 759cbc13f02f8d6eef8cfa2cf885c2d8a1cc615f
+title: internship_report
+---
+## his/her service without any notice and benefit.

@@ -1,17 +1,19 @@
-## HBR / Digital Article / Is Bad Onboarding Stifling Your New Senior Leaders?
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f405ecd49df6bdda8578c589fe1c9672979e5c7c
+title: H078YM-PDF-ENG
+---
+# organization.
 
-new job. The implication is that the organization works a certain way,
+Onboarding is traditionally understood to be a process of orienting
 
-and the new employee needs to adjust to ﬁt in.
+new employees to the existing people, rules, culture, norms, processes,
 
-As a leader, however, your job is to continually improve your
+procedures, and behaviors that they will need to be successful in their
 
-organization. That’s probably why you were hired for the job: From
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-the organization’s point of view, bringing in new leaders (from outside
+1
 
-the existing team or organization) is one of the best ways to create
-
-change and impact. New senior people bring fresh perspectives that can
-
-challenge existing assumptions and renewed energy for making things
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

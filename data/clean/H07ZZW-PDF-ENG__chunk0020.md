@@ -1,9 +1,11 @@
-## walkouts at Google over lucrative and secretive sexual harassment
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 652b2f89e2d8e7c479293e7f7836a648c81711ab
+title: H07ZZW-PDF-ENG
+---
+## Threats from within pose perhaps the most challenging issue for
 
-settlements. When Amazon announced a $10 billion investment to
+corporate aﬀairs teams, as employees seek to hold leaders accountable
 
-tackle climate change, employees broke conﬁdentiality agreements to
-
-highlight the company’s ongoing work with oil and gas companies.
-
-Workers at McKinsey helped reporters trace the ﬁrm’s simultaneous
+for ethical missteps. For example, employees organized protests and

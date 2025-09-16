@@ -1,17 +1,15 @@
-# Monitoring the Work
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09a5cf7a01732fc8f301f04045cbdfbdd7d035c2
+title: H07SHK-PDF-ENG
+---
+## The level of personal participation CEOs choose in situations such
 
-CEOs must also choose how much they want to be personally engaged
+as these reﬂect how tightly they want to manage each process, the
 
-in monitoring the work. Providing feedback as any decision-making
+importance they attach to the decision, the level of conﬁdence they
 
-process unfolds is a vital element of the CEO’s role. In the case of
+have in the leaders involved in each case, and how costly they feel it
 
-periodic reviews, CEOs describe themselves as monitors who must
-
-check to ensure things are on track and that the organization is
-
-executing as planned. Sometimes, CEOs describe their role as a
-
-coach, educating people, providing constructive feedback, and helping
-
-improve performance while doing little to actually inﬂuence the ﬁnal
+would be to intervene and change course as the process unfolds.

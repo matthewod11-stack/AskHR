@@ -1,7 +1,13 @@
-## excess stress and overthinking in the face of ambiguity.
+---
+source_path: H07KV7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97b40771d6281306f2ffc0c03eee8f892944024d
+title: H07KV7-PDF-ENG
+---
+# Prioritize clarity.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Highly sensitive people are wired to look for danger. This vigilance was
 
-3
+helpful in prehistoric days and can come in handy for identifying risks
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that threaten the team or business’s safety and security. But it can cause

@@ -1,33 +1,43 @@
-## observability in the aggregate, a higher level perspective of your agents.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 297ec693a82d4664ac2c165c0ef0691922a74463
+title: agents_companion
+---
+# Agent Success Metrics
 
-Human feedback is one of the more critical metrics to track as well. A simple 👍👎 or user feedback form, within the context of an agent or task can go a long way to understanding
+Metrics are critical to building, monitoring, and comparing revisions of Agents. Business
 
-where your agent does well and where it needs improvement. This feedback can come from
+metrics, like revenue or user engagement, are probably outside of the scope of the agent
 
-end users of a consumer system, but also employees, QA testers, and process or domain
+itself but these should be the north star metric for your agents.
 
-experts reviewing the agent.
+Most Agents are designed around accomplishing goals, so goal completion rate is a key
 
-More detailed observability is also very important for agent building, being able to see and
+metric to track. Similarly, a goal might be broken down into a few critical tasks or critical
 
-understand what the agent is doing and why it’s doing that. An agent can be instrumented
+user interactions. Each of these critical tasks and interactions should be independently
 
-with “trace” to log all of the inner workings of the agent, not only the critically important
+instrumented and measured.
 
-tasks and user interactions. You could conceptually measure every internal step as metrics,
+So before we get into the details of the Agent itself, we already have several metrics
 
-but that is rarely done. Instead these detailed traces are used to debug an agent when
+identified which you should be able to easily track on a dashboard. Each business metric,
 
-metrics or manual testing show a problem, you can dig into details and see what went wrong.
+goal, or critical interaction, will be aggregated in a familiar fashion: attempts, successes,
 
-13
+rates, etc. Additionally, metrics you should be able to get from any application telemetry
 
-Figure 3: An example of Cloud Observability showing traces for an agent with tools and LLM OpenTelemetry spans.15
+system are very important to track for agents as well, metrics like latency, errors, etc.
 
-So far we’ve been talking about business metrics, goals, tasks, human feedback, and traces
+12
 
-– those are all ways of understanding the actions and impact of your agents, in production.
+None of these metrics are specific to Agents, you could track them for any software, but they
 
-While developing an agent, in addition to manual testing, automated testing will be much
+are even more important for Agent builders. Deterministic code does only what you tell it to
 
-more efficient in the long run and provide greater insights into the behavior of agents.
+do, whereas an agent can do a lot more, relying on LLMs which are trained on huge amounts
+
+of data. Instrumentation of these high level metrics is an important part of observability.
+
+You can think of them as Key Performance Indicators (KPI) for the agent, and they allow for

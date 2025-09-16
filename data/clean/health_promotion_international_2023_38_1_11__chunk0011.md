@@ -1,7 +1,23 @@
-# 4
+---
+source_path: health_promotion_international_2023_38_1_11.md
+pages: n/a-n/a
+chunk_id: cefc851ed7575ee6c24be4bb5b1abd3b96839992
+title: health_promotion_international_2023_38_1_11
+---
+# 3
 
-by the employees as insiders to some extent because we wore similar clothes (in the industrial production company) and obeyed the same working times and rules (in the social workplace). As trusted outsiders we were able to collect ‘thicker’ and contextualized insights than a one-off interview would have provided: we observed particular ‘unsafe’ situations, witnessed high heated conversations on the work floor and were able to see events within a larger context and timeline. The informed consent process was part of the entire fieldwork period and continued as an ongoing dia- logue and negotiation with the research participants, echoing the American Anthropological Association’s (American Anthropological Association, 2012) defini- tion of informed consent.
+(cid:68) (cid:111) (cid:119) (cid:110) (cid:111) (cid:97) (cid:100) (cid:101) (cid:100) (cid:32) (cid:102) (cid:114) (cid:111) (cid:109) (cid:32) (cid:104) (cid:116) (cid:116) (cid:112) (cid:115) (cid:58) (cid:47) (cid:47) (cid:97) (cid:99) (cid:97) (cid:100) (cid:101) (cid:109) (cid:99) (cid:46) (cid:111) (cid:117) (cid:112) (cid:46) (cid:99) (cid:111) (cid:109) (cid:47) (cid:104) (cid:101) (cid:97) (cid:112) (cid:114) (cid:111) (cid:47) (cid:97) (cid:114) (cid:116) (cid:105) (cid:99) (cid:101) (cid:47) (cid:51) (cid:56) (cid:47) (cid:51) (cid:47) (cid:100) (cid:97) (cid:97) (cid:100) (cid:48) (cid:54) (cid:49) (cid:47) (cid:55) (cid:49) (cid:57) (cid:57) (cid:52) (cid:55) (cid:54) (cid:32) (cid:98) (cid:121) (cid:32) (cid:103) (cid:117) (cid:101) (cid:115) (cid:116) (cid:32)
 
-In total, we visited the industrial company 48 times and the social workplace 66 times, both with an esti- mated average of 3 h per visit. The different amounts of visits is justified by the fact that building trust and relations took more time in the social workplace than it did in the industrial company. The social workplace demanded more time and attention to obtain a compre- hensive overview of the organization. We believe that the interviews in the industrial production company has balanced this. Additionally, we held 25 qualitative interviews (12 in the industrial production company, 13 in the social workplace) with managers, supervisors and occupational physicians. These interviews enabled comparing and verifying our understanding of the con- ceptions of work and health we observed in the context of each company. During and directly after fieldwork, we wrote elaborate notes in a shared document, while interviews were recorded and transcribed.
+(cid:108)
 
-After field visits, we debriefed and compared our observations and wrote field notes in a shared docu- ment that indicated each fieldworker’s perspective. Field notes and preliminary analyses were discussed with the other two co-authors, who had more dis- tance to the settings. As pointed out by Ybema et al. (Ybema et al., 2009, pp. 154, 162), this helped us to literally ‘break out’ and to gain physical and theoret- ical distance to the companies enhancing the analysis of our data. Inspired by grounded theory principles, we read field notes and interview transcripts multiple times while writing open codes to highlight important and recurrent themes. These codes were collected in a shared document to enable the axial coding in which the themes were grouped. Discussing these themes together enabled developing conceptual frameworks related to the dominant themes of the analysis: occu- pational health and safety, the social practices of safety, the role of social relations on perceived health at work, the dimensions of belonging at work, the role of recognition for local expertise, and the process of involving employees and developing activities. In this
+(cid:105)
+
+(cid:108)
+
+(cid:111) (cid:110) (cid:48) (cid:57) (cid:83) (cid:101) (cid:112) (cid:101) (cid:109) (cid:98) (cid:101) (cid:114) (cid:32) (cid:50) (cid:48) (cid:50) (cid:53)
+
+(cid:32)
+
+(cid:32)
+
+(cid:116)

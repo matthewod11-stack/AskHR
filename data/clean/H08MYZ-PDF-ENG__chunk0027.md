@@ -1,11 +1,17 @@
-# AI-screening software.
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b8d0a95f5cad54dc72969959c71b6509c4da497
+title: H08MYZ-PDF-ENG
+---
+## VidRecruiter, CodeSignal, and Brazen to pre-screen candidates through
 
-So what’s the key to advancing in this process and eventually getting to
+written and video questions. These programs assess the answers to
 
-talk to a human? You need to get comfortable talking to a screen that
+surface top candidates for recruiters. But simply receiving a request for
 
-has no reaction or follow-up questions and gives no indication whether
+a video interview doesn’t necessarily mean you’re in the hiring process
 
-you’re answering the questions well.
+—some companies send these questions out to everyone who applied
 
-AI-generated screening questions tend to be basic, so prepare answers to
+for the job or to a selection of people whose resumes were surfaced by

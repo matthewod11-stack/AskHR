@@ -1,11 +1,45 @@
-## HBR / Digital Article / What DeepSeek Can Teach Us About Resourcefulness
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2cda0fba6f3f032486884ad03ac02f0c0d8f35b0
+title: H08ONJ-PDF-ENG
+---
+## Neither Mick Ebeling, the head of Not Impossible Labs, nor Daniel
 
-wide. Then narrow your search as you gain clarity on the speciﬁcs you
+Belquer, who led the project, had the requisite expertise to make
 
-need to zoom in on and which key players may have the expertise that
+this happen. Neither is a scientist, a brain specialist, or a doctor
 
-you can learn from.
+of audiology, but they scoured the internet for scientiﬁc studies on
 
-- 2. Identify and utilize outside resources to your advantage.
+vibration and the auditory functioning of the ear. They learned that
 
-Resourcefulness often comes from identifying and taking advantage of
+it’s not the ears, it’s the brain that “hears” as vibrations are captured
+
+through the ear. This revelation, among others, led them to the
+
+realization that while vibrations can’t be captured by the ears of the
+
+deaf, they could be relayed to the brain via the skin to simulate
+
+the experience of music. With this knowledge they created wearable
+
+technology to realize Music: Not Impossible.
+
+Through resourcefulness, Ebeling and Belquer were able to leverage—
+
+essentially at no cost—the best knowledge out there to make Music: Not
+
+Impossible possible and overcome obstacles as they built it.
+
+Ask yourself: What knowledge do you need to realize your business
+
+model and opportunity? Make a list and start searching the internet or
+
+leveraging AI. Begin with broad parameters to cast your knowledge net
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

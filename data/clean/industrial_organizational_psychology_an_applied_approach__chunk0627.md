@@ -1,1 +1,9 @@
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9e44707ec64b3681eee69c79c6cb373deb08918e
+title: industrial_organizational_psychology_an_applied_approach
+---
 # S
+
+There are times when the off er you get is not negotiable and is below what you need to survive. In such cases, you must turn down the off er. Know what you are worth. If you have experience, graduated from a top school, were a top student in your university, or have unusual skills, you are worth more than the typical applicant. If you are asked in an interview about your expected starting salary, you might use this information to respond, “The typical salary for accounting majors at our university is $28,000. Because I have done an internship and was one of the top students in our department, my expectation is to start above $30,000.”

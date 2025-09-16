@@ -1,27 +1,33 @@
-# reliable delivery.
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3f88e86bf6cb51a85ba97ec5b51723101577de7
+title: S25011-PDF-ENG
+---
+# years.
 
-Process mining can identify the most important and costly problems
+After an improved process has been put in place, companies must
 
-to address. It should be constant because the only thing that’s certain
+establish a new normal in which control and continuous improvement
 
-in business is change. New customers have new needs; new products
+prevail. The essence of control is predictability—conﬁdence that
 
-require special treatment; new regulations require new reporting;
+process performance will not deteriorate in the future. It is the
 
-new technologies, such as those for managing inventory, may oﬀer
+antithesis of ﬁreﬁghting, which is the norm all too often.
 
-productivity gains; and so forth. Smart process-management teams stay
+Process mining is perhaps the single most valuable tool for monitoring
 
-ahead of these developments and strive to keep improving processes—
+process performance and establishing control. It will uncover the
 
-even radically redesigned ones.
+variations that all processes exhibit. Excessive variation should be
 
-. . .
+investigated and eliminated. For instance, in OTC, companies may
 
-The reasons for companies to employ process management are greater and the diﬃculties of doing so are smaller than ever before. The
+use multiple carriers to make ﬁnal deliveries. One lower-cost but less
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+reliable carrier will add enormous variation. That’s why as part of its
 
-13
+supply chain redesign, Mars Wrigley turned to a fourth-party logistics
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+company to work with carriers, monitor their performance, and ensure

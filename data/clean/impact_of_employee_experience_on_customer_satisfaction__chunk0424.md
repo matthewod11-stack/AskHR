@@ -1,17 +1,27 @@
-# LEADERSHIP
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: e2871092c4a250361e998b8a9f647382018c7902
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# EMPLOYEE WELL-BEING
 
-8
+21
 
-9
+22
 
-I feel empowered to make decisions regarding my work.
+My workload is manageable
 
-I would recommend my manager to others.
+My company takes a genuine interest in my wellbeing (physical, mental).
 
-28
+27
 
-Teams at my company collaborate effectively to get things done.
+I feel safe at my workplace.
 
-16
+30
 
-I feel free to speak my mind without fear of negative consequences.
+Your organization offers flexible work options (such as the ability to work your own hours wherever you want) and encourages autonomy.
+
+7
+
+My manager (the person you report to) provides me with feedback that helps me improve

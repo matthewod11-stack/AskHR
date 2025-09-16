@@ -1,15 +1,25 @@
-## space enable connectivity and productivity?
+---
+source_path: H07AXI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a6f5e56853f65877e83bb13dac456ae9c2d2c10
+title: H07AXI-PDF-ENG
+---
+## HBR / Digital Article / How LinkedIn Redesigned Its HQ for Hybrid Work
 
-In fact, since we opened our new HQ, we’ve found that, even though
+most utilized workspaces are actually the standard desks and phone
 
-employees are free to work from home or on campus, 63% of people
+rooms, but they must be equipped with all the technology needed
 
-technically assigned to other buildings now make their way to B1 since
+for hybrid work, including all-in-one video conferencing and digital
 
-opening in January, taking advantage of the variety of work zones,
+whiteboarding solutions (that combine touch, writing, and video-
 
-amenities and conﬁgurations the space provides. We’ll keep listening
+conferencing capabilities for example) and dual and adjustable monitor
 
-to their suggestions to see what else might draw them in and how we
+setups that support paired coding and team working. But we’re still
 
-might experiment as a result in order to help them feel more eﬀective
+asking: Do we need more social space? What’s the best conﬁguration
+
+for large teams vs small teams? Do we need more desks? What will
+
+employees need next quarter or next year? Does the technology in the

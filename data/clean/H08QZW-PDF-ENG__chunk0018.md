@@ -1,7 +1,13 @@
-# between realism and reassurance.
+---
+source_path: H08QZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a15dd53bdd8f85e3694bdba35e4fc2b7ca93d2c1
+title: H08QZW-PDF-ENG
+---
+# Don’t
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- Do all the talking. Open the ﬂoor to questions and listen for feedback
 
-5
+that will help you gauge whether your message is landing.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Wallow in negativity but also don’t be a Pollyanna. Strike a balance

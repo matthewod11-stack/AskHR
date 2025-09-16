@@ -1,13 +1,11 @@
-## quota attainment and higher levels of active job searching.
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a8c927cdf45fac133d201825d174590d9ea0188
+title: H07BT4-PDF-ENG
+---
+# HBR / Digital Article / Why Some of Your Salespeople Are Dragging — and How to Fix It
 
-High-drag sellers are more likely to be job hunting. We found that 70%
+Essentially, drag is demotivation away from work. But it’s more than
 
-of high-drag sellers report actively looking for new job opportunities,
-
-compared to only 7% of low-drag sellers. Between an open territory,
-
-hiring expenses, and ramp time, seller turnover is costly. Not only are
-
-high-drag sellers more likely to leave, but their performance suﬀers as
-
-well. Relatively speaking, mean quota attainment is 1.7 times higher for
+just an unpleasant experience: Drag is statistically associated with lower

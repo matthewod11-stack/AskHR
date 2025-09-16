@@ -1,17 +1,25 @@
-## through conversations with partners in the law ﬁrm and attorneys who
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1da7d9c1357825cbfe8f49fbf39e170742e6fb80
+title: H07TEC-PDF-ENG
+---
+# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
 
-joined from competing ﬁrms, we were able to estimate an industry-
+within the ﬁrm. This is helpful, but you won’t know what the true best
 
-level balanced benchmarking model that allowed us to compare the
+performance looks like in your industry.
 
-performance of the ﬁrm’s attorneys against the industry standard.
+To the extent that you can collect data from competitors on similar
 
-Today, more than ever, L&D programs are critical to organizations’
+performance metrics, you’ll be able to gain a better understanding
 
-success. The changes occurring at the economic, global, environmental,
+of where your ﬁrm’s performance stands relative to the industry.
 
-and societal levels demand that companies continue to upskill their
+Competitor data is diﬃcult to collect, but you will be surprised at what
 
-employees to maintain their competitive advantage. It’s the only way to
+you can learn from industry veterans within your organization. Simple
 
-ensure that ﬁrms have the capabilities to succeed in today’s volatile,
+conversations with these individuals are likely to uncover a wealth
+
+of information about competitor performance metrics. For example,

@@ -1,7 +1,31 @@
-# Graphology
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 45dd9366579cf699c9fa123b6ea270b642344ce6
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Conditional Reasoning Tests
 
-An interesting method to select employees is handwriting analysis, or graphology. The idea behind handwriting analysis is that the way people write reveals their personality, which in turn should indicate work performance. Although graphology is used more often in Europe than in the United States (Healy, ), European employees react as poorly to it as do their American counterparts (Anderson & Witvliet, ).
+A problem with self-report measures such as personality inventories and integrity tests is that applicants may not provide accurate responses. This inaccuracy could be due to either the applicant faking responses to appear to be honest or to have a “better” personality or the applicant not actually being aware of his or her own personality or values. Conditional reasoning tests were initially developed by James () to reduce these inaccurate responses and get a more accurate picture of a person’s tendency to engage in aggressive or counterproductive behavior.
 
-To analyze a person’s handwriting, a graphologist looks at the size, slant, width, regularity, and pressure of a writing sample. From these writing characteristics, infor- mation about temperament and mental, social, work, and moral traits is obtained.
+Conditional reasoning tests provide test takers with a series of statements and then ask the respondent to select the reason that best justifies or explains each of the statements. The type of reason selected by the individual is thought to indicate his or her aggressive biases or beliefs. Aggressive individuals tend to believe (LeBreton, Barksdale, Robin, & James, ):
 
-Research on graphology has revealed interesting findings. First, grapholo- gists are consistent in their judgments about script features but not in their interpretation about what these features mean (Keinan & Barak, ; Rafaeli & Klimoski, ). Second, trained graphologists are no more accurate or reliable at interpreting handwriting samples than are untrained undergraduates (Rafaeli & Klimoski, ) or psychologists (Ben-Shakhar, Bar-Hillel, Bilu, Ben-Abba, & Flug, ). Most importantly, the small body of scientific literature on the topic concludes that graphology is not a useful technique in employee selection (Simner & Goffin, ). Graphology predicts best when the writing sample is autobiographical (the writer writes an essay about himself), which means that graphologists are making their predictions more on the content of the writing than on the quality of the handwriting (Simner & Goffin, ).
+7
+
+7
+
+7
+
+7 7
+
+7
+
+most people have harmful intentions behind their behavior (hostile attribution bias) it is important to show strength or dominance in social interactions (potency bias) it is important to retaliate when wronged rather than try to maintain a relationship (retribution bias) powerful people will victimize less powerful individuals (victimization bias) evil people deserve to have bad things happen to them (derogation of target bias) social customs restrict free will and should be ignored (social discounting bias).
+
+As a result of these biases, aggressive individuals will answer conditional reasoning questions differently than less aggressive individuals. For example, a test taker might be given the following statement, “A senior employee asks a new employee if he would like to go to lunch.” The test taker would then be asked to select which of the following statements best explains why the senior employee
+
+asked the new employee to lunch: (a) The senior employee was trying to make the new employee feel more comfortable, or (b) The senior employee was trying to get the new employee on her side before the other employees had a chance to do the same thing. Selecting the first option would suggest an altruistic tendency whereas selecting the second option represents hostile attribution bias and would suggest a more aggressive tendency.
+
+Research on conditional reasoning tests indicates that they are at least as valid a predictor of counterproductive behavior and performance as integrity tests (Berry, Sackett, & Wiemann, ). Even more promising is that conditional reasoning tests are more difficult to fake than are integrity tests (LeBreton et al., ).
+
+Though more research is needed, a study by Bing, Stewart, Davison, Green, McIntyre, and James () found that counterproductive behavior is best predicted when conditional reasoning tests (implicit aggression) are combined with self-reports of aggressive tendencies (explicit aggression). That is, people who hold the six beliefs discussed previously and report that they have aggressive personalities tend to engage in counterproductive behavior to a much greater extent than those who score highly in only implicit or explicit aggression.

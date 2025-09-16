@@ -1,25 +1,31 @@
-# Task cohesion
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 1cb0854873c64ddc3fba0689e7c883bb7e2ad9c2
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Relationship conflict
 
-5.83 (1.55)
+3.16 (1.26)
 
-6.09 (1.77)
+3.25 (1.09)
 
-6.86 (1.45)
+2.20 (1.03)
 
-8.13 (.78)
+1.17 (.27)
 
-12.40
+23.87
 
 ���
 
 1.00
 
-.01
+.002
 
 < .001
 
-.01
+< .001
 
 < .001
 
-.009
+.004

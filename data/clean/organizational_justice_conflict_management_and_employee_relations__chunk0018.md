@@ -1,9 +1,9 @@
-# International Journal of Manpower © Emerald Publishing Limited 0143-7720 DOI 10.1108/IJM-12-2017-0342
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: c7f24fbe69612a10e2bdddcf8bf4522113a25df7
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# Climate of trust
 
-) T P (
-
-9 1 0 2
-
-y r a u r b e F 8 0
-
-8 3 : 1 0
+Received 16 December 2017 Revised 27 June 2018 26 October 2018 Accepted 14 November 2018

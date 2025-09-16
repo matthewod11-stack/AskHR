@@ -1,13 +1,17 @@
-# HBR / Digital Article / How to Improve the Hiring Process for Disabled Candidates
+---
+source_path: H08A30-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40bf7bbd94ffb76fa1727741f9c2f8c78f312b28
+title: H08A30-PDF-ENG
+---
+# candidates and companies.
 
-disclose the need for accommodations. They are advised to “control the
+Disabled job candidates want to know where to work and whom to
 
-narrative” and build trust by sharing their stories and needs, but at the
+trust, but they must also manage concerns about bias and when to
 
-same time to withhold any information that might be used against them
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-until employment is secured and ﬁrmer legal protections are in place.
+1
 
-Companies want to do better, but there is the steep challenge
-
-of attracting candidates and convincing them that they truly are an
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,29 +1,35 @@
-# What the Data Shows
+---
+source_path: H077SI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92db7cbb396e2709cfb1902e8f4bddefbf589e6c
+title: H077SI-PDF-ENG
+---
+## HBR / Digital Article / Quiet Quitting Is About Bad Bosses, Not Bad Employees
 
-We looked at data gathered since 2020 on 2,801 managers, who were
+or putting in extra hours. They say “no” to requests to go beyond what
 
-rated by 13,048 direct reports. On average, each manager was rated by
+they think should be expected of a person in their position.
 
-ﬁve direct reports, and we compared two data points:
+In reality, quiet quitting is a new name for an old behavior. Our
 
-- Employees’ ratings of their manager’s ability to “Balance getting
+researchers have been conducting 360-degree leadership assessments
 
-results with a concern for others’ needs”
+for decades, and we’ve regularly asked people to rate whether their
 
-- Employee’s ratings of the extent to which their “work environment is a
+“work environment is a place where people want to go the extra mile.”
 
-place where people want to go the extra mile”
+To better understand the current phenomenon of quiet quitting, we
 
-The research term we give for those willing to give extra eﬀort is
+looked at our data to try to answer this question: What makes the
 
-“discretionary eﬀort.” Its eﬀect on organizations can be profound: If you
+diﬀerence for those who view work as a day prison and others who feel
 
-have 10 direct reports and they each give 10% additional eﬀort, the net
+that it gives them meaning and purpose?
 
-results of that additional eﬀort are increased productivity.
+Our data indicates that quiet quitting is usually less about an
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+employee’s willingness to work harder and more creatively, and more
 
-2
+about a manager’s ability to build a relationship with their employees
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+where they are not counting the minutes until quitting time.

@@ -1,9 +1,7 @@
-# i
-
-e c n a m r o f r e P
-
-s g n i t a r
-
-r o s i v r e p u S
-
-s e r u s a e m e c n a m r o f r e P
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ef631a20144bef959a6014ab3f9f97fe51599902
+title: industrial_organizational_psychology_an_applied_approach
+---
+# s s e n d r a T

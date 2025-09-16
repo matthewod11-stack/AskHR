@@ -1,11 +1,21 @@
-# the costs of its business model?
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 96f00a52f9e36d9bd117cdd03e0616bb7fd74065
+title: H08ONJ-PDF-ENG
+---
+## Our research over the last decades on Blue Ocean Strategy and Beyond
 
-Here we explore four ways blue ocean companies regularly leverage
+Disruption drives home the central role of resourcefulness to dial up
 
-resourcefulness to realize opportunities, and you can too.
+value and lower costs in realizing opportunities. It allows companies
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+to create—often rapidly—a win for the market and for themselves by
 
-3
+leveraging creativity and ingenuity.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+What if instead of focusing on resources, companies put as much
+
+focus on resourcefulness? How could a focus on resourcefulness
+
+potentially increase the value a company is able to deliver and lower

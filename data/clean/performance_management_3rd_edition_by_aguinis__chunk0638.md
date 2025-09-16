@@ -1,5 +1,9 @@
-# Engages in certain behaviors
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: fcf34813cb43f305b16468f4fdb791b0daadc5ae
+title: performance_management_3rd_edition_by_aguinis
+---
+## A performer (individual or team with certain traits)
 
-That produce various results
-
-FIGURE 4.1 Job Performance in Context (1996). The complete guide to performance appraisal (Fig. 3-1, p. 37). New York: American Management Association.
+In a given work situation

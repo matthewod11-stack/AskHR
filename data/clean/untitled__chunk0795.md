@@ -1,7 +1,15 @@
-# Intelligence
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d72fdedd480d134f032628cddeaf4a567ee08b34
+title: untitled
+---
+# REFERENCES 152
 
-the same way that present points of view will be viewed as skewed in the future. A dialectical form of examination will serve as the basis for the entire chapter. The basic idea is that important ideas, good or bad, eventually serve as the spring- board for new ideas that grow out of unions of past ideas that may once have seemed incompatible.
+(1981), or Sacks (1999). And of course, there are differences within these groups of authors.
 
-The emphasis in this chapter is on the history of the ﬁeld of intelligence, particularly with reference to theories of intelligence. Readers interested in contemporary theory and research are referred to the chapter “Contemporary Theories ofIntelligence”inVolume7ofthishandbook(R.J.Sternberg, 2002). Such theories and research are mentioned only in pass- ing in this chapter. Readers interested primarily in measure- ment issues might consult relevant chapters in R. J. Sternberg (1982, 1994, 2000).
+These differences need mentioning because, although all ﬁelds of psychology are subject to being perceived through ideological lenses, few ﬁelds seem to have lenses with so many colors and, some might argue, with so many different distorting imperfections as do the lenses through which is seen the ﬁeld of intelligence. The different views come from ideological biases affecting not only what is said but also what is included. For example, there is virtually no overlap in the historical data used by Carroll (1993) versus Gardner (1983) to support their respective theories of intelligence.
 
-Perhaps themostfundamentaldialectic in theﬁeld of intel- ligencearisesfromthequestionofhowweshouldconceiveof intelligence. Several different positions have been staked out (Sternberg, 1990a). Many of the differences in ideology that arise in accounts of the history of the ﬁeld of intelligence arise from differences in the model of intelligence to which an in- vestigator adheres. To understand the history of the ﬁeld of intelligence, one must understand the alternative epistemo- logicalmodelsthatcangiverisetotheconceptofintelligence. But before addressing these models, consider simply the question of how psychologists in the ﬁeld of intelligence have deﬁned the construct on which they base their models.
+Although no account can be truly value free, I try in this chapter to clarify values in three ways. First, I attempt to rep- resent the views of the investigators and their times in pre- senting the history of the ﬁeld. Second, I critique this past work but make it clear what my own personal opinions are by labeling evaluative sections “Evaluation.” Third, I try to rep- resent multiple points of view in a dialectical fashion (Hegel, 1807/1931; see R. J. Sternberg, 1999a), pointing out both the positive and negative sides of various contributions. This rep- resentation recognizes that all points of view taken in the past can be viewed, with “20/20 hindsight,” as skewed, in much
+
+136

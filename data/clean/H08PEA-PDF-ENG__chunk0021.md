@@ -1,21 +1,25 @@
-# negotiation in the evening.
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d77824bd57c307ed34cf29a20fb7009a2564c2d
+title: H08PEA-PDF-ENG
+---
+# resources.
 
-When possible, managers should also allow for greater ﬂexibility in their
+- 2. Be ﬂexible and offer ﬂexibility in scheduling and task prioritizing
 
-employees’ schedules—by providing alternative work arrangements
+If possible, try to make your schedule ﬂexible to accommodate the
 
-such as ﬂexible hours or remote work, for example—to oﬀset some of
+mental fatigue of improving your tasks. Consider prioritizing tasks of
 
-the strain that comes with being proactive.
+greater importance earlier in the day or moving some of your traditional
 
-- 3. Create a safe space for experimenting
+tasks to diﬀerent days so you can concentrate on improving processes.
 
-Leaders should also create a culture where mistakes are accepted as
+Additionally, to help your team be the most successful while experimenting with new eﬃciencies, consider restructuring their
 
-part of the learning process. Clear safeguards should be in place to
+deadlines or reordering when they do certain tasks. For example,
 
-protect employees from the consequences of honest errors made while
+an employee who spends the morning brainstorming process
 
-experimenting. Reducing this pressure can help employees feel more at
-
-ease—one less concern could free up some mental power to focus on
+improvements shouldn’t be expected to handle a high-stakes contract

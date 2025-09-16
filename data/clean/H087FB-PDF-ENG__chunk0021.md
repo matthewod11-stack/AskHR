@@ -1,17 +1,13 @@
-# Re-Evaluate Your Personal Interests
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4aeedb51b33c523f9a74c1db7e04bb81bc2fc204
+title: H087FB-PDF-ENG
+---
+## HBR / Digital Article / How to Rethink Your Career as an Empty Nester
 
-As you think about refocusing your work life, consider: What activities
+Thinking about what’s next for you might require a deeper level of
 
-outside of work would add to your development and enjoyment?
+self-inquiry than you’re used to. Consider leveraging a trusted advisor or
 
-Start with reinvestigating your foundational interests. Consider what
-
-your goals were 20 years ago. What was your vision for your life? Ask
-
-yourself what you like to do with your time (not what you feel you
-
-“should” do). The answer may be “take a yoga class” or “try horseback
-
-riding lessons” — explore whatever bubbles up. You can also re-look at
-
-your hobbies from childhood. Can you ﬁnd a new way to restart one of
+friend to help you get in touch with your wants and needs.

@@ -1,17 +1,9 @@
-# and decision making: a comparison between neurologically healthy elderly and young
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: b37a47c41af4f2aa59a14891f3512fcc38157e8a
+title: beo_chap7_1
+---
+# Press.
 
-individuals. Journal of Economic Behavior and Organization 8:79-94,
-
-Kremer, M. 1993. The O-ring theory of economic development. Quarterly Journal of Eco-
-
-nomics 108:551~76.
-
-Kreps, D. M. 1990. Corporate culture and economic theory. In Perspectives on Positive
-
-Political Economy (ed. J. Alt and K. Shepsie). Cambridge University Press.
-
-. 1997. Intrinsic motivation and extrinsic incentives. American Economic Review
-
-87:359-64.
-
-Landier, A., and D. Thesmar. 2004. Financial contracting with optimistic entrepreneurs: theory
+Kovalchik, S., C. F. Camerer, D. M. Grether, C. R. Plott, and J. M. Allman. 2005. Aging

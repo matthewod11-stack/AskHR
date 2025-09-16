@@ -1,9 +1,13 @@
-# Berk, op. cit., p. 652.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: b343f27c153b71ee7b6ec65de707201a5aa2aefd
+title: document_resume
+---
+## Psychosis (New York: Pergamon Press, 1963).
 
-25.
+- 22. Ronald A. Berk, "The Construction of Rating Instruments for Faculty Evaluation: A Review of Methodological 7ssues," Journal of Higher Education 50 (September-October 1979), pp. 650-669. John C. Flanagan, "The Critical Incident Technique," Psychological Bulletin
 
-Ibid., p. 664.
+51 (July 1954), pp. 327-358.
 
-- 26. Ronald A. Berk, "Empirical Evaluation of Formulae for Correction of Item- Total Point-Biserial Correlations." Educ ational and P,s, hologit al Alcasurement 38 (Fa1 1978), pp. 647-652. Ibid.
-
-- 26. Ronald A. Berk, "Empirical Evaluation of Formulae for Correction of Item- Total Point-Biserial Correlations." Educ ational and P,s, hologit al Alcasurement 38 (Fa1 1978), pp. 647-652. 27.
+74.

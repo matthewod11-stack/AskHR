@@ -1,9 +1,9 @@
-## their jobs because of legislation in their particular school district or
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f42c405b83b4024c61e5e4f8496b4e15605edba
+title: H07RVB-PDF-ENG
+---
+## states, some of them in cities, some of them in school districts.
 
-municipality. I’m reading of families with gay children or trans children
-
-who are thinking about leaving certain municipalities because they don’t have access to gender-aﬃrming mental health or medical care.
-
-Doctors are quitting because they don’t feel that they’re able to provide
-
-the level of care to an individual that they swore the Hippocratic Oath
+That’s a scary number. People are losing their jobs. People are quitting

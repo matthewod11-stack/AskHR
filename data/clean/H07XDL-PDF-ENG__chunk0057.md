@@ -1,39 +1,13 @@
-## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 289165a591fd6b77f5df7b221de8a91ef785b0d4
+title: H07XDL-PDF-ENG
+---
+# measurable, and transparent.
 
-We recommend doing the same for each of the changes you committed
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-to in step 6. Deﬁne the broad objective and the date by which you
+20
 
-want to achieve it. Then break down each of those objectives into a
-
-few key results or action items, again with deadlines. Consider adding
-
-them directly to your calendar. If you are unsure about implementing a
-
-big move in your life, experiment. For example, Toni identiﬁed mental
-
-health/mindfulness as a high priority, so he might set an objective of
-
-“Download an app and try meditation techniques for 10–15 minutes a
-
-day (ﬁnish by the end of November).” He could then break it down into
-
-two key results: (1) review meditation apps and get started (ﬁrst week of
-
-November), and (2) try an app for three weeks, review the experience,
-
-and make it a daily habit (last three weeks of November).
-
-There are many ways that companies hold themselves to OKRs. Here,
-
-we focus on three of them. Anchoring means sharing your plan, as
-
-Google does by making its OKRs public. Who will you tell about your
-
-plan or ask to join you on your journey? Strategy projects always involve
-
-small teams, so consider not only seeking input from others but also
-
-inviting one or two people to work on their own life strategies and then
-
-workshop everyone’s results as a group. Consequences means setting up
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

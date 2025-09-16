@@ -1,17 +1,29 @@
-# Krishnan.
+---
+source_path: H08SRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f67a4aae25fa1fd5bed07defeb28f579c299ce44
+title: H08SRL-PDF-ENG
+---
+## HBR / Digital Article / An International Travel Checklist for U.S. Employers
 
-When travel is necessary, leaders can often ﬁnd ways to manage the
+Some companies might be reluctant to share this kind of information,
 
-risk. Approaches vary, says Goeschl. Leaders might, for instance, route
+worried about causing panic. But there are real risks—like employees
 
-employees through cities like Dublin, where they can go through U.S.
+having their phones seized and inspected, Goeschl says. It’s important
 
-immigration before they board their ﬂight. That way, problems are
+to prepare, and bear in mind that the situation is evolving.
 
-addressed on the front end, not after they’ve ﬂown halfway around the
+Devise contingency plans for policy shifts affecting travel
 
-world, says Goeschl.
+Many companies routinely bring in their top leaders from around the
 
-The new travel ban adds to the complexity. The ban prohibits visitors
+world for internal meetings in the U.S. But if those employees suddenly
 
-to the U.S. from Afghanistan, Myanmar, Chad, the Republic of Congo,
+can’t get into the country, you’ll need a Plan B.
+
+“Smaller meetings are easier to relocate, but certain meetings and
+
+conferences—just based on the scale, the number of visitors, number
+
+of hotel rooms needed, and logistics—are relatively hard to repot,” says

@@ -1,15 +1,17 @@
-# performance.”
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e159cfa1362a344aeea84d0c4fdcc9cfa8b1e178
+title: H08OJX-PDF-ENG
+---
+# HBR / Digital Article / When Another Senior Leader Is Threatening Your Reputation
 
-In some cases, leaving the company may ultimately be the best option,
+enhanced customer satisfaction scores and improved operational eﬃciency).”
 
-especially when corporate gaslighting is ingrained in the culture.
+- 4. Refocused on results: “Leadership in high-pressure environments
 
-Adversarial behaviors are doorways to corporate gaslighting and doing
+demands a result-oriented approach.”
 
-nothing is not an option. As business leaders, it is crucial to identify,
+- 5. Reinforced commitment to the business: “While every executive
 
-respond and counteract such threats to protect your reputation and
-
-career, and those of which you are leading.
-
-This article was originally published online on March 31, 2025.
+has their own approach, my commitment is to corporate

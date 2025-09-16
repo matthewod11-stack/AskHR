@@ -1,3 +1,13 @@
-# and depression. New York: Basic Books.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5aab6d0a744970f9dd237609851327d338542e9e
+title: untitled
+---
+# York: Basic Books.
 
-Brazelton, T. B., Koslowski, B., & Main, M. (1974). The origins of reciprocity: Early mother-infant interaction. In M. Lewis & L. A. Rosenblum (Eds.), The effect of the infant on its caregiver (pp. 49–76). New York: Wiley.
+Bowlby, J. (1973). Attachment and loss. Volume II: Separation:
+
+Anxiety and anger. New York: Basic Books.
+
+Bowlby, J. (1980). Attachment and loss. Volume III: Loss: Sadness

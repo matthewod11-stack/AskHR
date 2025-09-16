@@ -1,9 +1,17 @@
-# future.
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 895efff291a43ad7a3d566909552672f2b6b770f
+title: H08NQI-PDF-ENG
+---
+## pace, without much visible concern for the strategic price or collateral
 
-We’ve spent the last decade helping business leaders clean up that
+damage of the campaign to slash federal spending.
 
-wreckage, and one of the main lessons from our work is that this
+The assumption embedded in this style of operating—encapsulated by
 
-tradeoﬀ is false. The most successful change leaders we know solve
+Silicon Valley’s famous “move fast and break things” ethos—is that we
 
-problems at an accelerated pace while also taking responsibility for the
+can either make progress or take care of people, one or the other. A
+
+certain amount of wreckage is the price we have to pay for creating the

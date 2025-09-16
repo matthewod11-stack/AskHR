@@ -1,17 +1,17 @@
-# HBR / Digital Article / How Work Has Changed for Women in Corporate America Over t…
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c68a5e183c83d5db1086108ba6ce9aec93c9fddb
+title: H08EDT-PDF-ENG
+---
+# color.
 
-emphasized to me, “Leaders need to stay fully committed to gender and
+While I don’t make the business case for DEI any longer, there are
 
-racial equity, and to ensure that managers and employees know that
-
-diversity beneﬁts everyone — and it’s good for business.”
-
-This article was originally published online on September 17, 2024.
-
-Ruchika T. Malhotra is the author of the book Inclusion on Purpose: An Intersectional Approach to Creating a Culture of Belonging at Work. She is the founder of Candour, an inclusion strategy ﬁrm.
+undeniable reasons for why leaders need to stay the course. As Sandberg
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

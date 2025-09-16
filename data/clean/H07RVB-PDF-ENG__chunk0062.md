@@ -1,17 +1,15 @@
-# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bb4aa4b373efdcc125863e7d8a239ac251d3d46
+title: H07RVB-PDF-ENG
+---
+## or minority communities in my company or in my community, not
 
-in our business practices, in our community practices, in how we’re
+just the queer community, to look and see are we being representative
 
-conducting ourselves?”
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Sometimes just a simple honest census is the ﬁrst metric that I would
+19
 
-be an advocate of. Once you have that, you can start to go deeper into
-
-the community because LGBTQIA+, there’s a lot of diﬀerent identities
-
-within that community. We have to be careful about saying that what
-
-works for one part of the queer community will absolutely work for
-
-another part of the queer community. I think we are diﬀerent. We are
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

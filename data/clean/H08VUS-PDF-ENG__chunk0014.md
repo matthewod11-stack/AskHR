@@ -1,17 +1,17 @@
-## HBR / Digital Article / The Power of Being an Amateur
+---
+source_path: H08VUS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 75dbbc9a5a22c2ab378e8445266b4d1ad7ceac01
+title: H08VUS-PDF-ENG
+---
+# a familiar groove.
 
-Say yes to everything new for a year. I liked the idea. But why wait
+During that period, I had coﬀee with a mentor who recently retired.
 
-for retirement? I decided to throw myself into a couple of pursuits
+He shared advice he’d been given as he went through this transition:
 
-outside of work where I had zero expertise: watercolor painting and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-karaoke. Doing each made me highly uncomfortable at ﬁrst, but that
+3
 
-was precisely the goal, so I stuck with them—and over time I sensed a
-
-new kind of energy in myself. Freed from the weight of being “someone
-
-who knows,” I discovered the alertness and absorption that mastery
-
-often dulls, and I felt more curious and more receptive to new ways of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,33 +1,21 @@
-## and a sharp decline in execution—in short, widespread change fatigue.
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1b68e97922be1382d3bfb2fe909c55ca3507192
+title: H08PKP-PDF-ENG
+---
+## HBR / Digital Article / When You’re Asked to Meet Impossible Goals
 
-As executive coaches, we’ve consistently seen that leaders who take
+It wasn’t just the sales targets. His company was undergoing multiple
 
-on impossible goals don’t do it because they lack judgment—they do
+changes at once: shifting to a SaaS model, rolling out a new CRM,
 
-it because pushing back feels risky to them. Pressure from the top, a
+restructuring teams, and enforcing a return-to-oﬃce mandate.
 
-culture of “yes,” and intense market competition make committing the
+John’s dilemma is now common. Change is no longer an occasional
 
-only safe choice. Many leaders also fall into the well-known traps of
+disruption but a constant. Employees are now experiencing ﬁve times
 
-optimism bias, perfectionism, or a need to prove their worth, all of
+more planned change initiatives than they did just a decade ago. Add
 
-which skew their decision-making ability.
-
-The real leadership skill is not ﬁguring out how to do it all; it’s knowing
-
-when and how to push back. That’s where strategic refusal comes in.
-
-Strategic refusal is a structured method to force prioritization and push
-
-back on unrealistic demands that jeopardize team productivity, morale,
-
-or well-being. The idea isn’t to avoid responsibility, but rather to protect
-
-the team, maintain long-term performance, and ensure sustainable
-
-outcomes—all while safeguarding your reputation.
-
-Strategic refusal has two main components: a matrix to help you
-
-determine when to act and a framework to guide you on how to act.
+unrealistic goals, and the result is predictable: disengagement, burnout,

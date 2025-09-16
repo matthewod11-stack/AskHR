@@ -1,7 +1,9 @@
-# morning standup."
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 40e063063e3c30fe514b11da54a5bedc5b2f99aa
+title: agents_companion
+---
+# Example Interaction:
 
-Message Composition Agent: "I've prepared a message to your work team: 'Stuck in
-
-traffic on the E40. Will be about 20 minutes late to our morning standup. Please start
-
-without me.' Should I send this to your 'Work Team' chat group, or would you like to edit
+User: "There's heavy traffic on the E40. Let my team know I'll be 20 minutes late to the

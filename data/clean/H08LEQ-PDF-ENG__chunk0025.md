@@ -1,13 +1,33 @@
-# of its operations.
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2f062a83734737fcb3b21d04d8fcf55989790d3a
+title: H08LEQ-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Is Changing How Companies Work
 
-In the pharmaceutical sector, leading companies and research
+operations. One company’s AI-powered customer support technology
 
-organizations are employing multi-modal platforms to accelerate the
+not only understands and responds to customer queries in a natural,
 
-drive toward personalized medicine — treatment tailored to the
+conversational manner but also takes action, like ﬁnding orders and
 
-individual’s circumstances, symptoms, and genomics. For instance, a
+managing returns. AI-driven self-checkout systems use computer vision
 
-major global drug company employs a cloud-based platform to unify
+and machine learning to recognize items and streamline the process, reducing wait times and improving overall eﬃciency. The company
 
-and scale analysis of clinical trial data, imaging, pathology, radiology,
+is also transforming human-machine collaboration. AI-powered smart
+
+carts equipped with cameras and sensors scan shelves and monitor
+
+inventory levels in real time, alerting staﬀ when items need to be
+
+restocked. In the company’s warehouses, robots transport goods,
+
+reducing the physical strain on human workers and working alongside them to increase eﬃciency. In its distribution centers, the company
+
+is rolling out robotic forklifts, enabling human workers to shift from
+
+manually unloading pallets to managing and coordinating the most eﬃcient way for the robots to unload trailers. Through these multi-
+
+modal AI technologies and human-machine collaboration, the company enhances both the in-store experience for customers and the eﬃciency

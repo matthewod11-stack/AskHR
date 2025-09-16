@@ -1,9 +1,13 @@
-# HBR / Digital Article / How Work Has Changed for Women in Corporate America Over t…
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f190086db937d7fe4b9b21c97c33efe291e48484
+title: H08EDT-PDF-ENG
+---
+# impacts us for salaries or promotions.”
 
-While bias training as a standalone intervention isn’t suﬃcient to reduce bias in the workplace, it can be eﬀective when it’s targeted. When
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-managers making performance evaluation and promotion decisions are
+4
 
-made aware of how biases show up in performance evaluations, there’s
-
-some evidence to suggest they’ll consider them when making decisions
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

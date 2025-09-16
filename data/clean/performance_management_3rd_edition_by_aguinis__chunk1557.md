@@ -1,7 +1,7 @@
-# Be specific.
-
-Use adjectives and adverbs sparingly. Balance positives with negatives. Focus on job-related information. Be comprehensive. Standardize procedures. Describe observable behavior.
-
-would be extremely detrimental to the performance management system. In fact, this organization would have serious problems beyond the scope of its performance evalu- ation system.
-
-Now, let’s turn to the final important component of the coaching process: giving
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 32aa3cfac5d454c2620347c152c60552a5317fad
+title: performance_management_3rd_edition_by_aguinis
+---
+# TABLE 9.3 Documentation of Performance and Performance in Developmental Activities: Some Recommendations

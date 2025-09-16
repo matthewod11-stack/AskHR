@@ -1,11 +1,15 @@
-## substantial value for their customers, their employees, and their
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a5a549d466586d65541766d440c0b7cfc69fed3
+title: H08TKY-PDF-ENG
+---
+## Go deeper: “Strategy and the Internet,” by Michael E. Porter (March
 
-suppliers. This value can be measured in customers’ willingness-to-pay
+2001)
 
-(WTP) price for goods and employees’ and suppliers’ willingness-to-sell
+. . .
 
-(WTS) price for their labor or goods. This idea is captured in a simple
+Value stick: A value-based strategy follows a simple principle:
 
-graph, called a value stick, which allows companies to map where and
-
-how they create value—and to create the opportunity to increase their
+Companies can achieve enduring ﬁnancial success by creating

@@ -1,1 +1,7 @@
-# and
+---
+source_path: bonfring_international_journal_of_industrial_engineering_and_management_science.md
+pages: n/a-n/a
+chunk_id: a96f0fd3fdb999714151e03200dfab68d66ff561
+title: bonfring_international_journal_of_industrial_engineering_and_management_science
+---
+# solutions

@@ -1,25 +1,21 @@
-# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3fe88aa654c298aca73cd4500e23db5e1fa3eeab
+title: H08H7H-PDF-ENG
+---
+# the work itself.
 
-between groups of people or between people who may not interact
+- 2. What type of relationships do you want your employees to build?
 
-via video meetings; for example, employees who do not work with
+While our research showed that individual coworker relationships
 
-each other regularly. If you are thinking about a strategy for the latter,
+can beneﬁt from interacting virtually when working from home,
 
-merely being in the oﬃce every day is unlikely to build the strong
+we recognize that managers might also want to build relationships
 
-relationships that are desired. When people are in the oﬃce, they
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-tend to interact only with those who are situated physically close
+7
 
-to them. Indeed, one of our experiments showed that sharing can
-
-be vivid and perceived as less intentional when learning in-person
-
-as well. Think about a very intentional and strategic return-to-oﬃce
-
-strategy where you focus your in-oﬃce time on “moments that
-
-matter” that elicit the type of learning about coworkers – learning
-
-that is vivid, seen as unintentionally shared, and about nonwork
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

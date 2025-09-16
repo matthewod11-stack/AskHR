@@ -1,7 +1,15 @@
-## influence employee and customer evaluation of questions during both surveys.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 8d96cba9d26c2d2b505c9afaef1955c8fc989349
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 60 | P a g e
 
-However, main regional differences confirm the hypothesis where Europe has EX
+The third hypothesis is differences between regions. Research shows significant
 
-index much lower than the US and this has a visible impact on NPS where the
+differences between the European market and US or China. Published literature
 
-European market scored worst among those three regions.
+sources describe main behavioral differences between the European, American, or
+
+Chinese mentality. By nature, Europeans are more conservative, which can partially

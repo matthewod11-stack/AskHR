@@ -1,7 +1,11 @@
-# in a state of perma-crisis.
+---
+source_path: H08Q2Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6338b99ebaa6adf6922409c226702d0761715d9a
+title: H08Q2Q-PDF-ENG
+---
+# Michael Prince/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Amid geopolitical instability, climate shocks, AI disruption, and more,
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+today’s leaders aren’t navigating the occasional crisis—they’re operating

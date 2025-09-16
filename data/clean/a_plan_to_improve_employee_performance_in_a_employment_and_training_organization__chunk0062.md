@@ -1,15 +1,53 @@
-# C
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 601fd3a12e0ad9bcafea84d7bc5369a906911dbb
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Q
 
-bad procedures , fix them before training; b) Design small sections of training around
+presents a four-step process in workplace training: 1) Prepare the worker. Find out what
 
-specific objectives for specific learners; c) Think creatively. Be creative in delivery
+he already knows and stimulate interest in it. 2) Present the operation . Show and tell
 
-methods that may save time ( charts, posters, videos, demos., structured discussion
+exactly what each step is and how to do it. 3) Try out the worker ' s performance . Let
 
-groups); d) Shop around. May want to purchase outside training products and service_s;
+employees perform the operation and have them explain the steps and key points of the
 
-e) Preview and customize a generic product. Irrelevant materials make trainees angry and
+operation. 4) Follow up. Put a trainee on his own, observe his performance to ensure he
 
-wastes resources; and f) Provide equal opportunity to a diverse trainee population.
+is following correct methods. I believe when training an individual , we must focus on
 
-- Provide the right training to the right people.
+accuracy , clarity, completeness of doing it right the first time, consistency and open to
+
+continual improvement of tasks performed.
+
+Training can be a powerful tool for maintaining work and for improving work
+
+(Nilson, 1990: 10). According to Nilson , training that addresses standard of acceptable
+
+performance , clarify the procedures of the job, instruct workers in the skills required and
+
+the new tools available for doing a job, encourages communication and provides
+
+feedback, can all help keep workers on the job (1990: 10). In view of this statement,
+
+training is perhaps the most direct way of improving employee performance, overall
+
+work, and ensures the proper use of organizational resources. Therefore , effective
+
+11
+
+training can be expected to significantly improve productivity and quality of work.
+
+Adequate and timely training is an important responsibility that can have a quick and
+
+substantial payoff (Nilson, 1990:14). Managers who choose training as a solution for
+
+improved employee performance , productivity , growth and development , need to know
+
+ways to plan and implement it to avoid wasted resources (time, money, personnel) that do
+
+not add value to the organization . Nilson (1990) provides excellent guidelines as a
+
+starting point for public managers : a) Build in quality from the beginning. Do not teach

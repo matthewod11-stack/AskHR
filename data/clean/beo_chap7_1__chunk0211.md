@@ -1,13 +1,9 @@
-# Working Paper 04-34.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 6ce839004a90f60ba98811759a5a7fc038cefb30
+title: beo_chap7_1
+---
+## odean/papers/Managers/GervaisHeatonOdean0703.pdf.)
 
-. 2004b, What is economic sociclogy and should any economists care? Journal of Eco-
-
-nomic Perspectives 19:3~7.
-
-Gil-White, F. J. 2001. Are ethnic groups biological “species” to the human brain? Essentialism
-
-in our cognition of some social categories. Current Anthropology 42:515—54.
-
-Glaeser, E. 2004. Psychology and the market. American Economic Review 94:408-13.
-
-Goel, A. M., and A. V. Thakor. 2000. Rationality, overconfidence, and leadership. University
+Gibbons, R. 2004a. Four formal(izable) theories of the firm? MIT Department of Economics

@@ -1,23 +1,41 @@
-## creates understandable interest in the age-old question: How much will
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b70d64b24c370875fe63c39adf5da7857426b9e1
+title: H08OET-PDF-ENG
+---
+## HBR / Digital Article / How Costly Is a Resume Gap for Executives?
 
-resume gaps hurt my career?
+In September alone, nearly half a million such jobs were eliminated,
 
-In our last article, we polled executives on LinkedIn and found that
+the highest number for such positions in two years. Tech, media,
 
-61% of respondents viewed resume gaps negatively. We examined
+consulting, and ﬁnance jobs are drying up at alarming rates.
 
-data among company-switching executives and found that while those
+As expected, full-time MBA applications soared last year, indicating that
 
-without resume gaps captured a 22% raise, those with gaps averaged
+young professionals saw fewer work opportunities, making the option of
 
-a 14% raise. We also looked at ﬁndings from a ResumeGo survey that
+taking some time to invest in learning more attractive. But even among
 
-indicated that gaps could lower the chances of getting a callback for a
+the top MBA programs, recent job placements are dropping.
 
-job application, particularly if the gap was longer than two years.
+Of course, not everyone has the option to consider going back to school.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+More and more are looking for jobs, and it is taking longer to ﬁnd them.
 
-2
+In February, the Department of Labor reported that more than 7 million
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+people were looking for work, up 19% from the same time in 2023, and
+
+1.5 million have been looking for work for more than six months. Now,
+
+it takes more than ﬁve months to ﬁnd another job, half a month longer
+
+than it did in 2023. Not surprisingly, the impact of this tightening job
+
+market falls on white-collar workers, the same group that witnessed a
+
+surge in hiring just two years before.
+
+The looming prospect or current predicament of being between jobs

@@ -1,15 +1,15 @@
-# Financial
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: aa8e0129c1ea09e0175f921e193696aec12f5bdf
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Personal
 
-- 1. Bonuses 2. Pay increases Career
+- 1. Increased job satisfaction for most
 
-- 1. Increased job security
+- 2. Stress
 
-- 2. Promotions
+a. Decreased stress due to greater control
 
-- 3. Increased marketability
-
-- 4. Increased chance of being terminated
-
-organization development
-
-535
+b. Increased stress due to greater responsibility

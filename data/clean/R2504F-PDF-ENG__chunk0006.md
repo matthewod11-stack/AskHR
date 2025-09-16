@@ -1,17 +1,31 @@
-## HBR / Magazine Article / Your Company Needs an Eldercare Policy
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09de718d1eff820fce65823b29cb8dfae0f067b8
+title: R2504F-PDF-ENG
+---
+# for longer.
 
-it will be 4:1; in 2050 it will be 3:1. This trend, too, prevails in developed
+The supply of family caregivers—who provide the preponderance of
 
-and developing countries around the world.
+eldercare—is also not keeping pace with growing lifespans. Families
 
-Paid caregiving won’t ﬁll the supply gap, for two reasons. First, for the
+have gotten smaller, which means fewer children are available to care
 
-majority of American families, it’s unaﬀordable: Annual long-term-care
+for their parents or other relatives. They’re also more geographically
 
-costs, which Medicare generally doesn’t cover, average $104,000 for
+dispersed, which means fewer members live close enough to provide
 
-in-facility care and $69,000 for in-home situations. Second, to keep
+everyday care. A rough gauge of the shrinking supply is the U.S. Census
 
-up with demand, the long-term-care workforce would need to grow by
+Bureau’s “caregiver support ratio,” which compares the population most
 
-more than a million people over the coming 10 years. That’s not likely to
+likely to provide care (those aged 45 to 64) with the population most
+
+likely to need care (those 80 and older). In 2010 the ratio was 7:1; in 2030
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

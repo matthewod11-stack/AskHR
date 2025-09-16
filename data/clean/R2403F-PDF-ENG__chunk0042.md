@@ -1,13 +1,57 @@
-# Strengthen DEI Efforts
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74722a6dbbc7327183c88d9b8d2eed3775032a80
+title: R2403F-PDF-ENG
+---
+# HBR / Magazine Article / HR’s New Role
 
-A ﬁnal area where HR can take the lead is diversity, equity, and
+and promised its workforce of 275,000 that all employees who agreed
 
-inclusion. The “equity and inclusion” components, which get less
+to undergo it, even those whose roles were eliminated by automation,
 
-attention, are where HR advocacy for employee interests is especially
+would have a job with the company, though it might not be the same job.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Internal job markets help current employees move to new positions in
 
-11
+their organizations where the growth is and where they can learn new
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+skills. They not only cost very little but also save enormous amounts
+
+of money by reducing turnover and the need to hire from the outside.
+
+Though internal job markets date back to the dot-com days of 1995 to
+
+2000, they were scaled down after the Great Recession under pressure
+
+from line managers who didn’t want to let their good employees leave
+
+them, even if it was for better jobs in the same organization. Now these
+
+programs are being revived, often under the name “talent marketplace.”
+
+(See “How to Design an Internal Talent Marketplace,” HBR, May–June,
+
+2023.)
+
+HSBC says its talent marketplace was critical to its transformation into a
+
+digital-ﬁrst bank. Unilever’s former CEO Alan Jope praised its revamped
+
+internal job market, Flex Experiences, for helping the company
+
+rearrange talent in a way that allowed it to weather the pandemic
+
+and become more agile. A few years ago Flex expanded into matching
+
+employees with learning opportunities on projects, particularly those
+
+with ESG objectives. Since 2018 Unilever has reallocated 500,000
+
+employee hours toward more than 4,000 business-critical projects,
+
+improving overall productivity by 41% in the process. Seventy percent
+
+of the assignments in those projects were cross-functional, helping
+
+employees build skills that will make the organization even more agile.

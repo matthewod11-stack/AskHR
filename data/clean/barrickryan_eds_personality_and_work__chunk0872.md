@@ -1,7 +1,15 @@
-## Journal of Organizational Behavior, 20, 915–931.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 92d7547764136c74df7d30c71240bbf5c57d3db2
+title: barrickryan_eds_personality_and_work
+---
+## Factor Model. Annual Review of Psychology, 41, 417–440.
 
-Frei, R. L., & McDaniel, M. A. (1998). Validity of customer service mea- sures in personnel selection: A review of criterion and construct ev- idence. Human Performance, 11, 1–27.
+Douglas, S. C., & Martinko, M. J. (2001). Exploring the role of individual differences in the prediction of workplace aggression. Journal of Ap- plied Psychology, 86, 547–559.
 
-Fritzsche, B. A., McIntire, S. A., & Yost, A. P. (2002). Holland type as a moderator of personality-performance predictions. Journal of Voca- tional Behavior, 60, 422–436.
+Dwight, S. A., & Donovan, J. J. (1998). Warning: Proceed with caution when warning applicants not to dissimulate (revised). Paper presented at the Thirteenth Annual Meeting of the Society for Industrial and Orga- nizational Psychology, Dallas, TX.
 
-Ghiselli, E. E. (1966). The validity of occupational aptitude tests. New York:
+Erez, A., & Judge, T. A. (2001). Relationship of core self-evaluations to goal setting, motivation, and performance. Journal of Applied Psy- chology, 86, 1270–1279.
+
+Fox, S., & Spector, P. E. (1999). A model of work frustration-aggression.

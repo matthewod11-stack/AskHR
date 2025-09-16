@@ -1,9 +1,9 @@
-# PL
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98c5dd76dcc6c65b6c23eb505f33eb00f9cb88dd
+title: H085EX-PDF-ENG
+---
+# HBR / Digital Article / Middle Managers Should Drive Your Business Transformation
 
-Patrick Litre leads Bain’s Global Transformation and Change practice and is a partner based in Atlanta.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Michael Mankins is a leader in Bain & Company’s Organization and Strategy & Transformation practices and is a partner based in Austin, Texas. He is a coauthor of Time, Talent, Energy: Overcome Organizational Drag and Unleash Your Team’s Productive Power (Harvard Business Review Press, 2017).

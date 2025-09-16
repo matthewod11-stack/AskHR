@@ -1,35 +1,35 @@
-## 4.1.2 Analysis of HR Cooperation Towards Employee
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 97dd28b42999d026092d1e81e3d19fa303857849
+title: internship_report
+---
+# Figure 1: Employee Satisfaction Analysis
 
-(cid:67)(cid:111)(cid:111)(cid:112)(cid:101)(cid:97)(cid:114)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)
+In case of employee satisfaction regarding HR policy (Fig: 1) of the group, find that 46%
 
-(cid:53)(cid:48)(cid:37)
+employees are satisfied. On the other hand, 45% employees don‟t like to express their opinion in
 
-(cid:52)(cid:48)(cid:37)
+this regard. However, 9% employees are not satisfied about the HR policy of the group. The
 
-(cid:52)(cid:53)(cid:37)(cid:32)
+happiness that employees feel when they are satisfied with their job, work conditions and HR
 
-(cid:51)(cid:48)(cid:37)
+policy, used as one way of measuring a company‟s success. So, it is essential for the HR
 
-(cid:50)(cid:48)(cid:37)
+department to work closely with the un satisfied employees so that the HR department can find
 
-(cid:50)(cid:55)(cid:37)(cid:32)
+out the real reason behind the dissatisfaction and work to resolve the issue to make a at least 80%
 
-(cid:50)(cid:55)(cid:37)(cid:32)
+satisfied employee. If the HR department can make the said rate of employee satisfied then the
 
-(cid:49)(cid:48)(cid:37)
+individuals hardly think of leaving their current jobs and they ensure higher revenues for the
 
-(cid:48)(cid:37)(cid:32)
+organization, they tend to adjust more and handle pressure with ease as compared to frustrated
 
-(cid:48)(cid:37)(cid:32)
+ones, they deal with customers in a better way and builds strong relations with them. Finally,
 
-(cid:48)(cid:37)
+they can achieve company‟s desire goal.
 
-(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121) (cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
+HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:52)(cid:52)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
 
-(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
-
-(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
-
-(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
-
-(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121) (cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
+(cid:32) (cid:32) (cid:32) (cid:32)

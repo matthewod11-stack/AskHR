@@ -1,39 +1,29 @@
-# People Believe AI Is Too Autonomous
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c69b680ff6c9f6bed3e0ce1e1ef437d4031609d4
+title: S25013-PDF-ENG
+---
+## HBR / Spotlight / Why People Resist Embracing AI
 
-AI tools that can perform tasks without active human input often feel
+crisis messages to the apps and asked trained clinical experts to
 
-threatening to people. From early on in life humans strive to manage
+classify the responses. The experts and I determined that 25% of the AI-
 
-their surroundings to achieve their goals. So they’re naturally reluctant
+generated responses were problematic because they increased the users’
 
-to adopt innovations that seem to reduce their control over a situation.
+likelihood of harming themselves. Then we asked a separate group of
 
-AI endows algorithms with a high degree of independence, allowing
+people to consider how each app had responded to the crises. Most of
 
-them to formulate strategies, take action, and keep reﬁning their
+them gave the apps low ratings, indicated that they would stop using the
 
-capabilities, all while adjusting to new situations without needing
+apps, and said the app companies would be liable if the users ended up
 
-direct human guidance. The possibility that AI tools might completely
+hurting themselves.
 
-take over tasks previously handled by humans, rather than just assist
+Therefore, AI systems must balance ﬂexibility against predictability
 
-with them, stirs up deep concerns and worries. A signiﬁcant majority
+and safety. To do that they can incorporate user feedback and include
 
-of Americans (76%) are apprehensive about being passengers in self-
-
-driving vehicles, for instance. Similarly, people are afraid that smart
-
-home gadgets might invade their privacy by surreptitiously gathering
-
-their personal data and using it in unforeseen ways.
-
-People also resist surrendering tasks to AI because they believe their
-
-personal performance is superior to the technology’s. Interestingly,
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+safeguards for handling unexpected input appropriately.

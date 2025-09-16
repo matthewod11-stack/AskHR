@@ -1,25 +1,37 @@
-# Privacy
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1861d59724aa911c98c58d88ec2c495930144f8
+title: H081NE-PDF-ENG
+---
+## oﬀer clear instrumental beneﬁts or strategic rewards, like that of an
 
-All relationships involve some degree of personal disclosure, but what
+independent consultant hoping to secure a deal with a key client.
 
-you reveal and how soon you share it vary tremendously across cultures
+Others oﬀer intrinsic beneﬁts, like the camaraderie and validation you
 
-(and personalities!). A Brazilian interviewee said there’s almost no topic
+receive from working together. Professionals in places like Germany
 
-she wouldn’t discuss with her workmates, and she found it oﬀ-putting
+may prefer to keep these two purposes separate: You wouldn’t
 
-that people would put up artiﬁcial walls around their personal lives
+necessarily expect to become chummy with your work colleague here,
 
-while at work. “What’s the big deal? We’re all just people!” According
+and it could feel like an intrusion or violation to do so. Yet in other
 
-to her, if she tried to get to know someone a few times and they
+cultures, like Brazil, workplace relationships are cherished for their
 
-wouldn’t open up, she would likely assume that person was a snob, or
+own sake and colleagues often become friends who make a habit of
 
-anti-social, and would probably give up. Now consider a totally diﬀerent
+meeting up on the weekends for fun. And in some places, like the U.S.,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+we see a blend: People enjoy building a personal connection, but more
 
-5
+to motivate the team, function eﬀectively, and get the job done faster.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+These notions about purpose are linked to diﬀering interpretations
+
+of “professionalism.” If we don’t pay attention to this, we can easily
+
+feel annoyed, disillusioned, confused, or judgmental when a colleague
+
+deviates from what we’re expecting.

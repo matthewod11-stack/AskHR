@@ -1,37 +1,17 @@
-## Protecting Newcomers’ Psychological Safety
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e560af2f319bdc98d36c8bd47d277ada3e44b8fe
+title: H08ADN-PDF-ENG
+---
+## remains intact. In contrast, a moment of dismissal or humiliation
 
-For a leader overseeing organizations experiencing any degree of
+for having raised it at all dramatically inhibits your willingness to
 
-turnover (and these days, who isn’t), our ﬁndings point to a signiﬁcant
+try again. The belief that it’s safe to speak up is easily negated,
 
-challenge. Without psychological safety, new hires might choose to
+automatically reducing the opportunities to reverse it in the future.
 
-lay low and keep their ideas and concerns to themselves — putting
+Even a single negative experience can harm psychological safety —
 
-teams and companies at risk of making bad decisions, experiencing
-
-preventable failures, or missing out on improvement ideas. Bolstering
-
-psychological safety for new hires is thus a vital leadership task. We
-
-suggest three strategies to help preserve new hires’ early willingness to
-
-speak up:
-
-Interpersonal skills training
-
-Our research showed that while new hires’ psychological safety
-
-initially declined in all conditions, the trend was less severe in
-
-departments with high psychological safety. In those departments,
-
-members’ psychological safety was 5–15% higher than their colleagues
-
-in departments with low psychological safety. The diﬀerences already
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+whereas rebuilding it takes deliberate management eﬀort over time.

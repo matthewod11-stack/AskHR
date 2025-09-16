@@ -1,11 +1,23 @@
-## a familiar and important one in conversations about strategy, must
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6ef0d5d9954d834e888c88c47fc56f9ad32c6ba9
+title: R2302D-PDF-ENG
+---
+# Four Crucial Questions
 
-be answered before you move on to the other three. Make sure that
+Many executive teams have begun that process by engaging in a
 
-all your answers align with the values and principles you’ve deﬁned
+conversation acknowledging that their company is unique, that no one-
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+size-ﬁts-all solution exists, and that determining what’s right is going to
 
-6
+be a long and arduous process. Those conversations have gone in many diﬀerent directions, depending on the companies’ needs and goals, but
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+what I’ve learned in talking to leaders involved in the process is this:
+
+Every executive team must ask four crucial questions as it thinks about
+
+how best to deal with the ongoing transition to hybrid work.
+
+- 1. What are our overarching values and principles? This question,

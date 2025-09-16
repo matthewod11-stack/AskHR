@@ -1,21 +1,15 @@
-# interviews
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 77af2b3b2d12fe3faefad2d5e1f5ae8cd0436593
+title: internship_report
+---
+# and guests/clients
 
-7.
+5.
 
-Make sure, whether the appraisals are made at the proper time and other training requirements
+Supervising employee benefits plan
 
-are met for employees.
+6.
 
-8.
-
-Providing administrative support and information to top management in their respective duties.
-
-9.
-
-Maintaining Company Asset with compile and checking Inventory, purchase, movement and
-
-visitors register.
-
-10.
-
-Processing Personnel recruitment, selection, appointment, orientation, termination, final
+Assisting companies in finding the right person for the job by placing Job adverts, making

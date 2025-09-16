@@ -1,17 +1,27 @@
-# extraordinary performance.
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a995613bf0f9c26bb81412f3254966a8e088dacd
+title: S24041-PDF-ENG
+---
+## HBR / Spotlight Article / Power, Influence, and CEO Succession
 
-Assertive persuasion and incentives and disincentives are “push” styles
+Michel de Broin’s sculpture Possibility is inspired by oversize roadside signs and their ability to signal destinations to passing traffic.
 
-of inﬂuence. There are also two “pull” styles, which require followers’
+The second inﬂuence style is called incentives and disincentives. It’s a
 
-commitment. One is called common vision. The leader paints a picture
+carrot-and-stick way of explaining consequences by saying things like
 
-of a future state that inspires followers, pulling them forward—for
+“Do what I want you to, and I’ll give you something you want. If you
 
-instance, by saying, “Imagine with me for a moment just how great
+don’t, I’ll take away something you have or withhold something you
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+desire.” Someone using this style must have the power to deliver or
 
-7
+take away what followers want. This approach is commonly used in
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+companies facing a burning platform. (“Here are the bad things that
+
+will happen to us if you don’t follow me down this new road.”) It can
+
+also be seen in reward systems that oﬀer bonuses or stock options for

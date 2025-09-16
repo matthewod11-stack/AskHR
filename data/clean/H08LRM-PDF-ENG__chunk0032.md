@@ -1,5 +1,29 @@
-## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8d11c0c84bf2269e4ed5c183f56bb52bf3a64a7
+title: H08LRM-PDF-ENG
+---
+## your sabbatical through thoughtful preparation.
 
-before approaching your supervisors. And test the waters by identifying
+To start, you may not need to quit your company. Many organizations
 
-a proposed sabbatical date years in the future to give your team and
+without formal sabbatical policies are still willing to make exceptions
+
+for their most valued employees — if they’re intrepid enough to ask.
+
+Less attractive options can also work for both parties, including taking
+
+unpaid leave, departing without a guaranteed position on return, or
+
+compromising on a later departure date to better ﬁt business realities.
+
+If you’re worried about retribution for appearing less serious about
+
+your job, ask colleagues if they know of anyone who has taken leave
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

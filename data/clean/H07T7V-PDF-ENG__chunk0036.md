@@ -1,7 +1,27 @@
-# wow.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 734ff7fe73b8c264083ea78f17c3638ca5ccf3f2
+title: H07T7V-PDF-ENG
+---
+# memory?
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+ADI IGNATIUS:
 
-12
+No. Microsoft went from the tech company we liked least to maybe the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+one we like best.
+
+ANDREW MCAFEE:
+
+And if you were an investor, you really didn’t like it for about a decade.
+
+The stock price was ﬂat as a corpse’s EKG. And then Nadella took over,
+
+and it’s become one of the most valuable companies in the world. It’s an
+
+astonishing comeback story.
+
+I got to interview Nadella for the book. He’d made brilliant strategic
+
+moves, a bunch of them. You have Microsoft embracing open source,

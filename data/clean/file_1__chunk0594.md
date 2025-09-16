@@ -1,9 +1,11 @@
-# cross-national comparison. Journal of Occupational and Organizational Psychology, 77, 149-156.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 0919c2660e5dd372185883d065c001d8b41267a3
+title: file_1
+---
+# 136
 
-Tajfel, H. and J. Turner, 1979. An integrative theory of intergroup conflict. in Austin,
+Sweeney, P. and D. McFarlin, 1997. Process and Outcome: Gender Differences in the Assessment of Justice. Journal of Organizational Behaviour, 18, 83-98.
 
-William G.; Worchel, Stephen. The Social Psychology of Intergroup Relations. Monterey, CA: Brooks-Cole, 94–109.
-
-Tepper, B., 2001. Health consequences of organizational injustice: Tests of main and interactive effects. Organizational Behavior and Human Decision Processes, 86, 197-215.
-
-Thibaut, J. and L. Walker, 1975. Procedural Justice. Hillsdale, NJ: Lawrence Erlbaum
+Sweeney, P. and D. McFarlin, 2004. Social comparisons and income satisfaction: A

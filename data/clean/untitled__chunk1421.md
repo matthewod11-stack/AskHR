@@ -1,11 +1,13 @@
-# interpretation. Hillsdale, NJ: Erlbaum.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 680dcc8cc056b23703cf584f833c9fed2e006d5e
+title: untitled
+---
+# References
 
-Eagly, A. H., Karau, S. J., & Makhijani, M. G (1995). Gender and the effectiveness of leaders: A meta-analysis. Psychological Bulletin, 117(1), 125–145.
+Dollard, J., Doob, L. W., Miller, N. E., Mowrer, O. H., & Sears, R. R. (1939). Frustration and aggression. New Haven, CT: Yale University Press.
 
-Edwards, P. N. (1996). The closed world: Computers and the politics of discourse in cold war America. Cambridge, MA: MIT Press.
+Dunlap, K. (1928). The applications of psychology to social problems. In C. Murchison (Ed.), Psychologies of 1925 (pp. 353–379). Worchester, MA: Clark University Press.
 
-Faris, E. (1937). Nature of human nature. In F. H. Allport (Ed.),
-
-Historical background (p. 161). New York: McGraw-Hill.
-
-Fay, J. W. (1939). American psychology before William James. New
+Eagly, A. H. (1987). Sex differences in social behavior: Asocial-role

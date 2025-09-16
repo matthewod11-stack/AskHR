@@ -1,29 +1,35 @@
-## businesses across Georgia, Ukraine, Kazakhstan, and the rest of the
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7415664b0650db2d837101e9d5e6ffc5d74efa8
+title: R2504A-PDF-ENG
+---
+# An Untapped Market
 
-region and within a year made partner. In 2006 we invested in a bank
+I grew up in Georgia—the country, not the U.S. state—in a family that
 
-in Kazakhstan, Kaspiyskiy Bank; when the global economy faltered not
+always prioritized learning. Even if we didn’t have the money for meals,
 
-long after, the value of that investment plummeted. My ambition had
+my parents found a way to pay for my math, physics, and English tutors.
 
-always been to take an operating role in one of our portfolio companies.
+After earning a bachelor’s degree in business from the European School
 
-Here was my opportunity to step in and not only turn a business around
+of Management, I partnered with some classmates and professors to
 
-but also build it into something special.
+set up a strategic advisory and auditing ﬁrm, which grew to be one of
 
-At the time, ﬁnance industry observers were warning that technology
+the largest in our country. In 2001, while I was in the MBA program at
 
-companies would soon oﬀer online services to usurp the role of
+Harvard Business School, the company became part of Ernst & Young.
 
-traditional banks. My thought was that Kaspi needed to preempt
+After graduation, I knew I wanted to remain an entrepreneur in the
 
-that disruption by transforming itself into a technology company,
+high-opportunity Eastern European market, so I reached out to the
 
-and I wrote a six-page business plan for the new vision: Rebranded
+leading private equity ﬁrm in the region. The managing partner said
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+he didn’t have any openings, but I told him I would work for free;
 
-3
+eventually he hired me, saying, “I don’t know what you’ll do, but we’ll
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁnd something.” Working out of our Moscow headquarters, I evaluated

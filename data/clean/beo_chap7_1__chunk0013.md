@@ -1,9 +1,19 @@
-# loyalty, peer effects, and the coordinating role and cognitive economics of culture.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 84339b7363320753f9d91f19bdd4b5d3e437f3f4
+title: beo_chap7_1
+---
+# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
 
-Section 7.4 is about top management and governance and special considerations that
+For those topics, the paper should be read as a research agenda rather than a review
 
-arise like CEO overconfidence. Section 7.5 asks how patterns in individual judgment
+of what has been learned.
 
-and choice aggregate into organizational outcomes when organizations can repair
+Section 7.2 lays out the basic single-activity risk-incentive conflict model and
 
-or exploit them. Section 7.6 concludes the chapter.
+points out psychological considerations which complicate the model. Section 7.3
+
+notes that the simplest risk-incentive model does not particularly account for the fact
+
+that people work together in organizations and discusses the importance of group

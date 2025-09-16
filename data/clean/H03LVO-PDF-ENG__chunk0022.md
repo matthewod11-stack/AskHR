@@ -1,5 +1,13 @@
-# regardless of their country of origin.
+---
+source_path: H03LVO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 839db4730f46d0bbbc07fd473f69b1aaebb0dd2a
+title: H03LVO-PDF-ENG
+---
+## displace domestic inventors, for example – an inﬂow of foreign talent
 
-This article has been updated to clarify Nikola Tesla’s family history.
+may create positive beneﬁts through improved skills, innovation, and
 
-This article was originally published online on April 21, 2017.
+other spillovers. Technological innovation is a central determinant of
+
+long-run economic growth, and access to the best inventors matters,

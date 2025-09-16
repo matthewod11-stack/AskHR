@@ -1,17 +1,7 @@
-# La Casa de Carlota
-
-they feel that they’re being helpful
-
-themselves by purchasing its product or
-
-service. It made them feel good about
-
-themselves, which can be a powerful and persuasive addition to any
-
-ﬁrm’s value proposition. So the general attitude of the public toward a
-
-company becomes more positive and supportive if it employs people
-
-with disabilities, which down the line signiﬁcantly enhances the
-
-inclination to purchase from it, become a long-term customer, and pay
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e06830885eb4d0c1aa6b264a01323c3aeee7ac77
+title: R2304H-PDF-ENG
+---
+## (for example, in its pricing) and because

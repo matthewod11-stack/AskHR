@@ -1,9 +1,19 @@
-## When Nestlé appointed Wan Ling Martello, an executive experienced
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e346954bc962260057b258af052a66e1158c3f2
+title: H08IKX-PDF-ENG
+---
+# to Indian shelves.
 
-in managing crises in Asian markets, she focused on restoring morale
+- 6. Prepare Leaders to Deal with Complex Problems
 
-within Nestlé India and championing a balanced, culturally sensitive
+Leaders typically rise through the ranks by solving complicated
 
-response to the crisis. Her leadership underscored the importance of
+problems with logical approaches. Managing complex issues requires
 
-having leaders prepared for ambiguity and experienced in navigating
+leaders who can use intuitive skills built on years of experience in
+
+dealing with complex problems to navigate ambiguity, adapt to rapidly
+
+changing circumstances, and balance diverse stakeholder interests.

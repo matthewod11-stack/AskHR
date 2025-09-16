@@ -1,11 +1,9 @@
-# patients.
+---
+source_path: H05CAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce5e98f2ed9f9658872aa093b981234cc83e261e
+title: H05CAR-PDF-ENG
+---
+## approximately $1000 per month—more than a third of the average
 
-Yamada held discussions with his research staﬀ and quickly learned
-
-that he was not alone in his opposition to the lawsuit. The team wanted
-
-to be a part of the solution to global health issues, not party to a lawsuit
-
-preventing such drugs from reaching those in dire need, but they felt
-
-they lacked the power to change the company’s direction. Yamada felt
+South African’s annual salary, putting treatment out of reach for most

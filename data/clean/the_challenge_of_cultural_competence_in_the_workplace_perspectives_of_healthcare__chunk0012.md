@@ -1,1 +1,7 @@
-# ii)
+---
+source_path: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare.md
+pages: n/a-n/a
+chunk_id: c310e43c2422bb5d14387218a09c8645b7a0f975
+title: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare
+---
+# educational

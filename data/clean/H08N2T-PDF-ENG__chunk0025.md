@@ -1,9 +1,11 @@
-# Passion vs. paycheck
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eebc0bfd96c752b1cfb38c71f117c97bae1e24d0
+title: H08N2T-PDF-ENG
+---
+# growth.
 
-- A) I would take a job that excites me, sparks my curiosity, and aligns
+- B) I am willing to embrace high-pressure environments and longer
 
-with my interests, even if it pays less.
-
-- B) Earning a high salary is my top priority—ﬁnancial success
-
-outweighs how much I enjoy the work.
+hours if it accelerates my career progression and earning potential.

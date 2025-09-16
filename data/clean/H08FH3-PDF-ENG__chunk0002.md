@@ -1,5 +1,7 @@
-## What Employers Get Wrong About How People Connect at Work
-
-Four important kinds of connection happen in organizations — but leaders usually only focus on one. by Khalil Smith, Brigid Lynn, and David Rock
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3fb419026c0bd0a44b4e485e88e56cea072c9d71
+title: H08FH3-PDF-ENG
+---
+# Collaboration and Teams

@@ -1,35 +1,33 @@
-# home countries of their ancestors.
+---
+source_path: H048OW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f557a92b66657e88faea6816b6bb74a667ebce01
+title: H048OW-PDF-ENG
+---
+## whether the cultural values that CEOs inherit from their parents and
 
-The CEOs in our sample led 441 publicly-listed U.S. banks between 1994
+grandparents affect their decision-making and their ﬁrms’ performance.
 
-and 2006. Among them, 293 were either children or grandchildren of
+Our sample consisted of 610 U.S. bank CEOs who were born in the U.S.,
 
-immigrants, and we called them our second- and third-generation CEOs.
+which we separated into three groups: those whose parents were
 
-We hand-collected data on the country of origin of a CEO’s ancestors from
+immigrants to the U.S., those whose grandparents were immigrants to the
 
-ancestry.com, the world’s largest genealogy database, which covers nearly
+U.S., and those whose parents and grandparents were born in the U.S.
 
-20 billion family histories. We traced a CEO’s ancestors by searching his or
+(our control group). We chose this design as a way to isolate the effect of
 
-her name, birthplace, and birth year to identify parents, then used the
+cultural heritage: while CEOs born to immigrant parents or grandparents
 
-same technique to identify the grandparents, and so on. Looking at a range
+are exposed to the same legal, social, and institutional inﬂuences as other
 
-of data sources — from census records to marriage certiﬁcates to
+CEOs, they’re likely to possess a distinct cultural heritage. Research has
 
-passenger lists on immigration ships that sailed from Europe to the U.S. —
+long shown that cultural values are deeply rooted and that immigrants to
 
-we were able to map their family trees. We were able to accurately
+the U.S. show a degree of cultural distinctness over several generations.
 
-determine the ancestors going back six generations for these 610 U.S.
+For instance, U.S. immigrants’ family living arrangements and beliefs of
 
-bank CEOs. We identiﬁed the country that his or her ancestors immigrated
-
-from, and how many generations ago the ancestors moved to the U.S. For
-
-Copyright © 2018 Harvard Business School Publishing Corporation. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the role of women in society have been found to parallel those found in the

@@ -1,5 +1,13 @@
-# ao conceituar clima organizacional e sua mensuração através de pesquisa, adentrar
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: e19ac2a9745e0b399b96e6e144ac7b1aa2d1fc80
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## ela ser boa para ele também (PONTES, 2017).
 
-na visão da psicologia positiva a respeito de trabalho e conceituar o constructo de
+Mensurar engajamento no trabalho é foco de diversos instrumentos de
 
-engajamento e como medi-lo, chegando ao NPS e,
+pesquisa na área de RH. Neste trabalho, propusemos descrever a metodologia do
+
+eNPS, um desses instrumentos, não sem antes aprofundar no campo da psicologia,

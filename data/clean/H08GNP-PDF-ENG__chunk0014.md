@@ -1,9 +1,9 @@
-## the actions of a more consistently abusive leader and either attempt
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b216ae9ad9359f21f5525eb6a8e6155eab007f81
+title: H08GNP-PDF-ENG
+---
+# focus of our research.
 
-to avoid them or interact with them in ways that protect themselves
-
-and their well-being. However, leaders who alternate between abusive
-
-and ethical behaviors increase their employees’ uncertainty about their
-
-leaders’ future behavior, resulting in employees’ emotional exhaustion
+Abuse is certainly bad by itself, but employees can at least anticipate

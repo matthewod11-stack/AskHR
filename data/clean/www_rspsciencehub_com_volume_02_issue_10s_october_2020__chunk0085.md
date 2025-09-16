@@ -1,5 +1,7 @@
-# quits." Labour
-
-[10].Khare, Rupesh, et al. "Employee attrition risk assessment using logistic regression analysis." Ahmedabad: Indian Institute of Management. (2011).
-
-to power: Legislative advanced democracies. Cambridge University Press, 1997. Hyperlinks
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: e9d1a354df06b668a19caa24757091de989af147
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# and

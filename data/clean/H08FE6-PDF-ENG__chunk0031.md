@@ -1,17 +1,11 @@
-# step into the CRO role.
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a10fd212651aec3dc8263fa54aa9a11ab732a56
+title: H08FE6-PDF-ENG
+---
+## HBR / Digital Article / The High Costs of Chief Revenue Officer Turnover
 
-- Develop a robust handover process: Ensure that critical knowledge,
+- Create exposure to the board and key stakeholders: This helps
 
-relationships, and ongoing initiatives are thoroughly documented and
-
-transitioned.
-
-- Plan for continuity: When the timing makes it possible, design a
-
-transition period where the outgoing and incoming CRO can work together to ensure a smooth handoﬀ. Structure incentives to ensure a
-
-smooth transition from the outgoing CRO.
-
-By investing in succession planning, organizations can minimize the
-
-disruption of CRO transitions and set up internal high potentials for
+potential successors build relationships and credibility before they

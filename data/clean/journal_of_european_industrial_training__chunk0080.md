@@ -1,5 +1,11 @@
-## Journal of European Industrial Training 25/1 [2001] 5±32
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 6c49059bd2445d5f30d79789cb6e70a1e9c753dd
+title: journal_of_european_industrial_training
+---
+# I
 
-traditional top-down appraisal. Klimoski and London (1974) suggest that self-raters are more familiar with their own performance than are supervisors and, therefore, self- raters are in a position to make accurate evaluations.
+d e d a o l n w o D
 
-Second, Cardy and Dobbins (1994) point out that, since employees naturally make self-ratings even when they are not asked to do so by the organisation, it makes more sense to have a formal platform for self- evaluation. If this is the case, they argue that by formalising the self-rating process, it has the potential to provide a way of identifying major discrepancies between self and other ratings, thus increasing self-awareness. Third, Riggio and Cole (1992) suggest that self-appraisals increase ratee participation in the feedback process and that this in turn leads them to be more committed to performance goals and more accepting of criticism. McMahon and Gunnigle (1994) maintain that having a self-appraisal component in the performance appraisal process leads to a more constructive and productive discussion about the focal individual's performance than having the supervisor simply rate his/her performance.
+Alma M. McCarthy and Thomas N. Garavan 3608 feedback processes: performance improvement and employee career development

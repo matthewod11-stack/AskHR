@@ -1,11 +1,29 @@
-## HBR / Magazine Article / How Women Can Win in the Workplace
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c6565290918d0eb39e0a7a57e573b988f5e4cad
+title: R2502E-PDF-ENG
+---
+# and retention.
 
-The question, of course, is how to identify companies that actually
+Diversity. People are more likely to learn new things and be innovative
 
-possess these traits. The most obvious places to start are company
+and creative when they have colleagues who diﬀer from them.
 
-websites and the information that companies’ HR departments make
+Organizations with leadership teams that reﬂect diverse cultures
 
-available. It’s always a good idea to talk to people who work in the
+and genders are more likely to make better decisions and be open
 
-organizations and to compare what they tell you with what you ﬁnd
+to continuous improvement, which can increase their employees’
+
+experience capital. (Note that we’ve found only that these beneﬁts are
+
+correlated with diversity; it’s not possible to put a company through a
+
+double-blind test to prove causation.)
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

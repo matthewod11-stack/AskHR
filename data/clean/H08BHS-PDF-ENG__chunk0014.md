@@ -1,13 +1,29 @@
-## During these sessions, focus on speciﬁc instances where the high
+---
+source_path: H08BHS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af40655168349d2b04e56059cc35beb61cf95de0
+title: H08BHS-PDF-ENG
+---
+## Develop Emotional Intelligence and Use Self-Reflection
 
-achiever’s emotional responses inﬂuenced outcomes and help them
+Emotional intelligence (EQ) is a key diﬀerentiator for leaders, especially
 
-consider how things might have gone diﬀerently – for good and
+those already successful in their careers. High achievers need mentors
 
-bad. Perhaps they got frustrated with a colleague who doesn’t think
+who help them develop a deeper understanding of their own emotions
 
-as quickly and as a result, they had an outburst or took over the
+and those of others. This skill is critical for fostering better relationships
 
-situation. Or they missed a signal that a teammate was feeling excluded
+and decision-making, particularly when interacting with people who
 
-from an important conversation. This practice helps them gain new
+have not yet reached the same levels of achievement.
+
+Pro Tip: Establish regular, structured feedback sessions. High achievers
+
+are often left to their own devices as they often don’t need much
+
+oversight. But there is a beneﬁt to having regular check-ins to ensure
+
+the individual is stretching their thinking, not getting complacent, and
+
+thinking several steps ahead.

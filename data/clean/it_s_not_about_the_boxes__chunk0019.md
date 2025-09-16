@@ -1,7 +1,7 @@
-# Overcome the Fear of Labeling
-
-Some leaders believe that placing a label or
-
-The purpose of a talent review is to deter- mine the speed at which people can advance
-
-It’s important to remember that a talent review is a prediction
+---
+source_path: it_s_not_about_the_boxes.md
+pages: n/a-n/a
+chunk_id: b605bbd2ebbe452f08a7242724c6be92d0cc6c7a
+title: it_s_not_about_the_boxes
+---
+# Link to Succession Planning

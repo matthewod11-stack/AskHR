@@ -1,13 +1,13 @@
-# colleagues.
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af595f1c98d7076ab99dc8fada18ee04748bdb40
+title: H07ZCR-PDF-ENG
+---
+## Source: Jenny Fernandez, Kathryn Landis, and Julie Lee
 
-- 3. Reestablish trust.
+For Elena, this exercise illuminated the importance of her cross-
 
-After a long period of uncertainty, like when the organization is
+functional partnerships, revealed shared objectives, and enabled her
 
-operating in survival mode, it’s important to recognize that a low level
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to focus her energy on advancing her strategy in alignment with her

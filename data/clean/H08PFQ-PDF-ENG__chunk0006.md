@@ -1,11 +1,9 @@
-# enterprise above their own.
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f967a499066e97b6c57ffe9261f6bd56f6b776a3
+title: H08PFQ-PDF-ENG
+---
+# HBR / Digital Article / Executive Teams Are Losing Stakeholders’ Confidence. Here’s H…
 
-I’m hearing this too. My clients cite several forces that are encroaching
-
-on their cohesion and ability to lead—and subsequently diminishing
-
-others’ conﬁdence in them. Shifts in political power have led to abrupt
-
-policy changes, challenging leaders to remain agile and compliant amid
-
-evolving regulations. The whiplash of changing priorities, particularly
+the demands of conﬂicting constituents and put the interests of the

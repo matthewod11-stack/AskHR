@@ -1,9 +1,7 @@
-# employee and data about the hours worked and the wages earned. The following is a listing of the basic
-
-payroll records that an employer must maintain:
-
-Employee's full name, as used for Social Security purposes, and on the same record, the employee's
-
-identifying symbol or number if such is used in place of name on any time, work, or payroll records
-
-Address, including zip code
+---
+source_path: Employment Law Guide - Workers with Disabilities for the Work Being Performed.md
+pages: n/a-n/a
+chunk_id: 95844ea853c25ef6f2ccba20dbe07d2955084340
+title: Employment Law Guide - Workers with Disabilities for the Work Being Performed
+---
+# There is no required form for the records. However, the records must include accurate information about the

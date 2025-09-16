@@ -1,35 +1,25 @@
-# The way my boss handles employees
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 743f869087247d760163266485e57b45ebe7264b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Very Sat.
 
-6.
+1.
 
-The competence of my supervisor in making decisions
+Being able to keep busy all the time
 
-7.
+2.
 
-Being able to do things that don’t go against my conscience
+The chance to work alone on the job
 
-8.
+3.
 
-The way my job provides for steady employment
+The chance to do different things from time to time
 
-9.
+4.
 
-The chance to do things for other people
+The chance to be “somebody” in the community
 
-10.
-
-The chance to tell people what to do
-
-11.
-
-The chance to do something that makes use of my abilities
-
-12.
-
-The way company policies are put into practice
-
-13.
-
-My pay and the amount of work I do
-
-14.
+5.

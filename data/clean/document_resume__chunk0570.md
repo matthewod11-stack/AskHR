@@ -1,9 +1,9 @@
-## Saliance of Commtr iication to Performance Appraisal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 580e0c7c6e1aa116c95b8d5fc6ea5ba7097facf6
+title: document_resume
+---
+# Mark E. Meadows
 
-There is mounting evidence that success or failure of performance appraisal rests on the effectiveness of the terminal appraisal event, that is, the appraisal interview.3 Laird and Clampitt cited research which suggested that performance review interviews make employees more defensive and self-conscious about then job behavior.4 Goodall, Wilson, and Waagen claimed that fear of what performance appraisals might yield keeps the appraisal process from achieving its full potential.' Appraisers experience high levels of anxiety when giving negative feedbackh and futility because they either do not believe they can do what is required of them in performance appraisals or that the environment will not be responsible to their efforts.' For appraisees, "The perfor- mance appraisal interview is a situation that determines ... survival or death."4 Clcarly, performance appraisal interviews are complex, potentially charged situations which call for appraiser communication skids of the highest order.
-
-Maier recommended that perform Le appraisal issues be approached as communi- cation problems. lie contended, "The success or failure of an employee development program largely depends on the skill with which employees are interviewed by their supervisors. "" At its simplest level,. the performance appraisal interview is a communi- cation event in which two persons attempt to exchange meanings through spoken words. Regrettably, simplicity in communication Is quickly lost in complexity. Norman Cousins, a former &inertia) Rolm eduoi, concluded a highly publicized con- flict with exasperation "The most difficult and precarious enterprise in the world is communication. It is the ultimate act. U)
-
-57
-
-5
+Supervisors in many organizations see little practical value in conducting perfor- mance appraisals) This attitude may be exacerbated in postsecondary education settings where administrators are first and foremost scholars within increasingly narrow disciplines and not always skilled or expert in managerial functions. Performance appraisal systems have yielded disappointing results within the community college environment, even so, effecting such a system is significant to the success of community colleges.2

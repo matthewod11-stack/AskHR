@@ -1,15 +1,19 @@
-# Consequently, there
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 3c7b189f494ce44f3921fcb874edf9101ea73198
+title: california_state_university_northridge_1
+---
+# apart of gross income.
 
-::ire exception, such as refosing to work on religious holidays. As it
+While businesses are now opting for Alternative Dispute Resolution (ADR) programs,
 
-appease the state of Massachusetts is aware how most lawsuits are caused and is taking an
+critics within the state are against such programs. The main reason for the push is to reduce
 
-aggressive approach to protect the employer and employee (Rosenfeld, 1996, p. 9).
+the amount of litigation. At the same time it is noted that "at-will" employee status is
 
-A well-written article by Julie Brienza titled "Federal EEOC says worker deserve
+recognized in the state. It is clearly stated that "at-will" employment has a strong presence in
 
-recourse, not mandatory arbitration" deals with the sole issue of arbitration. Julies points out
+the state where there is no implied contract. This supported by a careful review of the
 
-the concept of an Alternative Dispute Resolution (ADR) process is excellent, due to the
-
-enormous amount of employment lawsuits that crowd the court dockets. However, it is not a
+employee handbook and or manual to ensure language that is damaging is not used.

@@ -1,11 +1,7 @@
-# 7.3.1 Social Comparison
-
-In the worker expected utility in (7.1), only the worker’s own effort and wage enter
-
-into her utility. But in real organizations, people make friends and enemies, and
-
-compare themselves to others. Workers may thus sacrifice their own earnings to
-
-help their friends and harm their enemies, or to create better social comparisons.
-
-This topic, and its importance for contracting and labor economics, is discussed in
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 3d605844e5d40f80950bc498d9bcc68ac5011814
+title: beo_chap7_1
+---
+## and the coordinating role of culture and leadership in large groups.

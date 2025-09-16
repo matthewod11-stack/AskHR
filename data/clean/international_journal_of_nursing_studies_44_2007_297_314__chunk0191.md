@@ -1,3 +1,9 @@
-## 5.7. Reﬂection on ﬁndings and model of nurse turnover behaviour
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 935e9a64d725b1055b67f139a21b2f6a0a5ac929
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# research of Price and Mueller
 
-tion. This is exempliﬁed in Cowin’s (2002) and Fletcher’s (2001) studies where additional written comments served to clarify issues raised in results from scale measure- ment. The information gained from qualitative inquiry could be utilised more widely to provide a relevant data source to complement quantitative methods. Not only would this serve to enhance contemporary and speciﬁc knowledge of nurses’ job satisfaction, but would also assist in providing the nursing profession with a methodology evolved from, but independent of, non- nursing areas.
+(2003) US study, elucidates

@@ -1,1 +1,21 @@
-# Content: (cid:31) Symbolic VS.
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: 66a5e875bbb485e8a09bb31acef5601cfe3b62be
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Nature of Design Thinking
+
+In many fields, knowledge is generated and accumulated through action (i.e., doing something and evaluating the results). That is, knowledge is used to produce work, and work is evaluated to produce knowledge. Creative people tend to work in two different ways: either as finders or as makers (Owen, 2007). Finders demonstrate their creativity through discovery. They are driven to understand and to find explana- tions for phenomena not well understood. Makers are equally creative, but they are driven to synthesize what they know in new constructions, arrangements, patterns, compositions, and concepts. Given the fundamental process differences between how finders and makers think and work, other factors might similarly reveal differ- ences among professional fields and therefore help to define the nature of design thinking. One such factor is the content with which a field works.
+
+A conceptual map can be drawn to represent both content and process factors (Figure 1). Two axes define the map. Separating the map into left and right halves is an analytic/synthetic axis that classifies fields by process (i.e., the way they work). Fields on the left side of the axis are more concerned with finding or dis- covering; fields on the right are concerned with making and inventing. A symbolic/ real axis divides the map into halves vertically. Fields in the upper half of the map are more concerned with the abstract, symbolic world, as well as the institutions, policies, and language tools that enable people to manipulate information, com- municate, and live together. Fields in the lower half are concerned with the real world and the artifacts and systems necessary for managing the physical environ- ment (Owen, 2007).
+
+Four quadrants result from this division. The first is analytic/symbolic, which includes fields like science that are heavily analytic in their use of process and their content is more symbolic than real in that subject matter is usually abstracted in its analyses. The second quadrant is synthetic/symbolic, which includes fields that are concerned extensively with the symbolic content and synthetic processes. For instance, law falls in this quadrant because it is concerned with the symbolic con- tent of policies and social relationships, and most of its disciplines are concerned with the creation of laws. The third quadrant is analytic/real, which on the content scale involves reality and on the process scale is strongly analytic. Medicine, for example, falls into this quadrant because it is highly concerned with real problems of human health and diagnostic processes are its primary focus. The fourth is syn- thetic/real, which involves fields, such as design, that include synthesis processes and real content (Owen, 2007).
+
+333
+
+Downloaded from
+
+http://rer.aera.net
+
+at AERA on October 2, 2012

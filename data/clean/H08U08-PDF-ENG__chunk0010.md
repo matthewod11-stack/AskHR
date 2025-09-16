@@ -1,17 +1,9 @@
-## y ponente principal y Jenny como asesora ejecutiva y experta en
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fab165a68a2f2cc3d9b1a987f5fc11f96a406c4a
+title: H08U08-PDF-ENG
+---
+## A través de nuestro trabajo asesorando a docenas de empresas que
 
-aprendizaje y desarrollo), hemos descubierto que existen tres estrategias
-
-clave para ayudar a los líderes de departamento a conservar a sus
-
-personas más cruciales durante las reducciones de plantilla.
-
-- 1. Construya el caso.
-
-Las investigaciones han demostrado que menos del 5% de los puestos
-
-representan más del 95% de la capacidad de una empresa para ejecutar
-
-su estrategia y obtener resultados. Como líder, es su responsabilidad
-
-presentar argumentos convincentes para retener a alguien clave para el
+se enfrentan a situaciones similares (Kathryn como coach ejecutivo

@@ -1,5 +1,13 @@
-## Psychology, Vol. 1, Greenwood, Westport, CT, pp. 167-196.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 158b3b125971691ea79627a47bdc669f18c3b317
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# JOEPP 2,1
 
-Barbier, M., Hansez, I., Chmiel, N. and Demerouti, E. (2013), “Performance expectations, personal resources, and job resources: how do they predict work engagement?”, European Journal of Work and Organizational Psychology, Vol. 22, pp. 750-762.
+28
 
-Bateman, T.S. and Crant, J.M. (1993), “The proactive component of organizational behavior”,
+Bakker, A.B., Demerouti, E. and Sanz-Vergel, A.I. (2014), “Burnout and work engagement: the JD-R approach”, Annual Review of Organizational Psychology and Organizational Behavior, Vol. 1, pp. 389-411.
+
+Bandura, A. (2008), “An agentic perspective on positive psychology”, in Lopez, S.J. (Ed.), Positive

@@ -1,13 +1,17 @@
-# MA: Addison-Wesley.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 681c7fe859cd8e954f3188e14334266c689263b8
+title: untitled
+---
+# Ontario, Canada: Vintage.
 
-Lopes, L. (1991). The rhetoric of irrationality. Theory and Psychol-
+Lears, J. (1992). The ad man and the grand inquisitor: Intimacy, publicity, and the managed self in America, 1880–1940. In G. Levine (Ed.), Constructions of the self (pp. 107–141). New Brunswick, NJ: Rutgers University Press.
 
-ogy, 1(1), 65–82.
+Lears, T. J. J. (1983). From salvation to self-realization: Advertising and the therapeutic roots of consumer culture, 1880–1930. In R. W. Fox & T. J. J. Lears (Eds.), The culture of consumption: Critical essays in American history, 1880–1980 (pp. 3–38). New York: Pantheon.
 
-Loy, P. (1976). Trends in the history of contemporary social psychology: A quantitative analysis. Unpublished doctoral dis- sertation, University of New Hampshire Press, Durham.
+Leary, D. L. (1980). The intentions and heritage of Descartes and Locke: Toward a recognition or the moral basis of modern psy- chology. Journal of General Psychology, 102, 283–310.
 
-Lutz, C. (1997). Epistemology of the bunker: The brainwashed and other new subjects of permanent war. In J. Pﬁster & N. Schnog (Eds.), Inventing the psychological: Toward a cultural history of emotional life in America (pp. 245–267). New Haven, CT: Yale University Press.
+Lewin, K. (1951). Frontiers in group dynamics. In D. Cartwright (Ed.), Field theory in social science (pp. 130–154). New York: Harper & Brothers. (Original work published 1947)
 
-MacIntyre, A. (1985). How psychology makes itself true–or false. In S. Koch & D. E. Leary (Eds.), A century of psychology as science (pp. 897–903). New York: McGraw-Hill.
-
-May, E. T. (1988). Homeward bound: American families in the cold
+Lindzey, G. (1954). Handbook of social psychology. Cambridge,

@@ -1,17 +1,23 @@
-# meetings.
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e24728feefa403dd00abd493188eb29286c63c59
+title: H08UYL-PDF-ENG
+---
+# communication?
 
-After receiving feedback, the CEO started to make a point of asking
+This may sound obvious, but in our experience, far too many senior
 
-himself how his team was feeling before he stepped into a meeting
+leaders forget to take this critical step and ultimately impact people in a
 
-to share his perspective with them. He got better at acknowledging
+way they didn’t intend. Strategic editing starts with clarity of intent.
 
-the team’s concerns, needs, and successes—not just challenging them. As a result, the team felt like he understood the diﬃculties they were
+Jordan worked with a tech CEO who was perceived as insensitive.
 
-facing, cared about their well-being, and genuinely wanted to help them
+His team was under a lot of pressure and driving hard in a
 
-to be successful. This created a more motivating environment for all
+competitive market. The team felt that he always wanted more without
 
-concerned.
+acknowledging their hard work, struggles, and accomplishments along
 
-- 3. Prepare or pause.
+the way. This led to venting between team members outside of team

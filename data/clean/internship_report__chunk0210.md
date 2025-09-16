@@ -1,15 +1,11 @@
-# proper and complete attendance report.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: df1be0e4adb3a9ea44c426d5a2e9ca7e41dfd244
+title: internship_report
+---
+## count late mark automatically just after 09:10am.
 
-III. First half of everyday will start from 09:00am and late mark will be counted just after
+II. All members have to sweep their ID CARD in Electronic Access Control Machine before
 
-09:10am. Second half will start from 02:00pm and late mark will be counted just after 02:00pm
-
-(2nd half will be applicable who availed 1st half leave).
-
-IV. OT (Over Time)/Compensatory allowances will be counted by Access Control System. The
-
-HR & Administration Department will check the time of coming in/going out and sign in the
-
-OT/Compensatory allowances bill as per record of Access Control Machine. If anybody forgets
-
-to sweep their ID CARD while leaving office, he/she may not be considered for OT/
+entering and on leaving the office. Incoming and Outgoing time will be needed for taking a

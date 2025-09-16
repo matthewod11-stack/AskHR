@@ -1,57 +1,67 @@
-## Rice, R. W., Gentile, D. A., & McFarlin, D. B. (1991). Facet
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6c9016b5e59059cfcefc0375a364f326bd00b49a
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Raymond, M. R., Neustel, S., & Anderson, D. (2007). Retest
 
-importance and job satisfaction. Journal of Applied Psychology, 76(1), 31–39.
+eﬀ ects on identical and parallel forms in certiﬁ cation and licensure testing. Personnel Psychology, 60(2), 367–396.
 
-Richardson, K. M., & Rothstein, H. R. (2008). Eﬀ ects of occupational
+Raynes, B. L. (2005, April). Ethical issues involving employment and academic references. Paper presented at the 20th annual meeting of the Society for Industrial and Organizational Psychology, Los Angeles, CA.
 
-stress management intervention programs: A meta-analysis. Journal of Occupational Health Psychology, 13(1), 69–93.
+Raynes, B. L. (1997). Review of employee privacy issues:
 
-Richman-Hirsch, W. L., Olson-Buchanan, J. B., & Drasgow, F. (2000). Examining the impact of administration medium on examinee perceptions and attitudes. Journal of Applied Psychology, 85(6), 880–887.
+Implications for law enforcement and other public and private sector agencies. Journal of Police and Criminal Psychology, 12(2), 19–27.
 
-Riddle, D., & Foster, L. (1997). You know, I’ve been wondering. Th e Industrial-Organizational Psychologist, 35(2), 49–56.
+Raynes, B. L. (2001). Th e relationship between self-esteem and
 
-Rieke, M. L., & Guastello, S. J. (1995). Unresolved issues in honesty
+diﬃ cult communication styles. Applied HRM Research, 6(1), 33–66.
 
-and integrity testing. American Psychologist, 50(6), 458–459.
+Reade, Q. (2005, June 7). Job oﬀ ers scrapped as ﬁ rms uncover
 
-Riggio, R. E., & Cole, E. J. (1992). Agreement between sub-
+ﬁ ddled applications. Personnel Today, p. 1.
 
-ordinate and superior ratings of supervisory performance and eﬀ ects on self and subordinate satisfaction. Journal of Occupational and Organizational Psychology, 65, 137–158.
+Reb, J., & Greguras, G. J. (2008). Dynamic performance and the performance-performance rating relation. Industrial and Organizational Psychology: Perspectives on Science and Practice, 1(2), 194–196.
 
-Riketta, M. (2002). Attitudinal organizational commitment and job performance: A meta-analysis. Journal of Organizational Behavior, 23, 257–266.
+Recardo, R. J., & Pricone, D. (1996). Is skill-based pay for you? SAM Advanced Management Journal, 61(4), 16–21.
 
-Robb, D. (2004). Is anybody listening? Software helps Oﬃ ce
+Reeve, C. L., & Schultz, L. (2004). Job-seeker reactions to
 
-Depot respond to employee survey results. HR Magazine, 49(11), 119–122.
+selection process information in job ads. International Journal of Selection and Assessment, 12(4), 343–355.
 
-Roberson, Q. M., Collins, C. J., & Oreg, S. (2005). Th e eﬀ ects of recruitment message speciﬁ city to applicant attraction to organizations. Journal of Business and Psychology, 19(3), 319–339.
+Reid, M. (1996). Keeping the faith while keeping you job:
 
-Roberson, Q. M., & Colquitt, J. A. (2005). Shared and conﬁ gural justice: A social network model of justice in teams. Academy of Management Review, 30(3), 595–607.
+Harmonize your religious beliefs and the rules of the workplace. Black Enterprise, 26(12), 52.
 
-references
+Reilly, C. E., & Smith, C. (1988). Eﬀ ects of shiftwork and
 
-655
+psychometric evaluation of shiftworker selection instruments. Proceedings of 9th Annual Graduate Conference in Industrial/Organizational Psychology and Organizational Behavior.
 
-Robert, C., Probst, T. M., Martocchio, J. J., Drasgow, F., & Lawler, J. J. (2000). Empowerment and continuous improvement in the United States, Mexico, Poland, and India: Predicting ﬁ t on the basis of the dimensions of power distance and individualism. Journal of Applied Psychology, 85(5), 643–658.
+Reilly, R. R., & Chao, G. T. (1982). Validity and fairness of some alternative employee selection procedures. Personnel Psychology, 35, 1–62.
 
-Roberts, B. (2001). E-learning: New twist on CBT. HR Magazine,
+Renk, K. (2004). Th e power of incentive programs. HR
 
-46(4), 99–106.
+Magazine, 49(9), 91–96.
 
-Roberts, G. E. (1994). Maximizing performance appraisal system acceptance: Perspectives from municipal government personnel administrators. Public Personnel Management, 23(4), 525–549.
+Rentsch, J. R., Lowenberg, G., Barnes-Farrell, J., & Menard,
 
-Roberts, G. E. (2003). Employee performance appraisal system
+D. (1997). Report on the survey of graduate programs in industrial/organizational psychology and organizational behavior/human resources. Th e Industrial-Organizational Psychologist, 35(1), 49–68.
 
-participation: A technique that works. Public Personnel Management, 32(1), 89–98.
+Rentsch, J. R., & Steel, R. P. (1998). Testing the durability of job
 
-Robertson, I. T., & Kandola, R. S. (1982). Work sample tests:
+characteristics as predictors of absenteeism over a six-year period. Personnel Psychology, 51(1), 165–190.
 
-Validity, adverse impact, and applicant reaction. Journal of Occupational Psychology, 55, 171–183.
+Repetti, R. L., & Cosmas, K. A. (1991). Th e quality of the social environment at work and job satisfaction. Journal of Applied Social Psychology, 21(10), 840–854.
 
-Robinson, D. D. (1981). Content-oriented personnel selection in
+Repetti, R. L., & Wood, J. (1997). Eﬀ ects of daily stress at work
 
-a small business setting. Personnel Psychology, 34, 77–87.
+on mothers’ interactions with preschoolers. Journal of Family Psychology, 11(1), 90–108.
 
-Robinson, O., & Griﬃ ths, A. (2005). Coping with the stress of
+Rhodes, S. R. (1983). Age-related diﬀ erences in work attitudes
 
-transformational change in a government department. Journal of Applied Behavioral Science, 41(2), 203–221.
+and behavior: A review and conceptual analysis. Psychological Bulletin, 93, 328–367.
+
+Rice, R. W. (1978). Psychometric properties of the esteem
+
+for Least Preferred Coworker (LPC) Scale. Academy of Management Review, 3, 106–118.

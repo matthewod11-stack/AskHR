@@ -1,1 +1,13 @@
-# Individuals
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: c28a5931f7552db7e419bc2b1952614544eeebc2
+title: read_online
+---
+# Page 3 of 12
+
+for this cohort of individuals? In doing so, this work therefore seeks to contribute to the literature on work-life balance and turnover intentions, such as that by Du Plooy and Roodt (2013) which seeks to better understand certain moderating effects and their influence on turnover intentions in the South African context. This work has relevance even to research on commitment from the broader regional context (Chinomona, Chinomona & Joubert 2013). In seeking to contribute to the literature, this study therefore seeks to offer useful contextual understanding, and a more holistic perspective (Goldman & Callaghan 2015), of how direct and interactive effects manifest in the specific and unique context of employees who face work-life conflict from the pressures of work and study in this context. Having introduced the focus of the study, it proceeds as follows. Firstly, theory is reviewed and hypotheses are derived for testing. Next, the methods of the research are introduced. Results are then reported and discussed. The article then concludes.
+
+Theory and hypotheses Work-life balance has been defined as the degree to which there is equitable satisfaction and engagement relating to an employee’s work and family roles (Greenhaus, Collins & Shaw 2003). Certain studies have failed to find an empirical relationship between work-life balance and turnover intentions (Riley 2006), whereas others have found work- life balance to directly affect turnover rates of employees and their turnover intentions (Moore 2007). Similarly, higher levels of work–family conflict (Schilling 2014) have also been found to increase intent to quit. Although studies have found mixed results in different settings, given the context of the cohort tested here, who have evening degree classes in addition to working and, in many cases, family responsibilities, Hypothesis 1 is derived: increases in work- life balance conflict are significantly associated with increases in intent to quit.
+
+Noor (2011) defines work-life balance as the efficient management of certain ‘balancing acts’ related to work, family and other activities. full-time employment who undertake degree studies on evening programmes often have to balance work activities with those of academic studies. Older individuals might have been disproportionately exposed to the educational legacy effects of the pre-democracy era. If older individuals experience greater difficulties in part-time degree studies, this might reduce their work-life balance relative to those who are younger. Similarly, the length of time out of school might pose greater adjustment pressures, which might be exacerbated by greater family commitments.

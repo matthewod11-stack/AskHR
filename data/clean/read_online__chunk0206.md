@@ -1,5 +1,11 @@
-## and quality of life’, Journal of Vocational Behavior 63(3), 510–531.
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 3cf90f7356ec6cb723fea42d51bb73aede3ff197
+title: read_online
+---
+## Journal of Intercultural Management 7(4), 5–19.
 
-Grzywacz, J. & Carlson, D., 2007, ‘Conceptualizing work–family balance: Implications for practice and research’, Advances in Developing Human Resources 9(4), 455–471. https://doi.org/10.1177/1523422307305487
+Greenhaus, J. & Beutell, N., 1985, ‘Sources of conflict between work and family roles’, Academy of Management Review 10(1), 76–88. https://doi.org/10.5465/ amr.1985.4277352
 
-Gujarati, D.N. & Porter, D. C (2009). Basic Econometrics. London: McGraw Hill
+Greenhaus, J., Collins, K. & Shaw, J., 2003, ‘The relation between work–family balance

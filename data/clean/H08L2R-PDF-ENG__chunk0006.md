@@ -1,9 +1,11 @@
-# thought partner.
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e5af737d403aa211310db56512a80f6b05bbbd8
+title: H08L2R-PDF-ENG
+---
+## experience, countless conversations, and through thousands of
 
-With these techniques, humans and AI working together can achieve
+iterations of prompts, we have created an HBR Guide with instructions
 
-high-quality outcomes that would not be possible working separately.
-
-We call this process “co-thinking,” and this article will show you how to
-
-get started.
+and tools to help managers use any conversational gen AI tool as a

@@ -1,5 +1,7 @@
-# Francisco: Jossey-Bass.
-
-Zickar, M. J. (2001). Using personality inventories to identify thugs and agitators: Applied psychology’s contribution to the war against labor. Journal of Vocational Behavior, 59, 149–164.
-
-389
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 97a83c16dbf7ad1f2fadcf55d27aab54ee376d0a
+title: untitled
+---
+## Zedeck, S. (Ed.). (1992). Work, families, and organizations. San

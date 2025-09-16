@@ -1,7 +1,23 @@
-## Gordon, M. E., Slade, L. A., & Schmitt, H. (1986). Th e “science of
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 499c3a02b451aea48e4b0b41c3b7f5e9c146bd04
+title: industrial_organizational_psychology_an_applied_approach
+---
+# (4th ed.). Belmont, CA: Wadsworth.
 
-the sophomore” revisited: From conjecture to empiricism. Academy of Management Review, 11, 191–207.
+Gomez-Mejia, L. R., Welbourne, T. M., & Wiseman, R. M. (2000). Th e role of risk sharing and risk taking under gainsharing. Academy of Management Review, 25(3), 492–507.
 
-Gordon, R. A., & Arvey, R. D. (2004). Age bias in laboratory
+Gomm, K. (2005). EU agism law could put an end to ‘milk
 
-and ﬁ eld settings: A meta-analytic investigation. Journal of Applied Social Psychology, 34(3), 468–492.
+round’ campus recruitment. Computer Weekly, February 1, page 36.
+
+Gonder, M. L., & Walker, D. D. (2000). Masters-level industrial/ organizational psychologist survey results. Paper presented at the annual meeting of the Society for Industrial- Organizational Psychology, New Orleans, LA.
+
+Goodson, J. R., McGee, G. W., & Cashman, J. F. (1989). Situational leadership theory: A test of leadership prescriptions. Group and Organization Studies, 14(4), 446–461.
+
+Gordon, J. R. (2001). Organizational behavior: A diagnostic approach (7th ed.) Englewood Cliﬀ s, NJ: Prentice Hall.
+
+references
+
+637

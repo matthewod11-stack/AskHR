@@ -1,15 +1,13 @@
-# HBR / Digital Article / How to Conduct Motivating Performance Reviews When Busine…
+---
+source_path: H07YJT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c9787bd8031f6c3db2e770624622cb54f1c31b20
+title: H07YJT-PDF-ENG
+---
+# evidence.”
 
-Outline your employee’s achievements—be it a successful project or an
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-adept handling of a demanding client—and make note of any areas
+2
 
-for improvement. Seek input from colleagues who work closely with
-
-your employee, too. Preparation is paramount regardless of the state of
-
-the economy, but in tougher times, providing accurate and insightful
-
-feedback becomes all the more crucial, she says.
-
-Provide a reality check. Dwelling on the economy might not
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

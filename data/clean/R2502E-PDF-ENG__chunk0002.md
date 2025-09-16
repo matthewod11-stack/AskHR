@@ -1,9 +1,7 @@
-# Nathalie Lees
-
-The numbers tell the story: Women achieved educational parity with
-
-men more than 40 years ago and today are outperforming men in
-
-formal educational settings. In 2021, for instance, women earned 59%
-
-of all bachelor’s degrees, 63% of all master’s degrees, and 57% of all
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb0edecb9b5c7c305398cfb956230a7b55d7591d
+title: R2502E-PDF-ENG
+---
+## From the Magazine (March–April 2025) / Reprint R2502E

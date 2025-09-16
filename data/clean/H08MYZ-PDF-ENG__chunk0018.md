@@ -1,9 +1,11 @@
-## similar-sounding language for anyone applying for the same job.
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ad59bc4e6dd86a7d54c27e1cb6636da5bb441d2
+title: H08MYZ-PDF-ENG
+---
+# communication skills.
 
-Therefore, you should only rely on AI tools to align your already drafted
+While Gemini, ChatGPT, or Copilot may be helpful in creating concise
 
-resume with the keywords for speciﬁc careers. For example, you could
-
-use a prompt like, “Provide me all possible keywords for hard and
-
-soft skills for business operations jobs.” Or you could input the job
+bullet points, they don’t know your accomplishments and may create

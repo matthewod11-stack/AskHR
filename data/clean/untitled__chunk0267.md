@@ -1,11 +1,9 @@
-# Englewood Cliffs, NJ: Prentice Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c9fb675188e3d4d4fbc3bfc3b3994c31ca5c9a18
+title: untitled
+---
+## century. Canadian Journal of Psychology, 30, 201–220.
 
-Murray, D. J., & Bandomir, C. A. (2000). G. E. Muller (1911, 1913,
-
-- 1917) on memory. Psychologie et Histoire, 1, 208–232.
-
-Nichols, H. (1893). The psychological laboratory at Harvard.
-
-McClures, 1, 399–409.
-
-O’Donnell, J. M. (1985). The origins of behaviorism: American psy- chology 1870–1920. New York: New York University Press.
+Murray, D. J. (1988). A history of Western psychology (2nd ed.).

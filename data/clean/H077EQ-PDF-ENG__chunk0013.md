@@ -1,7 +1,17 @@
-# importance correctly?
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f902ced50532147cf0bc10222979458fa4a76609
+title: H077EQ-PDF-ENG
+---
+## HBR / Digital Article / Don’t Let Anchoring Bias Weigh Down Your Judgment
 
-If you ﬁnd yourself lacking good evidence, then it’s a sign that you
+Talking through decisions can serve the same purpose. I ﬁnd that when
 
-might be engaging in anchoring. It’s also a sign that you need to do more
+I seek out the advice of my friends and peers and force myself to be
 
-research, which brings us to our next takeaway.
+explicit about my reasoning, it can help expose an anchor.
+
+The key questions to answer are: What information am I using to make
+
+this decision or judgment? Is it accurate and relevant? Am I weighing its

@@ -1,17 +1,13 @@
-# Adjust Your Lens
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: acbdb8a124a75487c3adb4d46fc7a1512179e178
+title: H06WA9-PDF-ENG
+---
+## HBR / The Big Idea / Harnessing the Power of Age Diversity
 
-Recognizing assumptions is important, but teams also need to combat
+But older peers thought it went without saying that a text could wait
 
-them. Stereotypes often cause us to incorrectly attribute diﬀerences to
+until morning. Identifying these assumptions prompted the team to set
 
-age or to assume ill intent where there is none. Adjusting your lens
-
-means considering whether the assumptions that you’ve identiﬁed align
-
-with the reality of the situation at hand, or whether you’ve been judging
-
-someone’s actions and attitudes based only on your frame of reference.
-
-Try to understand why colleagues from diﬀerent generations might
-
-behave diﬀerently than you do. To expand your thinking in that way,
+shared norms around communication.

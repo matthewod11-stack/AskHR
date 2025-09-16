@@ -1,17 +1,25 @@
-# Sega in 1999. It...
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: a1c6fcec3622317c2febbe4ebf3c543409aac7b6
+title: prompt
+---
+# Prompt Engineering
 
-Instruction: Write a single paragraph that describes the Sega Dreamcast console and
+Experiment with input formats and writing styles
 
-explains why it was so revolutionary.
+Di(cid:441)erent models, model con(cid:450)gurations, prompt formats, word choices, and submits can yield
 
-For few-shot prompting with classi(cid:341)cation tasks, mix up the classes
+di(cid:441)erent results. Therefore, it’s impo(cid:457)ant to experiment with prompt a(cid:459)ributes like the style,
 
-Generally speaking, the order of your few-shots examples should not ma(cid:459)er much. However,
+the word choice, and the type prompt (zero shot, few shot, system prompt).
 
-when doing classi(cid:450)cation tasks, make sure you mix up the possible response classes in the
+For example a prompt with the goal to generate text about the revolutionary video game
 
-few shot examples. This is because you might otherwise be ove(cid:455)i(cid:459)ing to the speci(cid:450)c order of
+console Sega Dreamcast, can be formulated as a question, a statement or an instruction,
 
-the examples. By mixing up the possible response classes, you can ensure that the model is learning to identify the key features of each class, rather than simply memorizing the order of
+resulting in di(cid:441)erent outputs:
 
-the examples. This will lead to more robust and generalizable pe(cid:455)ormance on unseen data.
+- Question: What was the Sega Dreamcast and why was it such a revolutionary console?
+
+- Statement: The Sega Dreamcast was a sixth-generation video game console released by

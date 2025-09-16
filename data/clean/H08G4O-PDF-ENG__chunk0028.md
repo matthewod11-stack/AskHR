@@ -1,39 +1,43 @@
-## HBR / Digital Article / The Strengths and Weaknesses that Set Founders Apart
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 912e75f4080c79bf1fdf118df9f7323eca888fa3
+title: H08G4O-PDF-ENG
+---
+## weaknesses that distinguish founder CEOs.
 
-hinder its growth. Systems and processes may come less naturally (and
+- 1. Many seek high levels of autonomy and control, showing sensitivity to criticism and ﬁnding it hard to delegate. Given that founder CEOs often view the business as an extension of
 
-be less enjoyable) to founder CEOs.
+themselves, it can be challenging to release the reins. Many founders
 
-In contrast, 60% of non-founder CEOs excelled at operational
+in our dataset struggled to delegate, with 58% ﬁnding it challenging
 
-excellence, instilling metrics-driven cultures. Jeﬀ Hastings, founder
+to release control. This attachment can manifest as volatility under
 
-and CEO-turned-CTO of BrightSign, admitted: “I’ve taken many
+pressure, creating tension with investors and board members who
 
-companies to around $100 million in revenue. After doing startups for
+expect a more measured approach.
 
-a while, I know that at this threshold, I am not as eﬀective…on ﬁguring
+“Founders are used to being in control and doing everything
 
-out where the company should go next. We needed a new CEO who
+themselves…they’ve known the business since the beginning and have
 
-could scale the business.”
+played many roles and worn multiple hats. That’s not scalable,” one
 
-- 3. Many delay upgrading talent and removing underperformers.
+investor shared. “[Non-founder] CEOs have much more emotional
 
-Loyalty can be a liability. We found that more than half of the founder
+distance from the business. It’s hard for the founder to take a step back
 
-CEOs in our study hesitated when dealing with underperformers, often
+and trust others will apply the same level of care.”
 
-holding onto early employees longer than they should have.
+- 2. Some founders underinvest in operational governance to scale.
 
-“These are the people who got you from nothing to where you are,”
+Founders prefer to chase new ideas rather than optimize existing ones,
 
-Hastings acknowledged. “You spend so much time with them —
+which means the very scrappiness that gets a startup oﬀ the ground can
 
-more time than you do with your spouse. They are very personal
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-relationships. Whenever I’ve let someone go, I’ve never later wished I’d
+6
 
-kept them. I always ask myself, ‘Why didn’t I do this sooner?’”
-
-- 4. They can be inconsistent in communicating with and aligning key stakeholders. More than half of the founders we analyzed were weaker at engaging
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

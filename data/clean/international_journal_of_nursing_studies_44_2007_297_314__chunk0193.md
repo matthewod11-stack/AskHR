@@ -1,3 +1,15 @@
-# the use of
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: eed98c8efa5020716c9ac1f4306d20b2f69a25b6
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# 5.8. Contextual factors
 
-Despite the improvement in techniques to analyse results from nurses’ job satisfaction studies, the reliance on quantitative methods for data collection has over- shadowed qualitative investigations (McNeese-Smith, 1999). Nevertheless, some qualitative inquiry has been used, often as a small component of a larger investiga-
+Despite much research, deﬁnitive results of which variables are statistically and consistently related to nurses’ job satisfaction remain elusive (Tovey and Adams, 1999). The demonstration of variation in the factors inﬂuencing job satisfaction in different levels of the profession (e.g. of ward managers and staff nurses) and in differing environments (e.g. hospitals, commu- nities, geographical regions) reﬂects the difﬁculties faced when searching for authoritative results. Furthermore, there are discrepancies regarding sampling that involves mixing data from samples of nurses whose jobs have distinctive features such as paediatric, intensive care or mental health, as well as the inclusion of health care assistants. This lack of distinctiveness serves to invali- date generalisability of results to ward-based medical and surgical adult nurses. Similar problems exist with geographical locations that may have differing labour markets and population densities that may affect the opportunities for alternative employment or workloads respectively.
+
+The ﬁndings of this review were found to reﬂect the model of nurse turnover proposed by Irvine and Evans (1995). Although Irvine and Evans conducted their meta-analysis in a different employment climate to that which currently exists, the major ﬁndings of leadership/ supervisory relationship and stress remain inextricably linked to intent to leave. These factors comprise part of the work environment, which was found to have a stronger relationship with job satisfaction and intent to leave in both their meta-analysis and the ﬁndings of this paper. Changes over time have occurred regarding the effects on intent to leave for educational attainment and pay. This suggests that it is imperative that sources of satisfaction are reassessed in the light of changes over time. The empirical evidence shows that stress and issues concerning leadership consistently exert both direct and indirect effects on job satisfaction and intent to leave.
+
+Studies undertaken in differing types of hospitals offering different types of care (e.g. long-term or acute) may further produce results speciﬁc only to that environment, and therefore limit the relevance for the wider profession. Additionally, the generalisability of research based on theories and frameworks developed in one culture or nation and then undertaken in dissimilar countries has been questioned (Rosenzweig, 1994). some international However, research on job satisfaction now offers comparisons across nations, contributing to empirical generalisation (Fang and Baba, 1993). Furthermore, the extent to recruitment has occurred over which international recent years and the paucity of research relating to immigrant nurses experiences of the British NHS necessitates international data on job satisfaction to illuminate the views of nursing staff.
+
+in response to this,

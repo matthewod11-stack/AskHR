@@ -1,15 +1,23 @@
-## As a result of these changes, inspectors and maintenance technicians
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec37075a3ae7622ee87d710fa449dd9482461bd8
+title: H07IG2-PDF-ENG
+---
+## HBR / Digital Article / How AI Is Helping Companies Redesign Processes
 
-can now rethink their day-to-day work. They can focus on higher-value
+For example, consider the work of monitoring and inspection at energy and chemical plants, pipelines, oﬀshore facilities, and wind and solar
 
-activities such as prioritizing projects or, if they’re on site, performing
+farms. This work used to be exclusively done in person by inspectors
 
-more advanced veriﬁcation. At the same time, new tasks are emerging,
+and maintenance technicians, but AI can ease that constraint. Now
 
-such as annotation for images to improve inspection algorithms or
+many low value-adding inspection tasks can instead be done remotely
 
-managing the training processes for the thousands of machine learning
+by robots and drones. Some Shell facilities are so large that it would
 
-models now working in production. What were previously physical work
+previously have taken years to inspect everything manually — now
 
-processes are now managed by multidisciplinary teams doing largely
+drones and robots are being introduced to automate these processes
+
+and help shorten the cycle time.

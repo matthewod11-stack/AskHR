@@ -1,13 +1,25 @@
-## physical safety but also voice and respect, company values, climate
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ca9275c77c0b37d7f3efb889ae659d5e4017088
+title: R2304D-PDF-ENG
+---
+## attitudes…listen to others’ perspective on an issue, explore many
 
-change, and other social policies. Whether or not the law requires you to
+alternatives, eschew a reﬂexive retreat to the homey conﬁnes of your
 
-bargain over these issues, you’re better oﬀ addressing them head-on if
+preconceived ideals or traditions.
 
-you want a process that builds trust.
+Bargaining is emotional, and ﬂare-ups, walkouts, and showboating on
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+both sides of the table are common. Expect this. Tolerate some of it. But
 
-10
+call out personal attacks or actions that violate the norms and rules of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the game that you agreed to at the outset.
+
+Decide what to bargain over. Labor law mandates only a few topics for
+
+bargaining—notably, wages, hours, and working conditions. However,
+
+workers today interpret “working conditions” to include not only

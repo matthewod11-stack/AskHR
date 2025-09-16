@@ -1,9 +1,31 @@
-# Why Reports from Women Are Discounted
+---
+source_path: H08QXF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b1718d3ab68e6cf2fd1ddf49ef5ca50a4ec1c63
+title: H08QXF-PDF-ENG
+---
+# HBR / Digital Article / Research: Women’s Complaints of Workplace Abuse Get Ignore…
 
-When a report lacks clear evidence, decision-makers tend to fall back on
+In our forthcoming paper in Organization Science, we analyzed
 
-judgments about credibility. Our research shows that women’s reports
+thousands of workplace reports, combining archival data from U.S.
 
-are signiﬁcantly less likely than men’s to be seen as credible. This
+government employees with ﬁve experiments, to examine how reporter
 
-reﬂects long-standing stereotypes that women are more emotional or
+gender shapes corrective action. We found that reports made by women
+
+are less likely to be taken seriously than identical reports made by men.
+
+This gap is widest when reports lack supporting evidence, something
+
+our data show is especially common in workplace abuse cases.
+
+In order for leaders to address the gendered biases that impact how
+
+misconduct is handled, they need to understand why they occur. We
+
+analyze our data to oﬀer insights and recommendations for companies
+
+to help them build the kind of equitable systems that their employees
+
+can trust.

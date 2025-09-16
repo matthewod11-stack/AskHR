@@ -1,33 +1,39 @@
-## HBR / Digital Article / The Missing Link Between Strategy and Innovation
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edb04dcb41ccae081a53420083cd230457d6677f
+title: H082HH-PDF-ENG
+---
+## of business. Virtual forums, strategy workshops, and every means
 
-agenda should be greenlit — i.e., given an initial round of funding or
+of communication should be used to ensure everyone knows what
 
-added to a backlog of ventures to try next.
+problems the business is looking to solve and what unique advantages it
 
-- 4. Rapidly validate through experimentation.
+is hoping to leverage.
 
-For greenlit ideas, your next step is to deﬁne the key business model
+- 3. Greenlight projects based on strategic ﬁt.
 
-hypotheses and conduct quick, low-cost experiments to validate them.
+Whenever an innovation idea is proposed — whether in a startup
 
-Who is the optimal customer? How do they experience the problem you
+accelerator or a regional marketing team — it must include a clear
 
-are solving for? Does your solution drive adoption? Can you deliver it at
+problem statement: “What problem are we solving, and for whom?”
 
-scale? Do you have any competitive advantage? Can you capture value
+Each proposed innovation should then be evaluated for strategic ﬁt.
 
-and turn a proﬁt?
+It’s not enough that your lab proposes “a great idea” for a “disruptive”
 
-When Walmart began to focus on online groceries, it launched pilots
+innovation where “we see a huge TAM (total addressable market).”
 
-for a variety of diﬀerent approaches to the same problem. It learned
+Instead, every proposed new venture must answer two questions: Does
 
-that some delivery models scaled better than others. It also found that
+it relate to a strategic priority? And would it potentially leverage one
 
-customers preferred an annual fee to a charge per delivery, and that
+of our unique advantages? Only innovations that match your strategy
 
-price was critical to customer adoption.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-- 5. Scale up the few that work and quickly shutter the majority that don’t. Funding of new innovations must be iterative as well. Every team whose
+5
 
-idea is approved should be required to return in 90 days with market
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

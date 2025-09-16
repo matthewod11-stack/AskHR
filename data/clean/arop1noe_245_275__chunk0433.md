@@ -1,7 +1,9 @@
-## theories: bridging micro and macro domains. J. Manag. 37:395–403
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 22895b18b963052b080e686588922cb9cd4eae83
+title: arop1noe_245_275
+---
+# RELATED RESOURCES
 
-Argote L, Miron-Spektor E. 2011. Organizational learning: from experience to knowledge. Organ. Sci.
-
-22:1123–37
-
-London M, ed. 2011. The Oxford Handbook of Lifelong Learning. New York: Oxford Univ. Press Molloy JC, Ployhart RE. 2012. Construct clarity: multidisciplinary considerations and an illustration using
+Aguinis H, Boyd BK, Pierce CA, Short JC. 2011. Walking new avenues in management research methods and

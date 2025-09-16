@@ -1,7 +1,19 @@
-# productivity.
+---
+source_path: H088QT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 500ec53d46a36926e86f55dcfa80695e8990cbd6
+title: H088QT-PDF-ENG
+---
+# Jorg Greuel/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+More than four years after the Covid-19 pandemic accelerated an
 
-1
+immediate shift to remote knowledge work, it’s clear that, despite
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+some organizations’ attempts to lure employees back to the oﬃce full-
+
+time, hybrid work arrangements are here to stay. And yet employers
+
+are still struggling with implementation. In particular, the managers
+
+we have talked to point to three key issues: scheduling, culture, and

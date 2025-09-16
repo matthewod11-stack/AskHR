@@ -1,9 +1,21 @@
-# the race.
+---
+source_path: H08ERV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bff6d5e832980f2a90b463adc4e864ad0aa183e8
+title: H08ERV-PDF-ENG
+---
+## strategic alliances) or geography (i.e., which markets or regions they
 
-This article was originally published online on October 02, 2024.
+scale into) may also signiﬁcantly impact startup performance. Hence,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+many valuable insights into the dynamics of startup scaling remain to
 
-5
+be uncovered.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+. . .
+
+Although it may seem less exciting and glamorous in an era where rapid
+
+growth is celebrated, patience can ensure a more promising long-term
+
+trajectory for budding startups. In the end, slow and steady truly wins

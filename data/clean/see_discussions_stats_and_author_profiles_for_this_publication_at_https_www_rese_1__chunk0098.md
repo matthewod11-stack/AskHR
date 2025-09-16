@@ -1,1 +1,7 @@
-# (2003), Talent Report: New Realities
+---
+source_path: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1.md
+pages: n/a-n/a
+chunk_id: 7941718f9c026fe8603388688d74139d11e3498f
+title: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1
+---
+# Towers Perrin

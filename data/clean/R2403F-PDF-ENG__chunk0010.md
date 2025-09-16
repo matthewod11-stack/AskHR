@@ -1,11 +1,17 @@
-# HBR / Magazine Article / HR’s New Role
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13eee8d331d0d631f1d272cdef3860d5ec4628e4
+title: R2403F-PDF-ENG
+---
+# Make True Costs Clear
 
-value of human capital. To that end, HR should provide a dashboard
+One critical step HR can take to get the C-suite to alter course is to show
 
-that includes metrics on turnover and what it costs the company,
+leaders what the costs of current practices really are and illustrate the
 
-information on why employees are quitting, and ﬁgures on vacancies
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-ﬁlled from within. It should also include data on employees’ well-being,
+3
 
-such as absenteeism rates, incidents of new illnesses and disabilities,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

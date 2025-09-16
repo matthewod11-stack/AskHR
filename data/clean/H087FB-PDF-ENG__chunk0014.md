@@ -1,11 +1,7 @@
-# Focus on Professional Development
-
-Now that you have extra time, how would you like to move forward in
-
-your work life? I advise clients to consider these options:
-
-Think about classes or certiﬁcations that can help you push ahead in your career.
-
-Do you have a knowledge or skills gap? Have time constraints kept you
-
-from moving forward in that area? With your extra time, you can get
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb999c6feceae4d80e60f0103e5089653d91244f
+title: H087FB-PDF-ENG
+---
+# career and your personal life.

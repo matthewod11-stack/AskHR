@@ -1,5 +1,11 @@
-# Figure Drawing Methods
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 96b626a42d73567db1bb1064e496a4734247a55b
+title: untitled
+---
+## Identifying Personality Characteristics and Psychopathology
 
-It is difﬁcult to say who ﬁrst suggested that what people choose to draw and how they draw it reveal features of their personality, whether the drawing is a prehistoric sketch found on the wall of a cave, a painting by a great master, or the doo- dles of an ordinary citizen. Whoever it was, it was long before Florence Goodenough (1886–1959) introduced the ﬁrst formal application of ﬁgure drawings in psychological assessment in 1926. Seeking a nonverbal measure of intellec- tual development in children, Goodenough (1926), devel- oped the Draw-a-Man test, in which intellectual maturity is
+The original TAT also spawned numerous extensions and spin-offs of the picture-story method intended to broaden its scope. Two variations developed by Bellak to expand the age range for respondents are the Children’s Apperception Test (CAT), which portrays animal rather than human characters in the pictures, and the Senior Apperception Test (SAT), which depicts primarily elderly people and circumstances common in the lives of older persons (see Bellak & Abrams, 1997). As an effort to enhance multicultural sensitivity, the TAT approach was used to develop the Tell-Me-A-Story- Test (TEMAS), which portrays conﬂict situations involving African American and Latino characters and has been found to elicit fuller responses from minority respondents than the all-Caucasian TAT pictures (Costantino, Malgady, & Rogler, 1988). Finally of note is the Roberts Apperception Test for Children (RATC), which was designed speciﬁcally to im- prove on the TAT and CAT as measures for use with children by portraying children and adolescents in everyday interac- tions, rather then either adult or animal ﬁgures; by providing an alternate set of cards showing African American young people in similar scenes; and by using a standardized scoring system (McArthur & Roberts, 1990).
 
-287
+Together with the emergence of speciﬁc quantiﬁable scores for the TAT, the publication of the RATC signaled movement in picture-story assessment toward achieving psy- chometric respectability, much in the manner that Exner’s Comprehensive System for Rorschach assessment moved the inkblot method in that direction. Although the TAT still lags well behind the RIM and most relatively structured assess- ment instruments in empirical validation, it has long been and remains one of the most frequently used methods for assess- ing personality functioning. Moreover, as found in a litera- ture survey by Butcher and Rouse (1996), the volume of research articles published on the TAT in the 20-year-period from 1974 to 1994 numbered 998, which was third largest among personality measures, exceeded only by the MMPI (4,339 articles) and the Rorschach (1,969 articles).

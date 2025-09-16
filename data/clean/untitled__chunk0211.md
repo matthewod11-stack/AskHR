@@ -1,3 +1,15 @@
-# Brunswick, NJ: Rutgers University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7378dca1ec6a1726a5d211552780164bcb85edad
+title: untitled
+---
+## History of the Behavioral Sciences, 8, 168–180.
 
-Fearing, F. (1930). Reﬂex action: A study in the history of physio-
+Evans, R. (1981). Introduction: The historical context. In F. Burkhardt & F. Bowers (Eds.), The works of William James: The principles of psychology (Vol. 1, pp. xlx–lxviii). Cambridge, MA: Harvard University Press.
+
+Evans, R. (1984). The origins of American academic psychology. In J. Brozek (Ed.), Explorations in the history of psychology in the United States (pp. 17–60). Lewisburg, PA: Bucknell University Press.
+
+Fancher, R. (1996). Pioneers of psychology. New York: Norton.
+
+Fay, J. W. (1939). American psychology before William James.

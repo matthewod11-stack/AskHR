@@ -1,39 +1,67 @@
+---
+source_path: F2206A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c89c5514995bc56a535a0be149d522d1da50b5b3
+title: F2206A-PDF-ENG
+---
 ## HBR / Magazine Article / Revitalizing Culture in the World of Hybrid Work
 
-- 3. Shift from optimizing corporate culture to fostering microcultures.
+- 2. Connect through emotional proximity, not physical proximity.
 
-Multinationals have long faced the challenge of creating a strong
+The view that in-oﬃce interactions sustain culture confuses physical
 
-corporate culture while also allowing local microcultures to thrive.
+proximity with the more important sensation of emotional proximity,
 
-With hybrid work splintering workforces into more-autonomous
+the researchers argue. “Physical proximity is being in the same space
 
-cells, all companies must now strike that balance. The research
+as another individual—being seen,” they write. “Emotional proximity
 
-suggests that leaders should favor somewhat devolved control:
+is being of importance to others—feeling seen.” One survey showed
 
-Survey respondents reported that team-level experiences increased
+that emotional proximity increased employees’ connectedness to their
 
-connectedness substantially more than enterprisewide initiatives did.
+workplace culture by 27%, while physical proximity had no impact.
 
-Royal DSM, a Dutch health and nutrition company, now treats the
+Because remote and hybrid employees have fewer workplace
 
-culture as a ﬂotilla of independently piloted ships rather than a single
+interactions, each exchange makes a stronger impact. That heightens
 
-tanker. “The company provides the ﬂotilla with guidance to sail in
+the imperative to identify and remove toxic workers, especially those
 
-the right direction, but it does not prescribe the norms and behaviors
+in positions of inﬂuence. It also means that companies should refrain
 
-aboard each boat,” the researchers write.
+from requiring people to attend meetings unless they’re truly needed.
 
-. . .
+The more employees feel that their contributions are valuable, the more
 
-The pandemic has radically changed how employees experience
+connected to the culture they become.
 
-corporate culture, and ﬁrms must embrace the new reality. “By relying
+Finally, leaders can create moments of emotional proximity by helping
 
-less on osmosis to drive connectedness and more on intentionality,” the
+remote employees see how their work connects to the company
 
-researchers write, “leaders will see outsized impact on performance and
+mission. TBS, a pharmaceutical company based in Japan, uses role-
 
-intent to stay.”
+play techniques during virtual onboarding to help people build an
+
+emotional connection to the ﬁrm from the start. New hires are assigned
+
+a medical condition that can be treated by a TBS drug and are asked
+
+to behave as a patient would. Someone assigned a gastrointestinal
+
+disorder, for example, would be pinged frequently for a bathroom break,
+
+thus simulating the inconvenience and discomfort patients endure. New employees also interview patients about how TBS oﬀerings have
+
+improved their quality of life. It’s not about heaping praise on people,
+
+says Cambon. “It’s about ensuring that employees understand the value
+
+of their work to the organization and beyond.”
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

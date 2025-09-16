@@ -1,7 +1,7 @@
-## Journal ofAccounting and Economics 7:151-—74.
-
-Kahneman, D., and D. Lovallo. 1993. Timid choices and bold forecasts: a cognitive perspec-
-
-tive on risk taking. Management Science 39:17-32.
-
-Kahneman, D., J. Knetsch and R. H. Thaler. 1986. Fairness and the assumptions of economics.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 8c1acfe10a2c76b49de76a82ed22c960efba5356
+title: beo_chap7_1
+---
+# price reaction to sudden executive deaths: implications for the management labor market.

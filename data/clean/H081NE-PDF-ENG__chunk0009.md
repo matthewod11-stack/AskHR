@@ -1,23 +1,39 @@
-# career prospects, too.
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b625efb5cf4ef6b184208a1fbf6dba12344d0335
+title: H081NE-PDF-ENG
+---
+# HBR / Digital Article / Building Cross-Cultural Relationships in a Global Workplace
 
-The reality of today’s global organizations, like the one Partha joined,
+seamlessly interact across cultures. This last talent came naturally: He
 
-is that they simply aren’t prioritizing cultural awareness or appreciation
+had easily made friends with students from nearly every continent, he
 
-of cultural diﬀerences to the degree they should. One survey found that
+followed creators from around the world to stay up on global trends,
 
-89% of corporate employees serve on at least one global team, and 62%
+and he leapt at any chance to travel abroad. Given his deep interest in
 
-have colleagues from three or more cultures. These employees need
+cultures near and far, the part of his new job that he was least worried
 
-to be able to build eﬀective cross-cultural relationships despite their
+about was the multicultural aspect.
 
-cultural diﬀerences. This will only become more critical as companies
+Imagine his surprise, then, when he struggled to bond with his new
 
-continue to globalize and diversify. And it’s not just large companies
+colleagues, who were nothing like the cosmopolitan peers of his own
 
-going global. According to a recent survey, 75% of small and medium-
+age whom he had so successfully connected with at school. Even after
 
-sized businesses are planning to increase their international headcount.
+several weeks of working together, his new coworkers still felt like
 
-Like Partha, most of us never consider how culture shapes our
+strangers. Interacting with them felt awkward, unnatural, and forced.
+
+For the ﬁrst time, Partha experienced cultural diﬀerences as a barrier.
+
+It was confounding, especially since he couldn’t pinpoint how or why
+
+relationship building seemed so diﬀerent from what he was used to.
+
+Worse, he didn’t know what to do about it — and not only did this make
+
+his daily work life less pleasant, but he fretted that it could impact his

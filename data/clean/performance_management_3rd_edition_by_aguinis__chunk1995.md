@@ -1,11 +1,9 @@
-# protection, 5 risk, 9, 9t
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b7634b67d3ee5e9b3dd216cc8e2a7b94fee32402
+title: performance_management_3rd_edition_by_aguinis
+---
+# competencies, 113b teams, 300
 
-Locander, W. B., 167 Locke, E. A., 224, 261, 292 Lockheed Martin Corporation, 49 London, M., 35, 58, 166, 194, 224, 261 Longenecker, C. O., 167 Long-term incentives, 11–12 Loop Customer Management, 73b Lovegrove, I., 167 Luthans, F., 224, 292 Lutz, B., 256 Lyons, L. S., 226, 260 M Mabey, B., 129 MacBryde, J., 314 Major achievements and contributions,
-
-form, 132, 133t
-
-Maloney, R., 224 Malos, S. B., 293 Management by objectives (MBO), 107 Management Standards Centre, UK, 4,
-
-6, 48
-
-Management support, PM system, 79 Managers. See also Supervisors
+LeBlanc, A. C., 261 Legal discrimination, 283 Legal factors, strategic planning, 66 Legal principles, PM, 281–283, 285t Leniency error, 178, 180t Levenson, A. R., 129 Levy, P. E., 34, 36 Lewin, D., 34 Lewis, A. B., 15b Likert, R., 294 Litigation

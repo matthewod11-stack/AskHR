@@ -1,9 +1,33 @@
-# REFERENCES
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e9e1b15ffd87b266e1a29b5e568b1e967c1f24c1
+title: untitled
+---
+# 504 Ethnic Minorities
 
-Akbar, N. (1991). The evolution of human psychology for African Americans. In R. L. Jones (Ed.), Black psychology (3rd ed., pp. 99–123). Hampton, VA: Cobb & Henry.
+continuum, these expressions of identity were discussed in terms of historical feasibility, generational shifts, social func- tionality, the increasing visibility of a mixed race population aware of one another, and individual differences (Root, 1990).
 
-Albee, G. W. (1969). A conference on recruitment of Black and other minority students and faculty. American Psychologist, 24(8), 720–723.
+Whereas the work on mixed race identity remained largely obscure, by the 1990 census, it was clear that the demo- graphic change that many of us had been observing and pre- dicting was well underway. Interracial relationships had signiﬁcantly increased since the Supreme Court repeal of the last antimiscegenation laws in 1967 (Root, 2001). In 1990, more than six million people checked “other” as a race cate- gory and many persons wrote in multiple races. Grassroots organizations had been talking with census policymakers since the late 1980s about the increasing need to reexamine racial accounting by the census.
 
-Albee, G. W. (1998). Fifty years of clinical psychology: Selling our soul to the devil. Applied and Preventive Psychology Current Scientiﬁc Perspectives, 7, 189–194.
+It was clear by 1990 that the political charge attached to race and the conventional meanings attached to mixed race identity proclamations were going to continue. Hypodescent rules would be used to reinforce race as a caste system. The passing narrative would be used to explain a person’s motives who declared more than a single racial identity.
 
-American Psychological Association. (1990). APA guidelines for providers of psychological services to ethnic, linguistic, and culturally diverse populations. Washington, DC: Author.
+While on a visiting professorship at the University of Hawaii, I pondered the likelihood that mixed race identities would be misunderstood and subsequently pathologized or misattributed. It was clear that contemporary theory needed to be developed and dissertation data needed to be accessible to the next generation of researchers since it was inevitable that mixed race people would become the subject of study. This research could either be used to move along a dialogue on race or to serve as a political tool to keep persons of mixed heritage largely invisible. It would depend on who did the research. I edited a book, Racially Mixed People in America, published in 1992 that made available many of the disserta- tions of the 1980s. It laid the foundation for the contemporary research on people of mixed heritage cross-disciplinarily. This book would be used by the Bureau of the Census as part of consultation and deliberation for the changes to racial classiﬁcation in the 2000 Census.
+
+Hand in hand with the slow proliferation of research about mixed race persons, the grassroots multiracial family groups were swelling in numbers across the country. Using the the- ory of social movements, and the data from interviews and social interaction, I developed the Bill of Rights for Racially Mixed People in 1992 (Root, 1996a). It was couched in simple language and has since become the property of many organizations and individuals to depathologize their identity declarations in this country. Twelve afﬁrmative statements are organized into three sections representing resistance, revolution, and change. It further normalizes subverting
+
+implicit rules to “stick with your own kind”; these rules do not always work very well for racially mixed people. Seeking refuge in a home community does not guarantee a warm reception.
+
+In 1996, I published a second edited volume that reﬂected the increased politicization around mixed race identities, The Multiracial Experience: Racial Borders as the New Frontier (Root, 1996b). This volume included new research, analysis of policy based on current racial classiﬁcation systems, documented grassroots mobilization as part of the place of refuge and voice for many adult persons of mixed heritage and interracial families, and posed many questions as the nation struggled to recognize a growing segment of the pop- ulation that was not adhering to conventional racial rules. My penchant for theory development from data and participant observation resulted in Ecological Framework for Identity Development (Root, 1999).
+
+The U.S. Bureau of the Census released its 2000 popula- tion ﬁgures on race in March of 2001. Approximately 2.4% of the nation opted to declare more than one race. This trans- lated into 6.8 million people. Examining state by state data, persons declaring mixed heritages are not evenly distributed within the United States. In Hawaii, 21.4% of the population identiﬁed themselves by more than one race. Among other states exceeding the national average were Alaska (5.4%), Arizona (2.9%), California (4.7%), Colorado (2.8%), Nevada (3.8%), New Jersey (2.5%), New Mexico (3.6%), New York (3.1%), Oklahoma (4.5%), Oregon (3.1%), Rhode Island (2.7%), Texas (2.5%), and Washington (3.6%).
+
+Perhaps more telling are recent birth rate ﬁgures, with some counties in the mainland United States contending 15% or more of babies born in 1999 and 2000 to be of mixed heritage. It still remains to be seen if there are differences in the proportions of people of different racial combinations declaring more than one race.
+
+These declarations on the census are demographic trends rather than actual reﬂections of how people live their lives. For some people, being able to declare more than one race is politically and personally important. For other people, it is symbolic, with no real personal signiﬁcance attached (Root, 1998).
+
+As a nation, we need to contend with a newer dialogue on race—one that acknowledges race mixing and mixed race in contemporary context. In her novel, Caucasia, Senna (1998) offers a generational framework through the voice of an African American professor who studies race. He talks to his estranged biracial daughter describing mulattos as the ca- naries in the coal mine, the “gauge of how poisonous Ameri- can race relations were. The fate of the mulatto in history and in literature, he said, will manifest the symptoms that will
+
+eventually infect the rest of the nation” (p. 335). It captures the generational change that we are living amidst regarding identity production and meaning for persons of mixed heritage.
+
+Root (2001) suggests that with mortality claiming an older generation who knew segregation and lived by it, replaced by an aged just pre-civil rights generation, a civil rights genera- tion in power, followed by an adolescent and young adult generation who are beneﬁciaries of the civil rights move- ment, change is clearly in motion. Each generation demon- strates a change in regard for meaning of race over the previous one. Despite the scars of this nation’s racial legacy, we still have hope. Paraphrasing Martin Luther King, the issue is not whether there will be a funeral but a question of the cost. We have a choice in how costly change continues to be—psychology can have a role in it.

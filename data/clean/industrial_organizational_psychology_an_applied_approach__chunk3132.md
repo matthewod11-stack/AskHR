@@ -1,3 +1,11 @@
-# S
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f05912feb89002c52887886f7206f3e7fb81de35
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Tips for Being a Good Group Member
 
-Don’t gossip or engage in talk about other people. That is, if another employee comes to you with some gossip or a complaint about another employee, politely tell him or her that you don’t feel comfortable talking behind another person’s back. Also, suggest that if that person has concerns about someone, it would be best to share them directly with that employee. Being respected is very important to being perceived as a good group or team member. This is one of the best ways to build that respect!
+Whether you are a member of a team or
+
+committee, or just part of an office group, the following tips will help you be a better member:

@@ -1,17 +1,21 @@
-# S M A R T
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: cec87435da7aafe875384aab689db679767c024c
+title: internship_report
+---
+# P. Performance Evaluation (PAR):
 
-KPI will be Specific
+PAR form must be returned to the Division of Human Resources by concerned Line
 
-KPI will be Measurable
+Manager/Supervisor by 31 January of every year. This appraisal form must be completed based
 
-KPI will be Achievable
+on KPI (Key Performance Indicator). It is IMPERATIVE that the PAR form must be filled up by
 
-KPI will be Real
+Evaluator. If the overall is Achieves Grade D or below, the Line Manager/Supervisor must
 
-KPI will be in Time Frame
+contact the Employee or HR Department for assistance in implementing a Performance
 
-1st Reporting Supervisor (RS1) will conduct the preliminary Performance assessment and
+Improvement Plan. Before setting KPI, Line Manager must seat with individual staff and will
 
-provide the marks and at the same time, prepare Part B and C. RS1 will have to mention
-
-employee‟s next year target/plan in Part B and in Part C RS1 will indicate how types of training
+have to set KPI on considering following matters:

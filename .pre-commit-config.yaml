@@ -1,0 +1,13 @@
+repos:
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: v0.4.4
+    hooks:
+      - id: ruff
+        args: []
+        files: ^(app/|scripts/|eval/).*\.py$
+  - repo: https://github.com/psf/black
+    rev: 24.3.0
+    hooks:
+      - id: black
+        args: []
+        files: ^(app/|scripts/|eval/).*\.py$

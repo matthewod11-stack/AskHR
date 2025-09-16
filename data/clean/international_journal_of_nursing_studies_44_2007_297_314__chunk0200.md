@@ -1,15 +1,21 @@
-# Management Journal 3, 647–651.
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 8f6a1982d664b951d8a3af5af15ad7bea682c6f4
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# References
 
-Bluedorn, A., 1982. The theories of turnover: causes, effects and meaning. Research in the Sociology of Organisations 1, 75–128.
+Aiken, L., Clarke, S., Sloane, D., Sochalski, J., Silber, J., 2002. Hospital nurse stafﬁng and patient mortality, nurse burnout and job dissatisfaction. Journal of the American Medical Association 288 (16), 1987–1993.
 
-Buchan, J., Seccombe, I., 2003. More Nurses, Working Differently?: A Review of the UK Nursing Labour Market 2002–2003. RCN, London.
+Bass, B., Avolio, B., 1995. Multifactor Leadership Question- naire (MLQ): Sampler Set Manual. Mind Garden, Rock- wood City. In: Larrabee, J., Janney, M., Ostrow, C., Withrow, M., Hobbs, G., Burant, C., 2003. Predicting registered nurse job satisfaction and intent to leave. Journal of Nursing Administration 33,(5) 271–283.
 
-- 6. Conclusion
+The literature selected for analysis contained no UK studies. This was unexpected and may indicate a discrepancy between the espoused importance of reten- tion issues and the UK’s research priorities and as such should be addressed and acted upon. Some work is, however, being undertaken such as the development of a tool for measuring job satisfaction in the contemporary UK nursing profession (Murrells et al., 2005), which will this exigent issue.
 
-Campbell, J., Dunnette, M., Lawler, E., Weick, K., 1970. Management Behaviour, Performance and Effectiveness. McGraw-Hill, New York.
+serve to accurately assess
 
-This review set out to assess the components of job satisfaction most inﬂuential on intent to leave for nurses working with adults in ward environments. In addition to identifying these components, an exploration of how the sources of job satisfaction may have changed over time was undertaken. The results suggest that although many of the same factors are being assessed within scales, a more appropriate and relevant approach may be to assess each environment individually. Scales, whilst useful tools for comparability, need to evolve within the nursing profession for maximum effective- ness. If to be used as a means for implementing policy change and improving the working lives of nurses, it is essential that scales generate speciﬁc and accurate data. When the aim is improvement of job satisfaction for nurses, the conclusions made from this study point strongly toward the need for analysis at ward level. As differing results are found across work environments, more appropriate techniques such as qualitative inter- views or action research may be employed to gain detailed insight into which components are of impor- tance to particular workforces. This could be under- taken ward-wide, for policy change at NHS Trust level, as a nation-wide policy may not be apt given the discrepancies shown.
+Blegen, M., 1993. Nurses’ job satisfaction: a meta-analysis of
 
-Cavanagh, S., 1989. Nursing turnover: literature review and methodological critique. Journal of Advanced Nursing 14, 587–596.
+related variables. Nursing Research 42 (1), 36–41.
 
-Cavanagh, S., 1992. Job satisfaction of nursing staff working in
+Blegen, M., Mueller, C., 1987. Nurses’ job satisfaction: a long- itudinal analysis. Research in Nursing and Health 10, 227–237. Bluedorn, A., 1978. A taxonomy of turnover. Academy of

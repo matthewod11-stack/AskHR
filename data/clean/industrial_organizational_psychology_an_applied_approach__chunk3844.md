@@ -1,21 +1,29 @@
-## a current employee refers a friend or family member for a job.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f243eb69589927b11bfcfbfe8d97a4e85a24943e
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Effective temperature The combination of air
 
-Employment agency An organization that specializes in finding jobs for applicants and finding applicants for organizations looking for employees. Employment interview A method of selecting
+temperature, humidity, airflow, and heat radiation that determines how hot or cold the environment feels.
 
-employees in which an interviewer asks questions of an applicant and then makes an employment decision based on the answers to the questions as well as the way in which the questions were answered.
+Ego needs The fourth step in Maslow’s hierarchy,
 
-Employment-at-will doctrine The opinion of courts in most states that employers have the right to hire and fire an employee at will and without any specific cause.
+concerning the individual’s need for recognition and success.
 
-Employment-at-will statements Statements in employment applications and company manuals reaffirming an organization’s right to hire and fire at will.
+Embeddedness The extent to which employees have links to their jobs and community, the importance of these links, and the ease with which they can be broken and replaced at another job.
 
-Empowerment chart A chart made for each employee that shows what level of input the employee has for each task.
+Empathic listening The listening style of a person who cares primarily about the feelings of the speaker.
 
-608
+Employee learning Evaluating the effectiveness
 
-glossary
+of a training program by measuring how much employees learned from it.
 
-Enzyme multiplied immunoassay technique (EMIT) A method of drug testing that uses enzymes to detect the presence of drugs in a urine sample. Equal Employment Opportunity Commission
+Employee Performance Record A standardized use of the critical-incident technique developed at General Motors.
 
-(EEOC) A branch of the Department of Labor charged with investigating and prosecuting complaints of employment discrimination.
+Employee reactions A method of evaluating training
 
-Equity theory A theory of job satisfaction stating that employees will be satisfied if their ratio of effort to reward is similar to that of other employees. ERG theory Aldefer’s needs theory, which describes three levels of satisfaction: existence, relatedness, and growth.
+in which employees are asked their opinions of a training program.
+
+Employee referral A method of recruitment in which

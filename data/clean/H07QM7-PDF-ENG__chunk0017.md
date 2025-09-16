@@ -1,29 +1,31 @@
-# for a recent mistake?
+---
+source_path: H07QM7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad46e020f8173c17bcb5117d249020c61bd4bd60
+title: H07QM7-PDF-ENG
+---
+# conversation.
 
-Also, consider whether a lack of visibility might be contributing to your
+- 4. Reﬂect on what you might be doing (or not doing) to contribute to the situation. Each person shapes a relationship’s dynamics and outcomes, so it’s
 
-distrust. With sparser in-person interactions, there’s more room to make
+essential to consider your role in the current situation. Trust can
 
-negative and baseless assumptions about others. Would scheduling
+erode when employees don’t have a clear understanding of their
 
-more face-to-face time with this person be helpful? Alternatively, do
+roles, responsibilities, and expectations. Is it possible that you haven’t provided suﬃcient clarity or guidance?
 
-you need to let go of “seeing” them work and focus on impact instead?
+Trust is inherently reciprocal. In other words, the more someone trusts
 
-- 5. Ask yourself whether the breach of trust is irreparable.
+you, the more likely you are to trust them in return. As such, try
 
-While trust is a tangible asset you can create in a relationship,
+boosting trust in this relationship by shifting your focus away from what
 
-sometimes a situation is severely beyond repair; for example,
+this person needs to do to regain your conﬁdence to how you might
 
-discovering that your team member has lied, breached conﬁdentiality,
+signal your own trustworthiness. Again, recall the three components
 
-or engaged in deeply disrespectful behavior. If a team member has
+of trust. How might you demonstrate your judgment and expertise,
 
-crossed certain boundaries, the right course of action — for the integrity
+integrity and care for them, and your dependability? For example, could
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you show your character by being honest, transparent, and accountable

@@ -1,45 +1,29 @@
-# stand by everything in the message.
+---
+source_path: F2503A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6c8aa25d41511527fe53631c4fb6d673eba1325
+title: F2503A-PDF-ENG
+---
+# HBR / Magazine Article / Why CEOs Should Think Twice Before Using AI to Write Mess…
 
-How has gen AI changed your writing process?
+How transparent are you with employees about how you use AI?
 
-My first drafts are way more polished than they used to be. I’ve never
+Everyone at Zapier knows I use gen AI to help me write, but I don’t disclose
 
-had ghostwriters or PR people writing for me; I would say that 90% of my
+that I’ve used it every time I send a message. There are certain areas where
 
-communication has always come from me. The people who have edited
+we have hard guidelines and policies about AI. How we are allowed to use
 
-my work or have given feedback still do, except now they know to look
+customer data, for example, is very strict. We actively enforce adherence
 
-for the standard things we all must look for in writing assisted by gen AI,
+to these guidelines, so any work with customer data must be done 100%
 
-such as hallucinations and stunted, robot language. They also catch stuff
+transparently and with the utmost care. But outside of these scenarios, we
 
-that AI wouldn’t because they understand Zapier-specific context, such as
+simply expect our people to use good judgment. I don’t need to know that
 
-our culture, our strategy, and our customer base. Generic large language
+gen AI helped you write a PowerPoint deck, but I do need to know that
 
-models don’t have that context, so they’re not going to be able to give me
+you’ve read and fact-checked every word in that deck. The same goes for
 
-advice or feedback that requires that level of specificity.
-
-Did the bot’s imitation of your writing impress you?
-
-It was hit-or-miss. There were times when I read an answer and thought,
-
-That’s better than what I could have come up with! I never read an answer
-
-and thought, That’s not me! But there were times when I thought, I kind
-
-of disagree. The longer I thought about these answers, the better I could
-
-trace a response back to something I’d written in the past. But the bot was
-
-lacking the context and nuance of my past answers. Others might not have
-
-realized that it was off, but because it was imitating me, I noticed.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+me: When I use gen AI, I decide whether to use what it produces, and I must

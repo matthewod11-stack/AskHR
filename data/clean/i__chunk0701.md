@@ -1,7 +1,7 @@
-# Business Performance. FT Press.
-
-(cid:111) Harris, J. G., Craig, E., & Light, D. A. (2011). Talent and analytics: new approaches, higher ROI. Journal of Business Strategy, 32(6), 4313.
-
-https://doi.org/10.1108/02756661111180087
-
-(cid:111) HBR Analytic Services. (2014). HR Joins the Analytics Revolution. Harward Business Review. Retrieved December 13, 2023, from
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: e20303ec5a38b56ca09685bd33a694fe5cf2e46a
+title: i
+---
+## Successful Organizations Use Workforce Analytics To

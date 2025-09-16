@@ -1,43 +1,15 @@
-## HBR / Magazine Article / Safety Should Be a Performance Driver
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 622e8da4eaf58f95cd8f2687ab77c2f0bbb3ed39
+title: R2405H-PDF-ENG
+---
+## achievement outcomes, parent loyalty, and student attendance.
 
-To begin, the board included safety metrics in the superintendent’s
+Sharon Beals photographs the nest and egg specimens of extinct and endangered birds, bringing attention to the challenges birds face in protecting their next generation.
 
-performance evaluation, making one-third of his $75,000 annual bonus
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-contingent on meeting certain safety goals. To ensure organizational
+7
 
-alignment on the deﬁnition of safety, the superintendent met with
-
-the school principals, and each one made student safety one of three
-
-strategic priorities. Next, the school principals met with their teachers
-
-and staﬀers in small groups to emphasize how reducing bullying would
-
-ultimately improve academic performance and student retention. At
-
-the meetings participants voiced their concerns, oﬀered ideas for
-
-combating bullying, and shared success stories—all of which created
-
-alignment around what safety means to them. Finally, teachers and staﬀ
-
-members used social media and community-engagement meetings to
-
-communicate with parents and students. They listened to concerns,
-
-explained the connection between reduced incidents of bullying and
-
-improved academic outcomes, and shared stories of students who had
-
-beneﬁted from safer schools.
-
-Agree on metrics. Of course, for people to buy in to the goal, you
-
-must be able to demonstrate that safety translates into improved
-
-performance. General ﬁndings, like those cited above, are helpful, but
-
-operational managers in a commercial business, for example, will need
-
-to know that safety, as the company deﬁnes it, delivers positive numbers
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

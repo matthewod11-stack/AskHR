@@ -1,7 +1,21 @@
-## this magazine (see “The C-Suite Skills That Matter Most,” July–August
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 189e5a1a8026c9f60514e6fe6c20e776a128a8c2
+title: R2303G-PDF-ENG
+---
+# Giulia Neri
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Executives have always been—and always will be—expected to
 
-1
+produce results. But today they’re expected to produce them in a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+fundamentally diﬀerent way. Gone are the days of the heroic individual
+
+leading from the front. Instead, in most corporations decision-making
+
+has become decentralized, and leaders are now supposed to empower
+
+and enable their people. Because of that they’ve had to give up
+
+considerable control. As Raﬀaella Sadun and her colleagues reported in

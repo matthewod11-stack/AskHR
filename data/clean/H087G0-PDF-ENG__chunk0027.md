@@ -1,7 +1,13 @@
-# Cons:
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6abf9f2ec5f1dbda63c30216840b2d848657a871
+title: H087G0-PDF-ENG
+---
+# manage symptoms
 
-- Risk of stigma and subtler forms of discrimination and exclusion
+- Access to accommodations
 
-- Privacy concerns about medical information
+- Potential for a supportive workplace environment
 
-- Coworker envy, resentment, and bullying in response to
+- Potentially higher likelihood of maintaining employment

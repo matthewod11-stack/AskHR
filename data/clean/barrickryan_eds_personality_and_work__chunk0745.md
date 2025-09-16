@@ -1,7 +1,7 @@
-## How Do Individuals Matter Given Strong Learning Situations?
-
-Research on situational interventions to affect psychological states and person-treatment interactions must also be balanced with con- tinued work on understanding when and how individuals matter in learning contexts. This calls for more complex examination of stable individual characteristics and the multiple ways in which peo- ple progress through learning situations. In addition, it calls for longitudinal research to study how an individual progresses through various learning situations.
-
-Dweck (1986) identiﬁed two very different goal orientations that people can have toward learning activities. Mastery-oriented individuals believe that their efforts can lead to improved learning and retention. Individuals with a mastery orientation view ability as malleable. They focus on developing new skills, attempt to un- derstand their tasks, and deﬁne their success in terms of challeng- ing self-referenced standards. In contrast, performance-oriented individuals believe that ability is demonstrated by performing bet- ter than others, even during training events. Moreover, they deﬁne success in terms of normative-based standards. Thus, mastery and performance orientations represent fundamentally different ideas of success and different reasons for engaging in learning (Ames, 1992). Much of the research on goal orientation has focused on demonstrating the adaptive nature of mastery over performance goals.
-
-Elliot and his colleagues have expanded on our understanding of achievement striving, emphasizing that approach and avoidance goals are critical to understanding achievement in learning and performance situations (see Elliot, 1999; Elliot & Church, 1997; El- liot & McGregor, 2001). Approach motivation is seen as directed toward a positive or desirable event, while avoidance motivation is directed against a negative or undesirable event. They have linked these concepts with the personality characteristics of mastery and performance goal orientations to form a four-factor model of achievement goals: mastery approach, mastery avoid, performance approach, and performance avoid. Elliot and McGregor (2001) found evidence in support of the four achievement goal types as empirically distinguishable, with differential effects on learning
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 34664b6f271182c214620d7691694418907e7f7e
+title: barrickryan_eds_personality_and_work
+---
+# 250 PERSONALITY AND WORK

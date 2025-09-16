@@ -1,11 +1,17 @@
-# interest.
+---
+source_path: H07WQJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 510f51512976bd61087452ea843c59ceea47f58d
+title: H07WQJ-PDF-ENG
+---
+## big, long-term strategic goal for the organization but also an ambition
 
-My work with dozens of leaders has revealed three key strategies for
+that has moral content, implies an elevated sense of duty, and appeals
 
-building moral community around purpose to drive high performance.
+to a broad base of stakeholders. Such an ambition might alienate some
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+with conﬂicting moral sensibilities. But it will inspire the majority who
 
-2
+remain, generating a sense of loyalty and cohesiveness that reﬂects
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+commitment to an ideal and thus goes well beyond economic self-

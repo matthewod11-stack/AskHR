@@ -1,3 +1,9 @@
-## American Economic Review 91(5): 1402-1422.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 9302bbbcfde6bb30ac9af2dcf665432356890e55
+title: behavioral_economics_1
+---
+## Quarterly Journal of Economics 116(4): 1233-1260.
 
-Grether, D. M. and C. R. Plott (1979). "Economic Theory of Choice and the Preference Reversal Phenomenon."
+Goeree, J. K. and C. A. Holt (2001). "Ten Little Treasures of Game Theory and Ten Intuitive Contradictions."

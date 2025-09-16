@@ -1,23 +1,27 @@
-# HBR / Digital Article / Research: Immigrants Played an Outsize Role in America’s Age o…
+---
+source_path: H03LVO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4201f88edd6953c6e3fef1a394de155d1756e0eb
+title: H03LVO-PDF-ENG
+---
+## the birthplace of millions of individuals from Federal Censuses between
 
-inventor David Lindquist played a major role in the development of the
+1880 and 1940 to millions of inventors from patent records. Using labor
 
-electric elevator; and Herman Frasch, a German-born chemist, worked
+income information in the 1940 Census, we further examined how
 
-in Philadelphia and Cleveland on mineral exploration and extraction,
+immigrant and domestic-born inventors were compensated.
 
-which can be linked to present-day fracking.
+Large scale data compiled from U.S. patent and Census records allows
 
-Our study shows that immigrants accounted for 19.6% of all inventors
+us to move beyond the anecdotes of successful immigrant inventors, of
 
-between 1880 and 1940. Today, that share is approximately 30%. The
+which there are many. For example, Alexander Graham Bell, a key ﬁgure
 
-chart below shows the share in each state of inventors who were born
+in the invention of the telephone, was born in Scotland; the Swedish
 
-abroad. Immigrant inventors were heavily concentrated in U.S. “rust-
+Copyright © 2017 Harvard Business School Publishing. All rights reserved.
 
-belt” states, which were some of the most productive areas during the
+1
 
-late nineteenth and early twentieth centuries. They were noticeably
-
-absent from southern states, where they may have faced either fewer
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

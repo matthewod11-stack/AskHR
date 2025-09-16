@@ -1,27 +1,29 @@
-## The leadership issues that most preoccupied Lucas – and many others
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8cc2baebce53d282e52328b33b7454bfae4c7210
+title: H07CM6-PDF-ENG
+---
+## HBR / Digital Article / To Coach Leaders, Ask the Right Questions
 
-like him — included prioritization, decision-making, accountability,
+But his own leadership was exactly the problem. And not for the typical
 
-and aligning and empowering his team members. But our work together
+reasons you might guess.
 
-focused equally on three more personal questions designed to better
+I have been coaching CEOs and other C-suite leaders for two decades. In
 
-understand their motivations and impulses:
+a ﬁercely complex and challenging world, I’ve found that leaders, more
 
-- Why are you the person and leader you are?
+than ever, need to understand how what’s going on inside themselves
 
-- Who are you capable of becoming?
+is inﬂuencing their actions in the outside world. Instead, for most
 
-- What’s standing in your way?
+corporate leaders I’ve worked with – often doers more than deep
 
-Our premise with clients is deceptively simple: You can’t transform
+thinkers – what’s going on internally is a vast unexplored territory
 
-a company without also transforming yourself. To be a better leader,
+that they haven’t valued much. That includes what they’re feeling,
 
-you must become a bigger human being. This is based on years of
+where they’re feeling triggered, and how early experiences in their lives
 
-experience with senior leaders who have failed in implementing new
-
-strategies and change initiatives. Overcoming those obstacles requires
-
-the willingness to challenge the ﬁxed beliefs, blind spots, biases, fears,
+inﬂuence the choices they’re making in the present.

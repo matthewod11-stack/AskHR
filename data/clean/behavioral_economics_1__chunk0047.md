@@ -1,31 +1,37 @@
-# unskilled.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 7731605014ef481cc9c40467ccb2c7ac6efdb8ef
+title: behavioral_economics_1
+---
+## implementation of the idealized contracts in agency theory.
 
-Public finance: Behavioral public finance asks how limits on consumer and voter rationality influence
+Many experiments have studied reciprocity (or gift-exchange) in simple versions of labor markets. In the
 
-taxation and public spending. Two pioneering examples are Krishna and Slemrod (2003) and McCaffrey’s
+simplest case, firms prepay a wage and workers then choose effort which is costly for them but valuable for
 
-(1994) paper on cognitive psychology and taxation. The central principle is that some taxes are more visible
+firms. If there is an excess supply of workers and no scope for reputation-building15, self-interested workers
 
-than others. Politicians exploit these differences in searching for ways to increase tax receipts. A full theory of
+should be happy to get jobs but should also shirk; firms should anticipate this and offer a minimum wage.
 
-taxation and spending therefore depends on a good account of which types of taxes are easy and hard to impose
+Empirically, however, when effort is very valuable to firms and not too costly to workers, firms pay wages far
 
-(well-organized interest group competition will matter too, of course), and how astute revenue-seeking
+above the minimum, and workers reciprocate by exerting more effort when they were paid a higher wage. When
 
-politicians are at understanding investor tax psychology.
+workers are identified to firms, and firms can repeatedly hire good workers, Brown, Falk and Fehr (2004) show
 
-Behavioral public economics is also likely to be the franchise that most squarely confronts issues of
+how a “two-tier” insider-outsider economy can emerge experimentally.
 
-welfare analysis in behavioral economics. In the standard theory, what consumers choose is taken as a
+15 Healy (2004) shows that the amount of reciprocity by workers is sensitive to the shared gains from effort. Charness, Frechette and Kagel (2004) show that framing of the instructions can lower reciprocity. Healy also shows in a simple model how a perception of correlation of reciprocal worker types can induce gift exchange even when the wage-effort game is repeated only finitely. His important insight is that type correlation induces “group reputation”.
 
-tautological definition of welfare (i.e., if consumers are rational, then what they choose is also what is best for
+22
 
-them). Thinking about psychology permits the possibility that private choices do not maximize welfare. For
+Data like these are a reminder that intrinsic motivations like reciprocity matter and can be quite strong.
 
-example, Berridge and Robinson (2003) suggest that separate brain areas control “wanting”—choice—and
+Furthermore, adding extrinsic incentives can be harmful if they “crowd out” intrinsic incentives (a phenomenon
 
-“liking”—hedonic evaluation. If liking is true welfare, then neural separability of these processes implies that it
+long-studied in psychology), so that standard models get the sign wrong in predicting effects of extrinsic
 
-is possible for choice and welfare to be different. The obvious places to look are decisions by adolescents and
+incentive changes. Benabou and Tirole (2003) approach crowding out in a different way. They show that
 
-addicts (Bernheim and Rangel,2004), and potential mistakes in rare decisions, or when it is difficult to learn
+higher incentives can induce lower effort because high wages signal that a job is very hard, or a worker is

@@ -1,11 +1,17 @@
-# frequent.
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be9befdd0953be395f6e5cde8e808605e10c9666
+title: H08GC0-PDF-ENG
+---
+# Schedule a meeting doomsday.
 
-Celebrate the time savings.
+On this day, employees can delete all recurring meetings from their
 
-Get everyone to calculate how much time they saved by comparing the
+calendars for 48 hours. Then, have them repopulate their calendars, but
 
-time they spent in meetings after doomsday with their initial meeting
+only with those meetings that are valuable — according to their own
 
-audit. For Asana, over the course of their one-month experiment,
+meeting audit. Asana found that when their employees were given the
 
-participants saved 11 hours per month on average and roughly 17
+freedom to step back and assess, they made meetings shorter and less

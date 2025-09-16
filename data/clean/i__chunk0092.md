@@ -1,3 +1,23 @@
-# systematic identification and quantification of the people drivers of business outcomes, with
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 9677696bc6538f83836f36032073b4359e48eca2
+title: i
+---
+# business strategy and performance.
 
-the purpose of making better decisions.
+Kapoor and Sherif (2012) define HRA as the process that involves collecting, transforming,
+
+and managing key HR-related data and documents. This information is then analyzed utilizing
+
+business analytics models, and the outcomes of the analysis are communicated to decision-
+
+makers, enabling them to make informed and intelligent decisions.
+
+HRA is believed to be a methodology for developing innovative insights (Smeyers & Delmotte,
+
+2013). Johnson-Murray, Rachael, et al. (2018) refer to PA as a <powerful tool for elevating
+
+the credibility of the HR function=. Heuvel and Bondarouk (2017) argue that HRA is the
+
+17

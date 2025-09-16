@@ -1,31 +1,19 @@
-## HBR / Digital Article / To Seem More Competent, Be More Confident
+---
+source_path: H04U47-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fdd50270577bbe957d91da978629d8b47f135d3b
+title: H04U47-PDF-ENG
+---
+# how could anyone else?
 
-This doesn’t always come easy. To feel more authentic demonstrating
+In order to convince others of your abilities, you should make it a habit
 
-conﬁdence, you may ﬁrst have to convince yourself. Ask yourself: What
+to communicate that you are good at what you do — without any self-
 
-am I good at? What was my greatest success so far? Why should others
+deprecation regarding your core competencies.
 
-be led by me? What do I know that they don’t? If you have a hard
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-time answering these questions, you have a problem — how should you
+3
 
-convince others of your expertise if you aren’t convinced yourself?
-
-“Praise yourself daringly,” the philosopher Francis Bacon said, because,
-
-as he continued, “something always sticks.” If you want to ensure
-
-that your achievements are recognized, think about how your manager
-
-and colleagues see you and your abilities. Do you think they have a
-
-good sense of your competence and expertise? If not, could you be
-
-demonstrating more conﬁdence in your tasks? This doesn’t necessarily
-
-mean praising yourself at every opportunity; rather it means projecting
-
-an optimistic attitude. By displaying more conﬁdence in your abilities,
-
-you set yourself up to be recognized for your competence and your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

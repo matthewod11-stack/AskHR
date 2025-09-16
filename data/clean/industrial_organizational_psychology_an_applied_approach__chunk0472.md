@@ -1,9 +1,9 @@
-# After hire, the bookkeeper must: 7 7
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 32b85726b84db08f7224d98532d82e9e1ba00d3c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Job Competencies Upon hire, the bookkeeper must: 7 7 7 7 7
 
-Learn general offi ce procedures Learn the style of credit union accounting procedures and regulations
-
-7
-
-Learn how to complete the various forms
-
-Th e competencies section should be divided into two subsections. Th e ﬁ rst contains KSAOs that an employee must have at the time of hiring. Th e second subsection contains the KSAOs that are an important part of the job but can be obtained after being hired. Th e ﬁ rst set of KSAOs is used for employee selection and the second for training purposes (Wooten, ).
+Have a high school diploma and a basic knowledge of math and English Understand fi nancial documents Be able to make limited fi nancial decisions Have completed advanced coursework in accounting and fi nance Be skilled in using Microsoft Excel and Word

@@ -1,7 +1,11 @@
-# Validity
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3a749119825be3f571c1c58ead062850f720dfc9
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Situational judgment tests
 
-Validity is the degree to which inferences from scores on tests or assessments are justified by the evidence. As with reliability, a test must be valid to be useful. But just because a test is reliable does not mean it is valid. For example, suppose that we want to use height requirements to hire typists. Our measure of height (a ruler) would certainly be a reliable measure; most adults will get no taller, and two people measuring an applicant’s height will probably get very similar measurements. It is doubtful, however, that height is related to typing perfor- mance. Thus, a ruler would be a reliable measure of height, but height would not be a valid measure of typing performance.
+.80
 
-Even though reliability and validity are not the same, they are related. The potential validity of a test is limited by its reliability. Thus, if a test has poor reliability, it cannot have high validity. But as we saw in the example above, a test’s reliability does not imply validity. Instead, we think of reliability as having a necessary but not sufficient relationship with validity.
-
-There are five common strategies to investigate the validity of scores on a
+was lower on samples of men and students than on samples of women and adults. The Career Workshop box gives a summary of evaluating tests.

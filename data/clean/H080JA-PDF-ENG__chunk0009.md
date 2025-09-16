@@ -1,23 +1,25 @@
-# Changing the Mindset
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c24327bdc05991630a2b7eb19801b397dfb6cef6
+title: H080JA-PDF-ENG
+---
+## HBR / Digital Article / It’s Time to Redefine Our Gendered Idea of “Ambition”
 
-Until now, the best practice devised by companies that want to combat
+Women typically make the sacriﬁce for the couple by reverting to
 
-this problem has been to oﬀer women ﬂexible hours. That helps, but
+ﬂexible work to serve as primary caregivers for the family. If climbing
 
-only to a degree: No matter when in a given day you work, that day still
+the career ladder comes at the expense of a healthy work-life balance,
 
-only has 24 hours. Women remain bound by the collective expectation
+many women ﬁgure leadership is not worth it. They remain ambitious,
 
-that they will spend more time than men engaged in domestic labor.
+but they can’t or won’t submit to the grind.
 
-What’s necessary to move beyond this impasse is a change in mindset.
+Whenever a woman leaves her company because her potential is
 
-What women need from their managers is a ﬂexible approach to growth,
+ignored, or because the culture only supports a one-size-ﬁts-all
 
-not time. This would require managers to measure ambition diﬀerently.
+approach to ambition, it’s a loss not only for them but the companies
 
-Rather than interpreting a period of career deceleration as a rejection
-
-of advancement, these intervals would be understood as inevitable and
-
-sometimes desired pivots that allow women to manage a suite of life-
+they work for.

@@ -1,9 +1,15 @@
-# Define the “Editing” Phase
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8ac3b053ad304087fa09f82e07daf29c5ef3831
+title: H08EJN-PDF-ENG
+---
+# biggest impact on my success?
 
-In some industries, like video, manufacturing, or publishing, there is a
+The intent is not to manipulate your boss. Being speciﬁc with your
 
-deﬁned deadline until which you can make changes. In others, there
+questions enables your boss to be eﬀective with their feedback, by
 
-isn’t a speciﬁc cutoﬀ point. You can change things again … and again
+leveraging their strengths, zooming in on high-stakes elements, and
 
-…. and again. It’s expensive in the long run, but in the near term, there
+supporting you in the most impactful way possible.

@@ -1,7 +1,19 @@
-# Cultural Alignment
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68174bfa0afd2ab05cdb2cf3bea2346bd205133f
+title: R2302A-PDF-ENG
+---
+## resolution time; for software engineers, speed of development and
 
-Another way we measure team members’ performance is by how well
+deployment. Interestingly, when we decided to start measuring how
 
-they work on the GitLab platform and uphold our values, because
+many items of work the engineers were able to ﬁnish, or “ship,” in
 
-that alignment is crucial, especially in a fast-growing, all-remote
+a month—rather than the number of whole projects they’d completed
+
+—many people told us they could game the results by breaking up
+
+the work into ever smaller parts. We told them to go ahead, and the
+
+piecemeal approach generated faster and better results.

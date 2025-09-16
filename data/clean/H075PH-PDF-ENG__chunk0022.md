@@ -1,7 +1,27 @@
-# HBR / Digital Article / Why Employee Mediations Fail — and How to Get Them Back on…
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76cbd177957dc1342cb8d47d6dc1c87e3f33b9dd
+title: H075PH-PDF-ENG
+---
+# dispute.
 
-outcomes. But don’t just walk into the room and take control — take the
+The medic’s best tools are controlling the process, managing emotions,
 
-time to get an accurate read of the situation and then be ready to adjust
+and providing a structure that ﬁnally lets the parties involved hash it
 
-rapidly to address the speciﬁc derailers at hand.
+out, in a reasonable amount of time. Simultaneously, it’s up to the medic
+
+to model a positive example of self-composure and self-expression,
+
+and to reassure those involved, all while consistently evaluating and
+
+reframing their problems. The medic’s authority as an executive helps.
+
+A strong presence controls the room, and that control leads to better
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

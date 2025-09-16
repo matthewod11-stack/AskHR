@@ -1,17 +1,31 @@
-## HBR / Magazine Article / Negotiate Like a Pro
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 267e8a8565cf018311a4e2cc63643033c2fef7ed
+title: R2402L-PDF-ENG
+---
+# gather more information.
 
-so that you can begin to exert inﬂuence and achieve cooperation or
+That happens with level-four listening, when you begin to tune in to
 
-collaboration, which should be the outcome of all negotiations.
+the emotions as well as the logic behind the other person’s position
 
-Some call this “active listening,” a term coined by the psychologist Carl
+and respond in ways that show you’re aware of them. You also begin to
 
-Rogers and his colleague Richard Farson to describe a process whereby
+prompt more dialogue with a comment such as “It sounds like you’re frustrated with our counteroﬀer” or “You seem passionate about this
 
-we “get inside” the minds of our counterparts and truly grasp what
+proposal.”
 
-they’re communicating. “More than that,” the two wrote in their 1957
+Level ﬁve takes that empathetic curiosity a step further. Now you’re
 
-book Active Listening, “we must convey to the speaker that we are
+listening to better understand and interpret your counterpart’s self-
 
-seeing things from his point of view.”
+perception and perspective. That allows you to ask questions that
+
+promote discovery and insight on both sides and establish rapport
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

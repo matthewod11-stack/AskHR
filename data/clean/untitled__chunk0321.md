@@ -1,5 +1,7 @@
-# THE BEGINNINGS OF THE NEW PROFESSION
-
-OF PSYCHOLOGY 29 The Business Psychologist The Counseling Psychologist 30 The School Psychologist 31 The Clinical Psychologist 32
-
-29
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d88f9b3b2f2ac0d9c188d498844ea5ebb027a5ad
+title: untitled
+---
+# PSYCHOLOGICAL SCIENCE 28

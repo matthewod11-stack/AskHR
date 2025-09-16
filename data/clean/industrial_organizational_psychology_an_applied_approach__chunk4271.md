@@ -1,7 +1,17 @@
-# London: Routledge.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 66ecfcf228028bbfa63c42b2cb88fc7981b4ac69
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Knauth, P., Keller, J., Schindele, G., & Totterdell, P. (1995).
 
-Komaki, J. L. (1986). Toward eﬀ ective supervision: An operant analysis and comparison of managers at work. Journal of Applied Psychology, 71, 270–279.
+A 14-hour night-shift in the control room of a ﬁ re brigade. Work and Stress, 9, 176–186.
 
-644
+Knoop, R. (1994). Th e relationship between importance and
 
-references
+achievement of work values and job satisfaction. Perceptual and Motor Skills, 79(1), 595–605.
+
+Knouse, S. B. (1983). Th e letter of recommendation: Speciﬁ city and favorability of information. Personnel Psychology, 36, 331–341.
+
+Komaki, J. L. (1998). Leadership from an operant perspective.

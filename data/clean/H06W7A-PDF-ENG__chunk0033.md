@@ -1,17 +1,19 @@
-# idea work.
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 88467f8ef69f443ce1892e3036ed776873328228
+title: H06W7A-PDF-ENG
+---
+# care system and so harm human life.
 
-- 3. They celebrate progress towards final agreement.
+Treating new ideas as liminal (rather than literal) allowed members to
 
-When groups are tasked with coming to consensus on a course of action,
+relieve some of this pressure and enter into a transitional space where
 
-agreement feels good — it denotes progress and group belonging.
+play and experimentation were encouraged. In the above conversation,
 
-Delaying agreement can feel very stressful as it requires acknowledging
+when Kevin says: “Say a patient gives Dr. Jones permission to view and
 
-uncertainty, which groups can interpret as failure or a lack of progress.
+incorporate their information,” rather than selling the group a great
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+idea, he invites members to play and experiment with him to make the

@@ -1,7 +1,25 @@
-## HBR / Digital Article / Stop Protecting “Good Guys”
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5568970dc1d1849ec8f8124a0edac9902be62b8
+title: H075U7-PDF-ENG
+---
+## of behavior governs many man-man relationships, both personal and
 
-an endorsement of the oﬀender’s moral character, suggesting his
+professional, and perpetuates a sexist workplace culture, compelling
 
-innocence, and signaling an allegiance to him. The “good guy” defense
+men to support other men — including their bad behavior — at all costs.
 
-serves two salient functions: to gaslight women and to enable the
+We deﬁne the “good guy” defense as minimizing, excusing, or deﬂecting
+
+the sexist or harassing behavior of a man by appealing to the utility
+
+of this commonly used phrase. In calling someone a “good guy” as
+
+an explain-away defense, men and medical institutions are oﬀering
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,35 +1,33 @@
-## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 760d033b779bdfca0c47611eb061917b1da68349
+title: R2405E-PDF-ENG
+---
+# Exploration: Find Your Start-Ups
 
-preferences. Corporate governance and capital controls are in place
+Innovators often work for decades to tackle grand challenges and turn
 
-speciﬁcally to ensure this.
+visions of the future into reality. Many of those eﬀorts will end in
 
-Those constraints drive many incumbents to adopt a limited innovation
+failure; only one or two will go on to change the world. Start-ups
 
-strategy: focusing on incremental improvements to existing businesses
+are hardwired for this journey. They have the freedom and, when
 
-or collaborating with just one or two like-minded partners on pursuing
+supported by venture capital, the resources to pursue their ambitions
 
-a narrow ambition. That can be dangerous. Consider what happened
+single-mindedly. As long as the prospective upside is worth the risk,
 
-when Blockbuster had the opportunity to buy the upstart DVD-by-mail
+they willingly embrace their chances of failure.
 
-service Netﬂix for $50 million in 2000. Unable to see that home movie-
+Unfortunately, this model doesn’t work for the management and
 
-entertainment purchases could be more than impulse decisions focused
+stakeholders of established companies, which are designed to provide
 
-on hits, Blockbuster ﬂatly rejected it. Four years later Blockbuster
+existing goods and services reliably and to adapt to customer
 
-unsuccessfully attempted to launch its own DVD-by-mail service, and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-in 2010 it ﬁled for bankruptcy.
+2
 
-The incumbent innovators we studied avoided Blockbuster’s fate by
-
-following three practices in the ﬁrst stage of their journey:
-
-Setting up multiple partnerships. Companies should prepare for
-
-a variety of future scenarios and conduct numerous experiments
-
-with start-ups. Many incumbents’ breakthroughs have emerged
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

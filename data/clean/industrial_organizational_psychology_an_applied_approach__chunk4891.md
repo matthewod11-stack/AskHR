@@ -1,7 +1,7 @@
-## correlates, 365, 369 cost of, 393 reducing, 394–395
-
-684
-
-subject index
-
-Two-factor theory, 337–338 Two-sided arguments, 462 Type A personalities, 558 Type B personalities, 558 Typical-answer approach, 143
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 323d3c99ee29636bb4a23c9e683a89f097f80499
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Trustworthiness, 461 Turnover

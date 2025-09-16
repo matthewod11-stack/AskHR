@@ -1,9 +1,29 @@
-# Why Job Descriptions?
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 82e5814a69bdd5680435e1f54076491f1d17c49d
+title: H07TI0-PDF-ENG
+---
+# date.
 
-Modern job descriptions can be traced back to the industrial revolution.
+Because most job descriptions are ﬁrmly embedded in the employee’s
 
-As factories and other large organizations became more common, there
+core area of work, they also tend to encourage silos in the organization
 
-was a need to deﬁne roles and responsibilities more clearly to improve eﬃciency and productivity. This led to the creation of standardized job
+by discouraging cross-functional collaboration. Rigid job descriptions
 
-titles and descriptions, which outlined each position’s tasks, duties, and
+also discourage experimentation with new technologies that may have
+
+been unimaginable at the time the description was written. And ﬁnally,
+
+narrow job descriptions can mean that an employee isn’t able to fulﬁll
+
+the full range of their talents at work, leaving them dissatisﬁed.
+
+In response, companies are starting to approach job descriptions in new,
+
+more ﬂexible ways based on outcomes, skills, and teams. I’ll describe
+
+each of these in turn, but ﬁrst let’s look at how job descriptions came to
+
+be what we know them as today, and what they do.

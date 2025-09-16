@@ -1,3 +1,25 @@
-# — and that of their kids, too.
+---
+source_path: H07GRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d55c91638c9927548933ec06f1bdc93ba00902d9
+title: H07GRL-PDF-ENG
+---
+## surveys, lunchtime focus groups, or even just informal check-ins. After
 
-This article was originally published online on January 31, 2023.
+all, it is often employees themselves who have the best solutions to the
+
+work-family challenges they are facing — they simply need to be asked.
+
+Ultimately, to build a truly healthy and sustainable workplace,
+
+employers must expand their deﬁnition of ROI to include returns not
+
+just for themselves or their employees, but for employees’ children,
+
+families, neighborhoods, and entire communities. How companies treat
+
+their workers today will determine how the next generation grows up
+
+tomorrow, and it’s up to all of us to invest in our shared future. That
+
+means building workplaces that value the wellbeing of working parents

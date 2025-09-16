@@ -1,3 +1,9 @@
-# Halifax
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: 3e422a3cf740fbc3a04b6252a84da05d9aafd9f4
+title: microsoft_word_performance_management_literature_review_doc
+---
+# Cranfield University
 
-And adding to the good practice picture in quantitative terms, the CIPD survey (2005) found that management buy-in alongside the communication of objectives were considered to be the most critical factors in the introduction, maintenance and improvement of a performance management system (CIPD, 2005).
+‘Making the management of performance an organic part of everyday life, not a series of mechanical tasks and processes.’

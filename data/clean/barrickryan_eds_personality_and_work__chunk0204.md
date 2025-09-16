@@ -1,3 +1,9 @@
-# of Organizational Behavior, 20, 25–30.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 4ed86dcd1e8e902182729a00d75ef9244ffa448b
+title: barrickryan_eds_personality_and_work
+---
+# Brooks/Cole.
 
-Lucas, R. E. (2000). Pleasant affect and sociability: Towards a comprehensive model of extraverted feelings and behaviors. Unpublished doctoral dis- sertation, University of Illinois.
+Ledford, G. E., Jr. (1999). Happiness and productivity revisited. Journal

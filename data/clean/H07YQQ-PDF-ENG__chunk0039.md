@@ -1,33 +1,19 @@
-# company more ﬁscally sound.
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5bfb64ff23e0044a9b7d0b8d993d6a541f4f811
+title: H07YQQ-PDF-ENG
+---
+## HBR / Digital Article / A Guide for Getting Stakeholder Buy-In for Your Agenda
 
-. . .
+to the foreground for the company. She came to us frustrated that she
 
-It’s common for leaders to initially bristle at the idea of playing
+couldn’t see the IPO to fruition. In conversation with us she realized
 
-politics. It’s also natural to avoid hard or new endeavors because they
+that learning was her key value, and that regardless of going public,
 
-arouse feelings of uncertainty and potential failure. Thus, to advance
+what she could learn in her role would give her great meaning. Once she
 
-your agenda for the organization’s beneﬁt, you need a structure for
+embraced the learning opportunity, the timing of the IPO became less
 
-strategizing; a template to be politically skillful. By thinking through
-
-these four domains and their corresponding questions, we hope you will
-
-feel empowered to drive objectives that maximize your contributions
-
-and serve your organization.
-
-This article was originally published online on January 04, 2024.
-
-Lisa Zigarmi is an organizational psychologist and leadership coach. She helps leaders relate more deeply, decide more eﬃciently, and think with more creativity. She is the founder of The Consciousness Project.
-
-Julie Diamond is CEO and founder of Diamond Leadership, which provides leadership and talent development services, including coaching, consulting, assessment, and training to its global clients. She is the author of Power: A User’s Guide.
-
-Lesli Mones is an executive coach, leadership consultant, and the founder of the P2 Leaderlab, which helps women use their personal power skillfully for greater organizational impact.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+relevant to her, and she was able to focus on other ways to make the

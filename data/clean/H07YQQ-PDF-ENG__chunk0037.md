@@ -1,25 +1,17 @@
-# energy?
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52eb73d1eb04c07ebaf8557ed989865bb821d2f0
+title: H07YQQ-PDF-ENG
+---
+# for the thrill of the pursuit?
 
-- What personal support do I have or need more of?
+With your answers in mind, and if indeed you decide you want to
 
-One of our clients is the CFO of a startup, poised to go public in the next
+advance your agenda, ask:
 
-couple of years. The CEO, who is also the founder, brought her in to help
+- What character strengths or values will I need to achieve this objective?
 
-the company get ﬁscally positioned for their IPO. This was very exciting
+- What beliefs will limit me in achieving this objective?
 
-for her as she had the skills and was eager to pursue the challenge and
-
-add this experience to her resume. Pretty quickly, however, it became
-
-obvious that the founder/CEO was committed to his own ways of doing
-
-things and was particularly hard to inﬂuence. She noticed that going
-
-public became less and less of a priority as other market concerns came
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- What personal priorities or challenges are competing for my time and

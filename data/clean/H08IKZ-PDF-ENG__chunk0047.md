@@ -1,11 +1,21 @@
-# a set of inexperienced child actors.
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5ce27c2518922b0728a55bff91b814aa10514e7e
+title: H08IKZ-PDF-ENG
+---
+## their feasibility, as well as ethical and competitive implications.
 
-. . .
+Consider Netﬂix, which is famous for making production choices based
 
-As AI grows ever more capable, the belief — or fear — that it can
+on its vast trove of viewership data. Its decision to create the chart-
 
-substitute for human decision-making grows more prevalent. However,
+topping show Stranger Things may have been driven by an observation
 
-decisions entail more than data collection and analysis — and humans
+that content dealing with supernatural themes performed well, or the
 
-have innate advantages over even the most powerful AI in these
+enduring popularity of 1980s shows. However, Netﬂix also had to make
+
+several bets driven by intuition, such as hiring a pair of unproven
+
+showrunners that would inject their own vision or taking a chance on

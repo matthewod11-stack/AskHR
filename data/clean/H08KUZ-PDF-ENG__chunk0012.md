@@ -1,3 +1,7 @@
-## According to IBM’s “2024 Cost of Data Breach Report,” the average
-
-cost of a data breach in 2024 was $4.88 million, an increase of
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8bde66be3fff721406a302d930130830a5527996
+title: H08KUZ-PDF-ENG
+---
+## solutions and increased cybersecurity spending by organizations.

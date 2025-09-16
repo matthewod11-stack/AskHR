@@ -1,9 +1,11 @@
-# MA: Harvard University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 01bd66c18978390ebd17c8f158545ba23dea47f1
+title: untitled
+---
+## neering. Journal of Social Issues, 42, 137–154.
 
-Haraway, D. (1992). The promises of monsters: A regenerative politics for in-appropriated others. In L. Grossberg, C. Nelson, & P. A. Treichler (Eds.), Cultural studies (pp. 295–337). New York: Routledge.
+Haber, S. (1964). Efﬁciency and uplift: Scientiﬁc management in the progressive era, 1890–1920. Chicago: University of Chicago Press.
 
-Haraway, D. (1997). Modest witness at second millennium: Female
-
-man meets OncoMouse. New York: Routledge.
-
-Harris, B., & Nicholson, I. (1998). Perils of a public intellectual.
+Hacking, I. (1999). The social construction of what? Cambridge,

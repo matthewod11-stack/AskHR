@@ -1,11 +1,33 @@
-# Portugal.
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e6cd76cdc8a32ada4c5dbc011c7b29584b39374
+title: H077EQ-PDF-ENG
+---
+# Do Your Research to Escape Bias
 
-Anchoring to the tune of what happened at Shark is always the result
+I once consulted for Shark, a French company that creates high-end
 
-of lack of information or misinformation. Too often, the human brain
+motorcycle helmets. The ﬁrm was considering whether or not to move
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+its production line from Portugal to Thailand. At ﬁrst glance, it seemed
 
-4
+like the move would make good business sense. After all, production
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+costs are generally lower in Thailand.
+
+But my team realized that there was an anchoring problem. The team at
+
+Shark had considered the cost for production of a standardized helmet,
+
+but the company’s product oﬀering was typically customized helmets.
+
+In other words, Shark’s team had relied on the production cost of one
+
+type of helmet rather than the cost of customizing each helmet.
+
+So we brought in a group with stopwatches to ﬁgure out the exact
+
+production cost for diﬀerent categories of helmets. The results showed
+
+that it was actually better to keep over 70% of the production in

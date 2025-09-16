@@ -1,17 +1,25 @@
-# HBR / Digital Article / Is Your Leadership Development Program Undermining Your DE…
+---
+source_path: H07A0F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8c659681eba168fb04e3afbdf5f47cddae840e5
+title: H07A0F-PDF-ENG
+---
+# Carmen Deñó
 
-Sheila is a composite, drawn from the experience of the HR leaders
+Sheila is exhausted. The CHRO of a mid-sized biotech company,
 
-we speak to regularly — well-intentioned practitioners working hard to
+she’s spent the past couple of years running program after program
 
-support their workforce and improve diversity, equity, and inclusion
+to support the growth and development of hundreds of globally
 
-across the organization, but not seeing the results they want. So what’s
+distributed employees. Despite these eﬀorts, she’s facing mounting
 
-going on?
+problems: Retention numbers are dipping, and the representation of
 
-We argue that many organizations have the right programs, but
+underrepresented groups in senior leadership remains stubbornly low.
 
-they’re being implemented the wrong way, sometimes exacerbating
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-problems they’re meant to ﬁx. This is especially clear when it comes
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

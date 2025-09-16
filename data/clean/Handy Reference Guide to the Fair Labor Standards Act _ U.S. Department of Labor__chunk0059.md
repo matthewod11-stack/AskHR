@@ -1,17 +1,25 @@
-# Exemptions from Overtime Pay Only
+---
+source_path: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department
+  of Labor.md
+pages: n/a-n/a
+chunk_id: 93a280c125fbf41953855d4de4269688a104ce3e
+title: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department of
+  Labor
+---
+## Exemptions from Both Minimum Wage and Overtime Pay
 
-- 1. Certain commissioned employees of retail or service establishments; auto, truck, trailer, farm implement, boat, or aircra(cid:212)
+- 1. Executive, administrative, and professional employees (including teachers and academic administrative personnel in
 
-sales-workers; or parts-clerks and mechanics servicing autos, trucks, or farm implements, who are employed by non-
+elementary and secondary schools), outside sales employees, and employees in certain computer-related occupations (as
 
-manufacturing establishments primarily engaged in selling these items to ultimate purchasers;
+defined in DOL regulations);
 
-- 2. Employees of railroads and air carriers, taxi drivers, certain employees of motor carriers, seamen on American vessels, and
+- 2. Employees of certain seasonal amusement or recreational establishments, employees of certain small newspapers, seamen
 
-local delivery employees paid on approved trip rate plans;
+employed on foreign vessels, employees engaged in fishing operations, and employees engaged in newspaper delivery;
 
-- 3. Announcers, news editors, and chief engineers of certain non-metropolitan broadcasting stations;
+- 3. Farmworkers employed by anyone who used no more than 500 “man-days” of farm labor in any calendar quarter of the
 
-- 4. Domestic service workers living in the employer’s residence;
+preceding calendar year;
 
-- 5. Employees of motion picture theaters; and
+- 4. Casual babysitters and persons employed as companions to the elderly or infirm.

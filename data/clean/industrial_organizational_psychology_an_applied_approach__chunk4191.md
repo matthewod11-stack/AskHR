@@ -1,11 +1,15 @@
-# Wadsworth.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f2f0e19253b6e624303ea1ee0de1b2e40d3dbdcf
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Ford, D., Truxillo, D. M., Wang, M., & Bauer, T. (2008, April).
 
-Forsythe, S., Drake, M. F., & Cox, C. E. (1985). Inﬂ uence of applicant’s dress on interviewer’s selection decisions. Journal of Applied Psychology, 70, 374–378.
+Individual diﬀ erences and the quality of job analysis ratings. Poster session presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
 
-Foster, D. A. (1999). A leader-subordinate ﬁ t model of the
+Ford, J. K., Quińones, M. A., Sego, D. J., & Sorra, J. S. (1992).
 
-path-goal theory of leadership. Unpublished doctoral dissertation, George Washington University, Washington, DC.
+Factors aﬀ ecting the opportunity to perform trained tasks on the job. Personnel Psychology, 45, 511–527.
 
-references
-
-635
+Forsyth, D. R. (2006). Group dynamics (4th ed.). Belmont, CA:

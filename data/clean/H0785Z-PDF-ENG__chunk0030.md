@@ -1,7 +1,7 @@
-# — William, Tokyo, Japan
-
-An organization is successful when it can quickly adapt to give its
-
-workforce what it needs as society and the economy change.  — Ute, Holle, Germany
-
-These are lightly edited responses to a survey that HBR editors shared with
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1bbe5138dfb2b856fb6523d0cd84fe408caf91b5
+title: H0785Z-PDF-ENG
+---
+# Goal-driven, not trend-driven.

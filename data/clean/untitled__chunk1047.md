@@ -1,5 +1,13 @@
-# New York: McGraw-Hill.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8fd461b41a85c095172d82749451e741e75ce554
+title: untitled
+---
+# Symposium. New York: McGraw-Hill.
 
-Schachter, S. (1970). The assumption of identity and peripheralist- centralist controversies in motivation and emotion. In M. B. Arnold (Ed.), Feelings and emotions (pp. 111–121). New York: Academic Press.
+Rimé, B. (1999). President’s column. Emotion Researcher, 13(3),
 
-Schachter, S. (1971). Emotion, obesity, and crime. New York:
+1–7.
+
+Ruckmick, C. A. (1936). The psychology of feeling and emotion.

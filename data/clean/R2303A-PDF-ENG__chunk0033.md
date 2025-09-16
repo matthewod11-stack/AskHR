@@ -1,15 +1,31 @@
-## buildings where Thermo Fisher Scientiﬁc and nCino, a cloud banking
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2aea0dabc74f361b87aeb475d91c0c302bed35d
+title: R2303A-PDF-ENG
+---
+## desired role, perhaps with accommodations.
 
-company, are headquartered. Salesforce has also been a strong partner,
+When a workforce diversiﬁes in this way, the existing employees will
 
-serving our coﬀee at its world headquarters and sending it to clients
+pay attention. Perhaps one of them has a child with autism at home,
 
-during the pandemic. We’re in discussions with numerous hospitals and
+or a sibling who experienced brain damage, or a parent who was
 
-universities that are interested in Bitty & Beau’s shops as well. We’d love
+forced into early retirement by arthritis. Such people will appreciate
 
-to see every commercial or government building have one in its lobby—
+the work you’re doing to promote full inclusivity. Other employees will
 
-in part because we think it would inspire other organizations to realize
+beneﬁt from seeing the resilience, determination, and spirit of their
 
-that they, too, can successfully employ people with disabilities.
+coworkers with disabilities. It will open their minds to what’s possible
+
+and encourage them to consider new perspectives, which can lead
+
+to more-creative thinking. We’ve found that the morale of our mixed
+
+workforce is exuberantly high.
+
+So far we’ve worked with three other companies directly—not to advise
+
+them on their DEI strategies but to serve Bitty & Beau’s coﬀee in their corporate oﬃces. Our two newest Wilmington locations are at the

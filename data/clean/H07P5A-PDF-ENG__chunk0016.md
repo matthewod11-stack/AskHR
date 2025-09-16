@@ -1,19 +1,37 @@
-# accurate picture of their eﬀorts.
+---
+source_path: H07P5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d27b4f1579b1687bea1af05cb438b6de6e0c0769
+title: H07P5A-PDF-ENG
+---
+# HBR / Digital Article / Watch Out for These 3 Gender Biases in Performance Reviews
 
-Initially, the data showed that women were more accurate in their
+the goals laid out for them in their last performance review, there was
 
-estimations of the time a task would take, although they often overestimated the diﬃculty of tasks. Meanwhile, men underestimated both the time a task would take and its diﬃculty. Following the
+still a record of all their eﬀorts and achievements, which, according to
 
-intervention, the likelihood of women accurately identifying the diﬃculty of the task increased by a factor of 28, while men were 12.5
+the post-survey results, helped reviewers better grasp the value of the
 
-times more likely to do so. Additionally, men became 7 times more
+more ambiguous, internal work that (mostly) women were performing.
 
-likely to accurately estimate the time required for a task, whereas there
+The second was designed to help employees become better at describing
 
-was no signiﬁcant diﬀerence in this aspect for women.
+their own eﬀorts. At the beginning of the week, for each project
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+they were working on, employees were asked to provide two diﬀerent
 
-4
+estimates on their virtual whiteboard: how long each task would take to accomplish and its level of diﬃculty (high, medium, or low). For
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+example, an employee might identify the three projects they’re working
+
+on for the week and allocate the amount of time they plan to spend on each, based on the type of task and estimated diﬃculty. At the end
+
+of each week, employees were asked to revisit their estimates, note how their time was actually allocated and how diﬃcult the task ended
+
+up being, and reﬂect on the reasons for the diﬀerences between their
+
+forecasts and “actuals.” This practice allowed employees to look back
+
+on their recorded predictions, reﬂect on what the record showed in
+
+comparison to their perceptions, and ﬁne-tune their ability to paint an

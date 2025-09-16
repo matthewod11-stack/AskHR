@@ -1,7 +1,7 @@
-## Spruce Gran Picea (9,550 years old; Sweden) Rachel Sussman
-
-Delivering sustained growth is one of the hardest things a company
-
-can do. A brilliant idea or product innovation can create a burst
-
-of episodic growth, but few companies demonstrate growth year in
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 496e5a7258737add556d352fdba9f30a43066679
+title: S24022-PDF-ENG
+---
+## From the Magazine (March–April 2024) / Reprint S24022

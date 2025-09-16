@@ -1,25 +1,7 @@
-## On December 16, 1984, British prime minister Margaret Thatcher hosted
-
-Mikhail Gorbachev, a member of the Soviet Politburo who was seen as
-
-a potential future leader of the country, at what ended up being a ﬁve-
-
-hour lunch at Chequers, the prime minister’s country home. Thatcher
-
-wasted no time in ﬁring the ﬁrst salvo, stating, “I want there to be no
-
-misunderstanding between us….I hate communism.”
-
-“Very quickly, the argument between Margaret and me became very
-
-heated,” Gorbachev later recalled, according to Jonathan Aitken’s book
-
-Margaret Thatcher: Power and Personality. “She was accusing the Soviet
-
-Union of all sorts of unfair things. I did not accuse Britain of anything.”
-
-The two turned their backs to each other in the middle of lunch, and
-
-Gorbachev’s wife, Raisa, stunned by Thatcher’s attack, indicated to her
-
-husband, “It’s over!” For a moment Gorbachev thought they should
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa24f03b18c1c64aaec71c7dd4a8ff9b4136f953
+title: S24011-PDF-ENG
+---
+# how.

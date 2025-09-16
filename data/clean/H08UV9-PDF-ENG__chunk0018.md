@@ -1,13 +1,7 @@
-# and conﬁdence.
-
-Ask any PE investor what they want in a C-suite executive and
-
-“agility” is almost always at the top of the list. Investors want leaders
-
-who can move fast, pivot strategy, act decisively when a plan breaks
-
-down, and seize unexpected opportunities. Our AlixPartners Disruption
-
-Index shows that 40% of executives in companies with signiﬁcant PE
-
-ownership say their executive team isn’t agile enough, compared to just
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a03558f4eb98178c406de74791d2824452b76a1
+title: H08UV9-PDF-ENG
+---
+## and misused—traits in the portfolio company talent equation: agility

@@ -1,33 +1,19 @@
-## software engineers, designers, marketing managers, and search-engine-
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f72875ce4717c5003a26f8de801ab8c063939d6
+title: R2501G-PDF-ENG
+---
+## And as the growth of AI—particularly generative AI—makes it cheaper
 
-optimization specialists—to run experiments. But that presents a
+and easier to create numerous digital product experiences, they must
 
-challenge. Drawing on our experience working for and consulting
+vastly increase the number of experiments they conduct—to hundreds
 
-with leading organizations such as Airbnb, LinkedIn, Eppo, Netﬂix,
+or even thousands—to stay competitive.
 
-and Optimizely, we provide a road map for using experimentation to
+Scaling up experimentation entails moving away from a data-scientist-
 
-increase a company’s competitive edge by (1) transitioning to a self-
+centric approach to one that empowers everyone on product,
 
-service model that enables the testing of hundreds or even thousands of
-
-ideas a year and (2) focusing on hypothesis-driven innovation by both
-
-learning from individual experiments and learning across experiments
-
-to drive strategic choices on the basis of customer feedback. These two
-
-steps in tandem can prepare organizations to succeed in the age of AI by
-
-innovating and learning faster than their competitors do. (The opinions
-
-expressed in this article are ours and do not represent those of the
-
-companies we have mentioned.)
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+marketing, engineering, and operations teams—product managers,

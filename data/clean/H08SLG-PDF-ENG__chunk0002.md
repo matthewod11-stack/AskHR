@@ -1,11 +1,7 @@
-# Richard Ross/Getty Images
-
-Soren, an executive in charge of the archives at a global arts institution,
-
-was told that he needed to deliver immediate cost savings and
-
-that layoﬀs were likely. Rather than thinking narrowly and simply
-
-demanding budget cuts from his direct reports, Soren convened a
-
-meeting with his department to discuss the broader question of its
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 728d6abe27e491a46bf93bdacf3503c13891cc06
+title: H08SLG-PDF-ENG
+---
+## Published on HBR.org / July 1, 2025 / Reprint H08SLG

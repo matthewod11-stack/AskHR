@@ -1,21 +1,19 @@
-# without devices.
+---
+source_path: H08VQD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da611cfe03a43d565d77d263bc58cb4187208807
+title: H08VQD-PDF-ENG
+---
+## recipe for depression and anxiety and a sense of hollowness, which, by
 
-It’s probably been a long time since you’ve done that. Commute with
+the way, are all through the roof.
 
-nothing, not even the radio. Can you do that? Start getting better at
+I get it. You don’t want to be bored. You need to be bored. Be bored
 
-periods that are 15 minutes and longer of boredom, and watch your
+more. Tomorrow, when you go to the gym in the morning after you
 
-life change. Number one, you’ll be less bored with ordinary things in
+wake up, don’t take your phone. Can you handle it? Not listening to a
 
-your life. If you get better at the skill of boredom, you’ll be less bored
+podcast while you’re working out. Just being in your head. I promise
 
-with your job. You’ll be less bored with your relationships. You’ll be less
-
-bored with the things that are going on around you.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you, you’ll have your most interesting ideas while you’re working out

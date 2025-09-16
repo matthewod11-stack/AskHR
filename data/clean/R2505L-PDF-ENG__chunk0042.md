@@ -1,21 +1,13 @@
-## authority rather than just by the company itself.
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fafb4a3e63fa4fdadead70befdb845184a45ba63
+title: R2505L-PDF-ENG
+---
+## HBR / Magazine Article / How to Counter Fake News
 
-Going beyond traditional methods, Taco Bell’s then-CEO, Greg
+hard facts about the chain’s actual ingredient components to combat
 
-Creed, addressed concerns in a YouTube video, and employees
+the false narrative. It also leveraged third-party validation by the USDA,
 
-and franchise owners spoke directly to customers in local media
-
-interviews, reinforcing that the brand stood by its product. On social
-
-media, Taco Bell actively engaged customers, responding in real
-
-time to questions and encouraging satisﬁed consumers to share their
-
-experiences, creating a wave of organic social proof. The strategy
-
-worked. Negative online sentiment quickly declined, and within a
-
-few months, the lawsuit was withdrawn. When facing entirely false
-
-allegations, companies must not only correct the record but also
+ensuring that consumers saw the claim debunked by a recognized

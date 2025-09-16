@@ -1,15 +1,25 @@
-## Utilizing Balanced Benchmarking in Your Organization
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb3b73cf890f8d0d57aa10e2335805e2fe2cec71
+title: H07TEC-PDF-ENG
+---
+# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
 
-While the analytics underlying the balanced benchmarking approach
+See more HBR charts in Data & Visuals on HBR.org.
 
-are complex, utilizing this approach to assess performance in an
+In the example output above, Attorney 5 is performing the best relative
 
-organization is manageable thanks to the work of researchers in this
+to the other four attorneys. While Attorney 5 did not bill the most hours
 
-space. Here are several suggestions to help you get started.
+or receive the most fees for the ﬁrm, the combination of their lower
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+salary and fewer nonbilled hours (the model inputs) with their strong
 
-4
+outputs yielded the highest overall performance. At the other end of the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+spectrum, Attorney 2 has the most room for improvement, as we would
+
+expect them to be generating 16.77% more outputs (100% minus 83.23%)
+
+for their given inputs.

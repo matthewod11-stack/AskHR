@@ -1,11 +1,7 @@
-# Challenges and Opportunity
-
-Foster Alignment with Owners and a Long-Term Orientation When Traditional Equity Is Unavailable
-
-Norms for key aspects of executive compensation clearly exist, but as the data shows, they vary to some degree by industry, geography, and company size. In addition, under­ lying any norms are individual decisions and solutions tailored to company needs and strategies.
-
-At a private family business that wanted to strengthen the alignment between employees and the owners, the existing compensation program provided base salaries and annual incentives only and no long­term incentives. That reinforced short­term thinking, which conflicted with the risk­seeking entrepreneurial focus of the company’s founders. To remedy this, the compensation committee worked with management and family members to redesign the firm’s approach to pay. After considering phantom equity (which offers employ­
-
-ees the benefits of stock ownership without giving them company stock) and long­term­performance cash bonuses, the company settled on an economic­profit­sharing program. Each year the compensation committee looked at profits, subtracted the cost of capital, and put 20% of the resulting amount into a profit­sharing pool for employees. To lengthen the time horizon, the pool was not paid out in the year it was earned but instead was put into a “banking” system. Each participating employee had his or her own bank, and the annual contribution to it was based on a formula that allowed adjustments for performance. If the economic profit in a given year was negative, the bank’s balance would fall. If it was positive, the balance increased. Employees received
-
-In the immediate future, we expect business condi­ tions to remain uncertain and changeable, complicating the design of executive incentives. How this will all play out is anyone’s guess, but we know that employee health and safety have taken on new significance to virtually all companies. Enterprisewide liquidity also has new impor­ tance. In the past liquidity concerns arose primarily when external capital became scarce. Now they spring more from internal cash­flow issues. Liquidity and employee health are just two of the areas we expect incentive plans to start tying metrics to. Indeed, the current environment offers an opportunity to revisit plans with an eye toward incorporat­ ing measures that serve stakeholder interests in a broader and more meaningful way.
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 525b5bd9757daeb147105d81c79f8943e2e49ea3
+title: R2101J-PDF-ENG
+---
+# PRIMARY OBJECTIVE

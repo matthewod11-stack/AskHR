@@ -1,7 +1,9 @@
-# to-oﬃce (RTO) schedule.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e869249ee8e69fd69f72b010039a50ba6b03ba14
+title: H08H7H-PDF-ENG
+---
+## Walmart, Google, JP Morgan Chase, and Amazon have called employees
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+back into the oﬃce — some even mandating a ﬁve-day-a-week return-

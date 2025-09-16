@@ -1,9 +1,19 @@
-# Publications
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 605d3d95922c33a9f7a2722bad445e9d5734f7a0
+title: untitled
+---
+# The ﬁrst Chinese Department of Psychology was established at Nanking Normal School.
 
-Swiss publisher Bircher produced Hermann Rorschach’s Psychodiagnostik, describing the inkblot method of personality assessment. Seven other publishers had previously declined the manuscript and accompanying cards. Rorschach died 10 months later.
+Yugoslavia’s ﬁrst psychology institute was established at the University of Zagreb.
 
-The Chinese Psychological Society published the country’s ﬁrst psychological journal, Psychology.
+The ﬁrst Finnish Institute of Psychology was founded at the University of Turku.
 
-Psychological Abstracts was ﬁrst published under the auspice of APA.
+Uruguay’s ﬁrst psychology chair was established at the Institutos Normales de Montevideo.
 
-The University of Buenos Aires Faculty of Philosophy and letters introduced the ﬁrst Latin American journal, Anales del Institute de Psicologia.
+The ﬁrst Greek psychology laboratory was established at the University of Athens.
+
+China’s ﬁrst psychology laboratory was established at Beijing University.
+
+Ivan Pavlov addressed the 9th International Congress of Psychology in New Haven. For the ﬁrst and only time, APA canceled its annual convention to encourage its members’participation at the Congress.

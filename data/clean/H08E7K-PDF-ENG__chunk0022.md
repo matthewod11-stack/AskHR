@@ -1,13 +1,15 @@
-## for retention. In the late-nineteenth century, German psychologist
+---
+source_path: H08E7K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb0ca2251632f30886ac4a83092bd29aad068e88
+title: H08E7K-PDF-ENG
+---
+## HBR / Digital Article / How to Keep Learning at Work — Even When You Feel Fried
 
-Hermann Ebbinghaus described the “forgetting curve” to explain how
+the new information. But what good is the content if your brain
 
-fast people forget things they’ve learned. While factors like rest and
+struggles to retain it?
 
-relative complexity of the topic aﬀect how well we retain information,
+Another important way to make learning eﬀective while depleted
 
-we still tend to forget things rapidly. Within a day, you only remember
-
-half of what was presented, and after a week, only about 10% of it,
-
-making any lasting learning journey a literal ﬁght against time for your
+is to design an approach that follows your brain’s preferences

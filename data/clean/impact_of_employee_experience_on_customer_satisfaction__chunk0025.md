@@ -1,13 +1,17 @@
-## relationship between the employee experience and employee engagement and why
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: eb8d2c36d168d8be3d8d4bf66c2415365987d32b
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+## experience and play significant role in employee and customer satisfaction
 
-they are both very important. The author of this document is mainly inspired by Jacob
+▪ Based on historical, national, or cultural differences between the United
 
-Morgan, a well-known speaker, and futurist, 4x best-selling author who researches
+States, Europe, and Asia, significant differences are expected in the impact of
 
-employee experience and explores how the workplace is changing. The Master
+employee experience in selected regions.
 
-Thesis research topic is further developed in next section where the research
+The theoretical part of this master thesis defines the employee experience and how it
 
-approach is defined and working methods are described and explained including an
-
-explanation of the data used. The empirical research results are presented in next
+impacts the customer experience and business outcomes. In addition, it explains the

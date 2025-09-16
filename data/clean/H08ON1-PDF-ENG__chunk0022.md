@@ -1,13 +1,19 @@
-## highly innovative start-up, our client’s conversations with leaders of the
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 123a7511898c4580a05b712fdb0f3865c91c156b
+title: H08ON1-PDF-ENG
+---
+# the results of the culture assessment.
 
-acquired company revealed diﬀerences in the ﬁrms’ decision-making
+Include ways to address the potential areas of defensiveness or
 
-strategies. Our client’s objective was to assimilate the acquired ﬁrm into
+resistance to the acquiring ﬁrm and its culture that you identiﬁed.
 
-its culture, and that meant helping the acquired employees become
+Most often, this requires your organization to communicate and sell the
 
-more deliberate in their decision-making. Instead of simply imposing
+“why” behind your approach in a way that resonates with the employees
 
-new processes without discussion, our client acknowledged the
+of the acquired company.
 
-diﬀerences between the companies and communicated the rationale for
+When one of our clients—a large, multinational ﬁrm—acquired a small,

@@ -1,15 +1,7 @@
-## Part I • Strategic and General Considerations
-
-Alexandria, Virginia, uses a job analysis questionnaire available at http://alexandriava .gov/class_comp/job_analysis.html. This instrument does not include multiple-choice questions. Instead, employees answer more general questions about their jobs together with the allocation of the percentage of time employees spend performing each duty. In addition, respondents are encouraged to attach forms, work schedules, reports, memoranda, and other materials that may help explain the responses provided. Conducting a Google search for the phrase “job analysis questionnaire” leads to several other instruments. Be aware that some of these instruments may have been created for specific types of jobs and industries (e.g., service jobs, nonsupervisory jobs). Make sure you check the suitability of the instrument before using it in a different organizational context. Combining items and formats from various instruments already available may be the most effective way to proceed.
-
-An important component of a good job analysis is rater training. In other words, there are several biases that can affect the accuracy of the information provided by individuals regarding KSAs needed for a job.6 Consider the following biasing factors:
-
-- 1. Self-serving bias: This bias leads people to report that their own behaviors and personality traits are more needed for successful job performance compared to behaviors and personality traits of others. This is because people tend to attribute success to themselves and failure to external causes (i.e., factors outside of their control).
-
-- 2. Social projection and false consensus bias: Social projection bias leads people to believe that others behave similarly to themselves and, hence, lead people to think about themselves when reporting KSAs for their job instead of people in general. False consensus bias is similar in that it leads people to believe that others share the same beliefs and attitudes as themselves.
-
-Taken together, self-serving, social projection, and false consensus biases affect job analysis ratings because they lead people to believe that their own KSAs are those driving success on their jobs. So, these lead to an exaggerated view regarding the KSAs needed—and this exaggeration is based on precisely the KSAs that job incumbents have.
-
-How do we address these biases? A recent experimental study involving two independent samples of 96 administrative support assistants and 95 supervisors working for a large city government implemented a successful Web-based training program that succeeded in mitigating these biases.7 Specifically, across the five job characteristics rated in that study, individuals who did not participate in the Web-based training program were 62% (administrative support assistants) and 68% (supervisors) more likely to provide a higher rating than if the same individual provided the job analysis ratings after participating in the training program. The Web-based training program, which takes about 15 minutes to administer, provides a common frame of reference for all raters and includes the following five steps:
-
-- 1. provide raters with a definition of each rating dimension 2. define the scale anchors 3. describe what behaviors were indicative of each dimension 4. allow raters to practice their rating skills, and 5. provide feedback on the practice
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: ee108950da88763bddf7849034fe444c97447157
+title: performance_management_3rd_edition_by_aguinis
+---
+# 42

@@ -1,5 +1,11 @@
-# various technologies, such as wearables
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2b85f8c0d0f4d5c24d881ff82edac4bded1cd84
+title: F2505A-PDF-ENG
+---
+# Innovation Lab?
 
-and immersive media. Our business model
+Initially, we focused on evaluating and
 
-revolved around offering memberships
+teaching sports organizations about

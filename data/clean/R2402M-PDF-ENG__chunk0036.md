@@ -1,13 +1,27 @@
-# preliminary support.
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f0c9a778fedfe7fd55c754094d91f8c9635c1f6
+title: R2402M-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: Navigating Labor Unrest
 
-Positive oﬀers will be more eﬀective than threats, but Paulo can
+The Experts Respond: Should Paulo offer further concessions or threaten to close the plant?
 
-subtly introduce the possibility that the plant could become a
+Larry Cohen is the former president of the labor union Communications Workers of America.
 
-distribution center. Lucia, with her experience, will undoubtedly grasp
+Paulo can pull oﬀ his plan to save the plant, but
 
-the implications. When plants turn into parts centers, as many have in
+only with Lucia’s partnership. The cornerstone of
 
-the United States, there are signiﬁcant job losses.
+any labor negotiation is job security. While pay and
 
-However, he faces another challenge: his own bosses. In my
+beneﬁts are signiﬁcant, they are secondary. Paulo’s
+
+expansion plan promises not only employment
+
+stability but also employment growth. He must communicate that
+
+clearly, stressing that while he can’t make guarantees because of his
+
+dependence on investment from headquarters, he has management’s

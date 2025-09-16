@@ -1,11 +1,39 @@
-## anti-harassment policies and complaint procedures as suﬃcient for
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 036e8b8d7d5456fce4f3c8d05a0f0f09a1dd9fd2
+title: H04HPZ-PDF-ENG
+---
+# HBR / Digital Article / How HR and Judges Made It Almost Impossible for Victims of Se…
 
-employers to avoid liability, even where there is substantial evidence
+Consider the case of Leopold v. Baccarat, Inc., decided by a federal
 
-that harassment occurred. In order to understand why this happened,
+trial court in New York in 2000 and aﬃrmed by a federal appeals
 
-and is continuing to happen, it’s important to ﬁrst understand the
+court in 2001. Andree Leopold, a saleswoman, sued after her supervisor
 
-history of anti-discrimination law and how companies responded to it.
+repeatedly threatened to replace her with someone “young and sexy”
 
-In many ways, the current state of court decisions begins in a familiar
+and referred to saleswomen using vulgar, dismissive language. Baccarat,
+
+the employer, pointed to its policy against harassment and its grievance
+
+procedure as evidence of fair treatment. Leopold claimed that she did
+
+not use the complaint procedure because it would have required her
+
+to report the harassment to her immediate supervisor — the person she
+
+was accusing of harassment. The policy also lacked a guarantee that she
+
+would be protected from retaliation. The court ruled in favor of Baccarat
+
+anyway, recognizing that the procedure was inadequate in some ways
+
+but nonetheless stating that “the law is very clear that any reasonable
+
+policy will do.”
+
+This is just one example. But analyses of a half-century of judicial
+
+opinions tell a story of judges who increasingly view the presence of

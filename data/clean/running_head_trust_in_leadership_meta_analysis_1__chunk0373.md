@@ -1,21 +1,27 @@
-# Individualised Consideration
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: eeb9d62f1f9fbfba42c404782edd77654b12a01d
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Idealised Influence
 
-4
+6
 
-945
+1235
 
-.55
+.65
 
-.39
+.59
 
-.70
+.71
 
-.66
+.75
 
-.19
+.08
 
-7.76
+26.12
 
-.42
+.65
 
-.90
+.85

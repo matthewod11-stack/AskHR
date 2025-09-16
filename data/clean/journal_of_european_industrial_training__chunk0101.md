@@ -1,17 +1,15 @@
-## Druskat, V. and Wolff, S. (1999), ``Effects and
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 13259731882f7e19166b31bc930be6d7919e8e49
+title: journal_of_european_industrial_training
+---
+## DeNisi, A. and Kluger, A. (2000), ``Feedback
 
-timing of developmental peer appraisals in self-managing work groups'', Journal of Applied Psychology, Vol. 84 No. 1, February, pp. 58-74.
+effectiveness: can 360-degree appraisals be improved?'', Academy of Management Executive, Vol. 14 No. 1, pp. 129-39.
 
-Edwards, M. and Ewen, A. (1996), 3608 Feedback:
+Dominick, P., Reilly, R. and McGourty, J. (1997), ``The effects of peer feedback on team member behavior'', Group and Organization Management, Vol. 22 No. 4, December, pp. 508-20.
 
-The Powerful New Model for Employee Assessment and Performance Improvement, AMACOM, New York, NY.
+Downey, R., Medland, F. and Yates, L. (1976),
 
-Farh, J. and Werbel, J. (1986), ``Effects of purpose of the appraisal and expectation of validation on self-appraisal leniency'', Journal of Applied Psychology, Vol. 71 No. 3, June, pp. 527-9.
-
-Farh, J., Cannella, A. and Bedeian, A. (1991),
-
-``Peer ratings: the impact of purpose on rating
-
-quality and user acceptance'', Group and Organization Studies, Vol. 16 No. 4, December, pp. 367-86.
-
-Farh, J., Werbel, J. and Bedeian, A. (1988), ``An empirical investigation of self-appraisal- based evaluation'', Personnel Psychology, Vol. 41, pp. 141-56.
+``Evaluation of a peer rating system for predicting subsequent promotion of senior military officers'', Journal of Applied Psychology, Vol. 61, pp. 206-09.

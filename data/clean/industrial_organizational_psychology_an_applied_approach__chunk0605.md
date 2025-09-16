@@ -1,15 +1,21 @@
-# Machinist
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 48755411d6da77cf9cabbdfacf494a59291213b6
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Foreperson
 
-9
+18
 
-419
+286
 
-13.83
+18.85
 
-9.00
+9.50
 
-11.63
+13.24
 
-14.67
+16.45
 
-15.36
+20.10

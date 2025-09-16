@@ -1,5 +1,13 @@
-# HBR / Spotlight / New Rules for Teamwork
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8107d6bfc1ed4b231edc353e29d51d2c108e1f01
+title: S24051-PDF-ENG
+---
+# and success.
 
-Editor’s note: This article, published in September 2024, references the fact that no U.S. commercial airline carrier has had a fatal crash since 2009. This was true at the time of publication, but on January 29, 2025, an American Airlines flight was involved in a fatal collision with a military helicopter over Washington, DC.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-A version of this article appeared in the September–October 2024 issue of Harvard Business Review.
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

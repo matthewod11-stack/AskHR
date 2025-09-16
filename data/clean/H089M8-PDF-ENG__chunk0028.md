@@ -1,9 +1,9 @@
-# ES
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c226109b90dc82587556d97fcc59bc8b11f90169
+title: H089M8-PDF-ENG
+---
+# SG
 
-Esther Sackett is an Assistant Professor of Management at the Leavey School of Business at Santa Clara University.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Steven Gray is an Assistant Professor of Management at the McCombs School of Business at the University of Texas at Austin.

@@ -1,23 +1,31 @@
-## HBR / Digital Article / When “Yes, and…” Backfires
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d4e1da625ba9909587100001385f16656594424
+title: H08UTW-PDF-ENG
+---
+## (the letter of the law, but not the spirit)
 
-If you feel a blocking phrase coming on, stop and think: “What am I
+- “No” (when it shuts down the person and the idea without
 
-really trying to achieve here?” The honest answer is often about control:
+explanation; especially damaging when interrupting the speaker)
 
-consciously or unconsciously keeping the discussion on familiar ground
+- “That’s not valid” or “That doesn’t apply here” (dismisses the value of
 
-or protecting your own idea. That impulse usually surfaces in quick,
+the other person’s idea or denies their experience)
 
-dismissive phrases like “That isn’t valid” or “That doesn’t apply here.”
+How to avoid this mistake:
 
-Try to catch yourself before those words slip out and let the
+“Yes” shouldn’t become a polite preface for shutting down an idea (“yes,
 
-conversation breathe instead. When someone hears their idea waved
+but…”) or pushing your own agenda (“yes, or…”). Similarly, don’t use
 
-away, they’re likely to feel belittled, unvalued, and will think twice
+“yes, and…” if you’re just paying lip service to the concept. Speaking the words without a genuine intent to aﬃrm and engage with other’s ideas
 
-before participating again—especially if they’re new. This is dangerous
+rings hollow—and worse, can come across as manipulative.
 
-territory because leaders need to hear from the very team members
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-whose experiences are unique and may spark innovation to solve
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

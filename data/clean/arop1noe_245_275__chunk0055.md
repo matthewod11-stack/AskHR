@@ -1,21 +1,9 @@
-## Self-Regulation and Self-Directed Learning
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 57a77a1c755254edb4a08001de1f59585d3a4ba7
+title: arop1noe_245_275
+---
+# Evolution of Learning Design
 
-Self-regulated learning is the amalgamation of affective, cognitive, and behavioral processes during learning, in an effort to reach a desired goal (Sitzmann & Ely 2011). Regulatory mecha- nisms used during self-regulated learning include planning, monitoring, metacognition, attention, persistence, and time management. Alignment of learner goals with learning objectives, learner perceptions that goals are attainable, and maintenance of learner motivation are important for both self-regulation of goals and self-directed learning. Self-regulation failure in the form of either goal abandonment or goal switching may result if goals are misaligned or deemed unattainable or if learner motivation is low (Schunk & Zimmerman 2012). Goal abandonment has been in- vestigated as a cause of attrition from voluntary online training. Sitzmann (2012) found that the self-regulatory process fully mediated the relationship between conscientiousness and attrition from training. Conscientiousness moderated the effects of commitment and self-efficacy on at- trition. That is, a high level of conscientiousness seemed to serve as a buffer against learners dropping out of training, especially for those who were less committed or less confident. Inter- ventions in which learners are reminded of self-regulation appear to help them effectively manage their time during training and to counteract attrition, a common disadvantage of volitional online learning (Sitzmann et al. 2009, Sitzmann & Ely 2010).
-
-Self-directed learning may occur formally or informally, online, or in the context of social learning. Self-directed learning has been discussed in the literature for decades, but research on its
-
-www.annualreviews.org (cid:1) Learning in Today’s Workplace
-
-Instructional system design (ISD): a systematic step-by- step approach for designing training and development programs
-
-Transfer of training: the use of learned knowledge, skills, and abilities on the job
-
-Self-directed learning: learners’ active and volitional approach to conceptualize, design, conduct, and evaluate a learning project
-
-249
-
-6 2
-
-: 5 2 : 4 0
-
-5 2 0 2
+The most prevalent instructional system design (ISD) model takes a systematic approach for designing learning, including conducting a needs assessment, identifying training objectives and evaluation criteria, creating a learning environment, and insuring transfer of training and eval- uation (Gagne 1992). The ISD model has been invaluable for both practitioners and academics by servingasanorganizing frameworkforidentifying gapsintraininganddevelopment researchand stimulating the study of academically and practically significant research questions (Salas & Cannon-Bowers 2001). However, the ISD model needs to be adapted to fit the emerging emphasis on person-centered rather than instructor-centered learning, particularly for technology-based learning methods. For example, the active-learning model is composed of three primary design elements—exploratory learning, error-encouragement framing, and emotional control—that alongwithseveralindividualdifferences(cognitiveability,traitlearninggoalorientation,andtrait anxiety) influence the cognitive, motivational, and emotional processes during learning and thus the transfer of trained skills (Bell & Kozlowski 2008). The third-generation learning model incorporates the components of the active-learning model yet places an emphasis on social in- teraction, particularly as it occurs in an online learning environment (Kraiger 2008a,b). Inherent in the third-generation model is the assumption that knowledge is socially constructed with shared meaning based on instructor–learner interactions and learner–learner interactions. The implications of active-learning and third-generation models are that learning design needs to (a) focus on creating conditions in which the learner is both actively participating and socially embedded with other learners and the instructor, (b) define broad content areas to allow the learner choice in what to learn, and (c) create instructional strategies to facilitate collaborative learning. The principles of active-learning and third-generation instructional design have stimulatedresearch on the learningprocesses and learningmethods, asdiscussed below. Table 2 highlights current trends in the form and design of learning and their implications for research and practice.

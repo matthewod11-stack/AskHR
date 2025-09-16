@@ -1,17 +1,17 @@
-# with people directly.
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 798e58c10bac614c2fcc8b9d9092f2cda68a5491
+title: H082MI-PDF-ENG
+---
+# Relationships with remote work
 
-- 2. How long have they worked remotely? They may have learned
+Lastly, reﬂect on each of your employees’ relationship with remote
 
-examples of what does and doesn’t work well for them as a remote
+work. Speciﬁcally, ask yourself:
 
-worker. By sharing these examples, the team can build a greater sense
+- 1. What may make remote work challenging for them? They may
 
-of shared support.
+identify as having an extroverted personality or a small social circle,
 
-- 3. Have they worked at more than three remote companies? Being able to compare what it’s like to work at diﬀerent remote companies may oﬀer good/better/best insights for strategic planning and assist you in your community-building eﬀorts.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+so work has typically provided an opportunity for them to connect

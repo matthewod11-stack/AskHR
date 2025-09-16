@@ -1,37 +1,13 @@
-## HBR / Digital Article / Help Your Employees Develop the Skills They Really Need
+---
+source_path: H07T9G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba601b67e3c70c65bde5a026a1f9a887007e9446
+title: H07T9G-PDF-ENG
+---
+# and development programs this year.
 
-Yet we need to do better. We know that, after decades of trying,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-skills related to lean manufacturing, agile development and overcoming
+1
 
-unconscious bias, just to name a few, are woefully under-adopted in
-
-most organizations. In fact, a recent report by McKinsey found that 87%
-
-of ﬁrms surveyed expect to have a skills gap in the next ﬁve years.
-
-More training is not the answer. We can’t simply send employees
-
-to workshops focused on whatever proﬁciency is fashionable at the
-
-moment and expect to get results. What is essential is to build coherent
-
-skills-based strategies. We must think seriously about which speciﬁc
-
-skills are to be targeted, who has to learn them, and what mix of
-
-education, experience, and exposure will be eﬀective to create the skills-
-
-based organizations we need to meet the challenges of the future.
-
-For example, at the software company PKWARE, where Todd was
-
-executive vice president, the company invested more than 1% of
-
-revenues on sales training focused on aligning the team around a
-
-particular process. While the staﬀ was educated, it failed to yield the
-
-expected impact because the employees weren’t consistently getting the
-
-mentoring and real-time coaching they needed to sustain the initial
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

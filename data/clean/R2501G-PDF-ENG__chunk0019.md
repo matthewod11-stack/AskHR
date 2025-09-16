@@ -1,23 +1,25 @@
-## HBR / Magazine Article / Want Your Company to Get Better at Experimentation?
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b37ec752b319921e1311882591a4fad31e34b83d
+title: R2501G-PDF-ENG
+---
+# Jamie Chung/Trunk Archive
 
-increasing the size of product teams so as to run more experiments
+never synthesized to identify patterns and
 
-and more easily prioritize which ideas to test; hiring additional data
+generalizable lessons; nor are they
 
-scientists to analyze the increased number of tests and reduce the time
+archived in a standardized fashion. As a result, it’s not uncommon for diﬀerent teams (or even the same team after its members have turned
 
-needed to execute on them; and instigating more knowledge-sharing
+over) to repeatedly test an unsuccessful idea.
 
-meetings for the dissemination of results. In our experience, however,
+Looking to increase the adoption of and returns from experimentation,
 
-those tactics are unsuccessful. Managers struggle to identify which tests
+data science and product leaders tend to focus on incremental changes:
 
-will lead to a meaningful impact; hiring more data scientists provides
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-only a marginal increase in experimentation capacity; and knowledge-
+4
 
-sharing meetings don’t create institutional knowledge. These tactics
-
-may appear sensible, but they end up limiting the adoption of
-
-experimentation because the processes they establish don’t scale up.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

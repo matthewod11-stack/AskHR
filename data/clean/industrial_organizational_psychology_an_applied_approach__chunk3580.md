@@ -1,5 +1,7 @@
-# Stress Sensitization
-
-The amount of stress you have experienced throughout your life seems to affect how you will handle future stress. For instance, if you are exposed to high levels of stress (such as abuse) over a long duration, studies suggest that you are likely to react more quickly and more negatively to situations that are potentially stress producing because, in a sense, you have become “trained” to respond in such a way. That is, if you are used to being jumpy because of the stress you experienced earlier in your life, you are more likely to react that way with future stress. This, of course, has implications for your future health and your stress behaviors. Desen- sitization can occur through learning new behaviors to handle stress and working through your feelings about past stress.
-
-Many events and factors could be considered stressors, and, as previously stated, what is stressful for one person may not be for another. Again, what determines whether something will be a stressor depends a great deal on its importance and the amount of perceived controllability. Stressors can be grouped under two broad categories: personal and occupational. Figure . lists common personal and occupational sources of stress.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8c1b4c5be9d635b6afa887cc5d41779bfac4f4f3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Figure 15.2 Common stressors

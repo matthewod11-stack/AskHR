@@ -1,51 +1,13 @@
-## HBR / Digital Article / 7 Strategies to Break Down Silos in Big Meetings
+---
+source_path: H06GCB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20355dc072a487e808b974d378f4e5d5f5535c65
+title: H06GCB-PDF-ENG
+---
+## from bland: the lack of collaboration between siloes.
 
-It’s very common for representatives of diﬀerent disciplines to continue
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-to operate in their own compartments instead of contributing to a
+1
 
-cohesive purpose and team. In fact, siloes have only gotten more
-
-prominent since the pandemic began, as the circles we collaborate
-
-with have gotten smaller. And this becomes that much more noticeable
-
-in cross-departmental meetings, where each person focuses on their
-
-own priorities, showing little to no interest in others in the room. In
-
-response, the manager of the overall group tends to become the hardest
-
-working person in the meeting, with others only pulling themselves
-
-out of email to present their respective updates, then disengaging again
-
-when their turn is complete.
-
-This is exactly what was happening to one of my clients, Shanna.
-
-Shanna led a cross-functional team and was struggling to get team
-
-leaders coordinated. During meetings, people would nod in agreement,
-
-but then afterward, nothing would actually get done. Frustrated at
-
-the lack of progress, Shanna asked me to observe her team in action.
-
-She couldn’t understand how to garner commitment when everyone
-
-acted superﬁcially amenable. I noticed in her meetings that Shanna was
-
-carrying all the weight. She asked for discussion items but when no
-
-one responded, she created an agenda all on her own. When others
-
-presented, she invited people to ask questions but, when met with
-
-silence, she’d jump in. It seemed like her team had an unspoken pact,
-
-“Don’t poke around in my business, and I will return the favor.”
-
-Shanna’s problem is not uncommon. To create a coordinated team
-
-from a collection of siloed individuals, you need to generate “cross
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

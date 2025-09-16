@@ -1,13 +1,19 @@
-## HBR / Digital Article / 3 Ways to Mitigate Executive Turnover
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7127f757786e6fa4883a6e1cdbb08241c40cf75
+title: H08TM9-PDF-ENG
+---
+# 10 surveyed factors.
 
-survey), misaligned organizational culture (ranked 2nd), higher
+Today, we’re seeing many executives are simply looking for new
 
-compensation (ranked 3rd), and lack of job satisfaction (ranked 4th),
+challenges. Overall, executives cite growth-based concerns, including
 
-as reasons for leaving their current role.
+career advancement opportunities (ranked 1st in the October 2024
 
-To head oﬀ potential turnover, organizations must accurately diagnose
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the source of executives’ dissatisfaction. This is best accomplished by
+2
 
-having the CHRO partner with the CEO to understand what is going
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

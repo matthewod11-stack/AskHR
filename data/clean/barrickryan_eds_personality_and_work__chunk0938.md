@@ -1,19 +1,17 @@
-# 346 NAME INDEX
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a0410ca8c920ce02483ff6829d0c6a78ab7134f8
+title: barrickryan_eds_personality_and_work
+---
+# Astin, A. W., 12 Austin, J. T., 64
 
-Bauer, T. N., 234 Baughman, W. A., 96 Baumeister, R. F., 158 Beaty, J. C., 111 Beck, L., 160 Bedeian, A. G., 267 Beehr, T. A., 263 Begg, A. E., 140 Ben-Shakhar, G., 232 Benet, M., 46 Bennett, R. J., 152 Bennett, W., 99 Berger, J., 196 Berscheid, E., 206, 224 Bettenhausen, K. L., 190 Biek, B., 279 Black, S. A., 44 Blake, R., 330 Blau, P. M., 207 Bleier, A., 92 Bless, H., 46, 47 Bliese, P. D., 127 Block, J., 14, 86, 131 Bluen, S. D., 127 Bodenhausen, G. V., 47 Bohle, P., 128, 129 Bohner, G., 46 Boies, K., 7, 8, 10 Boko, P., 73 Boles, T. L., 303 Bolger, N., 173 Bolino, M. C., 219 Bono, J. E., 30, 33, 103, 298, 303,
+B Bachrach, D. G., 90 Bailey, D. E., 296, 305 Bakan, D., 8, 329 Baker, K. H., 43 Baldwin, T. T., 234, 245 Bandura, A., 60 Banholzer, E., 174 Bannister, B. D., 171 Barbanelli, C., 8 Barenbaum, N. B., 157 Barker, J. R., 186, 190 Barling, J., 127, 153 Baron, J. N., 213 Baron, R. A., 31, 41, 42, 47, 220 Baron, R. M., 71 Barrick, M. R., xii, 11, 38, 50, 60, 61, 63, 64, 66, 67, 68, 69, 71, 72, 73, 74, 84, 85, 98, 103, 104, 105, 136, 154, 183, 184, 186, 189, 192, 193, 194, 195, 196, 197, 230, 237, 262, 270, 271, 279, 291, 293, 294, 303, 304, 305, 306, 309, 326, 329, 334, 337
+
+Barrios, B. A., 243, 247 Barron, K. E., 253 Barry, B., 39, 184, 194, 201, 304, 305,
 
 309
 
-Borgen, F. H., 301 Borkenau, P., 279 Borman, W. C., 89, 90, 92, 93, 96, 98,
+Barsade, S. G., 31 Bassi, L. J., 231, 254 Bateman, T. S., 298
 
-103, 290, 292, 293, 294
-
-Borman, W. E., 153 Bott, E., 206, 211 Boudreau, L. A., 71 Brass, D. J., 211, 214, 215, 216, 217,
-
-218, 219, 220 Brayﬁeld, A. H., 30 Bretz, R. D., 263, 264, 269
-
-Bridges, M. W., 44 Brief, A. P., 31, 33, 38, 42, 89, 127,
-
-128, 166, 167, 170
-
-Briggs, S., 14, 310 Brockner, J., 139 Bromet, E. J., 169 Brophy, J., 245 Brotheridge, C. M., 77, 302 Brown, K. G., 230, 251 Brush, D. H., 92, 93 Bryant, F. B., 137 Brymer, R. A., 265 Buck, D. E., 90, 93 Bunce, D., 230 Burger, J. M., 39 Burke, L. A., 111 Burke, M. J., 128 Burns, W., 127 Burt, R. S., 212, 213, 216 Buss, D. M., 34 Butcher, A. H., 127, 167 Button, S. B., 246
+345

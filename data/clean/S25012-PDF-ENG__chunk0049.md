@@ -1,5 +1,29 @@
-## HBR / Spotlight / The Secret to Successful AI-Driven Process Redesign
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 96b83a2dcbf6463e70494cdc4278b7903d725271
+title: S25012-PDF-ENG
+---
+# their goals.
 
-order, and set up their home security systems. Toyota is developing
+Long-term memory and reﬂection. AI agents draw on past interactions
 
-robot agents that could act as caregivers for elderly people or operate
+to better understand intention and context. They learn from their
+
+experience to get better at their jobs.
+
+Across industries, many companies are now deploying AI assistants or
+
+agents with varying degrees of autonomy. Walmart uses them to help
+
+manage inventory. At Marriott International, they optimize booking
+
+processes. At Nestlé, they improve supply chain processes. ADT is
+
+building an agent that will help its millions of customers select,
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+10
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

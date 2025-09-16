@@ -1,21 +1,15 @@
-## coach and former Wall Street leadership and talent executive.
+---
+source_path: H085Q9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c3eb0072606e3df33276b0cec139f07428f41ed
+title: H085Q9-PDF-ENG
+---
+## HBR / Digital Article / 6 Mistakes Leaders Make When Announcing Layoffs
 
-For organizations facing down this situation, how should reductions in
+Layoﬀs are trauma-inducing for an organization and its employees.
 
-force be communicated to employees? What’s a “great place to work”
+When handled badly, some people (and organizations) never fully
 
-to do? In my experience as a former CHRO, attorney, and now as an
+recover. “When the next cycle of hiring comes around, the talent you
 
-executive coach, I’ve seen six common mistakes leaders make when communicating layoﬀs.
-
-They’re not transparent about the state of the business.
-
-In good or bad times, the best companies proactively ensure employees
-
-are routinely educated on the state of the business. They invite
-
-employees to listen in on investor calls, host quarterly town halls, or
-
-send regular “state of the business” emails that inform everyone about
-
-major customer wins or losses, the acquisition or sale of a business, and
+pursue will judge your company by the reputation it earned in this round of layoﬀs,” advises Evelyn Rodstein, Manhattan-based executive

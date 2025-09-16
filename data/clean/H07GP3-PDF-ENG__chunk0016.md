@@ -1,15 +1,35 @@
-# on the cap table.
+---
+source_path: H07GP3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79f041daa1e32c8d5e93ff23718959f28b39165f
+title: H07GP3-PDF-ENG
+---
+# HBR / Digital Article / For Female Founders, Fundraising Only from Female VCs Come…
 
-Similarly, while VC ﬁrms may encourage their female investors to
+Of course, as with any systemic inequity, it’s on those who’ve already
 
-identify and champion female entrepreneurs (perhaps even driven by
+made it into positions of power to address bias and ensure founders
 
-a desire to support women-led startups), this responsibility should
+are evaluated fairly. In particular, VCs have a responsibility to rethink
 
-not rest solely on female VCs’ shoulders. Ultimately, both investors
+how they evaluate investment opportunities and ensure that business
 
-and founders will beneﬁt if male VCs work alongside their female
+metrics rather than implicit biases guide early-stage funding decisions.
 
-counterparts to proactively support women-led startups — and do what
+But for female founders faced with fundraising in today’s imperfect
 
-they can to ensure that the next generation of unicorns is a little more
+world, our research suggests that it may be worth the extra eﬀort up
+
+front to cast a wider net and try to recruit a diverse team of VCs
+
+in the ﬁrst round. Indeed, beyond the eﬀects on future fundraising,
+
+prior research suggests that mixed-gender coalitions tend to outperform
+
+single-gender ones in advocating for gender equity. While there are
+
+legitimate reasons why female founders may both have an easier time
+
+attracting female VCs and reap more beneﬁts from those relationships,
+
+there is also a lot to be gained by ensuring a diverse set of perspectives

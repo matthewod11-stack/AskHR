@@ -1,1 +1,19 @@
-## (https://www.dol.gov/whd/regs/compliance/posters/MinWageHmong.pdf)
+---
+source_path: Employment Law Guide - Child Labor Protections (Nonagricultural Work).md
+pages: n/a-n/a
+chunk_id: 2d3e75dacd3fc5f5d57744b193b486eee5ce2d2f
+title: Employment Law Guide - Child Labor Protections (Nonagricultural Work)
+---
+## Recordkeeping, Reporting, Notices and Posters
+
+Every employer of employees subject to the FLSA's minimum wage provisions must post, and keep posted, a
+
+notice(https://www.dol.gov/whd/regs/compliance/posters/ﬂsa.htm) explaining the Act in a conspicuous place in all of their establishments. Although there is no size requirement for the poster, employees must be able to
+
+readily read it. The FLSA poster is also available in
+
+Spanish(https://www.dol.gov/whd/regs/compliance/posters/ﬂsaspan.htm),
+
+Chinese(https://www.dol.gov/whd/regs/compliance/posters/minwagecn.pdf),
+
+Russian(https://www.dol.gov/whd/regs/compliance/posters/FLSAPosterRuss.pdf), Thai, (https://www.dol.gov/whd/regs/compliance/posters/MinWageThai.pdf) Hmong,

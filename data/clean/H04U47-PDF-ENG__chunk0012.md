@@ -1,23 +1,15 @@
-## conclusions. But a recent replication of Schlenker & Leary’s 1982 study
+---
+source_path: H04U47-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92ce04ee02a6037a64e1f0af3d604a06775c2adb
+title: H04U47-PDF-ENG
+---
+## HBR / Digital Article / To Seem More Competent, Be More Confident
 
-supported those original ﬁndings. This found that projecting conﬁdence
+lead you to be perceived as distinctly less competent — no matter how
 
-does lead to positive eﬀects, but only when it is non-comparative. In
+well you actually perform.
 
-other words: praising your competence seems to be ﬁne as long as you
+Over the last few decades, researchers have scrutinized the eﬀects of
 
-do not claim that others are incompetent.
-
-But why do people view conﬁdent others as more competent, even
-
-when their performance suggests otherwise? One explanation is that
-
-we have a tendency to believe what we are told, and to conﬁrm our
-
-beliefs by selecting information that supports them. The term for this
-
-is conﬁrmation bias. So if you project conﬁdence, others tend to believe
-
-you know what you’re talking about, and they will then ﬁlter ambiguous
-
-information (like how much luck may have helped or hurt you) to ﬁt
+projecting conﬁdence versus modesty, gathering rather contradictory

@@ -1,9 +1,21 @@
-# Press.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 4a783ad041df27f322976ff89b495921527c179f
+title: file_1
+---
+# Basingstoke: Palgrave Macmillan.
 
-Davis, N. and R. Robinson, 1991. Men’s and Women’s consciousness of gender inequality:
+Barron, L., 2003. Ask and you shall receive? Gender differences in negotiators’ beliefs about
 
-Austria, West Germany, Great Britain and the United States. American Sociological Review, 56 (1), 72-84.
+requests for higher salary. Human Relations, 56 (6), 635-662.
 
-Durbin, S. and S. Fleetwood, 2010. Gender inequality in employment: Editors’ introduction. Equality, Diversity and Inclusion: An International Journal, 29 (3), 221-238.
+Borchorst, A. and B., Siim, 2008. Woman-friendly Policies and State Feminism: Theorizing
 
-Ely, R., 1995. The Power in Demography: Women’s Social Constructions of Gender Identity
+Scandinavian Gender Equality. Feminist Theory, 9 (26), 207-224.
+
+Carlson, D. and J., Grzywacz, 2008. Reflections and Future Directions on Measurement. In K. Korabik, D. Lero and D. Whitehead, eds, Handbook of work-family integration: research, theory and best practices. San Diego, CA: Elsevier Inc.
+
+Crompton, R. and M. Mann, 1986. Gender and Stratification. Cambridge: Polity Press.
+
+Crosby, F., 1982. Relative Deprivation and Working Women. New York: Oxford University

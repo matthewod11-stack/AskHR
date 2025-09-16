@@ -1,13 +1,9 @@
-## and world documentaries, and more avant-garde categories, like
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f019c41476fbcb4cad7175df54e301cc3a7b80d
+title: H08COG-PDF-ENG
+---
+## the Sundance Film Festival from 2015 to 2022. Sundance helpfully
 
-their “NEXT” grouping for ﬁlms that use innovative storytelling
-
-methods, and the “Midnight” group, which features ﬁlms that “defy
-
-categorization.” We reviewed audience rankings for the 523 ﬁlms
-
-that had more than one audience review and again conﬁrmed our
-
-hypothesis that in the more novel ﬁlm groups, there was greater
-
-variability in the ﬁlms’ perceived worth, or score.
+has numerous categories for ﬁlms, including classic genres like U.S.

@@ -1,11 +1,9 @@
-# transcript of this IdeaCast, click here.
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a01b79d82883b424c4827e46a1d093490f0e2062
+title: H06WA9-PDF-ENG
+---
+## A conversation with Miami University professor Megan Gerhardt on
 
-Activity: Assumption Audit. Challenge employees to spend a week on
-
-high alert for age-based assumptions in their daily work. Have them
-
-pay attention to their own actions as well as others’. This might mean
-
-noticing, for example, that a team leader dismissed a young employee’s
-
-request for more responsibility as “entitled” behavior or that you left
+benefiting from generational differences. To listen to or read a full

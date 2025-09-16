@@ -1,7 +1,7 @@
-## Don’t Let Bad Onboarding Slow You Down in Your New Job
-
-https://hbr.org/2024/01/dont-let-bad-onboarding-slow-you-down-in-your-new-job
-
-2/9
-
-When you start a new role, it’s crucial to grasp yourresponsibilities, the company’s policies, and the team dynamics.When this information is scarce or missing, it’s a bad sign. Youmay find yourself guessing your manager’s expectations,confused about the purpose of your role, and uncertain aboutteam project or priorities. This ambiguity often leads to mistakesand stress that you could otherwise avoid.A lack of access to basic tools.Every organization has a few essential tools and technologies thatemployees use to interact, work, and communicate. This could bea specific program used for scheduling meetings or a hub whereyou can access company updates and employee trainings.Navigating a new job without clear instructions on how to usethese tools can make you feel lost, as if you’re constantly confusedabout things that come easily to everyone else. This not onlyreduces your productivity — it can also foster feelings ofinadequacy.A lack of communication with your team.Regular interactions with your team and supervisors should gobeyond “good morning” messages on Slack or quick updates onthe tasks of the day. These interactions should help you integrateinto the company culture. When your manager and teammembers are difficult to get in touch with, it isolates you from thegroup’s rhythm. This is even more true in remote and hybridsettings, when you have less opportunities to interact in-person.Isolation can lower your morale and dampen your ability to buildrelationships essential to your career growth.How to Onboard Yourself If you notice one or more of the red flags above, it may be time totake things into your own hands. Before throwing in the towel or
+---
+source_path: "Don\u2019t Let Bad Onboarding Slow You Down in Your New Job.md"
+pages: n/a-n/a
+chunk_id: 29837fc37ac7c737febcf8753acb930e00cea5a0
+title: "Don\u2019t Let Bad Onboarding Slow You Down in Your New Job"
+---
+# 9/10/25, 11:18 AM

@@ -1,15 +1,19 @@
-# C
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: b6051e84bdc511392b8f292eaa5e93064dfda877
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Performance Feedback
 
-managers seek to maximize the performance or an already satisfactory employee. Wise
+Feedback can have a number of purposes, and managers need to distinguish
 
-(1996) further states that if there is an opportunity for an employee to identify a solution
+among different situations in deciding how to approach an employee. (Wise, 1996:398).
 
-or arrive at a solution in concert with the supervisor, it maintains self-esteem and
+Opportunities for feedback should not be limited to annual performance evaluations or
 
-attachment to the organization. Feedback can lead to identifying training needs specific
+reviews, but when a performance problem arises, it should be addressed at that time and
 
-to the job, solutions, job rotation or termination . Feedback also has to be specific and
+feedback should exist. According to Wise (1996), two other situations require feedback ,
 
-attainable if goals and objectives are set forth to the employee. Empioyees need to feel
-
-that they have a significant influence over the change process rather than a symbolic
+first, when managers are not satisfied with employee performance , and secondly, when

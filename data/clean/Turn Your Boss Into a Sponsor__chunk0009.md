@@ -1,7 +1,7 @@
-# Turn Your Boss Into a Sponsor
-
-https://hbr.org/2023/08/turn-your-boss-into-a-sponsor
-
-4/7
-
-These conversations will enable you and your boss to worktogether more effectively. They’ll likely appreciate you seekingtheir guidance, as it demonstrates your respect for theirknowledge and expertise. Mutual respect is essential to employee-sponsor relationships.Step 2: Understand your boss’s expectations and goals.Understand your boss’ priorities.You need to understand how your boss measures success and howyour work connects to the larger priorities of the organization.This will help you meet their expectations and deliver impactfulresults. If your boss trusts you to do that, they’ll be more likely tohand you stretch assignments, and advocate for you behindclosed doors. Why? Because you’ll have proven that you can betrusted with the most important work. Focusing on areas that arevaluable for your manager – and subsequently the business –makes you an invaluable team member.If possible, ask your boss what their long-term goals are for theteam. Having this conversation can give you clarity on what youneed to focus on and where the opportunities lie for you withinthe organization. You can say: “I’m curious to learn more aboutthe long-term vision for our team. Where do you see us two yearsfrom now?” You can also dig deeper with more pointed questionssuch as: “In your view, what does impact look like for the team? Iwould love to learn more about the big priorities that you’reworking on right now.”Step 3: Make the ask.Be honest about what you want.You’ve now gained your boss’s trust, proven yourself to be areliable team member, and shared with them your long-termgoals. The hard work is done. It’s time to ask your boss directly for
+---
+source_path: Turn Your Boss Into a Sponsor.md
+pages: n/a-n/a
+chunk_id: 123e8f19130931c52c99e93b12ac25e9cf5e25a4
+title: Turn Your Boss Into a Sponsor
+---
+# 9/10/25, 12:05 PM

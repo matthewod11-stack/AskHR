@@ -1,1 +1,11 @@
-# Research:
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: e02337d69e1e1a7e9a25c81f9d7e4351b67ecf5b
+title: final_2019_jan_feb_jbs_pmd
+---
+# Figure-2
+
+to pursue even complex performances. And Leaders also convince their followers to exchange their sel f- interests with organizational interests by fulfilling their aspirations (Bass, 1985; Bass and Avolio, 1993)”. Further, finding also rejects both the second and the third hypothesis and depicts that overall leadership style was highly correlated and impacted the employee’s task performance in the bank. Here, the study found TFLS and TSLS, both these styleswere positively related to follower’s task performance, though effect sizes differ substantially. Nonetheless, cross-section al research designs with different other performance dimensions or measures inclined to get moderately many strong effects. Descriptive analysis of the correlation matrix displayed a transformational leadership style as most significantly related style with task performance of employees tracked by transactional leadership style and there was no relation found in Laissez-faire style with task performance “Empirical data of Regression coefficient proved 16% of the variance of followers task performance through leadership style where the highest positive influen ce was through transformational leadership style.” 5. Recommendations & Managerial
+
+directed to capitalize extra in training of transformational leadership, and banks must select the top-level executives/managers based on transformational behavior and a few factors of transactional behavior for collective high employee performances. Similarly, this study also induces bank leaders’ consideration of employee’s aspiration and need to promote their behavior for a high level of task performance,through employee’s psychological development program and also by creating belongingness in employees with full security, self - identity and appreciation. These initiatives of leaders in banks would also develop organizational effectiveness by creating core competencies in employees. Banking organizations essential to give due consideration to a new intervention training programs that improve managers’ styles of influencing. Bank leaders themselves can promote their replicas by selecting and endorsing their followers for becoming an exclusive future transformational and transactional leader, that would support in succession planning in banks. 6. Research Limitations & Scope for Future

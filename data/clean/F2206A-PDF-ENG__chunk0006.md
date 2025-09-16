@@ -1,15 +1,31 @@
-# the culture.”
+---
+source_path: F2206A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4185b540c680933a309269a8ecc122bd8b311387
+title: F2206A-PDF-ENG
+---
+# among hybrid and far-ﬂung workers.
 
-Companies should help employees see that their value comes from
+- 1. Shift from diffusing culture through the ofﬁce to diffusing it through
 
-the role they perform, not their physical location. For example, Virgin
+the work itself. Managers often worry that remote workers’ productivity will suﬀer because of interruptions and distractions at home. In fact just
 
-Money, a ﬁnancial-services company, identiﬁes its call center workers as
+the opposite happens: People often have more time for deep work, and
 
-the “voice of the company.” Employees use an app to pinpoint what they
+productivity soars. This points to a valuable opportunity for employers
 
-most value in their work and then talk with their managers about how
+to instill culture through daily tasks. “When you’re home, you have a
 
-to adjust their roles to reﬂect those priorities. Companies should also
+more intimate relationship with work,” Cambon says. “Every time you
 
-encourage teams to set the rhythms for how work gets done rather than
+engage in a task, you should see the corporate culture reﬂected in it.”
+
+Leaders should start by auditing the ﬁrm’s work processes to make
+
+sure they are compatible with the intended culture, the researchers
+
+suggest. “Say you want your ﬁrm to be innovative, forward-thinking,
+
+and fast-paced,” Cambon says. “If your methodologies are bureaucratic
+
+and your systems have constant technical glitches, that will undermine

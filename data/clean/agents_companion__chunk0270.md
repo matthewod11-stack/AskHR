@@ -1,5 +1,21 @@
-# Peer-to-Peer
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: c86e6bb5dcbf243c1999d41e7d72c9fbf09f8445
+title: agents_companion
+---
+# Example transformation:
 
-Agents can hand off queries to one another when they detect that the orchestration
+Initial Response (factual & neutral): "I found a highly-rated sushi restaurant nearby. It's
 
-made a routing mistake. This creates a more resilient system that can recover from
+called Sakura Sushi, located at 123 Main Street. It has a 4.7-star rating and is open until 10
+
+PM. Would you like me to start navigation?"
+
+After rephrasing (playful style): "Sushi craving? Say no more! Head over to Sakura Sushi
+
+at 123 Main Street, where the fish is fresh and the soy sauce flows freely! Rated 4.7 stars,
+
+open till 10 PM. Ready for an umami adventure?”
+
+61

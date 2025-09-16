@@ -1,23 +1,17 @@
-# Reorganization Act of 1974 (ERA):
+---
+source_path: Employment Law Guide - Whistleblower and Retaliation Protections.md
+pages: n/a-n/a
+chunk_id: 272d7072e23f0f7c95d5327a5096fa6b790fd519
+title: Employment Law Guide - Whistleblower and Retaliation Protections
+---
+## SPA, MAP-21, SOX, STAA, ERA, PSIA, FRSA, NTSSA, CFPA and CPSIA.
 
-All employers covered by the OSH Act are required to display and keep displayed the OSHA "Job Safety and
+If the Secretary of Labor has not issued a ﬁnal decision within 180 days of the ﬁling of a SOX complaint, one year of the ﬁling of an ERA complaint, or 210 days of a ACA, SPA, FSMA, MAP-21, STAA, FRSA, NTSSA,
 
-Health: It's the Law(http://www.osha.gov/Publications/poster.html)" poster. The poster is also available in
+CFPA or CPSIA complaint, and there is no showing that there has been delay due to the bad faith of the
 
-Spanish(http://www.osha.gov/Publications/osha3167.pdf). There is a separate poster for Federal
+employee, the employee may bring an action at law or equity in district court under those statutes.
 
-agencies(http://www.osha.gov/Publications/fedposter.html). This poster informs employees of their right to ﬁle a
+Posters. Although there is no speciﬁc Whistleblower Poster, the Whistleblower Protection provisions have the
 
-retaliation or discrimination complaint with OSHA for making safety and health complaints or for exercising rights under the OSH Act.
-
-The poster must be displayed in a conspicuous place where employees and applicants for employment can
-
-see it. Reproductions or facsimiles of the poster shall be at least 8 1/2 by 14 inches with 10 point type.
-
-Posting of the notice in languages other than English is not required.
-
-Employers covered by the Energy Reorganization Act of 1974 (ERA) must display the poster, "Your Rights Under the Energy Reorganization Act," where employees can readily see it.
-
-Notices. There are generally no notice requirements for employers under most of the Whistleblower
-
-Protection provisions administered and enforced by OSHA. For other notice requirements under the OSH Act,
+following poster requirements under the Occupational Safety and Health Act (OSH Act) and the Energy

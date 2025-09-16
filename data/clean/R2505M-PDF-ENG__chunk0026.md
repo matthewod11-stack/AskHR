@@ -1,11 +1,15 @@
-## interactions, and feedback loops in the system in question. This can
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33665655c9328dc9434d8951c010e1f55bc535a7
+title: R2505M-PDF-ENG
+---
+# long run.
 
-be a daunting—and sometimes futile—task in a fast-changing world in
+Despite its beneﬁts, systems thinking remains the least common mode
 
-which models may never accurately reﬂect reality. And the traditional
+of innovation, largely because it is a slower and more complex way to
 
-systems-thinking innovator who spends time ﬁguring out exactly how
+solve a problem. In the traditional approach to systems thinking, the
 
-the Gordian knot is tied is almost guaranteed to be overtaken by a
-
-design thinker or a breakthrough thinker who simply slices through it or
+ﬁrst task of the systems thinker is to identify and model all the ﬂows,

@@ -1,35 +1,27 @@
-## HBR / Digital Article / Parents, Take Your Sick Days
+---
+source_path: H06AR9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8f5f5ff8a6b0f75e2250d20aaeffdc5ffdcdb96
+title: H06AR9-PDF-ENG
+---
+# Justin Paget/Getty Images
 
-low-grade fever or a bad cough. I still have residual pangs of guilt when I
+We’ve all heard the phrase “moms and dads don’t get sick days.” It’s
 
-use my sick days, even though I know better now. I’m not alone.
+meant to mean that parents are on the hook not only for themselves
 
-According to a 2019 survey of 2,800 workers in the United States, 90% of
+but for their kids too, and therefore unable to take time oﬀ. Ever. But
 
-employees said they often or always went to work when they were sick.
+the reality is that, despite their reluctance, working parents have to take
 
-According to another survey from 2017, one in ﬁve full-time employees
+care of themselves by taking time oﬀ when they need it.
 
-didn’t take any sick time in the last year (a stat that gets worse for older
+That’s a lesson that I’ve learned the hard way over time. As a working
 
-workers), and almost 60% of workers took fewer than ﬁve days. While
+father and manager, I used to be reluctant to take my sick days. Before the pandemic, I can’t tell you how many times I went to the oﬃce with a
 
-the pandemic may have taught us the basics of taking care of our health
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-while protecting others — wash your hands, wear a mask, stay home
+1
 
-when you’re sick — it’s still tempting to keep going when faced with your average case of the sniﬄes or sore throat.
-
-There are a few reasons why we still work when sick. Employees report
-
-feeling as if they’re burdening their colleagues with additional work.
-
-Some fret that the company will collapse without them. Others say that they feel as if their organization makes it diﬃcult to take any time oﬀ at
-
-all. Plus, we fear the “mountain of work” we’ll return to. Contingent or
-
-part-time workers may not get any sick days, let alone other paid time
-
-oﬀ, and working parents who use their sick time to take care of kids (an
-
-option in some, but not all states) can be understandably reluctant to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

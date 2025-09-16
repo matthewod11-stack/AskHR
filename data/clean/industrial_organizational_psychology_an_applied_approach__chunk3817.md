@@ -1,3 +1,9 @@
-## Conflict The psychological and behavioral reaction to
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9defdd792a6a9a2c25c119af997226f659047fe7
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Concurrent validity A form of criterion validity
 
-a perception that another person is either keeping you from reaching a goal, taking away your right to behave in a particular way, or violating the expectancies of a relationship.
+that correlates test scores with measures of job performance for employees currently working for an organization.

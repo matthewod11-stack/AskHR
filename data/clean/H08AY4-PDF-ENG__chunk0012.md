@@ -1,31 +1,23 @@
-## HBR / Digital Article / Overcome Your Fear of Giving Feedback
+---
+source_path: H08AY4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d83fd992e98000223a2fd643db7f240b7d56949b
+title: H08AY4-PDF-ENG
+---
+# the feedback.
 
-- 3. My feedback is going to be taken the wrong way.
+- You made a mistake in the feedback and need to ﬁx it.
 
-In my workshops on giving and receiving eﬀective feedback,
+This will make feedback easier in the short term when you can free
 
-participants regularly share their concerns that they will hurt the other
+yourself from needing to get it perfect right out of the gate. It can also
 
-person’s feelings or make them angry. In fact, their anxiety about how
+make it easier in the long run, when your colleague learns that that
 
-employees will respond often delays or prevents them from giving
+you’re going to give them the opportunity to share their perspective.
 
-helpful, timely, and direct feedback. This means that their colleagues
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-don’t know what they’re doing well, where they need to develop, what
+3
 
-the expectations are, and how to get there.
-
-It’s understandable that you don’t want to upset your direct reports
-
-— or anyone else for that matter. Nevertheless, other people’s
-
-reactions and responses to feedback are largely out of your control
-
-(and sometimes out of their own). Whether an employee takes it
-
-personally, gets defensive, bursts into tears, rejects it, questions it,
-
-or accepts the feedback is based on a number of extenuating factors
-
-including personality, current context, overall life experiences, cultural
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

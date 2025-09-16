@@ -1,7 +1,13 @@
-# collaboration drag.
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5785c09238732a1de54e42cc665a15f96a5e7f44
+title: H08A5M-PDF-ENG
+---
+## frustrating. At every level of the org chart — from junior employees
 
-Ultimately, executives’ attempts to ﬁx the broader collaboration
+to senior leaders — Gartner survey respondents admit to sometimes
 
-environment have no real impact on the ground, because they’re simply
+snubbing other functions or leaping into action without clarifying
 
-too far removed. Instead of looking outward and upward, leaders must
+objectives. These kinds of occasional experiences dramatically increase

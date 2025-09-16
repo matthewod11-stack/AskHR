@@ -1,11 +1,23 @@
-## students, as well as people at later stages of their careers.
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ad8f451d54caaa2ccfd583f1c683c3773f9aa01
+title: H08NSA-PDF-ENG
+---
+## HBR / Digital Article / Looking for a Sense of Purpose? Volunteer.
 
-If this feeling resonates with you, try not to get discouraged. Remind
+If you similarly feel called to make an impact beyond your day job, here
 
-yourself that every meaningful change starts with individuals. A single
+are three simple ways to tap into the power of volunteering, based on
 
-person may not have the power to solve every problem, champion every
+the advice I give to my MBA students and other young professionals
 
-cause, or save every life. But when many people take action, they can
+looking for greater purpose.
 
-quickly become a critical mass and achieve great things.
+- 1) Don’t quit before you start.
+
+The magnitude of problems in our world can make it easy to feel
+
+hopeless. Despite your desire to “give back,” you may wonder if you,
+
+as one person, can really make a diﬀerence. I have seen this in my

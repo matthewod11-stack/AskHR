@@ -1,7 +1,17 @@
-## Peter Fasolo, the chief human resources oﬃcer (CHRO) at Johnson &
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 276c0d1b97e9082cb564b9a583b9751699464786
+title: R2403D-PDF-ENG
+---
+## true for tech and digital experts, her colleague Jeremy Andrulis, the
 
-Johnson, also remarked on the change in worker preferences: “Without
+vice president of talent, told us. “And people with the most sought-after
 
-question, there has been a huge shift. Many of the individuals we’re
+skills are more than likely to be freelancers.” He went on to explain
 
-looking to attract—in technology, data sciences, machine learning,
+why this works for Mars: “Freelancers tend to jump from one project
+
+to another. That’s essentially what we’re paying for—their accumulated
+
+experiences and the fresh external perspectives they bring.”

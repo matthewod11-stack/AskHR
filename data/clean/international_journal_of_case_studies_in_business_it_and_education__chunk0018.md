@@ -1,13 +1,17 @@
-# International Journal of Case Studies in Business, IT, and Education (IJCSBE), ISSN: 2581-6942, Vol. 7, No. 2, June 2023
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 08a36454736c87d58f21cdf28f595c64c44a4967
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# Reference
 
-4
+Long, et al., (2010). [32]
 
-5
+Ozcelik, et al., (2008). [33]
 
-6
+Zakaria, J. (2015). [34]
 
-7
+Elvira Monteiro., et al, (2023); www.srinivaspublication.com
 
-The role of leadership in shaping work culture
-
-The importance of communication in creating a productive workplace
+PAGE 294

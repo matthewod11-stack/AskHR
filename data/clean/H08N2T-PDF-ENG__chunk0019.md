@@ -1,41 +1,23 @@
-## to-stoicism continuum. The more conscientious, gritty, ambitious, and
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e9e8e288885fec6c7d63c241029141773c7bdba
+title: H08N2T-PDF-ENG
+---
+## of joy, creativity, or adventure into my daily routine, and how much
 
-career-driven you are, the more likely it is that you can show resilience
+am I potentially willing to sacriﬁce (e.g., in terms of money, workload,
 
-and put up with a job or career that is at the exact opposite end of the
+career growth, etc.) to get that experience? In fact, how important is the
 
-“spoiling you” spectrum. Conversely, if you are in it for the ride, and
+experience part of the experience I would get? Do I need the journey to
 
-speciﬁcally to have fun and a great time while you are on the ride, then
+be enjoyable and fun, or am I OK seeing it as a means to an end?
 
-be clear about it with yourself and others.
+As science shows, if you can match your interests and intrinsic
 
-- 6. How will I grow in this role?
+motivations to a new opportunity, you’ll naturally be more engaged in
 
-What skills or knowledge do I want to develop, and will this role
+the role. And yet, we have known for ages that people diﬀer in their need
 
-provide opportunities to learn and grow? Even if the new job isn’t
-
-immediately an upgrade from my current role, will it amplify and
-
-enhance my experience, expertise, and potential? In essence, consider
-
-if this job aligns with your desire to continuously improve or expand
-
-your expertise. Everybody says they value learning, but the fact of
-
-the matter is that most jobs and roles prioritize getting results and
-
-performing the tasks and duties that are expected, with learning being
-
-a “nice to have” add-on (for those who are performing well already!).
-
-However, some cultures are more centered around oﬀering employees
-
-learning opportunities and even rewarding them for doing so, so be
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+for fun vs. capacity for sacriﬁce, something captured by the hedonism-

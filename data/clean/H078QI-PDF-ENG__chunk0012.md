@@ -1,33 +1,13 @@
-## “personal” than an individual or group, like a process, policy, or
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 734350cc6aea8f5630f30560cb4b6af82459712b
+title: H078QI-PDF-ENG
+---
+# and backlash.
 
-normalized set of practices, leaders can galvanize the workforce while
+One powerful method to avoid backlash is by framing DEI initiatives
 
-lowering the risk that people feel personally targeted. Here are some
+to address inequities as changing systems, rather than changing
 
-examples of this approach in action, compared to framings that risk
-
-activating backlash.
-
-Backlash risk: “Biased hiring managers are only bringing in candidates
-
-that look like themselves, which is why we have little racial or gender
-
-diversity. To address this, we should have all hiring managers go
-
-through training to address their biases.”
-
-Systems framing: “The hiring process doesn’t have consistent
-
-guidelines or expectations, putting additional burden on hiring
-
-managers, creating an inconsistent experience for candidates, and making it diﬃcult to connect our organizational strategy to our hiring
-
-strategy. To address this, we should create initiatives to support hiring
-
-managers, like implementing hiring panels, tracking the overall race
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+individuals. By situating an organizational inequity in something less

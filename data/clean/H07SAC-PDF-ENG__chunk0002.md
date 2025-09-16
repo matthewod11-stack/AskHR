@@ -1,5 +1,7 @@
-## When Your Vacation Wasn’t Exactly Relaxing
-
-What to do when you return to work more exhausted than when you left. by Noémie Le Pertel
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb94881b29d986b9a37fe5987d65e9bed92b28b2
+title: H07SAC-PDF-ENG
+---
+# Managing Yourself

@@ -1,7 +1,15 @@
-## HBR / The Big Idea / Everyone Deserves a Season to Step Back
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d39df084f9ae791f693b54e169690e6939a6b85e
+title: H08LQ5-PDF-ENG
+---
+## status or a demerit come promotion time, then the practice doesn’t
 
-about business leaders — for example, that leaders are married men
+stand a chance. Further, if it fails to address long-held assumptions
 
-who have stay-at-home wives to manage the messiness of life without
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-it impacting quarterly results — then stepping back may be seen as a
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

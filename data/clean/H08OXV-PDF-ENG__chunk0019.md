@@ -1,13 +1,21 @@
-## less restorative and generative, the growth-oriented nature of leisure
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1920ea5585eafd531935bd6a6ad1cdfc8d789f8
+title: H08OXV-PDF-ENG
+---
+# creativity.
 
-crafting can produce positive beneﬁts that spillover into work: making
+Beyond enhancing personal well-being, we found that a growth-
 
-individuals feel more invested—and perform better—at their jobs.
+oriented approach to leisure also fosters unique work-related beneﬁts.
 
-How to Craft Your Leisure to Make the Most of Your Free Time
+Across our studies, we found that those who engage in leisure
 
-Professionals looking to enhance their well-being—and their work—
+crafting reported higher work engagement, work creativity, and work
 
-should consider these actionable steps:
+performance. They also reported deriving a greater sense of meaning
 
-- 1. Identify Activities That Energize You
+from work compared to those who did not leisure craft.
+
+In contrast to unstructured or passive leisure, which tends to be

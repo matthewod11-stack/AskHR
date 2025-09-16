@@ -1,7 +1,13 @@
-## In addition, assess each stakeholder in terms of:
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad2bc595c85cab4bddcf7f169a92bd5b76b332d9
+title: H07YQQ-PDF-ENG
+---
+# supporters?
 
-- The amount of direct involvement they will have with your objective.
+- What central concern can you expect from your passive players?
 
-Rate them high, medium, or low.
+- What central objection can you expect from your skeptics?
 
-- The amount of inﬂuence they have over other stakeholders. Rate them
+- What central objection can you expect from your active opponents?

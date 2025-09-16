@@ -1,33 +1,19 @@
-# HBR / Digital Article / How Emerging Technologies Can Foster Human Connections at …
+---
+source_path: H08LX3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b64a75ddf07ae87e5b705cabd6c8a39051ca47e
+title: H08LX3-PDF-ENG
+---
+## between a traditional company with a remote-work policy and a digital-
 
-continents, collaborating through blockchain-based voting systems to
+native organization where geography is truly irrelevant.
 
-make decisions about everything from treasury management to product
+Companies like MakerDAO (which manages the DAI stablecoin)
 
-development. Traditional companies also are experimenting with DAO-
+demonstrate this model in action. Their contributors span multiple
 
-like structures — for instance, Braintrust, a talent network platform,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-uses a hybrid model where core operations are distributed across global
+2
 
-contributors who collectively own and govern the platform.
-
-Full distribution democratizes opportunity. When a company is fully
-
-distributed, it can tap into a global talent pool, unbounded by
-
-geography or the need for relocation. GitLab, for example, has embraced
-
-a fully distributed model and has team members in more than 65
-
-countries. In fully distributed work models, we see the ultimate
-
-realization of digital work’s promise: to free us from the constraints of
-
-time and place so that the focus becomes purely on what we produce
-
-and how we collaborate. Indeed, in a fully distributed environment,
-
-work is something you do, not a place you go.
-
-When we democratize opportunity, we challenge a fundamental
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

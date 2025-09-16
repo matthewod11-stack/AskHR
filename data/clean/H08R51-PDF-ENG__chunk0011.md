@@ -1,5 +1,11 @@
-## Three Organizational Forces Behind Presenteeism
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5e8c00474671416afd579e88b96a1af5f93eb61
+title: H08R51-PDF-ENG
+---
+# tweaks to proactive structural change.
 
-Our recent study, supported by broader research and drawing on
+Here are three levers that senior leaders can directly control, and a
 
-a national sample weighted to represent over 168 million American
+framework to combat presenteeism at work.

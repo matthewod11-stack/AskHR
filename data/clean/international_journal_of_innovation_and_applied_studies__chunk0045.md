@@ -1,3 +1,9 @@
-# of choice. WorldatWork Journal,15(1), 6.
+---
+source_path: international_journal_of_innovation_and_applied_studies.md
+pages: n/a-n/a
+chunk_id: b714bce13d57e26386335a152bd727cb0537c0ac
+title: international_journal_of_innovation_and_applied_studies
+---
+## Human Resource Management, Vol. 16, pp. 949-70.
 
-[32] Lockwood, N.R. (2006), “Talent management: driver for organizational success HR content program”, SHRM Research
+[28] O Neal, S., & Gebauer, J. (2006). Talent management in the 21st century: Attracting, retaining and engaging employees

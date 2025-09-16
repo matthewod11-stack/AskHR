@@ -1,35 +1,13 @@
-## HBR / Digital Article / 5 Pandemic-Era Lessons on Leading Through Drastic Change
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a07bba5a1a9313d9bbf71b1f893185053e2b5d3
+title: H08NX0-PDF-ENG
+---
+# the turbulence.
 
-Amid massive disruptions to supply chains, manufacturing, and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-shifting consumer habits, PepsiCo CEO and chairman Ramon Laguarta
+2
 
-saw an opportunity to rethink the company’s future. Building on the
-
-forward-looking strategies introduced by former CEO Indra Nooyi,
-
-Laguarta embraced scenario planning to navigate uncertainty. In 2021,
-
-he launched pep+, a bold initiative that put sustainability and people
-
-at the center of PepsiCo’s business strategy. The plan taps into key
-
-trends—consumers’ growing preference for healthier options, the need for sustainable farming practices, and eﬀorts to cut carbon emissions
-
-across the supply chain—ensuring PepsiCo stays ahead in a rapidly
-
-evolving market.
-
-Developing a more proactive and integrated stance toward uncertainty requires leaders to take a diﬀerent approach to strategic and business
-
-planning. First, they can shift from annual business planning cycles to
-
-more regular forecasts that include strategic foresight practices—such
-
-as “outside-in” early signal and trend scanning—to proactively identify
-
-emerging patterns and potential disruptions before they become
-
-obvious. Leaders can also practice scenario planning by exploring
-
-various “what if” situations to anticipate potential external shifts and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

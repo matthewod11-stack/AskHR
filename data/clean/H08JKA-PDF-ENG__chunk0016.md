@@ -1,7 +1,15 @@
-# behaviors.
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de26dcd671151a591dbd5a3a4740e08584119936
+title: H08JKA-PDF-ENG
+---
+# sales.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Design learning experiences that encourage application.
 
-4
+However well their workplace learning programs are conceived or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+designed, CLOs will only be able to have a meaningful impact on
+
+strategic priorities when participants actually apply new skills and

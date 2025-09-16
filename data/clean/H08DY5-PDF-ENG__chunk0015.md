@@ -1,7 +1,15 @@
-# programs in this era of AI:
+---
+source_path: H08DY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59540c7a9294db27d2de67173422dcc9665bc6ff
+title: H08DY5-PDF-ENG
+---
+# disabled communities.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Drawing from decades of experience working with and on behalf of deaf
 
-3
+and hard of hearing communities in the delivery of communication
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+services, here are a few ways leaders can lean on the vision and spirit
+
+of the ADA to create more inclusive and accessible customer service

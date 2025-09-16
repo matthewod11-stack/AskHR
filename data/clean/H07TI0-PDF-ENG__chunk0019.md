@@ -1,23 +1,21 @@
-# Team-based role descriptions
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64f2c51b9011ea6a72ac149dbd93d9a0e1d4ca54
+title: H07TI0-PDF-ENG
+---
+## For example, a data analyst with superior visualization skills could
 
-Lastly, instead of giving each team member a job description, some
+seamlessly shift from creating complex data models to crafting visual
 
-companies assign individuals to teams that are given a collective set
+reports, depending on project needs. The analyst would follow a
 
-of objectives, outcomes, and deliverables. It is then up to the team to
+specialized training regimen tailored to enhance speciﬁc skills, such
 
-collectively decide how each member will contribute.
+as advanced visualization techniques and data storytelling. By focusing
 
-A well known example is Spotify, where employees are part of small,
+on the analyst’s unique strengths and broader skill set, the organization
 
-cross-functional teams called “squads,” each of which has a speciﬁc
+not only hones their existing expertise but also creates a more well-
 
-mission. Each squad autonomously decides how to meet its objectives
-
-best, relying on collective decision-making and their deep knowledge of
-
-each member’s strengths and preferences. The teams meet frequently
-
-to discuss challenges, assess progress, realign goals, and resolve any
-
-conﬂicts or bottlenecks that result from the task distribution.
+rounded, versatile professional.

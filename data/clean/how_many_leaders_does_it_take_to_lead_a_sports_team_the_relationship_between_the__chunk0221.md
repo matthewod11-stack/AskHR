@@ -1,19 +1,9 @@
-# Most effective leadership structure
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 9377289914d5acb203be07233e2a345fc390b1ce
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+## Athlete Leadership and Team Effectiveness
 
-To analyze the optimal leadership structure in sports teams, we started by examining each of the leadership roles and investigating the ideal number of leaders within each leadership role. Next, we examined the ideal number of leaders across the different leadership roles.
-
-Ideal leadership structure within each leadership role. Regarding the second purpose of the study, it was hypothesized that teams in which multiple leaders take the lead in a particular leadership role would score better on each of the outcome variables than teams in which a sin- gle or zero leaders covered that leadership role. The results of the present study supported our hypothesis for most indicators of team effectiveness included in this study. More specifically, teams with a structure of three task leaders reported higher task cohesion, collective efficacy, intention to continue and perceived performance, while showing less role conflict, task con- flict, and relationship conflict. Likewise, teams with three task leaders also reported the highest role clarity and the strongest social cohesion, although the difference with other leadership structures was not significant.
-
-In general, we can conclude that having three task leaders is the most effective leadership structure for professional soccer teams. Several reasons potentially underpin this finding. First, the knowledge and expertise of three task leaders exceeds the capacity of a single individual [2, 18]. Second, the presence of multiple task leaders allows sharing the burden of leadership [6,19]. Indeed, instead of one task leader having to provide directions to all of his/her team members, multiple leaders can more easily cover the entire soccer field. This becomes especially important in soccer, where players are positioned relatively far from each other compared to other sports. In this case, having only one source of communication would seriously hamper the team’s commu- nication and functioning. Third, when having multiple task leaders on the team, leadership conti- nuity is more likely [6].Having only one task leader entails considerable risks because, if that task leader is not playing due to an injury or sanction or he or she leaves for another team, the team suddenly lacks task leadership, which can seriously hamper the team’s effectiveness.
-
-With respect to social leadership, teams with two social leaders (compared to having one or
-
-no social leaders) reported stronger social cohesion. Furthermore, shared leadership within the social leadership role tends to be related to more task cohesion and less relationship con- flict. These findings are in line with previous research revealing that the more social leadership is shared between the players, the higher the team’s social connectedness [51], as well as its social and task cohesion [19]. Another benefit of having multiple social leaders is that players can choose which of these leaders they trust the most to discuss personal problems [19]. Also, if conflict arises in the team, different players can step up depending on the nature of the con- flict or the players involved, which maximizes the effectiveness of the intervention.
-
-Similarly, teams having shared leadership within the external leadership role (i.e., having
-
-two external leaders instead of one or zero) reported higher social cohesion and stronger intention to continue, again in line with the findings of Fransen [19] showing the strongest density of the social cohesion network in teams with two leaders.
-
-PLOS ONE | https://doi.org/10.1371/journal.pone.0218167 June 10, 2019
-
-15 / 22
+carried out with college or university athletes [8, 20] or competitive athletes from lower com- petition levels [19] in a variety of team sports. Within the present elite sporting context, exter- nal leaders may be more prominent, as more contact with media and sponsors is needed at this level. We can conclude that most teams show a structure of shared leadership across the different leadership roles, with each role being occupied by at least one player. Only with respect to external leadership, teams also showed shared leadership within this leadership role. Further research in different age groups or competition levels is necessary to test the generaliz- ability of our findings.

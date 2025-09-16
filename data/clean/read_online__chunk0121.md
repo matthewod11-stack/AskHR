@@ -1,9 +1,19 @@
-# Page 8 of 12
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: df69a55016480f36c4fd67d981485c821414397a
+title: read_online
+---
+# WLB, Work-life balance conflict.
 
-The majority of respondents are female, constituting 63% of the sample. A large portion of the sample (33%) reported having 6–10 years of experience. The majority also reported being single (60%), the largest group coming from the banking and finance industries (21%). These demographic characteristics suggest that many individuals in this context might be seeking to qualify before starting a family. These results contribute to the literature on gender differences in university-related environments (Fatoki 2015).
+FIGURE 1: Age as a moderator on work-life balance conflict–turnover intention relationship (two-way interaction).
 
-H1.c: The relationship between WLBC and intent to quit may be weakened when an individual has more dependent children.
+H1.b: The relationship between work-life balance and intent to quit is moderated by gender.
 
-The interaction effect of WLBC and numbers of dependent children is significantly associated with the intent to quit (p = 0.002), net of differences associated with age, race and gender. As shown in Figure 3, individuals with fewer dependent children are more likely to quit, both at low and high levels of WLBC. The difference between these groups is
+The interaction effect between gender and WLBC (Figure 2) is not significant (p = 0.935).
 
-6.5
+Women have marginally higher turnover intentions than men, both at low and high levels of WLBC. The interaction effect is not significant, however, suggesting that men and women experience these relationships similarly in this context.
+
+The finding is however at odds with various studies that found moderating effects of gender in the prediction of the turnover intentions of employees (Cotton & Tuttle 1986; Peltokorpi et al. 2015), but is in line with other studies that have failed to find gender to moderate predictors of the turnover intentions, as well as to moderate the relationship between work-life balance and turnover intentions (Du Plooy & Roodt 2013). This finding highlights the contextual relevance of gender as a moderator of these relationships.
+
+Open Access

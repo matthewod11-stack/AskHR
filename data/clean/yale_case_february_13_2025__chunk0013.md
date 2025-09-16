@@ -1,17 +1,23 @@
-# 7 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: d37ec11056c04aedd0adc9ce9d297f7f161c2845
+title: yale_case_february_13_2025
+---
+# 6 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
 
-mistakes, such as overlooking key details or mishandling the conversation. Proper preparation, including rehearsing the discussion, using detailed checklists, and ensuring the presence of a second person to observe and document, helps mitigate these risks. Partnering with a Professional Employment Organization (PEO)20 can also provide guidance and structure, ensuring the process is handled professionally and consistently. We will now enumerate a handful of termination steps that are best practices.
+or a project manager who repeatedly misses critical deadlines—can undermine team productivity and hinder organizational goals. Before concluding that an employee cannot meet expectations, leaders must ensure that the individual has received sufficient support, such as access to training, mentoring, and adequate resources.18
 
-01 Reviewing the employee handbook and company policies
+03 Exhaustive efforts have been made to improve performance
 
-One of the first and most essential steps in this process is revisiting the employee handbook. It might seem mundane, but this document often carries more weight than we realize. Courts have treated employee handbooks as quasi-contracts in some cases, meaning the words on those pages could bind the company to specific procedures.21 If the handbook outlines steps like issuing written warnings or implementing a PIP before termination, skipping them could lead to significant legal risk. More importantly, it would cause the company to fail the fairness test—something every leader should prioritize.
+Termination should only be pursued when all reasonable measures have been taken and the employee is still unable to fulfill the role’s core competencies. If there is little to no realistic prospect of improvement despite these efforts, retaining the employee may place an undue strain on resources and morale. In such cases, termination becomes the best option to protect the interests of the team and the organization as a whole.19 Structured interventions, such as PIPs, provide a formal framework for addressing performance issues and setting clear, measurable goals. When using a PIP, allow sufficient time. Thirty days is typically too short for improvement, but 60–90 days is sufficient and more common. Targeted training and role adjustments can also help employees address weaknesses and contribute more effectively.
 
-Then there is the question of documentation. If a CEO has been honest with themselves, they have likely seen the signs of trouble long before arriving at the brink of termination. Have they communicated those concerns? Given formal warnings? Perhaps even put the employee on a PIP?22 A PIP, while dreaded by many, is not just a bureaucratic box to tick—it is an opportunity. It says, “We see potential here, but things have to change.” It gives the employee clarity, a timeline, and support to succeed. And for a leader, it builds a record that says, “We tried.”
+How to terminate an employee
 
-The handbook is also a tool for consistency. Every organization develops a rhythm for how it handles performance issues and terminations, and the handbook reflects that rhythm. Reviewing it ensures the company is not making exceptions or setting precedents that could come back to haunt it later. Employees notice when policies are unevenly applied, and nothing erodes trust faster than inconsistency.
+Separating an employee is not as simple as just conveying the painfully bad news. It is actually a well- orchestrated process involving multiple steps. Many of those steps take place in advance of the actual conversation when the news is delivered. While no amount of preparation and planning can altogether remove the pain and risk of firing a team member, the action steps we discuss below can help make the process smoother and tamp down some of the potential perils. In this section, we will discuss six elements to consider when moving towards a termination (Figure 4).
 
-But this is not just about legality or optics—it is about doing what is right. Employee handbooks often house guidelines that protect employees against discrimination and provide paths for them to voice grievances. By adhering to these guidelines, the CEO signals that the organization values fairness and transparency. It is not just about avoiding lawsuits; it is about treating people with dignity.
+Figure 4: A sextet of steps to help facilitate the termination process
 
-Paperwork and plans, however, are only half the equation. There is a human side to this process that cannot be ignored. Open discussions are where it often begins—not a tense, one-sided critique, but a genuine conversation. “Here’s what I’m seeing. How do you see it?” These moments, though sometimes uncomfortable, allow for a mutual understanding to emerge. Sometimes, the employee doesn’t even realize the gravity of their underperformance. Other times, they will share struggles the firm could not have known about—personal issues, unclear expectations, or even feelings of being set up to fail. These talks can shift the trajectory entirely or reinforce that a change must occur.23
+Like many things in life, terminating an employee is mostly about steps taken before the actual event. By doing the appropriate homework and establishing a foundation of what needs to be done prior to the separation, the CEO and company pave the way for a polished and less emotional conversation.
 
-As the CEO or manager follows these steps, they should take a moment to reflect. What message is the organization sending to the rest of the team? If people know the process was thorough and transparent, they will trust that decisions in the enterprise are fair. They will see that the CEO has taken every measure to address issues before making the hard call. This matters—not just for morale but also for the culture most ETA CEOs are trying to build.
+The person tasked with firing an employee is likely to feel rattled, apprehensive, or nervous, emotions that are natural but can lead to skipping important steps in the process. These feelings heighten the risk of

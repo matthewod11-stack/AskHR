@@ -1,3 +1,7 @@
-# Exploring Employee Terminations in Search Fund– Acquired Companies and Small Businesses
-
-Firing employees is an inevitable part of the CEO role; CEOs must do it fairly and well to prevent further friction
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: 6c2ae4bbca4cf4278354c5f3c46243a193fa29a7
+title: yale_case_february_13_2025
+---
+# YALE CASE FEBRUARY 13, 2025

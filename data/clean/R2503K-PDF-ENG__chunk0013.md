@@ -1,25 +1,17 @@
-## to the unique values and preferences of each team member. For
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bc48dc3f77d37501dc9554a881aa0b456e2a8c78
+title: R2503K-PDF-ENG
+---
+## HBR / Magazine Article / Leading Global Teams Effectively
 
-executives at Everfresh (a pseudonym), a $30 billion company operating
+Month, which worked much better given employees’ preference to work
 
-in more than 75 countries, this meant rethinking the rollout of its
+collectively to accomplish goals.
 
-Speak Up campaign. Its purpose was to foster innovation and reduce ineﬃciencies by encouraging employees to oﬀer constructive feedback.
+Leading a global team requires more than just knowing broad cultural
 
-Executives thought people would welcome the initiative, but many
+distinctions; it demands the cultural intelligence to accurately assess
 
-employees, especially in Asia, reacted negatively. They perceived
-
-“speaking up” as a directive to challenge senior leaders and voice
-
-opinions in public forums—behaviors that clashed with their cultural
-
-norms. So Everfresh leadership reframed the campaign. It emphasized
-
-that participation was expected but made it clear that speaking up
-
-didn’t have to be verbal, public, or individual. Alternative ways for
-
-employees to contribute, such as allowing collective feedback curated
-
-by a group, were introduced, making the campaign more inclusive and
+each situation and adjust the level of guidance, autonomy, and control

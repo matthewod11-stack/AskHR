@@ -1,17 +1,15 @@
-## than their nonfamily counterparts in the subsequent three years, with
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc8e4729847bf622e37101b121ff0273dc2d0f6b
+title: F2401A-PDF-ENG
+---
+# longer time horizon.
 
-better cash-ﬂow performance and much lower risk. That’s because
+Bring on a few highly engaged long-term directors and empower
 
-family members who lead searches typically have deeper knowledge of
+them to lead the process. The family and nonfamily ﬁrms in the
 
-internal prospects than professional board members do, the researchers
+study appointed CEOs from within the organization at similar rates
 
-concluded. Nonfamily ﬁrms could ﬁnd similar advantage by seeking
-
-genuinely motivated directors, retaining some of them for longer
-
-than is customary, and empowering them to participate in candidate
-
-assessments. A mix of long- and short-term directors can shore up
-
-succession practices while leaving room for fresh voices, especially from
+—roughly 70% of the time. But large family ﬁrms did much better

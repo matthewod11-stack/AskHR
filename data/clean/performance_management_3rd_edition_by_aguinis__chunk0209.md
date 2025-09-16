@@ -1,3 +1,11 @@
-# 1.5.5 Organizational Maintenance Purpose
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: c6d3cd595de5107342c1dfeb3dea75a3af8e28f4
+title: performance_management_3rd_edition_by_aguinis
+---
+# 1.5.4 Developmental Purpose
 
-A fifth purpose of performance management systems is to provide information to be used in workforce planning. Workforce planning comprises a set of systems that allows organizations to anticipate and respond to needs emerging within and outside the organization, to determine priorities, and to allocate human resources where they can do the most good.40 An important component of any workforce planning effort is
+As noted earlier, feedback is an important component of a well-implemented per- formance management system. This feedback can be used in a developmental man- ner. Managers can use feedback to coach employees and improve performance on an ongoing basis. This feedback allows for the identification of strengths and weak- nesses as well as the causes for performance deficiencies (which could be due to individual, group, or contextual factors). Of course, feedback is useful only to the extent that remedial action is taken and concrete steps are implemented to remedy any deficiencies. Feedback is useful only when employees are willing to receive it. Organizations should strive to create a “feedback culture” that reflects support for feedback, including feedback that is nonthreatening and is focused on behaviors and coaching to help interpret the feedback provided.39
+
+Another aspect of the developmental purpose is that employees receive information about themselves that can help them individualize their career paths. Thus, the develop- mental purpose refers to both short-term and long-term aspects of development.

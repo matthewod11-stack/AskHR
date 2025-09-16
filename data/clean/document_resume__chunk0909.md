@@ -1,9 +1,17 @@
-# If no. please explain.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: e55399603b99f9d7c4aa0961a9ec13c1f9b2ec1b
+title: document_resume
+---
+# PERFORMANCE DISCUSSION AND SUMMARY
 
-Does the employee hcve the knowledges, skills, abilities, and other qualifications needed rot successful lob performance? 0 yes 0 no
+Does the employee report for and rer,iain at work as required? 0 yes 0 no
 
 If no, please explain
 
-Describe any specific actions employee needs to take to improve Job performance
+Does the employee follow instructions and observe work rules? 0 yes 0 no
 
-Summarize this employee's overall lob performance as determined in your joint discussion
+If no, please explain
+
+Does the employee get along and cooperate with co-workers on the lob? 0 yes 0 no

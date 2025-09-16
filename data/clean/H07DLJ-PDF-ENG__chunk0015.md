@@ -1,37 +1,21 @@
-# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
-
-DEB LIU:
-
-I felt that way not long ago. In fact, I shared this story of my friend
-
-Fidji Simo, she is the CEO of Instacart. And many years ago, I went to her oﬃce, I was upset about something at work and I just was grousing
-
-about something and she goes, “You know what, Deb? We’re going to
-
-be CEO someday.” And I laughed because I just thought that was such
-
-a crazy idea. And you know what? This time, about two years ago when
-
-I was talking to Blackstone about the Ancestry role, she eventually
-
-became CEO.
-
-We joked about how she knew where we were going to go and I didn’t.
-
-But regardless, I was the person who never aspired to this, and she was
-
-somebody who had such clarity of vision. She knew the world, the mark
-
-she was going to make in the world, and both of us ended up in similar
-
-places. And that means that it is possible. You don’t have to have dreamt
-
-since you were a little girl that you wanted to be CEO. But it is possible
-
-if you just take back your power and you take those opportunities as
-
-they’re given to you.
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5dae4fd944769b7d2c7a133c56fda3e251eb6b7
+title: H07DLJ-PDF-ENG
+---
+# and more opportunity for everybody.
 
 ADI IGNATIUS:
 
-One issue that comes up with women in the workplace is this idea of
+So what would you say to women who are enormously capable, but feel
+
+that somehow they just don’t have the right stuﬀ to be in the C-Suite, to
+
+be CEO?
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,13 @@
-## on-time delivery, cycle time, defect rate, and yield.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6407d3869c81590aa759fe0fee7472b32824dbf
+title: R0507Q-PDF-ENG
+---
+## processes. For example, Analog Devices, a Massachusetts-based
 
-Other companies, like Milliken & Company, require that managers make
+manufacturer of specialized semiconductors, expects managers to
 
-improvements within a speciﬁc time period. Milliken did not want its
+improve their customer and internal business process performance
 
-“associates” (Milliken’s word for employees) to rest on their laurels after
-
-winning the Baldrige Award. Chairman and CEO Roger Milliken asked
-
-each plant to implement a “ten-four” improvement program: Measures
-
-of process defects, missed deliveries, and scrap were to be reduced by
-
-a factor of 10 over the next four years. These targets emphasize the
+continuously. The company estimates speciﬁc rates of improvement for

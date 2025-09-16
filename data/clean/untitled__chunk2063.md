@@ -1,5 +1,9 @@
-## and methods. New York: D. Appleton and Company.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fbf8cca3845c7b84e5cac9720397b23d3a99b459
+title: untitled
+---
+# psychology. Boston: Allyn & Bacon.
 
-Jordaan, J. P., Myers, R. A., Layton, W. L., & Morgan, H. H. (1968). The counseling psychologist. New York: Teachers College Press.
-
-Levine, M., & Levine, A. (1992). Helping children: A social history.
+Hollingworth, H. L. (1916). Vocational psychology: Its problems

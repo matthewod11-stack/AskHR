@@ -1,11 +1,21 @@
-# HBR / Magazine Article / HR’s New Role
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba597ee2301afb1ec5c80493bf113c9db7a32dab
+title: R2403F-PDF-ENG
+---
+## on Generative AI,” HBR, November–December 2023.) It’s particularly
 
-The restructuring threat. Company eﬀorts to reorganize to adapt to the
+important to be clear that the company has no secret plan to replace
 
-changing business environment are another major source of workplace
+people with AI. In addition, it’s smart to engage employees in evaluating
 
-stress. The shift to “green” products, for instance, was one of the main
+AI’s potential uses, because doing so helps reduce their stress and
 
-issues in the 2023 United Auto Workers strike, which ended with the
+increases learning in the process.
 
-union’s securing protections for employees from restructuring resulting
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,25 @@
-# HBR / Digital Article / Gender Diversity Helps Teams Maintain Integrity Under Pressure…
+---
+source_path: H08UBJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5c6e305775d37ebd71c58bc0b29485d64714759
+title: H08UBJ-PDF-ENG
+---
+# forecasts.
 
-the number of women who joined the team afterward. Instead, only the
+To distinguish cause and eﬀect, the study introduced a timing test. The
 
-proportion of women already on the team at the time of the forecast
+idea was simple: If unbiased forecasts were followed by more women
 
-was linked to the forecast’s bias. This result helped dispel the skeptic’s
+joining the team, it would suggest that gender diversity was merely a
 
-notion that ethical ﬁrms simply end up with more women. Instead, it
+byproduct of a pre-existing ethical culture. In other words, an ethical
 
-shows that gender diversity actively shapes a team’s ethics. In short,
+team might naturally attract more female analysts over time. However,
 
-having a diverse team caused the integrity boost—not the other way
+that’s not what we found. A forecast’s bias showed no association with
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,11 @@
-# Psychological Bulletin, 83, 405–430.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 37a53080cafbf2d811b7b219333b47f192b86968
+title: untitled
+---
+# Educational Psychology, 27, 153–165.
 
-Naglieri, J. A., & Das, J. P. (1990). Planning, attention, simultane- ous, and successive cognitive processes as a model for intelli- gence. Journal of Psychoeducational Assessment, 8, 303–337.
+Miller, G. A., Galanter, E. H., & Pribram, K. H. (1960). Plans and the structure of behavior. New York: Holt, Rinehart and Winston.
 
-Naglieri, J. A., & Das, J. P. (1997). Cognitive assessment system.
+Miller, S. A. (1976). Nonverbal assessment of Piagetian concepts.

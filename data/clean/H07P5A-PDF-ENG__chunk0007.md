@@ -1,7 +1,27 @@
-# HBR / Digital Article / Watch Out for These 3 Gender Biases in Performance Reviews
+---
+source_path: H07P5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bfa554abaefd22a8acc5fd04579f9d29945f300d
+title: H07P5A-PDF-ENG
+---
+# Illustration by Anja Sušanj
 
-subject to biases that creep into the performance-review process and
+Because women continue to bear most of the burdens of caregiving,
 
-cause them to be judged unfairly.
+many have beneﬁtted from the ﬂexibility of hybrid and remote work,
 
-I witnessed this problem ﬁrsthand during a consulting project I did
+which has allowed them to remain part of the full-time workforce while
+
+spending more time at home. In theory, this is good news, because full-
+
+time employees tend to be promoted more often and let go less often —
+
+but in practice that’s not what’s happening. Why? Because when women
+
+take advantage of hybrid and remote work options today, they become
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

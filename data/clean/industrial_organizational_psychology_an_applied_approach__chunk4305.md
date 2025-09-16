@@ -1,7 +1,13 @@
-## Lindeman, M., Sundvik, L., & Rouhiainen, P. (1995). Under- or
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c5b4b8f65beeb6d8a043e5f8f2ff7a60cc09667d
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Lilienfeld, S. O., Wood, J. M., & Garb, H. N. (2001). What’s
 
-overestimation of self? Person variables and self-assessment accuracy in work settings. Journal of Social Behavior and Personality, 10(1), 123–134.
+wrong with this picture? Scientiﬁ c American, May, 80–87.
 
-Liou, K. T., Sylvia, R. D., & Brunk, G. (1990). Non-work factors and job satisfaction revisited. Human Relations, 43, 77–86.
+Lin, T. R., Dobbins, G. H., & Farh, J. (1992). A ﬁ eld study of race and age similarity eﬀ ects on interview ratings in conventional and situational interviews. Journal of Applied Psychology, 77(3), 363–371.
 
-Lippitt, R. Watson, J, & Westley, B. (1958). Dynamics of planned
+Lindell, M. K., Clause, C. S., Brandt, C. J., & Landis, R. S. (1998). Relationship between organizational context and job analysis task ratings. Journal of Applied Psychology, 83(5), 769–776.

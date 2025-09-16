@@ -1,1 +1,7 @@
-# that
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: a32f62503179b7836ad8521319595b71246c687d
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# instrumental approach

@@ -1,9 +1,15 @@
-## mental health with each other and their managers, and the utilization
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d97b754fdaf6f5da5de9251cb945e6db58473fd2
+title: H08NVC-PDF-ENG
+---
+## managers and HR teams about such sensitive issues.
 
-rate of the organization’s counselling hotlines also went up.
+After learning this, the HR director altered her approach to focus
 
-In this case, blaming culture for why people avoid discussing mental
+on conﬁdentiality training ﬁrst, highlighting the distinctions between
 
-health at work was an overly simplistic assumption. By fostering strong
+assistance, privacy, and gossip. The director spent a whole year building
 
-trust and respect for privacy, mental health didn’t have to be a taboo
+awareness around respecting others’ private matters. Consequently, employees in her regional oﬃce became more willing to talk about

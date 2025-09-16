@@ -1,7 +1,7 @@
-# 57
-
-Gutek, B. and B. Morasch, 1982. Sex-ratios, Sex-role Spillover, and Sexual Harassment of
-
-Women at Work. Journal of Social Issues, 38, 55-74.
-
-Hakim, C., 2000. Work-Lifestyle Choices in the 21st Century: Preference Theory. Oxford:
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 8841e16bbf604f52dfb2676da31ef8c7abde176a
+title: file_1
+---
+## Attitudes. Journal of Monetary Economics, 50, (1), 225-82

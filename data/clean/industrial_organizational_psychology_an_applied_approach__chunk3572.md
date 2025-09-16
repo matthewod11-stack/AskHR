@@ -1,9 +1,17 @@
-# Stress Personalities
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b3b6a4cf9a266d91aa5bba72b93c56630b5c3f31
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Predisposition to Stress
 
-Some personalities are more apt to respond negatively to stressors than are others. These include individuals with Type A personalities and neurotics.
+There appear to be individual differences in the extent to which people are susceptible to stress or are predisposed to tolerate stressors. For example, rates of coronary heart disease, exacerbated by stress, are higher for divorced persons than married people. Married people report higher satisfaction and less stress than unmarried people, top corporation executives have lower mortality rates than second-level executives, and people who live in suburban environments have more stress-related illness than people who live in rural environments. These individual tolerances can be explained by the following factors.
 
-Type A Personalities Do you, or does someone you know, talk and walk fast, get impatient easily, and always seem to be in a hurry? Chances are you or the person you know has a Type A personality. Type A individuals are characterized mainly by achievement striving, impatience and time urgency, and anger and hostility. They tend to do many things at one time (called multitasking). For example, a Type A individual would read the paper while eating lunch, type on the computer while talking to someone on the phone, and eat breakfast while driving to work. Type A’s are fast- paced individuals who talk and walk fast, finish other people’s sentences, and always seem to be on the go. They are achievement-oriented, competitive indi- viduals who tend to place work before pleasure. These characteristics become exaggerated when the Type A personality experiences stress (Schaubroeck, Ganster, & Kemmerer, ). Type A employees under stress are more likely than others to exhibit high blood pressure and high levels of stress-related hormones. In addition, Type A individuals are slower to recover after the stressor is removed (Schaubroeck et al., ). To determine if you are a Type A personality, complete Exercise . in your workbook.
+stress management: dealing with the demands of life and work
 
-Type B individuals seem to be more laid-back. That is, when a potentially stress-producing event occurs, they are better able to keep it in perspective and use more positive ways to deal with it. They are more relaxed and more agreeable.
+557
 
-Neuroticism Although research over the years has identified several individual personality traits related to stress (e.g., pessimism, negative affectivity, reduced hardiness, and self-esteem), research indicates that these individual traits fall under the general trait of neuroticism. Neurotics are anxious, often depressed, and pessimistic and lack hope. They are more likely to perceive events as being stressful and more likely to have negative reactions to stressful events than are people who are more emotionally stable (Conard & Matthews, ).
+558
+
+chapter 

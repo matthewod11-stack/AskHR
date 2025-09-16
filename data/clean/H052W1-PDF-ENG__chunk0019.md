@@ -1,19 +1,17 @@
-# “Be deliberate.”
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e09ed3e1dfae6d2038a73a9ab19c817e935a2b15
+title: H052W1-PDF-ENG
+---
+## HBR / Digital Article / How to Return to Work After Taking Parental Leave
 
-Reset your expectations
+the baby is going to daycare or staying at home with a nanny or family
 
-In those early days of coming back to work, it’s wise to think about how
+member, these people are now critical pieces to your professional
 
-you can recast yourself professionally. Think about “what makes you special or diﬀerent,” Dowling says. Then consider how to modify those
+puzzle. “Do you want them to send pictures to you while you’re at
 
-attributes to suit your new life. “If you were the hardest-working person
+work? Will you do FaceTime?” The bottom line is, “Don’t allow your
 
-in the oﬃce, then maybe you become the most eﬃcient. If you were the
-
-best mentor or project leader, you become the best delegator,” she says.
-
-Your goal is to reset your expectations for yourself. “If you don’t, you
-
-will ﬁnd yourself trying to play a role you can no longer play.” Rousseau
-
-agrees: “You need to be realistic about what you can and should give.”
+emotional bond with your child to play second ﬁddle,” Dowling says.

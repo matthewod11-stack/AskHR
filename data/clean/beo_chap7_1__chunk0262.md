@@ -1,9 +1,7 @@
-## . 1999. The econometrics and behavioral economics of escalation of commitment: a
-
-re-examination of Staw and Hoang’s NBA data. Journal of Economic Behavior and Orga-
-
-nization 39:59-82.
-
-Rick, S., R. A. Weber, and C. F. Camerer. 2004. The effects of organizational structure and
-
-codes on the performance of Jaboratory “firms”. Carnegie Mellon University Working
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 1db2b43bac7eded8f786ba844eab4cca3d474ae9
+title: beo_chap7_1
+---
+# approach. Management Science 49:400-15.

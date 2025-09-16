@@ -1,7 +1,35 @@
-## HBR / Digital Article / Make Better Decisions by Challenging Your Expectations
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9851e0080684b1503c6051de1330b3027de3d7d1
+title: H0705Q-PDF-ENG
+---
+# decision-making process.
 
-unknown problems. This overweighting of a single, data point, called
+Bill usually begins with a pro/con list to assess his options. However, he
 
-salience bias, might incline his parents to favor information about
+realized that his analysis of the situation might not be relevant for this
 
-services catering to their current lifestyle while ignoring undetermined
+decision. Decision ownership actually belonged to his parents. It was
+
+their future home that was at stake, not his.
+
+This step made it clear to Bill that he did not want to push his parents
+
+toward what he believed was best. That could introduce a projection
+
+bias, a common feature of our thinking where we believe others have the
+
+same priority, attitude, or belief that we do. Bill realized that he needed
+
+his parents to share how they’d like to analyze their living options so that he might best support their eﬀorts.
+
+In addition, Bill knew that his parents were focused much more
+
+on maintaining their current freedoms than on future potential and
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

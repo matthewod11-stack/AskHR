@@ -1,35 +1,49 @@
-## HBR / Digital Article / Ramp Up Your Career After Parental Leave
+---
+source_path: H05JR3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52059f3134480c33e0315907966c3eb017c863ce
+title: H05JR3-PDF-ENG
+---
+# Overcommunicate Overcommunicate your aspirations with your employer, colleagues, and
 
-But accept that things will also not always work out as you’d hoped. I had
+family openly and honestly. Share a detailed maternity plan with your boss
 
-to take a step back from one global initiative because the team, spread out
+that lays out what you want to achieve and the clients and areas that you
 
-across multiple time zones, would meet exactly at the time that I wanted
+want to cover. Schedule meetings with your boss before you leave, about a
 
-to be home with my boys. After sleepless teething nights, I’ve lost four —
+month before you come back, and monthly afterward to discuss how
 
-yes, four — passports and misplaced countless bank cards and travel coffee
+things are going. That way, they can step in to offer support when needed.
 
-cups. At times, our kitchen looks like it was hit by a tornado after we rush
+It’s also important to have continual conversations with your partner at
 
-out the door in the morning. Don’t let these kinds of mishaps cause stress
+home. Persistently check on how your balance of work and home life is
 
-— just smile and realize that you’re doing the best you can.
+going. In my house, this changes every week. We constantly talk — or
 
-Be open and honest when your best laid plans go awry. That way, the
+frantically text in the middle of the day — about who will pick up our
 
-broader team can understand that it is not always an easy journey.
+oldest from daycare and who can travel on which dates.
 
-Be a Champion for Others By bringing your whole self to work, you can encourage your employer to
+Course Correct Then, be prepared to adjust. It’s impossible to know what it’s like to juggle
 
-think through, and overcome, the potential obstacles involved in
+your family and your career until you’re in the thick of it. So be open to
 
-supporting not just your own ﬂexible work arrangements, but also those of
+reassessing your goals and course correct as required.
 
-others. Be sure to actively and visibly support people in a similar position.
+You may ﬁnd that you can do more than you expected. When I ﬁrst came
 
-Support individuals when the risks they have taken have failed and remind
+back from maternity leave, I was convinced that I wouldn’t be able to
 
-the organization, and the individual, that taking risks is a part of being
+commit to multiple client-facing roles. But once I set boundaries and
 
-successful — the important thing is to maintain faith in the individual’s
+became better at delegating, I found I had more time in my day than
+
+anticipated and could gradually take on more.
+
+Copyright © 2020 Harvard Business School Publishing Corporation. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,11 @@
-## patterns, mindsets, self image and ways of
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 490e9ea0a13a8158476d319f734395cbf9774845
+title: final_2019_jan_feb_jbs_pmd
+---
+# Abstract
 
-In the present scenario, it has become highly criti cal for organizations to lay emphasis on the aspect of developing competency model to identify key competencies which are required for any business to thrive. The objective of this research paper is to review the competency models and link it to the training and development models in practice.
+Business and industry have been using and applying different competency models for developing job profile, recruitment & selection process, train ing & development programs, training needs analysis, learning &development programs, performance appraisal, succession planning and viz. a viz. Competency-based approaches and models are becoming an answer to the organization’s expectations in all fields (public and private) to increase the products’ quality and employees’ capacity. Competency models are based on the idea that there is a productive relationship between employee competency and their deliverables.
+
+Dubois and Rothwell define competencies as, “characteristics that individuals possess and use in appropriate and consistent ways to achieve desired performance. These characteristics include knowledge, skills & traits, social motives, thought thinking.” Many researchers have shown growing interest in the development and nurturing of competency models to enhance organizational output. A competency model “is a descriptive tool that identifies the competencies needed to operate in a specific role within a job, occupation or organization etc.”

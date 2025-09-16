@@ -1,21 +1,23 @@
-# a tough topic.
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80f14cc3079a8fb911fe48242ff0050b27b31f87
+title: H079OJ-PDF-ENG
+---
+# important decisions together.
 
-Often, the cliﬀ event that triggers outright conﬂict after a long period of
+That’s not to say that fake harmony is irrational; most families have long
 
-fake harmony is seemingly small on its own. But the months or years
+memories. A diﬀerent opinion received poorly or in the wrong context
 
-of keeping quiet over other disagreements are baked into that moment,
+can explode into harmful conﬂict. If you disrupt family harmony, your
 
-too. So, when it explodes, it can be hard to undo the damage. And when
+family may hold that against you for the rest of your life.
 
-that happens, months, years, or even decades of progress as a family
+So even if you recognize that fake harmony is holding your family
 
-and an owner group can be undone. For example, one family owner we
+business back, you need to tread carefully. You don’t have to wade in
 
-know (all identiﬁable details have been changed) nursed wounds from
+with a laundry list of grievances. Strategic avoidance can be a sensible
 
-decisions by the other owners (his siblings) to wind down a favorite
-
-R&D eﬀort and hire the “wrong” non-family CEO, but he said nothing
-
-for months. His anger “irrationally” (accordingly to his siblings) boiled
+temporary negotiation tactic as you wait until the right time to bring up

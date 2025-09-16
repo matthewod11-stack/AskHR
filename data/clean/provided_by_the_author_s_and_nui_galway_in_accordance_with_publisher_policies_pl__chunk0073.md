@@ -1,11 +1,31 @@
-# these factors in turn.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: f0f617378719f1c15bd686c02be5cff74657b735
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## talent management and firm performance relationship.
 
-Drawing on insights from the behavioural perspective, we argue that strategic
+Highlighting the intervening variables that mediate the relationship between the inputs
 
-talent management systems are deployed to elicit desired role behaviours among the
+and outputs in our overarching model is important for multiple reasons. First, it helps
 
-organisation’s talent pool and assist in realising the organisations’ strategic objectives
+augment our understanding of the bridges that link the inputs and outputs in our model.
 
-(see Lepak and Shaw, 2008). Thus employee behaviours are theorised to mediate the
+We contend that it is through motivation, organizational commitment and extra-role
 
-20
+behaviour that we can more fully understand and predict the effects of talent management
+
+on overall organizational performance. Specifically, we expect that effective talent
+
+management will have an indirect positive relationship with organizational performance,
+
+mediated by work motivation, organizational commitment, extra role behaviour acting
+
+separately or in combination with one another. Second, the structure of the framework
+
+provides an opportunity for a full and appropriate representation of the underlying
+
+mechanisms that moderate the talent management and performance relationship which
+
+should be incorporated in future research. In the following sections we discuss each of

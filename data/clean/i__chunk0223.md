@@ -1,13 +1,25 @@
-# Employee Demographic:
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 7555eecc8f641edb11591cef2c996df446dcfda8
+title: i
+---
+# Different HR analysis:
 
-Employee Demographic deals with employee’s demographic information, e.g, gender, age,
+David E. Caughlin (2022), in his work, suggests seven applications for HR analytics
 
-year of experience, department, education background. Although demographic variable when
+- 1. Employee Demographic
 
-being put into analysis with a variety of other variables can be leveraged for more advanced
+- 2. Employee Surveys
 
-analysis, for example, employee segmentation; Employee Demographic analysis is more about
+- 3. Employee Training
 
-describing the workforce population, employing descriptive aggregation methods for ordinal
+49
 
-and nominal, interval and ratio variables, such as sum, average, min, max, and center tendency
+- 4. Employee selection
+
+- 5. Employee separation and retention
+
+- 6. Employee performance management
+
+- 7. Employee compensation and rewards

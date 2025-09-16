@@ -1,3 +1,19 @@
-# Motivation and Emotion 57
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 55845ade72b943af88baf4c1f7293605aa9e594c
+title: untitled
+---
+# Emotion
 
-thatthestructuresofthelimbicsystem(the“Papez”circuit)are concerned with motivation and emotion. However, modern neuroanatomy deconstructed the Papez circuit. The emphasis is now on the hypothalamus-pituitary axis, on descending neuralsystems,andontheamygdala.
+The dominant theory of emotion in the ﬁrst two decades of the century was that of James and Lange—“We feel afraid because we run” (see James, 1884). Actually, James focused more on the subjective experience of emotion, and Lange, a Danish anatomist, focused on the physiological phenomena, believing that subjective experience is not a proper topic for science. But between them they developed a comprehensive theory of emotion. The basic idea is that we ﬁrst perceive an emotionally arousing situation or stimulus (“a bear in the woods” is a favorite example), which leads to bodily (physi- ological) changes and activities, which result in the experi- enced emotion.
+
+This general view was challenged by the American physi- ologist Walter B. Cannon in the 1920s and 1930s. He actually
+
+agreed with James and Lange that the initial event had to be perception of an emotion-arousing situation but argued that the development of autonomic (sympathetic) responses— release of epinephrine and other bodily changes—occurred concomitantly with the subjective feelings (see Cannon, 1927). However, his primary interest was in the physiology, particularly the peripheral physiology. Cannon’s view was championed by the distinguished Johns Hopkins physiologist Philip Bard, who stressed the key role of the brain, particu- larly the thalamus and hypothalamus, in both emotional behavior and experience (see Bard, 1934). Cannon, inciden- tally, also contributed the notion of homeostasis, which he developed from Bernard’s concept of the milieu interieur.
+
+A key issue in these theories was the role of sympathetic arousal or activation in the experience of emotion. This issue was tested in a classic study by Stanley Schachter and Jerome Singer at Columbia University in 1962. They injected human subjects with either effective doses of epinephrine or a placebo. The epinephrine activated the sympathetic signs of emotions (pounding heart, dry mouth, etc.). Both groups of subjects were told they were receiving a shot of a new vita- min. Stooges acted out euphoria or anger in front of the sub- jects. The subjects were either informed of what the injection might do, for example, the autonomic side effects, or not in- formed. Results were dramatic. Uninformed epinephrine subjects reported emotional experiences like those of stooges but informed epinephrine subjects did not report any emotion at all. Emotion is more than sympathetic arousal—cognitive factors are also important.
+
+Experimental work on brain substrates of emotion may be said to have begun with the studies of Karplus and Kreidl in 1910 on the effects of stimulating the hypothalamus. In 1928, Bard showed that the hypothalamus was responsible for “sham rage.” In the 1930s, S. W. Ranson and his associates at Northwestern, particularly H. W. Magoun, published a clas- sic series of papers in the hypothalamus and its role in emo- tional behavior (Ranson & Magoun, 1939). In the same period, W. R. Hess (1957) and his collaborators in Switzer- land were studying the effects of stimulating the hypothala- mus in freely moving cats. A most important paper by H. Klüver and P. Bucy reported on “psychic blindness and other symptoms following bilateral temporal lobectomy in rhesus monkeys” in 1937. This came to be known as the Klüver- Bucy syndrome. The animals exhibited marked changes in motivation and aggressive behavior.
+
+Pribram (Bucy’s ﬁrst resident in neurosurgery) developed the surgical methods necessary to analyze the Klüver-Bucy syndrome.Thisanalysisledtohisdiscoveryofthefunctionsof theinferotemporalcortexinvisionandtotheexplorationofthe suggestions of J. W. Papez (1937) and P. D. MacLean (1949)

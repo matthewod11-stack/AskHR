@@ -1,7 +1,21 @@
-# best-selling book in his niche.
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1fa3449db4f89bce11e40901de66b055ae2249b5
+title: H08T4Z-PDF-ENG
+---
+# abundance.
 
-Based on our work in the space, we expect the number of independent
+Danny Bauer helps school principals achieve massive student and
 
-workers to double in a decade. Personal and ﬁnancial freedom are too
+culture outcomes. Adam Frankl helps developer-facing startups rapidly
 
-appealing, especially as job security at large employers in business and
+scale and secure their next round of funding. Both had successful solo
+
+consulting businesses, but both were so devoted to their craft they kept
+
+innovating. Now both run six-ﬁgure digital communities full of their
+
+people that they can help at scale and serve as a pipeline for their
+
+consulting. Danny launched a top-ranked podcast and Adam wrote a

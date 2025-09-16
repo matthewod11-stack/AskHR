@@ -1,25 +1,17 @@
-# The Office of Strategy Management
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9363da39df255cd7a261552d805b4dea56022f7b
+title: R0510D-PDF-ENG
+---
+# A
 
-A unit with responsibility for the implementation of strategy becomes a convenient focal point for ideas that percolate up through the organization.
+.
 
-consultant. It established and took ownership of a strategy communication program. The Army team created a Web site that was acces- sible from around the world in both classiﬁed and unclassiﬁed versions, developed an online portal and library containing information about the SRS, wrote articles about the initia- tive, published a bimonthly newsletter, con- ducted an annual conference, led periodic conference calls with SRS leaders at each com- mand level, and conducted scorecard training, both in person and on the Web. This extensive communication process was critical for edu- cating soldiers and civilian employees and gaining their support for the new strategy. And the Army project team, much as Chrysler’s did, began to facilitate the monthly discussions at headquarters about the readi- ness status of units around the world. Once again, an ad hoc project team had turned into a sustainable part of the organization’s struc- ture (the team and the SRS survived the ap- pointment of a new chief of staff in June 2004).
-
-The creation of a central ofﬁce for strategy execution may appear to risk reinforcing top- down decision making and inhibiting local ini- tiative, but it does just the opposite. A unit with responsibility for the implementation of strategy becomes a convenient focal point for ideas that percolate up through the organiza- tion. These emerging ideas can then be put on the agendas of quarterly and annual strategy reviews, with the best concepts being adopted and embedded in enterprise and business unit strategies. The OSM is a facilitating organiza- tion, not a dictating one.
-
-What Good OSMs Do Most of the organizations we have studied fol- low the path Chrysler and the Army took: The Balanced Scorecard project team incremen- tally and organically assumes more and more responsibilities on its own initiative. But that’s not the only way to institute an OSM. From these cases, we have learned what functions an effective OSM must perform and how an OSM must relate to other functions within the organization. As a consequence, a few organi- zations we advise have recently opted to make the creation of an OSM an early and integral part of their scorecard initiatives. Canadian Blood Services, the main provider of blood services in Canada with an annual budget of
-
-Can$900 million, more than 4,000 employees, and 17,000 volunteers, is an excellent example of an organization that created an OSM at the beginning of its journey to becoming more strategy focused. (See the sidebar “How to Wield Inﬂuence and Stay Informed,” by CEO Graham Sher.)
-
-What should people designing an OSM bear in mind as they embark on the project? Through research into Balanced Scorecard best practices, we’ve identiﬁed the activities that should be directly managed by or coordi- nated with an OSM. Some of these activities— speciﬁcally those involved in creating and managing the scorecard, aligning the organiza- tion, and setting the agenda for monthly strat- egy reviews—are the natural turf of an OSM. They did not exist prior to the introduction of the Balanced Scorecard, so they can be given to a new unit without infringing on the cur- rent responsibilities of any other department. But many other activities—strategic planning, budget supervision, or HR training, for in- stance—are already the territory of other units. In these cases, the company needs to be explicit about the allocation of responsibilities between the OSM and other functional units. We have identiﬁed the following basic OSM tasks:
-
-As the owner of the scorecard process, the OSM must ensure that any changes made at the annual strategy-planning meeting get translated into the company’s strategy map and Balanced Scorecard. Once the executive team has ap- proved the objectives and measures for the subsequent year, the OSM coaches the team in selecting performance targets on the score- card measures and identifying the strategic in- itiatives required to achieve them. As guardian of the scorecard, the OSM also standardizes the terminology and measurement deﬁnitions across the organization, selects and manages the scorecard reporting system, and ensures the integrity of the scorecard data. The OSM need not be the primary data collector for the scorecard, but it should oversee the processes by which data are collected, reported, and val- idated. Finally, the OSM serves as the central scorecard resource, consulting with units on their scorecard development projects and con- ducting training and education. Align the organization.
-
-Create and manage the scorecard.
-
-A company can ex- ecute its strategy well only if it aligns the strat-
+n o i t a r o p r o C
 
 harvard business review • october 2005
 
-page 6
+page 5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

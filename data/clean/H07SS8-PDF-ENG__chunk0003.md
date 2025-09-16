@@ -1,7 +1,19 @@
-# superpower.
+---
+source_path: H07SS8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 34adba12c67f034f6b5848ea27a0f9cd430e80da
+title: H07SS8-PDF-ENG
+---
+# Illustration by Carlo Cadenas
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+One of the most lauded leadership characteristics today is the ability
 
-1
+to pivot — to change course quickly when a planned path is blocked
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or revealed to be disadvantageous. This kind of rapid adaptation, often
+
+referred to as agility, is critical in a fast-changing environment or when
+
+innovating in unknown territory where old behaviors and management
+
+practices no longer work. It’s considered by some to be a leadership

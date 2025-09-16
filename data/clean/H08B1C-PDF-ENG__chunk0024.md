@@ -1,15 +1,19 @@
-# collaboration.
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bebf5ff74e3efb97930f901276e46a3877efb0ec
+title: H08B1C-PDF-ENG
+---
+# Demonstrate expertise with conﬁdence
 
-Instead of: Asking basic questions, such as “How do you see Y evolving
+The way you position your questions signiﬁcantly impacts how people
 
-over the next year?” or undermining your own expertise by prefacing
+perceive your knowledge. Framing your inquiries to reﬂect what you
 
-remarks with “This might be a simple question, but…”
+know will signal conﬁdence in your expertise. Thoughtfully craft
 
-Try: Posing the question in a way that highlights your deep
+questions to make your knowledge visible to others while helping
 
-understanding of the subject and contributes value to the discussion.
+them connect with and build upon your insights. You’ll not only
 
-For example, “Considering trends A and B in Y, how do you see Y
-
-evolving over the next year?”
+demonstrate your expertise but also foster meaningful engagement and

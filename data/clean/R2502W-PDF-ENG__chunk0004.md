@@ -1,11 +1,15 @@
-## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 566eaed8c825c3abf4bc5ffb98b02c7648b9c60f
+title: R2502W-PDF-ENG
+---
+## deﬁne as a combination of deep theoretical knowledge and practical
 
-knowledge to make fast and accurate patient diagnoses but also the
+know-how in a speciﬁc domain—can take many forms within a business. A doctor’s oﬃce requires not only a practitioner’s medical
 
-managerial capabilities to run a practice. A software company requires
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-expertise not only in software engineering but also in marketing, sales,
+1
 
-operations, and ﬁnance to bring its products to market. Companies create value by applying their expertise eﬃciently at scale to solve
-
-problems for their customers. Typically they possess it in a variety
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

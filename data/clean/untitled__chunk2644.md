@@ -1,21 +1,19 @@
-# Psychological Bulletin, 26, 652–660.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 21542ff4a0c0aa5be9db2110497a18c1cc4cdce1
+title: untitled
+---
+## Denmark, F. L. (1994). Engendering psychology. American Psy-
 
-Girgus, J. S. (1999). Refereeing on different playing ﬁelds. Diversity in higher education. American Psychologist, 54, 356–357.
+chologist, 49, 329–334.
 
-Goodwin,C.J.(1992).TheAmericanPsychologicalAssociationand the teaching of psychology. In A. E. Puente, J. R. Matthews, & C. L. Brewer (Eds.), Teaching psychology in America: A history (pp. 329–344). Washington, DC: American Psychological Association.
+Enns, C. Z. (1994). On teaching about the cultural relativism of psychological constructs. Teaching of Psychology, 21, 205–211.
 
-Gregg, A., Barnard, C. I., Bronk, D. W., Carmichael, L., Dollard, J., French, T. M., et al. (1970). The place of psychology in an ideal university: The report of the university commission to advise on the future of psychology at Harvard. American Psychologist, 25, 391–410. (Original work published 1947)
+Ernst, R., & Petrossian, P. (1996). Teachers of psychology in secondary schools (TOPSS): Aiming for excellence in high psychology instruction.American Psychologist, 51,256–258.
 
-Halonen, J. S. (1992). I was just lucky: An interview with model teacherWilbert J. McKeachie. InA. E. Puente, J. R. Matthews, & C. L. Brewer (Eds.), Teaching psychology in America: A his- tory (pp. 219–257). Washington, DC: American Psychological Association.
+Fretz, B. J. (1982). Aftermath of the renaissance in undergraduate psychology: Enlightenment or Machiavellian? Teaching of Psy- chology, 9, 55–59.
 
-Halpern, D. F., Appleby, D. C., Beers, S. E., Cowan, C. L., Furedy, J. J., Halonen, J. S., et al. (1993). Targeting outcomes: Covering your assessment concerns and needs. In T. V. McGovern (Ed.), Handbook for enhancing undergraduate education in psychol- ogy (pp. 23–46). Washington, DC: American Psychological Association.
+Furumoto, L. (1989). The new history of psychology. In I. S. Cohen (Ed.), G. Stanley Hall Lecture Series (Vol. 9, pp. 5–34). Washington, DC: American Psychological Association.
 
-Halpern, D. F., & Nummedal, S. G. (Eds.). (1995). Psychologists teach critical thinking [Special issue]. Teaching of Psychology, 22(1).
-
-Halpern, D. F., Smothergill, D. W., Allen, M., Baker, S., Best, D., Ferrari, J., et al. (1998). Scholarship in psychology: A paradigm twenty-ﬁrst century. American Psychologist, 53, for the 1292–1297.
-
-Henry, E. R. (1938). A survey of courses in psychology offered by undergraduate colleges of liberal arts. Psychological Bulletin, 35, 430–435.
-
-Hilgard, E. R., Leary, D. E., & McGuire, G. R. (1991). The history of psychology: A survey and critical assessment. Annual Review of Psychology, 42, 79–107.
-
-Hill, D. S. (1929). Control of psychology in state universities.
+Garvey, C. R. (1929). List of American psychology laboratories.

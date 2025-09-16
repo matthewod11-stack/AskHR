@@ -1,15 +1,23 @@
-## HBR / Digital Article / Want to Use AI as a Career Coach? Use These Prompts.
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f608f1a918a614481ebc14049e510595441e72fc
+title: H08O9C-PDF-ENG
+---
+# Personalization Tip:
 
-copy-paste what you get, but take the time to edit, reﬁne, curate, and
+Share your unique insights, experiences, and writing style. For example,
 
-above all vet and check the info. Errors are common, and your ability to
+you can record yourself talking about your career history, or write a one-
 
-spot them is itself a strong indicator of expertise.
+page summary of your skills and interests, and then get AI to upgrade
 
-- 7. Dealing with Everyday Work Problems
+and reﬁne that into a compelling story. Gen AI can help reﬁne your
 
-Workplaces can be full of challenges—diﬃcult colleagues, unclear
+voice and structure your thoughts into compelling narratives. Don’t just
 
-expectations, overwhelming workloads, or miscommunications. Gen AI can help you navigate these issues by oﬀering practical strategies, email
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-drafts, and structured responses to common workplace dilemmas.
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

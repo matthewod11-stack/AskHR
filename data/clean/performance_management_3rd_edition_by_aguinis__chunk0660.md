@@ -1,7 +1,9 @@
-# Summary Points
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 9746236b05d9abcbf0c39a00629f68b9e55065f5
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part II • System Implementation
 
-- Performance
-
-is about behavior or what employees do, not about what employees produce or the outcomes of their work. Performance management systems typically include the measure- ment of both behaviors (how the work is done) and the results (the outcomes of one’s work). Performance is evaluative (i.e., we judge it based on whether it helps advance or hinder organizational goals) and multidimensional (i.e., many behaviors are needed to describe an employee’s performance).
-
-- Performance is determined by a combi- nation of declarative knowledge (i.e., information), procedural knowledge (i.e., know-how), and motivation (i.e., willingness Thus, Performance = Declarative Knowledge × Procedural Knowledge × Motivation. If any of the three determinants of per- formance has a very small value (e.g., very little procedural knowledge), then performance will also have a low level. All three determinants of performance must be present for performance to reach satisfactory (and better) levels. • There are two important facets of per- formance: task and contextual. Task performance refers to the specific activ- ities required by one’s job. Contextual
+In spite of these challenges, there are situations in which a trait-oriented approach can be fruitful. For example, as part of its business strategy, an organization may anticipate drastic structural changes that will lead to the reorganization of most functions and the resulting reallocation of employees. In such a circumstance, it may be useful to assess the traits possessed by the various individuals so that fair and appropriate decisions are made regarding the allocation of human resources across the newly created organizational units. This is, of course, a fairly unique circumstance. In most organizations, performance is not measured using the trait approach. This is why two more popular approaches to measuring performance are based on behaviors and results, as we discussed earlier.

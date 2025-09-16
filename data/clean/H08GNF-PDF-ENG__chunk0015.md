@@ -1,11 +1,7 @@
-# communication skills.
-
-Here’s an example of an answer to the question, “Tell me about a time
-
-you failed”:
-
-Situation: As a sales representative, I was tasked with closing a
-
-major deal with a potential client. I had been working on this deal for
-
-several months and was conﬁdent that I had built a strong rapport
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38acc36822119ab376748171fd56cdc7c8b5992c
+title: H08GNF-PDF-ENG
+---
+## a potential employer about your problem-solving, collaboration, and

@@ -1,11 +1,19 @@
-## HBR / Magazine Article / Safety Should Be a Performance Driver
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3b3006d91aeb8b973a7f1c1a71654403f35271b
+title: R2405H-PDF-ENG
+---
+## their workplace environments physically and psychologically safe.
 
-to happen. In 2023 in the United States 3,300 recalls aﬀected more
+And yet considerable evidence suggests that most companies
 
-than 135 million products, a high not seen since 2016. U.S. employers
+mismanage safety. For all the policing and investment in compliance,
 
-reported 2.8 million injury and illness cases in 2022, a 7.5% increase
+products are frequently recalled, and workplace accidents continue
 
-over 2021. The United States saw 5,486 fatal work injuries in 2022—the
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-equivalent of one death every 96 minutes. Why aren’t companies doing
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

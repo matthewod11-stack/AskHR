@@ -1,5 +1,9 @@
-## Mechanisms Underlying the Happy-Productive Worker Hypothesis
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: ae42bc98fb533f6b3f11d285c929f72a945ee302
+title: barrickryan_eds_personality_and_work
+---
+# 34 PERSONALITY AND WORK
 
-As Judge et al. (2001) pointed out in their review of the job satis- faction and productivity literature, early formulations of the happy- productive worker hypothesis were based on theories developed in the social psychological attitudes literature. These early formula- tions posited that job satisfaction is an attitude, attitudes lead to be- havior, and therefore employees who have a positive attitude toward their job will engage in positive behaviors, which should result in higher productivity. In this version of the happy-productive worker hypothesis, happiness and satisfaction should result in higher pro- ductivity regardless of the nature of the tasks being performed.
-
-Subsequent research has complicated this simple formulation. First, researchers discovered that job satisfaction measures tap more than just attitudes toward one’s job. These measures also re- ﬂect temporary mood states and stable individual differences in af- fective predisposition and overall life satisfaction. In addition, researchers’ understanding of moods and underlying affective dis- positions has become increasingly sophisticated. Rather than see- ing affect and satisfaction simply as reactions to the objective events and conditions that a person experiences, researchers who are ex- amining subjective well-being have begun to realize that emotions and satisfaction can be functional and adaptive (Buss, 1991; Fredrickson, 1998). Furthermore, it seems likely that different forms of well-being have different functions, and thus different ef- fects on life outcomes. With this increased complexity comes a need for more speciﬁc hypotheses about the effects of happiness
+in very different ways. In addition, certain forms of happiness may be related to certain types of halo effects, in which happy people are liked more and rated as being more productive even when there are no objective differences in productivity. Therefore, it will be necessary, when formulating and testing hypotheses, to state ex- plicitly which form of productivity should be related to each com- ponent of well-being. Ideally, a variety of objective and subjective measures of productivity would be used to provide the most con- vincing tests of the happy worker hypothesis.

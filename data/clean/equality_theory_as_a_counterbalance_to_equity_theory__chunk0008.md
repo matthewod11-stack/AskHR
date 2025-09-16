@@ -1,11 +1,9 @@
-# Equality Theory
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: 0f14d7f6bea76bd2f2519b128b3bfcfd13a7959c
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+## The Myopias of Prior Organizational Research on Distributive Equality
 
-equivalent. Equality is typically deemed a superior basis for achieving distributive justice when the overarching goal is one of fostering or maintaining good interpersonal relations, attaining a sense of community, or achieving social integration (Deutsch 1985, 1986).
-
-The existing but relatively small body of research on distributive equality largely supports the above declared link between equality of distribution and socially integra- tive outcomes. For example, Lerner (1974) found that when partnership and team membership were stressed subjects tended to ignore differential input and opted to adopt an equality standard in distributing rewards. Leven- thal et al. (1972) found that allocators shifted toward the equality principle in allocating group rewards when they were instructed to minimize interpersonal conﬂicts. Mar- in’s (1981) subjects perceived an equality rule as more likely than equity to promote a friendly atmosphere and good relations. Leung and Park (1986) found that when the goal of a situation was that of enhancing friendship versus improving productivity, equity was deemed less fair, equality more so. Meindl (1989) found equality to be managers’ preferred distribution principle when solidarity was the goal, equity when productivity was emphasized. For similar studies (with like ﬁndings), see Bamberger and Levi (2009), Chen (1995), Colquitt and Jackson (2006), and Mannix et al. (1995).
-
-Yet the above cited research on equality distribution almost exclusively focuses on remunerative distribution within small groups (Bamberger and Levi 2009; Colquitt and Jackson 2006; Deutsch 1985, 1986; Lerner 1974; Leung and Park 1986; Leventhal et al. 1972; Mannix et al. 1995; Marin 1981; Meindl 1989), and this methodological prov- enance tilting toward small groups inadvertently narrows our ﬁeld of vision relative to the broader organizational potentials of distributive equality. It does so in two speciﬁc ways. One issue is that in small groups members are gen- erally equal in status. This exists in stark contrast to formal organizations broadly conceived, were most members are decidedly not equal in status. Organizations are, de facto, hierarchic systems. The second issue has to do with the lit- erature’s almost exclusive focus on remuneration. While in this paper, we do explore remuneration as one potential organizational venue for enacting greater distributive equality,hereagain,theremunerativefocusofpriorresearch may inadvertently narrow our ﬁeld of vision relative to potential distributive venues. For as we explore herein, within organizations—as cultural, social, and technical systems broadly conceived—there exist a good number of valued outcomes other than simply remunerative ones.
-
-Moreover, and most germane to the present paper, the extant limitation emanating from our received conceptualizations of dis- tributive equality. This limitation is located in the basic
-
-literature also contains a fundamental
+While a number of potential distributive standards exist (e.g., equity, equality, need, and others; Sabbagh et al. 1994), research has almost exclusively focused upon equity as a standard of fairness (Adams 1965; Greenberg 1990; Meindl 1989; Walster et al. 1978). Equity is generally deemed useful for distributing valued outcomes in the arena of economic activity (i.e., pay), where the emphasis is one of both motivating and rewarding individual achievement (Chen 1995; Deutsch 1985, 1986). As noted, distributive equality generally entails that outcomes be

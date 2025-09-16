@@ -1,9 +1,11 @@
-## Behavioral Observation Scales for the Job Dimension of "Instruk.tion"
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: d4e5c195cdd995919999e4cc5cad26025aa09afe
+title: document_resume
+---
+# A Behaviorally Anchored Rating Scale for the Dimension "Classroom Teaching Performance"
 
-32
+3/
 
-3.11
-
-Example of a behavioral scale based on expanding the performance standard for "Method of Instruction"
-
-34
+3.10

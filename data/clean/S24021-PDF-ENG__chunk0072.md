@@ -1,9 +1,13 @@
-## Francesca Gino, Paul Green Jr., and Bradley Staats reveals, B.good has
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13161fb68b09d5d193b07cb92ff8ba8f32e92618
+title: S24021-PDF-ENG
+---
+## The Perils of an Unintegrated Growth Strategy
 
-an innovative value proposition: Unlike most companies in the industry,
+B.good, a quick-serve restaurant founded in 2004, offers a cautionary
 
-B.good makes its burgers and other fast-food offerings using fresh, local
+tale about the need to make rate, direction, and method choices in an
 
-ingredients. In addition, it cultivates a “family” culture for employees and
-
-customers: The founders got to know many employees and often reached
+integrated manner when crafting a growth strategy. As a case study by

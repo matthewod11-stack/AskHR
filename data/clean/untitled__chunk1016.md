@@ -1,7 +1,17 @@
-# Leipzig, Germany: A. W. Unzer.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 63ddf8970d38a489a84d693665a3df248271b3b8
+title: untitled
+---
+# New York: Basic Books.
 
-Hohmann, G. W. (1966). Some effects of spinal cord lesions on ex- perienced emotional feelings. Psychophysiology, 3, 143–156.
+Hammond, W. A. (Ed.). (1902). Aristotle’s psychology: A treatise on the principles of life (De anima and Parva naturalia). London: S. Sonnenschein.
 
-Hunt, J. M., Cole, M. W., & Reis, E. S. (1958). Situational cues dis- tinguishing anger, fear, and sorrow. American Journal of Psy- chology, 71, 136–151.
+Hebb, D. O. (1946). On the nature of fear. Psychological Review, 53,
 
-Hunt, W. A. (1941). Recent developments in the ﬁeld of emotion.
+259–276.
+
+Hebb, D. O. (1949). The organization of behavior. New York: Wiley.
+
+Herbart, J. F. (1816). Lehrbuch zur Psychologie. Königsberg und

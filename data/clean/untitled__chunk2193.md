@@ -1,5 +1,13 @@
-## York: Harper. (Original work published 1911)
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f862ef31bd112923a4931689da6f5a86f0983f41
+title: untitled
+---
+# mance. Norwood, NJ: Ablex.
 
-Tenopyr, M. L. (1992). Reﬂections of a pioneering woman in indus- trial psychology. Professional Psychology: Research and Prac- tice, 23(3), 172–175.
+Tapscott, D., & Caston, A. (1993). Paradigm shift: The new promise
 
-Thayer, P. W. (1997). Oh! For the good old days! Industrial-
+of information technology. New York: McGraw-Hill.
+
+Taylor, F. W. (1947). Principles of scientiﬁc management. New

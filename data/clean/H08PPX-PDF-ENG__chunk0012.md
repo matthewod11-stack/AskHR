@@ -1,19 +1,19 @@
-# organization.
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5dd8c3083ad59c103c029cc4d3092c87b27bfc65
+title: H08PPX-PDF-ENG
+---
+## organizational commitment. Ironically, research shows that explicitly
 
-Given that organizations are complex systems with diverse
+linking DEI policies to ﬁnancial returns can actually undermine the
 
-stakeholders, regulations, and opportunities, there is no one-size-ﬁts-all
+sense of belonging among underrepresented employees—precisely the
 
-metric for capturing DEI goals. To identify the right metric for their
+group many organizations are trying to recruit and retain.
 
-organization, leaders should determine the indicators that best align
+A sustainable DEI strategy seeks to integrate both business and cultural
 
-with their strategic objectives. For example, in organizations that serve
+imperatives, ensuring that DEI is not just linked to short-term ﬁnancial
 
-a demographically diverse population, a success metric might be having
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+gains, but embedded in the long-term health and success of the

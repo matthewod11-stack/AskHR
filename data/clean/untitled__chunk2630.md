@@ -1,17 +1,13 @@
-# SERVICE
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3089b5fcfeb1f5ed4efb3e326e1cf6609c1dbbf2
+title: untitled
+---
+## course instruction and the overall curriculum.
 
-A consistent problem was evident for most of the twentieth century:
+e. opportunities to communicate assessment results to multiple
 
-What has been the result, after 30 years, of the 1951 recommen- dation that we give primary emphasis, in the undergraduate cur- riculum, to the contribution psychology can make to a liberal education, to Renaissance persons? Few contemporary psychol- ogists, beyond those actively involved in the conferences or in national committees explicitly charged with undergraduate edu- cation, have an awareness that the conferences were even held, let alone awareness of the recommendations made.Amajor chal- lengeforundergraduateeducationinthenextdecadeistoinvolve a greater proportion of leading psychologists in discussion of the issues in developing and maintaining effective undergraduate education in a rapidly changing environment. (Fretz, 1982, p. 55)
+constituencies of undergraduate psychology. (p. 255)
 
-Fretz’s observation in a special issue on curriculum of the journal Teaching of Psychology should not be limited just to one historical period; recall similar comments made by E. C. Sanford (1910) and Wolﬂe (1942). However, in the last decades of the twentieth century, there has been ample evi- dence that a “greater proportion of leading psychologists” have become involved in networks of service activities in be- half of undergraduate education.
-
-In Teaching Psychology in America: A History (Puente, Matthews, & Brewer, 1992), numerous authors documented how organized groups advanced the teaching and scholarship of the discipline via service activities at the regional, state, and national levels. We urge the reader to review other his- torical analyses to appreciate more fully how the teaching of psychology was portrayed in psychological journals (Beins, 1992), in undergraduate textbooks (Morawski, 1992; Weiten & Wight, 1992) and handbooks (Pate, 1992), or in experi- mental laboratories (Benjamin, 2000; Capshew, 1992).
-
-Goodwin (1992) suggested that “the APA’s involvement with teaching was sporadic at best in the years prior to 1945. . . . [T]he APA had other priorities during that time (p. 330) . . . establishing disciplinary identity for psychology and professional status for psychologists (p. 339).” In con- trast, Nelson and Stricker (1992) made a persuasive case that “the APA has demonstrated a clear commitment to issues of teaching and the needs of teachers since 1945” (p. 346). An Education and Training (E&T) Board became part of a reor- ganized APA in 1951 so that “organized psychology not lose sight of its responsibilities in addressing more fundamental issues of education (i.e., in psychology as part of liberal edu- cation)” (p. 348). The E&T Board was instrumental in spon- soring the various conferences on undergraduate education reviewed by Lloyd and Brewer (1992).
-
-Brewer (1997) and Ernst and Petrossian (1996) also de- scribed how the APA established in 1996 a continuing com- mittee for Teachers of Psychology in Secondary Schools (TOPSS). This action recognized that “an estimated 800,000 students take precollege psychology courses each year” and that “approximately 15,000 students took the [AP] exam, making psychology the fastest growing Advanced Placement exam in the history of the ETS’s program” (Brewer, 1997, p. 440).
-
-Wight and Davis (1992) described the various stages that Division 2, Teaching of Psychology (now the Society for the Teaching of Psychology), went through in serving APAmem- bers committed to learning not just about scientiﬁc method- ologies and results from one another but about the pedagogy by which the discipline might be more effectively communi- cated to its students. Daniel (1992) described the evolution of the division’s journal, Teaching of Psychology, which serves similar needs and functions in the description, evaluation, and dissemination of innovative pedagogical and program- matic practice. Focusing on regional service activities, Davis and Smith (1992) described a plethora of conferences for teachers and students of psychology. Focusing on how psy- chologists have gathered students to learn more about the dis- cipline at the college and community college campus levels, Cousins, Tracy, and Giordano (1992) described the histories of Psi Chi and Psi Beta, the two national honor societies.
-
-As the twentieth century came to a close, theAPADivision 2, Society for the Teaching of Psychology (STP), posted a Web site (www.teachpsych.org) available to students and fac- ulty members for information about the division, its journal, national and regional teaching conferences, teaching awards, a mentoring service, a departmental consulting service, news- letters, and a moderated discussion group for psychology teachers at all levels of instruction. The STP Ofﬁce of Teach- ing Resources in Psychology (OTRP Online) provides
+In the next section, we focus on service—how psycholo- gists, through their communications and activities with one another at national and regional meetings—achieved greater sophistication and effectiveness in their pedagogy and a dis- tinctive disciplinary character for our undergraduate acade- mic programs.

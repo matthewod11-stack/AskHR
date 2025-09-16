@@ -1,7 +1,9 @@
-## of your professional relationships and communication skills.
+---
+source_path: H07M1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd0432cbfc70b75c31856f678c60dcf60cf1e5e2
+title: H07M1A-PDF-ENG
+---
+## HBR / Digital Article / Building Social Capital When You Work Remotely
 
-Just like any other currency, social capital can be earned, invested, and
-
-spent. When it comes to your professional longevity, there is no greater
-
-fortune than your worth in social capital. So how much do you have in
+your industry, and stay ripe for opportunities depends on the strength

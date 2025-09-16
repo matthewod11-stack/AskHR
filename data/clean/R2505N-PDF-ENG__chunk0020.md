@@ -1,9 +1,11 @@
-## might structure all of your one-on-ones around a list of questions, such
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 396e9003888b2e62e016756f27099b7aa1c7878f
+title: R2505N-PDF-ENG
+---
+# delegate and tick those oﬀ one by one.
 
-as, What is your most pressing challenge right now? What steps are you
+Routinize good practices. Putting routines in place with others can make
 
-taking to overcome it? What’s one thing I can do to support you? In
-
-group meetings, make a habit of asking every person attending to give
-
-an opinion so you have a window into how each might contribute to the
+the work of managing, including delegating, easier. For example, you

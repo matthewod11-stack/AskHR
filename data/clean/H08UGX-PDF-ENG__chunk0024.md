@@ -1,17 +1,11 @@
-## Practical Ways to Set (and Keep) Boundaries at Work
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: afc3df7dbd3175affc38377850b84b80a098c8d4
+title: H08UGX-PDF-ENG
+---
+# HBR / Digital Article / Why Leaders Should Bring Their Best Self—Not Their Whole Self…
 
-So what’s a leader to do? The goal is not to be robotic or disingenuous
+but we should feel sorry for those who put up with it). At work, it’s an
 
-(though, contrary to popular belief, that is often a sign of leadership
-
-competence), but to be strategic about what you reveal, and when.
-
-Research shows that authenticity, especially in leadership, is less a
-
-ﬁxed trait and more an attribution—something others perceive rather
-
-than something objectively measurable. People tend to judge leaders as
-
-authentic when they display consistency, predictability, and empathy—
-
-qualities that signal coherence between words, actions, and presumed
+HR nightmare. Boundaries aren’t repressive; they’re responsible.

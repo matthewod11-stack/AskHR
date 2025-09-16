@@ -1,15 +1,11 @@
-# direct my eﬀorts.”
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9213f2b48e4bf24fae3d23b5f3d3b20b519d936
+title: H08OJX-PDF-ENG
+---
+## reservations about someone’s readiness for that environment.”
 
-- 3. Highlighted the achievements: “Delivering (e.g., the market
+- 2. Reframed the narrative: “My primary focus is not just managing
 
-expansion or business optimization) and driving (e.g., revenue growth
-
-or market share increase) is my main concern, which is why you can
-
-already see our teams delivering (e.g., increased quarterly proﬁts,
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+pressure but generating concrete results. That’s where I consistently

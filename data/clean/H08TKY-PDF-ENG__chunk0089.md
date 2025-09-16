@@ -1,17 +1,9 @@
-## Hardball: The single-minded pursuit of competitive advantage and the
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dae96ce38647fda26aa0c942f8412c82ddf856bf
+title: H08TKY-PDF-ENG
+---
+## Watch “The Explainer: Porter’s Five Forces” video
 
-beneﬁts it oﬀers: a leading market share, great margins, and rapid
-
-growth. This involves picking your shots, seeking out competitive
-
-encounters, setting the pace of innovation, and testing the edges of the
-
-possible. While there are countless ways to play hardball, a handful of
-
-classic strategies are eﬀective in generating competitive advantage. Best
-
-employed in bursts of ruthless intensity, these strategies are: Devastate
-
-rivals’ proﬁt sanctuaries, plagiarize with pride, deceive the competition,
-
-unleash massive and overwhelming force, and raise competitors’ costs.
+[ H ]

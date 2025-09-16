@@ -1,5 +1,7 @@
-# Treat employees like intrapreneurs.
-
-Our research showed that ﬁrms whose employees feel they are treated
-
-more like intrapreneurs enjoyed a level of entrepreneurial intensity
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9f3fe3076169ab97ff4963fccdc07828ba90a4c
+title: H07RXW-PDF-ENG
+---
+# them.

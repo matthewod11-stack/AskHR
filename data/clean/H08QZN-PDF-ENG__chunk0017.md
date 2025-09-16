@@ -1,15 +1,17 @@
-# there.
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a25ed28253b1d58ea263a2994d1024a6f0663f2
+title: H08QZN-PDF-ENG
+---
+# adaptation.
 
-While his team felt safe and supported, several recent project
+One of my coaching clients was an SVP of technology, responsible
 
-failures reduced other stakeholders’ conﬁdence in the SVP’s
+for innovating engineering processes to improve his company’s
 
-operational maturity. He developed a reputation for overpromising and
+competitive edge. His style was grounded in vision-building and
 
-underdelivering, caused by two problems with his leadership approach:
+democratic decision-making, motivating the team to imagine the
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+impossible and engage in healthy, inclusive debates about how to get

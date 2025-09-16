@@ -1,3 +1,7 @@
-# Children and Youth Services Review, 32(6), 847–856. https:// doi.org/10.1016/J.CHILDYOUTH.2010.02.004
-
-Shim, M. (2014). Do organisational culture and climate really matter for employee turnover in child welfare agencies? Brit- ish Journal of Social Work, 44(3), 542–558. https://doi.org/ 10.1093/BJSW/BCS162
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: 29626da5dd73d7d37498a13f2c1bbedb082f1ef8
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# Bujang et al.

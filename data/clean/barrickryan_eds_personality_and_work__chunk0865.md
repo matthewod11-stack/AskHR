@@ -1,5 +1,9 @@
-# Social and Legal Implications
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: e161054420c9f2f51ae3487645ca96cf8ad73cae
+title: barrickryan_eds_personality_and_work
+---
+# 314 PERSONALITY AND WORK
 
-With increased ethnic diversity within national workforces and globalization of markets comes a desire for greater representation of all ethnic groups in all areas of employment (equality in per- sonnel selection ratios across jobs). Two streams of research indi- cate that merit systems (as opposed to forced equality or quota systems) can be used to advance this important social and business goal. First, the evidence is persuasive that overall validity increases when personality and cognitive measures are used in combination (Schmidt & Hunter, 1998). Second, summaries of mean score dif- ferences between ethnic groups indicate that most ethnic groups score similarly on most personality variables (Hough, 1998b; Hough, Oswald, & Ployhart, 2001) whereas on measures of cogni- tive ability, signiﬁcant mean score differences exist.
-
-One obvious strategy for obtaining more equal selection ra- tios is to include both personality and cognitive ability measures in selection systems. However, even when a typical cognitive abil- ity measure is equally weighted with a personality variable on which all ethnic groups score similarly, the reduction in the com- posite mean score difference between whites and, for example, African Americans will be less than the expected half (Sackett & Ellingson, 1997). Moreover, on some facets of the Big Five, small mean score differences do exist, with whites scoring lower than some minority groups on some facets and higher on other facets. For example, whites score approximately .12 standard deviations lower than African Americans on surgency but approximately .31 standard deviations higher on afﬁliation, both of which are facets of Extraversion.
+outcomes increased when emotional stability and extraversion were included, with group-level variables explaining more variance in worker reactions when dispositions were included, whereas stud- ies using only individual-level analyses indicate a decrease in the relationship between work characteristics and worker reactions when stable personality variables are included. In addition to all the factors described throughout this chapter, the usefulness, ac- curacy, and validity of our theories also depend on level of analy- sis. Our theories need to reﬂect the multitude and complexity of world of work outcomes and their multiple determinants.

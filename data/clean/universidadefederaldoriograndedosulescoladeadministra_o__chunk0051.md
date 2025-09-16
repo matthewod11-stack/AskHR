@@ -1,13 +1,13 @@
-# tendo-o apenas
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: ab6d08aab7de8e93e029a54a52678f622044a498
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# a
 
-renomeado-o de eNPS, com a inclusão do prefixo "e" como abreviação do termo em
+6
 
-inglês "employee", que significa funcionário. Legerstee (2013) conceitua eNPS
+vem sendo utilizada, cada vez por mais companhias como uma medida para os
 
-retomando sua origem no marketing e citando casos de empresas norte-americanas
-
-que já utilizavam-se do eNPS em 2013, como a JetBlue, a Vodafone e a Symantec.
-
-Segundo ele, analogamente ao que Reichheld (2003) descobriu sobre o NPS - que
-
-ele poderia predizer sozinho o crescimento das companhias -, o eNPS, enquanto
+construtos de engajamento e satisfação com o trabalho,

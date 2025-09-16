@@ -1,7 +1,11 @@
-## Working for Health Inter Agency Data Exchange in 2018
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: 3410c52ec7861125204ed53e6d47569158cbec36
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+## This new analysis of gender inequities in the health
 
-enabled the generation of new evidence through analysis
+workforce was made feasible by improved data availability
 
-of LFS micro-data from ILO and census micro-data from
-
-the Integrated Public Use Microdata Series (IPUMS). It is recommended to continue the progressive implementation
+for various indicators from NHWA. The establishment of the

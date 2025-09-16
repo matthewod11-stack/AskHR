@@ -1,23 +1,13 @@
-## HBR / Magazine Article / How to Identify the Perfect Cofounder
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 078c6d3d678ea534ca4c14c4267bc8530a16f07b
+title: R2504K-PDF-ENG
+---
+# just under $500 million.
 
-It’s important to come to an agreement up front, because it is diﬃcult
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to do so once the venture is in ﬂight. What’s more, the prenup
+13
 
-conversation often uncovers the goals and character of a potential
-
-partner. Just as a couple considering a long-term commitment may
-
-discuss whether each party wants to have kids, cofounders should
-
-discuss desired outcomes and how they see their roles evolving as the
-
-business scales. During one prenup conversation, two cofounders I had
-
-been working with had already nailed down titles and responsibilities
-
-when they discovered that one wanted to exit fast for a quick return
-
-and the other wanted to build a long-term business with IPO potential.
-
-That misalignment led to their eventual decision not to move forward
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,13 @@
-# Brown, Green, and Longmans.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9b834c64c1f901403f80d087367d5242fae55d84
+title: untitled
+---
+## Smith, L., Best, L., Cylke, V., & Stubbs, D. A. (2000). Psychology
 
-Stam, H. J., & Kalmanovitch, T. (1998). E. L. Thorndike and the origins of animal psychology. American Psychologist, 53, 1135–1144.
+without p values. American Psychologist, 55, 260–263.
 
-Sternberg, S. (1969). The discovery of processing stages: Exten- sions of Donders’ method. In W. G. Koster (Ed.), Acta psy- chologica, 30, attention and performance II (pp. 276–315). Amsterdam: North Holland.
+Sokal, M. (1987). James McKeen Cattell and mental anthropome- try: Nineteenth-century science and reform and the origins of psychological testing. In M. Sokal (Ed.), Psychological testing and American society 1890–1930 (pp. 21–45). New Brunswick, NJ: Rutgers University Press.
 
-Stevens, S. S. (1935a). The operational basis of psychology. Ameri-
+Spencer, H. (1855). Principles of psychology. London: Longman,

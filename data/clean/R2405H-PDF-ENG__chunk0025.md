@@ -1,15 +1,21 @@
-## study of 11,451 customers across 1,785 companies in 65 industries
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bc3f3473f81436a066011645f6bc6aeb22a0817d
+title: R2405H-PDF-ENG
+---
+# What the Data Says
 
-conducted by one of us found that safety is associated with a 9% lift
+CEOs can ﬂip the script on safety and reframe it as a performance
 
-in overall customer satisfaction, which in turn drives a 13% increase
+driver to be invested in. Plenty of evidence supports this claim. A
 
-in sales. A 2024 study of 2,484 B2B purchasing decisions found that
+landmark study of the U.S. auto market in 1996 found that consumers
 
-customers are more likely to choose vendors with better safety training.
+pay signiﬁcantly more for vehicles that have features such as airbags
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+and antilock brakes. A 2015 study of 16,576 choices made by 540 airline
 
-4
+passengers revealed that safety information drives carrier choice.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Our own research across industries supports this framing. A 2021

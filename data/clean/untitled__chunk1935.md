@@ -1,3 +1,11 @@
-## mind. London: Longman, Brown, Green, Longmans.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4ef0d8ec64b114efa2e7efcecc77644f1574d854
+title: untitled
+---
+# Journal of Psychiatry, 136, 1128–1134.
 
-Willis, T. (1684). Practice of physick (S. Pordage, Trans.). London:
+Whytt, R. (1765). Observations on the nature, causes, and cure of those disorders which have been commonly called nervous, hypochondriacal, or hysteric, to which are preﬁxed some remarks on the sympathy of the nerves. Edinburgh, Scotland: Becket & De Hondt.
+
+Wigan, A . L. (1844). A new view of insanity: The duality of the

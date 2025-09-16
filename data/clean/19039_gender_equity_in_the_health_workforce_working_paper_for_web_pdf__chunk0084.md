@@ -1,7 +1,9 @@
-## Geneva: International Labour Organization; 2018.
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: 8ad00300f91ae515d96c09b0ca6cfde98a1d4fc2
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+# Source: Data from LFS.
 
-Gender equity in the health workforce: analysis of 104 countries
-
-The remaining pay differential of 11.2% could be
-
-attributable to a wide array of factors, including women’s
+7 ILO. Global wage report 2018/19: what lies behind gender pay gaps.

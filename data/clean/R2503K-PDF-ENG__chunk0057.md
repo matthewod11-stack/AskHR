@@ -1,11 +1,15 @@
-# performance and innovation.
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63ec51810e4d1a82b007b9ebfea4db132c99b384
+title: R2503K-PDF-ENG
+---
+## Autonomy, psychological safety, diversity, and transparency all matter.
 
-A version of this article appeared in the May–June 2025 issue of Harvard Business Review.
+Cultural intelligence is the key to navigating these complexities on
 
-David Livermore is a founder of the Cultural Intelligence Center, the director of the Society of CQ Fellows, and the Ahmass Fakahany Visiting Professor in Global Leadership at Questrom School of Business, Boston University.
+cross-cultural teams. It enables leaders to create environments where
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+all team members feel valued, understood, and motivated. This
 
-16
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+approach not only builds a more inclusive workplace, it enhances team

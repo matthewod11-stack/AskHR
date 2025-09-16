@@ -1,19 +1,23 @@
-# across companies.
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b674ed3f903c1ceed39e1cd7874c703b672631fa
+title: H07TEY-PDF-ENG
+---
+# ﬁrms.
 
-We also found that the eﬀects of salary benchmarking are quite
+Here’s what we found: let’s say that a ﬁrm sets the “right” salary when
 
-symmetric. After looking up the benchmark, ﬁrms are less likely
+they choose a salary that is in a narrow (5%) band of the median salary
 
-to pay signiﬁcantly above-market, presumably because it would be
+for the same position, industry, and state. Prior to gaining access to
 
-wasteful; but ﬁrms are also less likely to pay signiﬁcantly below-market,
+the benchmarking tool, there was an 11.6% probability that a ﬁrm sets
 
-presumably because it would be costly in terms of attracting, retaining
+the “right” salary. After gaining access to the benchmarking tool, the
 
-and motivating employees.
+probability of setting the “right” salary increased two-fold, to 22.1%.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+This is compelling evidence that these salary benchmarks are truly
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+inﬂuencing pay-setting, and causing position-level salaries to converge

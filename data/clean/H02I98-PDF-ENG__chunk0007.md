@@ -1,17 +1,11 @@
-# acceptance.
+---
+source_path: H02I98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 560a776015772540e249861b872821abad8124bd
+title: H02I98-PDF-ENG
+---
+# work-related travel.
 
-To make this best-practice package work, companies need to address a
+Again, it’s all about culture: it never hurts to arm leave liaisons with
 
-gut-level concern. Why encourage parental leave when—let’s be frank—
-
-it’s a damn nuisance when people take it?
-
-Parental leave is inconvenient. So are heart attacks. It would be far more
-
-convenient if employees had neither babies nor bodies.
-
-But the bigger nuisance is losing valuable team members, over and over
-
-again, due to outdated policies. Hiring’s a crapshoot; anyone who has
-
-done a lot of it knows that. Leaves, while inconvenient, are far better
+cute company logo infant onesies. Little things can do a lot to signal

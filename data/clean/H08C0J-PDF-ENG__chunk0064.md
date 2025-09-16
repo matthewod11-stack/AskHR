@@ -1,25 +1,13 @@
-## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7e9f24385df62d16828753e0d4b35140f10dd7e
+title: H08C0J-PDF-ENG
+---
+# improvement.
 
-Instead, executives should start by focusing on how the company is
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-taking action to protect all employees. When Pichai, Google’s CEO,
+10
 
-engaged and advised employees as wildﬁres blazed across California,
-
-his communication emphasized action-driven eﬀorts to enhance safety
-
-and well-being via the GSRS I described earlier in this article, and he
-
-made it personal and relatable by sharing anecdotes: “Like many Bay
-
-Area Googlers, the ﬁrst thing I noticed when I stepped outside today was
-
-the smell of smoke from nearby ﬁres.” He also oﬀered compassionate
-
-acknowledgment, saying, “Fires burning across California and Colorado
-
-have already prompted thousands to evacuate their homes and our
-
-hearts go out to the many Googlers aﬀected.” This real-time, authentic
-
-style of communication is crucial for building a trusted platform for
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

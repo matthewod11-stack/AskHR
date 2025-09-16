@@ -1,37 +1,29 @@
-## HBR / Magazine Article / Three Ways to Lead Learning
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b32ae70930eca94164ee0c65e4480ee8d25bfcb
+title: R2501H-PDF-ENG
+---
+# right time.)
 
-programs designed like this help participants strengthen their skills and
+For his series House of Books, Franck Bohbot set out to capture the essence and character of libraries around the world.
 
-rise up the ranks and help the company grow.
+Custodians prefer centrally developed boot-camp-type learning that
 
-A classic example of the custodian approach is Apple University. Aware
+facilitates the deliberate acquisition and practice of new skills. Courses
 
-that the company was growing fast and that he would soon let go of its
+replicate the actual workplace, oﬀer employees timely feedback on their
 
-reins, Steve Jobs hired Joel Podolny, then the dean of the Yale School of
+practice attempts, and allow them to try again. The goal is for people to eﬃciently gain facility with new or diﬃcult skills. Learning experiences
 
-Management, to develop a bespoke curriculum to socialize employees
+are explicitly connected to the company’s strategy and culture, since
 
-in Apple’s unique ways of making decisions, communicating, and
+custodians disdain initiatives that are “too academic,” or too distant
 
-building products—and teach them the fundamental principles of
+from immediate application in the company. In the right contexts
 
-simplicity, usefulness, and intuitiveness that Jobs held dear.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-The custodians we spoke with were most successful and most satisﬁed
+4
 
-in companies where there was a pressing need for alignment—for
-
-example, following the launch of a new strategy or after a period of
-
-fast growth that had strained coordination across the ﬁrm. In such
-
-circumstances custodians can bring much-needed standardization and
-
-strengthen the common culture through their approach to learning. But
-
-we have seen custodians suddenly be ﬁred, too—for example, when a
-
-new CEO determines that the company’s learning approach is too rigid,
-
-stiﬂing innovation or overlooking talent whose views might beneﬁt the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

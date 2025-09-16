@@ -1,11 +1,9 @@
-## multiple functions, components, or touchpoints into uniﬁed systems
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4da8c28c3d87816572c49230afd2b9e51d5f264f
+title: H08SNU-PDF-ENG
+---
+## Consolidation: Combine multiple functions into integrated solutions
 
-that deliver the same value with fewer moving parts.
-
-For instance, Estonia’s e-Residency rolls multiple bureaucratic tasks
-
-into a single digital ID. Using this system, entrepreneurs worldwide
-
-can launch and run an EU-based company entirely online with
-
-one smartcard login. Paperless ﬁlings reduce administrative burdens
+This encompasses both compression of processes and integration of

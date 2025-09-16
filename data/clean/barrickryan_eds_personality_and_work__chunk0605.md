@@ -1,7 +1,11 @@
-## THE MULTILEVEL ROLE OF PERSONALITY IN TEAMS 199
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 7e4b2040d1be1d026f9d848b323829b3d47291f0
+title: barrickryan_eds_personality_and_work
+---
+# A Multilevel Perspective
 
-- A moderator model, which exists when a construct at one level (team cohesion) is hypothesized to inﬂuence the relationship between two constructs at a different level (individual traits and individual performance)
+Kozlowski and Klein (2000) provide a useful framework for sum- marizing the multilevel effects of personality in teams. They sug- gest that cross-level models, which describe relationships between different constructs at different levels of analysis, tend to take three forms:
 
-- A frog pond model, which occurs when the effect of a con- struct at one level (an individual trait) is dependent on the rel- ative standing of that construct in a higher-order construct (team personality as expressed by an overall mean)
-
-Several of the multilevel effects of personality in team settings can be summarized by looking at them in terms of this framework.
+- A direct effects model, which occurs when a construct at one level (individual personality) is hypothesized to directly inﬂu- ence a construct at another level (team-level personality)

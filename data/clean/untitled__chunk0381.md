@@ -1,7 +1,9 @@
-## Washington, DC: American Psychological Association.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fba4087de34d05cfb8847952ef0b86136de5d2d6
+title: untitled
+---
+# New York: Oxford University Press.
 
-Moore, D. L. (1992). The Veterans Administration and the training program in psychology. In D. K. Freedheim (Ed.), History of psychotherapy: A century of change (pp. 776–800). Washington, DC: American Psychological Association.
-
-Münsterberg, H. (1909). Psychotherapy. New York: Moffat, Yard.
-
-Münsterberg, H. (1913). Psychology and industrial efﬁciency.
+McReynolds, P. (1997). Lightner Witmer: His life and times.

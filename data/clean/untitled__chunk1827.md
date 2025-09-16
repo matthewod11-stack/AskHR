@@ -1,3 +1,19 @@
-# Social Darwinism
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9a82ee4349cc08d9b331b058ec4bee4ff36982aa
+title: untitled
+---
+# Brain Lesions and Psychopathology
 
-Perhaps the most important nineteenth-century development arose from the impact of Charles Darwin’s work. Evolu- tionary theory and the conception of man as a descendant of earlier animal forms were not totally unknown before
+Throughout the second half of the nineteenth century, many physicians attributed all mental derangement to cerebral pathology. Technical limitations mostly prevented physicians from establishing the nature and location of central nervous system pathology until after the patient had died, and so med- ical researchers turned to autopsies to conﬁrm the supposi- tion that brain pathology underlay psychopathology.
+
+D. Hack Tuke (1881), in his presidential address to the Medico-Psychological Association, reviewed autopsy re- search into the physical correlates of mental pathology. He
+
+concluded that the morphological and histological study of the brains of idiots by Mierzejewski, Luys, and others were
+
+. . . sufﬁcient to prove, had we no other evidence, the fundamen- tal truth of cerebro-mental pathology—the dependence of healthy mind on healthy brain. . . . We are surely justiﬁed in expecting that by a prolonged examination of every part of the brain structure, and the notation of the mental symptoms, we shall arrive in future at more deﬁnite results; that the locality of special disorders will be discovered, and that the correlation of morbid mental and diseased cerebral states will become more and more complete that the scientiﬁc classiﬁcation of mental maladies may be one day based upon pathological as well as clinical knowledge, and psychology be founded, in part at least, upon our acquaintance with the functions of the brain (pp. 330–331).
+
+Carl Wernicke (1848–1905), a German neurologist, also assumed that pathology of the brain causes mental disorders, the various symptoms being expressions of disorders of differ- entlocalizedcerebralfunctions.Wernickeanalyzedsymptoms of mental disorder as to whether their causes appeared to be pathology in the sensory, the intrapsychic, or the motor sphere of the brain. Meyer (1904) assessed Wernicke’s work as pure empiricism with a rather artiﬁcial and not sufﬁciently founded brain pathology and psychopathology. And in 1914, David C. Thomson said, “The knowledge of the aetiology, pathology, and therapeutics of insanity has advanced, and can only ad- vance,onthefundamentalviewthatthesymptom-complexin- sanity is a disorder or disease of the brain. I do not think this can be asserted too often in these days of fads and ’isms, such as faith-healing, Christian science, etc.” (p. 558).
+
+However, various failures to relate speciﬁc psychopatho- logical symptoms to speciﬁc loci of pathology in the brain suggested that the cerebral problems in insanity were caused by dynamic disturbances in function rather than lesions in the brain structure. Nevertheless by the end of the nineteenth century most members of the medical profession subscribed to some variant of this view. They believed psychopathology was caused by some biological disorder, inherited or ac- quired, which affected the functioning of the central nervous system, either by agency of the blood or because of lesions or physiological malfunctioning, with increasing emphasis on heredity.

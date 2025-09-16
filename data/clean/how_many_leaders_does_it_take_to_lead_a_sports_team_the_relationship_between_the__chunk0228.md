@@ -1,17 +1,13 @@
-## Athlete Leadership and Team Effectiveness
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 42d1f8c6db995877790f8bddc13fa7efebc81f84
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+## Strengths, limitations, and future research avenues
 
-on the perceptions of all the players, which is more reliable than methods such as self-reports or a single focus on the team captains.
+We can point out four important strengths of our study. First, this is one of the first studies that examines the number of athlete leaders on the team and, more importantly, relates that number of leaders to the team’s effectiveness in order to establish which structures are the most beneficial. Second, in contrast to previous research, we did not only include positive indi- cators of team effectiveness (e.g., performance), but we also assessed possible barriers to effec- tive team functioning (e.g., team conflict). As such, we could obtain a deeper insight about the positive—and potentially also the negative—outcomes of a specific leadership structure. Third, the study is carried out with a large sample of high-level professional players, participants that are difficult to access but who provide very useful information on what goes on in high-perfor- mance sports teams. Finally, it should be noted that evaluation of athlete leadership was based
 
-With regard to the limitations, first, the findings obtained were correlational and cross-sec- tional, so no causal inferences can be made about the relationships between athlete leadership and the various outcome variables. Nevertheless, our results are consistent with theoretical predictions and previous empirical research concerning the association between athlete leader- ship and indicators of team effectiveness [15, 19]. Studies adopting an experimental design could provide more insight about the causal impact of the number of athlete leaders on the outcome variables. Furthermore, longitudinal studies could provide more information about the stability of the number of leaders in the course of a season. Given that other studies have demonstrated changes in group processes over time [29, 33, 56], the same may hold for leader- ship structures.
+PLOS ONE | https://doi.org/10.1371/journal.pone.0218167 June 10, 2019
 
-Second, we measured the number of leaders within the teams, but not the quality of their leadership. Several studies have shown that the quality of leadership is essential for a team’s effectiveness [17, 51]. For example, Fransen et al. [12] showed that, in professional rugby teams, the quality of the leadership in every leadership role was significantly related to team confidence, shared purpose, goal commitment, team climate, and both perceived and objective performance. In this regard, teams with one great leader may show better team effectiveness than teams with three poor leaders. Therefore, future studies should take into account the quality of the leaders when analyzing the ideal leadership structure [8, 9, 51].
-
-Third, this study employed three types of leadership roles that had originally been estab- lished in the early studies [8, 20]. However, Fransen et al. [15] have recently found empirical evidence of a fourth role, namely motivational leadership. Later studies have also established the importance of this leadership role for team effectiveness and, more specifically, for task and social cohesion [11], team confidence, and team identification [17], and also for goal com- mitment, team climate, and both perceived and objective performance [12]. It is noteworthy is that these studies also indicate the importance of shared leadership within this motivational leadership role (i.e., benefits of having more than one motivational leader).
-
-Finally, the generalization of our findings to other population samples and sports should be done with caution because our sample comprised only players from a particular sport (i.e., soc- cer), from a particular level (i.e. professional), and from a particular country (i.e., Spain). Fur- thermore, the different competition levels used in the present study for female teams (i.e., highest level) and for male teams (i.e., third level) could confound the generalization of our findings. It should be noted, however, that the level of professionalism, and economic and social recognition were very similar in both levels of competition. Further research in different sports and competition levels is necessary to confirm the generalizability of our findings.
-
-Despite the aforementioned limitations, we believe that this work makes a unique contribu-
-
-tion to the literature by examining the structure of athlete leadership and its relationship with a variety of important indicators of team effectiveness in professional sport. The findings cor- roborate the recent evolution from more hierarchical leadership models towards the idea of shared leadership, in which multiple players are sharing leadership responsibilities. Thus, it can be concluded that by implementing a structure of shared leadership not only across, but also within the different leadership roles, coaches can lead their team towards success.
-
-Supporting information
+18 / 22

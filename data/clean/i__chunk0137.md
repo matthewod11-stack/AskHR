@@ -1,17 +1,23 @@
-# 2.3.5.2 The value of PA
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 23a69f30cdb36e0927a11d38edb1bb0ee8bffcfd
+title: i
+---
+# HR problem.
 
-Analytics is often said to be a process that unveils hidden and strategic value for business.
+Regarding the supporting function of PA, research shows the impact of PA on the efficiency
 
-According to Marler and Boudreau as cited by Peeters et al. (2020), PA or <Talent analytics,=
+and effectiveness of the organizational decision-making process. The ROI from this aspect of
 
-<Human resource Analytics= is an HR practice empowered by technology development,
+PA is high.
 
-employing statistical and visualization techniques to analyze <HR process, human capital,
+The last trend is that PA as a management fad in the future will yield low ROI. According to
 
-organizational performance, and external economic benchmarks=. Isson et al. describe PA as
+the author, this is due to the fact of its <speculative in nature=. There are debates about
 
-the <integration of disparate data sources= such as employee data, organization data, and data
+integrating HR analytics into the HR function and determining the roles of HR professionals,
 
-from the labor market. While data analytics is conducted for making evidence-based day-to-
+as discussed by Rasmussen and Ulrich (2015).
 
-day decision-making and strategic decisions, the PA focuses on answering essential questions
+27

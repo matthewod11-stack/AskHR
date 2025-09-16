@@ -1,1 +1,7 @@
-# 11 ABA schools in Ireland
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 70e1791f88dbb9111a993da9057f7b46ae5598ca
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# technicians

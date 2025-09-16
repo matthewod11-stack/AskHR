@@ -1,9 +1,11 @@
-# JA
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9c4ddea996214042fe3ee526ac7868e24cd592c
+title: R2504K-PDF-ENG
+---
+# startup.
 
-Julia Austin is a senior lecturer at Harvard Business School’s Rock Center for Entrepreneurship.
+Editor’s note: This article is adapted from After the Idea: What It Really Takes to Create and Scale a Startup (Basic Venture, 2025), by Julia Austin.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-16
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+A version of this article appeared in the July–August 2025 issue of Harvard Business Review.

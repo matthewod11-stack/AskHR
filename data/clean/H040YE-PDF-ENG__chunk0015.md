@@ -1,15 +1,11 @@
-# executive leadership.
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce8519c636f16d48d9aaa1c126257a87d9452eb1
+title: H040YE-PDF-ENG
+---
+# HBR / Digital Article / What the Data Tells Us About Immigrant Executives in the U.S.
 
-We had access to other details about these individuals, so we could
+Our analysis would not count them as immigrants, therefore our estimates
 
-double-check instances of potential overlaps or errors. We could also
-
-double-check the information about the individual on the internet to verify
-
-in case of confusion whether an individual belonged indeed to one group
-
-or another, including conducting a global search on the ﬁrst or family
-
-name. The result was that of a database of 147,336 corporate leaders for
-
-which educational background was available, we could identify a sample of
+can be considered a lower bound on immigrants’ contribution to U.S.

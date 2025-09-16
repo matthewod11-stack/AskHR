@@ -1,9 +1,21 @@
-# thought.
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 904cc3cfa14d9116c89f12f77bd1606f4adca618
+title: H08TQX-PDF-ENG
+---
+# straightforward and uniformly positive.
 
-Investigating the existing literature, we found that most research
+The problem is, this rosy depiction of organizational rituals doesn’t
 
-highlighting positive aspects focuses on simple rituals (like a morning
+always match reality. Take the company holiday party, for example.
 
-cheer), rather than complex ones (like a holiday party). But what eﬀect
+Anecdotal accounts indicate that workers often experience them
 
-do rituals have on your team when they become more complicated and
+negatively, and many would like to see this particular ritual cancelled
+
+altogether (honestly, did you really want to attend your company’s
+
+holiday party last year?). These employee reﬂections suggest that the
+
+eﬀects of workplace rituals are not as uniformly positive as previously

@@ -1,7 +1,13 @@
-# DIFFERING VIEWS ON HUMAN RIGHTS
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6133f90e16397e023feb71b61b351ee0adbce499
+title: untitled
+---
+# YOUNG PSYCHOLOGISTS INITIATIVE
 
-Experience in Germany in the 1930s, during the Stalin period in the Soviet Union, and during the Cultural Revolution in China demonstrated that under conditions of impaired politi- cal and intellectual freedom, psychologists are especially vulnerable, both as scientists and as professional service providers. When, in the mid-1960s and 1970s, alleged viola- tions of human rights in the Soviet Union and Chile aroused concern, many North American psychologists experienced a sense of frustration. They felt that “something must be done immediately” but were unable to move beyond the formal resolution stage. At the time, some colleagues in other lands were perplexed by what they perceived to be unsophisticated U.S. reactions to complicated political issues having little to do with psychology. Individual human rights were inter- preted differently depending on national values and ideolog- ical perspectives.
+To encourage participation by younger colleagues, the steer- ing committee for the 1963 International Congress in Washington, DC, developed a Young Psychologists Program. It was oriented to persons under age 30 who had received their highest degree in psychology within the previous 5 years. Funds were raised from individual psychologists and from regional and state associations to support 22 young col- leagues, one from nearly each of the union’s member soci- eties. The Canadian Psychological Association supported one of their own. Psychologists residing in the Washington area generously provided lodging in their homes, logistical assis- tance, and a chance to become acquainted with the city.
 
-As reports conﬁrmed the conﬁnement of political dissi- dents in Soviet mental hospitals, the American Psychological Association (APA) Council of Representatives, in January 1976, “instructed” (rather than “requested”) its representa- tives to the IUPsyS to take the steps necessary to place on the agenda for the 1976 IUPsyS Assembly in Paris the council’s resolution against the use of psychiatric diagnosis and hospi- talization to suppress political dissent wherever it occurred. The council took this action despite the precariousness of the APA’s position, that is, the lack of evidence that psycholo- gists were on the staffs of the “special” psychiatric facilities to which dissidents were conﬁned in the Soviet Union.
+Special meetings were arranged with senior psychologists and journal editors.
 
-Several weeks before leaving for Paris, the APA represen- tatives received copies of a resolution drafted by Amnesty International and submitted to the IUPsyS by the Netherlands Institute of Psychologists (NIP).The preamble of the NIPres- olution began with a positive statement of ethical standards
+The steering committee expressed the hope that the Young Psychologists Program would establish a precedent and that similar endeavors would be organized at future congresses for promising younger psychologists not normally able to at- tend an International Congress of Psychology on their own. Happily, a Young Psychologists Program has been organized at each subsequent congress and has also become a feature of the quadrennial International Congress of Applied Psy- chology, further fostering international cooperation, commu- nication, and exchanges.

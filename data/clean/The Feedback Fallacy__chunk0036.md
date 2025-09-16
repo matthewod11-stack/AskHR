@@ -1,35 +1,29 @@
-## HBR / Magazine Article / The Feedback Fallacy
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 1086fbf1e5b584b266e9ed04e586152a98fcfbb4
+title: The Feedback Fallacy
+---
+# unforced.
 
-stay. If you study failure, you’ll learn a lot about failure but nothing
+Excellence is also not the opposite of failure. But in virtually all aspects
 
-about how to achieve excellence. Excellence has its own pattern.
+of human endeavor, people assume that it is and that if they study
 
-And it’s even more problematic than that. Excellence and failure often
+what leads to pathological functioning and do the reverse—or replace
 
-have a lot in common. So if you study ineﬀective leaders and observe
+what they found missing—they can create optimal functioning. That
 
-that they have big egos, and then argue that good leaders should not
+assumption is ﬂawed. Study disease and you will learn a lot about
 
-have big egos, you will lead people astray. Why? Because when you do
+disease and precious little about health. Eradicating depression will get
 
-personality assessments with highly eﬀective leaders, you discover that
+you no closer to joy. Divorce is mute on the topic of happy marriage. Exit
 
-they have very strong egos as well. Telling someone that you must lose
+interviews with employees who leave tell you nothing about why others
 
-your ego to be a good leader is ﬂawed advice. Likewise, if you study
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-poor salespeople, discover that they take rejection personally, and then
+10
 
-tell a budding salesperson to avoid doing the same, your advice will be
-
-misguided. Why? Because rigorous studies of the best salespeople reveal
-
-that they take rejection deeply personally, too.
-
-As it happens, you ﬁnd that eﬀective leaders put their egos in the
-
-service of others, not themselves, and that eﬀective salespeople take
-
-rejection personally because they are personally invested in the sale—
-
-but the point is that you will never ﬁnd these things out by studying
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

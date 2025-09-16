@@ -1,9 +1,13 @@
-## The interplay between the positive reinforcement professionals
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73e12502f6248df9b579c484af7f97b95cf4ae4c
+title: H08T5A-PDF-ENG
+---
+## experience negative emotions such as anxiety, boredom, guilt, and even
 
-experience when synchronized with intense work patterns and their
+physical withdrawal symptoms. One woman partner in an audit ﬁrm
 
-adverse reactions when they’re out of sync exerts a strong psychological
+described falling ill at the start of holidays—a typical example of the let-down eﬀect, a phenomenon where the body, after prolonged stress,
 
-and embodied grip on individuals. This makes it challenging for them
-
-to disengage from the rhythms of work, even when the personal costs
+becomes vulnerable to illness as stress hormone levels drop.

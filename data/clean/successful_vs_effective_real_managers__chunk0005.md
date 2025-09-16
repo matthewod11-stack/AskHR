@@ -1,5 +1,7 @@
-# Determining What Real Managers Do
-
-The next step in discovering the true nature of managerial work called for a larger sample that would allow more meaningful generalizations. With a grant from the Office of Naval Research, we embarked on such an effort.4 We used trained observers to freely observe and record tn detail the behaviors and activities of 44 “real” managers. Unlike Mintzberg’s and Kotter’s managers, these managers came fromall levels and many types of organizations (mostly in the service sector — such as retail stores, hospitals, corpo- rate headquarters, a railroad, government agencies, insur- ance companies, a newspaper office, financial institutions, and a few manufacturing companies).
-
-We reduced the voluminous data gathered from the free observation logs into managerial activity categories using the Delphi technique. Delphi was developed and used during the heyday of Rand Corporation’s “Think Tank.” A panel offers independent input and then the panel members are given composite feedback. After several iterations of this process, the data were reduced into the 12 descriptive behavioral categories shown in Exhibit 1. These empirically derived behavioral descriptors were then conceptually col- lapsed into the four managerial activities of real managers:
+---
+source_path: successful_vs_effective_real_managers.md
+pages: n/a-n/a
+chunk_id: 5339d0bfc849197eef8799039a182afa09328e00
+title: successful_vs_effective_real_managers
+---
+# May, 1988

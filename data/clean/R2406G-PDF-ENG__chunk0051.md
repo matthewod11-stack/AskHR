@@ -1,23 +1,13 @@
-## already markedly diﬀerent before 2020, but the Covid-19 pandemic
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7140c2c12694321d7a4d3d03e87073e41454dd16
+title: R2406G-PDF-ENG
+---
+## the value creation track record of personalization leaders over time. The
 
-accentuated the gap. One dollar invested in a personalization leader
+top quartile of companies in the Personalization Index outperformed
 
-would have yielded three dollars after ﬁve years; the same investment in
+not only the laggards but also the market index over three, ﬁve,
 
-a personalization laggard would be worth only 50 cents.
-
-These results show that companies that successfully execute
-
-personalization at scale are growing faster, delighting their customers,
-
-and creating superior value as they capture share from competitors.
-
-After crunching the numbers on the relative growth rates of
-
-personalization leaders and laggards by sector and taking into account
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and 10 years. The performances of the leaders and the laggards were

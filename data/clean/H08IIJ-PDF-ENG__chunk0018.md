@@ -1,21 +1,13 @@
-# demands.
+---
+source_path: H08IIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b42f6889b7a2a40095da6d0d63b3c22d8632797
+title: H08IIJ-PDF-ENG
+---
+# HBR / Digital Article / Parents Are Minimizing Work Relationships to Make Time for C…
 
-- 2. Structure relationships in a way that works for parents. In our
+understand why they cannot always make the 7 PM social hour or
 
-research, parents most preferred pre-arranged formal relationships,
+lunchtime birthday party. Hand in hand with this, of course, is not
 
-such as mentorship programs, because this cut down on the time, eﬀort, and small-talk required to build these connections more
-
-organically. This type of relationship can provide parents with a way
-
-to get advice on both professional and personal (e.g., managing work
-
-and family) issues, while saving time for their family.
-
-- 3. Focus on results, not hours. Managers sometimes focus on hours
-
-put in rather than results achieved. Focusing on how well your
-
-employees are performing — rather than the hours they put in — will
-
-help you to reward parents instead of dinging them for making time
+pressuring parents to engage in such activities given their family

@@ -1,25 +1,21 @@
-## HBR / Magazine Article / Now Is the Time for Courage
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0012e689ab0c5ad51615d6cefc7587319ab7f336
+title: R2505C-PDF-ENG
+---
+# solution to that internal tension.”
 
-ability to quickly change suppliers and to tweak pricing. Or it might
+Focus on what’s in your control. When you’re facing challenges from
 
-mean simply ensuring that you’re getting the fundamentals of your
+outside forces, it’s important to ﬁgure out where you can have an
 
-operations right. In the world of sports, this strategy is often described
+impact. That might mean breaking down a big challenge—like how to
 
-as focusing on process, not outcomes. Although you can’t predict how
+cope with shifting tariﬀ policies—into smaller ones, like improving your
 
-your opponent will perform or the ﬁnal score of any game, you do
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-control your preparation, the energy you bring to the court or ﬁeld,
+8
 
-and how closely you adhere to your playbook. As the legendary college
-
-football coach Nick Saban used to tell his players, “We’re not going to
-
-talk about what we’re going to accomplish. We’re going to talk about
-
-how we’re going to do it.”
-
-Business leaders who have employed this back-to-basics approach
-
-include former Starbucks CEO Howard Schultz, who led the coﬀee
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

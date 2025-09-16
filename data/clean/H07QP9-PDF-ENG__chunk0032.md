@@ -1,23 +1,23 @@
-# great leadership.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a413492178f38a1299e18ef0d613914bc2603e80
+title: H07QP9-PDF-ENG
+---
+# the VP Leadership Lab.
 
-We embedded our Leadership Playbook into our hiring, onboarding,
+Recognize and reinforce leadership.
 
-and performance management processes. We mapped behavioral
+In order for your leadership behaviors to stick, they must be
 
-interviewing questions to our playbook for use when hiring leaders.
+systematically reinforced through your talent and performance systems
 
-For example, to get at our leadership behavior of “Deﬁne success and
+and processes. When your performance systems aren’t aligned with the
 
-galvanize the team around it,” we included the interview question:
+behaviors you’re promoting, leaders are much less likely to consistently
 
-Describe a time that you had to inﬂuence others to move in a direction
+practice these behaviors. Consider all of the formal and informal ways
 
-they were initially resistant to go in. What did you do?
+you hire, reward, and recognize your leaders. Each of these processes
 
-Every employee is introduced to the playbook during employee
-
-orientation and all new executives take part in a year-long deep dive as
-
-part of our executive onboarding. The Leadership Playbook is the rubric
-
-we use for performance and promotion decisions, and is foundational to
+provides an opportunity to reinforce your organization’s deﬁnition of

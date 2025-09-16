@@ -1,15 +1,15 @@
-# right now?
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f62225f48a665bceb9d237097c1cfd054f38cca
+title: H07DLJ-PDF-ENG
+---
+## and their families through their history.
 
-DEB LIU:
+ADI IGNATIUS:
 
-Well, I think ﬁrst, digitization costs are going down, and so that’s going
+So you talked about how there are limitations to source materials.
 
-to help access more records and has made it much more possible for us to get access to records that would’ve been really diﬃcult and expensive
+Do you envision a technological breakthrough that could signiﬁcantly
 
-to key in many years ago. I think that will make a huge diﬀerence.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+change that, where we’d get access to information that is unthinkable

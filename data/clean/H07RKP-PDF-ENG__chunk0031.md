@@ -1,7 +1,9 @@
-## impairments. One example is Be My Eyes Virtual Volunteer. Powered by
+---
+source_path: H07RKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4a84aa3b72f3e5395f528438d4f06addbefdd34
+title: H07RKP-PDF-ENG
+---
+## Include accessibility features such as image or text-to-speech
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+technology to support people with dyslexia or vision or motor

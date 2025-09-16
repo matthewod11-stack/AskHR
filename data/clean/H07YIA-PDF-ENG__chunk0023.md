@@ -1,9 +1,17 @@
-## practical for both mentors and mentees alike.
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9e64d6b3c9d2050756f3a8897e0b2381717dbdb
+title: H07YIA-PDF-ENG
+---
+## educational modules and ill-deﬁned team-building activities will never
 
-This article was originally published online on January 02, 2024.
+generate the return on investment that proper mentorship can.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+By the end of our careers, we realize that our legacy is ﬁrmly rooted in
 
-5
+the relationships we have nurtured and the careers we have cultivated.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+But in order to achieve those end-of-career goals, we must enhance the
+
+current state of mentorship to make it more palatable, eﬃcient, and

@@ -1,7 +1,13 @@
-# performance. Psychol. Rev. 100:363–406
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 4de095634d4f197d745de4bb4cbdc873d0db69c9
+title: arop1noe_245_275
+---
+## “reinventing itself company.” Hum. Resour. Dev. Q. 16:389–415
 
-Fagerlind AC, Gustavsson M, Johansson G, Ekberg K. 2013. Experience of work-related flow: Does high
+Erhardt N. 2011. Is it all about teamwork? Understanding processes in team-based knowledge work. Manag.
 
-decision latitude enhance benefits gained from job resources? J. Vocat. Behav. 83:161–70
+Learn. 42:87–112
 
-Fang C, Lee J, Schilling MA. 2010. Balancing exploration and exploitation through structural design: the
+Ericsson KA, Krampe RT, Tesch-Romer C. 1993. The role of deliberate practice in the acquisition of expert

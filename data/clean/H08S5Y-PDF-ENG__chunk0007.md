@@ -1,27 +1,27 @@
-# you:
+---
+source_path: H08S5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a64c0c34c0220eeb1227e5878e1f6f9c7ee7f36e
+title: H08S5Y-PDF-ENG
+---
+## HBR / Digital Article / Navigating the Jump from Manager to Executive
 
-- What’s the real challenge here?
+- 1. Going from expert to coach
 
-- What options have you considered?
+Your job is no longer to be the smartest in the room, but to grow your
 
-- What’s your recommendation?
+managers into independent decision-makers. That means resisting the
 
-- If I weren’t here, what would you do?
+urge to jump in with ﬁxes and instead creating space for your team to
 
-Get comfortable sitting with discomfort while your people wrestle with
+build their own judgment. This can feel like a loss or even a dereliction
 
-ambiguity. Get comfortable with pauses and silence. When a manager
+of your duties, particularly if you’ve prided yourself on being helpful
 
-raises an issue, take a breath and say: “That’s complicated. Tell me what
+and knowledgeable. But if you’re the one doing all the strategizing, your
 
-you’re seeing,” or “I understand why you’re concerned. What do you
+managers don’t get the chance to hone that skill themselves.
 
-think is the best course of action?”
+The next time your team brings you a challenge, push for their analysis before oﬀering your own thoughts. Ask questions like these to push your
 
-- 2. Moving from execution to driving impact through others
-
-As a frontline manager, you were probably deeply involved in assigning
-
-work, tracking progress, and keeping things on course. You might have
-
-gained a sense of comfort from knowing exactly what was happening on
+managers to think critically and take ownership, instead of defaulting to

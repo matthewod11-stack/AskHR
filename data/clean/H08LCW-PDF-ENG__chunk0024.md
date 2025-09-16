@@ -1,29 +1,23 @@
-# company.
+---
+source_path: H08LCW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ec51bbc2022ed39300b0d47f57397108f4e032d
+title: H08LCW-PDF-ENG
+---
+## HBR / Digital Article / How to Answer “Walk Me Through Your Resume”
 
-Be bold in drawing clear connections between your unique skills
+As an award-winning journalist, I developed exceptional storytelling
 
-and the role you’re interviewing for, showcasing how your experience
+and audience engagement skills, which have been instrumental in
 
-enables you to deliver exceptional value beyond what other candidates
+bringing a unique value to my current marketing position. In my
 
-can oﬀer. Connecting your experience to the job you are pursuing
+Marketing Manager role at [company name], I crafted compelling
 
-and showing progressive skills acquisition throughout your career in
+campaigns across TV, web, and social media that increased brand
 
-a succinct story will leave the interviewer satisﬁed that you are capable
+engagement by 40%. My ability to understand diverse audiences and
 
-of succeeding in the new role. Highlighting your unique skill is the icing
+communicate effectively enables me to create content that resonates
 
-on the cake that not only sets you apart from the competition but also
-
-makes you a more memorable and compelling choice for the job.
-
-This article was originally published online on February 10, 2025.
-
-Marlo Lyons is an executive, team, and career coach, as well as the host of Work Unscripted. You can reach her at marlolyonscoaching.com.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and drives measurable outcomes — skills I’m eager to bring to your

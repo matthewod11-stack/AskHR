@@ -1,11 +1,17 @@
-## near-tautological fashion by reference to actual earnings differences which the
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: ce85440adf1624d8646de9529dda5542435eff7e
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# investment by firms and workers.
 
-theory purports to explain. Empirical studies have suggested that, though some of
+Critics of the human-capital theory however point to the difficulty of measuring key
 
-the observed variation in earnings is likely to be due to skills learned, the proportion
+concepts, including future income and the central idea of human capital itself. Not
 
-of unexplained variance is still high, and must be an attribute of the imperfect
+all investments in education guarantee an advance in productivity as judged by
 
-(cid:49)(cid:49)(cid:32)
+employers or the market. In particular, there is the problem of measuring both
 
-(cid:32)
+worker productivity and the future income attached to career openings, except in

@@ -1,21 +1,27 @@
-# Empowering
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 8bd9c1b6d7953c0ba5eab2a8d95490919f7a2a36
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Abusive
 
-4
+3
 
-1057
+936
 
-.55
+- .35
 
-.47
+- .41
 
-.64
+- .29
 
-.64
+- .41
 
-.10
+.04
 
-19.40
+68.77
 
-.51
+- .46
 
-.77
+- .36

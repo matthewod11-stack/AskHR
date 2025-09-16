@@ -1,5 +1,11 @@
-# evaluative reviews of performance.
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: 6a2963fbe2e3c2173a5b710c6b990611a750b9b0
+title: microsoft_word_performance_management_literature_review_doc
+---
+# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:34)(cid:33)(cid:10) (cid:10)
 
-Dychtwald et al. (2006, cited in Colville and Milner, 2011) also notes that organisations are increasingly seeing differences in the way that different generations respond to performance management. An example is provided of ‘baby boomers’ expecting recognition of their contribution to longer-term success, with younger generations seeking recognition for shorter-term achievements. This presents opportunities for dissatisfaction if a performance management system is biased towards either short-term or long-term benefits.
+(cid:1) Longer tenure, satisfactory performers in routine jobs: needing discussions of deviations from prior acceptable performance, held at infrequent intervals or when exceptions occur.
 
-Sillup (2010) state that organisations need to consider which performance appraisal system will meet its objectives and motivate employees, with a ‘fundamental issue’ for organisations being whether the system rewards employees for generating short-term results (eg sales during business quarter) or for completing long-term results (Beatty, 1989 cited in Sillup, 2010). Sillup et al. (2010) also presents another perspective using the example of drug development within the pharmaceutical industry, in which efforts will not always result in a new drug being achieved during the one-year performance appraisal period. They state ‘to be successful, it is pertinent to customise performance appraisal for each environment’ (p.41). Fletcher (2001) similarly argues that the range of factors which might influence the appraisal needs of different employees are:
+(cid:1) Newer or lower performing employees: needing frequent developmental and

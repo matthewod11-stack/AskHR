@@ -1,9 +1,15 @@
-## about hypothetical scenarios and potential political repercussions of
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e8659632030ca362197fffff39eca245e8ec1f5
+title: H08OJX-PDF-ENG
+---
+# HBR / Digital Article / When Another Senior Leader Is Threatening Your Reputation
 
-addressing the behavior and how to do so.
+- Hold private conversations: Engage in one-on-one or small group
 
-- Seek positive narratives and endorsements: Ask allies to highlight
+discussions with your current coalition to discuss your stance and
 
-your positive narrative and secure smaller, easily publicized
+gather feedback on responding to the negative narrative.
 
-endorsements within the corporation to build a positive reputation.
+- Discuss hypotheticals with mentors: Consult with trusted mentors

@@ -1,17 +1,21 @@
-## special projects and drafts presentations and other materials for board
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c29fc0a50a72f4a89127bc358b58fa7ac42b004
+title: R2003G-PDF-ENG
+---
+# Advice to the CEO
 
-meetings, investor conferences, and employee town halls. She runs an
+Not expected
 
-analysis/program management unit and is involved in alliances and
+Expected within project parameters
 
-acquisitions, often working closely with the heads of strategy, M&A, HR,
+Expected on a full range of topics
 
-and the company’s innovation center. She is a member of the executive
+In that role Carol manages the oﬃce of the CEO and is responsible
 
-committee, which oﬀers her an opportunity to build relationships and
+for ensuring the execution of her agenda—a job that includes time
 
-credibility with other direct reports to the CEO. Carol has earned
+management, ﬂow of information to and from the CEO, and seeing that
 
-the CEO’s trust, becoming an important internal adviser and “honest
-
-broker” who presents both sides of complex issues while maintaining
+the CEO is always prepared and rarely surprised. Carol also coordinates

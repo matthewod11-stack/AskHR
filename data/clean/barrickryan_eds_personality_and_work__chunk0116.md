@@ -1,3 +1,13 @@
-# Holt.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: c5afe29c9f1d1e68132026abd34a5f2917039494
+title: barrickryan_eds_personality_and_work
+---
+# Conclusion
 
-Allport, G. W., & Odbert, H. S. (1936). Trait names: A psycho-lexical
+We have seen important progress in discerning the structure of personality attributes. At the very broadest level (although too broad for some purposes), this structure appears to have much in common with Osgood’s classic dimensions of affective meaning (1962), which were found in studies of the ways that diverse objects (not just persons) are judged and perceived. At a slightly less broad but more informative level are the well-known Big Five factors. The extent to which the Big Five is optimal at its level in the hierarchy is not fully determined. And at more speciﬁc levels, we ﬁnd even less consensus about an optimal model for the classiﬁcation and organization of personality attributes. Much remains unresolved, and therefore it is important to reﬂect on the range of criteria by which structural models can be compared—in other words, what makes a structural model good. Although the Big Five model seems to perform strongly on some criteria, on others it seems more vulnerable to being superseded eventually by alternative models. Future models may well be more comprehensive, more widely generalizable across languages and cultures, and associated with measures that are more highly predictive of a wide array of useful criteria.
+
+References Adler, M. F. (1929). Personality: How to develop it in the family, the school, and society. In Essays in honor of John Dewey (pp. 3–22). New York: Holt.
+
+Allport, G. W. (1937). Personality: A psychological interpretation. New York:

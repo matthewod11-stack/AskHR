@@ -1,7 +1,13 @@
-# HBR / Digital Article / Research: How Gig Platforms Can Mitigate Racial Bias in Rating…
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13a431e2172cb54f7c7aab25d92db0671614df86
+title: H08NYS-PDF-ENG
+---
+## worker earnings because of the subsequent reliance on ratings. As
 
-these seemingly small biases in evaluations can compound over time—
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-shaping future work opportunities and ﬁnancial outcomes—platforms
+4
 
-should be vigilant in assessing whether their evaluation process
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

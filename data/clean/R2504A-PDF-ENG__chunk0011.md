@@ -1,17 +1,13 @@
-# Launch and Enhance
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f5c6e6d5f5724b17497ff9329c214b0683c1432
+title: R2504A-PDF-ENG
+---
+## HBR / Magazine Article / The CEO of Kaspi.kz on Designing an Essential Superapp
 
-The ﬁrst step was building online payment services that would allow
+as Kaspi.kz, we would “improve people’s lives by creating innovative
 
-people to pay household bills—electricity, gas, water—online instead
+services.” Finance would be our foundation, but we would branch out
 
-of with cash or checks, which usually required service fees. Our goal
-
-was to make the process fast and free, and we did. Over time we’ve
-
-gotten increasingly ambitious. In 2014 we launched an e-commerce
-
-marketplace, and most recently we’ve introduced government services,
-
-from birth registrations to driver’s license renewals.
-
-To an outsider it might seem like we’re moving at breakneck speed,
+into any area of customers’ lives that we could make better.

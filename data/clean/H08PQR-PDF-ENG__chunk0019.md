@@ -1,9 +1,9 @@
-## eﬀective board structure for a company of this size and complexity
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d2f9ffdf1252ffa681517be4bf10546a1500925
+title: H08PQR-PDF-ENG
+---
+# HBR / Digital Article / The Formal Policies That Protect Family Businesses from Interp…
 
-created special challenges. Decisions were made informally among
-
-family members, often based on emotion rather than objectivity.
-
-Had the Rossis established a board of advisors, and included
-
-independent, non-family members, they would have beneﬁted from
+Although all of these deﬁciencies created problems, the lack of an

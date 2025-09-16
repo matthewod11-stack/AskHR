@@ -1,3 +1,9 @@
-# 4 Very Good
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 747cd98ee8f03299b3ad565146c86ac1f662be66
+title: document_resume
+---
+# 5 Exceptional
 
-Maintains frequent contact with clinical supervisor to ensure productive working relationship. Is sensitive to the reciprocal relationship between the facility and the program. Monitors student progress throughout the quarter by encouraging feedback from supervisor student performance and experiences. Encourages input from students on possible improvements in clinical experiences.
+Acts as a facilitator to clinical staff to update plans for clinical experiences. Researches to discover innovative ways to improve and further facilitate positive clinical experiences for students. Carefully assesses how each student's needs are met through the experiences and assignments completed in the facility. Modifies experiences or assignments of students as deemed necessary.

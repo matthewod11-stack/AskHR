@@ -1,41 +1,27 @@
-# collaboration.
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8567208785d7b77edd8e403369d551780b0ca14f
+title: H08OKB-PDF-ENG
+---
+## HBR / Digital Article / Research: Hiring a Superstar Can Backfire
 
-- 3) Bringing in stars cannot stop the rot.
+discussed above. Furthermore, they are likely to have the resources
 
-Trajectories are important. Although it might sound like a good idea
+and capabilities, such as robust systems, routines and relationships,
 
-to strategically hire stars into a declining group to stop the rot, this
+required to absorb the disruption cause by the recruitment of a star.
 
-not only doesn’t work—it can actually make things worse. In these
+They might also be viewed across the organization as being a source of
 
-situations, we can expect existing routines, systems, practices, and
+competitive advantage. As such attempts to further invest in them are
 
-relationship to already be under strain and therefore less likely to cope
+less likely to cause resistance from other parts of the organization and
 
-with the disruption caused by a new star entrant. Furthermore, we can
+more likely to elicit support and collaboration.
 
-expect incumbents, even if they are stars themselves, to feel under
+In short, the rest of the organization is more likely to be invested in
 
-pressure and be less conﬁdent, and, therefore, more likely to resist
+the move and committed to making it work, something that is very
 
-the arrival of newcomers and cause further disruption that undermines
-
-the quality of their practice’s work. Only recruit into an already well-
-
-performing group.
-
-If one follows these principles, recruiting stars may pay oﬀ. In all other
-
-situations, it is generally a bad idea. In these cases, organizations are
-
-advised to rely on other talent management strategies such as nurturing existing staﬀ and developing them into new home-grown stars, and to
-
-prioritize the retention of existing stars. Organizations, however, should
-
-not panic at the prospect of losing their stars, as it is not clear that the
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+important in situations where there is usually a need for cross-group

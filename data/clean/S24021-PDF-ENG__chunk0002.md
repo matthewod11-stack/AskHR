@@ -1,15 +1,7 @@
-# Jamie Chung/Trunk Archive
-
-Perhaps no issue attracts more senior leadership attention than
-
-growth does. And for good reason. Growth—in revenues and proﬁts
-
-—is the yardstick by which we tend to measure the competitive
-
-ﬁtness and health of companies and determine the quality and
-
-compensation of its management. Analysts, investors, and boards
-
-pepper CEOs about growth prospects to get insight into stock prices.
-
-Employees are attracted to faster-growing companies because they
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c43a99bb9247bce430c5753adcb51b5d4b667fc0
+title: S24021-PDF-ENG
+---
+## From the Magazine (March–April 2024) / Reprint S24021

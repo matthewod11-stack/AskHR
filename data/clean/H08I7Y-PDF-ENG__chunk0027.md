@@ -1,7 +1,9 @@
-## Even with the best alignment between change types and motivational
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d729daaf92c185ce0b6b74d0bf5e04b688888a49
+title: H08I7Y-PDF-ENG
+---
+# into engagement.
 
-styles, organizations will inevitably face situations where contradictory
-
-goals must be pursued simultaneously. Encouraging a paradox mindset
-
-— so that employees get comfortable in that zone of contradiction — is
+- 5) Encourage a paradox mindset.

@@ -1,1 +1,9 @@
-# 305
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: dc78682be153675a2b54455b0432d05c2e2de26d
+title: performance_management_3rd_edition_by_aguinis
+---
+# Team Performance Management at MYSQL
+
+MySQL, (pronounced “My S-Q-L”) (http://www.mysql.com), based in Cupertino, California, produces and develops database servers, software, and related tools. The company employs more than 300 people spread across 25 countries, and 70% of the employees work from home. Employees in some cases have never met anyone they work with in person. This work arrangement requires a different approach to managing team performance, as compared to the traditional office where face-to-face meetings and contact are the norm. Technology enables a different approach to performance management. The company utilizes an Internet Relay Chat which employees sign onto regularly to hold virtual and real-time meetings. Also, a software system called Worklog was developed by the company specifically to allow employees to mark off tasks when they have been accomplished. The company’s method for evaluation and feedback also relies on nontraditional methods. Output and results produced are the focus of measuring productivity. There is not a strict chain of command in the MySQL work environment. Colleagues often seek out advice or ask questions of coworkers electronically, and all employees help manage individual and team performance by evaluating one another. Performance is also evaluated based on required weekly reports of accomplishments and by keeping track of employee involvement through conference calls and frequency of electronic communications, such as chat sessions and e-mails. In summary, MySQL has adapted to a virtual work environment by utilizing technology that enables some unique strategies to be used for managing the performance of individuals and teams.23

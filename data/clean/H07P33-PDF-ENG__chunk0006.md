@@ -1,13 +1,11 @@
-# Eleos Health
+---
+source_path: H07P33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab6c27b7f7476912a9de77e58f1c8236d488caf4
+title: H07P33-PDF-ENG
+---
+# The AI opportunity
 
-Eleos Health is a behavioral health technology company that Katherine
+Our review of the ﬁeld indicates that AI-based managerial coaching is not yet commonplace, so we oﬀer two case examples to demonstrate
 
-studied in depth as part of her ethnographic research. The Eleos
-
-platform uses HIPAA-compliant software to record and analyze
-
-conversations between therapists and clients. In addition to saving time
-
-for therapists in note-taking, the platform’s AI automatically identiﬁes
-
-relevant evidence-based techniques and summarizes key moments in
+how it might work in your organization:

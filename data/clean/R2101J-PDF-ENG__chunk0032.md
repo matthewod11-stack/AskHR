@@ -1,9 +1,11 @@
-## → In Europe and Australia, long-term incentives
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16921371591006c84f1761c32de67e6cc9877b69
+title: R2101J-PDF-ENG
+---
+# CEO Compensation Across the Globe
 
-make up 36% of median CEO compensation.
+Because the Russell 3000 is made up of U.S. companies, it’s worth examining compensation practices in other countries. Recently U.S.-based FW Cook, UK- based FIT Remuneration Consultants, and Pretium Partners Asia Limited published the 2018 Global Top 250 Compensation Survey, which looks at trends in CEO and CFO pay at the 250 largest public companies worldwide. It highlights a number of key regional differences:
 
-→ Long-term incentives aren’t meaningful for CEOs at Asian companies. This is partly because some of the largest companies in China and Hong Kong are state-owned. At them compensation is regulated, base salaries and bonuses are not market-driven, and long-term incentives generally aren’t offered.
-
-→ The median CEO base salary is 20% lower in the Americas than in Europe and Australia and meaningfully lower in Asia than in other regions.
-
-→ The median total cash compensation (base salary plus annual bonus) of CEOs is 4% lower in Europe and Australia than in the Americas and is lowest in Asia.
+→ Long-term incentives account for 75% of median CEO compensation in the Americas.

@@ -1,21 +1,23 @@
-## Likewise, during busy periods, or when teamwork and collaborative
+---
+source_path: H088QT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68856a3b6ac6acb7421bf6df380790fb0d5a197f
+title: H088QT-PDF-ENG
+---
+## days rather than work-from-home ones for medical appointments or
 
-decision-making is required, employers should have greater leeway to mandate and enforce attendance; if the reasoning is eﬀectively
+leave, resulting in even less time with colleagues. In short, even though
 
-communicated, employees are more likely to understand and accept
+employers are doing whatever they can to bring people in — free meals,
 
-the policy. For instance, it is completely reasonable to request that
+less restrictive dress codes, social events, and nicer oﬃce spaces — these eﬀorts do not appear to be working.
 
-employees attend critical meetings in person. This approach seems
+To overcome this challenge, we recommend shifting the focus from how
 
-to be working for J.M. Smucker, which requires employees at its
+often your people should be in the oﬃce to when that physical presence
 
-headquarters to be physically present during 22 “core” weeks, which are
+and togetherness is important. For example, when employees are new
 
-announced one year in advance.
+to the organization and getting onboarded and trained, it is more
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+critical for them to come in and connect in person with key colleagues.

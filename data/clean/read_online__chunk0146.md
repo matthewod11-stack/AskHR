@@ -1,5 +1,7 @@
-# WLB, Work-life balance conflict.
-
-FIGURE 4: Social support as a moderator of the work-life balance–turnover intention relationship (two-way interaction).
-
-Open Access
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 1d34950c8c12297c108489207a97a34905281fa6
+title: read_online
+---
+# Work-life balance conﬂict level

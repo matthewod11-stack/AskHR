@@ -1,19 +1,23 @@
-# organization.
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: 3d2301b74ccc2f25db120214522634f0c53b53ed
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+## receipts of any subsidiaries and any special funds.
 
-A terminal ﬁnancial report may be ﬁled on Form LM-4 if the labor organization ﬁled its previous annual report
+The Form LM-4 must be ﬁled within 90 days after the end of the labor organization's ﬁscal year (12-month
 
-on Form LM-4 and the labor organization's total annual receipts were less than $10,000 for the part of the last ﬁscal year during which the labor organization existed.
+reporting period).
 
-Form LM-30 (Union oﬃcers and employees). The LMRDA requires public disclosure of certain ﬁnancial
+If the organization goes out of existence during its ﬁscal year, a terminal ﬁnancial report must be ﬁled within 30
 
-transactions and ﬁnancial interests of labor organization oﬃcers and employees and their spouses and minor
+days after the date it ceased to exist. A terminal ﬁnancial report must be ﬁled if the labor organization has
 
-children. Every labor organization oﬃcer or employee (other than an employee performing clerical or custodial
+gone out of business by disbanding, merging into another organization, or being merged and consolidated
 
-services exclusively) who has engaged in any such transaction or has any such interest during the ﬁscal year must ﬁle a detailed report with the Secretary of Labor.
+with one or more labor organizations to form a new labor organization. The last president and treasurer, or the
 
-The reporting requirements only relate to the disclosure of speciﬁed ﬁnancial transactions and interests. The
+oﬃcials responsible for winding up the aﬀairs of the labor organization, must ﬁle a terminal ﬁnancial report for the period from the beginning of the ﬁscal year to the date of termination. A terminal ﬁnancial report is not
 
-reporting requirements do not address whether such economic interests are lawful or unlawful. The fact that a
-
-particular ﬁnancial transaction or interest is or is not required to be reported is not indicative of whether it is or
+required if the labor organization changed its aﬃliation but continues to function as a separate reporting labor

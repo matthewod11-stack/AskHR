@@ -1,5 +1,9 @@
-# Rating 2 3 4
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: aee7f11c041dceb4b2f0c75ce0c7be092d70d277
+title: document_resume
+---
+# D. STUDENT AFFAIRS
 
-- 1. Advising 2 Extracurricular Activities 3 Job Placement Comments
-
-c.... _,
+(10%)

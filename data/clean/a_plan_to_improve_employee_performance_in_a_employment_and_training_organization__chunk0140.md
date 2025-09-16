@@ -1,61 +1,25 @@
-# training , job search activities, etc.).
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 3ae6eb9920e7b197b10f7eebd608b29c4958fb84
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# interests of the client?
 
-All three of these elements must be present in the clients file in order to complete
+- 2. All suitability issues have been identified and discussed with the
 
-an intake, and the data again can be gathered from the clients' files. The standard can be
+client - What, if any, barriers does the client have regarding training and
 
-files that address 2 out of 3 major elements are an acceptable level of performance .
+employment ?, Are there any unresolved issues the client needs to take care
 
-Clar~ty of Work/Documentation - Clarity of work refers to the extent that an
+of before entering a training program at ETR? (i.e., financial,
 
-employee's work is clear, legible and understandable. This means that if a counselor or
+transportation, housing issues) . Based on this the counselor will identify
 
-32
+candidates that are suitable or not suitable for ETR' s programs /services
 
-supervisor picks up a particular file, they can understand what went on in that intake or
+- 3. The next step in the process has been discussed with the client -
 
-interview. They would not need any further information or explanation about a particular
+Now that eligibility and/or suitability has been determined , what is the
 
-intake file. Specifically, we are measuring the degree to which files are:
-
-- 1. Legible; and
-
-- 2. Understandable.
-
-Quantity of Work- What we are measuring is inputs and outputs, the extent to
-
-which the number of intakes that were seen and completed. It would be invalid to
-
-measure quantity of work based on outputs, because often counselors are unable to
-
-complete an intake for reasons beyond the counselor' s control. Meaning not every client
-
-that a counselor sees is the same and they may have issues that would prevent counselors
-
-to enroll them into a program, therefore we would refer the client to other community
-
-agencies as appropriate. Another indicator of output, can include the number of referrals
-
-made to other community agencies.
-
-First, an average tally per week of the number of intakes seen, completed and
-
-referred can be kept by the employee, recorded on the sign-in sheet, and evaluated by the
-
-supervisor. Quantity is defined by the number of customers/clients seen, output is
-
-defined by the number of intakes completed, or referred (this would be up to management
-
-to decide if they would want to include the number of referrals as an output measure).
-
-The formula to be used is the total number of intakes divided by the population of
-
-counselors (this can also be tallied as to what was the FTE a counselor solely did intakes
-
-for the week - meaning if fifty percent of his or her time was in intake, than we would
-
-only count that counselor as .50 into the population, when doing the formula).
-
-33
-
-The following formula can be used :
+next step for the client in ETR' s process? (i.e., further assessment ,

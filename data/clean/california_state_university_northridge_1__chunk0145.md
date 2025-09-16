@@ -1,41 +1,29 @@
-# problems.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 4fd6c5305e8d42eedf5a88df1d1df10c599f77f0
+title: california_state_university_northridge_1
+---
+# problem.
 
-During the authors time with Marriott, they were in the process of renovation all
+If it had been determined that an employee had been incorrectly discharged he or
 
-of their business units within the airport. The renovation involved closing an existing
+she could be reinstated pursuant to the union contract. And in some cases, some
 
-business unit( s) and establishing a temporary shop until the new business had been built
+terminations were an error based insufficient evidence. From the unions perspective
 
-from the grmu1d up. A demolition teaiTi would come and tear down the current facility
+management sometimes makes bad business decisions and take action against an employee
 
-and a new crew would then start building a new unit. Since the temporary facility only
+that will cause irreparable harm, to the extent a :financial hardship will take place. This
 
-51
+thought process creates a need for an outsider (union) to become familiar with business
 
-required about a quarter of the employees, this was a time for those who had constant
+procedures and to ensure that each and every employee has an equal chance in rectifying
 
-problems to be terminated in accordance with the union contract stipulations. The only
+inappropriate behavior as deemed by the company_ At the same ti__me, there those
 
-notice give was a layoff notice, which in some case may have been pushed back based on
+employee who were terminated, which the union did not go out of their way, by having
 
-the contractor. Employees were transferred based on seniority as delineated within the
+them reinstated, based off their job performance and work ethic. These employees were
 
-contract. No managers were laid off, only went for additional training or assisted with
-
-another business unit. At this time there was nothing the union representative could do for
-
-the workers. Quality workers were retained, along with those with seniority however,
-
-they had to meet the needs and expectation of each new business unit.
-
-The only apparent downfall to the terms and agreement of the contract lied with
-
-management and the ability to comply with the terms and conditions. If one manager who
-
-complies with the contract for all employees writes up an employee and another manager
-
-is relaxed about such contractual obligations and disciplinary action with the employees,
-
-this can cause problems. Inconsistency is the major flaw that is currently being addressed
-
-by ongoing training, which stresses documentation.
+not at will employees, but a mechanism existed for them to seek resolution for business

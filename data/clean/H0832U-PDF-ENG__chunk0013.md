@@ -1,17 +1,19 @@
-## HBR / Digital Article / Leading the 6-Generation Workforce
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d412f7a4c4510cfb97502d615189bda3f20d10b5
+title: H0832U-PDF-ENG
+---
+# formative years.
 
-diﬀerences (e.g., investment risk tolerance and voting participation)
+Age and generation are often conﬂated. Some of the dynamics in the
 
-that have less to do with generation than with age/life-stage diversity.
+6G workplace that are attributed to age are actually due to generational
 
-To be sure, eﬀorts to deepen diversity, accelerate inclusion, and
+diﬀerences. And conversely, there are other attitudinal and behavioral
 
-institutionalize equity (DEI) are sources of contention and controversy
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-in many organizations. However, it is important to note that diversity
+3
 
-is about more than human diﬀerences based on sex/gender, race/
-
-ethnicity, socioeconomic class, sexual orientation, disability status,
-
-and/or religious identity. Whereas many of these diversity dimensions
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

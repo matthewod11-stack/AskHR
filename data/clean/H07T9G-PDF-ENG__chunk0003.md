@@ -1,7 +1,17 @@
-# and development programs this year.
+---
+source_path: H07T9G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 095f78f553f982e87cd67fad582199a1ad5be1f5
+title: H07T9G-PDF-ENG
+---
+# Steve Chenn/Getty Images
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+In an age of disruption, the only viable strategy is to adapt, and that
 
-1
+has never been more true than it is today. A generation ago, the half-life
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of the value of a skill was approximately 26 years. Now the half-life is
+
+often less than ﬁve years. So, it is perhaps not surprising that, globally,
+
+corporations are expected to invest more than $380 billion in learning

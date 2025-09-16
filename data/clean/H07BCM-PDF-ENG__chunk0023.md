@@ -1,31 +1,39 @@
-# Procrastination
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6de9d474cdedb7d4b5dba72d0ba366d52f6ad39
+title: H07BCM-PDF-ENG
+---
+## HBR / Digital Article / What’s Stopping You from Reinventing Your Career?
 
-The easiest excuse to avoid starting a reinvention process as an
+When we began to work with Sam, it was clear that as a scientist
 
-executive is all the other urgent work you have to do. Successful leaders
+he understood the language of experiments very well. So, our work
 
-are rewarded with ever-greater responsibilities, which means that they
+with him emphasized the need to conduct experiments in order to
 
-have less and less time to focus on their own longer-term aspirations.
+make progress on the work of reinvention. We asked Sam to bring the
 
-That limited bandwidth can also fuel anxiety: It can be hard to imagine
+same level of curiosity to examining his life that he brought to his
 
-a nebulous future when weighed down with the very real demands of
+experiments. We encouraged him to conduct experiments to identify
 
-today. More than this, personal reinvention can be scary. Who among
+sources of fulﬁllment in life and at work. Within time, he realized that
 
-us hasn’t hesitated in the face of a big decision, not for more insight,
+there was no “formula” nor right answer, but many exciting options,
 
-but simply in the hope of deferring choices to avoid the associated
+and the choice was his to make. He decided to stay in his role for the
 
-anxiety and self-doubt? We also know from psychology that people
+next two years and to deliberately make time for some experiments to explore options. He set one professional experiment in place by oﬀering
 
-procrastinate to avoid ambiguous, diﬃcult and unstructured situations
+support to a local start-up and one personal experiment to rekindle his
 
-or decisions — and personal reinvention checks all of these boxes.
+love of music by joining a choir.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+If you tend to search for the “right” answer when evaluating choices,
 
-6
+this may be a sign that you might shy away from embarking on
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+experimentation or accepting mistakes as a pathway to learning and
+
+growth. It can be useful to ask what alternate paths are there?

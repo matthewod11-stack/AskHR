@@ -1,3 +1,9 @@
-## Journal of Women’s Studies, 2 (10), 99-107.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: b12ba58ff177e31532b9d033c28fcdf7a0356c25
+title: file_1
+---
+# 60
 
-Lockwood, D., 1986. Class, Status and Gender. In R. Crompton and M. Mann, eds, Gender
+Lindvert, J., 2002. A World Apart: Swedish and Australian Gender Equality Policy. Nordic

@@ -1,11 +1,15 @@
-## The Unexpected Benefits of Pursuing a Passion Outside of
+---
+source_path: Why You Should Have Hobbies_ Our Favorite Reads.md
+pages: n/a-n/a
+chunk_id: 57a92228c38b44822544225a172761bf9819acea
+title: Why You Should Have Hobbies_ Our Favorite Reads
+---
+## Why You Should Have Hobbies: Our Favorite Reads
 
-Workby Jon M. Jachimowicz, Joyce He, and Julián ArangoStudies show that it can be better for your engagement — andhealth.
+https://hbr.org/2023/07/why-you-should-have-hobbies-our-favorite-reads
 
-Why You Should Work Less and Spend More Time on Hobbiesby Gaetano DiNardiCreative pursuits will open up new perspectives and boost yourconfidence.
+2/4
 
-Working Parents, Save Time for Hobbiesby Scott BehsonStart small and in a way that works with your schedule.
+Odds are, you’ll be happy that you did.Recommended Reads
 
-How to Get the Most Out of a Day Offby Elizabeth Grace SaundersWhen was the last time you took a micro-vacation?
-
-Paige Cohen (they/them) is a senior editor atHarvard Business Review.PC
+Can Hobbies Actually Make You a Better Person?by Kelsey AlpaioThe research says “yes.”

@@ -1,27 +1,15 @@
-## rapidly. Though individually temporary, as a portfolio these advantages
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 793f77777e78340e0ef3d889058015c9d5167035
+title: H08TKY-PDF-ENG
+---
+## Transient competitive advantage: In a turbulent environment, it can
 
-can keep companies in the lead over the long run.
+be hard to sustain a position that allows a company to best rivals over
 
-To compete in a transient-advantage economy, you must be willing to
+the long term. In this context, businesses can’t aﬀord to spend months
 
-honestly assess whether your current advantages are at risk. Companies
+crafting a single long-term strategy—they need a portfolio of multiple
 
-that want to create a portfolio of transient advantages need to make
-
-eight major shifts in the way that they operate:
-
-- 1. Think about arenas, not industries.
-
-- 2. Set broad themes, then let people experiment.
-
-- 3. Adopt metrics that support entrepreneurial growth.
-
-- 4. Focus on experiences and solutions to problems.
-
-- 5. Build strong relationships and networks.
-
-- 6. Avoid brutal restructuring and learn healthy disengagement.
-
-- 7. Get systematic about early-stage innovation.
-
-- 8. Experiment, iterate, and learn.
+transient advantages that can be built quickly and abandoned just as

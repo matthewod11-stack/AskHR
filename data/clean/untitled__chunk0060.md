@@ -1,5 +1,7 @@
-# REFERENCES
-
-Brett, G. S. (1912). A history of psychology. London: G. Allen.
-
-Leahey, T. H. (2000). History of psychology: Main currents in psychological thought (5th ed.). Upper Saddle River, NJ: Prentice-Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3737be655b1a76024d060ebb6e6767ba05fe5c1e
+title: untitled
+---
+# DONALD K. FREEDHEIM

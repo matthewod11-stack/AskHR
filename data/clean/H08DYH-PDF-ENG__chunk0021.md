@@ -1,17 +1,13 @@
-## question during meetings, or even a ﬁve-minute mindfulness exercise
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5a34df7a215c1d113c8d123fc96a0234cb2ab1d
+title: H08DYH-PDF-ENG
+---
+# thoughts.
 
-can help shift their brains into a more relaxed state, opening the door
+To encourage this kind of creativity in a modern workplace, consider
 
-to innovative thinking. By implementing these playful activities, you
+introducing simple nudges that prompt employees to take short breaks,
 
-can create a dynamic and engaging workplace where creativity thrives,
-
-leading to breakthrough ideas and solutions.
-
-- 2. Design physical spaces to encourage play.
-
-Creating physical spaces to encourage play is crucial for boosting
-
-creativity and innovation within the workplace. At Pixar, for instance,
-
-Steve Jobs designed the campus around the concept of unplanned
+whether in person or remotely. For instance, a quick walk, a playful

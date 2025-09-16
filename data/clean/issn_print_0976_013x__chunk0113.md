@@ -1,19 +1,9 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 12e7cfe2371d709ecfb0751d7941f98916d8e811
+title: issn_print_0976_013x
+---
+# Quantity
 
-Previously, the tribal women of Beed district depended on the local aggregator who in turn had
-
-a monopoly in this region. Hence the custard apple farmers in the district were not able to get
-
-good prices for their yields. The aggregators used to buy custard apples from the local farmers at
-
-rate of ₹4-5₹/kg and sell the same at the rate of ₹80 or more in the city markets. After the setting
-
-up of the custard apple pulp processing unit as part of government intervention, the local farmers
-
-were able to get ₹12-14 per kg.
-
-Figure 2: Custard Apple farmers having an interactive meeting on setting up processing unit
-
-Figure 3: A custard apple farmer involved in processing of the fruit
-
-13
+12

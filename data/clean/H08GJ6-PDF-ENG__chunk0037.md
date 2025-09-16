@@ -1,3 +1,7 @@
-# RK
-
-Ronald Klingebiel is a professor of strategy at the Frankfurt School of Finance and Management in Germany. He focuses on technology management and all things Africa.
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 548ca7d81fae3c9851c58eb858fdb01472d88889
+title: H08GJ6-PDF-ENG
+---
+## HBR / Digital Article / How to Decide Which Innovation Projects to Greenlight

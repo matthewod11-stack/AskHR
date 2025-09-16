@@ -1,19 +1,11 @@
-## Work Commute to work Watch TV Sleep Prepare and eat meals Other
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b8e4e0bc5adfd764c68c53a8b3f30f3e7e7636c5
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Figure 1.1 Comparison of MBA and I/O Master’s Degree Coursework
 
- hours  hour  hours  hours  hours  hours
+I/O psychology relies extensively on research, quantitative methods, and test- ing techniques. I/O psychologists are trained to use empirical data and statistics rather than clinical judgment to make decisions. I/O psychologists are not clinical psychologists who happen to be in industry, and they do not conduct therapy for workers. There are psychologists who work for organizations and help employees with such problems as drug and alcohol abuse, but these are counselors rather than I/O psychologists. A factor that helps differentiate I/O psychology from other fields of psychology is the reliance on the scientist-practitioner model. That is, I/O psychologists act as scientists when they conduct research and as practi- tioners when they work with actual organizations. In addition, I/O psychologists act as scientist-practitioners when they apply research findings so that the work they perform with organizations will be of high quality and enhance an organiza- tion’s effectiveness.
 
-With the possible exception of sleeping, people spend more time at their jobs than at any other activity in life (and sometimes these two activities overlap!). Thus, it makes sense that people who are happy with and productive at their jobs will lead more fulfilling lives than people unhappy with their jobs. If a person is unhappy at work for  hours a day, the residual effects of this unhappiness will affect the quality of that person’s family and leisure life as well.
-
-From a societal perspective, I/O psychologists can also improve the quality of life by increasing employee effectiveness, which reduces the cost of goods sold by improving product quality. This in turn reduces repair and replacement costs
-
-introduction to i/o psychology
-
-3
-
-4
-
-chapter 
-
-by improving organizational efficiency, which can result in decreases in ineffi- cient activities such as waiting in line.
-
-Thus, I/O psychology can improve the quality of life at levels equal to, and often exceeding, those of fields such as counseling psychology and medicine. So, even though I/O psychologists make a good salary, the real benefits to the field involve the positive impacts on the lives of others.
+One reason that I/O psychology continually increases in popularity is that, perhaps more than any other field, professionals in the field can have a positive impact on the lives of other people. To support this last statement, let us look at a typical day in the life of a typical person:

@@ -1,13 +1,15 @@
-## HBR / Magazine Article / Getting Over Overwork
+---
+source_path: R2406N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 932a1b9bc0f09387e34ae6b7a095608c186223a4
+title: R2406N-PDF-ENG
+---
+## mindfulness app, a basket of healthy snacks, or a sympathetic
 
-streamlin[ing] processes to focus on getting the most important work done rather than the hours spent at the oﬃce or worksite.”
+employee assistance program,” Schulte writes, “[r]ather than, say, hir[ing] suﬃcient staﬀ to manage the workload, pay[ing] them well, and
 
-Some organizations do try to do those things, of course, but they’ve had
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-mixed success; Schulte oﬀers the sobering case study of a pilot program
+2
 
-at Intel that was successful but nevertheless no longer exists.
-
-If this is what we’re up against, layer on top of it a second theme: the
-
-role that upbringing plays in how we value and engage in work. Jennifer
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

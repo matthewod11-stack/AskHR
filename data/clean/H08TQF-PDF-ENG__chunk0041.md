@@ -1,5 +1,11 @@
-## specialized models but also in thoughtful hybrid implementation
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2c9069078a85a2d2b035dfb8b798b90bfe6cddb
+title: H08TQF-PDF-ENG
+---
+# Hybrid Architecture as the Path Forward
 
-strategies. The most eﬀective approaches leverage generalist models for
+Our experience suggests that the future of enterprise generative AI
 
-tasks they excel at—e.g., customer service chatbots, content creation,
+implementation lies not only in choosing between generalist and

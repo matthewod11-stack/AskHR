@@ -1,5 +1,11 @@
-# Responsibility (300 points possible)
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c60c55927ebcb5833dec9f909616543cc8c167bb
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Points
 
-Makes no decisions Makes decisions for self Makes decisions for 1–5 employees Makes decisions for more than 5 employees
+High school education or less Two years of college Bachelor’s degree Master’s degree Ph.D.
 
-75 150 225 300
+40 80 120 160 200

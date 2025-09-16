@@ -1,7 +1,13 @@
-## business challenge. Pacific business review international, 4(3),29-33
+---
+source_path: international_journal_of_innovation_and_applied_studies.md
+pages: n/a-n/a
+chunk_id: 9558b7493ece80da18f455c7eb850031f7781b13
+title: international_journal_of_innovation_and_applied_studies
+---
+## advantage. Human Resource Management International Digest, 20(6), 31-34.
 
-[27] Albinger, H. S., & Freeman, S. J. (2000). Corporate social performance and attractiveness as an employer to different job
+[25] Kumar, M. (2007). Explaining entrepreneurial success: A conceptual model. Academy of Entrepreneurship Journal,
 
-seeking populations. Journal of Business Ethics, 28(3), 243-253.
+13(1), 57-77.
 
-[28] O Neal, S., & Gebauer, J. (2006). Talent management in the 21st century: Attracting, retaining and engaging employees
+[26] Shrimali,H., & Giwani,B. (2012). Role of talent management in sustainable competitive advantage: Rising to meet

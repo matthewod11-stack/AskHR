@@ -1,11 +1,15 @@
-# self-awareness.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb6a1801968b003ff5f4bf4dade01546b1ad3c76
+title: H08GNF-PDF-ENG
+---
+# ask for it.
 
-- Tell the same stories: Don’t tell the same stories to every interviewer.
+- Ignore the question: Ensure that your story directly addresses the
 
-Ensure that you have more than one story for each potential question.
+prompt instead of just telling a prepared story.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- Focus solely on positive outcomes: It’s okay to share challenges and
 
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+how you overcame them. This shows resilience, perseverance, and

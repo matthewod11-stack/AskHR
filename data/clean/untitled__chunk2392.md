@@ -1,9 +1,15 @@
-## School Psychology Review, 23(4), 604–618.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5a23dc8b50506aeb17a8fcbf70c668c53b83aee8
+title: untitled
+---
+# School Psychology Review, 15, 430–440.
 
-Fagan, T. K. (1995). Trends in the history of school psychology in the United States. In A. Thomas & J. Grimes (Eds.), Best prac- tices in school psychology (Vol. 3, pp. 59–67). Washington, DC: National Association of School Psychologists.
+Fagan, T. K. (1987). Gesell: The ﬁrst school psychologist. Part 2: Practice and signiﬁcance. School Psychology Review, 16, 399– 409.
 
-Fagan, T. K. (1996). A history of Division 16 (School psychology: Running twice as fast). In D. A. Dewsbury (Ed.), Uniﬁcation through division: Histories of the divisions of the American Psy- chological Association (Vol. 1, pp. 101–135). Washington, DC: American Psychological Association.
+Fagan, T. K. (1990). Research on the history of school psychology: Recent developments, signiﬁcance, resources, and future direc- tions. In T. R. Kratochwill (Ed.), Advances in school psychology (Vol. 7, pp. 151–182). Hillsdale, NJ: Erlbaum.
 
-Fagan, T. K. (1999). Training school psychologists before there were school psychologist training programs: A history—1890– 1930. In C. R. Reynolds & T. B. Gutkin (Eds.), The handbook of school psychology (pp. 2–33). New York: Wiley.
+Fagan, T. K. (1993). Separate but equal: School psychology’s search for organizational identity. Journal of School Psychology, 31, 3–90.
 
-Fagan, T. K. (2000). Practicing school psychology: A turn-of-the-
+Fagan, T. K. (1994). Acritical appraisal of the NASP’s ﬁrst 25 years.

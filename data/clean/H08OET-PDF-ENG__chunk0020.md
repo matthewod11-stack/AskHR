@@ -1,21 +1,25 @@
-# just a ﬁve percentage point drop.
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f78fa58f1cfc69dd72e029d94798e6736f06a49e
+title: H08OET-PDF-ENG
+---
+## HBR / Digital Article / How Costly Is a Resume Gap for Executives?
 
-Credentials don’t have offsetting effects.
+Bigger firms have bigger penalties.
 
-Extra credentials can make you stand out. For example, those with
+As larger ﬁrms pay more and are more likely to adopt more formal
 
-degrees from prestigious programs or who have MBAs are seen
+hiring processes, we thought they might also be choosier, adhering to
 
-as bringing something extra, and these qualiﬁcations are generally
+stricter selection criteria in hiring executives. Our data showed that
 
-associated with higher pay.
+executives moving between ﬁrms employing more than 10,000 people
 
-We suspected that such credentials might have a dampening eﬀect on
+received an average 27% raise, compared to a 16% raise for those who
 
-those with resume gaps, but our ﬁndings don’t support this. MBAs with
+moved between smaller ﬁrms. Executives with career gaps who moved
 
-a resume gap suﬀered a ﬁve percentage point drop in average salary
+between large ﬁrms saw an 18% average raise, a nine percentage point
 
-compared to MBAs without gaps, similar to the broader population.
-
-Having an Ivy League degree did not help, either.
+drop. Raises for those with gaps moving between smaller ﬁrms were 11%,

@@ -1,39 +1,29 @@
-# HBR / Digital Article / Research Roundup: Humility at the Top, Motivating Your Staff, R…
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f28441c1cf371952d743624e0e1b4bc665c4f02
+title: H08UMD-PDF-ENG
+---
+## Rudeness at Work Silences Women More Than Men
 
-Unbeknownst to the participants, the other group members’ comments
+Disrespectful behavior on the job—like shooting someone’s idea down
 
-were preprogrammed responses created by the researchers. Half the
+hastily or interrupting a colleague who’s speaking—might not be
 
-participants received responses to their ideas that were civil. The other
+malicious. But a new study found that it can have a major impact on
 
-half received rude responses, such as, “Umm…that actually sounds
+women’s willingness to speak up.
 
-really boring. Why don’t we suggest something fun?” The rude remarks
+Researchers ran an online experiment with 654 participants from
 
-appeared to come from both male and female colleagues.
+the United States, United Kingdom, and Canada. They told the
 
-The participants then were told to imagine they worked at a company
+participants they would each work for a few minutes with a group in
 
-with the same group. The researchers asked how comfortable they’d
+an online chatroom to come up with a creative name for a product.
 
-feel voicing new ideas or concerns, how likely they thought they’d be to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-experience backlash to a bad idea, and whether they’d withhold insights
+3
 
-in the future. Men and women in the polite group were equally willing
-
-to share new ideas and anticipated little backlash. But in the uncivil
-
-group, women were signiﬁcantly less at ease sharing their thoughts,
-
-more likely to anticipate hostile reactions to weak ideas, and more likely
-
-to say they’d keep their insights or concerns to themselves.
-
-The researchers obtained similar ﬁndings in a follow-up survey
-
-with 2,528 participants from the United States, the United Kingdom,
-
-and Canada, who were asked to report the levels of incivility they
-
-experienced in their actual workplaces and to rate their willingness to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

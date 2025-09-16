@@ -1,11 +1,21 @@
-## an interesting role for management of group boundaries.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 756690f95d7b9cfa09dc3659e325897423438042
+title: beo_chap7_1
+---
+# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
 
-To fix ideas, suppose there is a component of effort which is productive for the
+economics of identity). Psychological evidence from “minimal group” experiments
 
-firm but does not increase an employee’s own measured output. Call this “helping”
+suggests that people form group affiliations rapidly, e.g., based on which room they
 
-and think of it as a contribution to the firm-wide public good. In order to focus
+were placed into, or according to their preference for Klee or Kandinsky paintings.
 
-attention on group identification rather than multitasking (Holmstré6m and Milgrom
+Furthermore, these affiliations influence allocations in dictator and public-good-type games—they give more to in-group members and less to out-group members, !!
 
-1991), assume that choosing to help does not cut too deeply into a worker’s other
+Extrapolated to organizations, these findings suggest that workers will help mem-
+
+bers of their own group—as they perceive their group and its membership. In this
+
+view, a group is a club of people who all agree to help each other. This introduces

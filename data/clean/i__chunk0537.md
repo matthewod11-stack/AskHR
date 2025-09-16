@@ -1,15 +1,25 @@
-# growth.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: b5bead654f3310da39f862ace14ae2c78dc5ca7d
+title: i
+---
+# within the workplace.
 
-Moreover, according to Tursunbanyera et al. (2018), companies tend to prioritize the
+Misinterpretation of HR data may cause significantly high costs both financial and non-
 
-technological aspects of Predictive Analytics, emphasizing the adoption and upgrading of IT
+financial to employers and employees. The companies may suffer from not just financial loss
 
-infrastructure in their quest for more efficient data mining methods. Conversely, the ethical
+to companies and organizations but also life-changing impact on employees. Misinterpreting
 
-dimensions of PA are receiving inadequate attention compared to their significance. The
+HR data can lead to ineffective recruitment, training, and performance management decision-
 
-authors also highlight the lack of literature regarding the ethical side of PA, or <near absence
+making. It can also result in wasted resources, inefficient budget allocation, and missed growth
 
-of ethical considerations in the corpus of academic, grey and online literature, despite the
+opportunities. In the long term, these financial losses can be substantial and hinder the
 
-significant risks to privacy and autonomy these innovations present for employees=
+organization's ability to compete in the market. Consequently, a wrong decision may negatively
+
+impact organizational reputation or lead to legal liabilities. Unfair treatment due to
+
+misinterpretation has an adverse effect on employee well-being and hinders their professional

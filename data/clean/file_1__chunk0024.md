@@ -1,9 +1,11 @@
-# Appendix 2 Paper 2: Individuals’ Perceptions of Overall Gender Inequality: Lessons
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 4a572498147b109fb7f090a6c2de8af3dcd131ee
+title: file_1
+---
+# APPENDICES
 
-from Finland .................................................................................................... 87
+Appendix 1 Paper 1: Employees’ Perceptions of Gender Inequality in Society and in
 
-Appendix 3 Paper 3: Gender Pay Gap and its Perceptions ............................................ 103
-
-Appendix 4 Paper 4: Reactions to pay inequity and procedural injustice among male
-
-and female employees ..................................................................................... 117
+Workplace ........................................................................................................ 65

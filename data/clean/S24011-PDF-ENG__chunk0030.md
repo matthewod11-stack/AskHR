@@ -1,23 +1,27 @@
-## HBR / Spotlight Article / Leading in the Flow of Work
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 226cb0985efd50588bad4130962c29fdbb64e73e
+title: S24011-PDF-ENG
+---
+# Iraq’s aggression in the Middle East.”
 
-First, he established a positive intention and tapped into purpose by
+Was Gorbachev in that pivotal moment of impasse at lunch having
 
-reaffirming and reexpressing his reasons for meeting with Thatcher
+a crucial conversation with Thatcher? Inﬂuencing her? Inspiring her?
 
-and deciding to stay and reengage with her. Second, he showed
+Giving feedback? Building trust? Changing her behavior? He was quite
 
-wisdom by creating the right frame—by looking at the situation more
+evidently engaging in all those traditional leadership activities. Yet in
 
-constructively. Third, he evoked love by showing appreciation for her
+that moment, he was focused on one thing—activating the inner core in
 
-acute mind and her high personal principles and establishing an
+himself and in Thatcher. He did so with a few simple actions.
 
-affiliation with her—stating that he was the same kind of person. Last,
+In emphasizing leadership in the moment, I don’t want to minimize the importance of crafting a planned approach beforehand.
 
-instead of criticizing her for trying to convert him, he showed her how
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-amusing it would be to her if he were trying to convert her, sparking
+6
 
-joy (self-realization). Those actions instantly changed the tone of the
-
-meeting and helped him switch his leadership style from arguing to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,15 @@
-# McGraw-Hill.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 184cf5755e2f6a9edc293a5fbad9c6f71ac15e8e
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Feldman, J. (1981). Beyond attribution theory: Cognitive
 
-Fiedler, F. (1978). Recent developments in research on the
+processes in performance appraisal. Journal of Applied Psychology, 66, 127–148.
 
-contingency model. In L. Berkowitz (Ed.), Group processes (pp. 207–223). New York: Academic Press.
+Fernandez, B. (1997, December 6). SmithKline Beecham resorts to unusual job ads to attract applicants. Knight-Ridder/ Tribune Business News, p. 1206B.
 
-Field, R. H., & House, R. J. (1990). A test of the Vroom-Yetton
+Ferreter, J. M., Goldstein, H. W., Scherbaum, C. A., Yusko, K. P., & Jun, K. (2008, April). Examining adverse impact using a nontraditional cognitive ability assessment. Poster session presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
 
-model using manager and subordinate reports. Journal of Applied Psychology, 75(3), 362–266.
-
-Fine, B. J., & Kobrick, J. L. (1978). Eﬀ ects of altitude and heat on complex cognitive tasks. Human Factors, 20, 115–122.
-
-Fine, S. A. (1955). What is occupational information? Personnel
+Fiedler, F. (1967). A theory of leadership eﬀ ectiveness. New York:

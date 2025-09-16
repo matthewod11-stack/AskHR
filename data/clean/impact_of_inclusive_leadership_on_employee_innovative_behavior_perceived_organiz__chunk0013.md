@@ -1,7 +1,9 @@
-# Fig 1. Research model.
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 0977ddb59b47ce7b93482488519023eb6b206987
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+# Employee innovative behavior
 
-https://doi.org/10.1371/journal.pone.0212091.g001
-
-PLOS ONE | https://doi.org/10.1371/journal.pone.0212091 February 28, 2019
-
-3 / 14
+Innovative behavior was considered as a series of activities pertaining to idea generation, idea promotion, and idea realization for new technologies, processes, techniques, or products

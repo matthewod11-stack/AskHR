@@ -1,11 +1,41 @@
-## HBR / Digital Article / 3 Strategies for Making Better, More Informed Decisions
+---
+source_path: H07MWV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c9bc655cb1a92e8aca11654ae42a117e9c4b17c
+title: H07MWV-PDF-ENG
+---
+# problems.
 
-merchandise the week after the bonus was paid out. In essence,
+Here’s how to combat the self-serving bias — and reach better, longer-
 
-motivated by the new guidelines, workers were buying merchandise in
+lasting decisions:
 
-bulk toward the end of the month to meet their targets and returning
+Consider the source of the information you’re relying on.
 
-it shortly after receiving their bonus. Managers were evaluating their
+Doing this will likely lead you to reexamine the data you rely on to
 
-employees based on incomplete information about their behavior and
+make your decisions. As I wrote in my book Sidetracked, I once worked
+
+with a chain of retail stores that was trying to motivate their employees.
+
+Puzzled after a few unsuccessful attempts, they ﬁnally saw promising
+
+results when they introduced clear performance guidelines, sales
+
+targets, and monthly bonuses. Productivity shot up, most employees
+
+met their targets, and managers began using these positive results in the
+
+employees’ performance evaluations.
+
+However, upon closer examination, company management noticed a
+
+disturbing trend. Employees were achieving their sales targets primarily
+
+in the last week of each month, and there was a spike in returned
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

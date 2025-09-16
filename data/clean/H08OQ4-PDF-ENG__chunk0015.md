@@ -1,17 +1,27 @@
-# productive conversation.
+---
+source_path: H08OQ4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd6a49c87813993372311cbe3fde21b3727ec057
+title: H08OQ4-PDF-ENG
+---
+# others.
 
-Reframing challenges in a positive light also reduces stress and
+For example, if you need to deliver tough feedback to a team
 
-depletion, leading to a more refreshed state of mind. Consider what
+member, take a moment to reﬂect on what you genuinely appreciate
 
-positive outcomes might emerge from the meeting—might you foster
+about the person. One of my clients, Jane, dreaded an upcoming
 
-growth, strengthen relationships, or create clarity for the future? If you
+meeting with Sorab, a direct report whose performance had been
 
-ﬁnd yourself wanting to avoid or disengage from the meeting, shift
+slipping. Her previous attempts at constructive feedback had been
 
-your focus to what makes you a strong leader. Studies show that this
+met with defensiveness, and she feared how he might react this time
 
-kind of “positive leader self-reﬂection” boosts energy and engagement,
+—and whether she could keep the conversation on track. Before the
 
-improving how others perceive your leadership and, in turn, your
+meeting, Jane deliberately reminded herself of Sorab’s creativity, fresh
+
+perspective, and the positive energy he brought to meetings. This
+
+mindset shift helped her take a more supportive tone and led to a more

@@ -1,25 +1,21 @@
-# HBR / Digital Article / Why Cross-Functional Collaboration Stalls, and How to Fix It
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51b89ac538387c577137b2501f0657c59f039611
+title: H08A5M-PDF-ENG
+---
+## Look for collaboration drag within functions or teams.
 
-must-have collaboration, prioritizing participation where teams can
+Collaboration drag isn’t limited to cross-functional eﬀorts. This ﬁnal
 
-make the clearest impact.
+piece of the solution requires a solid understanding of how work gets
 
-Take the example of a large global supply chain organization, where
+done today, including the confusing and exhausting parts. Functional
 
-the customer insights and marketing leader led a multiyear functional
+leaders can start by reducing nice-to-have collaboration in favor of
 
-transformation to “Say no and mean it.” To support this cultural change,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-she started by assessing how business partners were working with the
+5
 
-marketing function. She worked with peer executives to determine
-
-which initiatives were linked to a company strategic priority — and
-
-found that most approved projects did not tie back. At that point, she
-
-had a clear business case to look deeper within marketing.
-
-The next step was to map processes in detail and reach a more
-
-comprehensive understanding of how work gets done for typical
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

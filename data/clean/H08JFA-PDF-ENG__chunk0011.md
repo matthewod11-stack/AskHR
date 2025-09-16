@@ -1,11 +1,43 @@
-# trajectory.
+---
+source_path: H08JFA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c8a62d9549f104d2e06e8294cbf4e870d7ff26c
+title: H08JFA-PDF-ENG
+---
+# much.
 
-- 3. Comparison with others: Seeing peers handle heavy workloads can
+Based on my insights and research for my book Toxic Productivity:
 
-create unfair comparisons and an internal pressure to keep up, even
+Reclaim your time and emotional energy in a world that always demands
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+more, there are three emotional dynamics that can lead you to
 
-3
+overcommitting in the workplace that impact how you feel or behave.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 1. Desire for validation (especially from managers): You might be
+
+taking on more than you can manage as you may have a strong need
+
+to be recognized and valued and depend on external validation to see
+
+the value of your work. But this dependence on other people’s opinion
+
+may prevent you from developing important skills. For instance,
+
+instead of seeing feedback as an opportunity for growth, you might
+
+interpret it as a criticism of your value as an employee and feel
+
+anxious instead of learning from it. Or you might not attempt new
+
+projects or tasks at work, preferring to stay in your comfort zone,
+
+instead of risking mistakes or failure.
+
+- 2. Fear of rejection and failure: You might fear potentially
+
+disappointing colleagues or being perceived as incapable. This fear
+
+can push you to accept tasks beyond your capacity or capability,
+
+believing that saying “no” will harm your reputation or career

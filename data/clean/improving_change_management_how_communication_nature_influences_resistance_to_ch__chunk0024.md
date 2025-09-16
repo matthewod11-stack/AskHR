@@ -1,43 +1,55 @@
-# own merit.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 2147781e33eaba5a3ecf0d734a3772c12784a3d0
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# process.
 
-Washington and Hacker (2005: 402) have already declared that “while many
+In a study by Van Dam, Oreg et al. (2008), the change process was evaluated by
 
-studies focus on the factors impacting change, the link between resistance and change
+three process variables; information, participation and trust in management, using a 7-
 
-has been only explored to a limited extent”. In a similar vein, Van Dam and Oreg’s
+point Likert scale. One of the great findings in Oreg’s study was that “Trust in
 
-(2008) previously claimed that, in the field of organizational change, “future research
+management” is the only variable with significantly influences the affective, cognitive
 
-should expand the context characteristics studied”. As an answer to those arguments,
+and behavior dimensions. It is also worth stressing that “Information” influenced the
 
-this research is an effort to address the still existing gap in the understanding of the
+behavior and cognitive dimensions. Although it had been anticipated that there would be
 
-mechanisms that allow resistance to change - understood as a communicative
+an inverted relation with cognitive dimension, that is, the more information given, the
 
-expression - to be embraced and positively managed. It seeks to clarify those
+less resistance shown (based on the assumption that resistance is due to unfamiliarity
 
-mechanisms and contribute towards allowing practitioners to turn a so-called resistant
+with details of change), the opposite was found to be true. Oreg himself points out a
 
-into an acceptor or an advocate, and so that the desired change outcomes can be
+possible explanation for it by stating that the relationship between information and
 
-achieved.
+resistance “would therefore appear to depend on the content, rather than on the mere
 
-Nonetheless, as the literature review on resistance to change has already
+existence of information. Furthermore, the manner in which the information is
 
-indicated, the genuineness or authenticity of the participation process is configured as a
+communicated is also likely to influence change acceptance.” In fact, Oreg’s thinking
 
-relevant focus of investigation. Change would depend strongly on the ways information
+turns into provocative questioning not about investigating if information and participation
 
-and participation are provided, not on the mere existence or amount of input, either
+are provided but in which ways they are provided to lighten resistance to change. As
 
-given or requested (Lawrence, 1954; Powell and Posner, 1978; Stohl and Cheney,
+other authors alert, even when following classic prescriptions to deal with resistance by
 
-2001; Lewis, 2006: 11). In other words, “it is not sufficient to offer the right structure or
+informing and allowing participation, there are authentic and feigned ways to do so.
 
-design in order to promote active participation” (Deetz, 1992). Thus, in order to
+The claim here is that participation will never work if it is treated as a device to
 
-contribute towards broadening the understanding of communication in relation to
+get people to do what a change agent wants them to, as it could lead to deeper and
 
-resistance to change, it seems valuable to turn the focus of future research on
+even more disguised resistance to change. Genuine participation is based on respect,
 
-communication and change to the very nature of participation. As supported by other
+which comes from recognizing a real dependence on people’s contributions. This would
+
+drive the agent to gather ideas and suggestions, not in a backhanded way to get
+
+compliance, but in a straightforward way to gather some good ideas and avoid some
+
+unnecessary mistakes. It would be possible to discuss, accept or reject ideas on their

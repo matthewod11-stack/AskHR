@@ -1,7 +1,19 @@
-## of color at higher risk for mental health challenges. Leaders must
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c49c9339814721708a7dcf5d1773b8257ce338ea
+title: H087DJ-PDF-ENG
+---
+## HBR / Digital Article / Supporting the Mental Health of Employees of Color
 
-be willing to take a hard look at policies and procedures that
+by incorporating a segment on mental health and wellness into staﬀ
 
-reﬂect systemic racism and workplace cultures that may be rife with
+meetings, being sure to address the needs of employees of color.
 
-interpersonal racism. Then, they must work to rethink and change those
+And mental health ﬁrst-aid training can become part of supervisors’
+
+training, providing those in leadership with the skills to respond
+
+empathetically and appropriately to employees of color who seek help.
+
+Systemic and interpersonal racism in the workplace puts employees

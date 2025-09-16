@@ -1,19 +1,13 @@
-# ﬁrm.
+---
+source_path: H046PA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5de102a75d0b97253226cc675da3bff874633c15
+title: H046PA-PDF-ENG
+---
+# HBR / Digital Article / How Women Can Develop — and Promote — Their Personal Bran…
 
-But personal branding has some unique challenges for female
+brand is also a powerful hedge against professional misfortune. If there
 
-professionals. Research has repeatedly shown that women are subject
+are layoﬀs or cutbacks at your company, being recognized in your ﬁeld
 
-to a phenomenon known as the “likability conundrum.” Gender norms
-
-presume that women should be agreeable, warm, and nurturing, and
-
-when they violate these norms — such as when they step up to make
-
-a tough decision, share a strong opinion, or promote themselves —
-
-they’re often penalized for that behavior in a way that men wouldn’t
-
-be. We can all think of examples of women who have been publicly
-
-criticized for being “too aggressive” or labeled an “ice queen” or the
+makes it far more likely that you’ll be snapped up quickly by another

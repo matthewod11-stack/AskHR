@@ -1,15 +1,15 @@
-# the company’s goals.
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73d49eade1a74fa711152e684dd1cd07fb9b8de0
+title: H082MI-PDF-ENG
+---
+# and skills.
 
-- 3. Provide support for career advancement
+- 2. What did you experience? This adds an element of storytelling and
 
-According to the Foundation for Social Connection, managers’
+makes your recognition more memorable and personalized.
 
-interactions with direct reports are among the most powerful
+- 3. What was the impact on the company and team? This can help
 
-inﬂuencers of employee well-being. And when you enhance the well-
-
-being needs of your employees, you enhance the sense of community
-
-overall. Yet, data by INTOO and Workplace Intelligence shows a
-
-low percentage of employees have formal (34%) or informal (30%)
+show the employee how their eﬀorts and accomplishments align with

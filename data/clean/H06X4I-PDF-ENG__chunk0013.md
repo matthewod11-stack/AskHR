@@ -1,11 +1,15 @@
-## often beat internal innovation benchmarks for similar projects.
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aeef5378c64caec16df64196a6100ab9e3eef9e9
+title: H06X4I-PDF-ENG
+---
+## the overhead requirements of traditional temporary staﬃng solutions
 
-Still, there have been barriers to organizations adopting the open
+would slow the project or be cost-prohibitive.
 
-model. At Upwork, a leading online labor market, the sales team saw
+- Third, ﬂexible talent strategies provide access to innovative or diverse
 
-some common stumbling blocks from potential clients. Discomfort
+skillsets beyond traditional recruiting pipelines. Industry leaders like
 
-with remote work was one of the most signiﬁcant, as ﬂexible talent
-
-is disproportionately remote. Resistance also comes from enterprise
+Netﬂix and NASA have found that contests with external participants

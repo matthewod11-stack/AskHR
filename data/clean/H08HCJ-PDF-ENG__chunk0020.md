@@ -1,5 +1,19 @@
-## such as non-enforcement of employee non-compete agreements, might
+---
+source_path: H08HCJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d250cf1b270ba12a9b32487c84907f1465fa2ea
+title: H08HCJ-PDF-ENG
+---
+## better balance between the presence of large ﬁrms and the needs of
 
-diminish crowding and provide the most fertile environment for long-
+the entrepreneurial community. For example, regional policymakers
 
-run startup success.
+frequently seek to attract large ﬁrms with tax and other incentives, and
+
+we show that they face a tradeoﬀ in doing so. Large ﬁrms can increase
+
+agglomeration economies in a region, but crowding might diminish
+
+or even reverse these beneﬁts. Regions that recruit large ﬁrms with a
+
+specialized focus and have policies that improve employee mobility,

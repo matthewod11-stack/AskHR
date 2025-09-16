@@ -1,25 +1,15 @@
-# work.
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4235bda5fa206962c532e8fe52275ed7b8e2463
+title: H08LGU-PDF-ENG
+---
+## HBR / Digital Article / What Comes After DEI
 
-- Win-Win, focusing not only on creating better outcomes for all, but
+the blame for a problem or the onus of problem-solving to small groups
 
-communicating the beneﬁts of progress — even if it might look to
+of employees, a coalition-building approach aims to engage everyone
 
-be limited or localized at ﬁrst — for everyone. A win-win approach
+in taking responsibility and working together to ﬁnd solutions that
 
-intentionally aims to push back against the notion that progress could
-
-be zero-sum: for example, rather than assuming that only women will
-
-be interested in challenging gender bias, a win-win approach might
-
-involve reaching out to people of all genders with the assumption that
-
-challenging gender biases beneﬁts everyone.
-
-How can FAIR succeed where DEI has failed?
-
-The FAIR framework is a model for building human-centric
-
-organizations around the above principles. The four outcomes of FAIR
-
-are:
+work for all, even if not everyone shares the same beliefs about the

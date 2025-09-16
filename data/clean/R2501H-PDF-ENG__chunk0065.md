@@ -1,7 +1,11 @@
-# @gpetriglieri
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6aec86d274a2144d3fa999d3e2ee70f1dcef6b4
+title: R2501H-PDF-ENG
+---
+# bring that vision to life.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+A version of this article appeared in the January–February 2025 issue of Harvard Business Review.
 
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Gianpiero Petriglieri is an associate professor of organizational behavior at INSEAD. He directs the INSEAD Management Acceleration Programme and runs leadership workshops and master classes for global organizations.

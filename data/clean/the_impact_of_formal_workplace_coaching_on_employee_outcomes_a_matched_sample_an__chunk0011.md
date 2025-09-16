@@ -1,3 +1,9 @@
-## ARTICLE HISTORY Received 12 February 2025 Accepted 6 August 2025
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: 761637a29d25add939ff76d917ecbda888b8b138
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+## School of Management, Massey University Business School, Albany, New Zealand
 
-KEYWORDS Social exchange theory; LMX; formal coaching; work- related outcomes; propensity score matching; latent mean comparison
+ABSTRACT The manager-as-coach model, where supervisors enhance the development and performance of their direct reports (employees) by adopting a ‘coaching’ leadership style, has grown in popularity. For human resource development (HRD), the purported benefits include improved employee performance, organisational commit- ment, and reduced turnover intentions. Guided by Social Exchange Theory and Leader-Member Exchange Theory, we compared a matched sample (n = 412) of New Zealand-based employees across diverse sectors and industries, half who received formal workplace coaching from their supervisor (coached group) and half who did not (no-coach group). After conducting a multi- group confirmatory factor analysis and comparing latent means, we found that the formally coached group experienced stronger meaningful work and organisational citizenship behaviours (indivi- dual and organisational). Unexpectedly, turnover intentions and counter-productive work behaviours (CWB) did not differ between groups. This suggests that whilst formally coached employees felt obliged to improve positive work-related outcomes (i.e. meaningful work and OCB), the effect was too weak to reduce negative work- related attitudes and behaviours (i.e. turnover intentions and CWBs). Consequently, we discuss alternative explanations to account for this inconsistency, along with recommendations for HRD practitioners and future research.

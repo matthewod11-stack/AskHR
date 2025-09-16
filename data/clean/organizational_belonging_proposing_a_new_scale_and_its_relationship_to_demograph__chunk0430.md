@@ -1,5 +1,7 @@
-# G. BLAU ET AL.
-
-Table 4. Final hierarchical regression models for incrementally testing the contributions of organizational belonging scales for explaining productivity and intent to stay. Productivityh
-
-Intent to stayh
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 7b898282257e678d0a4d5e685885b2697c3b1a1d
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# 244

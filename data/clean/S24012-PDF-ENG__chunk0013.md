@@ -1,7 +1,19 @@
-# myself.
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48c07ebdd9230af43f51c2626103cc1a74eb7cd7
+title: S24012-PDF-ENG
+---
+## stakeholders—from the board and the leadership team to workers on
 
-To help leaders better understand which issues truly need their
+the front lines—can have to things they hear or see.
 
-attention—and which do not—I have created a two-by-two matrix that
+Many CEOs I advise struggle with the fact that unexpected events
 
-categorizes events according to two dimensions: how they initially
+consume such a large chunk of each workweek. They worry that they’re
+
+spending too much time in reactive mode and feel that their days have
+
+a Sisyphean quality to them. Yet they can’t seem to break out of this
+
+pattern. I have experienced this challenge while running organizations

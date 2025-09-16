@@ -1,11 +1,19 @@
-## gender diversity among its male-dominated workforce.
+---
+source_path: H08QAO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d847d5c000223a661d514ba7297ff9436501185
+title: H08QAO-PDF-ENG
+---
+# HBR / Digital Article / Research: The Benefits of Letting HR Decide Who Gets an Interv…
 
-Why? It turns out that HR professionals and managers approached
+an impact on who gets hired? Our research, published in Administrative
 
-the task of shortlisting much diﬀerently—which had ripple eﬀects into
+Science Quarterly, examines this scenario.
 
-who ended up ﬁlling a role. Our ﬁndings have major implications for
+When a leading multinational technology company (for conﬁdentiality
 
-companies looking for a simple way to reduce some of the inadvertent
+reasons we’ll refer to it as Alpha) transferred the task of shortlisting
 
-biases that can creep into the selection process.
+candidates from line managers to HR departments, more women were
+
+hired—even though the company had no particular aims to improve

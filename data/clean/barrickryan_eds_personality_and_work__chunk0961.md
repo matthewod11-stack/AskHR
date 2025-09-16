@@ -1,3 +1,13 @@
-# P
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 2f8df42c50e236d18a5922b5310d420887937987
+title: barrickryan_eds_personality_and_work
+---
+# NAME INDEX 353
 
-Paine, J. B., 90 Park, S.B.G., 136 Parkes, K. R., 170 Parkinson, B., 141 Parkinson, D. K., 169 Parks, J. M., 89 Parsons, C. K., 264, 265, 281 Pascal, S., 7 Patton, G. K., 31, 279 Paulhus, D. L., 8 Paunonen, S. V., 15, 19, 86, 312 Pavot, W., 136 Payne, S. C., 247 Peabody, D., 14, 16 Penner, L. A., 90, 96, 103, 298 Perrewe, P. L., 127, 169, 265 Perugini, M., 10 Pervin, L. A., 125, 131, 274 Peters, L. H., 61, 69, 169 Peterson, R. S., 186 Philips, J. L., 183 Phillips, J. M., 108, 278 Pierce, G. R., 141 Pintrich, P. R., 243, 252 Piotrowski, M., 64, 98, 186 Plamondon, K. E., 91
+Odbert, H. S., 2, 190 Offermann, L. R., 280 Oh, H., 214, 215, 219 Oishi, S., 307 Okun, M. A., 36 Oldham, G. R., 169 Ones, D. S., 15, 87, 112, 153, 154,
+
+293, 298, 299, 302, 308, 310, 329
+
+Oppler, S. H., 88, 290 O’Reilly, C. A., 218, 264 Organ, D. W., 89, 90, 96, 103 Osecká, L., 8 Osgood, C. E., 8, 9, 12, 22 Ostendorf, F., 5, 7, 8, 14, 16, 86 Ostir, G. V., 44 Oswald, F. L., 229, 295, 314 Outerbridge, A. N., 77, 292 Ozer, D. J., 237, 243

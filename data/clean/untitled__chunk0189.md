@@ -1,13 +1,17 @@
-# NJ: Prentice Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: abda2fa9a7ea7a9380b8c16a56d42d0a4cae995d
+title: untitled
+---
+# ogy. New York: Holt.
 
-Ben-David, J., & Collins, R. (1966). Social factors in the origins of a new science. American Sociological Review, 31, 451–465.
+Baldwin, J. M. (1895). Mental developmental in the child and the
 
-Benjamin, L. T., Jr. (2000). The psychology laboratory at the turn
+race: Methods and processes. New York: Macmillan.
 
-of the century. American Psychologist, 55, 318–321.
+Baldwin, J. M. (1897). Social and ethical interpretations of mental development:Astudyinsocialpsychology.NewYork:Macmillan.
 
-Benjamin, L. T., Jr., Durkin, M., Link, M., Vestal, M., & Acord, J. (1992). Wundt’s American doctoral students. American Psychol- ogist, 47, 123–131.
+Bazerman, C. (1987). Codifying the social scientiﬁc style: The APA publication manual as a behavioristic rhetoric. In J. S. Nelson, A. Megill, & D. N. McCloskey (Eds.), The rhetoric of the human sciences (pp. 125–144). Madison: University of Wisconsin Press.
 
-Bently, M., Hodge, F. W., Passano, E. B., Peerenboom, C. A., Warren, H. C., & Washburn, M. W. (1929). Instructions in re- gard to preparation of manuscript. Psychological Bulletin, 26, 57–63.
-
-Blumenthal, A. (1985a). Shaping a tradition: Experimentalism be- gins. In C. E. Buxton (Ed.), Points of view in the modern history of psychology (pp. 51–83). New York: Academic Press.
+Ben-David,J.(1971).Thescientistsroleinsociety.EnglewoodCliffs,

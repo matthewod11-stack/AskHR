@@ -1,5 +1,9 @@
-## release polymers respectively, to P&G’s biggest business, fabric care.
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e398b456bc9e09ff3d286fe140a95c86d08115d0
+title: R2501E-PDF-ENG
+---
+## competitors. In one example, the company’s suppliers Novozymes and
 
-A.G. led the eﬀort to establish joint value creation with P&G’s retail
-
-partners, beginning with Walmart. He also partnered with competitors
+BASF contributed game-changing innovations, in enzymes and soil-

@@ -1,3 +1,7 @@
-# Department of Hospitality Management Federal Polytechnic, Oko Anambra State, Nigeria
-
-Abstract: This study is aimed at looking into the importance of motivation in the management of people at work, no system moves smoothly without it, and no organization achieve its objective without motivating its human resources. The study therefore is to study and come out with the effect and ways of motivating worker in organization, hence comparative study of Manufacturing firms in Nnewi, Chicason group Nig Ltd, Ibeto group of company Nig Ltd, Capital Oil and Gas Nig Ltd, Cultix Cable Nig Ltd, and Innoson Motors Nig Ltd. Descriptive and inferential statistics were used in the analysis of the data. Necessary literatures were reviewed. During the analysis of the data it was discovered that the goal of motivation is to cause people to put fourth their best efforts with enthusiasm and effectiveness in order to achieve and hopefully surpass organizational objective. It is evidence that workers of manufacturing firms in Nnewi are poorly motivated; hence low productivity. Findings from the research on productivity of manufacturing firm’s staff are reported. Two sets of questionnaires were employed in the study. One set was administered on management staff and the other on junior staff. The study reveals that salaries paid to junior staff in the company were very below the stipulations of Nigerian National Joint Industry Council. It further shows that the junior staff is rarely promoted and the junior staff prefers financial incentives than non financial incentives. The study recommended that increase in salary via promotion; overtime allowance and holiday with pay should be used as motivational tools.
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: 3cddf240920987177fc45fae19d52f6c4cd1b342
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# School of Business Studies Federal Polytechnic, Oko Anambra State, Nigeria Oyi_chuks2@yahoo.com

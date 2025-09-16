@@ -1,25 +1,23 @@
-# happen.
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab9b265866f047e58b52a9a3944468e83e578f73
+title: R2504F-PDF-ENG
+---
+## HBR / Magazine Article / Your Company Needs an Eldercare Policy
 
-Expanding Medicare to cover long-term care would oﬀer enormous
+it will be 4:1; in 2050 it will be 3:1. This trend, too, prevails in developed
 
-relief to people shouldering the cost and eﬀort of eldercare. And that
+and developing countries around the world.
 
-idea is very popular: Recent research by Age Wave and the John A.
+Paid caregiving won’t ﬁll the supply gap, for two reasons. First, for the
 
-Hartford Foundation found that 80% of all Americans are in favor of
+majority of American families, it’s unaﬀordable: Annual long-term-care
 
-integrating long-term care into a new age-friendly healthcare system.
+costs, which Medicare generally doesn’t cover, average $104,000 for
 
-Most U.S. workers will need to provide eldercare at some point
+in-facility care and $69,000 for in-home situations. Second, to keep
 
-during their careers. Even if expanding Medicare were politically
+up with demand, the long-term-care workforce would need to grow by
 
-and economically viable, however, many employees would still be
-
-responsible for coordinating care and other responsibilities. Eldercare
-
-would remain a part-time job for much of the workforce. To help
-
-employees meet the challenge, employers need to step up, just as the
-
-majority have done for childcare, and provide more support in the form
+more than a million people over the coming 10 years. That’s not likely to

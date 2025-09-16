@@ -1,7 +1,15 @@
-## marketing, human resource management, and so on diﬀerently from
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f09c0fcfc96b540d13ba8db6ef3b4cf0591ff5c
+title: H08TKY-PDF-ENG
+---
+## whole system rather than just one or two discrete product features or
 
-rivals and tailored to its unique value proposition. If a company
+ways of performing particular activities.
 
-focuses only on adopting best practices, it will end up performing most
+To establish a sustainable competitive advantage, strategy must be
 
-activities similarly to competitors, making it hard to gain an advantage.
+reﬂected in a distinct value chain. This means a company must
+
+conﬁgure the way it conducts manufacturing, logistics, service delivery,

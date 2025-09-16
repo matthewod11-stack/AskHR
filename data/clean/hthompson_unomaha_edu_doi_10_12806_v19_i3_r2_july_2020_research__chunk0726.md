@@ -1,17 +1,21 @@
-## uniquness. Human Resource Management Review, 190-203.
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: 26f67aef4d12cff3f3084257e12167ba62b12129
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+# Wspólczesne Zarzadzanie, 2.
 
-Rankin S. R. (2005). Campus climates for sexual minorities. New Directions for Student Services, 2005(111),
+Posselt, J. (2014). Toward inclusive excellence in graduate education: Constructing merit and diversity in
 
-17-23.
+Ph.D. admissions. American Journal of Education: Special Issue on Racial Diversity in Graduate Education,
 
-Rayner, S. (2009). Educational diversity and learning leadership: a proposition, some principles and a model
+120(4), 481-514.
 
-of inclusive leadership? Educational Review, 61(4), 433–447.
+Qi, L., Liu, B., Wei, X., & Hu, Y. (2019). Impact of inclusive leadership on employee innovative behavior:
 
-Riehl, C. (2000). The principal’s role in creating inclusive schools for diverse students: A review of normative,
+Perceived organizational support as a mediator. PloS ONE, 14(2), e0212091.
 
-empirical, and critical literature on the practice of educational administration. Review of Educational
+Randel, A. E., Galvin, B. M., Shore, L. M., Ehrhart, K. H., Chung, B. G., Dean, M. A., & Kedharnath, U. (2018).
 
-Research, 70(1), 55-81.
-
-Shore, L. M., Cleveland, J. N., & Sanchez, D. (2018). Inclusive workplaces: A review and model. Human
+Inclusive leadership: Realizing potential outcomes through belongingness and being valued for

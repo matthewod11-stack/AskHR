@@ -1,27 +1,25 @@
-# HBR / Digital Article / How to Support Parents of Neurodivergent Children at Work
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad27c753211a873f28f0afa5f18de7515433b91b
+title: H07MZQ-PDF-ENG
+---
+# periods.
 
-therapists, both for ourselves and our children, is essential, as this
+This all means that sick days for parents like us may be to preserve our
 
-support is not always covered well by insurance, if we have it to begin
+mental health and well-being. We often have to stand in to be the only
 
-with. Without that support, parents are often left to fend for ourselves
+and biggest advocate for our children. We have to have the energy to
 
-and grind through extremely challenging situations that most people
+pour into them and ﬁght systematic obstructions that refuse to give
 
-can’t fathom. These parents are people you probably work with closely,
+them a chance to exist. It means intentional self-care and pouring
 
-collaborate with, and even share a joke with every day — who have
+into ourselves to ensure there are no chinks in our battle armor. And on a very practical note, ﬁnancial support that allows us to aﬀord
 
-learned to struggle silently so that they do not appear performance-
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-compromised at work.
+5
 
-Support is far more important than companies realize. Organizations
-
-should provide additional support for parents early on in the parenting
-
-journey that includes valid information about neurodiversity from
-
-trusted sources. This can take the form of informational sessions,
-
-speakers, or employee resource groups (ERGs). This won’t just
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

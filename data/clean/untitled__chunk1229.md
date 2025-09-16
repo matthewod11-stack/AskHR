@@ -1,11 +1,17 @@
-# Houghton Mifﬂin.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8aff5f54628a155a8c6a3aac10a427272f6b78a7
+title: untitled
+---
+# New Haven, CT: Yale University Press.
 
-Wells, H. G. (1934). Experiment in autobiography: Discoveries and conclusions of a very ordinary brain (since 1866). New York: Macmillan.
+Thurstone, L. L. (1952). L. L. Thurstone. In E. G. Boring, H. S. Langfeld, H. Werner, & R. M. Yerkes (Eds.), A history of psychology in autobiography (Vol. 4, pp. 295–321). New York: Russell & Russell.
 
-West, S. G. (Ed.). (1983). Personality and prediction: Nomothetic and idiographic approaches [Special issue]. Journal of Personal- ity, 51(3).
+Triplet, R. G. (1983). Henry A. Murray and the Harvard Psychological Clinic, 1926–1938: A struggle to expand the disciplinary boundaries of academic psychology. Unpub- lished doctoral dissertation, University of New Hampshire, Durham.
 
-White, R. W. (1952). Lives in progress: A study of the natural
+Tweney, R. D., & Budzynski, C. A. (2000). The scientiﬁc status of American psychology in 1900. American Psychologist, 55, 1014–1017.
 
-growth of personality (3rd ed.). New York: Dryden Press.
+Vernon, P. E. (1933). The American v. the German methods of ap- proach to the study of temperament and personality. British Journal of Psychology, 24, 156–177.
 
-White, R. W. (Ed.). (1963). The study of lives: Essays on personal- ity in honor of Henry A. Murray. New York: Atherton Press.
+Warren, H. C. (Ed.). (1934). Dictionary of psychology. Boston:

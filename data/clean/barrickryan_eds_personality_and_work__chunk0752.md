@@ -1,7 +1,11 @@
-## Journal of Educational Psychology, 84, 261–271.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 00a6623f4aa50ad8a5a8803e97566b31d2b767ed
+title: barrickryan_eds_personality_and_work
+---
+# UNDERSTANDING THE DYNAMIC LEARNER 255
 
-Baldwin, T. T., & Ford, J. K. (1988). Transfer of training: A review and di- rections for future research. Personnel Psychology, 41, 63–105. Baldwin, T. T., Magjuka, R. J., & Loher, B. T. (1991). The perils of partic- ipation: Effects of choice of training on trainee motivation and learning. Personnel Psychology, 44, 51–65.
+a learning activity for a period of time and decide when to stop and return to it later. Finally, most traditional instruction can provide only a minimal amount of time for skilled practice because the practice time must be shared across all members in the course. The promise and potential of virtual reality training is that individuals have more options regarding how much practice they aspire to ob- tain and how many different scenarios or situations they practice. Increasing learner control and customization of training pro- vide opportunities for researchers to advance training theory of in- dividual differences and learning while examining issues within relevant and interesting training contexts. Which traits are rele- vant to study in learner-controlled contexts might vary somewhat from those that have traditionally been examined, although it is an important coincidence that self-efﬁcacy and need for structure are a major aptitude and treatment, respectively, that have gained a foothold in ATI research and at the same time are important characteristics that inﬂuence the implementation of new training technologies. The types of individuals who might learn more in a customized training approach over a normative training approach needs to be studied more carefully, so that the cost-beneﬁt analy- sis of implementing new training technologies can be made more explicit. More generally, we assert a real need for research on cre- ating learning situations, examining relevant aptitude treatment interactions, and studying multiple traits and multiple pathways across traditional and more innovative learning contexts.
 
-Barrick, M. R., & Mount, M. K. (1991). The Big Five personality dimen- sions and job performance: A meta-analysis. Personnel Psychology, 44, 1–26.
-
-Barrios, B. A., & Shigetomi, C. C. (1979). Coping-skills training for the management of anxiety: A critical review. Behavior Therapy, 10, 491–522.
+References Ames, C. (1992). Classrooms: Goals, structures, and student motivation.

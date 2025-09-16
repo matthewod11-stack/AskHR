@@ -1,9 +1,13 @@
-# timeline.
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45fa4a32cb9e56638fcaa8412ef01ab435b0bdf2
+title: H078QI-PDF-ENG
+---
+## accountability (by the time of the next yearly survey, an improved
 
-- 5. Sustain momentum by afﬁrming effort and celebrating wins.
+belonging score). Highlight primarily the support available to all
 
-Using DEI-related metrics, regularly identify and celebrate wins and
+(learning resources and leadership coaching), while underscoring the
 
-achievements while praising the shared eﬀort of all stakeholder groups.
-
-Ensure that these celebrations use a similar framing of fairness,
+importance of achieving the initiative’s goals within the expected

@@ -1,15 +1,19 @@
-# initiatives.
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0f5fd44097befc3e9353a516dd54a4b43dfd4cb
+title: H08I7Y-PDF-ENG
+---
+# HBR / Digital Article / 3 Reasons Change Initiatives Fail — and How to Ensure Yours Su…
 
-Debora had arrived ready to coordinate initiatives across the
+Upon arrival, Debora spent time talking with employees across all
 
-organization’s existing transformation program. But she soon realized
+levels, many of whom described their post-transformation workplace in
 
-that a more-fundamental change was in order: The company’s program
+a negative light, using such terms as “war room” and “Hunger Games.”
 
-needed a set of strategies that could be tailored to each department’s
+The ﬁndings from a recent company pulse survey reinforced what she
 
-speciﬁc challenges and constraints. Without such tailoring, even sound
+had heard: Although employees understood why change was needed,
 
-transformation initiatives might falter or backﬁre.
-
-We are HR strategy advisors and professors who have studied
+they felt they were already stretched too thin to take on any new

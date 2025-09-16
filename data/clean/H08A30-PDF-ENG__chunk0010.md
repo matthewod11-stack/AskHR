@@ -1,5 +1,23 @@
-## Indeed, our own research conﬁrms that job candidates with disabilities
+---
+source_path: H08A30-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1f252470fd0f0d426e2cfef048171af09933aba
+title: H08A30-PDF-ENG
+---
+## about a company’s commitment to equity and inclusion.
 
-do respond more positively to “heartfelt” language, as opposed to the
+For example, Microsoft states: “We strive to create an environment that
 
-traditional “legalese” type of statement. We tested two versions of
+brings the power of diversity to life.” According to Meta: “Diversity isn’t
+
+optional. To bring the world closer together, diversity is a must-have…
+
+not an option.” Nike proclaims: “…we know the greatest ideas come
+
+from a variety of lived experiences, which is why we are committed
+
+to a workplace that is diverse, equitable, and accessible. Where our
+
+teammates feel seen, heard, and included. Where they belong and can
+
+become their very best selves.”

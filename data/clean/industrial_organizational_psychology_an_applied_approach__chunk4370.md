@@ -1,49 +1,19 @@
-## Ones, D. S., Viswesvaren, C., & Schmidt, F. L. (1993).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1709805ae919c398a7ee1bf9b7d1b5a448791178
+title: industrial_organizational_psychology_an_applied_approach
+---
+## O’Kane, P., Palmer, M., & Hargie, O. (2007). Workplace
 
-Comprehensive meta-analysis of integrity test validities: Findings for personnel selection and theories of job performance. Journal of Applied Psychology, 78(4), 679–703.
+interactions and the polymorphic role of e-mail. Leadership & Organization Development Journal, 28(4), 308–324. Oldham, G. R., Hackman, R. J., & Stepina, L. P. (1978). Norms for the Job Diagnostic Survey. Technical Report no. 16, School of Organization and Management, Yale University.
 
-652
+O’Leary, B. S., Rheinstein, J., & McCauley, D. E. (1990). Job analysis for test development: Can it be streamlined? Paper presented at the annual meeting of the American Psychological Association, Boston, MA.
 
-references
+Olofsson, G. (2004). When in Rome or Rio or Riyadh: Cultural Q & As for successful business behavior around the world. Yarmouth, ME: Intercultural Press.
 
-O’Reilly, C. A., & Puﬀ er, S. M. (1989). Th e impact of rewards and punishments in a social context: A laboratory and ﬁ eld experiment. Journal of Occupational Psychology, 62(1), 41–53.
+Olson, R., Verley, J., Santos, L., & Salas, C. (2004). What we teach students about the Hawthorne Studies: A review of content within a sample of introductory I-O and OB textbooks. Th e Industrial-Organizational Psychologist, 41(3), 23–39.
 
-Ornish, D. (1984). Stress, diet, and your health. New York: Signet.
+O’Neill, M. J. (1994). Work space adjustability, storage, and enclosure as predictors of employee reactions and performance. Environment and Behavior, 26(4), 504–526.
 
-Osborne, E. E., & Vernon, H. M. (1952). Th e inﬂ uence of temperature and other conditions on the frequency of industrial accidents. Cited in Harrell, T. W. (1958). Industrial Psychology. New York: Rinehart.
-
-O’Toole, R. E., & Ferry, J. L. (2002). Th e growing importance of
-
-elder care beneﬁ ts for an aging workforce. Compensation & Beneﬁ ts Management, 18(1), 40–44.
-
-Otting, L. G. (2004). Don’t rush to judgment: Relying on ﬁ rst impression when assessing a job applicant can lead to a poor hiring decision. HR Magazine, 49(1), 95–98.
-
-Overman, S. (1994). Teams score on the bottom line. HR
-
-Magazine, 39(5), 82–84.
-
-Overman, S. (1999). Splitting hairs. HR Magazine, 44(8), 43–48.
-
-Overman, S. (2007). Th e quest for hidden talent. Staﬃ ng
-
-Management, 3(4), 16–20.
-
-Owenby, P. H. (1992). Making case studies come alive. Training,
-
-29(1), 43–46.
-
-Oz, S., & Eden, D. (1994). Restraining the Golem: Boosting
-
-performance by changing the interpretation of low scores. Journal of Applied Psychology, 79(5), 744–754.
-
-Ozminkowski, R. J., Mark, T., Cangianelli, L., & Walsh, J. M. (2001). Th e cost of on-site versus oﬀ -site workplace urinalysis testing for illicit drug use. Health Care Manager, 20(1), 59–69.
-
-Padgett, V. R. (1989). Empirical validation of ﬁ reﬁ ghter vision standards. Proceedings of the 13th Annual Meeting of the International Personnel Management Association Assessment Council.
-
-Parker, P. A., & Kulik, J. A. (1995). Burnout, self- and supervisor-
-
-related job performance, and absenteeism among nurses. Journal of Behavioral Medicine, 18(6), 581–599.
-
-Parker, S. K., & Sprigg, C. A. (1999). Minimizing strain and
-
-maximizing learning: Th e role of job demands, job control, and proactive personality. Journal of Applied Psychology, 84(6), 925–939.
+Ones, D. S., & Viswesvaren, C. (1998). Gender, age, and race diﬀ erences on overt integrity tests: Results across four large-scale job applicant data sets. Journal of Applied Psychology, 83(1), 35–42.

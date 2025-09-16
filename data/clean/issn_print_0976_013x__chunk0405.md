@@ -1,31 +1,25 @@
-# lame excuse’.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 27fe6c42a1b23efe26e95a31e9dc8e2ba8cdb68f
+title: issn_print_0976_013x
+---
+# confrontation with them.
 
-Mithun was devastated at the spectacle. But more was yet to come. The moment Priya started
+First in the line of fire was Lalit who was the senior most sales executive in the Kharagpur
 
-presenting her report, Gautam got agitated. He shouted at her, ‘You are such a senior sales
+branch. Gautam was in no mood to spare anyone in today’s meeting. Lalit shared his PPTs on
 
-executive, aren’t you ashamed of yourself’. He further slammed her, ‘If you can’t sale banking
+Zoom. Humiliation meted out to him in the last meeting was still fresh in his mind. He started
 
-products, go and work in your kitchen which is the right place for you’. Mithun started thinking
+presenting his numbers. He had performed about 30% better than the previous month. Still,
 
-whether it was okay for such a senior officer like Regional Sales Head to make awful
+he fell short of the set targets. Gautam again started chastising Lalit Ghosh in most demeaning
 
-comments in public, especially about female colleagues. He felt like switching off his laptop.
+way. He told Lalit Ghosh that it was sheer luck that there was 30% increase in numbers from
 
-Fearing a backlash from the ‘big boss’, he decided to stay put. Soon it was Rohan’s turn. He
+the previous meeting but the rise in numbers did not demonstrate any labour put by him or
 
-told Gautam that next month he would surely meet the target. He begged forgiveness for
+any initiative taken to accomplish the set the target. When Lalit tried to explain his position,
 
-having missed the numbers in the previous month. Gautam was not in a mood to stop. He
-
-retorted, ‘You bastard, if you cannot perform, why are you coming to the office –do you think
-
-it is a charity’.
-
-By the time it was the turn of the last sale person to present his report, the atmosphere in the
-
-zoom meeting had become horrific. All the choicest abusive terms in Bangla and English were
-
-used liberally for all the sales executives present in the meeting. Although Mithun escaped
-
-45
+pat came the command from Gautam, ‘Just shut-up, you rascal, I need numbers, not your

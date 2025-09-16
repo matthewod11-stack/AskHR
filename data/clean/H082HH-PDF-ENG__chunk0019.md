@@ -1,17 +1,21 @@
-## HBR / Digital Article / The Missing Link Between Strategy and Innovation
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 953c02080fbe557f0a1e06584da0bb0ee45c7db3
+title: H082HH-PDF-ENG
+---
+## eﬀects, intellectual property, brand reputation, or other strengths that
 
-Leveraging preexisting strengths will help you build competitive moats
+distinguish your business, add value to your products, and give you a
 
-around new ventures and give you a “right to win” against others who
+competitive edge. Disney, for example, has a unique advantage from
 
-bring similar innovations to the market. To truly matter, each advantage
+its iconic stories and characters, which it exploits in various business
 
-must be both distinctive (objectively superior to most peer companies)
+models — from ﬁlm to streaming, theme parks, and merchandise.
 
-and strategic (providing a clear beneﬁt when competing with others).
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-One of Walmart’s unique advantages is the proximity of its retail stores
+3
 
-to end consumers: 90% of the U.S. population lives within 10 miles
-
-of a Walmart. The company is exploring digital business models that
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

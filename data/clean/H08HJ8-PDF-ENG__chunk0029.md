@@ -1,19 +1,17 @@
-## situation with a solutions-oriented focus.
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5315efda7fdf0788e02205c971220785022347d3
+title: H08HJ8-PDF-ENG
+---
+## wellbeing, team interactions, and my relationship with my manager.”
 
-- Evaluate your options: If the situation does not improve, it might
+If you still believe your manager is the core issue after having an honest
 
-be time to have a critical conversation with yourself and consider
+conversation with yourself and critical discussions with your manager,
 
-whether remaining in your current job is beneﬁcial for your career and
+consider taking the following actions.
 
-wellbeing. Perhaps moving on might be the best course of action.
+- Seek support: Ask trusted colleagues and mentors for advice, seek
 
-. . .
-
-Navigating a relationship with a manager you perceive as ineﬀective
-
-or unqualiﬁed can be daunting, but it can also be a catalyst for
-
-growth. Rather than allowing frustration to erode your engagement and
-
-productivity, shift your focus to what you can control: your mindset,
+help from a coach, or connect with HR so you can approach the

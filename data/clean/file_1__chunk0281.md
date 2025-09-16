@@ -1,11 +1,9 @@
-# http://wfnetwork.bc.edu/encyclopedia_entry.php?id=16369&area=All [Accessed 7 March 2010]
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 2819bc89236136f8fd448bf0a208adccb9fb5780
+title: file_1
+---
+# CA: Sage.
 
-Wollstonecraft, M., 1792. A Vindication of the Rights of Woman. C. Poston, eds. New York:
-
-W. W. Norton & Co. (1975).
-
-Yin, R., 2003. Case study research: Design and methods. 3rd ed. Thousand Oaks, CA: Sage.
-
-Zhou, J. and J. Martocchio, 2001. Chinese and American managers’ compensation award
-
-decisions: A comparative policy-capturing study. Personnel Psychology, 54, 115-145.
+Winslow-Bowe, S., 2009. Spousal wage gaps: income disparities in couples.

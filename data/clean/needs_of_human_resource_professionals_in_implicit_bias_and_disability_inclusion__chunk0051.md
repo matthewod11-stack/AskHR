@@ -1,3 +1,9 @@
-# Bezyak et al.
+---
+source_path: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion.md
+pages: n/a-n/a
+chunk_id: 6fc82b98cd4a57ecf53197d216e2bc2c4f617fee
+title: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion
+---
+# A u t h o r
 
-of disability inclusion in the workplace.” Participants also indicated: “It’s important to have equity training, diversity, and inclusion training … We can celebrate and promote success stories as a strategy to help combat stereotypes.” Participants further reported the need to communicate: “Research on disability employment outcomes, benefits of hiring people with disabilities, and the effectiveness of disability inclusion policies.”
+M a n u s c r i p t

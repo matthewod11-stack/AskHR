@@ -1,21 +1,9 @@
-## Unlike the conventional “unfreeze, change, refreeze” approach, which
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0228e5206c7a175cffb399e68ed513749c827c8
+title: H088S2-PDF-ENG
+---
+## three key drivers of continuous transformation:
 
-implies change represents only a temporary disruption, an agile
-
-orientation embraces the philosophy of “rethink, reshape, repeat” —
-
-an ongoing quest for excellence. Under this paradigm, transformation
-
-becomes a perpetual journey involving assessing the company’s
-
-strategy, prioritizing critical issues, carefully considering potential
-
-alternatives for addressing each issue, choosing the best course of
-
-action, adapting the organization accordingly, and then moving to the
-
-next critical issue. Much like agile software development, where tasks
-
-progress from “to do” to “doing” to “done,” business transformation
-
-should involve a similar continuous process of issue identiﬁcation and
+- 1. Adopt an Agile Mindset

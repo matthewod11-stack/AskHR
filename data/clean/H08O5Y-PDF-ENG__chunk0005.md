@@ -1,7 +1,9 @@
-# new employment in the private sector.
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11d083f2fd5cac6157599b3245bc400343a22076
+title: H08O5Y-PDF-ENG
+---
+## of federal workforce layoﬀs and cuts, hundreds of thousands of
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+government employees’ jobs are at risk. Many of these people will seek

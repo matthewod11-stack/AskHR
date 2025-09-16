@@ -1,11 +1,7 @@
-# What the Experts Say
-
-To be clear: There’s no magic, one-size-ﬁts-all number of direct reports.
-
-It depends on the work you’re doing, the people on your team, and
-
-your career stage. The trouble is, it can be hard to tell when you’ve
-
-reached your capacity. Every leader has a “breaking point,” where the
-
-number of direct reports becomes unmanageable, says Vishal Gupta,
+---
+source_path: H07U8T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05b835b283ef8b9f7fed15e3bcb0323ce1474363
+title: H07U8T-PDF-ENG
+---
+## HBR / Digital Article / Do You Manage Too Many People?

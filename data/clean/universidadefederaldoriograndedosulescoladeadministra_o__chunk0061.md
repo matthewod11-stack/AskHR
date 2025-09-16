@@ -1,15 +1,15 @@
-## com resultados positivos para uma corporação (SEDLAK, 2020; RAJASEKARAN;
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: ed0c108a21035376cfc8d2aabab58b3b74c5c256
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## O instrumento de medida de satisfação e lealdade empregada pela área de
 
-DINESH, 2018).
+marketing, o NPS, mostrou-se eficiente na sua aplicação (LEGERSTEE, 2013;
 
-Com isso, a adaptação do NPS tem sido utilizada pelas áreas de RH das
+SEDLAK, 2020; RAJASEKARAN; DINESH, 2018). Já, na área de recursos
 
-corporações como ferramenta de pesquisa com seus empregados, sob a
+humanos, o que se quer medir, mais que satisfação e/ou lealdade à marca
 
-denominação de eNPS. Academicamente, o tema é ainda pouco discutido. Em
-
-2019, de acordo com Sedlak (2020), em pesquisa no Google Acadêmico, para cada
-
-resultado encontrado em buscas com o termo "employee net promoter score",
-
-encontrava-se mais de 63 resultados para o termo "net promoter score" (1:63).
+empregadora, é o engajamento dos funcionários, uma vez que há ligação direta dele

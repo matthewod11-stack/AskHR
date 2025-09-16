@@ -1,5 +1,7 @@
-# Build fairness into design.
-
-Fairness by design eliminates the need for “special” programs. It builds
-
-with curb-cuts from the start, removing the need for afterthought
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d422d7abfe9eb08b6c4294fa46d8fc0fd66b4a0
+title: H08MZQ-PDF-ENG
+---
+## talent like Sophia from leadership considerations.

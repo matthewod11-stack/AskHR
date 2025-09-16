@@ -1,23 +1,39 @@
-# organizations.
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3591f6c56d5d5d231526a81824b117de69620365
+title: H07CM6-PDF-ENG
+---
+## HBR / Digital Article / To Coach Leaders, Ask the Right Questions
 
-The paradox of working with CEOs and senior leaders, I’ve found, is that
+Paulina B. is the CEO of a large nonproﬁt. The clients that her
 
-the more they’re able to accept and embrace the parts of themselves
+organization serves have long been a powerful source of spiritual energy
 
-they’ve previously disowned, the less they have to defend. The core
+for her. When we began working together during Covid, she was feeling
 
-work of a modern executive coach is helping clients to understand
+deeply burned out, to the point that she was considering leaving her job.
 
-themselves more deeply – to tolerate more of the truth until it can set
+As we explored her experience, Paulina began to see that her defender
 
-them free. That begins with the simplest of questions: “What am I not
+arose whenever she felt she was falling short of perfection — in the form
 
-seeing?”
+of a relentless self-critic who found her wanting. The louder that voice
 
-This article was originally published online on November 21, 2022.
+became, the harder she pushed herself, the more involved she got in
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+details, and the more dispirited she became.
 
-6
+We focused together on a very basic question: What fuels your energy,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and what depletes it? By giving herself permission to explore the
+
+answers, Paulina discovered that jumping into every problem in the
+
+organization served her perfectionism, but often prevented her from
+
+investing in the parts of her job that she found most nourishing.
+
+Chief among them were the energy she derived spending time in the
+
+ﬁeld with employees and clients, and interacting with leaders of other

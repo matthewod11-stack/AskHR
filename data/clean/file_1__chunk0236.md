@@ -1,7 +1,15 @@
-## sensitivity construct. Academy of Management Review, 12, 222-234.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 26890439d43298c5b3ad1354692eb6799dea6a14
+title: file_1
+---
+# 58
 
-Husu, L., 2001. Sexism, support, and survival in academia: Academic women and hidden
+Holli, A., Magnusson, E. and M. Rönnblom, 2005. Critical Studies of Nordic Discourses on Gender and gender Equality. Nordic Journal of Women’s Studies, 13 (3), 148-152.
 
-discrimination in Finland. Report Series. University of Helsinki: Department of Social Psychology.
+Horrell, S., Rubery, J., and B. Burchell, 1990. Gender and Skills. Work Employment and
 
-Jackson, L. and S. Grabski, 1988. Perceptions of fair pay and the gender pay gap. Journal of
+Society June, 4 (2), 189-216.
+
+Huseman, R., Hatfield, J. and E. Miles, 1987. A new perspective on equity theory: the equity

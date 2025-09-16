@@ -1,7 +1,15 @@
-# Stakeholders possibly belong to the various categories of stakeholders with whom people
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: b729dcb96dcae48f633cce66bbef81a309c526ac
+title: i
+---
+## projects, risk management, and human resource management in the PA team.
 
-analytics teams collaborate to make a <meaningful impact and provide value=. Stakeholder
+The methodology focuses on the processes and frameworks required to ensure the
 
-management emphasizes the importance of strategies for engaging with stakeholders in terms
+consistency and adaptability of people analytics. The methodology gives guidance to choose
 
-of stakeholder meetings and approaches for building relationships.
+priorities with clear and transparent criteria. Methodology also agrees on how to develop
+
+strategies for directing the team.

@@ -1,7 +1,9 @@
-# Guttman’s Radex Model
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5c8ed6662158115ba7ab022e985821c13f7a7626
+title: untitled
+---
+# Models of the Nature of Intelligence
 
-The last psychometric model to be mentioned is one pro- posed by Louis Guttman (1954). The model is what Guttman referred to as a radex, or radial representation of complexity. The radex consists of two parts.
-
-The ﬁrst part is what Guttman refers to as a simplex. If one imagines a circle, then the simplex refers to the distance of a given point (ability) from the center of the circle. The closer a given ability is to the center of the circle, the more central that ability is to human intelligence. Thus, g could be viewed as being at the center of the circle, whereas the more periph- eral abilities such as perceptual speed would be nearer to the periphery of the circle. Abilities nearer to the periphery of the circle are viewed as being constituents of abilities nearer the center of the circle, so the theory has a hierarchical element.
-
-The second part of the radex is called the circumplex. It refers to the angular orientation of a given ability with respect to the circle. Thus, abilities are viewed as being arranged around the circle, with abilities that are more highly re- lated (correlated) nearer to each other in the circle. Thus, the radex functions through a system of polar coordinates. Snow, Kyllonen, and Marshalek (1984) used nonmetric multidimen- sionalscalingonaThurstoniantypeoftesttodemonstratethat the Thurstonian primary mental abilities actually could be mapped into a radex.
+show only that the psychometric support that Guilford claimed for his model was not justiﬁed by the methods he used.

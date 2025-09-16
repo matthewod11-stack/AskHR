@@ -1,15 +1,15 @@
-# matching.
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3606f93e800380c7c2620c1b8dc7992d3c91d4a2
+title: H040YE-PDF-ENG
+---
+## a U.S. company qualiﬁes in our data as an immigrant, whereas an
 
-While this technique is not without its ﬂaws, our name-matching
+individual of Indian descent whose ﬁrst degree was from a U.S. university
 
-techniques are robust enough to capture most individuals within a speciﬁc
+does not. We focused on foreign-trained talent of Chinese, Indian, and
 
-ethnicity. It’s true that some immigrants could have arrived young to the
+Middle Eastern descent. We chose these groups because our methods
 
-U.S. and enrolled in U.S. universities before they launched their careers.
-
-Copyright © 2017 Harvard Business School Publishing Corporation. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+make it easier to identify members of these communities through name-

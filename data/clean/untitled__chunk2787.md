@@ -1,5 +1,13 @@
-# THE 1913 CONGRESS THAT WASN’T
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8ce5b85936e2e99a7ce8837daef07037d9c038c6
+title: untitled
+---
+# International Psychology
 
-The history of science is generally viewed in terms of theo- ries proposed and experiments performed. It is not always recognized that science is also a conglomeration of people who have their own agendas, piques, jealousies, or political idiosyncrasies. Based on access to the correspondence and ﬁles of major ﬁgures in American psychology, Evans and Scott (1978) relate how the idea for holding the 1913 Inter- national Congress of Psychology in the United States was ﬂoated during the 1905 congress in Rome and accepted at the 1909 congress in Geneva. A petition had been prepared by Morton Prince (Harvard), which named James Mark Baldwin (Johns Hopkins) as congress president and William James (Harvard) as honorary president. However, the petition was not a formal invitation, and no U.S. institution offered to host the congress. Personal rivalries prevented effective organiza- tion. The project was ﬁnally abandoned in 1912 with no other country expressing willingness to assume responsibility at such a late date. Because of World War I, no congresses were convened between 1914 and 1923, when the International Congress met in Oxford. It was not until 1929 that the United States played host at Yale University in New Haven. As noted by Rosenzweig et al. (2000), it was ironic that Cattell, who
+Germany awaited a change in generations curious to learn what had developed elsewhere. Gifts of textbooks, back issues of scientiﬁc journals, and travel grants helped to over- come the isolation imposed during the Nazi period.
 
-had been embroiled in the rivalries swirling around the ill-fated 1913 congress, having outlived his rivals, was elected president of the 1929 congress and gave one of the major lectures.
+As Jing (2000) observed, “Because of the questionable applicability of Euro-American psychological theories to the third world countries, a revolt is underway to build an indige- nous psychology in the study of a society’s own problems by native psychologists who are familiar with the cultural envi- ronment and using methods suitable to the solution of these problems” (p. 579).
+
+As noted by Poortinga (1997), there is also a need to demonstrate “the universal roots of human psychological functioning underneath the rich and varied cultural variations in behavior.” In his view, culture-comparative research is based on the assumption of the universality of psychologi- cal process and mechanisms shared by all human beings. Dif- ferences in behavior are explained in terms of antecedent conditions, of an ecological, economic, sociocultural, or his- torical nature. Poortinga holds that criticisms raised by schools of cultural psychology “strike at Achilles’ heels” of cross-cultural research, “but that weaknesses are circumstan- tial rather than essential.”

@@ -1,9 +1,19 @@
-# this information:
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55518b201c7e1b5ebf8200834472b41bf4d15844
+title: H08R51-PDF-ENG
+---
+# HBR / Digital Article / Research: Why Employees Work While Sick—and How Leaders C…
 
-- Conduct conﬁdential pulse surveys, stratiﬁed by job type/role
+- 1. Map job demands and resources across roles to identify imbalances.
 
-- Host manager-led focus groups to capture qualitative insights
+Start with a broad diagnostic to assess core pressures and supports
 
-- Integrate questions into existing surveys to streamline data collection
+across major role categories. Map the degree of job demands (e.g.,
 
-- Use data visualization tools like heat maps to identify roles with
+workload, scheduling, expectations of responsiveness) alongside job resources (e.g., autonomy, ﬂexibility, backup staﬃng, managerial
+
+support) across roles. Use this diagnostic framework to identify where
+
+imbalances are most pronounced. Here are some strategies to gather

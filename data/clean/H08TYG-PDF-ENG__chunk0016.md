@@ -1,19 +1,9 @@
-# change?
+---
+source_path: H08TYG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a9ccdfa2662fcc376f9383237ae94e0178e3e5b
+title: H08TYG-PDF-ENG
+---
+## understanding and predictability she can, even at this diﬃcult moment.
 
-The headline. I never liked characterizing this as something that
-
-happens only in bad economies, because it happens in economies of all kinds. Staﬀ reductions were once primarily cyclical, but today
-
-they also happen in very proﬁtable companies—Walmart, Google,
-
-Facebook, Amazon, Microsoft. And companies have to make other
-
-diﬃcult decisions, like killing projects, all the time. Right now the
-
-return-to-oﬃce mandates are an example of that: They aren’t related
-
-to the economy. It was a mistake to say the article was about managing
-
-“in a bad economy.” I made that argument to HBR at the time, but I
-
-lost. I learned from that, and now I ﬁght harder to have approval over
+When you look back on the 2009 article, is there anything you’d

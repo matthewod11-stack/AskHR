@@ -1,13 +1,13 @@
-## hundreds of pages of descriptions of when and how employees should
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9909bd0b9005cf992df49b47f00df4315d6ce2e9
+title: R2504L-PDF-ENG
+---
+# Ricky Adam
 
-interact. Companies with hybrid or remote workers should create their
+Rules must also be put in place to prevent the focus on individual
 
-own rules, such as: You must respond immediately when a colleague
+KPIs from crowding out cooperation and collaboration. For example,
 
-marks a request as “urgent.” Provide guidance as to what qualiﬁes
-
-as urgent and intervene if an employee routinely sends out “urgent”
-
-requests for matters that are not time-sensitive. Companies can also
-
-require employees to designate certain hours each day when they are
+GitLab, a fully remote open-source software-development platform, has

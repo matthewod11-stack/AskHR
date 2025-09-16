@@ -1,3 +1,9 @@
-# 5 Exceptional
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 3511c6af13332fcd1c21f299867d06093659b05b
+title: document_resume
+---
+# Attendance records class attendance.
 
-Rarely fails to meet class. Begins and ends class promptly to ensure for maximum instruction time. Conducts class for entire
+Teaches classes as scheduled or requested, and

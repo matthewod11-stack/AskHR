@@ -1,19 +1,17 @@
-# taxa de resposta, considerando
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: fe7ce49c4e0e2cd9495fa6531f12e3b60b82b1dc
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Fonte: Documentos disponibilizados (2022)
 
-número total de respostas e número de convidados a responder e um gráfico
+Uma vez findada a coleta, os resultados são, além de entregues para o time
 
-evolutivo com o resultado do indicador de eNPS da companhia trimestralmente
+de RH, distribuídos entre os líderes da companhia. A distribuição dos resultados
 
-desde o primeiro trimestre de 2021 até o quarto trimestre de 2022. O que muda,
+para os gestores se dá por meio desta mesma plataforma, com visualizações de
 
-segundo a entrevistada, é o recorte de respostas a que cada líder tem acesso. Por
+dados em gráficos como demonstra o exemplo da figura 7, em que são
 
-exemplo, no caso do CEO, que é o líder máximo da empresa X, os resultados a que
-
-44
-
-ele terá acesso serão os consolidados de toda a companhia. Já no caso de um
-
-gerente de área específica, ele terá acesso apenas aos resultados consolidados das
-
-respostas das pessoas situadas hierarquicamente abaixo dele, ou seja, que
+apresentados resultado atingido para o eNPS,

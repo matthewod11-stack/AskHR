@@ -1,5 +1,15 @@
-## caso têm relevância quando empregados em pesquisas exploratórias, e auxiliam na
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 06f16aab2f560eaade42ae6e03a516a27586b914
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## metodologias de pesquisa: exploratória, descritiva e explicativa. Para Malhotra
 
-investigação de temas complexos. O intuito, conforme Gil (1999), é utilizar-se de um
+(2001), a pesquisa exploratória tem o objetivo de detalhar o contexto da questão do
 
-método em que o fenômeno é estudado em seu contexto real, aproximando o
+pesquisador, ou seja, apoiar na compreensão do objeto de estudo. Yin (2015) diz
+
+que o estudo de caso consiste em uma estratégia de investigação que apoia o
+
+pesquisador na busca por melhor interpretação de “como” e “porque”. Estudos de

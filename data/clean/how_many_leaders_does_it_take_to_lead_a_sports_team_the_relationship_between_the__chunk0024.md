@@ -1,1 +1,7 @@
-# Task leaders
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 0eda904a797793ab1763de46e481f4480d913027
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Behavioral characteristics of leaders

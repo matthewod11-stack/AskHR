@@ -1,31 +1,19 @@
-# stability.
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a7d31cf10542793bd00f7f9f1c69c750bcb398c
+title: H08PFQ-PDF-ENG
+---
+## in areas like DEI, pricing, and supply-chain sourcing, forces leadership
 
-What makes this new breed of intruder particularly diﬃcult is that
+teams to make swift decisions with limited clarity. And global tensions
 
-unlike previous routine market or organizational challenges, they’re
+and conﬂicts may well disrupt supply chains and market stability,
 
-precedent setting. That means leadership teams will naturally fumble a
+requiring leaders to proactively assess and manage these risks to protect
 
-bit as they ﬁnd their footing in unchartered terrain, and that fumbling
+their organizations. Finally, heightened political activism and societal
 
-can cause conﬁdence in the team to dip further. Meanwhile, your
+tensions increase personal risks for executives, necessitating robust
 
-stakeholders are desperately trying to make sense of the unknown. Valid
-
-or not, they expect you to know things you don’t know.
-
-While you may not have answers—and new information is likely to
-
-change your mind—leadership teams must be prepared to adapt and
-
-share your thinking about decisions as things unfold. Here are six things
-
-your leadership team can do to maintain and strengthen conﬁdence in
-
-the team’s ability to lead amid turbulence.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+security measures to protect leadership and maintain organizational

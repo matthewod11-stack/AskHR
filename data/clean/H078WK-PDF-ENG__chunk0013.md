@@ -1,5 +1,9 @@
-# on those other, necessary DEI tasks.
+---
+source_path: H078WK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a979ba8d5007cb58e07cb5aa756ba245eb9b64bd
+title: H078WK-PDF-ENG
+---
+## mostly white, from mostly from the same colleges and socioeconomic
 
-True DEI progress requires both types of diversity. Diversity of thought
-
-isn’t always found where you expect it to be found.
+backgrounds, they use diversity of thought as their excuse not to work

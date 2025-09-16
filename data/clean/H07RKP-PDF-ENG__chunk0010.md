@@ -1,27 +1,25 @@
-# involve language.
+---
+source_path: H07RKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70116731e995b5625862a4ac3f7cc154f4fe0567
+title: H07RKP-PDF-ENG
+---
+# The Potential
 
-An estimated 386 million working age people have some kind of
+Generative AI augments human capability. It can draw from anything
 
-disability; in some countries, despite persistent labor shortages,
+that is conveyed through language. Our research suggests that in the
 
-unemployment has reached 80% among people with disabilities who
+coming years up to 40% of the time people spend working could be
 
-could otherwise work. Generative AI can help individuals ﬁnd —
+assisted by AI that understands language and can converse with its
 
-and do well in — jobs that they couldn’t previously have held. For
+users. In my own life, living with multiple sclerosis, I can already see the
 
-example, OurAbility provides an AI-powered platform that utilizes
+potential of what such a “copilot” could oﬀer those of us working and
 
-chatbot technology to assist unemployed individuals in ﬁnding and
+living with disabilities — whether ﬁnding and securing employment,
 
-securing employment opportunities.
+providing information to help us interpret situations more accurately,
 
-There are many more people with disabilities who are employed than
-
-employers know about. Our analysis (published earlier in HBR) showed
-
-that 76% of employees with disabilities had not fully disclosed their
-
-unique experiences at work (to colleagues, human resources contacts,
-
-or supervisors/managers). At the executive level, the number was
+or, similarly, oﬀering guidance as we take part in varied tasks that

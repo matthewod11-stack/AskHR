@@ -1,9 +1,11 @@
-## unconscious bias might rate a worker of color with four stars instead
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 697fd6240d7e61b096c4aa2476433542a3cf90fa
+title: H08NYS-PDF-ENG
+---
+# HBR / Digital Article / Research: How Gig Platforms Can Mitigate Racial Bias in Rating…
 
-of ﬁve, believing they are still giving a good evaluation; it is, after all,
+latitude to make the assessment (e.g., including more scale points
 
-the majority of the available stars. However, when these slight rating
-
-downshifts are unrelated to quality and are repeated across thousands
-
-of transactions, these small biases accumulate, resulting in measurable
+that encourage greater diﬀerentiation). For example, a customer with

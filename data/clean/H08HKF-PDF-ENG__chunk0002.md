@@ -1,11 +1,7 @@
-# HBR Staff using AI
-
-As companies devote resources to implementing AI, many realize
-
-that they need a strategy to manage the technology’s well-documented
-
-ethical, regulatory, and legal risks. A responsible AI program (or “RAI”
-
-program for short) not only builds guardrails for particular AI solutions
-
-and the teams that manage them, but it also deﬁnes the enterprise-wide
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1078328e68187c05ca796881d5a70e7a88019c60
+title: H08HKF-PDF-ENG
+---
+## Published on HBR.org / December 5, 2024 / Reprint H08HKF

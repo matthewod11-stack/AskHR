@@ -1,5 +1,13 @@
-# RATING
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 32bda2a0290075bc075920a029b6457f50f61c8d
+title: document_resume
+---
+# COMMENTS
 
-C Supervisory Management (20%) Selecting, training, and appraising staff directing the activities of subordinates toward
+2
 
-the accomplishment of objectives, and promoting efficiency
+3
+
+4

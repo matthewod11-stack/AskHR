@@ -1,7 +1,11 @@
-## create immersive learning and collaboration programs for its own
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 738f486ed5a987eea970a96ec439ecb3664a78d6
+title: R2302D-PDF-ENG
+---
+# the company.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Years before the pandemic, Accenture began piloting metaverse-related
 
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+technologies—including extended, virtual, and augmented reality—to

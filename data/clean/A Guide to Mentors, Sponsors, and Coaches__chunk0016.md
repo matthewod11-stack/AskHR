@@ -1,3 +1,11 @@
-# 9/10/25, 9:47 AM
+---
+source_path: A Guide to Mentors, Sponsors, and Coaches.md
+pages: n/a-n/a
+chunk_id: 872d749c2070eed423c1204ea61f8a1e2cbb56e4
+title: A Guide to Mentors, Sponsors, and Coaches
+---
+## A Guide to Mentors, Sponsors, and Coaches
 
-mentorship can also lead to opportunities for a more traditionalmentoring relationship. By being open to mentoring seniorleaders, you’ll have the opportunity to build connections andlearn about company politics, career options, leadership, strategicthinking, and more.So how can you get started as a reverse mentor? Often, seniorcolleagues will ask for your mentorship directly. But don’t beafraid to raise your hand to share insights on a topic you’repassionate or knowledgeable about. And always remember tostart any mentorship relationship with questions. Before sharingyour knowledge, you should always spend time exploring whatyour mentee already knows and what they want to learn.
+https://hbr.org/2024/01/a-guide-to-mentors-sponsors-and-coaches
+
+6/11

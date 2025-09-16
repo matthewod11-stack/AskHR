@@ -1,7 +1,21 @@
-# against unnecessary anxiety.
+---
+source_path: H07JWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2daca0ce12d62d1eccb05e23728793c2c05482ed
+title: H07JWT-PDF-ENG
+---
+## person talks through one highlight from their week, one low point, and
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+one thing that made them laugh.
 
-3
+Our remote team at Humu kicks oﬀ meetings by asking something light-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hearted and easy to answer — and we rotate whose responsibility it is to
+
+come up with the question. We’ve bonded over prompts like “What food
+
+is underrated?” and “You have ﬁve seconds to grab an object. Then share
+
+with the group what it is and why it’s in your home.” These activities
+
+make work relationships feel less transactional and create a social buﬀer

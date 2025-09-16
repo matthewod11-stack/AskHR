@@ -1,7 +1,15 @@
-# Intangible Capital
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 5a9d5d0acc9d13d4bff918fae07d2e57c235c46d
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# Scientific Information System
 
-IC, 2015 – 11(2): 166-189 – Online ISSN: 1697-9818 – Print ISSN: 2014-3214
+More information about this article
 
-http://dx.doi.org/10.3926/ic.586
+Network of Scientific Journals from Latin America, the Caribbean, Spain and Portugal
 
-The effects of coaching in employees and organizational performance:
+Journal's homepage in redalyc.org
+
+Non-profit academic project, developed under the open access initiative

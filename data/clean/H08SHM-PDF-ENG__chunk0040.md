@@ -1,23 +1,25 @@
-## with no reliable precedent, the intangibles—trust, taste, and the subtle
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb76cb5f33300c7b52bcbd4345b44b2d4a6575c8
+title: H08SHM-PDF-ENG
+---
+## HBR / Digital Article / What Gets Measured, AI Will Automate
 
-dimensions of quality and experience—and the conviction to press
+that concentrates outsized rewards at the peaks of creativity, talent, and
 
-ahead even when every metric says “wait.” Manage only what you can
+capital. Yet AI oﬀers a paradoxical gift: by democratizing education and
 
-measure, and you surrender the most valuable ground to rivals who
+serving as everyone’s personal copilot, it hands more people than ever
 
-cultivate what can’t be counted. Amar Bose, the sound and electrical
+the tools to reach those peaks. Jobs themselves will keep evolving, and
 
-engineer who founded the Bose Corporation, proved the point: while
+any breakthrough that turns the unknown into the countable will scale
 
-others worshipped spec-sheet numbers, he zeroed in on how music
+and be imitated at meme speed.
 
-sounded to people in real rooms—a quality no existing metric could
+For leaders steering their organizations through this turbulent
 
-catch—and in doing so, he rewrote the rules of the audio industry.
+transition, what lies beyond the spreadsheet? It’s everything that won’t
 
-Directionally, the prescription is simple. Back wildcard bets with
-
-fuzzy ROI, reward teams that reframe problems and lean into the
-
-unknown, and rotate talent through roles that confront uncertainty
+ﬁt in a cell: the skills that refuse to be tallied, the open-ended problems

@@ -1,9 +1,27 @@
-## HBR / Magazine Article / Why Entrepreneurs Should Think Like Scientists
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e24d8cb8a11d4df7cd644266f89658edb252be4
+title: F2404A-PDF-ENG
+---
+# viability.
 
-placed around campus were used, and by whom, could the entrepreneur
+“Some of the ﬁrms pivoted during our study, and that’s not necessarily a
 
-have realized that he was wrong.
+bad thing because most pivoted very early,” Gambardella says.
 
-Begin with the idea that your intuition tells you is most plausible. “You
+Embracing the scientiﬁc method isn’t diﬃcult. Entrepreneurs can easily
 
-have to start somewhere,” Gambardella says. “But you should have other potential theories you can use if you determine that your ﬁrst theory is
+apply it by following these steps:
+
+First, state your main hypothesis. Mimoto’s founder believed that
+
+college kids would want to rent mopeds to get to classes faster. Only
+
+by articulating that hypothesis clearly and then observing how mopeds
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

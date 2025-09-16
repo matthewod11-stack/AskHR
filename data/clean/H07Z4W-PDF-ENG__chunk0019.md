@@ -1,13 +1,13 @@
-# HBR / Digital Article / When You Want to Be Hybrid, But Your Boss Wants You in the O…
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: deb8c064ae2638cc62e44991b7f758b08cdb3665
+title: H07Z4W-PDF-ENG
+---
+## 24% for fully remote workers, and about 22% for in-person workers.
 
-What are you doing to reduce or streamline meetings, and make them more eﬃcient? How can you show the impact of your eﬀorts?
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-- Demonstrate your ability to maintain your workload.
+5
 
-Communicate your strategy for documenting your workload. Think
-
-about what stops you from accomplishing your key objectives — it’s good to know who or what takes you oﬀ track, and if a hybrid schedule
-
-could help. Proactively documenting your workload makes you and
-
-your projects more visible to your manager, which lessens their mental
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

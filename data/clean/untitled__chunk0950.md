@@ -1,7 +1,15 @@
-## Psychological Review, Monograph Supplement 3(6).
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4a382adf0ee1651d71ad1ae9ed0c49267d5496f0
+title: untitled
+---
+# Methuen.
 
-Yang, S., & Sternberg, R. J. (1997a). Conceptions of intelligence in ancient Chinese philosophy. Journal of Theoretical and Philo- sophical Psychology, 17(2), 101–119.
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Cambridge, MA: Harvard University Press.
 
-Yang, S., & Sternberg, R. J. (1997b). Taiwanese Chinese people’s
+Wagner, R. K. (2000). Practical intelligence. In R. J. Sternberg (Ed.), Handbook of human intelligence (pp. 380–395). New York: Cambridge University Press.
 
-conceptions of intelligence. Intelligence, 25(1), 21–36.
+Wechsler, D. (1991). Manual for the Wechsler Intelligence Scales for Children (3rd ed.). San Antonio, TX: Psychological Corporation.
+
+Wissler, C. (1901). The correlation of mental and physical tests.

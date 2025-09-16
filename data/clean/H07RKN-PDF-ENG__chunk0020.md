@@ -1,23 +1,13 @@
-## HBR / Digital Article / How to Make a Compelling Pitch
+---
+source_path: H07RKN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 211209207d3cc754350ee7cc9a51911e939610e6
+title: H07RKN-PDF-ENG
+---
+## employees and role model innovative sustainability ideas.
 
-For example, we could have fresh strawberries, tomatoes, and
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-cucumbers right from our own garden on our roof for snacking or for
+3
 
-employees to take home.
-
-And that’s not all. The group that manages the garden hires at-risk
-
-youth and also encourages employees to take an active part in caring for
-
-the garden and serving as mentors for their workers. As a result, we’d be
-
-helping the larger community and establishing important relationships
-
-that beneﬁt us all.
-
-These two examples show that pitching your ideas, products, or services
-
-doesn’t have to be uncomfortable or long-winded. The key is using
-
-a strong framework that can serve as a scaﬀolding to support your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

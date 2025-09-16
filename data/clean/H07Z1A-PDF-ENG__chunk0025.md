@@ -1,33 +1,45 @@
-## HBR / Digital Article / How to Lead Across a Siloed Organization
+---
+source_path: H07Z1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d9853521b16a24bcdceb3a4317915c12f4f99b0
+title: H07Z1A-PDF-ENG
+---
+## How to Become a Better Cross-Functional Leader
 
-as much time leading across as leading vertically, what implications
+Some organizations are now recognizing that intentional eﬀort is
 
-does that have for how you spend your time day to day?
+required to promote cross-enterprise collaboration. They’re beginning
 
-- Be a student of your own organization. Take time with peers outside of
+to develop lateral agility in their leaders and are re-examining
 
-your department to understand what their goals are, what challenges
+incentives to ensure they promote inter-departmental collaboration
 
-they’re facing, and what motivates them. The more you put yourselves
+rather than cross-departmental conﬂict. And they’re looking at
 
-in their shoes, the more lateral trust you will build, and the more you’ll
+organizational structures to ﬁnd ways to minimize silos.
 
-understand about your broader company and how it operates.
+Here are a few strategies to increase your own lateral agility:
 
-. . .
+- Take inventory of how well you’re managing cross-functional
 
-We now know that lateral agility is a vital capability for today’s
+relationships. Considering the practices described above, which can
 
-senior leader. It’s no longer enough to lead a team well — too much
+yield the most beneﬁt for you? Identify your top ﬁve to eight
 
-work happens across functions and organizations. The very deﬁnition
+stakeholders, then map them against their strategic importance to
 
-of eﬀective leadership has changed in response to that reality. By
+you versus the frequency of interaction you have with them. Are you
 
-becoming more laterally agile, leaders can ﬁnally make the promise of
+putting enough time and intention into building the cross-enterprise
 
-cross-functional collaboration real, enabling their organizations to bust
+relationships that matter most?
 
-silos, speed decision-making, and bring their strategies to life.
+- Assess how much time you’re taking to lead across versus leading your
 
-This article was originally published online on January 11, 2024.
+own team. Knowing that the most successful leaders are now spending
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,17 @@
-# think things through.”
+---
+source_path: H08HUR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae77e1481b2d6d2482a6abf26e6944cdf48efb5e
+title: H08HUR-PDF-ENG
+---
+# Adie Bush/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The morning meeting started like any other, until Sarah presented her
 
-1
+new marketing strategy. As she spoke, her boss, Tom, seemed visibly
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+disappointed. “Ha! That’s the stupidest idea I’ve heard,” he interrupted,
+
+his voice sharp enough to make everyone ﬂinch. “This is why we’re
+
+falling behind — because of team members like you who don’t want to

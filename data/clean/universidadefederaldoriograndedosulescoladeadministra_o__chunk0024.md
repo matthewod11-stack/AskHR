@@ -1,3 +1,11 @@
-## CONCLUSÃO REFERÊNCIAS APÊNDICE I APÊNDICE II
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: bf1bb549b8677a795c8658c60072e6a8f71953c3
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# 5 ANÁLISE DE RESULTADOS
 
-5 8 10 10 12 14 16 21 22 25 31 32 36 39 39 43 49 52 53 54 65 77 80 87 88
+5.1 HISTÓRICO DAS PESQUISAS COM FUNCIONÁRIOS NA EMPRESA X 5.2 PROCESSO DE APLICAÇÃO DO eNPS NA EMPRESA 5.2 ANÁLISE DE DADOS OBTIDOS PELO eNPS E AÇÕES DECORRENTES 5.3 eNPS VERSUS PESQUISA DE CLIMA 5.4 QUESTIONÁRIO APLICADO A FUNCIONÁRIOS DA EMPRESA
+
+5.4.1. Análise das respostas de líderes de pessoas 5.4.2. Análise das respostas de funcionários sem papel de liderança de pessoas

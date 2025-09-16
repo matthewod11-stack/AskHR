@@ -1,41 +1,13 @@
-## suggests that employees may value narrative-only feedback more when
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db6e0955bf74c2a65a720ec9bfe0233b34c8ad4d
+title: H08HAK-PDF-ENG
+---
+# HBR / Digital Article / Research: Performance Reviews That Actually Motivate Employ…
 
-there is ambiguity about their performance levels, as it provides a
+aﬀects employees’ responses to diﬀerent feedback formats. Our ﬁndings
 
-richer, more nuanced evaluation that can soften the blow of negative
+revealed that the superiority of narrative-only feedback in fostering
 
-assessments. When feedback is overwhelmingly positive, such as when
-
-an employee achieves the highest performance ratings, the format
-
-is less inﬂuential. Employees respond well to very positive feedback
-
-regardless of whether the feedback is numerical, narrative, or a
-
-combination of the two, since the positive outcome is clear and there
-
-is little room for interpretation.
-
-In another experiment, we investigated how knowledge of monetary
-
-outcomes, like bonus amounts, inﬂuences reactions to feedback
-
-formats. Initially, employees who received narrative feedback perceived
-
-their evaluations as fairer and more positive than those who received
-
-numerical or combined feedback. Yet, once employees were informed of
-
-their speciﬁc bonus amounts, perceptions of fairness became similar
-
-across all feedback formats. Being informed of tangible outcomes
-
-clariﬁed the implications of the feedback, leading to more uniform
-
-perceptions of fairness across all formats. In other words, while
-
-narrative feedback can initially be perceived as more favorable, such
-
-perceptions may diminish once concrete outcomes are revealed,
-
-leveling the playing ﬁeld between diﬀerent feedback types.
+perceived fairness diminishes with extremely positive feedback. This

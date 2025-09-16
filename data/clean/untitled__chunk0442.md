@@ -1,7 +1,15 @@
-# tem). Psychological Review, 62, 243–254.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9f6049f2bb984aa511252a1dd327d6c0ef813de2
+title: untitled
+---
+## process theory. Psychological Review, 77, 419–450.
 
-Helmholtz, H. F. V. (1924). Treatise on physiological optics (3rd ed., Vols. 1–3, J. P. Southall, Ed.). Rochester, NY: Optical Society of America. (Original work published 1856–1866)
+Harrington, A. (1991). Beyond phrenology: Localization theory in the modern era. The enchanted loom (pp. 207–215). New York: Oxford University Press.
 
-Helmholtz, H. F. V. (1954). On the sensations of tone (4th ed., A. J. Ellis, Trans.). New York: Dover. (Original work published 1863)
+Hawkins, R. D., Kandel, E. R., & Siegelbaum, S. A. (1993). Learn- ing to modulate transmitter release: Themes and variations in synaptic plasticity. Annual Review of Neuroscience, 16, 625–665.
 
-Hering, E. (1878). Zür Lehre vom Lichtsinne. Vienna, Austria:
+Hebb, D. O. (1949). The organization of behavior. New York: Wiley.
+
+Hebb, D. O. (1955). Drives and the CNS (conceptual nervous sys-

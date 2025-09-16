@@ -1,13 +1,13 @@
-## HBR / Digital Article / How to Assess the New Legal Risks of Your DEI Policies
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3870fbc408c95e7825031bfbfaa660a809639240
+title: H08NFX-PDF-ENG
+---
+## programs and practices for EO compliance.
 
-In the rush, two key facts are getting lost in the shuﬄe. The ﬁrst is
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that core federal and state equal employment opportunity (EEO) laws
+1
 
-have not changed. Trump’s executive orders did end federal contractor aﬃrmative action programs, and Trump can direct federal employees
-
-to take certain actions against “illegal” DEI policies and programs. But
-
-what is “illegal” under core EEO laws today hasn’t changed from before President Trump took oﬃce. This highlights that what companies are
-
-concerned about is not entirely legal risk, but regulatory and litigation
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

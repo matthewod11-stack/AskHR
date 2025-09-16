@@ -1,17 +1,11 @@
-# Open Everything
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15fed8273020f23afe3bf96de79c96dc277a4a95
+title: R2302A-PDF-ENG
+---
+# HBR / Magazine Article / GitLab’s CEO on Building One of the World’s Largest All-Rem…
 
-A primary reason that GitLab gravitated to distributed work and
+to make that shift. We’ve always known how to ensure that our team,
 
-adopted transparency as a core value is the open-source nature of
-
-our tool. From the start Dmitriy wanted everyone to be able to see
-
-the code and build on it, and we get hundreds of contributions from
-
-our community every quarter. By eschewing oﬃces, we put external
-
-collaborators—including customers such as Goldman Sachs, T-Mobile,
-
-and Lockheed Martin—on a level playing ﬁeld with GitLab team
-
-members. We’re all connected in the same online workplace, making
+while fully dispersed, is nonetheless in sync.

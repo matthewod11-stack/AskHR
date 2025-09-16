@@ -1,7 +1,7 @@
-## registration status, call 1-866-4-US-WAGE (1-866-487-9243).
-
-Employment relationship: Under certain circumstances, the Department of Labor may determine that an agricultural employer or
-
-association that uses the services of a farm labor contractor is a joint employer of the agricultural workers furnished by the farm labor
-
-contractor. In joint employment situations, the agricultural employer or association is equally responsible with the farm labor contractor for
+---
+source_path: Employment Law Guide - Worker Protections in Agriculture.md
+pages: n/a-n/a
+chunk_id: 0d3c67fd4f249e93f94537fb35f9eb2a2cecccb6
+title: Employment Law Guide - Worker Protections in Agriculture
+---
+# contractor. This process includes determining that the contractor is properly authorized for all activities he or she will undertake. To verify

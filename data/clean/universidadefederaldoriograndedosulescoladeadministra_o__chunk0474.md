@@ -1,5 +1,7 @@
-# questionário aos
-
-funcionários da empresa que voluntariamente
-
-propuseram-se a responder. Entre o período de 26 a 30 de julho, tempo em que o
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 0878c8d12dc9372dcef8137053d08c2bdeeec6cf
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# aplicado

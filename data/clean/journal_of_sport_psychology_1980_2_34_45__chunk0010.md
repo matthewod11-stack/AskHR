@@ -1,7 +1,9 @@
-# 38 CHELLADURAI ANDSALEH
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: 76430f99a889b89bd9d3279198c1296a49b4b155
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# Results and Discussion
 
-limited amount of variance in each data set: 41.2% for physical education students' preferences, 39.3% for athletes' preferences, and 55.8% for athletes' perceptions.
-
-From the three solutions certain items were selected to constitute each factor. The criteria for selection of these items were (a) the item should have its highest loading on the same factor in all three solutions, and (b) its loading should be higher than .3 in at least two of the solutions. This procedure resulted in a total of 40 items: 13 items for training and instruction, 9 items for democratic behavior, 5 items for autocratic behavior, 8 items for social support, and 5 items for positive feedback (see Table 1).
-
-Schriesheim and Kerr (1977), in their critical analysis of the existing leader- ship scales, noted the difficulty of comparing data derived through the four dif- ferent Ohio State scales even though they are purported to measure the same two dimensions of leader behavior—Initiating Structure and Consideration. This difficulty is caused by the fact that these Ohio State scales contain different sets of items. Our present procedure of selecting the items with the highest loading in all three solutions alleviates this problem and allows for the comparability of data collected from different groups (e.g., physical education majors and athletes) and between preferred and perceived leader behavior.
+Because the second stage of the study was an attempt to confirm the factor structure predicted by the earlier factor analysis, five factors were extracted from each set of data. It must be pointed out that the five factors account for only

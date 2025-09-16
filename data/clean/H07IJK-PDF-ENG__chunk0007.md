@@ -1,19 +1,29 @@
-## HBR / Digital Article / How to Onboard Your New Boss
+---
+source_path: H07IJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb3146e32cc527091626d85ef690fc071c232143
+title: H07IJK-PDF-ENG
+---
+# language (e.g., acronyms).
 
-the organization with which they are not familiar) and political learning (about how power and inﬂuence work diﬀerently at the new level).
+- Political learning is about understanding how decisions are made
 
-If your new manager is coming from a competitor, they likely will
+and how power and inﬂuence work, as well as identifying the key
 
-be familiar with important technical aspects of the job, such as
+stakeholders and clarifying the decision-making processes.
 
-knowledge of products, markets, and technologies. So cultural and
+Where you focus your attention will depend signiﬁcantly on the
 
-political learning may be their biggest priorities.
+situation. If your new manager has been promoted from within, they
 
-Help them understand how to accelerate their learning process.
+may already understand a lot about the culture (although there may be
 
-Here you’ll ﬁnd the three types of learning we mentioned earlier along
+important cultural nuances associated with moving to a higher level).
 
-with questions to ask yourself so that you can determine what your new
+So, the focus is likely to be more on technical learning (about aspects of
 
-manager actually needs.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

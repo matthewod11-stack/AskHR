@@ -1,9 +1,21 @@
-## A second survey of 140 senior executives in
+---
+source_path: R0311F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9089a4317b52f2974de51152b55c40e8e5ec2488
+title: R0311F-PDF-ENG
+---
+# Our Research
 
-the financial services industry (banks, sav- ings and loans, insurance companies, and di- versified financial institutions) was con- ducted jointly by Wharton and Ernst & Young. This survey focused on executives’ perceptions of the key nonfinancial drivers of long-term economic performance, as well as the use and adequacy of related nonfinancial performance metrics for those drivers.
+This article is based on extensive field re- search into more than 60 manufacturing and service companies, where we interviewed se- nior and middle managers about their orga- nizational strategies and performance mea- surement systems. Since the data obtained from these companies are proprietary, we have kept company names confidential.
 
-harvard business review • november 2003
+In 14 of the companies, we investigated the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+extent to which nonfinancial performance measures that were chosen on the basis of their supposed ability to affect future finan- cial performance actually had the expected relationship. Executives at each of these com- panies gave us detailed descriptions of the fi- nancial and nonfinancial measures they be-
 
-page 6
+lieved to be the key drivers of their organization’s economic performance. We then statistically evaluated whether these drivers really affected their companies’ per- formance.
+
+We supplemented our field research with
+
+two surveys of performance measurement practices. The first survey, in which a market research firm obtained data from 157 chief fi- nancial officers and other senior executives in a broad range of industries, was con- ducted jointly by the Wharton School and PricewaterhouseCoopers. The aim of the sur- vey was to determine the types of perfor- mance measures these executives used, to what extent they tried to assess the relation-
+
+ship between nonfinancial measures and fu- ture economic performance, and to what ex- tent they developed and adopted business models that established causal links between the company’s financial and nonfinancial measures.

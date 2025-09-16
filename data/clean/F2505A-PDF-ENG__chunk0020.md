@@ -1,9 +1,15 @@
-# technology companies.
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9dad13707d5850a4a1ae65be5ac6214bda8ab8f8
+title: F2505A-PDF-ENG
+---
+## capabilities, and possible inﬂuence on the company’s direction.
 
-“The experience and approach of investors can signiﬁcantly impact
+Experienced tech investors have probably worked with resource-
 
-a startup’s ability to remain ﬂexible, innovative, and unconventional,
+constrained startups that must balance growth against innovation.
 
-even when they receive large amounts of funding,” says Roche. “Who
+They are more likely to encourage experimentation and scrappiness
 
-you allow to invest in your company is a strategic decision that can stop
+than ﬁrst-time investors or investors who don’t have experience with

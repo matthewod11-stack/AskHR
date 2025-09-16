@@ -1,9 +1,13 @@
-## Mishra, J. (1990). Managing the grapevine. Public Personnel
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ec2b02439662b018b9a5d2d717cc28509a3f1bb9
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Mirolli, K., Henderson, P., & Hills, D. (1998). Coworkers’
 
-Management, 19(2), 213–226.
+inﬂ uence on job satisfaction. Paper presented at the 19th annual Graduate Student Conference in Industrial/ Organizational Psychology and Organizational Behavior, San Diego, CA.
 
-Mitchell, T. R. (1974). Expectancy models of job satisfaction, occupational preference, and eﬀ ort: A theoretical, methodological, and empirical approach. Psychological Bulletin, 81, 1053–1077.
+Mirza, P. (2003). A bias that’s skin deep. HR Magazine, 48(12),
 
-Mitra, A., Jenkins, G. D., & Gupta, N. (1992). A meta-analytic review of the relationship between absence and turnover. Journal of Applied Psychology, 77(6), 879–889.
-
-Moede, W. (1927). Die Richtlinien der Leistungs-Psychologie.
+62–67.

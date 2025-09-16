@@ -1,33 +1,25 @@
-## with “curiosity, openness, and empathy to de-escalate emotions” and
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 349c7bf10122474cf4994cf96afc24d2b417a3fe
+title: H08CUN-PDF-ENG
+---
+## Klotz, associate professor of organizational behavior at UCL School
 
-“engage constructively.” Here are some eﬀective ways to do that.
+of Management. This breeds resentment which can lead people to
 
-Don’t assume it will resolve on its own
+“act like jerks,” says Klotz, noting that they’re more likely to, for
 
-Teams are going to have the occasional oﬀ day: a tense, unproductive
+instance, “commit small acts of incivility or rudeness,” like excluding
 
-meeting, say, or times when colleagues are overly critical of each
+colleagues from group emails or interrupting others during meetings.
 
-other. Their grievances might not even be work-related. “There could
+It’s up to you, the manager, to take action, says Ron Carucci, co-
 
-be something happening in their personal lives, or they’re worried
+founder and managing partner at Navalent, a consulting ﬁrm, and
 
-about the wonky political climate or inﬂation,” says Carucci. “People
+the author of the book, To Be Honest: Lead with the Power of Truth,
 
-are living on edge.” If team dynamics otherwise show a “reasonable
+Justice and Purpose. “Even if you’re the target of resentment, it’s your
 
-level of engagement, contribution, and enjoyment,” it could be just
-
-part of the normal ebb and ﬂow of human interaction. But if rudeness
-
-and resentment become a pattern, you must address it with speed
-
-and seriousness. “Don’t assume time will take care of it,” Klotz says.
-
-Left unchecked, resentment erodes morale and becomes contagious,
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+job to defuse it,” Carucci says. He advises approaching the situation

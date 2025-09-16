@@ -1,15 +1,19 @@
-## the right things easier and the wrong things harder in organizations. We
+---
+source_path: H08HVS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9848187e7d967ee31e361d072ac974360e38c649
+title: H08HVS-PDF-ENG
+---
+## some 10,000 employees, 180 ﬁeld oﬃces, and an annual budget of $1.3
 
-were intrigued by the rapid repairs Gordon’s team made at the DMV. So
+billion, all in a state with 27 million licensed drivers and 36 million
 
-we joined up with Stanford case writer Michael Rothkopf, as well as
+registered vehicles. The pressure on Gordon’s team was ampliﬁed by a
 
-a wonderful team at Stanford Business School, to work with Gordon
+one-time $242 million budget bump to speed the DMV’s turnaround.
 
-and his colleagues to produce a multimedia case study, “Steve Gordon:
+They rose to the challenge.
 
-Reducing Traﬃc Jams at The DMV,” available to download for free.
+Two of us (Huggy and Robert) are academics who have devoted the last
 
-We could write an entire book about lessons from Gordon’s team about
-
-leading change in big organizations — especially those saddled by bad
+eight years to “The Friction Project” to uncover how leaders can make

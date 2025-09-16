@@ -1,9 +1,11 @@
-# 2 OBJECTIVES OF STUDY
+---
+source_path: international_journal_of_innovation_and_applied_studies.md
+pages: n/a-n/a
+chunk_id: 89a513cac0387a4de4d6967fe9e3873a32d86911
+title: international_journal_of_innovation_and_applied_studies
+---
+## Aizza Anwar, Qasim Ali Nisar, Nadia Zubair Ahmad Khan, and Aqifa Sana
 
-Current study has following objectives.
+as irreplaceable assets and devise the term “War for Talent” [5]. However, in 1997, a serious question had aroused about skilled workforce and companies realization about that issue. Joshi and Rain [3] found out that talent management practices are important for organizational performance and assists business leaders in making a proper strategy about retention that helps the organization to ensure that skilled employees are working at the right place. Makela et al. [6] indicated that there is a dearth of skilled employees which is now creating alarming situation in organizations. Managers need to enhance their ability to translate the business needs into talent strategies for the better performance of organization [7]. In 21st century, change is the only constant factor which makes talent management the only answer of organizations woes. Companies are facing the acute dearth of talented people. This era requires competitive strategies build with the help of intellectual capital. It will help the companies to better perform than their rivals. In this scenario retention, engagement and attraction of the competent employee is a crucial factor. Talent management plays an important role in this regard by placing the competent employees according to their job ability. The purpose of this study is to determine that organizations ability to attract, retain and engage key employees. This ultimately leads an organization in the betterment of its performance and gives it a competitive advantage. The research [8] has proved that to attract, retain and engage employees are the key issues banks are facing these days.
 
--  
-
-To identity the strategic importance of talent management. To understand the role of talent management in organizational effectiveness. To examine the relationship among attraction, retention, engagement and talent management
-
-3
+In global as well as local scenario’s, banks are paying great attention to gain competitive advantage through talented employees. They are introducing different innovative tactics to enhance their employees’ capabilities. In response to these existing problems importance of talent management motivated us to conduct study on this stream of line. The purpose of this study is to identify the strategic importance of talent management and to create a link between talent management and organizational performance. Study is descriptive and qualitative in nature. Data collected from managerial staff of banks through interviews. This study will provide insight of talent management concept and its importance in banking sector. Banks can utilize these results to shape their talent management practices.

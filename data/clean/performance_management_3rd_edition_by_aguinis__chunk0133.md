@@ -1,9 +1,11 @@
-## 1.2 THE PERFORMANCE MANAGEMENT CONTRIBUTION
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 2b58707f4eba2640abefbc95c5dd6ad76b433fb1
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part I • Strategic and General Considerations
 
-There are many advantages associated with the implementation of a performance management system.9 A performance management system can make the following important contributions:10
+organizational goals also serves the purpose of establishing a shared understanding about what is to be achieved and how it is to be achieved. This is painfully clear in Sally’s case described earlier: from her point of view, the performance review forms did not provide any useful information regarding the contribution of each of her subordinates to the organization. Sally’s case is unfortunately more common than we would like. A survey conducted by the consulting firm Watson Wyatt showed that only 3 in 10 employees believe their companies’ performance review systems actually helped them improve their performance.5
 
-- 1. Motivation to perform is increased. Receiving feedback about one’s performance increases the motivation for future performance. Knowledge about how one is doing and recognition about one’s past successes provide the fuel for future accomplishments.
-
-- 2. Self-esteem is increased. Receiving feedback about one’s performance fulfills a basic human need to be recognized and valued at work. This, in turn, is likely to increase employees’ self-esteem.
-
-- 3. Managers gain insight about subordinates. Direct supervisors and other managers in charge of the appraisal gain new insights into the person being appraised. The importance of knowing your employees is highlighted by the fact that the Management Standards Centre, the government-recognized organization in the United Kingdom for setting standards for the management and leadership areas, has recognized that developing productive relationships with colleagues is a key competency for managers (http://www.management-standards.org, Unit D2). Gaining new insights into a person’s performance and personality will help
+In subsequent chapters, we describe best practices on how to design and implement performance management systems. For now, however, let’s say that well-designed and implemented performance management systems make substantial contributions to the organization. This is why a recent survey of almost 1,000 HR management professionals in Australia revealed that 96% of Australian companies currently implement some type of performance management system.6 Similarly, results of a survey of 278 organizations, about two-thirds of which are multinational corporations, from 15 different countries, indicated that about 91% of organizations implement a formal performance management system.7 Moreover, organizations with formal and systematic performance management systems are 51% more likely to perform better than the other organizations in the sample regarding financial outcomes, and 41% more likely to perform better than the other organizations in the sample regarding other outcomes including customer satisfaction, employee retention, and other important metrics. Based on these results, it is not surpris- ing that senior executives of companies listed in the Sunday Times list of best employers in the United Kingdom believe that performance management is one of the top two most important HR management priorities in their organizations.8 Let’s describe these performance management contributions in detail.

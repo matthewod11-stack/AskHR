@@ -1,11 +1,39 @@
-# investment by firms and workers.
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 28540befc1df2c8403da3616cdca6dc1e27bb8c7
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# indispensable for economic growth.
 
-Critics of the human-capital theory however point to the difficulty of measuring key
+(cid:49)(cid:48)(cid:32)
 
-concepts, including future income and the central idea of human capital itself. Not
+(cid:32)
 
-all investments in education guarantee an advance in productivity as judged by
+Training is the component of human capital that workers acquire after schooling,
 
-employers or the market. In particular, there is the problem of measuring both
+often associated with some set of skills useful for a particular industry, or useful
 
-worker productivity and the future income attached to career openings, except in
+with a particular set of technologies. There is a widespread belief that learning is the
+
+core factor to increase the human capital. In other words, learning is an important
+
+component to obtain much knowledge and skills through lots of acquisition ways
+
+including relationship between the individual and the others (Sleezer, Conti, Nolan,
+
+2003). At some level, training is very similar to schooling in that the worker, at least
+
+to some degree, controls how much to invest. But it is also much more complex,
+
+since it is difficult for a worker to make training investments by himself. The firm
+
+also needs to invest in the training of the workers, and often ends up bearing a large
+
+fraction of the costs of these training investments. The role of the firm is even greater
+
+once we take into account that training has a significant “matching” component in
+
+the sense that it is most useful for the worker to invest in a set of specific
+
+technologies that the firm will be using in the future. So training is often a joint

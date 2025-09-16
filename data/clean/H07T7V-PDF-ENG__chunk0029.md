@@ -1,25 +1,27 @@
-# answers.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84e422b630ce678bf72702ba83dc4f8d33fa1ddb
+title: H07T7V-PDF-ENG
+---
+# a diﬀerent model?
 
-We see a really clear example of that with the App Store. Jobs did not
+ANDREW MCAFEE:
 
-want to open up his beautiful, perfect walled garden iPhone to outside
+Jobs has some really classic non-geek characteristics. He believed that
 
-developers. He had to be talked into it. He eventually realized that he
+he knew best. He had a very, very large ego. He also screamed at his
 
-was wrong about that. There is a little bit of that openness going on.
+subordinates all the time, which I think is absolutely not what an open
 
-One thing that Apple is pretty fanatic about, as I understand it, is they
+leader does.
 
-make decisions based on evidence. And whether or not that’s a huge
+However, I interviewed Eric Schmidt for the book, and I brought this up
 
-AB testing infrastructure is one thing. Apple loves to demo features,
+to him and he said, “Look, I was on Apple’s board for a while. I knew
 
-and gets everybody in the room to look at this and say, for example, is
+Steve pretty well.” He said Steve was a tough person in all those ways,
 
-it better to have blurry portrait photos where you can adjust the blur
+but he learned that if you want to stay on top, you have to listen to
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the people around you. You have to stop thinking that you have all the

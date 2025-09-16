@@ -1,17 +1,31 @@
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 3bef9e83a7545eabed3032f13e9778b7166ee322
+title: document_resume
+---
 # Not this.
 
-Patrol Off-ILA r Dinlio always does a good job in performing the search protedure
+Liesa gives good instructions to her seta-clay Her instnit lions arc dear and cones:
 
-5.
+Avoid using adjecutc qualtfier., in the statements, use descriptions of beliaior.
 
-Avoid using quanutauve wino (numbers). use descriptions of behavior.
+Use this. Aimee repeated an employee's communication and its intent to the employee. She talked
 
-Use this. Nancy submitted her reports on tune. They contained no misinformation or mistakes. When discrepancies ottained on reports from the last period, she identified the causes by referring to the changes in accounting protedures and the imp& t they had on this period.
+in private, and I have never head her repeat the conversation to others.
 
-Not this: Mr. Boebel met 90% of deadlines with 95% accuracy.
+Not this: Kelly does a good job of understanding problems. She is kind and friendly ,
 
-6.
+3.
 
-Proxide sufficient detail so that an assessment can be made of the extent to which LharaL ten .tks of the situation beyond the control of the ratee may have affected the beim
+Avoid using statements that make, ,isawnpuolia about an employee's kiwithAige of the job, use descriptions of behavior.
 
-Use this. Mr. Dzaidzo's failure to hit the "target date" for the sky-hook quota was caused by the failure of Mr. Ressler's department to pros ide the ordered supply of linkage gaskets Mr Dzanlio submitted four memos in aunt-pawn of and in ref-creme to the gasket shortage.
+Use this. Sarah performed the disassembly procedure for rebuilding a carburetor by first remot ing the Lap and then proceeding with the internal components When she was m doubt about the procedure, she referred to the appropriate manual.
+
+Not this. Sam knows how to disassemble a carburetor in an cffiuc,it and effeLtRe manner
+
+4.
+
+Avoid using frequencies in statc.aents; use descriptions of behavior.
+
+Use this. Patrol Officer Garcia performed the search proteuae by first informing the arrested of their rights, asking them to assume the search position, and then conducting the search by touching the arrested in the prescribed plates. When the SC,11111 was completed, Garcia informed the arrested. He then proceeded to the next step in the arrest procedure

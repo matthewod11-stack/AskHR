@@ -1,11 +1,7 @@
-# Table 3: Survey questions
-
-TTP and TP questions The membership of the board can be readily identiﬁed There is a common sense of purpose for directors Directors are clear about their roles on the board There is effective communication among directors Individuals are valued as board directors The board is highly valued by other parts of the organization Directors feel proud to be a member of the board Morale among directors is high There is effective and appropriate leadership on the board All directors perform to the best of their ability on the board Directors have a high level of stakeholder awareness The board has clearly deﬁned their stakeholders There are clearly deﬁned standards for working practices for the directors Standards are monitored on a regular basis Feedback on the monitoring of standards is given to directors on a regular basis There are measurable standards for outcomes that are monitored Directors are adequately trained and are competent to perform the professional aspects of their jobs Directors are adequately trained in the administrative systems and procedures Director training and development needs are systematically identiﬁed Resources are identiﬁed and made available for training needs There is a formal system in place to identify director development and training needs Directors are encouraged to try new work methods or introduce new ideas Directors are involved from the outset in new developments related to the company Innovation is rewarded on the board Problems related to the company’s business are quickly identiﬁed Once identiﬁed, the board is quick to address the problems Problem solving is seen as an opportunity for learning and growth The board believes it can become unusually good at producing high-quality work The board expects to be known as a high-performing team We feel we can solve any problem the board encounters The board has conﬁdence in itself The board believes it will get a lot done when it works hard No task is too tough for this board The board believes it can be very productive The board expects to have a lot of inﬂuence
-
-Cultural intelligence questions I am conscious of the cultural knowledge I use when interacting with people of different cultural backgrounds I adjust my cultural knowledge as I interact with people from a culture that is unfamiliar to me I am conscious of the cultural knowledge I apply to cross-cultural interactions I check the accuracy of my cultural knowledge as I interact with people from different cultures I enjoy interacting with people from different cultures I am conﬁdent that I can socialize with locals in a culture that is new to me I vary the rate of my speech when a cross-cultural situation requires it I am sure I can deal with the stresses of adjusting to a culture that is new to me I enjoy living in cultures that are unfamiliar to me I am conﬁdent that I can grow accustomed to the shopping conditions in a different culture I change my verbal behavior (for example, accent, tone) when a cross-cultural interaction requires it I change my non-verbal behavior when a cross-cultural interaction requires it I use pauses and silence differently to suit different cross-cultural situations I alter my facial expressions when a cross-cultural interaction requires it
-
-© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
-
-119
-
-120
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 2f44728c235d68a1790b45a26aab58f04af99203
+title: original_article
+---
+# Improving corporate performance

@@ -1,37 +1,19 @@
-# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f00815cd2660316f4692a2640db7d2654b4c077d
+title: H08Q8O-PDF-ENG
+---
+## focus in management literature on company purpose and meaning.
 
-unspoken but unconscious and not clearly articulated in people’s minds
+Companies must also show that they care about the individual doing the work. The trouble is that diﬀerent employees and diﬀerent companies think about caring in very diﬀerent ways. One size doesn’t ﬁt all, and
 
-until the moment they are broken.
+ﬁnding which sizes ﬁt which people is tricky. The fact that psychological
 
-This makes return-to-oﬃce friction a useful focal point. We see four elements in this issue: 1) diﬀerences in individual preferences about the percentage of work people do in the oﬃce; 2) diﬀerences in preferences
+contracts are tacit further complicates this issue—they are not just
 
-about the percentage of work their colleagues do in the oﬃce (few
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-people are enthusiastic about commuting into a mostly empty oﬃce building to have virtual meetings all day); 3) diﬀerences of belief about
+4
 
-whether people being in the oﬃce is actually good for the company; and 4) diﬀerent assumptions about the right of the employer to set
-
-aside individual preferences for the good of the company. The pandemic further highlighted these diﬀerences as it showed many people that
-
-working from home could even make them more productive—so why
-
-should they be forced to go back to the oﬃce?
-
-Studies show that the diﬀerences don’t line up neatly by demographics:
-
-Stereotyping young people or women as remote workers, for example,
-
-and older men as preferring an oﬃce hides huge amounts of variation. The diﬀerences are so big that no single policy will please everyone.
-
-Further, the psychological contract is predicated on an increasingly
-
-shaky assumption that people can agree about what is in the general
-
-good. The issue, in other words, is with the whole idea that ﬁnding a
-
-best-ﬁt policy is the answer. In our research, we have seen companies
-
-both succeed and fail with ﬁve-days-in-the-oﬃce policies, two-days-in-
-
-the-oﬃce policies, and fully remote work. Success doesn’t depend on
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

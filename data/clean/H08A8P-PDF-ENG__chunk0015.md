@@ -1,7 +1,15 @@
-## HBR / Digital Article / When a Coworker Keeps Giving You Unsolicited Advice
+---
+source_path: H08A8P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cdb4e4f47f955447359352b2ed811835492611f5
+title: H08A8P-PDF-ENG
+---
+# contributing.
 
-While unsolicited advice can be annoying, it also gives you an
+. . .
 
-opportunity to practice taking work less personally. When others’ input
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-does become overbearing, you’ll know how to stand up for yourself
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

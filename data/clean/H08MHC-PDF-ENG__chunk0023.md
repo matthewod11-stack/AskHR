@@ -1,17 +1,19 @@
-## successful transformation initiative for a successful transformation.
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8322c4abbf34fa57e1ae5425da0dabc196b1e234
+title: H08MHC-PDF-ENG
+---
+## Why Designed Simplicity Succeeds Where Efficiency Fails
 
-Organizations don’t undertake transformations for the purpose of
+Why does designed simplicity work so well?
 
-completing them quickly. They undertake them to achieve functional
+Designed simplicity focuses on the transformation’s ROI, not its ﬁnish line.
 
-and organizational objectives. While both time-to-ROI and ROI matter, the latter matters much more. In the tradeoﬀ between speed and
+The eﬃciency approach aims to reduce the time between the decision to
 
-quality, the eﬃciency approach gets the balance wrong, and designed
+transform and the implementation of the transformation, and by doing
 
-simplicity gets it right.
+so minimize time-to-ROI. Not only does this not work, as mentioned
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+above, but in elevating time-to-ROI, these leaders are mistaking a

@@ -1,7 +1,13 @@
-# functional roles.
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5a891c048656c1f215820ae9f95a7e5d18b19a57
+title: H08A5M-PDF-ENG
+---
+## agreement on goals and priorities at the top of the management
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+hierarchy will trickle down. Having achieved top-to-top alignment,
 
-2
+executives then put additional heft behind their eﬀorts to break down
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+functional barriers by investing in common systems and new, cross-

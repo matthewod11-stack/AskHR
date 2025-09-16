@@ -1,11 +1,7 @@
-## diﬀerent work arrangements and track changes in their satisfaction over
-
-time. (We do think more experimentation of that sort would beneﬁt
-
-the research literature on the future of work.) Another limitation that
-
-we mentioned earlier, but is worth repeating, is that the dynamics we
-
-have written about do not generalize to all types of work. Some jobs
-
-simply cannot be made ﬂexible; there are essential jobs that require
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3380280b8faeef69f2f87f7c873e559afd01e98
+title: H08AWG-PDF-ENG
+---
+# HBR / Digital Article / Research: People Still Want to Work. They Just Want Control Ov…

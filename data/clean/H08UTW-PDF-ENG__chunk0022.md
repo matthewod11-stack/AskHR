@@ -1,11 +1,13 @@
-## more about your leadership comfort zone or your team culture than it
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 345bba124350d99dae044940cff30ccf539513f3
+title: H08UTW-PDF-ENG
+---
+# through the motions.
 
-does the tool itself.
+If at any point you feel yourself resisting the exercise, pause and ask
 
-Mistake #5: Undermining “yes, and…” with blocking behaviors
+why. Are you uneasy about opening the ﬂoor to new ideas? Do you
 
-In improv, actors count on “yes, and…” to propel a scene, but they’re just
-
-as alert to the words that might stall it. The same is true in business:
-
-some phrases invite collaboration while others block it.
+believe “creativity” has no place in your ﬁeld? That reﬂex usually reveals

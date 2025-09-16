@@ -1,13 +1,13 @@
-## Why The Effects Are Stronger for Atypical CEOs
+---
+source_path: H08S86-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da27dbc1ccfcc0a612271393f52765f494fa3ffa
+title: H08S86-PDF-ENG
+---
+## HBR / Digital Article / Research: Why CEOs Should Start with the New Year
 
-Although our analyses revealed that ﬁrms reap operational performance
+were handed-down mid-year, this gives them less time to make progress
 
-beneﬁts regardless of who they choose as successor, we found that these
+toward them by the time they’re evaluated—not meeting goals can feel
 
-eﬀects are particularly strong when the new CEO is “atypical,” meaning
-
-that they have characteristics that are not commonplace in the broader
-
-CEO population. Speciﬁcally, we considered CEOs as atypical when they
-
-were outsiders (i.e., appointed from outside the ﬁrm), young (46 years
+demoralizing and risks hurting employee engagement.

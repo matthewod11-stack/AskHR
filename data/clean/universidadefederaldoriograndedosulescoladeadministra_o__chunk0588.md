@@ -1,21 +1,23 @@
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: ab8767d3f05e4271661be5045b3e142caacf163b
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
 # Disponível
 
-BALDUCCI, C.; FRACCAROLI, F.; SCHAUFELI, W. B. Psychometric properties of the Italian version of the Utrecht Work Engagement Scale (UWES-9): a cross-cultural analysis. European Journal of Psychological Assessment, Washington, DC, v. 26, n. 2, p. 143-149, 2010.
+BAKKER, A., DEMEROUTI, E. Multiple Levels in Job Demands-resources Theory: Implications for Employee WellBeing and Performance. Em E. Diener, S. Oishi, & L. Tay (Orgs.), Handbook of Well- Being. DEF Publishers, 2018.
 
-BERGAMINI, C.; CODA, R. Psicodinâmica da vida organizacional: motivação e liderança. 2. ed. São Paulo: Atlas, 1997.
+BAKKER, A.; DEMEROUTI, E.; EUWEMA, M. Job Resources Buffer the Impact of Job Demands on Burnout. Journal of Occupational Health Psychology, 10, 170-180, 2005. Disponível em: https://doi.org/10.1037/1076-8998.10.2.170 Acesso em 15 ago. 2022.
 
-BISPO, C. Um novo modelo de pesquisa de clima organizacional. Production, [s.l.], v. 16, n. 2, p. 258-273, ago. 2006.
+BAKKER, A.; LEITER, M. P. Where to go from here: integration and future (Org.). research on work engagement. Work engagement: a handbook of essential theory and research. New York: Journal Psychology Press, 2010. p. 181-196.
 
-CAVALCANTE, M. M.; SIQUEIRA, M. M. M.; KUNIYOSHI, M. S. Engajamento, bem-estar no trabalho e capital psicológico: um estudo com profissionais da área de gestão de pessoas. Pensamento & Realidade, v. 29, n. 4, p. 23–23, 2014. em: Disponível https://revistas.pucsp.br/index.php/pensamentorealidade/article/view/22391. Acesso em: 22 fev. 2023.
+In: BAKKER, A. B.; LEITER, M. P.
 
-CHRISTIAN, M. S.; GARZA, A. S.; SLAUGHTER, J. E. Work engagement: a quantitative review and test of its relations with task and contextual performance. em: Personnel
+BAKKER, A.; SCHAUFELI, W. B.; LEITER, M. P., e TARIS, T. W. Work Engagement: An emerging concept in occupational health psychology. London: Journal Work e em: Stress, https://www.wilmarschaufeli.nl/publications/Schaufeli/290.pdf. Acesso em: 15 ago. 2022.
 
-Psychology,
+22(3),
 
-64,
+187-200.
 
-p.89
-
-136,
-
-2011.
+2008.

@@ -1,7 +1,13 @@
-# Employee Rights
+---
+source_path: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas).md
+pages: n/a-n/a
+chunk_id: 3e573e868b8c9610d6e811460fbad45e4fdda3e7
+title: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas)
+---
+## Identiﬁcation of each recruitment source by name
 
-An employer who ﬁles an application for temporary foreign labor certiﬁcation pursuant to the H-2B regulations
+The name and contact information for each U.S. worker who applied for the job
 
-must meet many speciﬁc conditions, including those concerning recruitment, wages, transportation, tools and supplies, certiﬁcation and recruitment fees, labor disputes, and other conditions.
+Explanation of the lawful job-related reasons for not hiring each U.S. worker
 
-Workers who believe that their rights under the H-2B regulations were violated may ﬁle their complaints with
+If OFLC denies certiﬁcation, the employer may appeal to the Board of Alien Labor Certiﬁcation Appeals.

@@ -1,17 +1,19 @@
-# Personalization Tip:
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0905c87364a1d26025c71ca80691fa7e5b680f52
+title: H08O9C-PDF-ENG
+---
+## references and sources to follow-up and cross-check.
 
-Share your unique insights, experiences, and writing style. For example,
+Note that it is perfectly OK to report that you have prepared your
 
-you can record yourself talking about your career history, or write a one-
+thoughts and ideas with the support of gen AI. Many people do so, but
 
-page summary of your skills and interests, and then get AI to upgrade
+few admit it. Second, it will show you are honest and have integrity.
 
-and reﬁne that into a compelling story. Gen AI can help reﬁne your
+Third, the real value will come not from what everybody else can
 
-voice and structure your thoughts into compelling narratives. Don’t just
+produce with gen AI, but from the human touch you provide by
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+injecting your expertise, experience, and creativity.

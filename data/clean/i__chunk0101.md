@@ -1,25 +1,13 @@
-## Figure 10: Five Ages of People Analytics (Source: Ferrar & Green 2021)
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 2e8d56a76ad2a510ac685ff4be49b81b92155efc
+title: i
+---
+# for the organization.
 
-As mentioned briefly in the previous section about the history of PA, the earliest adoption of
+Ferrar and Green (2021) describe the development of PA by <five ages=: Discovery,
 
-PA was in the year 1911. According to the authors, the Discovery phase lasted for almost a
+Realization, Innovation, Value and a prediction for the future, which is the age of Excellence
 
-century, from its earliest adoption until the 2010s (1910s -2000). This phase of development
-
-witnessed two World Wars, and nine global recessions, according to WorldBank., which were
-
-in recession in 1914, 1917-21, 1930-32, 1938, 1945-46, 1975, 1982, 1991, and 2009.
-
-Moreover, other significant events in this phase are the technological development and the
-
-dawn of <mass industrialization= in 1940 (Ferrar & Green 2021), when the HR department
-
-expanded its scope beyond the administration's focus.
-
-In the 1980s and 1990s, there was a transformation in the human resources department. It
-
-shifted from a narrow focus on administration to encompassing recruitment, development,
-
-reward, and performance management. This evolution created a demand for measuring
-
-<processes and the efficiency= with a large amount of data collected via online and offline
+19
