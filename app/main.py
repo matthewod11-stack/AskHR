@@ -15,7 +15,7 @@ from collections import deque
 
 from app.schemas import SearchRequest, SearchResponse, SearchHit, AskRequest, AskResponse
 from app.retriever import search_chunks
-from app.prompting import build_system_prompt, build_user_prompt
+from app.prompting import build_system_prompt, maybe_rewrite_query, build_user_prompt
 
 load_dotenv()
 app = FastAPI(title="Ask HR (Local)")
@@ -96,16 +96,40 @@ def ask_get_hint():
 
 @app.post("/v1/ask", response_model=AskResponse)
 async def ask(payload: AskRequest) -> AskResponse:
-    q = rewrite(payload.query)
-    hits = search_chunks(q, payload.k)
+    # Gather last Q/A from dialog memory
+    last_user = _dialog[-2] if len(_dialog) >= 2 else None
+    last_assistant = _dialog[-1] if len(_dialog) >= 1 else None
+
+    # Define a minimal LLM call wrapper for rewriting
+    async def rewriter_llm(messages):
+        # Use Ollama chat API, return only the text output
+        data = {"model": (payload.model or LLM_MODEL), "messages": messages, "stream": False}
+        async with httpx.AsyncClient(timeout=None) as client:
+            resp = await client.post(f"{OLLAMA_URL}/api/chat", json=data)
+            resp.raise_for_status()
+            chunk = resp.json()
+            return chunk.get("message", {}).get("content", "")
+
+    # Rewrite query if needed
+    import logging
+    logger = logging.getLogger("askhr")
+    import asyncio
+    final_query = maybe_rewrite_query(
+        last_user=last_user,
+        last_assistant=last_assistant,
+        new_user=payload.query,
+        llm_call_fn=lambda messages: asyncio.run(rewriter_llm(messages)),
+    )
+    user_prompt = build_user_prompt(final_query)
+
+    was_rewritten = (final_query.strip() != (payload.query or "").strip())
+    logger.info("rewrite=%s raw=%r final=%r", was_rewritten, payload.query, final_query)
+
+    hits = search_chunks(final_query, payload.k)
     if not hits:
         return AskResponse(answer="I didn’t find relevant context.", citations=[])
 
     system_prompt = payload.system or build_system_prompt()
-    user_prompt = build_user_prompt(
-        q, hits, grounded_only=payload.grounded_only
-    )
-
     messages = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": user_prompt},

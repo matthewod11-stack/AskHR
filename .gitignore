@@ -17,3 +17,13 @@ build/
 
 # Project data
 data/raw/
+# local vectors / DBs / caches
+data/chroma/
+index/
+logs/
+*.sqlite3
+*.bin
+*.pt
+*.npy
+# raw local sources (keep local only)
+data/raw/

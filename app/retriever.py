@@ -62,8 +62,13 @@ def mmr_select(query_vec, cand_vecs, cand_payloads, k, lambda_diversity):
         selected_idx.add(idx)
     return [cand_payloads[i] for i in selected]
 
+
 from app.store import get_collection
 from app.embeddings import get_embedding
+try:
+    from chromadb.api.types import IncludeEnum
+except ImportError:
+    IncludeEnum = None
 
 
 def _include_arg():
@@ -71,6 +76,9 @@ def _include_arg():
     Chroma's include can be either strings or IncludeEnum depending on version.
     This returns a compatible list without importing version-specific types.
     """
+    # Return IncludeEnum values if available, else fallback to strings
+    if IncludeEnum:
+        return [IncludeEnum.documents, IncludeEnum.metadatas, IncludeEnum.distances]
     return ["documents", "metadatas", "distances"]
 
 
@@ -91,13 +99,15 @@ def search_chunks(query: str, k: int = 8, topn: int | None = None, use_mmr: bool
     try:
         col = get_collection()
         qvec = get_embedding(expanded_query)
-    except Exception:
-        return []
-    # 2) search using query_embeddings (NOT query_texts)
-    try:
+        # 2) search using query_embeddings (NOT query_texts)
         include_list = _include_arg()
-        if "embeddings" not in include_list:
-            include_list = include_list + ["embeddings"]
+        # Add embeddings to include_list if not present
+        if IncludeEnum:
+            if IncludeEnum.embeddings not in include_list:
+                include_list = include_list + [IncludeEnum.embeddings]
+        else:
+            if "embeddings" not in include_list:
+                include_list = include_list + ["embeddings"]
         res = col.query(
             query_embeddings=[qvec],
             n_results=max(1, int(topn)),
