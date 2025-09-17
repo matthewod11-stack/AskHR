@@ -44,13 +44,12 @@ def build_system_prompt() -> str:
 
 def build_user_prompt(query: str) -> str:
     """
-    Build the final user-facing prompt for the answering model.
-    Pass the (possibly rewritten) query here before retrieval & generation.
+    Build the final prompt text combining the system persona and the user question.
+    This mirrors how callers typically construct prompts for single-shot calls
+    and keeps compatibility with existing tests expecting the persona inline.
     """
-    return (
-        "User question:\n"
-        f"{query}\n"
-    )
+    persona = build_system_prompt()
+    return f"{persona}\n\nUser question:\n{query}\n"
 
 # ---------------------------------------------------------------------------
 # Rewriter: cautious multi-turn query rewriting (uses last Q/A only)

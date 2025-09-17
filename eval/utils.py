@@ -6,7 +6,7 @@ import csv
 import os
 import json
 from typing import List
-from schema import CaseRow
+from .schema import CaseRow
 
 def read_cases_csv(path: str) -> List[CaseRow]:
     cases = []
