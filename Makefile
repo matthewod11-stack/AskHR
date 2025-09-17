@@ -1,16 +1,22 @@
-# RAG Service Evaluation Harness
+test:
+	pytest -q
 
-.PHONY: eval eval.save eval.sample
+.PHONY: run.api run.ui ingest.md index.build eval.sample eval.save
 
-EVAL_PY=eval/run_eval.py
-EVAL_CASES=eval/cases.csv
-API_URL?=http://localhost:8000
+run.api:
+	uvicorn app.main:app --reload
 
-eval:
-	python $(EVAL_PY) --api-url $(API_URL) --cases $(EVAL_CASES)
+run.ui:
+	streamlit run ui/app.py
 
-eval.save:
-	python $(EVAL_PY) --api-url $(API_URL) --cases $(EVAL_CASES) --save
+ingest.md:
+	python scripts/ingest_md.py data/raw
+
+index.build:
+	python scripts/index_build.py
 
 eval.sample:
-	python $(EVAL_PY) --api-url $(API_URL) --cases $(EVAL_CASES) --limit 5
+	python eval/run_eval.py --api-url http://127.0.0.1:8000 --cases eval/cases.sample.csv --limit 5
+
+eval.save:
+	python eval/run_eval.py --api-url http://127.0.0.1:8000 --cases eval/cases.sample.csv --save
