@@ -1,0 +1,77 @@
+AskHR — Source of Truth (SoT)
+Last updated: 2025-09-17 15:39
+
+VISION
+AskHR is a local‑first HR copilot that answers with receipts. It ingests your HR
+content, retrieves relevant passages (Chroma + embeddings), and uses an
+Ollama‑hosted LLM to generate concise, CPO‑caliber guidance with clickable citations.
+Primary day‑one value: trustworthy, grounded answers to common HR needs.
+
+PRODUCT MODULES
+• Module 1 (CORE, now): Ask HR — Chat with RAG
+  Purpose: Pull & synthesize answers from the HR corpus through a pragmatic CPO persona.
+  Likely hero use cases: (a) Low performance; (b) Onboarding a new hire.
+• Module 2 (NEXT): PIP Builder
+  Purpose: Turn answers about performance standards into a structured PIP draft with preserved citations.
+• Module 3 (NEXT): 30/60/90 Plan Builder
+  Purpose: Convert onboarding advice into a structured plan with goals, activities, metrics.
+• Module 4 (LATER): HR Metrics Dashboard
+  Purpose: Upload CSVs and auto‑compute core HR metrics (demographics, heatmaps,
+  attrition, time‑to‑hire, etc.). NOTE: current screenshots are mockups; the live UI is
+  intentionally minimal and unthemed.
+
+CURRENT STATE (as‑built)
+Stack
+  • Backend: FastAPI service (Python) with /v1/ask, /v1/search, /health.
+  • Retrieval: Chroma vector store; ingestion scripts create token‑based chunks with metadata.
+  • Models: Ollama (e.g., llama3.1:8b for chat; nomic‑embed‑text for embeddings).
+  • UI: Streamlit app for chat and controls (k, grounded_only).
+
+What works
+  • Grounded answers: Top‑k retrieved chunks are injected into the prompt; answers include real citations.
+  • Grounded‑only: If enabled and no sources match, API returns “No relevant sources…” (no LLM call).
+  • Evaluation harness: Fixed and runnable with sample cases; results saved locally.
+  • Observability: Structured JSON logs with request IDs; timeouts on Ollama calls.
+  • Safer models: No mutable default lists; session memory is opt‑in and scoped.
+  • Docs/Makefile: Updated so a new clone can ingest, index, run API/UI, and run eval.
+
+Gaps / Risks
+  • Retrieval tuning: Verify fallback sorter; keep MMR + synonym expansion tunables.
+  • Citation paths: Normalize all source_path variants so /v1/file links always resolve.
+  • Design system: No real typography/spacing/color tokens yet; current UI is functional only.
+  • Performance: P95 latency targets not yet measured at larger scale.
+  • Packaging: “Appliance” one‑command setup exists but needs hardening for a clean macOS run.
+  • Security: CORS permissive for localhost; document expectations if binding beyond loopback.
+
+ARCHITECTURE (mental model)
+Streamlit UI  →  FastAPI (/v1/ask, /v1/search)
+                       ↘  Retriever (embeddings + Chroma)
+                        ↘  Prompt Composer (inject top‑k chunks)
+                         ↘  Ollama Chat (answers with citations)
+Data flow: data/raw → ingest_* → data/clean (chunked + metadata) → index/ (Chroma) → retrieval → prompt → answer + citations.
+
+WORKING STYLE (Copilot operating mode)
+We prompt Copilot as our senior implementation engineer. You (PM) paste one prompt
+at a time; Copilot executes and returns a code‑review. Only full‑file replacements are
+allowed for copy/paste; no manual line edits. After you say “done,” I provide the next prompt.
+
+NEAR‑TERM EXECUTION PLAN (ordered)
+1) Retrieval trust: Normalize citation paths; add a contract test for /v1/file.
+2) Eval as guardrail: make eval.sample prints metrics (citation rate, groundedness); set minimum thresholds.
+3) Appliance hardening: one‑command fresh‑clone run (make up or ./run.sh) + seed sample pack + health checks.
+4) UI truth & polish: Helpful empty/loading/error states; “Copy with citations”; grounded‑only UX.
+5) Thin build modules: PIP Builder + 30/60/90 pages call /v1/ask and render exportable drafts (preserve citations).
+6) Design system lite: type scale, spacing tokens, neutral surface, focus rings; basic theme variables.
+
+DEFINITION OF DONE (v1)
+• ≥95% of answers include ≥1 valid, clickable citation.
+• P95 ask latency < 3.5s on M‑series Mac with sample pack.
+• make eval.sample completes and writes metrics artifacts.
+• make up succeeds on a clean machine; sample prompts appear on first run.
+• README reflects real behavior; troubleshooting includes ports/models; no telemetry spam.
+
+FUTURE FOCUS (after v1)
+• Deeper retrieval quality work (domain synonyms, rerankers, section‑aware links).
+• HR Metrics Dashboard CSV uploader + charts (demographics, heatmaps, attrition, time‑to‑hire).
+• Export pathways (Markdown/Word/Google Doc) with preserved citations.
+• Optional cloud model/provider switch with explicit privacy controls.
