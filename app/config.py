@@ -1,16 +1,14 @@
-import os
+
+from pydantic_settings import BaseSettings
 from pathlib import Path
 
-class Settings:
-    """Configuration settings for the AskHR application."""
-    
-    def __init__(self):
-        # Get the root directory (parent of app/)
-        self.ROOT = Path(__file__).resolve().parents[1]
-        
-        # Data directories
-        self.DATA_RAW_DIR = Path(os.getenv("DATA_RAW", str(self.ROOT / "data" / "raw")))
-        self.DATA_CLEAN_DIR = Path(os.getenv("DATA_CLEAN", str(self.ROOT / "data" / "clean")))
+class Settings(BaseSettings):
+    DATA_RAW_DIR: Path = Path("data/raw")
+    DATA_CLEAN_DIR: Path = Path("data/clean")
 
-# Global settings instance
+    # Allow list of directories from which we will serve files
+    @property
+    def FILE_SERVE_ROOTS(self) -> list[Path]:
+        return [self.DATA_RAW_DIR.resolve(), self.DATA_CLEAN_DIR.resolve()]
+
 settings = Settings()
