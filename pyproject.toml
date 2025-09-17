@@ -1,3 +1,5 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
 [project]
 name = "ask-hr-local"
 version = "0.1.0"
