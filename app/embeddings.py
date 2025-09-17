@@ -6,11 +6,13 @@ from dotenv import load_dotenv
 # Load .env (safe to call multiple times)
 load_dotenv()
 
+
 EMBED_MODEL = os.getenv("EMBED_MODEL", "nomic-embed-text")
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434")
+OLLAMA_TIMEOUT_SECONDS = int(os.getenv("OLLAMA_TIMEOUT_SECONDS", "30"))
 
 def get_embedding(text: str) -> list[float]:
-    with httpx.Client(timeout=60) as c:
+    with httpx.Client(timeout=OLLAMA_TIMEOUT_SECONDS) as c:
         r = c.post(f"{OLLAMA_URL}/api/embeddings",
                    json={"model": EMBED_MODEL, "prompt": text})
         r.raise_for_status()

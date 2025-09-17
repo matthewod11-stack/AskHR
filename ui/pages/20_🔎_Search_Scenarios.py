@@ -1,5 +1,11 @@
 import os
 import streamlit as st
+
+if not os.getenv("SHOW_REWRITE_DEBUG", "false").lower() in ("1","true","yes"):
+    st.info("Rewrite debug is disabled. Set SHOW_REWRITE_DEBUG=true to enable.")
+    st.stop()
+import os
+import streamlit as st
 import requests
 
 API_URL = os.getenv("API_URL", "http://localhost:8000")
@@ -40,10 +46,16 @@ st.set_page_config(page_title="Search Scenarios", layout="wide")
 st.title("🔎 Search Scenarios Playground")
 
 st.sidebar.header("Scenario Controls")
-group = st.sidebar.selectbox("Scenario Group", list(SCENARIOS.keys()))
+group = st.sidebar.selectbox("Scenario Group", list(SCENARIOS.keys()), index=0)
+if group is None:
+    st.error("Please select a scenario group.")
+    st.stop()
 scenarios = SCENARIOS[group]
 scenario_names = [s["name"] for s in scenarios]
 selected_idx = st.sidebar.selectbox("Scenario", range(len(scenarios)), format_func=lambda i: scenario_names[i])
+if selected_idx is None:
+    st.error("Please select a scenario.")
+    st.stop()
 selected = scenarios[selected_idx]
 
 use_rewritten = st.sidebar.checkbox("Use rewritten for next Ask", value=True)

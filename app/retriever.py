@@ -100,14 +100,11 @@ def search_chunks(query: str, k: int = 8, topn: int | None = None, use_mmr: bool
         col = get_collection()
         qvec = get_embedding(expanded_query)
         # 2) search using query_embeddings (NOT query_texts)
-        include_list = _include_arg()
-        # Add embeddings to include_list if not present
-        if IncludeEnum:
-            if IncludeEnum.embeddings not in include_list:
-                include_list = include_list + [IncludeEnum.embeddings]
-        else:
-            if "embeddings" not in include_list:
-                include_list = include_list + ["embeddings"]
+        # Build include_list with correct type
+        include_items = ["documents", "metadatas", "distances", "embeddings"]
+        if not IncludeEnum:
+            raise RuntimeError("Chroma IncludeEnum is required for query; not found.")
+        include_list = [IncludeEnum[item] for item in include_items]
         res = col.query(
             query_embeddings=[qvec],
             n_results=max(1, int(topn)),
