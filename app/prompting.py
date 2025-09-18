@@ -1,6 +1,7 @@
-# TODO(rewrite-debug): This module is retained for a future rewrite-debug endpoint; not used by runtime.
+# TODO(rewrite-debug): Remove this file once the rewrite-debug work is done.
+# It is retained here for reference and potential future use.
 if __name__ == "__main__":
-    print("This module is not used by runtime. Retained for future rewrite-debug work.")
+    print("This file is deprecated and retained for reference only.")
 # app/prompting.py
 """
 Prompting utilities for HR Ask Local RAG system.

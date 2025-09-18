@@ -27,3 +27,7 @@ logs/
 *.npy
 # raw local sources (keep local only)
 data/raw/
+
+# Runtime artifacts
+*.pid
+eval/results/

@@ -1,4 +1,4 @@
 pydantic>=2.0
 tqdm
 tabulate
-requests
+requests>=2.31.0

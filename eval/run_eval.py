@@ -1,103 +1,27 @@
+from __future__ import annotations
+import argparse, os, sys
+from .utils import load_cases, evaluate_cases, print_summary
 
-import csv
-import os
-import sys
-import json
-from datetime import datetime
-from schema import EvalCase, EvalResult, EvalSummary
-import argparse
-import requests
-
-RESULTS_DIR = "eval/results"
-
-def load_cases(path, limit=None):
-    cases = []
-    with open(path, newline="") as f:
-        reader = csv.DictReader(f)
-        for i, row in enumerate(reader):
-            if limit and i >= limit:
-                break
-            cases.append(EvalCase(
-                id=row["id"],
-                query=row["query"],
-                expect_grounded=(row.get("expect_grounded", "false").lower() in ("1","true","yes")),
-                notes=row.get("notes")
-            ))
-    return cases
-
-def run_eval(cases, api_url):
-    results = []
-    for case in cases:
-        payload = {"query": case.query, "k": 8}
-        try:
-            resp = requests.post(api_url, json=payload, timeout=60)
-            resp.raise_for_status()
-            data = resp.json()
-            answer = data.get("answer", "")
-            citations = data.get("citations", [])
-            grounded = bool(citations)
-            if case.expect_grounded:
-                passed = grounded
-            else:
-                passed = bool(answer.strip())
-            result = EvalResult(
-                id=case.id,
-                query=case.query,
-                answer=answer,
-                citations=[c.get("display_name","") for c in citations],
-                grounded=grounded,
-                passed=passed,
-                meta={}
-            )
-        except Exception as e:
-            result = EvalResult(
-                id=case.id,
-                query=case.query,
-                answer=f"ERROR: {e}",
-                citations=[],
-                grounded=False,
-                passed=False,
-                meta={"error": str(e)}
-            )
-        results.append(result)
-    return results
-
-def summarize(results):
-    total = len(results)
-    passed = sum(r.passed for r in results)
-    failed = total - passed
-    grounded_rate = sum(r.grounded for r in results) / total if total else 0.0
-    return EvalSummary(total=total, passed=passed, failed=failed, grounded_rate=grounded_rate)
-
-def write_results(results, summary, outdir):
-    os.makedirs(outdir, exist_ok=True)
-    ts = datetime.now().strftime("%Y%m%d-%H%M")
-    # Write JSONL
-    with open(os.path.join(outdir, f"results_{ts}.jsonl"), "w") as f:
-        for r in results:
-            f.write(r.json() + "\n")
-    # Write summary
-    with open(os.path.join(outdir, f"summary_{ts}.json"), "w") as f:
-        f.write(summary.json(indent=2))
-
-def main():
+def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--api-url", default="http://127.0.0.1:8000/v1/ask")
-    parser.add_argument("--cases", default="eval/cases.sample.csv")
-    parser.add_argument("--limit", type=int, default=None)
-    parser.add_argument("--save", action="store_true")
+    parser.add_argument("--api-url", type=str, default=os.getenv("API_URL","http://localhost:8000"))
+    parser.add_argument("--cases", type=str, default="eval/cases.sample.csv")
+    parser.add_argument("--limit", type=int, default=0)
+    parser.add_argument("--save-dir", type=str, default="eval/results")
+    parser.add_argument("--verbose", action="store_true", help="Print per-case status lines")
     args = parser.parse_args()
 
-    cases = load_cases(args.cases, limit=args.limit)
-    results = run_eval(cases, api_url=args.api_url)
-    summary = summarize(results)
+    cases = load_cases(args.cases)
+    results, summary, results_path, summary_path = evaluate_cases(args.api_url, cases, limit=args.limit, save_dir=args.save_dir)
 
-    print(f"Total: {summary.total}, Passed: {summary.passed}, Failed: {summary.failed}, Grounded rate: {summary.grounded_rate:.2f}")
+    if args.verbose:
+        for r in results:
+            print(f"[{r.id}] status={r.status} grounded={r.grounded} hit={r.hit} tokens={r.answer_tokens}")
 
-    if args.save:
-        outdir = os.path.join(RESULTS_DIR)
-        write_results(results, summary, outdir)
-        print(f"Results written to {outdir}")
+    print_summary(summary)
+    print(f"\nSaved results: {results_path}")
+    print(f"Saved summary: {summary_path}")
+    return 0
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

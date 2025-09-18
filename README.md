@@ -1,4 +1,12 @@
-# Ask HR (Local)
+# Required: Persistent Index (no re-embedding on startup)
+
+**First time only (or after adding/changing docs):**
+
+```bash
+make ingest.once
+```
+
+## Ask HR (Local)
 
 Run all unit tests:
 
@@ -47,19 +55,19 @@ Features
 
 ## Evaluation
 
-You can run a local evaluation harness to test the system and record results:
+Run a small smoke test (first 5 cases):
 
-### Quick sample run
+```bash
+make eval.sample
+```
 
-    make eval.sample
+Run all sample cases and save results:
 
-Runs 5 sample queries from `eval/cases.sample.csv` and prints a summary (total, passed, failed, grounded rate).
+```bash
+make eval.save
+```
 
-### Save results
-
-    make eval.save
-
-Runs all sample queries and writes results to `eval/results/` as JSONL and summary JSON files.
+Results and summary will be saved under `eval/results/`.
 
 ### How it works
 
@@ -124,19 +132,14 @@ POST /v1/search – Retrieve raw chunks from Chroma.
 GET /v1/file/{path} – Serve a file from data/raw/.
 GET /health – Health check.
 
-## File Serving & Citations
+## File Serving & Citations\
+
 Citations now resolve through a single endpoint:
 
 GET /v1/file?path=<relative-or-prefixed-path[#anchor]>
 
 Paths may be relative to `DATA_RAW_DIR` or `DATA_CLEAN_DIR`, or explicitly prefixed with
 `data/raw/...` or `data/clean/...`. Configure roots via `.env` (see `.env.example`).
-
-Example:
-```bash
-curl -s "http://localhost:8000/v1/file?path=handbook/performance.md"
-curl -s "http://localhost:8000/v1/file?path=data/clean/chunks/handbook/performance.md#p1-2"
-```
 
 Anchors are accepted and preserved client-side, but the server returns plain text content.
 
@@ -154,3 +157,11 @@ Grounding retrieved text into prompts.
 Fixing schema mismatches in eval/.
 Improving logging/observability.
 Updating unit tests to reflect current behavior.
+
+## Quickstart (Appliance)
+
+Run everything locally (first run seeds sample docs, ingests, builds index, and launches API + UI):
+
+```bash
+make up
+```

@@ -1,114 +1,114 @@
-# ui/app.py
-import os
-import time
-import requests
-import streamlit as st
-from urllib.parse import urljoin
-from dotenv import load_dotenv
 
-load_dotenv()
-API_URL = os.getenv("API_URL", "http://localhost:8000")
-DEFAULT_MODEL = os.getenv("LLM_MODEL", "llama3.1:8b")
+import os, json, requests, textwrap, time
+import streamlit as st
+
+API_URL = os.getenv("API_URL","http://localhost:8000").rstrip("/")
 
 st.set_page_config(page_title="Ask HR (Local)", layout="centered")
 st.title("Ask HR (Local)")
+st.caption("A private HR copilot that answers with receipts.")
 
-# messages: list of {"role": "user"|"assistant", "content": str, "citations": list[dict]}
-if "messages" not in st.session_state:
-    st.session_state.messages = []
-
-# ---------------- Sidebar options ----------------
 with st.sidebar:
-    st.header("Options")
-    k = st.slider("Top k results", 4, 12, 8)
-    model = st.text_input("Model", DEFAULT_MODEL)
-    grounded = st.checkbox("Grounded only", value=False)
+    st.subheader("Answer settings")
+    k = st.number_input("Top-k sources", min_value=1, max_value=20, value=8, step=1, help="How many chunks to retrieve before composing the answer.")
+    grounded_only = st.checkbox("Grounded only", value=False, help="If on, answers will only be returned when sources are found. Otherwise, a best-effort answer may be generated with a clear note.")
+    st.divider()
+    st.subheader("Health")
+    colh1, colh2 = st.columns(2)
+    with colh1:
+        if st.button("Check API"):
+            try:
+                r = requests.get(f"{API_URL}/health", timeout=5)
+                st.write(r.json())
+            except Exception as e:
+                st.error(f"/health failed: {e}")
+    with colh2:
+        if st.button("Check Ollama"):
+            try:
+                r = requests.get(f"{API_URL}/health/ollama", timeout=5)
+                st.write(r.json())
+            except Exception as e:
+                st.error(f"/health/ollama failed: {e}")
+    st.caption("Tip: Use `make ingest.update` when you add docs. Startup never re-embeds; indexing is persistent & incremental.")
 
-    if st.button("Health Check"):
-        try:
-            resp = requests.get(f"{API_URL}/health", timeout=10)
-            resp.raise_for_status()
-            st.success(resp.json())
-        except Exception as e:
-            st.toast(f"Health check failed: {e}", icon="⚠️")
+st.write("Ask anything about HR:")
+query = st.text_area(
+    "Question",
+    value="",
+    height=120,
+    placeholder="Examples: “What are the key steps in our PIP?”, “Draft a 30/60/90 for a new backend engineer”, “How does PTO accrue?”",
+    label_visibility="collapsed",
+    key="qa_query",
+)
 
-# ---------------- Helpers ----------------
-def stream_tokens(text: str, delay: float = 0.002):
-    """Client-side visual streaming for a completed answer."""
-    for tk in text.split():
-        st.write(tk + " ", end="", unsafe_allow_html=True)
-        time.sleep(delay)
+colq1, colq2 = st.columns([1,1])
+with colq1:
+    ask_clicked = st.button("Ask", type="primary")
+with colq2:
+    clear_clicked = st.button("Clear")
 
-def norm_url(u: str) -> str:
-    """Normalize API-relative URLs to absolute so the browser can open them."""
-    if not u:
-        return ""
-    return urljoin(API_URL, u) if u.startswith("/") else u
+if clear_clicked:
+    st.experimental_rerun()
 
-def render_citations(citations):
-    """Render citation objects: display_name + Open / Download PDF links."""
-    if not citations:
-        return
-    with st.expander("Citations"):
-        for c in citations:
-            label = c.get("display_name") or c.get("open_url") or "Source"
-            open_url = norm_url(c.get("open_url", ""))
-            pdf_url = norm_url(c.get("pdf_url", ""))
+if not query.strip():
+    st.info("Enter a question and click **Ask**. Enable **Grounded only** to require sources.", icon="💡")
 
-            parts = []
-            if open_url:
-                parts.append(f"[Open]({open_url})")
-            if pdf_url:
-                parts.append(f"[Download PDF]({pdf_url})")
-
-            suffix = " • ".join(parts) if parts else ""
-            if suffix:
-                st.markdown(f"- **{label}** — {suffix}")
-            else:
-                st.markdown(f"- **{label}**")
-
-# ---------------- Transcript (input stays at bottom) ----------------
-for msg in st.session_state.messages:
-    with st.chat_message("user" if msg["role"] == "user" else "assistant"):
-        if msg["role"] == "assistant":
-            st.markdown(msg.get("content", ""))
-            render_citations(msg.get("citations", []))
-        else:
-            st.markdown(msg.get("content", ""))
-
-# ---------------- Chat input ----------------
-prompt = st.chat_input("Ask about your HR corpus…")
-if prompt:
-    st.session_state.messages.append({"role": "user", "content": prompt})
-
+def ask_api(payload: dict) -> dict:
     try:
-        r = requests.post(
-            f"{API_URL}/v1/ask",
-            json={
-                "query": prompt.strip(),
-                "k": k,
-                "system": None,
-                "grounded_only": grounded,
-                "model": model,
-            },
-            timeout=120,
-        )
-        r.raise_for_status()
-        data = r.json()
-
-        answer = data.get("answer", "")
-        citations = data.get("citations", [])
-        if not isinstance(citations, list):
-            citations = []
-
-        st.session_state.messages.append(
-            {"role": "assistant", "content": answer, "citations": citations}
-        )
-        # re-render to keep the newest message in view and stream tokens
-        st.experimental_rerun()
-
-    except requests.HTTPError as he:
-        detail = he.response.text if getattr(he, "response", None) else str(he)
-        st.toast(f"API error: {detail}", icon="❌")
+        r = requests.post(f"{API_URL}/v1/ask", json=payload, timeout=90)
+        if r.headers.get("content-type","").startswith("application/json"):
+            data = r.json()
+            rid_hdr = r.headers.get("X-Request-ID")
+            if rid_hdr and not data.get("request_id"):
+                data["request_id"] = rid_hdr
+            return data
+        return {"error": f"Non-JSON response: {r.status_code}", "answer": "", "citations": []}
     except Exception as e:
-        st.toast(f"Request failed: {e}", icon="❌")
+        return {"error": str(e), "answer": "", "citations": []}
+
+if ask_clicked and query.strip():
+    payload = {"query": query.strip(), "k": int(k), "grounded_only": bool(grounded_only)}
+    with st.spinner("Retrieving sources and composing answer…"):
+        t0 = time.time()
+        data = ask_api(payload)
+        elapsed = time.time() - t0
+
+    req_id = data.get("request_id") or "n/a"
+    err = (data.get("error") or "").strip()
+    answer = (data.get("answer") or "").strip()
+    citations = data.get("citations") or []
+    ungrounded = bool(data.get("ungrounded"))
+
+    if err:
+        st.error(f"AskHR could not answer: {err}\n\n`request_id: {req_id}`")
+    else:
+        st.success("Answer ready.")
+        if ungrounded:
+            st.warning("This answer may be ungrounded (no matching sources).", icon="⚠️")
+        if answer:
+            st.markdown(answer)
+
+        if citations:
+            st.divider()
+            st.caption("Citations")
+            for i, c in enumerate(citations, 1):
+                path = c.get("source_path") if isinstance(c, dict) else str(c)
+                url = f"{API_URL}/v1/file?path={path}"
+                st.markdown(f"[{i}] {path}  \n{url}")
+
+        if answer:
+            md_lines = [answer, ""]
+            if citations:
+                md_lines.append("## Sources")
+                for i, c in enumerate(citations, 1):
+                    path = c.get("source_path") if isinstance(c, dict) else str(c)
+                    url = f"{API_URL}/v1/file?path={path}"
+                    md_lines.append(f"[{i}] {path}\n{url}")
+            md_content = "\n\n".join(md_lines)
+            st.download_button("Download Answer (.md)", md_content, file_name="askhr_answer.md", mime="text/markdown")
+
+        st.caption(f"request_id: {req_id} • latency: {elapsed:.2f}s")
+
+    with st.expander("Debug (request/response)"):
+        st.code(json.dumps(payload, indent=2), language="json")
+        st.code(json.dumps(data, indent=2), language="json")
