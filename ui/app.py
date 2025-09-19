@@ -32,6 +32,7 @@ with st.sidebar:
         except Exception as e:
             st.toast(f"Health check failed: {e}", icon="⚠️")
 
+
 # ---------------- Helpers ----------------
 def stream_tokens(text: str, delay: float = 0.002):
     """Client-side visual streaming for a completed answer."""
@@ -39,11 +40,13 @@ def stream_tokens(text: str, delay: float = 0.002):
         st.write(tk + " ", end="", unsafe_allow_html=True)
         time.sleep(delay)
 
+
 def norm_url(u: str) -> str:
     """Normalize API-relative URLs to absolute so the browser can open them."""
     if not u:
         return ""
     return urljoin(API_URL, u) if u.startswith("/") else u
+
 
 def render_citations(citations):
     """Render citation objects: display_name + Open / Download PDF links."""
@@ -67,12 +70,31 @@ def render_citations(citations):
             else:
                 st.markdown(f"- **{label}**")
 
+
 # ---------------- Transcript (input stays at bottom) ----------------
 for msg in st.session_state.messages:
     with st.chat_message("user" if msg["role"] == "user" else "assistant"):
         if msg["role"] == "assistant":
             st.markdown(msg.get("content", ""))
-            render_citations(msg.get("citations", []))
+            cits = msg.get("citations") or []
+            if cits:
+                st.markdown("**Sources**")
+                for i, c in enumerate(cits, 1):
+                    # tolerate either dict or string
+                    if isinstance(c, dict):
+                        name = (
+                            c.get("display_name") or c.get("source_path") or c.get("id") or "Source"
+                        )
+                        path = c.get("source_path")
+                    else:
+                        name, path = str(c), None
+                    if path:
+                        st.markdown(
+                            f"{i}. {name}  \n<small><code>{path}</code></small>",
+                            unsafe_allow_html=True,
+                        )
+                    else:
+                        st.markdown(f"{i}. {name}")
         else:
             st.markdown(msg.get("content", ""))
 
@@ -105,7 +127,7 @@ if prompt:
             {"role": "assistant", "content": answer, "citations": citations}
         )
         # re-render to keep the newest message in view and stream tokens
-        st.experimental_rerun()
+        st.rerun()
 
     except requests.HTTPError as he:
         detail = he.response.text if getattr(he, "response", None) else str(he)

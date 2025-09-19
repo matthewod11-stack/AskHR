@@ -1,23 +1,18 @@
-id,question,must_have,min_citations,k
-pip,What are the key elements of a performance improvement plan?,"timeline|sbi|measurable|review meeting|owner",2,8
-final_paycheck,What are the rules for providing a final paycheck in California?,"final|paycheck|california|waiting time|penalty",2,8
-exempt_test,How do you determine if an employee is exempt vs non-exempt?,"duties|salary basis|threshold|overtime|classification",2,8
-scorecard,What should an interview scorecard include?,"criteria|rating scale|consistency|behavioral|feedback",2,8
-handbook_toc,What are the common sections of an employee handbook?,"introduction|policies|benefits|conduct|acknowledgment",2,8
-plan_306090,Provide a 30-60-90 day plan template for a new engineer.,"30|60|90|goals|milestones",2,8
-pto_policy,What should a compliant PTO policy cover?,"accrual|carryover|sick leave|state law|payout",2,8
-discipline,What are the standard steps in a progressive discipline process?,"verbal|written|suspension|termination|documentation",2,8
-harassment_training,What are California’s harassment training requirements?,"ab 1825|ab 1343|supervisors|2 hours|mandatory",2,8
-termination_doc,What needs to be documented during a termination?,"reason|witness|date|exit interview|final pay",2,8
-gdpr_ccpa,How should HR handle GDPR/CCPA employee data requests?,"access|delete|export|timeline|compliance",2,8
-remote_stipend,What should a remote work equipment stipend policy include?,"equipment|reimbursement|limit|receipt|approval",2,8
-background_checks,What are best practices for pre-employment background checks?,"consent|fcra|adverse action|accuracy|disclosure",2,8
-i9,What are the Form I-9 requirements for U.S. employers?,"identity|employment eligibility|e-verify|3 days|retention",2,8
-pay_equity,What are the basics of a pay equity analysis?,"compensation|gender|race|disparity|adjustments",2,8
-leave_fmla,What are the eligibility requirements for FMLA?,"12 months|1250 hours|50 employees|job protection|health benefits",2,8
-eeoc,What is the EEOC complaint process?,"charge|investigation|mediation|right to sue|discrimination",2,8
-job_description,What should a well-written job description include?,"title|responsibilities|qualifications|reporting|exempt",2,8
-onboarding,What are the key steps in a new hire onboarding process?,"orientation|paperwork|training|mentor|checklist",2,8
+id,query,expect_grounded,notes,keywords
+001,What is a Performance Improvement Plan (PIP) and what sections should it include?,true,Template and steps expected in docs; should be grounded with citations,
+002,Give me a simple monthly attrition formula and an example using 5 leavers and avg headcount 50,true,Core metric; should be grounded and show calculation,
+003,Outline a 30-60-90 plan for onboarding a new software engineer,true,Expect grounded if templates exist; otherwise should still cite or flag ungrounded,
+# Demo rows with keywords
+demo_pip,What is a PIP and why is it used?,true,Should mention performance, improvement, and timeline,PIP;performance;timeline
+demo_attrition,How do you calculate attrition?,false,Should mention formula and leavers,attrition;formula;leavers
+demo_onboarding,What are the phases of onboarding?,false,Should mention 30-60-90,30-60-90;onboarding;phases
+004,What is our PTO policy for contractors?,false,Policy likely not in corpus; answer should flag insufficient evidence.
+005,Show headcount trend by department for 2023,false,Requires uploaded HR data; likely ungrounded in a clean repo.
+006,How do annual performance reviews work and how should calibration run?,true,Common HR guidance; should ground in docs if present.
+007,Provide a clean PIP template I can copy/paste,true,Template expected; grounded with placeholders and citations.
+008,Do California meal and rest break rules apply to exempt employees?,false,Legal/jurisdictional; likely not in corpus—should caution / not fabricate.
+009,Generate SQL to compute month-end headcount from hires and terms,false,Code request; usually ungrounded unless examples exist.
+010,Define DEI metrics for individual contributors in Q2 2024,false,Requires org data; should be ungrounded with a “need more data” note.
 engagement_survey,What are best practices for employee engagement surveys?,"anonymous|frequency|benchmark|action plan|feedback",2,8
 hybrid_policy,What should a hybrid work policy cover?,"schedule|eligibility|equipment|communication|expectations",2,8
 diversity_metrics,What are common HR diversity metrics?,"representation|hiring|promotion|attrition|pay equity",2,8

@@ -3,11 +3,14 @@ from pathlib import Path
 from typing import Optional, Tuple
 from .config import settings
 
+
 class PathResolutionError(ValueError):
     pass
 
+
 RAW_PREFIXES = ("data/raw/", "raw/")
 CLEAN_PREFIXES = ("data/clean/", "clean/")
+
 
 def _strip_anchor(p: str) -> tuple[str, Optional[str]]:
     if "#" in p:
@@ -15,12 +18,14 @@ def _strip_anchor(p: str) -> tuple[str, Optional[str]]:
         return base, anchor
     return p, None
 
+
 def _within(root: Path, candidate: Path) -> bool:
     try:
         candidate.relative_to(root)
         return True
     except Exception:
         return False
+
 
 def normalize_source_path(source_path: str) -> Tuple[Path, Optional[str]]:
     """
@@ -46,17 +51,25 @@ def normalize_source_path(source_path: str) -> Tuple[Path, Optional[str]]:
     # Case 1: explicit raw/clean prefix — strip and join to the correct root
     for pref in RAW_PREFIXES:
         if norm.startswith(pref):
-            tail = norm[len(pref):]
+            tail = norm[len(pref) :]
             candidate = (settings.DATA_RAW_DIR / tail).resolve()
-            if candidate.exists() and candidate.is_file() and _within(settings.DATA_RAW_DIR.resolve(), candidate):
+            if (
+                candidate.exists()
+                and candidate.is_file()
+                and _within(settings.DATA_RAW_DIR.resolve(), candidate)
+            ):
                 return candidate, anchor
             raise PathResolutionError(f"Could not resolve path under raw: {source_path}")
 
     for pref in CLEAN_PREFIXES:
         if norm.startswith(pref):
-            tail = norm[len(pref):]
+            tail = norm[len(pref) :]
             candidate = (settings.DATA_CLEAN_DIR / tail).resolve()
-            if candidate.exists() and candidate.is_file() and _within(settings.DATA_CLEAN_DIR.resolve(), candidate):
+            if (
+                candidate.exists()
+                and candidate.is_file()
+                and _within(settings.DATA_CLEAN_DIR.resolve(), candidate)
+            ):
                 return candidate, anchor
             raise PathResolutionError(f"Could not resolve path under clean: {source_path}")
 
@@ -66,7 +79,11 @@ def normalize_source_path(source_path: str) -> Tuple[Path, Optional[str]]:
         return raw_try, anchor
 
     clean_try = (settings.DATA_CLEAN_DIR / norm).resolve()
-    if clean_try.exists() and clean_try.is_file() and _within(settings.DATA_CLEAN_DIR.resolve(), clean_try):
+    if (
+        clean_try.exists()
+        and clean_try.is_file()
+        and _within(settings.DATA_CLEAN_DIR.resolve(), clean_try)
+    ):
         return clean_try, anchor
 
     raise PathResolutionError(f"Could not resolve path: {source_path}")

@@ -1,10 +1,28 @@
 # Ask HR (Local)
 
-Run all unit tests:
+## Quick Start for Contributors
 
-  make test
+**Requirements:** Python 3.11, virtualenv recommended.
 
-Tests currently cover schemas (mutable defaults) and grounded prompt composer smoke tests.
+```sh
+python3.11 -m venv .venv
+source .venv/bin/activate
+make deps && make qa
+```
+
+**Common commands:**
+
+- `make deps` — install all dependencies (dev included)
+- `make qa` — run format, lint, typecheck, and tests
+- `make test` — run unit tests only
+
+**Guardrails:**
+
+- Tests enforce persona inclusion ("Chief People Officer") in prompts
+- Tests enforce relative import for `CaseRow` in `eval/utils.py`
+- Packaging/import tests for `app.config` and `pydantic_settings`
+
+See `.github/workflows/ci.yml` for CI details. All PRs must pass QA and guardrail tests.
 
 ## Overview
 
@@ -51,15 +69,11 @@ You can run a local evaluation harness to test the system and record results:
 
 ### Quick sample run
 
-    make eval.sample
+make eval.sample    # first 5 cases
+make eval.save      # full suite, persisted results
 
-Runs 5 sample queries from `eval/cases.sample.csv` and prints a summary (total, passed, failed, grounded rate).
-
-### Save results
-
-    make eval.save
-
-Runs all sample queries and writes results to `eval/results/` as JSONL and summary JSON files.
+Note: If you see ImportError for relative imports, use:
+  python -m eval.run_eval --api-url ...
 
 ### How it works
 
@@ -125,6 +139,7 @@ GET /v1/file/{path} – Serve a file from data/raw/.
 GET /health – Health check.
 
 ## File Serving & Citations
+
 Citations now resolve through a single endpoint:
 
 GET /v1/file?path=<relative-or-prefixed-path[#anchor]>
@@ -133,12 +148,35 @@ Paths may be relative to `DATA_RAW_DIR` or `DATA_CLEAN_DIR`, or explicitly prefi
 `data/raw/...` or `data/clean/...`. Configure roots via `.env` (see `.env.example`).
 
 Example:
+
 ```bash
 curl -s "http://localhost:8000/v1/file?path=handbook/performance.md"
 curl -s "http://localhost:8000/v1/file?path=data/clean/chunks/handbook/performance.md#p1-2"
 ```
 
 Anchors are accepted and preserved client-side, but the server returns plain text content.
+
+## Ingestion Lifecycle & Snapshots
+
+**First run:**
+
+make ingest.once
+
+**Update after changing docs:**
+
+make ingest.update
+
+**Snapshots:**
+
+make index.snapshot.save
+make index.snapshot.load
+
+- Manifest lives at `index/manifest.json`.
+- Chunks include `doc_uid` and `file_sha256` in their metadata.
+- First run ingests all files and writes the manifest.
+- Subsequent runs skip unchanged files for fast incremental updates.
+- Deleting a doc and running `make ingest.update` purges its chunks from Chroma.
+- Snapshots allow fast backup/restore of the Chroma index and manifest.
 
 Known Issues / To-Dos
 Grounded answers: Retrieved text not passed into LLM prompt yet.

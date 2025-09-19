@@ -1,12 +1,12 @@
 from pathlib import Path
-import os
 import importlib
-import types
 import pytest
+
 
 def write(p: Path, content: str):
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(content, encoding="utf-8")
+
 
 @pytest.fixture()
 def temp_data_dirs(tmp_path, monkeypatch):
@@ -17,6 +17,7 @@ def temp_data_dirs(tmp_path, monkeypatch):
     monkeypatch.setenv("DATA_RAW_DIR", str(raw))
     monkeypatch.setenv("DATA_CLEAN_DIR", str(clean))
     return raw, clean
+
 
 def test_normalize_and_file_endpoint(temp_data_dirs):
     raw, clean = temp_data_dirs
@@ -50,15 +51,17 @@ def test_normalize_and_file_endpoint(temp_data_dirs):
 
     # Spin up a test client and hit /v1/file for both
     from fastapi.testclient import TestClient
+
     client = TestClient(app_module.app)
 
     r1 = client.get("/v1/file", params={"path": raw_file_rel.as_posix()})
     assert r1.status_code == 200
     assert "PIP Policy" in r1.text
 
-    r2 = client.get("/v1/file", params={"path": f'data/clean/{clean_file_rel.as_posix()}#p1-2'})
+    r2 = client.get("/v1/file", params={"path": f"data/clean/{clean_file_rel.as_posix()}#p1-2"})
     assert r2.status_code == 200
     assert "Chunked content here" in r2.text
+
 
 def test_traversal_blocked(temp_data_dirs):
     raw, clean = temp_data_dirs
@@ -67,5 +70,6 @@ def test_traversal_blocked(temp_data_dirs):
     outside.write_text("nope", encoding="utf-8")
 
     from app.paths import PathResolutionError, normalize_source_path
+
     with pytest.raises(PathResolutionError):
         normalize_source_path("../outside.txt")

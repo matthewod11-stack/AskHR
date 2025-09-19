@@ -1,10 +1,12 @@
-from app.prompting import maybe_rewrite_query, build_user_prompt, build_rewrite_messages
+from app.prompting import maybe_rewrite_query, build_user_prompt
+
 
 def _echo_llm(msgs):
     # emulate a rewriter that returns the packed NEW_USER as-is
     text = msgs[-1]["content"]
     marker = "NEW_USER:"
     return text.split(marker, 1)[1].strip() if marker in text else text
+
 
 def test_rewrite_and_prompt():
     last_user = "show attrition by department"
@@ -17,3 +19,5 @@ def test_rewrite_and_prompt():
     prompt = build_user_prompt(final_query)
     assert "Chief People Officer" in prompt
     assert final_query in prompt
+    # Guardrail: persona must precede user question
+    assert prompt.find("Chief People Officer") < prompt.find(final_query)

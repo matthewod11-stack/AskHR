@@ -1,5 +1,5 @@
-import pytest
 from app.prompting_grounded import build_grounded_prompt
+
 
 def test_build_grounded_prompt_smoke():
     chunks = [
@@ -8,15 +8,15 @@ def test_build_grounded_prompt_smoke():
             "pages": "1",
             "content": "Alpha",
             "chunk_id": "chunk1",
-            "source_path": "doc1.md"
+            "source_path": "doc1.md",
         },
         {
             "title": "Doc 2",
             "pages": "2",
             "content": "Beta",
             "chunk_id": "chunk2",
-            "source_path": "doc2.md"
-        }
+            "source_path": "doc2.md",
+        },
     ]
     question = "What is X?"
     persona = "You are a helpful assistant."

@@ -3,6 +3,7 @@ import json
 import sys
 from datetime import datetime
 
+
 class JsonLogFormatter(logging.Formatter):
     def format(self, record):
         log = {
@@ -13,6 +14,7 @@ class JsonLogFormatter(logging.Formatter):
             "module": record.module,
         }
         return json.dumps(log)
+
 
 logger = logging.getLogger("askhr")
 logger.setLevel(logging.INFO)
