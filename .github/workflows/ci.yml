@@ -6,12 +6,36 @@ on:
   pull_request:
     branches: [main]
 
+
 jobs:
-  test:
+  build-test:
     runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: .
     steps:
-      - uses: actions/checkout@v3
-      # ...existing test steps...
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/pyproject.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install deps
+        run: |
+          python -m pip install -U pip
+          pip install -e ".[dev]"
+      - name: Lint
+        run: ruff check .
+      - name: Format check
+        run: black --check .
+      - name: Type check
+        run: mypy .
+      - name: Tests
+        run: pytest -q
 
   eval_sample:
     runs-on: ubuntu-latest

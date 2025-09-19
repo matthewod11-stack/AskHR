@@ -5,18 +5,23 @@ Derive human-friendly display names for sources.
 2) Else call local LLM (Ollama) once per source file to summarize a 6-10 word title.
 Writes a mapping to data/display_names.json and can optionally update Chroma metadata.
 """
-import os, json, pathlib, re, httpx
+import os
+import json
+import pathlib
+import re
+import httpx
 from dotenv import load_dotenv
-from app.store import get_collection
 
 load_dotenv()
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CLEAN = pathlib.Path(os.getenv("DATA_CLEAN", ROOT / "data/clean"))
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434")
 
+
 def h1_from_markdown(body: str) -> str | None:
     m = re.search(r"^#\s+(.+)$", body, flags=re.MULTILINE)
     return m.group(1).strip() if m else None
+
 
 def llm_title(text: str) -> str:
     prompt = (
@@ -24,9 +29,10 @@ def llm_title(text: str) -> str:
         + text[:2000]
     )
     with httpx.Client(timeout=30) as c:
-        r = c.post(f"{OLLAMA_URL}/api/generate", json={"model":"llama3.1:8b","prompt":prompt})
+        r = c.post(f"{OLLAMA_URL}/api/generate", json={"model": "llama3.1:8b", "prompt": prompt})
         r.raise_for_status()
-        return r.json().get("response","").strip()
+        return r.json().get("response", "").strip()
+
 
 def main(update_index: bool = True):
     # Build map from source_path → display_name
@@ -46,7 +52,8 @@ def main(update_index: bool = True):
         title = None
         for b in bodies:
             title = h1_from_markdown(b)
-            if title: break
+            if title:
+                break
         if not title:
             # fallback: LLM title from the first body
             title = llm_title(bodies[0])
@@ -58,10 +65,13 @@ def main(update_index: bool = True):
     print(f"[names] wrote {out} with {len(name_map)} entries")
 
     if update_index:
-        col = get_collection()
+        # col removed (unused)
         # best-effort: update metadatas in place (Chroma python API allows upserts; not all versions support update)
         # We can re-add docs with same IDs but new metadatas; here we only return the map; API will use it to decorate citations.
-        print("[names] Skipping direct Chroma updates; the API will decorate citations using display_names.json")
+        print(
+            "[names] Skipping direct Chroma updates; the API will decorate citations using display_names.json"
+        )
+
 
 if __name__ == "__main__":
     main()

@@ -101,7 +101,7 @@ def main():
         for chunk in batched(ids, 256):
             try:
                 got = col.get(ids=chunk, include=["ids"]) or {}
-                for cid in (got.get("ids") or []):
+                for cid in got.get("ids") or []:
                     existing.add(cid)
             except Exception:
                 # If get by ids isn't supported, treat as none existing
